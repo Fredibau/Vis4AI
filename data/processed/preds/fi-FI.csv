@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,fi-FI,iot,iot_hue_lightoff,olly laita valot pois makuuhuoneessa,iot_hue_lightoff,0.8668,0.8668,True
+47,fi-FI,datetime,datetime_query,paljon kello on australiassa,social_post,0.9273,0.001,False
+85,fi-FI,datetime,datetime_query,kerro minulle tämän päivän päivämäärä,weather_query,0.6683,0.2973,False
+86,fi-FI,datetime,datetime_query,mikä päivämäärä tänään on,weather_query,0.9982,0.0002,False
+100,fi-FI,weather,weather_query,mikä on tämän viikon sääennuste,weather_query,0.9992,0.9992,True
+102,fi-FI,weather,weather_query,millainen on tämän viikon sää,weather_query,0.9995,0.9995,True
+103,fi-FI,weather,weather_query,kerro minulle tämän viikon sää,weather_query,0.9997,0.9997,True
+128,fi-FI,datetime,datetime_query,mikä päivämäärä on,datetime_query,0.4041,0.4041,True
+151,fi-FI,play,play_music,soita se uudelleen ole hyvä,play_music,0.9989,0.9989,True
+177,fi-FI,news,news_query,kerro minulle jotain bisnes uutisia,cooking_recipe,0.9,0.0002,False
+178,fi-FI,news,news_query,kerro minulle kansainväliset uutiset,social_post,0.5596,0.0018,False
+182,fi-FI,play,play_music,soita rock soittolistani,qa_factoid,0.8452,0.0801,False
+185,fi-FI,play,play_music,laita päälle minun soittolista ja soita kolmas laulu jonossa,play_music,0.9583,0.9583,True
+197,fi-FI,datetime,datetime_query,mitä kello on,qa_factoid,0.4587,0.0087,False
+216,fi-FI,weather,weather_query,millainen sää on tänään,weather_query,0.9993,0.9993,True
+219,fi-FI,weather,weather_query,pitäisikö mun ottaa sateenvarjo huomenna,iot_hue_lightoff,0.9997,0.0002,False
+220,fi-FI,play,play_music,soita musiikkia minun rokkilistalta,play_music,0.9423,0.9423,True
+250,fi-FI,play,play_music,minulla on jazz fiilis juuri nyt mites sinulla,qa_factoid,0.8728,0.0774,False
+254,fi-FI,play,play_music,olly soita hyvä kappale suosikkijazzmuusikoltani,play_music,0.9995,0.9995,True
+279,fi-FI,weather,weather_query,mikä on berliinin tämän päivän sääennuste,weather_query,0.9986,0.9986,True
+281,fi-FI,news,news_query,mikä on vaihtokurssi yhdysvaltojen dollarista englannin puntaan,qa_factoid,0.9569,0.0015,False
+296,fi-FI,play,play_music,soita neljä ruusua soittolista,play_music,0.9999,0.9999,True
+297,fi-FI,play,play_music,sekoita kappaleet samuli putrolta,social_post,0.4965,0.012,False
+299,fi-FI,weather,weather_query,millainen sää on,weather_query,0.9989,0.9989,True
+310,fi-FI,datetime,datetime_query,mikä päivä uudenvuodenpäivä on tänä vuonna,weather_query,0.9702,0.0037,False
+319,fi-FI,weather,weather_query,kerro minulle sää barcelonassa kahden päivän päästä,weather_query,0.9996,0.9996,True
+329,fi-FI,play,play_music,seitsemän vuoden välein,datetime_query,0.5378,0.0052,False
+333,fi-FI,weather,weather_query,millaiset sää olosuhteet ovat turussa,weather_query,0.9942,0.9942,True
+334,fi-FI,weather,weather_query,haluaisin tietää sään turussa,weather_query,0.9997,0.9997,True
+344,fi-FI,weather,weather_query,onko huomenna sateista,qa_factoid,0.8775,0.0001,False
+348,fi-FI,weather,weather_query,huomenna sataa,qa_factoid,0.9628,0.0001,False
+355,fi-FI,datetime,datetime_query,mikä viikonpäivä ensimmäinen huhtikuuta on,datetime_query,0.8862,0.8862,True
+360,fi-FI,datetime,datetime_query,mikä on aika nyt,qa_factoid,0.6886,0.0132,False
+362,fi-FI,play,play_music,soita toinen kappale yotton kappaleista,email_sendemail,0.4677,0.0609,False
+366,fi-FI,news,news_query,kerro minulle viimeisimmät uutiset kiitos,news_query,0.9893,0.9893,True
+369,fi-FI,iot,iot_hue_lightoff,sammuta valot,iot_hue_lightoff,0.996,0.996,True
+385,fi-FI,news,news_query,mitä sensaatiomaista die zeitissä,qa_factoid,0.36,0.0108,False
+391,fi-FI,play,play_music,soita satunnainen kappale soittolistaltani,play_music,1.0,1.0,True
+393,fi-FI,play,play_music,toista retro lauluja minun soittolistaltani,play_music,0.822,0.822,True
+397,fi-FI,play,play_music,soita mikä tahansa kappale dannyltä,play_music,0.9998,0.9998,True
+400,fi-FI,play,play_music,aloita soittaminen,play_music,0.992,0.992,True
+407,fi-FI,play,play_music,voitko soittaa rock musiikkia seuraavan tunnin,play_music,0.9999,0.9999,True
+424,fi-FI,news,news_query,mitkä on viimeisimmät uutiset,news_query,0.9925,0.9925,True
+427,fi-FI,iot,iot_hue_lightoff,sammuta valot kylpyhuoneesta,iot_hue_lightoff,1.0,1.0,True
+428,fi-FI,iot,iot_hue_lightoff,sammuta kylpyhuone valot,iot_hue_lightoff,0.998,0.998,True
+430,fi-FI,weather,weather_query,millaine sää on nyt,weather_query,0.9967,0.9967,True
+437,fi-FI,play,play_music,avaa bad religion kansio,social_post,0.9982,0.0001,False
+441,fi-FI,news,news_query,mitkä ovat viimeisimmät uutisotsikot,news_query,0.9965,0.9965,True
+442,fi-FI,news,news_query,mitä uutisissa tapahtuu,news_query,0.9996,0.9996,True
+451,fi-FI,news,news_query,hae minulle viimeisin osakehinta nokialle,qa_factoid,0.9491,0.0015,False
+473,fi-FI,play,play_music,soita weekend,calendar_remove,0.2529,0.029,False
+486,fi-FI,datetime,datetime_query,paljonko kello on new yorkissa,social_post,0.8903,0.0024,False
+491,fi-FI,weather,weather_query,onko ulkona kylmä,iot_hue_lightoff,0.9145,0.0714,False
+506,fi-FI,play,play_music,avaa behmin kappaleet,qa_factoid,0.9897,0.0001,False
+512,fi-FI,weather,weather_query,get marksilta,qa_factoid,0.9989,0.0,False
+540,fi-FI,play,play_music,soita se kappale jonka laulaa katri helena,play_music,1.0,1.0,True
+555,fi-FI,play,play_music,soita mitä tahansa haloo helsinki,play_music,0.9985,0.9985,True
+576,fi-FI,play,play_music,soita soittolistan kaikki,play_music,1.0,1.0,True
+585,fi-FI,news,news_query,näytä uusimmat uutiset,news_query,0.9828,0.9828,True
+588,fi-FI,news,news_query,mitkä on tämän päivän uudet uutiset,news_query,0.9988,0.9988,True
+590,fi-FI,weather,weather_query,millainen on tämänhetkinen sää,weather_query,0.9996,0.9996,True
+614,fi-FI,play,play_music,aloita soittolista,play_music,0.9995,0.9995,True
+625,fi-FI,play,play_music,soita ikuinen vappu laulu,social_post,0.996,0.0003,False
+631,fi-FI,news,news_query,aseta ilmoitus uutisista jotka koskevat venäjän kaasuputkea,news_query,0.9809,0.9809,True
+651,fi-FI,iot,iot_hue_lightoff,sammuta huoneen valot,iot_hue_lightoff,0.9998,0.9998,True
+660,fi-FI,datetime,datetime_query,tämän hetkinen aika japanissa,qa_factoid,0.7489,0.0004,False
+680,fi-FI,news,news_query,informoi minua bitcoinin hinnasta,qa_factoid,0.9995,0.0,False
+686,fi-FI,datetime,datetime_query,paljonko kello on nyt new yorkissa,news_query,0.4794,0.012,False
+712,fi-FI,news,news_query,haluan kuulla ylen tuoreimmat uutiset,qa_factoid,0.7701,0.0003,False
+726,fi-FI,weather,weather_query,tiivistä viikon sää tiedot,weather_query,0.9957,0.9957,True
+730,fi-FI,iot,iot_hue_lightoff,laita valot pois päältä,iot_hue_lightoff,0.9308,0.9308,True
+738,fi-FI,weather,weather_query,kuinka kylmä ulkona on tänään,weather_query,0.9976,0.9976,True
+764,fi-FI,weather,weather_query,millainen sääennuste tälle viikolle,weather_query,0.9975,0.9975,True
+765,fi-FI,news,news_query,voisitko antaa minulle tuoreimmat uutisotsikot uusimmasta hankkijastani,news_query,0.7742,0.7742,True
+767,fi-FI,news,news_query,voisitko etsiä viimeisimmät uutiset lähteestä jota en normaalisti käytä,news_query,0.9291,0.9291,True
+768,fi-FI,news,news_query,kerro tuoreimmat uutiset politiikasta,qa_factoid,0.9954,0.0,False
+779,fi-FI,play,play_music,minä haluan kuunnella snow red hot chili peppersiltä,cooking_recipe,0.9995,0.0,False
+781,fi-FI,play,play_music,toista bilando,social_post,0.9239,0.0018,False
+782,fi-FI,play,play_music,soita let me love you ariana grandelta,social_post,0.9991,0.0,False
+783,fi-FI,play,play_music,soita rakkauslauluja,qa_factoid,0.9895,0.0,False
+790,fi-FI,weather,weather_query,leuto vai raskas sää,weather_query,0.8414,0.8414,True
+826,fi-FI,weather,weather_query,mikä on tämänhetkinen ulko lämpötila,weather_query,0.9845,0.9845,True
+827,fi-FI,play,play_music,toista bob dylan soittolista,play_music,0.7638,0.7638,True
+832,fi-FI,weather,weather_query,hei millainen on huomisen ennustettu sää,weather_query,0.9988,0.9988,True
+837,fi-FI,news,news_query,mitkä ovat b. b. c. kyselyn ennusteet tulevista yhdysvaltain vaaleista,qa_factoid,0.8664,0.0133,False
+891,fi-FI,play,play_music,soita jotain kristillistä musiikkia,play_music,1.0,1.0,True
+914,fi-FI,iot,iot_hue_lightoff,ole hyvä käännä valot pois,iot_hue_lightoff,0.9295,0.9295,True
+936,fi-FI,play,play_music,avaa ja soita musiikkia juoksusoittolistalta,play_music,0.9778,0.9778,True
+951,fi-FI,weather,weather_query,millainen sää on juuri nyt helsingissä,weather_query,0.9988,0.9988,True
+969,fi-FI,news,news_query,uudet artikkelit tietystä aiheesta,news_query,0.9573,0.9573,True
+974,fi-FI,datetime,datetime_query,paljonko kello on new yorkissa nyt,recommendation_events,0.9037,0.0018,False
+997,fi-FI,iot,iot_hue_lightoff,sammuta olohuoneen valo,email_sendemail,0.9979,0.0021,False
+999,fi-FI,iot,iot_hue_lightoff,laittaisitko valon pois päältä,iot_hue_lightoff,0.8948,0.8948,True
+1007,fi-FI,play,play_music,soita apulanta mun rokki soittolistasta,iot_hue_lightoff,0.3479,0.0147,False
+1014,fi-FI,datetime,datetime_query,paljonko kello on lontoossa juuri nyt,weather_query,0.3997,0.0059,False
+1047,fi-FI,play,play_music,tarvitsen hyvän itkun soitatko minulle surullisia rokki kappaleita,social_post,0.6322,0.0003,False
+1061,fi-FI,news,news_query,pidä minut ajan tasalla urheilu uutisista,email_sendemail,0.7945,0.0005,False
+1063,fi-FI,news,news_query,ota joka tuntiset ilmoitukset urheilu uutisissa,news_query,0.7536,0.7536,True
+1084,fi-FI,news,news_query,käyttäjäystävällinen,iot_hue_lightoff,0.1407,0.0304,False
+1093,fi-FI,news,news_query,mene helsingin sanomien verkkosivulle,qa_factoid,0.7324,0.0033,False
+1098,fi-FI,datetime,datetime_query,mikä viikonpäivä on viidestoista maaliskuuta,datetime_query,0.7771,0.7771,True
+1108,fi-FI,play,play_music,tahdon kuunnella jotain kantri musiikkia,play_music,0.9986,0.9986,True
+1115,fi-FI,play,play_music,koordinoi kaikki pop kappale genret,play_music,0.3242,0.3242,True
+1120,fi-FI,news,news_query,onko politiikasta mitään erikoista,qa_factoid,0.794,0.0001,False
+1121,fi-FI,play,play_music,soita frida behmiltä,social_post,0.9999,0.0,False
+1123,fi-FI,play,play_music,soita seuraavaksi behmin frida,play_music,0.6662,0.6662,True
+1124,fi-FI,play,play_music,laita behmin frida soimaan seuraavana,social_post,0.3577,0.004,False
+1127,fi-FI,play,play_music,soita kaikki kappaleet sekoituksella,cooking_recipe,0.9534,0.0124,False
+1144,fi-FI,play,play_music,haluan jotain räppiä,cooking_recipe,0.7819,0.1579,False
+1148,fi-FI,datetime,datetime_query,paljonko kello on sydneyssä nyt,weather_query,0.9832,0.0008,False
+1156,fi-FI,news,news_query,viimeisin uusi kansainvälisestä naistenpäivästä,qa_factoid,0.4447,0.0199,False
+1160,fi-FI,weather,weather_query,kuinka kylmä on joka yö tällä viikolla,weather_query,0.9909,0.9909,True
+1180,fi-FI,news,news_query,etsi tämän päivän hesarin artikkelit trumpista,news_query,0.998,0.998,True
+1202,fi-FI,datetime,datetime_query,nykyinen aika new yorkissa,weather_query,0.8506,0.0027,False
+1238,fi-FI,play,play_music,pandora,qa_factoid,0.1403,0.0391,False
+1249,fi-FI,weather,weather_query,millainen sää on todennäköisesti tällä viikolla,weather_query,0.9997,0.9997,True
+1252,fi-FI,datetime,datetime_query,kerro minulle aika nyt,weather_query,0.9556,0.0022,False
+1294,fi-FI,news,news_query,kerro oscar gaalan uutiset,qa_factoid,0.9453,0.0001,False
+1301,fi-FI,news,news_query,kerro uutiset niinistön ulkomaanpolitiikasta,email_sendemail,1.0,0.0,False
+1308,fi-FI,weather,weather_query,hae tämän päivän ilmastoennuste,weather_query,0.9731,0.9731,True
+1318,fi-FI,play,play_music,käynnistä musiikki appi ja soita kappale minulle,play_music,0.9999,0.9999,True
+1351,fi-FI,weather,weather_query,onko ulkona hyvä sää tällä viikolla,weather_query,0.9958,0.9958,True
+1371,fi-FI,news,news_query,mitä meillä on helsingin sanomien etusivulla,lists_remove,0.2716,0.0402,False
+1377,fi-FI,iot,iot_hue_lightoff,ole hyvä sammuta valot minun pojan huoneesta,iot_hue_lightoff,0.9987,0.9987,True
+1400,fi-FI,weather,weather_query,kiinnitän suurimmaksi osaksi huomiota,iot_hue_lightoff,0.6523,0.0011,False
+1401,fi-FI,weather,weather_query,kiinnitän ajoittain huomiota,iot_hue_lightoff,0.9841,0.0001,False
+1404,fi-FI,weather,weather_query,voinko saada huomisen sään täällä turussa,weather_query,0.9995,0.9995,True
+1423,fi-FI,news,news_query,kerro minulle niinistöstä,qa_factoid,0.9906,0.0,False
+1425,fi-FI,news,news_query,anna minun tietää kun kuulet ranskasta,qa_factoid,0.3563,0.013,False
+1440,fi-FI,play,play_music,soita uusimmat neljän tai korkeamman arvostelun saaneet rock kappaleet,recommendation_events,0.6522,0.0398,False
+1449,fi-FI,datetime,datetime_query,milloin on pääsiäinen vuonna kaksituhatta kahdeksantoista,weather_query,0.9923,0.0053,False
+1458,fi-FI,weather,weather_query,kuinka kuuma helsingissä on,weather_query,0.9979,0.9979,True
+1467,fi-FI,play,play_music,soita slayeria,social_post,0.3047,0.0185,False
+1474,fi-FI,news,news_query,mitkä ovat tämän päivän urheilu uutiset,news_query,0.9992,0.9992,True
+1489,fi-FI,play,play_music,soita viimeisimmät laulut tuure kilpeläiseltä,play_music,1.0,1.0,True
+1513,fi-FI,weather,weather_query,miten lämmintä ulkona on,iot_hue_lightoff,0.9719,0.0076,False
+1533,fi-FI,news,news_query,mitä c. n. n. uutisia on tapahtunut tänään,news_query,0.9993,0.9993,True
+1537,fi-FI,datetime,datetime_query,näytä minulle paljonko kello on saksassa,iot_hue_lightoff,0.7666,0.0044,False
+1542,fi-FI,weather,weather_query,aurinko paistaa kirkkaasti kestääkö sää tälläisena loppupäivän,weather_query,0.9961,0.9961,True
+1546,fi-FI,play,play_music,soita kesäjammailut soittolistani,play_music,1.0,1.0,True
+1547,fi-FI,weather,weather_query,millainen sää on sijainnissani tällä viikolla,weather_query,0.9976,0.9976,True
+1549,fi-FI,weather,weather_query,sataako tällä viikolla,weather_query,0.3697,0.3697,True
+1554,fi-FI,iot,iot_hue_lightoff,sammuta lamput,cooking_recipe,0.4218,0.3962,False
+1581,fi-FI,datetime,datetime_query,mikä on nykyinen päivä kuukausi ja vuosi,datetime_query,0.9976,0.9976,True
+1589,fi-FI,weather,weather_query,onko ensi tiistaina aurinkoista,qa_factoid,0.999,0.0,False
+1593,fi-FI,news,news_query,aseta ilmoitukset maailmanuutisista,news_query,0.4771,0.4771,True
+1594,fi-FI,news,news_query,voitko kertoa minulle viimeisimmät uutiset,news_query,0.9984,0.9984,True
+1607,fi-FI,datetime,datetime_query,keroo paljonko kello on los angelesissa,weather_query,0.9979,0.0001,False
+1617,fi-FI,news,news_query,ilmoita minulle kun uusi politiikka aihe ilmestyy,qa_factoid,0.658,0.0169,False
+1636,fi-FI,news,news_query,näytä minulle uusimmat uutiset iltasanomista,news_query,0.9845,0.9845,True
+1653,fi-FI,weather,weather_query,milloin sataa seuraavan kerran,datetime_query,0.9694,0.0283,False
+1655,fi-FI,weather,weather_query,sataako huomenna keskipäivällä lunta,weather_query,0.9952,0.9952,True
+1666,fi-FI,news,news_query,joten puhtaat uutiset viimeisten kuuden tunnin ajalta on mitkä,news_query,0.9943,0.9943,True
+1671,fi-FI,play,play_music,soita kaikkea musiikkia vain vuosilta jotka on julkaistu välillä tuhatyhdeksänsataayhdeksänkymmentä ja kaksituhatta,play_music,1.0,1.0,True
+1683,fi-FI,weather,weather_query,huomisen lämpötila onko kuuma vai ei,iot_hue_lightoff,0.7411,0.0723,False
+1684,fi-FI,weather,weather_query,kyllä vai ei huomisen lämpötila on kuuma,weather_query,0.999,0.999,True
+1692,fi-FI,play,play_music,etsi jotain rauhallista jazzia minulle,cooking_recipe,0.4546,0.1023,False
+1722,fi-FI,weather,weather_query,mikä on lontoon minimi lämpötila,qa_factoid,0.8367,0.0471,False
+1750,fi-FI,iot,iot_hue_lightoff,sammuta kaikki valot,iot_hue_lightoff,0.8119,0.8119,True
+1759,fi-FI,news,news_query,näytä minulle uutiset presidentti niinistöstä,news_query,0.9977,0.9977,True
+1760,fi-FI,news,news_query,uusimmat uutiset terrorismista,qa_factoid,0.9824,0.0,False
+1777,fi-FI,play,play_music,seuraava kappale,qa_factoid,0.7795,0.0056,False
+1784,fi-FI,iot,iot_hue_lightoff,sammuta ruokasali,iot_hue_lightoff,0.9225,0.9225,True
+1786,fi-FI,iot,iot_hue_lightoff,kytke pois päämakuuhuone,iot_hue_lightoff,0.4753,0.4753,True
+1794,fi-FI,news,news_query,vieraileeko niinistö venäjällä lähiaikoina,social_post,0.7746,0.0334,False
+1796,fi-FI,datetime,datetime_query,päivämäärä tänään,weather_query,0.8415,0.052,False
+1803,fi-FI,news,news_query,mitä joukkueet pelaa tänään valioliigassa,lists_query,0.0915,0.0749,False
+1811,fi-FI,play,play_music,aloita soittolista ja soita musiikkia,play_music,0.9998,0.9998,True
+1832,fi-FI,play,play_music,soita coldplay levy,email_query,0.4724,0.0268,False
+1833,fi-FI,play,play_music,luuppatko teemat soittolistan,qa_factoid,0.2564,0.0265,False
+1866,fi-FI,weather,weather_query,säätiedote nyt,email_sendemail,0.8963,0.0009,False
+1870,fi-FI,datetime,datetime_query,mikä kuukausi on tänään,weather_query,0.9182,0.0567,False
+1904,fi-FI,news,news_query,näytä minulle ottelun kohokohdat,qa_factoid,0.8895,0.0008,False
+1933,fi-FI,weather,weather_query,onko lämpötilassa pudotus tänä yönä,weather_query,0.9975,0.9975,True
+1940,fi-FI,play,play_music,soita musta kappale,email_query,0.3434,0.0077,False
+1962,fi-FI,play,play_music,hei google soita minulle sekopäinen soittolista minun gaana apissa,social_post,0.5614,0.4368,False
+1994,fi-FI,play,play_music,voitko avata mun itunesin,qa_factoid,0.9989,0.0002,False
+1995,fi-FI,play,play_music,soita beatlesia,social_post,0.4348,0.0066,False
+2007,fi-FI,play,play_music,ole hyvä soita thirteen,email_sendemail,0.6136,0.0031,False
+2062,fi-FI,play,play_music,haluan jotain jazz musiikkia soitettavaksi,play_music,0.9995,0.9995,True
+2085,fi-FI,play,play_music,alexa haluaisin kuulla mitä tahansa klassista paitsi en bachia tai schubertia,play_podcasts,0.6675,0.3181,False
+2098,fi-FI,news,news_query,mitä maailmalla tapahtuu näinä päivänä,weather_query,0.5136,0.037,False
+2108,fi-FI,play,play_music,soita seuraavaksi summer lovin,play_music,0.9355,0.9355,True
+2113,fi-FI,recommendation,recommendation_events,kerro minulle kaikki nykyiset tapahtumat kotikaupungissani,news_query,0.5245,0.0181,False
+2146,fi-FI,datetime,datetime_query,minä päivämääränä talvipäivänseisaus on kahden vuoden päästä,weather_query,0.9475,0.0472,False
+2156,fi-FI,datetime,datetime_query,minun tarvitsee tietää aika juuri nyt mikä se on,qa_factoid,0.5164,0.0007,False
+2160,fi-FI,iot,iot_hue_lightoff,menen nyt nukkumaan,calendar_remove,0.4647,0.0167,False
+2178,fi-FI,weather,weather_query,millainen sää on minun paikassani,weather_query,0.9585,0.9585,True
+2198,fi-FI,datetime,datetime_query,minä päivänä oli joulukuun neljäs tuhatyhdeksänsataakahdeksankymmentäkaksi,weather_query,0.957,0.01,False
+2201,fi-FI,news,news_query,yle pääotsikot,social_post,0.9997,0.0,False
+2203,fi-FI,news,news_query,yle maailmalla pääotsikot,social_post,0.9986,0.0001,False
+2220,fi-FI,weather,weather_query,sää pariisissa,weather_query,0.9949,0.9949,True
+2225,fi-FI,play,play_music,toista behm frida,social_post,0.884,0.0007,False
+2230,fi-FI,iot,iot_hue_lightoff,sammuta keittiön valo,iot_hue_lightoff,0.9974,0.9974,True
+2237,fi-FI,news,news_query,lue minulle viimeisimmät kansainväliset uutiset,news_query,0.9983,0.9983,True
+2258,fi-FI,weather,weather_query,tarvitsenko villapaitaa tänään,social_post,0.9992,0.0,False
+2265,fi-FI,weather,weather_query,kerro millainen sää on hämeenlinnassa tällä hetkellä,weather_query,0.9975,0.9975,True
+2271,fi-FI,play,play_music,ole hyvä toista ostamani ja suosittamani kappaleet,recommendation_events,0.9895,0.0002,False
+2296,fi-FI,news,news_query,pidä minut ajan tasalla tämän päivän nhl tuloksista,news_query,0.347,0.347,True
+2298,fi-FI,iot,iot_hue_lightoff,laita valot pois nyt,iot_hue_lightoff,0.8259,0.8259,True
+2315,fi-FI,news,news_query,mitkä ovat tämän päivän uutiset,news_query,0.9991,0.9991,True
+2316,fi-FI,news,news_query,alexa anna minulle uutisten pääotsikot,social_post,0.8839,0.001,False
+2320,fi-FI,weather,weather_query,millainen sää on perjantaina,weather_query,0.9982,0.9982,True
+2322,fi-FI,weather,weather_query,millainen sää on huomenna,weather_query,0.9993,0.9993,True
+2330,fi-FI,datetime,datetime_query,kerro lontoon kellonaika tällä hetkellä,weather_query,0.9979,0.0002,False
+2384,fi-FI,news,news_query,mitä tapahtuu maailmalla,qa_factoid,0.6167,0.0115,False
+2386,fi-FI,news,news_query,anna minulle viimeisimmät uutiset,news_query,0.9927,0.9927,True
+2396,fi-FI,play,play_music,aloita celine dionin kappaleet,email_query,0.9527,0.0019,False
+2408,fi-FI,play,play_music,etsi lisää kappaleita bändiltä,recommendation_events,0.51,0.1386,False
+2412,fi-FI,datetime,datetime_query,kertoisitko paljonko kello on lontoossa,social_post,0.5482,0.0094,False
+2423,fi-FI,weather,weather_query,antaisitko helsingin tämän päivän sääennusteen,weather_query,0.9987,0.9987,True
+2438,fi-FI,news,news_query,lähetä tekniikka uutiset,news_query,0.9933,0.9933,True
+2441,fi-FI,iot,iot_hue_lightoff,laita vajan valo pois päältä,iot_hue_lightoff,0.4301,0.4301,True
+2472,fi-FI,datetime,datetime_query,onko aika tällä hetkellä oikein sijainnissani,weather_query,0.9596,0.0021,False
+2496,fi-FI,news,news_query,päivittäiset uutiset,news_query,0.9988,0.9988,True
+2497,fi-FI,datetime,datetime_query,mikä päivämäärä tänään on,weather_query,0.9982,0.0002,False
+2498,fi-FI,datetime,datetime_query,siri monesko päivä tänään on,weather_query,0.9882,0.0002,False
+2527,fi-FI,play,play_music,soita klassista rokkia,social_post,0.9999,0.0,False
+2531,fi-FI,play,play_music,alexa soita minulle rap ja rock kappaleita vuorotellen,play_music,0.8926,0.8926,True
+2545,fi-FI,weather,weather_query,millainen sää on,weather_query,0.9989,0.9989,True
+2548,fi-FI,news,news_query,mitään mielenkiintoista seiskan uutisissa,social_post,0.9199,0.0616,False
+2560,fi-FI,play,play_music,soita satunnanvaraista musiikkia,qa_definition,0.6623,0.0614,False
+2573,fi-FI,play,play_music,soita minun spotify tanssi soittolistani,qa_factoid,0.7897,0.1094,False
+2578,fi-FI,iot,iot_hue_lightoff,sammuta terassin valot,iot_hue_lightoff,0.9441,0.9441,True
+2588,fi-FI,news,news_query,mikä on viimeisin ylen uutinen,news_query,0.9996,0.9996,True
+2594,fi-FI,news,news_query,kerro minulle viimeisimmät ympäristöuutiset,news_query,0.9963,0.9963,True
+2605,fi-FI,play,play_music,soita minun suosikki musiikki nyt,play_music,0.9999,0.9999,True
+2611,fi-FI,weather,weather_query,tämänhetkinen sääennuste,weather_query,0.996,0.996,True
+2615,fi-FI,weather,weather_query,tarvitseeko minun pukea takki ensi keskiviikkona,social_post,0.4465,0.0058,False
+2638,fi-FI,news,news_query,näytä minulle uutisia trumpista,play_podcasts,0.9865,0.0127,False
+2639,fi-FI,news,news_query,näytä minulle ympäristö uutisia,news_query,0.9255,0.9255,True
+2651,fi-FI,news,news_query,alueen viimeisimmät uutiset,news_query,0.9924,0.9924,True
+2678,fi-FI,weather,weather_query,sataako tänä yönä,weather_query,0.9969,0.9969,True
+2679,fi-FI,weather,weather_query,pysyykö lämpötila suurin piirtein samana vai kylmeneekö se,weather_query,0.9414,0.9414,True
+2703,fi-FI,play,play_music,soita folk musiikkia kiitos,qa_factoid,0.9992,0.0003,False
+2704,fi-FI,play,play_music,kuunnellaan hieman indie rokkia ok,play_music,0.9587,0.9587,True
+2708,fi-FI,play,play_music,olly haluan tanssia soita minulle hieman tanssimusiikkia,play_music,0.9966,0.9966,True
+2709,fi-FI,play,play_music,olly tarviin kuunnella surullisia kappaleita tänään,play_podcasts,0.9338,0.0656,False
+2711,fi-FI,iot,iot_hue_lightoff,laita valot pois,iot_hue_lightoff,0.9519,0.9519,True
+2717,fi-FI,play,play_music,haluan kuunnella vaaleanpunainen asuntovaunu,play_radio,0.7719,0.0426,False
+2724,fi-FI,news,news_query,anna minulla uutisia yleltä,news_query,0.9977,0.9977,True
+2770,fi-FI,play,play_music,olly soita musiikkia jatsi genrestä,play_music,0.7407,0.7407,True
+2774,fi-FI,iot,iot_hue_lightoff,sammuta valot,iot_hue_lightoff,0.996,0.996,True
+2775,fi-FI,iot,iot_hue_lightoff,lopeta valojen käyttö,iot_hue_lightoff,0.9715,0.9715,True
+2777,fi-FI,weather,weather_query,pitäisikö mun ottaa sateenvarjo tänään,weather_query,0.6639,0.6639,True
+2781,fi-FI,play,play_music,soittaisitko jazz musiikkia,play_music,0.9984,0.9984,True
+2798,fi-FI,play,play_music,alexa soita kappale sininen ja valkoinen,play_music,0.3221,0.3221,True
+2801,fi-FI,datetime,datetime_query,paljonko kello on lontoossa,social_post,0.995,0.0001,False
+2824,fi-FI,datetime,datetime_query,mikä viikonpäivä on joulukuun kolmastoista,qa_factoid,0.4574,0.3192,False
+2840,fi-FI,datetime,datetime_query,mille päivälle seuraavan kuukauden toinen päivä osuu,calendar_remove,0.9432,0.041,False
+2859,fi-FI,datetime,datetime_query,olly paljonko kello on tässä kaupungissa,weather_query,0.9964,0.0001,False
+2887,fi-FI,news,news_query,näyttäisitkö kiitos aamu uutisten säähän liittyvät jutut,news_query,0.6393,0.6393,True
+2890,fi-FI,weather,weather_query,tämänhetkinen sää,weather_query,0.9985,0.9985,True
+2898,fi-FI,news,news_query,onko päivityksiä vaaleihin liittyen,news_query,0.9206,0.9206,True
+2914,fi-FI,datetime,datetime_query,monesko päivä tänään on,weather_query,0.9798,0.0002,False
+2917,fi-FI,weather,weather_query,viikottainen säätiedotus,weather_query,0.9838,0.9838,True
+2921,fi-FI,news,news_query,mitä uusia juttuja löytyy ylen verkkosivuilta,news_query,0.3589,0.3589,True
+2927,fi-FI,datetime,datetime_query,paljonko kello on austinissa,social_post,0.9426,0.0011,False
+2931,fi-FI,play,play_music,soita atmosphere seuraavaksi,iot_hue_lightoff,0.8303,0.0027,False
+2962,fi-FI,play,play_music,ole hyvä soita laulu apulannalta,play_radio,0.3946,0.0439,False
+2965,fi-FI,iot,iot_hue_lightoff,laita työhuoneen valot pois,iot_hue_lightoff,0.9974,0.9974,True
+3002,fi-FI,play,play_music,soita kappaleita beatlesilta,email_sendemail,0.9544,0.0,False
+3031,fi-FI,play,play_music,haluan soittaa laulun uudestaan,play_music,0.9999,0.9999,True
+3034,fi-FI,weather,weather_query,kerro minulle lämpötila,qa_factoid,0.699,0.0109,False
+3037,fi-FI,news,news_query,etusivun uutis artikkelit kiitos,qa_factoid,0.9933,0.0036,False
+3039,fi-FI,news,news_query,mitä uutta uutisissa,news_query,0.9995,0.9995,True
+3060,fi-FI,news,news_query,millainen uutinen uutislähteestä,news_query,0.9926,0.9926,True
+3091,fi-FI,datetime,datetime_query,paljonko kello on tyynenmeren normaaliajassa,weather_query,0.8368,0.0029,False
+3096,fi-FI,weather,weather_query,millainen sää on vantaalla,weather_query,0.9866,0.9866,True
+3098,fi-FI,iot,iot_hue_lightoff,laita valot pois,iot_hue_lightoff,0.9519,0.9519,True
+3099,fi-FI,news,news_query,näytä minulle joitain tämän hetken tapahtumia,play_podcasts,0.6354,0.218,False
+3101,fi-FI,news,news_query,olly laita uutiset päälle,iot_hue_lightoff,0.7818,0.0028,False
+3116,fi-FI,play,play_music,toista minun lempi laulu viime vuodelta,play_music,0.8242,0.8242,True
+3117,fi-FI,play,play_music,soita jotain keanen hopes and fears albumilta,play_music,0.9699,0.9699,True
+3118,fi-FI,datetime,datetime_query,paljonko kello on itäisellä normaaliajalla juuri nyt,weather_query,0.9889,0.0013,False
+3124,fi-FI,play,play_music,soita satunnainen kappale minun soittolistastani,play_music,0.9998,0.9998,True
+3146,fi-FI,play,play_music,soita ensimmäinen kappale minun apulanta soittolistasta,play_music,0.9998,0.9998,True
+3167,fi-FI,iot,iot_hue_lightoff,sammuta makuuhuoneen valot,iot_hue_lightoff,0.9907,0.9907,True
+3174,fi-FI,play,play_music,soita musiikki soittolista,play_music,0.9998,0.9998,True
+3205,fi-FI,play,play_music,soita frida behmiltä,social_post,0.9999,0.0,False
+3207,fi-FI,play,play_music,striimaa behmin frida,social_post,0.9641,0.0005,False
+3212,fi-FI,calendar,calendar_set,muistuta minua tekemään jotain silloin,cooking_recipe,0.9788,0.0004,False
+3214,fi-FI,news,news_query,mikä on tilanne tutkimuksessa trumpin siteistä venäjään,qa_factoid,0.7389,0.0016,False
+3228,fi-FI,datetime,datetime_query,minä viikonpäivänä joulu on tänä vuonna,weather_query,0.9972,0.0002,False
+3253,fi-FI,weather,weather_query,onko tänään iltapäivällä luvattu sadetta,weather_query,0.2939,0.2939,True
+3264,fi-FI,play,play_music,soita reggae musiikkia,play_music,0.9983,0.9983,True
+3305,fi-FI,weather,weather_query,millainen sää on tällä viikolla turussa,weather_query,0.9997,0.9997,True
+3306,fi-FI,weather,weather_query,mikä on tämän viikon sääennuste,weather_query,0.9992,0.9992,True
+3329,fi-FI,news,news_query,haluan nähdä uutiset,iot_hue_lightoff,0.722,0.001,False
+3337,fi-FI,weather,weather_query,millainen sää on alueella kolmekymmentäkolmetuhatta seitsemänsataa seitsemänkymmentä neljä,weather_query,0.5935,0.5935,True
+3338,fi-FI,weather,weather_query,kerro kuopion sää,weather_query,0.9987,0.9987,True
+3361,fi-FI,datetime,datetime_query,monesko päivä on ensi tiistaina,weather_query,0.7625,0.0014,False
+3378,fi-FI,iot,iot_hue_lightoff,ei valoja keittiössä,cooking_recipe,0.7251,0.1261,False
+3386,fi-FI,iot,iot_hue_lightoff,käännä valot keskitasolle,iot_hue_lightoff,0.9973,0.9973,True
+3400,fi-FI,play,play_music,soita samuli putron live versio,iot_hue_lightoff,0.9916,0.0002,False
+3401,fi-FI,play,play_music,soita apulannan suosituin kappale,qa_factoid,0.9662,0.0006,False
+3406,fi-FI,weather,weather_query,millainen on kymmenen päivän ennuste,qa_factoid,0.7819,0.0021,False
+3407,fi-FI,weather,weather_query,onko sääennusteissa sade tai lumisadetta tällä viikolla,weather_query,0.9983,0.9983,True
+3408,fi-FI,weather,weather_query,onko tänä viikonloppuna kiva sää,weather_query,0.9996,0.9996,True
+3426,fi-FI,weather,weather_query,paljonko ulkona on asteita,weather_query,0.9903,0.9903,True
+3433,fi-FI,play,play_music,uutta pop musiikkia,play_music,1.0,1.0,True
+3434,fi-FI,play,play_music,parasta rap musiikkia,play_music,0.999,0.999,True
+3441,fi-FI,datetime,datetime_query,onko kahdeskymmenes toinen keskiviikko,qa_factoid,0.2443,0.131,False
+3444,fi-FI,datetime,datetime_query,onko kello kymmenen,social_post,0.2822,0.0191,False
+3447,fi-FI,weather,weather_query,onko lauantaiksi luvattu sadetta,weather_query,0.9622,0.9622,True
+3481,fi-FI,play,play_music,soita kaikista suosituin metallica kappale,qa_factoid,0.4865,0.0035,False
+3489,fi-FI,play,play_music,soita musiikkia nyt kiitos,qa_factoid,0.8757,0.1218,False
+3492,fi-FI,play,play_music,soitetaan suosituin soittolistani,qa_factoid,0.999,0.0,False
+3503,fi-FI,weather,weather_query,mikä sää on salossa,weather_query,0.9997,0.9997,True
+3507,fi-FI,weather,weather_query,onko sääennusteessa lunta,weather_query,0.9997,0.9997,True
+3513,fi-FI,play,play_music,soita vain minun lista,qa_factoid,0.9976,0.0,False
+3516,fi-FI,weather,weather_query,mikä on sateen mahdollisuus tänään,weather_query,0.9979,0.9979,True
+3539,fi-FI,play,play_music,ole hyvä soita kesäkatu dannyltä,email_sendemail,0.5264,0.0003,False
+3546,fi-FI,play,play_music,haluan kuunnella jazz musiikkia,play_music,0.9999,0.9999,True
+3550,fi-FI,play,play_music,laita jotain turmion kätilöiltä,play_music,0.9947,0.9947,True
+3554,fi-FI,play,play_music,voitko laittaa rakkaus soittolistan,play_music,0.561,0.561,True
+3562,fi-FI,play,play_music,soita one more time,email_sendemail,0.9887,0.0001,False
+3566,fi-FI,datetime,datetime_query,paljonko kello on kajaanissa,social_post,0.9533,0.0009,False
+3570,fi-FI,iot,iot_hue_lightoff,ole hyvä sammuta terassin valot,iot_hue_lightoff,0.9221,0.9221,True
+3576,fi-FI,news,news_query,mitkä ovat viimeisimmät jutut ylen uutisissa,news_query,0.6488,0.6488,True
+3586,fi-FI,weather,weather_query,millainen sää on helsingissä,weather_query,0.9996,0.9996,True
+3600,fi-FI,calendar,calendar_set,muistuta minua kymmenen minuutin päästä,play_radio,0.4821,0.0007,False
+3603,fi-FI,news,news_query,mitkä ovat viimeisimmät uutiset turusta,news_query,0.9989,0.9989,True
+3605,fi-FI,news,news_query,mitkä ovat viimeisimmät ylen uutiset,news_query,0.9995,0.9995,True
+3606,fi-FI,datetime,datetime_query,paljonko kello on pekingissä,weather_query,0.7604,0.0089,False
+3614,fi-FI,weather,weather_query,eikös tänään ole aurinkoinen päivä,weather_query,0.999,0.999,True
+3623,fi-FI,news,news_query,mitä maailmassa tapahtuu tänään,weather_query,0.7086,0.1984,False
+3624,fi-FI,news,news_query,uutisia yleltä,news_query,0.9485,0.9485,True
+3631,fi-FI,play,play_music,hei google soita jotakin jazz musiikkia minulle,social_post,0.4497,0.1565,False
+3686,fi-FI,play,play_music,käynnistä rock musiikki soittolista vain rokkia lista,play_music,0.9931,0.9931,True
+3714,fi-FI,play,play_music,toista soittolistani pohjalta alkaen,qa_factoid,0.6649,0.0294,False
+3717,fi-FI,play,play_music,soita minun ysäri rap hitit,play_music,0.9993,0.9993,True
+3723,fi-FI,play,play_music,haluaisin kuulla paula koivuniemen kun kuuntelen tomppaa tämän laulun jälkeen,play_music,0.4885,0.4885,True
+3725,fi-FI,datetime,datetime_query,mikä päivämäärä tänään on,weather_query,0.9982,0.0002,False
+3727,fi-FI,play,play_music,soita ressu redfordin neljä ystävää,social_post,0.9982,0.0001,False
+3750,fi-FI,news,news_query,olly jos tulee uusia uutisia tulvista ilmoitatko siitä heti,news_query,0.88,0.88,True
+3779,fi-FI,play,play_music,toista youtube soittolista tyhjä,play_music,0.4338,0.4338,True
+3780,fi-FI,play,play_music,soita minun keskiyön rakkaus soittolista,play_music,0.4536,0.4536,True
+3784,fi-FI,weather,weather_query,anna oulun säätiedot,qa_factoid,0.6659,0.09,False
+3785,fi-FI,iot,iot_hue_lightoff,sammuta kylpyhuoneen valot kiitos,iot_hue_lightoff,0.9975,0.9975,True
+3822,fi-FI,news,news_query,etsi minulla tietoa autoista,qa_factoid,0.9986,0.0,False
+3852,fi-FI,weather,weather_query,millainen sää on rovaniemellä juuri nyt,weather_query,0.998,0.998,True
+3859,fi-FI,play,play_music,laita päälle minun suosikki rap musiikki soittolista kiitos,play_music,0.9203,0.9203,True
+3907,fi-FI,play,play_music,soita minulle viime vuoden hitit,play_music,0.4815,0.4815,True
+3911,fi-FI,play,play_music,haluan kuunnella jonkun kappaleen joka voitti grammyn tänä vuonna,play_music,0.9991,0.9991,True
+3912,fi-FI,play,play_music,haluan kuunnella tanssi ja kantri musiikkia,play_music,0.9992,0.9992,True
+3936,fi-FI,weather,weather_query,mikä on lämpötila,iot_hue_lightoff,0.8293,0.0094,False
+3960,fi-FI,datetime,datetime_query,sano aika,email_sendemail,0.7327,0.0019,False
+3967,fi-FI,play,play_music,räppi,qa_factoid,0.9985,0.0,False
+3980,fi-FI,play,play_music,ole hyvä soita popedalta lihaa ja perunaa,cooking_recipe,0.9943,0.0001,False
+3982,fi-FI,play,play_music,ole hyvä valitse ensimmäinen kappale itunes kirjastosta,recommendation_events,0.961,0.0108,False
+3993,fi-FI,iot,iot_hue_lightoff,saatko valot sammumaan,iot_hue_lightoff,0.9809,0.9809,True
+3995,fi-FI,datetime,datetime_query,minä viikonpäivänä halloween on,email_query,0.7859,0.0009,False
+4001,fi-FI,news,news_query,mitä tapahtui walking deadissä,news_query,0.3664,0.3664,True
+4023,fi-FI,news,news_query,mitä uutisissa on,news_query,0.9984,0.9984,True
+4031,fi-FI,play,play_music,soita pandora ysäri tanssibileet,qa_factoid,0.9999,0.0,False
+4040,fi-FI,play,play_music,soita kappale jota kuuntelen eniten,qa_factoid,0.9878,0.0002,False
+4058,fi-FI,play,play_music,haluaisin kuunnella jotakin rap musiikkia,play_music,0.9996,0.9996,True
+4073,fi-FI,datetime,datetime_query,mikä viikonpäivä on viides,qa_factoid,0.9501,0.0218,False
+4077,fi-FI,iot,iot_hue_lightoff,laita keittiön valot pois päältä,iot_hue_lightoff,0.5813,0.5813,True
+4088,fi-FI,iot,iot_hue_lightoff,sammuta katto lamppu,iot_hue_lightoff,0.6671,0.6671,True
+4104,fi-FI,weather,weather_query,millainen sää on tänään turussa,weather_query,0.9996,0.9996,True
+4116,fi-FI,play,play_music,sekoita minun sekoitettu soittolista,play_music,0.9978,0.9978,True
+4119,fi-FI,news,news_query,haluan tietää kaikki uutiset uusimaan patomurtumasta,news_query,0.989,0.989,True
+4132,fi-FI,weather,weather_query,kerro sateen todennäköisyys kotkassa tänään,weather_query,0.8669,0.8669,True
+4136,fi-FI,play,play_music,toistatko imogen heapia,email_sendemail,0.9256,0.0,False
+4152,fi-FI,play,play_music,ole hyvä soita hei rakas laulu,social_post,0.7991,0.0174,False
+4168,fi-FI,weather,weather_query,tarkista uusimaan sää,weather_query,0.9989,0.9989,True
+4171,fi-FI,iot,iot_hue_lightoff,sammuta valot keittiössä,iot_hue_lightoff,0.9124,0.9124,True
+4177,fi-FI,news,news_query,anna minulle viimeisimmät poliittiset uutiset maailmalta,news_query,0.998,0.998,True
+4178,fi-FI,news,news_query,onko yhtään uutisia presidentistä,news_query,0.8446,0.8446,True
+4183,fi-FI,datetime,datetime_query,tämänhetkinen aika turussa,weather_query,0.9844,0.0005,False
+4186,fi-FI,datetime,datetime_query,hei olly mitä kello on,iot_hue_lightoff,0.518,0.0012,False
+4187,fi-FI,datetime,datetime_query,hei siri mitä kello on,social_post,0.795,0.0062,False
+4205,fi-FI,play,play_music,haluan kuulla apulannan aggression,qa_factoid,0.5366,0.0005,False
+4212,fi-FI,weather,weather_query,voinko leikata nurmikon illalla,recommendation_events,0.4606,0.0101,False
+4227,fi-FI,weather,weather_query,onko luvattu yhtään sadetta ensi viikolle,qa_factoid,0.9471,0.001,False
+4232,fi-FI,play,play_music,soita sleepyhead passion pitiltä,social_post,0.3924,0.0135,False
+4236,fi-FI,datetime,datetime_query,onko jo iltapäivä,weather_query,0.9465,0.0028,False
+4253,fi-FI,datetime,datetime_query,paljonko kello on itäisessä normaaliajassa,weather_query,0.9568,0.0033,False
+4254,fi-FI,datetime,datetime_query,paljonko kello on yhdysvaltojen itärannikolla,weather_query,0.9882,0.003,False
+4258,fi-FI,news,news_query,mitkä ovat viimeisimmät uutiset,news_query,0.9798,0.9798,True
+4266,fi-FI,weather,weather_query,millainen on tämän päivän sää,weather_query,0.9993,0.9993,True
+4273,fi-FI,play,play_music,soita kappale aces high,iot_hue_lightoff,0.9933,0.0003,False
+4290,fi-FI,weather,weather_query,pitäisikö ottaa takki mukaan tänä iltana,lists_remove,0.6759,0.0201,False
+4305,fi-FI,play,play_music,soita david bowien laulu major tom,email_query,0.7902,0.0026,False
+4309,fi-FI,datetime,datetime_query,monenko tunnin päästä on keskiyö lontoossa englannissa,weather_query,0.7725,0.0033,False
+4312,fi-FI,weather,weather_query,onko lämpötila pariisissa vähemmän kuin kymmenen astetta,weather_query,0.998,0.998,True
+4313,fi-FI,weather,weather_query,onko huomenna sadetta roomassa,iot_hue_lightoff,0.8511,0.0009,False
+4336,fi-FI,datetime,datetime_query,paljonko kello on kiinassa,qa_factoid,0.9914,0.0004,False
+4346,fi-FI,iot,iot_hue_lightoff,laita valot pois,iot_hue_lightoff,0.9519,0.9519,True
+4347,fi-FI,iot,iot_hue_lightoff,lopeta operaattorin valot,iot_hue_lightoff,0.9761,0.9761,True
+4355,fi-FI,weather,weather_query,millainen sää on missä olen,weather_query,0.9985,0.9985,True
+4361,fi-FI,play,play_music,anna minulle jotain hyviä ääniä,play_music,0.9997,0.9997,True
+4362,fi-FI,datetime,datetime_query,paljonko kello on clevelandissa,social_post,0.4114,0.0249,False
+4376,fi-FI,weather,weather_query,millaista ulkona on tänään,weather_query,0.9981,0.9981,True
+4377,fi-FI,weather,weather_query,millainen on tämänhetkinen sää,weather_query,0.9996,0.9996,True
+4383,fi-FI,weather,weather_query,millainen sää on huomenna,weather_query,0.9993,0.9993,True
+4391,fi-FI,news,news_query,mitkä ovat otsikot ylellä,social_post,0.8904,0.0033,False
+4400,fi-FI,news,news_query,mitä on trendaavat artikkelit iltalehdessä,news_query,0.9928,0.9928,True
+4402,fi-FI,weather,weather_query,pitääkö minun ottaa sateenvarjo tänään,iot_hue_lightoff,0.8103,0.1833,False
+4412,fi-FI,weather,weather_query,millainen sää on jyväskylässä,weather_query,0.9968,0.9968,True
+4436,fi-FI,weather,weather_query,millainen takki kannattaisi laittaa,qa_factoid,0.9071,0.0015,False
+4439,fi-FI,weather,weather_query,millainen sää on turussa,weather_query,0.5289,0.5289,True
+4449,fi-FI,weather,weather_query,sataako tänään yhdeltä iltapäivällä,weather_query,0.9461,0.9461,True
+4452,fi-FI,play,play_music,toista kappaleet,social_post,0.9713,0.0004,False
+4463,fi-FI,datetime,datetime_query,kuinka monta lauantaita on maaliskuussa,qa_factoid,0.9902,0.0001,False
+4477,fi-FI,play,play_music,soita kappale seuraavaksi,play_music,0.9996,0.9996,True
+4482,fi-FI,weather,weather_query,tarvitseeko ajoväylä lapioida tänä aamuna,cooking_recipe,0.9886,0.0003,False
+4486,fi-FI,weather,weather_query,kerro tämän viikon sääennuste,weather_query,0.9984,0.9984,True
+4487,fi-FI,weather,weather_query,sataako torstaina,social_post,0.8865,0.0035,False
+4491,fi-FI,news,news_query,mitä uusia uutisia löytyy sauli niinistöstä,news_query,0.999,0.999,True
+4492,fi-FI,news,news_query,mitkä ovat uusimmat rikostilastot minun alueellani,news_query,0.7949,0.7949,True
+4496,fi-FI,news,news_query,mitä seiska postasi tänään,social_post,1.0,0.0,False
+4502,fi-FI,datetime,datetime_query,hei paljonko kello on lontoossa nyt,weather_query,0.9778,0.0003,False
+4524,fi-FI,weather,weather_query,olly mikä on tämän päivän sääennuste,weather_query,0.9984,0.9984,True
+4547,fi-FI,play,play_music,aloita koiran ulkoilutus soittolista,play_music,0.9998,0.9998,True
+4567,fi-FI,news,news_query,lue minulle uusimmat otsikot turun sanomien verkkosivuilta,social_post,0.3356,0.0083,False
+4580,fi-FI,datetime,datetime_query,paljonko kello on chicagossa,social_post,0.9814,0.0004,False
+4587,fi-FI,play,play_music,soita minun lempparit,social_post,0.9977,0.0,False
+4589,fi-FI,calendar,calendar_set,aseta ilmoitus urheilumatsille,email_sendemail,0.9293,0.0,False
+4606,fi-FI,news,news_query,etsi tietoa osakkeista tältä päivältä,news_query,0.9412,0.9412,True
+4614,fi-FI,weather,weather_query,onko lämpötila yli neljäkymmentä astetta huomenna,weather_query,0.9984,0.9984,True
+4662,fi-FI,news,news_query,ylen uutiset,iot_hue_lightoff,0.9322,0.0001,False
+4667,fi-FI,datetime,datetime_query,aika nyt,qa_factoid,0.9967,0.0001,False
+4680,fi-FI,weather,weather_query,laitanko sandaalit vai kengät sukkien kanssa,lists_remove,0.2565,0.0189,False
+4689,fi-FI,weather,weather_query,tiedätkö sään,weather_query,0.9996,0.9996,True
+4692,fi-FI,play,play_music,soit minulle kappale van halenilta,qa_factoid,0.8835,0.0007,False
+4710,fi-FI,datetime,datetime_query,minä päivänä halloween on tänä vuonna,weather_query,0.992,0.0018,False
+4764,fi-FI,weather,weather_query,sataako maanantaina,social_post,0.361,0.0206,False
+4767,fi-FI,news,news_query,onko mitään uutta meksikon ja amerikan rajamuurista,qa_definition,0.9026,0.0003,False
+4772,fi-FI,datetime,datetime_query,kerro paljonko kello on tällä aikavyöhykkeellä,iot_hue_lightoff,0.9998,0.0,False
+4780,fi-FI,datetime,datetime_query,mikä viikonpäivä syntymäpäiväni kesäkuun kahdeskymmenesseitsemäs on,datetime_query,0.4973,0.4973,True
+4784,fi-FI,weather,weather_query,tarvitsenko takin,social_post,0.8373,0.003,False
+4813,fi-FI,datetime,datetime_query,paljonko kello on berliinissä,weather_query,0.9969,0.0002,False
+4837,fi-FI,news,news_query,onko mitään uutisia olli,lists_remove,0.4593,0.0526,False
+4838,fi-FI,play,play_music,soita kaikki popedan musiikki,play_music,0.99,0.99,True
+4871,fi-FI,weather,weather_query,millainen sää on ulkona,weather_query,0.9993,0.9993,True
+4881,fi-FI,datetime,datetime_query,etsi mikä on nykyinen paikallinen aika ja aikavyöhyke,iot_hue_lightoff,0.844,0.0447,False
+4882,fi-FI,datetime,datetime_query,mitä kello on kaupungissa,weather_query,0.7946,0.0036,False
+4890,fi-FI,calendar,calendar_set,aseta ilmoitukset nykyisille sääkatastrofeille euroopassa,weather_query,0.6402,0.0077,False
+4909,fi-FI,play,play_music,soita kappaleita lauri tähkältä,email_sendemail,0.8099,0.113,False
+4917,fi-FI,weather,weather_query,lämpötila ulkona,iot_hue_lightoff,0.9738,0.0048,False
+4928,fi-FI,play,play_music,soita minun soundtrack,qa_factoid,0.9948,0.0027,False
+4933,fi-FI,weather,weather_query,sataako nyt,qa_factoid,0.9905,0.0001,False
+4951,fi-FI,datetime,datetime_query,haluaisin tietää paljon kello on juuri nyt,weather_query,0.9981,0.0003,False
+4953,fi-FI,news,news_query,uutiset junaonnettomuudesta,news_query,0.994,0.994,True
+4957,fi-FI,datetime,datetime_query,mikä viikonpäivä tämän kuun kahdeskymmeneskolmas on,qa_factoid,0.9405,0.017,False
+4960,fi-FI,play,play_music,musiikki third day,play_music,0.7198,0.7198,True
+4968,fi-FI,qa,qa_factoid,kuka voitti presidenttivaalit tänä vuonna,qa_factoid,0.9999,0.9999,True
+4973,fi-FI,play,play_music,olly soita vasten mun kasvoja,qa_factoid,0.4174,0.0018,False
+4998,fi-FI,play,play_music,lisää tämä kappale seuraavaksi soiviin kappaleisiin,play_music,0.5401,0.5401,True
+5009,fi-FI,weather,weather_query,tarvitsenko sateenvarjon tällä viikolla,weather_query,0.9971,0.9971,True
+5016,fi-FI,news,news_query,kerro minulle uutiset pörssin nousuista ja laskuista,iot_hue_lightoff,0.6249,0.0822,False
+5027,fi-FI,datetime,datetime_query,milloin on seuraava perjantai kolmastoista,datetime_query,0.516,0.516,True
+5037,fi-FI,weather,weather_query,kuinka kylmä tänään on,weather_query,0.998,0.998,True
+5038,fi-FI,weather,weather_query,millainen sää on tällä viikolla,weather_query,0.9996,0.9996,True
+5040,fi-FI,weather,weather_query,millainen on sää nyt,weather_query,0.9957,0.9957,True
+5062,fi-FI,play,play_music,soita minulle kappaleita kahdeksankymmentä luvulta,email_sendemail,0.9031,0.0007,False
+5074,fi-FI,weather,weather_query,mikä oli tämän viikon sää,weather_query,0.9989,0.9989,True
+5085,fi-FI,weather,weather_query,millainen on lauantain sääennuste,weather_query,0.9982,0.9982,True
+5118,fi-FI,play,play_music,hei rakas,social_post,0.4364,0.0014,False
+5127,fi-FI,news,news_query,tässä on totuus kotiavusta jonkun budjetissa,qa_factoid,1.0,0.0,False
+5131,fi-FI,datetime,datetime_query,kerro aika san franciscossa,weather_query,0.9436,0.0015,False
+5134,fi-FI,play,play_music,etsi kappaleet minun big band soittolistalta,qa_factoid,0.9964,0.0013,False
+5156,fi-FI,iot,iot_hue_lightoff,laita valo pois olohuoneessa,qa_factoid,1.0,0.0,False
+5157,fi-FI,iot,iot_hue_lightoff,laita olohuoneen valot pois,iot_hue_lightoff,0.9968,0.9968,True
+5158,fi-FI,play,play_music,ole hyvä soita viimeisin kappale abban albumilta,email_sendemail,0.9896,0.0062,False
+5159,fi-FI,play,play_music,voisitko soittaa kappaleen madonnalta,play_music,1.0,1.0,True
+5160,fi-FI,play,play_music,voisitko soittaa kappaleen michael jacksonilta kiitos,play_music,1.0,1.0,True
+5176,fi-FI,weather,weather_query,minkälaista säätä tällä viikolla on odotettavissa,weather_query,0.9974,0.9974,True
+5196,fi-FI,news,news_query,haluan tietää brexitistä,qa_factoid,0.9119,0.0018,False
+5225,fi-FI,datetime,datetime_query,mikä on ensi keskiviikon päivämäärä,weather_query,0.4996,0.4332,False
+5243,fi-FI,iot,iot_hue_lightoff,siri laita kylpyhuoneen valot pois,iot_hue_lightoff,0.9992,0.9992,True
+5245,fi-FI,news,news_query,aseta ilmoitus ympäristö uutisista,news_query,0.9587,0.9587,True
+5270,fi-FI,news,news_query,mikä on tällä hetkellä pääotsikoissa,qa_factoid,0.8132,0.0023,False
+5278,fi-FI,play,play_music,ole hyvä toista vain pop mix musiikkia,play_music,0.9998,0.9998,True
+5279,fi-FI,play,play_music,soitathan vain surullisen laulun musiikkisoittimessa,play_music,1.0,1.0,True
+5286,fi-FI,news,news_query,näytä b. b. c. uutiset muuttoliikkeestä,news_query,0.994,0.994,True
+5296,fi-FI,news,news_query,kerro suositut uutiset yleltä,news_query,0.9956,0.9956,True
+5297,fi-FI,news,news_query,etsi minulle suosituimmat uutiset yleltä,news_query,0.5868,0.5868,True
+5301,fi-FI,weather,weather_query,millainen sää on maaliskuun kahdeskymmenes kaksituhattaseitsemäntoista,weather_query,0.9646,0.9646,True
+5307,fi-FI,datetime,datetime_query,onko tänään kahdeskymmenes maaliskuuta,weather_query,0.9185,0.0354,False
+5318,fi-FI,play,play_music,ole hyvä toista ainoastaan rehmanin kappaleet,recommendation_events,0.866,0.0015,False
+5321,fi-FI,weather,weather_query,näytä sää,weather_query,0.9621,0.9621,True
+5328,fi-FI,play,play_music,rokki,qa_factoid,0.6973,0.0057,False
+5339,fi-FI,weather,weather_query,matala viilentävä olosuhde,iot_hue_lightoff,0.9402,0.0014,False
+5341,fi-FI,datetime,datetime_query,ilmoita minulle aika,email_sendemail,1.0,0.0,False
+5347,fi-FI,play,play_music,soita tekno musiikkia,play_music,0.985,0.985,True
+5358,fi-FI,datetime,datetime_query,päivitä nykyiseen aikaan,play_music,0.5102,0.0038,False
+5370,fi-FI,news,news_query,mikä on viimeisin sanna marin kiista,qa_definition,0.41,0.0242,False
+5378,fi-FI,play,play_music,s.,play_radio,0.1383,0.0381,False
+5401,fi-FI,play,play_music,musiikki,play_music,0.9967,0.9967,True
+5410,fi-FI,news,news_query,lue minulle viimeisimmät iltalehden otsikot,news_query,0.9009,0.9009,True
+5411,fi-FI,news,news_query,mitkä ovat suosituimmat tarinat ylellä,social_post,0.7135,0.0007,False
+5413,fi-FI,play,play_music,soita musiikki,play_music,0.999,0.999,True
+5414,fi-FI,play,play_music,voitko laittaa musiikin soimaan,play_music,0.9999,0.9999,True
+5427,fi-FI,datetime,datetime_query,paljonko kello on kanadassa nyt,qa_factoid,0.9991,0.0,False
+5433,fi-FI,weather,weather_query,sataako myöhemmin,weather_query,0.8533,0.8533,True
+5439,fi-FI,weather,weather_query,tarvitsenko sateenvarjoa yöksi,qa_factoid,0.53,0.0071,False
+5465,fi-FI,weather,weather_query,voinko käyttää sandaaleja tänään,play_music,0.3283,0.0083,False
+5468,fi-FI,weather,weather_query,pitääkö minun ottaa aurinkolasit,iot_hue_lightoff,0.9725,0.0009,False
+5524,fi-FI,weather,weather_query,sää tällä hetkellä,weather_query,0.9929,0.9929,True
+5529,fi-FI,weather,weather_query,mihin aikaan minun kannattaisi mennä vaellukselle,weather_query,0.9888,0.9888,True
+5557,fi-FI,play,play_music,haluan reggaeta,social_post,0.5427,0.0114,False
+5577,fi-FI,weather,weather_query,tarvitsen pitkän takin jos ilta on liian myrskyisä,weather_query,0.989,0.989,True
+5578,fi-FI,weather,weather_query,tarvitsen lämpimät sukat talvella aamuisin,qa_factoid,0.5892,0.0465,False
+5584,fi-FI,iot,iot_hue_lightoff,laita valot pois kiitos,email_sendemail,0.8249,0.0128,False
+5590,fi-FI,weather,weather_query,avaa lämpötila,iot_hue_lightoff,0.9286,0.002,False
+5593,fi-FI,play,play_music,soita aggressio apulannalta,qa_factoid,0.9136,0.0001,False
+5619,fi-FI,play,play_music,soita edellinen kappale,play_music,0.9994,0.9994,True
+5627,fi-FI,play,play_music,toista minulle apulannan musiikkia,play_music,0.3917,0.3917,True
+5640,fi-FI,datetime,datetime_query,näytä päivämäärä,qa_factoid,0.207,0.1336,False
+5650,fi-FI,weather,weather_query,kysy millainen sää on tänään illalla,weather_query,0.9998,0.9998,True
+5658,fi-FI,play,play_music,soita minulle musiikkia apulannalta,play_music,0.9806,0.9806,True
+5661,fi-FI,weather,weather_query,pitäisikö mun ottaa sadetakki mukaan nyt,lists_remove,0.5048,0.0117,False
+5671,fi-FI,datetime,datetime_query,paljonko kello on las vegasissa,social_post,0.9939,0.0001,False
+5678,fi-FI,datetime,datetime_query,mikä viikonpäivä elokuun viidestoista on,qa_factoid,0.607,0.2423,False
+5683,fi-FI,play,play_music,soita minun soittolista bilebiisit,play_music,0.6794,0.6794,True
+5688,fi-FI,news,news_query,kerro minulle uutisotsikot kiitos,email_sendemail,0.9711,0.0,False
+5703,fi-FI,datetime,datetime_query,aika nyt,qa_factoid,0.9967,0.0001,False
+5707,fi-FI,play,play_music,kuunnellaan minun suosikkeja,play_podcasts,0.532,0.1785,False
+5721,fi-FI,weather,weather_query,näytä huomisen sää tällä alueella,weather_query,0.9974,0.9974,True
+5722,fi-FI,weather,weather_query,näytä tämän viikon seitsemän päivän sääennuste,weather_query,0.9987,0.9987,True
+5732,fi-FI,weather,weather_query,pitäisikö mun vaihtaa talvirenkaat autoon pian,iot_hue_lightoff,0.7775,0.0011,False
+5757,fi-FI,datetime,datetime_query,varttia vaille kaksi,qa_factoid,0.8381,0.0078,False
+5758,fi-FI,weather,weather_query,mikä sää on pääkaupungissa,weather_query,0.9997,0.9997,True
+5774,fi-FI,datetime,datetime_query,paljonko kello on keskistä aikaa,weather_query,0.5997,0.0369,False
+5797,fi-FI,weather,weather_query,pitäisikö mun laittaa sadetakki ennen kuin menen ulos,calendar_remove,0.7017,0.0052,False
+5813,fi-FI,play,play_music,toista kappale the walley of the gun,social_post,0.9932,0.0001,False
+5820,fi-FI,play,play_music,helli korviani behmillä,iot_hue_lightoff,0.2007,0.1097,False
+5837,fi-FI,weather,weather_query,kerro tämän viikon säästä,weather_query,0.9946,0.9946,True
+5871,fi-FI,weather,weather_query,millainen helsingin ilmasto on tänään,weather_query,0.9988,0.9988,True
+5886,fi-FI,news,news_query,kuuma aihe,iot_hue_lightoff,0.6495,0.0383,False
+5919,fi-FI,news,news_query,mitkä on viimeisimmät päivitykset helsingin silta ehdotuksessa,recommendation_events,0.9301,0.0119,False
+5930,fi-FI,news,news_query,mitään uusia uutisia helsingin sanomilta,news_query,0.9845,0.9845,True
+5948,fi-FI,play,play_music,soita jokin hyvä laulu soittolistaltani,play_music,1.0,1.0,True
+5953,fi-FI,weather,weather_query,onko kaupunki halvempi vai kalliimpi asua,social_post,0.3483,0.0829,False
+5955,fi-FI,weather,weather_query,kuinka turvallinen kaupunki on lain ja järjestyksen mukaan,qa_factoid,0.9888,0.0005,False
+5970,fi-FI,play,play_music,haluan että soitat minulle paholaisnainen,social_post,0.9999,0.0,False
+5985,fi-FI,news,news_query,näytä minulle viimeisimmät uutiset ykoosta,news_query,0.9875,0.9875,True
+5996,fi-FI,weather,weather_query,tarvitsenko talvikenkiä tänä iltapäivänä,social_post,0.9973,0.0002,False
+5997,fi-FI,datetime,datetime_query,paljonko kello on keskisellä aikavyöhykkeellä,iot_hue_lightoff,1.0,0.0,False
+6023,fi-FI,weather,weather_query,tuleeko hiostava yö,iot_hue_lightoff,0.9998,0.0002,False
+6024,fi-FI,weather,weather_query,tulisiko minun ottaa villapaita tai takki tänään töihin,qa_factoid,0.2872,0.0134,False
+6025,fi-FI,weather,weather_query,tarvitsenko aurinkorasvaa tänä iltapäivänä,social_post,0.6342,0.0849,False
+6027,fi-FI,play,play_music,aloita suosikki laulut,social_post,0.9855,0.0001,False
+6039,fi-FI,weather,weather_query,onko huomenna sateinen päivä,weather_query,0.999,0.999,True
+6041,fi-FI,iot,iot_hue_lightoff,hey olly sammuta valo,email_sendemail,1.0,0.0,False
+6045,fi-FI,play,play_music,lisää valittu kappale,email_sendemail,0.9802,0.0006,False
+6050,fi-FI,weather,weather_query,tarvitsenko aurinkosuojaa myöhemmin,iot_hue_lightoff,0.4393,0.0174,False
+6055,fi-FI,iot,iot_hue_lightoff,jätinkö valon päälle autotalliin,iot_hue_lightoff,0.5139,0.5139,True
+6059,fi-FI,play,play_music,soita rap musiikkia,play_music,0.9995,0.9995,True
+6069,fi-FI,weather,weather_query,onko myrskyt todennäköisiä tänään,weather_query,0.9966,0.9966,True
+6073,fi-FI,iot,iot_hue_lightoff,sammuta kuistin valo,qa_factoid,0.8759,0.1239,False
+6074,fi-FI,iot,iot_hue_lightoff,sammuta makuuhuoneen valo puoli kymmenen illalla,iot_hue_lightoff,0.9999,0.9999,True
+6077,fi-FI,news,news_query,haluan kuulla tämän päivän maailman uutiset,news_query,0.9952,0.9952,True
+6093,fi-FI,weather,weather_query,pitäisikö mun avata kattoluukku,qa_factoid,0.7233,0.0074,False
+6103,fi-FI,weather,weather_query,hei millainen sää tulee olemaan tänään helsingissä uudellamaalla,weather_query,0.9993,0.9993,True
+6116,fi-FI,weather,weather_query,tietoa tämän viikon säästä,weather_query,0.9381,0.9381,True
+6118,fi-FI,datetime,datetime_query,paljonko kello on dallasissa teksasissa,weather_query,0.6391,0.0019,False
+6127,fi-FI,weather,weather_query,suositteletko sateenvarjoa,iot_hue_lightoff,0.7585,0.003,False
+6129,fi-FI,news,news_query,pidä minut ajan tasalla maailman uutisissa,play_podcasts,0.8849,0.0926,False
+6151,fi-FI,weather,weather_query,haluan tietää tämän päivän sään,weather_query,0.9964,0.9964,True
+6172,fi-FI,weather,weather_query,ovatko aurinkolasit hyvä valinta tänään,recommendation_events,0.49,0.4361,False
+6177,fi-FI,weather,weather_query,tarvitsenko sateenvarjoa tänään,weather_query,0.9839,0.9839,True
+6178,fi-FI,weather,weather_query,pitäisikö minun laittaa takki,qa_factoid,0.5333,0.0069,False
+6194,fi-FI,weather,weather_query,millainen sää on tänään,weather_query,0.9993,0.9993,True
+6289,fi-FI,weather,weather_query,millainen sää on tänään,weather_query,0.9993,0.9993,True
+6370,fi-FI,calendar,calendar_query,miltä tuleva viikkoni näyttää,weather_query,0.9804,0.0001,False
+6372,fi-FI,news,news_query,uutisia kasvipohjaisuudesta,news_query,0.8944,0.8944,True
+6403,fi-FI,transport,transport_query,miten päästä jonnekkin,qa_factoid,0.9998,0.0,False
+6410,fi-FI,news,news_query,mitä tapahtuu tänään suomessa,weather_query,0.9841,0.0117,False
+6411,fi-FI,weather,weather_query,millainen sää on ensi keskiviikkona,weather_query,0.9993,0.9993,True
+6539,fi-FI,calendar,calendar_set,merkitse tänään dieettini alku,qa_factoid,0.6367,0.0055,False
+6542,fi-FI,cooking,cooking_recipe,onko pehmeä juusto parempaa kuin kova,cooking_recipe,0.9341,0.9341,True
+6618,fi-FI,news,news_query,kerro kiinnostavat uutiset,recommendation_events,0.9029,0.0012,False
+6682,fi-FI,news,news_query,vaalit nousussa,email_query,0.3713,0.0015,False
+6683,fi-FI,news,news_query,talousasiat,qa_factoid,0.9045,0.0014,False
+6713,fi-FI,calendar,calendar_remove,peru business tapaaminen keskiviikkona,recommendation_events,0.702,0.0077,False
+6722,fi-FI,calendar,calendar_query,onko mitään mistä minua tulisi muistuttaa,email_sendemail,0.9474,0.0008,False
+6725,fi-FI,calendar,calendar_set,muistuta minua iltapäivän aikataulustani,email_sendemail,0.2586,0.0201,False
+6726,fi-FI,calendar,calendar_remove,peru seuraava kokous,qa_factoid,0.621,0.0179,False
+6729,fi-FI,calendar,calendar_remove,peru aamupala tiian luona,social_post,0.9271,0.0027,False
+6732,fi-FI,calendar,calendar_set,lisää tapaamis muistutus sunnuntaille appivanhempieni kanssa,social_post,0.9189,0.0059,False
+6744,fi-FI,calendar,calendar_set,laita tapaaminen paavon kanssa huomiseksi kymmeneltä,social_post,0.6959,0.009,False
+6746,fi-FI,calendar,calendar_set,aseta kesäkuun ensimmäinen viikko lomaksi minun kalenterissa,iot_hue_lightoff,0.3373,0.1447,False
+6747,fi-FI,calendar,calendar_query,kuinka monta muistutusta minulla on,qa_factoid,0.9981,0.0,False
+6755,fi-FI,calendar,calendar_remove,tyhjennä kalenterini kiitos,qa_factoid,0.3757,0.0982,False
+6761,fi-FI,calendar,calendar_remove,poista kalenteristani tapaaminen yhdeksältä,qa_factoid,0.1377,0.1107,False
+6764,fi-FI,calendar,calendar_set,muistuta minua pese ikkunat,email_sendemail,0.6433,0.0012,False
+6774,fi-FI,calendar,calendar_set,lisää tapahtuma perjantaille,email_sendemail,0.5493,0.0014,False
+6785,fi-FI,calendar,calendar_query,mikä on seuraava muistutukseni,lists_query,0.12,0.029,False
+6789,fi-FI,calendar,calendar_set,järjestä tapaaminen johannan kanssa lauantaina neljältä,social_post,0.9377,0.0028,False
+6798,fi-FI,calendar,calendar_remove,poista seuraava tapahtumani,calendar_remove,0.967,0.967,True
+6801,fi-FI,calendar,calendar_query,näytä minulle tapaamiseni tänä perjantaina,social_post,0.8824,0.0036,False
+6806,fi-FI,calendar,calendar_query,näytä minulle kalenteri tapahtumani tämän perjantain iltapäivälle,calendar_set,0.2761,0.2061,False
+6815,fi-FI,calendar,calendar_set,muistuta minua äitini syntymäpäivästä viikkoa ennen,email_sendemail,0.5002,0.0108,False
+6819,fi-FI,calendar,calendar_set,olly hyvä bändi soittaa tänä iltana yhdeksältä jazz baarissa haluan mennä,play_music,0.9945,0.0001,False
+6836,fi-FI,calendar,calendar_set,muistuta minua tapaamisesta huomenna kuudelta,iot_hue_lightoff,0.3141,0.0086,False
+6850,fi-FI,calendar,calendar_query,listaa aikatauluni tänään,lists_query,0.9571,0.0001,False
+6856,fi-FI,calendar,calendar_set,anna minulle muistutusilmoitus huomisen tapaamisesta kymmeneltä,email_sendemail,1.0,0.0,False
+6860,fi-FI,calendar,calendar_query,onko mitään tulevia tapahtumia,news_query,0.7041,0.0053,False
+6865,fi-FI,calendar,calendar_set,aseta ilmoitus huomisen tapaamisesta kymmeneltä,email_sendemail,0.518,0.0065,False
+6878,fi-FI,calendar,calendar_set,järjestä tapaaminen kirjanpito osaston kanssa puoli kolme perjantaina,social_post,0.7919,0.0094,False
+6891,fi-FI,calendar,calendar_query,onko aamu ohjelmia saatavilla,iot_hue_lightoff,0.5219,0.0043,False
+6892,fi-FI,calendar,calendar_query,voitko antaa elokuva aikataulun,qa_factoid,0.9997,0.0,False
+6897,fi-FI,calendar,calendar_set,muistuta minua hakemaan linda viideltä illalla seitsemäs päivä,weather_query,0.9288,0.0021,False
+6901,fi-FI,calendar,calendar_set,muistuta minua huomenna kymmeneltä tapaamisesta,email_sendemail,0.7697,0.0068,False
+6902,fi-FI,calendar,calendar_set,aseta muistutus ensi kuulle öljynvaihtoon,iot_hue_lightoff,0.431,0.3111,False
+6909,fi-FI,calendar,calendar_query,mitä tapahtuu yhden jälkeen ja ennen kolmea,calendar_remove,0.1582,0.0238,False
+6918,fi-FI,calendar,calendar_remove,poista tapahtumat kalenterista,play_podcasts,0.4238,0.0141,False
+6923,fi-FI,calendar,calendar_set,aseta muistutus tulosta dokumentit tiistai aamuna,social_post,0.8548,0.0022,False
+6926,fi-FI,calendar,calendar_query,onko perjantai,qa_factoid,0.9094,0.0002,False
+6928,fi-FI,calendar,calendar_remove,poista kaikki tapahtumat,calendar_remove,0.9597,0.9597,True
+6936,fi-FI,calendar,calendar_set,muistuta minua ottamaan lääkkeeni yhdeksältä aamulla,qa_factoid,0.2711,0.008,False
+6937,fi-FI,calendar,calendar_set,aseta muistutus kahdeltatoista lounas pomon kanssa,cooking_recipe,0.6557,0.0086,False
+6946,fi-FI,calendar,calendar_query,onko ensi keskiviikolle mitään tapaamisia,social_post,0.5737,0.0115,False
+6958,fi-FI,calendar,calendar_remove,varmista ettei kalenterissani ole tapahtumia,email_sendemail,0.9998,0.0,False
+6959,fi-FI,calendar,calendar_set,muistuta minua tapaamisestani tunti ennen kuin se alkaa,email_sendemail,0.9572,0.0016,False
+6962,fi-FI,calendar,calendar_set,saanko tietää mitä minun täytyy tehdä ensi lauantaina kuudelta,cooking_recipe,0.7681,0.0034,False
+6964,fi-FI,calendar,calendar_set,voitko muistuttaa seuraavasta tapaamisestani pomoni kanssa tuntia ennen kuin se alkaa,social_post,0.7577,0.0071,False
+6967,fi-FI,calendar,calendar_query,voitko tarkistaa tämän asian tosiasiat,qa_definition,0.5303,0.0002,False
+6968,fi-FI,calendar,calendar_query,minun täytyy vahvistaa kaikki tämän päivän tapaamiset voiko henkilön kutsua,news_query,0.2894,0.0114,False
+6973,fi-FI,calendar,calendar_set,lisää muistutus kokouksesta huomenna turussa,email_sendemail,0.5535,0.0108,False
+6974,fi-FI,calendar,calendar_set,minulla on tilaisuus helsingissä huomenna muistuta siitä,weather_query,0.9898,0.0003,False
+6980,fi-FI,calendar,calendar_query,anna minulle tehtävälista,lists_remove,0.4486,0.002,False
+6992,fi-FI,calendar,calendar_query,näytä tulevat tapahtumat,news_query,0.6596,0.0034,False
+6994,fi-FI,calendar,calendar_set,muistuta minua,qa_factoid,0.9974,0.0,False
+6997,fi-FI,calendar,calendar_remove,poista seuraava tapahtuma,calendar_remove,0.7874,0.7874,True
+7000,fi-FI,calendar,calendar_set,uusi tapahtuma,qa_factoid,0.7478,0.0015,False
+7004,fi-FI,calendar,calendar_set,lisää muistutus kalenteriini joka vuosi tälle päivälle,calendar_set,0.5249,0.5249,True
+7013,fi-FI,calendar,calendar_query,milloin tapahtuma on alkamassa,datetime_query,0.9968,0.0001,False
+7014,fi-FI,calendar,calendar_query,anna minulle tämän päivän tapahtumien aikataulu,datetime_query,0.8162,0.0082,False
+7025,fi-FI,calendar,calendar_remove,poista uusivuosi kalenterista,iot_hue_lightoff,0.3635,0.009,False
+7026,fi-FI,recommendation,recommendation_events,mitä tapahtumia kaupungissani on tällä viikolla,weather_query,0.6754,0.0068,False
+7039,fi-FI,calendar,calendar_set,järjestä minulle tapaaminen ensi tiistaina yhdeltätoista jessen kanssa,social_post,0.7442,0.0108,False
+7044,fi-FI,calendar,calendar_set,muistuta minua aloittaa valmistautuminen kello seitsemäntoista ole hyvä,qa_factoid,0.3997,0.003,False
+7046,fi-FI,calendar,calendar_set,lisää tapaaminen kahdeskymmenesensimmäinen päivä seitsemältä,calendar_remove,0.3293,0.1099,False
+7055,fi-FI,calendar,calendar_set,järjestä tapaaminen mattin kanssa kello yksitoista torstaina,social_post,0.8838,0.0042,False
+7057,fi-FI,calendar,calendar_set,järjestä lounastapaaminen pekan kanssa keskiviikkona puolilta päivin,social_post,0.7803,0.0024,False
+7061,fi-FI,calendar,calendar_set,anna minulle muistutus kaksikymmentäneljä tuntia ennen perjantain tapaamistani esan kanssa,email_sendemail,0.9998,0.0,False
+7073,fi-FI,calendar,calendar_set,hae minun kalenterista seuraava tapahtuma ja muistuta minua ennen sitä,email_sendemail,0.2073,0.0232,False
+7080,fi-FI,calendar,calendar_remove,peruuta kaikki kalenterissani,calendar_remove,0.4828,0.4828,True
+7087,fi-FI,calendar,calendar_remove,poista huomisen tapaaminen minun kalenterista,calendar_remove,0.4302,0.4302,True
+7098,fi-FI,calendar,calendar_set,lisää minun auton maksu kahdestoista päivä minun kalenteriin,qa_factoid,0.35,0.0299,False
+7100,fi-FI,calendar,calendar_set,muistuta minua päivää ennen kuin autoni eräpäivä on,email_sendemail,0.4641,0.0085,False
+7111,fi-FI,calendar,calendar_query,mihin aikaan on lääkäriaikani marraskuun kolmaskymmenesensimmäinen,datetime_query,0.7736,0.0008,False
+7113,fi-FI,calendar,calendar_query,onko keskustassa mitään tapahtumia tänä viikonloppuna,news_query,0.9439,0.0021,False
+7117,fi-FI,calendar,calendar_remove,hankkiudu eroon yhdeksännentoista päivän tapahtumista minun kalenteristani,calendar_remove,0.9441,0.9441,True
+7120,fi-FI,calendar,calendar_query,millainen aikatauluni on tänään,qa_factoid,0.9752,0.0011,False
+7122,fi-FI,calendar,calendar_set,voisitko toistaa tämän tapauksen,qa_factoid,0.9998,0.0,False
+7140,fi-FI,calendar,calendar_set,lisää muistutus ilmoittamaan minua tunti ennen lounas tapaamista,email_sendemail,0.9996,0.0001,False
+7141,fi-FI,calendar,calendar_query,onko tämä ohjelma aikataulutettu,qa_factoid,0.9969,0.0,False
+7151,fi-FI,calendar,calendar_set,jokaiselle parittomalle sunnuntaille tee muistutus,email_sendemail,0.9633,0.0009,False
+7152,fi-FI,calendar,calendar_set,aseta lounas joka päivä kaksitoista kolmekymmentä,qa_factoid,0.4288,0.1324,False
+7161,fi-FI,calendar,calendar_set,muistuta tästä tapahtumasta tulevaisuudessa,email_sendemail,0.5881,0.0119,False
+7170,fi-FI,calendar,calendar_set,tänään on äitini syntymäpäivä lähetä minulle ilmoitus tänä päivänä joka vuosi,weather_query,0.2477,0.0296,False
+7181,fi-FI,calendar,calendar_set,herätä minut kuudelta aamulla torstaina jotta minulla on aikaa tapaamiselle,social_post,0.1939,0.0337,False
+7185,fi-FI,calendar,calendar_query,milloin on seuraava ajanvaraukseni lääkäri smithin kanssa,datetime_query,0.7189,0.0035,False
+7189,fi-FI,calendar,calendar_query,onko minulla mitään suunniteltuna,recommendation_events,0.8438,0.0003,False
+7194,fi-FI,calendar,calendar_set,minulla on tapaaminen huomenna aseta se,qa_factoid,0.767,0.0045,False
+7196,fi-FI,calendar,calendar_set,muistuta minua tapaamisesta allenin kanssa viidestoista marraskuuta,email_sendemail,0.9609,0.0005,False
+7199,fi-FI,calendar,calendar_set,laita ilmoitus kolmelle kahdelle ja yhdelle tunnille ennen seuraavan viikon englannin finaalia,qa_factoid,0.4669,0.0116,False
+7209,fi-FI,calendar,calendar_set,voitko muistuttaa minua viemään roskat ulos tiistaina,social_post,0.1666,0.0185,False
+7219,fi-FI,calendar,calendar_query,laitoitko muistutuksen tapaamisesta huomiseksi,email_sendemail,0.985,0.0004,False
+7224,fi-FI,calendar,calendar_query,missä on tapahtumapaikka jossa tomin häät järjestetään,qa_factoid,0.3189,0.0538,False
+7232,fi-FI,calendar,calendar_query,mitkä ovat ensi viikon tapahtumat,qa_factoid,0.1866,0.033,False
+7257,fi-FI,calendar,calendar_set,muistuta minua soittamaan äidille puolen tunnin päästä kiitos,play_music,0.9933,0.0002,False
+7258,fi-FI,calendar,calendar_set,muistuta minua lähettämään sähköposti pomolle tunnin päästä,email_sendemail,1.0,0.0,False
+7262,fi-FI,calendar,calendar_set,luo ilmoitus muistutus huomiselle tapaamiselle,email_sendemail,0.9613,0.002,False
+7266,fi-FI,calendar,calendar_query,mitä ovat minun avoimet tehtäväni,lists_query,0.4402,0.0182,False
+7278,fi-FI,calendar,calendar_set,muistuta minua riitan syntymäpäivästä kaksikymmentäneljä tuntia etukäteen,datetime_query,0.3552,0.0131,False
+7287,fi-FI,calendar,calendar_set,muistuta minua vuosipäivästäni yksi päivä etukäteen,email_sendemail,0.3722,0.0049,False
+7289,fi-FI,calendar,calendar_remove,hankkiudu eroon kaikista tapahtumista jeren kanssa,qa_factoid,0.72,0.1234,False
+7291,fi-FI,calendar,calendar_set,estä yksi tunti alkaen kymmeneltä huomenna aamulla,weather_query,0.2836,0.0651,False
+7292,fi-FI,calendar,calendar_set,olen varattu neljästä kuuteen huomenna illalla merkitse kalenteriini,calendar_set,0.1655,0.1655,True
+7293,fi-FI,calendar,calendar_set,järjestä tunnin tapaaminen lauantaille,qa_factoid,0.2033,0.0387,False
+7294,fi-FI,calendar,calendar_remove,poista ajanvaraus kari väänäselle kalenteristani,social_post,0.551,0.0007,False
+7295,fi-FI,calendar,calendar_remove,tyhjennä kalenterini kiitos,qa_factoid,0.3757,0.0982,False
+7314,fi-FI,calendar,calendar_query,mitä on tälle päivälle,weather_query,0.9889,0.0004,False
+7316,fi-FI,calendar,calendar_query,onko minulla mitään tapaamisia,social_post,0.5145,0.0099,False
+7319,fi-FI,calendar,calendar_query,mitä tapahtuu tänään kahdesta neljään iltapäivällä,weather_query,0.4751,0.0263,False
+7353,fi-FI,email,email_query,kerro minulle ensi viikon sää lapissa,weather_query,0.9984,0.0001,False
+7355,fi-FI,calendar,calendar_set,muistuta minua tarkistamaan pata kello kuudelta,qa_factoid,0.802,0.0074,False
+7380,fi-FI,calendar,calendar_query,näytä tämän päivän tapaaminen asiakkaiden kanssa,recommendation_events,0.5178,0.0099,False
+7397,fi-FI,calendar,calendar_query,onko mitään tapahtumia suunniteltuna seuraaville kolmelle kuukaudelle,news_query,0.9778,0.0004,False
+7449,fi-FI,calendar,calendar_set,järjestä tapaaminen tämän henkilön kanssa kiitos,social_post,0.6372,0.0032,False
+7450,fi-FI,calendar,calendar_set,tarvitsen ajoittaa tapaaminen tämän ihmisen kanssa,qa_factoid,0.9934,0.0002,False
+7455,fi-FI,calendar,calendar_set,muistuta minua juhlista huomenna,iot_hue_lightoff,0.9874,0.0,False
+7461,fi-FI,calendar,calendar_set,kutsu ihmisiä kalenteri tapahtumaan,social_post,0.7303,0.0008,False
+7463,fi-FI,calendar,calendar_set,ilmoita ryhmälleni että uusi palaveri aika on huomenna,email_sendemail,0.9562,0.0005,False
+7467,fi-FI,calendar,calendar_query,anna minulle tapahtumien aika,qa_factoid,0.4586,0.0012,False
+7477,fi-FI,calendar,calendar_set,muistuta minua viides maaliskuuta joka vuosi järjestä hääpäivälahja,email_sendemail,0.439,0.037,False
+7496,fi-FI,calendar,calendar_query,onko minulla tapaamisia tänään,social_post,0.7201,0.0073,False
+7499,fi-FI,calendar,calendar_set,tee uusi aikataulu huomiselle tapaamiselle,social_post,0.5128,0.0159,False
+7500,fi-FI,calendar,calendar_remove,voitko poistaa seuraavan tapahtuman,calendar_remove,0.9275,0.9275,True
+7502,fi-FI,calendar,calendar_query,mitä on agendalla neljän palaverissa jonin kanssa,lists_query,0.1466,0.034,False
+7503,fi-FI,calendar,calendar_query,missä helsingissä on tuo tapaaminen yhdeltä perjantaina,social_post,0.6675,0.0181,False
+7520,fi-FI,calendar,calendar_set,muistuta minua lounaasta joka päivä kahdelta,play_radio,0.2277,0.0181,False
+7524,fi-FI,calendar,calendar_query,kuinka paljon mette oli halukas investoimaan yritykseeni tapaamisessa joka pidettiin tänään viisi kaksikymmentä,recommendation_events,0.7272,0.004,False
+7528,fi-FI,calendar,calendar_set,kolmastoista kesäkuuta on vaalitulos päivä aseta se kiitos,email_sendemail,0.7451,0.002,False
+7531,fi-FI,calendar,calendar_set,lisää palkkapäiväni kiitos,email_sendemail,0.9986,0.0003,False
+7539,fi-FI,calendar,calendar_query,onko minulla mitään menossa,qa_factoid,0.7228,0.003,False
+7542,fi-FI,calendar,calendar_set,muistuta minua tästä huomenna,play_radio,0.2461,0.0036,False
+7549,fi-FI,calendar,calendar_set,haluan tapaamisen kolmeen asti,qa_factoid,0.9158,0.0038,False
+7556,fi-FI,calendar,calendar_set,aseta kalenterini muistuttamaan minua ostamaan ruokaa joka perjantai,calendar_set,0.5414,0.5414,True
+7557,fi-FI,calendar,calendar_set,tee muistutus sijainnista kalenteriin,social_post,0.5779,0.0162,False
+7559,fi-FI,calendar,calendar_set,muistuta minua tänä iltana hakemaan kuivapesuni kahdeksalta,iot_hue_lightoff,0.6034,0.0024,False
+7563,fi-FI,calendar,calendar_set,muistuta minua tapaamisesta huomenna tunti ennen,email_sendemail,0.6025,0.0101,False
+7565,fi-FI,calendar,calendar_set,kokous muistutus,social_post,0.966,0.0005,False
+7567,fi-FI,calendar,calendar_set,syntymäpäivä,email_sendemail,0.4851,0.0022,False
+7569,fi-FI,calendar,calendar_query,suunnitelma huomenna,iot_hue_lightoff,0.8985,0.0012,False
+7570,fi-FI,calendar,calendar_query,mikä on tämän päivän suunnitelma,cooking_recipe,0.9326,0.0037,False
+7583,fi-FI,calendar,calendar_set,kaveri lisää tapahtuman kalenteriisi,qa_factoid,0.7574,0.0003,False
+7596,fi-FI,calendar,calendar_set,järjestä tapaaminen henrin kanssa hyvinkäällä kahdeltatoista,social_post,0.9351,0.0013,False
+7598,fi-FI,calendar,calendar_set,aseta tapaaminen keskustelulle terrorismista reijon kanssa seuraavalle mahdolliselle tapaamispäivälle,qa_factoid,0.5046,0.0508,False
+7606,fi-FI,calendar,calendar_set,tapaa jonin kanssa huomenna kolmelta,play_radio,0.8461,0.0027,False
+7609,fi-FI,calendar,calendar_remove,poista tapaamisen muistutus tiistailta,social_post,0.7296,0.0053,False
+7613,fi-FI,calendar,calendar_query,mikä olikaan tuleva tapahtuma,qa_factoid,0.3266,0.0134,False
+7628,fi-FI,calendar,calendar_set,muistuta minua hankkimaan uusi kirjastokortti kun olen kirjastossa,email_sendemail,0.7493,0.0062,False
+7654,fi-FI,calendar,calendar_set,merkitse huhtikuun kahdeskymmenes veljeni syntymäpäiväksi,datetime_query,0.3677,0.0155,False
+7655,fi-FI,calendar,calendar_set,lisää muistutus huhtikuun kahdennellekymmenelle päivälle veljeni syntymäpäivästä,email_sendemail,0.9894,0.0012,False
+7660,fi-FI,calendar,calendar_remove,peru kaikki tapaamiseni tänään kolmen jälkeen ja kerro minulle tiedot,social_post,0.3937,0.0106,False
+7662,fi-FI,calendar,calendar_query,voitko listata tapaamiseni tänään,lists_remove,0.9175,0.0001,False
+7664,fi-FI,calendar,calendar_set,lisää lounas mikan kanssa,cooking_recipe,0.9813,0.0004,False
+7666,fi-FI,calendar,calendar_set,merkkaatko että minulla on tapaaminen tomin kanssa kolmelta huomenna,email_sendemail,0.9226,0.0027,False
+7680,fi-FI,calendar,calendar_remove,poista kaikki golf tapahtumat kalenteristani tältä kuukaudelta,calendar_remove,0.4217,0.4217,True
+7686,fi-FI,calendar,calendar_set,sisällytä mika ja jaska festivaali kalenteriin,play_music,0.9224,0.0021,False
+7690,fi-FI,calendar,calendar_query,mitä minulla on tulossa,qa_factoid,0.9998,0.0,False
+7693,fi-FI,calendar,calendar_query,onko minulla mitään suunniteltuna kahdekymmenesensimmäinen,recommendation_events,0.7828,0.0018,False
+7697,fi-FI,calendar,calendar_set,aseta muistutus tälle,iot_hue_lightoff,0.3196,0.0189,False
+7711,fi-FI,calendar,calendar_set,hei peru kaikki muut tapaamiseni ja puheluni toinen maaliskuuta se kun on jimin syntymäpäivä merkitse se tapahtumaksi kalenteriisi,email_sendemail,1.0,0.0,False
+7712,fi-FI,calendar,calendar_set,hei olly peru kaikki muut tapaamiseni ja puheluni toinen maaliskuuta koska se on jimin syntymäpäivä merkitse se tapahtumaksi,email_sendemail,0.9999,0.0,False
+7718,fi-FI,calendar,calendar_set,hei lähetä palaveri kutsu herra salolle tämän perjantain tapaamisesta ja estä kalenterini perjantai iltapäiväksi,email_sendemail,0.9939,0.0003,False
+7726,fi-FI,calendar,calendar_set,minun täytyy jotain joka maanantai aseta muistutus sille,email_sendemail,0.836,0.0022,False
+7730,fi-FI,calendar,calendar_set,haluan sinun merkitsevän ensi maanantain,social_post,0.4411,0.0203,False
+7741,fi-FI,calendar,calendar_remove,tyhjennä kalenterini lauantailta,iot_hue_lightoff,0.344,0.2306,False
+7751,fi-FI,calendar,calendar_set,muistuta minua joka maanantai viemään roskat,play_radio,0.1571,0.0215,False
+7762,fi-FI,calendar,calendar_query,mitä muistutuksia minulla on,news_query,0.9547,0.0009,False
+7767,fi-FI,calendar,calendar_set,lisää treenit kalenteriin helmikuun neljäs kisapuistossa kahdelta,play_music,0.9982,0.0,False
+7768,fi-FI,calendar,calendar_set,lisää harjoitukset helmikuun toinen alppipuistossa kahdelta,qa_factoid,0.3758,0.0224,False
+7774,fi-FI,calendar,calendar_set,lisää shoppailu kalenteriini huomiselle,lists_remove,0.9128,0.0036,False
+7777,fi-FI,calendar,calendar_query,onko minulla tapaaminen tänään,social_post,0.3815,0.026,False
+7778,fi-FI,calendar,calendar_set,muistuta mitä olen tekemässä sunnuntai iltapäivänä,calendar_remove,0.55,0.0141,False
+7808,fi-FI,calendar,calendar_set,muistuta minua että vien äidin kampaajalle torstaina yhdeltätoista aamulla,cooking_recipe,0.1804,0.0173,False
+7817,fi-FI,calendar,calendar_query,onko tämä totta tästä päivästä,qa_factoid,0.9221,0.0012,False
+7820,fi-FI,calendar,calendar_remove,poista kaikki tapahtumat kalenterista,calendar_remove,0.6697,0.6697,True
+7836,fi-FI,calendar,calendar_remove,poista kaikki tapahtumat,calendar_remove,0.9597,0.9597,True
+7843,fi-FI,calendar,calendar_set,kerro minulle kahden tunnin kuluttua että minun täytyy lähteä viulutunnilleni joka on neljältä musiikkikoululla,email_sendemail,0.4519,0.0184,False
+7844,fi-FI,calendar,calendar_query,mitä muistutuksia asetin,qa_factoid,0.247,0.0176,False
+7847,fi-FI,calendar,calendar_set,hälytä minua kun ilmoittautuminen aukeaa,email_sendemail,0.9826,0.0001,False
+7851,fi-FI,calendar,calendar_set,minulla on tapaaminen kahdeltatoista tänään,social_post,0.3509,0.0281,False
+7863,fi-FI,calendar,calendar_set,muistuta minua aloittamaan päivällinen iltapäivällä viideltä,calendar_remove,0.4087,0.0307,False
+7870,fi-FI,calendar,calendar_remove,poista tapahtuma kalenterista,qa_factoid,0.729,0.0114,False
+7876,fi-FI,news,news_query,mitä parin viime kuukauden aikana on tapahtunut,news_query,0.3649,0.3649,True
+7878,fi-FI,calendar,calendar_remove,poista kalenterini,email_sendemail,0.9977,0.0001,False
+7879,fi-FI,calendar,calendar_query,mitkä ovat minun seuraavat kolme tapahtumaani,lists_query,0.3953,0.0152,False
+7889,fi-FI,calendar,calendar_query,mihin aikaan jalkapallo ottelu on tänä iltana,weather_query,0.996,0.0002,False
+7890,fi-FI,calendar,calendar_remove,poista hiustenleikkuu tänään,social_post,0.6705,0.002,False
+7891,fi-FI,calendar,calendar_remove,peru illallinen tänä iltana,cooking_recipe,0.3716,0.026,False
+7892,fi-FI,calendar,calendar_remove,poista päivän seuraava tapahtuma,calendar_remove,0.6946,0.6946,True
+7894,fi-FI,calendar,calendar_set,anna päivitys vaaleista tunnin kuluttua,qa_factoid,0.4746,0.0071,False
+7902,fi-FI,calendar,calendar_set,järjestä tapaaminen minun ja johnin kesken huomenna kello neljätoista,social_post,0.5705,0.0204,False
+7908,fi-FI,calendar,calendar_query,tarvitseeko minun tehdä mitään tänään,cooking_recipe,0.8559,0.0045,False
+7912,fi-FI,calendar,calendar_remove,alexa poista illallinen mikan kanssa kalenteristani,email_sendemail,0.3136,0.101,False
+7916,fi-FI,calendar,calendar_set,muistuta minua viemään roskat kuudelta,social_post,0.2105,0.0203,False
+7918,fi-FI,calendar,calendar_set,kalenteri tapahtuma kutsu bill malinda,qa_factoid,0.9475,0.003,False
+7919,fi-FI,calendar,calendar_set,uusi tapaaminen lisää simo ja mari osanottajiksi,qa_factoid,0.3157,0.0183,False
+7922,fi-FI,calendar,calendar_remove,avaa tapahtumat ja poista tulevaisuuden tapahtumat,qa_factoid,0.2412,0.0376,False
+7927,fi-FI,calendar,calendar_query,mitä minulla on tällä viikolla,weather_query,0.9677,0.0009,False
+7946,fi-FI,calendar,calendar_query,mitkä ovat tulevat konsertit turussa,play_music,0.3603,0.0128,False
+7953,fi-FI,calendar,calendar_remove,poista minun lääkärin aika lauantailta,social_post,0.9127,0.0346,False
+7955,fi-FI,calendar,calendar_set,laita tämä tapahtuma toistuvaksi minun kalenteriini,calendar_remove,0.1488,0.0279,False
+7956,fi-FI,calendar,calendar_set,voit laittaa tämän tapahtuman toistuvaksi,qa_factoid,0.3674,0.0233,False
+7966,fi-FI,calendar,calendar_query,käskinkö sinun muistuttaa minua,social_post,0.9965,0.0002,False
+7970,fi-FI,calendar,calendar_set,muistuta minua ostamaan lahja ajoissa häihin,qa_factoid,0.4864,0.0112,False
+7971,fi-FI,calendar,calendar_set,aseta muistutus kaksi päivää ennen tapahtumaa,email_sendemail,0.9997,0.0001,False
+7975,fi-FI,calendar,calendar_query,onko tapahtumassa pysäköintipalvelua,qa_factoid,0.2812,0.0142,False
+7978,fi-FI,calendar,calendar_query,mitä muistutuksia minulla on huomenna keskipäivällä,news_query,0.5029,0.0055,False
+7980,fi-FI,calendar,calendar_set,kerro minulle milloin minulla on tapahtuma,qa_factoid,0.5427,0.0013,False
+7981,fi-FI,calendar,calendar_set,lähetä hälytys ennen tapaamista,iot_hue_lightoff,0.9998,0.0,False
+7993,fi-FI,calendar,calendar_remove,poista kaikki tapahtumat minun kalenteristani,calendar_remove,0.7645,0.7645,True
+8001,fi-FI,calendar,calendar_remove,voitko poistaa hiustenleikkuun jonka olen varannut perjantaille,calendar_remove,0.4439,0.4439,True
+8004,fi-FI,calendar,calendar_set,dorothyn tarvitsee puhua minulle avioerostamme voitko järjestää tapaamisen heti kun kun olen vapaana,email_sendemail,0.982,0.0004,False
+8005,fi-FI,calendar,calendar_set,maanantaina kahdeskymmenes minun täytyy keskustella gregin kanssa viikonloppureissustamme,email_sendemail,0.5378,0.0156,False
+8013,fi-FI,calendar,calendar_query,näytä tapaamiseni ensi kuussa,social_post,0.4755,0.001,False
+8029,fi-FI,calendar,calendar_query,mitä tapahtumia on tulossa tänään,news_query,0.9972,0.0001,False
+8033,fi-FI,datetime,datetime_query,minä päivänä pääsiäinen on,weather_query,0.7518,0.2406,False
+8035,fi-FI,calendar,calendar_set,muistuta minua öljyn vaihdosta,iot_hue_lightoff,0.7005,0.0003,False
+8037,fi-FI,calendar,calendar_set,muistuta minua jostakin joskus,qa_factoid,0.9995,0.0,False
+8042,fi-FI,calendar,calendar_query,kuinka monta henkilöä osallistuu seuraavaan tapaamiseeni,qa_factoid,0.9805,0.0004,False
+8043,fi-FI,calendar,calendar_query,mihin aikaan on minun seuraava tapaaminen,qa_factoid,0.6835,0.0084,False
+8044,fi-FI,calendar,calendar_query,mitä on minun aikataulussa tänään,qa_factoid,0.9855,0.0004,False
+8055,fi-FI,calendar,calendar_remove,poista minun tapaaminen seitsemäs marraskuuta,social_post,0.9619,0.0153,False
+8056,fi-FI,calendar,calendar_query,onko minulla treffit perjantaina,qa_factoid,0.9986,0.0,False
+8058,fi-FI,calendar,calendar_query,onko minulla myyntikokous tänään,qa_factoid,0.4285,0.0124,False
+8073,fi-FI,calendar,calendar_set,ajoita myyntikokous keskiviikolle kello yksitoista,qa_factoid,0.7694,0.0076,False
+8079,fi-FI,calendar,calendar_set,aseta muistutus tunnin päähän minun leivän noutoon,calendar_set,0.5246,0.5246,True
+8084,fi-FI,calendar,calendar_query,mikä on tapahtuman aikataulu,datetime_query,0.9892,0.0004,False
+8085,fi-FI,calendar,calendar_set,haluaisin asettaa treffit tälle viikolle,qa_factoid,0.9229,0.0,False
+8100,fi-FI,email,email_sendemail,lähetä sähköpostia minun tapaamisilleni niiden uudelleen ajoittamiseksi,email_sendemail,1.0,1.0,True
+8107,fi-FI,calendar,calendar_set,laita syntymäpäivä tapahtuma martinille,email_sendemail,0.9852,0.0004,False
+8110,fi-FI,calendar,calendar_set,lisää valvonta kalenteriini kiitos,email_sendemail,0.6929,0.0011,False
+8116,fi-FI,calendar,calendar_query,mitä palavereja oli aikavälillä helmikuun ensimmäinen ja maaliskuun kuudestoista,lists_query,0.8288,0.0083,False
+8119,fi-FI,calendar,calendar_query,missä maryn syntymäpäiväjuhlat pidetään,calendar_remove,0.2231,0.0786,False
+8125,fi-FI,calendar,calendar_set,luo palaveri tapahtuma kalenteriini,qa_factoid,0.9974,0.0001,False
+8126,fi-FI,calendar,calendar_set,aikatauluta kokous tapahtuma minun kalenteriini,datetime_query,0.3674,0.0084,False
+8129,fi-FI,calendar,calendar_query,mitä muistutuksia minulla vielä on,news_query,0.9813,0.0006,False
+8140,fi-FI,calendar,calendar_set,aseta muistutus kolmannelletoista päivälle että minulla on lounas dalen kanssa,email_sendemail,0.9991,0.0005,False
+8148,fi-FI,calendar,calendar_query,jätinkö itselleni mitään muistutuksia,email_sendemail,1.0,0.0,False
+8150,fi-FI,calendar,calendar_query,onko minulla mitään muistutuksia syntymäpäivä juhlasta,news_query,0.715,0.0095,False
+8165,fi-FI,calendar,calendar_query,puoli yksi jo sinulla on tapaaminen kymmenen minuutin päästä,social_post,0.4875,0.0194,False
+8182,fi-FI,calendar,calendar_remove,voitko poistaa hammaslääkäriajan,iot_hue_lightoff,0.9979,0.0001,False
+8188,fi-FI,calendar,calendar_query,mikä päivä on tänään,weather_query,0.995,0.0003,False
+8204,fi-FI,calendar,calendar_set,muistuta menemään postitoimistolle,email_sendemail,0.9913,0.0001,False
+8206,fi-FI,calendar,calendar_set,älä anna minun unohtaa ostaa lahja siskolleni,iot_hue_lightoff,0.4213,0.0167,False
+8230,fi-FI,calendar,calendar_query,kuinka pitkä lounastapaamiseni on tiistaina,weather_query,0.9823,0.0005,False
+8241,fi-FI,calendar,calendar_remove,tyhjennä kaikki kalenteristani loppuvuodelta,iot_hue_lightoff,0.7352,0.0769,False
+8245,fi-FI,calendar,calendar_set,minulle tarvitsee ilmoittaa jumalanpalveluksista sunnuntaisin yhdeltätoista,iot_hue_lightoff,0.4622,0.0091,False
+8248,fi-FI,calendar,calendar_set,lisää huomisen illallis treffit kalenteriin,recommendation_events,0.5364,0.036,False
+8251,fi-FI,calendar,calendar_set,tarvitsen seuraavien viikkojen lounaat laitettavan kalenteriin,lists_remove,0.2726,0.128,False
+8260,fi-FI,calendar,calendar_set,muistuta minua päivää ennen jeren syntymäpäivää,calendar_remove,0.2808,0.0075,False
+8261,fi-FI,calendar,calendar_set,lähetä minulle hälytys tunti ennen seuraavaa tapaamistani,iot_hue_lightoff,1.0,0.0,False
+8269,fi-FI,calendar,calendar_set,puolen tunnin muistutus tiistain tapaamisesta,email_sendemail,0.3303,0.0129,False
+8276,fi-FI,calendar,calendar_remove,poista minun seuraava sovittu tapaaminen kiitos,qa_factoid,0.616,0.0138,False
+8280,fi-FI,calendar,calendar_set,minun tarvitsee asettaa muistutus maaliskuun viidennelletoista,email_sendemail,0.7927,0.0863,False
+8284,fi-FI,calendar,calendar_remove,poista syntymäpäivä kalenterista,iot_hue_lightoff,0.8395,0.002,False
+8289,fi-FI,calendar,calendar_set,aseta muistutus tämän päivän henkilökunnan tapaamisesta neljältä,email_sendemail,0.8383,0.0423,False
+8290,fi-FI,calendar,calendar_set,avaa muistutus ensi viikon esimiesten tapaamisesta tiistaina,email_sendemail,0.8681,0.0084,False
+8294,fi-FI,calendar,calendar_set,lisää kalenteriin ja toista,lists_remove,0.9976,0.0007,False
+8300,fi-FI,calendar,calendar_set,tallenna tapahtuma viidestä kuuteen maaliskuun kahdeksastoista,play_podcasts,0.542,0.012,False
+8302,fi-FI,calendar,calendar_remove,poista ensi maanantain tapaaminen,social_post,0.9417,0.0178,False
+8308,fi-FI,news,news_query,mikä protesti oli eilen keskipäivällä eduskuntatalolla,social_post,0.9841,0.0081,False
+8336,fi-FI,calendar,calendar_query,milloin on brunssini jennin kanssa,weather_query,0.9691,0.0003,False
+8343,fi-FI,datetime,datetime_query,onko keskiviikko,qa_factoid,0.2619,0.0384,False
+8345,fi-FI,calendar,calendar_set,kerro minulle milloin tapaaminen onnistuu,recommendation_events,0.3746,0.0085,False
+8347,fi-FI,calendar,calendar_query,mitä tapahtuu joulukuun neljäs,news_query,0.3295,0.0194,False
+8358,fi-FI,calendar,calendar_set,muistuta minua tästä,play_music,0.324,0.0019,False
+8366,fi-FI,calendar,calendar_set,tee maaliskuun kahdeksastatoista toistuva tapaaminen petran syntymäpäiväksi,email_sendemail,0.9466,0.0025,False
+8387,fi-FI,calendar,calendar_set,tee muistutus pyykille kahdeksalta illalla,social_post,0.6662,0.0064,False
+8388,fi-FI,calendar,calendar_set,haluan pestä pyykkiä kahdeksalta illalla luo muistutus,cooking_recipe,0.7874,0.0039,False
+8390,fi-FI,calendar,calendar_set,muistuta minua tapaamisestani,qa_factoid,0.9998,0.0,False
+8394,fi-FI,calendar,calendar_set,aseta muistutus joka päivä keskipäivällä ottamaan lääkkeet,calendar_set,0.5236,0.5236,True
+8404,fi-FI,calendar,calendar_query,haluan tietää lisää tästä tapahtumasta,recommendation_events,0.5632,0.0114,False
+8409,fi-FI,calendar,calendar_remove,poista minun illallinen huomenna,iot_hue_lightoff,0.1754,0.0909,False
+8410,fi-FI,calendar,calendar_remove,poista illallis tapahtumani maanantailta,social_post,0.4346,0.012,False
+8413,fi-FI,calendar,calendar_set,hälytä minua kiitos,email_sendemail,0.731,0.0001,False
+8414,fi-FI,calendar,calendar_set,muistuta minua menemään illalliselle ilkan kanssa perjantaina viideltä,social_post,0.9006,0.0031,False
+8415,fi-FI,calendar,calendar_set,lisää tapaaminen toimistolla petrin kanssa kolmelta tiistaina,social_post,0.3843,0.11,False
+8426,fi-FI,calendar,calendar_query,kerro minulle tämän hetkiset tapahtumat eilisen ja tämän aamun välillä,weather_query,0.6424,0.0143,False
+8430,fi-FI,calendar,calendar_remove,peru kaikki tapaamiseni,social_post,0.9462,0.0023,False
+8431,fi-FI,calendar,calendar_remove,hankkiudu eroon kaikista sovituista tapahtumistani,qa_factoid,0.4835,0.321,False
+8436,fi-FI,calendar,calendar_set,aseta lounastapaaminen kaksitoista keskipäivällä joka keskiviikko maaliskuussa,calendar_set,0.8191,0.8191,True
+8442,fi-FI,calendar,calendar_set,muokkaa kalenteriani tällä tapahtumalla kiitos,qa_factoid,0.9938,0.0002,False
+8449,fi-FI,calendar,calendar_set,lisää muistutus minun tyttärien syntymäpäiväksi,email_sendemail,0.9998,0.0,False
+8453,fi-FI,calendar,calendar_set,laita tapahtuma kalenteriini ja merkitse se toistuvaksi tapahtumaksi,qa_factoid,0.8992,0.0203,False
+8460,fi-FI,calendar,calendar_query,näytä minulle tapahtumani,calendar_set,0.3689,0.0788,False
+8461,fi-FI,calendar,calendar_query,mitkä ovat suunnitelmani toukokuulle,lists_query,0.4938,0.0077,False
+8466,fi-FI,calendar,calendar_set,minulla on aamu yhdeksän tapaaminen keskiviikkona lähetä minulle muistutus,social_post,0.402,0.0154,False
+8469,fi-FI,calendar,calendar_query,mitä on aikataulutettu kalenteriini tänään,lists_query,0.4963,0.0327,False
+8474,fi-FI,calendar,calendar_set,lisää kalenteriin jaanan syntymäpäiväjuhla huomenna kello kaksi iltapäivällä keskuskatu satakaksikymmentäkolmessa,calendar_set,0.3518,0.3518,True
+8494,fi-FI,calendar,calendar_query,miltä aikatauluni näyttää tänään,weather_query,0.9982,0.0001,False
+8496,fi-FI,calendar,calendar_query,kerro tapaamiseni huomenna aamulla,social_post,0.4075,0.005,False
+8498,fi-FI,calendar,calendar_query,käydään läpi kaikki odottavat muistutukset,lists_remove,0.4403,0.0094,False
+8516,fi-FI,calendar,calendar_remove,poista kalenterimerkintä,qa_factoid,0.9998,0.0,False
+8520,fi-FI,calendar,calendar_set,lisää tapahtuma kalenteriappiin,email_sendemail,0.999,0.0,False
+8525,fi-FI,calendar,calendar_query,tapaaminen muistutukset kolmesta viiteen,lists_remove,0.2913,0.0258,False
+8535,fi-FI,calendar,calendar_set,muistutatko minua hammaslääkärin ajanvarauksesta mikä minulla on kahden tunnin päästä,lists_remove,0.0576,0.0485,False
+8539,fi-FI,calendar,calendar_set,muistuta minua,qa_factoid,0.9974,0.0,False
+8541,fi-FI,calendar,calendar_set,muistuta minua kiitos,qa_factoid,0.9995,0.0,False
+8553,fi-FI,calendar,calendar_set,lisää tapaaminen kalenteriini yhdeksältä tomin kanssa,social_post,0.5364,0.0254,False
+8559,fi-FI,calendar,calendar_query,onko minulla mitään sovittuna tälle päivälle,weather_query,0.1994,0.0512,False
+8562,fi-FI,calendar,calendar_remove,poista tapaamiseni kello kaksi tänään,calendar_remove,0.9457,0.9457,True
+8568,fi-FI,calendar,calendar_set,lähettäisitkö kalenterikutsun jaakolle ja aliisalle brunssille yhdeltätoista tiistaina,social_post,0.7822,0.0018,False
+8570,fi-FI,calendar,calendar_set,merkitsetkö huomiseen tapahtumaan kahdelta että olen kiireinen,qa_factoid,0.2516,0.0187,False
+8579,fi-FI,calendar,calendar_query,mitä minun tulisi tietää tapaamisiini tänään,social_post,0.3417,0.0117,False
+8585,fi-FI,calendar,calendar_set,muistuta että minulla on syntymäpäiväjuhlat kolmaskymmenes,iot_hue_lightoff,0.8242,0.0535,False
+8598,fi-FI,calendar,calendar_set,muistuta minua hakemaan markku lentokentältä kuudelta illalla,transport_query,0.9771,0.0002,False
+8618,fi-FI,calendar,calendar_set,muistuta minua kastelemaan kukkani joka tiistai torstai ja lauantai,cooking_recipe,0.9864,0.0001,False
+8631,fi-FI,calendar,calendar_remove,poista tuo kalenteristani,qa_factoid,0.9676,0.0,False
+8635,fi-FI,calendar,calendar_set,voitko muistuttaa minua tilaamaan kalkkunan kolme viikkoa ennen kiitospäivää,qa_factoid,0.7766,0.0009,False
+8640,fi-FI,calendar,calendar_set,haluan tehdä muistiinpanon kalenteriini huomiselle tapahtumalle kirjastossa,iot_hue_lightoff,0.3359,0.0209,False
+8642,fi-FI,calendar,calendar_set,lisää puhelinneuvottelu neljältä muistutuksiini tänään,email_sendemail,0.9568,0.0021,False
+8651,fi-FI,calendar,calendar_set,ilmoita minulle tapahtumasta kalenterissani,email_sendemail,0.9997,0.0,False
+8653,fi-FI,calendar,calendar_set,muistuta minua tapahtumasta kalenterissani,iot_hue_lightoff,0.8438,0.0037,False
+8666,fi-FI,calendar,calendar_remove,poista kaikki tapahtumat kalenteristani,calendar_remove,0.9054,0.9054,True
+8667,fi-FI,calendar,calendar_query,kuinka monta tapaamista minulla oli herra salon kanssa viimeisen kolmen kuukauden aikana,recommendation_events,0.5716,0.0181,False
+8670,fi-FI,calendar,calendar_remove,poista tapahtumat kalenterista,play_podcasts,0.4238,0.0141,False
+8672,fi-FI,calendar,calendar_query,missä kissin konsertti on,social_post,0.9774,0.0005,False
+8674,fi-FI,calendar,calendar_query,missä on tapaamiseni yhdeksältä,social_post,0.4167,0.0306,False
+8679,fi-FI,calendar,calendar_query,onko tänään vappu,weather_query,0.3873,0.0041,False
+8681,fi-FI,calendar,calendar_query,onko kenenkään syntymäpäivä,qa_factoid,0.9979,0.0001,False
+8694,fi-FI,calendar,calendar_set,tapahtumassa tulee olemaan veeti ja emma,qa_factoid,0.2184,0.0265,False
+8730,fi-FI,calendar,calendar_set,aseta muistutus kalenteriini tapaamisestani maaliskuun kahdeskymmenesviides,email_sendemail,0.9959,0.0013,False
+8732,fi-FI,calendar,calendar_remove,poista kaikki pävät,lists_remove,0.6803,0.0635,False
+8762,fi-FI,calendar,calendar_query,kerro minun ajastukset iltapäivälle,news_query,0.2324,0.0204,False
+8765,fi-FI,calendar,calendar_set,laita minun päivällinen amarillossa tänään yhdeksältä,weather_query,0.9493,0.0012,False
+8766,fi-FI,calendar,calendar_query,onko minulla tapaaminen lauantaina maaliskuun kahdeskymmenesviides,social_post,0.4386,0.0286,False
+8767,fi-FI,calendar,calendar_query,onko jessican syntymäpäivä huhtikuun kahdestoista päivä,datetime_query,0.9846,0.0007,False
+8769,fi-FI,calendar,calendar_remove,poista tuleva tapahtuma,weather_query,0.7976,0.0292,False
+8771,fi-FI,calendar,calendar_remove,poista kauppareissu minkä olen varannut marraskuun kahdeskymmeneskolmas päivä,calendar_remove,0.9536,0.9536,True
+8774,fi-FI,calendar,calendar_query,onko minun aikatauluni heinäkuun seitsemäntenä täysin avoinna,qa_factoid,0.2296,0.0213,False
+8781,fi-FI,calendar,calendar_query,olenko vapaa neljältä,qa_factoid,0.9863,0.0001,False
+8782,fi-FI,calendar,calendar_query,onko minulla tapaaminen tällä iltapäivällä,social_post,0.5245,0.0217,False
+8791,fi-FI,calendar,calendar_query,enemmän tietoa tästä tapahtumasta,weather_query,0.3628,0.0136,False
+8795,fi-FI,calendar,calendar_query,näytä tulevat muistutukset,lists_remove,0.32,0.0187,False
+8822,fi-FI,recommendation,recommendation_events,infoa tulevista tapahtumista,email_sendemail,0.9705,0.001,False
+8824,fi-FI,calendar,calendar_query,mitä minulla on suunniteltuna yhdeksännelletoista kahdelta,lists_query,0.0972,0.0359,False
+8825,fi-FI,calendar,calendar_set,lähetä minulle muistutus tapaamisestani tomin kanssa ensi perjantaina,email_sendemail,1.0,0.0,False
+8828,fi-FI,calendar,calendar_query,onko kalenteri tapahtuma oikein,qa_factoid,0.9969,0.0002,False
+8846,fi-FI,calendar,calendar_query,onko minulla mitään sovittuna tänä vuonna neljäs heinäkuuta,datetime_query,0.1587,0.0331,False
+8853,fi-FI,calendar,calendar_remove,tyhjennä minun seuraava tehtävä,calendar_remove,0.7904,0.7904,True
+8856,fi-FI,calendar,calendar_remove,poista kaikki tapahtumat kalenterista,calendar_remove,0.6697,0.6697,True
+8857,fi-FI,calendar,calendar_set,muistuta tulevasta tapaamisesta elastisen kanssa,email_sendemail,0.2893,0.0178,False
+8868,fi-FI,calendar,calendar_set,muistuta minia soittaa äitille jokainen torstai kello kymmenen aamulla,play_music,0.9998,0.0,False
+8880,fi-FI,calendar,calendar_set,aseta huomisesta tapaamisesta muistutus yhdeksäksi aamulla,calendar_set,0.6463,0.6463,True
+8888,fi-FI,calendar,calendar_remove,poista se,social_post,0.9999,0.0,False
+8900,fi-FI,calendar,calendar_set,tee toistuva muistutus joka sunnuntaille,email_sendemail,0.8094,0.0018,False
+8904,fi-FI,calendar,calendar_query,tietoa viimeisistä tapahtumista,news_query,0.6021,0.0122,False
+8906,fi-FI,calendar,calendar_set,aseta tapahtuma kalenteriin muiden kanssa,play_podcasts,0.1554,0.1376,False
+8907,fi-FI,calendar,calendar_set,mainitse tapahtuma yhteisessä kalenterissa,play_radio,0.2817,0.0039,False
+8912,fi-FI,calendar,calendar_query,anna minulle tämän päivän kalenteri tapahtumat kuuden jälkeen,calendar_remove,0.3651,0.02,False
+8914,fi-FI,calendar,calendar_query,mikä on minun ajanvaraus huhtikuun neljäs,qa_factoid,0.5174,0.0102,False
+8916,fi-FI,calendar,calendar_query,mikä on aikataulu päivälle,datetime_query,0.9647,0.0007,False
+8925,fi-FI,calendar,calendar_remove,poista kaikki tapahtumat kalenteristani,calendar_remove,0.9054,0.9054,True
+8939,fi-FI,calendar,calendar_set,hannan tytön vauvakutsut,social_post,0.9518,0.001,False
+8948,fi-FI,calendar,calendar_set,lisää tapahtuma tapaaminen jannen kanssa,email_sendemail,0.5747,0.0008,False
+8949,fi-FI,calendar,calendar_remove,poista muistutus kiitos,qa_factoid,0.9978,0.0,False
+8958,fi-FI,calendar,calendar_query,avaa kokouksen aika,qa_factoid,0.9827,0.0001,False
+8960,fi-FI,calendar,calendar_set,haluan että teetä hälytyksen illalle tulevasta tapaamisesta,iot_hue_lightoff,0.9969,0.0,False
+8967,fi-FI,calendar,calendar_set,muistuta minua kaksi päivää ennen vaimoni syntymäpäivää,iot_hue_lightoff,0.2163,0.0141,False
+8968,fi-FI,calendar,calendar_set,kerro minulle jotain mitä pitää muistuttaa tällä viikolla,lists_query,0.1387,0.048,False
+8975,fi-FI,calendar,calendar_query,mitä tapaamisia on sovittuna tälle päivälle,lists_query,0.4204,0.0074,False
+8977,fi-FI,calendar,calendar_set,aseta muistutukset avoimista laskuista,email_sendemail,0.9897,0.0021,False
+8978,fi-FI,calendar,calendar_set,tuo tietooni tärkeät tapaamiset pomoni kanssa viikon aikana,recommendation_events,0.55,0.007,False
+8985,fi-FI,calendar,calendar_remove,ok google poista erkin syntymäpäivä kalenterista,recommendation_events,0.6001,0.004,False
+8990,fi-FI,calendar,calendar_set,luo tapahtuma,qa_factoid,0.9995,0.0,False
+8992,fi-FI,calendar,calendar_set,näytä tapaamiset,play_podcasts,0.5081,0.0088,False
+9009,fi-FI,calendar,calendar_remove,poista vuosipäivä tapahtuma kalenteristani,weather_query,0.745,0.0933,False
+9011,fi-FI,calendar,calendar_query,onko kiitospäivän tapahtuma tämän kuun neljästoista varma,qa_factoid,0.5662,0.0016,False
+9014,fi-FI,calendar,calendar_set,aseta ilmoitus tapaamisesta minun työkavereideni kanssa kahdeskymmeneskolmas lokakuuta,social_post,0.5609,0.0007,False
+9015,fi-FI,calendar,calendar_remove,tyhjennä kalenterini kaikista tapahtumista,calendar_remove,0.8328,0.8328,True
+9019,fi-FI,calendar,calendar_query,tapaamiset kahdestakymmenennestä kahdenteenkymmenenteenviidenteen kesäkuuta,news_query,0.2885,0.0332,False
+9030,fi-FI,calendar,calendar_remove,poista kalenterista lääkäriaikani tältä päivältä,calendar_remove,0.4224,0.4224,True
+9035,fi-FI,calendar,calendar_query,raulin häät muistutus,social_post,0.4944,0.0054,False
+9043,fi-FI,calendar,calendar_set,tulevat tapahtumat kalenterissa,qa_factoid,0.7265,0.0142,False
+9053,fi-FI,calendar,calendar_set,aseta muistutus tapaamisesta monikan kanssa tiistaina,calendar_set,0.4058,0.4058,True
+9054,fi-FI,calendar,calendar_set,tapahtuma muistutus monika tiistaina,social_post,0.6199,0.0125,False
+9059,fi-FI,calendar,calendar_set,hälytä tapahtuman alkaessa,weather_query,0.8956,0.0014,False
+9061,fi-FI,calendar,calendar_query,mitä tietoa minulla on muistutuksista,qa_factoid,0.8238,0.0047,False
+9062,fi-FI,calendar,calendar_set,voitko laittaa liin syntymäpäivän kesäkuun kahdellekymmenennelletoiselle,calendar_remove,0.9632,0.0233,False
+9074,fi-FI,calendar,calendar_remove,poista se tapahtuma kiitos,qa_factoid,0.9883,0.0001,False
+9088,fi-FI,calendar,calendar_remove,poista kaikki kalenteristani,lists_remove,0.7367,0.0593,False
+9095,fi-FI,calendar,calendar_remove,poista tämän illan illallinen seijan kanssa,social_post,0.7144,0.0034,False
+9103,fi-FI,calendar,calendar_query,onko kalenterissani tapaaminen tänä iltapäivänä,recommendation_events,0.2703,0.0277,False
+9107,fi-FI,calendar,calendar_query,mihin aikaan olavi uusivirran konsertti alkaa kesäkuun kolmas,qa_factoid,0.7175,0.008,False
+9110,fi-FI,calendar,calendar_set,näyttely kaksituhatta seitsemäntoista messu maaliskuun kahdeskymmenesviides tee muistiinpano kyseiselle päivälle,social_post,0.2225,0.021,False
+9112,fi-FI,calendar,calendar_set,lisää tämä kalenteriini,calendar_set,0.8591,0.8591,True
+9114,fi-FI,calendar,calendar_set,tee toistuva muistutus tälle kalenteritapahtumalle,qa_factoid,0.6845,0.0157,False
+9116,fi-FI,calendar,calendar_query,voisitko siirtää minun tapaamiseni,qa_factoid,0.7293,0.0011,False
+9121,fi-FI,calendar,calendar_query,mitkä päivät minulla on varattu,datetime_query,0.9633,0.0048,False
+9124,fi-FI,calendar,calendar_set,näytä tapahtumat minun työ kalenterissa seuraavalla viikolla,news_query,0.6024,0.0158,False
+9137,fi-FI,calendar,calendar_query,mihin aikaan italialainen kahvila on suljettuna lounaan ja illallisen välillä,weather_query,0.9294,0.0015,False
+9138,fi-FI,qa,qa_factoid,milloin super bowl virallisesti alkaa,datetime_query,0.995,0.0037,False
+9149,fi-FI,calendar,calendar_query,mihin aikaan mustan puvun gaala illallisen on tarkoitus alkaa,qa_definition,0.1647,0.0416,False
+9153,fi-FI,calendar,calendar_set,lisää illallinen katrin kanssa kalenteriini lauantaille kiitos,cooking_recipe,0.6183,0.0502,False
+9155,fi-FI,calendar,calendar_set,laita perjantaille hammaslääkäriaika kolmelta,qa_factoid,0.8532,0.0012,False
+9156,fi-FI,calendar,calendar_set,muistuta,iot_hue_lightoff,0.5103,0.007,False
+9175,fi-FI,calendar,calendar_query,onko kalenterini päivitetty viimeisen kymmenen minuutin aikana,lists_query,0.1144,0.0412,False
+9182,fi-FI,calendar,calendar_remove,peru suunnitelmani hakea vanhempani lentokentältä,transport_query,0.874,0.0011,False
+9187,fi-FI,calendar,calendar_set,tutki asiakkaat jotka osallistuvat tapaamiseen,email_sendemail,0.7534,0.0006,False
+9193,fi-FI,calendar,calendar_set,aseta tämä päivä toistumaan kiitos,qa_factoid,0.5918,0.033,False
+9194,fi-FI,calendar,calendar_remove,poista tämä tapahtuma kalenteristani,qa_factoid,0.5897,0.2044,False
+9197,fi-FI,calendar,calendar_query,mitä minulla on suunniteltuna tälle viikolle,qa_factoid,0.6768,0.0039,False
+9198,fi-FI,calendar,calendar_query,tarkista minun muistutukset,email_sendemail,0.3779,0.0105,False
+9202,fi-FI,play,play_radio,soita minun radio asemaa,qa_factoid,0.9779,0.022,False
+9204,fi-FI,play,play_radio,käynnistä b. b. c. radio,play_radio,1.0,1.0,True
+9212,fi-FI,play,play_radio,joku soittaa radiota,play_radio,0.9998,0.9998,True
+9216,fi-FI,play,play_radio,soita minun kanava,social_post,0.9948,0.0001,False
+9225,fi-FI,play,play_radio,käynnistätkö radion,play_radio,1.0,1.0,True
+9233,fi-FI,play,play_radio,avaa pandora,qa_factoid,0.9977,0.0001,False
+9236,fi-FI,play,play_radio,mene radio cityn kanavalle,play_radio,0.9804,0.9804,True
+9237,fi-FI,play,play_radio,käynnistä radio ja soita n. r. j. kanava,play_radio,1.0,1.0,True
+9250,fi-FI,play,play_radio,haluan kuunnella radiota,play_radio,1.0,1.0,True
+9254,fi-FI,play,play_radio,ole hyvä viritä groove f. m. radio,play_radio,0.9802,0.9802,True
+9263,fi-FI,play,play_radio,avaa radio sovellus,qa_factoid,0.9225,0.0772,False
+9269,fi-FI,play,play_radio,viritä radio rockiin,play_radio,0.4828,0.4828,True
+9270,fi-FI,play,play_radio,soita vain ysikolmeseitsemän f. m.,qa_factoid,0.9748,0.0012,False
+9275,fi-FI,play,play_radio,vain yhdeksänkymmentäkuusipilkkukahdeksan soitetaan radiossa,play_radio,0.9851,0.9851,True
+9284,fi-FI,play,play_radio,soita f. m.,email_sendemail,0.9325,0.0016,False
+9291,fi-FI,play,play_radio,laita päälle,iot_hue_lightoff,0.8561,0.0346,False
+9301,fi-FI,play,play_radio,toista kanavaa,social_post,0.9053,0.0021,False
+9303,fi-FI,play,play_radio,soita iskelmä kanavaa,social_post,0.9997,0.0,False
+9305,fi-FI,play,play_radio,tuneta klassiset hitit,iot_hue_lightoff,0.6458,0.0067,False
+9316,fi-FI,play,play_radio,soita minulle kiss f. m.,social_post,0.9261,0.0037,False
+9317,fi-FI,play,play_radio,käynnistä radio yle yksi,play_radio,1.0,1.0,True
+9321,fi-FI,play,play_radio,laita radio päälle nyt,play_radio,1.0,1.0,True
+9323,fi-FI,play,play_radio,käynnistä pandora,qa_factoid,0.8809,0.0401,False
+9326,fi-FI,play,play_radio,laita päälle yle radio juuri nyt,play_radio,1.0,1.0,True
+9327,fi-FI,play,play_radio,ole hyvä skannaa am lähetys radiossa juuri nyt,play_radio,0.9999,0.9999,True
+9330,fi-FI,play,play_radio,soita,qa_factoid,0.3467,0.0206,False
+9341,fi-FI,play,play_radio,alexa muuta radio kanavaa,play_radio,0.996,0.996,True
+9352,fi-FI,play,play_radio,avaa radio kiitos,play_radio,0.6509,0.6509,True
+9353,fi-FI,play,play_radio,laita jotain musiikkia laita radio,play_music,1.0,0.0,False
+9358,fi-FI,play,play_radio,avaa radiokanava kahdeksansataa kahdeksankymmentäyhdeksän,play_radio,1.0,1.0,True
+9361,fi-FI,play,play_radio,kuuntele radiota,play_radio,1.0,1.0,True
+9362,fi-FI,play,play_radio,radio helsinki kanavat,play_radio,1.0,1.0,True
+9363,fi-FI,play,play_radio,soitetaan radio hittejä,play_radio,0.9849,0.9849,True
+9364,fi-FI,play,play_radio,soitetaan musiikki hitit,play_music,0.9997,0.0,False
+9380,fi-FI,play,play_radio,minä haluan että sinä menet nrj radiossa,play_radio,0.9955,0.9955,True
+9384,fi-FI,play,play_radio,soita yle radio,play_radio,1.0,1.0,True
+9394,fi-FI,play,play_radio,hei olly soita radiota,social_post,0.8766,0.1233,False
+9402,fi-FI,play,play_radio,toista yle x radio kanava,qa_factoid,0.9784,0.0213,False
+9406,fi-FI,play,play_radio,aloita minun sirius xm radio kanava,qa_factoid,1.0,0.0,False
+9408,fi-FI,play,play_radio,aloita radion soittaminen,play_radio,1.0,1.0,True
+9426,fi-FI,play,play_radio,haluan kuunnella kanavan joka soittaa r. n. b. musiikkia,play_music,1.0,0.0,False
+9438,fi-FI,play,play_radio,voitko soittaa räppi kappaleen radiosta,play_radio,0.9694,0.9694,True
+9457,fi-FI,play,play_music,toista kappale let it go,social_post,0.9613,0.0002,False
+9460,fi-FI,play,play_music,soita yhdeksänkymmentäluvun hiphoppia,play_music,0.9997,0.9997,True
+9471,fi-FI,play,play_radio,käännä kantri musiikki kanava,play_music,0.9999,0.0001,False
+9494,fi-FI,play,play_radio,soittaisitko f. m. asemaa joka soittaa pop lauluja,play_music,0.8938,0.0005,False
+9506,fi-FI,play,play_radio,soita yle satakolme piste viisi,play_music,0.9998,0.0001,False
+9507,fi-FI,play,play_radio,etsi radiokanavaa joka tällä hetkellä soittaa howard sterniä,play_radio,1.0,1.0,True
+9519,fi-FI,play,play_radio,soita mitä tahansa pop f. m. kanava,play_music,0.9972,0.0003,False
+9520,fi-FI,play,play_radio,soita viimeisin doctor who radiolähetys,play_radio,1.0,1.0,True
+9524,fi-FI,play,play_radio,laita xmtune ohjelma,qa_factoid,0.9533,0.001,False
+9528,fi-FI,play,play_radio,avaa ylelle ja toista kaiuttimista,qa_factoid,0.3642,0.0349,False
+9541,fi-FI,play,play_radio,soita sweet laulu radiossa,play_radio,1.0,1.0,True
+9542,fi-FI,play,play_radio,anna minun kuunnella viimeisin uutisohjelma radiossa,play_radio,1.0,1.0,True
+9545,fi-FI,play,play_radio,soita aamulypsy ohjelma,iot_hue_lightoff,0.3042,0.024,False
+9554,fi-FI,play,play_radio,soita romanttista musiikkia suomipopilla,social_post,0.7639,0.0006,False
+9561,fi-FI,play,play_radio,soita asema gx radiossa,qa_factoid,1.0,0.0,False
+9562,fi-FI,play,play_radio,voisitko soittaa minulle vauhti kiihtyy,play_music,0.9999,0.0,False
+9565,fi-FI,play,play_radio,avaa radiokanava jossa soitetaan pelkkiä kappaleita,play_radio,1.0,1.0,True
+9568,fi-FI,play,play_radio,soita britney spears live konsertti sarja,play_podcasts,0.8028,0.0029,False
+9569,fi-FI,play,play_radio,ok google soita satakuusi piste seitsemän,play_music,0.5114,0.0205,False
+9577,fi-FI,play,play_radio,vaihda kanavaan kahdeksankymmentäkaksi piste neljä,qa_factoid,0.846,0.0026,False
+9591,fi-FI,play,play_radio,toista bhuli bisri yaadien ohjelma radio rockilta,iot_hue_lightoff,0.9958,0.0009,False
+9592,fi-FI,play,play_podcasts,hae podcasteja jotka käsittelee miesten ongelmia,play_podcasts,1.0,1.0,True
+9594,fi-FI,play,play_radio,f. m. yhdeksänkymmentäkolme piste viisi radio kappaleet,play_radio,0.9839,0.9839,True
+9601,fi-FI,play,play_radio,toista kantri radio,play_radio,0.9812,0.9812,True
+9617,fi-FI,play,play_radio,soita tänä aamuna ohjelma asemalta satayksi piste yhdeksän,play_music,0.9943,0.0019,False
+9619,fi-FI,play,play_radio,toista prairie home companion autoradiossa,play_radio,0.9095,0.9095,True
+9620,fi-FI,play,play_radio,saanko suomipopin makuuhuoneen radioon,play_radio,1.0,1.0,True
+9629,fi-FI,play,play_radio,voisitko auttaa minua radion kuuntelemisessa,play_radio,1.0,1.0,True
+9630,fi-FI,play,play_radio,avaa minulle radio suomipop,social_post,0.9465,0.0533,False
+9632,fi-FI,play,play_radio,radio kiitos,qa_factoid,0.7597,0.2293,False
+9637,fi-FI,play,play_radio,avaa mun i heart radio soittolista,play_music,0.673,0.3267,False
+9640,fi-FI,play,play_radio,avaa spotify ja avaa treeni,qa_factoid,0.987,0.0002,False
+9651,fi-FI,play,play_radio,toista netflix minun p. s. neljällä,recommendation_events,0.963,0.001,False
+9656,fi-FI,play,play_music,soita menevä kappale kaiuttimiesi kautta,play_music,0.4508,0.4508,True
+9706,fi-FI,play,play_music,soita kulkuset,social_post,0.4374,0.0106,False
+9707,fi-FI,play,play_music,avaa media toista kulkuset,qa_definition,0.8931,0.0006,False
+9738,fi-FI,play,play_music,voisitko soittaa klassista musiikkia minulle kiitos,play_music,1.0,1.0,True
+9793,fi-FI,play,play_music,soita rakkaus lauluja,social_post,0.9904,0.0,False
+9795,fi-FI,play,play_music,jatka soittamista born to run,play_music,0.9748,0.9748,True
+9912,fi-FI,cooking,cooking_recipe,olly kuinka kauan minun tilisi keittää kananmunia,cooking_recipe,0.9999,0.9999,True
+9918,fi-FI,cooking,cooking_recipe,kuinka teen pizzan,cooking_recipe,0.9923,0.9923,True
+9923,fi-FI,cooking,cooking_recipe,kuinka kauan minun tulisi keittää kananmunaa,cooking_recipe,1.0,1.0,True
+9924,fi-FI,cooking,cooking_recipe,kerro minulle resepti,cooking_recipe,0.9997,0.9997,True
+9930,fi-FI,cooking,cooking_recipe,kuinka kauan minun tulisi keittää kananmunaa,cooking_recipe,1.0,1.0,True
+9931,fi-FI,cooking,cooking_recipe,olly kuinka kauan minun tulisi keittää kananmunia,cooking_recipe,1.0,1.0,True
+9940,fi-FI,cooking,cooking_recipe,etsi minulle suklaakakun resepti,cooking_recipe,0.9999,0.9999,True
+9941,fi-FI,cooking,cooking_recipe,kuinka valmistan voikanaa,social_post,1.0,0.0,False
+9942,fi-FI,cooking,cooking_recipe,mitä kaikkea kuuluu red velvet kakkuun,lists_query,0.6564,0.0778,False
+9943,fi-FI,cooking,cooking_recipe,kuinka kauan kestää valmistaa kasvislasagne,cooking_recipe,0.9562,0.9562,True
+9952,fi-FI,cooking,cooking_recipe,näytä minulle opetusvideo ruoanlaitosta,play_podcasts,0.9987,0.0001,False
+9955,fi-FI,cooking,cooking_recipe,näytä minulle video paistetun kanan valmistuksesta,cooking_recipe,0.9998,0.9998,True
+9956,fi-FI,cooking,cooking_recipe,millä voin korvata voin,qa_factoid,0.9883,0.0001,False
+9961,fi-FI,cooking,cooking_recipe,mikä on paras uunin lämpötila perunoiden paahtamiseen,cooking_recipe,0.9337,0.9337,True
+9962,fi-FI,cooking,cooking_recipe,mikä on paras tapa keittää pasta al dente,cooking_recipe,1.0,1.0,True
+9964,fi-FI,cooking,cooking_recipe,tietoa ruoan käsittelystä,qa_factoid,0.9672,0.0099,False
+9966,fi-FI,cooking,cooking_recipe,mikä on helpoin tapa keittää pasta,cooking_recipe,0.9999,0.9999,True
+9969,fi-FI,cooking,cooking_recipe,mitä ainesosaa voi käyttää sahramin sijasta,qa_factoid,0.7399,0.0028,False
+9971,fi-FI,cooking,cooking_recipe,kumpi johtaa lämpöä paremmin kuparipohjainen kattila vai valurauta,weather_query,0.7752,0.0035,False
+9976,fi-FI,cooking,cooking_recipe,hei robotti anna minulle lista ainesosista walesiläiseen jänisleipään,social_post,0.6981,0.0008,False
+9977,fi-FI,cooking,cooking_recipe,etsi ja näytä netistä sopivia youtube videoita italialaisten ruokien valmistukseen,cooking_recipe,0.9983,0.9983,True
+9979,fi-FI,cooking,cooking_recipe,keitä minulle hieman kauraa,cooking_recipe,0.9913,0.9913,True
+9980,fi-FI,cooking,cooking_recipe,mikä on tämän päivän menu lisää myös hieman keitettyjä kasviksia siihen,lists_remove,0.9842,0.0005,False
+9986,fi-FI,cooking,cooking_recipe,keittäminen,cooking_recipe,0.7121,0.7121,True
+9994,fi-FI,cooking,cooking_recipe,voitko kertoa palapaistin valmistus reseptin,qa_factoid,0.9999,0.0001,False
+10016,fi-FI,cooking,cooking_recipe,miten kuvailet joulukinkun valmistamisen viidellä virkkeellä,cooking_recipe,0.9988,0.9988,True
+10019,fi-FI,cooking,cooking_recipe,kerro minulle kuinka paistaa kaksitoista kaurakeksiä kiitos,cooking_recipe,0.9998,0.9998,True
+10023,fi-FI,cooking,cooking_recipe,mitä tarvitsen valmistaakseni lammas pathiaa,cooking_recipe,0.8434,0.8434,True
+10027,fi-FI,cooking,cooking_recipe,ohjeet annoksen valmistamiseen,cooking_recipe,0.9993,0.9993,True
+10031,fi-FI,cooking,cooking_recipe,tarvitsen reseptin joka sisältää ostos listani ainesosat,lists_remove,0.6882,0.014,False
+10038,fi-FI,cooking,cooking_recipe,tarvitsen hyviä ideoita ruoanvalmistukseen,cooking_recipe,0.9947,0.9947,True
+10045,fi-FI,cooking,cooking_recipe,voitko antaa reseptin kotitekoiseen kananuudelikeittoon,qa_factoid,0.9891,0.0,False
+10048,fi-FI,cooking,cooking_recipe,kuinka valmistan kalkkunan,qa_factoid,0.994,0.0,False
+10049,fi-FI,cooking,cooking_recipe,kerro minulle kuinka tehdä täytetty voileipä,cooking_recipe,0.9999,0.9999,True
+10053,fi-FI,cooking,cooking_recipe,kuinka valmistan pizzan,cooking_recipe,0.9996,0.9996,True
+10055,fi-FI,cooking,cooking_recipe,mikä on paistetun kanan resepti,cooking_recipe,1.0,1.0,True
+10061,fi-FI,cooking,cooking_recipe,itä minun tulisi tehdä illalliseksi,cooking_recipe,0.993,0.993,True
+10072,fi-FI,cooking,cooking_recipe,kypsennysaika kanalle uunissa,qa_definition,0.6439,0.0016,False
+10076,fi-FI,cooking,cooking_recipe,voiko ruokasoodan korvata leivinjauheella,cooking_recipe,0.9997,0.9997,True
+10077,fi-FI,cooking,cooking_recipe,etsi resepti tämän illan päivälliselle,cooking_recipe,1.0,1.0,True
+10078,fi-FI,cooking,cooking_recipe,mitä minun tulisi valmistaa illalliseksi,cooking_recipe,0.9995,0.9995,True
+10080,fi-FI,cooking,cooking_recipe,tehdään yhdessä lihapullia,cooking_recipe,0.9997,0.9997,True
+10081,fi-FI,cooking,cooking_recipe,kerro kuinka valmistan lihapullia,social_post,0.9592,0.0001,False
+10090,fi-FI,cooking,cooking_recipe,saanko reseptin tonnikalalle,email_sendemail,0.5286,0.005,False
+10093,fi-FI,cooking,cooking_recipe,kuinka lasagne tehdään,cooking_recipe,0.9999,0.9999,True
+10097,fi-FI,cooking,cooking_recipe,haluaisin juustohampurilaisen,social_post,0.9841,0.0004,False
+10099,fi-FI,cooking,cooking_recipe,tiedätkö kuinka valmistaa risottoa,cooking_recipe,1.0,1.0,True
+10100,fi-FI,cooking,cooking_recipe,tiedätkö risotto reseptin,qa_factoid,1.0,0.0,False
+10105,fi-FI,cooking,cooking_recipe,kuinka kauan minun tulisi paistaa pihviä puolikypsäksi,cooking_recipe,0.9997,0.9997,True
+10107,fi-FI,cooking,cooking_recipe,tarvitsen kasvis pulavin reseptin,qa_factoid,0.9849,0.0003,False
+10119,fi-FI,cooking,cooking_recipe,kuinka kauan kahdeksan kilon kalkkunaa tulee kypsentää,qa_factoid,0.9599,0.0045,False
+10125,fi-FI,cooking,cooking_recipe,mikä on paistamisen ja paahtamisen ero,cooking_recipe,0.8743,0.8743,True
+10132,fi-FI,cooking,cooking_recipe,kuinka kauan minun tulisi paistaa pihviä mediumiksi,cooking_recipe,0.9841,0.9841,True
+10150,fi-FI,cooking,cooking_recipe,kuinka valmistaa taco,cooking_recipe,1.0,1.0,True
+10156,fi-FI,cooking,cooking_recipe,minun täytyy tietää kuinka tehdä täytettyjä paprikoita,cooking_recipe,1.0,1.0,True
+10164,fi-FI,cooking,cooking_recipe,kuinka kauan keitän makaronia,cooking_recipe,0.9999,0.9999,True
+10166,fi-FI,cooking,cooking_recipe,etsi omenapiirakan resepti,cooking_recipe,0.8492,0.8492,True
+10171,fi-FI,cooking,cooking_recipe,mikä on kalakeiton resepti,cooking_recipe,1.0,1.0,True
+10177,fi-FI,cooking,cooking_recipe,kuinka valmista spagettikurpitsa,qa_definition,0.6404,0.001,False
+10182,fi-FI,cooking,cooking_recipe,montako kananmunaa tarvitsen omelettiin,email_sendemail,0.9419,0.0,False
+10197,fi-FI,cooking,cooking_recipe,näytä minulle paras resepti spagetille,cooking_recipe,1.0,1.0,True
+10206,fi-FI,cooking,cooking_recipe,kuinka riisiä valmistetaan,cooking_recipe,0.9491,0.9491,True
+10213,fi-FI,cooking,cooking_recipe,lista kuuluisista lihapata resepteistä,cooking_recipe,0.9999,0.9999,True
+10214,fi-FI,cooking,cooking_recipe,tunnissa valmistettavia reseptejä,cooking_recipe,1.0,1.0,True
+10216,fi-FI,cooking,cooking_recipe,etsi internetissä muffinsien leivontavälineiden ostamista varten,cooking_recipe,0.9858,0.9858,True
+10217,fi-FI,cooking,cooking_recipe,etsi sambarin resepti cookingforu apissa,cooking_recipe,1.0,1.0,True
+10220,fi-FI,cooking,cooking_recipe,mitä ainesosia tarvitsen leipoakseni suuren kakun,social_post,0.6668,0.159,False
+10224,fi-FI,cooking,cooking_recipe,sen täytyy olla maku,qa_factoid,0.9706,0.0013,False
+10226,fi-FI,cooking,cooking_recipe,kerro minulle resepti pastan valmistukseen,cooking_recipe,1.0,1.0,True
+10426,fi-FI,lists,lists_query,mitä muuta päiväkirjasta puuttuu,lists_remove,0.6959,0.0087,False
+10427,fi-FI,lists,lists_remove,puhdista ostos listani kiitos,social_post,0.8126,0.0359,False
+10430,fi-FI,lists,lists_remove,poista listan ensimmäinen kohta,qa_factoid,0.6598,0.0052,False
+10433,fi-FI,lists,lists_remove,poista minun tehtävä lista,lists_remove,0.9999,0.9999,True
+10440,fi-FI,lists,lists_query,onko mun listalla mitään erityisiä tapahtumia,news_query,0.8792,0.0695,False
+10442,fi-FI,lists,lists_remove,poista tapahtumat listaltani,lists_remove,0.3761,0.3761,True
+10444,fi-FI,lists,lists_remove,poista nimike,social_post,0.9778,0.0002,False
+10451,fi-FI,lists,lists_query,mitä minä teen tänään,cooking_recipe,0.7956,0.0091,False
+10455,fi-FI,lists,lists_query,mitä on minun tehtävä listalla,lists_query,0.9956,0.9956,True
+10462,fi-FI,lists,lists_remove,poista lista,lists_query,0.8192,0.0355,False
+10493,fi-FI,lists,lists_query,mitä minun tehtävä listallani on,lists_query,0.9137,0.9137,True
+10494,fi-FI,lists,lists_remove,poista lyijykynä kiinteistä,social_post,0.6919,0.113,False
+10497,fi-FI,qa,qa_factoid,saisinko listan viiden tähden hotelleista pariisissa,lists_query,0.8604,0.0008,False
+10508,fi-FI,lists,lists_remove,poista listan tuote,lists_query,0.9279,0.0298,False
+10512,fi-FI,lists,lists_query,listaa kaikki mikä on kyselyssäni jäljellä,lists_query,0.823,0.823,True
+10523,fi-FI,lists,lists_remove,poista soittolistalta mun vanhat suomalaiset laulut lista,social_post,0.7255,0.0188,False
+10525,fi-FI,lists,lists_remove,poista autoni lasku kalenterista,qa_factoid,1.0,0.0,False
+10527,fi-FI,lists,lists_remove,poista lista,lists_query,0.8192,0.0355,False
+10534,fi-FI,lists,lists_query,millainen tehtävä lista tänään,lists_remove,0.8934,0.1028,False
+10538,fi-FI,lists,lists_query,toista ostos listani kiitos,qa_factoid,0.9308,0.002,False
+10565,fi-FI,lists,lists_remove,poista kaikki listat,lists_remove,0.9981,0.9981,True
+10568,fi-FI,lists,lists_remove,poista vanha musiikki lista,play_music,0.9974,0.0013,False
+10570,fi-FI,lists,lists_query,tarkista minun tehtävä listani,lists_query,0.9116,0.9116,True
+10571,fi-FI,lists,lists_query,android,iot_hue_lightoff,0.2324,0.0685,False
+10577,fi-FI,lists,lists_query,anna minulle kaikki listani,lists_query,0.9888,0.9888,True
+10579,fi-FI,lists,lists_remove,nollaa minun sijainti listani,social_post,0.4745,0.0107,False
+10588,fi-FI,lists,lists_query,näytä minulle listan sisältö,lists_query,0.9998,0.9998,True
+10590,fi-FI,lists,lists_remove,poista toinen rivi listasta,lists_remove,0.8019,0.8019,True
+10655,fi-FI,lists,lists_remove,poista lista nimeltään bileiden aika,lists_remove,0.9982,0.9982,True
+10667,fi-FI,lists,lists_query,lausu listalla olevat aikataulut,qa_factoid,0.9851,0.0006,False
+10673,fi-FI,lists,lists_remove,poista seuraava lista,lists_remove,0.9999,0.9999,True
+10674,fi-FI,lists,lists_remove,tuhoa nykyinen lista,lists_remove,0.9958,0.9958,True
+10679,fi-FI,lists,lists_query,mitä tehtävä listallani on tänään,lists_query,0.9252,0.9252,True
+10684,fi-FI,lists,lists_query,mitä listoja minä olen kysynyt,lists_query,1.0,1.0,True
+10687,fi-FI,lists,lists_remove,jos sieltä löytyy näyttelytapahtuma poista se,qa_factoid,0.9815,0.0127,False
+10696,fi-FI,lists,lists_remove,korvaa,qa_factoid,0.9991,0.0,False
+10699,fi-FI,lists,lists_query,ilmoita minulle listalla olevat asiat,lists_remove,0.808,0.1398,False
+10718,fi-FI,lists,lists_remove,voitko poistaa tämän asian listalta,lists_remove,0.6706,0.6706,True
+10731,fi-FI,lists,lists_query,lue mitä minun listallani on,lists_query,0.9988,0.9988,True
+10743,fi-FI,lists,lists_remove,poista tuo kohde,social_post,0.935,0.001,False
+10753,fi-FI,lists,lists_query,mitä mä oon laittanut jo tokmanni listalle,lists_query,0.9659,0.9659,True
+10755,fi-FI,lists,lists_remove,poista tehtävä listani,lists_remove,0.9979,0.9979,True
+10756,fi-FI,lists,lists_remove,tyhjennä ostos lista,lists_remove,0.9987,0.9987,True
+10757,fi-FI,lists,lists_query,mitä tuotteita on minun ostos listallani,lists_query,0.9715,0.9715,True
+10759,fi-FI,lists,lists_query,lue minulle ostos lista,social_post,0.9353,0.0233,False
+10760,fi-FI,lists,lists_query,kerro minulle listasta jonka kirjoitin kaksi päivää sitten,lists_remove,0.8607,0.1248,False
+10770,fi-FI,lists,lists_remove,poista murot minun ostos listalta,social_post,0.9994,0.0003,False
+10772,fi-FI,calendar,calendar_remove,poista hammaslääkäriaikani tämän päivän aikataulusta,calendar_remove,0.4091,0.4091,True
+10776,fi-FI,lists,lists_query,onko mulla ostos lista valmiina,lists_query,0.8758,0.8758,True
+10786,fi-FI,lists,lists_remove,tyhjennä aktiviteettini listalta tältä päivältä,lists_remove,0.7749,0.7749,True
+10790,fi-FI,lists,lists_remove,poista tuote listalta,social_post,0.8393,0.0264,False
+10804,fi-FI,lists,lists_query,lue ostos listani,social_post,0.926,0.0278,False
+10805,fi-FI,lists,lists_query,näytä lista joka minulla on,lists_query,0.9501,0.9501,True
+10808,fi-FI,lists,lists_remove,poista viimeinen asia listalta,lists_remove,0.8688,0.8688,True
+10824,fi-FI,lists,lists_remove,olly tyhjennä lista,lists_remove,0.9982,0.9982,True
+10825,fi-FI,lists,lists_remove,tyhjennä lista,lists_remove,0.9934,0.9934,True
+10827,fi-FI,lists,lists_remove,poista ostos lista,social_post,0.9993,0.0001,False
+10828,fi-FI,lists,lists_remove,tyhjennä kaikki,calendar_remove,0.3195,0.273,False
+10832,fi-FI,calendar,calendar_query,olly mitä minulla on suunniteltu seuraavaksi,email_sendemail,0.9242,0.0003,False
+10843,fi-FI,lists,lists_remove,poista maito minun kauppa listaltani,lists_query,0.7487,0.0055,False
+10846,fi-FI,lists,lists_remove,minulla ei ole tarpeeksi rahaa ostaa nintendo switchiä juuri nyt voitko poistaa sen amazonin toivelistaltani kiitos,qa_factoid,0.9706,0.0191,False
+10848,fi-FI,lists,lists_remove,erota tämä lista muista,lists_remove,0.9855,0.9855,True
+10851,fi-FI,lists,lists_query,mitä listoja minulla on,lists_query,0.9976,0.9976,True
+10853,fi-FI,lists,lists_remove,ota se pois sieltä,qa_factoid,1.0,0.0,False
+10855,fi-FI,lists,lists_query,tarvii tarkistaa mun lista,lists_query,0.922,0.922,True
+10868,fi-FI,lists,lists_query,olly mitään muuta jäänyt luettelossa,email_sendemail,0.9969,0.0,False
+10887,fi-FI,lists,lists_remove,poista mun lista,social_post,0.9985,0.0001,False
+10895,fi-FI,lists,lists_remove,poista tuote listaltani,social_post,0.9972,0.0002,False
+10909,fi-FI,lists,lists_query,olly lue listani minulle,lists_remove,0.705,0.1978,False
+10927,fi-FI,lists,lists_query,kerro minulle listassani on,social_post,0.8629,0.0408,False
+10931,fi-FI,lists,lists_query,mitä minun soittolistallani on,qa_factoid,0.9331,0.0012,False
+10936,fi-FI,lists,lists_remove,ole hyvä ja poista minun lista lempi albumit,lists_remove,1.0,1.0,True
+10954,fi-FI,lists,lists_query,kuinka monta listaa minulla on yhteystiedoissa,lists_query,0.9809,0.9809,True
+10956,fi-FI,lists,lists_query,mitä ryhmiä on listattu minun kontakteissani,lists_remove,0.9979,0.0013,False
+10957,fi-FI,lists,lists_query,muistuta minua kuinka monta listaa minulla on,lists_remove,0.9863,0.0128,False
+10960,fi-FI,lists,lists_remove,poista tämä listalta,lists_remove,0.9994,0.9994,True
+10970,fi-FI,lists,lists_remove,poista viimeinen fraasi,calendar_remove,0.4073,0.3473,False
+10979,fi-FI,lists,lists_query,mitä listallasi on juuri nyt,lists_query,0.9041,0.9041,True
+10981,fi-FI,lists,lists_query,kerro lista,lists_remove,0.9745,0.0222,False
+10985,fi-FI,lists,lists_remove,poista tämän viikon tehtäväni,calendar_remove,0.8836,0.0883,False
+10990,fi-FI,lists,lists_remove,poista keittiön moppaaminen tehtävälistalta,lists_remove,0.7566,0.7566,True
+10999,fi-FI,lists,lists_query,sano lista,email_sendemail,0.8986,0.0158,False
+11023,fi-FI,lists,lists_remove,poista ostos lista,social_post,0.9993,0.0001,False
+11024,fi-FI,lists,lists_remove,poista tehtävä lista,lists_remove,1.0,1.0,True
+11053,fi-FI,lists,lists_remove,hävitä lista google,lists_query,0.6686,0.3228,False
+11075,fi-FI,lists,lists_query,kuinka monta listaa minulla on,qa_factoid,0.9252,0.0008,False
+11081,fi-FI,lists,lists_query,mitkä listat minun muistikirjassani on,social_post,0.9777,0.0014,False
+11085,fi-FI,lists,lists_remove,poista maito ostos listalta,lists_remove,0.6535,0.6535,True
+11098,fi-FI,lists,lists_remove,poista vero luettelo vuodelta yhdeksäntoista yhdeksänkymmentä,iot_hue_lightoff,0.448,0.0373,False
+11107,fi-FI,lists,lists_query,mitä nykyisellä listallani on,lists_query,0.9229,0.9229,True
+11124,fi-FI,lists,lists_query,luetteloi asiat minun työ listalla,lists_query,0.6416,0.6416,True
+11125,fi-FI,lists,lists_query,anna minulle ostoksen tilaus tiedot,email_query,0.3611,0.0508,False
+11133,fi-FI,lists,lists_remove,poista vieras lista jonka loin viime viikolla,lists_remove,0.9998,0.9998,True
+11154,fi-FI,lists,lists_query,tarkista viimeinen tehtävä lista,lists_remove,0.9293,0.0322,False
+11162,fi-FI,lists,lists_remove,haluan poistaa omenat listalta,social_post,0.9659,0.0093,False
+11164,fi-FI,lists,lists_remove,poista listalta,social_post,0.9882,0.0001,False
+11166,fi-FI,lists,lists_query,avaa google keep,lists_remove,0.5861,0.0045,False
+11168,fi-FI,lists,lists_remove,tuhoa listani,social_post,0.9748,0.0002,False
+11172,fi-FI,lists,lists_query,anna kaikki saatavilla olevat listat,lists_query,0.9391,0.9391,True
+11174,fi-FI,lists,lists_query,luetteloi kaikki laitteen luettelot,lists_query,0.4952,0.4952,True
+11180,fi-FI,calendar,calendar_query,minun juhla suunnitteluni,qa_factoid,0.6201,0.0031,False
+11186,fi-FI,lists,lists_query,minulla on vaatteiden listani,qa_factoid,0.9992,0.0,False
+11189,fi-FI,lists,lists_query,etsi lista,lists_query,0.6914,0.6914,True
+11204,fi-FI,lists,lists_query,tärkeää talo tietoa,qa_factoid,0.975,0.0002,False
+11215,fi-FI,lists,lists_query,lista,lists_query,1.0,1.0,True
+11250,fi-FI,lists,lists_query,luo minulle ostos listani,social_post,0.9802,0.0049,False
+11257,fi-FI,play,play_podcasts,olly soita seuraava tallennus,social_post,0.9932,0.0004,False
+11259,fi-FI,play,play_podcasts,hyppää seuraavaan podcastiin,play_podcasts,0.9967,0.9967,True
+11261,fi-FI,play,play_podcasts,seuraava,social_post,0.8641,0.0029,False
+11265,fi-FI,play,play_podcasts,soita seuraava,play_radio,0.9838,0.001,False
+11266,fi-FI,play,play_podcasts,soita podcast kirjastostani,social_post,1.0,0.0,False
+11267,fi-FI,play,play_podcasts,löydä mielenkiintoinen podcast viimeisen pulitzer palkinnon voittajasta,play_podcasts,1.0,1.0,True
+11270,fi-FI,play,play_podcasts,toista seuraava podcast,play_podcasts,1.0,1.0,True
+11272,fi-FI,play,play_podcasts,soita seuraava,play_radio,0.9838,0.001,False
+11279,fi-FI,play,play_podcasts,mene podcäästiin ja aloita otetaan yhdet seuraava jakso,play_podcasts,1.0,1.0,True
+11286,fi-FI,play,play_podcasts,soita heikelä ja koskelo kaksikymmentäkolme minuuttia podcast,play_podcasts,1.0,1.0,True
+11296,fi-FI,play,play_podcasts,lataa kaikki podcastini,play_podcasts,1.0,1.0,True
+11302,fi-FI,play,play_podcasts,soita last libertarian podcast,social_post,0.9985,0.0014,False
+11303,fi-FI,play,play_podcasts,soita seuraava järkipuinti podcast,play_podcasts,1.0,1.0,True
+11306,fi-FI,play,play_podcasts,soita se podcast kuuntelin eilen,social_post,0.9573,0.0426,False
+11318,fi-FI,play,play_podcasts,toista podcastin seuraava jakso,play_podcasts,1.0,1.0,True
+11322,fi-FI,play,play_podcasts,mitkä ovat tämän päivän suosituimmat podcastit,play_podcasts,0.997,0.997,True
+11328,fi-FI,play,play_podcasts,toista tailgate podcast,play_podcasts,0.9822,0.9822,True
+11331,fi-FI,play,play_podcasts,näytä minulle paras podcast rokki lauluista hyvillä arvosteluilla,play_podcasts,1.0,1.0,True
+11335,fi-FI,play,play_music,soita ja sekoita kaikki hitaat musiikka laulut,play_music,0.9998,0.9998,True
+11339,fi-FI,play,play_podcasts,toista minun katsotuin podcast,qa_factoid,0.9186,0.0192,False
+11340,fi-FI,play,play_podcasts,onko harri moisiolla uusi podcast,social_post,0.9844,0.0145,False
+11341,fi-FI,play,play_podcasts,etsi viimeisin disney podcast,play_podcasts,0.9994,0.9994,True
+11343,fi-FI,play,play_podcasts,siirry hipsterhoodin seuraavaan jaksoon,qa_factoid,0.829,0.0012,False
+11345,fi-FI,play,play_podcasts,soita seuraava jakso podcastista,play_podcasts,1.0,1.0,True
+11349,fi-FI,play,play_podcasts,olly aloita eilen illalla aloittamani podcast uudestaan,play_podcasts,0.9999,0.9999,True
+11353,fi-FI,play,play_podcasts,näytä minulle podcastit,play_podcasts,1.0,1.0,True
+11361,fi-FI,play,play_podcasts,nikotellen podcast toista se,qa_factoid,0.4682,0.2777,False
+11366,fi-FI,play,play_podcasts,palaa podcastin edelliseen jaksoon,play_podcasts,1.0,1.0,True
+11368,fi-FI,play,play_podcasts,soita minulle akin podcast,play_podcasts,0.9394,0.9394,True
+11376,fi-FI,play,play_podcasts,haluan kuunnella podcastiä,play_podcasts,0.9382,0.9382,True
+11384,fi-FI,play,play_podcasts,voitko ladata podcast kansioni saataville nettiin ja soita se kerran,play_podcasts,1.0,1.0,True
+11409,fi-FI,play,play_podcasts,hyppää seuraavaan podcastin osaan,play_podcasts,1.0,1.0,True
+11417,fi-FI,play,play_podcasts,aloita seuraava jakso,qa_factoid,0.6238,0.0259,False
+11418,fi-FI,play,play_podcasts,soita aki linnanahteen viimeisin podcast,play_podcasts,0.9994,0.9994,True
+11420,fi-FI,play,play_podcasts,aloita soittamaan minun viimeisintä podcastia,play_podcasts,0.9685,0.9685,True
+11423,fi-FI,play,play_podcasts,palaa taakse päin kolmekymmentä sekuntia,datetime_query,0.3113,0.0033,False
+11424,fi-FI,play,play_podcasts,bassoradio,play_radio,0.6172,0.0105,False
+11426,fi-FI,lists,lists_query,eniten katsottu lista,social_post,0.6953,0.0054,False
+11427,fi-FI,play,play_podcasts,aloita gilmore guys,qa_factoid,0.9882,0.0001,False
+11437,fi-FI,play,play_podcasts,toista podcast minulle kiitos,qa_factoid,0.7765,0.2119,False
+11438,fi-FI,play,play_podcasts,ole hyvä siirry podcastin seuraava jakso,play_podcasts,1.0,1.0,True
+11442,fi-FI,play,play_podcasts,soita viimeisin aki linnanahde podcast,play_podcasts,0.9998,0.9998,True
+11451,fi-FI,play,play_podcasts,haluan kuunnella uusimman auta antti podcastin,play_podcasts,0.9772,0.9772,True
+11453,fi-FI,play,play_podcasts,aloita n. f. l. podcastit,play_podcasts,0.7808,0.7808,True
+11455,fi-FI,play,play_podcasts,mene seuraavaan osioon,play_radio,0.3126,0.2452,False
+11458,fi-FI,play,play_podcasts,siirry seuraavaan podcastjaksoon,play_podcasts,0.999,0.999,True
+11459,fi-FI,play,play_podcasts,mene takaisin tämän podcastin viimeiseen jaksoon,play_podcasts,0.994,0.994,True
+11460,fi-FI,play,play_podcasts,haluan kuunnella urheilupodcast,social_post,0.979,0.0208,False
+11467,fi-FI,play,play_podcasts,toista american life uusin podcast,social_post,0.868,0.0999,False
+11470,fi-FI,play,play_podcasts,soita lempi podcastini,play_podcasts,0.9976,0.9976,True
+11474,fi-FI,play,play_podcasts,jatka podcast sarjaa,social_post,0.9987,0.0011,False
+11476,fi-FI,play,play_podcasts,soita edellinen podcast,play_podcasts,1.0,1.0,True
+11483,fi-FI,play,play_podcasts,aloita toistamaan otetaan yhdet,qa_factoid,0.3277,0.0218,False
+11490,fi-FI,play,play_podcasts,soita podcastin seuraava jakso,play_podcasts,1.0,1.0,True
+11502,fi-FI,play,play_podcasts,seuraava nappi,cooking_recipe,0.252,0.0229,False
+11505,fi-FI,play,play_podcasts,soita uudelleen viimeksi kuuntelemani podcast,play_podcasts,1.0,1.0,True
+11514,fi-FI,play,play_podcasts,olly voidaan me kuunnella kaikki inspiradion kaikki podcastit,play_podcasts,1.0,1.0,True
+11515,fi-FI,play,play_podcasts,kuunnellaan tuplakääk podcast,play_podcasts,0.9992,0.9992,True
+11525,fi-FI,play,play_podcasts,haluan nähdä saatavilla olevan seuraavan podcastin,play_podcasts,1.0,1.0,True
+11529,fi-FI,play,play_podcasts,hei soita minun suosikki podcast listasta,social_post,0.7821,0.1998,False
+11536,fi-FI,play,play_podcasts,lisää podcast suosikit soittolistalle ja käynnistä,play_podcasts,0.999,0.999,True
+11539,fi-FI,play,play_podcasts,aloita seuraava podcast,play_podcasts,1.0,1.0,True
+11546,fi-FI,play,play_podcasts,toista kaikki antti auta viime viikolta,qa_factoid,0.3754,0.0082,False
+11554,fi-FI,play,play_podcasts,haluan sinun toistaa podcast,play_podcasts,0.737,0.737,True
+11563,fi-FI,recommendation,recommendation_events,mitä voin tehdä berliinissä,cooking_recipe,0.9994,0.0,False
+11570,fi-FI,recommendation,recommendation_events,mitä kaupungissani tapahtuu,news_query,0.8877,0.0063,False
+11582,fi-FI,recommendation,recommendation_events,tapahtuuko mitään jazz skenessä kuopion alueella,play_music,0.9974,0.0001,False
+11585,fi-FI,recommendation,recommendation_events,onko naantalissa mitään kulttuuri tapahtumia,qa_definition,0.2997,0.0125,False
+11598,fi-FI,recommendation,recommendation_events,kerro minulle käynnissä olevat koiranäyttely tapahtumat minun kotikaupungissani,social_post,0.0995,0.0454,False
+11600,fi-FI,recommendation,recommendation_events,mitä elokuvaa voin katsoa illalla teatterissa täällä porissa,play_podcasts,0.715,0.0109,False
+11610,fi-FI,recommendation,recommendation_events,listaa minulle menossa olevat sirkus esityksistä kaupungissa juuri nyt,lists_query,0.8207,0.0011,False
+11612,fi-FI,recommendation,recommendation_events,mitä asenäyttelyitä on tuurissa,lists_query,0.0655,0.0476,False
+11616,fi-FI,recommendation,recommendation_events,onko keskustassa tänä iltana mitään tapahtumia,news_query,0.9599,0.0024,False
+11643,fi-FI,recommendation,recommendation_events,mitkä tapahtumat alkaa pian,qa_factoid,0.2609,0.1166,False
+11644,fi-FI,recommendation,recommendation_events,näytä minun tapahtumat kajaanissa,weather_query,0.8125,0.0151,False
+11650,fi-FI,recommendation,recommendation_events,sekä nuoret että satunnaiset autoilevat kolaroivat eniten koska heillä ei ole vielä niin paljon kokemusta turvalliseen ajamiseen tutkimukset ovat osoittaneet että ajokokemus on suurin syy tiekolareihin ja nuorten ajajien on turvallisinta ajaa opetuksen aikana valvonnan alaisena,qa_factoid,0.241,0.0396,False
+11681,fi-FI,recommendation,recommendation_events,ole hyvä näytä minulle maratooni lähellä minua,qa_factoid,0.6572,0.0003,False
+11685,fi-FI,recommendation,recommendation_events,olisin iloinen jos kertoisit minulle alueemme tapahtumista,email_sendemail,0.7438,0.0064,False
+11705,fi-FI,recommendation,recommendation_events,näytä minulle taidenäyttely ruoholahdessa,social_post,0.6003,0.0106,False
+11720,fi-FI,recommendation,recommendation_events,uiminen,social_post,0.2785,0.0268,False
+11767,fi-FI,recommendation,recommendation_events,olly mitä korsossa tapahtuu tänä viikonloppuna,social_post,0.3903,0.0252,False
+11770,fi-FI,recommendation,recommendation_events,mitään tapahtumia tänä viikonloppuna sodankylässä,news_query,0.9861,0.0007,False
+11782,fi-FI,recommendation,recommendation_events,onko tänä viikonloppuna lähistöllä mitään erikoistapahtumia,social_post,0.4147,0.0213,False
+11798,fi-FI,recommendation,recommendation_events,mikä on seuraava tapahtuma kirjastossa,email_sendemail,0.246,0.1198,False
+11827,fi-FI,recommendation,recommendation_events,minne voin mennä illalla,qa_factoid,0.8839,0.0004,False
+11839,fi-FI,recommendation,recommendation_events,mitä ympärilläni tapahtuu,news_query,0.9016,0.0086,False
+11841,fi-FI,recommendation,recommendation_events,onko tällä alueella käsityömessuja meneillään,cooking_recipe,0.9935,0.0005,False
+11844,fi-FI,recommendation,recommendation_events,mitään kiinnostavaa rannikolla,social_post,0.9871,0.0038,False
+11845,fi-FI,recommendation,recommendation_events,olly ehdota minulle jännittäviä tapahtumia lahden alueella,social_post,0.5752,0.0708,False
+11860,fi-FI,recommendation,recommendation_events,kerro minulle paikallisista tapahtumista,email_sendemail,0.7891,0.0138,False
+11867,fi-FI,recommendation,recommendation_events,onko keravalla huomenna mitään urheilutapahtumaa,play_podcasts,0.9736,0.0001,False
+11875,fi-FI,recommendation,recommendation_events,onko ruokafestivaalia alueella,cooking_recipe,0.8299,0.0017,False
+11904,fi-FI,recommendation,recommendation_events,mitä täällä on menossa tänä viikonloppuna,weather_query,0.5297,0.0099,False
+11905,fi-FI,recommendation,recommendation_events,olly kerro tapahtumista alueellani tänä viikonloppuna,email_sendemail,0.8793,0.0043,False
+11911,fi-FI,recommendation,recommendation_events,onko tänä viikonloppuna mitään hyviä tapahtumia tällä alueella,recommendation_events,0.2361,0.2361,True
+11916,fi-FI,recommendation,recommendation_events,mitkä on lähimmät huvipuistot,lists_query,0.5807,0.0043,False
+11969,fi-FI,recommendation,recommendation_events,tapahtuuko lähellä mitään erityistä,qa_factoid,0.997,0.0001,False
+11999,fi-FI,recommendation,recommendation_events,kerro minulle tämän päivän kaikki tapahtumassa kaupungissani,news_query,0.5568,0.041,False
+12008,fi-FI,recommendation,recommendation_events,onko helsingissä tänään mitään hauskoja tapahtumia,social_post,0.9201,0.0108,False
+12054,fi-FI,recommendation,recommendation_events,mitä tapahtuu ympäri kaupunkia,news_query,0.7391,0.0174,False
+12070,fi-FI,recommendation,recommendation_events,milloin kauppakeskus goodman avautuu,datetime_query,0.9979,0.0005,False
+12073,fi-FI,recommendation,recommendation_events,mainitse paikallisia ajankohtaisia tapahtumia,qa_factoid,0.4862,0.0438,False
+12098,fi-FI,recommendation,recommendation_events,näytä musiikki tapahtumia lähellä,play_music,0.9268,0.0001,False
+12189,fi-FI,transport,transport_query,miten pääsen rautatieasemalle hakemaan lippua,transport_query,0.8659,0.8659,True
+12240,fi-FI,transport,transport_query,millainen liikenne on koti matkallani viideltä,weather_query,0.8535,0.0077,False
+12245,fi-FI,transport,transport_query,milloin menee seuraava juna pieksämäeltä jyväskylään,weather_query,0.9576,0.0001,False
+12251,fi-FI,transport,transport_query,hanki minulle paikallis junan aikataulu tampereelle,qa_factoid,0.989,0.0002,False
+12252,fi-FI,transport,transport_query,mihin aikaan tampereelle menevät junat lähtevät,weather_query,0.9907,0.0005,False
+12261,fi-FI,transport,transport_query,kerro vaihtoehdot junalla turkuun seuraavana keskiviikkona tai torstaina,recommendation_events,0.9701,0.0028,False
+12263,fi-FI,transport,transport_query,kalifornia,lists_query,0.1607,0.0286,False
+12264,fi-FI,transport,transport_query,helsinki,email_query,0.2034,0.0318,False
+12294,fi-FI,transport,transport_query,näytä minulle juna aikataulut oopperatalolle,transport_query,0.1692,0.1692,True
+12310,fi-FI,transport,transport_query,anna lista saatavilla olevista juna lipuista tampereelta helsinkiin,lists_remove,0.7809,0.0023,False
+12343,fi-FI,transport,transport_query,tarkista intercity junan aika pasilasta tiistaina,qa_factoid,0.6069,0.0234,False
+12354,fi-FI,transport,transport_query,anna junan aika,qa_factoid,0.9915,0.0001,False
+12366,fi-FI,transport,transport_query,onko juna yhteyttä tampereelta rovaniemelle ja mihin aikaan,weather_query,0.9808,0.0018,False
+12367,fi-FI,transport,transport_query,mikä on paras reitti poriin,qa_factoid,0.9012,0.0008,False
+12376,fi-FI,transport,transport_query,mikä on ensimmäinen metro ruoholahteen,social_post,0.4621,0.0148,False
+12392,fi-FI,transport,transport_query,kerro minulle tämän päivän reittiohjeet,transport_query,0.4349,0.4349,True
+12402,fi-FI,transport,transport_query,milloin seuraava juna täältä keskustaan lähtee,weather_query,0.9964,0.0001,False
+12419,fi-FI,transport,transport_query,nopein reitti kotipizzaan,qa_factoid,0.9977,0.0001,False
+12430,fi-FI,transport,transport_query,kerro minulle junan saapumis aika tampereelle,qa_factoid,0.8092,0.0042,False
+12436,fi-FI,transport,transport_query,kuinka kauan kestää päästä lentokentälle,transport_query,0.8484,0.8484,True
+12437,fi-FI,transport,transport_query,kuinka pitkä matka on teatteriin,qa_factoid,0.3354,0.0777,False
+12446,fi-FI,transport,transport_query,voitko kertoa keravan junien lähtöajat,qa_factoid,0.9982,0.0,False
+12473,fi-FI,transport,transport_query,kuinka pääsen täältä kotiin,transport_query,0.981,0.981,True
+12526,fi-FI,transport,transport_query,mikä on nopein reitti päästä hesburgeriin,transport_query,0.9961,0.9961,True
+12532,fi-FI,transport,transport_query,ohjaa reitti paikkaan,qa_factoid,0.9613,0.0028,False
+12581,fi-FI,transport,transport_query,koska f. juna kulkee tänään,weather_query,0.996,0.0002,False
+12582,fi-FI,transport,transport_query,mihin aikaan ensimmäinen metro saapuu aamulla,weather_query,0.9996,0.0,False
+12604,fi-FI,transport,transport_query,miten varaan juna lipun netissä,social_post,0.9981,0.0,False
+12618,fi-FI,transport,transport_query,paljonko maksaa edestakainen juna lippu rovaniemelle,qa_factoid,0.9981,0.0002,False
+12623,fi-FI,transport,transport_query,onko sinulla juna ajat helsinkiin,social_post,0.9888,0.0003,False
+12629,fi-FI,transport,transport_query,mihin aikaan ensimmäinen juna lähtee tampereelta,weather_query,0.9936,0.0002,False
+12634,fi-FI,transport,transport_query,milloin lähtee seuraava juna rovaniemelle,weather_query,0.9919,0.0001,False
+12707,fi-FI,transport,transport_query,navigointi haku,qa_factoid,1.0,0.0,False
+12759,fi-FI,transport,transport_query,ajo aika turkuun,qa_factoid,0.9749,0.0005,False
+12797,fi-FI,transport,transport_query,juna ajat lähellä sijaintiani,qa_factoid,0.9868,0.0001,False
+12800,fi-FI,transport,transport_query,missä on kaupunginkirjasto,qa_factoid,0.3089,0.0164,False
+12817,fi-FI,transport,transport_query,kuinka pääsen kauppakeskukseen,transport_query,0.711,0.711,True
+12818,fi-FI,transport,transport_query,kuinka paljon maksaa juna lippu tampereelle,qa_factoid,0.9964,0.0003,False
+12824,fi-FI,transport,transport_query,listaa kaikkien junien ajat helsinkiin,lists_query,0.9948,0.0006,False
+12835,fi-FI,transport,transport_query,mihin aikaan juna paikkaan lähtee,weather_query,0.9953,0.0001,False
+12839,fi-FI,transport,transport_query,vie minut tampereen rautatieasemalle,datetime_query,0.9945,0.0002,False
+12851,fi-FI,transport,transport_query,näytä ohjeet kotiini,email_sendemail,0.4723,0.0059,False
+12856,fi-FI,transport,transport_query,suuntaohjeet kiitos,email_sendemail,0.9994,0.0,False
+12866,fi-FI,transport,transport_query,millainen ajoitus onni bussilla on,social_post,0.8297,0.0048,False
+12908,fi-FI,transport,transport_query,mihin aikaan juna saapuu tikkurilaan,weather_query,0.9997,0.0,False
+12930,fi-FI,transport,transport_query,katso kartasta kaupat lähellä minua,qa_factoid,0.9992,0.0,False
+12932,fi-FI,transport,transport_query,olly tarvitsen reittiohjeet mannerheimintielle,email_sendemail,1.0,0.0,False
+12951,fi-FI,qa,qa_factoid,mikä on korkein rakennus maailmassa,qa_factoid,0.995,0.995,True
+12957,fi-FI,qa,qa_definition,määrittele kehittää,qa_factoid,0.6715,0.0018,False
+12961,fi-FI,qa,qa_definition,määrittele oikeuslääketiede kiitos,qa_factoid,0.9952,0.0001,False
+12963,fi-FI,qa,qa_definition,mikä on määritelmä oikeustieteelle,qa_factoid,0.8691,0.1279,False
+12972,fi-FI,qa,qa_factoid,missä on maailman korkein huippu,qa_factoid,0.9975,0.9975,True
+12982,fi-FI,qa,qa_definition,mitä tarkoittaa turbulenssi,qa_definition,0.9974,0.9974,True
+12986,fi-FI,qa,qa_definition,tarkista oikukkaan määritelmä,qa_definition,0.9117,0.9117,True
+12999,fi-FI,qa,qa_factoid,kuinka vanha on paula koivuniemi,social_post,0.9881,0.0018,False
+13016,fi-FI,qa,qa_definition,katso kömmähdyksen määritelmä,qa_factoid,0.8566,0.1213,False
+13023,fi-FI,cooking,cooking_recipe,näytä minulle reseptit,cooking_recipe,1.0,1.0,True
+13069,fi-FI,qa,qa_definition,mitkä ovat määritelmät oranssille,qa_definition,0.9356,0.9356,True
+13074,fi-FI,qa,qa_factoid,miksei sami hedberg ole hauska,social_post,0.9145,0.0789,False
+13077,fi-FI,qa,qa_factoid,mikä on roope salmisen syntymäpäivä,qa_factoid,0.9205,0.9205,True
+13078,fi-FI,qa,qa_factoid,kerro minulle billy crystalin osoite,social_post,0.4311,0.1323,False
+13099,fi-FI,qa,qa_factoid,kuka on britannian nykyinen pääministeri,qa_factoid,0.998,0.998,True
+13115,fi-FI,qa,qa_factoid,mikä on nigerian pääkaupunki,qa_factoid,0.9686,0.9686,True
+13124,fi-FI,qa,qa_factoid,kuinka suuri kosmos on,qa_factoid,0.9997,0.9997,True
+13135,fi-FI,qa,qa_factoid,milloin on jasper pääkkösen syntymäpäivä,datetime_query,0.5576,0.0002,False
+13140,fi-FI,qa,qa_definition,kerro minulle hurrikaaneista,social_post,0.9999,0.0,False
+13154,fi-FI,qa,qa_factoid,tiedätkö jenna jokusen puhelinnumeron,email_query,0.9996,0.0,False
+13165,fi-FI,qa,qa_definition,mitä värähtely tarkoittaa,qa_definition,0.9993,0.9993,True
+13166,fi-FI,qa,qa_definition,tavaa ja määrittele värähtely,qa_factoid,0.5243,0.0297,False
+13177,fi-FI,calendar,calendar_set,muistuta minua liikkumaan jotta ei tule lisää painoa,qa_factoid,0.2782,0.0119,False
+13178,fi-FI,calendar,calendar_set,muistuta minua ottamaan yhteyttä vanhaan ystävään jonka kanssa en ole jutellut kuuteen kuukauteen ennen kuin hän kuolee,social_post,0.7556,0.0082,False
+13188,fi-FI,news,news_query,kerro minulle millaisia tuloksia on tulossa euroopan parlamenttiäänestyksessä,news_query,0.8185,0.8185,True
+13206,fi-FI,qa,qa_definition,sijainti,qa_definition,0.4941,0.4941,True
+13215,fi-FI,transport,transport_query,mikä on nopein reitti työpaikalleni keskustaan törmäämättä liikenteeseen,transport_query,0.734,0.734,True
+13252,fi-FI,qa,qa_factoid,mikä oli george eliotin ensimmäinen marraskuu,email_query,0.9817,0.0,False
+13255,fi-FI,qa,qa_factoid,anna minulle tietoa john abraham lincolnista,social_post,0.9789,0.0026,False
+13283,fi-FI,qa,qa_factoid,kuinka paljon rahaa sanna marin tienasi,qa_factoid,1.0,1.0,True
+13288,fi-FI,qa,qa_definition,mikä on sanan ikuinen määritelmä,qa_definition,0.9996,0.9996,True
+13297,fi-FI,qa,qa_factoid,kuka on julkkis,social_post,0.978,0.0021,False
+13298,fi-FI,qa,qa_factoid,mitä julkkis teke,social_post,0.7664,0.0736,False
+13330,fi-FI,qa,qa_factoid,kuinka suuri on kaskelotti,qa_factoid,0.9825,0.9825,True
+13361,fi-FI,qa,qa_definition,mikä on ajantasaisuuden määritelmä,qa_factoid,0.9679,0.0313,False
+13383,fi-FI,qa,qa_factoid,kuinka monella osavaltiolla on kuolemantuomio,iot_hue_lightoff,0.7585,0.0219,False
+13400,fi-FI,social,social_post,lähetä hauska viesti kaikille ystävilleni,social_post,0.9872,0.9872,True
+13439,fi-FI,qa,qa_factoid,kuinka vanha on jari tervo,social_post,0.7042,0.0226,False
+13457,fi-FI,calendar,calendar_set,kerro minulle milloin minun pitää lähteä tapahtumaan että olen ajoissa,datetime_query,0.6943,0.0042,False
+13473,fi-FI,qa,qa_factoid,milloin yhdysvallat sai vapauden,qa_factoid,0.6203,0.6203,True
+13487,fi-FI,qa,qa_factoid,mikä on californian pääkaupunki,lists_query,0.2203,0.0797,False
+13494,fi-FI,qa,qa_definition,anna määritelmä motivaatiolle,qa_factoid,0.9989,0.0004,False
+13506,fi-FI,datetime,datetime_query,voitko kertoa mikä aika nyt on,weather_query,0.9898,0.0003,False
+13513,fi-FI,qa,qa_factoid,kuinka monta jalkaa on koiralla,qa_factoid,0.9154,0.9154,True
+13516,fi-FI,qa,qa_factoid,miksi valaat on isoja,qa_factoid,0.5831,0.5831,True
+13546,fi-FI,qa,qa_factoid,mikä on viimeisin elokuva jossa will smith oli,qa_factoid,0.851,0.851,True
+13554,fi-FI,qa,qa_factoid,kuinka pitkä brad pitt on,social_post,0.9806,0.0009,False
+13575,fi-FI,qa,qa_factoid,milloin viimeksi oli oscar palkittu elokuva,qa_factoid,0.4909,0.4909,True
+13580,fi-FI,qa,qa_factoid,kuinka korkea on mount everest,recommendation_events,0.2494,0.1905,False
+13591,fi-FI,qa,qa_factoid,mikä on länsi virginian pääkaupunki,lists_query,0.2928,0.0271,False
+13592,fi-FI,qa,qa_factoid,mihin uusi seelanti on sijoitettu kartalla,social_post,0.9853,0.0005,False
+13604,fi-FI,qa,qa_factoid,kerro minulle missä steve jobs syntyi,cooking_recipe,0.9095,0.0028,False
+13607,fi-FI,qa,qa_factoid,voitko varmistaa onko aku hirviniemi naimisissa,qa_factoid,0.8807,0.8807,True
+13616,fi-FI,qa,qa_factoid,missä useimmat julkkikset hengailevat,social_post,0.9985,0.0001,False
+13619,fi-FI,recommendation,recommendation_events,onko alueellani mitään ilmaisia tapahtumia tänään,weather_query,0.656,0.027,False
+13625,fi-FI,qa,qa_definition,suurin pöytä,lists_remove,0.2448,0.0295,False
+13636,fi-FI,qa,qa_factoid,milloin on arnold schwarzeneggerin syntymäpäivä,datetime_query,0.9735,0.0036,False
+13679,fi-FI,qa,qa_factoid,voisitko kertoa minulle kuinka monta mahaa on lehmällä,cooking_recipe,0.9978,0.0004,False
+13681,fi-FI,qa,qa_factoid,kuinka monessa näytelmässä patrick stewart on esiintynyt,qa_factoid,0.7976,0.7976,True
+13683,fi-FI,qa,qa_factoid,minkä merkkistä hiuskiinnettä donald trump käyttää,iot_hue_lightoff,0.6771,0.0037,False
+13689,fi-FI,qa,qa_definition,mikä on tuoli,social_post,0.5399,0.1103,False
+13690,fi-FI,qa,qa_factoid,minkä värisiä tuolit ovat,iot_hue_lightoff,0.8026,0.0347,False
+13693,fi-FI,qa,qa_factoid,missä on nollameridiaani,social_post,0.9494,0.0012,False
+13705,fi-FI,qa,qa_definition,mikä on elektroninen päästö järjestelmä,qa_definition,0.6224,0.6224,True
+13706,fi-FI,qa,qa_definition,kuvaile roottori,qa_factoid,0.9973,0.0,False
+13714,fi-FI,qa,qa_definition,mikä on mango,email_sendemail,0.6731,0.0017,False
+13717,fi-FI,qa,qa_factoid,voitko todella nähdä venäjän alaskasta,qa_factoid,1.0,1.0,True
+13758,fi-FI,qa,qa_factoid,kuinka vanha kaija koo on,qa_factoid,0.556,0.556,True
+13761,fi-FI,qa,qa_factoid,mikä on parsec,qa_definition,0.6219,0.2687,False
+13774,fi-FI,qa,qa_factoid,kuinka kaukana pirkanmaa on kymenlaaksosta,qa_factoid,0.9963,0.9963,True
+13777,fi-FI,qa,qa_definition,voitko kuvailla luottokortin,qa_factoid,0.4995,0.0014,False
+13780,fi-FI,qa,qa_factoid,onko jenni vartiainen naimisissa,qa_factoid,0.473,0.473,True
+13798,fi-FI,qa,qa_factoid,kuinka monta neliömailia on keskimääräinen maa maailmassa,qa_factoid,0.9121,0.9121,True
+13799,fi-FI,qa,qa_definition,mikä on alamaisen määritelmä,qa_definition,0.9917,0.9917,True
+13823,fi-FI,qa,qa_factoid,kuinka kaukana aurinko on,social_post,0.9994,0.0001,False
+13853,fi-FI,qa,qa_factoid,missä maapallolla on eniten tulivuoria,iot_hue_lightoff,0.2717,0.0195,False
+13854,fi-FI,qa,qa_factoid,milloin juice leskinen kuoli,datetime_query,0.9903,0.0026,False
+13863,fi-FI,qa,qa_definition,mikä on logiikan määritelmä,qa_definition,0.9919,0.9919,True
+13867,fi-FI,qa,qa_factoid,missä on seitsemisen kansallispuisto,social_post,0.9471,0.0024,False
+13869,fi-FI,qa,qa_factoid,ole hyvä googleta paikka ja tiedot mount rushmoresta,qa_factoid,0.6674,0.6674,True
+13871,fi-FI,qa,qa_definition,miten kuvailisit hyvää syntymäpäivää,qa_factoid,0.9054,0.0094,False
+13881,fi-FI,qa,qa_factoid,anna tietoa michael jacksonista,qa_factoid,0.9951,0.9951,True
+13888,fi-FI,qa,qa_factoid,kuinka lämmintä on pirkanmaalla tampereella,qa_factoid,0.961,0.961,True
+13895,fi-FI,qa,qa_factoid,voitko kertoa minulle jari kurrista,qa_factoid,0.9956,0.9956,True
+13900,fi-FI,qa,qa_definition,elämän määritelmä,qa_definition,0.8247,0.8247,True
+13907,fi-FI,qa,qa_definition,määrittele ällistynyt,play_music,0.9189,0.0005,False
+13908,fi-FI,qa,qa_definition,voitko kertoa mitä ällikällä lyöty tarkoittaa,qa_definition,0.9999,0.9999,True
+13926,fi-FI,qa,qa_factoid,milloin on jari tervon syntymäpäivä,datetime_query,0.9901,0.0024,False
+13927,fi-FI,qa,qa_factoid,mikä on lauri markkasen arvo,email_sendemail,1.0,0.0,False
+13974,fi-FI,qa,qa_factoid,missä on laos,email_query,0.5042,0.0019,False
+13983,fi-FI,qa,qa_definition,kärsiä seurauksista,news_query,0.7932,0.0046,False
+13984,fi-FI,qa,qa_definition,toiminnan seuraukset,email_sendemail,0.1671,0.0336,False
+13997,fi-FI,qa,qa_factoid,kuinka paljon maksaa tavallinen talo,qa_factoid,0.9389,0.9389,True
+14000,fi-FI,qa,qa_definition,kuvaile laiskiainen,play_music,0.6652,0.0008,False
+14001,fi-FI,qa,qa_factoid,kerro minulla kaikki mitä tiedät laiskiaisista,social_post,0.5046,0.0077,False
+14011,fi-FI,qa,qa_factoid,mikä on dolly partonin syntymäpäivä,qa_factoid,0.9984,0.9984,True
+14015,fi-FI,qa,qa_factoid,mitkä ovat päiväntasaajan koordinaatit,qa_definition,0.7116,0.2724,False
+14023,fi-FI,qa,qa_definition,kuvaile helvetti,play_music,0.986,0.0001,False
+14033,fi-FI,qa,qa_factoid,kerro milloin niinistö on syntynyt,social_post,0.413,0.0918,False
+14038,fi-FI,qa,qa_factoid,mikä on moldovan sijainti,qa_factoid,0.9324,0.9324,True
+14040,fi-FI,qa,qa_factoid,kuinka pitkä on hulk hogan,iot_hue_lightoff,0.6328,0.2867,False
+14053,fi-FI,qa,qa_factoid,minä vuonna vesa-matti loiri aloitti näyttelemisen,qa_factoid,0.8721,0.8721,True
+14063,fi-FI,qa,qa_factoid,mikä oli juice leskisen syntymäpäivä,qa_factoid,0.8394,0.8394,True
+14083,fi-FI,qa,qa_factoid,missä aku hirviniemi asuu nykyään,social_post,0.905,0.0345,False
+14096,fi-FI,qa,qa_factoid,missä on halti,calendar_remove,0.9057,0.0283,False
+14115,fi-FI,qa,qa_definition,kerro kivihiekan yksityiskohdat,qa_factoid,0.7659,0.0584,False
+14116,fi-FI,qa,qa_definition,kuvaile kivihiekka,iot_hue_lightoff,0.6335,0.001,False
+14117,fi-FI,qa,qa_factoid,missä on pyramidit,email_sendemail,0.7565,0.0021,False
+14118,fi-FI,qa,qa_factoid,näytä pyramidien maantieteelliset yksityiskohdat,play_podcasts,0.3013,0.1474,False
+14126,fi-FI,qa,qa_factoid,näytä kaija koon elämäkerta,play_radio,0.7778,0.0429,False
+14138,fi-FI,qa,qa_definition,kerro mikä on sylinterin määritelmä,qa_definition,0.9973,0.9973,True
+14147,fi-FI,qa,qa_definition,määrittele peite,cooking_recipe,0.4946,0.0068,False
+14150,fi-FI,qa,qa_definition,mitä ovat reino tossut,iot_hue_lightoff,0.7127,0.0253,False
+14151,fi-FI,qa,qa_factoid,millaiset aurinkolasit ovat lentäjän lasit,qa_factoid,0.805,0.805,True
+14154,fi-FI,qa,qa_factoid,afrikka tieto,qa_factoid,0.9904,0.9904,True
+14163,fi-FI,qa,qa_factoid,etsi seutu,qa_factoid,0.5684,0.5684,True
+14169,fi-FI,qa,qa_factoid,missä amal clooney kävi collegen,social_post,0.8837,0.0001,False
+14170,fi-FI,qa,qa_factoid,käyttääkö kim kardashian converseja,play_podcasts,0.8623,0.0021,False
+14179,fi-FI,qa,qa_factoid,kuinka kaukana kanada on nykyisestä sijainnistani,qa_factoid,0.8649,0.8649,True
+14214,fi-FI,transport,transport_query,löydä matkustustavat samalle,iot_hue_lightoff,0.812,0.0046,False
+14229,fi-FI,qa,qa_factoid,missä elokuvissa emma watson on näytellyt,qa_factoid,0.443,0.443,True
+14243,fi-FI,qa,qa_factoid,henkilön tietoja,qa_definition,0.8248,0.0417,False
+14272,fi-FI,qa,qa_definition,hei mikä on kirja,qa_definition,0.9869,0.9869,True
+14283,fi-FI,qa,qa_factoid,kerro tampereesta,social_post,0.977,0.0012,False
+14306,fi-FI,qa,qa_factoid,selitä intian maantieteellinen sijainti,lists_remove,0.7497,0.0443,False
+14308,fi-FI,qa,qa_factoid,mikä on leonardo dicaprion varallisuus,qa_factoid,0.9991,0.9991,True
+14316,fi-FI,qa,qa_factoid,kuinka suuri alaska on,weather_query,0.9014,0.0363,False
+14317,fi-FI,qa,qa_factoid,minkä kokoinen on yhdysvallat,qa_factoid,0.7492,0.7492,True
+14323,fi-FI,qa,qa_factoid,minkä värinen on lohikäärmehedelmä,qa_definition,0.557,0.1167,False
+14330,fi-FI,qa,qa_factoid,missä steve jobs syntyi,cooking_recipe,0.9916,0.001,False
+14347,fi-FI,qa,qa_definition,mikä on hypoteesi,iot_hue_lightoff,0.4946,0.0018,False
+14354,fi-FI,qa,qa_factoid,mikä on vastaus maailmankaikkeuteen,qa_factoid,0.9876,0.9876,True
+14355,fi-FI,qa,qa_factoid,kuinka monta simpukankuorta sally möi merenrannalla,qa_factoid,0.906,0.906,True
+14370,fi-FI,qa,qa_factoid,mikä on julkkiksen ammatti,qa_definition,0.9937,0.0059,False
+14378,fi-FI,qa,qa_definition,määritelmä nopeudelle,iot_hue_lightoff,0.3313,0.0051,False
+14382,fi-FI,qa,qa_factoid,kuinka is on empire state building,social_post,0.5128,0.1898,False
+14395,fi-FI,qa,qa_factoid,mikä on maailman syvin kohta,weather_query,0.9908,0.0034,False
+14414,fi-FI,qa,qa_definition,kuvaile tietokoneen kovalevy,qa_factoid,0.418,0.0013,False
+14417,fi-FI,qa,qa_factoid,mikä valtameri koskettaa manterettamme,qa_factoid,0.9925,0.9925,True
+14419,fi-FI,qa,qa_factoid,onko angelinalta tulossa uusi elokuva tänä vuonna,social_post,0.3781,0.2331,False
+14429,fi-FI,qa,qa_definition,mikä on kaftaani,qa_factoid,0.7323,0.0104,False
+14440,fi-FI,qa,qa_factoid,mikä on meksikon pääkaupunki,email_query,0.9952,0.0001,False
+14442,fi-FI,qa,qa_factoid,missä on fidži,social_post,0.936,0.0627,False
+14444,fi-FI,qa,qa_factoid,mikä oli martti suosalon ensimmäinen elokuva,qa_factoid,0.5389,0.5389,True
+14449,fi-FI,qa,qa_factoid,onko pinkillä uusi vauva,social_post,0.7232,0.0099,False
+14457,fi-FI,qa,qa_factoid,etsi reitti,email_query,0.7392,0.0083,False
+14465,fi-FI,transport,transport_query,ohjeet linnanmäelle,email_sendemail,1.0,0.0,False
+14490,fi-FI,qa,qa_factoid,milloin bolshoi teatteri on perustettu,datetime_query,0.766,0.1529,False
+14498,fi-FI,qa,qa_definition,anna minulle älypuhelimen kuvaus,iot_hue_lightoff,0.9958,0.0002,False
+14504,fi-FI,qa,qa_factoid,olly kuinka monta tapaamista paavo lipponen teki,cooking_recipe,0.4046,0.1683,False
+14505,fi-FI,qa,qa_factoid,kuka on venäjän nykyinen pääministeri,qa_factoid,0.9992,0.9992,True
+14508,fi-FI,qa,qa_factoid,ole hyvä tiivistä viimeisin george r. r. martin tulen ja jään laulu kirja,email_sendemail,0.3513,0.0162,False
+14509,fi-FI,qa,qa_factoid,missä mahatma gandhi syntyi,cooking_recipe,0.833,0.0131,False
+14539,fi-FI,qa,qa_factoid,etsi tämän paikan maantieteelliset tiedot,lists_query,0.318,0.1411,False
+14545,fi-FI,qa,qa_factoid,kerro minulle intian sijainti,qa_factoid,0.9994,0.9994,True
+14567,fi-FI,qa,qa_factoid,mikä on suurin aktiivinen tulivuori maailmassa,qa_factoid,0.9928,0.9928,True
+14585,fi-FI,qa,qa_factoid,kuinka kauan kestää matkustaa japaniin etelä koreasta,qa_factoid,0.9963,0.9963,True
+14591,fi-FI,qa,qa_definition,kuvaile minulle television virtapiiri,qa_factoid,0.3765,0.0106,False
+14592,fi-FI,qa,qa_definition,anna minulle kuvaus älypuhelimen piiristä,iot_hue_lightoff,0.4198,0.2707,False
+14597,fi-FI,qa,qa_factoid,mikä on new yorkin asukasluku,social_post,0.8966,0.0518,False
+14601,fi-FI,qa,qa_factoid,kuinka monta vuotta abraham lincoln oli yhdysvaltojen presidenttinä,qa_factoid,0.7777,0.7777,True
+14605,fi-FI,qa,qa_factoid,jättikö angelina jolie brad pittin,social_post,0.9976,0.0005,False
+14608,fi-FI,qa,qa_factoid,mikä on krista kososen uusi elokuva,social_post,0.3631,0.2295,False
+14622,fi-FI,qa,qa_definition,kuvaile mikä sfääri on,qa_definition,0.8833,0.8833,True
+14648,fi-FI,cooking,cooking_recipe,resepti kiitos,cooking_recipe,0.9999,0.9999,True
+14653,fi-FI,qa,qa_factoid,mikä on venäjän väkiluku,qa_factoid,0.9638,0.9638,True
+14661,fi-FI,qa,qa_factoid,minä vuonna barack obama syntyi,social_post,0.6128,0.3439,False
+14668,fi-FI,qa,qa_definition,kuvaile tuote xy,iot_hue_lightoff,0.9904,0.0001,False
+14683,fi-FI,qa,qa_factoid,mikä on petteri koposen harrastus,social_post,1.0,0.0,False
+14684,fi-FI,qa,qa_factoid,kuka on venäjän pääministeri,qa_factoid,0.9861,0.9861,True
+14690,fi-FI,qa,qa_definition,google mikä on presidentti,qa_factoid,0.508,0.4917,False
+14700,fi-FI,qa,qa_definition,mikä itseasiassa on hartsi hammaspaikka,qa_factoid,0.6949,0.2571,False
+14701,fi-FI,qa,qa_definition,kuvaile heartstone korttipeli,play_music,0.4554,0.0078,False
+14705,fi-FI,qa,qa_factoid,google missä sophia vergara asuu,social_post,0.9998,0.0001,False
+14706,fi-FI,qa,qa_factoid,missä sophia vergara asuu,social_post,0.9998,0.0,False
+14746,fi-FI,qa,qa_factoid,mikä on kazakstanin pääkaupunki,qa_factoid,0.975,0.975,True
+14761,fi-FI,qa,qa_definition,anna minulle sanan saarnata määritelmä,email_sendemail,0.9933,0.0058,False
+14767,fi-FI,qa,qa_definition,kuinka kuvailisit palloa,qa_factoid,0.9746,0.0,False
+14770,fi-FI,qa,qa_factoid,kerro minulle suurin valtameri maailmassa,qa_factoid,0.9999,0.9999,True
+14787,fi-FI,qa,qa_factoid,mikä on ero roomalaisen ja gregoriaanisen kalenterin välillä,lists_query,0.5202,0.0422,False
+14791,fi-FI,qa,qa_factoid,mikä on tuolin meikki,email_query,0.4942,0.0028,False
+14794,fi-FI,qa,qa_factoid,mikä on elviksen suosikki menopeli,social_post,0.999,0.0005,False
+14822,fi-FI,qa,qa_factoid,verrattuna ihmisiin,qa_factoid,0.9998,0.9998,True
+14838,fi-FI,qa,qa_factoid,mikä on neutraalitiheyssuodatin ja haluaisinko gradientin vai pysyvän sellaisen myös kumpi olisi parempi tyyliltään ruuvattava vai neliönmallinen,iot_hue_lightoff,0.9971,0.0021,False
+14857,fi-FI,qa,qa_definition,voisitko selittää kohtuuttoman merkityksen minulle kiitos,qa_factoid,0.7546,0.011,False
+14877,fi-FI,qa,qa_factoid,millaiset ilmasto olosuhteet sillä alueella,weather_query,0.9219,0.0384,False
+14879,fi-FI,qa,qa_definition,merkitys,qa_definition,0.9817,0.9817,True
+14884,fi-FI,qa,qa_factoid,mikä osavaltio on vähiten tornadoaltis koko yhdysvalloissa,qa_factoid,0.9977,0.9977,True
+14889,fi-FI,qa,qa_definition,kuvaile tuo tavara minulle kiitos,qa_factoid,0.965,0.0006,False
+14891,fi-FI,qa,qa_factoid,missä kentässä tämä henkilö loistaa,play_radio,0.3564,0.0071,False
+14912,fi-FI,qa,qa_factoid,missä presidentti kekkonen syntyi,social_post,0.9788,0.0059,False
+14917,fi-FI,qa,qa_factoid,milloin mark laneganin uusi albumi julkaistaan,datetime_query,0.9768,0.0034,False
+14933,fi-FI,qa,qa_factoid,kerro minulle tietoja intian maantieteestä,qa_definition,0.419,0.1375,False
+14939,fi-FI,qa,qa_factoid,tarvitsen tietoja bruce leestä ole hyvä avusta,email_query,0.6746,0.0056,False
+14981,fi-FI,qa,qa_definition,iphone seitsemän kuvaus,iot_hue_lightoff,0.915,0.0044,False
+14994,fi-FI,qa,qa_factoid,mikä on denzel washingtonin seuraava elokuva,iot_hue_lightoff,0.2741,0.1954,False
+14995,fi-FI,qa,qa_definition,mitä tilanne tarkoittaa,qa_definition,0.9997,0.9997,True
+15020,fi-FI,qa,qa_factoid,kuinka vanha clint eastwood on,recommendation_events,0.4727,0.0254,False
+15039,fi-FI,qa,qa_factoid,olly mistä alpit alkavat,qa_definition,0.9996,0.0002,False
+15055,fi-FI,qa,qa_factoid,kumpi napa on kylmempi etelä vai pohjoinen,weather_query,0.621,0.0472,False
+15056,fi-FI,qa,qa_factoid,kuinka vanha on emma watsonin uusin poikaystävä,qa_factoid,0.9956,0.9956,True
+15062,fi-FI,qa,qa_factoid,tietoa lisa annista,qa_factoid,0.5833,0.5833,True
+15075,fi-FI,qa,qa_factoid,olly mihin ensimmäiset amerikkalaiset asettui,qa_factoid,0.921,0.921,True
+15092,fi-FI,qa,qa_definition,etsi samsung television kuvaus,qa_factoid,0.9853,0.0057,False
+15094,fi-FI,qa,qa_factoid,kerro paljonko ihmisiä helsingissä asuu,social_post,0.6226,0.1223,False
+15095,fi-FI,qa,qa_factoid,millä alueella miami sijaitsee,email_query,0.997,0.0001,False
+15127,fi-FI,qa,qa_definition,määrittele puhuja,play_music,0.8242,0.0017,False
+15155,fi-FI,social,social_post,lataisitko viimeisimmän selfieni facebook tililleni,email_sendemail,1.0,0.0,False
+15166,fi-FI,social,social_post,julkaise yritykseni twitterissä,social_post,0.9958,0.9958,True
+15177,fi-FI,social,social_post,voisitko twiitata uudelleen tämän postauksen twitterissä,social_post,0.9985,0.9985,True
+15185,fi-FI,social,social_post,syntymäpäivä toivotukset,qa_factoid,0.9674,0.0001,False
+15186,fi-FI,social,social_post,hää toiveet,qa_factoid,0.9901,0.0,False
+15187,fi-FI,social,social_post,jaa kaverin postauksessa,social_post,0.9989,0.9989,True
+15197,fi-FI,social,social_post,postaa twiitti vierailustani japanissa,social_post,0.9998,0.9998,True
+15208,fi-FI,social,social_post,julkaise hei kaikki facebookissa,social_post,0.9886,0.9886,True
+15213,fi-FI,news,news_query,mikä trendaa nyt,social_post,0.5241,0.1211,False
+15214,fi-FI,news,news_query,mitä uutisia tänään,news_query,0.9994,0.9994,True
+15216,fi-FI,social,social_post,twiittaa jotain puolestani,qa_factoid,0.9485,0.0453,False
+15231,fi-FI,social,social_post,postaa instagramiin kuva minun goan matkastani,social_post,1.0,1.0,True
+15271,fi-FI,social,social_post,postaa minun facebookkiin l. o. l.,social_post,1.0,1.0,True
+15275,fi-FI,social,social_post,lähetä facebookiin olen iloinen,social_post,0.9999,0.9999,True
+15276,fi-FI,social,social_post,julkaise uusi päivitys facebookiin että nautin kauniista säästä,social_post,0.9834,0.9834,True
+15289,fi-FI,social,social_post,julkaise viesti nyt,iot_hue_lightoff,0.9909,0.0,False
+15305,fi-FI,calendar,calendar_query,onko minulla mitään ilmoituksia somesta,email_query,0.2798,0.0076,False
+15318,fi-FI,social,social_post,haluan kiittää kaikkia syntymäpäiväonnitteluista,social_post,0.3499,0.3499,True
+15337,fi-FI,social,social_post,julkaise tämä video facebookkiin,social_post,0.9957,0.9957,True
+15350,fi-FI,social,social_post,olen tyytymätön k citymarketiin auta minua,qa_factoid,0.9982,0.0001,False
+15358,fi-FI,social,social_post,twiittaa applelle että iphone ei toimi,qa_factoid,0.9868,0.0024,False
+15359,fi-FI,social,social_post,avaa twiitti nokia että minun iphonen akku on aina loppunut,qa_factoid,0.2731,0.035,False
+15364,fi-FI,social,social_post,voitko kertoa amazonille että tämä uusi puhelinkotelo on täyttä roskaa,qa_factoid,0.9632,0.0017,False
+15382,fi-FI,social,social_post,voitko ottaa yhteyttä samsungiin ja sano pesukoneeni olevan tulessa,weather_query,0.99,0.0005,False
+15387,fi-FI,social,social_post,twiittaa nykyinen sijaintini,qa_factoid,0.9993,0.0003,False
+15399,fi-FI,social,social_post,välitä valitus elisalle verkkoon liittyvistä ongelmista,social_post,0.2689,0.2689,True
+15401,fi-FI,social,social_post,avaa twitter ja lähetä viesti,social_post,0.9994,0.9994,True
+15402,fi-FI,social,social_post,tviittaa että se tuote on kamala,qa_factoid,0.8881,0.0266,False
+15409,fi-FI,social,social_post,avaa twitter kirjoita valitukseni ja lähetä se asiakaspalvelulle,social_post,0.9943,0.9943,True
+15413,fi-FI,social,social_post,hanki minulle henkilö heti,qa_factoid,0.9976,0.0002,False
+15444,fi-FI,social,social_post,kaksi peukaloa alas prismalle,iot_hue_lightoff,0.3554,0.0157,False
+15448,fi-FI,social,social_post,kirjoita twiitti sonyn äänenvoimakkuuden ongelmista,social_post,0.5161,0.5161,True
+15454,fi-FI,social,social_post,twiittaa finnairille olen vihainen hävititte laukkuni,qa_factoid,0.5936,0.2552,False
+15456,fi-FI,social,social_post,haluan lähettää twiitin finnairille ja valittaa olevani vihainen koska he hävittivät laukkuni,qa_factoid,0.4162,0.3329,False
+15457,fi-FI,social,social_post,minulla oli ongelmia hampurilaiseni kanssa voitko tviitata burger kingille,recommendation_events,0.7363,0.208,False
+15459,fi-FI,social,social_post,lähetä twitter valitus,qa_factoid,0.9988,0.0001,False
+15464,fi-FI,social,social_post,en saanut tuotetta ajoissa lähetä twiitti dressmannille,qa_factoid,0.9986,0.0,False
+15467,fi-FI,social,social_post,kerro kärkkäiselle että vihaan heitä,social_post,0.9515,0.9515,True
+15472,fi-FI,social,social_post,twiittaa valitus nettikirjakaupalle,qa_factoid,0.9984,0.0002,False
+15487,fi-FI,social,social_post,twiittaa prismalle heidän kauppansa siisteydestä,recommendation_events,0.9526,0.0086,False
+15488,fi-FI,social,social_post,ole hyvä ja twiittaa kotipizzalle että olen odottanut toimitusta jo kauan,email_sendemail,1.0,0.0,False
+15503,fi-FI,social,social_post,uusi twiitti asiakaspalveluun,qa_factoid,0.9469,0.006,False
+15508,fi-FI,social,social_post,siri avaa twitter ja twiittaa,social_post,0.9951,0.9951,True
+15518,fi-FI,social,social_post,lähetä valitus twiitillä dressmanille,qa_factoid,0.6987,0.2847,False
+15532,fi-FI,social,social_post,olly tviittaa prismalle ja kerro että heillä on huono asiakaspalvelu,social_post,0.5631,0.5631,True
+15546,fi-FI,social,social_post,twiittaa kotipizzalle kylmästä pitsasta,qa_factoid,0.5662,0.2439,False
+15548,fi-FI,social,social_post,twiittaa kännykkävalitus samsungille,qa_factoid,0.9756,0.0004,False
+15553,fi-FI,social,social_post,negatiivinen vastaustwiitti huoneistopalveluun,qa_factoid,0.9983,0.0002,False
+15554,fi-FI,social,social_post,twiittaatko gigantin huoltoon viivästyneestä palvelusta,social_post,0.6407,0.6407,True
+15556,fi-FI,social,social_post,twiitataan valitus,qa_factoid,1.0,0.0,False
+15557,fi-FI,social,social_post,tarvitsen sinun tviittaavan valituksen,qa_factoid,0.8407,0.093,False
+15560,fi-FI,social,social_post,laita facebookkiin että olen nälkäinen,social_post,0.9994,0.9994,True
+15565,fi-FI,social,social_post,voitko kertoa elisalle että en käytä heidän palvelujaan enää koskaan,recommendation_events,0.5305,0.0008,False
+15587,fi-FI,social,social_post,avaa galleria kuvan nimi,social_post,0.8322,0.8322,True
+15592,fi-FI,social,social_post,twiittaa valitus telialle,qa_factoid,0.9876,0.0062,False
+15593,fi-FI,social,social_post,twiittaa valitus verkkokauppa comille,qa_factoid,0.9752,0.0087,False
+15598,fi-FI,social,social_post,avaa yrityksen nimi ja etsi valituksia,recommendation_events,0.9743,0.0019,False
+15610,fi-FI,social,social_post,tee twiitti seuraavaa erittäin huono seuranta yle yhtiö tyytymätön minun käyttäjälläni,qa_factoid,0.7907,0.0063,False
+15618,fi-FI,social,social_post,twiittaa tapiolalle ja kerro että he ovat hanurista,social_post,0.8097,0.8097,True
+15626,fi-FI,social,social_post,twiittaa giganttiin valitus huonosta asiakaspalvelusta,qa_factoid,0.9634,0.0126,False
+15634,fi-FI,social,social_post,ok google twiittaa mikä mulkku bensa aseman omistaja on,qa_factoid,0.8002,0.0678,False
+15635,fi-FI,social,social_post,twiittaa että aninkaisten kadun mcdonaldsissa on kamala palvelu,social_post,0.9524,0.9524,True
+15647,fi-FI,social,social_post,twiittaa valitus jollekin,qa_factoid,0.9935,0.0032,False
+15651,fi-FI,social,social_post,lähetä raportti kuluttajapalveluun,iot_hue_lightoff,0.3357,0.0142,False
+15652,fi-FI,social,social_post,auta valittamaan kuluttajan palveluun,qa_factoid,0.9958,0.0001,False
+15655,fi-FI,social,social_post,twiittaa googlen asiakaspalveluun minun uusi nexus puhelin ei toimi auta,qa_factoid,0.9684,0.0007,False
+15656,fi-FI,social,social_post,twiittaa viesti verkkokaupalle että odottelen yhtä toimitustani,email_sendemail,1.0,0.0,False
+15661,fi-FI,social,social_post,laita viimeisin päivitykseni twitteriin hallitukselle,social_post,0.9983,0.9983,True
+15670,fi-FI,social,social_post,lähetä valitus twiitti,qa_factoid,0.9999,0.0,False
+15672,fi-FI,social,social_post,twiittaa applelle saamatta jääneestä iphonesta jonka lähetin korjattavaksi viime viikolla,qa_factoid,0.6789,0.1332,False
+15676,fi-FI,social,social_post,lisää valitus palvelusta twiittiin amarillolle,qa_factoid,0.9299,0.0541,False
+15686,fi-FI,social,social_post,hei joltain henkilöltä ostamani tuote on rikki,qa_factoid,0.9492,0.0507,False
+15693,fi-FI,social,social_post,twiittaa että suklaapaketissa oli hyönteinen,qa_factoid,0.7042,0.1535,False
+15700,fi-FI,social,social_post,vanhentuneet tuotteet markkinoilla,iot_hue_lightoff,0.6599,0.2469,False
+15703,fi-FI,social,social_post,twiittaa dressmanille että heidän kokonsa loppuvat liian nopeasti,social_post,0.9692,0.9692,True
+15706,fi-FI,social,social_post,twiittaa,qa_factoid,0.9985,0.0006,False
+15707,fi-FI,social,social_post,lähetetäänpä twiitti,qa_factoid,0.9844,0.0,False
+15708,fi-FI,social,social_post,julkaise valitus palvelusta,qa_factoid,0.9325,0.0,False
+15721,fi-FI,social,social_post,twiittaa kuvottunut hymiö mcdonaldsista,social_post,0.9923,0.9923,True
+15723,fi-FI,social,social_post,julkaise onnellinen status facebookiin,social_post,0.9986,0.9986,True
+15731,fi-FI,social,social_post,olly twiittaa viesti elisalle ja kerro heille palvelu minulle on huono,qa_factoid,0.9981,0.0007,False
+15732,fi-FI,social,social_post,twiittaa samsungille ja kerro että heidän pitää lopettaa ihmisten tappaminen tuotteillaan,email_sendemail,1.0,0.0,False
+15736,fi-FI,social,social_post,lähetä negatiivinen arvostelu yrityksestä,qa_factoid,0.9569,0.0168,False
+15756,fi-FI,email,email_sendemail,lähetä sähköpostia tiimilleni,email_sendemail,1.0,1.0,True
+15763,fi-FI,email,email_query,ole hyvä tarkista uudet sähköpostit,email_sendemail,0.9999,0.0001,False
+15765,fi-FI,email,email_sendemail,vastaa paulin sähköpostiin,email_sendemail,1.0,1.0,True
+15777,fi-FI,email,email_query,kerro jos minulla on uusia sähköposteja,email_sendemail,1.0,0.0,False
+15785,fi-FI,email,email_query,onko postilatikossani mitään uutta,email_sendemail,0.6817,0.0078,False
+15789,fi-FI,email,email_query,onko minulla yhtään uutta sähköpostia,email_sendemail,1.0,0.0,False
+15792,fi-FI,calendar,calendar_query,kenet minä tapaan tänään,social_post,0.9893,0.0003,False
+15796,fi-FI,email,email_sendemail,lähetä sähköpostia seijalle,email_sendemail,1.0,1.0,True
+15802,fi-FI,email,email_sendemail,vastaa sähköpostilla jaakolle että en tule tänä iltana,email_sendemail,1.0,1.0,True
+15809,fi-FI,email,email_query,onko roope lähettänyt sähköpostia minulle vielä,email_sendemail,0.9999,0.0,False
+15825,fi-FI,email,email_sendemail,vastaa isälle ja kirjoita että tulen olemaan myöhässä,weather_query,0.8827,0.0008,False
+15828,fi-FI,email,email_sendemail,tässä on uusi sähköpostiosoite yhteystietoihin lisättäväksi,email_sendemail,0.9999,0.9999,True
+15829,fi-FI,email,email_sendemail,mene yhteystietoihin ja syötä uusi sähköpostiosoite,email_sendemail,1.0,1.0,True
+15839,fi-FI,email,email_query,aihe,qa_factoid,0.9295,0.0128,False
+15841,fi-FI,email,email_sendemail,kirjoita uusi sähköposti ristolle,email_sendemail,1.0,1.0,True
+15845,fi-FI,email,email_sendemail,kuinka se on tullut meihin,social_post,0.4604,0.0168,False
+15847,fi-FI,email,email_sendemail,kuinka voimme saada luottoa,qa_factoid,0.9251,0.0,False
+15849,fi-FI,email,email_sendemail,lähetä sähköposti pomolleni,email_sendemail,1.0,1.0,True
+15857,fi-FI,email,email_sendemail,lähetä uuteen listattuun sähköpostiin,email_sendemail,0.9989,0.9989,True
+15862,fi-FI,email,email_query,tarkista sähköposti onko vastaanotettuja äidiltä,email_sendemail,1.0,0.0,False
+15880,fi-FI,email,email_query,tarkista sähköpostini kiitos,email_sendemail,1.0,0.0,False
+15890,fi-FI,email,email_query,katso onko minulla yhtään uutta sähköpostia isältä,email_sendemail,1.0,0.0,False
+15904,fi-FI,email,email_query,katso uudet sähköpostit ja kerro minulle mistä ne kertovat,email_sendemail,0.9936,0.0012,False
+15906,fi-FI,email,email_sendemail,vastaa kiitos jonille,social_post,0.3343,0.2185,False
+15911,fi-FI,email,email_sendemail,valmistele sähköposti susannalle,email_sendemail,1.0,1.0,True
+15933,fi-FI,email,email_query,mitä uusia sähköposteja minulla on,email_sendemail,0.8503,0.0002,False
+15942,fi-FI,email,email_sendemail,lähetä tämä sähköposti vastauksena viimeisimpiin sähköposteihin,email_sendemail,1.0,1.0,True
+15950,fi-FI,email,email_sendemail,vastaa joni mäen sähköpostiin,email_sendemail,1.0,1.0,True
+15957,fi-FI,email,email_sendemail,lähetä liisalle sähköposti että olemme matkalla,email_sendemail,1.0,1.0,True
+15963,fi-FI,email,email_query,onko minulla yhtään uusia sähköposteja kallelta,email_sendemail,0.9997,0.0002,False
+15966,fi-FI,email,email_query,lähetä vastaus jos se on erittäin tärkeä,qa_factoid,0.9253,0.002,False
+15968,fi-FI,email,email_query,jos se on erittäin tutusta paikasta merkitse se tärkeäksi,qa_factoid,0.6173,0.0044,False
+15970,fi-FI,email,email_query,mikä oli äidin viimeisimmän sähköpostin aihe,social_post,0.9906,0.0003,False
+15971,fi-FI,email,email_query,mikä oli viimeisin sähköposti töistä,email_sendemail,0.9411,0.0545,False
+15994,fi-FI,email,email_sendemail,lähetä sähköpostia jonille kysyen häneltä mikä aika sopii palaverille,email_sendemail,1.0,1.0,True
+15995,fi-FI,email,email_sendemail,lähetä karitalle sähköpostia budjettipalaverista,email_sendemail,1.0,1.0,True
+15998,fi-FI,email,email_query,tarkista minun sähköpostini onko tullut jotakin nimeltä,email_sendemail,1.0,0.0,False
+16002,fi-FI,email,email_query,tarkista uudet sähköpostit,email_sendemail,0.9972,0.0027,False
+16005,fi-FI,email,email_sendemail,lähetä sähköposti osoitteeseen joonas ät gmail piste fi,email_sendemail,1.0,1.0,True
+16010,fi-FI,email,email_query,kerro minulle onko postilaatikossani yhtään uutta viestiä,social_post,0.6885,0.0018,False
+16024,fi-FI,email,email_sendemail,lähetä sähköposti ronille ja sano että olen kiireinen huomenna,email_sendemail,1.0,1.0,True
+16028,fi-FI,email,email_sendemail,hei siri aloita sähköposti työkaverille,email_sendemail,1.0,1.0,True
+16029,fi-FI,email,email_sendemail,kirjoita uusi sähköposti työkaverille,email_sendemail,1.0,1.0,True
+16032,fi-FI,email,email_sendemail,lähettäisitkö sähköpostin sallille huomisesta tapaamisesta,email_sendemail,1.0,1.0,True
+16038,fi-FI,email,email_query,hei onko joni lähettänyt yhtään sähköpostia viime aikoina,email_sendemail,1.0,0.0,False
+16045,fi-FI,email,email_sendemail,lähetä ismolle postia toimiston aukioloajoista,email_sendemail,1.0,1.0,True
+16048,fi-FI,email,email_query,näytä minulle viimeisimmät sähköpostit,email_sendemail,1.0,0.0,False
+16049,fi-FI,email,email_sendemail,auttaisitko lähettämään sähköpostin perheelleni,email_sendemail,1.0,1.0,True
+16050,fi-FI,email,email_query,tarkista gmail,email_query,0.9999,0.9999,True
+16052,fi-FI,email,email_query,tarkista outlook,recommendation_events,0.619,0.0152,False
+16056,fi-FI,email,email_sendemail,vastaa sähköpostiin,email_sendemail,1.0,1.0,True
+16061,fi-FI,email,email_query,olen saanut mitään sähköpostiviestejä viimeisen kymmenen minuutin aikana,social_post,0.9949,0.0002,False
+16072,fi-FI,email,email_sendemail,lähetä sähköpostia pomolleni että olen tänään myöhässä hätätilanteen vuoksi ja pahoittele etten pääse palaveriin,email_sendemail,1.0,1.0,True
+16075,fi-FI,email,email_query,näytä viime aikainen sähköposti jonnelta,email_sendemail,0.9998,0.0001,False
+16082,fi-FI,email,email_sendemail,lähetä peterille sähköposti ja kysy miten hän voi ja voinko auttaa häntä jotenkin,email_sendemail,1.0,1.0,True
+16089,fi-FI,email,email_query,olenko saanut uusia sähköposteja viimeisen kymmenen minuutin aikana,email_sendemail,1.0,0.0,False
+16096,fi-FI,email,email_query,onko armi lähettänyt yhtään uutta sähköpostia,email_sendemail,0.9907,0.0006,False
+16098,fi-FI,email,email_query,tarkista lukemattomat sähköpostit annalta,email_sendemail,0.9562,0.0427,False
+16100,fi-FI,email,email_query,ole hyvä ja tarkista sähköposti työlistausta koskien,email_sendemail,1.0,0.0,False
+16103,fi-FI,email,email_sendemail,lähetä sähköpostia veljelleni ja kerro että on hääpäivä,email_sendemail,1.0,1.0,True
+16120,fi-FI,email,email_sendemail,apua lähetetään vain jaanalle,email_sendemail,1.0,1.0,True
+16131,fi-FI,email,email_sendemail,tämä uusi sähköposti pitäisi lisätä yhteystietoihini,email_sendemail,1.0,1.0,True
+16145,fi-FI,email,email_query,näytä minulle kaikkein viimeisimmät sähköpostit,email_query,0.7718,0.7718,True
+16146,fi-FI,news,news_query,anna viimeisimmät päivitykset,news_query,0.4011,0.4011,True
+16148,fi-FI,email,email_sendemail,nopea vastaus jaskalle joten lähetä sähköposti,email_sendemail,1.0,1.0,True
+16151,fi-FI,email,email_query,tarkista palaveri aikataulu tämän päivän maileihin,datetime_query,0.3582,0.0199,False
+16162,fi-FI,email,email_sendemail,lähetä vastaus,qa_factoid,0.9994,0.0,False
+16163,fi-FI,email,email_query,kuka lähetti minulle eilen sähköpostia,email_sendemail,1.0,0.0,False
+16165,fi-FI,email,email_query,vastasiko sari,lists_query,0.1029,0.0538,False
+16166,fi-FI,email,email_sendemail,vastaatko sarille että olen kiireinen projektien kanssa seuraavat kolme viikkoa,recommendation_events,0.2944,0.011,False
+16168,fi-FI,email,email_query,onko viimeisen viidentoista minuutin aikana tullut yhtään sähköpostia,email_query,0.9992,0.9992,True
+16170,fi-FI,email,email_query,avaa saapuneet kansio ja tarkista lukemattomat postit,social_post,0.9967,0.0001,False
+16178,fi-FI,email,email_query,onko yhtään postia amazonilta tänään,email_sendemail,0.6008,0.0271,False
+16183,fi-FI,email,email_query,tarkista sähköposti töihin liittyen,email_sendemail,0.9958,0.0041,False
+16201,fi-FI,email,email_sendemail,lataa uusi sähköposti petrille ja lähetä viesti nyt,email_sendemail,1.0,1.0,True
+16221,fi-FI,email,email_sendemail,lisää katin sähköpostiosoite ja kirjoita että annan hänen tietää,email_sendemail,1.0,1.0,True
+16245,fi-FI,email,email_sendemail,lähetä sähköposti osoitteeseen joe ät gmail piste fi,email_sendemail,1.0,1.0,True
+16248,fi-FI,email,email_query,tarkista postini,social_post,0.7026,0.126,False
+16263,fi-FI,email,email_query,sainko yhtään uutta sähköpostia roopelta,email_sendemail,1.0,0.0,False
+16266,fi-FI,email,email_sendemail,kirjoita sähköposti perheelleni ja sano että rakastan teitä kaikkia,email_sendemail,1.0,1.0,True
+16271,fi-FI,email,email_query,päivitä postilaatikkoni ja kerro uusista sähköposteista,email_sendemail,1.0,0.0,False
+16275,fi-FI,email,email_query,aloita uusi sähköposti kysely,email_sendemail,0.9999,0.0001,False
+16276,fi-FI,email,email_query,onko minulla uusia sähköposteja,email_sendemail,0.9999,0.0,False
+16280,fi-FI,email,email_sendemail,lähettäisitkö sähköpostia katille joka on perhe ja kaveri listalla,email_sendemail,1.0,1.0,True
+16282,fi-FI,email,email_sendemail,lähetä sähköposti assistentilleni klaaralle että kaikki tapaamiset perutaan huomiselta,email_sendemail,1.0,1.0,True
+16296,fi-FI,email,email_sendemail,lähetä sähköposti äidille ja kerro että vellun syntymäpäiväjuhla on sunnuntaina,email_sendemail,1.0,1.0,True
+16297,fi-FI,email,email_sendemail,lähetä jaakolle sähköposti ja kiitä häntä,email_sendemail,1.0,1.0,True
+16314,fi-FI,email,email_sendemail,lähetä sähköposti mairelle,email_sendemail,1.0,1.0,True
+16317,fi-FI,email,email_query,olenko saanut uusia sähköposteja saaralta,email_sendemail,1.0,0.0,False
+16318,fi-FI,email,email_sendemail,vastaa sähköpostiin,email_sendemail,1.0,1.0,True
+16320,fi-FI,email,email_sendemail,haluan vastata pekka laihon sähköpostiin,email_sendemail,1.0,1.0,True
+16353,fi-FI,email,email_query,tarkista onko teemulta sähköposteja,email_sendemail,1.0,0.0,False
+16354,fi-FI,email,email_query,tarkista sähköpostit työnantajaltani,email_sendemail,1.0,0.0,False
+16356,fi-FI,email,email_query,lähetinkö sähköpostin tomille asevalvonta otsikolla,email_sendemail,1.0,0.0,False
+16357,fi-FI,email,email_query,onko matti lähettänyt sähköpostia ammuksista,email_sendemail,1.0,0.0,False
+16361,fi-FI,email,email_query,onko minulla yhtään uutta sähköpostia viimeisen tunnin aikana,email_sendemail,1.0,0.0,False
+16373,fi-FI,email,email_query,olenko saanut yhtään sähköpostia jossa on seurantanumeroita,email_sendemail,0.8695,0.0,False
+16375,fi-FI,email,email_sendemail,laadi sähköposti pertille,email_sendemail,1.0,1.0,True
+16376,fi-FI,email,email_sendemail,alexa lähetä sähköposti äitille,email_sendemail,1.0,1.0,True
+16377,fi-FI,email,email_sendemail,lähetä äiti sähköposti nyt,email_sendemail,1.0,1.0,True
+16384,fi-FI,email,email_query,hei onko minulla yhtään uutta sähköpostia,email_sendemail,1.0,0.0,False
+16385,fi-FI,email,email_query,lue uudet sähköpostit,email_sendemail,0.5861,0.0037,False
+16398,fi-FI,email,email_sendemail,lähetä sähköposti terolle,email_sendemail,1.0,1.0,True
+16399,fi-FI,email,email_query,olenko saanut yhtään uutta sähköpostia,email_sendemail,1.0,0.0,False
+16401,fi-FI,email,email_sendemail,kirjoita minnalle sähköposti hei mitä sinä teet tänään,email_sendemail,1.0,1.0,True
+16402,fi-FI,email,email_sendemail,sähköpostita jonnan päivän suunnitelmat,email_sendemail,1.0,1.0,True
+16406,fi-FI,email,email_sendemail,alexa aloita sähköposti,email_sendemail,1.0,1.0,True
+16410,fi-FI,email,email_sendemail,kirjoita sähköposti,email_sendemail,1.0,1.0,True
+16413,fi-FI,email,email_query,näytä kaikki sähköpostit pomoltani,email_sendemail,1.0,0.0,False
+16419,fi-FI,email,email_sendemail,lähettäisikö sähköpostin jouni sedälle sisällöllä kyllä voin tehdä sen,email_sendemail,1.0,1.0,True
+16427,fi-FI,email,email_query,kuinka monta uutta sähköpostia mulle on tullut tänään,social_post,0.9855,0.0004,False
+16430,fi-FI,email,email_sendemail,voisitko lähettää äidille ja isälle sähköpostin jossa kysytään mitä heille kuuluu,email_sendemail,1.0,1.0,True
+16437,fi-FI,email,email_sendemail,lähettäisitkö tämän sähköpostin ystävälleni,email_sendemail,1.0,1.0,True
+16438,fi-FI,email,email_sendemail,tämä sähköposti pitää lähettää nyt,email_sendemail,1.0,1.0,True
+16446,fi-FI,email,email_query,tarkista viimeisimpiä sähköposteja tältä lähettäjältä,email_sendemail,1.0,0.0,False
+16459,fi-FI,email,email_sendemail,uusi viesti uusiposti ät gmail piste fi,social_post,0.9813,0.0174,False
+16461,fi-FI,email,email_query,onko minulla yhtään lukematonta sähköpostia,email_query,0.5452,0.5452,True
+16467,fi-FI,email,email_query,olenko saanut mitään uutta sähköpostia kontaktiltani q.,qa_factoid,1.0,0.0,False
+16471,fi-FI,email,email_query,tarkista sähköpostit jonnelta,email_sendemail,1.0,0.0,False
+16496,fi-FI,email,email_sendemail,lähetä vastaus sähköposti,email_sendemail,1.0,1.0,True
+16501,fi-FI,email,email_sendemail,lähetätkö sähköpostin ystävälleni tiinalle että mitä kuuluu,email_sendemail,1.0,1.0,True
+16506,fi-FI,email,email_sendemail,lisää uusi sähköpostiosoite ja lähetä sähköposti,email_sendemail,1.0,1.0,True
+16518,fi-FI,email,email_sendemail,lisää uusi sähköposti juulia hyväriselle,email_sendemail,1.0,1.0,True
+16519,fi-FI,email,email_sendemail,minun täytyy lisätä uusi sähköpostiosoite yhteystietoihini,email_sendemail,1.0,1.0,True
+16535,fi-FI,email,email_sendemail,voitko kirjoittaa sähköpostin jennille,email_sendemail,1.0,1.0,True
+16559,fi-FI,email,email_sendemail,lähetä mikalle vastaus neljäsataakolmekymmentä hänen tänä aamuna lähettämäänsä sähköpostiin,email_sendemail,1.0,1.0,True
+16560,fi-FI,email,email_sendemail,vastaa pomoni sähköpostiin että tulen taloon neljältä illalla,email_sendemail,1.0,1.0,True
+16563,fi-FI,email,email_query,olly tarkista minun sähköpostini,email_sendemail,1.0,0.0,False
+16591,fi-FI,email,email_sendemail,sain juuri villeltä sähköpostia johon minun täytyy vastata juuri nyt,email_sendemail,1.0,1.0,True
+16593,fi-FI,email,email_sendemail,se viimeinen sähköposti tarvitsee vastauksen niin pian kuin mahdollista,email_sendemail,1.0,1.0,True
+16603,fi-FI,email,email_query,mitä äidiltä tulleessa sähköpostissa sanottiin joka lähetettiin puoli tuntia sitten,email_sendemail,1.0,0.0,False
+16605,fi-FI,email,email_sendemail,kirjoita ja lähetä sähköposti pomolleni,email_sendemail,1.0,1.0,True
+16609,fi-FI,email,email_query,kerro onko minulle tullut yhtään uusia sähköposteja,email_sendemail,1.0,0.0,False
+16613,fi-FI,email,email_sendemail,lähetä sähköposti pomolle että olen myöhässä,email_sendemail,1.0,1.0,True
+16622,fi-FI,email,email_sendemail,lähetä sähköposti tälle yhteystiedolle,email_sendemail,1.0,1.0,True
+16624,fi-FI,email,email_sendemail,pitää lähettää elisalle viesti yhteysongelmistani,email_sendemail,1.0,1.0,True
+16627,fi-FI,email,email_query,tarkista uusimmat sähköpostit,email_sendemail,1.0,0.0,False
+16630,fi-FI,email,email_sendemail,lähetä vastaus viimeiseen sähköpostiin,email_sendemail,1.0,1.0,True
+16642,fi-FI,email,email_query,tarkista sähköposti onko siellä mitään sarilta,email_sendemail,1.0,0.0,False
+16648,fi-FI,email,email_query,katso minun sähköpostit puolestani,email_sendemail,1.0,0.0,False
+16652,fi-FI,email,email_query,oliko pertin sähköpostissa liitettä,email_sendemail,1.0,0.0,False
+16662,fi-FI,email,email_query,olenko saanut yhtään uutta sähköpostia danilta,email_sendemail,1.0,0.0,False
+16666,fi-FI,email,email_query,onko minulla yhtään saapuneita sähköposteja,email_sendemail,1.0,0.0,False
+16668,fi-FI,email,email_query,onko tullut yhtään sähköpostia neljän jälkeen tänään,email_sendemail,0.9997,0.0,False
+16669,fi-FI,email,email_query,sainko sähköpostia paulilta,email_sendemail,1.0,0.0,False
+16672,fi-FI,email,email_query,onko ben ottanut yhteyttä,email_sendemail,0.6396,0.0069,False
+16677,fi-FI,email,email_query,onko minulla yhtään uusia sähköposteja postilaatikossani tänään,email_sendemail,0.9998,0.0002,False
+16698,fi-FI,email,email_sendemail,kirjoita vastaus äitini sähköpostiin,email_sendemail,1.0,1.0,True
+16701,fi-FI,email,email_sendemail,haluaisin vastata saaran sähköpostiin,email_sendemail,1.0,1.0,True
+16703,fi-FI,email,email_sendemail,haluaisin vastata kaikkein uusimpaan sähköpostiin,email_sendemail,0.9976,0.9976,True
+16712,fi-FI,email,email_query,onko minulla yhtään uutta sähköpostia,email_sendemail,1.0,0.0,False
+16713,fi-FI,email,email_query,tarkista minun sähköpostini ja ilmoita minulle jos on yhtään uutta sähköpostia,email_sendemail,0.9976,0.0024,False
+16717,fi-FI,email,email_sendemail,voisitko lähettää jaakolle sähköpostia jossa sanotaan että minä olen lomalla,email_sendemail,1.0,1.0,True
+16719,fi-FI,email,email_query,pidä mut ajan tasalla uusista vastaanotetuista sähköposteista,email_sendemail,1.0,0.0,False
+16729,fi-FI,email,email_sendemail,vastaa sähköpostiin pekalta että näen heidät huomenna,email_sendemail,1.0,1.0,True
+16730,fi-FI,email,email_query,tarkista uusi sähköposti antilta,email_sendemail,1.0,0.0,False
+16733,fi-FI,email,email_query,näytä minulle viimeisimmät sähköpostit amazonilta,email_sendemail,0.9998,0.0002,False
+16749,fi-FI,email,email_query,onko minulle tänään yhtään uusia sähköposteja,email_sendemail,1.0,0.0,False
+16754,fi-FI,email,email_sendemail,sanele sähköposti,email_sendemail,1.0,1.0,True
+16758,fi-FI,email,email_query,yhtään uutta sähköpostia viime kerran jälkeen,email_sendemail,1.0,0.0,False
+16763,fi-FI,email,email_query,viimeisen kymmenen minuutin sähköpostit,email_sendemail,1.0,0.0,False
+16765,fi-FI,email,email_query,mikä on haastatteluaika eilisen sähköpostista,email_sendemail,1.0,0.0,False
+16766,fi-FI,email,email_query,tarkista uusi sähköposti,email_sendemail,1.0,0.0,False
+16772,fi-FI,email,email_query,näytä kaikki murtoon liittyvät sähköpostit,email_sendemail,1.0,0.0,False
+16780,fi-FI,email,email_sendemail,lähetä sähköposti juanpedro ät gmail piste fi,email_sendemail,1.0,1.0,True
+16791,fi-FI,email,email_sendemail,kirjoita uusi sähköposti mutta mulla on uusi osoite tällä kertaa petri ät esimerkki piste com,email_sendemail,1.0,1.0,True
+16799,fi-FI,email,email_query,olenko saanut yhtään sähköpostia puolenpäivän jälkeen,email_sendemail,1.0,0.0,False
+16801,fi-FI,email,email_query,onko karita lähettänyt minulle yhtään sähköpostia tomista,email_sendemail,0.9976,0.0004,False
+16813,fi-FI,email,email_query,piippaa kun saan sähköpostin jonilta,social_post,0.8706,0.0006,False
+16814,fi-FI,email,email_query,tarkista sähköpostit,email_sendemail,1.0,0.0,False
+16838,fi-FI,email,email_sendemail,voitko lähettää sähköpostin uudelle vastaanottajalle,email_sendemail,1.0,1.0,True
+16851,fi-FI,email,email_query,sähköposti ilmoitukset,email_sendemail,1.0,0.0,False
+16859,fi-FI,email,email_query,mitä sanoin jaanalle viimeisessä sähköpostissani,email_sendemail,1.0,0.0,False
+16872,fi-FI,email,email_sendemail,etsi nata kontakteistani ja lähetä hänelle sähköposti,email_sendemail,1.0,1.0,True
+16873,fi-FI,email,email_sendemail,lähetä natalle sähköpostia syntymäpäiväkseen,email_sendemail,1.0,1.0,True
+16880,fi-FI,email,email_sendemail,lähetä jerrylle sähköpostia tapaamisesta,email_sendemail,1.0,1.0,True
+16883,fi-FI,email,email_sendemail,lähetä sähköposti jerrylle ja kysy monelta hän on kotona tänä iltana,email_sendemail,1.0,1.0,True
+16886,fi-FI,email,email_sendemail,vastaa tähän viestiin,social_post,0.9944,0.0001,False
+16888,fi-FI,email,email_query,entäpä uusi sähköposti,email_sendemail,1.0,0.0,False
+16890,fi-FI,email,email_query,mitä uudessa sähköpostissa sanotaan,email_sendemail,0.9982,0.0013,False
+16891,fi-FI,email,email_sendemail,lähetä joni summaselle sähköposti,email_sendemail,1.0,1.0,True
+16892,fi-FI,email,email_sendemail,aloita ja lähetä sähköpostia joni niemelle,email_sendemail,1.0,1.0,True
+16899,fi-FI,email,email_query,olenko saanut yhtään sähköpostia jesse puuroselta,email_sendemail,1.0,0.0,False
+16914,fi-FI,email,email_query,onko minulla sähköposteja tältä lähettäjältä,email_sendemail,1.0,0.0,False
+16916,fi-FI,email,email_sendemail,hei vastaa saamaani sähköpostiin,email_sendemail,1.0,1.0,True
+16924,fi-FI,email,email_query,tarkista gmaili uusista viesteistä,email_sendemail,1.0,0.0,False
+16930,fi-FI,email,email_query,näytä viimeisin sähköposti,email_sendemail,1.0,0.0,False
+16938,fi-FI,email,email_sendemail,vastaa jaakon sähköpostiin,email_sendemail,1.0,1.0,True
+16944,fi-FI,email,email_sendemail,lähetä isoäidille sähköposti että tulemme käymään lauantaina nähdään silloin,email_sendemail,1.0,1.0,True
+16947,fi-FI,email,email_sendemail,vastaa sähköpostiin,email_sendemail,1.0,1.0,True
+16955,fi-FI,email,email_sendemail,lähetä sähköposti uudelle yhteystiedolle,email_sendemail,1.0,1.0,True
+16956,fi-FI,email,email_sendemail,lähetä sähköposti uudelle yhteystiedolle,email_sendemail,1.0,1.0,True
+16961,fi-FI,email,email_sendemail,vastaa,iot_hue_lightoff,0.8873,0.0008,False
+16974,fi-FI,email,email_query,voitko tarkistaa kaikki verotoimistolta tulleet uudet sähköpostit,email_query,0.9835,0.9835,True
+16987,fi-FI,email,email_query,yhtään uutta sähköpostia jonilta,email_sendemail,1.0,0.0,False
+16989,fi-FI,email,email_sendemail,sano minulle lähetettyyn sähköpostiin kalle tarvitsen rahaa kiireisesti,email_sendemail,0.9958,0.9958,True
+16992,fi-FI,email,email_query,onko jaana virtanen lähettänyt minulle sähköpostia,social_post,1.0,0.0,False
+16995,fi-FI,email,email_sendemail,lähetä sähköposti jessicalle,email_sendemail,1.0,1.0,True
+17005,fi-FI,email,email_query,tarkista uudet sähköpostit kiitos,email_sendemail,1.0,0.0,False
+17011,fi-FI,email,email_sendemail,lähettäisitkö sähköpostin,email_sendemail,1.0,1.0,True
+17015,fi-FI,email,email_sendemail,aloita vastaus,qa_factoid,0.687,0.0833,False
+17019,fi-FI,email,email_sendemail,vastaa viimeiseen sähköpostiin,email_sendemail,1.0,1.0,True
+17020,fi-FI,email,email_sendemail,vastaa viimeiseen vastaanotettuun sähköpostiin,email_sendemail,0.9999,0.9999,True
+17023,fi-FI,email,email_sendemail,lähetä äidille sähköpostia ja kysy millainen sää siellä on,email_sendemail,1.0,1.0,True
+17042,fi-FI,email,email_sendemail,lähetä sähköposti jonille ät gmail piste comiin,email_sendemail,1.0,1.0,True
+17043,fi-FI,email,email_sendemail,lähetä sähköposti osoitteeseen tim ät hotmail piste fi,email_sendemail,1.0,1.0,True
+17051,fi-FI,email,email_query,hanki minulle uusi sähköposti,email_sendemail,1.0,0.0,False
+17052,fi-FI,email,email_query,etsi anni,email_sendemail,0.9614,0.0214,False
+17069,fi-FI,email,email_query,onko outlookissa yhtään uusia sähköposteja,email_sendemail,0.9966,0.0034,False
+17075,fi-FI,email,email_query,onko tänään neljän jälkeen saapunut uusia sähköposteja,email_sendemail,0.9909,0.0084,False
+17081,fi-FI,email,email_sendemail,luo sähköposti yrityksen työntekijälle viimeiseksi tallennettujen tiedostojen kera,email_sendemail,1.0,1.0,True
+17087,fi-FI,email,email_query,tarkista uudet saapuneet sähköpostit saralta,email_sendemail,0.9982,0.0014,False
+17098,fi-FI,email,email_query,näytä minulle kaikki viimeisen tunnin aikana saapuneet sähköpostit,email_sendemail,0.9288,0.0639,False
+17107,fi-FI,email,email_query,tarkista uudet sähköpostit,email_sendemail,0.9972,0.0027,False
+17108,fi-FI,email,email_query,näytä minun viimeisin sähköpostini,email_sendemail,1.0,0.0,False
+17113,fi-FI,email,email_sendemail,luo sähköposti yulialle,email_sendemail,1.0,1.0,True
+17115,fi-FI,email,email_query,lue lista uusista sähköposteista,email_sendemail,0.9999,0.0,False
+17116,fi-FI,email,email_query,näytä lista viimeisimmistä sähköposteista,email_sendemail,1.0,0.0,False
+17119,fi-FI,email,email_query,tarkista onko yhtään viestiä amazonilta,recommendation_events,0.8153,0.0085,False
+17123,fi-FI,email,email_sendemail,sähköposti aluepäällikölle,email_sendemail,1.0,1.0,True
+17135,fi-FI,email,email_query,on ko yhtään valo uutisia sähköpostissa,email_sendemail,1.0,0.0,False
+17136,fi-FI,email,email_query,lue uudet sähköpostini kiitos,email_sendemail,1.0,0.0,False
+17138,fi-FI,email,email_query,arkistoi luetut viestini kiitos,qa_factoid,0.9901,0.0004,False
+17142,fi-FI,email,email_query,mitä mun postilaatikossa on viime katsomisen jälkeen,lists_remove,0.1455,0.1072,False
+17143,fi-FI,email,email_sendemail,lähetä sähköposti jonille,email_sendemail,1.0,1.0,True
+17144,fi-FI,email,email_query,tarkista sähköposti,email_sendemail,1.0,0.0,False
+17147,fi-FI,email,email_sendemail,vastaa sähköpostiin seuraavasti hei sinä,email_sendemail,1.0,1.0,True
+17148,fi-FI,email,email_sendemail,alexa vastaa sähköpostiin seuraavalla sisällöllä hei sinä,email_sendemail,1.0,1.0,True
+17151,fi-FI,email,email_sendemail,ystäväni joni lähetti minulle kutsun hänen uuteen kotiinsa sano hänelle kiitos sähköpostilla,email_sendemail,1.0,1.0,True
+17156,fi-FI,email,email_query,tarkista sähköpostini onko yhtään uutta sähköpostia jonilta,email_sendemail,1.0,0.0,False
+17157,fi-FI,email,email_query,onko minulla yhtään uutta sähköpostia jopelta,email_sendemail,1.0,0.0,False
+17170,fi-FI,email,email_query,ilmoita kun joni lähettää minulle sähköpostin,email_sendemail,1.0,0.0,False
+17179,fi-FI,email,email_query,onko joni lähettänyt sähköpostia,email_sendemail,1.0,0.0,False

@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,fa-IR,iot,iot_hue_lightoff,علی چراغ‌های اتاق خواب را خاموش کن,iot_hue_lightoff,0.9913,0.9913,True
+47,fa-IR,datetime,datetime_query,در ایران ساعت چند است,weather_query,0.9078,0.0894,False
+85,fa-IR,datetime,datetime_query,تاریخ امروز را به من بگو,datetime_query,0.9999,0.9999,True
+86,fa-IR,datetime,datetime_query,امروز چندم است,weather_query,0.6139,0.0551,False
+100,fa-IR,weather,weather_query,پیش‌بینی هفته چیست,iot_hue_lightoff,0.63,0.0164,False
+102,fa-IR,weather,weather_query,هوای این هفته چطوره,iot_hue_lightoff,0.6785,0.3112,False
+103,fa-IR,weather,weather_query,وضع هوای این هفته را به من بگو,weather_query,0.9993,0.9993,True
+128,fa-IR,datetime,datetime_query,چندم است,qa_factoid,0.3497,0.0487,False
+151,fa-IR,play,play_music,لطفا آن را دوباره پخش کن,play_music,0.8452,0.8452,True
+177,fa-IR,news,news_query,چند خبر اقتصادی به من بگو,recommendation_events,0.4392,0.0101,False
+178,fa-IR,news,news_query,اخبار بین‌المللی را به من بگو,qa_factoid,0.6332,0.0585,False
+182,fa-IR,play,play_music,لیست آهنگ های راک من را پخش کن,play_music,0.9948,0.9948,True
+185,fa-IR,play,play_music,لیست آهنگ های من را باز کن و آهنگ سوم در ترتیب را پخش کن,lists_remove,0.9855,0.0106,False
+197,fa-IR,datetime,datetime_query,ساعت چند است,datetime_query,0.9232,0.9232,True
+216,fa-IR,weather,weather_query,امروز هوا چطور است,weather_query,0.9992,0.9992,True
+219,fa-IR,weather,weather_query,آیا فردا باید چتر بیاورم,cooking_recipe,0.5793,0.0134,False
+220,fa-IR,play,play_music,از لیست آهنگ های راک من آهنگ پخش کن,play_music,0.9172,0.9172,True
+250,fa-IR,play,play_music,احساس میکنم الان دوست دارم جاز گوش بدم تو چطور,play_music,0.5901,0.5901,True
+254,fa-IR,play,play_music,اوولی یک قطعه خوب از نوازنده جاز مورد علاقه من پخش کن,play_podcasts,0.547,0.3314,False
+279,fa-IR,weather,weather_query,پیش بینی وضع هوای امروز تهران چیست,weather_query,0.9993,0.9993,True
+281,fa-IR,news,news_query,نرخ برابری دلار آمریکا با ریال ایران چقدر است,qa_factoid,0.9167,0.0039,False
+296,fa-IR,play,play_music,لیست موسیقی آرامش بخش را پخش کن,play_music,0.9998,0.9998,True
+297,fa-IR,play,play_music,آهنگ های ماکان بند را پخش کن,play_podcasts,0.5944,0.4051,False
+299,fa-IR,weather,weather_query,هوا چطور است,iot_hue_lightoff,0.4372,0.092,False
+310,fa-IR,datetime,datetime_query,امسال عید سال نو در چه روزی است,weather_query,0.9969,0.0016,False
+319,fa-IR,weather,weather_query,آب و هوای شیراز را تا دو روز آینده به من بگو,weather_query,0.9984,0.9984,True
+329,fa-IR,play,play_music,آهنگ بارون,iot_hue_lightoff,0.8586,0.069,False
+333,fa-IR,weather,weather_query,وضعیت آب و هوا در نوشهر چگونه است,weather_query,0.9986,0.9986,True
+334,fa-IR,weather,weather_query,می خواهم وضع هوای کرمان را بدانم,weather_query,0.9987,0.9987,True
+344,fa-IR,weather,weather_query,فردا بارانی می شود,weather_query,0.9991,0.9991,True
+348,fa-IR,weather,weather_query,فردا باران می بارد,weather_query,0.9998,0.9998,True
+355,fa-IR,datetime,datetime_query,اول اردیبهشت چند شنبه است,weather_query,0.9448,0.0161,False
+360,fa-IR,datetime,datetime_query,الان ساعت چند است,datetime_query,0.9362,0.9362,True
+362,fa-IR,play,play_music,از آهنگ های شادمهر آهنگ دوم را پخش کن,play_music,0.9997,0.9997,True
+366,fa-IR,news,news_query,لطفا آخرین اخبار را به من بگو,news_query,0.6837,0.6837,True
+369,fa-IR,iot,iot_hue_lightoff,لامپ ها را خاموش کن,email_sendemail,0.8524,0.1395,False
+385,fa-IR,news,news_query,مطلب جنجالی در تبریز تایمز چیست,social_post,0.9998,0.0,False
+391,fa-IR,play,play_music,یک آهنگ به صورت رندوم از لیست آهنگ های من پخش کن,lists_query,0.5101,0.0079,False
+393,fa-IR,play,play_music,آهنگ ریمیکس از لیست پخش من پخش کن,play_music,0.9825,0.9825,True
+397,fa-IR,play,play_music,هر آهنگی از ابی را پخش کن,play_podcasts,0.9892,0.0108,False
+400,fa-IR,play,play_music,شروع به پخش کن,play_music,0.995,0.995,True
+407,fa-IR,play,play_music,میتونی یک ساعت بعد موزیک راک پخش کنی,play_music,0.9569,0.9569,True
+424,fa-IR,news,news_query,خبر های فوری چه هستند,news_query,0.9956,0.9956,True
+427,fa-IR,iot,iot_hue_lightoff,لامپ ها ی حمام را خاموش کن,iot_hue_lightoff,0.7416,0.7416,True
+428,fa-IR,iot,iot_hue_lightoff,لامپ ها ی حمام را خاموش کن,iot_hue_lightoff,0.7416,0.7416,True
+430,fa-IR,weather,weather_query,در حال حاضر هوا چطوره,weather_query,0.9991,0.9991,True
+437,fa-IR,play,play_music,پوشه گروه بمرانی را باز کن,social_post,0.6633,0.2106,False
+441,fa-IR,news,news_query,آخرین عنوان های خبری چه هستند,social_post,0.9987,0.0001,False
+442,fa-IR,news,news_query,در اخبار چه می گذرد,news_query,0.9981,0.9981,True
+451,fa-IR,news,news_query,آخرین قیمت سهام کاستکو را به من بده,qa_factoid,0.629,0.0003,False
+473,fa-IR,play,play_music,آهنگ عشق را پخش کن,play_music,0.9996,0.9996,True
+486,fa-IR,datetime,datetime_query,در اصفهان ساعت چند است,weather_query,0.9466,0.0515,False
+491,fa-IR,weather,weather_query,آیا بیرون سرد است,qa_factoid,0.4172,0.2452,False
+506,fa-IR,play,play_music,آهنگ هایی از ایوان بند بزار,lists_remove,0.3638,0.2143,False
+512,fa-IR,weather,weather_query,با گروه رستاک,social_post,0.9869,0.0,False
+540,fa-IR,play,play_music,آهنگ مانکن از فرزاد فرزین را پخش کن,play_music,1.0,1.0,True
+555,fa-IR,play,play_music,نوازش از تتلو را پخش کن,play_music,0.5709,0.5709,True
+576,fa-IR,play,play_music,همه آهنگ ها در لیست آهنگ ها را پخش کن,play_music,0.6262,0.6262,True
+585,fa-IR,news,news_query,آخرین خبرها را نشان بده,news_query,0.9972,0.9972,True
+588,fa-IR,news,news_query,اخبار جدید برای امروز چیست,play_podcasts,0.4811,0.1168,False
+590,fa-IR,weather,weather_query,وضع هوای فعلی چطوره,weather_query,0.9986,0.9986,True
+614,fa-IR,play,play_music,لیست آهنگ ها را پخش کن,play_music,0.9747,0.9747,True
+625,fa-IR,play,play_music,آهنگ ابی در رادیو پخش کن,play_radio,0.9998,0.0002,False
+631,fa-IR,news,news_query,درباره اخبار خط لوله داکوتا اعلان تنظیم کن,iot_hue_lightoff,0.2228,0.0524,False
+651,fa-IR,iot,iot_hue_lightoff,چراغ‌های اتاق را خاموش کن,iot_hue_lightoff,0.9766,0.9766,True
+660,fa-IR,datetime,datetime_query,زمان فعلی در ایران,weather_query,0.9744,0.0008,False
+680,fa-IR,news,news_query,قیمت بیتکوین را مرتب به من اطلاع بده,qa_factoid,0.9721,0.0005,False
+686,fa-IR,datetime,datetime_query,الان در اصفهان ساعت چند است,weather_query,0.9346,0.0637,False
+712,fa-IR,news,news_query,می خواهم آخرین اخبار خبرگزاری مهر را بشنوم,news_query,0.9992,0.9992,True
+726,fa-IR,weather,weather_query,وضع هوای هفته رو خلاصه کن,weather_query,0.9958,0.9958,True
+730,fa-IR,iot,iot_hue_lightoff,چراغ‌ها را خاموش کن,iot_hue_lightoff,0.985,0.985,True
+738,fa-IR,weather,weather_query,ببین چقدر امروز بیرون هوا سرد است,weather_query,0.9987,0.9987,True
+764,fa-IR,weather,weather_query,پیش بینی وضع هوای این هفته چطور است,weather_query,0.9966,0.9966,True
+765,fa-IR,news,news_query,ممکن است لطفا تازه ترین سر خط خبرها را از جدیدترین منبع خبری ام به من بدهی,news_query,0.6728,0.6728,True
+767,fa-IR,news,news_query,می توانی لطفا آخرین اطلاعات از یک منبعی که معمولا چک نمی کنم را برای من پیدا کنی,qa_factoid,0.9838,0.0006,False
+768,fa-IR,news,news_query,آخرین اخبار سیاسی را به من بگو,news_query,0.9982,0.9982,True
+779,fa-IR,play,play_music,من میخوام آهنگ ترس شادمهر را گوش بدم,play_music,0.9914,0.9914,True
+781,fa-IR,play,play_music,عشق را پخش کن,play_music,0.998,0.998,True
+782,fa-IR,play,play_music,تقدیر از شادمهر را لطفا پخش کن,qa_factoid,0.9818,0.0173,False
+783,fa-IR,play,play_music,آهنگ های عاشقانه بزار,social_post,0.9412,0.0155,False
+790,fa-IR,weather,weather_query,هوای ملایم یا بد,weather_query,0.9733,0.9733,True
+826,fa-IR,weather,weather_query,الان بیرون چند درجه هست,weather_query,0.9813,0.9813,True
+827,fa-IR,play,play_music,لیست آهنگ های ابی را پخش کن,play_music,0.9961,0.9961,True
+832,fa-IR,weather,weather_query,سلام برای فردا چه هوایی پیش‌بینی میشه,weather_query,0.9991,0.9991,True
+837,fa-IR,news,news_query,پیش‌بینی‌های نظرسنجی ایسنا برای انتخابات آتی ایران چیست,lists_query,0.5867,0.1229,False
+891,fa-IR,play,play_music,کمی موزیک قرآنی پخش کن,play_music,1.0,1.0,True
+914,fa-IR,iot,iot_hue_lightoff,لطفا لامپ ها را خاموش کن,iot_hue_lightoff,0.922,0.922,True
+936,fa-IR,play,play_music,اهنگی از لیست پخش لایت من پیدا کن و پخش کن,lists_remove,0.4882,0.0252,False
+951,fa-IR,weather,weather_query,الان هوا در اهر چطوره,weather_query,0.999,0.999,True
+969,fa-IR,news,news_query,مقاله های خبری راجع به یک موضوع خاص,news_query,0.9936,0.9936,True
+974,fa-IR,datetime,datetime_query,الان در اصفهان ساعت چند است,weather_query,0.9346,0.0637,False
+997,fa-IR,iot,iot_hue_lightoff,چراغ های هال را خاموش کن,iot_hue_lightoff,0.9802,0.9802,True
+999,fa-IR,iot,iot_hue_lightoff,می توانی لامپ را خاموش کنی,iot_hue_lightoff,0.9887,0.9887,True
+1007,fa-IR,play,play_music,از فهرست آهنگ های راک من ایوان بند را پخش کن,play_music,0.999,0.999,True
+1014,fa-IR,datetime,datetime_query,الان در تهران ساعت چند است,weather_query,0.914,0.0842,False
+1047,fa-IR,play,play_music,من نیاز دارم گریه کنم میتونی آهنگ های غمگین راک برام پخش کنی,play_music,0.9895,0.9895,True
+1061,fa-IR,news,news_query,اخبار بروز ورزشی را به من بده,recommendation_events,0.5728,0.2222,False
+1063,fa-IR,news,news_query,از اخبار ورزشی اعلان ساعتی بده,play_podcasts,0.9331,0.0209,False
+1084,fa-IR,news,news_query,کابر پسند,qa_factoid,0.9914,0.0,False
+1093,fa-IR,news,news_query,برو به وب سایت روزنامه شرق,social_post,0.9848,0.0004,False
+1098,fa-IR,datetime,datetime_query,پانزدهم فروردین چند شنبه میشود,weather_query,0.9198,0.0547,False
+1108,fa-IR,play,play_music,من دوست دارم چند تا آهنگ کانتری گوش بدم,play_music,0.9842,0.9842,True
+1115,fa-IR,play,play_music,همه سبک آهنگ های پاپ را هماهنگ کن,play_music,0.9467,0.9467,True
+1120,fa-IR,news,news_query,هیچ خبر خاصی از سیاست هست,news_query,0.9807,0.9807,True
+1121,fa-IR,play,play_music,عشق از ایوان بند را پخش کن,play_music,0.9995,0.9995,True
+1123,fa-IR,play,play_music,بعدی نوازش ابی را پخش کن,social_post,0.5406,0.1008,False
+1124,fa-IR,play,play_music,بعدی نوازش ابی را پخش کن,social_post,0.5406,0.1008,False
+1127,fa-IR,play,play_music,تمام آهنگ ها را به صورت ترکیبی پخش کن,play_music,0.997,0.997,True
+1144,fa-IR,play,play_music,من چند تا رپ نیاز دارم گوش بدم,play_music,0.9938,0.9938,True
+1148,fa-IR,datetime,datetime_query,الان در شیراز ساعت چند است,weather_query,0.7789,0.2187,False
+1156,fa-IR,news,news_query,جدیدترین اخبار روز جهانی زنان,news_query,0.9987,0.9987,True
+1160,fa-IR,weather,weather_query,هر شب توی این هفته چقدر سرد می شه,weather_query,0.997,0.997,True
+1180,fa-IR,news,news_query,مقاله های امروز مشرق نیوز درباره روحانی را پیدا کن,news_query,0.8291,0.8291,True
+1202,fa-IR,datetime,datetime_query,الان نیویورک ساعت چنده,weather_query,0.9903,0.0003,False
+1238,fa-IR,play,play_music,pandora,qa_factoid,0.1403,0.0391,False
+1249,fa-IR,weather,weather_query,هوای این هفته احتمالا چطوریه,weather_query,0.8911,0.8911,True
+1252,fa-IR,datetime,datetime_query,به من بگو الان ساعت چند است,datetime_query,0.8838,0.8838,True
+1294,fa-IR,news,news_query,اخبار جوایز اسکار را سریع به من بده,recommendation_events,0.3548,0.0148,False
+1301,fa-IR,news,news_query,درباره سیاست خارجی جدید ترامپ به من بگو,social_post,0.7291,0.0129,False
+1308,fa-IR,weather,weather_query,وضع آب و هوای امروز اینجا رو بگیر,weather_query,0.995,0.995,True
+1318,fa-IR,play,play_music,نرم افزار موزیک را باز کن و یک آهنگ برای من پخش کن,play_music,0.9997,0.9997,True
+1351,fa-IR,weather,weather_query,آیا این هفته هوای بیرون خوب است,weather_query,0.9976,0.9976,True
+1371,fa-IR,news,news_query,از صفحه اول تهران تایمز چه داریم,lists_query,0.9903,0.0028,False
+1377,fa-IR,iot,iot_hue_lightoff,لطفا لامپ اتاق پسرم را خاموش کن,iot_hue_lightoff,0.9984,0.9984,True
+1400,fa-IR,weather,weather_query,من اغلب توجه می‌کنم,social_post,0.8929,0.0002,False
+1401,fa-IR,weather,weather_query,من بعضی اوقات توجه می‌کنم,qa_factoid,0.4608,0.0211,False
+1404,fa-IR,weather,weather_query,می توانم لطفا پیش بینی هوای فردای ساری را داشته باشم,weather_query,0.997,0.997,True
+1423,fa-IR,news,news_query,از حسن روحانی چه خبر,social_post,0.9815,0.0184,False
+1425,fa-IR,news,news_query,وقتی راجع به ایران می شنوی به من اطلاع بده,social_post,0.6366,0.0027,False
+1440,fa-IR,play,play_music,آخرین آهنگ های راک را پخش کن که در رتبه بندی چهارم یا بالاتر قرار دارند,play_music,0.8843,0.8843,True
+1449,fa-IR,datetime,datetime_query,عید پاک در سال دو هزار و هجده کی بود,qa_factoid,0.5841,0.0249,False
+1458,fa-IR,weather,weather_query,اصفهان چقدر گرم است,weather_query,0.9995,0.9995,True
+1467,fa-IR,play,play_music,حمید هیراد پخش کن,play_music,0.9445,0.9445,True
+1474,fa-IR,news,news_query,اخبار ورزشی امروز چه هستند,news_query,0.9982,0.9982,True
+1489,fa-IR,play,play_music,آخرین موزیک های بهنام بانی را پخش کن,play_music,0.9984,0.9984,True
+1513,fa-IR,weather,weather_query,هوای بیرون چند درجه است,weather_query,0.9758,0.9758,True
+1533,fa-IR,news,news_query,امروز اخبار سی. ان. ان. چه بود,news_query,0.9997,0.9997,True
+1537,fa-IR,datetime,datetime_query,زمان کنونی در ایران را به من نشان بده,weather_query,0.96,0.0013,False
+1542,fa-IR,weather,weather_query,هوا حسابی آفتابی است آیا بقیه روز هم همینطور می ماند,weather_query,0.9901,0.9901,True
+1546,fa-IR,play,play_music,فهرست نوار صوتی نرماندی را پخش کن,play_podcasts,0.4576,0.1078,False
+1547,fa-IR,weather,weather_query,وضع هوای محل من این هفته چطور است,weather_query,0.9996,0.9996,True
+1549,fa-IR,weather,weather_query,این هفته باران می بارد,weather_query,0.999,0.999,True
+1554,fa-IR,iot,iot_hue_lightoff,لامپ ها را خاموش کن,email_sendemail,0.8524,0.1395,False
+1581,fa-IR,datetime,datetime_query,امروز چه روزی از ماه و سال است,weather_query,0.9779,0.0147,False
+1589,fa-IR,weather,weather_query,آیا هوای سه شنبه آینده آفتابی خواهد بود,weather_query,0.9996,0.9996,True
+1593,fa-IR,news,news_query,برای اخبار جهان اعلان تنظیم کن,qa_factoid,0.9652,0.0004,False
+1594,fa-IR,news,news_query,می توانی آخرین اخبار را به من بگویی,news_query,0.8971,0.8971,True
+1607,fa-IR,datetime,datetime_query,ساعت فعلی در شیراز را به من بگو,weather_query,0.9949,0.0025,False
+1617,fa-IR,news,news_query,هر وقت عنوان جدیدی در سیاست بالا آمد برای من اعلان بفرست,recommendation_events,0.8576,0.0016,False
+1636,fa-IR,news,news_query,آخرین اخبار جام‌جم را به من نشان بده,news_query,0.9366,0.9366,True
+1653,fa-IR,weather,weather_query,دفعه بعد کی باران می آید,weather_query,0.6521,0.6521,True
+1655,fa-IR,weather,weather_query,آیا فردا ظهر برف می بارد,weather_query,0.9994,0.9994,True
+1666,fa-IR,news,news_query,اخبار شبکه یک در شش ساعت گذشته چیست,news_query,0.737,0.737,True
+1671,fa-IR,play,play_music,فقط موزیک هایی که بین سال های هزار و سیصد و هفتاد و هزار و سیصد و هشتاد منتشر شده را پخش کن,play_music,0.9992,0.9992,True
+1683,fa-IR,weather,weather_query,فردا هوا گرم است یا نه,weather_query,0.9992,0.9992,True
+1684,fa-IR,weather,weather_query,بله یا خیر دما فردا گرم خواهد بود,weather_query,0.9999,0.9999,True
+1692,fa-IR,play,play_music,کمی جاز ملایم برام پیدا کن,email_sendemail,0.9997,0.0,False
+1722,fa-IR,weather,weather_query,حداقل دمای هوای تهران چند درجه است,weather_query,0.9943,0.9943,True
+1750,fa-IR,iot,iot_hue_lightoff,تمام لامپ ها خاموش کن,iot_hue_lightoff,0.9742,0.9742,True
+1759,fa-IR,news,news_query,اخبار حسن روحانی را به من بده,social_post,0.9704,0.0104,False
+1760,fa-IR,news,news_query,آخرین اخبار تروریسم,news_query,0.9954,0.9954,True
+1777,fa-IR,play,play_music,اهنگ بعدی,qa_factoid,0.9992,0.0,False
+1784,fa-IR,iot,iot_hue_lightoff,چراغ های ناهارخوری را خاموش کن,iot_hue_lightoff,0.9584,0.9584,True
+1786,fa-IR,iot,iot_hue_lightoff,اتاق خواب اصلی را خاموش کن,iot_hue_lightoff,0.9977,0.9977,True
+1794,fa-IR,news,news_query,روحانی به زودی از روسیه دیدن می کند,social_post,0.9793,0.0004,False
+1796,fa-IR,datetime,datetime_query,تاریخ امروز,datetime_query,0.9987,0.9987,True
+1803,fa-IR,news,news_query,امروز کدام تیم ها در لیگ برتر بازی می کنند,qa_factoid,0.8694,0.0022,False
+1811,fa-IR,play,play_music,لیست آهنگ ها را باز کن و آهنگ بزار,lists_remove,0.9061,0.0903,False
+1832,fa-IR,play,play_music,آلبوم غمگین پخش کن,play_music,0.9813,0.9813,True
+1833,fa-IR,play,play_music,میتونی لیست پخش شاد رو تکرار کنی,play_music,0.9958,0.9958,True
+1866,fa-IR,weather,weather_query,حالا گزارش وضع هوا,weather_query,0.8165,0.8165,True
+1870,fa-IR,datetime,datetime_query,امروز در چه ماهی هست,weather_query,0.9573,0.0375,False
+1904,fa-IR,news,news_query,نکات برجسته‌ی مسابقه را برای من بگیر,recommendation_events,0.9988,0.0001,False
+1933,fa-IR,weather,weather_query,آیا تا شب دما کاهش می‌یابد,weather_query,0.999,0.999,True
+1940,fa-IR,play,play_music,آهنگ لیلا را پخش کن,play_music,1.0,1.0,True
+1962,fa-IR,play,play_music,سلام گوگل لیست پخش آروین افشار در نرم افزار من را پخش کن,play_podcasts,0.1997,0.1001,False
+1994,fa-IR,play,play_music,itunes من را میتوانی باز کنی,iot_hue_lightoff,0.9759,0.0002,False
+1995,fa-IR,play,play_music,ایوان بند پخش کن,email_query,0.542,0.4167,False
+2007,fa-IR,play,play_music,ترس را پخش کن,play_music,0.9991,0.9991,True
+2062,fa-IR,play,play_music,من میخوام چند تا آهنگ جاز گوش بدم,play_music,0.9924,0.9924,True
+2085,fa-IR,play,play_music,الکسا من دوست دارم هر آهنگ کلاسیکی را گوش بدم به جز ایوان بند و ابی,play_music,0.9995,0.9995,True
+2098,fa-IR,news,news_query,این روزها در جهان چه می گذرد,weather_query,0.9224,0.0063,False
+2108,fa-IR,play,play_music,بعدی عاشقانه را پخش کن,play_music,0.9951,0.9951,True
+2113,fa-IR,recommendation,recommendation_events,تمام رویدادهای جاری در زادگاهم را به من بگو,news_query,0.1242,0.0555,False
+2146,fa-IR,datetime,datetime_query,انقلاب زمستانی دو سال دیگه تو چه روزیه,weather_query,0.9995,0.0,False
+2156,fa-IR,datetime,datetime_query,من نیاز دارم بدونم الان ساعت چند است,datetime_query,0.7116,0.7116,True
+2160,fa-IR,iot,iot_hue_lightoff,الان میرم بخوابم,iot_hue_lightoff,0.3347,0.3347,True
+2178,fa-IR,weather,weather_query,وضع هوای فعلی در محل اقامتم,weather_query,0.9991,0.9991,True
+2198,fa-IR,datetime,datetime_query,چه روزی از هفته سیزده آذر هزار و سیصد و شصت و یک بود,weather_query,0.9971,0.0004,False
+2201,fa-IR,news,news_query,سر خط خبرهای سی. ان. ان.,news_query,0.6087,0.6087,True
+2203,fa-IR,news,news_query,سر خط اخبار سرویس جهانی بی. بی. سی.,qa_factoid,0.9977,0.0,False
+2220,fa-IR,weather,weather_query,هوای تهران,social_post,0.4828,0.0148,False
+2225,fa-IR,play,play_music,نوازش ابی را پخش کن,qa_factoid,0.8129,0.0123,False
+2230,fa-IR,iot,iot_hue_lightoff,لامپ آشپزخانه را خاموش کن,email_sendemail,0.9116,0.024,False
+2237,fa-IR,news,news_query,آخرین اخبار بین المللی را برای من بخوان,news_query,0.9975,0.9975,True
+2258,fa-IR,weather,weather_query,آیا امروز به گرمکن احتیاجی دارم,cooking_recipe,0.2229,0.0364,False
+2265,fa-IR,weather,weather_query,به من بگو هوای شهر ری همین الآن چطور است,weather_query,0.9995,0.9995,True
+2271,fa-IR,play,play_music,لطفا آهنگ ها ی مورد علاقه م رو پخش کن.,play_music,0.8031,0.8031,True
+2296,fa-IR,news,news_query,منو در جریان امتیازات تیم بسکتبال ایران در بازی امروز بذار,social_post,0.4225,0.0724,False
+2298,fa-IR,iot,iot_hue_lightoff,اکنون چراغ‌ها را خاموش کن,calendar_remove,0.7301,0.1481,False
+2315,fa-IR,news,news_query,اخبار امروز چیست,play_podcasts,0.4631,0.3484,False
+2316,fa-IR,news,news_query,الکسا سرخط خبرها را به من بده,social_post,0.6259,0.0,False
+2320,fa-IR,weather,weather_query,این جمعه هوا چطور است,weather_query,0.9993,0.9993,True
+2322,fa-IR,weather,weather_query,هوای فردا چطور است,weather_query,0.9894,0.9894,True
+2330,fa-IR,datetime,datetime_query,زمان محلی تهران در این لحظه را نمایش بده,weather_query,0.9988,0.0001,False
+2384,fa-IR,news,news_query,در جهان چه می گذرد,social_post,0.922,0.0133,False
+2386,fa-IR,news,news_query,آخرین اخبار را به من بده,news_query,0.9675,0.9675,True
+2396,fa-IR,play,play_music,آهنگ های ابی را پخش کن,play_music,0.935,0.935,True
+2408,fa-IR,play,play_music,آهنگ های بیشتری از ایوان بند جستجو کن,social_post,0.8673,0.0002,False
+2412,fa-IR,datetime,datetime_query,لندن ساعت چنده,weather_query,0.9956,0.0003,False
+2423,fa-IR,weather,weather_query,لطفا پیش‌بینی امروز هوای شهر اراک رو به من بده,weather_query,0.9983,0.9983,True
+2438,fa-IR,news,news_query,اخبار تکنولوژی را بفرست,play_podcasts,0.9144,0.0066,False
+2441,fa-IR,iot,iot_hue_lightoff,لامپ اتاق کوچک را خاموش کن,email_sendemail,0.8991,0.0499,False
+2472,fa-IR,datetime,datetime_query,آیا زمان گوشی با زمان منطقه ی جغرافیایی کنونی من هماهنگه,qa_factoid,0.942,0.0039,False
+2496,fa-IR,news,news_query,اخبار روزانه,play_podcasts,0.2843,0.1752,False
+2497,fa-IR,datetime,datetime_query,امروز چندم است,weather_query,0.6139,0.0551,False
+2498,fa-IR,datetime,datetime_query,سیری امروز چندم است,weather_query,0.9986,0.0001,False
+2527,fa-IR,play,play_music,راک کلاسیک پخش کن,qa_factoid,0.4429,0.4016,False
+2531,fa-IR,play,play_music,الکسا یکی درمیون راک و رپ پخش کن.,play_music,0.9999,0.9999,True
+2545,fa-IR,weather,weather_query,هوا چطور است,iot_hue_lightoff,0.4372,0.092,False
+2548,fa-IR,news,news_query,هر چیز جالی از اخبار بیست و سی,news_query,0.9937,0.9937,True
+2560,fa-IR,play,play_music,به صورت رندوم آهنگ پخش کن,play_music,0.9945,0.9945,True
+2573,fa-IR,play,play_music,لیست آهنگ های رقص من در اسپاتیفای را پخش کن,play_music,0.9922,0.9922,True
+2578,fa-IR,iot,iot_hue_lightoff,لامپ ایوان را خاموش کن,iot_hue_lightoff,0.995,0.995,True
+2588,fa-IR,news,news_query,آخرین اخبار سی. ان. ان. چیست لطفا,news_query,0.9997,0.9997,True
+2594,fa-IR,news,news_query,از آخرین اخبار محیط زیستی به من بگو,news_query,0.9965,0.9965,True
+2605,fa-IR,play,play_music,آهنگ مورد علاقه من را پخش کن,play_music,1.0,1.0,True
+2611,fa-IR,weather,weather_query,پیش‌بینی آب و هوای فعلی,weather_query,0.9985,0.9985,True
+2615,fa-IR,weather,weather_query,آیا چهارشنبه آینده باید ژاکت بپوشم,iot_hue_lightoff,0.622,0.0339,False
+2638,fa-IR,news,news_query,اخبار در مورد ترامپ را به من نشان بده,news_query,0.9723,0.9723,True
+2639,fa-IR,news,news_query,اخباری درباره محیط زیست به من نشان بده,news_query,0.4978,0.4978,True
+2651,fa-IR,news,news_query,آخرین اخبار ناحیه,news_query,0.999,0.999,True
+2678,fa-IR,weather,weather_query,آیا امشب باران می بارد,weather_query,0.999,0.999,True
+2679,fa-IR,weather,weather_query,آیا دمای هوا همینقدر می ماند یا هوا سردتر می شود,weather_query,0.9909,0.9909,True
+2703,fa-IR,play,play_music,لطفا آهنگ فولک پخش کن,play_music,0.9879,0.9879,True
+2704,fa-IR,play,play_music,بیا کمی راک مستقل گوش بدیم اوکی,play_music,0.9997,0.9997,True
+2708,fa-IR,play,play_music,اوولی من احساس میکنم رقص دوست دارم برای من کمی بهنام بانی پخش کن,play_music,0.9999,0.9999,True
+2709,fa-IR,play,play_music,olly من امروز نیاز دارم چند تا آهنگ غمگین گوش بدم,play_music,0.9996,0.9996,True
+2711,fa-IR,iot,iot_hue_lightoff,لامپ‌ها را خاموش کن,email_sendemail,0.996,0.0028,False
+2717,fa-IR,play,play_music,من میخوام نقطه ضعف گوش بدم,qa_factoid,0.8653,0.0012,False
+2724,fa-IR,news,news_query,اخبار سی. ان. ان. را به من بده,play_podcasts,0.4294,0.2026,False
+2770,fa-IR,play,play_music,olly یک موسیقی با سبک جاز پخش کن,play_music,0.9999,0.9999,True
+2774,fa-IR,iot,iot_hue_lightoff,لامپ ها را خاموش کن,email_sendemail,0.8524,0.1395,False
+2775,fa-IR,iot,iot_hue_lightoff,استفاده از لامپ‌ها را قطع کنید,iot_hue_lightoff,0.9196,0.9196,True
+2777,fa-IR,weather,weather_query,امروز باید چتر بیاورم,cooking_recipe,0.2926,0.0673,False
+2781,fa-IR,play,play_music,لطفا موسیقی جاز پخش کن,play_music,0.9997,0.9997,True
+2798,fa-IR,play,play_music,alexa آهنگ بارون را پخش کن,play_music,0.9995,0.9995,True
+2801,fa-IR,datetime,datetime_query,در تهران ساعت چند است,weather_query,0.8942,0.1025,False
+2824,fa-IR,datetime,datetime_query,سیزدهم آذر چه روزی است,weather_query,0.9995,0.0003,False
+2840,fa-IR,datetime,datetime_query,دوم ماه بعد چند شنبه است,datetime_query,0.5535,0.5535,True
+2859,fa-IR,datetime,datetime_query,در این شهر ساعت چند است,weather_query,0.8523,0.1445,False
+2887,fa-IR,news,news_query,لطفا همه مقالات مربوط به آب و هوا در مشرق نیوز را به من نشان بده,news_query,0.9953,0.9953,True
+2890,fa-IR,weather,weather_query,هوای فعلی,iot_hue_lightoff,0.9794,0.0134,False
+2898,fa-IR,news,news_query,آیا اخباری در رابطه با انتخابات وجود دارد,qa_factoid,0.7097,0.054,False
+2914,fa-IR,datetime,datetime_query,به من بگو امروز چندم است,weather_query,0.9991,0.0002,False
+2917,fa-IR,weather,weather_query,گزارش هفتگی آب و هوا,weather_query,0.9917,0.9917,True
+2921,fa-IR,news,news_query,اخبار روی وب سایت سی. ان. ان. چیست,social_post,0.9576,0.0012,False
+2927,fa-IR,datetime,datetime_query,در زنجان ساعت چند است,weather_query,0.9871,0.0107,False
+2931,fa-IR,play,play_music,بعد پستچی را پخش کن,social_post,0.7166,0.2748,False
+2962,fa-IR,play,play_music,لطفا یک آهنگ از ابی بزار,play_music,0.991,0.991,True
+2965,fa-IR,iot,iot_hue_lightoff,چراغ‌های دفتر کار را خاموش کن,iot_hue_lightoff,0.9839,0.9839,True
+3002,fa-IR,play,play_music,آهنگ هایی از ایوان بند بزار,lists_remove,0.3638,0.2143,False
+3031,fa-IR,play,play_music,من میخوام دوباره آهنگ گوش بدم,play_music,0.9999,0.9999,True
+3034,fa-IR,weather,weather_query,دما را به من بگو,weather_query,0.9988,0.9988,True
+3037,fa-IR,news,news_query,مقاله های صفحه اول لطفا,news_query,0.9531,0.9531,True
+3039,fa-IR,news,news_query,خبر جدید چیست,news_query,0.9987,0.9987,True
+3060,fa-IR,news,news_query,اخبار از منبع خبری چیست,qa_factoid,0.9821,0.0035,False
+3091,fa-IR,datetime,datetime_query,طبق منطقه زمانی خلیج فارس ساعت چند است,qa_factoid,1.0,0.0,False
+3096,fa-IR,weather,weather_query,وضع هوای کرج چطوراست,weather_query,0.9984,0.9984,True
+3098,fa-IR,iot,iot_hue_lightoff,لامپ‌ها را خاموش کن,email_sendemail,0.996,0.0028,False
+3099,fa-IR,news,news_query,چند رویداد جدید را به من نشان بده,social_post,0.9207,0.002,False
+3101,fa-IR,news,news_query,الهه اخبار را باز کن,news_query,0.9771,0.9771,True
+3116,fa-IR,play,play_music,آهنگ مورد علاقه من از پارسال را پخش کن,play_music,0.9999,0.9999,True
+3117,fa-IR,play,play_music,یک آهنگی از آلبوم تقدیر شادمهر پخش کن,play_music,0.9785,0.9785,True
+3118,fa-IR,datetime,datetime_query,در منطقه زمانی شرقی الان ساعت چند است,datetime_query,0.6431,0.6431,True
+3124,fa-IR,play,play_music,برای من یک آهنگ رندوم از لیست آهنگ های من پخش کن,lists_query,0.7933,0.0133,False
+3146,fa-IR,play,play_music,قطعه اول از لیست آهنگ های ابی من پخش کن,lists_remove,0.9686,0.026,False
+3167,fa-IR,iot,iot_hue_lightoff,چراغ‌های اتاق خواب من را خاموش کن,iot_hue_lightoff,0.9929,0.9929,True
+3174,fa-IR,play,play_music,لیست آهنگ ها را پخش کن,play_music,0.9747,0.9747,True
+3205,fa-IR,play,play_music,تقدیر از شادمهر را پخش کن,play_music,0.997,0.997,True
+3207,fa-IR,play,play_music,عشق از ایوان بند را پخش کن,play_music,0.9995,0.9995,True
+3212,fa-IR,calendar,calendar_set,به من یادآوری کن که آن موقع کاری انجام دهم,email_sendemail,0.8469,0.0018,False
+3214,fa-IR,news,news_query,تحقیقات درباره ارتباط ترامپ با روسیه در چه مرحله ای است,qa_factoid,0.8164,0.0739,False
+3228,fa-IR,datetime,datetime_query,کریسمس امسال در چه روزی از هفته قرار دارد,weather_query,0.9628,0.0351,False
+3253,fa-IR,weather,weather_query,آیا باید این بعدالظهر انتظار باران داشته باشیم,weather_query,0.997,0.997,True
+3264,fa-IR,play,play_music,موزیک گیلکی پخش کن,play_music,0.9997,0.9997,True
+3305,fa-IR,weather,weather_query,هوای این هفته میناب چطوره,iot_hue_lightoff,0.9065,0.011,False
+3306,fa-IR,weather,weather_query,پیش بینی وضع هوای هفته چطور است,weather_query,0.9971,0.9971,True
+3329,fa-IR,news,news_query,می خواهم اخبار را ببینم,news_query,0.9995,0.9995,True
+3337,fa-IR,weather,weather_query,گزارش آب و هوای تهران را بده,weather_query,0.9994,0.9994,True
+3338,fa-IR,weather,weather_query,وضع هوای مرند را گزارش بده,weather_query,0.9879,0.9879,True
+3361,fa-IR,datetime,datetime_query,سه شنبه بعدی چه تاریخی هست,datetime_query,0.9514,0.9514,True
+3378,fa-IR,iot,iot_hue_lightoff,هیچ نوری توی آشپزخانه نباشه,qa_factoid,0.9933,0.002,False
+3386,fa-IR,iot,iot_hue_lightoff,لامپ ها را به وسط عوض کن,email_sendemail,0.9999,0.0,False
+3400,fa-IR,play,play_music,یک نسخه زنده از ابی پخش کن,play_podcasts,0.5119,0.4288,False
+3401,fa-IR,play,play_music,معروف ترین آهنگ ابی را پخش کن,play_music,0.9997,0.9997,True
+3406,fa-IR,weather,weather_query,پیش بینی ده روزه هوا چطور است,weather_query,0.998,0.998,True
+3407,fa-IR,weather,weather_query,آیا این هفته پیش‌بینی بارون یا برف داریم,weather_query,0.999,0.999,True
+3408,fa-IR,weather,weather_query,این آخرهفته هوا خوب می شود,weather_query,0.9981,0.9981,True
+3426,fa-IR,weather,weather_query,بیرون چند درجه هست,weather_query,0.9697,0.9697,True
+3433,fa-IR,play,play_music,آهنگ پاپ جدید,social_post,0.998,0.0006,False
+3434,fa-IR,play,play_music,بهترین آهنگ رپ,play_music,0.6203,0.6203,True
+3441,fa-IR,datetime,datetime_query,بیست ثانیه در روز چهارشنبه,iot_hue_lightoff,0.3883,0.0782,False
+3444,fa-IR,datetime,datetime_query,ساعت ده است,datetime_query,0.9788,0.9788,True
+3447,fa-IR,weather,weather_query,آیا شنبه باران می بارد,weather_query,0.7847,0.7847,True
+3481,fa-IR,play,play_music,معروف ترین آهنگ از هنرمند ذکر شده را پخش کن,play_music,0.9966,0.9966,True
+3489,fa-IR,play,play_music,لطفا الان آهنگ بزار,play_music,0.9866,0.9866,True
+3492,fa-IR,play,play_music,لیست بیشترین آهنگ هایی که پخش شدند را برای من پخش کن,lists_remove,0.5321,0.0134,False
+3503,fa-IR,weather,weather_query,هوای نهار خوران چطور است,weather_query,0.3562,0.3562,True
+3507,fa-IR,weather,weather_query,در پیش بینی هواشناسی برف داریم,weather_query,0.8676,0.8676,True
+3513,fa-IR,play,play_music,فقط فهرست من را پخش کن,play_podcasts,0.6478,0.3385,False
+3516,fa-IR,weather,weather_query,امروز احتمال بارندگی چقدر است,weather_query,0.9998,0.9998,True
+3539,fa-IR,play,play_music,لطفا نوازش تتلو را پخش کن,social_post,0.9727,0.023,False
+3546,fa-IR,play,play_music,من می‌خواهم موسیقی جاز گوش کنم,play_music,0.9998,0.9998,True
+3550,fa-IR,play,play_music,چند تا شادمهر بزار,lists_remove,0.326,0.1091,False
+3554,fa-IR,play,play_music,میتونی لیست آهنگ های عاشقانه را پخش کنی,play_podcasts,0.5647,0.2039,False
+3562,fa-IR,play,play_music,نفرین را پخش کن,play_music,0.9998,0.9998,True
+3566,fa-IR,datetime,datetime_query,الان در نیشابور ساعت چند است,weather_query,0.9836,0.0154,False
+3570,fa-IR,iot,iot_hue_lightoff,لطفا لامپ ها را پاسیو خاموش کن,iot_hue_lightoff,0.8907,0.8907,True
+3576,fa-IR,news,news_query,آخرین اخبار بیست و سی چیست,news_query,0.9997,0.9997,True
+3586,fa-IR,weather,weather_query,وضع هوای تهران چطور است,weather_query,0.9994,0.9994,True
+3600,fa-IR,calendar,calendar_set,بعد از ده دقیقه به من یادآوری کن,qa_factoid,0.6505,0.0031,False
+3603,fa-IR,news,news_query,آخرین اخبار از ایرنا چیست,news_query,0.9988,0.9988,True
+3605,fa-IR,news,news_query,آخرین اخبار سی. ان. ان. چیست,news_query,0.9997,0.9997,True
+3606,fa-IR,datetime,datetime_query,در مشهد ساعت چند است,weather_query,0.8985,0.097,False
+3614,fa-IR,weather,weather_query,امروز آفتابی است مگر نه,weather_query,0.8795,0.8795,True
+3623,fa-IR,news,news_query,امروز در جهان چه خبر است,weather_query,0.6055,0.1854,False
+3624,fa-IR,news,news_query,خبرگزاری مهر,qa_factoid,0.9772,0.0004,False
+3631,fa-IR,play,play_music,سلام گوگل چند تا موزیک جاز برای من پخش کن,play_music,0.9587,0.9587,True
+3686,fa-IR,play,play_music,لیست پخشی را که من به موزیک راک اختصاص دادم پخش کن,lists_remove,0.7908,0.2021,False
+3714,fa-IR,play,play_music,لیست پخش را از پایین برای من شروع به پخش کن,play_music,0.8245,0.8245,True
+3717,fa-IR,play,play_music,لطفا برترین های رپ دهه نود من را پخش کن,play_podcasts,0.7382,0.2533,False
+3723,fa-IR,play,play_music,من می خواهم صدای ابی را بعد از این آهنگ بشنوم,play_music,0.9969,0.9969,True
+3725,fa-IR,datetime,datetime_query,امروز چند شنبه است,weather_query,0.9945,0.0006,False
+3727,fa-IR,play,play_music,نازک نارنجی از منصور را پخش کن,play_music,1.0,1.0,True
+3750,fa-IR,news,news_query,olly اگر اخبار جدیدی در مورد سیل منتشر شد می‌توانی بلافاصله به من اطلاع بدهی,weather_query,0.937,0.0095,False
+3779,fa-IR,play,play_music,لیست آهنگ ها نوازش رو تو یوتوب پخش کن,play_music,0.4421,0.4421,True
+3780,fa-IR,play,play_music,لیست پخش جز تو من را پخش کن,play_music,0.5164,0.5164,True
+3784,fa-IR,weather,weather_query,گزارش وضع هوای آبادان را بده,weather_query,0.9986,0.9986,True
+3785,fa-IR,iot,iot_hue_lightoff,لطفا لامپ حمام را خاموش کن,iot_hue_lightoff,0.9421,0.9421,True
+3822,fa-IR,news,news_query,برای من راجع ماشین‌ها اطلاعات پیدا کن,qa_factoid,0.4684,0.0118,False
+3852,fa-IR,weather,weather_query,الآن دامغان چه جور هوایی دارند,social_post,0.9992,0.0,False
+3859,fa-IR,play,play_music,لطفا فهرست آهنگ های رپ مورد علاقه من را روشن کن,lists_remove,0.857,0.0648,False
+3907,fa-IR,play,play_music,برترهای سال گذشته را برای من پخش کن,play_music,0.9889,0.9889,True
+3911,fa-IR,play,play_music,میخوام هر آهنگی که امسال گرمی گرفته رو بشنوم,play_podcasts,0.7487,0.0015,False
+3912,fa-IR,play,play_music,من دوست دارم بابا کرم گوش بدم,social_post,0.539,0.1337,False
+3936,fa-IR,weather,weather_query,هوا چند درجه است,weather_query,0.8376,0.8376,True
+3960,fa-IR,datetime,datetime_query,زمان را بگو,play_radio,0.7068,0.0002,False
+3967,fa-IR,play,play_music,رپ,qa_factoid,0.5901,0.0094,False
+3980,fa-IR,play,play_music,لطفا ترس از شادمهر را پخش کن,play_music,0.9695,0.9695,True
+3982,fa-IR,play,play_music,لطفا اولین آهنگ آی تونز رو پخش کن.,play_music,0.9996,0.9996,True
+3993,fa-IR,iot,iot_hue_lightoff,آیا می‌توانی چراغ‌ها را خاموش کنی,iot_hue_lightoff,0.4623,0.4623,True
+3995,fa-IR,datetime,datetime_query,اولی شب یلدا چند شنبه ست,weather_query,0.9769,0.0001,False
+4001,fa-IR,news,news_query,چه خبر ازقسمت جدید واکینگ دد,news_query,0.498,0.498,True
+4023,fa-IR,news,news_query,در اخبار چه داریم,news_query,0.9994,0.9994,True
+4031,fa-IR,play,play_music,آهنگ خوشگلا باید برقصن رو پخش کن.,play_music,1.0,1.0,True
+4040,fa-IR,play,play_music,اهنگی را که من بیشتر گوش میدم را پخش کن,play_music,0.9907,0.9907,True
+4058,fa-IR,play,play_music,من دوست دارم چند تا آهنگ رپ گوش بدم,play_music,0.9973,0.9973,True
+4073,fa-IR,datetime,datetime_query,پنجم چه روزی است,weather_query,0.8926,0.1036,False
+4077,fa-IR,iot,iot_hue_lightoff,لامپ ها را در آشپزخانه خاموش کن,email_sendemail,0.5239,0.024,False
+4088,fa-IR,iot,iot_hue_lightoff,لامپ بالای سر را خاموش کن,iot_hue_lightoff,0.9433,0.9433,True
+4104,fa-IR,weather,weather_query,هوای امروز نیشابور قرار است چطورباشد,weather_query,0.9974,0.9974,True
+4116,fa-IR,play,play_music,لطفا لیست پخش ترکیبی من را پخش کن,play_music,0.4601,0.4601,True
+4119,fa-IR,news,news_query,می خواهم هر خبر فوری ایی درباره شکستن سد در خوزستان را بدانم,news_query,0.999,0.999,True
+4132,fa-IR,weather,weather_query,به من بگو امروز احتمال بارندگی در کرج چند درصد است,weather_query,0.9984,0.9984,True
+4136,fa-IR,play,play_music,میتونی لطفا ابی پخش کنی,play_music,0.8201,0.8201,True
+4152,fa-IR,play,play_music,لطفا آهنگ عشق را پخش کن,play_music,0.9865,0.9865,True
+4168,fa-IR,weather,weather_query,لطفا هوای بجنورد را چک کن,weather_query,0.9991,0.9991,True
+4171,fa-IR,iot,iot_hue_lightoff,لامپ ها در آشپزخانه را خاموش کن,email_sendemail,0.8091,0.1076,False
+4177,fa-IR,news,news_query,سرخط خبرهای سیاسی جهان را به من بده,social_post,0.4851,0.455,False
+4178,fa-IR,news,news_query,آیا هیچ خبری راجع به ریاست جمهوری هست,social_post,0.9435,0.0376,False
+4183,fa-IR,datetime,datetime_query,ساعت کنونی در اصفهان,weather_query,0.9967,0.0007,False
+4186,fa-IR,datetime,datetime_query,سلام اوولی ساعت چند است,datetime_query,0.9496,0.9496,True
+4187,fa-IR,datetime,datetime_query,سلام سیری ساعت چند است,datetime_query,0.9889,0.9889,True
+4205,fa-IR,play,play_music,من میخوام نوازش از تتلو را گوش بدم,play_music,0.9823,0.9823,True
+4212,fa-IR,weather,weather_query,آیا می‌توانم علف‌ها را امروز عصر درو کنم,cooking_recipe,0.9674,0.0197,False
+4227,fa-IR,weather,weather_query,آیا توی پیش‌بینی هوای هفته آینده هیچ بارونی داریم,weather_query,0.9866,0.9866,True
+4232,fa-IR,play,play_music,عشق از ایوان بند را پخش کن,play_music,0.9995,0.9995,True
+4236,fa-IR,datetime,datetime_query,ایا هنوز بعد از ظهر است,weather_query,0.9851,0.0002,False
+4253,fa-IR,datetime,datetime_query,الان تهران ساعت چنده,weather_query,0.998,0.0001,False
+4254,fa-IR,datetime,datetime_query,در شرق ایران ساعت چند است,weather_query,0.9871,0.0109,False
+4258,fa-IR,news,news_query,آخرین اخبار چیست,news_query,0.9998,0.9998,True
+4266,fa-IR,weather,weather_query,هوای امروز چطور است,weather_query,0.9971,0.9971,True
+4273,fa-IR,play,play_music,آهنگ لیلا را پخش کن,play_music,1.0,1.0,True
+4290,fa-IR,weather,weather_query,آیا باید امشب با خودم ژاکت بیاورم,qa_factoid,0.768,0.002,False
+4305,fa-IR,play,play_music,آهنگ نقطه ضعف از شادمهر را پخش کن,play_music,1.0,1.0,True
+4309,fa-IR,datetime,datetime_query,در تهران چند ساعت دیگه نیمه شب هست,weather_query,0.9949,0.0009,False
+4312,fa-IR,weather,weather_query,آیا هوای تهران کمتر از ده درجه خواهد بود,weather_query,0.9999,0.9999,True
+4313,fa-IR,weather,weather_query,آیا فردا تهران بارانی خواهد بود,weather_query,0.9997,0.9997,True
+4336,fa-IR,datetime,datetime_query,در ایران ساعت چند است,weather_query,0.9078,0.0894,False
+4346,fa-IR,iot,iot_hue_lightoff,چراغ‌ها را خاموش کن,iot_hue_lightoff,0.985,0.985,True
+4347,fa-IR,iot,iot_hue_lightoff,لامپ‌ها روشن را خاموش کن,iot_hue_lightoff,0.8982,0.8982,True
+4355,fa-IR,weather,weather_query,هوای جایی که هستم چطور است,iot_hue_lightoff,0.8184,0.1411,False
+4361,fa-IR,play,play_music,چند تا آهنگ خوب به من بده,play_music,0.9817,0.9817,True
+4362,fa-IR,datetime,datetime_query,در تهران ساعت چند است,weather_query,0.8942,0.1025,False
+4376,fa-IR,weather,weather_query,امروز بیرون چطور است,weather_query,0.6664,0.6664,True
+4377,fa-IR,weather,weather_query,هوای فعلی چگونه است,iot_hue_lightoff,0.5999,0.3988,False
+4383,fa-IR,weather,weather_query,هوای فردا چطور خواهد بود,weather_query,0.9978,0.9978,True
+4391,fa-IR,news,news_query,سرخط خبرهای صدای آمریکا,news_query,0.8269,0.8269,True
+4400,fa-IR,news,news_query,مقاله های ترند روزنامه همشهری چه هستند,social_post,0.5461,0.3408,False
+4402,fa-IR,weather,weather_query,امروز لازمه همراه خودم چتر بردارم,lists_remove,0.2598,0.0331,False
+4412,fa-IR,weather,weather_query,هوای اصفهان چطور است,weather_query,0.9351,0.9351,True
+4436,fa-IR,weather,weather_query,چه ژاکتی باید بپوشم,qa_factoid,0.757,0.0,False
+4439,fa-IR,weather,weather_query,هوای زاهدان چطور است,weather_query,0.9232,0.9232,True
+4449,fa-IR,weather,weather_query,آیا امروز ساعت یک بعدالظهر باران می بارد,weather_query,0.9989,0.9989,True
+4452,fa-IR,play,play_music,آهنگ ها را پخش کن,play_music,0.9997,0.9997,True
+4463,fa-IR,datetime,datetime_query,چند تا سه شنبه در فروردین هست,weather_query,0.9186,0.0046,False
+4477,fa-IR,play,play_music,دفعه بعد آهنگ بزار,play_music,0.9863,0.9863,True
+4482,fa-IR,weather,weather_query,آیا امروز صبح باید ماشین‌روی خود را بیل بزنم,qa_factoid,0.4276,0.209,False
+4486,fa-IR,weather,weather_query,پیش‌بینی وضع هوای این هفته رو به من بده,weather_query,0.9771,0.9771,True
+4487,fa-IR,weather,weather_query,پنجشنبه بارانی است,weather_query,0.9989,0.9989,True
+4491,fa-IR,news,news_query,آخرین اخبار در مورد دونالد ترامپ چیست,news_query,0.9986,0.9986,True
+4492,fa-IR,news,news_query,آخرین آمار جرم و جنایت منطقه من چیست,qa_factoid,0.4657,0.1527,False
+4496,fa-IR,news,news_query,امروز مجله‌ی زن روز چه منتشر کرد,social_post,0.9994,0.0002,False
+4502,fa-IR,datetime,datetime_query,سلام الان در تهران ساعت چند است,weather_query,0.9988,0.0003,False
+4524,fa-IR,weather,weather_query,اُلی پیشبینی وضعیت هوای امروز چیه,weather_query,0.9988,0.9988,True
+4547,fa-IR,play,play_music,شادمهر عقیلی پخش کن,qa_factoid,1.0,0.0,False
+4567,fa-IR,news,news_query,آخرین تیترهای خبری سایت روزنامه شرق را برای من بخوان,news_query,0.9499,0.9499,True
+4580,fa-IR,datetime,datetime_query,در اراک ساعت چند است,weather_query,0.9113,0.0864,False
+4587,fa-IR,play,play_music,علاقه مندی های من را پخش کن,play_music,0.953,0.953,True
+4589,fa-IR,calendar,calendar_set,یک اطلاعیه برای بازی‌های ورزشی تنظیم کن,email_sendemail,0.9579,0.0079,False
+4606,fa-IR,news,news_query,اطلاعات سهام امروز را پیدا کن,lists_query,0.5951,0.0999,False
+4614,fa-IR,weather,weather_query,فردا هوا بالای چهل درجه است,weather_query,0.9993,0.9993,True
+4662,fa-IR,news,news_query,اخبار ایسنا الکسا,news_query,0.6909,0.6909,True
+4667,fa-IR,datetime,datetime_query,ساعت کنونی در,weather_query,0.9741,0.0121,False
+4680,fa-IR,weather,weather_query,آیا باید صندل یا کفش با جوراب بپوشم,lists_remove,0.3069,0.0117,False
+4689,fa-IR,weather,weather_query,آیا وضع هوا را می دانی,weather_query,0.9505,0.9505,True
+4692,fa-IR,play,play_music,یک آهنگ از ابی برایم پخش کن,play_music,0.9997,0.9997,True
+4710,fa-IR,datetime,datetime_query,هالوین امسال در چه روزی هست,weather_query,0.8523,0.1441,False
+4764,fa-IR,weather,weather_query,آیا دوشنبه باران می بارد,weather_query,0.9992,0.9992,True
+4767,fa-IR,news,news_query,هیچ اطلاعات جدیدی از دیوار مرزی پاکستان هست,news_query,0.3212,0.3212,True
+4772,fa-IR,datetime,datetime_query,در این منطقه زمانی ساعت چند است,weather_query,0.9621,0.0351,False
+4780,fa-IR,datetime,datetime_query,تولد من در بیست و سوم خرداد امسال چند شنبه میشود,weather_query,0.9914,0.007,False
+4784,fa-IR,weather,weather_query,لازم است ژاکت بپوشم,iot_hue_lightoff,0.5855,0.0037,False
+4813,fa-IR,datetime,datetime_query,در شهر دیگر ساعت چند است,weather_query,0.948,0.0499,False
+4837,fa-IR,news,news_query,هیچ خبری هست الهه,qa_factoid,0.9984,0.0,False
+4838,fa-IR,play,play_music,همه آهنگ های ابی را پخش کن,play_music,0.9997,0.9997,True
+4871,fa-IR,weather,weather_query,هوا بیرون چطوره,qa_factoid,0.557,0.1237,False
+4881,fa-IR,datetime,datetime_query,بگرد ساعت و منطقه‌ی زمانی محلی رو پیدا کن,weather_query,0.5983,0.1932,False
+4882,fa-IR,datetime,datetime_query,در شهر ساعت چند است,datetime_query,0.8598,0.8598,True
+4890,fa-IR,calendar,calendar_set,در مورد بلایای آب و هوایی فعلی در ایران اعلان تنظیم کن,iot_hue_lightoff,0.4368,0.0119,False
+4909,fa-IR,play,play_music,آهنگ های ایوان بند را پخش کن,play_music,0.9523,0.9523,True
+4917,fa-IR,weather,weather_query,دمای بیرون,qa_factoid,0.4441,0.0112,False
+4928,fa-IR,play,play_music,متن من را پخش کن,play_music,0.4766,0.4766,True
+4933,fa-IR,weather,weather_query,آیا الآن باران خواهد بارید,weather_query,0.9965,0.9965,True
+4951,fa-IR,datetime,datetime_query,من می‌خواهم بدانم الان ساعت چند است,datetime_query,0.8073,0.8073,True
+4953,fa-IR,news,news_query,اخبار تصادف قطار,qa_factoid,0.819,0.1472,False
+4957,fa-IR,datetime,datetime_query,بیست و سوم این ماه چند شنبه است,email_sendemail,0.5582,0.03,False
+4960,fa-IR,play,play_music,آهنگ ایوان بند,iot_hue_lightoff,0.412,0.0632,False
+4968,fa-IR,qa,qa_factoid,امسال چه کسی انتخابات ریاست جمهوری را برد,qa_factoid,0.9969,0.9969,True
+4973,fa-IR,play,play_music,اوولی آغوش را پخش کن,play_music,1.0,1.0,True
+4998,fa-IR,play,play_music,این موزیک را برای پخش موزیک بعدی اضافه کن,play_music,0.9892,0.9892,True
+5009,fa-IR,weather,weather_query,این هفته چتر لازمم می شود,lists_remove,0.4179,0.0081,False
+5016,fa-IR,news,news_query,اخبار فراز و نشیب‌های بازار سهام را به من بگو,news_query,0.9221,0.9221,True
+5027,fa-IR,datetime,datetime_query,جمعه سیزدهم بعدی کیه,email_query,0.2914,0.0309,False
+5037,fa-IR,weather,weather_query,امروز چقدر سرد است,weather_query,0.9993,0.9993,True
+5038,fa-IR,weather,weather_query,هوای این هفته چطوره,iot_hue_lightoff,0.6785,0.3112,False
+5040,fa-IR,weather,weather_query,الان هوا چطوره,weather_query,0.9919,0.9919,True
+5062,fa-IR,play,play_music,برای من اهنگ هایی از دهه هشتاد پخش کن,play_music,0.9999,0.9999,True
+5074,fa-IR,weather,weather_query,هوای این هفته چطور بود,weather_query,0.7905,0.7905,True
+5085,fa-IR,weather,weather_query,پیش بینی وضع هوا برای شنبه چیست,weather_query,0.9966,0.9966,True
+5118,fa-IR,play,play_music,خوشگلا باید برقصن,social_post,0.9223,0.0652,False
+5127,fa-IR,news,news_query,این هم حقیقت سرویس غذا برای نیازمندان در بودجه یک نفر,qa_factoid,0.9997,0.0,False
+5131,fa-IR,datetime,datetime_query,لطفا به من در آبادان ساعت چند است,weather_query,0.9837,0.0152,False
+5134,fa-IR,play,play_music,لیست پخش بیست و پنج باند را پیدا کن,play_podcasts,0.458,0.0172,False
+5156,fa-IR,iot,iot_hue_lightoff,لامپ اتاق هال را خاموش کن,iot_hue_lightoff,0.9873,0.9873,True
+5157,fa-IR,iot,iot_hue_lightoff,علی لامپ ها ی اتاق هال را خاموش کن,iot_hue_lightoff,0.9945,0.9945,True
+5158,fa-IR,play,play_music,لطفا آخرین آهنگ از آلبوم تقدیر را پخش کن,play_music,0.9927,0.9927,True
+5159,fa-IR,play,play_music,میتونی لطفا آهنگی از ابی پخش کنی,play_music,0.9056,0.9056,True
+5160,fa-IR,play,play_music,میشه لطفا آهنگی از ابی پخش کنی,play_music,0.903,0.903,True
+5176,fa-IR,weather,weather_query,این هفته انتظار چه هوایی را باید داشته باشم,weather_query,0.9996,0.9996,True
+5196,fa-IR,news,news_query,می خواهم درباره برگزیت بدانم,email_query,0.8664,0.002,False
+5225,fa-IR,datetime,datetime_query,چهارشنبه ی بعدی چندم است,weather_query,0.9529,0.0153,False
+5243,fa-IR,iot,iot_hue_lightoff,سارا لطفا لامپ‌های حمام را خاموش کن,iot_hue_lightoff,0.4498,0.4498,True
+5245,fa-IR,news,news_query,یک اعلان برای اخبار محیط زیست تنظیم کن,cooking_recipe,0.269,0.1085,False
+5270,fa-IR,news,news_query,الآن اخبار فوری چیست,news_query,0.9991,0.9991,True
+5278,fa-IR,play,play_music,لطفا فقط از پاپ میکس آهنگ پخش کن,play_music,0.9972,0.9972,True
+5279,fa-IR,play,play_music,لطفا فقط آهنگ‌ غمگین از پلیر پخش کن,play_music,0.9955,0.9955,True
+5286,fa-IR,news,news_query,اخبار بی. بی. سی. درباره مهاجرت را نشان بده,news_query,0.9867,0.9867,True
+5296,fa-IR,news,news_query,الهه اخبار عامه پسند خبرگزاری مهر را بده,news_query,0.709,0.709,True
+5297,fa-IR,news,news_query,اخبار عامه پسند بی. بی. سی. را برای من بگیر,play_podcasts,0.7347,0.0208,False
+5301,fa-IR,weather,weather_query,هوای بیستم فروردین هزار و سیصد و نود و هفت چطور خواهد بود,weather_query,0.9995,0.9995,True
+5307,fa-IR,datetime,datetime_query,ایا امروز بیستم فروردین است,weather_query,0.9987,0.0001,False
+5318,fa-IR,play,play_music,لطفا فقط آهنگ های ایوان بند را پخش کن,play_music,0.9996,0.9996,True
+5321,fa-IR,weather,weather_query,وضع هوا را نشان بده,iot_hue_lightoff,0.9289,0.0693,False
+5328,fa-IR,play,play_music,راک,qa_factoid,0.9491,0.0014,False
+5339,fa-IR,weather,weather_query,شرایط خنک‌کننده کم,weather_query,0.7867,0.7867,True
+5341,fa-IR,datetime,datetime_query,لطفا زمان رو بهم خبر بده,qa_factoid,0.4542,0.0432,False
+5347,fa-IR,play,play_music,آهنگ تکنو پخش کن,play_music,0.9987,0.9987,True
+5358,fa-IR,datetime,datetime_query,ساعت کنونی را آپدیت کن,iot_hue_lightoff,0.7725,0.0045,False
+5370,fa-IR,news,news_query,جدیدترین قیل و قال ترامپ چیست,qa_factoid,0.9949,0.0001,False
+5378,fa-IR,play,play_music,اس,qa_factoid,0.3183,0.0299,False
+5401,fa-IR,play,play_music,آهنگ,qa_factoid,0.7141,0.0529,False
+5410,fa-IR,news,news_query,جدیدترین تیترهای روزنامه‌ی همشهری را برای من بخوان,recommendation_events,0.5224,0.3378,False
+5411,fa-IR,news,news_query,اخبار مهم در ایسنا چیست,news_query,0.3626,0.3626,True
+5413,fa-IR,play,play_music,آهنگ پخش کن,play_music,0.9979,0.9979,True
+5414,fa-IR,play,play_music,میشه آهنگ بزاری,play_music,1.0,1.0,True
+5427,fa-IR,datetime,datetime_query,الان در ایران ساعت چند است,weather_query,0.8958,0.1017,False
+5433,fa-IR,weather,weather_query,آیا بعدا باران می بارد,weather_query,0.584,0.584,True
+5439,fa-IR,weather,weather_query,آیا برای شب چتر لازم دارم,lists_remove,0.1839,0.0418,False
+5465,fa-IR,weather,weather_query,امروز می توانم صندلم را بپوشم,weather_query,0.7781,0.7781,True
+5468,fa-IR,weather,weather_query,آیا باید عینک آفتابی بزنم,iot_hue_lightoff,0.7509,0.1646,False
+5524,fa-IR,weather,weather_query,وضع هوای این لحظه,weather_query,0.9958,0.9958,True
+5529,fa-IR,weather,weather_query,کی باید بروم پیاده روی,weather_query,0.4047,0.4047,True
+5557,fa-IR,play,play_music,من موزیک رگی میخوام,play_music,0.9896,0.9896,True
+5577,fa-IR,weather,weather_query,اگر امروز عصر خیلی طوفانی باشد کاپشن بلند لازم دارم,weather_query,0.4547,0.4547,True
+5578,fa-IR,weather,weather_query,در صبح زمستانی جوراب کلفت احتیاج دارم,lists_remove,0.7822,0.0138,False
+5584,fa-IR,iot,iot_hue_lightoff,لطفا لامپ‌ها را خاموش کن,iot_hue_lightoff,0.8468,0.8468,True
+5590,fa-IR,weather,weather_query,دمای هوا رو نشون بده,weather_query,0.9512,0.9512,True
+5593,fa-IR,play,play_music,تقدیر از شادمهر را پخش کن,play_music,0.997,0.997,True
+5619,fa-IR,play,play_music,آهنگ قبلی را پخش کن,play_music,0.9999,0.9999,True
+5627,fa-IR,play,play_music,برایم از ابی آهنگ پخش کن,play_music,0.9999,0.9999,True
+5640,fa-IR,datetime,datetime_query,تاریخ را نشان بده,datetime_query,0.9998,0.9998,True
+5650,fa-IR,weather,weather_query,وضع هوای امروز عصر رو درخواست کن,weather_query,0.9941,0.9941,True
+5658,fa-IR,play,play_music,برای من آهنگی از ابی بزار,social_post,0.7651,0.1093,False
+5661,fa-IR,weather,weather_query,باید الآن بارانیم را با خودم بیاورم,play_music,0.9885,0.0007,False
+5671,fa-IR,datetime,datetime_query,در کرج ساعت چند است,weather_query,0.9921,0.0067,False
+5678,fa-IR,datetime,datetime_query,پانزدهم شهریور چه روزی از هفته است,datetime_query,0.7308,0.7308,True
+5683,fa-IR,play,play_music,آهنگ های مهمانی من را از لیست آهنگ ها پخش کن,play_podcasts,0.6738,0.3213,False
+5688,fa-IR,news,news_query,لطفا سر خط خبرها را به من بگو,qa_factoid,0.9853,0.0107,False
+5703,fa-IR,datetime,datetime_query,ساعت کنونی,datetime_query,0.5618,0.5618,True
+5707,fa-IR,play,play_music,به آهنگ های مورد علاقه من گوش بده,play_music,0.8857,0.8857,True
+5721,fa-IR,weather,weather_query,وضع هوای فردای این منطقه را به من نشان بده,weather_query,0.9994,0.9994,True
+5722,fa-IR,weather,weather_query,پیش‌بینی هفت روزه این هفته را نمایش بده,iot_hue_lightoff,0.2931,0.0441,False
+5732,fa-IR,weather,weather_query,بزودی باید لاستیک ماشینم را با لاستیک مخصوص روز برفی عوض کنم,iot_hue_lightoff,0.3516,0.1579,False
+5757,fa-IR,datetime,datetime_query,یک ربع به دو,calendar_remove,0.4422,0.0237,False
+5758,fa-IR,weather,weather_query,وضع هوای پایتخت چطور است,weather_query,0.9998,0.9998,True
+5774,fa-IR,datetime,datetime_query,زمان فعلی در تهران,weather_query,0.9768,0.0005,False
+5797,fa-IR,weather,weather_query,قبل از بیرون رفتن باید بارانی بپوشم,weather_query,0.8868,0.8868,True
+5813,fa-IR,play,play_music,آهنگ ترس را پخش کن,play_music,0.9717,0.9717,True
+5820,fa-IR,play,play_music,عشق از ایوان بند,social_post,0.8586,0.0786,False
+5837,fa-IR,weather,weather_query,از آب و هوای این هفته به من بگو,weather_query,0.9983,0.9983,True
+5871,fa-IR,weather,weather_query,آب و هوای امروز اهواز چگونه است,weather_query,0.9994,0.9994,True
+5886,fa-IR,news,news_query,موضوعات داغ,qa_factoid,0.5752,0.0029,False
+5919,fa-IR,news,news_query,آخرین آپدیت از طرح متروی اسلامشهر چیست,qa_factoid,1.0,0.0,False
+5930,fa-IR,news,news_query,هر خبر فوری ای از خبرگزاری مهر,news_query,0.9983,0.9983,True
+5948,fa-IR,play,play_music,چند تا آهنگ خوب از لیست آهنگ های من پخش کن,lists_remove,0.8379,0.0216,False
+5953,fa-IR,weather,weather_query,آیا شهر برای زندگی ارزانتر یا گرانتر است,qa_factoid,0.8124,0.0052,False
+5955,fa-IR,weather,weather_query,شهر از لحاظ نظم و قانون چقدر امن است,social_post,0.2653,0.0543,False
+5970,fa-IR,play,play_music,ازت میخوام آهنگ مانکن را برای من پخش کنی,play_music,0.998,0.998,True
+5985,fa-IR,news,news_query,آخرین اخبار از سازمان ملل را به من نشان بده,news_query,0.9938,0.9938,True
+5996,fa-IR,weather,weather_query,آیا من امروز بعدازظهر به چکمه‌های برفی نیاز دارم,lists_remove,0.4598,0.1556,False
+5997,fa-IR,datetime,datetime_query,در منطقه زمانی مرکزی ساعت چند است,datetime_query,0.778,0.778,True
+6023,fa-IR,weather,weather_query,آیا شب شرجی ای می شود,weather_query,0.9993,0.9993,True
+6024,fa-IR,weather,weather_query,آیا امروز باید ژاکت یا کاپشن با خودم ببرم,qa_factoid,0.4188,0.1934,False
+6025,fa-IR,weather,weather_query,آیا امروز بعدالظهر به کرم ضد آفتاب احتیاج پیدا می کنم,iot_hue_lightoff,0.5927,0.0163,False
+6027,fa-IR,play,play_music,آهنگ های مورد علاقه را پخش کن,play_music,0.8823,0.8823,True
+6039,fa-IR,weather,weather_query,فردا بارانی خواهد بود,weather_query,0.9995,0.9995,True
+6041,fa-IR,iot,iot_hue_lightoff,علی لطفا لامپ ها را خاموش کن,iot_hue_lightoff,0.9836,0.9836,True
+6045,fa-IR,play,play_music,آهنگ منتخب را پخش کن,play_music,0.9998,0.9998,True
+6050,fa-IR,weather,weather_query,آیا بعدا کرم ضد آفتاب لازمم می شود,qa_factoid,0.3125,0.025,False
+6055,fa-IR,iot,iot_hue_lightoff,آیا من لامپ را در گاراژ روشن ماندم,iot_hue_lightoff,0.9836,0.9836,True
+6059,fa-IR,play,play_music,موزیک رپ پخش کن,play_music,0.9998,0.9998,True
+6069,fa-IR,weather,weather_query,آیا امروز احتمال طوفان هست,weather_query,0.9983,0.9983,True
+6073,fa-IR,iot,iot_hue_lightoff,لامپ ایوان را خاموش کن,iot_hue_lightoff,0.995,0.995,True
+6074,fa-IR,iot,iot_hue_lightoff,لامپ های اتاق خواب را در ساعت نه و نیم شب خاموش کن,email_sendemail,0.9448,0.0413,False
+6077,fa-IR,news,news_query,می خواهم آخرین اخبار امروز جهان را بشنوم,news_query,0.999,0.999,True
+6093,fa-IR,weather,weather_query,می‌توانم سانروف را باز کنم,qa_factoid,0.4153,0.0166,False
+6103,fa-IR,weather,weather_query,هی امروز اصفهان هوا چطوره,weather_query,0.9992,0.9992,True
+6116,fa-IR,weather,weather_query,اطلاعات وضع هوای این هفته,weather_query,0.9894,0.9894,True
+6118,fa-IR,datetime,datetime_query,سلام در کرمان ساعت چند است,weather_query,0.8303,0.1663,False
+6127,fa-IR,weather,weather_query,چتر پیشنهاد می کنی,recommendation_events,0.9991,0.0,False
+6129,fa-IR,news,news_query,من را از اخبار جهان آپدیت نگه دار,qa_factoid,0.9795,0.0002,False
+6151,fa-IR,weather,weather_query,می خواهم وضع هوای امروز را بدانم,weather_query,0.9986,0.9986,True
+6172,fa-IR,weather,weather_query,آیا عینک آفتابی برای امروز انتخاب خوبی است,iot_hue_lightoff,0.4965,0.3858,False
+6177,fa-IR,weather,weather_query,آیا امروز چتر لازم دارم,calendar_remove,0.3149,0.0307,False
+6178,fa-IR,weather,weather_query,آیا باید ژاکت بپوشم,qa_factoid,0.3889,0.0045,False
+6194,fa-IR,weather,weather_query,هوای امروز چطور است,weather_query,0.9971,0.9971,True
+6289,fa-IR,weather,weather_query,هی امروز هوا چطوره,weather_query,0.9993,0.9993,True
+6370,fa-IR,calendar,calendar_query,هفته‌ی آینده من چگونه است,qa_factoid,0.2979,0.0229,False
+6372,fa-IR,news,news_query,اخبار مربوط به گیاهان,iot_hue_lightoff,0.1621,0.0392,False
+6403,fa-IR,transport,transport_query,چطور به جایی برسم,cooking_recipe,0.8563,0.0195,False
+6410,fa-IR,news,news_query,اخبار امروز ایران چیست,play_podcasts,0.4548,0.2312,False
+6411,fa-IR,weather,weather_query,هوای چهارشنبه آینده چطور است,weather_query,0.9994,0.9994,True
+6539,fa-IR,calendar,calendar_set,امروز را به عنوان شروع رژیم من علامت بزن,iot_hue_lightoff,0.7683,0.0027,False
+6542,fa-IR,cooking,cooking_recipe,آیا پنیر نرم بهتر از سفت است,cooking_recipe,0.9726,0.9726,True
+6618,fa-IR,news,news_query,خبرهای جالب بگو,social_post,0.9331,0.0034,False
+6682,fa-IR,news,news_query,انتخابات داره انجام می شه,qa_factoid,0.9047,0.0046,False
+6683,fa-IR,news,news_query,امور اقتصادی,qa_factoid,0.7912,0.003,False
+6713,fa-IR,calendar,calendar_remove,جلسه کاری در روز چهارشنبه لغو شود,calendar_remove,0.9829,0.9829,True
+6722,fa-IR,calendar,calendar_query,چیزی هست که باید به من یادآوری شود,lists_query,0.3658,0.0109,False
+6725,fa-IR,calendar,calendar_set,برنامه من برای بعد از ظهر را به من یادآوری کن,cooking_recipe,0.4348,0.0076,False
+6726,fa-IR,calendar,calendar_remove,جلسه بعدی را لغو کن,calendar_remove,0.9994,0.9994,True
+6729,fa-IR,calendar,calendar_remove,صبحانه در خانه لیلا را کنسل کن,social_post,0.8414,0.004,False
+6732,fa-IR,calendar,calendar_set,یک یادآور برای دیدار با والدین همسر در روز یکشنبه برای من اضافه کن,cooking_recipe,0.4815,0.342,False
+6744,fa-IR,calendar,calendar_set,برای فردا ساعت ده صبح یک جلسه با پیام تنظیم کن,email_sendemail,0.9941,0.0005,False
+6746,fa-IR,calendar,calendar_set,هفته اول خرداد را به عنوان تعطیلات در تقویم من تنظیم کن,qa_factoid,0.9482,0.0014,False
+6747,fa-IR,calendar,calendar_query,چند تا یادآور دارم,lists_remove,0.232,0.017,False
+6755,fa-IR,calendar,calendar_remove,لطفا تقویم من را پاک کن,qa_factoid,1.0,0.0,False
+6761,fa-IR,calendar,calendar_remove,جلسه تقویم من در ساعت نه صبح را حذف کن,qa_factoid,0.9844,0.0003,False
+6764,fa-IR,calendar,calendar_set,یادآوری کن که پنجره‌ها را بشورم,lists_remove,0.3681,0.0127,False
+6774,fa-IR,calendar,calendar_set,یک رویداد برای جمعه تنظیم کن,cooking_recipe,0.9961,0.0003,False
+6785,fa-IR,calendar,calendar_query,یادآور بعدی من چیست,email_sendemail,0.282,0.0024,False
+6789,fa-IR,calendar,calendar_set,یک جلسه با لیلی در روز شنبه ساعت چهار بعدازظهر تنظیم کن,iot_hue_lightoff,0.4037,0.0434,False
+6798,fa-IR,calendar,calendar_remove,رویداد بعدی من را حذف کن,qa_factoid,0.8944,0.0376,False
+6801,fa-IR,calendar,calendar_query,جلسات این جمعه را به من نشان بده,play_podcasts,0.2075,0.0173,False
+6806,fa-IR,calendar,calendar_query,رویداد تقویم من برای این جمعه بعدازظهر را به من نشان بده,qa_factoid,0.9999,0.0,False
+6815,fa-IR,calendar,calendar_set,یک هفته‌ قبل تولد مامانم را به من یادآوری کن,qa_factoid,0.3555,0.003,False
+6819,fa-IR,calendar,calendar_set,اوولی یک گروه اجرای موسیقی خوب است که امشب ساعت نه در کافه جاز می‌خواهم بروم,play_music,0.9983,0.0001,False
+6836,fa-IR,calendar,calendar_set,جلسه فردا ساعت شش را به من یادآوری کن,calendar_remove,0.958,0.0048,False
+6850,fa-IR,calendar,calendar_query,برنامه امروز من را فهرست کن,social_post,0.6468,0.0,False
+6856,fa-IR,calendar,calendar_set,یک یادآور برای جلسه فردا ده صبح تنظیم کن,cooking_recipe,0.6179,0.1909,False
+6860,fa-IR,calendar,calendar_query,آیا برنامه ای پیش رو دارم,cooking_recipe,0.9877,0.0005,False
+6865,fa-IR,calendar,calendar_set,یک اطلاعیه در مورد جلسه فردا در ساعت ده تنظیم کن,email_sendemail,0.4919,0.1985,False
+6878,fa-IR,calendar,calendar_set,یک جلسه با بخش حسابداری در ساعت دو و سی دقیقه‌ی بعدازظهر روز جمعه تنظیم کن,calendar_remove,0.3863,0.0252,False
+6891,fa-IR,calendar,calendar_query,آیا برنامه‌های صبحگاهی هست,cooking_recipe,0.98,0.0002,False
+6892,fa-IR,calendar,calendar_query,برنامه زمانبندی فیلم را به من میدهی,cooking_recipe,0.9102,0.0012,False
+6897,fa-IR,calendar,calendar_set,به من یادآوری کن که در پنج عصر روز هفتم ژاله را بردارم,iot_hue_lightoff,0.3808,0.006,False
+6901,fa-IR,calendar,calendar_set,فردا ساعت ده صبح جلسه را به من یادآوری کن,calendar_remove,0.5299,0.0076,False
+6902,fa-IR,calendar,calendar_set,یک یادآور برای ماه آینده تنظیم کن تا به تعویض روغن بروم,cooking_recipe,0.9144,0.0094,False
+6909,fa-IR,calendar,calendar_query,بعد از ساعت یک و قبل از سه بعدازظهر چه اتفاقی می‌افتد,weather_query,0.9821,0.0006,False
+6918,fa-IR,calendar,calendar_remove,رویدادها را از تقویم پاک کن,qa_factoid,0.9819,0.001,False
+6923,fa-IR,calendar,calendar_set,یک یادآور برای چاپ اسناد در صبح سه شنبه تنظیم کن,email_query,0.4625,0.1973,False
+6926,fa-IR,calendar,calendar_query,ایا جمعه هست,social_post,0.8057,0.0042,False
+6928,fa-IR,calendar,calendar_remove,تمام رویدادها را پاک کن,lists_remove,0.4351,0.1305,False
+6936,fa-IR,calendar,calendar_set,به من یادآوری کن که ساعت نه صبح داروی خود را مصرف کنم,cooking_recipe,0.9374,0.0038,False
+6937,fa-IR,calendar,calendar_set,یادآوری برای ظهر برای صرف ناهار با رئیس تنظیم کن,calendar_set,0.4254,0.4254,True
+6946,fa-IR,calendar,calendar_query,آیا جلساتی برای چهارشنبه آینده تعیین شده است,qa_factoid,0.5387,0.0716,False
+6958,fa-IR,calendar,calendar_remove,مطمئن شو که هیچ رویدادی در تقویم من وجود ندارد,qa_factoid,0.9996,0.0,False
+6959,fa-IR,calendar,calendar_set,یک ساعت قبل از شروع جلسه من را به من یادآوری کن,calendar_remove,0.8282,0.0038,False
+6962,fa-IR,calendar,calendar_set,آیا من می‌توانم بدانم شنبه بعد در ساعت شش بعدازظهر باید چه کار کنم,weather_query,0.9943,0.0002,False
+6964,fa-IR,calendar,calendar_set,میتونی جلسه بعدی من با رئیس در یک ساعت دیگر را قبل از شروع جلسه به من یادآوری کنی,calendar_remove,0.7535,0.0085,False
+6967,fa-IR,calendar,calendar_query,می‌توانی حقایق این موضوع را بررسی کنی,qa_factoid,0.9998,0.0,False
+6968,fa-IR,calendar,calendar_query,باید تمام جلسات امروز را تایید کنم,qa_factoid,0.3863,0.0171,False
+6973,fa-IR,calendar,calendar_set,یک یادآوری از کنفرانس فردا در نوشهر اضافه کن,calendar_set,0.2604,0.2604,True
+6974,fa-IR,calendar,calendar_set,من فردا یک کار در تهران دارم آن را یادآوری کن,cooking_recipe,0.9591,0.0015,False
+6980,fa-IR,calendar,calendar_query,فهرست کارهای انجام دادنی را به من بده,lists_remove,0.9691,0.0002,False
+6992,fa-IR,calendar,calendar_query,رویدادهای آینده را نشان بده,play_podcasts,0.2904,0.004,False
+6994,fa-IR,calendar,calendar_set,یادآوری کن به من,play_podcasts,0.5758,0.0055,False
+6997,fa-IR,calendar,calendar_remove,رویداد بعدی را حذف کن,qa_factoid,0.6039,0.1855,False
+7000,fa-IR,calendar,calendar_set,رویداد جدید,social_post,0.9554,0.0004,False
+7004,fa-IR,calendar,calendar_set,در این تاریخ هر سال به تقویم من یک یادآور اضافه کن,qa_factoid,0.9698,0.0001,False
+7013,fa-IR,calendar,calendar_query,چه زمانی رویداد شروع میشود,datetime_query,0.9948,0.0001,False
+7014,fa-IR,calendar,calendar_query,برنامه رویدادهای امروز را به من بده,email_sendemail,0.9799,0.0002,False
+7025,fa-IR,calendar,calendar_remove,یادآور سال نو را از تقویم پاک کن,qa_factoid,0.9599,0.0169,False
+7026,fa-IR,recommendation,recommendation_events,چه رویدادهایی در این هفته در شهر من رخ می‌دهد,social_post,0.792,0.0028,False
+7039,fa-IR,calendar,calendar_set,سه شنبه آینده راس ساعت یازده صبح با شهرزاد برایم جلسه بگذار,social_post,0.1573,0.0355,False
+7044,fa-IR,calendar,calendar_set,لطفا به من یادآوری کن که تا ساعت پنج بعدازظهر شروع به آماده شدن کنم,qa_factoid,0.2444,0.2083,False
+7046,fa-IR,calendar,calendar_set,قرار مهم را در ساعت هفت تاریخ بیست و یکم اضافه کن,calendar_remove,0.563,0.0113,False
+7055,fa-IR,calendar,calendar_set,یک جلسه با فرید در ساعت یازده صبح روز پنج‌شنبه برنامه‌ریزی کن,qa_factoid,0.614,0.01,False
+7057,fa-IR,calendar,calendar_set,ظهر چهارشنبه برای جلسه ناهاری با حسین برنامه‌ریزی کن,cooking_recipe,0.9603,0.0019,False
+7061,fa-IR,calendar,calendar_set,بیست و چهار ساعت قبل از جلسه جمعه من با امیر به من یادآوری کن,email_sendemail,0.7016,0.003,False
+7073,fa-IR,calendar,calendar_set,تقویم من را برای رویداد بعدی من جستجو کن و قبل از وقوع آن به من اطلاع بده,qa_factoid,0.8081,0.0001,False
+7080,fa-IR,calendar,calendar_remove,همه چیز را از تقویم من پاک کن,qa_factoid,0.9988,0.0,False
+7087,fa-IR,calendar,calendar_remove,جلسه فردا را از تقویم من لغو کن,calendar_remove,0.784,0.784,True
+7098,fa-IR,calendar,calendar_set,پرداخت خودرو من را در تاریخ دوازدهم در تقویم من اضافه کن,qa_factoid,0.9981,0.0,False
+7100,fa-IR,calendar,calendar_set,یک روز قبل از موعد ماشینم را به من یادآوری کن,calendar_remove,0.8637,0.0038,False
+7111,fa-IR,calendar,calendar_query,نوبت دکتر من در یازدهم فروردین ساعت چند است,weather_query,0.8828,0.0006,False
+7113,fa-IR,calendar,calendar_query,آیا رویدادی در مرکز شهر این آخر هفته وجود خواهد داشت,qa_factoid,0.3321,0.0115,False
+7117,fa-IR,calendar,calendar_remove,برنامه های روز نوزدهم را از تقویم من خارج کن,qa_factoid,0.8486,0.0002,False
+7120,fa-IR,calendar,calendar_query,برنامه امروز من چگونه است,recommendation_events,0.9834,0.0,False
+7122,fa-IR,calendar,calendar_set,می‌توانی این رویداد را تکرار کنی,qa_factoid,0.9997,0.0,False
+7140,fa-IR,calendar,calendar_set,یک یادآوری تنظیم کن تا یک ساعت قبل از جلسه ناهار به من اطلاع دهد,email_sendemail,0.7282,0.0498,False
+7141,fa-IR,calendar,calendar_query,آیا این برنامه برنامه‌ریزی شده است,qa_factoid,0.7632,0.0001,False
+7151,fa-IR,calendar,calendar_set,برای هر یکشنبه‌های فرد یک یادآوری تنظیم کن,calendar_remove,0.2526,0.1992,False
+7152,fa-IR,calendar,calendar_set,ناهار را هر روز ساعت دوازده و نیم تنظیم کن,datetime_query,0.5747,0.0877,False
+7161,fa-IR,calendar,calendar_set,این رویداد را در آینده یادآوری کن,qa_factoid,0.8292,0.0052,False
+7170,fa-IR,calendar,calendar_set,امروز تولد مادرم است هر سال در این تاریخ برای من اعلان بفرست,datetime_query,0.432,0.1014,False
+7181,fa-IR,calendar,calendar_set,من را ساعت شش صبح پنج‌شنبه بیدار کن تا برای جلسه وقت داشته باشم,qa_factoid,0.4446,0.1955,False
+7185,fa-IR,calendar,calendar_query,قرار بعدی من با دکتر اکبری کی است,email_sendemail,0.9855,0.0001,False
+7189,fa-IR,calendar,calendar_query,آیا من برنامه ای دارم,cooking_recipe,0.9578,0.0009,False
+7194,fa-IR,calendar,calendar_set,من فردا یک جلسه دارم که آن را تنظیم کن,calendar_set,0.7687,0.7687,True
+7196,fa-IR,calendar,calendar_set,جلسه با ماهان در بیست و پنجم اسفند را به من یادآوری کن,email_sendemail,1.0,0.0,False
+7199,fa-IR,calendar,calendar_set,برای یک ساعت دو ساعت و سه ساعت قبل از فاینال انگلیسی هفته‌ی آینده اعلان بگذار,iot_hue_lightoff,0.9525,0.0039,False
+7209,fa-IR,calendar,calendar_set,می‌توانی به من یادآوری کنی که در روز سه شنبه آشغال‌ها را بیرون ببرم,qa_factoid,0.2719,0.0219,False
+7219,fa-IR,calendar,calendar_query,آیا یادآوری جلسه فردا را گذاشتی,qa_factoid,0.711,0.0108,False
+7224,fa-IR,calendar,calendar_query,محل برگزاری ازدواج علی کجاست,qa_factoid,0.9961,0.0,False
+7232,fa-IR,calendar,calendar_query,رویدادهای هفته‌ی آینده چیست,recommendation_events,0.2645,0.0205,False
+7257,fa-IR,calendar,calendar_set,لطفاً به من یادآوری کن که طی نیم ساعت دیگر به مادر زنگ بزنم,calendar_remove,0.6405,0.0259,False
+7258,fa-IR,calendar,calendar_set,به من یادآوری کن که بعد از یک ساعت برای رئیس ایمیل بفرستم,email_sendemail,1.0,0.0,False
+7262,fa-IR,calendar,calendar_set,برای جلسه فردا یک اعلان یادآور ایجاد کن,iot_hue_lightoff,0.5197,0.0483,False
+7266,fa-IR,calendar,calendar_query,وظایف در انتظار من چیست,qa_factoid,0.928,0.0005,False
+7278,fa-IR,calendar,calendar_set,بیست و چهار ساعت قبل تولد شیما را به من یادآوری کن,qa_factoid,0.3055,0.0083,False
+7287,fa-IR,calendar,calendar_set,سالگرد من را یک روز قبل به من یادآوری کن,calendar_remove,0.9959,0.0022,False
+7289,fa-IR,calendar,calendar_remove,تمام رویدادهای همراه با علی را حذف کن,qa_factoid,0.4902,0.1424,False
+7291,fa-IR,calendar,calendar_set,فردا از ساعت ده صبح به مدت یک ساعت بلاک کن,calendar_remove,0.6071,0.0026,False
+7292,fa-IR,calendar,calendar_set,من فردا از ساعت چهار تا شش عصر در دسترس نیستم تقویم من را علامت بزن,qa_factoid,0.9997,0.0,False
+7293,fa-IR,calendar,calendar_set,یک قرار یک ساعته برای شنبه تنظیم کن,calendar_remove,0.7491,0.2216,False
+7294,fa-IR,calendar,calendar_remove,قرار ملاقات با امید مرادی را از تقویم من حذف کن,qa_factoid,0.9999,0.0,False
+7295,fa-IR,calendar,calendar_remove,لطفا تقویم من را پاک کن,qa_factoid,1.0,0.0,False
+7314,fa-IR,calendar,calendar_query,امروز چکار دارم,qa_factoid,0.9105,0.0023,False
+7316,fa-IR,calendar,calendar_query,آیا هیچ قراری دارم,qa_factoid,1.0,0.0,False
+7319,fa-IR,calendar,calendar_query,امروز از ساعت دو تا چهار بعدازظهر چه خبر است,weather_query,0.9989,0.0,False
+7353,fa-IR,email,email_query,سریعا آب و هوای هفته بعد در مازندران را به من اطلاع بده,weather_query,0.9987,0.0001,False
+7355,fa-IR,calendar,calendar_set,به من یادآوری کن ساعت شش خورش را چک کنم,datetime_query,0.4309,0.0102,False
+7380,fa-IR,calendar,calendar_query,لطفا جلسه امروز را با مشتریان نشان بده,qa_factoid,0.458,0.0034,False
+7397,fa-IR,calendar,calendar_query,آیا رویدادی برای سه ماه بعد برنامه‌ریزی شده است,qa_factoid,0.9136,0.0004,False
+7449,fa-IR,calendar,calendar_set,لطفا یک جلسه با این شخص تنظیم کن,qa_factoid,0.8604,0.0214,False
+7450,fa-IR,calendar,calendar_set,من نیاز به یک جلسه برای برنامه‌ریزی با این شخص دارم,calendar_remove,0.6074,0.004,False
+7455,fa-IR,calendar,calendar_set,مهمانی فردا را به من یادآوری کن,email_sendemail,0.9958,0.0001,False
+7461,fa-IR,calendar,calendar_set,مردم را به رویداد تقویم دعوت کن,qa_factoid,0.4972,0.0009,False
+7463,fa-IR,calendar,calendar_set,به گروه من اطلاع بده که تاریخ جلسه جدید فردا هست,calendar_remove,0.9403,0.0095,False
+7467,fa-IR,calendar,calendar_query,زمان رویدادها را به من بده,qa_factoid,0.9602,0.0015,False
+7477,fa-IR,calendar,calendar_set,در پانزدهم اسفند هر سال به من یادآوری کن که هدایای سالگرد ازدواج را ترتیب دهم,email_sendemail,0.9969,0.0002,False
+7496,fa-IR,calendar,calendar_query,آیا من امروز قرار ملاقات دارم,qa_factoid,0.9992,0.0,False
+7499,fa-IR,calendar,calendar_set,برنامه ریزی جدید برای جلسه فردا انجام بده,recommendation_events,0.342,0.3085,False
+7500,fa-IR,calendar,calendar_remove,میتونی رویداد بعدی رو حذف کنی,qa_factoid,0.6688,0.2432,False
+7502,fa-IR,calendar,calendar_query,چه در دستور کار جلسه ساعت چهار بعدازظهر با جواد است,cooking_recipe,0.8129,0.0099,False
+7503,fa-IR,calendar,calendar_query,آن جلسه در یک بعدازظهر روز جمعه کجای اسلامشهر است,weather_query,0.2781,0.0377,False
+7520,fa-IR,calendar,calendar_set,هر روز ساعت دو بعدازظهر برای نهار به من یادآوری کن,calendar_remove,0.6843,0.0604,False
+7524,fa-IR,calendar,calendar_query,در جلسه‌ای که امروز در ساعت پنج و بیست دقیقه بعدازظهر برگزار شد شهرزاد چقدر حاضر به سرمایه گذاری در شرکت من شد,recommendation_events,0.6686,0.0193,False
+7528,fa-IR,calendar,calendar_set,بیست و سوم خرداد روز اعلام نتایج انتخابات است لطفا یک یادآور برای آن تنظیم کن,calendar_remove,0.362,0.1468,False
+7531,fa-IR,calendar,calendar_set,لطفا روزهای پرداخت من را اضافه کن,qa_factoid,0.7238,0.0281,False
+7539,fa-IR,calendar,calendar_query,آیا من چیزی برای انجام دارم,cooking_recipe,0.9904,0.0004,False
+7542,fa-IR,calendar,calendar_set,لطفا فردا را به من یادآوری کن,qa_factoid,0.991,0.0001,False
+7549,fa-IR,calendar,calendar_set,من یک جلسه تا ساعت سه می‌خواهم,calendar_remove,0.8619,0.0119,False
+7556,fa-IR,calendar,calendar_set,تقویم من را طوری تنظیم کن که به من یادآوری کند که هر جمعه مواد غذایی بخرم,qa_factoid,0.8673,0.0001,False
+7557,fa-IR,calendar,calendar_set,یک یادآوری برای مکان الف بگذار,qa_factoid,0.5811,0.0051,False
+7559,fa-IR,calendar,calendar_set,امشب به من یادآوری کن که ساعت هشت شب لباس‌هایم را از خشکشویی بگیرم,iot_hue_lightoff,0.2574,0.0543,False
+7563,fa-IR,calendar,calendar_set,جلسه فردا را یک ساعت قبل به من یادآوری کن,calendar_remove,0.9618,0.0056,False
+7565,fa-IR,calendar,calendar_set,یادآور قرار ملاقات,email_sendemail,0.6595,0.0052,False
+7567,fa-IR,calendar,calendar_set,روز تولد,email_sendemail,0.9676,0.0001,False
+7569,fa-IR,calendar,calendar_query,برای فردا برنامه ریزی کن,cooking_recipe,0.482,0.0032,False
+7570,fa-IR,calendar,calendar_query,برنامه امروز چیست,recommendation_events,0.998,0.0,False
+7583,fa-IR,calendar,calendar_set,رفیق افزودن رویداد در تقویم شما,qa_factoid,0.9977,0.0,False
+7596,fa-IR,calendar,calendar_set,لطفاً ظهر یک جلسه با داریوش در داراب ترتیب بده,social_post,0.2271,0.0214,False
+7598,fa-IR,calendar,calendar_set,در اولین روزی که مقدوره یه جلسه با فرید تنظیم کن تا درباره تروریسم بحث کنیم,social_post,0.4299,0.0097,False
+7606,fa-IR,calendar,calendar_set,فردا ساعت سه با جواد ملاقات کن,qa_factoid,0.6852,0.0015,False
+7609,fa-IR,calendar,calendar_remove,یادآور جلسه برای سه شنبه را حذف کن,calendar_remove,0.9993,0.9993,True
+7613,fa-IR,calendar,calendar_query,رویداد آینده چیست,qa_factoid,0.9238,0.0027,False
+7628,fa-IR,calendar,calendar_set,به من یادآوری کن وقتی در کتابخانه هستم یک کارت کتابخانه‌ی جدید بگیرم,email_sendemail,0.9503,0.0013,False
+7654,fa-IR,calendar,calendar_set,تولد برادر من در سی و یک فروردین را در تقویم علامت دار کن,qa_factoid,0.9789,0.0001,False
+7655,fa-IR,calendar,calendar_set,یک یادآور در سی و یک فروردین به نام تولد برادر من تنظیم کن,email_sendemail,0.7086,0.0272,False
+7660,fa-IR,calendar,calendar_remove,تمام قرارهای بعد از سه بعدازظهر امروز من را کنسل کن و جزئیاتش را به من اطلاع بده,qa_factoid,0.6678,0.0188,False
+7662,fa-IR,calendar,calendar_query,می‌توانی جلسات امروز من را فهرست کنی,lists_remove,0.9691,0.0001,False
+7664,fa-IR,calendar,calendar_set,یک ناهار با ماهان اضافه کن,weather_query,0.9254,0.0004,False
+7666,fa-IR,calendar,calendar_set,میتونی تقویم را علامت بزنی برای فردا ساعت سه که با رامین جلسه دارم,iot_hue_lightoff,0.8554,0.0,False
+7680,fa-IR,calendar,calendar_remove,در تقویم من تمام رویدادهای گلف من در ماه جاری را حذف کن,qa_factoid,1.0,0.0,False
+7686,fa-IR,calendar,calendar_set,امیر و نریمان رو به جشنواره اضافه کن,qa_factoid,0.2729,0.0184,False
+7690,fa-IR,calendar,calendar_query,چه چیزی پیش رو دارم,lists_query,0.2797,0.0278,False
+7693,fa-IR,calendar,calendar_query,آیا برای بیست و یکم برنامه‌ای دارم,cooking_recipe,0.9843,0.0004,False
+7697,fa-IR,calendar,calendar_set,یک یادآوری برای این تنظیم کن,iot_hue_lightoff,0.2736,0.0649,False
+7711,fa-IR,calendar,calendar_set,سلام تمام جلسات و فراخوان‌های دیگر من را برای دوازدهم اسفند لغو کن چون تولد جلال است آن را به عنوان یک رویداد در تقویم خود برچسب گذاری کن,calendar_remove,0.9811,0.0003,False
+7712,fa-IR,calendar,calendar_set,سلام اوولی تمام جلسات و تماس‌های دیگر من را در تاریخ دوازدهم اسفند لغو کن زیرا تولد کریم است آن را به عنوان یک رویداد در تقویمت برچسب گذاری کن,qa_factoid,0.2471,0.0083,False
+7718,fa-IR,calendar,calendar_set,یک درخواست جلسه را به آقای هاشمی این جمعه بعدازظهر تنظیم کن,calendar_remove,0.399,0.0229,False
+7726,fa-IR,calendar,calendar_set,من هر روز دوشنبه به چیزی نیاز دارم که یک یادآور برای آن تنظیم کنم,calendar_set,0.306,0.306,True
+7730,fa-IR,calendar,calendar_set,دوشنبه بعدی را علامت بزن,calendar_remove,0.9547,0.0031,False
+7741,fa-IR,calendar,calendar_remove,تقویم من را برای شنبه پاک کن,qa_factoid,0.9954,0.0001,False
+7751,fa-IR,calendar,calendar_set,هر دوشنبه به من یادآوری کن که زباله ها را بیرون ببرم,email_sendemail,0.5193,0.011,False
+7762,fa-IR,calendar,calendar_query,چه یادآوری‌هایی دارم,qa_definition,0.1674,0.03,False
+7767,fa-IR,calendar,calendar_set,تمرین کردن در پارک ملت در چهار بهمن ساعت دو بعدازظهر را به تقویم اضافه کن,qa_factoid,0.9937,0.0,False
+7768,fa-IR,calendar,calendar_set,لطفا تمرین کردن در چهار بهمن در پارک چیتگر ساعت دو بعدازظهر را به تقویم اضافه کن,qa_factoid,0.9952,0.0,False
+7774,fa-IR,calendar,calendar_set,خرید فردا را به تقویم من اضافه کن,qa_factoid,0.9853,0.0001,False
+7777,fa-IR,calendar,calendar_query,آیا من امروز قراری دارم,qa_factoid,0.994,0.0003,False
+7778,fa-IR,calendar,calendar_set,به من یادآوری کن که یکشنبه بعدازظهر باید چکار کنم,email_sendemail,0.8155,0.0044,False
+7808,fa-IR,calendar,calendar_set,به من یادآوری کن مادر را پنج‌شنبه ساعت یازده صبح به آرایشگاه ببرم,email_sendemail,0.5926,0.1223,False
+7817,fa-IR,calendar,calendar_query,آیا این در مورد این تاریخ درست است,qa_factoid,0.9839,0.0002,False
+7820,fa-IR,calendar,calendar_remove,تمام رویدادهای تقویم را پاک کن,qa_factoid,0.9323,0.0011,False
+7836,fa-IR,calendar,calendar_remove,تمام رویدادها را حذف کن,qa_factoid,0.3976,0.1547,False
+7843,fa-IR,calendar,calendar_set,دو ساعت دیگر به من یادآوری کن که باید به کلاس ویولن در ساعت چهار بعدازظهر در خانه موسیقی بروم,calendar_remove,0.8145,0.0186,False
+7844,fa-IR,calendar,calendar_query,چه یادآور هایی تنظیم کرده ام,play_podcasts,0.2838,0.0126,False
+7847,fa-IR,calendar,calendar_set,وقت ثبت نام را به من یادآوری کن,qa_factoid,0.9951,0.0,False
+7851,fa-IR,calendar,calendar_set,امروز ظهر جلسه دارم,qa_factoid,0.6221,0.0053,False
+7863,fa-IR,calendar,calendar_set,به من یادآوری کن که شام امروز را ساعت پنج بعدازظهر شروع کنم,calendar_remove,0.5494,0.1454,False
+7870,fa-IR,calendar,calendar_remove,رویداد را از تقویم حذف کن,qa_factoid,0.8372,0.0171,False
+7876,fa-IR,news,news_query,اخبار دو ماه گذشته,news_query,0.9977,0.9977,True
+7878,fa-IR,calendar,calendar_remove,تقویمم من را پاک کن,qa_factoid,0.9932,0.0016,False
+7879,fa-IR,calendar,calendar_query,سه رویداد بعدی من چه هستند,recommendation_events,0.1604,0.0208,False
+7889,fa-IR,calendar,calendar_query,مسابقه‌ی فوتبال امشب چه ساعتی خواهد بود,weather_query,0.9065,0.0002,False
+7890,fa-IR,calendar,calendar_remove,کوتاهی موی امروز را پاک کن,lists_remove,0.7056,0.0568,False
+7891,fa-IR,calendar,calendar_remove,شام امشب را کنسل کن,weather_query,0.8881,0.0612,False
+7892,fa-IR,calendar,calendar_remove,رویداد بعدی امروز را حذف کن,calendar_remove,0.3431,0.3431,True
+7894,fa-IR,calendar,calendar_set,یک ساعت دیگر در مورد انتخابات به من اطلاعات جدید بده,qa_factoid,0.9647,0.0007,False
+7902,fa-IR,calendar,calendar_set,جلسه‌ای بین خودم و علی در ساعت دو بعدازظهر فردا تنظیم کن,calendar_remove,0.2722,0.1463,False
+7908,fa-IR,calendar,calendar_query,آیا من امروز باید کاری انجام بدهم,cooking_recipe,0.4754,0.0046,False
+7912,fa-IR,calendar,calendar_remove,alexa شام با آریا را از تقویم من حذف کن,qa_factoid,0.9996,0.0,False
+7916,fa-IR,calendar,calendar_set,به من یادآوری کن که ساعت شش بعدازظهر زباله‌ها را بیرون بیاورم,lists_remove,0.4834,0.0372,False
+7918,fa-IR,calendar,calendar_set,رویداد تقویم دعوتنامه به علی موسوی بفرست,email_sendemail,1.0,0.0,False
+7919,fa-IR,calendar,calendar_set,جلسه جدید علی و ترانه را به عنوان شرکت کنندگان اضافه کن,play_music,0.5876,0.0115,False
+7922,fa-IR,calendar,calendar_remove,وظایف را باز کن رویدادهای آینده را حذف کن,qa_factoid,0.8131,0.0866,False
+7927,fa-IR,calendar,calendar_query,این هفته چکار باید بکنم,cooking_recipe,0.3713,0.0483,False
+7946,fa-IR,calendar,calendar_query,کنسرت‌های نزدیک در تهران چیستند,lists_query,0.8463,0.0029,False
+7953,fa-IR,calendar,calendar_remove,لطفا نوبت دکترم را در روز شنبه بردار,calendar_remove,0.9856,0.9856,True
+7955,fa-IR,calendar,calendar_set,این رویداد را در یک الگوی تکراری در تقویم من قرار بده,qa_factoid,0.8786,0.0003,False
+7956,fa-IR,calendar,calendar_set,آیا می‌توانی این رویداد را تکرار شونده بکنی,qa_factoid,0.9781,0.0001,False
+7966,fa-IR,calendar,calendar_query,گفتم چیزی به من یادآوری کنی,social_post,0.9808,0.0006,False
+7970,fa-IR,calendar,calendar_set,عروسی را به موقع به من یادآوری کن تا یک هدیه بخرم,email_sendemail,0.9945,0.0,False
+7971,fa-IR,calendar,calendar_set,یک یادآوری را برای دو روز قبل از رویداد تنظیم کن,calendar_remove,0.9103,0.0137,False
+7975,fa-IR,calendar,calendar_query,آیا سرویس پارک خودرو در این رویداد وجود دارد,qa_factoid,0.2204,0.0269,False
+7978,fa-IR,calendar,calendar_query,چه یادآوری‌هایی را قبل از ظهر فردا برنامه‌ریزی کرده‌ام,news_query,0.6069,0.0114,False
+7980,fa-IR,calendar,calendar_set,به من بگو وقتی رویدادی دارم,play_radio,0.9364,0.0007,False
+7981,fa-IR,calendar,calendar_set,یک اعلام قبل از جلسه بفرست,qa_factoid,0.9764,0.0007,False
+7993,fa-IR,calendar,calendar_remove,همه رویدادها را از تقویم من حذف کن,qa_factoid,0.9947,0.0017,False
+8001,fa-IR,calendar,calendar_remove,آیا می‌توانی کوتاهی مو را که من برای جمعه برنامه‌ریزی کرده‌ام پاک کنی,lists_remove,0.4049,0.0211,False
+8004,fa-IR,calendar,calendar_set,سارا میخواد راجع به طلاق حرف بزنیم. میشه لطفا وقتی من وقتم آزاد بود یک جلسه باهاش تنظیم کنی,qa_factoid,0.8538,0.0057,False
+8005,fa-IR,calendar,calendar_set,در دوشنبه بیستم باید با جواد در مورد سفر آخر هفته خودمان صحبت کنم,social_post,0.4707,0.0082,False
+8013,fa-IR,calendar,calendar_query,جلسه ماه بعدم را به من نشان بده,social_post,0.4059,0.0037,False
+8029,fa-IR,calendar,calendar_query,چه رویدادهایی امروز در راه است,news_query,0.9751,0.0005,False
+8033,fa-IR,datetime,datetime_query,عید پاک در چه روزی است,weather_query,0.9982,0.0012,False
+8035,fa-IR,calendar,calendar_set,به من یادآوری کن روغن را عوض کنم,cooking_recipe,0.8693,0.0023,False
+8037,fa-IR,calendar,calendar_set,یه وقتایی یه چیزایی رو بهم یادآوری کن,qa_factoid,0.9193,0.0001,False
+8042,fa-IR,calendar,calendar_query,چند نفر در جلسه بعدی من شرکت می کنند,qa_factoid,0.755,0.0111,False
+8043,fa-IR,calendar,calendar_query,قرار ملاقات بعدی من چه ساعتی است,datetime_query,0.4759,0.001,False
+8044,fa-IR,calendar,calendar_query,برنامه امروز من چیست,recommendation_events,0.5579,0.0,False
+8055,fa-IR,calendar,calendar_remove,قرار من برای هفده اسفند را پاک کن,calendar_remove,0.9907,0.9907,True
+8056,fa-IR,calendar,calendar_query,آیا من روز جمعه قراری دارم,cooking_recipe,0.8966,0.0021,False
+8058,fa-IR,calendar,calendar_query,آیا امروز جلسه ی فروش دارم,qa_factoid,0.7069,0.0006,False
+8073,fa-IR,calendar,calendar_set,یک جلسه‌ی فروش را برای چهارشنبه ساعت یازده صبح برنامه‌ریزی کن,recommendation_events,0.999,0.0,False
+8079,fa-IR,calendar,calendar_set,برای پخت نان من در یک ساعت دیگر یک یادآور تنظیم کن,cooking_recipe,0.9997,0.0,False
+8084,fa-IR,calendar,calendar_query,رویداد دستور کار چیست,qa_definition,0.9546,0.0006,False
+8085,fa-IR,calendar,calendar_set,من می‌خواهم برای این هفته قراری تنظیم کنم,calendar_set,0.6627,0.6627,True
+8100,fa-IR,email,email_sendemail,قرار های ملاقات من را ایمیل کن تا دوباره برنامه ریزی کنم,email_sendemail,1.0,1.0,True
+8107,fa-IR,calendar,calendar_set,رویداد تولد مجید را تنظیم کن,qa_factoid,0.5869,0.0162,False
+8110,fa-IR,calendar,calendar_set,لطفا نظارت را به تقویم من اضافه کن,qa_factoid,0.9163,0.0013,False
+8116,fa-IR,calendar,calendar_query,در بازه زمانی اول بهمن و شانزدهم اسفند چه جلساتی برگزار شد,qa_factoid,0.5035,0.0236,False
+8119,fa-IR,calendar,calendar_query,جشن تولد مریم کجا برگزار می‌شود,social_post,0.662,0.0163,False
+8125,fa-IR,calendar,calendar_set,یک رویداد جلسه در تقویم من ایجاد کن,qa_factoid,0.9031,0.0007,False
+8126,fa-IR,calendar,calendar_set,یک رویداد جلسه را در تقویم من برنامه ریزی کن,qa_factoid,0.9396,0.0106,False
+8129,fa-IR,calendar,calendar_query,چه یادآوری‌هایی هنوز دارم,lists_remove,0.2925,0.0271,False
+8140,fa-IR,calendar,calendar_set,برای سیزدهم یادآوری تنظیم کن که من با عادل ناهار می‌خورم,email_sendemail,0.9136,0.0007,False
+8148,fa-IR,calendar,calendar_query,آیا برای خودم یادآوری گذاشتم,qa_factoid,0.423,0.0048,False
+8150,fa-IR,calendar,calendar_query,آیا یادآوری در مورد جشن تولد دارم,calendar_set,0.3054,0.0147,False
+8165,fa-IR,calendar,calendar_query,ساعت دوازده و نیم بعدازظهر است ده دقیقه دیگر یک جلسه داری,datetime_query,0.94,0.0017,False
+8182,fa-IR,calendar,calendar_remove,آیا می‌توانی وقت دندانپزشکی را حذف کنی,qa_factoid,0.9562,0.0129,False
+8188,fa-IR,calendar,calendar_query,چه تاریخی است,datetime_query,0.9995,0.0,False
+8204,fa-IR,calendar,calendar_set,لطفا به من یادآوری کن که به اداره پست بروم,transport_query,0.8664,0.0023,False
+8206,fa-IR,calendar,calendar_set,نگذار فراموش کنم که برای خواهرم هدیه بخرم,calendar_remove,0.9258,0.0005,False
+8230,fa-IR,calendar,calendar_query,جلسه‌ی ناهار من در سه شنبه چقدر طول می‌کشد,cooking_recipe,0.5733,0.0085,False
+8241,fa-IR,calendar,calendar_remove,همه چیز را برای مابقی سال از تقویم من پاک کن,iot_hue_lightoff,0.4298,0.0902,False
+8245,fa-IR,calendar,calendar_set,من باید از خدمات مسجد در روزهای یکشنبه ساعت یازده صبح مطلع شوم,email_sendemail,0.3106,0.0224,False
+8248,fa-IR,calendar,calendar_set,قرار شام فردا را به تقویم اضافه کن,cooking_recipe,0.5936,0.0003,False
+8251,fa-IR,calendar,calendar_set,من باید ناهار هفته‌ی آینده را در تقویم بگذارم,cooking_recipe,0.6326,0.0004,False
+8260,fa-IR,calendar,calendar_set,لطفا یک روز قبل از تولد یوسف به من هشدار بده,qa_factoid,0.6468,0.0032,False
+8261,fa-IR,calendar,calendar_set,یک ساعت پیش از ملاقات هشدار بده,qa_factoid,0.9832,0.0002,False
+8269,fa-IR,calendar,calendar_set,یادآوری نیم ساعته برای جلسه سه شنبه,lists_remove,0.5173,0.0687,False
+8276,fa-IR,calendar,calendar_remove,لطفا قرار ملاقات برنامه‌ریزی شده بعدی من را حذف کن,qa_factoid,0.876,0.0933,False
+8280,fa-IR,calendar,calendar_set,من باید یادآوری تاریخ بیست و پنجم اسفند را تنظیم کنم,calendar_remove,0.9842,0.0078,False
+8284,fa-IR,calendar,calendar_remove,تولد را از تقویم حذف کن,qa_factoid,0.9751,0.006,False
+8289,fa-IR,calendar,calendar_set,یک یادآوری در مورد جلسه امروز هیئت علمی در ساعت چهار تنظیم کن,iot_hue_lightoff,0.1514,0.0328,False
+8290,fa-IR,calendar,calendar_set,یک یادآوری در مورد جلسه مدیران هفته آینده در روز سه شنبه باز کن,calendar_remove,0.2617,0.0238,False
+8294,fa-IR,calendar,calendar_set,به تقویم اضافه و تکرار کن,qa_factoid,0.9988,0.0,False
+8300,fa-IR,calendar,calendar_set,رویداد برای پنج تا شش بعدازظهر در بیست و هشت اسفند ذخیره کن,lists_remove,0.231,0.0584,False
+8302,fa-IR,calendar,calendar_remove,جلسه دوشنبه‌ی بعد را حذف کن,calendar_remove,0.9839,0.9839,True
+8308,fa-IR,news,news_query,تظاهرات دیروز ظهر در میدان آزادی راجع به چه بود,social_post,0.3099,0.1068,False
+8336,fa-IR,calendar,calendar_query,صبحانه ی دوم من با مارال چه زمانی هست,datetime_query,0.2328,0.0153,False
+8343,fa-IR,datetime,datetime_query,ایا چهارشنبه است,email_sendemail,0.4306,0.0033,False
+8345,fa-IR,calendar,calendar_set,به من بگو جلسه چه زمانی برگزار میشود,datetime_query,0.9861,0.0003,False
+8347,fa-IR,calendar,calendar_query,چه در سیزدهم آذر در جریان است,weather_query,0.8357,0.0014,False
+8358,fa-IR,calendar,calendar_set,این مورد را به من یادآوری کن,qa_factoid,0.4233,0.0212,False
+8366,fa-IR,calendar,calendar_set,تاریخ بیست و هشت اسفند یک قرار تکراری برای تولد ماهان بساز,cooking_recipe,0.8872,0.0001,False
+8387,fa-IR,calendar,calendar_set,برای شستن لباس‌ها در ساعت هشت شب یادآور بذار,cooking_recipe,0.6097,0.0193,False
+8388,fa-IR,calendar,calendar_set,می‌خواهم در ساعت هشت شب لباس‌های خود را بشویم یادآور ایجاد کن,lists_remove,0.482,0.0127,False
+8390,fa-IR,calendar,calendar_set,جلسه من را یادآوری کن,calendar_remove,0.8806,0.0042,False
+8394,fa-IR,calendar,calendar_set,هر روز ظهر یک یادآوری برای مصرف دارو تنظیم کن,recommendation_events,0.9897,0.0025,False
+8404,fa-IR,calendar,calendar_query,من میخوام در مورد این رویداد بیشتر بدونم,qa_factoid,0.3096,0.028,False
+8409,fa-IR,calendar,calendar_remove,قرار شام من برای فردا را حذف کن,cooking_recipe,0.6824,0.2902,False
+8410,fa-IR,calendar,calendar_remove,رویداد شام من برای دوشنبه حذف شود,qa_factoid,0.4549,0.0285,False
+8413,fa-IR,calendar,calendar_set,لطفا به من هشدار بده,qa_factoid,0.9979,0.0001,False
+8414,fa-IR,calendar,calendar_set,به من یادآوری کن که روز جمعه ساعت پنج بعدازظهر با داوود به شام بروم,email_sendemail,0.9977,0.0008,False
+8415,fa-IR,calendar,calendar_set,یک جلسه در اداره با اکبر برای ساعت سه بعدازظهر در روز سه شنبه اضافه کن,calendar_remove,0.8708,0.0263,False
+8426,fa-IR,calendar,calendar_query,از دیروز تا امروز صبح رویدادها را به من بگو,news_query,0.2414,0.0314,False
+8430,fa-IR,calendar,calendar_remove,تمام قرارهای من را لغو کن,lists_remove,0.8825,0.0092,False
+8431,fa-IR,calendar,calendar_remove,تمام رویدادهای برنامه ریزی شده ی من را حذف کن,lists_remove,0.6336,0.1669,False
+8436,fa-IR,calendar,calendar_set,لطفا برای هر چهارشنبه در اسفند ماه یک یادآور برای جلسه ی نهار ساعت دوازده ظهر تنظیم کن,calendar_set,0.8274,0.8274,True
+8442,fa-IR,calendar,calendar_set,لطفا تقویم من رو با این رویداد تنظیم کن,qa_factoid,0.5524,0.0002,False
+8449,fa-IR,calendar,calendar_set,یک یادآوری برای تولد دخترم تنظیم کن,calendar_remove,0.3263,0.0173,False
+8453,fa-IR,calendar,calendar_set,لطفا رویداد را در تقویم من قرار بده و آن را به عنوان یک رویداد تکرار شونده علامت بزن,qa_factoid,0.9982,0.0001,False
+8460,fa-IR,calendar,calendar_query,رویدادهای من را به من نشان بده,social_post,0.9507,0.0005,False
+8461,fa-IR,calendar,calendar_query,برنامه های من برای اردیبهشت ماه چیست,recommendation_events,0.9804,0.0,False
+8466,fa-IR,calendar,calendar_set,من چهارشنبه نه صبح جلسه دارم یک یادآوری برای من ارسال کن,email_sendemail,0.6515,0.0095,False
+8469,fa-IR,calendar,calendar_query,در تقویم من برای امروز چه کارهایی برنامه ریزی شده,qa_factoid,0.9952,0.0001,False
+8474,fa-IR,calendar,calendar_set,فردا ساعت دو بعدازظهر جشن تولد لیلی نظام آباد رو در تقویم یادداشت کن,qa_factoid,0.6151,0.0019,False
+8494,fa-IR,calendar,calendar_query,برنامه امروز من چگونه است,recommendation_events,0.9834,0.0,False
+8496,fa-IR,calendar,calendar_query,جلسات فردا صبح من را بگو,calendar_remove,0.1816,0.0372,False
+8498,fa-IR,calendar,calendar_query,بیا تمام یادآورهای معلق را مرور کنیم,lists_remove,0.3061,0.0366,False
+8516,fa-IR,calendar,calendar_remove,مورد تقویم را حذف کن,qa_factoid,1.0,0.0,False
+8520,fa-IR,calendar,calendar_set,به برنامه calendar رویداد اضافه کن,calendar_set,0.966,0.966,True
+8525,fa-IR,calendar,calendar_query,یادآورهای جلسه از ساعت سه تا پنج,news_query,0.9528,0.0022,False
+8535,fa-IR,calendar,calendar_set,آیا وقت دندانپزشکی را که دو ساعت دیگر دارم به من یادآوری می‌کنی,qa_factoid,0.9965,0.0001,False
+8539,fa-IR,calendar,calendar_set,به من یادآوری کن در مورد,email_sendemail,0.934,0.0012,False
+8541,fa-IR,calendar,calendar_set,لطفا به من یادآوری کن,qa_factoid,0.998,0.0001,False
+8553,fa-IR,calendar,calendar_set,یک جلسه با روزبه ساعت نه صبح به تقویم من اضافه کن,qa_factoid,1.0,0.0,False
+8559,fa-IR,calendar,calendar_query,آیا برای من هیچ رویداد برنامه ریزی شده ای برای امروز وجود دارد,qa_factoid,0.4751,0.0082,False
+8562,fa-IR,calendar,calendar_remove,جلسه من برای ساعت دو بعدازظهر امروز را حذف کن,calendar_remove,0.9997,0.9997,True
+8568,fa-IR,calendar,calendar_set,آیا یک دعوتنامه تقویمی برای مهسا و کسری برای صبحانه‌ی دیرهنگام در ساعت یازده صبح روز سه شنبه ارسال می‌کنی,qa_factoid,0.9957,0.0002,False
+8570,fa-IR,calendar,calendar_set,آیا علامت می‌گذاری که فردا ساعت دو بعدازظهر برای یک رویداد مشغول هستم,iot_hue_lightoff,0.3763,0.0233,False
+8579,fa-IR,calendar,calendar_query,چه اطلاعاتی باید برای جلسات امروزم بدانم,lists_query,0.5324,0.0452,False
+8585,fa-IR,calendar,calendar_set,به من یادآوری کن که من در سی‌ام جشن تولد دارم,email_sendemail,0.9609,0.001,False
+8598,fa-IR,calendar,calendar_set,به من یادآوری کن که در ساعت شش بعدازظهر از فرودگاه محمد را بردارم,weather_query,0.4722,0.0114,False
+8618,fa-IR,calendar,calendar_set,به من یادآوری کن که هر سه شنبه پنج‌شنبه و شنبه گیاهانم را آبیاری کنم,email_sendemail,1.0,0.0,False
+8631,fa-IR,calendar,calendar_remove,آن را از تقویم من پاک کن,qa_factoid,1.0,0.0,False
+8635,fa-IR,calendar,calendar_set,سه هفته قبل از روز شکرگزاری میتونی به من یادآوری کنی که بوقلمون سفارش بدهم,recommendation_events,0.8508,0.0028,False
+8640,fa-IR,calendar,calendar_set,می‌خواهم برای رویداد فردا در کتابخانه روی تقویمم یادداشت کنم,qa_factoid,0.8149,0.0001,False
+8642,fa-IR,calendar,calendar_set,تماس کنفرانسی در ساعت چهار بعدازظهر را به یادآورهای امروز من اضافه کن,calendar_remove,0.2631,0.0324,False
+8651,fa-IR,calendar,calendar_set,رویداد تقویم را به من یادآوری کن,qa_factoid,0.9953,0.0,False
+8653,fa-IR,calendar,calendar_set,رویداد تقویم را به من یادآوری کن,qa_factoid,0.9953,0.0,False
+8666,fa-IR,calendar,calendar_remove,تمام رویدادها را از تقویم من پاک کن,qa_factoid,0.9784,0.0006,False
+8667,fa-IR,calendar,calendar_query,در سه ماه گذشته چند جلسه با آقای شرفی داشتم,social_post,0.9421,0.002,False
+8670,fa-IR,calendar,calendar_remove,رویدادها را از تقویم حذف کن,qa_factoid,0.883,0.0255,False
+8672,fa-IR,calendar,calendar_query,کنسرت شجریان کجاست,qa_factoid,0.928,0.0024,False
+8674,fa-IR,calendar,calendar_query,جلسه من ساعت نه صبح کجا تشکیل میشود,calendar_remove,0.2117,0.149,False
+8679,fa-IR,calendar,calendar_query,آیا امروز شب یلدا است,weather_query,0.9995,0.0,False
+8681,fa-IR,calendar,calendar_query,ایا تولد کسی هست,qa_factoid,1.0,0.0,False
+8694,fa-IR,calendar,calendar_set,این رویداد شامل بنیامین و سمیه خواهد بود,cooking_recipe,0.7934,0.007,False
+8730,fa-IR,calendar,calendar_set,برای جلسه من در پنج فروردین یک یادآور در تقویم من تنظیم کن,qa_factoid,0.8462,0.007,False
+8732,fa-IR,calendar,calendar_remove,تمام قرارها را حذف کن,qa_factoid,0.8512,0.0168,False
+8762,fa-IR,calendar,calendar_query,برنامه‌ام برای اواخر بعدازظهر امروز را به من بگو,play_podcasts,0.2452,0.0142,False
+8765,fa-IR,calendar,calendar_set,شام من را در رستوران سیرو برای امروز ساعت نه در تقویم قرار بده,weather_query,0.4916,0.002,False
+8766,fa-IR,calendar,calendar_query,آیا من در روز شنبه پنجم فروردین جلسه‌ای دارم,iot_hue_lightoff,0.4626,0.0306,False
+8767,fa-IR,calendar,calendar_query,آیا تولد آرزو بیست و سوم فروردین است,qa_factoid,0.2444,0.0062,False
+8769,fa-IR,calendar,calendar_remove,رویداد آینده را حذف کن,qa_factoid,0.9754,0.0027,False
+8771,fa-IR,calendar,calendar_remove,رفتن به خرید که برای سوم فروردین برنامه ریزی کرده‌ام را حذف کن,calendar_remove,0.751,0.751,True
+8774,fa-IR,calendar,calendar_query,برنامه من برای شانزدهم تیر کاملا باز است,recommendation_events,1.0,0.0,False
+8781,fa-IR,calendar,calendar_query,آیا ساعت چهار بعدازظهر آزادم,weather_query,0.7639,0.0016,False
+8782,fa-IR,calendar,calendar_query,آیا امروز بعدازظهر جلسه‌ای دارم,iot_hue_lightoff,0.4961,0.0034,False
+8791,fa-IR,calendar,calendar_query,اطلاعات بیشتر در مورد این رویداد,social_post,0.4406,0.0113,False
+8795,fa-IR,calendar,calendar_query,یادآورهای در انتظار را نمایش بده,lists_remove,0.808,0.0027,False
+8822,fa-IR,recommendation,recommendation_events,اطلاعات رویدادهای پیش‌رو,news_query,0.6192,0.0505,False
+8824,fa-IR,calendar,calendar_query,برای ساعت دو بعدازظهر نوزدهم چه برنامه‌ای دارم,calendar_set,0.8224,0.0586,False
+8825,fa-IR,calendar,calendar_set,برای من یادآوری از جلسه من با کامران در جمعه آینده ارسال کن,email_sendemail,0.9676,0.0006,False
+8828,fa-IR,calendar,calendar_query,آیا رویداد تقویم درست است,qa_factoid,1.0,0.0,False
+8846,fa-IR,calendar,calendar_query,آیا برای سیزدهم تیر امسال چیزی تنظیم کرده‌ام,cooking_recipe,0.3888,0.0048,False
+8853,fa-IR,calendar,calendar_remove,فعالیت بعدی من را پاک کن,qa_factoid,1.0,0.0,False
+8856,fa-IR,calendar,calendar_remove,همه رویدادها در تقویم را حذف کن,qa_factoid,0.7158,0.0649,False
+8857,fa-IR,calendar,calendar_set,جلسه غریب‌الوقوع با پرویز را یادآوری کن,social_post,0.5554,0.0053,False
+8868,fa-IR,calendar,calendar_set,به من یادآوری کن که هر سه شنبه ساعت ده صبح با مادرم تماس بگیرم,email_sendemail,0.7596,0.0377,False
+8880,fa-IR,calendar,calendar_set,یک یادآوری در مورد جلسه فردا در ساعت نه صبح تنظیم کن,calendar_remove,0.3094,0.2794,False
+8888,fa-IR,calendar,calendar_remove,آن را پاک کن,qa_factoid,0.9939,0.0029,False
+8900,fa-IR,calendar,calendar_set,یادآوری تکرار شونده برای هر روز یکشنبه تنظیم کن,calendar_set,0.1554,0.1554,True
+8904,fa-IR,calendar,calendar_query,اطلاعات رویدادهای اخیر,news_query,0.9576,0.0015,False
+8906,fa-IR,calendar,calendar_set,رویداد را در تقویم همراه با سایر رویدادها تنظیم کن,iot_hue_lightoff,0.822,0.0008,False
+8907,fa-IR,calendar,calendar_set,رویداد با سایرین را در تقویم ذکر کن,qa_factoid,0.9257,0.0001,False
+8912,fa-IR,calendar,calendar_query,رویدادهای تقویم امروز بعد از ساعت شش غروب را به من بده,qa_factoid,0.9861,0.0001,False
+8914,fa-IR,calendar,calendar_query,قرار من در پانزدهم فروردین چه ساعتی است,weather_query,0.9912,0.0001,False
+8916,fa-IR,calendar,calendar_query,برنامه من برای امروز چیست,recommendation_events,0.996,0.0,False
+8925,fa-IR,calendar,calendar_remove,تمام رویدادهای تقویم من را حذف کن,qa_factoid,0.9972,0.0001,False
+8939,fa-IR,calendar,calendar_set,جشن سیسمونی دختر حدیثه,qa_factoid,0.538,0.0069,False
+8948,fa-IR,calendar,calendar_set,رویداد ملاقات با احمد را اضافه کن,social_post,0.8264,0.0001,False
+8949,fa-IR,calendar,calendar_remove,لطفا باقیمانده را حذف کن,qa_factoid,1.0,0.0,False
+8958,fa-IR,calendar,calendar_query,زمان جلسه را باز کن,calendar_remove,0.9843,0.0037,False
+8960,fa-IR,calendar,calendar_set,از شما می‌خواهم که در عصر در مورد جلسه آینده هشدار بدهی,qa_factoid,0.1517,0.0354,False
+8967,fa-IR,calendar,calendar_set,دو روز قبل از تولد همسرم به من یادآوری کن,calendar_remove,0.6278,0.0125,False
+8968,fa-IR,calendar,calendar_set,این هفته چیزی برای یادآوری به من بگو,lists_remove,0.2626,0.0131,False
+8975,fa-IR,calendar,calendar_query,چه جلسه‌ای برای امروز برنامه‌ریزی شده است,cooking_recipe,0.2036,0.0581,False
+8977,fa-IR,calendar,calendar_set,یادآوری فقط در مورد قبض‌هایی که منتظر پرداخت هستند تنظیم کن,qa_factoid,0.6302,0.0138,False
+8978,fa-IR,calendar,calendar_set,جلسات مهم با رئیسم در طول هفته را به من اطلاع بده,email_sendemail,0.2393,0.0261,False
+8985,fa-IR,calendar,calendar_remove,بسیار خب گوگل تولد آرش را از تقویم حذف کن,qa_factoid,0.9917,0.0038,False
+8990,fa-IR,calendar,calendar_set,از دستیار شخصی خود درباره برگزاری یک رویداد بپرسید,qa_factoid,0.9322,0.0012,False
+8992,fa-IR,calendar,calendar_set,جلسه‌ها را نشان بده,play_radio,0.4361,0.0037,False
+9009,fa-IR,calendar,calendar_remove,رویداد سالگرد ازدواج را از تقویم من حذف کن,qa_factoid,0.9933,0.0012,False
+9011,fa-IR,calendar,calendar_query,آیا جشن مهرگان در چهاردهم این ماه درست است,weather_query,0.9593,0.0005,False
+9014,fa-IR,calendar,calendar_set,لطفاً یک اعلامیه در مورد جلسه با همکارم در اول آبان تنظیم کن,email_sendemail,0.7978,0.007,False
+9015,fa-IR,calendar,calendar_remove,تمام رویدادهای تقویم من را پاک کن,qa_factoid,0.9876,0.0001,False
+9019,fa-IR,calendar,calendar_query,جلسات از سی خرداد تا چهار تیر,calendar_remove,0.142,0.0905,False
+9030,fa-IR,calendar,calendar_remove,نوبت پزشکی امروز من را از تقویم حذف کن,qa_factoid,0.9986,0.0001,False
+9035,fa-IR,calendar,calendar_query,یادآور ازدواج علی,qa_factoid,0.9702,0.0009,False
+9043,fa-IR,calendar,calendar_set,رویدادهای پیش رو در تقویم,qa_factoid,0.7772,0.0022,False
+9053,fa-IR,calendar,calendar_set,یک یادآور رویداد جلسه با مینا در روز سه شنبه تنظیم کن,calendar_remove,0.2445,0.0287,False
+9054,fa-IR,calendar,calendar_set,یادآوری رویداد مونا سه شنبه,email_sendemail,0.826,0.0022,False
+9059,fa-IR,calendar,calendar_set,در زمان رویداد به من هشدار بده,qa_factoid,0.8697,0.0052,False
+9061,fa-IR,calendar,calendar_query,چه اطلاعاتی در مورد یادآورها دارم,recommendation_events,0.2047,0.023,False
+9062,fa-IR,calendar,calendar_set,می‌توانی تولد لیلا را در یکم تیر قرار دهی,calendar_remove,0.8467,0.0013,False
+9074,fa-IR,calendar,calendar_remove,لطفا آن رویداد را حذف کن,qa_factoid,0.9336,0.011,False
+9088,fa-IR,calendar,calendar_remove,همه چیز رو از تقویمم پاک کن,qa_factoid,0.9599,0.005,False
+9095,fa-IR,calendar,calendar_remove,شام امشب با شراره را حذف کن,calendar_remove,0.8539,0.8539,True
+9103,fa-IR,calendar,calendar_query,ایا در تقویم من برای امروز بعد از ظهر جلسه ای هست,qa_factoid,0.9984,0.0,False
+9107,fa-IR,calendar,calendar_query,کنسرت حمید پناهی در سیزدهم خرداد چه ساعتی آغاز می‌شود,weather_query,0.9847,0.0002,False
+9110,fa-IR,calendar,calendar_set,نمایشگاه تاریخ بیست و پنج فروردین هزار و سیصد و نود و شش در را در تاریخ مربوطه یادداشت کن,datetime_query,0.8989,0.0051,False
+9112,fa-IR,calendar,calendar_set,این را در تقویم من اضافه کن,qa_factoid,0.9922,0.0003,False
+9114,fa-IR,calendar,calendar_set,یک یادآوری مکرر برای این رویداد تقویم ایجاد کن,iot_hue_lightoff,0.5174,0.0006,False
+9116,fa-IR,calendar,calendar_query,می‌توانی جلسه من را دوباره برنامه‌ریزی کنی,qa_factoid,0.6481,0.0008,False
+9121,fa-IR,calendar,calendar_query,چه روزهایی رزرو کرده‌ام,qa_factoid,0.4883,0.0139,False
+9124,fa-IR,calendar,calendar_set,رویدادهای هفته‌ی آینده‌ی تقویم کاری من رو نشون بده,qa_factoid,0.9987,0.0,False
+9137,fa-IR,calendar,calendar_query,بین نهار و شام کافه ایتالیایی چه زمانی تعطیل میکند,qa_factoid,0.9554,0.0021,False
+9138,fa-IR,qa,qa_factoid,سوپر باول چه زمانی رسما شروع می شود,datetime_query,0.5046,0.1449,False
+9149,fa-IR,calendar,calendar_query,مهمانی شام رسمی قرار است چه ساعتی آغاز شود,weather_query,0.3993,0.018,False
+9153,fa-IR,calendar,calendar_set,شام با مریم در روز شنبه را به تقویم من اضافه کن,qa_factoid,0.9762,0.0,False
+9155,fa-IR,calendar,calendar_set,لطفا جمعه نوبت دندانپزشکی در ساعت سه بگذار,qa_factoid,0.5882,0.0142,False
+9156,fa-IR,calendar,calendar_set,یادآوری کن,qa_factoid,0.9985,0.0,False
+9175,fa-IR,calendar,calendar_query,آیا تقویم من در ده دقیقه‌ی گذشته به روز شده است,qa_factoid,0.9923,0.0,False
+9182,fa-IR,calendar,calendar_remove,برنامه‌هایم برای بردن والدینم از فرودگاه را لغو کن,recommendation_events,0.9824,0.0008,False
+9187,fa-IR,calendar,calendar_set,در مورد مشتریانی که در جلسه شرکت خواهند کرد تحقیق کن,qa_factoid,0.9958,0.0002,False
+9193,fa-IR,calendar,calendar_set,لطفا این تاریخ را برای تکرار تنظیم کن,calendar_remove,0.9722,0.0088,False
+9194,fa-IR,calendar,calendar_remove,لطفا این رویداد را از تقویم من حذف کن,qa_factoid,0.9987,0.0006,False
+9197,fa-IR,calendar,calendar_query,من برای این هفته چه برنامه‌ای دارم,cooking_recipe,0.92,0.0012,False
+9198,fa-IR,calendar,calendar_query,لطفا یادآوری‌های من را بررسی کن,recommendation_events,0.852,0.0012,False
+9202,fa-IR,play,play_radio,شبکه رادیویی من را پخش کن,play_radio,1.0,1.0,True
+9204,fa-IR,play,play_radio,رادیو جوان را روشن کن,play_radio,1.0,1.0,True
+9212,fa-IR,play,play_radio,یکی رادیو را روشن کنه,play_radio,0.9991,0.9991,True
+9216,fa-IR,play,play_radio,ایستگاه رادیویی من را روشن کن,play_radio,0.9739,0.9739,True
+9225,fa-IR,play,play_radio,میتونی رادیو روشن کنی,play_radio,0.9998,0.9998,True
+9233,fa-IR,play,play_radio,pandora رو باز کن,qa_factoid,0.7659,0.0033,False
+9236,fa-IR,play,play_radio,به کانال صد و شش نقطه نه برو,qa_factoid,0.9855,0.0002,False
+9237,fa-IR,play,play_radio,رادیو را روشن کن و کانال رادیو جوان را پخش کن,play_radio,1.0,1.0,True
+9250,fa-IR,play,play_radio,میخوام رادیو گوش بدم,play_radio,1.0,1.0,True
+9254,fa-IR,play,play_radio,لطفا رادیو راه روی موج نهصد و سی و هشت اف. ام. رو باز کن,play_radio,0.9993,0.9993,True
+9263,fa-IR,play,play_radio,نرم افزار رادیو را باز کن,play_radio,0.5443,0.5443,True
+9269,fa-IR,play,play_radio,رادیو راه را روشن کن,play_radio,1.0,1.0,True
+9270,fa-IR,play,play_radio,فقط رادیو جوان پخش کن,play_radio,0.9647,0.9647,True
+9275,fa-IR,play,play_radio,فقط رادیو جوان باید از رادیو پخش بشه,play_radio,0.9901,0.9901,True
+9284,fa-IR,play,play_radio,موج اف. ام. را روشن کن,iot_hue_lightoff,0.9502,0.0382,False
+9291,fa-IR,play,play_radio,پخش کن,social_post,0.9386,0.0008,False
+9301,fa-IR,play,play_radio,خاطر خواه را پخش کن,play_music,0.9966,0.0009,False
+9303,fa-IR,play,play_radio,رادیو خبر را روشن کن,play_radio,0.9984,0.9984,True
+9305,fa-IR,play,play_radio,شنونده رادیو راه باش,play_radio,0.9999,0.9999,True
+9316,fa-IR,play,play_radio,برام رادیو جوان پخش کن,play_radio,0.7491,0.7491,True
+9317,fa-IR,play,play_radio,الان رادیو روشن کن,play_radio,1.0,1.0,True
+9321,fa-IR,play,play_radio,رادیو را الان روشن کن,play_radio,0.9997,0.9997,True
+9323,fa-IR,play,play_radio,پاندورا را باز کن,cooking_recipe,0.1972,0.0669,False
+9326,fa-IR,play,play_radio,لطفا الان رادیو ورزش پخش کن,play_radio,0.9995,0.9995,True
+9327,fa-IR,play,play_radio,لطفا موج ای. ام. رادیو رو همین الان اسکن کن,iot_hue_lightoff,0.7676,0.0288,False
+9330,fa-IR,play,play_radio,پخش کن,social_post,0.9386,0.0008,False
+9341,fa-IR,play,play_radio,الکسا شبکه رادیویی را عوض کن,qa_factoid,0.6258,0.0196,False
+9352,fa-IR,play,play_radio,لطفا رادیو روشن کن,play_radio,0.9997,0.9997,True
+9353,fa-IR,play,play_radio,چند تا آهنگ در رادیو بزار,play_music,0.9964,0.002,False
+9358,fa-IR,play,play_radio,کانال رادیویی رادیو جوان را روشن کن,play_radio,0.9632,0.9632,True
+9361,fa-IR,play,play_radio,به رادیو گوش کن,play_radio,0.9999,0.9999,True
+9362,fa-IR,play,play_radio,کانال های رادیویی,play_radio,0.9747,0.9747,True
+9363,fa-IR,play,play_radio,برتر ها را در رادیو پخش کن,play_radio,0.9818,0.9818,True
+9364,fa-IR,play,play_radio,برترین های موزیک را پخش کن,play_music,0.9993,0.0,False
+9380,fa-IR,play,play_radio,ازت میخوام به کانال رادیو راه بری,play_radio,0.8785,0.8785,True
+9384,fa-IR,play,play_radio,رادیو جوان روشن کن,play_radio,1.0,1.0,True
+9394,fa-IR,play,play_radio,سلام olly رادیو را روشن کن,play_radio,0.9997,0.9997,True
+9402,fa-IR,play,play_radio,ایستگاه رادیوی موج نهصد وهشتاد ونه رو باز کن,play_radio,0.9845,0.9845,True
+9406,fa-IR,play,play_radio,رادیو جوان را روشن کن,play_radio,1.0,1.0,True
+9408,fa-IR,play,play_radio,رادیو را روشن کن,play_radio,1.0,1.0,True
+9426,fa-IR,play,play_radio,من میخوام به ایستگاهی که آر اند بی پخش کند گوش بدم,play_music,0.6963,0.0043,False
+9438,fa-IR,play,play_radio,میتونی برام یک آهنگ رپ در رادیو پخش کنی,play_music,0.9751,0.0112,False
+9457,fa-IR,play,play_music,آهنگ نفرین را پخش کن,play_music,1.0,1.0,True
+9460,fa-IR,play,play_music,پاپ دهه شصت را پخش کن,play_music,0.9989,0.9989,True
+9471,fa-IR,play,play_radio,ایستگاه رادیویی کانتری را روشن کن,play_radio,0.8722,0.8722,True
+9494,fa-IR,play,play_radio,میشه لطفا آن ایستگاه رادیویی که آهنگ های پاپ پخش میکند را روشن کنید,play_radio,0.9979,0.9979,True
+9506,fa-IR,play,play_radio,olly بیا رادیو جوان گوش بدیم,play_radio,0.9963,0.9963,True
+9507,fa-IR,play,play_radio,لطفا ایستگاه رادیویی پیدا کن که در حال حاضر امیر پخش کنه,play_radio,0.9999,0.9999,True
+9519,fa-IR,play,play_radio,هر کانال آهنگ پاپ را در رادیو اف. ام. پخش کن,play_music,0.7375,0.0091,False
+9520,fa-IR,play,play_radio,آخرین پخش رادیویی دکترهوو رو پخش کن,play_radio,0.8951,0.8951,True
+9524,fa-IR,play,play_radio,برنامه را در رادیو خبر روشن کن,play_radio,0.9994,0.9994,True
+9528,fa-IR,play,play_radio,رادیو راه را از بلندگو پخش کن,play_radio,1.0,1.0,True
+9541,fa-IR,play,play_radio,آهنگ عشق را در رادیو پخش کن,play_radio,0.9992,0.9992,True
+9542,fa-IR,play,play_radio,اجازه بده آخرین اخبار را در رادیو گوش بدم,play_radio,0.8661,0.8661,True
+9545,fa-IR,play,play_radio,من میخوام شوی رنگارنگ را گوش بدم,iot_hue_lightoff,0.9996,0.0,False
+9554,fa-IR,play,play_radio,آهنگ عاشقانه از رادیو آوا پخش کن,play_music,0.9902,0.009,False
+9561,fa-IR,play,play_radio,رادیو خبر را در رادیو پخش کن,play_radio,1.0,1.0,True
+9562,fa-IR,play,play_radio,میشه لطفا این برنامه را برایم پخش کنی,play_music,0.6408,0.281,False
+9565,fa-IR,play,play_radio,کانال رادیویی را روشن کن که بدون وقفه آهنگ پخش کنه,play_radio,0.9999,0.9999,True
+9568,fa-IR,play,play_radio,مجموعه اجراهای زنده ابی را پخش کن,play_music,0.6038,0.0,False
+9569,fa-IR,play,play_radio,اوکی گوگل رادیو راه را پخش کن,play_music,0.9944,0.0054,False
+9577,fa-IR,play,play_radio,موج رادیو را به رادیو جوان تغییر بده,play_radio,0.9991,0.9991,True
+9591,fa-IR,play,play_radio,قصه شب را در رادیو جوان پخش کن,play_music,0.9872,0.0065,False
+9592,fa-IR,play,play_podcasts,فایل های صوتی را پیدا کن که شامل مسائل مردان باشد,play_podcasts,0.9978,0.9978,True
+9594,fa-IR,play,play_radio,آهنگ های رادیو آوا,play_podcasts,0.5701,0.0099,False
+9601,fa-IR,play,play_radio,رادیو جوان را روشن کن,play_radio,1.0,1.0,True
+9617,fa-IR,play,play_radio,برنامه ی صبحگاهی رادیو آوا رو پخش کن.,play_podcasts,0.7241,0.0058,False
+9619,fa-IR,play,play_radio,آهنگ سوغاتی هایده رو از رادیوی ماشین پخش کن,play_radio,0.5897,0.5897,True
+9620,fa-IR,play,play_radio,میتونم رادیو جوان را در رادیو و در اتاق خوابم گوش بدم,play_radio,1.0,1.0,True
+9629,fa-IR,play,play_radio,میشه لطفا برای گوش دادن به رادیو به من کمک کنی,play_radio,0.9997,0.9997,True
+9630,fa-IR,play,play_radio,برای من رادیو خبر پخش کن,play_radio,1.0,1.0,True
+9632,fa-IR,play,play_radio,رادیو را روشن کن لطفا,play_radio,1.0,1.0,True
+9637,fa-IR,play,play_radio,پلی لیستم تو رادیو جوان رو پخش کن.,play_music,0.9973,0.0019,False
+9640,fa-IR,play,play_radio,اسپاتیفای و ورزش امروزم رو باز کن,iot_hue_lightoff,0.678,0.0108,False
+9651,fa-IR,play,play_radio,netflix را در p. s. four من پخش کن,play_music,0.7467,0.0118,False
+9656,fa-IR,play,play_music,از طریق اسپیکر های خودت برای من آهنگ ریتمیک پخش کن,play_music,0.9969,0.9969,True
+9706,fa-IR,play,play_music,ترس را پخش کن,play_music,0.9991,0.9991,True
+9707,fa-IR,play,play_music,مدیا را باز کن و ترس را پخش کن,play_music,0.9889,0.9889,True
+9738,fa-IR,play,play_music,میشه لطفا آهنگ کلاسیک برای من پخش کنی,play_music,0.9999,0.9999,True
+9793,fa-IR,play,play_music,آهنگ های عاشقانه پخش کن,play_music,0.8823,0.8823,True
+9795,fa-IR,play,play_music,عاشقانه را از ادامه پخش کن,play_music,0.9533,0.9533,True
+9912,fa-IR,cooking,cooking_recipe,اوولی چه مدت باید تخم‌مرغ‌ها را بجوشانم,cooking_recipe,0.8339,0.8339,True
+9918,fa-IR,cooking,cooking_recipe,چطوری پیتزا درست کنم,cooking_recipe,0.9999,0.9999,True
+9923,fa-IR,cooking,cooking_recipe,چقدر باید یک تخم مرغ را بجوشانم,cooking_recipe,1.0,1.0,True
+9924,fa-IR,cooking,cooking_recipe,دستور پخت,qa_factoid,0.9999,0.0,False
+9930,fa-IR,cooking,cooking_recipe,چقدر باید تخم مرغ را بجوشانم,cooking_recipe,0.9999,0.9999,True
+9931,fa-IR,cooking,cooking_recipe,اوولی چقدر باید تخم مرغ را بجوشانم,cooking_recipe,0.9998,0.9998,True
+9940,fa-IR,cooking,cooking_recipe,برای من یک دستور پخت کیک شکلاتی پیدا کن,cooking_recipe,1.0,1.0,True
+9941,fa-IR,cooking,cooking_recipe,چطور مرغ ترش بپزم,qa_factoid,0.3863,0.2418,False
+9942,fa-IR,cooking,cooking_recipe,همه چیزهایی در کیک مخملی قرمز می‌ریزند چیست,cooking_recipe,0.9952,0.9952,True
+9943,fa-IR,cooking,cooking_recipe,چقدر طول می‌کشد تا لازانیا سبزیجات پخته شود,cooking_recipe,0.9934,0.9934,True
+9952,fa-IR,cooking,cooking_recipe,یک آموزش آشپزی به من بده,cooking_recipe,0.9999,0.9999,True
+9955,fa-IR,cooking,cooking_recipe,یک ویدئو در مورد پخت مرغ سرخ شده به من نشان بده,cooking_recipe,0.9996,0.9996,True
+9956,fa-IR,cooking,cooking_recipe,به جای کره از چی میتونم استفاده کنم,qa_factoid,0.9784,0.0161,False
+9961,fa-IR,cooking,cooking_recipe,بهترین دمای فر برای برشته کردن سیب زمینی چیست,cooking_recipe,0.999,0.999,True
+9962,fa-IR,cooking,cooking_recipe,بهترین روش پخت ماکارونی چیست,cooking_recipe,0.9263,0.9263,True
+9964,fa-IR,cooking,cooking_recipe,دانش در مورد فرآوری مواد غذایی,cooking_recipe,0.9896,0.9896,True
+9966,fa-IR,cooking,cooking_recipe,راحت ترین راه پخت پاستا چیست,qa_factoid,0.9462,0.0258,False
+9969,fa-IR,cooking,cooking_recipe,به جای زعفران از چه ماده‌ای می‌توان استفاده کرد,qa_factoid,0.9992,0.0006,False
+9971,fa-IR,cooking,cooking_recipe,چه چیزی گرما را بهتر هدایت می‌کند دیگ‌های با کفی مسی یا چدنی,weather_query,0.9734,0.0013,False
+9976,fa-IR,cooking,cooking_recipe,سلام ربات فهرستی از ترکیبات فسنجان را به من بده,cooking_recipe,0.9944,0.9944,True
+9977,fa-IR,cooking,cooking_recipe,ویدئوهای یوتیوب درمورد آموزش غذاهای ایتالیایی,play_podcasts,0.9668,0.0124,False
+9979,fa-IR,cooking,cooking_recipe,برای من کمی جو بپز,cooking_recipe,0.9999,0.9999,True
+9980,fa-IR,cooking,cooking_recipe,منوی امروز هر چه هست مقداری سبزیجات آبپز را هم به آن اضافه کن,cooking_recipe,0.9993,0.9993,True
+9986,fa-IR,cooking,cooking_recipe,جوشیدن,qa_factoid,0.9979,0.0,False
+9994,fa-IR,cooking,cooking_recipe,می‌توانی دستور دیزی را بگویی,qa_factoid,0.7833,0.1453,False
+10016,fa-IR,cooking,cooking_recipe,دستور ساده ی پخت سبزی پلو ماهی عید نوروز,cooking_recipe,0.999,0.999,True
+10019,fa-IR,cooking,cooking_recipe,لطفا بهم بگو چطور کوکی جو دوسر درست کنم,cooking_recipe,1.0,1.0,True
+10023,fa-IR,cooking,cooking_recipe,برای درست کردن کباب کوبیده به چه چیزی نیاز دارم,cooking_recipe,1.0,1.0,True
+10027,fa-IR,cooking,cooking_recipe,دستو‌العمل درست کردن غذا,cooking_recipe,1.0,1.0,True
+10031,fa-IR,cooking,cooking_recipe,من به یک دستور غذا نیاز دارم که از مواد موجود در فهرست خرید من باشد,cooking_recipe,1.0,1.0,True
+10038,fa-IR,cooking,cooking_recipe,من به ایده‌های خوب برای آشپزی نیاز دارم,cooking_recipe,0.9973,0.9973,True
+10045,fa-IR,cooking,cooking_recipe,طرز تهیه ی آش رشته,cooking_recipe,1.0,1.0,True
+10048,fa-IR,cooking,cooking_recipe,چگونه بوقلمون درست کنم,cooking_recipe,0.9963,0.9963,True
+10049,fa-IR,cooking,cooking_recipe,به من بگو چگونه یک ساندویج فلافل درست کنم,cooking_recipe,0.9997,0.9997,True
+10053,fa-IR,cooking,cooking_recipe,چطور پیتزا درست کنم,cooking_recipe,0.9997,0.9997,True
+10055,fa-IR,cooking,cooking_recipe,دستور پخت مرغ سرخ شده چیست,cooking_recipe,0.9999,0.9999,True
+10061,fa-IR,cooking,cooking_recipe,شام چی درست کنم,cooking_recipe,0.9946,0.9946,True
+10072,fa-IR,cooking,cooking_recipe,مرغ چه مدت باید در فر بماند,qa_factoid,0.7673,0.0067,False
+10076,fa-IR,cooking,cooking_recipe,آیا می‌توانید جوش شیرین را جایگزین بیکینگ پودر کنید,cooking_recipe,0.9997,0.9997,True
+10077,fa-IR,cooking,cooking_recipe,دستور پخت برای شام امشب پیدا کن,cooking_recipe,0.8093,0.8093,True
+10078,fa-IR,cooking,cooking_recipe,برای شام چی بپزم,cooking_recipe,0.9993,0.9993,True
+10080,fa-IR,cooking,cooking_recipe,بیا با هم کوفته بپزیم,cooking_recipe,1.0,1.0,True
+10081,fa-IR,cooking,cooking_recipe,به من بگو چطور کوفته تبریزی بپزم,cooking_recipe,0.9997,0.9997,True
+10090,fa-IR,cooking,cooking_recipe,آیا من می توانم یک دستور پخت برای ماهی تن داشته باشم,cooking_recipe,1.0,1.0,True
+10093,fa-IR,cooking,cooking_recipe,دیزی چگونه پخت می‌شود,cooking_recipe,0.8932,0.8932,True
+10097,fa-IR,cooking,cooking_recipe,دلم چیزبرگر میخواد,qa_factoid,0.9828,0.0017,False
+10099,fa-IR,cooking,cooking_recipe,آیا می‌دانی چگونه قورمه‌سبزی می‌پزند,cooking_recipe,0.9995,0.9995,True
+10100,fa-IR,cooking,cooking_recipe,دستور پخت خورشت قیمه را می‌دانی,qa_factoid,1.0,0.0,False
+10105,fa-IR,cooking,cooking_recipe,استیک با پخت متوسط چند دقیقه سرخ می شود,cooking_recipe,0.9997,0.9997,True
+10107,fa-IR,cooking,cooking_recipe,من به یک دستور پخت دیزی نیاز دارم,cooking_recipe,0.9998,0.9998,True
+10119,fa-IR,cooking,cooking_recipe,یک بوقلمون هفت کیلویی را چه مدت می‌پزید,cooking_recipe,1.0,1.0,True
+10125,fa-IR,cooking,cooking_recipe,تفاوت بین پختن و کباب کردن چیست,cooking_recipe,0.9988,0.9988,True
+10132,fa-IR,cooking,cooking_recipe,استیک با پخت متوسط چه مدت باید سرخ بشه,cooking_recipe,0.9996,0.9996,True
+10150,fa-IR,cooking,cooking_recipe,چطوری قورمه سبزی بپزم,cooking_recipe,1.0,1.0,True
+10156,fa-IR,cooking,cooking_recipe,من باید طرز تهیه فلفل شکم پر را بدانم,cooking_recipe,1.0,1.0,True
+10164,fa-IR,cooking,cooking_recipe,چه مدت ماکارونی را بپزم,qa_factoid,0.9962,0.0004,False
+10166,fa-IR,cooking,cooking_recipe,دستور پخت پای سیب را جستجو کن,qa_factoid,0.9769,0.02,False
+10171,fa-IR,cooking,cooking_recipe,دستور پخت سوپ مرغ چیست,cooking_recipe,1.0,1.0,True
+10177,fa-IR,cooking,cooking_recipe,چطور ماکارونی درست کنم,cooking_recipe,0.9979,0.9979,True
+10182,fa-IR,cooking,cooking_recipe,برای املت چندتا تخم مرغ نیازه,qa_factoid,0.9994,0.0004,False
+10197,fa-IR,cooking,cooking_recipe,بهترین دستور تهیه اسپاگتی را به من نشان بده,cooking_recipe,0.9984,0.9984,True
+10206,fa-IR,cooking,cooking_recipe,برنج چگونه تهیه می‌شود,cooking_recipe,1.0,1.0,True
+10213,fa-IR,cooking,cooking_recipe,فهرستی از دستور پخت‌های معروف بریانی,cooking_recipe,0.9943,0.9943,True
+10214,fa-IR,cooking,cooking_recipe,دستور غذاهایی که می‌توان در یک ساعت پخت,cooking_recipe,0.9974,0.9974,True
+10216,fa-IR,cooking,cooking_recipe,برای خرید ظروف پخت و پز برای مافین در وب جستجو کن,cooking_recipe,0.7593,0.7593,True
+10217,fa-IR,cooking,cooking_recipe,دستور پخت دیزی را در برنامه cookingforu پیدا کن,cooking_recipe,1.0,1.0,True
+10220,fa-IR,cooking,cooking_recipe,برای پختن یک کیک بزرگ به چه موادی نیاز دارم,cooking_recipe,0.9999,0.9999,True
+10224,fa-IR,cooking,cooking_recipe,باید سلیقه باشد,qa_factoid,0.9993,0.0,False
+10226,fa-IR,cooking,cooking_recipe,دستور پخت پاستا را به من بگو,transport_query,0.9107,0.0036,False
+10426,fa-IR,lists,lists_query,چه چیز دیگری در دفتر خاطرات روزانه از قلم افتاده,email_query,0.1041,0.0656,False
+10427,fa-IR,lists,lists_remove,لطفا لیست خرید من را پاک کن,lists_remove,0.9999,0.9999,True
+10430,fa-IR,lists,lists_remove,اولین مورد از لیست را حذف کن,lists_remove,0.9985,0.9985,True
+10433,fa-IR,lists,lists_remove,لیست کار من را حذف کن,lists_remove,0.9998,0.9998,True
+10440,fa-IR,lists,lists_query,رویداد خاصی در فهرست من هست,recommendation_events,0.5262,0.0005,False
+10442,fa-IR,lists,lists_remove,رویدادها از لیست من حذف کن,lists_remove,0.9804,0.9804,True
+10444,fa-IR,lists,lists_remove,مورد را حذف کن,email_sendemail,0.5051,0.0239,False
+10451,fa-IR,lists,lists_query,چه کاری امروز قرار است انجام دهم,cooking_recipe,0.7434,0.0243,False
+10455,fa-IR,lists,lists_query,چه در لیست کارهای انجام شدنی من است,lists_query,0.5111,0.5111,True
+10462,fa-IR,lists,lists_remove,از شر لیست خلاص شو,cooking_recipe,0.5203,0.0014,False
+10493,fa-IR,lists,lists_query,چه در فهرست کارهای انجام دادنی من است,lists_query,0.9511,0.9511,True
+10494,fa-IR,lists,lists_remove,مداد را از لوازم‌التحریر حذف کن,lists_remove,0.5766,0.5766,True
+10497,fa-IR,qa,qa_factoid,لیست هتل های پنج ستاره در تهران رو بهم بده,lists_query,0.9908,0.0001,False
+10508,fa-IR,lists,lists_remove,آیتم فهرست را حذف کن,lists_remove,0.9994,0.9994,True
+10512,fa-IR,lists,lists_query,همه چیزهایی که در درخواست من باقی‌مانده را فهرست کن,lists_remove,0.9584,0.0355,False
+10523,fa-IR,lists,lists_remove,از لیست پخش لیست آهنگ‌های قدیمی ایرانی را حذف کن,lists_remove,0.9963,0.9963,True
+10525,fa-IR,lists,lists_remove,پرداخت خودروی من را در تقویم من حذف کن,qa_factoid,0.9997,0.0001,False
+10527,fa-IR,lists,lists_remove,لیست را حذف کن,lists_remove,1.0,1.0,True
+10534,fa-IR,lists,lists_query,لیست امروز چطور است,weather_query,0.9046,0.0044,False
+10538,fa-IR,lists,lists_query,لطفا لیست خرید من را تکرار کن,recommendation_events,0.8853,0.0185,False
+10565,fa-IR,lists,lists_remove,تمام فهرست‌ها را حذف کن,lists_remove,1.0,1.0,True
+10568,fa-IR,lists,lists_remove,لیست موسیقی قدیمی را حذف کن,lists_remove,0.8344,0.8344,True
+10570,fa-IR,lists,lists_query,لیست کارهای انجام دادنی من را بررسی کن,lists_query,0.5171,0.5171,True
+10571,fa-IR,lists,lists_query,اندروید,iot_hue_lightoff,0.5642,0.0108,False
+10577,fa-IR,lists,lists_query,تمام لیست‌های من را بیاور,lists_query,0.9884,0.9884,True
+10579,fa-IR,lists,lists_remove,لیست مکان‌های من را دوباره تنظیم کن,lists_remove,0.9998,0.9998,True
+10588,fa-IR,lists,lists_query,محتویات لیست را به من نمایش بده,lists_remove,0.8932,0.0924,False
+10590,fa-IR,lists,lists_remove,ردیف دوم را از لیست حذف کن,lists_remove,0.8959,0.8959,True
+10655,fa-IR,lists,lists_remove,فهرستی به نام زمان مهمانی را حذف کن,calendar_remove,0.9781,0.0166,False
+10667,fa-IR,lists,lists_query,برنامه‌های لیست را بخوان,recommendation_events,0.5466,0.0013,False
+10673,fa-IR,lists,lists_remove,لطفا لیست زیر را حذف کن,lists_remove,1.0,1.0,True
+10674,fa-IR,lists,lists_remove,لیست فعلی را حذف کن,lists_remove,1.0,1.0,True
+10679,fa-IR,lists,lists_query,چه در لیست کارهای امروز من است,lists_query,0.773,0.773,True
+10684,fa-IR,lists,lists_query,من کدام لیست‌ها را سؤال کرده‌ام,lists_remove,0.6365,0.0243,False
+10687,fa-IR,lists,lists_remove,اگر رویدادی از نمایش وجود دارد آن را حذف کن,qa_factoid,0.9632,0.0024,False
+10696,fa-IR,lists,lists_remove,جایگزین کن,recommendation_events,0.1696,0.0386,False
+10699,fa-IR,lists,lists_query,در مورد موارد موجود در لیست به من اطلاع بده,lists_remove,0.9023,0.0817,False
+10718,fa-IR,lists,lists_remove,آیا می‌توانی این مورد را از لیست حذف کنی,lists_remove,0.9901,0.9901,True
+10731,fa-IR,lists,lists_query,آنچه در لیست من است را بخوان,email_query,0.9358,0.0224,False
+10743,fa-IR,lists,lists_remove,آن مورد را حذف کن,qa_factoid,0.9991,0.0003,False
+10753,fa-IR,lists,lists_query,چه چیزی را قبلاً در لیست لیست فروشگاه رفاه قرار داده بودم,lists_query,0.7266,0.7266,True
+10755,fa-IR,lists,lists_remove,لطفا لیست کارهای من را دور بینداز,lists_remove,0.9993,0.9993,True
+10756,fa-IR,lists,lists_remove,لیست خرید را پاک کن,lists_remove,0.9982,0.9982,True
+10757,fa-IR,lists,lists_query,چه اقلامی در لیست خرید من هستند,recommendation_events,0.9521,0.041,False
+10759,fa-IR,lists,lists_query,لیست من برای خرید را بخوان,lists_remove,0.5435,0.026,False
+10760,fa-IR,lists,lists_query,لیستی که دو روز پیش نوشتم را به من بگو,social_post,0.5901,0.0013,False
+10770,fa-IR,lists,lists_remove,غلات را از فهرست خرید من حذف کن,lists_remove,0.6206,0.6206,True
+10772,fa-IR,calendar,calendar_remove,وقت دندانپزشکی امروز را از تقویم من پاک کن,qa_factoid,0.9734,0.0007,False
+10776,fa-IR,lists,lists_query,آیا من یک لیست خواروبار آماده دارم,cooking_recipe,0.9042,0.0124,False
+10786,fa-IR,lists,lists_remove,لیست فعالیت‌های امروز من را پاک کن,lists_remove,0.9945,0.9945,True
+10790,fa-IR,lists,lists_remove,مورد را از لیست حذف کن,lists_remove,0.9483,0.9483,True
+10804,fa-IR,lists,lists_query,لیست خواروبار من را بخوان,social_post,0.9983,0.0,False
+10805,fa-IR,lists,lists_query,لطفا لیستی را که دارم به من نمایش بده,lists_remove,0.9834,0.0162,False
+10808,fa-IR,lists,lists_remove,آخرین مورد لیست شده را حذف کن,lists_remove,0.9983,0.9983,True
+10824,fa-IR,lists,lists_remove,اوولی لیست را پاک کن,lists_remove,0.5018,0.5018,True
+10825,fa-IR,lists,lists_remove,لیست را پاک کن,lists_remove,0.9997,0.9997,True
+10827,fa-IR,lists,lists_remove,لیست خواروبارها را حذف کن,lists_remove,0.9999,0.9999,True
+10828,fa-IR,lists,lists_remove,همه را پاک کن,qa_factoid,0.8886,0.0582,False
+10832,fa-IR,calendar,calendar_query,اولی من چه برنامه ریزی بعدی دارم,email_query,0.9915,0.0001,False
+10843,fa-IR,lists,lists_remove,شیر را از لیست خواروبار من حذف کن,lists_remove,0.9992,0.9992,True
+10846,fa-IR,lists,lists_remove,من در حال حاضر پول کافی برای خرید کنسول بازی نینتندو سوئیچ ندارم لطفاً آن را از لیست علاقمندی‌های آمازون من حذف کن,lists_remove,0.8177,0.8177,True
+10848,fa-IR,lists,lists_remove,این لیست را از دیگران حذف کن,lists_remove,1.0,1.0,True
+10851,fa-IR,lists,lists_query,لیست‌های موجود من چیست,lists_query,0.9805,0.9805,True
+10853,fa-IR,lists,lists_remove,آن را از آنجا بردار,lists_remove,0.3625,0.3625,True
+10855,fa-IR,lists,lists_query,باید لیست من را بررسی کنی,lists_remove,0.7233,0.1962,False
+10868,fa-IR,lists,lists_query,اوولی چیز دیگری در لیست باقی مانده است,lists_remove,1.0,0.0,False
+10887,fa-IR,lists,lists_remove,لیست من را حذف کن,lists_remove,1.0,1.0,True
+10895,fa-IR,lists,lists_remove,مورد را از لیست من حذف کن,lists_remove,0.9737,0.9737,True
+10909,fa-IR,lists,lists_query,اوولی لیست‌های من را برای من بخوان,recommendation_events,0.9663,0.0086,False
+10927,fa-IR,lists,lists_query,بگذار لیستم را بشنوم,iot_hue_lightoff,0.6798,0.0005,False
+10931,fa-IR,lists,lists_query,در لیست پخش من چیست,play_podcasts,0.7519,0.0207,False
+10936,fa-IR,lists,lists_remove,لطفا لیست آلبوم‌های مورد علاقه من را حذف کن,lists_remove,1.0,1.0,True
+10954,fa-IR,lists,lists_query,چند لیست در مخاطبین دارم,lists_remove,0.5627,0.3164,False
+10956,fa-IR,lists,lists_query,چه گروه‌هایی در مخاطبین من فهرست شده‌اند,social_post,0.9825,0.0163,False
+10957,fa-IR,lists,lists_query,به من یادآوری کن که چند لیست دارم,lists_remove,0.9995,0.0004,False
+10960,fa-IR,lists,lists_remove,آن یکی را از لیست حذف کن,lists_remove,0.9996,0.9996,True
+10970,fa-IR,lists,lists_remove,عبارت آخر را حذف کن,social_post,0.9964,0.0006,False
+10979,fa-IR,lists,lists_query,چه در حال حاضر در فهرست تو وجود دارد,lists_remove,0.3861,0.295,False
+10981,fa-IR,lists,lists_query,لیست را به من اطلاع بده,email_sendemail,0.3102,0.0707,False
+10985,fa-IR,lists,lists_remove,کارهای انجام دادنی این هفته من را حذف کن,lists_remove,0.5069,0.5069,True
+10990,fa-IR,lists,lists_remove,در کارهای انجام دادنی من تی آشپزخانه را حذف کن,cooking_recipe,0.5974,0.0877,False
+10999,fa-IR,lists,lists_query,لیست را بگو,qa_factoid,0.82,0.0045,False
+11023,fa-IR,lists,lists_remove,لیست خرید را حذف کن,lists_remove,0.7351,0.7351,True
+11024,fa-IR,lists,lists_remove,لیست کارهای انجام دادنی را حذف کن,lists_remove,0.9998,0.9998,True
+11053,fa-IR,lists,lists_remove,از لیست گوگل خلاص شو,qa_factoid,0.7547,0.0002,False
+11075,fa-IR,lists,lists_query,من چند لیست دارم,lists_query,0.9297,0.9297,True
+11081,fa-IR,lists,lists_query,چه لیست‌هایی در دفترچه من وجود دارد,lists_query,0.9963,0.9963,True
+11085,fa-IR,lists,lists_remove,شیر را از لیست خرید بردار,lists_remove,0.9957,0.9957,True
+11098,fa-IR,lists,lists_remove,از لیست مالیاتی هزارو سیصد و شصت و نه خلاص شو,lists_remove,0.2497,0.2497,True
+11107,fa-IR,lists,lists_query,لیست‌های اخیر من چیستند,lists_remove,0.8927,0.0738,False
+11124,fa-IR,lists,lists_query,موارد را در لیست کار من لیست کن,lists_remove,0.8544,0.0153,False
+11125,fa-IR,lists,lists_query,جزئیات سفارش خرید را به من بده,email_query,0.7882,0.0546,False
+11133,fa-IR,lists,lists_remove,فهرست مهمانی را که هفته گذشته ایجاد کردم حذف کن,lists_remove,0.994,0.994,True
+11154,fa-IR,lists,lists_query,لیست کارهای انجام دادنی اخیر را بررسی کن,lists_remove,0.5198,0.4302,False
+11162,fa-IR,lists,lists_remove,من می‌خواهم سیب را از لیست حذف کنم,lists_remove,0.9854,0.9854,True
+11164,fa-IR,lists,lists_remove,از لیست پاک کن,qa_factoid,0.4143,0.2462,False
+11166,fa-IR,lists,lists_query,google keep را باز کن,lists_remove,0.3515,0.0123,False
+11168,fa-IR,lists,lists_remove,لیست من را سطل زباله منتقل کن,lists_remove,0.9678,0.9678,True
+11172,fa-IR,lists,lists_query,تمام لیست‌های موجود را به من نشان بده,lists_query,0.9298,0.9298,True
+11174,fa-IR,lists,lists_query,تمام لیست‌های موجود در این دستگاه را فهرست کن,lists_query,0.9895,0.9895,True
+11180,fa-IR,calendar,calendar_query,برنامه‌ریزی مهمانی من,email_sendemail,0.8874,0.0004,False
+11186,fa-IR,lists,lists_query,من لیست لباس‌هایم را دارم,lists_remove,0.9777,0.0165,False
+11189,fa-IR,lists,lists_query,فهرست را پیدا کن,qa_factoid,0.506,0.0898,False
+11204,fa-IR,lists,lists_query,اطلاعات مهم خانه,lists_query,0.9645,0.9645,True
+11215,fa-IR,lists,lists_query,لیست,qa_factoid,0.2856,0.0907,False
+11250,fa-IR,lists,lists_query,لیست خواروبارم را برای من بخوان,recommendation_events,0.9925,0.0004,False
+11257,fa-IR,play,play_podcasts,اوولی فایل ضبط شده بعدی را پخش کن,email_sendemail,0.8552,0.0012,False
+11259,fa-IR,play,play_podcasts,به فایل صوتی بعدی برو,play_podcasts,0.8115,0.8115,True
+11261,fa-IR,play,play_podcasts,بعدی,qa_factoid,0.9989,0.0,False
+11265,fa-IR,play,play_podcasts,بعدی را پخش کن,play_music,0.9826,0.0016,False
+11266,fa-IR,play,play_podcasts,یک فایل صوتی از کتابخانه من را پخش کن,play_podcasts,0.7488,0.7488,True
+11267,fa-IR,play,play_podcasts,یک پادکست جذاب درباره کتابگرد پیدا کن,qa_factoid,0.9978,0.0001,False
+11270,fa-IR,play,play_podcasts,فایل صوتی بعدی را پخش کن,play_podcasts,0.7675,0.7675,True
+11272,fa-IR,play,play_podcasts,بعدی را پخش کن,play_music,0.9826,0.0016,False
+11279,fa-IR,play,play_podcasts,به قسمت فایل صوتی برو و قسمت بعدی پاراگراف را پخش کن,play_podcasts,0.2967,0.2967,True
+11286,fa-IR,play,play_podcasts,فایل صوتی رادیو کافه را پخش کن,email_query,0.9097,0.004,False
+11296,fa-IR,play,play_podcasts,تمام فایل های صوتی من را آپلود کن,play_podcasts,0.4761,0.4761,True
+11302,fa-IR,play,play_podcasts,آخرین فایل صوتی رادیو کافه را پخش کن,email_query,1.0,0.0,False
+11303,fa-IR,play,play_podcasts,فایل صوتی مونولوگ را پخش کن,qa_factoid,0.7621,0.1669,False
+11306,fa-IR,play,play_podcasts,پادکستی که من گوش می کردم دیروز را پخش کن,play_podcasts,1.0,1.0,True
+11318,fa-IR,play,play_podcasts,قسمت بعد فایل صوتی را پخش کن,play_podcasts,0.8063,0.8063,True
+11322,fa-IR,play,play_podcasts,بهترین فایل های صوتی امروز چه هستند,recommendation_events,0.7344,0.0484,False
+11328,fa-IR,play,play_podcasts,فایل صوتی مونولوگ را پخش کن,qa_factoid,0.7621,0.1669,False
+11331,fa-IR,play,play_podcasts,بهترین پادکست از آهنگ های راک دارای رتبه خوب را به من نشان بده,recommendation_events,0.8836,0.005,False
+11335,fa-IR,play,play_music,همه آهنگ های ملایم را به طور تصادفی پخش کن,play_music,0.9941,0.9941,True
+11339,fa-IR,play,play_podcasts,آن فایل صوتی که بیشتر از همه گوش دادم را پخش کن,play_music,0.931,0.013,False
+11340,fa-IR,play,play_podcasts,آیا امیر فایل صوتی جدید دارد,qa_factoid,1.0,0.0,False
+11341,fa-IR,play,play_podcasts,آخرین فایل صوتی مونولوگ را پخش کن,qa_factoid,0.9412,0.026,False
+11343,fa-IR,play,play_podcasts,به قسمت بعد رادیو راه برو,play_radio,0.9943,0.0008,False
+11345,fa-IR,play,play_podcasts,قسمت بعدی فایل صوتی را پخش کن,play_podcasts,0.9086,0.9086,True
+11349,fa-IR,play,play_podcasts,اولی پادکستی رو که دیشب شروع کردم پخش کن,play_music,0.9924,0.0048,False
+11353,fa-IR,play,play_podcasts,فایل های صوتی را نشانم بده,play_podcasts,0.9998,0.9998,True
+11361,fa-IR,play,play_podcasts,فایل صوتی رادیو راه آن را پخش کن,play_radio,0.9994,0.0001,False
+11366,fa-IR,play,play_podcasts,به قسمت قبل فایل صوتی برگرد,play_podcasts,0.4665,0.4665,True
+11368,fa-IR,play,play_podcasts,فایل صوتی امیر را برای من پخش کن,play_music,0.6692,0.2161,False
+11376,fa-IR,play,play_podcasts,من میخوام فایل صوتی گوش بدم,play_podcasts,0.9991,0.9991,True
+11384,fa-IR,play,play_podcasts,لطفا پادکست مورد علاقه م رو از اینترنت دانلود و پخش کن.,transport_query,0.705,0.0287,False
+11409,fa-IR,play,play_podcasts,لطفا رد کن و به قسمت بعدی فایل صوتی برو,calendar_remove,0.5213,0.1701,False
+11417,fa-IR,play,play_podcasts,قسمت بعد را شروع کن,play_radio,0.2416,0.0413,False
+11418,fa-IR,play,play_podcasts,آخرین فایل صوتی علی را پخش کن,play_music,0.8893,0.0321,False
+11420,fa-IR,play,play_podcasts,از آخرین فایل صوتی من شروع به پخش کن,play_music,0.9877,0.009,False
+11423,fa-IR,play,play_podcasts,سی ثانیه بزن عقب,qa_factoid,0.4297,0.0012,False
+11424,fa-IR,play,play_podcasts,رادیو جوان,play_radio,0.9994,0.0,False
+11426,fa-IR,lists,lists_query,پربازدیدترین لیست,recommendation_events,0.5548,0.0942,False
+11427,fa-IR,play,play_podcasts,رادیوکافه را روشن کن,iot_hue_lightoff,0.8866,0.0,False
+11437,fa-IR,play,play_podcasts,لطفا فایل صوتی برای من پخش کن,play_music,0.7422,0.1556,False
+11438,fa-IR,play,play_podcasts,به قسمت بعد از فایل صوتی برو لطفا,lists_remove,0.6701,0.1155,False
+11442,fa-IR,play,play_podcasts,لطفا آخرین فایل صوتی احسان را بزار,email_sendemail,0.4431,0.0165,False
+11451,fa-IR,play,play_podcasts,من میخوام به آخرین فایل صوتی مونولوگ گوش بدم,play_podcasts,0.8378,0.8378,True
+11453,fa-IR,play,play_podcasts,فایل های صوتی مونولوگ را پخش کن,play_podcasts,0.9965,0.9965,True
+11455,fa-IR,play,play_podcasts,به بخش بعدی برو,lists_remove,0.3454,0.0355,False
+11458,fa-IR,play,play_podcasts,برو به قسمت بعدی فایل صوتی,lists_remove,0.2222,0.1787,False
+11459,fa-IR,play,play_podcasts,به آخرین قسمت در فایل صوتی برگرد,calendar_remove,0.4182,0.1101,False
+11460,fa-IR,play,play_podcasts,من میخوام که به فایل صوتی ورزشی گوش بدم,play_podcasts,0.8567,0.8567,True
+11467,fa-IR,play,play_podcasts,آخرین فایل صوتی رادیو کافه را پخش کن,email_query,1.0,0.0,False
+11470,fa-IR,play,play_podcasts,لطفا فایل صوتی مورد علاقه من را پخش کن,play_music,0.6892,0.2756,False
+11474,fa-IR,play,play_podcasts,پادکست سریالی را ادامه بده,play_podcasts,0.9991,0.9991,True
+11476,fa-IR,play,play_podcasts,فایل صوتی قبلی را پخش کن,play_podcasts,0.9302,0.9302,True
+11483,fa-IR,play,play_podcasts,مونولوگ را پخش کن,play_music,0.9999,0.0,False
+11490,fa-IR,play,play_podcasts,شوی بعدی در پادکست را پخش کن,play_music,0.9977,0.0003,False
+11502,fa-IR,play,play_podcasts,دکمه‌ی بعدی,calendar_remove,0.7448,0.0019,False
+11505,fa-IR,play,play_podcasts,آخرین فایل صوتی من که پخش شد را مجدد پخش کن,qa_factoid,0.2848,0.2189,False
+11514,fa-IR,play,play_podcasts,اولی می تونیم به پادکست سلامت گوش بدیم,play_music,0.5203,0.2631,False
+11515,fa-IR,play,play_podcasts,بیا فایل صوتی مونولوگ را گوش بدیم,qa_factoid,0.8047,0.0257,False
+11525,fa-IR,play,play_podcasts,من میخوام فایل صوتی بعدی که در دسترس باشد را ببینم,play_podcasts,0.9882,0.9882,True
+11529,fa-IR,play,play_podcasts,سلام فایل صوتی مورد علاقه من را از لیست پخش کن,play_podcasts,0.5399,0.5399,True
+11536,fa-IR,play,play_podcasts,فایل های صوتی مورد علاقه را به لیست اضافه کن و پخش کن,play_podcasts,0.8742,0.8742,True
+11539,fa-IR,play,play_podcasts,فایل صوتی بعدی را شروع کن,play_podcasts,0.8861,0.8861,True
+11546,fa-IR,play,play_podcasts,گندم زار رادیو آوا از هفته قبل رو پخش کن,play_radio,0.9999,0.0,False
+11554,fa-IR,play,play_podcasts,ازت میخوام فایل صوتی را پخش کنی,play_music,0.9908,0.0076,False
+11563,fa-IR,recommendation,recommendation_events,در ساری چه کاری می‌توانم انجام دهم,cooking_recipe,0.9444,0.0061,False
+11570,fa-IR,recommendation,recommendation_events,در اطراف شهر من چه می‌گذرد,social_post,0.9893,0.0002,False
+11582,fa-IR,recommendation,recommendation_events,آیا در اطراف نکا جاز برگزار می‌شود,social_post,0.4193,0.0146,False
+11585,fa-IR,recommendation,recommendation_events,آیا رویداد فرهنگی در ساری هست,qa_factoid,0.5735,0.0079,False
+11598,fa-IR,recommendation,recommendation_events,لطفاً به من اطلاع بده که بدانم رویداد جشن حافظ در شهر زادگاه من در جریان است,email_sendemail,0.8729,0.006,False
+11600,fa-IR,recommendation,recommendation_events,چه فیلمی را امشب می‌توانم در تئاتر اینجا در همدان تماشا کنم,play_music,0.697,0.0076,False
+11610,fa-IR,recommendation,recommendation_events,فهرستی از نمایش سیرک که همین حالا در شهر در حال برگزاری است به من بده,social_post,0.689,0.0222,False
+11612,fa-IR,recommendation,recommendation_events,چه نمایشگاه نقاشی در تهران هست,lists_query,0.2344,0.0368,False
+11616,fa-IR,recommendation,recommendation_events,آیا رویدادی امشب در مرکز شهر در جریان است,weather_query,0.989,0.0005,False
+11643,fa-IR,recommendation,recommendation_events,چه رویدادهایی به زودی برگزار می‌شوند,qa_factoid,0.7117,0.1107,False
+11644,fa-IR,recommendation,recommendation_events,رویدادهای تبریز را به من نشان بده,play_podcasts,0.5502,0.0239,False
+11650,fa-IR,recommendation,recommendation_events,هر دو رانندگان جدید و رانندگان موقت از بقیه رانندگان بیشتر تصادف می‌کنند زیرا آنها به قدر کافی تجربه مورد نیاز برای رانندگی ایمن با خودشان ندارند تحقیقات نشان داده است تجربه‌ی راننده عامل مهمی در کاهش تصادفات جاده‌ای است و امن‌ترین زمان برای رانندگان جوان وقتی است که موقع یادگیری تحت نظارت رانندگی می‌کنند,qa_factoid,0.4821,0.0192,False
+11681,fa-IR,recommendation,recommendation_events,لطفا ماراتن در حوالی من را به من نشان بده,social_post,0.9932,0.0001,False
+11685,fa-IR,recommendation,recommendation_events,خوشحال می‌شوم به من بگویی چه رویدادهایی در محله ما در حال برگزاری است,social_post,0.1389,0.0843,False
+11705,fa-IR,recommendation,recommendation_events,نمایشگاه نقاشی را در منطقه خلیج به من نشان بده,social_post,0.4439,0.0304,False
+11720,fa-IR,recommendation,recommendation_events,شنا,qa_factoid,0.9721,0.0,False
+11767,fa-IR,recommendation,recommendation_events,علی این آخر هفته در ساری چه اتفاق هایی رخ می دهند,qa_factoid,0.1793,0.0618,False
+11770,fa-IR,recommendation,recommendation_events,آیا رویدادهایی این آخر هفته در ساری هست,play_podcasts,0.3871,0.0362,False
+11782,fa-IR,recommendation,recommendation_events,آیا رویداد خاصی در این آخر هفته در نزدیکی من وجود دارد,social_post,0.4442,0.1965,False
+11798,fa-IR,recommendation,recommendation_events,رویداد بعدی در کتابخانه چیست,social_post,0.8366,0.0068,False
+11827,fa-IR,recommendation,recommendation_events,امشب کجا می‌توانم برم,qa_factoid,0.9413,0.0011,False
+11839,fa-IR,recommendation,recommendation_events,چه اتفاقاتی در اطراف من در جریان است,news_query,0.771,0.0046,False
+11841,fa-IR,recommendation,recommendation_events,آیا نمایشگاه‌های صنایع دستی در این منطقه برگزار می‌شود,qa_factoid,0.7356,0.0878,False
+11844,fa-IR,recommendation,recommendation_events,چیز جالبی که در منطقه خلیج اتفاق بیفتد هست,social_post,0.4865,0.0036,False
+11845,fa-IR,recommendation,recommendation_events,اوولی من را با برخی رویدادهای هیجان‌انگیز کنار دریا کوکم کن,cooking_recipe,0.5028,0.0101,False
+11860,fa-IR,recommendation,recommendation_events,رویدادهای محلی را به من بگو,recommendation_events,0.2375,0.2375,True
+11867,fa-IR,recommendation,recommendation_events,آیا فردا یک رویداد ورزشی در ساری وجود دارد,weather_query,0.6646,0.0025,False
+11875,fa-IR,recommendation,recommendation_events,آیا جشنواره غذا در این منطقه وجود دارد,qa_factoid,0.9974,0.0001,False
+11904,fa-IR,recommendation,recommendation_events,این آخر هفته اینجا چه خبر است,news_query,0.9984,0.0001,False
+11905,fa-IR,recommendation,recommendation_events,اوولی در مورد فعالیت‌های این آخر هفته در منطقه من به من بگو,social_post,0.8027,0.0174,False
+11911,fa-IR,recommendation,recommendation_events,آیا رویداد خوبی همین آخر هفته در این منطقه وجود دارد,qa_factoid,0.8189,0.012,False
+11916,fa-IR,recommendation,recommendation_events,چند پارک موضوعی در نزدیکی چیست,social_post,0.9324,0.0009,False
+11969,fa-IR,recommendation,recommendation_events,آیا اتفاق خاصی در این نزدیکی رخ می‌دهد,qa_factoid,0.9939,0.0002,False
+11999,fa-IR,recommendation,recommendation_events,همه رویدادهای امروز شهر من را به من بگو,social_post,0.4284,0.0071,False
+12008,fa-IR,recommendation,recommendation_events,آیا امروز رویدادهای سرگرم کننده‌ای در ساری وجود دارد,news_query,0.3576,0.0151,False
+12054,fa-IR,recommendation,recommendation_events,اطراف شهر چه چیزی در حال جریان است,weather_query,0.3312,0.0229,False
+12070,fa-IR,recommendation,recommendation_events,فروشگاه پالادیوم کی باز می‌شود,recommendation_events,0.4603,0.4603,True
+12073,fa-IR,recommendation,recommendation_events,ارجاع به رویدادهای جاری محلی,qa_factoid,0.4265,0.0223,False
+12098,fa-IR,recommendation,recommendation_events,رویدادهای موسیقایی نزدیک را به من نشان بده,play_music,0.9841,0.0002,False
+12189,fa-IR,transport,transport_query,برای گرفتن بلیط چطور بروم ایستگاه قطار,transport_query,0.9983,0.9983,True
+12240,fa-IR,transport,transport_query,ترافیک راه برگشتم به خانه در ساعت پنج چطور است,weather_query,0.9908,0.0005,False
+12245,fa-IR,transport,transport_query,قطار بعدی از ساری به نکا کی است,transport_query,0.2986,0.2986,True
+12251,fa-IR,transport,transport_query,برنامه حرکت قطارهای محلی به نکا را به من بده,cooking_recipe,0.9893,0.006,False
+12252,fa-IR,transport,transport_query,قطار های خرم آباد چه ساعتی راه می افتند,weather_query,0.9936,0.0001,False
+12261,fa-IR,transport,transport_query,به من بگو چهارشنبه یا پنج شنبه آینده چه گزینه هایی برای گرفتن قطار نکا دارم,transport_query,0.9921,0.9921,True
+12263,fa-IR,transport,transport_query,مازندران,social_post,0.7407,0.0057,False
+12264,fa-IR,transport,transport_query,قم,qa_factoid,1.0,0.0,False
+12294,fa-IR,transport,transport_query,برنامه حرکت قطار به تالار وحدت را نشان بده,iot_hue_lightoff,0.5092,0.0533,False
+12310,fa-IR,transport,transport_query,لیست بلیط های قطار موجود از ساری به نکا را به من بده,lists_query,0.6352,0.294,False
+12343,fa-IR,transport,transport_query,ساعت قطار ده هزار و هشتصد و هشتاد و هفت سه شنبه از تبریز را چک کن,transport_query,0.9529,0.9529,True
+12354,fa-IR,transport,transport_query,زمان قطار را به من بده,qa_factoid,0.9484,0.0015,False
+12366,fa-IR,transport,transport_query,یک قطار اتصال از ساری به نکا هست و اگه هست چه ساعتی,transport_query,0.9844,0.9844,True
+12367,fa-IR,transport,transport_query,بهترین مسیر به زنجان کدام است,recommendation_events,0.7811,0.1879,False
+12376,fa-IR,transport,transport_query,اولین مترو به اصفهان کدام است,transport_query,0.9995,0.9995,True
+12392,fa-IR,transport,transport_query,مسیر امروز را به من بگو,qa_factoid,0.4892,0.0186,False
+12402,fa-IR,transport,transport_query,قطار شهری بعدی کی از اینجا راه می افتد,weather_query,0.7437,0.0054,False
+12419,fa-IR,transport,transport_query,سریع ترین مسیر به میدان آزادی,transport_query,0.9712,0.9712,True
+12430,fa-IR,transport,transport_query,به من بگو قطار چه ساعتی به تهران می رسد,weather_query,0.9956,0.0005,False
+12436,fa-IR,transport,transport_query,چقدر طول می کشد به فرودگاه برسیم,transport_query,0.9956,0.9956,True
+12437,fa-IR,transport,transport_query,رفتن به تئاتر چقدر طول می کشد,qa_factoid,0.7968,0.0056,False
+12446,fa-IR,transport,transport_query,می‌توانی به من بگویی که قطار چه زمانی به سمت مشهد حرکت می‌کند,weather_query,0.9554,0.0056,False
+12473,fa-IR,transport,transport_query,از اینجا چطور به خانه بروم,transport_query,0.8542,0.8542,True
+12526,fa-IR,transport,transport_query,سریعترین مسیر به کافه رویا چیست,transport_query,0.9962,0.9962,True
+12532,fa-IR,transport,transport_query,برای رفتن به محل ای راهنمایی کن,qa_factoid,0.9095,0.001,False
+12581,fa-IR,transport,transport_query,امروز قطار خط اف کی راه می افتد,weather_query,0.972,0.0257,False
+12582,fa-IR,transport,transport_query,صبح اولین قطار مترو کی می رسد,weather_query,0.5329,0.4574,False
+12604,fa-IR,transport,transport_query,چطور آنلاین یک بلیط قطار بگیرم,transport_query,0.9976,0.9976,True
+12618,fa-IR,transport,transport_query,قیمت بلیط قطار دوطرفه به نکا چند است,qa_factoid,0.9372,0.0139,False
+12623,fa-IR,transport,transport_query,آیا برنامه زمانی قطار گرمسار سمنان رو داری,datetime_query,0.7947,0.0062,False
+12629,fa-IR,transport,transport_query,اولین قطار کی از نکا راه می افتد,transport_query,0.7372,0.7372,True
+12634,fa-IR,transport,transport_query,قطار بعدی به نکا کی راه می افتد,qa_factoid,0.5669,0.0124,False
+12707,fa-IR,transport,transport_query,جستجوی مسیر,qa_factoid,0.997,0.0001,False
+12759,fa-IR,transport,transport_query,مدت زمان رانندگی به قم,qa_factoid,0.7816,0.0033,False
+12797,fa-IR,transport,transport_query,زمان قطارها از نزدیک من به محل فلان,weather_query,0.8674,0.008,False
+12800,fa-IR,transport,transport_query,کتابخانه عمومی کجاست,qa_factoid,0.9909,0.0001,False
+12817,fa-IR,transport,transport_query,چطور بروم مرکز خرید,transport_query,0.8322,0.8322,True
+12818,fa-IR,transport,transport_query,قیمت بلیط قطار به ساری چقدر است,transport_query,0.5583,0.5583,True
+12824,fa-IR,transport,transport_query,زمان حرکت همه قطارها به نکا را لیست کن,datetime_query,0.9368,0.0122,False
+12835,fa-IR,transport,transport_query,قطار چه ساعتی به طرف محل راه می افتد,weather_query,0.9929,0.0001,False
+12839,fa-IR,transport,transport_query,من را ببر پل طبیعت,qa_factoid,1.0,0.0,False
+12851,fa-IR,transport,transport_query,مسیر خانه من را نشان بده,qa_factoid,0.9354,0.0044,False
+12856,fa-IR,transport,transport_query,مسیر لطفا,email_sendemail,0.9999,0.0,False
+12866,fa-IR,transport,transport_query,زمان قطار سیر و سفر کی است,qa_factoid,0.954,0.0016,False
+12908,fa-IR,transport,transport_query,قطار چه ساعتی به نکا می رسد,weather_query,0.9962,0.0001,False
+12930,fa-IR,transport,transport_query,فروشگاه های نزدیک به من را از روی نقشه پیدا کن,recommendation_events,0.9528,0.0019,False
+12932,fa-IR,transport,transport_query,الهه مسیر رفتن به خیابان کاج را لازم دارم,transport_query,0.6058,0.6058,True
+12951,fa-IR,qa,qa_factoid,بلندترین سازه جهان چیست,qa_factoid,0.9998,0.9998,True
+12957,fa-IR,qa,qa_definition,بادقت شرح دادن را تعریف کن,qa_factoid,1.0,0.0,False
+12961,fa-IR,qa,qa_definition,لطفا پزشکی قانونی را تعریف کن,qa_factoid,0.7943,0.0578,False
+12963,fa-IR,qa,qa_definition,تعریف تناسخ چیست,qa_definition,0.9983,0.9983,True
+12972,fa-IR,qa,qa_factoid,بلندترین قله‌ در جهان چیست,qa_factoid,0.9992,0.9992,True
+12982,fa-IR,qa,qa_definition,معنی آشفتگی چیست,qa_definition,0.9998,0.9998,True
+12986,fa-IR,qa,qa_definition,تعریف دمدمی مزاج را چک کن,cooking_recipe,0.488,0.4488,False
+12999,fa-IR,qa,qa_factoid,سوگند چند ساله است,qa_factoid,0.4753,0.4753,True
+13016,fa-IR,qa,qa_definition,تعریف اشتباه بزرگ را جستجو کن,qa_factoid,0.9878,0.0121,False
+13023,fa-IR,cooking,cooking_recipe,دستور پخت‌ها را به من نشان بده,qa_factoid,0.978,0.0025,False
+13069,fa-IR,qa,qa_definition,تعاریف پرتقال چیست,qa_definition,1.0,1.0,True
+13074,fa-IR,qa,qa_factoid,چرا مهران مدیری دیگه خنده‌دار نیست,social_post,0.9991,0.0001,False
+13077,fa-IR,qa,qa_factoid,تولد اکبر هاشمی چه زمانی است,datetime_query,0.7578,0.0113,False
+13078,fa-IR,qa,qa_factoid,آدرس علی پروین را به من بده,email_sendemail,0.9999,0.0,False
+13099,fa-IR,qa,qa_factoid,نخست وزیر کنونی بریتانیا بود,qa_factoid,0.7043,0.7043,True
+13115,fa-IR,qa,qa_factoid,پایتخت نیجریه کجاست,social_post,0.9166,0.0406,False
+13124,fa-IR,qa,qa_factoid,کیهان چقدر بزرگ است,qa_factoid,0.5763,0.5763,True
+13135,fa-IR,qa,qa_factoid,تاریخ تولد شهاب حسینی چه زمانی است,datetime_query,0.9997,0.0,False
+13140,fa-IR,qa,qa_definition,به من راجع به طوفان بگویید,email_sendemail,0.4309,0.014,False
+13154,fa-IR,qa,qa_factoid,شماره تلفن یاس,qa_factoid,0.4181,0.4181,True
+13165,fa-IR,qa,qa_definition,نوسان به چه معناست,qa_definition,0.9998,0.9998,True
+13166,fa-IR,qa,qa_definition,نوسان کردن را هجی و تعریف کن,qa_factoid,0.8157,0.0006,False
+13177,fa-IR,calendar,calendar_set,به من یادآوری کن که حرکت کنم تا افزایش وزن نداشته باشم,cooking_recipe,0.338,0.0448,False
+13178,fa-IR,calendar,calendar_set,به من یادآوری کن که با دوستان قدیمی‌ای که شش ماه است با آنها صحبت نکرده‌ام تماس بگیرم قبل از اینکه بگذرند,email_sendemail,0.4977,0.0081,False
+13188,fa-IR,news,news_query,به من بگو نتایج انتخبات مجلس در تهران چطور می شود,datetime_query,0.0902,0.0843,False
+13206,fa-IR,qa,qa_definition,موقعیت مکانی,qa_factoid,1.0,0.0,False
+13215,fa-IR,transport,transport_query,سریعترین مسیر بدون ترافیک برای رفتن به سر کارم در مرکز شهر کدام است,transport_query,0.9007,0.9007,True
+13252,fa-IR,qa,qa_factoid,سووشون سیمین دانشور درباره چی بود,social_post,0.9998,0.0,False
+13255,fa-IR,qa,qa_factoid,لطفا اطلاعاتی در مورد جان آبراهام لینکلن به من بده,email_query,0.7649,0.0009,False
+13283,fa-IR,qa,qa_factoid,بیل گیتز چقدر پول به دست آورده است,social_post,0.5072,0.4757,False
+13288,fa-IR,qa,qa_definition,تعریف کلمه همیشگی چیست,qa_definition,0.999,0.999,True
+13297,fa-IR,qa,qa_factoid,سلبریتی چه کسی است,qa_factoid,0.963,0.963,True
+13298,fa-IR,qa,qa_factoid,سلبریتی چه می‌کند,cooking_recipe,0.9827,0.0033,False
+13330,fa-IR,qa,qa_factoid,نهنگ اسپرم چه اندازه است,qa_factoid,0.4869,0.4869,True
+13361,fa-IR,qa,qa_definition,تعریف به موقع بودن چیست,qa_factoid,0.6239,0.3706,False
+13383,fa-IR,qa,qa_factoid,چند ایالت مجازات مرگ را دارا هستند,qa_factoid,0.7972,0.7972,True
+13400,fa-IR,social,social_post,یک پیام خنده دار به همه دوستان من بفرست,social_post,0.9999,0.9999,True
+13439,fa-IR,qa,qa_factoid,جی کی رولینگ چند ساله است,qa_factoid,0.5395,0.5395,True
+13457,fa-IR,calendar,calendar_set,به من بگو چه زمانی باید برای یک رویداد برنامه‌ریزی شده حرکت کنم تا به موقع برسم,datetime_query,0.5783,0.0079,False
+13473,fa-IR,qa,qa_factoid,آمریکا چه زمانی آزاد شد,qa_factoid,0.9818,0.9818,True
+13487,fa-IR,qa,qa_factoid,علی پایتخت کالیفرنیا کجاست,social_post,0.8789,0.0477,False
+13494,fa-IR,qa,qa_definition,تعریف انگیزه را بگو,qa_factoid,0.9755,0.0245,False
+13506,fa-IR,datetime,datetime_query,می‌توانی بگویی ساعت چنده,weather_query,0.9942,0.0002,False
+13513,fa-IR,qa,qa_factoid,یک سگ چند تا پا دارد,social_post,0.2771,0.2466,False
+13516,fa-IR,qa,qa_factoid,چرا نهنگ ها بزرگ هستند,qa_definition,0.9683,0.0232,False
+13546,fa-IR,qa,qa_factoid,آخرین فیلمی که محمدرضا فروتن در آن بود کدام است,lists_query,0.5675,0.0692,False
+13554,fa-IR,qa,qa_factoid,قد برد پیت چند است,qa_factoid,1.0,1.0,True
+13575,fa-IR,qa,qa_factoid,چه فیلمی برنده آخرین جایزه اسکار شد,recommendation_events,0.3209,0.2552,False
+13580,fa-IR,qa,qa_factoid,قله اورست چقدر بلندی دارد,weather_query,0.9718,0.001,False
+13591,fa-IR,qa,qa_factoid,پایتخت آذربایجان غربی کجاست,qa_factoid,0.9979,0.9979,True
+13592,fa-IR,qa,qa_factoid,نیوزیلند روی نقشه کجا قرار دارد,social_post,0.3278,0.0235,False
+13604,fa-IR,qa,qa_factoid,به من بگو استیو جابز کجا متولد شد,social_post,0.5803,0.4088,False
+13607,fa-IR,qa,qa_factoid,لطفا تأیید کن که محمدرضا فروتن ازدواج کرده,qa_factoid,0.9995,0.9995,True
+13616,fa-IR,qa,qa_factoid,بیشتر سلبریتی ها کجا وقت می گذرانند,social_post,0.9443,0.0334,False
+13619,fa-IR,recommendation,recommendation_events,آیا امروز رویدادهای رایگانی در منطقه من برگزار می‌شود,qa_factoid,0.6073,0.0063,False
+13625,fa-IR,qa,qa_definition,بزرگ‌ترین میز چیه,qa_definition,0.9992,0.9992,True
+13636,fa-IR,qa,qa_factoid,تولد علی نصیریان کی است,email_sendemail,0.9977,0.0002,False
+13679,fa-IR,qa,qa_factoid,آیا می توانی به من بگویی یک گاو چندتا معده دارد,qa_factoid,0.7565,0.7565,True
+13681,fa-IR,qa,qa_factoid,ابوالفضل پورعرب در چند نقش بازی کرده است,email_sendemail,0.9972,0.0,False
+13683,fa-IR,qa,qa_factoid,محمود احمدی نژاد اسپری موی چه برندی را استفاده می‌کند,iot_hue_lightoff,0.3011,0.1704,False
+13689,fa-IR,qa,qa_definition,صندلی چیست,qa_definition,0.9946,0.9946,True
+13690,fa-IR,qa,qa_factoid,صندلی ها چه رنگی دارند,iot_hue_lightoff,0.8645,0.012,False
+13693,fa-IR,qa,qa_factoid,نصف‌النهار گیرینویچ کجاست,social_post,0.6192,0.3246,False
+13705,fa-IR,qa,qa_definition,یک سیستم انتشار الکترونیکی چیست,qa_definition,0.9998,0.9998,True
+13706,fa-IR,qa,qa_definition,یک روتور را توصیف کن,qa_factoid,0.4299,0.1792,False
+13714,fa-IR,qa,qa_definition,انبه چیست,qa_definition,0.9408,0.9408,True
+13717,fa-IR,qa,qa_factoid,آیا واقعاً می‌توانی روسیه را از آلاسکا ببینی,qa_factoid,1.0,1.0,True
+13758,fa-IR,qa,qa_factoid,گوگوش چند ساله است,qa_factoid,0.2456,0.2456,True
+13761,fa-IR,qa,qa_factoid,پارسک چیست,qa_factoid,0.9974,0.9974,True
+13774,fa-IR,qa,qa_factoid,کالیفرنیا چقدر از جورجیا فاصله دارد,qa_factoid,0.9796,0.9796,True
+13777,fa-IR,qa,qa_definition,آیا می توانی کارت اعتباری را توصیف کنی,qa_definition,0.6333,0.6333,True
+13780,fa-IR,qa,qa_factoid,آیا حامد بهداد متاهل است,qa_factoid,0.9485,0.9485,True
+13798,fa-IR,qa,qa_factoid,زمین کشور چند مایل مربع است,qa_factoid,0.2225,0.2225,True
+13799,fa-IR,qa,qa_definition,تعریف تابع چیست,qa_definition,0.9993,0.9993,True
+13823,fa-IR,qa,qa_factoid,فاصله تا خورشید چقدر است,qa_factoid,0.9993,0.9993,True
+13853,fa-IR,qa,qa_factoid,کدام قسمت زمین بیشترین آتشفشان را دارد,qa_definition,0.5754,0.3971,False
+13854,fa-IR,qa,qa_factoid,الویس چه زمانی مرد,qa_factoid,0.851,0.851,True
+13863,fa-IR,qa,qa_definition,تعریف منطق چیست,qa_definition,0.9838,0.9838,True
+13867,fa-IR,qa,qa_factoid,پارک جمشیدیه کجاست,social_post,0.9834,0.0102,False
+13869,fa-IR,qa,qa_factoid,لطفا مکان و اطلاعات کوه راشمور را گوگل کن,iot_hue_lightoff,0.2604,0.0524,False
+13871,fa-IR,qa,qa_definition,تو چطور می توانی تولدت مبارک را توصیف کنی,qa_factoid,0.9986,0.0007,False
+13881,fa-IR,qa,qa_factoid,لطفا اطلاعاتی از مایکل جکسون به من بده,email_sendemail,0.3403,0.0454,False
+13888,fa-IR,qa,qa_factoid,دمای هوای هشتگرد در استان البرز چند درجه است,weather_query,0.9997,0.0,False
+13895,fa-IR,qa,qa_factoid,آیا می توانی درباره علی دایی به من بگویی,email_sendemail,0.8264,0.0019,False
+13900,fa-IR,qa,qa_definition,تعریف زندگی,qa_definition,0.9997,0.9997,True
+13907,fa-IR,qa,qa_definition,مبهوت را تعریف کن,cooking_recipe,0.7269,0.0096,False
+13908,fa-IR,qa,qa_definition,آیا می توانی به من بگویی معنی مبهوت چیست,qa_definition,0.9999,0.9999,True
+13926,fa-IR,qa,qa_factoid,تولد همینگوی چه زمانی است,datetime_query,0.9077,0.0252,False
+13927,fa-IR,qa,qa_factoid,دارایی‌های حامد حدادی چقدر می‌ارزه,qa_factoid,0.9657,0.9657,True
+13974,fa-IR,qa,qa_factoid,جهرم کجاست,social_post,0.999,0.0008,False
+13983,fa-IR,qa,qa_definition,عواقب رنج,iot_hue_lightoff,0.7657,0.0098,False
+13984,fa-IR,qa,qa_definition,عواقب اعمال,iot_hue_lightoff,0.777,0.0036,False
+13997,fa-IR,qa,qa_factoid,قیمت متوسط خرید خانه چقدر است,qa_factoid,0.9941,0.9941,True
+14000,fa-IR,qa,qa_definition,تنبلی را تعریف کن,qa_factoid,0.9568,0.0037,False
+14001,fa-IR,qa,qa_factoid,هر چیزی راجع به میمون ها می دانی به من بگو,social_post,0.9992,0.0,False
+14011,fa-IR,qa,qa_factoid,تولد گوگوش چه زمانی است,datetime_query,0.7215,0.2262,False
+14015,fa-IR,qa,qa_factoid,مختصات خط استوا چیست,qa_definition,0.9996,0.0,False
+14023,fa-IR,qa,qa_definition,جهنم را توصیف کن,qa_definition,1.0,1.0,True
+14033,fa-IR,qa,qa_factoid,به من بگو اوباما چه زمانی متولد شد,qa_factoid,0.9972,0.9972,True
+14038,fa-IR,qa,qa_factoid,مولداوی در کجا قرار دارد,social_post,0.4206,0.0259,False
+14040,fa-IR,qa,qa_factoid,قد علی دایی چقدره,qa_factoid,1.0,1.0,True
+14053,fa-IR,qa,qa_factoid,مهران مدیری ازچه سالی شروع به بازیگری کرد,qa_factoid,0.9436,0.9436,True
+14063,fa-IR,qa,qa_factoid,تولد الویس پریسلی چه زمانی بود,email_query,0.563,0.0001,False
+14083,fa-IR,qa,qa_factoid,جکی چان در حال حاضر کجا زندگی می کند,social_post,0.5364,0.4425,False
+14096,fa-IR,qa,qa_factoid,کوه‌های راکی در کجا قرار دارند,social_post,0.9752,0.0008,False
+14115,fa-IR,qa,qa_definition,جزئیات ماسه سنگی را ارائه بده,cooking_recipe,0.7,0.0214,False
+14116,fa-IR,qa,qa_definition,ماسه سنگ را توصیف کن,qa_definition,0.6579,0.6579,True
+14117,fa-IR,qa,qa_factoid,اهرام در کجا قرار دارند,social_post,0.8233,0.1392,False
+14118,fa-IR,qa,qa_factoid,جزییات جغرافیایی اهرام را به من نشان بده,social_post,0.2602,0.0697,False
+14126,fa-IR,qa,qa_factoid,بیوگرافی سوگند را به من نشان بده,qa_factoid,0.9656,0.9656,True
+14138,fa-IR,qa,qa_definition,لطفا به من بگو تعریف سیلندر چیست,qa_definition,1.0,1.0,True
+14147,fa-IR,qa,qa_definition,پتو را تعریف کن,iot_hue_lightoff,0.8658,0.0031,False
+14150,fa-IR,qa,qa_definition,کفش ملی چیست,qa_definition,0.9387,0.9387,True
+14151,fa-IR,qa,qa_factoid,برای هوانوردان چه نوعی از عینک آفتابی در نظر گرفته می شود,iot_hue_lightoff,0.3513,0.0305,False
+14154,fa-IR,qa,qa_factoid,اطلاعات آسیا,qa_definition,0.9689,0.0284,False
+14163,fa-IR,qa,qa_factoid,درباره این محله جست و جو کن,qa_factoid,0.8718,0.8718,True
+14169,fa-IR,qa,qa_factoid,امل کلونی کجا درس خونده,qa_factoid,0.541,0.541,True
+14170,fa-IR,qa,qa_factoid,آیا لیلا بلوکات کفش ملی می پوشد,qa_factoid,0.9951,0.9951,True
+14179,fa-IR,qa,qa_factoid,کانادا از مکان کنونی من چقدر دور است,qa_factoid,0.9931,0.9931,True
+14214,fa-IR,transport,transport_query,روش های مسافرت برای همان,cooking_recipe,0.4599,0.4444,False
+14229,fa-IR,qa,qa_factoid,هانیه توسلی در چه فیلم هایی بازی کرده است,qa_factoid,0.5257,0.5257,True
+14243,fa-IR,qa,qa_factoid,جزییات راجع به شخص,social_post,0.6952,0.0063,False
+14272,fa-IR,qa,qa_definition,هی یک کتاب چیست,email_query,0.9117,0.0003,False
+14283,fa-IR,qa,qa_factoid,درباره سمیرم به من بگو,social_post,0.8139,0.1571,False
+14306,fa-IR,qa,qa_factoid,موقعیت جغرافیایی هند را توضیح بده,qa_definition,0.4958,0.3313,False
+14308,fa-IR,qa,qa_factoid,دارایی خالص لئوناردو دیکاپریو چقدر است,qa_factoid,0.5389,0.5389,True
+14316,fa-IR,qa,qa_factoid,آلاسکا چقدر بزرگ است,qa_factoid,0.9675,0.9675,True
+14317,fa-IR,qa,qa_factoid,اندازه آمریکا چقدر است,qa_factoid,0.9928,0.9928,True
+14323,fa-IR,qa,qa_factoid,میوه دراگون چه رنگی است,iot_hue_lightoff,0.8007,0.0091,False
+14330,fa-IR,qa,qa_factoid,استیو جابز متولد کجا بود,social_post,0.9361,0.0034,False
+14347,fa-IR,qa,qa_definition,یک فرضیه چیست,qa_factoid,1.0,0.0,False
+14354,fa-IR,qa,qa_factoid,جواب به کیهان چیست,qa_definition,0.8382,0.1394,False
+14355,fa-IR,qa,qa_factoid,آیا سهیل می توانست صدف های زیادی را در ساحل بفروشد,qa_factoid,0.9993,0.9993,True
+14370,fa-IR,qa,qa_factoid,حرفه سلبریتی را به من بگو,qa_definition,0.4743,0.2096,False
+14378,fa-IR,qa,qa_definition,تعریف سرعت,qa_factoid,0.5938,0.0041,False
+14382,fa-IR,qa,qa_factoid,ساختمان امپراطوری چقدر بزرگ است,qa_factoid,0.9184,0.9184,True
+14395,fa-IR,qa,qa_factoid,عمیق ترین نقطه زمین چیست,qa_factoid,0.7639,0.7639,True
+14414,fa-IR,qa,qa_definition,درباره هارد دیسک کامپیوتر به من بگو,iot_hue_lightoff,0.522,0.1325,False
+14417,fa-IR,qa,qa_factoid,کدام اقیانوس به قاره ما می رسد,qa_factoid,0.8892,0.8892,True
+14419,fa-IR,qa,qa_factoid,آیا امسال هانیه توسلی فیلم جدیدی دارد,qa_factoid,0.8309,0.8309,True
+14429,fa-IR,qa,qa_definition,دشداشه چیست,qa_definition,0.9998,0.9998,True
+14440,fa-IR,qa,qa_factoid,پایتخت مکزیک کجاست,qa_factoid,0.5092,0.5092,True
+14442,fa-IR,qa,qa_factoid,فیجی کجاست,qa_factoid,1.0,1.0,True
+14444,fa-IR,qa,qa_factoid,اولین فیلم مورگان فریمن چه بود,lists_query,0.2148,0.0459,False
+14449,fa-IR,qa,qa_factoid,آیا نصرت بچه جدید دارد,qa_factoid,0.635,0.635,True
+14457,fa-IR,qa,qa_factoid,مسیر را پیدا کن,qa_factoid,0.9881,0.9881,True
+14465,fa-IR,transport,transport_query,مسیر ها به سرزمین موج‌های آبی,weather_query,0.1794,0.0412,False
+14490,fa-IR,qa,qa_factoid,چه زمانی تئاتر بولشوی ساخته شد,qa_factoid,1.0,1.0,True
+14498,fa-IR,qa,qa_definition,توضیحی درباره تلفن هوشمند به من بده,email_sendemail,0.394,0.0281,False
+14504,fa-IR,qa,qa_factoid,علی چه تعداد جلسه را مهاتما گاندی برعهده داشت,qa_factoid,0.9361,0.9361,True
+14505,fa-IR,qa,qa_factoid,نخست وزیر کنونی روسیه چه کسی است,qa_factoid,0.8497,0.8497,True
+14508,fa-IR,qa,qa_factoid,جدیدترین کتاب جورج آر. آر. مارتین آوای یخ و آتش را خلاصه کن,email_sendemail,1.0,0.0,False
+14509,fa-IR,qa,qa_factoid,مهاتما گاندی کجا متولد شد,qa_factoid,0.9516,0.9516,True
+14539,fa-IR,qa,qa_factoid,جزییات جغرافیایی این محل را پیدا کن,qa_definition,0.3759,0.3064,False
+14545,fa-IR,qa,qa_factoid,درباره مکان هند به من بگو,qa_definition,0.9877,0.0043,False
+14567,fa-IR,qa,qa_factoid,بزرگترین آتشفشان فعال روی زمین کدام است,qa_factoid,0.9999,0.9999,True
+14585,fa-IR,qa,qa_factoid,چقدر طول می‌کشد تا از کره جنوبی به ایران سفر کنید,qa_factoid,0.9888,0.9888,True
+14591,fa-IR,qa,qa_definition,یک توضیحی از یک مدار تلوزیون به من بده,iot_hue_lightoff,0.89,0.0404,False
+14592,fa-IR,qa,qa_definition,توصیفی از مدار تلفن هوشمند به من بده,news_query,0.4132,0.0531,False
+14597,fa-IR,qa,qa_factoid,جمعیت نیویورک چقدر است,social_post,0.7831,0.02,False
+14601,fa-IR,qa,qa_factoid,آبراهام لینکلن چند سال رئیس جمهور ایالات متحده بود,email_sendemail,0.8309,0.0751,False
+14605,fa-IR,qa,qa_factoid,آیا آنجلینا جولی برد پیت را ترک کرد,social_post,0.9969,0.0004,False
+14608,fa-IR,qa,qa_factoid,فیلمی جدیدی که گلشیفته فراهانی در آن بازی می کند کدام است,qa_factoid,0.3783,0.3783,True
+14622,fa-IR,qa,qa_definition,کره را توصیف کن,qa_definition,0.5748,0.5748,True
+14648,fa-IR,cooking,cooking_recipe,دستور پخت لطفا,qa_factoid,0.6939,0.0025,False
+14653,fa-IR,qa,qa_factoid,جمعیت روسیه چقدر است,qa_factoid,0.4493,0.4493,True
+14661,fa-IR,qa,qa_factoid,سال تولد باراک اوباما چیست,qa_factoid,0.9961,0.9961,True
+14668,fa-IR,qa,qa_definition,مورد ایکس ایگرگ را توصیف کنید,qa_definition,0.6262,0.6262,True
+14683,fa-IR,qa,qa_factoid,سرگرمی کریم باقری چیست,cooking_recipe,0.9993,0.0,False
+14684,fa-IR,qa,qa_factoid,نخست وزیر روسیه چه کسی است,social_post,0.8504,0.1435,False
+14690,fa-IR,qa,qa_definition,خب google رئیس جمهور چیه,qa_definition,0.916,0.916,True
+14700,fa-IR,qa,qa_definition,پرکننده دندان رزینی دقیقا چیست,qa_definition,1.0,1.0,True
+14701,fa-IR,qa,qa_definition,بازی ورق را توصیف کن,qa_factoid,0.6198,0.0281,False
+14705,fa-IR,qa,qa_factoid,خب گوگل هانیه توسلی کجا زندگی می کند,social_post,0.9531,0.0442,False
+14706,fa-IR,qa,qa_factoid,گلشیفته فراهانی کجا زندگی می کند,social_post,0.9831,0.0091,False
+14746,fa-IR,qa,qa_factoid,پایتخت قزاقستان کجاست,social_post,0.8964,0.0554,False
+14761,fa-IR,qa,qa_definition,به من تعریفی از کلمه پاپ بده,qa_definition,0.9996,0.9996,True
+14767,fa-IR,qa,qa_definition,یک توپ را چگونه توصیف می کنید,qa_definition,0.9985,0.9985,True
+14770,fa-IR,qa,qa_factoid,به من بگو بزرگترین اقیانوس جهان کدام است,qa_factoid,0.3316,0.3316,True
+14787,fa-IR,qa,qa_factoid,تفاوت بین تقویم رومی و گریگوری چیست,qa_factoid,0.8577,0.8577,True
+14791,fa-IR,qa,qa_factoid,ترکیب صندلی از چیست,qa_factoid,0.7972,0.7972,True
+14794,fa-IR,qa,qa_factoid,سواری مورد علاقه الیاس چیست,recommendation_events,0.799,0.1614,False
+14822,fa-IR,qa,qa_factoid,مقایسه کردن انسانها,iot_hue_lightoff,0.65,0.128,False
+14838,fa-IR,qa,qa_factoid,فیلتر چگالی خنثی زا چیست و من گرید یک یا جامدشو میخوام کدام سبک بهتر خواهد بود پیچ یکی و مربعی,recommendation_events,0.9851,0.0007,False
+14857,fa-IR,qa,qa_definition,آیا می توانی معنی استثمار را برایم توضیح دهی,qa_definition,0.9977,0.9977,True
+14877,fa-IR,qa,qa_factoid,شرایط اقلیمی در آن منطقه چیست,weather_query,0.7126,0.2157,False
+14879,fa-IR,qa,qa_definition,معنی,qa_definition,0.9997,0.9997,True
+14884,fa-IR,qa,qa_factoid,کمترین وضعیت گردباد در ایالات متحده چیست,weather_query,0.9573,0.012,False
+14889,fa-IR,qa,qa_definition,لطفا آن موضوع را برای من توصیف کن,qa_factoid,0.5133,0.4209,False
+14891,fa-IR,qa,qa_factoid,آن شخص در کدام زمینه برتری دارد,qa_factoid,0.9997,0.9997,True
+14912,fa-IR,qa,qa_factoid,رییس جمهور مدیسون کجا متولد شد,social_post,0.9962,0.0022,False
+14917,fa-IR,qa,qa_factoid,چه زمانی آلبوم بعدی سیاوش قمیشی بیرون می آید,datetime_query,0.6116,0.1824,False
+14933,fa-IR,qa,qa_factoid,اطلاعاتی درباره جغرافیای هند به من بگو,qa_definition,0.4308,0.0244,False
+14939,fa-IR,qa,qa_factoid,من به برخی جزییات درباره بروس لی نیاز دارم لطفا من را کمک کن,email_query,0.4641,0.0269,False
+14981,fa-IR,qa,qa_definition,توضیحات آیفون هفت,email_query,0.2558,0.0161,False
+14994,fa-IR,qa,qa_factoid,فیلم بعدی دنزل واشنگتن چیست,qa_definition,0.9911,0.0084,False
+14995,fa-IR,qa,qa_definition,معنی وضعیت چیست,qa_definition,0.9939,0.9939,True
+15020,fa-IR,qa,qa_factoid,ابوالفضل پورعرب چند ساله است,email_sendemail,0.9785,0.0012,False
+15039,fa-IR,qa,qa_factoid,علی رشته کوه‌های البرز از کجا شروع می شود,qa_definition,0.9638,0.0131,False
+15055,fa-IR,qa,qa_factoid,کدام قطب سردتر است جنوب یا شمال,qa_definition,0.4608,0.2768,False
+15056,fa-IR,qa,qa_factoid,جدیدترین دوست پسر اما واتسون چند ساله است,social_post,0.9665,0.0057,False
+15062,fa-IR,qa,qa_factoid,اطلاعاتی درباره لیلا حاتمی لطفا,email_query,1.0,0.0,False
+15075,fa-IR,qa,qa_factoid,علی اولین امریکاییها کجا ساکن شدند,qa_factoid,0.9765,0.9765,True
+15092,fa-IR,qa,qa_definition,یک توصیفی درباره تلوزیون سامسونگ پیدا کن,qa_factoid,0.4836,0.0526,False
+15094,fa-IR,qa,qa_factoid,تعداد جمعیت کرج استان البرز را بیاب,lists_query,0.8705,0.001,False
+15095,fa-IR,qa,qa_factoid,میامی در کدام ناحیه قرار دارد,weather_query,0.2268,0.0811,False
+15127,fa-IR,qa,qa_definition,بلندگو را تعریف کن,cooking_recipe,0.9255,0.001,False
+15155,fa-IR,social,social_post,می‌توانی آخرین سلفی من را در حساب facebook خودم بارگذاری کنی,social_post,0.9251,0.9251,True
+15166,fa-IR,social,social_post,بیزنس من را در توئیتر پوست کن,social_post,0.9852,0.9852,True
+15177,fa-IR,social,social_post,لطفا این را در توئیتر باز توییت کن,qa_factoid,0.9197,0.0428,False
+15185,fa-IR,social,social_post,تبریک‌های تولد,email_sendemail,0.9929,0.0003,False
+15186,fa-IR,social,social_post,آرزوهای ازدواج,qa_definition,0.4053,0.0144,False
+15187,fa-IR,social,social_post,در پوست دوستان به اشتراک بگذار,social_post,0.9948,0.9948,True
+15197,fa-IR,social,social_post,در مورد بازدیدم به ژاپن در توئیتر پست کن,social_post,0.999,0.999,True
+15208,fa-IR,social,social_post,فیسبوک,social_post,0.9977,0.9977,True
+15213,fa-IR,news,news_query,الان چه موضوعی نقل مجلس هاست,social_post,0.9969,0.0001,False
+15214,fa-IR,news,news_query,اخبار امروز چیست,play_podcasts,0.4631,0.3484,False
+15216,fa-IR,social,social_post,کدام چیز برایم توئیت کن,iot_hue_lightoff,0.5113,0.0114,False
+15231,fa-IR,social,social_post,عکس سفر من به گوا را در اینستاگرام پست کن,social_post,0.9997,0.9997,True
+15271,fa-IR,social,social_post,این را به فیسبوک ال. او. ال. من پست کن,social_post,0.9997,0.9997,True
+15275,fa-IR,social,social_post,من خوشحالم را در فیس بوک کنتشر کن,social_post,0.999,0.999,True
+15276,fa-IR,social,social_post,یک پست جدید در فیسبوک بگذار که بگوید من دارم از هوای خوب لذت می برم,social_post,0.9998,0.9998,True
+15289,fa-IR,social,social_post,پیام را اکنون منتشر کن,email_sendemail,1.0,0.0,False
+15305,fa-IR,calendar,calendar_query,آیا من از رسانه‌های اجتماعی اعلامیه‌ای ای دارم,social_post,0.998,0.0001,False
+15318,fa-IR,social,social_post,می‌خواهم از همه برای تبریک تولد تشکر کنم,email_sendemail,0.7939,0.0071,False
+15337,fa-IR,social,social_post,این ویدئو را به فیسبوک پوست کن,social_post,0.9987,0.9987,True
+15350,fa-IR,social,social_post,من همرای اسنپ فود خوش نیستم لطفا من را کمک کن,iot_hue_lightoff,0.3174,0.1411,False
+15358,fa-IR,social,social_post,تنها به اپل توئیت کن که آیفونم کار نمیکنه,qa_factoid,0.9037,0.0213,False
+15359,fa-IR,social,social_post,توئیت اپل را باز کن بنویس که باتری آیفون من همیشه خالی است,qa_factoid,0.6962,0.0009,False
+15364,fa-IR,social,social_post,به دیجی کالا بگو که گوشی جدید شان آشغال است,calendar_remove,0.4685,0.0174,False
+15382,fa-IR,social,social_post,میتوانی به سامسونگ ارتباط بگیری و بگویی که شوینده من آتش گرفته,qa_factoid,0.5984,0.0331,False
+15387,fa-IR,social,social_post,مکان فعلی من را توئیت کن,qa_factoid,0.9987,0.0009,False
+15399,fa-IR,social,social_post,یک شکایت برای مسائل مرتبط با شبکه به تالیا ارسال کن,qa_factoid,0.7752,0.1943,False
+15401,fa-IR,social,social_post,توئیتر را باز کن و پیام بفرست,social_post,0.9917,0.9917,True
+15402,fa-IR,social,social_post,توئیت کن که این کالا خیلی بده,qa_factoid,0.9998,0.0,False
+15409,fa-IR,social,social_post,توئیتر را باز کن در سرویس خدمات مصرف کنندگان شکایت من را بنویس,email_sendemail,0.8743,0.0002,False
+15413,fa-IR,social,social_post,خیلی سریع برای من یک نفر را بفرست,social_post,0.6967,0.6967,True
+15444,fa-IR,social,social_post,دو انگشت پاین به کامکارها آوای فروهر,qa_definition,0.9996,0.0,False
+15448,fa-IR,social,social_post,یک توئیت به سونی در مورد مشکلات سایز بفرست,social_post,0.9997,0.9997,True
+15454,fa-IR,social,social_post,به شرکت هواپیمایی ایران ایر توئیت کن و بگو بابت گک کردن چمدان‌هایم عصبانی هستم,social_post,0.3722,0.3722,True
+15456,fa-IR,social,social_post,میخواهم در مورد ایرلاین ماهان توییت کنم که من خیلی قهرم که کیسه هایم گم شده,social_post,0.9964,0.9964,True
+15457,fa-IR,social,social_post,من با برگرم مشکل داشتم میتونی به عطاویچ توئیت بفرستی,social_post,0.9999,0.9999,True
+15459,fa-IR,social,social_post,یک شکایت twitter ارسال کن,social_post,0.8789,0.8789,True
+15464,fa-IR,social,social_post,من محصول را به موقع دریافت نکردم یک توئیت به شرکت فروشگاه‌های زنجیره‌ای رفاه ارسال کن,qa_factoid,0.8769,0.0103,False
+15467,fa-IR,social,social_post,به ایرانسل بگو من از آنها متنفرم,social_post,0.6357,0.6357,True
+15472,fa-IR,social,social_post,یک شکایت به کتابفروشی آنلاین توئیت کن,qa_factoid,0.6431,0.0413,False
+15487,fa-IR,social,social_post,به خرده فروشی اسپات در مورد تمیزی فروشگاه آنها توئیت کن,lists_remove,0.1717,0.0351,False
+15488,fa-IR,social,social_post,لطفا به در آی گون توییت کن که من منتظر سفارشم استم و خوش نیستم,social_post,0.3627,0.3627,True
+15503,fa-IR,social,social_post,توئیت جدید برای خدمات مصرف کننده,iot_hue_lightoff,0.9906,0.0003,False
+15508,fa-IR,social,social_post,سیری twitter را باز کن به روزنامه همشهری توئیت بزن,social_post,0.9997,0.9997,True
+15518,fa-IR,social,social_post,یک شکایت از طریق توئیت به ایران خودرو بفرست,social_post,0.9568,0.9568,True
+15532,fa-IR,social,social_post,اولی به شرکت خرده فروشی اسپات توئیت کن و بگو خدمات مشتری شان افتضاح است,qa_factoid,0.9974,0.0001,False
+15546,fa-IR,social,social_post,پیتزا پاشا در مورد پیتزای سرد توئیت کن,cooking_recipe,0.7085,0.0048,False
+15548,fa-IR,social,social_post,شکایت موبایل به سامسونگ توئیت کن,qa_factoid,0.9962,0.0001,False
+15553,fa-IR,social,social_post,لطفا توئیت پاسخ منفی در خدمات اسنوا بگذار,qa_factoid,0.9844,0.0103,False
+15554,fa-IR,social,social_post,لطفاً برای خدمات تاخیری در خدمات dell توئیت کن,iot_hue_lightoff,0.6939,0.0097,False
+15556,fa-IR,social,social_post,بیا یک شکایت توئیت کنیم,iot_hue_lightoff,0.8091,0.0327,False
+15557,fa-IR,social,social_post,میخوام که راجع به شکایتم توئیت کنی,email_sendemail,0.4351,0.021,False
+15560,fa-IR,social,social_post,در facebook پست کن من گرسنه‌ام,social_post,0.9999,0.9999,True
+15565,fa-IR,social,social_post,آیا می‌توانی به هواپیمایی کیش ایر اطلاع بدهی که من دیگر از آنها استفاده نمی‌کنم,email_sendemail,0.3184,0.0673,False
+15587,fa-IR,social,social_post,گالری را باز کن اسم عکس را پست کن,social_post,0.996,0.996,True
+15592,fa-IR,social,social_post,یک شکایت به ایرانسل توییت کن,qa_factoid,0.9607,0.0177,False
+15593,fa-IR,social,social_post,یک شکایت در پارس آنلاین توئیت کن,social_post,0.8985,0.8985,True
+15598,fa-IR,social,social_post,نام شرکت را باز و شکایات را پیدا کن,qa_factoid,0.578,0.0169,False
+15610,fa-IR,social,social_post,یک توییت به شرح زیر پست کن بخش پشتیبانی شرکت سایپا عملکرد بسیار بدی دارد و من کاملاً ناراضی هستم,qa_factoid,0.9919,0.0018,False
+15618,fa-IR,social,social_post,به بیمه دی توئیت کن که آنها خیلی بد اند,qa_factoid,0.8336,0.0221,False
+15626,fa-IR,social,social_post,به شاتل یک توییت بنویس و از خدمات بد مشتریان شکایت کن,qa_factoid,0.7694,0.0149,False
+15634,fa-IR,social,social_post,اوکی گوگل توییت کن صاحب پمپ بنزین چه آدم آشغالی ست,qa_factoid,0.9951,0.0002,False
+15635,fa-IR,social,social_post,توییت کن که عطاویچ شهرک اکباتان سرویس افتضاحی دارد,qa_factoid,0.9919,0.0066,False
+15647,fa-IR,social,social_post,شکایت از at را توئیت کن,social_post,0.6791,0.6791,True
+15651,fa-IR,social,social_post,گزارش به خدمات مصرف کننده بفرست,qa_factoid,0.3152,0.0327,False
+15652,fa-IR,social,social_post,شکایت کمک به خدمات مصرف کننده,email_sendemail,0.9353,0.0031,False
+15655,fa-IR,social,social_post,به خدمات مشتریان گوگل توئیت بزن و بگو گوشی نکسوس من از کار افتاده لطفا کمک کنید,social_post,0.3542,0.3542,True
+15656,fa-IR,social,social_post,یک پیام به suqcom توئیت کن که هنوز منتظر تحویلم هستم,email_sendemail,1.0,0.0,False
+15661,fa-IR,social,social_post,نوشته آخر من را در twitter به شرکت بانوج پست کن,social_post,0.9999,0.9999,True
+15670,fa-IR,social,social_post,یک توئیت اعتراض بفرست,iot_hue_lightoff,0.9164,0.0132,False
+15672,fa-IR,social,social_post,به شرکت اپل یک توییت در مورد عدم دریافت آیفونی که هفته‌ی پیش برای تعمیر فرستادم بفرست,social_post,0.864,0.864,True
+15676,fa-IR,social,social_post,لطفا یک شکایت از باغ زندگی توئیت کن,social_post,0.319,0.319,True
+15686,fa-IR,social,social_post,سلام جنسی که من از کسی خریدم از اوردر خلاص شده,qa_factoid,0.5501,0.2925,False
+15693,fa-IR,social,social_post,توئیت بزن که یک حشره در بسته شکلات وجود داشت,cooking_recipe,0.9358,0.0007,False
+15700,fa-IR,social,social_post,محصولات منقضی شده در بازار اخیر,qa_factoid,0.9395,0.0016,False
+15703,fa-IR,social,social_post,توئیتر به فروشگاه شهروند آنها خیلی زود اندازه ها را خلاص میکنن,recommendation_events,0.8664,0.029,False
+15706,fa-IR,social,social_post,به توئیت کن,qa_factoid,0.9384,0.0002,False
+15707,fa-IR,social,social_post,بیا یک توئیت ارسال کنیم,iot_hue_lightoff,0.912,0.0783,False
+15708,fa-IR,social,social_post,یک شکایت در مورد خدمات a پست کن,email_sendemail,0.9837,0.0062,False
+15721,fa-IR,social,social_post,چهره ای منزجراز رستوران‌های زنجیره‌ای شیلا توئیت کن,recommendation_events,0.5751,0.0907,False
+15723,fa-IR,social,social_post,وضعیت احساس خوشحالی را در facebook تنظیم کن,iot_hue_lightoff,0.5427,0.018,False
+15731,fa-IR,social,social_post,آلی به داداش و برادر توئیت کن و بگو که خدمات شان خیلی بده,social_post,0.5757,0.5757,True
+15732,fa-IR,social,social_post,به سامسونگ توئیت کن و به آنها بگو از کشتن مردم با محصولاتشان دست بردارند,social_post,0.9443,0.9443,True
+15736,fa-IR,social,social_post,یک مرور منفی به این شرکت بفرست,social_post,0.5462,0.5462,True
+15756,fa-IR,email,email_sendemail,لطفا به تیم من ایمیل بزن,email_sendemail,1.0,1.0,True
+15763,fa-IR,email,email_query,لطفا ایمیل‌های جدید را بررسی کن,email_sendemail,1.0,0.0,False
+15765,fa-IR,email,email_sendemail,به ایمیل امیر پاسخ بده,email_sendemail,1.0,1.0,True
+15777,fa-IR,email,email_query,به من بگو اگر ایمیل‌های جدیدی دارم,email_sendemail,1.0,0.0,False
+15785,fa-IR,email,email_query,آیا چیز جدیدی در صندوق ورودی من وجود دارد,qa_factoid,0.358,0.0726,False
+15789,fa-IR,email,email_query,اوولی آیا من ایمیل جدیدی دارم,email_sendemail,1.0,0.0,False
+15792,fa-IR,calendar,calendar_query,من امروز با کی جلسه هستم,qa_factoid,0.987,0.0002,False
+15796,fa-IR,email,email_sendemail,به ندا ایمیل بزن,email_sendemail,1.0,1.0,True
+15802,fa-IR,email,email_sendemail,به ایمیل جواد پاسخ بده که من امشب نمی آیم,email_sendemail,1.0,1.0,True
+15809,fa-IR,email,email_query,آیا علی هنوز برای من ایمیل نفرستاده است,email_sendemail,1.0,0.0,False
+15825,fa-IR,email,email_sendemail,به بابا پاسخ بده بنویس من دیر می‌رسم,qa_factoid,0.9995,0.0,False
+15828,fa-IR,email,email_sendemail,در اینجا یک آدرس ایمیل جدید برای اضافه شدن به مخاطبین وجود دارد,email_sendemail,1.0,1.0,True
+15829,fa-IR,email,email_sendemail,به مخاطبین برو و یک آدرس ایمیل جدید وارد کن,email_sendemail,1.0,1.0,True
+15839,fa-IR,email,email_query,موضوع,email_query,0.8785,0.8785,True
+15841,fa-IR,email,email_sendemail,یک ایمیل جدید برای رایان بنویس,email_sendemail,1.0,1.0,True
+15845,fa-IR,email,email_sendemail,آن چگونه به ما می رسد,qa_factoid,0.9644,0.0009,False
+15847,fa-IR,email,email_sendemail,چگونه می‌توانیم اعتبار بگیریم,qa_factoid,0.9964,0.0,False
+15849,fa-IR,email,email_sendemail,به رئیس من ایمیل بفرست,email_sendemail,1.0,1.0,True
+15857,fa-IR,email,email_sendemail,لطفا به آدرس ایمیل جدید که لیست شده ایمیل بده,email_sendemail,1.0,1.0,True
+15862,fa-IR,email,email_query,ایمیل دریافتی از مامان را چک کن,email_sendemail,1.0,0.0,False
+15880,fa-IR,email,email_query,لطفا صندوق پستی من را چک کن,email_sendemail,0.9941,0.0054,False
+15890,fa-IR,email,email_query,چک کنید ببین آیا ایمیل جدیدی از پدرم دارم,email_sendemail,1.0,0.0,False
+15904,fa-IR,email,email_query,ایمیل‌های جدید من را بررسی کن و به من بگو در مورد چیست,email_sendemail,0.9704,0.0296,False
+15906,fa-IR,email,email_sendemail,به علی پاسخ بده متشکرم,qa_factoid,0.9996,0.0001,False
+15911,fa-IR,email,email_sendemail,یک ایمیل برای ثمین آماده کن,email_sendemail,1.0,1.0,True
+15933,fa-IR,email,email_query,من چه ایمیل‌ جدیدی دارم,email_sendemail,1.0,0.0,False
+15942,fa-IR,email,email_sendemail,این ایمیل را برای پاسخ به تمام ایمیل های اخیر بفرست,email_sendemail,1.0,1.0,True
+15950,fa-IR,email,email_sendemail,به ایمیل امیر فرهادی پاسخ بده,email_sendemail,1.0,1.0,True
+15957,fa-IR,email,email_sendemail,به زهرا ایمیل بده تا بداند ما در راه هستیم,email_sendemail,1.0,1.0,True
+15963,fa-IR,email,email_query,آیا من هیچ ایمیل جدیدی از امیر دارم,email_sendemail,1.0,0.0,False
+15966,fa-IR,email,email_query,اگر خیلی مهم است یک پاسخ ارسال کن,qa_factoid,0.4186,0.0858,False
+15968,fa-IR,email,email_query,اگر از یک مکان بسیار آشنا است آن را به عنوان مهم علامت‌گذاری کن,iot_hue_lightoff,0.2232,0.0738,False
+15970,fa-IR,email,email_query,موضوع آخرین ایمیل مامان چی بود,email_sendemail,1.0,0.0,False
+15971,fa-IR,email,email_query,اخرین ایمیل از محل کار چیست,email_sendemail,1.0,0.0,False
+15994,fa-IR,email,email_sendemail,یک ایمیل به اکبر بفرست و از او بپرس چه زمانی برای جلسه مناسب است,email_sendemail,1.0,1.0,True
+15995,fa-IR,email,email_sendemail,در مورد جلسه بودجه به علی ایمیل بده,email_sendemail,1.0,1.0,True
+15998,fa-IR,email,email_query,ایمیل‌های من را برای چیزی از نام چک کن,email_query,0.9998,0.9998,True
+16002,fa-IR,email,email_query,ایمیل جدید را بررسی کن,email_sendemail,0.9902,0.0098,False
+16005,fa-IR,email,email_sendemail,به یوسف ات جیمیل دات کام ایمیل بفرست,email_sendemail,1.0,1.0,True
+16010,fa-IR,email,email_query,به من بگو اگر پیام جدیدی در صندوق ورودی خود دارم,email_sendemail,1.0,0.0,False
+16024,fa-IR,email,email_sendemail,یک ایمیل به امیر بفرست که فردا مشغله دارم,email_sendemail,1.0,1.0,True
+16028,fa-IR,email,email_sendemail,سلام سیری یک ایمیل برای همکار شروع کن,email_sendemail,1.0,1.0,True
+16029,fa-IR,email,email_sendemail,لطفا ایمیل جدید برای همکار من بفرست,email_sendemail,1.0,1.0,True
+16032,fa-IR,email,email_sendemail,لطفاً در مورد جلسه فردا به سمیرا ایمیل بفرست,email_sendemail,1.0,1.0,True
+16038,fa-IR,email,email_query,هی کامران اخیرا برای من ایمیلی فرستاده است,email_sendemail,0.9988,0.0003,False
+16045,fa-IR,email,email_sendemail,به علی نامه بده در مورد ساعت بازگشایی اداره,email_sendemail,1.0,1.0,True
+16048,fa-IR,email,email_query,ایمیل های اخیر را به من نشان بده,email_sendemail,0.9998,0.0002,False
+16049,fa-IR,email,email_sendemail,من میخوام به خانواده ام ایمیل بفرستم میتونی کمکم کنی,email_sendemail,1.0,1.0,True
+16050,fa-IR,email,email_query,جیمیل را چک کن,email_query,0.3106,0.3106,True
+16052,fa-IR,email,email_query,اوت لوک را بررسی کن,recommendation_events,0.9376,0.0168,False
+16056,fa-IR,email,email_sendemail,به ایمیل پاسخ بده,email_sendemail,1.0,1.0,True
+16061,fa-IR,email,email_query,آیا در ده دقیقه گذشته ایمیلی دریافت کرده‌ام,email_query,0.9094,0.9094,True
+16072,fa-IR,email,email_sendemail,به رئیسم ایمیل بزن که امروز به دلیل یک موقعیت اضطراری دیر می‌آیم و از او برای از دست دادن جلسه عذرخواهی می‌کنم,email_sendemail,1.0,1.0,True
+16075,fa-IR,email,email_query,ایمیل اخیر از علی را نشان بده,email_sendemail,1.0,0.0,False
+16082,fa-IR,email,email_sendemail,یک ایمیل به پدرام بفرست و از او بپرس که الان چطور است می‌توانم کاری انجام دهم تا به او کمک کنم,email_sendemail,1.0,1.0,True
+16089,fa-IR,email,email_query,آیا من هیچ ایمیل جدیدی در ده دقیقه گذشته داشتم,email_sendemail,1.0,0.0,False
+16096,fa-IR,email,email_query,آیا ندا برای من ایمیل جدیدی ارسال کرده است,email_sendemail,1.0,0.0,False
+16098,fa-IR,email,email_query,ایمیل‌های خوانده نشده از عاطفه را بررسی کن,email_sendemail,1.0,0.0,False
+16100,fa-IR,email,email_query,لطفا ایمیل حاوی لیست مشاغل را بررسی کن,email_sendemail,1.0,0.0,False
+16103,fa-IR,email,email_sendemail,به برادر من ایمیل بزن و بگو سالگرد ازدواج,email_sendemail,1.0,1.0,True
+16120,fa-IR,email,email_sendemail,کمک فقط باید به رضا ارسال شود,qa_factoid,0.9682,0.0006,False
+16131,fa-IR,email,email_sendemail,این ایمیل جدید باید به مخاطب من اضافه شود,email_sendemail,1.0,1.0,True
+16145,fa-IR,email,email_query,جدیدترین ایمیل‌ها را به من نمایش بده,email_sendemail,1.0,0.0,False
+16146,fa-IR,news,news_query,آخرین آپدیت ها را به من بده,qa_factoid,0.6388,0.0086,False
+16148,fa-IR,email,email_sendemail,پاسخ سریع به جواد پس لطفا یک ایمیل بفرست,email_sendemail,1.0,1.0,True
+16151,fa-IR,email,email_query,برنامه جلسه را در ایمیل امروز بررسی کن,recommendation_events,0.9525,0.0285,False
+16162,fa-IR,email,email_sendemail,پاسخ بفرست,qa_factoid,0.8179,0.0312,False
+16163,fa-IR,email,email_query,که دیروز به من نامه فرستاد,email_sendemail,1.0,0.0,False
+16165,fa-IR,email,email_query,آیا ندا پاسخ داد,qa_factoid,0.9994,0.0,False
+16166,fa-IR,email,email_sendemail,می‌توانی به ندا پاسخ بدهی که من تا سه هفته بعد مشغول پروژه‌ها خواهم بود,recommendation_events,0.7867,0.0369,False
+16168,fa-IR,email,email_query,هیچ ایمیل جدیدی در پانزده دقیقه گذشته داشته ام,email_sendemail,1.0,0.0,False
+16170,fa-IR,email,email_query,صندوق ورودی را باز کن تا نامه‌های ناخوانده را بررسی کنی,email_sendemail,0.5253,0.0561,False
+16178,fa-IR,email,email_query,هر نامه از amazon امروز,email_sendemail,0.999,0.0006,False
+16183,fa-IR,email,email_query,ایمیل‌های کاری من را چک کن,email_query,0.9857,0.9857,True
+16201,fa-IR,email,email_sendemail,لطفا ایمیل جدید را برای نصرت بارگیری کن و اکنون پیام ارسال کن,email_sendemail,1.0,1.0,True
+16221,fa-IR,email,email_sendemail,ایمیل امیر را بالا بکش و بنویس که به او اطلاع خواهم داد,email_sendemail,0.9712,0.9712,True
+16245,fa-IR,email,email_sendemail,برای این نشانی ایمیل بفرست.,email_sendemail,1.0,1.0,True
+16248,fa-IR,email,email_query,ایمیل من را چک کن,email_query,0.997,0.997,True
+16263,fa-IR,email,email_query,آیا من هیچ ایمیل جدیدی از فرامرز دریافت کرده‌ام,email_sendemail,1.0,0.0,False
+16266,fa-IR,email,email_sendemail,یک ایمیل به خانواده‌ام بنویس که همه شما را دوست دارم,email_sendemail,1.0,1.0,True
+16271,fa-IR,email,email_query,صندوق ورودی من را بازنشانی کن و در مورد ایمیل‌های جدید به من اطلاع بده,email_sendemail,0.9984,0.0016,False
+16275,fa-IR,email,email_query,نظرسنجی برای ایمیل جدید را شروع کن,email_sendemail,1.0,0.0,False
+16276,fa-IR,email,email_query,آیا من ایمیل جدیدی دارم,email_sendemail,1.0,0.0,False
+16280,fa-IR,email,email_sendemail,لطفا یک ایمیل به نصرت که در فهرست خانواده و دوستان من وجود دارد ارسال کن,email_sendemail,1.0,1.0,True
+16282,fa-IR,email,email_sendemail,یک ایمیل به دستیار من نیلوفر ارسال کن تا همه قرارهای فردا را لغو کند,email_sendemail,1.0,1.0,True
+16296,fa-IR,email,email_sendemail,برای مامان ایمیل بفرست تا به او بگویی جشن تولد ندا یکشنبه است,email_sendemail,1.0,1.0,True
+16297,fa-IR,email,email_sendemail,یک ایمیل به امیر بفرست تا به او بگویم متشکرم,email_sendemail,1.0,1.0,True
+16314,fa-IR,email,email_sendemail,یک ایمیل به ندا بفرست,email_sendemail,1.0,1.0,True
+16317,fa-IR,email,email_query,آیا من ایمیل جدیدی از ندا دریافت کردم,email_sendemail,1.0,0.0,False
+16318,fa-IR,email,email_sendemail,به ایمیل پاسخ بده,email_sendemail,1.0,1.0,True
+16320,fa-IR,email,email_sendemail,من میخوام ایمیل علی نوری را پاسخ بدم,email_sendemail,1.0,1.0,True
+16353,fa-IR,email,email_query,ایمیل‌ها ی ارسلان را چک کن,email_sendemail,0.5853,0.4147,False
+16354,fa-IR,email,email_query,ایمیل‌های کارفرمای من را بررسی کن,email_query,0.9905,0.9905,True
+16356,fa-IR,email,email_query,آیا به علی در مرد کنترل اسلحه ایمیل زدم,email_sendemail,1.0,0.0,False
+16357,fa-IR,email,email_query,آیا علی در مورد مهمات به من ایمیل زده است,email_sendemail,1.0,0.0,False
+16361,fa-IR,email,email_query,آیا من از یک ساعت پیش هیچ ایمیل جدیدی دارم,email_sendemail,1.0,0.0,False
+16373,fa-IR,email,email_query,آیا ایمیلی با شماره پیگیری دریافت کرده‌ام,email_sendemail,0.5239,0.4749,False
+16375,fa-IR,email,email_sendemail,یک ایمیل به غلام بنویس,email_sendemail,1.0,1.0,True
+16376,fa-IR,email,email_sendemail,لطفا یک ایمیل برای مامان ارسال کن,email_sendemail,1.0,1.0,True
+16377,fa-IR,email,email_sendemail,اکنون به مامان ایمیلی بزن,social_post,0.9801,0.0003,False
+16384,fa-IR,email,email_query,سلام من ایمیل جدیدی دارم,email_sendemail,1.0,0.0,False
+16385,fa-IR,email,email_query,ایمیل های جدید را بخوان,email_sendemail,1.0,0.0,False
+16398,fa-IR,email,email_sendemail,لطفا ایمیل را به نصرت ارسال کن,email_sendemail,1.0,1.0,True
+16399,fa-IR,email,email_query,آیا من ایمیل جدیدی دریافت کرده‌ام,email_sendemail,1.0,0.0,False
+16401,fa-IR,email,email_sendemail,یک پیام ایمیل به دنیا بفرست سلام امروز چه کار می کنی,email_sendemail,1.0,1.0,True
+16402,fa-IR,email,email_sendemail,برنامه‌های امروز را برای دنیا ایمیل کن,recommendation_events,0.9975,0.0023,False
+16406,fa-IR,email,email_sendemail,الکسا ایمیل شروع کن,email_sendemail,1.0,1.0,True
+16410,fa-IR,email,email_sendemail,ایمیل بنویس,email_sendemail,1.0,1.0,True
+16413,fa-IR,email,email_query,تمام ایمیل هایی که از طرف رئیس برای من فرستاده شده را نشان بده,email_sendemail,1.0,0.0,False
+16419,fa-IR,email,email_sendemail,لطفاً یک ایمیل به عمو جواد با عبارت زیر ارسال کن بله من می‌توانم آن را انجام دهم,email_sendemail,1.0,1.0,True
+16427,fa-IR,email,email_query,امروز چند ایمیل جدید دریافت کردم,email_sendemail,1.0,0.0,False
+16430,fa-IR,email,email_sendemail,لطفاً یک ایمیل برای مامان و بابا بفرست که حالشان را بپرسی,email_sendemail,1.0,1.0,True
+16437,fa-IR,email,email_sendemail,لطفا این ایمیل را برای دوست من ارسال کن,email_sendemail,1.0,1.0,True
+16438,fa-IR,email,email_sendemail,من نیاز دارم که اکنون این ایمیل ارسال شود,email_sendemail,1.0,1.0,True
+16446,fa-IR,email,email_query,لطفاً ایمیل آخر این فرستنده را بررسی کن,email_sendemail,1.0,0.0,False
+16459,fa-IR,email,email_sendemail,پیام جدید به جاوید ات جیمیل دات کام,email_sendemail,0.9857,0.9857,True
+16461,fa-IR,email,email_query,آیا من ایمیل خوانده نشده‌ای دارم,email_sendemail,1.0,0.0,False
+16467,fa-IR,email,email_query,آیا من هیچ ایمیل جدیدی از مخاطبم ق دارم,email_sendemail,1.0,0.0,False
+16471,fa-IR,email,email_query,ایمیل‌های علی را چک کن,email_sendemail,0.7533,0.2467,False
+16496,fa-IR,email,email_sendemail,یک ایمیل پاسخی بفرست,email_sendemail,1.0,1.0,True
+16501,fa-IR,email,email_sendemail,لطفا برای دوست من علی یک ایمیل بفرست و بگو حالت چطور است,email_sendemail,0.9999,0.9999,True
+16506,fa-IR,email,email_sendemail,آدرس ایمیل جدید اضافه کن و ایمیل بفرست,email_sendemail,1.0,1.0,True
+16518,fa-IR,email,email_sendemail,یک ایمیل جدید به ندا امیری بفرست,email_sendemail,1.0,1.0,True
+16519,fa-IR,email,email_sendemail,من باید یک ایمیل جدید به مخاطبین خود اضافه کنم,email_sendemail,1.0,1.0,True
+16535,fa-IR,email,email_sendemail,می توانی یک ایمیل به ماهان بنویسی,email_sendemail,1.0,1.0,True
+16559,fa-IR,email,email_sendemail,در جواب ایمیل امروز صبح احمد بنویس چهارصد و پنجاه,email_sendemail,1.0,1.0,True
+16560,fa-IR,email,email_sendemail,در جواب ایمیل رئیس بنویس فردا ساعت چهار عصر آنجا خواهم بود,email_sendemail,1.0,1.0,True
+16563,fa-IR,email,email_query,اوولی ایمیل من را چک کن,email_sendemail,0.9998,0.0002,False
+16591,fa-IR,email,email_sendemail,من به تازگی یک ایمیل از علی دریافت کردم و باید همین الان به آن پاسخ دهم,email_sendemail,1.0,1.0,True
+16593,fa-IR,email,email_sendemail,آخرین ایمیل رو در اسرع وقت جواب بده,email_sendemail,1.0,1.0,True
+16603,fa-IR,email,email_query,ایمیلی که نیم ساعت پیش از مامان ارسال شده چه می‌گوید,email_sendemail,1.0,0.0,False
+16605,fa-IR,email,email_sendemail,برای رئیسم ایمیل بنویس و بفرست,email_sendemail,1.0,1.0,True
+16609,fa-IR,email,email_query,به من بگو اگر ایمیل‌های جدید خوانده نشده‌ای دارم,email_sendemail,1.0,0.0,False
+16613,fa-IR,email,email_sendemail,به رئیس ایمیل بفرست و بگو دیر می‌رسم,email_sendemail,1.0,1.0,True
+16622,fa-IR,email,email_sendemail,برای این مخاطب ایمیل ارسال کن,email_sendemail,1.0,1.0,True
+16624,fa-IR,email,email_sendemail,من نیاز به یک ایمیل برای ارسال به شرکت پارس آنلاین در مورد مسائل خدماتم دارم,email_sendemail,1.0,1.0,True
+16627,fa-IR,email,email_query,ایمیل‌های جدید را بررسی کن,email_sendemail,0.9984,0.0016,False
+16630,fa-IR,email,email_sendemail,پاسخ را به آخرین ایمیل ارسال کن,email_sendemail,1.0,1.0,True
+16642,fa-IR,email,email_query,ایمیل را برای هر چیزی از شراره چک کن,email_sendemail,0.9998,0.0002,False
+16648,fa-IR,email,email_query,لطفا ایمیل‌های من را برایم بررسی کن,email_sendemail,0.998,0.002,False
+16652,fa-IR,email,email_query,آیا ایمیل نصرت یک پیوست داشت,email_sendemail,1.0,0.0,False
+16662,fa-IR,email,email_query,آیا من هیچ ایمیل جدیدی از آرش دریافت کرده‌ام,email_sendemail,1.0,0.0,False
+16666,fa-IR,email,email_query,آیا من ایمیل دریافتی دارم,email_sendemail,1.0,0.0,False
+16668,fa-IR,email,email_query,آیا از ساعت چهار امروز تا الان هیچ ایمیل جدیدی رسیده,email_sendemail,1.0,0.0,False
+16669,fa-IR,email,email_query,آیا من ایمیلی از پیام دریافت کردم,email_sendemail,1.0,0.0,False
+16672,fa-IR,email,email_query,آیا علی در دسترسه,qa_factoid,1.0,0.0,False
+16677,fa-IR,email,email_query,آیا من امروز هیچ ایمیل جدیدی در صندوق ورودی خودم دارم,email_sendemail,1.0,0.0,False
+16698,fa-IR,email,email_sendemail,یک ایمیل در پاسخ به ایمیل مادر من بنویس,email_sendemail,1.0,1.0,True
+16701,fa-IR,email,email_sendemail,من می‌خواهم به ایمیل ساره پاسخ دهم,email_sendemail,1.0,1.0,True
+16703,fa-IR,email,email_sendemail,من می‌خواهم به ایمیل اخیر پاسخ بدهم,email_sendemail,1.0,1.0,True
+16712,fa-IR,email,email_query,آیا ایمیل جدیدی دارم,email_sendemail,1.0,0.0,False
+16713,fa-IR,email,email_query,لطفا ایمیل‌های من را بررسی کن و در صورت وجود ایمیل جدید به من اطلاع بده,email_sendemail,0.9999,0.0001,False
+16717,fa-IR,email,email_sendemail,می‌تونی لطفا به جمشید ایمیل بزنی بگی که من در مرخصی هستم,email_sendemail,1.0,1.0,True
+16719,fa-IR,email,email_query,هر ایمیل جدیدی که دریافت کردم به من اطلاع بده,email_sendemail,1.0,0.0,False
+16729,fa-IR,email,email_sendemail,به ایمیل من از علی اکبری پاسخ بده و به آنها اطلاع بده که فردا آنها را خواهم دید,email_sendemail,1.0,1.0,True
+16730,fa-IR,email,email_query,لطفا ایمیل جدید از علی را چک کن,email_sendemail,1.0,0.0,False
+16733,fa-IR,email,email_query,آخرین ایمیل‌های آمازون را به من نشان بده,email_sendemail,1.0,0.0,False
+16749,fa-IR,email,email_query,آیا امروز هیچ ایمیل جدیدی برای من وجود دارد,email_sendemail,1.0,0.0,False
+16754,fa-IR,email,email_sendemail,ایمیل بنویس,email_sendemail,1.0,1.0,True
+16758,fa-IR,email,email_query,هر ایمیل جدیدی از آخرین بار,email_sendemail,1.0,0.0,False
+16763,fa-IR,email,email_query,ایمیل‌های ده دقیقه‌ی گذشته,email_sendemail,1.0,0.0,False
+16765,fa-IR,email,email_query,ساعت مصاحبه از ایمیل دیروز چند است,email_sendemail,1.0,0.0,False
+16766,fa-IR,email,email_query,ایمیل جدید را چک کن,email_sendemail,0.9999,0.0001,False
+16772,fa-IR,email,email_query,تمام ایمیل‌های در مورد تخطی را نمایش بده,email_sendemail,1.0,0.0,False
+16780,fa-IR,email,email_sendemail,یک ایمیل به امیراسدی ات جیمیل دات کام ارسال کن,email_sendemail,1.0,1.0,True
+16791,fa-IR,email,email_sendemail,یک ایمیل جدید بنویس اما من این بار آدرس جدید گرفتم براندون ات اگزمپل دات کام,email_sendemail,1.0,1.0,True
+16799,fa-IR,email,email_query,آیا از ظهر ایمیلی دریافت کرده‌ام,email_sendemail,0.9259,0.0255,False
+16801,fa-IR,email,email_query,ایا ندا هیچ ایمیلی در مورد علی برایم فرستاده,email_sendemail,1.0,0.0,False
+16813,fa-IR,email,email_query,وقتی از علی ایمیلی دریافت می‌کنم صدای بیپ را بزن,play_music,0.8185,0.0001,False
+16814,fa-IR,email,email_query,ایمیل‌ها را بررسی کن,email_query,0.9864,0.9864,True
+16838,fa-IR,email,email_sendemail,میتونی یک ایمیل به آی دی جدید ارسال کنی,email_sendemail,1.0,1.0,True
+16851,fa-IR,email,email_query,اعلان‌های ایمیل,email_sendemail,1.0,0.0,False
+16859,fa-IR,email,email_query,من در آخرین ایمیلم به صنم چه گفتم,cooking_recipe,0.4676,0.051,False
+16872,fa-IR,email,email_sendemail,مهتاب را از مخاطبین من پیدا کن و برایش ایمیل بفرست,email_sendemail,0.9996,0.9996,True
+16873,fa-IR,email,email_sendemail,به ناهید برای تولدش ایمیل بزن,email_sendemail,1.0,1.0,True
+16880,fa-IR,email,email_sendemail,در مورد جلسه به ماهان ایمیل بزن,email_sendemail,1.0,1.0,True
+16883,fa-IR,email,email_sendemail,یک ایمیل به ماهان بفرست که او امشب چه ساعتی به خانه خواهد آمد,email_sendemail,1.0,1.0,True
+16886,fa-IR,email,email_sendemail,به این ایمیل پاسخ بده,email_sendemail,1.0,1.0,True
+16888,fa-IR,email,email_query,ایمیل جدید چطور,email_query,0.9916,0.9916,True
+16890,fa-IR,email,email_query,ایمیل جدید چه می‌گوید,email_sendemail,1.0,0.0,False
+16891,fa-IR,email,email_sendemail,به علی آهنگر ایمیل بزن,email_sendemail,1.0,1.0,True
+16892,fa-IR,email,email_sendemail,شروع کن و به علی نوری ایمیل بده,email_sendemail,1.0,1.0,True
+16899,fa-IR,email,email_query,آیا من هیچ ایمیلی از علی فرهادی دریافت کرده ام,email_sendemail,1.0,0.0,False
+16914,fa-IR,email,email_query,آیا من از این فرستنده ایمیل دارم,email_sendemail,1.0,0.0,False
+16916,fa-IR,email,email_sendemail,ایمیلی که من دریافت کردم را پاسخ بده,email_sendemail,0.8163,0.8163,True
+16924,fa-IR,email,email_query,لطفا جیمیل من را برای ایمیل جدید بررسی کن,email_sendemail,0.9794,0.0206,False
+16930,fa-IR,email,email_query,آخرین ایمیل را نمایش بده,email_sendemail,1.0,0.0,False
+16938,fa-IR,email,email_sendemail,به ایمیل علی پاسخ بده,email_sendemail,1.0,1.0,True
+16944,fa-IR,email,email_sendemail,برای مادربزرگ ایمیل بفرست و بنویس شنبه می رسیم. می بینمت.,email_sendemail,1.0,1.0,True
+16947,fa-IR,email,email_sendemail,به ایمیل پاسخ بده,email_sendemail,1.0,1.0,True
+16955,fa-IR,email,email_sendemail,به مخاطب جدید ایمیل بزن,email_sendemail,1.0,1.0,True
+16956,fa-IR,email,email_sendemail,به مخاطب جدید ایمیل بفرست,email_sendemail,1.0,1.0,True
+16961,fa-IR,email,email_sendemail,پاسخ بده با,qa_factoid,0.9984,0.0001,False
+16974,fa-IR,email,email_query,لطفا تمام ایمیل‌های جدید اداره‌ی مالیات بر درآمد را بررسی کن,email_sendemail,1.0,0.0,False
+16987,fa-IR,email,email_query,هر ایمیل جدیدی از علی,email_sendemail,1.0,0.0,False
+16989,fa-IR,email,email_sendemail,لطفا به ایمیلی که علی برایم فرستاده بگو من به پول نیاز دارم اکنون فوری است,email_sendemail,0.9899,0.9899,True
+16992,fa-IR,email,email_query,آیا ژاله امیری به من پیام داده,social_post,0.9999,0.0,False
+16995,fa-IR,email,email_sendemail,به آزاده ایمیل بزن,email_sendemail,1.0,1.0,True
+17005,fa-IR,email,email_query,لطفا ایمیل جدید را بررسی کن,email_sendemail,1.0,0.0,False
+17011,fa-IR,email,email_sendemail,میتونی یک ایمیل بفرستی به,email_sendemail,1.0,1.0,True
+17015,fa-IR,email,email_sendemail,پاسخ را شروع کن,email_query,0.3885,0.0054,False
+17019,fa-IR,email,email_sendemail,به ایمیل آخر پاسخی بنویس,email_sendemail,1.0,1.0,True
+17020,fa-IR,email,email_sendemail,به ایمیل آخر دریافتی پاسخ بده,email_sendemail,1.0,1.0,True
+17023,fa-IR,email,email_sendemail,به مامان ایمیل بزن و بپرس آب و هوای اونجا چطوره,email_sendemail,1.0,1.0,True
+17042,fa-IR,email,email_sendemail,یک ایمیل به علی ات جیمیل دات کام بنویس,email_sendemail,1.0,1.0,True
+17043,fa-IR,email,email_sendemail,به آیدی تیم ات هاتمیل دات کام ایمیل بفرست,email_sendemail,1.0,1.0,True
+17051,fa-IR,email,email_query,برای من ایمیل جدید بگیر,email_sendemail,1.0,0.0,False
+17052,fa-IR,email,email_query,نادیا را سرچ کن,qa_factoid,0.9957,0.0005,False
+17069,fa-IR,email,email_query,آیا ایمیل جدیدی در outlook وجود دارد,email_sendemail,1.0,0.0,False
+17075,fa-IR,email,email_query,آیا ایمیل جدیدی بعد از ساعت چهار امروز دریافت شده است,email_sendemail,1.0,0.0,False
+17081,fa-IR,email,email_sendemail,با اسنادی که اخیراً ذخیره کرده‌ام یک ایمیل برای کارگر شرکت من ایجاد کن,email_sendemail,1.0,1.0,True
+17087,fa-IR,email,email_query,ایمیل های جدید از ساره را برایم چک کن,email_sendemail,0.9988,0.0012,False
+17098,fa-IR,email,email_query,هر ایمیل دریافتی در یک ساعت گذشته را به من نشان بده,email_sendemail,1.0,0.0,False
+17107,fa-IR,email,email_query,ایمیل‌های جدید را بررسی کن,email_sendemail,0.9984,0.0016,False
+17108,fa-IR,email,email_query,آخرین ایمیلم را به من نشان بده,social_post,0.9846,0.0066,False
+17113,fa-IR,email,email_sendemail,یک ایمیل به ندا بفرست,email_sendemail,1.0,1.0,True
+17115,fa-IR,email,email_query,لیست ایمیل‌های جدید را بخوان,email_sendemail,1.0,0.0,False
+17116,fa-IR,email,email_query,فهرست ایمیل‌های اخیر را نمایش بده,email_sendemail,1.0,0.0,False
+17119,fa-IR,email,email_query,همه نامه‌های دیجی کالا را بررسی کن,recommendation_events,0.9308,0.0002,False
+17123,fa-IR,email,email_sendemail,فرم را به نائب رئیس منطقه‌ای ایمیل کن,email_sendemail,1.0,1.0,True
+17135,fa-IR,email,email_query,هیچ ایمیل اخبار روشنگری,email_sendemail,0.9992,0.0002,False
+17136,fa-IR,email,email_query,لطفا ایمیل‌های جدیدم را بخوان,email_sendemail,1.0,0.0,False
+17138,fa-IR,email,email_query,لطفا پیام‌های خوانده شده من را بایگانی کن,email_query,0.7172,0.7172,True
+17142,fa-IR,email,email_query,از آخرین باری که چک کردیم در صندوق ورودی من ایمیل جدیدی هست,email_sendemail,1.0,0.0,False
+17143,fa-IR,email,email_sendemail,سلام یک ایمیل به علی بفرست,email_sendemail,1.0,1.0,True
+17144,fa-IR,email,email_query,سلام ایمیل را چک کن,email_sendemail,1.0,0.0,False
+17147,fa-IR,email,email_sendemail,به ایمیل با محتوای زیر پاسخ بده سلام بر شما,email_sendemail,1.0,1.0,True
+17148,fa-IR,email,email_sendemail,الکسا این ایمیل رو جواب بده و بنویسم سلام,email_sendemail,1.0,1.0,True
+17151,fa-IR,email,email_sendemail,دوستم دارا برای من یک دعوتنامه فرستاده که بروم به خانه‌ای که تازه خریده یک تشکر به آیدی ایمیلش بفرست,email_sendemail,1.0,1.0,True
+17156,fa-IR,email,email_query,ایمیل من را برای هر ایمیل جدیدی از جواد چک کن,email_sendemail,1.0,0.0,False
+17157,fa-IR,email,email_query,آیا من ایمیل جدیدی از جواد دارم,email_sendemail,1.0,0.0,False
+17170,fa-IR,email,email_query,وقتی امیر به من ایمیل زد به من اطلاع بده,email_sendemail,1.0,0.0,False
+17179,fa-IR,email,email_query,آیا امیر برای من ایمیل فرستاده است,email_sendemail,1.0,0.0,False

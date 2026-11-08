@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,tr-TR,iot,iot_hue_lightoff,olly yatak odasındaki ışıkları kapat,iot_hue_lightoff,0.6289,0.6289,True
+47,tr-TR,datetime,datetime_query,avustralya'da saat kaç,weather_query,0.9635,0.0198,False
+85,tr-TR,datetime,datetime_query,bana bugünkü tarihi bildir,datetime_query,0.9902,0.9902,True
+86,tr-TR,datetime,datetime_query,bugün günlerden ne,weather_query,0.9984,0.0001,False
+100,tr-TR,weather,weather_query,haftanın hava durumu tahmini nedir,weather_query,0.9856,0.9856,True
+102,tr-TR,weather,weather_query,bu haftanın hava durumu nasıl,weather_query,0.9977,0.9977,True
+103,tr-TR,weather,weather_query,bu haftaki hava durumunu söyle,weather_query,0.9949,0.9949,True
+128,tr-TR,datetime,datetime_query,tarih ne,qa_factoid,0.9997,0.0,False
+151,tr-TR,play,play_music,onu tekrar çal lütfen,email_sendemail,0.9996,0.0,False
+177,tr-TR,news,news_query,bana biraz iş dünyası haberlerini söyle,news_query,0.6426,0.6426,True
+178,tr-TR,news,news_query,bana uluslararası haberleri söyle,email_sendemail,0.821,0.0601,False
+182,tr-TR,play,play_music,benim rock çalma listemi çal,play_music,0.9258,0.9258,True
+185,tr-TR,play,play_music,benim şarkı listemi aç ve sıradaki üçüncü şarkıyı çal,play_music,1.0,1.0,True
+197,tr-TR,datetime,datetime_query,saat kaç,weather_query,0.7219,0.2682,False
+216,tr-TR,weather,weather_query,bugün hava nasıl,weather_query,0.9991,0.9991,True
+219,tr-TR,weather,weather_query,yarın şemsiye getireyim mi,qa_factoid,0.5841,0.0078,False
+220,tr-TR,play,play_music,rock listemden müzik çal,play_music,0.999,0.999,True
+250,tr-TR,play,play_music,şu an canım çok jazz istiyor ya sen,play_music,0.8928,0.8928,True
+254,tr-TR,play,play_music,olly benim favori fenerbahçe oyuncumdan güzel bir bölüm oynat,play_music,0.3467,0.3467,True
+279,tr-TR,weather,weather_query,adana için bugünkü hava nasıl,weather_query,0.9997,0.9997,True
+281,tr-TR,news,news_query,amerikan doları ingiliz sterlini oranları nedir,lists_query,0.1968,0.0347,False
+296,tr-TR,play,play_music,nirvana çalma listesini çal,qa_factoid,0.8808,0.0001,False
+297,tr-TR,play,play_music,volkan konak şarkılarını karıştır,play_music,1.0,1.0,True
+299,tr-TR,weather,weather_query,hava nasıl,qa_definition,0.5356,0.0013,False
+310,tr-TR,datetime,datetime_query,bu yıl yeni yıl hangi güne denk geliyor,weather_query,0.9397,0.0562,False
+319,tr-TR,weather,weather_query,iki gün sonra bursa'da hava nasıl olacak söyler misin,weather_query,0.9989,0.9989,True
+329,tr-TR,play,play_music,yaz dostum,qa_factoid,0.9916,0.0,False
+333,tr-TR,weather,weather_query,bayburt'ta hava durumu nasıl,weather_query,0.9796,0.9796,True
+334,tr-TR,weather,weather_query,izmir'deki hava durumunu öğrenmek istiyorum,weather_query,0.9997,0.9997,True
+344,tr-TR,weather,weather_query,yarın yağmurlu mu olacak,weather_query,0.999,0.999,True
+348,tr-TR,weather,weather_query,yarın yağmur var mı,weather_query,0.9954,0.9954,True
+355,tr-TR,datetime,datetime_query,bir nisan hangi gün,weather_query,0.9961,0.0015,False
+360,tr-TR,datetime,datetime_query,mevcut saat kaç,weather_query,0.7165,0.0831,False
+362,tr-TR,play,play_music,mirkelam şarkılarından ikinci şarkıyı çal,play_music,1.0,1.0,True
+366,tr-TR,news,news_query,lütfen bana en son haberleri söyle,email_sendemail,1.0,0.0,False
+369,tr-TR,iot,iot_hue_lightoff,ışıkları kapat,calendar_remove,0.5407,0.1046,False
+385,tr-TR,news,news_query,yeni çağ da sansasyonel ne var,qa_factoid,0.998,0.0,False
+391,tr-TR,play,play_music,benim playlist ten bir rastgele şarkı aç,play_music,0.9753,0.9753,True
+393,tr-TR,play,play_music,benim çalma listemden tekrar bir şarkı aç,play_music,0.8288,0.8288,True
+397,tr-TR,play,play_music,kurban dan herhangi bir şarkı çal,play_music,1.0,1.0,True
+400,tr-TR,play,play_music,çalmaya başla,qa_factoid,0.9422,0.0011,False
+407,tr-TR,play,play_music,bir saat sonra rock müzik çalabilir misin,play_music,0.9994,0.9994,True
+424,tr-TR,news,news_query,flaş haberler ne,news_query,0.9949,0.9949,True
+427,tr-TR,iot,iot_hue_lightoff,banyo ışıklarını kapat,iot_hue_lightoff,0.958,0.958,True
+428,tr-TR,iot,iot_hue_lightoff,banyo ışıklarını kapat,iot_hue_lightoff,0.958,0.958,True
+430,tr-TR,weather,weather_query,şimdi hava nasıl,weather_query,0.9994,0.9994,True
+437,tr-TR,play,play_music,dini sohbetler klasörünü aç,social_post,0.9971,0.0001,False
+441,tr-TR,news,news_query,en son haber ana başlıkları nelerdir,social_post,0.7166,0.2729,False
+442,tr-TR,news,news_query,haberlerde neler oluyor,email_query,0.9121,0.0858,False
+451,tr-TR,news,news_query,bim stok fiyatı ile ilgili en son haberleri getir,news_query,0.981,0.981,True
+473,tr-TR,play,play_music,ceza çal,qa_factoid,0.9874,0.0001,False
+486,tr-TR,datetime,datetime_query,istanbul da saat kaç,weather_query,0.9299,0.0651,False
+491,tr-TR,weather,weather_query,dışarısı soğuk mu,weather_query,0.9975,0.9975,True
+506,tr-TR,play,play_music,tarkan dan şarkılar aç,play_music,0.8136,0.8136,True
+512,tr-TR,weather,weather_query,gündoğarken tarafından,qa_factoid,0.9833,0.0001,False
+540,tr-TR,play,play_music,hadise den prenses şarkı sını aç,qa_factoid,0.9984,0.0011,False
+555,tr-TR,play,play_music,ezhel den allahından bul u çal,email_sendemail,0.7343,0.0146,False
+576,tr-TR,play,play_music,tüm çalma listesini çal,lists_remove,0.9323,0.0002,False
+585,tr-TR,news,news_query,en son haberleri göster,news_query,0.5455,0.5455,True
+588,tr-TR,news,news_query,bugünün yeni haberleri neler,news_query,0.9998,0.9998,True
+590,tr-TR,weather,weather_query,anlık hava durumu nedir,weather_query,0.9787,0.9787,True
+614,tr-TR,play,play_music,çalma listesi başlat,lists_remove,0.9674,0.0005,False
+625,tr-TR,play,play_music,lütfen radyoda hande yener çal,play_radio,1.0,0.0,False
+631,tr-TR,news,news_query,boğaz kazası ile ilgili haberler için bildirim ayarla,iot_hue_lightoff,0.3609,0.2197,False
+651,tr-TR,iot,iot_hue_lightoff,oda ışıklarını kapat,iot_hue_lightoff,0.9739,0.9739,True
+660,tr-TR,datetime,datetime_query,japonya da mevcut saat,weather_query,0.9138,0.0001,False
+680,tr-TR,news,news_query,bitcoin fiyatı hakkında beni haberdar tut,qa_factoid,0.7238,0.0143,False
+686,tr-TR,datetime,datetime_query,şu anda aydın da saat kaç,weather_query,0.905,0.0008,False
+712,tr-TR,news,news_query,c. n. n. den son haberleri duymak istiyorum,news_query,0.949,0.949,True
+726,tr-TR,weather,weather_query,haftanın hava durumu ayrıntılarını özetleyin,weather_query,0.9927,0.9927,True
+730,tr-TR,iot,iot_hue_lightoff,ışıkları kapat,calendar_remove,0.5407,0.1046,False
+738,tr-TR,weather,weather_query,bugün dışarısı ne kadar soğuk,weather_query,0.9984,0.9984,True
+764,tr-TR,weather,weather_query,bu hafta için hava tahmini nasıl,weather_query,0.9985,0.9985,True
+765,tr-TR,news,news_query,lütfen bana en yeni sağlayıcı mdan güncel haber başlıklarını verir misiniz,email_sendemail,0.9888,0.0059,False
+767,tr-TR,news,news_query,lütfen bana genellikle bakmadığım bir kaynaktan en son haberleri bulabilir misin,news_query,0.9832,0.9832,True
+768,tr-TR,news,news_query,en sonki politika haberlerini söyle,email_sendemail,0.4711,0.4554,False
+779,tr-TR,play,play_music,teoman 'dan paramparça 'yı dinlemek istiyorum,iot_hue_lightoff,0.3123,0.2915,False
+781,tr-TR,play,play_music,destina 'yı çal,email_sendemail,0.878,0.0003,False
+782,tr-TR,play,play_music,ceza 'dan evin delisi 'ni aç,qa_factoid,0.6377,0.0047,False
+783,tr-TR,play,play_music,aşk şarkıları çal,play_music,1.0,1.0,True
+790,tr-TR,weather,weather_query,ılıman veya sert hava,weather_query,0.9943,0.9943,True
+826,tr-TR,weather,weather_query,dışarıda anlık sıcaklık nedir,weather_query,0.6916,0.6916,True
+827,tr-TR,play,play_music,murat boz çalma listesini aç,recommendation_events,0.7995,0.0021,False
+832,tr-TR,weather,weather_query,merhaba yarın için hava tahmini ne olacak,weather_query,0.9984,0.9984,True
+837,tr-TR,news,news_query,yaklaşan abd seçimleri için b. b. c. anket tahminleri nelerdir,lists_query,0.5658,0.0091,False
+891,tr-TR,play,play_music,biraz dini müzik çal,play_music,0.9979,0.9979,True
+914,tr-TR,iot,iot_hue_lightoff,lütfen ışıkları söndür,iot_hue_lightoff,0.8375,0.8375,True
+936,tr-TR,play,play_music,aç ve koşu çalma listemden müzik çal,play_music,0.9972,0.9972,True
+951,tr-TR,weather,weather_query,şu anda new york'ta hava nasıl,weather_query,0.9995,0.9995,True
+969,tr-TR,news,news_query,belirli bir konuda haber makaleler i,news_query,0.659,0.659,True
+974,tr-TR,datetime,datetime_query,istanbul da şu an saat kaç,weather_query,0.9955,0.003,False
+997,tr-TR,iot,iot_hue_lightoff,oturma odasının ışığını kapat,iot_hue_lightoff,0.9826,0.9826,True
+999,tr-TR,iot,iot_hue_lightoff,ışığı kapatır mısın,iot_hue_lightoff,0.8392,0.8392,True
+1007,tr-TR,play,play_music,benim rock çalma listemden sezen aksu çal,qa_factoid,0.5614,0.2364,False
+1014,tr-TR,datetime,datetime_query,ankara da şu anda saat kaç,weather_query,0.9978,0.0006,False
+1047,tr-TR,play,play_music,iyi bir ağlamaya ihtiyacım var hüzünlü rock şarkıları çalabilir misin,play_music,0.9999,0.9999,True
+1061,tr-TR,news,news_query,beni spor haberlerinden haberdar et,social_post,0.6973,0.0581,False
+1063,tr-TR,news,news_query,spor haberleri için saatlik bildirim ver,recommendation_events,0.4207,0.0547,False
+1084,tr-TR,news,news_query,kullanıcı dostu,qa_factoid,0.8936,0.0007,False
+1093,tr-TR,news,news_query,washington post web sitesine gidin,social_post,0.9592,0.0004,False
+1098,tr-TR,datetime,datetime_query,on beş mart haftanın hangi gününe denk gelir,weather_query,0.7648,0.1605,False
+1108,tr-TR,play,play_music,benim arzum biraz country müzik dinlemek,play_music,1.0,1.0,True
+1115,tr-TR,play,play_music,tüm pop şarkı türlerini düzenle,play_music,0.8992,0.8992,True
+1120,tr-TR,news,news_query,siyaset te özel bir şey var mı,qa_factoid,0.9788,0.0004,False
+1121,tr-TR,play,play_music,tarkandan ölürüm sana çal,qa_factoid,0.9941,0.0001,False
+1123,tr-TR,play,play_music,sırada zaman yok 'dan son feci bisikletin 'i çal,cooking_recipe,0.9974,0.0001,False
+1124,tr-TR,play,play_music,sırada nil karaibrahimgil kanatlarım var ruhumda çalmak için hazırla,qa_factoid,0.9993,0.0,False
+1127,tr-TR,play,play_music,karışık üzerinden şarkılar çal,play_music,1.0,1.0,True
+1144,tr-TR,play,play_music,bana biraz rap lazım,play_music,1.0,1.0,True
+1148,tr-TR,datetime,datetime_query,şu an izmir'de saat kaç,weather_query,0.8839,0.1001,False
+1156,tr-TR,news,news_query,uluslararası kadınlar günü hakkında son haberler,news_query,0.9907,0.9907,True
+1160,tr-TR,weather,weather_query,bu hafta her bir gece ne kadar soğuk olacak,weather_query,0.9994,0.9994,True
+1180,tr-TR,news,news_query,biden ile ilgili bugünkü en flaş haber konuları bul,news_query,0.9944,0.9944,True
+1202,tr-TR,datetime,datetime_query,mardin de saat kaç şu an,weather_query,0.8922,0.0796,False
+1238,tr-TR,play,play_music,pandora,qa_factoid,0.1403,0.0391,False
+1249,tr-TR,weather,weather_query,bu hafta hava nasıl olacak,weather_query,0.9989,0.9989,True
+1252,tr-TR,datetime,datetime_query,bana mevcut saati söyle,qa_factoid,0.9982,0.0015,False
+1294,tr-TR,news,news_query,akademi ödülleri haberlerini bana hızlı haber ver,recommendation_events,0.9015,0.0796,False
+1301,tr-TR,news,news_query,biden'ın dış politikası hakkındaki haberi söyle,email_sendemail,0.9557,0.0045,False
+1308,tr-TR,weather,weather_query,bugünün hava durumunu buradan al,weather_query,0.9921,0.9921,True
+1318,tr-TR,play,play_music,müzik uygulamalarını başlat ve benim için bir şarkı çal,play_music,0.9998,0.9998,True
+1351,tr-TR,weather,weather_query,bu hafta hava dışarıda güzel olacak mı,weather_query,0.9975,0.9975,True
+1371,tr-TR,news,news_query,hürriyetin ön sayfasında ne var,social_post,0.823,0.0075,False
+1377,tr-TR,iot,iot_hue_lightoff,lütfen oğlumun odasının ışığını kapat,iot_hue_lightoff,0.8238,0.8238,True
+1400,tr-TR,weather,weather_query,genelde dikkat ederim,qa_factoid,0.912,0.001,False
+1401,tr-TR,weather,weather_query,arada bir bakarım,qa_factoid,0.7778,0.0035,False
+1404,tr-TR,weather,weather_query,yarın bodrum için hava tahminini öğrenebilir miyim,weather_query,0.9986,0.9986,True
+1423,tr-TR,news,news_query,bana trump hakkında konuş,social_post,0.9958,0.0002,False
+1425,tr-TR,news,news_query,fransa'yla ilgili bir şey duyduğunda haber ver,social_post,0.9705,0.0113,False
+1440,tr-TR,play,play_music,dört veya üzeri puanlı güncel rock şarkılarını çal,play_music,0.9999,0.9999,True
+1449,tr-TR,datetime,datetime_query,iki bin on sekizde kurban bayramı ne zaman olacak,weather_query,0.9644,0.0029,False
+1458,tr-TR,weather,weather_query,bugün alanya için sıcaklık ne,weather_query,0.6189,0.6189,True
+1467,tr-TR,play,play_music,slayer çal,qa_factoid,0.9905,0.0002,False
+1474,tr-TR,news,news_query,bugünkü spor haberleri nelerdir,news_query,0.9997,0.9997,True
+1489,tr-TR,play,play_music,göksel den en yeni şarkılar çal,play_music,0.9999,0.9999,True
+1513,tr-TR,weather,weather_query,dışarıda sıcaklık kaç derece,weather_query,0.8436,0.8436,True
+1533,tr-TR,news,news_query,bugün c. n. n.'de neler haber oldu,news_query,0.9822,0.9822,True
+1537,tr-TR,datetime,datetime_query,bana türkiyedeki şu anki saati göster,weather_query,0.8933,0.0098,False
+1542,tr-TR,weather,weather_query,güneş bir hayli parlak bu havayı günün geri kalan kısmında da görecek miyiz,weather_query,0.9433,0.9433,True
+1546,tr-TR,play,play_music,yazın dinlenmesi gereken şarkılar playlisti mi çal,play_music,0.9996,0.9996,True
+1547,tr-TR,weather,weather_query,bu hafta lokasyonumda hava nasıl olacak,weather_query,0.9994,0.9994,True
+1549,tr-TR,weather,weather_query,bu hafta yağmur var mı,weather_query,0.997,0.997,True
+1554,tr-TR,iot,iot_hue_lightoff,lambaları söndür,iot_hue_lightoff,0.551,0.551,True
+1581,tr-TR,datetime,datetime_query,geçerli gün ay ve yıl nedir,qa_factoid,0.9817,0.0012,False
+1589,tr-TR,weather,weather_query,önümüzdeki salı güneşli olacak mı,weather_query,0.999,0.999,True
+1593,tr-TR,news,news_query,dünya haberlerinden bildirim ayarla,cooking_recipe,0.6917,0.0971,False
+1594,tr-TR,news,news_query,bana en son haberleri söyleyebilir misin,news_query,0.8255,0.8255,True
+1607,tr-TR,datetime,datetime_query,istanbulda şu anki saati söyle,datetime_query,0.7012,0.7012,True
+1617,tr-TR,news,news_query,siyaset hakkında yeni konu çıktığında beni uyar,qa_factoid,0.0703,0.0633,False
+1636,tr-TR,news,news_query,bana hürriyetten en son haberleri göster,news_query,0.7487,0.7487,True
+1653,tr-TR,weather,weather_query,bir sonraki yağmur ne zaman,weather_query,0.9983,0.9983,True
+1655,tr-TR,weather,weather_query,yarın öğlen kar var mı,weather_query,0.9934,0.9934,True
+1666,tr-TR,news,news_query,son altı saatteki en temiz haberler neler,news_query,0.9899,0.9899,True
+1671,tr-TR,play,play_music,bin dokuz yüz doksan ile iki bin yılları arasında yayınlanmış tüm müzik parçalarını çal,play_music,0.9999,0.9999,True
+1683,tr-TR,weather,weather_query,yarınki hava sıcak olacak evet mi hayır mı,weather_query,0.9995,0.9995,True
+1684,tr-TR,weather,weather_query,evet mi hayır mı yarınki hava sıcak olacak,weather_query,0.9995,0.9995,True
+1692,tr-TR,play,play_music,benim için biraz hafif arabesk bul,iot_hue_lightoff,0.4902,0.0083,False
+1722,tr-TR,weather,weather_query,istanbul için en düşük sıcaklık kaç derece,weather_query,0.9918,0.9918,True
+1750,tr-TR,iot,iot_hue_lightoff,bütün ışıkları söndür,iot_hue_lightoff,0.8687,0.8687,True
+1759,tr-TR,news,news_query,başkan trumpla ilgili haberleri ver,news_query,0.9544,0.9544,True
+1760,tr-TR,news,news_query,terörizm hakkında son haberler,news_query,0.9989,0.9989,True
+1777,tr-TR,play,play_music,sıradaki şarkı,play_music,0.9965,0.9965,True
+1784,tr-TR,iot,iot_hue_lightoff,yemek salonunu kapat,lists_remove,0.6111,0.0504,False
+1786,tr-TR,iot,iot_hue_lightoff,ebeveyn yatak odasını kapat,iot_hue_lightoff,0.7775,0.7775,True
+1794,tr-TR,news,news_query,biden türkiye'yi yakın zamanda ziyaret edecek mi,qa_factoid,0.9316,0.0023,False
+1796,tr-TR,datetime,datetime_query,bugün günlerden ne,weather_query,0.9984,0.0001,False
+1803,tr-TR,news,news_query,prömiyer lig de bugün hangi takımlar oynuyor,qa_factoid,0.9701,0.0011,False
+1811,tr-TR,play,play_music,çalma listesini başlat ve müzik çal,play_music,0.9998,0.9998,True
+1832,tr-TR,play,play_music,coldplay albüm çal,play_music,0.8078,0.8078,True
+1833,tr-TR,play,play_music,temalar çalma listesini döngüye alabilir misin,lists_remove,0.9964,0.0001,False
+1866,tr-TR,weather,weather_query,şu anda hava raporu ne,weather_query,0.4682,0.4682,True
+1870,tr-TR,datetime,datetime_query,bugün aylardan ne,qa_factoid,0.9545,0.0001,False
+1904,tr-TR,news,news_query,bana maçın önemli anlarını getir,email_sendemail,0.4521,0.0033,False
+1933,tr-TR,weather,weather_query,bu gece sıcaklık düşüşleri olacak mı,weather_query,0.9981,0.9981,True
+1940,tr-TR,play,play_music,şarkı ismi aç,calendar_remove,0.7651,0.0653,False
+1962,tr-TR,play,play_music,merhaba google benim gaana uygulamamda wacky playlist'i çal,play_music,0.9772,0.9772,True
+1994,tr-TR,play,play_music,benim itunes 'ümü açabilir misin,iot_hue_lightoff,0.5686,0.2242,False
+1995,tr-TR,play,play_music,mor ve ötesi çal,qa_factoid,0.9982,0.0001,False
+2007,tr-TR,play,play_music,lütfen yaşım ondokuzu çal,qa_factoid,0.9869,0.0002,False
+2062,tr-TR,play,play_music,biraz jazz müzik çalınmasını istiyorum,play_music,1.0,1.0,True
+2085,tr-TR,play,play_music,alexa bach veya schubert hariç klasik müzik dinlemek istiyorum,play_music,1.0,1.0,True
+2098,tr-TR,news,news_query,bugünlerde dünyada neler oluyor,weather_query,0.9912,0.0018,False
+2108,tr-TR,play,play_music,sırada suspus u çal,qa_factoid,0.8601,0.0075,False
+2113,tr-TR,recommendation,recommendation_events,benim semtteki bütün etkinlikleri söyle bana,qa_factoid,0.443,0.1183,False
+2146,tr-TR,datetime,datetime_query,şu andan iki yıl sonrası için kış gündönümü hangi gün,weather_query,0.9963,0.0018,False
+2156,tr-TR,datetime,datetime_query,şu an saatin kaç olduğunu bilmem gerekiyor nedir,datetime_query,0.8062,0.8062,True
+2160,tr-TR,iot,iot_hue_lightoff,şimdi uyuyacağım,cooking_recipe,0.91,0.0504,False
+2178,tr-TR,weather,weather_query,benim muhitimde anlık hava nasıl,weather_query,0.9934,0.9934,True
+2198,tr-TR,datetime,datetime_query,dört aralık bin dokuz yüz seksen iki haftanın hangi günüydü,datetime_query,0.6733,0.6733,True
+2201,tr-TR,news,news_query,c. n. n. başlıkları,lists_remove,0.4257,0.0135,False
+2203,tr-TR,news,news_query,b. b. c. world başlıkları,qa_factoid,0.9666,0.0006,False
+2220,tr-TR,weather,weather_query,paris'te hava durumu,weather_query,0.992,0.992,True
+2225,tr-TR,play,play_music,yıldız tilbe 'den delikanlım 'ı çal,iot_hue_lightoff,0.9945,0.0001,False
+2230,tr-TR,iot,iot_hue_lightoff,mutfak ışığını söndür,iot_hue_lightoff,0.9816,0.9816,True
+2237,tr-TR,news,news_query,en sonki uluslararası haberleri oku,news_query,0.9027,0.9027,True
+2258,tr-TR,weather,weather_query,bugün kazak giymem gerekir mi,qa_factoid,0.9948,0.0,False
+2265,tr-TR,weather,weather_query,şu anda izmir de hava nasıl söyle lütfen,weather_query,0.9994,0.9994,True
+2271,tr-TR,play,play_music,lütfen satın alıp favori yaptığım şarkılar çal,play_music,0.9964,0.9964,True
+2296,tr-TR,news,news_query,beni bugünün süper lig sonuçları ylagüncel tut,recommendation_events,0.5631,0.0414,False
+2298,tr-TR,iot,iot_hue_lightoff,şimdi ışıkları kapat,iot_hue_lightoff,0.5172,0.5172,True
+2315,tr-TR,news,news_query,bugün hangi haberler var,news_query,0.9881,0.9881,True
+2316,tr-TR,news,news_query,alexa bana manşet haberleri ver,social_post,0.9084,0.0742,False
+2320,tr-TR,weather,weather_query,bu cuma hava nasıl,weather_query,0.9994,0.9994,True
+2322,tr-TR,weather,weather_query,hava yarın nasıl,weather_query,0.9992,0.9992,True
+2330,tr-TR,datetime,datetime_query,şu an için ağrı yerel saatini görüntüle,qa_factoid,0.6675,0.0006,False
+2384,tr-TR,news,news_query,dünyada neler oluyor,news_query,0.9313,0.9313,True
+2386,tr-TR,news,news_query,bana en son haberleri ver,email_sendemail,1.0,0.0,False
+2396,tr-TR,play,play_music,tarkan şarkılarını başlat,play_music,1.0,1.0,True
+2408,tr-TR,play,play_music,bana gruptan daha fazla şarkılar ara,play_music,0.9577,0.9577,True
+2412,tr-TR,datetime,datetime_query,bana londra'da saat kaç söyler misin,play_music,0.8583,0.009,False
+2423,tr-TR,weather,weather_query,lütfen istanbul için bugünkü hava tahminini ver,weather_query,0.998,0.998,True
+2438,tr-TR,news,news_query,teknoloji haberlerini gönder,email_sendemail,0.9245,0.0467,False
+2441,tr-TR,iot,iot_hue_lightoff,kilerdeki ışığı kapat,calendar_remove,0.7085,0.0379,False
+2472,tr-TR,datetime,datetime_query,bulunduğum yer için saat şu anda doğru mu,weather_query,0.9977,0.0001,False
+2496,tr-TR,news,news_query,günlük haberler,news_query,0.9984,0.9984,True
+2497,tr-TR,datetime,datetime_query,bugün hangi gün,weather_query,0.9989,0.0003,False
+2498,tr-TR,datetime,datetime_query,siri bugün hangi tarih,datetime_query,0.6362,0.6362,True
+2527,tr-TR,play,play_music,klasik rock çal,play_music,0.9937,0.9937,True
+2531,tr-TR,play,play_music,alexa arka arkaya rap ve arabesk şarkıları çal bana,play_music,1.0,1.0,True
+2545,tr-TR,weather,weather_query,hava nasıl,qa_definition,0.5356,0.0013,False
+2548,tr-TR,news,news_query,habertürk den herhangi bir ilginç haber var mı,social_post,0.871,0.1246,False
+2560,tr-TR,play,play_music,rastgele müzik çal,play_music,1.0,1.0,True
+2573,tr-TR,play,play_music,benim spotify dans listemi çal,qa_factoid,0.7439,0.0149,False
+2578,tr-TR,iot,iot_hue_lightoff,veranda ışığını kapat,iot_hue_lightoff,0.5458,0.5458,True
+2588,tr-TR,news,news_query,en son halk tv haberleri nedir,news_query,0.9985,0.9985,True
+2594,tr-TR,news,news_query,en sonki çevre haberlerinden bahset,news_query,0.6883,0.6883,True
+2605,tr-TR,play,play_music,benim favori şarkımı çal,play_music,0.9927,0.9927,True
+2611,tr-TR,weather,weather_query,şu anki hava durumu,weather_query,0.9965,0.9965,True
+2615,tr-TR,weather,weather_query,önümüzdeki çarşamba mont giymem gerekir mi,iot_hue_lightoff,0.5758,0.008,False
+2638,tr-TR,news,news_query,bana erdoğan hakkında haberler göster,social_post,0.7551,0.2253,False
+2639,tr-TR,news,news_query,bana çevreyle ilgili haberleri göster,news_query,0.6386,0.6386,True
+2651,tr-TR,news,news_query,bölgeden gelen son haberler ne,news_query,0.9944,0.9944,True
+2678,tr-TR,weather,weather_query,bu gece yağmur yağıyor mu,weather_query,0.999,0.999,True
+2679,tr-TR,weather,weather_query,sıcaklık aynı mı kalacak yoksa soğuyacak mı,weather_query,0.8184,0.8184,True
+2703,tr-TR,play,play_music,lütfen folk müzik çal,play_music,0.9999,0.9999,True
+2704,tr-TR,play,play_music,biraz indie rock dinleyelim olur mu,play_music,0.9968,0.9968,True
+2708,tr-TR,play,play_music,olly canım dans etmek istiyor bana biraz rock çal,play_music,0.9999,0.9999,True
+2709,tr-TR,play,play_music,olly bugün biraz hüzünlü şarkılar dinlemek istiyorum,play_music,1.0,1.0,True
+2711,tr-TR,iot,iot_hue_lightoff,ışıkları kapat,calendar_remove,0.5407,0.1046,False
+2717,tr-TR,play,play_music,sarı odaları dinlemek istiyorum,play_music,0.2716,0.2716,True
+2724,tr-TR,news,news_query,bana c. n. n. den haberleri ver,news_query,0.8221,0.8221,True
+2770,tr-TR,play,play_music,olly caz türü müzik çal,play_music,0.9999,0.9999,True
+2774,tr-TR,iot,iot_hue_lightoff,ışıkları kapat,calendar_remove,0.5407,0.1046,False
+2775,tr-TR,iot,iot_hue_lightoff,ışıkları kullanmayı bırak,calendar_remove,0.442,0.0167,False
+2777,tr-TR,weather,weather_query,bugün şemsiye almalı mıyım,cooking_recipe,0.6667,0.0025,False
+2781,tr-TR,play,play_music,biraz caz müzik çal lütfen,play_music,0.9999,0.9999,True
+2798,tr-TR,play,play_music,alexa sen ağlama parçasını çal,qa_factoid,0.9974,0.0001,False
+2801,tr-TR,datetime,datetime_query,girne de saat kaç,weather_query,0.7116,0.2655,False
+2824,tr-TR,datetime,datetime_query,on üç aralık hangi gün,weather_query,0.8465,0.003,False
+2840,tr-TR,datetime,datetime_query,gelecek ayın ikisi hangi gün,weather_query,0.9987,0.0003,False
+2859,tr-TR,datetime,datetime_query,olly bu şehirde saat kaç,weather_query,0.9992,0.0001,False
+2887,tr-TR,news,news_query,lütfen bana sabah haberlerinde hava durumu ile ilgili makaleleri göster,email_sendemail,0.8508,0.0535,False
+2890,tr-TR,weather,weather_query,şu anki hava durumu,weather_query,0.9965,0.9965,True
+2898,tr-TR,news,news_query,seçim ile ilgili hiç gelişme var mı,qa_factoid,0.8893,0.0042,False
+2914,tr-TR,datetime,datetime_query,bana bugünkü tarihi söyle,datetime_query,0.9879,0.9879,True
+2917,tr-TR,weather,weather_query,haftalık hava raporu,weather_query,0.9988,0.9988,True
+2921,tr-TR,news,news_query,bloomberg web sitesindeki haberler neler,news_query,0.9999,0.9999,True
+2927,tr-TR,datetime,datetime_query,artvin de saat kaç,weather_query,0.9482,0.0424,False
+2931,tr-TR,play,play_music,sıradaki ölürüm sana 'yı çal,qa_factoid,0.9808,0.0128,False
+2962,tr-TR,play,play_music,lütfen haluk levent ten bir şarkı çal,play_music,1.0,1.0,True
+2965,tr-TR,iot,iot_hue_lightoff,ofis ışıklarını kapat,iot_hue_lightoff,0.9991,0.9991,True
+3002,tr-TR,play,play_music,tarkan 'dan şarkılar çal,play_music,1.0,1.0,True
+3031,tr-TR,play,play_music,şarkıyı tekrar çalmak istiyorum,play_music,1.0,1.0,True
+3034,tr-TR,weather,weather_query,bana sıcaklığı söyle,qa_factoid,0.995,0.0,False
+3037,tr-TR,news,news_query,ön sayfa haberleri lütfen,email_sendemail,0.6683,0.2644,False
+3039,tr-TR,news,news_query,haberlerde ne yeni,email_query,0.4997,0.0002,False
+3060,tr-TR,news,news_query,tgrt den yeni haberler nelerdir,news_query,0.9999,0.9999,True
+3091,tr-TR,datetime,datetime_query,pasifik standart zamanına göre saat kaç,weather_query,0.9958,0.0006,False
+3096,tr-TR,weather,weather_query,new jersey'de hava nasıl,weather_query,0.9996,0.9996,True
+3098,tr-TR,iot,iot_hue_lightoff,ışıkları kapalı yap,iot_hue_lightoff,0.2788,0.2788,True
+3099,tr-TR,news,news_query,bana bazı güncel olayları göster,news_query,0.4754,0.4754,True
+3101,tr-TR,news,news_query,olly haberleri aç,news_query,0.9998,0.9998,True
+3116,tr-TR,play,play_music,geçen yıldan benim favori parçamı çal,recommendation_events,0.9133,0.0003,False
+3117,tr-TR,play,play_music,grup seksendörtün akıyor zaman albümünden bir şey çal,play_music,0.9204,0.9204,True
+3118,tr-TR,datetime,datetime_query,standar doğu saati kaç şu anda,weather_query,0.5234,0.0042,False
+3124,tr-TR,play,play_music,benim çalma listemden rastgele parça çal,qa_factoid,0.9953,0.0001,False
+3146,tr-TR,play,play_music,benim sezen aksu çalma listemden bir nolu şarkıyı çal,play_music,0.9999,0.9999,True
+3167,tr-TR,iot,iot_hue_lightoff,yatak odamın ışığını söndür,iot_hue_lightoff,0.8717,0.8717,True
+3174,tr-TR,play,play_music,müzik çalma listesi çal,play_music,0.9291,0.9291,True
+3205,tr-TR,play,play_music,pinhani 'den büyük adam 'ı aç,qa_factoid,0.9975,0.0001,False
+3207,tr-TR,play,play_music,tarkan 'dan dudu dudu yayınla,play_music,0.8891,0.8891,True
+3212,tr-TR,calendar,calendar_set,o zaman bana bir şey yapmamı hatırlat,cooking_recipe,0.9358,0.0012,False
+3214,tr-TR,news,news_query,erdoğanın rusya ile ilişkilerine yönelik soruşturma nın şu anki durumu nedir,qa_factoid,0.2431,0.0374,False
+3228,tr-TR,datetime,datetime_query,kurban bayramı bu yıl haftanın hangi gününe denk geliyor,weather_query,0.9761,0.0184,False
+3253,tr-TR,weather,weather_query,bu öğlen yağmur bekleniyor mu,weather_query,0.9978,0.9978,True
+3264,tr-TR,play,play_music,reggae müzik çal,play_music,1.0,1.0,True
+3305,tr-TR,weather,weather_query,bu hafta miami için hava nasıl,weather_query,0.9993,0.9993,True
+3306,tr-TR,weather,weather_query,hafta için hava tahmini nasıl,weather_query,0.9974,0.9974,True
+3329,tr-TR,news,news_query,haberleri görmek istiyorum,qa_factoid,0.8822,0.0018,False
+3337,tr-TR,weather,weather_query,otuz üç bin yedi yüz yetmiş için hava raporu,weather_query,0.8932,0.8932,True
+3338,tr-TR,weather,weather_query,niğde için hava durumunu ver,weather_query,0.9952,0.9952,True
+3361,tr-TR,datetime,datetime_query,gelecek salı ayın kaçı,weather_query,0.66,0.0002,False
+3378,tr-TR,iot,iot_hue_lightoff,mutfakta ışık olmasın,qa_factoid,0.7294,0.2596,False
+3386,tr-TR,iot,iot_hue_lightoff,ışıkları orta seviyeye indir,iot_hue_lightoff,0.9794,0.9794,True
+3400,tr-TR,play,play_music,sıla 'nın canlı bir versiyonunu çal,play_music,1.0,1.0,True
+3401,tr-TR,play,play_music,en popüler emre aydın şarkısı çal,play_music,1.0,1.0,True
+3406,tr-TR,weather,weather_query,on günlük tahmin nedir,iot_hue_lightoff,0.5223,0.0013,False
+3407,tr-TR,weather,weather_query,bu hafta yağmur veya kar beklentisi var mı,weather_query,0.9975,0.9975,True
+3408,tr-TR,weather,weather_query,bu hafta sonu hava güzel olacak mı,weather_query,0.9979,0.9979,True
+3426,tr-TR,weather,weather_query,dışarısı kaç derece,weather_query,0.8186,0.8186,True
+3433,tr-TR,play,play_music,yeni pop müzik,play_music,0.9999,0.9999,True
+3434,tr-TR,play,play_music,en iyi rap müzik,play_music,0.7513,0.7513,True
+3441,tr-TR,datetime,datetime_query,çarşamba ayın yirmisi mi,weather_query,0.9493,0.0439,False
+3444,tr-TR,datetime,datetime_query,saat on mu,datetime_query,0.6576,0.6576,True
+3447,tr-TR,weather,weather_query,hava durumu cumartesi için yağmur ihtimali veriyor mu,weather_query,0.996,0.996,True
+3481,tr-TR,play,play_music,adı verilen sanatçı tarafından okunmuş en meşhur şarkıyı çal,play_music,1.0,1.0,True
+3489,tr-TR,play,play_music,şimdi müzik çal lütfen,play_music,1.0,1.0,True
+3492,tr-TR,play,play_music,benim en çok dinlediğim şarkı listesini aç,lists_query,0.8051,0.1711,False
+3503,tr-TR,weather,weather_query,eskişehir'de hava nasıl,weather_query,0.9995,0.9995,True
+3507,tr-TR,weather,weather_query,tahminde kar var mı,qa_factoid,0.5459,0.153,False
+3513,tr-TR,play,play_music,sadece benim listemi çal,iot_hue_lightoff,0.6009,0.0267,False
+3516,tr-TR,weather,weather_query,bugünün yağış olasılığı nedir,qa_factoid,0.9335,0.0466,False
+3539,tr-TR,play,play_music,lütfen tarkan 'dan ölürüm sana çal,qa_factoid,0.7674,0.001,False
+3546,tr-TR,play,play_music,caz müzik dinlemek isterim,play_music,1.0,1.0,True
+3550,tr-TR,play,play_music,biraz led zeppelin aç,iot_hue_lightoff,0.3946,0.0105,False
+3554,tr-TR,play,play_music,aşk çalma listesi ni açar mısın,lists_remove,0.9932,0.0001,False
+3562,tr-TR,play,play_music,kedi gibi yi çal,qa_factoid,0.5458,0.0451,False
+3566,tr-TR,datetime,datetime_query,aydın da mevcut saat ne,weather_query,0.8888,0.0002,False
+3570,tr-TR,iot,iot_hue_lightoff,bahçe avlusundaki ışıkları kapat,calendar_remove,0.3425,0.0352,False
+3576,tr-TR,news,news_query,fox haberler de son olaylar ne,social_post,0.9881,0.0005,False
+3586,tr-TR,weather,weather_query,bursa'da hava nasıl,weather_query,0.9993,0.9993,True
+3600,tr-TR,calendar,calendar_set,on dakika sonra bana hatırlat,qa_factoid,0.833,0.0022,False
+3603,tr-TR,news,news_query,habertürk'den son haberler neler,news_query,0.9569,0.9569,True
+3605,tr-TR,news,news_query,fox t. v.'deki son haberler neler,news_query,0.9999,0.9999,True
+3606,tr-TR,datetime,datetime_query,ankara da saat kaç,weather_query,0.9396,0.0453,False
+3614,tr-TR,weather,weather_query,bugün güneşli değil mi,weather_query,0.9946,0.9946,True
+3623,tr-TR,news,news_query,bugün dünyada neler oluyor,social_post,0.7723,0.1294,False
+3624,tr-TR,news,news_query,star t. v.' den haberler,qa_factoid,0.9341,0.0016,False
+3631,tr-TR,play,play_music,hey google benim için biraz jazz müzik çal,play_music,0.9994,0.9994,True
+3686,tr-TR,play,play_music,benim rock müzik için hazırladığım çalma listemi aç,lists_query,0.8177,0.0104,False
+3714,tr-TR,play,play_music,benim çalma listemi en sondan başlayarak çal,qa_factoid,0.9782,0.0006,False
+3717,tr-TR,play,play_music,lütfen benim doksanlar rap hitlerimi çal,play_music,1.0,1.0,True
+3723,tr-TR,play,play_music,bu şarkıdan sonra tarkanın kedi gibi şarkısını dinlemek istiyorum,play_music,1.0,1.0,True
+3725,tr-TR,datetime,datetime_query,bugün günlerden ne,weather_query,0.9984,0.0001,False
+3727,tr-TR,play,play_music,hande yener den yalanın batsın çal,qa_factoid,0.9169,0.0034,False
+3750,tr-TR,news,news_query,olly sel ile ilgili yeni bir haber çıkarsa hemen haber verir misin,news_query,0.8231,0.8231,True
+3779,tr-TR,play,play_music,youtube playlist ten yalan ı oynat,qa_factoid,0.9771,0.0023,False
+3780,tr-TR,play,play_music,benim geceyarısı sevdası çalma listemi çal,qa_factoid,0.7263,0.0022,False
+3784,tr-TR,weather,weather_query,kıbrıs için hava durumunu ver,weather_query,0.9883,0.9883,True
+3785,tr-TR,iot,iot_hue_lightoff,banyo ışığını kapat lütfen,iot_hue_lightoff,0.8404,0.8404,True
+3822,tr-TR,news,news_query,bana arabalar hakkında bilgi bul,play_podcasts,0.1873,0.0312,False
+3852,tr-TR,weather,weather_query,şu anda elmadağ için hava nasl olacak,weather_query,0.9983,0.9983,True
+3859,tr-TR,play,play_music,lütfen benim favorim rap müzik çalma listem i çal,play_music,0.9858,0.9858,True
+3907,tr-TR,play,play_music,geçen yılın hitleri ni çal bana,play_music,0.963,0.963,True
+3911,tr-TR,play,play_music,bu yıl grammy almış bazı şarkılar çal,play_music,1.0,1.0,True
+3912,tr-TR,play,play_music,oryantal ve folk müzik dinlemek istiyorum,play_music,1.0,1.0,True
+3936,tr-TR,weather,weather_query,sıcaklık kaç derece,weather_query,0.9609,0.9609,True
+3960,tr-TR,datetime,datetime_query,saati söyle,qa_factoid,0.8727,0.0001,False
+3967,tr-TR,play,play_music,rap,qa_factoid,0.5852,0.0441,False
+3980,tr-TR,play,play_music,lütfen tarkan dan ölürüm sana çal,qa_factoid,0.6285,0.0167,False
+3982,tr-TR,play,play_music,lütfen benim itunes kütüphanemde ilk şarkıyı seç,cooking_recipe,0.268,0.1348,False
+3993,tr-TR,iot,iot_hue_lightoff,ışıkları kapatabilir misin,iot_hue_lightoff,0.4256,0.4256,True
+3995,tr-TR,datetime,datetime_query,ramazan bayramı haftanın hangi günü,weather_query,0.5769,0.1625,False
+4001,tr-TR,news,news_query,survivor da ne oldu,social_post,0.3788,0.1847,False
+4023,tr-TR,news,news_query,haberlerde neler var,email_query,0.9999,0.0,False
+4031,tr-TR,play,play_music,doksanlar dans müzikleri çal,play_music,1.0,1.0,True
+4040,tr-TR,play,play_music,en çok dinlediğim şarkıyı çal,play_music,1.0,1.0,True
+4058,tr-TR,play,play_music,biraz rap müzik dinlemek istiyorum,play_music,1.0,1.0,True
+4073,tr-TR,datetime,datetime_query,ayın beşi hangi gün,weather_query,0.9923,0.0005,False
+4077,tr-TR,iot,iot_hue_lightoff,mutfak ışıklarını kapat,iot_hue_lightoff,0.9528,0.9528,True
+4088,tr-TR,iot,iot_hue_lightoff,tepe ışığını kapat,iot_hue_lightoff,0.5418,0.5418,True
+4104,tr-TR,weather,weather_query,bugün karşıyaka'da hava nasıl,weather_query,0.9988,0.9988,True
+4116,tr-TR,play,play_music,karışık çalma listesini çal lütfen,lists_remove,0.9977,0.0001,False
+4119,tr-TR,news,news_query,kaliforniya daki barajın yıkılmasıyla ilgili her şeyi bilmek istiyorum,lists_query,0.2229,0.1261,False
+4132,tr-TR,weather,weather_query,bugün için niğde aksaray da yağmur ihtimali oranını bildir bana,weather_query,0.992,0.992,True
+4136,tr-TR,play,play_music,imogen heap açabilir misin lütfen,iot_hue_lightoff,0.6891,0.0002,False
+4152,tr-TR,play,play_music,yıllar utansın şarkısını çal lütfen,play_music,1.0,1.0,True
+4168,tr-TR,weather,weather_query,lütfen aydın'da hava durumunu kontrol edin,weather_query,0.9958,0.9958,True
+4171,tr-TR,iot,iot_hue_lightoff,mutfaktaki ışıkları kapat,calendar_remove,0.4233,0.1202,False
+4177,tr-TR,news,news_query,bana dünyadaki son politik haber başlıklarını ver,social_post,0.5431,0.1089,False
+4178,tr-TR,news,news_query,başkanlık hakkında herhangi bir haber var mı,news_query,0.9662,0.9662,True
+4183,tr-TR,datetime,datetime_query,new york için mevcut zaman,datetime_query,0.5451,0.5451,True
+4186,tr-TR,datetime,datetime_query,hey olly saat kaç,weather_query,0.5391,0.0162,False
+4187,tr-TR,datetime,datetime_query,hey siri saat kaç,iot_hue_lightoff,0.6153,0.0184,False
+4205,tr-TR,play,play_music,pentagram 'dan bir 'i dinlemek istiyorum,play_music,0.9389,0.9389,True
+4212,tr-TR,weather,weather_query,bu akşam çim biçmem mümkün olacak mı,cooking_recipe,0.9525,0.0011,False
+4227,tr-TR,weather,weather_query,önümüzdeki hafta için yapılan tahminlerde yağmur var mı,weather_query,0.9864,0.9864,True
+4232,tr-TR,play,play_music,tarkan dan yolla yı aç,iot_hue_lightoff,0.3068,0.0146,False
+4236,tr-TR,datetime,datetime_query,halen öğleden sonra mı,weather_query,0.8251,0.0156,False
+4253,tr-TR,datetime,datetime_query,doğu standart saat diliminde şu an saat kaç,weather_query,0.9915,0.005,False
+4254,tr-TR,datetime,datetime_query,türkiyenin doğu kıyısında saat kaç,weather_query,0.9979,0.0004,False
+4258,tr-TR,news,news_query,son haberler ne,social_post,0.9606,0.0002,False
+4266,tr-TR,weather,weather_query,bugün için hava durumu nedir,weather_query,0.9978,0.9978,True
+4273,tr-TR,play,play_music,yolla şarkısını çal,play_music,1.0,1.0,True
+4290,tr-TR,weather,weather_query,bu gece yanıma bir ceket almalı mıyım,iot_hue_lightoff,0.6416,0.0072,False
+4305,tr-TR,play,play_music,teoman 'dan kupa kızı ve sinek valesi şarkısını çal,play_music,1.0,1.0,True
+4309,tr-TR,datetime,datetime_query,istanbul türkiye de gece yarısı kaçta oluyor,weather_query,0.9982,0.0004,False
+4312,tr-TR,weather,weather_query,paris'te hava on dereceden az mı olacak,weather_query,0.9981,0.9981,True
+4313,tr-TR,weather,weather_query,yarın roma'da yağış var mı,weather_query,0.9303,0.9303,True
+4336,tr-TR,datetime,datetime_query,türkiye de saat kaç,weather_query,0.9848,0.0041,False
+4346,tr-TR,iot,iot_hue_lightoff,ışıkları kapat,calendar_remove,0.5407,0.1046,False
+4347,tr-TR,iot,iot_hue_lightoff,çalışan ışıkları durdur,calendar_remove,0.4334,0.1064,False
+4355,tr-TR,weather,weather_query,şu an bulunduğum yerde hava nasıl,weather_query,0.999,0.999,True
+4361,tr-TR,play,play_music,bana birkaç iyi ses ver,iot_hue_lightoff,0.82,0.1003,False
+4362,tr-TR,datetime,datetime_query,istanbul da saat kaç,weather_query,0.9299,0.0651,False
+4376,tr-TR,weather,weather_query,bugün dışarıda hava nasıl,weather_query,0.9975,0.9975,True
+4377,tr-TR,weather,weather_query,şu anki hava durumu nasıl,weather_query,0.9971,0.9971,True
+4383,tr-TR,weather,weather_query,hava yarın nasıl olacak,weather_query,0.9994,0.9994,True
+4391,tr-TR,news,news_query,c. n. n. deki manşetler neler,lists_query,0.9823,0.0006,False
+4400,tr-TR,news,news_query,sabah gazetesinde hakkında en çok konuşulan makaleler nelerdir,lists_query,0.872,0.0654,False
+4402,tr-TR,weather,weather_query,bugün bir şemsiye taşımam gerekecek mi,iot_hue_lightoff,0.8766,0.0135,False
+4412,tr-TR,weather,weather_query,bursa'da hava nasıl,weather_query,0.9993,0.9993,True
+4436,tr-TR,weather,weather_query,nasıl bir ceket giymeliyim,iot_hue_lightoff,0.9794,0.0001,False
+4439,tr-TR,weather,weather_query,san francisco'da hava nasıl,weather_query,0.9997,0.9997,True
+4449,tr-TR,weather,weather_query,bugün öğleden sonra bir de yağmur yağacak mı,weather_query,0.999,0.999,True
+4452,tr-TR,play,play_music,şarkılar çal,play_music,0.9999,0.9999,True
+4463,tr-TR,datetime,datetime_query,mart ayında kaç cumartesi var,datetime_query,0.8155,0.8155,True
+4477,tr-TR,play,play_music,sıradaki şarkıyı çal,play_music,1.0,1.0,True
+4482,tr-TR,weather,weather_query,bu sabah yolumdaki karları temizlemem lazım mı,lists_remove,0.6599,0.0718,False
+4486,tr-TR,weather,weather_query,bana bu hafta için hava durumu tahminlerini ver,weather_query,0.995,0.995,True
+4487,tr-TR,weather,weather_query,perşembe yağmur yağacak mı,weather_query,0.9975,0.9975,True
+4491,tr-TR,news,news_query,tayyip erdoğan ile ilgili son haberler neler,news_query,0.9995,0.9995,True
+4492,tr-TR,news,news_query,benim bölgemdeki en son suç istatistikleri nasıl,qa_factoid,0.3297,0.0254,False
+4496,tr-TR,news,news_query,vogue bugün ne paylaştı,social_post,0.9908,0.0027,False
+4502,tr-TR,datetime,datetime_query,hey ankarada saat kaç,weather_query,0.8252,0.0018,False
+4524,tr-TR,weather,weather_query,olly bugün hava durumu nasıl,weather_query,0.9981,0.9981,True
+4547,tr-TR,play,play_music,köpek gezdirme çalma listesi açl,lists_query,0.7942,0.0037,False
+4567,tr-TR,news,news_query,nytimescom dan en son başlıkları oku,recommendation_events,0.1085,0.0492,False
+4580,tr-TR,datetime,datetime_query,ankara da saat kaç,weather_query,0.9396,0.0453,False
+4587,tr-TR,play,play_music,benim favorilerimi çal,qa_factoid,0.8081,0.0001,False
+4589,tr-TR,calendar,calendar_set,spor maçları için bir uyarı kur,lists_remove,0.4675,0.0145,False
+4606,tr-TR,news,news_query,günün borsa bilgilerini bul,recommendation_events,0.2144,0.0292,False
+4614,tr-TR,weather,weather_query,yarın sıcaklık kırktan yüksek mi olacak,weather_query,0.8897,0.8897,True
+4662,tr-TR,news,news_query,show tv den haberler alexa,play_radio,0.9891,0.0002,False
+4667,tr-TR,datetime,datetime_query,şu anki saat,weather_query,0.536,0.3893,False
+4680,tr-TR,weather,weather_query,sandalet mi yoksa çorap ve ayakkabı mı giymem lazım,iot_hue_lightoff,0.4989,0.0164,False
+4689,tr-TR,weather,weather_query,hava durumunu biliyor musun,qa_factoid,0.9032,0.0699,False
+4692,tr-TR,play,play_music,ben güzelden anlarım şarkı sını çal,play_music,0.9927,0.9927,True
+4710,tr-TR,datetime,datetime_query,bu yıl cadılar bayramı hangi gün,weather_query,0.9981,0.0003,False
+4764,tr-TR,weather,weather_query,pazartesi günü yağmur yağacak mı,weather_query,0.9979,0.9979,True
+4767,tr-TR,news,news_query,meksika amerika sınır duvarı nı içeren yeni bir bilgi var mı,lists_query,0.1223,0.0796,False
+4772,tr-TR,datetime,datetime_query,bana bu zaman dilimi ni söyle,qa_factoid,0.8493,0.0949,False
+4780,tr-TR,datetime,datetime_query,doğumgünüm bu sene yirmi yedi haziranda hangi güne denk geliyor,weather_query,0.9574,0.0409,False
+4784,tr-TR,weather,weather_query,bir cekete ihtiyacım var mı,qa_factoid,0.9918,0.0001,False
+4813,tr-TR,datetime,datetime_query,başka bir şehir de saat kaç,weather_query,0.9993,0.0002,False
+4837,tr-TR,news,news_query,hiç haber var mı olly,qa_factoid,0.9921,0.0005,False
+4838,tr-TR,play,play_music,sezen aksu 'nun bütün müziklerini çal,play_music,1.0,1.0,True
+4871,tr-TR,weather,weather_query,hava dışarıda nasıl,transport_query,0.2764,0.0056,False
+4881,tr-TR,datetime,datetime_query,mevcut yerel zamanı ve zaman dililmini ara,weather_query,0.9843,0.0004,False
+4882,tr-TR,datetime,datetime_query,bir şehir de saat kaç,weather_query,0.9985,0.0004,False
+4890,tr-TR,calendar,calendar_set,türkiye deki hava felaketleri ile ilgili tüm mevcut bildirimleri kur,weather_query,0.5571,0.0135,False
+4909,tr-TR,play,play_music,kardeş türküler den şarkılar çal,play_music,1.0,1.0,True
+4917,tr-TR,weather,weather_query,dışarıdaki sıcaklık,weather_query,0.9194,0.9194,True
+4928,tr-TR,play,play_music,oynatma listemi çal,qa_factoid,0.9875,0.0002,False
+4933,tr-TR,weather,weather_query,şimdi yağmur yağacak mı,weather_query,0.9991,0.9991,True
+4951,tr-TR,datetime,datetime_query,şu an saatin kaç olduğunu bilmek istiyorum,weather_query,0.8692,0.1238,False
+4953,tr-TR,news,news_query,tren kazası haberleri,news_query,0.9326,0.9326,True
+4957,tr-TR,datetime,datetime_query,bu ayın yirmi üçü haftanın hangi günü,weather_query,0.9859,0.0078,False
+4960,tr-TR,play,play_music,müzik mor ve ötesi,play_music,0.9987,0.9987,True
+4968,tr-TR,qa,qa_factoid,bu yıl başkanlık seçimini kim kazandı,qa_factoid,0.9997,0.9997,True
+4973,tr-TR,play,play_music,olly kumralım çal,qa_factoid,0.9077,0.0047,False
+4998,tr-TR,play,play_music,bu şarkıyı sonraki çalan şarkıya ekle,play_music,1.0,1.0,True
+5009,tr-TR,weather,weather_query,bu hafta şemsiyeye ihtiyacım olacak mı,iot_hue_lightoff,0.3951,0.0045,False
+5016,tr-TR,news,news_query,piyasa iniş çıkış hakkında yeni haberleri ver,news_query,0.9696,0.9696,True
+5027,tr-TR,datetime,datetime_query,en yakın on üçüncü cuma ne zaman,qa_factoid,0.7621,0.0071,False
+5037,tr-TR,weather,weather_query,bugün ne kadar soğuk,weather_query,0.9935,0.9935,True
+5038,tr-TR,weather,weather_query,bu hafta hava nasıl olacak,weather_query,0.9989,0.9989,True
+5040,tr-TR,weather,weather_query,hava şimdi nasıl,weather_query,0.8518,0.8518,True
+5062,tr-TR,play,play_music,lütfen bana seksenlerden şarkılar çal,play_music,1.0,1.0,True
+5074,tr-TR,weather,weather_query,bu hafta hava nasıldı,weather_query,0.9939,0.9939,True
+5085,tr-TR,weather,weather_query,cumartesi günü için hava tahmini nasıl,weather_query,0.9983,0.9983,True
+5118,tr-TR,play,play_music,ölürüm sana,calendar_remove,0.7343,0.0097,False
+5127,tr-TR,news,news_query,i̇şte birinin bütçesine göre yemekler hakkındaki gerçek,cooking_recipe,0.9484,0.0002,False
+5131,tr-TR,datetime,datetime_query,lütfen bana trabzon daki saati söyle,qa_factoid,0.9995,0.0,False
+5134,tr-TR,play,play_music,arabesk çalma listemden şarkılar bul,play_music,0.9862,0.9862,True
+5156,tr-TR,iot,iot_hue_lightoff,oturma odasındaki ışığı kapat,iot_hue_lightoff,0.6081,0.6081,True
+5157,tr-TR,iot,iot_hue_lightoff,olly oturma odasındaki ışıkları kapat,iot_hue_lightoff,0.4908,0.4908,True
+5158,tr-TR,play,play_music,karma albümünden en son şarkıyı çal,play_music,0.9969,0.9969,True
+5159,tr-TR,play,play_music,lütfen sanatçı tarkan'nın şarkısını çalar mısın,play_music,1.0,1.0,True
+5160,tr-TR,play,play_music,tarkan şarkısı çalabilir misin lütfen,play_music,1.0,1.0,True
+5176,tr-TR,weather,weather_query,bu hafta nasıl bir hava beklemeliyim,weather_query,0.999,0.999,True
+5196,tr-TR,news,news_query,brexit hakkında bilgi istiyorum,iot_hue_lightoff,0.9299,0.005,False
+5225,tr-TR,datetime,datetime_query,gelecek çarşamba ayın kaçı,qa_factoid,0.9939,0.0001,False
+5243,tr-TR,iot,iot_hue_lightoff,siri lütfen banyodaki ışıkları kapat,calendar_remove,0.9174,0.011,False
+5245,tr-TR,news,news_query,çevre haberleri bildirimi ayarla,email_sendemail,0.9818,0.0036,False
+5270,tr-TR,news,news_query,mevcut flaş haberler nedir,news_query,0.9184,0.9184,True
+5278,tr-TR,play,play_music,lütfen sadece karışık pop müzik çal,play_music,1.0,1.0,True
+5279,tr-TR,play,play_music,lütfen müzik çalar da duygusal bir şarkı çal,play_music,1.0,1.0,True
+5286,tr-TR,news,news_query,t.r.t haberden göç haberleri göster,qa_factoid,0.2875,0.2756,False
+5296,tr-TR,news,news_query,olly baa habertürk'ten popüler haberleri ver,social_post,0.9804,0.0045,False
+5297,tr-TR,news,news_query,bana fox t. v.'den popüler haberleri ver,news_query,0.8091,0.8091,True
+5301,tr-TR,weather,weather_query,yirmi mart iki bin on yedi tarihinde hava nasıl olacak,weather_query,0.9991,0.9991,True
+5307,tr-TR,datetime,datetime_query,bugün yirmi mart mı,weather_query,0.6046,0.1891,False
+5318,tr-TR,play,play_music,lütfen sadece ece ronayın şarkılarını çal,play_music,1.0,1.0,True
+5321,tr-TR,weather,weather_query,hava durumunu göster,iot_hue_lightoff,0.8931,0.0644,False
+5328,tr-TR,play,play_music,rock,qa_factoid,0.5125,0.0155,False
+5339,tr-TR,weather,weather_query,düşük soğutma modu,qa_factoid,0.4526,0.0208,False
+5341,tr-TR,datetime,datetime_query,lütfen beni saat konusunda uyar,weather_query,0.8931,0.0068,False
+5347,tr-TR,play,play_music,tekno müzik çal,play_music,0.9999,0.9999,True
+5358,tr-TR,datetime,datetime_query,mevcut saati değiştir,datetime_query,0.8317,0.8317,True
+5370,tr-TR,news,news_query,son trump tartışması ne,social_post,0.4973,0.4548,False
+5378,tr-TR,play,play_music,s.,play_radio,0.1383,0.0381,False
+5401,tr-TR,play,play_music,müzik,play_music,0.9976,0.9976,True
+5410,tr-TR,news,news_query,bana en sonki hürriyet manşetlerini oku,play_podcasts,0.1827,0.0333,False
+5411,tr-TR,news,news_query,fox t. v.'deki en popüler haberler neler,news_query,1.0,1.0,True
+5413,tr-TR,play,play_music,müzik çal,play_music,0.9999,0.9999,True
+5414,tr-TR,play,play_music,müzik açacak mısın,play_music,0.9997,0.9997,True
+5427,tr-TR,datetime,datetime_query,şu an türkiye de saat kaç,weather_query,0.9473,0.0466,False
+5433,tr-TR,weather,weather_query,daha sonra yağmur yağacak mı,weather_query,0.9967,0.9967,True
+5439,tr-TR,weather,weather_query,gece için şemsiye lazım mı,qa_factoid,0.9722,0.0001,False
+5465,tr-TR,weather,weather_query,bugün sandaletlerimi giyebilir miyim,iot_hue_lightoff,0.4636,0.0018,False
+5468,tr-TR,weather,weather_query,güneş gözlüğü almam gerekiyor mu,iot_hue_lightoff,0.9996,0.0,False
+5524,tr-TR,weather,weather_query,şu anki hava,weather_query,0.9987,0.9987,True
+5529,tr-TR,weather,weather_query,saat kaçta yürüyüşe çıkmalıyım,iot_hue_lightoff,0.5236,0.1926,False
+5557,tr-TR,play,play_music,reggae istiyorum,qa_factoid,0.9886,0.001,False
+5577,tr-TR,weather,weather_query,akşam çok fırtınalı olursa her yerimi kapatan bir ceket lazım olacak,iot_hue_lightoff,0.5999,0.3955,False
+5578,tr-TR,weather,weather_query,kış sabah ında sıcak çoraplar lazım olacak bana,weather_query,0.9935,0.9935,True
+5584,tr-TR,iot,iot_hue_lightoff,lütfen ışıkları kapat,calendar_remove,0.4853,0.2114,False
+5590,tr-TR,weather,weather_query,sıcaklık açık,weather_query,0.8571,0.8571,True
+5593,tr-TR,play,play_music,ferdi tayfur 'dan sen ağlama çal,social_post,0.928,0.0013,False
+5619,tr-TR,play,play_music,önceki şarkıyı çal,play_music,1.0,1.0,True
+5627,tr-TR,play,play_music,bana sezen aksu 'dan bir müzik çal,play_music,0.9998,0.9998,True
+5640,tr-TR,datetime,datetime_query,tarihi göster,qa_factoid,0.9998,0.0001,False
+5650,tr-TR,weather,weather_query,bugün akşamki hava durumunu sor,weather_query,0.9991,0.9991,True
+5658,tr-TR,play,play_music,can bonomo 'dan bir müzik çal benim için,play_music,1.0,1.0,True
+5661,tr-TR,weather,weather_query,şimdi yağmurluğumu yanıma alayım mı,weather_query,0.9955,0.9955,True
+5671,tr-TR,datetime,datetime_query,izmir'de saat kaç,weather_query,0.9849,0.0061,False
+5678,tr-TR,datetime,datetime_query,on beş ağustos haftanın hangi günü,weather_query,0.5423,0.0995,False
+5683,tr-TR,play,play_music,benim parti şarkıları çalma listemi çal,play_music,0.9999,0.9999,True
+5688,tr-TR,news,news_query,lütfen bana haber başlıklarını söyle,qa_factoid,0.9934,0.0,False
+5703,tr-TR,datetime,datetime_query,şu anki zaman,qa_factoid,0.365,0.0553,False
+5707,tr-TR,play,play_music,benim favorilerimi dinle,social_post,0.6892,0.0004,False
+5721,tr-TR,weather,weather_query,bana yarın bu bölgedeki hava durumunu söyle,weather_query,0.9992,0.9992,True
+5722,tr-TR,weather,weather_query,bu hafta için yedi günlük hava tahminini göster,weather_query,0.9986,0.9986,True
+5732,tr-TR,weather,weather_query,araba lastiklerimi yakın zamanda kar lastiklerine çevirmeli miyim,iot_hue_lightoff,0.689,0.0103,False
+5757,tr-TR,datetime,datetime_query,ikiye çeyrek var,qa_factoid,1.0,0.0,False
+5758,tr-TR,weather,weather_query,başkentte hava nasıl,weather_query,0.9992,0.9992,True
+5774,tr-TR,datetime,datetime_query,sivasta şu anki saat,weather_query,0.9852,0.0011,False
+5797,tr-TR,weather,weather_query,dışarı çıkmadan önce yağmurluk giymeli miyim,iot_hue_lightoff,0.9618,0.0356,False
+5813,tr-TR,play,play_music,sessiz şarkı çal,play_music,1.0,1.0,True
+5820,tr-TR,play,play_music,model pembe mezarlık,iot_hue_lightoff,0.9718,0.0013,False
+5837,tr-TR,weather,weather_query,bana bu haftaki hava durumunu söyle,weather_query,0.9942,0.9942,True
+5871,tr-TR,weather,weather_query,bugün mersin'de hava nasıl,weather_query,0.9991,0.9991,True
+5886,tr-TR,news,news_query,sıcak konu,social_post,0.9997,0.0,False
+5919,tr-TR,news,news_query,new york köprüsü teklifi için en son güncelleme nedir,qa_factoid,0.9972,0.0001,False
+5930,tr-TR,news,news_query,huffington post'dan herhangi bir son dakika haberi,social_post,0.961,0.0375,False
+5948,tr-TR,play,play_music,listemden güzel bir şarkı çal,play_music,1.0,1.0,True
+5953,tr-TR,weather,weather_query,yaşamak için şehir daha mı ucuz daha mı pahalı,qa_factoid,0.7028,0.0166,False
+5955,tr-TR,weather,weather_query,şehir kanun ve düzen açısından ne kadar güvenli,qa_factoid,0.9708,0.0007,False
+5970,tr-TR,play,play_music,benim için bohemian raphsody çalmanı istiyorum,play_music,0.9998,0.9998,True
+5985,tr-TR,news,news_query,bm'den en son haberleri göster,news_query,0.8696,0.8696,True
+5996,tr-TR,weather,weather_query,bu öğleden sonra kar botlarıma ihtiyacım olacak mı,iot_hue_lightoff,0.5904,0.0151,False
+5997,tr-TR,datetime,datetime_query,ulusal zaman diliminde saat kaç,weather_query,0.6013,0.2888,False
+6023,tr-TR,weather,weather_query,aşırı nemli bir gece mi olacak,weather_query,0.999,0.999,True
+6024,tr-TR,weather,weather_query,bugün işe mont veya hırka götürmem gerekir mi,lists_remove,0.74,0.0089,False
+6025,tr-TR,weather,weather_query,bu öğleden sonra güneş kremine ihtiyacım olacak mı,cooking_recipe,0.152,0.067,False
+6027,tr-TR,play,play_music,favori şarkıları aç,lists_remove,0.6718,0.0766,False
+6039,tr-TR,weather,weather_query,yarın yağmurlu bir gün mü olacak,weather_query,0.9997,0.9997,True
+6041,tr-TR,iot,iot_hue_lightoff,hey olly lütfen ışığı kapat,iot_hue_lightoff,0.9998,0.9998,True
+6045,tr-TR,play,play_music,seçilmiş bir şarkı ekle,play_music,1.0,1.0,True
+6050,tr-TR,weather,weather_query,daha sonra güneş kremine ihtiyacım olacak mı,cooking_recipe,0.1768,0.0385,False
+6055,tr-TR,iot,iot_hue_lightoff,garajdaki ışığı açık mı bıraktım,iot_hue_lightoff,0.2279,0.2279,True
+6059,tr-TR,play,play_music,rap müzik çal,play_music,0.9999,0.9999,True
+6069,tr-TR,weather,weather_query,bugün fırtına bekleniyor mu,weather_query,0.9437,0.9437,True
+6073,tr-TR,iot,iot_hue_lightoff,sundurma ışıklarını kapat,iot_hue_lightoff,0.9742,0.9742,True
+6074,tr-TR,iot,iot_hue_lightoff,akşam dokuz buçukta yatak odası ışıklarını kapat,iot_hue_lightoff,0.999,0.999,True
+6077,tr-TR,news,news_query,bugünün en son dünya haberlerini duymakistiyorum,news_query,0.9457,0.9457,True
+6093,tr-TR,weather,weather_query,arabanın üstünü açmalı mıyım,iot_hue_lightoff,0.6456,0.0085,False
+6103,tr-TR,weather,weather_query,bugün los angeles california'da hava nasıl olacak,weather_query,0.9999,0.9999,True
+6116,tr-TR,weather,weather_query,bu haftaki hava durumu hakkında bilgi,weather_query,0.9942,0.9942,True
+6118,tr-TR,datetime,datetime_query,hey taksim istanbul da saat kaç,iot_hue_lightoff,0.7416,0.0428,False
+6127,tr-TR,weather,weather_query,şemsiye tavsiye eder misin,recommendation_events,0.7799,0.0036,False
+6129,tr-TR,news,news_query,beni dünya haberlerinden haberdar et,news_query,0.788,0.788,True
+6151,tr-TR,weather,weather_query,bugünün havasını bilmek istiyorum,weather_query,0.9999,0.9999,True
+6172,tr-TR,weather,weather_query,güneş gözlükleri bugün için iyi bir seçim mi,iot_hue_lightoff,0.7001,0.1656,False
+6177,tr-TR,weather,weather_query,bugün şemsiyeye ihtiyacım olacak mı,cooking_recipe,0.7575,0.0027,False
+6178,tr-TR,weather,weather_query,bir ceket giymeli miyim,iot_hue_lightoff,0.9987,0.0,False
+6194,tr-TR,weather,weather_query,bugün hava nasıl,weather_query,0.9991,0.9991,True
+6289,tr-TR,weather,weather_query,hey bugün hava nasıl,weather_query,0.9994,0.9994,True
+6370,tr-TR,calendar,calendar_query,önümüzdeki haftam nasıl görünüyor,qa_factoid,0.2726,0.018,False
+6372,tr-TR,news,news_query,bitkilerle ilgili haberler,news_query,0.9847,0.9847,True
+6403,tr-TR,transport,transport_query,bir yere nasıl gidilir,qa_definition,0.3526,0.124,False
+6410,tr-TR,news,news_query,bugün fransa da neler oluyor,qa_factoid,0.7593,0.0037,False
+6411,tr-TR,weather,weather_query,önümüzdeki çarşamba hava nasıl,weather_query,0.9994,0.9994,True
+6539,tr-TR,calendar,calendar_set,bugünü diyetimin başlangıcı olarak işaretle,datetime_query,0.7264,0.0006,False
+6542,tr-TR,cooking,cooking_recipe,yumuşak peynir sert peynirden daha mı iyi,cooking_recipe,0.996,0.996,True
+6618,tr-TR,news,news_query,ilginç haberler ver,news_query,0.712,0.712,True
+6682,tr-TR,news,news_query,seçimler yaklaşıyor,recommendation_events,0.2595,0.0268,False
+6683,tr-TR,news,news_query,ekonomik işler,cooking_recipe,0.7278,0.0079,False
+6713,tr-TR,calendar,calendar_remove,çarşamba günü iş toplantısını iptal et,calendar_remove,0.9902,0.9902,True
+6722,tr-TR,calendar,calendar_query,hatırlamam gereken bir şey var mı,qa_factoid,0.5069,0.0098,False
+6725,tr-TR,calendar,calendar_set,öğleden sonraki programımı hatırlat,cooking_recipe,0.3771,0.0058,False
+6726,tr-TR,calendar,calendar_remove,sonraki toplantıyı iptal et,qa_factoid,0.9994,0.0,False
+6729,tr-TR,calendar,calendar_remove,tiffany's house'da ki kahvaltıyı iptal et,qa_factoid,0.9095,0.0107,False
+6732,tr-TR,calendar,calendar_set,kayınbabam ve kayınvalidemle pazar günü için buluşma hatırlatıcısı ekle,email_sendemail,0.9268,0.0039,False
+6744,tr-TR,calendar,calendar_set,yarın sabah on için mehmet ile bir toplantı koy,cooking_recipe,0.6767,0.012,False
+6746,tr-TR,calendar,calendar_set,takvimimde haziranın ilk haftasını tatil olarak ayarla,qa_factoid,0.8361,0.0101,False
+6747,tr-TR,calendar,calendar_query,kaç tane hatırlatmam var,lists_remove,0.9822,0.0004,False
+6755,tr-TR,calendar,calendar_remove,lütfen takvimimi temizle,calendar_remove,0.3874,0.3874,True
+6761,tr-TR,calendar,calendar_remove,takvimimden sabah dokuzdaki toplantıyı kaldır,calendar_remove,0.9364,0.9364,True
+6764,tr-TR,calendar,calendar_set,bana camları yıkamam gerektiğini hatırlat,lists_remove,0.615,0.0107,False
+6774,tr-TR,calendar,calendar_set,cuma günü için bir etkinlik ayarla,iot_hue_lightoff,0.3385,0.1648,False
+6785,tr-TR,calendar,calendar_query,bir sonraki anımsatıcım ne,qa_definition,0.279,0.0121,False
+6789,tr-TR,calendar,calendar_set,joanna ile cumartesi günü öğleden sonra dörde görüşme ayarla,lists_remove,0.2501,0.0086,False
+6798,tr-TR,calendar,calendar_remove,sonraki etkinliğimi kaldır,qa_factoid,1.0,0.0,False
+6801,tr-TR,calendar,calendar_query,bana bu cuma toplantılarımı göster,qa_factoid,0.5924,0.0018,False
+6806,tr-TR,calendar,calendar_query,bana bu cuma öğleden sonra ki takvim etkinliğimi göster,iot_hue_lightoff,0.5826,0.0062,False
+6815,tr-TR,calendar,calendar_set,bana annemin doğum gününü bir hafta önce hatırlat,email_sendemail,1.0,0.0,False
+6819,tr-TR,calendar,calendar_set,olly bu gece dokuzda jazz barda çok güzel bir müzik grubu çalıyor gitmek istiyorum,play_music,1.0,0.0,False
+6836,tr-TR,calendar,calendar_set,bana yarın altıdaki toplantımı hatırlat,iot_hue_lightoff,0.5576,0.0092,False
+6850,tr-TR,calendar,calendar_query,bugünkü programımı listele,lists_remove,0.9981,0.0,False
+6856,tr-TR,calendar,calendar_set,yarın sabah ondaki toplantı için bana bir hatırlatma bildirimi ver,email_sendemail,0.982,0.0009,False
+6860,tr-TR,calendar,calendar_query,yaklaşan etkinlikler var mı,qa_factoid,0.9879,0.0002,False
+6865,tr-TR,calendar,calendar_set,yarınki toplantı için saat onda bir bildirim ayarla,iot_hue_lightoff,0.9451,0.0021,False
+6878,tr-TR,calendar,calendar_set,cuma öğleden sonra iki buçukta muhasebe departmanıyla bir toplantı planla,cooking_recipe,0.1619,0.0992,False
+6891,tr-TR,calendar,calendar_query,sabah programlarının müsaitliği var mı,qa_factoid,0.9972,0.0001,False
+6892,tr-TR,calendar,calendar_query,bana film programını verebilir misin,cooking_recipe,0.5402,0.0001,False
+6897,tr-TR,calendar,calendar_set,bana ayın yedisinde akşam saat beşte leyla 'yı almamı hatırlat,email_sendemail,1.0,0.0,False
+6901,tr-TR,calendar,calendar_set,bana yarın sabah onda toplantıyı hatırlat,email_sendemail,0.9689,0.0001,False
+6902,tr-TR,calendar,calendar_set,gelecek ay yağ değişimim için bir hatırlatıcı ayarla,iot_hue_lightoff,0.8579,0.0071,False
+6909,tr-TR,calendar,calendar_query,öğleden sonra birden sonra ve üçten önce neler oluyor,calendar_remove,0.3377,0.0271,False
+6918,tr-TR,calendar,calendar_remove,etkinlikleri takvimden sil,qa_factoid,0.5263,0.0864,False
+6923,tr-TR,calendar,calendar_set,hatırlatıcıyı salı sabahı dokümanların çıktısını alacak şekilde ayarla,iot_hue_lightoff,0.8155,0.0041,False
+6926,tr-TR,calendar,calendar_query,cuma mı,cooking_recipe,0.9662,0.0009,False
+6928,tr-TR,calendar,calendar_remove,tüm etkinlikler iptal,qa_factoid,0.985,0.008,False
+6936,tr-TR,calendar,calendar_set,bana ilacımı sabah dokuzda almamı hatırlat,email_sendemail,1.0,0.0,False
+6937,tr-TR,calendar,calendar_set,öğlen için patronla öğle yemeği anımsatıcısı kur,cooking_recipe,0.9976,0.0001,False
+6946,tr-TR,calendar,calendar_query,çarşamba için oluşturulmuş bir toplantı var mı,calendar_set,0.4574,0.0413,False
+6958,tr-TR,calendar,calendar_remove,takvimimde hiç etkinlik kalmadığından emin ol,qa_factoid,0.9877,0.0042,False
+6959,tr-TR,calendar,calendar_set,toplantımı başlamadan bir saat önce bana hatırlat,email_sendemail,0.4563,0.0018,False
+6962,tr-TR,calendar,calendar_set,önümüzdeki cumartesi akşam altıda ne yapmam gerektiğini öğrenebilir miyim,weather_query,0.9686,0.0008,False
+6964,tr-TR,calendar,calendar_set,patronumla bir sonraki toplantımı gerçekleşmeden bir saat önce hatırlatabilir misin,recommendation_events,0.8085,0.0045,False
+6967,tr-TR,calendar,calendar_query,bu konudaki gerçekleri kontrol edebilir misin,qa_factoid,0.9412,0.002,False
+6968,tr-TR,calendar,calendar_query,bugün için tüm toplantıların davetlilerden confirme almam lazım,qa_factoid,0.8582,0.0048,False
+6973,tr-TR,calendar,calendar_set,yarın bursa'daki konferans için bir hatırlatıcı ekle,cooking_recipe,0.4847,0.0036,False
+6974,tr-TR,calendar,calendar_set,yarın ankara'da bir toplantım olduğunu hatırlat,social_post,0.6366,0.015,False
+6980,tr-TR,calendar,calendar_query,bana yapılacaklar listesini ver,lists_query,0.5536,0.0006,False
+6992,tr-TR,calendar,calendar_query,gelecekteki etkinlikleri göster,qa_factoid,0.9992,0.0,False
+6994,tr-TR,calendar,calendar_set,bana hatırlat,email_sendemail,0.9901,0.0001,False
+6997,tr-TR,calendar,calendar_remove,sonraki etkinliği kaldır,qa_factoid,1.0,0.0,False
+7000,tr-TR,calendar,calendar_set,yeni etkinlik,qa_factoid,0.9996,0.0,False
+7004,tr-TR,calendar,calendar_set,takvime her sene bu tarihte bir hatırlatma ekle,email_sendemail,1.0,0.0,False
+7013,tr-TR,calendar,calendar_query,etkinlik ne zaman başlıyor,datetime_query,0.8043,0.0003,False
+7014,tr-TR,calendar,calendar_query,bana bugünkü etkinliklerin programını ver,cooking_recipe,0.3378,0.001,False
+7025,tr-TR,calendar,calendar_remove,yeni yılı takvimden kaldır,calendar_remove,0.9317,0.9317,True
+7026,tr-TR,recommendation,recommendation_events,bu hafta ilçemde hangi etkinlikler oluyor,news_query,0.916,0.0136,False
+7039,tr-TR,calendar,calendar_set,bana gelecek salı sabah on birde semra ile bir toplantı ayarla,cooking_recipe,0.4913,0.1028,False
+7044,tr-TR,calendar,calendar_set,öğleden sonra beş te hazırlanmaya başlamamı anımsat lütfen,cooking_recipe,0.9166,0.0028,False
+7046,tr-TR,calendar,calendar_set,ayın yirmi birinde saat yedi de veli toplantısı ekle,email_sendemail,1.0,0.0,False
+7055,tr-TR,calendar,calendar_set,perşembe günü sabah onbirde mehmet ile bir toplantı programla,cooking_recipe,0.4466,0.0982,False
+7057,tr-TR,calendar,calendar_set,çarşamba öğle burak ile bir öğle yemeği buluşması programla,cooking_recipe,0.9922,0.0005,False
+7061,tr-TR,calendar,calendar_set,emine ile cuma toplantımdan yirmi dört saat önce bana bir hatırlatma ver,email_sendemail,1.0,0.0,False
+7073,tr-TR,calendar,calendar_set,benim bir sonraki etkinliğim için takvimimi araştır ve öncesinde beni bilgilendir,qa_factoid,0.9624,0.0022,False
+7080,tr-TR,calendar,calendar_remove,takvimimdeki her şeyi iptal et,qa_factoid,0.926,0.0145,False
+7087,tr-TR,calendar,calendar_remove,benim yarınki toplantımı takvimimden sil,calendar_remove,0.8608,0.8608,True
+7098,tr-TR,calendar,calendar_set,benim on ikisindeki araba ödememi takvimime ekle,calendar_remove,0.5867,0.0069,False
+7100,tr-TR,calendar,calendar_set,bana bir gün önce arabamın son günü olduğunu hatırlat,datetime_query,0.6591,0.0011,False
+7111,tr-TR,calendar,calendar_query,otuz bir mart taki doktor randevusu saat kaçta,iot_hue_lightoff,0.8074,0.0,False
+7113,tr-TR,calendar,calendar_query,bu hafta sonu şehir merkezinde herhangi bir etkinlik var mı,lists_query,0.8624,0.0119,False
+7117,tr-TR,calendar,calendar_remove,on dokuzundaki etkinlikler i benim takvimimden kaldır,qa_factoid,0.9187,0.0092,False
+7120,tr-TR,calendar,calendar_query,bugün benim programım nasıl,qa_factoid,0.6502,0.0006,False
+7122,tr-TR,calendar,calendar_set,bu etkinliği tekrarlar mısın,qa_factoid,1.0,0.0,False
+7140,tr-TR,calendar,calendar_set,öğle yemeği buluşmasından bir saat önce beni bilgilendirmek için bir hatırlatıcı ayarla,iot_hue_lightoff,0.8405,0.011,False
+7141,tr-TR,calendar,calendar_query,bu program planlanmış mı,qa_factoid,0.9944,0.0001,False
+7151,tr-TR,calendar,calendar_set,her tek sayılı pazar günü için hatırlatma kur,iot_hue_lightoff,0.2668,0.0214,False
+7152,tr-TR,calendar,calendar_set,her gün öğle yemeğini on iki buçuğa ayarla,cooking_recipe,0.9999,0.0,False
+7161,tr-TR,calendar,calendar_set,ileride bu etkinliği hatırlat,qa_factoid,0.9998,0.0,False
+7170,tr-TR,calendar,calendar_set,bugün annemin doğum günü bana her yıl bu tarihte bir bildirim gönder,email_sendemail,0.9997,0.0,False
+7181,tr-TR,calendar,calendar_set,beni perşembe sabahı altıda uyandır ki toplantı için zamanım olsun,iot_hue_lightoff,0.6856,0.1012,False
+7185,tr-TR,calendar,calendar_query,doktor ahmet ile bir sonraki randevum ne zaman,qa_factoid,0.9015,0.0004,False
+7189,tr-TR,calendar,calendar_query,planladığım herhangi bir şey var mı,qa_factoid,0.2903,0.0151,False
+7194,tr-TR,calendar,calendar_set,yarın toplantım var kur bunu,cooking_recipe,0.9934,0.0001,False
+7196,tr-TR,calendar,calendar_set,bana on beş martta alper ile yapacağım toplantıyı hatırlat,email_sendemail,1.0,0.0,False
+7199,tr-TR,calendar,calendar_set,gelecek haftanın ingilizce finalinden önce üç iki ve bir saat için bir bildiri ayarla,iot_hue_lightoff,0.9781,0.0009,False
+7209,tr-TR,calendar,calendar_set,salı günü çöpü çıkarmamı hatırlatabilir misin,calendar_remove,0.6421,0.0078,False
+7219,tr-TR,calendar,calendar_query,yarın için toplantı ile ilgili bir hatırlatma koydun mu,iot_hue_lightoff,0.8813,0.001,False
+7224,tr-TR,calendar,calendar_query,tomun evliliğinin gerçekleşeceği mekan nerede,iot_hue_lightoff,0.5282,0.011,False
+7232,tr-TR,calendar,calendar_query,gelecek haftaki etkinlikler neler,qa_factoid,0.4585,0.0065,False
+7257,tr-TR,calendar,calendar_set,lütfen bana yarım saat içinde annemi aramayı hatırlat,email_sendemail,1.0,0.0,False
+7258,tr-TR,calendar,calendar_set,bana bir saat sonra patrona e-posta göndermeyi hatırlat,email_sendemail,1.0,0.0,False
+7262,tr-TR,calendar,calendar_set,yarınki toplantı için bir bildirim hatırlatıcısı oluştur,iot_hue_lightoff,0.743,0.0342,False
+7266,tr-TR,calendar,calendar_query,bekleyen işlerim neler,lists_query,0.6343,0.0116,False
+7278,tr-TR,calendar,calendar_set,bana rümeysanın doğum gününü yirmi dört saat önceden hatırlat,datetime_query,0.3957,0.0071,False
+7287,tr-TR,calendar,calendar_set,bana yıldönümümü bir gün önceden hatırlat,email_sendemail,0.9984,0.0,False
+7289,tr-TR,calendar,calendar_remove,cem ile tüm etkinlikler i kaldır,lists_remove,0.8559,0.032,False
+7291,tr-TR,calendar,calendar_set,yarın sabah ondan bir saat sonrasını engelle,weather_query,0.5204,0.0068,False
+7292,tr-TR,calendar,calendar_set,yarın akşam dörtten altıya kadar müsait değilim takvimimi işaretle,qa_factoid,0.7229,0.0016,False
+7293,tr-TR,calendar,calendar_set,cumartesiye bir saatlik bir randevu ayarla,calendar_remove,0.9951,0.0011,False
+7294,tr-TR,calendar,calendar_remove,takvimimden ali kaya ile olan randevuyu kaldır,qa_factoid,0.9998,0.0,False
+7295,tr-TR,calendar,calendar_remove,lütfen takvimimi temizle,calendar_remove,0.3874,0.3874,True
+7314,tr-TR,calendar,calendar_query,bugün için ne var,qa_factoid,0.9498,0.0006,False
+7316,tr-TR,calendar,calendar_query,hiç randevum var mı,qa_factoid,0.9999,0.0,False
+7319,tr-TR,calendar,calendar_query,bugün öğleden sonra ikiden dörde kadar neler oluyor,weather_query,0.4461,0.0057,False
+7353,tr-TR,email,email_query,sadece önümüzdeki haftalarda adana'nın hava durumunu bana bildir,weather_query,0.9545,0.0004,False
+7355,tr-TR,calendar,calendar_set,bana saat altıda yemeği kontrol etmem gerektiğini hatırlat,weather_query,0.9927,0.0002,False
+7380,tr-TR,calendar,calendar_query,lütfen bugün müşterilerle olan toplantıyı göster,social_post,0.4657,0.0018,False
+7397,tr-TR,calendar,calendar_query,önümüzdeki üç ay için planlanmış bir etkinlik var mı,qa_factoid,0.4257,0.0102,False
+7449,tr-TR,calendar,calendar_set,lütfen bu kişiyle bir toplantı planla,qa_factoid,0.4108,0.0109,False
+7450,tr-TR,calendar,calendar_set,bu kişiyle program yapmak için bir toplantıya ihtiyacım var,cooking_recipe,0.5786,0.0015,False
+7455,tr-TR,calendar,calendar_set,bana yarınki partiyi hatırlat,calendar_remove,0.7141,0.0014,False
+7461,tr-TR,calendar,calendar_set,insanları takvim etkinliğine davet et,iot_hue_lightoff,0.3699,0.0409,False
+7463,tr-TR,calendar,calendar_set,grubuma yeni toplantı tarihinin yarın olduğunu bildir,email_sendemail,0.4335,0.0151,False
+7467,tr-TR,calendar,calendar_query,etkinliklerin saatlerini ver,weather_query,0.834,0.0076,False
+7477,tr-TR,calendar,calendar_set,bana her yılın beş martında evlilik yıldönümü hediyeleri hazırlamamı hatırlat,email_sendemail,0.886,0.0027,False
+7496,tr-TR,calendar,calendar_query,bugün randevum var mı,qa_factoid,0.9996,0.0,False
+7499,tr-TR,calendar,calendar_set,yarınki toplantı için yeni program yap,cooking_recipe,0.6993,0.0014,False
+7500,tr-TR,calendar,calendar_remove,gelecek etkinliği silebilir misin,qa_factoid,0.9997,0.0,False
+7502,tr-TR,calendar,calendar_query,öğleden sonra dörtte ali ile yapacağım toplantıya dair ajandada ne var,lists_query,0.3707,0.0287,False
+7503,tr-TR,calendar,calendar_query,cuma günü öğleden sonra birde ki o toplantı ankarada nerede,social_post,0.3807,0.0124,False
+7520,tr-TR,calendar,calendar_set,her gün öğleden sonra ikide bana öğle yemeğini hatırlat,cooking_recipe,0.9981,0.0002,False
+7524,tr-TR,calendar,calendar_query,bugün saat akşam beşyirmide yapılan toplantıda osman şirketime ne kadar yatırım yapmak ister,qa_factoid,0.3015,0.0264,False
+7528,tr-TR,calendar,calendar_set,haziranın on üçü seçim sonuçları günü lütfen bunu ayarla,calendar_remove,0.9999,0.0,False
+7531,tr-TR,calendar,calendar_set,lütfen maaş günlerini ekle,calendar_remove,0.9936,0.0013,False
+7539,tr-TR,calendar,calendar_query,şu anda devam etmekte olan bir şeyim var mı,lists_query,0.1471,0.0352,False
+7542,tr-TR,calendar,calendar_set,lütfen yarın bunu bana hatırlat,email_sendemail,0.7762,0.0013,False
+7549,tr-TR,calendar,calendar_set,saat üçe kadar toplantı istiyorum,iot_hue_lightoff,0.6898,0.0008,False
+7556,tr-TR,calendar,calendar_set,takvimimi bana her cuma alışveriş yapmamı hatırlatacak şekilde ayarla,calendar_remove,0.2831,0.1473,False
+7557,tr-TR,calendar,calendar_set,takvimde bir yerleşim anımsatıcısı yap,cooking_recipe,0.9775,0.0002,False
+7559,tr-TR,calendar,calendar_set,bana bu akşam sekizde kuru temizlemeden kıyafetlerimi almayı hatırlat,iot_hue_lightoff,0.3224,0.0465,False
+7563,tr-TR,calendar,calendar_set,yarınki toplantımı bana bir saat önceden hatırlat,qa_factoid,0.7584,0.0034,False
+7565,tr-TR,calendar,calendar_set,toplantı hatırlatma,iot_hue_lightoff,0.3495,0.0011,False
+7567,tr-TR,calendar,calendar_set,doğum günü,calendar_remove,0.9124,0.0045,False
+7569,tr-TR,calendar,calendar_query,yarını planla,iot_hue_lightoff,0.4321,0.0053,False
+7570,tr-TR,calendar,calendar_query,bugün plan nedir,qa_factoid,0.9163,0.0033,False
+7583,tr-TR,calendar,calendar_set,takvimindeki tanışma toplantısı,social_post,0.5354,0.0155,False
+7596,tr-TR,calendar,calendar_set,lütfen öğleyin pastahanede emre ile bir buluşma programla,cooking_recipe,0.9985,0.0,False
+7598,tr-TR,calendar,calendar_set,sonraki müsait olan toplantı gününe aliyle terörizmi tartışma toplantısı ayarla lütfen,calendar_remove,0.9666,0.0131,False
+7606,tr-TR,calendar,calendar_set,can ile yarın üçte buluş,weather_query,0.4814,0.0144,False
+7609,tr-TR,calendar,calendar_remove,salı günündeki toplantı hatırlatmasını kaldır,calendar_remove,0.9945,0.9945,True
+7613,tr-TR,calendar,calendar_query,yaklaşmakta olan etkinlik neydi,qa_factoid,0.9992,0.0,False
+7628,tr-TR,calendar,calendar_set,kütüphanedeyken bana yeni bir kütüphane kartı almam gerektiğini hatırlat,email_sendemail,1.0,0.0,False
+7654,tr-TR,calendar,calendar_set,yirmi nisanı erkek kardeşimin doğum günü olarak işaretle,datetime_query,0.4459,0.0763,False
+7655,tr-TR,calendar,calendar_set,hatırlatmaya nisanın yirmisini abimin doğum günü olarak ekle,iot_hue_lightoff,0.4675,0.0085,False
+7660,tr-TR,calendar,calendar_remove,bugün öğleden sonra üçten itibaren olan tüm randevularımı iptal et ve beni detaylı bilgilendir,qa_factoid,0.9164,0.0476,False
+7662,tr-TR,calendar,calendar_query,bugünkü toplantılarımı listeler misin,lists_remove,0.988,0.0004,False
+7664,tr-TR,calendar,calendar_set,mike ile bir öğle yemeği ekle,cooking_recipe,0.9694,0.0023,False
+7666,tr-TR,calendar,calendar_set,onur ile yarın üçte toplantım olduğunu işaretler misin,iot_hue_lightoff,0.3561,0.0101,False
+7680,tr-TR,calendar,calendar_remove,takvimimde bu ayın tüm golf ekinliklerini sil,lists_remove,0.6961,0.2081,False
+7686,tr-TR,calendar,calendar_set,murat ve engin'i festival takvimine ekle,qa_factoid,0.9757,0.0004,False
+7690,tr-TR,calendar,calendar_query,neyim var,email_sendemail,0.7353,0.0012,False
+7693,tr-TR,calendar,calendar_query,ayın yirmi birine herhangi bir şey planladım mı,cooking_recipe,0.3525,0.0223,False
+7697,tr-TR,calendar,calendar_set,bunun için bir hatırlatıcı kur,iot_hue_lightoff,0.8431,0.0056,False
+7711,tr-TR,calendar,calendar_set,hey benim diğer tüm toplantılarımı iptal et ve iki mart çağrılarını birkanın doğum günü olduğu için takviminde bir etkinlik olarak etiketle,calendar_remove,0.9683,0.0008,False
+7712,tr-TR,calendar,calendar_set,hey olly iki mart için benim tüm randevularımı ve aramaları iptal et çünkü o gün jim'in doğum günü bu etkinliği takvime kaydet,calendar_remove,0.4882,0.0036,False
+7718,tr-TR,calendar,calendar_set,hey bu cuma günü toplantı için semih beye davet gönder ve cuma günü öğleden sonrası için takvimimi engelle,calendar_remove,0.787,0.0309,False
+7726,tr-TR,calendar,calendar_set,her pazartesi bir şey yapmam lazım bir hatırlatma kur,calendar_remove,0.3882,0.1375,False
+7730,tr-TR,calendar,calendar_set,gelecek pazartesiyi işaretlemene ihtiyacım var,qa_factoid,0.5738,0.0029,False
+7741,tr-TR,calendar,calendar_remove,cumartesi için benim takvimimi kaldır,calendar_remove,0.9988,0.9988,True
+7751,tr-TR,calendar,calendar_set,her pazartesi çöpleri çıkarmayı hatırlat,calendar_remove,0.943,0.0131,False
+7762,tr-TR,calendar,calendar_query,hangi hatırlatıcılarım var,email_sendemail,0.2327,0.0259,False
+7767,tr-TR,calendar,calendar_set,kuğulu parkta dört şubata öğleden sonra ikiye takvime bir alıştırma ekle,cooking_recipe,0.9994,0.0,False
+7768,tr-TR,calendar,calendar_set,lütfen dört şubatta öğleden sonra ikide merkez parkta antrenman ekle,cooking_recipe,0.6152,0.0091,False
+7774,tr-TR,calendar,calendar_set,takvimime yarın için alışveriş ekle,lists_remove,0.4481,0.0053,False
+7777,tr-TR,calendar,calendar_query,bugün randevum var mı,qa_factoid,0.9996,0.0,False
+7778,tr-TR,calendar,calendar_set,bana pazar öğleden sonra ne yapacağımı hatırlat,weather_query,0.4463,0.0081,False
+7808,tr-TR,calendar,calendar_set,bana perşembe sabah on birde annemi kuaföre götürmem gerektiğini hatırlat,email_sendemail,0.4349,0.0166,False
+7817,tr-TR,calendar,calendar_query,bu tarihle ilgili olan doğru mu,datetime_query,0.6108,0.0055,False
+7820,tr-TR,calendar,calendar_remove,takvimdeki tüm etkinlikleri sil,lists_remove,0.9776,0.0042,False
+7836,tr-TR,calendar,calendar_remove,tüm etkinlikleri sil,lists_remove,0.9874,0.0003,False
+7843,tr-TR,calendar,calendar_set,bana iki saat önceden adana müzik merkezindeki keman dersi için öğleden sonra dörtte çıkmam gerektiğini bildir,calendar_remove,0.2566,0.0194,False
+7844,tr-TR,calendar,calendar_query,hangi hatırlatıcıları ayarladım,iot_hue_lightoff,0.2747,0.0269,False
+7847,tr-TR,calendar,calendar_set,kayıtlar açıldığında beni uyar,qa_factoid,0.9934,0.0001,False
+7851,tr-TR,calendar,calendar_set,bugün öğlen bir toplantım var,calendar_remove,0.9146,0.0046,False
+7863,tr-TR,calendar,calendar_set,bana bu öğleden sonra beşte akşam yemeğine başlamam gerektiğini hatırlat,cooking_recipe,0.9101,0.0069,False
+7870,tr-TR,calendar,calendar_remove,etkinliği takvimden sil,iot_hue_lightoff,0.8973,0.0069,False
+7876,tr-TR,news,news_query,son iki aydır neler oluyor,news_query,0.9934,0.9934,True
+7878,tr-TR,calendar,calendar_remove,benim takvimimi sil,qa_factoid,0.8129,0.004,False
+7879,tr-TR,calendar,calendar_query,gelecek üç etkinliğim neler,qa_factoid,0.8696,0.0027,False
+7889,tr-TR,calendar,calendar_query,bu akşam futbol maçı ne zaman olacak,weather_query,0.8951,0.0022,False
+7890,tr-TR,calendar,calendar_remove,bugünkü saç kesimini temizle,lists_remove,0.3912,0.0933,False
+7891,tr-TR,calendar,calendar_remove,bu geceki akşam yemeğini iptal et,cooking_recipe,0.7503,0.2286,False
+7892,tr-TR,calendar,calendar_remove,bugünkü bir sonraki etkinliği dil,qa_factoid,0.6749,0.0077,False
+7894,tr-TR,calendar,calendar_set,bana bir saat içinde seçimle ilgili bilgi ver,recommendation_events,0.8687,0.0014,False
+7902,tr-TR,calendar,calendar_set,yarın öğleden sonra iki de şahsımla ali arasında bir toplantı kur,weather_query,0.1797,0.0249,False
+7908,tr-TR,calendar,calendar_query,bugün yapmam gereken bir şey var mı,cooking_recipe,0.791,0.0044,False
+7912,tr-TR,calendar,calendar_remove,alexa murat ile akşam yemeğini takvimimden kaldır,cooking_recipe,0.9823,0.0081,False
+7916,tr-TR,calendar,calendar_set,akşam altı da çöpleri atmamı hatırlat,iot_hue_lightoff,0.7857,0.0059,False
+7918,tr-TR,calendar,calendar_set,takvim etkinliği mahmut özdemiri davet et,qa_factoid,0.9808,0.0001,False
+7919,tr-TR,calendar,calendar_set,yeni toplantı için burak ve melis i de katılımcı olarak ekle,email_sendemail,1.0,0.0,False
+7922,tr-TR,calendar,calendar_remove,görevleri aç gelecekteki etkinlikleri sil,lists_remove,0.8477,0.0312,False
+7927,tr-TR,calendar,calendar_query,bu hafta ne yapmam gerekiyor,cooking_recipe,0.7608,0.0076,False
+7946,tr-TR,calendar,calendar_query,mersin de yaklaşan konserler neler,play_music,0.9762,0.0001,False
+7953,tr-TR,calendar,calendar_remove,benim cumartesi günü doktorum ile olan randevumu kaldır lütfen,calendar_remove,0.7823,0.7823,True
+7955,tr-TR,calendar,calendar_set,bu etkinliği benim takvimimdeki tekrarlanan sıraya koy,qa_factoid,0.9919,0.0016,False
+7956,tr-TR,calendar,calendar_set,bu etkinliği tekrarlayan olarak çevirir misin,qa_factoid,1.0,0.0,False
+7966,tr-TR,calendar,calendar_query,bana bir şey hatırlatmanı söyledim mi,email_sendemail,0.442,0.0102,False
+7970,tr-TR,calendar,calendar_set,bana zamanında bir hediye almam için düğünü hatırlat,email_sendemail,0.9995,0.0,False
+7971,tr-TR,calendar,calendar_set,etkinliğin ilk iki günü için bir anımsatıcı kut,iot_hue_lightoff,0.385,0.0433,False
+7975,tr-TR,calendar,calendar_query,etkinlikte vale servisi var mı,iot_hue_lightoff,0.5859,0.0176,False
+7978,tr-TR,calendar,calendar_query,yarın öğlenden önce için hangi hatırlatıcılar var,iot_hue_lightoff,0.2051,0.0338,False
+7980,tr-TR,calendar,calendar_set,bana ne zaman bir etkinliğim olduğunu söyle,datetime_query,0.4773,0.0009,False
+7981,tr-TR,calendar,calendar_set,toplantı öncesi bir uyarı gönder,iot_hue_lightoff,0.4783,0.0159,False
+7993,tr-TR,calendar,calendar_remove,tüm etkinlikleri benim takvimimden sil,lists_remove,0.9709,0.0017,False
+8001,tr-TR,calendar,calendar_remove,ben cuma için bir saç kesimi programlamıştım onu sil,calendar_remove,0.6828,0.6828,True
+8004,tr-TR,calendar,calendar_set,derya benimle boşanma hakkında konuşmak istiyor lütfen ben müsait olur olmaz bir toplantı ayarlar mısın,iot_hue_lightoff,0.3406,0.0126,False
+8005,tr-TR,calendar,calendar_set,ayın yirmisi pazartesi günü serdar ile hafta sonu gezimiz hakkında konuşmam gerekiyor,social_post,0.9586,0.0013,False
+8013,tr-TR,calendar,calendar_query,gelecek ay için benim toplantı mı göster,qa_factoid,0.4285,0.0029,False
+8029,tr-TR,calendar,calendar_query,bugün hangi etkinlikler yaklaşıyor,qa_factoid,0.7387,0.0066,False
+8033,tr-TR,datetime,datetime_query,paskalya hangi güne denk geliyor,weather_query,0.9617,0.0347,False
+8035,tr-TR,calendar,calendar_set,arabanın yağını değiştirmemi hatırlat,iot_hue_lightoff,0.3733,0.0128,False
+8037,tr-TR,calendar,calendar_set,bana herhangi bir zaman herhangi bir şey hatırlat,email_sendemail,0.5331,0.0259,False
+8042,tr-TR,calendar,calendar_query,sonraki toplantıma kaç kişi katılıyor,qa_factoid,0.9999,0.0,False
+8043,tr-TR,calendar,calendar_query,bir sonraki randevum saat kaçta,weather_query,0.9956,0.0001,False
+8044,tr-TR,calendar,calendar_query,bugün benim programım nedir,cooking_recipe,0.9937,0.0002,False
+8055,tr-TR,calendar,calendar_remove,yedi mart randevumu sil,datetime_query,0.9876,0.0006,False
+8056,tr-TR,calendar,calendar_query,benim cuma günü bir randevum var mı,recommendation_events,0.6399,0.0023,False
+8058,tr-TR,calendar,calendar_query,bugün satış toplantım var mı,qa_factoid,0.9994,0.0,False
+8073,tr-TR,calendar,calendar_set,çarşamba için saat öğleden önce on birde bir satış toplantısı planla,calendar_set,0.4667,0.4667,True
+8079,tr-TR,calendar,calendar_set,ekmeğin pişmesi için bir saat içerisinde bir hatırlatıcı kur,cooking_recipe,0.9964,0.0001,False
+8084,tr-TR,calendar,calendar_query,etkinlik programı nedir,cooking_recipe,0.9813,0.0002,False
+8085,tr-TR,calendar,calendar_set,bu hafta için bir randevu oluşturmak istiyorum,calendar_set,0.3203,0.3203,True
+8100,tr-TR,email,email_sendemail,yeniden planlamak için randevularımı epostayla gönder,email_sendemail,1.0,1.0,True
+8107,tr-TR,calendar,calendar_set,mehmet için bir doğum günü etkinliği ayarla,iot_hue_lightoff,0.5669,0.0312,False
+8110,tr-TR,calendar,calendar_set,lütfen takvimime denetim ekle,calendar_remove,0.6066,0.0251,False
+8116,tr-TR,calendar,calendar_query,bir şubat ve on altı mart aralığındaki süreçte hangi toplantılar yer aldı,news_query,0.2506,0.0697,False
+8119,tr-TR,calendar,calendar_query,meleğin doğum günü partisi nerede yapılıyor,social_post,0.4523,0.019,False
+8125,tr-TR,calendar,calendar_set,benim takvimimdeki toplantı etkinliğini oluştur,qa_factoid,0.8967,0.0003,False
+8126,tr-TR,calendar,calendar_set,benim takvimimde bir toplantı etkinlik i programla,qa_factoid,0.9832,0.0003,False
+8129,tr-TR,calendar,calendar_query,hala hangi hatırlatıcılarım var,iot_hue_lightoff,0.3071,0.0303,False
+8140,tr-TR,calendar,calendar_set,bekir ile öğle yemeği yiyeceğim için on üçüne bir hatırlatıcı ayarla,cooking_recipe,0.8747,0.0038,False
+8148,tr-TR,calendar,calendar_query,kendime hiç hatırlatma bıraktım mı,qa_factoid,0.8356,0.002,False
+8150,tr-TR,calendar,calendar_query,doğum günü partisi ile ilgili hatırlatıcım var mı,qa_factoid,0.9944,0.0002,False
+8165,tr-TR,calendar,calendar_query,saat on iki buçuk senin on dakika içerisinde bir toplantın var,qa_factoid,0.8164,0.001,False
+8182,tr-TR,calendar,calendar_remove,dişçi randevusunu silebilir misin,qa_factoid,0.5931,0.0005,False
+8188,tr-TR,calendar,calendar_query,günlerden ne,weather_query,0.9829,0.0012,False
+8204,tr-TR,calendar,calendar_set,lütfen bana postaneye gitmemi hatırlat,social_post,0.9997,0.0,False
+8206,tr-TR,calendar,calendar_set,kız kardeşime hediye almayı unutmama izin verme,email_sendemail,0.9451,0.0013,False
+8230,tr-TR,calendar,calendar_query,salı günü öğle yemeği toplantım ne kadar sürecek,qa_factoid,0.6452,0.0155,False
+8241,tr-TR,calendar,calendar_remove,yılın geri kalanı için benim herşey imi temizle,lists_remove,0.5169,0.2681,False
+8245,tr-TR,calendar,calendar_set,pazarları saat on birde kilise hizmetlerinden haberdar olmam gerekiyor,weather_query,0.6871,0.0029,False
+8248,tr-TR,calendar,calendar_set,yarınki yemek tarihini takvime ekle,cooking_recipe,0.689,0.0009,False
+8251,tr-TR,calendar,calendar_set,önümüzdeki haftanın öğle yemeğinin takvime konulması lazım,calendar_remove,0.8311,0.0115,False
+8260,tr-TR,calendar,calendar_set,lütfen beni sadıkın doğum gününden bir gün önce uyar,calendar_remove,0.8901,0.0056,False
+8261,tr-TR,calendar,calendar_set,bir sonraki randevumdan bir saat önce bana bir uyarı gönder,qa_factoid,0.3207,0.0133,False
+8269,tr-TR,calendar,calendar_set,salı günü toplantı için otuz dakikalık hatırlatma,iot_hue_lightoff,0.779,0.0044,False
+8276,tr-TR,calendar,calendar_remove,bir sonraki planlanmış randevumu kaldır lütfen,calendar_remove,0.8543,0.8543,True
+8280,tr-TR,calendar,calendar_set,on beş marta hatırlatıcı ayarlamam gerekiyor,iot_hue_lightoff,0.6632,0.0106,False
+8284,tr-TR,calendar,calendar_remove,takvimden doğum gününü kaldır,calendar_remove,0.9907,0.9907,True
+8289,tr-TR,calendar,calendar_set,bugün dörtteki fakülte buluşması içi hatırlatıcı kur,recommendation_events,0.0938,0.047,False
+8290,tr-TR,calendar,calendar_set,salı günü gelecek haftanın yöneticiler toplantısı hakkında bir hatırlatıcı aç,email_sendemail,0.6359,0.0057,False
+8294,tr-TR,calendar,calendar_set,takvime ekle ve tekrarla,email_sendemail,1.0,0.0,False
+8300,tr-TR,calendar,calendar_set,on sekiz mart saat beş ile altı arasındaki etkinliği kaydet,calendar_remove,0.5421,0.0087,False
+8302,tr-TR,calendar,calendar_remove,haftaya pazartesi günkü toplantıyı kaldır,qa_factoid,0.9027,0.0101,False
+8308,tr-TR,news,news_query,dün öğle saatlerinde taksim meydanında ki protesto ne hakkındaydı,social_post,0.9917,0.0001,False
+8336,tr-TR,calendar,calendar_query,canan ile yapacağım brunch ne zaman,cooking_recipe,0.9994,0.0,False
+8343,tr-TR,datetime,datetime_query,bugün çarşamba mı,weather_query,0.8097,0.0154,False
+8345,tr-TR,calendar,calendar_set,toplantının ne zaman gerçekleşeceğini bana haber ver,datetime_query,0.7088,0.0006,False
+8347,tr-TR,calendar,calendar_query,dört aralıkta programımda ne var,qa_factoid,0.6903,0.0053,False
+8358,tr-TR,calendar,calendar_set,bana bunu hatırlat,email_sendemail,0.9939,0.0,False
+8366,tr-TR,calendar,calendar_set,on sekiz martı pearl'ün doğum günü için tekrarlayan bir randevu yap,cooking_recipe,0.3389,0.0298,False
+8387,tr-TR,calendar,calendar_set,çamaşırlar için akşam sekize hatırlatıcı oluştur,iot_hue_lightoff,0.7127,0.0358,False
+8388,tr-TR,calendar,calendar_set,akşam sekizde çamaşır yıkamak istiyorum hatırlatma oluştur,iot_hue_lightoff,0.3273,0.3004,False
+8390,tr-TR,calendar,calendar_set,bana toplantımı hatırlat,email_sendemail,0.9664,0.0001,False
+8394,tr-TR,calendar,calendar_set,ilaçlarımı almam için her gün öğlen bir hatırlatıcı ayarla,email_sendemail,0.474,0.3175,False
+8404,tr-TR,calendar,calendar_query,bu etkinlik hakkında daha fazla bilgi edinmek istiyorum,qa_factoid,0.9994,0.0,False
+8409,tr-TR,calendar,calendar_remove,yarınki akşam yemeğini sil,cooking_recipe,0.993,0.0012,False
+8410,tr-TR,calendar,calendar_remove,pazartesi akşam yemeği etkinliğimi kaldır,calendar_remove,0.899,0.899,True
+8413,tr-TR,calendar,calendar_set,lütfen beni uyar,iot_hue_lightoff,0.474,0.0023,False
+8414,tr-TR,calendar,calendar_set,bana cuma beşte dave ile akşam yemeğine çıkacağımı hatırlat,email_sendemail,0.9452,0.0002,False
+8415,tr-TR,calendar,calendar_set,salı günü öğleden sonra üç için ali ile ofiste bir toplantı ekle,calendar_remove,0.7664,0.0078,False
+8426,tr-TR,calendar,calendar_query,bana dünden bu sabaha kadar olan güncel olaylardan bahset,social_post,0.756,0.0012,False
+8430,tr-TR,calendar,calendar_remove,tüm randevularımı iptal et,qa_factoid,0.971,0.0045,False
+8431,tr-TR,calendar,calendar_remove,tüm planlanmış etkinliklerimden kurtul,calendar_remove,0.8346,0.8346,True
+8436,tr-TR,calendar,calendar_set,lütfen mart ayında her çarşamba öğlen on iki için yemekli toplantı ayarla,calendar_remove,0.6682,0.2758,False
+8442,tr-TR,calendar,calendar_set,lütfen takvimimi bu etkinlikle birlikte değiştir,qa_factoid,0.557,0.0033,False
+8449,tr-TR,calendar,calendar_set,kızlarımın doğum günü için bir hatırlatma ayarla,email_sendemail,0.644,0.0419,False
+8453,tr-TR,calendar,calendar_set,lütfen etkinliği takvimime ekle ve onu tekrar eden bir etkinlik olarak işaretle,calendar_remove,0.4626,0.0306,False
+8460,tr-TR,calendar,calendar_query,bana etkinliklerimi göster,qa_factoid,0.9969,0.0,False
+8461,tr-TR,calendar,calendar_query,mayıs ayı için planlarım neler,lists_query,0.5774,0.0128,False
+8466,tr-TR,calendar,calendar_set,çarşamba sabah dokuzda toplantım var bana hatırlat,email_sendemail,1.0,0.0,False
+8469,tr-TR,calendar,calendar_query,bugün takvimimde ne var,qa_factoid,0.9979,0.0,False
+8474,tr-TR,calendar,calendar_set,yarın öğleden sonra ikiye canın doğum günü partisini yüz yirmi üçü takvimime ekle,calendar_remove,0.4094,0.0439,False
+8494,tr-TR,calendar,calendar_query,bugünkü programım nasıl görünüyor,cooking_recipe,0.7384,0.0073,False
+8496,tr-TR,calendar,calendar_query,yarın sabahki toplantılarımı söyle,weather_query,0.4935,0.0094,False
+8498,tr-TR,calendar,calendar_query,tüm bekleyen hatırlatmaları gözden geçirelim,lists_remove,0.9727,0.0007,False
+8516,tr-TR,calendar,calendar_remove,takvim öğesini sil,lists_remove,0.7394,0.137,False
+8520,tr-TR,calendar,calendar_set,takvim uygulamasına etkinlik ekle,qa_factoid,0.8866,0.0003,False
+8525,tr-TR,calendar,calendar_query,üçten beşe kadar toplantı hatırlatıcıları,lists_remove,0.3456,0.0145,False
+8535,tr-TR,calendar,calendar_set,bana iki saat içindeki diş randevumu hatırlatır mısın,qa_factoid,0.2994,0.0091,False
+8539,tr-TR,calendar,calendar_set,bana hakkındayı hatırlat,qa_factoid,0.9983,0.0,False
+8541,tr-TR,calendar,calendar_set,lütfen bana hatırlat,qa_factoid,0.5769,0.0036,False
+8553,tr-TR,calendar,calendar_set,takvimime sabah dokuzda ali ile yapacağım bir toplantı ekle,calendar_remove,0.9796,0.0007,False
+8559,tr-TR,calendar,calendar_query,bugün için programlanmış bir şeyim var mı,qa_factoid,0.5291,0.0012,False
+8562,tr-TR,calendar,calendar_remove,bugün öğleden sonra ikideki toplantımı sil,calendar_remove,0.953,0.953,True
+8568,tr-TR,calendar,calendar_set,ebru ve ahmet'e salı sabah on birdeki brunch için bir takvim daveti gönderir misin,email_sendemail,1.0,0.0,False
+8570,tr-TR,calendar,calendar_set,yarın öğleden sonra saat ikide beni meşgul olarak işaretler misin,weather_query,0.9523,0.0005,False
+8579,tr-TR,calendar,calendar_query,bugünkü toplantılarım için hangi bilgileri bilmeliyim,lists_query,0.5983,0.0189,False
+8585,tr-TR,calendar,calendar_set,on üçünde bir doğum günü partisi olduğunu hatırlat bana,calendar_remove,0.8785,0.0159,False
+8598,tr-TR,calendar,calendar_set,bana mahmutu saat akşam altıda havaalanından almamı hatırlat,email_sendemail,1.0,0.0,False
+8618,tr-TR,calendar,calendar_set,bana her salı perşembe ve cumartesi günleri bitkilerimi sulamamı hatırlat,email_sendemail,0.9032,0.0026,False
+8631,tr-TR,calendar,calendar_remove,bunu takvimimden sil,social_post,0.8481,0.0021,False
+8635,tr-TR,calendar,calendar_set,şükran gününden üç hafta önce bana hindi siparişini hatırlatabilir misin,email_sendemail,0.9882,0.0004,False
+8640,tr-TR,calendar,calendar_set,yarın kütüphanedeki etkinliği takvimime not almak istiyorum,qa_factoid,0.9953,0.0001,False
+8642,tr-TR,calendar,calendar_set,bugün için hatırlatıcılarıma öğleden sonra dörtteki konferans bağlantısını ekle,email_sendemail,0.7442,0.001,False
+8651,tr-TR,calendar,calendar_set,beni takvimimdeki bir etkinlik için uyar,iot_hue_lightoff,0.3539,0.0117,False
+8653,tr-TR,calendar,calendar_set,bana takvimimdeki etkinliği hatırlat,qa_factoid,0.9944,0.0002,False
+8666,tr-TR,calendar,calendar_remove,takvimimden tüm etkinlikleri sil,lists_remove,0.9981,0.0003,False
+8667,tr-TR,calendar,calendar_query,son üç ayda mr. richards ile kaç toplantı yaptım,qa_factoid,0.1078,0.0437,False
+8670,tr-TR,calendar,calendar_remove,takvimden etkinlikleri kaldır,qa_factoid,0.9902,0.0005,False
+8672,tr-TR,calendar,calendar_query,öpücük konseri nerede,social_post,0.8276,0.0025,False
+8674,tr-TR,calendar,calendar_query,sabah dokuzdaki toplantım nerede,social_post,0.9031,0.0016,False
+8679,tr-TR,calendar,calendar_query,bugün aziz patrick günü mü,weather_query,0.9251,0.0014,False
+8681,tr-TR,calendar,calendar_query,herhangi birinin doğum günü mü,datetime_query,0.9332,0.0015,False
+8694,tr-TR,calendar,calendar_set,etkinlik volkan ve gamzeyi içerecek,weather_query,0.796,0.002,False
+8730,tr-TR,calendar,calendar_set,lütfen takvimime yirmi beş marttaki toplantım için bir hatırlatıcı ayarla,email_sendemail,0.9434,0.0055,False
+8732,tr-TR,calendar,calendar_remove,tüm tarihleri ​​sil,qa_factoid,0.7003,0.002,False
+8762,tr-TR,calendar,calendar_query,bu öğleden sonra için benim programımı söyle,cooking_recipe,0.9916,0.0003,False
+8765,tr-TR,calendar,calendar_set,benim takvimime bugün saat dokuz da hd iskender de akşam yemeği koy,cooking_recipe,0.988,0.0048,False
+8766,tr-TR,calendar,calendar_query,benim yirmi beş mart cumartesi için toplantı m var mı,iot_hue_lightoff,0.6897,0.0039,False
+8767,tr-TR,calendar,calendar_query,canan'ın doğum günü on iki nisan mı,datetime_query,0.5382,0.004,False
+8769,tr-TR,calendar,calendar_remove,yaklaşan etkinliği sil,qa_factoid,1.0,0.0,False
+8771,tr-TR,calendar,calendar_remove,yirmi üç mart için planladığım alışveriş seyahatini sil,calendar_remove,0.8671,0.8671,True
+8774,tr-TR,calendar,calendar_query,yedi temmuz için benim program tamamen açık mı,qa_factoid,0.6412,0.0092,False
+8781,tr-TR,calendar,calendar_query,öğleden sonra dörtte müsait miyim,iot_hue_lightoff,0.3555,0.0129,False
+8782,tr-TR,calendar,calendar_query,bu öğleden sonra toplantım var mı,iot_hue_lightoff,0.7018,0.0025,False
+8791,tr-TR,calendar,calendar_query,bu etkinlik ile ilgili daha fazla bilgi,qa_factoid,1.0,0.0,False
+8795,tr-TR,calendar,calendar_query,saklı hatırlatıcılar ı göster,qa_factoid,0.1864,0.0281,False
+8822,tr-TR,recommendation,recommendation_events,gelecek etkinlikler için bilgi,recommendation_events,0.7505,0.7505,True
+8824,tr-TR,calendar,calendar_query,on dokuzu için öğleden sonra iki de programlanmış neyim var,cooking_recipe,0.9977,0.0001,False
+8825,tr-TR,calendar,calendar_set,bana gelecek cuma erdal ile olan görüşmemin bir hatırlatıcısını kur,email_sendemail,0.9873,0.0003,False
+8828,tr-TR,calendar,calendar_query,takvim deki etkinlik doğru mu,qa_factoid,1.0,0.0,False
+8846,tr-TR,calendar,calendar_query,bu yıl yirmi dokuz ekim için herhangi bir planım var mı,email_sendemail,0.5392,0.0014,False
+8853,tr-TR,calendar,calendar_remove,bir sonraki aktivitemi temizle,calendar_remove,0.7925,0.7925,True
+8856,tr-TR,calendar,calendar_remove,tüm etkinlikleri takvimden sil,lists_remove,0.8906,0.0024,False
+8857,tr-TR,calendar,calendar_set,ceza ile yaklaşan toplantıyı hatırlat,qa_factoid,0.8196,0.0002,False
+8868,tr-TR,calendar,calendar_set,her salı sabah onda annemi aramamı anımsat,iot_hue_lightoff,0.2395,0.0261,False
+8880,tr-TR,calendar,calendar_set,yarınki toplantı için sabah dokuzda bir hatırlatıcı ayarla,iot_hue_lightoff,0.5609,0.0875,False
+8888,tr-TR,calendar,calendar_remove,sil,qa_factoid,0.8493,0.0063,False
+8900,tr-TR,calendar,calendar_set,her pazar yinelenen anımsatıcı kur,qa_factoid,0.9996,0.0,False
+8904,tr-TR,calendar,calendar_query,yeni tarihli etkinlikler hakkında bilgi ver,recommendation_events,0.2991,0.0277,False
+8906,tr-TR,calendar,calendar_set,takvimde diğerleri ile birlikte bir etkinlik günü oluştur,calendar_set,0.4853,0.4853,True
+8907,tr-TR,calendar,calendar_set,takvimde diğerleriyle etkinlikten bahset,qa_factoid,0.4211,0.0183,False
+8912,tr-TR,calendar,calendar_query,bana bugün akşam altıdan sonraki etkinlikleri söyle,email_sendemail,0.3413,0.0101,False
+8914,tr-TR,calendar,calendar_query,dört nisandaki randevum saat kaçta,weather_query,0.8409,0.0001,False
+8916,tr-TR,calendar,calendar_query,gün için programım nedir,cooking_recipe,0.9985,0.0001,False
+8925,tr-TR,calendar,calendar_remove,tüm etkinliklerimi benim takvimimden sil,lists_remove,0.9841,0.0045,False
+8939,tr-TR,calendar,calendar_set,aylanın kızının hediye partisi,email_sendemail,0.9999,0.0,False
+8948,tr-TR,calendar,calendar_set,mustafa ile toplantı için bir etkinlik ekle,cooking_recipe,0.4991,0.0077,False
+8949,tr-TR,calendar,calendar_remove,lütfen hatırlatıcıyı kaldır,qa_factoid,0.9456,0.0327,False
+8958,tr-TR,calendar,calendar_query,toplantı vaktini aç,qa_factoid,0.999,0.0,False
+8960,tr-TR,calendar,calendar_set,yaklaşan toplantı hakkında akşam uyarı vermeni istiyorum,iot_hue_lightoff,0.7021,0.0074,False
+8967,tr-TR,calendar,calendar_set,eşimin doğum gününden iki gün önce bana hatırlat,email_sendemail,0.9945,0.0001,False
+8968,tr-TR,calendar,calendar_set,bana bu hafta hatırlayacağım bir şey söyle,email_sendemail,0.9367,0.0009,False
+8975,tr-TR,calendar,calendar_query,bugün için planlanan toplantı nedir,calendar_remove,0.3829,0.0769,False
+8977,tr-TR,calendar,calendar_set,bana bekleyen fatura ödemeleri hakkında hatırlatıcılar ayarla,lists_remove,0.7713,0.0278,False
+8978,tr-TR,calendar,calendar_set,sadece hafta boyunca patronumla yapacağım önemli toplantıları bana bildir,email_sendemail,0.8959,0.0025,False
+8985,tr-TR,calendar,calendar_remove,ok google ahmetin doğum gününü takvimden sil,calendar_remove,0.9273,0.9273,True
+8990,tr-TR,calendar,calendar_set,etkinlik yarat,cooking_recipe,0.7313,0.002,False
+8992,tr-TR,calendar,calendar_set,toplantıları göster,transport_query,0.5369,0.0037,False
+9009,tr-TR,calendar,calendar_remove,yıl dönümü etkinliğini takvimimden kaldır,qa_factoid,0.6218,0.3323,False
+9011,tr-TR,calendar,calendar_query,şükran günü etkinliği bu ayın on dördünde mi,qa_factoid,0.8208,0.0014,False
+9014,tr-TR,calendar,calendar_set,lütfen yirmi üç ekimde meslektaşımla yapacağım toplantı için bir bildirim ayarla,email_sendemail,0.9973,0.0001,False
+9015,tr-TR,calendar,calendar_remove,takvimimdeki tüm etkinlikleri temizle,lists_remove,0.9724,0.0096,False
+9019,tr-TR,calendar,calendar_query,yirmi ila yirmi beş haziran arası toplantılar,datetime_query,0.3719,0.0216,False
+9030,tr-TR,calendar,calendar_remove,takvimden bugünkü hastane randevusunu kaldır,qa_factoid,0.9998,0.0,False
+9035,tr-TR,calendar,calendar_query,raci nikah hatırlatıcı,qa_factoid,0.9997,0.0,False
+9043,tr-TR,calendar,calendar_set,takvimdeki yaklaşan etkinlikler,cooking_recipe,0.6311,0.0069,False
+9053,tr-TR,calendar,calendar_set,salı günü meliha ile toplantı için hatırlatıcı kur,email_sendemail,0.9998,0.0,False
+9054,tr-TR,calendar,calendar_set,etkinlik hatırlatıcı salı günü mona,iot_hue_lightoff,0.4291,0.0228,False
+9059,tr-TR,calendar,calendar_set,etkinlik sırasında beni uyar,weather_query,0.3875,0.0116,False
+9061,tr-TR,calendar,calendar_query,hatırlatıcılar hakkında hangi bilgilere sahibim,recommendation_events,0.841,0.0003,False
+9062,tr-TR,calendar,calendar_set,ahmet'in doğum gününü yirmi iki hazirana koyar mısın,calendar_remove,0.8272,0.0712,False
+9074,tr-TR,calendar,calendar_remove,lütfen o etkinliği iptal et,qa_factoid,0.9997,0.0001,False
+9088,tr-TR,calendar,calendar_remove,takvimimdeki her şeyi sil,lists_remove,0.9806,0.0051,False
+9095,tr-TR,calendar,calendar_remove,bu akşamki canan ile yemeği kaldır,cooking_recipe,0.6122,0.1082,False
+9103,tr-TR,calendar,calendar_query,bu öğleden sonra takvimimde bir toplantı var mı,calendar_remove,0.4087,0.0515,False
+9107,tr-TR,calendar,calendar_query,üç hazirandaki tarkan konseri kaçta başlıyor,qa_factoid,0.948,0.001,False
+9110,tr-TR,calendar,calendar_set,yirmi beş mart toplu iki bin on yedi sergisi o tarihleri not et,iot_hue_lightoff,0.8073,0.0051,False
+9112,tr-TR,calendar,calendar_set,bunu takvimime ekle,email_sendemail,0.9977,0.0,False
+9114,tr-TR,calendar,calendar_set,bu takvim etkinliği için tekrarlayan hatırlatma oluştur,iot_hue_lightoff,0.8927,0.0154,False
+9116,tr-TR,calendar,calendar_query,toplantımı yeniden ayarlayabilir misin,transport_query,0.5603,0.001,False
+9121,tr-TR,calendar,calendar_query,hangi günler için rezervasyon yaptırdım,calendar_set,0.8274,0.0015,False
+9124,tr-TR,calendar,calendar_set,gelecek hafta için çalışma takvimimdeki etkinlikleri göster,lists_query,0.2347,0.0496,False
+9137,tr-TR,calendar,calendar_query,italyan restoranı öğle ve akşam yemekleri arasında saat kaçta kapalı,weather_query,0.9608,0.0042,False
+9138,tr-TR,qa,qa_factoid,şampiyonluk maçı resmi olarak ne zaman başlıyor,qa_factoid,0.992,0.992,True
+9149,tr-TR,calendar,calendar_query,gala akşam yemeğinin kaçta başlanması bekleniyor,cooking_recipe,0.9455,0.0003,False
+9153,tr-TR,calendar,calendar_set,lütfen cumartesi günü canan ile akşam yemeği takvimime ekle,calendar_remove,0.8898,0.0563,False
+9155,tr-TR,calendar,calendar_set,cuma gününe saat üçte dişçi randevusu ekle lütfen,calendar_remove,0.9669,0.0012,False
+9156,tr-TR,calendar,calendar_set,hatırlatmak,qa_factoid,0.999,0.0,False
+9175,tr-TR,calendar,calendar_query,takvimim son on dakikada güncellendi mi,qa_factoid,0.5698,0.0071,False
+9182,tr-TR,calendar,calendar_remove,anne babamı havaalanından alma planlarımı iptal et,qa_factoid,0.5184,0.165,False
+9187,tr-TR,calendar,calendar_set,toplantıya katılacak tüm müşterileri araştır,social_post,0.8339,0.0013,False
+9193,tr-TR,calendar,calendar_set,bu tarihi tekrarlayacak şekilde ayarla,calendar_remove,0.9287,0.0022,False
+9194,tr-TR,calendar,calendar_remove,lütfen bu etkinliği takvimimden kaldır,qa_factoid,1.0,0.0,False
+9197,tr-TR,calendar,calendar_query,bu hafta için planlanmış neyim var,email_sendemail,0.6322,0.0054,False
+9198,tr-TR,calendar,calendar_query,lütfen hatırlatıcılarımı kontrol et,email_sendemail,0.2875,0.0221,False
+9202,tr-TR,play,play_radio,benim radyo istasyonumu aç,play_radio,0.9991,0.9991,True
+9204,tr-TR,play,play_radio,radyo best fm,recommendation_events,0.4937,0.283,False
+9212,tr-TR,play,play_radio,birileri radyo açsın,play_radio,1.0,1.0,True
+9216,tr-TR,play,play_radio,benim istasyonumu aç,qa_factoid,0.9404,0.0007,False
+9225,tr-TR,play,play_radio,radyo açabilir misin lütfen,play_radio,1.0,1.0,True
+9233,tr-TR,play,play_radio,pandora'yı aç,qa_factoid,0.9801,0.0004,False
+9236,tr-TR,play,play_radio,yüz altı nokta dokuz kanal ına git,transport_query,0.8929,0.0034,False
+9237,tr-TR,play,play_radio,radyoyu aç ve yüz altı nokta dokuz kanalını çal,play_radio,1.0,1.0,True
+9250,tr-TR,play,play_radio,radyo dinlemek istiyorum,play_radio,0.9998,0.9998,True
+9254,tr-TR,play,play_radio,lütfen number one f. m.,qa_factoid,0.9992,0.0,False
+9263,tr-TR,play,play_radio,radyo uygulamalarını aç,play_radio,0.9992,0.9992,True
+9269,tr-TR,play,play_radio,sekiz yüz doksan yedi f. m. aç,qa_factoid,0.8139,0.0036,False
+9270,tr-TR,play,play_radio,dokuz yüz otuz yedi f.m. çal,qa_factoid,0.5055,0.0003,False
+9275,tr-TR,play,play_radio,radyoda sadece dokuz yüz doksan dokuz f.m. çalınacak,play_radio,1.0,1.0,True
+9284,tr-TR,play,play_radio,f. m. çal,qa_factoid,0.9989,0.0001,False
+9291,tr-TR,play,play_radio,çal,qa_factoid,0.9577,0.0006,False
+9301,tr-TR,play,play_radio,trt fm aç,iot_hue_lightoff,0.9979,0.0001,False
+9303,tr-TR,play,play_radio,eskiler istasyonu nu oynat,play_radio,0.7377,0.7377,True
+9305,tr-TR,play,play_radio,radyo d çal,play_radio,0.9968,0.9968,True
+9316,tr-TR,play,play_radio,benim için kiss f. m. çal,calendar_remove,0.5386,0.0063,False
+9317,tr-TR,play,play_radio,şimdi radyoyu başlat,play_radio,1.0,1.0,True
+9321,tr-TR,play,play_radio,şimdi radyo aç,play_radio,0.9997,0.9997,True
+9323,tr-TR,play,play_radio,pandora başlat,qa_factoid,1.0,0.0,False
+9326,tr-TR,play,play_radio,lütfen şimdi radyo d'yi oynat,play_radio,1.0,1.0,True
+9327,tr-TR,play,play_radio,hemen şimdi radyoda bir am frekansını tara lütfen,play_radio,1.0,1.0,True
+9330,tr-TR,play,play_radio,çal,qa_factoid,0.9577,0.0006,False
+9341,tr-TR,play,play_radio,alexa radyo istasyonunu değiştir,play_radio,0.9999,0.9999,True
+9352,tr-TR,play,play_radio,radyo çal lütfen,play_radio,1.0,1.0,True
+9353,tr-TR,play,play_radio,biraz müzik başlat radyo çal,play_music,0.9997,0.0003,False
+9358,tr-TR,play,play_radio,sekiz yüz seksen dokuz radyo kanalını başlat,play_radio,1.0,1.0,True
+9361,tr-TR,play,play_radio,radyo dinle,play_radio,0.9757,0.9757,True
+9362,tr-TR,play,play_radio,radyo kanalları,play_radio,0.9854,0.9854,True
+9363,tr-TR,play,play_radio,radyoda hitleri çalalım,play_radio,1.0,1.0,True
+9364,tr-TR,play,play_radio,müzik hitler çalalım,play_music,1.0,0.0,False
+9380,tr-TR,play,play_radio,radyo number one 'a gitmek istiyorum,play_radio,1.0,1.0,True
+9384,tr-TR,play,play_radio,trt radyoyu aç,play_radio,0.9865,0.9865,True
+9394,tr-TR,play,play_radio,hey olly radyoyu başlat,play_radio,1.0,1.0,True
+9402,tr-TR,play,play_radio,number one turk radyo istasyonunu aç,play_radio,0.9453,0.9453,True
+9406,tr-TR,play,play_radio,benim power turk radyo kanalımı başlat,play_radio,1.0,1.0,True
+9408,tr-TR,play,play_radio,radyo çalmaya başla,play_radio,1.0,1.0,True
+9426,tr-TR,play,play_radio,r'n b. çalan istasyon dinlemek istiyorum,qa_factoid,0.9469,0.0014,False
+9438,tr-TR,play,play_radio,bana radyoda bir rap parça çalabilir misin,play_music,0.5872,0.4125,False
+9457,tr-TR,play,play_music,let it go şarkısını çal,play_music,1.0,1.0,True
+9460,tr-TR,play,play_music,doksanlardan hip hop çal,play_music,1.0,1.0,True
+9471,tr-TR,play,play_radio,amerikan folk müziği müzik istasyonu aç,play_music,0.9983,0.0,False
+9494,tr-TR,play,play_radio,lütfen pop şarkılar çalan bir f. m. kanalı çalabilir misin,play_music,0.9999,0.0,False
+9506,tr-TR,play,play_radio,olly radyo d dinleyelim,play_radio,1.0,1.0,True
+9507,tr-TR,play,play_radio,lütfen şu anda teoman çalan bir radyo istasyonu bul,play_radio,0.9967,0.9967,True
+9519,tr-TR,play,play_radio,herhangi bir pop f.m kanalı çal,play_podcasts,0.6387,0.0551,False
+9520,tr-TR,play,play_radio,radyo yayını yapan son doktoru çal,qa_factoid,0.575,0.4239,False
+9524,tr-TR,play,play_radio,fularsız entellik programına bağlan,iot_hue_lightoff,0.7129,0.047,False
+9528,tr-TR,play,play_radio,radyo viva'yı aç ve hoparlörlerimden çal,play_radio,1.0,1.0,True
+9541,tr-TR,play,play_radio,radyoda tatlı şarkıyı çal,play_radio,0.9956,0.9956,True
+9542,tr-TR,play,play_radio,radyoda en son haber programını dinleyeyim,play_radio,0.9999,0.9999,True
+9545,tr-TR,play,play_radio,haber galeri programını,cooking_recipe,0.9319,0.0051,False
+9554,tr-TR,play,play_radio,power fm de romantik bir müzik çal,play_music,0.9996,0.0,False
+9561,tr-TR,play,play_radio,radyoda power fm'i çal,play_radio,1.0,1.0,True
+9562,tr-TR,play,play_radio,bu programı benim için çalabilir misin,cooking_recipe,0.9366,0.0034,False
+9565,tr-TR,play,play_radio,kesintisiz şarkılarla bir radyo çal,play_music,0.8305,0.1685,False
+9568,tr-TR,play,play_radio,sıla 'dan canlı konser serileri aç,play_podcasts,0.9135,0.0003,False
+9569,tr-TR,play,play_radio,ok google yüz altı nokta yedi 'yi aç,social_post,0.5242,0.0018,False
+9577,tr-TR,play,play_radio,kanalı trt fm olarak değiştir,qa_factoid,0.6015,0.0206,False
+9591,tr-TR,play,play_radio,doksan bir nokta üç f.m. de bhuli bisri yaadien programını aç,iot_hue_lightoff,0.9998,0.0,False
+9592,tr-TR,play,play_podcasts,erkek sorunları ele alan podcastler ara,play_podcasts,0.9181,0.9181,True
+9594,tr-TR,play,play_radio,doksan dokuz nokta dört f. m. şarkılar,play_music,0.7583,0.0056,False
+9601,tr-TR,play,play_radio,ülke radyosu 'nu aç,play_radio,0.9999,0.9999,True
+9617,tr-TR,play,play_radio,bana sabahları yayınlanan ekonomi ekoloji şovları çal,play_podcasts,0.958,0.0009,False
+9619,tr-TR,play,play_radio,araba radyosunda radyo dumanı çal,play_radio,0.9981,0.9981,True
+9620,tr-TR,play,play_radio,yatak odasındaki radyoda balkonumdan yıldızlar 'ı dinleyebilir miyim,play_radio,1.0,1.0,True
+9629,tr-TR,play,play_radio,radyo dinlemem için bana yardımcı olabilir misin lütfen,play_radio,0.9979,0.9979,True
+9630,tr-TR,play,play_radio,benim için ntv radyo'yu aç,play_radio,1.0,1.0,True
+9632,tr-TR,play,play_radio,radyo lütfen,play_radio,0.9954,0.9954,True
+9637,tr-TR,play,play_radio,joyturk radyoda çalma listemi başlat,play_radio,0.9995,0.9995,True
+9640,tr-TR,play,play_radio,spotify ve egzersiz aç,qa_factoid,0.9881,0.0003,False
+9651,tr-TR,play,play_radio,benim p. s. dört üzerinde netflix aç,qa_factoid,0.4149,0.0111,False
+9656,tr-TR,play,play_music,bana hoparlöründen hareketli bir şarkı çal,play_music,0.9998,0.9998,True
+9706,tr-TR,play,play_music,sen ağlama 'yı çal,qa_factoid,0.9924,0.001,False
+9707,tr-TR,play,play_music,medyayı aç sen ağlama'yı çal,qa_factoid,0.7806,0.0107,False
+9738,tr-TR,play,play_music,lütfen benim için klasik müzik çalar mısın,play_music,1.0,1.0,True
+9793,tr-TR,play,play_music,romantik şarkılar çal,play_music,1.0,1.0,True
+9795,tr-TR,play,play_music,kanunlar gibi yi kaldığı yerden devam ettir,social_post,0.2493,0.0378,False
+9912,tr-TR,cooking,cooking_recipe,olly yumurtaları ne kadar süre haşlamam gerekiyor,cooking_recipe,0.9973,0.9973,True
+9918,tr-TR,cooking,cooking_recipe,nasıl pizza yaparım,cooking_recipe,1.0,1.0,True
+9923,tr-TR,cooking,cooking_recipe,bir yumurtayı ne kadar kaynatmam lazım,cooking_recipe,0.9998,0.9998,True
+9924,tr-TR,cooking,cooking_recipe,bana tarifini söyle,qa_factoid,0.9998,0.0,False
+9930,tr-TR,cooking,cooking_recipe,yumurtayı ne kadar süre haşlamalıyım,iot_hue_lightoff,0.4608,0.0182,False
+9931,tr-TR,cooking,cooking_recipe,yumurtayı ne kadar süre haşlamam lazım,datetime_query,0.4038,0.0117,False
+9940,tr-TR,cooking,cooking_recipe,bana çikolatalı pasta tarifi bul,cooking_recipe,1.0,1.0,True
+9941,tr-TR,cooking,cooking_recipe,nasıl tereyağlı tavuk pişireyim,cooking_recipe,1.0,1.0,True
+9942,tr-TR,cooking,cooking_recipe,yaş pastaya konulacakların tümü neler,lists_query,0.5963,0.3694,False
+9943,tr-TR,cooking,cooking_recipe,sebzeli lazanya ne kadar sürede yapılır,cooking_recipe,0.9985,0.9985,True
+9952,tr-TR,cooking,cooking_recipe,bana pişirme dersleri ver,cooking_recipe,0.9999,0.9999,True
+9955,tr-TR,cooking,cooking_recipe,bana bir kızarmış tavuk hazırlama videosu göster,cooking_recipe,1.0,1.0,True
+9956,tr-TR,cooking,cooking_recipe,tereyağı ne ile değiştirilebilir,qa_factoid,0.868,0.0053,False
+9961,tr-TR,cooking,cooking_recipe,patates kızartmak için en iyi fırın sıcaklığı ne,cooking_recipe,0.9999,0.9999,True
+9962,tr-TR,cooking,cooking_recipe,makarna pişirmenin en iyi yolu ne,cooking_recipe,1.0,1.0,True
+9964,tr-TR,cooking,cooking_recipe,yemek süreci hakkında bilgi,cooking_recipe,0.9733,0.9733,True
+9966,tr-TR,cooking,cooking_recipe,makarna pişirmenin en kolay yolu nedir,cooking_recipe,1.0,1.0,True
+9969,tr-TR,cooking,cooking_recipe,safran yerine ne kullanılabilir,qa_factoid,0.8718,0.0064,False
+9971,tr-TR,cooking,cooking_recipe,ısıyı ne daha iyi iletir bakır tabanlı tencere veya dökme demir,cooking_recipe,0.8416,0.8416,True
+9976,tr-TR,cooking,cooking_recipe,hey robot bana yahni için malzeme listesi ver,qa_factoid,0.8581,0.003,False
+9977,tr-TR,cooking,cooking_recipe,lütfen internet araması yapıp italyan yemekleri pişirmek için uygun youtube videoları göster,cooking_recipe,0.9785,0.9785,True
+9979,tr-TR,cooking,cooking_recipe,bana biraz yulaf pişir,cooking_recipe,0.9999,0.9999,True
+9980,tr-TR,cooking,cooking_recipe,bugün menü nedir ona haşlanmış sebzeler de ekle,cooking_recipe,0.9959,0.9959,True
+9986,tr-TR,cooking,cooking_recipe,kaynatmak,qa_factoid,0.956,0.0068,False
+9994,tr-TR,cooking,cooking_recipe,bulgur pilavı tarifi verir misin,cooking_recipe,1.0,1.0,True
+10016,tr-TR,cooking,cooking_recipe,şükran günü hindisi tarifini beş cümleyle versen ne derdin,qa_factoid,0.9411,0.0031,False
+10019,tr-TR,cooking,cooking_recipe,bana on iki adet yulaf ezmeli kurabiyeyi nasıl pişireceğimi söyler misin,cooking_recipe,1.0,1.0,True
+10023,tr-TR,cooking,cooking_recipe,kuzu külbastı yapmak için neye ihtiyacım var,cooking_recipe,0.9998,0.9998,True
+10027,tr-TR,cooking,cooking_recipe,yemek yapmak için talimatlar,cooking_recipe,1.0,1.0,True
+10031,tr-TR,cooking,cooking_recipe,benim alışveriş listemdeki malzemelerden bir tarif istiyorum,cooking_recipe,0.9825,0.9825,True
+10038,tr-TR,cooking,cooking_recipe,yemek için iyi bir fikre ihtiyacım var,qa_factoid,0.6745,0.0306,False
+10045,tr-TR,cooking,cooking_recipe,bana ev yapımı terbiyeli erişteli tavuk çorbası tarifi verebilir misin,cooking_recipe,1.0,1.0,True
+10048,tr-TR,cooking,cooking_recipe,nasıl hindi pişiririm,cooking_recipe,0.9998,0.9998,True
+10049,tr-TR,cooking,cooking_recipe,bana balık ekmek nasıl yapılır anlat,cooking_recipe,0.9999,0.9999,True
+10053,tr-TR,cooking,cooking_recipe,nasıl pizza yapabilirim,cooking_recipe,1.0,1.0,True
+10055,tr-TR,cooking,cooking_recipe,kızarmış tavuk tarifi ne,cooking_recipe,1.0,1.0,True
+10061,tr-TR,cooking,cooking_recipe,akşam yemeği için ne yapayım,cooking_recipe,0.9999,0.9999,True
+10072,tr-TR,cooking,cooking_recipe,fırında tavuk için pişirme süreleri,cooking_recipe,1.0,1.0,True
+10076,tr-TR,cooking,cooking_recipe,karbonat yerine kabartma tozu kullanılabilir mi,qa_factoid,1.0,0.0,False
+10077,tr-TR,cooking,cooking_recipe,bu akşam için bir yemek tarifi bul,cooking_recipe,1.0,1.0,True
+10078,tr-TR,cooking,cooking_recipe,akşam yemeği için ne pişirmeliyim,cooking_recipe,1.0,1.0,True
+10080,tr-TR,cooking,cooking_recipe,birlikte köfte pişirelim,cooking_recipe,0.9999,0.9999,True
+10081,tr-TR,cooking,cooking_recipe,bana köfte pişirmeyi anlat,cooking_recipe,0.9999,0.9999,True
+10090,tr-TR,cooking,cooking_recipe,ton balığı tarifi alabilir miyim,cooking_recipe,0.8849,0.8849,True
+10093,tr-TR,cooking,cooking_recipe,lazanya nasıl yapılır,qa_factoid,0.6672,0.3259,False
+10097,tr-TR,cooking,cooking_recipe,çizburger rica ederim,cooking_recipe,0.953,0.953,True
+10099,tr-TR,cooking,cooking_recipe,risotto nasıl yapılır biliyor musun,cooking_recipe,0.9999,0.9999,True
+10100,tr-TR,cooking,cooking_recipe,pilav tarifi biliyor musun,cooking_recipe,0.9863,0.9863,True
+10105,tr-TR,cooking,cooking_recipe,orta az pişmiş olması için bifteği ne kadar pişirmeliyim,cooking_recipe,1.0,1.0,True
+10107,tr-TR,cooking,cooking_recipe,bir pilav tarifine ihtiyacım var,cooking_recipe,0.9997,0.9997,True
+10119,tr-TR,cooking,cooking_recipe,altı kiloluk bir hindiyi ne kadar süre pişirirsin,cooking_recipe,0.9999,0.9999,True
+10125,tr-TR,cooking,cooking_recipe,fırınlama ve kızartma arasındaki fark nedir,cooking_recipe,0.5934,0.5934,True
+10132,tr-TR,cooking,cooking_recipe,biftek orta kıvamda olsun diye ne kadar süre pişirmeliyim,cooking_recipe,1.0,1.0,True
+10150,tr-TR,cooking,cooking_recipe,dürüm nasıl yapılır,cooking_recipe,0.9765,0.9765,True
+10156,tr-TR,cooking,cooking_recipe,biber dolması nasıl yapılır öğrenmem lazım,cooking_recipe,0.9998,0.9998,True
+10164,tr-TR,cooking,cooking_recipe,makarnayı ne kadar süre pişiriyorum,cooking_recipe,0.9999,0.9999,True
+10166,tr-TR,cooking,cooking_recipe,elmalı turta tarifi ara,cooking_recipe,0.9998,0.9998,True
+10171,tr-TR,cooking,cooking_recipe,balık çorbasının tarifi nedir,cooking_recipe,1.0,1.0,True
+10177,tr-TR,cooking,cooking_recipe,peynirli makarna nasıl yapılır,cooking_recipe,1.0,1.0,True
+10182,tr-TR,cooking,cooking_recipe,omlet için kaç yumurta lazım,cooking_recipe,0.9407,0.9407,True
+10197,tr-TR,cooking,cooking_recipe,bana en iyi spagetti tarifini göster,cooking_recipe,0.9999,0.9999,True
+10206,tr-TR,cooking,cooking_recipe,pilav nasıl hazırlanır,cooking_recipe,0.9998,0.9998,True
+10213,tr-TR,cooking,cooking_recipe,meşhur pilav tarifleri listesi,cooking_recipe,1.0,1.0,True
+10214,tr-TR,cooking,cooking_recipe,bir saatte pişebilecek yemek tarifleri,cooking_recipe,1.0,1.0,True
+10216,tr-TR,cooking,cooking_recipe,internette kek kalıbı ara,cooking_recipe,0.7935,0.7935,True
+10217,tr-TR,cooking,cooking_recipe,nefisyemektarifleri uygulaması içinde acuka tarifini bul,qa_factoid,0.773,0.0037,False
+10220,tr-TR,cooking,cooking_recipe,büyük bir kek pişirmek için hangi malzemelere ihtiyacım var,cooking_recipe,0.9996,0.9996,True
+10224,tr-TR,cooking,cooking_recipe,lezzetli olmalı,cooking_recipe,0.9915,0.9915,True
+10226,tr-TR,cooking,cooking_recipe,makarna hazırlama tarifi verir misin,cooking_recipe,1.0,1.0,True
+10426,tr-TR,lists,lists_query,günlükte başka ne eksik,qa_factoid,0.313,0.1286,False
+10427,tr-TR,lists,lists_remove,lütfen alışveriş listemi temizle,lists_remove,0.9999,0.9999,True
+10430,tr-TR,lists,lists_remove,listedeki ilk öğeyi sil,lists_remove,1.0,1.0,True
+10433,tr-TR,lists,lists_remove,benim görev listemi kaldır,lists_remove,0.9997,0.9997,True
+10440,tr-TR,lists,lists_query,listemdeki herhangi bir özel etkinlik,qa_factoid,0.9993,0.0,False
+10442,tr-TR,lists,lists_remove,etkinlikleri listemden kaldır,lists_remove,0.6589,0.6589,True
+10444,tr-TR,lists,lists_remove,öğeyi sil,calendar_remove,0.4205,0.1037,False
+10451,tr-TR,lists,lists_query,bugün ne yapacağım,cooking_recipe,0.4068,0.0191,False
+10455,tr-TR,lists,lists_query,yapılacaklar listemde ne var,lists_remove,0.3919,0.3645,False
+10462,tr-TR,lists,lists_remove,bir listeden kurtul,lists_remove,1.0,1.0,True
+10493,tr-TR,lists,lists_query,yapılacaklar listemde ne var,lists_remove,0.3919,0.3645,False
+10494,tr-TR,lists,lists_remove,kalemi kırtasiyeden çıkar,qa_factoid,0.9992,0.0,False
+10497,tr-TR,qa,qa_factoid,antalyadaki beş yıldızlı otellerin bir listesini alabilir miyim,lists_remove,0.7844,0.0007,False
+10508,tr-TR,lists,lists_remove,liste öğesini kaldır,lists_remove,1.0,1.0,True
+10512,tr-TR,lists,lists_query,sırada bekleyen her şeyi listele,lists_remove,0.9998,0.0,False
+10523,tr-TR,lists,lists_remove,eski ingilizce şarkılar listemi çalma listesinden sil,lists_remove,0.9998,0.9998,True
+10525,tr-TR,lists,lists_remove,araba ödememi takvimimden kaldır,qa_factoid,0.9984,0.0003,False
+10527,tr-TR,lists,lists_remove,listeyi kaldır,lists_remove,1.0,1.0,True
+10534,tr-TR,lists,lists_query,bugün için yapılacaklar listesi nasıl,cooking_recipe,0.7924,0.0577,False
+10538,tr-TR,lists,lists_query,lütfen alışveriş listemi tekrar et,lists_remove,0.9998,0.0,False
+10565,tr-TR,lists,lists_remove,tüm listeleri sil,lists_remove,1.0,1.0,True
+10568,tr-TR,lists,lists_remove,eski müzik listesini kaldır,lists_remove,0.9971,0.9971,True
+10570,tr-TR,lists,lists_query,yapılacaklar listemi kontrol et,qa_factoid,0.6002,0.0037,False
+10571,tr-TR,lists,lists_query,android,iot_hue_lightoff,0.2324,0.0685,False
+10577,tr-TR,lists,lists_query,bana tüm listelerimi ver,lists_query,0.9838,0.9838,True
+10579,tr-TR,lists,lists_remove,konum listemi sıfırla,lists_remove,0.9999,0.9999,True
+10588,tr-TR,lists,lists_query,bana listenin içeriğini göster,play_podcasts,0.9402,0.0002,False
+10590,tr-TR,lists,lists_remove,ikinci satırı listeden kaldır,lists_remove,1.0,1.0,True
+10655,tr-TR,lists,lists_remove,parti zamanı adlı listeyi kaldır,lists_remove,1.0,1.0,True
+10667,tr-TR,lists,lists_query,planlar listesini yenile,lists_remove,0.9998,0.0,False
+10673,tr-TR,lists,lists_remove,lütfen aşağıdaki listeyi kaldır,lists_remove,1.0,1.0,True
+10674,tr-TR,lists,lists_remove,mevcut listeyi çöpe at,lists_remove,1.0,1.0,True
+10679,tr-TR,lists,lists_query,bugün yapılacaklar listemde ne var,lists_remove,0.8392,0.0408,False
+10684,tr-TR,lists,lists_query,ben hangi listeleri sorguladım,lists_query,1.0,1.0,True
+10687,tr-TR,lists,lists_remove,gösteri olayı varsa onu kaldırın,email_sendemail,0.9981,0.0001,False
+10696,tr-TR,lists,lists_remove,değiştir,qa_factoid,0.9954,0.0001,False
+10699,tr-TR,lists,lists_query,listedeki öğeler hakkında beni bilgilendir,lists_query,0.9579,0.9579,True
+10718,tr-TR,lists,lists_remove,bu öğeyi listeden kaldırabilir misin,lists_remove,1.0,1.0,True
+10731,tr-TR,lists,lists_query,benim listemde ne olduğunu oku,qa_definition,0.1803,0.0971,False
+10743,tr-TR,lists,lists_remove,o öğeyi kaldır,iot_hue_lightoff,0.4992,0.1888,False
+10753,tr-TR,lists,lists_query,migros listesine ne koydum,lists_remove,0.9995,0.0,False
+10755,tr-TR,lists,lists_remove,yapılacaklar listemi at lütfen,lists_remove,0.9936,0.9936,True
+10756,tr-TR,lists,lists_remove,alışveriş listesini temizle,lists_remove,0.9999,0.9999,True
+10757,tr-TR,lists,lists_query,alışveriş listemde hangi ürünler var,lists_remove,0.8018,0.0723,False
+10759,tr-TR,lists,lists_query,alışveriş listemi oku,recommendation_events,0.6764,0.0208,False
+10760,tr-TR,lists,lists_query,iki gün önce yazdığım listeyi söyle,lists_remove,0.9543,0.0451,False
+10770,tr-TR,lists,lists_remove,alışveriş listemden mısır gevreğini çıkar,lists_remove,0.8386,0.8386,True
+10772,tr-TR,calendar,calendar_remove,bugünün planlarından dişçi randevusunu kaldır,qa_factoid,0.3541,0.2722,False
+10776,tr-TR,lists,lists_query,hazır bir market listem var mı,recommendation_events,0.9808,0.0057,False
+10786,tr-TR,lists,lists_remove,bugün için etkinlikler listemi temizle,lists_remove,0.9999,0.9999,True
+10790,tr-TR,lists,lists_remove,öğeyi listeden sil,lists_remove,0.995,0.995,True
+10804,tr-TR,lists,lists_query,market listemi oku,lists_remove,0.6042,0.348,False
+10805,tr-TR,lists,lists_query,lütfen bana sahip olduğum listeyi göster,lists_remove,0.5218,0.4766,False
+10808,tr-TR,lists,lists_remove,listelenen son öğeyi sil,email_sendemail,1.0,0.0,False
+10824,tr-TR,lists,lists_remove,olly listeyi temizle,lists_remove,1.0,1.0,True
+10825,tr-TR,lists,lists_remove,listeyi temizle,lists_remove,1.0,1.0,True
+10827,tr-TR,lists,lists_remove,yiyecekler listesini sil,lists_remove,0.9998,0.9998,True
+10828,tr-TR,lists,lists_remove,hepsini sil,social_post,0.5951,0.0106,False
+10832,tr-TR,calendar,calendar_query,olly sonrası için ne planladım,iot_hue_lightoff,0.3676,0.0065,False
+10843,tr-TR,lists,lists_remove,sütü market listemden çıkar,lists_remove,0.9908,0.9908,True
+10846,tr-TR,lists,lists_remove,şu anda nintendo anahtarını satın almak için yeterli param yok lütfen amazon istek listemden kaldırır mısın,lists_remove,0.9777,0.9777,True
+10848,tr-TR,lists,lists_remove,bu listeyi diğerlerinden kaldır,lists_remove,1.0,1.0,True
+10851,tr-TR,lists,lists_query,benim mevcut listelerim neler,lists_query,0.9998,0.9998,True
+10853,tr-TR,lists,lists_remove,şunu oradan çıkar,calendar_remove,0.3103,0.2381,False
+10855,tr-TR,lists,lists_query,listemi kontrol etmem gerek,qa_factoid,0.5225,0.0029,False
+10868,tr-TR,lists,lists_query,olly listede başka herhangi bir şey kaldı mı,lists_remove,0.9999,0.0,False
+10887,tr-TR,lists,lists_remove,listemi sil,email_sendemail,0.9943,0.0001,False
+10895,tr-TR,lists,lists_remove,listemden öğeyi sil,email_sendemail,1.0,0.0,False
+10909,tr-TR,lists,lists_query,olly bana listelerimi oku,lists_remove,0.5945,0.3931,False
+10927,tr-TR,lists,lists_query,listemi duymama izin ver,qa_factoid,0.9708,0.0,False
+10931,tr-TR,lists,lists_query,çalma listemde ne var,qa_factoid,0.9998,0.0,False
+10936,tr-TR,lists,lists_remove,lütfen benim favori albümler listemi kaldır,lists_remove,1.0,1.0,True
+10954,tr-TR,lists,lists_query,kişilerde kaç tane listem var,lists_remove,0.9718,0.0217,False
+10956,tr-TR,lists,lists_query,kişilerimde hangi gruplar listeleniyor,lists_query,0.9965,0.9965,True
+10957,tr-TR,lists,lists_query,bana kaç tane listem olduğunu hatırlat,recommendation_events,0.4891,0.0093,False
+10960,tr-TR,lists,lists_remove,şunu listeden çıkar,lists_remove,1.0,1.0,True
+10970,tr-TR,lists,lists_remove,son cümleyi sil,email_sendemail,1.0,0.0,False
+10979,tr-TR,lists,lists_query,şu an listende ne var,email_sendemail,1.0,0.0,False
+10981,tr-TR,lists,lists_query,listeyi bana bildir,email_sendemail,0.9954,0.0044,False
+10985,tr-TR,lists,lists_remove,bu hafta yapılacakları sil,lists_remove,0.9988,0.9988,True
+10990,tr-TR,lists,lists_remove,yapılacaklar listemden mutfağı paspaslamayı çıkar,lists_remove,0.824,0.824,True
+10999,tr-TR,lists,lists_query,listeyi söyle,lists_query,0.9989,0.9989,True
+11023,tr-TR,lists,lists_remove,alışveriş listesini kaldır,lists_remove,0.9999,0.9999,True
+11024,tr-TR,lists,lists_remove,yapılacaklar listesini sil,lists_remove,0.9979,0.9979,True
+11053,tr-TR,lists,lists_remove,google listesinden kurtul,lists_remove,0.9968,0.9968,True
+11075,tr-TR,lists,lists_query,kaç listem var,lists_remove,0.8695,0.1091,False
+11081,tr-TR,lists,lists_query,defterimde hangi listeler var,lists_query,0.9794,0.9794,True
+11085,tr-TR,lists,lists_remove,sütü alışveriş listesinden çıkar,lists_remove,0.9989,0.9989,True
+11098,tr-TR,lists,lists_remove,bin dokuz yüz doksan vergi listesinden kurtul,lists_remove,1.0,1.0,True
+11107,tr-TR,lists,lists_query,benim şu an geçerli listem neler,lists_query,0.9584,0.9584,True
+11124,tr-TR,lists,lists_query,çalışma listemdeki öğeleri listele,lists_remove,0.8553,0.1332,False
+11125,tr-TR,lists,lists_query,bana satın alma siparişiyle ilgili ayrıntıları ver,email_sendemail,0.7741,0.0024,False
+11133,tr-TR,lists,lists_remove,geçen hafta oluşturduğum konuk listesini kaldır,lists_remove,1.0,1.0,True
+11154,tr-TR,lists,lists_query,son yapılacaklar listesini kontrol et,lists_remove,0.8366,0.1072,False
+11162,tr-TR,lists,lists_remove,elmaları listeden çıkarmak istiyorum,email_sendemail,0.9631,0.0369,False
+11164,tr-TR,lists,lists_remove,listeden kaldır,lists_remove,1.0,1.0,True
+11166,tr-TR,lists,lists_query,google keep,lists_remove,0.7546,0.0069,False
+11168,tr-TR,lists,lists_remove,listemi sil,email_sendemail,0.9943,0.0001,False
+11172,tr-TR,lists,lists_query,bana tüm mevcut listeleri ver,lists_query,0.7783,0.7783,True
+11174,tr-TR,lists,lists_query,bu cihazdaki tüm listeleri listele,lists_remove,0.9391,0.0597,False
+11180,tr-TR,calendar,calendar_query,parti planlamam,qa_factoid,0.9487,0.0012,False
+11186,tr-TR,lists,lists_query,giysiler listem var,email_sendemail,0.9948,0.0,False
+11189,tr-TR,lists,lists_query,listeyi bul,lists_remove,0.9389,0.0589,False
+11204,tr-TR,lists,lists_query,önemli ev bilgileri,lists_query,0.4073,0.4073,True
+11215,tr-TR,lists,lists_query,liste,lists_query,0.9979,0.9979,True
+11250,tr-TR,lists,lists_query,market listemi tekrar bana oku,lists_remove,0.9577,0.0278,False
+11257,tr-TR,play,play_podcasts,olly sonraki kaydı çal,qa_factoid,0.9975,0.0001,False
+11259,tr-TR,play,play_podcasts,sonraki podcaste atla,play_podcasts,0.9791,0.9791,True
+11261,tr-TR,play,play_podcasts,sıradaki,qa_factoid,0.9999,0.0,False
+11265,tr-TR,play,play_podcasts,bir sonrakini çal,qa_factoid,0.9943,0.0001,False
+11266,tr-TR,play,play_podcasts,benim kütüphanemden bir podcast çal,play_podcasts,1.0,1.0,True
+11267,tr-TR,play,play_podcasts,en son arabesk şampiyonlar ligi ile ilgili ilginç bir podcast bul,play_podcasts,1.0,1.0,True
+11270,tr-TR,play,play_podcasts,sonraki podcast ı çal,play_podcasts,1.0,1.0,True
+11272,tr-TR,play,play_podcasts,bir sonrakini çal,qa_factoid,0.9943,0.0001,False
+11279,tr-TR,play,play_podcasts,podcast a git ve rabarba dan sıradaki bölüm ü çal,play_podcasts,1.0,1.0,True
+11286,tr-TR,play,play_podcasts,isimsiz podcast ını çal,play_podcasts,1.0,1.0,True
+11296,tr-TR,play,play_podcasts,benim bütün podcast imi yükle,play_podcasts,0.9999,0.9999,True
+11302,tr-TR,play,play_podcasts,son liberteryen podcast ini aç,play_podcasts,0.9907,0.9907,True
+11303,tr-TR,play,play_podcasts,bir sonraki rabarba podcast ını çal,play_podcasts,1.0,1.0,True
+11306,tr-TR,play,play_podcasts,dün dinlediğim podcasti oynat,play_podcasts,0.9999,0.9999,True
+11318,tr-TR,play,play_podcasts,podcast te sıradaki bölümü çal,play_podcasts,0.9698,0.9698,True
+11322,tr-TR,play,play_podcasts,günün en iyi podcastleri hangileri,lists_query,0.6239,0.3342,False
+11328,tr-TR,play,play_podcasts,philadelphia eagles content için podcasti aç,play_podcasts,1.0,1.0,True
+11331,tr-TR,play,play_podcasts,bana podcastimdeki en iyi derecelendirme alan rock şarkıları göster,play_podcasts,0.9995,0.9995,True
+11335,tr-TR,play,play_music,tüm slow müzik şarkılarını çal ve karıştır,play_music,0.9999,0.9999,True
+11339,tr-TR,play,play_podcasts,benim en çok izlenen podcast ımı oynat,play_podcasts,1.0,1.0,True
+11340,tr-TR,play,play_podcasts,mynet in yeni podcast i var mı,play_podcasts,0.9023,0.9023,True
+11341,tr-TR,play,play_podcasts,en son disney podcast'ini bul,play_podcasts,0.9995,0.9995,True
+11343,tr-TR,play,play_podcasts,murat meriç'in bir sonraki bölümüne geç,calendar_remove,0.936,0.0025,False
+11345,tr-TR,play,play_podcasts,podcastte sonraki bölümü aç,play_podcasts,0.9996,0.9996,True
+11349,tr-TR,play,play_podcasts,olly geçen gece başladığım podcast ı başlat,play_podcasts,1.0,1.0,True
+11353,tr-TR,play,play_podcasts,bana podcastleri göster,play_podcasts,1.0,1.0,True
+11361,tr-TR,play,play_podcasts,ebru gündeş podcasti onu çal,play_podcasts,1.0,1.0,True
+11366,tr-TR,play,play_podcasts,podcastte önceki bölüme geri dön,play_podcasts,0.9999,0.9999,True
+11368,tr-TR,play,play_podcasts,bana ahmet in podcast ını çal,play_podcasts,0.9904,0.9904,True
+11376,tr-TR,play,play_podcasts,podcast dinlemek istiyorum,play_podcasts,1.0,1.0,True
+11384,tr-TR,play,play_podcasts,lütfen internetteki podcast dosyamı indirip bir kez oynatabilir misin,play_podcasts,0.9999,0.9999,True
+11409,tr-TR,play,play_podcasts,sıradaki podcast bölümüne atla,play_podcasts,1.0,1.0,True
+11417,tr-TR,play,play_podcasts,sıradaki bölüm ü başlat,play_radio,0.6319,0.005,False
+11418,tr-TR,play,play_podcasts,mesut sürenin en son podcast ını çal,play_podcasts,0.9999,0.9999,True
+11420,tr-TR,play,play_podcasts,benim en yeni podcast ımı çalmaya başla,play_podcasts,1.0,1.0,True
+11423,tr-TR,play,play_podcasts,otuz saniye geri git,iot_hue_lightoff,0.9032,0.0001,False
+11424,tr-TR,play,play_podcasts,enes batur,qa_factoid,0.9996,0.0,False
+11426,tr-TR,lists,lists_query,en çok görüntülenen liste,lists_query,0.7953,0.7953,True
+11427,tr-TR,play,play_podcasts,rabarba başlat,qa_factoid,0.7931,0.0004,False
+11437,tr-TR,play,play_podcasts,lütfen benim için podcast çal,play_podcasts,1.0,1.0,True
+11438,tr-TR,play,play_podcasts,podcastin bir sonraki bölümüne git lütfen,play_podcasts,1.0,1.0,True
+11442,tr-TR,play,play_podcasts,lütfen en son mesut süre podcast ını çal,play_podcasts,0.9998,0.9998,True
+11451,tr-TR,play,play_podcasts,en son selda podcast ını dinlemek istiyorum,play_podcasts,1.0,1.0,True
+11453,tr-TR,play,play_podcasts,n. f. l. üzerinden podcastleri başlat,play_podcasts,1.0,1.0,True
+11455,tr-TR,play,play_podcasts,bir sonraki bölüme git,lists_remove,0.3821,0.0203,False
+11458,tr-TR,play,play_podcasts,bir sonraki podcast bölümüne devam et,play_podcasts,1.0,1.0,True
+11459,tr-TR,play,play_podcasts,bu podcast ta son bölüme geri git,play_podcasts,0.8745,0.8745,True
+11460,tr-TR,play,play_podcasts,spor podcasti dinlemek istiyorum,play_podcasts,0.9987,0.9987,True
+11467,tr-TR,play,play_podcasts,yarım elma nın en son podcastini çal,play_podcasts,1.0,1.0,True
+11470,tr-TR,play,play_podcasts,benim en sevdiğim podcasti çal lütfen,play_podcasts,0.7811,0.7811,True
+11474,tr-TR,play,play_podcasts,podcast serisi ne devam et,play_podcasts,0.9974,0.9974,True
+11476,tr-TR,play,play_podcasts,önceki podcasti çal,play_podcasts,1.0,1.0,True
+11483,tr-TR,play,play_podcasts,ringcast oynamaya başla,play_music,0.9495,0.0027,False
+11490,tr-TR,play,play_podcasts,podcastteki sonraki programı çal,cooking_recipe,0.4432,0.1679,False
+11502,tr-TR,play,play_podcasts,sonraki düğmesi,qa_factoid,0.2364,0.0306,False
+11505,tr-TR,play,play_podcasts,benim en son çaldığım podcastimi yeniden oynat,play_podcasts,1.0,1.0,True
+11514,tr-TR,play,play_podcasts,olly podcastin tekrarını dinleyebilir miyiz,play_podcasts,1.0,1.0,True
+11515,tr-TR,play,play_podcasts,hadi podcast te onuncu yıl marşı nı dinleyelim,play_podcasts,1.0,1.0,True
+11525,tr-TR,play,play_podcasts,bir sonraki uygun podcasti görmek istiyorum,play_podcasts,0.9986,0.9986,True
+11529,tr-TR,play,play_podcasts,hey listeden benim favori podcastimi çal,play_podcasts,1.0,1.0,True
+11536,tr-TR,play,play_podcasts,çalma listesine favoriler podcasti ekle ve başla,play_podcasts,0.9959,0.9959,True
+11539,tr-TR,play,play_podcasts,bir sonraki podcasti başlat,play_podcasts,0.9983,0.9983,True
+11546,tr-TR,play,play_podcasts,geçen hafta dan tüm felsefe kanalı nı çaldır,iot_hue_lightoff,0.8543,0.0034,False
+11554,tr-TR,play,play_podcasts,podcast çalmanı istiyorum,play_podcasts,1.0,1.0,True
+11563,tr-TR,recommendation,recommendation_events,edirnede ne yapabilirim,qa_factoid,0.9926,0.0,False
+11570,tr-TR,recommendation,recommendation_events,şehrimde devam eden bir şeyler var mı,weather_query,0.5558,0.0136,False
+11582,tr-TR,recommendation,recommendation_events,eskişehir civarında caz gösterimi yapan hiçbir yer var mı,qa_factoid,0.7002,0.0159,False
+11585,tr-TR,recommendation,recommendation_events,istanbuldaki kültürel etkinlikler,news_query,0.373,0.0611,False
+11598,tr-TR,recommendation,recommendation_events,memleketimde olan köpek gösterisi etkinliklerini bana bildir lütfen,play_podcasts,0.3848,0.0442,False
+11600,tr-TR,recommendation,recommendation_events,mersinde sinemada bu gece hangi filmi izleyebilirim,play_music,0.2879,0.0391,False
+11610,tr-TR,recommendation,recommendation_events,bana şu anda şehirde devam eden sirk gösterilerinin listesini ver,lists_query,0.4177,0.0214,False
+11612,tr-TR,recommendation,recommendation_events,afyon 'da hangi silah gösterisi var,play_music,0.1421,0.0382,False
+11616,tr-TR,recommendation,recommendation_events,bu akşam şehir merkezinde bir etkinlik var mı,recommendation_events,0.284,0.284,True
+11643,tr-TR,recommendation,recommendation_events,yakında gerçekleşecek etkinlikler hangileri,lists_query,0.9674,0.0036,False
+11644,tr-TR,recommendation,recommendation_events,antalya 'da bana etkinlikler göster,qa_factoid,0.998,0.0004,False
+11650,tr-TR,recommendation,recommendation_events,hem genç sürücüler ve hem de geçici sürücüler diğer sürücülerden daha çok kaza yaparlar çünkü henüz güvenli sürüş için ihtiyaçları olan yeterli deneyim birikimine sahip değillerdir araştırmalar göstermiştir ki sürücü deneyimi trafik kazalarını azaltmada en önemli faktördür ve genç sürücüler için en güvenli zaman öğrenme sırasında gözetim altında oldukları zamandır,lists_query,0.0653,0.0481,False
+11681,tr-TR,recommendation,recommendation_events,lütfen bana yakında olan maratonları göster,qa_factoid,0.7838,0.0068,False
+11685,tr-TR,recommendation,recommendation_events,bölgemizde gerçekleşen etkinlikler hakkında beni bilgilendirirsen sevinirim,recommendation_events,0.1962,0.1962,True
+11705,tr-TR,recommendation,recommendation_events,istanbul boğazı'nda bana resim sergisi göster,social_post,0.9847,0.0007,False
+11720,tr-TR,recommendation,recommendation_events,yüzme,play_radio,0.7356,0.0012,False
+11767,tr-TR,recommendation,recommendation_events,olly bu hafta sonu sakaryada hangi etkinlikler yapılıyor,social_post,0.2058,0.1085,False
+11770,tr-TR,recommendation,recommendation_events,bu hafta sonu muş'ta etkinlik var mı,qa_factoid,0.9938,0.0003,False
+11782,tr-TR,recommendation,recommendation_events,bu haftasonu yakınlarda herhangi bir özel etkinlik var mı,social_post,0.6815,0.0506,False
+11798,tr-TR,recommendation,recommendation_events,kütüphanedeki bir sonraki etkinlik ne,qa_factoid,0.9701,0.0017,False
+11827,tr-TR,recommendation,recommendation_events,bu gece nereye gidebilirim,weather_query,0.9869,0.0004,False
+11839,tr-TR,recommendation,recommendation_events,çevremde neler oluyor,news_query,0.9733,0.002,False
+11841,tr-TR,recommendation,recommendation_events,bu bölgede herhangi bir el sanatları fuarı var mı,social_post,0.6157,0.1869,False
+11844,tr-TR,recommendation,recommendation_events,körfez bölgesinde ilginç bir şeyler oluyor mu,social_post,0.673,0.0133,False
+11845,tr-TR,recommendation,recommendation_events,olly karataşta olan heyecanlı etkinlikleri bana bildir,social_post,0.999,0.0002,False
+11860,tr-TR,recommendation,recommendation_events,bana yerel etkinlikleri söyle,qa_factoid,0.9802,0.0004,False
+11867,tr-TR,recommendation,recommendation_events,mersin 'de yarın bir spor etkinliği var mı,qa_factoid,0.3094,0.0408,False
+11875,tr-TR,recommendation,recommendation_events,civarda yemek festivali var mı,qa_factoid,0.9431,0.0035,False
+11904,tr-TR,recommendation,recommendation_events,bu haftasonu burada neler oluyor,news_query,0.9931,0.0006,False
+11905,tr-TR,recommendation,recommendation_events,olly bana bu hafta sonu olduğum yerdeki aktivitelerden bahset,social_post,0.8904,0.0027,False
+11911,tr-TR,recommendation,recommendation_events,bu hafta sonu bu bölgede yapılan herhangi güzel bir şey,cooking_recipe,0.5305,0.0604,False
+11916,tr-TR,recommendation,recommendation_events,yakındaki tema parkları nelerdir,social_post,0.5004,0.0795,False
+11969,tr-TR,recommendation,recommendation_events,civarda olan özel bir şeyler var mı,lists_query,0.2955,0.0116,False
+11999,tr-TR,recommendation,recommendation_events,bugün şehrimdeki tüm etkinlikleri bildir bana,social_post,0.9161,0.0075,False
+12008,tr-TR,recommendation,recommendation_events,izmir'de bugün eğlenceli bir etkinlik var mı,social_post,0.4728,0.0946,False
+12054,tr-TR,recommendation,recommendation_events,kent etrafında neler oluyor,news_query,0.9597,0.0021,False
+12070,tr-TR,recommendation,recommendation_events,piazza alış veriş merkezi ne zaman açılıyor,datetime_query,0.9966,0.0004,False
+12073,tr-TR,recommendation,recommendation_events,yerel güncel olaylar öner,recommendation_events,0.8914,0.8914,True
+12098,tr-TR,recommendation,recommendation_events,bana yakındaki müzik etkinliklerini göster,play_podcasts,0.6978,0.0001,False
+12189,tr-TR,transport,transport_query,bilet için tren istasyonuna nasıl gidebilirim,transport_query,0.9995,0.9995,True
+12240,tr-TR,transport,transport_query,benim ev seyahatim için saat beş de trafik nasıl,qa_factoid,0.5606,0.4232,False
+12245,tr-TR,transport,transport_query,istanbul 'dan ankara yönüne bir sonraki tren ne zaman,weather_query,0.9935,0.0008,False
+12251,tr-TR,transport,transport_query,bana söke için yerel tren zamanını söyle,weather_query,0.9954,0.0001,False
+12252,tr-TR,transport,transport_query,sefaköy'e giden trenler ne zaman kalkıyor,weather_query,0.8473,0.0005,False
+12261,tr-TR,transport,transport_query,önümüzde ki çarşamba veya perşembe eskişehire giden bir tren için seçeneklerin neler olduğunu söyle,lists_query,0.4004,0.2092,False
+12263,tr-TR,transport,transport_query,ankara,email_query,0.5394,0.0189,False
+12264,tr-TR,transport,transport_query,istanbul,lists_query,0.147,0.057,False
+12294,tr-TR,transport,transport_query,bana büyükşehir opera binasına giden tren tarifelerini göster,transport_query,0.5898,0.5898,True
+12310,tr-TR,transport,transport_query,bana istanbul kars arası uygun tren biletlerinin listesini ver,lists_query,0.9708,0.0003,False
+12343,tr-TR,transport,transport_query,balıkesir istasyonundan salı günü için on bin sekiz yüz seksen yedi treni saatleri nelerdir,lists_query,0.2322,0.0432,False
+12354,tr-TR,transport,transport_query,bana tren zamanlarını söyle,weather_query,0.652,0.0023,False
+12366,tr-TR,transport,transport_query,londradan parise bağlantı treni var mı ve saat kaçta,weather_query,0.5204,0.4606,False
+12367,tr-TR,transport,transport_query,söke ye en iyi yol hangisi,qa_factoid,0.5206,0.0629,False
+12376,tr-TR,transport,transport_query,kartal a ilk metro saat kaçta,weather_query,0.9986,0.0001,False
+12392,tr-TR,transport,transport_query,bana bugünkü yolu tarif et,qa_factoid,0.89,0.0007,False
+12402,tr-TR,transport,transport_query,şehri gezen bir sonraki tren buradan ne zaman kalkıyor,datetime_query,0.5229,0.0457,False
+12419,tr-TR,transport,transport_query,üsküdar lisesi için en hızlı rota,transport_query,0.9838,0.9838,True
+12430,tr-TR,transport,transport_query,bana aydın a tren varış saatini bildir bana,weather_query,0.9615,0.0002,False
+12436,tr-TR,transport,transport_query,havalimanına gitmek ne kadar sürer,transport_query,0.8966,0.8966,True
+12437,tr-TR,transport,transport_query,tiyatroya gidiş zamanı nedir,qa_factoid,0.6461,0.0007,False
+12446,tr-TR,transport,transport_query,aydın a giden bir tren için bana tüm saatleri verebilir misin,qa_factoid,0.8762,0.0164,False
+12473,tr-TR,transport,transport_query,buradan eve nasıl gidebilirim,transport_query,0.9718,0.9718,True
+12526,tr-TR,transport,transport_query,starbucks için en hızlı yol hangisi,transport_query,0.9481,0.9481,True
+12532,tr-TR,transport,transport_query,oraya doğru git,qa_factoid,0.9996,0.0,False
+12581,tr-TR,transport,transport_query,bugün tarsus treni kaçta kalkıyor,weather_query,0.683,0.0958,False
+12582,tr-TR,transport,transport_query,ilk metro sabah saat kaçta geliyor,weather_query,0.9998,0.0,False
+12604,tr-TR,transport,transport_query,internetten nasıl tren bileti alırım,transport_query,0.8433,0.8433,True
+12618,tr-TR,transport,transport_query,adana'ya gidiş dönüş tren bileti ne kadar,transport_query,0.9892,0.9892,True
+12623,tr-TR,transport,transport_query,üsküdar ist için tren saatleri var mı,weather_query,0.9964,0.0002,False
+12629,tr-TR,transport,transport_query,şikagodan ilk tren ne zaman kalkıyor,weather_query,0.631,0.0009,False
+12634,tr-TR,transport,transport_query,aydın için bir sonraki tren ne zaman,weather_query,0.9981,0.0001,False
+12707,tr-TR,transport,transport_query,yol tarifi ara,cooking_recipe,1.0,0.0,False
+12759,tr-TR,transport,transport_query,bursa'ya sürüş zamanı,datetime_query,0.9877,0.0005,False
+12797,tr-TR,transport,transport_query,benim bulunduğum yerden konuma tren saatleri,weather_query,0.8749,0.1096,False
+12800,tr-TR,transport,transport_query,halk kütüphanesi nerede,social_post,0.4586,0.0063,False
+12817,tr-TR,transport,transport_query,alışveriş merkezine nasıl gidebilirim,transport_query,0.8088,0.8088,True
+12818,tr-TR,transport,transport_query,kastamonu 'ya tren bileti ne kadar,qa_factoid,0.9819,0.004,False
+12824,tr-TR,transport,transport_query,ny için tren saatlerini listele,calendar_set,0.4468,0.0008,False
+12835,tr-TR,transport,transport_query,bu yere tren saat kaçta kalkıyor,weather_query,0.9963,0.0001,False
+12839,tr-TR,transport,transport_query,beni eskişehir porsuk çayına götür,cooking_recipe,0.5916,0.2328,False
+12851,tr-TR,transport,transport_query,evime gidebileceğim yolları göster,lists_query,0.3147,0.2001,False
+12856,tr-TR,transport,transport_query,yol tarifi lütfen,qa_factoid,0.7808,0.0076,False
+12866,tr-TR,transport,transport_query,doğu ekspresinin zamanlaması nedir,datetime_query,0.4306,0.0022,False
+12908,tr-TR,transport,transport_query,tren eskişehir'e ne zaman varıyor,weather_query,0.6906,0.0018,False
+12930,tr-TR,transport,transport_query,yakınımdaki mağazalar için haritaya bak,qa_factoid,0.7487,0.0089,False
+12932,tr-TR,transport,transport_query,olly bağdat caddesi için yol tarifine ihtiyacım var,transport_query,0.9699,0.9699,True
+12951,tr-TR,qa,qa_factoid,dünyanın en yüksek binası hangisidir,qa_factoid,0.9236,0.9236,True
+12957,tr-TR,qa,qa_definition,incelikleyi tanımla,qa_factoid,0.9641,0.0001,False
+12961,tr-TR,qa,qa_definition,lütfen adliyi tanımla,email_sendemail,0.7735,0.0107,False
+12963,tr-TR,qa,qa_definition,adlinin tanımı nedir,qa_definition,1.0,1.0,True
+12972,tr-TR,qa,qa_factoid,dünyanın en yüksek zirvesi hangisidir,qa_factoid,0.9509,0.9509,True
+12982,tr-TR,qa,qa_definition,türbülans ne demek,qa_definition,0.9999,0.9999,True
+12986,tr-TR,qa,qa_definition,kaprislinin tanımına bak,qa_definition,0.9993,0.9993,True
+12999,tr-TR,qa,qa_factoid,nükhet duru kaç yaşında,qa_factoid,0.9994,0.9994,True
+13016,tr-TR,qa,qa_definition,gafın tanımına bak,qa_definition,0.877,0.877,True
+13023,tr-TR,cooking,cooking_recipe,bana tarifleri göster,cooking_recipe,0.9999,0.9999,True
+13069,tr-TR,qa,qa_definition,portakalın tanımları nelerdir,lists_query,0.567,0.035,False
+13074,tr-TR,qa,qa_factoid,şafak sezer neden komik değil,qa_factoid,0.559,0.559,True
+13077,tr-TR,qa,qa_factoid,murat bozun doğum günü nedir,qa_factoid,0.9944,0.9944,True
+13078,tr-TR,qa,qa_factoid,bana haluk bilginerin adresini söyle,email_sendemail,1.0,0.0,False
+13099,tr-TR,qa,qa_factoid,britanyanın şu anki başbakanı kim,qa_factoid,0.9994,0.9994,True
+13115,tr-TR,qa,qa_factoid,nijeryanın başkenti neresidir,qa_factoid,1.0,1.0,True
+13124,tr-TR,qa,qa_factoid,evren ne kadar büyüktür,qa_factoid,0.7663,0.7663,True
+13135,tr-TR,qa,qa_factoid,kıvanç tatlıtuğun doğum tarihi ne zaman,datetime_query,0.9934,0.0043,False
+13140,tr-TR,qa,qa_definition,bana kasırga hakkında her şeyi anlat,social_post,0.9943,0.0003,False
+13154,tr-TR,qa,qa_factoid,ayşe yılmazın telefon numarasını biliyor musun,qa_factoid,0.954,0.954,True
+13165,tr-TR,qa,qa_definition,salınım ne demek,email_query,0.6835,0.0388,False
+13166,tr-TR,qa,qa_definition,salınım yapmayı hecele ve tanımla,qa_factoid,0.9889,0.0016,False
+13177,tr-TR,calendar,calendar_set,kilo almamak için hareket etmemi hatırlat,cooking_recipe,0.4335,0.0103,False
+13178,tr-TR,calendar,calendar_set,vakit geçmeden altı ay içinde görüşmediğim eski arkadaşlarımla iletişime geçmemi hatırlat,qa_factoid,0.9881,0.0,False
+13188,tr-TR,news,news_query,delhi deki meclis seçimlerinin sonuçları nasıl çıkacak söyle bana,recommendation_events,0.6146,0.024,False
+13206,tr-TR,qa,qa_definition,konum,qa_factoid,0.9622,0.0042,False
+13215,tr-TR,transport,transport_query,benim şehir merkezindeki işime trafiğe takılmadan gidilecek en hızlı yol hangisi,transport_query,0.9887,0.9887,True
+13252,tr-TR,qa,qa_factoid,namık kemalin ilk romanının adı neydi,email_sendemail,1.0,0.0,False
+13255,tr-TR,qa,qa_factoid,lütfen bana alparslan türkeş hakkında bilgi verin,social_post,0.9988,0.0001,False
+13283,tr-TR,qa,qa_factoid,bill gates ne kadar para kazandı,qa_factoid,0.9733,0.9733,True
+13288,tr-TR,qa,qa_definition,müebbet kelimesinin anlamı nedir,qa_definition,1.0,1.0,True
+13297,tr-TR,qa,qa_factoid,kim ünlüdür,qa_factoid,0.7522,0.7522,True
+13298,tr-TR,qa,qa_factoid,ünlüler ne yapar,qa_factoid,0.7201,0.7201,True
+13330,tr-TR,qa,qa_factoid,ispermeçet balinası ne kadar büyüktür,qa_factoid,0.9769,0.9769,True
+13361,tr-TR,qa,qa_definition,dakikliğin tanımı nedir,qa_definition,1.0,1.0,True
+13383,tr-TR,qa,qa_factoid,kaç eyalette idam var,email_sendemail,0.4503,0.1207,False
+13400,tr-TR,social,social_post,tüm arkadaşlarıma komik bir mesaj gönder,social_post,0.806,0.806,True
+13439,tr-TR,qa,qa_factoid,halide edip adıvar kaç yaşında,qa_factoid,1.0,1.0,True
+13457,tr-TR,calendar,calendar_set,bana zamanlanmış bir etkinliğe ne zaman gitmem gerektiğini söyle böylece zamanında gelebileyim,email_sendemail,0.7412,0.0651,False
+13473,tr-TR,qa,qa_factoid,a. b. d. ne zaman özgürlüğe kavuştu,qa_factoid,0.9763,0.9763,True
+13487,tr-TR,qa,qa_factoid,olly kaliforniyanın başkenti neresidir,qa_factoid,0.3606,0.3606,True
+13494,tr-TR,qa,qa_definition,motivasyonun tanımını ver,qa_factoid,0.9912,0.0084,False
+13506,tr-TR,datetime,datetime_query,bana saati söyler misin,qa_factoid,0.3657,0.0046,False
+13513,tr-TR,qa,qa_factoid,köpeğin kaç bacağı vardır,qa_factoid,0.9967,0.9967,True
+13516,tr-TR,qa,qa_factoid,balinalar neden büyük,qa_factoid,0.9831,0.9831,True
+13546,tr-TR,qa,qa_factoid,özcan deniz en son hangi filmdeydi,qa_factoid,0.7884,0.7884,True
+13554,tr-TR,qa,qa_factoid,mehmet günsürün boyu ne kadar uzun,qa_factoid,0.8492,0.8492,True
+13575,tr-TR,qa,qa_factoid,en son akademi ödüllü film ne zamandı,recommendation_events,0.5338,0.2558,False
+13580,tr-TR,qa,qa_factoid,ağrı dağı ne kadar yüksek,qa_factoid,1.0,1.0,True
+13591,tr-TR,qa,qa_factoid,hatayın başkenti neresidir,qa_factoid,0.9998,0.9998,True
+13592,tr-TR,qa,qa_factoid,türkiye haritada nerededir,weather_query,0.595,0.0105,False
+13604,tr-TR,qa,qa_factoid,cem boynerin doğduğu yeri söyle,qa_factoid,0.9958,0.9958,True
+13607,tr-TR,qa,qa_factoid,kıvançın evli olup olmadığını teyit edebilir misin,qa_factoid,0.9996,0.9996,True
+13616,tr-TR,qa,qa_factoid,çoğu ünlü nerede takılıyor,social_post,0.7538,0.2397,False
+13619,tr-TR,recommendation,recommendation_events,bugün bölgemde ücretsiz etkinlik var mı,qa_factoid,1.0,0.0,False
+13625,tr-TR,qa,qa_definition,en büyük çalışma masası hangisi,lists_query,0.6238,0.0113,False
+13636,tr-TR,qa,qa_factoid,cüneyt arkının doğum günü ne,qa_factoid,0.9677,0.9677,True
+13679,tr-TR,qa,qa_factoid,bir ineğin kaç midesi olduğunu söyler misin,qa_factoid,0.9778,0.9778,True
+13681,tr-TR,qa,qa_factoid,haluk bilginer kaç oyunda yer aldı,qa_factoid,0.9997,0.9997,True
+13683,tr-TR,qa,qa_factoid,ali ağaoğlu hangi marka saç spreyi kullanıyor,iot_hue_lightoff,0.412,0.0209,False
+13689,tr-TR,qa,qa_definition,sandalye nedir,qa_definition,1.0,1.0,True
+13690,tr-TR,qa,qa_factoid,sandalyeler ne renk,iot_hue_lightoff,0.9361,0.0281,False
+13693,tr-TR,qa,qa_factoid,başlangıç ​​meridyeni nerededir,social_post,0.8653,0.0064,False
+13705,tr-TR,qa,qa_definition,elektronik emisyon sistemi nedir,qa_definition,0.9934,0.9934,True
+13706,tr-TR,qa,qa_definition,bir rotoru tarif et,qa_factoid,1.0,0.0,False
+13714,tr-TR,qa,qa_definition,mango nedir,qa_definition,0.9997,0.9997,True
+13717,tr-TR,qa,qa_factoid,rusyayı gerçekten alaska dan görebiliyor musun,qa_factoid,0.9938,0.9938,True
+13758,tr-TR,qa,qa_factoid,nükhet duru kaç yaşında,qa_factoid,0.9994,0.9994,True
+13761,tr-TR,qa,qa_factoid,parsek nedir,qa_factoid,0.8641,0.8641,True
+13774,tr-TR,qa,qa_factoid,muğla nın aydın a uzaklığı ne kadar,iot_hue_lightoff,0.992,0.0014,False
+13777,tr-TR,qa,qa_definition,bir kredi kartını tarif edebilir misin,qa_factoid,0.999,0.0,False
+13780,tr-TR,qa,qa_factoid,ibrahim kutluay evli mi,email_query,0.4521,0.0031,False
+13798,tr-TR,qa,qa_factoid,dünyada ortalama bir ülke kaç kilometre karedir,qa_factoid,0.7779,0.7779,True
+13799,tr-TR,qa,qa_definition,boyun eğdirenin tanımı nedir,qa_definition,1.0,1.0,True
+13823,tr-TR,qa,qa_factoid,güneş ne ​​kadar uzaklıkta,qa_factoid,0.4455,0.4455,True
+13853,tr-TR,qa,qa_factoid,dünyada en çok volkan olan yer neresidir,qa_factoid,0.7605,0.7605,True
+13854,tr-TR,qa,qa_factoid,zeki müren ne zaman öldü,qa_factoid,1.0,1.0,True
+13863,tr-TR,qa,qa_definition,mantığın tanımı nedir,qa_definition,1.0,1.0,True
+13867,tr-TR,qa,qa_factoid,uludağ millî parkı nerede,transport_query,0.426,0.2918,False
+13869,tr-TR,qa,qa_factoid,lütfen ağrı dağı ile ilgili bilgi ve lokasyon google la,email_sendemail,0.4259,0.0191,False
+13871,tr-TR,qa,qa_definition,mutlu bir doğum gününü nasıl tarif edersin,qa_definition,0.9032,0.9032,True
+13881,tr-TR,qa,qa_factoid,lütfen bana zeki müren hakkında bilgi verin,qa_definition,0.448,0.1647,False
+13888,tr-TR,qa,qa_factoid,antakya hatayda sıcaklık nedir,qa_factoid,0.9398,0.9398,True
+13895,tr-TR,qa,qa_factoid,bana hakan şükürden bahseder misin,social_post,0.9465,0.0068,False
+13900,tr-TR,qa,qa_definition,yaşamın tanımı,weather_query,0.1752,0.0869,False
+13907,tr-TR,qa,qa_definition,şaşkına dönmüşün tanımını yap,qa_factoid,0.7059,0.1211,False
+13908,tr-TR,qa,qa_definition,şaşırmışın ne demek olduğunu söyler misin,qa_definition,0.9963,0.9963,True
+13926,tr-TR,qa,qa_factoid,orhan pamukun doğum günü ne zaman,datetime_query,0.9894,0.0018,False
+13927,tr-TR,qa,qa_factoid,lebron james in değeri ne,qa_factoid,0.9998,0.9998,True
+13974,tr-TR,qa,qa_factoid,laos nerededir,social_post,0.4745,0.4671,False
+13983,tr-TR,qa,qa_definition,acı sonuçlar,qa_factoid,0.6593,0.0063,False
+13984,tr-TR,qa,qa_definition,eylemlerin sonuçları,email_sendemail,0.8751,0.0001,False
+13997,tr-TR,qa,qa_factoid,ortalama bir ev ne kadardır,lists_query,0.4428,0.0454,False
+14000,tr-TR,qa,qa_definition,tembel hayvanı tarif et,qa_definition,0.9974,0.9974,True
+14001,tr-TR,qa,qa_factoid,tembel hayvanlar hakkında bildiğin her şeyi söyle,email_sendemail,0.9941,0.0,False
+14011,tr-TR,qa,qa_factoid,nazan öncelin doğum günü nedir,datetime_query,0.546,0.4391,False
+14015,tr-TR,qa,qa_factoid,ekvatorun koordinatları nelerdir,iot_hue_lightoff,0.9141,0.0434,False
+14023,tr-TR,qa,qa_definition,cehennemi tarif et,qa_factoid,0.7517,0.0125,False
+14033,tr-TR,qa,qa_factoid,bana ecevitin ne zaman doğduğunu söyle,qa_factoid,0.9999,0.9999,True
+14038,tr-TR,qa,qa_factoid,moldovanın yeri nerede,qa_factoid,0.6476,0.6476,True
+14040,tr-TR,qa,qa_factoid,hulk hogan ne kadar uzun,qa_factoid,0.6697,0.6697,True
+14053,tr-TR,qa,qa_factoid,mehmet ali alabora hangi yılda oyunculuğa başladı,qa_factoid,0.9757,0.9757,True
+14063,tr-TR,qa,qa_factoid,zeki mürenin doğum günü ne zamandı,qa_factoid,0.704,0.704,True
+14083,tr-TR,qa,qa_factoid,cüneyt arkın şu an nerede yaşıyor,weather_query,0.6832,0.0063,False
+14096,tr-TR,qa,qa_factoid,toros dağları nerede,qa_factoid,0.1874,0.1874,True
+14115,tr-TR,qa,qa_definition,kaya kumu ile ilgili bilgiler ver,social_post,0.1549,0.0389,False
+14116,tr-TR,qa,qa_definition,kaya kumunu tarif et,qa_factoid,1.0,0.0,False
+14117,tr-TR,qa,qa_factoid,piramitler nerede bulunur,qa_definition,0.6125,0.0401,False
+14118,tr-TR,qa,qa_factoid,piramitler in coğrafi detaylarını göster,play_podcasts,0.2751,0.0275,False
+14126,tr-TR,qa,qa_factoid,hadisenin biyografisini göster,social_post,0.9512,0.0401,False
+14138,tr-TR,qa,qa_definition,lütfen bana silindirin tanımının ne olduğunu söyle,qa_definition,0.9997,0.9997,True
+14147,tr-TR,qa,qa_definition,battaniyeyi tanımla,qa_factoid,0.9998,0.0001,False
+14150,tr-TR,qa,qa_definition,converse ayakkabı nedir,qa_factoid,0.9241,0.0575,False
+14151,tr-TR,qa,qa_factoid,ne tür güneş gözlükleri pilot gözlüğü olarak kabul edilir,qa_definition,0.9991,0.0007,False
+14154,tr-TR,qa,qa_factoid,afrika bilgileri,lists_query,0.4416,0.3588,False
+14163,tr-TR,qa,qa_factoid,konumu ara,qa_factoid,0.9993,0.9993,True
+14169,tr-TR,qa,qa_factoid,şeyma subaşı üniversiteye nerede gitti,social_post,0.6928,0.007,False
+14170,tr-TR,qa,qa_factoid,şeyma subaşı converse giyiyor mu,qa_factoid,0.4651,0.4651,True
+14179,tr-TR,qa,qa_factoid,kanada şu an bulunduğum konumdan ne kadar uzaklıkta,qa_factoid,0.6889,0.6889,True
+14214,tr-TR,transport,transport_query,aynısı için seyahat yollarını bul,lists_query,0.348,0.074,False
+14229,tr-TR,qa,qa_factoid,aslı enver hangi filmlerde rol aldı,qa_factoid,0.5052,0.5052,True
+14243,tr-TR,qa,qa_factoid,kişi hakkında detaylar,lists_query,0.5456,0.0175,False
+14272,tr-TR,qa,qa_definition,hey kitap nedir,email_query,1.0,0.0,False
+14283,tr-TR,qa,qa_factoid,bana ankaradan bahset,social_post,0.7583,0.0444,False
+14306,tr-TR,qa,qa_factoid,hindistanın coğrafi konumunu açıkla,qa_factoid,0.909,0.909,True
+14308,tr-TR,qa,qa_factoid,leonardo dicaprionun mal varlığı nedir,qa_factoid,1.0,1.0,True
+14316,tr-TR,qa,qa_factoid,hatay ne kadar büyüklükte,iot_hue_lightoff,0.883,0.0439,False
+14317,tr-TR,qa,qa_factoid,amerika birleşik devletlerinin büyüklüğü nedir,qa_factoid,0.4841,0.4841,True
+14323,tr-TR,qa,qa_factoid,ejder meyvesi hangi renk,iot_hue_lightoff,0.976,0.001,False
+14330,tr-TR,qa,qa_factoid,ali ağaoğlu nerede doğdu,social_post,0.9972,0.0002,False
+14347,tr-TR,qa,qa_definition,hipotez nedir,qa_factoid,0.9991,0.0004,False
+14354,tr-TR,qa,qa_factoid,kainat a cevap ne,qa_factoid,0.9998,0.9998,True
+14355,tr-TR,qa,qa_factoid,sally deniz kenarında kaç tane deniz kabuğu sattı,lists_query,0.2323,0.1159,False
+14370,tr-TR,qa,qa_factoid,bana ünlünün mesleğini söyle,qa_definition,0.9406,0.0541,False
+14378,tr-TR,qa,qa_definition,hızın tanımı,qa_factoid,0.7324,0.2669,False
+14382,tr-TR,qa,qa_factoid,empire state binası ne kadar büyüklükte,iot_hue_lightoff,0.5228,0.1615,False
+14395,tr-TR,qa,qa_factoid,dünyanın en derin noktası neresidir,qa_factoid,0.8538,0.8538,True
+14414,tr-TR,qa,qa_definition,bilgisayar hard disk tanımı yap,iot_hue_lightoff,0.5911,0.0163,False
+14417,tr-TR,qa,qa_factoid,kıtamıza hangi okyanus bitişiktir,qa_factoid,0.4298,0.4298,True
+14419,tr-TR,qa,qa_factoid,meryem bu sene yeni bir film çekecek mi,qa_factoid,0.3569,0.3569,True
+14429,tr-TR,qa,qa_definition,kaftan nedir,qa_definition,0.7904,0.7904,True
+14440,tr-TR,qa,qa_factoid,meksikanın başkenti neresidir,qa_factoid,1.0,1.0,True
+14442,tr-TR,qa,qa_factoid,fiji nerede,social_post,0.6801,0.3195,False
+14444,tr-TR,qa,qa_factoid,şener şenin ilk filmi neydi,qa_factoid,0.8583,0.8583,True
+14449,tr-TR,qa,qa_factoid,tülin şahinin yeni bir bebeği mi var,qa_factoid,0.6362,0.6362,True
+14457,tr-TR,qa,qa_factoid,rota bul,qa_factoid,0.997,0.997,True
+14465,tr-TR,transport,transport_query,disney lande yol tarifi,cooking_recipe,0.2783,0.042,False
+14490,tr-TR,qa,qa_factoid,atatürk kültür merkezi ne zaman inşa edildi,qa_factoid,0.9795,0.9795,True
+14498,tr-TR,qa,qa_definition,akıllı telefonun tanımını ver,qa_definition,0.9997,0.9997,True
+14504,tr-TR,qa,qa_factoid,olly ismet inönü kaç görüşmeye girdi,qa_factoid,1.0,1.0,True
+14505,tr-TR,qa,qa_factoid,rusyanın şu anki başbakanı kim,qa_factoid,0.7122,0.7122,True
+14508,tr-TR,qa,qa_factoid,lütfen en sonki george r. r. martin ice and fire kitabını özetle,email_sendemail,0.7554,0.0022,False
+14509,tr-TR,qa,qa_factoid,ismet inönü nerede doğdu,qa_factoid,0.4865,0.4865,True
+14539,tr-TR,qa,qa_factoid,bu yerin coğrafik detaylarını bul,lists_query,0.6579,0.0082,False
+14545,tr-TR,qa,qa_factoid,bana türkiyenin yerini söyle,social_post,0.9732,0.0042,False
+14567,tr-TR,qa,qa_factoid,dünyadaki en büyük aktif yanardağ hangisidir,qa_factoid,1.0,1.0,True
+14585,tr-TR,qa,qa_factoid,japonya dan güney kore ye seyahat ne kadar sürecek,qa_factoid,0.7198,0.7198,True
+14591,tr-TR,qa,qa_definition,bana televizyon devresinin tanımını ver,qa_definition,0.9922,0.9922,True
+14592,tr-TR,qa,qa_definition,bana akıllı telefon devresinin tanımını yap,qa_factoid,0.8947,0.0846,False
+14597,tr-TR,qa,qa_factoid,nevşehirin nüfusu ne kadar,qa_factoid,0.9871,0.9871,True
+14601,tr-TR,qa,qa_factoid,abraham lincoln kaç yıl boyunca amerika birleşik devletleri başkanıydı,qa_factoid,0.9971,0.9971,True
+14605,tr-TR,qa,qa_factoid,gülşen bubikoğlu tarık akandan ne zaman ayrıldı,datetime_query,0.6142,0.0152,False
+14608,tr-TR,qa,qa_factoid,beren saat hangi yeni filmin üzerinde çalışıyor,qa_factoid,0.9519,0.9519,True
+14622,tr-TR,qa,qa_definition,kürenin ne olduğunu açıkla,datetime_query,0.6644,0.0006,False
+14648,tr-TR,cooking,cooking_recipe,tarif lütfen,qa_factoid,0.9883,0.0008,False
+14653,tr-TR,qa,qa_factoid,rusyanın nüfusu nedir,qa_factoid,0.9907,0.9907,True
+14661,tr-TR,qa,qa_factoid,ahmet davutoğlunun doğum yılı kaç,qa_factoid,0.9992,0.9992,True
+14668,tr-TR,qa,qa_definition,xy öğesini tanımla,qa_definition,0.5355,0.5355,True
+14683,tr-TR,qa,qa_factoid,mehmet ali alaboranın hobileri nelerdir,email_query,1.0,0.0,False
+14684,tr-TR,qa,qa_factoid,rusya başbakanı kim,qa_factoid,0.717,0.717,True
+14690,tr-TR,qa,qa_definition,ok google başkan ne demek,qa_definition,0.915,0.915,True
+14700,tr-TR,qa,qa_definition,kompozit diş dolgusu tam olarak ne anlama geliyor,qa_definition,0.9999,0.9999,True
+14701,tr-TR,qa,qa_definition,heartstone kâğıt oyununu tanımla,qa_factoid,0.9586,0.0257,False
+14705,tr-TR,qa,qa_factoid,okey google nesrin cavadzade nerede yaşıyor,social_post,0.9999,0.0,False
+14706,tr-TR,qa,qa_factoid,hülya avşar nerede yaşıyor,social_post,0.9994,0.0,False
+14746,tr-TR,qa,qa_factoid,kazakistanın başkenti neresidir,qa_factoid,0.9846,0.9846,True
+14761,tr-TR,qa,qa_definition,bana papalık kelimesinin tanımını ver,qa_definition,1.0,1.0,True
+14767,tr-TR,qa,qa_definition,bir topu nasıl tanımlarsın,qa_definition,0.9993,0.9993,True
+14770,tr-TR,qa,qa_factoid,bana dünyanın en büyük okyanusunu söyle,qa_factoid,0.9973,0.9973,True
+14787,tr-TR,qa,qa_factoid,roma ve gregoryen takvimi arasındaki farklar nelerdir,lists_query,0.5966,0.023,False
+14791,tr-TR,qa,qa_factoid,sandalye neyden yapılmış,cooking_recipe,0.9998,0.0,False
+14794,tr-TR,qa,qa_factoid,mirkelamın favori arabası nedir,qa_factoid,0.9949,0.9949,True
+14822,tr-TR,qa,qa_factoid,insanlarla kıyaslamak,qa_factoid,0.8265,0.8265,True
+14838,tr-TR,qa,qa_factoid,nötr yoğunluk filteri nedir ve ben gradyanlı olanı mı katı olanı mı isterim ayrıca stil olarak vidalanabilir olan mı yoksa kare olan mı daha iyi,lists_query,0.5441,0.0347,False
+14857,tr-TR,qa,qa_definition,bana fahiş kelimesinin anlamını açıklar mısın lütfen,qa_definition,0.9995,0.9995,True
+14877,tr-TR,qa,qa_factoid,o bölgedeki iklim koşulları nelerdir,weather_query,0.7074,0.0022,False
+14879,tr-TR,qa,qa_definition,anlamı,cooking_recipe,0.9925,0.0029,False
+14884,tr-TR,qa,qa_factoid,tüm amerikada en az kasırga olan eyalet nedir,qa_factoid,0.9942,0.9942,True
+14889,tr-TR,qa,qa_definition,lütfen o nesneyi benim için tarif et,qa_factoid,0.7462,0.0203,False
+14891,tr-TR,qa,qa_factoid,bu kişi hangi alanda üstün,qa_factoid,0.9997,0.9997,True
+14912,tr-TR,qa,qa_factoid,cumhurbaşkanı inönü nerede doğmuştur,social_post,0.8337,0.1551,False
+14917,tr-TR,qa,qa_factoid,mazhar alansonun yeni albümü ne zaman çıkacak,email_sendemail,0.7229,0.0002,False
+14933,tr-TR,qa,qa_factoid,bana hindistanın coğrafyası hakkında bilgiyi ver,qa_definition,0.3221,0.0182,False
+14939,tr-TR,qa,qa_factoid,cüneyt arkın hakkında bazı ayrıntılara ihtiyacım var lütfen yardım et,email_query,0.6189,0.019,False
+14981,tr-TR,qa,qa_definition,iphone yedi açıklama,qa_factoid,0.9949,0.0001,False
+14994,tr-TR,qa,qa_factoid,şener şenin bundan sonraki filmi ne,qa_factoid,0.6675,0.6675,True
+14995,tr-TR,qa,qa_definition,durum ne demek,qa_definition,0.9578,0.9578,True
+15020,tr-TR,qa,qa_factoid,cüneyt arkın kaç yaşında,qa_factoid,0.9953,0.9953,True
+15039,tr-TR,qa,qa_factoid,olly toros dağları nerede başlar,iot_hue_lightoff,0.4706,0.2068,False
+15055,tr-TR,qa,qa_factoid,hangi kutup daha soğuk güney mi kuzey mi,weather_query,0.9977,0.0008,False
+15056,tr-TR,qa,qa_factoid,banu alkanın yeni erkek arkadaşı kaç yaşında,qa_factoid,0.9993,0.9993,True
+15062,tr-TR,qa,qa_factoid,banu alkan hakkında bilgi lütfen,email_sendemail,0.6104,0.0208,False
+15075,tr-TR,qa,qa_factoid,olly ilk amerikalılar nereye yerleşti,social_post,0.9424,0.0121,False
+15092,tr-TR,qa,qa_definition,samsung t. v. ile ilgili tanım bul,qa_definition,0.9552,0.9552,True
+15094,tr-TR,qa,qa_factoid,mersin içelde yaşayan insan sayısına bak,qa_factoid,0.9989,0.9989,True
+15095,tr-TR,qa,qa_factoid,alanya hangi bölgededir,qa_definition,0.5026,0.4121,False
+15127,tr-TR,qa,qa_definition,hoparlörü tanımla,qa_factoid,0.9132,0.0823,False
+15155,tr-TR,social,social_post,en son selfimi facebook hesabıma yükler misin,email_sendemail,0.9258,0.0462,False
+15166,tr-TR,social,social_post,işimi twitter da yayınla,social_post,0.9993,0.9993,True
+15177,tr-TR,social,social_post,lütfen bu paylaşımı twitterda tekrar paylaş,social_post,0.9996,0.9996,True
+15185,tr-TR,social,social_post,doğum günü dilekleri,lists_remove,0.6303,0.0033,False
+15186,tr-TR,social,social_post,düğün dilekleri,lists_remove,0.273,0.0282,False
+15187,tr-TR,social,social_post,arkadaş gönderisinde paylaş,social_post,0.9876,0.9876,True
+15197,tr-TR,social,social_post,japonya ziyaretimi twitter da yayınla,social_post,0.9998,0.9998,True
+15208,tr-TR,social,social_post,merhaba facebooktaki herkes diye paylaşım yap,social_post,0.9997,0.9997,True
+15213,tr-TR,news,news_query,şimdi trend ne,qa_factoid,0.7205,0.0061,False
+15214,tr-TR,news,news_query,bugün ne haberler var,news_query,0.5329,0.5329,True
+15216,tr-TR,social,social_post,benim için bir şeyler tweetle,play_music,0.8851,0.0009,False
+15231,tr-TR,social,social_post,goa fotoğraf gezim instagramda yayınla,social_post,0.9998,0.9998,True
+15271,tr-TR,social,social_post,bunu facebook'uma postala,social_post,0.9996,0.9996,True
+15275,tr-TR,social,social_post,facebook da mutlu olduğumu paylaş,social_post,0.7942,0.7942,True
+15276,tr-TR,social,social_post,facebookta güzel havanın tadını çıkardığımı söyleyen yeni bir durum paylaş,social_post,0.9999,0.9999,True
+15289,tr-TR,social,social_post,mesajı şimdi paylaş,social_post,0.9962,0.9962,True
+15305,tr-TR,calendar,calendar_query,herhangi bir sosyal medya bildirimim varmı,social_post,0.995,0.0001,False
+15318,tr-TR,social,social_post,herkese doğum günü dilekleri için teşekkür etmek istiyorum,email_sendemail,0.9997,0.0,False
+15337,tr-TR,social,social_post,bu videoyu facebook'a postala,social_post,0.9996,0.9996,True
+15350,tr-TR,social,social_post,metro'dan memnun değilim lütfen bana yardım eder misin,qa_factoid,0.8975,0.0091,False
+15358,tr-TR,social,social_post,olly iphoneum çalışmıyor diye applea tweet at,social_post,0.9977,0.9977,True
+15359,tr-TR,social,social_post,apple a iphoneumun pilinin her zaman bittiği tweeti aç,iot_hue_lightoff,0.7056,0.0032,False
+15364,tr-TR,social,social_post,amazona bu yeni telefon kılıfının çöp olduğunu söyler misin,qa_factoid,0.8849,0.0018,False
+15382,tr-TR,social,social_post,samsung ile iletişime geçip çamaşır makinemin yandığını söyleyebilir misin,qa_factoid,0.8292,0.0232,False
+15387,tr-TR,social,social_post,şu anki konumumu tweetle,play_music,0.9781,0.0174,False
+15399,tr-TR,social,social_post,ağla ilgili sorunlar için vodafona bir şikayet ilet,qa_factoid,0.472,0.0322,False
+15401,tr-TR,social,social_post,twitter'ı aç mesaj at,email_sendemail,0.8953,0.0042,False
+15402,tr-TR,social,social_post,ürünün berbat olduğunu tweet at,social_post,0.9981,0.9981,True
+15409,tr-TR,social,social_post,twitter aç şikayetimi yaz ve tüketici hizmetlerine gönder,social_post,0.958,0.958,True
+15413,tr-TR,social,social_post,bana en kısa zamanda bir kişi bul,qa_factoid,0.8532,0.0579,False
+15444,tr-TR,social,social_post,şirket adına iki başparmak aşağı,iot_hue_lightoff,0.7722,0.009,False
+15448,tr-TR,social,social_post,sonynin ses sorunları hakkında bir tweet gönder,social_post,0.9943,0.9943,True
+15454,tr-TR,social,social_post,atlas globale tweet at ve bagajımı kaybettikleri için kızgınım de,social_post,0.7651,0.7651,True
+15456,tr-TR,social,social_post,pegasus'a bir tweet göndermek istiyorum çantamı kaybettiğiniz için kızgınım,social_post,0.987,0.987,True
+15457,tr-TR,social,social_post,burgerimle ilgili bir sorunum var burger kinge tweet atabilirmisin,social_post,0.9986,0.9986,True
+15459,tr-TR,social,social_post,twitter şikayeti gönder,qa_factoid,0.9886,0.0107,False
+15464,tr-TR,social,social_post,ürünü zamanında teslim almadım lcwaikikiye bu konuda tweet at,social_post,0.9975,0.9975,True
+15467,tr-TR,social,social_post,arçelike onlardan nefret ettiğimi söyle,qa_factoid,0.9996,0.0003,False
+15472,tr-TR,social,social_post,online kitapçı için bir şikayet tweeti at,email_sendemail,0.6532,0.0041,False
+15487,tr-TR,social,social_post,mağazalarının temizliği hakkında nazar'a tweet at,social_post,0.4481,0.4481,True
+15488,tr-TR,social,social_post,lütfen pizzahut'a tweet at şu an teslimatımı bekliyorum numara mutsuzum,social_post,0.5656,0.5656,True
+15503,tr-TR,social,social_post,tüketici hizmetlerine yeni tweet,social_post,0.9884,0.9884,True
+15508,tr-TR,social,social_post,siri twitterı aç ve potusa berbat olduğu tweetini at,social_post,0.9911,0.9911,True
+15518,tr-TR,social,social_post,tweet ile otokoça şikayet gönder,social_post,0.9983,0.9983,True
+15532,tr-TR,social,social_post,olly şahin kuruyemişe tweetle ve onlara müşteri hizmetlerinin korkunç olduğunu söyle,social_post,0.9996,0.9996,True
+15546,tr-TR,social,social_post,papa johns'a soğuk pizza hakkında tweet at,social_post,0.9969,0.9969,True
+15548,tr-TR,social,social_post,samsung'a mobil şikayet tweet'i at,social_post,0.9325,0.9325,True
+15553,tr-TR,social,social_post,lütfen daikin servisine olumsuz yanıt tweeti,qa_factoid,0.9801,0.001,False
+15554,tr-TR,social,social_post,geciken hizmetleri için lütfen dell servisine tweet at,email_sendemail,0.9913,0.0004,False
+15556,tr-TR,social,social_post,bir şikayet tweet'leyelim,social_post,0.9994,0.9994,True
+15557,tr-TR,social,social_post,bir şikayet ile ilgili tweet atman gerekiyor,social_post,0.9981,0.9981,True
+15560,tr-TR,social,social_post,facebooka yaz acıktım,email_sendemail,0.5039,0.2851,False
+15565,tr-TR,social,social_post,deltaya onları bir daha asla kullanmayacağımı söyler misin,qa_factoid,0.8785,0.0678,False
+15587,tr-TR,social,social_post,galeriyi aç resim ismini paylaş,social_post,0.997,0.997,True
+15592,tr-TR,social,social_post,superonline a bir şikayet tweeti at,qa_factoid,0.7451,0.112,False
+15593,tr-TR,social,social_post,arçeliğe şikayet tweeti at,qa_factoid,0.9868,0.0001,False
+15598,tr-TR,social,social_post,şirket ismini aç ve şikayetler bul,social_post,0.6382,0.6382,True
+15610,tr-TR,social,social_post,şu tweet'i gönder a. b. c. şirketi'nden memnun değilim benim hesabımın takipleri çok kötü,social_post,0.728,0.728,True
+15618,tr-TR,social,social_post,şişecam'a tweet at ve berbat olduklarını söyle,social_post,0.992,0.992,True
+15626,tr-TR,social,social_post,lütfen kötü müşteri hizmetleri için denizcasta şikayet tweeti at,social_post,0.4944,0.4944,True
+15634,tr-TR,social,social_post,ok google benzin istasyonu sahibinin pislik olduğunu tweet'le,social_post,0.9747,0.9747,True
+15635,tr-TR,social,social_post,mcdonald'sın kötü bir servisi olduğu hakkında tweet at,social_post,0.9811,0.9811,True
+15647,tr-TR,social,social_post,şikayet tweeti at,qa_factoid,0.9998,0.0,False
+15651,tr-TR,social,social_post,tüketici hizmetlerine rapor gönder,recommendation_events,0.7163,0.0089,False
+15652,tr-TR,social,social_post,tüketici servisini şikayet etmeme yardım et,qa_factoid,0.2459,0.0411,False
+15655,tr-TR,social,social_post,google müşteri hizmetlerine tweet at yeni nexus telefonum çalışmayı durdurdu yardım lütfen,iot_hue_lightoff,0.9641,0.0215,False
+15656,tr-TR,social,social_post,getire hala teslimatım için beklediğimi söyleyen bir mesaj tweet at,social_post,0.8296,0.8296,True
+15661,tr-TR,social,social_post,benim edevlet de twitter a en son girişimi postla,qa_factoid,0.9735,0.0215,False
+15670,tr-TR,social,social_post,bir şikayet tweeti gönder,qa_factoid,0.5051,0.4606,False
+15672,tr-TR,social,social_post,apple'a geçen hafta onarım için gönderdiğim iphone'un alınmaması hakkında tweet at,social_post,0.9975,0.9975,True
+15676,tr-TR,social,social_post,lütfen sıralı kebapa hizmetlerine ilişkin şikayeti tweet olarak ekle,email_sendemail,1.0,0.0,False
+15686,tr-TR,social,social_post,merhaba birinden aldığım ürün bozuldu,qa_factoid,0.9985,0.0001,False
+15693,tr-TR,social,social_post,çikolata paketinde böcek olduğuna dair tweet at,social_post,0.9812,0.9812,True
+15700,tr-TR,social,social_post,son pazarda süresi dolmuş ürünler,qa_factoid,0.7266,0.0088,False
+15703,tr-TR,social,social_post,defacto ya boyutlarının çok hızlı tükendiğini tweet at,qa_factoid,0.9912,0.0027,False
+15706,tr-TR,social,social_post,oraya tweet at,social_post,0.9999,0.9999,True
+15707,tr-TR,social,social_post,hadi bir tweet atalım,social_post,0.9996,0.9996,True
+15708,tr-TR,social,social_post,hizmet a hakkında şikayette bulun,qa_factoid,0.8783,0.0011,False
+15721,tr-TR,social,social_post,mcdonalds hakkında iğrenmiş yüz suratı tweet'i at,social_post,0.9999,0.9999,True
+15723,tr-TR,social,social_post,facebookta mutlu olma durumunu ayarla,social_post,0.4321,0.4321,True
+15731,tr-TR,social,social_post,olly türk telekoma bir mesaj tweet at ve servisimin neden kötü olduğunu sor,email_sendemail,1.0,0.0,False
+15732,tr-TR,social,social_post,samsunga tweet at ve ürünleriyle insanları öldürmeyi bırakmalarını söyle,social_post,0.981,0.981,True
+15736,tr-TR,social,social_post,bir şirket hakkında olumsuz bir değerlendirme yükle,social_post,0.9203,0.9203,True
+15756,tr-TR,email,email_sendemail,lütfen takımıma e-posta at,email_sendemail,1.0,1.0,True
+15763,tr-TR,email,email_query,lütfen yeni e-postaları kontrol et,email_sendemail,0.9998,0.0001,False
+15765,tr-TR,email,email_sendemail,pawel'ın e-postasına cevap ver,social_post,0.9957,0.0007,False
+15777,tr-TR,email,email_query,bana yeni e-postalarım olup olmadığını söyle,email_sendemail,1.0,0.0,False
+15785,tr-TR,email,email_query,posta kutumda yeni bir şey var mı,social_post,0.9855,0.0005,False
+15789,tr-TR,email,email_query,olly hiç yeni emailler im var mı,email_sendemail,1.0,0.0,False
+15792,tr-TR,calendar,calendar_query,bugün kiminle buluşacağım,social_post,0.6264,0.0012,False
+15796,tr-TR,email,email_sendemail,chelsea'ye e-posta gönder,email_sendemail,1.0,1.0,True
+15802,tr-TR,email,email_sendemail,jason'a bu gece gelmeyeceğime dair bir e-postayı yanıtla,social_post,0.9985,0.0001,False
+15809,tr-TR,email,email_query,oğuz henüz bana e-posta göndermedi,email_sendemail,1.0,0.0,False
+15825,tr-TR,email,email_sendemail,babama cevap ver geç kalacağımı yaz,email_query,0.9547,0.0421,False
+15828,tr-TR,email,email_sendemail,burda kişilere eklenecek yeni bir eposta adresi var,email_sendemail,1.0,1.0,True
+15829,tr-TR,email,email_sendemail,kişilere git ve yeni bir e-posta adresi gir,email_sendemail,0.9963,0.9963,True
+15839,tr-TR,email,email_query,konu,qa_factoid,0.9369,0.0027,False
+15841,tr-TR,email,email_sendemail,oğuz'a yeni bir e-posta oluştur,email_sendemail,0.9999,0.9999,True
+15845,tr-TR,email,email_sendemail,bu bize nasıl geldi,social_post,0.9926,0.0003,False
+15847,tr-TR,email,email_sendemail,nasıl kredi alabiliriz,email_sendemail,0.9993,0.9993,True
+15849,tr-TR,email,email_sendemail,patronuma bir e-posta gönder,social_post,0.9719,0.0274,False
+15857,tr-TR,email,email_sendemail,lütfen aşağıdaki e-posta adresine gönder,email_sendemail,1.0,1.0,True
+15862,tr-TR,email,email_query,annemden gelen email kontrol et,email_sendemail,1.0,0.0,False
+15880,tr-TR,email,email_query,lütfen maillerimi kontrol et,email_sendemail,1.0,0.0,False
+15890,tr-TR,email,email_query,babamdan hiç yeni e-posta alıp almadığımı kontrol et,email_sendemail,0.9893,0.0019,False
+15904,tr-TR,email,email_query,yeni e-postalarımı kontrol et ve bana onların ne hakkında olduklarını söyle,email_sendemail,0.9871,0.0007,False
+15906,tr-TR,email,email_sendemail,john'a teşekkür cevabı yolla,email_sendemail,0.9985,0.9985,True
+15911,tr-TR,email,email_sendemail,susan için e-posta hazırla,email_sendemail,1.0,1.0,True
+15933,tr-TR,email,email_query,yeni maillerimde ne var,email_sendemail,1.0,0.0,False
+15942,tr-TR,email,email_sendemail,en son e-postaları yanıtlamak için bu e-postayı gönder,email_sendemail,0.9973,0.9973,True
+15950,tr-TR,email,email_sendemail,john doe'dan gelen e-postayı yanıtla,email_sendemail,1.0,1.0,True
+15957,tr-TR,email,email_sendemail,yolda olduğumuzu bildirmek için aliyeye email gönder,email_sendemail,1.0,1.0,True
+15963,tr-TR,email,email_query,ben kazım dan herhangi bir yeni email aldım mı,email_sendemail,1.0,0.0,False
+15966,tr-TR,email,email_query,çok önemliyse cevap gönder,email_query,0.4915,0.4915,True
+15968,tr-TR,email,email_query,eğer oldukça bilindik bir yerdense önemli olarak işaretle,qa_factoid,0.9503,0.0002,False
+15970,tr-TR,email,email_query,annemden gelen son e-postanın konusu neydi,social_post,0.9956,0.0,False
+15971,tr-TR,email,email_query,işten gelen en sonki email neydi,email_sendemail,1.0,0.0,False
+15994,tr-TR,email,email_sendemail,john a bir e-posta gönder ve ona toplantı için ne zaman çalışacağını sor,email_sendemail,1.0,1.0,True
+15995,tr-TR,email,email_sendemail,seline bütçe toplantısı hakkında eposta gönder,email_sendemail,1.0,1.0,True
+15998,tr-TR,email,email_query,epostalarımda isimden bir şey olup olmadığını kontrol et,email_sendemail,0.9998,0.0002,False
+16002,tr-TR,email,email_query,yeni email varmı diye kontrol et,email_sendemail,1.0,0.0,False
+16005,tr-TR,email,email_sendemail,yusuf et gmail nokta koma mail gönder,email_sendemail,1.0,1.0,True
+16010,tr-TR,email,email_query,gelen kutumda hiç yeni mesajlar olup olmadığını söyle,email_sendemail,0.7211,0.0003,False
+16024,tr-TR,email,email_sendemail,cahite yarın meşgulüm diye bir eposta gönder,email_sendemail,0.9378,0.9378,True
+16028,tr-TR,email,email_sendemail,hey siri iş arkadaşına bir mail başlat,email_sendemail,1.0,1.0,True
+16029,tr-TR,email,email_sendemail,lütfen iş arkadaşıma yeni bir eposta oluştur,email_sendemail,1.0,1.0,True
+16032,tr-TR,email,email_sendemail,lütfen yarınki toplantıyla ilgili olarak selin'e bir e-posta gönderin,email_sendemail,1.0,1.0,True
+16038,tr-TR,email,email_query,can son zamanlarda bana hiç e-posta gönderdi mi,email_sendemail,1.0,0.0,False
+16045,tr-TR,email,email_sendemail,ismail e ofis açılış saatlerini içeren bir posta gönder,email_sendemail,1.0,1.0,True
+16048,tr-TR,email,email_query,son emailleri göster,email_sendemail,1.0,0.0,False
+16049,tr-TR,email,email_sendemail,aileme bir e-posta göndermek istiyorum bana yardım eder misin,email_sendemail,1.0,1.0,True
+16050,tr-TR,email,email_query,gmail'i kontrol et,email_sendemail,1.0,0.0,False
+16052,tr-TR,email,email_query,outlook'u kontrol et,iot_hue_lightoff,0.3719,0.0135,False
+16056,tr-TR,email,email_sendemail,e-postayı yanıtla,email_sendemail,0.9977,0.9977,True
+16061,tr-TR,email,email_query,son on dakikada hiç e-posta aldım mı,social_post,0.6638,0.0001,False
+16072,tr-TR,email,email_sendemail,patronuma acil bir durum nedeniyle bugün geç kalacağımı e-posta ile gönder ve toplantıyı kaçırdığım için ondan özür dile,email_sendemail,1.0,1.0,True
+16075,tr-TR,email,email_query,john'dan gelen son e-postayı görüntüle,social_post,0.5323,0.0002,False
+16082,tr-TR,email,email_sendemail,oğuz a bir eposta gönder ve ona şimdi nasıl olduğunu ve ona yardım edip edemeyeceğimi sor,email_sendemail,1.0,1.0,True
+16089,tr-TR,email,email_query,son on dakika içinde yeni e-posta aldım mı,email_sendemail,1.0,0.0,False
+16096,tr-TR,email,email_query,amy bana hiç yeni email attı mı,email_sendemail,1.0,0.0,False
+16098,tr-TR,email,email_query,zerrin'den gelen okunmamış e-postaları kontrol et,email_sendemail,0.9975,0.0005,False
+16100,tr-TR,email,email_query,lütfen iş listelemesini içeren email leri kontrol et,email_query,0.9999,0.9999,True
+16103,tr-TR,email,email_sendemail,erkek kardeşime bir email gönder ve evlilik yıldönümü de,email_sendemail,1.0,1.0,True
+16120,tr-TR,email,email_sendemail,yardım sadece cemreye gönderilecek,qa_factoid,0.9733,0.0002,False
+16131,tr-TR,email,email_sendemail,bu yeni email kişilerime eklenmeli,email_sendemail,1.0,1.0,True
+16145,tr-TR,email,email_query,bana en yeni e-postaları göster,social_post,0.8256,0.001,False
+16146,tr-TR,news,news_query,bana en son gelişmeleri ver,social_post,0.9878,0.0022,False
+16148,tr-TR,email,email_sendemail,nihata hızlı cevap ver bu yüzden lütfen bir mail gönder,email_sendemail,1.0,1.0,True
+16151,tr-TR,email,email_query,bugünün postasında toplantı programını kontrol et,iot_hue_lightoff,0.4374,0.0013,False
+16162,tr-TR,email,email_sendemail,cevap gönder,qa_factoid,1.0,0.0,False
+16163,tr-TR,email,email_query,dün bana kim e-posta attı,social_post,0.9917,0.0,False
+16165,tr-TR,email,email_query,cihan yanıt verdi mi,qa_factoid,0.9974,0.0,False
+16166,tr-TR,email,email_sendemail,jale'ye önümüzdeki üç hafta boyunca projelerle meşgul olacağımı söyler misin,recommendation_events,0.9968,0.0001,False
+16168,tr-TR,email,email_query,son on beş dakika içinde herhangi bir e-posta geldi mi,email_sendemail,0.8484,0.0065,False
+16170,tr-TR,email,email_query,okunmamış e-postaları kontrol etmek için gelen kutusunu aç,email_sendemail,0.6971,0.0753,False
+16178,tr-TR,email,email_query,bugün hiç trendyol'dan posta geldi mi,social_post,0.9998,0.0,False
+16183,tr-TR,email,email_query,işimle ilgili epostayı kontrol et,email_sendemail,1.0,0.0,False
+16201,tr-TR,email,email_sendemail,lütfen hasan için yeni mail yükle ve şimdi mesaj gönder,email_sendemail,1.0,1.0,True
+16221,tr-TR,email,email_sendemail,fatmanın epostasını aç ve ona haber vereceğimi yaz,email_sendemail,0.9964,0.9964,True
+16245,tr-TR,email,email_sendemail,hazal et a ü nokta kom a eposta gönder,email_sendemail,1.0,1.0,True
+16248,tr-TR,email,email_query,lütfen postamı kontrol et,social_post,0.9944,0.0002,False
+16263,tr-TR,email,email_query,engin'den hiç yeni bir e-posta almış mıydım,email_sendemail,1.0,0.0,False
+16266,tr-TR,email,email_sendemail,aileme hepinizi seviyorum diyen bir eposta yaz,social_post,0.809,0.1717,False
+16271,tr-TR,email,email_query,gelen kutumu yenile ve beni yeni epostalar hakkında bilgilendir,email_sendemail,0.5375,0.0021,False
+16275,tr-TR,email,email_query,yeni eposta için oylamayı başlat,iot_hue_lightoff,0.946,0.0001,False
+16276,tr-TR,email,email_query,yeni epostalarım var mı,email_sendemail,0.9916,0.0002,False
+16280,tr-TR,email,email_sendemail,lütfen aile ve arkadaş listemde olan burcuya bir eposta gönder,email_sendemail,0.9649,0.9649,True
+16282,tr-TR,email,email_sendemail,yarın için tüm randevuları iptal etmek için asistanım seline bir eposta gönder,email_sendemail,0.9589,0.9589,True
+16296,tr-TR,email,email_sendemail,anneme denizin doğum günü partisinin pazar günü olduğunu söylemek için bir email gönder,email_sendemail,1.0,1.0,True
+16297,tr-TR,email,email_sendemail,emreye teşekkür etmek için bir eposta gönder,email_sendemail,1.0,1.0,True
+16314,tr-TR,email,email_sendemail,sevime bir eposta gönder,email_sendemail,1.0,1.0,True
+16317,tr-TR,email,email_query,azimeden yeni epostalar aldım mı,email_sendemail,1.0,0.0,False
+16318,tr-TR,email,email_sendemail,epostaya cevap ver,social_post,0.9299,0.0049,False
+16320,tr-TR,email,email_sendemail,uğur özkanın epostasını yanıtlamak istiyorum,social_post,1.0,0.0,False
+16353,tr-TR,email,email_query,sedat'tan gelen e-postaları kontrol et,email_sendemail,0.7293,0.0004,False
+16354,tr-TR,email,email_query,işverenimden gelen e-postaları kontrol et,social_post,0.7835,0.0024,False
+16356,tr-TR,email,email_query,silah kontrolü konusunda tarıka eposta gönderdim mi,email_sendemail,1.0,0.0,False
+16357,tr-TR,email,email_query,tugay bana mühimmat hakkında eposta gönderdi mi,email_sendemail,1.0,0.0,False
+16361,tr-TR,email,email_query,son bir saat içinden hiç yeni epostalarım var mı,email_sendemail,1.0,0.0,False
+16373,tr-TR,email,email_query,gönderi numarasının olduğu emailler aldım mı,email_sendemail,1.0,0.0,False
+16375,tr-TR,email,email_sendemail,barana eposta oluştur,email_sendemail,1.0,1.0,True
+16376,tr-TR,email,email_sendemail,alexa lütfen anneme bir eposta gönder,email_sendemail,1.0,1.0,True
+16377,tr-TR,email,email_sendemail,anneme şimdi bir e-posta gönder,email_sendemail,1.0,1.0,True
+16384,tr-TR,email,email_query,hey hiç yeni maillerim var mı,email_sendemail,1.0,0.0,False
+16385,tr-TR,email,email_query,lütfen yeni epostaları oku,email_sendemail,1.0,0.0,False
+16398,tr-TR,email,email_sendemail,lütfen epostayı cihana gönder,email_sendemail,1.0,1.0,True
+16399,tr-TR,email,email_query,hiç yeni eposta aldım mı,email_sendemail,1.0,0.0,False
+16401,tr-TR,email,email_sendemail,deryaya bir eposta yaz hey bugün ne yapıyorsun,email_sendemail,1.0,1.0,True
+16402,tr-TR,email,email_sendemail,derya'ya e-postayla bugünkü planlarını at,email_sendemail,0.9999,0.9999,True
+16406,tr-TR,email,email_sendemail,alexa eposta başlat,email_sendemail,0.9998,0.9998,True
+16410,tr-TR,email,email_sendemail,eposta oluştur,email_sendemail,1.0,1.0,True
+16413,tr-TR,email,email_query,patronumdan bana gönderilen tüm mailleri göster,email_sendemail,1.0,0.0,False
+16419,tr-TR,email,email_sendemail,lütfen can amcaya evet yapabilirim diye bir email gönder,email_sendemail,1.0,1.0,True
+16427,tr-TR,email,email_query,bugün kaç yeni eposta aldım,email_sendemail,1.0,0.0,False
+16430,tr-TR,email,email_sendemail,lütfen anne ve babaya nasıl olduklarını soran bir e-posta gönder,email_sendemail,0.7986,0.7986,True
+16437,tr-TR,email,email_sendemail,lütfen bu e-postayı arkadaşıma gönder,email_sendemail,1.0,1.0,True
+16438,tr-TR,email,email_sendemail,bu emailin şu an gönderilmesine ihtiyacım var,email_sendemail,1.0,1.0,True
+16446,tr-TR,email,email_query,bu göndericiden gelen yakın zamanlı email çalışmasını kontrol et lütfen,email_sendemail,1.0,0.0,False
+16459,tr-TR,email,email_sendemail,newmail at gmail nokta com adresine yeni mesaj gönder,email_sendemail,1.0,1.0,True
+16461,tr-TR,email,email_query,hiç okunmamış e-postam var mı,email_sendemail,1.0,0.0,False
+16467,tr-TR,email,email_query,q kişimden hiç yeni eposta var mı,email_sendemail,1.0,0.0,False
+16471,tr-TR,email,email_query,veliden gelen epostaları kontrol et,social_post,0.9983,0.0,False
+16496,tr-TR,email,email_sendemail,tekrar epostası gönder,email_sendemail,1.0,1.0,True
+16501,tr-TR,email,email_sendemail,lütfen arkadaşım deryaya mail at nasılsın,email_sendemail,1.0,1.0,True
+16506,tr-TR,email,email_sendemail,yeni eposta adresi ekle ve eposta gönder,email_sendemail,1.0,1.0,True
+16518,tr-TR,email,email_sendemail,berna durdu için yeni bir eposta ekle,email_sendemail,0.9719,0.9719,True
+16519,tr-TR,email,email_sendemail,kişilerime yeni bir eposta eklemem gerekiyor,email_sendemail,1.0,1.0,True
+16535,tr-TR,email,email_sendemail,çağlara bir eposta yazabilirmisin,email_sendemail,1.0,1.0,True
+16559,tr-TR,email,email_sendemail,melihe bu sabah gönderdiği emailden dört yüz otuz cevabı ile bir yanıt gönder,email_sendemail,1.0,1.0,True
+16560,tr-TR,email,email_sendemail,patronumun epostasına akşam dörtte geleceğim sözüyle cevap ver,social_post,0.9689,0.0036,False
+16563,tr-TR,email,email_query,olly e-postamı kontrol et,email_sendemail,0.9981,0.0008,False
+16591,tr-TR,email,email_sendemail,bill den yeni bir email aldım ve hemen cevap vermem lazım,email_sendemail,1.0,1.0,True
+16593,tr-TR,email,email_sendemail,o son emailin mümkün olan en kısa sürede yanıtlanması gerek,email_sendemail,1.0,1.0,True
+16603,tr-TR,email,email_query,yarım saat önce annemden gelen emailde ne diyor,email_sendemail,1.0,0.0,False
+16605,tr-TR,email,email_sendemail,patronuma eposta yaz ve gönder,email_sendemail,1.0,1.0,True
+16609,tr-TR,email,email_query,hiç okunmamış yeni emailim varsa bana söyle,email_sendemail,1.0,0.0,False
+16613,tr-TR,email,email_sendemail,patrona geç kalacağımı söyleyen eposta gönder,social_post,0.9983,0.0,False
+16622,tr-TR,email,email_sendemail,bu kişiye bir e-posta gönder,email_sendemail,1.0,1.0,True
+16624,tr-TR,email,email_sendemail,hizmet sorunlarım hakkında kırcılara gönderilecek bir epostaya ihtiyacım var,email_sendemail,1.0,1.0,True
+16627,tr-TR,email,email_query,en güncel e-postaları kontrol et,email_sendemail,0.9995,0.0002,False
+16630,tr-TR,email,email_sendemail,son epostaya yanıt gönder,email_sendemail,0.9887,0.9887,True
+16642,tr-TR,email,email_query,seda dan gelen herhangi bir şey için epostayı kontrol et,email_sendemail,0.9989,0.0008,False
+16648,tr-TR,email,email_query,lütfen benim için emaillerimi kontrol et,email_sendemail,1.0,0.0,False
+16652,tr-TR,email,email_query,betül'ün e-postasında ek var mıydı,email_sendemail,1.0,0.0,False
+16662,tr-TR,email,email_query,oğulcan'dan herhangi bir yeni e-posta aldım mı,email_sendemail,1.0,0.0,False
+16666,tr-TR,email,email_query,hiç gelen e-postam var mı,qa_factoid,0.9262,0.0001,False
+16668,tr-TR,email,email_query,bugün saat dört ten beri gelen email var mı hiç,email_sendemail,1.0,0.0,False
+16669,tr-TR,email,email_query,paul'den bir e-posta aldım mı,email_sendemail,1.0,0.0,False
+16672,tr-TR,email,email_query,ben irtibata girdi mi,qa_factoid,0.9565,0.0001,False
+16677,tr-TR,email,email_query,bugün gelen kutumda hiç yeni eposta var mı,email_sendemail,1.0,0.0,False
+16698,tr-TR,email,email_sendemail,annemin e-postasına cevap yaz,email_sendemail,0.7466,0.7466,True
+16701,tr-TR,email,email_sendemail,sarah'ın e-postasını yanıtlamak isterim,social_post,0.9999,0.0,False
+16703,tr-TR,email,email_sendemail,en yakın tarihli emaile yanıt vermek isterim,email_sendemail,1.0,1.0,True
+16712,tr-TR,email,email_query,hiç yeni e-postam var mı,email_sendemail,0.9527,0.0002,False
+16713,tr-TR,email,email_query,lütfen e-postalarımı kontrol et ve bana hiç yeni e-posta olup olmadığını bildir,email_sendemail,1.0,0.0,False
+16717,tr-TR,email,email_sendemail,samet'e izinli olduğumu belirten bir e-posta gönderebilir misin,email_sendemail,1.0,1.0,True
+16719,tr-TR,email,email_query,bana hiç yeni e-posta alıp almadığımı bildir,email_sendemail,1.0,0.0,False
+16729,tr-TR,email,email_sendemail,bob'dan gelen e-postama cevap ver yarın onları göreceğimi söyle,email_sendemail,1.0,1.0,True
+16730,tr-TR,email,email_query,lütfen andy'den gelen yeni e-postayı kontrol edin,social_post,0.9994,0.0,False
+16733,tr-TR,email,email_query,bana amazon'dan gelen en son e-postaları göster,social_post,0.9205,0.0075,False
+16749,tr-TR,email,email_query,bugün benim için hiç yeni e-posta var mı,email_sendemail,0.9954,0.0009,False
+16754,tr-TR,email,email_sendemail,email dikte et,email_sendemail,1.0,1.0,True
+16758,tr-TR,email,email_query,son sefer den beri herhangi bir yeni eposta,email_sendemail,1.0,0.0,False
+16763,tr-TR,email,email_query,son on dakikadaki epostalar,social_post,1.0,0.0,False
+16765,tr-TR,email,email_query,dünkü e-postanın görüşme saati ne kadar,email_sendemail,0.9699,0.004,False
+16766,tr-TR,email,email_query,yeni e-postaları kontrol et,email_sendemail,0.9848,0.0001,False
+16772,tr-TR,email,email_query,ihlalle ilgili tüm epostaları göster,email_sendemail,1.0,0.0,False
+16780,tr-TR,email,email_sendemail,arifyılmaz at gmail nokta com a email gönder,email_sendemail,1.0,1.0,True
+16791,tr-TR,email,email_sendemail,yeni bir email oluştur ama bu kez burak örnek nokta com diye yeni bir adres aldım,email_sendemail,1.0,1.0,True
+16799,tr-TR,email,email_query,öğleden beri hiç e-posta aldım mı,email_sendemail,1.0,0.0,False
+16801,tr-TR,email,email_query,fatma bana tugay hakkında herhangi bir eposta gönderdi mi,email_sendemail,1.0,0.0,False
+16813,tr-TR,email,email_query,john'dan e-posta aldığımda beni sesli olarak uyar,email_sendemail,0.9916,0.0,False
+16814,tr-TR,email,email_query,emailleri kontrol et,email_query,0.6983,0.6983,True
+16838,tr-TR,email,email_sendemail,emaili yeni e-posta kimliği ne gönderebilir misin,email_sendemail,1.0,1.0,True
+16851,tr-TR,email,email_query,e-posta bildirimleri,email_sendemail,1.0,0.0,False
+16859,tr-TR,email,email_query,son e-postamda susan'a ne söyledim,email_sendemail,0.9992,0.0003,False
+16872,tr-TR,email,email_sendemail,naty i benim kişilerimde bul ve email gönder,email_sendemail,1.0,1.0,True
+16873,tr-TR,email,email_sendemail,nefise'ye doğum günü için e-posta gönder,email_sendemail,1.0,1.0,True
+16880,tr-TR,email,email_sendemail,toplantı ile ilgili mehmete email gönder,email_sendemail,1.0,1.0,True
+16883,tr-TR,email,email_sendemail,jerry'ye bu gece kaçta evde olacağını soran bir e-posta gönder,social_post,0.9936,0.0002,False
+16886,tr-TR,email,email_sendemail,bu postayı cevapla,social_post,0.9997,0.0,False
+16888,tr-TR,email,email_query,yeni posta var mı,email_sendemail,1.0,0.0,False
+16890,tr-TR,email,email_query,yeni email ne diyor,email_sendemail,1.0,0.0,False
+16891,tr-TR,email,email_sendemail,burak meriçe gönder ve email,email_sendemail,1.0,1.0,True
+16892,tr-TR,email,email_sendemail,başlat ve john smith'e e-posta gönder,email_sendemail,1.0,1.0,True
+16899,tr-TR,email,email_query,jeffrey burnette'den hiç e-posta aldım mı,email_sendemail,1.0,0.0,False
+16914,tr-TR,email,email_query,bu göndericiden e-postalarım var mı,email_sendemail,1.0,0.0,False
+16916,tr-TR,email,email_sendemail,hey aldığım bir postayı cevapla,social_post,0.9996,0.0001,False
+16924,tr-TR,email,email_query,gmailimde yeni posta olup olmadığını kontrol et,social_post,0.6704,0.0066,False
+16930,tr-TR,email,email_query,son e-postayı göster,email_sendemail,0.8724,0.0002,False
+16938,tr-TR,email,email_sendemail,emrenin epostasını yanıtla,social_post,0.9999,0.0,False
+16944,tr-TR,email,email_sendemail,büyükanneme cumartesi günü uğrayacağız diye bir eposta gönder o zaman görüşürüz,social_post,0.8404,0.0053,False
+16947,tr-TR,email,email_sendemail,e-postayı cevapla,email_sendemail,1.0,1.0,True
+16955,tr-TR,email,email_sendemail,yeni kişiye e-posta at,email_sendemail,1.0,1.0,True
+16956,tr-TR,email,email_sendemail,yeni irtibat kişisine e-posta gönder,email_sendemail,1.0,1.0,True
+16961,tr-TR,email,email_sendemail,ile cevap ver,email_query,1.0,0.0,False
+16974,tr-TR,email,email_query,lütfen gelir vergisi departmanının tüm yeni e-postalarını kontrol edin,email_sendemail,0.9984,0.0012,False
+16987,tr-TR,email,email_query,john'dan gelen herhangi bir yeni e-posta,email_sendemail,0.9999,0.0,False
+16989,tr-TR,email,email_sendemail,lütfen halitin bana gönderdiği epostaya söyle paraya şimdi acil ihtiyacım var,email_sendemail,1.0,1.0,True
+16992,tr-TR,email,email_query,jane doe bana e-posta göndermiş mi,email_sendemail,1.0,0.0,False
+16995,tr-TR,email,email_sendemail,jessica'ya e-posta gönder,email_sendemail,1.0,1.0,True
+17005,tr-TR,email,email_query,lütfen yeni epostaları kontrol et,email_sendemail,0.9988,0.0001,False
+17011,tr-TR,email,email_sendemail,adresine e-posta gönderebilir misin,email_sendemail,1.0,1.0,True
+17015,tr-TR,email,email_sendemail,yanıtı başla,iot_hue_lightoff,0.8406,0.0013,False
+17019,tr-TR,email,email_sendemail,son e-postaya bir yanıt yaz,email_sendemail,1.0,1.0,True
+17020,tr-TR,email,email_sendemail,son alınan e-postayı yanıtla,email_sendemail,0.9963,0.9963,True
+17023,tr-TR,email,email_sendemail,anneme e-posta at ve orada havanın nasıl olduğunu sor,email_sendemail,1.0,1.0,True
+17042,tr-TR,email,email_sendemail,john at gmail nokta com'a bir e-posta yaz,email_sendemail,1.0,1.0,True
+17043,tr-TR,email,email_sendemail,tim at hotmail nokta com a email gönder,email_sendemail,1.0,1.0,True
+17051,tr-TR,email,email_query,bana yeni eposta al,email_sendemail,1.0,0.0,False
+17052,tr-TR,email,email_query,bebek bakıcısı ara,qa_factoid,0.4547,0.0011,False
+17069,tr-TR,email,email_query,outlookta hiç yeni e-postalar var mı,email_sendemail,0.9814,0.0004,False
+17075,tr-TR,email,email_query,bugün saat dörtten sonra alınan yeni bir e-posta var mı,email_sendemail,0.9999,0.0001,False
+17081,tr-TR,email,email_sendemail,yakın zamanda kaydettiğim belgelerle şirket çalışanım için bir e-posta oluştur,email_sendemail,0.9967,0.9967,True
+17087,tr-TR,email,email_query,sertapdan gelen yeni emailleri benim için kontrol et,email_sendemail,1.0,0.0,False
+17098,tr-TR,email,email_query,son saatte alınan e-postaları bana göster,email_sendemail,0.9866,0.0021,False
+17107,tr-TR,email,email_query,yeni epostaları kontrol et,social_post,0.7356,0.0004,False
+17108,tr-TR,email,email_query,bana en sondaki emaili ver,email_sendemail,1.0,0.0,False
+17113,tr-TR,email,email_sendemail,yulia ya e-posta gönder,email_sendemail,1.0,1.0,True
+17115,tr-TR,email,email_query,yeni e-postaların listesini oku,lists_remove,0.8523,0.0012,False
+17116,tr-TR,email,email_query,son e-postalar ı göster,play_podcasts,0.718,0.0004,False
+17119,tr-TR,email,email_query,amazon'dan gelen herhangi bir postayı kontrol et,play_podcasts,0.5152,0.0013,False
+17123,tr-TR,email,email_sendemail,bölgesel başkan yardımcısı için email oluştur,email_sendemail,1.0,1.0,True
+17135,tr-TR,email,email_query,hiç şimşek haberleriyle ilgili email var mı,email_sendemail,1.0,0.0,False
+17136,tr-TR,email,email_query,lütfen emaillerimi oku,email_sendemail,1.0,0.0,False
+17138,tr-TR,email,email_query,lütfen okunan mesajlarımı arşivle,email_sendemail,0.9315,0.0009,False
+17142,tr-TR,email,email_query,en son baktığımızdan beri gelen kutumda ne var,qa_factoid,0.2732,0.0315,False
+17143,tr-TR,email,email_sendemail,hey cana mail gönder,email_sendemail,1.0,1.0,True
+17144,tr-TR,email,email_query,hey maili kontrol et,email_sendemail,1.0,0.0,False
+17147,tr-TR,email,email_sendemail,maile şöyle cevap ver merhaba,email_sendemail,1.0,1.0,True
+17148,tr-TR,email,email_sendemail,alexa aşağıdaki içerikle postayı yanıtla merhaba,social_post,0.9981,0.0001,False
+17151,tr-TR,email,email_sendemail,arkadaşım can bana yeni aldığı evine bir davetiye gönderdi email kimliğinden ona teşekkürler de,email_sendemail,1.0,1.0,True
+17156,tr-TR,email,email_query,can'dan gelen yeni bir e-posta için e-postamı kontrol et,email_sendemail,0.9228,0.0319,False
+17157,tr-TR,email,email_query,berkten hiç yeni bir emailim var mı,email_sendemail,1.0,0.0,False
+17170,tr-TR,email,email_query,yusuf bana eposta gönderdiğinde bana haber ver,email_sendemail,1.0,0.0,False
+17179,tr-TR,email,email_query,eser bana bir email gönderdi mi,email_sendemail,1.0,0.0,False

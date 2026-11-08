@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,pt-PT,iot,iot_hue_lightoff,alexa desliga as luzes no quarto,iot_hue_lightoff,0.9999,0.9999,True
+47,pt-PT,datetime,datetime_query,que horas são na austrália,weather_query,0.756,0.0002,False
+85,pt-PT,datetime,datetime_query,diz-me a data de hoje,qa_factoid,0.1805,0.0518,False
+86,pt-PT,datetime,datetime_query,qual a data de hoje,news_query,0.5942,0.0537,False
+100,pt-PT,weather,weather_query,qual a previsão do tempo da semana,weather_query,0.9767,0.9767,True
+102,pt-PT,weather,weather_query,qual é o tempo para esta semana,calendar_remove,0.4629,0.0843,False
+103,pt-PT,weather,weather_query,diz me o tempo esta semana,weather_query,0.974,0.974,True
+128,pt-PT,datetime,datetime_query,que data é,qa_factoid,0.66,0.0441,False
+151,pt-PT,play,play_music,toca a novamente por favor,qa_factoid,0.8367,0.0048,False
+177,pt-PT,news,news_query,contar-me algumas notícias de negócios,news_query,0.9742,0.9742,True
+178,pt-PT,news,news_query,diga me as notícias internacionais,news_query,0.863,0.863,True
+182,pt-PT,play,play_music,toca a minha lista de reprodução de rock,lists_remove,0.9521,0.043,False
+185,pt-PT,play,play_music,tocar minha playlist e tocar a terceira música na fila,play_music,1.0,1.0,True
+197,pt-PT,datetime,datetime_query,que horas são,qa_factoid,0.9423,0.0022,False
+216,pt-PT,weather,weather_query,como está o tempo hoje,weather_query,0.995,0.995,True
+219,pt-PT,weather,weather_query,devo levar guarda-chuva amanhã,lists_remove,0.3854,0.0142,False
+220,pt-PT,play,play_music,lista de rock,lists_query,0.9927,0.0,False
+250,pt-PT,play,play_music,apetece-me jazz agora mesmo e a ti,play_music,0.9959,0.9959,True
+254,pt-PT,play,play_music,olly toca uma faixa bom do meu músico de jazz favorito,play_music,1.0,1.0,True
+279,pt-PT,weather,weather_query,qual é a previsão de tempo de hoje em coimbra,weather_query,0.9993,0.9993,True
+281,pt-PT,news,news_query,qual a taxa de câmbio do dólar americano para a libra esterlina,qa_factoid,0.9999,0.0,False
+296,pt-PT,play,play_music,toca a playlist dos xutos e pontapés,play_music,0.9965,0.9965,True
+297,pt-PT,play,play_music,embaralhar as músicas dos capitães de areia,play_music,0.9995,0.9995,True
+299,pt-PT,weather,weather_query,como está o tempo,weather_query,0.7587,0.7587,True
+310,pt-PT,datetime,datetime_query,em que dia calha a véspera de ano novo este ano,weather_query,0.9773,0.0007,False
+319,pt-PT,weather,weather_query,diz me o tempo em barcelona daqui a dois dias,weather_query,0.9968,0.9968,True
+329,pt-PT,play,play_music,hoje,qa_factoid,0.7759,0.0037,False
+333,pt-PT,weather,weather_query,qual é a condição do tempo em lisboa,qa_factoid,1.0,0.0,False
+334,pt-PT,weather,weather_query,queria saber o tempo para o porto,weather_query,0.9997,0.9997,True
+344,pt-PT,weather,weather_query,vai estar chuvoso amanhã,weather_query,0.9983,0.9983,True
+348,pt-PT,weather,weather_query,vai estar chuva amanhã,weather_query,0.9994,0.9994,True
+355,pt-PT,datetime,datetime_query,em que dia calha o primeiro de abril,qa_factoid,0.7978,0.0014,False
+360,pt-PT,datetime,datetime_query,que horas são agora,weather_query,0.9725,0.0006,False
+362,pt-PT,play,play_music,toca a segunda música da música de marco paulo,play_music,1.0,1.0,True
+366,pt-PT,news,news_query,conta-me as últimas notícias,news_query,0.9891,0.9891,True
+369,pt-PT,iot,iot_hue_lightoff,desligar as luzes,iot_hue_lightoff,0.9984,0.9984,True
+385,pt-PT,news,news_query,o que é sensacional no jornal de lisboa,news_query,0.9993,0.9993,True
+391,pt-PT,play,play_music,toca uma música aleatória da minha playlist,play_music,1.0,1.0,True
+393,pt-PT,play,play_music,toca uma música retro da minha playlist,play_music,0.9999,0.9999,True
+397,pt-PT,play,play_music,toca qualquer música da ana moura,play_music,1.0,1.0,True
+400,pt-PT,play,play_music,começa a jogar,play_music,0.8972,0.8972,True
+407,pt-PT,play,play_music,podes tocar música rock na próxima hora,play_music,0.9998,0.9998,True
+424,pt-PT,news,news_query,quais são as notícias de última hora,news_query,0.9998,0.9998,True
+427,pt-PT,iot,iot_hue_lightoff,desligar as luzes na casa de banho,iot_hue_lightoff,0.9981,0.9981,True
+428,pt-PT,iot,iot_hue_lightoff,desligar as luzes da casa de banho,iot_hue_lightoff,0.9984,0.9984,True
+430,pt-PT,weather,weather_query,como está o tempo neste agora,weather_query,0.937,0.937,True
+437,pt-PT,play,play_music,abrir a pasta punksinatra,qa_factoid,0.9773,0.0001,False
+441,pt-PT,news,news_query,quais são as últimas manchetes de notícias,news_query,0.9897,0.9897,True
+442,pt-PT,news,news_query,o que está a acontecer nas notícias,news_query,0.9999,0.9999,True
+451,pt-PT,news,news_query,obter-me o último preço da acção da galp,recommendation_events,0.6445,0.0005,False
+473,pt-PT,play,play_music,toca eu tenho dois amores,social_post,0.5745,0.01,False
+486,pt-PT,datetime,datetime_query,que horas são em nova iorque,weather_query,0.9975,0.0003,False
+491,pt-PT,weather,weather_query,está frio lá fora,weather_query,0.9506,0.9506,True
+506,pt-PT,play,play_music,abrir músicas de marco paulo,play_music,0.9926,0.9926,True
+512,pt-PT,weather,weather_query,de marco paulo,social_post,0.7034,0.0095,False
+540,pt-PT,play,play_music,toca a música sung da katy perry,play_music,1.0,1.0,True
+555,pt-PT,play,play_music,tocar boss a. c. que deus,qa_factoid,1.0,0.0,False
+576,pt-PT,play,play_music,tocar tudo por lista de reprodução,play_music,0.4478,0.4478,True
+585,pt-PT,news,news_query,mostrar últimas notícias,news_query,0.9882,0.9882,True
+588,pt-PT,news,news_query,quais são as últimas notícias de hoje,news_query,0.9991,0.9991,True
+590,pt-PT,weather,weather_query,qual é o tempo atual,qa_factoid,0.6824,0.0044,False
+614,pt-PT,play,play_music,inicia playlist,play_music,0.9825,0.9825,True
+625,pt-PT,play,play_music,baía de cascais,qa_factoid,0.6604,0.0114,False
+631,pt-PT,news,news_query,definir notificação para notícias sobre o diogo morgado,qa_definition,0.8877,0.0535,False
+651,pt-PT,iot,iot_hue_lightoff,desligar luzes do quarto,iot_hue_lightoff,0.9999,0.9999,True
+660,pt-PT,datetime,datetime_query,hora atual no japão,weather_query,0.9971,0.0001,False
+680,pt-PT,news,news_query,mantenha-me informado sobre o preço da bitcoin,qa_factoid,0.9945,0.0002,False
+686,pt-PT,datetime,datetime_query,que horas são agora em nova york,weather_query,0.9975,0.0002,False
+712,pt-PT,news,news_query,eu quero ouvir as últimas notícias do r. p. t,news_query,0.9628,0.9628,True
+726,pt-PT,weather,weather_query,resumir os detalhes do tempo da semana,weather_query,0.6319,0.6319,True
+730,pt-PT,iot,iot_hue_lightoff,apagar as luzes,iot_hue_lightoff,0.9859,0.9859,True
+738,pt-PT,weather,weather_query,o quão frio está lá fora hoje,weather_query,0.9979,0.9979,True
+764,pt-PT,weather,weather_query,qual é a previsão de tempo para esta semana,weather_query,0.9989,0.9989,True
+765,pt-PT,news,news_query,poderia por favor dar-me notícias actualizadas do meu mais recente fornecedor,news_query,0.9692,0.9692,True
+767,pt-PT,news,news_query,podes encontrar-me as notícias mais recentes de uma fonte que não costumo consultar,news_query,0.9118,0.9118,True
+768,pt-PT,news,news_query,conte-me sobre as últimas notícias políticas,news_query,0.9103,0.9103,True
+779,pt-PT,play,play_music,quero ouvir força dos da weasel,play_music,0.9669,0.9669,True
+781,pt-PT,play,play_music,põe gravidade,qa_factoid,0.7971,0.0011,False
+782,pt-PT,play,play_music,toca ainda bem da mariza monte,qa_factoid,0.9669,0.001,False
+783,pt-PT,play,play_music,toca músicas românticas,play_music,1.0,1.0,True
+790,pt-PT,weather,weather_query,tempo ameno ou puxado,weather_query,0.9947,0.9947,True
+826,pt-PT,weather,weather_query,qual a atual temperatura la fora,qa_factoid,0.9592,0.016,False
+827,pt-PT,play,play_music,põe a playlist do marco paulo,play_music,0.9996,0.9996,True
+832,pt-PT,weather,weather_query,ei qual será a previsão do tempo para amanhã,weather_query,0.9967,0.9967,True
+837,pt-PT,news,news_query,quais são as pesquisas da s. i. c. de previsões para as próximas eleições portuguesas,qa_factoid,0.1499,0.0896,False
+891,pt-PT,play,play_music,toca alguma música cristã,play_music,1.0,1.0,True
+914,pt-PT,iot,iot_hue_lightoff,desliga as luzes,iot_hue_lightoff,0.9961,0.9961,True
+936,pt-PT,play,play_music,abre e toca a playlist de corrida,play_music,1.0,1.0,True
+951,pt-PT,weather,weather_query,como está o tempo no porto agora,weather_query,0.9864,0.9864,True
+969,pt-PT,news,news_query,novos artigos sobre um tema específico,news_query,0.9927,0.9927,True
+974,pt-PT,datetime,datetime_query,que horas são em lisboa agora,weather_query,0.998,0.0001,False
+997,pt-PT,iot,iot_hue_lightoff,desligar as luzes da sala comum,iot_hue_lightoff,0.9981,0.9981,True
+999,pt-PT,iot,iot_hue_lightoff,desligar a luz,iot_hue_lightoff,0.9988,0.9988,True
+1007,pt-PT,play,play_music,toca pólo norte da minha playlist de rock,play_music,0.6276,0.6276,True
+1014,pt-PT,datetime,datetime_query,que horas são em lisboa neste momento,weather_query,0.997,0.0002,False
+1047,pt-PT,play,play_music,preciso de chorar toca canções tristes de rock,play_music,0.9999,0.9999,True
+1061,pt-PT,news,news_query,actualizem-me sobre notícias desportivas,social_post,0.9818,0.005,False
+1063,pt-PT,news,news_query,receber notificações de hora em hora sobre desporto,weather_query,0.7016,0.026,False
+1084,pt-PT,news,news_query,fácil de usar,qa_factoid,0.9137,0.0017,False
+1093,pt-PT,news,news_query,vai ao sítio do jornal i,social_post,0.9903,0.0002,False
+1098,pt-PT,datetime,datetime_query,em que dia calha o dia quinze de março,weather_query,0.9988,0.0001,False
+1108,pt-PT,play,play_music,o que eu quero é ouvir alguma música country,play_music,1.0,1.0,True
+1115,pt-PT,play,play_music,ordena todos os géneros de música pop,play_music,0.3356,0.3356,True
+1120,pt-PT,news,news_query,há algo especial na política,qa_factoid,0.9317,0.0001,False
+1121,pt-PT,play,play_music,toca eco de carolina deslandes,qa_factoid,0.988,0.0001,False
+1123,pt-PT,play,play_music,a seguir toca pimba pimba de emanuel,play_music,1.0,1.0,True
+1124,pt-PT,play,play_music,coloca tudo vai passar da rita guerra para tocar a seguir,play_music,0.9997,0.9997,True
+1127,pt-PT,play,play_music,toca todas músicas em modo aleatório,play_music,0.9999,0.9999,True
+1144,pt-PT,play,play_music,preciso de algum rap,play_music,0.9972,0.9972,True
+1148,pt-PT,datetime,datetime_query,qual é a hora em sydney agora,weather_query,0.9993,0.0002,False
+1156,pt-PT,news,news_query,última notícia do dia internacional da mulher,news_query,0.9786,0.9786,True
+1160,pt-PT,weather,weather_query,quão frio vai estar cada noite de esta semana,weather_query,0.9991,0.9991,True
+1180,pt-PT,news,news_query,encontre os artigos de hoje da s. i. c. sobre marcelo rebelo de sousa,recommendation_events,0.4945,0.0022,False
+1202,pt-PT,datetime,datetime_query,hora atual em nova iorque,weather_query,0.9977,0.0002,False
+1238,pt-PT,play,play_music,pandora,qa_factoid,0.1403,0.0391,False
+1249,pt-PT,weather,weather_query,como o tempo estará provavelmente esta semana,weather_query,0.995,0.995,True
+1252,pt-PT,datetime,datetime_query,diz-me as horas atuais,weather_query,0.9267,0.004,False
+1294,pt-PT,news,news_query,faça um resumo das notícias sobre o globo de ouro,news_query,0.7559,0.7559,True
+1301,pt-PT,news,news_query,falar-me sobre a nova política externa de antónio costa,calendar_remove,0.0888,0.0451,False
+1308,pt-PT,weather,weather_query,dá me a previsão de tempo para hoje aqui,weather_query,0.9954,0.9954,True
+1318,pt-PT,play,play_music,abrir o app de música e tocar uma música para mim,play_music,1.0,1.0,True
+1351,pt-PT,weather,weather_query,vai estar agradável lá fora esta semana,weather_query,0.4945,0.4945,True
+1371,pt-PT,news,news_query,o que temos na primeira página do expresso,qa_factoid,0.3498,0.0192,False
+1377,pt-PT,iot,iot_hue_lightoff,por favor desligue as luzes no quarto do meu filho,iot_hue_lightoff,0.9984,0.9984,True
+1400,pt-PT,weather,weather_query,eu presto atenção quase sempre,qa_factoid,0.8846,0.0041,False
+1401,pt-PT,weather,weather_query,eu presto atenção ocasionalmente,iot_hue_lightoff,0.4938,0.0109,False
+1404,pt-PT,weather,weather_query,por favor posso ver o tempo para amanhã aqui em lisboa,weather_query,0.9995,0.9995,True
+1423,pt-PT,news,news_query,fale-me sobre marcelo rebelo de sousa,social_post,0.8567,0.0016,False
+1425,pt-PT,news,news_query,avise-me quando houver notícias da frança,news_query,0.84,0.84,True
+1440,pt-PT,play,play_music,toca as mais recentes canções rock com classificação de quatro ou acima,play_podcasts,0.7315,0.2663,False
+1449,pt-PT,datetime,datetime_query,quando é a páscoa no ano de dois mil e dezoito,weather_query,0.9774,0.0137,False
+1458,pt-PT,weather,weather_query,quão quente está o tempo no porto,weather_query,0.9981,0.9981,True
+1467,pt-PT,play,play_music,toque madredeus,qa_factoid,1.0,0.0,False
+1474,pt-PT,news,news_query,quais são as notícias desportivas de hoje,news_query,0.6384,0.6384,True
+1489,pt-PT,play,play_music,tocar as músicas mais recentes do marco paulo,play_music,0.9957,0.9957,True
+1513,pt-PT,weather,weather_query,qual é a temperatura lá fora,weather_query,0.8578,0.8578,True
+1533,pt-PT,news,news_query,o que aconteceu nas notícias da c. n. n. hoje,news_query,0.9998,0.9998,True
+1537,pt-PT,datetime,datetime_query,mostra me as horas agora na alemanha,weather_query,0.9994,0.0001,False
+1542,pt-PT,weather,weather_query,o sol está a brilhar vai manter se assim o resto do dia,weather_query,0.9843,0.9843,True
+1546,pt-PT,play,play_music,põe a playlist para treinar,play_music,0.9963,0.9963,True
+1547,pt-PT,weather,weather_query,qual é o tempo para a minha localização esta semana,weather_query,0.928,0.928,True
+1549,pt-PT,weather,weather_query,vai chover esta semana,weather_query,0.924,0.924,True
+1554,pt-PT,iot,iot_hue_lightoff,desligue as lâmpadas,iot_hue_lightoff,0.9922,0.9922,True
+1581,pt-PT,datetime,datetime_query,qual é o mês e o ano atuais,datetime_query,0.9958,0.9958,True
+1589,pt-PT,weather,weather_query,vai estar solarengo na próxima terça-feira,weather_query,0.9954,0.9954,True
+1593,pt-PT,news,news_query,estabelecer notificação para notícias internacionais,news_query,0.6573,0.6573,True
+1594,pt-PT,news,news_query,podes dizer-me as noticias mais recentes,news_query,0.9503,0.9503,True
+1607,pt-PT,datetime,datetime_query,diz-me as horas atuais em los angeles,weather_query,0.9959,0.0001,False
+1617,pt-PT,news,news_query,ao sair um novo tópico sobre política alerte-me,social_post,0.9881,0.0004,False
+1636,pt-PT,news,news_query,mostre-me as últimas notícias do correio da manhã,social_post,0.64,0.0059,False
+1653,pt-PT,weather,weather_query,quando vai ser a próxima vez a estar chuva,weather_query,0.9914,0.9914,True
+1655,pt-PT,weather,weather_query,vai haver neve amanhã ao meio-dia,weather_query,0.9983,0.9983,True
+1666,pt-PT,news,news_query,quais são as notícias sobre a soclean nas últimas seis horas,news_query,0.9993,0.9993,True
+1671,pt-PT,play,play_music,toca apenas toda a música lançada entre mil novecentos e noventa e dois mil,play_music,0.9997,0.9997,True
+1683,pt-PT,weather,weather_query,a temperatura de amanhã será quente sim ou ão,weather_query,0.9992,0.9992,True
+1684,pt-PT,weather,weather_query,sim ou não a temperatura estrá quente amanhã,weather_query,0.9985,0.9985,True
+1692,pt-PT,play,play_music,encontra me jazz suave,play_music,0.9931,0.9931,True
+1722,pt-PT,weather,weather_query,qual é a temperatura mínima no porto,qa_factoid,0.9803,0.0105,False
+1750,pt-PT,iot,iot_hue_lightoff,desligar todas as luzes,iot_hue_lightoff,0.9997,0.9997,True
+1759,pt-PT,news,news_query,conte-me notícias do presidente marcelo,news_query,0.9941,0.9941,True
+1760,pt-PT,news,news_query,últimas notícias sobre terrorismo,news_query,0.9353,0.9353,True
+1777,pt-PT,play,play_music,próxima música,play_music,0.9997,0.9997,True
+1784,pt-PT,iot,iot_hue_lightoff,desligar na sala de jantar,iot_hue_lightoff,0.9961,0.9961,True
+1786,pt-PT,iot,iot_hue_lightoff,desligar no quarto principal,iot_hue_lightoff,0.9868,0.9868,True
+1794,pt-PT,news,news_query,irá marcelo rebelo de sousa visitar a rússia em breve,social_post,0.8267,0.0005,False
+1796,pt-PT,datetime,datetime_query,data hoje,calendar_remove,0.2571,0.1813,False
+1803,pt-PT,news,news_query,que equipas estão hoje a jogar na liga nós,qa_factoid,0.9872,0.0003,False
+1811,pt-PT,play,play_music,inicia a playlist e reproduz música,play_music,1.0,1.0,True
+1832,pt-PT,play,play_music,toca um álbum dos delfins,play_music,0.9621,0.9621,True
+1833,pt-PT,play,play_music,podes tocar a playlist temas em repetição,play_music,0.9998,0.9998,True
+1866,pt-PT,weather,weather_query,previsão de tempo agora,weather_query,0.2996,0.2996,True
+1870,pt-PT,datetime,datetime_query,que mês é hoje,qa_factoid,0.7379,0.2548,False
+1904,pt-PT,news,news_query,conseguir-me notícias em destaque dos jogos,news_query,0.9977,0.9977,True
+1933,pt-PT,weather,weather_query,vai haver uma queda da temperatura hoje de noite,weather_query,0.9989,0.9989,True
+1940,pt-PT,play,play_music,tocar a música título,play_music,0.9999,0.9999,True
+1962,pt-PT,play,play_music,olá google toca a playlist maluca na minha aplicação itunes,play_music,0.8088,0.8088,True
+1994,pt-PT,play,play_music,podes abrir o meu itunes,iot_hue_lightoff,0.6967,0.0057,False
+1995,pt-PT,play,play_music,toca marco paulo,qa_factoid,0.2878,0.0138,False
+2007,pt-PT,play,play_music,toca a nasce selvagem por favor,qa_factoid,0.9978,0.0,False
+2062,pt-PT,play,play_music,quero alguma música jazz para tocar,play_music,0.9997,0.9997,True
+2085,pt-PT,play,play_music,alexa queria ouvir qualquer música clássica à exceção de bach e schubert,play_music,0.9992,0.9992,True
+2098,pt-PT,news,news_query,o que está a acontecer no mundo esses dias,news_query,0.8933,0.8933,True
+2108,pt-PT,play,play_music,toca na cabana junto à praia a seguir,qa_factoid,0.6833,0.0045,False
+2113,pt-PT,recommendation,recommendation_events,diz me todos os eventos a decorrer na minha cidade natal,lists_query,0.6018,0.0856,False
+2146,pt-PT,datetime,datetime_query,qual a data do solstício de inverno daqui a dois anos,news_query,0.5099,0.1511,False
+2156,pt-PT,datetime,datetime_query,que horas são,qa_factoid,0.9423,0.0022,False
+2160,pt-PT,iot,iot_hue_lightoff,vou dormir agora desliga as luzes,iot_hue_lightoff,0.9981,0.9981,True
+2178,pt-PT,weather,weather_query,qual é a condição do tempo atual na minha cidade,qa_factoid,0.9705,0.0221,False
+2198,pt-PT,datetime,datetime_query,em que dia da semana foi dia quatro de dezembro de mil novecentos e oitenta e dois,weather_query,0.9474,0.0493,False
+2201,pt-PT,news,news_query,manchetes da sic,qa_factoid,0.6545,0.0011,False
+2203,pt-PT,news,news_query,manchetes do euronews,social_post,0.6272,0.002,False
+2220,pt-PT,weather,weather_query,tempo no porto,qa_factoid,0.8446,0.0079,False
+2225,pt-PT,play,play_music,toca andorinhas de ana moura,social_post,0.8,0.0054,False
+2230,pt-PT,iot,iot_hue_lightoff,desligar a luz da cozinha,iot_hue_lightoff,0.8142,0.8142,True
+2237,pt-PT,news,news_query,leia para mim a última notícia internacional,news_query,0.9926,0.9926,True
+2258,pt-PT,weather,weather_query,preciso de uma camisola hoje,lists_remove,0.5052,0.0273,False
+2265,pt-PT,weather,weather_query,diz me o tempo que está a fazer no porto neste momento,weather_query,0.4456,0.4456,True
+2271,pt-PT,play,play_music,por favor toca músicas que comprei e que coloquei nas favoritas,play_music,0.9999,0.9999,True
+2296,pt-PT,news,news_query,manter-me actualizado com os resultados da liga nós de hoje,news_query,0.5211,0.5211,True
+2298,pt-PT,iot,iot_hue_lightoff,desligar as luzes agora,iot_hue_lightoff,0.9993,0.9993,True
+2315,pt-PT,news,news_query,quais são as notícias de hoje,news_query,0.9998,0.9998,True
+2316,pt-PT,news,news_query,alexa lê-me as manchetes das noticias,news_query,0.9809,0.9809,True
+2320,pt-PT,weather,weather_query,qual é o tempo para esta sexta-feira,calendar_remove,0.8416,0.0347,False
+2322,pt-PT,weather,weather_query,como está o tempo para amanhã,weather_query,0.9974,0.9974,True
+2330,pt-PT,datetime,datetime_query,mostra as horas em londres neste momento,weather_query,0.999,0.0001,False
+2384,pt-PT,news,news_query,o que está a acontecer ao redor do mundo,social_post,0.6672,0.2672,False
+2386,pt-PT,news,news_query,dá-me as notícias mais recentes,news_query,0.991,0.991,True
+2396,pt-PT,play,play_music,começa músicas de marco paulo,play_music,1.0,1.0,True
+2408,pt-PT,play,play_music,procura mais músicas de marco paulo,play_music,0.9761,0.9761,True
+2412,pt-PT,datetime,datetime_query,podes dizer me as horas em londres,weather_query,0.9993,0.0002,False
+2423,pt-PT,weather,weather_query,por favor dá me a previsão de tempo de hoje para o porto,weather_query,0.9988,0.9988,True
+2438,pt-PT,news,news_query,enviar notícias sobre tecnologia,news_query,0.9943,0.9943,True
+2441,pt-PT,iot,iot_hue_lightoff,desligar luz da cabana,iot_hue_lightoff,0.9993,0.9993,True
+2472,pt-PT,datetime,datetime_query,está a hora atualmente correta para onde estou localizado,weather_query,0.9987,0.0001,False
+2496,pt-PT,news,news_query,noticias diárias,news_query,0.9998,0.9998,True
+2497,pt-PT,datetime,datetime_query,que data é hoje,qa_factoid,0.2222,0.1557,False
+2498,pt-PT,datetime,datetime_query,siri que data é hoje,news_query,0.6643,0.0121,False
+2527,pt-PT,play,play_music,põe rock clássico,play_music,0.9911,0.9911,True
+2531,pt-PT,play,play_music,alexa põe uma música de rap e rock uma a seguir à outra,play_music,1.0,1.0,True
+2545,pt-PT,weather,weather_query,como está o tempo,weather_query,0.7587,0.7587,True
+2548,pt-PT,news,news_query,alguma coisa interessante no jornal da noite,cooking_recipe,0.6146,0.0182,False
+2560,pt-PT,play,play_music,toca música aleatória,play_music,1.0,1.0,True
+2573,pt-PT,play,play_music,toque meu spotify album dança,play_podcasts,0.7398,0.1984,False
+2578,pt-PT,iot,iot_hue_lightoff,desliga a luz da entrada de casa,iot_hue_lightoff,0.9982,0.9982,True
+2588,pt-PT,news,news_query,quais são as últimas notícias da c. n. n. por favor,news_query,0.999,0.999,True
+2594,pt-PT,news,news_query,fale-me sobre as últimas notícias do meio ambiente,news_query,0.9936,0.9936,True
+2605,pt-PT,play,play_music,tocar a minha música favorita agora,play_music,0.9999,0.9999,True
+2611,pt-PT,weather,weather_query,previsão de tempo atual,iot_hue_lightoff,0.2742,0.2404,False
+2615,pt-PT,weather,weather_query,vou precisar de usar casaco na próxima quarta-feira,lists_remove,0.3682,0.0359,False
+2638,pt-PT,news,news_query,mostre-me as notícias sobre o marcelo,social_post,0.9685,0.0305,False
+2639,pt-PT,news,news_query,mostrar notícias do meio ambiente,news_query,0.9821,0.9821,True
+2651,pt-PT,news,news_query,últimas notícias da zona,news_query,0.9967,0.9967,True
+2678,pt-PT,weather,weather_query,está a chover esta noite,weather_query,0.9953,0.9953,True
+2679,pt-PT,weather,weather_query,a temperatura ficará a mesma ou ficará mais baixa,weather_query,0.929,0.929,True
+2703,pt-PT,play,play_music,toca música folclore,play_music,0.9999,0.9999,True
+2704,pt-PT,play,play_music,vamos ouvir algum hip hop tuga ok,play_music,0.9999,0.9999,True
+2708,pt-PT,play,play_music,olly apetece me dançar põe para mim algum rock and roll,cooking_recipe,0.9838,0.0136,False
+2709,pt-PT,play,play_music,olly preciso de ouvir algumas músicas tristes hoje,play_music,0.9999,0.9999,True
+2711,pt-PT,iot,iot_hue_lightoff,desligar as luzes,iot_hue_lightoff,0.9984,0.9984,True
+2717,pt-PT,play,play_music,quero ouvir eu tenho dois amores,social_post,0.7683,0.1026,False
+2724,pt-PT,news,news_query,dá me notícias da sic,news_query,0.9979,0.9979,True
+2770,pt-PT,play,play_music,olly toca música do género jazz,play_music,1.0,1.0,True
+2774,pt-PT,iot,iot_hue_lightoff,desliga luzes,iot_hue_lightoff,0.9968,0.9968,True
+2775,pt-PT,iot,iot_hue_lightoff,descontinuar o uso das luzes,iot_hue_lightoff,0.9997,0.9997,True
+2777,pt-PT,weather,weather_query,devo levar guarda-chuva hoje,lists_remove,0.4341,0.0223,False
+2781,pt-PT,play,play_music,por favor põe música jazz,play_music,1.0,1.0,True
+2798,pt-PT,play,play_music,alexa toca a música além do arco íris,play_music,1.0,1.0,True
+2801,pt-PT,datetime,datetime_query,que horas são em lisboa,weather_query,0.9976,0.0001,False
+2824,pt-PT,datetime,datetime_query,em que dia calha o dia treze de dezembro,weather_query,0.9976,0.0006,False
+2840,pt-PT,datetime,datetime_query,o dia dois do próximo mês calha em que dia,weather_query,0.9952,0.0009,False
+2859,pt-PT,datetime,datetime_query,olly que horas são nessa cidade,weather_query,0.9824,0.0003,False
+2887,pt-PT,news,news_query,por favor mostrar qualquer artigo sobre o tempo no jornal da manhã,news_query,0.9907,0.9907,True
+2890,pt-PT,weather,weather_query,tempo de momento,datetime_query,0.9927,0.0003,False
+2898,pt-PT,news,news_query,há alguma atualização acerca das eleições,news_query,0.5178,0.5178,True
+2914,pt-PT,datetime,datetime_query,diz-me que data é hoje,news_query,0.3129,0.0825,False
+2917,pt-PT,weather,weather_query,reporte semanal do tempo,news_query,0.3338,0.0318,False
+2921,pt-PT,news,news_query,quais são as notícias no sítio do jornal i,news_query,1.0,1.0,True
+2927,pt-PT,datetime,datetime_query,que horas são em austin,weather_query,0.9967,0.0002,False
+2931,pt-PT,play,play_music,toca os índios da meia praia a seguir,social_post,0.9981,0.0001,False
+2962,pt-PT,play,play_music,por favor toca uma música de marco paulo,play_music,1.0,1.0,True
+2965,pt-PT,iot,iot_hue_lightoff,desligar as luzes do escritório,iot_hue_lightoff,0.9989,0.9989,True
+3002,pt-PT,play,play_music,toca canções da banda the beatles,play_music,0.9998,0.9998,True
+3031,pt-PT,play,play_music,quero ouvir a música novamente,play_music,0.9999,0.9999,True
+3034,pt-PT,weather,weather_query,diz me a temperatura,weather_query,0.4635,0.4635,True
+3037,pt-PT,news,news_query,artigos de notícias na primeira página por favor,news_query,0.9969,0.9969,True
+3039,pt-PT,news,news_query,o que há de novo nas noticias,news_query,0.999,0.999,True
+3060,pt-PT,news,news_query,quais são as notícias daquela nova fonte de notícias,news_query,0.9997,0.9997,True
+3091,pt-PT,datetime,datetime_query,que horas são no fuso horário pacífico padrão,qa_factoid,0.5029,0.0021,False
+3096,pt-PT,weather,weather_query,como está o tempo em évora,iot_hue_lightoff,0.4421,0.1183,False
+3098,pt-PT,iot,iot_hue_lightoff,desligar as luzes,iot_hue_lightoff,0.9984,0.9984,True
+3099,pt-PT,news,news_query,mostra-me alguns eventos atuais,news_query,0.5858,0.5858,True
+3101,pt-PT,news,news_query,olly liga o noticiário,play_radio,0.937,0.051,False
+3116,pt-PT,play,play_music,toca a minha canção favorita do ano passado,play_music,0.9999,0.9999,True
+3117,pt-PT,play,play_music,toca qualquer coisa do álbum hopes and fears do keane,play_music,0.9678,0.9678,True
+3118,pt-PT,datetime,datetime_query,qual é a hora em est neste momento,weather_query,0.9926,0.0055,False
+3124,pt-PT,play,play_music,toca uma música da minha playlist aleatoriamente,play_music,1.0,1.0,True
+3146,pt-PT,play,play_music,toca a faixa um da minha playlist de antónio variações,play_music,0.9998,0.9998,True
+3167,pt-PT,iot,iot_hue_lightoff,desligar as luzes do meu quarto,iot_hue_lightoff,0.999,0.999,True
+3174,pt-PT,play,play_music,toca playlist de música,play_music,1.0,1.0,True
+3205,pt-PT,play,play_music,toca chamar a música de sara tavares,play_music,1.0,1.0,True
+3207,pt-PT,play,play_music,toca poker face da lady gaga,qa_factoid,0.9884,0.0004,False
+3212,pt-PT,calendar,calendar_set,lembrar me de fazer algo na altura,cooking_recipe,0.9827,0.0002,False
+3214,pt-PT,news,news_query,qual é o estado actual dos casos de covid em portugal,qa_factoid,0.2964,0.0261,False
+3228,pt-PT,datetime,datetime_query,em que dia da semana calha o natal este ano,weather_query,0.5879,0.0065,False
+3253,pt-PT,weather,weather_query,devemos esperar chuva esta tarde,weather_query,0.9987,0.9987,True
+3264,pt-PT,play,play_music,põe música reggae,play_music,0.9992,0.9992,True
+3305,pt-PT,weather,weather_query,qual é o tempo esta semana em miami,weather_query,0.9981,0.9981,True
+3306,pt-PT,weather,weather_query,qual é a previsão de tempo para esta semana,weather_query,0.9989,0.9989,True
+3329,pt-PT,news,news_query,quero ver as notícias,news_query,0.9998,0.9998,True
+3337,pt-PT,weather,weather_query,reporte o tempo trinta e três mil setecentos e setenta e quarto,datetime_query,0.9826,0.001,False
+3338,pt-PT,weather,weather_query,previsão de tempo em lagos,weather_query,0.9961,0.9961,True
+3361,pt-PT,datetime,datetime_query,qual é a data da próxima terça-feira,lists_query,0.4646,0.0681,False
+3378,pt-PT,iot,iot_hue_lightoff,sem luzes na cozinha,iot_hue_lightoff,0.954,0.954,True
+3386,pt-PT,iot,iot_hue_lightoff,diminui as luzes para médio,iot_hue_lightoff,0.9997,0.9997,True
+3400,pt-PT,play,play_music,toca uma versão ao vivo do josé cid,iot_hue_lightoff,0.7197,0.0077,False
+3401,pt-PT,play,play_music,põe a música mais popular do marco paulo,play_music,1.0,1.0,True
+3406,pt-PT,weather,weather_query,qual é o dia dez de forecast,weather_query,0.979,0.979,True
+3407,pt-PT,weather,weather_query,existem algumas previsões de chuva ou neve esta semana,weather_query,0.9982,0.9982,True
+3408,pt-PT,weather,weather_query,o tempo vai estar agradável este fim de semana,weather_query,0.9936,0.9936,True
+3426,pt-PT,weather,weather_query,quantos graus estão lá fora,weather_query,0.9964,0.9964,True
+3433,pt-PT,play,play_music,música pop nova,play_music,0.9992,0.9992,True
+3434,pt-PT,play,play_music,melhor música rap,play_music,0.9629,0.9629,True
+3441,pt-PT,datetime,datetime_query,o dia vinte e dois é numa quarta-feira,calendar_remove,0.8504,0.0226,False
+3444,pt-PT,datetime,datetime_query,são dez,qa_factoid,0.2272,0.0395,False
+3447,pt-PT,weather,weather_query,o tempo está a puxar chuva para sábado,weather_query,0.9983,0.9983,True
+3481,pt-PT,play,play_music,toca a música mais popular de um artista,play_music,1.0,1.0,True
+3489,pt-PT,play,play_music,toca música agora,play_music,1.0,1.0,True
+3492,pt-PT,play,play_music,toca a minha lista de músicas mais tocadas,play_music,0.9998,0.9998,True
+3503,pt-PT,weather,weather_query,como está o tempo no porto,weather_query,0.9904,0.9904,True
+3507,pt-PT,weather,weather_query,há neve nas previsões,weather_query,0.4797,0.4797,True
+3513,pt-PT,play,play_music,toca apenas a minha lista,lists_remove,0.9991,0.0,False
+3516,pt-PT,weather,weather_query,quais são as probabilidades de chuva no tempo de hoje,qa_factoid,0.64,0.3579,False
+3539,pt-PT,play,play_music,por favor toca eu tenho dois amores do marco paulo,social_post,0.8961,0.002,False
+3546,pt-PT,play,play_music,gostaria de ouvir música jazz,play_music,1.0,1.0,True
+3550,pt-PT,play,play_music,põe um capitão fausto,qa_factoid,0.5566,0.023,False
+3554,pt-PT,play,play_music,lista de reprodução de amor,lists_query,0.7972,0.0123,False
+3562,pt-PT,play,play_music,põe eu tenho dois amores,social_post,0.5675,0.0095,False
+3566,pt-PT,datetime,datetime_query,que horas são agora em chennai,weather_query,0.9981,0.0001,False
+3570,pt-PT,iot,iot_hue_lightoff,desligar as luzes do pátio,iot_hue_lightoff,0.9986,0.9986,True
+3576,pt-PT,news,news_query,quais foram as últimas notícias do jornal da fox,news_query,0.9878,0.9878,True
+3586,pt-PT,weather,weather_query,como está o tempo no porto,weather_query,0.9904,0.9904,True
+3600,pt-PT,calendar,calendar_set,lembrar-me depois de dez minutos,calendar_remove,0.3445,0.0047,False
+3603,pt-PT,news,news_query,qual é a notícia mais recente do diário de notícias,news_query,0.9995,0.9995,True
+3605,pt-PT,news,news_query,qual é a notícia mais recente na c. n. n.,social_post,0.7952,0.2023,False
+3606,pt-PT,datetime,datetime_query,que horas são no porto,weather_query,0.9401,0.0017,False
+3614,pt-PT,weather,weather_query,está um dia solarengo hoje certo,weather_query,0.9991,0.9991,True
+3623,pt-PT,news,news_query,o que está a acontecer no mundo hoje,social_post,0.4312,0.3569,False
+3624,pt-PT,news,news_query,notícias da sic,qa_factoid,0.9995,0.0,False
+3631,pt-PT,play,play_music,ei google toca algumas músicas jazz,play_music,1.0,1.0,True
+3686,pt-PT,play,play_music,liga a lista de reprodução que eu tenho dedicada à música de rock,play_music,0.9995,0.9995,True
+3714,pt-PT,play,play_music,põe a minha playlist a começar em baixo,play_music,1.0,1.0,True
+3717,pt-PT,play,play_music,toca os meus sucessos de rap dos anos noventa por favor,play_music,0.9964,0.9964,True
+3723,pt-PT,play,play_music,eu adoraria escutar call me da aretha franklin depois dessa música,play_music,0.9885,0.9885,True
+3725,pt-PT,datetime,datetime_query,qual a data de hoje,news_query,0.5942,0.0537,False
+3727,pt-PT,play,play_music,toca o tempo não pára de marisa,qa_factoid,0.9495,0.0001,False
+3750,pt-PT,news,news_query,apenas se houver alguma notícia sobre a enchente você pode me avisar imediatamente,qa_factoid,0.2852,0.0567,False
+3779,pt-PT,play,play_music,põe a playlist do youtube de marco paulo,play_music,0.7208,0.7208,True
+3780,pt-PT,play,play_music,toca a minha playlist de amor,play_music,0.9999,0.9999,True
+3784,pt-PT,weather,weather_query,dá me a previsão de tempo para o porto,weather_query,0.9991,0.9991,True
+3785,pt-PT,iot,iot_hue_lightoff,desligar a luz da casa de banho,iot_hue_lightoff,0.9971,0.9971,True
+3822,pt-PT,news,news_query,achar informações sobre carros,play_podcasts,0.3918,0.004,False
+3852,pt-PT,weather,weather_query,que tipo de tempo estamos a ter no porto agora,weather_query,0.9985,0.9985,True
+3859,pt-PT,play,play_music,por favor põe a minha playlist de música rap favorita,play_music,0.9995,0.9995,True
+3907,pt-PT,play,play_music,toque para mim os hits do último ano,play_podcasts,0.9971,0.0012,False
+3911,pt-PT,play,play_music,quero ouvir músicas que tenho ganho algum grammy este ano,play_music,1.0,1.0,True
+3912,pt-PT,play,play_music,gostava de ouvir uma música de sertanejo,play_music,0.9999,0.9999,True
+3936,pt-PT,weather,weather_query,qual é a temperatura,qa_factoid,0.9939,0.001,False
+3960,pt-PT,datetime,datetime_query,diz-me as horas,qa_factoid,0.6551,0.2793,False
+3967,pt-PT,play,play_music,rap,qa_factoid,0.5852,0.0441,False
+3980,pt-PT,play,play_music,por favor toque cupido por soraia tavares,social_post,0.7439,0.0003,False
+3982,pt-PT,play,play_music,por favor seleciona a primeira música da minha biblioteca do itunes,play_podcasts,0.3219,0.3219,False
+3993,pt-PT,iot,iot_hue_lightoff,apaga as luzes,iot_hue_lightoff,0.9875,0.9875,True
+3995,pt-PT,datetime,datetime_query,olly em que dia da semana é o halloween,weather_query,0.981,0.0001,False
+4001,pt-PT,news,news_query,o que aconteceu na odisseia,iot_hue_lightoff,0.5157,0.1316,False
+4023,pt-PT,news,news_query,o que há nas notícias,news_query,1.0,1.0,True
+4031,pt-PT,play,play_music,toque pandora baile anos noventa,play_music,0.9469,0.9469,True
+4040,pt-PT,play,play_music,põe a música que eu ouço mais,play_music,1.0,1.0,True
+4058,pt-PT,play,play_music,gostaria de ouvir alguma música rap,play_music,0.9998,0.9998,True
+4073,pt-PT,datetime,datetime_query,que dia é o quinto,weather_query,0.8356,0.0002,False
+4077,pt-PT,iot,iot_hue_lightoff,desligar as luzes na cozinha,iot_hue_lightoff,0.9939,0.9939,True
+4088,pt-PT,iot,iot_hue_lightoff,desligar a luz de cima,iot_hue_lightoff,0.9999,0.9999,True
+4104,pt-PT,weather,weather_query,como vai estar o tempo hoje no porto,weather_query,0.9967,0.9967,True
+4116,pt-PT,play,play_music,toca a minha playlist aleatória por favor,play_music,0.9995,0.9995,True
+4119,pt-PT,news,news_query,quero saber tudo o que está a se falar sobre a ruptura da barragem na califórnia,news_query,0.742,0.742,True
+4132,pt-PT,weather,weather_query,diz me a probabilidade de chuva em percentagem no porto hoje,weather_query,0.999,0.999,True
+4136,pt-PT,play,play_music,podes por favor tocar punksinatra,play_music,0.9999,0.9999,True
+4152,pt-PT,play,play_music,por favor toca a música o barco vai de saída,play_music,1.0,1.0,True
+4168,pt-PT,weather,weather_query,por favor vê o tempo no porto,weather_query,0.9825,0.9825,True
+4171,pt-PT,iot,iot_hue_lightoff,desligar luzes da cozinha,iot_hue_lightoff,0.9963,0.9963,True
+4177,pt-PT,news,news_query,dá-me as últimas manchetes políticas em todo o mundo,lists_remove,0.914,0.001,False
+4178,pt-PT,news,news_query,há alguma notícia sobre a presidência,news_query,0.9786,0.9786,True
+4183,pt-PT,datetime,datetime_query,horário atual no porto,calendar_query,0.4913,0.1223,False
+4186,pt-PT,datetime,datetime_query,ei olly que horas são,weather_query,0.7559,0.0003,False
+4187,pt-PT,datetime,datetime_query,hey siri que horas são,weather_query,0.991,0.0001,False
+4205,pt-PT,play,play_music,quero ouvir velha infância de tribalistas,social_post,0.6379,0.033,False
+4212,pt-PT,weather,weather_query,eu estarei disponível para cortar a grama esta noite,qa_factoid,0.6175,0.0107,False
+4227,pt-PT,weather,weather_query,há chuva prevista para a próxima semana,weather_query,0.9893,0.9893,True
+4232,pt-PT,play,play_music,toca sempre ausente do antónio variações,qa_factoid,0.5409,0.009,False
+4236,pt-PT,datetime,datetime_query,ainda está de tarde,weather_query,0.9949,0.0002,False
+4253,pt-PT,datetime,datetime_query,que horas são agora no fuso horário oriental,weather_query,0.8593,0.002,False
+4254,pt-PT,datetime,datetime_query,que horas são na costa leste dos estados unidos,weather_query,0.9959,0.0004,False
+4258,pt-PT,news,news_query,quais são as noticias mais recentes,news_query,0.9995,0.9995,True
+4266,pt-PT,weather,weather_query,qual é o tempo para hoje,weather_query,0.9581,0.9581,True
+4273,pt-PT,play,play_music,toque músicas aces high,play_music,0.9368,0.9368,True
+4290,pt-PT,weather,weather_query,devo levar um casaco comigo esta noite,lists_remove,0.2867,0.0231,False
+4305,pt-PT,play,play_music,põe a música vejam bem de zeca afonso,play_music,1.0,1.0,True
+4309,pt-PT,datetime,datetime_query,quantas horas faltam para a meia-noite em lisboa portugal,weather_query,0.9831,0.0024,False
+4312,pt-PT,weather,weather_query,vão estar menos de dez graus no porto,weather_query,0.9989,0.9989,True
+4313,pt-PT,weather,weather_query,vai chover amanhã em coimbra,weather_query,0.9936,0.9936,True
+4336,pt-PT,datetime,datetime_query,que horas são na china,weather_query,0.543,0.0005,False
+4346,pt-PT,iot,iot_hue_lightoff,desligar as luzes,iot_hue_lightoff,0.9984,0.9984,True
+4347,pt-PT,iot,iot_hue_lightoff,apagar as luzes em funcionamento,iot_hue_lightoff,0.9974,0.9974,True
+4355,pt-PT,weather,weather_query,como está o tempo onde estou,weather_query,0.5776,0.5776,True
+4361,pt-PT,play,play_music,põe uns bons sons,play_music,0.9988,0.9988,True
+4362,pt-PT,datetime,datetime_query,que horas são no porto,weather_query,0.9401,0.0017,False
+4376,pt-PT,weather,weather_query,como está lá fora hoje,weather_query,0.3239,0.3239,True
+4377,pt-PT,weather,weather_query,qual é o tempo neste momento,qa_factoid,0.8566,0.0216,False
+4383,pt-PT,weather,weather_query,qual vai ser o tempo amanhã,weather_query,0.9977,0.9977,True
+4391,pt-PT,news,news_query,quais são as manchetes na r. t. p.,qa_definition,0.9688,0.0001,False
+4400,pt-PT,news,news_query,quais são os artigos em tendências no jornal expresso,news_query,0.9878,0.9878,True
+4402,pt-PT,weather,weather_query,vou precisar de levar um guarda chuva hoje,weather_query,0.2303,0.2303,True
+4412,pt-PT,weather,weather_query,como está o tempo no porto,weather_query,0.9904,0.9904,True
+4436,pt-PT,weather,weather_query,que casaco devo usar,qa_factoid,0.7097,0.0121,False
+4439,pt-PT,weather,weather_query,como está o tempo em braga,iot_hue_lightoff,0.4037,0.3236,False
+4449,pt-PT,weather,weather_query,vai chover às treze horas de hoje,weather_query,0.9863,0.9863,True
+4452,pt-PT,play,play_music,tocar músicas,play_music,0.9999,0.9999,True
+4463,pt-PT,datetime,datetime_query,quantos sábados têm em março,qa_factoid,0.5767,0.0178,False
+4477,pt-PT,play,play_music,tocar música a seguir,play_music,1.0,1.0,True
+4482,pt-PT,weather,weather_query,eu vou precisar tirar a neve da entrada da minha garagem nesta manhã,iot_hue_lightoff,0.9513,0.0218,False
+4486,pt-PT,weather,weather_query,dá me a previsão do tempo para a próxima semana,weather_query,0.9964,0.9964,True
+4487,pt-PT,weather,weather_query,vai estar a chover na quinta-feira,weather_query,0.9969,0.9969,True
+4491,pt-PT,news,news_query,quais são as últimas notícias sobre o marcelo rebelo de sousa,news_query,0.9371,0.9371,True
+4492,pt-PT,news,news_query,quais são as últimas estatísticas de criminalidade na minha zona,social_post,0.9639,0.0006,False
+4496,pt-PT,news,news_query,o que a vogue postou hoje,social_post,0.9998,0.0,False
+4502,pt-PT,datetime,datetime_query,ei que horas são em lisboa agora,weather_query,0.9982,0.0001,False
+4524,pt-PT,weather,weather_query,olly qual a previsão do tempo para hoje,weather_query,0.998,0.998,True
+4547,pt-PT,play,play_music,inicia a playlist passear o cão,play_music,0.9999,0.9999,True
+4567,pt-PT,news,news_query,leia-me as ultímas manchetes do público online,social_post,0.9968,0.0002,False
+4580,pt-PT,datetime,datetime_query,que horas são em lisboa,weather_query,0.9976,0.0001,False
+4587,pt-PT,play,play_music,toca os meus favoritos,qa_factoid,0.8833,0.0237,False
+4589,pt-PT,calendar,calendar_set,adiciona uma notificação para jogo desportivo,recommendation_events,0.147,0.0342,False
+4606,pt-PT,news,news_query,ache-me informações sobre as acções de hoje,news_query,0.4362,0.4362,True
+4614,pt-PT,weather,weather_query,a temperatura ficará acima de quarenta amanhã,weather_query,0.9986,0.9986,True
+4662,pt-PT,news,news_query,alexa notícias do r. p. t.,news_query,0.9966,0.9966,True
+4667,pt-PT,datetime,datetime_query,horas atuais em,weather_query,0.6889,0.0579,False
+4680,pt-PT,weather,weather_query,eu deveria vestir sandálias ou tênis com meia,iot_hue_lightoff,0.6576,0.0093,False
+4689,pt-PT,weather,weather_query,sabes como está o tempo,social_post,0.4594,0.281,False
+4692,pt-PT,play,play_music,põe me uma música de marco paulo,play_music,1.0,1.0,True
+4710,pt-PT,datetime,datetime_query,em que dia calha o dia das bruxas este ano,weather_query,0.9896,0.0003,False
+4764,pt-PT,weather,weather_query,vai estar de chuva segunda-feira,weather_query,0.9967,0.9967,True
+4767,pt-PT,news,news_query,o muro da fronteira mexicana americana,qa_definition,0.8388,0.0071,False
+4772,pt-PT,datetime,datetime_query,diz-me as horas neste fuso horário,datetime_query,0.7909,0.7909,True
+4780,pt-PT,datetime,datetime_query,em que dia calha o meu aniversário este ano dia vinte e sete de junho,weather_query,0.9985,0.0002,False
+4784,pt-PT,weather,weather_query,preciso de um casaco,calendar_remove,0.2907,0.0294,False
+4813,pt-PT,datetime,datetime_query,que horas são noutra cidade,weather_query,0.9774,0.0006,False
+4837,pt-PT,news,news_query,há alguma notícia olly,news_query,0.9997,0.9997,True
+4838,pt-PT,play,play_music,toca toda a música de marco paulo,play_music,1.0,1.0,True
+4871,pt-PT,weather,weather_query,como está lá fora,social_post,0.5189,0.1907,False
+4881,pt-PT,datetime,datetime_query,pesquisa para encontrar horário local e fuso horário,weather_query,0.9155,0.081,False
+4882,pt-PT,datetime,datetime_query,que horas são na cidade,weather_query,0.9612,0.0019,False
+4890,pt-PT,calendar,calendar_set,definir notificações sobre os desastres climáticos atuais na américa,qa_definition,0.462,0.0074,False
+4909,pt-PT,play,play_music,toque música dos barenaked ladies,play_music,0.9999,0.9999,True
+4917,pt-PT,weather,weather_query,temperatura lá fora,weather_query,0.938,0.938,True
+4928,pt-PT,play,play_music,minha trilha sonora,play_music,0.9726,0.9726,True
+4933,pt-PT,weather,weather_query,vai chover agora,qa_factoid,0.7022,0.0074,False
+4951,pt-PT,datetime,datetime_query,gostaria de saber que horas são agora,weather_query,0.9993,0.0001,False
+4953,pt-PT,news,news_query,notícias sobre o desastre de comboio,social_post,0.8415,0.0724,False
+4957,pt-PT,datetime,datetime_query,em que dia da semana calha o dia vinte e três deste mês,weather_query,0.8431,0.1374,False
+4960,pt-PT,play,play_music,música dos brutus,play_music,0.9975,0.9975,True
+4968,pt-PT,qa,qa_factoid,que venceu as eleições presidenciais este ano,qa_factoid,0.9993,0.9993,True
+4973,pt-PT,play,play_music,olly toque eu não consigo sentir meu rosto,iot_hue_lightoff,0.8698,0.0187,False
+4998,pt-PT,play,play_music,adiciona esta música à próxima música a tocar,play_music,0.9992,0.9992,True
+5009,pt-PT,weather,weather_query,vou precisar de um guarda chuva esta semana,weather_query,0.662,0.662,True
+5016,pt-PT,news,news_query,fale-me as notícias sobre as subidas e descidas do mercado de acções,news_query,0.8433,0.8433,True
+5027,pt-PT,datetime,datetime_query,quando é a próxima sexta-feira dia treze,weather_query,0.9498,0.0128,False
+5037,pt-PT,weather,weather_query,quão frio está hoje,weather_query,0.9981,0.9981,True
+5038,pt-PT,weather,weather_query,qual é o tempo para esta semana,calendar_remove,0.4629,0.0843,False
+5040,pt-PT,weather,weather_query,como está o tempo agora,weather_query,0.93,0.93,True
+5062,pt-PT,play,play_music,por favor toca para mim canções dos anos oitenta,play_music,1.0,1.0,True
+5074,pt-PT,weather,weather_query,qual era o tempo para a semana,datetime_query,0.7937,0.1339,False
+5085,pt-PT,weather,weather_query,qual é a previsão do tempo para sábado,weather_query,0.9991,0.9991,True
+5118,pt-PT,play,play_music,eu tenho dois amores,email_sendemail,0.7549,0.0026,False
+5127,pt-PT,news,news_query,aqui está a verdade sobre refeições sobre rodas no orçamento de alguém,cooking_recipe,0.9908,0.0001,False
+5131,pt-PT,datetime,datetime_query,que horas são no porto,weather_query,0.9401,0.0017,False
+5134,pt-PT,play,play_music,encontrar músicas favoritas,play_music,0.9986,0.9986,True
+5156,pt-PT,iot,iot_hue_lightoff,desligar a luz na sala de estar,iot_hue_lightoff,0.9976,0.9976,True
+5157,pt-PT,iot,iot_hue_lightoff,olly apagar a luz da sala de estar,iot_hue_lightoff,0.9991,0.9991,True
+5158,pt-PT,play,play_music,por favor põe a música mais recente do álbum eu tenho dois amores,play_music,0.9992,0.9992,True
+5159,pt-PT,play,play_music,toca a música da artista ana moura por favor,play_music,1.0,1.0,True
+5160,pt-PT,play,play_music,podes pôr a música do david carreira,play_music,0.9999,0.9999,True
+5176,pt-PT,weather,weather_query,que tipo de clima devo esperar para esta semana,weather_query,0.9996,0.9996,True
+5196,pt-PT,news,news_query,quero saber sobre o brexit,iot_hue_lightoff,0.5992,0.0008,False
+5225,pt-PT,datetime,datetime_query,qual é a data na próxima quarta-feira,lists_query,0.3879,0.0357,False
+5243,pt-PT,iot,iot_hue_lightoff,siri desliga as luzes na casa de banho,iot_hue_lightoff,0.9982,0.9982,True
+5245,pt-PT,news,news_query,definir notificação de notícias ambientais,news_query,0.6364,0.6364,True
+5270,pt-PT,news,news_query,qual é a noticia de última hora,news_query,0.9989,0.9989,True
+5278,pt-PT,play,play_music,toca apenas música mistura pop por favor,play_music,1.0,1.0,True
+5279,pt-PT,play,play_music,por favor toca apenas música triste no leitor de música,play_music,1.0,1.0,True
+5286,pt-PT,news,news_query,mostrar notícias sobre migração na b. b. c.,news_query,0.9967,0.9967,True
+5296,pt-PT,news,news_query,olly dá-me as notícias mais importantes da b. b. c.,news_query,0.972,0.972,True
+5297,pt-PT,news,news_query,consiga-me as notícias populares de b. b. c.,social_post,0.9645,0.029,False
+5301,pt-PT,weather,weather_query,como é que vai estar o tempo no dia vinte de março de dois mil e dezassete,weather_query,0.9985,0.9985,True
+5307,pt-PT,datetime,datetime_query,é dia vinte de março hoje,weather_query,0.9912,0.0058,False
+5318,pt-PT,play,play_music,toca músicas do carlos paredes,play_music,1.0,1.0,True
+5321,pt-PT,weather,weather_query,mostra tempo,social_post,0.5006,0.0125,False
+5328,pt-PT,play,play_music,rock,qa_factoid,0.5125,0.0155,False
+5339,pt-PT,weather,weather_query,baixar a condição do arrefecimento,qa_factoid,0.9967,0.0,False
+5341,pt-PT,datetime,datetime_query,lembrar-me as horas,datetime_query,0.7224,0.7224,True
+5347,pt-PT,play,play_music,põe música techno,play_music,1.0,1.0,True
+5358,pt-PT,datetime,datetime_query,atualizar para as horas atuais,calendar_remove,0.6509,0.0026,False
+5370,pt-PT,news,news_query,qual a última controvérsia do trump,qa_factoid,0.9413,0.0003,False
+5378,pt-PT,play,play_music,s.,play_radio,0.1383,0.0381,False
+5401,pt-PT,play,play_music,música,play_music,0.9996,0.9996,True
+5410,pt-PT,news,news_query,leia-me as últimas notícias do jornal de notícias,news_query,0.9997,0.9997,True
+5411,pt-PT,news,news_query,quais são as melhores séries do s. i. c.,cooking_recipe,0.3236,0.0087,False
+5413,pt-PT,play,play_music,toca música,play_music,1.0,1.0,True
+5414,pt-PT,play,play_music,põe música a tocar,play_music,1.0,1.0,True
+5427,pt-PT,datetime,datetime_query,que horas são em lisboa agora,weather_query,0.998,0.0001,False
+5433,pt-PT,weather,weather_query,vai estar de chuva mais tarde,weather_query,0.9992,0.9992,True
+5439,pt-PT,weather,weather_query,preciso de usar guarda-chuva hoje à noite,iot_hue_lightoff,0.5619,0.0153,False
+5465,pt-PT,weather,weather_query,posso usar as minhas sandálias hoje,iot_hue_lightoff,0.3997,0.0225,False
+5468,pt-PT,weather,weather_query,preciso de levar óculos de sol,iot_hue_lightoff,0.9334,0.0014,False
+5524,pt-PT,weather,weather_query,tempo atual,qa_factoid,0.4529,0.0073,False
+5529,pt-PT,weather,weather_query,a que horas devo ir fazer uma caminhada,weather_query,0.9955,0.9955,True
+5557,pt-PT,play,play_music,quero reggae,play_music,0.9652,0.9652,True
+5577,pt-PT,weather,weather_query,vou precisar de poncho se estiver demasiado tormentoso à noite,iot_hue_lightoff,0.8739,0.0677,False
+5578,pt-PT,weather,weather_query,vou precisar de meias quentes no inverno de manhã,weather_query,0.9781,0.9781,True
+5584,pt-PT,iot,iot_hue_lightoff,desliga as luzes,iot_hue_lightoff,0.9961,0.9961,True
+5590,pt-PT,weather,weather_query,abrir a temperatura,cooking_recipe,0.3548,0.0482,False
+5593,pt-PT,play,play_music,toca sexta-feira do boss a. c.,play_radio,0.725,0.035,False
+5619,pt-PT,play,play_music,toca a música anterior,play_music,1.0,1.0,True
+5627,pt-PT,play,play_music,toca música do quarteto mil cento e onze,play_music,1.0,1.0,True
+5640,pt-PT,datetime,datetime_query,mostra data,social_post,0.9312,0.001,False
+5650,pt-PT,weather,weather_query,perguntar pelo tempo hoje à noite,weather_query,0.991,0.991,True
+5658,pt-PT,play,play_music,toca música dos sétima legião,play_music,1.0,1.0,True
+5661,pt-PT,weather,weather_query,devo levar o meu casaco impermeável,lists_remove,0.9064,0.0033,False
+5671,pt-PT,datetime,datetime_query,que horas são em las vegas,weather_query,0.9977,0.0004,False
+5678,pt-PT,datetime,datetime_query,dia quinze de agosto é que dia da semana,datetime_query,0.9821,0.9821,True
+5683,pt-PT,play,play_music,toca a minha playlist músicas de festa,play_music,1.0,1.0,True
+5688,pt-PT,news,news_query,conta-me as manchetes das noticias,news_query,0.9011,0.9011,True
+5703,pt-PT,datetime,datetime_query,horas agora,calendar_remove,0.7196,0.0046,False
+5707,pt-PT,play,play_music,ouvir os meus favoritos,qa_factoid,0.6532,0.0203,False
+5721,pt-PT,weather,weather_query,mostra me o tempo para amanhã em esta área,weather_query,0.9966,0.9966,True
+5722,pt-PT,weather,weather_query,mostre a previsão do tempo dos séte dias desta semana,weather_query,0.9976,0.9976,True
+5732,pt-PT,weather,weather_query,devo mudar brevemente os pneus do meu carro para pneus de neve,iot_hue_lightoff,0.5118,0.2596,False
+5757,pt-PT,datetime,datetime_query,um quarto para as duas,datetime_query,0.366,0.366,True
+5758,pt-PT,weather,weather_query,como está o tempi na capital,weather_query,0.1952,0.1952,True
+5774,pt-PT,datetime,datetime_query,tempo atual em lisboa,weather_query,0.9936,0.0003,False
+5797,pt-PT,weather,weather_query,devo vestir o casaco de chuva antes de sair,weather_query,0.522,0.522,True
+5813,pt-PT,play,play_music,toca a música eu tenho dois amores,play_music,1.0,1.0,True
+5820,pt-PT,play,play_music,eu tenho dois amores com marco paulo,social_post,0.547,0.0231,False
+5837,pt-PT,weather,weather_query,diz me como vai estar o tempo esta semana,weather_query,0.9917,0.9917,True
+5871,pt-PT,weather,weather_query,qual o clima de faro hoje,weather_query,0.9988,0.9988,True
+5886,pt-PT,news,news_query,tema popular,social_post,0.9999,0.0,False
+5919,pt-PT,news,news_query,quais as últimas actualizações sobre a erupção do vulcão na gran canária,news_query,0.9658,0.9658,True
+5930,pt-PT,news,news_query,alguma notícia de última hora do correio da manhã,email_sendemail,0.87,0.0393,False
+5948,pt-PT,play,play_music,toca alguma boa música da minha playlist,play_music,0.9999,0.9999,True
+5953,pt-PT,weather,weather_query,a cidade é mais barata ou mais cara para morar,weather_query,0.2519,0.2519,True
+5955,pt-PT,weather,weather_query,quão segura é a cidade em termos de lei e ordem,qa_factoid,0.305,0.0838,False
+5970,pt-PT,play,play_music,quero que toques bohemian raphsody para mim,qa_factoid,0.8163,0.0942,False
+5985,pt-PT,news,news_query,mostre-me as últimas notícias da união européia,social_post,0.696,0.3019,False
+5996,pt-PT,weather,weather_query,eu precisarei das minhas botas de neve esta tarde,iot_hue_lightoff,0.8146,0.0444,False
+5997,pt-PT,datetime,datetime_query,que horas são no fuso horário central,weather_query,0.9767,0.0022,False
+6023,pt-PT,weather,weather_query,vai ser uma noite com tempo nublado,weather_query,0.9987,0.9987,True
+6024,pt-PT,weather,weather_query,devo levar uma sweater ou um casaco para o trabalho hoje,lists_remove,0.5443,0.0378,False
+6025,pt-PT,weather,weather_query,vou precisar de protetor solar esta tarde,weather_query,0.7641,0.7641,True
+6027,pt-PT,play,play_music,põe as minhas músicas favoritas,play_music,1.0,1.0,True
+6039,pt-PT,weather,weather_query,vai estar um dia chuvoso amanhã,weather_query,0.9935,0.9935,True
+6041,pt-PT,iot,iot_hue_lightoff,ei olly desliga a luz por favor,iot_hue_lightoff,0.9989,0.9989,True
+6045,pt-PT,play,play_music,adicionar a música selecionada,play_music,0.9965,0.9965,True
+6050,pt-PT,weather,weather_query,vou precisar de protetor solar hoje,weather_query,0.6738,0.6738,True
+6055,pt-PT,iot,iot_hue_lightoff,deixei a luz acesa na garagem,iot_hue_lightoff,0.9997,0.9997,True
+6059,pt-PT,play,play_music,pões música rap,play_music,0.9998,0.9998,True
+6069,pt-PT,weather,weather_query,há probabilidade de tempestades hoje,weather_query,0.9556,0.9556,True
+6073,pt-PT,iot,iot_hue_lightoff,desligar a luz da varanda,iot_hue_lightoff,0.9999,0.9999,True
+6074,pt-PT,iot,iot_hue_lightoff,desligar a luz do meu quarto às nove e meia da noite,iot_hue_lightoff,0.9982,0.9982,True
+6077,pt-PT,news,news_query,quero saber sobre as últimas notícias do mundo hoje,news_query,0.9985,0.9985,True
+6093,pt-PT,weather,weather_query,devo abrir o tejadilho,qa_factoid,0.9957,0.0,False
+6103,pt-PT,weather,weather_query,como vai estar o tempo hoje me matosinhos porto,weather_query,0.9983,0.9983,True
+6116,pt-PT,weather,weather_query,informações sobre o clima desta semana,weather_query,0.9961,0.9961,True
+6118,pt-PT,datetime,datetime_query,ei que horas são em madrid,weather_query,0.999,0.0001,False
+6127,pt-PT,weather,weather_query,aconselhas guarda-chuvas,qa_factoid,0.6021,0.0039,False
+6129,pt-PT,news,news_query,mantenha-me informado sobre as notícias do mundo,news_query,0.9972,0.9972,True
+6151,pt-PT,weather,weather_query,quero saber o tempo hoje,weather_query,0.9996,0.9996,True
+6172,pt-PT,weather,weather_query,os óculos de sol são uma boa escolha para hoje,qa_factoid,0.8624,0.0038,False
+6177,pt-PT,weather,weather_query,vou precisar de guarda-chuva hoje,lists_remove,0.7466,0.0097,False
+6178,pt-PT,weather,weather_query,devo usar um casaco,qa_definition,0.3022,0.0189,False
+6194,pt-PT,weather,weather_query,como está o tempo hoje,weather_query,0.995,0.995,True
+6289,pt-PT,weather,weather_query,ei como está o tempo hoje,weather_query,0.9965,0.9965,True
+6370,pt-PT,calendar,calendar_query,como será a minha próxima semana,weather_query,0.5729,0.0089,False
+6372,pt-PT,news,news_query,notícias sobre veganismo e vida baseada em plantas,lists_query,0.8452,0.0109,False
+6403,pt-PT,transport,transport_query,como chegar a algum lado,transport_query,0.5872,0.5872,True
+6410,pt-PT,news,news_query,o que está a acontecer em portugal hoje,news_query,0.9984,0.9984,True
+6411,pt-PT,weather,weather_query,qual é o tempo para a próxima quarta-feira,calendar_remove,0.9028,0.04,False
+6539,pt-PT,calendar,calendar_set,assinalar hoje como início da minha dieta,cooking_recipe,0.7583,0.0045,False
+6542,pt-PT,cooking,cooking_recipe,o queijo amanteigado é melhor que o seco,cooking_recipe,0.9615,0.9615,True
+6618,pt-PT,news,news_query,fala-me sobre noticias interessantes,news_query,0.9884,0.9884,True
+6682,pt-PT,news,news_query,eleições em alta,email_sendemail,0.9954,0.0,False
+6683,pt-PT,news,news_query,assuntos econômicos,qa_factoid,0.5455,0.0207,False
+6713,pt-PT,calendar,calendar_remove,cancelar reunião de negócios na quarta-feira,calendar_remove,0.9974,0.9974,True
+6722,pt-PT,calendar,calendar_query,há alguma coisa que eu deva ser lembrado,qa_factoid,0.7044,0.0092,False
+6725,pt-PT,calendar,calendar_set,lembrar me sobre a minha agenda para a tarde,calendar_remove,0.965,0.0114,False
+6726,pt-PT,calendar,calendar_remove,cancelar próxima reunião,calendar_remove,0.9929,0.9929,True
+6729,pt-PT,calendar,calendar_remove,cancelar o pequeno almoço na casa da teresa,cooking_recipe,0.6498,0.2743,False
+6732,pt-PT,calendar,calendar_set,adiciona um lembrete de reunião com os meus sogros no domingo,email_sendemail,0.6283,0.0006,False
+6744,pt-PT,calendar,calendar_set,marcar reunião com o paulo para amanhã às dez da manhã,calendar_set,0.5473,0.5473,True
+6746,pt-PT,calendar,calendar_set,marcar primeira semana de junho como férias no meu calendário,calendar_set,0.961,0.961,True
+6747,pt-PT,calendar,calendar_query,quantos lembretes tenho,qa_factoid,0.9836,0.0007,False
+6755,pt-PT,calendar,calendar_remove,por favor libertar meu calendário,calendar_remove,1.0,1.0,True
+6761,pt-PT,calendar,calendar_remove,remover do meu calendário reunião às nove da manhã,calendar_remove,1.0,1.0,True
+6764,pt-PT,calendar,calendar_set,lembrar me para lavar as janelas,cooking_recipe,0.8253,0.0024,False
+6774,pt-PT,calendar,calendar_set,cria um evento para sexta-feira,recommendation_events,0.36,0.086,False
+6785,pt-PT,calendar,calendar_query,qual é o meu próximo calendário,calendar_query,0.6966,0.6966,True
+6789,pt-PT,calendar,calendar_set,marcar reunião com a joana no sábado às quatro da tarde,calendar_remove,0.6815,0.0794,False
+6798,pt-PT,calendar,calendar_remove,remove o meu próximo evento,calendar_remove,1.0,1.0,True
+6801,pt-PT,calendar,calendar_query,mostrar me as minhas reuniões nesta sexta feira,calendar_set,0.4805,0.0378,False
+6806,pt-PT,calendar,calendar_query,mostrar me o evento desta sexta feira à tarde do meu calendário,calendar_set,0.5238,0.0743,False
+6815,pt-PT,calendar,calendar_set,me lembre do aniversário da minha minha mãe uma semana antes,email_sendemail,0.9355,0.0004,False
+6819,pt-PT,calendar,calendar_set,olly há uma boa banda a actuar esta noite às nove no hard club eu quero ir,play_music,0.58,0.005,False
+6836,pt-PT,calendar,calendar_set,lembrar me sobre a reunião de amanhã às seis,recommendation_events,0.3386,0.0218,False
+6850,pt-PT,calendar,calendar_query,mostra o meu horário hoje,datetime_query,0.5201,0.048,False
+6856,pt-PT,calendar,calendar_set,dá me um lembrete de notificação na reunião de amanhã às dez da manhã,email_sendemail,0.9915,0.0012,False
+6860,pt-PT,calendar,calendar_query,há alguns eventos próximos,recommendation_events,0.5134,0.0153,False
+6865,pt-PT,calendar,calendar_set,programar uma notificação sobre a reunião de amanhã às dez,iot_hue_lightoff,0.3219,0.237,False
+6878,pt-PT,calendar,calendar_set,agendar uma reunião com o departamento de contabilidade para as catorze e trinta na sexta,calendar_remove,0.4467,0.3249,False
+6891,pt-PT,calendar,calendar_query,há programas matinais disponíveis,cooking_recipe,0.467,0.017,False
+6892,pt-PT,calendar,calendar_query,podes dizer me o horário do filme,qa_factoid,0.5049,0.0026,False
+6897,pt-PT,calendar,calendar_set,lembra me de pegar linda às cinco da tarde do dia sete,calendar_remove,0.2319,0.0124,False
+6901,pt-PT,calendar,calendar_set,lembra-me amanhã às dez da manhã da reunião,calendar_remove,0.4836,0.0885,False
+6902,pt-PT,calendar,calendar_set,definir um lembrete no próximo mês para mudança de óleo,qa_definition,0.5606,0.0213,False
+6909,pt-PT,calendar,calendar_query,o que há a acontecer depois da uma e antes das três da tarde,weather_query,0.9974,0.0001,False
+6918,pt-PT,calendar,calendar_remove,apaga eventos do calendário,calendar_remove,0.9999,0.9999,True
+6923,pt-PT,calendar,calendar_set,adiciona um lembrete para imprimir os documentos na terça-feira de manhã,email_sendemail,1.0,0.0,False
+6926,pt-PT,calendar,calendar_query,é sexta feira,weather_query,0.4888,0.0145,False
+6928,pt-PT,calendar,calendar_remove,apagar todos os eventos,calendar_remove,0.5539,0.5539,True
+6936,pt-PT,calendar,calendar_set,lembra me de tomar os meus medicamentos às nove da manhã,calendar_remove,0.4734,0.0178,False
+6937,pt-PT,calendar,calendar_set,agende um lembrete para almoçar com o chefe ao meio dia,lists_remove,0.5975,0.0184,False
+6946,pt-PT,calendar,calendar_query,há alguma reunião marcada para a próxima quarta-feira,calendar_remove,0.5866,0.0996,False
+6958,pt-PT,calendar,calendar_remove,certificar que não existem eventos no meu calendário,calendar_remove,1.0,1.0,True
+6959,pt-PT,calendar,calendar_set,lembrar me sobre a minha reunião uma hora antes de ela começar,email_sendemail,1.0,0.0,False
+6962,pt-PT,calendar,calendar_set,posso saber o que tenho para fazer no próximo sábado às seis da tarde,cooking_recipe,0.7483,0.0145,False
+6964,pt-PT,calendar,calendar_set,você pode me lembrar da minha próxima reunião com meu chefe uma hora antes dela,recommendation_events,0.8275,0.0011,False
+6967,pt-PT,calendar,calendar_query,podes verificar os factos neste assunto,qa_factoid,1.0,0.0,False
+6968,pt-PT,calendar,calendar_query,preciso confirmar todas as reuniões para hoje pode a pessoa convidar,calendar_set,0.6104,0.0078,False
+6973,pt-PT,calendar,calendar_set,adiciona um lembrete para uma conferência para amanhã em lisboa,iot_hue_lightoff,0.698,0.0172,False
+6974,pt-PT,calendar,calendar_set,lembrar que tenho um trabalho em lisboa amanhã,weather_query,0.9787,0.0008,False
+6980,pt-PT,calendar,calendar_query,dá me lista de afazeres,lists_remove,0.9521,0.0003,False
+6992,pt-PT,calendar,calendar_query,mostra eventos futuros,recommendation_events,0.4667,0.009,False
+6994,pt-PT,calendar,calendar_set,lembrar me às,email_sendemail,1.0,0.0,False
+6997,pt-PT,calendar,calendar_remove,remover o evento seguinte,calendar_remove,0.9936,0.9936,True
+7000,pt-PT,calendar,calendar_set,novo evento,news_query,0.2337,0.0172,False
+7004,pt-PT,calendar,calendar_set,adicionar um lembrete ao meu calendário todo ano neste data,calendar_remove,0.9878,0.0119,False
+7013,pt-PT,calendar,calendar_query,quando o evento vai começar,datetime_query,0.4096,0.0039,False
+7014,pt-PT,calendar,calendar_query,dá me a agenda para os eventos de hoje,calendar_query,0.4887,0.4887,True
+7025,pt-PT,calendar,calendar_remove,remover o novo ano do meu calendário,calendar_remove,1.0,1.0,True
+7026,pt-PT,recommendation,recommendation_events,que eventos estão a acontecer na minha cidade essa semana,news_query,0.9898,0.0012,False
+7039,pt-PT,calendar,calendar_set,define uma reunião na próxima terça-feira às onze da manhã com o joão,calendar_set,0.3087,0.3087,True
+7044,pt-PT,calendar,calendar_set,lembrar-me para ficar pronto às dezassete horas por favor,qa_factoid,0.2085,0.038,False
+7046,pt-PT,calendar,calendar_set,adicionar a reunião com tiago no dia vinte e um às sete,calendar_remove,0.8167,0.0142,False
+7055,pt-PT,calendar,calendar_set,marca uma reunião com o matt às onze da manhã de quinta-feira,calendar_remove,0.292,0.0634,False
+7057,pt-PT,calendar,calendar_set,marcar um almoço de negócios com o joão na quarta-feira ao meio-dia,calendar_set,0.7298,0.7298,True
+7061,pt-PT,calendar,calendar_set,lembra me vinte e quatro horas antes da reunião de sexta-feira com a joana,datetime_query,0.6934,0.0078,False
+7073,pt-PT,calendar,calendar_set,procura o próximo evento no meu calendário e notifica-me antes de acontecer,recommendation_events,0.9813,0.0056,False
+7080,pt-PT,calendar,calendar_remove,cancelar tudo no meu calendário,calendar_remove,0.9999,0.9999,True
+7087,pt-PT,calendar,calendar_remove,cancelar a reunião de amanhã na minha agenda,calendar_remove,0.9995,0.9995,True
+7098,pt-PT,calendar,calendar_set,adicionar o pagamento do meu carro no dia vinte em meu calendário,calendar_set,0.9395,0.9395,True
+7100,pt-PT,calendar,calendar_set,lembra me um dia antes do meu carro estar pronto,calendar_remove,0.4649,0.0074,False
+7111,pt-PT,calendar,calendar_query,a que horas é a minha consulta médica no dia trinta e um de março,weather_query,0.8878,0.0006,False
+7113,pt-PT,calendar,calendar_query,vai haver algum evento na baixa este fim de semana,qa_factoid,0.996,0.0001,False
+7117,pt-PT,calendar,calendar_remove,elimina os eventos no dia dezanove do meu calendário,calendar_remove,1.0,1.0,True
+7120,pt-PT,calendar,calendar_query,como está a minha agenda hoje,calendar_remove,0.9678,0.0161,False
+7122,pt-PT,calendar,calendar_set,pode repetir este evento,qa_factoid,0.6516,0.0025,False
+7140,pt-PT,calendar,calendar_set,definir um lembrete para notificar-me uma hora antes da reunião de almoço,qa_definition,0.6378,0.0002,False
+7141,pt-PT,calendar,calendar_query,este evento está agendado,recommendation_events,0.5805,0.0074,False
+7151,pt-PT,calendar,calendar_set,mete um lembrete para todos os domingos ímpares,email_sendemail,0.7121,0.1964,False
+7152,pt-PT,calendar,calendar_set,almoço todos os dias doze e trinta minutos,email_sendemail,0.2448,0.0301,False
+7161,pt-PT,calendar,calendar_set,lembrar este evento no futuro,iot_hue_lightoff,0.7484,0.0042,False
+7170,pt-PT,calendar,calendar_set,hoje é o aniversário da minha mãe envia me uma notificação todos os anos nesta data,weather_query,0.6156,0.0252,False
+7181,pt-PT,calendar,calendar_set,acorda-me às seis da manhã na quinta-feira para que tenha tempo para a reunião,calendar_remove,0.8905,0.0868,False
+7185,pt-PT,calendar,calendar_query,quando é que é o próximo compromisso com o joão,qa_factoid,0.5776,0.0019,False
+7189,pt-PT,calendar,calendar_query,tenho qualquer coisa planeada,lists_remove,0.2467,0.0117,False
+7194,pt-PT,calendar,calendar_set,vou ter uma reunião amanhã define-a,recommendation_events,0.5469,0.0142,False
+7196,pt-PT,calendar,calendar_set,lembra-me a reunião com o álvaro no dia quinze de março,email_sendemail,0.9937,0.0001,False
+7199,pt-PT,calendar,calendar_set,definir uma notificação para três duas e uma hora antes da final de inglês da próxima semana,iot_hue_lightoff,0.6455,0.0044,False
+7209,pt-PT,calendar,calendar_set,podes lembrar me para levar o lixo na terça-feira,lists_remove,0.4643,0.0125,False
+7219,pt-PT,calendar,calendar_query,criaste o lembrete sobre a reunião de amanhã,social_post,0.9968,0.0001,False
+7224,pt-PT,calendar,calendar_query,qual o local onde o casamento do joão vai ser realizado,email_query,0.737,0.0027,False
+7232,pt-PT,calendar,calendar_query,quais sãos os eventos da próxima semana,news_query,0.9827,0.0006,False
+7257,pt-PT,calendar,calendar_set,por favor lembrar me de telefonar à mãe em meia hora,email_sendemail,0.6013,0.0073,False
+7258,pt-PT,calendar,calendar_set,lembra-me de enviar um email ao chefe depois de uma hora,email_sendemail,0.9995,0.0,False
+7262,pt-PT,calendar,calendar_set,criar lembrete de notificação para a reunião de amanhã,calendar_set,0.8213,0.8213,True
+7266,pt-PT,calendar,calendar_query,quais são as minhas tarefas pendentes,lists_remove,0.8152,0.0038,False
+7278,pt-PT,calendar,calendar_set,lembra-me do aniversário da rita vinte e quatro horas antes,datetime_query,0.5094,0.0049,False
+7287,pt-PT,calendar,calendar_set,lembrar-me do meu aniversário um dia antes,calendar_remove,0.6887,0.0008,False
+7289,pt-PT,calendar,calendar_remove,elimina todos os eventos com o jeff,calendar_remove,0.4256,0.4256,True
+7291,pt-PT,calendar,calendar_set,bloquear uma hora a partir das dez da manhã amanhã,calendar_remove,0.9122,0.0073,False
+7292,pt-PT,calendar,calendar_set,não estou disponível das quatro às seis da noite de amanhã marca o meu calendário,calendar_remove,0.5565,0.0278,False
+7293,pt-PT,calendar,calendar_set,agendar um compromisso de uma hora no sábado,calendar_remove,0.9434,0.0296,False
+7294,pt-PT,calendar,calendar_remove,apagar a marcação com o joão do meu calendário,calendar_remove,0.999,0.999,True
+7295,pt-PT,calendar,calendar_remove,libertar a minha agenda,email_sendemail,0.9843,0.0003,False
+7314,pt-PT,calendar,calendar_query,o que se passa hoje,news_query,0.2988,0.0103,False
+7316,pt-PT,calendar,calendar_query,tenho alguns compromissos,lists_remove,0.2582,0.0315,False
+7319,pt-PT,calendar,calendar_query,que se passa hoje das duas às quatro da tarde,weather_query,0.9936,0.0012,False
+7353,pt-PT,email,email_query,diz-me como está o tempo na california nas próximas semanas,weather_query,0.999,0.0001,False
+7355,pt-PT,calendar,calendar_set,lembrar para verificar o estufado às seis horas,iot_hue_lightoff,0.9984,0.0001,False
+7380,pt-PT,calendar,calendar_query,mostrar a reunião de hoje com clientes,social_post,0.3023,0.0122,False
+7397,pt-PT,calendar,calendar_query,há eventos planeados para os próximos três meses,calendar_set,0.3506,0.0181,False
+7449,pt-PT,calendar,calendar_set,agendar uma reunião com esta pessoa,qa_factoid,0.3057,0.0135,False
+7450,pt-PT,calendar,calendar_set,preciso agendar uma reunião com esta pessoa,email_sendemail,0.1844,0.0288,False
+7455,pt-PT,calendar,calendar_set,me lembre da festa amanhã,weather_query,0.708,0.0008,False
+7461,pt-PT,calendar,calendar_set,convidar pessoas para o evento no calendário,recommendation_events,0.8845,0.0407,False
+7463,pt-PT,calendar,calendar_set,informar o meu grupo que a nova data de reunião é amanhã,datetime_query,0.6776,0.0275,False
+7467,pt-PT,calendar,calendar_query,diz-me as horas dos eventos,qa_factoid,0.9698,0.0002,False
+7477,pt-PT,calendar,calendar_set,lembrar-me no dia cinco de março todos os anos de organizar presentes de aniversário de casamento,email_sendemail,0.5841,0.0044,False
+7496,pt-PT,calendar,calendar_query,tenho compromissos hoje,social_post,0.2476,0.0317,False
+7499,pt-PT,calendar,calendar_set,fazer novo agendamento para a reunião de amanhã,calendar_remove,0.8939,0.0047,False
+7500,pt-PT,calendar,calendar_remove,podes apagar o próximo evento,calendar_remove,0.9413,0.9413,True
+7502,pt-PT,calendar,calendar_query,qual a agenda para as quatro da tarde com o joão,calendar_remove,0.5519,0.3739,False
+7503,pt-PT,calendar,calendar_query,onde em lisboa é aquela reunião à uma da tarde de sexta-feira,weather_query,0.773,0.0337,False
+7520,pt-PT,calendar,calendar_set,lembrar-me todos os dias de almoçar às duas da tarde,calendar_remove,0.3899,0.0213,False
+7524,pt-PT,calendar,calendar_query,quanto estou disposto a investir na minha empresa na reunião que hoje teve lugar às dezassete horas e vinte minutos,recommendation_events,0.2776,0.0367,False
+7528,pt-PT,calendar,calendar_set,treze de junho é um dia de resultados de eleições por favor coloca,datetime_query,0.6039,0.009,False
+7531,pt-PT,calendar,calendar_set,por favor adicionar os meus dias de pagamento,calendar_remove,0.5353,0.0371,False
+7539,pt-PT,calendar,calendar_query,tenho alguma coisa a acontecer,news_query,0.458,0.0076,False
+7542,pt-PT,calendar,calendar_set,lembrar-me disso amanhã,email_sendemail,0.4712,0.0006,False
+7549,pt-PT,calendar,calendar_set,quero uma reunião às três horas,calendar_remove,0.6943,0.0059,False
+7556,pt-PT,calendar,calendar_set,criar lembrete no meu calendário para me lembrar de comprar mercearias todas as sextas-feiras,calendar_set,0.7278,0.7278,True
+7557,pt-PT,calendar,calendar_set,adiciona um lembrete do local a no calendário,calendar_set,0.8913,0.8913,True
+7559,pt-PT,calendar,calendar_set,lembrar me esta noite para ir buscar a minha roupa à lavandaria às oito da noite,iot_hue_lightoff,0.2772,0.0251,False
+7563,pt-PT,calendar,calendar_set,lembrar me sobre a reunião de amanhã uma hora antes,calendar_remove,0.5881,0.0099,False
+7565,pt-PT,calendar,calendar_set,lembrete de reunião,email_sendemail,0.6594,0.0017,False
+7567,pt-PT,calendar,calendar_set,aniversário,qa_factoid,0.6217,0.0111,False
+7569,pt-PT,calendar,calendar_query,planos para amanhã,weather_query,0.2773,0.0228,False
+7570,pt-PT,calendar,calendar_query,qual é o plano para hoje,lists_query,0.1137,0.0368,False
+7583,pt-PT,calendar,calendar_set,adicionar evento ao teu calendário,calendar_set,0.8325,0.8325,True
+7596,pt-PT,calendar,calendar_set,agendar uma reunião com o dário em aveiro ao meio-dia,email_sendemail,0.3504,0.0823,False
+7598,pt-PT,calendar,calendar_set,por favor marcar uma reunião para debater o terrorismo com o rui no próximo dia de reunião disponível,calendar_remove,0.5037,0.0889,False
+7606,pt-PT,calendar,calendar_set,encontro com josé amanhã às três,social_post,0.9976,0.0001,False
+7609,pt-PT,calendar,calendar_remove,remover lembrete de reunião para terça feira,calendar_remove,0.9996,0.9996,True
+7613,pt-PT,calendar,calendar_query,qual é o próximo evento,qa_factoid,0.5705,0.0102,False
+7628,pt-PT,calendar,calendar_set,lembrar me quando estiver na biblioteca para pedir um novo cartão,email_sendemail,0.649,0.0066,False
+7654,pt-PT,calendar,calendar_set,marcar vinte de abril como aniversário do meu irmão,iot_hue_lightoff,0.2778,0.1241,False
+7655,pt-PT,calendar,calendar_set,adicionar um lembrete para o aniversário do meu irmão no dia vinte de abril,email_sendemail,0.5006,0.1315,False
+7660,pt-PT,calendar,calendar_remove,cancelar todos os meus compromissos depois das três da tarde de hoje e me informe os detalhes,calendar_remove,0.8998,0.8998,True
+7662,pt-PT,calendar,calendar_query,pode listar as minhas reuniões de hoje,lists_query,0.608,0.0038,False
+7664,pt-PT,calendar,calendar_set,adicionar um almoço com o miguel,cooking_recipe,0.9278,0.0009,False
+7666,pt-PT,calendar,calendar_set,marcar que tenho uma reunião com o tomás às três horas amanhã,calendar_remove,0.4338,0.0226,False
+7680,pt-PT,calendar,calendar_remove,eventos de golfe mês,news_query,0.6095,0.0107,False
+7686,pt-PT,calendar,calendar_set,adiciona o miguel e o joaquim ao calendário festival,calendar_set,0.9999,0.9999,True
+7690,pt-PT,calendar,calendar_query,que tenho a seguir,qa_factoid,0.732,0.0049,False
+7693,pt-PT,calendar,calendar_query,tenho algo planeado para o dia vinte e um,calendar_set,0.6048,0.0331,False
+7697,pt-PT,calendar,calendar_set,criar um lembrete para isto,calendar_remove,0.4487,0.0649,False
+7711,pt-PT,calendar,calendar_set,ei cancelar todas as minhas outras reuniões e chamadas para dois de março porque é o aniversário do joaquim marcar como um evento no teu calendário,calendar_remove,0.9999,0.0,False
+7712,pt-PT,calendar,calendar_set,olá alexa cancela todas as minhas outras reuniões e chamadas para o dia dois de março pois é o aniversário do jaime marcá-lo como um evento no teu calendário,calendar_remove,0.9952,0.0005,False
+7718,pt-PT,calendar,calendar_set,ei enviar um convite de reunião para o sr. rodrigues para a reunião desta sexta feira e fechar o meu calendário para sexta feira à tarde,calendar_remove,0.9944,0.002,False
+7726,pt-PT,calendar,calendar_set,preciso fazer algo todas as segundas feiras definir lembrete para isso,iot_hue_lightoff,0.2492,0.1807,False
+7730,pt-PT,calendar,calendar_set,por favor marca a próxima segunda feira,calendar_set,0.9338,0.9338,True
+7741,pt-PT,calendar,calendar_remove,limpar o meu calendário para sábado,calendar_remove,1.0,1.0,True
+7751,pt-PT,calendar,calendar_set,lembrar-me todas as segundas-feiras de levar o lixo para fora,lists_remove,0.9561,0.0014,False
+7762,pt-PT,calendar,calendar_query,quais lembretes eu tenho,qa_factoid,0.804,0.0092,False
+7767,pt-PT,calendar,calendar_set,adicionar ao calendário treino a quatro de fevereiro no parque da cidade às duas da tarde,calendar_set,0.9819,0.9819,True
+7768,pt-PT,calendar,calendar_set,por favor adicionar treino a quatro de fevereiro no jardim da estrela às duas da tarde,iot_hue_lightoff,0.7595,0.1489,False
+7774,pt-PT,calendar,calendar_set,adicionar compras ao meu calendário para amanhã,calendar_set,1.0,1.0,True
+7777,pt-PT,calendar,calendar_query,tenho algum compromisso hoje,calendar_remove,0.5762,0.0283,False
+7778,pt-PT,calendar,calendar_set,lembrar me o que vou fazer no domingo à tarde,cooking_recipe,0.9955,0.0004,False
+7808,pt-PT,calendar,calendar_set,lembra-me de levar a mãe ao cabeleireiro quinta feira às onze da manhã,cooking_recipe,0.3665,0.0115,False
+7817,pt-PT,calendar,calendar_query,isto é verdade acerca desta data,qa_factoid,0.9998,0.0,False
+7820,pt-PT,calendar,calendar_remove,apagar todos os eventos do calendário,calendar_remove,0.9975,0.9975,True
+7836,pt-PT,calendar,calendar_remove,apagar todos os eventos,calendar_remove,0.5539,0.5539,True
+7843,pt-PT,calendar,calendar_set,avisa me em duas horas que tenho de sair para minha aula de violino que é às dezasseis horas no euromúsica,play_music,0.6619,0.001,False
+7844,pt-PT,calendar,calendar_query,quais os lembretes que programei,qa_factoid,0.9945,0.0002,False
+7847,pt-PT,calendar,calendar_set,avisar me quando abrir o registo,iot_hue_lightoff,0.8884,0.0038,False
+7851,pt-PT,calendar,calendar_set,tenho uma reunião ao meio dia hoje,weather_query,0.9713,0.0008,False
+7863,pt-PT,calendar,calendar_set,lembra me de começar o jantar esta tarde às cinco,cooking_recipe,0.9956,0.0016,False
+7870,pt-PT,calendar,calendar_remove,deletar evento do meu calendário,calendar_remove,1.0,1.0,True
+7876,pt-PT,news,news_query,o que tem estado a acontecer nos últimos dois meses,news_query,0.8599,0.8599,True
+7878,pt-PT,calendar,calendar_remove,apaga o meu calendário,calendar_remove,1.0,1.0,True
+7879,pt-PT,calendar,calendar_query,quais são os meus três próximos eventos,recommendation_events,0.9042,0.005,False
+7889,pt-PT,calendar,calendar_query,a que horas é o jogo de futebol hoje à noite,weather_query,0.9379,0.0002,False
+7890,pt-PT,calendar,calendar_remove,eliminar cortar o cabelo hoje,iot_hue_lightoff,0.6305,0.0263,False
+7891,pt-PT,calendar,calendar_remove,cancelar jantar de hoje à noite,calendar_remove,0.9918,0.9918,True
+7892,pt-PT,calendar,calendar_remove,apagar o próximo evento de hoje,calendar_remove,0.4012,0.4012,True
+7894,pt-PT,calendar,calendar_set,dar me uma actualização sobre a eleição em uma hora,iot_hue_lightoff,0.4611,0.0027,False
+7902,pt-PT,calendar,calendar_set,cria uma reunião entre mim e o jorge às duas da tarde amanhã,social_post,0.361,0.0247,False
+7908,pt-PT,calendar,calendar_query,preciso de fazer qualquer coisa hoje,qa_factoid,0.8113,0.0078,False
+7912,pt-PT,calendar,calendar_remove,alexa remover jantar com o miguel do meu calendário,calendar_remove,1.0,1.0,True
+7916,pt-PT,calendar,calendar_set,lembra-me de levar o lixo às dezoito horas,lists_remove,0.4676,0.0129,False
+7918,pt-PT,calendar,calendar_set,evento no calendário enviar convite a guilherme moreira,recommendation_events,0.9365,0.0037,False
+7919,pt-PT,calendar,calendar_set,reunião bill e malinda,email_sendemail,0.8219,0.0045,False
+7922,pt-PT,calendar,calendar_remove,abrir tarefas apagar eventos futuros,iot_hue_lightoff,0.6366,0.2203,False
+7927,pt-PT,calendar,calendar_query,o que é que eu tenho para fazer esta semana,cooking_recipe,0.9818,0.0014,False
+7946,pt-PT,calendar,calendar_query,quais são os concertos que acontecerão e coimbra,play_music,0.3997,0.0061,False
+7953,pt-PT,calendar,calendar_remove,remover a consulta com o meu médico no sábado por favor,calendar_remove,0.9777,0.9777,True
+7955,pt-PT,calendar,calendar_set,colocar esse evento em modo recorrente no meu calendário,calendar_set,0.9661,0.9661,True
+7956,pt-PT,calendar,calendar_set,podes fazer este evento repetitivo,recommendation_events,0.3824,0.0062,False
+7966,pt-PT,calendar,calendar_query,disse-te para me lembrares de alguma coisa,email_sendemail,0.7489,0.0027,False
+7970,pt-PT,calendar,calendar_set,lembra me do casamento a tempo de comprar um presente,email_sendemail,0.7185,0.009,False
+7971,pt-PT,calendar,calendar_set,agende um lembrete para dois dias de eventos prior,calendar_remove,0.5802,0.0033,False
+7975,pt-PT,calendar,calendar_query,tens serviço de manobrista no evento,social_post,0.2364,0.0389,False
+7978,pt-PT,calendar,calendar_query,quais lembretes tenho agendados antes do meio-dia amanhã,lists_remove,0.8293,0.0072,False
+7980,pt-PT,calendar,calendar_set,diz-me quando tenho um evento,qa_factoid,0.5987,0.0013,False
+7981,pt-PT,calendar,calendar_set,envie me um alerta antes da reunião,email_sendemail,0.6949,0.0075,False
+7993,pt-PT,calendar,calendar_remove,eliminar todos os eventos do meu calendário,calendar_remove,1.0,1.0,True
+8001,pt-PT,calendar,calendar_remove,podes eliminar o corte de cabelo que eu tenho marcado para sexta-feira,lists_remove,0.697,0.0707,False
+8004,pt-PT,calendar,calendar_set,a dora precisa de falar comigo sobre o nosso divórcio podes marcar uma reunião assim que eu estiver disponível,email_sendemail,0.9311,0.0002,False
+8005,pt-PT,calendar,calendar_set,na segunda-feira dia vinte preciso de ter uma conversa com o gregório sobre a nossa viagem de fim-de-semana,social_post,0.9658,0.0013,False
+8013,pt-PT,calendar,calendar_query,mostra me a minha reunião para o próximo mês,calendar_set,0.2923,0.1478,False
+8029,pt-PT,calendar,calendar_query,quais são os próximos eventos para hoje,recommendation_events,0.6874,0.1039,False
+8033,pt-PT,datetime,datetime_query,em que dia calha a páscoa,qa_factoid,0.9957,0.0001,False
+8035,pt-PT,calendar,calendar_set,lembra-me de mudar o óleo,cooking_recipe,0.5532,0.0109,False
+8037,pt-PT,calendar,calendar_set,lembrar me de lavar a roupa esta semana,cooking_recipe,0.9626,0.0007,False
+8042,pt-PT,calendar,calendar_query,quantas pessoas vão estar presentes na próxima reunião,qa_factoid,0.6616,0.0061,False
+8043,pt-PT,calendar,calendar_query,a que horas é a minha próxima consulta,datetime_query,0.9131,0.0015,False
+8044,pt-PT,calendar,calendar_query,qual é a minha agenda hoje,calendar_query,0.7686,0.7686,True
+8055,pt-PT,calendar,calendar_remove,apagar a minha marcação para sete de março,iot_hue_lightoff,0.307,0.2877,False
+8056,pt-PT,calendar,calendar_query,eu tenho algum encontro sexta-feira,social_post,0.9496,0.0018,False
+8058,pt-PT,calendar,calendar_query,tenho alguma reunião de vendas hoje,recommendation_events,0.9863,0.0004,False
+8073,pt-PT,calendar,calendar_set,marca uma reunião de vendas quarta-feira às onze da manhã,recommendation_events,0.7363,0.028,False
+8079,pt-PT,calendar,calendar_set,configure um lembrete em uma hora para o meu pão assar,cooking_recipe,0.7897,0.0135,False
+8084,pt-PT,calendar,calendar_query,qual é o evento da agenda,qa_factoid,0.4086,0.0179,False
+8085,pt-PT,calendar,calendar_set,gostaria de adicionar um encontro esta semana,recommendation_events,0.8309,0.1399,False
+8100,pt-PT,email,email_sendemail,enviar minhas marcações para reagendar,email_sendemail,0.939,0.939,True
+8107,pt-PT,calendar,calendar_set,marcar um evento de aniversário para martim,iot_hue_lightoff,0.3582,0.0737,False
+8110,pt-PT,calendar,calendar_set,por favor adiciona a supervisão ao meu calendário,calendar_set,0.8555,0.8555,True
+8116,pt-PT,calendar,calendar_query,que reuniões aconteceram durante o período de um de fevereiro e dezasseis de março,news_query,0.2457,0.0325,False
+8119,pt-PT,calendar,calendar_query,onde vai decorrer a festa de aniversário da maria,calendar_remove,0.2177,0.042,False
+8125,pt-PT,calendar,calendar_set,criar um evento de reunião em meu calendário,calendar_set,0.9992,0.9992,True
+8126,pt-PT,calendar,calendar_set,cria um evento de reunião no meu calendário,calendar_set,0.8617,0.8617,True
+8129,pt-PT,calendar,calendar_query,que lembretes ainda tenho,qa_factoid,0.2461,0.0352,False
+8140,pt-PT,calendar,calendar_set,defina um lembrete para o dia treze que eu vou almoçar com duarte,cooking_recipe,0.9808,0.0046,False
+8148,pt-PT,calendar,calendar_query,defini algum lembrete para mim,qa_definition,0.8655,0.0008,False
+8150,pt-PT,calendar,calendar_query,tenho algum lembrete para a festa de aniversário,calendar_remove,0.3136,0.0085,False
+8165,pt-PT,calendar,calendar_query,já é meio dia e meia tem uma reunião em dez minutos,recommendation_events,0.165,0.0757,False
+8182,pt-PT,calendar,calendar_remove,pode apagar a consulta no dentista,qa_factoid,0.8045,0.038,False
+8188,pt-PT,calendar,calendar_query,que dia é,qa_factoid,0.7867,0.0001,False
+8204,pt-PT,calendar,calendar_set,lembra-me de ir aos correios,transport_query,0.6553,0.0159,False
+8206,pt-PT,calendar,calendar_set,não me deixe esquecer de comprar um presente para a minha irmã,cooking_recipe,0.5717,0.0056,False
+8230,pt-PT,calendar,calendar_query,quanto tempo será o meu almoço de reunião na terça-feira,qa_factoid,0.2564,0.015,False
+8241,pt-PT,calendar,calendar_remove,apagar tudo do meu calendário para o resto do ano,calendar_set,0.8845,0.1138,False
+8245,pt-PT,calendar,calendar_set,preciso ser notificado dos serviços religiosos aos domingos às onze da manhã,email_sendemail,1.0,0.0,False
+8248,pt-PT,calendar,calendar_set,adicionar o jantar de amanhã no calendário,calendar_set,0.9998,0.9998,True
+8251,pt-PT,calendar,calendar_set,preciso colocar no calendário o almoço da próxima semana,calendar_set,1.0,1.0,True
+8260,pt-PT,calendar,calendar_set,alertar-me um dia antes do aniversário do jorge,email_sendemail,0.377,0.0022,False
+8261,pt-PT,calendar,calendar_set,enviar-me um alerta uma hora antes do meu próximo encontro,qa_factoid,0.2639,0.0187,False
+8269,pt-PT,calendar,calendar_set,lembrete em meia hora para a reunião de terça feira,calendar_remove,0.9996,0.0,False
+8276,pt-PT,calendar,calendar_remove,remover a minha próxima consulta agendada,calendar_remove,0.958,0.958,True
+8280,pt-PT,calendar,calendar_set,preciso definir lembrete para quinze de março,iot_hue_lightoff,0.7634,0.0961,False
+8284,pt-PT,calendar,calendar_remove,remover aniversário do calendário,calendar_remove,1.0,1.0,True
+8289,pt-PT,calendar,calendar_set,criar um lembrete para a reunião na faculdade de hoje às quatro,cooking_recipe,0.7622,0.1938,False
+8290,pt-PT,calendar,calendar_set,criar um lembrete para a reunião dos gerentes da próxima semana na terça feira,cooking_recipe,0.3706,0.2614,False
+8294,pt-PT,calendar,calendar_set,adicionar ao calendário e repetir,calendar_set,1.0,1.0,True
+8300,pt-PT,calendar,calendar_set,criar eventos das cinco da tarde às seis da tarde no dia dezoito de março,cooking_recipe,0.3862,0.2849,False
+8302,pt-PT,calendar,calendar_remove,remover reunião da próxima segunda feira,calendar_remove,1.0,1.0,True
+8308,pt-PT,news,news_query,ontem ao meio dia no rossio o que foi o protesto sobre,weather_query,0.8267,0.0179,False
+8336,pt-PT,calendar,calendar_query,quando é o meu brunch com a maria,calendar_remove,0.494,0.0017,False
+8343,pt-PT,datetime,datetime_query,é quarta-feira,weather_query,0.5541,0.0156,False
+8345,pt-PT,calendar,calendar_set,avisem-me quando é que a reunião vai acontecer,datetime_query,0.8868,0.0041,False
+8347,pt-PT,calendar,calendar_query,o que está previsto acontecer dia quatro de dezembro,weather_query,0.2159,0.0373,False
+8358,pt-PT,calendar,calendar_set,lembra-me disto,iot_hue_lightoff,0.976,0.0004,False
+8366,pt-PT,calendar,calendar_set,tornar a marcação para o aniversário da paula no dia dezoito de março recorrente,calendar_remove,0.9922,0.0008,False
+8387,pt-PT,calendar,calendar_set,criar lembrete para lavandaria às oito da noite,cooking_recipe,0.9718,0.0123,False
+8388,pt-PT,calendar,calendar_set,criar lembrete para tratar da roupa às oito da noite,iot_hue_lightoff,0.4237,0.3256,False
+8390,pt-PT,calendar,calendar_set,lembrar-me da minha reunião às,email_sendemail,0.9994,0.0,False
+8394,pt-PT,calendar,calendar_set,definir um lembrete todos os dias ao meio dia para tomar medicação,qa_definition,0.4348,0.1269,False
+8404,pt-PT,calendar,calendar_query,quero saber mais sobre este evento,recommendation_events,0.3893,0.0133,False
+8409,pt-PT,calendar,calendar_remove,apagar o meu jantar de amanhã,calendar_remove,0.9292,0.9292,True
+8410,pt-PT,calendar,calendar_remove,remover o evento do meu jantar na segunda-feira,calendar_remove,1.0,1.0,True
+8413,pt-PT,calendar,calendar_set,por favor alertar me,qa_factoid,0.385,0.0148,False
+8414,pt-PT,calendar,calendar_set,lembrar me para ir jantar com o david na sexta feira às cinco da tarde,cooking_recipe,0.9825,0.0016,False
+8415,pt-PT,calendar,calendar_set,adicionar uma reunião no escritório com o jorge para as três da tarde na terça feira,iot_hue_lightoff,0.243,0.0849,False
+8426,pt-PT,calendar,calendar_query,diz-me quais são os eventos atuais entre ontem e esta manhã,datetime_query,0.1462,0.0371,False
+8430,pt-PT,calendar,calendar_remove,cancelar todas as minhas marcações,calendar_remove,0.8426,0.8426,True
+8431,pt-PT,calendar,calendar_remove,apagar os meus eventos agendados,lists_remove,0.3259,0.2536,False
+8436,pt-PT,calendar,calendar_set,por favor cria uma reunião de almoço para o meio-dia todas as quartas-feiras de março,calendar_set,0.4866,0.4866,True
+8442,pt-PT,calendar,calendar_set,modificar o meu calendário com este evento,calendar_remove,1.0,0.0,False
+8449,pt-PT,calendar,calendar_set,definir um lembrete para o aniversário das minhas filhas,qa_definition,0.5988,0.0088,False
+8453,pt-PT,calendar,calendar_set,adiciona o evento no meu calendário e marca-o como evento a repetir por favor,calendar_set,0.9894,0.9894,True
+8460,pt-PT,calendar,calendar_query,mostrar me os meus eventos,recommendation_events,0.2735,0.0186,False
+8461,pt-PT,calendar,calendar_query,quais são os meus planos para o mês de maio,calendar_set,0.2803,0.0265,False
+8466,pt-PT,calendar,calendar_set,eu tenho uma reunião às nove da manhã na quarta-feira me enviar um lembrete,email_sendemail,1.0,0.0,False
+8469,pt-PT,calendar,calendar_query,o que está agendado no meu calendário hoje,calendar_set,0.9981,0.0015,False
+8474,pt-PT,calendar,calendar_set,adicionar a festa de aniversário da joana para amanhã às duas da tarde no hotel tivoli ao meu calendário,calendar_set,0.9966,0.9966,True
+8494,pt-PT,calendar,calendar_query,que tal está a minha agenda hoje,calendar_query,0.5643,0.5643,True
+8496,pt-PT,calendar,calendar_query,diz me as minhas reuniões para amanhã de manhã,email_sendemail,0.5259,0.0108,False
+8498,pt-PT,calendar,calendar_query,vamos rever todos os lembretes pendentes,lists_remove,0.4015,0.0155,False
+8516,pt-PT,calendar,calendar_remove,apagar item do calendário,calendar_remove,0.9999,0.9999,True
+8520,pt-PT,calendar,calendar_set,adicionar evento ao meu calendário,calendar_set,0.9988,0.9988,True
+8525,pt-PT,calendar,calendar_query,lembretes da reunião das três às cinco,email_sendemail,0.3617,0.0268,False
+8535,pt-PT,calendar,calendar_set,pode lembrar me da consulta no dentista que eu tenho em duas horas,qa_factoid,0.3194,0.0093,False
+8539,pt-PT,calendar,calendar_set,lembra me sobre,social_post,0.7896,0.0007,False
+8541,pt-PT,calendar,calendar_set,lembrar-me,email_sendemail,1.0,0.0,False
+8553,pt-PT,calendar,calendar_set,adicionar reunião ao meu calendário para as nove da manhã com o tomás,calendar_set,1.0,1.0,True
+8559,pt-PT,calendar,calendar_query,tenho alguma coisa agendada hoje,calendar_set,0.9718,0.0015,False
+8562,pt-PT,calendar,calendar_remove,apagar a minha reunião para as duas da tarde hoje,calendar_remove,0.9904,0.9904,True
+8568,pt-PT,calendar,calendar_set,podes enviar um convite de calendário para o jaime e alice para brunch às onze da manhã na terça feira,calendar_remove,0.6566,0.3265,False
+8570,pt-PT,calendar,calendar_set,vais lembrar te que vou estar ocupado para um evento amanhã às duas da tarde,recommendation_events,0.2719,0.1008,False
+8579,pt-PT,calendar,calendar_query,que informações devo saber para as minhas reuniões de hoje,email_query,0.2845,0.0456,False
+8585,pt-PT,calendar,calendar_set,lembrar-me que tenho uma festa de aniversário no dia trinta,email_sendemail,0.9316,0.0017,False
+8598,pt-PT,calendar,calendar_set,lembrar me de ir buscar o marco ao aeroporto às seis da tarde,weather_query,0.9709,0.0008,False
+8618,pt-PT,calendar,calendar_set,lembrar-me de regar as minhas plantas as todas as terças quintas e sábados,lists_remove,0.8512,0.0017,False
+8631,pt-PT,calendar,calendar_remove,apagar isso do meu calendário,calendar_remove,0.9988,0.9988,True
+8635,pt-PT,calendar,calendar_set,lembrar-me de encomendar o peru três semanas antes do natal,email_sendemail,1.0,0.0,False
+8640,pt-PT,calendar,calendar_set,quero criar uma nota no meu calendário para o evento de amanhã na biblioteca,calendar_set,0.9931,0.9931,True
+8642,pt-PT,calendar,calendar_set,adicionar chamada em conferência às quatro da tarde aos meus lembretes para hoje,qa_factoid,0.5197,0.0429,False
+8651,pt-PT,calendar,calendar_set,me notificar sobre os eventos no meu calendário,calendar_query,0.3084,0.164,False
+8653,pt-PT,calendar,calendar_set,lembra me do evento no meu calendário,calendar_remove,0.5659,0.1291,False
+8666,pt-PT,calendar,calendar_remove,apagar todos os eventos do meu calendário,calendar_remove,0.9982,0.9982,True
+8667,pt-PT,calendar,calendar_query,quantas reuniões tive com o sr. rodrigues nos últimos três meses,recommendation_events,0.1784,0.039,False
+8670,pt-PT,calendar,calendar_remove,apagar todos os eventos do meu calendário,calendar_remove,0.9982,0.9982,True
+8672,pt-PT,calendar,calendar_query,onde é o concerto dos mão morta,play_music,0.6996,0.0145,False
+8674,pt-PT,calendar,calendar_query,onde é a minha reunião às nove da manhã,calendar_remove,0.2832,0.1323,False
+8679,pt-PT,calendar,calendar_query,hoje é dia de são joão,weather_query,0.9968,0.0001,False
+8681,pt-PT,calendar,calendar_query,é o aniversário de alguém,qa_factoid,0.9108,0.0025,False
+8694,pt-PT,calendar,calendar_set,o evento inclui o valter e a ema,email_sendemail,1.0,0.0,False
+8730,pt-PT,calendar,calendar_set,por favor definir lembrete no meu calendário para a minha reunião de vinte e cinco de março,calendar_set,0.9088,0.9088,True
+8732,pt-PT,calendar,calendar_remove,apagar todas as datas,lists_remove,0.8297,0.0692,False
+8762,pt-PT,calendar,calendar_query,diz-me qual é minha agenda para esta tarde mais tarde,calendar_query,0.7706,0.7706,True
+8765,pt-PT,calendar,calendar_set,criar um evento para o meu jantar no capa negra hoje às nove,qa_factoid,0.816,0.0011,False
+8766,pt-PT,calendar,calendar_query,tenho uma reunião no sábado dia vinte e cinco de março,calendar_remove,0.8254,0.0293,False
+8767,pt-PT,calendar,calendar_query,é o aniversário da jéssica doze de abril,qa_factoid,0.9518,0.0004,False
+8769,pt-PT,calendar,calendar_remove,apagar o próximo evento,iot_hue_lightoff,0.4302,0.2556,False
+8771,pt-PT,calendar,calendar_remove,eliminar a ida às compras que eu agendei para vinte e três de março,calendar_remove,0.8685,0.8685,True
+8774,pt-PT,calendar,calendar_query,a minha agenda para sete de julho está completamente livre,calendar_remove,0.9851,0.0001,False
+8781,pt-PT,calendar,calendar_query,estou livre às quatro da tarde,weather_query,0.9918,0.0002,False
+8782,pt-PT,calendar,calendar_query,tenho alguma reunião para esta tarde,calendar_remove,0.558,0.0365,False
+8791,pt-PT,calendar,calendar_query,mais informações sobre este evento,email_sendemail,0.4717,0.0076,False
+8795,pt-PT,calendar,calendar_query,mostrar lembretes pendentes,lists_remove,0.6861,0.0041,False
+8822,pt-PT,recommendation,recommendation_events,informações sobre os eventos que virão,recommendation_events,0.3747,0.3747,True
+8824,pt-PT,calendar,calendar_query,que tenho agendado no dia dezanove às duas da tarde,calendar_set,0.5797,0.021,False
+8825,pt-PT,calendar,calendar_set,manda me um lembrte da reunião com o joão próxima sexta-feira,email_sendemail,0.9994,0.0,False
+8828,pt-PT,calendar,calendar_query,o evento do calendário é verdadeiro,calendar_set,0.3088,0.1347,False
+8846,pt-PT,calendar,calendar_query,no dia quatro de julho deste ano,weather_query,0.5939,0.0013,False
+8853,pt-PT,calendar,calendar_remove,apagar a minha próxima atividade,cooking_recipe,0.3076,0.2071,False
+8856,pt-PT,calendar,calendar_remove,deletar todos os eventos em calendário,calendar_remove,1.0,1.0,True
+8857,pt-PT,calendar,calendar_set,lembra-me da próxima reunião com o joão,recommendation_events,0.6097,0.0054,False
+8868,pt-PT,calendar,calendar_set,lembrar me de telefonar à mãe todas as terças feiras às dez da manhã,email_sendemail,0.9838,0.0007,False
+8880,pt-PT,calendar,calendar_set,criar um lembrete da reunião de amanhã às nove da manhã,calendar_set,0.8521,0.8521,True
+8888,pt-PT,calendar,calendar_remove,apagar isto,qa_factoid,0.989,0.0018,False
+8900,pt-PT,calendar,calendar_set,criar lembrete recorrente para todos os domingos,social_post,0.9138,0.0312,False
+8904,pt-PT,calendar,calendar_query,informação de eventos reventes,recommendation_events,0.3598,0.0262,False
+8906,pt-PT,calendar,calendar_set,definir a data do evento no calendário com os outros,qa_definition,0.6651,0.2043,False
+8907,pt-PT,calendar,calendar_set,mencionar o evento na agenda com outras pessoas,recommendation_events,0.6008,0.2794,False
+8912,pt-PT,calendar,calendar_query,me dê os eventos da agenda de hoje depois das seis da noite,calendar_set,0.783,0.0948,False
+8914,pt-PT,calendar,calendar_query,a que horas é a minha marcação no dia quatro de abril,weather_query,0.9909,0.0002,False
+8916,pt-PT,calendar,calendar_query,qual é a minha agenda para o dia,calendar_query,0.4604,0.4604,True
+8925,pt-PT,calendar,calendar_remove,apagar todos os eventos no meu calendário,calendar_remove,0.9905,0.9905,True
+8939,pt-PT,calendar,calendar_set,joana baby shower da filha,qa_factoid,0.4251,0.0056,False
+8948,pt-PT,calendar,calendar_set,adicionar evento para a reunião com o joão,recommendation_events,0.987,0.0082,False
+8949,pt-PT,calendar,calendar_remove,por favor remover o lembrete,calendar_remove,0.9366,0.9366,True
+8958,pt-PT,calendar,calendar_query,abrir horário da reunião,calendar_query,0.378,0.378,True
+8960,pt-PT,calendar,calendar_set,criar alerta à noite para a próxima reunião,cooking_recipe,0.5398,0.0285,False
+8967,pt-PT,calendar,calendar_set,lembrar-me dois dias antes do aniversário da minha esposa,email_sendemail,0.8706,0.0002,False
+8968,pt-PT,calendar,calendar_set,diz me algo para lembrar esta semana,cooking_recipe,0.9838,0.0003,False
+8975,pt-PT,calendar,calendar_query,que reuniões estão marcadas para hoje,calendar_set,0.6079,0.2075,False
+8977,pt-PT,calendar,calendar_set,adiciona lembretes para pagamentos de contas pendentes,lists_remove,0.3155,0.0247,False
+8978,pt-PT,calendar,calendar_set,diz me as reuniões importantes com o meu chefe durante a semana,recommendation_events,0.5523,0.0171,False
+8985,pt-PT,calendar,calendar_remove,ok google apagar o aniversário do henrique do calendário,calendar_remove,1.0,1.0,True
+8990,pt-PT,calendar,calendar_set,cria evento,social_post,0.8183,0.0036,False
+8992,pt-PT,calendar,calendar_set,mostra reuniões,social_post,0.3254,0.0255,False
+9009,pt-PT,calendar,calendar_remove,remover evento de aniversário do meu calendário,calendar_remove,1.0,1.0,True
+9011,pt-PT,calendar,calendar_query,o evento natal a catorze deste mês é verdade,qa_factoid,0.9997,0.0,False
+9014,pt-PT,calendar,calendar_set,notificação vinte e três de outubro reunião meu colega,email_sendemail,1.0,0.0,False
+9015,pt-PT,calendar,calendar_remove,libertar todos os eventos do meu calendário,calendar_remove,0.9921,0.9921,True
+9019,pt-PT,calendar,calendar_query,reuniões de cinco de junho de dois mil e vinte,news_query,0.9634,0.0007,False
+9030,pt-PT,calendar,calendar_remove,apagar do meu calendário a minha consulta médica para hoje,calendar_remove,1.0,1.0,True
+9035,pt-PT,calendar,calendar_query,lembrete do casamento do rahul,social_post,0.7566,0.0033,False
+9043,pt-PT,calendar,calendar_set,próximos eventos,recommendation_events,0.6375,0.0152,False
+9053,pt-PT,calendar,calendar_set,define uma lembrete de evento de reunião com joana terça-feira,iot_hue_lightoff,0.7026,0.1913,False
+9054,pt-PT,calendar,calendar_set,lembrete do evento com a mónica na terça,iot_hue_lightoff,0.8054,0.0062,False
+9059,pt-PT,calendar,calendar_set,alertar-me na hora do evento,weather_query,0.8037,0.0179,False
+9061,pt-PT,calendar,calendar_query,que informação tenho nos lembretes,lists_query,0.1778,0.0371,False
+9062,pt-PT,calendar,calendar_set,pode acrescentar o aniversário de lee no dia vinte e dois de junho,datetime_query,0.3394,0.0114,False
+9074,pt-PT,calendar,calendar_remove,por favor remove esse evento,calendar_remove,0.9988,0.9988,True
+9088,pt-PT,calendar,calendar_remove,limpar tudo no meu calendário,calendar_remove,0.9495,0.9495,True
+9095,pt-PT,calendar,calendar_remove,remover jantar de hoje à noite com a sílvia,calendar_remove,0.5557,0.5557,True
+9103,pt-PT,calendar,calendar_query,há alguma reunião no meu calendário esta tarde,calendar_remove,0.7035,0.2643,False
+9107,pt-PT,calendar,calendar_query,a que horas começa o concerto do fernando daniel no dia três de junho,weather_query,0.9425,0.0004,False
+9110,pt-PT,calendar,calendar_set,criar evento expo dois mil e vinte e um no dia vinte e cinco de março,cooking_recipe,0.9955,0.0002,False
+9112,pt-PT,calendar,calendar_set,adicionar isto ao meu calendário,calendar_set,0.9994,0.9994,True
+9114,pt-PT,calendar,calendar_set,criar um lembrete recorrente para este evento no calendário,calendar_remove,0.5397,0.4519,False
+9116,pt-PT,calendar,calendar_query,remarcar minha reunião,calendar_remove,0.942,0.0019,False
+9121,pt-PT,calendar,calendar_query,que dias tenho ocupados,qa_factoid,0.7849,0.0055,False
+9124,pt-PT,calendar,calendar_set,mostrar-me os eventos no meu calendário de trabalho para a próxima semana,calendar_set,0.6121,0.6121,True
+9137,pt-PT,calendar,calendar_query,a que horas o majestic café fecha entre o almoço e o jantar,weather_query,0.9967,0.0001,False
+9138,pt-PT,qa,qa_factoid,quando a eurocopa inicia oficialmente,iot_hue_lightoff,0.5772,0.2188,False
+9149,pt-PT,calendar,calendar_query,a que horas começa o jantar de gala,datetime_query,0.7221,0.0134,False
+9153,pt-PT,calendar,calendar_set,adicionar jantar com a maria ao meu calendário no sábado,calendar_remove,0.8583,0.1381,False
+9155,pt-PT,calendar,calendar_set,adicionar a consulta no dentista às três de sexta-feira,social_post,0.1772,0.0902,False
+9156,pt-PT,calendar,calendar_set,lembrete,iot_hue_lightoff,0.4009,0.015,False
+9175,pt-PT,calendar,calendar_query,o meu calendário foi actualizado nos últimos dez minutos,calendar_remove,0.6918,0.0075,False
+9182,pt-PT,calendar,calendar_remove,cancelar os meus planos para ir buscar os meus pais ao aeroporto,transport_query,0.4362,0.3937,False
+9187,pt-PT,calendar,calendar_set,pesquisar os clientes que irão participar na reunião,lists_query,0.9079,0.0011,False
+9193,pt-PT,calendar,calendar_set,por favor definir repetição para esta data,calendar_set,0.4485,0.4485,True
+9194,pt-PT,calendar,calendar_remove,por favor remover este evento do meu calendário,calendar_remove,1.0,1.0,True
+9197,pt-PT,calendar,calendar_query,o que tenho planeado para esta semana,calendar_set,0.3546,0.0376,False
+9198,pt-PT,calendar,calendar_query,verificar os meus lembretes,lists_query,0.2691,0.0127,False
+9202,pt-PT,play,play_radio,põe a minha estação de rádio,play_radio,1.0,1.0,True
+9204,pt-PT,play,play_radio,iniciar a rádio r. t. m.,play_radio,0.9981,0.9981,True
+9212,pt-PT,play,play_radio,alguém que ligue o rádio,play_radio,1.0,1.0,True
+9216,pt-PT,play,play_radio,liga a minha estação de rádio,play_radio,1.0,1.0,True
+9225,pt-PT,play,play_radio,podes ligar o rádio,play_radio,1.0,1.0,True
+9233,pt-PT,play,play_radio,abrir pandora,qa_factoid,0.3971,0.1529,False
+9236,pt-PT,play,play_radio,vai para a estação cento e seis ponto nove,transport_query,0.9966,0.0002,False
+9237,pt-PT,play,play_radio,liga o rádio e sintoniza a estação cento e cinco ponto oito,play_radio,1.0,1.0,True
+9250,pt-PT,play,play_radio,quero ouvir rádio,play_radio,1.0,1.0,True
+9254,pt-PT,play,play_radio,sintoniza a rádio f. cento e cinco ponto oito por favor,play_radio,1.0,1.0,True
+9263,pt-PT,play,play_radio,abre a app de rádio,play_radio,1.0,1.0,True
+9269,pt-PT,play,play_radio,sintoniza na noventa ponto seis f. m.,play_music,0.4886,0.1595,False
+9270,pt-PT,play,play_radio,toca apenas a noventa e três ponto sete f. m.,iot_hue_lightoff,0.843,0.0003,False
+9275,pt-PT,play,play_radio,só tocar a antena três no rádio,play_radio,1.0,1.0,True
+9284,pt-PT,play,play_radio,põe f. m.,qa_factoid,0.9803,0.0016,False
+9291,pt-PT,play,play_radio,põe,qa_factoid,0.9987,0.0001,False
+9301,pt-PT,play,play_radio,toca cidade f. m.,qa_factoid,0.9242,0.0005,False
+9303,pt-PT,play,play_radio,põe a m oitenta,qa_factoid,0.654,0.0002,False
+9305,pt-PT,play,play_radio,sintoniza na antena três,play_radio,0.9132,0.9132,True
+9316,pt-PT,play,play_radio,toca rádio comercial,play_radio,1.0,1.0,True
+9317,pt-PT,play,play_radio,ligar a rádio agora,play_radio,1.0,1.0,True
+9321,pt-PT,play,play_radio,liga o rádio agora,play_radio,1.0,1.0,True
+9323,pt-PT,play,play_radio,inicia a pandora,qa_factoid,0.903,0.0685,False
+9326,pt-PT,play,play_radio,liga a rádio antena um agora por favor,play_radio,1.0,1.0,True
+9327,pt-PT,play,play_radio,verifica o sinal am do rádio agora por favor,play_radio,1.0,1.0,True
+9330,pt-PT,play,play_radio,toca,qa_factoid,0.7554,0.0102,False
+9341,pt-PT,play,play_radio,alexa muda de estação de rádio,play_radio,0.9998,0.9998,True
+9352,pt-PT,play,play_radio,põe o rádio por favor,play_radio,1.0,1.0,True
+9353,pt-PT,play,play_radio,inicia música toca o rádio,play_music,0.9997,0.0003,False
+9358,pt-PT,play,play_radio,inicia a estação de rádio oitenta e oito ponto nove,play_radio,1.0,1.0,True
+9361,pt-PT,play,play_radio,ouvir rádio,play_radio,1.0,1.0,True
+9362,pt-PT,play,play_radio,estações de rádio,play_radio,0.9529,0.9529,True
+9363,pt-PT,play,play_radio,vamos ouvir hits da rádio,play_radio,1.0,1.0,True
+9364,pt-PT,play,play_radio,sucessos de música,social_post,0.6659,0.0003,False
+9380,pt-PT,play,play_radio,quero que mudes para a rádio smooth f. m.,play_radio,1.0,1.0,True
+9384,pt-PT,play,play_radio,põe a rfm,play_podcasts,0.8357,0.0559,False
+9394,pt-PT,play,play_radio,ei olly toca rádio,play_radio,0.9832,0.9832,True
+9402,pt-PT,play,play_radio,põe a estação de rádio cento e seis ponto zero,play_radio,1.0,1.0,True
+9406,pt-PT,play,play_radio,inicia o canal de rádio cidade f. m.,play_radio,1.0,1.0,True
+9408,pt-PT,play,play_radio,inicia o rádio,play_radio,1.0,1.0,True
+9426,pt-PT,play,play_radio,quero ouvir uma estação que toque r. and b.,play_radio,0.9975,0.9975,True
+9438,pt-PT,play,play_radio,podes tocar alguma música rap no rádio,play_music,0.9688,0.002,False
+9457,pt-PT,play,play_music,toca a música fim do mundo,play_music,1.0,1.0,True
+9460,pt-PT,play,play_music,toca hip hop dos anos noventa,play_music,0.9987,0.9987,True
+9471,pt-PT,play,play_radio,liga a estação de rádio de country,play_radio,0.9974,0.9974,True
+9494,pt-PT,play,play_radio,põe a estação f. m. que passa músicas pop por favor,play_music,0.997,0.0004,False
+9506,pt-PT,play,play_radio,olly vamos ouvir a rfm cento e quatro ponto um,play_music,0.7747,0.0723,False
+9507,pt-PT,play,play_radio,por favor encontra a estação de rádio onde atualmente está ricardo araújo,play_radio,0.9969,0.9969,True
+9519,pt-PT,play,play_radio,liga qualquer estação f. m. de música pop,play_music,0.9833,0.0007,False
+9520,pt-PT,play,play_radio,emissão de rádio,play_radio,0.999,0.999,True
+9524,pt-PT,play,play_radio,põe um programa da antena um,play_radio,0.9032,0.9032,True
+9528,pt-PT,play,play_radio,liga na antena três a reproduz nas minhas colunas,play_music,0.9924,0.0074,False
+9541,pt-PT,play,play_radio,põe a música eu tenho dois amores na rádio,play_music,0.9998,0.0002,False
+9542,pt-PT,play,play_radio,quero ouvir o mais recente programa de notícias na rádio,play_radio,1.0,1.0,True
+9545,pt-PT,play,play_radio,quero ouvir o programa do aleixo,cooking_recipe,0.9988,0.001,False
+9554,pt-PT,play,play_radio,romântica música nash f. m. noventa e dois ponto sete,play_music,0.9833,0.0008,False
+9561,pt-PT,play,play_radio,toca regresso a casa no rádio,play_radio,0.9933,0.9933,True
+9562,pt-PT,play,play_radio,poderia abrir por gentileza este programa para mim,qa_factoid,0.656,0.002,False
+9565,pt-PT,play,play_radio,toca rádio com músicas sem parar,play_music,0.9169,0.083,False
+9568,pt-PT,play,play_radio,toca a série de concertos ao vivo da ruth marlene,play_music,0.999,0.0002,False
+9569,pt-PT,play,play_radio,ok google abre a cento e seis ponto sete,qa_factoid,0.4725,0.0009,False
+9577,pt-PT,play,play_radio,muda para a estação oitenta e oito ponto quatro,iot_hue_lightoff,0.2582,0.0084,False
+9591,pt-PT,play,play_radio,põe o aleixo amigo na noventa e um ponto três f. m.,email_sendemail,1.0,0.0,False
+9592,pt-PT,play,play_podcasts,procura podcasts que abordam assuntos de homens,play_podcasts,1.0,1.0,True
+9594,pt-PT,play,play_radio,músicas da rádio noventa e três ponto cinco f. m.,play_music,0.651,0.3489,False
+9601,pt-PT,play,play_radio,toca rádio country,play_radio,1.0,1.0,True
+9617,pt-PT,play,play_radio,reproduz o programa desta manhã da cento e um ponto nove,iot_hue_lightoff,0.2429,0.1681,False
+9619,pt-PT,play,play_radio,toca delfins no rádio do carro,play_radio,0.9935,0.9935,True
+9620,pt-PT,play,play_radio,posso ter as manhãs da comercial na rádio no quarto,play_radio,1.0,1.0,True
+9629,pt-PT,play,play_radio,ajuda-me a ouvir rádio por favor,play_radio,1.0,1.0,True
+9630,pt-PT,play,play_radio,toca a rádio maria,play_radio,1.0,1.0,True
+9632,pt-PT,play,play_radio,rádio por favor,play_radio,0.9696,0.9696,True
+9637,pt-PT,play,play_radio,tocar minha playlist no i heart rádio,play_radio,1.0,1.0,True
+9640,pt-PT,play,play_radio,abre o spotify e abre workout,play_music,0.54,0.0034,False
+9651,pt-PT,play,play_radio,ver netflix na minha p. s. quatro,play_podcasts,0.9982,0.0001,False
+9656,pt-PT,play,play_music,toca para mim uma música animada pelas suas colunas,play_music,0.9997,0.9997,True
+9706,pt-PT,play,play_music,toca é natal,iot_hue_lightoff,0.1095,0.0349,False
+9707,pt-PT,play,play_music,abre a media e toca jingle bells,play_music,0.9998,0.9998,True
+9738,pt-PT,play,play_music,podes por favor tocar música clássica para mim,play_music,0.9964,0.9964,True
+9793,pt-PT,play,play_music,toca canções românticas,play_music,0.9998,0.9998,True
+9795,pt-PT,play,play_music,continua eu tenho dois amores,email_sendemail,0.9666,0.0005,False
+9912,pt-PT,cooking,cooking_recipe,olly quanto tempo devo cozer ovos,cooking_recipe,0.9995,0.9995,True
+9918,pt-PT,cooking,cooking_recipe,como faço uma pizza,cooking_recipe,1.0,1.0,True
+9923,pt-PT,cooking,cooking_recipe,quanto tempo devo cozer um ovo,cooking_recipe,0.9998,0.9998,True
+9924,pt-PT,cooking,cooking_recipe,diz-me a receita de,cooking_recipe,1.0,1.0,True
+9930,pt-PT,cooking,cooking_recipe,por quanto tempo devo cozer o ovo,cooking_recipe,0.9979,0.9979,True
+9931,pt-PT,cooking,cooking_recipe,olly quanto tempo devo cozer o ovo,cooking_recipe,0.9998,0.9998,True
+9940,pt-PT,cooking,cooking_recipe,encontra-me uma receita para bolo de chocolate,cooking_recipe,1.0,1.0,True
+9941,pt-PT,cooking,cooking_recipe,como cozinho frango com manteiga,cooking_recipe,1.0,1.0,True
+9942,pt-PT,cooking,cooking_recipe,o que é que leva um bolo red velvet,cooking_recipe,0.9911,0.9911,True
+9943,pt-PT,cooking,cooking_recipe,quanto tempo leva a fazer lasanha de legumes,cooking_recipe,0.9996,0.9996,True
+9952,pt-PT,cooking,cooking_recipe,dá-me um tutorial de culinária,cooking_recipe,0.9999,0.9999,True
+9955,pt-PT,cooking,cooking_recipe,mostrar um video sobre cozinhar frango frito,cooking_recipe,1.0,1.0,True
+9956,pt-PT,cooking,cooking_recipe,com o que é que posso substituir manteiga,qa_factoid,0.3971,0.1319,False
+9961,pt-PT,cooking,cooking_recipe,qual a melhor temperatura do forno para batatas assadas,cooking_recipe,0.9997,0.9997,True
+9962,pt-PT,cooking,cooking_recipe,qual a melhor maneira de cozinhar massa al dente,cooking_recipe,1.0,1.0,True
+9964,pt-PT,cooking,cooking_recipe,informação sobre comida processada,cooking_recipe,0.9995,0.9995,True
+9966,pt-PT,cooking,cooking_recipe,qual é a maneira mais fácil para cozinhar massa,cooking_recipe,1.0,1.0,True
+9969,pt-PT,cooking,cooking_recipe,que ingrediente pode ser usado em vez do açafrão,cooking_recipe,0.7377,0.7377,True
+9971,pt-PT,cooking,cooking_recipe,qual o melhor condutor de calor panelas de cobre ou de ferro fundido,cooking_recipe,0.9876,0.9876,True
+9976,pt-PT,cooking,cooking_recipe,ei robot dê-me uma lista de ingredientes para welsh rarebit,cooking_recipe,0.9998,0.9998,True
+9977,pt-PT,cooking,cooking_recipe,pesquise na internet e exiba os videos do youtube adequados para cozinhar comidas italianas,cooking_recipe,1.0,1.0,True
+9979,pt-PT,cooking,cooking_recipe,cozinha uma aveia,cooking_recipe,1.0,1.0,True
+9980,pt-PT,cooking,cooking_recipe,qual é a ementa de hoje acrescenta-lhe também alguns legumes cozidos,cooking_recipe,0.9984,0.9984,True
+9986,pt-PT,cooking,cooking_recipe,cozer,cooking_recipe,0.9999,0.9999,True
+9994,pt-PT,cooking,cooking_recipe,pode dizer-me a receita para cozinhar pav bhaji,cooking_recipe,1.0,1.0,True
+10016,pt-PT,cooking,cooking_recipe,procedimento de cozimento de peru de ação de graças em cinco frases é o quê,cooking_recipe,0.9999,0.9999,True
+10019,pt-PT,cooking,cooking_recipe,diz-me como cozinho doze biscoitos de aveia,cooking_recipe,1.0,1.0,True
+10023,pt-PT,cooking,cooking_recipe,o que preciso para fazer borrego pathia,cooking_recipe,1.0,1.0,True
+10027,pt-PT,cooking,cooking_recipe,instruções para preparar uma refeição,cooking_recipe,0.9999,0.9999,True
+10031,pt-PT,cooking,cooking_recipe,preciso de uma receita com ingredientes da minha lista de compras,cooking_recipe,1.0,1.0,True
+10038,pt-PT,cooking,cooking_recipe,preciso de boas ideias para cozinhar,cooking_recipe,1.0,1.0,True
+10045,pt-PT,cooking,cooking_recipe,pode dar-me uma receita para canja de galinha caseira,cooking_recipe,1.0,1.0,True
+10048,pt-PT,cooking,cooking_recipe,como faço um peru,qa_factoid,0.9814,0.0168,False
+10049,pt-PT,cooking,cooking_recipe,dizer-me como fazer uma sanduíche de bifana,cooking_recipe,0.9996,0.9996,True
+10053,pt-PT,cooking,cooking_recipe,como faço pizza,cooking_recipe,1.0,1.0,True
+10055,pt-PT,cooking,cooking_recipe,qual a receita para frango frito,cooking_recipe,1.0,1.0,True
+10061,pt-PT,cooking,cooking_recipe,o que devo fazer para o jantar,cooking_recipe,0.9999,0.9999,True
+10072,pt-PT,cooking,cooking_recipe,tempo de cozedura para frango no forno,cooking_recipe,1.0,1.0,True
+10076,pt-PT,cooking,cooking_recipe,podemos substituir bicarbonato por fermento,qa_definition,0.9185,0.01,False
+10077,pt-PT,cooking,cooking_recipe,encontra uma receita para o jantar esta noite,cooking_recipe,1.0,1.0,True
+10078,pt-PT,cooking,cooking_recipe,o que devo cozinhar para o jantar,cooking_recipe,1.0,1.0,True
+10080,pt-PT,cooking,cooking_recipe,vamos cozinhar almôndegas juntos,cooking_recipe,1.0,1.0,True
+10081,pt-PT,cooking,cooking_recipe,diz-me como cozinhar almôndegas,cooking_recipe,0.9998,0.9998,True
+10090,pt-PT,cooking,cooking_recipe,posso obter uma receita para atum,cooking_recipe,1.0,1.0,True
+10093,pt-PT,cooking,cooking_recipe,como é feita a lasanha,cooking_recipe,0.9999,0.9999,True
+10097,pt-PT,cooking,cooking_recipe,quero um cheeseburger,cooking_recipe,1.0,1.0,True
+10099,pt-PT,cooking,cooking_recipe,sabes como cozinhar risotto,cooking_recipe,1.0,1.0,True
+10100,pt-PT,cooking,cooking_recipe,sabes a receita de risotto,cooking_recipe,1.0,1.0,True
+10105,pt-PT,cooking,cooking_recipe,por quanto tempo devo cozinhar um bife para ficar mal passado,cooking_recipe,0.9999,0.9999,True
+10107,pt-PT,cooking,cooking_recipe,preciso de uma receita para pulav de vegetais,cooking_recipe,1.0,1.0,True
+10119,pt-PT,cooking,cooking_recipe,quanto tempo se cozinha um peru com seis quilos,cooking_recipe,0.9997,0.9997,True
+10125,pt-PT,cooking,cooking_recipe,qual e a diferenca entre assar e grelhar,qa_factoid,0.9926,0.0,False
+10132,pt-PT,cooking,cooking_recipe,quanto tempo tenho que cozinhar um bife para ficar mal passado,cooking_recipe,1.0,1.0,True
+10150,pt-PT,cooking,cooking_recipe,como fazer taco,cooking_recipe,1.0,1.0,True
+10156,pt-PT,cooking,cooking_recipe,preciso de saber como fazer pimentos recheados,cooking_recipe,0.9999,0.9999,True
+10164,pt-PT,cooking,cooking_recipe,quanto tempo para cozinhar macaroni,cooking_recipe,0.9999,0.9999,True
+10166,pt-PT,cooking,cooking_recipe,procura a receita de tarte de maçã,cooking_recipe,1.0,1.0,True
+10171,pt-PT,cooking,cooking_recipe,qual é a receita para sopa de peixe,cooking_recipe,1.0,1.0,True
+10177,pt-PT,cooking,cooking_recipe,como cozinhar esparguete de abóbora,cooking_recipe,1.0,1.0,True
+10182,pt-PT,cooking,cooking_recipe,quantos ovos preciso para uma omelete,qa_factoid,0.8557,0.0506,False
+10197,pt-PT,cooking,cooking_recipe,exibir a melhor receita de esparguete,cooking_recipe,1.0,1.0,True
+10206,pt-PT,cooking,cooking_recipe,como se prepara arroz,cooking_recipe,1.0,1.0,True
+10213,pt-PT,cooking,cooking_recipe,lista receitas de biryani famosas,cooking_recipe,0.9998,0.9998,True
+10214,pt-PT,cooking,cooking_recipe,receitas que podem ser feitas numa hora,cooking_recipe,0.9999,0.9999,True
+10216,pt-PT,cooking,cooking_recipe,procura na internet onde se pode comprar uma forma para queques,cooking_recipe,0.9996,0.9996,True
+10217,pt-PT,cooking,cooking_recipe,encontrar a receita de sambar no cookingforu,cooking_recipe,1.0,1.0,True
+10220,pt-PT,cooking,cooking_recipe,que ingredientes preciso para confecionar uma bolo grande,cooking_recipe,1.0,1.0,True
+10224,pt-PT,cooking,cooking_recipe,deve ser saboroso,cooking_recipe,0.9681,0.9681,True
+10226,pt-PT,cooking,cooking_recipe,indica-me a receita para fazer massa,cooking_recipe,1.0,1.0,True
+10426,pt-PT,lists,lists_query,o que está em falta no diário,lists_remove,0.6439,0.0497,False
+10427,pt-PT,lists,lists_remove,por favor limpa a minha lista de compras,lists_remove,0.9998,0.9998,True
+10430,pt-PT,lists,lists_remove,eliminar o primeiro artigo da lista,lists_remove,1.0,1.0,True
+10433,pt-PT,lists,lists_remove,remover a minha lista de tarefas,lists_remove,1.0,1.0,True
+10440,pt-PT,lists,lists_query,alguns eventos especiais na minha lista,recommendation_events,0.6871,0.0122,False
+10442,pt-PT,lists,lists_remove,remover eventos da minha lista,lists_remove,0.567,0.567,True
+10444,pt-PT,lists,lists_remove,apagar artigo,qa_factoid,0.9623,0.0087,False
+10451,pt-PT,lists,lists_query,o que é que eu vou fazer hoje,cooking_recipe,0.9737,0.003,False
+10455,pt-PT,lists,lists_query,o que é que consta na minha lista de afazeres,lists_query,0.9598,0.9598,True
+10462,pt-PT,lists,lists_remove,eliminar uma lista,lists_remove,1.0,1.0,True
+10493,pt-PT,lists,lists_query,o que é que consta na minha lista de afazeres,lists_query,0.9598,0.9598,True
+10494,pt-PT,lists,lists_remove,remover lápis dos artigos de papelaria,lists_remove,0.9877,0.9877,True
+10497,pt-PT,qa,qa_factoid,podes dar me uma lista dos hotéis de cinco estrelas em paris,lists_query,0.5153,0.0025,False
+10508,pt-PT,lists,lists_remove,remover artigo da lista,lists_remove,0.9978,0.9978,True
+10512,pt-PT,lists,lists_query,inclui na lista tudo o que resta na minha pesquisa,lists_remove,0.812,0.1455,False
+10523,pt-PT,lists,lists_remove,elimina da minha lista de reprodução a minha lista de músicas inglesas antigas,lists_remove,0.995,0.995,True
+10525,pt-PT,lists,lists_remove,retira o meu pagamento do carro do meu calendário,calendar_remove,1.0,0.0,False
+10527,pt-PT,lists,lists_remove,retirar a lista,lists_remove,1.0,1.0,True
+10534,pt-PT,lists,lists_query,como está a lista de tarefas para hoje,cooking_recipe,0.6232,0.038,False
+10538,pt-PT,lists,lists_query,repete a minha lista de compras por favor,lists_remove,0.996,0.0002,False
+10565,pt-PT,lists,lists_remove,eliminar todas as listas,lists_remove,1.0,1.0,True
+10568,pt-PT,lists,lists_remove,remover a lista de músicas antigas,lists_remove,0.975,0.975,True
+10570,pt-PT,lists,lists_query,verificar a minha lista de afazeres,lists_query,0.5045,0.5045,True
+10571,pt-PT,lists,lists_query,android,iot_hue_lightoff,0.2324,0.0685,False
+10577,pt-PT,lists,lists_query,dá-me todas as minhas listas,lists_remove,1.0,0.0,False
+10579,pt-PT,lists,lists_remove,redefinir a minha lista de locais,lists_remove,0.7444,0.7444,True
+10588,pt-PT,lists,lists_query,exibir o conteúdo da lista,lists_remove,0.8531,0.1445,False
+10590,pt-PT,lists,lists_remove,remover a segunda fila da lista,lists_remove,1.0,1.0,True
+10655,pt-PT,lists,lists_remove,remover a lista chamada hora da festa,calendar_remove,1.0,0.0,False
+10667,pt-PT,lists,lists_query,cita os horários da lista,lists_query,0.3936,0.3936,True
+10673,pt-PT,lists,lists_remove,por favor remover a seguinte lista,lists_remove,1.0,1.0,True
+10674,pt-PT,lists,lists_remove,coloca a lista atual no lixo,lists_remove,0.9997,0.9997,True
+10679,pt-PT,lists,lists_query,o que está na minha lista de afazeres hoje,lists_remove,0.9944,0.0044,False
+10684,pt-PT,lists,lists_query,que listas consultei eu,lists_query,1.0,1.0,True
+10687,pt-PT,lists,lists_remove,se houver evento de show então remova o,calendar_remove,0.9457,0.0034,False
+10696,pt-PT,lists,lists_remove,substituir,calendar_remove,0.8781,0.0296,False
+10699,pt-PT,lists,lists_query,informa-me dos artigos na lista,lists_query,0.9124,0.9124,True
+10718,pt-PT,lists,lists_remove,podes retirar este artigo da lista,lists_remove,0.9938,0.9938,True
+10731,pt-PT,lists,lists_query,lê o que consta da minha lista,lists_query,0.9934,0.9934,True
+10743,pt-PT,lists,lists_remove,remover esse artigo,calendar_remove,0.7548,0.2197,False
+10753,pt-PT,lists,lists_query,o que é que já apontei na lista de supermercado,lists_query,0.7158,0.7158,True
+10755,pt-PT,lists,lists_remove,elimina a minha lista de afazeres por favor,lists_remove,0.9999,0.9999,True
+10756,pt-PT,lists,lists_remove,limpar a minha lista de compras,lists_remove,0.9569,0.9569,True
+10757,pt-PT,lists,lists_query,que artigos constam da minha lista de compras,lists_query,0.9681,0.9681,True
+10759,pt-PT,lists,lists_query,lê-me a minha lista de compras,lists_remove,0.9992,0.0004,False
+10760,pt-PT,lists,lists_query,diz-me que lista escrevi há dois dias atrás,lists_remove,1.0,0.0,False
+10770,pt-PT,lists,lists_remove,remover os cereais da minha lista de compras,lists_remove,0.9989,0.9989,True
+10772,pt-PT,calendar,calendar_remove,apaga a consulta no dentista de hoje,transport_query,0.4551,0.0058,False
+10776,pt-PT,lists,lists_query,eu tenho alguma lista de mercearias pronta,lists_remove,0.903,0.084,False
+10786,pt-PT,lists,lists_remove,limpar a minha lista de atividades de hoje,lists_remove,0.9656,0.9656,True
+10790,pt-PT,lists,lists_remove,eliminar artigo da lista,lists_remove,0.9999,0.9999,True
+10804,pt-PT,lists,lists_query,lê a minha lista de mercearias,lists_remove,0.9986,0.0008,False
+10805,pt-PT,lists,lists_query,por favor mostra a lista que eu tenho,lists_remove,0.9962,0.0033,False
+10808,pt-PT,lists,lists_remove,eliminar último artigo listado,lists_remove,0.9985,0.9985,True
+10824,pt-PT,lists,lists_remove,olly limpar a lista,lists_remove,0.9998,0.9998,True
+10825,pt-PT,lists,lists_remove,limpar a lista,lists_remove,0.9991,0.9991,True
+10827,pt-PT,lists,lists_remove,eliminar lista de mercearias,lists_remove,1.0,1.0,True
+10828,pt-PT,lists,lists_remove,eliminar tudo,calendar_remove,0.3819,0.3288,False
+10832,pt-PT,calendar,calendar_query,olly o que eu tenho planeado a seguir,cooking_recipe,0.3612,0.0129,False
+10843,pt-PT,lists,lists_remove,retirar leite da minha lista de mercearia,lists_remove,1.0,1.0,True
+10846,pt-PT,lists,lists_remove,não tenho dinheiro suficiente para comprar nintendo switch neste momento podes por favor retirá-la da minha lista de compras da amazon,lists_remove,0.6959,0.6959,True
+10848,pt-PT,lists,lists_remove,remover esta lista das outras,lists_remove,1.0,1.0,True
+10851,pt-PT,lists,lists_query,quais são as minhas listas disponíveis,lists_query,1.0,1.0,True
+10853,pt-PT,lists,lists_remove,tira isso daí,qa_factoid,0.5776,0.0084,False
+10855,pt-PT,lists,lists_query,preciso de verificar a minha lista,lists_query,0.9046,0.9046,True
+10868,pt-PT,lists,lists_query,olly resta mais alguma coisa na lista,lists_remove,1.0,0.0,False
+10887,pt-PT,lists,lists_remove,eliminar a minha lista,lists_remove,1.0,1.0,True
+10895,pt-PT,lists,lists_remove,elimina-o da minha lista,lists_remove,0.9999,0.9999,True
+10909,pt-PT,lists,lists_query,olly lê-me as minhas listas,lists_remove,0.9971,0.0028,False
+10927,pt-PT,lists,lists_query,quero ouvir a minha lista,lists_remove,0.9969,0.0016,False
+10931,pt-PT,lists,lists_query,o que é que consta da minha lista de reprodução,lists_query,0.9747,0.9747,True
+10936,pt-PT,lists,lists_remove,por favor elimina a minha lista de álbuns favoritos,lists_remove,0.9888,0.9888,True
+10954,pt-PT,lists,lists_query,quantas listas eu tenho nos contatos,lists_query,0.9968,0.9968,True
+10956,pt-PT,lists,lists_query,que grupos constam nos meus contactos,social_post,0.814,0.155,False
+10957,pt-PT,lists,lists_query,lembrar de quantas listas eu tenho,lists_remove,1.0,0.0,False
+10960,pt-PT,lists,lists_remove,apaga esse da minha lista,lists_remove,0.9995,0.9995,True
+10970,pt-PT,lists,lists_remove,apagar a última frase,lists_remove,0.9279,0.9279,True
+10979,pt-PT,lists,lists_query,o que consta da tua lista neste momento,lists_query,0.9762,0.9762,True
+10981,pt-PT,lists,lists_query,dá-me a conhecer a lista,lists_query,0.9166,0.9166,True
+10985,pt-PT,lists,lists_remove,remove a minha lista de afazeres esta semana,lists_remove,1.0,1.0,True
+10990,pt-PT,lists,lists_remove,na minha lista de afazeres retirar passar esfregona na cozinha,cooking_recipe,0.7314,0.2584,False
+10999,pt-PT,lists,lists_query,diz-me a lista,lists_remove,0.5501,0.4421,False
+11023,pt-PT,lists,lists_remove,remover lista de compras,lists_remove,1.0,1.0,True
+11024,pt-PT,lists,lists_remove,eliminar a lista de afazeres,lists_remove,0.9981,0.9981,True
+11053,pt-PT,lists,lists_remove,elimina a lista google,lists_remove,1.0,1.0,True
+11075,pt-PT,lists,lists_query,quantas listas tenho eu,lists_remove,0.7227,0.2746,False
+11081,pt-PT,lists,lists_query,que listas se encontram no meu bloco de notas,lists_query,1.0,1.0,True
+11085,pt-PT,lists,lists_remove,retirar leite da lista de compras,lists_remove,0.9986,0.9986,True
+11098,pt-PT,lists,lists_remove,eliminar o meu registo de impostos de mil novecentos e noventa,lists_remove,0.5436,0.5436,True
+11107,pt-PT,lists,lists_query,qual é a minha lista atual,lists_query,0.631,0.631,True
+11124,pt-PT,lists,lists_query,listar artigos na minha agenda de trabalho,lists_query,0.9978,0.9978,True
+11125,pt-PT,lists,lists_query,dá-me os detalhes do pedido de compra,email_sendemail,0.9885,0.0005,False
+11133,pt-PT,lists,lists_remove,remove a lista de convidados que eu criei a semana passada,lists_remove,1.0,1.0,True
+11154,pt-PT,lists,lists_query,verifica a lista de afazeres recente,lists_remove,0.596,0.1431,False
+11162,pt-PT,lists,lists_remove,quero retirar as maçãs da lista,lists_remove,1.0,1.0,True
+11164,pt-PT,lists,lists_remove,retirar da minha lista,lists_remove,0.9998,0.9998,True
+11166,pt-PT,lists,lists_query,abrir o google keep,iot_hue_lightoff,0.7439,0.0042,False
+11168,pt-PT,lists,lists_remove,jogar fora minha lista,lists_remove,0.9998,0.9998,True
+11172,pt-PT,lists,lists_query,dá-me todas as listas disponíveis,lists_query,0.5627,0.5627,True
+11174,pt-PT,lists,lists_query,mostrar todas as listas neste dispositivo,lists_remove,0.9456,0.0507,False
+11180,pt-PT,calendar,calendar_query,meu plano de festa,calendar_remove,0.892,0.003,False
+11186,pt-PT,lists,lists_query,tenho a minha lista de roupas,lists_remove,0.9935,0.0023,False
+11189,pt-PT,lists,lists_query,encontra a lista,lists_query,0.8092,0.8092,True
+11204,pt-PT,lists,lists_query,informações sobre a casa importantes,lists_query,0.3203,0.3203,True
+11215,pt-PT,lists,lists_query,lista,lists_query,1.0,1.0,True
+11250,pt-PT,lists,lists_query,volta a ler-me a minha lista de mercearias,lists_remove,0.9529,0.0442,False
+11257,pt-PT,play,play_podcasts,olly põe o próximo album,email_sendemail,0.9736,0.0008,False
+11259,pt-PT,play,play_podcasts,passa para o próximo podcast,play_podcasts,0.9982,0.9982,True
+11261,pt-PT,play,play_podcasts,próxima,qa_factoid,0.9987,0.0,False
+11265,pt-PT,play,play_podcasts,toca a próxima,qa_factoid,0.9997,0.0,False
+11266,pt-PT,play,play_podcasts,play podcast da minha biblioteca,play_podcasts,1.0,1.0,True
+11267,pt-PT,play,play_podcasts,procura um podcast interessante sobre vencedores do prémio pritzker,play_podcasts,1.0,1.0,True
+11270,pt-PT,play,play_podcasts,põe o próximo podcast,play_podcasts,0.9988,0.9988,True
+11272,pt-PT,play,play_podcasts,toca a seguinte,qa_factoid,0.9968,0.0001,False
+11279,pt-PT,play,play_podcasts,vai para o podcast e reproduz o próximo episódio em friends,play_podcasts,1.0,1.0,True
+11286,pt-PT,play,play_podcasts,põe o podcast tubo de ensaio,play_podcasts,1.0,1.0,True
+11296,pt-PT,play,play_podcasts,upload todos os meus podcast,play_podcasts,0.9986,0.9986,True
+11302,pt-PT,play,play_podcasts,reproduz o podcast bumba na fofinha,play_podcasts,0.9998,0.9998,True
+11303,pt-PT,play,play_podcasts,reproduz o próximo podcast separados de fresco,play_podcasts,1.0,1.0,True
+11306,pt-PT,play,play_podcasts,toca o podcast que eu estava a escutar ontem,play_podcasts,1.0,1.0,True
+11318,pt-PT,play,play_podcasts,põe o próximo episódio do podcast,play_podcasts,1.0,1.0,True
+11322,pt-PT,play,play_podcasts,quais são os melhores podcasts de hoje,social_post,0.9868,0.0018,False
+11328,pt-PT,play,play_podcasts,tocar o podcast assuntos do benfica,play_podcasts,1.0,1.0,True
+11331,pt-PT,play,play_podcasts,mostra me o melhor podcast de músicas rock com uma boa avaliação,play_podcasts,0.995,0.995,True
+11335,pt-PT,play,play_music,toca e baralha todas as músicas calmas,play_music,0.9995,0.9995,True
+11339,pt-PT,play,play_podcasts,põe os meus podcast mais vistos,play_podcasts,1.0,1.0,True
+11340,pt-PT,play,play_podcasts,o ricardo araújo tem algum novo podcast,play_podcasts,1.0,1.0,True
+11341,pt-PT,play,play_podcasts,encontra o último podcast da disney,play_podcasts,1.0,1.0,True
+11343,pt-PT,play,play_podcasts,passa para o próximo episódio das manhãs da comercial,qa_factoid,0.4273,0.19,False
+11345,pt-PT,play,play_podcasts,põe o próximo episódio do podcast,play_podcasts,1.0,1.0,True
+11349,pt-PT,play,play_podcasts,olly começa o podcast iniciado na noite passada,play_podcasts,0.997,0.997,True
+11353,pt-PT,play,play_podcasts,mostra me os podcasts,play_podcasts,1.0,1.0,True
+11361,pt-PT,play,play_podcasts,toque especial shadi no podcast,play_podcasts,0.997,0.997,True
+11366,pt-PT,play,play_podcasts,volta para o episódio anterior,qa_factoid,0.4165,0.0226,False
+11368,pt-PT,play,play_podcasts,toca o podcast do joão,play_podcasts,0.9022,0.9022,True
+11376,pt-PT,play,play_podcasts,quero ouvir um podcast,play_podcasts,1.0,1.0,True
+11384,pt-PT,play,play_podcasts,podes por favor descarregar o meu ficheiro de podcast e toca lo,play_podcasts,1.0,1.0,True
+11409,pt-PT,play,play_podcasts,por favor salta para o próximo episódio do podcast,play_podcasts,0.9997,0.9997,True
+11417,pt-PT,play,play_podcasts,começa o próximo episódio,play_podcasts,0.9554,0.9554,True
+11418,pt-PT,play,play_podcasts,reproduz o podcast mais recente do rui unas,play_podcasts,1.0,1.0,True
+11420,pt-PT,play,play_podcasts,inicia a reprodução do meu podcast mais recente,play_podcasts,0.9751,0.9751,True
+11423,pt-PT,play,play_podcasts,volta atrás trinta segundos,qa_factoid,0.46,0.0206,False
+11424,pt-PT,play,play_podcasts,rádio t. s. f.,play_radio,0.9993,0.0,False
+11426,pt-PT,lists,lists_query,lista mais visualizada,lists_query,0.9332,0.9332,True
+11427,pt-PT,play,play_podcasts,inicia o ouvir falar de amor,play_music,0.9989,0.0003,False
+11437,pt-PT,play,play_podcasts,por favor põe o podcast para mim,play_podcasts,1.0,1.0,True
+11438,pt-PT,play,play_podcasts,passa para o próximo episódio do podcast por favor,play_podcasts,0.9877,0.9877,True
+11442,pt-PT,play,play_podcasts,reproduz o mais recente podcast do rui unas por favor,play_podcasts,1.0,1.0,True
+11451,pt-PT,play,play_podcasts,quero ouvir o mais recente podcast do nuno markl,play_podcasts,0.9851,0.9851,True
+11453,pt-PT,play,play_podcasts,inicia podcasts sobre a primeira liga,play_podcasts,1.0,1.0,True
+11455,pt-PT,play,play_podcasts,mude para a próxima seção,lists_remove,0.5494,0.0078,False
+11458,pt-PT,play,play_podcasts,passa para o próximo episódio do podcast,play_podcasts,0.9992,0.9992,True
+11459,pt-PT,play,play_podcasts,volta para o último episódio neste podcast,social_post,0.6049,0.3298,False
+11460,pt-PT,play,play_podcasts,quero ouvir um podcast sobre desporto,play_podcasts,1.0,1.0,True
+11467,pt-PT,play,play_podcasts,tocar o podcast mais recente das manhãs da comercial,play_podcasts,1.0,1.0,True
+11470,pt-PT,play,play_podcasts,reproduz o meu podcast favorito por favor,play_podcasts,1.0,1.0,True
+11474,pt-PT,play,play_podcasts,retomar podcast de séries,play_podcasts,0.9999,0.9999,True
+11476,pt-PT,play,play_podcasts,reproduz o podcast anterior,play_podcasts,1.0,1.0,True
+11483,pt-PT,play,play_podcasts,inicia bons rapazes,cooking_recipe,0.9921,0.0001,False
+11490,pt-PT,play,play_podcasts,reproduz o próximo episódio do podcast,play_podcasts,1.0,1.0,True
+11502,pt-PT,play,play_podcasts,próximo botão,qa_factoid,0.9453,0.0013,False
+11505,pt-PT,play,play_podcasts,repete o último podcast que ouvi,play_podcasts,1.0,1.0,True
+11514,pt-PT,play,play_podcasts,olly podemos ouvir o podcast separados de fresco,play_podcasts,0.9999,0.9999,True
+11515,pt-PT,play,play_podcasts,vamos ouvir o podcast o estado da nação,play_podcasts,0.9881,0.9881,True
+11525,pt-PT,play,play_podcasts,quero ver qual é o próximo podcast disponível,play_podcasts,1.0,1.0,True
+11529,pt-PT,play,play_podcasts,ei reproduz o meu podcast favorito da lista,play_podcasts,1.0,1.0,True
+11536,pt-PT,play,play_podcasts,adiciona os favoritos do podcast à playlist e inicia reprodução,play_podcasts,0.9999,0.9999,True
+11539,pt-PT,play,play_podcasts,inicia o próximo podcast,play_podcasts,1.0,1.0,True
+11546,pt-PT,play,play_podcasts,reproduz todos os programas eixo do mal da semana anterior,iot_hue_lightoff,0.9404,0.0106,False
+11554,pt-PT,play,play_podcasts,quero que reproduzas o podcast,play_podcasts,1.0,1.0,True
+11563,pt-PT,recommendation,recommendation_events,o que há para fazer em braga,cooking_recipe,0.9983,0.0001,False
+11570,pt-PT,recommendation,recommendation_events,o que há a acontecer na minha cidade,social_post,0.9286,0.0026,False
+11582,pt-PT,recommendation,recommendation_events,há alguma coisa a acontecer no mundo do jazz no porto,play_podcasts,0.3128,0.0374,False
+11585,pt-PT,recommendation,recommendation_events,algum evento cultural em braga,iot_hue_lightoff,0.3549,0.1362,False
+11598,pt-PT,recommendation,recommendation_events,por favor mostra me os eventos de apresentação de cães a acontecer na minha cidade natal,play_podcasts,0.578,0.0827,False
+11600,pt-PT,recommendation,recommendation_events,que filme posso assistir esta noite no cinema aqui em lisboa,lists_query,0.2531,0.0568,False
+11610,pt-PT,recommendation,recommendation_events,me entregue a lista de apresentações de circo ocorrendo na cidade agora,lists_remove,0.9473,0.0027,False
+11612,pt-PT,recommendation,recommendation_events,que circos há em tomar,transport_query,0.3757,0.0076,False
+11616,pt-PT,recommendation,recommendation_events,há algum evento a acontecer na baixa esta noite,qa_factoid,0.971,0.0014,False
+11643,pt-PT,recommendation,recommendation_events,quais eventos estão ocorrendo logo,news_query,0.3323,0.098,False
+11644,pt-PT,recommendation,recommendation_events,mostrar me eventos em braga,news_query,0.6113,0.0488,False
+11650,pt-PT,recommendation,recommendation_events,ambos jovens motoristas e motoristas provisórios batem com mais frequência do que outros motoristas porque ainda não tiveram a ampla gama de experiências de que precisam para dirigir com segurança uma pesquisa por conta própria mostrou que a experiência de dirigir é um fator importante na redução de acidentes rodoviários e que o momento mais seguro para os jovens condutores é quando eles estão a dirigir sob supervisão enquanto aprendem,lists_query,0.211,0.0372,False
+11681,pt-PT,recommendation,recommendation_events,por favor mostra me a maratona perto de mim,social_post,0.9376,0.0097,False
+11685,pt-PT,recommendation,recommendation_events,fico feliz se me atualizar sobre os eventos a acontecer em nossa zona,news_query,0.306,0.2526,False
+11705,pt-PT,recommendation,recommendation_events,mostra me exposição de pintura na baía do seixal,social_post,0.1478,0.0422,False
+11720,pt-PT,recommendation,recommendation_events,nadar,social_post,0.997,0.0001,False
+11767,pt-PT,recommendation,recommendation_events,olly que eventos estão a acontecer em vilar de mouros este fim de semana,news_query,0.728,0.0486,False
+11770,pt-PT,recommendation,recommendation_events,algum evento este fim de semana em lisboa,social_post,0.2717,0.2005,False
+11782,pt-PT,recommendation,recommendation_events,há algum evento especial próximo de mim este fim de semana,recommendation_events,0.3661,0.3661,True
+11798,pt-PT,recommendation,recommendation_events,qual é o próximo evento na biblioteca,recommendation_events,0.693,0.693,True
+11827,pt-PT,recommendation,recommendation_events,onde posso ir esta noite,iot_hue_lightoff,0.293,0.013,False
+11839,pt-PT,recommendation,recommendation_events,o que se passa na minha zona,social_post,0.836,0.0046,False
+11841,pt-PT,recommendation,recommendation_events,há alguma feira de artesanato acontecendo nesta zona,lists_query,0.347,0.2077,False
+11844,pt-PT,recommendation,recommendation_events,algo interessante a acontecer na baía do seixal,social_post,0.5785,0.0109,False
+11845,pt-PT,recommendation,recommendation_events,olly mostra me alguns eventos interessantes na zona do porto,recommendation_events,0.9983,0.9983,True
+11860,pt-PT,recommendation,recommendation_events,diz me eventos locais,qa_factoid,0.9906,0.0027,False
+11867,pt-PT,recommendation,recommendation_events,há um evento desportivo amanhã em lisboa,recommendation_events,0.5331,0.5331,True
+11875,pt-PT,recommendation,recommendation_events,há algum festival de comida na zona,cooking_recipe,0.999,0.0001,False
+11904,pt-PT,recommendation,recommendation_events,o que irá acontecer por aqui este fim de semana,news_query,0.2629,0.0602,False
+11905,pt-PT,recommendation,recommendation_events,olly fala me sobre actividades na minha zona para este fim de semana,social_post,0.992,0.0021,False
+11911,pt-PT,recommendation,recommendation_events,alguma coisa boa acontecer este fim de semana na zona,cooking_recipe,0.9631,0.0153,False
+11916,pt-PT,recommendation,recommendation_events,que parques temáticos há nas proximidades,recommendation_events,0.4527,0.4527,True
+11969,pt-PT,recommendation,recommendation_events,há algo de especial a acontecer perto daqui,social_post,0.9323,0.0008,False
+11999,pt-PT,recommendation,recommendation_events,diz me todos os eventos de hoje na minha cidade,news_query,0.9857,0.001,False
+12008,pt-PT,recommendation,recommendation_events,há algum evento divertido em lisboa hoje,recommendation_events,0.4606,0.4606,True
+12054,pt-PT,recommendation,recommendation_events,o que se passa na cidade,social_post,0.8146,0.0029,False
+12070,pt-PT,recommendation,recommendation_events,quando é que o centro comercial colombo abre,datetime_query,0.9954,0.0001,False
+12073,pt-PT,recommendation,recommendation_events,diz me eventos locais a decorrer,qa_factoid,0.9628,0.0057,False
+12098,pt-PT,recommendation,recommendation_events,mostra me eventos musicais por perto,play_music,0.9681,0.0022,False
+12189,pt-PT,transport,transport_query,como chego à estação de comboios para comprar bilhetes,transport_query,0.9666,0.9666,True
+12240,pt-PT,transport,transport_query,como estará o trânsito no meu regresso a casa às cinco,transport_query,0.527,0.527,True
+12245,pt-PT,transport,transport_query,quando sai o próximo comboio para viseu partindo de aveiro,lists_remove,0.2677,0.0306,False
+12251,pt-PT,transport,transport_query,diz-me os horários dos comboios para coruche,calendar_query,0.842,0.0014,False
+12252,pt-PT,transport,transport_query,a que horas os comboios para lisboa partem,weather_query,0.9995,0.0,False
+12261,pt-PT,transport,transport_query,dê me opções para um comboio para o porto na próxima quarta ou quinta feira,transport_query,0.9981,0.9981,True
+12263,pt-PT,transport,transport_query,califórnia,qa_factoid,0.9789,0.0005,False
+12264,pt-PT,transport,transport_query,lisboa,email_query,0.2883,0.0291,False
+12294,pt-PT,transport,transport_query,me mostre a programação dos horários do trem para estação do oriente,calendar_remove,0.9745,0.0133,False
+12310,pt-PT,transport,transport_query,dá-me a lista de bilhetes de comboio disponíveis de elvas para évora,lists_remove,0.5755,0.0059,False
+12343,pt-PT,transport,transport_query,verifica a hora do comboio dez mil oitocentos e oitenta e sete da estação do rossio na terça-feira,weather_query,0.9829,0.0009,False
+12354,pt-PT,transport,transport_query,diz-me os horários do comboio,calendar_query,0.8685,0.0003,False
+12366,pt-PT,transport,transport_query,há algum comboio de ligação entre londres e paris e a que horas,transport_query,0.9669,0.9669,True
+12367,pt-PT,transport,transport_query,qual é a melhor forma de chegar em torre de belém,transport_query,0.9979,0.9979,True
+12376,pt-PT,transport,transport_query,qual é o primeiro metro para gaia,qa_definition,0.9706,0.0097,False
+12392,pt-PT,transport,transport_query,diz-me o destino de hoje,social_post,0.4633,0.0109,False
+12402,pt-PT,transport,transport_query,quando o próximo comboio sai para a cidade sai daqui,qa_factoid,0.7671,0.0526,False
+12419,pt-PT,transport,transport_query,caminho mais rápido para lagos,transport_query,0.386,0.386,True
+12430,pt-PT,transport,transport_query,diz-me a hora de chegada do comboio a lisboa,transport_query,0.7171,0.7171,True
+12436,pt-PT,transport,transport_query,quanto tempo demora até ao aeroporto,weather_query,0.7742,0.004,False
+12437,pt-PT,transport,transport_query,qual é o tempo de viagem até ao teatro,qa_factoid,0.6313,0.154,False
+12446,pt-PT,transport,transport_query,podes diz-me a que horas o comboio parte para viseu,qa_factoid,0.926,0.0001,False
+12473,pt-PT,transport,transport_query,como vou para casa de aqui,qa_factoid,0.906,0.0005,False
+12526,pt-PT,transport,transport_query,qual o caminho mais rápido para chegar ao starbucks,transport_query,0.9781,0.9781,True
+12532,pt-PT,transport,transport_query,dirige o caminho até ao local,transport_query,0.9611,0.9611,True
+12581,pt-PT,transport,transport_query,quando é que o comboio regional opera hoje,weather_query,0.8297,0.0027,False
+12582,pt-PT,transport,transport_query,a que horas chega o primeiro elétrico de manhã,iot_hue_lightoff,0.4039,0.0026,False
+12604,pt-PT,transport,transport_query,como eu reservo um bilhete de comboio online,email_sendemail,0.9999,0.0,False
+12618,pt-PT,transport,transport_query,quanto custa um bilhete de ida e volta de comboio para lisboa,transport_query,0.9786,0.9786,True
+12623,pt-PT,transport,transport_query,você tem o horário do comboio para viseu,qa_factoid,0.9517,0.0003,False
+12629,pt-PT,transport,transport_query,a que horas parte o primeiro comboio de castelo branco,weather_query,0.9947,0.0001,False
+12634,pt-PT,transport,transport_query,quando parte o próximo comboio para aveiro,qa_factoid,0.2945,0.0182,False
+12707,pt-PT,transport,transport_query,pesquisa de navegação,news_query,0.3282,0.0586,False
+12759,pt-PT,transport,transport_query,duração de uma viagem de carro até estoril,qa_factoid,0.6225,0.0274,False
+12797,pt-PT,transport,transport_query,horários de comboio de perto de mim para localização,lists_query,0.2086,0.1849,False
+12800,pt-PT,transport,transport_query,onde fica a biblioteca municipal,email_query,0.358,0.0323,False
+12817,pt-PT,transport,transport_query,como eu chego no shopping,cooking_recipe,0.1729,0.0301,False
+12818,pt-PT,transport,transport_query,quanto custa um bilhete de comboio para braga,qa_factoid,0.8192,0.0001,False
+12824,pt-PT,transport,transport_query,lista todos os comboios para lisboa,lists_query,1.0,0.0,False
+12835,pt-PT,transport,transport_query,a que horas parte o comboio para o local,weather_query,0.8813,0.0003,False
+12839,pt-PT,transport,transport_query,leva-me até belém,social_post,0.9978,0.0001,False
+12851,pt-PT,transport,transport_query,mostra-me o caminho para minha casa,transport_query,0.9938,0.9938,True
+12856,pt-PT,transport,transport_query,direções por favor,qa_factoid,0.6712,0.0062,False
+12866,pt-PT,transport,transport_query,que horas passa o alfa pendular,weather_query,0.4696,0.0002,False
+12908,pt-PT,transport,transport_query,a que horas chega o comboio à figueira da foz,weather_query,0.9946,0.0001,False
+12930,pt-PT,transport,transport_query,vê no mapa as lojas próximas de mim,social_post,0.8949,0.0023,False
+12932,pt-PT,transport,transport_query,olly preciso de direções para a avenida do brasil,transport_query,0.9024,0.9024,True
+12951,pt-PT,qa,qa_factoid,qual é o prédio mais alto do mundo,qa_factoid,0.9832,0.9832,True
+12957,pt-PT,qa,qa_definition,defina elaborar,qa_definition,0.9738,0.9738,True
+12961,pt-PT,qa,qa_definition,por favor define forense,qa_factoid,0.6688,0.3271,False
+12963,pt-PT,qa,qa_definition,qual é a definição de forense,qa_definition,1.0,1.0,True
+12972,pt-PT,qa,qa_factoid,qual é o pico mais alto do mundo,qa_factoid,1.0,1.0,True
+12982,pt-PT,qa,qa_definition,o que significa turbulência,qa_definition,0.9776,0.9776,True
+12986,pt-PT,qa,qa_definition,verificar definição de caprichoso,qa_definition,0.9997,0.9997,True
+12999,pt-PT,qa,qa_factoid,quantos anos tem a mariah carey,qa_factoid,0.9976,0.9976,True
+13016,pt-PT,qa,qa_definition,procura a definição de erro,qa_definition,0.9898,0.9898,True
+13023,pt-PT,cooking,cooking_recipe,mostra receitas,cooking_recipe,1.0,1.0,True
+13069,pt-PT,qa,qa_definition,quais são as definições para laranja,qa_definition,0.9712,0.9712,True
+13074,pt-PT,qa,qa_factoid,porque é que adam sandler não é engraçado,social_post,0.7986,0.1424,False
+13077,pt-PT,qa,qa_factoid,quando é o aniversário de joão baião,qa_factoid,0.4198,0.4198,True
+13078,pt-PT,qa,qa_factoid,diz-me a morada do bernardo soares,social_post,0.9976,0.0001,False
+13099,pt-PT,qa,qa_factoid,quem é o atual primeiro ministro britânico,qa_factoid,0.997,0.997,True
+13115,pt-PT,qa,qa_factoid,qual a capital da nigeria,qa_factoid,1.0,1.0,True
+13124,pt-PT,qa,qa_factoid,quão grande é o cosmos,qa_factoid,0.965,0.965,True
+13135,pt-PT,qa,qa_factoid,quando foi a data de nascimento de nuno lopes,datetime_query,0.8738,0.1173,False
+13140,pt-PT,qa,qa_definition,diga-me tudo sobre furacão,social_post,0.2612,0.1087,False
+13154,pt-PT,qa,qa_factoid,sabes o número de telefone do marco paulo,qa_factoid,0.9693,0.9693,True
+13165,pt-PT,qa,qa_definition,o que significa oscilar,qa_definition,0.9848,0.9848,True
+13166,pt-PT,qa,qa_definition,soletre e defina oscilar,qa_factoid,0.6011,0.0013,False
+13177,pt-PT,calendar,calendar_set,lembra de me movimentar para não haver ganho de peso,qa_factoid,0.4899,0.0034,False
+13178,pt-PT,calendar,calendar_set,lembra me de contactar velhos amigos com quem não falo há seis meses antes de eles falecerem,social_post,0.9957,0.0002,False
+13188,pt-PT,news,news_query,diga-me como serão os resultados das eleições de assembleia em lisboa,weather_query,0.3063,0.1085,False
+13206,pt-PT,qa,qa_definition,localização,qa_factoid,0.3494,0.0463,False
+13215,pt-PT,transport,transport_query,qual é o trajeto mais rápido para o meu trabalho na baixa sem passar por semáforos,transport_query,0.8289,0.8289,True
+13252,pt-PT,qa,qa_factoid,qual foi a primeira história de george eliot,email_sendemail,0.9989,0.0,False
+13255,pt-PT,qa,qa_factoid,dá-me informação sobre john abraham lincon por favor,email_sendemail,0.9997,0.0,False
+13283,pt-PT,qa,qa_factoid,quanto dinheiro ganha bill gates,qa_factoid,0.9995,0.9995,True
+13288,pt-PT,qa,qa_definition,qual a definição da palavra perpétua,qa_definition,1.0,1.0,True
+13297,pt-PT,qa,qa_factoid,quem é celebridade,social_post,0.9505,0.0487,False
+13298,pt-PT,qa,qa_factoid,o que fazem as celebridades,social_post,0.611,0.3803,False
+13330,pt-PT,qa,qa_factoid,qual é o tamanho de um cachalote,qa_factoid,0.9996,0.9996,True
+13361,pt-PT,qa,qa_definition,qual é a definição de oportunidade,qa_definition,1.0,1.0,True
+13383,pt-PT,qa,qa_factoid,quantos países têm a pena de morte,qa_factoid,0.9986,0.9986,True
+13400,pt-PT,social,social_post,enviar uma mensagem engraçada a todos os meus amigos,social_post,0.912,0.912,True
+13439,pt-PT,qa,qa_factoid,qual a idade da j k rowling,qa_factoid,1.0,1.0,True
+13457,pt-PT,calendar,calendar_set,dizer me quando devo sair para um evento agendado para que eu chegue a horas,datetime_query,0.8566,0.001,False
+13473,pt-PT,qa,qa_factoid,quando é que os eua obtiveram a liberdade,qa_factoid,0.9748,0.9748,True
+13487,pt-PT,qa,qa_factoid,olly qual a capital da califórnia,qa_factoid,0.9999,0.9999,True
+13494,pt-PT,qa,qa_definition,dar a definição de motivação,qa_definition,0.9499,0.9499,True
+13506,pt-PT,datetime,datetime_query,podes dizer me as horas,datetime_query,0.9819,0.9819,True
+13513,pt-PT,qa,qa_factoid,quantas pernas tem um cão,lists_query,0.3982,0.3184,False
+13516,pt-PT,qa,qa_factoid,porque são as baleias grandes,qa_factoid,0.9975,0.9975,True
+13546,pt-PT,qa,qa_factoid,qual foi o último filme que o will smith fez,qa_factoid,0.1722,0.1722,True
+13554,pt-PT,qa,qa_factoid,quão alto é brad pitt,social_post,0.5006,0.4951,False
+13575,pt-PT,qa,qa_factoid,qual foi o último filme a ganhar um óscar,qa_factoid,0.3059,0.3059,True
+13580,pt-PT,qa,qa_factoid,quão alto é o monte everest,qa_factoid,0.8558,0.8558,True
+13591,pt-PT,qa,qa_factoid,qual é a capital do faro,qa_factoid,0.994,0.994,True
+13592,pt-PT,qa,qa_factoid,onde está localizada a nova zelândia no mapa,qa_factoid,0.0759,0.0759,True
+13604,pt-PT,qa,qa_factoid,diz me onde steve jobs nasceu,qa_definition,0.9113,0.0449,False
+13607,pt-PT,qa,qa_factoid,poderia confirmar se michael carreira é casado,qa_factoid,0.9989,0.9989,True
+13616,pt-PT,qa,qa_factoid,onde é que a maioria das celebridades se encontram,social_post,0.9905,0.007,False
+13619,pt-PT,recommendation,recommendation_events,há algum evento gratuito na minha zona hoje,recommendation_events,0.9208,0.9208,True
+13625,pt-PT,qa,qa_definition,qual a maior mesa,qa_factoid,1.0,0.0,False
+13636,pt-PT,qa,qa_factoid,quando é o aniversário de arnold schwarzenegger,qa_factoid,0.9954,0.9954,True
+13679,pt-PT,qa,qa_factoid,pode dizer-me quantos estômagos tem uma vaca,qa_factoid,0.9975,0.9975,True
+13681,pt-PT,qa,qa_factoid,em quantas peças albano jerónimo esteve,qa_factoid,0.9812,0.9812,True
+13683,pt-PT,qa,qa_factoid,que marca de spray para cabelo usa donald trump,lists_query,0.1349,0.0431,False
+13689,pt-PT,qa,qa_definition,o que é uma cadeira,qa_definition,0.9947,0.9947,True
+13690,pt-PT,qa,qa_factoid,de que cor são os cabelos,iot_hue_lightoff,0.4851,0.3171,False
+13693,pt-PT,qa,qa_factoid,onde está o meridiano principal,iot_hue_lightoff,0.4795,0.0593,False
+13705,pt-PT,qa,qa_definition,o que é um sistema de emissões eletrónico,qa_definition,0.9891,0.9891,True
+13706,pt-PT,qa,qa_definition,descreve um aspersor,qa_factoid,0.9998,0.0,False
+13714,pt-PT,qa,qa_definition,o que é uma manga,qa_definition,0.4497,0.4497,True
+13717,pt-PT,qa,qa_factoid,realmente pode-se avistar a rússia do alaska,qa_factoid,0.9693,0.9693,True
+13758,pt-PT,qa,qa_factoid,qual a idade de mariah carey,qa_factoid,0.9991,0.9991,True
+13761,pt-PT,qa,qa_factoid,o que é um parsec,qa_definition,0.9952,0.0017,False
+13774,pt-PT,qa,qa_factoid,a que distância está trás os montes do algarve,qa_factoid,0.8965,0.8965,True
+13777,pt-PT,qa,qa_definition,podes descrever um cartão de crédito,qa_definition,0.8958,0.8958,True
+13780,pt-PT,qa,qa_factoid,diogo infante é casado,qa_factoid,0.7845,0.7845,True
+13798,pt-PT,qa,qa_factoid,quantas quilómetros quadrados tem cada país em média na terra,qa_factoid,0.7907,0.7907,True
+13799,pt-PT,qa,qa_definition,qual é a definição de subjugante,qa_definition,1.0,1.0,True
+13823,pt-PT,qa,qa_factoid,quão longe está o sol,weather_query,0.9924,0.0052,False
+13853,pt-PT,qa,qa_factoid,onde é que há mais vulcões no mundo,qa_factoid,0.7684,0.7684,True
+13854,pt-PT,qa,qa_factoid,quando roberto leal morreu,datetime_query,0.5517,0.0642,False
+13863,pt-PT,qa,qa_definition,qual a definição de lógica,qa_definition,0.9943,0.9943,True
+13867,pt-PT,qa,qa_factoid,onde fica o parque do gerês,social_post,0.7977,0.0129,False
+13869,pt-PT,qa,qa_factoid,pesquisa no google a localização e informação do monte rushmore,qa_factoid,0.6063,0.6063,True
+13871,pt-PT,qa,qa_definition,como descreverias um aniversário feliz,email_sendemail,0.514,0.0136,False
+13881,pt-PT,qa,qa_factoid,por favor dê-me informações sobre antónio variações,qa_definition,0.6007,0.0086,False
+13888,pt-PT,qa,qa_factoid,qual é a temperatura em chaves trás os montes,weather_query,0.8045,0.1674,False
+13895,pt-PT,qa,qa_factoid,podes falar me sobre antónio livramento,social_post,0.8574,0.0026,False
+13900,pt-PT,qa,qa_definition,a definição da vida,qa_definition,1.0,1.0,True
+13907,pt-PT,qa,qa_definition,defina aturdido,qa_factoid,0.9925,0.0058,False
+13908,pt-PT,qa,qa_definition,pode dizer-me o que significa atónito,qa_definition,0.9996,0.9996,True
+13926,pt-PT,qa,qa_factoid,qual é a data de nascimento do fernando pessoa,qa_factoid,0.9645,0.9645,True
+13927,pt-PT,qa,qa_factoid,quanto vale o cristiano ronaldo,qa_factoid,0.9962,0.9962,True
+13974,pt-PT,qa,qa_factoid,onde está localizado laos,social_post,0.9942,0.0014,False
+13983,pt-PT,qa,qa_definition,sofrendo consequências,qa_factoid,0.3068,0.0316,False
+13984,pt-PT,qa,qa_definition,consequências das ações,email_sendemail,0.472,0.0136,False
+13997,pt-PT,qa,qa_factoid,qual o preço médio de habitaçãi,qa_factoid,1.0,1.0,True
+14000,pt-PT,qa,qa_definition,descreva um preguiçoso,social_post,0.9317,0.0013,False
+14001,pt-PT,qa,qa_factoid,diz-me tudo o que sabes acerca de preguiças,qa_definition,0.7888,0.0077,False
+14011,pt-PT,qa,qa_factoid,quando é o aniversário do marco paulo,weather_query,0.7505,0.0121,False
+14015,pt-PT,qa,qa_factoid,quais são as coordenadas do equador,qa_definition,0.6443,0.3442,False
+14023,pt-PT,qa,qa_definition,descreva o inferno,cooking_recipe,0.9285,0.0018,False
+14033,pt-PT,qa,qa_factoid,diz me quando o obama nasceu,qa_factoid,0.9932,0.9932,True
+14038,pt-PT,qa,qa_factoid,qual é a localização da moldávia,qa_factoid,0.9456,0.9456,True
+14040,pt-PT,qa,qa_factoid,quanto mede o pepe,iot_hue_lightoff,0.2348,0.0578,False
+14053,pt-PT,qa,qa_factoid,em que ano começou a actuar george clooney,qa_factoid,0.5548,0.5548,True
+14063,pt-PT,qa,qa_factoid,qual era o aniversário do elvis presley,qa_factoid,0.9796,0.9796,True
+14083,pt-PT,qa,qa_factoid,onde é que vive o jackie chan atualmente,social_post,0.9709,0.0254,False
+14096,pt-PT,qa,qa_factoid,onde é a serra da estrela,weather_query,0.4778,0.1343,False
+14115,pt-PT,qa,qa_definition,dá informações de areia rochosa,lists_query,0.2801,0.0574,False
+14116,pt-PT,qa,qa_definition,descreva areia rochosa,cooking_recipe,0.7596,0.0451,False
+14117,pt-PT,qa,qa_factoid,onde estão as pirâmides localizadas,social_post,0.6267,0.1095,False
+14118,pt-PT,qa,qa_factoid,mostrar detalhes geográficos de pirâmides,lists_query,0.1505,0.0279,False
+14126,pt-PT,qa,qa_factoid,mostra a biografia da amália,qa_factoid,0.7053,0.7053,True
+14138,pt-PT,qa,qa_definition,por favor diga-me qual é a definição de cilindro,qa_definition,1.0,1.0,True
+14147,pt-PT,qa,qa_definition,definir cobertor,qa_definition,0.9875,0.9875,True
+14150,pt-PT,qa,qa_definition,o que são sapatos converse,qa_definition,0.9823,0.9823,True
+14151,pt-PT,qa,qa_factoid,que tipos de óculos de sol são considerados aviadores,qa_definition,0.9999,0.0,False
+14154,pt-PT,qa,qa_factoid,informação de áfrica,qa_factoid,0.7244,0.7244,True
+14163,pt-PT,qa,qa_factoid,procura a localidade,qa_factoid,0.7835,0.7835,True
+14169,pt-PT,qa,qa_factoid,onde joacine katar moreira foi para a faculdade,qa_factoid,0.9997,0.9997,True
+14170,pt-PT,qa,qa_factoid,cristina ferreira usa converse,recommendation_events,0.4444,0.0251,False
+14179,pt-PT,qa,qa_factoid,a que distância está o canadá da minha localização actual,qa_factoid,0.9991,0.9991,True
+14214,pt-PT,transport,transport_query,procura meios de transporte para o mesmo,transport_query,0.9959,0.9959,True
+14229,pt-PT,qa,qa_factoid,em que filmes maria de medeiros atuou,qa_factoid,0.9695,0.9695,True
+14243,pt-PT,qa,qa_factoid,detalhes pessoalmente,social_post,0.6496,0.2206,False
+14272,pt-PT,qa,qa_definition,olá o que é um livro,email_query,0.2727,0.062,False
+14283,pt-PT,qa,qa_factoid,fala me sobre jaipur,social_post,0.9461,0.0238,False
+14306,pt-PT,qa,qa_factoid,explicar a localização geográfica da índia,qa_definition,0.6671,0.2272,False
+14308,pt-PT,qa,qa_factoid,qual é a fortuna do leonardo dicaprio,qa_factoid,0.9999,0.9999,True
+14316,pt-PT,qa,qa_factoid,quão longe é o alaska,qa_factoid,0.9987,0.9987,True
+14317,pt-PT,qa,qa_factoid,qual é o tamanho dos estados unidos da américa,qa_factoid,0.9137,0.9137,True
+14323,pt-PT,qa,qa_factoid,qual a cor da pitaya,qa_factoid,0.9987,0.9987,True
+14330,pt-PT,qa,qa_factoid,onde rui pedro oliveira nasceu,social_post,0.996,0.0006,False
+14347,pt-PT,qa,qa_definition,o que é uma hipótese,iot_hue_lightoff,0.5771,0.0328,False
+14354,pt-PT,qa,qa_factoid,qual é a resposta para o universo,lists_query,0.3101,0.0935,False
+14355,pt-PT,qa,qa_factoid,podem muitas conchas vender-se à beira-mar,recommendation_events,0.5242,0.0833,False
+14370,pt-PT,qa,qa_factoid,diz-me a profissão de celebridade,qa_factoid,0.981,0.981,True
+14378,pt-PT,qa,qa_definition,definição de velocidade,qa_definition,0.9909,0.9909,True
+14382,pt-PT,qa,qa_factoid,o quão grandes é são as torres das amoreiras,qa_factoid,0.5014,0.5014,True
+14395,pt-PT,qa,qa_factoid,qual é o ponto mais profundo da terra,qa_definition,0.9529,0.0455,False
+14414,pt-PT,qa,qa_definition,descreve o disco rígido do computador,calendar_remove,0.6645,0.0099,False
+14417,pt-PT,qa,qa_factoid,qual é o oceano que encosta o nosso continente,qa_definition,0.2207,0.0814,False
+14419,pt-PT,qa,qa_factoid,está angeline a fazer um novo filme este ano,qa_factoid,0.1691,0.1691,True
+14429,pt-PT,qa,qa_definition,o que é um cafetão,qa_factoid,0.9759,0.0003,False
+14440,pt-PT,qa,qa_factoid,qual a capital do méxico,qa_factoid,0.9998,0.9998,True
+14442,pt-PT,qa,qa_factoid,onde é fiji,qa_factoid,0.8744,0.8744,True
+14444,pt-PT,qa,qa_factoid,qual foi o primeiro filme de morgan freeman,lists_query,0.1706,0.1131,False
+14449,pt-PT,qa,qa_factoid,a mariza tem um novo bebê,weather_query,0.4192,0.0237,False
+14457,pt-PT,qa,qa_factoid,buscar rota,cooking_recipe,0.9568,0.0034,False
+14465,pt-PT,transport,transport_query,direções para aquashow,cooking_recipe,0.6818,0.0185,False
+14490,pt-PT,qa,qa_factoid,quando foi construído o teatro bolshoi,qa_factoid,0.7073,0.7073,True
+14498,pt-PT,qa,qa_definition,descreve-me um smartphone,email_sendemail,0.387,0.0067,False
+14504,pt-PT,qa,qa_factoid,olly quantas reuniões é que mahatma gandhi realizou,qa_factoid,0.9334,0.9334,True
+14505,pt-PT,qa,qa_factoid,qual é o atual primeiro ministro da rússia,qa_factoid,0.9997,0.9997,True
+14508,pt-PT,qa,qa_factoid,diz-me o resumo do último livro de george r. r. martin a guerra dos tronos,email_sendemail,1.0,0.0,False
+14509,pt-PT,qa,qa_factoid,onde nasceu mahatma gandhi,social_post,0.617,0.3539,False
+14539,pt-PT,qa,qa_factoid,encontra detalhes geográficos deste lugar,lists_query,0.4613,0.0485,False
+14545,pt-PT,qa,qa_factoid,diz me sobre a localização da índia,qa_definition,0.7075,0.2891,False
+14567,pt-PT,qa,qa_factoid,qual é o maior vulcão activo da terra,qa_factoid,0.9975,0.9975,True
+14585,pt-PT,qa,qa_factoid,quanto tempo levará a viajar para o japão a partir da coreia do sul,qa_factoid,0.9713,0.9713,True
+14591,pt-PT,qa,qa_definition,dar-me a descrição de um circuito televisivo,qa_definition,0.9791,0.9791,True
+14592,pt-PT,qa,qa_definition,dá me a descrição de um circuito de smartphone,qa_definition,0.9567,0.9567,True
+14597,pt-PT,qa,qa_factoid,qual a população de nova york,qa_factoid,1.0,1.0,True
+14601,pt-PT,qa,qa_factoid,durante quantos anos foi abraham lincoln presidente dos estados unidos da américa,qa_factoid,0.9665,0.9665,True
+14605,pt-PT,qa,qa_factoid,a angelina jolie deixou o brad pitt,social_post,0.9917,0.0016,False
+14608,pt-PT,qa,qa_factoid,a jennifer lawrence está a trabalhar em que novo filme,qa_factoid,0.4491,0.4491,True
+14622,pt-PT,qa,qa_definition,descreve o que é uma esfera,iot_hue_lightoff,0.4872,0.3882,False
+14648,pt-PT,cooking,cooking_recipe,receita por favor,cooking_recipe,0.9999,0.9999,True
+14653,pt-PT,qa,qa_factoid,qual é a população da rússia,qa_factoid,0.9509,0.9509,True
+14661,pt-PT,qa,qa_factoid,em que ano nasceu barack obama,qa_factoid,0.998,0.998,True
+14668,pt-PT,qa,qa_definition,descrever o item xy,email_sendemail,0.9608,0.0001,False
+14683,pt-PT,qa,qa_factoid,qual é o passatempo de cristiano ronaldo,qa_factoid,0.7245,0.7245,True
+14684,pt-PT,qa,qa_factoid,quem é o primeiro ministro da rússia,qa_factoid,1.0,1.0,True
+14690,pt-PT,qa,qa_definition,ok google o que é um presidente,qa_definition,0.99,0.99,True
+14700,pt-PT,qa,qa_definition,o que é exactamente uma restauração dentária em resina,qa_definition,0.8272,0.8272,True
+14701,pt-PT,qa,qa_definition,descreve o jogo de cartas uno,iot_hue_lightoff,0.8253,0.0037,False
+14705,pt-PT,qa,qa_factoid,ok google onde a daniela melchior vive,qa_factoid,0.9991,0.9991,True
+14706,pt-PT,qa,qa_factoid,onde vive a sophia vergara,social_post,0.9996,0.0,False
+14746,pt-PT,qa,qa_factoid,qual é a capital do cazaquistão,qa_factoid,0.9972,0.9972,True
+14761,pt-PT,qa,qa_definition,dê-me a definição da palavra pontificado,qa_definition,0.9999,0.9999,True
+14767,pt-PT,qa,qa_definition,como descreverias uma bola,qa_definition,0.8288,0.8288,True
+14770,pt-PT,qa,qa_factoid,diz me qual o oceano mais largo do mundo,qa_factoid,0.7406,0.7406,True
+14787,pt-PT,qa,qa_factoid,qual é a diferença entre o calendário romano e o gregoriano,calendar_query,0.7945,0.0017,False
+14791,pt-PT,qa,qa_factoid,qual é a composição da cadeira,cooking_recipe,0.6018,0.1462,False
+14794,pt-PT,qa,qa_factoid,qual era o carro preferido do elvis,qa_factoid,0.9977,0.9977,True
+14822,pt-PT,qa,qa_factoid,para comparar em pessoas,social_post,0.6915,0.003,False
+14838,pt-PT,qa,qa_factoid,o que é um filtro de densidade neutra e gostaria de ter um filtro de gradiente ou um filtro sólido que também tivesse melhor estilo entre o parafuso e o quadrado,iot_hue_lightoff,0.637,0.0474,False
+14857,pt-PT,qa,qa_definition,poderia explicar o significado de exorbitante para mim por favor,qa_definition,0.9966,0.9966,True
+14877,pt-PT,qa,qa_factoid,quais são as condições climáticas nessa área,weather_query,0.9983,0.0008,False
+14879,pt-PT,qa,qa_definition,definição de,qa_definition,0.999,0.999,True
+14884,pt-PT,qa,qa_factoid,qual é o estado menos propenso a tornados em todos os eua,qa_factoid,0.9347,0.9347,True
+14889,pt-PT,qa,qa_definition,por favor descreva aquele objeto para mim,qa_definition,0.9589,0.9589,True
+14891,pt-PT,qa,qa_factoid,em que campo essa pessoa se distingue,qa_definition,0.8421,0.1507,False
+14912,pt-PT,qa,qa_factoid,onde nasceu o presidente costa,social_post,0.9018,0.0561,False
+14917,pt-PT,qa,qa_factoid,quando é lançado o próximo álbum de mark lanegan,datetime_query,0.6724,0.2389,False
+14933,pt-PT,qa,qa_factoid,diz me as informações sobre a geografia da índia,qa_definition,0.9959,0.0015,False
+14939,pt-PT,qa,qa_factoid,preciso de alguns detalhes sobre bruce lee por favor ajude,email_query,0.9766,0.0024,False
+14981,pt-PT,qa,qa_definition,iphone sete descrição,qa_factoid,0.9963,0.0026,False
+14994,pt-PT,qa,qa_factoid,qual é o próximo filme do ricardo carriço,recommendation_events,0.9996,0.0001,False
+14995,pt-PT,qa,qa_definition,o que significa situação,qa_definition,0.9989,0.9989,True
+15020,pt-PT,qa,qa_factoid,quantos anos tem antónio silva,qa_factoid,0.9614,0.9614,True
+15039,pt-PT,qa,qa_factoid,olly onde começam as montanhas rochosas,qa_definition,0.5435,0.1376,False
+15055,pt-PT,qa,qa_factoid,qual o polo mais frio o sul ou o norte,weather_query,0.8475,0.1239,False
+15056,pt-PT,qa,qa_factoid,quantos anos tem o mais novo namorado de emma watson,social_post,0.6594,0.328,False
+15062,pt-PT,qa,qa_factoid,informações da rita lobo por favor,social_post,0.9927,0.001,False
+15075,pt-PT,qa,qa_factoid,olly onde é que os americanos se instalaram,qa_factoid,0.8883,0.8883,True
+15092,pt-PT,qa,qa_definition,ache uma descrição sobre a samsung t. v.,social_post,0.726,0.0905,False
+15094,pt-PT,qa,qa_factoid,procurar o número de pessoas que vivem em estoril lisboa,iot_hue_lightoff,0.4456,0.0185,False
+15095,pt-PT,qa,qa_factoid,qual é a região de miami,qa_factoid,0.6204,0.6204,True
+15127,pt-PT,qa,qa_definition,defina falante,qa_factoid,0.8872,0.1123,False
+15155,pt-PT,social,social_post,podes carregar a minha última selfie na minha conta no facebook,social_post,0.9979,0.9979,True
+15166,pt-PT,social,social_post,postar o meu negócio no twitter,social_post,0.9999,0.9999,True
+15177,pt-PT,social,social_post,volta a fazer esta publicação no twitter,social_post,0.9995,0.9995,True
+15185,pt-PT,social,social_post,desejos de aniversário,email_sendemail,0.9947,0.0002,False
+15186,pt-PT,social,social_post,felicitações pelo casamento,email_sendemail,0.3018,0.0368,False
+15187,pt-PT,social,social_post,partilha na publicação do amigo,social_post,0.9996,0.9996,True
+15197,pt-PT,social,social_post,poste no twitter minha visita ao japão,social_post,0.9995,0.9995,True
+15208,pt-PT,social,social_post,publica olá a todos no facebook,social_post,0.9968,0.9968,True
+15213,pt-PT,news,news_query,qual é a tendência actual,qa_factoid,0.9971,0.0001,False
+15214,pt-PT,news,news_query,quais as notícias para hoje,news_query,0.9987,0.9987,True
+15216,pt-PT,social,social_post,enviar-me um tweet,email_sendemail,1.0,0.0,False
+15231,pt-PT,social,social_post,postar no instagram foto da minha viagem a goa,social_post,1.0,1.0,True
+15271,pt-PT,social,social_post,postar isto no meu facebook l. o. l.,social_post,1.0,1.0,True
+15275,pt-PT,social,social_post,publica estou feliz no facebook,social_post,0.9985,0.9985,True
+15276,pt-PT,social,social_post,postar um novo estado no facebook dizendo que eu estou a aproveitar o bom tempo,social_post,0.9999,0.9999,True
+15289,pt-PT,social,social_post,publicar a mensagem agora,email_sendemail,0.9906,0.0093,False
+15305,pt-PT,calendar,calendar_query,tenho alguma notificação das redes sociais,social_post,0.9997,0.0,False
+15318,pt-PT,social,social_post,quero agradecer a todos pelos desejos de aniversário,email_sendemail,0.9813,0.0001,False
+15337,pt-PT,social,social_post,publicar este video no facebook,social_post,0.4927,0.4927,True
+15350,pt-PT,social,social_post,estou descontente com o continente por favor ajuda-me,social_post,0.8935,0.8935,True
+15358,pt-PT,social,social_post,olly tuitar apple que o iphone não funciona,qa_factoid,0.9998,0.0,False
+15359,pt-PT,social,social_post,abre o tweet à apple a referir que a bateria do meu ipone está sempre em baixo,iot_hue_lightoff,0.9902,0.0004,False
+15364,pt-PT,social,social_post,pode avisar a amazon que esta nova capa para telefone é lixo,lists_remove,0.3302,0.0189,False
+15382,pt-PT,social,social_post,contactar a samsung e dizer que a minha máquina de lavar está a arder,weather_query,0.9246,0.0159,False
+15387,pt-PT,social,social_post,twittar a minha localização recente,iot_hue_lightoff,0.9204,0.0014,False
+15399,pt-PT,social,social_post,faz uma reclamação à vodafone por causa de problemas relacionados com a rede,social_post,0.8396,0.8396,True
+15401,pt-PT,social,social_post,abrir twitter enviar mensagem,email_sendemail,1.0,0.0,False
+15402,pt-PT,social,social_post,tweet este produto é uma porcaria,social_post,0.9912,0.9912,True
+15409,pt-PT,social,social_post,abrir o twitter digitar minha reclamação e postar para quaisquer serviço ao consumidor,social_post,0.9904,0.9904,True
+15413,pt-PT,social,social_post,arranja-me alguém assim que possível,recommendation_events,0.6135,0.0064,False
+15444,pt-PT,social,social_post,dois dislikes para nome da empresa,social_post,0.3844,0.3844,True
+15448,pt-PT,social,social_post,enviar um tweet sobre os problemas de volume da sony,social_post,0.9971,0.9971,True
+15454,pt-PT,social,social_post,tweet à united airlines estou zangado que perderam a minha bagagem,social_post,0.9967,0.9967,True
+15456,pt-PT,social,social_post,quero enviar um tweet para tap air portugal estou irritado por terem perdido as minhas malas,social_post,0.9293,0.9293,True
+15457,pt-PT,social,social_post,enviar um tweet à hamburgueria dizendo que tive um problema com o meu hamburger,email_sendemail,1.0,0.0,False
+15459,pt-PT,social,social_post,enviar uma queixa no twitter,qa_factoid,0.9877,0.0013,False
+15464,pt-PT,social,social_post,não recebi o produto a tempo envia um tweet ao jcpenney,email_sendemail,0.9625,0.0351,False
+15467,pt-PT,social,social_post,dizer à meo que não gosto do serviço deles,email_sendemail,0.9997,0.0001,False
+15472,pt-PT,social,social_post,tuitar reclamação para a livraria online,qa_factoid,0.3309,0.2038,False
+15487,pt-PT,social,social_post,twittar a la redoute acerca da limpeza da loja deles,social_post,0.9281,0.9281,True
+15488,pt-PT,social,social_post,por favor tweet para pizzaria luzzo eu estou a esperar pela minha entrega há uma hora não estou feliz,social_post,0.9969,0.9969,True
+15503,pt-PT,social,social_post,novo tweet ao serviço ao cliente amazon,email_sendemail,1.0,0.0,False
+15508,pt-PT,social,social_post,siri abrir twitter postar tweet at porto joga mal,social_post,0.9924,0.9924,True
+15518,pt-PT,social,social_post,enviar reclamação via tweet para zara,social_post,0.9896,0.9896,True
+15532,pt-PT,social,social_post,olly tuitar continente e dizer lhes que o seu serviço ao cliente é horrível,qa_factoid,0.9536,0.0029,False
+15546,pt-PT,social,social_post,twittar acerca da pizza fria da pizza hut,email_sendemail,0.6627,0.3335,False
+15548,pt-PT,social,social_post,twittar uma reclamação móvel para a samsung,qa_factoid,0.9998,0.0,False
+15553,pt-PT,social,social_post,dá uma resposta negativa no tweet ao serviço da daikin,qa_factoid,0.9235,0.0707,False
+15554,pt-PT,social,social_post,por favor tweet na dell ajuda por um serviço atrasado,social_post,0.5655,0.5655,True
+15556,pt-PT,social,social_post,vamos fazer uma reclamação no twitter,social_post,0.9735,0.9735,True
+15557,pt-PT,social,social_post,preciso que envies um tweet com a reclamção,social_post,0.9952,0.9952,True
+15560,pt-PT,social,social_post,publicar no facebook estou com fome,social_post,0.9996,0.9996,True
+15565,pt-PT,social,social_post,podes dizer ao delta que nunca mais os vou usar,qa_factoid,0.996,0.0005,False
+15587,pt-PT,social,social_post,abre as publicações da galeria de fotos por nome,social_post,0.6387,0.6387,True
+15592,pt-PT,social,social_post,tweet reclamação para a meo,qa_factoid,0.9988,0.001,False
+15593,pt-PT,social,social_post,tweet reclamação para a nos,qa_factoid,0.9599,0.0369,False
+15598,pt-PT,social,social_post,abre o nome da empresa e encontra reclamações,qa_factoid,0.8248,0.0059,False
+15610,pt-PT,social,social_post,post um tweet sobre o mau acompanhamento por uma empresa a.b.c. não satisfeito na minha conta,social_post,0.9999,0.9999,True
+15618,pt-PT,social,social_post,envia um tweet à ok teleseguro a dizer-lhes que são péssimos,social_post,0.9994,0.9994,True
+15626,pt-PT,social,social_post,twittar uma queixa à vodafone pelo mau serviço ao cliente,social_post,0.9484,0.9484,True
+15634,pt-PT,social,social_post,ok google põe um tweet a revelar o parvalhão que é o dono da bomba de gasolina,qa_factoid,0.9325,0.0431,False
+15635,pt-PT,social,social_post,tweet ao macdonalds reseda tem um péssimo serviço,email_sendemail,0.9986,0.0005,False
+15647,pt-PT,social,social_post,faz uma reclamação no tweeter a,social_post,0.9988,0.9988,True
+15651,pt-PT,social,social_post,mandar relatório para o atendimento ao cliente,recommendation_events,0.9108,0.0033,False
+15652,pt-PT,social,social_post,ajudar reclamação para apoio ao consumidor,qa_factoid,0.9536,0.0206,False
+15655,pt-PT,social,social_post,enviar um tweet à assistência ao cliente da google sobre o meu novo telefone nexus parar de funcionar,email_sendemail,0.9301,0.0007,False
+15656,pt-PT,social,social_post,enviar mensagem no twitter à amazon que ainda estou à espera da minha entrega,social_post,0.6484,0.6484,True
+15661,pt-PT,social,social_post,publica a minha última entrada no twitter na s. i. s.,social_post,0.9995,0.9995,True
+15670,pt-PT,social,social_post,enviar um tweet a reclamar,social_post,0.9981,0.9981,True
+15672,pt-PT,social,social_post,tweet à apple sobre a não receção do iphone que enviei para reparação na semana passada,email_sendemail,0.9758,0.008,False
+15676,pt-PT,social,social_post,adicionar reclamação sobre o serviço num tweet ao europlantas,social_post,0.9686,0.9686,True
+15686,pt-PT,social,social_post,olá o artigo que eu encomendei de alguém está esgotado,qa_factoid,0.9841,0.0073,False
+15693,pt-PT,social,social_post,tweet que havia um inseto no pacote de chocolate,social_post,0.9743,0.9743,True
+15700,pt-PT,social,social_post,produtos expirados no mercado recente,qa_factoid,0.9035,0.0026,False
+15703,pt-PT,social,social_post,tuitar para marques soares que eles ficam sem tamanhos rápido demais,iot_hue_lightoff,0.7559,0.0045,False
+15706,pt-PT,social,social_post,twittar tudo,iot_hue_lightoff,0.7295,0.0111,False
+15707,pt-PT,social,social_post,vamos enviar um tweet,social_post,0.9991,0.9991,True
+15708,pt-PT,social,social_post,publica uma reclamação acerca do serviço a,qa_factoid,0.5652,0.2372,False
+15721,pt-PT,social,social_post,tweet um rosto enojado sobre mcdonalds,social_post,0.9998,0.9998,True
+15723,pt-PT,social,social_post,atualiza o meu estado no facebook feliz,social_post,0.999,0.999,True
+15731,pt-PT,social,social_post,olly tweet uma mensagem à nós a dizer-lhes que o meu serviço é mau,email_sendemail,0.7468,0.253,False
+15732,pt-PT,social,social_post,envia tweet à samsung e dizendo que parem de matar pessoas com os seus produtos,email_sendemail,1.0,0.0,False
+15736,pt-PT,social,social_post,submete uma avaliação negativa acerca de uma empresa,qa_factoid,0.9903,0.0005,False
+15756,pt-PT,email,email_sendemail,enviar email à minha equipa,email_sendemail,1.0,1.0,True
+15763,pt-PT,email,email_query,verificar novos emails,email_sendemail,1.0,0.0,False
+15765,pt-PT,email,email_sendemail,responder ao email do pedro,email_sendemail,1.0,1.0,True
+15777,pt-PT,email,email_query,diz-me se tiver novos emails,email_sendemail,1.0,0.0,False
+15785,pt-PT,email,email_query,há alguma coisa nova na minha caixa de entrada,news_query,0.4532,0.179,False
+15789,pt-PT,email,email_query,olly tenho novos emails,email_sendemail,1.0,0.0,False
+15792,pt-PT,calendar,calendar_query,com quem me vou reunir hoje,social_post,0.999,0.0001,False
+15796,pt-PT,email,email_sendemail,enviar um email à maria,email_sendemail,1.0,1.0,True
+15802,pt-PT,email,email_sendemail,responde por email ao jorge a dizer que não vou esta noite,email_sendemail,1.0,1.0,True
+15809,pt-PT,email,email_query,o roberto já me enviou um email,email_sendemail,1.0,0.0,False
+15825,pt-PT,email,email_sendemail,responder ao pai dizer que vou chegar tarde,weather_query,0.9171,0.0032,False
+15828,pt-PT,email,email_sendemail,este é um novo endereço de email para ser adicionado aos contactos,email_sendemail,1.0,1.0,True
+15829,pt-PT,email,email_sendemail,ir aos contactos e inserir um novo endereço de email,email_sendemail,1.0,1.0,True
+15839,pt-PT,email,email_query,tópico,qa_factoid,0.9935,0.0001,False
+15841,pt-PT,email,email_sendemail,escrever um novo email para rui,email_sendemail,1.0,1.0,True
+15845,pt-PT,email,email_sendemail,como veio até nós,social_post,0.8601,0.0008,False
+15847,pt-PT,email,email_sendemail,como conseguimos crédito,qa_factoid,0.9691,0.0001,False
+15849,pt-PT,email,email_sendemail,enviar um email ao meu chefe,email_sendemail,1.0,1.0,True
+15857,pt-PT,email,email_sendemail,por favor enviem um novo email listado,email_sendemail,1.0,1.0,True
+15862,pt-PT,email,email_query,verificar se recebi algum email da mãe,email_sendemail,0.9999,0.0001,False
+15880,pt-PT,email,email_query,por favor verifica os meus emails,email_sendemail,0.9929,0.0071,False
+15890,pt-PT,email,email_query,verificar se tenho novos emails de meu pai,email_sendemail,1.0,0.0,False
+15904,pt-PT,email,email_query,ver os meus novos e-mails e dizer-me do que se tratam,email_sendemail,1.0,0.0,False
+15906,pt-PT,email,email_sendemail,responder obrigado para joão,qa_factoid,0.9996,0.0,False
+15911,pt-PT,email,email_sendemail,preparar email para a susana,email_sendemail,1.0,1.0,True
+15933,pt-PT,email,email_query,que novos emails eu tenho,email_sendemail,1.0,0.0,False
+15942,pt-PT,email,email_sendemail,enviar este email como resposta aos últimos emails,email_sendemail,1.0,1.0,True
+15950,pt-PT,email,email_sendemail,responder ao email de josé trindade,email_sendemail,1.0,1.0,True
+15957,pt-PT,email,email_sendemail,enviar email à alice para dizer que estamos a caminho,email_sendemail,1.0,1.0,True
+15963,pt-PT,email,email_query,eu tenho algum novo email do pedro,email_sendemail,1.0,0.0,False
+15966,pt-PT,email,email_query,enviar uma resposta se for muito importante,email_sendemail,0.7527,0.1386,False
+15968,pt-PT,email,email_query,se for de um lugar muito familiar marca-o como importante,social_post,0.7926,0.0039,False
+15970,pt-PT,email,email_query,o que foi o assunto do último e-mail da mãe,email_sendemail,0.9999,0.0,False
+15971,pt-PT,email,email_query,qual foi o último email do trabalho,email_sendemail,0.9955,0.0045,False
+15994,pt-PT,email,email_sendemail,enviar um email ao josé perguntando-lhe que é melhor para a reunião,email_sendemail,1.0,1.0,True
+15995,pt-PT,email,email_sendemail,enviar um e-mail à carolina sobre a reunião de orçamento,email_sendemail,1.0,1.0,True
+15998,pt-PT,email,email_query,verificar os meus emails para ver se há algo do nome,email_query,1.0,1.0,True
+16002,pt-PT,email,email_query,verificar se há novos emails,email_sendemail,0.9999,0.0001,False
+16005,pt-PT,email,email_sendemail,enviar email para josefina arroba gmail ponto com,email_sendemail,1.0,1.0,True
+16010,pt-PT,email,email_query,diz me se tenho algumas mensagens novas na minha caixa de entrada,email_sendemail,0.8061,0.1929,False
+16024,pt-PT,email,email_sendemail,envia um email ao ricardo a dizer que amanhã estou ocupado,email_sendemail,1.0,1.0,True
+16028,pt-PT,email,email_sendemail,olá siri inicia um email para um colega,email_sendemail,1.0,1.0,True
+16029,pt-PT,email,email_sendemail,por favor escrever um novo email para um colega de trabalho,email_sendemail,1.0,1.0,True
+16032,pt-PT,email,email_sendemail,envia um email à dália acerca da reunião de amanhã,email_sendemail,1.0,1.0,True
+16038,pt-PT,email,email_query,o joão enviou-me algum email ultimamente,email_sendemail,1.0,0.0,False
+16045,pt-PT,email,email_sendemail,enviar email para ismael sobre horário de abertura do escritório,email_sendemail,1.0,1.0,True
+16048,pt-PT,email,email_query,mostrar os emails recentes,email_sendemail,1.0,0.0,False
+16049,pt-PT,email,email_sendemail,eu quero enviar um email para a minha família ajudas me,email_sendemail,1.0,1.0,True
+16050,pt-PT,email,email_query,consultar gmail,email_sendemail,0.6211,0.3788,False
+16052,pt-PT,email,email_query,consultar outlook,iot_hue_lightoff,0.916,0.0014,False
+16056,pt-PT,email,email_sendemail,responder ao email,email_sendemail,0.9999,0.9999,True
+16061,pt-PT,email,email_query,recebi algum email nos últimos dez minutos,email_sendemail,0.9997,0.0002,False
+16072,pt-PT,email,email_sendemail,enviar email ao meu chefe que eu vou chegar atrasado hoje devido a uma emergência e pedir lhe desculpa por faltar à reunião,email_sendemail,1.0,1.0,True
+16075,pt-PT,email,email_query,mostrar email recente do joão,email_sendemail,1.0,0.0,False
+16082,pt-PT,email,email_sendemail,enviar email para o pedro e perguntar como ele está agora posso fazer algo para ajudá lo,email_sendemail,1.0,1.0,True
+16089,pt-PT,email,email_query,recebi novos emails nos últimos dez minutos,email_sendemail,1.0,0.0,False
+16096,pt-PT,email,email_query,a marta enviou-me novos emails,email_sendemail,1.0,0.0,False
+16098,pt-PT,email,email_query,verificar emails não lidos de ana,email_sendemail,0.9997,0.0003,False
+16100,pt-PT,email,email_query,por favor verifique email que contenham anúncios de trabalho,email_sendemail,0.6956,0.3044,False
+16103,pt-PT,email,email_sendemail,enviar email ao meu irmão dizendo aniversário de casamento,email_sendemail,1.0,1.0,True
+16120,pt-PT,email,email_sendemail,a ajuda deve ser enviada apenas para o afonso,email_sendemail,0.8201,0.8201,True
+16131,pt-PT,email,email_sendemail,este novo e-mail deve ser adicionado ao meu contacto,email_sendemail,1.0,1.0,True
+16145,pt-PT,email,email_query,mostrar os emails mais recentes,email_sendemail,1.0,0.0,False
+16146,pt-PT,news,news_query,dá-me as últimas atualizações,play_podcasts,0.4568,0.3011,False
+16148,pt-PT,email,email_sendemail,responder rapidamente ao jack por favor envie uma mensagem,email_sendemail,0.9999,0.9999,True
+16151,pt-PT,email,email_query,verificar programação da reunião no mail de hoje,email_sendemail,0.9917,0.0068,False
+16162,pt-PT,email,email_sendemail,enviar resposta,email_sendemail,0.9945,0.9945,True
+16163,pt-PT,email,email_query,quem me enviou um email ontem,email_sendemail,1.0,0.0,False
+16165,pt-PT,email,email_query,a carlota respondeu,qa_factoid,1.0,0.0,False
+16166,pt-PT,email,email_sendemail,pode responder a cátia que eu estareu ocupada com os projetos nas próximas três semanas,qa_factoid,1.0,0.0,False
+16168,pt-PT,email,email_query,alguns emails recebidos nos últimos quinze minutos,email_sendemail,1.0,0.0,False
+16170,pt-PT,email,email_query,abrir a caixa de entrada para ver emails não lidos,email_sendemail,0.9999,0.0001,False
+16178,pt-PT,email,email_query,algum email da amazon hoje,email_sendemail,1.0,0.0,False
+16183,pt-PT,email,email_query,ver email sobre o meu trabalho,email_sendemail,0.5579,0.4421,False
+16201,pt-PT,email,email_sendemail,carregar o novo email para o carlos e enviar mensagem agora,email_sendemail,1.0,1.0,True
+16221,pt-PT,email,email_sendemail,abrir o email da cátia e escrever que eu a informarei,email_sendemail,1.0,1.0,True
+16245,pt-PT,email,email_sendemail,enviar email para jose arroba a. o. l. ponto com,email_sendemail,1.0,1.0,True
+16248,pt-PT,email,email_query,por favor verificar o meu email,email_sendemail,0.5887,0.4113,False
+16263,pt-PT,email,email_query,recebi algum novo email de roberto,email_sendemail,1.0,0.0,False
+16266,pt-PT,email,email_sendemail,escreve um email à minha família a dizer amo-vos a todos,email_sendemail,1.0,1.0,True
+16271,pt-PT,email,email_query,actualizar a minha caixa de entrada e informar-me sobre novos emails,email_sendemail,1.0,0.0,False
+16275,pt-PT,email,email_query,inicia votação para um novo email,email_sendemail,0.9999,0.0001,False
+16276,pt-PT,email,email_query,tenho novos emails,email_sendemail,1.0,0.0,False
+16280,pt-PT,email,email_sendemail,por favor enviar email para cátia que está na minha lista de família e amigos,email_sendemail,1.0,1.0,True
+16282,pt-PT,email,email_sendemail,enviar um email para a minha assistente clara a cancelar todas as marcações para amanhã,email_sendemail,1.0,1.0,True
+16296,pt-PT,email,email_sendemail,envie um email para a mãe para falar que a festa de aniversário do manuel é domingo,email_sendemail,1.0,1.0,True
+16297,pt-PT,email,email_sendemail,enviar um email ao joaquim a dizer obrigado,email_sendemail,1.0,1.0,True
+16314,pt-PT,email,email_sendemail,enviar email para a margarida,email_sendemail,1.0,1.0,True
+16317,pt-PT,email,email_query,tenho emails novos da sara,email_sendemail,1.0,0.0,False
+16318,pt-PT,email,email_sendemail,responder ao email,email_sendemail,0.9999,0.9999,True
+16320,pt-PT,email,email_sendemail,responder ao email do roberto silva,email_sendemail,1.0,1.0,True
+16353,pt-PT,email,email_query,verificar se há emails do esteves,email_sendemail,1.0,0.0,False
+16354,pt-PT,email,email_query,verificar emails do meu empregador,email_sendemail,0.7133,0.2866,False
+16356,pt-PT,email,email_query,cheguei a enviar um email ao tomás com o tema do controlo de armas,email_sendemail,1.0,0.0,False
+16357,pt-PT,email,email_query,o tomás enviou me email sobre o carregamento,email_sendemail,1.0,0.0,False
+16361,pt-PT,email,email_query,recebi alguns novos emails na última hora,email_sendemail,1.0,0.0,False
+16373,pt-PT,email,email_query,recebi algum email com números de registos,email_sendemail,1.0,0.0,False
+16375,pt-PT,email,email_sendemail,escrever um email ao bruno,email_sendemail,1.0,1.0,True
+16376,pt-PT,email,email_sendemail,alexa envie por favor um email à mãe,email_sendemail,1.0,1.0,True
+16377,pt-PT,email,email_sendemail,enviar um email para a mãe agora,email_sendemail,1.0,1.0,True
+16384,pt-PT,email,email_query,ei tenho alguns novos emails,email_sendemail,1.0,0.0,False
+16385,pt-PT,email,email_query,por favor lê novos emails,email_sendemail,1.0,0.0,False
+16398,pt-PT,email,email_sendemail,por favor enviar email para júlio,email_sendemail,1.0,1.0,True
+16399,pt-PT,email,email_query,recebi algum novo email,email_sendemail,1.0,0.0,False
+16401,pt-PT,email,email_sendemail,escrever um email para dora olá o que estás a fazer hoje,email_sendemail,1.0,1.0,True
+16402,pt-PT,email,email_sendemail,email diana os planos de hoje,email_sendemail,0.9989,0.9989,True
+16406,pt-PT,email,email_sendemail,alexa iniciar email,email_sendemail,1.0,1.0,True
+16410,pt-PT,email,email_sendemail,escrever email,email_sendemail,1.0,1.0,True
+16413,pt-PT,email,email_query,podes exibir todos os emails recebidos do meu patrão,email_sendemail,1.0,0.0,False
+16419,pt-PT,email,email_sendemail,por favor enviar um email para tio joão contendo o seguinte sim eu consigo,email_sendemail,1.0,1.0,True
+16427,pt-PT,email,email_query,quantos novos emails recebi eu hoje,email_sendemail,1.0,0.0,False
+16430,pt-PT,email,email_sendemail,envia por favor um email à mãe e ao pai a perguntar como estão,email_sendemail,1.0,1.0,True
+16437,pt-PT,email,email_sendemail,envia isto ao meu amigo por favor,email_sendemail,0.9725,0.9725,True
+16438,pt-PT,email,email_sendemail,preciso que este email seja enviado agora,email_sendemail,1.0,1.0,True
+16446,pt-PT,email,email_query,verifica o estudo recente por e-mail deste remetente,email_sendemail,1.0,0.0,False
+16459,pt-PT,email,email_sendemail,novo email para newmail arroba gmail ponto com,email_sendemail,1.0,1.0,True
+16461,pt-PT,email,email_query,eu tenho alguns emails não lidos,email_sendemail,1.0,0.0,False
+16467,pt-PT,email,email_query,eu tenho alguns emails novos do meu contacto q.,email_sendemail,1.0,0.0,False
+16471,pt-PT,email,email_query,verificar emails do joão,email_sendemail,0.9999,0.0001,False
+16496,pt-PT,email,email_sendemail,enviar um email de resposta,email_sendemail,1.0,1.0,True
+16501,pt-PT,email,email_sendemail,envia por favor um email à minha amiga dália como estás,email_sendemail,1.0,1.0,True
+16506,pt-PT,email,email_sendemail,adicionar novo endereço de email e enviar email,email_sendemail,1.0,1.0,True
+16518,pt-PT,email,email_sendemail,acrescenta um novo email para a júlia pereira,email_sendemail,1.0,1.0,True
+16519,pt-PT,email,email_sendemail,preciso de adicionar um novo e-mail aos meus contactos,email_sendemail,1.0,1.0,True
+16535,pt-PT,email,email_sendemail,podes escrever um email para célia,email_sendemail,1.0,1.0,True
+16559,pt-PT,email,email_sendemail,envia uma resposta ao miguel com a resposta quatrocentros e trinta do email que ele enviou hoje de manhã,email_sendemail,0.7091,0.7091,True
+16560,pt-PT,email,email_sendemail,responder ao email dos meus chefes dizendo que estarei presente às quatro da noite,email_sendemail,1.0,1.0,True
+16563,pt-PT,email,email_query,olly verifica meu email,email_sendemail,0.6135,0.3865,False
+16591,pt-PT,email,email_sendemail,acabei de receber um e-mail de bill que preciso de responder agora mesmo,email_sendemail,1.0,1.0,True
+16593,pt-PT,email,email_sendemail,o último email precisa de ser respondido o mais rápido possível,email_sendemail,1.0,1.0,True
+16603,pt-PT,email,email_query,o que o email diz foi enviado pela a mãe trinta minutos atrás,email_sendemail,1.0,0.0,False
+16605,pt-PT,email,email_sendemail,escrever e enviar um email ao meu chefe,email_sendemail,1.0,1.0,True
+16609,pt-PT,email,email_query,diz-me se tenho algum email novo não lido,email_sendemail,1.0,0.0,False
+16613,pt-PT,email,email_sendemail,envie um email para o chefe dizendo que chegarei atrasado,email_sendemail,1.0,1.0,True
+16622,pt-PT,email,email_sendemail,enviar um email a este contacto,email_sendemail,1.0,1.0,True
+16624,pt-PT,email,email_sendemail,eu preciso que envie um email para comcastom sobre meus problemas com o serviço,email_sendemail,1.0,1.0,True
+16627,pt-PT,email,email_query,verificar emails mais actuais,email_query,0.8951,0.8951,True
+16630,pt-PT,email,email_sendemail,enviar resposta ao último email,email_sendemail,1.0,1.0,True
+16642,pt-PT,email,email_query,checar emails da sheila,email_sendemail,1.0,0.0,False
+16648,pt-PT,email,email_query,por favor vericar os meus emails para mim,email_sendemail,1.0,0.0,False
+16652,pt-PT,email,email_query,o email do bernardo tem um anexo,email_sendemail,1.0,0.0,False
+16662,pt-PT,email,email_query,recebi alguns novos emails de daniel,email_sendemail,1.0,0.0,False
+16666,pt-PT,email,email_query,tenho algum email recebido,email_sendemail,1.0,0.0,False
+16668,pt-PT,email,email_query,tem alguns emails recebidos desde as quatro horas da manhã de hoje,email_sendemail,1.0,0.0,False
+16669,pt-PT,email,email_query,eu recebi um email do paulo,email_sendemail,1.0,0.0,False
+16672,pt-PT,email,email_query,o benjamin entrou em contacto,social_post,0.998,0.0,False
+16677,pt-PT,email,email_query,eu tenho alguns novos emails na minha caixa de correio hoje,email_sendemail,1.0,0.0,False
+16698,pt-PT,email,email_sendemail,escrever uma resposta para o email da minha mãe,email_sendemail,0.9996,0.9996,True
+16701,pt-PT,email,email_sendemail,quero responder ao email da marta,email_sendemail,1.0,1.0,True
+16703,pt-PT,email,email_sendemail,gostaria de responder ao email mais recente,email_sendemail,1.0,1.0,True
+16712,pt-PT,email,email_query,tenho algum novo email,email_sendemail,1.0,0.0,False
+16713,pt-PT,email,email_query,verifique os meus emails e notifique-me se existe algum novo email,email_query,0.9904,0.9904,True
+16717,pt-PT,email,email_sendemail,podes enviar um email ao joão dizendo que estou de folga,email_sendemail,1.0,1.0,True
+16719,pt-PT,email,email_query,avisar-me de quaisquer novos emails que tenha recebido,email_sendemail,1.0,0.0,False
+16729,pt-PT,email,email_sendemail,responder meu email para o bruno avisando que os verei amanhã,email_sendemail,1.0,1.0,True
+16730,pt-PT,email,email_query,por favor verifique o novo email do andré,email_sendemail,1.0,0.0,False
+16733,pt-PT,email,email_query,mostrar os últimos emails da amazon,email_sendemail,1.0,0.0,False
+16749,pt-PT,email,email_query,existem alguns novos emails para mim hoje,email_sendemail,1.0,0.0,False
+16754,pt-PT,email,email_sendemail,dita o email,email_sendemail,0.9999,0.9999,True
+16758,pt-PT,email,email_query,algum email desde semana passada,email_sendemail,1.0,0.0,False
+16763,pt-PT,email,email_query,emails dos últimos dez minutos,email_sendemail,1.0,0.0,False
+16765,pt-PT,email,email_query,qual é a hora da entrevista do email de ontem,email_sendemail,1.0,0.0,False
+16766,pt-PT,email,email_query,verifica novos emails,email_sendemail,1.0,0.0,False
+16772,pt-PT,email,email_query,mostrar todos os emails acerca da falha,email_sendemail,0.9999,0.0001,False
+16780,pt-PT,email,email_sendemail,enviar um email para joaopedro arroba gmail ponto com,email_sendemail,1.0,1.0,True
+16791,pt-PT,email,email_sendemail,compor um novo email mas desta vez tenho um novo endereço bianca arroba exemplo ponto com,email_sendemail,1.0,1.0,True
+16799,pt-PT,email,email_query,recebi alguns emails desde o meio dia,email_sendemail,1.0,0.0,False
+16801,pt-PT,email,email_query,a carla já enviou um email sobre o tomás,email_sendemail,1.0,0.0,False
+16813,pt-PT,email,email_query,apitar quando recebo um email do joão,email_sendemail,1.0,0.0,False
+16814,pt-PT,email,email_query,verificar emails,email_query,0.9511,0.9511,True
+16838,pt-PT,email,email_sendemail,pode enviar o email para a nova identificação de email,email_sendemail,1.0,1.0,True
+16851,pt-PT,email,email_query,notificações de email,email_sendemail,1.0,0.0,False
+16859,pt-PT,email,email_query,o que é que eu disse à susana no meu último email,email_sendemail,1.0,0.0,False
+16872,pt-PT,email,email_sendemail,procura a maria nos meus contactos e envia-lhe um email,email_sendemail,1.0,1.0,True
+16873,pt-PT,email,email_sendemail,enviar email à natália no seu aniversário,email_sendemail,1.0,1.0,True
+16880,pt-PT,email,email_sendemail,envie um email para o josé sobre a reunião,email_sendemail,1.0,1.0,True
+16883,pt-PT,email,email_sendemail,enviar um email ao joão a perguntar a que horas estará em casa hoje à noite,email_sendemail,1.0,1.0,True
+16886,pt-PT,email,email_sendemail,responder a este mail,email_sendemail,1.0,1.0,True
+16888,pt-PT,email,email_query,e quanto ao correio novo,transport_query,0.3792,0.0255,False
+16890,pt-PT,email,email_query,que diz o novo email,email_sendemail,1.0,0.0,False
+16891,pt-PT,email,email_sendemail,send antónio pinho um email,email_sendemail,1.0,1.0,True
+16892,pt-PT,email,email_sendemail,iniciar e enviar email para o joão santos,email_sendemail,1.0,1.0,True
+16899,pt-PT,email,email_query,recebi algum email da josefina bruna,email_sendemail,1.0,0.0,False
+16914,pt-PT,email,email_query,tenho emails deste remetente,email_sendemail,1.0,0.0,False
+16916,pt-PT,email,email_sendemail,olá responder a um email que recebi,email_sendemail,1.0,1.0,True
+16924,pt-PT,email,email_query,vê no meu correio que há algum novo email,email_sendemail,1.0,0.0,False
+16930,pt-PT,email,email_query,mostrar último email,email_sendemail,1.0,0.0,False
+16938,pt-PT,email,email_sendemail,responder ao email do joão,email_sendemail,1.0,1.0,True
+16944,pt-PT,email,email_sendemail,enviar email para avó dizendo vamos passar por aqui no sábado à tarde para vê-la então,email_sendemail,1.0,1.0,True
+16947,pt-PT,email,email_sendemail,responder ao email,email_sendemail,0.9999,0.9999,True
+16955,pt-PT,email,email_sendemail,enviar email ao contacto novo,email_sendemail,1.0,1.0,True
+16956,pt-PT,email,email_sendemail,enviar email ao novo contacto,email_sendemail,1.0,1.0,True
+16961,pt-PT,email,email_sendemail,responder com,qa_factoid,0.5409,0.0104,False
+16974,pt-PT,email,email_query,verifica por favor todos os novos emails das finanças,email_sendemail,1.0,0.0,False
+16987,pt-PT,email,email_query,algum email novo do jo,email_sendemail,1.0,0.0,False
+16989,pt-PT,email,email_sendemail,responder ao e-mail que me enviou o jorge que preciso do dinheiro agora é urgente,email_sendemail,1.0,1.0,True
+16992,pt-PT,email,email_query,a joana dias enviou algum email,email_sendemail,1.0,0.0,False
+16995,pt-PT,email,email_sendemail,enviar email à joana,email_sendemail,1.0,1.0,True
+17005,pt-PT,email,email_query,cheque meus novos emails,email_sendemail,1.0,0.0,False
+17011,pt-PT,email,email_sendemail,pode enviar um email para,email_sendemail,1.0,1.0,True
+17015,pt-PT,email,email_sendemail,iniciar a responder,qa_factoid,0.7343,0.0022,False
+17019,pt-PT,email,email_sendemail,escrever uma resposta ao último email,email_sendemail,1.0,1.0,True
+17020,pt-PT,email,email_sendemail,responder ao último email recebido,email_sendemail,1.0,1.0,True
+17023,pt-PT,email,email_sendemail,mandar um email à mãe a perguntar como está o tempo lá,email_sendemail,1.0,1.0,True
+17042,pt-PT,email,email_sendemail,enviar um email para joao arroba gmail ponto com,email_sendemail,1.0,1.0,True
+17043,pt-PT,email,email_sendemail,mandar email para o tim no hotmail ponto com,email_sendemail,1.0,1.0,True
+17051,pt-PT,email,email_query,quero ver email novo,email_sendemail,0.9999,0.0001,False
+17052,pt-PT,email,email_query,procurar colher,cooking_recipe,0.9994,0.0,False
+17069,pt-PT,email,email_query,existem alguns novos emails no outlook,email_sendemail,1.0,0.0,False
+17075,pt-PT,email,email_query,existem alguns emails recebidos depois das quatro horas hoje,email_sendemail,1.0,0.0,False
+17081,pt-PT,email,email_sendemail,criar um e-mail para um colega de trabalho com os meus documentos recentemente guardados,email_sendemail,1.0,1.0,True
+17087,pt-PT,email,email_query,verificar novos emails recebidos da sara,email_sendemail,1.0,0.0,False
+17098,pt-PT,email,email_query,mostrar me quaisquer emails recebidos na última hora,email_sendemail,1.0,0.0,False
+17107,pt-PT,email,email_query,checar novos emails,email_sendemail,1.0,0.0,False
+17108,pt-PT,email,email_query,mostrar-me o meu último email,email_sendemail,1.0,0.0,False
+17113,pt-PT,email,email_sendemail,criar um email para a júlia,email_sendemail,1.0,1.0,True
+17115,pt-PT,email,email_query,lê a lista de novos emails,email_sendemail,1.0,0.0,False
+17116,pt-PT,email,email_query,mostrar lista de emails recentes,email_sendemail,1.0,0.0,False
+17119,pt-PT,email,email_query,verificar qualquer email da amazon,email_query,0.9032,0.9032,True
+17123,pt-PT,email,email_sendemail,formulário de email para o vice presidente regional,email_query,0.5616,0.4384,False
+17135,pt-PT,email,email_query,algum email com notícias animadoras,email_sendemail,1.0,0.0,False
+17136,pt-PT,email,email_query,lê os meus emails novos por favor,email_sendemail,1.0,0.0,False
+17138,pt-PT,email,email_query,arquivar as minhas mensagens lidas,datetime_query,0.6809,0.005,False
+17142,pt-PT,email,email_query,o que está na minha caixa de entrada desde a última verificação,lists_query,0.2592,0.0407,False
+17143,pt-PT,email,email_sendemail,ei enviar email para joão,email_sendemail,1.0,1.0,True
+17144,pt-PT,email,email_query,olá verificar o email,email_query,0.9957,0.9957,True
+17147,pt-PT,email,email_sendemail,responder ao mail com o seguinte conteúdo olá,email_sendemail,1.0,1.0,True
+17148,pt-PT,email,email_sendemail,alexa responder ao email com o seguinte conteúdo olá,email_sendemail,0.9999,0.9999,True
+17151,pt-PT,email,email_sendemail,meu amigo joão enviou-me um convite para a sua casa recém comprada agradeça a ele no email,email_sendemail,0.9996,0.9996,True
+17156,pt-PT,email,email_query,verificar se o meu email tem algum novo email do josé,email_sendemail,0.9942,0.0058,False
+17157,pt-PT,email,email_query,eu tenho algum email novo de joão,email_sendemail,0.9999,0.0001,False
+17170,pt-PT,email,email_query,avisar quando josé me enviar emails,email_sendemail,0.9999,0.0,False
+17179,pt-PT,email,email_query,o joão enviou-me um email,email_sendemail,1.0,0.0,False

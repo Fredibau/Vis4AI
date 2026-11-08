@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,km-KH,iot,iot_hue_lightoff,បិទ ភ្លើង ក្នុង បន្ទប់គេង,lists_remove,0.6777,0.0581,False
+47,km-KH,datetime,datetime_query,អូស្ត្រាលី,qa_factoid,0.401,0.0122,False
+85,km-KH,datetime,datetime_query,ថ្ងៃនេះ,weather_query,0.841,0.0063,False
+86,km-KH,datetime,datetime_query,តើ ថ្ងៃនេះ ជាថ្ងៃណា,weather_query,0.9889,0.0012,False
+100,km-KH,weather,weather_query,ប្រចាំសប្តាហ៍,datetime_query,0.9625,0.0019,False
+102,km-KH,weather,weather_query,តើ អាកាស ធាតុ សប្ដាហ៍ នេះ យ៉ាង មិច ដែរ,qa_factoid,0.1978,0.0355,False
+103,km-KH,weather,weather_query,ប្រាប់ ខ្ញុំ អំពី អាកាស ធាតុ សប្ដាហ៍ នេះ,social_post,0.1236,0.0356,False
+128,km-KH,datetime,datetime_query,គឺជាថ្ងៃអ្វី,weather_query,0.9793,0.0022,False
+151,km-KH,play,play_music,សូមលេង វា ម្តងទៀត,play_music,0.625,0.625,True
+177,km-KH,news,news_query,អាជីវកម្ម,qa_factoid,0.9216,0.0014,False
+178,km-KH,news,news_query,អន្តរជាតិ,qa_factoid,0.2017,0.0287,False
+182,km-KH,play,play_music,ចាក់ បទចម្រៀង រ៉ក ពី បញ្ជីបទចម្រៀង របស់ខ្ញុំ,email_sendemail,0.9976,0.0001,False
+185,km-KH,play,play_music,បើក ចម្រៀង ជួរ ទីបី របស់ខ្ញុំ,cooking_recipe,0.6729,0.076,False
+197,km-KH,datetime,datetime_query,តើម៉ោងប៉ុន្មាន,qa_factoid,0.9662,0.0011,False
+216,km-KH,weather,weather_query,ថ្ងៃនេះ,weather_query,0.841,0.841,True
+219,km-KH,weather,weather_query,តើ ខ្ញុំ គួរ យក ឆ័ត្រ ថ្ងៃ ស្អែក ទេ,calendar_remove,0.7819,0.0085,False
+220,km-KH,play,play_music,លេងតន្ត្រីពី បញ្ជីរ៉ុក របស់ខ្ញុំ,play_music,1.0,1.0,True
+250,km-KH,play,play_music,ខ្ញុំមានអារម្មណ៍ថាដូចជាចង្វាក់ jazz ឥឡូវនេះ ចុះអ្នកវិញ,play_music,0.5108,0.5108,True
+254,km-KH,play,play_music,olly លេង វ៉ុល ពី បទ រាំ វង់ ក្នុង ចូល ចិត្ត ក្នុង player របស់ ខ្ញុំ,email_sendemail,1.0,0.0,False
+279,km-KH,weather,weather_query,តើ ការ ព្យាករណ៍ អាកាសធាតុ នៅ បាត់ដំបង ថ្ងៃ នេះ យ៉ាង មិច ដែរ,weather_query,0.2929,0.2929,True
+281,km-KH,news,news_query,អត្រា​ប្តូ​រ​ប្រាក់ដុល្លារអាមេរិកទៅប្រាក់ផោន,qa_factoid,0.5046,0.017,False
+296,km-KH,play,play_music,លេង បញ្ជីបទចម្រៀងនីកូ,play_music,0.9998,0.9998,True
+297,km-KH,play,play_music,ចាក់ច្របល់ចូលគ្នា បទចំរៀងរបស់ នីកូ,cooking_recipe,0.2258,0.1448,False
+299,km-KH,weather,weather_query,តើ​អាកាស​ធាតុ​យ៉ាង​មិច​ដែរ,qa_factoid,0.6933,0.0085,False
+310,km-KH,datetime,datetime_query,តើថ្ងៃណាជាថ្ងៃចូលឆ្នាំសកល ឆ្នាំ​នេះ,calendar_remove,0.8472,0.0299,False
+319,km-KH,weather,weather_query,បាសេឡូណា ពីរថ្ងៃទៀត,qa_factoid,0.3477,0.1021,False
+329,km-KH,play,play_music,ប្រាំពីរឆ្នាំ,qa_factoid,0.771,0.0072,False
+333,km-KH,weather,weather_query,តើ ស្ថានភាព អាកាសធាតុនៅទីក្រុង ភ្នំពេញ អត់អីទេ,qa_factoid,0.5116,0.0218,False
+334,km-KH,weather,weather_query,ខ្ញុំ ចង់ ដឹង​ អំពី អាកាស ធាតុ នៅ កោះ សង្សា,qa_definition,0.3577,0.0192,False
+344,km-KH,weather,weather_query,ធ្លាក់ភ្លៀង ថ្ងៃស្អែក,iot_hue_lightoff,0.9003,0.0013,False
+348,km-KH,weather,weather_query,ភ្លៀង ថ្ងៃស្អែក,play_music,0.8477,0.0014,False
+355,km-KH,datetime,datetime_query,តើថ្ងៃណានៃសប្តាហ៍ ជាថ្ងៃ ទីមួយខែមេសា,datetime_query,0.8578,0.8578,True
+360,km-KH,datetime,datetime_query,តើម៉ោងប៉ុន្មានឥលូវនេះ,weather_query,0.2507,0.0391,False
+362,km-KH,play,play_music,លេងបទ ចម្រៀង ទីពីរ ពីបទ ចម្រៀង របស់នីកូ,play_music,0.9962,0.9962,True
+366,km-KH,news,news_query,សូមប្រាប់ខ្ញុំពីព័ត៌មានចុងក្រោយ,social_post,0.845,0.0157,False
+369,km-KH,iot,iot_hue_lightoff,បិទ ភ្លើង,lists_remove,0.3196,0.1347,False
+385,km-KH,news,news_query,តើអ្វី​ដែល​គួរ​ឱ្យ​ចាប់អារម្មណ៍​នៅ​ក្នុង​ សប្បាយ,lists_query,0.4443,0.0363,False
+391,km-KH,play,play_music,ចាក់ បទចម្រៀង ឆ្លាស់គ្នាផ្សេងៗ ពីក្នុង បញ្ជីបទចម្រៀង របស់ខ្ញុំ,lists_remove,0.5642,0.0305,False
+393,km-KH,play,play_music,លេង បទចម្រៀង retro នៅក្នុង បញ្ជីបទចម្រៀង របស់ខ្ញុំ,play_music,0.9998,0.9998,True
+397,km-KH,play,play_music,លេង ចម្រៀង ណាមួយ ដោយ នីកូ,play_music,0.9999,0.9999,True
+400,km-KH,play,play_music,ចាប់ផ្ដើមលេង,play_music,0.8937,0.8937,True
+407,km-KH,play,play_music,តើអ្នកអាចលេងតន្រ្តី រ៉ក សម្រាប់ ម៉ោងបន្ទាប់,qa_factoid,0.3568,0.2867,False
+424,km-KH,news,news_query,ទាន់ហេតុការណ៍,qa_factoid,0.9268,0.0034,False
+427,km-KH,iot,iot_hue_lightoff,បិទ ភ្លើង នៅក្នុង បន្ទប់ទឹក,lists_remove,0.4081,0.0585,False
+428,km-KH,iot,iot_hue_lightoff,បិទ ភ្លើង ក្នុង បន្ទប់ ទឹក,lists_remove,0.6262,0.0699,False
+430,km-KH,weather,weather_query,តើ អាកាស ធាតុ ឥឡូវ នេះ យ៉ាង មិច ដែរ,qa_factoid,0.283,0.0259,False
+437,km-KH,play,play_music,បើក ថតឯកសារ ចចកសមុទ្រ,play_music,0.9247,0.9247,True
+441,km-KH,news,news_query,តើមាតិការពត៌មានចុងក្រោយបង្អស់គឺអ្វី,social_post,0.7049,0.0066,False
+442,km-KH,news,news_query,តើមានអ្វីកើតនៅលើពត៌មាន,social_post,0.8595,0.0262,False
+451,km-KH,news,news_query,តម្លៃនៃភាគហ៊ុន costco,email_query,0.8474,0.0045,False
+473,km-KH,play,play_music,លេង ចុងសប្ដាហ៍,play_music,0.9996,0.9996,True
+486,km-KH,datetime,datetime_query,ទីក្រុង​ញ៉ូ​យ៉​ក,qa_factoid,0.3613,0.0138,False
+491,km-KH,weather,weather_query,តើ ខាង ក្រៅ ត្រជាក់ ទេ,cooking_recipe,0.3603,0.01,False
+506,km-KH,play,play_music,លេង បទ ចម្រៀង របស់ b. t. s.,play_music,0.9999,0.9999,True
+512,km-KH,weather,weather_query,ទទួលបានពិន្ទុ,iot_hue_lightoff,0.5035,0.0014,False
+540,km-KH,play,play_music,លេង ចម្រៀង ច្រៀង ដោយ យូរី,play_music,0.9996,0.9996,True
+555,km-KH,play,play_music,លេង m. f. បងខុសហើយ,play_music,1.0,1.0,True
+576,km-KH,play,play_music,លេង បញ្ជីចាក់តន្ត្រី ទាំងអស់,play_music,0.9993,0.9993,True
+585,km-KH,news,news_query,បង្ហាញ,iot_hue_lightoff,0.9804,0.0002,False
+588,km-KH,news,news_query,ថ្ងៃនេះ,weather_query,0.841,0.001,False
+590,km-KH,weather,weather_query,តើ អាកាស ធាតុ ឥឡូវ នេះ យ៉ាង ណា ដែរ,qa_factoid,0.3428,0.0301,False
+614,km-KH,play,play_music,ចាប់ផ្តើម បញ្ជីចម្រៀង,play_music,0.2789,0.2789,True
+625,km-KH,play,play_music,សូមលេងបទរបស់ ចចកសមុទ្រ,play_music,0.9994,0.9994,True
+631,km-KH,news,news_query,ការជូនដំណឹង បំពង់បង្ហូរប្រេង,iot_hue_lightoff,0.2837,0.0277,False
+651,km-KH,iot,iot_hue_lightoff,បិទ ភ្លើង បន្ទប់,lists_remove,0.5207,0.0448,False
+660,km-KH,datetime,datetime_query,ប្រទេសជប៉ុន,qa_factoid,0.9975,0.0,False
+680,km-KH,news,news_query,តម្លៃកាក់ឌីជីថល,qa_factoid,0.4658,0.0108,False
+686,km-KH,datetime,datetime_query,ញូវយ៉ក,qa_factoid,0.9759,0.0007,False
+712,km-KH,news,news_query,ខ្ញុំចង់ឮព័ត៌មានចុងក្រោយពី ប៉ុស្តិ៍បាយ័ន,social_post,0.9936,0.0003,False
+726,km-KH,weather,weather_query,សប្ដាហ៍,email_sendemail,0.5984,0.0073,False
+730,km-KH,iot,iot_hue_lightoff,បិទ ភ្លើង,lists_remove,0.3195,0.1347,False
+738,km-KH,weather,weather_query,តើ ខាង ក្រៅ ត្រជាក់ យ៉ាង ណា​ ថ្ងៃ នេះ,weather_query,0.8157,0.8157,True
+764,km-KH,weather,weather_query,សប្ដាហ៍នេះ,qa_factoid,0.9969,0.0002,False
+765,km-KH,news,news_query,អ្នកផ្តល់សេវាថ្មីបំផុត,qa_factoid,0.998,0.0,False
+767,km-KH,news,news_query,តើ​អ្នក​អាច​រកឲ្យ​ខ្ញុំ​នូវ​ព័ត៌មាន​ចុង​ក្រោយ​បំផុត ​ពី​ប្រភព​មួយ​ដែល​ខ្ញុំ​មិន​សូវ​ចូល​ទៅ​បានទេ,recommendation_events,0.2508,0.2141,False
+768,km-KH,news,news_query,នយោបាយ,qa_factoid,0.9862,0.0002,False
+779,km-KH,play,play_music,ខ្ញុំចង់ស្ដាប់បទ ផ្លូវណាទៅរាំ ដោយ នីកូ,recommendation_events,0.2071,0.0236,False
+781,km-KH,play,play_music,ចាក់បទ បងខុសហើយ,calendar_remove,0.4145,0.0248,False
+782,km-KH,play,play_music,ចាក់បទ អូនខុសហើយ ដោយ យូរី,social_post,0.6691,0.0032,False
+783,km-KH,play,play_music,លេងបទ អូនខុសហើយ,play_music,1.0,1.0,True
+790,km-KH,weather,weather_query,ស្រាល ខ្លាំង,iot_hue_lightoff,0.4177,0.0279,False
+826,km-KH,weather,weather_query,តើ ឥឡូវ នេះ សីតុណ្ហ ភាព នៅ ខាង ក្រៅ ប៉ុន្មាន អង្សា សេ,qa_factoid,0.1089,0.0462,False
+827,km-KH,play,play_music,លេង បញ្ជីចាក់តន្ត្រី ឆាត​ វីរៈយុទ្ធ,play_music,0.9995,0.9995,True
+832,km-KH,weather,weather_query,សួស្ដី តើ ការ ព្យាករណ៍ អាកាស ធាតុ ថ្ងៃ ស្អែក យ៉ាង មិច ដែរ,cooking_recipe,0.1383,0.0467,False
+837,km-KH,news,news_query,តើការព្យាករណ៍ ប៉ុស្តិ៍បាយ័ន សម្រាប់ ការបោះឆ្នោតជាតិខាងមុខ ជាអ្វី,qa_factoid,0.1753,0.0379,False
+891,km-KH,play,play_music,លេង តន្ត្រី គ្រីស្ទាន ខ្លះ,play_music,0.9989,0.9989,True
+914,km-KH,iot,iot_hue_lightoff,សូម ចុច បិទ ភ្លើង,lists_remove,0.462,0.0251,False
+936,km-KH,play,play_music,បើក ហើយលេងភ្លេងពី បញ្ជីបទភ្លេងហាត់ប្រាណ របស់ខ្ញុំ,play_music,1.0,1.0,True
+951,km-KH,weather,weather_query,ឥឡូវនេះ ញូវយ៉ក,qa_factoid,0.9664,0.0032,False
+969,km-KH,news,news_query,អត្ថបទ,qa_factoid,0.5288,0.0115,False
+974,km-KH,datetime,datetime_query,តើ ឥឡូវ នេះ ម៉ោង ប៉ុន្មាន នៅ សៀម រាប,weather_query,0.9831,0.0024,False
+997,km-KH,iot,iot_hue_lightoff,បិទភ្លើង បន្ទប់ទទួលភ្ញៀវ,lists_remove,0.3884,0.1978,False
+999,km-KH,iot,iot_hue_lightoff,តើអ្នកអាច បិទ ភ្លើង បានទេ,qa_factoid,0.9906,0.0001,False
+1007,km-KH,play,play_music,លេង បទ នីកូ ពី បញ្ជី rock របស់ ខ្ញុំ,play_music,1.0,1.0,True
+1014,km-KH,datetime,datetime_query,តើម៉ោងប៉ុន្មាននៅ មុខកំពូល ឥឡូវនេះ,weather_query,0.9112,0.0043,False
+1047,km-KH,play,play_music,ខ្ញុំ ចង់ យំ លេង បទ ចម្រៀង រ៉ុក កំសត់,play_music,0.9999,0.9999,True
+1061,km-KH,news,news_query,កាលបរិច្ឆេទ កីឡា,datetime_query,0.3225,0.022,False
+1063,km-KH,news,news_query,ប្រចាំម៉ោង កីឡា,datetime_query,0.7273,0.0137,False
+1084,km-KH,news,news_query,អ្នក​ប្រើ​ប្រាស់ដែល​ងាយ​ស្រួល,social_post,0.6646,0.004,False
+1093,km-KH,news,news_query,កោះសន្តិភាព គេហទំព័រ,iot_hue_lightoff,0.4349,0.0214,False
+1098,km-KH,datetime,datetime_query,តើ ថ្ងៃទីដប់ប្រាំខែមីនា ប៉ះចំថ្ងៃណានៃសប្តាហ៍,weather_query,0.4588,0.0318,False
+1108,km-KH,play,play_music,បំណង របស់ខ្ញុំ គឺស្តាប់ តន្រ្តី ខោនទ្រី ខ្លះ,qa_factoid,0.4566,0.0238,False
+1115,km-KH,play,play_music,រៀប ចំ តន្ត្រី ប៉ុប ទាំង អស់ ដាក់ នៅ តាម ប្រភេទ ចម្រៀង,lists_remove,0.9335,0.0031,False
+1120,km-KH,news,news_query,នយោបាយ,qa_factoid,0.9862,0.0002,False
+1121,km-KH,play,play_music,ចាក់បទ ឆ្ងាយ ដោយ ម៉ម ពេជរិទ្ធ,iot_hue_lightoff,0.7617,0.0086,False
+1123,km-KH,play,play_music,បទបន្ទាប់ចាក់បទ បងខុសហើយ ដោយ នីកូ,email_sendemail,0.1883,0.028,False
+1124,km-KH,play,play_music,លេង បទ ឆ្ងាយ របស់ក្រុតូច,play_music,0.9989,0.9989,True
+1127,km-KH,play,play_music,បើកចម្រៀងទាំងអស់នៅលើ ប្រភេទចំរុះ,cooking_recipe,0.4432,0.0037,False
+1144,km-KH,play,play_music,ខ្ញុំចង់បានបទ រ៉េប ខ្លះ,iot_hue_lightoff,0.2324,0.0237,False
+1148,km-KH,datetime,datetime_query,ស៊ីដនី,social_post,0.6547,0.0015,False
+1156,km-KH,news,news_query,ទិវាសិទ្ធិនារីអន្តរជាតិ,iot_hue_lightoff,0.2714,0.0234,False
+1160,km-KH,weather,weather_query,ត្រជាក់ រៀងរាល់យប់ សប្ដាហ៍នេះ,weather_query,0.2317,0.2317,True
+1180,km-KH,news,news_query,ស្វែងរក អត្ថបទ កោះសន្តិភាព ថ្ងៃនេះ អំពី លោក សុខ ទូច,social_post,0.7578,0.0408,False
+1202,km-KH,datetime,datetime_query,ញូវយ៉ក,qa_factoid,0.9759,0.0007,False
+1238,km-KH,play,play_music,pandora,qa_factoid,0.1403,0.0391,False
+1249,km-KH,weather,weather_query,មើល ទៅ អាកាស ធាតុ សប្ដាហ៍ នេះ យ៉ាង ណា ដែរ,weather_query,0.1886,0.1886,True
+1252,km-KH,datetime,datetime_query,ប្រាប់ខ្ញុំពីពេលវេលាបច្ចុប្បន្ន,social_post,0.5491,0.0124,False
+1294,km-KH,news,news_query,កូវីដដប់ប្រាំបួន,qa_factoid,0.9714,0.0012,False
+1301,km-KH,news,news_query,គោលនយោបាយការបរទេសរបស់ trump,qa_factoid,0.2896,0.0222,False
+1308,km-KH,weather,weather_query,ថ្ងៃនេះ នៅទីនេះ,weather_query,0.9879,0.9879,True
+1318,km-KH,play,play_music,បើក កម្ម វិធី តន្ត្រី ហើយ លេង បទ ចម្រៀង មួយ បទ សម្រាប់ ខ្ញុំ,play_music,0.9599,0.9599,True
+1351,km-KH,weather,weather_query,តើវានឹង ល្អ នៅខាងក្រៅ សប្ដាហ៍នេះ ទេ,qa_factoid,0.4579,0.0497,False
+1371,km-KH,news,news_query,កោះសន្តិភាព,iot_hue_lightoff,0.8275,0.005,False
+1377,km-KH,iot,iot_hue_lightoff,សូម បិទ ភ្លើង បន្ទប់កូនប្រុសរបស់ខ្ញុំ,calendar_remove,0.6236,0.0289,False
+1400,km-KH,weather,weather_query,ខ្ញុំភាគច្រើនយកចិត្តទុកដាក់,email_sendemail,0.8363,0.0014,False
+1401,km-KH,weather,weather_query,ខ្ញុំយកចិត្តទុកដាក់ម្តងម្កាល,lists_remove,0.284,0.0058,False
+1404,km-KH,weather,weather_query,ថ្ងៃស្អែក កូស្តា ម៉េសា,calendar_remove,0.5099,0.0567,False
+1423,km-KH,news,news_query,ប្រាប់​ខ្ញុំ​អំពី លោកសុខ ទូច,email_sendemail,0.9617,0.0004,False
+1425,km-KH,news,news_query,ប្រាប់ខ្ញុំនៅពេលអ្នកឮអំពី ប្រទេសបារាំង,social_post,0.974,0.0028,False
+1440,km-KH,play,play_music,ចាក់ បទចម្រៀង rock ចុងក្រោយបង្អស់ ដែល មានការ ការវាយតម្លៃពីបួនឬលើហ្នឹង,play_music,0.4769,0.4769,True
+1449,km-KH,datetime,datetime_query,បុណ្យអ៊ីស្ទើរ ឆ្នាំពីរពាន់ដប់ប្រាំបី,iot_hue_lightoff,0.692,0.007,False
+1458,km-KH,weather,weather_query,ក្ដៅ កេបិច,qa_factoid,0.9504,0.0005,False
+1467,km-KH,play,play_music,បើកចម្រៀង វណ្ណដា,iot_hue_lightoff,0.6097,0.0975,False
+1474,km-KH,news,news_query,តើព័ត៌មាន កីឡា ថ្ងៃនេះ ជាអ្វី,social_post,0.6486,0.0951,False
+1489,km-KH,play,play_music,លេង បទ ចម្រៀង ថ្មី បំផុត របស់ មាស​ សុខ សោភា,play_music,0.9997,0.9997,True
+1513,km-KH,weather,weather_query,សីតុណ្ហភាព,iot_hue_lightoff,0.2231,0.0398,False
+1533,km-KH,news,news_query,តើ​មាន​ព័ត៌មាន​អ្វី​បាន​កើត​ឡើង​នៅ កោះសន្តិភាព ថ្ងៃនេះ,lists_query,0.3384,0.0765,False
+1537,km-KH,datetime,datetime_query,បង្ហាញខ្ញុំពីពេលវេលាបច្ចុប្បន្ននៅ អាល្លឺម៉ង់,weather_query,0.9715,0.0074,False
+1542,km-KH,weather,weather_query,ថ្ងៃ កំពុង ចាំង ពន្លឺ យ៉ាង ស្រស់ ស្អាត តើ អាកាស ធាតុ ដូច នេះ នឹង មាន ពេញ មួយ ថ្ងៃ ទេ,weather_query,0.3712,0.3712,True
+1546,km-KH,play,play_music,បើក បញ្ជីចម្រៀងសម្រាប់ហាត់ប្រាណនៅរដូវក្ដៅ របស់ខ្ញុំ,iot_hue_lightoff,0.4855,0.0059,False
+1547,km-KH,weather,weather_query,នៅ ទី តាំង របស់ ខ្ញុំ សប្ដាហ៍ នេះ នឹង មាន អាកាស ធាតុ យ៉ាង មិច ដែរ,weather_query,0.2265,0.2265,True
+1549,km-KH,weather,weather_query,ភ្លៀង សប្ដាហ៍នេះ,play_music,0.7706,0.0065,False
+1554,km-KH,iot,iot_hue_lightoff,បិទ អំពូល,lists_remove,0.272,0.0955,False
+1581,km-KH,datetime,datetime_query,តើឥលូវនេះជាថ្ងៃ ខែ ឆ្នាំអ្វី,weather_query,0.3893,0.2386,False
+1589,km-KH,weather,weather_query,មេឃ បើកថ្ងៃ ថ្ងៃអង្គារ,weather_query,0.6719,0.6719,True
+1593,km-KH,news,news_query,កំណត់ ការជូនដំណឹង ពី ពត៌មានពិភពលោក,social_post,0.2257,0.0879,False
+1594,km-KH,news,news_query,តើអ្នកអាចប្រាប់ខ្ញុំពីព័ត៌មានចុងក្រោយបានទេ,qa_factoid,0.8979,0.0005,False
+1607,km-KH,datetime,datetime_query,ភ្នំពេញ,weather_query,0.2246,0.0474,False
+1617,km-KH,news,news_query,នយោបាយ,qa_factoid,0.9862,0.0002,False
+1636,km-KH,news,news_query,បង្ហាញ កោះសន្តិភាព,iot_hue_lightoff,0.982,0.0009,False
+1653,km-KH,weather,weather_query,តើនៅ ពេលណា ដែលវានឹងមាន ភ្លៀង,weather_query,0.9892,0.9892,True
+1655,km-KH,weather,weather_query,តើ ព្រិល នឹង ធ្លាក់ នៅ ថ្ងៃ ស្អែក ម៉ោង ដប់ ពីរ,weather_query,0.2703,0.2703,True
+1666,km-KH,news,news_query,ដូច្នេះ សម្អាត ចោល​ នូវ ព័ត៌មាន ប្រាំ មួយ ម៉ោង មុន,lists_remove,0.4184,0.0495,False
+1671,km-KH,play,play_music,ចាក់ចម្រៀងទាំងអស់ដែលចេញរវាងឆ្នាំ មួយពាន់ប្រាំបួនរយកៅសិប និង ឆ្នាំ ពីរពាន់,cooking_recipe,0.3815,0.0194,False
+1683,km-KH,weather,weather_query,ថ្ងៃស្អែក សីតុណ្ហភាព ក្ដៅ,iot_hue_lightoff,0.1513,0.1072,False
+1684,km-KH,weather,weather_query,សីតុណ្ហ ភាព ថ្ងៃ ស្អែក នឹង ក្ដៅ មែន ឬ អត់,iot_hue_lightoff,0.3802,0.1625,False
+1692,km-KH,play,play_music,បើក ចង្វាក់ហ្សាស់ ខ្លះៗ អោយខ្ញុំ,iot_hue_lightoff,0.9505,0.0014,False
+1722,km-KH,weather,weather_query,តើ នៅ សៀម រាប សីតុណ្ហភាព ទាប បំផុត ធ្លាក់ ដល់ កម្រិត ណា,recommendation_events,0.0772,0.0624,False
+1750,km-KH,iot,iot_hue_lightoff,បិទ ភ្លើងទាំងអស់,calendar_remove,0.4389,0.0184,False
+1759,km-KH,news,news_query,ប្រធានាធិបតី trump,qa_factoid,0.957,0.0018,False
+1760,km-KH,news,news_query,ភេរវកម្ម,qa_factoid,0.9881,0.0001,False
+1777,km-KH,play,play_music,ចម្រៀង បន្ទាប់,play_music,0.458,0.458,True
+1784,km-KH,iot,iot_hue_lightoff,បិទ បន្ទប់ញុំាអាហារ,lists_remove,0.4968,0.0205,False
+1786,km-KH,iot,iot_hue_lightoff,បិទភ្លើង បន្ទប់គេងរបស់ម្ចាស់ផ្ទះ,lists_remove,0.5983,0.0958,False
+1794,km-KH,news,news_query,តើ លោកសុខ ទូច នឹង​ធ្វើ​ទស្សនកិច្ច​នៅ​ ប្រទេស​រុស្ស៊ី ក្នុង​ពេល​ឆាប់ៗ​នេះឬទេ,cooking_recipe,0.2501,0.0165,False
+1796,km-KH,datetime,datetime_query,ថ្ងៃនេះ,weather_query,0.841,0.0063,False
+1803,km-KH,news,news_query,ថ្ងៃនេះ ក្រុមសីហា,weather_query,0.9884,0.0005,False
+1811,km-KH,play,play_music,បើកបញ្ជីចម្រៀង និងបើក តន្រ្តី,qa_factoid,0.2236,0.0245,False
+1832,km-KH,play,play_music,លេង អាល់ប៊ុម coldplay,play_music,0.9824,0.9824,True
+1833,km-KH,play,play_music,លេង បញ្ជីចាក់ មនោសញ្ចេតនា,play_music,0.9999,0.9999,True
+1866,km-KH,weather,weather_query,របាយការណ៍អាកាសធាតុ ឥឡូវនេះ,qa_factoid,0.2731,0.0508,False
+1870,km-KH,datetime,datetime_query,ថ្ងៃនេះ,weather_query,0.841,0.0063,False
+1904,km-KH,news,news_query,យកឲ្យខ្ញុំនូ ពត៌មានកីឡា,lists_remove,0.6465,0.004,False
+1933,km-KH,weather,weather_query,ការធ្លាក់ សីតុណ្ហភាព យប់នេះ,weather_query,0.2335,0.2335,True
+1940,km-KH,play,play_music,លេង ចម្រៀង បងខុសហើយ,play_music,1.0,1.0,True
+1962,km-KH,play,play_music,សួរស្តី google លេង បញ្ជីចាក់តន្ត្រី មនោសញ្ចេតនា នៅក្នុង កម្មវិធី gaana របស់ខ្ញុំ,email_sendemail,0.9829,0.0002,False
+1994,km-KH,play,play_music,តើអ្នកអាចបើក​ itunes របស់ខ្ញុំ បានទេ,qa_factoid,0.9999,0.0,False
+1995,km-KH,play,play_music,បើកចម្រៀង ចចកសមុទ្រ,iot_hue_lightoff,0.439,0.1888,False
+2007,km-KH,play,play_music,លេង ស្នេហ៍គ្រាដំបូង,play_music,0.9999,0.9999,True
+2062,km-KH,play,play_music,ខ្ញុំចង់លេង តន្ត្រី ចង្វាក់ហ្សាស់ ខ្លះៗ,play_music,0.9995,0.9995,True
+2085,km-KH,play,play_music,អាឡិចខ្ញុំចង់ស្ដាប់តន្ត្រី ក្លាសិក លើកលែងតែ នីកូ និង ចចកសមុទ្រ,qa_factoid,0.3777,0.0151,False
+2098,km-KH,news,news_query,ពិភពលោក,qa_factoid,0.9965,0.0001,False
+2108,km-KH,play,play_music,ចាក់បទ បងខុសហើយ នៅពេលបន្ទាប់,calendar_remove,0.2694,0.0471,False
+2113,km-KH,recommendation,recommendation_events,ស្រុកកំណើត,social_post,0.1608,0.0405,False
+2146,km-KH,datetime,datetime_query,រដូវរងា​រ សុលស្ទីស ពីរ​ឆ្នាំ,iot_hue_lightoff,0.1043,0.0922,False
+2156,km-KH,datetime,datetime_query,ខ្ញុំត្រូវដឹងពីពេលវេលាឥឡូវនេះ តើវាជាអ្វី,weather_query,0.2162,0.0697,False
+2160,km-KH,iot,iot_hue_lightoff,ខ្ញុំនឹងគេងឥឡូវនេះ,qa_factoid,0.2803,0.2193,False
+2178,km-KH,weather,weather_query,កន្លែង​របស់ខ្ញុំ,lists_remove,0.1624,0.0235,False
+2198,km-KH,datetime,datetime_query,ថ្ងៃទីបួន ខែធ្នូ ឆ្នាំមួយពាន់ប្រាំបួនរយប៉ែតសិបពីរ,datetime_query,0.8698,0.8698,True
+2201,km-KH,news,news_query,ប៉ុស្ដិ៍ហង្សមាស,social_post,0.8132,0.0002,False
+2203,km-KH,news,news_query,កោះសន្តិភាព,iot_hue_lightoff,0.8275,0.005,False
+2220,km-KH,weather,weather_query,ប៉ារីស,qa_factoid,0.9077,0.0005,False
+2225,km-KH,play,play_music,ចាក់បទ ឆ្ងាយ ដោយ ម៉ម ពេជរិទ្ធ,iot_hue_lightoff,0.7617,0.0086,False
+2230,km-KH,iot,iot_hue_lightoff,បិទ ភ្លើង ផ្ទះបាយ,lists_remove,0.5813,0.0519,False
+2237,km-KH,news,news_query,អន្តរជាតិ,qa_factoid,0.2017,0.0287,False
+2258,km-KH,weather,weather_query,ថ្ងៃនេះ តើខ្ញុំត្រូវការ អាវរងារ ទេ,weather_query,0.9113,0.9113,True
+2265,km-KH,weather,weather_query,កំពង់ធំ,lists_query,0.1042,0.0466,False
+2271,km-KH,play,play_music,សូមលេងបទ ចម្រៀង ដែលខ្ញុំបានទិញ ហើយចូលចិត្ត,play_music,0.9994,0.9994,True
+2296,km-KH,news,news_query,នៅ ថ្ងៃនេះ ពិន្ទុសមាគម​បាល់បោះ​ជាតិ,weather_query,0.9824,0.0009,False
+2298,km-KH,iot,iot_hue_lightoff,បិទ ភ្លើង ឥឡូវនេះ,lists_remove,0.2942,0.0726,False
+2315,km-KH,news,news_query,ថ្ងៃនេះ,weather_query,0.841,0.001,False
+2316,km-KH,news,news_query,អេឡិចសា ផ្តល់មាតិកាពត៌មានឲ្យខ្ញុំ,email_sendemail,0.9979,0.0,False
+2320,km-KH,weather,weather_query,ថ្ងៃសុក្រ,calendar_remove,0.6509,0.0604,False
+2322,km-KH,weather,weather_query,ថ្ងៃស្អែក,calendar_remove,0.7039,0.0111,False
+2330,km-KH,datetime,datetime_query,បង្ហាញម៉ោងក្នុងស្រុកនៅ ទីក្រុងឡុងដ៍ ពេលនេះ,iot_hue_lightoff,0.999,0.0001,False
+2384,km-KH,news,news_query,តើមានអ្វីកើតឡើងនៅជុំវិញ ពិភពលោក,qa_factoid,0.2287,0.0557,False
+2386,km-KH,news,news_query,ឱ្យខ្ញុំនូវព័ត៌មានចុងក្រោយ,calendar_remove,0.688,0.0039,False
+2396,km-KH,play,play_music,បើក ចម្រៀង របស់ យូរី,play_music,0.6431,0.6431,True
+2408,km-KH,play,play_music,ស្វែងរក បទចម្រៀង ជា ច្រើនទៀត ពី ក្រុមតន្រ្តី,lists_remove,0.3111,0.0256,False
+2412,km-KH,datetime,datetime_query,តើអ្នកអាចប្រាប់ខ្ញុំពីម៉ោងនៅ ទីក្រុងឡុងដ៍ បានទេ,social_post,0.6477,0.0006,False
+2423,km-KH,weather,weather_query,ថ្ងៃនេះ ទីក្រុង​ញ៉ូ​យ៉​ក,weather_query,0.9981,0.9981,True
+2438,km-KH,news,news_query,ផ្ញើព័ត៌មាន បច្ចេកវិទ្យា,lists_remove,0.4197,0.0154,False
+2441,km-KH,iot,iot_hue_lightoff,បិទ ភ្លើង បន្ទប់ដាក់អីវ៉ាន់,lists_remove,0.3191,0.062,False
+2472,km-KH,datetime,datetime_query,តើពេលវេលាត្រឹមត្រូវសម្រាប់កន្លែងដែលខ្ញុំស្ថិតនៅមែនទេ,weather_query,0.9888,0.0008,False
+2496,km-KH,news,news_query,ព័ត៌មានប្រចាំថ្ងៃ,news_query,0.9895,0.9895,True
+2497,km-KH,datetime,datetime_query,ថ្ងៃនេះ ជាកាលបរិច្ឆេទអ្វី,weather_query,0.9218,0.0003,False
+2498,km-KH,datetime,datetime_query,siri ថ្ងៃនេះ ជាថ្ងៃអ្វី,weather_query,0.9821,0.0032,False
+2527,km-KH,play,play_music,លេង ចង្វាក់រាំវង់,play_music,0.9995,0.9995,True
+2531,km-KH,play,play_music,លេង rap rock,play_music,0.9999,0.9999,True
+2545,km-KH,weather,weather_query,តើ​អាកាសធាតុ​យ៉ាងម៉េច​ដែរ,qa_factoid,0.2653,0.0266,False
+2548,km-KH,news,news_query,អ្វីមួយភ្នំពេញប៉ុស្តិ៍,social_post,0.6598,0.0038,False
+2560,km-KH,play,play_music,លេង តន្រ្តី ដោយចៃដន្យ,play_music,0.2837,0.2837,True
+2573,km-KH,play,play_music,លេងបទ បញ្ជីចម្រៀង រាំវង់ របស់ខ្ញុំ,play_music,1.0,1.0,True
+2578,km-KH,iot,iot_hue_lightoff,បិទ ភ្លើង រានហាល,lists_remove,0.4209,0.1048,False
+2588,km-KH,news,news_query,កោះសន្តិភាព,iot_hue_lightoff,0.8275,0.005,False
+2594,km-KH,news,news_query,បរិស្ថាន,qa_factoid,0.9857,0.0004,False
+2605,km-KH,play,play_music,លេង តន្ដ្រី ដែលខ្ញុំ ចូលចិត្ត ឥឡូវនេះ,play_music,0.9988,0.9988,True
+2611,km-KH,weather,weather_query,ការព្យាករណ៍អាកាសធាតុ បច្ចុប្បន្ន,qa_factoid,0.0905,0.0479,False
+2615,km-KH,weather,weather_query,អាវក្រៅ ថ្ងៃពុធ,cooking_recipe,0.9649,0.0016,False
+2638,km-KH,news,news_query,បង្ហាញ trump,iot_hue_lightoff,0.8786,0.0019,False
+2639,km-KH,news,news_query,បង្ហាញ ព័ត៌មាន អំពី បរិស្ថាន,social_post,0.4908,0.0714,False
+2651,km-KH,news,news_query,ព័ត៌មានថ្មីៗពីតំបន់,news_query,0.9734,0.9734,True
+2678,km-KH,weather,weather_query,យប់នេះ ភ្លៀង,iot_hue_lightoff,0.9874,0.0022,False
+2679,km-KH,weather,weather_query,សីតុណ្ហភាព,iot_hue_lightoff,0.2231,0.0398,False
+2703,km-KH,play,play_music,សូមចាក់ បទ ម៉ាឌីហ្ស៊ុន,social_post,0.2024,0.076,False
+2704,km-KH,play,play_music,តោះស្តាប់ indie rock ខ្លះ,iot_hue_lightoff,0.5927,0.0784,False
+2708,km-KH,play,play_music,អូលី ខ្ញុំចង់ចាក់ចម្រៀងសម្រាប់រាំចង្វាក់ រ៉ុកអេនរ៉ូល,cooking_recipe,0.9766,0.0016,False
+2709,km-KH,play,play_music,olly ខ្ញុំចង់ស្តាប់ បទចម្រៀងកំសត់ ខ្លះ ថ្ងៃនេះ,weather_query,0.2972,0.1271,False
+2711,km-KH,iot,iot_hue_lightoff,ចុច បិទ ភ្លើង,lists_remove,0.2861,0.1355,False
+2717,km-KH,play,play_music,ខ្ញុំចង់ស្ដាប់បទ បងខុសហើយ,email_sendemail,0.927,0.0009,False
+2724,km-KH,news,news_query,ស៊ីធីអិន,qa_factoid,0.7675,0.0021,False
+2770,km-KH,play,play_music,olly លេង តន្រ្តី ពី ចង្វាក់ ចាស្ស,play_music,0.2452,0.2452,True
+2774,km-KH,iot,iot_hue_lightoff,បិទ ភ្លើង,lists_remove,0.3196,0.1347,False
+2775,km-KH,iot,iot_hue_lightoff,ឈប់ប្រើ ភ្លើង នេះ,iot_hue_lightoff,0.5493,0.5493,True
+2777,km-KH,weather,weather_query,ខ្ញុំ ឆត្រ ថ្ងៃនេះ,weather_query,0.5737,0.5737,True
+2781,km-KH,play,play_music,លេង តន្ត្រីចង្វាក់jazz ខ្លះ,play_music,1.0,1.0,True
+2798,km-KH,play,play_music,alexaលេង បទចម្រៀង ហេតុអ្វីគេកុហកខ្ញុំ,play_music,0.6638,0.6638,True
+2801,km-KH,datetime,datetime_query,ទីក្រុងឡុងដ៍,social_post,0.2182,0.0293,False
+2824,km-KH,datetime,datetime_query,ថ្ងៃទីដប់បីខែធ្នូ,datetime_query,0.7875,0.7875,True
+2840,km-KH,datetime,datetime_query,ថ្ងៃទីពីរនៃខែបន្ទាប់ចំ,calendar_remove,0.4239,0.2954,False
+2859,km-KH,datetime,datetime_query,olly នៅ ទីក្រុងនេះ ម៉ោងប៉ុន្មាន,weather_query,0.9909,0.001,False
+2887,km-KH,news,news_query,អាកាសធាតុ ព័ត៌មានពេលព្រឹក,iot_hue_lightoff,0.355,0.0253,False
+2890,km-KH,weather,weather_query,ឥឡូវនេះ,qa_factoid,0.9928,0.0004,False
+2898,km-KH,news,news_query,ណាមួយ ទាក់ទង ការបោះឆ្នោត,qa_factoid,0.8659,0.0008,False
+2914,km-KH,datetime,datetime_query,ប្រាប់ខ្ញុំកាលបរិច្ឆេទសំរាប់ ថ្ងៃនេះ,email_sendemail,0.428,0.0263,False
+2917,km-KH,weather,weather_query,ប្រចាំសប្ដាហ៍,datetime_query,0.6379,0.0121,False
+2921,km-KH,news,news_query,តើ​មានព័ត៌មាន​អ្វី​ខ្លះ​នៅ​លើ គេហទំព័រ ប៉ុស្តិ៍បាយ័ន,email_query,0.5231,0.0169,False
+2927,km-KH,datetime,datetime_query,តើម៉ោងប៉ុន្មាននៅ ព្រះនេត្រព្រះ,weather_query,0.94,0.0022,False
+2931,km-KH,play,play_music,ចាក់បទចម្រៀង បងខុសហើយ បន្ទាប់ ពីនេះ,play_music,0.9555,0.9555,True
+2962,km-KH,play,play_music,ចម្រៀង ដោយ នីកូ,cooking_recipe,0.8079,0.1222,False
+2965,km-KH,iot,iot_hue_lightoff,បិទ ភ្លើង ការិយាល័យ,lists_remove,0.4735,0.1117,False
+3002,km-KH,play,play_music,បើកចម្រៀងដោយក្រុម ចចកសមុទ្រ,play_music,0.5442,0.5442,True
+3031,km-KH,play,play_music,ខ្ញុំចង់លេង ចម្រៀង ម្ដងទៀត,play_music,1.0,1.0,True
+3034,km-KH,weather,weather_query,សីតុណ្ហភាព,iot_hue_lightoff,0.2231,0.0398,False
+3037,km-KH,news,news_query,អត្ថបទ,qa_factoid,0.5288,0.0115,False
+3039,km-KH,news,news_query,តើមានអ្វីថ្មីនៅក្នុងព័ត៌មាន,news_query,0.3519,0.3519,True
+3060,km-KH,news,news_query,កោះសន្តិភាព,iot_hue_lightoff,0.8275,0.005,False
+3091,km-KH,datetime,datetime_query,ប៉ាស៊ីហ្វិក,qa_factoid,0.9972,0.0,False
+3096,km-KH,weather,weather_query,ញូវចឺស៊ី,qa_factoid,0.9443,0.0012,False
+3098,km-KH,iot,iot_hue_lightoff,បិទ ភ្លើង,lists_remove,0.3196,0.1347,False
+3099,km-KH,news,news_query,បង្ហាញខ្ញុំនូវព្រឹត្តិការណ៍បច្ចុប្បន្នមួយចំនួន,iot_hue_lightoff,0.2381,0.0383,False
+3101,km-KH,news,news_query,ផល្លី បើកព័ត៌មាន,email_sendemail,0.1574,0.1113,False
+3116,km-KH,play,play_music,លេង ចម្រៀង សំណព្វ របស់ខ្ញុំ ឆ្នាំមុន,play_music,0.978,0.978,True
+3117,km-KH,play,play_music,ចាក់ បទចម្រៀង ខ្លះពី អាល់ប៊ុម ឆនសុវណ្ណរាជ ពេលណាអូនស្មោះ ទីក្រុង​គ្មាន​មេឃ,play_music,0.3783,0.3783,True
+3118,km-KH,datetime,datetime_query,ភាគខាងកើត,qa_factoid,0.9215,0.0006,False
+3124,km-KH,play,play_music,លេង បញ្ជីចាក់តន្ត្រី ចម្រៀង ចំរុះ របស់ខ្ញុំ,play_music,0.9997,0.9997,True
+3146,km-KH,play,play_music,លេង បទទីមួយ ពី បញ្ជីចម្រៀង ចចកសមុទ្រ របស់ខ្ញុំ,play_music,1.0,1.0,True
+3167,km-KH,iot,iot_hue_lightoff,បើក បិទ ភ្លើង បន្ទប់គេង របស់ខ្ញុំ,iot_hue_lightoff,0.5106,0.5106,True
+3174,km-KH,play,play_music,បើក បញ្ជីចាក់តន្ត្រី,qa_factoid,0.7993,0.0036,False
+3205,km-KH,play,play_music,ចាក់់បទ អូនខុសហើយ ដោយ យូរី,email_sendemail,0.8443,0.0011,False
+3207,km-KH,play,play_music,អូនខុសហើយ យូរី,email_sendemail,0.8863,0.0003,False
+3212,km-KH,calendar,calendar_set,រំលឹក ខ្ញុំ ដើម្បី ធ្វើអ្វីមួយបន្ទាប់ពីនេះ,cooking_recipe,0.7963,0.0029,False
+3214,km-KH,news,news_query,ការស៊ើបអង្កេតលើទំនាក់ទំនងរបស់លោក ត្រាំ ប្រទេស​រុស្ស៊ី,social_post,0.7678,0.011,False
+3228,km-KH,datetime,datetime_query,តើ បុណ្យណូអែល ឆ្នាំ​នេះ ត្រូវជាថ្ងៃអ្វី,qa_factoid,0.1645,0.066,False
+3253,km-KH,weather,weather_query,ពេលរសៀល,qa_factoid,0.5739,0.0195,False
+3264,km-KH,play,play_music,លេង តន្ត្រី រឺហ្គែ,play_music,0.9977,0.9977,True
+3305,km-KH,weather,weather_query,សប្ដាហ៍នេះ ម៉ៃអាមី,qa_factoid,0.6008,0.0493,False
+3306,km-KH,weather,weather_query,សប្ដាហ៍,email_sendemail,0.5984,0.0073,False
+3329,km-KH,news,news_query,មើល,qa_factoid,0.3013,0.0522,False
+3337,km-KH,weather,weather_query,សាមសិបបីពាន់ប្រាំពីររយនិង ចិតសិប,email_sendemail,0.3271,0.02,False
+3338,km-KH,weather,weather_query,រាយការណ៍អាកាសធាតុសម្រាប់ បាវិត,qa_factoid,0.1338,0.0405,False
+3361,km-KH,datetime,datetime_query,ថ្ងៃអង្គារ,calendar_remove,0.3849,0.0961,False
+3378,km-KH,iot,iot_hue_lightoff,អត់មានភ្លើងនៅក្នុង ផ្ទះបាយ,calendar_remove,0.5821,0.0583,False
+3386,km-KH,iot,iot_hue_lightoff,បន្ថយ ភ្លើង ទៅ ធម្មតា,calendar_remove,0.7548,0.1294,False
+3400,km-KH,play,play_music,លេង version បន្តផ្ទាល់ របស់ ចចកសមុទ្រ,play_music,0.9987,0.9987,True
+3401,km-KH,play,play_music,ចាក់ ចម្រៀង ពេញនិយមបំផុត របស់ នីកូ,cooking_recipe,0.9627,0.0052,False
+3406,km-KH,weather,weather_query,ដប់ថ្ងៃ,qa_factoid,0.7931,0.0074,False
+3407,km-KH,weather,weather_query,ភ្លៀងឬព្រឹល សប្ដាហ៍នេះ,play_music,0.9978,0.0001,False
+3408,km-KH,weather,weather_query,ល្អ ចុងសប្ដាហ៍នេះ,qa_factoid,0.3767,0.0282,False
+3426,km-KH,weather,weather_query,តើ​ប៉ុន្មាន ដឺក្រេ នៅ​ខាង​ក្រៅ,qa_factoid,0.2326,0.0276,False
+3433,km-KH,play,play_music,ចម្រៀង ប៉ុប ថ្មី,cooking_recipe,0.3301,0.0767,False
+3434,km-KH,play,play_music,ចម្រៀង រ៉េប ល្អបំផុត,qa_factoid,0.5301,0.0169,False
+3441,km-KH,datetime,datetime_query,តើ ថ្ងៃទីម្ភៃពីរ ជាថ្ងៃពុធ,calendar_remove,0.4525,0.0263,False
+3444,km-KH,datetime,datetime_query,ដប់ មែនទេ,qa_factoid,0.995,0.0001,False
+3447,km-KH,weather,weather_query,ភ្លៀង ថ្ងៃសៅរ៍,iot_hue_lightoff,0.7769,0.0518,False
+3481,km-KH,play,play_music,បើក ចម្រៀង ពេញនិយមបំផុត របស់ នីកូ,cooking_recipe,0.9126,0.0388,False
+3489,km-KH,play,play_music,សូមលេង តន្រ្តី ឥឡូវនេះ,play_music,0.7366,0.7366,True
+3492,km-KH,play,play_music,បើកបញ្ជី ចម្រៀង ជាទីពេញចិត្ត របស់ខ្ញុំ,iot_hue_lightoff,0.212,0.0382,False
+3503,km-KH,weather,weather_query,ភីតស៍ប៊ឺក,qa_factoid,0.9533,0.0001,False
+3507,km-KH,weather,weather_query,តើមាន ព្រិល ទេក្នុងការព្យាករណ៍,social_post,0.303,0.0348,False
+3513,km-KH,play,play_music,ចាក់ តែ បញ្ជី ចម្រៀង របស់ខ្ញុំ,email_sendemail,0.9957,0.0002,False
+3516,km-KH,weather,weather_query,ការធ្លាក់ភ្លៀងបច្ចុប្បន្ននេះ,iot_hue_lightoff,0.9405,0.0024,False
+3539,km-KH,play,play_music,សូមចាក់បទ ឆ្ងាយ ដោយ ម៉ម ពេជរិទ្ធ,iot_hue_lightoff,0.9254,0.002,False
+3546,km-KH,play,play_music,ខ្ញុំ ចង់ ស្ដាប់ តន្រ្តី ចាស្ស,email_sendemail,0.3861,0.0123,False
+3550,km-KH,play,play_music,បើកចម្រៀង ខ្លះៗ របស់ ហ្សូណូ,cooking_recipe,0.8897,0.0154,False
+3554,km-KH,play,play_music,តើ​អ្នក​អាច​ដាក់​ក្នុង​ បញ្ជីបទចម្រៀងស្នេហា បានទេ,qa_factoid,0.5275,0.0218,False
+3562,km-KH,play,play_music,លេង មួយពាន់រាត្រី,play_music,0.9999,0.9999,True
+3566,km-KH,datetime,datetime_query,តើឥឡូវ​ម៉ោង​ប៉ុន្មាន​នៅ​ ចេនណៃ,weather_query,0.8614,0.0331,False
+3570,km-KH,iot,iot_hue_lightoff,សូម បិទ ភ្លើង នៅ ទីធ្លា,lists_remove,0.4402,0.1393,False
+3576,km-KH,news,news_query,ប៉ុស្តិ៍បាយ័ន,qa_factoid,0.9893,0.0002,False
+3586,km-KH,weather,weather_query,ភ្នំពេញ,weather_query,0.2246,0.2246,True
+3600,km-KH,calendar,calendar_set,រំលឹកខ្ញុំ ដប់នាទីក្រោយ,weather_query,0.3214,0.0141,False
+3603,km-KH,news,news_query,សារព័ត៌មានស៊ីនហួ,social_post,0.9793,0.0116,False
+3605,km-KH,news,news_query,តើ​អ្វី​ជា​ព័ត៌មាន​ចុង​ក្រោយ​បំផុត​លើ ប៉ុស្តិ៍បាយ័ន,social_post,0.1846,0.0962,False
+3606,km-KH,datetime,datetime_query,ទីក្រុងប៉េកាំង,qa_factoid,0.4406,0.0183,False
+3614,km-KH,weather,weather_query,បើកថ្ងៃ ថ្ងៃនេះ,calendar_remove,0.7462,0.0101,False
+3623,km-KH,news,news_query,ពិភពលោក ថ្ងៃនេះ,weather_query,0.631,0.0098,False
+3624,km-KH,news,news_query,p. n. n.,qa_factoid,0.9576,0.0011,False
+3631,km-KH,play,play_music,ហេ ហ្គូហ្គល លេង បទចម្រៀង jazz ខ្លះ សម្រាប់ខ្ញុំ,play_music,0.9998,0.9998,True
+3686,km-KH,play,play_music,បើក បញ្ជីបទចម្រៀង ដែល ខ្ញុំ មាន ថ្វាយ ទៅ​ តន្ត្រី រ៉ក,play_music,0.2636,0.2636,True
+3714,km-KH,play,play_music,ចាប់ផ្ដើម បើក បញ្ជីចម្រៀង របស់ខ្ញុំ ចេញពី ខាងក្រោម,play_radio,0.2552,0.0253,False
+3717,km-KH,play,play_music,សូមបើកចម្រៀង ចង្វាក់ឡាំលាវ ពេញនិយម របស់ខ្ញុំ,cooking_recipe,0.6106,0.0861,False
+3723,km-KH,play,play_music,ខ្ញុំចង់លឺសំលេងរបស់ នីកូ ហៅខ្ញុំបន្ទាប់ពី បទចម្រៀង នេះ,play_music,0.4374,0.4374,True
+3725,km-KH,datetime,datetime_query,ថ្ងៃនេះ គឺជាថ្ងៃណា,weather_query,0.8737,0.0321,False
+3727,km-KH,play,play_music,ចាក់បទ បងខុសហើយ ច្រៀងដោយ នីកូ,play_music,0.4709,0.4709,True
+3750,km-KH,news,news_query,olly បើ​មាន​ព័ត៌មាន​ថ្មី​ចេញ​ពី​ គ្រោះទឹកជំនន់ អាច​ប្រាប់​ខ្ញុំ​ភ្លាមបានទេ,qa_factoid,0.2611,0.0609,False
+3779,km-KH,play,play_music,ចាក់ បញ្ជីបទចម្រៀង ក្នុង យូធូប បេះដូងទទេ,lists_remove,0.4982,0.0203,False
+3780,km-KH,play,play_music,បើក បញ្ជីចម្រៀង មនោសញ្ចេតនា របស់ខ្ញុំ,iot_hue_lightoff,0.6767,0.0179,False
+3784,km-KH,weather,weather_query,ឡាសវេហ្គាស,social_post,0.9555,0.0005,False
+3785,km-KH,iot,iot_hue_lightoff,សូម បិទ ភ្លើង បន្ទប់ទឹក,lists_remove,0.321,0.0532,False
+3822,km-KH,news,news_query,ស្វែងរកព័ត៌មានអំពី ឡាន,social_post,0.9468,0.0437,False
+3852,km-KH,weather,weather_query,orange tx,qa_factoid,0.4887,0.007,False
+3859,km-KH,play,play_music,សូមបើក បញ្ជីចម្រៀង រ៉េប សំណព្វ របស់ខ្ញុំ,email_sendemail,0.3039,0.0068,False
+3907,km-KH,play,play_music,ចាក់ចម្រៀងឱ្យខ្ញុំនូវ បទចម្រៀងល្បីៗ ឆ្នាំមុន,cooking_recipe,0.8081,0.0625,False
+3911,km-KH,play,play_music,ខ្ញុំចង់ស្ដាប់ ចម្រៀង ណាមួយ ដែលទទួលបានពានរង្វាន់grammyឆ្នាំនេះ,cooking_recipe,0.2671,0.0288,False
+3912,km-KH,play,play_music,ខ្ញុំចង់ស្ដាប់ចម្រៀង ម៉ាឌីហ្សូន,iot_hue_lightoff,0.304,0.0346,False
+3936,km-KH,weather,weather_query,សីតុណ្ហភាព,iot_hue_lightoff,0.2231,0.0398,False
+3960,km-KH,datetime,datetime_query,ម៉ោងប៉ុន្មានហើយ,weather_query,0.766,0.0047,False
+3967,km-KH,play,play_music,រ៉េប,qa_factoid,0.9938,0.0002,False
+3980,km-KH,play,play_music,សូម​លេង​ បងខុសហើយ ដោយ​ នីកូ,play_music,0.9997,0.9997,True
+3982,km-KH,play,play_music,សូមជ្រើសរើសបទចម្រៀងដំបូងនៅក្នុង បណ្ណាល័យ itunes របស់ខ្ញុំ,play_podcasts,0.9477,0.0498,False
+3993,km-KH,iot,iot_hue_lightoff,អ្នកអាច ធ្វើ ឱ្យ ភ្លើង រលត់បានទេ,cooking_recipe,0.8859,0.0004,False
+3995,km-KH,datetime,datetime_query,ថ្ងៃនៃសប្តាហ៍ ហាឡូវីន,weather_query,0.4565,0.1724,False
+4001,km-KH,news,news_query,មណ្ឌលច​ត្តា​ឡី​ស័ក,email_query,0.3711,0.0236,False
+4023,km-KH,news,news_query,តើមានអ្វីនៅក្នុងព័ត៌មាន,lists_query,0.243,0.2054,False
+4031,km-KH,play,play_music,ចាក់បទ ពេលណាអូនស្មោះ,qa_factoid,0.8341,0.001,False
+4040,km-KH,play,play_music,បើក ចម្រៀង ដែលខ្ញុំស្ដាប់ ច្រើនជាងគេ,play_music,0.4954,0.4954,True
+4058,km-KH,play,play_music,ខ្ញុំចង់ស្តាប់ តន្ត្រី រ៉េប ខ្លះ,calendar_remove,0.2889,0.0085,False
+4073,km-KH,datetime,datetime_query,តើថ្ងៃ ទីប្រាំ ត្រូវជាថ្ងៃអ្វី,calendar_query,0.6939,0.0256,False
+4077,km-KH,iot,iot_hue_lightoff,បិទ ភ្លើង ផ្ទះបាយ,lists_remove,0.5813,0.0519,False
+4088,km-KH,iot,iot_hue_lightoff,បិទ ភ្លើង ពិដាន,lists_remove,0.5866,0.0363,False
+4104,km-KH,weather,weather_query,ថ្ងៃនេះ បាវិត,weather_query,0.9449,0.9449,True
+4116,km-KH,play,play_music,សូមលេង បញ្ជីចាក់គ្មានលំដាប់ របស់ខ្ញុំ,play_music,0.9888,0.9888,True
+4119,km-KH,news,news_query,ខេត្តក្រចេះ,lists_query,0.1082,0.0575,False
+4132,km-KH,weather,weather_query,ប្រាប់ខ្ញុំពីភាគរយនៃឱកាស ភ្លៀង នៅក្នុងទីក្រុង បាវិត ស្វាយរៀង សម្រាប់ ថ្ងៃនេះ,iot_hue_lightoff,0.9159,0.0076,False
+4136,km-KH,play,play_music,ក្រុមតូច,qa_factoid,0.1608,0.0335,False
+4152,km-KH,play,play_music,សូមលេង ចម្រៀង បងខុសហើយ,play_music,0.9958,0.9958,True
+4168,km-KH,weather,weather_query,កានសាស,qa_factoid,0.9408,0.0013,False
+4171,km-KH,iot,iot_hue_lightoff,បិទ ភ្លើង នៅ ផ្ទះបាយ,lists_remove,0.2708,0.0555,False
+4177,km-KH,news,news_query,នយោបាយ ពិភពលោក,qa_factoid,0.8545,0.0022,False
+4178,km-KH,news,news_query,ខ្លះ តំណែងប្រធានាធិបតី,qa_factoid,0.9831,0.0008,False
+4183,km-KH,datetime,datetime_query,ពេលវេលា បច្ចុប្បន្ន ញូវយ៉ក,weather_query,0.6095,0.3216,False
+4186,km-KH,datetime,datetime_query,ហេ olly ម៉ោងប៉ុន្មានហើយ,qa_factoid,0.7213,0.0008,False
+4187,km-KH,datetime,datetime_query,អេ​ សុីរី តើម៉ោងប៉ុន្មានហើយ,qa_factoid,0.7936,0.004,False
+4205,km-KH,play,play_music,បងខុសហើយ នីកូ,email_query,0.4223,0.0099,False
+4212,km-KH,weather,weather_query,កាត់ស្មៅ ល្ងាចនេះ,weather_query,0.5492,0.5492,True
+4227,km-KH,weather,weather_query,ភ្លៀង សប្ដាហ៍ក្រោយ,play_music,0.9653,0.0007,False
+4232,km-KH,play,play_music,លេង បងខុសហើយ ដោយ ចចកសមុទ្រ,play_music,1.0,1.0,True
+4236,km-KH,datetime,datetime_query,តើ រសៀល នៅ,weather_query,0.2274,0.0763,False
+4253,km-KH,datetime,datetime_query,ភាគខាងកើត,qa_factoid,0.9215,0.0006,False
+4254,km-KH,datetime,datetime_query,ឆ្នេរ​ខាងកើត សហរដ្ឋអាមេរិក,social_post,0.9832,0.0004,False
+4258,km-KH,news,news_query,តើ​អ្វី​ជា​ព័ត៌មាន​ចុង​ក្រោយ​បង្អស់,lists_remove,0.2483,0.1687,False
+4266,km-KH,weather,weather_query,នៅថ្ងៃនេះ,weather_query,0.9451,0.9451,True
+4273,km-KH,play,play_music,ចាក់បទ បងខុសហើយ,calendar_remove,0.4145,0.0248,False
+4290,km-KH,weather,weather_query,តើខ្ញុំគួរយក អាវក្រៅ ទៅជាមួយខ្ញុំទេ យប់នេះ,cooking_recipe,0.543,0.0178,False
+4305,km-KH,play,play_music,លេង បទចម្រៀង បងខុសហើយ នីកូ,play_music,1.0,1.0,True
+4309,km-KH,datetime,datetime_query,ក​ណ្តា​ល​អធ្រាត្រ ទីក្រុងឡុងដ៍ ប្រទេសអង់គ្លេស,social_post,0.457,0.0235,False
+4312,km-KH,weather,weather_query,ប៉ារីសតិចជាងដប់ដឺក្រេ,qa_factoid,0.9992,0.0,False
+4313,km-KH,weather,weather_query,ភ្លៀង ថ្ងៃស្អែក ព្រះវិហារ,iot_hue_lightoff,0.6861,0.002,False
+4336,km-KH,datetime,datetime_query,តើម៉ោងប៉ុន្មាននៅ ចិន,weather_query,0.665,0.0041,False
+4346,km-KH,iot,iot_hue_lightoff,បិទ ភ្លើង,lists_remove,0.3196,0.1347,False
+4347,km-KH,iot,iot_hue_lightoff,ឈប់ ដំណើរការ ភ្លើង,calendar_remove,0.6827,0.0462,False
+4355,km-KH,weather,weather_query,តើអាកាសធាតុនៅកន្លែងខ្ញុំនេះយ៉ាងម៉េចដែរ,qa_factoid,0.328,0.047,False
+4361,km-KH,play,play_music,អោយ សំឡេង ពីរោះ ខ្លះ,iot_hue_lightoff,0.9622,0.0072,False
+4362,km-KH,datetime,datetime_query,ឃ្លីវលែន,email_query,0.3771,0.016,False
+4376,km-KH,weather,weather_query,ថ្ងៃនេះ,weather_query,0.841,0.841,True
+4377,km-KH,weather,weather_query,ឥឡូវនេះ,qa_factoid,0.9928,0.0004,False
+4383,km-KH,weather,weather_query,ថ្ងៃស្អែក,calendar_remove,0.7039,0.0111,False
+4391,km-KH,news,news_query,តើចំណងជើងអ្វីនៅលើ កោះសន្តិភាព,lists_query,0.2196,0.0338,False
+4400,km-KH,news,news_query,តើអ្វី​ទៅ​ជា អត្ថបទ ​ដែល​កំពុង​ ពេញនិយម ​នៅ​ក្នុង​ កោះសន្តិភាព,lists_query,0.2219,0.0363,False
+4402,km-KH,weather,weather_query,ថ្ងៃនេះ,weather_query,0.841,0.841,True
+4412,km-KH,weather,weather_query,ផតលែន,qa_factoid,0.3509,0.0132,False
+4436,km-KH,weather,weather_query,អាវក្រៅ,cooking_recipe,0.9995,0.0,False
+4439,km-KH,weather,weather_query,ភ្នំពេញ,weather_query,0.2246,0.2246,True
+4449,km-KH,weather,weather_query,នឹងភ្លៀង ម៉ោងមួយរសៀល ថ្ងៃនេះ,weather_query,0.7411,0.7411,True
+4452,km-KH,play,play_music,ចាក់ ចម្រៀង,play_music,0.6236,0.6236,True
+4463,km-KH,datetime,datetime_query,តើមាន ថ្ងៃសៅរ៍ក្នុងខែមីនា ប៉ុន្មាន,weather_query,0.9924,0.0009,False
+4477,km-KH,play,play_music,លេង ចម្រៀង បន្ទាប់,play_music,0.9999,0.9999,True
+4482,km-KH,weather,weather_query,ផ្លូវបើកបរ របស់ខ្ញុំ ព្រឹក នេះ,lists_remove,0.1508,0.0669,False
+4486,km-KH,weather,weather_query,សប្ដាហ៍នេះ,qa_factoid,0.9969,0.0002,False
+4487,km-KH,weather,weather_query,កំពុងភ្លៀង ថ្ងៃព្រហស្បតិ៍,iot_hue_lightoff,0.972,0.0132,False
+4491,km-KH,news,news_query,លោក សុខ ទូច,email_sendemail,0.9996,0.0,False
+4492,km-KH,news,news_query,ស្ថិតិឧក្រិដ្ឋកម្ម,qa_factoid,0.825,0.005,False
+4496,km-KH,news,news_query,កោះសន្តិភាព ថ្ងៃនេះ,weather_query,0.9574,0.0011,False
+4502,km-KH,datetime,datetime_query,ហេ ពេលនេះម៉ោងប៉ុន្មាននៅ ទីក្រុងឡុងដ៍,weather_query,0.9958,0.0002,False
+4524,km-KH,weather,weather_query,អូលី អ្វីដែលជាការព្យាករណ៍អាកាសធាតុសម្រាប់ ថ្ងៃនេះ,social_post,0.1444,0.1398,False
+4547,km-KH,play,play_music,ចាប់ផ្តើមចាក់ បញ្ចីចាក់ចម្រៀង រ៉ុក,cooking_recipe,0.822,0.0091,False
+4567,km-KH,news,news_query,កោះសន្តិភាព,iot_hue_lightoff,0.8275,0.005,False
+4580,km-KH,datetime,datetime_query,តើម៉ោងប៉ុន្មាននៅ ឈីកាហ្គោ,weather_query,0.8723,0.0041,False
+4587,km-KH,play,play_music,លេង កម្រងចម្រៀងសំណព្វចិត្ត របស់ខ្ញុំ,play_music,0.9999,0.9999,True
+4589,km-KH,calendar,calendar_set,កំណត់ ការជូនដំណឹង សម្រាប់ កីឡា,recommendation_events,0.3206,0.0152,False
+4606,km-KH,news,news_query,ថ្ងៃនេះ,weather_query,0.841,0.001,False
+4614,km-KH,weather,weather_query,សីតុណ្ហភាព ខ្ពស់ជាងសែសិប ថ្ងៃស្អែក,iot_hue_lightoff,0.5134,0.0474,False
+4662,km-KH,news,news_query,ទ. ទ. ក.,qa_factoid,0.9974,0.0,False
+4667,km-KH,datetime,datetime_query,ពេលបច្ចុប្បន្ននៅក្នុង,qa_factoid,0.3633,0.1157,False
+4680,km-KH,weather,weather_query,ស្បែកជើងកវែង ឬស្បែកជើងជាមួយស្រោមជើង,cooking_recipe,0.1297,0.0573,False
+4689,km-KH,weather,weather_query,តើអ្នកដឹងពីអាកាសធាតុទេ,qa_factoid,0.9086,0.0007,False
+4692,km-KH,play,play_music,ចាក់ ចម្រៀង ឱ្យខ្ញុំច្រៀងដោយ​ នីកូ,play_music,0.9311,0.9311,True
+4710,km-KH,datetime,datetime_query,តើថ្ងៃណាជាថ្ងៃបុណ្យ អុំទូក ឆ្នាំនេះ,weather_query,0.578,0.0135,False
+4764,km-KH,weather,weather_query,ភ្លៀង ថ្ងៃច័ន្ទ,play_music,0.9257,0.0015,False
+4767,km-KH,news,news_query,កូវីដដប់ប្រាំបួន,qa_factoid,0.9714,0.0012,False
+4772,km-KH,datetime,datetime_query,ប្រាប់ខ្ញុំពីម៉ោងនៅក្នុង តំបន់ពេលវេលានេះ,weather_query,0.9742,0.0057,False
+4780,km-KH,datetime,datetime_query,តើ ថ្ងៃកំណើត របស់ខ្ញុំត្រូវជាថ្ងៃអ្វីនៅឆ្នាំនេះ ថ្ងៃទីម្ភៃប្រាំពីរខែមិថុនា,datetime_query,0.3612,0.3612,True
+4784,km-KH,weather,weather_query,អាវក្រៅ,cooking_recipe,0.9995,0.0,False
+4813,km-KH,datetime,datetime_query,ទីក្រុងមួយទៀត,calendar_remove,0.4027,0.0107,False
+4837,km-KH,news,news_query,ខ្លះ,qa_factoid,0.9662,0.0005,False
+4838,km-KH,play,play_music,លេង បទចម្រៀង ទាំងអស់ ដោយ សុគន្ធ នីសា,play_music,0.9984,0.9984,True
+4871,km-KH,weather,weather_query,វា,qa_factoid,0.9718,0.0003,False
+4881,km-KH,datetime,datetime_query,ស្វែងរក ម៉ោង ក្នុងស្រុកបច្ចុប្បន្ន និងល្វែងម៉ោង,cooking_recipe,0.221,0.0443,False
+4882,km-KH,datetime,datetime_query,តើម៉ោងប៉ុន្មាននៅក្នុង ទីក្រុង​មួយ,weather_query,0.7729,0.0044,False
+4890,km-KH,calendar,calendar_set,កំណត់ការជួនដំណឹងពី គ្រោះមហន្តរាយអាកាសធាតុ បច្ចុប្បន្ន ក្នុង ប្រទេសកម្ពុជា,news_query,0.0989,0.0478,False
+4909,km-KH,play,play_music,លេង បទចម្រៀង សុគន្ធ នីសា,play_music,1.0,1.0,True
+4917,km-KH,weather,weather_query,សីតុណ្ហភាព,iot_hue_lightoff,0.2231,0.0398,False
+4928,km-KH,play,play_music,លេង បទភ្លេងរបស់ខ្ញុំ,play_music,0.9997,0.9997,True
+4933,km-KH,weather,weather_query,ភ្លៀង ឥឡូវនេះ,play_music,0.89,0.0018,False
+4951,km-KH,datetime,datetime_query,ខ្ញុំចង់ដឹងថាពេលនេះម៉ោងប៉ុន្មានហើយ,weather_query,0.9976,0.0001,False
+4953,km-KH,news,news_query,រថភ្លើងខូច,iot_hue_lightoff,0.692,0.0046,False
+4957,km-KH,datetime,datetime_query,ថ្ងៃទីម្ភៃបីនៃខែនេះ,calendar_remove,0.9195,0.0395,False
+4960,km-KH,play,play_music,ចម្រៀង ណុប បាយ៉ារិទ្ធ,cooking_recipe,0.28,0.1349,False
+4968,km-KH,qa,qa_factoid,តើអ្នកណាឈ្នះ ការបោះឆ្នោតប្រធានាធិបតី នៅ ឆ្នាំ​នេះ,qa_factoid,0.7312,0.7312,True
+4973,km-KH,play,play_music,olly ចាក់បទ មួយពាន់រាត្រី,social_post,0.232,0.0164,False
+4998,km-KH,play,play_music,ដាក់ បទចម្រៀង នេះ ជា បទចម្រៀង បន្ទាប់,play_podcasts,0.7424,0.1314,False
+5009,km-KH,weather,weather_query,ឆត្រ សប្ដាហ៍នេះ,weather_query,0.4204,0.4204,True
+5016,km-KH,news,news_query,ការឡើងចុះនៃទីផ្សារភាគហ៊ុន,lists_remove,0.1638,0.0394,False
+5027,km-KH,datetime,datetime_query,ថ្ងៃសុក្រទីដប់បី,calendar_remove,0.2653,0.0872,False
+5037,km-KH,weather,weather_query,ត្រជាក់ ថ្ងៃនេះ,weather_query,0.9736,0.9736,True
+5038,km-KH,weather,weather_query,សប្ដាហ៍នេះ,qa_factoid,0.9969,0.0002,False
+5040,km-KH,weather,weather_query,ឥឡូវនេះ,qa_factoid,0.9928,0.0004,False
+5062,km-KH,play,play_music,សូមលេង បទចម្រៀង របស់ខ្ញុំ ពី ទសវត្សរ៍ទីប៉ែតសិប,play_music,0.9973,0.9973,True
+5074,km-KH,weather,weather_query,សប្ដាហ៍,email_sendemail,0.5985,0.0073,False
+5085,km-KH,weather,weather_query,ថ្ងៃសៅរ៍,weather_query,0.4556,0.4556,True
+5118,km-KH,play,play_music,មួយពាន់រាត្រី,iot_hue_lightoff,0.445,0.0108,False
+5127,km-KH,news,news_query,នេះជាការពិតអំពីការផ្តល់ជូនអាហារមិនគិតថ្លៃដល់ជនចាស់ជរា,qa_factoid,0.7962,0.0095,False
+5131,km-KH,datetime,datetime_query,ហុងកុង,social_post,0.479,0.0163,False
+5134,km-KH,play,play_music,ស្វែងរកបទចម្រៀងពី បញ្ជីចាក់ក្រុមតន្ត្រីធំ របស់ខ្ញុំ,play_podcasts,0.8619,0.0186,False
+5156,km-KH,iot,iot_hue_lightoff,បិទ ភ្លើង នៅក្នុង បន្ទប់ទទួលភ្ញៀវ,lists_remove,0.5382,0.0573,False
+5157,km-KH,iot,iot_hue_lightoff,olly បិទ ភ្លើង នៅ បន្ទប់ទទួលភ្ញៀវ,cooking_recipe,0.3367,0.1219,False
+5158,km-KH,play,play_music,សូមចាក់ ចម្រៀង ចុងក្រោយបំផុត ចេញពី អាល់ប៊ុម បេះដូងខ្ញុំ,play_music,0.7929,0.7929,True
+5159,km-KH,play,play_music,សូមអ្នកលេងបទចំរៀងរបស់សិល្បករ នីកូ,play_music,0.9985,0.9985,True
+5160,km-KH,play,play_music,តើអ្នកអាចលេងបទ ចម្រៀង របស់ នីកូ បានទេ,play_music,0.9783,0.9783,True
+5176,km-KH,weather,weather_query,សប្ដាហ៍នេះ,qa_factoid,0.9969,0.0002,False
+5196,km-KH,news,news_query,កូវីដដប់ប្រាំបួន,qa_factoid,0.9714,0.0012,False
+5225,km-KH,datetime,datetime_query,ថ្ងៃពុធ,calendar_remove,0.3285,0.0865,False
+5243,km-KH,iot,iot_hue_lightoff,siri សូម បិទ ភ្លើង បន្ទប់ទឹក,calendar_remove,0.8947,0.0088,False
+5245,km-KH,news,news_query,កំណត់ ការជូនដំណឹង អំពី ព័ត៌មាន បរិស្ថាន,lists_remove,0.2878,0.0638,False
+5270,km-KH,news,news_query,អ្វី​ដែល​ជា​ព័ត៌មាន​ទាន់​ហេតុការណ៍,qa_definition,0.2684,0.082,False
+5278,km-KH,play,play_music,សូម​លេង តែ តន្រ្តី ប៉ុបមិច,play_music,0.9836,0.9836,True
+5279,km-KH,play,play_music,សូមចាក់ចម្រៀង កំសត់ ក្នុង កម្មវិធីចាក់តន្ត្រី,cooking_recipe,0.8404,0.0494,False
+5286,km-KH,news,news_query,បង្ហាញ កោះសន្តិភាព ពត៌មាន ការធ្វើចំណាកស្រុក,iot_hue_lightoff,0.9929,0.0004,False
+5296,km-KH,news,news_query,ពេញនិយម កោះសន្តិភាព,lists_remove,0.141,0.0352,False
+5297,km-KH,news,news_query,ពេញនិយម ប៊ីប៊ីស៊ី,iot_hue_lightoff,0.3531,0.0057,False
+5301,km-KH,weather,weather_query,ថ្ងៃទីម្ភៃ ខែមីនា ឆ្នាំពីរពាន់ដប់ប្រាំពីរ,datetime_query,0.771,0.1384,False
+5307,km-KH,datetime,datetime_query,តើ ថ្ងៃទីម្ភៃខែមីនាថ្ងៃនេះ,calendar_remove,0.9405,0.0073,False
+5318,km-KH,play,play_music,សូមលេងតែសម្រៀងរបស់ ចចកសមុទ្រ,play_music,0.922,0.922,True
+5321,km-KH,weather,weather_query,បង្ហាញ,iot_hue_lightoff,0.9804,0.0002,False
+5328,km-KH,play,play_music,រ៉ក់,qa_factoid,0.9973,0.0001,False
+5339,km-KH,weather,weather_query,ស្ថាន ភាព ត្រជាក់ ទាប,iot_hue_lightoff,0.5154,0.2868,False
+5341,km-KH,datetime,datetime_query,សូម ជូនដំណឹង ខ្ញុំអំពីពេលវេលា,email_sendemail,0.9959,0.0002,False
+5347,km-KH,play,play_music,ចាក់ ចម្រៀង តិចណូ,cooking_recipe,0.2847,0.241,False
+5358,km-KH,datetime,datetime_query,ធ្វើបច្ចុប្បន្នភាពម៉ោង,cooking_recipe,0.9985,0.0001,False
+5370,km-KH,news,news_query,តើ កូវីដដប់ប្រាំបួន ចុងក្រោយជាអ្វី,qa_factoid,0.2751,0.0184,False
+5378,km-KH,play,play_music,s.,play_radio,0.1383,0.0381,False
+5401,km-KH,play,play_music,តន្រ្តី,qa_factoid,0.9154,0.0027,False
+5410,km-KH,news,news_query,អានចំណងជើងព័ត៌មានថ្មីៗបំផុតរបស់ កោះសន្តិភាព ឱ្យខ្ញុំ,news_query,0.4863,0.4863,True
+5411,km-KH,news,news_query,កំពូល កោះសន្តិភាព,iot_hue_lightoff,0.5246,0.019,False
+5413,km-KH,play,play_music,លេង បទចម្រៀង,play_music,0.9999,0.9999,True
+5414,km-KH,play,play_music,តន្ត្រី,qa_factoid,0.7883,0.0041,False
+5427,km-KH,datetime,datetime_query,តើម៉ោងប៉ុន្មាននៅ ប្រទេសកាណាដា ឥឡូវនេះ,weather_query,0.5298,0.0136,False
+5433,km-KH,weather,weather_query,ភ្លៀង,play_music,0.997,0.0001,False
+5439,km-KH,weather,weather_query,តើខ្ញុំត្រូវការ ឆ័ត្រ សម្រាប់ពេល រាត្រី,lists_remove,0.1091,0.0317,False
+5465,km-KH,weather,weather_query,ស្បែកជើងកវែង របស់ខ្ញុំ ថ្ងៃនេះ,weather_query,0.4848,0.4848,True
+5468,km-KH,weather,weather_query,តើខ្ញុំត្រូវការយក វែនតា,qa_factoid,0.9092,0.0032,False
+5524,km-KH,weather,weather_query,ឥឡូវនេះ,qa_factoid,0.9928,0.0004,False
+5529,km-KH,weather,weather_query,តើខ្ញុំគួរទៅ ដើរឡើងភ្នំ នៅម៉ោងប៉ុន្មាន,weather_query,0.2912,0.2912,True
+5557,km-KH,play,play_music,ខ្ញុំចង់បានចង្វាក់ រឺហ្គែ,social_post,0.7577,0.0192,False
+5577,km-KH,weather,weather_query,អាវក្រៅ ពេញ​លេញ មានព្យុះខ្លាំង ពេលល្ងាច,cooking_recipe,0.394,0.0163,False
+5578,km-KH,weather,weather_query,ស្រោមជើងក្រាស់ រដូវរងា ព្រឹកនេះ,weather_query,0.4688,0.4688,True
+5584,km-KH,iot,iot_hue_lightoff,សូម ចុច ភ្លើង បិទ,calendar_remove,0.8832,0.0059,False
+5590,km-KH,weather,weather_query,បើក សីតុណ្ហភាព,iot_hue_lightoff,0.7825,0.001,False
+5593,km-KH,play,play_music,ចាក់បទ បងខុសហើយ ដោយ នីកូ,social_post,0.6269,0.0071,False
+5619,km-KH,play,play_music,បើក ចម្រៀង ពីមុន,cooking_recipe,0.3584,0.141,False
+5627,km-KH,play,play_music,បើកចម្រៀងឱ្យខ្ញុំដែលប្រគុំដោយ ចចកសមុទ្រ,play_music,0.9672,0.9672,True
+5640,km-KH,datetime,datetime_query,បង្ហាញកាលបរិច្ឆេទ,iot_hue_lightoff,0.728,0.0198,False
+5650,km-KH,weather,weather_query,ល្ងាច ថ្ងៃនេះ,weather_query,0.7686,0.7686,True
+5658,km-KH,play,play_music,លេង តន្រ្តី ដោយ ក្រុមតូច,play_music,0.9996,0.9996,True
+5661,km-KH,weather,weather_query,តើខ្ញុំគួរយក អាវភ្លៀង ទៅជាមួយខ្ញុំឥឡូវនេះទេ,iot_hue_lightoff,0.1805,0.0162,False
+5671,km-KH,datetime,datetime_query,បាត់ដំបង,cooking_recipe,0.0764,0.0555,False
+5678,km-KH,datetime,datetime_query,ថ្ងៃទីដប់ប្រាំខែសីហា,weather_query,0.6486,0.2692,False
+5683,km-KH,play,play_music,បើក បញ្ជីតន្ត្រី ចម្រៀងជប់លៀង របស់ខ្ញុំ,email_sendemail,0.6775,0.0086,False
+5688,km-KH,news,news_query,សូមប្រាប់ខ្ញុំពីចំណងជើងព័ត៌មាន,social_post,0.9992,0.0001,False
+5703,km-KH,datetime,datetime_query,ម៉ោងឥឡូវ​នេះ,datetime_query,0.9012,0.9012,True
+5707,km-KH,play,play_music,ស្ដាប់ចម្រៀងដែលជា សំណព្វ របស់ខ្ញុំ,social_post,0.5635,0.0247,False
+5721,km-KH,weather,weather_query,ថ្ងៃស្អែក តំបន់នេះ,calendar_remove,0.2454,0.2357,False
+5722,km-KH,weather,weather_query,ការព្យាករណ៍ប្រាំពីរថ្ងៃ សប្ដាហ៍នេះ,calendar_remove,0.2794,0.1727,False
+5732,km-KH,weather,weather_query,សំបកកង់ព្រឹល,iot_hue_lightoff,0.2319,0.0282,False
+5757,km-KH,datetime,datetime_query,ខ្វះដប់ប្រាំនាទីម៉ោងពីរ,datetime_query,0.8762,0.8762,True
+5758,km-KH,weather,weather_query,ភ្នំពេញ,weather_query,0.2246,0.2246,True
+5774,km-KH,datetime,datetime_query,ភ្នំពេញ,weather_query,0.2246,0.0474,False
+5797,km-KH,weather,weather_query,អាវភ្លៀង,iot_hue_lightoff,0.7261,0.0006,False
+5813,km-KH,play,play_music,ចាក់ ចម្រៀង បងខុសហើយ,play_music,0.955,0.955,True
+5820,km-KH,play,play_music,លួងលោមត្រចៀករបស់ខ្ញុំ ជាមួយ ចចកសមុទ្រ,cooking_recipe,0.6356,0.0443,False
+5837,km-KH,weather,weather_query,នៅសប្ដាហ៍នេះ,weather_query,0.2492,0.2492,True
+5871,km-KH,weather,weather_query,អាកាសធាតុ ថ្ងៃនេះ,weather_query,0.9913,0.9913,True
+5886,km-KH,news,news_query,ប្រធានបទក្តៅ,qa_definition,0.6742,0.0019,False
+5919,km-KH,news,news_query,សំណើស្ពានភ្នំពេញ,recommendation_events,0.5841,0.0108,False
+5930,km-KH,news,news_query,តើមានព័ត៌មានទាន់ហេតុការណ៍ ណាមួយ ពីសារពត៌មាន កោះសន្តិភាព ឬទេ,lists_query,0.1656,0.0917,False
+5948,km-KH,play,play_music,លេង បទចម្រៀងពិរោះៗ ពីបញ្ជីចាក់របស់ខ្ញុំ,play_music,0.9999,0.9999,True
+5953,km-KH,weather,weather_query,ទីក្រុង,lists_query,0.1234,0.0388,False
+5955,km-KH,weather,weather_query,តើ​ទីក្រុង​មាន​សុវត្ថិភាព​យ៉ាងណា​ចំពោះ​ច្បាប់ និង​សណ្តាប់ធ្នាប់,lists_query,0.4076,0.0216,False
+5970,km-KH,play,play_music,ខ្ញុំចង់ឱ្យអ្នកលេង បងខុសហើយ សម្រាប់ខ្ញុំ,play_music,0.3455,0.3455,True
+5985,km-KH,news,news_query,បង្ហាញ កោះសន្តិភាព,iot_hue_lightoff,0.982,0.0009,False
+5996,km-KH,weather,weather_query,ស្បែកជើងកវែងព្រឹល របស់ខ្ញុំ ថ្ងៃត្រង់​នេះ,weather_query,0.5467,0.5467,True
+5997,km-KH,datetime,datetime_query,កណ្តាល,qa_factoid,0.9914,0.0003,False
+6023,km-KH,weather,weather_query,យប់់ ក្ដៅស្អុះ,iot_hue_lightoff,0.1923,0.1215,False
+6024,km-KH,weather,weather_query,អាវយឺតអាវរងា ថ្ងៃនេះ,weather_query,0.5613,0.5613,True
+6025,km-KH,weather,weather_query,ឡេការពារកម្តៅថ្ងៃ ថ្ងៃត្រង់​នេះ,weather_query,0.9962,0.9962,True
+6027,km-KH,play,play_music,ត្រលប់ទៅ បទចម្រៀង សំណព្វចិត្ត,play_music,0.13,0.13,True
+6039,km-KH,weather,weather_query,ធ្លាក់ភ្លៀង ថ្ងៃស្អែក,iot_hue_lightoff,0.9003,0.0013,False
+6041,km-KH,iot,iot_hue_lightoff,olly បិទ ភ្លើង បានទេ,cooking_recipe,0.4356,0.0808,False
+6045,km-KH,play,play_music,បន្ថែម បទចម្រៀង ដែល បានជ្រើសរើស,play_music,0.1387,0.1387,True
+6050,km-KH,weather,weather_query,ឡេការពារកម្តៅថ្ងៃ,weather_query,0.9864,0.9864,True
+6055,km-KH,iot,iot_hue_lightoff,តើខ្ញុំបានបើក ភ្លើង ចោលនៅក្នុង យានដ្ឋាន ទេ,iot_hue_lightoff,0.6059,0.6059,True
+6059,km-KH,play,play_music,ចាក់ បទចម្រៀង រ៉េប,play_music,0.9705,0.9705,True
+6069,km-KH,weather,weather_query,ព្យុះ ថ្ងៃនេះ,weather_query,0.1984,0.1984,True
+6073,km-KH,iot,iot_hue_lightoff,បិទ ភ្លើង រានហាល,lists_remove,0.4209,0.1048,False
+6074,km-KH,iot,iot_hue_lightoff,បិទភ្លើង បន្ទប់គេង នៅ ម៉ោងប្រាំបួនកន្លះយប់,lists_remove,0.2617,0.1942,False
+6077,km-KH,news,news_query,ពិភពលោក ថ្ងៃនេះ,weather_query,0.631,0.0098,False
+6093,km-KH,weather,weather_query,បើកដំបូលព្រះអាទិត្យ,iot_hue_lightoff,0.8848,0.0041,False
+6103,km-KH,weather,weather_query,ថ្ងៃនេះ ឡូស ​អាន់​ជ័រ​លេស កាលីហ្វ័រញ៉ា,weather_query,0.8556,0.8556,True
+6116,km-KH,weather,weather_query,ព័ត៌មានអំពីអាកាសធាតុ សប្ដាហ៍នេះ,news_query,0.7107,0.0136,False
+6118,km-KH,datetime,datetime_query,ហេ នៅ ដាឡា រដ្ឋតិចសាស់ ម៉ោងប៉ុន្មានហើយ,weather_query,0.9796,0.0032,False
+6127,km-KH,weather,weather_query,តើអ្នកណែនាំ ឆ័ត្រ មួយទេ,qa_factoid,0.8916,0.0002,False
+6129,km-KH,news,news_query,ឱ្យខ្ញុំតាមទាន់ជាមួយនឹងព័ត៌មាន ពិភពលោក,social_post,0.5752,0.0115,False
+6151,km-KH,weather,weather_query,នៅថ្ងៃនេះ,weather_query,0.9451,0.9451,True
+6172,km-KH,weather,weather_query,វ៉ែនតាការពារពន្លឺថ្ងៃ ថ្ងៃនេះ,weather_query,0.7623,0.7623,True
+6177,km-KH,weather,weather_query,ឆត្រ ថ្ងៃនេះ,weather_query,0.9827,0.9827,True
+6178,km-KH,weather,weather_query,អាវក្រៅ,cooking_recipe,0.9995,0.0,False
+6194,km-KH,weather,weather_query,ថ្ងៃនេះ,weather_query,0.841,0.841,True
+6289,km-KH,weather,weather_query,ថ្ងៃនេះ,weather_query,0.841,0.841,True
+6370,km-KH,calendar,calendar_query,សប្ដាហ៍បន្ទាប់ មើលទៅយ៉ាងណាដែរ,qa_factoid,0.3231,0.0273,False
+6372,km-KH,news,news_query,អំពីរុក្ខជាតិ,email_query,0.1514,0.0348,False
+6403,km-KH,transport,transport_query,របៀបទៅកន្លែងណាមួយ,cooking_recipe,0.5365,0.0058,False
+6410,km-KH,news,news_query,តើមានអ្វីកើតឡើងនៅ ប្រទេសបារាំង ថ្ងៃនេះ,weather_query,0.4074,0.0257,False
+6411,km-KH,weather,weather_query,ថ្ងៃពុធ,calendar_remove,0.3285,0.2153,False
+6539,km-KH,calendar,calendar_set,ចំណាំ ថ្ងៃនេះ ជាថ្ងៃ ចាប់ផ្តើមនៃការតមអាហាររបស់ខ្ញុំ,weather_query,0.2349,0.0181,False
+6542,km-KH,cooking,cooking_recipe,ឈីសជ្រាយ,qa_factoid,0.8654,0.0206,False
+6618,km-KH,news,news_query,ប្រាប់ពីពត៌មានដែលគួរឲ្យទាក់ទាញ,email_sendemail,0.9923,0.0008,False
+6682,km-KH,news,news_query,ការបោះឆ្នោតដែលនឹងកើតឡើង,qa_factoid,0.6989,0.0146,False
+6683,km-KH,news,news_query,កិច្ចការសេដ្ឋកិច្ច,transport_query,0.1399,0.0323,False
+6713,km-KH,calendar,calendar_remove,ប្រជុំមុខជំនួញ ថ្ងៃពុធ,lists_remove,0.1783,0.1558,False
+6722,km-KH,calendar,calendar_query,តើមានអ្វីដែលខ្ញុំគួររំលឹកអំពី,lists_query,0.2572,0.0213,False
+6725,km-KH,calendar,calendar_set,រម្លឹក ខ្ញុំ អំពី កាលវិភាគ របស់ខ្ញុំ សំរាប់ ពេលរសៀល នេះ,email_sendemail,0.8519,0.0049,False
+6726,km-KH,calendar,calendar_remove,លុបចោល កិច្ចប្រជុំ បន្ទាប់,calendar_remove,0.8691,0.8691,True
+6729,km-KH,calendar,calendar_remove,លុបចោកការញ៉ាំ អាហារពេលព្រឹក នៅ ផ្ទះរបស់ធារី,iot_hue_lightoff,0.4508,0.1,False
+6732,km-KH,calendar,calendar_set,បញ្ចូល ការរំលឹក ការណាត់ជួប សម្រាប់ ថ្ងៃអាទិត្យ ជាមួយ ឳពុកម្ដាយក្មេក របស់ខ្ញុំ,lists_remove,0.105,0.0457,False
+6744,km-KH,calendar,calendar_set,ការប្រជុំ សុខ ថ្ងៃស្អែក ម៉ោងដប់ព្រឹក,calendar_remove,0.1963,0.0511,False
+6746,km-KH,calendar,calendar_set,កំណត់ សប្ដាហ៍ទីមួយនៃខែមិថុនា ជា ថ្ងៃឈប់សម្រាក នៅក្នុងប្រតិទិន របស់ខ្ញុំ,weather_query,0.301,0.0209,False
+6747,km-KH,calendar,calendar_query,តើខ្ញុំមាន ការរំលឹក ប៉ុន្មាន,qa_factoid,0.2419,0.0169,False
+6755,km-KH,calendar,calendar_remove,របស់ខ្ញុំ,email_sendemail,1.0,0.0,False
+6761,km-KH,calendar,calendar_remove,លុបចេញពីប្រតិទិន របស់ខ្ញុំ កិច្ចប្រជុំ នៅ ម៉ោងប្រាំបួនព្រឹក,calendar_remove,0.8275,0.8275,True
+6764,km-KH,calendar,calendar_set,រម្លឹក ខ្ញុំឱ្យ លាងបង្អួច,iot_hue_lightoff,0.4079,0.0111,False
+6774,km-KH,calendar,calendar_set,កំណត់ ព្រឹត្តិការណ៍ មួយ សម្រាប់ ថ្ងៃសុក្រ,lists_remove,0.1243,0.04,False
+6785,km-KH,calendar,calendar_query,តើអ្វីជាការរំលឹកបន្ទាប់របស់ខ្ញុំ,cooking_recipe,0.9844,0.0004,False
+6789,km-KH,calendar,calendar_set,កំណត់ ការជួបជាមួយ បុប្ផា នៅ ថ្ងៃសៅរ៍ ម៉ោងបួនរសៀល,calendar_remove,0.1108,0.0467,False
+6798,km-KH,calendar,calendar_remove,លុប ព្រឺត្តិការណ៍ បន្ទាប់ របស់ខ្ញុំ,calendar_remove,0.8408,0.8408,True
+6801,km-KH,calendar,calendar_query,បង្ហាញខ្ញុំពីកិច្ចប្រជុំរបស់ខ្ញុំ ថ្ងៃសុក្រនេះ,news_query,0.1992,0.027,False
+6806,km-KH,calendar,calendar_query,បង្ហាញ ខ្ញុំ ពី ព្រឹត្តិការណ៍ របស់ខ្ញុំ ក្នុង ប្រតិទិន នៅ ពេលរសៀល ថ្ងៃសុក្រនេះ,social_post,0.2341,0.0317,False
+6815,km-KH,calendar,calendar_set,រំលឹកខ្ញុំ ថ្ងៃខួបកំណើត របស់ម៉ាក់ មួយសប្ដាហ៍មុន,lists_remove,0.3608,0.0174,False
+6819,km-KH,calendar,calendar_set,អូលីមាន មានការប្រគំតន្ត្រី ដ៏ល្អនៅ យប់នេះ នៅ ម៉ោងប្រាំបួន នៅ បាផ្កាយមាស ខ្ញុំចង់ទៅ,weather_query,0.2403,0.033,False
+6836,km-KH,calendar,calendar_set,រម្លឹក ខ្ញុំ អំពី ការណាត់ជួប ថ្ងៃស្អែក ម៉ោងប្រាំមួយ,iot_hue_lightoff,0.315,0.0198,False
+6850,km-KH,calendar,calendar_query,បង្ហាញបញ្ជីអំពី កាលវិភាគ របស់ខ្ញុំ នៅ ថ្ងៃនេះ,iot_hue_lightoff,0.192,0.0281,False
+6856,km-KH,calendar,calendar_set,ការប្រជុំ នៅ ថ្ងៃស្អែក ម៉ោងដប់ព្រឹក,recommendation_events,0.0823,0.045,False
+6860,km-KH,calendar,calendar_query,តើមានព្រឹត្តិការណ៍នាពេលខាងមុខទេ,qa_factoid,0.8663,0.0034,False
+6865,km-KH,calendar,calendar_set,ការជូនដំណឹង ការប្រជុំ ថ្ងៃស្អែក ម៉ោង ដប់,calendar_remove,0.1334,0.0362,False
+6878,km-KH,calendar,calendar_set,កំណត់ ការប្រជុំ ជាមួយ ការិយាល័យគណនេយ្យ នៅ ម៉ោងពីរសាមសិបនាទីរសៀល ថ្ងៃសុក្រ,calendar_remove,0.1511,0.041,False
+6891,km-KH,calendar,calendar_query,តើ កម្មវិធី ពេលព្រឹក ផ្សាយដែរទេ,cooking_recipe,0.6503,0.0117,False
+6892,km-KH,calendar,calendar_query,អ្នកអាចផ្តល់ឱ្យខ្ញុំនូវកាលវិភាគ ភាពយន្ត,recommendation_events,0.6787,0.0016,False
+6897,km-KH,calendar,calendar_set,រម្លឹក ខ្ញុំឲ្យ ទៅ យក ធារី ម៉ោងប្រាំ ល្ងាច នៅ ថ្ងៃទីប្រាំពីរ,calendar_remove,0.7354,0.0077,False
+6901,km-KH,calendar,calendar_set,រំលឹកខ្ញុំនៅ ថ្ងៃស្អែក នៅ ម៉ោងដប់ព្រឹក អំពី ការប្រជុំ,calendar_remove,0.6062,0.0131,False
+6902,km-KH,calendar,calendar_set,កំណត់ការរំលឹកសម្រាប់ ខែក្រោយ ដើម្បី ប្ដូរប្រេងម៉ាស៊ីន,lists_remove,0.7846,0.0075,False
+6909,km-KH,calendar,calendar_query,តើមានអ្វីកើតឡើងបន្ទាប់ពី ក្រោយម៉ោងមួយ និង មុនម៉ោងបីរសៀល,lists_query,0.1322,0.0397,False
+6918,km-KH,calendar,calendar_remove,លុបព្រឹត្តិការណ៍ចេញពីប្រតិទិន,calendar_remove,0.607,0.607,True
+6923,km-KH,calendar,calendar_set,កំណត់ការរំលឹកដើម្បី បោះពុម្ពឯកសារ នៅ ពេលព្រឹក ថ្ងៃអង្គារ,lists_remove,0.3833,0.0217,False
+6926,km-KH,calendar,calendar_query,តើវាជា ថ្ងៃសុក្រ មែនទេ,weather_query,0.7443,0.0106,False
+6928,km-KH,calendar,calendar_remove,លប់ចោល ព្រឹត្តិការណ៍ ទាំងអស់,qa_factoid,0.4818,0.1671,False
+6936,km-KH,calendar,calendar_set,ថ្នាំ ម៉ោងប្រាំបួនព្រឹក,datetime_query,0.5654,0.019,False
+6937,km-KH,calendar,calendar_set,កំណត់ការរំលឹក ថ្ងៃត្រង់ ដើម្បី ញ៉ាំ អាហារថ្ងៃត្រង់ជាមួយចៅហ្វាយនាយ,calendar_remove,0.9643,0.0008,False
+6946,km-KH,calendar,calendar_query,តើមាន កិច្ចប្រជុំ ណាខ្លះដែលបានកំណត់សម្រាប់ ថ្ងៃពុធ ក្រោយ,lists_query,0.1743,0.0531,False
+6958,km-KH,calendar,calendar_remove,សូមប្រាកដថាមិនមាន ព្រឹត្តិការណ៍ នៅលើ ប្រតិទិន របស់ខ្ញុំ ទេ,qa_factoid,0.2973,0.0724,False
+6959,km-KH,calendar,calendar_set,រំលឹកខ្ញុំអំពី កិច្ចប្រជុំ មួយម៉ោង មុនពេលវាចាប់ផ្តើម,calendar_remove,0.1644,0.0371,False
+6962,km-KH,calendar,calendar_set,ខ្ញុំ ថ្ងៃសៅរ៍ ម៉ោងប្រាំមួយល្ងាច,datetime_query,0.7277,0.0096,False
+6964,km-KH,calendar,calendar_set,តើអ្នកអាចរំលឹកខ្ញុំ មួយម៉ោង មុន ការណាត់ជួប ថៅកែ របស់ខ្ញុំបានទេ,qa_factoid,0.8433,0.0031,False
+6967,km-KH,calendar,calendar_query,អ្នកអាចពិនិត្យមើលការពិតលើបញ្ហានេះ,qa_factoid,0.6891,0.0108,False
+6968,km-KH,calendar,calendar_query,ការប្រជុំ ថ្ងៃនេះ,recommendation_events,0.2,0.0358,False
+6973,km-KH,calendar,calendar_set,សន្និសីទ ថ្ងៃស្អែក ភ្នំពេញ,weather_query,0.5445,0.0243,False
+6974,km-KH,calendar,calendar_set,ខ្ញុំ​មាន​ កម្មវិធី នៅ​ ក្រុងសៀមរាប ថ្ងៃស្អែក សូម​ រម្លឹក អំពីវា,lists_remove,0.1559,0.0306,False
+6980,km-KH,calendar,calendar_query,ឲ្យ បញ្ជីការងារ មកខ្ញុំ,qa_factoid,0.9802,0.0004,False
+6992,km-KH,calendar,calendar_query,បង្ហាញ ព្រឹត្តិការណ៍ នាពេល អនាគត,iot_hue_lightoff,0.3545,0.0284,False
+6994,km-KH,calendar,calendar_set,រម្លឹក,iot_hue_lightoff,0.4801,0.0033,False
+6997,km-KH,calendar,calendar_remove,លុប ព្រឺត្តិការណ៍ បន្ទាប់,calendar_remove,0.5164,0.5164,True
+7000,km-KH,calendar,calendar_set,ព្រឹត្តិការណ៍ ថ្មី,calendar_remove,0.0846,0.045,False
+7004,km-KH,calendar,calendar_set,រៀងរាល់ឆ្នាំ,qa_factoid,0.4838,0.0369,False
+7013,km-KH,calendar,calendar_query,តើ ព្រឹត្តិការណ៍ នឹងចាប់ផ្តើមនៅពេលណា,qa_factoid,0.1721,0.0322,False
+7014,km-KH,calendar,calendar_query,កាលវិភាគ ព្រឹតិ្តការណ៍ ថ្ងៃនេះ,datetime_query,0.4764,0.018,False
+7025,km-KH,calendar,calendar_remove,លុបចោល ឆ្នាំថ្មី ចេញពីប្រតិទិន,calendar_remove,0.5088,0.5088,True
+7026,km-KH,recommendation,recommendation_events,កម្មវិធី របស់ខ្ញុំ ក្រុង សប្តាហ៍នេះ,cooking_recipe,0.4129,0.0801,False
+7039,km-KH,calendar,calendar_set,បង្កើតកិច្ចប្រជុំមួយឱ្យខ្ញុំនៅថ្ងៃអង្គារបន្ទាប់ ម៉ោងដប់មួយព្រឹក ជាមួយ ធារី,calendar_remove,0.2646,0.0431,False
+7044,km-KH,calendar,calendar_set,រំលឹកខ្ញុំឱ្យ រួចរាល់​ហើយ ចាប់ផ្តើមរៀបចំ ម៉ោងប្រាំល្ងាច,calendar_remove,0.8631,0.0044,False
+7046,km-KH,calendar,calendar_set,បន្ថែម ការប្រជុំ tal នៅ ថ្ងៃទីម្ភៃមួយ នៅ ម៉ោងប្រាំពីរ,email_sendemail,0.1381,0.0425,False
+7055,km-KH,calendar,calendar_set,កំណត់ ការណាត់ជួប ជាមួយ សុខ នៅ ម៉ោងដប់មួយថ្ងៃព្រឹក ថ្ងៃព្រហស្បតិ៍,calendar_remove,0.1183,0.0384,False
+7057,km-KH,calendar,calendar_set,រៀបចំ ការជួបជុំអាហារថ្ងៃត្រង់ ជាមួយ ខេមរា នៅ ថ្ងៃពុធ នៅពេល ថ្ងៃត្រង់,social_post,0.191,0.0271,False
+7061,km-KH,calendar,calendar_set,ផ្តល់ឱ្យខ្ញុំនូវការរំលឹក ម្ភៃបួនម៉ោងមុន ពេល ការប្រជុំ ថ្ងៃសុក្រ របស់ខ្ញុំជាមួយ សុខ,calendar_remove,0.2789,0.0585,False
+7073,km-KH,calendar,calendar_set,ស្វែងរក ប្រតិទិន របស់ខ្ញុំសម្រាប់ ព្រឹតិ្តការណ៍ បន្ទាប់ របស់ខ្ញុំ ហើយជូនដំណឹងខ្ញុំ មុន ពេលវាកើតឡើង,lists_remove,0.2446,0.028,False
+7080,km-KH,calendar,calendar_remove,លុបចោល អ្វីគ្រប់យ៉ាង ពី ប្រតិទិន របស់ខ្ញុំ,lists_remove,0.5532,0.196,False
+7087,km-KH,calendar,calendar_remove,ប្រជុំ ថ្ងៃស្អែក របស់ខ្ញុំ,email_sendemail,0.9587,0.0012,False
+7098,km-KH,calendar,calendar_set,បន្ថែមការ បង់ប្រាក់រថយន្ត របស់ខ្ញុំ នៅថ្ងៃ ទីដប់ពីរ នៅក្នុងប្រតិទិន របស់ខ្ញុំ,calendar_remove,0.1767,0.0384,False
+7100,km-KH,calendar,calendar_set,រំលឹកខ្ញុំ មួយថ្ងៃមុន ពេល ឡាន របស់ខ្ញុំដល់ពេលកំណត់,weather_query,0.3673,0.0077,False
+7111,km-KH,calendar,calendar_query,តើ ការណាត់ជួបវេជ្ជបណ្ឌិត របស់ខ្ញុំ នៅ ថ្ងៃទីសាមមួយ ខែមីនា,recommendation_events,0.1371,0.0345,False
+7113,km-KH,calendar,calendar_query,តើ​នឹង​មាន​ព្រឹត្តិការណ៍​ណា​មួយ​នៅ​ កណ្តាល​ក្រុង ចុងសប្ដាហ៍នេះ,weather_query,0.3392,0.0281,False
+7117,km-KH,calendar,calendar_remove,លុ​ប ព្រឹត្តិការណ៍ នៅ ថ្ងៃទីដប់ប្រាំបួន ចេញពីប្រតិទិន របស់ខ្ញុំ,weather_query,0.1365,0.1106,False
+7120,km-KH,calendar,calendar_query,តើ កាលវិភាគ របស់ខ្ញុំ ថ្ងៃនេះ យ៉ាងម៉េចដែរ,weather_query,0.4832,0.0121,False
+7122,km-KH,calendar,calendar_set,ធ្វើម្តងទៀត ព្រឹត្តិការណ៍ នេះ,calendar_remove,0.5642,0.0133,False
+7140,km-KH,calendar,calendar_set,កំណត់ការរំលឹកដើម្បីបញ្ជាក់ខ្ញុំមួយម៉ោងមុន ការណាត់ជួបអាហារថ្ងៃត្រង់,lists_remove,0.3322,0.0241,False
+7141,km-KH,calendar,calendar_query,តើកម្មវិធីនេះត្រូវបានគ្រោងទុកឬ,qa_factoid,0.6378,0.0086,False
+7151,km-KH,calendar,calendar_set,សម្រាប់រាល់ ថ្ងៃអាទិត្យលេខសេស ដាក់ ការរំលឹក សម្រាប់,calendar_remove,0.3456,0.0278,False
+7152,km-KH,calendar,calendar_set,រៀបចំ អាហារថ្ងៃត្រង់ ជា រៀងរាល់ថ្ងៃ នៅ ម៉ោងដប់ពីរសាមសិបនាទី,calendar_set,0.9267,0.9267,True
+7161,km-KH,calendar,calendar_set,រំលឹក ព្រឹត្តិការណ៍ នេះនៅ ពេលអនាគត,weather_query,0.1684,0.0405,False
+7170,km-KH,calendar,calendar_set,ថ្ងៃនេះជាថ្ងៃកំណើតរបស់ម្ដាយខ្ញុំ ផ្ញើការជូនដំណឹងមកខ្ញុំរៀងរាល់ឆ្នាំនៅថ្ងៃនេះ,weather_query,0.3523,0.0253,False
+7181,km-KH,calendar,calendar_set,សូម ដាស់ ខ្ញុំ នៅ ម៉ោងប្រាំមួយព្រឹក ថ្ងៃព្រហស្បតិ៍ ដើម្បីឱ្យខ្ញុំមានពេលត្រៀមសម្រាប់ ប្រជុំ,calendar_remove,0.9795,0.0004,False
+7185,km-KH,calendar,calendar_query,តើនៅពេលណាដែល ការណាត់ជួប បន្ទាប់របស់ខ្ញុំជាមួយ លោកវិជ្ជបណ្ឌិត សុខ,weather_query,0.1323,0.0337,False
+7189,km-KH,calendar,calendar_query,តើ ខ្ញុំ មាន​គម្រោង​ អ្វី​ខ្លះ,lists_query,0.4829,0.0052,False
+7194,km-KH,calendar,calendar_set,ការប្រជុំ ថ្ងៃស្អែក,recommendation_events,0.0975,0.0463,False
+7196,km-KH,calendar,calendar_set,រំលឹកខ្ញុំពី ការណាត់ជួប ជាមួយ សុខ នៅ ថ្ងៃទីដប់ប្រាំ ខែមីនា,lists_remove,0.1245,0.0409,False
+7199,km-KH,calendar,calendar_set,កំណត់ ការជូនដំណឹង រយៈពេល មួយ ពីរ និងបីម៉ោង មុន ការប្រកួតវគ្គផ្តាច់ព្រ័ត្រភាសាអង់គ្លេស នៅ សប្ដាហ៍ក្រោយ,datetime_query,0.1004,0.0488,False
+7209,km-KH,calendar,calendar_set,តើអ្នកអាចរំលឹកខ្ញុំឱ្យយក សំរាមចេញ នៅ ថ្ងៃអង្គារ,recommendation_events,0.5033,0.0082,False
+7219,km-KH,calendar,calendar_query,តើអ្នកបានដាក់ ការរម្លឹក អំពី ការណាត់ជួប សម្រាប់ ថ្ងៃស្អែក ឬនៅ,lists_remove,0.9491,0.0019,False
+7224,km-KH,calendar,calendar_query,តើ​កន្លែង​ណា​ដែល ពិធីមង្គលការ របស់សុខនឹង​ប្រព្រឹត្ត​ទៅ,lists_query,0.1977,0.0328,False
+7232,km-KH,calendar,calendar_query,តើ​មាន​ ព្រឹត្តិការណ៍ ​អ្វី​ខ្លះ​នៅ​សប្តាហ៍​ក្រោយ,datetime_query,0.1785,0.026,False
+7257,km-KH,calendar,calendar_set,សូមរំលឹកខ្ញុំឱ្យ ទូរសព្ទ ទៅ ម៉ាក់ ក្នុងរយៈពេល កន្លះម៉ោងទៀត,calendar_remove,0.7744,0.0045,False
+7258,km-KH,calendar,calendar_set,រំលឹក ខ្ញុំឲ្យ ផ្ញើអ៊ីមែល ទៅ ថៅកែ នៅ មួយម៉ោង ក្រោយ,calendar_remove,0.7416,0.0048,False
+7262,km-KH,calendar,calendar_set,បង្កើត ការរំលឹក មួយសម្រាប់ ការប្រជុំ ថ្ងៃស្អែក,iot_hue_lightoff,0.2917,0.0442,False
+7266,km-KH,calendar,calendar_query,តើ​អ្វី​ជា​កិច្ចការ​ដែល​មិន​ទាន់​សម្រេច​របស់​ខ្ញុំ,lists_query,0.3159,0.0142,False
+7278,km-KH,calendar,calendar_set,សូមរម្លឹកខ្ញុំពី ខួបកំណើត របស់ ធារី ម្ភៃបួនម៉ោងទុកជាមុន,calendar_remove,0.4797,0.0055,False
+7287,km-KH,calendar,calendar_set,រំលឹកខ្ញុំអំពី ខួបអាពាហ៍ពិពាហ៍ របស់ខ្ញុំ មួយថ្ងៃមុន,calendar_remove,0.656,0.0112,False
+7289,km-KH,calendar,calendar_remove,កម្ចាត់ ព្រឹត្តិការណ៍ ទាំងអស់ជាមួយ សុខ,lists_remove,0.2642,0.0549,False
+7291,km-KH,calendar,calendar_set,បង្ខាំង មួយម៉ោង ចាប់ពី ម៉ោងដប់ ថ្ងៃស្អែក ពេលព្រឹក,datetime_query,0.4561,0.0501,False
+7292,km-KH,calendar,calendar_set,ខ្ញុំ​មិនទំនេរពី ម៉ោងបួន ដល់ ម៉ោងប្រាំមួយ ល្ងាច ថ្ងៃស្អែក គូសប្រតិទិន​របស់​ខ្ញុំ,lists_remove,0.1718,0.0324,False
+7293,km-KH,calendar,calendar_set,កំណត់ ការណាត់ជួប មួយម៉ោង សម្រាប់ ថ្ងៃសៅរ៍,iot_hue_lightoff,0.1025,0.0474,False
+7294,km-KH,calendar,calendar_remove,លុប ការណាត់ជួប ជាមួយ សុខ ចេញពីប្រតិទិនរបស់ខ្ញុំ,calendar_remove,0.6707,0.6707,True
+7295,km-KH,calendar,calendar_remove,សូម សម្អាត ប្រតិទិន របស់ខ្ញុំ,lists_remove,0.3282,0.2586,False
+7314,km-KH,calendar,calendar_query,តើមានអ្វីសម្រាប់ ថ្ងៃនេះ,cooking_recipe,0.3433,0.0144,False
+7316,km-KH,calendar,calendar_query,តើ​ខ្ញុំ​មាន ការណាត់ជួប អ្វីខ្លះ ទេ,qa_factoid,0.3582,0.0163,False
+7319,km-KH,calendar,calendar_query,តើមានអ្វីកើតឡើងនៅ ថ្ងៃនេះ ចាប់ពី ម៉ោងពីរ ដល់ម៉ោងបួនរសៀល,weather_query,0.4356,0.0327,False
+7353,km-KH,email,email_query,ប្រាប់ខ្ញុំពីអាកាសធាតុ សប្ដាហ៍ក្រោយ ក្នុង កំពង់ចាម,iot_hue_lightoff,0.2096,0.0305,False
+7355,km-KH,calendar,calendar_set,រម្លឹក ខ្ញុំឱ្យទៅ ជប់លៀង នៅ ម៉ោង ប្រាំមួយ,calendar_remove,0.6549,0.007,False
+7380,km-KH,calendar,calendar_query,សូមបង្ហាញ ការណាត់ជួប ជាមួយ អតិថិជន នៅ ថ្ងៃនេះ,weather_query,0.2958,0.0269,False
+7397,km-KH,calendar,calendar_query,តើមានព្រឹត្តិការណ៍ណាមួយដែលបានគ្រោងទុកសម្រាប់ បីខែក្រោយ ទេ,qa_factoid,0.2748,0.0165,False
+7449,km-KH,calendar,calendar_set,សូម ការណាត់ជួប ប្រជុំជាមួយបុគ្គលនេះ,qa_factoid,0.9828,0.0009,False
+7450,km-KH,calendar,calendar_set,ខ្ញុំ​ត្រូវ​ការ ការណាត់ជួប ដើម្បី​កំណត់​ពេល​ជាមួយ​ម្នាក់​នេះ,qa_factoid,0.1186,0.0375,False
+7455,km-KH,calendar,calendar_set,រំលឹកខ្ញុំអំពី ពិធីជប់លៀង នៅ ថ្ងៃស្អែក,calendar_remove,0.213,0.0251,False
+7461,km-KH,calendar,calendar_set,ព្រឹត្តិការណ៍,qa_factoid,0.6304,0.0158,False
+7463,km-KH,calendar,calendar_set,សូមជូនដំណឹងដល់ក្រុមរបស់ខ្ញុំថា កាលបរិច្ឆេទ ប្រជុំ ថ្មីគឺនៅ ថ្ងៃស្អែក,weather_query,0.139,0.037,False
+7467,km-KH,calendar,calendar_query,ផ្តល់ឱ្យខ្ញុំនូវពេលវេលានៃ ព្រឹត្តិការណ៍,calendar_remove,0.9822,0.0003,False
+7477,km-KH,calendar,calendar_set,រំលឹក​ខ្ញុំ​នៅ​ថ្ងៃ​ទី​ប្រាំ​ខែ​មីនាជា​រៀង​រាល់​ឆ្នាំដើម្បី​រៀបចំ​ អំណោយខួបអាពាហ៍ពិពាហ៍,iot_hue_lightoff,0.4581,0.0097,False
+7496,km-KH,calendar,calendar_query,ខ្ញុំ ការណាត់ជួប ថ្ងៃនេះ,weather_query,0.8058,0.0071,False
+7499,km-KH,calendar,calendar_set,រៀបចំកាលវិភាគថ្មីសម្រាប់កិច្ចប្រជុំ ថ្ងៃស្អែក,calendar_set,0.6062,0.6062,True
+7500,km-KH,calendar,calendar_remove,តើអ្នកអាចលុប ព្រឹត្តិការណ៍ បន្ទាប់នេះបានទេ,qa_factoid,0.9364,0.011,False
+7502,km-KH,calendar,calendar_query,អ្វី​ដែល​មាន​នៅ​ក្នុង​របៀបវារៈ​សម្រាប់​ ម៉ោងបួនរសៀល ជួបជាមួយ សុខ,lists_query,0.281,0.0352,False
+7503,km-KH,calendar,calendar_query,កន្លែងណាក្នុង ភ្នំពេញ គឺ ការណាត់ជួប នោះ នៅ ម៉ោងមួយរសៀល ថ្ងៃសុក្រ,weather_query,0.3174,0.0335,False
+7520,km-KH,calendar,calendar_set,រំលឹកខ្ញុំជា រៀងរាល់ថ្ងៃ នៅ ម៉ោងពីររសៀល សម្រាប់ អាហារថ្ងៃត្រង់,calendar_remove,0.6699,0.0187,False
+7524,km-KH,calendar,calendar_query,តើ សុខ យល់ព្រមវិនិយោគប៉ុន្មានក្នុងក្រុមហ៊ុនរបស់ខ្ញុំក្នុង ការណាត់ជួប ដែលនឹងធ្វើឡើង ថ្ងៃនេះ នៅ ម៉ោងប្រាំម្ភៃនាទីរសៀល,datetime_query,0.074,0.048,False
+7528,km-KH,calendar,calendar_set,ថ្ងៃទីដប់បី ខែមិថុនា ជាថ្ងៃ លទ្ធផលការបោះឆ្នោត សូមកំណត់វា,calendar_remove,0.9399,0.0022,False
+7531,km-KH,calendar,calendar_set,សូមបន្ថែម ថ្ងៃបើកលុយ របស់ខ្ញុំ,calendar_remove,0.9413,0.0018,False
+7539,km-KH,calendar,calendar_query,តើខ្ញុំមានអ្វីដែលកំពុងដំណើរការទេ,cooking_recipe,0.198,0.0254,False
+7542,km-KH,calendar,calendar_set,សូមរំលឹកខ្ញុំអំពីរឿងនេះនៅ ថ្ងៃស្អែក,email_sendemail,0.311,0.0224,False
+7549,km-KH,calendar,calendar_set,ខ្ញុំចង់ ការប្រជុំ រហូតដល់ ម៉ោងបី,qa_factoid,0.4386,0.0165,False
+7556,km-KH,calendar,calendar_set,កំណត់ប្រតិទិនរបស់ខ្ញុំដើម្បីរំលឹកខ្ញុំឱ្យ ទិញម្ហូប រៀងរាល់ថ្ងៃសុក្រ,lists_remove,0.43,0.0072,False
+7557,km-KH,calendar,calendar_set,ធ្វើ ការរម្លឹក ទីតាំងនៅលើប្រតិទិន,cooking_recipe,0.9977,0.0001,False
+7559,km-KH,calendar,calendar_set,យកខោអាវ បោកអ៊ុតស្ងួតរបស់ខ្ញុំ ម៉ោងប្រាំបីយប់,iot_hue_lightoff,0.2234,0.0209,False
+7563,km-KH,calendar,calendar_set,រំលឹក ខ្ញុំអំពី ការណាត់ជួប ថ្ងៃស្អែក មួយម៉ោង មុន,lists_remove,0.2188,0.027,False
+7565,km-KH,calendar,calendar_set,រំលឹកពី ការណាត់ជួប,qa_factoid,0.376,0.0144,False
+7567,km-KH,calendar,calendar_set,ថ្ងៃខួបកំណើត,weather_query,0.9544,0.0008,False
+7569,km-KH,calendar,calendar_query,ផែនការសម្រាប់ ថ្ងៃស្អែក,calendar_remove,0.4867,0.0168,False
+7570,km-KH,calendar,calendar_query,តើ​មាន​គម្រោង​អ្វី​នៅ​ថ្ងៃ​នេះ,recommendation_events,0.5128,0.0055,False
+7583,km-KH,calendar,calendar_set,ព្រឹត្តិការណ៍នៃការប្រគំតន្ត្រី នៅក្នុងប្រតិទិនរបស់អ្នក,calendar_remove,0.1683,0.0364,False
+7596,km-KH,calendar,calendar_set,ប្រជុំ សុភ័ក្រ ហាងកាហ្វេប្រោន ថ្ងៃត្រង់,social_post,0.1918,0.0336,False
+7598,km-KH,calendar,calendar_set,សូមកំណត់ ការណាត់ជួប ទៅ ពិភាក្សាអំពីអំពើភេរវកម្ម ជាមួយ សុខ នៅថ្ងៃណាត់ជួប បន្ទាប់,calendar_remove,0.8687,0.0048,False
+7606,km-KH,calendar,calendar_set,ជួបជាមួយ សុខ ថ្ងៃស្អែក នៅ ម៉ោងបី,weather_query,0.3574,0.0168,False
+7609,km-KH,calendar,calendar_remove,លុប ការរម្លឹក ពី ការណាត់ជួប សម្រាប់ ថ្ងៃអង្គារ,calendar_remove,0.6853,0.6853,True
+7613,km-KH,calendar,calendar_query,អ្វីដែលជា ព្រឹត្តិការណ៍ ពេលខាងមុខ,cooking_recipe,0.2097,0.0301,False
+7628,km-KH,calendar,calendar_set,រំលឹកខ្ញុំពេលខ្ញុំនៅ បណ្ណាល័យ ដើម្បី យកប័ណ្ណបណ្ណាល័យថ្មី,calendar_remove,0.785,0.0048,False
+7654,km-KH,calendar,calendar_set,កំណត់​ ថ្ងៃទីម្ភៃ ខែមេសា ជា​ ថ្ងៃខួបកំណើត របស់ប្អូនប្រុស ​របស់ខ្ញុំ,email_sendemail,0.566,0.0135,False
+7655,km-KH,calendar,calendar_set,បន្ថែម ការរម្លឹក សម្រាប់ ថ្ងៃទីម្ភៃ ខែមេសា ជា ថ្ងៃខួបកំណើត របស់ ប្អូនប្រុស របស់ខ្ញុំ,email_sendemail,0.556,0.0176,False
+7660,km-KH,calendar,calendar_remove,លុបចោល ការណាត់ជួប របស់ខ្ញុំទាំងអស់បន្ទាប់ពី ម៉ោងបីរសៀល ថ្ងៃនេះ ហើយប្រាប់ខ្ញុំពីព័ត៌មានលម្អិត,calendar_remove,0.884,0.884,True
+7662,km-KH,calendar,calendar_query,តើអ្នកអាចកំណត់ ការណាត់ជួប របស់ខ្ញុំ នៅ ថ្ងៃនេះ បានទេ,recommendation_events,0.8437,0.0035,False
+7664,km-KH,calendar,calendar_set,បន្ថែម អាហារថ្ងៃត្រង់ ជាមួយ សុម៉ាលី,lists_remove,0.1281,0.041,False
+7666,km-KH,calendar,calendar_set,តើអ្នកអាច ដាក់ ថាខ្ញុំមាន កិច្ចប្រជុំ មួយ ជាមួយ ចិន្ដា នៅ ម៉ោងបី ថ្ងៃស្អែក បានទេ,qa_factoid,0.9835,0.0003,False
+7680,km-KH,calendar,calendar_remove,ព្រឹត្តិការណ៍វាយកូនហ្កូល ខែ,datetime_query,0.0743,0.0472,False
+7686,km-KH,calendar,calendar_set,រួមបញ្ចូល សុខ និង តារា ទៅប្រតិទិន ពិធីបុណ្យ,recommendation_events,0.182,0.0345,False
+7690,km-KH,calendar,calendar_query,តើខ្ញុំមានកម្មវិធីអ្វីឆាប់ៗដែរឬទេ,lists_query,0.4088,0.0055,False
+7693,km-KH,calendar,calendar_query,ថ្ងៃទីម្ភៃមួយ,calendar_remove,0.8433,0.0125,False
+7697,km-KH,calendar,calendar_set,កំណត់ត្រារំលឹក នេះ,iot_hue_lightoff,0.3807,0.015,False
+7711,km-KH,calendar,calendar_set,បោះបង់ការណាត់ជួបផ្សេងទៀត របស់ខ្ញុំ ហើយកំណត់ ថ្ងៃខួបកំណើត របស់សុខ នៅ ថ្ងៃទីពីរ ខែមីនា ជា ព្រឹត្តិការណ៍ ក្នុងប្រតិទិនរបស់អ្នក,calendar_remove,0.1776,0.0463,False
+7712,km-KH,calendar,calendar_set,ហេអូលី បោះបង់ការណាត់ជួបផ្សេងទៀត របស់ខ្ញុំ ហើយកំណត់ ថ្ងៃខួបកំណើត របស់សុខ នៅ ថ្ងៃទីពីរ ខែមីនា ជា ព្រឹត្តិការណ៍ ក្នុងប្រតិទិនរបស់អ្នក,news_query,0.0534,0.0531,False
+7718,km-KH,calendar,calendar_set,ការប្រជុំ លោកសុខ នៅ ថ្ងៃសុក្រនេះ រសៀលថ្ងៃសុក្រ,calendar_query,0.117,0.0429,False
+7726,km-KH,calendar,calendar_set,អ្វីមួយ រៀងរាល់ថ្ងៃច័ន្ទ ការរំលឹក,cooking_recipe,0.1874,0.028,False
+7730,km-KH,calendar,calendar_set,ថ្ងៃច័ន្ទ,calendar_remove,0.5331,0.0474,False
+7741,km-KH,calendar,calendar_remove,ថ្ងៃសៅរ៍ របស់ខ្ញុំ,weather_query,0.8868,0.0531,False
+7751,km-KH,calendar,calendar_set,រំលឹកខ្ញុំ រៀងរាល់ថ្ងៃចន្ទ ឱ្យយកសំរាមចេញ,calendar_remove,0.9745,0.0005,False
+7762,km-KH,calendar,calendar_query,តើខ្ញុំមាន ការរម្លឹក អ្វីខ្លះ,lists_query,0.5646,0.0063,False
+7767,km-KH,calendar,calendar_set,បញ្ចូលការហាត់ ទៅក្នុងប្រតិទិន នៅ ថ្ងៃទីបួន ខែកុម្ភៈ ម៉ោងពីររសៀល នៅ ឯ វត្តភ្នំ,calendar_remove,0.1095,0.0517,False
+7768,km-KH,calendar,calendar_set,សូម បញ្ចូល ការហាត់ នៅ ថ្ងៃទីបួន ខែកុម្ភៈ ម៉ោងពីររសៀល នៅ វត្តភ្នំ,calendar_remove,0.971,0.0011,False
+7774,km-KH,calendar,calendar_set,ថ្ងៃស្អែក របស់ខ្ញុំ,calendar_remove,0.8848,0.0108,False
+7777,km-KH,calendar,calendar_query,តើ ខ្ញុំ មាន ការណាត់ជួប ថ្ងៃនេះ ទេ,social_post,0.6495,0.0013,False
+7778,km-KH,calendar,calendar_set,រំលឹក ខ្ញុំ ពីអ្វីដែលខ្ញុំនឹងធ្វើនៅ រសៀល ថ្ងៃអាទិត្យ,cooking_recipe,0.4255,0.0098,False
+7808,km-KH,calendar,calendar_set,រំលឹកខ្ញុំអោយជូន ម៉ាក់ ទៅ ជាងអ៊ុតសក់ ថ្ងៃព្រហស្បតិ៍ ម៉ោងដប់និងមួយនាទីព្រឹក នៅ,calendar_remove,0.2175,0.0297,False
+7817,km-KH,calendar,calendar_query,តើនេះជាការពិតទេអំពីកាលបរិច្ឆេទនេះ,qa_factoid,0.9975,0.0001,False
+7820,km-KH,calendar,calendar_remove,លុប គម្រោង ទាំងអស់ពីប្រតិទិនរបស់ខ្ញុំ,calendar_remove,0.8423,0.8423,True
+7836,km-KH,calendar,calendar_remove,លុបចោល ព្រឺត្តិការណ៍ ទាំងអស់,calendar_remove,0.7643,0.7643,True
+7843,km-KH,calendar,calendar_set,ប្រាប់ខ្ញុំក្នុងរយៈពេល ពីរ​ម៉ោង ដែលខ្ញុំត្រូវចាកចេញសម្រាប់ មេរៀនវីយូឡុង របស់ខ្ញុំគឺនៅ ម៉ោងបួនរសៀល នៅ ថោនស្ទូឌីយោ,datetime_query,0.2014,0.0355,False
+7844,km-KH,calendar,calendar_query,តើខ្ញុំបានដាក់ ការរំលឹក អ្វីខ្លះ,lists_remove,0.4453,0.0187,False
+7847,km-KH,calendar,calendar_set,ជូន​ដំណឹងឲ្យខ្ញុំពេលមាន ការចុះឈ្មោះ,email_sendemail,0.8751,0.0054,False
+7851,km-KH,calendar,calendar_set,ខ្ញុំ​មាន ការប្រជុំ នៅ​ ពេលថ្ងៃត្រង់ ថ្ងៃនេះ,calendar_remove,0.2686,0.0676,False
+7863,km-KH,calendar,calendar_set,រំលឹកខ្ញុំឱ្យចាប់ផ្តើម ញ៉ាំអាហារ នៅ ល្ងាចម៉ោងប្រាំ,calendar_remove,0.6953,0.0076,False
+7870,km-KH,calendar,calendar_remove,ព្រឹត្តិការណ៍,qa_factoid,0.6304,0.0625,False
+7876,km-KH,news,news_query,ពីរខែមុន,datetime_query,0.95,0.0023,False
+7878,km-KH,calendar,calendar_remove,លុបប្រតិទិន របស់ខ្ញុំ,qa_factoid,0.4604,0.0836,False
+7879,km-KH,calendar,calendar_query,តើ បី គម្រោង បន្ទាប់ របស់ខ្ញុំ មានអ្វីខ្លះ,recommendation_events,0.2532,0.0223,False
+7889,km-KH,calendar,calendar_query,តើ ការប្រកួតបាល់ទាត់ នៅ យប់នេះ ម៉ោងប៉ុន្មាន,weather_query,0.6832,0.01,False
+7890,km-KH,calendar,calendar_remove,លុបចោល ការកាត់សក់ ថ្ងៃនេះ,calendar_remove,0.8853,0.8853,True
+7891,km-KH,calendar,calendar_remove,លុប អាហារពេលល្ងាច សម្រាប់ យប់នេះ,calendar_remove,0.3412,0.3412,True
+7892,km-KH,calendar,calendar_remove,លុប ព្រឹតិ្តការណ៏ បន្ទាប់ ថ្ងៃនេះ,calendar_remove,0.4147,0.4147,True
+7894,km-KH,calendar,calendar_set,ផ្តល់អោយខ្ញុំព័ត៌មានចុងក្រោយអំពី ការបោះឆ្នោត នៅ មួយម៉ោង ទៀត,email_sendemail,0.3245,0.0169,False
+7902,km-KH,calendar,calendar_set,ប្រជុំ សុខ ម៉ោងពីររសៀល ថ្ងៃស្អែក,calendar_remove,0.2081,0.0569,False
+7908,km-KH,calendar,calendar_query,តើខ្ញុំត្រូវការធ្វើអ្វីនៅ ថ្ងៃនេះ,cooking_recipe,0.9681,0.0011,False
+7912,km-KH,calendar,calendar_remove,alexa សូមលប់ការណាត់ញ៉ាំ អាហារពេលល្ងាច ជាមួយ សត្យា ពីប្រតិទិន,calendar_remove,0.6449,0.6449,True
+7916,km-KH,calendar,calendar_set,រំលឹកខ្ញុំឲ្យយកសំរាមទៅចោល នៅ ម៉ោងប្រាំមួយល្ងាច,calendar_remove,0.871,0.0027,False
+7918,km-KH,calendar,calendar_set,ព្រឹត្តិការណ៍លើប្រតិទិនអញ្ជើញ ចាន់ សោភ័ណ្ឌ,calendar_query,0.0538,0.0534,False
+7919,km-KH,calendar,calendar_set,ថែម សុខ និង ធារី ជាអ្នកចូលរួម ក្នុង ការប្រជុំ ថ្មី,lists_remove,0.1824,0.0389,False
+7922,km-KH,calendar,calendar_remove,បើកកិច្ចការលុប ព្រឺត្តិការណ៍ ពេល អនាគត,iot_hue_lightoff,0.6356,0.0402,False
+7927,km-KH,calendar,calendar_query,តើខ្ញុំត្រូវធ្វើអ្វីក្នុង សប្តាហ៍នេះ,cooking_recipe,0.983,0.0008,False
+7946,km-KH,calendar,calendar_query,តើមានការប្រជុំតន្ត្រី អ្វីខ្លះ នៅខេត្ត តាកែវ,recommendation_events,0.4212,0.0077,False
+7953,km-KH,calendar,calendar_remove,សូមលុប ការណាត់ជួប ជាមួយ វិជ្ជបណ្ឌិតរបស់ខ្ញុំ នៅ ថ្ងៃសៅរ៍,calendar_remove,0.8726,0.8726,True
+7955,km-KH,calendar,calendar_set,ដាក់ ព្រឹត្តិការណ៍ នេះ ក្នុង ផ្ទាំង ម្ដងហើយម្ដងទៀត នៅក្នុងប្រតិទិន របស់ខ្ញុំ,calendar_remove,0.2543,0.0307,False
+7956,km-KH,calendar,calendar_set,តើអ្នកអាចធ្វើឱ្យ ព្រឺត្តិការណ៍ នេះ កើតឡើង ច្រំដែល បានទេ,qa_factoid,0.982,0.0006,False
+7966,km-KH,calendar,calendar_query,រម្លឹក,iot_hue_lightoff,0.4801,0.0033,False
+7970,km-KH,calendar,calendar_set,រំលឹក ខ្ញុំអំពី ពិធីរៀបអាពាហ៍ពិពាហ៍ អោយ ទាន់ពេលដើម្បីទិញអំណោយ,calendar_remove,0.3549,0.0197,False
+7971,km-KH,calendar,calendar_set,កំណត់ ការរំលឹក មួយសម្រាប់ ពីរថ្ងៃ មុន នៃព្រឹត្តិការណ៍,lists_remove,0.2706,0.0248,False
+7975,km-KH,calendar,calendar_query,តើមាន សេវាចតរថយន្ត នៅក្នុងព្រឹត្តិការណ៍ឬទេ,qa_factoid,0.3346,0.0282,False
+7978,km-KH,calendar,calendar_query,ការរំលឹក ថ្ងៃត្រង់ ថ្ងៃស្អែក,calendar_remove,0.5063,0.0772,False
+7980,km-KH,calendar,calendar_set,ប្រាប់ ខ្ញុំ ពេលដែកមាន គម្រោង ហើយ,email_sendemail,0.8267,0.0028,False
+7981,km-KH,calendar,calendar_set,ផ្ញើការដាស់តឿនមួយ មុន ការប្រជុំ,calendar_remove,0.5362,0.0047,False
+7993,km-KH,calendar,calendar_remove,លុប គម្រោង ទាំងអស់ ពីប្រតិទិន របស់ខ្ញុំ,calendar_remove,0.8727,0.8727,True
+8001,km-KH,calendar,calendar_remove,តើអ្នកអាចលុបការ កាត់សក់ ដែល ខ្ញុំ មាន នៅ ថ្ងៃសុក្រ បានទេ,recommendation_events,0.734,0.0005,False
+8004,km-KH,calendar,calendar_set,ធារី ត្រូវការនិយាយជាមួយខ្ញុំអំពី ការលែងលះគ្នា របស់យើង តើអ្នកអាចកំណត់គម្រោង ការជួបគ្នា ឲ្យបានឆាប់បំផុតនៅពេលដែលខ្ញុំទំនេរបានទេ,lists_query,0.0735,0.044,False
+8005,km-KH,calendar,calendar_set,នៅ ថ្ងៃចន្ទ័ ទីម្ភៃ ខ្ញុំត្រូវការ និយាយ ជាមួយ ម៉ីម៉ី អំពី ដំណើរកម្សាន្តចុងសប្តាហ៍របស់យើង,email_sendemail,0.2545,0.0377,False
+8013,km-KH,calendar,calendar_query,បង្ហាញ ខ្ញុំ កិច្ចប្រជុំ របស់ខ្ញុំ សំរាប់ ខែក្រោយ,lists_remove,0.2436,0.0256,False
+8029,km-KH,calendar,calendar_query,តើកំពុងមាន ព្រឹត្តិការណ៍ អ្វីខ្លះនៅ ថ្ងៃនេះ,weather_query,0.842,0.0077,False
+8033,km-KH,datetime,datetime_query,តើថ្ងៃណាជា បុណ្យអ៊ីស្ទើរ,weather_query,0.9943,0.002,False
+8035,km-KH,calendar,calendar_set,រម្លឹក ខ្ញុំ អោយ ប្ដូរប្រេងម៉ាស៊ីន,lists_remove,0.3698,0.0165,False
+8037,km-KH,calendar,calendar_set,រម្លឹក អ្វីមួយ ពេលណាមួយ,calendar_remove,0.4203,0.01,False
+8042,km-KH,calendar,calendar_query,តើមានមនុស្សប៉ុន្មាននាក់នឹងចូលរួម ការប្រជុំ បន្ទាប់របស់ខ្ញុំ,lists_query,0.179,0.0257,False
+8043,km-KH,calendar,calendar_query,ការណាត់ជួប របស់ខ្ញុំ បន្ទាប់នៅម៉ោងប៉ុន្មាន,weather_query,0.3304,0.0299,False
+8044,km-KH,calendar,calendar_query,តើ កាលវិភាគ របស់ខ្ញុំ ថ្ងៃនេះ ជាអ្វី,qa_factoid,0.7042,0.0062,False
+8055,km-KH,calendar,calendar_remove,លុប ការណាត់ជួប របស់ខ្ញុំ សម្រាប់ ថ្ងៃទីប្រាំពីរ ខែមីនា,calendar_remove,0.8913,0.8913,True
+8056,km-KH,calendar,calendar_query,តើ ខ្ញុំ មានគម្រោងនៅ ថ្ងៃសុក្រ ទេ,qa_factoid,0.2923,0.0047,False
+8058,km-KH,calendar,calendar_query,តើខ្ញុំមាន ការប្រជុំការលក់ នៅ ថ្ងៃនេះ ទេ,lists_remove,0.4134,0.0149,False
+8073,km-KH,calendar,calendar_set,រៀបចំកាលវិភាគ​ ការប្រជុំការលក់ សម្រាប់ ថ្ងៃពុធ នៅ ម៉ោងដប់មួយថ្ងៃត្រង់,iot_hue_lightoff,0.391,0.0269,False
+8079,km-KH,calendar,calendar_set,កំណត់ពេល មួយម៉ោង ទៀតសម្រាប់ ដុតនំប័ុង របស់ខ្ញុំ,calendar_remove,0.4771,0.0049,False
+8084,km-KH,calendar,calendar_query,តើរបៀបវីរៈព្រឹត្តិការណ៍ជាអ្វី,qa_factoid,0.9921,0.0002,False
+8085,km-KH,calendar,calendar_set,ខ្ញុំចង់ធ្វើគម្រោង សម្រាប់ សប្តាហ៍នេះ,cooking_recipe,0.9983,0.0001,False
+8100,km-KH,email,email_sendemail,ផ្ញើ អ៊ីមែល ការណាត់ជួប របស់ខ្ញុំ ទៅ ឡើងវិញ,social_post,0.2795,0.0501,False
+8107,km-KH,calendar,calendar_set,កំណត់ គម្រោង ធ្វើ ខួបកំណើត ឲ្យ ប៊ុនធឿន,cooking_recipe,0.9615,0.0016,False
+8110,km-KH,calendar,calendar_set,សូមបន្ថែម ការត្រួតពិនិត្យ មើលប្រតិទិន របស់ខ្ញុំ,lists_remove,0.3128,0.0199,False
+8116,km-KH,calendar,calendar_query,នៅកៀក ថ្ងៃទីមួយ ខែកុម្ភៈ និងថ្ងៃទីដប់ប្រាំមួយ ខែមីនា តើមាន កិច្ចប្រជុំ អ្វីខ្លះ,calendar_remove,0.6158,0.0671,False
+8119,km-KH,calendar,calendar_query,តើ ជប់លៀងខួបកំណើត សុវណ្ណ ធើ្វនៅឯណា,social_post,0.1284,0.0461,False
+8125,km-KH,calendar,calendar_set,បង្កើត កិច្ចប្រជុំ នៅក្នុង ប្រតិទិន របស់ខ្ញុំ,iot_hue_lightoff,0.2329,0.0201,False
+8126,km-KH,calendar,calendar_set,កំណត់ ព្រឺត្តិការណ៍ ការជួបជុំ នៅក្នុងប្រតិទិន របស់ខ្ញុំ,calendar_remove,0.0919,0.0489,False
+8129,km-KH,calendar,calendar_query,តើ​ ការរំលឹក ​អ្វី​ដែល​ខ្ញុំ​នៅតែ​មាន,lists_query,0.4321,0.0134,False
+8140,km-KH,calendar,calendar_set,កំណត់ ការរំលឹក សម្រាប់ ថ្ងៃទីដប់បី ថា ខ្ញុំ ញ៉ាំ អាហារថ្ងៃត្រង់ ជាមួយ សីហា,lists_remove,0.4824,0.018,False
+8148,km-KH,calendar,calendar_query,តើខ្ញុំមាន ការរំលឹក ណាមួយ នៅសល់ទេ,lists_remove,0.3453,0.0086,False
+8150,km-KH,calendar,calendar_query,តើខ្ញុំមានការរំលឹកអ្វីទេ អំពី កម្មវិធី ជប់លៀងខួបកំណើត,recommendation_events,0.313,0.0231,False
+8165,km-KH,calendar,calendar_query,ក្រោយ ម៉ោងដប់កន្លះថ្ងៃត្រង់ អ្នកនឹងមាន ការប្រជុំ មួយ នៅ ដប់នាទី ទៀត,datetime_query,0.4847,0.0309,False
+8182,km-KH,calendar,calendar_remove,តើអ្នកអាចលុប ការណាត់ជួបជាមួយពេទ្យធ្មេញ បានទេ,qa_factoid,0.9032,0.0028,False
+8188,km-KH,calendar,calendar_query,តើជាថ្ងៃទីប៉ុន្មាន,weather_query,0.9456,0.0002,False
+8204,km-KH,calendar,calendar_set,សូម រំលឹក ខ្ញុំ អោយ ទៅ បុស្តិ៍ប្រៃសណីយ,qa_factoid,0.244,0.0102,False
+8206,km-KH,calendar,calendar_set,កុំឲ្យខ្ញុំភ្លេចទិញអំណោយសម្រាប់ ប្អូនស្រី របស់ខ្ញុំ,social_post,0.2811,0.017,False
+8230,km-KH,calendar,calendar_query,តើ ការជួបជុំអាហារថ្ងៃត្រង់ របស់ខ្ញុំនៅ ថ្ងៃអង្គារ នឹងមានរយៈពេលយូរ,weather_query,0.511,0.0271,False
+8241,km-KH,calendar,calendar_remove,សម្អាត អ្វីគ្រប់យ៉ាង ចេញពីរ ប្រតិទិន របស់ខ្ញុំ ពេញមួយឆ្នាំ,lists_remove,0.7029,0.0052,False
+8245,km-KH,calendar,calendar_set,ខ្ញុំត្រូវការសេចក្ដីជូនដំណឹងអំពី កិច្ចបម្រើសម្រាប់វិហារ នៅ ថ្ងៃអាទិត្យ ម៉ោងដប់មួយថ្ងៃត្រង់,iot_hue_lightoff,0.2499,0.0271,False
+8248,km-KH,calendar,calendar_set,បញ្ចូល អាហារពេលល្ងាច ថ្ងៃ ស្អែក ទៅក្នុងប្រតិទិនរបស់ខ្ញុំ,iot_hue_lightoff,0.6249,0.0143,False
+8251,km-KH,calendar,calendar_set,ខ្ញុំត្រូវការដាក់ ការញុាំអាហារថ្ងៃត្រង់ សប្ដាហ៍ក្រោយ ចូលទៅក្នុងប្រតិទិន,iot_hue_lightoff,0.542,0.0045,False
+8260,km-KH,calendar,calendar_set,សូម ជូន​ដំណឹង ឲ្យខ្ញុំ មួយថ្ងៃមុន ថ្ងៃខួបកំណើត របស់ ណេត,email_sendemail,0.5191,0.0343,False
+8261,km-KH,calendar,calendar_set,ផ្ញើសេចក្ដីរម្លឹកឲ្យខ្ញុំ មួយម៉ោងមុន ការណាត់ជួប,qa_factoid,0.1317,0.0462,False
+8269,km-KH,calendar,calendar_set,កំណត់ ការរំលឹក សាមសិបនាទី មុនកិច្ចប្រជុំ ថ្ងៃអង្គារ,lists_remove,0.2036,0.0339,False
+8276,km-KH,calendar,calendar_remove,របស់ខ្ញុំ ការណាត់ជួប,qa_factoid,0.3538,0.0271,False
+8280,km-KH,calendar,calendar_set,ខ្ញុំត្រូវ កំណត់ ការរំលឹក នៅ ថ្ងៃទីដប់ប្រាំ ខែមីនា,lists_remove,0.1481,0.029,False
+8284,km-KH,calendar,calendar_remove,លុប ថ្ងៃខួបកំណើត ចេញពីប្រតិទិន,calendar_remove,0.8064,0.8064,True
+8289,km-KH,calendar,calendar_set,កំណត់ការរំលឹកអំពី ការប្រជុំមហាវិទ្យាល័យ ថ្ងៃនេះ នៅ ម៉ោងបួន,lists_remove,0.1302,0.0397,False
+8290,km-KH,calendar,calendar_set,បើកការរម្លឹកអំពី កិច្ចប្រជុំសម្រាប់អ្នកគ្រប់គ្រង នៅ សប្ដាហ៍ក្រោយ នៅ ថ្ងៃអង្គារ,iot_hue_lightoff,0.3245,0.0278,False
+8294,km-KH,calendar,calendar_set,បញ្ចូល ទៅក្នុង ប្រតិទិន ហើយ ដាក់ ដដែលៗ,calendar_remove,0.4356,0.0235,False
+8300,km-KH,calendar,calendar_set,រក្សាទុកព្រឹត្តិការណ៍ម៉ោងប្រាំរសៀល ទៅ ប្រាំមួយរសៀល នៅថ្ងៃទីដប់ប្រាំបី ខែមីនា,email_sendemail,0.9953,0.0,False
+8302,km-KH,calendar,calendar_remove,ដក​ការ​ប្រជុំ​នៅ ថ្ងៃច័ន្ទក្រោយ,calendar_remove,0.9217,0.9217,True
+8308,km-KH,news,news_query,ម្សិលមិញ ពេលថ្ងៃត្រង់ កោះពេជ្រ,weather_query,0.5692,0.0064,False
+8336,km-KH,calendar,calendar_query,តើពេលណាជា អាហារថ្ងៃត្រង់ របស់ខ្ញុំជាមួយ ធារី,calendar_query,0.5605,0.5605,True
+8343,km-KH,datetime,datetime_query,តើវាជា ថ្ងៃពុធ,weather_query,0.5494,0.0622,False
+8345,km-KH,calendar,calendar_set,ប្រាប់ខ្ញុំពេលមាន កិច្ចប្រជុំ,social_post,0.5881,0.0095,False
+8347,km-KH,calendar,calendar_query,តើមានអ្វីកើតឡើងនៅថ្ងៃទី ៤ ខែធ្នូ,cooking_recipe,0.2717,0.0156,False
+8358,km-KH,calendar,calendar_set,រំលឹក ខ្ញុំអំពីវា,email_sendemail,0.2561,0.0099,False
+8366,km-KH,calendar,calendar_set,កំណត់ចំណាំ ជារៀងរាល់ឆ្នាំ ថា ថ្ងៃទីដប់ប្រាំបី ខែមីនា ជា ការណាត់ជួបសម្រាប់ថ្ងៃខួបកំណើតរបស់វិចិត្រ,datetime_query,0.0912,0.0446,False
+8387,km-KH,calendar,calendar_set,បង្កើតការរំលឹកឲ្យបើកខោអាវនៅ ម៉ោងប្រាំបីយប់,iot_hue_lightoff,0.9477,0.0016,False
+8388,km-KH,calendar,calendar_set,ការរម្លឹក ម៉ោងប្រាំបីយប់,weather_query,0.9687,0.0006,False
+8390,km-KH,calendar,calendar_set,រម្លឹក ខ្ញុំ ពេល ការណាត់ជួប ចាប់ផ្ដើម,weather_query,0.7247,0.0085,False
+8394,km-KH,calendar,calendar_set,សូមកំណត់ការរំលឹកលេបថ្នាំ នៅ ពេលថ្ងៃត្រង់ ជា រៀងរាល់ថ្ងៃ,calendar_remove,0.9569,0.0011,False
+8404,km-KH,calendar,calendar_query,ខ្ញុំចង់ដឹង បន្ថែមទៀត អំពីព្រឹត្តិការណ៍នេះ,news_query,0.5984,0.0205,False
+8409,km-KH,calendar,calendar_remove,លុប អាហារពេលល្ងាច របស់ខ្ញុំ នៅ ថ្ងៃស្អែក,iot_hue_lightoff,0.5882,0.1551,False
+8410,km-KH,calendar,calendar_remove,លុប ព្រឹត្តិការណ៍ អាហារពេលល្ងាច របស់ខ្ញុំ សម្រាប់ ថ្ងៃចន្ទ,calendar_remove,0.8837,0.8837,True
+8413,km-KH,calendar,calendar_set,ដាស់តឿន,qa_factoid,0.3246,0.011,False
+8414,km-KH,calendar,calendar_set,រម្លឹក ខ្ញុំឱ្យ ទៅ ញ៉ាំអាហារពេលល្ងាច ជាមួយ សុខ នៅ ថ្ងៃសុក្រ នៅ ម៉ោងប្រាំល្ងាច,calendar_remove,0.9083,0.0101,False
+8415,km-KH,calendar,calendar_set,បញ្ចូល កិច្ចប្រជុំ នៅ ការិយាល័យ ជាមួយ ចំណាន នៅ ថ្ងៃអង្គារ ម៉ោងបីរសៀល,calendar_remove,0.1443,0.0425,False
+8426,km-KH,calendar,calendar_query,ប្រាប់ខ្ញុំអំពីគម្រោងថ្មីៗដែលមាន ម្សិលមិញ និង ព្រឹក នេះ,email_sendemail,0.552,0.0086,False
+8430,km-KH,calendar,calendar_remove,ការណាត់ជួប ទាំងអស់ របស់ខ្ញុំ,qa_factoid,0.2034,0.045,False
+8431,km-KH,calendar,calendar_remove,លុបចោល ព្រឹត្តិការណ៍ ដែលបានគ្រោងទុក ទាំងអស់ របស់ខ្ញុំ,calendar_remove,0.6587,0.6587,True
+8436,km-KH,calendar,calendar_set,សូមរៀបចំ ការណាត់ជួបញ៉ាំអាហារថ្ងៃត្រង់ នៅ ម៉ោងដប់ពីរថ្ងៃត្រង់ ជា រៀងរាល់ថ្ងៃពុធ ក្នុង ខែមីនា,calendar_set,0.7741,0.7741,True
+8442,km-KH,calendar,calendar_set,សូមជូនដំណឹងពី ប្រតិទិន របស់ខ្ញុំ ជាមួយ ព្រឹតិ្តការណ៍ នេះ,email_sendemail,0.8542,0.0077,False
+8449,km-KH,calendar,calendar_set,កំណត់ ការរម្លឹក សម្រាប់ ថ្ងៃខួបកំណើត កូនស្រី របស់ខ្ញុំ,lists_remove,0.4464,0.0215,False
+8453,km-KH,calendar,calendar_set,សូមដាក់ ព្រឹត្តិការណ៍ ទៅក្នុង ប្រតិទិន របស់ខ្ញុំ ហើយ កំណត់វា ឲ្យទៅជា ព្រឹត្តិការណ៍ ដដែលៗ,calendar_remove,0.2103,0.1203,False
+8460,km-KH,calendar,calendar_query,បង្ហាញ ព្រឹត្តិការណ៍ របស់ខ្ញុំ,iot_hue_lightoff,0.8063,0.0079,False
+8461,km-KH,calendar,calendar_query,តើ​ខ្ញុំ​មាន​គម្រោង​អ្វី​សម្រាប់ ខែឧសភា នេះ,cooking_recipe,0.9528,0.0005,False
+8466,km-KH,calendar,calendar_set,ខ្ញុំ​មាន​ការ​ប្រជុំ​ម៉ោងប្រាំបួនព្រឹកនៅ​ថ្ងៃ​ពុធ សូម​ផ្ញើ​ការ​រំលឹក​មក​ខ្ញុំ,calendar_remove,0.3477,0.0445,False
+8469,km-KH,calendar,calendar_query,តើមានកាលវិភាគអ្វីខ្លះក្នុង ប្រតិទិន របស់ខ្ញុំ ថ្ងៃនេះ,iot_hue_lightoff,0.8319,0.003,False
+8474,km-KH,calendar,calendar_set,បញ្ចូល កម្មវិធីខួបកំណើត របស់កុសល សម្រាប់ ថ្ងៃស្អែក ម៉ោងពីររសៀល នៅ កោះពេជ្រ ទៅក្នុងប្រតិទិនរបស់ខ្ញុំ,iot_hue_lightoff,0.366,0.0267,False
+8494,km-KH,calendar,calendar_query,តើ កាលវិភាគ របស់ខ្ញុំ យ៉ាងម៉េចដែរ ថ្ងៃនេះ,weather_query,0.7175,0.0108,False
+8496,km-KH,calendar,calendar_query,ប្រាប់ ខ្ញុំអំពី ការណាត់ជួប នៅ ថ្ងៃស្អែក ពេល ព្រឹក,email_sendemail,0.9972,0.0,False
+8498,km-KH,calendar,calendar_query,ទៅមើល ការរំលឹក ដែលកំពុងរងចាំ ទាំងអស់,lists_remove,0.2637,0.0248,False
+8516,km-KH,calendar,calendar_remove,លុបធាតុប្រតិទិន,iot_hue_lightoff,0.129,0.0311,False
+8520,km-KH,calendar,calendar_set,បញ្ចូល ព្រឹត្តិការណ៍ ទៅ ប្រតិទិនកម្មវីធី,calendar_remove,0.1626,0.0343,False
+8525,km-KH,calendar,calendar_query,ការប្រជុំ ម៉ោងបី ដល់ប្រាំ,datetime_query,0.1151,0.0446,False
+8535,km-KH,calendar,calendar_set,រម្លឹក ការណាត់ជួបពេទ្យធ្មេញ ខ្ញុំ ពីរម៉ោង,datetime_query,0.1838,0.0414,False
+8539,km-KH,calendar,calendar_set,រំលឹក ខ្ញុំអំពី,lists_remove,0.3005,0.0091,False
+8541,km-KH,calendar,calendar_set,សូម រម្លឹក ខ្ញុំ,email_sendemail,0.2364,0.0139,False
+8553,km-KH,calendar,calendar_set,បន្ថែម ការប្រជុំ ទៅប្រតិទិន របស់ខ្ញុំ សម្រាប់ ម៉ោងប្រាំបួនព្រឹក ជាមួយ ផាន់,email_sendemail,0.0968,0.0472,False
+8559,km-KH,calendar,calendar_query,តើខ្ញុំមានអ្វីដែលត្រូវកំណត់សម្រាប់ ថ្ងៃនេះ,cooking_recipe,0.4446,0.0147,False
+8562,km-KH,calendar,calendar_remove,លុប កិច្ចប្រជុំ របស់ខ្ញុំ ដែលមាន នៅ ម៉ោងពីររសៀល ថ្ងៃនេះ,calendar_remove,0.8712,0.8712,True
+8568,km-KH,calendar,calendar_set,តើអ្នកអាចផ្ញើប្រតិទិនការអញ្ជើញទៅ សុខ និងធារី សម្រាប់ អាហារថ្ងៃត្រង់ នៅ ម៉ោងដប់មួយថ្ងៃត្រង់ នៅ ថ្ងៃអង្គារ,recommendation_events,0.2079,0.0367,False
+8570,km-KH,calendar,calendar_set,តើអ្នកអាចកំណត់ថា ខ្ញុំរវល់ សម្រាប់ កម្មវិធី ថ្ងៃស្អែក ម៉ោងពីររសៀល បានទេ,qa_factoid,0.7943,0.0019,False
+8579,km-KH,calendar,calendar_query,ការប្រជុំ របស់ខ្ញុំ ថ្ងៃនេះ,news_query,0.2966,0.0238,False
+8585,km-KH,calendar,calendar_set,រំលឹកខ្ញុំថា ខ្ញុំត្រូវទៅ ពិធីខួបកំណើត នៅ ថ្ងៃទីសាមសិប,calendar_remove,0.3928,0.0194,False
+8598,km-KH,calendar,calendar_set,រម្លឹក ខ្ញុំឱ្យ ទៅយកសុខ នៅ អាកាសយានដ្ឋាន នៅ ម៉ោងប្រាំមួយល្ងាច,calendar_remove,0.4247,0.0198,False
+8618,km-KH,calendar,calendar_set,ស្រោចទឹកដំណាំរបស់ខ្ញុំ រៀងរាល់ថ្ងៃអង្គារ ថ្ងៃព្រហស្បតិ៍ និងថ្ងៃសៅរ៍,weather_query,0.334,0.0264,False
+8631,km-KH,calendar,calendar_remove,លុប នោះ ចេញពីប្រតិទិន របស់ខ្ញុំ,calendar_remove,0.2794,0.2794,True
+8635,km-KH,calendar,calendar_set,បញ្ជាទិញមាន់ទួរគី,email_sendemail,1.0,0.0,False
+8640,km-KH,calendar,calendar_set,ខ្ញុំចង់ធ្វើកំណត់ចំណាំនៅលើប្រតិទិនរបស់ខ្ញុំសម្រាប់ព្រឹត្តិការណ៍ ថ្ងៃស្អែក នៅ បណ្ណាល័យ,lists_remove,0.3388,0.0116,False
+8642,km-KH,calendar,calendar_set,បញ្ចូល ការនិយាយ​ទូរស័ព្ទ​ជា​ក្រុម នៅ ម៉ោងបួនរសៀល ទៅកាន់ ការរម្លឹក របស់ខ្ញុំ សំរាប់ ថ្ងៃនេះ,social_post,0.2047,0.0301,False
+8651,km-KH,calendar,calendar_set,ជូនដំណឹងខ្ញុំអំពី ព្រឹត្តិការណ៍ នៅក្នុងប្រតិទិន របស់ខ្ញុំ,social_post,0.4752,0.0256,False
+8653,km-KH,calendar,calendar_set,រំលឹក ខ្ញុំ អំពីព្រឹត្តិការណ៍ក្នុងប្រតិទិន របស់ខ្ញុំ,email_sendemail,0.1833,0.0382,False
+8666,km-KH,calendar,calendar_remove,លុប ព្រឺត្តិការណ៍ ទាំងអស់ ពីប្រតិទិន របស់ខ្ញុំ,calendar_remove,0.4951,0.4951,True
+8667,km-KH,calendar,calendar_query,ក្នុង​រយៈ​ពេល បីខែមុន ​នេះ តើ​ខ្ញុំ​មាន ការប្រជុំ ​ប៉ុន្មាន​ដង​ជាមួយ លោកសុភ័ក្រ,lists_query,0.2071,0.0501,False
+8670,km-KH,calendar,calendar_remove,លុបព្រឹត្តិការណ៍ចេញពីប្រតិទិន,calendar_remove,0.607,0.607,True
+8672,km-KH,calendar,calendar_query,តើ ការប្រគំតន្ត្រីខារ៉ាបាវ នៅឯណា,qa_factoid,0.7419,0.0087,False
+8674,km-KH,calendar,calendar_query,តើ កិច្ចប្រជុំ របស់ខ្ញុំ នៅឯណានៅ ម៉ោងប្រាំបួនព្រឹក,news_query,0.3111,0.0348,False
+8679,km-KH,calendar,calendar_query,តើ ថ្ងៃនេះ ជា ថ្ងៃបុណ្យឯករាជ្យជាតិ,calendar_remove,0.4486,0.0541,False
+8681,km-KH,calendar,calendar_query,តើវាជា ថ្ងៃខួបកំណើត អ្នកណាម្នាក់មែនទេ,qa_factoid,0.5839,0.0161,False
+8694,km-KH,calendar,calendar_set,ព្រឹត្តិការណ៍រួមមាន សុខ និង ធារី,cooking_recipe,0.0536,0.0497,False
+8730,km-KH,calendar,calendar_set,សូមកំណត់ ការរំលឹក នៅក្នុងប្រតិទិន សម្រាប់ ការណាត់ជួប របស់ខ្ញុំ នៅ ថ្ងៃទីម្ភៃប្រាំ ខែមីនា,calendar_remove,0.9649,0.001,False
+8732,km-KH,calendar,calendar_remove,ទាំងអស់,lists_remove,0.5684,0.3306,False
+8762,km-KH,calendar,calendar_query,ប្រាប់ ខ្ញុំពី កាលវិភាគ របស់ខ្ញុំ សម្រាប់ ពេលរសៀលនេះ,email_sendemail,0.9635,0.0017,False
+8765,km-KH,calendar,calendar_set,ដាក់ អាហារពេលល្ងាច របស់ខ្ញុំ នៅ ចំប៉ីស ក្នុងប្រតិទិន សម្រាប់ ម៉ោងប្រាំបួន ថ្ងៃនេះ,lists_remove,0.2442,0.042,False
+8766,km-KH,calendar,calendar_query,តើ ខ្ញុំ មាន ការប្រជុំ ថ្ងៃសៅរ៍ទីម្ភៃប្រាំខែមីនា ឬទេ,weather_query,0.3647,0.0246,False
+8767,km-KH,calendar,calendar_query,តើថ្ងៃកំណើត របស់ធារី នៅ ថ្ងៃទីដប់ពីរ ខែមេសា មែនទេ,weather_query,0.7345,0.013,False
+8769,km-KH,calendar,calendar_remove,លុបចោល ព្រឹត្តិការណ៍ ដែលនឹងកើតឡើងឆាប់ៗ,calendar_remove,0.5797,0.5797,True
+8771,km-KH,calendar,calendar_remove,លុប ដំណើរដើរទិញឥវ៉ាន់ ដែល ខ្ញុំ បានកំណត់នៅ ថ្ងៃទីម្ភៃបីខែមីនា,calendar_remove,0.5853,0.5853,True
+8774,km-KH,calendar,calendar_query,តើ កាលវិភាគ របស់ខ្ញុំ សម្រាប់ ថ្ងៃទីប្រាំពីរ ខែកក្កដា បើកចំហ ទាំងស្រុង,iot_hue_lightoff,0.8121,0.0081,False
+8781,km-KH,calendar,calendar_query,តើខ្ញុំទំនេរនៅ ម៉ោងបួនរសៀល ទេ,weather_query,0.6639,0.0034,False
+8782,km-KH,calendar,calendar_query,ការប្រជុំ ពេលរសៀលនេះ,qa_factoid,0.3114,0.0352,False
+8791,km-KH,calendar,calendar_query,មានព័ត៌មានថែមទៀតនៅលើ ព្រឹត្តិការណ៍ នេះ,qa_definition,0.0522,0.051,False
+8795,km-KH,calendar,calendar_query,បង្ហាញ ការរម្លឹក ដែលមិនទាន់បានរម្លឹក,iot_hue_lightoff,0.3697,0.0098,False
+8822,km-KH,recommendation,recommendation_events,ព្រឹត្តិការណ៍,qa_factoid,0.6304,0.0157,False
+8824,km-KH,calendar,calendar_query,តើ​ខ្ញុំ​បាន​កំណត់កាលវិភាគអ្វី​សម្រាប់ ថ្ងៃទីដប់ប្រាំបួន នៅ​ ម៉ោងពីររសៀល,iot_hue_lightoff,0.3982,0.0234,False
+8825,km-KH,calendar,calendar_set,ផ្ញើ​ការ​រំលឹក​ពី​ ការប្រជុំ ​របស់​ខ្ញុំ​ជាមួយ សុខ នៅ​ ថ្ងៃសុក្រ ក្រោយ,lists_remove,0.1637,0.0315,False
+8828,km-KH,calendar,calendar_query,តើ ព្រឹត្តិការណ៍ ប្រតិទិន ​ពិតឬ,qa_factoid,0.9367,0.0028,False
+8846,km-KH,calendar,calendar_query,តើខ្ញុំបានកំណត់អ្វីនៅ ថ្ងៃទីបួន ខែកក្កដា ឆ្នាំនេះ ដែរទេ,cooking_recipe,0.9946,0.0002,False
+8853,km-KH,calendar,calendar_remove,លុបចោល សកម្មភាព របស់ខ្ញុំខាងមុខ,calendar_remove,0.8102,0.8102,True
+8856,km-KH,calendar,calendar_remove,លុប ព្រឺត្តិការណ៍ ទាំងអស់ នៅក្នុងប្រតិទិន,calendar_remove,0.5974,0.5974,True
+8857,km-KH,calendar,calendar_set,រម្លឹក ការប្រជុំ សុខ,lists_remove,0.3131,0.0238,False
+8868,km-KH,calendar,calendar_set,រំលឹកខ្ញុំឱ្យ ទេរទូរស័ព្ទទៅម៉ាក់ រៀងរាល់ថ្ងៃអង្គារ នៅ ម៉ោងដប់ព្រឹក,play_radio,0.3061,0.0156,False
+8880,km-KH,calendar,calendar_set,កំណត់ ការរម្លឹក អំពី កិច្ចប្រជុំ នៅ ថ្ងៃស្អែក នៅ ម៉ោងប្រាំបួនព្រឹក,lists_remove,0.3311,0.0282,False
+8888,km-KH,calendar,calendar_remove,លុបវា,qa_factoid,0.7529,0.0622,False
+8900,km-KH,calendar,calendar_set,កំណត់ការរំលឹកឡើងវិញសម្រាប់ រៀងរាល់ថ្ងៃអាទិត្យ,lists_remove,0.4692,0.017,False
+8904,km-KH,calendar,calendar_query,ព័ត៌មាននៃព្រឹត្តិការណ៍ថ្មីៗ,news_query,0.8658,0.0065,False
+8906,km-KH,calendar,calendar_set,កំណត់កាលបរិច្ឆេទ ព្រឹត្តិការណ៍ នៅក្នុង ប្រតិទិន ជាមួយ អ្នកឯទៀត,play_podcasts,0.053,0.0526,False
+8907,km-KH,calendar,calendar_set,ផ្ដល់ដំណឹងពីព្រឹត្តិការណ៍ ក្នុងប្រតិទិនជាមួយអ្នកដទៃ,email_sendemail,0.1561,0.0373,False
+8912,km-KH,calendar,calendar_query,ផ្តល់ឱ្យខ្ញុំនូវព្រឹត្តិការណ៍ប្រតិទិន ថ្ងៃនេះ បន្ទាប់ពីម៉ោងប្រាំមួយល្ងាច,calendar_remove,0.3254,0.0273,False
+8914,km-KH,calendar,calendar_query,តើ ការណាត់ជួប របស់ខ្ញុំ នៅ ថ្ងៃទីបួន ខែមេសា ម៉ោងប៉ុន្មាន,weather_query,0.2628,0.0179,False
+8916,km-KH,calendar,calendar_query,តើកាលវិភាគរបស់ខ្ញុំសម្រាប់ ថ្ងៃអ្វី,qa_factoid,0.5136,0.0046,False
+8925,km-KH,calendar,calendar_remove,លុប ព្រឹត្តិការណ៍ ទាំងអស់នៅក្នុងប្រតិទិន របស់ខ្ញុំ,calendar_remove,0.7278,0.7278,True
+8939,km-KH,calendar,calendar_set,សុខ ពិធីបង្កក់កូនស្រី,qa_factoid,0.1289,0.0275,False
+8948,km-KH,calendar,calendar_set,បន្ថែម ព្រឹត្តិការណ៍ សម្រាប់ ការណាត់ជួប ជាមួយ សុខ,transport_query,0.0528,0.0492,False
+8949,km-KH,calendar,calendar_remove,សូម​ដក ការរំលឹក ​ចេញ,lists_remove,0.5221,0.2898,False
+8958,km-KH,calendar,calendar_query,ម៉ោងបើក ការប្រជុំ,datetime_query,0.5106,0.0111,False
+8960,km-KH,calendar,calendar_set,ខ្ញុំចង់ឱ្យអ្នកធ្វើ ការដាស់តឿន នៅ ពេលល្ងាច អំពី ការប្រជុំ នាពេលខាងមុខ,calendar_remove,0.3381,0.0177,False
+8967,km-KH,calendar,calendar_set,រំលឹកខ្ញុំពីរថ្ងៃមុន ថ្ងៃខួបកំណើត ប្រពន្ធ របស់ខ្ញុំ,calendar_remove,0.9424,0.0011,False
+8968,km-KH,calendar,calendar_set,ប្រាប់​ខ្ញុំ​ពីអ្វីដែល រម្លឹក ​នៅ សប្ដាហ៍នេះ,social_post,0.457,0.0133,False
+8975,km-KH,calendar,calendar_query,អ្វី​ទៅដែល​ត្រូវ​បាន​កំណត់​ ការណាត់ជួប សម្រាប់ ថ្ងៃនេះ,weather_query,0.1486,0.0366,False
+8977,km-KH,calendar,calendar_set,គ្រាន់តែកំណត់ការរំលឹកខ្ញុំអំពី ការទូទាត់វិក្កយប័ត្រដែលមិនទាន់សម្រេច,lists_remove,0.1171,0.0419,False
+8978,km-KH,calendar,calendar_set,គ្រាន់តែប្រាប់ខ្ញុំពី ការប្រជុំសំខាន់ៗជាមួយចៅហ្វាយរបស់ខ្ញុំ នៅសប្ដាហ៍នេះ,recommendation_events,0.0819,0.0363,False
+8985,km-KH,calendar,calendar_remove,អូខេហ្គោហ្គល ថ្ងៃខួបកំណើតរបស់សុខ ចេញពីប្រតិទិន,calendar_remove,0.3264,0.3264,True
+8990,km-KH,calendar,calendar_set,បង្កើត ព្រឹត្តិការណ៍,calendar_remove,0.0844,0.0466,False
+8992,km-KH,calendar,calendar_set,បង្ហាញ ការប្រជុំ,iot_hue_lightoff,0.5413,0.0021,False
+9009,km-KH,calendar,calendar_remove,លុប ព្រឺត្តិការណ៍ ខួបអាពាហ៍ពិពាហ៍ ចេញពីប្រតិទិន របស់ខ្ញុំ,calendar_remove,0.7449,0.7449,True
+9011,km-KH,calendar,calendar_query,គឺជាព្រឹត្តិការណ៍ បុណ្យអុំទូក នៅថ្ងៃទីដប់បួននៃខែនេះពិត,qa_factoid,0.2836,0.018,False
+9014,km-KH,calendar,calendar_set,សូម​កំណត់​ការ​ជូន​ដំណឹង​នៅ ថ្ងៃទីម្ភៃបីខែតុលា អំពី​ ការប្រជុំ ជាមួយ​ មិត្តរួមការងារ ​របស់​ខ្ញុំ,lists_remove,0.1395,0.0364,False
+9015,km-KH,calendar,calendar_remove,លុប ប្រតិទិន របស់ខ្ញុំ ​រាល់​ ព្រឹតិ្តការណ៍,calendar_remove,0.4686,0.4686,True
+9019,km-KH,calendar,calendar_query,ការណាត់ជួប ចាប់ពី ថ្ងៃទីម្ភៃ ដល់ថ្ងៃទីម្ភៃប្រាំ ខែមិថុនា,iot_hue_lightoff,0.1626,0.0395,False
+9030,km-KH,calendar,calendar_remove,ដកចេញពីប្រតិទិន ការណាត់ជួបពេទ្យ របស់ខ្ញុំសម្រាប់ ថ្ងៃនេះ,calendar_remove,0.2127,0.2127,True
+9035,km-KH,calendar,calendar_query,ការរំលឹកអំពី អាពាហ៍ពិពាហ៍ របស់ សុខ,lists_remove,0.1641,0.0295,False
+9043,km-KH,calendar,calendar_set,ព្រឹត្តិការណ៍នាពេលខាងមុខ នៅក្នុងប្រតិទិន,calendar_remove,0.104,0.0446,False
+9053,km-KH,calendar,calendar_set,កំណត់ ការប្រជុំ មួយ ដោយ ការ​រំលឹក ជាមួយ រចនា នៅ ថ្ងៃអង្គារ,calendar_remove,0.3263,0.0299,False
+9054,km-KH,calendar,calendar_set,ព្រឹត្តិការណ៍ ការរម្លឹក របស់ សុខ នៅ ថ្ងៃអង្គារ,play_music,0.0536,0.0502,False
+9059,km-KH,calendar,calendar_set,ដាស់តឿនខ្ញុំនៅពេលនៃ ព្រឹត្តិការណ៍ នេះ,weather_query,0.9942,0.0002,False
+9061,km-KH,calendar,calendar_query,តើព័ត៌មានអ្វីខ្លះដែលខ្ញុំមាននៅលើ ការរម្លឹក,lists_query,0.1178,0.0404,False
+9062,km-KH,calendar,calendar_set,ថ្ងៃកំណើតរបស់លី ថ្ងៃទីម្ភៃពីរខែមិថុនា,weather_query,0.5139,0.0035,False
+9074,km-KH,calendar,calendar_remove,សូមលុប ព្រឺត្តិការណ៍ នោះ,calendar_remove,0.5351,0.5351,True
+9088,km-KH,calendar,calendar_remove,លុប អ្វីគ្រប់យ៉ាង នៅលើប្រតិទិន របស់ខ្ញុំ,calendar_remove,0.5142,0.5142,True
+9095,km-KH,calendar,calendar_remove,លុបចោល ការញ៉ាំអាហារពេលល្ងាចយប់នេះជាមួយធារី,calendar_remove,0.447,0.447,True
+9103,km-KH,calendar,calendar_query,តើមាន ការណាត់ជួប នៅលើប្រតិទិនរបស់ខ្ញុំទេនៅ រសៀលនេះ,weather_query,0.3031,0.0215,False
+9107,km-KH,calendar,calendar_query,តើ ការប្រគំតន្ត្រីខារ៉ាបាវ នៅ ថ្ងៃទីបី ខែមិថុនា ចាប់ផ្តើមនៅម៉ោងប៉ុន្មាន,qa_factoid,0.3398,0.0236,False
+9110,km-KH,calendar,calendar_set,ការតាំងពិព័រណ៍ឆ្នាំពីរពាន់ដប់ប្រាំពីរ នៅ ថ្ងៃទីម្ភៃប្រាំ ខែមីនា ធ្វើកំណត់ចំណាំរបស់វានៅថ្ងៃដែលត្រូវគ្នា,calendar_remove,0.0819,0.0473,False
+9112,km-KH,calendar,calendar_set,បន្ថែម វា នៅលើប្រតិទិន របស់ខ្ញុំ,qa_factoid,0.1275,0.0423,False
+9114,km-KH,calendar,calendar_set,ការរម្លឹក នេះ,weather_query,0.5515,0.0054,False
+9116,km-KH,calendar,calendar_query,តើអ្នកអាចកំណត់ ការណាត់ជួប របស់ខ្ញុំ ឡើងវិញបានទេ,recommendation_events,0.4421,0.0029,False
+9121,km-KH,calendar,calendar_query,តើថ្ងៃណាខ្លះដែលខ្ញុំត្រូវកក់,weather_query,0.9899,0.0002,False
+9124,km-KH,calendar,calendar_set,បង្ហាញ ព្រឹត្តិការណ៍ ប្រតិទិន ការងារ របស់ខ្ញុំ ស​ប្តា​ហ៍​ក្រោយ,social_post,0.1173,0.0366,False
+9137,km-KH,calendar,calendar_query,តើ ហាងកាហ្វេប្រោន បិទនៅម៉ោងប៉ុន្មាន រវាងអាហារថ្ងៃត្រង់ និងអាហារពេលល្ងាច,recommendation_events,0.3322,0.0285,False
+9138,km-KH,qa,qa_factoid,តើ បុណ្យភ្ជុំបិណ្ឌ ចាប់ផ្តើមជាផ្លូវការនៅពេលណា,lists_query,0.0731,0.0675,False
+9149,km-KH,calendar,calendar_query,តើ​ម៉ោង​ប៉ុន្មាន​ដែល​ កម្មវិធីជប់លៀងតារា ​ត្រូវ​ចាប់​ផ្តើម,lists_query,0.1848,0.0303,False
+9153,km-KH,calendar,calendar_set,សូមបន្ថែម ការញ៉ាំអាហារពេលល្ងាចជាមួយធារី ទៅក្នុងប្រតិទិនរបស់ខ្ញុំនៅ ថ្ងៃសៅរ៍,iot_hue_lightoff,0.0969,0.046,False
+9155,km-KH,calendar,calendar_set,ថ្ងៃសុក្រ ការណាត់ជួបពេទ្យធ្មេញ ម៉ោងបី,datetime_query,0.1771,0.0409,False
+9156,km-KH,calendar,calendar_set,ការរម្លឹក,iot_hue_lightoff,0.5369,0.009,False
+9175,km-KH,calendar,calendar_query,តើប្រតិទិនរបស់ខ្ញុំត្រូវបានធ្វើបច្ចុប្បន្នភាពក្នុងរយៈពេល ដប់នាទីចុងក្រោយ ដែរឬទេ,qa_factoid,0.879,0.0018,False
+9182,km-KH,calendar,calendar_remove,លុបចោលគម្រោង ទទួលប៉ាម៉ាក់របស់ខ្ញុំ ពី អាកាសយានដ្ឋាន,calendar_remove,0.8084,0.8084,True
+9187,km-KH,calendar,calendar_set,ប្រជុំ,qa_factoid,0.3904,0.0259,False
+9193,km-KH,calendar,calendar_set,សូមកំណត់កាលបរិច្ឆេទ នេះ ឡើងវិញ,calendar_remove,0.5333,0.0065,False
+9194,km-KH,calendar,calendar_remove,សូមលុប ព្រឹត្តិការណ៍ នេះ ចេញពីប្រតិទិន របស់ខ្ញុំ,calendar_remove,0.3725,0.3725,True
+9197,km-KH,calendar,calendar_query,ខ្ញុំ សប្ដាហ៍នេះ,email_sendemail,0.4278,0.0224,False
+9198,km-KH,calendar,calendar_query,ការរម្លឹក របស់ខ្ញុំ,lists_remove,0.3011,0.0131,False
+9202,km-KH,play,play_radio,លេង ស្ថានីយ៍វិទ្យុ របស់ខ្ញុំ,play_music,0.9996,0.0001,False
+9204,km-KH,play,play_radio,បើក វិទ្យុ អេប៊ីស៊ី,qa_factoid,0.7595,0.0018,False
+9212,km-KH,play,play_radio,អ្នកណាម្នាក់ បើក វិទ្យុ,qa_factoid,0.9949,0.0005,False
+9216,km-KH,play,play_radio,លេង ស្ថានីយ របស់ខ្ញុំ,play_music,0.9998,0.0,False
+9225,km-KH,play,play_radio,តើអ្នកអាចបើក វិទ្យុ បានទេ,qa_factoid,0.9991,0.0001,False
+9233,km-KH,play,play_radio,បើក pandora,qa_factoid,0.9968,0.0001,False
+9236,km-KH,play,play_radio,ទៅ ប៉ុស្តិ៍ មួយរយប្រាំមួយចុចប្រាំបួន,qa_factoid,0.5517,0.073,False
+9237,km-KH,play,play_radio,បើក វិទ្យុ ហើយលេង ប៉ុស្តិ៍ មួយរយប្រាំមួយចុចប្រាំបួន,play_music,0.9888,0.0044,False
+9250,km-KH,play,play_radio,ខ្ញុំចង់ស្តាប់វិទ្យុ,iot_hue_lightoff,0.6992,0.0091,False
+9254,km-KH,play,play_radio,សូមដាក់ប៉ុស្ដិ៍ ប្រាំបួនរយសាមសិបប្រាំបីអេហ្វអិម វិទ្យុ mirchi,lists_remove,0.5425,0.0202,False
+9263,km-KH,play,play_radio,បើក កម្មវិធី វិទ្យុ,qa_factoid,0.8509,0.0156,False
+9269,km-KH,play,play_radio,បើកទៅ ប្រាំបីរយកៅសិបប្រាំពីរអេហ្វអិម,qa_factoid,0.8622,0.0023,False
+9270,km-KH,play,play_radio,គ្រាន់តែលេង ប្រាំបួនរយសាមសិបប្រាំពីរអេហ្វអិម,cooking_recipe,0.758,0.0122,False
+9275,km-KH,play,play_radio,តែ ប្រាំបួនរយកៅសិបប្រាំបួនអេហ្វអិម,qa_factoid,0.4953,0.0157,False
+9284,km-KH,play,play_radio,ចាក់បទ បងខុសហើយ,calendar_remove,0.4145,0.0116,False
+9291,km-KH,play,play_radio,ចាក់,qa_factoid,0.9957,0.0005,False
+9301,km-KH,play,play_radio,លេង វិទ្យុអេហ្វអិម,play_music,0.9993,0.0,False
+9303,km-KH,play,play_radio,លេង ព្រៃស្តុក,play_music,0.9998,0.0,False
+9305,km-KH,play,play_radio,ប្តូរទៅប៉ុស្តិ៍បាយ័ន,lists_remove,0.3782,0.0119,False
+9316,km-KH,play,play_radio,បើកវិទ្យុណ ប៉ុស្តិ៍ព្រៃស្តុក ឱ្យខ្ញុំ,qa_factoid,0.5558,0.0032,False
+9317,km-KH,play,play_radio,បើក វិទ្យុ ឥឡូវនេះ,iot_hue_lightoff,0.8405,0.0065,False
+9321,km-KH,play,play_radio,បើក វិទ្យុ ឥឡូវនេះ,iot_hue_lightoff,0.8405,0.0065,False
+9323,km-KH,play,play_radio,ចាប់ផ្ដើម pandora,qa_factoid,0.9963,0.0003,False
+9326,km-KH,play,play_radio,សូមបើក ប៉ុស្តិ៍វិទ្យុលេខមួយ ឥឡូវនេះ,email_query,0.6612,0.028,False
+9327,km-KH,play,play_radio,សូម​ស្កែន​ការ​ចុចអេអឹមតាម​វិទ្យុ ឥលូវ,email_sendemail,0.7481,0.0014,False
+9330,km-KH,play,play_radio,លេង,play_music,0.9999,0.0,False
+9341,km-KH,play,play_radio,ប្ដូរ ស្ថានីយវិទ្យុ,qa_factoid,0.4031,0.0259,False
+9352,km-KH,play,play_radio,លេង វិទ្យុ,play_music,0.9996,0.0,False
+9353,km-KH,play,play_radio,ចាប់ផ្ដើម តន្រ្ដី វិទ្យុ,qa_factoid,0.5041,0.0273,False
+9358,km-KH,play,play_radio,បើក ប៉ុស្តិ៍វិទ្យុ ហង្សមាស,qa_factoid,0.963,0.0009,False
+9361,km-KH,play,play_radio,ស្ដាប់ វិទ្យុ,qa_factoid,0.4757,0.0533,False
+9362,km-KH,play,play_radio,ប៉ុស្តិ៍ វិទ្យុ,iot_hue_lightoff,0.4983,0.0043,False
+9363,km-KH,play,play_radio,លេង វិទ្យុ បទល្បីៗ,play_music,0.9956,0.0001,False
+9364,km-KH,play,play_radio,លេង តន្រ្តីល្បីៗ,play_music,0.9492,0.002,False
+9380,km-KH,play,play_radio,ខ្ញុំចង់ឱ្យអ្នកទៅ ព្រៃស្តុក នៅលើវិទ្យុ,iot_hue_lightoff,0.367,0.0135,False
+9384,km-KH,play,play_radio,លេង ប៉ុស្ដិ៍ c. n. n.,play_music,0.9997,0.0,False
+9394,km-KH,play,play_radio,ហេ អូលី បើក វិទ្យុ,qa_factoid,0.9117,0.005,False
+9402,km-KH,play,play_radio,បើក វិទ្យុ ទៅ ប៉ុស្តិ៍ ប្រាំបួនរយប៉ែតសិបប្រាំបួន,iot_hue_lightoff,0.7898,0.0096,False
+9406,km-KH,play,play_radio,ប៉ុស្តិវិទ្យុហង្សមាស,qa_factoid,0.9968,0.0,False
+9408,km-KH,play,play_radio,ចាប់ផ្ដើមបើក វិទ្យុ,qa_factoid,0.6446,0.0258,False
+9426,km-KH,play,play_radio,ខ្ញុំចង់ឮ វិទ្យុហង្សមាស,qa_factoid,0.6106,0.0001,False
+9438,km-KH,play,play_radio,តើអ្នកអាចចាក់ ចម្រៀង រ៉េប នៅលើ វិទ្យុ បានទេ,qa_factoid,0.5987,0.0173,False
+9457,km-KH,play,play_music,លេង​ ចម្រៀង បងខុសហើយ,play_music,1.0,1.0,True
+9460,km-KH,play,play_music,បើកចម្រៀង ចង្វាក់រាំវង្ស,play_music,0.3771,0.3771,True
+9471,km-KH,play,play_radio,លេង ស្ថានីយតន្ត្រី ខោនទ្រី,play_music,0.9992,0.0001,False
+9494,km-KH,play,play_radio,តើអ្នកអាចលេង ស្ថានីយ អេហ្វអិម ដែលលេង ចម្រៀង ប៉ុប បានទេ,qa_factoid,0.9825,0.0006,False
+9506,km-KH,play,play_radio,អូលី តោះស្ដាប់វិទ្យុ ប៉ុស្តិ៍ព្រៃស្តុក,lists_remove,0.0645,0.048,False
+9507,km-KH,play,play_radio,រក​ មើល ស្ថានីយវិទ្យុ ឥឡូវនេះ,qa_factoid,0.1414,0.0321,False
+9519,km-KH,play,play_radio,លេង ប៉ុប ប៉ុស្តិ៍ អេហ្វអិម ណាមួយ,play_music,1.0,0.0,False
+9520,km-KH,play,play_radio,បើករកលោកវេជ្ជបណ្ឌិតដែលបាន ផ្សាយក្នុងវិទ្យុ,qa_factoid,0.2226,0.0361,False
+9524,km-KH,play,play_radio,បើក កម្មវិធី លើ វិទ្យុស្រ្តី,cooking_recipe,0.372,0.0442,False
+9528,km-KH,play,play_radio,បើក n. p. r. ហើយលេងវាក្នុង ឧបករណ៍បំពងសំឡេង របស់ខ្ញុំ,play_music,0.9987,0.0004,False
+9541,km-KH,play,play_radio,លេង​ វិទ្យុ ចម្រៀង ផ្អែមល្ហែម,play_music,0.9998,0.0,False
+9542,km-KH,play,play_radio,អោយ ខ្ញុំ ស្ដាប់ កម្មវិធី វិទ្យុ ថ្មី,email_sendemail,0.7271,0.0091,False
+9545,km-KH,play,play_radio,ស្ដាប់ កម្មវិធី ប៉ុស្តិ៍ព្រៃស្តុក,recommendation_events,0.4754,0.025,False
+9554,km-KH,play,play_radio,លេង តន្រ្តី មនោសញ្ចេតនា នៅក្នុង វិទ្យុស្ត្រីមួយរយបីអេហ្វអិម,play_music,0.6096,0.0223,False
+9561,km-KH,play,play_radio,លេង ប៉ុស្តិ៍ព្រៃស្តុក នៅលើវិទ្យុ,play_music,0.9976,0.0003,False
+9562,km-KH,play,play_radio,កម្មវិធីនេះ,cooking_recipe,0.5963,0.1182,False
+9565,km-KH,play,play_radio,បើក វិទ្យុ ជាមួយ បទចម្រៀង nonstop,play_music,0.973,0.0144,False
+9568,km-KH,play,play_radio,britney spears ការប្រគុំតន្ត្រីផ្សាល់ ស៊េរី,qa_factoid,0.0924,0.0433,False
+9569,km-KH,play,play_radio,អូខេហ្គោហ្គលបើកប៉ុស្ដិ៍ មួយរយប្រាំមួយចុចប្រាំពីរ,iot_hue_lightoff,0.9107,0.0156,False
+9577,km-KH,play,play_radio,ប្ដូរប៉ុស្ដិ៍ទៅ ប៉ែតសិបពីរចុចបួន,iot_hue_lightoff,0.117,0.0839,False
+9591,km-KH,play,play_radio,ចាក់កម្មវិធីសំណូមពរបទចម្រៀង នៅលើប៉ុស្តិ៍ មួយរយបី f. m.,play_music,0.4389,0.0204,False
+9592,km-KH,play,play_podcasts,ស្វែងរក ផតខាស ដែលទាក់ទង នឹង បញ្ហារបស់បុរស,lists_remove,0.6642,0.0091,False
+9594,km-KH,play,play_radio,ចំរៀង វិទ្យុ f. m. កៅសិបបីចុចប្រាំ,lists_remove,0.3754,0.0277,False
+9601,km-KH,play,play_radio,បើក ប៉ុស្ដិ៍បែបស្រុកស្រែ,qa_factoid,0.9532,0.0181,False
+9617,km-KH,play,play_radio,លេងកម្មវិធីបង្ហាញកាលពីព្រឹកមិញ ពី មួយរយមួយចុចប្រាំបួន,play_music,0.9999,0.0,False
+9619,km-KH,play,play_radio,លេង វិទ្យុនៅក្នុងឡាន,play_music,0.9999,0.0,False
+9620,km-KH,play,play_radio,ដាក់ ប៉ុស្តិ៍ព្រៃស្តុក វិទ្យុ ក្នុង បន្ទាប់គេង,lists_remove,0.3538,0.012,False
+9629,km-KH,play,play_radio,តើអ្នកអាចខ្ញុំ ដើម្បីខ្ញុំអាចស្ដាប់ វិទ្យុ បានទេ,qa_factoid,0.9471,0.0011,False
+9630,km-KH,play,play_radio,លេង ប៉ុស្តិ៍ព្រៃស្តុក សម្រាប់ ខ្ញុំ,play_music,0.9995,0.0,False
+9632,km-KH,play,play_radio,សូមបើក វិទ្យុ,iot_hue_lightoff,0.9491,0.0108,False
+9637,km-KH,play,play_radio,បើកបញ្ជី ប៉ុស្តិ៍វិទ្យុទន្លេ,iot_hue_lightoff,0.7552,0.0043,False
+9640,km-KH,play,play_radio,បើក spotify និង បើក ចម្រៀងហាត់ប្រាណ,play_podcasts,0.8944,0.0017,False
+9651,km-KH,play,play_radio,បើក netflix នៅលើ p. s. four របស់ខ្ញុំ,qa_factoid,0.697,0.005,False
+9656,km-KH,play,play_music,ចាក់ បទ ចម្រៀងពិរោះៗ ភ្លេងញាក់ៗ ឱ្យខ្ញុំតាមរយៈ បាស របស់អ្នក,lists_remove,0.3666,0.1689,False
+9706,km-KH,play,play_music,ចាក់បទ ពេលណាអូនស្មោះ,qa_factoid,0.8341,0.001,False
+9707,km-KH,play,play_music,បើក​បទ បងខុសហើយ,play_music,0.9828,0.9828,True
+9738,km-KH,play,play_music,តើអ្នកអាចបើក តន្ត្រី ក្លាសិក អោយខ្ញុំបានទេ,qa_factoid,0.9989,0.0,False
+9793,km-KH,play,play_music,ចាក់ ចម្រៀង មនោសញ្ចេតនា,cooking_recipe,0.5792,0.0701,False
+9795,km-KH,play,play_music,បន្ត បទ បងខុសហើយ,social_post,0.2418,0.0511,False
+9912,km-KH,cooking,cooking_recipe,ស្ងោរ ស៊ុត,cooking_recipe,0.3225,0.3225,True
+9918,km-KH,cooking,cooking_recipe,ភីហ្សា របៀបណា,qa_factoid,1.0,0.0,False
+9923,km-KH,cooking,cooking_recipe,ស្ងោរ ស៊ុត,cooking_recipe,0.3225,0.3225,True
+9924,km-KH,cooking,cooking_recipe,ប្រាប់ខ្ញុំពីរូបមន្តរបស់,social_post,0.9481,0.0005,False
+9930,km-KH,cooking,cooking_recipe,ស្ងោរ ស៊ុត,cooking_recipe,0.3225,0.3225,True
+9931,km-KH,cooking,cooking_recipe,ស្ងោរ ស៊ុត,cooking_recipe,0.3225,0.3225,True
+9940,km-KH,cooking,cooking_recipe,រូបមន្ត នំសូកូឡា,social_post,0.9569,0.0015,False
+9941,km-KH,cooking,cooking_recipe,ចម្អិន មាន់ប៊ឺ ដូចម្តេច,social_post,0.2319,0.0485,False
+9942,km-KH,cooking,cooking_recipe,អ្វី ទាំងអស់ នំខេកក្រហម,lists_query,0.4631,0.0676,False
+9943,km-KH,cooking,cooking_recipe,ឡាសាញលាយបន្លែ,cooking_recipe,0.4747,0.4747,True
+9952,km-KH,cooking,cooking_recipe,ការបង្រៀនធ្វើម្ហូប,cooking_recipe,0.992,0.992,True
+9955,km-KH,cooking,cooking_recipe,វីដេអូ មាន់បំពង,play_podcasts,0.5305,0.0114,False
+9956,km-KH,cooking,cooking_recipe,ប៊ឺ,qa_factoid,0.9999,0.0,False
+9961,km-KH,cooking,cooking_recipe,អ្វី ល្អជាងគេ ឡដុត សីតុណ្ហភាព ដុត ដំឡូងបារាំង,lists_query,0.1124,0.0508,False
+9962,km-KH,cooking,cooking_recipe,អ្វី ល្អបំផុត ផាសតា,cooking_recipe,0.2398,0.2398,True
+9964,km-KH,cooking,cooking_recipe,ចំណេះដឹងអំពីការកែច្នៃអាហារ,lists_remove,0.2406,0.0227,False
+9966,km-KH,cooking,cooking_recipe,អ្វី ងាយបំផុត លតឆា,cooking_recipe,0.9964,0.9964,True
+9969,km-KH,cooking,cooking_recipe,ផ្កាស្បៃរើង,qa_factoid,0.9366,0.0358,False
+9971,km-KH,cooking,cooking_recipe,អ្វី​ដែល​ធ្វើ​ឱ្យ​មាន​កម្ដៅ​ល្អ​ជាង​ឆ្នាំង​ដែល​មាន​បាត​ស្ពាន់ ឬ​ឆ្នាំងដែលមានជាតិ​ដែក​,cooking_recipe,0.7896,0.7896,True
+9976,km-KH,cooking,cooking_recipe,បញ្ជី គ្រឿងផ្សំ ប្រហុក,calendar_remove,0.2656,0.0593,False
+9977,km-KH,cooking,cooking_recipe,វីដេអូយូធូប អ៊ីតាលី,social_post,0.2374,0.0211,False
+9979,km-KH,cooking,cooking_recipe,ចម្អិន ខ្លះ oats,cooking_recipe,0.9797,0.9797,True
+9980,km-KH,cooking,cooking_recipe,ថ្ងៃនេះ ស្ងោរបន្លែ,weather_query,0.9437,0.0049,False
+9986,km-KH,cooking,cooking_recipe,ស្ងោរ,qa_factoid,0.3915,0.0786,False
+9994,km-KH,cooking,cooking_recipe,នំប៉ាវ,social_post,0.6827,0.0058,False
+10016,km-KH,cooking,cooking_recipe,មាន់ដុតតួគី,cooking_recipe,0.3342,0.3342,True
+10019,km-KH,cooking,cooking_recipe,គុកគីស្រូវសាលី,social_post,0.8918,0.0139,False
+10023,km-KH,cooking,cooking_recipe,អ្វី ការីពពែ,qa_definition,0.3624,0.1621,False
+10027,km-KH,cooking,cooking_recipe,ការណែនាំដើម្បីធ្វើម្ហូបមួយមុខ,cooking_recipe,0.9112,0.9112,True
+10031,km-KH,cooking,cooking_recipe,រូបមន្ត គ្រឿងផ្សំ បញ្ជី ទិញទំនិញ របស់ខ្ញុំ,lists_remove,0.2451,0.0274,False
+10038,km-KH,cooking,cooking_recipe,ខ្ញុំត្រូវការគំនិតល្អៗសម្រាប់ការចម្អិនម្ហូប,lists_remove,0.8076,0.0599,False
+10045,km-KH,cooking,cooking_recipe,ស៊ុបគុយទាវសាច់មាន់,recommendation_events,0.2672,0.1534,False
+10048,km-KH,cooking,cooking_recipe,មាន់ទួរគី,social_post,0.5383,0.006,False
+10049,km-KH,cooking,cooking_recipe,សាំងវិច,cooking_recipe,0.6175,0.6175,True
+10053,km-KH,cooking,cooking_recipe,ភីហ្សា របៀបណា,qa_factoid,1.0,0.0,False
+10055,km-KH,cooking,cooking_recipe,រូបមន្ត មាន់​បំពង,social_post,0.3204,0.0316,False
+10061,km-KH,cooking,cooking_recipe,អាហារពេលល្ងាច,qa_factoid,0.6891,0.004,False
+10072,km-KH,cooking,cooking_recipe,មាន់ ឡដុត,social_post,0.5319,0.0184,False
+10076,km-KH,cooking,cooking_recipe,ម្សៅសូដាសម្រាប់ម្សៅដុតនំ,iot_hue_lightoff,0.4801,0.0336,False
+10077,km-KH,cooking,cooking_recipe,រូបមន្ត អាហារពេលល្ងាច យប់នេះ,social_post,0.6492,0.0114,False
+10078,km-KH,cooking,cooking_recipe,អ្វី អាហារពេលយប់,qa_factoid,0.3542,0.0923,False
+10080,km-KH,cooking,cooking_recipe,ប្រហិតមូល,qa_factoid,0.9978,0.0,False
+10081,km-KH,cooking,cooking_recipe,ប្រហិតមូល,qa_factoid,0.9978,0.0,False
+10090,km-KH,cooking,cooking_recipe,រូបមន្ត ត្រីធូណា,social_post,0.9239,0.0033,False
+10093,km-KH,cooking,cooking_recipe,ឡាសាញ,qa_factoid,0.9784,0.0,False
+10097,km-KH,cooking,cooking_recipe,ប៊ឺហ្គឺឈីស,qa_factoid,0.9823,0.0003,False
+10099,km-KH,cooking,cooking_recipe,ការី,qa_factoid,0.8892,0.0079,False
+10100,km-KH,cooking,cooking_recipe,រូបមន្ត បាយចំហុយ,qa_factoid,0.9559,0.0195,False
+10105,km-KH,cooking,cooking_recipe,សាច់គោអាំង,iot_hue_lightoff,0.4299,0.1131,False
+10107,km-KH,cooking,cooking_recipe,រូបមន្ត ផាក់ឡូវ,cooking_recipe,0.3995,0.3995,True
+10119,km-KH,cooking,cooking_recipe,មាន់ទួរគី,social_post,0.5383,0.006,False
+10125,km-KH,cooking,cooking_recipe,តើអ្វីជាភាពខុសគ្នារវាងដុតនិងអាំង,cooking_recipe,0.2593,0.2593,True
+10132,km-KH,cooking,cooking_recipe,សាច់គោអាំង,iot_hue_lightoff,0.4299,0.1131,False
+10150,km-KH,cooking,cooking_recipe,ថាកូ,qa_factoid,0.9971,0.0,False
+10156,km-KH,cooking,cooking_recipe,ម្ទេសចំហុយ,iot_hue_lightoff,0.7328,0.0115,False
+10164,km-KH,cooking,cooking_recipe,តើខ្ញុំធ្វើម្ហូបស្ងោរជ្រក់ប្រើរយៈពេលប៉ុន្មាន,cooking_recipe,0.9998,0.9998,True
+10166,km-KH,cooking,cooking_recipe,រូបមន្ត នំផ្លែប៉ោម,email_query,0.09,0.0732,False
+10171,km-KH,cooking,cooking_recipe,អ្វី រូបមន្ត ស៊ុបត្រី,cooking_recipe,0.4591,0.4591,True
+10177,km-KH,cooking,cooking_recipe,មីសួររបៀបណា,qa_factoid,0.992,0.0065,False
+10182,km-KH,cooking,cooking_recipe,ស៊ុត ស៊ុតចៀន,qa_factoid,0.31,0.0995,False
+10197,km-KH,cooking,cooking_recipe,បង្ហាញ រូបមន្ត ស្ប៉ាហ្គេតទី ល្អបំផុត,iot_hue_lightoff,0.8002,0.0051,False
+10206,km-KH,cooking,cooking_recipe,អង្ករ,qa_factoid,0.9677,0.0014,False
+10213,km-KH,cooking,cooking_recipe,បញ្ជី ល្បី បាយ រូបមន្ត,qa_factoid,0.3758,0.0124,False
+10214,km-KH,cooking,cooking_recipe,រូបមន្តធ្វើម្ហូបដែលអាចចម្ពិនក្នុងរយៈពេល​មួយម៉ោង,cooking_recipe,0.9996,0.9996,True
+10216,km-KH,cooking,cooking_recipe,ស្វែងរកក្នុងគេហទំព័រដើម្បីទិញឧបករណ៍ដុតនំម៉ាហ្វិន,qa_factoid,0.182,0.0635,False
+10217,km-KH,cooking,cooking_recipe,រូបមន្ត ការី ក្នុង ធ្វើម្ហូប,cooking_recipe,0.9908,0.9908,True
+10220,km-KH,cooking,cooking_recipe,ដុត នំខេក,qa_factoid,0.539,0.0157,False
+10224,km-KH,cooking,cooking_recipe,វាត្រូវតែមានរសជាតិឆ្ងាញ់,qa_factoid,0.7791,0.0024,False
+10226,km-KH,cooking,cooking_recipe,រូបមន្ត លតឆា,social_post,0.3466,0.038,False
+10426,km-KH,lists,lists_query,តើមានអ្វីផ្សេងទៀតដែលបាត់នៅក្នុងកំណត់ហេតុប្រចាំថ្ងៃ,lists_query,0.064,0.064,True
+10427,km-KH,lists,lists_remove,សូមសម្អាត បញ្ជី ទិញអីវ៉ាន់ របស់ខ្ញុំ,calendar_remove,0.5089,0.1674,False
+10430,km-KH,lists,lists_remove,លុបមុខទំនិញ ទីមួយ ចេញពី បញ្ជី,calendar_remove,0.5239,0.2227,False
+10433,km-KH,lists,lists_remove,បញ្ជី កិច្ចការ របស់ខ្ញុំ,email_sendemail,0.9999,0.0,False
+10440,km-KH,lists,lists_query,កម្មវធីពិសេស ណា បញ្ជី របស់ខ្ញុំ,email_sendemail,1.0,0.0,False
+10442,km-KH,lists,lists_remove,លុបព្រឹត្តិការណ៍ចេញពីបញ្ជីរបស់ខ្ញុំ,calendar_remove,0.4854,0.1302,False
+10444,km-KH,lists,lists_remove,លុបវត្ថុ,cooking_recipe,0.244,0.1875,False
+10451,km-KH,lists,lists_query,ថ្ងៃនេះ,weather_query,0.841,0.001,False
+10455,km-KH,lists,lists_query,អ្វី​ដែល​មាន​នៅ​ក្នុង បញ្ជី ការងារត្រូវធ្វើ របស់ខ្ញុំ,lists_query,0.2418,0.2418,True
+10462,km-KH,lists,lists_remove,បញ្ជី,calendar_remove,0.7685,0.0237,False
+10493,km-KH,lists,lists_query,បញ្ជី ការងាររបស់ខ្ញុំ,email_sendemail,0.9836,0.0006,False
+10494,km-KH,lists,lists_remove,ខ្មៅដៃ កន្លែងទុកសម្ភារប្រើប្រាស់,cooking_recipe,0.4164,0.3245,False
+10497,km-KH,qa,qa_factoid,សណ្ឋាគារផ្កាយប្រាំ ប៉ារីស,qa_factoid,0.775,0.775,True
+10508,km-KH,lists,lists_remove,លុបទំនិញក្នុង បញ្ជី,calendar_remove,0.7173,0.1309,False
+10512,km-KH,lists,lists_query,បង្ហាញអ្វីគ្រប់យ៉ាងដែលនៅសល់នៅលើសំណួររបស់ខ្ញុំ,social_post,0.8112,0.0196,False
+10523,km-KH,lists,lists_remove,អង់គ្លេសចាស់,social_post,0.6893,0.0014,False
+10525,km-KH,lists,lists_remove,លុបការបង់ប្រាក់ឡាន របស់ខ្ញុំ នៅលើប្រតិទិន របស់ខ្ញុំ,lists_remove,0.4786,0.4786,True
+10527,km-KH,lists,lists_remove,បញ្ជី,calendar_remove,0.7685,0.0237,False
+10534,km-KH,lists,lists_query,តើ បញ្ជី ការងារ ថ្ងៃនេះ មើលទៅយ៉ាងម៉េចដែរ,weather_query,0.7321,0.0096,False
+10538,km-KH,lists,lists_query,សូមធ្វើ បញ្ជី មុខទំនិញ របស់ខ្ញុំ ឡើងវិញ,cooking_recipe,0.9942,0.0003,False
+10565,km-KH,lists,lists_remove,លុប បញ្ជី ទាំងអស់។,calendar_remove,0.473,0.3508,False
+10568,km-KH,lists,lists_remove,បទចម្រៀងពីដើម,play_music,0.3781,0.0308,False
+10570,km-KH,lists,lists_query,បញ្ជី ការងារ របស់ខ្ញុំ,email_sendemail,0.9998,0.0,False
+10571,km-KH,lists,lists_query,android,iot_hue_lightoff,0.2324,0.0685,False
+10577,km-KH,lists,lists_query,ទាំងអស់ របស់ខ្ញុំ បញ្ជី,email_sendemail,0.4182,0.0079,False
+10579,km-KH,lists,lists_remove,ទីតាំង,email_query,0.1129,0.0426,False
+10588,km-KH,lists,lists_query,បង្ហាញ មាតិកា បញ្ជី,iot_hue_lightoff,0.9511,0.0014,False
+10590,km-KH,lists,lists_remove,ទីពីរ បញ្ជី,qa_factoid,0.4211,0.0262,False
+10655,km-KH,lists,lists_remove,បញ្ជី ពេលជប់លៀង,calendar_remove,0.3176,0.0164,False
+10667,km-KH,lists,lists_query,កាលវិភាគ បញ្ជី,email_sendemail,0.6991,0.0067,False
+10673,km-KH,lists,lists_remove,បញ្ជី,calendar_remove,0.7685,0.0237,False
+10674,km-KH,lists,lists_remove,បញ្ជី,calendar_remove,0.7685,0.0237,False
+10679,km-KH,lists,lists_query,តើអ្វី​ដែល​ខ្ញុំ​ត្រូវ ធ្វើ ​ក្នុង​បញ្ជី​ ថ្ងៃនេះ,cooking_recipe,0.9679,0.0074,False
+10684,km-KH,lists,lists_query,បញ្ជី ខ្ញុំ,email_sendemail,0.9757,0.0002,False
+10687,km-KH,lists,lists_remove,វា,qa_factoid,0.9718,0.001,False
+10696,km-KH,lists,lists_remove,ជំនួស,recommendation_events,0.9371,0.0016,False
+10699,km-KH,lists,lists_query,បញ្ជី,calendar_remove,0.7685,0.0048,False
+10718,km-KH,lists,lists_remove,នេះ បញ្ជី,qa_factoid,0.6028,0.0114,False
+10731,km-KH,lists,lists_query,អានអ្វីដែលមាននៅក្នុង បញ្ជី របស់ខ្ញុំ,play_music,0.8546,0.0049,False
+10743,km-KH,lists,lists_remove,នោះ,qa_factoid,0.3752,0.0356,False
+10753,km-KH,lists,lists_query,បញ្ជីផ្សារថ្មី,email_sendemail,0.3233,0.0221,False
+10755,km-KH,lists,lists_remove,របស់ខ្ញុំ ការងារត្រូវធ្វើ បញ្ជី,email_sendemail,0.9996,0.0001,False
+10756,km-KH,lists,lists_remove,ជម្រះ បញ្ជី ការដើរទិញអីវ៉ាន់,recommendation_events,0.1214,0.0481,False
+10757,km-KH,lists,lists_query,តើមុខទំនិញអ្វីខ្លះនៅលើ បញ្ជី ទិញអីវ៉ាន់ របស់ខ្ញុំ,cooking_recipe,0.224,0.0646,False
+10759,km-KH,lists,lists_query,ទិញអីវ៉ាន់,recommendation_events,0.6741,0.0081,False
+10760,km-KH,lists,lists_query,ពីរថ្ងៃ,calendar_remove,0.7261,0.0051,False
+10770,km-KH,lists,lists_remove,គ្រាប់ធញ្ញជាតិ បញ្ជី ទិញអីវ៉ាន់ របស់ខ្ញុំ,calendar_remove,0.0942,0.0514,False
+10772,km-KH,calendar,calendar_remove,ដក ការណាត់ជួបពេទ្យធ្មេញ របស់ខ្ញុំចេញពីកាលវិភាគ ថ្ងៃនេះ,calendar_remove,0.2718,0.2718,True
+10776,km-KH,lists,lists_query,តើ បញ្ជី គ្រឿងទេស របស់ខ្ញុំ ធ្វើរួចហើយឬនៅ,cooking_recipe,0.2847,0.0204,False
+10786,km-KH,lists,lists_remove,សកម្មភាព ថ្ងៃនេះ,weather_query,0.887,0.0022,False
+10790,km-KH,lists,lists_remove,លុបទំនិញចេញពី បញ្ជី របស់ខ្ញុំ,email_sendemail,0.5638,0.0533,False
+10804,km-KH,lists,lists_query,គ្រឿងទេស,qa_factoid,0.5405,0.0129,False
+10805,km-KH,lists,lists_query,បង្ហាញ បញ្ជី ខ្ញុំ,email_sendemail,0.472,0.0078,False
+10808,km-KH,lists,lists_remove,ចុងក្រោយ,calendar_remove,0.9329,0.0206,False
+10824,km-KH,lists,lists_remove,ជម្រះ បញ្ជី,email_sendemail,0.2795,0.0711,False
+10825,km-KH,lists,lists_remove,ជម្រះ បញ្ជី,email_sendemail,0.2795,0.0711,False
+10827,km-KH,lists,lists_remove,បញ្ជី ម្ហូបអាហារ,calendar_remove,0.218,0.2044,False
+10828,km-KH,lists,lists_remove,ទាំងអស់,lists_remove,0.5684,0.5684,True
+10832,km-KH,calendar,calendar_query,olly តើគម្រោងបន្ទាប់របស់ខ្ញុំជាអ្វី,qa_factoid,0.4582,0.004,False
+10843,km-KH,lists,lists_remove,ទឹកដោះគោ បញ្ជី គ្រឿងទេស របស់ខ្ញុំ,lists_remove,0.3273,0.3273,True
+10846,km-KH,lists,lists_remove,ខ្ញុំ​មិន​មាន​លុយ​គ្រប់​គ្រាន់​ដើម្បី​ទិញ nintendo switch ឥឡូវ​នេះ​ទេ តើអ្នក​អាច​ដក​វា​ចេញ​ពីបញ្ជី​ប្រាថ្នា amazon របស់​ខ្ញុំ​បាន​ទេ,qa_factoid,0.8103,0.0132,False
+10848,km-KH,lists,lists_remove,បញ្ជី នេះ,qa_factoid,0.967,0.0011,False
+10851,km-KH,lists,lists_query,តើអ្វីទៅជា បញ្ជី ដែលអាចប្រើបាន របស់ខ្ញុំ,lists_query,0.3244,0.3244,True
+10853,km-KH,lists,lists_remove,យករបស់ នោះ ទៅ ទីនោះ,qa_factoid,0.7446,0.0475,False
+10855,km-KH,lists,lists_query,បញ្ជី របស់ខ្ញុំ,email_sendemail,1.0,0.0,False
+10868,km-KH,lists,lists_query,អ្វីមួយ បញ្ជី,calendar_remove,0.1672,0.0203,False
+10887,km-KH,lists,lists_remove,លុប បញ្ជី របស់ខ្ញុំ,calendar_remove,0.8299,0.0338,False
+10895,km-KH,lists,lists_remove,លុបវត្ថុចេញពី បញ្ជី របស់ខ្ញុំ,email_sendemail,0.6961,0.0508,False
+10909,km-KH,lists,lists_query,សុភាព អានបញ្ជីរបស់ខ្ញុំឱ្យខ្ញុំស្តាប់,social_post,0.5847,0.0082,False
+10927,km-KH,lists,lists_query,អនុញ្ញាតឱ្យខ្ញុំស្តាប់ បញ្ជី របស់ខ្ញុំ,email_sendemail,0.4084,0.0059,False
+10931,km-KH,lists,lists_query,បញ្ជីបទចម្រៀង របស់ខ្ញុំ,email_sendemail,0.9999,0.0,False
+10936,km-KH,lists,lists_remove,អាល់ប៊ុមចូលចិត្ត,social_post,0.8687,0.0158,False
+10954,km-KH,lists,lists_query,បញ្ជី ខ្ញុំ បញ្ជីទំនាក់ទំនង,email_sendemail,0.9994,0.0,False
+10956,km-KH,lists,lists_query,តើមានក្រុមណាខ្លះក្នុងបញ្ជី ទំនាក់ទំនង របស់ខ្ញុំ,social_post,0.9818,0.0044,False
+10957,km-KH,lists,lists_query,រម្លឹក បញ្ជី,email_sendemail,0.9985,0.0,False
+10960,km-KH,lists,lists_remove,មួយនោះ បញ្ជី,calendar_remove,0.8647,0.0228,False
+10970,km-KH,lists,lists_remove,ចុងក្រោយ,calendar_remove,0.9329,0.0206,False
+10979,km-KH,lists,lists_query,បញ្ជី,calendar_remove,0.7685,0.0048,False
+10981,km-KH,lists,lists_query,បញ្ជី,calendar_remove,0.7685,0.0048,False
+10985,km-KH,lists,lists_remove,ការងារត្រូវធ្វើ សប្តាហ៍នេះ,cooking_recipe,0.847,0.0096,False
+10990,km-KH,lists,lists_remove,នៅលើ បញ្ជីត្រូវធ្វើ របស់ខ្ញុំ សូមលុបអំបោសផ្ទះបាយចេញ,lists_remove,0.3801,0.3801,True
+10999,km-KH,lists,lists_query,និយាយពី បញ្ជី,email_sendemail,0.9191,0.0016,False
+11023,km-KH,lists,lists_remove,បញ្ជី ការទិញអីវ៉ាន់,email_sendemail,0.2143,0.0909,False
+11024,km-KH,lists,lists_remove,លុប បញ្ជី ដែល ត្រូវធ្វើ,calendar_remove,0.7269,0.0893,False
+11053,km-KH,lists,lists_remove,កម្ចត់ បញ្ជី google,email_sendemail,0.978,0.0022,False
+11075,km-KH,lists,lists_query,បញ្ជី ខ្ញុំ,email_sendemail,0.9757,0.0002,False
+11081,km-KH,lists,lists_query,បញ្ជី របស់ខ្ញុំ,email_sendemail,1.0,0.0,False
+11085,km-KH,lists,lists_remove,យក ទឹកដោះគោ ចេញពី បញ្ជី ទិញទំនិញ,calendar_remove,0.5036,0.0801,False
+11098,km-KH,lists,lists_remove,បញ្ជី ពន្ធ មួយពាន់ប្រាំបួនរយកៅសិប,email_sendemail,0.9986,0.0002,False
+11107,km-KH,lists,lists_query,បញ្ជី បច្ចុប្បន្ន របស់ខ្ញុំ,email_sendemail,0.9999,0.0,False
+11124,km-KH,lists,lists_query,របស់ខ្ញុំ ការងារ បញ្ជី,email_sendemail,1.0,0.0,False
+11125,km-KH,lists,lists_query,​ឱ្យព័ត៌មានលម្អិតពី ការកម្មង់ ទិញមកខ្ញុំ,social_post,0.6257,0.0078,False
+11133,km-KH,lists,lists_remove,បញ្ជី ភ្ញៀវ សប្តាហ៍មុន,email_sendemail,0.9535,0.0082,False
+11154,km-KH,lists,lists_query,ពិនិត្យបញ្ជីដែល ត្រូវធ្វើ ថ្មីៗ,lists_query,0.2257,0.2257,True
+11162,km-KH,lists,lists_remove,ផ្លែប៉ោម បញ្ជី,email_sendemail,0.987,0.0016,False
+11164,km-KH,lists,lists_remove,បញ្ជី,calendar_remove,0.7685,0.0237,False
+11166,km-KH,lists,lists_query,បើក google keep,qa_factoid,0.9692,0.0006,False
+11168,km-KH,lists,lists_remove,បញ្ជី របស់ខ្ញុំ,email_sendemail,1.0,0.0,False
+11172,km-KH,lists,lists_query,បញ្ជី ទាំងអស់,calendar_remove,0.6119,0.0092,False
+11174,km-KH,lists,lists_query,រាយបញ្ជីទាំងអស់នៅលើឧបករណ៍នេះ,qa_factoid,0.8397,0.0032,False
+11180,km-KH,calendar,calendar_query,គម្រោង ពិធីជប់លៀង របស់ខ្ញុំ,email_sendemail,1.0,0.0,False
+11186,km-KH,lists,lists_query,ខ្ញុំមានបញ្ជី សំលៀកបំពាក់ របស់ខ្ញុំ,email_sendemail,0.9517,0.0016,False
+11189,km-KH,lists,lists_query,បញ្ជី,calendar_remove,0.7685,0.0048,False
+11204,km-KH,lists,lists_query,ព័ត៌មានសំខាន់ៗនៃផ្ទះ,news_query,0.937,0.0132,False
+11215,km-KH,lists,lists_query,បញ្ជី,calendar_remove,0.7685,0.0048,False
+11250,km-KH,lists,lists_query,គ្រឿងទេស,qa_factoid,0.5405,0.0129,False
+11257,km-KH,play,play_podcasts,olly ចាក់ការថតសំឡេងបន្ទាប់,play_music,0.8469,0.0084,False
+11259,km-KH,play,play_podcasts,ប្ដូរ ទៅ ផតខាសបន្ទាប់,cooking_recipe,0.2433,0.0236,False
+11261,km-KH,play,play_podcasts,បន្ទាប់,calendar_remove,0.7824,0.0065,False
+11265,km-KH,play,play_podcasts,លេង បទបន្ទាប់,play_music,0.9997,0.0,False
+11266,km-KH,play,play_podcasts,លេងផតខាសពី បណ្ណាល័យ របស់ខ្ញុំ,play_music,0.9999,0.0,False
+11267,km-KH,play,play_podcasts,រកផតខាសដែលគួរឱ្យចាប់អារម្មណ៍មួយអំពី អ្នកឈ្នះពានរង្វាន់ណូប៊ែល ចុងក្រោយ,qa_factoid,0.3202,0.0318,False
+11270,km-KH,play,play_podcasts,លេង ផតខាសបន្ទាប់,play_music,0.9998,0.0,False
+11272,km-KH,play,play_podcasts,ទៅមុខ,qa_factoid,0.9827,0.0004,False
+11279,km-KH,play,play_podcasts,ទៅកាន់ podcast ហើយលេង ភាគបន្ទាប់ ក្នុងកម្មវិធី មិត្តភ័ក្ត,play_podcasts,1.0,1.0,True
+11286,km-KH,play,play_podcasts,លេងផតខាស ប៉ុស្តិ៍ហង្សមាស,play_music,0.9977,0.0,False
+11296,km-KH,play,play_podcasts,ដាក់បញ្ចូល ផតខាស របស់ខ្ញុំ ទាំងអស់,lists_remove,0.8245,0.0051,False
+11302,km-KH,play,play_podcasts,លេង ផតខាស ប៉ុស្តិ៍ព្រៃស្តុក ចុងក្រោយ,play_music,1.0,0.0,False
+11303,km-KH,play,play_podcasts,លេង ប៉ុស្តិ៍ហង្សមាស podcast,play_podcasts,0.8476,0.8476,True
+11306,km-KH,play,play_podcasts,បើកផតខាសដែលខ្ញុំ បានស្ដាប់កាលពីម្សិលមិញ,iot_hue_lightoff,0.6308,0.0033,False
+11318,km-KH,play,play_podcasts,លេង ភាគបន្ទាប់ នៃផតខាស,play_music,0.9999,0.0,False
+11322,km-KH,play,play_podcasts,តើ podcasts ដែលឈរនៅលំដាប់កំពូល ថ្ងៃនេះ ជាអ្វី,play_podcasts,0.5844,0.5844,True
+11328,km-KH,play,play_podcasts,លេងផតខាស ពេញចិត្តឬអត់,play_music,0.9979,0.0001,False
+11331,km-KH,play,play_podcasts,បង្ហាញខ្ញុំ ភាគដែលល្អបំផុត នៃ បទចម្រៀងរ៉ុកដែលមានការវាយតម្លៃខ្ពស់,iot_hue_lightoff,0.2252,0.0352,False
+11335,km-KH,play,play_music,ចាក់ ឆ្លាស់គ្នា នូវបទចម្រៀងមនោសញ្ចេតនាទាំងអស់,lists_remove,0.6353,0.0179,False
+11339,km-KH,play,play_podcasts,លេង podcast មើលច្រើនបំផុត របស់ខ្ញុំ,play_podcasts,1.0,1.0,True
+11340,km-KH,play,play_podcasts,តើ នីកូ មាន podcast ថ្មី ទេ,play_podcasts,1.0,1.0,True
+11341,km-KH,play,play_podcasts,ស្វែងរក podcast តុក្កតា ចុងក្រោយបង្អស់,play_podcasts,1.0,1.0,True
+11343,km-KH,play,play_podcasts,ចាក់ វគ្គបន្ទាប់ នៃរឿង ផ្កាថ្ម,cooking_recipe,0.5473,0.0102,False
+11345,km-KH,play,play_podcasts,ចាក់ ភាគបន្ទាប់ នៃកម្មវិធីនេះ,lists_remove,0.383,0.028,False
+11349,km-KH,play,play_podcasts,អូលីសូមបើក ផតខាស រំលងទៅដែលខ្ញុំ បានចាប់ផ្ដើមកាលពីយប់មិញ,iot_hue_lightoff,0.8958,0.0016,False
+11353,km-KH,play,play_podcasts,បង្ហាញ ខ្ញុំ ផតខាស,iot_hue_lightoff,0.9901,0.0002,False
+11361,km-KH,play,play_podcasts,ផតខាស វិទ្យុទន្លេ សូមបើក វា,iot_hue_lightoff,0.1689,0.0263,False
+11366,km-KH,play,play_podcasts,ត្រឡប់ទៅ ភាគមុន នៃផតខាស,calendar_remove,0.1887,0.0205,False
+11368,km-KH,play,play_podcasts,លេង នីកូ podcast,play_podcasts,1.0,1.0,True
+11376,km-KH,play,play_podcasts,ខ្ញុំចង់ស្តាប់ podcast,play_podcasts,1.0,1.0,True
+11384,km-KH,play,play_podcasts,តើអ្នកអាចទាញយកឯកសារ podcast របស់ខ្ញុំដែលអាចទាញយកបានតាមអ៊ីនធឺណែត ហើយចាក់វាភ្លាមៗ,play_podcasts,0.9878,0.9878,True
+11409,km-KH,play,play_podcasts,សូមរំលងទៅ ផតខាសភាគបន្ទាប់,iot_hue_lightoff,0.7228,0.0068,False
+11417,km-KH,play,play_podcasts,ចាក់ ភាគបន្ទាប់,email_query,0.5801,0.0034,False
+11418,km-KH,play,play_podcasts,លេង ផតខាស ចុងក្រោយបង្អស់ របស់ សុគន្ធ នីសា,play_music,0.9993,0.0,False
+11420,km-KH,play,play_podcasts,ចាប់ផ្តើមលេង ផតខាស ថ្មីបំផុត របស់ខ្ញុំ,play_music,0.9997,0.0,False
+11423,km-KH,play,play_podcasts,ថយក្រោយ សាមសិបវិនាទី,iot_hue_lightoff,0.3861,0.0101,False
+11424,km-KH,play,play_podcasts,ប៉ុស្តិ៍ហង្សមាស,social_post,0.9107,0.0002,False
+11426,km-KH,lists,lists_query,បញ្ជីដែលមើលច្រើនបំផុត,social_post,0.9396,0.0025,False
+11427,km-KH,play,play_podcasts,បើកវិទ្យុ ប៉ុស្តិ៍ព្រៃស្តុក,iot_hue_lightoff,0.9595,0.0006,False
+11437,km-KH,play,play_podcasts,សូមបើក ផតខាស ឱ្យខ្ញុំ,qa_factoid,0.9902,0.0,False
+11438,km-KH,play,play_podcasts,សូមចូលទៅកាន់ ភាគបន្ទាប់ នៃផតខាស,social_post,0.2041,0.0245,False
+11442,km-KH,play,play_podcasts,សូមបើក ផតខាស របស់ ហេង ពិទូ ចុងក្រោយបង្អស់,iot_hue_lightoff,0.7038,0.0091,False
+11451,km-KH,play,play_podcasts,ខ្ញុំចង់មើល ការផ្សាយ របស់កម្មវិធី ពេញចិត្តឬអត់,recommendation_events,0.5695,0.0318,False
+11453,km-KH,play,play_podcasts,ចាប់ផ្តើម ផតខាស នៅលើ ព្រៃស្តុក,cooking_recipe,0.4282,0.0264,False
+11455,km-KH,play,play_podcasts,ប្តូរ ទៅកាន់ ផ្នែក បន្ទាប់,lists_remove,0.4408,0.0151,False
+11458,km-KH,play,play_podcasts,ប្ដូរ ទៅ ផតខាសភាគបន្ទាប់,qa_factoid,0.3267,0.0271,False
+11459,km-KH,play,play_podcasts,ត្រឡប់ទៅ ភាគមុន ក្នុងផតខាសនេះ,lists_remove,0.1526,0.0388,False
+11460,km-KH,play,play_podcasts,ខ្ញុំចង់ស្តាប់ ផតខាសកីឡា,iot_hue_lightoff,0.2865,0.0127,False
+11467,km-KH,play,play_podcasts,លេង ផតខាសថ្មីបំផុត សម្រាប់ ពេញចិត្តឬអត់,play_music,0.9955,0.0001,False
+11470,km-KH,play,play_podcasts,លេង ផតខាស សំណព្វ របស់ខ្ញុំ បានទេ,play_music,0.9996,0.0,False
+11474,km-KH,play,play_podcasts,បន្ត ផតខាស ភាគ,email_query,0.5327,0.0039,False
+11476,km-KH,play,play_podcasts,ចាក់ ផតខាសមុន,cooking_recipe,0.9027,0.0015,False
+11483,km-KH,play,play_podcasts,ឳពុកអ្នកមានបង្រៀនកូនអ្នកក្រ,social_post,0.1668,0.0376,False
+11490,km-KH,play,play_podcasts,បើកទៅ កម្មវិធីបន្ទាប់ នៅក្នុង ផតខាស,qa_factoid,0.1773,0.0268,False
+11502,km-KH,play,play_podcasts,ប៊ូតុងបន្ទាប់,qa_factoid,0.4539,0.0102,False
+11505,km-KH,play,play_podcasts,ចាក់ឡើងវិញ ផតខាស ចុងក្រោយ របស់ខ្ញុំ,cooking_recipe,0.9419,0.0024,False
+11514,km-KH,play,play_podcasts,olly តើយើងអាចស្តាប់ ព្រៃស្តុក ផតខាស,social_post,0.227,0.0091,False
+11515,km-KH,play,play_podcasts,តោះស្តាប់ ព្រៃស្តុក ផតខាស,cooking_recipe,0.1596,0.032,False
+11525,km-KH,play,play_podcasts,ខ្ញុំ ចង់ ឃើញ ផតខាសបន្ទាប់,qa_factoid,0.878,0.0016,False
+11529,km-KH,play,play_podcasts,លេង បញ្ចី ផតខាស សំណព្វ របស់ខ្ញុំ,play_music,0.998,0.0001,False
+11536,km-KH,play,play_podcasts,បន្ថែមការចូលចិត្តផតខាសទៅក្នុងបញ្ជីចាក់ហើយ ចាប់ផ្ដើមចាក់,iot_hue_lightoff,0.1539,0.0442,False
+11539,km-KH,play,play_podcasts,ចាប់ផ្ដើម ផតខាស បន្ទាប់,calendar_remove,0.2692,0.0168,False
+11546,km-KH,play,play_podcasts,បើក ប៉ុស្តិ៍ព្រៃស្តុក ពី សប្ដាហ៍មុន ទាំងអស់,qa_factoid,0.4118,0.011,False
+11554,km-KH,play,play_podcasts,សូមបើកកម្មវិធី ផតខាស,qa_factoid,0.3859,0.0173,False
+11563,km-KH,recommendation,recommendation_events,តើខ្ញុំអាចធ្វើអ្វីបាននៅ ទីក្រុងប៊ែកឡាំង,cooking_recipe,0.9992,0.0001,False
+11570,km-KH,recommendation,recommendation_events,តើមានអ្វីកើតឡើងនៅជុំវិញ ក្រុង របស់ខ្ញុំ,cooking_recipe,0.5687,0.0172,False
+11582,km-KH,recommendation,recommendation_events,ណាមួយ មរណមាតាកោះពេជ្រ,qa_factoid,0.4525,0.0476,False
+11585,km-KH,recommendation,recommendation_events,មានកម្មវិធី វប្បធម៌ ណានៅ កាលីហ្វ័រញ៉ា ឬទេ,qa_factoid,0.338,0.0249,False
+11598,km-KH,recommendation,recommendation_events,ការសម្តែងឆ្កែកម្មវិធី របស់ខ្ញុំ ស្រុកកំណើត,lists_remove,0.1052,0.0446,False
+11600,km-KH,recommendation,recommendation_events,រឿងកុន យប់នេះ ភ្នំពេញ,weather_query,0.889,0.0039,False
+11610,km-KH,recommendation,recommendation_events,សៀក ការសម្ដែង ទីក្រុង ឥឡូវ,cooking_recipe,0.5351,0.0056,False
+11612,km-KH,recommendation,recommendation_events,តើមាន ការបង្ហាញកាំភ្លើង អ្វីខ្លះនៅ tulsa,iot_hue_lightoff,0.8674,0.0047,False
+11616,km-KH,recommendation,recommendation_events,តើ​មាន​ព្រឹត្តិការណ៍​ណា​មួយ​កើត​ឡើង​នៅ​ ដោនថោន ​យប់​នេះ,qa_factoid,0.1827,0.0378,False
+11643,km-KH,recommendation,recommendation_events,ព្រឹត្តិការណ៍ ឆាប់ៗ,qa_factoid,0.4264,0.0233,False
+11644,km-KH,recommendation,recommendation_events,បង្ហាញ ខ្ញុំនូវ ព្រឹត្តិការណ៍ នៅ sacramento,social_post,0.5325,0.015,False
+11650,km-KH,recommendation,recommendation_events,ទាំង អ្នកបើកបរវ័យក្មេង និងអ្នកបើកបរបណ្តោះអាសន្ន ជួបគ្រោះថ្នាក់ញឹកញាប់ជាងអ្នកបើកបរដទៃទៀត ដោយសារពួកគេមិនទាន់មានបទពិសោធន៍ទូលំទូលាយដែលពួកគេត្រូវការ ដើម្បីបើកបរដោយសុវត្ថិភាព ការស្រាវជ្រាវរបស់ពួកគេបានបង្ហាញ បទពិសោធន៍នៃការបើកបរគឺជាកត្តាចំបងក្នុងការកាត់បន្ថយគ្រោះថ្នាក់ចរាចរណ៍ ហើយពេលវេលាដែលមានសុវត្ថិភាពបំផុតសម្រាប់អ្នកបើកបរវ័យក្មេងគឺនៅពេលដែលពួកគេកំពុងបើកបរក្រោមការត្រួតពិនិត្យខណៈពេលដែលកំពុងសិក្សា,lists_query,0.0947,0.046,False
+11681,km-KH,recommendation,recommendation_events,សូម បង្ហាញ ម៉ារ៉ាតុងនៅ ជិត ខ្ញុំ,social_post,0.5254,0.0089,False
+11685,km-KH,recommendation,recommendation_events,ខ្ញុំនឹងសប្បាយ ប្រសិនបើអ្នកធ្វើបច្ចុប្បន្នភាពឲ្យខ្ញុំអំពី កម្មវិធី ដែលកើតឡើងនៅក្នុងតំបន់របស់យើង,lists_remove,0.1162,0.0525,False
+11705,km-KH,recommendation,recommendation_events,ការតាំងពិពណ៌គំនូរ តំបន់ឆ្នេរសមុទ្រ,lists_remove,0.4194,0.0273,False
+11720,km-KH,recommendation,recommendation_events,ការហែលទឹក,iot_hue_lightoff,0.8255,0.0017,False
+11767,km-KH,recommendation,recommendation_events,កែប ចុងសប្តាហ៍នេះ,qa_factoid,0.4836,0.0213,False
+11770,km-KH,recommendation,recommendation_events,តើមានព្រឹត្តិការណ៍ណាមួយនៅ ចុងសប្តាហ៍នេះ នៅ pondicherry ទេ,weather_query,0.6499,0.0119,False
+11782,km-KH,recommendation,recommendation_events,តើមានព្រឹត្តិការណ៍ពិសេសណាមួយនៅជិតខ្ញុំ ចុងសប្តាហ៍នេះ ទេ,weather_query,0.8167,0.0039,False
+11798,km-KH,recommendation,recommendation_events,តើអ្វីជា ព្រឹត្តិការណ៍ បន្ទាប់នៅ បណ្ណាល័យ,cooking_recipe,0.2297,0.039,False
+11827,km-KH,recommendation,recommendation_events,យប់នេះ,qa_factoid,0.9731,0.0004,False
+11839,km-KH,recommendation,recommendation_events,តើមានអ្វីកើតឡើងជុំវិញខ្ញុំ,play_podcasts,0.23,0.0501,False
+11841,km-KH,recommendation,recommendation_events,តើ​មាន​ការ​តាំង ​ពិព័រណ៍​សិប្បកម្ម​ ណា​មួយ​កើត​ឡើង​នៅ​ក្នុង​តំបន់​នេះទេ,iot_hue_lightoff,0.1701,0.0353,False
+11844,km-KH,recommendation,recommendation_events,តំបន់ឆ្នេរសមុទ្រ,lists_remove,0.1805,0.0436,False
+11845,km-KH,recommendation,recommendation_events,olly ដាស់អារម្មណ៏ឡើង ជាមួយ កម្មវិធីគួរឱ្យរំភើប ខ្លះៗ នៅ bay area,iot_hue_lightoff,0.4675,0.0216,False
+11860,km-KH,recommendation,recommendation_events,ប្រាប់ ខ្ញុំពី ព្រឹត្តិការណ៍ ក្នុងស្រុក,email_sendemail,0.9452,0.0012,False
+11867,km-KH,recommendation,recommendation_events,ព្រឹត្តិការណ៍កីឡា ថ្ងៃស្អែក សៀមរាប,weather_query,0.2696,0.0333,False
+11875,km-KH,recommendation,recommendation_events,តើមាន ពិធីបុណ្យអាហារ នៅក្នុងតំបន់ទេ,qa_factoid,0.0948,0.0842,False
+11904,km-KH,recommendation,recommendation_events,នៅទីនេះ ចុងសប្តាហ៍នេះ,weather_query,0.2128,0.0316,False
+11905,km-KH,recommendation,recommendation_events,olly ប្រាប់ខ្ញុំអំពីសកម្មភាពក្នុងតំបន់របស់ខ្ញុំនៅ ចុងសប្តាហ៍នេះ,iot_hue_lightoff,0.7851,0.0018,False
+11911,km-KH,recommendation,recommendation_events,ចុងសប្តាហ៍នេះ,calendar_remove,0.4416,0.0162,False
+11916,km-KH,recommendation,recommendation_events,សួនកម្សាន្ត,qa_factoid,0.9492,0.0029,False
+11969,km-KH,recommendation,recommendation_events,តើមានអ្វីពិសេសកើតឡើងនៅក្បែរនេះទេ,qa_factoid,0.5202,0.0076,False
+11999,km-KH,recommendation,recommendation_events,ប្រាប់ខ្ញុំពីព្រឹត្តិការណ៍ទាំងអស់សម្រាប់ ថ្ងៃនេះ នៅក្នុងទីក្រុងរបស់ខ្ញុំ,news_query,0.1648,0.0299,False
+12008,km-KH,recommendation,recommendation_events,ឡស អាន់ជែលឡស ថ្ងៃនេះ,weather_query,0.9614,0.0015,False
+12054,km-KH,recommendation,recommendation_events,ជុំវិញក្រុង,lists_query,0.1148,0.0566,False
+12070,km-KH,recommendation,recommendation_events,ផ្សារសុីធីម៉ល,calendar_remove,0.3738,0.0163,False
+12073,km-KH,recommendation,recommendation_events,ព្រឹត្តិការណ៍បច្ចុប្បន្នក្នុងស្រុក,transport_query,0.0531,0.0502,False
+12098,km-KH,recommendation,recommendation_events,បង្ហាញខ្ញុំនូវ ព្រឹត្តិការណ៍តន្ត្រី នៅក្បែរនេះ,qa_factoid,0.6594,0.0094,False
+12189,km-KH,transport,transport_query,តើខ្ញុំទៅ ស្ថានីយ៍រថភ្លើង ដោយរបៀបណាដើម្បីទិញសំបុត្រ,cooking_recipe,0.6709,0.0083,False
+12240,km-KH,transport,transport_query,របស់ខ្ញុំ ផ្ទះ ម៉ោងប្រាំ,email_sendemail,0.9654,0.0008,False
+12245,km-KH,transport,transport_query,តើនៅពេលណាដែល រថភ្លើង បន្ទាប់ពី កំពត ទៅ កំពង់សោម,weather_query,0.8712,0.0041,False
+12251,km-KH,transport,transport_query,រថភ្លើង កំពត,iot_hue_lightoff,0.4694,0.0478,False
+12252,km-KH,transport,transport_query,តើរថភ្លើងទៅ ស្វាយរៀង ចេញម៉ោងប៉ុន្មាន,cooking_recipe,0.5207,0.0331,False
+12261,km-KH,transport,transport_query,រថភ្លើង បាវិត ថ្ងៃពុធ ថ្ងៃព្រហស្បតិ៍,datetime_query,0.3135,0.0082,False
+12263,km-KH,transport,transport_query,កាលីហ្វ័រញ៉ា,qa_factoid,0.8938,0.0018,False
+12264,km-KH,transport,transport_query,ញូវយ៉ក,qa_factoid,0.9759,0.0006,False
+12294,km-KH,transport,transport_query,បង្ហាញខ្ញុំពីកាលវិភាគ រថភ្លើង ទៅ ផ្ទះល្ខោនអូប៉េរ៉ា,iot_hue_lightoff,0.9908,0.0004,False
+12310,km-KH,transport,transport_query,រថភ្លើង បាវិត ប៉ោយប៉ែត,iot_hue_lightoff,0.3748,0.0254,False
+12343,km-KH,transport,transport_query,ពិនិត្យមើលពេលវេលានៃ រថភ្លើង ក្រុមហ៊ុនរ៉ូយ៉ាល់រេលវ៉េ ពី ស្ថានីយ៍​រថភ្លើង​ភ្នំពេញ នៅ ថ្ងៃអង្គារ,weather_query,0.0832,0.0507,False
+12354,km-KH,transport,transport_query,រថភ្លើង,iot_hue_lightoff,0.911,0.0056,False
+12366,km-KH,transport,transport_query,តើមាន រថភ្លើង តភ្ជាប់ពីទីក្រុង ភ្នំពេញ ទៅ ប៉ារីស ហើយម៉ោងប៉ុន្មាន,weather_query,0.5904,0.0191,False
+12367,km-KH,transport,transport_query,តើផ្លូវណាល្អបំផុតដើម្បីទៅ វត្តទួលទំពូង,recommendation_events,0.2448,0.0391,False
+12376,km-KH,transport,transport_query,មេត្រូ មណ្ឌលគិរី,email_sendemail,0.4995,0.0049,False
+12392,km-KH,transport,transport_query,សូមប្រាប់ទិសដៅ ថ្ងៃនេះ ដល់ខ្ញុំ,calendar_remove,0.3602,0.0088,False
+12402,km-KH,transport,transport_query,តើនៅពេលណាដែល រថភ្លើង បន្ទាប់ធ្វើដំណើរក្នុង ទីក្រុង ចាកចេញពី ទីនេះ,calendar_remove,0.2017,0.0318,False
+12419,km-KH,transport,transport_query,វត្តភ្នំ,email_query,0.3312,0.0299,False
+12430,km-KH,transport,transport_query,ប្រាប់ខ្ញុំពីម៉ោង រថភ្លើង មកដល់ ភ្នំពេញ,social_post,0.9873,0.0006,False
+12436,km-KH,transport,transport_query,ប្រលានយន្តហោះ,qa_factoid,0.9309,0.0023,False
+12437,km-KH,transport,transport_query,តើពេលវេលាធ្វើដំណើរទៅ រោងភាពយន្ត គឺជាអ្វី,cooking_recipe,0.6111,0.0118,False
+12446,km-KH,transport,transport_query,រថភ្លើង ស្វាយរៀង,cooking_recipe,0.4738,0.0216,False
+12473,km-KH,transport,transport_query,ផ្ទះ ទីនេះ,qa_factoid,0.7452,0.005,False
+12526,km-KH,transport,transport_query,តើអ្វីជាវិធីលឿនបំផុតដើម្បីទៅដល់ កាហ្វេអាម៉ាហ្សូន,cooking_recipe,0.9211,0.002,False
+12532,km-KH,transport,transport_query,ដឹកនាំផ្លូវទៅទីកន្លែង,transport_query,0.9858,0.9858,True
+12581,km-KH,transport,transport_query,តើនៅពេលណា រថភ្លើង រត់ ថ្ងៃនេះ,weather_query,0.9791,0.0003,False
+12582,km-KH,transport,transport_query,កង់បី ព្រឹក,cooking_recipe,0.4103,0.0205,False
+12604,km-KH,transport,transport_query,ខ្ញុំ រថភ្លើង,iot_hue_lightoff,0.8447,0.008,False
+12618,km-KH,transport,transport_query,រថភ្លើង ភ្នំពេញ,iot_hue_lightoff,0.7,0.0322,False
+12623,km-KH,transport,transport_query,តើអ្នកមានម៉ោង រថភ្លើង ចេញសម្រាប់ វាលវែង ទេ,cooking_recipe,0.1867,0.0262,False
+12629,km-KH,transport,transport_query,តើ រថភ្លើង ដំបូងចេញពី រការមាស ម៉ោងប៉ុន្មាន,lists_remove,0.2517,0.0478,False
+12634,km-KH,transport,transport_query,រថភ្លើង អូស្ទីន,iot_hue_lightoff,0.3663,0.0433,False
+12707,km-KH,transport,transport_query,ការស្វែងរកការរុករក,lists_remove,0.569,0.0168,False
+12759,km-KH,transport,transport_query,ពេលវេលានៃ ការបើកបរ ទៅ បាវិត,qa_factoid,0.6282,0.0022,False
+12797,km-KH,transport,transport_query,ម៉ោងរថភ្លើងពីទីតាំងជិតខ្ញុំទៅ ទីតាំង,iot_hue_lightoff,0.8832,0.005,False
+12800,km-KH,transport,transport_query,បណ្ណាល័យជាតិ,qa_factoid,0.7433,0.0084,False
+12817,km-KH,transport,transport_query,ឡាក់គី,social_post,0.9828,0.0001,False
+12818,km-KH,transport,transport_query,រថភ្លើង ឈីកាហ្គោ,iot_hue_lightoff,0.3726,0.0467,False
+12824,km-KH,transport,transport_query,រាយបញ្ជីម៉ោង រថភ្លើង ទាំងអស់ចេញទៅ ស្វាយចេក,lists_remove,0.1931,0.0322,False
+12835,km-KH,transport,transport_query,តើ រថភ្លើង ត្រូវចាកចេញនៅម៉ោងប៉ុន្មាន,datetime_query,0.2195,0.0834,False
+12839,km-KH,transport,transport_query,ដងព្រែក,iot_hue_lightoff,0.2804,0.036,False
+12851,km-KH,transport,transport_query,បង្ហាញ ផ្ទះ របស់ខ្ញុំ,iot_hue_lightoff,0.6696,0.0034,False
+12856,km-KH,transport,transport_query,សូមណែនាំផ្លូវ,email_sendemail,0.4337,0.0081,False
+12866,km-KH,transport,transport_query,តើអ្វីទៅជាពេលវេលានៃ វីរៈប៊ុនថាំ,weather_query,0.4742,0.0041,False
+12908,km-KH,transport,transport_query,រថភ្លើង សាក្រាម៉ង់,iot_hue_lightoff,0.5277,0.0247,False
+12930,km-KH,transport,transport_query,ហាង ជិត ខ្ញុំ,recommendation_events,0.2495,0.0258,False
+12932,km-KH,transport,transport_query,ផ្លូវ pub street,transport_query,0.2135,0.2135,True
+12951,km-KH,qa,qa_factoid,តើអគារខ្ពស់បំផុតនៅលើ ពិភពលោក ឈ្មោះអ្វី,qa_factoid,0.9821,0.9821,True
+12957,km-KH,qa,qa_definition,ន័យរបស់ ល្អិតល្អន់,lists_query,0.0928,0.048,False
+12961,km-KH,qa,qa_definition,អោយ​ និមយន័យ កោសល្យវិច្ច័យ,qa_factoid,0.6416,0.0178,False
+12963,km-KH,qa,qa_definition,តើ និយមន័យ កោសល្យវិច្ច័យ ជាអ្វី,qa_definition,0.2536,0.2536,True
+12972,km-KH,qa,qa_factoid,ពិភពលោក,qa_factoid,0.9965,0.9965,True
+12982,km-KH,qa,qa_definition,តើពាក្យថា ភាពច្របូកច្របល់ មានន័យដូចម្ដេច,email_sendemail,0.2103,0.0366,False
+12986,km-KH,qa,qa_definition,ពិនិត្យមើលនិយមន័យនៃពាក្យ តាមអំពើចិត្ត,lists_query,0.1031,0.043,False
+12999,km-KH,qa,qa_factoid,តើ ជីជី អាយុប៉ុន្មាន,qa_factoid,0.9904,0.9904,True
+13016,km-KH,qa,qa_definition,រកមើល និយមន័យ កំហុស,qa_factoid,0.3818,0.0326,False
+13023,km-KH,cooking,cooking_recipe,បង្ហាញ រូបមន្ត,iot_hue_lightoff,0.9942,0.0002,False
+13069,km-KH,qa,qa_definition,តើ ពណ៍ទឹកក្រូច មានន័យដូចម្ដេច,cooking_recipe,0.1365,0.024,False
+13074,km-KH,qa,qa_factoid,នាយក្រឹម,qa_factoid,0.9963,0.9963,True
+13077,km-KH,qa,qa_factoid,តើថ្ងៃកំណើតរបស់ សុខ នៅពេលណា,weather_query,0.9581,0.0002,False
+13078,km-KH,qa,qa_factoid,ប្រាប់ខ្ញុំពីអាសយដ្ឋាន សុខ,email_sendemail,0.9997,0.0,False
+13099,km-KH,qa,qa_factoid,នរណាជានាយករដ្ឋមន្ត្រី ចក្រភពអង់គ្លេស បច្ចុប្បន្ន,qa_factoid,0.6965,0.6965,True
+13115,km-KH,qa,qa_factoid,តើ រាជ្យធានី នីហ្សេរីយ៉ា ជាអ្វី,qa_factoid,0.5689,0.5689,True
+13124,km-KH,qa,qa_factoid,តើក្រុងភ្នំពេញមានទំហំប៉ុណ្ណា,qa_factoid,0.9382,0.9382,True
+13135,km-KH,qa,qa_factoid,តើថ្ងៃកំណើតរបស់ ចាន់ សារឿន នៅពេលណា,weather_query,0.965,0.0006,False
+13140,km-KH,qa,qa_definition,ប្រាប់ខ្ញុំទាំងអស់អំពី ខ្យល់ព្យុះ,social_post,0.6047,0.0064,False
+13154,km-KH,qa,qa_factoid,តើអ្នកស្គាល់លេខទូរស័ព្ទរបស់ ជីជី ទេ,lists_remove,0.4167,0.2777,False
+13165,km-KH,qa,qa_definition,តើ​ យោល មានន័យ ដូចម្ដេច,lists_query,0.2175,0.0573,False
+13166,km-KH,qa,qa_definition,យោល,qa_factoid,0.728,0.0029,False
+13177,km-KH,calendar,calendar_set,រំលឹកខ្ញុំឱ្យ ហាត់ប្រាណដើម្បីសម្រកទម្ងន់,calendar_remove,0.9226,0.002,False
+13178,km-KH,calendar,calendar_set,រំលឹកខ្ញុំពីការទាក់ទងទៅមិត្តភក្ដិចាស់ៗដែលខ្ញុំ មិន បាននិយាយជាមួយអស់ ប្រាំមួយ ខែមុនពួកគេចេញទៅ,social_post,0.2427,0.0327,False
+13188,km-KH,news,news_query,ភ្នំពេញ,weather_query,0.2246,0.0417,False
+13206,km-KH,qa,qa_definition,ទីតាំង,email_query,0.1129,0.0376,False
+13215,km-KH,transport,transport_query,តើអ្វីជាមធ្យោបាយលឿនបំផុតទៅ ទីប្រជុំជនការងារ របស់ខ្ញុំ ដោយមិនប៉ះពាល់ចរាចរណ៍,cooking_recipe,0.2975,0.0514,False
+13252,km-KH,qa,qa_factoid,តើថ្ងៃទីមួយខែវិច្ឆិការបស់ ប៉ែន​ ចំរុង ជាថ្ងៃអ្វី,datetime_query,0.683,0.0018,False
+13255,km-KH,qa,qa_factoid,ប្រាប់ខ្ញុំពីព័ត៌មានអំពី សុខ,email_sendemail,1.0,0.0,False
+13283,km-KH,qa,qa_factoid,ឡេងណាវ៉ាត់ត្រា,social_post,0.5108,0.1437,False
+13288,km-KH,qa,qa_definition,ជារៀងរហូត,qa_factoid,0.918,0.0012,False
+13297,km-KH,qa,qa_factoid,នរណាជាតារាល្បី,qa_factoid,0.9985,0.9985,True
+13298,km-KH,qa,qa_factoid,តើតារាល្បីធ្វើការងារអ្វី,cooking_recipe,0.9947,0.0017,False
+13330,km-KH,qa,qa_factoid,តើត្រីបាឡែនមេជីវិតឈ្មោលមានទំហំប៉ុនណា,qa_factoid,0.874,0.874,True
+13361,km-KH,qa,qa_definition,ភាពទាន់ពេលវេលា,weather_query,0.8667,0.0004,False
+13383,km-KH,qa,qa_factoid,តើមានរដ្ឋប៉ុន្មានដែលមានទោសប្រហារជីវិត,qa_factoid,0.4369,0.4369,True
+13400,km-KH,social,social_post,សារ របស់ខ្ញុំ,email_sendemail,0.9807,0.0003,False
+13439,km-KH,qa,qa_factoid,តើ សុខ មានអាយុប៉ុន្មាន,qa_factoid,0.7595,0.7595,True
+13457,km-KH,calendar,calendar_set,ប្រាប់ខ្ញុំអំពីពេលណាខ្ញុំគួរចេញតាមព្រឹត្តិការណ៍ក្នុងកាលវិភាគចឹងខ្ញុំអាចទៅទាន់ពេល,datetime_query,0.535,0.0205,False
+13473,km-KH,qa,qa_factoid,តើ សហរដ្ឋអាមេរិក នៅពេលណា,qa_factoid,0.9752,0.9752,True
+13487,km-KH,qa,qa_factoid,អូលី តើរដ្ឋធានីនៃ បាត់ដំបង ឈ្មោះអ្វី,email_query,0.5891,0.001,False
+13494,km-KH,qa,qa_definition,ផ្តល់និយមន័យនៃ ការលើកទឹកចិត្ត,iot_hue_lightoff,0.2948,0.031,False
+13506,km-KH,datetime,datetime_query,តើអ្នកអាចប្រាប់ខ្ញុំបានទេថាវាដល់ម៉ោងហើយ,social_post,0.9855,0.0016,False
+13513,km-KH,qa,qa_factoid,តើឆ្កែមានជើងប៉ុន្មាន,qa_factoid,0.4635,0.4635,True
+13516,km-KH,qa,qa_factoid,ហេតុអ្វីបានជាត្រីបាឡែនធំ,qa_factoid,0.6894,0.6894,True
+13546,km-KH,qa,qa_factoid,តើភាពយន្តចុងក្រោយរបស់ ខៃ ប្រសិទ្ធិ ទៅជាយ៉ាងណា,iot_hue_lightoff,0.8663,0.0287,False
+13554,km-KH,qa,qa_factoid,តើ ទេព រិនដារ៉ូ មានកម្ពស់ប៉ុន្មាន,qa_factoid,0.7106,0.7106,True
+13575,km-KH,qa,qa_factoid,ពេលណាដែលភាពយន្តដែលឈ្នះពានរង្វាន់ចុងក្រោយ,calendar_remove,0.2901,0.0643,False
+13580,km-KH,qa,qa_factoid,ឱរ៉ាល់,qa_factoid,0.9988,0.9988,True
+13591,km-KH,qa,qa_factoid,តើអ្វីជារាជធានីរបស់ កម្ពុជា,lists_query,0.85,0.0081,False
+13592,km-KH,qa,qa_factoid,នូវែលសេឡង់,social_post,0.5969,0.0877,False
+13604,km-KH,qa,qa_factoid,steve jobs,email_query,0.7972,0.0096,False
+13607,km-KH,qa,qa_factoid,ពា ឈាងលី,qa_factoid,0.8748,0.8748,True
+13616,km-KH,qa,qa_factoid,តើតារាល្បីៗភាគច្រើនដើរលេងនៅឯណា,play_music,0.4837,0.0875,False
+13619,km-KH,recommendation,recommendation_events,តើ​មាន​ព្រឹត្តិការណ៍ឥតគិតថ្លៃណា​មួយ​នៅ​ក្នុង​តំបន់​របស់​ខ្ញុំ​ ថ្ងៃ​នេះ ទេ,weather_query,0.1845,0.0277,False
+13625,km-KH,qa,qa_definition,អ្វីជា តុធំជាងគេ,qa_factoid,0.2959,0.0449,False
+13636,km-KH,qa,qa_factoid,តើអ្វីទៅជាថ្ងៃខួបកំណើតរបស់ សេង សុវណ្ណ,weather_query,0.319,0.0326,False
+13679,km-KH,qa,qa_factoid,តើអ្នកអាចប្រាប់ខ្ញុំបានទេថា គោមួយក្បាលមានក្រពះប៉ុន្មាន,qa_factoid,0.5416,0.5416,True
+13681,km-KH,qa,qa_factoid,patrick stewart,email_query,0.9751,0.0006,False
+13683,km-KH,qa,qa_factoid,តើប្រើថ្នាំបាញ់សក់ម៉ាកអ្វី,cooking_recipe,0.9694,0.0092,False
+13689,km-KH,qa,qa_definition,តើ កៅអី ជាអ្វី,cooking_recipe,0.9927,0.0057,False
+13690,km-KH,qa,qa_factoid,តើកៅអីមានពណ៌អ្វី,iot_hue_lightoff,0.968,0.0049,False
+13693,km-KH,qa,qa_factoid,តើព្រីមមេរីឌាននៅឯណា,qa_definition,0.6636,0.3341,False
+13705,km-KH,qa,qa_definition,តើ ប្រព័ន្ធបំភាយអេឡិចត្រូនិច គឺជាអ្វី,qa_definition,0.9262,0.9262,True
+13706,km-KH,qa,qa_definition,រ៉ូទ័រ,qa_factoid,0.7648,0.0061,False
+13714,km-KH,qa,qa_definition,តើ ស្វាយ ជាអ្វី,cooking_recipe,0.5765,0.2299,False
+13717,km-KH,qa,qa_factoid,កម្ពុជា ភ្នំពេញ,social_post,0.2369,0.0442,False
+13758,km-KH,qa,qa_factoid,តើ សុខ មានអាយុប៉ុន្មាន,qa_factoid,0.7595,0.7595,True
+13761,km-KH,qa,qa_factoid,តើអ្វីទៅជា ញែក,cooking_recipe,0.9614,0.0033,False
+13774,km-KH,qa,qa_factoid,តើ កាលីហ្វ័រញ៉ា ឆ្ងាយពី ហ្សកហ្ស៊ី,social_post,0.552,0.0893,False
+13777,km-KH,qa,qa_definition,អ្នកអាចពណ៌នាអំពី កាត​ឥណទាន បានទេ,qa_factoid,0.9436,0.032,False
+13780,km-KH,qa,qa_factoid,តើ សាន សុគន្ធា រៀបការហើយឬ,qa_factoid,0.9492,0.9492,True
+13798,km-KH,qa,qa_factoid,តើប្រទេសជាមធ្យមនៅលើផែនដីមានប៉ុន្មានម៉ាយការ៉េ,qa_factoid,0.9036,0.9036,True
+13799,km-KH,qa,qa_definition,តើអ្វីទៅជានិយមន័យនៃ ប្រធានបទ,qa_definition,0.9479,0.9479,True
+13823,km-KH,qa,qa_factoid,តើព្រះអាទិត្យនៅឆ្ងាយប៉ុន្មាន,qa_factoid,0.423,0.423,True
+13853,km-KH,qa,qa_factoid,កន្លែងណានៅលើផែនដីមានភ្នំភ្លើងច្រើនបំផុត,lists_query,0.0918,0.0496,False
+13854,km-KH,qa,qa_factoid,តើ អេលវីស ស្លាប់ ពេលណា,qa_factoid,0.6285,0.6285,True
+13863,km-KH,qa,qa_definition,តក្ក,qa_factoid,0.975,0.0008,False
+13867,km-KH,qa,qa_factoid,តើ រមណីយដ្ឋានគីរីរម្យ នៅឯណា,qa_definition,0.9786,0.0184,False
+13869,km-KH,qa,qa_factoid,សូមហ្គូហ្គលទីតាំង និងព័ត៌មាននៃ ភ្នំរ៉ាស់ម៉,social_post,0.2862,0.0266,False
+13871,km-KH,qa,qa_definition,រីករាយ​ថ្ងៃ​កំណើត,calendar_remove,0.7461,0.0066,False
+13881,km-KH,qa,qa_factoid,សូមប្រាប់ខ្ញុំពីព័ត៌មានរបស់ សុខ,social_post,0.6948,0.001,False
+13888,km-KH,qa,qa_factoid,សៀមរាប,qa_factoid,0.9991,0.9991,True
+13895,km-KH,qa,qa_factoid,តើអ្នកអាចប្រាប់ខ្ញុំអំពី ចាន់ វតនាការ បានទេ,social_post,0.988,0.0057,False
+13900,km-KH,qa,qa_definition,អត្ថន័យនៃ ជីវិត,lists_query,0.3014,0.0229,False
+13907,km-KH,qa,qa_definition,អោយ និយមន័យ ភ្ញាក់ផ្អើល,iot_hue_lightoff,0.1357,0.0333,False
+13908,km-KH,qa,qa_definition,flabbergasted,qa_factoid,0.355,0.0345,False
+13926,km-KH,qa,qa_factoid,ទេព បូព្រឹក្ស,qa_factoid,0.9943,0.9943,True
+13927,km-KH,qa,qa_factoid,តើ សុខ មានតម្លៃប៉ុន្មាន,qa_factoid,0.1723,0.1723,True
+13974,km-KH,qa,qa_factoid,ឡាវ,qa_factoid,0.9657,0.9657,True
+13983,km-KH,qa,qa_definition,ក្រុម​ត​ន្រ្តី suffering consequences,qa_factoid,0.2457,0.0409,False
+13984,km-KH,qa,qa_definition,ផលវិបាកនៃសកម្មភាព,qa_definition,0.2142,0.2142,True
+13997,km-KH,qa,qa_factoid,តើផ្ទះមធ្យមមានតម្លៃប៉ុន្មាន,iot_hue_lightoff,0.3186,0.2092,False
+14000,km-KH,qa,qa_definition,ពិពណ៌នាអំពី ភាពខ្ជិលច្រអូស,iot_hue_lightoff,0.1781,0.0358,False
+14001,km-KH,qa,qa_factoid,ប្រាប់ខ្ញុំនូវអ្វីគ្រប់យ៉ាងដែលអ្នកដឹងអំពីស្លុត,social_post,0.3224,0.0159,False
+14011,km-KH,qa,qa_factoid,តើអ្វីជា ថ្ងៃកំណើត របស់ សុខ,calendar_remove,0.1691,0.0304,False
+14015,km-KH,qa,qa_factoid,តើអ្វីជាកូអរដោនេនៃ អេក្វាទ័រ,cooking_recipe,0.9029,0.0592,False
+14023,km-KH,qa,qa_definition,នរក,email_sendemail,0.3213,0.0095,False
+14033,km-KH,qa,qa_factoid,ហ៊ុនសែន,social_post,0.8992,0.0506,False
+14038,km-KH,qa,qa_factoid,តើទីតាំងរបស់ ម៉ូឡូវ៉ា នៅឯណា,social_post,0.6176,0.0972,False
+14040,km-KH,qa,qa_factoid,តើ ហ៊ុល ហូហ្ក័ន មានកំពស់ប៉ុន្មាន,qa_factoid,0.7274,0.7274,True
+14053,km-KH,qa,qa_factoid,ជច ឃ្លូនី,social_post,0.65,0.0893,False
+14063,km-KH,qa,qa_factoid,តើ​ ថ្ងៃកំណើត របស់ អេលវីស ព្រេស៍លី ពេលណា,weather_query,0.9789,0.0011,False
+14083,km-KH,qa,qa_factoid,តើ ទេព រិនដារ៉ូ នៅរស់ទេ,social_post,0.9904,0.0081,False
+14096,km-KH,qa,qa_factoid,តើ ភ្នំតាម៉ៅ ឋិតនៅឯណា,qa_factoid,0.3933,0.3933,True
+14115,km-KH,qa,qa_definition,ខ្សាច់គ្រួស,iot_hue_lightoff,0.1384,0.0333,False
+14116,km-KH,qa,qa_definition,ខ្សាច់ថ្ម,qa_factoid,0.3597,0.0194,False
+14117,km-KH,qa,qa_factoid,តើ ប្រាសាទអង្គវត្ត មានទីតាំងនៅឯណា,recommendation_events,0.8575,0.0948,False
+14118,km-KH,qa,qa_factoid,បង្ហាញ ពី ភូមិសាស្ត្រ ពីរ៉ាមីត ជាកលាក,iot_hue_lightoff,0.9962,0.0005,False
+14126,km-KH,qa,qa_factoid,បង្ហាញជីវប្រវត្តិរបស់ នីកូ,iot_hue_lightoff,0.9906,0.0004,False
+14138,km-KH,qa,qa_definition,សូមប្រាប់ខ្ញុំពីនិយមន័យនៃ ស៊ីឡាំង,social_post,0.9704,0.0004,False
+14147,km-KH,qa,qa_definition,និយមន័យនៃ ភួយ,qa_factoid,0.5106,0.0123,False
+14150,km-KH,qa,qa_definition,ស្បែកជើងជជែក,iot_hue_lightoff,0.215,0.0167,False
+14151,km-KH,qa,qa_factoid,តើវ៉ែនតាប្រភេទណាខ្លះដែលគេចាត់ទុកថាជាអ្នកបើកយន្តហោះ,qa_factoid,0.4834,0.4834,True
+14154,km-KH,qa,qa_factoid,ព័តមាន អាហ្វ្រិក,qa_factoid,0.9245,0.9245,True
+14163,km-KH,qa,qa_factoid,ស្វែងរក មូលដ្ឋាន,lists_remove,0.3395,0.2245,False
+14169,km-KH,qa,qa_factoid,តើ អាម៉ាល ក្លូននី ទៅមហាវិទ្យាល័យនៅឯណា,qa_factoid,0.8018,0.8018,True
+14170,km-KH,qa,qa_factoid,គីម កាដាសៀន,recommendation_events,0.313,0.0497,False
+14179,km-KH,qa,qa_factoid,តើ កាណាដា ស្ថិតនៅចម្ងាយប៉ុន្មានពីទីតាំងបច្ចុប្បន្ន របស់ខ្ញុំ,social_post,0.3153,0.0364,False
+14214,km-KH,transport,transport_query,ស្វែងរកមធ្យោបាយធ្វើដំណើរដូចគ្នា,qa_factoid,0.3049,0.0136,False
+14229,km-KH,qa,qa_factoid,តើរឿងអ្វីដែល ទេព រិនដារ៉ូ បានសម្ដែង,qa_factoid,0.1765,0.1765,True
+14243,km-KH,qa,qa_factoid,ព័ត៌មានលម្អិតអំពីបុគ្គល,email_query,0.3009,0.0227,False
+14272,km-KH,qa,qa_definition,សៀវភៅ អ្វី,cooking_recipe,0.9131,0.0043,False
+14283,km-KH,qa,qa_factoid,ប្រាប់ ខ្ញុំ ពី ចៃពួរ,social_post,0.9995,0.0,False
+14306,km-KH,qa,qa_factoid,ឥណ្ឌា,qa_factoid,0.9531,0.9531,True
+14308,km-KH,qa,qa_factoid,តើទ្រព្យសម្បត្តិរបស់ លីអូណាដូ ឌីខាព្រីអូ ប៉ុន្មាន,recommendation_events,0.2856,0.0354,False
+14316,km-KH,qa,qa_factoid,តើ ភ្នំពេញ មានទំហំប៉ុន្មាន,qa_factoid,0.3091,0.3091,True
+14317,km-KH,qa,qa_factoid,តើសហរដ្ឋអាមេរិកមានទំហំប៉ុនណា,qa_factoid,0.8379,0.8379,True
+14323,km-KH,qa,qa_factoid,តើផ្លែស្រកានាគមានពណ៌អ្វី,iot_hue_lightoff,0.7171,0.0092,False
+14330,km-KH,qa,qa_factoid,តើ ស្ទីវ ចប កើតនៅឯណា,cooking_recipe,0.4876,0.191,False
+14347,km-KH,qa,qa_definition,តើអ្វីជា សម្មតិកម្ម,cooking_recipe,0.8674,0.031,False
+14354,km-KH,qa,qa_factoid,តើអ្វីជាចម្លើយចំពោះសកលលោក,cooking_recipe,0.4598,0.1096,False
+14355,km-KH,qa,qa_factoid,តើសំបកខ្យងសមុទ្រជាច្រើនអាចលក់បាននៅមាត់សមុទ្រ,lists_query,0.4555,0.1321,False
+14370,km-KH,qa,qa_factoid,ប្រាប់ខ្ញុំពីអាជីពរបស់តារា,email_sendemail,0.7326,0.0006,False
+14378,km-KH,qa,qa_definition,និយមន័យនៃ ល្បឿន,iot_hue_lightoff,0.673,0.0045,False
+14382,km-KH,qa,qa_factoid,តើអាគាររដ្ឋរបស់ចក្រភពមានទំហំប៉ុនណា,qa_factoid,0.7297,0.7297,True
+14395,km-KH,qa,qa_factoid,តើអ្វីជាចំណុចជ្រៅបំផុតនៅលើផែនដី,lists_query,0.721,0.0073,False
+14414,km-KH,qa,qa_definition,ពិពណ៌នាអំពី ថាសរឹងកុំព្យូទ័រ,lists_remove,0.1681,0.0428,False
+14417,km-KH,qa,qa_factoid,មហាសមុទ្យមួយណាដែលជាប់និងទ្វីបរបស់យើង,qa_factoid,0.2122,0.2122,True
+14419,km-KH,qa,qa_factoid,អម្ពរទេវី,qa_factoid,0.5431,0.5431,True
+14429,km-KH,qa,qa_definition,តើ caftan ជាអ្វី,qa_factoid,0.6097,0.3829,False
+14440,km-KH,qa,qa_factoid,តើរដ្ឋធានីនៃប្រទេស ម៉ិកស៊ិក ឈ្មោះអ្វី,qa_factoid,0.9956,0.9956,True
+14442,km-KH,qa,qa_factoid,តើ អង្គវត្ត នៅឯណា,qa_factoid,0.8702,0.8702,True
+14444,km-KH,qa,qa_factoid,ចាន់ត្រា,qa_factoid,0.4441,0.4441,True
+14449,km-KH,qa,qa_factoid,តើ ព្រាប សុវត្តិ មាន កូនមួយទៀតឬ,qa_factoid,0.1641,0.1641,True
+14457,km-KH,qa,qa_factoid,ស្វែងរកផ្លូវ,lists_remove,0.439,0.0233,False
+14465,km-KH,transport,transport_query,ទិសដៅទៅ នោងឫស្សី,lists_remove,0.1254,0.0318,False
+14490,km-KH,qa,qa_factoid,តើ សាលមហោស្រពចតុមុខ បាន កសាង នៅ ពេលណា,weather_query,0.3596,0.108,False
+14498,km-KH,qa,qa_definition,ទូរស័ព្ទដៃ,qa_factoid,0.6557,0.0156,False
+14504,km-KH,qa,qa_factoid,អូលី តើ មហាត្មៈ គន្ធី បានធ្វើកិច្ចប្រជុំប៉ុន្មានដង,qa_factoid,0.9455,0.9455,True
+14505,km-KH,qa,qa_factoid,កម្ពុជា,email_query,0.3673,0.0221,False
+14508,km-KH,qa,qa_factoid,សូមសង្ខេបព័ត៌មានចុងក្រោយបំផុតរបស់ចចអម៉ាទីន សៀវភៅទឹកកកនិងភ្លើង,news_query,0.3024,0.0183,False
+14509,km-KH,qa,qa_factoid,មហាត្មៈ គន្ធី,qa_factoid,0.9996,0.9996,True
+14539,km-KH,qa,qa_factoid,ស្វែងរកព័ត៌មានលម្អិតភូមិសាស្ត្រនៃកន្លែងនេះ,news_query,0.2516,0.0289,False
+14545,km-KH,qa,qa_factoid,ប្រាប់ខ្ញុំអំពីទីតាំងប្រទេស កម្ពុជា,social_post,0.786,0.0066,False
+14567,km-KH,qa,qa_factoid,តើភ្នំភ្លើងសកម្មធំបំផុតនៅលើ ផែនដី ឈ្មោះអ្វី,iot_hue_lightoff,0.9516,0.0062,False
+14585,km-KH,qa,qa_factoid,ធ្វើដំណើរ ជប៉ុនកូរ៉េខាងត្បូង,social_post,0.3968,0.2208,False
+14591,km-KH,qa,qa_definition,ផ្តល់ឱ្យខ្ញុំនូវការពិពណ៌នាអំពី សៀគ្វីទូរទស្សន៍,iot_hue_lightoff,0.3752,0.0073,False
+14592,km-KH,qa,qa_definition,សៀគ្វីទូរស័ព្ទ,cooking_recipe,0.1363,0.0231,False
+14597,km-KH,qa,qa_factoid,តើចំនួនប្រជាជននៃទីក្រុង ភ្នំពេញ មានប៉ុន្មាន,lists_query,0.7944,0.135,False
+14601,km-KH,qa,qa_factoid,តើ abraham lincoln ជាប្រធានាធិបតីសហរដ្ឋអាមេរិករយៈពេលប៉ុន្មានឆ្នាំ,social_post,0.5685,0.1103,False
+14605,km-KH,qa,qa_factoid,តើ ចន ច័ន្ទលក្ខិណា ចាកចេញពី យុត្ថារ៉ា ឆាន្នី,lists_remove,0.6381,0.0308,False
+14608,km-KH,qa,qa_factoid,ទេព រិនដារ៉ូ,social_post,0.8943,0.0838,False
+14622,km-KH,qa,qa_definition,ពិពណ៌នាអំពី រង្វង់ ជាអ្វី,email_sendemail,0.2826,0.0308,False
+14648,km-KH,cooking,cooking_recipe,រូបមន្ត,qa_factoid,0.9135,0.0038,False
+14653,km-KH,qa,qa_factoid,តើ ប្រជាជន ​រុស្ស៊ី មាន​ ប៉ុន្មាន,social_post,0.8816,0.0159,False
+14661,km-KH,qa,qa_factoid,barack obama,social_post,0.9992,0.0001,False
+14668,km-KH,qa,qa_definition,ពិពណ៌នាធាតុ អ៊ិចវ៉ាយ,lists_remove,0.1549,0.0427,False
+14683,km-KH,qa,qa_factoid,អ្វីជាទម្លាប់របស់ ឈុំ សកល,cooking_recipe,0.9594,0.0019,False
+14684,km-KH,qa,qa_factoid,កម្ពុជា,email_query,0.3673,0.0221,False
+14690,km-KH,qa,qa_definition,ប្រធាន,qa_factoid,0.9991,0.0002,False
+14700,km-KH,qa,qa_definition,ជ័រប៉ះធ្មេញ,weather_query,0.1118,0.036,False
+14701,km-KH,qa,qa_definition,ល្បែងបៀរបេះដូង,recommendation_events,0.5338,0.0096,False
+14705,km-KH,qa,qa_factoid,បេននី យ៉ាំង,email_query,0.5565,0.0057,False
+14706,km-KH,qa,qa_factoid,សូហ្វៀ វេហ្គារ៉ា,social_post,0.8887,0.0646,False
+14746,km-KH,qa,qa_factoid,កម្ពុជា,email_query,0.3673,0.0221,False
+14761,km-KH,qa,qa_definition,សម្តេចសង្ឃ,qa_factoid,0.6961,0.0051,False
+14767,km-KH,qa,qa_definition,តើអ្នកនឹងពណ៌នាយ៉ាងណាអំពី បាល់,social_post,0.9605,0.0007,False
+14770,km-KH,qa,qa_factoid,ប្រាប់ខ្ញុំពីមហាសមុទ្រធំបំផុតលើ ពិភពលោក,social_post,0.676,0.0139,False
+14787,km-KH,qa,qa_factoid,តើអ្វីជាភាពខុសគ្នារវាងប្រតិទិនរ៉ូម៉ាំង និងប្រតិទិនហ្គ្រេហ្គោរៀន,qa_definition,0.4161,0.0587,False
+14791,km-KH,qa,qa_factoid,តើអ្វីជាសមាសភាពនៃកៅអី,cooking_recipe,0.7279,0.1266,False
+14794,km-KH,qa,qa_factoid,អ៊ុន សិទ្ធា,qa_factoid,0.4123,0.4123,True
+14822,km-KH,qa,qa_factoid,ដើម្បីប្រៀបធៀបមនុស្ស,qa_factoid,0.8003,0.8003,True
+14838,km-KH,qa,qa_factoid,តើអ្វីជាតម្រងដង់ស៊ីតេអព្យាក្រឹត ហើយខ្ញុំចង់បានជម្រាលមួយ ឬរឹងមួយផងដែរ ដែលវានឹងប្រសើរជាងនៅក្នុងរចនាប័ទ្មរវាងវីសនៅលើមួយ និងការ៉េ,recommendation_events,0.0745,0.0322,False
+14857,km-KH,qa,qa_definition,តើអ្នកអាចពន្យល់ខ្ញុំពីពាក្យ ហួសហេតុ បានទេ,qa_factoid,0.5527,0.0034,False
+14877,km-KH,qa,qa_factoid,តើ​តំបន់​នោះ​មាន​លក្ខខណ្ឌ​អាកាសធាតុ​យ៉ាង​ដូចម្តេច,lists_query,0.1387,0.0534,False
+14879,km-KH,qa,qa_definition,អត្ថន័យនៃ,datetime_query,0.4872,0.0279,False
+14884,km-KH,qa,qa_factoid,តើ អ្វីដែល ជា ព្យុះ នៅ សហរដ្ឋ​អា​មេ​រិ​ក ជាអ្វី,qa_definition,0.9751,0.0049,False
+14889,km-KH,qa,qa_definition,សូមពណ៌នាវត្ថុនោះសម្រាប់ខ្ញុំ,email_sendemail,0.6719,0.0025,False
+14891,km-KH,qa,qa_factoid,តើបុគ្គលនោះពូកែក្នុងវិស័យណា,qa_factoid,0.9891,0.9891,True
+14912,km-KH,qa,qa_factoid,តើប្រធានាធិបតី មាស សុខសោភា កើតនៅឯណា,qa_factoid,0.8596,0.8596,True
+14917,km-KH,qa,qa_factoid,ពេលណា អាលប៉ុម របស់ ខេមរៈ សិរីមន្ត ចេញ,qa_factoid,0.9858,0.9858,True
+14933,km-KH,qa,qa_factoid,ប្រាប់ខ្ញុំពីព័ត៌មានអំពីភូមិសាស្ត្ររបស់ ប្រទេសកម្ពុជា,email_sendemail,0.9976,0.0,False
+14939,km-KH,qa,qa_factoid,ខ្ញុំត្រូវការព័ត៌មានលម្អិតខ្លះៗអំពី លី​ស៊ា​វ​ឡុ​ង សូមជួយប្រាប់ផង,social_post,0.565,0.0156,False
+14981,km-KH,qa,qa_definition,ការពិពណ៌នា iphone seven,qa_factoid,0.3879,0.0104,False
+14994,km-KH,qa,qa_factoid,អ្វីទៅជាភាពយន្តបន្ទាប់របស់ ទេព រិនដារ៉ូ,social_post,0.5262,0.0347,False
+14995,km-KH,qa,qa_definition,ស្ថានភាព,iot_hue_lightoff,0.2995,0.021,False
+15020,km-KH,qa,qa_factoid,តើ ហ៊ុន សែន មានអាយុប៉ុន្មាន,qa_factoid,0.988,0.988,True
+15039,km-KH,qa,qa_factoid,ភ្នំជីសូរ,social_post,0.4102,0.0425,False
+15055,km-KH,qa,qa_factoid,តើប៉ូលមួយណាត្រជាក់ជាងខាងត្បូង ឬខាងជើង,iot_hue_lightoff,0.9243,0.0073,False
+15056,km-KH,qa,qa_factoid,អិមម៉ា វ៉ាត់សុន,social_post,0.9071,0.0512,False
+15062,km-KH,qa,qa_factoid,សុគន្ធ នីសា,email_query,0.7352,0.0138,False
+15075,km-KH,qa,qa_factoid,អូលី កន្លែងណាដែលជនជាតិអាមេរិកដំបូងតាំងទីលំនៅ,social_post,0.104,0.0413,False
+15092,km-KH,qa,qa_definition,ទូរទស្សន៍ samsung,play_music,0.5785,0.003,False
+15094,km-KH,qa,qa_factoid,ស្វែងរកចំនួនប្រជាជនដែលរស់នៅក្នុង ប្រទេសកម្ពុជា,lists_query,0.8819,0.0133,False
+15095,km-KH,qa,qa_factoid,តើតំបន់ណាដែលស្ថិតនៅ ភ្នំពេញ,lists_query,0.1547,0.0354,False
+15127,km-KH,qa,qa_definition,និយមន័យ វាគ្មិន,qa_factoid,0.92,0.026,False
+15155,km-KH,social,social_post,គណនីហ្វេសប៊ុក,social_post,0.9947,0.9947,True
+15166,km-KH,social,social_post,ធ្វិតថឺរ,qa_factoid,0.9448,0.0021,False
+15177,km-KH,social,social_post,ធ្វិតថឺរ,qa_factoid,0.9448,0.0021,False
+15185,km-KH,social,social_post,ថ្ងៃកំណើត,weather_query,0.9414,0.0012,False
+15186,km-KH,social,social_post,អាពាហ៍ពិពាហ៍,email_sendemail,0.3035,0.0122,False
+15187,km-KH,social,social_post,ចែករំលែកក្នុងការបង្ហោះរបស់មិត្តភក្តិ,calendar_remove,0.3751,0.0063,False
+15197,km-KH,social,social_post,ធ្វិតថឺរ ការទស្សកិច្ចរបស់ខ្ញុំ ប្រទេសជប៉ុន,social_post,0.7387,0.7387,True
+15208,km-KH,social,social_post,ហ្វេសប៊ុក,social_post,0.9937,0.9937,True
+15213,km-KH,news,news_query,ពេញនិយម ឥឡូវនេះ,iot_hue_lightoff,0.4788,0.0069,False
+15214,km-KH,news,news_query,ថ្ងៃនេះ,weather_query,0.841,0.001,False
+15216,km-KH,social,social_post,បង្ហោះសារ,qa_factoid,0.9401,0.0012,False
+15231,km-KH,social,social_post,អ៊ីនស្តាក្រាម,qa_factoid,0.9817,0.0045,False
+15271,km-KH,social,social_post,ហ្វេសប៊ុក,social_post,0.9937,0.9937,True
+15275,km-KH,social,social_post,ហ្វេសប៊ុក,social_post,0.9937,0.9937,True
+15276,km-KH,social,social_post,ហ្វេសប៊ុក អាកាសធាតុល្អ,qa_factoid,0.7761,0.1531,False
+15289,km-KH,social,social_post,សារ,qa_factoid,0.5646,0.0077,False
+15305,km-KH,calendar,calendar_query,តើ ខ្ញុំ មានការជូនដំណឹង ណាមួយ ពីប្រព័ន្ធផ្សព្វផ្សាយសង្គមឬទេ,lists_query,0.2433,0.0241,False
+15318,km-KH,social,social_post,ថ្ងៃកំណើត,weather_query,0.9414,0.0012,False
+15337,km-KH,social,social_post,នេះ វីដេអូ ហ្វេសប៊ុក,social_post,0.9253,0.9253,True
+15350,km-KH,social,social_post,ឡាក់គីម៉ល,social_post,0.9854,0.9854,True
+15358,km-KH,social,social_post,ផ្ញើរសារក្រុមហ៊ុនអាយវន,lists_remove,0.2228,0.0456,False
+15359,km-KH,social,social_post,បង្ហោះ អេផល,iot_hue_lightoff,0.5249,0.0035,False
+15364,km-KH,social,social_post,អាម៉ាហ្សូន,qa_factoid,0.7012,0.2473,False
+15382,km-KH,social,social_post,សាមសុង,social_post,0.6379,0.6379,True
+15387,km-KH,social,social_post,បង្ហោះសារ របស់ខ្ញុំ,lists_remove,0.4493,0.0103,False
+15399,km-KH,social,social_post,ការត្អូញត្អែរ មិត្តហ្វូន បញ្ហាពាក់ព័ន្ធនឹងបណ្តាញ,social_post,0.1167,0.1167,True
+15401,km-KH,social,social_post,ធ្វិតថឺរ សារ,qa_factoid,0.8091,0.0103,False
+15402,km-KH,social,social_post,បង្ហោះសារ,qa_factoid,0.9401,0.0012,False
+15409,km-KH,social,social_post,twitter របស់ខ្ញុំ នៅសេវាបម្រើអតិថិជន,social_post,0.9974,0.9974,True
+15413,km-KH,social,social_post,ទៅតាមមនុស្សឲ្យខ្ញុំឲ្យបានឆាប់បំផុត,social_post,0.2876,0.2876,True
+15444,km-KH,social,social_post,ទំលាក់ ចុះ នៅឡាក់គី,lists_remove,0.46,0.0137,False
+15448,km-KH,social,social_post,សារ សូនី,email_query,0.2649,0.0207,False
+15454,km-KH,social,social_post,បង្ហោះសារ ក្រុមហ៊ុនអាកាសចរណ៍យូណាយធីត,iot_hue_lightoff,0.0686,0.0636,False
+15456,km-KH,social,social_post,សារក្រុមហ៊ុនអាកាសចរណ៍ឡានមុី,social_post,0.4593,0.4593,True
+15457,km-KH,social,social_post,បង្ហោះ ឡាក់គី,calendar_remove,0.66,0.0063,False
+15459,km-KH,social,social_post,ធ្វិតថឺរ,qa_factoid,0.9448,0.0021,False
+15464,km-KH,social,social_post,សារ ក្រុមហ៊ុនវីរះ ប៊ុនថាម,social_post,0.8457,0.8457,True
+15467,km-KH,social,social_post,ទូរគមនាគមន៍កម្ពុជា,social_post,0.5121,0.5121,True
+15472,km-KH,social,social_post,បង្ហោះ ហាងសៀវភៅអនឡាញ,cooking_recipe,0.3168,0.019,False
+15487,km-KH,social,social_post,បង្ហោះសារ kohls,qa_factoid,0.2989,0.013,False
+15488,km-KH,social,social_post,បង្ហោះ នៅភីហ្សាហត,iot_hue_lightoff,0.4956,0.0032,False
+15503,km-KH,social,social_post,សារសេវាកម្មអ្នកប្រើប្រាស់,recommendation_events,0.9155,0.0027,False
+15508,km-KH,social,social_post,ធ្វិតថឺរ,qa_factoid,0.9448,0.0021,False
+15518,km-KH,social,social_post,បង្ហោះ ឡាក់គី,calendar_remove,0.66,0.0063,False
+15532,km-KH,social,social_post,បង្ហោះសារ ផ្សារសូរិយា,lists_remove,0.1634,0.0365,False
+15546,km-KH,social,social_post,បង្ហោះសារ,qa_factoid,0.9401,0.0012,False
+15548,km-KH,social,social_post,បង្ហោះ បណ្តឹងចល័ត តាម tweet ទៅ samsung,calendar_remove,0.1504,0.0797,False
+15553,km-KH,social,social_post,បង្ហោះសារ សេវាកម្មdaikin,qa_factoid,0.301,0.0285,False
+15554,km-KH,social,social_post,ផ្ញើរសារសេវាកម្មជេអុិនថី ពន្យាពេល,qa_factoid,0.2065,0.0353,False
+15556,km-KH,social,social_post,បង្ហោះសារ,qa_factoid,0.9401,0.0012,False
+15557,km-KH,social,social_post,បង្ហោះសារ,qa_factoid,0.9401,0.0012,False
+15560,km-KH,social,social_post,ហ្វេសប៊ុក,social_post,0.9937,0.9937,True
+15565,km-KH,social,social_post,្ហក្រុមហ៊ុនអេឡិចត្រូនិចសុីធី,social_post,0.6803,0.6803,True
+15587,km-KH,social,social_post,សាល​រូបភាព រូបភាព ឈ្មោះ,email_query,0.844,0.0022,False
+15592,km-KH,social,social_post,បង្ហោះ តវ៉ា នៅឡាក់គី,cooking_recipe,0.3598,0.0255,False
+15593,km-KH,social,social_post,ផ្ញើរសារ តវ៉ា ទូរគមនាគមន៍កម្ពុជា,social_post,0.4263,0.4263,True
+15598,km-KH,social,social_post,ឈ្មោះក្រុមហ៊ុន,email_sendemail,0.9974,0.0003,False
+15610,km-KH,social,social_post,បង្ហោះសារ ដូច​ខាងក្រោម​ការ​តាមដាន​អាក្រក់​ខ្លាំង​ណាស់​ ក្រុមហ៊ុន a. b. c.មិនពេញចិត្ត របស់ខ្ញុំ,lists_remove,0.1436,0.0449,False
+15618,km-KH,social,social_post,បង្ហោះសារ esurance,iot_hue_lightoff,0.682,0.0118,False
+15626,km-KH,social,social_post,បង្ហោះសារ comcast,iot_hue_lightoff,0.9584,0.0009,False
+15634,km-KH,social,social_post,បង្ហោះសារ,qa_factoid,0.9401,0.0012,False
+15635,km-KH,social,social_post,បង្ហោះសារ,qa_factoid,0.9401,0.0012,False
+15647,km-KH,social,social_post,បង្ហោះសារ,qa_factoid,0.9401,0.0012,False
+15651,km-KH,social,social_post,សេវាបម្រើអតិថិជន,recommendation_events,0.2904,0.0211,False
+15652,km-KH,social,social_post,សេវាបម្រើអតិថិជន,recommendation_events,0.2904,0.0211,False
+15655,km-KH,social,social_post,បង្ហោះសារ,qa_factoid,0.9401,0.0012,False
+15656,km-KH,social,social_post,បង្ហោះសារ suqcom ដឹកជញ្ជូន,iot_hue_lightoff,0.5534,0.0175,False
+15661,km-KH,social,social_post,របស់ខ្ញុំ ធ្វិតថឺរ នៅឡាក់គី,email_sendemail,1.0,0.0,False
+15670,km-KH,social,social_post,បង្ហោះសារ,qa_factoid,0.9401,0.0012,False
+15672,km-KH,social,social_post,បង្ហោះសារ អេផល,qa_factoid,0.6205,0.0094,False
+15676,km-KH,social,social_post,ការតវ៉ា សារសួនអេដេន,qa_factoid,0.2807,0.1475,False
+15686,km-KH,social,social_post,សួស្តី អីវ៉ាន់ដែលខ្ញុំបានទិញពីមនុស្សម្នាក់បានអស់ស្តុកហើយ,email_query,0.1242,0.0669,False
+15693,km-KH,social,social_post,បង្ហោះសារ,qa_factoid,0.9401,0.0012,False
+15700,km-KH,social,social_post,ផលិតផលហួសសុពលភាពលើទីផ្សារបច្ចុប្បន្ន,social_post,0.316,0.316,True
+15703,km-KH,social,social_post,ធ្វិតថឺរ ថេនអុីឡេវេន,social_post,0.6284,0.6284,True
+15706,km-KH,social,social_post,បង្ហោះសារ,qa_factoid,0.9401,0.0012,False
+15707,km-KH,social,social_post,សារ,qa_factoid,0.5646,0.0077,False
+15708,km-KH,social,social_post,បង្ហោះការតវ៉ាពីសេវាកម្មក,iot_hue_lightoff,0.252,0.0842,False
+15721,km-KH,social,social_post,បង្ហោះសារ mcdonalds,lists_remove,0.3805,0.0165,False
+15723,km-KH,social,social_post,កំណត់ ហ្វេសប៊ុក,social_post,0.9961,0.9961,True
+15731,km-KH,social,social_post,បង្ហោះ ហាងប៊ឺគឺឃីង,iot_hue_lightoff,0.9953,0.0001,False
+15732,km-KH,social,social_post,បង្ហោះសារ samsung,lists_remove,0.3063,0.0251,False
+15736,km-KH,social,social_post,បញ្ជូនការពិនិត្យអវិជ្ជមានអំពីក្រុមហ៊ុន,lists_remove,0.1032,0.048,False
+15756,km-KH,email,email_sendemail,សូមផ្ញើ អ៊ីមែល មក ក្រុម របស់ខ្ញុំ,email_sendemail,0.9978,0.9978,True
+15763,km-KH,email,email_query,សូមចែក អ៊ីមែល ថ្មី ៗ,lists_remove,0.6433,0.0028,False
+15765,km-KH,email,email_sendemail,ឆ្លើយតប អ៊ីមែល ទៅ ហេង,qa_factoid,0.7028,0.0025,False
+15777,km-KH,email,email_query,ប្រាប់ ខ្ញុំប្រសិនបើ ខ្ញុំ មាន អ៊ីមែល ថ្មី,email_sendemail,0.9984,0.0008,False
+15785,km-KH,email,email_query,តើមានអ្វីថ្មីនៅក្នុងប្រអប់សំបុត្ររបស់ខ្ញុំទេ,cooking_recipe,0.3041,0.02,False
+15789,km-KH,email,email_query,olly តើខ្ញុំមាន អ៊ីមែល ថ្មី ណាមួយ ទេ,social_post,0.7712,0.0939,False
+15792,km-KH,calendar,calendar_query,ខ្ញុំ ការប្រជុំ ថ្ងៃនេះ,email_sendemail,0.4501,0.0085,False
+15796,km-KH,email,email_sendemail,អ៊ីមែល ទៅ ធារី,qa_factoid,0.9009,0.0058,False
+15802,km-KH,email,email_sendemail,ឆ្លើយតប អ៊ីមែល ទៅ សុខ ថាខ្ញុំ នឹងមិនមក យប់នេះ ទេ,weather_query,0.9268,0.0016,False
+15809,km-KH,email,email_query,សុខ មិនទាន់បានផ្ញើ អ៊ីមែល មកខ្ញុំនៅឡើយ,qa_factoid,0.3015,0.0229,False
+15825,km-KH,email,email_sendemail,ឆ្លើយតប ទៅ ប៉ា សរសេរថាខ្ញុំនឹងយឺត,qa_factoid,0.9218,0.0016,False
+15828,km-KH,email,email_sendemail,នេះជាអាសយដ្ឋានអ៊ីមែលថ្មីដែលត្រូវរក្សាទុកដើម្បីទំនាក់ទំនង,lists_remove,0.3425,0.0323,False
+15829,km-KH,email,email_sendemail,ចូលទៅកាន់ បញ្ជីទំនាក់ទំនង ហើយបញ្ចូលអាសយដ្ឋានអ៊ីមែលថ្មី,social_post,0.5237,0.0226,False
+15839,km-KH,email,email_query,ប្រធានបទ,qa_factoid,0.9048,0.0058,False
+15841,km-KH,email,email_sendemail,រៀបចំ ផ្ញើ អ៊ីមែល ថ្មី មួយ ទៅ សុខ,cooking_recipe,0.2186,0.0138,False
+15845,km-KH,email,email_sendemail,តើយើងបានទទួលតាមរបៀបណា,qa_factoid,0.9511,0.0019,False
+15847,km-KH,email,email_sendemail,យើងទទួលបានឥណ្ឌទានរបៀបណា,qa_factoid,1.0,0.0,False
+15849,km-KH,email,email_sendemail,ផ្ញើ អ៊ីមែល ទៅ ថៅកែ របស់ខ្ញុំ,email_sendemail,0.5431,0.5431,True
+15857,km-KH,email,email_sendemail,សូមផ្ញើទៅកាន់អាសយដ្ឋាន អ៊ីមែល ថ្មី ដែលរាយក្នុងបញ្ជី,social_post,0.3311,0.0285,False
+15862,km-KH,email,email_query,ចែកមើល អ៊ីមែល ដែល ម៉ាក់ បានផ្ញើមក,calendar_remove,0.6715,0.0053,False
+15880,km-KH,email,email_query,សូមឆែកមើលសាររបស់ខ្ញុំ,social_post,0.8718,0.0015,False
+15890,km-KH,email,email_query,ពិនិត្យ​ មើល ប្រសិនបើ ខ្ញុំ មាន​ អ៊ីមែល ថ្មី ណាមួយ ពី​ ប៉ា របស់ខ្ញុំ,iot_hue_lightoff,0.129,0.0412,False
+15904,km-KH,email,email_query,ពិនិត្យមើលអ៊ីមែលថ្មីរបស់ខ្ញុំ ហើយប្រាប់ខ្ញុំថាតើ ពួកគេ និយាយអំពីអ្វី,social_post,0.8444,0.0058,False
+15906,km-KH,email,email_sendemail,ឆ្លើយតប សូមអរគុណ ទៅ សុខ,calendar_remove,0.6697,0.0125,False
+15911,km-KH,email,email_sendemail,រៀបចំ អ៊ីមែល ទៅ ធារី,iot_hue_lightoff,0.269,0.01,False
+15933,km-KH,email,email_query,តើ ខ្ញុំ មាន​ អ៊ីមែល ថ្មី ​អ្វី​ខ្លះ,lists_query,0.5923,0.1267,False
+15942,km-KH,email,email_sendemail,ផ្ញេីអ៊ីមែ៉លនេះដើម្បីតបទៅ​ អ៊ីម៉ែល ចុងក្រោយបង្អស់,calendar_remove,0.3467,0.0221,False
+15950,km-KH,email,email_sendemail,ឆ្លើយតប អ៊ីមែល ទៅ សុខ,qa_factoid,0.4747,0.0052,False
+15957,km-KH,email,email_sendemail,អ៊ីមែល ធារី ដើម្បីឱ្យនាងដឹងថាយើងកំពុងធ្វើដំណើរ,email_sendemail,0.953,0.953,True
+15963,km-KH,email,email_query,តើ ខ្ញុំ មាន អ៊ីមែល ថ្មី ណាមួយ ពី សុខ ទេ,lists_query,0.2616,0.0874,False
+15966,km-KH,email,email_query,ផ្ញើការឆ្លើយតបប្រសិនបើវាមានសារៈសំខាន់ណាស់,lists_remove,0.336,0.0125,False
+15968,km-KH,email,email_query,បើសារនោះមកពីប្រភពស្រដៀងគ្នា សូមដាក់់ថាសំខាន់,qa_factoid,0.6854,0.0066,False
+15970,km-KH,email,email_query,តើអ្វីទៅជាប្រធានបទនៃអ៊ីមែលចុងក្រោយពី ម៉ាក់,cooking_recipe,0.3074,0.0146,False
+15971,km-KH,email,email_query,តើអ្វីជាអ៊ីមែលចុងក្រោយពីការងារ,cooking_recipe,0.9226,0.0162,False
+15994,km-KH,email,email_sendemail,ផ្ញើ អ៊ីមែល ទៅ សុខ សួរគាត់ថាតើម៉ោងប៉ុន្មានមាន ការប្រជុំ,qa_factoid,0.1424,0.0586,False
+15995,km-KH,email,email_sendemail,ធារី អ៊ីមែល អំពី ការប្រជុំថវិការ,email_sendemail,0.2527,0.2527,True
+15998,km-KH,email,email_query,ពិនិត្យ អ៊ីមែល របស់ខ្ញុំ សម្រាប់អ្វីមួយពីឈ្មោះ,email_sendemail,0.9952,0.002,False
+16002,km-KH,email,email_query,ពិនិត្យមើល អ៊ីមែល ថ្មី,qa_factoid,0.6458,0.0163,False
+16005,km-KH,email,email_sendemail,ផ្ញើ អ៊ីមែល ទៅ គឹម ឈាង,calendar_remove,0.2741,0.0117,False
+16010,km-KH,email,email_query,ប្រាប់ ខ្ញុំ ប្រសិនបើ ខ្ញុំ មាន សារ ណាមួយ ថ្មី នៅក្នុង ប្រអប់សំបុត្រ របស់ខ្ញុំ,email_sendemail,0.8775,0.0078,False
+16024,km-KH,email,email_sendemail,ផ្ញើ អ៊ីមែល ទៅ សុខ និយាយថាខ្ញុំរវល់ ថ្ងៃស្អែក,email_sendemail,0.9985,0.9985,True
+16028,km-KH,email,email_sendemail,ហេ សីរី ចាប់ផ្ដើម អ៊ីមែល ទៅ មិត្តរួមការងារ,social_post,0.1313,0.0416,False
+16029,km-KH,email,email_sendemail,សូមបង្កើត អ៊ីម៉ែល ថ្មីមួយផ្ញើទៅ មិត្តរួមការងារ,iot_hue_lightoff,0.4527,0.0198,False
+16032,km-KH,email,email_sendemail,សូមផ្ញើ អ៊ីមែល ទៅ សុខ ទាក់ទងនឹង ការប្រជុំ នៅ ថ្ងៃស្អែក,calendar_remove,0.6196,0.0178,False
+16038,km-KH,email,email_query,ហេ សុខ បានផ្ញើ អ៊ីមែល ណាមួយ មកខ្ញុំនាពេលថ្មីៗនេះ,calendar_remove,0.1791,0.1206,False
+16045,km-KH,email,email_sendemail,ផ្ញើ អ៊ីមែល ទៅ សុខ សម្រាប់តារាងម៉ោងបើកការិយាល័យ,calendar_remove,0.4105,0.0908,False
+16048,km-KH,email,email_query,បង្ហាញ អ៊ីមែល ថ្មី មកខ្ញុំ,iot_hue_lightoff,0.8101,0.0054,False
+16049,km-KH,email,email_sendemail,ខ្ញុំចង់ផ្ញើ អ៊ីមែល ទៅ គ្រួសារ របស់ខ្ញុំតើអ្នកអាចជួយខ្ញុំទេ,recommendation_events,0.3578,0.023,False
+16050,km-KH,email,email_query,ពិនិត្យ gmail,email_sendemail,0.9471,0.0529,False
+16052,km-KH,email,email_query,ឆែកមើល outlook,iot_hue_lightoff,0.967,0.0005,False
+16056,km-KH,email,email_sendemail,ឆ្លើយតប ទៅ អ៊ីមែល,qa_factoid,0.9958,0.0001,False
+16061,km-KH,email,email_query,ខ្ញុំបានទទួលអ៊ីមែលណាមួយនៅក្នុង ដប់នាទីមុន,iot_hue_lightoff,0.3174,0.0154,False
+16072,km-KH,email,email_sendemail,ផ្ញើ អ៊ីមែល ទៅ ប្រធាន របស់ខ្ញុំថា ថ្ងៃនេះ ខ្ញុំនឹងទៅយឺតដោយសារតែមានរឿងបន្ទាន់ ហើយសូមសុំទោសគាត់ដែលខ្ញុំមិនបានចូលរួម កិច្ចប្រជុំ,weather_query,0.1758,0.0762,False
+16075,km-KH,email,email_query,បង្ហាញ អ៊ីមែល ថ្មីៗ ពី សុខ,iot_hue_lightoff,0.9232,0.0033,False
+16082,km-KH,email,email_sendemail,ផ្ញើអ៊ីមែលទៅ សុខ ហើយ សួរគាត់ គាត់មិចហើយ តើខ្ញុំអាខធ្វើអ្វីមួយដើម្បីជួយគាត់បានទេ,cooking_recipe,0.324,0.0473,False
+16089,km-KH,email,email_query,តើ ខ្ញុំ បានទទួលអ៊ីមែលថ្មីក្នុងរយៈពេល ដប់នាទីមុន ឬអត់,lists_query,0.3358,0.0787,False
+16096,km-KH,email,email_query,តើ ធារី មានបានផ្ញើ អ៊ីមែល ណាមួយ ថ្មីទែ,cooking_recipe,0.2427,0.0261,False
+16098,km-KH,email,email_query,ឆែកមើល អ៊ីមែល ពី ធារី ដែលខ្ញុំមិនទាន់បានអាន,social_post,0.7008,0.0113,False
+16100,km-KH,email,email_query,សូមពិនិត្យមើល អ៊ីមែល ដែលមានបញ្ជីការងារ,qa_factoid,0.9705,0.0027,False
+16103,km-KH,email,email_sendemail,ផ្ញើ អ៊ីមែល ទៅ ប្អូនប្រុស របស់ខ្ញុំ ហើយនិយាយថារីករាយ ខួបអាពាហ៍ពិពាហ៍,lists_remove,0.2913,0.2606,False
+16120,km-KH,email,email_sendemail,ជនួយផ្ញើទៅ ធារី តែប៉ុណ្ណោះ,qa_factoid,0.8194,0.0055,False
+16131,km-KH,email,email_sendemail,ត្រូវរក្សាទុកអ៊ីមែលថ្មីនេះក្នុងការទំនាក់ទំនងរបស់ខ្ញុំ,email_sendemail,0.6459,0.6459,True
+16145,km-KH,email,email_query,បង្ហាញ ខ្ញុំ អ៊ីមែល ដែលថ្មីៗបំផុត,iot_hue_lightoff,0.979,0.0006,False
+16146,km-KH,news,news_query,ផ្តល់ឱ្យខ្ញុំនូវការអាប់ដេតចុងក្រោយបំផុត,calendar_remove,0.2745,0.0076,False
+16148,km-KH,email,email_sendemail,ឆ្លើយតប យ៉ាងរហ័ស ទៅ សីហា ដូច្នេះសូមផ្ញើ សារ មួយ,calendar_remove,0.8561,0.0031,False
+16151,km-KH,email,email_query,ពិនិត្យមើល កាលវិភាគ ប្រជុំ នៅក្នុង អ៊ីមែល ថ្ងៃនេះ,iot_hue_lightoff,0.3299,0.0316,False
+16162,km-KH,email,email_sendemail,ផ្ញើការ ឆ្លើយតប,qa_factoid,0.942,0.0012,False
+16163,km-KH,email,email_query,អ្នកណា បានផ្ញើ អ៊ីមែល មកខ្ញុំ ម្សិលមិញ,social_post,0.9473,0.0167,False
+16165,km-KH,email,email_query,តើ និសា មានបានឆ្លើយតបទេ,qa_factoid,0.9211,0.0006,False
+16166,km-KH,email,email_sendemail,តើអ្នកអាចឆ្លើយតបទៅ ធារី ថា ខ្ញុំជាប់រវល់ក្នុងគម្រោងផ្សេងៗ នៅ បីសប្ដាហ៍ក្រោយ,qa_factoid,0.971,0.001,False
+16168,km-KH,email,email_query,តើមានអ៊ីមែលថ្មីផ្ញើចូលមក ក្នុងរវាង ដប់ប្រាំនាទី នេះទេ,iot_hue_lightoff,0.2226,0.0351,False
+16170,km-KH,email,email_query,បើ ប្រអប់សារ ដើម្បី​ឆែកមើល សារ ដែលមិនទាន់អាន,recommendation_events,0.5696,0.0061,False
+16178,km-KH,email,email_query,តើ មាន អ៊ីមែល ពី amazon ថ្ងៃនេះ ទេ,qa_factoid,0.9245,0.0349,False
+16183,km-KH,email,email_query,ឆែក អ៊ីមែល ការងារ របស់ខ្ញុំ,email_sendemail,0.7356,0.1476,False
+16201,km-KH,email,email_sendemail,សូមចូល អ៊ីមែល ថ្មីសម្រាប់ សុខ ហើយនិងផ្ញើ សារ ឥឡូវនេះ,lists_remove,0.2729,0.1301,False
+16221,km-KH,email,email_sendemail,ទាញយក អ៊ីមែល របស់ធារី ហើយសរសេរថាខ្ញុំនឹងប្រាប់នាងឱ្យដឹង,email_sendemail,0.9482,0.9482,True
+16245,km-KH,email,email_sendemail,ផ្ញើ អ៊ីមែល ទៅ joe at a. o. l. dot com,email_sendemail,1.0,1.0,True
+16248,km-KH,email,email_query,សូមពិនិត្យមើល សារ របស់ខ្ញុំ,qa_factoid,0.9857,0.0006,False
+16263,km-KH,email,email_query,តើ ខ្ញុំ មានបានទទួល អ៊ីមែល ថ្មី ណាមួយ ពី សុខ ទេ,qa_factoid,0.2503,0.1053,False
+16266,km-KH,email,email_sendemail,សរសេរអ៊ីមែលទៅ គ្រួសារ របស់ខ្ញុំដោយនិយាយថាខ្ញុំស្រលាញ់អ្នកទាំងអស់គ្នា,email_sendemail,0.9504,0.9504,True
+16271,km-KH,email,email_query,ធ្វើ​ឱ្យ ប្រអប់សំបុត្រ ​របស់ខ្ញុំ ថ្មីឡើង​វិញ ហើយ ប្រាប់ខ្ញុំ អំពី អ៊ីមែល ថ្មី ៗ,cooking_recipe,0.4557,0.0367,False
+16275,km-KH,email,email_query,ចាប់ផ្តើមការបោះឆ្នោតសម្រាប់ អ៊ីមែល ថ្មី,qa_factoid,0.2003,0.0323,False
+16276,km-KH,email,email_query,តើ ខ្ញុំ មាន អ៊ីមែល ថ្មី ទេ,email_query,0.719,0.719,True
+16280,km-KH,email,email_sendemail,សូមផ្ញើអ៊ីមែល ទៅ ម៉ី តើមានអ្នកណា ក្នុង បញ្ជី គ្រួសារ និង មិត្តភក្តិ ទេ,social_post,0.2555,0.0214,False
+16282,km-KH,email,email_sendemail,ផ្ញើសារអេឡិចត្រូនិចមួយ ទៅ ជំនួយការ ធារី ដើម្បី លុបចោល ការណាត់ជួប នៅ ថ្ងៃស្អែក,iot_hue_lightoff,0.9679,0.0008,False
+16296,km-KH,email,email_sendemail,ផ្ញើ អ៊ីមែល ទៅ ម៉ាក់ ប្រាប់ គាត់ អំពី ពិធីជប់លៀងថ្ងៃខួបកំណើត របស់សុខ គឺ នៅ ថ្ងៃអាទិត្យ,social_post,0.352,0.1535,False
+16297,km-KH,email,email_sendemail,ផ្ញើ សារ ទៅ សុខ ដើម្បីប្រាប់គាត់ថា អរគុណ,lists_remove,0.3386,0.3206,False
+16314,km-KH,email,email_sendemail,ផ្ញើ អ៊ីមែល ទៅ ធារី,calendar_remove,0.8198,0.0057,False
+16317,km-KH,email,email_query,តើ ខ្ញុំ បានទទួល អ៊ីមែលថ្មី ពី ធារី ទេ,qa_factoid,0.3476,0.1493,False
+16318,km-KH,email,email_sendemail,ឆ្លើយតប ទៅ អ៊ីមែល,qa_factoid,0.9958,0.0001,False
+16320,km-KH,email,email_sendemail,ខ្ញុំ ចង់ ឆ្លើយតប នឹង អ៊ីមែល របស់សុខ,calendar_remove,0.3686,0.0532,False
+16353,km-KH,email,email_query,ចែក អ៊ីមែល ពី វិសាល,calendar_remove,0.7325,0.0048,False
+16354,km-KH,email,email_query,ចែកមើល អ៊ីមែល ដែលមកពី ថៅកែ របស់ខ្ញុំ,social_post,0.5186,0.0446,False
+16356,km-KH,email,email_query,តើ​ខ្ញុំ​បាន​ផ្ញើ​អ៊ីមែល​ទៅ​ សុខ អំពី​ប្រធានបទ​នៃ​ការ​គ្រប់​គ្រង​កាំភ្លើង​ឬ,qa_factoid,0.1329,0.0466,False
+16357,km-KH,email,email_query,សុខ បានផ្ញើអ៊ីមែលមកខ្ញុំអំពី គ្រាប់រំសេវ,email_sendemail,0.3125,0.035,False
+16361,km-KH,email,email_query,តើ ខ្ញុំ មាន អ៊ីមែល ថ្មី ណាមួយ ទេ មួយម៉ោងមុន,datetime_query,0.4163,0.0551,False
+16373,km-KH,email,email_query,តើខ្ញុំមានបានទទួលអ៊ីមែលណាមួយជាមួយលេខសំរាប់តាមដានដែរឬទេ,social_post,0.3645,0.048,False
+16375,km-KH,email,email_sendemail,សរសេរ អ៊ីមែល ទៅ សុខ,iot_hue_lightoff,0.1554,0.1073,False
+16376,km-KH,email,email_sendemail,អេឡិច សូមផ្ញើ អ៊ីមែល ទៅ ម៉ាក់,iot_hue_lightoff,0.4874,0.03,False
+16377,km-KH,email,email_sendemail,ផ្ញើ អ៊ីមែល ទៅ ម៉ាក់ ឥឡូវនេះ,email_sendemail,0.7714,0.7714,True
+16384,km-KH,email,email_query,ហេ តើ ខ្ញុំ មាន អ៊ីមែល ណាមួយ ថ្មី ទេ,social_post,0.4897,0.085,False
+16385,km-KH,email,email_query,សូម អាន អ៊ីមែល ថ្មី,email_sendemail,0.4202,0.1266,False
+16398,km-KH,email,email_sendemail,សូម ផ្ញើ អ៊ីមែល នេះ ទៅ សុខ,calendar_remove,0.5962,0.0112,False
+16399,km-KH,email,email_query,តើ ខ្ញុំ មានបានទទួល អ៊ីម៉ែល ថ្មី ណាមួយ ដែរឬទេ,social_post,0.3435,0.0358,False
+16401,km-KH,email,email_sendemail,ផ្ញើ សារ ទៅ ចរិយា សួស្តី តើ ចរិយាកំពុងធ្វើអ្វី,social_post,0.3419,0.0651,False
+16402,km-KH,email,email_sendemail,អ៊ីមែល គម្រោង របស់ សុខ ថ្ងៃនេះ,email_sendemail,0.9345,0.9345,True
+16406,km-KH,email,email_sendemail,alexa សូមបើក អ៊ីម៉ែល,qa_factoid,0.978,0.0001,False
+16410,km-KH,email,email_sendemail,សរសេរ អ៊ីមែល,qa_factoid,0.5604,0.0318,False
+16413,km-KH,email,email_query,បង្ហាញ អ៊ីមែល ទាំងអស់ ដែល ថៅកែ របស់ខ្ញុំ បានផ្ញើមក,iot_hue_lightoff,0.3462,0.0053,False
+16419,km-KH,email,email_sendemail,សូមផ្ញើ សារអេឡិចត្រនិច មួយ ទៅ ពូ សុខា ជាមួយនឹងពាក្យថា បាទ ខ្ញុំអាចធ្វើវាបាន,iot_hue_lightoff,0.5668,0.0085,False
+16427,km-KH,email,email_query,តើមាន អ៊ីមែល ថ្មី ប៉ុន្មានដែល ខ្ញុំ បានទទួលនៅ ថ្ងៃនេះ,weather_query,0.154,0.0572,False
+16430,km-KH,email,email_sendemail,សូមផ្ញើអ៊ីមែលមួយទៅ ម៉ាក់ និង ប៉ា សាកសួរសុខទុក្ខរបស់ពួកគាត់,social_post,0.603,0.0516,False
+16437,km-KH,email,email_sendemail,សូមផ្ញើអ៊ីមែលនេះទៅ មិត្តភក្ដិ របស់ខ្ញុំ,social_post,0.5846,0.0155,False
+16438,km-KH,email,email_sendemail,ខ្ញុំត្រូវការ អ៊ីមែល នេះ ផ្ញើឥឡូវ,email_sendemail,0.7831,0.7831,True
+16446,km-KH,email,email_query,សូមពិនិត្យមើលការសិក្សាអ៊ីមែលថ្មីៗពីអ្នកផ្ញើនេះ,qa_factoid,0.3328,0.0075,False
+16459,km-KH,email,email_sendemail,សារថ្មី ទៅ newmail at gmail dot com,email_sendemail,1.0,1.0,True
+16461,km-KH,email,email_query,ខ្ញុំ មាន អ៊ីមែល ណាមួយ ដែលមិនទាន់បានអានទេ,social_post,0.3699,0.0715,False
+16467,km-KH,email,email_query,តើ ខ្ញុំ មាន អ៊ីមែល ណាមួយ ថ្មី ពីទំនាក់ទំនង អក្សរ q របស់ខ្ញុំ ទេ,lists_query,0.4386,0.1234,False
+16471,km-KH,email,email_query,ពិនិត្យមើល អ៊ីមែល ពី សុខ,qa_factoid,0.3084,0.0918,False
+16496,km-KH,email,email_sendemail,ផ្ញើ អ៊ីមែល ឆ្លើយតប មួយ,calendar_remove,0.5482,0.2301,False
+16501,km-KH,email,email_sendemail,សូមផ្ញើអ៊ីមែលទៅ ធារី មិត្តភក្ដិ របស់ខ្ញុំ ថា សុខស្បាយទេ,social_post,0.2841,0.0265,False
+16506,km-KH,email,email_sendemail,បញ្ចូលអាស័យដ្ធានអ៊ីមែលថ្មី រួចហើយផ្ញើអ៊ីមែល,lists_remove,0.2821,0.1308,False
+16518,km-KH,email,email_sendemail,បន្ថែម អ៊ីមែល ថ្មី សម្រាប់ ធារី,lists_remove,0.3278,0.0709,False
+16519,km-KH,email,email_sendemail,ខ្ញុំត្រូវបន្ថែមអ៊ីមែលថ្មីទៅលើការទំនាក់ទំនងរបស់ខ្ញុំ,iot_hue_lightoff,0.5209,0.0125,False
+16535,km-KH,email,email_sendemail,តើអ្នកអាចសរសេរ អ៊ីមែល មួយទៅ ធារី បានទេ,qa_factoid,0.8974,0.0011,False
+16559,km-KH,email,email_sendemail,ផ្ញើ ការ ឆ្លើយតប ទៅ អ៊ីមែល របស់ សុខ ដែលបាន ផ្ញើមក នៅ ម៉ោង បួន សាមសិប ព្រឹក មិញ,email_sendemail,0.0968,0.0968,True
+16560,km-KH,email,email_sendemail,ឆ្លើយតបអ៊ីម៉ែលរបស់ ថៅកែ ​ខ្ញុំជាមួយនឹងពាក្យថា​ខ្ញុំនឹងទៅដល់នៅម៉ោងបួនពេលល្ងាច,weather_query,0.3264,0.0463,False
+16563,km-KH,email,email_query,olly សូមឆែកមើល អ៊ីមែល របស់ខ្ញុំ,email_sendemail,0.7253,0.0155,False
+16591,km-KH,email,email_sendemail,ខ្ញុំទើបតែបានទទួលអ៊ីមែលពី សិរី ខ្ញុំត្រូវតបឆ្លើយភ្លាមៗ,iot_hue_lightoff,0.3771,0.0186,False
+16593,km-KH,email,email_sendemail,អ៊ីម៉ែល ចុងក្រោយ ត្រូវឆ្លើយតបឲ្យបានឆាប់បំផុត,calendar_remove,0.2776,0.0177,False
+16603,km-KH,email,email_query,តើ អ៊ីមែល ដែលបាន ទទួល ពី ម៉ាក់ សាមសិបនាទី មុន សរសេរ អ្វី,email_query,0.561,0.561,True
+16605,km-KH,email,email_sendemail,សរសេរនិងផ្ញើ អ៊ីមែល ទៅ ថៅកែ របស់ខ្ញុំ,email_sendemail,0.999,0.999,True
+16609,km-KH,email,email_query,ប្រាប់ ខ្ញុំ ប្រសិនបើ ខ្ញុំ មាន អ៊ីមែល ថ្មី ណាមួយ ដែលមិនទាន់អាន,email_sendemail,0.3432,0.0465,False
+16613,km-KH,email,email_sendemail,ផ្ញើ អ៊ីមែល ទៅលោក ថៅកែ ប្រាប់ថា ខ្ញុំទៅនឹងយឺត,social_post,0.9452,0.0172,False
+16622,km-KH,email,email_sendemail,ផ្ញើ អ៊ីមែល ទៅ ឈ្មោះ នេះ,email_query,0.9969,0.0002,False
+16624,km-KH,email,email_sendemail,ខ្ញុំត្រូវការអ៊ីមែលដើម្បីផ្ញើទៅ p. p. c. t. v. អំពី បញ្ហាសេវាកម្ម របស់ខ្ញុំ,transport_query,0.1899,0.0344,False
+16627,km-KH,email,email_query,ពិនិត្យមើល អ៊ីមែល ដែលមកថ្មីបំផុត,qa_factoid,0.7546,0.0132,False
+16630,km-KH,email,email_sendemail,ផ្ញើការឆ្លើយតបទៅ អ៊ីមែល ចុងក្រោយ,calendar_remove,0.4883,0.0121,False
+16642,km-KH,email,email_query,ចែកមើល អ៊ីមែល ណាក៏ដោយ ពី ធារី,lists_remove,0.5898,0.0057,False
+16648,km-KH,email,email_query,សូមពិនិត្យមើល អ៊ីមែល របស់ខ្ញុំ សម្រាប់ខ្ញុំ,email_sendemail,0.436,0.0468,False
+16652,km-KH,email,email_query,តើ អ៊ីមែល របស់សុខ មាន ភ្ជាប់អ្វីទេ,qa_factoid,0.2234,0.1413,False
+16662,km-KH,email,email_query,តើ ខ្ញុំ បានទទួល អ៊ីមែល ថ្មី ៗ ណាមួយ ពី សុខ ទេ,lists_query,0.2566,0.0746,False
+16666,km-KH,email,email_query,តើ ខ្ញុំ មាន អ៊ីមែល ថ្មីទេ,social_post,0.4636,0.4111,False
+16668,km-KH,email,email_query,មានអ៊ីមែល ណាមួយ ចូលមកតាំងពី ម៉ោងបួន ថ្ងៃនេះ,social_post,0.9514,0.0017,False
+16669,km-KH,email,email_query,តើ ខ្ញុំ បានទទួល អ៊ីមែល ពី សុខ ទេ,qa_factoid,0.8061,0.0448,False
+16672,km-KH,email,email_query,តើ សុខ បានទាក់ទងមកដែរឬទេ,qa_factoid,0.2196,0.0594,False
+16677,km-KH,email,email_query,តើ ខ្ញុំ មាន អ៊ីមែលថ្មី ណាមួយ ក្នុង ប្រអប់សំបុត្រ ទទួល របស់ខ្ញុំ ថ្ងៃនេះ,lists_query,0.2689,0.0433,False
+16698,km-KH,email,email_sendemail,សរសេរការ ឆ្លើយតប មួយ ទៅ អ៊ីមែល របស់ម៉ាក់ របស់ខ្ញុំ,email_sendemail,0.9898,0.9898,True
+16701,km-KH,email,email_sendemail,ខ្ញុំ​ចង់​ឆ្លើយ​តប​ទៅ​ អ៊ីមែល របស់ធារី,qa_factoid,0.2738,0.1478,False
+16703,km-KH,email,email_sendemail,ខ្ញុំចង់ ឆ្លើយតប អ៊ីមែល ទៅ អ៊ីមែល ថ្មីបំផុត,qa_factoid,0.5697,0.0095,False
+16712,km-KH,email,email_query,តើ ខ្ញុំ មាន អ៊ីមែល ថ្មី ណាមួយ ទេ,social_post,0.3459,0.201,False
+16713,km-KH,email,email_query,សូមពិនិត្យមើលអ៊ីមែល របស់ខ្ញុំ ហើយជូនដំណឹងមកខ្ញុំ ប្រសិនបើមាន អ៊ីមែល ណាមួយ ថ្មី,email_query,0.3068,0.3068,True
+16717,km-KH,email,email_sendemail,តើ​អ្នក​អាច​ផ្ញើ​ អ៊ីមែល ​ទៅ សុខ ដោយ​និយាយ​ថា​ ខ្ញុំឈប់សម្រាក,email_query,0.2877,0.2865,False
+16719,km-KH,email,email_query,អនុញ្ញាតឱ្យខ្ញុំដឹងពី អ៊ីមែល ថ្មី ណាមួយ ដែលខ្ញុំបានទទួល,lists_remove,0.243,0.0347,False
+16729,km-KH,email,email_sendemail,តប អ៊ីមែល ទៅ សុខ ប្រាប់ គាត់ ឲ្យដឹងថា ថ្ងៃស្អែក ខ្ញុំនឹងជួបពួកគាត់,email_sendemail,0.963,0.963,True
+16730,km-KH,email,email_query,សូមពិនិត្យមើល អ៊ីមែល ថ្មី ពី សុខ,qa_factoid,0.7727,0.0158,False
+16733,km-KH,email,email_query,បង្ហាញ ខ្ញុំនូវ អ៊ីមែល ចុងក្រោយបំផុត ពី amazon,email_sendemail,0.9854,0.0003,False
+16749,km-KH,email,email_query,តើមាន អ៊ីមែល ណាខ្លះ ថ្មី សម្រាប់ខ្ញុំនៅ ថ្ងៃនេះ ទេ,weather_query,0.3035,0.0475,False
+16754,km-KH,email,email_sendemail,សរសេរតាម អ៊ីមែល,iot_hue_lightoff,0.4352,0.0272,False
+16758,km-KH,email,email_query,តើមានអ៊ីមែលថ្មីទេ តាំងពី ពេលមុនមក,qa_factoid,0.2298,0.0302,False
+16763,km-KH,email,email_query,អ៊ីមែល នៅក្នុង ដប់នាទីមុន,email_query,0.6809,0.6809,True
+16765,km-KH,email,email_query,ក្នុងអ៊ីមែល ម្សិលមិញ បទសម្ភាសន៍នៅម៉ោងប៉ុន្មាន,iot_hue_lightoff,0.3288,0.0145,False
+16766,km-KH,email,email_query,ពិនិត្យ អ៊ីមែល ថ្មី,qa_factoid,0.1424,0.0421,False
+16772,km-KH,email,email_query,បង្ហាញ អ៊ីមែល ទាំងអស់ ទាក់ទងនឹងការបំពាន,iot_hue_lightoff,0.98,0.001,False
+16780,km-KH,email,email_sendemail,ផ្ញើ អ៊ីមែល ទៅ ឈុនលី,calendar_remove,0.4787,0.0161,False
+16791,km-KH,email,email_sendemail,បង្កើតអ៊ីមែលថ្មីមួយ ប៉ុន្តែខ្ញុំមានអាស័យដ្ធានថ្មីមួយពេលនេះ គឺ brandon at example dot com,iot_hue_lightoff,0.9855,0.0005,False
+16799,km-KH,email,email_query,ខ្ញុំ បាន​ទទួ អ៊ីមែល ណាមួយ តាំង​ពី ថ្ងៃត្រង់,email_query,0.2043,0.2043,True
+16801,km-KH,email,email_query,តើ ម៉ី បានផ្ញើអ៊ីមែលអ្វីមកខ្ញុំអំពី សុខ ទេ,social_post,0.542,0.2216,False
+16813,km-KH,email,email_query,កណ្ដឹង ពេលដែលខ្ញុំទទួលអ៊ីមែល ពី សុខ,calendar_remove,0.5186,0.0083,False
+16814,km-KH,email,email_query,ពិនិត្យមើល អ៊ីមែល,qa_factoid,0.9722,0.0011,False
+16838,km-KH,email,email_sendemail,តើអ្នកអាចផ្ញើ អ៊ីមែល ទៅ អាសយដ្ឋាន អ៊ីមែល ថ្មី នេះ,recommendation_events,0.7338,0.0078,False
+16851,km-KH,email,email_query,ការជូនដំណឹង តាម អ៊ីមែល,social_post,0.2538,0.0224,False
+16859,km-KH,email,email_query,តើ ខ្ញុំ បានប្រាប់ ធារី អ្វីខ្លះនៅក្នុង អ៊ីមែល ចុងក្រោយ របស់ខ្ញុំ,lists_query,0.329,0.0269,False
+16872,km-KH,email,email_sendemail,ស្វែងរក ធារី នៅ ក្នុង ទំនាក់ទំនង របស់ខ្ញុំ ហើយ ផ្ញើ អ៊ីមែល ទៅ នាង,email_sendemail,0.8522,0.8522,True
+16873,km-KH,email,email_sendemail,អ៊ីមែល ពី ធារី សម្រាប់ ថ្ងៃខួបកំណើត របស់នាង,email_sendemail,0.9997,0.9997,True
+16880,km-KH,email,email_sendemail,អ៊ីមែល ទៅ សុខ អំពី ការប្រជុំ,qa_factoid,0.7725,0.0113,False
+16883,km-KH,email,email_sendemail,ផ្ញើ អ៊ីមែល ទៅ សុខ សួរថាតើ យប់នេះ គាត់នឹងនៅផ្ទះម៉ោងប៉ុន្មាន,weather_query,0.7946,0.0201,False
+16886,km-KH,email,email_sendemail,ឆ្លើយតប អ៊ីមែល នេះ,qa_factoid,0.9777,0.0005,False
+16888,km-KH,email,email_query,ចុះអំពី អ៊ីមែល ថ្មី,qa_factoid,0.1848,0.093,False
+16890,km-KH,email,email_query,តើ អ៊ីមែល ថ្មី និយាយ អ្វី,email_query,0.3002,0.3002,True
+16891,km-KH,email,email_sendemail,ផ្ញើ សុខ និង អ៊ីមែល,email_sendemail,0.9587,0.9587,True
+16892,km-KH,email,email_sendemail,ចាប់ផ្តើម និងផ្ញើ អ៊ីមែល ទៅ សុខ,calendar_remove,0.3125,0.0242,False
+16899,km-KH,email,email_query,តើ ខ្ញុំ បានទទួល អ៊ីមែល ណាមួយ ពី ធារី ទេ,qa_factoid,0.3676,0.1494,False
+16914,km-KH,email,email_query,តើ ខ្ញុំ មាន អ៊ីមែល ពី អ្នកផ្ញើ នេះ ទេ,qa_factoid,0.5393,0.0052,False
+16916,km-KH,email,email_sendemail,ឆ្លើយសារដែលខ្ញុំបានទទួល,calendar_remove,0.5198,0.0098,False
+16924,km-KH,email,email_query,សូមពិនិត្យមើល gmail របស់ខ្ញុំ សំរាប់ អ៊ីមែល ថ្មី,email_sendemail,0.9999,0.0001,False
+16930,km-KH,email,email_query,បង្ហាញ អ៊ីមែល ចុងក្រោយបំផុត,iot_hue_lightoff,0.998,0.0001,False
+16938,km-KH,email,email_sendemail,ឆ្លើយតប ទៅ អ៊ីមែល សុខ,qa_factoid,0.8963,0.0022,False
+16944,km-KH,email,email_sendemail,ផ្ញើ អ៊ីមែល ទៅ លោកយាយ ហើយ ប្រាប់គាត់ថា យើង នឹង ទៅ លេង នៅ ថ្ងៃសៅរិ៍ ជួបយាយ នៅ ពេល នោះ,email_sendemail,0.1505,0.1505,True
+16947,km-KH,email,email_sendemail,ឆ្លើយតប អ៊ីមែល,qa_factoid,0.899,0.0009,False
+16955,km-KH,email,email_sendemail,អ៊ីមែល ទៅ លេខទំនាក់ទំនង ថ្មី,email_query,0.6375,0.0581,False
+16956,km-KH,email,email_sendemail,ផ្ញើ អ៊ីមែល ទៅ លេខទំនាក់ទំនង ថ្មី,email_query,0.5391,0.1083,False
+16961,km-KH,email,email_sendemail,ឆ្លើយតបជាមួយ,qa_factoid,0.9428,0.0011,False
+16974,km-KH,email,email_query,សូមពិនិត្យមើលអ៊ីមែលថ្មីទាំងអស់របស់ នាយកដ្ឋានពន្ធលើប្រាក់ចំណូល,lists_remove,0.3096,0.0212,False
+16987,km-KH,email,email_query,មាន អ៊ីមែល ថ្មី ណាមួយ ពី សុខ,lists_query,0.2187,0.1999,False
+16989,km-KH,email,email_sendemail,សុខ សូម​និយាយ​ទៅកាន់​អ៊ីមែល​ដែល​ផ្ញើ​មក​ខ្ញុំ​ ខ្ញុំ​ត្រូវ​ការ​លុយ​ឥឡូវ​នេះ​ជា​រឿង​បន្ទាន់,email_sendemail,0.1294,0.1294,True
+16992,km-KH,email,email_query,តើ ហេង សុខា បានផ្ញើអ៊ីមែលមកខ្ញុំទេ,social_post,0.7493,0.0004,False
+16995,km-KH,email,email_sendemail,ផ្ញើ អ៊ីមែល ទៅ ធារី,calendar_remove,0.8198,0.0057,False
+17005,km-KH,email,email_query,សូមពិនិត្យមើល អ៊ីមែល ថ្មី,qa_factoid,0.9709,0.0012,False
+17011,km-KH,email,email_sendemail,អ្នកអាចផ្ញើ អ៊ីមែល ទៅ,qa_factoid,0.9986,0.0,False
+17015,km-KH,email,email_sendemail,ចាប់ផ្តើម ឆ្លើយតប,qa_factoid,0.9541,0.0007,False
+17019,km-KH,email,email_sendemail,សរសេរការឆ្លើយតបទៅ អ៊ីមែល ចុងក្រោយ,qa_factoid,0.262,0.0217,False
+17020,km-KH,email,email_sendemail,ឆ្លើយតប ទៅ អ៊ីមែល ដែលទទួលបានចុងក្រោយ,qa_factoid,0.7433,0.0033,False
+17023,km-KH,email,email_sendemail,ផ្ញើ អ៊ីមែល ទៅ ម៉ាក់ ហើយសួរថាតើអាកាសធាតុនៅទីនោះយ៉ាងម៉េចដែរ,qa_factoid,0.2509,0.0307,False
+17042,km-KH,email,email_sendemail,សរសេរ អ៊ីមែល សម្រាប់ john at gmail dot com,email_sendemail,1.0,1.0,True
+17043,km-KH,email,email_sendemail,ផ្ញើ អ៊ីមែល ទៅ ឈុនលាង,calendar_remove,0.2827,0.0164,False
+17051,km-KH,email,email_query,ខ្ញុំទទួលបាន អ៊ីមែល ថ្មី,email_query,0.556,0.556,True
+17052,km-KH,email,email_query,ស្វែងរក ធារី,lists_remove,0.2489,0.026,False
+17069,km-KH,email,email_query,តើមាន អ៊ីមែល ណាមួយ ថ្មីនៅក្នុងកម្មវិធីoutlook,email_query,1.0,1.0,True
+17075,km-KH,email,email_query,តើ​មាន​អ៊ីមែល​ថ្មី​ណា​មួយ​ដែល​បាន​ទទួល បន្ទាប់ពីម៉ោងបួន ថ្ងៃនេះ,lists_query,0.4125,0.026,False
+17081,km-KH,email,email_sendemail,បង្កើតអ៊ីមែលសម្រាប់ កម្មករក្រុមហ៊ុន របស់ខ្ញុំជាមួយនឹងឯកសារដែលបានរក្សាទុកថ្មីៗរបស់ខ្ញុំ,cooking_recipe,0.088,0.029,False
+17087,km-KH,email,email_query,ពិនិត្យមើលឱ្យខ្ញុំ អ៊ីមែល ថ្មី ដែលបានទទួលពី ធារី,email_sendemail,0.6254,0.0265,False
+17098,km-KH,email,email_query,បង្ហាញ ខ្ញុំនូវ អ៊ីមែល ណាមួយ ដែលទទួលបានក្នុង មួយម៉ោងមុន,iot_hue_lightoff,0.9927,0.0002,False
+17107,km-KH,email,email_query,ពិនិត្យ អ៊ីមែល ថ្មី,qa_factoid,0.1424,0.0421,False
+17108,km-KH,email,email_query,ផ្តល់ឱ្យខ្ញុំនូវ អ៊ីមែល ចុងក្រោយបំផុត របស់ខ្ញុំ,iot_hue_lightoff,0.2732,0.0195,False
+17113,km-KH,email,email_sendemail,បង្កើត អ៊ីមែល ទៅ ធារី,qa_factoid,0.137,0.0322,False
+17115,km-KH,email,email_query,អានបញ្ជី អ៊ីមែល ថ្មី,email_sendemail,0.9546,0.0145,False
+17116,km-KH,email,email_query,បង្ហាញ បញ្ជី អ៊ីមែល ថ្មីៗ,iot_hue_lightoff,0.8154,0.0072,False
+17119,km-KH,email,email_query,ពិនិត្យមើល អ៊ីមែល ណាមួយ ពី amazon,recommendation_events,0.8599,0.0067,False
+17123,km-KH,email,email_sendemail,អ៊ីមែល ប្រាប់ពី អនុប្រធានតំបន់,email_sendemail,0.9993,0.9993,True
+17135,km-KH,email,email_query,អ៊ីមែលពត៌មាន ណាមួយ អំពី គ្រឿងភ្លើង,email_sendemail,1.0,0.0,False
+17136,km-KH,email,email_query,សូមអានអ៊ីមែលថ្មីៗរបស់ខ្ញុំ,play_podcasts,0.8534,0.001,False
+17138,km-KH,email,email_query,សូមទុក សារ របស់ខ្ញុំ ដែលបានអាន,email_sendemail,0.8651,0.0122,False
+17142,km-KH,email,email_query,តើមានអ្វីនៅក្នុង ប្រអប់សំបុត្រ របស់ខ្ញុំចាប់តាំងពីយើងមើលចុងក្រោយ,lists_query,0.5924,0.0157,False
+17143,km-KH,email,email_sendemail,hey ផ្ញើ អ៊ីមែល ទៅ សុខ,email_sendemail,0.6899,0.6899,True
+17144,km-KH,email,email_query,ហេ ពិនិត្យមើល អ៊ីមែល,qa_factoid,0.9718,0.0011,False
+17147,km-KH,email,email_sendemail,ឆ្លើយតប ទៅ អ៊ីមែល នេះ ដោយ សរសេរ ថា សួស្ដី,qa_factoid,0.9484,0.0026,False
+17148,km-KH,email,email_sendemail,អេឡិច ឆ្លើយតប ទៅអ៊ីមែលជាមួយនឹងមាតិកាជំរាបសួរអ្នក,iot_hue_lightoff,0.5586,0.0155,False
+17151,km-KH,email,email_sendemail,មិត្តភក្ដិ របស់ខ្ញុំ សុខ បានផ្ញើលិខិតអញ្ជើញឱ្យខ្ញុំទៅផ្ទះដែលទើបនឹងទិញរបស់គាត់ និយាយអរគុណទៅគាត់នៅក្នុងអ៊ីមែលសម្គាល់របស់គាត់,email_query,0.0864,0.0706,False
+17156,km-KH,email,email_query,ពិនិត្យ អ៊ីមែល របស់ខ្ញុំ សម្រាប់ អ៊ីមែល ណាមួយ ថ្មី ពី សុខ,email_sendemail,0.371,0.0603,False
+17157,km-KH,email,email_query,តើ ខ្ញុំ មាន​ អ៊ីមែល ថ្មី ណាមួយ ពី សុខ,lists_query,0.4354,0.1103,False
+17170,km-KH,email,email_query,ជូនដំណឹងខ្ញុំនៅពេល សុខ ផ្ញើ អ៊ីមែល មកខ្ញុំ,social_post,0.7973,0.0082,False
+17179,km-KH,email,email_query,តើ សុខ មានផ្ញើ អ៊ីមែល មក ខ្ញុំទេ,email_query,0.5561,0.5561,True

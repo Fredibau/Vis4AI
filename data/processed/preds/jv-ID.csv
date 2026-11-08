@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,jv-ID,iot,iot_hue_lightoff,olly gawe mati lampu ing kamar turu,iot_hue_lightoff,0.9693,0.9693,True
+47,jv-ID,datetime,datetime_query,jam pira nang indonesia,weather_query,0.7468,0.0025,False
+85,jv-ID,datetime,datetime_query,dina iki tanggal pira,datetime_query,0.9991,0.9991,True
+86,jv-ID,datetime,datetime_query,dina iki tanggal pira,datetime_query,0.9991,0.9991,True
+100,jv-ID,weather,weather_query,piye ramalan minggu iki,datetime_query,0.5487,0.2895,False
+102,jv-ID,weather,weather_query,apa cuaca minggu iki,weather_query,0.9984,0.9984,True
+103,jv-ID,weather,weather_query,kandhani aku cuaca minggu iki,weather_query,0.9991,0.9991,True
+128,jv-ID,datetime,datetime_query,tanggal pira,qa_factoid,0.9997,0.0002,False
+151,jv-ID,play,play_music,puteren iki maneh tulung,qa_factoid,0.61,0.0161,False
+177,jv-ID,news,news_query,marang kula sawetara warta bisnis,qa_definition,0.7997,0.0007,False
+178,jv-ID,news,news_query,ngomongke kabar internasional,qa_factoid,0.8092,0.1003,False
+182,jv-ID,play,play_music,setel daftar tembang rock duwekku,qa_factoid,0.5683,0.0003,False
+185,jv-ID,play,play_music,nguripake dhaptar lagu ku lan muter tembang katelu ing antrian,play_music,0.7582,0.7582,True
+197,jv-ID,datetime,datetime_query,saiki jam pira,play_music,0.9627,0.0009,False
+216,jv-ID,weather,weather_query,koyo kepiye cuaca dina iki,qa_factoid,1.0,0.0,False
+219,jv-ID,weather,weather_query,apa aku kudu nggawa payung sesuk,qa_factoid,1.0,0.0,False
+220,jv-ID,play,play_music,setel musik kadi tembang jawa,play_music,1.0,1.0,True
+250,jv-ID,play,play_music,aku seneng jazz saiki piye yen kowe,cooking_recipe,0.9466,0.0178,False
+254,jv-ID,play,play_music,olly puter lagu sing apik saka pemain jazz kesenengan ku,play_music,0.9843,0.9843,True
+279,jv-ID,weather,weather_query,apa ramalan dina iki kanggo berlin,weather_query,0.9931,0.9931,True
+281,jv-ID,news,news_query,opo rata-rata dolar dolar amérikah sarékat kanggo pound sterling,qa_factoid,0.2407,0.0368,False
+296,jv-ID,play,play_music,setel daftar tembang koes plus,iot_hue_lightoff,0.9466,0.0001,False
+297,jv-ID,play,play_music,acak lagu dening didi kempot,play_music,0.9639,0.9639,True
+299,jv-ID,weather,weather_query,apa cuaca,weather_query,0.9991,0.9991,True
+310,jv-ID,datetime,datetime_query,taun iki tahun baru nang dino opo,datetime_query,0.9898,0.9898,True
+319,jv-ID,weather,weather_query,omongke cuaca nang surabaya pas rong dina seko saiki,weather_query,0.9996,0.9996,True
+329,jv-ID,play,play_music,cidro,qa_factoid,0.8496,0.0053,False
+333,jv-ID,weather,weather_query,apa kahanan cuaca ing new york,qa_factoid,1.0,0.0,False
+334,jv-ID,weather,weather_query,aku pengin ngerti cuaca ing san fransico,weather_query,0.9993,0.9993,True
+344,jv-ID,weather,weather_query,opo sesuk bakal udan,social_post,0.6726,0.0017,False
+348,jv-ID,weather,weather_query,apa bakal udan sesuk,social_post,0.9986,0.0001,False
+355,jv-ID,datetime,datetime_query,siji april dina apa,iot_hue_lightoff,0.1747,0.0347,False
+360,jv-ID,datetime,datetime_query,saiki jam pira,play_music,0.9627,0.0009,False
+362,jv-ID,play,play_music,puteren lagu keloro saka lagu e raisa,play_music,0.7458,0.7458,True
+366,jv-ID,news,news_query,tulung kabar ku sing paling anyar,qa_factoid,0.538,0.0018,False
+369,jv-ID,iot,iot_hue_lightoff,patheni lampune,social_post,0.7594,0.0012,False
+385,jv-ID,news,news_query,apa sensasional ing antara ning indonesia,social_post,0.9472,0.0008,False
+391,jv-ID,play,play_music,puter tembang acak saka daftar tembangku,qa_factoid,0.8796,0.0026,False
+393,jv-ID,play,play_music,setelke lagu lawas soko daftar laguku,play_music,0.8663,0.8663,True
+397,jv-ID,play,play_music,setel sembarang lagu didi kempot,play_music,0.9641,0.9641,True
+400,jv-ID,play,play_music,mulai setel,calendar_set,0.8712,0.002,False
+407,jv-ID,play,play_music,setel musik rock sejam,iot_hue_lightoff,0.9572,0.0074,False
+424,jv-ID,news,news_query,opo berita sing anyar saiki,social_post,0.5351,0.458,False
+427,jv-ID,iot,iot_hue_lightoff,pateni lampu ing padhusan,iot_hue_lightoff,0.9759,0.9759,True
+428,jv-ID,iot,iot_hue_lightoff,pateni lampu jedhing,iot_hue_lightoff,0.861,0.861,True
+430,jv-ID,weather,weather_query,kaya apa cuacane saiki,social_post,0.9924,0.0,False
+437,jv-ID,play,play_music,buka folder reni farida,qa_factoid,0.6593,0.0178,False
+441,jv-ID,news,news_query,apa judhul warta paling anyar,qa_factoid,1.0,0.0,False
+442,jv-ID,news,news_query,apa sing kedadeyan ing warta,qa_factoid,0.9995,0.0,False
+451,jv-ID,news,news_query,entuk rego saham saka costco,recommendation_events,0.6284,0.0136,False
+473,jv-ID,play,play_music,muter lagu cidro,play_music,0.9987,0.9987,True
+486,jv-ID,datetime,datetime_query,saiki jam piro ning bandung,social_post,0.9958,0.0002,False
+491,jv-ID,weather,weather_query,opo adem nang njobo,qa_factoid,0.9341,0.0009,False
+506,jv-ID,play,play_music,buka tembang didi kempot,qa_factoid,0.6662,0.0016,False
+512,jv-ID,weather,weather_query,kanthi entuk tandha,qa_factoid,0.5222,0.0037,False
+540,jv-ID,play,play_music,setel tembang cidro saka didi kempot,qa_factoid,0.9909,0.0,False
+555,jv-ID,play,play_music,setel mf doom apa wae,qa_factoid,0.9899,0.0,False
+576,jv-ID,play,play_music,puter kabeh daftar tembang,lists_remove,0.1427,0.0397,False
+585,jv-ID,news,news_query,nuduhake warta paling anyar,qa_factoid,1.0,0.0,False
+588,jv-ID,news,news_query,apa kabar anyar kanggo dina iki,news_query,0.9118,0.9118,True
+590,jv-ID,weather,weather_query,apa cuaca saiki,qa_factoid,0.8175,0.1807,False
+614,jv-ID,play,play_music,mulai daftar tembang,qa_definition,0.6294,0.0007,False
+625,jv-ID,play,play_music,tolong setel lagu didi kempot,play_music,0.9765,0.9765,True
+631,jv-ID,news,news_query,atur kabar kanggo kabar babagan saluran pipa dakota,transport_query,0.4367,0.1141,False
+651,jv-ID,iot,iot_hue_lightoff,pateni lampu kamar,iot_hue_lightoff,0.9021,0.9021,True
+660,jv-ID,datetime,datetime_query,wektu saiki ing jepang,iot_hue_lightoff,0.965,0.0013,False
+680,jv-ID,news,news_query,keep me informed about regane bitcoin,recommendation_events,0.744,0.019,False
+686,jv-ID,datetime,datetime_query,jam piro saiki nang bandung,social_post,0.9701,0.0005,False
+712,jv-ID,news,news_query,aku pengin krungu kabar pungkasan saka c. n. n.,email_sendemail,0.4296,0.0295,False
+726,jv-ID,weather,weather_query,ngringkes rincian cuaca minggu,weather_query,0.9684,0.9684,True
+730,jv-ID,iot,iot_hue_lightoff,nggawe mati lampu,iot_hue_lightoff,0.9679,0.9679,True
+738,jv-ID,weather,weather_query,sepira adem ing njaba dina iki,qa_definition,0.6089,0.0102,False
+764,jv-ID,weather,weather_query,piye ramalan cuaca minggu iki,weather_query,0.9989,0.9989,True
+765,jv-ID,news,news_query,apa sampeyan bisa menehi kula judhul warta anyar saka panyedhiya ku sing paling anyar,recommendation_events,0.9695,0.001,False
+767,jv-ID,news,news_query,apa sampeyan bisa nemokake kabar paling anyar saka sumber sing biasane ora dak bukak,news_query,0.8518,0.8518,True
+768,jv-ID,news,news_query,ngomong babagan warta politik paling anyar,qa_factoid,0.9692,0.0,False
+779,jv-ID,play,play_music,setel snow soko red hot chili peppers,cooking_recipe,0.9784,0.0008,False
+781,jv-ID,play,play_music,setel cidro,qa_factoid,0.9671,0.0006,False
+782,jv-ID,play,play_music,setel let me love you soko ariana grande,social_post,0.9913,0.0004,False
+783,jv-ID,play,play_music,puterno cidro,qa_factoid,0.9999,0.0,False
+790,jv-ID,weather,weather_query,cuaca entheng utawa abot,qa_factoid,0.9914,0.0,False
+826,jv-ID,weather,weather_query,apa suhu saiki ing njaba,weather_query,0.6997,0.6997,True
+827,jv-ID,play,play_music,puter daftar lagu bob dylan,play_music,0.9052,0.9052,True
+832,jv-ID,weather,weather_query,hey apa ramalan cuaca sesuk,weather_query,0.9967,0.9967,True
+837,jv-ID,news,news_query,prediksi polling b. b. c. apa kanggo pemilihan kita sing bakal teka,recommendation_events,0.5954,0.0171,False
+891,jv-ID,play,play_music,setel sembarang musik kristen,play_music,0.9949,0.9949,True
+914,jv-ID,iot,iot_hue_lightoff,tulung nggawe mati lampu,iot_hue_lightoff,0.7982,0.7982,True
+936,jv-ID,play,play_music,mbukak lan muter musik saka daftar puter olahraga,play_music,0.998,0.998,True
+951,jv-ID,weather,weather_query,apa cuaca kaya saiki ing new york,weather_query,0.998,0.998,True
+969,jv-ID,news,news_query,artikel warta babagan topik tartamtu,qa_factoid,0.5376,0.0005,False
+974,jv-ID,datetime,datetime_query,saiki ing bandung jam pira,qa_factoid,0.8601,0.0009,False
+997,jv-ID,iot,iot_hue_lightoff,pateni lampu kamar keluwarga,cooking_recipe,0.84,0.1122,False
+999,jv-ID,iot,iot_hue_lightoff,apa kowe bisa gawe mati lampu,qa_factoid,0.5249,0.2956,False
+1007,jv-ID,play,play_music,setel metallica soko daftar lagu rock aku,play_music,0.9306,0.9306,True
+1014,jv-ID,datetime,datetime_query,jam piro nang kebumen saiki,email_query,0.5818,0.0001,False
+1047,jv-ID,play,play_music,setelke lagu rock sedih,play_music,0.6571,0.6571,True
+1061,jv-ID,news,news_query,menehi kula tanggal ing warta olahraga,social_post,0.9954,0.0002,False
+1063,jv-ID,news,news_query,entuk kabar saben jam babagan warta olah raga,play_music,0.8144,0.0088,False
+1084,jv-ID,news,news_query,pangguna loropaken,qa_definition,0.9919,0.0,False
+1093,jv-ID,news,news_query,pindhah menyang situs website tribun jambi,qa_factoid,0.6704,0.0001,False
+1098,jv-ID,datetime,datetime_query,ing dina minggu tanggal limolas maret tiba ing dina apa,datetime_query,0.372,0.372,True
+1108,jv-ID,play,play_music,kepinginan ku kanggo ngrungokake musik country,play_music,0.9935,0.9935,True
+1115,jv-ID,play,play_music,tandai kabeh jenis lagu pop,play_music,0.9984,0.9984,True
+1120,jv-ID,news,news_query,apa ana khusus ing politik,social_post,0.5472,0.0008,False
+1121,jv-ID,play,play_music,puter jaran goyang dening nella kharisma,qa_definition,0.9983,0.0,False
+1123,jv-ID,play,play_music,puter selanjute cidro didi kempot,lists_remove,0.9114,0.0026,False
+1124,jv-ID,play,play_music,siapno mungkin nanti noah kanggo di puter mari iki,iot_hue_lightoff,0.3976,0.0226,False
+1127,jv-ID,play,play_music,puterno kabeh lagu ning acak,play_music,0.9996,0.9996,True
+1144,jv-ID,play,play_music,setel sembarang musik rap,play_music,0.9999,0.9999,True
+1148,jv-ID,datetime,datetime_query,saiki jam pira ning ngawi,play_music,0.9867,0.0003,False
+1156,jv-ID,news,news_query,warta teranyar ning hari kartini,qa_factoid,0.378,0.0199,False
+1160,jv-ID,weather,weather_query,arep koyo opo ademe saben wengi nang minggu iki,email_sendemail,0.7069,0.0116,False
+1180,jv-ID,news,news_query,golekno warta kompas dina iki tentang trump,social_post,0.9891,0.0028,False
+1202,jv-ID,datetime,datetime_query,wektu saiki ing bandung,iot_hue_lightoff,0.6836,0.0058,False
+1238,jv-ID,play,play_music,pandora,qa_factoid,0.1403,0.0391,False
+1249,jv-ID,weather,weather_query,piye kemungkinan cuaca minggu iki,weather_query,0.9552,0.9552,True
+1252,jv-ID,datetime,datetime_query,aku kandanono saiki jam pira,play_music,0.9343,0.001,False
+1294,jv-ID,news,news_query,cepet kula warta penghargaan akademi,email_sendemail,0.4355,0.0057,False
+1301,jv-ID,news,news_query,duduhno aku beritane narkoba coki,qa_factoid,0.9992,0.0,False
+1308,jv-ID,weather,weather_query,kandani ramalan iklim dina iki ndek kene,weather_query,0.9218,0.9218,True
+1318,jv-ID,play,play_music,setel aplikasi music lan setel sembarang lagu,play_music,0.9995,0.9995,True
+1351,jv-ID,weather,weather_query,bakal dadi apik ing njaba minggu iki,qa_factoid,0.8642,0.0036,False
+1371,jv-ID,news,news_query,opo berita nek halaman ngarep kompas,qa_definition,0.3879,0.1016,False
+1377,jv-ID,iot,iot_hue_lightoff,tulung dipateni lampu kamare anakku,iot_hue_lightoff,0.4963,0.4963,True
+1400,jv-ID,weather,weather_query,aku biasane mbayar manungsa waé,qa_factoid,1.0,0.0,False
+1401,jv-ID,weather,weather_query,aku kadang memperhati na,qa_factoid,0.9826,0.0001,False
+1404,jv-ID,weather,weather_query,aku njaluk info cuaca sesuk ning kene solo,weather_query,0.9946,0.9946,True
+1423,jv-ID,news,news_query,ngomong babagan trump,social_post,0.5663,0.0076,False
+1425,jv-ID,news,news_query,kabari aku yen kowe krungu indonesia,social_post,0.8616,0.0008,False
+1440,jv-ID,play,play_music,setel tembang rock nilai papat utawa sakndhuwure paling anyar,qa_factoid,0.786,0.0151,False
+1449,jv-ID,datetime,datetime_query,kapan paskah tahun rongewu wolulas,weather_query,0.9896,0.0001,False
+1458,jv-ID,weather,weather_query,carane panas iku ing quebec,qa_factoid,0.7732,0.1658,False
+1467,jv-ID,play,play_music,puterno noah,qa_factoid,0.5484,0.0087,False
+1474,jv-ID,news,news_query,apa kabar olahraga dina iki,news_query,0.9238,0.9238,True
+1489,jv-ID,play,play_music,setel tembang didi kempot paling anyar,qa_factoid,0.9805,0.0004,False
+1513,jv-ID,weather,weather_query,apa suhu njaba,qa_factoid,0.9838,0.0001,False
+1533,jv-ID,news,news_query,warta apa sing kedadeyan ing c. n. n. dina iki,qa_factoid,0.5189,0.017,False
+1537,jv-ID,datetime,datetime_query,duduhna wektu saiki ning indonesia,social_post,0.8581,0.0033,False
+1542,jv-ID,weather,weather_query,srengenge wis sumunar padhang apa dewe bakal duwe cuaca koyo ngene nggo liyane dina,weather_query,0.985,0.985,True
+1546,jv-ID,play,play_music,puteren dhaptar tembang keroncong,qa_factoid,0.796,0.0006,False
+1547,jv-ID,weather,weather_query,apa cuaca kanggo lokasi ku minggu iki,weather_query,0.9995,0.9995,True
+1549,jv-ID,weather,weather_query,ini udan minggu iki,calendar_set,0.2918,0.0112,False
+1554,jv-ID,iot,iot_hue_lightoff,pateni lampune,social_post,0.6373,0.0041,False
+1581,jv-ID,datetime,datetime_query,saiki tanggal wulan lan taun pira,datetime_query,0.998,0.998,True
+1589,jv-ID,weather,weather_query,apa bakal cerah sesuk selasa,iot_hue_lightoff,0.7248,0.0038,False
+1593,jv-ID,news,news_query,nyetel notifikasi saka berita dunya,qa_factoid,0.8372,0.1533,False
+1594,jv-ID,news,news_query,apa sampeyan bisa ngandhani kabar paling anyar,news_query,0.68,0.68,True
+1607,jv-ID,datetime,datetime_query,duduhno aku jam piro saiki nang kediri,social_post,0.4397,0.0067,False
+1617,jv-ID,news,news_query,sawise topik anyar babagan politik teka waspada aku,social_post,0.7496,0.0001,False
+1636,jv-ID,news,news_query,nuduhake kabar paling anyar saka guardian,social_post,0.947,0.0008,False
+1653,jv-ID,weather,weather_query,kapan wektu selanjute bakal udan,qa_factoid,0.961,0.0,False
+1655,jv-ID,weather,weather_query,apa bakal udan sesuk awan,social_post,0.9998,0.0,False
+1666,jv-ID,news,news_query,dadi apa warta resik ing enem jam sedurunge,play_music,0.9682,0.0007,False
+1671,jv-ID,play,play_music,puter kabeh musik sing mung metu antara taun sewu sanga ngatus sangang puluh lan rongewu,play_music,0.9981,0.9981,True
+1683,jv-ID,weather,weather_query,sesuk suhu ne bakal panas iyo opo ora,weather_query,0.4879,0.4879,True
+1684,jv-ID,weather,weather_query,iyo apa ora suhu sesuk dadi panas,weather_query,0.7912,0.7912,True
+1692,jv-ID,play,play_music,golekno sembarang lagu jazz lembut,play_music,1.0,1.0,True
+1722,jv-ID,weather,weather_query,pira suhu minimale london,iot_hue_lightoff,0.8293,0.0015,False
+1750,jv-ID,iot,iot_hue_lightoff,pateni kabeh lampu,iot_hue_lightoff,0.7048,0.7048,True
+1759,jv-ID,news,news_query,golekno aku beritane presiden trump,email_sendemail,0.663,0.0007,False
+1760,jv-ID,news,news_query,warta paling anyar babagan terorisme,social_post,0.6663,0.0005,False
+1777,jv-ID,play,play_music,tembang selanjute,qa_factoid,0.5969,0.0017,False
+1784,jv-ID,iot,iot_hue_lightoff,pateni kamar panedhaan,cooking_recipe,0.6395,0.0937,False
+1786,jv-ID,iot,iot_hue_lightoff,pateni kamar turu utama,cooking_recipe,0.9976,0.0002,False
+1794,jv-ID,news,news_query,joko widodo bakal ngunjungi indonesia ing mangsa cedhak,social_post,0.9993,0.0,False
+1796,jv-ID,datetime,datetime_query,tanggal saiki,qa_factoid,1.0,0.0,False
+1803,jv-ID,news,news_query,tim sing main dina iki ing liga utama,weather_query,0.1822,0.0394,False
+1811,jv-ID,play,play_music,buka daftar lan setel musik,play_music,0.9969,0.9969,True
+1832,jv-ID,play,play_music,setel tembang jawa album,qa_definition,0.9109,0.0,False
+1833,jv-ID,play,play_music,ulang ulang daftar puter tembang jawa,qa_definition,0.7629,0.0004,False
+1866,jv-ID,weather,weather_query,laporan cuaca saiki,weather_query,0.9949,0.9949,True
+1870,jv-ID,datetime,datetime_query,saiki sasi apa,qa_factoid,0.7156,0.0027,False
+1904,jv-ID,news,news_query,njaluk kula sorotan cocog,social_post,0.8347,0.0017,False
+1933,jv-ID,weather,weather_query,bakal suhu bakal mudhun ing wengi iki,weather_query,0.9544,0.9544,True
+1940,jv-ID,play,play_music,puter judul tembang,iot_hue_lightoff,0.4849,0.0172,False
+1962,jv-ID,play,play_music,hi google setelke daftar lagu wacky ku nang aplikasi gaana,recommendation_events,0.6789,0.0102,False
+1994,jv-ID,play,play_music,buka itunes aku,play_radio,0.7337,0.1851,False
+1995,jv-ID,play,play_music,puter didi kempot,social_post,0.3925,0.0162,False
+2007,jv-ID,play,play_music,tolong puterno widodari,social_post,0.9919,0.0002,False
+2062,jv-ID,play,play_music,aku pengin muter musik dangdut,play_music,1.0,1.0,True
+2085,jv-ID,play,play_music,setel lagu klasik liyane bach karo schubert,play_music,0.9838,0.9838,True
+2098,jv-ID,news,news_query,apa sing kedadeyan ing donya iki,qa_factoid,0.9225,0.0026,False
+2108,jv-ID,play,play_music,puter selanjute duka,qa_factoid,0.8967,0.0022,False
+2113,jv-ID,recommendation,recommendation_events,nyritakake kabeh kedadeyan saiki ing kampungku,social_post,0.8301,0.0046,False
+2146,jv-ID,datetime,datetime_query,kapan wayahe riyoyo rong tahun kepengker,social_post,0.831,0.0044,False
+2156,jv-ID,datetime,datetime_query,saiki jam piro,email_query,0.747,0.0005,False
+2160,jv-ID,iot,iot_hue_lightoff,aku arep turu saiki,social_post,0.8869,0.0567,False
+2178,jv-ID,weather,weather_query,apa kahanan cuaca saiki ing panggonanku,weather_query,0.9983,0.9983,True
+2198,jv-ID,datetime,datetime_query,apa dina minggu iku wulan desember tanggal papat taun sewu sangangatus wulungpuluh loro,datetime_query,0.713,0.713,True
+2201,jv-ID,news,news_query,judhul c. n. n.,social_post,0.7447,0.0,False
+2203,jv-ID,news,news_query,b. b. c. world judhul,social_post,0.998,0.0001,False
+2220,jv-ID,weather,weather_query,cuaca di bandung,qa_factoid,0.3355,0.0269,False
+2225,jv-ID,play,play_music,puterno ella fitzgerals get happy,qa_factoid,1.0,0.0,False
+2230,jv-ID,iot,iot_hue_lightoff,pateni lampu pawon,iot_hue_lightoff,0.9485,0.9485,True
+2237,jv-ID,news,news_query,bacano aku berita internasional,news_query,0.8947,0.8947,True
+2258,jv-ID,weather,weather_query,apa aku butuh sweter dina iki,qa_factoid,0.9115,0.0017,False
+2265,jv-ID,weather,weather_query,kandhani aku apa cuaca ing grand rapids mi saiki,weather_query,0.9996,0.9996,True
+2271,jv-ID,play,play_music,tulung puterno lagu seng tak tuku lan favorit,social_post,0.8014,0.0002,False
+2296,jv-ID,news,news_query,supaya kula gaul karo dino iki kompas,iot_hue_lightoff,0.2401,0.0296,False
+2298,jv-ID,iot,iot_hue_lightoff,mateni lampu saiki,iot_hue_lightoff,0.9856,0.9856,True
+2315,jv-ID,news,news_query,apa kabar kanggo saiki,social_post,0.3791,0.1261,False
+2316,jv-ID,news,news_query,alexa menehi kula warta utama,qa_factoid,0.9027,0.0,False
+2320,jv-ID,weather,weather_query,apa cuaca jumat iki,qa_factoid,0.9999,0.0001,False
+2322,jv-ID,weather,weather_query,kepiye cuacane sesuk,qa_factoid,0.6197,0.0001,False
+2330,jv-ID,datetime,datetime_query,nuduhake wektu lokal surabaya saiki,iot_hue_lightoff,0.9206,0.0001,False
+2384,jv-ID,news,news_query,opo wae sing terjadi nang donya saiki,qa_factoid,0.9714,0.0002,False
+2386,jv-ID,news,news_query,menehi kula kabar paling anyar,qa_factoid,0.9929,0.0,False
+2396,jv-ID,play,play_music,setel lagu didi kempot,play_music,0.9971,0.9971,True
+2408,jv-ID,play,play_music,golek tembang liyane soko afghan,social_post,0.9986,0.0,False
+2412,jv-ID,datetime,datetime_query,bisa ngomong wektu ing lamongan,qa_factoid,0.9238,0.0001,False
+2423,jv-ID,weather,weather_query,tulung menehi aku ramalan dina iki kanggo kutha new york,recommendation_events,0.9969,0.0001,False
+2438,jv-ID,news,news_query,kirimno beritane teknologi,qa_factoid,0.4132,0.0025,False
+2441,jv-ID,iot,iot_hue_lightoff,pateni lampune gudang,qa_factoid,0.9908,0.0001,False
+2472,jv-ID,datetime,datetime_query,iku wektu saiki sing bener kanggo ngendi aku dumunung,qa_factoid,0.2435,0.0266,False
+2496,jv-ID,news,news_query,warta saben dina,calendar_remove,0.2209,0.0143,False
+2497,jv-ID,datetime,datetime_query,dina iki tanggal pira,datetime_query,0.9991,0.9991,True
+2498,jv-ID,datetime,datetime_query,siri tanggal berapa dina iki,datetime_query,0.9683,0.9683,True
+2527,jv-ID,play,play_music,setel musik rock lawas,iot_hue_lightoff,0.5765,0.3727,False
+2531,jv-ID,play,play_music,alexa setel tembang rock lan rap gonta ganti,qa_definition,0.44,0.2028,False
+2545,jv-ID,weather,weather_query,piye cuacane,social_post,0.9996,0.0,False
+2548,jv-ID,news,news_query,opo wae rans entertaiment,news_query,0.1965,0.1965,True
+2560,jv-ID,play,play_music,setel musik acak,play_music,0.9997,0.9997,True
+2573,jv-ID,play,play_music,setel dhaptar nari spotify ku,qa_factoid,0.9994,0.0,False
+2578,jv-ID,iot,iot_hue_lightoff,pateni lampu teras,iot_hue_lightoff,0.5893,0.5893,True
+2588,jv-ID,news,news_query,apa kabar paling anyar saka c. n. n. mangga,qa_factoid,0.9974,0.0,False
+2594,jv-ID,news,news_query,marang kula bab warta lingkungan paling anyar,qa_factoid,0.9969,0.0,False
+2605,jv-ID,play,play_music,puterna lagu favorit ku saiki,play_music,0.9082,0.9082,True
+2611,jv-ID,weather,weather_query,ramalan cuaca saiki,weather_query,0.9241,0.9241,True
+2615,jv-ID,weather,weather_query,opo aku kudu nggawe jaket rebo ngarep,qa_factoid,0.999,0.0,False
+2638,jv-ID,news,news_query,nuduhake kabar babagan trump,qa_factoid,0.9949,0.0001,False
+2639,jv-ID,news,news_query,nuduhake kabar babagan lingkungan,social_post,0.5266,0.016,False
+2651,jv-ID,news,news_query,warta paling anyar saka wilayah,qa_factoid,0.9962,0.0001,False
+2678,jv-ID,weather,weather_query,apa bengi iki udan,qa_factoid,0.9994,0.0,False
+2679,jv-ID,weather,weather_query,apa bakal suhu tetep padha utawa bakal dadi luwih adhem,weather_query,0.8026,0.8026,True
+2703,jv-ID,play,play_music,setel tembang pop,iot_hue_lightoff,0.5166,0.0094,False
+2704,jv-ID,play,play_music,setel musik dangdut,play_music,1.0,1.0,True
+2708,jv-ID,play,play_music,olly aku ngrasa seneng nari puterno aku dangdut banyuwangen,social_post,0.9847,0.0001,False
+2709,jv-ID,play,play_music,olly aku butuh ngrungokno lagu lagu susah dina iki,play_music,1.0,1.0,True
+2711,jv-ID,iot,iot_hue_lightoff,tutup mati lampune,lists_remove,0.2784,0.1275,False
+2717,jv-ID,play,play_music,aku are ngrungoake sewu kutha,social_post,0.9998,0.0,False
+2724,jv-ID,news,news_query,menehi kabar saka c. n. n.,news_query,0.4019,0.4019,True
+2770,jv-ID,play,play_music,setel musik jazz soko mus mujiono,play_music,0.9999,0.9999,True
+2774,jv-ID,iot,iot_hue_lightoff,pateni lampune,social_post,0.6373,0.0041,False
+2775,jv-ID,iot,iot_hue_lightoff,mungkasi nggunakake lampu,iot_hue_lightoff,0.9812,0.9812,True
+2777,jv-ID,weather,weather_query,apa aku kudu nggawa payung dina iki,cooking_recipe,0.9838,0.0005,False
+2781,jv-ID,play,play_music,setel sembarang musik jazz,play_music,1.0,1.0,True
+2798,jv-ID,play,play_music,puter tembang cidro,qa_factoid,1.0,0.0,False
+2801,jv-ID,datetime,datetime_query,saiki jam pira ning bandung,play_music,0.9963,0.0001,False
+2824,jv-ID,datetime,datetime_query,telulas desember iku dina opo,email_sendemail,1.0,0.0,False
+2840,jv-ID,datetime,datetime_query,kaping pindho sasi ngarep ndharat ing dina apa,weather_query,0.2656,0.0377,False
+2859,jv-ID,datetime,datetime_query,olly jam pira ing kutha iki,play_music,0.9965,0.0001,False
+2887,jv-ID,news,news_query,mangga tuduhna artikel apa wae sing ana gandhengane karo cuaca ing warta isuk,weather_query,0.5421,0.0152,False
+2890,jv-ID,weather,weather_query,cuaca saiki,social_post,0.9698,0.0001,False
+2898,jv-ID,news,news_query,apa sembarang nganyari gati babagan pilihan,recommendation_events,0.8426,0.002,False
+2914,jv-ID,datetime,datetime_query,tanggal pira dina iki,datetime_query,0.9511,0.9511,True
+2917,jv-ID,weather,weather_query,laporan cuaca mingguan,weather_query,0.9965,0.9965,True
+2921,jv-ID,news,news_query,apa wae pawarta ing c. n. n. laman,qa_factoid,0.7961,0.0033,False
+2927,jv-ID,datetime,datetime_query,berapa wektu di yogyakarta,weather_query,0.6512,0.0034,False
+2931,jv-ID,play,play_music,setel denny caknan los dol,qa_factoid,1.0,0.0,False
+2962,jv-ID,play,play_music,setel tembang kadi didi kempot,qa_factoid,0.3779,0.0076,False
+2965,jv-ID,iot,iot_hue_lightoff,mateni lampu kantor,iot_hue_lightoff,0.982,0.982,True
+3002,jv-ID,play,play_music,setel didi kempot,social_post,0.831,0.0041,False
+3031,jv-ID,play,play_music,aku ingin puter tembang maneh,qa_factoid,0.9479,0.0005,False
+3034,jv-ID,weather,weather_query,kandhani aku bab suhu,iot_hue_lightoff,0.5578,0.3688,False
+3037,jv-ID,news,news_query,artikel warta kaca ngarep mangga,social_post,0.9398,0.0014,False
+3039,jv-ID,news,news_query,apa sing anyar ing warta,social_post,0.2527,0.0161,False
+3060,jv-ID,news,news_query,apa kabar saka kompas kasebut,qa_factoid,0.8705,0.0113,False
+3091,jv-ID,datetime,datetime_query,apa wektu iku ing wektu standar pasifik,iot_hue_lightoff,0.3198,0.0278,False
+3096,jv-ID,weather,weather_query,piye cuacane neng new jersey,social_post,0.9646,0.0004,False
+3098,jv-ID,iot,iot_hue_lightoff,gawe mati lampune,social_post,0.9162,0.0014,False
+3099,jv-ID,news,news_query,nuduhake kula sawetara acara saiki,social_post,0.7385,0.0038,False
+3101,jv-ID,news,news_query,bacano berita sing anyar,news_query,0.9978,0.9978,True
+3116,jv-ID,play,play_music,setel lagu kesenengan aku soko taun wingi,play_music,0.9997,0.9997,True
+3117,jv-ID,play,play_music,setel sembarang lagu soko album noah,play_music,0.9466,0.9466,True
+3118,jv-ID,datetime,datetime_query,wektu w. i. b. saiki jam pira,social_post,0.3707,0.0063,False
+3124,jv-ID,play,play_music,setel sembarang lagu soko daftar puter aku,play_music,0.5502,0.5502,True
+3146,jv-ID,play,play_music,setel david bowie nomer siji soko daftar lagu aku,play_music,0.7856,0.7856,True
+3167,jv-ID,iot,iot_hue_lightoff,gawe mati lampu kamar ku,iot_hue_lightoff,0.9879,0.9879,True
+3174,jv-ID,play,play_music,puterno daftar tembang,qa_factoid,0.7649,0.0013,False
+3205,jv-ID,play,play_music,setel poker face soko lady gaga,social_post,0.9907,0.0006,False
+3207,jv-ID,play,play_music,setel poker face soko lady gaga,social_post,0.9907,0.0006,False
+3212,jv-ID,calendar,calendar_set,elingno aku kanggo nindakake sesuatu,qa_factoid,0.6712,0.0014,False
+3214,jv-ID,news,news_query,apa kahanan saiki investigasi hubungan trump karo rusia,qa_factoid,0.6362,0.0006,False
+3228,jv-ID,datetime,datetime_query,natal taun iki ing dina apa,weather_query,0.6562,0.313,False
+3253,jv-ID,weather,weather_query,apa dewe ngarepake udan awan iki,recommendation_events,0.6452,0.0228,False
+3264,jv-ID,play,play_music,puter musik reggae,play_music,0.9992,0.9992,True
+3305,jv-ID,weather,weather_query,apa cuaca minggu iki kanggo miami,weather_query,0.9995,0.9995,True
+3306,jv-ID,weather,weather_query,apa ramalane kanggo seminggu,weather_query,0.9719,0.9719,True
+3329,jv-ID,news,news_query,aku pengin ndeleng warta,social_post,0.3046,0.0123,False
+3337,jv-ID,weather,weather_query,laporke cuaca kanggo telung puluh telu uwe pitu atus pitung puluh papat,weather_query,0.999,0.999,True
+3338,jv-ID,weather,weather_query,laporan cuaca kanggo largo,weather_query,0.9949,0.9949,True
+3361,jv-ID,datetime,datetime_query,selasa ngarep tanggal pira,datetime_query,0.9466,0.9466,True
+3378,jv-ID,iot,iot_hue_lightoff,ora ana lampu ing pawon,qa_factoid,0.7171,0.2413,False
+3386,jv-ID,iot,iot_hue_lightoff,ngganti mateni lampu nganti sacekape,iot_hue_lightoff,0.8888,0.8888,True
+3400,jv-ID,play,play_music,puter versi langsung dening elton john,qa_factoid,0.9174,0.0042,False
+3401,jv-ID,play,play_music,setel tembang didi kempot paling kondang,qa_factoid,0.9841,0.0002,False
+3406,jv-ID,weather,weather_query,apa ramalan sepuluh dina,email_sendemail,1.0,0.0,False
+3407,jv-ID,weather,weather_query,apa ana ramalan udan utawa salju minggu iki,weather_query,0.996,0.996,True
+3408,jv-ID,weather,weather_query,apa cuaca bakal apik akhir minggu iki,weather_query,0.9988,0.9988,True
+3426,jv-ID,weather,weather_query,pinten derajat ing njaba,qa_factoid,0.9664,0.0019,False
+3433,jv-ID,play,play_music,musik anyar pop,play_music,0.9991,0.9991,True
+3434,jv-ID,play,play_music,musik rap paling apik,qa_factoid,0.9916,0.0077,False
+3441,jv-ID,datetime,datetime_query,apa tanggal rolikur iku neng dina rebo,datetime_query,0.9981,0.9981,True
+3444,jv-ID,datetime,datetime_query,opo saiki jam sepuluh,social_post,0.9983,0.0001,False
+3447,jv-ID,weather,weather_query,apa cuaca udan dina setu,weather_query,0.9988,0.9988,True
+3481,jv-ID,play,play_music,muter lagu paling populer dening afgan,qa_factoid,0.8284,0.1529,False
+3489,jv-ID,play,play_music,setel musik saiki,play_music,0.9991,0.9991,True
+3492,jv-ID,play,play_music,ayo muter daftar tembang sing paling sering aku diputer,lists_remove,0.4033,0.021,False
+3503,jv-ID,weather,weather_query,kepiye cuaca neng jogja,qa_factoid,0.6987,0.3004,False
+3507,jv-ID,weather,weather_query,ana salju ing ramalan,cooking_recipe,0.9302,0.0002,False
+3513,jv-ID,play,play_music,puterno daftar ku bae,qa_factoid,1.0,0.0,False
+3516,jv-ID,weather,weather_query,apa kemungkinan udan ing cuaca dina iki,qa_factoid,0.981,0.0186,False
+3539,jv-ID,play,play_music,setel lagu shake it off soko taylor swift,play_music,0.9653,0.9653,True
+3546,jv-ID,play,play_music,aku pengen krungu jazz musik,play_music,0.9881,0.9881,True
+3550,jv-ID,play,play_music,dhekekno sawetara dewa sangalas,qa_definition,0.9012,0.0002,False
+3554,jv-ID,play,play_music,setel daftar tembang tresno,qa_definition,0.8543,0.0001,False
+3562,jv-ID,play,play_music,baleni,qa_factoid,0.3883,0.0191,False
+3566,jv-ID,datetime,datetime_query,jam pira saiki ing bandung,social_post,0.4203,0.0208,False
+3570,jv-ID,iot,iot_hue_lightoff,tulung pateni lampu ing teras,iot_hue_lightoff,0.9768,0.9768,True
+3576,jv-ID,news,news_query,apa crita paling anyar saka warta rubahapa crita paling anyar saka fox news,news_query,0.9968,0.9968,True
+3586,jv-ID,weather,weather_query,opo cuacane ndek beijing,social_post,0.6654,0.0049,False
+3600,jv-ID,calendar,calendar_set,elingake aku sawise sepuluh menit,iot_hue_lightoff,0.5585,0.0047,False
+3603,jv-ID,news,news_query,apa kabar paling anyar saka antara,qa_factoid,0.9993,0.0,False
+3605,jv-ID,news,news_query,apa kabar paling anyar babagan c. n. n.,qa_factoid,1.0,0.0,False
+3606,jv-ID,datetime,datetime_query,apa wektu ing majalengka,social_post,0.7447,0.0003,False
+3614,jv-ID,weather,weather_query,dina iki cerah ya,iot_hue_lightoff,0.5709,0.4192,False
+3623,jv-ID,news,news_query,apa sing kedadeyan ing donya dina iki,qa_factoid,0.7031,0.006,False
+3624,jv-ID,news,news_query,berita saka kompas,qa_factoid,0.2556,0.0196,False
+3631,jv-ID,play,play_music,setel sembarang musik jazz,play_music,1.0,1.0,True
+3686,jv-ID,play,play_music,setel daftar lagu khusus musik rock,play_music,0.9821,0.9821,True
+3714,jv-ID,play,play_music,muter dhaptar tembang mata dewa aku saka ngisor,qa_factoid,0.6314,0.0159,False
+3717,jv-ID,play,play_music,setel lagu hits rap sangang puluhan duwekku,play_music,0.9976,0.9976,True
+3723,jv-ID,play,play_music,setel cidro soko didi kempot sakwise tembang iki,qa_factoid,0.252,0.0192,False
+3725,jv-ID,datetime,datetime_query,saiki tanggal piro,qa_factoid,0.9946,0.0008,False
+3727,jv-ID,play,play_music,setel janjiku soko gigi,qa_factoid,0.8432,0.0059,False
+3750,jv-ID,news,news_query,olly yen ana kabar anyar babagan banjir bisa langsung kabari,weather_query,0.9445,0.0003,False
+3779,jv-ID,play,play_music,setel youtube daftar tembang cidro,qa_factoid,0.9978,0.0,False
+3780,jv-ID,play,play_music,setel tembang kenangan aku kadi urutan tembang,iot_hue_lightoff,0.5015,0.0189,False
+3784,jv-ID,weather,weather_query,kandani aku laporan cuacane ning jakarta,qa_factoid,1.0,0.0,False
+3785,jv-ID,iot,iot_hue_lightoff,tulung pateni lampu kamar mandi,iot_hue_lightoff,0.9343,0.9343,True
+3822,jv-ID,news,news_query,goleki kula info babagan mobil,social_post,0.703,0.0018,False
+3852,jv-ID,weather,weather_query,apa jenis cuaca sing padha duwe ing orange tx saiki,weather_query,0.9995,0.9995,True
+3859,jv-ID,play,play_music,tulung dhekekno daftar lagu rap kesenengan ku,play_music,0.8662,0.8662,True
+3907,jv-ID,play,play_music,puterno aku ingkang populer taun wingi,qa_factoid,0.9994,0.0,False
+3911,jv-ID,play,play_music,setel sembarang tembang sing menang grammy taun iki,iot_hue_lightoff,0.3087,0.0222,False
+3912,jv-ID,play,play_music,aku arep ngrungoake musik keroncong,play_music,0.9884,0.9884,True
+3936,jv-ID,weather,weather_query,piro suhu ne,qa_factoid,0.9877,0.004,False
+3960,jv-ID,datetime,datetime_query,omongke jam saiki,social_post,0.8855,0.001,False
+3967,jv-ID,play,play_music,dangdut,social_post,0.4548,0.0158,False
+3980,jv-ID,play,play_music,tulung setelen lagu ne didi kempot sewu kuto,play_music,0.8235,0.8235,True
+3982,jv-ID,play,play_music,pilih lagu pertama nang perpustakaan itunes,play_music,0.9899,0.9899,True
+3993,jv-ID,iot,iot_hue_lightoff,iso koe gawe lampu mati,qa_factoid,0.6562,0.3103,False
+3995,jv-ID,datetime,datetime_query,olly riyoyo dino opo,social_post,0.5976,0.0226,False
+4001,jv-ID,news,news_query,apa kedaden ing mati suri,qa_factoid,0.9885,0.0004,False
+4023,jv-ID,news,news_query,apa ing warta,qa_factoid,0.8824,0.0001,False
+4031,jv-ID,play,play_music,setel cidro,qa_factoid,0.9671,0.0006,False
+4040,jv-ID,play,play_music,puter tembang sing tak rungokno paling akeh,qa_factoid,0.9143,0.004,False
+4058,jv-ID,play,play_music,setel sembarang musik rap,play_music,0.9999,0.9999,True
+4073,jv-ID,datetime,datetime_query,tanggal limo iku dina opo,iot_hue_lightoff,0.4994,0.3334,False
+4077,jv-ID,iot,iot_hue_lightoff,giliran mateni lampu pawon,iot_hue_lightoff,0.9759,0.9759,True
+4088,jv-ID,iot,iot_hue_lightoff,pateni lampu ing nduwur sirah,social_post,0.5299,0.3332,False
+4104,jv-ID,weather,weather_query,kaya apa cuaca ing tucson dina iki,weather_query,0.9992,0.9992,True
+4116,jv-ID,play,play_music,tulung setel daftar lagu acak,qa_definition,0.6874,0.0242,False
+4119,jv-ID,news,news_query,aku pengin ngerti kabeh sing rusak babagan bendungan pecah kalimantan barat,qa_factoid,0.937,0.0032,False
+4132,jv-ID,weather,weather_query,kandhani aku persentasi bakal udan ing seattle washington kanggo dina iki,weather_query,0.8957,0.8957,True
+4136,jv-ID,play,play_music,iso tulung kowe puter didi kempot,social_post,0.9108,0.0024,False
+4152,jv-ID,play,play_music,setel tembang cidro,qa_factoid,0.9882,0.0,False
+4168,jv-ID,weather,weather_query,tulung ditiliki cuaca nang indonesia,weather_query,0.885,0.885,True
+4171,jv-ID,iot,iot_hue_lightoff,pateni lampu ning pawon,iot_hue_lightoff,0.7657,0.7657,True
+4177,jv-ID,news,news_query,wenehi berita politik paling anyar ing saindenging dunya,news_query,0.783,0.783,True
+4178,jv-ID,news,news_query,apa ana sembarang kabar babagan ke presiden an,social_post,0.7859,0.0231,False
+4183,jv-ID,datetime,datetime_query,wektu bandung,iot_hue_lightoff,0.91,0.0041,False
+4186,jv-ID,datetime,datetime_query,heh olly saiki jam pira,social_post,0.9729,0.0001,False
+4187,jv-ID,datetime,datetime_query,heh siri jam pira,social_post,0.9997,0.0,False
+4205,jv-ID,play,play_music,aku pengin denger cidro didi kempot,social_post,0.4142,0.0121,False
+4212,jv-ID,weather,weather_query,apa aku sore iki bisa nyukur suket,weather_query,0.9901,0.9901,True
+4227,jv-ID,weather,weather_query,apa ana udan ing ramalan kanggo minggu ngarep,weather_query,0.4632,0.4632,True
+4232,jv-ID,play,play_music,setel separuh aku noah,lists_remove,0.6748,0.0085,False
+4236,jv-ID,datetime,datetime_query,apa sek durung sore,cooking_recipe,0.9793,0.0006,False
+4253,jv-ID,datetime,datetime_query,apa wektu saiki ing standar wétan,qa_factoid,0.9232,0.0004,False
+4254,jv-ID,datetime,datetime_query,jam pira saiki ning bandung indonesia,weather_query,0.9946,0.0002,False
+4258,jv-ID,news,news_query,apa kabar paling anyar,qa_factoid,1.0,0.0,False
+4266,jv-ID,weather,weather_query,apa cuaca dina iki,qa_factoid,0.996,0.0038,False
+4273,jv-ID,play,play_music,setel tatu,social_post,0.5104,0.0076,False
+4290,jv-ID,weather,weather_query,apa aku kudu nganggo jaket engko bengi,qa_factoid,0.9923,0.0003,False
+4305,jv-ID,play,play_music,setel lagu major tom david bowie,play_music,0.8128,0.8128,True
+4309,jv-ID,datetime,datetime_query,pirang jam maneh tengah wengi ning bogor indonesia,weather_query,0.9989,0.0002,False
+4312,jv-ID,weather,weather_query,apa cuaca bakal kurang saka sepuluh derajat ing paris,weather_query,0.9997,0.9997,True
+4313,jv-ID,weather,weather_query,apa sesuk bakal udan ning cirebon,recommendation_events,0.9493,0.0015,False
+4336,jv-ID,datetime,datetime_query,jam pira ndek cina,qa_factoid,0.9517,0.0,False
+4346,jv-ID,iot,iot_hue_lightoff,pateni lampu,iot_hue_lightoff,0.8297,0.8297,True
+4347,jv-ID,iot,iot_hue_lightoff,mandek operasi lampu,qa_definition,0.8731,0.0458,False
+4355,jv-ID,weather,weather_query,piye cuaca ne ning tempatku,weather_query,0.9888,0.9888,True
+4361,jv-ID,play,play_music,setel sembarang lagu apik,play_music,0.9553,0.9553,True
+4362,jv-ID,datetime,datetime_query,jam piro saiki nang tulungagung,social_post,0.5685,0.0003,False
+4376,jv-ID,weather,weather_query,piye kabare nang njaba dina iki,social_post,0.8987,0.002,False
+4377,jv-ID,weather,weather_query,apa cuaca saiki,qa_factoid,0.8175,0.1807,False
+4383,jv-ID,weather,weather_query,apa cuaca sesuk,weather_query,0.9867,0.9867,True
+4391,jv-ID,news,news_query,apa judhul ing c. n. n.,social_post,0.9999,0.0,False
+4400,jv-ID,news,news_query,apa berita sing lagi anget ing new york times,news_query,0.9997,0.9997,True
+4402,jv-ID,weather,weather_query,apa aku kudu nggawa payung dina iki,cooking_recipe,0.9838,0.0005,False
+4412,jv-ID,weather,weather_query,apa cuaca ing portland,weather_query,0.9993,0.9993,True
+4436,jv-ID,weather,weather_query,jaket apa sing kudu tak kanggo,qa_factoid,0.9955,0.0001,False
+4439,jv-ID,weather,weather_query,kepiye cuaca ing san francisco,weather_query,0.8222,0.8222,True
+4449,jv-ID,weather,weather_query,opo arep udan jam siji awan dina iki,social_post,0.9231,0.0033,False
+4452,jv-ID,play,play_music,setel lagu,play_music,0.993,0.993,True
+4463,jv-ID,datetime,datetime_query,pira akehe dina sabtu ndek wulan maret,weather_query,0.9994,0.0,False
+4477,jv-ID,play,play_music,puter lagu next,play_music,0.981,0.981,True
+4482,jv-ID,weather,weather_query,apa aku kudu nyekop dalan mlebu ku esuk iki,cooking_recipe,0.8699,0.0058,False
+4486,jv-ID,weather,weather_query,menehi kula ramalan cuaca kanggo minggu iki,weather_query,0.9955,0.9955,True
+4487,jv-ID,weather,weather_query,bakal udan dina kemis,social_post,0.9991,0.0,False
+4491,jv-ID,news,news_query,apa kabar paling anyar babagan donald trump,qa_factoid,0.99,0.0,False
+4492,jv-ID,news,news_query,apa statistik kejahatan paling anyar kanggo kula wilayah,qa_factoid,1.0,0.0,False
+4496,jv-ID,news,news_query,apa sing dikirim vogue saiki,play_music,0.6355,0.0012,False
+4502,jv-ID,datetime,datetime_query,jam piro nang bogor saiki,weather_query,0.4141,0.0057,False
+4524,jv-ID,weather,weather_query,olly apa ramalan cuaca kanggo dina iki,weather_query,0.996,0.996,True
+4547,jv-ID,play,play_music,setel daftar puter mlaku mlaku,qa_factoid,0.9946,0.0001,False
+4567,jv-ID,news,news_query,maca kula judhul paling anyar saka nytimescom,social_post,0.8437,0.0001,False
+4580,jv-ID,datetime,datetime_query,ing solo saiki jam piro,play_music,0.4667,0.0079,False
+4587,jv-ID,play,play_music,puter kesenengan aku,iot_hue_lightoff,0.2252,0.0387,False
+4589,jv-ID,calendar,calendar_set,nyetel kabar kanggo lomba olah raga,news_query,0.5398,0.0054,False
+4606,jv-ID,news,news_query,golek informasi babagan saham dino iki,datetime_query,0.6494,0.0148,False
+4614,jv-ID,weather,weather_query,apa suhu sesuk bakal luwih dhuwur saka patang puluh,weather_query,0.8412,0.8412,True
+4662,jv-ID,news,news_query,pawarta saka c. b. s. alexa,qa_factoid,0.4523,0.0015,False
+4667,jv-ID,datetime,datetime_query,jam saiki,email_query,0.7683,0.0002,False
+4680,jv-ID,weather,weather_query,apa aku kudu nganggo sandal opo sepatu karo kaos kaki,qa_factoid,0.8186,0.0038,False
+4689,jv-ID,weather,weather_query,apa kowe ngerti cuaca,weather_query,0.9926,0.9926,True
+4692,jv-ID,play,play_music,setelke aku lagu ne koes plus,play_music,0.9968,0.9968,True
+4710,jv-ID,datetime,datetime_query,dina muludan taun iki dina apa,datetime_query,0.587,0.587,True
+4764,jv-ID,weather,weather_query,apa dina senin arep udan,weather_query,0.9844,0.9844,True
+4767,jv-ID,news,news_query,apa ana informasi anyar tentang gunung semeru,qa_definition,0.5679,0.008,False
+4772,jv-ID,datetime,datetime_query,jam piro saiki nang zona wektu iki,weather_query,0.7998,0.0043,False
+4780,jv-ID,datetime,datetime_query,ulang taun ku tanggal pitu likur juni taun iki dina apa,datetime_query,0.5402,0.5402,True
+4784,jv-ID,weather,weather_query,apa aku butuh jaket,qa_factoid,0.9973,0.0001,False
+4813,jv-ID,datetime,datetime_query,jam piro nang medan saiki,social_post,0.9414,0.0004,False
+4837,jv-ID,news,news_query,apa ana sembarang kabar olly,email_sendemail,0.9889,0.0001,False
+4838,jv-ID,play,play_music,setel kabeh musik soko marcel siahaan,play_music,0.9997,0.9997,True
+4871,jv-ID,weather,weather_query,piye ning njaba,social_post,0.207,0.017,False
+4881,jv-ID,datetime,datetime_query,golekno wektu lokal saiki,social_post,0.9637,0.0003,False
+4882,jv-ID,datetime,datetime_query,saiki ning kutho jam pira,play_music,0.9984,0.0001,False
+4890,jv-ID,calendar,calendar_set,atur kabar babagan gangguan cuaca saiki ing amerika,news_query,0.6292,0.0037,False
+4909,jv-ID,play,play_music,puter tembang tembang tembang saka waljinah,qa_definition,0.9918,0.0001,False
+4917,jv-ID,weather,weather_query,suhu ing njaba,qa_factoid,0.3686,0.0053,False
+4928,jv-ID,play,play_music,setel tembang jawa,qa_definition,0.6215,0.0,False
+4933,jv-ID,weather,weather_query,apa saiki bakal udan,social_post,0.9924,0.0003,False
+4951,jv-ID,datetime,datetime_query,aku pengen ngerti saiki jam piro,cooking_recipe,0.9352,0.0008,False
+4953,jv-ID,news,news_query,berita kecelakaan sepur,qa_factoid,0.9993,0.0,False
+4957,jv-ID,datetime,datetime_query,minggu iki tanggal telu likur wulan iki dina apa,datetime_query,0.6586,0.6586,True
+4960,jv-ID,play,play_music,musik didi kempot,play_music,0.9998,0.9998,True
+4968,jv-ID,qa,qa_factoid,sing menang pemilihan presiden taun iki,qa_factoid,1.0,1.0,True
+4973,jv-ID,play,play_music,olly puterno cidro,qa_factoid,0.9999,0.0,False
+4998,jv-ID,play,play_music,tambahke tembang iki sakbanjure,iot_hue_lightoff,0.5187,0.0051,False
+5009,jv-ID,weather,weather_query,apa aku butuh payung minggu iki,calendar_remove,0.9259,0.0014,False
+5016,jv-ID,news,news_query,marang kula warta babagan pasar saham munggah lan mudun,social_post,0.9871,0.0007,False
+5027,jv-ID,datetime,datetime_query,kapan mbesuk jemuwah tanggal telulas,iot_hue_lightoff,0.8,0.1212,False
+5037,jv-ID,weather,weather_query,adem kaya apa dina iki,qa_factoid,0.8638,0.0005,False
+5038,jv-ID,weather,weather_query,opo cuaca minggu iki,weather_query,0.9958,0.9958,True
+5040,jv-ID,weather,weather_query,cuaca ne saiki piye,cooking_recipe,0.998,0.0,False
+5062,jv-ID,play,play_music,setel sembarang lagu wolongpuluhan,play_music,0.9285,0.9285,True
+5074,jv-ID,weather,weather_query,opo cuaca ne nggo sak minggu,weather_query,0.9595,0.9595,True
+5085,jv-ID,weather,weather_query,apa ramalan cuaca ne sabtu,weather_query,0.9977,0.9977,True
+5118,jv-ID,play,play_music,mirasantika,social_post,0.6894,0.0084,False
+5127,jv-ID,news,news_query,punika bebener bab dhaharan ing gembong ing budget wong kang,social_post,0.3623,0.0329,False
+5131,jv-ID,datetime,datetime_query,tulung kandhani aku wektu ing bandung,social_post,0.7305,0.0017,False
+5134,jv-ID,play,play_music,golekno lagu lagu teko tembang jawa ku,play_music,0.9477,0.9477,True
+5156,jv-ID,iot,iot_hue_lightoff,nindakno mateni lampu ing ruang tamu,cooking_recipe,0.7839,0.1915,False
+5157,jv-ID,iot,iot_hue_lightoff,olly pateni lampu ning kamar keluargo,iot_hue_lightoff,0.3654,0.3654,True
+5158,jv-ID,play,play_music,puter na tembang paling anyar saka album ne isyana,qa_factoid,0.9967,0.0001,False
+5159,jv-ID,play,play_music,setel tembang soko didi kempot,iot_hue_lightoff,0.394,0.0091,False
+5160,jv-ID,play,play_music,setel tembang soko didi kempot,iot_hue_lightoff,0.394,0.0091,False
+5176,jv-ID,weather,weather_query,kaya apa cuaca minggu iki,weather_query,0.9982,0.9982,True
+5196,jv-ID,news,news_query,aku pengin ngerti babagan tol padalarang,qa_factoid,0.9949,0.0001,False
+5225,jv-ID,datetime,datetime_query,dina rebo ngarep tanggal pira,datetime_query,0.9995,0.9995,True
+5243,jv-ID,iot,iot_hue_lightoff,siri tulung pateni lampu ning jedhing,iot_hue_lightoff,0.7585,0.7585,True
+5245,jv-ID,news,news_query,atur kabar berita lingkungan,news_query,0.9993,0.9993,True
+5270,jv-ID,news,news_query,apa warta paling anyar,qa_factoid,1.0,0.0,False
+5278,jv-ID,play,play_music,setel musik pop mix,play_music,0.9997,0.9997,True
+5279,jv-ID,play,play_music,setel lagu sedih soko ipod,play_music,0.985,0.985,True
+5286,jv-ID,news,news_query,tudokne b. b. c. warta migrasi,qa_factoid,0.8329,0.0023,False
+5296,jv-ID,news,news_query,olly golekno berita terkenal tekan b. b. c.,social_post,0.9338,0.002,False
+5297,jv-ID,news,news_query,njaluk kabar terkenal saka b. b. c.,social_post,0.9998,0.0,False
+5301,jv-ID,weather,weather_query,koyo opo cuacane pas tanggal rong puluh maret rong ewu pitulas,qa_factoid,1.0,0.0,False
+5307,jv-ID,datetime,datetime_query,dina iki rong puluh maret,qa_factoid,0.5106,0.0057,False
+5318,jv-ID,play,play_music,tulung puter tembang noah wae,social_post,0.9996,0.0,False
+5321,jv-ID,weather,weather_query,duduhno cuaca,weather_query,0.9527,0.9527,True
+5328,jv-ID,play,play_music,rock,qa_factoid,0.5125,0.0155,False
+5339,jv-ID,weather,weather_query,kondisi pendingin an sithik,cooking_recipe,0.3228,0.0286,False
+5341,jv-ID,datetime,datetime_query,tulung elingke aku wektu,social_post,0.9804,0.0001,False
+5347,jv-ID,play,play_music,mulai lagu tekno,play_music,0.9978,0.9978,True
+5358,jv-ID,datetime,datetime_query,saiki jam piro,email_query,0.747,0.0005,False
+5370,jv-ID,news,news_query,apa anyar kontroversi jokowi,qa_factoid,0.9125,0.0001,False
+5378,jv-ID,play,play_music,s,qa_factoid,0.1568,0.0405,False
+5401,jv-ID,play,play_music,musik,play_music,0.9985,0.9985,True
+5410,jv-ID,news,news_query,maca kula paling anyar new york times judhul,social_post,0.9689,0.0006,False
+5411,jv-ID,news,news_query,apa crita sing paling nduwur ing c. n. n.,qa_factoid,0.9445,0.0004,False
+5413,jv-ID,play,play_music,puterno musik,play_music,0.9987,0.9987,True
+5414,jv-ID,play,play_music,setel musik,play_music,1.0,1.0,True
+5427,jv-ID,datetime,datetime_query,apa wektu ing indonesia saiki,social_post,0.3607,0.0009,False
+5433,jv-ID,weather,weather_query,opo arep udan mengko,social_post,0.9974,0.0001,False
+5439,jv-ID,weather,weather_query,apa aku kudu payung kanggo bengi,weather_query,0.4097,0.4097,True
+5465,jv-ID,weather,weather_query,iso aku nganggo sandal ku dina iki,qa_factoid,0.0994,0.0416,False
+5468,jv-ID,weather,weather_query,apa aku kudu njupuk kacamata,iot_hue_lightoff,0.7813,0.0035,False
+5524,jv-ID,weather,weather_query,cuaca saiki,social_post,0.9698,0.0001,False
+5529,jv-ID,weather,weather_query,jam piro kudune aku mangkat ndaki,weather_query,0.9997,0.9997,True
+5557,jv-ID,play,play_music,aku pengin reggae,play_music,0.991,0.991,True
+5577,jv-ID,weather,weather_query,aku bakal mbutuhake jaket rapet yen badai banter ing wayah sore,qa_factoid,0.994,0.0002,False
+5578,jv-ID,weather,weather_query,aku butuh kaos kaki sing anget ing mangsa udan esuk,lists_remove,0.4109,0.0201,False
+5584,jv-ID,iot,iot_hue_lightoff,tulung gawe mati lampune,social_post,0.9836,0.0001,False
+5590,jv-ID,weather,weather_query,suhu mbukak,social_post,0.8382,0.0113,False
+5593,jv-ID,play,play_music,puter putri saka jamrud,qa_factoid,0.6621,0.0002,False
+5619,jv-ID,play,play_music,setel lagu sedurunge,calendar_set,0.5516,0.0655,False
+5627,jv-ID,play,play_music,puterno musik saka beatles,play_music,0.9999,0.9999,True
+5640,jv-ID,datetime,datetime_query,saiki tanggal piro,qa_factoid,0.9946,0.0008,False
+5650,jv-ID,weather,weather_query,takon cuaca sore dina iki,cooking_recipe,0.88,0.094,False
+5658,jv-ID,play,play_music,puterna aku musik saka kotak,play_music,0.9985,0.9985,True
+5661,jv-ID,weather,weather_query,apa aku kudu nggawa mantel udan ku saiki,cooking_recipe,0.9988,0.0001,False
+5671,jv-ID,datetime,datetime_query,apa wektu ing surabaya,qa_factoid,0.7915,0.0,False
+5678,jv-ID,datetime,datetime_query,kaping limolas agustus iku dina apa ing minggu,datetime_query,0.4235,0.4235,True
+5683,jv-ID,play,play_music,setel daftar puter lagu pesta aku,recommendation_events,0.3115,0.2948,False
+5688,jv-ID,news,news_query,sumangga kula aturaken pawarta,social_post,0.9943,0.0001,False
+5703,jv-ID,datetime,datetime_query,wektu saiki,social_post,0.9958,0.0,False
+5707,jv-ID,play,play_music,setel kesenengan aku,iot_hue_lightoff,0.6401,0.0114,False
+5721,jv-ID,weather,weather_query,nuduhake cuaca sesuk ing daerah kene,weather_query,0.9604,0.9604,True
+5722,jv-ID,weather,weather_query,nampilake perkiraan cuaca pitung dina kanggo minggu iki,weather_query,0.9971,0.9971,True
+5732,jv-ID,weather,weather_query,apa aku kudu ngganti ban mobilku dadi ban salju,calendar_remove,0.2767,0.0303,False
+5757,jv-ID,datetime,datetime_query,jam loro kurang seprapat,social_post,0.9998,0.0,False
+5758,jv-ID,weather,weather_query,kepiye cuacane nang ibu kutha,qa_factoid,0.9083,0.0,False
+5774,jv-ID,datetime,datetime_query,wektu saiki ning sulawesi,qa_factoid,0.9393,0.0,False
+5797,jv-ID,weather,weather_query,apa aku kudu nganggo jas udan sadurunge metu,iot_hue_lightoff,0.3317,0.015,False
+5813,jv-ID,play,play_music,puter lagu diam,play_music,0.7698,0.7698,True
+5820,jv-ID,play,play_music,virgoun duka,qa_factoid,0.9972,0.0001,False
+5837,jv-ID,weather,weather_query,ngomong babagan cuaca minggu iki,weather_query,0.9861,0.9861,True
+5871,jv-ID,weather,weather_query,kepiye iklim mysore dina iki,cooking_recipe,0.9079,0.0008,False
+5886,jv-ID,news,news_query,topik panas,qa_factoid,0.961,0.0003,False
+5919,jv-ID,news,news_query,apa nganyari paling anyar ing proposal jembatan new york,qa_factoid,0.7533,0.0003,False
+5930,jv-ID,news,news_query,sembarang warta bejat saka kompas,qa_definition,0.5866,0.0149,False
+5948,jv-ID,play,play_music,setel sawetara tembang apik kadi daftar puterku,qa_factoid,0.8017,0.0002,False
+5953,jv-ID,weather,weather_query,kanggo manggon kutha luwih murah utawa larang,qa_factoid,0.6109,0.0155,False
+5955,jv-ID,weather,weather_query,sakpiro aman kutha iki menurut hukum lan ketertiban,qa_factoid,0.3812,0.0305,False
+5970,jv-ID,play,play_music,setel cidro,qa_factoid,0.9671,0.0006,False
+5985,jv-ID,news,news_query,tudokne kula kabar paling anyar saka pbb,qa_factoid,0.9817,0.0107,False
+5996,jv-ID,weather,weather_query,apa aku butuh sepatu bot salju ku awan iki,weather_query,0.957,0.957,True
+5997,jv-ID,datetime,datetime_query,jam pira saiki ning zona wektu tengah,weather_query,0.3202,0.0238,False
+6023,jv-ID,weather,weather_query,bakal dadi panas wengi iki,weather_query,0.9987,0.9987,True
+6024,jv-ID,weather,weather_query,kudu kah aku gawe sweter utowo jaket ge kerjo dina iki,qa_factoid,0.9875,0.0004,False
+6025,jv-ID,weather,weather_query,apa aku butuh tabir surya awan iki,iot_hue_lightoff,0.5946,0.2543,False
+6027,jv-ID,play,play_music,setel tembang kesenengan aku,qa_factoid,0.9998,0.0,False
+6039,jv-ID,weather,weather_query,sesuk bakal udan,social_post,0.9996,0.0,False
+6041,jv-ID,iot,iot_hue_lightoff,hey olly pateni lampu,iot_hue_lightoff,0.9935,0.9935,True
+6045,jv-ID,play,play_music,tambahno lagu pilihanku,play_podcasts,0.3935,0.1835,False
+6050,jv-ID,weather,weather_query,apa aku butuh tabir surya mengko,qa_factoid,0.9986,0.0,False
+6055,jv-ID,iot,iot_hue_lightoff,apa aku ninggalake lampu ing garasi,iot_hue_lightoff,0.969,0.969,True
+6059,jv-ID,play,play_music,setel musik musik rap,play_music,0.9999,0.9999,True
+6069,jv-ID,weather,weather_query,apa dina iki bakal badai,qa_factoid,0.9846,0.0005,False
+6073,jv-ID,iot,iot_hue_lightoff,pateni lampu teras,iot_hue_lightoff,0.5893,0.5893,True
+6074,jv-ID,iot,iot_hue_lightoff,mateni lampu kamar turu ing setengah sepuluh bengi,iot_hue_lightoff,0.9929,0.9929,True
+6077,jv-ID,news,news_query,aku pengin krungu kabar dunya paling anyar saka dino iki,qa_factoid,0.5139,0.0653,False
+6093,jv-ID,weather,weather_query,apa aku kudu mbukak payon mobil,qa_factoid,0.9975,0.0001,False
+6103,jv-ID,weather,weather_query,heh cuacane bakal kaya apa dina iki ning purwokerto indonesia,qa_factoid,0.9979,0.0001,False
+6116,jv-ID,weather,weather_query,info cuaca minggu iki,weather_query,0.9858,0.9858,True
+6118,jv-ID,datetime,datetime_query,hey pira iki ing bandung,iot_hue_lightoff,1.0,0.0,False
+6127,jv-ID,weather,weather_query,apa sampeyan menehi saran payung,social_post,0.9989,0.0001,False
+6129,jv-ID,news,news_query,golekno berita teko dunya saiki,social_post,0.8744,0.1231,False
+6151,jv-ID,weather,weather_query,aku pengin ngerti cuaca dina iki,qa_factoid,0.9905,0.0092,False
+6172,jv-ID,weather,weather_query,kacamata minangka pilihan sing apik kanggo dina iki,recommendation_events,0.7121,0.0049,False
+6177,jv-ID,weather,weather_query,opo aku bakal butuh payung dina iki,qa_factoid,0.7302,0.0052,False
+6178,jv-ID,weather,weather_query,apa aku kudu nggawe jaket,qa_factoid,0.9913,0.0002,False
+6194,jv-ID,weather,weather_query,piye cuacane dina iki,qa_factoid,0.9984,0.0001,False
+6289,jv-ID,weather,weather_query,cuacane kaya apa dina iki,qa_factoid,0.9901,0.0001,False
+6370,jv-ID,calendar,calendar_query,piye jadwalku minggu mbesuk,social_post,0.9999,0.0,False
+6372,jv-ID,news,news_query,warta tentang tanduran,qa_definition,0.1587,0.083,False
+6403,jv-ID,transport,transport_query,carane njaluk nang endi wae,qa_factoid,0.638,0.0053,False
+6410,jv-ID,news,news_query,apa sing kedadeyan ing prancis dino iki,weather_query,0.5318,0.0066,False
+6411,jv-ID,weather,weather_query,apa cuaca ing dina rebo,weather_query,0.9992,0.9992,True
+6539,jv-ID,calendar,calendar_set,tandhani dina iki minangka wiwitane dietku,cooking_recipe,0.8296,0.0021,False
+6542,jv-ID,cooking,cooking_recipe,opo keju lembek luwih enak,cooking_recipe,1.0,1.0,True
+6618,jv-ID,news,news_query,ngandani warta menarik,social_post,0.9783,0.0001,False
+6682,jv-ID,news,news_query,pemilu munggah,email_sendemail,0.9807,0.0001,False
+6683,jv-ID,news,news_query,urusan ekonomi,qa_definition,0.4266,0.0104,False
+6713,jv-ID,calendar,calendar_remove,mbatalake rapat bisnis ing dina rebo,qa_factoid,0.5925,0.123,False
+6722,jv-ID,calendar,calendar_query,apa eneng seng kudu aku elingke,qa_factoid,0.4708,0.0072,False
+6725,jv-ID,calendar,calendar_set,elingno jadwal awan ku,qa_factoid,0.9854,0.0002,False
+6726,jv-ID,calendar,calendar_remove,batalna rapat selanjute,qa_factoid,0.9976,0.0001,False
+6729,jv-ID,calendar,calendar_remove,batalke mangan esuk ning omahe tiffany,qa_factoid,0.1656,0.0479,False
+6732,jv-ID,calendar,calendar_set,nambah pangeling rapat kanggo dina minggu karo maratuwa ku,lists_remove,0.3089,0.0133,False
+6744,jv-ID,calendar,calendar_set,leboke rapat karo pawel kanggo sesuk jam sepuluh esuk,social_post,0.9585,0.0006,False
+6746,jv-ID,calendar,calendar_set,aturno minggu pertama juni minangka preian ing tanggalan ku,datetime_query,0.9951,0.0003,False
+6747,jv-ID,calendar,calendar_query,piro cacahe aku duwe pangeling,cooking_recipe,0.999,0.0,False
+6755,jv-ID,calendar,calendar_remove,tulung resiki tanggalan ku,qa_factoid,0.9852,0.0002,False
+6761,jv-ID,calendar,calendar_remove,busaken seko tanggalan ku rapat jam sanga esuk,social_post,0.7622,0.0011,False
+6764,jv-ID,calendar,calendar_set,elingno aku kanggo ngresiki jendhela,lists_remove,0.3756,0.0071,False
+6774,jv-ID,calendar,calendar_set,atur acara gawe jumat,qa_factoid,0.9397,0.0006,False
+6785,jv-ID,calendar,calendar_query,opo pengeling ku selanjute,qa_factoid,0.8001,0.0009,False
+6789,jv-ID,calendar,calendar_set,atur patemonan karo joanna dina setu papat sore,iot_hue_lightoff,0.3923,0.0171,False
+6798,jv-ID,calendar,calendar_remove,mbusak acara ku ngarep,social_post,0.6849,0.0459,False
+6801,jv-ID,calendar,calendar_query,duduhno aku rapat rapat aku jumat iki,social_post,0.9988,0.0001,False
+6806,jv-ID,calendar,calendar_query,duduhno aku tanggalan acara ku dina jumat iki awan,weather_query,0.9617,0.0002,False
+6815,jv-ID,calendar,calendar_set,ngelingi ulang taun ibu ku seminggu sadurunge,qa_factoid,0.8383,0.0017,False
+6819,jv-ID,calendar,calendar_set,olly ana band main bengi iki jam sanga ning jazz bar aku arep lunga,email_query,0.4825,0.0074,False
+6836,jv-ID,calendar,calendar_set,ilingno aku acara rapat sesuk jam enem,qa_factoid,0.959,0.0005,False
+6850,jv-ID,calendar,calendar_query,daftarke jadwal ku dina iki,calendar_remove,0.573,0.1059,False
+6856,jv-ID,calendar,calendar_set,wenehi aku pangeling ing rapat sesuk jam sepuluh isuk,weather_query,0.9691,0.0002,False
+6860,jv-ID,calendar,calendar_query,enek acara-acara opo bariki,social_post,0.9948,0.0,False
+6865,jv-ID,calendar,calendar_set,atur kabar rapat sesuk jam sepuluh,weather_query,0.9479,0.0015,False
+6878,jv-ID,calendar,calendar_set,jadwal ketemuan karo departemen akuntansi jam setengah telu sore dina jumat,calendar_remove,0.6057,0.0935,False
+6891,jv-ID,calendar,calendar_query,opo ono acara acara esuk kasedhiya,qa_factoid,0.9973,0.0,False
+6892,jv-ID,calendar,calendar_query,opo kowe iso ngekeki aku jadwal pilem,qa_factoid,0.8538,0.0001,False
+6897,jv-ID,calendar,calendar_set,elingno aku methuk linda ing jam lima sore tanggal pitu,recommendation_events,0.9645,0.0003,False
+6901,jv-ID,calendar,calendar_set,ngelingake sesuk jam sepuluh esuk ana rapat,play_music,0.481,0.0068,False
+6902,jv-ID,calendar,calendar_set,atur pangeling sasi ngarep kanggo ngganti oli,cooking_recipe,0.7233,0.0057,False
+6909,jv-ID,calendar,calendar_query,apa sing kedadeyan sawise jam siji lan sadurunge telung sore,qa_factoid,0.9983,0.0001,False
+6918,jv-ID,calendar,calendar_remove,mbusak acara saka tanggalan,calendar_remove,0.9874,0.9874,True
+6923,jv-ID,calendar,calendar_set,nyetel pangeling kanggo nyetak dokumen ing dina selasa esuk,calendar_remove,0.4964,0.0614,False
+6926,jv-ID,calendar,calendar_query,apa iki jumat,qa_factoid,0.6025,0.0124,False
+6928,jv-ID,calendar,calendar_remove,mbusak kabeh acara,calendar_remove,0.8437,0.8437,True
+6936,jv-ID,calendar,calendar_set,elingno aku ngombe obat jam sanga esuk,qa_factoid,0.5154,0.0056,False
+6937,jv-ID,calendar,calendar_set,atur pangeling eling awan gawe mangan awan karo bos,cooking_recipe,1.0,0.0,False
+6946,jv-ID,calendar,calendar_query,apa ana rapat rapat sing disetel kanggo dina rebo ngarep,qa_factoid,0.9236,0.0018,False
+6958,jv-ID,calendar,calendar_remove,priksa manawa ora ana acara ing tanggalan ku,social_post,0.7469,0.0134,False
+6959,jv-ID,calendar,calendar_set,ngelingake rapat ku sejam sadurunge diwiwiti,email_sendemail,0.9884,0.0001,False
+6962,jv-ID,calendar,calendar_set,opo aku iso ngerti opo sing kudu aku lakokno sabtu ngarep jam enem sore,social_post,0.7698,0.0013,False
+6964,jv-ID,calendar,calendar_set,apa kowe isa ngelingake rapat sesuk karo bos ku sak jam sadurunge kedadeyan,social_post,0.3947,0.0221,False
+6967,jv-ID,calendar,calendar_query,kowe iso ngecekno fakta fakta ing masalah iki,qa_factoid,1.0,0.0,False
+6968,jv-ID,calendar,calendar_query,aku kudu konfirmasi kabeh rapat rapat kanggo dina iki bisa ngajak wong,qa_factoid,0.9199,0.0049,False
+6973,jv-ID,calendar,calendar_set,nambah pangeling saka konferensi kanggo sesuk ing new york,play_podcasts,0.9261,0.0013,False
+6974,jv-ID,calendar,calendar_set,aku duwe gawean ing washington sesuk elingno,social_post,0.7339,0.0068,False
+6980,jv-ID,calendar,calendar_query,kekono aku dhaptar sing kudu dilaksanake,iot_hue_lightoff,0.9998,0.0,False
+6992,jv-ID,calendar,calendar_query,nduduhake acara sesuk,calendar_remove,0.9621,0.0002,False
+6994,jv-ID,calendar,calendar_set,elingke aku,social_post,0.9988,0.0,False
+6997,jv-ID,calendar,calendar_remove,mbusak acara sukses,qa_factoid,0.7994,0.0429,False
+7000,jv-ID,calendar,calendar_set,acara anyar,qa_factoid,0.9955,0.0001,False
+7004,jv-ID,calendar,calendar_set,tambahno pangeling eling nang tanggalanku pendak taun pas tanggal iki,calendar_remove,0.1418,0.0335,False
+7013,jv-ID,calendar,calendar_query,kapan acarane arep diwiwiti,cooking_recipe,0.9983,0.0,False
+7014,jv-ID,calendar,calendar_query,wenehi jadwal acara dina iki,calendar_remove,0.9822,0.0022,False
+7025,jv-ID,calendar,calendar_remove,mbusak taun anyar saka tanggalan,calendar_remove,0.6082,0.6082,True
+7026,jv-ID,recommendation,recommendation_events,acara opo sing lagi ana neng kutha ku minggu iki,qa_factoid,0.977,0.0027,False
+7039,jv-ID,calendar,calendar_set,atur rapat selanjute selasa jam sewelas awan karo yesi,lists_remove,0.9425,0.0017,False
+7044,jv-ID,calendar,calendar_set,ilengna aku siap siap jam limo sore,weather_query,0.2252,0.0398,False
+7046,jv-ID,calendar,calendar_set,lebokna rapat tari tanggal selikur jam pitu,calendar_remove,0.9607,0.001,False
+7055,jv-ID,calendar,calendar_set,jadwalke rapat karo matt dina kemis jam swelas awan,weather_query,0.9965,0.0001,False
+7057,jv-ID,calendar,calendar_set,jadwalna rapat nedha awan karo adi rebo awan,weather_query,0.9674,0.0004,False
+7061,jv-ID,calendar,calendar_set,kekono pangeling eling pat likur jam sadurunge rapat ku jumat karo edg,play_music,0.8637,0.003,False
+7073,jv-ID,calendar,calendar_set,telusuri tanggalan ku kanggo acara sabanjure lan ngabari aku sadurunge kedadeyan,social_post,0.2518,0.0154,False
+7080,jv-ID,calendar,calendar_remove,batalake kabeh ing tanggalan ku,qa_factoid,0.8939,0.0727,False
+7087,jv-ID,calendar,calendar_remove,batalna rapat sesuk seko tanggalan aku,qa_factoid,0.9997,0.0001,False
+7098,jv-ID,calendar,calendar_set,tambahna pembayaran mobil aku tanggal rolas nang tanggalan aku,qa_factoid,0.9665,0.0012,False
+7100,jv-ID,calendar,calendar_set,ilingake aku dina sadurunge mobil ku teka,qa_factoid,0.9054,0.0011,False
+7111,jv-ID,calendar,calendar_query,jam pira janjian dokter ku tanggal telung puluh siji maret,datetime_query,0.9902,0.0002,False
+7113,jv-ID,calendar,calendar_query,apa ana acara ing tengah kutha akhir minggu iki,news_query,0.218,0.0273,False
+7117,jv-ID,calendar,calendar_remove,singkirna acara tanggal sangalas seko kalender aku,calendar_remove,0.9978,0.9978,True
+7120,jv-ID,calendar,calendar_query,jadwal aku opo dino iki,calendar_remove,0.9806,0.0014,False
+7122,jv-ID,calendar,calendar_set,balenina acara iki,qa_factoid,0.9032,0.0009,False
+7140,jv-ID,calendar,calendar_set,atur pangeling eling kanggo aku sejam sakdurunge rapat maem siang,weather_query,0.8644,0.0019,False
+7141,jv-ID,calendar,calendar_query,apa program iki dijadwalken,cooking_recipe,0.8943,0.0004,False
+7151,jv-ID,calendar,calendar_set,kanggo saben minggu nomer ganjil setel pangeling eling,qa_factoid,0.2329,0.0322,False
+7152,jv-ID,calendar,calendar_set,nyetel mangan awan saben dina ing setengah siji,cooking_recipe,0.9979,0.0001,False
+7161,jv-ID,calendar,calendar_set,ilengna acara iki selawase,qa_factoid,0.4262,0.003,False
+7170,jv-ID,calendar,calendar_set,ibu ku ulang taun dina iki kirimno pemberitahuan saben taun ning tanggal iki,email_sendemail,0.9572,0.0016,False
+7181,jv-ID,calendar,calendar_set,gugah aku jam enem esuk dina kemis supaya aku duwe wektu kanggo rapat,calendar_remove,0.959,0.0265,False
+7185,jv-ID,calendar,calendar_query,kapan selanjute janji ketemuan karo dokter budi,recommendation_events,0.3261,0.0121,False
+7189,jv-ID,calendar,calendar_query,opo aku duwe rencana,qa_factoid,0.4991,0.0064,False
+7194,jv-ID,calendar,calendar_set,aturna rapat aku sesuk,social_post,0.9024,0.0006,False
+7196,jv-ID,calendar,calendar_set,ngelingake aku rapat karo allen tanggal limalas maret,social_post,0.5416,0.0001,False
+7199,jv-ID,calendar,calendar_set,setel kabar telu loro lan sejam sakdurunge final indonesia minggu ngarep,iot_hue_lightoff,0.5246,0.0156,False
+7209,jv-ID,calendar,calendar_set,apa kowe isa ngelingake aku supaya mbuwang sampah ing dina selasa,lists_remove,0.6585,0.0039,False
+7219,jv-ID,calendar,calendar_query,pengeling eling rapat sesuk,email_sendemail,0.7851,0.0007,False
+7224,jv-ID,calendar,calendar_query,tomi mantenan tempate nang ngendi,qa_factoid,0.3206,0.0104,False
+7232,jv-ID,calendar,calendar_query,acara acara opo ae minggu ngarep,qa_factoid,0.9993,0.0,False
+7257,jv-ID,calendar,calendar_set,tulung elingke aku nelpon ibu ing setengah jam,qa_factoid,0.2417,0.0148,False
+7258,jv-ID,calendar,calendar_set,ilengna aku ngirim surel nang bos sawise sakjam,social_post,0.7746,0.0006,False
+7262,jv-ID,calendar,calendar_set,gaweno pangeling eling nggo rapat sesuk,social_post,0.8953,0.0007,False
+7266,jv-ID,calendar,calendar_query,opo tudas ku seng ditunda,social_post,0.989,0.0002,False
+7278,jv-ID,calendar,calendar_set,ilengna aku ulang taun rita patlikur jam sadurunge,social_post,0.1836,0.0408,False
+7287,jv-ID,calendar,calendar_set,ilengna ulang taun perkawinan aku sedina sadurunge,qa_factoid,0.6507,0.0155,False
+7289,jv-ID,calendar,calendar_remove,nyingkirake kabeh acara acara karo jeff,news_query,0.9249,0.0011,False
+7291,jv-ID,calendar,calendar_set,blokir sak jam saka jam sepuluh sesuk esuk,play_music,0.9999,0.0,False
+7292,jv-ID,calendar,calendar_set,tandai kalenderku sesuk sore jam papat nganti jam enem aku ora ono,calendar_remove,0.7629,0.1705,False
+7293,jv-ID,calendar,calendar_set,jadwal janjian sak jam kanggo dina setu,calendar_remove,0.9002,0.0338,False
+7294,jv-ID,calendar,calendar_remove,busaken janjian karo george adams seko tanggalanku,email_sendemail,0.9756,0.0,False
+7295,jv-ID,calendar,calendar_remove,tulung busak tanggalan ku,lists_remove,0.5903,0.0727,False
+7314,jv-ID,calendar,calendar_query,kanggo apa dina iki,qa_factoid,0.9949,0.0002,False
+7316,jv-ID,calendar,calendar_query,apa aku duwe sembarang janjian,cooking_recipe,0.9988,0.0001,False
+7319,jv-ID,calendar,calendar_query,apa sing kedadeyan ing dina iki saka loro papat sore,news_query,0.4423,0.0145,False
+7353,jv-ID,email,email_query,mung supaya kula ngerti minggu ngarep cuaca ing semarang,weather_query,0.9986,0.0001,False
+7355,jv-ID,calendar,calendar_set,ilingno aku mriksa godhokan jam enem,social_post,0.9272,0.0003,False
+7380,jv-ID,calendar,calendar_query,tulung duduhno rapat dina iki karo klien klien,qa_factoid,0.362,0.0154,False
+7397,jv-ID,calendar,calendar_query,opo ono acara acara sing wis direncanake ing telung wulan ngarep,qa_factoid,0.9993,0.0,False
+7449,jv-ID,calendar,calendar_set,tulung jadwalke rapat karo wong iki,qa_factoid,0.992,0.0006,False
+7450,jv-ID,calendar,calendar_set,aku butuh rapat kanggo nggawe jadwal karo wong iki,qa_factoid,0.7683,0.0217,False
+7455,jv-ID,calendar,calendar_set,elingno aku pesta sesuk,qa_factoid,0.9998,0.0,False
+7461,jv-ID,calendar,calendar_set,ajak uwong menyang acara seng ono nang tanggalan,social_post,0.5259,0.0081,False
+7463,jv-ID,calendar,calendar_set,kandhanono klompokku yen tanggal rapat anyar kuwi sesuk,qa_factoid,0.9998,0.0,False
+7467,jv-ID,calendar,calendar_query,acara,qa_factoid,0.9926,0.0001,False
+7477,jv-ID,calendar,calendar_set,ilingno aku tanggal limo maret saben taun kanggo ngatur hadiah ulang taun pernikahan,email_sendemail,0.2428,0.1062,False
+7496,jv-ID,calendar,calendar_query,opo aku duwe janji dina iki,weather_query,0.6798,0.0065,False
+7499,jv-ID,calendar,calendar_set,gawe jadwal anyar kanggo rapat sesuk,calendar_set,0.6227,0.6227,True
+7500,jv-ID,calendar,calendar_remove,mbusakna kabeh acara selanjute,lists_remove,0.5031,0.4217,False
+7502,jv-ID,calendar,calendar_query,opo sing ono ing agenda jam papat sore rapat karo joe,social_post,0.284,0.0186,False
+7503,jv-ID,calendar,calendar_query,ning d. c. ngendi rapat kuwi jam siji awan dina jumat,social_post,0.9932,0.0004,False
+7520,jv-ID,calendar,calendar_set,ilingno aku saben dina jam loro awan gawe mangan awan,cooking_recipe,0.9968,0.0001,False
+7524,jv-ID,calendar,calendar_query,sepiro akeh e mehta gelem investasi ing perusahaan ku ing rapat sing diadakno dina iki jam limo rong puluh sore,email_sendemail,0.1126,0.0451,False
+7528,jv-ID,calendar,calendar_set,tulung aturno tanggal telulas juni iku dina asil pemilu,datetime_query,0.9962,0.0002,False
+7531,jv-ID,calendar,calendar_set,tulung tambahke dina gajian ku,recommendation_events,0.2882,0.008,False
+7539,jv-ID,calendar,calendar_query,apa aku duwe apa apa,social_post,0.9349,0.0017,False
+7542,jv-ID,calendar,calendar_set,tulung ilingno aku pekoro iki sesuk,social_post,0.9651,0.0004,False
+7549,jv-ID,calendar,calendar_set,aku arep rapat nganti jam telu,iot_hue_lightoff,0.7317,0.0049,False
+7556,jv-ID,calendar,calendar_set,setelno tanggalan kanggo ngelingake aku tuku sembako saben jumat,qa_factoid,0.4485,0.0092,False
+7557,jv-ID,calendar,calendar_set,gaweno pangeling eling lokasi ing tanggalan,cooking_recipe,0.6245,0.0078,False
+7559,jv-ID,calendar,calendar_set,ilengna aku bengi iki njupuk kumbahan jam wolu bengi,weather_query,0.5535,0.0123,False
+7563,jv-ID,calendar,calendar_set,elingno aku ketemuan sesuk sak jam sadurunge,calendar_remove,0.6471,0.0002,False
+7565,jv-ID,calendar,calendar_set,pangeling rapat,qa_factoid,0.9343,0.0001,False
+7567,jv-ID,calendar,calendar_set,ulang taun,social_post,0.7629,0.0018,False
+7569,jv-ID,calendar,calendar_query,rencana kanggo sesuk,social_post,0.9997,0.0,False
+7570,jv-ID,calendar,calendar_query,apa rencanane kanggo dina iki,qa_definition,0.2975,0.007,False
+7583,jv-ID,calendar,calendar_set,kanca tambahno acara ing tanggalan,calendar_remove,0.9128,0.0031,False
+7596,jv-ID,calendar,calendar_set,tulung jadwalno rapat karo derrick ning haysi awan wae,qa_factoid,0.5828,0.0186,False
+7598,jv-ID,calendar,calendar_set,tulung aturke rapat kanggo ngrembug terorisme karo fred ing dina kasedhiya ngarep,social_post,0.778,0.012,False
+7606,jv-ID,calendar,calendar_set,ketemu karo joe sesuk jam telu,play_music,0.9928,0.0002,False
+7609,jv-ID,calendar,calendar_remove,busak pangeling eling rapat kanggo selasa,iot_hue_lightoff,0.3501,0.043,False
+7613,jv-ID,calendar,calendar_query,apa acara sing bakal teka,qa_factoid,0.8907,0.0019,False
+7628,jv-ID,calendar,calendar_set,ilingno aku pas aku ing perpustakaan gawe njupuk kartu perpustakaan anyar,qa_factoid,0.9241,0.0017,False
+7654,jv-ID,calendar,calendar_set,tandhani rong puluh april ulang taun dulur ku,social_post,0.9952,0.0002,False
+7655,jv-ID,calendar,calendar_set,tambahno pangeling eling kanggo rong puluh april minangka ulang taun kakang ku,lists_remove,0.1938,0.0308,False
+7660,jv-ID,calendar,calendar_remove,batalna kabeh janji temu aku sawise jam telu sore iki lan kandani aku rincianne,social_post,0.1892,0.0381,False
+7662,jv-ID,calendar,calendar_query,apa kowe isa dhaptarke rapat rapat ku dina iki,email_sendemail,0.5319,0.0036,False
+7664,jv-ID,calendar,calendar_set,nambah mangan awan karo mike,social_post,0.9428,0.0013,False
+7666,jv-ID,calendar,calendar_set,apa kowe bakal menehi tandha yen aku duwe rapat karo tom jam telu sesuk,recommendation_events,0.7719,0.0009,False
+7680,jv-ID,calendar,calendar_remove,ing tanggalan ku busak kabeh acara golf kanggo sasi saiki,qa_factoid,0.1005,0.0438,False
+7686,jv-ID,calendar,calendar_set,leboke mike karo jack ning tanggalan festival,social_post,0.2596,0.0225,False
+7690,jv-ID,calendar,calendar_query,opo seng aku due,qa_factoid,0.8862,0.0007,False
+7693,jv-ID,calendar,calendar_query,opo aku duwe rencana tanggal selikur,iot_hue_lightoff,0.932,0.0,False
+7697,jv-ID,calendar,calendar_set,nyetel pangeling eling kanggo iki,iot_hue_lightoff,0.8356,0.0209,False
+7711,jv-ID,calendar,calendar_set,batalna kabeh rapat aku liyane lan tandhai loro maret kuwi ulang taun janu lebokna nang acara tanggalanmu,qa_factoid,0.4399,0.0025,False
+7712,jv-ID,calendar,calendar_set,oko batalna kabeh rapat aku liyane terus tandhai nang tanggalanmu loro maret ulang taun andi,social_post,0.9864,0.0004,False
+7718,jv-ID,calendar,calendar_set,hei kirmno undangan rapat neng pak ross gawe dina jumat iki lan bloken tanggalanku gawe dino jumat awan,email_sendemail,0.9874,0.0,False
+7726,jv-ID,calendar,calendar_set,aku butuh sesuatu saben senen kanggo pangeling iki,cooking_recipe,0.1638,0.0203,False
+7730,jv-ID,calendar,calendar_set,aku kudu menehi tandha dina senen ngarep,social_post,0.128,0.0358,False
+7741,jv-ID,calendar,calendar_remove,mbusak tanggalan ku kanggo dina setu,calendar_remove,0.9713,0.9713,True
+7751,jv-ID,calendar,calendar_set,elingno aku saben dina senen kanggo mbuang sampah,lists_remove,0.4246,0.0073,False
+7762,jv-ID,calendar,calendar_query,pangeling opo sing aku duwe,social_post,0.9875,0.0,False
+7767,jv-ID,calendar,calendar_set,tambahno acara wulangan neng tanggalan gawe tanggal papat februari neng taman king pas jam loro awan,calendar_remove,0.2404,0.0298,False
+7768,jv-ID,calendar,calendar_set,tambahna latian tanggal papat februari jam loro awan nang taman bunga,weather_query,0.9494,0.0015,False
+7774,jv-ID,calendar,calendar_set,tambahake blanja menyang tanggalan ku kanggo sesuk,qa_factoid,0.5451,0.0064,False
+7777,jv-ID,calendar,calendar_query,opo aku duwe jadwal janjian dina iki,calendar_remove,0.6562,0.0047,False
+7778,jv-ID,calendar,calendar_set,ilingno opo sing aku kudu ngerjakno dina minggu awan,play_music,0.491,0.0056,False
+7808,jv-ID,calendar,calendar_set,elingno aku methuk ibu menyang salon rambut dina kemis jam sewelas awan,weather_query,0.5024,0.0042,False
+7817,jv-ID,calendar,calendar_query,apa tanggal iki bener,qa_factoid,0.9678,0.0002,False
+7820,jv-ID,calendar,calendar_remove,busak kabeh acara acara neng tanggalan,calendar_remove,0.9916,0.9916,True
+7836,jv-ID,calendar,calendar_remove,mbusak kabeh acara,calendar_remove,0.8437,0.8437,True
+7843,jv-ID,calendar,calendar_set,weruhi rong jam sakdurunge nek aku lunga gawe wulangan biola pas jam papat sore neng musicworkz,play_music,1.0,0.0,False
+7844,jv-ID,calendar,calendar_query,pangeling eling apa sing tak nyetel,play_music,0.816,0.0016,False
+7847,jv-ID,calendar,calendar_set,elingno aku nalika pendaftaran dibukak,email_query,0.4415,0.0001,False
+7851,jv-ID,calendar,calendar_set,aku duwe rapat ing awan dina iki,weather_query,0.2703,0.005,False
+7863,jv-ID,calendar,calendar_set,ilingno aku mulai mangan bengi awan iki jam limo,weather_query,0.9534,0.0003,False
+7870,jv-ID,calendar,calendar_remove,busak acara saka tanggalan,calendar_remove,0.9887,0.9887,True
+7876,jv-ID,news,news_query,apa sing kedadeyan sajrone rong wulan kepungkur,social_post,0.9967,0.0002,False
+7878,jv-ID,calendar,calendar_remove,busak tanggalan ku,calendar_remove,0.8179,0.8179,True
+7879,jv-ID,calendar,calendar_query,telu acara ngarep ku apa,qa_factoid,0.8227,0.0005,False
+7889,jv-ID,calendar,calendar_query,jam pira pertandingan bal balan bengi iki,datetime_query,0.503,0.0084,False
+7890,jv-ID,calendar,calendar_remove,busek potongan rambut dina iki,iot_hue_lightoff,0.6711,0.0064,False
+7891,jv-ID,calendar,calendar_remove,mbatalake mangan wengi dina iki,cooking_recipe,0.995,0.0001,False
+7892,jv-ID,calendar,calendar_remove,mbusak acara sabanjure dina iki,calendar_remove,0.4578,0.4578,True
+7894,jv-ID,calendar,calendar_set,kekono aku kabar anyar pemilu ing sak jam sadurunge,qa_factoid,0.5258,0.0003,False
+7902,jv-ID,calendar,calendar_set,atur ketemuan antarane aku karo jono jam loro awan sesuk,calendar_remove,0.5062,0.0018,False
+7908,jv-ID,calendar,calendar_query,opo aku kudu ngelakokke opo wae dina iki,social_post,0.7831,0.0023,False
+7912,jv-ID,calendar,calendar_remove,alexa busek mangan bengi karo mike ing tanggalan ku,email_sendemail,0.7498,0.0042,False
+7916,jv-ID,calendar,calendar_set,ngelingake kula kanggo njupuk metu uwuh ing jam enem sore,social_post,0.3435,0.0084,False
+7918,jv-ID,calendar,calendar_set,kirim undangan acara tanggalan nang beni raharjo,qa_factoid,0.5444,0.0008,False
+7919,jv-ID,calendar,calendar_set,rapat anyar tambahono bill lan malinda minangka peserta,qa_factoid,0.9749,0.0011,False
+7922,jv-ID,calendar,calendar_remove,buka tugas tugas busek acara ngarep,qa_factoid,0.9983,0.0001,False
+7927,jv-ID,calendar,calendar_query,opo sing kudu tak lakokke minggu iki,social_post,0.9938,0.0001,False
+7946,jv-ID,calendar,calendar_query,konser mbesuk neng malang opo yo,social_post,0.9996,0.0,False
+7953,jv-ID,calendar,calendar_remove,batalke janjian ku karo dokterku ing dina setu,qa_factoid,0.9915,0.0028,False
+7955,jv-ID,calendar,calendar_set,dhekekno acara iki ing pola mbaleni ing tanggalan ku,calendar_remove,0.7293,0.0028,False
+7956,jv-ID,calendar,calendar_set,gawena acara iki dibaleni meneh,cooking_recipe,0.5412,0.0007,False
+7966,jv-ID,calendar,calendar_query,opo aku ngandi kowe kon ngelingke opo wae,social_post,0.97,0.0007,False
+7970,jv-ID,calendar,calendar_set,ilingno aku jadwal manten tepat wektu kanggo tuku hadiah,calendar_remove,0.9941,0.0005,False
+7971,jv-ID,calendar,calendar_set,atur pangeling eling rong dina sadurunge gawe acara iki,calendar_remove,0.8868,0.002,False
+7975,jv-ID,calendar,calendar_query,opo nang kene parkir khusus acara,social_post,0.477,0.0236,False
+7978,jv-ID,calendar,calendar_query,pangeling opo sing nang jadwalku sakdurunge sesok awan,social_post,0.9847,0.0002,False
+7980,jv-ID,calendar,calendar_set,kandanono aku yen aku nduwe acara,qa_factoid,0.8246,0.0005,False
+7981,jv-ID,calendar,calendar_set,kirimno pengiling sakdurunge rapat,email_sendemail,0.2049,0.0193,False
+7993,jv-ID,calendar,calendar_remove,busek kabeh acara acara ing tanggalan ku,calendar_remove,0.8694,0.8694,True
+8001,jv-ID,calendar,calendar_remove,apa kowe isa mbusak cukuran rambut sing wis aku jadwalake ing dina jumat,cooking_recipe,0.9921,0.0002,False
+8004,jv-ID,calendar,calendar_set,dorothy perlu ngomong karo aku babagan pegatan tulung nyiyapake rapat sanalika aku kasedhiya,social_post,0.3557,0.0124,False
+8005,jv-ID,calendar,calendar_set,dina senin tanggal rongpuluh aku kudu ngobrol karo greg babagan perjalanan akhir minggu,email_sendemail,0.9993,0.0,False
+8013,jv-ID,calendar,calendar_query,tuduhake rapat ku ing sasi ngarep,qa_factoid,0.9725,0.0001,False
+8029,jv-ID,calendar,calendar_query,acara opo bakal teko dino iki,datetime_query,0.9053,0.0005,False
+8033,jv-ID,datetime,datetime_query,natal iku dino opo,social_post,0.8572,0.0163,False
+8035,jv-ID,calendar,calendar_set,ilengna aku ganti oli,email_sendemail,1.0,0.0,False
+8037,jv-ID,calendar,calendar_set,ilengna aku suwatu hal kadhangkala,iot_hue_lightoff,0.6966,0.0088,False
+8042,jv-ID,calendar,calendar_query,piye carane akeh wong sing nekani rapat ku ngarep,qa_factoid,0.9693,0.0,False
+8043,jv-ID,calendar,calendar_query,jam piro janjian ku selanjute,qa_factoid,0.4624,0.0008,False
+8044,jv-ID,calendar,calendar_query,ono opo ing jadwal ku dina iki,calendar_remove,0.5453,0.1475,False
+8055,jv-ID,calendar,calendar_remove,mbusakna janjian aku tanggal pitu maret,calendar_remove,0.7215,0.7215,True
+8056,jv-ID,calendar,calendar_query,apa aku duweni kencan ing dina jumat,social_post,0.9556,0.0023,False
+8058,jv-ID,calendar,calendar_query,apa aku duwe rapat sales dina iki,qa_factoid,0.9207,0.0036,False
+8073,jv-ID,calendar,calendar_set,jadwalno rapat sales gawe rebo jam sewelas awan,weather_query,0.7215,0.0042,False
+8079,jv-ID,calendar,calendar_set,nyetel pangeling ing sejam kanggo roti sek tak panggang,cooking_recipe,0.9907,0.0003,False
+8084,jv-ID,calendar,calendar_query,apa agenda acara ne,qa_factoid,0.7612,0.0199,False
+8085,jv-ID,calendar,calendar_set,aku pengen nyetel tanggal kanggo minggu iki,calendar_remove,0.9149,0.0802,False
+8100,jv-ID,email,email_sendemail,surel janji temu aku dijadwal meneh,qa_factoid,0.7903,0.0009,False
+8107,jv-ID,calendar,calendar_set,aturen acara ulang tahun kanggo doni,cooking_recipe,0.6984,0.0035,False
+8110,jv-ID,calendar,calendar_set,tulung tambahno pengawasan ing tanggalan ku,qa_factoid,0.6456,0.0092,False
+8116,jv-ID,calendar,calendar_query,sak kabehe waktu antara tanggal siji februari tekan tanggal enem belas maret ono rapat opo wae,qa_factoid,0.9935,0.0002,False
+8119,jv-ID,calendar,calendar_query,ing ngendi pesta ulang taun mary dianakake,social_post,0.9873,0.0005,False
+8125,jv-ID,calendar,calendar_set,gawe acara rapat ing tanggalan ku,calendar_remove,0.6282,0.0036,False
+8126,jv-ID,calendar,calendar_set,jadwalna acara rapat nang tanggalan aku,qa_factoid,0.7408,0.0115,False
+8129,jv-ID,calendar,calendar_query,apa pangeling eling sing aku isih duwe,play_music,1.0,0.0,False
+8140,jv-ID,calendar,calendar_set,atur pangeling tanggal telulas aku duwe acara mangan awan karo dita,cooking_recipe,0.7903,0.0018,False
+8148,jv-ID,calendar,calendar_query,opo aku ninggalake pangeling eling sembarang,qa_factoid,0.146,0.0357,False
+8150,jv-ID,calendar,calendar_query,apa aku duwe pangeling-eling pesta ulang taun,social_post,0.8654,0.003,False
+8165,jv-ID,calendar,calendar_query,setengah siji awan ana rapat ing sepuluh menit,iot_hue_lightoff,0.8994,0.0019,False
+8182,jv-ID,calendar,calendar_remove,apa kowe isa mbusak janjian dokter untu,qa_factoid,0.9414,0.0002,False
+8188,jv-ID,calendar,calendar_query,tanggal piro saiki,qa_factoid,1.0,0.0,False
+8204,jv-ID,calendar,calendar_set,tulung elingno aku lungo kantor pos,social_post,0.9795,0.001,False
+8206,jv-ID,calendar,calendar_set,ojo sampek aku lali tuku kado gawe dulur wadon ku,social_post,0.9175,0.0034,False
+8230,jv-ID,calendar,calendar_query,piro suwene rapat mangan awan aku dino selasa,cooking_recipe,0.6779,0.0023,False
+8241,jv-ID,calendar,calendar_remove,busek kabeh saka tanggalan ku sisa taun iki,lists_remove,0.4826,0.2451,False
+8245,jv-ID,calendar,calendar_set,aku butuh dikabari saka layanan gereja dina minggu jam sewelas awan,weather_query,0.7277,0.002,False
+8248,jv-ID,calendar,calendar_set,tambahna mangan bengi sesuk nang tanggalan,cooking_recipe,0.9951,0.0001,False
+8251,jv-ID,calendar,calendar_set,lebokna acara mangan awan kanggo minggu ngarep,cooking_recipe,0.3988,0.0046,False
+8260,jv-ID,calendar,calendar_set,tulung wenehi tandha sak dina sadurunge ulang taun e jeff,social_post,0.7316,0.0103,False
+8261,jv-ID,calendar,calendar_set,kirimi aku tandha lan jam sadurunge janjian sabanjure,play_music,0.6588,0.0005,False
+8269,jv-ID,calendar,calendar_set,pangelingke telung puluh menit ing rapat kanggo selasa,datetime_query,0.7483,0.0031,False
+8276,jv-ID,calendar,calendar_remove,tulung busakno janjian ning jadwal ku sabanjure,cooking_recipe,0.8322,0.0264,False
+8280,jv-ID,calendar,calendar_set,aku kudu nyetel pangeling ing limalas maret,play_music,0.982,0.0003,False
+8284,jv-ID,calendar,calendar_remove,busak ulang taun saka tanggalan,calendar_remove,0.573,0.573,True
+8289,jv-ID,calendar,calendar_set,aturno pangeling rapat fakultas dina iki jam papat,qa_factoid,0.9004,0.0021,False
+8290,jv-ID,calendar,calendar_set,bukak pangeling bab rapat manajer minggu ngarep dino selasa,iot_hue_lightoff,0.4495,0.0205,False
+8294,jv-ID,calendar,calendar_set,tambahake ning tanggalan lan baleni,qa_factoid,1.0,0.0,False
+8300,jv-ID,calendar,calendar_set,simpen acara tanggal wolulas maret jam limo sore tekan enem sore,qa_factoid,0.5275,0.0027,False
+8302,jv-ID,calendar,calendar_remove,busakno rapat senin ngarep,qa_factoid,0.4923,0.0236,False
+8308,jv-ID,news,news_query,wingi awan ing times square apa sing protes,social_post,0.8997,0.0022,False
+8336,jv-ID,calendar,calendar_query,kapan jajan awan ku karo jennifer,cooking_recipe,0.996,0.0001,False
+8343,jv-ID,datetime,datetime_query,apa saiki dina rebo,email_sendemail,1.0,0.0,False
+8345,jv-ID,calendar,calendar_set,kabari aku yen rapat bakal kelakon,qa_factoid,0.9999,0.0,False
+8347,jv-ID,calendar,calendar_query,ono opo neng tanggal papat desember,weather_query,0.9816,0.0004,False
+8358,jv-ID,calendar,calendar_set,ilingno aku pekoro iki,qa_factoid,0.6748,0.0051,False
+8366,jv-ID,calendar,calendar_set,gawe bola bali tanggal wolulas maret janjian kanggo ulang taune pearl,datetime_query,0.5158,0.0142,False
+8387,jv-ID,calendar,calendar_set,nggawe pangeling kanggo umbah-umbah ing wolu bengi,weather_query,0.3588,0.0192,False
+8388,jv-ID,calendar,calendar_set,aku arep umbah umbah jam wolu bengi gawe pangeling eling,play_music,0.9952,0.0002,False
+8390,jv-ID,calendar,calendar_set,elingno aku ing rapat ku,qa_factoid,0.9428,0.0,False
+8394,jv-ID,calendar,calendar_set,setelno pangeling saben dina ing wayah awan kanggo njupuk obat,iot_hue_lightoff,0.3315,0.0335,False
+8404,jv-ID,calendar,calendar_query,aku pengen luwih ngerti bab acara iki,qa_factoid,0.992,0.0002,False
+8409,jv-ID,calendar,calendar_remove,busak mangan bengi ku sesuk,cooking_recipe,0.5145,0.0013,False
+8410,jv-ID,calendar,calendar_remove,ilangono acara mangan bengi ku senen,cooking_recipe,0.9711,0.0018,False
+8413,jv-ID,calendar,calendar_set,tulung elingno aku,social_post,0.9976,0.0001,False
+8414,jv-ID,calendar,calendar_set,ilengna aku lunga mangan bengi karo dani dino jumat jam lima sore,cooking_recipe,0.8562,0.0088,False
+8415,jv-ID,calendar,calendar_set,tambahno ketemuan ning kantor karo brian jam telu sore dina selasa,email_sendemail,0.9998,0.0,False
+8426,jv-ID,calendar,calendar_query,kandani aku acara acara saiki antara wingi lan esuk iki,qa_factoid,0.1759,0.0273,False
+8430,jv-ID,calendar,calendar_remove,batalna kabeh janjian aku,cooking_recipe,0.9994,0.0,False
+8431,jv-ID,calendar,calendar_remove,singkirno kabeh acara ku sing dijadwalake,calendar_remove,0.8047,0.8047,True
+8436,jv-ID,calendar,calendar_set,tulung aturke rapat mangan awan jam rolas awan saben rebo ning sasi maret,cooking_recipe,0.9981,0.0001,False
+8442,jv-ID,calendar,calendar_set,tulung owahi tanggalan ku karo acara iki,qa_factoid,0.592,0.0007,False
+8449,jv-ID,calendar,calendar_set,setelno pangeling eling kanggo ulang taun anak wedhok ku,social_post,0.2846,0.023,False
+8453,jv-ID,calendar,calendar_set,mangga lebokake acara ing tanggalan ku lan tandhani minangka acara bola-bali,social_post,0.4131,0.0117,False
+8460,jv-ID,calendar,calendar_query,duduhke acara ku,qa_factoid,0.8926,0.0027,False
+8461,jv-ID,calendar,calendar_query,opo rencanaku sasi mei,recommendation_events,0.1993,0.0301,False
+8466,jv-ID,calendar,calendar_set,aku ana rapat jam sanga esuk ing dina rebo kirimi aku pangeling eling,iot_hue_lightoff,0.6748,0.009,False
+8469,jv-ID,calendar,calendar_query,apa sing dijadwalake ing tanggalan ku dina iki,recommendation_events,0.3871,0.1586,False
+8474,jv-ID,calendar,calendar_set,tambahno pesta ulang taun e jane sesuk jam loro awan ing one hundred and twenty three main ing tanggalan ku,social_post,0.8722,0.0042,False
+8494,jv-ID,calendar,calendar_query,kaya apa jadwal ku dina iki,qa_factoid,0.9588,0.0066,False
+8496,jv-ID,calendar,calendar_query,kandakne acara rapat rapat ku gawe sesuk esuk,social_post,0.8978,0.0002,False
+8498,jv-ID,calendar,calendar_query,ayo didelok kabeh pangeling sing ketundha,cooking_recipe,0.9998,0.0,False
+8516,jv-ID,calendar,calendar_remove,hapus kalender item,calendar_remove,1.0,1.0,True
+8520,jv-ID,calendar,calendar_set,tambahno acara ning aplikasi tanggalan,calendar_remove,0.379,0.0164,False
+8525,jv-ID,calendar,calendar_query,pangeling rapat saka telu nganti lima,cooking_recipe,0.9896,0.0002,False
+8535,jv-ID,calendar,calendar_set,iso ta ilingno aku gawe janjan karo dokter gigi pas rong jam iki,weather_query,0.3584,0.0251,False
+8539,jv-ID,calendar,calendar_set,elingno aku babagan,social_post,0.9622,0.0001,False
+8541,jv-ID,calendar,calendar_set,tulung ilingno aku,social_post,0.9997,0.0,False
+8553,jv-ID,calendar,calendar_set,tambahke rapat ing tanggalan ku jam sanga esuk karo tom,iot_hue_lightoff,0.6086,0.0076,False
+8559,jv-ID,calendar,calendar_query,opo aku duwe jadwal dina iki,calendar_remove,0.6721,0.0119,False
+8562,jv-ID,calendar,calendar_remove,busek rapat ku jam loro awan dina iki,play_music,0.9988,0.0,False
+8568,jv-ID,calendar,calendar_set,kirimna undangan nang joko lan ani kanggo mangan awan dino selasa jam sewelas esuk,recommendation_events,0.5127,0.0091,False
+8570,jv-ID,calendar,calendar_set,kowe bakal menehi tandha yen aku sibuk kanggo acara sesuk jam loro awan,qa_factoid,0.9467,0.0005,False
+8579,jv-ID,calendar,calendar_query,informasi opo sing kudu aku ngerti kanggo rapat aku dina iki,email_sendemail,0.539,0.0043,False
+8585,jv-ID,calendar,calendar_set,ilingno aku yen aku nduwe pesta ulang taun tanggal telung puluh,social_post,0.8887,0.0019,False
+8598,jv-ID,calendar,calendar_set,ilingno aku nyusul mark ing bandara jam enem sore,play_music,0.9571,0.0007,False
+8618,jv-ID,calendar,calendar_set,ngelingake aku nyirami tanduran ku saben dina selasa kemis lan setu,iot_hue_lightoff,0.8489,0.0061,False
+8631,jv-ID,calendar,calendar_remove,mbusak iku seko tanggalan aku,calendar_remove,0.2995,0.2995,True
+8635,jv-ID,calendar,calendar_set,sampeyan bisa ngelingake aku supaya mesen kalkun telung minggu sadurunge syukuran,email_sendemail,1.0,0.0,False
+8640,jv-ID,calendar,calendar_set,aku pengin nggawe cathetan ing tanggalan kanggo acara sesuk ing perpustakaan,qa_factoid,0.9439,0.0017,False
+8642,jv-ID,calendar,calendar_set,tambahno telpon konferensi jam papat sore neng pangeling eling ku gawe dina iki,social_post,0.5955,0.0191,False
+8651,jv-ID,calendar,calendar_set,weruhi aku acara sing neng tanggalan ku,calendar_remove,0.7298,0.0032,False
+8653,jv-ID,calendar,calendar_set,elingke aku acara sing neng tanggalan ku,qa_factoid,0.6277,0.0022,False
+8666,jv-ID,calendar,calendar_remove,busek kabeh acara acara saka tanggalan ku,calendar_remove,0.8803,0.8803,True
+8667,jv-ID,calendar,calendar_query,ing telung sasi kepungkur pira rapat rapat ku karo pak richard,qa_factoid,0.4172,0.0095,False
+8670,jv-ID,calendar,calendar_remove,busak acara saka tanggalan,calendar_remove,0.9887,0.9887,True
+8672,jv-ID,calendar,calendar_query,ning ngendi konsere kiss,social_post,0.2978,0.0345,False
+8674,jv-ID,calendar,calendar_query,ning endi rapat ku jam sanga esuk,play_music,0.9922,0.0002,False
+8679,jv-ID,calendar,calendar_query,dina iki dina saint patricks,email_query,0.3863,0.015,False
+8681,jv-ID,calendar,calendar_query,apa ana sing ulang taun,play_music,0.9995,0.0,False
+8694,jv-ID,calendar,calendar_set,acara bakal kalebu walter lan gemma,qa_definition,0.4723,0.01,False
+8730,jv-ID,calendar,calendar_set,tulung aturke pangeling ing tanggalan ku kanggo rapat ku tanggal selawe maret,calendar_remove,0.418,0.0118,False
+8732,jv-ID,calendar,calendar_remove,mbusak kabeh tanggal,calendar_remove,0.9966,0.9966,True
+8762,jv-ID,calendar,calendar_query,kandhani jadwal ku mengko sore iki,qa_factoid,0.8354,0.02,False
+8765,jv-ID,calendar,calendar_set,ndelehke acara mangan wengi ku ing lobster abang ing tanggalan kanggo dino iki jam sanga,cooking_recipe,0.9909,0.0002,False
+8766,jv-ID,calendar,calendar_query,opo aku ana rapat sabtu tanggal selawe maret,social_post,0.9306,0.0004,False
+8767,jv-ID,calendar,calendar_query,ulang taune jessica opo tanggal rolas april,qa_factoid,0.7559,0.0001,False
+8769,jv-ID,calendar,calendar_remove,mbusak acara mbesuk,qa_factoid,0.9111,0.0042,False
+8771,jv-ID,calendar,calendar_remove,busek lunga blanja sing wis aku jadwal tanggal telu likur maret,calendar_remove,0.9943,0.9943,True
+8774,jv-ID,calendar,calendar_query,opo jadwal aku tanggal pitu juli wis rampung,calendar_remove,0.8193,0.01,False
+8781,jv-ID,calendar,calendar_query,apa aku bebas ing papat sore,qa_factoid,0.6432,0.0031,False
+8782,jv-ID,calendar,calendar_query,apa kulo duwe rapat awan iki,social_post,0.4986,0.0016,False
+8791,jv-ID,calendar,calendar_query,informasi liyane acara iki,qa_factoid,0.9987,0.0,False
+8795,jv-ID,calendar,calendar_query,delokke pangeling sing ketundha,cooking_recipe,0.9948,0.0001,False
+8822,jv-ID,recommendation,recommendation_events,info acara acara sing bakal teka,news_query,0.4284,0.1116,False
+8824,jv-ID,calendar,calendar_query,apa aku wis dijadwal kanggo tanggal sangalas ing loro awan,weather_query,0.7284,0.0013,False
+8825,jv-ID,calendar,calendar_set,kirimno aku pangeling eling rapat ku karo tom jumat ngarep,iot_hue_lightoff,0.2644,0.0292,False
+8828,jv-ID,calendar,calendar_query,opo acara kalender e bener,calendar_remove,0.9004,0.0756,False
+8846,jv-ID,calendar,calendar_query,opo aku nduwe sesuatu sing wis diatur tanggal papat juli taun iki,calendar_remove,0.9329,0.0016,False
+8853,jv-ID,calendar,calendar_remove,mbusak kegiatan sabanjure,lists_remove,0.382,0.3408,False
+8856,jv-ID,calendar,calendar_remove,busek kabeh acara acara ing tanggalan,calendar_remove,0.4852,0.4852,True
+8857,jv-ID,calendar,calendar_set,ilengna rapat sing bakal teko karo anang hermansyah,social_post,0.7952,0.0002,False
+8868,jv-ID,calendar,calendar_set,ilingno aku nelpon ibu saben selasa jam sepuluh esuk,email_sendemail,0.6815,0.0053,False
+8880,jv-ID,calendar,calendar_set,atur pangeling eling rapat sesuk jam sanga esuk,social_post,0.9881,0.0002,False
+8888,jv-ID,calendar,calendar_remove,hapus iki,email_sendemail,0.985,0.0035,False
+8900,jv-ID,calendar,calendar_set,atur pangeling eling balenan saben minggu,cooking_recipe,0.972,0.0002,False
+8904,jv-ID,calendar,calendar_query,informasi acara pungkasan,qa_factoid,0.9889,0.0004,False
+8906,jv-ID,calendar,calendar_set,atur tanggal acara nang tanggalan karo liyane,datetime_query,0.985,0.001,False
+8907,jv-ID,calendar,calendar_set,sebutna acara ning tanggalan bareng liyane,calendar_remove,0.8612,0.0016,False
+8912,jv-ID,calendar,calendar_query,kekono aku tanggalan dina iki sawise jam enem sore,iot_hue_lightoff,0.417,0.0014,False
+8914,jv-ID,calendar,calendar_query,jam piro janjian ku tanggal papat april,qa_factoid,0.9989,0.0,False
+8916,jv-ID,calendar,calendar_query,opo jadwalku dino iki,social_post,0.958,0.0003,False
+8925,jv-ID,calendar,calendar_remove,busek kabeh acara acara ing tanggalan ku,calendar_remove,0.8694,0.8694,True
+8939,jv-ID,calendar,calendar_set,baby shower putrine hayathis,qa_factoid,0.9575,0.0016,False
+8948,jv-ID,calendar,calendar_set,tambahna acara rapat karo juliardi,qa_factoid,0.8017,0.0007,False
+8949,jv-ID,calendar,calendar_remove,tulung ilangono pangeling eling,social_post,0.2283,0.0401,False
+8958,jv-ID,calendar,calendar_query,buka wektu rapat,iot_hue_lightoff,0.978,0.0006,False
+8960,jv-ID,calendar,calendar_set,aku pengin kowe nggawe pangeling eling ing wayah sore babagan rapat sing bakal teka,social_post,0.1746,0.0317,False
+8967,jv-ID,calendar,calendar_set,ilingno rong dina sadurunge ulang taun e bojo ku,qa_factoid,0.7812,0.001,False
+8968,jv-ID,calendar,calendar_set,kandani aku kiro kiro sing perlu di eling minggu iki,cooking_recipe,0.8986,0.0026,False
+8975,jv-ID,calendar,calendar_query,rapat opo sing wis dijadwal dina iki,calendar_remove,0.3977,0.0327,False
+8977,jv-ID,calendar,calendar_set,mung nyetel pangeling pembayaran tagihan sing ditundha,qa_factoid,0.3442,0.0157,False
+8978,jv-ID,calendar,calendar_set,kandani aku rapat penting karo bos minggu ngarep,social_post,0.97,0.0007,False
+8985,jv-ID,calendar,calendar_remove,ok google mbusak ulang taun eric saka tanggalan,email_sendemail,1.0,0.0,False
+8990,jv-ID,calendar,calendar_set,gawe acara,qa_factoid,0.9994,0.0,False
+8992,jv-ID,calendar,calendar_set,duduhno rapat rapat,lists_remove,0.2735,0.023,False
+9009,jv-ID,calendar,calendar_remove,ilangono acara ulang taun saka tanggalan ku,qa_factoid,0.9872,0.0073,False
+9011,jv-ID,calendar,calendar_query,apa bener acara syukuran tanggal patbelas wulan iki,qa_factoid,0.9961,0.0001,False
+9014,jv-ID,calendar,calendar_set,tulung atur notifikasi tanggal telu likur oktober pekoro rapat karo kolega ku,email_sendemail,0.9974,0.0,False
+9015,jv-ID,calendar,calendar_remove,resiki kabeh acara nang tanggalan ku,calendar_remove,0.5402,0.5402,True
+9019,jv-ID,calendar,calendar_query,rapat rapat saka rong puluh nganti selawe juni,qa_factoid,0.2762,0.0163,False
+9030,jv-ID,calendar,calendar_remove,busakno saka tanggalan janjian medis ku kanggo dina iki,calendar_remove,0.6351,0.6351,True
+9035,jv-ID,calendar,calendar_query,ilengna mantenane restu,social_post,0.9913,0.0003,False
+9043,jv-ID,calendar,calendar_set,acara mbesuk ing tanggalan,qa_factoid,0.9716,0.001,False
+9053,jv-ID,calendar,calendar_set,atur pangeling acara rapat karo mona dino selasa,cooking_recipe,0.4049,0.0127,False
+9054,jv-ID,calendar,calendar_set,pangeling eling acara mona selasa,social_post,0.6601,0.003,False
+9059,jv-ID,calendar,calendar_set,wenehi tandha ing wektu acara,qa_factoid,0.9524,0.0002,False
+9061,jv-ID,calendar,calendar_query,informasi apa sing takduweni ning pangeling,qa_factoid,0.732,0.0063,False
+9062,jv-ID,calendar,calendar_set,kowe isa nyelehke ulang taun lee ing rong puluh loro juni,iot_hue_lightoff,0.9584,0.0002,False
+9074,jv-ID,calendar,calendar_remove,tulung busakno acara iku,qa_factoid,0.6346,0.0015,False
+9088,jv-ID,calendar,calendar_remove,mbusak kabeh sing ana nang tanggalan aku,lists_remove,0.7548,0.0997,False
+9095,jv-ID,calendar,calendar_remove,mbusak nedho bengi karo santi,calendar_remove,0.8646,0.8646,True
+9103,jv-ID,calendar,calendar_query,apa ana rapat ing tanggalanku sore iki,qa_factoid,0.9739,0.0008,False
+9107,jv-ID,calendar,calendar_query,jam pira konsere zach brown tanggal telu juni diwiwiti,qa_factoid,0.5172,0.0049,False
+9110,jv-ID,calendar,calendar_set,pameran rong ewu pitulas massal ing selawe maret gaweno cathetan ing tanggal sing cocok,iot_hue_lightoff,0.3307,0.0088,False
+9112,jv-ID,calendar,calendar_set,tambahno iki ing tanggalan ku,qa_factoid,0.8699,0.0005,False
+9114,jv-ID,calendar,calendar_set,gawe pangeling bola-bali kanggo acara ing tanggalan iki,social_post,0.783,0.0063,False
+9116,jv-ID,calendar,calendar_query,apa kowe isa ngatur maneh rapat ku,qa_factoid,0.6737,0.0001,False
+9121,jv-ID,calendar,calendar_query,dino opo aku wes mesen,social_post,0.6868,0.0031,False
+9124,jv-ID,calendar,calendar_set,duduhno acara acara ing tanggalan kerja ku minggu ngarep,qa_factoid,0.9685,0.0009,False
+9137,jv-ID,calendar,calendar_query,jam piro warung ngopi tutup antarane mangan awan lan mangan bengi,cooking_recipe,0.2517,0.0313,False
+9138,jv-ID,qa,qa_factoid,kapan super bowl resmi dimulai,qa_factoid,0.5824,0.5824,True
+9149,jv-ID,calendar,calendar_query,jam piro pentas seni kudune diwiwiti,iot_hue_lightoff,0.9229,0.0004,False
+9153,jv-ID,calendar,calendar_set,tulung tambahke mangan bengi karo mary ing tanggalan ku dina setu,cooking_recipe,0.993,0.0001,False
+9155,jv-ID,calendar,calendar_set,dina jumat tulung dhekekno janjian dokter gigi jam telu,cooking_recipe,0.9991,0.0001,False
+9156,jv-ID,calendar,calendar_set,elingno,qa_factoid,0.9952,0.0001,False
+9175,jv-ID,calendar,calendar_query,apa tanggalan ku wis dianyari ing sepuluh menit pungkasan,qa_factoid,0.6547,0.008,False
+9182,jv-ID,calendar,calendar_remove,batalna rencana ku kanggo methuk wong tuo nang bandara,recommendation_events,0.5439,0.0726,False
+9187,jv-ID,calendar,calendar_set,riset klien sing bakal rawuh ing rapat iku,qa_factoid,0.9915,0.0002,False
+9193,jv-ID,calendar,calendar_set,tulung setel tanggal iki kanggo mbaleni,calendar_set,0.5161,0.5161,True
+9194,jv-ID,calendar,calendar_remove,tulung busakno acara iki saka tanggalan ku,qa_factoid,0.8746,0.0734,False
+9197,jv-ID,calendar,calendar_query,apa aku wis ngrancang kanggo minggu iki,cooking_recipe,0.294,0.0219,False
+9198,jv-ID,calendar,calendar_query,tulung priksa pangeling eling ku,qa_factoid,0.8832,0.0012,False
+9202,jv-ID,play,play_radio,puteren stasiun radio ku,qa_factoid,0.987,0.0117,False
+9204,jv-ID,play,play_radio,puter b. b. c. radio,play_radio,0.9985,0.9985,True
+9212,jv-ID,play,play_radio,setel radio,play_radio,0.9999,0.9999,True
+9216,jv-ID,play,play_radio,setel stasiun aku,transport_query,0.9998,0.0,False
+9225,jv-ID,play,play_radio,setel radio,play_radio,0.9999,0.9999,True
+9233,jv-ID,play,play_radio,buka aplikasi pandora,qa_factoid,0.9715,0.0018,False
+9236,jv-ID,play,play_radio,pindah saluran satus siji koma enem,iot_hue_lightoff,0.4849,0.0054,False
+9237,jv-ID,play,play_radio,buka radio lan setel saluran satus enem koma sanga,play_radio,1.0,1.0,True
+9250,jv-ID,play,play_radio,aku pengin denger radio,play_radio,1.0,1.0,True
+9254,jv-ID,play,play_radio,setel satus siji koma enem f. m. radio s. k.,play_radio,0.9943,0.9943,True
+9263,jv-ID,play,play_radio,mbukak aplikasi radio,play_radio,0.9948,0.9948,True
+9269,jv-ID,play,play_radio,ngrungokake geronimo,social_post,0.6505,0.0004,False
+9270,jv-ID,play,play_radio,setel geronimo,email_sendemail,0.4305,0.0043,False
+9275,jv-ID,play,play_radio,radio sangangatus sangangpuluh sanga f. m. iku siji sijine sing tayang nang radio,play_radio,1.0,1.0,True
+9284,jv-ID,play,play_radio,setel radio geronimo,play_radio,0.9996,0.9996,True
+9291,jv-ID,play,play_radio,setel prambors,social_post,0.2445,0.0237,False
+9301,jv-ID,play,play_radio,puter cidro,qa_factoid,0.7134,0.0114,False
+9303,jv-ID,play,play_radio,setel geronimo f. m.,email_sendemail,1.0,0.0,False
+9305,jv-ID,play,play_radio,setel lagu lawas,play_music,0.4818,0.0113,False
+9316,jv-ID,play,play_radio,setel geronimo f. m. cidro,email_sendemail,0.5765,0.0024,False
+9317,jv-ID,play,play_radio,uripno radio ne saiki,play_radio,0.9999,0.9999,True
+9321,jv-ID,play,play_radio,nyalakna radio saiki,social_post,0.917,0.0824,False
+9323,jv-ID,play,play_radio,mulai pandora,qa_factoid,0.9424,0.0029,False
+9326,jv-ID,play,play_radio,setel radio geronimo saiki,play_radio,1.0,1.0,True
+9327,jv-ID,play,play_radio,mangga pindai ing radio sak iki,play_radio,0.9995,0.9995,True
+9330,jv-ID,play,play_radio,setel,qa_factoid,0.3353,0.023,False
+9341,jv-ID,play,play_radio,alexa genti stasiun radio,play_radio,0.9991,0.9991,True
+9352,jv-ID,play,play_radio,setel radio tolong,play_radio,1.0,1.0,True
+9353,jv-ID,play,play_radio,miwiti radio muter musik,play_music,0.8717,0.1263,False
+9358,jv-ID,play,play_radio,nyalakna saluran radio wolungatus karo wolungpuluh sanga,play_radio,0.9996,0.9996,True
+9361,jv-ID,play,play_radio,setel radio,play_radio,0.9999,0.9999,True
+9362,jv-ID,play,play_radio,saluran radio,play_radio,0.9999,0.9999,True
+9363,jv-ID,play,play_radio,ayo setel hit nang radio,play_radio,1.0,1.0,True
+9364,jv-ID,play,play_radio,setel lagu kondang,play_music,0.4141,0.0078,False
+9380,jv-ID,play,play_radio,aku pengen buka geronimo nang radio,play_radio,1.0,1.0,True
+9384,jv-ID,play,play_radio,setel radio c. n. n.,play_radio,0.9996,0.9996,True
+9394,jv-ID,play,play_radio,setel radio,play_radio,0.9999,0.9999,True
+9402,jv-ID,play,play_radio,puterno stasiun radio geronimo satus enem titik siji,qa_factoid,0.8498,0.0498,False
+9406,jv-ID,play,play_radio,puter podkesmas,play_podcasts,0.8321,0.0056,False
+9408,jv-ID,play,play_radio,puter na radio,play_radio,0.9998,0.9998,True
+9426,jv-ID,play,play_radio,aku arep ngerungokne stasiun dangdut koplo,transport_query,0.9916,0.0002,False
+9438,jv-ID,play,play_radio,setel lagu rap soko radio,play_radio,0.7041,0.7041,True
+9457,jv-ID,play,play_music,setel lagu let it go,play_music,0.9934,0.9934,True
+9460,jv-ID,play,play_music,setel dangdut sangangpuluhan,play_music,0.8378,0.8378,True
+9471,jv-ID,play,play_radio,puter na stasiun musik dangdut,play_music,0.9968,0.0001,False
+9494,jv-ID,play,play_radio,golek stasiun radio f. m. sing setel lagu pop,play_radio,1.0,1.0,True
+9506,jv-ID,play,play_radio,olly ayo dengerno prambors,social_post,0.9571,0.0014,False
+9507,jv-ID,play,play_radio,golek saluran radio sing saiki nyiarke riski febian,play_radio,1.0,1.0,True
+9519,jv-ID,play,play_radio,setel sembarang saluran pop f. m.,lists_remove,0.405,0.0086,False
+9520,jv-ID,play,play_radio,muter dhokter pungkasan ing radio,play_radio,0.9994,0.9994,True
+9524,jv-ID,play,play_radio,setel acara dasyat,social_post,0.4627,0.0052,False
+9528,jv-ID,play,play_radio,nguripake sawetara prambors lan muter saka salon sandi,recommendation_events,0.9771,0.0009,False
+9541,jv-ID,play,play_radio,muter tembang cidro radio,qa_factoid,0.915,0.0238,False
+9542,jv-ID,play,play_radio,keparenga kula mirengaken program warta paling anyar ing radio,qa_factoid,0.9998,0.0001,False
+9545,jv-ID,play,play_radio,aku pengin ngerungokno siaran podkesmas,social_post,0.5699,0.0023,False
+9554,jv-ID,play,play_radio,puterno romantis musik nash f. m. sangangpuluh loro koma pitu,play_music,0.9021,0.0063,False
+9561,jv-ID,play,play_radio,puterno prambors di radio,play_radio,1.0,1.0,True
+9562,jv-ID,play,play_radio,apa kowe iso muter program iki kanggo kula,qa_factoid,1.0,0.0,False
+9565,jv-ID,play,play_radio,muter radio karo lagu ora mendek,play_radio,0.9993,0.9993,True
+9568,jv-ID,play,play_radio,muter britney spears seri konser langsung,play_music,0.654,0.0126,False
+9569,jv-ID,play,play_radio,ok google puterno satus enem koma pitu,qa_factoid,0.7975,0.0004,False
+9577,jv-ID,play,play_radio,ganti dadi radio wolungpuluh loro koma papat,play_radio,0.9999,0.9999,True
+9591,jv-ID,play,play_radio,setel soleh solihun ning sangangpuluh siji koma telu f. m.,social_post,0.9773,0.0011,False
+9592,jv-ID,play,play_podcasts,golekna acara ngobrol sing mbahas masalah wong lanang,play_podcasts,0.8268,0.8268,True
+9594,jv-ID,play,play_radio,lagu sangangpuluh telu koma lima f. m. radio,play_music,0.8612,0.1366,False
+9601,jv-ID,play,play_radio,puter radio dangdut,play_radio,0.9997,0.9997,True
+9617,jv-ID,play,play_radio,muter kula esuk iki nuduhake satus siji koma sanga,cooking_recipe,0.8554,0.0034,False
+9619,jv-ID,play,play_radio,muter prairie house kanca ing radio mobil,play_radio,0.9998,0.9998,True
+9620,jv-ID,play,play_radio,setel mandan kenthir soko radio ning kamar,play_radio,0.9996,0.9996,True
+9629,jv-ID,play,play_radio,tolong aku ngerungokna radio,play_radio,0.9975,0.9975,True
+9630,jv-ID,play,play_radio,setel radio geronimo,play_radio,0.9996,0.9996,True
+9632,jv-ID,play,play_radio,puter radio,play_radio,0.9995,0.9995,True
+9637,jv-ID,play,play_radio,setel daftar puterku nang i heart radio,play_radio,0.8548,0.8548,True
+9640,jv-ID,play,play_radio,mbukak spotify terus puter cidro,qa_factoid,0.9852,0.0001,False
+9651,jv-ID,play,play_radio,muter netflix ku p. s. papat,qa_factoid,0.4909,0.0013,False
+9656,jv-ID,play,play_music,puterna aku lagu semangat saka speaker mu,play_music,0.9988,0.9988,True
+9706,jv-ID,play,play_music,puter perlahan,qa_factoid,0.7759,0.002,False
+9707,jv-ID,play,play_music,mbukak media muter runtuh,lists_remove,0.3232,0.0222,False
+9738,jv-ID,play,play_music,setelno musik klasik,play_music,0.9955,0.9955,True
+9793,jv-ID,play,play_music,setel tembang romantis,iot_hue_lightoff,0.8248,0.0023,False
+9795,jv-ID,play,play_music,teruske bengawan solo,social_post,0.9836,0.0022,False
+9912,jv-ID,cooking,cooking_recipe,pirang suwi nggodok endhog,cooking_recipe,0.4309,0.4309,True
+9918,jv-ID,cooking,cooking_recipe,piye carane gawe pizza,cooking_recipe,0.9996,0.9996,True
+9923,jv-ID,cooking,cooking_recipe,pira suwi nggodog endhog,social_post,0.9449,0.0132,False
+9924,jv-ID,cooking,cooking_recipe,golekno aku resep sego goreng,cooking_recipe,1.0,1.0,True
+9930,jv-ID,cooking,cooking_recipe,pira suwi nggodok endhog,social_post,0.9852,0.0029,False
+9931,jv-ID,cooking,cooking_recipe,piro suwi nggodok endhog,social_post,0.68,0.0659,False
+9940,jv-ID,cooking,cooking_recipe,golekno resep bolu cokelat,cooking_recipe,1.0,1.0,True
+9941,jv-ID,cooking,cooking_recipe,piye carane masak ayam mentega,cooking_recipe,1.0,1.0,True
+9942,jv-ID,cooking,cooking_recipe,apa kabeh bahane roti gulung,cooking_recipe,0.9998,0.9998,True
+9943,jv-ID,cooking,cooking_recipe,piro suwi gawe roti bakar,cooking_recipe,1.0,1.0,True
+9952,jv-ID,cooking,cooking_recipe,golekno aku video tutorial masak,cooking_recipe,0.9999,0.9999,True
+9955,jv-ID,cooking,cooking_recipe,golekno aku video ayam krispi,iot_hue_lightoff,0.969,0.008,False
+9956,jv-ID,cooking,cooking_recipe,opo penggantine mentega,qa_factoid,0.7487,0.0129,False
+9961,jv-ID,cooking,cooking_recipe,piro suhu paling apik manggang kentang,cooking_recipe,1.0,1.0,True
+9962,jv-ID,cooking,cooking_recipe,piye carane gawe mie celor,cooking_recipe,0.3676,0.3676,True
+9964,jv-ID,cooking,cooking_recipe,opo wae cara ngolah makanan,cooking_recipe,0.9999,0.9999,True
+9966,jv-ID,cooking,cooking_recipe,apa cara sing paling gampang gawe pasta,cooking_recipe,1.0,1.0,True
+9969,jv-ID,cooking,cooking_recipe,opo bahan penggantine kencur,qa_definition,0.8002,0.0077,False
+9971,jv-ID,cooking,cooking_recipe,endi sing apik antara panci karo cast iron,iot_hue_lightoff,0.1097,0.0889,False
+9976,jv-ID,cooking,cooking_recipe,duduhno aku daftar bahan gawe roti panggang keju pedes,cooking_recipe,1.0,1.0,True
+9977,jv-ID,cooking,cooking_recipe,golekno video youtube masakan padang,play_podcasts,0.5459,0.4049,False
+9979,jv-ID,cooking,cooking_recipe,masakno aku oat,email_sendemail,0.9992,0.0001,False
+9980,jv-ID,cooking,cooking_recipe,masakan dino iki sing onok sayur godok,cooking_recipe,0.923,0.923,True
+9986,jv-ID,cooking,cooking_recipe,pira suwi nggodok banyu,social_post,0.6589,0.1884,False
+9994,jv-ID,cooking,cooking_recipe,duduhno aku cara gawene kare india,qa_factoid,0.612,0.0021,False
+10016,jv-ID,cooking,cooking_recipe,piye carane gawe opor ayam,cooking_recipe,0.9995,0.9995,True
+10019,jv-ID,cooking,cooking_recipe,duduhno aku piye carane mbakar dua belas kukis sorgum,cooking_recipe,0.9998,0.9998,True
+10023,jv-ID,cooking,cooking_recipe,piye carane gawe rendang,social_post,0.9943,0.002,False
+10027,jv-ID,cooking,cooking_recipe,duduhno aku carane gawe makanan,cooking_recipe,0.9998,0.9998,True
+10031,jv-ID,cooking,cooking_recipe,golekno resep teko bahan-bahan belonjoan aku,cooking_recipe,1.0,1.0,True
+10038,jv-ID,cooking,cooking_recipe,golekno aku ide masakan,cooking_recipe,1.0,1.0,True
+10045,jv-ID,cooking,cooking_recipe,golekno aku resep mie ayam sing enak,cooking_recipe,1.0,1.0,True
+10048,jv-ID,cooking,cooking_recipe,piye carane masak panganan jogja,cooking_recipe,1.0,1.0,True
+10049,jv-ID,cooking,cooking_recipe,duduhno aku carane gawe roti lapis,cooking_recipe,1.0,1.0,True
+10053,jv-ID,cooking,cooking_recipe,piye carane gawe pizza,cooking_recipe,0.9996,0.9996,True
+10055,jv-ID,cooking,cooking_recipe,golekno resep pitik goreng,cooking_recipe,1.0,1.0,True
+10061,jv-ID,cooking,cooking_recipe,enake aku masak opo gawe nedha bengi,cooking_recipe,1.0,1.0,True
+10072,jv-ID,cooking,cooking_recipe,piro suwi manggang pitik,social_post,0.9998,0.0,False
+10076,jv-ID,cooking,cooking_recipe,iso opo gak gantino soda kue karo bubuk pengembang,cooking_recipe,1.0,1.0,True
+10077,jv-ID,cooking,cooking_recipe,golekno resep gawe mangan bengi,cooking_recipe,1.0,1.0,True
+10078,jv-ID,cooking,cooking_recipe,opo ide gawe cemilan,social_post,0.8381,0.0082,False
+10080,jv-ID,cooking,cooking_recipe,ayo gawe pentol,social_post,0.5767,0.0818,False
+10081,jv-ID,cooking,cooking_recipe,duduhno aku carane gawe bakso,cooking_recipe,0.9998,0.9998,True
+10090,jv-ID,cooking,cooking_recipe,golekno aku resep tuna,cooking_recipe,1.0,1.0,True
+10093,jv-ID,cooking,cooking_recipe,piye carane gawe mie godhok,social_post,0.5861,0.0208,False
+10097,jv-ID,cooking,cooking_recipe,golekno aku cara gawe burger keju,cooking_recipe,0.9999,0.9999,True
+10099,jv-ID,cooking,cooking_recipe,kepiye carane gawe jenang,cooking_recipe,0.9885,0.9885,True
+10100,jv-ID,cooking,cooking_recipe,piye resep soto sing enak,cooking_recipe,1.0,1.0,True
+10105,jv-ID,cooking,cooking_recipe,piye carane masak steak setengah mateng,cooking_recipe,0.9998,0.9998,True
+10107,jv-ID,cooking,cooking_recipe,duduhno aku resep sego gurih,cooking_recipe,1.0,1.0,True
+10119,jv-ID,cooking,cooking_recipe,piye carane masak bebek,cooking_recipe,0.9999,0.9999,True
+10125,jv-ID,cooking,cooking_recipe,opo bedone dipanggang karo dibakar,cooking_recipe,0.786,0.786,True
+10132,jv-ID,cooking,cooking_recipe,pira suwi masak sate sampek mateng,cooking_recipe,1.0,1.0,True
+10150,jv-ID,cooking,cooking_recipe,kepiye carane gawe taco,cooking_recipe,1.0,1.0,True
+10156,jv-ID,cooking,cooking_recipe,aku pengen ngerti carane masak terong krispi,cooking_recipe,1.0,1.0,True
+10164,jv-ID,cooking,cooking_recipe,pisa suwi masak makaroni,cooking_recipe,1.0,1.0,True
+10166,jv-ID,cooking,cooking_recipe,golekno resep pai apel,cooking_recipe,1.0,1.0,True
+10171,jv-ID,cooking,cooking_recipe,apa resep sop iwak sing enak,cooking_recipe,1.0,1.0,True
+10177,jv-ID,cooking,cooking_recipe,piye carane gawe kolek,cooking_recipe,0.8718,0.8718,True
+10182,jv-ID,cooking,cooking_recipe,piro endhog gawe endhog dadar,social_post,0.9633,0.0125,False
+10197,jv-ID,cooking,cooking_recipe,duduhno resep spaghetti sing enak,cooking_recipe,1.0,1.0,True
+10206,jv-ID,cooking,cooking_recipe,piye carane nyiapne sego,social_post,0.9949,0.0002,False
+10213,jv-ID,cooking,cooking_recipe,daftar resep sego biryani sing kondhang,cooking_recipe,1.0,1.0,True
+10214,jv-ID,cooking,cooking_recipe,golekno resep sing dimasak sak jam,cooking_recipe,1.0,1.0,True
+10216,jv-ID,cooking,cooking_recipe,nandi tuku loyang gawe kue muffin,cooking_recipe,0.9727,0.9727,True
+10217,jv-ID,cooking,cooking_recipe,golekno aku resep bubur sumsum ning cookpad,cooking_recipe,1.0,1.0,True
+10220,jv-ID,cooking,cooking_recipe,piro suwi ngoven bolu,social_post,1.0,0.0,False
+10224,jv-ID,cooking,cooking_recipe,iki mesti enak,qa_factoid,0.9992,0.0001,False
+10226,jv-ID,cooking,cooking_recipe,duduhno aku resep pasta,cooking_recipe,1.0,1.0,True
+10426,jv-ID,lists,lists_query,apa maneh sing ora ana ing buku harian,qa_factoid,0.4891,0.0239,False
+10427,jv-ID,lists,lists_remove,tulungngresiki dhaptar blanja ku,qa_factoid,0.8551,0.0059,False
+10430,jv-ID,lists,lists_remove,mbusak item pisanan ing dhaptar,lists_remove,0.3944,0.3944,True
+10433,jv-ID,lists,lists_remove,mbusak dhaptar tugas ku,qa_factoid,0.5462,0.0109,False
+10440,jv-ID,lists,lists_query,apa maneh acara khusus apa wae ing dhaptar ku,social_post,0.9698,0.0006,False
+10442,jv-ID,lists,lists_remove,mbusak acara saka dhaftar ku,calendar_remove,0.9436,0.0087,False
+10444,jv-ID,lists,lists_remove,hapusen gulo teko daftar belonjo,email_sendemail,0.5115,0.0001,False
+10451,jv-ID,lists,lists_query,apa sing bakal daklakoni dina iki,qa_factoid,0.7666,0.0029,False
+10455,jv-ID,lists,lists_query,apa ing dhaptar ku sing kudu ditindakake,qa_factoid,0.9935,0.0004,False
+10462,jv-ID,lists,lists_remove,njaluk nyisihaken saka dhaptar,qa_factoid,0.7279,0.0114,False
+10493,jv-ID,lists,lists_query,apa sing ana ing dhaptar ku sing kudu ditindakake,qa_factoid,0.9459,0.0053,False
+10494,jv-ID,lists,lists_remove,mbusak potlot saka toko alat tulis,calendar_remove,0.4636,0.1493,False
+10497,jv-ID,qa,qa_factoid,apa aku bisa duwe dhaftar hotel bintang lima ing paris,qa_factoid,0.7882,0.7882,True
+10508,jv-ID,lists,lists_remove,mbusak barang ing dhaptar,lists_remove,0.3327,0.3327,True
+10512,jv-ID,lists,lists_query,dhaptarke kabeh sing isih ana ing pitakonku,cooking_recipe,0.9996,0.0,False
+10523,jv-ID,lists,lists_remove,mbusak saka dhaptar lagu dhaptar lagu inggris lawas ku,play_music,0.9814,0.001,False
+10525,jv-ID,lists,lists_remove,mbusak pembayaran mobil ku ing tanggalan ku,calendar_remove,0.394,0.0464,False
+10527,jv-ID,lists,lists_remove,mbusak dhaptar,qa_factoid,1.0,0.0,False
+10534,jv-ID,lists,lists_query,piye carane dhaftar kanggo nindakake dina iki,cooking_recipe,0.9892,0.001,False
+10538,jv-ID,lists,lists_query,tulung mbaleni dhaptar blanja ku,qa_factoid,0.455,0.0411,False
+10565,jv-ID,lists,lists_remove,mbusak kabeh dhaptar,qa_factoid,0.9997,0.0,False
+10568,jv-ID,lists,lists_remove,mbusak dhaptar musik lawas,play_music,0.4508,0.0089,False
+10570,jv-ID,lists,lists_query,mriksa dhaptar ku sing kudu ditindakake,qa_factoid,0.9839,0.0006,False
+10571,jv-ID,lists,lists_query,android,iot_hue_lightoff,0.2324,0.0685,False
+10577,jv-ID,lists,lists_query,menehi aku kabeh dhaptar ku,qa_factoid,0.9867,0.0004,False
+10579,jv-ID,lists,lists_remove,ngreset dhaptar lokasi ku,email_sendemail,0.9632,0.0016,False
+10588,jv-ID,lists,lists_query,nuduhake isine dhaptar,qa_factoid,0.9996,0.0,False
+10590,jv-ID,lists,lists_remove,mbusak baris kapindho saka dhaptar,calendar_remove,0.229,0.1519,False
+10655,jv-ID,lists,lists_remove,mbusak dhaptar sing disebut wektune pesta,qa_factoid,0.3033,0.0199,False
+10667,jv-ID,lists,lists_query,maca jadwal dhaptar,qa_factoid,0.9999,0.0,False
+10673,jv-ID,lists,lists_remove,tulung mbusak dhaptar ing ngisor iki,qa_definition,0.8857,0.0051,False
+10674,jv-ID,lists,lists_remove,buang dhaptar saiki,social_post,0.9968,0.0001,False
+10679,jv-ID,lists,lists_query,apa ing dhaptar sing kudu ditindakake dina iki,lists_query,0.4888,0.4888,True
+10684,jv-ID,lists,lists_query,dhaptar apa sing aku wis takon,qa_factoid,0.9835,0.0001,False
+10687,jv-ID,lists,lists_remove,yen ana acara show banjur dibusak iku,qa_factoid,0.4362,0.0047,False
+10696,jv-ID,lists,lists_remove,ngganti,qa_factoid,0.9868,0.0005,False
+10699,jv-ID,lists,lists_query,ngandhani aku barang ing dhaptar,qa_factoid,0.1996,0.0284,False
+10718,jv-ID,lists,lists_remove,apa kowe bisa mbusak barang iki saka dhaptar,qa_factoid,0.9974,0.0003,False
+10731,jv-ID,lists,lists_query,wacake apa sing ana ing dhaptar ku,qa_factoid,0.7944,0.0005,False
+10743,jv-ID,lists,lists_remove,mbusak barang iku,qa_factoid,0.1778,0.0438,False
+10753,jv-ID,lists,lists_query,apa aku nyelehake mudhun wis ing dhaftar walmart,iot_hue_lightoff,0.695,0.0019,False
+10755,jv-ID,lists,lists_remove,tulung buang daftar tugas ku,qa_factoid,1.0,0.0,False
+10756,jv-ID,lists,lists_remove,mbusak dhaptar blanja,qa_factoid,0.4058,0.0291,False
+10757,jv-ID,lists,lists_query,barang apa sing ana ing dhaptar blanja ku,lists_query,0.3252,0.3252,True
+10759,jv-ID,lists,lists_query,maca dhaptar kula kanggo blanja,qa_factoid,0.9977,0.0001,False
+10760,jv-ID,lists,lists_query,kandani aku dhaftar sing aku tulis rong dina kepungkur,social_post,0.9254,0.0014,False
+10770,jv-ID,lists,lists_remove,mbusak sereal saka dhaptar blanja ku,iot_hue_lightoff,0.4944,0.0322,False
+10772,jv-ID,calendar,calendar_remove,buseken acara janjian karo dokter gigi seko jadwal dina iki,calendar_remove,0.7388,0.7388,True
+10776,jv-ID,lists,lists_query,apa aku duwe dhaptar sembako sing wis siap,cooking_recipe,0.9945,0.0003,False
+10786,jv-ID,lists,lists_remove,mbusak dhaptar kagiyatan ku kanggo dina iki,lists_remove,0.074,0.074,True
+10790,jv-ID,lists,lists_remove,mbusak barang saka dhaptar,lists_remove,0.4475,0.4475,True
+10804,jv-ID,lists,lists_query,maca dhaptar sembako,qa_factoid,0.9996,0.0,False
+10805,jv-ID,lists,lists_query,tulung tuduhake dhaptar sing aku duwe,cooking_recipe,0.8142,0.0022,False
+10808,jv-ID,lists,lists_remove,mbusak item pungkasan kadhaptar,qa_factoid,0.9985,0.0001,False
+10824,jv-ID,lists,lists_remove,olly busak dhaptar,qa_factoid,1.0,0.0,False
+10825,jv-ID,lists,lists_remove,mbusak dhaptar,qa_factoid,1.0,0.0,False
+10827,jv-ID,lists,lists_remove,mbusak dhaptar kanggo sembako,qa_factoid,0.2731,0.0367,False
+10828,jv-ID,lists,lists_remove,mbusak kabeh,qa_factoid,0.9928,0.0001,False
+10832,jv-ID,calendar,calendar_query,olly opo seng tak rencanake berikute,qa_factoid,0.9764,0.0001,False
+10843,jv-ID,lists,lists_remove,mbusak susu saka dhaptar sembako ku,cooking_recipe,0.9996,0.0,False
+10846,jv-ID,lists,lists_remove,aku ora duwe cukup dhuwit kanggo tuku saklar nintendo saiki sampeyan bisa mbusak ing wishlist amazon,qa_factoid,0.9884,0.0066,False
+10848,jv-ID,lists,lists_remove,mbusak dhaptar iki saka liyane,qa_factoid,0.9967,0.0004,False
+10851,jv-ID,lists,lists_query,apa dhaptar sing kasedhiya ku,play_music,0.5423,0.0007,False
+10853,jv-ID,lists,lists_remove,njupuk iku sing mati ana kono,cooking_recipe,0.9997,0.0,False
+10855,jv-ID,lists,lists_query,kudu mriksa dhaptar ku,qa_factoid,0.9989,0.0,False
+10868,jv-ID,lists,lists_query,olly apa ana liyane kiwa ing dhaptar,social_post,0.9872,0.0002,False
+10887,jv-ID,lists,lists_remove,mbusak dhaptar ku,qa_factoid,0.9512,0.0002,False
+10895,jv-ID,lists,lists_remove,mbusak barang saka dhaptar ku,calendar_remove,0.5607,0.2964,False
+10909,jv-ID,lists,lists_query,olly maca dhaptar kanggo kula,cooking_recipe,0.625,0.0102,False
+10927,jv-ID,lists,lists_query,keparenga kula mirengaken dhaptar ku,qa_factoid,0.9991,0.0,False
+10931,jv-ID,lists,lists_query,apa sing ana ing dhaptar tembang ku,qa_factoid,0.8452,0.0029,False
+10936,jv-ID,lists,lists_remove,mangga mbusak dhaptar album kesenengan,play_music,0.359,0.0395,False
+10954,jv-ID,lists,lists_query,carane akeh dhaptar sing aku duwe ing kontak,qa_factoid,0.999,0.0,False
+10956,jv-ID,lists,lists_query,grup apa sing didaftar ing kontak ku,qa_factoid,0.9999,0.0,False
+10957,jv-ID,lists,lists_query,elingno aku sepira akeh aku duwe dhaptar,qa_factoid,0.2981,0.0184,False
+10960,jv-ID,lists,lists_remove,ngeruk sing siji saka dhaptar,play_music,0.9038,0.0005,False
+10970,jv-ID,lists,lists_remove,mbusak tembung pungkasan,qa_factoid,0.3497,0.0022,False
+10979,jv-ID,lists,lists_query,apa sing ana ing dhaptar mu saiki,play_music,0.9994,0.0,False
+10981,jv-ID,lists,lists_query,ngetogake aku ngerti dhaptar,qa_factoid,0.9986,0.0,False
+10985,jv-ID,lists,lists_remove,mbusak tugas ku kanggo minggu iki,calendar_remove,0.9904,0.0042,False
+10990,jv-ID,lists,lists_remove,mbusak pel pawon ing gawean sing kudu ditindakake,qa_factoid,0.4684,0.1247,False
+10999,jv-ID,lists,lists_query,ngomongke dhaptar,qa_factoid,0.9971,0.0001,False
+11023,jv-ID,lists,lists_remove,mbusak dhaptar blanja,qa_factoid,0.4058,0.0291,False
+11024,jv-ID,lists,lists_remove,ngapus dhaptar sing kudu ditindakake,qa_factoid,0.9262,0.0031,False
+11053,jv-ID,lists,lists_remove,njaluk nyisihaken saka dhaptar google,qa_factoid,0.9916,0.0,False
+11075,jv-ID,lists,lists_query,sepira akeh dhaptar sing aku duwe,cooking_recipe,0.6262,0.0018,False
+11081,jv-ID,lists,lists_query,dhaptar apa ing notebook ku,qa_factoid,0.9987,0.0,False
+11085,jv-ID,lists,lists_remove,njupuk susu saka dhaptar blanja,cooking_recipe,0.9992,0.0001,False
+11098,jv-ID,lists,lists_remove,njaluk nyisihaken saka dhaftar pajeg sewu sanga ngatus sangang puluh,social_post,0.2913,0.0324,False
+11107,jv-ID,lists,lists_query,apa dhaptar anyar ku saiki,qa_factoid,0.9974,0.0,False
+11124,jv-ID,lists,lists_query,dhaptar barang ing dhaptar gawean ku,social_post,0.5017,0.0385,False
+11125,jv-ID,lists,lists_query,menehi aku rincian ing urutan pesenan,recommendation_events,0.6888,0.0134,False
+11133,jv-ID,lists,lists_remove,mbusak dhaptar tamu sing tak gawe minggu wingi,social_post,0.3715,0.0205,False
+11154,jv-ID,lists,lists_query,mriksa dhaftar paling anyar kanggo ditindakake,qa_factoid,0.9992,0.0,False
+11162,jv-ID,lists,lists_remove,aku pengin mbusak apel saka dhaptar,iot_hue_lightoff,0.6821,0.0157,False
+11164,jv-ID,lists,lists_remove,adoh saka dhaptar,qa_factoid,0.9956,0.0001,False
+11166,jv-ID,lists,lists_query,bukak google keep,recommendation_events,0.3217,0.0143,False
+11168,jv-ID,lists,lists_remove,sampah dhaptar ku,social_post,0.9999,0.0,False
+11172,jv-ID,lists,lists_query,menehi kula kabeh dhaptar kasedhiya,qa_factoid,0.8638,0.001,False
+11174,jv-ID,lists,lists_query,dhaptar kabeh dhaptar ing piranti iki,email_sendemail,0.6581,0.0163,False
+11180,jv-ID,calendar,calendar_query,ngrancang pesta ku,social_post,0.6359,0.0009,False
+11186,jv-ID,lists,lists_query,aku duwe dhaptar sandhangan ku,iot_hue_lightoff,0.3257,0.0202,False
+11189,jv-ID,lists,lists_query,golek dhaptar,qa_factoid,0.9973,0.0001,False
+11204,jv-ID,lists,lists_query,informasi omah penting,email_sendemail,0.9761,0.0004,False
+11215,jv-ID,lists,lists_query,dhaptar,qa_factoid,0.9251,0.0037,False
+11250,jv-ID,lists,lists_query,waca maneh dhaptar sembako kanggo kula,cooking_recipe,0.5289,0.0186,False
+11257,jv-ID,play,play_podcasts,setel rekaman sakwise iki,calendar_set,0.766,0.003,False
+11259,jv-ID,play,play_podcasts,lewati podcast selanjute,play_podcasts,0.9929,0.9929,True
+11261,jv-ID,play,play_podcasts,selanjute,lists_remove,0.9032,0.0003,False
+11265,jv-ID,play,play_podcasts,puteren selanjute,iot_hue_lightoff,0.7965,0.0009,False
+11266,jv-ID,play,play_podcasts,puter podcast perpustakaan aku,play_podcasts,0.9981,0.9981,True
+11267,jv-ID,play,play_podcasts,golek podcast bab pemenang piala citra paling anyar,social_post,0.668,0.2673,False
+11270,jv-ID,play,play_podcasts,muter podcast selanjute,play_podcasts,0.8496,0.8496,True
+11272,jv-ID,play,play_podcasts,puter selanjute,iot_hue_lightoff,0.6897,0.0023,False
+11279,jv-ID,play,play_podcasts,setel episode selanjute podcast mandan kenthir,social_post,0.955,0.0385,False
+11286,jv-ID,play,play_podcasts,puterno podcast podkesmas,social_post,0.9222,0.0758,False
+11296,jv-ID,play,play_podcasts,unggah kabeh podcast duwekku,play_podcasts,0.9998,0.9998,True
+11302,jv-ID,play,play_podcasts,setel last libertarian podcast,play_podcasts,0.9997,0.9997,True
+11303,jv-ID,play,play_podcasts,setel podcast temukonco selanjute,play_podcasts,0.9945,0.9945,True
+11306,jv-ID,play,play_podcasts,setel podcast sing tak rungokno ndek wingi,play_podcasts,1.0,1.0,True
+11318,jv-ID,play,play_podcasts,setel episode selanjute podcast iki,play_podcasts,0.9943,0.9943,True
+11322,jv-ID,play,play_podcasts,opo podcast paling duwur saiki,qa_factoid,0.7597,0.0006,False
+11328,jv-ID,play,play_podcasts,puter podcast mendoan,play_podcasts,0.8996,0.8996,True
+11331,jv-ID,play,play_podcasts,nuduhake podcast tembang rock kang nduweni biji apik,play_podcasts,0.9871,0.9871,True
+11335,jv-ID,play,play_music,setel acak kabeh lagu alon,qa_factoid,0.9981,0.0,False
+11339,jv-ID,play,play_podcasts,puteren podcast ku sing paling sering ditonton,social_post,0.6842,0.3055,False
+11340,jv-ID,play,play_podcasts,raditya dika opo duwe podcast anyar,play_podcasts,0.9569,0.9569,True
+11341,jv-ID,play,play_podcasts,golek podcast disney paling anyar,social_post,0.9504,0.0496,False
+11343,jv-ID,play,play_podcasts,setel temukonco episode salanjute,qa_factoid,0.4377,0.0149,False
+11345,jv-ID,play,play_podcasts,puteren episode selanjute ing podcast,social_post,0.8414,0.1459,False
+11349,jv-ID,play,play_podcasts,olly miwiti podcast aku miwiti wingi,play_podcasts,0.9804,0.9804,True
+11353,jv-ID,play,play_podcasts,tudokne aku podcasts,play_podcasts,0.9934,0.9934,True
+11361,jv-ID,play,play_podcasts,rintik sedu siaran puteren iki,qa_factoid,0.7036,0.0002,False
+11366,jv-ID,play,play_podcasts,balik maring episode sadurunge kadi podcast,play_podcasts,0.9704,0.9704,True
+11368,jv-ID,play,play_podcasts,setel podcast dedy corbuzier,play_podcasts,0.5198,0.5198,True
+11376,jv-ID,play,play_podcasts,aku pengen krungu podcast,social_post,0.9993,0.0006,False
+11384,jv-ID,play,play_podcasts,unduh data podcastku lan langsung setel sepisan,play_podcasts,1.0,1.0,True
+11409,jv-ID,play,play_podcasts,tolong lewati podcast episode selanjute,play_podcasts,0.9862,0.9862,True
+11417,jv-ID,play,play_podcasts,setelen episod selanjute,lists_remove,0.5269,0.0135,False
+11418,jv-ID,play,play_podcasts,setel choki sitohang podcast paling anyar,play_podcasts,1.0,1.0,True
+11420,jv-ID,play,play_podcasts,setel podcast aku paling anyar,play_podcasts,1.0,1.0,True
+11423,jv-ID,play,play_podcasts,mundurke telung puluh detik,qa_factoid,0.9281,0.0005,False
+11424,jv-ID,play,play_podcasts,geronimo,email_query,0.4089,0.0129,False
+11426,jv-ID,lists,lists_query,dhaftar paling akeh dideleng,qa_factoid,1.0,0.0,False
+11427,jv-ID,play,play_podcasts,puter podkesmas,play_podcasts,0.8321,0.8321,True
+11437,jv-ID,play,play_podcasts,tolong puterno podcast,social_post,0.9978,0.0022,False
+11438,jv-ID,play,play_podcasts,tolong lanjut maring episode selanjute kadi podcast,play_podcasts,0.8957,0.8957,True
+11442,jv-ID,play,play_podcasts,setel podcast doni paling anyar,play_podcasts,1.0,1.0,True
+11451,jv-ID,play,play_podcasts,setel podkesmas paling anyar,qa_factoid,0.9321,0.0015,False
+11453,jv-ID,play,play_podcasts,mulai podcast podcast temukonco,play_podcasts,0.9995,0.9995,True
+11455,jv-ID,play,play_podcasts,pindah ning bagian selanjute,lists_remove,0.647,0.0019,False
+11458,jv-ID,play,play_podcasts,teruske ning podcast episode selanjute,play_podcasts,0.9816,0.9816,True
+11459,jv-ID,play,play_podcasts,baleni episode terakhir podcast iki,play_podcasts,0.9988,0.9988,True
+11460,jv-ID,play,play_podcasts,uripno podcast olahraga,play_podcasts,0.9904,0.9904,True
+11467,jv-ID,play,play_podcasts,setel podcast paling akhir kadi american life,play_podcasts,0.9999,0.9999,True
+11470,jv-ID,play,play_podcasts,setel podcast kesenengan aku,play_podcasts,1.0,1.0,True
+11474,jv-ID,play,play_podcasts,lanjutke seri podcast,play_podcasts,0.7674,0.7674,True
+11476,jv-ID,play,play_podcasts,setel podcast sadurunge,play_podcasts,1.0,1.0,True
+11483,jv-ID,play,play_podcasts,mulai podkesmas,social_post,0.944,0.0156,False
+11490,jv-ID,play,play_podcasts,puter show selanjute nang podcast,play_podcasts,0.9897,0.9897,True
+11502,jv-ID,play,play_podcasts,tombol sawise,iot_hue_lightoff,0.4971,0.0037,False
+11505,jv-ID,play,play_podcasts,baleni podcast terakir aku,social_post,0.9916,0.0076,False
+11514,jv-ID,play,play_podcasts,setel podcast podkesmas,play_podcasts,1.0,1.0,True
+11515,jv-ID,play,play_podcasts,setel podcast podkesmas,play_podcasts,1.0,1.0,True
+11525,jv-ID,play,play_podcasts,setel podcast salanjute sing ono,play_podcasts,1.0,1.0,True
+11529,jv-ID,play,play_podcasts,hey muter podcast kesenengan saka daftarku,play_podcasts,1.0,1.0,True
+11536,jv-ID,play,play_podcasts,tambahke podcast kesenengan maring daftar puter lan di wiwiti,play_podcasts,1.0,1.0,True
+11539,jv-ID,play,play_podcasts,wiwiti podcast selanjute,social_post,0.9606,0.0318,False
+11546,jv-ID,play,play_podcasts,puter kabeh jurnal risa saka minggu wingi,news_query,0.1758,0.0595,False
+11554,jv-ID,play,play_podcasts,aku pengen kowe puter podcast,play_podcasts,0.9888,0.9888,True
+11563,jv-ID,recommendation,recommendation_events,kegiatan opo sing iso tak lakoni neng klaten,social_post,0.9956,0.0001,False
+11570,jv-ID,recommendation,recommendation_events,apa sing kedadeyan ing kota ku,cooking_recipe,0.9373,0.0001,False
+11582,jv-ID,recommendation,recommendation_events,apa wae dangdutan ning semarang,social_post,0.9241,0.0012,False
+11585,jv-ID,recommendation,recommendation_events,ono acara budaya opo neng bandung,social_post,0.9397,0.0393,False
+11598,jv-ID,recommendation,recommendation_events,mugi kula ngerti asu nuduhake acara arep ing kutha asal aku,social_post,0.9895,0.0002,False
+11600,jv-ID,recommendation,recommendation_events,pilem opo iso aku tonton wengi iki ning bandung,play_podcasts,0.9408,0.0014,False
+11610,jv-ID,recommendation,recommendation_events,wenehi dhaptar pertunjukan sirkus ing kota saiki,qa_factoid,0.7486,0.0049,False
+11612,jv-ID,recommendation,recommendation_events,apa konser ing bandung,play_music,0.9999,0.0,False
+11616,jv-ID,recommendation,recommendation_events,opo ono acara ning tengah kutha wengi iki,weather_query,0.678,0.0016,False
+11643,jv-ID,recommendation,recommendation_events,acara apa enggal,qa_factoid,0.994,0.0,False
+11644,jv-ID,recommendation,recommendation_events,duduhno aku acara ning klaten,social_post,0.3569,0.0268,False
+11650,jv-ID,recommendation,recommendation_events,loro-lorone sopir enom lan sopir anyaran kerep kecelakaan tinimbang sopir liyane kerono padha durung duwe pengalaman kang cukup seng kudu diduweni supoyo biso nyetir aman dewek e penelitian pada nduduhno pengalaman nyopir iku faktor gede ngurangi kecelakaan ndek dalan lan iku waktu paling aman gawe sopir enom nalika sopir sopir iku pas nyetir ono seng ngawasi,lists_query,0.3401,0.0357,False
+11681,jv-ID,recommendation,recommendation_events,tulung tuduhake aku maraton cedhak kula,recommendation_events,0.9447,0.9447,True
+11685,jv-ID,recommendation,recommendation_events,aku bakal seneng yen sampeyan nganyari kula acara ing wilayah kita,recommendation_events,0.2807,0.2807,True
+11705,jv-ID,recommendation,recommendation_events,duduhno pagelaran lukis ing jogja nasional museum,qa_factoid,0.5738,0.0014,False
+11720,jv-ID,recommendation,recommendation_events,nglangi,qa_factoid,0.9846,0.0001,False
+11767,jv-ID,recommendation,recommendation_events,olly acara apa sing kedadeyan ing semarang akhir minggu iki,news_query,0.8619,0.0863,False
+11770,jv-ID,recommendation,recommendation_events,acara apa wae akhir minggu iki ing bandung,qa_factoid,0.9088,0.0035,False
+11782,jv-ID,recommendation,recommendation_events,apa ana acara khusus cedhak kula akhir minggu iki,qa_factoid,0.5563,0.0133,False
+11798,jv-ID,recommendation,recommendation_events,opo acara sakbanjure nang perpustakaan,qa_factoid,0.9755,0.0014,False
+11827,jv-ID,recommendation,recommendation_events,nangdi aku iso lungo wengi iki,iot_hue_lightoff,0.6136,0.0036,False
+11839,jv-ID,recommendation,recommendation_events,opo sing kedhadiyan sekitaran aku,play_music,1.0,0.0,False
+11841,jv-ID,recommendation,recommendation_events,apa ana pameran kerajinan ing wilayah iki,recommendation_events,0.864,0.864,True
+11844,jv-ID,recommendation,recommendation_events,pantai,qa_factoid,0.4101,0.0109,False
+11845,jv-ID,recommendation,recommendation_events,olly duduhno aku karo acara menarik nang daerah pantai,social_post,0.9918,0.003,False
+11860,jv-ID,recommendation,recommendation_events,tuduhake kula acara acara lokal,social_post,0.7605,0.0444,False
+11867,jv-ID,recommendation,recommendation_events,apa mene ana acara olah raga nang salatiga,play_music,0.5999,0.0016,False
+11875,jv-ID,recommendation,recommendation_events,kene festival panganan ning area iki,cooking_recipe,0.984,0.0012,False
+11904,jv-ID,recommendation,recommendation_events,apa sing kedadeyan ing kene akhir minggu iki,social_post,0.9154,0.0036,False
+11905,jv-ID,recommendation,recommendation_events,olly duduhke aku bab kegiatan-kegiatan nang daerah ku minggu iki,social_post,0.7001,0.0114,False
+11911,jv-ID,recommendation,recommendation_events,sembarang acara kondhang minggon iki nang wilayah kene,qa_factoid,0.9837,0.0012,False
+11916,jv-ID,recommendation,recommendation_events,apa sawetara pasar malem sing cedhak,qa_factoid,0.44,0.0037,False
+11969,jv-ID,recommendation,recommendation_events,opo ono sing special cedhak kene,play_music,0.9999,0.0,False
+11999,jv-ID,recommendation,recommendation_events,marang aku kabeh acara kanggo dina iki ing kuthaku,recommendation_events,0.4669,0.4669,True
+12008,jv-ID,recommendation,recommendation_events,apa ana acara seneng ing semarang dino iki,social_post,0.5811,0.0423,False
+12054,jv-ID,recommendation,recommendation_events,apa sing kedadeyan nang kota,qa_factoid,0.3547,0.0066,False
+12070,jv-ID,recommendation,recommendation_events,kapan mall taman anggrek buka,qa_factoid,0.9988,0.0001,False
+12073,jv-ID,recommendation,recommendation_events,weruh acara lokal saiki,qa_factoid,0.999,0.0,False
+12098,jv-ID,recommendation,recommendation_events,tuduhake aku acara musik cedhak,play_music,0.9797,0.0012,False
+12189,jv-ID,transport,transport_query,carane aku menyang stasiun sepur kanggo njaluk tiket,transport_query,0.9972,0.9972,True
+12240,jv-ID,transport,transport_query,pie lalu lintas nang dalan ku tekan omah jam limo,transport_query,0.3058,0.3058,True
+12245,jv-ID,transport,transport_query,liihatno jadwal sepur surabaya malang,calendar_remove,0.987,0.0085,False
+12251,jv-ID,transport,transport_query,golekno aku jam sepur lokal nang ragunan,play_music,0.9998,0.0,False
+12252,jv-ID,transport,transport_query,jam piro sepur menyang kebumen budal,qa_definition,0.6669,0.0001,False
+12261,jv-ID,transport,transport_query,golekno jadwal sepur menyang kroya dino rebo utawa kemis,calendar_remove,0.7706,0.2007,False
+12263,jv-ID,transport,transport_query,indonesia,qa_factoid,0.925,0.0001,False
+12264,jv-ID,transport,transport_query,bandung,social_post,0.9994,0.0,False
+12294,jv-ID,transport,transport_query,nuduhake jadwal sepur menyang gedung opera monas,calendar_remove,0.9466,0.0003,False
+12310,jv-ID,transport,transport_query,kekono aku dhaptar tiket sepur saka bandung nang bekasi,qa_factoid,1.0,0.0,False
+12343,jv-ID,transport,transport_query,prikso jadwal sepur nomer sepuluh ewu wolungatus wolung puluh pitu soko stasiun wates dina seloso,transport_query,0.9478,0.9478,True
+12354,jv-ID,transport,transport_query,wenehi wektu sepur,social_post,0.9982,0.0,False
+12366,jv-ID,transport,transport_query,opo ono sepur sambungan soko bandung menyang bekasi lan jam piro,transport_query,0.8887,0.8887,True
+12367,jv-ID,transport,transport_query,ngendi dalan paling cedhak nang jakarta,qa_factoid,0.9939,0.0002,False
+12376,jv-ID,transport,transport_query,opo sepur sing pertama nang gondangdia,social_post,0.8308,0.0008,False
+12392,jv-ID,transport,transport_query,kandani aku tujuane dina iki,social_post,0.7927,0.0023,False
+12402,jv-ID,transport,transport_query,kapan sepur sabanjure lelungan ing kutha mangkat saka kene,transport_query,0.2485,0.2485,True
+12419,jv-ID,transport,transport_query,rute paling cepet kanggo bandung,transport_query,0.9999,0.9999,True
+12430,jv-ID,transport,transport_query,sebutke wayah tekane sepur nang jakarta,qa_factoid,0.9724,0.0021,False
+12436,jv-ID,transport,transport_query,pirang suwe gawe nang bandara,play_music,0.9282,0.0008,False
+12437,jv-ID,transport,transport_query,piro suwe perjalanan nang teater,play_music,0.5788,0.001,False
+12446,jv-ID,transport,transport_query,apa sampeyan bisa ngomong kapan sepur mangkat menyang bandung,datetime_query,0.9472,0.0175,False
+12473,jv-ID,transport,transport_query,carane aku omah saka kene,social_post,0.8434,0.0026,False
+12526,jv-ID,transport,transport_query,piye cara paling cepet menyang starbucks,cooking_recipe,0.7223,0.0006,False
+12532,jv-ID,transport,transport_query,arahke nang nggone,qa_factoid,0.9991,0.0,False
+12581,jv-ID,transport,transport_query,kapan sepur e budhal dina iki,cooking_recipe,0.517,0.0158,False
+12582,jv-ID,transport,transport_query,jam piro transjakarta teka pertama isuk,qa_factoid,0.9499,0.0047,False
+12604,jv-ID,transport,transport_query,pie carane aku mesen tiket sepur online,qa_factoid,0.9481,0.02,False
+12618,jv-ID,transport,transport_query,pira regane tiket sepur pulang pergi nang bali,qa_factoid,0.9979,0.0001,False
+12623,jv-ID,transport,transport_query,golek jadwal sepur menyang bandung,calendar_query,0.6551,0.0022,False
+12629,jv-ID,transport,transport_query,jam piro sepur sikik dewe mangkat seko bandung,social_post,0.9147,0.0012,False
+12634,jv-ID,transport,transport_query,kapan sepur berikute budal namg manggarai,qa_definition,0.8813,0.0002,False
+12707,jv-ID,transport,transport_query,telusuran pandhu arah,qa_definition,0.9524,0.0001,False
+12759,jv-ID,transport,transport_query,wektu nyopir nang bandung,news_query,0.8813,0.0012,False
+12797,jv-ID,transport,transport_query,wektu sepur tekan tempat cidak ku,iot_hue_lightoff,0.7432,0.0037,False
+12800,jv-ID,transport,transport_query,nangdi perpustakaan umum,qa_factoid,0.9958,0.0004,False
+12817,jv-ID,transport,transport_query,piye aku nang mall,qa_factoid,0.2797,0.018,False
+12818,jv-ID,transport,transport_query,piro tiket sepur nang bandung,transport_query,0.6376,0.6376,True
+12824,jv-ID,transport,transport_query,gawe daftar kabeh jadwal sepur nang bandung,calendar_set,0.3764,0.0057,False
+12835,jv-ID,transport,transport_query,jampiro sepur e budal,social_post,0.1748,0.072,False
+12839,jv-ID,transport,transport_query,gawaen aku nang klayatan,cooking_recipe,0.9939,0.0,False
+12851,jv-ID,transport,transport_query,duduhno aku arah nang omah ku,social_post,0.9975,0.0001,False
+12856,jv-ID,transport,transport_query,tulung tunjukkan',qa_definition,0.9959,0.0,False
+12866,jv-ID,transport,transport_query,jam piro sepur sinar jaya,iot_hue_lightoff,0.7655,0.0338,False
+12908,jv-ID,transport,transport_query,jam piro sepur e teka ing bandung,qa_factoid,0.2175,0.0287,False
+12930,jv-ID,transport,transport_query,golek toko cedhak aku soko peta,recommendation_events,0.9335,0.0004,False
+12932,jv-ID,transport,transport_query,olly aku butuh arah nang dalan pahlawan,qa_factoid,0.932,0.0011,False
+12951,jv-ID,qa,qa_factoid,apa bangunan paling dhuwur ing donya,qa_factoid,0.9847,0.9847,True
+12957,jv-ID,qa,qa_definition,netepake njlimet,qa_definition,0.6739,0.6739,True
+12961,jv-ID,qa,qa_definition,tukung nemtokake forensik,social_post,0.6764,0.1131,False
+12963,jv-ID,qa,qa_definition,apa definisi forensik,qa_definition,0.9997,0.9997,True
+12972,jv-ID,qa,qa_factoid,puncak ngendhi paling dhuwur ing dunya,qa_factoid,0.9999,0.9999,True
+12982,jv-ID,qa,qa_definition,apa tegese turbulensi,qa_definition,0.8462,0.8462,True
+12986,jv-ID,qa,qa_definition,mriksa definisine capricious,qa_definition,0.9999,0.9999,True
+12999,jv-ID,qa,qa_factoid,pira umure mariah carey,social_post,0.7107,0.02,False
+13016,jv-ID,qa,qa_definition,goleki definisi kleru,qa_definition,1.0,1.0,True
+13023,jv-ID,cooking,cooking_recipe,duduhno aku resep,cooking_recipe,1.0,1.0,True
+13069,jv-ID,qa,qa_definition,apa definisine oranye,qa_definition,1.0,1.0,True
+13074,jv-ID,qa,qa_factoid,kok adam sandler ora lucu,social_post,0.9982,0.0002,False
+13077,jv-ID,qa,qa_factoid,nalika ulang taun robin williams,social_post,0.9667,0.0171,False
+13078,jv-ID,qa,qa_factoid,kandani aku alamate billy crytals,qa_factoid,0.9943,0.9943,True
+13099,jv-ID,qa,qa_factoid,sing saiki dadi perdana menteri inggris,qa_factoid,0.8953,0.8953,True
+13115,jv-ID,qa,qa_factoid,apa ibu kutha nigeria,qa_factoid,0.8962,0.8962,True
+13124,jv-ID,qa,qa_factoid,sepira gedhene kosmos,qa_definition,0.6859,0.1916,False
+13135,jv-ID,qa,qa_factoid,kapan tanggal lahire taylor lautner,datetime_query,0.9686,0.0028,False
+13140,jv-ID,qa,qa_definition,critakake aku kabeh babagan prahara,social_post,0.378,0.0443,False
+13154,jv-ID,qa,qa_factoid,kowe ngerti nomer telpone jessica snout,qa_factoid,0.8843,0.8843,True
+13165,jv-ID,qa,qa_definition,apa tegese osilasi,qa_definition,0.9992,0.9992,True
+13166,jv-ID,qa,qa_definition,ngeja lan netepake oscillate,qa_factoid,0.9624,0.0101,False
+13177,jv-ID,calendar,calendar_set,ilingno aku gerak supaya ora tambah lemu,iot_hue_lightoff,0.8924,0.003,False
+13178,jv-ID,calendar,calendar_set,ilengke ngontak meneh konco konco suweku sing wis enem wulan ora tak ajak ngomong sakdurunge lulus,email_query,0.5731,0.0,False
+13188,jv-ID,news,news_query,kandhane piye hasil pemilu majelis ing indonesia arep metu,qa_factoid,0.9975,0.0001,False
+13206,jv-ID,qa,qa_definition,lokasi,qa_factoid,0.5932,0.0549,False
+13215,jv-ID,transport,transport_query,opo dalan paling cepet nang kantor ku tengah kuto sing ora macet,qa_factoid,0.7799,0.0071,False
+13252,jv-ID,qa,qa_factoid,apa basuki cahaya purnama pisanan november el,qa_definition,0.9997,0.0001,False
+13255,jv-ID,qa,qa_factoid,tulung wenehi aku informasi bab john abraham lincon,email_sendemail,0.8856,0.0009,False
+13283,jv-ID,qa,qa_factoid,pinten dhuwit sing digawe dening bill gates,iot_hue_lightoff,0.9812,0.0069,False
+13288,jv-ID,qa,qa_definition,apa definisi saka tembung langgeng,qa_definition,1.0,1.0,True
+13297,jv-ID,qa,qa_factoid,sopo artis,social_post,0.9997,0.0,False
+13298,jv-ID,qa,qa_factoid,apa sing ditindakake selebriti,social_post,0.9062,0.0482,False
+13330,jv-ID,qa,qa_factoid,piro ukurane sperma paus,qa_factoid,0.9997,0.9997,True
+13361,jv-ID,qa,qa_definition,apa gambarane garis wektu,iot_hue_lightoff,0.9624,0.0239,False
+13383,jv-ID,qa,qa_factoid,carane akeh negara duwe paukuman pati,qa_factoid,0.821,0.821,True
+13400,jv-ID,social,social_post,kirim pesen lucu kanggo kabeh kanca-kanca ku,social_post,0.9929,0.9929,True
+13439,jv-ID,qa,qa_factoid,pira umure j. k. rowling,email_sendemail,0.9967,0.0003,False
+13457,jv-ID,calendar,calendar_set,kandani aku kapan jadwal acarane ben aku ora telat,calendar_remove,0.6193,0.0011,False
+13473,jv-ID,qa,qa_factoid,kapan amerika serikat entuk kebebasan,qa_factoid,0.9852,0.9852,True
+13487,jv-ID,qa,qa_factoid,olly apa ibukutha california,qa_factoid,0.9835,0.9835,True
+13494,jv-ID,qa,qa_definition,wenehno weruh artine motivasi,recommendation_events,0.8508,0.003,False
+13506,jv-ID,datetime,datetime_query,bisa ngomong wektu iku,qa_factoid,0.8358,0.0003,False
+13513,jv-ID,qa,qa_factoid,pira sikile asu,qa_factoid,0.5487,0.5487,True
+13516,jv-ID,qa,qa_factoid,kok isa paus gedhe,qa_definition,0.8664,0.0719,False
+13546,jv-ID,qa,qa_factoid,apa film pungkasane will smith,play_music,0.0952,0.0576,False
+13554,jv-ID,qa,qa_factoid,sepira dhuwure brad pitt,iot_hue_lightoff,0.9995,0.0,False
+13575,jv-ID,qa,qa_factoid,nalika pungkasan academy award menang film,qa_factoid,0.9968,0.9968,True
+13580,jv-ID,qa,qa_factoid,sepira dhuwure gunung everest,cooking_recipe,0.8611,0.0006,False
+13591,jv-ID,qa,qa_factoid,apa ibukuthane west virginia,weather_query,0.1289,0.037,False
+13592,jv-ID,qa,qa_factoid,ning ngendi new zealand dumunung ing peta,qa_factoid,0.3276,0.3276,True
+13604,jv-ID,qa,qa_factoid,kandani aku ning ngendi steve jobs lair,qa_factoid,0.333,0.333,True
+13607,jv-ID,qa,qa_factoid,apa kowe isa konfirmasi yen leonardo wis nikah,qa_factoid,0.995,0.995,True
+13616,jv-ID,qa,qa_factoid,ngendi nggone selebriti nongkrong,social_post,0.9968,0.001,False
+13619,jv-ID,recommendation,recommendation_events,opo ono acara gratisan nang wilayahku dina iki,recommendation_events,0.5361,0.5361,True
+13625,jv-ID,qa,qa_definition,apa meja paling gedhe,qa_factoid,1.0,0.0,False
+13636,jv-ID,qa,qa_factoid,kapan ulang tahun arnold schwarzenegger,calendar_remove,0.8204,0.0394,False
+13679,jv-ID,qa,qa_factoid,apa sampeyan bisa ngomong apa weteng sapi,qa_factoid,0.5639,0.5639,True
+13681,jv-ID,qa,qa_factoid,sepira akeh patrick stewart wis muter ing,qa_factoid,0.8162,0.8162,True
+13683,jv-ID,qa,qa_factoid,semburan rambut merk apa sing digawe joko widodo,qa_factoid,1.0,1.0,True
+13689,jv-ID,qa,qa_definition,apa kursi iku,qa_factoid,0.9931,0.0026,False
+13690,jv-ID,qa,qa_factoid,opo warna kursi iki,qa_factoid,0.7995,0.7995,True
+13693,jv-ID,qa,qa_factoid,endi nggone meridian prima,datetime_query,0.1568,0.0575,False
+13705,jv-ID,qa,qa_definition,apa iku sistem emisi elektronik,qa_factoid,0.4102,0.3361,False
+13706,jv-ID,qa,qa_definition,njlèntrèhaké kitiran,qa_factoid,0.8707,0.0722,False
+13714,jv-ID,qa,qa_definition,apa iku pelem,social_post,0.7189,0.0045,False
+13717,jv-ID,qa,qa_factoid,apa kowe isa ndeleng rusia saka alaska,qa_factoid,0.6912,0.6912,True
+13758,jv-ID,qa,qa_factoid,pira umure marian carey,qa_factoid,0.8927,0.8927,True
+13761,jv-ID,qa,qa_factoid,opo kui parsec,qa_factoid,0.9806,0.9806,True
+13774,jv-ID,qa,qa_factoid,sepira adoh california saka georgia,qa_factoid,0.3526,0.3526,True
+13777,jv-ID,qa,qa_definition,bisa njlèntrèhaké kertu kredit,qa_definition,0.947,0.947,True
+13780,jv-ID,qa,qa_factoid,apa steph curry kawin,email_sendemail,0.8906,0.0008,False
+13798,jv-ID,qa,qa_factoid,piro adoh e jarak negoro negoro nek dunyo,qa_factoid,0.9991,0.9991,True
+13799,jv-ID,qa,qa_definition,apa definisine subjegant,qa_definition,0.9996,0.9996,True
+13823,jv-ID,qa,qa_factoid,sepira adohe srengenge,qa_factoid,0.9827,0.9827,True
+13853,jv-ID,qa,qa_factoid,ing bumi ngendi sing paling gunung geni,qa_factoid,0.9946,0.9946,True
+13854,jv-ID,qa,qa_factoid,kapan elvis mati,qa_factoid,0.9991,0.9991,True
+13863,jv-ID,qa,qa_definition,apa gambarane logika,qa_factoid,0.9897,0.0068,False
+13867,jv-ID,qa,qa_factoid,ning ngendi taman yosemite,qa_factoid,0.548,0.548,True
+13869,jv-ID,qa,qa_factoid,google tulung lokasi lan informasi gunung rushmore,recommendation_events,0.3944,0.0277,False
+13871,jv-ID,qa,qa_definition,carane sampeyan bakal njlèntrèhaké selamat ulang taun,qa_factoid,0.9877,0.0004,False
+13881,jv-ID,qa,qa_factoid,tulung menehi aku informasi bab michael jackson,social_post,0.9982,0.0007,False
+13888,jv-ID,qa,qa_factoid,pira suhu ing indianapolis indiana,weather_query,0.9161,0.0166,False
+13895,jv-ID,qa,qa_factoid,apa kowe isa ngomong bab wayne gretszky,social_post,0.9977,0.0001,False
+13900,jv-ID,qa,qa_definition,gambarabe urip,qa_factoid,1.0,0.0,False
+13907,jv-ID,qa,qa_definition,nemtokake gumun,cooking_recipe,0.9933,0.0002,False
+13908,jv-ID,qa,qa_definition,kandani aku apa tegese gumun,qa_definition,0.9925,0.9925,True
+13926,jv-ID,qa,qa_factoid,kapan ulang tahun hemingway,weather_query,0.9871,0.0005,False
+13927,jv-ID,qa,qa_factoid,pira regane lebron james,email_query,0.9426,0.0014,False
+13974,jv-ID,qa,qa_factoid,ngendi iku laos,social_post,0.5629,0.126,False
+13983,jv-ID,qa,qa_definition,nandhang sangsara jalaran,social_post,0.9999,0.0,False
+13984,jv-ID,qa,qa_definition,akibat kanggo tumindak,qa_factoid,0.9898,0.0005,False
+13997,jv-ID,qa,qa_factoid,piro rata rata regane omah,qa_factoid,0.8228,0.8228,True
+14000,jv-ID,qa,qa_definition,njlèntrèhaké kemalasan,qa_definition,0.6149,0.6149,True
+14001,jv-ID,qa,qa_factoid,marang kula kabeh sing ngerti bab sloths,social_post,0.9654,0.0293,False
+14011,jv-ID,qa,qa_factoid,nalika ulang taune dolly parton,qa_factoid,0.9211,0.9211,True
+14015,jv-ID,qa,qa_factoid,apa kuwi koordinat khatulistiwa,weather_query,0.489,0.3385,False
+14023,jv-ID,qa,qa_definition,nggambaraken neraka,qa_factoid,0.9903,0.0022,False
+14033,jv-ID,qa,qa_factoid,kandhani aku kapan obama lair,qa_factoid,0.9706,0.9706,True
+14038,jv-ID,qa,qa_factoid,ngendi lokasine moldova,qa_factoid,1.0,1.0,True
+14040,jv-ID,qa,qa_factoid,sepiro duwure ade rai,qa_factoid,0.9755,0.9755,True
+14053,jv-ID,qa,qa_factoid,ono ning tahun piro barry prima mulai akting,qa_factoid,0.8428,0.8428,True
+14063,jv-ID,qa,qa_factoid,kapan ulang taune elvis presley,qa_factoid,1.0,1.0,True
+14083,jv-ID,qa,qa_factoid,nang ngendi jackie chan saiki manggon,social_post,0.9997,0.0,False
+14096,jv-ID,qa,qa_factoid,ning ngendi gunung rocky,social_post,0.6355,0.0271,False
+14115,jv-ID,qa,qa_definition,menehi rincian wedhi watu,social_post,0.9892,0.0002,False
+14116,jv-ID,qa,qa_definition,nggambarake wedhi watu,iot_hue_lightoff,0.8523,0.0017,False
+14117,jv-ID,qa,qa_factoid,ning ngendi piramida dumunung,qa_definition,0.574,0.0801,False
+14118,jv-ID,qa,qa_factoid,nuduhake rincian geografis piramida,qa_definition,0.6723,0.0974,False
+14126,jv-ID,qa,qa_factoid,nuduhake bio saka rihana,social_post,0.6783,0.2872,False
+14138,jv-ID,qa,qa_definition,tulung kandhani aku apa definisine tabung,qa_definition,1.0,1.0,True
+14147,jv-ID,qa,qa_definition,nemtokake kemul,social_post,0.9957,0.0012,False
+14150,jv-ID,qa,qa_definition,apa sepatu converse iku,iot_hue_lightoff,0.9495,0.0013,False
+14151,jv-ID,qa,qa_factoid,apa jinis kacamata sing dianggep aviator,qa_definition,0.4127,0.3043,False
+14154,jv-ID,qa,qa_factoid,infone afrika,qa_factoid,0.9536,0.9536,True
+14163,jv-ID,qa,qa_factoid,nggoleki lokalitas,qa_factoid,0.9948,0.9948,True
+14169,jv-ID,qa,qa_factoid,ning ngendi amal clooney kuliah,email_sendemail,1.0,0.0,False
+14170,jv-ID,qa,qa_factoid,apa kim kardashian nganggo converse,qa_factoid,0.9824,0.9824,True
+14179,jv-ID,qa,qa_factoid,sepira adoh kanada saka lokasi ku saiki,social_post,0.3696,0.2773,False
+14214,jv-ID,transport,transport_query,numpak opo wae menyang semarang,qa_factoid,0.2748,0.0125,False
+14229,jv-ID,qa,qa_factoid,film apa sing dibintangi emma watson,qa_factoid,0.9717,0.9717,True
+14243,jv-ID,qa,qa_factoid,rincian babagan wong,social_post,1.0,0.0,False
+14272,jv-ID,qa,qa_definition,heh buku apa iki,email_sendemail,0.6334,0.0003,False
+14283,jv-ID,qa,qa_factoid,kandhani aku bab jaipur,email_query,0.8784,0.0063,False
+14306,jv-ID,qa,qa_factoid,nerangake lokasi geografise india,qa_factoid,0.8147,0.8147,True
+14308,jv-ID,qa,qa_factoid,pira bandhane leonardo dicaprio,qa_factoid,0.7648,0.7648,True
+14316,jv-ID,qa,qa_factoid,sakpira gedhene alaska,qa_factoid,0.8439,0.8439,True
+14317,jv-ID,qa,qa_factoid,apa ukuran amerika serikat,qa_factoid,0.9361,0.9361,True
+14323,jv-ID,qa,qa_factoid,opo warnane buah naga,iot_hue_lightoff,0.2025,0.0425,False
+14330,jv-ID,qa,qa_factoid,neng ngendi steve jobs lair,social_post,0.9344,0.0347,False
+14347,jv-ID,qa,qa_definition,hipotesis kuwi apa,qa_factoid,0.9786,0.0087,False
+14354,jv-ID,qa,qa_factoid,apa jawaban kanggo alam semesta,qa_definition,0.9775,0.0128,False
+14355,jv-ID,qa,qa_factoid,piro kulit kerang sing didol sally neg pinggir pantai,social_post,0.9906,0.0043,False
+14370,jv-ID,qa,qa_factoid,kandani aku gaweane selebriti,social_post,0.9999,0.0,False
+14378,jv-ID,qa,qa_definition,definisi kacepetan,qa_definition,1.0,1.0,True
+14382,jv-ID,qa,qa_factoid,sepira gedhene bangunan empire state,qa_factoid,0.0808,0.0808,True
+14395,jv-ID,qa,qa_factoid,piro jerone bumi,qa_definition,0.8022,0.191,False
+14414,jv-ID,qa,qa_definition,njlèntrèhaké bab hard disk komputer,iot_hue_lightoff,0.9638,0.0005,False
+14417,jv-ID,qa,qa_factoid,samodra endhi tumuju ing bawanane dewe,social_post,0.9951,0.0002,False
+14419,jv-ID,qa,qa_factoid,apa angeline duwe film anyar taun iki,email_sendemail,0.921,0.0005,False
+14429,jv-ID,qa,qa_definition,apa iku kaftan,iot_hue_lightoff,0.3433,0.0169,False
+14440,jv-ID,qa,qa_factoid,apa ibukutha meksiko,qa_definition,0.6751,0.2328,False
+14442,jv-ID,qa,qa_factoid,ngendi fiji iku,social_post,0.9995,0.0,False
+14444,jv-ID,qa,qa_factoid,apa film pisanan morgan freeman,qa_factoid,0.9271,0.9271,True
+14449,jv-ID,qa,qa_factoid,apa pink duwe bayi anyar,qa_definition,0.4859,0.0054,False
+14457,jv-ID,qa,qa_factoid,golek dalan,social_post,0.9978,0.0003,False
+14465,jv-ID,transport,transport_query,arah menyang dufan,social_post,0.9998,0.0,False
+14490,jv-ID,qa,qa_factoid,kapan teater trans tv dibangun,qa_definition,0.8866,0.0582,False
+14498,jv-ID,qa,qa_definition,menehi katrangan babagan smartphone,qa_factoid,0.6478,0.3421,False
+14504,jv-ID,qa,qa_factoid,olly pirang suwe mahatma gandhi nindakake pertemuane,social_post,0.9996,0.0,False
+14505,jv-ID,qa,qa_factoid,sapa sing saiki dadi perdana menteri rusia,social_post,0.9993,0.0,False
+14508,jv-ID,qa,qa_factoid,tulung ngringkeske buku paling anyar george r. r. martin sing judule es lan buku geni,qa_factoid,0.647,0.647,True
+14509,jv-ID,qa,qa_factoid,ning ngendi laire mahatma gandhi,social_post,0.9997,0.0,False
+14539,jv-ID,qa,qa_factoid,golek rincian geografis panggonan iki,qa_factoid,0.3382,0.3382,True
+14545,jv-ID,qa,qa_factoid,ngandani aku lokasine india,social_post,0.9948,0.0002,False
+14567,jv-ID,qa,qa_factoid,apa gunung geni aktif paling gedhe ing donya,qa_factoid,1.0,1.0,True
+14585,jv-ID,qa,qa_factoid,sepira suwene lungo menyang jepang saka korea kidul,cooking_recipe,0.5114,0.0107,False
+14591,jv-ID,qa,qa_definition,wenehi aku katrangan babagan sirkuit tipi,iot_hue_lightoff,0.8196,0.0084,False
+14592,jv-ID,qa,qa_definition,menehi kula gambaran saka sirkuit smartphone,qa_definition,0.5117,0.5117,True
+14597,jv-ID,qa,qa_factoid,populasi apa ing new york,social_post,0.5954,0.1414,False
+14601,jv-ID,qa,qa_factoid,pirang taun anggone abraham lincoln dadi presiden amerika serikat,social_post,0.9938,0.0008,False
+14605,jv-ID,qa,qa_factoid,opo angelina jolie ninggalke brad pitt,social_post,0.9958,0.0002,False
+14608,jv-ID,qa,qa_factoid,film anyar apa sing jennifer lawrence garap,play_music,0.943,0.0045,False
+14622,jv-ID,qa,qa_definition,nerangake apa iku bal,qa_factoid,0.6299,0.0212,False
+14648,jv-ID,cooking,cooking_recipe,tulung resep,cooking_recipe,1.0,1.0,True
+14653,jv-ID,qa,qa_factoid,populasi apa rusia,social_post,0.9994,0.0002,False
+14661,jv-ID,qa,qa_factoid,pira taun laire barack obama,social_post,0.9995,0.0,False
+14668,jv-ID,qa,qa_definition,njlèntrèhaké item xy,qa_factoid,0.9886,0.0001,False
+14683,jv-ID,qa,qa_factoid,apa hobi ajay devgn,social_post,0.9991,0.0,False
+14684,jv-ID,qa,qa_factoid,sapa sing dadi perdana menteri rusia,social_post,0.7032,0.0013,False
+14690,jv-ID,qa,qa_definition,ok google apa kuwi presiden,qa_factoid,0.8651,0.0857,False
+14700,jv-ID,qa,qa_definition,nambal untu kuwi persis apa,qa_definition,0.5691,0.5691,True
+14701,jv-ID,qa,qa_definition,wenehno weruh carane dolanan kartu remi,transport_query,0.4405,0.1552,False
+14705,jv-ID,qa,qa_factoid,ok google ning ngendi sophia vergara manggon,social_post,0.9953,0.0012,False
+14706,jv-ID,qa,qa_factoid,ning ngendi sophia vergara manggon,social_post,0.9999,0.0,False
+14746,jv-ID,qa,qa_factoid,apa ibukutha kazakhstan,qa_factoid,1.0,1.0,True
+14761,jv-ID,qa,qa_definition,wenehi aku definisi saka tembung pontificate,qa_definition,1.0,1.0,True
+14767,jv-ID,qa,qa_definition,piye caranemu bakal njlèntrèhaké bal,qa_factoid,0.7573,0.036,False
+14770,jv-ID,qa,qa_factoid,kandhani aku segara paling gedhe ing donya,qa_factoid,0.9843,0.9843,True
+14787,jv-ID,qa,qa_factoid,opo bedane antara roman karo kalender grigorean,qa_factoid,0.5542,0.5542,True
+14791,jv-ID,qa,qa_factoid,kursi make-up apa,qa_factoid,0.6525,0.6525,True
+14794,jv-ID,qa,qa_factoid,elvis senenge numpak apa,qa_factoid,0.9099,0.9099,True
+14822,jv-ID,qa,qa_factoid,kanggo mbandingke karo uwong liyo,social_post,0.5541,0.3569,False
+14838,jv-ID,qa,qa_factoid,apa filter kapadhetan netral lan aku pengin gradien siji utawa sing padhet uga sing bakal luwih apik ing gaya antarane sekrup ing siji lan kothak,qa_factoid,0.7054,0.7054,True
+14857,jv-ID,qa,qa_definition,tulung kowe isa nerangake makna exorbitant kanggo aku,qa_definition,0.9954,0.9954,True
+14877,jv-ID,qa,qa_factoid,apa kahanan iklim ing wilayah kasebut,qa_factoid,0.4509,0.4509,True
+14879,jv-ID,qa,qa_definition,tegese saka,qa_factoid,0.8558,0.0937,False
+14884,jv-ID,qa,qa_factoid,apa negara paling rawan tornado ing amerika,qa_factoid,0.9959,0.9959,True
+14889,jv-ID,qa,qa_definition,tulung nerangake obyek kasebut kanggo aku,qa_factoid,0.7554,0.0659,False
+14891,jv-ID,qa,qa_factoid,ing bidang apa wong kasebut unggul,qa_factoid,1.0,1.0,True
+14912,jv-ID,qa,qa_factoid,ning ngendi laire presiden madison,qa_factoid,0.8742,0.8742,True
+14917,jv-ID,qa,qa_factoid,kapan album sabanjure mark lanegan metu,email_sendemail,0.5033,0.0606,False
+14933,jv-ID,qa,qa_factoid,critani aku kabar ngenani geografi indonesia,social_post,0.5402,0.3708,False
+14939,jv-ID,qa,qa_factoid,aku butuh rincian bab bruce lee tulung dibantu,qa_factoid,0.6154,0.6154,True
+14981,jv-ID,qa,qa_definition,katrangan iphone pitu,qa_factoid,0.9406,0.0009,False
+14994,jv-ID,qa,qa_factoid,apa film sabanjure denzel washington,lists_remove,0.1626,0.0609,False
+14995,jv-ID,qa,qa_definition,apa tegese kahanan,qa_definition,0.9956,0.9956,True
+15020,jv-ID,qa,qa_factoid,pira umure clint eastwood,recommendation_events,0.8019,0.0111,False
+15039,jv-ID,qa,qa_factoid,olly saka ngendi gunung rocky miwiti,social_post,0.2318,0.0862,False
+15055,jv-ID,qa,qa_factoid,kutub sing luwih adhem kidul utawa lor,qa_factoid,0.5094,0.5094,True
+15056,jv-ID,qa,qa_factoid,umure pacare emma watson sing paling anyar,qa_factoid,0.9641,0.9641,True
+15062,jv-ID,qa,qa_factoid,tulung info babagan lisa ann,social_post,0.5948,0.3567,False
+15075,jv-ID,qa,qa_factoid,olly ning ngendi wong-wong amerika pisanan manggon,social_post,0.9999,0.0,False
+15092,jv-ID,qa,qa_definition,golek katrangan bab tipi samsung,qa_factoid,0.9691,0.0015,False
+15094,jv-ID,qa,qa_factoid,goleki jumlah wong sing manggon ing miami florida,social_post,0.993,0.002,False
+15095,jv-ID,qa,qa_factoid,wilayah apa dumunung miami,qa_factoid,0.9998,0.9998,True
+15127,jv-ID,qa,qa_definition,nemtokake speaker,qa_factoid,0.9583,0.0262,False
+15155,jv-ID,social,social_post,apa kowe bisa ngunggah selfie paling anyar ing akun facebook,social_post,0.9997,0.9997,True
+15166,jv-ID,social,social_post,kirim bisnisku ing twitter,social_post,0.8706,0.8706,True
+15177,jv-ID,social,social_post,please baleni cemluwitke postingan iki ing twitter,iot_hue_lightoff,0.9595,0.0058,False
+15185,jv-ID,social,social_post,kepinginan ing ulang taun,qa_factoid,0.8682,0.006,False
+15186,jv-ID,social,social_post,kepinginane manten,social_post,0.796,0.796,True
+15187,jv-ID,social,social_post,sebarke kirimane kanca,social_post,0.9812,0.9812,True
+15197,jv-ID,social,social_post,kirim ing twitter kunjunganku menyang jepang,social_post,0.9966,0.9966,True
+15208,jv-ID,social,social_post,kirim hey everyone ing facebook,social_post,0.9973,0.9973,True
+15213,jv-ID,news,news_query,sing lagi sing lagi tren saiki,play_music,0.9998,0.0,False
+15214,jv-ID,news,news_query,apa kabar dino iki,qa_factoid,0.8775,0.0088,False
+15216,jv-ID,social,social_post,cemluwit sawijine kanggo aku,social_post,0.9621,0.9621,True
+15231,jv-ID,social,social_post,foto perjalananku menyang goa kirim ing instagram,social_post,0.9995,0.9995,True
+15271,jv-ID,social,social_post,kirim iki menyang facebook l. o. l.,social_post,0.9995,0.9995,True
+15275,jv-ID,social,social_post,kirim aku seneng ing facebook,email_sendemail,1.0,0.0,False
+15276,jv-ID,social,social_post,ngirim status anyar ing facebook matur yen aku seneng cuaca apik,weather_query,0.9962,0.0009,False
+15289,jv-ID,social,social_post,kirim pesen saiki,social_post,0.3861,0.3861,True
+15305,jv-ID,calendar,calendar_query,apa aku duwe sembarang pangeling eling saka media sosial,social_post,0.9987,0.0001,False
+15318,jv-ID,social,social_post,aku pengin matur nuwun marang kabeh wong kanggo ucapan ulang taun,email_sendemail,0.6984,0.0276,False
+15337,jv-ID,social,social_post,kirim video iki menyang facebook,social_post,0.9985,0.9985,True
+15350,jv-ID,social,social_post,aku ora seneng karo tesco tulungi aku,cooking_recipe,0.4576,0.0267,False
+15358,jv-ID,social,social_post,olly cemluwit ing apple yen iphone ora bisa murup,iot_hue_lightoff,0.586,0.0678,False
+15359,jv-ID,social,social_post,mbukak tweet kanggo apple sing baterei iphone tansah lemes,social_post,0.9995,0.9995,True
+15364,jv-ID,social,social_post,apa sampeyan bisa ngerteni manawa amazon manawa kasus telpon anyar iki ajur,qa_factoid,0.4986,0.0226,False
+15382,jv-ID,social,social_post,apa sampeyan bisa ngubungi samsung lan ujar mesin cuci ku kobong,qa_factoid,0.8168,0.0185,False
+15387,jv-ID,social,social_post,tweet lokasi ku saiki,email_sendemail,0.9922,0.0039,False
+15399,jv-ID,social,social_post,nerusake keluhan menyang aircel kanggo masalah jaringan,transport_query,0.0931,0.0477,False
+15401,jv-ID,social,social_post,mbukak twitter ngirim pesen,email_sendemail,0.5127,0.4463,False
+15402,jv-ID,social,social_post,ngirime tweet barange elek,email_sendemail,1.0,0.0,False
+15409,jv-ID,social,social_post,mbukak twitter ketik keluhan ku lan kirim ing layanan konsumen,email_sendemail,0.4781,0.051,False
+15413,jv-ID,social,social_post,njaluk aku wong a. s. a. p.,social_post,0.8676,0.8676,True
+15444,jv-ID,social,social_post,loro jempol mudhun ing jeneng perusahaan,social_post,0.9018,0.9018,True
+15448,jv-ID,social,social_post,ngirim cemluwit babagan masalah volume sony,qa_factoid,1.0,0.0,False
+15454,jv-ID,social,social_post,cemluwit ing united airlines aku nesu sampeyan ilang tas,qa_factoid,0.9998,0.0,False
+15456,jv-ID,social,social_post,aku pengin ngirim cuitan menyang united airlines aku nesu kowe ngilangke tasku,qa_factoid,0.9995,0.0,False
+15457,jv-ID,social,social_post,aku duwe masalah karo burger sandi bisa sampeyan cuitan bk,qa_factoid,0.9936,0.0001,False
+15459,jv-ID,social,social_post,ngirim keluhan ing twitter,iot_hue_lightoff,0.9941,0.0016,False
+15464,jv-ID,social,social_post,aku ora entuk produk ing wektu ngirim cuitan menyang jcpenney,qa_factoid,0.999,0.0,False
+15467,jv-ID,social,social_post,ngomong comcast aku sengit karo deen,play_podcasts,0.7753,0.1418,False
+15472,jv-ID,social,social_post,cemluwit complaint kanggo toko buku online,qa_factoid,0.9983,0.0001,False
+15487,jv-ID,social,social_post,kohls cemluwit babagan kebersihan toko,email_sendemail,0.9627,0.01,False
+15488,jv-ID,social,social_post,tulung cemluwit ing pizzahut aku wis ngenteni kiriman kanggo saiki nomer ora seneng,qa_definition,0.3288,0.0226,False
+15503,jv-ID,social,social_post,cemluwit anyar kanggo layanan pelanggan,email_sendemail,0.3884,0.0113,False
+15508,jv-ID,social,social_post,siri mbukak cemluwitan twitter ing potus sucks,qa_factoid,0.9632,0.0356,False
+15518,jv-ID,social,social_post,kirim keluhan liwat tweet kanggo ramayana,social_post,0.9998,0.9998,True
+15532,jv-ID,social,social_post,olly cuitan walmart lan ngandhani layanan pelanggan sing nggegirisi,qa_factoid,1.0,0.0,False
+15546,jv-ID,social,social_post,cemluwit babagan pizza kadhemen kanggo papa johns,qa_factoid,0.9079,0.0826,False
+15548,jv-ID,social,social_post,tweet komplen seluler kanggo samsung,social_post,0.9857,0.9857,True
+15553,jv-ID,social,social_post,tulung cemluwitke respon negatif ing layanan daikin,qa_factoid,1.0,0.0,False
+15554,jv-ID,social,social_post,mangga cemluwit ing layanan dell kanggo nundha layanan,qa_factoid,0.5866,0.0254,False
+15556,jv-ID,social,social_post,ayo cemluwit keluhan,iot_hue_lightoff,0.7518,0.0001,False
+15557,jv-ID,social,social_post,aku butuh kowe cemluwit keluhan,qa_factoid,1.0,0.0,False
+15560,jv-ID,social,social_post,posting neng facebook aku ngelih,social_post,1.0,1.0,True
+15565,jv-ID,social,social_post,apa kowe bisa ngetogake delta supaya ngerti aku ora tau nggunaake kuwi maneh,qa_factoid,0.8995,0.0012,False
+15587,jv-ID,social,social_post,mbukak galeri kirim jeneng gambar,email_sendemail,1.0,0.0,False
+15592,jv-ID,social,social_post,cemluwit keluhan ing comcast,qa_factoid,0.7857,0.0016,False
+15593,jv-ID,social,social_post,cemluwit keluhan ing comcast,qa_factoid,0.7857,0.0016,False
+15598,jv-ID,social,social_post,mbukak jeneng perusahaan lan golek keluhan,social_post,0.4943,0.4943,True
+15610,jv-ID,social,social_post,ngirim tweet kaya ngene tumindak lanjut ingkang ala banget dening perusahaan a. b. c. perusahaan ora marem ing akun ku,social_post,0.9998,0.9998,True
+15618,jv-ID,social,social_post,cemluwit ing esurance lan marang wong-wong mau padha nyedhot,social_post,0.999,0.999,True
+15626,jv-ID,social,social_post,please cuitan keluhan kanggo comcast kanggo layanan customer ala,qa_factoid,0.9953,0.0003,False
+15634,jv-ID,social,social_post,ok google cemluwit apa wong brengsek sing duwe ing pom bensin,social_post,0.9867,0.9867,True
+15635,jv-ID,social,social_post,cuitan mcdonald kang mudhun reseda wis layanan elek,qa_factoid,0.9996,0.0001,False
+15647,jv-ID,social,social_post,cemluwit keluhan kanggo ing,qa_factoid,0.6893,0.0017,False
+15651,jv-ID,social,social_post,ngirim laporan menyang layanan pelanggan,email_sendemail,0.99,0.0041,False
+15652,jv-ID,social,social_post,bantuan complaint kanggo layanan pelanggan,qa_factoid,0.8456,0.0064,False
+15655,jv-ID,social,social_post,cemluwit menyang layanan pelanggan google telpon nexus anyarku butuh ditulungi,qa_factoid,1.0,0.0,False
+15656,jv-ID,social,social_post,cemluwit pesen menyang suqcom yen aku isih ngenteni kiriman ku,qa_factoid,0.9317,0.0002,False
+15661,jv-ID,social,social_post,kirim kalebon ku paling anyar kanggo twitter ing n.s.a.,qa_factoid,0.753,0.2357,False
+15670,jv-ID,social,social_post,ngirim cuitan keluhan,qa_factoid,0.9696,0.0004,False
+15672,jv-ID,social,social_post,cemluwit menyang apple babagan ora nampa iphone sing dikirim kanggo ndandani minggu kepungkur,email_sendemail,0.8819,0.0049,False
+15676,jv-ID,social,social_post,tambahake keluhan babagan layanan ing cuitan menyang kebon zaitun,qa_factoid,1.0,0.0,False
+15686,jv-ID,social,social_post,halo barang sing daktuku saka wong liya wis rusak,social_post,0.9894,0.9894,True
+15693,jv-ID,social,social_post,cemluwit sing ana serangga ing paket coklat,qa_factoid,0.6763,0.0089,False
+15700,jv-ID,social,social_post,produk kadaluwarsa ing pasar anyar,qa_factoid,0.6753,0.0129,False
+15703,jv-ID,social,social_post,cemluwit menyang destination x. l. sing padha mbukak metu saka ukuran cepet banget,transport_query,0.8649,0.0068,False
+15706,jv-ID,social,social_post,cemluwit ing,qa_factoid,0.9994,0.0,False
+15707,jv-ID,social,social_post,ayo ngirim twit,social_post,0.9997,0.9997,True
+15708,jv-ID,social,social_post,kirim keluhan babagan layanan,qa_factoid,0.9891,0.0003,False
+15721,jv-ID,social,social_post,cuitan pasuryan jijik babagan mcdonalds,qa_factoid,1.0,0.0,False
+15723,jv-ID,social,social_post,nyetel status seneng ing facebook,qa_factoid,0.5371,0.0063,False
+15731,jv-ID,social,social_post,olly twit pesen neng telkomsel karo omongono doan nek layanan ku elek,social_post,0.9936,0.9936,True
+15732,jv-ID,social,social_post,cemluwit ing samsung lan kandhanana supaya ora mateni wong nganggo produke,recommendation_events,0.3902,0.0171,False
+15736,jv-ID,social,social_post,ngirim review negatif babagan perusahaan,qa_factoid,0.9709,0.0135,False
+15756,jv-ID,email,email_sendemail,surel nang tim aku,social_post,0.4893,0.0072,False
+15763,jv-ID,email,email_query,lihaten email sing anyar,email_sendemail,1.0,0.0,False
+15765,jv-ID,email,email_sendemail,jawab surel surti,qa_factoid,0.997,0.0,False
+15777,jv-ID,email,email_query,ngomong yen aku duwe email anyar,email_sendemail,1.0,0.0,False
+15785,jv-ID,email,email_query,opo ana sing anyar nang kothak mlebu,social_post,0.3483,0.0154,False
+15789,jv-ID,email,email_query,olly apa ana surel anyar,qa_factoid,0.5852,0.0001,False
+15792,jv-ID,calendar,calendar_query,sopo sing aku ketemu dina iki,social_post,0.9999,0.0,False
+15796,jv-ID,email,email_sendemail,email cahyo,email_sendemail,1.0,1.0,True
+15802,jv-ID,email,email_sendemail,bales surel nang jono nek aku ora teka bengi iki,weather_query,0.7131,0.0081,False
+15809,jv-ID,email,email_query,hendro wis ngirim surel kanggo aku,qa_factoid,0.9349,0.0019,False
+15825,jv-ID,email,email_sendemail,baleske nyang bapak ngabari aku bakal telat,qa_factoid,0.7786,0.0016,False
+15828,jv-ID,email,email_sendemail,iki alamat email anyar sing arep ditambahke menyang kontak,email_sendemail,1.0,1.0,True
+15829,jv-ID,email,email_sendemail,menyang kontak lan ketik alamat email anyar,email_sendemail,0.9986,0.9986,True
+15839,jv-ID,email,email_query,tema,qa_factoid,0.7187,0.0043,False
+15841,jv-ID,email,email_sendemail,gawe email anyar kanggo reynal,email_sendemail,1.0,1.0,True
+15845,jv-ID,email,email_sendemail,piye carane iki iso teko nang awak dewe,social_post,0.9603,0.0003,False
+15847,jv-ID,email,email_sendemail,piye carane etok kredit,email_sendemail,0.8851,0.8851,True
+15849,jv-ID,email,email_sendemail,kirim surel nang bos aku,social_post,0.9997,0.0,False
+15857,jv-ID,email,email_sendemail,kirim email anyar sing kedaftar,email_sendemail,1.0,1.0,True
+15862,jv-ID,email,email_query,priksa surel seko ibu,qa_factoid,0.9812,0.0006,False
+15880,jv-ID,email,email_query,prikso pesen pesen aku,weather_query,0.9741,0.0004,False
+15890,jv-ID,email,email_query,tilikana menawa aku entuk email anyar seko bapakku,email_sendemail,1.0,0.0,False
+15904,jv-ID,email,email_query,cek email anyar ku terus ngomong apa iku sing diomongke koe kabeh,email_sendemail,1.0,0.0,False
+15906,jv-ID,email,email_sendemail,bales suwun ming joni,social_post,0.9994,0.0,False
+15911,jv-ID,email,email_sendemail,siapke surel kanggo susan,social_post,0.855,0.0066,False
+15933,jv-ID,email,email_query,aku duwe surel anyar opo,social_post,0.8843,0.0016,False
+15942,jv-ID,email,email_sendemail,ngirim surel iki kanggo mbales surel teranyar,qa_factoid,0.9891,0.0004,False
+15950,jv-ID,email,email_sendemail,tanggepi email kadi joni ismail,email_sendemail,1.0,1.0,True
+15957,jv-ID,email,email_sendemail,email aisyah supaya dheweke ngerti kita saiki ing dalan,email_sendemail,1.0,1.0,True
+15963,jv-ID,email,email_query,opo aku ana surel anyar seko keni,qa_factoid,0.5465,0.007,False
+15966,jv-ID,email,email_query,kirim surel sing paling penting,social_post,0.9926,0.0001,False
+15968,jv-ID,email,email_query,nek seko tempat sing kenal tandhai dadi penting,qa_factoid,0.9359,0.0001,False
+15970,jv-ID,email,email_query,opo subyek pungkasan ibu,qa_factoid,0.6987,0.0023,False
+15971,jv-ID,email,email_query,opo email terakhir seko kerjoan,email_sendemail,1.0,0.0,False
+15994,jv-ID,email,email_sendemail,kirim surel nang joni tekon kapan rapat diwiwiti,social_post,0.4425,0.0023,False
+15995,jv-ID,email,email_sendemail,email karen kanggo rapat rego,email_sendemail,1.0,1.0,True
+15998,jv-ID,email,email_query,cek emails ku kadi sing jenenge,email_sendemail,1.0,0.0,False
+16002,jv-ID,email,email_query,cek mbok menowo ana email anyar,email_sendemail,0.9999,0.0001,False
+16005,jv-ID,email,email_sendemail,ngirim email kanggo joko at gmail dot com,email_sendemail,1.0,1.0,True
+16010,jv-ID,email,email_query,kandani aku nek ana pesen anyar nang kothak mlebu aku,iot_hue_lightoff,0.3011,0.0189,False
+16024,jv-ID,email,email_sendemail,kirim surel nang roma omong nek aku sibuk sesuk,social_post,0.914,0.0023,False
+16028,jv-ID,email,email_sendemail,hey siri kirim email kanggo konco gawe,email_sendemail,1.0,1.0,True
+16029,jv-ID,email,email_sendemail,tulung gawe email anyar kanggo kanca kerja,email_sendemail,1.0,1.0,True
+16032,jv-ID,email,email_sendemail,tulung kirim email ing saleh babagan rapat sesuk,email_sendemail,1.0,1.0,True
+16038,jv-ID,email,email_query,heh opo joko ngirim aku sembarang email akhir akhir iki,email_sendemail,1.0,0.0,False
+16045,jv-ID,email,email_sendemail,kirim surel nang ismail kanggo jadwal pembukaan kantor,email_sendemail,1.0,1.0,True
+16048,jv-ID,email,email_query,delok surel aku mburi dewe,qa_factoid,0.9063,0.0002,False
+16049,jv-ID,email,email_sendemail,aku pengen ngirim surel nang kaluwarga aku opo kowe iso bantu,qa_factoid,0.9875,0.0001,False
+16050,jv-ID,email,email_query,cek gmail,email_sendemail,0.9991,0.0009,False
+16052,jv-ID,email,email_query,meriksa outlook,iot_hue_lightoff,0.8781,0.0065,False
+16056,jv-ID,email,email_sendemail,bales nang surel,qa_factoid,0.9989,0.0,False
+16061,jv-ID,email,email_query,apa aku entuk email anyar saka sepuluh menit terakhir,email_sendemail,1.0,0.0,False
+16072,jv-ID,email,email_sendemail,email bos ku nek aku telat dino iki kanggo rapat,email_sendemail,1.0,1.0,True
+16075,jv-ID,email,email_query,tudokne email terakhir kadi joni,email_sendemail,1.0,0.0,False
+16082,jv-ID,email,email_sendemail,kirim surel nang putra tekon kabare lan opo sing iso tak rewangi,social_post,0.1309,0.0438,False
+16089,jv-ID,email,email_query,opo aku wis nerimo surel anyar sepuluh menit iki,iot_hue_lightoff,0.9649,0.0006,False
+16096,jv-ID,email,email_query,opo ani ana ngirim aku surel anyar,email_sendemail,0.5371,0.0315,False
+16098,jv-ID,email,email_query,prikso surel sing durung diwaca seko ami,qa_factoid,0.9825,0.0,False
+16100,jv-ID,email,email_query,tolong cek email sing isine daftar kerja,email_sendemail,0.9607,0.0393,False
+16103,jv-ID,email,email_sendemail,kirim surel nang kakang aku lan omong slamet ulang taun perkawinan,social_post,0.9655,0.0016,False
+16120,jv-ID,email,email_sendemail,bantuan kudu dikirim nang joni wae,qa_factoid,0.9987,0.0001,False
+16131,jv-ID,email,email_sendemail,surel anyar iki tambahna nang kontakku,qa_factoid,0.8432,0.0,False
+16145,jv-ID,email,email_query,duduhno aku surel paling anyar,qa_factoid,0.9951,0.0,False
+16146,jv-ID,news,news_query,kekno aku berita anyar,news_query,0.9981,0.9981,True
+16148,jv-ID,email,email_sendemail,bales cepet nang jeki tulung kirim surel,qa_factoid,0.996,0.0002,False
+16151,jv-ID,email,email_query,prikso jadwal rapat nang surel dino iki,qa_factoid,0.3773,0.0039,False
+16162,jv-ID,email,email_sendemail,kirim balesan,qa_factoid,0.9582,0.0001,False
+16163,jv-ID,email,email_query,sing ngirim aku wingi,qa_factoid,0.991,0.0002,False
+16165,jv-ID,email,email_query,apa dinda nanggapi,social_post,0.9974,0.0001,False
+16166,jv-ID,email,email_sendemail,apa sampeyan bisa mangsuli yono yen aku bakal sibuk karo proyek sajrone telung minggu ngarep,recommendation_events,0.4801,0.0026,False
+16168,jv-ID,email,email_query,opo ana surel sing mlebu ing limolas menitan,social_post,0.9938,0.0002,False
+16170,jv-ID,email,email_query,prikso kothak mlebu terus prikso surel sing durung diwaca,qa_factoid,0.9998,0.0,False
+16178,jv-ID,email,email_query,ono mail saka tokopedia dino iki,email_sendemail,1.0,0.0,False
+16183,jv-ID,email,email_query,prikso surel bab gawean aku,social_post,0.9437,0.0001,False
+16201,jv-ID,email,email_sendemail,tulung muat surel anyar seko burhan lan kirim pesen saiki,social_post,0.5706,0.0122,False
+16221,jv-ID,email,email_sendemail,tarik surel kiki lan tulis nek aku bakal ngandani deweke,cooking_recipe,0.9925,0.0002,False
+16245,jv-ID,email,email_sendemail,kirim surel nang joe at a. o. l. dot com,social_post,0.9933,0.0006,False
+16248,jv-ID,email,email_query,prikso surel aku,social_post,0.9047,0.0002,False
+16263,jv-ID,email,email_query,apa aku nampa email anyar saka robi,email_sendemail,1.0,0.0,False
+16266,jv-ID,email,email_sendemail,nulis email kanggo kulawarga ku matur aku tresna sampeyan kabeh,email_sendemail,1.0,1.0,True
+16271,jv-ID,email,email_query,buka maneh kotak masuk ku lan ngomong babagan emails anyar,email_sendemail,1.0,0.0,False
+16275,jv-ID,email,email_query,miwiti polling kanggo email anyar,email_sendemail,0.5411,0.4568,False
+16276,jv-ID,email,email_query,apa aku duwe email anyar,email_sendemail,1.0,0.0,False
+16280,jv-ID,email,email_sendemail,kirim email kanggo cassy sing ana ing dhaftar kaluwarga lan konco,email_sendemail,1.0,1.0,True
+16282,jv-ID,email,email_sendemail,kirim surel nang suyuti asisten aku batalna kabeh janji temu kanggo sesuk,social_post,0.8294,0.0072,False
+16296,jv-ID,email,email_sendemail,kirim email kanggo ibu ngandhani yen pesta ulang taun agus kuwi ing dino minggu,email_sendemail,1.0,1.0,True
+16297,jv-ID,email,email_sendemail,kirimono email nggo joko isine matur nuwun,email_sendemail,1.0,1.0,True
+16314,jv-ID,email,email_sendemail,kirim email kanggo maria,email_sendemail,1.0,1.0,True
+16317,jv-ID,email,email_query,opo aku entuk email anyar seko sarah,email_sendemail,1.0,0.0,False
+16318,jv-ID,email,email_sendemail,tanggepi surel,qa_factoid,0.989,0.0005,False
+16320,jv-ID,email,email_sendemail,aku arep bales email bobi,email_sendemail,1.0,1.0,True
+16353,jv-ID,email,email_query,mriksa email saka sofi,email_sendemail,1.0,0.0,False
+16354,jv-ID,email,email_query,mriksa email saka juragan ku,email_sendemail,1.0,0.0,False
+16356,jv-ID,email,email_query,opo aku ngirim surel nang tomi bab kontrol tembakan,qa_factoid,0.8936,0.0029,False
+16357,jv-ID,email,email_query,opo tomi wis surel aku bab amunisi,iot_hue_lightoff,0.4942,0.0049,False
+16361,jv-ID,email,email_query,opo aku duwe sembarang email email anyar soko sakjam pungkasan,email_sendemail,1.0,0.0,False
+16373,jv-ID,email,email_query,opo aku nrimo surel seko nomer pelacakan,qa_factoid,0.2646,0.0231,False
+16375,jv-ID,email,email_sendemail,ngumpulake email kanggo budi,email_sendemail,1.0,1.0,True
+16376,jv-ID,email,email_sendemail,alek kirim surel nang ibu,email_sendemail,1.0,1.0,True
+16377,jv-ID,email,email_sendemail,kirim ibu email saiki,email_sendemail,1.0,1.0,True
+16384,jv-ID,email,email_query,hey aku duwe sembarang emails anyar,email_sendemail,1.0,0.0,False
+16385,jv-ID,email,email_query,waca surel anyar,qa_factoid,0.9867,0.0001,False
+16398,jv-ID,email,email_sendemail,kirim email maring jono,email_sendemail,1.0,1.0,True
+16399,jv-ID,email,email_query,apa aku entuk sembarang email anyar,email_sendemail,0.9998,0.0002,False
+16401,jv-ID,email,email_sendemail,kirim wa lan surel nang dona hei lagi opo dino iki,social_post,0.7989,0.0003,False
+16402,jv-ID,email,email_sendemail,email donna rencana kanggo dino iki,email_sendemail,1.0,1.0,True
+16406,jv-ID,email,email_sendemail,ani wiwiti surel,social_post,0.9889,0.0004,False
+16410,jv-ID,email,email_sendemail,tulis surel,qa_factoid,0.9969,0.0001,False
+16413,jv-ID,email,email_query,nuduhake kabeh email sing dikirim menyang kula saka bosku,email_sendemail,1.0,0.0,False
+16419,jv-ID,email,email_sendemail,tulung email paman jono kanthi ing ngisor iki ya aku bisa nggawe,email_sendemail,1.0,1.0,True
+16427,jv-ID,email,email_query,pira email anyar sing aku tampa dina iki,email_sendemail,1.0,0.0,False
+16430,jv-ID,email,email_sendemail,kirim surel nang ibu karo bapak tekonna kabare,social_post,0.9545,0.0019,False
+16437,jv-ID,email,email_sendemail,kirimna surel iki nang konco aku,social_post,0.9335,0.0009,False
+16438,jv-ID,email,email_sendemail,aku butuh ngirim email iki saiki,email_sendemail,1.0,1.0,True
+16446,jv-ID,email,email_query,priksa surel anyar seko pengirim iki,qa_factoid,0.9981,0.0001,False
+16459,jv-ID,email,email_sendemail,pesen anyar nang newmail at gmail dot com,email_sendemail,1.0,1.0,True
+16461,jv-ID,email,email_query,apa aku duwe sembarang email sing durung diwaca,email_sendemail,1.0,0.0,False
+16467,jv-ID,email,email_query,opo aku ana surel anyar seko kontak ku q.,social_post,0.9979,0.0001,False
+16471,jv-ID,email,email_query,mriksa emails saka john,email_sendemail,1.0,0.0,False
+16496,jv-ID,email,email_sendemail,balesna email,email_sendemail,1.0,1.0,True
+16501,jv-ID,email,email_sendemail,tulung kirim email menyang kanca ku diyah piye kabare,email_sendemail,1.0,1.0,True
+16506,jv-ID,email,email_sendemail,tambahna alamat surel anyar seklian kirim surel,email_sendemail,0.8976,0.8976,True
+16518,jv-ID,email,email_sendemail,tambahna surel anyar juli susanti,qa_factoid,0.9811,0.0006,False
+16519,jv-ID,email,email_sendemail,aku kudu nambahke surel anyar nang kontak aku,email_sendemail,0.9999,0.9999,True
+16535,jv-ID,email,email_sendemail,sampeyan bisa nulis email menyang chelsea,email_sendemail,1.0,1.0,True
+16559,jv-ID,email,email_sendemail,ngirim wangsulan kanggo malik karo balesan patang atus telung puluh email sing dikirim esuk iki,email_sendemail,1.0,1.0,True
+16560,jv-ID,email,email_sendemail,nanggapi email bos kanthi tembung yen aku bakal mlebu jam papat sore,email_sendemail,1.0,1.0,True
+16563,jv-ID,email,email_query,oki prikso surel aku,qa_factoid,0.9988,0.0,False
+16591,jv-ID,email,email_sendemail,aku lagi wae etok surel seko bani aku kudu njawab saiki,iot_hue_lightoff,0.5443,0.0021,False
+16593,jv-ID,email,email_sendemail,surel keri dewe kudu cepet dibales,qa_factoid,0.9327,0.0019,False
+16603,jv-ID,email,email_query,apa email sing dikirim telungpuluh menit kepungkur saka ibu,email_sendemail,1.0,0.0,False
+16605,jv-ID,email,email_sendemail,tulis lan kirim surel nang bos aku,email_sendemail,1.0,1.0,True
+16609,jv-ID,email,email_query,kandani aku nek ana surel anyar sing durung diwaca,qa_factoid,0.9971,0.0,False
+16613,jv-ID,email,email_sendemail,kirim surel nang bos omongna aku bakal telat,social_post,0.9965,0.0001,False
+16622,jv-ID,email,email_sendemail,ngirim email menyang kontak iki,email_sendemail,1.0,1.0,True
+16624,jv-ID,email,email_sendemail,aku butuh email sing kudu tak kirim ning telkom bab masalah layanan ku,email_sendemail,1.0,1.0,True
+16627,jv-ID,email,email_query,prikso surel teranyar,qa_factoid,0.9561,0.0007,False
+16630,jv-ID,email,email_sendemail,kirim balesan surel keri dewe,qa_factoid,0.7869,0.0085,False
+16642,jv-ID,email,email_query,prikso surel opo wae seko seli,social_post,0.7232,0.0006,False
+16648,jv-ID,email,email_query,prikso surel aku kanggo aku,social_post,0.9295,0.0004,False
+16652,jv-ID,email,email_query,opo surel beni ana lampirane,social_post,0.998,0.0001,False
+16662,jv-ID,email,email_query,apa aku entuk sembarang emails anyar kadi dani,email_sendemail,1.0,0.0,False
+16666,jv-ID,email,email_query,apa aku duwe sembarang surel sing anyar,social_post,0.5563,0.016,False
+16668,jv-ID,email,email_query,opo ana surel sing teko seko patang ngatus dina iki,social_post,0.3138,0.0202,False
+16669,jv-ID,email,email_query,d aku d i njaluk email saka puan,email_sendemail,1.0,0.0,False
+16672,jv-ID,email,email_query,beni wis hubungi,qa_factoid,0.9816,0.0004,False
+16677,jv-ID,email,email_query,opo aku ana surel anyar nang kothak mlebu aku dino iki,datetime_query,0.594,0.0045,False
+16698,jv-ID,email,email_sendemail,tulis balesan nang surel ibu aku,qa_factoid,0.7089,0.2507,False
+16701,jv-ID,email,email_sendemail,aku pengen bales surel sarah,qa_factoid,0.9967,0.0001,False
+16703,jv-ID,email,email_sendemail,aku kepingin ngebales email paling anyar,email_sendemail,1.0,1.0,True
+16712,jv-ID,email,email_query,apa aku nduwe sembarang email anyar,email_sendemail,1.0,0.0,False
+16713,jv-ID,email,email_query,prikso surel aku kandani nek ana surel anyar mlebu,weather_query,0.5103,0.0023,False
+16717,jv-ID,email,email_sendemail,surel si jono omong aku arep lungo,email_query,0.6861,0.0434,False
+16719,jv-ID,email,email_query,kandani nek ana surel anyar sing tak trimo,play_music,1.0,0.0,False
+16729,jv-ID,email,email_sendemail,bales surel aku seko bobi jarne do ngerti aku bakal ketemu sesuk,qa_factoid,0.9994,0.0,False
+16730,jv-ID,email,email_query,tolong cek email anyar kadi yanto,email_sendemail,0.9876,0.0103,False
+16733,jv-ID,email,email_query,tampilna aku surel teranyar seko tokopedia,qa_factoid,0.9936,0.0002,False
+16749,jv-ID,email,email_query,apa ana sembarang emails anyar klanggo aku dino iki,email_sendemail,1.0,0.0,False
+16754,jv-ID,email,email_sendemail,dekte surel,qa_factoid,0.9995,0.0,False
+16758,jv-ID,email,email_query,ana email anyar wiwit pungkasan wektu,email_sendemail,1.0,0.0,False
+16763,jv-ID,email,email_query,email email ing sedoso menit pungkasan,email_sendemail,1.0,0.0,False
+16765,jv-ID,email,email_query,jam piro wawancara seko surel wingi,social_post,0.9897,0.0,False
+16766,jv-ID,email,email_query,priksa email anyar,email_sendemail,1.0,0.0,False
+16772,jv-ID,email,email_query,nuduhake kabeh email babagan pelanggaran,email_sendemail,1.0,0.0,False
+16780,jv-ID,email,email_sendemail,kirim surel nang juanpedro at gmail dot com,email_sendemail,1.0,1.0,True
+16791,jv-ID,email,email_sendemail,gawe email baru tur aku etok alamat surel anyar nang brandon at example dot com,email_sendemail,1.0,1.0,True
+16799,jv-ID,email,email_query,opo aku ana surel ket awan,qa_factoid,0.3836,0.0021,False
+16801,jv-ID,email,email_query,pratiwi wes ngirim email babagan toni durung,email_sendemail,1.0,0.0,False
+16813,jv-ID,email,email_query,bip pas aku etok surel seko jono,qa_factoid,0.7557,0.003,False
+16814,jv-ID,email,email_query,priksa kabeh email,email_sendemail,1.0,0.0,False
+16838,jv-ID,email,email_sendemail,kirim surel nang id surel sik anyar,social_post,0.9994,0.0,False
+16851,jv-ID,email,email_query,notifikasi email,email_sendemail,1.0,0.0,False
+16859,jv-ID,email,email_query,aku ngandani susan opo ning email ku sing keri dewe,email_sendemail,1.0,0.0,False
+16872,jv-ID,email,email_sendemail,golekna ningsih nang kontak aku lan kirim deweke surel,email_sendemail,0.9977,0.9977,True
+16873,jv-ID,email,email_sendemail,email nasri kanggo ulang taun e,email_sendemail,1.0,1.0,True
+16880,jv-ID,email,email_sendemail,surel budi babagan rapat,social_post,0.9985,0.0,False
+16883,jv-ID,email,email_sendemail,kirim surel nang jaka tekonke deweke mulih jam piro bengi iki,social_post,0.8951,0.0044,False
+16886,jv-ID,email,email_sendemail,bales surel iki,qa_factoid,0.9993,0.0,False
+16888,jv-ID,email,email_query,piye surel anyar e,qa_factoid,0.6254,0.0066,False
+16890,jv-ID,email,email_query,apa email anyar isine,email_sendemail,1.0,0.0,False
+16891,jv-ID,email,email_sendemail,kirim surel nang jono rembo,social_post,0.9996,0.0,False
+16892,jv-ID,email,email_sendemail,wiwiti surel nang ahmad tohari,social_post,0.9998,0.0,False
+16899,jv-ID,email,email_query,apa aku nerima sembarang emails kadi budi darmawan,email_sendemail,1.0,0.0,False
+16914,jv-ID,email,email_query,opo aku etok surel seko pengirim iki,qa_factoid,0.336,0.0328,False
+16916,jv-ID,email,email_sendemail,he bales layang sing tak tompo,play_music,0.9994,0.0,False
+16924,jv-ID,email,email_query,priksa gmail aku kanggo surel anyar,email_sendemail,1.0,0.0,False
+16930,jv-ID,email,email_query,delokna surel paling anyar,qa_factoid,0.999,0.0,False
+16938,jv-ID,email,email_sendemail,bales surel nang joni,qa_factoid,0.9993,0.0,False
+16944,jv-ID,email,email_sendemail,kirim surel nang mbah wedok omongna awak dewe mampir dina setu sampe ketemu meneh,social_post,0.9982,0.0001,False
+16947,jv-ID,email,email_sendemail,bales surel,qa_factoid,0.53,0.0008,False
+16955,jv-ID,email,email_sendemail,email maring kontak anyar,email_sendemail,1.0,1.0,True
+16956,jv-ID,email,email_sendemail,kirim surel nang kontak anyar,qa_factoid,0.7924,0.0002,False
+16961,jv-ID,email,email_sendemail,kirimno surele,social_post,0.9971,0.0001,False
+16974,jv-ID,email,email_query,prikso kabeh surel penghasilan divisi pajak,qa_factoid,0.5283,0.0028,False
+16987,jv-ID,email,email_query,ana surel anyar seko joni,qa_factoid,1.0,0.0,False
+16989,jv-ID,email,email_sendemail,kirimna email kanggo galih aku butuh duit cepet saiki,email_sendemail,1.0,1.0,True
+16992,jv-ID,email,email_query,apa slamet rahardja uwis kirim surel ming aku,qa_factoid,1.0,0.0,False
+16995,jv-ID,email,email_sendemail,kirimno email nang jessica,email_sendemail,1.0,1.0,True
+17005,jv-ID,email,email_query,priksa surel anyar,qa_factoid,1.0,0.0,False
+17011,jv-ID,email,email_sendemail,iso kirimke email menyang,email_sendemail,1.0,1.0,True
+17015,jv-ID,email,email_sendemail,wiwit bales,qa_factoid,0.9741,0.0006,False
+17019,jv-ID,email,email_sendemail,tulis balesan surel mburi dewe,social_post,0.749,0.0005,False
+17020,jv-ID,email,email_sendemail,bales surel sing mburi dewe ditrimo,play_music,0.7685,0.0089,False
+17023,jv-ID,email,email_sendemail,kirim surel ming ibuk karo takon cuaca nang kono,social_post,0.9487,0.0014,False
+17042,jv-ID,email,email_sendemail,tulis email kanggo joko at gmail dot com,email_sendemail,1.0,1.0,True
+17043,jv-ID,email,email_sendemail,kirim surel nang tim at hotmail dot com,email_sendemail,1.0,1.0,True
+17051,jv-ID,email,email_query,etokna aku surel anyar,iot_hue_lightoff,0.9761,0.0001,False
+17052,jv-ID,email,email_query,golek nindi,social_post,0.9995,0.0,False
+17069,jv-ID,email,email_query,ana surel anyar nang outlook,qa_factoid,0.5509,0.001,False
+17075,jv-ID,email,email_query,apa ana email anyar sing ditampa sawise jam papat dina iki,email_sendemail,1.0,0.0,False
+17081,jv-ID,email,email_sendemail,gawe surel nang pegawe pabrik nganggo dokumen teranyar,qa_factoid,0.9969,0.0001,False
+17087,jv-ID,email,email_query,prikso surel anyar sing ditrimo seko sara,social_post,0.3887,0.0188,False
+17098,jv-ID,email,email_query,delokke aku ana surel sing ditrimo sejam iki,qa_factoid,0.9309,0.0024,False
+17107,jv-ID,email,email_query,prikso surel surel anyar,social_post,0.5237,0.0027,False
+17108,jv-ID,email,email_query,kasih ku email terakhir,email_sendemail,1.0,0.0,False
+17113,jv-ID,email,email_sendemail,gawe surel nang yuli,weather_query,0.4741,0.0033,False
+17115,jv-ID,email,email_query,waca daftar email email anyar,email_sendemail,0.9773,0.0227,False
+17116,jv-ID,email,email_query,tampilna dhaptar surel teranyar,qa_factoid,0.9984,0.0001,False
+17119,jv-ID,email,email_query,cek sembarang pesen soko tokobagus,email_sendemail,0.6297,0.0074,False
+17123,jv-ID,email,email_sendemail,wangun email kanggo regional v. p.,email_sendemail,1.0,1.0,True
+17135,jv-ID,email,email_query,ana surel warta penerangan,qa_factoid,0.996,0.0001,False
+17136,jv-ID,email,email_query,wacana pesenku sing anyar,play_music,0.6275,0.0066,False
+17138,jv-ID,email,email_query,mangga arsip pesen ku sing wis di maca,email_sendemail,0.5575,0.0031,False
+17142,jv-ID,email,email_query,apa sing nang njero kotak masuk ku sejak terakhir tak longok,play_music,0.7023,0.0009,False
+17143,jv-ID,email,email_sendemail,kirim surel nang jono,social_post,0.9999,0.0,False
+17144,jv-ID,email,email_query,delokna surel,qa_factoid,1.0,0.0,False
+17147,jv-ID,email,email_sendemail,bales surel nganggo isi konten halo kowe,social_post,0.9801,0.0002,False
+17148,jv-ID,email,email_sendemail,kiki bales surel nganggo judul ngene piye kabarmu,qa_factoid,0.9907,0.0,False
+17151,jv-ID,email,email_sendemail,konco ku joni wis ngirim kertu undhangan menyang omah sing mentas tuku matur nuwun marang dheweke ing id mail,email_sendemail,1.0,1.0,True
+17156,jv-ID,email,email_query,priksa emailku kanggo email anyar saka joko,email_sendemail,1.0,0.0,False
+17157,jv-ID,email,email_query,apa aku duwe sembarang email anyar kadi joni,email_sendemail,1.0,0.0,False
+17170,jv-ID,email,email_query,elingke aku nek joni emails aku,email_sendemail,1.0,0.0,False
+17179,jv-ID,email,email_query,jono wis ngirim aku surel,qa_factoid,1.0,0.0,False

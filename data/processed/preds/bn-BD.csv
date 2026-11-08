@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,bn-BD,iot,iot_hue_lightoff,বেডরুমের আলো নিভিয়ে দাও,iot_hue_lightoff,0.9542,0.9542,True
+47,bn-BD,datetime,datetime_query,বাংলাদেশে সময় কি,datetime_query,0.954,0.954,True
+85,bn-BD,datetime,datetime_query,আমাকে আজকের তারিখ বলুন,datetime_query,0.9986,0.9986,True
+86,bn-BD,datetime,datetime_query,আজকে কত তারিখ,qa_factoid,0.9109,0.0874,False
+100,bn-BD,weather,weather_query,সপ্তাহের আবহাওয়া সংক্রান্ত পূর্বাভাস কি,weather_query,0.9627,0.9627,True
+102,bn-BD,weather,weather_query,এই সপ্তাহের আবহাওয়া কেমন,weather_query,0.9978,0.9978,True
+103,bn-BD,weather,weather_query,এই সপ্তাহের আবহাওয়া সম্পর্কে বলুন,weather_query,0.9287,0.9287,True
+128,bn-BD,datetime,datetime_query,কত তারিখ,datetime_query,0.9264,0.9264,True
+151,bn-BD,play,play_music,এটা আবার বাজান,play_music,0.6697,0.6697,True
+177,bn-BD,news,news_query,আমাকে কিছু ব্যবসার খবর বলুন,news_query,0.9982,0.9982,True
+178,bn-BD,news,news_query,আমাকে আন্তর্জাতিক খবর বলুন,qa_factoid,0.8552,0.0875,False
+182,bn-BD,play,play_music,আমার রক প্লেলিস্টটি বাজাও,qa_factoid,0.2392,0.0107,False
+185,bn-BD,play,play_music,আমার প্লেলিস্ট চালু করুন এবং সারিতে তৃতীয় গান চালান,play_music,0.706,0.706,True
+197,bn-BD,datetime,datetime_query,ক 'টা বাজে,qa_factoid,0.9999,0.0,False
+216,bn-BD,weather,weather_query,আজকের আবহাওয়া কেমন,weather_query,0.9985,0.9985,True
+219,bn-BD,weather,weather_query,আমাকে কি আগামীকাল একটি ছাতা আনতে হবে,email_query,0.2972,0.0103,False
+220,bn-BD,play,play_music,আমার রক লিস্ট থেকে গান বাজাও,play_music,0.9976,0.9976,True
+250,bn-BD,play,play_music,আমি এখন jazz মত অনুভব করছি আপনি কেমন আছেন,play_music,0.9957,0.9957,True
+254,bn-BD,play,play_music,অলি আমার প্রিয় jazz শিল্পী এর একটি ভাল track বাজান,email_sendemail,0.7647,0.2213,False
+279,bn-BD,weather,weather_query,আজকে ঢাকার পূর্বাভাস কি,weather_query,0.9985,0.9985,True
+281,bn-BD,news,news_query,ডলার থেকে পাউন্ড স্টার্লিং এর বিনিময় হার কত,qa_factoid,0.9572,0.0006,False
+296,bn-BD,play,play_music,আসিফের প্লেলিস্ট চালাও,social_post,0.2906,0.0157,False
+297,bn-BD,play,play_music,কোল্ডপ্লের গানগুলো শাফেল কর,play_music,0.9997,0.9997,True
+299,bn-BD,weather,weather_query,আবহাওয়া কি,weather_query,0.8011,0.8011,True
+310,bn-BD,datetime,datetime_query,এই বছর নববর্ষ কোন দিন,weather_query,0.7997,0.1291,False
+319,bn-BD,weather,weather_query,এখন থেকে দুই দিনের মধ্যে নাগপুর আবহাওয়া আমাকে বলুন,email_sendemail,0.6762,0.2697,False
+329,bn-BD,play,play_music,পিয়াসি মন,social_post,0.4767,0.0053,False
+333,bn-BD,weather,weather_query,সিলেটের আবহাওয়ার পরিস্থিতি কেমন,weather_query,0.999,0.999,True
+334,bn-BD,weather,weather_query,আমি বনানী আবহাওয়া জানতে চাই,weather_query,0.994,0.994,True
+344,bn-BD,weather,weather_query,আগামীকাল কি বৃষ্টিবহুল হবে,weather_query,0.9874,0.9874,True
+348,bn-BD,weather,weather_query,আগামীকাল কি বৃষ্টি হবে,weather_query,0.9994,0.9994,True
+355,bn-BD,datetime,datetime_query,সপ্তাহের কোন দিন প্রথম এপ্রিল,datetime_query,0.8514,0.8514,True
+360,bn-BD,datetime,datetime_query,এখন কয়টা বাজে,qa_factoid,0.9411,0.0237,False
+362,bn-BD,play,play_music,জেমস গানের দ্বিতীয় গানটি চালাও,play_music,1.0,1.0,True
+366,bn-BD,news,news_query,আমাকে সর্বশেষ খবর বলুন,news_query,0.9536,0.9536,True
+369,bn-BD,iot,iot_hue_lightoff,বাতিটি নিভাও,qa_factoid,0.9996,0.0001,False
+385,bn-BD,news,news_query,প্রথম আলো এর চাঞ্চল্যকর খবর কি,news_query,0.6593,0.6593,True
+391,bn-BD,play,play_music,আমার প্লেলিস্ট থেকে যেকোন একটা গান বাজাও,play_music,0.9997,0.9997,True
+393,bn-BD,play,play_music,আমার প্লেলিস্টের একটা রেট্রো গান শোনাও,play_music,1.0,1.0,True
+397,bn-BD,play,play_music,তাহসানের যে কোন গান বাজাও,play_music,0.9919,0.9919,True
+400,bn-BD,play,play_music,খেলা শুরু করুন,play_music,0.97,0.97,True
+407,bn-BD,play,play_music,আপনি কি পরের ঘন্টার জন্য ফোক সঙ্গীত বাজাতে পারেন,play_music,0.9867,0.9867,True
+424,bn-BD,news,news_query,শীর্ষ নিউজ কি,social_post,0.6637,0.3209,False
+427,bn-BD,iot,iot_hue_lightoff,বসার ঘরের আলো বন্ধ করুন,calendar_remove,0.7284,0.1686,False
+428,bn-BD,iot,iot_hue_lightoff,বেডরুমের আলো বন্ধ করুন,iot_hue_lightoff,0.4467,0.4467,True
+430,bn-BD,weather,weather_query,এই মুহূর্তে আবহাওয়া কেমন,weather_query,0.9983,0.9983,True
+437,bn-BD,play,play_music,মাইলস এর ফোল্ডার খুলুন,email_query,0.7939,0.0049,False
+441,bn-BD,news,news_query,সর্বশেষ খবর শিরোনাম কি,news_query,0.9851,0.9851,True
+442,bn-BD,news,news_query,খবরে কি হচ্ছে,qa_factoid,0.9925,0.0024,False
+451,bn-BD,news,news_query,কোস্টক এর জন্য আমাকে সর্বশেষ স্টক মূল্য দেন,email_sendemail,0.9532,0.0007,False
+473,bn-BD,play,play_music,সপ্তাহান্তে খেলা,cooking_recipe,0.9956,0.0003,False
+486,bn-BD,datetime,datetime_query,ঢাকা শহরে কটা বাজে,weather_query,0.925,0.0011,False
+491,bn-BD,weather,weather_query,বাইরে কি খুব ঠান্ডা,weather_query,0.9967,0.9967,True
+506,bn-BD,play,play_music,নেমেসিসের গানগুলো চালাও,play_music,1.0,1.0,True
+512,bn-BD,weather,weather_query,মার্কস পেতে,qa_factoid,0.4967,0.0061,False
+540,bn-BD,play,play_music,আসিফ গাওয়া গানটি চালাও,play_music,1.0,1.0,True
+555,bn-BD,play,play_music,নগর বাউলের হই হই কান্ড বাজাও,play_radio,0.1501,0.0516,False
+576,bn-BD,play,play_music,প্লেলিস্ট দ্বারা সব খেলা,social_post,0.81,0.0122,False
+585,bn-BD,news,news_query,সর্বশেষ খবর দেখান,news_query,0.9452,0.9452,True
+588,bn-BD,news,news_query,আজকের জন্য নতুন খবর কি,news_query,0.9955,0.9955,True
+590,bn-BD,weather,weather_query,বর্তমান আবহাওয়া কি,weather_query,0.9967,0.9967,True
+614,bn-BD,play,play_music,প্লেলিস্ট শুরু করুন,cooking_recipe,0.9901,0.0011,False
+625,bn-BD,play,play_music,অনুগ্রহ করে রেডিও মিলা গানটি চালাও,play_music,0.9999,0.9999,True
+631,bn-BD,news,news_query,ডাকোটা পাইপলাইন সম্পর্কে খবরের জন্য বিজ্ঞপ্তি সেট করুন,qa_factoid,0.7218,0.0057,False
+651,bn-BD,iot,iot_hue_lightoff,রুমের আলো বন্ধ করুন,iot_hue_lightoff,0.4406,0.4406,True
+660,bn-BD,datetime,datetime_query,বাংলাদেশে বর্তমান সময়,weather_query,0.2424,0.0648,False
+680,bn-BD,news,news_query,বিটকয়েনের দামের খবর সম্পর্কে আমাকে অবহিত রাখুন,news_query,0.8219,0.8219,True
+686,bn-BD,datetime,datetime_query,ঢাকায় এখন কয়টা বাজে,weather_query,0.9193,0.0053,False
+712,bn-BD,news,news_query,আমি বিবিসি থেকে শেষ খবর শুনতে চাই,news_query,0.9972,0.9972,True
+726,bn-BD,weather,weather_query,সপ্তাহের আবহাওয়ার বিবরণ সংক্ষিপ্ত করুন,calendar_remove,0.6743,0.0018,False
+730,bn-BD,iot,iot_hue_lightoff,বাতিগুলো বন্ধ করুন,lists_remove,0.7838,0.0162,False
+738,bn-BD,weather,weather_query,আজকে বাইরে কতটা ঠাণ্ডা,weather_query,0.9988,0.9988,True
+764,bn-BD,weather,weather_query,এই সপ্তাহের আবহাওয়া সংক্রান্ত পূর্বাভাস কি,weather_query,0.9773,0.9773,True
+765,bn-BD,news,news_query,আপনি কি আমাকে আমার নতুন প্রদানকারীর কাছ থেকে আপ টু ডেট চ্যানেল আই দিতে পারেন,email_sendemail,0.5548,0.0057,False
+767,bn-BD,news,news_query,আপনি কি অনুগ্রহ করে আমাকে এমন একটি উত্স থেকে সর্বশেষ খবর পেতে পারেন যেখানে আমি সাধারণত যাই না,recommendation_events,0.9982,0.0,False
+768,bn-BD,news,news_query,সর্বশেষ রাজনৈতিক খবর সম্পর্কে আমাকে বলুন,news_query,0.981,0.981,True
+779,bn-BD,play,play_music,আমি তাহসান দিয়ে আলো আলো শুনতে চাই,social_post,0.658,0.2576,False
+781,bn-BD,play,play_music,মায়া বাজাও,cooking_recipe,0.5929,0.0191,False
+782,bn-BD,play,play_music,অঞ্জন দত্তের বেলা বোস তুমি পারছ কি শুনতে চালাও,play_music,0.9404,0.9404,True
+783,bn-BD,play,play_music,প্রেমের গান বাজান,play_music,1.0,1.0,True
+790,bn-BD,weather,weather_query,আবহাওয়া মৃদু নাকি ঘন,weather_query,0.1684,0.1684,True
+826,bn-BD,weather,weather_query,বাইরের বর্তমান তাপমাত্রা কত,weather_query,0.9834,0.9834,True
+827,bn-BD,play,play_music,অর্ণবের প্লেলিস্ট বাজাও,cooking_recipe,0.1726,0.0376,False
+832,bn-BD,weather,weather_query,আগামীকালের আবহাওয়ার পূর্বাভাস কি হবে,weather_query,0.9265,0.9265,True
+837,bn-BD,news,news_query,চ্যানেল আই আসন্ন বাংলাদেশ নির্বাচনের জন্য জরিপ ভবিষ্যদ্বাণী,social_post,0.0824,0.0518,False
+891,bn-BD,play,play_music,কিছু খ্রিস্টান গান বাজান,play_music,0.9951,0.9951,True
+914,bn-BD,iot,iot_hue_lightoff,দয়া করে আলো বন্ধ করুন,calendar_remove,0.4656,0.4314,False
+936,bn-BD,play,play_music,আমার জগিং প্লেলিস্টটি ওপেন কর এবং গান বাজাও,cooking_recipe,0.8311,0.0276,False
+951,bn-BD,weather,weather_query,ঢাকায় এই মুহূর্তে আবহাওয়া কেমন,weather_query,0.9986,0.9986,True
+969,bn-BD,news,news_query,একটি নির্দিষ্ট বিষয়ে সংবাদ নিবন্ধ,email_query,0.9939,0.0003,False
+974,bn-BD,datetime,datetime_query,ঢাকায় এখন কয়টা বাজে,qa_factoid,0.9714,0.0106,False
+997,bn-BD,iot,iot_hue_lightoff,বসার ঘরের আলো নিভিয়ে দাও,iot_hue_lightoff,0.615,0.615,True
+999,bn-BD,iot,iot_hue_lightoff,আপনি আলো বন্ধ করুন,calendar_remove,0.5164,0.361,False
+1007,bn-BD,play,play_music,আমার রক প্লেলিস্ট থেকে অর্থহীন বাজান,iot_hue_lightoff,0.4368,0.0082,False
+1014,bn-BD,datetime,datetime_query,ঢাকায় এখন কয়টা বাজে,weather_query,0.9193,0.0053,False
+1047,bn-BD,play,play_music,আমার একটা ভাল কান্না দরকার তুমি কি আমাকে দুঃখের রক গানগুলো বাজাতে পারো,play_music,0.9971,0.9971,True
+1061,bn-BD,news,news_query,খেলাধুলার খবর আমাকে নতুন খবর দিন,news_query,0.7421,0.7421,True
+1063,bn-BD,news,news_query,খেলাধুলার খবর প্রতি ঘণ্টায় বিজ্ঞপ্তি পান,news_query,0.9755,0.9755,True
+1084,bn-BD,news,news_query,ব্যবহারকারী বান্ধব,social_post,0.9996,0.0,False
+1093,bn-BD,news,news_query,প্রথম আলো পোস্ট ওয়েবসাইটে যান,iot_hue_lightoff,0.9231,0.0029,False
+1098,bn-BD,datetime,datetime_query,সপ্তাহের কোন দিনে পনেরো মার্চ পড়ে,weather_query,0.9921,0.0051,False
+1108,bn-BD,play,play_music,আমার ইচ্ছা কিছু লোক সঙ্গীত শোনা,play_podcasts,0.8111,0.186,False
+1115,bn-BD,play,play_music,সকল পপ গান সমূহ সমন্বয় করুন,play_music,0.4725,0.4725,True
+1120,bn-BD,news,news_query,রাজনীতিতে কি বিশেষ কিছু আছে,qa_definition,0.4271,0.0329,False
+1121,bn-BD,play,play_music,তাহসান দ্বারা উদ্দেশ্য নেই খেলুন,social_post,0.9231,0.0011,False
+1123,bn-BD,play,play_music,পরবর্তী নাটক ইমরান মাহমুদুলের বলব তকে আজ,social_post,0.2672,0.025,False
+1124,bn-BD,play,play_music,পড়শীর জয় হবেই হবে পরবর্তীতে বাজানোর জন্য প্রস্তুত করুন,social_post,0.5969,0.0056,False
+1127,bn-BD,play,play_music,অদলবদলে সব গান বাজান,play_music,0.9705,0.9705,True
+1144,bn-BD,play,play_music,আমার কিছু র‍্যাপ দরকার,qa_factoid,0.1604,0.0294,False
+1148,bn-BD,datetime,datetime_query,ঢাকাতে এখন কয়টা বাজে,qa_factoid,0.7529,0.1762,False
+1156,bn-BD,news,news_query,আন্তর্জাতিক নারী দিবসে সর্বশেষ নতুন,social_post,0.5257,0.0169,False
+1160,bn-BD,weather,weather_query,এই সপ্তাহের প্রতি রাতে কত ঠান্ডা পড়বে,weather_query,0.9963,0.9963,True
+1180,bn-BD,news,news_query,হাসিনা সম্পর্কে আজকের প্রথম আলো নিবন্ধগুলি খুঁজুন,lists_query,0.2944,0.0384,False
+1202,bn-BD,datetime,datetime_query,ঢাকার বর্তমান সময় কি,datetime_query,0.9472,0.9472,True
+1238,bn-BD,play,play_music,প্যান্ডোরা,qa_factoid,0.9992,0.0,False
+1249,bn-BD,weather,weather_query,এই সপ্তাহে সম্ভাব্য আবহাওয়া কি হবে,weather_query,0.9327,0.9327,True
+1252,bn-BD,datetime,datetime_query,আমাকে বর্তমান সময় বলুন,qa_factoid,0.9172,0.0245,False
+1294,bn-BD,news,news_query,আমাকে দ্রুত একাডেমি পুরস্কারের খবর দিন,news_query,0.6315,0.6315,True
+1301,bn-BD,news,news_query,আমাকে মোদীর নতুন পররাষ্ট্রনীতি সম্পর্কে বলুন,email_sendemail,0.9817,0.0002,False
+1308,bn-BD,weather,weather_query,আজকের জলবায়ু পূর্বাভাস এখানে পান,cooking_recipe,0.1414,0.0376,False
+1318,bn-BD,play,play_music,মিউজিক অ্যাপ অন করে আমার জন্যে একটা গান শোনাও,play_music,0.9945,0.9945,True
+1351,bn-BD,weather,weather_query,এই সপ্তাহে পরে কি আবহাওয়া সুন্দর হবে,weather_query,0.3067,0.3067,True
+1371,bn-BD,news,news_query,প্রথম আলো প্রথম পাতায় আমাদের কী আছে,social_post,0.4026,0.0347,False
+1377,bn-BD,iot,iot_hue_lightoff,দয়া করে আমার ছেলের ঘরের আলো নিভিয়ে দিন,iot_hue_lightoff,0.9393,0.9393,True
+1400,bn-BD,weather,weather_query,আমি কখনো কখনো মনোযোগ দিই,qa_factoid,0.4246,0.0036,False
+1401,bn-BD,weather,weather_query,আমি মাঝে মাঝে মনোযোগ দিই,play_radio,0.2766,0.0089,False
+1404,bn-BD,weather,weather_query,আমি কি অনুগ্রহ করে কল্যানপুরের আগামীকালের আবহাওয়া জানতে পারি,qa_factoid,0.5344,0.1797,False
+1423,bn-BD,news,news_query,আমাকে শেখ হাসিনা সম্পর্কে বলুন,social_post,0.9202,0.0001,False
+1425,bn-BD,news,news_query,আপনি বাংলাদেশ সম্পর্কে শুনলে আমাকে জানান,email_query,0.5269,0.0018,False
+1440,bn-BD,play,play_music,রেটিং চারের বেশি সহ নতুন সর্বশেষ rock গানগুলি বাজান,play_music,0.8631,0.8631,True
+1449,bn-BD,datetime,datetime_query,দু-হাজার আঠারো সালের ঈদ কবে,datetime_query,0.3586,0.3586,True
+1458,bn-BD,weather,weather_query,বরিশালে কতটা গরম,weather_query,0.9989,0.9989,True
+1467,bn-BD,play,play_music,আরবোভাইরাস বাজাও,qa_factoid,0.2296,0.0397,False
+1474,bn-BD,news,news_query,আজকের খেলাধুলার খবর কি,news_query,0.998,0.998,True
+1489,bn-BD,play,play_music,জেমসের সর্বশেষ গানটি বাজাও,play_music,0.968,0.968,True
+1513,bn-BD,weather,weather_query,বাইরের তাপমাত্রা কত,weather_query,0.7006,0.7006,True
+1533,bn-BD,news,news_query,কি খবর হয়েছে চ্যানেল আই আজ,news_query,0.9975,0.9975,True
+1537,bn-BD,datetime,datetime_query,আমাকে বাংলাদেশের বর্তমান সময় দেখান,weather_query,0.5611,0.0301,False
+1542,bn-BD,weather,weather_query,সূর্য উজ্জ্বল হয়ে উঠেছে এই আবহাওয়াটা কি আমরা সারাদিন পাব,weather_query,0.7508,0.7508,True
+1546,bn-BD,play,play_music,আমার সামার জ্যামস প্লেলিস্টটি বাজাও,cooking_recipe,0.4776,0.0096,False
+1547,bn-BD,weather,weather_query,এই সপ্তাহে আমার অবস্থানের আবহাওয়া কেমন,weather_query,0.9969,0.9969,True
+1549,bn-BD,weather,weather_query,এই সপ্তাহে কি বৃষ্টি হবে,weather_query,0.9991,0.9991,True
+1554,bn-BD,iot,iot_hue_lightoff,বাতি বন্ধ করুন,calendar_remove,0.3991,0.0569,False
+1581,bn-BD,datetime,datetime_query,বর্তমান দিন মাস এবং বছর কি,datetime_query,0.9986,0.9986,True
+1589,bn-BD,weather,weather_query,আগামী মঙ্গলবার কি রৌদ্রময় থাকবে,weather_query,0.9984,0.9984,True
+1593,bn-BD,news,news_query,চ্যানেল আই থেকে বিজ্ঞপ্তি সেট করুন,social_post,0.6967,0.005,False
+1594,bn-BD,news,news_query,আপনি আমাকে সর্বশেষ খবর বলতে পারেন,qa_factoid,0.9694,0.0128,False
+1607,bn-BD,datetime,datetime_query,আমাকে ঢাকা বর্তমান সময় বলুন,email_sendemail,0.3092,0.1065,False
+1617,bn-BD,news,news_query,রাজনীতির নতুন খবর এলেই আমাকে সতর্ক করুন,news_query,0.9961,0.9961,True
+1636,bn-BD,news,news_query,আমাকে চ্যানেল আই এর কাছ থেকে সর্বশেষ খবর দেখাও,news_query,0.9648,0.9648,True
+1653,bn-BD,weather,weather_query,আবার কখন বৃষ্টি হবে,weather_query,0.9966,0.9966,True
+1655,bn-BD,weather,weather_query,আগামীকাল দুপুরবেলা কি তুষারপাত হবে,weather_query,0.9904,0.9904,True
+1666,bn-BD,news,news_query,তাই গত ছয় ঘণ্টার প্রথম আলো খবর কী,news_query,0.9784,0.9784,True
+1671,bn-BD,play,play_music,শুধুমাত্র এক হাজার নয়শ নিরানব্বই এবং দুই হাজার এর মধ্যে মুক্তিপ্রাপ্ত সমস্ত সঙ্গীত চালান,lists_remove,0.282,0.0593,False
+1683,bn-BD,weather,weather_query,আগামীকালের তাপমাত্রা হ্যাঁ বা না গরম হতে হবে,weather_query,0.9873,0.9873,True
+1684,bn-BD,weather,weather_query,হ্যাঁ বা না আগামীকাল তাপমাত্রা গরম হতে হবে,weather_query,0.9929,0.9929,True
+1692,bn-BD,play,play_music,আমার জন্যে কিছু স্মুথ জ্যাজ খোঁজ,lists_query,0.3025,0.0146,False
+1722,bn-BD,weather,weather_query,ঢাকার সর্বনিম্ন তাপমাত্রা কত,weather_query,0.9988,0.9988,True
+1750,bn-BD,iot,iot_hue_lightoff,সব আলো বন্ধ,calendar_remove,0.7876,0.0991,False
+1759,bn-BD,news,news_query,আমাকে প্রেসিডেন্ট শেখ হাসিনার খবর দিন,news_query,0.6215,0.6215,True
+1760,bn-BD,news,news_query,সন্ত্রাসবাদের সর্বশেষ খবর,qa_factoid,0.4878,0.3733,False
+1777,bn-BD,play,play_music,পরবর্তী গান,play_music,0.9971,0.9971,True
+1784,bn-BD,iot,iot_hue_lightoff,বেডরুম বন্ধ করুন,calendar_remove,0.652,0.0131,False
+1786,bn-BD,iot,iot_hue_lightoff,মাস্টারের বেডরুমের সুইচ বন্ধ করুন,lists_remove,0.403,0.1165,False
+1794,bn-BD,news,news_query,যে কোনো সময় শীঘ্রই বাংলাদেশ সফর করবেন হাসিনা,email_sendemail,0.9502,0.0001,False
+1796,bn-BD,datetime,datetime_query,আজকের তারিখ,datetime_query,0.9993,0.9993,True
+1803,bn-BD,news,news_query,আজ প্রিমিয়ার লিগে কোন দলগুলো খেলছে,social_post,0.4345,0.0524,False
+1811,bn-BD,play,play_music,প্লেলিস্ট শুরু কর এবং গান বাজাও,cooking_recipe,0.9506,0.0414,False
+1832,bn-BD,play,play_music,মাইলস অ্যালবাম চালাও,iot_hue_lightoff,0.358,0.009,False
+1833,bn-BD,play,play_music,আপনি ফিলিংস এর স্বাধীন মিডিয়া লুপ করতে পারেন,qa_factoid,0.6877,0.0026,False
+1866,bn-BD,weather,weather_query,এখনকার আবহাওয়ার প্রতিবেদন,weather_query,0.7354,0.7354,True
+1870,bn-BD,datetime,datetime_query,আজ কোন মাস,datetime_query,0.9957,0.9957,True
+1904,bn-BD,news,news_query,আমাকে ম্যাচের হাইলাইটগুলি দিন,email_sendemail,0.8481,0.001,False
+1933,bn-BD,weather,weather_query,আজ রাতের মধ্যে কি তাপমাত্রা কমবে,weather_query,0.9985,0.9985,True
+1940,bn-BD,play,play_music,আলো আলো গান বাজান,play_music,1.0,1.0,True
+1962,bn-BD,play,play_music,hi google আমার খেপাটে playlist বাজান,social_post,0.9653,0.0325,False
+1994,bn-BD,play,play_music,আপনি কি আমার আইটিউনস খুলতে পারেন,iot_hue_lightoff,0.3979,0.0137,False
+1995,bn-BD,play,play_music,এল. আর. বি. খেলা,social_post,0.4006,0.0352,False
+2007,bn-BD,play,play_music,দয়া করে আলো আলো বাজান,qa_factoid,0.459,0.0101,False
+2062,bn-BD,play,play_music,আমি কিছু জ্যাজ গান চালাতে চাই,play_music,1.0,1.0,True
+2085,bn-BD,play,play_music,ফিলিংস আমি ফিলিংস বা বাদে কোন ক্লাসিক্যাল শুনতে চাই,play_podcasts,0.9393,0.0013,False
+2098,bn-BD,news,news_query,আজকাল পৃথিবীতে কি হচ্ছে,qa_factoid,0.5685,0.0062,False
+2108,bn-BD,play,play_music,পরবর্তী আলো আলো বাজান,iot_hue_lightoff,0.5147,0.0148,False
+2113,bn-BD,recommendation,recommendation_events,আমার শহরে বর্তমান সব ঘটনা আমাকে বলুন,social_post,0.3808,0.0247,False
+2146,bn-BD,datetime,datetime_query,এখন থেকে দুই বছর পর বড় দিনের তারিখ কী,datetime_query,0.7525,0.7525,True
+2156,bn-BD,datetime,datetime_query,আমার এখনই সময় জানা দরকার কয়টা বাজে,datetime_query,0.8263,0.8263,True
+2160,bn-BD,iot,iot_hue_lightoff,আমি এখন ঘুমাতে যাচ্ছি,calendar_remove,0.1706,0.1133,False
+2178,bn-BD,weather,weather_query,আমার জায়গায় বর্তমান আবহাওয়ার অবস্থা কি,weather_query,0.9807,0.9807,True
+2198,bn-BD,datetime,datetime_query,চার-ই ডিসেম্বর উনিশশো বিরাশি সপ্তাহের কোন দিন,datetime_query,0.911,0.911,True
+2201,bn-BD,news,news_query,চ্যানেল আই এর শিরোনাম,email_query,0.6311,0.0118,False
+2203,bn-BD,news,news_query,চ্যানেল আই বিশ্বের শিরোনাম,qa_factoid,0.2108,0.0319,False
+2220,bn-BD,weather,weather_query,ঢাকা আবহাওয়া,weather_query,0.9753,0.9753,True
+2225,bn-BD,play,play_music,ফিলিংসের খেলো বাবা কতো দিন দেখি নি তোমাই,qa_factoid,0.7677,0.0017,False
+2230,bn-BD,iot,iot_hue_lightoff,বসার ঘরের আলো বন্ধ করুন,calendar_remove,0.7284,0.1686,False
+2237,bn-BD,news,news_query,আমাকে সর্বশেষ আন্তর্জাতিক খবর পড়ুন,news_query,0.9778,0.9778,True
+2258,bn-BD,weather,weather_query,আমার কি আজ একটি সোয়েটার লাগবে,iot_hue_lightoff,0.8942,0.0047,False
+2265,bn-BD,weather,weather_query,আমাকে বলুন সেন্ট মার্টিনের আবহাওয়া কেমন এখন,weather_query,0.9905,0.9905,True
+2271,bn-BD,play,play_music,দয়া করে আমার কেনা এবং পছন্দের গানগুলি চালান,play_music,0.4002,0.4002,True
+2296,bn-BD,news,news_query,আজকের এন এর সাথে আমাকে আপ টু ডেট রাখুন ফুটবল স্কোর,email_query,0.2182,0.0122,False
+2298,bn-BD,iot,iot_hue_lightoff,এখন আলো নিভিয়ে দাও,iot_hue_lightoff,0.8468,0.8468,True
+2315,bn-BD,news,news_query,আজকের জন্য কি খবর,news_query,0.9997,0.9997,True
+2316,bn-BD,news,news_query,alexa আমাকে শিরোনাম খবর দিন,qa_factoid,0.9625,0.0047,False
+2320,bn-BD,weather,weather_query,এই শুক্রবারের আবহাওয়া কেমন,weather_query,0.9978,0.9978,True
+2322,bn-BD,weather,weather_query,আগামীকাল আবহাওয়া কেমন হবে,weather_query,0.9991,0.9991,True
+2330,bn-BD,datetime,datetime_query,এই মুহূর্তে ঢাকা স্থানীয় সময় প্রদর্শন করুন,weather_query,0.5582,0.0166,False
+2384,bn-BD,news,news_query,বিশ্ব জুড়ে কি ঘটছে,social_post,0.7216,0.1717,False
+2386,bn-BD,news,news_query,আমাকে সর্বশেষ খবর দিন,news_query,0.9266,0.9266,True
+2396,bn-BD,play,play_music,জেমসের গানগুলো শুরু কর,play_music,0.9997,0.9997,True
+2408,bn-BD,play,play_music,ব্যান্ড থেকে আরো গান অনুসন্ধান করুন,play_music,0.9988,0.9988,True
+2412,bn-BD,datetime,datetime_query,আপনি কি আমাকে ঢাকায় সময় বলতে পারেন,qa_factoid,0.9011,0.0013,False
+2423,bn-BD,weather,weather_query,দয়া করে আমাকে চট্টগ্রামের আজকের আবহাওয়া জানান দিন,weather_query,0.9839,0.9839,True
+2438,bn-BD,news,news_query,প্রযুক্তিগত খবর পাঠান,news_query,0.6414,0.6414,True
+2441,bn-BD,iot,iot_hue_lightoff,চালার আলো বন্ধ কর,calendar_remove,0.8876,0.0319,False
+2472,bn-BD,datetime,datetime_query,আমি যেখানে অবস্থান করছি তার জন্য বর্তমানে সঠিক সময়,iot_hue_lightoff,0.2738,0.0809,False
+2496,bn-BD,news,news_query,প্রতিদিনের খবর,news_query,0.9985,0.9985,True
+2497,bn-BD,datetime,datetime_query,আজ কি তারিখ,datetime_query,0.9991,0.9991,True
+2498,bn-BD,datetime,datetime_query,সিরি আজ কত তারিখ,qa_factoid,0.9993,0.0007,False
+2527,bn-BD,play,play_music,classic rock খেলা,play_music,0.9964,0.9964,True
+2531,bn-BD,play,play_music,অ্যালেক্সা rap আর rock একটার পর একটা বাজাও,play_music,0.9678,0.9678,True
+2545,bn-BD,weather,weather_query,আবহাওয়া কেমন,weather_query,0.9798,0.9798,True
+2548,bn-BD,news,news_query,সুমনের সংবাদ্গুলোর খবর থেকে আকর্ষণীয় কিছু,news_query,0.7299,0.7299,True
+2560,bn-BD,play,play_music,এলোমেলো সঙ্গীত বাজান,play_music,0.9952,0.9952,True
+2573,bn-BD,play,play_music,আমার বায়োস্কোপ নাচ প্লে লিস্ট চালাও,qa_factoid,0.9736,0.0071,False
+2578,bn-BD,iot,iot_hue_lightoff,বারান্দার আলো বন্ধ করুন,calendar_remove,0.7004,0.1317,False
+2588,bn-BD,news,news_query,c. n. n. থেকে সর্বশেষ খবর কি,news_query,0.9962,0.9962,True
+2594,bn-BD,news,news_query,সর্বশেষ পরিবেশগত খবর সম্পর্কে আমাকে বলুন,news_query,0.8891,0.8891,True
+2605,bn-BD,play,play_music,এখন আমার প্রিয় সঙ্গীত বাজান,play_music,0.9998,0.9998,True
+2611,bn-BD,weather,weather_query,বর্তমান আবহাওয়ার পূর্বাভাস,weather_query,0.2218,0.2218,True
+2615,bn-BD,weather,weather_query,আগামী বুধবার আমার কি জ্যাকেট পরার দরকার হবে,cooking_recipe,0.4484,0.0062,False
+2638,bn-BD,news,news_query,আমাকে হাসিনা খবর দেখান,social_post,0.9984,0.0014,False
+2639,bn-BD,news,news_query,আমাকে পরিবেশের খবর দেখান,weather_query,0.1529,0.1279,False
+2651,bn-BD,news,news_query,এলাকা থেকে সর্বশেষ খবর,news_query,0.9854,0.9854,True
+2678,bn-BD,weather,weather_query,আজ রাতে কি বৃষ্টি হচ্ছে,weather_query,0.9987,0.9987,True
+2679,bn-BD,weather,weather_query,তাপমাত্রা কি একই থাকবে নাকি আরও ঠান্ডা হবে,weather_query,0.7649,0.7649,True
+2703,bn-BD,play,play_music,দয়া করে লোক সঙ্গীত বাজান,play_music,0.9996,0.9996,True
+2704,bn-BD,play,play_music,আসুন কিছু বাংলা ফোক শুনি ঠিক আছে,lists_remove,0.1984,0.0288,False
+2708,bn-BD,play,play_music,অলি আমার মনে হচ্ছে নাচ আমাকে কিছু rock north roll বাজান,play_music,0.9253,0.9253,True
+2709,bn-BD,play,play_music,অলি আমার আজ কিছু দুঃখের গান শুনতে হবে,play_music,1.0,1.0,True
+2711,bn-BD,iot,iot_hue_lightoff,আলো বন্ধ,calendar_remove,0.6498,0.1095,False
+2717,bn-BD,play,play_music,আমি আমারও পরানে যাহা চায় শুনতে চাই,social_post,0.5489,0.1137,False
+2724,bn-BD,news,news_query,আমাকে চ্যানেল আই থেকে খবর দিন,news_query,0.718,0.718,True
+2770,bn-BD,play,play_music,অলি jazz ঘরানার গান বাজান,play_music,0.9988,0.9988,True
+2774,bn-BD,iot,iot_hue_lightoff,আলো বন্ধ করুন,calendar_remove,0.9337,0.0065,False
+2775,bn-BD,iot,iot_hue_lightoff,আলো ব্যবহার বন্ধ করুন,calendar_remove,0.7123,0.0484,False
+2777,bn-BD,weather,weather_query,আমার কি আজকে একটি ছাতা নিয়ে আসব,email_sendemail,0.827,0.0016,False
+2781,bn-BD,play,play_music,কিছু জ্যাজ গান বাজাও,play_music,0.9882,0.9882,True
+2798,bn-BD,play,play_music,আলেক্সা আলো আলো গান চালান,play_music,0.9965,0.9965,True
+2801,bn-BD,datetime,datetime_query,বরিশালের সময় কত,datetime_query,0.674,0.674,True
+2824,bn-BD,datetime,datetime_query,তেরোই ডিসেম্বর কোন দিন,datetime_query,0.9628,0.9628,True
+2840,bn-BD,datetime,datetime_query,পরবর্তি ভালবাসা দিবস কোন দিনে অবতরণ করবে,weather_query,0.662,0.0783,False
+2859,bn-BD,datetime,datetime_query,অলি এই শহরে কটা বাজে,qa_factoid,0.8356,0.0032,False
+2887,bn-BD,news,news_query,প্রথম আলো আবহাওয়া সম্পর্কিত কোনো নিবন্ধ আমাকে দেখান,play_radio,0.4616,0.0035,False
+2890,bn-BD,weather,weather_query,বর্তমান আবহাওয়া কি,weather_query,0.425,0.425,True
+2898,bn-BD,news,news_query,নির্বাচন সংক্রান্ত কোন আপডেট আছে,qa_factoid,0.9941,0.0003,False
+2914,bn-BD,datetime,datetime_query,আজ কি তারিখ আমাকে বলুন,datetime_query,0.9923,0.9923,True
+2917,bn-BD,weather,weather_query,সাপ্তাহিক আবহাওয়া প্রতিবেদন,iot_hue_lightoff,0.1913,0.1006,False
+2921,bn-BD,news,news_query,খবর কি চ্যানেল আই ওয়েবসাইট,qa_factoid,0.9493,0.0012,False
+2927,bn-BD,datetime,datetime_query,উত্তরায় কটা বাজে,qa_factoid,0.9999,0.0,False
+2931,bn-BD,play,play_music,পরবর্তী তে জ্বালা জ্বালা বাজান,iot_hue_lightoff,0.104,0.047,False
+2962,bn-BD,play,play_music,দয়া করে তাহসান একটি গান বাজান,play_music,0.9941,0.9941,True
+2965,bn-BD,iot,iot_hue_lightoff,অফিসের আলোগুলি বন্ধ করুন,calendar_remove,0.5251,0.3259,False
+3002,bn-BD,play,play_music,মাইলস ব্যান্ডের গান বাজাও,play_music,0.9997,0.9997,True
+3031,bn-BD,play,play_music,আমি আবার গানটি শুনতে চাই,play_music,1.0,1.0,True
+3034,bn-BD,weather,weather_query,আমাকে তাপমাত্রা বলুন,qa_factoid,0.3902,0.2413,False
+3037,bn-BD,news,news_query,প্রথম পৃষ্ঠার খবর প্রবন্ধ দয়া করে,iot_hue_lightoff,0.4072,0.0118,False
+3039,bn-BD,news,news_query,খবরে নতুন কি আছে,social_post,0.7809,0.0045,False
+3060,bn-BD,news,news_query,এই খবরের উৎস থেকে খবর কি আছে,qa_factoid,0.9163,0.0757,False
+3091,bn-BD,datetime,datetime_query,pacific স্ট্যান্ডার্ড টাইমে এটি কতটা,qa_factoid,0.4916,0.0157,False
+3096,bn-BD,weather,weather_query,মনিপুর আবহাওয়া কেমন,weather_query,0.9987,0.9987,True
+3098,bn-BD,iot,iot_hue_lightoff,আলো বন্ধ করুন,calendar_remove,0.9337,0.0065,False
+3099,bn-BD,news,news_query,আমাকে কিছু বর্তমান ঘটনা দেখান,social_post,0.5417,0.0575,False
+3101,bn-BD,news,news_query,অলি খবর চালু,qa_factoid,0.412,0.3467,False
+3116,bn-BD,play,play_music,আমার গত বছরের পছন্দের গানটি বাজাও,play_music,0.9028,0.9028,True
+3117,bn-BD,play,play_music,তাহসানের উদ্দেশ্য নেই এবং আয়ুব বাচ্চুর ময়না থেকে কিছু বাজান,social_post,0.4899,0.0023,False
+3118,bn-BD,datetime,datetime_query,eastern standard time এ বর্তমান সময় কত,datetime_query,0.8348,0.8348,True
+3124,bn-BD,play,play_music,আমার প্লেলিস্ট থেকে আমাকে একটি এলোমেলো গান বাজাও,play_music,0.9979,0.9979,True
+3146,bn-BD,play,play_music,আমার মান্না দের প্লেলিস্টের প্রথম গানটি বাজাও,play_music,0.9996,0.9996,True
+3167,bn-BD,iot,iot_hue_lightoff,আমার বসার ঘরে আলো বন্ধ করুন,calendar_remove,0.5535,0.1759,False
+3174,bn-BD,play,play_music,সঙ্গীত প্লেলিস্ট খেলা,play_music,0.8845,0.8845,True
+3205,bn-BD,play,play_music,পোকার ফেস লেডি গাগা,social_post,0.3314,0.1781,False
+3207,bn-BD,play,play_music,তিথি দাশের তোর প্রেমেতে অন্ধ হলাম গানটি চালান,play_music,0.9297,0.9297,True
+3212,bn-BD,calendar,calendar_set,তখন আমাকে কিছু করতে সকালে মনে করিয়ে দিন,cooking_recipe,0.3464,0.0167,False
+3214,bn-BD,news,news_query,বাংলাদেশ সাথে ট্রাম্পের সম্পর্কের তদন্তের বর্তমান অবস্থা কী,email_query,0.5849,0.0954,False
+3228,bn-BD,datetime,datetime_query,এই বছর ঈদ সপ্তাহের কোন বার পড়ছে,weather_query,0.6843,0.0677,False
+3253,bn-BD,weather,weather_query,আমরা কি এই বিকালে বৃষ্টির আশা রাখতে পারি,weather_query,0.999,0.999,True
+3264,bn-BD,play,play_music,রেগে সঙ্গীত বাজান,play_music,0.9987,0.9987,True
+3305,bn-BD,weather,weather_query,এই সপ্তাহে চট্টগ্রামের আবহাওয়া কেমন,weather_query,0.9972,0.9972,True
+3306,bn-BD,weather,weather_query,সপ্তাহের পূর্বাভাস কি,datetime_query,0.9628,0.0323,False
+3329,bn-BD,news,news_query,আমি খবর দেখতে চাই,news_query,0.6579,0.6579,True
+3337,bn-BD,weather,weather_query,তেত্রিশ হাজার তিনশত চুয়াত্তরের আবহাওয়ার প্রতিবেদন,datetime_query,0.1673,0.1269,False
+3338,bn-BD,weather,weather_query,ঢাকার জন্য আবহাওয়ার প্রতিবেদন করুন,weather_query,0.4581,0.4581,True
+3361,bn-BD,datetime,datetime_query,আগামী মঙ্গলবারের তারিখ কি,datetime_query,0.9997,0.9997,True
+3378,bn-BD,iot,iot_hue_lightoff,বসার ঘরে কোন আলো নেই,iot_hue_lightoff,0.502,0.502,True
+3386,bn-BD,iot,iot_hue_lightoff,আলো মাঝারি করে দিন,iot_hue_lightoff,0.9117,0.9117,True
+3400,bn-BD,play,play_music,জেমস এর লাইভ দেখান,play_music,0.3786,0.3786,True
+3401,bn-BD,play,play_music,সর্বাধিক জনপ্রিয় তাহসান গান বাজান,qa_factoid,0.9999,0.0,False
+3406,bn-BD,weather,weather_query,দশ দিনের পূর্বাভাস কি,weather_query,0.9022,0.9022,True
+3407,bn-BD,weather,weather_query,এই সপ্তাহে বৃষ্টি বা তুষারপাতের কোনো পূর্বাভাস আছে কি,weather_query,0.9879,0.9879,True
+3408,bn-BD,weather,weather_query,এই সপ্তাহান্তে আবহাওয়া কি সুন্দর হবে,weather_query,0.6443,0.6443,True
+3426,bn-BD,weather,weather_query,বাইরে কত ডিগ্রি আছে,qa_factoid,0.9994,0.0,False
+3433,bn-BD,play,play_music,নতুন পপ গান,play_music,0.5299,0.5299,True
+3434,bn-BD,play,play_music,সেরা র‍্যাপ গান,play_music,0.9549,0.9549,True
+3441,bn-BD,datetime,datetime_query,বুধবার কি বাইশ তারিখ,datetime_query,0.9972,0.9972,True
+3444,bn-BD,datetime,datetime_query,এটা দশ,qa_factoid,0.8638,0.0021,False
+3447,bn-BD,weather,weather_query,আবহাওয়া কি শনিবার বৃষ্টির আহ্বান জানায়,weather_query,0.9981,0.9981,True
+3481,bn-BD,play,play_music,দেয়া আর্টিস্টের সবচেয়ে জনপ্রিয় গান চালান,play_music,0.9051,0.9051,True
+3489,bn-BD,play,play_music,দয়া করে এখন গান চালান,play_music,0.9997,0.9997,True
+3492,bn-BD,play,play_music,চলুন আমার সবচেয়ে বেশি বাজানো গানের তালিকা চালাই,play_music,1.0,1.0,True
+3503,bn-BD,weather,weather_query,ঢাকা আবহাওয়া কি,weather_query,0.9963,0.9963,True
+3507,bn-BD,weather,weather_query,পূর্বাভাসে তুষারপাত আছে কি,weather_query,0.8089,0.8089,True
+3513,bn-BD,play,play_music,শুধু আমার তালিকা বাজান,social_post,0.2324,0.0347,False
+3516,bn-BD,weather,weather_query,আজকের আবহাওয়ায় বৃষ্টিপাতের সম্ভাবনা কতটুকু,weather_query,0.9663,0.9663,True
+3539,bn-BD,play,play_music,অনুগ্রহ করে পড়শী এর হৃদয় আমার বাজান,social_post,0.3903,0.0366,False
+3546,bn-BD,play,play_music,আমি জ্যাজ সঙ্গীত শুনতে চাই,play_music,0.9936,0.9936,True
+3550,bn-BD,play,play_music,কিছু লালনগীতি চালাও,cooking_recipe,0.9835,0.0045,False
+3554,bn-BD,play,play_music,আপনি প্রেমের প্লেলিস্টে রাখতে পারেন,iot_hue_lightoff,0.4245,0.0766,False
+3562,bn-BD,play,play_music,আরো এক বার খেলুন,play_music,0.6408,0.6408,True
+3566,bn-BD,datetime,datetime_query,দিনাজপুরে এখন বর্তমান সময় কত,weather_query,0.7639,0.0286,False
+3570,bn-BD,iot,iot_hue_lightoff,অনুগ্রহ করে বহিঃপ্রাঙ্গণের আলোর বন্ধ করুন,lists_remove,0.2148,0.0497,False
+3576,bn-BD,news,news_query,যমুনা সংবাদ থেকে সর্বশেষ গল্প কি,play_podcasts,0.7702,0.0148,False
+3586,bn-BD,weather,weather_query,ঢাকায় আবহাওয়া কেমন,weather_query,0.9939,0.9939,True
+3600,bn-BD,calendar,calendar_set,আমাকে দশ মিনিট পর মনে করাও,qa_factoid,0.3813,0.0206,False
+3603,bn-BD,news,news_query,চ্যানেল আই থেকে সর্বশেষ খবর কি,news_query,0.965,0.965,True
+3605,bn-BD,news,news_query,চ্যানেল আই নেভিগেশন সর্বশেষ খবর কি,news_query,0.9962,0.9962,True
+3606,bn-BD,datetime,datetime_query,ঢাকার সময় কত,datetime_query,0.9835,0.9835,True
+3614,bn-BD,weather,weather_query,আজকে একটি রোদ ঝলমলে দিন তাই না,weather_query,0.9373,0.9373,True
+3623,bn-BD,news,news_query,আজ বিশ্বে কি হচ্ছে,weather_query,0.5471,0.0527,False
+3624,bn-BD,news,news_query,চ্যানেল আই থেকে খবর,news_query,0.9746,0.9746,True
+3631,bn-BD,play,play_music,হেই গুগোল আমার জন্যে কিছু জ্যাজ গান বাজাও,play_music,0.9997,0.9997,True
+3686,bn-BD,play,play_music,আমার শুধু রক হবে রক প্লেলিস্টটি থেকে গানগুলো বাজাও,play_music,0.8553,0.8553,True
+3714,bn-BD,play,play_music,আমার প্লেলিস্ট এর শুরু নিচ থেকে বাজান,iot_hue_lightoff,0.767,0.0053,False
+3717,bn-BD,play,play_music,আমার নব্বই দশকের র‍্যাপ হিটগুলো বাজাও,cooking_recipe,0.2953,0.0154,False
+3723,bn-BD,play,play_music,আমি এই গানের পরে তাহসানের আমাকে কল শুনতে চাই,play_music,0.9997,0.9997,True
+3725,bn-BD,datetime,datetime_query,আজ কোন তারিখ,datetime_query,0.9996,0.9996,True
+3727,bn-BD,play,play_music,তাহসানের আলো বাজাও,social_post,0.9145,0.0229,False
+3750,bn-BD,news,news_query,অলি যদি বন্যা সম্পর্কে নতুন কোন খবর আসে তাহলে আমাকে এক্ষুনি জানাতে পারেন,news_query,0.5405,0.5405,True
+3779,bn-BD,play,play_music,ইউটিউবের ব্ল্যাঙ্ক প্লেলিস্টটি বাজাও,iot_hue_lightoff,0.2969,0.0194,False
+3780,bn-BD,play,play_music,আমার রাতের ভুবন প্রেম প্লেলিস্ট বাজান,play_music,0.2194,0.2194,True
+3784,bn-BD,weather,weather_query,আমাকে ধানমন্ডির আবহাওয়া সংক্রান্ত একটি প্রতিবেদন দিন,email_sendemail,0.9808,0.0004,False
+3785,bn-BD,iot,iot_hue_lightoff,বসার ঘরের আলো বন্ধ করুন,calendar_remove,0.7284,0.1686,False
+3822,bn-BD,news,news_query,আমাকে গাড়ির তথ্য খুঁজুন,qa_factoid,0.6495,0.0046,False
+3852,bn-BD,weather,weather_query,মিরপুরে এখন কেমন আবহাওয়া আছে,weather_query,0.9983,0.9983,True
+3859,bn-BD,play,play_music,অনুগ্রহ করে আমার প্রিয় রেপ মিউজিক প্লেলিস্টে রাখুন,recommendation_events,0.9962,0.0001,False
+3907,bn-BD,play,play_music,গত বছরের হিটগুলো বাজান,qa_factoid,0.2896,0.0637,False
+3911,bn-BD,play,play_music,এই বছর গ্র্যামি পাওয়া যেকোনো গান শুনতে চাই,play_music,0.9945,0.9945,True
+3912,bn-BD,play,play_music,আমি কিছু ফোক শুনতে পছন্দ করব,play_podcasts,0.3628,0.2546,False
+3936,bn-BD,weather,weather_query,তাপমাত্রা কত,weather_query,0.8087,0.8087,True
+3960,bn-BD,datetime,datetime_query,সময় বলুন,qa_factoid,0.803,0.0526,False
+3967,bn-BD,play,play_music,rap,qa_factoid,0.5852,0.0441,False
+3980,bn-BD,play,play_music,তপু এর একটা গোপন কথা প্লে করুন,qa_definition,0.4225,0.0052,False
+3982,bn-BD,play,play_music,আইটিউন্স লাইব্রেরীর প্রথম গানটি সিলেক্ট কর,iot_hue_lightoff,0.7195,0.277,False
+3993,bn-BD,iot,iot_hue_lightoff,আপনি কি আলো নিভিয়ে দিতে পারেন,iot_hue_lightoff,0.9896,0.9896,True
+3995,bn-BD,datetime,datetime_query,অলি সপ্তাহের কোন দিন দিপাবলি,datetime_query,0.9484,0.9484,True
+4001,bn-BD,news,news_query,ব্যাচেলার পায়েন্ট উপর কি ঘটেছে,social_post,0.9589,0.0015,False
+4023,bn-BD,news,news_query,খবর কি আছে,qa_factoid,0.937,0.0508,False
+4031,bn-BD,play,play_music,তোমাকে চাই বাজান,social_post,0.9532,0.0004,False
+4040,bn-BD,play,play_music,আমার সবচেয়ে বেশি শোনা গানটি বাজাও,play_music,0.9967,0.9967,True
+4058,bn-BD,play,play_music,আমি কিছু র‍্যাপ মিউজিক শুনতে চাই,cooking_recipe,0.3348,0.0048,False
+4073,bn-BD,datetime,datetime_query,পঞ্চমী কোন দিন,weather_query,0.8653,0.0644,False
+4077,bn-BD,iot,iot_hue_lightoff,বেডরুমের আলো নিভিয়ে দাও,iot_hue_lightoff,0.9542,0.9542,True
+4088,bn-BD,iot,iot_hue_lightoff,ওভারহেড লাইট বন্ধ করুন,calendar_remove,0.7775,0.0405,False
+4104,bn-BD,weather,weather_query,কুমিল্লা আজ আবহাওয়া কেমন হবে,weather_query,0.9989,0.9989,True
+4116,bn-BD,play,play_music,দয়া করে আমার এলোমেলো প্লেলিস্ট চালান,qa_factoid,0.9502,0.0012,False
+4119,bn-BD,news,news_query,আমি রাজশাহীর বাঁধ ভাঙার বিষয়ে যা কিছু ঘটে তা জানতে চাই,lists_query,0.2728,0.0774,False
+4132,bn-BD,weather,weather_query,আজকের জন্য বিশাখাপত্তনম বৃষ্টির সম্ভাবনা কত শতাংশ আমাকে বলুন,weather_query,0.9448,0.9448,True
+4136,bn-BD,play,play_music,আপনি কি অনুগ্রহ করে ছারপোকা চালু করতে পারেন,recommendation_events,0.9967,0.0001,False
+4152,bn-BD,play,play_music,ও প্রিয়া তুমি কোথায় গানটি বাজাও,play_music,0.9998,0.9998,True
+4168,bn-BD,weather,weather_query,দয়া করে দিনাজপুর আবহাওয়া পরীক্ষা করুন,weather_query,0.9169,0.9169,True
+4171,bn-BD,iot,iot_hue_lightoff,রান্নাঘরের আলোগুলি বন্ধ করুন,lists_remove,0.3637,0.0647,False
+4177,bn-BD,news,news_query,আমাকে সারা বিশ্বের সর্বশেষ রাজনৈতিক শিরোনাম দিন,social_post,0.247,0.021,False
+4178,bn-BD,news,news_query,রাষ্ট্রপতির কোনো খবর আছে কি,news_query,0.9935,0.9935,True
+4183,bn-BD,datetime,datetime_query,বর্তমান সময় ঢাকা,weather_query,0.8985,0.0124,False
+4186,bn-BD,datetime,datetime_query,আরে অলি কত বাজে,qa_factoid,0.9987,0.0,False
+4187,bn-BD,datetime,datetime_query,আরে সিরি সময় কত হচ্ছে,weather_query,0.9502,0.0331,False
+4205,bn-BD,play,play_music,মাইলস এর জ্বালা জ্বালা শুনতে চাই,play_music,0.5393,0.5393,True
+4212,bn-BD,weather,weather_query,আমি কি এই সন্ধ্যায় ঘাস কাটতে সক্ষম হব,qa_factoid,0.9693,0.014,False
+4227,bn-BD,weather,weather_query,পরের সপ্তাহের পূর্বাভাসে কি বৃষ্টির সম্ভাবনা রয়েছে,weather_query,0.9988,0.9988,True
+4232,bn-BD,play,play_music,মাইলস এর জ্বালা জ্বালা বাজাও,iot_hue_lightoff,0.1441,0.0445,False
+4236,bn-BD,datetime,datetime_query,এখনো কি বিকাল হয়েছে,weather_query,0.9955,0.0002,False
+4253,bn-BD,datetime,datetime_query,eastern স্ট্যান্ডার্ডে বর্তমান সময় কত,qa_factoid,0.6646,0.1167,False
+4254,bn-BD,datetime,datetime_query,বাংলাদেশের পশ্চিম উপকূলের স্থানীয় সময় কত,datetime_query,0.9807,0.9807,True
+4258,bn-BD,news,news_query,সর্বশেষ খবর কি,news_query,0.9959,0.9959,True
+4266,bn-BD,weather,weather_query,আজকের আবহাওয়া কি,weather_query,0.9895,0.9895,True
+4273,bn-BD,play,play_music,গান বাড়ির পাশে মধুমতি বাজান,cooking_recipe,0.2963,0.162,False
+4290,bn-BD,weather,weather_query,আমি কি আজ রাতে আমার সাথে একটি জ্যাকেট আনব,social_post,0.6375,0.0084,False
+4305,bn-BD,play,play_music,ফিলিংসের অনেক সাধনার পরে আমি গানটি চালান,play_music,0.9979,0.9979,True
+4309,bn-BD,datetime,datetime_query,ঢাকা বাংলাদেশ মাঝরাত কত ঘণ্টা পর হবে,weather_query,0.5814,0.415,False
+4312,bn-BD,weather,weather_query,ঢাকার আবহাওয়া কি দশ ডিগ্রির কম হবে,iot_hue_lightoff,0.9162,0.0799,False
+4313,bn-BD,weather,weather_query,আগামীকাল কি ঢাকায় বৃষ্টি হবে,weather_query,0.9996,0.9996,True
+4336,bn-BD,datetime,datetime_query,বাংলাদেশের বর্তমান সময় কত,datetime_query,0.9945,0.9945,True
+4346,bn-BD,iot,iot_hue_lightoff,আলো বন্ধ করুন,calendar_remove,0.9337,0.0065,False
+4347,bn-BD,iot,iot_hue_lightoff,অপারেটিং আলো বন্ধ,iot_hue_lightoff,0.4318,0.4318,True
+4355,bn-BD,weather,weather_query,আমি যেখানে আছি সেখানে আবহাওয়া কেমন,weather_query,0.9958,0.9958,True
+4361,bn-BD,play,play_music,আমাকে কিছু ভালো শব্দ দাও,play_music,0.6984,0.6984,True
+4362,bn-BD,datetime,datetime_query,ঢাকায় কতটা বাজে,qa_factoid,1.0,0.0,False
+4376,bn-BD,weather,weather_query,আজ বাইরে কেমন আছে,weather_query,0.996,0.996,True
+4377,bn-BD,weather,weather_query,বর্তমান আবহাওয়া কি,weather_query,0.9967,0.9967,True
+4383,bn-BD,weather,weather_query,আগামীকাল আবহাওয়া কেমন হবে,weather_query,0.9991,0.9991,True
+4391,bn-BD,news,news_query,চ্যানেল আই এর নেভিগেশন শিরোনাম কি,qa_factoid,0.8618,0.0001,False
+4400,bn-BD,news,news_query,খবর বাংলার trending আর্টিকেলগুলি কি কি,social_post,0.4522,0.3578,False
+4402,bn-BD,weather,weather_query,আমি কি আজ একটি ব্রলি চারপাশে বহন করতে হবে,iot_hue_lightoff,0.3328,0.0474,False
+4412,bn-BD,weather,weather_query,বাংলাদেশ আবহাওয়া কেমন,weather_query,0.9983,0.9983,True
+4436,bn-BD,weather,weather_query,আমার কোন jacket পরা উচিত,qa_factoid,0.8939,0.0023,False
+4439,bn-BD,weather,weather_query,চট্টগ্রামের আবহাওয়া কেমন,weather_query,0.9956,0.9956,True
+4449,bn-BD,weather,weather_query,আজকে দুপুর একটায় কি বৃষ্টি হবে,weather_query,0.9996,0.9996,True
+4452,bn-BD,play,play_music,গান খেলা,play_music,0.9904,0.9904,True
+4463,bn-BD,datetime,datetime_query,মার্চে কত শনিবার আছে,calendar_remove,0.3678,0.2585,False
+4477,bn-BD,play,play_music,পরের গানটি বাজাও,play_music,0.998,0.998,True
+4482,bn-BD,weather,weather_query,এই সকালে কি আমাকে আমার গাড়ির কাঁচ পরিষ্কার করতে হবে,weather_query,0.9141,0.9141,True
+4486,bn-BD,weather,weather_query,আমাকে এই সপ্তাহের আবহাওয়ার পূর্বাভাস দিন,weather_query,0.6018,0.6018,True
+4487,bn-BD,weather,weather_query,বৃহস্পতিবার কি বৃষ্টি হবে,weather_query,0.9997,0.9997,True
+4491,bn-BD,news,news_query,শেখ হাসিনার সর্বশেষ খবর কি,news_query,0.983,0.983,True
+4492,bn-BD,news,news_query,আমার এলাকার জন্য সর্বশেষ অপরাধের পরিসংখ্যান কি,qa_factoid,0.8961,0.0082,False
+4496,bn-BD,news,news_query,আজ কি প্রথম আলো পোস্ট করেছেন,iot_hue_lightoff,0.449,0.0144,False
+4502,bn-BD,datetime,datetime_query,আরে ঢাকায় এখন কয়টা বাজে,qa_factoid,0.9129,0.0042,False
+4524,bn-BD,weather,weather_query,olly আজকের আবহাওয়ার পূর্বাভাস কি,weather_query,0.7443,0.7443,True
+4547,bn-BD,play,play_music,কুকুর হাটানোর প্লেলিস্টটি চালু কর,qa_factoid,0.4341,0.0072,False
+4567,bn-BD,news,news_query,আমাকে চ্যানেল আই থেকে সর্বশেষ শিরোনাম পড়ুন,recommendation_events,0.4458,0.0282,False
+4580,bn-BD,datetime,datetime_query,ঢাকার সময় কত,datetime_query,0.9835,0.9835,True
+4587,bn-BD,play,play_music,আমার প্রিয় সমূহ বাজান,iot_hue_lightoff,0.9597,0.0001,False
+4589,bn-BD,calendar,calendar_set,খেলার জন্য একটি নোটিফিকেশন সেট করুন,cooking_recipe,0.8485,0.0028,False
+4606,bn-BD,news,news_query,আজকের স্টক তথ্য খুঁজুন,qa_factoid,0.2647,0.0307,False
+4614,bn-BD,weather,weather_query,আগামীকাল কি তাপমাত্রা চল্লিশের বেশি হবে,weather_query,0.998,0.998,True
+4662,bn-BD,news,news_query,c. b. s. থেকে খবর alexa,news_query,0.9281,0.9281,True
+4667,bn-BD,datetime,datetime_query,বর্তমান সময়,datetime_query,0.3689,0.3689,True
+4680,bn-BD,weather,weather_query,আমার কি স্যান্ডেল নাকি মোজা সহ জুতো পরা উচিত,qa_factoid,0.4815,0.0231,False
+4689,bn-BD,weather,weather_query,আপনি কি আবহাওয়া জানেন,weather_query,0.5635,0.5635,True
+4692,bn-BD,play,play_music,মাইলসের একটা গান শোনাও,play_music,0.9999,0.9999,True
+4710,bn-BD,datetime,datetime_query,কি দিন এই বছর দিপাবলি,weather_query,0.7923,0.153,False
+4764,bn-BD,weather,weather_query,সোমবার কি বৃষ্টি হবে,weather_query,0.9997,0.9997,True
+4767,bn-BD,news,news_query,বাংলাদেশ ভারত সীমান্ত প্রাচীর সম্পর্কিত কোন নতুন তথ্য আছে কি,iot_hue_lightoff,0.2111,0.0375,False
+4772,bn-BD,datetime,datetime_query,এই টাইম জোন অনুসারে সময় বলুন,datetime_query,0.4382,0.4382,True
+4780,bn-BD,datetime,datetime_query,এই বছরের সাতাশে জুন আমার জন্মদিন কোন দিন পড়ে,datetime_query,0.8655,0.8655,True
+4784,bn-BD,weather,weather_query,আমার কি জ্যাকেট লাগবে,qa_factoid,0.9426,0.0016,False
+4813,bn-BD,datetime,datetime_query,অন্য শহরে সময় কি,datetime_query,0.8779,0.8779,True
+4837,bn-BD,news,news_query,অলি কোন খবর আছে,news_query,0.8769,0.8769,True
+4838,bn-BD,play,play_music,আয়ুব বাচ্চু সব গান চালান,play_music,0.9497,0.9497,True
+4871,bn-BD,weather,weather_query,বাইরে এটা কেমন,qa_factoid,0.7826,0.1774,False
+4881,bn-BD,datetime,datetime_query,বর্তমান স্থানীয় সময় এবং সময় অঞ্চল খুঁজে পেতে অনুসন্ধান করুন,weather_query,0.361,0.0688,False
+4882,bn-BD,datetime,datetime_query,শহরে কটা বাজে,weather_query,0.981,0.0008,False
+4890,bn-BD,calendar,calendar_set,বাংলাদেশে আবহাওয়া দুর্যোগ সম্পর্কে নোটিফিকেশন সেট করুন,iot_hue_lightoff,0.6989,0.0097,False
+4909,bn-BD,play,play_music,সোলসের গানগুলো বাজাও,play_music,0.995,0.995,True
+4917,bn-BD,weather,weather_query,বাইরে তাপমাত্রা,qa_factoid,0.5559,0.3096,False
+4928,bn-BD,play,play_music,আমার সাউন্ডট্র্যাক চালাও,cooking_recipe,0.6767,0.0278,False
+4933,bn-BD,weather,weather_query,এখন কি বৃষ্টি হবে,weather_query,0.9994,0.9994,True
+4951,bn-BD,datetime,datetime_query,আমি জানতে চাই এখন কটা বাজে,qa_factoid,0.8954,0.0175,False
+4953,bn-BD,news,news_query,ট্রেন দুর্ঘটনার খবর,news_query,0.9911,0.9911,True
+4957,bn-BD,datetime,datetime_query,এই মাসের তেইশ তারিখ সপ্তাহের কি বার,datetime_query,0.9021,0.9021,True
+4960,bn-BD,play,play_music,জেমসের গান,play_music,0.9989,0.9989,True
+4968,bn-BD,qa,qa_factoid,যিনি এই বছরের রাষ্ট্রপতি নির্বাচনে জয়ী হয়েছেন,qa_factoid,0.4298,0.4298,True
+4973,bn-BD,play,play_music,ওলি ফিরিয়ে দাও বাজাও,cooking_recipe,0.2058,0.047,False
+4998,bn-BD,play,play_music,এই গানটিকে পরের গানে যোগ কর,play_music,1.0,1.0,True
+5009,bn-BD,weather,weather_query,আমার কি এই সপ্তাহে একটা ছাতা লাগবে,iot_hue_lightoff,0.6503,0.0402,False
+5016,bn-BD,news,news_query,শেয়ার বাজারের উত্থান-পতনের খবর আমাকে বলুন,news_query,0.9427,0.9427,True
+5027,bn-BD,datetime,datetime_query,কখন পরের শুক্রবার তেরো তারিখ,datetime_query,0.9852,0.9852,True
+5037,bn-BD,weather,weather_query,আজকে কতটা ঠান্ডা,weather_query,0.9907,0.9907,True
+5038,bn-BD,weather,weather_query,এই সপ্তাহের আবহাওয়া কি,weather_query,0.9874,0.9874,True
+5040,bn-BD,weather,weather_query,এখন আবহাওয়া কি,weather_query,0.9986,0.9986,True
+5062,bn-BD,play,play_music,আমাকে আশির দশকের গানগুলি শোনাও,play_music,0.9805,0.9805,True
+5074,bn-BD,weather,weather_query,সপ্তাহের আবহাওয়া কেমন ছিল,weather_query,0.9973,0.9973,True
+5085,bn-BD,weather,weather_query,শনিবারের পূর্বাভাস কি,weather_query,0.9328,0.9328,True
+5118,bn-BD,play,play_music,তোর প্রেমেতে অন্ধ হলাম চালান,social_post,0.9649,0.0036,False
+5127,bn-BD,news,news_query,এখানে কারও বাজেটে চাকার খাবার সম্পর্কে সত্য,qa_factoid,0.9931,0.0,False
+5131,bn-BD,datetime,datetime_query,দয়া করে আমাকে বলুন ঢাকায় কত সময় হচ্ছে,weather_query,0.9975,0.0004,False
+5134,bn-BD,play,play_music,আমার জোস রক প্লেলিস্ট থেকে গান খোঁজ,play_music,0.9969,0.9969,True
+5156,bn-BD,iot,iot_hue_lightoff,বসার ঘরে আলো বন্ধ করুন,calendar_remove,0.7973,0.0523,False
+5157,bn-BD,iot,iot_hue_lightoff,অলি রান্নার ঘরের আলো নিভিয়ে দাও,iot_hue_lightoff,0.9269,0.9269,True
+5158,bn-BD,play,play_music,অনুগ্রহ করে আর্টসেল অ্যালবামের সর্বশেষ গানটি চালান,play_music,0.9204,0.9204,True
+5159,bn-BD,play,play_music,আপনি শিল্পী মিলা গান প্লে করতে পারেন,play_music,0.9983,0.9983,True
+5160,bn-BD,play,play_music,তুমি কি সুমনের গান বাজাতে পারো,play_music,1.0,1.0,True
+5176,bn-BD,weather,weather_query,এই সপ্তাহে আমি কেমন ধরণের আবহাওয়া আশা করতে পারি,weather_query,0.7163,0.7163,True
+5196,bn-BD,news,news_query,আমি ব্রেক্সিট সম্পর্কে জানতে চাই,lists_query,0.2095,0.0486,False
+5225,bn-BD,datetime,datetime_query,পরবর্তী বুধবারে কত তারিখ হবে,datetime_query,0.9961,0.9961,True
+5243,bn-BD,iot,iot_hue_lightoff,সিরি দয়া করে গোসলখানার আলো বন্ধ করে দিন,social_post,0.3431,0.0276,False
+5245,bn-BD,news,news_query,পরিবেশগত সংবাদ নোটিফিকেশন সেট করুন,lists_remove,0.1973,0.0219,False
+5270,bn-BD,news,news_query,যা বর্তমানে ব্রেকিং নিউজ,qa_factoid,0.9442,0.0022,False
+5278,bn-BD,play,play_music,অনুগ্রহ করে শুধুমাত্র পপ মিক্সের মিউজিক চালান,recommendation_events,0.491,0.0116,False
+5279,bn-BD,play,play_music,মিউজিক প্লেয়ারে শুধু দুঃখের গান বাজাও,play_music,0.9961,0.9961,True
+5286,bn-BD,news,news_query,দেখান চ্যানেল আই অভিবাসনের খবর,news_query,0.9979,0.9979,True
+5296,bn-BD,news,news_query,অলি আমাকে বিবিসি থেকে জনপ্রিয় খবরগুলি দেন,qa_factoid,0.9774,0.0002,False
+5297,bn-BD,news,news_query,আমাকে প্রথম আলো থেকে জনপ্রিয় খবর দাও,qa_factoid,0.987,0.0003,False
+5301,bn-BD,weather,weather_query,কুড়ি-ই মার্চ দুই হাজার সতেরো সালের আবহাওয়া কেমন হবে,weather_query,0.9952,0.9952,True
+5307,bn-BD,datetime,datetime_query,এটা কি আজ বিশেই মার্চ,weather_query,0.9306,0.0005,False
+5318,bn-BD,play,play_music,দয়া করে কেবল তাহসান এর গান চালাও,play_music,0.9998,0.9998,True
+5321,bn-BD,weather,weather_query,আবহাওয়া দেখান,weather_query,0.9153,0.9153,True
+5328,bn-BD,play,play_music,রক চালান,qa_factoid,0.8878,0.003,False
+5339,bn-BD,weather,weather_query,নিম্ন ঠান্ডা অবস্থা,iot_hue_lightoff,0.4958,0.4723,False
+5341,bn-BD,datetime,datetime_query,সঠিক সময় আমাকে সতর্ক করুন,calendar_remove,0.3774,0.0293,False
+5347,bn-BD,play,play_music,techno গান চালান,play_music,0.9972,0.9972,True
+5358,bn-BD,datetime,datetime_query,বর্তমান সময়ে আপডেট করুন,qa_factoid,0.9465,0.0009,False
+5370,bn-BD,news,news_query,খালেদা জিয়া বিতর্ক কি,social_post,0.9882,0.004,False
+5378,bn-BD,play,play_music,s.,play_radio,0.1383,0.0381,False
+5401,bn-BD,play,play_music,গান,qa_factoid,0.9922,0.0,False
+5410,bn-BD,news,news_query,আমাকে সর্বশেষ বাংলার মুখ-এর শিরোনাম পড়ুন,recommendation_events,0.2932,0.0384,False
+5411,bn-BD,news,news_query,চ্যানেল আই শীর্ষ গল্প কি কি,play_podcasts,0.585,0.0086,False
+5413,bn-BD,play,play_music,গানটি বাজাও,cooking_recipe,0.963,0.0054,False
+5414,bn-BD,play,play_music,আপনি কি গান লাগাবেন,play_music,1.0,1.0,True
+5427,bn-BD,datetime,datetime_query,বাংলাদেশে এখন কি সময়,weather_query,0.9806,0.0115,False
+5433,bn-BD,weather,weather_query,পরে কি বৃষ্টি হবে,weather_query,0.9983,0.9983,True
+5439,bn-BD,weather,weather_query,রাতে কি আমার ছাতার দরকার হবে,iot_hue_lightoff,0.4494,0.2034,False
+5465,bn-BD,weather,weather_query,আমি কি আজকে আমার স্যান্ডেলগুলি পরতে পারি,qa_factoid,0.6984,0.0108,False
+5468,bn-BD,weather,weather_query,আমার কি সানগ্লাস নিতে হবে,email_query,0.2827,0.0075,False
+5524,bn-BD,weather,weather_query,এই মুহূর্তে আবহাওয়া,weather_query,0.9877,0.9877,True
+5529,bn-BD,weather,weather_query,কোন সময়ে আমি একটি হাইক করতে যেতে হবে,qa_factoid,0.2627,0.1216,False
+5557,bn-BD,play,play_music,আমি চাই রেগে,qa_factoid,0.9973,0.0001,False
+5577,bn-BD,weather,weather_query,সন্ধ্যায় খুব ঝড় হলে আমার পুরো কভার জ্যাকেট লাগবে,weather_query,0.9467,0.9467,True
+5578,bn-BD,weather,weather_query,আমার শীতকালে সকালে উষ্ণ মোজা লাগবে,weather_query,0.9991,0.9991,True
+5584,bn-BD,iot,iot_hue_lightoff,দয়া করে আলো বন্ধ করুন,calendar_remove,0.4656,0.4314,False
+5590,bn-BD,weather,weather_query,তাপমাত্রা দেখান,weather_query,0.5344,0.5344,True
+5593,bn-BD,play,play_music,মাইলস এর জ্বালা জ্বালা চালান,iot_hue_lightoff,0.198,0.0381,False
+5619,bn-BD,play,play_music,আগের গান চালাও,play_music,1.0,1.0,True
+5627,bn-BD,play,play_music,আমার জন্য বিটলস দ্বারা সঙ্গীত বাজান রেনেসাঁ,play_music,0.9509,0.9509,True
+5640,bn-BD,datetime,datetime_query,তারিখ দেখাও,datetime_query,0.9919,0.9919,True
+5650,bn-BD,weather,weather_query,আজ সন্ধ্যায় আবহাওয়ার জন্য জিজ্ঞাসা করুন,weather_query,0.9314,0.9314,True
+5658,bn-BD,play,play_music,আমার জন্য জেমসের দ্বারা সঙ্গীত বাজান,play_music,0.9986,0.9986,True
+5661,bn-BD,weather,weather_query,আমি কি এখন আমার রেইনকোট সাথে নিয়ে যাব,social_post,0.6949,0.0068,False
+5671,bn-BD,datetime,datetime_query,ঢাকাতে সময় কি,datetime_query,0.7322,0.7322,True
+5678,bn-BD,datetime,datetime_query,পনেরই আগস্ট সপ্তাহের কোন দিন,datetime_query,0.5498,0.5498,True
+5683,bn-BD,play,play_music,আমার প্লেলিস্ট পার্টি সং চালান,email_query,0.5006,0.0024,False
+5688,bn-BD,news,news_query,আমাকে খবরের শিরোনাম বলুন,qa_factoid,0.5205,0.1933,False
+5703,bn-BD,datetime,datetime_query,এখন সময়,datetime_query,0.8749,0.8749,True
+5707,bn-BD,play,play_music,আমার পছন্দের শুনুন,recommendation_events,0.9103,0.0001,False
+5721,bn-BD,weather,weather_query,আমাকে এই এলাকায় আগামীকাল আবহাওয়া দেখান,weather_query,0.998,0.998,True
+5722,bn-BD,weather,weather_query,এই সপ্তাহের সাত দিনের পূর্বাভাস দেখান,weather_query,0.9916,0.9916,True
+5732,bn-BD,weather,weather_query,আমি কি শীঘ্রই আমার গাড়ির টায়ারকে তুষার টায়ারে পরিবর্তন করব,qa_factoid,0.533,0.034,False
+5757,bn-BD,datetime,datetime_query,এক চতুর্থাংশ থেকে দুই,lists_remove,0.5319,0.0104,False
+5758,bn-BD,weather,weather_query,রাজধানীর আবহাওয়া কেমন,weather_query,0.9984,0.9984,True
+5774,bn-BD,datetime,datetime_query,বর্তমান সময় ঢাকা,weather_query,0.8985,0.0124,False
+5797,bn-BD,weather,weather_query,বের হওয়ার আগে রেইনকোট পরতে হবে,iot_hue_lightoff,0.4311,0.0072,False
+5813,bn-BD,play,play_music,নীরব গান বাজান,play_music,0.9999,0.9999,True
+5820,bn-BD,play,play_music,ইমরান মাহমুদের অনেক সাধনার পরে আমি,social_post,0.9169,0.0014,False
+5837,bn-BD,weather,weather_query,এই সপ্তাহের আবহাওয়া সম্পর্কে আমাকে বলুন,weather_query,0.9961,0.9961,True
+5871,bn-BD,weather,weather_query,আজকের চট্টগ্রামের জলবায়ু কেমন,qa_factoid,0.506,0.3719,False
+5886,bn-BD,news,news_query,গরম বিষয়,qa_factoid,0.5957,0.0024,False
+5919,bn-BD,news,news_query,পদ্মা সেতু প্রস্তাবনা প্রস্তাবের সর্বশেষ আপডেট কি,qa_factoid,0.9678,0.0008,False
+5930,bn-BD,news,news_query,চ্যানেল আই থেকে কোন ব্রেকিং নিউজ,qa_factoid,0.5261,0.1678,False
+5948,bn-BD,play,play_music,আমার প্লে লিস্ট থেকে কিছু ভালো গান বাজাও,play_music,0.5967,0.5967,True
+5953,bn-BD,weather,weather_query,এই শহর কি থাকার জন্য ব্যয়বহুল নাকি সস্তা,qa_factoid,0.265,0.0433,False
+5955,bn-BD,weather,weather_query,আইনশৃঙ্খলার দিক থেকে শহর কতটা নিরাপদ,qa_factoid,0.8506,0.0175,False
+5970,bn-BD,play,play_music,আমি তোমার জন্য মাটির ময়না শোনাতে চাই,iot_hue_lightoff,0.8861,0.0036,False
+5985,bn-BD,news,news_query,আমাকে চ্যানেল আই সর্বশেষ খবর দেখান,play_podcasts,0.5978,0.2533,False
+5996,bn-BD,weather,weather_query,আজ বিকেলে কি আমার স্নো বুট লাগবে,iot_hue_lightoff,0.8864,0.0143,False
+5997,bn-BD,datetime,datetime_query,কেন্দ্রীয় টাইম জোনে কতটা বাজে,qa_factoid,0.9797,0.0003,False
+6023,bn-BD,weather,weather_query,এটি কি উষ্ণ রাত হতে চলেছে,weather_query,0.9986,0.9986,True
+6024,bn-BD,weather,weather_query,আজকে কাজে কি আমি একটি সোয়েটার অথবা কোট নিয়ে যাব,lists_remove,0.2117,0.0222,False
+6025,bn-BD,weather,weather_query,আমার কি আজ বিকেলে সানস্ক্রিন লাগবে,weather_query,0.9458,0.9458,True
+6027,bn-BD,play,play_music,পছন্দের গানগুলো চালু কর,play_music,0.79,0.79,True
+6039,bn-BD,weather,weather_query,আগামীকাল কি বৃষ্টির দিন হবে,weather_query,0.9995,0.9995,True
+6041,bn-BD,iot,iot_hue_lightoff,আরে অলি প্লিজ আলো বন্ধ করুন,calendar_remove,0.6624,0.2449,False
+6045,bn-BD,play,play_music,বাছাই করা গানটি যোগ কর,play_music,0.9999,0.9999,True
+6050,bn-BD,weather,weather_query,আমার কি পরে সানস্ক্রিন লাগবে,lists_remove,0.1949,0.1535,False
+6055,bn-BD,iot,iot_hue_lightoff,আমি কি গ্যারেজে আলো চালু করে ছেড়ে এসেছি,iot_hue_lightoff,0.7224,0.7224,True
+6059,bn-BD,play,play_music,র‍্যাপ গান বাজাও,play_music,0.9998,0.9998,True
+6069,bn-BD,weather,weather_query,আজ কি ঝড় হবে,weather_query,0.9987,0.9987,True
+6073,bn-BD,iot,iot_hue_lightoff,বারান্দার আলো বন্ধ করুন,calendar_remove,0.7004,0.1317,False
+6074,bn-BD,iot,iot_hue_lightoff,রাত সাড়ে নয়টায় বসার ঘরের আলো নিভিয়ে দাও,iot_hue_lightoff,0.2724,0.2724,True
+6077,bn-BD,news,news_query,আমি আজ থেকে সর্বশেষ বিশ্বের খবর শুনতে চাই,news_query,0.9913,0.9913,True
+6093,bn-BD,weather,weather_query,আমার কি গাড়ির জানালার কাঁচ খোলা উচিত,lists_remove,0.5474,0.007,False
+6103,bn-BD,weather,weather_query,ঢাকার আজিমপুরে আজকের আবহাওয়া কেমন হবে,weather_query,0.9984,0.9984,True
+6116,bn-BD,weather,weather_query,এই সপ্তাহের আবহাওয়ার তথ্য,weather_query,0.469,0.469,True
+6118,bn-BD,datetime,datetime_query,আরে উত্তর ঢাকায় কয়টা বাজে,weather_query,0.9955,0.0002,False
+6127,bn-BD,weather,weather_query,আপনি কি একটি ছাতা সুপারিশ করেন,qa_factoid,0.3782,0.0089,False
+6129,bn-BD,news,news_query,বিশ্বের খবরের সাথে আমাকে আপ টু ডেট রাখুন,social_post,0.6453,0.0722,False
+6151,bn-BD,weather,weather_query,আমি আজকের আবহাওয়া জানতে চাই,weather_query,0.9984,0.9984,True
+6172,bn-BD,weather,weather_query,আজকের জন্য কি সানগ্লাসগুলি একটি ভাল পছন্দ,recommendation_events,0.9993,0.0,False
+6177,bn-BD,weather,weather_query,আমার কি আজ একটা ছাতা লাগবে,iot_hue_lightoff,0.959,0.0055,False
+6178,bn-BD,weather,weather_query,আমার কি জ্যাকেট পরা উচিত,qa_factoid,0.3899,0.0086,False
+6194,bn-BD,weather,weather_query,আজকে আবহাওয়া কেমন,weather_query,0.9953,0.9953,True
+6289,bn-BD,weather,weather_query,আরে আজকের আবহাওয়া কেমন,weather_query,0.9988,0.9988,True
+6370,bn-BD,calendar,calendar_query,আমার আসন্ন সপ্তাহ কেমন হবে,weather_query,0.9988,0.0001,False
+6372,bn-BD,news,news_query,উদ্ভিদ ভিত্তিক সংবাদ,social_post,0.9958,0.0012,False
+6403,bn-BD,transport,transport_query,কিভাবে কোথাও পেতে,qa_factoid,0.9608,0.0111,False
+6410,bn-BD,news,news_query,আজ বাংলাদেশে কি ঘটছে,social_post,0.7771,0.0682,False
+6411,bn-BD,weather,weather_query,আগামী বুধবার আবহাওয়া কেমন থাকবে,weather_query,0.9982,0.9982,True
+6539,bn-BD,calendar,calendar_set,আজকে আমার খাদ্যের শুরু হিসাবে চিহ্নিত করুন,iot_hue_lightoff,0.8239,0.0005,False
+6542,bn-BD,cooking,cooking_recipe,নরম পনির শক্ত থেকে ভাল,qa_factoid,0.9954,0.0003,False
+6618,bn-BD,news,news_query,আকর্ষণীয় খবর বলুন,social_post,0.9621,0.0282,False
+6682,bn-BD,news,news_query,ভোট আসছে,qa_factoid,0.457,0.0125,False
+6683,bn-BD,news,news_query,অর্থনৈতিক সম্পর্ক,qa_factoid,0.6703,0.0036,False
+6713,bn-BD,calendar,calendar_remove,বুধবার ব্যবসা মিটিং বাতিল,lists_remove,0.222,0.0402,False
+6722,bn-BD,calendar,calendar_query,আমার মনে রাখার মতো কি কিছু আছে,lists_query,0.6175,0.0091,False
+6725,bn-BD,calendar,calendar_set,বিকেলের জন্য আমার সময়সূচী সম্পর্কে আমাকে মনে করিয়ে দিন,calendar_remove,0.2284,0.0863,False
+6726,bn-BD,calendar,calendar_remove,পরবর্তী বৈঠক বাতিল করুন,calendar_remove,0.8524,0.8524,True
+6729,bn-BD,calendar,calendar_remove,রায়হানের বাড়িতে প্রাতঃরাশ বাতিল করুন,qa_factoid,0.9918,0.002,False
+6732,bn-BD,calendar,calendar_set,আমার শ্বশুর সাথে রবিবারের মিটিং রিমাইন্ডার যোগ করুন,social_post,0.5125,0.0069,False
+6744,bn-BD,calendar,calendar_set,আগামীকাল সকাল দশটার জন্য মুনীরা রুবি সাথে দেখা করুন,social_post,0.9973,0.0001,False
+6746,bn-BD,calendar,calendar_set,আমার ক্যালেন্ডারে জুনের প্রথম সপ্তাহকে ছুটির দিন হিসেবে সেট করুন,iot_hue_lightoff,0.5873,0.0124,False
+6747,bn-BD,calendar,calendar_query,কতগুলি reminders আছে,qa_factoid,0.9512,0.0004,False
+6755,bn-BD,calendar,calendar_remove,আমার ক্যালেন্ডার পরিষ্কার করুন,calendar_remove,0.4887,0.4887,True
+6761,bn-BD,calendar,calendar_remove,আমার সকাল নয়টার মিটিং মুছে ফেলুন,lists_remove,0.4647,0.3705,False
+6764,bn-BD,calendar,calendar_set,জানালা ধুতে আমাকে মনে করিয়ে দিন,iot_hue_lightoff,0.3035,0.0071,False
+6774,bn-BD,calendar,calendar_set,শুক্রবারের জন্য একটি ইভেন্ট সেট করুন,iot_hue_lightoff,0.5635,0.0012,False
+6785,bn-BD,calendar,calendar_query,আমার আগামী রিমাইন্ডারটা কি,email_query,0.2811,0.0122,False
+6789,bn-BD,calendar,calendar_set,শনিবার বিকেল চারটায় কাদেরের সঙ্গে দেখা করার কথা,social_post,0.9886,0.0005,False
+6798,bn-BD,calendar,calendar_remove,আমার পরবর্তী ইভেন্ট সরান,qa_factoid,0.4287,0.0163,False
+6801,bn-BD,calendar,calendar_query,এই শুক্রবার আমাকে আমার মিটিং দেখান,recommendation_events,0.9872,0.0001,False
+6806,bn-BD,calendar,calendar_query,এই শুক্রবার বিকালবেলা আমাকে আমার calendar event টি দেখাও,calendar_set,0.8326,0.0005,False
+6815,bn-BD,calendar,calendar_set,আমার মায়ের জন্মদিনের এক সপ্তাহ আগে আমাকে মনে করিয়ে দেবেন,email_sendemail,0.9532,0.0018,False
+6819,bn-BD,calendar,calendar_set,অলি আজ রাত নয়টায় নিউ মার্কেট একটা ভালো ব্যান্ড বাজছে আমি যেতে চাই,recommendation_events,0.4331,0.0122,False
+6836,bn-BD,calendar,calendar_set,আগামীকাল ছয়টায় মিটিং সম্পর্কে আমাকে মনে করিয়ে দিন,qa_factoid,0.1872,0.0238,False
+6850,bn-BD,calendar,calendar_query,আজকে আমার সময়সূচী লিস্ট করো,calendar_set,0.3556,0.0117,False
+6856,bn-BD,calendar,calendar_set,আমাকে আগামীকালের মিটিং এ দশটায় একটি অনুস্মারক বিজ্ঞপ্তি দিন,iot_hue_lightoff,0.3495,0.0209,False
+6860,bn-BD,calendar,calendar_query,কোন আসন্ন ঘটনা আছে,qa_factoid,0.9328,0.0014,False
+6865,bn-BD,calendar,calendar_set,দশটায় আগামীকালের মিটিং সম্পর্কে একটি বিজ্ঞপ্তি সেট আপ করুন,iot_hue_lightoff,0.6186,0.013,False
+6878,bn-BD,calendar,calendar_set,শুক্রবার দুপুর দুইটা ত্রিশে হিসাব বিভাগের সাথে একটি মিটিং নির্ধারণ করুন,cooking_recipe,0.062,0.0491,False
+6891,bn-BD,calendar,calendar_query,সেখানে কি সকালের শো-গুলি পাওয়া যায়,lists_query,0.4436,0.019,False
+6892,bn-BD,calendar,calendar_query,আপনি কি আমাকে মুভির সময়সূচীটি দিতে পারেন,recommendation_events,0.5207,0.0042,False
+6897,bn-BD,calendar,calendar_set,সপ্তম তারিখ সন্ধ্যা পাঁচটায় মুনীরাকে এ তুলে নিতে আমাকে মনে করিয়ে দিন,datetime_query,0.6148,0.0024,False
+6901,bn-BD,calendar,calendar_set,সভা সম্পর্কে আগামীকাল দশটায় আমাকে মনে করিয়ে দিন,qa_factoid,0.4379,0.019,False
+6902,bn-BD,calendar,calendar_set,আমার তেল পরিবর্তন করার জন্য পরের মাসে একটি অনুস্মারক সেট আপ করুন,cooking_recipe,0.4916,0.0092,False
+6909,bn-BD,calendar,calendar_query,একটার পরে ও বিকাল তিনটার আগে কি ঘটতে চলেছে,weather_query,0.3942,0.0319,False
+6918,bn-BD,calendar,calendar_remove,ক্যালেন্ডার থেকে ঘটনা মুছে ফেলুন,qa_factoid,0.9906,0.0026,False
+6923,bn-BD,calendar,calendar_set,মঙ্গলবার সকালে নথিপত্র ছাপানোর জন্য একটি রিমাইন্ডার সেট করুন,calendar_remove,0.2315,0.0128,False
+6926,bn-BD,calendar,calendar_query,এটা কি শুক্রবার,weather_query,0.9972,0.0001,False
+6928,bn-BD,calendar,calendar_remove,সমস্ত ইভেন্টগুলি মুছে ফেলুন,lists_remove,0.7681,0.0725,False
+6936,bn-BD,calendar,calendar_set,আমাকে মনে করিয়ে দিন সকাল নয়টায় আমার ওষুধ খেতে,cooking_recipe,0.7868,0.0061,False
+6937,bn-BD,calendar,calendar_set,বসের সাথে লাঞ্চ করার জন্য দুপুরের জন্য রিমাইন্ডার সেট করুন,cooking_recipe,0.7928,0.001,False
+6946,bn-BD,calendar,calendar_query,পরের বুধবারের জন্য কি কোনো মিটিং আছে,cooking_recipe,0.2588,0.0151,False
+6958,bn-BD,calendar,calendar_remove,আমার ক্যালেন্ডারে কোন ইভেন্ট নেই তা নিশ্চিত করুন,email_sendemail,0.6096,0.0035,False
+6959,bn-BD,calendar,calendar_set,আমার মিটিং শুরু হওয়ার এক ঘন্টা আগে আমাকে মনে করিয়ে দিন,email_query,0.2274,0.0119,False
+6962,bn-BD,calendar,calendar_set,আমি কি জানতে পারি পরের শনিবার আমাকে ছ'টায় কি করতে হবে,lists_query,0.1233,0.0294,False
+6964,bn-BD,calendar,calendar_set,আপনি কি আমার বসের সাথে আমার পরবর্তী মিটিং এর এক ঘন্টা আগে মনে করিয়ে দিতে পারেন,recommendation_events,0.3235,0.0192,False
+6967,bn-BD,calendar,calendar_query,আপনি এই বিষয়ে তথ্য পরীক্ষা করতে পারেন,qa_factoid,0.4333,0.0204,False
+6968,bn-BD,calendar,calendar_query,আমি আজকের জন্য সমস্ত মিটিং নিশ্চিত করতে চাই যে ব্যক্তিকে আমন্ত্রণ জানাতে পারেন,recommendation_events,0.4293,0.0022,False
+6973,bn-BD,calendar,calendar_set,আগামীকাল ঢাকাতে একটি সম্মেলনের অনুস্মারক যোগ করুন,iot_hue_lightoff,0.8969,0.0028,False
+6974,bn-BD,calendar,calendar_set,আগামীকাল আমার ঢাকা একটি অনুষ্ঠান কাজ আছে তা মনে করিয়ে দিব,qa_factoid,0.892,0.0015,False
+6980,bn-BD,calendar,calendar_query,আমাকে to do list দিন,lists_query,0.9863,0.0,False
+6992,bn-BD,calendar,calendar_query,ভবিষ্যতের ইভেন্টগুলি দেখান,recommendation_events,0.2843,0.0125,False
+6994,bn-BD,calendar,calendar_set,আমাকে মনে করিয়ে দিন,qa_factoid,0.356,0.0032,False
+6997,bn-BD,calendar,calendar_remove,সফল ইভেন্ট সরান,qa_factoid,0.9998,0.0,False
+7000,bn-BD,calendar,calendar_set,নতুন ইভেন্ট,iot_hue_lightoff,0.2194,0.0229,False
+7004,bn-BD,calendar,calendar_set,প্রতি বছর এই তারিখে আমার ক্যালেন্ডারে একটি অনুস্মারক যোগ করুন,datetime_query,0.8734,0.0055,False
+7013,bn-BD,calendar,calendar_query,কখন ইভেন্ট শুরু হতে যাচ্ছে,weather_query,0.9778,0.0006,False
+7014,bn-BD,calendar,calendar_query,আমাকে আজকের ইভেন্টের সময়সূচী দিন,datetime_query,0.8935,0.0002,False
+7025,bn-BD,calendar,calendar_remove,ক্যালেন্ডার থেকে নতুন বছর সরান,iot_hue_lightoff,0.2341,0.0783,False
+7026,bn-BD,recommendation,recommendation_events,এই সপ্তাহে আমার শহরে কি ঘটনা ঘটছে,news_query,0.588,0.0068,False
+7039,bn-BD,calendar,calendar_set,আগামী মঙ্গলবার সকাল এগারোটায় মুনীরার সাথে একটি মিটিং সেট করুন,cooking_recipe,0.6507,0.014,False
+7044,bn-BD,calendar,calendar_set,দয়া করে বিকেল পাঁচটায় আমাকে প্রস্তুত হওয়ার জন্য মনে করিয়ে দেবেন,email_sendemail,0.863,0.0064,False
+7046,bn-BD,calendar,calendar_set,সাত এ একুশে তাল মিটিং যোগ করুন,iot_hue_lightoff,0.9687,0.0013,False
+7055,bn-BD,calendar,calendar_set,বৃহস্পতিবার সকাল এগারোটায় বিমলের সাথে একটি মিটিং নির্ধারণ করুন,recommendation_events,0.1667,0.0318,False
+7057,bn-BD,calendar,calendar_set,বুধবার দুপুরে কুনালের সাথে মধ্যাহ্ন ভোজের মিটিং এর সময়সূচী নির্ধারণ করুন,calendar_remove,0.3399,0.1379,False
+7061,bn-BD,calendar,calendar_set,শুভ এর সাথে আমার শুক্রবারের বৈঠকের চব্বিশ ঘন্টা আগে আমাকে একটি অনুস্মারক দিন,social_post,0.2226,0.0329,False
+7073,bn-BD,calendar,calendar_set,আমার ক্যালেন্ডারে আমার পরবর্তী ইভেন্ট খুজুন এবং আমায় আগে জানান,email_sendemail,0.9994,0.0,False
+7080,bn-BD,calendar,calendar_remove,আমার ক্যালেন্ডারে সবকিছু বাতিল করুন,lists_remove,0.4599,0.2107,False
+7087,bn-BD,calendar,calendar_remove,আমার ক্যালেন্ডার থেকে আগামীকালের মিটিং বাতিল করুন,calendar_remove,0.3368,0.3368,True
+7098,bn-BD,calendar,calendar_set,আমার ক্যালেন্ডারে আমার গাড়ির পেমেন্ট বারো তারিখে যোগ করুন,datetime_query,0.358,0.0041,False
+7100,bn-BD,calendar,calendar_set,আমার গাড়ির আগের দিন আমাকে মনে করিয়ে দিন,weather_query,0.3187,0.0204,False
+7111,bn-BD,calendar,calendar_query,একত্রিশে মার্চ আমার ডাক্তারের অ্যাপয়েন্টমেন্ট কইটায় আছে,email_sendemail,0.9993,0.0,False
+7113,bn-BD,calendar,calendar_query,এই সপ্তাহান্তে শহরের কেন্দ্রস্থলে কি কোনো ইভেন্টগুলি আছে,lists_query,0.5359,0.0078,False
+7117,bn-BD,calendar,calendar_remove,আমার ক্যালেন্ডার থেকে ঊনিশতম তারিখের ঘটনাগুলি থেকে মুক্তি পান,datetime_query,0.7639,0.0159,False
+7120,bn-BD,calendar,calendar_query,আজকে আমার কি কি কর্মসূচী রয়েছে,recommendation_events,0.9915,0.0002,False
+7122,bn-BD,calendar,calendar_set,আপনি এই ঘটনা পুনরাবৃত্তি করতে পারেন,qa_factoid,0.8728,0.0064,False
+7140,bn-BD,calendar,calendar_set,লাঞ্চ মিটিংয়ের এক ঘন্টা আগে আমাকে অবহিত করার জন্য একটি অনুস্মারক সেট করুন,iot_hue_lightoff,0.9538,0.0012,False
+7141,bn-BD,calendar,calendar_query,এই প্রোগ্রাম কি সিলিউল করা,cooking_recipe,0.9927,0.0003,False
+7151,bn-BD,calendar,calendar_set,প্রত্যেক বিজোড় সংখ্যার রবিবারের জন্য রিমাইন্ডার সেট করুন,iot_hue_lightoff,0.4655,0.0069,False
+7152,bn-BD,calendar,calendar_set,প্রতিদিন সাড়ে বারোটায় লাঞ্চ সেট করুন,cooking_recipe,0.8377,0.0015,False
+7161,bn-BD,calendar,calendar_set,ভবিষ্যতে এই ঘটনা মনে করিয়ে দিন,qa_factoid,0.8432,0.0044,False
+7170,bn-BD,calendar,calendar_set,আজ আমার মায়ের জন্মদিন প্রতি বছর এই তারিখে আমাকে নোটিফিকেশন দিন,datetime_query,0.8789,0.0028,False
+7181,bn-BD,calendar,calendar_set,আমাকে বৃহস্পতিবার সকাল ছয়টা জাগিয়ে তুলুন যাতে আমি মিটিংয়ের জন্য সময় পাই,iot_hue_lightoff,0.4703,0.0255,False
+7185,bn-BD,calendar,calendar_query,ডাক্তার অনিমেষ এর সাথে আমার পরের অ্যাপয়েন্টমেন্ট কখন,qa_factoid,0.4387,0.0154,False
+7189,bn-BD,calendar,calendar_query,আমার কি কিছু পরিকল্পনা আছে,recommendation_events,0.6506,0.0056,False
+7194,bn-BD,calendar,calendar_set,আমি আগামীকাল একটি মিটিং করছি এটা সেট,iot_hue_lightoff,0.3504,0.0096,False
+7196,bn-BD,calendar,calendar_set,পনেরোই মার্চ রাহুলের সাথে আমার মিটিং-টি আমাকে মনে করান,recommendation_events,0.6152,0.0033,False
+7199,bn-BD,calendar,calendar_set,পরের সপ্তাহের ইংরেজি ফাইনালের আগে তিন দুই এবং এক ঘণ্টার জন্য একটি বিজ্ঞপ্তি সেট করুন,cooking_recipe,0.556,0.0102,False
+7209,bn-BD,calendar,calendar_set,আপনি কি আমাকে মনে করিয়ে দিতে পারেন যে আমি মঙ্গলবার আবর্জনা সরাতে পারি,qa_factoid,0.576,0.0066,False
+7219,bn-BD,calendar,calendar_query,আপনি কি আগামীকাল meeting সম্পর্কে reminder রেখেছেন,email_sendemail,0.9986,0.0,False
+7224,bn-BD,calendar,calendar_query,কোথায় যে ভেন্যুতে টমের বিয়ে হতে চলেছে,social_post,0.5729,0.002,False
+7232,bn-BD,calendar,calendar_query,পরের সপ্তাহের ঘটনা কি,social_post,0.4514,0.0251,False
+7257,bn-BD,calendar,calendar_set,দয়া করে আমার মা-কে আধ ঘণ্টার ভিতরে কল করার জন্য মনে করান,qa_factoid,0.5113,0.0152,False
+7258,bn-BD,calendar,calendar_set,এক ঘণ্টা পরে আমার বসকে ইমেইল পাঠানোর জন্য আমাকে স্মরণ করান,email_sendemail,1.0,0.0,False
+7262,bn-BD,calendar,calendar_set,আগামীকাল সাক্ষাতের জন্য একটি বিজ্ঞপ্তি অনুস্মারক তৈরি করুন,social_post,0.8956,0.0015,False
+7266,bn-BD,calendar,calendar_query,আমার মুলতুবি কাজ কি,cooking_recipe,0.9985,0.0,False
+7278,bn-BD,calendar,calendar_set,চব্বিশ ঘন্টা আগে রিতার জন্মদিন সম্পর্কে মনে করান,qa_factoid,0.987,0.0003,False
+7287,bn-BD,calendar,calendar_set,আমার বার্ষিকীর জন্য একদিন আগে আমাকে মনে করিয়ে দেবেন,email_sendemail,0.9995,0.0,False
+7289,bn-BD,calendar,calendar_remove,রায়হানের সাথে সব ইভেন্টগুলি মুছে ফেলুন,lists_remove,0.6262,0.079,False
+7291,bn-BD,calendar,calendar_set,আগামীকাল সকাল দশ থেকে এক ঘন্টা অবরোধ,qa_factoid,0.7562,0.0014,False
+7292,bn-BD,calendar,calendar_set,আগামীকাল আমার ক্যালেন্ডার চিহ্নিত করে সন্ধ্যা চারটা থেকে ছয়টা পর্যন্ত আমি অনুপলব্ধ,iot_hue_lightoff,0.9951,0.0002,False
+7293,bn-BD,calendar,calendar_set,শনিবারের জন্য এক ঘণ্টার অ্যাপয়েন্টমেন্ট নির্ধারণ করুন,calendar_remove,0.4485,0.0249,False
+7294,bn-BD,calendar,calendar_remove,আমার ক্যালেন্ডার থেকে রাহুল অ্যাডামসের সাথে অ্যাপয়েন্টমেন্টটি সরিয়ে দিন,iot_hue_lightoff,0.2429,0.0864,False
+7295,bn-BD,calendar,calendar_remove,দয়া করে আমার ক্যালেন্ডার সাফ করুন,iot_hue_lightoff,0.9438,0.0002,False
+7314,bn-BD,calendar,calendar_query,আজকের জন্য কি,cooking_recipe,0.5935,0.0021,False
+7316,bn-BD,calendar,calendar_query,আমার কি কোনো অ্যাপয়েন্টমেন্ট আছে,qa_factoid,0.6443,0.0037,False
+7319,bn-BD,calendar,calendar_query,দুইটা চল্লিশ p. m. থেকে আজ কি হচ্ছে,weather_query,0.4272,0.0055,False
+7353,bn-BD,email,email_query,শুধু আমাকে ঢাকার আগামী সপ্তাহের আবহাওয়া জানতে দিন,weather_query,0.997,0.0001,False
+7355,bn-BD,calendar,calendar_set,আমাকে ছয়টায় ঘটিকায় স্টু চেক করতে মনে করিয়ে দিন,iot_hue_lightoff,0.3763,0.0191,False
+7380,bn-BD,calendar,calendar_query,ক্লায়েন্টদের সাথে আজ মিটিং দেখান দয়া করে,social_post,0.892,0.0006,False
+7397,bn-BD,calendar,calendar_query,পরের তিন মাসের জন্য কোন ইভেন্টের পরিকল্পনা আছে কি,lists_query,0.4589,0.019,False
+7449,bn-BD,calendar,calendar_set,এই ব্যক্তির সাথে একটি মিটিং শিডিউল করুন,social_post,0.9043,0.001,False
+7450,bn-BD,calendar,calendar_set,আমি এই ব্যক্তির সাথে একটি মিটিং চাই,social_post,0.6453,0.0057,False
+7455,bn-BD,calendar,calendar_set,আগামীকাল পার্টি সম্পর্কে আমাকে মনে করিয়ে দিন,email_sendemail,0.6682,0.0023,False
+7461,bn-BD,calendar,calendar_set,ক্যালেন্ডার ইভেন্টে লোকেদের আমন্ত্রণ জানান,recommendation_events,0.9587,0.0002,False
+7463,bn-BD,calendar,calendar_set,আমার গ্রুপকে ইনফর্ম করো যে meeting আগামীকাল হবে,email_sendemail,0.9997,0.0,False
+7467,bn-BD,calendar,calendar_query,আমাকে ইভেন্ট গুলোর সময় দিন,datetime_query,0.7712,0.0019,False
+7477,bn-BD,calendar,calendar_set,প্রতি বছরের পঞ্চম মার্চ বিবাহ বার্ষিকী উপহার ব্যবস্থা করার জন্য আমাকে মনে করিয়ে দিন,email_sendemail,0.3116,0.052,False
+7496,bn-BD,calendar,calendar_query,আমার কি আজ অ্যাপয়েন্টমেন্ট আছে,qa_factoid,0.4949,0.0108,False
+7499,bn-BD,calendar,calendar_set,আগামীকাল সভার জন্য নতুন সময়সূচী তৈরি করুন,calendar_remove,0.528,0.4322,False
+7500,bn-BD,calendar,calendar_remove,আপনি কি পরবর্তী ঘটনা মুছে ফেলতে পারেন,qa_factoid,0.7294,0.0495,False
+7502,bn-BD,calendar,calendar_query,রহিমের সাথে বিকাল চারটার মিটিংয়ের বিষয়বস্তু কি,social_post,0.8768,0.0015,False
+7503,bn-BD,calendar,calendar_query,শুক্রবার দুপুর একটায় রামপুরা এর কোথায় সেই মিটিং,social_post,0.2901,0.0361,False
+7520,bn-BD,calendar,calendar_set,আমাকে প্রতিদিন দুপুর দুইটায় দুপুরের খাবারের জন্য মনে করিয়ে দিন,cooking_recipe,0.5019,0.036,False
+7524,bn-BD,calendar,calendar_query,আজকে বিকাল পাঁচটা বিশ মিনিটে যে মিটিং হয়েছিল তাতে মেহতা কত ইনভেস্ট করবেন আমার কোম্পানীতে,qa_factoid,0.6101,0.0176,False
+7528,bn-BD,calendar,calendar_set,তেরোই জুন নির্বাচনের ফলাফলের দিন এটি নির্ধারণ করুন,datetime_query,0.9032,0.0003,False
+7531,bn-BD,calendar,calendar_set,আমার বেতন দিন যোগ করুন,qa_factoid,0.4807,0.0028,False
+7539,bn-BD,calendar,calendar_query,আমার কি কোন কাজ আছে,cooking_recipe,0.997,0.0001,False
+7542,bn-BD,calendar,calendar_set,আগামীকাল এই সম্পর্কে আমাকে মনে করিয়ে দিন,email_sendemail,0.2763,0.007,False
+7549,bn-BD,calendar,calendar_set,আমি তিনটা পর্যন্ত মিটিং চাই,qa_factoid,0.3603,0.0154,False
+7556,bn-BD,calendar,calendar_set,প্রত্যেক শুক্রবার আমাকে মুদিসামগ্রী কেনার কথা মনে করিয়ে দিতে আমার ক্যালেন্ডার সেট করুন,recommendation_events,0.4045,0.0173,False
+7557,bn-BD,calendar,calendar_set,ক্যালেন্ডারে অবস্থানের একটি অনুস্মারক তৈরি করুন,cooking_recipe,0.3869,0.0022,False
+7559,bn-BD,calendar,calendar_set,আজ রাত আটটায় ধোঁয়া কাপড় পিকআপ করুন নিতে হবে,iot_hue_lightoff,0.592,0.0145,False
+7563,bn-BD,calendar,calendar_set,আগামীকাল এক ঘন্টা আগে মিটিং সম্পর্কে আমাকে মনে করিয়ে দিন,qa_factoid,0.2941,0.0097,False
+7565,bn-BD,calendar,calendar_set,মিটিং রিমাইন্ডার করুন,cooking_recipe,0.23,0.0039,False
+7567,bn-BD,calendar,calendar_set,জন্মদিন,qa_factoid,0.3895,0.0088,False
+7569,bn-BD,calendar,calendar_query,আগামীকালের জন্য পরিকল্পনা,cooking_recipe,0.2882,0.0273,False
+7570,bn-BD,calendar,calendar_query,আজকের পরিকল্পনা কি,cooking_recipe,0.3567,0.0161,False
+7583,bn-BD,calendar,calendar_set,বন্ধু আপনার ভালবাসার ইভেন্ট যোগ করছে,social_post,0.9643,0.0008,False
+7596,bn-BD,calendar,calendar_set,অনুগ্রহ করে খুলনাতে রায়হানের সাথে দুপুরে একটি মিটিং শিডিউল করুন,social_post,0.8148,0.0051,False
+7598,bn-BD,calendar,calendar_set,অনুগ্রহ করে পরবর্তী উপলব্ধ মিটিং দিনে জারিফের সাথে সন্ত্রাসবাদ নিয়ে আলোচনা করার জন্য একটি মিটিং সেট করুন,iot_hue_lightoff,0.0796,0.0448,False
+7606,bn-BD,calendar,calendar_set,আগামীকাল তিনটায় হাসিনা এর সাথে দেখা করুন,social_post,0.995,0.0001,False
+7609,bn-BD,calendar,calendar_remove,মঙ্গলবারের জন্য মিটিং-য়ের রিমাইন্ডারগুলি মুছে ফেলুন,lists_remove,0.7637,0.0033,False
+7613,bn-BD,calendar,calendar_query,আসন্ন ঘটনা কি ছিল,qa_factoid,0.9576,0.0009,False
+7628,bn-BD,calendar,calendar_set,আমি যখন লাইব্রেরিতে থাকবো তখন একটি নতুন লাইব্রেরি কার্ড পাওয়ার জন্য আমাকে মনে করান,qa_factoid,0.1726,0.0298,False
+7654,bn-BD,calendar,calendar_set,এপ্রিল মাসের কুড়ি তারিখ আমার ভাইয়ের জন্মদিন হিসাবে চিহ্নিত করুন,datetime_query,0.9894,0.0001,False
+7655,bn-BD,calendar,calendar_set,আমার ভাইয়ার জন্মদিন হিসাবে বিশ এপ্রিল জন্য একটি reminder যোগ করুন,email_sendemail,0.9896,0.0001,False
+7660,bn-BD,calendar,calendar_remove,আজ তিনটার পর আমার সমস্ত অ্যাপয়েন্টমেন্ট বাতিল করুন এবং আমাকে বিস্তারিত জানান,lists_remove,0.6623,0.2148,False
+7662,bn-BD,calendar,calendar_query,আপনি কি আমার আজকের মিটিং তালিকা করতে পারেন,recommendation_events,0.6803,0.0043,False
+7664,bn-BD,calendar,calendar_set,রায়হানের সাথে লাঞ্চ যোগ করুন,social_post,0.3308,0.0053,False
+7666,bn-BD,calendar,calendar_set,আপনি কি চিহ্নিত করবেন যে আগামীকাল তিনটায় পাবেলের সাথে আমার একটি মিটিং আছে,iot_hue_lightoff,0.3678,0.0099,False
+7680,bn-BD,calendar,calendar_remove,আমার ক্যালেন্ডারে বর্তমান মাসের জন্য আমার সমস্ত ফুটবল ইভেন্টগুলি মুছে দিন,cooking_recipe,0.7244,0.0797,False
+7686,bn-BD,calendar,calendar_set,উত্সব ক্যালেন্ডারে মঈন আলী এবং শুভমান রহমান অন্তর্ভুক্ত করুন,social_post,0.5821,0.0018,False
+7690,bn-BD,calendar,calendar_query,আমার কি আসছে,news_query,0.9233,0.0008,False
+7693,bn-BD,calendar,calendar_query,আমার কি একুশের জন্য কিছু পরিকল্পনা আছে,cooking_recipe,0.4011,0.0165,False
+7697,bn-BD,calendar,calendar_set,এই জন্য একটি অনুস্মারক সেট করুন,iot_hue_lightoff,0.4938,0.0008,False
+7711,bn-BD,calendar,calendar_set,হেই আমার অন্যান্য সমস্ত সভা বাতিল করে এবং দোসরা মার্চ এর আহ্বান জানায় কারণ এটি রায়হানের জন্মদিন এটিকে আপনার ক্যালেন্ডারের একটি event হিসাবে ট্যাগ করে,calendar_remove,0.9508,0.0014,False
+7712,bn-BD,calendar,calendar_set,আরে অলি আমার অন্য সব মিটিং বাতিল করুন এবং দোসরা মার্চ এর জন্য আহ্বান করুন কারণ এটি রায়হানের জন্মদিন আপনার ক্যালেন্ডারে একটি ইভেন্ট হিসাবে ট্যাগ করুন,lists_remove,0.8572,0.0034,False
+7718,bn-BD,calendar,calendar_set,এই শুক্রবারের মিটিংয়ের জন্য জনাব ফরমান বাবুকে একটি মিটিং আমন্ত্রণ পাঠান এবং শুক্রবার বিকালবেলা এর জন্য আমার ক্যালেন্ডার ব্লক করুন,email_sendemail,0.9818,0.0,False
+7726,bn-BD,calendar,calendar_set,প্রতি সোমবার আমাকে কিছু করতে হবে এটার জন্য একটি অনুস্মারক সেট করতে হবে,cooking_recipe,0.5441,0.0174,False
+7730,bn-BD,calendar,calendar_set,আমার তোমাকে পরের সোমবার চিহ্নিত করার জন্য প্রয়োজন,iot_hue_lightoff,0.9963,0.0002,False
+7741,bn-BD,calendar,calendar_remove,শনিবারের জন্য আমার ক্যালেন্ডার সাফ করুন,iot_hue_lightoff,0.6946,0.0057,False
+7751,bn-BD,calendar,calendar_set,আমাকে প্রতি সোমবার আবর্জনা বের করার জন্য মনে করিয়ে দিন,cooking_recipe,0.1988,0.0128,False
+7762,bn-BD,calendar,calendar_query,আমার কি কি রিমাইন্ডারগুলি আছে,recommendation_events,0.448,0.0109,False
+7767,bn-BD,calendar,calendar_set,মিরপুর পার্কে চৌঠা ফেব্রুয়ারী দুপুর দুটোয় ক্যালেন্ডারে অনুশীলন যোগ করুন,cooking_recipe,0.2102,0.038,False
+7768,bn-BD,calendar,calendar_set,অনুগ্রহ করে চার ফেব্রুয়ারি মতিঝিল পার্কে দুপুর দুইটায় অনুশীলন যোগ করুন,qa_factoid,0.655,0.0126,False
+7774,bn-BD,calendar,calendar_set,আগামীকালের জন্য আমার ক্যালেন্ডারে কেনাকাটা যোগ করুন,cooking_recipe,0.2727,0.0099,False
+7777,bn-BD,calendar,calendar_query,আজকে আমার কি একটি অ্যাপয়েন্টমেন্ট আছে,qa_factoid,0.814,0.0031,False
+7778,bn-BD,calendar,calendar_set,রবিবার বিকেলে আমি কি করছি তা আমাকে মনে করিয়ে দিন,email_query,0.5364,0.0192,False
+7808,bn-BD,calendar,calendar_set,আমাকে মনে করিয়ে দাও আমি মাকে হেয়ারড্রেসারের বৃহস্পতিবারে এক হাজার একশত সকালে যাব,weather_query,0.2965,0.0271,False
+7817,bn-BD,calendar,calendar_query,এই তারিখ এর ব্যাপারে কি এট সত্য,qa_factoid,0.9999,0.0,False
+7820,bn-BD,calendar,calendar_remove,ক্যালেন্ডারের সমস্ত ইভেন্ট মুছে ফেলুন,lists_remove,0.3673,0.1225,False
+7836,bn-BD,calendar,calendar_remove,সমস্ত ইভেন্টগুলি মুছে ফেলুন,lists_remove,0.7681,0.0725,False
+7843,bn-BD,calendar,calendar_set,আমাকে দুই ঘন্টার মধ্যে জানান যে আমাকে আমার বেহালা পাঠের জন্য রওনা দিতে হবে যা বিকাল চার টা নিউ মার্কেট এ,email_sendemail,0.9721,0.0011,False
+7844,bn-BD,calendar,calendar_query,আমি কি অনুস্মারক সেট করেছি,iot_hue_lightoff,0.7983,0.0011,False
+7847,bn-BD,calendar,calendar_set,নিবন্ধন খুললে আমাকে সতর্ক করুন,play_radio,0.2925,0.0153,False
+7851,bn-BD,calendar,calendar_set,আজ দুপুরে আমার মিটিং আছে,cooking_recipe,0.1941,0.0212,False
+7863,bn-BD,calendar,calendar_set,আজ বিকেল পাঁচটায় নৈশভোজ শুরু করতে আমাকে মনে করিয়ে দিন,social_post,0.0848,0.0423,False
+7870,bn-BD,calendar,calendar_remove,ক্যালেন্ডার থেকে ইভেন্ট মুছুন,cooking_recipe,0.3324,0.0466,False
+7876,bn-BD,news,news_query,গত দুই মাস ধরে যা হচ্ছে,datetime_query,0.4047,0.0706,False
+7878,bn-BD,calendar,calendar_remove,আমার ক্যালেন্ডার মুছে দিন,iot_hue_lightoff,0.6705,0.0466,False
+7879,bn-BD,calendar,calendar_query,আমার পরবর্তী তিন ইভেন্টগুলি কি,lists_query,0.3125,0.009,False
+7889,bn-BD,calendar,calendar_query,আজ রাতে ফুটবল ম্যাচ কয়টায় হবে,weather_query,0.8045,0.0051,False
+7890,bn-BD,calendar,calendar_remove,আজকের চুল কাটা মুছে দিন,lists_remove,0.5021,0.4075,False
+7891,bn-BD,calendar,calendar_remove,আজ রাতে ডিনার বাতিল করুন,calendar_remove,0.9541,0.9541,True
+7892,bn-BD,calendar,calendar_remove,আজ পরবর্তী ঘটনা মুছে ফেলুন,qa_factoid,0.5489,0.2694,False
+7894,bn-BD,calendar,calendar_set,আমাকে এক ঘন্টার মধ্যে নির্বাচন সম্পর্কে একটি আপডেট দিন,qa_factoid,0.8498,0.0036,False
+7902,bn-BD,calendar,calendar_set,আগামিকাল দুপুর দুইটায় আমার এবং রুবেলের মাঝে মিটিং সেট করেন,cooking_recipe,0.2946,0.0262,False
+7908,bn-BD,calendar,calendar_query,আমাকে কি আজ কিছু করতে হবে,cooking_recipe,0.693,0.0101,False
+7912,bn-BD,calendar,calendar_remove,এলেক্সা সুমিতের সাথে আমার রাতের খাবার ডিলিট করে দাও,cooking_recipe,0.9343,0.003,False
+7916,bn-BD,calendar,calendar_set,সন্ধ্যা ছ-টায় আবর্জনা বের করার জন্য আমাকে মনে করান,qa_factoid,0.5869,0.0105,False
+7918,bn-BD,calendar,calendar_set,ক্যালেন্ডার event রহমান সাহেব আমন্ত্রণ পাঠান,social_post,0.7359,0.0028,False
+7919,bn-BD,calendar,calendar_set,নতুন মিটিং হুমায়ন এবং শিমু যোগ করুন উপস্থিতি হিসাবে,qa_factoid,0.0943,0.0448,False
+7922,bn-BD,calendar,calendar_remove,টাস্ক ওপেন কর ভবিষ্যৎ ইভেন্ট ডিলেট কর,cooking_recipe,0.6639,0.0225,False
+7927,bn-BD,calendar,calendar_query,এই সপ্তাহে আমাকে কি করতে হবে,cooking_recipe,0.2224,0.0282,False
+7946,bn-BD,calendar,calendar_query,চট্টগ্রামে আসন্ন কনসার্টগুলি কী কী,iot_hue_lightoff,0.6125,0.0076,False
+7953,bn-BD,calendar,calendar_remove,শনিবার আমার ডাক্তারের সাথে আমার নিয়োগ সরিয়ে দিন,lists_remove,0.1183,0.0982,False
+7955,bn-BD,calendar,calendar_set,আমার ক্যালেন্ডারে একটি পুনরাবৃত্তি প্যাটার্ন এই ঘটনা রাখুন,iot_hue_lightoff,0.0674,0.049,False
+7956,bn-BD,calendar,calendar_set,আপনি এই ঘটনা পুনরাবৃত্তি করতে পারেন,qa_factoid,0.8728,0.0064,False
+7966,bn-BD,calendar,calendar_query,আমি কি তোমাকে কিছু মনে করিয়ে দিতে বলেছিলাম,social_post,0.3689,0.0069,False
+7970,bn-BD,calendar,calendar_set,একটি উপহার কিনতে সময়মত বিবাহের কথা মনে করিয়ে দিন,lists_remove,0.2271,0.0179,False
+7971,bn-BD,calendar,calendar_set,ইভেন্টের দুই দিনের পূর্বে একটি অনুস্মারক সেট করুন,cooking_recipe,0.9651,0.0002,False
+7975,bn-BD,calendar,calendar_query,ইভেন্টে কি ভ্যালেট পরিষেবা আছে,recommendation_events,0.6719,0.005,False
+7978,bn-BD,calendar,calendar_query,আমি আগামীকাল দুপুরবেলা কি কি রিমাইন্ডারগুলি নির্ধারিত করেছি,lists_query,0.1823,0.0286,False
+7980,bn-BD,calendar,calendar_set,আমার কোন অনুষ্ঠান হলে আমাকে বলুন,social_post,0.3244,0.0068,False
+7981,bn-BD,calendar,calendar_set,মিটিংয়ের আগে একটি সতর্কতা পাঠান,lists_remove,0.2468,0.0356,False
+7993,bn-BD,calendar,calendar_remove,আমার ক্যালেন্ডার থেকে সমস্ত ইভেন্ট মুছে ফেলুন,lists_remove,0.6299,0.1055,False
+8001,bn-BD,calendar,calendar_remove,আমি শুক্রবারের জন্য নির্ধারিত চুল কাটা মুছতে পারি,qa_factoid,0.7075,0.0068,False
+8004,bn-BD,calendar,calendar_set,ডরোথি আমার সাথে বিবাহবিচ্ছেদ চায় তা নিয়ে কথা বলার জন্য যখন আমি অ্যাভেলেবল থাকবো তখন একটি মিটিংয়ের ব্যবস্থা করুন,social_post,0.5561,0.015,False
+8005,bn-BD,calendar,calendar_set,বিশ তারিখ সোমবার আমাকে রায়হানের সাথে আমাদের সপ্তাহ শেষের ভ্রমণ সম্পর্কে কথোপকথন করতে হবে,social_post,0.9246,0.0028,False
+8013,bn-BD,calendar,calendar_query,পরের মাসের জন্য আমার মিটিং দেখাও,iot_hue_lightoff,0.687,0.0134,False
+8029,bn-BD,calendar,calendar_query,আজকের আসন্ন ইভেন্টগুলি কি কি,lists_query,0.7237,0.0027,False
+8033,bn-BD,datetime,datetime_query,বড় দিন কোন দিন পড়ে,weather_query,0.6975,0.063,False
+8035,bn-BD,calendar,calendar_set,তেল পরিবর্তন করার জন্য আমাকে মনে করিয়ে দিন,qa_factoid,0.5997,0.01,False
+8037,bn-BD,calendar,calendar_set,কিছুক্ষণের মধ্যে আমাকে কিছু মনে করিয়ে দিন,social_post,0.7225,0.0058,False
+8042,bn-BD,calendar,calendar_query,আমার আগামী মিটিং-এ কতজন যোগদান করবে,qa_factoid,0.7658,0.0031,False
+8043,bn-BD,calendar,calendar_query,আমার পরবর্তী অ্যাপয়েন্টমেন্টটা কখন আছে,email_sendemail,0.991,0.0,False
+8044,bn-BD,calendar,calendar_query,আজ আমার সময়সূচী কি,weather_query,0.7158,0.002,False
+8055,bn-BD,calendar,calendar_remove,সাত মার্চের জন্য আমার অ্যাপয়েন্টমেন্ট মুছে দিন,calendar_remove,0.893,0.893,True
+8056,bn-BD,calendar,calendar_query,আমার কি শুক্রবার ডেট আছে,qa_factoid,0.4098,0.0067,False
+8058,bn-BD,calendar,calendar_query,আমার কি আজকে সেল্স মিটিং আছে,email_query,0.6864,0.0073,False
+8073,bn-BD,calendar,calendar_set,সকাল এগারোটায় এ বুধবারের জন্য একটি বিক্রয় মিটিং নির্ধারণ করুন,recommendation_events,0.3984,0.0708,False
+8079,bn-BD,calendar,calendar_set,আমার রুটি বেক করার জন্য এক ঘন্টার মধ্যে একটি অনুস্মারক সেট করুন,cooking_recipe,0.9608,0.0002,False
+8084,bn-BD,calendar,calendar_query,event বিষয়বস্তু কি,recommendation_events,0.7124,0.0063,False
+8085,bn-BD,calendar,calendar_set,আমি এই সপ্তাহের জন্য একটি তারিখ সেট করতে চাই,calendar_remove,0.894,0.0133,False
+8100,bn-BD,email,email_sendemail,আমার সাক্ষাৎকার পুনঃনির্ধারণ করতে ইমেইল করুন,email_sendemail,1.0,1.0,True
+8107,bn-BD,calendar,calendar_set,রমেশের জন্য একটি জন্মদিনের ইভেন্ট সেট করুন,cooking_recipe,0.8811,0.0011,False
+8110,bn-BD,calendar,calendar_set,আমার ক্যালেন্ডারে তত্ত্বাবধান যোগ করুন,qa_factoid,0.7262,0.0028,False
+8116,bn-BD,calendar,calendar_query,পয়লা ফেব্রুয়ারি এবং ষোলই মার্চের মধ্যে কি কি মিটিংগুলি ঘটেছিল,lists_query,0.2142,0.0372,False
+8119,bn-BD,calendar,calendar_query,যেখানে তিতলির জন্মদিনের পার্টি অনুষ্ঠিত হচ্ছে,news_query,0.0934,0.0461,False
+8125,bn-BD,calendar,calendar_set,আমার ক্যালেন্ডারে একটি মিটিং ইভেন্ট তৈরি করুন,cooking_recipe,0.9923,0.0002,False
+8126,bn-BD,calendar,calendar_set,আমার ক্যালেন্ডারে একটি মিটিং ইভেন্ট নির্ধারণ করুন,email_query,0.3383,0.0042,False
+8129,bn-BD,calendar,calendar_query,এখনও কি কি রিমাইন্ডারগুলি আছে,recommendation_events,0.4623,0.0039,False
+8140,bn-BD,calendar,calendar_set,তেরো তারিখের জন্য একটি অনুস্মারক সেট করুন যে আমি সুনীল সাথে দুপুরের খাবার খেয়েছি,calendar_set,0.3851,0.3851,True
+8148,bn-BD,calendar,calendar_query,আমি কি কোন অনুস্মারক ছেড়ে দিয়েছি,social_post,0.3283,0.0046,False
+8150,bn-BD,calendar,calendar_query,জন্মদিনের পার্টি সম্পর্কে কি আমার কোনো রিমাইন্ডার আছে,email_sendemail,0.5471,0.0135,False
+8165,bn-BD,calendar,calendar_query,এক হাজার দুইশত দুপুর বারোটা মি ইতিমধ্যে আপনি দশ মিনিটের মধ্যে একটি মিটিং হবে,datetime_query,0.2409,0.0315,False
+8182,bn-BD,calendar,calendar_remove,আপনি কি দাঁতের ডাক্তারের অ্যাপয়েন্টমেন্টটি মুছে ফেলতে পারেন,lists_remove,0.4554,0.0868,False
+8188,bn-BD,calendar,calendar_query,এটা কি তারিখ,datetime_query,0.9996,0.0,False
+8204,bn-BD,calendar,calendar_set,অনুগ্রহ করে আমাকে পোস্ট অফিসে যেতে মনে করিয়ে দিন,qa_factoid,0.9875,0.0003,False
+8206,bn-BD,calendar,calendar_set,আমাকে আমার বোনের জন্য উপহার কিনতে ভুলবেন না,lists_remove,0.4945,0.01,False
+8230,bn-BD,calendar,calendar_query,মঙ্গলবার আমার লাঞ্চ মিটিং কতক্ষণ হবে,datetime_query,0.9289,0.0006,False
+8241,bn-BD,calendar,calendar_remove,বছরের বাকি সময়ের জন্য আমার ক্যালেন্ডারের সবকিছু মুছে ফেলুন,lists_remove,0.6506,0.2825,False
+8245,bn-BD,calendar,calendar_set,আমাকে রবিবার সকাল এগারোটায় গির্জার পরিষেবার বিষয়ে অবহিত করতে হবে,qa_factoid,0.7165,0.0004,False
+8248,bn-BD,calendar,calendar_set,ক্যালেন্ডারে আগামীকাল রাতের খাবারের তারিখ যোগ করুন,calendar_remove,0.3867,0.1493,False
+8251,bn-BD,calendar,calendar_set,আমার ক্যালেন্ডারে পরের সপ্তাহের মধ্যাহ্নভোজ দরকার,iot_hue_lightoff,0.8091,0.0024,False
+8260,bn-BD,calendar,calendar_set,অনুগ্রহ করে আদরের জন্মদিনের একদিন আগে আমাকে সতর্ক করুন,qa_factoid,0.9871,0.0002,False
+8261,bn-BD,calendar,calendar_set,আমার আগামী অ্যাপয়েন্টমেন্টের জন্য এক ঘন্টা আগে আমাকে একটি সতর্কবার্তা পাঠান,email_sendemail,0.6396,0.0019,False
+8269,bn-BD,calendar,calendar_set,মঙ্গলবার মিটিংয়ে ত্রিশ মিনিটের অনুস্মারক,iot_hue_lightoff,0.9758,0.0008,False
+8276,bn-BD,calendar,calendar_remove,অনুগ্রহ করে আমার পরবর্তী নির্ধারিত নিয়োগ সরিয়ে দিন,qa_factoid,0.7845,0.0126,False
+8280,bn-BD,calendar,calendar_set,আমাকে পনেরো মার্চ অনুস্মারক সেট করতে হবে,iot_hue_lightoff,0.9873,0.0003,False
+8284,bn-BD,calendar,calendar_remove,ক্যালেন্ডার থেকে জন্মদিন সরান,datetime_query,0.255,0.0385,False
+8289,bn-BD,calendar,calendar_set,চারটায় আজকের ফ্যাকাল্টি মিটিং সম্পর্কে একটি অনুস্মারক সেট করুন,cooking_recipe,0.5042,0.0048,False
+8290,bn-BD,calendar,calendar_set,আগামী সপ্তাহের মঙ্গলবার ম্যানেজারদের মিটিং সম্পর্কে একটি অনুস্মারক খুলুন,email_sendemail,0.2693,0.0207,False
+8294,bn-BD,calendar,calendar_set,পুনরাবৃত্তি হিসাবে ক্যালেন্ডারে যুক্ত করুন,qa_factoid,0.9983,0.0001,False
+8300,bn-BD,calendar,calendar_set,আঠারোই মার্চে সন্ধ্যা পাঁচটা থেকে সন্ধ্যা ছ-টার একটি ইভেন্ট সেভ করুন,iot_hue_lightoff,0.3989,0.0129,False
+8302,bn-BD,calendar,calendar_remove,পরের সোমবারের মিটিং-টি মুছে ফেলুন,calendar_remove,0.8377,0.8377,True
+8308,bn-BD,news,news_query,গতকাল দুপুরে ঢাকা কি নিয়ে প্রতিবাদ হয়েছিল,social_post,0.8028,0.0118,False
+8336,bn-BD,calendar,calendar_query,আদরের সাথে আমার ব্রাঞ্চ কখন,weather_query,0.9959,0.0001,False
+8343,bn-BD,datetime,datetime_query,এটা কি বুধবার,qa_factoid,0.2593,0.0485,False
+8345,bn-BD,calendar,calendar_set,আমাকে জানাবেন যখন মিটিং হবে,email_query,0.997,0.0,False
+8347,bn-BD,calendar,calendar_query,চতুর্থ ডিসেম্বর কি হচ্ছে,datetime_query,0.5669,0.0028,False
+8358,bn-BD,calendar,calendar_set,এই সম্পর্কে আমাকে মনে করিয়ে দিন,email_query,0.2507,0.0116,False
+8366,bn-BD,calendar,calendar_set,আদরের জন্মদিনের জন্য আঠারই মার্চ একটি পুনরাবৃত্তি অ্যাপয়েন্টমেন্ট করুন,qa_factoid,0.4727,0.0161,False
+8387,bn-BD,calendar,calendar_set,রাত আটটায় লন্ড্রির জন্য অনুস্মারক তৈরি করুন,cooking_recipe,0.9334,0.0004,False
+8388,bn-BD,calendar,calendar_set,আমি রাত আটটায় লন্ড্রি করতে চাই অনুস্মারক তৈরি করুন,weather_query,0.572,0.0047,False
+8390,bn-BD,calendar,calendar_set,আমার সভা মনে করিয়ে দিন,qa_factoid,0.8801,0.0015,False
+8394,bn-BD,calendar,calendar_set,প্রতিদিন দুপুরে আমাকে ওষুধ নেওয়ার জন্য একটি রিমাইন্ডয়ার সেট করুন,cooking_recipe,0.503,0.0436,False
+8404,bn-BD,calendar,calendar_query,আমি এই ঘটনা সম্পর্কে আরো জানতে চাই,qa_factoid,0.8451,0.0076,False
+8409,bn-BD,calendar,calendar_remove,আগামীকাল আমার রাতের খাবার মুছে দিন,cooking_recipe,0.392,0.1932,False
+8410,bn-BD,calendar,calendar_remove,সোমবারের জন্য আমার ডিনার ইভেন্ট সরিয়ে দিন,lists_remove,0.2527,0.2369,False
+8413,bn-BD,calendar,calendar_set,আমাকে সতর্ক করুন,email_sendemail,0.3121,0.0154,False
+8414,bn-BD,calendar,calendar_set,শুক্রবার সন্ধ্যে পাঁচটায় রায়হানের সাথে ডিনারে যেতে আমাকে স্মরণ করাও,social_post,0.7601,0.0126,False
+8415,bn-BD,calendar,calendar_set,মঙ্গলবার বিকেল তিনটেয় শুভমান রায়ের সাথে অফিসে একটি মিটিং যুক্ত করুন,calendar_remove,0.2042,0.0266,False
+8426,bn-BD,calendar,calendar_query,গতকাল এবং এই সকালবেলার মধ্যে বর্তমান ইভেন্টগুলি আমাকে বলুন,lists_query,0.2946,0.0228,False
+8430,bn-BD,calendar,calendar_remove,আমার সমস্ত অ্যাপয়েন্টমেন্ট বাতিল করুন,qa_factoid,0.6838,0.0212,False
+8431,bn-BD,calendar,calendar_remove,আমার সমস্ত নির্ধারিত ঘটনা পরিত্রাণ পেতে,qa_factoid,0.9577,0.0046,False
+8436,bn-BD,calendar,calendar_set,মার্চ মাসে প্রতি বুধবারের জন্য দুপুর বারোটা এ বিয়ের অনুষ্ঠান সেট করুন,calendar_remove,0.7918,0.0108,False
+8442,bn-BD,calendar,calendar_set,এই ইভেন্টের সাথে আমার ক্যালেন্ডার পরিবর্তন করুন,iot_hue_lightoff,0.4306,0.0082,False
+8449,bn-BD,calendar,calendar_set,আমার মেয়ের জন্মদিনের জন্য একটি রিমাইন্ডার সেট করুন,cooking_recipe,0.9597,0.0007,False
+8453,bn-BD,calendar,calendar_set,অনুগ্রহ করে আমার ক্যালেন্ডারে ইভেন্ট রাখুন এবং এটিকে পুনরাবৃত্তিমূলক ইভেন্ট হিসেবে চিহ্নিত করুন,qa_factoid,0.2027,0.0327,False
+8460,bn-BD,calendar,calendar_query,আমাকে আমার ঘটনা দেখান,social_post,0.9721,0.0002,False
+8461,bn-BD,calendar,calendar_query,মে মাসের জন্য আমার পরিকল্পনা কি,cooking_recipe,0.7781,0.0055,False
+8466,bn-BD,calendar,calendar_set,আমি বুধবার একটি সকাল ন-টায় মিটিং আছে আমাকে একটি অনুস্মারক পাঠান,social_post,0.9144,0.0034,False
+8469,bn-BD,calendar,calendar_query,আজ আমার ক্যালেন্ডারে কি নির্ধারিত হয়েছে,weather_query,0.8202,0.0047,False
+8474,bn-BD,calendar,calendar_set,আগামীকাল দুপুর দুইটায় একটা তেইশে জেনের জন্মদিনের পার্টি যোগ করুন,datetime_query,0.1711,0.0382,False
+8494,bn-BD,calendar,calendar_query,আমার আজকের সময়সূচী কেমন দেখাচ্ছে,weather_query,0.5264,0.0024,False
+8496,bn-BD,calendar,calendar_query,আগামীকাল সকালের জন্য আমার মিটিং বলুন,cooking_recipe,0.458,0.0072,False
+8498,bn-BD,calendar,calendar_query,সব বাকি থাকা অনুস্মারক দেখান,qa_factoid,0.4544,0.0071,False
+8516,bn-BD,calendar,calendar_remove,ক্যালেন্ডার আইটেম ডিলিট কর,iot_hue_lightoff,0.5186,0.0027,False
+8520,bn-BD,calendar,calendar_set,ক্যালেন্ডার অ্যাপে ইভেন্ট যোগ করুন,iot_hue_lightoff,0.8745,0.0035,False
+8525,bn-BD,calendar,calendar_query,তিনটা থেকে পাঁচটা পর্যন্ত মিটিং এর অনুস্মারক,iot_hue_lightoff,0.3092,0.0197,False
+8535,bn-BD,calendar,calendar_set,আপনি কি আমাকে দুই ঘণ্টার মধ্যে ডেন্টিস্ট অ্যাপয়েন্টমেন্টের কথা মনে করিয়ে দেবেন,iot_hue_lightoff,0.2875,0.0161,False
+8539,bn-BD,calendar,calendar_set,সম্পর্কে মনে করিয়ে দিন,email_sendemail,0.7843,0.0007,False
+8541,bn-BD,calendar,calendar_set,দয়া করে আমাকে মনে করিয়ে দিন,qa_factoid,0.939,0.0006,False
+8553,bn-BD,calendar,calendar_set,শামীম আখতার সাথে সকাল ন-টায় জন্য আমার ক্যালেন্ডারে একটি মিটিং যোগ করুন,email_sendemail,0.8042,0.0038,False
+8559,bn-BD,calendar,calendar_query,আমার কি আজকের জন্য নির্ধারিত কিছু আছে,qa_factoid,0.1674,0.0179,False
+8562,bn-BD,calendar,calendar_remove,আজ দুপুর দুইটার জন্য আমার মিটিং মুছে দিন,calendar_remove,0.6751,0.6751,True
+8568,bn-BD,calendar,calendar_set,আপনি কি মঙ্গলবার সকাল এগারোটায় সাবরিনা এবং আবিরকে ব্রাঞ্চের জন্য একটি ক্যালেন্ডার আমন্ত্রণ পাঠাবেন,recommendation_events,0.9342,0.0033,False
+8570,bn-BD,calendar,calendar_set,আপনি কি চিহ্নিত করবেন যে আমি আগামীকাল দুপুর দুইটায় একটি ইভেন্টে ব্যস্ত আছি,iot_hue_lightoff,0.2923,0.0239,False
+8579,bn-BD,calendar,calendar_query,আমার আজকের মিটিংগুলির জন্য আমার কী তথ্য জানা উচিত,email_query,0.9692,0.0002,False
+8585,bn-BD,calendar,calendar_set,তের তারিখ আমার জন্মদিনের পার্টি আছে আমাকে মনে করিয়ে দেবেন,datetime_query,0.9997,0.0,False
+8598,bn-BD,calendar,calendar_set,সন্ধ্যা ছয়টায় মার্ককে বিমানবন্দর থেকে তুলতে মনে করিয়ে দিন,email_sendemail,0.901,0.0014,False
+8618,bn-BD,calendar,calendar_set,প্রত্যেক মঙ্গল বৃহস্পতি ও শনিবার আমার গাছগুলিকে জল দেওয়ার জন্য আমাকে মনে করান,cooking_recipe,0.2648,0.0285,False
+8631,bn-BD,calendar,calendar_remove,আমার ক্যালেন্ডার থেকে এটি মুছে ফেলুন,lists_remove,0.706,0.1413,False
+8635,bn-BD,calendar,calendar_set,আপনি কি আমাকে থ্যাঙ্কসগিভিংয়ের তিন সপ্তাহ আগে জয়বাংলা কথা মনে করিয়ে দিতে পারেন,qa_definition,0.1038,0.0308,False
+8640,bn-BD,calendar,calendar_set,আমি লাইব্রেরিতে আগামীকালের ইভেন্টের জন্য আমার ক্যালেন্ডারে একটি নোট করতে চাই,iot_hue_lightoff,0.9795,0.0008,False
+8642,bn-BD,calendar,calendar_set,আজকে এর জন্য আমার রিমাইন্ডারগুলি তে বিকাল চারটায় conference call যোগ করুন,calendar_remove,0.3544,0.0369,False
+8651,bn-BD,calendar,calendar_set,আমার ক্যালেন্ডারে ইভেন্ট সম্পর্কে আমাকে অবহিত করুন,qa_factoid,0.8328,0.0016,False
+8653,bn-BD,calendar,calendar_set,আমার ক্যালেন্ডারে ইভেন্টের কথা মনে করিয়ে দিন,email_sendemail,0.9924,0.0001,False
+8666,bn-BD,calendar,calendar_remove,আমার ক্যালেন্ডার থেকে সমস্ত ইভেন্টগুলি মুছে ফেলুন,lists_remove,0.7601,0.0722,False
+8667,bn-BD,calendar,calendar_query,গত তিন মাস জনাব শাহিন এর সাথে আমার কতবার মিটিং হয়েছে,social_post,0.382,0.0086,False
+8670,bn-BD,calendar,calendar_remove,ক্যালেন্ডার থেকে ইভেন্টগুলি সরান,iot_hue_lightoff,0.4918,0.0122,False
+8672,bn-BD,calendar,calendar_query,কোথায় সংজ্ঞিত হয়,qa_definition,0.5627,0.0012,False
+8674,bn-BD,calendar,calendar_query,সকাল নয়টায় আমার মিটিং কোথায়,weather_query,0.8385,0.003,False
+8679,bn-BD,calendar,calendar_query,আজ গুরু নানকের জন্মদিন,calendar_remove,0.5263,0.1463,False
+8681,bn-BD,calendar,calendar_query,এটা কি কারো জন্মদিন,qa_factoid,0.9811,0.0006,False
+8694,bn-BD,calendar,calendar_set,ইভেন্টটি সাম্য এবং শাওন এর মধ্যে,qa_factoid,0.209,0.0373,False
+8730,bn-BD,calendar,calendar_set,আমার পঁচিশে মার্চের বৈঠকের জন্য অনুগ্রহ করে আমার ক্যালেন্ডারে একটি অনুস্মারক সেট করুন,play_music,0.2325,0.0259,False
+8732,bn-BD,calendar,calendar_remove,সব তারিখ মুছে দিন,calendar_remove,0.9858,0.9858,True
+8762,bn-BD,calendar,calendar_query,আজ বিকেলে আমার সময়সূচী বলুন,calendar_remove,0.4602,0.0846,False
+8765,bn-BD,calendar,calendar_set,আজ নয়টায় ক্যালেন্ডারে রেড লবস্টারে আমার রাতের খাবার রাখুন,cooking_recipe,0.7359,0.0072,False
+8766,bn-BD,calendar,calendar_query,পঁচিশে মার্চ শনিবার কি আমার মিটিং আছে,email_query,0.3174,0.0108,False
+8767,bn-BD,calendar,calendar_query,দ্বাদশ এপ্রিল মীম জন্মদিন,datetime_query,0.4075,0.0259,False
+8769,bn-BD,calendar,calendar_remove,আগামি ইভেন্ট ডিলিট কর,iot_hue_lightoff,0.8222,0.0051,False
+8771,bn-BD,calendar,calendar_remove,তেইশে মার্চ এ শপিং ট্রিপ ডিলিট কর যেটা আমি করেছিলাম,email_sendemail,0.3922,0.0111,False
+8774,bn-BD,calendar,calendar_query,আমার সাতই জুলাই এর সময়সূচী সম্পূর্ণরূপে খোলা,calendar_remove,0.4045,0.0214,False
+8781,bn-BD,calendar,calendar_query,আমি কি বিকাল চারটায় ফ্রী থাকবো,weather_query,0.9208,0.0051,False
+8782,bn-BD,calendar,calendar_query,আমার কি আজ বিকেলে কোন মিটিং আছে,recommendation_events,0.7,0.0061,False
+8791,bn-BD,calendar,calendar_query,এই ইভেন্টে আরও তথ্য,qa_factoid,0.7812,0.0089,False
+8795,bn-BD,calendar,calendar_query,মুলতুবি অনুস্মারক দেখান,iot_hue_lightoff,0.718,0.002,False
+8822,bn-BD,recommendation,recommendation_events,আসন্ন ঘটনা সমূহ,news_query,0.1484,0.0473,False
+8824,bn-BD,calendar,calendar_query,উনিশ তারিখে দুপুর দুটোয় আমার কি সিডিউল করে আছে,iot_hue_lightoff,0.6249,0.0036,False
+8825,bn-BD,calendar,calendar_set,পরের শুক্রবার সাকিব সাথে আমার সাক্ষাতের একটি অনুস্মারক পাঠান,social_post,0.995,0.0002,False
+8828,bn-BD,calendar,calendar_query,ক্যালেন্ডারের এর ইভেন্ট কি সত্য,qa_factoid,0.9996,0.0,False
+8846,bn-BD,calendar,calendar_query,এ বছরের জুলাইয়ের চার তারিখের জন্য কি আমি কিছু সেট করেছি,email_sendemail,0.8101,0.0016,False
+8853,bn-BD,calendar,calendar_remove,আমার পরবর্তী কার্যকলাপ পরিষ্কার করুন,lists_remove,0.3355,0.1101,False
+8856,bn-BD,calendar,calendar_remove,ক্যালেন্ডারের সমস্ত ইভেন্ট মুছুন,lists_remove,0.8592,0.0284,False
+8857,bn-BD,calendar,calendar_set,বিশ্বজিৎ-এর সাথে আমার আসন্ন মিটিং সম্পর্কে মনে করান,qa_factoid,0.7853,0.003,False
+8868,bn-BD,calendar,calendar_set,আমাকে প্রতি মঙ্গলবার সকাল দশটায় মাকে কল করার কথা মনে করিয়ে দিও,email_sendemail,0.7134,0.0112,False
+8880,bn-BD,calendar,calendar_set,আগামীকাল সকাল ন-টার একটি মিটিং সম্পর্কে একটি রিমাইন্ডার সেট করুন,cooking_recipe,0.8813,0.0014,False
+8888,bn-BD,calendar,calendar_remove,এটি মুছে ফেলো,lists_remove,0.4764,0.191,False
+8900,bn-BD,calendar,calendar_set,প্রতি রবিবারের জন্য পুনরাবৃত্তি অনুস্মারক সেট করুন,iot_hue_lightoff,0.8028,0.0049,False
+8904,bn-BD,calendar,calendar_query,সাম্প্রতিক ইভেন্টগুলির তথ্য,lists_query,0.2543,0.0187,False
+8906,bn-BD,calendar,calendar_set,অন্যদের সাথে ক্যালেন্ডারে ইভেন্টের তারিখ সেট করুন,datetime_query,0.6434,0.0028,False
+8907,bn-BD,calendar,calendar_set,অন্যদের সাথে ক্যালেন্ডারে ঘটনা উল্লেখ করুন,social_post,0.9983,0.0001,False
+8912,bn-BD,calendar,calendar_query,আমাকে আজকের ক্যালেন্ডারের সন্ধ্যা ছয়টার পরের ইভেন্ট দাও,qa_factoid,0.1603,0.029,False
+8914,bn-BD,calendar,calendar_query,চৌঠা এপ্রিল কখন আমার অ্যাপয়েন্টমেন্ট আছে,qa_factoid,0.9887,0.0001,False
+8916,bn-BD,calendar,calendar_query,ওই দিনের জন্য আমার সময়সূচী কি,datetime_query,0.9758,0.0063,False
+8925,bn-BD,calendar,calendar_remove,আমার ক্যালেন্ডারের সমস্ত ইভেন্ট মুছুন,lists_remove,0.7077,0.0849,False
+8939,bn-BD,calendar,calendar_set,রহিমার কন্যা শিশুর আকীদা অনুষ্ঠান,social_post,0.9996,0.0,False
+8948,bn-BD,calendar,calendar_set,সাকিব খানের সাথে দেখা করার জন্য ইভেন্ট যোগ করুন,social_post,0.904,0.0001,False
+8949,bn-BD,calendar,calendar_remove,অনুগ্রহ করে অবশিষ্ট অপসারণ করুন,calendar_remove,0.2731,0.2731,True
+8958,bn-BD,calendar,calendar_query,মিটিং-য়ের সময় খুলুন,datetime_query,0.77,0.0049,False
+8960,bn-BD,calendar,calendar_set,আমি চাই আপনি আসন্ন মিটিং সম্পর্কে সন্ধ্যায় সতর্ক করুন,calendar_remove,0.2502,0.0206,False
+8967,bn-BD,calendar,calendar_set,আমার বউ জন্মদিন দুই দিন আগে আমাকে মনে করিয়ে দিন,email_query,0.4302,0.006,False
+8968,bn-BD,calendar,calendar_set,এই সপ্তাহে মনে রাখার মতো কিছু বলুন,lists_query,0.3021,0.0192,False
+8975,bn-BD,calendar,calendar_query,আজকের জন্য কি মিটিং নির্ধারিত হয়,qa_factoid,0.1668,0.0266,False
+8977,bn-BD,calendar,calendar_set,বাকি থাকা বিল পরিশোধ সম্পর্কে আমাকে অনুস্মারক সেট করুন,iot_hue_lightoff,0.4505,0.0187,False
+8978,bn-BD,calendar,calendar_set,সপ্তাহ জুড়ে আমার বসের সাথে গুরুত্বপূর্ণ মিটিং সম্পর্কে আমাকে জানান,email_sendemail,1.0,0.0,False
+8985,bn-BD,calendar,calendar_remove,ok google রহমানের জন্মদিন মুছে ফেলুন,social_post,0.8898,0.0164,False
+8990,bn-BD,calendar,calendar_set,ইভেন্ট করুন,iot_hue_lightoff,0.8764,0.0005,False
+8992,bn-BD,calendar,calendar_set,মিটিং দেখান,qa_factoid,0.9657,0.0001,False
+9009,bn-BD,calendar,calendar_remove,আমার ক্যালেন্ডার থেকে বার্ষিকী ইভেন্ট সরান,iot_hue_lightoff,0.6087,0.0078,False
+9011,bn-BD,calendar,calendar_query,এই মাসের চৌদ্দ তারিখে ধন্যবাদ দেওয়ার ঘটনাটি কি সত্য,qa_factoid,0.993,0.0001,False
+9014,bn-BD,calendar,calendar_set,তেইশে অক্টোবর আমার সহকর্মীর সাথে মিটিং সম্পর্কে একটি বিজ্ঞপ্তি সেট করুন,email_sendemail,0.8685,0.0012,False
+9015,bn-BD,calendar,calendar_remove,আমার ক্যালেন্ডার সব ঘটনাগুলি সাফ করুন,iot_hue_lightoff,0.2324,0.0215,False
+9019,bn-BD,calendar,calendar_query,বিশ থেকে পঁচিশ জুন পর্যন্ত মিটিং,weather_query,0.1183,0.0399,False
+9030,bn-BD,calendar,calendar_remove,আজকের জন্য আমার মেডিকেল অ্যাপয়েন্টমেন্ট ক্যালেন্ডার থেকে সরিয়ে দিন,lists_remove,0.3626,0.2341,False
+9035,bn-BD,calendar,calendar_query,রাহুলের বিয়ের অনুস্মারক,social_post,0.8478,0.0044,False
+9043,bn-BD,calendar,calendar_set,ক্যালেন্ডারে আসন্ন ঘটনা,qa_factoid,0.5462,0.0195,False
+9053,bn-BD,calendar,calendar_set,মঙ্গলবার নিনার সাথে একটি মিটিং ইভেন্ট রিমাইন্ডার সেট করুন,cooking_recipe,0.9096,0.0023,False
+9054,bn-BD,calendar,calendar_set,অনুষ্ঠানের স্মারক আদর মঙ্গলবার,email_sendemail,1.0,0.0,False
+9059,bn-BD,calendar,calendar_set,ঘটনার সময় আমাকে সতর্ক করুন,weather_query,0.9695,0.0009,False
+9061,bn-BD,calendar,calendar_query,রিমাইন্ডারগুলিতে কি কি তথ্য আছে,email_query,0.8169,0.0,False
+9062,bn-BD,calendar,calendar_set,আপনি কি বাইশে জুন সেকেন্ডে রহিমের জন্মদিন রাখতে পারেন,weather_query,0.5105,0.0065,False
+9074,bn-BD,calendar,calendar_remove,অনুগ্রহ করে সেই ঘটনাটি সরান,qa_factoid,0.8939,0.0019,False
+9088,bn-BD,calendar,calendar_remove,আমার ক্যালেন্ডারে সবকিছু মুছে ফেলুন,lists_remove,0.7601,0.0794,False
+9095,bn-BD,calendar,calendar_remove,মুনিরার সাথে আজকের ডিনার মুছে ফেলুঁ,social_post,0.793,0.0055,False
+9103,bn-BD,calendar,calendar_query,আজ বিকেলে কি আমার ক্যালেন্ডারে একটি মিটিং আছে,qa_factoid,0.1074,0.0346,False
+9107,bn-BD,calendar,calendar_query,তেশরা জুন জেমসের কনসার্ট কখন শুরু হয়,datetime_query,0.8376,0.0019,False
+9110,bn-BD,calendar,calendar_set,পঁচিশে মার্চ দুই হাজার সতেরো গণ প্রদর্শনী সংশ্লিষ্ট তারিখে এটির একটি নোট তৈরি করুন,datetime_query,0.9351,0.0029,False
+9112,bn-BD,calendar,calendar_set,আমার ক্যালেন্ডারে এটি যোগ করুন,iot_hue_lightoff,0.987,0.0003,False
+9114,bn-BD,calendar,calendar_set,এই ক্যালেন্ডার ইভেন্টের জন্য একটি পুনরাবৃত্তি অনুস্মারক তৈরি করুন,iot_hue_lightoff,0.8984,0.0027,False
+9116,bn-BD,calendar,calendar_query,আপনি কি আমার মিটিং পুনরায় নির্ধারণ করতে পারেন,qa_factoid,0.7147,0.0065,False
+9121,bn-BD,calendar,calendar_query,আমি কি দিন বুকিং আছে,weather_query,0.893,0.0006,False
+9124,bn-BD,calendar,calendar_set,পরের সপ্তাহের জন্য আমার কাজের ক্যালেন্ডারে আমাকে ইভেন্ট দেখান,iot_hue_lightoff,0.3011,0.0186,False
+9137,bn-BD,calendar,calendar_query,কোন সময়ে গুলশান ক্যাফে লাঞ্চ এবং ডিনারের মধ্যে বন্ধ থাকে,weather_query,0.9984,0.0,False
+9138,bn-BD,qa,qa_factoid,বঙ্গবন্ধু গোল্ড কাপ আনুষ্ঠানিকভাবে কখন শুরু হয়,qa_factoid,0.6599,0.6599,True
+9149,bn-BD,calendar,calendar_query,ব্ল্যাক টাই গালা ডিনার কখন শুরু হওয়ার কথা,qa_factoid,0.7184,0.001,False
+9153,bn-BD,calendar,calendar_set,শনিবার আমার ক্যালেন্ডারে মেরির সাথে ডিনার যোগ করুন,iot_hue_lightoff,0.4006,0.0254,False
+9155,bn-BD,calendar,calendar_set,শুক্রবার তিনটায় দাঁতের অ্যাপয়েন্টমেন্ট দিন,recommendation_events,0.1258,0.0314,False
+9156,bn-BD,calendar,calendar_set,মনে করাও,qa_factoid,0.9074,0.0015,False
+9175,bn-BD,calendar,calendar_query,আমার ক্যালেন্ডার কি গত দশ মিনিটে আপডেট করা হয়েছে,qa_factoid,0.6773,0.0136,False
+9182,bn-BD,calendar,calendar_remove,বিমানবন্দর থেকে আমার বাবা-মাকে নেওয়ার পরিকল্পনা বাতিল করুন,lists_remove,0.5035,0.1195,False
+9187,bn-BD,calendar,calendar_set,মিটিংতে যতোজন যোগদান করবে তাদের পুনরায় পরীক্ষা করুন,iot_hue_lightoff,0.3369,0.0138,False
+9193,bn-BD,calendar,calendar_set,অনুগ্রহ করে এই তারিখটি পুনরাবৃত্তি করার জন্য সেট করুন,datetime_query,0.8017,0.0011,False
+9194,bn-BD,calendar,calendar_remove,অনুগ্রহ করে আমার ক্যালেন্ডার থেকে এই ইভেন্টটি সরান,qa_factoid,0.8939,0.0032,False
+9197,bn-BD,calendar,calendar_query,আমার এই সপ্তাহের জন্য কি পরিকল্পনা আছে,lists_query,0.3957,0.0112,False
+9198,bn-BD,calendar,calendar_query,আমার অনুস্মারক চেক করুন,iot_hue_lightoff,0.9246,0.0,False
+9202,bn-BD,play,play_radio,আমার রেডিও স্টেশন চালাও,transport_query,0.9464,0.0056,False
+9204,bn-BD,play,play_radio,বিবিসি রেডিও চালু কর,qa_factoid,0.9857,0.0034,False
+9212,bn-BD,play,play_radio,কেউ রেডিও বাজায়,qa_factoid,0.9993,0.0002,False
+9216,bn-BD,play,play_radio,আমার স্টেশন বাজাও,cooking_recipe,0.3062,0.0581,False
+9225,bn-BD,play,play_radio,আপনি রেডিও চালু করতে পারেন,qa_factoid,0.95,0.0056,False
+9233,bn-BD,play,play_radio,pandora খোলো,social_post,0.5435,0.001,False
+9236,bn-BD,play,play_radio,একশো ছয় দশমিক নয় চ্যানেলে যান,qa_factoid,0.7057,0.0126,False
+9237,bn-BD,play,play_radio,রেডিও অন কর এবং একশ ছয় পয়েন্ট নয় চ্যানলেটি বাজাও,play_music,0.2541,0.1714,False
+9250,bn-BD,play,play_radio,আমি রেডিও শুনতে চাই,play_music,0.3706,0.2808,False
+9254,bn-BD,play,play_radio,দয়া করে টিউন রেডিও টুডে,qa_factoid,0.5872,0.0737,False
+9263,bn-BD,play,play_radio,রেডিও অ্যাপটি চালু কর,qa_factoid,0.5251,0.37,False
+9269,bn-BD,play,play_radio,আটশ সাতানব্বই এফ এম টি টিউন কর,iot_hue_lightoff,0.6141,0.0034,False
+9270,bn-BD,play,play_radio,নয়শ সাইত্রিশ এফ এম চালাও,email_query,0.9168,0.0007,False
+9275,bn-BD,play,play_radio,শুধু নয়শ নিরানব্বই এফ এম বাজাও রেডিওতে,social_post,0.6438,0.01,False
+9284,bn-BD,play,play_radio,ও বন্ধু লাল গোলাপি বাজান,social_post,0.9971,0.0002,False
+9291,bn-BD,play,play_radio,পোশাক পরা,cooking_recipe,0.3614,0.0169,False
+9301,bn-BD,play,play_radio,একটি এফ. এম. বাজান,qa_factoid,0.9523,0.003,False
+9303,bn-BD,play,play_radio,রেডিও আমার বাজাও,play_radio,0.9683,0.9683,True
+9305,bn-BD,play,play_radio,ক্লাসিক হিটগুলি তে টিউন করুন,social_post,0.4583,0.0036,False
+9316,bn-BD,play,play_radio,kiss f. m. আমার জন্য বাজান,qa_factoid,0.796,0.0065,False
+9317,bn-BD,play,play_radio,এখন রেডিও শুরু করুন,play_radio,0.9965,0.9965,True
+9321,bn-BD,play,play_radio,এখন রেডিও চালু করুন,play_radio,0.8874,0.8874,True
+9323,bn-BD,play,play_radio,প্যান্ডোরা চালাও,cooking_recipe,0.9954,0.0004,False
+9326,bn-BD,play,play_radio,অনুগ্রহ করে এখনই একটি রেডিও স্টেশন চালান,qa_factoid,0.4159,0.0602,False
+9327,bn-BD,play,play_radio,এখনই রেডিওর এ এম ডায়াল স্ক্যান কর,qa_factoid,0.3344,0.0164,False
+9330,bn-BD,play,play_radio,চালাও,qa_factoid,0.3868,0.337,False
+9341,bn-BD,play,play_radio,আলেক্সা রেডিও স্টেশন চেঞ্জ কর,transport_query,0.7017,0.0071,False
+9352,bn-BD,play,play_radio,দয়া করে রেডিও বাজান,play_radio,0.9424,0.9424,True
+9353,bn-BD,play,play_radio,রেডিও চালু করে কিছু গান শুরু কর,play_music,0.9855,0.0003,False
+9358,bn-BD,play,play_radio,রেডিও চ্যানেল রেডিও আমার শুরু করুন,play_radio,0.6557,0.6557,True
+9361,bn-BD,play,play_radio,রেডিও শুনুন,play_radio,0.5009,0.5009,True
+9362,bn-BD,play,play_radio,রেডিও চ্যানেল,play_radio,0.8673,0.8673,True
+9363,bn-BD,play,play_radio,রেডিওতে জনপ্রিয় বাজাই,qa_factoid,0.9988,0.0002,False
+9364,bn-BD,play,play_radio,সেরা গান বাজাও,play_music,0.9992,0.0,False
+9380,bn-BD,play,play_radio,আমি যেতে চাই রেডিও আমার রেডিওতে,weather_query,0.3801,0.1679,False
+9384,bn-BD,play,play_radio,বাংলাদেশ বেতার চালান,qa_factoid,0.1488,0.0382,False
+9394,bn-BD,play,play_radio,হেই ওলি রেডিও বাজান,play_music,0.7762,0.0562,False
+9402,bn-BD,play,play_radio,এবিসি রেডিও ঊননব্বই দশমিক দুই এফ. এম. চালান,email_query,0.5003,0.0168,False
+9406,bn-BD,play,play_radio,সিরিয়াস রেডিও আমার শুরু করুন,play_radio,0.7308,0.7308,True
+9408,bn-BD,play,play_radio,রেডিও বাজানো শুরু করুন,play_music,0.5565,0.4364,False
+9426,bn-BD,play,play_radio,আমি একটি স্টেশন শুনতে চাই যেটি রেডিও আমার,play_radio,0.6829,0.6829,True
+9438,bn-BD,play,play_radio,আপনি কি রেডিও আমাকে একটি rap গান শোনাতে পারেন,play_music,0.9633,0.0002,False
+9457,bn-BD,play,play_music,গান চালাও এটা যেতে দাও,play_music,1.0,1.0,True
+9460,bn-BD,play,play_music,নব্বই দশকের হিপ হপ বাজান,play_music,0.9943,0.9943,True
+9471,bn-BD,play,play_radio,একটি দেশের সঙ্গীত স্টেশন চালু করুন,play_music,0.7424,0.0057,False
+9494,bn-BD,play,play_radio,আপনি রেডিও টুডে বাজাতে পারেন ফিলিংস এর বিরহের গান স্বাধীন মিউজিক বাজায়,play_music,0.3074,0.0384,False
+9506,bn-BD,play,play_radio,রেডিও ফুর্তি এইট্টি এইট পয়েন্ট জিরো একশো তিন পয়েন্ট ফাইভ শুনি,play_music,0.3634,0.057,False
+9507,bn-BD,play,play_radio,অনুগ্রহ করে radio station খুঁজুন যেখানে এখন নীরব বাজানো হচ্ছে,play_radio,0.9931,0.9931,True
+9519,bn-BD,play,play_radio,যেকোন pop এফ. এম. চ্যানেল চালান,social_post,0.3538,0.0619,False
+9520,bn-BD,play,play_radio,শেষ ডক্টর হু রেডিও সম্প্রচার প্লে করুন,play_radio,0.2953,0.2953,True
+9524,bn-BD,play,play_radio,ঢাকা রেডিও কার্যক্রম চালু করুন,qa_factoid,0.672,0.0087,False
+9528,bn-BD,play,play_radio,কিছু এন পি আর এবং আমার স্পীকার থেকে তাদের বাজান,recommendation_events,0.2517,0.0211,False
+9541,bn-BD,play,play_radio,রেডিওতে মিষ্টি গান বাজাও,play_music,0.9964,0.0001,False
+9542,bn-BD,play,play_radio,আমাকে রেডিওতে সর্বশেষ সংবাদ প্রোগ্রামটি শুনতে দিন,news_query,0.9651,0.0068,False
+9545,bn-BD,play,play_radio,আমি ভুত এফ এম প্রদর্শন শুনতে চাই,play_podcasts,0.9075,0.0091,False
+9554,bn-BD,play,play_radio,রেডিও আমার রোমান্টিক গান চালান,play_music,0.996,0.0004,False
+9561,bn-BD,play,play_radio,রেডিও টুডে চালান,social_post,0.6567,0.058,False
+9562,bn-BD,play,play_radio,আপনি কি আমার জন্য এই প্রোগ্রাম খেলতে পারেন অনেক সাধনার পরে আমি,recommendation_events,0.4536,0.0111,False
+9565,bn-BD,play,play_radio,ফিলিংস গানের সাথে রেডিও চালান,play_music,0.9319,0.0131,False
+9568,bn-BD,play,play_radio,মিলার লাইভ কনসার্ট সিরিজ চালাও,cooking_recipe,0.209,0.1939,False
+9569,bn-BD,play,play_radio,ঠিক আছে গুগল প্লে একশ ছয় পয়েন্ট সাত,qa_factoid,0.2295,0.0249,False
+9577,bn-BD,play,play_radio,স্টেশন পরিবর্তন করে বিরাশি পয়েন্ট চার,cooking_recipe,0.4061,0.0185,False
+9591,bn-BD,play,play_radio,এবিসি রেডিও ঊননব্বই দশমিক দুই এফ.এম. এ ভুলি বিসরি ইয়াদিন অনুষ্ঠান চালান,social_post,0.3087,0.0381,False
+9592,bn-BD,play,play_podcasts,পডকাস্ট খুজুন যেটা পুরুষদের সমস্যা কভার করে,qa_factoid,0.4832,0.0038,False
+9594,bn-BD,play,play_radio,এফ এম তিরানব্বই দশমিক পাঁচ গানগুলো চালান,play_music,0.8706,0.0064,False
+9601,bn-BD,play,play_radio,দেশের রেডিও বাজান,play_radio,0.3022,0.3022,True
+9617,bn-BD,play,play_radio,একশো এক পয়েন্ট নাইন থেকে এই মর্নিং শো চালাও,cooking_recipe,0.5564,0.0369,False
+9619,bn-BD,play,play_radio,গাড়ির রেডিও প্রেইরি হোম সঙ্গী বাজান,social_post,0.4743,0.017,False
+9620,bn-BD,play,play_radio,আমি কি শয়নকক্ষ রেডিওতে ভুত এফ এম পেতে পারি,qa_factoid,0.9994,0.0,False
+9629,bn-BD,play,play_radio,আপনি কি আমাকে রেডিও শুনতে সাহায্য করতে পারেন,play_radio,0.7518,0.7518,True
+9630,bn-BD,play,play_radio,আমার জন্য রেডিও টুডে বাজাও,play_radio,0.7533,0.7533,True
+9632,bn-BD,play,play_radio,রেডিও দয়া করে,play_radio,0.8773,0.8773,True
+9637,bn-BD,play,play_radio,রেডিও টুডে playlist বাজান,play_podcasts,0.7091,0.0004,False
+9640,bn-BD,play,play_radio,স্বাধীন মিউজিক খুলুন এবং ওয়ার্কআউট খুলুন,cooking_recipe,0.4945,0.0958,False
+9651,bn-BD,play,play_radio,আমার p. s. four এ netflix চালান,qa_factoid,0.9898,0.0,False
+9656,bn-BD,play,play_music,আপনার স্পিকার এর মাধ্যমে আমাকে একটি প্রফুল্ল গান বাজান,play_music,0.9638,0.9638,True
+9706,bn-BD,play,play_music,অনেক সাধনার পরে আমি বাজাও,cooking_recipe,0.1412,0.0317,False
+9707,bn-BD,play,play_music,ওপেন মিডিয়া অনেক সাধনার পরে আমি বাজাও,recommendation_events,0.2115,0.0367,False
+9738,bn-BD,play,play_music,আপনি কি আমার জন্য শাস্ত্রীয় সঙ্গীত বাজাতে পারেন,play_music,0.9989,0.9989,True
+9793,bn-BD,play,play_music,রোমান্টিক গান বাজান,play_music,0.9999,0.9999,True
+9795,bn-BD,play,play_music,অভিমান রিজিউম কর,qa_factoid,0.9555,0.0001,False
+9912,bn-BD,cooking,cooking_recipe,অলি কতক্ষণ ডিম সেদ্ধ করতে হবে,cooking_recipe,0.9728,0.9728,True
+9918,bn-BD,cooking,cooking_recipe,আমি কিভাবে একটি পিজা বানাবো,cooking_recipe,0.9999,0.9999,True
+9923,bn-BD,cooking,cooking_recipe,আমার কতক্ষণ ডিম সেদ্ধ করা উচিত,cooking_recipe,0.7572,0.7572,True
+9924,bn-BD,cooking,cooking_recipe,এর রেসিপিটি আমাকে বলুন,qa_factoid,0.9999,0.0,False
+9930,bn-BD,cooking,cooking_recipe,কতক্ষণ ডিম সেদ্ধ করতে হবে,cooking_recipe,0.5364,0.5364,True
+9931,bn-BD,cooking,cooking_recipe,অলি কতক্ষণ ডিম ফুটাতে হবে,iot_hue_lightoff,0.9272,0.0257,False
+9940,bn-BD,cooking,cooking_recipe,আমাকে চকলেট কেকের একটি রেসিপি খুঁজে দিন,cooking_recipe,0.259,0.259,True
+9941,bn-BD,cooking,cooking_recipe,আমি কিভাবে মাখন চিকেন রান্না করব,cooking_recipe,1.0,1.0,True
+9942,bn-BD,cooking,cooking_recipe,কি সব একটি লাল মখমল পিষ্টক মধ্যে যায়,lists_query,0.4093,0.0292,False
+9943,bn-BD,cooking,cooking_recipe,সবজি রেজালা তৈরি করতে কতক্ষণ লাগে,cooking_recipe,0.9998,0.9998,True
+9952,bn-BD,cooking,cooking_recipe,আমাকে একটি রান্নার টিউটোরিয়াল দিন,cooking_recipe,0.7171,0.7171,True
+9955,bn-BD,cooking,cooking_recipe,আমাকে ভাজা মুরগি রান্না করার একটি ভিডিও দেখান,cooking_recipe,0.9999,0.9999,True
+9956,bn-BD,cooking,cooking_recipe,মাখন করতে পারি,qa_factoid,0.7273,0.2575,False
+9961,bn-BD,cooking,cooking_recipe,সবচেয়ে ভালো আলুগুলি ভুনা কি উষ্ণতা চুলা দরকার,cooking_recipe,0.9931,0.9931,True
+9962,bn-BD,cooking,cooking_recipe,চাউমিন রান্না করার সেরা উপায় কি,cooking_recipe,0.9997,0.9997,True
+9964,bn-BD,cooking,cooking_recipe,খাদ্য প্রক্রিয়াকরণ সম্পর্কে ব্যবহারিক জ্ঞান,qa_factoid,0.1823,0.1574,False
+9966,bn-BD,cooking,cooking_recipe,পাস্তা রান্না করার সবচেয়ে সহজ উপায় কি,cooking_recipe,0.9999,0.9999,True
+9969,bn-BD,cooking,cooking_recipe,জাফরানের পরিবর্তে কি উপাদান ব্যবহার করা যেতে পারে,lists_query,0.3506,0.098,False
+9971,bn-BD,cooking,cooking_recipe,কোনটিতে তাপ সঞ্চালন ভাল হয় তামার তলানিযুক্ত পাত্র না ঢালাই লোহা,cooking_recipe,0.3799,0.3799,True
+9976,bn-BD,cooking,cooking_recipe,আরে রোবট আমাকে পিঁজা উপাদানের একটি তালিকা দাও,cooking_recipe,0.6194,0.6194,True
+9977,bn-BD,cooking,cooking_recipe,অনুগ্রহ করে ইন্টারনেটে অনুসন্ধান করুন এবং বাঙালি খাবার রান্নার জন্য উপযুক্ত ইউটিউব ভিডিও প্রদর্শন করুন,play_podcasts,0.72,0.0473,False
+9979,bn-BD,cooking,cooking_recipe,আমাকে কিছু ভাত রান্না করুন,cooking_recipe,0.9999,0.9999,True
+9980,bn-BD,cooking,cooking_recipe,আজকে মেনু কি তাতে কিছু সিদ্ধ সবজি যোগ করুন,recommendation_events,0.3672,0.076,False
+9986,bn-BD,cooking,cooking_recipe,ফুটন্ত,qa_factoid,0.9389,0.0009,False
+9994,bn-BD,cooking,cooking_recipe,আলু ভাজি রান্নার রেসিপিটা বলতে পারেন,email_query,0.361,0.0083,False
+10016,bn-BD,cooking,cooking_recipe,ধন্যবাদ পাঁচটি বাক্যে মোরগ মোসাল্লাম রান্নার পদ্ধতি কি,cooking_recipe,0.7579,0.7579,True
+10019,bn-BD,cooking,cooking_recipe,দয়া করে আমাকে বলুন কিভাবে আমি আটা বিস্কুটগুলি কুকি বেক করব,cooking_recipe,0.9977,0.9977,True
+10023,bn-BD,cooking,cooking_recipe,পিঁজা বানাতে আমার কি দরকার,cooking_recipe,0.9985,0.9985,True
+10027,bn-BD,cooking,cooking_recipe,খাবার তৈরির নির্দেশিকা,cooking_recipe,0.9993,0.9993,True
+10031,bn-BD,cooking,cooking_recipe,আমার একটি রেসিপি দরকার যা আমার কেনাকাটার তালিকার উপাদানগুলি থেকে পাওয়া যায়,qa_factoid,0.9896,0.0001,False
+10038,bn-BD,cooking,cooking_recipe,আমার রান্না করার ভালো ধারণা দরকার,cooking_recipe,0.8223,0.8223,True
+10045,bn-BD,cooking,cooking_recipe,আপনি কি আমাকে ঘরে তৈরি চিকেন স্যুপ রেসিপি দিতে পারেন,qa_factoid,0.8135,0.0281,False
+10048,bn-BD,cooking,cooking_recipe,আমি কিভাবে টার্কি বানাবো,cooking_recipe,0.9999,0.9999,True
+10049,bn-BD,cooking,cooking_recipe,কিভাবে স্যান্ডুইজ তৈরি করা হয় তা আমাকে বলুন,cooking_recipe,0.9696,0.9696,True
+10053,bn-BD,cooking,cooking_recipe,আমি কিভাবে পিজা বানাবো,cooking_recipe,1.0,1.0,True
+10055,bn-BD,cooking,cooking_recipe,চিকেন ভুনা রেসিপি কি,qa_factoid,0.994,0.0,False
+10061,bn-BD,cooking,cooking_recipe,রাতের খাবারের জন্য আমার কি করা উচিত,cooking_recipe,0.9968,0.9968,True
+10072,bn-BD,cooking,cooking_recipe,চুলা chicken সিদ্ধ করে,cooking_recipe,0.9999,0.9999,True
+10076,bn-BD,cooking,cooking_recipe,আপনি কি বেকিং পাউডারের জন্য বেকিং সোডাকে বিকল্প হিসেবে দিতে পারেন,qa_factoid,0.3511,0.0233,False
+10077,bn-BD,cooking,cooking_recipe,আজ রাতে ডিনার জন্য একটি রেসিপি খুঁজুন,qa_factoid,0.7848,0.0026,False
+10078,bn-BD,cooking,cooking_recipe,আমার রাতের খাবারের জন্য কি রান্না করা উচিত,cooking_recipe,0.9999,0.9999,True
+10080,bn-BD,cooking,cooking_recipe,আসুন একসাথে মাংস রান্না করি,cooking_recipe,0.9999,0.9999,True
+10081,bn-BD,cooking,cooking_recipe,আমাকে বলুন কিভাবে মিটবল রান্না করতে হয়,cooking_recipe,1.0,1.0,True
+10090,bn-BD,cooking,cooking_recipe,আমি কি ইলিশ রেসিপি পেতে পারি,qa_factoid,0.9937,0.0002,False
+10093,bn-BD,cooking,cooking_recipe,কিভাবে পাস্তা তৈরি করা হয়,cooking_recipe,0.9988,0.9988,True
+10097,bn-BD,cooking,cooking_recipe,আমি একটি পিজ্জা চাই,cooking_recipe,0.7461,0.7461,True
+10099,bn-BD,cooking,cooking_recipe,আপনি কি পোলাও রান্না করতে জানেন,cooking_recipe,0.9989,0.9989,True
+10100,bn-BD,cooking,cooking_recipe,আপনি কি বিরিয়ানি রেসিপি জানেন,qa_factoid,0.9697,0.0004,False
+10105,bn-BD,cooking,cooking_recipe,বিফ কারি কতক্ষন ধরে রাঁধতে হবে,qa_factoid,0.822,0.0055,False
+10107,bn-BD,cooking,cooking_recipe,আমার ভেজ পোলাও একটা রেসিপি দরকার,qa_factoid,0.9897,0.0023,False
+10119,bn-BD,cooking,cooking_recipe,কতক্ষন ধরে আপনি এক কেজি হাঁসের মাংশ রান্না করবেন,cooking_recipe,0.9998,0.9998,True
+10125,bn-BD,cooking,cooking_recipe,সেঁকা এবং ঝলসানোর মধ্যে পার্থক্য কি,qa_factoid,0.6059,0.012,False
+10132,bn-BD,cooking,cooking_recipe,মাঝারি হওয়ার জন্য আমার কতক্ষণ মাংসের ফালি রান্না করা উচিত,cooking_recipe,0.9999,0.9999,True
+10150,bn-BD,cooking,cooking_recipe,কিভাবে রুটি বানাবেন,cooking_recipe,0.9999,0.9999,True
+10156,bn-BD,cooking,cooking_recipe,আমার জানা দরকার কিভাবে বিরিয়ানি বানাতে হয়,qa_factoid,0.5026,0.4087,False
+10164,bn-BD,cooking,cooking_recipe,আমি কতক্ষণ ভাঁজা নুডুল ভাঁজব,qa_factoid,0.3101,0.0067,False
+10166,bn-BD,cooking,cooking_recipe,আপেলের কেক রেসিপি জন্য দেখুন,qa_factoid,0.6025,0.0214,False
+10171,bn-BD,cooking,cooking_recipe,থাই স্যুপ রেসিপি কি,qa_factoid,0.9817,0.0001,False
+10177,bn-BD,cooking,cooking_recipe,কিভাবে পিঁজা স্কোয়াশ রান্না করবেন,cooking_recipe,1.0,1.0,True
+10182,bn-BD,cooking,cooking_recipe,একটি ওমলেটের জন্য আমার কতগুলি ডিম দরকার,qa_factoid,0.7368,0.071,False
+10197,bn-BD,cooking,cooking_recipe,আমাকে বার্গার সেরা রেসিপি দেখান,recommendation_events,0.8818,0.0013,False
+10206,bn-BD,cooking,cooking_recipe,কিভাবে ভাত প্রস্তুত করা হয়,cooking_recipe,0.9947,0.9947,True
+10213,bn-BD,cooking,cooking_recipe,বিখ্যাত বিরিয়ানি রেসিপি তালিকা,social_post,0.9981,0.0,False
+10214,bn-BD,cooking,cooking_recipe,যেসব রেসিপি এক ঘন্টায় রান্না করা যায়,qa_factoid,0.4374,0.4109,False
+10216,bn-BD,cooking,cooking_recipe,মাফিন তৈরীর বেকওয়্যার কেনার জন্য ওয়েবে অনুসন্ধান করুন,cooking_recipe,0.5392,0.5392,True
+10217,bn-BD,cooking,cooking_recipe,ফুড পাণ্ডা অ্যাপ্লিকেশনে পিঁজা রেসিপিটি সন্ধান করুন,qa_factoid,0.3005,0.0304,False
+10220,bn-BD,cooking,cooking_recipe,একটি বড় পিঁজা বেক করতে আমার কি কি উপকরণ লাগবে,cooking_recipe,0.9982,0.9982,True
+10224,bn-BD,cooking,cooking_recipe,এটিকে সুস্বাদু হতে হবে,iot_hue_lightoff,0.7915,0.0134,False
+10226,bn-BD,cooking,cooking_recipe,আমাকে পাস্তা তৈরির রেসিপি জানাতে দিন,qa_factoid,0.9975,0.002,False
+10426,bn-BD,lists,lists_query,ডায়েরিতে আর কি নেই,qa_factoid,0.5309,0.0249,False
+10427,bn-BD,lists,lists_remove,আমার কেনাকাটা তালিকা পরিষ্কার করুন,lists_remove,0.8026,0.8026,True
+10430,bn-BD,lists,lists_remove,তালিকার প্রথম আইটেমটি মুছুন,cooking_recipe,0.201,0.0493,False
+10433,bn-BD,lists,lists_remove,আমার কাজ লিস্ট সরান,email_query,0.9158,0.0001,False
+10440,bn-BD,lists,lists_query,আমার তালিকায় কোনো বিশেষ ঘটনা,qa_factoid,0.4609,0.0321,False
+10442,bn-BD,lists,lists_remove,আমার তালিকা থেকে ঘটনা সরান,qa_factoid,0.6628,0.0542,False
+10444,bn-BD,lists,lists_remove,আইটেম মুছুন,iot_hue_lightoff,0.2704,0.0096,False
+10451,bn-BD,lists,lists_query,আমি আজ কি করতে যাচ্ছি,cooking_recipe,0.5835,0.0284,False
+10455,bn-BD,lists,lists_query,আমার করণীয় তালিকায় কি আছে,qa_factoid,0.8151,0.0341,False
+10462,bn-BD,lists,lists_remove,একটি তালিকা মুছে ফেলুন,calendar_remove,0.6808,0.2502,False
+10493,bn-BD,lists,lists_query,আমার করণীয় তালিকায় কি আছে,qa_factoid,0.8151,0.0341,False
+10494,bn-BD,lists,lists_remove,ষ্টেশনারী জিনিস থেকে পেন্সিল সরান,qa_factoid,0.2355,0.0373,False
+10497,bn-BD,qa,qa_factoid,আমার কাছে ঢাকার পাঁচ তারকা হোটেলের তালিকা থাকতে পারে,qa_factoid,0.9166,0.9166,True
+10508,bn-BD,lists,lists_remove,তালিকা আইটেম সরান,qa_definition,0.247,0.0327,False
+10512,bn-BD,lists,lists_query,আমার প্রশ্নের বাকি সব তালিকা,lists_remove,0.9948,0.0029,False
+10523,bn-BD,lists,lists_remove,আমার পুরানো ইংরেজি গানের তালিকা থেকে প্লেলিস্ট মুছে দিন,play_music,0.5377,0.11,False
+10525,bn-BD,lists,lists_remove,আমার ক্যালেন্ডারে আমার গাড়ী পেমেন্ট সরান,social_post,0.578,0.0127,False
+10527,bn-BD,lists,lists_remove,তালিকা সরান,email_query,0.7906,0.0349,False
+10534,bn-BD,lists,lists_query,আজকের তালিকা কেমন,weather_query,0.955,0.0003,False
+10538,bn-BD,lists,lists_query,আমার কেনাকাটা তালিকা পুনরাবৃত্তি করুন,lists_remove,0.3245,0.0493,False
+10565,bn-BD,lists,lists_remove,সমস্ত তালিকা মুছে ফেলুন,lists_remove,0.9836,0.9836,True
+10568,bn-BD,lists,lists_remove,পুরানো সঙ্গীত তালিকা সরান,play_music,0.8946,0.0126,False
+10570,bn-BD,lists,lists_query,আমার করণীয় তালিকা পরীক্ষা করুন,qa_factoid,0.301,0.1793,False
+10571,bn-BD,lists,lists_query,অ্যান্ড্রয়েড,qa_factoid,0.4114,0.0239,False
+10577,bn-BD,lists,lists_query,আমাকে আমার সমস্ত তালিকা দিন,lists_remove,0.7636,0.0154,False
+10579,bn-BD,lists,lists_remove,আমার অবস্থান তালিকা পুনরায় সেট করুন,iot_hue_lightoff,0.6845,0.0737,False
+10588,bn-BD,lists,lists_query,আমাকে তালিকার বিষয়বস্তু দেখান,qa_definition,0.38,0.0453,False
+10590,bn-BD,lists,lists_remove,তালিকা থেকে দ্বিতীয় সারি সরান,qa_factoid,0.1717,0.0973,False
+10655,bn-BD,lists,lists_remove,পার্টি টাইম নামক তালিকাটি সরান,lists_remove,0.858,0.858,True
+10667,bn-BD,lists,lists_query,তালিকার সময়সূচী আবৃত্তি করুন,datetime_query,0.8154,0.0007,False
+10673,bn-BD,lists,lists_remove,নিম্নলিখিত তালিকা অপসারণ করুন,lists_remove,0.804,0.804,True
+10674,bn-BD,lists,lists_remove,বর্তমান তালিকা মুছে ফেলুন,lists_remove,0.8331,0.8331,True
+10679,bn-BD,lists,lists_query,আজ আমার করণীয় তালিকায় কি আছে,qa_factoid,0.3529,0.3152,False
+10684,bn-BD,lists,lists_query,কি তালিকা আমি জিজ্ঞাসা করেছি,email_query,0.9306,0.0222,False
+10687,bn-BD,lists,lists_remove,যদি অনুষ্ঠানের ঘটনা থাকে তবে তা সরিয়ে ফেলুন,qa_factoid,0.8865,0.0137,False
+10696,bn-BD,lists,lists_remove,প্রতিস্থাপন,calendar_remove,0.8807,0.0212,False
+10699,bn-BD,lists,lists_query,তালিকার আইটেম সম্পর্কে আমাকে অবহিত করুন,qa_factoid,0.9801,0.0004,False
+10718,bn-BD,lists,lists_remove,আপনি তালিকা থেকে এই আইটেমটি সরাতে পারেন,iot_hue_lightoff,0.5359,0.0674,False
+10731,bn-BD,lists,lists_query,আমার তালিকায় কি আছে তা পড়ুন,lists_query,0.8105,0.8105,True
+10743,bn-BD,lists,lists_remove,যে আইটেম সরান,cooking_recipe,0.3407,0.0138,False
+10753,bn-BD,lists,lists_query,আমি ইতিমধ্যে দারাজ তালিকায় কী রেখেছি,cooking_recipe,0.8181,0.015,False
+10755,bn-BD,lists,lists_remove,দয়া করে আমার করণীয় তালিকাটি ফেলে দিন,lists_remove,0.3423,0.3423,True
+10756,bn-BD,lists,lists_remove,কেনাকাটার তালিকা পরিষ্কার করুন,lists_remove,0.8997,0.8997,True
+10757,bn-BD,lists,lists_query,আমার কেনাকাটার তালিকায় কি আইটেম আছে,qa_definition,0.3094,0.097,False
+10759,bn-BD,lists,lists_query,কেনাকাটার জন্য আমার তালিকা পড়ুন,lists_query,0.6887,0.6887,True
+10760,bn-BD,lists,lists_query,আমাকে বলুন যে তালিকা আমি দুই দিন আগে লিখেছিলাম,email_query,0.9999,0.0,False
+10770,bn-BD,lists,lists_remove,আমার কেনাকাটা তালিকা থেকে শস্য সরান,lists_remove,0.4132,0.4132,True
+10772,bn-BD,calendar,calendar_remove,আজকের শিডিউল থেকে আমার দাঁতের ডাক্তারের অ্যাপয়েন্টমেন্ট সরিয়ে দিন,iot_hue_lightoff,0.8294,0.0175,False
+10776,bn-BD,lists,lists_query,আমার একটি মুদির তালিকা প্রস্তুত আছে,lists_remove,0.5091,0.0374,False
+10786,bn-BD,lists,lists_remove,আজকের জন্য আমার কার্যকলাপ তালিকা সাফ করুন,iot_hue_lightoff,0.7134,0.0187,False
+10790,bn-BD,lists,lists_remove,তালিকা থেকে আইটেম মুছুন,cooking_recipe,0.3407,0.0945,False
+10804,bn-BD,lists,lists_query,আমার মুদির তালিকা পড়ুন,social_post,0.9266,0.0068,False
+10805,bn-BD,lists,lists_query,আমার আছে যে তালিকা আমাকে দেখান দয়া করে,qa_factoid,0.3038,0.064,False
+10808,bn-BD,lists,lists_remove,তালিকাভুক্ত শেষ আইটেম মুছুন,lists_remove,0.3122,0.3122,True
+10824,bn-BD,lists,lists_remove,অলি লিস্ট সাফ করুন,iot_hue_lightoff,0.8952,0.0003,False
+10825,bn-BD,lists,lists_remove,তালিকা পরিষ্কার করুন,lists_remove,0.9583,0.9583,True
+10827,bn-BD,lists,lists_remove,মুদির জন্য তালিকা মুছে দিন,lists_remove,0.6653,0.6653,True
+10828,bn-BD,lists,lists_remove,সব মুছে ফেল,lists_remove,0.6978,0.6978,True
+10832,bn-BD,calendar,calendar_query,ওলি আমি পরের জন্য কি প্লান করেছি,cooking_recipe,0.2358,0.0177,False
+10843,bn-BD,lists,lists_remove,আমার মুদির তালিকা থেকে দুধ সরান,lists_remove,0.6615,0.6615,True
+10846,bn-BD,lists,lists_remove,এখন নিন্টেন্ডো সুইচ কেনার জন্য আমার কাছে পর্যাপ্ত টাকা নেই আপনি কি দয়া করে আমার অ্যামাজন উইশলিস্ট থেকে এটি সরিয়ে ফেলতে পারেন,email_sendemail,0.2934,0.1347,False
+10848,bn-BD,lists,lists_remove,অন্যদের থেকে এই তালিকা সরান,lists_remove,0.7608,0.7608,True
+10851,bn-BD,lists,lists_query,আমার উপলব্ধ তালিকা কি,lists_query,0.8049,0.8049,True
+10853,bn-BD,lists,lists_remove,সেখানে এটা তুলে নাও,calendar_remove,0.6848,0.086,False
+10855,bn-BD,lists,lists_query,আমার তালিকা চেক করতে হবে,iot_hue_lightoff,0.9834,0.0013,False
+10868,bn-BD,lists,lists_query,তালিকায় অন্য কিছু বাকি আছে,lists_remove,0.9217,0.0048,False
+10887,bn-BD,lists,lists_remove,আমার তালিকা মুছে দিন,calendar_remove,0.446,0.3715,False
+10895,bn-BD,lists,lists_remove,আমার তালিকা থেকে আইটেম মুছুন,iot_hue_lightoff,0.3448,0.2557,False
+10909,bn-BD,lists,lists_query,অলি আমাকে আমার তালিকা পড়ুন,email_query,0.6981,0.0093,False
+10927,bn-BD,lists,lists_query,আমাকে আমার তালিকা শুনতে দিন,play_podcasts,0.9107,0.0017,False
+10931,bn-BD,lists,lists_query,আমার প্লেলিস্টে কি আছে,email_query,0.6993,0.0504,False
+10936,bn-BD,lists,lists_remove,অনুগ্রহ করে আমার পছন্দের অ্যালবামের তালিকা মুছে ফেলুন,recommendation_events,0.573,0.4033,False
+10954,bn-BD,lists,lists_query,আমার পরিচিতিতে কতগুলি তালিকা আছে,lists_remove,0.5666,0.3019,False
+10956,bn-BD,lists,lists_query,আমার পরিচিতিতে কি গ্রুপ তালিকাভুক্ত করা হয়,qa_factoid,0.5698,0.0511,False
+10957,bn-BD,lists,lists_query,আমার কতগুলো ists আছে আমাকে মনে করিয়ে দিন,lists_remove,0.3746,0.0627,False
+10960,bn-BD,lists,lists_remove,ঐ একটা তালিকা থেকে বাদ দিন,lists_remove,0.4567,0.4567,True
+10970,bn-BD,lists,lists_remove,শেষ বাক্যাংশটি মুছুন,qa_factoid,0.9343,0.0262,False
+10979,bn-BD,lists,lists_query,এই মুহূর্তে আপনার তালিকায় কি আছে,lists_query,0.5825,0.5825,True
+10981,bn-BD,lists,lists_query,আমাকে তালিকা জানতে দিন,email_query,0.9137,0.0118,False
+10985,bn-BD,lists,lists_remove,এই সপ্তাহের জন্য আমার করণীয় মুছে দিন,calendar_remove,0.4657,0.4501,False
+10990,bn-BD,lists,lists_remove,আমার করণীয় উপর mop রান্নাঘর অপসারণ,lists_remove,0.2126,0.2126,True
+10999,bn-BD,lists,lists_query,তালিকা বলুন,email_query,0.9428,0.0042,False
+11023,bn-BD,lists,lists_remove,কেনাকাটার তালিকা সরান,lists_remove,0.5151,0.5151,True
+11024,bn-BD,lists,lists_remove,করণীয় তালিকা মুছে দিন,lists_remove,0.6138,0.6138,True
+11053,bn-BD,lists,lists_remove,গুগল তালিকা থেকে পরিত্রাণ পেতে,iot_hue_lightoff,0.449,0.1811,False
+11075,bn-BD,lists,lists_query,আমার কত তালিকা আছে,qa_factoid,0.5997,0.0008,False
+11081,bn-BD,lists,lists_query,আমার নোটবুকে কি তালিকা আছে,email_query,0.999,0.0004,False
+11085,bn-BD,lists,lists_remove,কেনাকাটার তালিকা থেকে দুধ বের করে নিন,lists_remove,0.8921,0.8921,True
+11098,bn-BD,lists,lists_remove,উনিশ নব্বই থেকে করের তালিকা থেকে মুক্তি পান,qa_factoid,0.6186,0.0702,False
+11107,bn-BD,lists,lists_query,আমার বর্তমান তালিকা কি,lists_query,0.8954,0.8954,True
+11124,bn-BD,lists,lists_query,আমার কাজের তালিকায় আইটেম তালিকাভুক্ত করুন,cooking_recipe,0.3532,0.0123,False
+11125,bn-BD,lists,lists_query,আমাকে ক্রয় আদেশ বিস্তারিত দিন,email_sendemail,0.9933,0.0001,False
+11133,bn-BD,lists,lists_remove,আমি গত সপ্তাহে তৈরি গেস্ট তালিকা মুছে ফেলুন,lists_remove,0.5033,0.5033,True
+11154,bn-BD,lists,lists_query,সাম্প্রতিক করণীয় তালিকা পরীক্ষা করুন,qa_factoid,0.7966,0.0707,False
+11162,bn-BD,lists,lists_remove,আমি তালিকা থেকে আপেল অপসারণ করতে চাই,iot_hue_lightoff,0.4972,0.4162,False
+11164,bn-BD,lists,lists_remove,তালিকা থেকে দূরে,lists_remove,0.7647,0.7647,True
+11166,bn-BD,lists,lists_query,google keep খুলুন,lists_remove,0.7391,0.0072,False
+11168,bn-BD,lists,lists_remove,আমার তালিকা ট্র্যাশ,email_query,0.9477,0.0155,False
+11172,bn-BD,lists,lists_query,আমাকে সমস্ত উপলব্ধ তালিকা দিন,lists_remove,0.8339,0.0255,False
+11174,bn-BD,lists,lists_query,এই ডিভাইসে সমস্ত তালিকা তালিকাভুক্ত করুন,lists_remove,0.7816,0.0063,False
+11180,bn-BD,calendar,calendar_query,আমার পার্টি পরিকল্পনা,recommendation_events,0.8045,0.0039,False
+11186,bn-BD,lists,lists_query,আমার জামাকাপড়ের তালিকা আছে,lists_query,0.5913,0.5913,True
+11189,bn-BD,lists,lists_query,তালিকা খুঁজুন,email_query,0.5475,0.0341,False
+11204,bn-BD,lists,lists_query,গুরুত্বপূর্ণ বাড়ির তথ্য,qa_factoid,0.9081,0.0084,False
+11215,bn-BD,lists,lists_query,তালিকা,email_query,1.0,0.0,False
+11250,bn-BD,lists,lists_query,আমার মুদির তালিকাটি আমাকে পড়ুন,social_post,0.621,0.0181,False
+11257,bn-BD,play,play_podcasts,আসমা পরবর্তী রেকর্ডিং চালাও,qa_factoid,0.1916,0.0397,False
+11259,bn-BD,play,play_podcasts,পরের পডক্যাস্টে যাও,qa_factoid,0.9028,0.0017,False
+11261,bn-BD,play,play_podcasts,পরবর্তী,datetime_query,0.4264,0.0069,False
+11265,bn-BD,play,play_podcasts,পরেরটা খেলো,qa_factoid,0.3872,0.0101,False
+11266,bn-BD,play,play_podcasts,আমার লাইব্রেরী থেকে একটি পডক্যাস্টটি বাজাও,qa_factoid,0.6089,0.007,False
+11267,bn-BD,play,play_podcasts,একুশে পদক বিষয়ক একটি ইন্টারেস্টিং পডক্যাস্ট খোঁজ এবং চালাও,email_query,0.3065,0.0318,False
+11270,bn-BD,play,play_podcasts,পরের পডক্যাস্টটি বাজাও,qa_factoid,0.9247,0.0031,False
+11272,bn-BD,play,play_podcasts,পরবর্তী টা বাজান,qa_factoid,0.6412,0.0183,False
+11279,bn-BD,play,play_podcasts,ফ্রেন্ডসের পরের পর্বের পডক্যাস্টে যাও,qa_factoid,0.9557,0.0025,False
+11286,bn-BD,play,play_podcasts,ভূত এফ এম পডক্যাস্ট চালাও,qa_factoid,0.8836,0.003,False
+11296,bn-BD,play,play_podcasts,আমার সমস্ত podcast আপ লোড কর,play_podcasts,1.0,1.0,True
+11302,bn-BD,play,play_podcasts,একাত্তরের চিঠি পডকাস্ট চালাও,iot_hue_lightoff,0.4091,0.0211,False
+11303,bn-BD,play,play_podcasts,পরের কারন পডক্যাস্টটি চালাও,qa_factoid,0.93,0.0032,False
+11306,bn-BD,play,play_podcasts,ঐ পডক্যাস্টটি আবার চালাও যেটি আমি গতকাল শুনছিলাম,iot_hue_lightoff,0.5949,0.0048,False
+11318,bn-BD,play,play_podcasts,একটি পডক্যাস্টের পরের পর্বটি বাজাও,qa_factoid,0.3776,0.0338,False
+11322,bn-BD,play,play_podcasts,আজকের পডক্যাস্টগুল কি,qa_factoid,0.9695,0.0008,False
+11328,bn-BD,play,play_podcasts,আবাহনীর পডক্যাস্ট চালাও,qa_factoid,0.7245,0.0041,False
+11331,bn-BD,play,play_podcasts,আমাকে ভাল রেটিং সহ রক গানের সেরা পডকাস্ট দেখান,social_post,0.2982,0.0483,False
+11335,bn-BD,play,play_music,সব স্লো গানগুলো শাফেল করে বাজাতে শুরু কর,play_music,0.9819,0.9819,True
+11339,bn-BD,play,play_podcasts,আমার সবচেয়ে বেশি দেখা পডকাস্ট চালান,qa_factoid,0.6182,0.0039,False
+11340,bn-BD,play,play_podcasts,নীরব এর একটি নতুন podcast আছে,play_podcasts,1.0,1.0,True
+11341,bn-BD,play,play_podcasts,সর্বশেষ গল্প কথন পডক্যাস্টটি খোঁজ,qa_factoid,0.9685,0.0015,False
+11343,bn-BD,play,play_podcasts,বিবিসি জানালা এর পরের পর্বে যাও,lists_remove,0.1985,0.0254,False
+11345,bn-BD,play,play_podcasts,পডক্যাস্টের পরের পর্বটি বাজাও,qa_factoid,0.6756,0.0127,False
+11349,bn-BD,play,play_podcasts,গত রাতে শুরু হয়েছে যে পডকাস্ট তার উপর শুরু করুন,lists_remove,0.342,0.0249,False
+11353,bn-BD,play,play_podcasts,আমাকে পডকাস্ট দেখান,iot_hue_lightoff,0.4757,0.0045,False
+11361,bn-BD,play,play_podcasts,বিয়ের গানের পডক্যাস্টটি বাজাও,qa_factoid,0.9851,0.0031,False
+11366,bn-BD,play,play_podcasts,পডক্যাস্টের আগের পর্বে যাও,qa_factoid,0.7066,0.0094,False
+11368,bn-BD,play,play_podcasts,আমাকে সাকিব এর পডকাস্ট বাজান,social_post,0.9461,0.0008,False
+11376,bn-BD,play,play_podcasts,আমি পডক্যাস্ট শুনতে চাই,qa_factoid,0.9564,0.0016,False
+11384,bn-BD,play,play_podcasts,তুমি কি অনুগ্রহ করে ইন্টারনেটে উপলব্ধ আমার পডকাস্ট ফাইলটি ডাউনলোড করে একবার চালাতে পারো,recommendation_events,0.8697,0.018,False
+11409,bn-BD,play,play_podcasts,দয়া করে পরবর্তী পডকাস্ট পর্বে যান,qa_factoid,0.909,0.0017,False
+11417,bn-BD,play,play_podcasts,পরের পর্বটি শুরু কর,calendar_remove,0.4492,0.0571,False
+11418,bn-BD,play,play_podcasts,সাকিবুল হাসানের সর্বশেষ পডকাস্ট চালান,qa_factoid,0.2206,0.0318,False
+11420,bn-BD,play,play_podcasts,আমার অতি সম্প্রতি পডকাস্ট বাজানো শুরু করুন,calendar_remove,0.376,0.008,False
+11423,bn-BD,play,play_podcasts,ত্রিশ সেকেন্ড পিছনে যান,weather_query,0.8823,0.0003,False
+11424,bn-BD,play,play_podcasts,রেডিও টুডে,social_post,0.8615,0.004,False
+11426,bn-BD,lists,lists_query,সবচেয়ে বেশি দেখা লিস্ট,social_post,0.9922,0.0033,False
+11427,bn-BD,play,play_podcasts,গিলমোর গাইজ শুরু কর,cooking_recipe,0.2841,0.1472,False
+11437,bn-BD,play,play_podcasts,দয়া করে আমার জন্য পডকাস্টটি বাজান,iot_hue_lightoff,0.4984,0.0019,False
+11438,bn-BD,play,play_podcasts,অনুগ্রহ করে পডকাস্টের পরবর্তী পর্ব যান,qa_factoid,0.2326,0.0234,False
+11442,bn-BD,play,play_podcasts,অনুগ্রহ করে নীরব এর সর্বশেষ podcast প্লে করুন,play_podcasts,0.9999,0.9999,True
+11451,bn-BD,play,play_podcasts,আমি সর্বশেষ মাইক এবং মাইক পডকাস্ট শুনতে চাই,qa_factoid,0.2973,0.2193,False
+11453,bn-BD,play,play_podcasts,ক্রিকেট পডক্যাস্টস শুরু কর,qa_factoid,0.8852,0.0026,False
+11455,bn-BD,play,play_podcasts,পরের অংশে চলে যাও,calendar_remove,0.4763,0.0136,False
+11458,bn-BD,play,play_podcasts,পরের পডকাস্ট পর্বে সরে যাও,calendar_remove,0.5263,0.0055,False
+11459,bn-BD,play,play_podcasts,এই পডকাস্টের গত পর্ব ফিরে যান,lists_remove,0.3491,0.0154,False
+11460,bn-BD,play,play_podcasts,আমি একটি খেলার পডকাস্ট শুনতে চাই,iot_hue_lightoff,0.4142,0.0267,False
+11467,bn-BD,play,play_podcasts,এই ভূতের গল্প এবং ভূতের গল্প জন্য সবচেয়ে সাম্প্রতিক পডকাস্ট চালান,qa_factoid,0.1757,0.0953,False
+11470,bn-BD,play,play_podcasts,আমার প্রিয় পডকাস্ট বাজাও,iot_hue_lightoff,0.382,0.0185,False
+11474,bn-BD,play,play_podcasts,সিরিজ পডক্যাস্টটি রিজিউম কর,qa_factoid,0.6307,0.0023,False
+11476,bn-BD,play,play_podcasts,আগের পডকাস্ট চালান,qa_factoid,0.7424,0.0124,False
+11483,bn-BD,play,play_podcasts,ভূত এফ এম বাজানো শুরু করুন,qa_factoid,0.4993,0.0049,False
+11490,bn-BD,play,play_podcasts,পডক্যাস্টের পরের শো টি চালাও,lists_remove,0.3231,0.0107,False
+11502,bn-BD,play,play_podcasts,পরবর্তী বোতাম,lists_remove,0.8213,0.0059,False
+11505,bn-BD,play,play_podcasts,আমার শেষ খেলা পডক্যাস্ট আবার চালাও,qa_factoid,0.8115,0.0046,False
+11514,bn-BD,play,play_podcasts,olly আমরা কি রেডিওতে পডকাস্ট শুনতে পারি,play_podcasts,0.9522,0.9522,True
+11515,bn-BD,play,play_podcasts,ঢাকা পোস্ট পডকাস্ট শোনাও,iot_hue_lightoff,0.6975,0.0124,False
+11525,bn-BD,play,play_podcasts,আমি পরবর্তী পডকাস্ট উপলব্ধ দেখতে চাই,iot_hue_lightoff,0.8095,0.003,False
+11529,bn-BD,play,play_podcasts,লিস্ট থেকে আমার পছন্দের পডক্যাস্টটি চালাও,qa_factoid,0.6333,0.2765,False
+11536,bn-BD,play,play_podcasts,প্লেলিস্টে পডকাস্ট পছন্দ যোগ করুন এবং শুরু করুন,iot_hue_lightoff,0.6297,0.0043,False
+11539,bn-BD,play,play_podcasts,পরবর্তী পডকাস্ট শুরু করুন,cooking_recipe,0.1752,0.0298,False
+11546,bn-BD,play,play_podcasts,আগের সপ্তাহের সব ভূত এফ এম চালাও,lists_remove,0.384,0.0124,False
+11554,bn-BD,play,play_podcasts,পডক্যাস্টটি বাজাও,qa_factoid,0.7898,0.0039,False
+11563,bn-BD,recommendation,recommendation_events,আমি ঢাকা কি করতে পারি,cooking_recipe,0.9652,0.0025,False
+11570,bn-BD,recommendation,recommendation_events,আমার শহরের চারপাশে কি ঘটছে,social_post,0.9738,0.0006,False
+11582,bn-BD,recommendation,recommendation_events,রাজশাহী আশেপাশে কি জ্যাজ দৃশ্য কোনকিছু ঘটছে,social_post,0.9824,0.0004,False
+11585,bn-BD,recommendation,recommendation_events,চট্টগ্রামের কোনো সাংস্কৃতিক ইভেন্ট হচ্ছে কি,social_post,0.9716,0.0007,False
+11598,bn-BD,recommendation,recommendation_events,অনুগ্রহ করে আমার জানান যে কুকুর প্রদর্শনী আমার নিজ শহর চলছে এমন ঘটনা দেখায়,social_post,0.7391,0.0138,False
+11600,bn-BD,recommendation,recommendation_events,আজ রাত বরিশাল থিয়েটারে আমি কোন সিনেমা দেখতে পারি,play_podcasts,0.1402,0.0435,False
+11610,bn-BD,recommendation,recommendation_events,আমাকে এই এখন শহর circus প্রদর্শনগুলি দিন,play_music,0.4751,0.0232,False
+11612,bn-BD,recommendation,recommendation_events,কি বন্দুক মেলা চট্টগ্রাম মধ্যে হয়,qa_factoid,0.9905,0.0002,False
+11616,bn-BD,recommendation,recommendation_events,বনানি আজ রাতে কি কোন ঘটনা ঘটছে,weather_query,0.9699,0.001,False
+11643,bn-BD,recommendation,recommendation_events,কি ঘটনা শীঘ্রই ঘটছে,qa_factoid,0.8234,0.0028,False
+11644,bn-BD,recommendation,recommendation_events,আমাকে ঢাকা ইভেন্ট গুলো দেখাও,lists_remove,0.8958,0.0022,False
+11650,bn-BD,recommendation,recommendation_events,অল্পবয়সী চালক এবং অস্থায়ী ড্রাইভার উভয়ই অন্যান্য চালকদের তুলনায় প্রায়শই দুর্ঘটনার শিকার হয় কারণ তাদের এখনও নিরাপদে গাড়ি চালানোর জন্য প্রয়োজনীয় বিস্তৃত অভিজ্ঞতা নেই গবেষণায় দেখা গেছে যে ড্রাইভিং অভিজ্ঞতা সড়ক দুর্ঘটনা হ্রাস করার একটি প্রধান কারণ এবং এটি সবচেয়ে নিরাপদ সময়। তরুণ চালকরা যখন শেখার সময় তত্ত্বাবধানে গাড়ি চালাচ্ছেন,lists_query,0.101,0.0456,False
+11681,bn-BD,recommendation,recommendation_events,অনুগ্রহ করে আমার নিকটে দৌড় প্রতিযোগিতা দেখান,social_post,0.7882,0.0048,False
+11685,bn-BD,recommendation,recommendation_events,আপনি আমাকে আমাদের এলাকায় ঘটছে এমন ঘটনাগুলি আপডেট দিলে আমি খুশি হবো,qa_factoid,0.8065,0.0101,False
+11705,bn-BD,recommendation,recommendation_events,আমাকে উপসাগরীয় অঞ্চলে চিত্র প্রদর্শনী দেখান,social_post,0.4028,0.0185,False
+11720,bn-BD,recommendation,recommendation_events,সাঁতার,qa_factoid,0.1569,0.0537,False
+11767,bn-BD,recommendation,recommendation_events,অলি এই উইকেন্ড চট্টগ্রাম কী ঘটনা ঘটছে,social_post,0.9882,0.0006,False
+11770,bn-BD,recommendation,recommendation_events,ডেমরা এই সপ্তাহান্তে কোনো ঘটনা,social_post,0.996,0.0003,False
+11782,bn-BD,recommendation,recommendation_events,এই সপ্তাহান্তে আমার কাছাকাছি কোন বিশেষ ঘটনা আছে,qa_factoid,0.6971,0.0093,False
+11798,bn-BD,recommendation,recommendation_events,লাইব্রেরিতে পরবর্তী ঘটনা কি,qa_factoid,0.169,0.0511,False
+11827,bn-BD,recommendation,recommendation_events,আমি আজ রাত কোথায় যেতে পারি,weather_query,0.7494,0.0027,False
+11839,bn-BD,recommendation,recommendation_events,আমার চারপাশে কি ঘটছে,social_post,0.846,0.0028,False
+11841,bn-BD,recommendation,recommendation_events,এই এলাকায় কি কোন নৈপুণ্য মেলা হয়,qa_factoid,0.7987,0.0086,False
+11844,bn-BD,recommendation,recommendation_events,বনানী এলাকায় কিছু আকর্ষণীয় হচ্ছে,social_post,0.9784,0.0009,False
+11845,bn-BD,recommendation,recommendation_events,অলি গাজিপুর এলাকায় কিছু উত্তেজনাপূর্ণ ঘটনা আমাকে অবগত,news_query,0.215,0.0332,False
+11860,bn-BD,recommendation,recommendation_events,আমাকে ঘটনা সমূহ বলুন,qa_factoid,0.2791,0.0279,False
+11867,bn-BD,recommendation,recommendation_events,আগামীকাল সিলেট একটি ক্রীড়া ইভেন্ট আছে,qa_factoid,0.2733,0.209,False
+11875,bn-BD,recommendation,recommendation_events,এলাকায় একটি খাদ্য উত্সব আছে,cooking_recipe,0.6609,0.0051,False
+11904,bn-BD,recommendation,recommendation_events,এই সপ্তাহন্ত এখানে কি ঘটছে,weather_query,0.979,0.0008,False
+11905,bn-BD,recommendation,recommendation_events,olly এই সপ্তাহান্তে আমার এলাকায় কার্যকলাপ সম্পর্কে আমাকে বলুন,email_sendemail,0.2187,0.065,False
+11911,bn-BD,recommendation,recommendation_events,এই সপ্তাহান্তে এলাকায় ভালো কিছু ঘটছে,news_query,0.3104,0.0221,False
+11916,bn-BD,recommendation,recommendation_events,কাছাকাছি কিছু থিম পার্ক কি কি,play_podcasts,0.7834,0.0064,False
+11969,bn-BD,recommendation,recommendation_events,আশেপাশে কি বিশেষ কিছু হচ্ছে,social_post,0.9447,0.0015,False
+11999,bn-BD,recommendation,recommendation_events,আমার শহরে আজকে সমস্ত ঘটনা আমাকে বলুন,social_post,0.7559,0.0165,False
+12008,bn-BD,recommendation,recommendation_events,ফেনি আজকে কোন মজার ঘটনা আছে,qa_factoid,0.8965,0.027,False
+12054,bn-BD,recommendation,recommendation_events,শহরের চারপাশে কি ঘটছে,weather_query,0.2471,0.0188,False
+12070,bn-BD,recommendation,recommendation_events,নিউমার্কেট কখন খোলে,datetime_query,0.9753,0.0013,False
+12073,bn-BD,recommendation,recommendation_events,স্থানীয় বর্তমান ঘটনা উল্লেখ করুন,weather_query,0.0912,0.0483,False
+12098,bn-BD,recommendation,recommendation_events,আমাকে কাছাকাছি গানের আসর দেখান,play_music,0.9755,0.0,False
+12189,bn-BD,transport,transport_query,টিকিটের জন্য আমি কিভাবে ট্রেন স্টেশনে যেতে পারি,transport_query,0.9727,0.9727,True
+12240,bn-BD,transport,transport_query,পাঁচটায় আমার যাতায়াতের বাড়িতে ট্রাফিক কেমন,weather_query,0.2107,0.022,False
+12245,bn-BD,transport,transport_query,ঢাকা থেকে চট্টগ্রাম যাওয়ার পরবর্তী ট্রেন কখন,weather_query,0.9949,0.0009,False
+12251,bn-BD,transport,transport_query,আমাকে গন্তব্য ঢাকা পর্যন্ত লোকাল ট্রেনের সময় দিন,qa_factoid,0.4262,0.0325,False
+12252,bn-BD,transport,transport_query,চট্টগ্রাম ট্রেনগুলো কখন ছাড়বে,qa_factoid,0.8967,0.003,False
+12261,bn-BD,transport,transport_query,পরের বুধবার বা বৃহস্পতিবার ঢাকা ট্রেনের জন্য আমার বিকল্পগুলি বলুন৷,lists_query,0.1619,0.0321,False
+12263,bn-BD,transport,transport_query,ঢাকা,qa_factoid,0.9948,0.0002,False
+12264,bn-BD,transport,transport_query,বাংলাদেশ,qa_factoid,0.9679,0.0002,False
+12294,bn-BD,transport,transport_query,আমাকে খামার বাড়ি অপেরা হাউসের ট্রেনের সময়সূচী দেখাও,qa_factoid,0.7066,0.0102,False
+12310,bn-BD,transport,transport_query,আমাকে রাঙ্গামাটি থেকে কুমিল্লা পর্যন্ত উপলব্ধ ট্রেন টিকিটের তালিকা দিন,email_sendemail,0.6132,0.0352,False
+12343,bn-BD,transport,transport_query,মঙ্গলবার ঢাকা স্টেশন থেকে দ্রুতযান রেলগাড়ি চেক টাইম,transport_query,0.3335,0.3335,True
+12354,bn-BD,transport,transport_query,আমাকে রেলগাড়ীর সময়টা দাও,qa_factoid,0.9772,0.0002,False
+12366,bn-BD,transport,transport_query,কুমিল্লা থেকে রাজশাহী পর্যন্ত কোন সংযোগকারী রেলগাড়ী আছে এবং কোন সময়ে,transport_query,0.8922,0.8922,True
+12367,bn-BD,transport,transport_query,রাঙ্গামাটির সেরা উপায় কি,cooking_recipe,0.9995,0.0,False
+12376,bn-BD,transport,transport_query,ঢাকা যেতে প্রথম মেট্রো কি,transport_query,0.4284,0.4284,True
+12392,bn-BD,transport,transport_query,আমাকে আজকের দিকটি বলুন,weather_query,0.8665,0.0001,False
+12402,bn-BD,transport,transport_query,শহর ভ্রমণের পরবর্তী রেলগাড়ি কখন এখান থেকে ছাড়বে,transport_query,0.9739,0.9739,True
+12419,bn-BD,transport,transport_query,ঢাকা দ্রুততম রুট,iot_hue_lightoff,0.5321,0.0067,False
+12430,bn-BD,transport,transport_query,আমাকে ঢাকার রেলগাড়ী আসার সময় বলুন,transport_query,0.5817,0.5817,True
+12436,bn-BD,transport,transport_query,এয়ারপোর্টে যেতে কতক্ষণ লাগবে,datetime_query,0.9267,0.0026,False
+12437,bn-BD,transport,transport_query,থিয়েটারে যাতায়াতের সময় কি,datetime_query,0.3538,0.0058,False
+12446,bn-BD,transport,transport_query,আপনি কি আমাকে ঢাকা উদ্দেশ্যে রেলগাড়ি ছেড়ে যাওয়ার সময় বলতে পারেন,recommendation_events,0.1816,0.0594,False
+12473,bn-BD,transport,transport_query,আমি এখান থেকে কিভাবে বাড়ি যাব,qa_factoid,0.5481,0.1797,False
+12526,bn-BD,transport,transport_query,চিলক্সের যাওয়ার দ্রুততম উপায় কী,cooking_recipe,0.6937,0.0011,False
+12532,bn-BD,transport,transport_query,জায়গায় পথ নেতৃত্ব,qa_factoid,0.9891,0.0002,False
+12581,bn-BD,transport,transport_query,যখন চ. ট্রেন চলছে আজ,weather_query,0.9848,0.0012,False
+12582,bn-BD,transport,transport_query,সকালে প্রথম সিটি সার্ভিস কখন পৌঁছায়,weather_query,0.9992,0.0,False
+12604,bn-BD,transport,transport_query,আমি কিভাবে অনলাইনে ট্রেনের টিকিট বুক করব,qa_factoid,0.6476,0.1581,False
+12618,bn-BD,transport,transport_query,ঢাকা যাওয়ার জন্য রাউন্ড ট্রিপ রেলগাড়ী টিকিটের দাম কত,qa_factoid,0.3905,0.051,False
+12623,bn-BD,transport,transport_query,আপনার কি ব্রাহ্মণবাড়িয়া এর ট্রেনের সময় আছে,qa_factoid,0.3577,0.0072,False
+12629,bn-BD,transport,transport_query,ঢাকা থেকে প্রথম ট্রেনটি কখন ছাড়ে,datetime_query,0.3651,0.116,False
+12634,bn-BD,transport,transport_query,পরের ট্রেন কখন চট্টগ্রাম উদ্দেশ্যে ছাড়বে,qa_factoid,0.4697,0.0415,False
+12707,bn-BD,transport,transport_query,নেভিগেশন অনুসন্ধান করুন,qa_factoid,0.8048,0.0006,False
+12759,bn-BD,transport,transport_query,ঢাকার গাড়ি পরিচালনার সময়,qa_factoid,0.5151,0.0111,False
+12797,bn-BD,transport,transport_query,আমার কাছাকাছি থেকে অবস্থান পর্যন্ত রেলগাড়ীর সময়,qa_factoid,0.7227,0.0119,False
+12800,bn-BD,transport,transport_query,গণ গ্রন্থাগার কোথায়,recommendation_events,0.9549,0.0029,False
+12817,bn-BD,transport,transport_query,আমি কিভাবে মলে যেতে পারি,qa_factoid,0.9699,0.0042,False
+12818,bn-BD,transport,transport_query,চট্টগ্রাম যাওয়ার রেলগাড়ী টিকিট কত,transport_query,0.8962,0.8962,True
+12824,bn-BD,transport,transport_query,ঢাকা যাওয়ার সমস্ত রেলগাড়ির সময় তালিকা করুন,transport_query,0.7078,0.7078,True
+12835,bn-BD,transport,transport_query,কোন সময়ে রেলগাড়ী ছাড়ে,weather_query,0.79,0.0059,False
+12839,bn-BD,transport,transport_query,আমাকে সেন্ট মার্টিন এবং সন্দীপ নিয়ে যাও,social_post,0.645,0.0114,False
+12851,bn-BD,transport,transport_query,আমাকে আমার বাড়ির পথ দেখাও,play_podcasts,0.2196,0.0216,False
+12856,bn-BD,transport,transport_query,নির্দেশাবলী দয়া করে,recommendation_events,0.9948,0.0001,False
+12866,bn-BD,transport,transport_query,সুবর্ণ এক্সপ্রেস সময় কি,iot_hue_lightoff,0.602,0.0058,False
+12908,bn-BD,transport,transport_query,বান্দরবান রেলগাড়ি কখন পৌঁছাবে,weather_query,0.9973,0.0006,False
+12930,bn-BD,transport,transport_query,আমার কাছাকাছি দোকানে মানচিত্র দেখুন,social_post,0.9818,0.0003,False
+12932,bn-BD,transport,transport_query,অলি আমার বেইলি রোড দিকনির্দেশ দরকার,qa_factoid,0.9702,0.0005,False
+12951,bn-BD,qa,qa_factoid,বিশ্বের সর্বোচ্চ ভবন কি,qa_factoid,0.661,0.661,True
+12957,bn-BD,qa,qa_definition,বিস্তারিত সংজ্ঞায়িত করুন,iot_hue_lightoff,0.9104,0.0468,False
+12961,bn-BD,qa,qa_definition,ফরেনসিক সংজ্ঞায়িত করুন,iot_hue_lightoff,0.9927,0.0024,False
+12963,bn-BD,qa,qa_definition,আদালত সম্বন্ধীয় এর সংজ্ঞা কি,qa_factoid,0.9905,0.0013,False
+12972,bn-BD,qa,qa_factoid,যা পৃথিবীর সর্বোচ্চ শৃঙ্গ,qa_factoid,0.9999,0.9999,True
+12982,bn-BD,qa,qa_definition,অশান্তি মানে কি,qa_definition,0.8386,0.8386,True
+12986,bn-BD,qa,qa_definition,কৌতুক সংজ্ঞা পরীক্ষা করুন,iot_hue_lightoff,0.687,0.0022,False
+12999,bn-BD,qa,qa_factoid,ইমরান হোসেন বয়স কত,email_query,0.9998,0.0,False
+13016,bn-BD,qa,qa_definition,ভুলের সংজ্ঞা দেখুন,iot_hue_lightoff,0.6884,0.018,False
+13023,bn-BD,cooking,cooking_recipe,আমাকে রেসিপি দেখান,qa_factoid,0.964,0.0001,False
+13069,bn-BD,qa,qa_definition,কমলার সংজ্ঞা কি,qa_factoid,0.9969,0.0003,False
+13074,bn-BD,qa,qa_factoid,কেন সুমন আহমেদ মজার না,social_post,0.9682,0.0233,False
+13077,bn-BD,qa,qa_factoid,রবিউল ইসলাম জন্মদিন কি,email_query,0.9248,0.0052,False
+13078,bn-BD,qa,qa_factoid,আমাকে শাফায়েত রাজু ঠিকানা বলুন,qa_factoid,0.5468,0.5468,True
+13099,bn-BD,qa,qa_factoid,যিনি ছিলেন বাংলাদেশের বর্তমান প্রধানমন্ত্রী,qa_factoid,0.5426,0.5426,True
+13115,bn-BD,qa,qa_factoid,বাংলাদেশ রাজধানী কি,social_post,0.7671,0.0239,False
+13124,bn-BD,qa,qa_factoid,কসমস কত বড়,qa_factoid,0.9583,0.9583,True
+13135,bn-BD,qa,qa_factoid,রেজাউল করিম জন্ম তারিখ কখন,datetime_query,0.9999,0.0,False
+13140,bn-BD,qa,qa_definition,আমাকে প্রবল সামুদ্রিক ঝড় সম্পর্কে সব বলুন,email_sendemail,0.5429,0.0655,False
+13154,bn-BD,qa,qa_factoid,আপনি কি ফোন নম্বর জানেন জেনিয়া সুইটির,email_query,0.9348,0.0423,False
+13165,bn-BD,qa,qa_definition,দোদুল্যমান মানে কি,qa_definition,0.9974,0.9974,True
+13166,bn-BD,qa,qa_definition,oscillate বানান এবং সংজ্ঞায়িত করুন,play_music,0.8158,0.0002,False
+13177,bn-BD,calendar,calendar_set,আমাকে স্মরণ করানো মনে করিয়ে ঘোরো যাতে ওজন বৃদ্ধি না হয়,lists_remove,0.282,0.029,False
+13178,bn-BD,calendar,calendar_set,আমাকে পুরানো বন্ধুদের সাথে যোগাযোগ করতে মনে করিয়ে দিন যাদের সাথে আমি পাস করার ছয় মাস আগে কথা বলিনি,email_sendemail,0.9563,0.0017,False
+13188,bn-BD,news,news_query,ঢাকার বিধানসভা নির্বাচনের ফলাফল কেমন হবে বলুন,qa_factoid,0.8349,0.0416,False
+13206,bn-BD,qa,qa_definition,অবস্থান,qa_factoid,0.4097,0.0127,False
+13215,bn-BD,transport,transport_query,কোন ট্র্যাফিক যাতে ঝামেলা না করে আমার কাজ জয়পুরহাট দ্রুততম উপায় কি,qa_factoid,0.2682,0.0228,False
+13252,bn-BD,qa,qa_factoid,ইসমাইল হোসেন প্রথম নভেম্বর এল কি ছিল,social_post,0.7438,0.0005,False
+13255,bn-BD,qa,qa_factoid,অনুগ্রহ করে আমাকে শেখ হাসিনা সম্পর্কে তথ্য দিন,social_post,0.8873,0.0081,False
+13283,bn-BD,qa,qa_factoid,শফিউল আলম কত টাকা আয় করেছে,email_sendemail,0.9017,0.0786,False
+13288,bn-BD,qa,qa_definition,চিরস্থায়ী শব্দের সংজ্ঞা কি,qa_factoid,0.6983,0.2937,False
+13297,bn-BD,qa,qa_factoid,যিনি সেলিব্রিটি,qa_factoid,0.7012,0.7012,True
+13298,bn-BD,qa,qa_factoid,সেলিব্রেটিরা কি করে,qa_factoid,0.7714,0.7714,True
+13330,bn-BD,qa,qa_factoid,একটি শুক্রাণু তিমি আকার কি,iot_hue_lightoff,0.7506,0.013,False
+13361,bn-BD,qa,qa_definition,সময়োপযোগীতার সংজ্ঞা কি,qa_factoid,0.9811,0.0003,False
+13383,bn-BD,qa,qa_factoid,কত রাজ্যে মৃত্যুদণ্ড আছে,qa_factoid,0.9999,0.9999,True
+13400,bn-BD,social,social_post,আমার সব বন্ধুদের একটি মজার বার্তা পাঠান,social_post,0.9672,0.9672,True
+13439,bn-BD,qa,qa_factoid,হুমায়ুন আহমেদের বয়স কত,email_query,0.9975,0.0001,False
+13457,bn-BD,calendar,calendar_set,আমাকে বলুন কখন আমার একটি নির্ধারিত ইভেন্টের জন্য রওনা হওয়া উচিত যাতে আমি সময়মত থাকি,iot_hue_lightoff,0.5391,0.0064,False
+13473,bn-BD,qa,qa_factoid,কবে বাংলাদেশ স্বাধীনতা পেয়েছি,qa_factoid,0.7452,0.7452,True
+13487,bn-BD,qa,qa_factoid,olly ঢাকার রাজধানী কি,social_post,0.9641,0.0005,False
+13494,bn-BD,qa,qa_definition,অনুপ্রেরণার সংজ্ঞা দাও,qa_factoid,0.7107,0.0008,False
+13506,bn-BD,datetime,datetime_query,আপনি কি এখন কয়টা বাজে বলতে পারেন,datetime_query,0.333,0.333,True
+13513,bn-BD,qa,qa_factoid,একটি কুকুরের কয়টি পা আছে,lists_remove,0.9032,0.0045,False
+13516,bn-BD,qa,qa_factoid,তিমি বড় কেন,qa_factoid,0.9986,0.9986,True
+13546,bn-BD,qa,qa_factoid,সুমন কি শেষ সিনেমাটি কী ছিল,qa_factoid,0.1414,0.1414,True
+13554,bn-BD,qa,qa_factoid,আব্দুল হাকিম কত লম্বা,iot_hue_lightoff,0.5894,0.3317,False
+13575,bn-BD,qa,qa_factoid,সর্বশেষ একাডেমি পুরস্কার বিজয়ী সিনেমা কখন,recommendation_events,0.5938,0.0268,False
+13580,bn-BD,qa,qa_factoid,তাজিং ডং কত উঁচু,iot_hue_lightoff,0.9981,0.0006,False
+13591,bn-BD,qa,qa_factoid,বাংলাদেশের রাজধানী কি,social_post,0.4966,0.013,False
+13592,bn-BD,qa,qa_factoid,মানচিত্রে বাংলাদেশ কোথায় অবস্থিত,qa_factoid,0.266,0.266,True
+13604,bn-BD,qa,qa_factoid,আমাকে বলুন মাইকেল মধূসুধন কোথায় জন্মগ্রহণ করেছিলেন,social_post,0.7281,0.0005,False
+13607,bn-BD,qa,qa_factoid,মুজিব বিবাহিত কিনা আপনি দয়া করে নিশ্চিত করতে পারেন,qa_factoid,0.9957,0.9957,True
+13616,bn-BD,qa,qa_factoid,যেখানে বেশিরভাগ সেলিব্রিটিরা আড্ডা দেন,qa_factoid,0.5287,0.5287,True
+13619,bn-BD,recommendation,recommendation_events,আমার এলাকায় আজকে কোন বিনামূল্যে আয়োজন আছে কি,social_post,0.2868,0.1462,False
+13625,bn-BD,qa,qa_definition,বৃহত্তম ডেস্ক কি,qa_factoid,0.835,0.0532,False
+13636,bn-BD,qa,qa_factoid,ওবায়েদ হাসান ইয়াকিনের জন্মদিন ক,email_sendemail,0.9989,0.0,False
+13679,bn-BD,qa,qa_factoid,আপনি কি আমাকে বলতে পারেন একটি গাভীর পাকস্থলী কয়টি,iot_hue_lightoff,0.4811,0.052,False
+13681,bn-BD,qa,qa_factoid,রিয়াজ কত নাটকে অভিনয় করেছেন,email_query,0.5411,0.0041,False
+13683,bn-BD,qa,qa_factoid,আব্দুল হামিদ কোন ব্র্যান্ডের হেয়ার স্প্রে ব্যবহার করেন,qa_factoid,0.4726,0.4726,True
+13689,bn-BD,qa,qa_definition,একটি চেয়ার কি,qa_factoid,0.9572,0.0003,False
+13690,bn-BD,qa,qa_factoid,চেয়ারের রং কি,iot_hue_lightoff,0.8741,0.1196,False
+13693,bn-BD,qa,qa_factoid,প্রধান মেরিডিয়ান কোথায়,qa_factoid,0.6816,0.6816,True
+13705,bn-BD,qa,qa_definition,একটি ইলেকট্রনিক নির্গমন সিস্টেম কি,qa_definition,0.9809,0.9809,True
+13706,bn-BD,qa,qa_definition,একটি মেশিনের ঘূর্ণমান অংশ বর্ণনা করুন,iot_hue_lightoff,0.601,0.0036,False
+13714,bn-BD,qa,qa_definition,একটি আম কি,qa_factoid,0.4895,0.0537,False
+13717,bn-BD,qa,qa_factoid,আপনি কি সত্যিই ভারত থেকে বাংলাদেশি দেখতে পারেন,qa_factoid,0.9402,0.9402,True
+13758,bn-BD,qa,qa_factoid,কনক চাপার বয়স কত,iot_hue_lightoff,0.7635,0.0925,False
+13761,bn-BD,qa,qa_factoid,একটি পার্সেক কি,qa_factoid,0.6333,0.6333,True
+13774,bn-BD,qa,qa_factoid,বাংলাদেশ থেকে বাংলাদেশের কত দূরে,qa_factoid,0.7654,0.7654,True
+13777,bn-BD,qa,qa_definition,আপনি একটি ক্রেডিট কার্ড বর্ণনা করতে পারেন,qa_factoid,0.8941,0.0088,False
+13780,bn-BD,qa,qa_factoid,আবু সালেহ বিবাহিত,social_post,0.9916,0.0009,False
+13798,bn-BD,qa,qa_factoid,পৃথিবীর গড় দেশ কত বর্গ মাইল,qa_factoid,0.9783,0.9783,True
+13799,bn-BD,qa,qa_definition,অধীনস্থ এর সংজ্ঞা কি,qa_factoid,0.9366,0.0001,False
+13823,bn-BD,qa,qa_factoid,সূর্য কত দূরে,qa_factoid,0.9996,0.9996,True
+13853,bn-BD,qa,qa_factoid,যেখানে পৃথিবীতে সবচেয়ে বেশি আগ্নেয়গিরি রয়েছে,qa_factoid,0.9367,0.9367,True
+13854,bn-BD,qa,qa_factoid,সুমন কখন মারা যায়,weather_query,0.9915,0.0073,False
+13863,bn-BD,qa,qa_definition,যুক্তির সংজ্ঞা কি,qa_factoid,0.9994,0.0002,False
+13867,bn-BD,qa,qa_factoid,মিরপুর পার্ক কোথায়,qa_definition,0.4393,0.0911,False
+13869,bn-BD,qa,qa_factoid,অনুগ্রহ করে মাউন্ট রাশমোরের অবস্থান এবং তথ্য গুগল করুন,recommendation_events,0.4741,0.0268,False
+13871,bn-BD,qa,qa_definition,আপনি কিভাবে একটি শুভ জন্মদিন বর্ণনা করবেন,weather_query,0.2889,0.0716,False
+13881,bn-BD,qa,qa_factoid,অনুগ্রহ করে আমাকে আয়ুব বাচ্চু সম্পর্কে তথ্য দিন,email_sendemail,0.7084,0.0009,False
+13888,bn-BD,qa,qa_factoid,রাজশাহীর তাপমাত্রা কত,weather_query,0.9721,0.0022,False
+13895,bn-BD,qa,qa_factoid,আপনি আমাকে শাকিব খান সম্পর্কে বলতে পারেন,social_post,0.9651,0.0028,False
+13900,bn-BD,qa,qa_definition,জীবনের সংজ্ঞা,qa_factoid,0.9174,0.0001,False
+13907,bn-BD,qa,qa_definition,হতবাক সংজ্ঞায়িত করুন,qa_definition,0.412,0.412,True
+13908,bn-BD,qa,qa_definition,আপনি কি আমাকে বলতে পারেন হতবাক মানে কি,qa_definition,0.9532,0.9532,True
+13926,bn-BD,qa,qa_factoid,হিমেলের জন্মদিন কি,datetime_query,0.9431,0.0423,False
+13927,bn-BD,qa,qa_factoid,আলী আজগরের মূল্য কত,qa_factoid,0.97,0.97,True
+13974,bn-BD,qa,qa_factoid,মালদ্বীপ কোথায় অবস্থিত,qa_factoid,0.9092,0.9092,True
+13983,bn-BD,qa,qa_definition,বারি সিদ্দিকী,social_post,0.9967,0.0,False
+13984,bn-BD,qa,qa_definition,কর্মের পরিণতি,cooking_recipe,0.1653,0.0177,False
+13997,bn-BD,qa,qa_factoid,গড় ঘর কত,qa_factoid,0.9955,0.9955,True
+14000,bn-BD,qa,qa_definition,একটি অলসতা বর্ণনা করুন,iot_hue_lightoff,0.6776,0.014,False
+14001,bn-BD,qa,qa_factoid,স্লথ সম্পর্কে আপনি যা জানেন তা আমাকে বলুন,qa_factoid,0.5427,0.5427,True
+14011,bn-BD,qa,qa_factoid,ডলি শান্তনুর জন্মদিন কি,datetime_query,0.8492,0.0351,False
+14015,bn-BD,qa,qa_factoid,বাংলাদেশ স্থানাঙ্কগুলি কী কী,qa_factoid,0.4371,0.4371,True
+14023,bn-BD,qa,qa_definition,জাহান্নাম বর্ণনা করুন,social_post,0.5668,0.0096,False
+14033,bn-BD,qa,qa_factoid,কাদের কখন জন্মেছিলেন আমাকে বলুন,qa_factoid,1.0,1.0,True
+14038,bn-BD,qa,qa_factoid,মোল্দোভার অবস্থান কি,social_post,0.3683,0.1499,False
+14040,bn-BD,qa,qa_factoid,হাল্ক হোগান কত লম্বা,iot_hue_lightoff,0.8834,0.0524,False
+14053,bn-BD,qa,qa_factoid,শাকিব খান কোন বছর অভিনয় শুরু করেন,email_sendemail,0.6371,0.0015,False
+14063,bn-BD,qa,qa_factoid,ইলিয়াস আলীর জন্মদিন কি ছিল,email_query,0.8537,0.0001,False
+14083,bn-BD,qa,qa_factoid,যেখানে শাকিব খান বর্তমানে থাকেন,social_post,0.9946,0.0013,False
+14096,bn-BD,qa,qa_factoid,কোথায় বিলাইছড়ি,qa_factoid,0.9981,0.9981,True
+14115,bn-BD,qa,qa_definition,শিলা বালির বিবরণ দিন,cooking_recipe,0.6584,0.0069,False
+14116,bn-BD,qa,qa_definition,শিলা বালি বর্ণনা করুন,cooking_recipe,0.9415,0.0076,False
+14117,bn-BD,qa,qa_factoid,সাজেক কোথায় অবস্থিত,qa_factoid,0.7475,0.7475,True
+14118,bn-BD,qa,qa_factoid,সিলেটের ভৌগলিক বিবরণ দেখান,iot_hue_lightoff,0.9704,0.0021,False
+14126,bn-BD,qa,qa_factoid,জেমসের জীবনী দেখান,social_post,0.7944,0.0132,False
+14138,bn-BD,qa,qa_definition,দয়া করে আমাকে বলুন নলাকার বস্তুর সংজ্ঞা কি,qa_factoid,0.9771,0.0177,False
+14147,bn-BD,qa,qa_definition,কম্বল সংজ্ঞায়িত করুন,iot_hue_lightoff,0.9813,0.0038,False
+14150,bn-BD,qa,qa_definition,কনভার্স জুতা কি,qa_definition,0.2598,0.2598,True
+14151,bn-BD,qa,qa_factoid,কি ধরনের সানগ্লাস বিমানচালক হিসাবে বিবেচিত হয়,qa_factoid,0.9995,0.9995,True
+14154,bn-BD,qa,qa_factoid,এশিয়া তথ্য,qa_factoid,0.9962,0.9962,True
+14163,bn-BD,qa,qa_factoid,এলাকা অনুসন্ধান করুন,social_post,0.4317,0.2249,False
+14169,bn-BD,qa,qa_factoid,কামাল হোসেন কলেজে কোথায় গিয়েছিল,social_post,0.6612,0.0543,False
+14170,bn-BD,qa,qa_factoid,কায়সার আলী কি কনভার্স পরেন,cooking_recipe,0.7518,0.0125,False
+14179,bn-BD,qa,qa_factoid,আমার বর্তমান অবস্থান থেকে বাংলাদেশ কত দূরে,qa_factoid,0.4686,0.4686,True
+14214,bn-BD,transport,transport_query,একই জন্য ভ্রমণের উপায় খুঁজুন,transport_query,0.6392,0.6392,True
+14229,bn-BD,qa,qa_factoid,শাকিব খান কোন সিনেমায় অভিনয় করেছেন,social_post,0.9969,0.0008,False
+14243,bn-BD,qa,qa_factoid,ব্যক্তির উপর বিস্তারিত,qa_definition,0.4809,0.0945,False
+14272,bn-BD,qa,qa_definition,আরে কি বই,iot_hue_lightoff,0.8982,0.0041,False
+14283,bn-BD,qa,qa_factoid,ঢাকা সম্পর্কে বলুন,email_query,0.3407,0.1905,False
+14306,bn-BD,qa,qa_factoid,ভারতের ভৌগলিক অবস্থান ব্যাখ্যা কর,qa_factoid,0.7773,0.7773,True
+14308,bn-BD,qa,qa_factoid,লিওনার্দো ডিকাপ্রিওর নেটওয়ার্থ কত,qa_factoid,0.3211,0.3211,True
+14316,bn-BD,qa,qa_factoid,রাজশাহী কত বড়,qa_factoid,0.4517,0.4517,True
+14317,bn-BD,qa,qa_factoid,ভারতের আয়তন কত,qa_factoid,0.7145,0.7145,True
+14323,bn-BD,qa,qa_factoid,ড্রাগন ফলের রং কি,iot_hue_lightoff,0.6959,0.051,False
+14330,bn-BD,qa,qa_factoid,কাজী নজরুলের কোথায় জন্মগ্রহণ করেছিলেন,social_post,0.8015,0.0074,False
+14347,bn-BD,qa,qa_definition,একটি হাইপোথিসিস কি,qa_factoid,0.6324,0.3346,False
+14354,bn-BD,qa,qa_factoid,মহাবিশ্বের উত্তর কি,qa_factoid,0.8519,0.8519,True
+14355,bn-BD,qa,qa_factoid,অনেক সী সিল সালি সমুদ্রের তীরে বিক্রি করতে পারেন,recommendation_events,0.5113,0.029,False
+14370,bn-BD,qa,qa_factoid,আমাকে সেলিব্রিটি পেশা বলুন,qa_factoid,0.9416,0.9416,True
+14378,bn-BD,qa,qa_definition,বেগের সংজ্ঞা,qa_factoid,0.7729,0.0037,False
+14382,bn-BD,qa,qa_factoid,এম্পায়ার স্টেট বিল্ডিং কত বড়,iot_hue_lightoff,0.4353,0.3281,False
+14395,bn-BD,qa,qa_factoid,পৃথিবীর গভীরতম বিন্দু কি,qa_definition,0.9728,0.0266,False
+14414,bn-BD,qa,qa_definition,computer hard disk সম্পর্কে বর্ণনা কর,qa_definition,0.9622,0.9622,True
+14417,bn-BD,qa,qa_factoid,কোন মহাসাগর আমাদের মহাদেশে স্পর্শ করে,social_post,0.9484,0.0118,False
+14419,bn-BD,qa,qa_factoid,এই বছর কি পরীমনির নতুন সিনেমা আসছে,play_podcasts,0.1239,0.0854,False
+14429,bn-BD,qa,qa_definition,একটি ক্যাফটান কি,qa_factoid,0.9778,0.0212,False
+14440,bn-BD,qa,qa_factoid,বাংলাদেশের রাজধানী কি,social_post,0.4966,0.013,False
+14442,bn-BD,qa,qa_factoid,ফেনী কোথায়,qa_factoid,1.0,1.0,True
+14444,bn-BD,qa,qa_factoid,চঞ্চল চৌধুরির প্রথম সিনেমা কি ছিল,social_post,0.3301,0.0457,False
+14449,bn-BD,qa,qa_factoid,আনিকা একটি নতুন বাচ্চা আছে,qa_factoid,0.6921,0.6921,True
+14457,bn-BD,qa,qa_factoid,রাস্তা খুঁজুন,lists_remove,0.2202,0.1212,False
+14465,bn-BD,transport,transport_query,সীতাকুন্ডের দিকনির্দেশ দিন,datetime_query,0.4617,0.0037,False
+14490,bn-BD,qa,qa_factoid,কক্সবাজার কখন নির্মিত হয়েছিল,qa_factoid,0.9453,0.9453,True
+14498,bn-BD,qa,qa_definition,আমাকে স্মার্টফোন সম্পর্কে বর্ণনা দিন,iot_hue_lightoff,0.4977,0.0116,False
+14504,bn-BD,qa,qa_factoid,অলি সজিব ওয়াজেদ কত সভা করেছিলেন,qa_factoid,0.6884,0.6884,True
+14505,bn-BD,qa,qa_factoid,যিনি বাংলাদেশের বর্তমান প্রধানমন্ত্রী,email_sendemail,0.3141,0.2484,False
+14508,bn-BD,qa,qa_factoid,অনুগ্রহ করে সর্বশেষ জর্জ আর এর সংক্ষিপ্ত বিবরণ দিন। r মার্টিন আইস এবং ফায়ার বই,email_sendemail,1.0,0.0,False
+14509,bn-BD,qa,qa_factoid,সুমন আহমেদ কোথায় জন্মগ্রহণ করেন,email_sendemail,0.8485,0.0008,False
+14539,bn-BD,qa,qa_factoid,এই স্থানের ভৌগলিক বিবরণ খুঁজুন,qa_definition,0.6974,0.2224,False
+14545,bn-BD,qa,qa_factoid,বাংলাদেশের অবস্থান সম্পর্কে বলুন,email_query,0.1994,0.073,False
+14567,bn-BD,qa,qa_factoid,পৃথিবীর বৃহত্তম সক্রিয় আগ্নেয়গিরি কি,qa_factoid,1.0,1.0,True
+14585,bn-BD,qa,qa_factoid,এশিয়া থেকে বাংলাদেশ যেতে কতক্ষণ লাগবে,datetime_query,0.6449,0.1881,False
+14591,bn-BD,qa,qa_definition,আমাকে একটি টেলিভিশন সার্কিটের বর্ণনা দিন,qa_factoid,0.4735,0.0013,False
+14592,bn-BD,qa,qa_definition,আমাকে একটি স্মার্টফোন সার্কিটের বর্ণনা দিন,iot_hue_lightoff,0.9052,0.0011,False
+14597,bn-BD,qa,qa_factoid,বাংলাদেশের জনসংখ্যা কত,social_post,0.3783,0.2355,False
+14601,bn-BD,qa,qa_factoid,আব্রাহাম লিংকন কত বছর মার্কিন যুক্তরাষ্ট্রের প্রেসিডেন্ট ছিলেন,qa_factoid,0.9933,0.9933,True
+14605,bn-BD,qa,qa_factoid,মৌসুমি কি ওমরসানিকে ছেড়ে দিয়েছে,social_post,0.9383,0.0042,False
+14608,bn-BD,qa,qa_factoid,পূর্ণিমা কোন নতুন মুভিতে কাজ করছেন,social_post,0.9857,0.0044,False
+14622,bn-BD,qa,qa_definition,একটি গোলক কি বর্ণনা করুন,cooking_recipe,0.9229,0.0315,False
+14648,bn-BD,cooking,cooking_recipe,রেসিপি দয়া করে,qa_factoid,0.9936,0.0003,False
+14653,bn-BD,qa,qa_factoid,বাংলাদেশ জনসংখ্যা কত,social_post,0.6506,0.1885,False
+14661,bn-BD,qa,qa_factoid,শেখ হাসিনা জন্ম সাল কত,datetime_query,0.8401,0.0101,False
+14668,bn-BD,qa,qa_definition,আইটেম xy বর্ণনা করুন,iot_hue_lightoff,0.4711,0.0245,False
+14683,bn-BD,qa,qa_factoid,আজাদ ছিদ্দিকী শখ কি,social_post,0.9998,0.0001,False
+14684,bn-BD,qa,qa_factoid,যিনি বাংলাদেশের প্রধানমন্ত্রী,qa_factoid,0.5419,0.5419,True
+14690,bn-BD,qa,qa_definition,ঠিক আছে গুগল একজন রাষ্ট্রপতি কি,qa_factoid,0.9953,0.0044,False
+14700,bn-BD,qa,qa_definition,ঠিক কি একটি রজন দাঁত ভর্তি,qa_factoid,0.5631,0.3382,False
+14701,bn-BD,qa,qa_definition,হৃদয় পাথর কার্ড খেলা বর্ণনা,cooking_recipe,0.1111,0.0512,False
+14705,bn-BD,qa,qa_factoid,ঠিক আছে গুগল আসমা জান্নাত কোথায় থাকে,social_post,0.9319,0.0237,False
+14706,bn-BD,qa,qa_factoid,রাবেয়া খাতুন কোথায় থাকে,social_post,0.8465,0.1445,False
+14746,bn-BD,qa,qa_factoid,বাংলাদেশের রাজধানী কি,social_post,0.4966,0.013,False
+14761,bn-BD,qa,qa_definition,আমাকে pontificate শব্দের সংজ্ঞা দিন,email_sendemail,0.4828,0.0436,False
+14767,bn-BD,qa,qa_definition,আপনি কিভাবে একটি বল বর্ণনা করবেন,iot_hue_lightoff,0.3541,0.0787,False
+14770,bn-BD,qa,qa_factoid,আমাকে পৃথিবীর বৃহত্তম মহাসাগর বলুন,qa_factoid,0.997,0.997,True
+14787,bn-BD,qa,qa_factoid,রোমান এবং গ্রিগোরিয়ান ক্যালেন্ডারের মধ্যে পার্থক্য কি,qa_factoid,0.941,0.941,True
+14791,bn-BD,qa,qa_factoid,চেয়ার মেক আপ কি,qa_factoid,0.7373,0.7373,True
+14794,bn-BD,qa,qa_factoid,সুমন প্রিয় যাত্রা কি,cooking_recipe,0.8499,0.0381,False
+14822,bn-BD,qa,qa_factoid,মানুষের মধ্যে তুলনা করতে,qa_definition,0.742,0.1357,False
+14838,bn-BD,qa,qa_factoid,একটি নিরপেক্ষ ঘনত্ব ফিল্টার কি এবং আমি কি গ্রেডিয়েন্ট এক বা একটি কঠিন চাই যেটি একটি এবং বর্গাকার স্ক্রুগুলির মধ্যে স্টাইলে ভাল হবে,qa_factoid,0.8099,0.8099,True
+14857,bn-BD,qa,qa_definition,আপনি আমার জন্য অতিরিক্ত এর অর্থ ব্যাখ্যা করতে পারেন দয়া করে,qa_factoid,0.6614,0.0149,False
+14877,bn-BD,qa,qa_factoid,যে এলাকায় জলবায়ু অবস্থা কি,qa_factoid,0.3112,0.3112,True
+14879,bn-BD,qa,qa_definition,এর অর্থ,qa_definition,0.9983,0.9983,True
+14884,bn-BD,qa,qa_factoid,সমগ্র বাংলাদেশ মধ্যে সবচেয়ে কম টর্নেডো প্রবণ রাজ্য কি,lists_query,0.8183,0.0207,False
+14889,bn-BD,qa,qa_definition,দয়া করে আমার জন্য বস্তুটির বর্ণনা করুন,qa_factoid,0.3178,0.2507,False
+14891,bn-BD,qa,qa_factoid,সেই ব্যক্তি কোন ক্ষেত্রে পারদর্শী,qa_factoid,0.9978,0.9978,True
+14912,bn-BD,qa,qa_factoid,যেখানে প্রেসিডেন্ট শেখ হাসিনা জন্মগ্রহণ করেন,social_post,0.4094,0.0187,False
+14917,bn-BD,qa,qa_factoid,শাকিব খানের পরবর্তী অ্যালবাম কখন বের হবে,qa_factoid,0.7048,0.7048,True
+14933,bn-BD,qa,qa_factoid,আমাকে বাংলাদেশের ভূগোল সম্পর্কে তথ্য বলুন,email_query,0.5861,0.039,False
+14939,bn-BD,qa,qa_factoid,আমার রোকেয়া খাতুন সম্পর্কে কিছু বিশদ প্রয়োজন দয়া করে সহায়তা করুন,social_post,0.5325,0.0111,False
+14981,bn-BD,qa,qa_definition,iphone seven এর বর্ণনা,qa_definition,0.9518,0.9518,True
+14994,bn-BD,qa,qa_factoid,শাকিব খানের পরবর্তী সিনেমা কি,qa_factoid,0.3387,0.3387,True
+14995,bn-BD,qa,qa_definition,পরিস্থিতি মানে কি,qa_factoid,0.9823,0.0152,False
+15020,bn-BD,qa,qa_factoid,আলী আকবরের বয়স কত,email_query,0.951,0.0,False
+15039,bn-BD,qa,qa_factoid,olly পাথুরে পাহাড় কোথা থেকে শুরু হয়,qa_factoid,0.9244,0.9244,True
+15055,bn-BD,qa,qa_factoid,কোন মেরুটি দক্ষিণ বা উত্তরে ঠান্ডা,weather_query,0.9866,0.0004,False
+15056,bn-BD,qa,qa_factoid,ইমন আজমের নতুন বয়ফ্রেন্ডের বয়স কত,email_query,0.4755,0.0435,False
+15062,bn-BD,qa,qa_factoid,লিজা বেগম সম্পর্কে তথ্য দয়া করে,email_query,0.9988,0.0001,False
+15075,bn-BD,qa,qa_factoid,অলি প্রথম আমেরিকানরা কোথায় বসতি স্থাপন করেছিল,social_post,0.8458,0.0262,False
+15092,bn-BD,qa,qa_definition,একটি samsung t. v. সম্পর্কে একটি বিবরণ খুঁজুন,qa_definition,0.9945,0.9945,True
+15094,bn-BD,qa,qa_factoid,মিয়ামি ফ্লোরিডায় বসবাসকারী লোকের সংখ্যা দেখুন,qa_factoid,0.5976,0.5976,True
+15095,bn-BD,qa,qa_factoid,কক্সবাজার কোন অঞ্চলে অবস্থিত,lists_query,0.0963,0.0416,False
+15127,bn-BD,qa,qa_definition,বক্তা সংজ্ঞায়িত করুন,iot_hue_lightoff,0.7877,0.0549,False
+15155,bn-BD,social,social_post,আপনি কি আমার ফেসবুক অ্যাকাউন্টে আমার সর্বশেষ সেলফি আপলোড করতে পারেন,social_post,0.7675,0.7675,True
+15166,bn-BD,social,social_post,টুইটারে আমার ব্যবসা পোস্ট করুন,social_post,0.9674,0.9674,True
+15177,bn-BD,social,social_post,অনুগ্রহ করে টুইটারে এই পোস্টটি পুনরায় টুইট করুন,email_sendemail,0.7375,0.2058,False
+15185,bn-BD,social,social_post,জন্মদিনের শুভেচ্ছা,email_sendemail,0.963,0.001,False
+15186,bn-BD,social,social_post,বিবাহের শুভেচ্ছা,email_sendemail,0.9243,0.0158,False
+15187,bn-BD,social,social_post,বন্ধুর পোস্ট শেয়ার,email_query,0.9975,0.0004,False
+15197,bn-BD,social,social_post,অনিকেত বাংলাদেশ প্রান্তর টুইটারে পোস্ট করুন,social_post,0.9692,0.9692,True
+15208,bn-BD,social,social_post,facebook এ সবাই পোস্ট করুন,social_post,0.9996,0.9996,True
+15213,bn-BD,news,news_query,এখন শীর্ষ কি,weather_query,0.9961,0.0002,False
+15214,bn-BD,news,news_query,আজ কি খবর,news_query,0.9995,0.9995,True
+15216,bn-BD,social,social_post,আমার জন্য কিছু টুইট করুন,social_post,0.6848,0.6848,True
+15231,bn-BD,social,social_post,আমার গোয়া ভ্রমণের ছবি ইনস্টাগ্রামে পোস্ট করুন,social_post,0.9871,0.9871,True
+15271,bn-BD,social,social_post,আমার ফেসবুকে এটি পোস্ট করুন,social_post,0.9995,0.9995,True
+15275,bn-BD,social,social_post,পোস্ট আমি ফেসবুকে খুশি,social_post,0.9905,0.9905,True
+15276,bn-BD,social,social_post,ফেসবুকে একটি নতুন স্ট্যাটাস পোস্ট করুন যে আমি চমৎকার আবহাওয়া উপভোগ করছি,cooking_recipe,0.2506,0.0984,False
+15289,bn-BD,social,social_post,এখন বার্তা পোস্ট করুন,social_post,0.9378,0.9378,True
+15305,bn-BD,calendar,calendar_query,আমার কি সোশ্যাল মিডিয়া থেকে কোন বিজ্ঞপ্তিগুলি আছে,email_query,0.9693,0.0001,False
+15318,bn-BD,social,social_post,আমি জন্মদিনের শুভেচ্ছার জন্য সবাইকে ধন্যবাদ জানাতে চাই,email_sendemail,0.5787,0.0125,False
+15337,bn-BD,social,social_post,এই ভিডিওটি ফেইসবুকে পোস্ট করুন,social_post,0.9988,0.9988,True
+15350,bn-BD,social,social_post,আমি দারাজের সাথে অখুশি দয়া করে আমাকে সাহায্য করুন,social_post,0.5423,0.5423,True
+15358,bn-BD,social,social_post,olly apple-কে টুইট করুন যে আইফোন কাজ করছে না,email_sendemail,0.9969,0.0019,False
+15359,bn-BD,social,social_post,টুইট খুঁজুন এবং apple-কে টুইট করে বলুন যে আমার আইফোনের ব্যাটারি সবসময় কমে যায়,email_sendemail,0.7601,0.0019,False
+15364,bn-BD,social,social_post,আপনি কি দারাজের জানাতে পারেন যে এই নতুন ফোন কেসটি জাঙ্ক,qa_factoid,0.9993,0.0001,False
+15382,bn-BD,social,social_post,আপনি কি samsung এর সাথে যোগাযোগ করতে পারেন এবং বলতে পারেন আমার ওয়াশারে আগুন লেগেছে,email_sendemail,0.9878,0.0,False
+15387,bn-BD,social,social_post,আমার বর্তমান অবস্থান টুইট,qa_factoid,0.1045,0.1017,False
+15399,bn-BD,social,social_post,নেটওয়ার্ক সম্পর্কিত সমস্যার জন্য টেলিটকের কাছে একটি অভিযোগ ফরোয়ার্ড করুন,email_sendemail,0.8967,0.005,False
+15401,bn-BD,social,social_post,টুইটার খুলুন বার্তা পাঠান,social_post,0.9471,0.9471,True
+15402,bn-BD,social,social_post,টুইট করুন যে জিনিসগুলো বাজে,lists_query,0.779,0.004,False
+15409,bn-BD,social,social_post,টুইটার খুলুন আমার অভিযোগ টাইপ করুন এবং গ্রাহক পরিষেবাতে পোস্ট করুন,social_post,0.9536,0.9536,True
+15413,bn-BD,social,social_post,আমাদের যতো তাড়াতাড়ি সম্ভব কর্মচারী খুঁজুন,recommendation_events,0.7068,0.0262,False
+15444,bn-BD,social,social_post,কোম্পানির নামে দুটি থাম্বস ধূসর,recommendation_events,0.1039,0.0443,False
+15448,bn-BD,social,social_post,ওয়াল্টনের ভলিউম সমস্যা সম্পর্কে একটি tweet পাঠান,social_post,0.9989,0.9989,True
+15454,bn-BD,social,social_post,বাংলাদেশ বিমান tweet করুন আমি রাগ করেছি আপনি আমার ব্যাগ হারিয়েছেন,social_post,0.9996,0.9996,True
+15456,bn-BD,social,social_post,আমি বাংলাদেশ বিমান একটি tweet পাঠাতে চাই আমি রেগে আছি আপনি আমার ব্যাগ হারিয়েছেন,social_post,0.9997,0.9997,True
+15457,bn-BD,social,social_post,আমার দারাজের নিয়ে আমার সমস্যা ছিল আপনি কি টুইট করতে পারেন,social_post,0.9474,0.9474,True
+15459,bn-BD,social,social_post,একটি টুইটার অভিযোগ পাঠান,social_post,0.8901,0.8901,True
+15464,bn-BD,social,social_post,আমি সময়মতো পণ্যটি পাইনি পাঠাও এ একটি tweet পাঠান,social_post,0.9992,0.9992,True
+15467,bn-BD,social,social_post,দারাজকে বলুন আমি তাদের ঘৃণা করি,social_post,0.9985,0.9985,True
+15472,bn-BD,social,social_post,অনলাইন বইয়ের দোকানের জন্য একটি অভিযোগ টুইট করুন,email_sendemail,1.0,0.0,False
+15487,bn-BD,social,social_post,tweet দারাজের তাদের দোকানের পরিচ্ছন্নতা সম্পর্কে,social_post,0.9956,0.9956,True
+15488,bn-BD,social,social_post,অনুগ্রহ করে চিলক্সে tweet করুন আমি এখন আমার ডেলিভারির জন্য অপেক্ষা করছিলাম নম্বরটি খুশি নয়,social_post,0.9997,0.9997,True
+15503,bn-BD,social,social_post,ভোক্তা পরিষেবার জন্য নতুন টুইট,social_post,0.6953,0.6953,True
+15508,bn-BD,social,social_post,siri টুইটার খুলুন এবং sony-কে টুইট করুন,social_post,0.9981,0.9981,True
+15518,bn-BD,social,social_post,দারাজের টুইটের মাধ্যমে অভিযোগ পাঠান,social_post,0.9604,0.9604,True
+15532,bn-BD,social,social_post,দারাজের tweet করে এবং তাদের জানান তাদের গ্রাহক পরিষেবা ভয়ঙ্কর,social_post,0.9999,0.9999,True
+15546,bn-BD,social,social_post,দারাজের ঠান্ডা পিজ্জা সম্পর্কে tweet,social_post,0.9967,0.9967,True
+15548,bn-BD,social,social_post,ওয়াল্টনকে মোবাইলের অভিযোগ tweet করুন,social_post,0.9996,0.9996,True
+15553,bn-BD,social,social_post,দারাজে খারাপ টুইট করুন,social_post,0.9767,0.9767,True
+15554,bn-BD,social,social_post,বিলম্ব পরিষেবার জন্য দারাজের পরিষেবাতে দয়া করে tweet করুন৷,social_post,0.7291,0.7291,True
+15556,bn-BD,social,social_post,একটি অভিযোগ টুইট করা যাক,social_post,0.8772,0.8772,True
+15557,bn-BD,social,social_post,আমি আপনাকে একটি অভিযোগ টুইট করতে চাই,social_post,0.9882,0.9882,True
+15560,bn-BD,social,social_post,ফেসবুকে পোস্ট করুন আমি ক্ষুধার্ত,social_post,0.9912,0.9912,True
+15565,bn-BD,social,social_post,আপনি কি ডেল্টাকে জানাতে পারেন যে আমি সেগুলি আর কখনও ব্যবহার করছি না,recommendation_events,0.9621,0.0029,False
+15587,bn-BD,social,social_post,খোলা গ্যালারী পোস্ট ছবির নাম,email_query,0.9925,0.0031,False
+15592,bn-BD,social,social_post,দারাজের এ tweet অভিযোগ,social_post,0.9995,0.9995,True
+15593,bn-BD,social,social_post,জেমসের টুইট অভিযোগ,social_post,0.9977,0.9977,True
+15598,bn-BD,social,social_post,কোম্পানির নাম খুলুন এবং অভিযোগ খুঁজুন,email_query,0.4722,0.0964,False
+15610,bn-BD,social,social_post,আমার টুইটার থেকে sony-কে একটি টুইট post করুন যে আমি সন্তুষ্ট নয়,social_post,0.995,0.995,True
+15618,bn-BD,social,social_post,দারাজকে টুইট করুন এবং বলুন যে তারা বাজে,social_post,0.9571,0.9571,True
+15626,bn-BD,social,social_post,দারাজ গ্রাহক পরিষেবার জন্য কমকাস্টে একটি অভিযোগ tweet করুন,social_post,0.9978,0.9978,True
+15634,bn-BD,social,social_post,ঠিক আছে গুগল টুইট কি একটি ঝাঁকুনি মালিক গ্যাস স্টেশন এ,qa_factoid,0.9199,0.0025,False
+15635,bn-BD,social,social_post,tweet mcdonald's down reseda এর ভয়ংকর সেবা আছে,social_post,0.977,0.977,True
+15647,bn-BD,social,social_post,এ tweet অভিযোগ,social_post,0.9661,0.9661,True
+15651,bn-BD,social,social_post,গ্রাহক সেবা রিপোর্ট পাঠান,qa_factoid,0.8601,0.041,False
+15652,bn-BD,social,social_post,ভোক্তা পরিষেবার অভিযোগে সহায়তা করুন,social_post,0.255,0.255,True
+15655,bn-BD,social,social_post,গুগল গ্রাহক পরিষেবাতে tweet করুন আমার নতুন নেক্সাস ফোন কাজ বন্ধ করে সাহায্য করুন,social_post,0.9998,0.9998,True
+15656,bn-BD,social,social_post,suqcom একটি বার্তা টুইট করুন যে আমি এখনও আমার প্রসবের জন্য অপেক্ষা করছি,social_post,0.8681,0.8681,True
+15661,bn-BD,social,social_post,আমার নতুন চাকরি সম্পর্কে দারাজে টুইটারে post করুন,social_post,0.9998,0.9998,True
+15670,bn-BD,social,social_post,একটি অভিযোগ টুইট পাঠান,social_post,0.9649,0.9649,True
+15672,bn-BD,social,social_post,apple-কে টুইট করুন তাদের আইফোন ভাল নয়,iot_hue_lightoff,0.4631,0.1263,False
+15676,bn-BD,social,social_post,olive garden-কে অভিযোগ সংক্রান্ত টুইট যোগ করুন,social_post,0.9989,0.9989,True
+15686,bn-BD,social,social_post,হ্যালো আমার আইটেম যা আমি কারও কাছ থেকে কিনেছিলাম তা অর্ডারের বাইরে চলে গেছে,cooking_recipe,0.073,0.0495,False
+15693,bn-BD,social,social_post,টুইট করেছেন যে চকলেটের প্যাকেটে একটি পোকা ছিল,email_sendemail,1.0,0.0,False
+15700,bn-BD,social,social_post,সাম্প্রতিক বাজারে মেয়াদোত্তীর্ণ পণ্য,qa_factoid,0.9195,0.0036,False
+15703,bn-BD,social,social_post,twitter দারাজের যে তাদের আকার খুব দ্রুত ফুরিয়ে যায়,social_post,0.9971,0.9971,True
+15706,bn-BD,social,social_post,এ টুইট,email_query,0.3958,0.3852,False
+15707,bn-BD,social,social_post,একটি tweet পাঠান,social_post,0.9999,0.9999,True
+15708,bn-BD,social,social_post,সার্ভিসে একটি অভিযোগ post করুন,social_post,0.9999,0.9999,True
+15721,bn-BD,social,social_post,চিলক্স সম্পর্কে একটি বিরক্ত মুখ tweet,social_post,0.9988,0.9988,True
+15723,bn-BD,social,social_post,ফেসবুকে খুশির স্ট্যাটাস দিন,social_post,0.2991,0.2991,True
+15731,bn-BD,social,social_post,olly টি এন্ড টি কে একটি বার্তা টুইট করুন এবং তাদের বলুন আমার পরিষেবা খারাপ,email_sendemail,0.9541,0.0442,False
+15732,bn-BD,social,social_post,স্যামসাং টুইট করুন এবং তাদের পণ্য দিয়ে মানুষ হত্যা বন্ধ করতে বলুন,email_sendemail,0.2582,0.0602,False
+15736,bn-BD,social,social_post,একটি কোম্পানি সম্পর্কে একটি নেতিবাচক পর্যালোচনা জমা দিন,qa_factoid,0.6532,0.0044,False
+15756,bn-BD,email,email_sendemail,আমার দলকে ইমেইল করুন,email_sendemail,1.0,1.0,True
+15763,bn-BD,email,email_query,দয়া করে নতুন ইমেইলের জন্য চেক করুন,email_sendemail,0.9998,0.0002,False
+15765,bn-BD,email,email_sendemail,পারভেজের ইমেইলের উত্তর দিন,email_sendemail,1.0,1.0,True
+15777,bn-BD,email,email_query,আমার কাছে নতুন ইমেইল থাকলে বলুন,email_sendemail,1.0,0.0,False
+15785,bn-BD,email,email_query,আমার নতুন মেইলবক্সে কি কোন কিছু আছে,email_query,0.9879,0.9879,True
+15789,bn-BD,email,email_query,অলি আমার কোন নতুন ইমেইল আছে কি,email_sendemail,1.0,0.0,False
+15792,bn-BD,calendar,calendar_query,আজ আমি কার সাথে মিটিং করছি,social_post,0.8103,0.0062,False
+15796,bn-BD,email,email_sendemail,ইমেল শাবানা,social_post,0.8543,0.0864,False
+15802,bn-BD,email,email_sendemail,জেসনকে একটি ইমেলের উত্তর দিন যে আমি আজ রাতে আসবেন না,email_sendemail,0.9752,0.9752,True
+15809,bn-BD,email,email_query,রাকিব এখনো আমাকে ইমেইল করেছে কি,email_sendemail,1.0,0.0,False
+15825,bn-BD,email,email_sendemail,বাবাকে উত্তর দিন লিখুন আমার দেরি হবে,social_post,0.2984,0.0805,False
+15828,bn-BD,email,email_sendemail,পরিচিতিগুলিতে যোগ করার জন্য এখানে একটি নতুন ইমেল ঠিকানা রয়েছে,recommendation_events,0.4419,0.0902,False
+15829,bn-BD,email,email_sendemail,যোগাযোগ যান এবং একটি নতুন ইমেল ঠিকানা লিখুন,email_query,0.3171,0.2068,False
+15839,bn-BD,email,email_query,বিষয়,qa_definition,0.9992,0.0001,False
+15841,bn-BD,email,email_sendemail,রাতুলকে একটি নতুন ইমেল রচনা করুন,cooking_recipe,0.5628,0.2049,False
+15845,bn-BD,email,email_sendemail,এটা কিভাবে আমাদের কাছে আসে,qa_factoid,0.8446,0.0005,False
+15847,bn-BD,email,email_sendemail,আমরা কিভাবে সম্মান পেতে পারি,qa_factoid,0.9951,0.0002,False
+15849,bn-BD,email,email_sendemail,আমার বসকে একটি ইমেইল পাঠান,email_sendemail,1.0,1.0,True
+15857,bn-BD,email,email_sendemail,অনুগ্রহ করে তালিকাভুক্ত নতুন ইমেল ঠিকানায় পাঠান,email_sendemail,0.9965,0.9965,True
+15862,bn-BD,email,email_query,মায়ের কাছ থেকে প্রাপ্ত ইমেইল চেক করুন,email_sendemail,0.9991,0.0009,False
+15880,bn-BD,email,email_query,দয়া করে আমার মেইল চেক করুন,iot_hue_lightoff,0.7181,0.1101,False
+15890,bn-BD,email,email_query,আমার বাবার কাছ থেকে আমার কোন নতুন ইমেইলগুলি এসেছে কিনা তা চেক করে দেখো,email_query,0.9864,0.9864,True
+15904,bn-BD,email,email_query,আমার নতুন ইমেইল চেক করুন এবং আমাকে বলুন তাদের সম্পর্কে,email_sendemail,1.0,0.0,False
+15906,bn-BD,email,email_sendemail,প্রতিউত্তর দেওয়ার জন্য ধন্যবাদ তাইজুল,qa_factoid,0.9182,0.0083,False
+15911,bn-BD,email,email_sendemail,রাত্রির জন্য ইমেইল প্রস্তুত করুন,email_sendemail,1.0,1.0,True
+15933,bn-BD,email,email_query,আমার কাছে কি নতুন ইমেইলগুলি আছে,email_sendemail,0.9998,0.0002,False
+15942,bn-BD,email,email_sendemail,সাম্প্রতিক ইমেলগুলির উত্তর দিতে এই ইমেলটি পাঠান৷,email_sendemail,0.9955,0.9955,True
+15950,bn-BD,email,email_sendemail,রাজু খানের থেকে ইমেলের উত্তর দিন,qa_factoid,0.3457,0.1706,False
+15957,bn-BD,email,email_sendemail,মুক্তাকে ইমেইল করুন আমরা পথে আছি সে যেন জানে,email_sendemail,1.0,1.0,True
+15963,bn-BD,email,email_query,আমার কি রাজীব থেকে কোন নতুন ইমেল আছে,email_sendemail,0.9977,0.0023,False
+15966,bn-BD,email,email_query,যদি এটি খুবই গুরুত্বপূর্ণ হয় একটি মেইল পাঠান,email_query,0.6617,0.6617,True
+15968,bn-BD,email,email_query,এটি গুরুত্বপূর্ণ হিসাবে চিহ্নিত করুন যদি এটি একটি খুব পরিচিত জায়গা থেকে হয়,iot_hue_lightoff,0.9786,0.0006,False
+15970,bn-BD,email,email_query,মায়ের কাছ থেকে সর্বশেষ ইমেইলের বিষয় কি ছিল,email_sendemail,0.9997,0.0003,False
+15971,bn-BD,email,email_query,কাজ থেকে শেষ ইমেল টি কি ছিল,email_sendemail,0.9856,0.0035,False
+15994,bn-BD,email,email_sendemail,জনকে একটি ইমেইল পাঠান এবং তাকে জিজ্ঞাসা করুন যে মিটিং এর জন্য কোন সময় কাজ করে,email_sendemail,1.0,1.0,True
+15995,bn-BD,email,email_sendemail,বাজেট মিটিং সম্পর্কে আবুলকে ইমেইল করুন,email_query,0.9574,0.0426,False
+15998,bn-BD,email,email_query,নাম থেকে কিছু জন্য আমার ইমেইলগুলি চেক করুন,email_query,0.5029,0.5029,True
+16002,bn-BD,email,email_query,নতুন ইমেইল চেক করুন,email_sendemail,0.9997,0.0003,False
+16005,bn-BD,email,email_sendemail,joseph at gmail dot com জোসেফকে ইমেল পাঠান,email_sendemail,1.0,1.0,True
+16010,bn-BD,email,email_query,আমার ইনবক্সে কোনো নতুন বার্তা থাকলে আমাকে বলুন,social_post,0.9876,0.0049,False
+16024,bn-BD,email,email_sendemail,রহিমকে একটি ইমেল পাঠান যে আমি আগামীকাল ব্যস্ত আছি,email_sendemail,1.0,1.0,True
+16028,bn-BD,email,email_sendemail,হেই সেরি সহকর্মীকে ইমেইল শুরু করো,email_sendemail,1.0,1.0,True
+16029,bn-BD,email,email_sendemail,সহকর্মীকে একটি নতুন ইমেল রচনা করুন,email_sendemail,0.9987,0.9987,True
+16032,bn-BD,email,email_sendemail,অনুগ্রহ করে আগামীকালের মিটিং সম্পর্কিত সাকিবকে একটি ইমেইল পাঠান,email_sendemail,1.0,1.0,True
+16038,bn-BD,email,email_query,এই যে সাগর কি ইদানীং আমাকে কোনো ইমেইল পাঠিয়েছেন,email_query,0.8383,0.8383,True
+16045,bn-BD,email,email_sendemail,অফিস খোলার সময় সারণির জন্য ইসমাইলকে মেইল পাঠান,email_sendemail,1.0,1.0,True
+16048,bn-BD,email,email_query,আমাকে সাম্প্রতিক ইমেল দেখান,iot_hue_lightoff,0.5241,0.0017,False
+16049,bn-BD,email,email_sendemail,আমি আমার পরিবারকে একটি ইমেল পাঠাতে চাই আপনি কি আমাকে সাহায্য করেন,email_sendemail,1.0,1.0,True
+16050,bn-BD,email,email_query,জিমেইল চেক করুন,email_query,0.6175,0.6175,True
+16052,bn-BD,email,email_query,আউটলুক চেক করুন,iot_hue_lightoff,0.8291,0.0009,False
+16056,bn-BD,email,email_sendemail,ইমেইলে উত্তর দিন,email_sendemail,1.0,1.0,True
+16061,bn-BD,email,email_query,আমি কি গত দশ মিনিটে কোন ইমেল পেয়েছি,email_sendemail,0.7742,0.1789,False
+16072,bn-BD,email,email_sendemail,আমার বস কে ইমেইল করুন যে আমি আজ একটি জরুরি কারণে দেরি করব এবং সাক্ষাৎ মিস করার জন্য তার কাছে ক্ষমাপ্রার্থী,email_sendemail,1.0,1.0,True
+16075,bn-BD,email,email_query,সুনিত থেকে সাম্প্রতিক ইমেল প্রদর্শন করুন,play_podcasts,0.8872,0.0084,False
+16082,bn-BD,email,email_sendemail,সজলকে একটি ইমেল পাঠান এবং তাকে জিজ্ঞাসা করুন তিনি এখন কেমন আছেন আমি তাকে সাহায্য করার জন্য কিছু করতে পারি,email_sendemail,1.0,1.0,True
+16089,bn-BD,email,email_query,গত দশ মিনিটে আমি কি কোনো নতুন ইমেল পেয়েছি,email_query,0.1562,0.1562,True
+16096,bn-BD,email,email_query,রুবিনা আমাকে কি কোন নতুন ইমেইল পাঠিয়েছে,email_sendemail,0.9918,0.0082,False
+16098,bn-BD,email,email_query,ইমন থেকে অপঠিত ইমেইল চেক করুন,email_sendemail,0.9992,0.0008,False
+16100,bn-BD,email,email_query,ইমেইল চেক করুন কাজের তালিকা আছে,email_sendemail,0.9997,0.0003,False
+16103,bn-BD,email,email_sendemail,আমার ভাইকে একটি ইমেইল পাঠান এবং বলুন বিবাহ বার্ষিকী,email_sendemail,1.0,1.0,True
+16120,bn-BD,email,email_sendemail,সাহায্য শুধুমাত্র জেনি পাঠানো হয়,qa_factoid,0.954,0.0011,False
+16131,bn-BD,email,email_sendemail,এই নতুন ইমেল আমার পরিচিতিতে যোগ করা উচিত,qa_factoid,0.6842,0.0035,False
+16145,bn-BD,email,email_query,আমাকে সাম্প্রতিক ইমেলগুলি দেখান,recommendation_events,0.7026,0.0108,False
+16146,bn-BD,news,news_query,আমাকে সর্বশেষ আপডেট দিন,qa_factoid,0.8666,0.0,False
+16148,bn-BD,email,email_sendemail,সাকিবকে দ্রুত উত্তর দিন তাই দয়াকরে একটি মেইল ​​পাঠান,email_sendemail,1.0,1.0,True
+16151,bn-BD,email,email_query,আজকের মেইলে সভার অনুসূচী চেক করুন,email_query,0.9801,0.9801,True
+16162,bn-BD,email,email_sendemail,উত্তর পাঠান,social_post,0.5635,0.3282,False
+16163,bn-BD,email,email_query,যে গতকাল আমাকে মেইল ​​করেছিল,email_sendemail,0.3768,0.354,False
+16165,bn-BD,email,email_query,চিশতী সাড়া দিয়েছেন,social_post,0.9989,0.0,False
+16166,bn-BD,email,email_sendemail,আপনি কি সুকন্যা উত্তর দিতে পারেন যে আমি আগামী তিন সপ্তাহের জন্য প্রকল্প নিয়ে ব্যস্ত থাকব,qa_factoid,0.3933,0.0168,False
+16168,bn-BD,email,email_query,গত পনের মিনিট মধ্যে কোন ইমেল এসেছে,social_post,0.8974,0.0042,False
+16170,bn-BD,email,email_query,অপঠিত ইমেইল ​​চেক করতে ইনবক্স খুলুন,email_sendemail,1.0,0.0,False
+16178,bn-BD,email,email_query,আজ amazon থেকে কোন মেইল,email_sendemail,0.994,0.006,False
+16183,bn-BD,email,email_query,আমার চাকরি সম্পর্কে ইমেল চেক করুন,qa_factoid,0.4383,0.1358,False
+16201,bn-BD,email,email_sendemail,দয়া করে রাজীবের জন্য নতুন ইমেইল লোড করুন এবং এখনই বার্তা পাঠান,email_sendemail,1.0,1.0,True
+16221,bn-BD,email,email_sendemail,বিদিশার ইমেল টানুন এবং লিখুন যে আমি তাকে জানাব,email_query,0.8795,0.1055,False
+16245,bn-BD,email,email_sendemail,এওএল ডট কম এ জোকে ইমেইল পাঠান,email_query,0.5842,0.4158,False
+16248,bn-BD,email,email_query,আমার মেইল ​​চেক করুন,email_sendemail,0.9994,0.0006,False
+16263,bn-BD,email,email_query,আমি লোকনাথের কাছ থেকে কোনো নতুন ইমেইল পাবো,email_sendemail,0.9998,0.0002,False
+16266,bn-BD,email,email_sendemail,আমার পরিবারকে একটি ইমেইল লেখুন যে আমি সকলকে ভালোবাসি,email_sendemail,1.0,1.0,True
+16271,bn-BD,email,email_query,আমার ইনবক্স রিফ্রেশ করুন এবং নতুন ইমেইল সম্পর্কে আমাকে জানান,email_sendemail,0.9999,0.0001,False
+16275,bn-BD,email,email_query,নতুন ইমেলের জন্য পোলিং শুরু করুন,cooking_recipe,0.6513,0.0049,False
+16276,bn-BD,email,email_query,আমার কি নতুন ইমেইল আছে,email_sendemail,1.0,0.0,False
+16280,bn-BD,email,email_sendemail,আমার পরিবার এবং বন্ধু তালিকায় কে আছে শাকিল দয়া করে একটি ইমেল পাঠান,email_sendemail,1.0,1.0,True
+16282,bn-BD,email,email_sendemail,আগামীকালের জন্য সমস্ত আয়োজন সমূহ বাতিল করতে আমার সহযোগী সাদিয়া কাছে একটি ইমেল পাঠান,email_sendemail,0.8489,0.8489,True
+16296,bn-BD,email,email_sendemail,মাকে একটি ইমেল পাঠান যাতে তার সুবীর এর জন্মদিনের পার্টি রবিবার হয়,email_sendemail,1.0,1.0,True
+16297,bn-BD,email,email_sendemail,তাকে ধন্যবাদ জানাতে জহিরকে একটি ইমেল পাঠান,email_sendemail,0.9443,0.9443,True
+16314,bn-BD,email,email_sendemail,রাকিবাকে একটি ইমেল পাঠান,email_sendemail,1.0,1.0,True
+16317,bn-BD,email,email_query,আমি কি স্নেহার কাছ থেকে নতুন ইমেইল পেয়েছি,email_sendemail,0.9997,0.0003,False
+16318,bn-BD,email,email_sendemail,ইমেইলে সাড়া দিন,email_sendemail,1.0,1.0,True
+16320,bn-BD,email,email_sendemail,আমি তো প্রত্যুষ মজুমদারের ইমেইলের উত্তর দিতে চাই,email_sendemail,1.0,1.0,True
+16353,bn-BD,email,email_query,সাকিব থেকে ইমেল জন্য চেক করুন,qa_factoid,0.9881,0.0,False
+16354,bn-BD,email,email_query,আমার নিয়োগকর্তা থেকে ইমেল জন্য চেক করুন,recommendation_events,0.845,0.043,False
+16356,bn-BD,email,email_query,আমি কি বন্দুক নিয়ন্ত্রণের বিষয়ে টমকে ইমেল করেছি,email_sendemail,1.0,0.0,False
+16357,bn-BD,email,email_query,আলী আমাকে গোলাবারুদ সম্পর্কে ইমেল করেছে,email_sendemail,1.0,0.0,False
+16361,bn-BD,email,email_query,আমার কি গত ঘন্টায় কোন নতুন ইমেইল আছে,email_query,0.8388,0.8388,True
+16373,bn-BD,email,email_query,আমি কি ট্র্যাকিং নম্বর সহ কোন ইমেল পেয়েছি,email_query,0.8953,0.8953,True
+16375,bn-BD,email,email_sendemail,আসিফকে একটি ইমেইল রচনা করুন,email_sendemail,0.9999,0.9999,True
+16376,bn-BD,email,email_sendemail,alexa অনুগ্রহ করে মাকে একটি ইমেল পাঠান,email_sendemail,0.9736,0.9736,True
+16377,bn-BD,email,email_sendemail,মাকে এখন একটি ইমেইল পাঠান,email_sendemail,1.0,1.0,True
+16384,bn-BD,email,email_query,হেই আমার কি কোনও নতুন ইমেইল আছে,email_sendemail,1.0,0.0,False
+16385,bn-BD,email,email_query,অনুগ্রহ করে নতুন ইমেইল পডুন,email_sendemail,1.0,0.0,False
+16398,bn-BD,email,email_sendemail,অনুগ্রহ করে জেনিকে ইমেলটি পাঠান,email_sendemail,1.0,1.0,True
+16399,bn-BD,email,email_query,আমি কি কোন নতুন ইমেইল পেয়েছি,email_sendemail,0.9997,0.0003,False
+16401,bn-BD,email,email_sendemail,মিনাকে একটি ইমেইল টেক্সট করুন ওহে আজকে কি করছ,email_sendemail,0.9946,0.9946,True
+16402,bn-BD,email,email_sendemail,মারুফ কে ইমেইল করুন আজ কের জন্য পরিকল্পনা,email_sendemail,1.0,1.0,True
+16406,bn-BD,email,email_sendemail,alexa ইমেইল শুরু করুন,email_sendemail,1.0,1.0,True
+16410,bn-BD,email,email_sendemail,ইমেইল কম্পোজ করুন,email_query,0.7115,0.2596,False
+16413,bn-BD,email,email_query,আমার বসের থেকে আমাকে পাঠানো সমস্ত ইমেইল দেখাও,email_sendemail,1.0,0.0,False
+16419,bn-BD,email,email_sendemail,অনুগ্রহ করে চাচা জন কে একটি ইমেইল পাঠান যা আমি করতে পারি,email_sendemail,1.0,1.0,True
+16427,bn-BD,email,email_query,আজ আমি কতগুলি নতুন ইমেইল পেয়েছি,email_query,0.9842,0.9842,True
+16430,bn-BD,email,email_sendemail,অনুগ্রহ করে মা এবং বাবাকে একটি ইমেল পাঠান যাতে তারা কেমন আছেন,email_sendemail,1.0,1.0,True
+16437,bn-BD,email,email_sendemail,ইজারা আমার বন্ধুকে এই ইমেইলটি পাঠিয়েছে,email_sendemail,0.9999,0.9999,True
+16438,bn-BD,email,email_sendemail,আমাকে এখন এই ইমেইল পাঠানো প্রয়োজন,email_sendemail,1.0,1.0,True
+16446,bn-BD,email,email_query,এই প্রেরক থেকে সাম্প্রতিক ইমেল অধ্যয়নের জন্য অনুগ্রহ করে চেক করুন,recommendation_events,0.9986,0.0,False
+16459,bn-BD,email,email_sendemail,newmail at gmail dot com,email_sendemail,1.0,1.0,True
+16461,bn-BD,email,email_query,আমার কোন অপঠিত ইমেল আছে,email_query,0.7852,0.7852,True
+16467,bn-BD,email,email_query,আমার কাছে কি আমার পরিচিতি q. থেকে কোনও নতুন ইমেইল আছে,email_sendemail,0.9494,0.0506,False
+16471,bn-BD,email,email_query,জনির ইমেইল চেক করুন,email_sendemail,0.9986,0.0014,False
+16496,bn-BD,email,email_sendemail,রিপ্লে ইমেইল পাঠান,email_sendemail,1.0,1.0,True
+16501,bn-BD,email,email_sendemail,অনুগ্রহ করে আমার বন্ধু রিয়াকে একটি মেইল পাঠান কেমন আছেন,email_sendemail,0.9999,0.9999,True
+16506,bn-BD,email,email_sendemail,নতুন ইমেল ঠিকানা যোগ করুন এবং ইমেল পাঠান,email_sendemail,0.47,0.47,True
+16518,bn-BD,email,email_sendemail,রুবি খাতুনের জন্য একটি নতুন ইমেইল যোগ করুন,email_sendemail,0.9988,0.9988,True
+16519,bn-BD,email,email_sendemail,আমার কন্ট্যাক্টে একটি নতুন ইমেইল যোগ করা দরকার,email_sendemail,0.9999,0.9999,True
+16535,bn-BD,email,email_sendemail,আপনি কি মুক্তাকে একটি ইমেইল লিখতে পারেন,email_sendemail,0.9999,0.9999,True
+16559,bn-BD,email,email_sendemail,আজ সকালে তার পাঠানো ইমেইল থেকে চারশত ত্রিশটি উত্তর সহ সমীর একটি উত্তর পাঠান,email_sendemail,0.954,0.954,True
+16560,bn-BD,email,email_sendemail,আমার বসদের ইমেলের প্রতিক্রিয়া জানান এই শব্দটি দিয়ে যে আমি সন্ধ্যায় চারে থাকব,email_sendemail,0.9979,0.9979,True
+16563,bn-BD,email,email_query,অলি আমার ইমেইল চেক করুন,email_sendemail,0.9998,0.0001,False
+16591,bn-BD,email,email_sendemail,আমি মাত্রই বিল থেকে একটি ইমেইল পেয়েছি আমি এখনই এটির উত্তর দিতে চাই,email_sendemail,0.9989,0.9989,True
+16593,bn-BD,email,email_sendemail,যে শেষ ইমেইল যত তাড়াতাড়ি উত্তর করা প্রয়োজন,email_sendemail,0.9875,0.9875,True
+16603,bn-BD,email,email_query,আধা ঘন্টা আগে মায়ের কাছ থেকে পাঠানো ইমেলটি কী বলে,email_sendemail,1.0,0.0,False
+16605,bn-BD,email,email_sendemail,লিখুন এবং আমার বসকে ইমেইল পাঠান,email_sendemail,1.0,1.0,True
+16609,bn-BD,email,email_query,আমার কোনো অপঠিত নতুন ইমেইল থাকলে আমাকে বলুন,email_sendemail,0.9995,0.0005,False
+16613,bn-BD,email,email_sendemail,বসকে ইমেল পাঠান বলুন যে আমার দেরি হবে,social_post,0.4624,0.0583,False
+16622,bn-BD,email,email_sendemail,এই কন্টাক্ট একটি ইমেল পাঠান,email_sendemail,0.6995,0.6995,True
+16624,bn-BD,email,email_sendemail,আমার পরিষেবা সার্ভিস সমস্যা সমস্যা সম্পর্কে বায়োস্কোপ এ পাঠানোর জন্য আমার একটি ইমেল প্রয়োজন,email_sendemail,1.0,1.0,True
+16627,bn-BD,email,email_query,অতি সাম্প্রতিক ইমেইলগুলি চেক করুন,email_sendemail,0.9619,0.038,False
+16630,bn-BD,email,email_sendemail,শেষ ইমেইলের একটি উত্তর পাঠান,email_sendemail,1.0,1.0,True
+16642,bn-BD,email,email_query,রাম থেকে যে কোনও কিছুর জন্য মেইল পরীক্ষা করুন,email_query,0.9698,0.9698,True
+16648,bn-BD,email,email_query,আমার জন্য আমার ইমেইল চেক করুন,email_sendemail,0.9989,0.0006,False
+16652,bn-BD,email,email_query,বাবুল এর ইমেইলে একটি সংযুক্তি আছে কি,email_sendemail,1.0,0.0,False
+16662,bn-BD,email,email_query,d আমি রাজীব থেকে কোনো নতুন ইমেল পাব,email_sendemail,0.6774,0.1575,False
+16666,bn-BD,email,email_query,কোন ইনকামিং ইমেইল আছে আমার,email_sendemail,0.5503,0.4497,False
+16668,bn-BD,email,email_query,আজকে চারশত থেকে কোনো ইমেইল এসেছে কি,email_query,0.9931,0.9931,True
+16669,bn-BD,email,email_query,আমি কি খান থেকে একটি ইমেইল পেয়েছি,email_sendemail,0.9998,0.0002,False
+16672,bn-BD,email,email_query,রুবেল যোগাযোগ হয়েছে,social_post,0.9993,0.0,False
+16677,bn-BD,email,email_query,আজ কি আমার ইনবক্সে নতুন কোনো ইমেইল আছে,email_query,1.0,1.0,True
+16698,bn-BD,email,email_sendemail,আমার মায়ের ইমেইলের একটি উত্তর লিখুন,email_sendemail,1.0,1.0,True
+16701,bn-BD,email,email_sendemail,আমি সাবিনার ইমেইলের উত্তর দিতে চাই,email_sendemail,1.0,1.0,True
+16703,bn-BD,email,email_sendemail,আমি সাম্প্রতিক ইমেইলের উত্তর দিতে চাই,email_sendemail,1.0,1.0,True
+16712,bn-BD,email,email_query,আমার কি কোনো নতুন ইমেইল আছে,email_sendemail,1.0,0.0,False
+16713,bn-BD,email,email_query,আমার ইমতইল চেক করুন এবং কোন নতুন ইমেইল বিদ্যমান থাকলে আমাকে অবহিত করুন,email_sendemail,1.0,0.0,False
+16717,bn-BD,email,email_sendemail,আপনি কি দয়া করে রফিউলকে ইমেইল করতে পারেন যে আমি ছুটিতে আছি বলে,email_sendemail,1.0,1.0,True
+16719,bn-BD,email,email_query,আমার প্রাপ্ত কোন নতুন ইমেইল থাকলে আমাকে জানান,email_sendemail,0.9997,0.0003,False
+16729,bn-BD,email,email_sendemail,সিফাত থেকে আমার ইমেইল উত্তর দিন সরকার জানাতে কালকে আমি তাদের দেখবো পাব,email_sendemail,1.0,1.0,True
+16730,bn-BD,email,email_query,রাকিব থেকে পাওয়া নতুন ইমেইল চেক করুন,email_sendemail,0.9986,0.0014,False
+16733,bn-BD,email,email_query,amazon থেকে আমাকে সর্বশেষ ইমেইল দেখাও,email_sendemail,0.9999,0.0,False
+16749,bn-BD,email,email_query,আমার জন্য তাদের কোনো নতুন ইমেল আজ,social_post,0.8922,0.0492,False
+16754,bn-BD,email,email_sendemail,ইমেইল লিখুন,email_sendemail,1.0,1.0,True
+16758,bn-BD,email,email_query,গতবার থেকে কোনো নতুন ইমেল,play_podcasts,0.3883,0.0704,False
+16763,bn-BD,email,email_query,শেষ দশ মিনিটের ইমেইলগুলো,email_query,0.9745,0.9745,True
+16765,bn-BD,email,email_query,গতকালের ইমেইল থেকে সাক্ষাৎকারের সময় কি,email_sendemail,0.975,0.0006,False
+16766,bn-BD,email,email_query,নতুন ইমেইল চেক করুন,email_sendemail,0.9997,0.0003,False
+16772,bn-BD,email,email_query,বিচ্ছেদ সংক্রান্ত সকল ইমেইল দেখান,email_sendemail,1.0,0.0,False
+16780,bn-BD,email,email_sendemail,juanpedro at gmail dot com একটি ইমেল পাঠান,email_sendemail,1.0,1.0,True
+16791,bn-BD,email,email_sendemail,একটি নতুন ইমেল রচনা করুন কিন্তু আমি একটি নতুন ঠিকানা পেয়েছি এই সময় brandon at example dot com,iot_hue_lightoff,0.9513,0.0044,False
+16799,bn-BD,email,email_query,আমি কি দুপুর থেকে কোন ইমেইল পেয়েছি,email_query,0.9997,0.9997,True
+16801,bn-BD,email,email_query,সুমি কি আমাকে তমাল সম্পর্কে কোন ইমেইল পাঠিয়েছে,email_sendemail,0.9959,0.0041,False
+16813,bn-BD,email,email_query,হুইসেল দিন যখন আমি মনির থেকে একটি ইমেইল পাই,email_sendemail,0.9999,0.0001,False
+16814,bn-BD,email,email_query,ইমেইলগুলো চেক করুন,email_sendemail,0.9999,0.0001,False
+16838,bn-BD,email,email_sendemail,আপনি কি নতুন ইমেইল আইডিতে ইমেইল পাঠাতে পারেন,email_sendemail,0.9726,0.9726,True
+16851,bn-BD,email,email_query,ইমেইলের বিজ্ঞপ্তিগুলো,email_sendemail,1.0,0.0,False
+16859,bn-BD,email,email_query,আমি আমার সর্বশেষ ইমেইলে সুজনকে কি বলেছিলাম,email_sendemail,1.0,0.0,False
+16872,bn-BD,email,email_sendemail,আমার পরিচিতি থেকে সাগর খুঁজুন এবং তাকে একটি ইমেল পাঠান,email_sendemail,1.0,1.0,True
+16873,bn-BD,email,email_sendemail,প্রিয়াঙ্কাকে তার জন্মদিনের জন্য ইমেইল করুন,email_sendemail,1.0,1.0,True
+16880,bn-BD,email,email_sendemail,জিসানকে বৈঠক সম্পর্কিত ইমেইল করুন,email_sendemail,1.0,1.0,True
+16883,bn-BD,email,email_sendemail,স্নেহাকে একটি ইমেইল পাঠিয়ে জিজ্ঞাসা করুন তিনি আজ রাতে বাড়িতে কখন আসবেন,email_sendemail,1.0,1.0,True
+16886,bn-BD,email,email_sendemail,এই মেইলের উত্তর দিন,email_sendemail,1.0,1.0,True
+16888,bn-BD,email,email_query,নতুন মেইল কি সম্পর্কে,email_sendemail,0.9999,0.0001,False
+16890,bn-BD,email,email_query,নতুন ইমেইল কি বলে,email_sendemail,1.0,0.0,False
+16891,bn-BD,email,email_sendemail,জীবন সরকারকে পাঠান এবং ইমেইল করুন,email_sendemail,1.0,1.0,True
+16892,bn-BD,email,email_sendemail,শুরু করুন এবং রাকিব আলীকে ইমেইল করুন,email_sendemail,1.0,1.0,True
+16899,bn-BD,email,email_query,আমি কি জাফর ইকবাল থেকে কোন ইমেল পেয়েছি,email_sendemail,0.9997,0.0003,False
+16914,bn-BD,email,email_query,আমার কাছে কি এই প্রেরকের ইমেইলগুলি আছে,email_sendemail,0.9904,0.0096,False
+16916,bn-BD,email,email_sendemail,এই যে আমার প্রাপ্ত ইমেইলের উত্তর দিন,email_sendemail,0.9997,0.9997,True
+16924,bn-BD,email,email_query,নতুন মেইলের জন্য আমার জিমেইল চেক করুন,email_sendemail,1.0,0.0,False
+16930,bn-BD,email,email_query,সর্বশেষ ইমেইল দেখান,email_sendemail,1.0,0.0,False
+16938,bn-BD,email,email_sendemail,জীবনের কাছে ইমেইলের জবাব দাও,email_sendemail,1.0,1.0,True
+16944,bn-BD,email,email_sendemail,ঠাকুমাকে একটি ইমেল পাঠান যে আমরা শনিবারের মধ্যে ড্রপ করছি তারপর দেখা হবে,social_post,0.9897,0.0012,False
+16947,bn-BD,email,email_sendemail,ইমেইলের উত্তর,email_sendemail,1.0,1.0,True
+16955,bn-BD,email,email_sendemail,নতুন কন্ট্যাক্টে ইমেইল করুন,email_query,0.7508,0.2421,False
+16956,bn-BD,email,email_sendemail,নতুন কন্ট্যাক্টে ইমেইল পাঠান,email_sendemail,0.9998,0.9998,True
+16961,bn-BD,email,email_sendemail,সাথে সাড়া দিন,play_radio,0.1504,0.0142,False
+16974,bn-BD,email,email_query,আয়কর বিভাগের সমস্ত নতুন ইমেল চেক করুন,iot_hue_lightoff,0.9907,0.0004,False
+16987,bn-BD,email,email_query,রাহুলের থেকে নতুন কোনো ইমেইল আসছে,email_sendemail,0.9992,0.0008,False
+16989,bn-BD,email,email_sendemail,অনুগ্রহ করে বলুন যে ইমেইলটি আমাকে পাঠিয়েছে রাজীব আমার টাকা দরকার এখন এটা জরুরি,email_sendemail,1.0,1.0,True
+16992,bn-BD,email,email_query,মিহির কি আমাকে ইমেল করেছে,social_post,0.9986,0.0001,False
+16995,bn-BD,email,email_sendemail,মুক্তাকে ইমেইল পাঠান,email_sendemail,1.0,1.0,True
+17005,bn-BD,email,email_query,দয়া করে নতুন ইমেইলের জন্য চেক করুন,email_sendemail,0.9998,0.0002,False
+17011,bn-BD,email,email_sendemail,আপনি একটি ইমেল পাঠাতে পারেন,email_sendemail,1.0,1.0,True
+17015,bn-BD,email,email_sendemail,উত্তর শুরু করুন,calendar_remove,0.2266,0.0083,False
+17019,bn-BD,email,email_sendemail,শেষ ইমেইলের একটি উত্তর রচনা করুন,email_sendemail,1.0,1.0,True
+17020,bn-BD,email,email_sendemail,সর্বশেষ প্রাপ্ত ইমেইলের উত্তর দিন,email_sendemail,1.0,1.0,True
+17023,bn-BD,email,email_sendemail,মাকে ইমেইল করুন এবং জিজ্ঞাসা করুন সেখানে আবহাওয়া কেমন আছে,email_sendemail,1.0,1.0,True
+17042,bn-BD,email,email_sendemail,জিমেইল ডট কম এ আলী এর জন্য একটি ইমেইল লিখুন,email_sendemail,1.0,1.0,True
+17043,bn-BD,email,email_sendemail,রাহুলকে হটমেইল ডট কম এ ইমেইল পাঠান,email_sendemail,1.0,1.0,True
+17051,bn-BD,email,email_query,আমাকে নতুন ইমেইল দিন,email_sendemail,1.0,0.0,False
+17052,bn-BD,email,email_query,তুষার অনুসন্ধান করুন,qa_factoid,0.99,0.0001,False
+17069,bn-BD,email,email_query,আউটলুকের মধ্যে কোন নতুন ইমেইল আছে কি,email_query,0.9991,0.9991,True
+17075,bn-BD,email,email_query,আজ বিকেল চারটার পর কি কোনো নতুন ইমেইল এসেছে,email_query,0.8492,0.8492,True
+17081,bn-BD,email,email_sendemail,আমার সম্প্রতি সংরক্ষিত নথিগুলি দিয়ে আমার কোম্পানির কর্মীর জন্য একটি ইমেল রিট করুন,qa_factoid,0.9633,0.0021,False
+17087,bn-BD,email,email_query,আমার জন্য সোনালী থেকে প্রাপ্ত নতুন ইমেল চেক করুন,iot_hue_lightoff,0.4812,0.3897,False
+17098,bn-BD,email,email_query,আমাকে গত ঘন্টায় প্রাপ্ত কোনো ইমেইল দেখান,email_query,1.0,1.0,True
+17107,bn-BD,email,email_query,নতুন ইমেইমগুলো চেক করুন,email_sendemail,0.9878,0.0112,False
+17108,bn-BD,email,email_query,আমাকে আমার সর্বশেষ ইমেইল দিন,email_sendemail,1.0,0.0,False
+17113,bn-BD,email,email_sendemail,ইলাকে একটি ইমেইল তৈরি করতে বলুন,email_sendemail,1.0,1.0,True
+17115,bn-BD,email,email_query,নতুন ইমেইলের তালিকা পড়ুন,email_query,0.8731,0.8731,True
+17116,bn-BD,email,email_query,সাম্প্রতিক ইমেলের তালিকা প্রদর্শন করুন,recommendation_events,0.4091,0.0082,False
+17119,bn-BD,email,email_query,amazon থেকে যেকোনো ইমেইল চেক করুন,qa_factoid,0.6918,0.0182,False
+17123,bn-BD,email,email_sendemail,স্থানীয় অফিসার এর জন্য ইমেইল ফর্ম,email_query,0.714,0.2611,False
+17135,bn-BD,email,email_query,কোনো বিশেষ সংবাদ ইমেল,email_query,0.8772,0.8772,True
+17136,bn-BD,email,email_query,দয়া করে আমার নতুন মেইল পড়ুন,email_query,0.5801,0.5801,True
+17138,bn-BD,email,email_query,আমার পড়া বার্তা সংরক্ষণাগার করুন,lists_remove,0.3649,0.0173,False
+17142,bn-BD,email,email_query,শেষবার দেখার পর থেকে আমার ইনবক্সে কী আছে,iot_hue_lightoff,0.5409,0.0109,False
+17143,bn-BD,email,email_sendemail,আরে বোরহান ইমেইল পাঠান,email_sendemail,1.0,1.0,True
+17144,bn-BD,email,email_query,এই যে ইমেইল চেক করুন,email_sendemail,1.0,0.0,False
+17147,bn-BD,email,email_sendemail,নিম্নোক্ত কন্টেন্ট সহ মেইলের উত্তর দিন হ্যালো ইউ,iot_hue_lightoff,0.8049,0.0073,False
+17148,bn-BD,email,email_sendemail,নিচের কন্টেন্ট সহ alexa মেইলের উত্তর দিন হ্যালো ইউ,qa_factoid,0.3875,0.0118,False
+17151,bn-BD,email,email_sendemail,আমার বন্ধু রাহুল আমাকে তার নতুন কেনা বাড়িতে একটি আমন্ত্রণ কার্ড পাঠিয়েছে তার মেইল আইডিতে তাকে ধন্যবাদ জানান,email_sendemail,0.9976,0.9976,True
+17156,bn-BD,email,email_query,রাসেদ থেকে কোনো নতুন ইমেইলের জন্য আমার ইমেইল চেক করুন,email_sendemail,0.9997,0.0002,False
+17157,bn-BD,email,email_query,মাসুদ হতে আমার কি কোনো নতুন ইমেইল আছে,email_sendemail,0.9963,0.0037,False
+17170,bn-BD,email,email_query,সুলতানা আমাকে ইমেইল করলে আমাকে জানান,email_sendemail,1.0,0.0,False
+17179,bn-BD,email,email_query,রায়হান আমাকে একটি ইমেইল পাঠিয়েছে,email_sendemail,1.0,0.0,False

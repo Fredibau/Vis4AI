@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,sl-SL,iot,iot_hue_lightoff,olly ugasni luči v spalnici,cooking_recipe,0.5972,0.2809,False
+47,sl-SL,datetime,datetime_query,koliko je ura v avstraliji,weather_query,0.9961,0.0009,False
+85,sl-SL,datetime,datetime_query,povej mi današnji datum,datetime_query,0.9996,0.9996,True
+86,sl-SL,datetime,datetime_query,kateri datum je danes,datetime_query,0.9952,0.9952,True
+100,sl-SL,weather,weather_query,kakšna je tedenska napoved,weather_query,0.9935,0.9935,True
+102,sl-SL,weather,weather_query,kakšno je ta teden vreme,weather_query,0.9972,0.9972,True
+103,sl-SL,weather,weather_query,povej mi vreme za ta teden,calendar_set,0.9157,0.0002,False
+128,sl-SL,datetime,datetime_query,katerega smo,qa_factoid,0.9971,0.0002,False
+151,sl-SL,play,play_music,predvajaj ga še enkrat prosim,social_post,0.2018,0.0289,False
+177,sl-SL,news,news_query,povej mi nekaj poslovnih novic,news_query,0.6997,0.6997,True
+178,sl-SL,news,news_query,povej mi mednarodne novice,social_post,0.9524,0.0457,False
+182,sl-SL,play,play_music,igraj moj rock seznam predvajanja,play_music,0.9694,0.9694,True
+185,sl-SL,play,play_music,pojdi v moj seznam in predvajaj tretjo pesem po vrsti,play_music,0.6975,0.6975,True
+197,sl-SL,datetime,datetime_query,koliko je ura,weather_query,0.9958,0.0024,False
+216,sl-SL,weather,weather_query,kakšno je danes vreme,weather_query,0.9968,0.9968,True
+219,sl-SL,weather,weather_query,ali naj jutri vzamem dežnik,weather_query,0.8215,0.8215,True
+220,sl-SL,play,play_music,predvajaj glasbo iz rock seznama,play_music,0.5134,0.5134,True
+250,sl-SL,play,play_music,sem za jazz sedaj kaj pa ti,play_music,0.5531,0.5531,True
+254,sl-SL,play,play_music,olly igraj dobro pesem mojega najljubšega jazz glasbenika,play_music,0.9999,0.9999,True
+279,sl-SL,weather,weather_query,kakšna je današnja napoved za vrhniko,qa_factoid,0.6609,0.0037,False
+281,sl-SL,news,news_query,kakšen je menjalni tečaj ameriškega dolarja za britanski funt,qa_factoid,0.7561,0.014,False
+296,sl-SL,play,play_music,predvajaj nirvanin seznam predvajanja,social_post,0.9281,0.0011,False
+297,sl-SL,play,play_music,premešaj pesmi helene blagne,play_music,1.0,1.0,True
+299,sl-SL,weather,weather_query,kakšno je vreme,weather_query,0.9972,0.9972,True
+310,sl-SL,datetime,datetime_query,na kateri dan bo letos silvestrovo,weather_query,0.9986,0.0001,False
+319,sl-SL,weather,weather_query,povej mi vreme za unec čez dva dni,calendar_remove,0.9054,0.0205,False
+329,sl-SL,play,play_music,sedem let,email_sendemail,0.9652,0.001,False
+333,sl-SL,weather,weather_query,kakšne so vremenske razmere v kranju,weather_query,0.9914,0.9914,True
+334,sl-SL,weather,weather_query,želim vedeti kakšno je vreme v izoli,weather_query,0.9679,0.9679,True
+344,sl-SL,weather,weather_query,bo jutri deževno,weather_query,0.9671,0.9671,True
+348,sl-SL,weather,weather_query,ali bo jutri deževalo,weather_query,0.7239,0.7239,True
+355,sl-SL,datetime,datetime_query,kateri dan v tednu je prvi april,weather_query,0.998,0.0004,False
+360,sl-SL,datetime,datetime_query,koliko je trenutno ura,weather_query,0.9953,0.0008,False
+362,sl-SL,play,play_music,predvajaj drugi komad od šank rock komadov,calendar_remove,0.4202,0.2728,False
+366,sl-SL,news,news_query,prosim povej mi najnovejše novice,news_query,0.9947,0.9947,True
+369,sl-SL,iot,iot_hue_lightoff,ugasni luči,iot_hue_lightoff,0.9722,0.9722,True
+385,sl-SL,news,news_query,kaj je senzacija v jutarnjem listu,lists_query,0.9632,0.0002,False
+391,sl-SL,play,play_music,predvajaj naključno pesem iz mojega seznama predvajanj,play_music,0.9996,0.9996,True
+393,sl-SL,play,play_music,predvajaj retro komad na mojem seznamu predvajanja,play_music,0.4127,0.4127,True
+397,sl-SL,play,play_music,predvajaj katerokoli pesem od modrijanov,play_music,0.9994,0.9994,True
+400,sl-SL,play,play_music,začni s predvajanjem,qa_factoid,0.5671,0.0331,False
+407,sl-SL,play,play_music,ali lahko predvajaš rock glasbo naslednjo uro,play_music,0.8415,0.8415,True
+424,sl-SL,news,news_query,katere so prelomne novice,qa_factoid,0.9886,0.0001,False
+427,sl-SL,iot,iot_hue_lightoff,ugasni luči v kopalnici,iot_hue_lightoff,0.5343,0.5343,True
+428,sl-SL,iot,iot_hue_lightoff,ugasni luči v kopalnici,iot_hue_lightoff,0.5343,0.5343,True
+430,sl-SL,weather,weather_query,kakšno je zdaj vreme,weather_query,0.9985,0.9985,True
+437,sl-SL,play,play_music,odpri mapo sokoli,qa_factoid,0.6321,0.0031,False
+441,sl-SL,news,news_query,kaj so najnovejše najpomembnejše novice,news_query,0.9916,0.9916,True
+442,sl-SL,news,news_query,kaj se dogaja v novicah,qa_factoid,0.8128,0.01,False
+451,sl-SL,news,news_query,povej mi o najnovejših cenah delnic petrola,recommendation_events,0.996,0.0001,False
+473,sl-SL,play,play_music,predvajaj weekend,email_sendemail,0.9958,0.0001,False
+486,sl-SL,datetime,datetime_query,koliko je ura v mestu new york,weather_query,0.997,0.0003,False
+491,sl-SL,weather,weather_query,ali je mrzlo zunaj,weather_query,0.9908,0.9908,True
+506,sl-SL,play,play_music,odpri komade od šank rocka,social_post,0.4174,0.0372,False
+512,sl-SL,weather,weather_query,od jana plestenjaka,social_post,0.9979,0.0001,False
+540,sl-SL,play,play_music,predvajaj pesem ki jo poje tinkara kovač,qa_factoid,0.9997,0.0,False
+555,sl-SL,play,play_music,predvajaj big foot maminino tretjo dimenzijo,cooking_recipe,0.6858,0.0207,False
+576,sl-SL,play,play_music,predvajaj vse po seznamu predvajanja,play_podcasts,0.9902,0.0052,False
+585,sl-SL,news,news_query,prikaži zadnje novice,news_query,0.86,0.86,True
+588,sl-SL,news,news_query,katere so nove novice danes,qa_factoid,0.6094,0.0031,False
+590,sl-SL,weather,weather_query,kakšno je trenutno vreme,weather_query,0.9738,0.9738,True
+614,sl-SL,play,play_music,začni predvajati seznam za predvajanje,play_podcasts,0.3968,0.0194,False
+625,sl-SL,play,play_music,predvajaj prosim pesmi radia ena,play_radio,1.0,0.0,False
+631,sl-SL,news,news_query,nastavi obvestila o severnem toku,social_post,0.6676,0.0676,False
+651,sl-SL,iot,iot_hue_lightoff,ugasni sobne luči,iot_hue_lightoff,0.847,0.847,True
+660,sl-SL,datetime,datetime_query,ura v sloveniji,qa_factoid,0.9485,0.0,False
+680,sl-SL,news,news_query,obveščaj me o ceni bitcoina,recommendation_events,0.6772,0.0082,False
+686,sl-SL,datetime,datetime_query,koliko je ura zdaj v novem mestu,weather_query,0.9975,0.0002,False
+712,sl-SL,news,news_query,želim slišati najnovejše novice od r. t. v. slovenije,news_query,0.6347,0.6347,True
+726,sl-SL,weather,weather_query,povzetek tedenske vermenske napovedi,qa_factoid,0.996,0.0001,False
+730,sl-SL,iot,iot_hue_lightoff,ugasni luči,iot_hue_lightoff,0.9722,0.9722,True
+738,sl-SL,weather,weather_query,kako mrzlo je danes zunaj,weather_query,0.997,0.997,True
+764,sl-SL,weather,weather_query,kakšna je vremenska napoved za ta teden,weather_query,0.9965,0.9965,True
+765,sl-SL,news,news_query,mi lahko prosim daš posodobljene naslovnice novic mojega najnovejšega ponudnika,recommendation_events,0.9881,0.0002,False
+767,sl-SL,news,news_query,ali mi lahko prosim najdeš najnovejše novice iz vira katerega običajno ne obiščem,news_query,0.8884,0.8884,True
+768,sl-SL,news,news_query,povej mi najnovejše politične novice,news_query,0.7125,0.7125,True
+779,sl-SL,play,play_music,poslušati želim pesem nova pravila big foot mame,play_music,0.353,0.353,True
+781,sl-SL,play,play_music,igraj to je bolezen,qa_factoid,0.5259,0.0002,False
+782,sl-SL,play,play_music,predvajaj od višine se zvrti vlada kreslina,iot_hue_lightoff,0.4284,0.0042,False
+783,sl-SL,play,play_music,predvajaj ljubezenske pesmi,play_music,0.9111,0.9111,True
+790,sl-SL,weather,weather_query,prijetno ali neprijetno vreme,weather_query,0.991,0.991,True
+826,sl-SL,weather,weather_query,kakšna je trenutna temperatura zunaj,weather_query,0.9908,0.9908,True
+827,sl-SL,play,play_music,iz seznama predvajanja predvajaj vlada kreslina,qa_factoid,0.8612,0.0001,False
+832,sl-SL,weather,weather_query,kakšno vreme je napovedano za jutri,weather_query,0.9883,0.9883,True
+837,sl-SL,news,news_query,kakšne so napovedi mediane za prihajajoče ameriške volitve,qa_factoid,0.9902,0.0003,False
+891,sl-SL,play,play_music,predvajaj mi kakšno krščansko glasbo,play_music,0.9979,0.9979,True
+914,sl-SL,iot,iot_hue_lightoff,ugasni luči,iot_hue_lightoff,0.9722,0.9722,True
+936,sl-SL,play,play_music,odpri in predvajaj glasbo s seznama za džoging,play_podcasts,0.9529,0.0072,False
+951,sl-SL,weather,weather_query,kakšno je trenutno vreme v ljubljani,weather_query,0.9983,0.9983,True
+969,sl-SL,news,news_query,članki o določenih temah,social_post,0.9942,0.0014,False
+974,sl-SL,datetime,datetime_query,koliko je ura trenutno v novem mestu,weather_query,0.9911,0.0008,False
+997,sl-SL,iot,iot_hue_lightoff,ugasni luči v dnevni sobi,iot_hue_lightoff,0.4177,0.4177,True
+999,sl-SL,iot,iot_hue_lightoff,a lahko ugasneš luč,iot_hue_lightoff,0.7229,0.7229,True
+1007,sl-SL,play,play_music,predvajaj modrijane z mojega rock seznama,social_post,0.8712,0.0055,False
+1014,sl-SL,datetime,datetime_query,koliko je trenutno ura v londonu,weather_query,0.3519,0.0685,False
+1047,sl-SL,play,play_music,moram se zjokati ali mi lahko predvajaš otožne rock komade,cooking_recipe,0.9594,0.0036,False
+1061,sl-SL,news,news_query,daj mi posodobljene športne novice,news_query,0.9964,0.9964,True
+1063,sl-SL,news,news_query,obveščaj me vsako uro o športnih novicah,news_query,0.5887,0.5887,True
+1084,sl-SL,news,news_query,uporabniku prijazen,qa_factoid,0.9991,0.0,False
+1093,sl-SL,news,news_query,pojdi na spletno stran delo,qa_factoid,0.4866,0.0007,False
+1098,sl-SL,datetime,datetime_query,na kateri dan v tednu pade petnajsti marec,weather_query,0.9992,0.0001,False
+1108,sl-SL,play,play_music,moja želja je poslušati nekaj narodnozabavne glasbe,play_music,0.9986,0.9986,True
+1115,sl-SL,play,play_music,koordiniraj vse pop glasbene žanre,play_music,0.9744,0.9744,True
+1120,sl-SL,news,news_query,ali je v politiki kaj posebnega,qa_factoid,0.9795,0.0001,False
+1121,sl-SL,play,play_music,predvajaj lady od kennyja rogerja,social_post,0.9989,0.0,False
+1123,sl-SL,play,play_music,naslednjo zaigraj pesem blaža podobnika poklical si me po imenu,play_music,0.9984,0.9984,True
+1124,sl-SL,play,play_music,naslednjo mi predvajaj halo od alye,email_sendemail,0.9944,0.0,False
+1127,sl-SL,play,play_music,predvajaj vse pesmi pomešano,play_music,0.997,0.997,True
+1144,sl-SL,play,play_music,potrebujem nekaj rapa,cooking_recipe,0.9992,0.0004,False
+1148,sl-SL,datetime,datetime_query,koliko je trenutno ura v mariboru,datetime_query,0.2918,0.2918,True
+1156,sl-SL,news,news_query,najnovejše novice o mednarodnem dnevu žena,news_query,0.9984,0.9984,True
+1160,sl-SL,weather,weather_query,kako mrzlo bo vse noči ta teden,weather_query,0.9989,0.9989,True
+1180,sl-SL,news,news_query,poišči današnje delove članke o janši,play_podcasts,0.493,0.019,False
+1202,sl-SL,datetime,datetime_query,trenutni čas v new yorku,social_post,0.5484,0.0155,False
+1238,sl-SL,play,play_music,pandora,qa_factoid,0.1403,0.0391,False
+1249,sl-SL,weather,weather_query,kakšno bo verjetno vreme ta teden,weather_query,0.9929,0.9929,True
+1252,sl-SL,datetime,datetime_query,povej mi koliko je trenutno ura,weather_query,0.9955,0.0001,False
+1294,sl-SL,news,news_query,hitro mi dobi novice o d.s.i.ju,qa_factoid,0.8282,0.0006,False
+1301,sl-SL,news,news_query,povej mi kaj o novi janševi zunanji politiki,social_post,0.9193,0.0039,False
+1308,sl-SL,weather,weather_query,poišči današnjo vremensko napoved za tukaj,weather_query,0.9982,0.9982,True
+1318,sl-SL,play,play_music,zaženi glasbeno aplikacijo in predvajaj pesem zame,play_music,0.9993,0.9993,True
+1351,sl-SL,weather,weather_query,ali bo ta teden prijetno zunaj,weather_query,0.9957,0.9957,True
+1371,sl-SL,news,news_query,kaj je na prvi strani financ,lists_query,0.5274,0.0343,False
+1377,sl-SL,iot,iot_hue_lightoff,ugasni luči v sobi mojega sina,play_music,0.984,0.0003,False
+1400,sl-SL,weather,weather_query,večinoma sem zelo pozorna,qa_factoid,0.6277,0.0006,False
+1401,sl-SL,weather,weather_query,včasih spremljam,email_sendemail,0.997,0.0,False
+1404,sl-SL,weather,weather_query,prosim povej mi vreme v portorožu jutri,weather_query,0.9975,0.9975,True
+1423,sl-SL,news,news_query,povej mi o janši,social_post,0.9938,0.0005,False
+1425,sl-SL,news,news_query,obvesti me ko slišiš kaj o franciji,social_post,0.6895,0.0032,False
+1440,sl-SL,play,play_music,predvajaj najnovejše rock pesmi z oceno ali štiri ali več,play_music,0.9992,0.9992,True
+1449,sl-SL,datetime,datetime_query,kdaj je bila velika noč leta dvatisoč osemnajst,weather_query,0.9338,0.0477,False
+1458,sl-SL,weather,weather_query,kako vroče je v kopru,weather_query,0.9974,0.9974,True
+1467,sl-SL,play,play_music,predvaja laibach,play_music,0.7885,0.7885,True
+1474,sl-SL,news,news_query,kakšne so današnje športne novice,news_query,0.9941,0.9941,True
+1489,sl-SL,play,play_music,predvajaj zadnje komade jana plestenjaka,cooking_recipe,0.8458,0.0071,False
+1513,sl-SL,weather,weather_query,kakšna je zunaj temperatura,weather_query,0.9765,0.9765,True
+1533,sl-SL,news,news_query,katere novice so se danes zgodile na r. t. v. slovenija,qa_factoid,0.9101,0.0006,False
+1537,sl-SL,datetime,datetime_query,pokaži mi trenutn čas v nemčiji,weather_query,0.9895,0.0004,False
+1542,sl-SL,weather,weather_query,zunaj sije sonce bo tako še ves dan,iot_hue_lightoff,0.9916,0.0056,False
+1546,sl-SL,play,play_music,predvajaj moj poletni seznam za predvajanje,play_podcasts,0.9717,0.0017,False
+1547,sl-SL,weather,weather_query,kakšno vreme je napovedano za moj kraj ta teden,weather_query,0.9984,0.9984,True
+1549,sl-SL,weather,weather_query,bo ta teden deževalo,weather_query,0.7391,0.7391,True
+1554,sl-SL,iot,iot_hue_lightoff,ugasni svetilke,iot_hue_lightoff,0.4818,0.4818,True
+1581,sl-SL,datetime,datetime_query,kakšen je trenutni dan mesec in leto,qa_factoid,0.8496,0.0238,False
+1589,sl-SL,weather,weather_query,ali bo naslednji torek sončno,weather_query,0.9991,0.9991,True
+1593,sl-SL,news,news_query,nastavi obvestila svetovnih novic,iot_hue_lightoff,0.6655,0.1245,False
+1594,sl-SL,news,news_query,mi lahko poveš najnovejše novice,news_query,0.9959,0.9959,True
+1607,sl-SL,datetime,datetime_query,povej mi trenutni čas v ljubljani,social_post,0.416,0.0068,False
+1617,sl-SL,news,news_query,ko se pojavi nova tema o politiki me opozori,social_post,0.9873,0.0001,False
+1636,sl-SL,news,news_query,pokaži mi najnovejše dnevnikove novice,news_query,0.9997,0.9997,True
+1653,sl-SL,weather,weather_query,kdaj bo zopet deževalo,weather_query,0.7798,0.7798,True
+1655,sl-SL,weather,weather_query,ali bo jutri opoldne snežilo,weather_query,0.9902,0.9902,True
+1666,sl-SL,news,news_query,novice radio aktual pol sedmih so,play_radio,0.9802,0.0,False
+1671,sl-SL,play,play_music,predvajaj le glasbo izdano med leti tisoč devetsto devetdeset in dva tisoč,play_music,0.7369,0.7369,True
+1683,sl-SL,weather,weather_query,jutrišnja temperatura bo visoka ja ali ne,weather_query,0.9961,0.9961,True
+1684,sl-SL,weather,weather_query,ali bo jutrišnja temperatura visoka ali ne,weather_query,0.9983,0.9983,True
+1692,sl-SL,play,play_music,najdi kakšen miren jazz zame,qa_factoid,0.7098,0.003,False
+1722,sl-SL,weather,weather_query,kakšna je temperatura v londonu,weather_query,0.9993,0.9993,True
+1750,sl-SL,iot,iot_hue_lightoff,ugasni vse luči,iot_hue_lightoff,0.9748,0.9748,True
+1759,sl-SL,news,news_query,daj mi novice o janezu janši,news_query,0.9979,0.9979,True
+1760,sl-SL,news,news_query,zadnje novice o terorizmu,social_post,0.4591,0.0045,False
+1777,sl-SL,play,play_music,naslednja pesem,calendar_remove,0.9125,0.0045,False
+1784,sl-SL,iot,iot_hue_lightoff,izklopi luči v jedilnici,iot_hue_lightoff,0.899,0.899,True
+1786,sl-SL,iot,iot_hue_lightoff,ugasni glavno spalnico,qa_factoid,0.2783,0.1764,False
+1794,sl-SL,news,news_query,ali bo pahor kmalu obiskal rusijo,social_post,0.9931,0.0001,False
+1796,sl-SL,datetime,datetime_query,današnji datum,datetime_query,0.9969,0.9969,True
+1803,sl-SL,news,news_query,katere ekipe igrajo danes v prvi ligi,qa_factoid,0.3248,0.0217,False
+1811,sl-SL,play,play_music,začni seznam za predvajanje in igraj glasbo,play_music,0.9978,0.9978,True
+1832,sl-SL,play,play_music,predvajaj album helene blagne,play_music,0.9987,0.9987,True
+1833,sl-SL,play,play_music,ali lahko pripraviš teme seznama predvajanja,play_podcasts,0.9859,0.0004,False
+1866,sl-SL,weather,weather_query,vremensko poročilo zdaj,datetime_query,0.7278,0.0156,False
+1870,sl-SL,datetime,datetime_query,kateri mesec je danes,qa_factoid,0.9981,0.0,False
+1904,sl-SL,news,news_query,prikaži vrhunce tekme,cooking_recipe,0.9505,0.0001,False
+1933,sl-SL,weather,weather_query,ali bo padla temperatura do večera,weather_query,0.9929,0.9929,True
+1940,sl-SL,play,play_music,predvajaj naslov pesmi,play_music,0.9946,0.9946,True
+1962,sl-SL,play,play_music,predvajaj moj seznam odštekan na moji spotify aplikaciji,play_podcasts,0.9388,0.0006,False
+1994,sl-SL,play,play_music,lahko odpreš moj itunes,play_music,0.5272,0.5272,True
+1995,sl-SL,play,play_music,zaigraj mi pankrte,qa_factoid,1.0,0.0,False
+2007,sl-SL,play,play_music,prosim predvajaj legendo,social_post,0.994,0.0004,False
+2062,sl-SL,play,play_music,želim da se predvaja nekaj džez glasbe,play_music,0.8338,0.8338,True
+2085,sl-SL,play,play_music,alexa želim poslušati katrokoli klasično razen bacha ali schuberta,play_podcasts,0.9269,0.0652,False
+2098,sl-SL,news,news_query,kaj se dogaja po svetu v teh dneh,weather_query,0.9897,0.0001,False
+2108,sl-SL,play,play_music,nato predvajaj summer lovin,cooking_recipe,0.6022,0.03,False
+2113,sl-SL,recommendation,recommendation_events,povej mi o vseh trenutnih dogodkih v domačem kraju,social_post,0.675,0.0013,False
+2146,sl-SL,datetime,datetime_query,kateri datum bo na zimski solsticij čez dve leti,datetime_query,0.4817,0.4817,True
+2156,sl-SL,datetime,datetime_query,vedeti moram koliko je ura zdaj koliko je,weather_query,0.9905,0.0027,False
+2160,sl-SL,iot,iot_hue_lightoff,zdaj grem spat,cooking_recipe,0.8725,0.1149,False
+2178,sl-SL,weather,weather_query,kakšno je trenutno vremensko stanje v mojem mestu,weather_query,0.9941,0.9941,True
+2198,sl-SL,datetime,datetime_query,kateri dan v tednu ej bil četrtega decembra tisoč devetsto dvainosemdeset,datetime_query,0.9506,0.9506,True
+2201,sl-SL,news,news_query,naslovnice večera,email_sendemail,0.2802,0.0106,False
+2203,sl-SL,news,news_query,glavne novice r. t. v. slovenija,social_post,0.4956,0.0089,False
+2220,sl-SL,weather,weather_query,vreme v ljubljani,weather_query,0.9625,0.9625,True
+2225,sl-SL,play,play_music,predvajaj macho od helene blagne,social_post,0.8663,0.0033,False
+2230,sl-SL,iot,iot_hue_lightoff,ugasni kuhinjsko luč,iot_hue_lightoff,0.6064,0.6064,True
+2237,sl-SL,news,news_query,preberi mi najnovejše mednarodne novice,news_query,0.9996,0.9996,True
+2258,sl-SL,weather,weather_query,ali danes potrebujem pulover,qa_factoid,0.7744,0.0025,False
+2265,sl-SL,weather,weather_query,povej mi kakšno je trenutno vreme v bovcu,weather_query,0.9976,0.9976,True
+2271,sl-SL,play,play_music,prosim predvajaj pesmi ki sem jih kupil in označil za najljubše,play_music,0.9987,0.9987,True
+2296,sl-SL,news,news_query,sproti me obveščaj o današnjih n. b. a. rezultatih,social_post,0.3474,0.0431,False
+2298,sl-SL,iot,iot_hue_lightoff,ugasni luči zdaj,iot_hue_lightoff,0.9281,0.9281,True
+2315,sl-SL,news,news_query,kakšne so danes novice,social_post,0.7964,0.0096,False
+2316,sl-SL,news,news_query,alexa povej mi glavne novice,qa_factoid,0.9753,0.0005,False
+2320,sl-SL,weather,weather_query,kakšno bo vreme ta petek,weather_query,0.9952,0.9952,True
+2322,sl-SL,weather,weather_query,kakšno bo jutri vreme,weather_query,0.9963,0.9963,True
+2330,sl-SL,datetime,datetime_query,pokaži lokalni čas ljubljane v tem trenutku,weather_query,0.9861,0.0003,False
+2384,sl-SL,news,news_query,kaj se dogaja v svetu,qa_factoid,0.5507,0.006,False
+2386,sl-SL,news,news_query,daj mi najnovejše novice,news_query,0.9957,0.9957,True
+2396,sl-SL,play,play_music,predvajaj pesmi celine dion,social_post,0.861,0.0037,False
+2408,sl-SL,play,play_music,poiščite več pesmi skupine,play_music,0.9997,0.9997,True
+2412,sl-SL,datetime,datetime_query,mi lahko poveš uro v londonu,weather_query,0.9988,0.0001,False
+2423,sl-SL,weather,weather_query,prosim povej mi današnjo napoved za bohinj,news_query,0.4607,0.0427,False
+2438,sl-SL,news,news_query,pošlji tehnološke novice,social_post,0.7664,0.0057,False
+2441,sl-SL,iot,iot_hue_lightoff,ugasni luč v vrtni uti,iot_hue_lightoff,0.8936,0.8936,True
+2472,sl-SL,datetime,datetime_query,je trenutni čas pravilen za tukaj kje se nahajam,weather_query,0.8996,0.0032,False
+2496,sl-SL,news,news_query,dnevne novice,news_query,0.9982,0.9982,True
+2497,sl-SL,datetime,datetime_query,katerega smo danes,qa_factoid,0.996,0.0001,False
+2498,sl-SL,datetime,datetime_query,siri kateri darum je danes,email_sendemail,0.9226,0.0007,False
+2527,sl-SL,play,play_music,predvajaj klasični rock,play_music,0.9999,0.9999,True
+2531,sl-SL,play,play_music,alexa predvajaj rap in rock pesem eno za drugo,play_music,0.9994,0.9994,True
+2545,sl-SL,weather,weather_query,kakšno je vreme,weather_query,0.9972,0.9972,True
+2548,sl-SL,news,news_query,karkoli zanimivega iz slovenskih novic,news_query,0.9987,0.9987,True
+2560,sl-SL,play,play_music,predvajaj naključno glasbo,play_music,0.9993,0.9993,True
+2573,sl-SL,play,play_music,predvajaj moj spotify plesni seznam predvajanja,play_podcasts,0.7263,0.2736,False
+2578,sl-SL,iot,iot_hue_lightoff,ugasni luč v verandi,iot_hue_lightoff,0.9742,0.9742,True
+2588,sl-SL,news,news_query,katere so najnovejše novice na r. t. v. slovenija,news_query,0.9005,0.9005,True
+2594,sl-SL,news,news_query,povej mi najnovejše okoljske novice,news_query,0.9121,0.9121,True
+2605,sl-SL,play,play_music,igraj mojo najljubšo glasbo,play_music,1.0,1.0,True
+2611,sl-SL,weather,weather_query,trenutna vremenska napoved,qa_factoid,0.9095,0.0845,False
+2615,sl-SL,weather,weather_query,bom morala nositi jakno naslendjo sredo,email_sendemail,0.7859,0.0017,False
+2638,sl-SL,news,news_query,pokaži mi novice o janši,news_query,0.9885,0.9885,True
+2639,sl-SL,news,news_query,pokaži mi novice o okolju,news_query,0.5131,0.5131,True
+2651,sl-SL,news,news_query,najnovejše novie iz mojega kraja,news_query,0.9489,0.9489,True
+2678,sl-SL,weather,weather_query,ali danes zvečer dežuje,weather_query,0.998,0.998,True
+2679,sl-SL,weather,weather_query,ali bo temperatura ostala približno enaka ali se bo ohladilo,weather_query,0.8477,0.8477,True
+2703,sl-SL,play,play_music,prosim predvajaj folk glasbo,play_music,0.9585,0.9585,True
+2704,sl-SL,play,play_music,poslušajmo nekaj indie rock okej,play_music,0.9991,0.9991,True
+2708,sl-SL,play,play_music,olly rad bi plesal predvajaj mi nekaj rock north roll,play_music,0.9995,0.9995,True
+2709,sl-SL,play,play_music,olly rabim danes slišati nekaj žalostnih pesmi,play_music,0.9945,0.9945,True
+2711,sl-SL,iot,iot_hue_lightoff,ugasni luči,iot_hue_lightoff,0.9722,0.9722,True
+2717,sl-SL,play,play_music,želim slišati purple haze,weather_query,0.9673,0.0005,False
+2724,sl-SL,news,news_query,daj mi novice z r. t. v. slovenija,news_query,0.9555,0.9555,True
+2770,sl-SL,play,play_music,olly predvajaj glasbo jazz žanra,play_music,1.0,1.0,True
+2774,sl-SL,iot,iot_hue_lightoff,ugasni luči,iot_hue_lightoff,0.9722,0.9722,True
+2775,sl-SL,iot,iot_hue_lightoff,ugasni luči,iot_hue_lightoff,0.9722,0.9722,True
+2777,sl-SL,weather,weather_query,ali moram danes vzeti dežnik,iot_hue_lightoff,0.6055,0.3184,False
+2781,sl-SL,play,play_music,prosim predvajaj nekaj jazz glasbe,play_music,0.9971,0.9971,True
+2798,sl-SL,play,play_music,alexa predvajaj pesem to je bolezen,iot_hue_lightoff,0.9156,0.0116,False
+2801,sl-SL,datetime,datetime_query,koliko je ura v londonu,weather_query,0.9959,0.0022,False
+2824,sl-SL,datetime,datetime_query,kateri dan je trinajsti december,qa_factoid,0.999,0.0,False
+2840,sl-SL,datetime,datetime_query,na kateri dan pride drugi naslednjega meseca,weather_query,0.9745,0.0196,False
+2859,sl-SL,datetime,datetime_query,olly koliko je ura v tem mestu,weather_query,0.9605,0.0006,False
+2887,sl-SL,news,news_query,prosim prikaži mi katerikoli članke v povezavi z vremenom v jutranjih novicah,weather_query,0.6551,0.0125,False
+2890,sl-SL,weather,weather_query,trenutno vreme,calendar_remove,0.5459,0.0025,False
+2898,sl-SL,news,news_query,so kakšne novosti glede volitev,news_query,0.9968,0.9968,True
+2914,sl-SL,datetime,datetime_query,povej mi kateri datum je danes,weather_query,0.8297,0.1675,False
+2917,sl-SL,weather,weather_query,tedensko vremensko poročilo,datetime_query,0.9436,0.0078,False
+2921,sl-SL,news,news_query,kakšne so novice na spletni strani r. t. v. slovenije,news_query,0.8737,0.8737,True
+2927,sl-SL,datetime,datetime_query,koliko je ura v ljubljani,weather_query,0.998,0.0002,False
+2931,sl-SL,play,play_music,predvajaj ledena kot naslednjo,qa_factoid,0.6669,0.0053,False
+2962,sl-SL,play,play_music,prosim predvajaj pesem adija smolarja,play_music,0.9804,0.9804,True
+2965,sl-SL,iot,iot_hue_lightoff,ugasni pisarniške luči,iot_hue_lightoff,0.4841,0.4841,True
+3002,sl-SL,play,play_music,igraj pesmi benda pepel in kri,social_post,0.9886,0.0004,False
+3031,sl-SL,play,play_music,rad bi to pesem še enkrat,play_radio,0.9648,0.0051,False
+3034,sl-SL,weather,weather_query,povej mi temperaturo,qa_factoid,0.6561,0.0011,False
+3037,sl-SL,news,news_query,članki novic z naslovne strani prosim,social_post,0.999,0.0,False
+3039,sl-SL,news,news_query,kaj je novega v novicah,news_query,0.684,0.684,True
+3060,sl-SL,news,news_query,kakšne so novice od tega vira,qa_factoid,0.9782,0.0001,False
+3091,sl-SL,datetime,datetime_query,koliko je ura po pacifiškem časovnem pasu,weather_query,0.9398,0.026,False
+3096,sl-SL,weather,weather_query,kakšno je vreme v kamniku,weather_query,0.9981,0.9981,True
+3098,sl-SL,iot,iot_hue_lightoff,ugasni luči,iot_hue_lightoff,0.9722,0.9722,True
+3099,sl-SL,news,news_query,pokaži mi nekaj aktualnih dogodkov,play_podcasts,0.7394,0.0456,False
+3101,sl-SL,news,news_query,olly vklopi poročila,qa_factoid,0.8839,0.0001,False
+3116,sl-SL,play,play_music,predvajaj moj najljubši komad prejšnjega leta,cooking_recipe,0.4207,0.0856,False
+3117,sl-SL,play,play_music,predvajaj nekaj z albuma modri klavir roka kosmača,play_music,0.8744,0.8744,True
+3118,sl-SL,datetime,datetime_query,koliko je ura po vzhodnem standardnem časovnem pasu,weather_query,0.995,0.0015,False
+3124,sl-SL,play,play_music,predvajaj mi naključno pesem mojega seznama predvajanja,play_music,0.9849,0.9849,True
+3146,sl-SL,play,play_music,predvajaj skladbo ena mojega seznama glasbe marte zore,play_music,1.0,1.0,True
+3167,sl-SL,iot,iot_hue_lightoff,ugasni moje luči v spalnici,iot_hue_lightoff,0.793,0.793,True
+3174,sl-SL,play,play_music,predvajaj glasbeni predvajalni seznam,recommendation_events,0.5862,0.0113,False
+3205,sl-SL,play,play_music,predvajaj od višine se zvrti od vlada kreslina,iot_hue_lightoff,0.6163,0.0043,False
+3207,sl-SL,play,play_music,predvajaj od višine se zvrti od vlada kreslina,iot_hue_lightoff,0.6163,0.0043,False
+3212,sl-SL,calendar,calendar_set,opomni me da takrat nekaj opravim,cooking_recipe,0.9843,0.0005,False
+3214,sl-SL,news,news_query,kakšno je trenutno stanje preiskave janševih zvez z madžarsko,qa_factoid,0.7074,0.0098,False
+3228,sl-SL,datetime,datetime_query,na kateri dan v tednu pride letos božič,qa_factoid,0.5142,0.0007,False
+3253,sl-SL,weather,weather_query,ali pričakujemo dež to popoldne,qa_factoid,0.9447,0.0013,False
+3264,sl-SL,play,play_music,predvajaj regi glasbo,social_post,0.7438,0.0029,False
+3305,sl-SL,weather,weather_query,kakšno je vreme ta teden v kopru,weather_query,0.9981,0.9981,True
+3306,sl-SL,weather,weather_query,kakšna je napoved za ta teden,qa_factoid,0.9946,0.0014,False
+3329,sl-SL,news,news_query,hičem videti novice,iot_hue_lightoff,0.9852,0.0005,False
+3337,sl-SL,weather,weather_query,poročaj vreme za triintrideset ticoč sedemsto štiriinsedemdeset,datetime_query,0.3682,0.1091,False
+3338,sl-SL,weather,weather_query,poročaj vreme za ljubljano,recommendation_events,0.9496,0.0005,False
+3361,sl-SL,datetime,datetime_query,katerega smo naslednji torek,cooking_recipe,0.2722,0.0388,False
+3378,sl-SL,iot,iot_hue_lightoff,brez luči v kuhinji,play_music,0.987,0.0038,False
+3386,sl-SL,iot,iot_hue_lightoff,zmanjšaj luči na srednjo svetlost,iot_hue_lightoff,0.9756,0.9756,True
+3400,sl-SL,play,play_music,predvajaj posnetek v živo helene blagne,social_post,0.9371,0.0199,False
+3401,sl-SL,play,play_music,igraj najbolj priljubljeno pesem zorana predina,play_music,0.9997,0.9997,True
+3406,sl-SL,weather,weather_query,kakšna je desetdnevna napoved,qa_factoid,0.9987,0.0007,False
+3407,sl-SL,weather,weather_query,ali so kakšne napovedi za dež ali sneg ta teden,weather_query,0.9598,0.9598,True
+3408,sl-SL,weather,weather_query,ali bo prijetno vreme ta vikend,weather_query,0.9882,0.9882,True
+3426,sl-SL,weather,weather_query,koliko jezunaj stopinj,qa_factoid,0.9971,0.0,False
+3433,sl-SL,play,play_music,nova pop glasba,qa_factoid,0.9051,0.0009,False
+3434,sl-SL,play,play_music,najboljša rap glasba,qa_factoid,0.9313,0.0671,False
+3441,sl-SL,datetime,datetime_query,je dvaindvajseti v sredo,datetime_query,0.3499,0.3499,True
+3444,sl-SL,datetime,datetime_query,ali je deset,qa_factoid,0.9984,0.0001,False
+3447,sl-SL,weather,weather_query,ali vreme napoveduje dež v soboto,weather_query,0.9939,0.9939,True
+3481,sl-SL,play,play_music,igraj najbolj priljubljeno pesem tega avtorja,play_music,0.9982,0.9982,True
+3489,sl-SL,play,play_music,igraj glasbo zdaj prosim,play_music,0.7739,0.7739,True
+3492,sl-SL,play,play_music,predvajaj moj najbolj poslušan seznam skladb,recommendation_events,0.5537,0.0018,False
+3503,sl-SL,weather,weather_query,kakšno je vreme v kranju,weather_query,0.9985,0.9985,True
+3507,sl-SL,weather,weather_query,ali je v napovedi sneg,qa_factoid,0.5495,0.36,False
+3513,sl-SL,play,play_music,predvajaj samo moj seznam,recommendation_events,0.8272,0.0016,False
+3516,sl-SL,weather,weather_query,kakšna je možnost padavin v današnji napovedi,qa_factoid,0.9256,0.0662,False
+3539,sl-SL,play,play_music,predvajaj shake it off od taylor swift,play_music,0.7229,0.7229,True
+3546,sl-SL,play,play_music,rad bi slišal jazz glasbo,play_music,0.9977,0.9977,True
+3550,sl-SL,play,play_music,zaigraj nekaj od siddharte,play_music,0.9999,0.9999,True
+3554,sl-SL,play,play_music,ali lahko predvajaš seznam predvajanja ljubezen,play_podcasts,0.9904,0.0004,False
+3562,sl-SL,play,play_music,predvajaj one more time,qa_factoid,0.5428,0.0046,False
+3566,sl-SL,datetime,datetime_query,koliko je trenutnoura v kopru,qa_factoid,0.8024,0.0002,False
+3570,sl-SL,iot,iot_hue_lightoff,prosim ugasni luči na terasi,cooking_recipe,0.7501,0.2394,False
+3576,sl-SL,news,news_query,kakšna je najnovejša zgodba iz r. t. v. slovenije,social_post,0.9856,0.0071,False
+3586,sl-SL,weather,weather_query,kakšno je vreme v domžalah,weather_query,0.9977,0.9977,True
+3600,sl-SL,calendar,calendar_set,opomni me čez deset minut,iot_hue_lightoff,0.4652,0.0028,False
+3603,sl-SL,news,news_query,katere so najnovejše s. t. a. novice,qa_factoid,0.9977,0.001,False
+3605,sl-SL,news,news_query,kaj so najnovejše novice na r. t. v. sloveniji,social_post,0.9569,0.0366,False
+3606,sl-SL,datetime,datetime_query,koliko je ura v ljubljani,weather_query,0.998,0.0002,False
+3614,sl-SL,weather,weather_query,danes je sončen dan ali ne,weather_query,0.9971,0.9971,True
+3623,sl-SL,news,news_query,kaj se danes dogaja v svetu,weather_query,0.9442,0.0009,False
+3624,sl-SL,news,news_query,novice z r. t. v. slovenije,qa_factoid,0.9908,0.0,False
+3631,sl-SL,play,play_music,živjo google predvajaj nekaj jazz glasbe zame,play_music,0.997,0.997,True
+3686,sl-SL,play,play_music,vklopi seznam predvajanja ki sem ga posvetil rock glasbi,play_music,0.5916,0.5916,True
+3714,sl-SL,play,play_music,predvajaj moj seznam predvajanja od konca naprej,play_podcasts,1.0,0.0,False
+3717,sl-SL,play,play_music,predvajaj moje uspešnice rapa iz devetdesetih,play_music,0.9999,0.9999,True
+3723,sl-SL,play,play_music,rad bi slišal heleno blagne pokliči me po tej pesmi,play_music,0.9934,0.9934,True
+3725,sl-SL,datetime,datetime_query,kateri dan je danes,social_post,0.5294,0.0016,False
+3727,sl-SL,play,play_music,predvajaj to je bolezen jana plestenjaka,qa_factoid,0.9679,0.0002,False
+3750,sl-SL,news,news_query,olly če bodo kakšne nove novice o poplavi me takoj obvesti,social_post,0.6266,0.1036,False
+3779,sl-SL,play,play_music,igraj youtube top deset seznam predvajanja,play_podcasts,1.0,0.0,False
+3780,sl-SL,play,play_music,predvajaj moj seznam predvajanja polnočna ljubezen,play_podcasts,1.0,0.0,False
+3784,sl-SL,weather,weather_query,daj mi vremensko poročilo za ljubljano,weather_query,0.9971,0.9971,True
+3785,sl-SL,iot,iot_hue_lightoff,prosim ugasni luč v kopalnici,iot_hue_lightoff,0.6709,0.6709,True
+3822,sl-SL,news,news_query,poišči mi informacije o avtih,iot_hue_lightoff,0.9143,0.0055,False
+3852,sl-SL,weather,weather_query,kakšno vreme imajo trenutno v ljubljani,weather_query,0.9982,0.9982,True
+3859,sl-SL,play,play_music,prosim predvajaj moj najljubši rap seznam predvajanja,play_music,0.9177,0.9177,True
+3907,sl-SL,play,play_music,predvajaj mi lanske uspešnice,play_music,0.9991,0.9991,True
+3911,sl-SL,play,play_music,želim poslušati katere koli pesmi ki so letos dobile grammyja,play_music,0.9993,0.9993,True
+3912,sl-SL,play,play_music,rad bi poslušal plesno in narodno zabavno glasbo,play_music,0.6385,0.6385,True
+3936,sl-SL,weather,weather_query,kakšna je temperatura,weather_query,0.9872,0.9872,True
+3960,sl-SL,datetime,datetime_query,povej koliko je ura,weather_query,0.995,0.0011,False
+3967,sl-SL,play,play_music,rap,qa_factoid,0.5852,0.0441,False
+3980,sl-SL,play,play_music,prosim predvajaj shape of you said sheeran,qa_factoid,0.969,0.0006,False
+3982,sl-SL,play,play_music,prosim izberi prvo pesem knjižnice itunes,recommendation_events,0.4914,0.2803,False
+3993,sl-SL,iot,iot_hue_lightoff,lahko nastaviš luči na svetleje,iot_hue_lightoff,0.9503,0.9503,True
+3995,sl-SL,datetime,datetime_query,olly kateri dan v tednu je noč čarovnic,weather_query,0.927,0.0021,False
+4001,sl-SL,news,news_query,kaj se je zgodilo v nanizanki ena žlahtna storija,qa_definition,0.6361,0.0027,False
+4023,sl-SL,news,news_query,kaj je v novicah,qa_factoid,0.192,0.1561,False
+4031,sl-SL,play,play_music,predvajaj modri klavir,cooking_recipe,0.8879,0.0053,False
+4040,sl-SL,play,play_music,predvajaj pesmi ki jih največkrat poslušam,play_music,0.9995,0.9995,True
+4058,sl-SL,play,play_music,rad bi slišal kakšno rap glasbo,play_music,0.9999,0.9999,True
+4073,sl-SL,datetime,datetime_query,kateri dan smo petega,qa_factoid,0.9997,0.0,False
+4077,sl-SL,iot,iot_hue_lightoff,ugasni vse kuhinjske luči,iot_hue_lightoff,0.6232,0.6232,True
+4088,sl-SL,iot,iot_hue_lightoff,ugasni naglavno luč,iot_hue_lightoff,0.4845,0.4845,True
+4104,sl-SL,weather,weather_query,kakšnobo danes vreme v kamniku,weather_query,0.9954,0.9954,True
+4116,sl-SL,play,play_music,zaigraj mi prosim predvajalni seznam različnih pesmi,play_music,0.9942,0.9942,True
+4119,sl-SL,news,news_query,želim vedeti vse kar se bo zgodilo ob zaprtju teš v šoštanju,news_query,0.2066,0.2066,True
+4132,sl-SL,weather,weather_query,povej mi možnost dežja v ribnici za danes,weather_query,0.6226,0.6226,True
+4136,sl-SL,play,play_music,lahko prosim predvajaš hazard,qa_factoid,0.9714,0.0004,False
+4152,sl-SL,play,play_music,predvajaj pesem ti si moja ljubezen,play_music,0.738,0.738,True
+4168,sl-SL,weather,weather_query,prosim preveri vreme na bledu,weather_query,0.9944,0.9944,True
+4171,sl-SL,iot,iot_hue_lightoff,ugasni luči v kuhinji,iot_hue_lightoff,0.9241,0.9241,True
+4177,sl-SL,news,news_query,kaj so zadnji politični naslovi v svetu,qa_factoid,0.6564,0.0053,False
+4178,sl-SL,news,news_query,ali je kaj novic o predsedovanju,email_sendemail,0.9932,0.0,False
+4183,sl-SL,datetime,datetime_query,trenutni čas za maribor,qa_factoid,0.9103,0.0059,False
+4186,sl-SL,datetime,datetime_query,živjo olly koliko je ura,weather_query,0.9494,0.0041,False
+4187,sl-SL,datetime,datetime_query,živjo siri koliko je ura,weather_query,0.9212,0.0493,False
+4205,sl-SL,play,play_music,želim slišati naš svet se pa vrti od adija smolarja,play_music,0.6727,0.6727,True
+4212,sl-SL,weather,weather_query,mi bo uspelo zvečer pokositi travo,iot_hue_lightoff,0.8091,0.0351,False
+4227,sl-SL,weather,weather_query,ali je kaj dežja v napovedi za naslednji teden,weather_query,0.9951,0.9951,True
+4232,sl-SL,play,play_music,igraj od višine se zvrti vlada kreslina,play_music,0.4803,0.4803,True
+4236,sl-SL,datetime,datetime_query,ali je že popoldne,email_sendemail,1.0,0.0,False
+4253,sl-SL,datetime,datetime_query,koliko je zdaj ura po vzhodnem standardnem času,weather_query,0.9982,0.0002,False
+4254,sl-SL,datetime,datetime_query,koliko je ura na vzhodni obali združenih držav,weather_query,0.9847,0.0025,False
+4258,sl-SL,news,news_query,kaj so zadnje novice,news_query,0.7293,0.7293,True
+4266,sl-SL,weather,weather_query,kakšno je današnje vreme,weather_query,0.996,0.996,True
+4273,sl-SL,play,play_music,predvajaj pesem to je bolezen,qa_factoid,0.3745,0.0004,False
+4290,sl-SL,weather,weather_query,bi moral zvečer vzeti jakno s seboj,lists_remove,0.31,0.0267,False
+4305,sl-SL,play,play_music,igraj pesem vlada kreslina od višine se zvrti,play_music,0.999,0.999,True
+4309,sl-SL,datetime,datetime_query,čez koliko ur bo v londonu polnoč,weather_query,0.9971,0.0001,False
+4312,sl-SL,weather,weather_query,ali bo imelo vreme manj kot deset stopinj v kopru,weather_query,0.9687,0.9687,True
+4313,sl-SL,weather,weather_query,ali bo jutri dež v ljubljani,weather_query,0.9963,0.9963,True
+4336,sl-SL,datetime,datetime_query,čas v sloveniji,weather_query,0.986,0.0004,False
+4346,sl-SL,iot,iot_hue_lightoff,izklopi luči,iot_hue_lightoff,0.9935,0.9935,True
+4347,sl-SL,iot,iot_hue_lightoff,ugasni delujoče luči,iot_hue_lightoff,0.9785,0.9785,True
+4355,sl-SL,weather,weather_query,kakšno je vrme tu kjer sem,qa_factoid,0.8622,0.0025,False
+4361,sl-SL,play,play_music,daj mi nekaj dobrega zvoka,play_music,0.9988,0.9988,True
+4362,sl-SL,datetime,datetime_query,kolikoje ura v mariboru,play_music,0.8021,0.0016,False
+4376,sl-SL,weather,weather_query,kakšno je danes vreme,weather_query,0.9968,0.9968,True
+4377,sl-SL,weather,weather_query,kakšno je trenutno vreme,weather_query,0.9738,0.9738,True
+4383,sl-SL,weather,weather_query,kakšno bo jutri vreme,weather_query,0.9963,0.9963,True
+4391,sl-SL,news,news_query,kaj so naslovne zgodbe na r. t. v. slovenija,social_post,0.9996,0.0,False
+4400,sl-SL,news,news_query,kakšni so priljubljeni članki v revije finance,news_query,0.9422,0.9422,True
+4402,sl-SL,weather,weather_query,bom potreboval danes nositi marelo naokoli,qa_factoid,0.4692,0.0349,False
+4412,sl-SL,weather,weather_query,kakšno je vreme v škofji loki,weather_query,0.9984,0.9984,True
+4436,sl-SL,weather,weather_query,kakšno jakno naj oblečem,qa_factoid,0.82,0.0015,False
+4439,sl-SL,weather,weather_query,kakšno je vreme v piranu,weather_query,0.9987,0.9987,True
+4449,sl-SL,weather,weather_query,ali bo deževalo danes ob enih popoldne,qa_factoid,0.9841,0.002,False
+4452,sl-SL,play,play_music,predvajaj skladbe,play_music,1.0,1.0,True
+4463,sl-SL,datetime,datetime_query,koliko sobot je v marcu,weather_query,0.8052,0.0054,False
+4477,sl-SL,play,play_music,predvajaj naslednjo skladbo,play_music,0.9998,0.9998,True
+4482,sl-SL,weather,weather_query,ali bom moral očistiti moj zasneženi dovoz to jutro,transport_query,0.8307,0.0095,False
+4486,sl-SL,weather,weather_query,podaj mi vremensko napoved za ta teden,weather_query,0.9954,0.9954,True
+4487,sl-SL,weather,weather_query,ali bo deževalo v četrtek,weather_query,0.9827,0.9827,True
+4491,sl-SL,news,news_query,kaj so najnovejše novice o borutu pahorju,social_post,0.9797,0.0141,False
+4492,sl-SL,news,news_query,kakšna je najnovejša statistika o kriminaliteti v mojem okrožju,qa_factoid,0.5515,0.3604,False
+4496,sl-SL,news,news_query,kaj je cosmopolitan danes objavil,social_post,1.0,0.0,False
+4502,sl-SL,datetime,datetime_query,hej koliko je sedaj ura v celju,weather_query,0.997,0.0001,False
+4524,sl-SL,weather,weather_query,olly kakšna je vremenska napoved danes,weather_query,0.9986,0.9986,True
+4547,sl-SL,play,play_music,začni predvajati seznam sprehod s psom,recommendation_events,0.1851,0.0289,False
+4567,sl-SL,news,news_query,preberi mi najnovejše naslove na rtvslosi,recommendation_events,0.7907,0.0001,False
+4580,sl-SL,datetime,datetime_query,koliko je ura v ljubljani,weather_query,0.998,0.0002,False
+4587,sl-SL,play,play_music,predvajaj moje priljubljene,social_post,0.9289,0.0339,False
+4589,sl-SL,calendar,calendar_set,nastavi obvestilo o športnem prenosu,transport_query,0.9739,0.0002,False
+4606,sl-SL,news,news_query,najdi informacije o današnjih delnicah,recommendation_events,0.9733,0.0006,False
+4614,sl-SL,weather,weather_query,ali bo jutri temperatura višja kot trideset,weather_query,0.9969,0.9969,True
+4662,sl-SL,news,news_query,novice na r. t. v. slovenija aleksa,qa_factoid,0.7557,0.0709,False
+4667,sl-SL,datetime,datetime_query,trenutni čas v,qa_factoid,0.56,0.0919,False
+4680,sl-SL,weather,weather_query,ali naj objem sandale ali čevlje z nogavicami,qa_factoid,0.4022,0.0161,False
+4689,sl-SL,weather,weather_query,ali veš kakšno je vreme,weather_query,0.9989,0.9989,True
+4692,sl-SL,play,play_music,predvajaj mi pesem elvida fliserja,qa_factoid,0.3667,0.0079,False
+4710,sl-SL,datetime,datetime_query,kateri dan je to leto noč čarovnic,weather_query,0.9925,0.0016,False
+4764,sl-SL,weather,weather_query,ali bo deževalo v ponedeljek,weather_query,0.9938,0.9938,True
+4767,sl-SL,news,news_query,ali so na voljo kakšne nove informacije o zidu na ameriško mehiški meji,iot_hue_lightoff,0.2287,0.075,False
+4772,sl-SL,datetime,datetime_query,povej mi koliko je ura v tem časovnem pasu,weather_query,0.9954,0.0015,False
+4780,sl-SL,datetime,datetime_query,na kateri dan pride moj rojstni dan sedemindvajsetega junija letos,weather_query,0.9106,0.0432,False
+4784,sl-SL,weather,weather_query,ali potrebujem jakno,qa_factoid,0.1918,0.0334,False
+4813,sl-SL,datetime,datetime_query,koliko je ura v drugem mestu,weather_query,0.9979,0.0006,False
+4837,sl-SL,news,news_query,je kaj novic olly,qa_factoid,0.9977,0.0,False
+4838,sl-SL,play,play_music,predvajaj vso glasbo od billy joel,play_music,1.0,1.0,True
+4871,sl-SL,weather,weather_query,kakšno je zunaj,qa_factoid,0.9985,0.0001,False
+4881,sl-SL,datetime,datetime_query,najdi trenutni lokalni čas in časovni pas,qa_factoid,0.3597,0.0415,False
+4882,sl-SL,datetime,datetime_query,koliko je ura v mestu,weather_query,0.9966,0.0004,False
+4890,sl-SL,calendar,calendar_set,pošlji obvestila o aktualnih vremenskih katastrofah v ameriki,weather_query,0.9779,0.0005,False
+4909,sl-SL,play,play_music,predvajaj skladbe eve boto,play_music,1.0,1.0,True
+4917,sl-SL,weather,weather_query,temperatura zunaj,qa_factoid,0.9979,0.0001,False
+4928,sl-SL,play,play_music,predvajaj moj zvočni posnetek,play_podcasts,0.7849,0.0823,False
+4933,sl-SL,weather,weather_query,ali bo zdaj deževalo,weather_query,0.9749,0.9749,True
+4951,sl-SL,datetime,datetime_query,rad bi vedel koliko je ura zdaj,weather_query,0.8732,0.0731,False
+4953,sl-SL,news,news_query,novice o nesreči vlaka,news_query,0.9961,0.9961,True
+4957,sl-SL,datetime,datetime_query,kateri dan v tednu je triindvajseti tega meseca,weather_query,0.6198,0.3664,False
+4960,sl-SL,play,play_music,glasba tabu,qa_factoid,0.9998,0.0,False
+4968,sl-SL,qa,qa_factoid,kdo je letos zmagal na predsedniških volitvah,qa_factoid,0.7101,0.7101,True
+4973,sl-SL,play,play_music,olly predvajaj od višine se zvrti,iot_hue_lightoff,0.4766,0.0113,False
+4998,sl-SL,play,play_music,dodaj ta komad za naslednjo predvajano pesem,play_music,0.6188,0.6188,True
+5009,sl-SL,weather,weather_query,bom potreboval dežnik ta teden,iot_hue_lightoff,0.4673,0.2535,False
+5016,sl-SL,news,news_query,poročaj mi o novicah o vzponih in padcih delniškega trga,news_query,0.7388,0.7388,True
+5027,sl-SL,datetime,datetime_query,kdaj je naslednji petek trinajsti,weather_query,0.9905,0.0038,False
+5037,sl-SL,weather,weather_query,kako mrzlo je danes,weather_query,0.9966,0.9966,True
+5038,sl-SL,weather,weather_query,kakšno je vreme za ta teden,weather_query,0.9954,0.9954,True
+5040,sl-SL,weather,weather_query,kakšno je zdaj vreme,weather_query,0.9985,0.9985,True
+5062,sl-SL,play,play_music,prosim predvajaj komade iz osemdesetih,cooking_recipe,0.5967,0.05,False
+5074,sl-SL,weather,weather_query,kakšno je vreme ta teden,weather_query,0.9976,0.9976,True
+5085,sl-SL,weather,weather_query,kakšna je napoved za soboto,social_post,0.9435,0.0001,False
+5118,sl-SL,play,play_music,nihče ne ve,qa_factoid,0.9967,0.0001,False
+5127,sl-SL,news,news_query,tukaj je resnica o ljudski kuhinji in proračunu nekoga,cooking_recipe,0.9706,0.0015,False
+5131,sl-SL,datetime,datetime_query,prosim povej mi koliko je ura v san franciscu,weather_query,0.9927,0.0017,False
+5134,sl-SL,play,play_music,najdi pesmi big band predvajalnega seznama,play_music,0.9988,0.9988,True
+5156,sl-SL,iot,iot_hue_lightoff,ugasni luč v dnevni sobi,iot_hue_lightoff,0.9294,0.9294,True
+5157,sl-SL,iot,iot_hue_lightoff,olly ugasni luč v dnevni sobi,iot_hue_lightoff,0.8024,0.8024,True
+5158,sl-SL,play,play_music,prosim predvajaj zadnji komad iz albuma abbas,play_music,0.6474,0.6474,True
+5159,sl-SL,play,play_music,lahko prosim predvajaš pesem izvajalca madonna,play_podcasts,0.7677,0.2286,False
+5160,sl-SL,play,play_music,lahko prosim predvajaš pesem michaela jacksona,iot_hue_lightoff,0.5707,0.0161,False
+5176,sl-SL,weather,weather_query,kakšno vreme naj pričakujem ta teden,weather_query,0.5989,0.5989,True
+5196,sl-SL,news,news_query,želim vedeti o brexitu,social_post,0.9943,0.0001,False
+5225,sl-SL,datetime,datetime_query,kateri datum je naslednjo sredo,datetime_query,0.9992,0.9992,True
+5243,sl-SL,iot,iot_hue_lightoff,prosim ugasni luči v kopalnici,cooking_recipe,0.9444,0.0449,False
+5245,sl-SL,news,news_query,nastavi obvestila o okoljskih novicah,iot_hue_lightoff,0.8779,0.0023,False
+5270,sl-SL,news,news_query,kaj so trenutno udarne novice,qa_factoid,0.9854,0.0002,False
+5278,sl-SL,play,play_music,prosim predvajaj samo glasbo pop miks,play_music,0.9978,0.9978,True
+5279,sl-SL,play,play_music,prosim predvajaj le žalostno pesem v glasbenem predvajalniku,play_music,0.9996,0.9996,True
+5286,sl-SL,news,news_query,pokaži novice r. t. v. slovenija o migracijah,news_query,0.4533,0.4533,True
+5296,sl-SL,news,news_query,olly priskrbi mi popularne novice rtv slovenije,social_post,0.8014,0.0003,False
+5297,sl-SL,news,news_query,pokaži mi priljubljene novice iz rtvslo,news_query,0.999,0.999,True
+5301,sl-SL,weather,weather_query,kakšno bo vreme dvajsetega marca dva tisoč sedemnajst,weather_query,0.9979,0.9979,True
+5307,sl-SL,datetime,datetime_query,ali je danes dvajseti marec,email_sendemail,0.7,0.0047,False
+5318,sl-SL,play,play_music,prosim predvajaj nipkejeve pesmi,play_music,0.9997,0.9997,True
+5321,sl-SL,weather,weather_query,pokaži vreme,weather_query,0.9045,0.9045,True
+5328,sl-SL,play,play_music,rock,qa_factoid,0.5125,0.0155,False
+5339,sl-SL,weather,weather_query,rahla ohladitev,qa_factoid,0.9944,0.0001,False
+5341,sl-SL,datetime,datetime_query,prosim opomni me na čas,qa_factoid,0.987,0.0021,False
+5347,sl-SL,play,play_music,igraj techno glasbo,play_music,0.5657,0.5657,True
+5358,sl-SL,datetime,datetime_query,posodobi na trenutni čas,play_podcasts,0.9808,0.0001,False
+5370,sl-SL,news,news_query,kaj je najnovejši janšev spor,social_post,0.9956,0.003,False
+5378,sl-SL,play,play_music,s.,play_radio,0.1383,0.0381,False
+5401,sl-SL,play,play_music,glasba,cooking_recipe,0.1057,0.0543,False
+5410,sl-SL,news,news_query,preberi mi najnovejše naslove financ,qa_factoid,0.9997,0.0,False
+5411,sl-SL,news,news_query,kaj so najbolj priljubljene novice na r. t. v. slovenija,news_query,0.9984,0.9984,True
+5413,sl-SL,play,play_music,igraj glasbo,social_post,0.9996,0.0,False
+5414,sl-SL,play,play_music,boš predvajal glasbo,play_music,1.0,1.0,True
+5427,sl-SL,datetime,datetime_query,koliko je trenutno ura v kanadi,weather_query,0.8899,0.019,False
+5433,sl-SL,weather,weather_query,ali bo kasneje deževalo,qa_factoid,0.9315,0.0267,False
+5439,sl-SL,weather,weather_query,ali ponoči potrebujem dežnik,iot_hue_lightoff,0.8105,0.1429,False
+5465,sl-SL,weather,weather_query,lahko danes obujem natikače,iot_hue_lightoff,0.8198,0.014,False
+5468,sl-SL,weather,weather_query,ali moram vzeti sončna očala,iot_hue_lightoff,0.9793,0.0095,False
+5524,sl-SL,weather,weather_query,vreme ta trenutek,weather_query,0.4641,0.4641,True
+5529,sl-SL,weather,weather_query,ob kateri uri naj bi šel na pohod,iot_hue_lightoff,0.9799,0.0004,False
+5557,sl-SL,play,play_music,želim regi,qa_factoid,1.0,0.0,False
+5577,sl-SL,weather,weather_query,ali bom potreboval jakno če bo preveč nevihtno zvečer,weather_query,0.492,0.492,True
+5578,sl-SL,weather,weather_query,potreboval bom tople nogavice pozimi zjutraj,iot_hue_lightoff,0.9401,0.002,False
+5584,sl-SL,iot,iot_hue_lightoff,prosim ugasni luči,cooking_recipe,0.5172,0.4425,False
+5590,sl-SL,weather,weather_query,poglej temperaturo,iot_hue_lightoff,0.6058,0.0057,False
+5593,sl-SL,play,play_music,predvajaj odpelji me od bepop,qa_factoid,0.9594,0.0002,False
+5619,sl-SL,play,play_music,predvajaj prejšnjo pesem,play_music,0.998,0.998,True
+5627,sl-SL,play,play_music,predvajaj mi glasbo vlada kreslina,play_music,1.0,1.0,True
+5640,sl-SL,datetime,datetime_query,prikaži datum,datetime_query,0.9953,0.9953,True
+5650,sl-SL,weather,weather_query,vprašaj za vreme danes zvečer,weather_query,0.9985,0.9985,True
+5658,sl-SL,play,play_music,predvajaj mi glasbo jana plestenjaka,play_music,0.6888,0.6888,True
+5661,sl-SL,weather,weather_query,bi moral vzeti dežni plašč s seboj,lists_remove,0.4211,0.0092,False
+5671,sl-SL,datetime,datetime_query,koliko je ura v novem mestu,weather_query,0.9981,0.0002,False
+5678,sl-SL,datetime,datetime_query,kateri dan smo petnajstega avgusta,qa_factoid,0.4293,0.0257,False
+5683,sl-SL,play,play_music,predvajaj moj seznam skladb za zabavo,recommendation_events,0.9968,0.0001,False
+5688,sl-SL,news,news_query,prosim povej mi novice,play_radio,0.4639,0.0033,False
+5703,sl-SL,datetime,datetime_query,čas zdaj,qa_factoid,0.9331,0.0054,False
+5707,sl-SL,play,play_music,poslušaj moje priljubljene,social_post,0.9914,0.0012,False
+5721,sl-SL,weather,weather_query,pokaži mi jutrišnje vreme v tem območju,weather_query,0.999,0.999,True
+5722,sl-SL,weather,weather_query,prikaži sedemdnevno vremensko napoved za ta teden,weather_query,0.9948,0.9948,True
+5732,sl-SL,weather,weather_query,ali naj kmalu zamenjam gume za avto z zimskimi gumami,iot_hue_lightoff,0.558,0.0117,False
+5757,sl-SL,datetime,datetime_query,tričetrt na dva,iot_hue_lightoff,0.6819,0.0062,False
+5758,sl-SL,weather,weather_query,kakšno je vreme v glavnem mestu,weather_query,0.9978,0.9978,True
+5774,sl-SL,datetime,datetime_query,trenutni čas v ljubljani,calendar_remove,0.107,0.0407,False
+5797,sl-SL,weather,weather_query,moram obleči dežni plašč preden oddidem ven,iot_hue_lightoff,0.6955,0.0083,False
+5813,sl-SL,play,play_music,igraj mirno pesem,qa_factoid,0.9852,0.0,False
+5820,sl-SL,play,play_music,potolaži moja ušesa z nino pušlar,iot_hue_lightoff,0.3718,0.1031,False
+5837,sl-SL,weather,weather_query,povej mi o vremenu za ta teden,weather_query,0.9052,0.9052,True
+5871,sl-SL,weather,weather_query,kakšna je ljubljanska klima danes,weather_query,0.9986,0.9986,True
+5886,sl-SL,news,news_query,vroča tema,social_post,0.6014,0.0004,False
+5919,sl-SL,news,news_query,kaj je zadnja novica o predlogu o zmajskem mostu,news_query,0.9989,0.9989,True
+5930,sl-SL,news,news_query,so katerekoli novice na huffington post,social_post,0.9842,0.001,False
+5948,sl-SL,play,play_music,iz mojega seznama predvajanja zaigraj nekaj dobrih pesmi,play_music,0.9994,0.9994,True
+5953,sl-SL,weather,weather_query,ali je mesto cenejše ali dražje za življenje,qa_factoid,0.5512,0.0395,False
+5955,sl-SL,weather,weather_query,kako varno je mesto se spoštuje pravo in red,qa_factoid,0.9471,0.0003,False
+5970,sl-SL,play,play_music,želim si da mi zaigraš boemsko rapsodijo,play_music,1.0,1.0,True
+5985,sl-SL,news,news_query,pokaži mi najnovejše novice iz o.z.n.,news_query,0.9865,0.9865,True
+5996,sl-SL,weather,weather_query,ali bom danes popoldne potreboval škornje za sneg,lists_remove,0.3802,0.0489,False
+5997,sl-SL,datetime,datetime_query,koliko je ura po centralnem poletnem času,weather_query,0.9971,0.0006,False
+6023,sl-SL,weather,weather_query,ali bo soparna noč,iot_hue_lightoff,0.8373,0.0201,False
+6024,sl-SL,weather,weather_query,ali naj oblečem pulover ali plašč danes na delo,iot_hue_lightoff,0.6742,0.0089,False
+6025,sl-SL,weather,weather_query,bom potreboval sončno kremo danes popoldne,weather_query,0.6548,0.6548,True
+6027,sl-SL,play,play_music,igraj najljubše komade,cooking_recipe,0.9182,0.0576,False
+6039,sl-SL,weather,weather_query,ali bo jutri deževen dan,weather_query,0.9963,0.9963,True
+6041,sl-SL,iot,iot_hue_lightoff,pozdravljen olly ugasni luči,iot_hue_lightoff,0.9485,0.9485,True
+6045,sl-SL,play,play_music,dodaj izbrano pesem,iot_hue_lightoff,0.6399,0.0006,False
+6050,sl-SL,weather,weather_query,bom kasneje potreboval sončno kremo,weather_query,0.8916,0.8916,True
+6055,sl-SL,iot,iot_hue_lightoff,ali sem vgasnil luč v garaži,play_music,0.9766,0.0157,False
+6059,sl-SL,play,play_music,predvajaj rap glasbo,play_music,0.9991,0.9991,True
+6069,sl-SL,weather,weather_query,ali so danes možne nevihte,qa_factoid,0.9973,0.0021,False
+6073,sl-SL,iot,iot_hue_lightoff,v verandi ugasni luči,qa_factoid,0.5168,0.383,False
+6074,sl-SL,iot,iot_hue_lightoff,ugasni spalnično luc ob pol desetih zvečer,weather_query,0.8855,0.0142,False
+6077,sl-SL,news,news_query,želim slišati današnje najnovejše svetovne novice,news_query,0.9524,0.9524,True
+6093,sl-SL,weather,weather_query,ali naj odprem strešno okno,iot_hue_lightoff,0.9324,0.0008,False
+6103,sl-SL,weather,weather_query,živjo kakšno bo vreme danes v portorožu,weather_query,0.9983,0.9983,True
+6116,sl-SL,weather,weather_query,informacije za vreme ta teden,weather_query,0.9661,0.9661,True
+6118,sl-SL,datetime,datetime_query,hej koliko je ura v dalasu teksas,weather_query,0.986,0.0004,False
+6127,sl-SL,weather,weather_query,ali predlagaš dežnike,weather_query,0.971,0.971,True
+6129,sl-SL,news,news_query,obveščajte me o svetovnih novicah,iot_hue_lightoff,0.696,0.2288,False
+6151,sl-SL,weather,weather_query,želim vedeti današnje vreme,weather_query,0.9984,0.9984,True
+6172,sl-SL,weather,weather_query,ali so sončna očala danes dobra izbira,weather_query,0.7681,0.7681,True
+6177,sl-SL,weather,weather_query,ali bom danes potreboval dežnik,weather_query,0.9213,0.9213,True
+6178,sl-SL,weather,weather_query,moram vzeti jakno,calendar_remove,0.3396,0.0066,False
+6194,sl-SL,weather,weather_query,kakšno je danes vreme,weather_query,0.9968,0.9968,True
+6289,sl-SL,weather,weather_query,živjo kakšno je danes vreme,weather_query,0.9985,0.9985,True
+6370,sl-SL,calendar,calendar_query,kako izgleda moj prihajajoči teden,weather_query,0.6238,0.0083,False
+6372,sl-SL,news,news_query,novice o veganstvu,qa_definition,0.5068,0.0415,False
+6403,sl-SL,transport,transport_query,kako kam priti,cooking_recipe,0.9929,0.0003,False
+6410,sl-SL,news,news_query,kaj se danes dogaja v franciji,play_podcasts,0.9384,0.0012,False
+6411,sl-SL,weather,weather_query,kakšno je vreme naslednjo sredo,weather_query,0.9983,0.9983,True
+6539,sl-SL,calendar,calendar_set,zabeleži danes začetek moje diete,cooking_recipe,0.2734,0.0401,False
+6542,sl-SL,cooking,cooking_recipe,ali je mehki sir boljši od trdega,qa_factoid,0.6949,0.2648,False
+6618,sl-SL,news,news_query,povej zanimive novice,social_post,0.9995,0.0,False
+6682,sl-SL,news,news_query,volitve v,qa_factoid,0.9953,0.0001,False
+6683,sl-SL,news,news_query,ekonomija,qa_factoid,0.868,0.0035,False
+6713,sl-SL,calendar,calendar_remove,odpovej poslovni sestanek v sredo,social_post,0.6488,0.0011,False
+6722,sl-SL,calendar,calendar_query,ali bi moral biti o čem obveščen,email_sendemail,0.9703,0.0001,False
+6725,sl-SL,calendar,calendar_set,opomni me o mojem urniku za popoldan,qa_factoid,0.2577,0.0302,False
+6726,sl-SL,calendar,calendar_remove,odpovej naslednji sestanek,email_sendemail,0.973,0.0008,False
+6729,sl-SL,calendar,calendar_remove,odpovej zajtrk pri tinkari,qa_definition,0.5186,0.0,False
+6732,sl-SL,calendar,calendar_set,dodaj opomnik za srečanje z mojim tastom in taščo v nedeljo,iot_hue_lightoff,0.4362,0.0713,False
+6744,sl-SL,calendar,calendar_set,dodaj sestanek s pavlom jutri ob desetih dopoldne,social_post,0.9973,0.0001,False
+6746,sl-SL,calendar,calendar_set,nastavi dopust prvi teden junija v moj koledar,iot_hue_lightoff,0.7205,0.0048,False
+6747,sl-SL,calendar,calendar_query,koliko opomnikov imam,social_post,0.804,0.0008,False
+6755,sl-SL,calendar,calendar_remove,prosim počisti moj koledar,cooking_recipe,0.8403,0.031,False
+6761,sl-SL,calendar,calendar_remove,odstrani sestanek ob devetih dopoldne z mojega koledarja,social_post,0.8294,0.0032,False
+6764,sl-SL,calendar,calendar_set,opomni me da očistim okna,email_sendemail,0.9171,0.0,False
+6774,sl-SL,calendar,calendar_set,nastavi dogodek v petek,qa_factoid,0.9492,0.0008,False
+6785,sl-SL,calendar,calendar_query,kaj je moj naslednji opomnik,iot_hue_lightoff,0.3981,0.0131,False
+6789,sl-SL,calendar,calendar_set,ustvari sestanek z jožico v soboto ob štirih popoldne,cooking_recipe,0.9116,0.0007,False
+6798,sl-SL,calendar,calendar_remove,odstrani moj naslednji dogodek,calendar_remove,0.9247,0.9247,True
+6801,sl-SL,calendar,calendar_query,pokaži mi moje sestanke ta petek,email_sendemail,0.5247,0.0014,False
+6806,sl-SL,calendar,calendar_query,pokaži mi koledarske dogodke za ta petek popoldne,cooking_recipe,0.187,0.0133,False
+6815,sl-SL,calendar,calendar_set,spomni me na mamin rojstni dan en teden prej,iot_hue_lightoff,0.4075,0.0265,False
+6819,sl-SL,calendar,calendar_set,olly nocoj ob devetih v bacchus jazz baru ob devetih igra dober ansambel in rad bi šel,play_music,0.6799,0.0096,False
+6836,sl-SL,calendar,calendar_set,opomni me da imam sestanek jutri ob šestih,social_post,0.966,0.0006,False
+6850,sl-SL,calendar,calendar_query,navedi moj urnik za danes,iot_hue_lightoff,0.8817,0.0002,False
+6856,sl-SL,calendar,calendar_set,opomni me o jutrišnjem sestanku ob desetih dopoldne,email_sendemail,0.9957,0.0001,False
+6860,sl-SL,calendar,calendar_query,ali imam kaj na sporedu,qa_factoid,0.9956,0.0001,False
+6865,sl-SL,calendar,calendar_set,nastavi obvestilo o jutrišnjem sestanku ob desetih,email_sendemail,0.5498,0.0027,False
+6878,sl-SL,calendar,calendar_set,na urnik daj sestanek z oddelkom računovodstva za petek ob pol treh popoldne,email_sendemail,0.9127,0.0031,False
+6891,sl-SL,calendar,calendar_query,so jutranje predstave proste,qa_factoid,0.5045,0.0046,False
+6892,sl-SL,calendar,calendar_query,mi lahko daš razpored filmov,play_podcasts,0.7847,0.0027,False
+6897,sl-SL,calendar,calendar_set,opomni me da poberem lidijo sedmega ob petih zvečer,weather_query,0.8939,0.0022,False
+6901,sl-SL,calendar,calendar_set,jutri ob desetih dopoldne me opomni na sestanek,cooking_recipe,0.6649,0.0024,False
+6902,sl-SL,calendar,calendar_set,nastavi opomnik za menjavo olja naslednji mesec,iot_hue_lightoff,0.2329,0.0163,False
+6909,sl-SL,calendar,calendar_query,kaj se dogaja po eni in pred tretjo popoldne,cooking_recipe,0.149,0.0288,False
+6918,sl-SL,calendar,calendar_remove,izbriši dogodke iz koledara,lists_remove,0.3952,0.1713,False
+6923,sl-SL,calendar,calendar_set,nastavi opomnik za tiskanje dokumentov v torek zjutraj,cooking_recipe,0.4984,0.0139,False
+6926,sl-SL,calendar,calendar_query,je danes petek,social_post,0.9202,0.0009,False
+6928,sl-SL,calendar,calendar_remove,izbriši vse dogodke,lists_remove,0.6222,0.1131,False
+6936,sl-SL,calendar,calendar_set,opomni me da vzamem moja zdravila ob devetih dopoldan,email_sendemail,1.0,0.0,False
+6937,sl-SL,calendar,calendar_set,nastavi opomnik za kosilo s šefom opoldne,qa_factoid,0.309,0.0143,False
+6946,sl-SL,calendar,calendar_query,ali imam kak sestanek naslednjo sredo,qa_factoid,0.9383,0.0002,False
+6958,sl-SL,calendar,calendar_remove,potrdi da danes ni dogodkov v mojem koledarju,social_post,0.9961,0.0001,False
+6959,sl-SL,calendar,calendar_set,spomni me na sestanek eno uro pred začetkom,email_sendemail,0.9996,0.0,False
+6962,sl-SL,calendar,calendar_set,mi poveš kaj moram narediti naslednjo soboto ob šestih popoldne,cooking_recipe,0.6152,0.0081,False
+6964,sl-SL,calendar,calendar_set,me lahko opomniš na naslednji sestanek s šefom eno uro prej,email_sendemail,0.3641,0.0228,False
+6967,sl-SL,calendar,calendar_query,ali lahko preveriš dejstva o tej zadevi,qa_factoid,0.9518,0.0002,False
+6968,sl-SL,calendar,calendar_query,moram potrditi sestanke za danes in povabiti ljudi,social_post,0.4224,0.0058,False
+6973,sl-SL,calendar,calendar_set,dodaj opomnik za konferenco za jutri v ljubljani,iot_hue_lightoff,0.2903,0.1083,False
+6974,sl-SL,calendar,calendar_set,opomni me na srečanje v ljubljani jutri,social_post,0.7903,0.0044,False
+6980,sl-SL,calendar,calendar_query,daj mi seznam opravil,recommendation_events,0.533,0.0038,False
+6992,sl-SL,calendar,calendar_query,pokaži prihajajoče dogodke,play_podcasts,0.403,0.0019,False
+6994,sl-SL,calendar,calendar_set,opomni me ob,qa_factoid,0.9805,0.0006,False
+6997,sl-SL,calendar,calendar_remove,odstrani naslednji dogodek,calendar_remove,0.6754,0.6754,True
+7000,sl-SL,calendar,calendar_set,nov dogodek,qa_factoid,0.2358,0.033,False
+7004,sl-SL,calendar,calendar_set,dodaj opomnik v moj koledar vsako leto na ta datum,iot_hue_lightoff,0.8487,0.0222,False
+7013,sl-SL,calendar,calendar_query,kdaj se začne dogodek,qa_factoid,0.4474,0.0032,False
+7014,sl-SL,calendar,calendar_query,daj mi urnik današnjih dogodkov,news_query,0.7324,0.01,False
+7025,sl-SL,calendar,calendar_remove,odstrani novo leto iz koledarja,iot_hue_lightoff,0.3026,0.2527,False
+7026,sl-SL,recommendation,recommendation_events,kateri dogodki so napovedani za ta teden v mojem mestu,weather_query,0.9721,0.0006,False
+7039,sl-SL,calendar,calendar_set,nastavi mi sestanek naslendji torek ob enajstih dopoldne z janjo,email_sendemail,0.9999,0.0,False
+7044,sl-SL,calendar,calendar_set,prosim opomni me da se začnem pripravljati do pete ure popoldne,qa_factoid,0.9449,0.0005,False
+7046,sl-SL,calendar,calendar_set,dodaj tal sestanek na enaindvajsetega ob sedmih,email_sendemail,0.9998,0.0,False
+7055,sl-SL,calendar,calendar_set,določi sestanek z matejem ob enajstih dopoldne v četrtek,lists_query,0.3458,0.0079,False
+7057,sl-SL,calendar,calendar_set,načrtuj kosilo z brankom v sredo opoldne,cooking_recipe,0.9928,0.0003,False
+7061,sl-SL,calendar,calendar_set,opomni me štiriindvajset ur pred petkovim sestankom z janezom,calendar_set,0.5644,0.5644,True
+7073,sl-SL,calendar,calendar_set,preišči moj koledar za naslednji dogodek in me obvesti pred pričetkom,play_radio,0.6643,0.0128,False
+7080,sl-SL,calendar,calendar_remove,odpovej vse na mojem koledarju,cooking_recipe,0.7215,0.0173,False
+7087,sl-SL,calendar,calendar_remove,zbriši jutrišnji sestanek z mojega koledarja,calendar_remove,0.9159,0.9159,True
+7098,sl-SL,calendar,calendar_set,dodaj plačilo avtomobila na dvanajstega v moj koledar,qa_factoid,0.7956,0.0007,False
+7100,sl-SL,calendar,calendar_set,opomni me dan prej da registriram avto,qa_factoid,0.3846,0.0177,False
+7111,sl-SL,calendar,calendar_query,ob kateri uri imam zdravniški pregled enaintridesetega marca,datetime_query,0.5252,0.0213,False
+7113,sl-SL,calendar,calendar_query,bo v centru ta vikend kaj dogodkov,qa_factoid,0.5731,0.0088,False
+7117,sl-SL,calendar,calendar_remove,z mojega koledarja izbriši dogodke ki bodo devetnajstega,social_post,0.5914,0.0084,False
+7120,sl-SL,calendar,calendar_query,kakšen je moj urnik za danes,cooking_recipe,0.2646,0.0181,False
+7122,sl-SL,calendar,calendar_set,ali lahko ponoviš ta dogodek,qa_factoid,0.9989,0.0,False
+7140,sl-SL,calendar,calendar_set,ustvari opomnik eno uro pred sestankom ob kosilu,social_post,0.4535,0.0073,False
+7141,sl-SL,calendar,calendar_query,ali je ta program dogovorjen,qa_factoid,0.995,0.0001,False
+7151,sl-SL,calendar,calendar_set,nastavi opomnik za vsako liho nedeljo,iot_hue_lightoff,0.9707,0.0018,False
+7152,sl-SL,calendar,calendar_set,nastavi kosilo vsak dan ob pol enih,social_post,0.0733,0.045,False
+7161,sl-SL,calendar,calendar_set,v prihodnje me opomni na ta dogodek,iot_hue_lightoff,0.7145,0.0101,False
+7170,sl-SL,calendar,calendar_set,danes je materin rojstni dan pošlji mi obvestilo vsako leto na ta dan,email_sendemail,1.0,0.0,False
+7181,sl-SL,calendar,calendar_set,v četrtek me zbudi ob šestih zjutraj saj se moram pripraviti na sestanek,cooking_recipe,0.5894,0.0075,False
+7185,sl-SL,calendar,calendar_query,kdaj je moj naslednji pregled pri doktor šmidu,recommendation_events,0.2214,0.0255,False
+7189,sl-SL,calendar,calendar_query,imam kaj planirano,qa_factoid,0.9698,0.0002,False
+7194,sl-SL,calendar,calendar_set,jutri imam sestanek ustvari ga,qa_factoid,0.4845,0.0009,False
+7196,sl-SL,calendar,calendar_set,opomni me na sestanek z alenom petnajstega marca,recommendation_events,0.9812,0.0005,False
+7199,sl-SL,calendar,calendar_set,nastavi obvestilo tri dve in eno uro pred angleškim finalom naslednji teden,calendar_remove,0.3616,0.0635,False
+7209,sl-SL,calendar,calendar_set,me lahko opomniš da odnesem smeti ven v torek,qa_factoid,0.4426,0.0046,False
+7219,sl-SL,calendar,calendar_query,ali si nastavila opomnik za jutrišnji sestanek,email_sendemail,0.9954,0.0001,False
+7224,sl-SL,calendar,calendar_query,kje se bo tomaž poročil,qa_factoid,0.999,0.0,False
+7232,sl-SL,calendar,calendar_query,kateri so dogodki naslednjega tedna,weather_query,0.8828,0.0004,False
+7257,sl-SL,calendar,calendar_set,prosim opomni me da čez pol ure pokličem mamo,weather_query,0.8782,0.001,False
+7258,sl-SL,calendar,calendar_set,spomni me da pošljem e-pošto šefu po eni uri,email_sendemail,0.9989,0.0,False
+7262,sl-SL,calendar,calendar_set,ustvari obvestilo za opomnik za jutrišnji sestanek,iot_hue_lightoff,0.2498,0.0338,False
+7266,sl-SL,calendar,calendar_query,kaj so moje prihajajoče naloge,lists_query,0.712,0.0037,False
+7278,sl-SL,calendar,calendar_set,opomni me na majin rojstni dan štiriindvajset ur vnaprej,social_post,0.4375,0.0528,False
+7287,sl-SL,calendar,calendar_set,opomni me o moji obletnici en dan vnaprej,qa_factoid,0.9792,0.0001,False
+7289,sl-SL,calendar,calendar_remove,odstrani vse dogodke z jožetom,social_post,0.3906,0.1284,False
+7291,sl-SL,calendar,calendar_set,blokiraj eno uro od desetih jutri zjutraj dopoldan,iot_hue_lightoff,0.5919,0.0018,False
+7292,sl-SL,calendar,calendar_set,jaz sem nedosegljiv od štirih do šestih jutri zvečer označi moj koledar,weather_query,0.9027,0.0023,False
+7293,sl-SL,calendar,calendar_set,vpiši eno urni sestanek za soboto,email_sendemail,0.9999,0.0,False
+7294,sl-SL,calendar,calendar_remove,iz mojega koledarja zbiriši sestanek z gregorjem merlakom,social_post,0.9996,0.0,False
+7295,sl-SL,calendar,calendar_remove,prosim počisti moj koledar,cooking_recipe,0.8403,0.031,False
+7314,sl-SL,calendar,calendar_query,kaj je ne razporedu danes,qa_factoid,0.8121,0.0021,False
+7316,sl-SL,calendar,calendar_query,imam kakšne sestanke,cooking_recipe,0.9913,0.0001,False
+7319,sl-SL,calendar,calendar_query,kaj se dogaja danes od polnoči,weather_query,0.9945,0.0003,False
+7353,sl-SL,email,email_query,povej vreme v naslednjih tednih na hrvaškem,weather_query,0.9386,0.0012,False
+7355,sl-SL,calendar,calendar_set,opomni me da preverim enolončnico ob šesti uri,qa_factoid,0.6895,0.0051,False
+7380,sl-SL,calendar,calendar_query,prosim pokaži današnji sestanek s strankami,social_post,0.4612,0.0177,False
+7397,sl-SL,calendar,calendar_query,je kakšen dogodek planiran za naslednje tri mesece,qa_factoid,0.1944,0.0274,False
+7449,sl-SL,calendar,calendar_set,prosim dodaj sestanek z osebo,social_post,0.9659,0.0002,False
+7450,sl-SL,calendar,calendar_set,načrtuj sestanek s to osebo,email_sendemail,0.9977,0.0,False
+7455,sl-SL,calendar,calendar_set,opomni me na zabavo jutri,cooking_recipe,0.6366,0.002,False
+7461,sl-SL,calendar,calendar_set,povabi ljudi na koledar dogodek,social_post,0.9987,0.0001,False
+7463,sl-SL,calendar,calendar_set,obvesti mojo skupino da je nov sestanek jutri,recommendation_events,0.7258,0.0056,False
+7467,sl-SL,calendar,calendar_query,povej mi čas dogodkov,social_post,0.6204,0.0009,False
+7477,sl-SL,calendar,calendar_set,vsako leto petega marca me opomni da kupim darilo za obletnico poroke,recommendation_events,0.9988,0.0001,False
+7496,sl-SL,calendar,calendar_query,ali imam danes sestanke,email_sendemail,1.0,0.0,False
+7499,sl-SL,calendar,calendar_set,naredi nov unik za jutrišnji sestanek,qa_factoid,0.9181,0.0001,False
+7500,sl-SL,calendar,calendar_remove,lahko zbrišeš naslednji dogodek,calendar_remove,0.5859,0.5859,True
+7502,sl-SL,calendar,calendar_query,kaj je na dnevnem redu za sestanek z janezom ob štirih popoldne,qa_factoid,0.0976,0.05,False
+7503,sl-SL,calendar,calendar_query,kje v kranju je ta sestanek v petek ob enih popoldne,weather_query,0.9902,0.0004,False
+7520,sl-SL,calendar,calendar_set,opomni me vsak dan ob dveh popoldne za kosilo,calendar_remove,0.2121,0.0221,False
+7524,sl-SL,calendar,calendar_query,koliko je mitja pripravljen investirati v moje podjetje na sestanku danes dvajset čez peto popoldne,qa_factoid,0.9173,0.0038,False
+7528,sl-SL,calendar,calendar_set,trinajsti junij je dan rezultatov volitev prosim shrani ga,qa_factoid,0.9998,0.0,False
+7531,sl-SL,calendar,calendar_set,prosim dodaj moje plačilne dneve,calendar_remove,0.9745,0.0126,False
+7539,sl-SL,calendar,calendar_query,ali imam kaj na sporedu,qa_factoid,0.9956,0.0001,False
+7542,sl-SL,calendar,calendar_set,prosim opomni me o tem jutri,cooking_recipe,0.7249,0.0104,False
+7549,sl-SL,calendar,calendar_set,želim sestanek do treh,social_post,0.9998,0.0,False
+7556,sl-SL,calendar,calendar_set,nastavi moj koledar da me opomni da kupim špecerijo vsak petek,email_sendemail,0.9331,0.0005,False
+7557,sl-SL,calendar,calendar_set,sestavi opomnik lokacije na koledarju,email_sendemail,0.3006,0.0213,False
+7559,sl-SL,calendar,calendar_set,danes zvečer me spomni da grem ob osmih zvečer po cote v čistilnico,qa_factoid,0.4943,0.0098,False
+7563,sl-SL,calendar,calendar_set,opomni me na sestanek jutri eno uro prej,qa_factoid,0.7833,0.0029,False
+7565,sl-SL,calendar,calendar_set,opomnik za sestanek,email_sendemail,0.9998,0.0,False
+7567,sl-SL,calendar,calendar_set,rojstni dan,social_post,0.4458,0.0137,False
+7569,sl-SL,calendar,calendar_query,načrt za jutri,calendar_remove,0.8544,0.0025,False
+7570,sl-SL,calendar,calendar_query,kakšen je načrt za danes,cooking_recipe,0.9949,0.0001,False
+7583,sl-SL,calendar,calendar_set,dodajanje prijateljskega dogodka na tvojem koledarju,social_post,0.9706,0.0005,False
+7596,sl-SL,calendar,calendar_set,prosim dogovori sestanek z darkom v hiltonu opoldne,social_post,0.9984,0.0001,False
+7598,sl-SL,calendar,calendar_set,prosim dodaj sestanek za razglabljanje o terorizmu s francijem na naslednji prost dan,email_sendemail,0.9181,0.0021,False
+7606,sl-SL,calendar,calendar_set,srečaj se z jožetom jutri ob treh,qa_factoid,0.4729,0.0017,False
+7609,sl-SL,calendar,calendar_remove,odstrani opomnik za sestanek v torek,iot_hue_lightoff,0.8111,0.0079,False
+7613,sl-SL,calendar,calendar_query,kateri je bil prihajajoči dogodek,qa_factoid,0.9905,0.0003,False
+7628,sl-SL,calendar,calendar_set,opomni me ko sem v knjižnici da dobim novo izkaznico za knjižnico,calendar_remove,0.4858,0.0125,False
+7654,sl-SL,calendar,calendar_set,označi dvajseti april kot bratov rojstni dan,iot_hue_lightoff,0.8424,0.0286,False
+7655,sl-SL,calendar,calendar_set,dodaj opomnik za dvajseti april kot rojstni dan mojega brata,iot_hue_lightoff,0.3406,0.1893,False
+7660,sl-SL,calendar,calendar_remove,prekliči vse sestanke po tretji uri popoldne danes in mi sporoči podrobnosti,calendar_remove,0.9073,0.9073,True
+7662,sl-SL,calendar,calendar_query,lahko mi našteješ moje današnje sestanke,email_sendemail,0.9998,0.0,False
+7664,sl-SL,calendar,calendar_set,dodaj kosilo z mihom,email_sendemail,0.7566,0.0071,False
+7666,sl-SL,calendar,calendar_set,boš označila da imam sestanek s tomažem jutri ob treh,social_post,0.8818,0.0002,False
+7680,sl-SL,calendar,calendar_remove,izbriši vse moje golf dogodke iz koledarja za tekoči mesec,lists_remove,0.3941,0.2557,False
+7686,sl-SL,calendar,calendar_set,uvrsti miho in jureta v festivalski koledar,iot_hue_lightoff,0.9949,0.0001,False
+7690,sl-SL,calendar,calendar_query,kaj imam na urniku,social_post,0.4576,0.0016,False
+7693,sl-SL,calendar,calendar_query,imam kaj v načrtu za enaindvajsetega,cooking_recipe,0.92,0.0009,False
+7697,sl-SL,calendar,calendar_set,nastavi opomnik za to,qa_factoid,0.937,0.0001,False
+7711,sl-SL,calendar,calendar_set,odpovej vse moje ostale sestanke in klice za drugi marec ker je janezov rojstni dan označi ga kot dogodek v tvojem koledarju,calendar_remove,0.6226,0.0022,False
+7712,sl-SL,calendar,calendar_set,hej olly odpovej vse moje druge dogodke in klice za drugi marec ker je janezov rojstni dan označi ga kot dogodek v koledarju,calendar_remove,0.5132,0.0015,False
+7718,sl-SL,calendar,calendar_set,zdravo pošlji vabilo na sestanek janezu za ta petek in blokiraj moj koledar za petek popoldne,email_sendemail,0.9749,0.0002,False
+7726,sl-SL,calendar,calendar_set,rabim vsak ponedeljek opomnik za nekaj,play_radio,0.8774,0.0036,False
+7730,sl-SL,calendar,calendar_set,moram označiti naslednji ponedeljek,iot_hue_lightoff,0.8439,0.0043,False
+7741,sl-SL,calendar,calendar_remove,sprazni moj koledar za soboto,social_post,0.95,0.0024,False
+7751,sl-SL,calendar,calendar_set,opomni me vsak ponedeljek da odnesem smeti,qa_factoid,0.9983,0.0001,False
+7762,sl-SL,calendar,calendar_query,kakšne opomnike imam,play_podcasts,0.9961,0.0001,False
+7767,sl-SL,calendar,calendar_set,v koledar dodaj vadbo četrtega februarja ob dveh popoldne na trgu republike,iot_hue_lightoff,0.8647,0.0006,False
+7768,sl-SL,calendar,calendar_set,prosim dodaj trening četrtega februarja v parku tivoli ob dveh popoldne,play_music,0.8626,0.0018,False
+7774,sl-SL,calendar,calendar_set,dodaj nakupovanje v moj koledar za jutri,cooking_recipe,0.9929,0.0005,False
+7777,sl-SL,calendar,calendar_query,imam jaz kakšen sestanek danes,social_post,0.9855,0.0001,False
+7778,sl-SL,calendar,calendar_set,spomni me kaj delam naslednjo nedeljo popoldne,social_post,0.1973,0.0201,False
+7808,sl-SL,calendar,calendar_set,opomni me da mamo v četrtek ob enajstih dopoldne odpeljem k frizerju,qa_factoid,0.4097,0.0074,False
+7817,sl-SL,calendar,calendar_query,je res o tem datumu,datetime_query,0.9461,0.0002,False
+7820,sl-SL,calendar,calendar_remove,izbriši vse dogodke na koledarju,calendar_remove,0.4473,0.4473,True
+7836,sl-SL,calendar,calendar_remove,izbriši vse dogodke,lists_remove,0.6222,0.1131,False
+7843,sl-SL,calendar,calendar_set,obvesti me v dveh urah da moram iti na tečaj violine ki je ob štirih popoldne v glasbeni šoli,iot_hue_lightoff,0.3742,0.0191,False
+7844,sl-SL,calendar,calendar_query,katere opomnike sem nastavil,iot_hue_lightoff,0.6902,0.0044,False
+7847,sl-SL,calendar,calendar_set,opozori me ko se odpre prijava,qa_factoid,0.9969,0.0001,False
+7851,sl-SL,calendar,calendar_set,sestanek imam danes opoldne,email_sendemail,1.0,0.0,False
+7863,sl-SL,calendar,calendar_set,opomni me da začnem pripravljati večerjo ob petih popoldne,cooking_recipe,0.7107,0.0132,False
+7870,sl-SL,calendar,calendar_remove,odstrani dogodek iz koledarja,iot_hue_lightoff,0.8285,0.0165,False
+7876,sl-SL,news,news_query,kaj se je dogajalo v zadnjih dveh mesecih,news_query,0.8147,0.8147,True
+7878,sl-SL,calendar,calendar_remove,izbriši moj koledar,calendar_remove,0.5171,0.5171,True
+7879,sl-SL,calendar,calendar_query,kateri so moji naslednji trije dogodki,qa_factoid,0.9905,0.0003,False
+7889,sl-SL,calendar,calendar_query,ob kateri uri je danes zvečer nogometna tekma,weather_query,0.9937,0.0002,False
+7890,sl-SL,calendar,calendar_remove,odstrani striženje danes,social_post,0.6982,0.0057,False
+7891,sl-SL,calendar,calendar_remove,odpovej večerjo nocoj,iot_hue_lightoff,0.6587,0.0115,False
+7892,sl-SL,calendar,calendar_remove,izbriši naslednji dogodek danes,weather_query,0.551,0.0712,False
+7894,sl-SL,calendar,calendar_set,obveščaj me o volitvah v eni uri,iot_hue_lightoff,0.3043,0.0435,False
+7902,sl-SL,calendar,calendar_set,ustvari sestanek z mano in janezom jutri ob dveh popoldne,social_post,0.9979,0.0001,False
+7908,sl-SL,calendar,calendar_query,ali moram danes kaj narediti,social_post,0.6647,0.0006,False
+7912,sl-SL,calendar,calendar_remove,alexa odstrani večerjo z miranom z mojega koledarja,email_sendemail,0.501,0.0499,False
+7916,sl-SL,calendar,calendar_set,spomni me da moram ob šestih popoldne odnesti smeti,social_post,0.9987,0.0001,False
+7918,sl-SL,calendar,calendar_set,koledarski dogodek povabi denisa avdića,social_post,0.2316,0.0387,False
+7919,sl-SL,calendar,calendar_set,nov sestanek med udeležence dodaj janeza in jano,email_sendemail,0.4929,0.0083,False
+7922,sl-SL,calendar,calendar_remove,odpri naloge in odstrani bodoče dogodke,email_sendemail,0.9847,0.0003,False
+7927,sl-SL,calendar,calendar_query,kaj moram postoriti ta teden,social_post,0.9971,0.0001,False
+7946,sl-SL,calendar,calendar_query,kateri so prihajajoči koncerti v dravogradu,play_music,0.7919,0.0016,False
+7953,sl-SL,calendar,calendar_remove,odstrani moj pregled pri mojemu zdravniku z mojim zdravnikom v soboto prosim,calendar_remove,0.645,0.645,True
+7955,sl-SL,calendar,calendar_set,ustvari ponavljajoči vzorec za ta dogodek v moj koledar,cooking_recipe,0.9343,0.0018,False
+7956,sl-SL,calendar,calendar_set,ali lahko ta dogodek ponavljaš,qa_factoid,0.9996,0.0,False
+7966,sl-SL,calendar,calendar_query,ti nisem povedal da me opomniš na nekaj,social_post,0.8067,0.0057,False
+7970,sl-SL,calendar,calendar_set,opomni me na poroko pravočasno da kupim darilo,qa_factoid,0.9774,0.0007,False
+7971,sl-SL,calendar,calendar_set,ustvari opomnik dva dni pred dogodkom,cooking_recipe,0.7041,0.0035,False
+7975,sl-SL,calendar,calendar_query,ali je na dogodku parkirna usluga,email_sendemail,0.9991,0.0,False
+7978,sl-SL,calendar,calendar_query,katere opomnike imam nastavljene jutri pred poldnevom,iot_hue_lightoff,0.9683,0.0021,False
+7980,sl-SL,calendar,calendar_set,povej mi kdaj imam dogodek,social_post,0.9843,0.0001,False
+7981,sl-SL,calendar,calendar_set,pošlji opozorilo pred sestankom,email_sendemail,0.803,0.0059,False
+7993,sl-SL,calendar,calendar_remove,iz mojega koledarja zbriši vse dogodke,lists_remove,0.5778,0.0636,False
+8001,sl-SL,calendar,calendar_remove,ali lahko zbrišeš petkov obisk pri frizerju,social_post,0.6362,0.194,False
+8004,sl-SL,calendar,calendar_set,darja želi govoriti z mano o ločitvi ali lahko prosim nastaviš srečanje ko sem na voljo,iot_hue_lightoff,0.9778,0.0005,False
+8005,sl-SL,calendar,calendar_set,v ponedeljek dvajsetega se moram pogovoriti z gregorjem o najinem izletu za konec tedna,email_sendemail,0.5953,0.0017,False
+8013,sl-SL,calendar,calendar_query,pokaži moje sestanke za naslednji mesec,email_sendemail,0.8947,0.001,False
+8029,sl-SL,calendar,calendar_query,katere dogodke imam danes,social_post,0.9929,0.0005,False
+8033,sl-SL,datetime,datetime_query,na kateri dan pride velika noč,weather_query,0.9837,0.0005,False
+8035,sl-SL,calendar,calendar_set,opomni me da grem zamenjat olje v avtu,cooking_recipe,0.6587,0.0026,False
+8037,sl-SL,calendar,calendar_set,opomni me nekaj čez nekaj časa,social_post,0.2777,0.0124,False
+8042,sl-SL,calendar,calendar_query,koliko ljudi se bo udeležilo mojega sestanka,qa_factoid,0.548,0.0188,False
+8043,sl-SL,calendar,calendar_query,kdaj imam naslednji sestanek,email_sendemail,0.4019,0.0042,False
+8044,sl-SL,calendar,calendar_query,kakšen je moj današnji urnik,datetime_query,0.1829,0.0217,False
+8055,sl-SL,calendar,calendar_remove,izbriši moj sestanek sedmega marca,qa_factoid,0.8822,0.002,False
+8056,sl-SL,calendar,calendar_query,ali imam zmenek v petek,social_post,0.9879,0.0001,False
+8058,sl-SL,calendar,calendar_query,ali imam danes prodajni sestanek,qa_factoid,0.9991,0.0,False
+8073,sl-SL,calendar,calendar_set,dogovori se za prodajni sestanek v sredo ob enajstih dopoldan,recommendation_events,0.9807,0.0,False
+8079,sl-SL,calendar,calendar_set,čez eno uro nastavi opomnik saj se bo takrat spekel kruh,iot_hue_lightoff,0.9716,0.0025,False
+8084,sl-SL,calendar,calendar_query,kakšen je dnevni red dogodka,social_post,0.4064,0.0056,False
+8085,sl-SL,calendar,calendar_set,rad bi nastavil zmenek za ta teden,qa_factoid,0.8943,0.0011,False
+8100,sl-SL,email,email_sendemail,pošlji spletno sporočilo mojim sestankom za prestavitev,email_sendemail,0.8929,0.8929,True
+8107,sl-SL,calendar,calendar_set,nastavi rojstnodnevni dogodek za martina,email_sendemail,0.9598,0.0017,False
+8110,sl-SL,calendar,calendar_set,dodaj nadzor v moj koledar,cooking_recipe,0.7134,0.0008,False
+8116,sl-SL,calendar,calendar_query,katere sestanke sem imel med prvim februarjem in šestnajstim marcem,email_sendemail,0.398,0.0266,False
+8119,sl-SL,calendar,calendar_query,kje se odvija marijina rojstnodnevna zabava,social_post,0.9825,0.0002,False
+8125,sl-SL,calendar,calendar_set,v mojem koledarju ustvari sestanek,social_post,0.794,0.0018,False
+8126,sl-SL,calendar,calendar_set,načrtuj dogodek sestanka na mojem koledarju,qa_factoid,0.9725,0.0003,False
+8129,sl-SL,calendar,calendar_query,katere opomnike še imam,iot_hue_lightoff,0.5087,0.021,False
+8140,sl-SL,calendar,calendar_set,za trinajstega nastavi opomnik saj imam takrat kosilo z denisom,social_post,0.6351,0.003,False
+8148,sl-SL,calendar,calendar_query,sem si pustil kakšen opomnik,social_post,0.4997,0.0058,False
+8150,sl-SL,calendar,calendar_query,imam kakšne opomnike za rojstnodnevno zabavo,cooking_recipe,0.9589,0.0008,False
+8165,sl-SL,calendar,calendar_query,ob pol enih čez deset minut imaš sestanek,qa_factoid,0.4771,0.0008,False
+8182,sl-SL,calendar,calendar_remove,lahko izbrišeš zobozdravniški pregled,iot_hue_lightoff,0.3107,0.2265,False
+8188,sl-SL,calendar,calendar_query,kateri datum je danes,datetime_query,0.9952,0.0001,False
+8204,sl-SL,calendar,calendar_set,opomni me da grem na pošto,cooking_recipe,0.4295,0.0024,False
+8206,sl-SL,calendar,calendar_set,ne dovoli mi da pozabim kupiti darilo za sestro,email_sendemail,0.343,0.0128,False
+8230,sl-SL,calendar,calendar_query,koliko časa bo v torek trajal moj sestanek ob kosilu,weather_query,0.9224,0.0003,False
+8241,sl-SL,calendar,calendar_remove,izbriši vse z mojega koledarja za preostanek leta,lists_remove,0.5266,0.2024,False
+8245,sl-SL,calendar,calendar_set,ob nedeljah ob enajstih dopoldne me moraš obvestiti o maši,social_post,0.7459,0.0064,False
+8248,sl-SL,calendar,calendar_set,dodaj jutrišnji zmenek za večerjo v koledar,cooking_recipe,0.9288,0.0081,False
+8251,sl-SL,calendar,calendar_set,vpiši mi naslednje tedensko kosilo na koledar,cooking_recipe,0.6891,0.0063,False
+8260,sl-SL,calendar,calendar_set,prosim opozori me dan pred jankovim rojstnim dnevom,iot_hue_lightoff,0.3181,0.0066,False
+8261,sl-SL,calendar,calendar_set,pošlji mi opozorilo eno uro pred mojim naslednjim sestankom,email_sendemail,1.0,0.0,False
+8269,sl-SL,calendar,calendar_set,trideset minutni opomnik o sestanku za torek,datetime_query,0.9334,0.003,False
+8276,sl-SL,calendar,calendar_remove,prosim odstrani moj načrtovani sestanek,email_sendemail,1.0,0.0,False
+8280,sl-SL,calendar,calendar_set,moram nastaviti opomnik za petnajsti marec,iot_hue_lightoff,0.9822,0.0021,False
+8284,sl-SL,calendar,calendar_remove,odstrani rojstni dan s koledarja,iot_hue_lightoff,0.6438,0.0102,False
+8289,sl-SL,calendar,calendar_set,ustvari opomnik za današnji fakultetni sestanek ob štirih,email_sendemail,0.7685,0.0002,False
+8290,sl-SL,calendar,calendar_set,odpri opomnik o sestanku menedžerjev naslednji teden v torek,calendar_remove,0.8642,0.004,False
+8294,sl-SL,calendar,calendar_set,dodaj v koledar in ponovi,qa_factoid,1.0,0.0,False
+8300,sl-SL,calendar,calendar_set,shrani dogodek od petih popoldne do šestih popoldne na osemnajsti marec,calendar_remove,0.0913,0.0483,False
+8302,sl-SL,calendar,calendar_remove,izbriši sestanek naslednji ponedeljek,calendar_remove,0.5291,0.5291,True
+8308,sl-SL,news,news_query,o čem je bil včeraj protest ob dvanajstih na prešernovem trgu,social_post,0.9663,0.0015,False
+8336,sl-SL,calendar,calendar_query,kdaj je moja malica z jano,email_sendemail,0.8766,0.001,False
+8343,sl-SL,datetime,datetime_query,ali je sreda,weather_query,0.9895,0.0002,False
+8345,sl-SL,calendar,calendar_set,sporoči mi kdaj je sestanek,weather_query,0.9845,0.0001,False
+8347,sl-SL,calendar,calendar_query,kaj se dogaja četrtega decembra,play_podcasts,0.5079,0.0059,False
+8358,sl-SL,calendar,calendar_set,opomni me o tem,iot_hue_lightoff,0.3405,0.0099,False
+8366,sl-SL,calendar,calendar_set,dodaj ponavljajoči opomnik za osemnajsti marec za petrin rojstni dan,email_sendemail,0.8093,0.0194,False
+8387,sl-SL,calendar,calendar_set,ustvari opomnik za pranje perila ob osmih zvečer,calendar_remove,0.3995,0.0859,False
+8388,sl-SL,calendar,calendar_set,zelim oprati perilo ob osmih zvečer ustvari opomnik,weather_query,0.6764,0.0065,False
+8390,sl-SL,calendar,calendar_set,spomni me na sestanek v,social_post,0.948,0.0004,False
+8394,sl-SL,calendar,calendar_set,nastavi opomnik vsak dan opoldne da vzamem zdravila,email_sendemail,0.1618,0.1208,False
+8404,sl-SL,calendar,calendar_query,želim vedeti več o tem dogodku,social_post,0.7417,0.0029,False
+8409,sl-SL,calendar,calendar_remove,izbriši mojo jutrišnjo večerjo,calendar_remove,0.992,0.992,True
+8410,sl-SL,calendar,calendar_remove,odstrani moj večerni dogodek v ponedeljek,calendar_remove,0.7728,0.7728,True
+8413,sl-SL,calendar,calendar_set,prosim opomni me,iot_hue_lightoff,0.5788,0.0072,False
+8414,sl-SL,calendar,calendar_set,opomni me da grem na večerjo z davidom v petek ob petih popoldan,cooking_recipe,0.9903,0.0001,False
+8415,sl-SL,calendar,calendar_set,dodaj sestanek z branetom ob treh popoldne v torek v pisarni,email_sendemail,0.9972,0.0001,False
+8426,sl-SL,calendar,calendar_query,povej mi trenutne dogodke med včeraj in tega jutra,weather_query,0.3618,0.0204,False
+8430,sl-SL,calendar,calendar_remove,prekliči vse moje sestanke,lists_remove,0.8622,0.119,False
+8431,sl-SL,calendar,calendar_remove,odstrani vse moje načrtovane dogodke,lists_remove,0.9699,0.0137,False
+8436,sl-SL,calendar,calendar_set,prosim nastavi sestanek za kosilo vsako sredo v marcu opoldne,cooking_recipe,0.9674,0.0017,False
+8442,sl-SL,calendar,calendar_set,prosim spremeni moj koledar s tem dogodkom,social_post,0.837,0.0011,False
+8449,sl-SL,calendar,calendar_set,nastavi mi opomnik za rojstni dan moje hčerke,email_sendemail,0.9476,0.0033,False
+8453,sl-SL,calendar,calendar_set,prosim daj dogodek na moj koledar in ga označi kot ponavljajoč dogodek,calendar_remove,0.9525,0.0014,False
+8460,sl-SL,calendar,calendar_query,pokaži mi moje dogodke,news_query,0.2575,0.0048,False
+8461,sl-SL,calendar,calendar_query,kateri so moji plani v maju,email_sendemail,1.0,0.0,False
+8466,sl-SL,calendar,calendar_set,v sredo imam sestanek ob devetih dopoldne pošlji mi opomnik,email_sendemail,1.0,0.0,False
+8469,sl-SL,calendar,calendar_query,kaj je danes na mojem koledarju,iot_hue_lightoff,0.3525,0.0141,False
+8474,sl-SL,calendar,calendar_set,dodaj v moj koledar janino rojstnodnevno zabavo jutri ob dveh popoldne na poljanski cesti dvanajst,lists_remove,0.2575,0.0202,False
+8494,sl-SL,calendar,calendar_query,kako izgleda moj urnik za danes,weather_query,0.8883,0.0036,False
+8496,sl-SL,calendar,calendar_query,naštej moje sestanke za jutri dopoldne,email_sendemail,0.994,0.0001,False
+8498,sl-SL,calendar,calendar_query,gremo čez vse prihajajoče opomnike,play_radio,0.3252,0.0103,False
+8516,sl-SL,calendar,calendar_remove,izbriši naslednjo točko,qa_factoid,0.8667,0.0342,False
+8520,sl-SL,calendar,calendar_set,dodaj dogodek na koledar,iot_hue_lightoff,0.9854,0.0003,False
+8525,sl-SL,calendar,calendar_query,opomniki za sestanek od treh do petih,iot_hue_lightoff,0.2866,0.016,False
+8535,sl-SL,calendar,calendar_set,boš me opomnil na zobozdravniški pregled ki ga imam za dve uri,lists_query,0.0543,0.0515,False
+8539,sl-SL,calendar,calendar_set,opomni me o,qa_factoid,0.4097,0.0074,False
+8541,sl-SL,calendar,calendar_set,opomni me prosim,qa_factoid,0.5984,0.0028,False
+8553,sl-SL,calendar,calendar_set,dodaj sestanek s tomažem na moj koledar ob devetih dopoldne,social_post,0.8463,0.0003,False
+8559,sl-SL,calendar,calendar_query,ali imam kaj načrtovanega za danes,weather_query,0.9965,0.0002,False
+8562,sl-SL,calendar,calendar_remove,izbriši sestanek danes ob dveh popoldne,social_post,0.9984,0.0001,False
+8568,sl-SL,calendar,calendar_set,boš poslal vabilo v koledarju janku in andreji za kosilo v torek ob enajstih dopoldne,social_post,0.7832,0.0055,False
+8570,sl-SL,calendar,calendar_set,označi da sem zasedena med dogodkom jutri ob dveh popoldne,weather_query,0.305,0.0104,False
+8579,sl-SL,calendar,calendar_query,katere informacije moram imeti za moj današnji sestanek,email_sendemail,0.9955,0.0002,False
+8585,sl-SL,calendar,calendar_set,opomni me da imam rojstnodnevno zabavo trinajstega,cooking_recipe,0.371,0.008,False
+8598,sl-SL,calendar,calendar_set,opomni me da poberem jako na letališču ob šestih popoldne,transport_query,0.8306,0.0017,False
+8618,sl-SL,calendar,calendar_set,spomni me da zalijem svoje rastline vsak torek četrtek in soboto,cooking_recipe,0.9947,0.0002,False
+8631,sl-SL,calendar,calendar_remove,izbriši to iz mojega koledarja,iot_hue_lightoff,0.5897,0.0662,False
+8635,sl-SL,calendar,calendar_set,teden pred zahvalnim dnem me spomni da naročim purana,cooking_recipe,0.3198,0.0164,False
+8640,sl-SL,calendar,calendar_set,želim opomnik na mojem koledarju za dogodek jutri v knjižnici,iot_hue_lightoff,0.9857,0.0003,False
+8642,sl-SL,calendar,calendar_set,na moj opomnik za danes ob štirih popoldne dodaj konferenčni klic,social_post,0.1897,0.028,False
+8651,sl-SL,calendar,calendar_set,opomni me na dogodek na mojem koledarju,iot_hue_lightoff,0.994,0.0001,False
+8653,sl-SL,calendar,calendar_set,opomni me na dogodek v mojem koledarju,iot_hue_lightoff,0.9539,0.0005,False
+8666,sl-SL,calendar,calendar_remove,izbriši vse dogodke iz mojega koledarja,calendar_remove,0.4348,0.4348,True
+8667,sl-SL,calendar,calendar_query,koliko sestankov sem imel z gospodom rihterjem v zadnjih treh mesecih,social_post,0.2365,0.0294,False
+8670,sl-SL,calendar,calendar_remove,odstrani dogodke iz koledarja,social_post,0.4384,0.0215,False
+8672,sl-SL,calendar,calendar_query,kje je koncert dan d.,weather_query,0.7204,0.0019,False
+8674,sl-SL,calendar,calendar_query,kje imam sestanek ob devetih dopoldne,email_sendemail,1.0,0.0,False
+8679,sl-SL,calendar,calendar_query,je danes dan marijinega vnebovzetja,qa_definition,0.9891,0.0,False
+8681,sl-SL,calendar,calendar_query,ima kdo rojstni dan,qa_factoid,0.8322,0.0041,False
+8694,sl-SL,calendar,calendar_set,valter in gaja bosta na dogodku,social_post,0.9996,0.0,False
+8730,sl-SL,calendar,calendar_set,prosim nastavi opomnik v mojem koledarju za sestanek petindvajsetega marca,iot_hue_lightoff,0.9758,0.0013,False
+8732,sl-SL,calendar,calendar_remove,izbriše vse datume,lists_remove,0.7115,0.1328,False
+8762,sl-SL,calendar,calendar_query,povej mi moj urnik za to popoldne,qa_factoid,0.5607,0.0037,False
+8765,sl-SL,calendar,calendar_set,vstavi v koledar mojo večerjo v restavraciji argentino danes ob devetih,qa_factoid,0.3996,0.0132,False
+8766,sl-SL,calendar,calendar_query,ali imam sestanek v soboto petindvajsetega marca,email_sendemail,1.0,0.0,False
+8767,sl-SL,calendar,calendar_query,ali je jelenin rojstni dan dvanajstega aprila,email_sendemail,0.9305,0.0001,False
+8769,sl-SL,calendar,calendar_remove,zbriši prihajajoči dogodek,calendar_remove,0.9551,0.9551,True
+8771,sl-SL,calendar,calendar_remove,izbriši nakupovalni izlet ki ga imam predvidenega za marca triindvajsetega,qa_factoid,0.1658,0.044,False
+8774,sl-SL,calendar,calendar_query,ali je moj urnik za sedemnajsti julij popolnoma prost,lists_remove,0.4892,0.0142,False
+8781,sl-SL,calendar,calendar_query,ali sem prost ob štirih popoldne,email_sendemail,0.8568,0.0006,False
+8782,sl-SL,calendar,calendar_query,ali imam sestanek to popoldne,email_sendemail,1.0,0.0,False
+8791,sl-SL,calendar,calendar_query,več informacij o tem dogodku,social_post,0.5869,0.0034,False
+8795,sl-SL,calendar,calendar_query,prikaži trenutne opomnike,iot_hue_lightoff,0.4557,0.0062,False
+8822,sl-SL,recommendation,recommendation_events,informacije o prihajajočih dogodkih,news_query,0.9839,0.0015,False
+8824,sl-SL,calendar,calendar_query,kaj imam na sporedu devetnajstega ob dveh popoldne,social_post,0.9157,0.0035,False
+8825,sl-SL,calendar,calendar_set,pošlji mi opomnik za moj sestanek z tomažem v naslednji petek,email_sendemail,0.9968,0.0,False
+8828,sl-SL,calendar,calendar_query,je dogodek v koledarju resničen,qa_factoid,0.1916,0.0384,False
+8846,sl-SL,calendar,calendar_query,ali imam kaj planirano četrtega julija letos,email_sendemail,0.6845,0.0048,False
+8853,sl-SL,calendar,calendar_remove,odstrani mojo naslednjo aktivnost,calendar_remove,0.9842,0.9842,True
+8856,sl-SL,calendar,calendar_remove,odstrani vse dogodke v koledarju,lists_remove,0.8995,0.0724,False
+8857,sl-SL,calendar,calendar_set,opomni me na prihajajoči sestanek z nipketom,social_post,0.4468,0.0101,False
+8868,sl-SL,calendar,calendar_set,opomni me da pokličem mamo vsak torek ob desetih dopoldan,qa_factoid,0.3578,0.0206,False
+8880,sl-SL,calendar,calendar_set,nastavi opomnik za jutrišnji sestanek ob devetih dopoldne,email_sendemail,0.6998,0.0099,False
+8888,sl-SL,calendar,calendar_remove,izbriši,calendar_remove,0.5426,0.5426,True
+8900,sl-SL,calendar,calendar_set,nastavi ponavljajoči se opomnik za vsako nedeljo,email_sendemail,0.29,0.0645,False
+8904,sl-SL,calendar,calendar_query,informacija o zadnjih dogodkih,news_query,0.9468,0.0022,False
+8906,sl-SL,calendar,calendar_set,nastavi dogodek na koledarju z drugimi,social_post,0.6701,0.0026,False
+8907,sl-SL,calendar,calendar_set,omeni dogodek v koledarju z drugimi,email_sendemail,1.0,0.0,False
+8912,sl-SL,calendar,calendar_query,povej mi današnje koledarske dogodke po šesti popoldne,play_podcasts,0.4866,0.0018,False
+8914,sl-SL,calendar,calendar_query,ob kateri uri je moj sestanek četrtega aprila,iot_hue_lightoff,0.532,0.0003,False
+8916,sl-SL,calendar,calendar_query,kakšen je moj urnik za danes,cooking_recipe,0.2646,0.0181,False
+8925,sl-SL,calendar,calendar_remove,odstrani vse dogodke iz mojega koledarja,calendar_remove,0.4197,0.4197,True
+8939,sl-SL,calendar,calendar_set,andrejina zabava ob rojstvu hčere,social_post,0.9999,0.0,False
+8948,sl-SL,calendar,calendar_set,dodaj dogodek za sestanek z jankom,cooking_recipe,0.3977,0.0047,False
+8949,sl-SL,calendar,calendar_remove,prosim izbriši opomnik,calendar_remove,0.6191,0.6191,True
+8958,sl-SL,calendar,calendar_query,odpri čas sestanka,qa_factoid,0.9998,0.0,False
+8960,sl-SL,calendar,calendar_set,zvečer želim narediti opomnik za sestanek,email_sendemail,0.7918,0.0026,False
+8967,sl-SL,calendar,calendar_set,na ženin rojstni dan me opomni dva dni prej,calendar_remove,0.3575,0.0245,False
+8968,sl-SL,calendar,calendar_set,povej mi nekaj po čemer si bom zapomnil ta teden,social_post,0.6456,0.0077,False
+8975,sl-SL,calendar,calendar_query,kateri sestanki so sklicani za danes,social_post,0.8045,0.0075,False
+8977,sl-SL,calendar,calendar_set,nastavi mi opomnik za plačilo računov,iot_hue_lightoff,0.5769,0.0078,False
+8978,sl-SL,calendar,calendar_set,obvesti me o pomembnih sestankih s šefom ta teden,recommendation_events,0.3443,0.0116,False
+8985,sl-SL,calendar,calendar_remove,ok google odstrani erikov rojstni dan iz koledarja,social_post,0.8384,0.0144,False
+8990,sl-SL,calendar,calendar_set,ustvari dogodek,qa_factoid,0.9528,0.0007,False
+8992,sl-SL,calendar,calendar_set,pokaži sestanke,play_podcasts,0.9672,0.0001,False
+9009,sl-SL,calendar,calendar_remove,izbriši dogodek obletnice iz mojega koledarja,iot_hue_lightoff,0.9631,0.0129,False
+9011,sl-SL,calendar,calendar_query,ali je dan državnosti res štirinajstega tega meseca,qa_factoid,0.9025,0.0003,False
+9014,sl-SL,calendar,calendar_set,prosim nastavi opomnik o sestanku s mojim sodelavcem triindvajsetega oktobra,social_post,0.9783,0.0021,False
+9015,sl-SL,calendar,calendar_remove,pobriši vse dogodke iz mojega koledarja,calendar_remove,0.3842,0.3842,True
+9019,sl-SL,calendar,calendar_query,sestanki od dvajsetega do petindvajsetega junija,email_sendemail,0.2719,0.0257,False
+9030,sl-SL,calendar,calendar_remove,iz koledarja odstrani moj zdravniški pregled za danes,iot_hue_lightoff,0.7817,0.0153,False
+9035,sl-SL,calendar,calendar_query,opomnik o robijevi poroki,email_sendemail,0.415,0.0042,False
+9043,sl-SL,calendar,calendar_set,prihajajoči dogodki na koledarju,news_query,0.9843,0.0006,False
+9053,sl-SL,calendar,calendar_set,nastavi opomnik za sestanek z manjo v torek,iot_hue_lightoff,0.621,0.0149,False
+9054,sl-SL,calendar,calendar_set,opomnik mestna knjižnica ljubljana torek,iot_hue_lightoff,0.1108,0.0483,False
+9059,sl-SL,calendar,calendar_set,opozori me ob času dogodka,qa_factoid,0.9875,0.0,False
+9061,sl-SL,calendar,calendar_query,kakšne informacije imam v opomnikih,lists_query,0.3362,0.0226,False
+9062,sl-SL,calendar,calendar_set,dodaj lukov rojstni dan dvaindvajsetega junija,email_sendemail,1.0,0.0,False
+9074,sl-SL,calendar,calendar_remove,prosim odstrani tisti dogodek,email_sendemail,0.9187,0.0052,False
+9088,sl-SL,calendar,calendar_remove,pobriši vse iz mojega koledarja,lists_remove,0.4971,0.1834,False
+9095,sl-SL,calendar,calendar_remove,odstrani nocojšnjo večerjo s sanjo,calendar_remove,0.5495,0.5495,True
+9103,sl-SL,calendar,calendar_query,ali je danes popoldne na mojem koledarju sestanek,social_post,0.9909,0.0001,False
+9107,sl-SL,calendar,calendar_query,kdaj se začne koncert jana plastenjaka tretjega junija,play_music,0.987,0.0001,False
+9110,sl-SL,calendar,calendar_set,razstava dva tisoč sedemnajst petindvajsetega marca naredi opombo na ta datum,iot_hue_lightoff,0.708,0.0125,False
+9112,sl-SL,calendar,calendar_set,dodaj to na moj koledar,iot_hue_lightoff,0.441,0.0114,False
+9114,sl-SL,calendar,calendar_set,ustvari ponavljajoči opomnik za ta dogodek,calendar_remove,0.3103,0.0209,False
+9116,sl-SL,calendar,calendar_query,lahko prestaviš moj sestanek,social_post,0.8891,0.0006,False
+9121,sl-SL,calendar,calendar_query,kdaj sem rezerviral,qa_factoid,1.0,0.0,False
+9124,sl-SL,calendar,calendar_set,pokaži mi dogodke na mojem službenem koledarju za naslednji teden,news_query,0.408,0.0242,False
+9137,sl-SL,calendar,calendar_query,kda je kavarna zvezda zaprta med kosilom in večerjo,weather_query,0.7058,0.0083,False
+9138,sl-SL,qa,qa_factoid,kdaj se uradno začne svetovno prvenstvo,qa_factoid,0.8572,0.8572,True
+9149,sl-SL,calendar,calendar_query,kdaj bi se naj začela gala večerja v kravatah,cooking_recipe,0.6343,0.008,False
+9153,sl-SL,calendar,calendar_set,prosim dodaj večerjo z marijo na moj koledar za soboto,iot_hue_lightoff,0.7716,0.1387,False
+9155,sl-SL,calendar,calendar_set,v petek vpiši zobozdravniški pregled ob treh,weather_query,0.5272,0.0076,False
+9156,sl-SL,calendar,calendar_set,opomni,iot_hue_lightoff,0.434,0.0243,False
+9175,sl-SL,calendar,calendar_query,je bil moj koledar v zadnjih desetih minutah posodobljen,calendar_remove,0.1324,0.0364,False
+9182,sl-SL,calendar,calendar_remove,prekliči moje načrte da poberem starše iz letališča,recommendation_events,0.4912,0.0347,False
+9187,sl-SL,calendar,calendar_set,razišči stranke ki se bodo udeležile sestanka,qa_factoid,0.5219,0.0019,False
+9193,sl-SL,calendar,calendar_set,prosim označi ta zmenek kot ponavljajoč,social_post,0.5472,0.0016,False
+9194,sl-SL,calendar,calendar_remove,prosim izbriši ta dogodek iz mojega koledarja,calendar_remove,0.8376,0.8376,True
+9197,sl-SL,calendar,calendar_query,kaj imam planirano za ta teden,calendar_remove,0.3546,0.0272,False
+9198,sl-SL,calendar,calendar_query,prosim preveri moje opomnike,iot_hue_lightoff,0.5123,0.0216,False
+9202,sl-SL,play,play_radio,prižgi mojo radijsko postajo,play_radio,0.9987,0.9987,True
+9204,sl-SL,play,play_radio,prižgi radio enaa,play_radio,0.9999,0.9999,True
+9212,sl-SL,play,play_radio,nekdo predvaja radio,qa_factoid,0.9655,0.0084,False
+9216,sl-SL,play,play_radio,igraj mojo postajo,social_post,0.9909,0.0,False
+9225,sl-SL,play,play_radio,lahko prižgeš radio,play_radio,1.0,1.0,True
+9233,sl-SL,play,play_radio,odpri pandora,qa_factoid,1.0,0.0,False
+9236,sl-SL,play,play_radio,pojdi na kanal lovim ravnotežje,qa_factoid,0.4039,0.017,False
+9237,sl-SL,play,play_radio,prižgi radio in predvajaj kanal sto tri cela sedem,play_radio,1.0,1.0,True
+9250,sl-SL,play,play_radio,želim poslušati radio,play_radio,1.0,1.0,True
+9254,sl-SL,play,play_radio,prosim prižgi radio mmr,play_radio,1.0,1.0,True
+9263,sl-SL,play,play_radio,odpri radio aplikacijo,play_radio,1.0,1.0,True
+9269,sl-SL,play,play_radio,vklopi radio študent,play_radio,0.9901,0.9901,True
+9270,sl-SL,play,play_radio,predvajaj radio veseljak,play_radio,0.9903,0.9903,True
+9275,sl-SL,play,play_radio,na radiu naj igra le val dvesto dva,play_music,0.9075,0.0881,False
+9284,sl-SL,play,play_radio,igraj f. m. radio,play_radio,0.9995,0.9995,True
+9291,sl-SL,play,play_radio,predvajaj,qa_factoid,0.8259,0.0782,False
+9301,sl-SL,play,play_radio,igraj kalifornija,qa_factoid,0.7422,0.0009,False
+9303,sl-SL,play,play_radio,predvajaj radijsko postajo hit,play_podcasts,0.9937,0.0003,False
+9305,sl-SL,play,play_radio,poslušaj uspešnice klasične glasbe,play_music,1.0,0.0,False
+9316,sl-SL,play,play_radio,predvajaj mi radio center,play_radio,1.0,1.0,True
+9317,sl-SL,play,play_radio,sedaj prižgi radio,play_radio,1.0,1.0,True
+9321,sl-SL,play,play_radio,takoj prižgi radio,play_radio,1.0,1.0,True
+9323,sl-SL,play,play_radio,predvajaj radio univox,play_radio,0.9794,0.9794,True
+9326,sl-SL,play,play_radio,prosim igraj radio sto ena zdaj,play_radio,1.0,1.0,True
+9327,sl-SL,play,play_radio,prosim skeniraj am dial na radiu zdaj takoj,play_radio,1.0,1.0,True
+9330,sl-SL,play,play_radio,igraj,qa_factoid,0.9183,0.0,False
+9341,sl-SL,play,play_radio,alexa spremeni radijsko postajo,social_post,0.6177,0.0741,False
+9352,sl-SL,play,play_radio,prosim predvajaj radio,play_radio,0.9999,0.9999,True
+9353,sl-SL,play,play_radio,prični nekaj glasbe igraj radio,play_radio,0.9033,0.9033,True
+9358,sl-SL,play,play_radio,igraj prvi program radia slovenije,play_radio,0.9998,0.9998,True
+9361,sl-SL,play,play_radio,poslušati radio,play_radio,1.0,1.0,True
+9362,sl-SL,play,play_radio,radijske postaje,play_podcasts,0.9911,0.0008,False
+9363,sl-SL,play,play_radio,na radiu predvajajva uspešnice,play_music,0.9177,0.0783,False
+9364,sl-SL,play,play_radio,igrajmo glasbene uspešnice,play_music,1.0,0.0,False
+9380,sl-SL,play,play_radio,na radiu preklopi na radio celje,play_radio,1.0,1.0,True
+9384,sl-SL,play,play_radio,predvajaj val dvesto dva,iot_hue_lightoff,0.9135,0.0001,False
+9394,sl-SL,play,play_radio,ej olly predvajaj radio,play_radio,0.9993,0.9993,True
+9402,sl-SL,play,play_radio,predvajaj ars radijsko postajo,play_podcasts,0.9998,0.0,False
+9406,sl-SL,play,play_radio,začni siriusovo xm radijsko postajo,play_podcasts,0.9755,0.0036,False
+9408,sl-SL,play,play_radio,zani predvajati radio,social_post,0.5144,0.0095,False
+9426,sl-SL,play,play_radio,rad bi poslušal radijsko postajo murski val,play_podcasts,0.6358,0.0016,False
+9438,sl-SL,play,play_radio,mi lahko predvajaš rap pesem na radiju,play_radio,0.7991,0.7991,True
+9457,sl-SL,play,play_music,igraj pesem izven okvirja,play_music,0.9969,0.9969,True
+9460,sl-SL,play,play_music,predvajaj hip hop devetdesetih,play_music,0.9987,0.9987,True
+9471,sl-SL,play,play_radio,prižgi narodnozabavno glasbeno postajo,social_post,0.9542,0.0,False
+9494,sl-SL,play,play_radio,ali mi lahko prosim zaigraš efem postajo s pop pesmimi,play_music,1.0,0.0,False
+9506,sl-SL,play,play_radio,olly poslušajva radio express na sto šest cela štiri,play_radio,1.0,1.0,True
+9507,sl-SL,play,play_radio,prosim najdi radijsko postajo ki trenutno predvaja heleno blagne,play_podcasts,0.7873,0.003,False
+9519,sl-SL,play,play_radio,predvajaj kateri koli f. m. pop kanal,play_podcasts,0.9941,0.001,False
+9520,sl-SL,play,play_radio,predvajaj zadnji doktor ki nastopa na radiju,play_radio,0.9896,0.9896,True
+9524,sl-SL,play,play_radio,prestavi na program radia študent,qa_factoid,0.6739,0.3213,False
+9528,sl-SL,play,play_radio,poišči nekaj zimzelenih pesmi in jih predvajaj preko zvočnikov,play_music,0.9989,0.0,False
+9541,sl-SL,play,play_radio,predvajaj skladbo črna kitara na radiu,play_music,0.9641,0.0356,False
+9542,sl-SL,play,play_radio,predvajaj mi program z najnovejšimi novicami na radiju,play_podcasts,0.9663,0.0129,False
+9545,sl-SL,play,play_radio,rad bi slišal oddajo mitja okorna,weather_query,0.8974,0.009,False
+9554,sl-SL,play,play_radio,predvajaj romantično glasbo na radiu sto ena,play_music,0.992,0.0073,False
+9561,sl-SL,play,play_radio,predvajaj val dvesto dva,iot_hue_lightoff,0.9135,0.0001,False
+9562,sl-SL,play,play_radio,ali mi lahko prosim predvajaš ta program,play_podcasts,1.0,0.0,False
+9565,sl-SL,play,play_radio,predvajaj radio s pesmimi od siddharte,play_music,0.9963,0.0004,False
+9568,sl-SL,play,play_radio,predvajaj koncertno serijo tinkare kovač v živo,play_music,0.9179,0.0001,False
+9569,sl-SL,play,play_radio,ok google predvajaj radio stoena,play_radio,0.9999,0.9999,True
+9577,sl-SL,play,play_radio,spremeni postajo na stošest cela šest,social_post,0.9984,0.0,False
+9591,sl-SL,play,play_radio,predvajaj program bhuli bisri yaadien na devetdeset celih tri f m,iot_hue_lightoff,0.9985,0.0001,False
+9592,sl-SL,play,play_podcasts,išči podkaste ki pokrivajo moško tematiko,social_post,0.9964,0.0035,False
+9594,sl-SL,play,play_radio,f. m. radio sto šest cela štiri pesmi,play_radio,0.9983,0.9983,True
+9601,sl-SL,play,play_radio,predvajaj kantri radijsko postajo,play_podcasts,0.9993,0.0001,False
+9617,sl-SL,play,play_radio,predvajaj mi jutranji program radia stoena,play_radio,0.8091,0.8091,True
+9619,sl-SL,play,play_radio,predvajaj radio ga ga na avtoradiu,play_radio,1.0,1.0,True
+9620,sl-SL,play,play_radio,lahko dobim na radiu v spalnici delilah,play_music,0.5186,0.481,False
+9629,sl-SL,play,play_radio,lahko mi prosim pomagate pri poslušanju radia,play_radio,0.9997,0.9997,True
+9630,sl-SL,play,play_radio,predvajaj mi radio stoena,play_radio,1.0,1.0,True
+9632,sl-SL,play,play_radio,radio prosim,play_radio,1.0,1.0,True
+9637,sl-SL,play,play_radio,predvajaj moj seznam skladb z radia študent,recommendation_events,0.6755,0.2982,False
+9640,sl-SL,play,play_radio,odpry spotify in predvajaj trening,qa_factoid,0.8731,0.0002,False
+9651,sl-SL,play,play_radio,predvajaj netflix na moji ps štirki,play_podcasts,0.9984,0.0,False
+9656,sl-SL,play,play_music,predvajaj mi energično pesem skouzi zvočnike,play_music,0.9999,0.9999,True
+9706,sl-SL,play,play_music,predvajaj jingle bells,cooking_recipe,0.4978,0.3463,False
+9707,sl-SL,play,play_music,predvajaj bela snežinka,cooking_recipe,0.8475,0.0014,False
+9738,sl-SL,play,play_music,lahko prosim predvajaš klasično glasbo zame,play_music,0.9974,0.9974,True
+9793,sl-SL,play,play_music,predvajaj romantične komade,cooking_recipe,0.9934,0.003,False
+9795,sl-SL,play,play_music,nadaljuj s ponovnim predvajanjem ni mi žal,qa_factoid,0.927,0.0035,False
+9912,sl-SL,cooking,cooking_recipe,olly kako dolgo naj kuham jajca,cooking_recipe,1.0,1.0,True
+9918,sl-SL,cooking,cooking_recipe,kako naredim pico,qa_definition,0.9741,0.0195,False
+9923,sl-SL,cooking,cooking_recipe,kako dolgo moram kuhati jajce,cooking_recipe,0.9935,0.9935,True
+9924,sl-SL,cooking,cooking_recipe,povej mi recept za,cooking_recipe,1.0,1.0,True
+9930,sl-SL,cooking,cooking_recipe,kako dolgo naj kuham jajce,cooking_recipe,0.9995,0.9995,True
+9931,sl-SL,cooking,cooking_recipe,kako dolgo naj kuham jajce,cooking_recipe,0.9995,0.9995,True
+9940,sl-SL,cooking,cooking_recipe,najdi mi recept za čokoladno torto,cooking_recipe,1.0,1.0,True
+9941,sl-SL,cooking,cooking_recipe,kako skuham glaziranega piščanca,cooking_recipe,0.9881,0.9881,True
+9942,sl-SL,cooking,cooking_recipe,kaj vse gre v sadno torto,cooking_recipe,0.9903,0.9903,True
+9943,sl-SL,cooking,cooking_recipe,kako dolgo traja priprava zelenjavne lazanje,cooking_recipe,0.6695,0.6695,True
+9952,sl-SL,cooking,cooking_recipe,najdi mi vaje za kuhanje,cooking_recipe,0.9999,0.9999,True
+9955,sl-SL,cooking,cooking_recipe,pokaži mi posnetek priprave pohanega piščanca,cooking_recipe,1.0,1.0,True
+9956,sl-SL,cooking,cooking_recipe,s čim lahko zamenjam maslo,qa_factoid,0.9397,0.0017,False
+9961,sl-SL,cooking,cooking_recipe,kaj je najboljša temperatura pečice za pečenje krompirja,cooking_recipe,0.9971,0.9971,True
+9962,sl-SL,cooking,cooking_recipe,kako je najbolje skuhati testenine al dente,cooking_recipe,1.0,1.0,True
+9964,sl-SL,cooking,cooking_recipe,znanje o predelavi hrane,cooking_recipe,0.2786,0.2786,True
+9966,sl-SL,cooking,cooking_recipe,kateri je najlažji način za kuhanje testenin,cooking_recipe,0.9999,0.9999,True
+9969,sl-SL,cooking,cooking_recipe,katere sestavine lahko uporabimo namesto žafrana,cooking_recipe,0.9919,0.9919,True
+9971,sl-SL,cooking,cooking_recipe,kaj bolje prevaja toploto ponev z bakrenim dnom ali litoželezna ponev,qa_factoid,0.27,0.0482,False
+9976,sl-SL,cooking,cooking_recipe,robot daj mi seznam sestavin za valižanskega zajca,cooking_recipe,0.7994,0.7994,True
+9977,sl-SL,cooking,cooking_recipe,prosim išči na internetu in prikaži primerne posnetke youtube za kuhanje italijanskih jedi,cooking_recipe,0.9999,0.9999,True
+9979,sl-SL,cooking,cooking_recipe,skuhaj nekaj ovsenih kosmičev,cooking_recipe,0.9838,0.9838,True
+9980,sl-SL,cooking,cooking_recipe,kakšen je današnji jedilnik dodaj mu kuhano zelenjavo,cooking_recipe,1.0,1.0,True
+9986,sl-SL,cooking,cooking_recipe,kuhanje,qa_factoid,0.6112,0.0014,False
+9994,sl-SL,cooking,cooking_recipe,mi lahko poveš recept za rižoto,cooking_recipe,1.0,1.0,True
+10016,sl-SL,cooking,cooking_recipe,postopek pečenja božične pečenke v petih stavkih,cooking_recipe,0.9991,0.9991,True
+10019,sl-SL,cooking,cooking_recipe,prosim povej mi kako se naredi dvanajst ovsenih piškotov,cooking_recipe,0.9999,0.9999,True
+10023,sl-SL,cooking,cooking_recipe,kaj rabim za mesno pito,qa_factoid,0.9754,0.0042,False
+10027,sl-SL,cooking,cooking_recipe,navodila za pripravo jedi,cooking_recipe,1.0,1.0,True
+10031,sl-SL,cooking,cooking_recipe,potrebujem recept iz sestavin ki so na mojem nakupovalnem seznamu,cooking_recipe,1.0,1.0,True
+10038,sl-SL,cooking,cooking_recipe,potrebujem dobre ideje kaj naj skuham,social_post,0.5784,0.3379,False
+10045,sl-SL,cooking,cooking_recipe,mi lahko daš recept za domačo kurjo juho z rezanci,cooking_recipe,1.0,1.0,True
+10048,sl-SL,cooking,cooking_recipe,kako naredim purana,qa_factoid,0.42,0.1134,False
+10049,sl-SL,cooking,cooking_recipe,recept za sendvič s šunko in sirom,cooking_recipe,1.0,1.0,True
+10053,sl-SL,cooking,cooking_recipe,kako se pripravi pica,cooking_recipe,1.0,1.0,True
+10055,sl-SL,cooking,cooking_recipe,kakšen je recept za pohanega piščanca,cooking_recipe,1.0,1.0,True
+10061,sl-SL,cooking,cooking_recipe,kaj naj naredim za večerjo,cooking_recipe,0.9999,0.9999,True
+10072,sl-SL,cooking,cooking_recipe,časi pečenja za piščanca v pečici,cooking_recipe,0.9999,0.9999,True
+10076,sl-SL,cooking,cooking_recipe,ali lahko zamenjaš sodo bikarbono s pecilnim praškom,cooking_recipe,0.8773,0.8773,True
+10077,sl-SL,cooking,cooking_recipe,poišči recept za današnjo večerjo,cooking_recipe,1.0,1.0,True
+10078,sl-SL,cooking,cooking_recipe,kaj naj skuham za večerjo,cooking_recipe,0.9995,0.9995,True
+10080,sl-SL,cooking,cooking_recipe,skupaj naredimo mesne kroglice,social_post,0.9292,0.0007,False
+10081,sl-SL,cooking,cooking_recipe,povej mi kako se naredijo mesne kroglice,qa_definition,1.0,0.0,False
+10090,sl-SL,cooking,cooking_recipe,lahko dobim recept za tuno,cooking_recipe,1.0,1.0,True
+10093,sl-SL,cooking,cooking_recipe,kako se naredi lazanja,qa_definition,0.5984,0.0,False
+10097,sl-SL,cooking,cooking_recipe,rad bi cheeseburger,cooking_recipe,0.4131,0.4131,True
+10099,sl-SL,cooking,cooking_recipe,kako skuhaš rižoto,cooking_recipe,1.0,1.0,True
+10100,sl-SL,cooking,cooking_recipe,ali veš recept za rižoto,cooking_recipe,1.0,1.0,True
+10105,sl-SL,cooking,cooking_recipe,kako dolgo naj pečem zrezek da bo srednje zapečen,cooking_recipe,0.9999,0.9999,True
+10107,sl-SL,cooking,cooking_recipe,rabim recept za zelenjavno rižoto,cooking_recipe,1.0,1.0,True
+10119,sl-SL,cooking,cooking_recipe,kako dolgo se peče sedem kilska gos,cooking_recipe,0.8974,0.8974,True
+10125,sl-SL,cooking,cooking_recipe,kakšna je razlika med peko kruha in pečenjem na žaru,cooking_recipe,0.9959,0.9959,True
+10132,sl-SL,cooking,cooking_recipe,kako dolgo moram peči zrezek da je medium,iot_hue_lightoff,0.3787,0.0274,False
+10150,sl-SL,cooking,cooking_recipe,kako pripraviti taco,cooking_recipe,1.0,1.0,True
+10156,sl-SL,cooking,cooking_recipe,rabim navodila kako narediti polnjene paprike,cooking_recipe,1.0,1.0,True
+10164,sl-SL,cooking,cooking_recipe,kako dolgo se kuhajo makaroni,cooking_recipe,0.9999,0.9999,True
+10166,sl-SL,cooking,cooking_recipe,najdi recept za jabolčno pito,cooking_recipe,1.0,1.0,True
+10171,sl-SL,cooking,cooking_recipe,kakšen je recept za ribjo obaro,cooking_recipe,1.0,1.0,True
+10177,sl-SL,cooking,cooking_recipe,kako kuhati hokaido bučo,cooking_recipe,0.9958,0.9958,True
+10182,sl-SL,cooking,cooking_recipe,koliko jajc potrebujem za omleto,cooking_recipe,0.2848,0.2848,True
+10197,sl-SL,cooking,cooking_recipe,pokaži najboljši recept za špagete,cooking_recipe,1.0,1.0,True
+10206,sl-SL,cooking,cooking_recipe,kako se pripravi riž,cooking_recipe,0.9999,0.9999,True
+10213,sl-SL,cooking,cooking_recipe,seznam slavnih receptov za biryani,cooking_recipe,1.0,1.0,True
+10214,sl-SL,cooking,cooking_recipe,recepti ki jih lahko pripravim v eni uri,cooking_recipe,1.0,1.0,True
+10216,sl-SL,cooking,cooking_recipe,poišči na spletu kje lahko kupim pekač za mafine,cooking_recipe,0.9996,0.9996,True
+10217,sl-SL,cooking,cooking_recipe,poišči recept za potico v aplikaciji okusnoje,cooking_recipe,1.0,1.0,True
+10220,sl-SL,cooking,cooking_recipe,kakšne sestavine potrebujem da spečem veliko torto,cooking_recipe,1.0,1.0,True
+10224,sl-SL,cooking,cooking_recipe,to je zaradi okusa,qa_factoid,0.8452,0.0362,False
+10226,sl-SL,cooking,cooking_recipe,povej mi recept za pripravo testenin,cooking_recipe,1.0,1.0,True
+10426,sl-SL,lists,lists_query,kaj še manjka v dnevniku,lists_remove,0.1804,0.1127,False
+10427,sl-SL,lists,lists_remove,prosim počisti moj nakupovalni seznam,lists_remove,0.9975,0.9975,True
+10430,sl-SL,lists,lists_remove,izbriši prvo stvar na seznamu,qa_factoid,0.7934,0.0765,False
+10433,sl-SL,lists,lists_remove,odstrani moj seznam opravil,lists_remove,0.7813,0.7813,True
+10440,sl-SL,lists,lists_query,kakšni posebni dogodki na mojem seznamu,lists_remove,0.5875,0.0624,False
+10442,sl-SL,lists,lists_remove,odstrani prireditve iz mojega seznama,qa_factoid,0.9597,0.0358,False
+10444,sl-SL,lists,lists_remove,odstrani izdelek,qa_factoid,0.7684,0.0403,False
+10451,sl-SL,lists,lists_query,kaj bom počel danes,qa_factoid,0.9994,0.0,False
+10455,sl-SL,lists,lists_query,kaj je na mojem seznamu opravkov,qa_factoid,0.8266,0.0163,False
+10462,sl-SL,lists,lists_remove,izbriši seznam,lists_remove,0.9771,0.9771,True
+10493,sl-SL,lists,lists_query,kaj je na mojem seznamu opravil,cooking_recipe,0.4177,0.1122,False
+10494,sl-SL,lists,lists_remove,odstrani pisalo s seznama,qa_factoid,0.3695,0.0108,False
+10497,sl-SL,qa,qa_factoid,prosim za listo hotelov s petimi zvezdicami v portorožu,social_post,0.6763,0.0009,False
+10508,sl-SL,lists,lists_remove,odstrani predmet seznama,email_sendemail,0.7805,0.0014,False
+10512,sl-SL,lists,lists_query,navedite vse kar je ostalo pri moji poizvedbi,lists_remove,0.3421,0.1111,False
+10523,sl-SL,lists,lists_remove,izbriši iz seznama predvajanja seznam starih angleških pesmi,lists_remove,0.927,0.927,True
+10525,sl-SL,lists,lists_remove,odstrani obrok za avtomobil iz mojega koledarja,cooking_recipe,0.9994,0.0,False
+10527,sl-SL,lists,lists_remove,odstrani seznam,lists_remove,0.5959,0.5959,True
+10534,sl-SL,lists,lists_query,kakšen je seznam opravil za danes,recommendation_events,0.282,0.1951,False
+10538,sl-SL,lists,lists_query,prosim ponovi moj nakupovalni seznam,lists_remove,0.8904,0.0053,False
+10565,sl-SL,lists,lists_remove,izbriši vse sezname,lists_remove,0.7308,0.7308,True
+10568,sl-SL,lists,lists_remove,odstrani seznam stara glasba,play_podcasts,0.584,0.1952,False
+10570,sl-SL,lists,lists_query,preveri moj seznam opravil,recommendation_events,0.9423,0.0201,False
+10571,sl-SL,lists,lists_query,android,iot_hue_lightoff,0.2324,0.0685,False
+10577,sl-SL,lists,lists_query,daj mi vse moje sezname,lists_remove,0.6042,0.0363,False
+10579,sl-SL,lists,lists_remove,ponastavi moj seznam lokacij,lists_remove,0.8933,0.8933,True
+10588,sl-SL,lists,lists_query,prikaži vsebino seznama,social_post,0.5915,0.0021,False
+10590,sl-SL,lists,lists_remove,odstrani drugo vrstico s seznama,qa_definition,0.9471,0.0005,False
+10655,sl-SL,lists,lists_remove,odstrani seznam z imenom čas za zabavo,lists_remove,0.6656,0.6656,True
+10667,sl-SL,lists,lists_query,povej urnike iz seznama,social_post,0.606,0.002,False
+10673,sl-SL,lists,lists_remove,prosim odstrani seznam,lists_remove,0.9877,0.9877,True
+10674,sl-SL,lists,lists_remove,izbriši trenutni seznam,lists_remove,0.9858,0.9858,True
+10679,sl-SL,lists,lists_query,kaj imam danes na seznamu opravkov,qa_factoid,0.9998,0.0,False
+10684,sl-SL,lists,lists_query,katere sezname sem iskal,qa_factoid,0.7857,0.0049,False
+10687,sl-SL,lists,lists_remove,če obstaja prireditev ali predstava jih izbriši,lists_remove,0.7993,0.7993,True
+10696,sl-SL,lists,lists_remove,zamenjaj,cooking_recipe,0.9677,0.0003,False
+10699,sl-SL,lists,lists_query,obvesti me o stareh na seznamu,qa_definition,0.7048,0.0019,False
+10718,sl-SL,lists,lists_remove,ali lahko odstraniš stvar iz seznama,lists_remove,0.9291,0.9291,True
+10731,sl-SL,lists,lists_query,preberi kaj je na mojem seznamu,recommendation_events,0.9088,0.0028,False
+10743,sl-SL,lists,lists_remove,odstrani ta izdelek,qa_factoid,0.9701,0.0023,False
+10753,sl-SL,lists,lists_query,kaj vse sem že dodal na mercatorjev seznam,lists_query,0.8653,0.8653,True
+10755,sl-SL,lists,lists_remove,prosim izvrzi moj seznam opravil,lists_remove,0.9968,0.9968,True
+10756,sl-SL,lists,lists_remove,počisti nakupovalni seznam,lists_remove,0.9464,0.9464,True
+10757,sl-SL,lists,lists_query,katere stvari so na mojem nakupovalnem seznamu,lists_remove,0.9962,0.0003,False
+10759,sl-SL,lists,lists_query,preberi mi seznam za nakupovanje,lists_query,0.4184,0.4184,True
+10760,sl-SL,lists,lists_query,narekuj mi seznam ki sem ga napisal pred dvema dnevoma,recommendation_events,0.937,0.001,False
+10770,sl-SL,lists,lists_remove,odstrani kosmiče iz mojega nakupovalnega seznama,lists_remove,0.9943,0.9943,True
+10772,sl-SL,calendar,calendar_remove,odstrani zobozdravniški pregled iz današnjega urnika,iot_hue_lightoff,0.7426,0.052,False
+10776,sl-SL,lists,lists_query,ali imam pripravljen nakupovalni seznam,recommendation_events,0.6861,0.0964,False
+10786,sl-SL,lists,lists_remove,izbriši vse današnje aktivnosti iz seznama,lists_remove,0.7655,0.7655,True
+10790,sl-SL,lists,lists_remove,izbriši izdelek iz seznama,news_query,0.5123,0.0321,False
+10804,sl-SL,lists,lists_query,preberi moj seznam živil,recommendation_events,0.9706,0.0056,False
+10805,sl-SL,lists,lists_query,prosim pokaži mi seznam ki ga imam,lists_remove,0.7968,0.1921,False
+10808,sl-SL,lists,lists_remove,izbriši zadnji prikazan predmet,calendar_remove,0.4306,0.4165,False
+10824,sl-SL,lists,lists_remove,olly počisti seznam,recommendation_events,0.843,0.0028,False
+10825,sl-SL,lists,lists_remove,počisti seznam,lists_remove,0.7109,0.7109,True
+10827,sl-SL,lists,lists_remove,izbriši seznam za živila,lists_remove,0.9965,0.9965,True
+10828,sl-SL,lists,lists_remove,izbriši vse,lists_remove,0.6831,0.6831,True
+10832,sl-SL,calendar,calendar_query,olly kaj je sedaj na urniku,weather_query,0.6121,0.0007,False
+10843,sl-SL,lists,lists_remove,odstrani mleko iz seznama živil,qa_definition,0.8342,0.0163,False
+10846,sl-SL,lists,lists_remove,trenutno nimam dovolj denarja za nakup stikala nintendo switch ga lahko odstranite z amazonovega seznama želja,qa_factoid,0.9994,0.0001,False
+10848,sl-SL,lists,lists_remove,odstrani ta seznam od ostalih,lists_remove,0.9963,0.9963,True
+10851,sl-SL,lists,lists_query,kateri so moji razpoložljivi seznami,qa_factoid,0.6398,0.0452,False
+10853,sl-SL,lists,lists_remove,odstrani to,qa_factoid,0.9841,0.0001,False
+10855,sl-SL,lists,lists_query,moram preveriti moj seznam,social_post,0.4729,0.0037,False
+10868,sl-SL,lists,lists_query,olly je še kaj ostalo na seznamu,lists_remove,0.5123,0.0517,False
+10887,sl-SL,lists,lists_remove,izbriši moj seznam,lists_remove,0.9939,0.9939,True
+10895,sl-SL,lists,lists_remove,izbriši izdelek iz mojega seznama,lists_remove,0.4293,0.4293,True
+10909,sl-SL,lists,lists_query,olly preberi mi moje sezname,recommendation_events,0.6907,0.0002,False
+10927,sl-SL,lists,lists_query,naj slišim moj seznam,recommendation_events,0.4596,0.002,False
+10931,sl-SL,lists,lists_query,kaj je na mojem seznamu predvajanja,qa_factoid,0.7188,0.0088,False
+10936,sl-SL,lists,lists_remove,prosim odsttrani moj seznam priljubljenih albumov,email_sendemail,1.0,0.0,False
+10954,sl-SL,lists,lists_query,koliko seznamov imam v kontaktih,social_post,0.9761,0.0002,False
+10956,sl-SL,lists,lists_query,katere skupine so narejene v mojih kontaktih,social_post,0.9499,0.0109,False
+10957,sl-SL,lists,lists_query,opomni me koliko seznamov imam,social_post,0.8444,0.0004,False
+10960,sl-SL,lists,lists_remove,tega odstrani iz seznama,email_sendemail,0.4096,0.0242,False
+10970,sl-SL,lists,lists_remove,izbriši zadnjo frazo,iot_hue_lightoff,0.7395,0.0123,False
+10979,sl-SL,lists,lists_query,kaj je zdaj na tvojem seznamu,lists_query,0.7093,0.7093,True
+10981,sl-SL,lists,lists_query,prikaži mi seznam,recommendation_events,0.9944,0.0028,False
+10985,sl-SL,lists,lists_remove,izbriši moja opravila za ta teden,lists_remove,0.8369,0.8369,True
+10990,sl-SL,lists,lists_remove,iz opravkov odstrani obriši tla v kuhinji,cooking_recipe,0.8037,0.0901,False
+10999,sl-SL,lists,lists_query,povej seznam,social_post,0.7208,0.0003,False
+11023,sl-SL,lists,lists_remove,odstrani nakupovalni seznam,lists_remove,0.9989,0.9989,True
+11024,sl-SL,lists,lists_remove,izbriši seznam opravil,lists_remove,0.9993,0.9993,True
+11053,sl-SL,lists,lists_remove,znebi se seznama google,social_post,0.9987,0.0,False
+11075,sl-SL,lists,lists_query,kolio seznamov imam,qa_factoid,0.5194,0.0001,False
+11081,sl-SL,lists,lists_query,kateri seznami so v mojem zvezku,qa_factoid,0.9998,0.0,False
+11085,sl-SL,lists,lists_remove,odstrani mleko iz nakupovalnega seznama,lists_remove,0.9008,0.9008,True
+11098,sl-SL,lists,lists_remove,znebi se davčnega seznama iz devetindevetdesetega,lists_remove,0.6235,0.6235,True
+11107,sl-SL,lists,lists_query,kateri so moji trenutni seznami,qa_factoid,0.9574,0.0002,False
+11124,sl-SL,lists,lists_query,prikaži predmete na mojem delovnem seznamu,lists_remove,0.9506,0.0351,False
+11125,sl-SL,lists,lists_query,povej mi podrobnosti naročila za nakup,email_sendemail,0.3434,0.0745,False
+11133,sl-SL,lists,lists_remove,odstrani seznam gostov ki sem ga ustvaril prejšnji teden,lists_remove,0.9999,0.9999,True
+11154,sl-SL,lists,lists_query,preveri nedaven seznam opravil,recommendation_events,0.9477,0.0033,False
+11162,sl-SL,lists,lists_remove,želim odstraniti jabolka iz seznama,qa_factoid,0.9865,0.0066,False
+11164,sl-SL,lists,lists_remove,odstrani s seznama,qa_factoid,0.9336,0.0018,False
+11166,sl-SL,lists,lists_query,odpri google keep,qa_factoid,0.9969,0.0,False
+11168,sl-SL,lists,lists_remove,odstrani moj seznam,recommendation_events,0.5329,0.4359,False
+11172,sl-SL,lists,lists_query,podaj mi vse sezname ki so na voljo,lists_remove,0.9382,0.0008,False
+11174,sl-SL,lists,lists_query,prikaži vse sezname na tej napravi,recommendation_events,0.996,0.0002,False
+11180,sl-SL,calendar,calendar_query,načrtovanje moje zabave,cooking_recipe,0.383,0.0043,False
+11186,sl-SL,lists,lists_query,imam seznam oblačil,lists_remove,0.5769,0.0312,False
+11189,sl-SL,lists,lists_query,najdi seznam,recommendation_events,0.998,0.0002,False
+11204,sl-SL,lists,lists_query,pomembne informacije o hiši,email_query,0.9997,0.0001,False
+11215,sl-SL,lists,lists_query,seznam,qa_factoid,0.085,0.0818,False
+11250,sl-SL,lists,lists_query,preberi še enkrat moj seznam živil,lists_remove,0.4923,0.0044,False
+11257,sl-SL,play,play_podcasts,olly predvajaj naslednji posnetek,social_post,0.7794,0.062,False
+11259,sl-SL,play,play_podcasts,preskoči na naslednji podcast,play_podcasts,1.0,1.0,True
+11261,sl-SL,play,play_podcasts,naslednji,calendar_remove,0.5438,0.0057,False
+11265,sl-SL,play,play_podcasts,predvajaj naslednjo,qa_factoid,0.7091,0.0583,False
+11266,sl-SL,play,play_podcasts,predvajaj podkast iz moje knjižnice,play_podcasts,1.0,1.0,True
+11267,sl-SL,play,play_podcasts,najdi zanimivi podkasrt o zadnjih dobitnikih prickerja,play_podcasts,1.0,1.0,True
+11270,sl-SL,play,play_podcasts,predvajaj naslednji podkast,play_podcasts,0.9999,0.9999,True
+11272,sl-SL,play,play_podcasts,igraj naslednje,play_radio,0.8879,0.0073,False
+11279,sl-SL,play,play_podcasts,pojdi na podcast in predvajaj naslednjo epizodo prijatelji,play_podcasts,1.0,1.0,True
+11286,sl-SL,play,play_podcasts,predvajaj podkast radio ga ga,play_podcasts,0.9965,0.9965,True
+11296,sl-SL,play,play_podcasts,naloži vse moje podkaste,recommendation_events,0.5295,0.0434,False
+11302,sl-SL,play,play_podcasts,predvajaj podcast radio ga ga,play_podcasts,1.0,1.0,True
+11303,sl-SL,play,play_podcasts,predvajaj naslednji podkast odbita do bita,play_podcasts,0.9998,0.9998,True
+11306,sl-SL,play,play_podcasts,predvaja podkast ki sem ga poslušal včeraj,play_podcasts,0.9994,0.9994,True
+11318,sl-SL,play,play_podcasts,predvajaj naslednjo epizodo podcasta,play_podcasts,1.0,1.0,True
+11322,sl-SL,play,play_podcasts,kateri je današnji najboljši podkast,recommendation_events,0.5431,0.2461,False
+11328,sl-SL,play,play_podcasts,predvajaj podcast za radio ritem,play_podcasts,0.9999,0.9999,True
+11331,sl-SL,play,play_podcasts,pokaži mi najboljši podcast od dobro ocenjenih rock komadov,play_podcasts,1.0,1.0,True
+11335,sl-SL,play,play_music,predvajaj in zmešaj vse počasne pesmi,play_music,0.9995,0.9995,True
+11339,sl-SL,play,play_podcasts,predvajaj moj najbolj gledani podkast,play_podcasts,1.0,1.0,True
+11340,sl-SL,play,play_podcasts,ima nina gaspari novi podcast,social_post,1.0,0.0,False
+11341,sl-SL,play,play_podcasts,najdi najnovejši disneyjev podkast,play_podcasts,1.0,1.0,True
+11343,sl-SL,play,play_podcasts,predvajaj naslednjo epizodo radio ga ga,play_radio,1.0,0.0,False
+11345,sl-SL,play,play_podcasts,predvajaj naslednjo epizodo podcasta,play_podcasts,1.0,1.0,True
+11349,sl-SL,play,play_podcasts,oli ponovno začni predvajati podkast ki sem ga začel poslušati včeraj zvečer,play_podcasts,0.9913,0.9913,True
+11353,sl-SL,play,play_podcasts,prikaži mi podkaste,play_podcasts,1.0,1.0,True
+11361,sl-SL,play,play_podcasts,oddaja novice dneva predvajaj jo,social_post,0.9975,0.0006,False
+11366,sl-SL,play,play_podcasts,vrni se na prejšnjo epizodo podcasta,play_podcasts,1.0,1.0,True
+11368,sl-SL,play,play_podcasts,predvajaj mi janezov podcast,play_podcasts,1.0,1.0,True
+11376,sl-SL,play,play_podcasts,želim poslušati podcast,play_podcasts,1.0,1.0,True
+11384,sl-SL,play,play_podcasts,lahko prosim preneseš mojo podcast datoteko ki je na voljo na internetu in jo enkrat predvajaš,play_podcasts,0.9998,0.9998,True
+11409,sl-SL,play,play_podcasts,prosim preskoči na naslednjo epizodo podkasta,play_podcasts,0.9998,0.9998,True
+11417,sl-SL,play,play_podcasts,začni naslednjo epizodo,play_podcasts,0.7924,0.7924,True
+11418,sl-SL,play,play_podcasts,predvajaj najnovejši podkast denisa avdica,play_podcasts,1.0,1.0,True
+11420,sl-SL,play,play_podcasts,predvajaj mi moj najnovejši podcast,play_podcasts,0.9793,0.9793,True
+11423,sl-SL,play,play_podcasts,pojdi trideset sekund nazaj,qa_factoid,0.7849,0.0041,False
+11424,sl-SL,play,play_podcasts,murski val,qa_factoid,0.9988,0.0001,False
+11426,sl-SL,lists,lists_query,najbolj ogledan seznam,social_post,0.9972,0.0,False
+11427,sl-SL,play,play_podcasts,začni metin čaj,cooking_recipe,0.9948,0.0,False
+11437,sl-SL,play,play_podcasts,prosim predvaja mi podkast,play_podcasts,0.9988,0.9988,True
+11438,sl-SL,play,play_podcasts,prosim pojdi na naslednjo epizodo podkasta,play_podcasts,0.8724,0.8724,True
+11442,sl-SL,play,play_podcasts,prosim predvajaj zadnji podkast petra skoka,play_podcasts,0.9995,0.9995,True
+11451,sl-SL,play,play_podcasts,želim slišati poslušati najnovejši podkast mike and mike,play_podcasts,0.9999,0.9999,True
+11453,sl-SL,play,play_podcasts,prični podkaste podjetniških skrivnosti,play_podcasts,0.9896,0.9896,True
+11455,sl-SL,play,play_podcasts,pomakni se na naslednji odsek,calendar_remove,0.4317,0.0078,False
+11458,sl-SL,play,play_podcasts,pojdi na naslednjo epizodo podkasta,social_post,0.9838,0.0155,False
+11459,sl-SL,play,play_podcasts,vrni se na zadnjo epizodo v tem podcastu,play_podcasts,1.0,1.0,True
+11460,sl-SL,play,play_podcasts,želim poslušati športne podcaste,play_podcasts,1.0,1.0,True
+11467,sl-SL,play,play_podcasts,predvajaj najnovejši podcast za radio ga ga,play_podcasts,1.0,1.0,True
+11470,sl-SL,play,play_podcasts,predvajaj moj najljubši podkast prosim,play_podcasts,0.999,0.999,True
+11474,sl-SL,play,play_podcasts,nadaljuj serijo podcastov,play_podcasts,1.0,1.0,True
+11476,sl-SL,play,play_podcasts,predvajaj prejšnji podcast,play_podcasts,1.0,1.0,True
+11483,sl-SL,play,play_podcasts,predvajaj val dvestodva,qa_factoid,0.921,0.0,False
+11490,sl-SL,play,play_podcasts,predvajaj naslednjo oddajo na podkastu,play_podcasts,1.0,1.0,True
+11502,sl-SL,play,play_podcasts,naslednji gumb,social_post,0.9236,0.0014,False
+11505,sl-SL,play,play_podcasts,ponovno zavrti moj zadnji podkast,play_podcasts,0.621,0.621,True
+11514,sl-SL,play,play_podcasts,oli ali lahko poslušamo vse podkaste klepeta ob kavi,play_podcasts,0.9734,0.9734,True
+11515,sl-SL,play,play_podcasts,poslušajmo podjetniške skrivnosti,play_podcasts,0.7937,0.7937,True
+11525,sl-SL,play,play_podcasts,rad bi videl naslednji podkast ki je na voljo,play_podcasts,0.9999,0.9999,True
+11529,sl-SL,play,play_podcasts,predvajaj moj najljubši podkast iz seznama,play_podcasts,1.0,1.0,True
+11536,sl-SL,play,play_podcasts,dodaj favorite podkastov na seznam predvajanja in prični,play_podcasts,0.9896,0.9896,True
+11539,sl-SL,play,play_podcasts,predvajaj naslednji podkast,play_podcasts,0.9999,0.9999,True
+11546,sl-SL,play,play_podcasts,predvajaj vse oddaje delaj in molči od prejšnjega tedna,lists_remove,0.8243,0.0566,False
+11554,sl-SL,play,play_podcasts,želim da predvajaš podkast,play_podcasts,1.0,1.0,True
+11563,sl-SL,recommendation,recommendation_events,kaj lahko počnem v mariboru,cooking_recipe,0.9903,0.0004,False
+11570,sl-SL,recommendation,recommendation_events,kaj se dogaja v okolici mojega mesta,lists_query,0.1546,0.0318,False
+11582,sl-SL,recommendation,recommendation_events,se kaj dogaja na jazz sceni v ljubljani,play_music,0.334,0.0196,False
+11585,sl-SL,recommendation,recommendation_events,kulturni dogodki v ljutomeru,social_post,0.999,0.0,False
+11598,sl-SL,recommendation,recommendation_events,prosim povej mi kje so razstave psov v mojem domačem mestu,play_podcasts,0.9795,0.0002,False
+11600,sl-SL,recommendation,recommendation_events,kateri film lahko danes zvečer gledam v kinu tu v celju,cooking_recipe,0.1953,0.1453,False
+11610,sl-SL,recommendation,recommendation_events,daj mi seznam cirkuških predstav v mestu zdaj,social_post,0.6656,0.0887,False
+11612,sl-SL,recommendation,recommendation_events,kateri kmetijski sejem je v šenčurju,social_post,0.5104,0.0087,False
+11616,sl-SL,recommendation,recommendation_events,se v centru mesta nocoj kaj dogaja,cooking_recipe,0.7496,0.0127,False
+11643,sl-SL,recommendation,recommendation_events,kateri dogodki so kmalu,social_post,0.8963,0.0008,False
+11644,sl-SL,recommendation,recommendation_events,pokaži dogodke v ljubljani,play_podcasts,0.9674,0.0024,False
+11650,sl-SL,recommendation,recommendation_events,tako mladi vozniki kot začasni vozniki imajo več nesreč kot drugi vozniki ker še nimajo toliko izkušenj ki so potrebne za varno vožnjo raziskave kažejo da so izkušnje z vožnjo najbolj pomemben faktor za zmanjšanje prometnih nesreč in da je najbolj varen čas za mladega voznika med procesom učenja ko vozi v spremstvu,lists_query,0.1401,0.041,False
+11681,sl-SL,recommendation,recommendation_events,prosim pokaži maraton blizu mene,iot_hue_lightoff,0.9389,0.0002,False
+11685,sl-SL,recommendation,recommendation_events,povej mi kateri dogodki se dogajajo v moji okolici,news_query,0.5456,0.0096,False
+11705,sl-SL,recommendation,recommendation_events,prikaži mi slikarsko razstavo v galeriji božidar jakac,social_post,0.6294,0.0177,False
+11720,sl-SL,recommendation,recommendation_events,plavanje,qa_factoid,0.4242,0.0123,False
+11767,sl-SL,recommendation,recommendation_events,olly kaj se ta konec tedna dogaja v sevnici,weather_query,0.997,0.0001,False
+11770,sl-SL,recommendation,recommendation_events,ali so ta vikend v mostah kakšni dogodki,social_post,0.9918,0.0007,False
+11782,sl-SL,recommendation,recommendation_events,ali se v bližini ta konec tedna dogaja kaj posebnega,social_post,0.4796,0.0034,False
+11798,sl-SL,recommendation,recommendation_events,kateri je naslednji dogodek v knjižnici,weather_query,0.1276,0.0569,False
+11827,sl-SL,recommendation,recommendation_events,kam grem lahko nocoj,weather_query,0.9916,0.0001,False
+11839,sl-SL,recommendation,recommendation_events,kaj se dogaja okrog mene,qa_factoid,0.8751,0.0017,False
+11841,sl-SL,recommendation,recommendation_events,ali so v tem okolišu kakšni obrtniški sejmi,social_post,0.997,0.0003,False
+11844,sl-SL,recommendation,recommendation_events,se dogaja kaj zanimivega v kopru,weather_query,0.7531,0.0004,False
+11845,sl-SL,recommendation,recommendation_events,olly predlagaj mi super dogodke na metelkovi,qa_factoid,0.4638,0.0081,False
+11860,sl-SL,recommendation,recommendation_events,poročaj mi o lokalnih dogodkih,social_post,0.9937,0.0043,False
+11867,sl-SL,recommendation,recommendation_events,ali je jutri v celju kakšen športni dogodek,qa_factoid,0.9178,0.0009,False
+11875,sl-SL,recommendation,recommendation_events,ali je v okolišu kakšen festival hrane,cooking_recipe,0.9015,0.0374,False
+11904,sl-SL,recommendation,recommendation_events,kaj se tu v okolici dogaja ta vikend,weather_query,0.9209,0.0019,False
+11905,sl-SL,recommendation,recommendation_events,oli povej mi kaj imam v planu za ta vikend,cooking_recipe,0.3703,0.069,False
+11911,sl-SL,recommendation,recommendation_events,ali se ta vikend v okolišu dogaja kaj dobrega,iot_hue_lightoff,0.4464,0.0123,False
+11916,sl-SL,recommendation,recommendation_events,kateri so najbližji tematski parki,qa_factoid,0.9433,0.0004,False
+11969,sl-SL,recommendation,recommendation_events,se v bližini dogaja kaj posebnega,social_post,0.4386,0.0156,False
+11999,sl-SL,recommendation,recommendation_events,naštej mi vse današnje dogodke za moje mesto,recommendation_events,0.9043,0.9043,True
+12008,sl-SL,recommendation,recommendation_events,so danes v celju kaki zabavni dogodki,social_post,0.9136,0.0026,False
+12054,sl-SL,recommendation,recommendation_events,kaj se dogaja v mestu,qa_factoid,0.8579,0.0012,False
+12070,sl-SL,recommendation,recommendation_events,kdaj se odpre celjski citycenter,datetime_query,0.9006,0.0035,False
+12073,sl-SL,recommendation,recommendation_events,poročaj mi o lokalnih aktualnih dogodkih,social_post,0.9124,0.0677,False
+12098,sl-SL,recommendation,recommendation_events,prikaži mi bližnje glasbene dogodke,play_podcasts,0.9999,0.0,False
+12189,sl-SL,transport,transport_query,kako naj pridem do železniške postaje saj želim kupiti vozovnico,transport_query,0.9999,0.9999,True
+12240,sl-SL,transport,transport_query,kakšno je stanje na cestah na moji poti domov ob petih popoldan,weather_query,0.6564,0.0133,False
+12245,sl-SL,transport,transport_query,kdaj odpelje naslednji vlak iz laz do litije,transport_query,0.8801,0.8801,True
+12251,sl-SL,transport,transport_query,daj mi vozni red lokalnih vlakov do zidanega mosta,transport_query,0.8507,0.8507,True
+12252,sl-SL,transport,transport_query,ob kateri uri odpeljejo vlaki ki gredo v jesenice,qa_factoid,0.5754,0.006,False
+12261,sl-SL,transport,transport_query,povej mi možnosti ki jih imam na voljo za vlak v koper za naslednjo sredo ali četrtek,transport_query,0.9252,0.9252,True
+12263,sl-SL,transport,transport_query,dolenjska,email_query,0.4921,0.0202,False
+12264,sl-SL,transport,transport_query,ljubljana,social_post,0.6903,0.0082,False
+12294,sl-SL,transport,transport_query,pokaži mi vozni red za vlak do mestnega gledališča,transport_query,0.9734,0.9734,True
+12310,sl-SL,transport,transport_query,dej mi seznam razpoložljivih vozovnic za vlak od novega mesta do nove gorice,lists_query,0.5511,0.3009,False
+12343,sl-SL,transport,transport_query,preveri čas eurocityevega vlaka na postaji hrastnik v torek,weather_query,0.6817,0.0004,False
+12354,sl-SL,transport,transport_query,kdaj pelje vlak,qa_factoid,0.9852,0.0102,False
+12366,sl-SL,transport,transport_query,ali gre vlak iz ljubljane do kopra in ob kateri uri,weather_query,0.8862,0.0735,False
+12367,sl-SL,transport,transport_query,katera je najboljša pot v šentilj,recommendation_events,0.4241,0.0007,False
+12376,sl-SL,transport,transport_query,kdaj gre prvi vlak do ljubljane,weather_query,0.6316,0.36,False
+12392,sl-SL,transport,transport_query,daj mi današnja navodila,qa_factoid,0.9598,0.0008,False
+12402,sl-SL,transport,transport_query,kdaj odide vlak v mesto od tu,qa_factoid,0.7,0.2511,False
+12419,sl-SL,transport,transport_query,najbližja pot do lucije,qa_factoid,0.9903,0.0,False
+12430,sl-SL,transport,transport_query,povij mi kdaj je prihod vlaka v ljubljano,weather_query,0.7563,0.2408,False
+12436,sl-SL,transport,transport_query,koliko časa potrebujem da pridem do letališča,weather_query,0.4981,0.4645,False
+12437,sl-SL,transport,transport_query,kakšen je potovalni čas do gledališča,qa_factoid,0.9929,0.001,False
+12446,sl-SL,transport,transport_query,lahko mi poveš las odhoda vlaka do maribora,qa_definition,0.97,0.0004,False
+12473,sl-SL,transport,transport_query,kako naj pridem domov od tukaj,qa_factoid,0.8652,0.0101,False
+12526,sl-SL,transport,transport_query,kaj je najhitrejša pot do mestne kavarne metropol,qa_factoid,0.999,0.0004,False
+12532,sl-SL,transport,transport_query,vodi pot do kraja,cooking_recipe,0.7427,0.0001,False
+12581,sl-SL,transport,transport_query,kdaj danes pelje vlak,qa_factoid,0.9796,0.0177,False
+12582,sl-SL,transport,transport_query,kdaj prvi intercity vlak prispe zjutraj,transport_query,0.9515,0.9515,True
+12604,sl-SL,transport,transport_query,kako rezerviram karto za vlak online,transport_query,0.9976,0.9976,True
+12618,sl-SL,transport,transport_query,koliko stane povratna vozovnica za vlak v ljubljano,transport_query,0.9959,0.9959,True
+12623,sl-SL,transport,transport_query,imaš vozne rede vlakov do novega mesta na dolenjskem,transport_query,0.916,0.916,True
+12629,sl-SL,transport,transport_query,kdaj odpelje prvi vlak iz kopra,weather_query,0.9352,0.0046,False
+12634,sl-SL,transport,transport_query,kdaj gre naslednji vlak v anhovo,weather_query,0.7571,0.2344,False
+12707,sl-SL,transport,transport_query,iskanje navigacije,qa_factoid,0.4673,0.0956,False
+12759,sl-SL,transport,transport_query,čas vožnje do maribora,qa_factoid,0.3017,0.1527,False
+12797,sl-SL,transport,transport_query,razpored vlakov iz kraja ki mi je blizu,weather_query,0.9449,0.0005,False
+12800,sl-SL,transport,transport_query,kje je knjižnica,qa_factoid,0.9483,0.0028,False
+12817,sl-SL,transport,transport_query,kako pridem do nakupovalnega centra,transport_query,0.9576,0.9576,True
+12818,sl-SL,transport,transport_query,koliko stane vozovnica za vlak do maribora,transport_query,0.8243,0.8243,True
+12824,sl-SL,transport,transport_query,odhodi vseh vlakov iz ljubljane,transport_query,0.9967,0.9967,True
+12835,sl-SL,transport,transport_query,kdaj odide vlak za mesto,qa_factoid,0.951,0.0107,False
+12839,sl-SL,transport,transport_query,pelji me do ljubljanskega gradu,transport_query,0.8923,0.8923,True
+12851,sl-SL,transport,transport_query,prikaži mi pot do mojega doma,iot_hue_lightoff,0.7993,0.1291,False
+12856,sl-SL,transport,transport_query,smer prosim,qa_factoid,0.9304,0.0012,False
+12866,sl-SL,transport,transport_query,kakšna je točnost slovenskih železnic,qa_factoid,1.0,0.0,False
+12908,sl-SL,transport,transport_query,kdaj prispe vlak v ljubljano,transport_query,0.9993,0.9993,True
+12930,sl-SL,transport,transport_query,odpri mi zemljevid trgovin blizu mene,social_post,0.9982,0.0001,False
+12932,sl-SL,transport,transport_query,oli daj mi navodila za pot do čopove ulice,qa_factoid,1.0,0.0,False
+12951,sl-SL,qa,qa_factoid,katera stavba je najvišja na svetu,qa_factoid,1.0,1.0,True
+12957,sl-SL,qa,qa_definition,definiraj elaborat,qa_factoid,0.7242,0.1818,False
+12961,sl-SL,qa,qa_definition,prosim definiraj forenzik,qa_definition,0.9814,0.9814,True
+12963,sl-SL,qa,qa_definition,definicija forenzika,qa_definition,1.0,1.0,True
+12972,sl-SL,qa,qa_factoid,kateri je najvišji vrh na svetu,qa_factoid,0.9997,0.9997,True
+12982,sl-SL,qa,qa_definition,kaj pomeni beseda turbulenca,qa_definition,0.9998,0.9998,True
+12986,sl-SL,qa,qa_definition,kaj pomeni muhast,qa_definition,1.0,1.0,True
+12999,sl-SL,qa,qa_factoid,koliko je stara nuša derenda,qa_factoid,0.6015,0.6015,True
+13016,sl-SL,qa,qa_definition,poišči definicijo besede neumnost,qa_definition,1.0,1.0,True
+13023,sl-SL,cooking,cooking_recipe,pokaži mi recepte,cooking_recipe,1.0,1.0,True
+13069,sl-SL,qa,qa_definition,kakšne so definicije pomaranče,qa_definition,1.0,1.0,True
+13074,sl-SL,qa,qa_factoid,zakaj janez novak ni zabaven,qa_factoid,0.9941,0.9941,True
+13077,sl-SL,qa,qa_factoid,kdaj je janez novak rojen,qa_factoid,0.9923,0.9923,True
+13078,sl-SL,qa,qa_factoid,povej mi naslov janeza novaka,qa_factoid,0.5517,0.5517,True
+13099,sl-SL,qa,qa_factoid,kdo je sedanji predsednik vlade britanije,qa_factoid,0.9992,0.9992,True
+13115,sl-SL,qa,qa_factoid,katero je glavno mesto slovenije,qa_factoid,0.9195,0.9195,True
+13124,sl-SL,qa,qa_factoid,kako veliko je vesolje,qa_factoid,0.9878,0.9878,True
+13135,sl-SL,qa,qa_factoid,kdaj je rojen jernej kuntner,qa_factoid,0.9067,0.9067,True
+13140,sl-SL,qa,qa_definition,povej mi vse o orkanu,social_post,0.9288,0.0005,False
+13154,sl-SL,qa,qa_factoid,ali veš telefonsko od maje rajh,qa_factoid,0.9151,0.9151,True
+13165,sl-SL,qa,qa_definition,kaj pomeni beseda oscilirati,qa_definition,0.9986,0.9986,True
+13166,sl-SL,qa,qa_definition,črkuj in definiraj oscilirati,iot_hue_lightoff,0.4285,0.0829,False
+13177,sl-SL,calendar,calendar_set,opomni me da se gibam da se ne zredim,iot_hue_lightoff,0.5662,0.0121,False
+13178,sl-SL,calendar,calendar_set,oli spomni me da stopim v stik s starimi prijatelji s katerimi nisem govoril šest mesecev preden se preselijo,email_sendemail,0.9991,0.0,False
+13188,sl-SL,news,news_query,napovej mi rezultat volitev v ljubljani,social_post,0.8362,0.0002,False
+13206,sl-SL,qa,qa_definition,lokacija,qa_factoid,0.7454,0.032,False
+13215,sl-SL,transport,transport_query,kaj je najhitrejša pot do moje službe da se izognem gostemu prometu v centru,transport_query,0.8443,0.8443,True
+13252,sl-SL,qa,qa_factoid,kakšen je bil prvi november janeza janše,email_sendemail,0.8617,0.0019,False
+13255,sl-SL,qa,qa_factoid,prosim povej mi inforimacije o josipu brozu titu,social_post,0.9745,0.0004,False
+13283,sl-SL,qa,qa_factoid,koliko denarja je zaslužil bill gates,qa_factoid,0.9998,0.9998,True
+13288,sl-SL,qa,qa_definition,kakšna je definicija besede perpetuirati,qa_definition,1.0,1.0,True
+13297,sl-SL,qa,qa_factoid,kdo je zvezdnik zvezdnica,qa_definition,0.6765,0.3205,False
+13298,sl-SL,qa,qa_factoid,kaj počne zvezdnik,cooking_recipe,0.8051,0.1768,False
+13330,sl-SL,qa,qa_factoid,kako velik je kit glavač,qa_factoid,1.0,1.0,True
+13361,sl-SL,qa,qa_definition,kaj pomeni pravočasnost,qa_factoid,0.9784,0.0215,False
+13383,sl-SL,qa,qa_factoid,koliko držav ima še vedno smrtno kazen,qa_factoid,0.9961,0.9961,True
+13400,sl-SL,social,social_post,pošlji smešno sporočilo vsem mojim prijateljem,social_post,0.9979,0.9979,True
+13439,sl-SL,qa,qa_factoid,koliko je stara j. k. rowling,qa_factoid,0.9599,0.9599,True
+13457,sl-SL,calendar,calendar_set,povej kdaj naj bi šel na načrtovani sestanek da sem pravočasen,qa_factoid,0.998,0.0,False
+13473,sl-SL,qa,qa_factoid,kdaj so z. d. a. postale svobodne,qa_factoid,1.0,1.0,True
+13487,sl-SL,qa,qa_factoid,olly katero je glavno mesto slovenije,qa_factoid,0.7059,0.7059,True
+13494,sl-SL,qa,qa_definition,navedi definicijo motivacije,qa_definition,0.8764,0.8764,True
+13506,sl-SL,datetime,datetime_query,mi lahko poveš koliko je ura,weather_query,0.6822,0.3047,False
+13513,sl-SL,qa,qa_factoid,koliko nog ima pes,qa_factoid,0.7644,0.7644,True
+13516,sl-SL,qa,qa_factoid,zakaj so kiti veliki,qa_factoid,0.9966,0.9966,True
+13546,sl-SL,qa,qa_factoid,kateri je bil zadnji film willom smithom,qa_factoid,0.9202,0.9202,True
+13554,sl-SL,qa,qa_factoid,kako visok je andrej rozman roza,qa_factoid,0.9973,0.9973,True
+13575,sl-SL,qa,qa_factoid,kateri film je bil zadnji ki je prejel nagrado na festivalu slovenskega filma,recommendation_events,0.7163,0.1275,False
+13580,sl-SL,qa,qa_factoid,kako visok je triglav,qa_definition,0.9546,0.0201,False
+13591,sl-SL,qa,qa_factoid,kaj je prestolnica štajerske,weather_query,0.9936,0.0002,False
+13592,sl-SL,qa,qa_factoid,kje na zemljevidu je nova zelandija,qa_factoid,0.5136,0.5136,True
+13604,sl-SL,qa,qa_factoid,povej mi kje je bil rojen igor akrapovič,social_post,1.0,0.0,False
+13607,sl-SL,qa,qa_factoid,ali lahko potrdiš da je leonardo poročen,qa_factoid,0.999,0.999,True
+13616,sl-SL,qa,qa_factoid,kje se zadržuje večina zvezdnikov,qa_factoid,0.8842,0.8842,True
+13619,sl-SL,recommendation,recommendation_events,ali so danes v mojem okolišu kakšni brezplačni dogodki,play_podcasts,0.9019,0.0162,False
+13625,sl-SL,qa,qa_definition,kaj je največja miza,qa_factoid,0.4244,0.1871,False
+13636,sl-SL,qa,qa_factoid,kdaj je rojstni dan arnolda schwarzeneggerja,qa_factoid,0.9252,0.9252,True
+13679,sl-SL,qa,qa_factoid,ali mi lahko poveš koliko želodcev ima krava,qa_factoid,0.8444,0.8444,True
+13681,sl-SL,qa,qa_factoid,v koliko odrskih delih je igral polde bibič,qa_factoid,0.4508,0.4508,True
+13683,sl-SL,qa,qa_factoid,kakšne vrste laka za lase uporablja katarina čas,cooking_recipe,0.4432,0.0314,False
+13689,sl-SL,qa,qa_definition,kaj je stol,qa_factoid,0.9361,0.0013,False
+13690,sl-SL,qa,qa_factoid,kakšne barve so stoli,social_post,0.9743,0.0056,False
+13693,sl-SL,qa,qa_factoid,kje je ničelni poldnevnik,qa_factoid,0.9994,0.9994,True
+13705,sl-SL,qa,qa_definition,kaj je elektronski sistem za uravnavanje emisij,qa_definition,0.9144,0.9144,True
+13706,sl-SL,qa,qa_definition,opiši rotor,iot_hue_lightoff,0.7951,0.0009,False
+13714,sl-SL,qa,qa_definition,kaj je mango,cooking_recipe,0.8912,0.0014,False
+13717,sl-SL,qa,qa_factoid,se s triglava res vidi jadransko morje,qa_factoid,0.8538,0.8538,True
+13758,sl-SL,qa,qa_factoid,koliko je stara nuša derenda,qa_factoid,0.6015,0.6015,True
+13761,sl-SL,qa,qa_factoid,kaj je parsek,qa_factoid,0.9988,0.9988,True
+13774,sl-SL,qa,qa_factoid,kako oddaljena je dolenjska od štajerske,weather_query,0.9261,0.012,False
+13777,sl-SL,qa,qa_definition,lahko opišeš kreditno kartico,qa_factoid,0.5236,0.0021,False
+13780,sl-SL,qa,qa_factoid,ali je gašper jarni poročen,qa_factoid,0.9186,0.9186,True
+13798,sl-SL,qa,qa_factoid,koliko kvadratnih kilometrov ima povprečna država na svetu,qa_factoid,0.6314,0.6314,True
+13799,sl-SL,qa,qa_definition,kakšna je definicija besede podjarmiti,qa_definition,0.9999,0.9999,True
+13823,sl-SL,qa,qa_factoid,kako oddaljeno je sonce,weather_query,0.9792,0.0135,False
+13853,sl-SL,qa,qa_factoid,kje na svetu je največ vulkanov,qa_factoid,0.6154,0.6154,True
+13854,sl-SL,qa,qa_factoid,kdaj je umrl fran milčinski ježek,qa_factoid,0.9957,0.9957,True
+13863,sl-SL,qa,qa_definition,kakšna je definicija logike,qa_definition,1.0,1.0,True
+13867,sl-SL,qa,qa_factoid,kje je park tivoli,qa_factoid,0.7789,0.7789,True
+13869,sl-SL,qa,qa_factoid,prosim poguglaj lokacijo in informacije o gori peca,lists_remove,0.1101,0.0482,False
+13871,sl-SL,qa,qa_definition,kako bi opisali srečen rojstni dan,qa_definition,0.943,0.943,True
+13881,sl-SL,qa,qa_factoid,prosim za informacijo o siddharti,email_sendemail,0.5706,0.3384,False
+13888,sl-SL,qa,qa_factoid,kakšna je temperatura v kopru,weather_query,0.9984,0.0004,False
+13895,sl-SL,qa,qa_factoid,ali mi lahko poveš o anžetu kopitarju,qa_factoid,0.9616,0.9616,True
+13900,sl-SL,qa,qa_definition,definicija življenja,qa_definition,0.9998,0.9998,True
+13907,sl-SL,qa,qa_definition,kaj pomeni osupnjen,qa_definition,0.9998,0.9998,True
+13908,sl-SL,qa,qa_definition,ali mi lahko razložiš kaj pomeni osupljen,qa_definition,0.9998,0.9998,True
+13926,sl-SL,qa,qa_factoid,kdaj je rojstni dan josipa jurčiča,datetime_query,0.4836,0.0181,False
+13927,sl-SL,qa,qa_factoid,koliko je vreden luka dončič,qa_factoid,0.5006,0.5006,True
+13974,sl-SL,qa,qa_factoid,kje se nahaja laos,social_post,0.9968,0.0014,False
+13983,sl-SL,qa,qa_definition,trpljenje posledic,iot_hue_lightoff,0.3293,0.0184,False
+13984,sl-SL,qa,qa_definition,posledice dejanj,social_post,0.9985,0.0,False
+13997,sl-SL,qa,qa_factoid,koliko stane povprečna hiša,qa_factoid,0.5859,0.5859,True
+14000,sl-SL,qa,qa_definition,opiši lenuha,email_sendemail,1.0,0.0,False
+14001,sl-SL,qa,qa_factoid,povej mi vse kar veš o lenivcih,social_post,0.9934,0.0034,False
+14011,sl-SL,qa,qa_factoid,kdaj je rojstni dan tinkare kovač,qa_factoid,1.0,1.0,True
+14015,sl-SL,qa,qa_factoid,katere so koordinate ekvatorja,qa_factoid,0.7969,0.7969,True
+14023,sl-SL,qa,qa_definition,opiši pekel,email_sendemail,0.9995,0.0,False
+14033,sl-SL,qa,qa_factoid,kdaj je bil rojen borut pahor,qa_factoid,1.0,1.0,True
+14038,sl-SL,qa,qa_factoid,lokacija moldavije,qa_factoid,0.4251,0.4251,True
+14040,sl-SL,qa,qa_factoid,koliko je visok hulk hogar,iot_hue_lightoff,0.8605,0.03,False
+14053,sl-SL,qa,qa_factoid,katerega leta je začel igrati sebastian cavazza,play_music,0.9748,0.0011,False
+14063,sl-SL,qa,qa_factoid,kdaj je bil rojstni dan elvisa presleyja,weather_query,0.8102,0.0357,False
+14083,sl-SL,qa,qa_factoid,kje trenutno živi jackie chan,social_post,0.9969,0.0013,False
+14096,sl-SL,qa,qa_factoid,kje je pohorje,qa_factoid,0.9356,0.9356,True
+14115,sl-SL,qa,qa_definition,navedi podrobnosti o kamnitem pesku,social_post,0.539,0.0582,False
+14116,sl-SL,qa,qa_definition,opiši kamniti pesek,email_sendemail,0.9999,0.0,False
+14117,sl-SL,qa,qa_factoid,kje so piramide,iot_hue_lightoff,0.1305,0.0705,False
+14118,sl-SL,qa,qa_factoid,pokaži geografske detajle piramid,qa_factoid,0.9982,0.9982,True
+14126,sl-SL,qa,qa_factoid,pokaži rihanino biografijo,qa_factoid,0.9907,0.9907,True
+14138,sl-SL,qa,qa_definition,prosim povej mi kaj je definicija za cilinder,qa_definition,0.9043,0.9043,True
+14147,sl-SL,qa,qa_definition,definiraj kivi,qa_definition,0.7039,0.7039,True
+14150,sl-SL,qa,qa_definition,kaj so copati converse,qa_factoid,0.9997,0.0,False
+14151,sl-SL,qa,qa_factoid,katere vrste sončnih očal se štejejoza aviatorske,qa_factoid,0.7932,0.7932,True
+14154,sl-SL,qa,qa_factoid,informacije o afriki,social_post,0.9969,0.0008,False
+14163,sl-SL,qa,qa_factoid,poišči okolico,iot_hue_lightoff,0.3456,0.036,False
+14169,sl-SL,qa,qa_factoid,kam je amal clooney hodila na fakulteto,email_sendemail,1.0,0.0,False
+14170,sl-SL,qa,qa_factoid,ali kim kardashian nosi converse športne copate,qa_factoid,0.8053,0.8053,True
+14179,sl-SL,qa,qa_factoid,koliko je oddaljena kanada od moje trenutne lokacije,qa_factoid,0.7885,0.7885,True
+14214,sl-SL,transport,transport_query,poiščite načine potovanja za isto,recommendation_events,0.2668,0.0651,False
+14229,sl-SL,qa,qa_factoid,v katerih filmih je igrala katarina čas,play_podcasts,0.9211,0.004,False
+14243,sl-SL,qa,qa_factoid,podrobnosti o osebi,social_post,0.9981,0.0015,False
+14272,sl-SL,qa,qa_definition,hey kaj je knjiga,email_sendemail,0.5034,0.0026,False
+14283,sl-SL,qa,qa_factoid,povej mi kaj o ljubljani,social_post,0.9697,0.0005,False
+14306,sl-SL,qa,qa_factoid,razloži mi kje je indija,qa_definition,0.9926,0.0074,False
+14308,sl-SL,qa,qa_factoid,koliko je vreden sebastijan cavazza,weather_query,0.9866,0.004,False
+14316,sl-SL,qa,qa_factoid,kako velika je aljaska,qa_factoid,0.5409,0.5409,True
+14317,sl-SL,qa,qa_factoid,kako velike so združene države,qa_factoid,0.9807,0.9807,True
+14323,sl-SL,qa,qa_factoid,kakšne barve je zmajev sadež,iot_hue_lightoff,0.7963,0.0212,False
+14330,sl-SL,qa,qa_factoid,kje je rojen boris pahor,qa_factoid,0.9973,0.9973,True
+14347,sl-SL,qa,qa_definition,kaj je hipoteza,qa_factoid,0.9983,0.0001,False
+14354,sl-SL,qa,qa_factoid,kaj je odgovor na vesolje,qa_definition,0.8137,0.1845,False
+14355,sl-SL,qa,qa_factoid,koliko velikih školjk je marija našla na obali,lists_query,0.2276,0.0605,False
+14370,sl-SL,qa,qa_factoid,kakšen je poklic zvezdnika,qa_factoid,1.0,1.0,True
+14378,sl-SL,qa,qa_definition,definicija hitrosti,qa_definition,0.9697,0.9697,True
+14382,sl-SL,qa,qa_factoid,kako visok je ljubljanski nebotičnik,iot_hue_lightoff,0.8443,0.0081,False
+14395,sl-SL,qa,qa_factoid,katera je najgloblja točka na zemlji,qa_factoid,0.8152,0.8152,True
+14414,sl-SL,qa,qa_definition,opiši računalniški trdi disk,iot_hue_lightoff,0.2588,0.026,False
+14417,sl-SL,qa,qa_factoid,kateri ocean se dotika naše celine,qa_factoid,0.9968,0.9968,True
+14419,sl-SL,qa,qa_factoid,ali lara snema letos nov film,social_post,0.6012,0.3332,False
+14429,sl-SL,qa,qa_definition,kaj je kaftan,qa_factoid,0.3765,0.0078,False
+14440,sl-SL,qa,qa_factoid,kaj je glavno mesto mehike,social_post,0.9445,0.0021,False
+14442,sl-SL,qa,qa_factoid,kje je otočje fidži,qa_factoid,0.9783,0.9783,True
+14444,sl-SL,qa,qa_factoid,kateri je bil prvi film sebastiana cavazze,qa_factoid,1.0,1.0,True
+14449,sl-SL,qa,qa_factoid,ali ima senidah novega dojenčka,social_post,0.5925,0.1017,False
+14457,sl-SL,qa,qa_factoid,najdi pot,qa_factoid,0.2299,0.2299,True
+14465,sl-SL,transport,transport_query,navodila za pot do živalskega vrta,qa_factoid,0.5381,0.0721,False
+14490,sl-SL,qa,qa_factoid,kdaj je zasnovan bolšoj teater,qa_factoid,0.6123,0.6123,True
+14498,sl-SL,qa,qa_definition,opiši mi pametni telefon,iot_hue_lightoff,0.579,0.016,False
+14504,sl-SL,qa,qa_factoid,koliko srečanj je imel milan kučan,weather_query,0.8006,0.0149,False
+14505,sl-SL,qa,qa_factoid,kdo je sedajni minister rusije,qa_factoid,1.0,1.0,True
+14508,sl-SL,qa,qa_factoid,prosim obnovi zadnjo knjigo draga jančarja nekoč sem jo videl,email_sendemail,0.9235,0.0024,False
+14509,sl-SL,qa,qa_factoid,kje se je rodil mahatma gandhi,social_post,0.9914,0.0021,False
+14539,sl-SL,qa,qa_factoid,poišči geografske podatke o tem mestu,lists_query,0.1818,0.0583,False
+14545,sl-SL,qa,qa_factoid,povej mi lokacijo bele krajine,social_post,0.939,0.0435,False
+14567,sl-SL,qa,qa_factoid,kateri je največji aktivni vulkan na zemlji,qa_factoid,0.9951,0.9951,True
+14585,sl-SL,qa,qa_factoid,koliko časa traja potovanje iz slovenije v avstrijo,weather_query,0.9922,0.0009,False
+14591,sl-SL,qa,qa_definition,opiši mi televizijsko vezje,iot_hue_lightoff,0.5274,0.0108,False
+14592,sl-SL,qa,qa_definition,daj mi opis matične plošče pametnega telefona,qa_definition,0.0945,0.0945,True
+14597,sl-SL,qa,qa_factoid,koliko prebivalcev ima ljubljana,qa_factoid,0.718,0.718,True
+14601,sl-SL,qa,qa_factoid,koliko let je bil abraham lincoln predsednik združenih držav amerike,qa_factoid,0.5738,0.5738,True
+14605,sl-SL,qa,qa_factoid,ali je ajda smrekar zapustila sebastiana cavazzo,qa_definition,0.8837,0.0463,False
+14608,sl-SL,qa,qa_factoid,na katerem filmu dela jennifer lawrence,qa_factoid,0.463,0.463,True
+14622,sl-SL,qa,qa_definition,opiši kaj je krogla,iot_hue_lightoff,0.9913,0.0001,False
+14648,sl-SL,cooking,cooking_recipe,recept prosim,cooking_recipe,1.0,1.0,True
+14653,sl-SL,qa,qa_factoid,koliko prebivalcev ima rusija,qa_factoid,0.8383,0.8383,True
+14661,sl-SL,qa,qa_factoid,katerega leta je rojen barack obama,qa_factoid,0.5083,0.5083,True
+14668,sl-SL,qa,qa_definition,opiši predmet xy,iot_hue_lightoff,0.9566,0.0,False
+14683,sl-SL,qa,qa_factoid,kakšen hobi ima mirjana šajinovič,iot_hue_lightoff,0.6196,0.3798,False
+14684,sl-SL,qa,qa_factoid,kdo je ruski predsednik vlade,qa_factoid,0.7903,0.7903,True
+14690,sl-SL,qa,qa_definition,ok google kaj je predsednik,qa_factoid,0.5576,0.4417,False
+14700,sl-SL,qa,qa_definition,kaj je pravzaprav smolna zobna plomba,qa_factoid,0.9999,0.0001,False
+14701,sl-SL,qa,qa_definition,opiši heart stone igro s kartami,iot_hue_lightoff,0.5172,0.0657,False
+14705,sl-SL,qa,qa_factoid,poguglaj kje živi mirjana šajinovič,social_post,0.9999,0.0,False
+14706,sl-SL,qa,qa_factoid,kje živi nuša derenda,qa_factoid,0.9699,0.9699,True
+14746,sl-SL,qa,qa_factoid,kaj je glavno mesto kazahstana,qa_factoid,0.9099,0.9099,True
+14761,sl-SL,qa,qa_definition,kakšna je definicija besede pontifikat,qa_definition,1.0,1.0,True
+14767,sl-SL,qa,qa_definition,kako bi opisal žogo,cooking_recipe,0.848,0.0454,False
+14770,sl-SL,qa,qa_factoid,povej mi kateri je najdaljši ocean na svetu,qa_factoid,0.7474,0.7474,True
+14787,sl-SL,qa,qa_factoid,kakšna je razlika med rimskim in gregorijanskim koledarjem,qa_definition,0.5142,0.4142,False
+14791,sl-SL,qa,qa_factoid,kako je izdelan stol,cooking_recipe,0.9987,0.001,False
+14794,sl-SL,qa,qa_factoid,kaj je muršakova najljubša vožnja,social_post,0.4702,0.3361,False
+14822,sl-SL,qa,qa_factoid,primerjati v ljudeh,qa_factoid,0.6614,0.6614,True
+14838,sl-SL,qa,qa_factoid,kaj je filter nevtralne gostote in ali bi želel gradientnega ali tudi trdnega prav tako kateri bi bil boljši po slogu med navojnimi in kvadratnimi,lists_query,0.285,0.0472,False
+14857,sl-SL,qa,qa_definition,ali mi lahko pojasniš pomen besede eksorcist,qa_definition,0.9978,0.9978,True
+14877,sl-SL,qa,qa_factoid,kakšne so klimatske razmere na tem področju,weather_query,0.9775,0.0149,False
+14879,sl-SL,qa,qa_definition,pomen,social_post,0.9974,0.0001,False
+14884,sl-SL,qa,qa_factoid,v kater državi združenih držav amerike je najmanj tornadov,qa_factoid,0.7221,0.7221,True
+14889,sl-SL,qa,qa_definition,prosim opiši mi ta objekt,qa_factoid,0.6551,0.241,False
+14891,sl-SL,qa,qa_factoid,na katerih področjih je človek najboljši,qa_factoid,0.9076,0.9076,True
+14912,sl-SL,qa,qa_factoid,kje je bil rojen predsednik drnovšek,qa_factoid,0.4956,0.4956,True
+14917,sl-SL,qa,qa_factoid,kdaj izide naslednji album jana plestenjaka,datetime_query,0.616,0.1043,False
+14933,sl-SL,qa,qa_factoid,povej mi podatke o indijski geografiji,qa_definition,0.5066,0.4823,False
+14939,sl-SL,qa,qa_factoid,potrebujem nekaj podrobnosti o janezu janši,cooking_recipe,0.5426,0.0649,False
+14981,sl-SL,qa,qa_definition,opis iphona sedem,email_sendemail,1.0,0.0,False
+14994,sl-SL,qa,qa_factoid,kateri je naslednji film borisa cavazze,qa_factoid,0.9095,0.9095,True
+14995,sl-SL,qa,qa_definition,kaj pomeni beseda situacija,qa_definition,0.9999,0.9999,True
+15020,sl-SL,qa,qa_factoid,koliko je star gojmir lešnjak gojc,social_post,0.893,0.041,False
+15039,sl-SL,qa,qa_factoid,olly kje se začne triglavski narodni park,qa_definition,0.1513,0.0414,False
+15055,sl-SL,qa,qa_factoid,kateri pol je hladnejši južni ali severni,weather_query,0.9878,0.0019,False
+15056,sl-SL,qa,qa_factoid,koliko je star zdajšnji fant mojce fatur,social_post,0.7546,0.2378,False
+15062,sl-SL,qa,qa_factoid,prosim za informacije o mirjani šajinovič,recommendation_events,0.7061,0.0194,False
+15075,sl-SL,qa,qa_factoid,olly kje so se naselili prvi američani,social_post,0.9766,0.0176,False
+15092,sl-SL,qa,qa_definition,poišči opis televizorja gorenje,recommendation_events,0.8925,0.0028,False
+15094,sl-SL,qa,qa_factoid,poišči število prebivalcev v ljubljanskih mostah,lists_remove,0.8092,0.0496,False
+15095,sl-SL,qa,qa_factoid,v kateri regiji se nahaja ljutomer,social_post,0.9635,0.0073,False
+15127,sl-SL,qa,qa_definition,opiši zvočnik,iot_hue_lightoff,0.9669,0.0008,False
+15155,sl-SL,social,social_post,naloži moj zadnji selfi na moj facebook račun,social_post,0.9999,0.9999,True
+15166,sl-SL,social,social_post,objavi moj posel na twitterju,social_post,0.9992,0.9992,True
+15177,sl-SL,social,social_post,prosim odgovori na to objavo na tviterju,iot_hue_lightoff,0.3115,0.0325,False
+15185,sl-SL,social,social_post,rojstnodnevne želje,qa_factoid,0.3275,0.0139,False
+15186,sl-SL,social,social_post,poročne želje,social_post,0.5854,0.5854,True
+15187,sl-SL,social,social_post,deli v prijateljevi objavi,social_post,0.9918,0.9918,True
+15197,sl-SL,social,social_post,na twitterju objavi moj obisk v ljubljani,social_post,0.9994,0.9994,True
+15208,sl-SL,social,social_post,pozdravi vse na facebooku,social_post,0.9996,0.9996,True
+15213,sl-SL,news,news_query,kaj je zdaj v trendu,qa_factoid,0.4504,0.0218,False
+15214,sl-SL,news,news_query,kaj je danes novica,social_post,0.9109,0.001,False
+15216,sl-SL,social,social_post,tvitni nekaj zame,iot_hue_lightoff,0.552,0.0195,False
+15231,sl-SL,social,social_post,moje potovanje na goa fotografijo objavi na instagram,social_post,1.0,1.0,True
+15271,sl-SL,social,social_post,to objavi na mojem facebooku l. o. l.,social_post,0.9957,0.9957,True
+15275,sl-SL,social,social_post,na facebook objavi srečen srečna sem,social_post,0.9996,0.9996,True
+15276,sl-SL,social,social_post,na facebook objavi da uživam v lepem vremenu,social_post,0.9997,0.9997,True
+15289,sl-SL,social,social_post,sporočilo objavi zdaj,qa_factoid,0.5511,0.3391,False
+15305,sl-SL,calendar,calendar_query,imam kaj obvestil od socialnih omrežij,social_post,0.999,0.0,False
+15318,sl-SL,social,social_post,rad bis e zahvalil vsem za rojstnodnevne želje,email_sendemail,0.6679,0.0164,False
+15337,sl-SL,social,social_post,objavi ta video na facebooku,social_post,0.9724,0.9724,True
+15350,sl-SL,social,social_post,z mercatorjem nisem zadovoljen zadovoljna prosim pomagaj mi,qa_factoid,0.4962,0.0055,False
+15358,sl-SL,social,social_post,olly tvitni applu da iphone ne dela,iot_hue_lightoff,0.9609,0.0003,False
+15359,sl-SL,social,social_post,odpri tvit o applu da je moja baterija vedno prazna,play_radio,0.8305,0.0005,False
+15364,sl-SL,social,social_post,lahko sporočiš amazonu da je njihov telefon sranje,social_post,0.998,0.998,True
+15382,sl-SL,social,social_post,lahko kontaktiraš samsung in poveš da moj pomivalnik gori,qa_factoid,0.91,0.0005,False
+15387,sl-SL,social,social_post,tvitni mojo trenutno lokacijo,qa_factoid,0.9969,0.0014,False
+15399,sl-SL,social,social_post,telekomu posreduj naprej pritožbo glede težav povezanih z omrežjem,social_post,0.2106,0.2106,True
+15401,sl-SL,social,social_post,odpri twitter pošlji sporočilo,social_post,0.9242,0.9242,True
+15402,sl-SL,social,social_post,tvitni da je ta izdelek slab,iot_hue_lightoff,0.984,0.0008,False
+15409,sl-SL,social,social_post,odpri twitter natipkaj mojo pritožbo in jo objavi službi za pomoč strankam,qa_factoid,0.9962,0.0035,False
+15413,sl-SL,social,social_post,daj mi osebo kar se da hitro,iot_hue_lightoff,0.8248,0.0057,False
+15444,sl-SL,social,social_post,dva palca navzdol za mimovrste,lists_remove,0.3085,0.0247,False
+15448,sl-SL,social,social_post,pošlji tvit o sonyjevih težavah z glasnostjo,social_post,0.9998,0.9998,True
+15454,sl-SL,social,social_post,tvitni adrii airways jezen sem ker ste izgubili mojo prtljago,qa_factoid,0.6213,0.0532,False
+15456,sl-SL,social,social_post,želim poslati tvit air france da sem jezen na njih ker so izgubili mojo prtljago,qa_factoid,0.4172,0.3218,False
+15457,sl-SL,social,social_post,imel sem problem s svojim burgerom lahko tvitneš hood burgerju,cooking_recipe,0.4395,0.0759,False
+15459,sl-SL,social,social_post,pošlji twitter pritožbo,qa_factoid,0.9959,0.0002,False
+15464,sl-SL,social,social_post,izdelka nisem dobil dobila pravočasno jysku pošlji tvit,qa_factoid,0.8333,0.1288,False
+15467,sl-SL,social,social_post,povej telemachu da jih sovražim,social_post,0.9459,0.9459,True
+15472,sl-SL,social,social_post,tvitni pritožbo o knjigarni na spletu,qa_factoid,1.0,0.0,False
+15487,sl-SL,social,social_post,tvitni lidlu o čistoči njihove trgovine,social_post,0.8097,0.8097,True
+15488,sl-SL,social,social_post,prosim tvitni piceriji picikato da sedaj čakam na dostavo že številka nisemzadovoljen,qa_factoid,0.9935,0.0038,False
+15503,sl-SL,social,social_post,novi tvit telekomu,email_sendemail,1.0,0.0,False
+15508,sl-SL,social,social_post,siri odpri twitter tvitni at potus zanič,social_post,0.9985,0.9985,True
+15518,sl-SL,social,social_post,pošlji pritožbo na c in a po twitterju,qa_factoid,1.0,0.0,False
+15532,sl-SL,social,social_post,olly tvitni mercatorju in njim povej da je storitev za stranke grozna,qa_factoid,0.496,0.0207,False
+15546,sl-SL,social,social_post,tvitni o mrzli pici piceriji foculus,qa_factoid,0.7481,0.2421,False
+15548,sl-SL,social,social_post,tvitni pritožbo o mobilnem telefonu samsung,qa_factoid,0.8764,0.0065,False
+15553,sl-SL,social,social_post,na twitterju prosim objavi tvit z negativno oceno servisne službe podjetja gorenje,social_post,0.6322,0.6322,True
+15554,sl-SL,social,social_post,prosim tvitni telemachu glede zamude storitve,iot_hue_lightoff,0.9275,0.0013,False
+15556,sl-SL,social,social_post,tvitniva pritožbo,qa_factoid,0.994,0.0,False
+15557,sl-SL,social,social_post,rad bi da tvitneš pritožbo,qa_factoid,0.9712,0.0007,False
+15560,sl-SL,social,social_post,na facebooku objavi da sem lačen,social_post,0.9999,0.9999,True
+15565,sl-SL,social,social_post,lahko poveš wizzairu da se ne bom nikoli več letel z njimi,qa_factoid,0.6758,0.0138,False
+15587,sl-SL,social,social_post,odpri galerijo objavi sliko z imenom,social_post,0.9902,0.9902,True
+15592,sl-SL,social,social_post,tvitni pritožbo telemahu,qa_factoid,0.9997,0.0001,False
+15593,sl-SL,social,social_post,tvitni telemahu in se pritoži,iot_hue_lightoff,0.4424,0.0054,False
+15598,sl-SL,social,social_post,odpri ime podjetja in poišči pritožbe,qa_factoid,0.9837,0.0005,False
+15610,sl-SL,social,social_post,objavi naslednji tvit na mojem računu zelo slaba ponakupna storitev podjetja tuš nisem zadovoljen,social_post,0.9871,0.9871,True
+15618,sl-SL,social,social_post,tvitni avtohišo malgaj in povej da so zanič,social_post,0.999,0.999,True
+15626,sl-SL,social,social_post,prosim tvitni pritožbo na comcast zaradi slabe storitve za stranke,qa_factoid,0.9272,0.0037,False
+15634,sl-SL,social,social_post,ok google tvitni kakšen kreten je lastnik na bencinski črpalki,qa_factoid,0.9998,0.0001,False
+15635,sl-SL,social,social_post,tvitni da ima mcdonalds grozno storitev,social_post,0.7198,0.7198,True
+15647,sl-SL,social,social_post,tvitni pritožbo,qa_factoid,0.9987,0.0004,False
+15651,sl-SL,social,social_post,pošlji sporočilo službi za pomoč strankam,email_sendemail,0.9998,0.0,False
+15652,sl-SL,social,social_post,podaj pritožbo službi za podporo strankam,qa_factoid,0.9917,0.0002,False
+15655,sl-SL,social,social_post,tvitni googlovi službi za stranke da je moj novi nexus telefon nehal delat prosim pomagajte,social_post,0.8212,0.8212,True
+15656,sl-SL,social,social_post,tvitni sporočilo spletnemu nakupovanju da še vedno čakam na dostavo,email_sendemail,0.9927,0.0062,False
+15661,sl-SL,social,social_post,objavi moj zadnji twitter zapis na mors,social_post,0.8145,0.8145,True
+15670,sl-SL,social,social_post,pošlji tvit glede pritožbe,email_sendemail,0.9924,0.0046,False
+15672,sl-SL,social,social_post,tvitni applu da nisem dobil potrdila o prejemu za iphone ki sem ga prejšnji teden poslal na popravilo,email_sendemail,0.9732,0.0012,False
+15676,sl-SL,social,social_post,tvitu dodaj pritožbo glede postrežbe v piceriji oliva,qa_factoid,0.5972,0.0011,False
+15686,sl-SL,social,social_post,pozdravljeni moj predmet ki sem ga kupil od nekoga je pokvarjen,lists_remove,0.6763,0.0198,False
+15693,sl-SL,social,social_post,tvitni da je v čokoladnem zavitku žuželka,iot_hue_lightoff,0.8257,0.091,False
+15700,sl-SL,social,social_post,izdelki s pretečenim rokom uporabe na trgu,qa_factoid,0.467,0.0089,False
+15703,sl-SL,social,social_post,tvitni massu da jim prehitro zmanjka številk,social_post,0.9528,0.9528,True
+15706,sl-SL,social,social_post,tvitni na,iot_hue_lightoff,0.531,0.0045,False
+15707,sl-SL,social,social_post,pošlji tvit,social_post,0.9353,0.9353,True
+15708,sl-SL,social,social_post,objavi pritožbo glede storitve,qa_factoid,0.473,0.004,False
+15721,sl-SL,social,social_post,tvitni zgroženo faco mcdonaldsu,social_post,0.9965,0.9965,True
+15723,sl-SL,social,social_post,nastavi status srečen sem na facebooku,social_post,0.9984,0.9984,True
+15731,sl-SL,social,social_post,siri tvitni telekomu slovenije sporočilo povej jim da je njihova storitev slaba,social_post,0.7737,0.7737,True
+15732,sl-SL,social,social_post,tvitni samsungu in jim povej da naj prenehajo ubijati ljudi z njihovimi produkti,social_post,0.9957,0.9957,True
+15736,sl-SL,social,social_post,objavi negativno oceno o podjetju,qa_factoid,0.9082,0.0853,False
+15756,sl-SL,email,email_sendemail,prosim pošlji elektronsko sporočilo moji ekipi,email_sendemail,1.0,1.0,True
+15763,sl-SL,email,email_query,preveri nova e-sporočila,iot_hue_lightoff,0.5513,0.001,False
+15765,sl-SL,email,email_sendemail,odgovori na pavlovo e-poštno sporočilo,email_sendemail,1.0,1.0,True
+15777,sl-SL,email,email_query,povej mi če imam nova spletna sporočila,social_post,0.9653,0.0026,False
+15785,sl-SL,email,email_query,je kaj novega v mojem nabiralniku,iot_hue_lightoff,0.4969,0.0066,False
+15789,sl-SL,email,email_query,imam kakšno novo elektronsko sporočilo,social_post,0.8978,0.0217,False
+15792,sl-SL,calendar,calendar_query,s kom se dobim danes,iot_hue_lightoff,0.7762,0.0042,False
+15796,sl-SL,email,email_sendemail,pošlji spletno sporočilo mariji,social_post,0.9811,0.0023,False
+15802,sl-SL,email,email_sendemail,odgovori na email marku da ne bom prišla zvečer,email_sendemail,1.0,1.0,True
+15809,sl-SL,email,email_query,mi je robert že poslal elektronsko sporočilo,email_sendemail,1.0,0.0,False
+15825,sl-SL,email,email_sendemail,odgovori očetu napiši da bom pozna,email_sendemail,1.0,1.0,True
+15828,sl-SL,email,email_sendemail,tukaj je novi poštni naslov ki se naj doda k stikom,email_sendemail,0.9998,0.9998,True
+15829,sl-SL,email,email_sendemail,pojdi na stike in vnesi nov email naslov,email_sendemail,1.0,1.0,True
+15839,sl-SL,email,email_query,tema,qa_factoid,0.7187,0.0043,False
+15841,sl-SL,email,email_sendemail,napiši rajku novo spletno sporočilo,social_post,0.9967,0.0001,False
+15845,sl-SL,email,email_sendemail,kako prihaja k nam,qa_factoid,1.0,0.0,False
+15847,sl-SL,email,email_sendemail,kako lahko dobimo kedit,qa_factoid,0.9915,0.0,False
+15849,sl-SL,email,email_sendemail,pošlji elektronsko sporočilo mojemu šefu,email_sendemail,1.0,1.0,True
+15857,sl-SL,email,email_sendemail,prosim pošlji na nov e-poštni naslov ki je napisan,email_sendemail,1.0,1.0,True
+15862,sl-SL,email,email_query,preglej elektronsko pošto od mami,social_post,0.9796,0.0001,False
+15880,sl-SL,email,email_query,prosim preveri moja e-poštna sporočila,email_sendemail,1.0,0.0,False
+15890,sl-SL,email,email_query,poglej ali imam kaj novih elektronskih sporočil od mojega očeta,social_post,0.5493,0.0007,False
+15904,sl-SL,email,email_query,preveri mojo novo e-pošto in mi povej o čem se gre,email_sendemail,0.8717,0.0067,False
+15906,sl-SL,email,email_sendemail,odgovori hvala janezu,email_sendemail,0.6237,0.6237,True
+15911,sl-SL,email,email_sendemail,pripravi e-poštno sporočilo za marijo,email_sendemail,1.0,1.0,True
+15933,sl-SL,email,email_query,katera nova spletna sporočila imam,social_post,0.9427,0.0016,False
+15942,sl-SL,email,email_sendemail,pošlji odgovor na zadnja elektronska sporočila,email_sendemail,0.9952,0.9952,True
+15950,sl-SL,email,email_sendemail,odgovori na spletno sporočilo od janeza novaka,social_post,0.9985,0.0001,False
+15957,sl-SL,email,email_sendemail,pošlji email alisi da smo že na poti,email_sendemail,1.0,1.0,True
+15963,sl-SL,email,email_query,imam kaj novih elektronskih sporočil od novaka,social_post,0.7002,0.0097,False
+15966,sl-SL,email,email_query,pošlji odgovor če je zelo pomembno,qa_factoid,0.6791,0.0208,False
+15968,sl-SL,email,email_query,če je družinsko potem označi kot pomembno,qa_factoid,0.9688,0.0007,False
+15970,sl-SL,email,email_query,kaj je bila zadeva v zadnjem maminem mejlu,email_query,1.0,1.0,True
+15971,sl-SL,email,email_query,katera je bila zadnja e-pošta od službe,qa_factoid,0.9999,0.0,False
+15994,sl-SL,email,email_sendemail,pošlji email markotu in ga vprašaj kdaj mu odgovarja sestanek,email_sendemail,1.0,1.0,True
+15995,sl-SL,email,email_sendemail,obvesti karen o finančnem sestanku,email_sendemail,0.8355,0.8355,True
+15998,sl-SL,email,email_query,preveri moja elektronska sporočila iz naslova,email_sendemail,1.0,0.0,False
+16002,sl-SL,email,email_query,preveri nova spletna sporočila,email_sendemail,0.4867,0.059,False
+16005,sl-SL,email,email_sendemail,pošlji e-poštno sporočilo na jože afna gmail pika com,email_sendemail,1.0,1.0,True
+16010,sl-SL,email,email_query,povej mi če imam kakšna nova sporočila v mojem nabiralniku,social_post,0.9901,0.0008,False
+16024,sl-SL,email,email_sendemail,pošlji mateju e-pošto in povej da sem jutri zaseden,email_sendemail,0.9988,0.9988,True
+16028,sl-SL,email,email_sendemail,hej siri začni spletno sporočilo sodelavcu,social_post,0.9885,0.0001,False
+16029,sl-SL,email,email_sendemail,prosim sestavi novo elektronsko sporočilo za sodelavca,social_post,0.9923,0.0051,False
+16032,sl-SL,email,email_sendemail,prosim pošlji elektronsko sporočilo sanji v zvezi z jutrišnjim sestankom,email_sendemail,1.0,1.0,True
+16038,sl-SL,email,email_query,ali mi je janez poslal kakšno elektronsko sporočilo v zadnjem času,email_sendemail,0.7718,0.0043,False
+16045,sl-SL,email,email_sendemail,iztoku pošlji e-pošto z odpiralnim časom pisarne,email_sendemail,1.0,1.0,True
+16048,sl-SL,email,email_query,pokaži nedavna elektronska sporočila,email_sendemail,1.0,0.0,False
+16049,sl-SL,email,email_sendemail,moji družini hočem poslati elektronsko sporočilo mi boste pomagali,social_post,0.9966,0.0021,False
+16050,sl-SL,email,email_query,preveri gmail,email_sendemail,0.897,0.103,False
+16052,sl-SL,email,email_query,preveri outlook,iot_hue_lightoff,0.9969,0.0001,False
+16056,sl-SL,email,email_sendemail,odgovori na elektronsko sporočilo,email_sendemail,0.9998,0.9998,True
+16061,sl-SL,email,email_query,sem prejel kaj e-sporočil v zadnjih desetih minutah,qa_factoid,0.236,0.0253,False
+16072,sl-SL,email,email_sendemail,pošlji sporočilo šefu da bom danes pozen zaradi izrednih razmer in se opraviči za odsotnost na sestanku,email_sendemail,1.0,1.0,True
+16075,sl-SL,email,email_query,pokaži johnova najnovejša spletna sporočila,play_podcasts,0.9734,0.0001,False
+16082,sl-SL,email,email_sendemail,pošlji e-pošto petru in ga vprašaj kako je sedaj če mu lahko kako pomagam,email_sendemail,1.0,1.0,True
+16089,sl-SL,email,email_query,sem dobila nova spletna sporočila v zadnjih desetih minutah,social_post,0.9784,0.0011,False
+16096,sl-SL,email,email_query,ali mi je amela poslala kako elektronsko sporočilo,email_sendemail,0.9993,0.0,False
+16098,sl-SL,email,email_query,preveri neprebrano e-pošto od amy,email_sendemail,1.0,0.0,False
+16100,sl-SL,email,email_query,prosim preglej e-pošto ki vsebuje seznam služb,email_sendemail,1.0,0.0,False
+16103,sl-SL,email,email_sendemail,pošlji elektronsko sporočilo mojemu bratu in napiši obletnica poroke,email_sendemail,1.0,1.0,True
+16120,sl-SL,email,email_sendemail,pomoč je poslana samo ani,social_post,0.9181,0.0003,False
+16131,sl-SL,email,email_sendemail,ta nova pošta naj bo dodana k mojim stikom,social_post,0.9917,0.0059,False
+16145,sl-SL,email,email_query,prikaži mi najnovejša elektronska sporočila,social_post,0.9768,0.0016,False
+16146,sl-SL,news,news_query,daj mi najnovejše posodobitve,qa_factoid,0.9991,0.0002,False
+16148,sl-SL,email,email_sendemail,hitro odgovori jacku prosim pošlji spletno sporočilo,social_post,0.8377,0.03,False
+16151,sl-SL,email,email_query,v današnji pošti preveri urnik sestankov,social_post,0.5518,0.004,False
+16162,sl-SL,email,email_sendemail,pošlji odgovor,calendar_remove,0.3831,0.1632,False
+16163,sl-SL,email,email_query,kdo mi je pisal včeraj,social_post,0.9278,0.0005,False
+16165,sl-SL,email,email_query,je šarlota odgovorila,social_post,0.9942,0.0,False
+16166,sl-SL,email,email_sendemail,lahko odgovoriš katarini da bom zaseden s projektom naslednje tri tedne,qa_factoid,0.6733,0.0103,False
+16168,sl-SL,email,email_query,ali je prispelo kaj elektronskih sporočil v zadnjih petnajstih minutah,social_post,0.9615,0.0135,False
+16170,sl-SL,email,email_query,odpri nabiralnik in poglej neprebrana sporočila,qa_factoid,0.7006,0.004,False
+16178,sl-SL,email,email_query,sem danes dobil kaj elektronske pošte od amazona,email_sendemail,1.0,0.0,False
+16183,sl-SL,email,email_query,preveri spletna sporočila o moji službi,recommendation_events,0.2959,0.0162,False
+16201,sl-SL,email,email_sendemail,prosim naloži novo spletno sporočilo binetu in takoj pošlji sporočilo,social_post,0.6932,0.0155,False
+16221,sl-SL,email,email_sendemail,najdi uršin elektronski naslov in napiši da ji bom sporočila,email_sendemail,1.0,1.0,True
+16245,sl-SL,email,email_sendemail,pošlji spletno sporočilo na joe afna a. o. l. pika com,social_post,0.9996,0.0,False
+16248,sl-SL,email,email_query,prosim preveri mojo e-pošto,email_sendemail,0.9474,0.0202,False
+16263,sl-SL,email,email_query,imam kaj novih spletnih sporočil od roberta,social_post,0.3913,0.003,False
+16266,sl-SL,email,email_sendemail,napiši email moji družini da jih ljubim vse,email_sendemail,1.0,1.0,True
+16271,sl-SL,email,email_query,posodobi moj nabiralnik in me obvesti o novih spletnih sporočilih,iot_hue_lightoff,0.8979,0.0045,False
+16275,sl-SL,email,email_query,sproži glasovanje za novi e-poštni naslov,email_sendemail,0.8798,0.0315,False
+16276,sl-SL,email,email_query,imam nova elektronska sporočila,email_sendemail,1.0,0.0,False
+16280,sl-SL,email,email_sendemail,prosim pošlji spletno sporočilo cassy kdo je na družinskem seznamu in na seznamu prijateljev,social_post,0.9987,0.0001,False
+16282,sl-SL,email,email_sendemail,pošlji e-pošto asistentki klari naj odpove sestanke za jutri,email_sendemail,1.0,1.0,True
+16296,sl-SL,email,email_sendemail,pošlji spletno sporočilo mami povej ji da je petrova rojstnodnevna zabava v nedeljo,social_post,0.9977,0.0001,False
+16297,sl-SL,email,email_sendemail,pošlji elektronsko sporočilo jaku in se mu zahvali,email_sendemail,1.0,1.0,True
+16314,sl-SL,email,email_sendemail,pošlji elektronsko sporočilo magdi,email_sendemail,1.0,1.0,True
+16317,sl-SL,email,email_query,sem dobila novo e-pošto od marije,email_sendemail,1.0,0.0,False
+16318,sl-SL,email,email_sendemail,odgovori na elektronsko sporočilo,email_sendemail,0.9998,0.9998,True
+16320,sl-SL,email,email_sendemail,jaz želim odgovoriti na email jožeta novaka,email_sendemail,1.0,1.0,True
+16353,sl-SL,email,email_query,preveri spletno pošto od stevea,social_post,0.9987,0.0001,False
+16354,sl-SL,email,email_query,preveri spletna sporočila mojega delodajalca,social_post,0.8571,0.0027,False
+16356,sl-SL,email,email_query,ali sem poslal elektronsko sporočilo tomu glede nadzora nad orožjem,email_sendemail,1.0,0.0,False
+16357,sl-SL,email,email_query,mi je tomaž pisal glede streliva,qa_factoid,0.9991,0.0,False
+16361,sl-SL,email,email_query,sem v zadnji uri dobil kaj novih e-sporočil,qa_factoid,0.1914,0.0379,False
+16373,sl-SL,email,email_query,sem dobila kako elektronsko pošto s številko za sledenje,email_sendemail,0.4381,0.0115,False
+16375,sl-SL,email,email_sendemail,sestavi elektronsko sporočilo bogdanu,email_sendemail,1.0,1.0,True
+16376,sl-SL,email,email_sendemail,aleksa prosim pošlji elektronsko sporočilo moji mami,email_sendemail,1.0,1.0,True
+16377,sl-SL,email,email_sendemail,pošlji mami elektronsko pošto zdaj,email_sendemail,0.6465,0.6465,True
+16384,sl-SL,email,email_query,hej imam kaj nove e-pošte,email_sendemail,0.5692,0.0004,False
+16385,sl-SL,email,email_query,prosim preberi nova e-poštna sporočila,email_sendemail,1.0,0.0,False
+16398,sl-SL,email,email_sendemail,prosim pošlji e pošto francu,email_sendemail,1.0,1.0,True
+16399,sl-SL,email,email_query,imam kaj novih spletnih sporočil,news_query,0.5191,0.0035,False
+16401,sl-SL,email,email_sendemail,napiši spletno sporočilo darji hej kaj počneš danes,social_post,0.9146,0.0418,False
+16402,sl-SL,email,email_sendemail,tini napiši elektronsko sporočilo za današnje načrte,email_sendemail,0.4682,0.4682,True
+16406,sl-SL,email,email_sendemail,aleksa začni elektronsko pošto,social_post,0.9996,0.0,False
+16410,sl-SL,email,email_sendemail,sestavi elektronsko sporočilo,email_sendemail,1.0,1.0,True
+16413,sl-SL,email,email_query,pokaži vsa moja elektronska sporočila od mojega šefa,email_sendemail,1.0,0.0,False
+16419,sl-SL,email,email_sendemail,pošlji elektronsko sporočilo stricu janezu ja lahko pridem,email_sendemail,1.0,1.0,True
+16427,sl-SL,email,email_query,koliko novih e-poštnih sporočil sem jaz dobil danes,social_post,0.7284,0.0037,False
+16430,sl-SL,email,email_sendemail,prosim pošlji mami in očiju e-pošto kako sta,email_sendemail,0.9992,0.9992,True
+16437,sl-SL,email,email_sendemail,prosim pošlji to elektronsko sporočilo mojemu prijatelju,email_sendemail,1.0,1.0,True
+16438,sl-SL,email,email_sendemail,ta email pošlji zdaj,email_sendemail,1.0,1.0,True
+16446,sl-SL,email,email_query,prosim preveri nedavne sštudije spletnih sporočil od tega pošiljatelja,social_post,0.8596,0.0041,False
+16459,sl-SL,email,email_sendemail,novo sporočilo za novinaslov afna gmail pika kom,email_sendemail,1.0,1.0,True
+16461,sl-SL,email,email_query,imam jaz kakšno neprebrano e-poštno sporočilo,email_sendemail,0.5646,0.0183,False
+16467,sl-SL,email,email_query,imam kaj novih spletnih sporočil od mojega stika q.,qa_factoid,0.9962,0.0,False
+16471,sl-SL,email,email_query,preveri spletna sporočila od janeza,social_post,0.9559,0.0011,False
+16496,sl-SL,email,email_sendemail,pošlji nazaj spletno sporočilo,social_post,0.9639,0.0162,False
+16501,sl-SL,email,email_sendemail,prosim pošlji elektronsko sporočilo prijateljici nives kako si,email_sendemail,1.0,1.0,True
+16506,sl-SL,email,email_sendemail,dodaj novi elektronski naslov in pošlji sporočilo,email_sendemail,1.0,1.0,True
+16518,sl-SL,email,email_sendemail,dodaj novi elektronski naslov od julije novak,email_sendemail,1.0,1.0,True
+16519,sl-SL,email,email_sendemail,v stike moram dodati nov e-poštni naslov,social_post,0.6084,0.3818,False
+16535,sl-SL,email,email_sendemail,lahko napišeš e-sporočilo za cilko,qa_factoid,0.9869,0.0001,False
+16559,sl-SL,email,email_sendemail,odgovori mirku z odgovorom štiristo trideset iz njegovega emaila ki ga je poslal zjutraj,email_sendemail,0.9964,0.9964,True
+16560,sl-SL,email,email_sendemail,po elektronski pošti odgovori mojemu šefu da bom tam ob štirih zvečer,email_sendemail,1.0,1.0,True
+16563,sl-SL,email,email_query,preveri moja spletna sporočila,email_sendemail,0.7513,0.1932,False
+16591,sl-SL,email,email_sendemail,pravkar sem dobil e-pošto od billa moram mu takoj odgovoriti,email_sendemail,1.0,1.0,True
+16593,sl-SL,email,email_sendemail,na zadnje elektronsko sporočilo je potrebno takoj odgovoriti,social_post,0.3614,0.0445,False
+16603,sl-SL,email,email_query,kaj je govorilo prejšnje spletno sporočilo od mame izpred pol ure,social_post,0.9978,0.0001,False
+16605,sl-SL,email,email_sendemail,napiši in pošlji elektronsko sporočilo mojemu šefu,email_sendemail,1.0,1.0,True
+16609,sl-SL,email,email_query,sporoči mi če imam kaj novih neprebranih spletnih sporočil,qa_factoid,0.3826,0.0097,False
+16613,sl-SL,email,email_sendemail,pošlji šefu e-pošto in povej da bom pozna,email_sendemail,0.9629,0.9629,True
+16622,sl-SL,email,email_sendemail,pošlji elektronsko sporočilo temu stiku,email_sendemail,1.0,1.0,True
+16624,sl-SL,email,email_sendemail,rabim poslati spletno sporočilo na telekom o mojih težavah s servisom,qa_factoid,0.8064,0.0009,False
+16627,sl-SL,email,email_query,preveri najnovejša spletna sporočila,email_sendemail,0.7993,0.0151,False
+16630,sl-SL,email,email_sendemail,pošlji odgovor na zadnjo e-pošto,email_sendemail,1.0,1.0,True
+16642,sl-SL,email,email_query,ali imam kakšno elektronsko pošto od špele,social_post,0.809,0.0015,False
+16648,sl-SL,email,email_query,poglej moja spletna sporočila,social_post,0.5861,0.0194,False
+16652,sl-SL,email,email_query,ali je borisovo elektronsko sporočilo imelo priponko,email_sendemail,0.8533,0.0005,False
+16662,sl-SL,email,email_query,sem dobil kakšno novo elektronsko sporočilo od dana,social_post,0.9347,0.005,False
+16666,sl-SL,email,email_query,imam jaz kakšno elektronsko sporočilo,social_post,0.9087,0.0184,False
+16668,sl-SL,email,email_query,ali je prišlo kaj elektronskih sporočil danes od štirih popoldne,social_post,0.9936,0.0021,False
+16669,sl-SL,email,email_query,sem jaz dobil elektronsko sporočilo od pavla,email_sendemail,1.0,0.0,False
+16672,sl-SL,email,email_query,se je beno kaj javil,cooking_recipe,0.7865,0.0022,False
+16677,sl-SL,email,email_query,imam kaj novih e-sporočil v mojem nabiralniku danes,news_query,0.1811,0.0376,False
+16698,sl-SL,email,email_sendemail,odgovori na spletno sporočilo moje mame,social_post,0.9998,0.0,False
+16701,sl-SL,email,email_sendemail,rad bi odgovoril na sarino elektronsko sporočilo,email_sendemail,1.0,1.0,True
+16703,sl-SL,email,email_sendemail,odgovor na zadnje elektronsko sporočilo želim,email_sendemail,0.951,0.951,True
+16712,sl-SL,email,email_query,ali imam kaj novih spletnih sporočil,social_post,0.6621,0.0056,False
+16713,sl-SL,email,email_query,prosim preveri moja e-sporočila in me obvesti če so kakšna nova e-sporočila,iot_hue_lightoff,0.7978,0.0075,False
+16717,sl-SL,email,email_sendemail,lahko prosim janezu pošlješ e-sporočilo da sem trenutno na dopustu,email_sendemail,0.9672,0.9672,True
+16719,sl-SL,email,email_query,sporoči mi o morebitnih novih elektronskih sporočilih ki sem jih prejel,social_post,0.2106,0.062,False
+16729,sl-SL,email,email_sendemail,odgovori na moje spletno sporočilo bojanu povej da jih bom videl jutri,social_post,0.9854,0.001,False
+16730,sl-SL,email,email_query,prosim preveri novo spletno sporočilo od janeza,social_post,0.9976,0.0001,False
+16733,sl-SL,email,email_query,pokaži mi zadnja spletna sporočila od amazona,play_podcasts,0.5524,0.0015,False
+16749,sl-SL,email,email_query,so za mene danes kakšna nova e-poštna sporočila,email_sendemail,0.9982,0.001,False
+16754,sl-SL,email,email_sendemail,narekuj spletno sporočilo,social_post,0.8921,0.0223,False
+16758,sl-SL,email,email_query,kaj novih spletnih sporočil od zadnjič,play_podcasts,0.5601,0.004,False
+16763,sl-SL,email,email_query,vsa spletna sporočila v zadnjih desetih minutah,social_post,0.7719,0.0066,False
+16765,sl-SL,email,email_query,čas intervjuja iz včerajšnjega mejla,email_query,0.5516,0.5516,True
+16766,sl-SL,email,email_query,preveri nova e-sporočila,iot_hue_lightoff,0.5513,0.001,False
+16772,sl-SL,email,email_query,pokaži vsa spletna sporočila ki se nanašajo na kršitev,social_post,0.9765,0.0008,False
+16780,sl-SL,email,email_sendemail,pošlji e-pošto na juanpedro afna gmail pika com,email_sendemail,1.0,1.0,True
+16791,sl-SL,email,email_sendemail,sestavi novo elektronsko sporočilo a na nov naslov brandon afna example pika com,social_post,0.6889,0.3085,False
+16799,sl-SL,email,email_query,sem dobil kako elektronsko sporočilo od poldneva,email_sendemail,1.0,0.0,False
+16801,sl-SL,email,email_query,mi je marija poslala kakšna e-sporočila o janezu,social_post,0.7854,0.0008,False
+16813,sl-SL,email,email_query,zapiskaj ko dobim sporočilo od janeza,email_sendemail,0.9929,0.0,False
+16814,sl-SL,email,email_query,preveri elektronska sporočila,email_sendemail,1.0,0.0,False
+16838,sl-SL,email,email_sendemail,lahko pošlješ e-pošto na novo uporabniško ime,email_sendemail,1.0,1.0,True
+16851,sl-SL,email,email_query,obvestilo za prispelo pošto,social_post,0.9963,0.0002,False
+16859,sl-SL,email,email_query,kaj sem povedal suzani v mojem zadnjem elektronskem sporočilu,social_post,0.9491,0.0107,False
+16872,sl-SL,email,email_sendemail,najdi marijo v mojih stikih in ji pošlji spletno sporočilo,social_post,0.9991,0.0,False
+16873,sl-SL,email,email_sendemail,pošlji elektronsko sporočilo mariji za rojstni dan,email_sendemail,1.0,1.0,True
+16880,sl-SL,email,email_sendemail,pošlji elektronsko sporočilo jerneju glede sestanka,email_sendemail,1.0,1.0,True
+16883,sl-SL,email,email_sendemail,pošlji elektronsko sporočilo jerneju vprašaj ga kdaj bo nocoj doma,weather_query,0.7165,0.2517,False
+16886,sl-SL,email,email_sendemail,odgovori na to elektronsko sporočilo,email_sendemail,0.9881,0.9881,True
+16888,sl-SL,email,email_query,kaj pa nova sporočila,email_sendemail,1.0,0.0,False
+16890,sl-SL,email,email_query,o čem je novo elektronsko sporočilo,social_post,0.7278,0.0021,False
+16891,sl-SL,email,email_sendemail,pošlji mihi novaku spletno sporočilo,email_sendemail,0.5194,0.5194,True
+16892,sl-SL,email,email_sendemail,začni in pošlji e-pošto janezu novaku,email_sendemail,1.0,1.0,True
+16899,sl-SL,email,email_query,sem prejel kaj elektronskih sporočil od mateja kladnika,social_post,0.9833,0.0001,False
+16914,sl-SL,email,email_query,ali imam elektronska sporočila od tega pošiljatelja,email_sendemail,1.0,0.0,False
+16916,sl-SL,email,email_sendemail,pozdravljen odgovori na spletno sporočilo ki sem ga prejela,social_post,0.9984,0.0001,False
+16924,sl-SL,email,email_query,poglej mojo novo pošto,social_post,0.3598,0.0031,False
+16930,sl-SL,email,email_query,pokaži zadnjo e-pošto,email_sendemail,1.0,0.0,False
+16938,sl-SL,email,email_sendemail,odgovori na janezova spletna sporočila,email_sendemail,0.9805,0.9805,True
+16944,sl-SL,email,email_sendemail,babici pošlji e-pošto in povej da pridemo v soboto se vidimo,email_sendemail,0.9996,0.9996,True
+16947,sl-SL,email,email_sendemail,odgovori na elektronsko sporočilo,email_sendemail,0.9998,0.9998,True
+16955,sl-SL,email,email_sendemail,pošlji spletno sporočilo novem stiku,social_post,0.9864,0.0007,False
+16956,sl-SL,email,email_sendemail,pošlji elektronsko sporočilo novemu stiku,social_post,0.8385,0.1532,False
+16961,sl-SL,email,email_sendemail,odgovori z,qa_factoid,0.7901,0.0027,False
+16974,sl-SL,email,email_query,preveri sporočilo od oddelka za dohodnino,email_sendemail,1.0,0.0,False
+16987,sl-SL,email,email_query,je kakšno novo elektronsko sporočilo od janeza,social_post,0.9904,0.0001,False
+16989,sl-SL,email,email_sendemail,prosim odgovori na elektronsko sporočilo gregorja da potrebujem denar zdaj da je nujno,email_sendemail,0.9999,0.9999,True
+16992,sl-SL,email,email_query,mi je marija novak poslala e-pošto,email_sendemail,1.0,0.0,False
+16995,sl-SL,email,email_sendemail,pošlji spletno sporočilo jožici,social_post,0.9722,0.0204,False
+17005,sl-SL,email,email_query,prosim preveri nova elektronska sporočila,email_sendemail,1.0,0.0,False
+17011,sl-SL,email,email_sendemail,lahko pošlješ elektronsko sporočilo na,email_sendemail,0.9985,0.9985,True
+17015,sl-SL,email,email_sendemail,začni odgovor,qa_factoid,1.0,0.0,False
+17019,sl-SL,email,email_sendemail,sestavi elektronsko sporočilo za zadnji email,email_sendemail,1.0,1.0,True
+17020,sl-SL,email,email_sendemail,odgovori na zadnje prejeto elektronsko sporočilo,email_sendemail,0.998,0.998,True
+17023,sl-SL,email,email_sendemail,pošlji mami elektronsko sporočilo in vprašaj kakšno vreme imajo,weather_query,0.995,0.0002,False
+17042,sl-SL,email,email_sendemail,napiši e-pošto za john afna gmail pika com,email_sendemail,1.0,1.0,True
+17043,sl-SL,email,email_sendemail,pošlji spletno sporočilo na tim afna hotmail pika com,email_sendemail,0.9746,0.9746,True
+17051,sl-SL,email,email_query,pridobi mi nov e-naslov,qa_factoid,1.0,0.0,False
+17052,sl-SL,email,email_query,išči nada,qa_factoid,0.9995,0.0,False
+17069,sl-SL,email,email_query,ali je kakšno novo elektronsko sporočilo v mojem outlooku,social_post,0.8609,0.0839,False
+17075,sl-SL,email,email_query,ali je danes po četrti prišlo kaj novih elektronskih sporočil,email_sendemail,0.5381,0.0064,False
+17081,sl-SL,email,email_sendemail,ustvari e-pošto za sodelavca z mojimi nedavno shranjenimi dokumenti,email_sendemail,1.0,1.0,True
+17087,sl-SL,email,email_query,preveri nova elektronska sporočila od sare,email_sendemail,1.0,0.0,False
+17098,sl-SL,email,email_query,prikaži mi vsa elektronska sporočila prejeta v zadnji uri,email_sendemail,0.9574,0.0029,False
+17107,sl-SL,email,email_query,preglej nova spletna sporočila,social_post,0.6658,0.0055,False
+17108,sl-SL,email,email_query,daj mi moje zadnje spletno sporočilo,social_post,0.9962,0.0006,False
+17113,sl-SL,email,email_sendemail,ustvari elektronsko sporočilo za julijo,email_sendemail,0.9608,0.9608,True
+17115,sl-SL,email,email_query,preberi spisek novih elektronskih sporočil,play_podcasts,0.8622,0.0032,False
+17116,sl-SL,email,email_query,prikaži seznam nedavnih elektronskih sporočil,social_post,0.2797,0.0084,False
+17119,sl-SL,email,email_query,preveri vsa e-sporočila od amazona,qa_factoid,0.9564,0.0008,False
+17123,sl-SL,email,email_sendemail,pošlji e-sporočilo za jutrišnji sestanek,email_sendemail,0.9317,0.9317,True
+17135,sl-SL,email,email_query,kaj spletnih sporočil o svetilih,recommendation_events,0.2959,0.0144,False
+17136,sl-SL,email,email_query,prosim preberi nove maile,email_sendemail,1.0,0.0,False
+17138,sl-SL,email,email_query,prosim arhiviraj moja prebrana sporočila,email_sendemail,1.0,0.0,False
+17142,sl-SL,email,email_query,kaj je v mojem nabiralniku od zadnjega pregleda,lists_query,0.1694,0.0452,False
+17143,sl-SL,email,email_sendemail,pozdravljen pošlji spletno sporočilo janezu,email_sendemail,0.9857,0.9857,True
+17144,sl-SL,email,email_query,živjo preveri elektronsko pošto,social_post,0.9508,0.0009,False
+17147,sl-SL,email,email_sendemail,odgovori na mail z naslednjo vsebino zdravo,email_sendemail,1.0,1.0,True
+17148,sl-SL,email,email_sendemail,aleksa odgovori na pošto z naslednjo vsebino živjo,social_post,0.978,0.0158,False
+17151,sl-SL,email,email_sendemail,moj prijatelj matej mi je poslal vabilo v njegovo na novo kupljeno hišo povej mu hvala v njegovem mail id,email_sendemail,1.0,1.0,True
+17156,sl-SL,email,email_query,preveri mojo elektronsko pošto in išči vsa nova sporočila od jožeta,social_post,0.8228,0.0949,False
+17157,sl-SL,email,email_query,imam kaj novih e-sporočil od janeza,qa_factoid,0.4468,0.0278,False
+17170,sl-SL,email,email_query,obvesti me ko mi januš pošlje elektronsko sporočilo,social_post,0.966,0.0002,False
+17179,sl-SL,email,email_query,mi je john poslal e-pošto,email_sendemail,1.0,0.0,False

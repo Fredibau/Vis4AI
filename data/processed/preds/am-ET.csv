@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,am-ET,iot,iot_hue_lightoff,ኦሊ መኝታ ቤት መብራት አጥፋ,qa_factoid,0.502,0.0013,False
+47,am-ET,datetime,datetime_query,ኬንያ ስንት ሰዓት ነው,datetime_query,0.9678,0.9678,True
+85,am-ET,datetime,datetime_query,የዛሬውን ቀን ንገሩኝ,social_post,0.3057,0.0223,False
+86,am-ET,datetime,datetime_query,ዛሬ ቀኑ ስንት ነው,calendar_remove,0.4519,0.0315,False
+100,am-ET,weather,weather_query,የሳምንቱ ትንበያ ምን ይመስላል,weather_query,0.7707,0.7707,True
+102,am-ET,weather,weather_query,የዚህ ሳምንት የአየር ሁኔታ ምን ይመስላል,weather_query,0.992,0.992,True
+103,am-ET,weather,weather_query,በዚህ ሳምንት ስላለው የአየር ሁኔታን ንገረኝ,weather_query,0.9833,0.9833,True
+128,am-ET,datetime,datetime_query,ቀኑ ምንድን ነው,qa_factoid,0.9984,0.0,False
+151,am-ET,play,play_music,ይህን ድገም,qa_factoid,0.4779,0.0511,False
+177,am-ET,news,news_query,የንግድ ስራ ዜናዎች ንገረኝ,social_post,0.7917,0.0315,False
+178,am-ET,news,news_query,አለም አቀፍዊ ዜናዎችን ንገረኝ,news_query,0.9285,0.9285,True
+182,am-ET,play,play_music,የእኔ የሮክ አጫዋች ዝርዝር አጫውት,play_radio,0.7294,0.0322,False
+185,am-ET,play,play_music,የእኔ የዘፈን ዝርዝር ከፈት እና ወረፋ ውስጥ ሶስተኛ ዘፈን አጫውት,qa_factoid,0.0798,0.046,False
+197,am-ET,datetime,datetime_query,ስንት ሰዓት ነው,datetime_query,0.9937,0.9937,True
+216,am-ET,weather,weather_query,ዛሬ የአየር ሁኔታው ​​እንዴት ነው,weather_query,0.9975,0.9975,True
+219,am-ET,weather,weather_query,እኔ ነገ ጃንጥላ አለብኝ እንዴ,qa_factoid,0.8676,0.0152,False
+220,am-ET,play,play_music,ባቲ ዝርዝር ሙዚቃ አጫውት,iot_hue_lightoff,0.3104,0.0674,False
+250,am-ET,play,play_music,አሁን እንደ ጃዝ ይሰማኛል አንተስ,social_post,0.7603,0.0453,False
+254,am-ET,play,play_music,ኦሊ የእኔ የሚወደድ ጃዝ ተጫዋች ጥሩ ትራክ አጫውት,email_sendemail,0.6258,0.0009,False
+279,am-ET,weather,weather_query,አሰላ የዛሬው የአየር ሁኔታ ምን ይመስላል,weather_query,0.9952,0.9952,True
+281,am-ET,news,news_query,ከኢትዮጵያ ብር ወደ ዩ. ኤስ. ዶላር የምንዛሪ ተመን ስንት ነው,qa_factoid,0.8802,0.0051,False
+296,am-ET,play,play_music,የኔ ዜማ ሚለውን ያጫውቱ,social_post,0.8856,0.0006,False
+297,am-ET,play,play_music,የ ቴዲ አፍሮ ዘፈኖችን አዋህድ,social_post,0.8587,0.006,False
+299,am-ET,weather,weather_query,የአየር ሁኔታው ​​እንዴት ነው,weather_query,0.732,0.732,True
+310,am-ET,datetime,datetime_query,በዚህ አመት የአዲስ ዓመት ዋዜማ ምን ቀን ነው,datetime_query,0.9271,0.9271,True
+319,am-ET,weather,weather_query,አዳማ ላይ ከሁለት ቀን በኋላ የሚኖረውን የአየር ሁኔታ ንገረኝ,weather_query,0.7675,0.7675,True
+329,am-ET,play,play_music,ሰባት ዓመታት,qa_factoid,0.9975,0.0001,False
+333,am-ET,weather,weather_query,በአፋር ውስጥ የአየር ሁኔታው ምን ይመስላል,weather_query,0.3859,0.3859,True
+334,am-ET,weather,weather_query,የ ድሬዳዋን የአየር ሁኔታ ማወቅ እፈልጋለሁ,iot_hue_lightoff,0.8164,0.0143,False
+344,am-ET,weather,weather_query,ነገ ዝናባማ ይሆናል,qa_factoid,0.9549,0.0048,False
+348,am-ET,weather,weather_query,ነገ ዝናብ ይዘንባል,cooking_recipe,0.8684,0.0034,False
+355,am-ET,datetime,datetime_query,የመጋቢት መጀመሪያ በምን ዕለት ነው የሚውለው,weather_query,0.9785,0.0123,False
+360,am-ET,datetime,datetime_query,የአሁኑ ሰዓት ስንት ነው,datetime_query,0.9721,0.9721,True
+362,am-ET,play,play_music,ከ ቴዲ አፍሮ ዘፈን ሁለተኛው ዘፈን አጫውት,social_post,0.4328,0.0099,False
+366,am-ET,news,news_query,እባክ ንገረኝና ወቅታዊ ዜና,email_sendemail,0.9998,0.0,False
+369,am-ET,iot,iot_hue_lightoff,መብራቶች አጥፋ,qa_factoid,0.8398,0.0105,False
+385,am-ET,news,news_query,ሪፖርተር ላይ አንገብጋቢ ነገር ምንድን ነው,news_query,0.529,0.529,True
+391,am-ET,play,play_music,ከእኔ የሙዚቃ ዝርዝር በዘፈቀደ ዘፈን አጫውት,iot_hue_lightoff,0.5032,0.0252,False
+393,am-ET,play,play_music,የእኔ አጫዋች ዝርዝር ውስጥ ትዝታ ዘፈን አጫውት,email_query,0.3418,0.0166,False
+397,am-ET,play,play_music,ማንኛውንም ዘፈን ጥላሁን ገሰሰ ያጫውቱ,social_post,0.711,0.1986,False
+400,am-ET,play,play_music,አስጀምረው እደ አዲስ,qa_factoid,0.9045,0.0083,False
+407,am-ET,play,play_music,ለሚቀጥለው ሰዓት የ ሮክ ሙዚቃ መጫወት ትችላለህ,cooking_recipe,0.2171,0.0691,False
+424,am-ET,news,news_query,የትኞቹ ናቸው ሰበር ዜናዎች,qa_factoid,0.8842,0.0246,False
+427,am-ET,iot,iot_hue_lightoff,የመታጠብያ ቤቱን መብራቶች አጥፋ,qa_factoid,0.1332,0.0453,False
+428,am-ET,iot,iot_hue_lightoff,የመተጠቢያ ክፍሉን መብራቶች አጥፋ,email_sendemail,0.3403,0.1676,False
+430,am-ET,weather,weather_query,አሁን የአየር ሁኔታ ምን ይመስላል,weather_query,0.9754,0.9754,True
+437,am-ET,play,play_music,መረዋ ማህደርን ክፈት,qa_factoid,0.997,0.0001,False
+441,am-ET,news,news_query,አዲስ አርእስተ ዜኖች ምን ምን ናቸው,email_query,0.656,0.0047,False
+442,am-ET,news,news_query,በዜና ውስጥ ምን እየሆነ ነው,qa_factoid,0.9675,0.0019,False
+451,am-ET,news,news_query,ስለ የሚድሮክ አክሲዮን ዋጋ የቅርብ ጊዜ መረጃ ስጠኝ,recommendation_events,0.3039,0.0328,False
+473,am-ET,play,play_music,ቴዲ አፍሮ አጫውት,qa_factoid,0.9194,0.0,False
+486,am-ET,datetime,datetime_query,አዲስ አበባ ከተማ ስንት ሰዓት ነው,datetime_query,0.9679,0.9679,True
+491,am-ET,weather,weather_query,ውጭው ቀዝቃዛ ነው,iot_hue_lightoff,0.2061,0.1898,False
+506,am-ET,play,play_music,ማሚላ ኪቺኒ ዘፈኖች ን ይክፈቱ,qa_factoid,0.3849,0.026,False
+512,am-ET,weather,weather_query,በአሊ ቢራ,qa_factoid,1.0,0.0,False
+540,am-ET,play,play_music,በ ቴዲዮ አልመጣም ሙዚቃ አጫውት,social_post,0.6908,0.1053,False
+555,am-ET,play,play_music,ቴዲ አፍሮ ላምባዲና አጫውት,qa_factoid,0.9384,0.0009,False
+576,am-ET,play,play_music,ሁሉንም በአጫዋች ዝርዝር ያጫውቱ,play_podcasts,0.7797,0.0171,False
+585,am-ET,news,news_query,ወቅታዊ ዜና አሳየኝ,qa_factoid,0.9851,0.0003,False
+588,am-ET,news,news_query,አዲስ ዜና ምን አለ ዛሬ,news_query,0.3619,0.3619,True
+590,am-ET,weather,weather_query,የአሁን አየር ሁኔታ ምንድን ነው,weather_query,0.806,0.806,True
+614,am-ET,play,play_music,አጫዋች ዝርዝር ጀምር,play_radio,0.9599,0.0183,False
+625,am-ET,play,play_music,እባክህን በሬዲዮ የ ቴዲ አፍሮ ዘፈን አጫውት,social_post,0.9321,0.0019,False
+631,am-ET,news,news_query,ስለአየር ንብረት መረጃ ማሳወቂያ አርግ,qa_factoid,0.6908,0.0147,False
+651,am-ET,iot,iot_hue_lightoff,የ ክፍል መብራቶች ን አጥፋ,iot_hue_lightoff,0.1954,0.1954,True
+660,am-ET,datetime,datetime_query,አሁን ጃፓን ላይ ስንት ሰዓት ነው,weather_query,0.9891,0.0046,False
+680,am-ET,news,news_query,የውጭ ምንዛሬ በተመለከተ አሳውቀኝ,social_post,0.859,0.0104,False
+686,am-ET,datetime,datetime_query,አዲስ አበባ አሁን ስንት ሰዓት ነው,datetime_query,0.7981,0.7981,True
+712,am-ET,news,news_query,የመጨረሻውን ዜና ከ ኢ. ቢ. ሲ. መስማት እፈልጋለሁ,news_query,0.9613,0.9613,True
+726,am-ET,weather,weather_query,የሳምንቱን የአየር ሁኔታ ዝርዝሮችን አጠቃል,weather_query,0.555,0.555,True
+730,am-ET,iot,iot_hue_lightoff,መብራቶቹን በማዞር አጥፋ,qa_factoid,0.2442,0.031,False
+738,am-ET,weather,weather_query,ዛሬ ቅዝቃዜዉ እንዴት ነዉ,social_post,0.3721,0.2885,False
+764,am-ET,weather,weather_query,በዚህ ሳምንት የአየር ሁኔታ ትንበያ ምንድነው,weather_query,0.9837,0.9837,True
+765,am-ET,news,news_query,ከአዲሱ አቅራቢዬ አዲስ አርእስተ ዜና ታሳውቀኝ,email_sendemail,1.0,0.0,False
+767,am-ET,news,news_query,እባክዎን ብዙውን ጊዜ ከማልሄድበት ምንጭ የቅርብ ጊዜ ዜናዎችን ማግኘት ይችላሉ,lists_query,0.1606,0.0362,False
+768,am-ET,news,news_query,ስለ ወቅታዊው ፖለቲካዊ ዜና ንገረኝ,email_sendemail,0.3825,0.0489,False
+779,am-ET,play,play_music,የኔ ቆንጆ በ እዮብ መኮነን መስማት እፈልጋለሁ,qa_factoid,0.3361,0.0179,False
+781,am-ET,play,play_music,ላምባዲና አጫውት,qa_factoid,0.6615,0.0033,False
+782,am-ET,play,play_music,ሰበቡ በ አስቴር አወቀ አጫውት,qa_factoid,0.8055,0.0036,False
+783,am-ET,play,play_music,የፍቅር ዘፈኖች ን ተጫወት,play_podcasts,0.7644,0.0848,False
+790,am-ET,weather,weather_query,ተመጣጣኝ ወይም ከባድ የአየር ንብረት,cooking_recipe,0.2998,0.0264,False
+826,am-ET,weather,weather_query,አሁን ላይ ውጭ ያለው መጠነ ሙቀት እንዴት ነው,qa_factoid,0.4104,0.06,False
+827,am-ET,play,play_music,መሐሙድ አህመድ አጫዋች ዝርዝር አጫውት,social_post,0.8918,0.0026,False
+832,am-ET,weather,weather_query,ሄይ ለነገ የተተነበየው የአየር ሁኔታ ምንድን ነው,qa_factoid,0.6865,0.0025,False
+837,am-ET,news,news_query,ለመጪው የአሜሪካ ምርጫ የቢ. ቢ. ሲ. አስተያየት መስጫ ትንበያዎች ምንድናቸው,social_post,0.11,0.0634,False
+891,am-ET,play,play_music,ጥቂት የኦርቶዶክስ መዝሙር አጫውት,iot_hue_lightoff,0.8324,0.0463,False
+914,am-ET,iot,iot_hue_lightoff,እባክዎን መብራቶች ን ያጥፉ,social_post,0.943,0.0011,False
+936,am-ET,play,play_music,ከሮጫዬ አጫዋች ዝርዝር ውስጥ ከፍተህ ሙዚቃ አጫውት,qa_factoid,0.2157,0.0292,False
+951,am-ET,weather,weather_query,አሁን የአየር ሁኔታው መን ይመስላል አድስ አበባ dellet,weather_query,0.9914,0.9914,True
+969,am-ET,news,news_query,በአንድ የተወሰነ ርዕሰ ጉዳይ ላይ የዜና አምድ,email_sendemail,0.1088,0.0659,False
+974,am-ET,datetime,datetime_query,ባህር ዳር ስንት ሰአት ነው አሁን,datetime_query,0.8452,0.8452,True
+997,am-ET,iot,iot_hue_lightoff,የሳሎኑን መብራት አጥፋ,iot_hue_lightoff,0.1942,0.1942,True
+999,am-ET,iot,iot_hue_lightoff,መብራት ማጥፍት ትቺላለህ,qa_factoid,0.8769,0.0201,False
+1007,am-ET,play,play_music,የኔ ትዝታ የዘፈን ዝርዝር እዮብ መኮንን አጫውት,social_post,0.5385,0.0646,False
+1014,am-ET,datetime,datetime_query,አዲስ አበባ አሁን ስንት ሰዓት ነው,datetime_query,0.7981,0.7981,True
+1047,am-ET,play,play_music,በደንብ ማልቀስ እፈልጋለሁ የሚያሳዝኑ ትዝታ ዘፈኖች መጫውት ትችላለህ,play_music,0.7996,0.7996,True
+1061,am-ET,news,news_query,ስለ ሰሞኑን ስፖርት ዜናዎች ንገር,news_query,0.4712,0.4712,True
+1063,am-ET,news,news_query,በ ስፖርታዊ ዜና ላይ በየሰአቱ ማሳወቂያ ያግኙ,news_query,0.4244,0.4244,True
+1084,am-ET,news,news_query,ለአጠቃቀም አመቺ,qa_factoid,0.9968,0.0,False
+1093,am-ET,news,news_query,የነጋሪት ድህረ ገጽ ላይ ግባ,qa_factoid,0.9705,0.0006,False
+1098,am-ET,datetime,datetime_query,የካቲት አስራ አምስት በምን ዕለት ነው የሚውለው,datetime_query,0.5615,0.5615,True
+1108,am-ET,play,play_music,የእኔ የኔ ዜማ ፍላጎት አንዳንድ የ ሀገር ሙዚቃ ማዳመጥ ነው,cooking_recipe,0.1803,0.053,False
+1115,am-ET,play,play_music,ሁሉም ፖፕ ዘፈን ዘውጎች አስተካክል,qa_factoid,0.7757,0.0035,False
+1120,am-ET,news,news_query,በ ፖለቲካ ውስጥ ልዩ ነገር አለ,qa_factoid,0.4641,0.0153,False
+1121,am-ET,play,play_music,በ አሰፉ ደባልቄ አግዘኝ አጫውት,qa_factoid,0.6416,0.0004,False
+1123,am-ET,play,play_music,ቀጥሎ የእዮብ መኮንን የኔ ቆንጆ አጫውት,social_post,0.8572,0.0048,False
+1124,am-ET,play,play_music,ቀጥሎ ለመጫወት ቴዎድሮስ ደማም ያግኙ,recommendation_events,0.3899,0.0277,False
+1127,am-ET,play,play_music,ሁሉም ዘፈን አሰባጥርህ አጫውት,play_radio,0.2854,0.1014,False
+1144,am-ET,play,play_music,አንዳንድ ትዝታ እፈልጋለሁ,qa_factoid,0.9864,0.0003,False
+1148,am-ET,datetime,datetime_query,ኢትዮጲያ ላይ አሁን ስንት ሰዓት ነው,qa_factoid,0.366,0.1875,False
+1156,am-ET,news,news_query,ስለ አለማቀፍ የሴቶች ቀን ያለ አዲስ ዜና,social_post,0.9959,0.0002,False
+1160,am-ET,weather,weather_query,በዚህ ሳምንት በእያንዳንዱ ምሽት ምን ያህል ቀዝቃዛ ይሆናል,weather_query,0.8635,0.8635,True
+1180,am-ET,news,news_query,ስለ አብይ የዛሬ የ አዲስ ዘመን አምዶች ያግኙ,social_post,0.582,0.0027,False
+1202,am-ET,datetime,datetime_query,አሁን ጊዜ በአዲስ አበባ,weather_query,0.446,0.0131,False
+1238,am-ET,play,play_music,ፓንዶራ,qa_factoid,0.9888,0.0,False
+1249,am-ET,weather,weather_query,የዚህ ሳምንት የአየር ሁኔታ እንዴት ሊሆን ይችላል,weather_query,0.9891,0.9891,True
+1252,am-ET,datetime,datetime_query,የአሁኑን ሰዓት ንገረኝ,datetime_query,0.4216,0.4216,True
+1294,am-ET,news,news_query,የ አካዳሚ ሽልማቶች ን ዜና አፋጠንልኝ,play_radio,0.1239,0.0396,False
+1301,am-ET,news,news_query,የትራምፕ የውጭ ጉዳይ ፖሊሲ ንገረኝ,qa_factoid,0.2582,0.0973,False
+1308,am-ET,weather,weather_query,የዛሬውን የአየር ንብረት ትንበያ እዚህ ያግኙ,recommendation_events,0.2638,0.0189,False
+1318,am-ET,play,play_music,የ ሙዚቃ መተግበሪያ ጀምር እና ለእኔ ዘፈን አጫውት,iot_hue_lightoff,0.1496,0.0355,False
+1351,am-ET,weather,weather_query,በዚህ ሳምንት ውጪው አሪፍ ይሆን,qa_factoid,0.9836,0.0006,False
+1371,am-ET,news,news_query,በ አዲስ ዘመን የፊት ገጽ ላይ ምን አለን,lists_query,0.453,0.0807,False
+1377,am-ET,iot,iot_hue_lightoff,የወንድ ልጄን ክፍል መብራት አጥፋ,iot_hue_lightoff,0.0878,0.0878,True
+1400,am-ET,weather,weather_query,ብዙ ግዜ ሀሳቤን እሰበስባለሁኝ,social_post,0.4065,0.0051,False
+1401,am-ET,weather,weather_query,አልፎ አልፎ ትኩረት እሰጣለሁ,calendar_remove,0.3916,0.0108,False
+1404,am-ET,weather,weather_query,እባክህ ነገ መቀሌ የአየር ሁኔታ ማግኛት እችላለሁ,qa_factoid,0.8653,0.0051,False
+1423,am-ET,news,news_query,ስለ አብይ ንገረኝ,email_sendemail,0.882,0.0006,False
+1425,am-ET,news,news_query,ስለ ፈረንሳይ ስትሰማ አሳውቀኝ,social_post,0.9299,0.0068,False
+1440,am-ET,play,play_music,ደረጃ አራት እና ከዛ በላይ የሆኑ የቅርብ ጊዜ የ rock ሙዚቃዎች አጫውት,play_music,0.0763,0.0763,True
+1449,am-ET,datetime,datetime_query,በሁለት ሺሕ አሥራ ስምንት ዓመት ፋሲካ መቼ ይሆናል,iot_hue_lightoff,0.5018,0.1652,False
+1458,am-ET,weather,weather_query,ቦረና ምን ያህል ሞቃት ነው,qa_factoid,0.9984,0.0001,False
+1467,am-ET,play,play_music,ሮፍናን ይጫወቱ,play_radio,0.989,0.0016,False
+1474,am-ET,news,news_query,የዛሬ ስፖርት ዜና ምንድን ነው,news_query,0.9973,0.9973,True
+1489,am-ET,play,play_music,የ አሰፉ ደባልቄ አዲስ ዘፈኖች አጫውት,social_post,0.9842,0.0007,False
+1513,am-ET,weather,weather_query,ከቤት ውጭ ያለው የሙቀት መጠን ስንት ነው,qa_factoid,0.945,0.002,False
+1533,am-ET,news,news_query,ዛሬ ኢ. ቢ. ሲ. ላይ ምን አዲስ ዜና ነበር,news_query,0.9341,0.9341,True
+1537,am-ET,datetime,datetime_query,የኢትዮጲያ የአሁኑን ሰዓት አሳየኝ,email_sendemail,0.99,0.0006,False
+1542,am-ET,weather,weather_query,ፀሀይዋ ደምቃለች የአየር ሁኔታው ቀኑን ሙሉ እንዲሁ ይውላል,weather_query,0.1593,0.1593,True
+1546,am-ET,play,play_music,የእኔን የክረምት ዘፈኖች ዝርዝር አጫውት,iot_hue_lightoff,0.5798,0.0279,False
+1547,am-ET,weather,weather_query,በዚህ ሳምንት የእኔ አካባቢ የአየር ሁኔታ ምንድን ነው,weather_query,0.9907,0.9907,True
+1549,am-ET,weather,weather_query,በዚህ ሳምንት ዝናብ ይዘንባል,cooking_recipe,0.253,0.1223,False
+1554,am-ET,iot,iot_hue_lightoff,አምፖሎቹን አጥፋ,qa_factoid,0.8625,0.0106,False
+1581,am-ET,datetime,datetime_query,የአሁኑ ቀን ወር እና ዓመተ ምህረት ስንት ነው,datetime_query,0.4375,0.4375,True
+1589,am-ET,weather,weather_query,በሚቀጥለው ማክሰኞ ፀሀያማ ሊሆን ይሆናል,calendar_remove,0.51,0.0068,False
+1593,am-ET,news,news_query,ለዓለም ዜና ማሳወቂያ አዘጋጅ,qa_definition,0.5367,0.0001,False
+1594,am-ET,news,news_query,የቅርብ ዜናዎችን ልትነግሩኝ ትችላላችሁ,weather_query,0.5663,0.0239,False
+1607,am-ET,datetime,datetime_query,ሀዋሳ ላይ አሁን ስንት ሰዓት ነው,datetime_query,0.4822,0.4822,True
+1617,am-ET,news,news_query,አንድ ጊዜ በ ፖለቲካ ላይ አዲስ ርዕስ ሲመጣ አሳውቀኝ,qa_factoid,0.272,0.0265,False
+1636,am-ET,news,news_query,የቅርብ ጊዜውን ከአዲስ አድማስ ዜና አሳየኝ,email_sendemail,0.5496,0.0535,False
+1653,am-ET,weather,weather_query,መች ነው ቀጣይ ዝናብ የሚጥለው,play_music,0.8301,0.0018,False
+1655,am-ET,weather,weather_query,ነገ እኩለ ቀን ላይ በረዶ ይጥላል,weather_query,0.4558,0.4558,True
+1666,am-ET,news,news_query,ንፁህ ዜና ባለፉት ስድስት ሰዓታት ውስጥ ምንድን ነው,social_post,0.3019,0.1422,False
+1671,am-ET,play,play_music,በዓመቱ መካከል የተለቀቁትን ሁሉንም ሙዚቃዎች ብቻ ያጫውቱ አንድ ሺህ ዘጠኝ መቶ ዘጠና ና ሁለት ሺ,recommendation_events,0.6414,0.0151,False
+1683,am-ET,weather,weather_query,የነገ የሙቀት መጠን ሞቃታማ ነው ወይስ አይደለም,qa_factoid,0.9039,0.0085,False
+1684,am-ET,weather,weather_query,የነገው የሙቀት ሁኔታ ሞቃታማ ነው ወይንስ አይሞቅም,qa_factoid,0.8346,0.0249,False
+1692,am-ET,play,play_music,አንዳንድ ለስላሳ ጃዝ አግኝልኝ,social_post,0.9614,0.0004,False
+1722,am-ET,weather,weather_query,የ ድሬዳዋ ዝቅተኛ የሙቀት መጠን ስንት ነው,weather_query,0.9468,0.9468,True
+1750,am-ET,iot,iot_hue_lightoff,ሁሉም መብራቶች አጥፋ,qa_factoid,0.5032,0.0236,False
+1759,am-ET,news,news_query,ስለ ፕሬዚደንት ደመቀ ዜና አቅርብ,email_sendemail,0.0694,0.047,False
+1760,am-ET,news,news_query,ሽብርተኛነት ን በተመለከተ ትኩሱ ዜና,social_post,0.9748,0.0004,False
+1777,am-ET,play,play_music,ቀጣይ ዘፈን,qa_factoid,0.9992,0.0,False
+1784,am-ET,iot,iot_hue_lightoff,የ መመገቢያ ክፍል አጥፋ,weather_query,0.0537,0.0498,False
+1786,am-ET,iot,iot_hue_lightoff,የዋና መኝታ ቤቱን ዝጋ,email_sendemail,0.1811,0.0349,False
+1794,am-ET,news,news_query,ሀይለማርያም በቅርቡ ኬንያን ይጎበኛል,qa_factoid,0.3724,0.0072,False
+1796,am-ET,datetime,datetime_query,ዛሬው ቀን,weather_query,0.9841,0.0003,False
+1803,am-ET,news,news_query,የኢትዮጵያ ፕሪምየር ሊግ ላይ ዛሬ የትኛው ቡድን ይጫወታል,recommendation_events,0.4148,0.0349,False
+1811,am-ET,play,play_music,አጫዋች ዝርዝር ይጀምሩ እና ሙዚቃ ያጫውቱ,play_radio,0.3574,0.1231,False
+1832,am-ET,play,play_music,እዮብ አልበም አጫውት,social_post,0.8249,0.0,False
+1833,am-ET,play,play_music,የአጫዋች ዝርዝሩን እንዲዞር አድርግ,iot_hue_lightoff,0.6106,0.0072,False
+1866,am-ET,weather,weather_query,አሁን ያለው የአየር ሁኔታ ሪፖርት,iot_hue_lightoff,0.1556,0.0402,False
+1870,am-ET,datetime,datetime_query,ዛሬ ወሩ ምንድን ነዉ,weather_query,0.3471,0.0937,False
+1904,am-ET,news,news_query,ስለ ዋና ዋና ውድድሮች አሳውቀኝ,social_post,0.9462,0.0024,False
+1933,am-ET,weather,weather_query,ዛሬ ማታ የሙቀት መጠን ይቀንስ ይሆን,weather_query,0.9707,0.9707,True
+1940,am-ET,play,play_music,ላምባዲና ዘፈን አጫውት,social_post,0.8552,0.0034,False
+1962,am-ET,play,play_music,ሰላም ጉግል በጋና መተግበሪያዬ ውስጥ ፈታ የዘፈን ዝርዝር አጫውት,play_radio,0.3317,0.0916,False
+1994,am-ET,play,play_music,የኔ አይቱንስ መክፈት ትችላለህ,iot_hue_lightoff,0.7535,0.0001,False
+1995,am-ET,play,play_music,ጃኖ ባንድ አጫውት,social_post,0.9081,0.0006,False
+2007,am-ET,play,play_music,እባክህ አስራ ሶስት አጫውት,lists_remove,0.2596,0.0209,False
+2062,am-ET,play,play_music,ጥቂት የጃዝ ሙዚቃ እንዲጫወት እፈልጋለው,play_music,0.8427,0.8427,True
+2085,am-ET,play,play_music,አሌክሳ ከ ጥላሁን ወይም መሃሙድ በስተቀር ክላሲካል መክፈት እፈልጋለሁ,qa_factoid,0.9453,0.0011,False
+2098,am-ET,news,news_query,አለም ላይ ሰሞኑን ምን እየተፈጠረ ነው,news_query,0.5711,0.5711,True
+2108,am-ET,play,play_music,የሚቀጥለው ጨዋታ ነይ በክረምት,play_music,0.4699,0.4699,True
+2113,am-ET,recommendation,recommendation_events,አሁን መኖሪያ ከተማ እየተከናወኑ ያሉ ክስትቶችን አሳየኝ,social_post,0.3269,0.0292,False
+2146,am-ET,datetime,datetime_query,ከሁለት ዓመታት በኋላ ፀሐይ ከምድር ወገብ የትርቅበት ክረምት መቼ ነው የሚውለው,weather_query,0.5989,0.3675,False
+2156,am-ET,datetime,datetime_query,አሁን ስንት ሰዓት እንደሆነ ማወቅ እፈልጋለሁ,datetime_query,0.9757,0.9757,True
+2160,am-ET,iot,iot_hue_lightoff,አሁን ልተኛ ነው,qa_factoid,0.9972,0.0001,False
+2178,am-ET,weather,weather_query,የኔ ቦታ የአየር ሁኔታ ምን ይመስላል,iot_hue_lightoff,0.8046,0.0292,False
+2198,am-ET,datetime,datetime_query,ታህሳስ አራት አንድ ሺህ ዘጠኝ መቶ ሰማንያ ሁለት በምን ዕለት ነበር የዋለው,email_sendemail,0.4487,0.4039,False
+2201,am-ET,news,news_query,ኢ. ቢ. ሲ. አርእስተ ዜና,social_post,0.5047,0.0004,False
+2203,am-ET,news,news_query,ኢ. ቲ. ቪ. አለም አቀፍ ርዕሰ ጉዳዮች,social_post,0.2384,0.0324,False
+2220,am-ET,weather,weather_query,በአዲስ አበባ የአየር ሁኔታ,weather_query,0.9931,0.9931,True
+2225,am-ET,play,play_music,የጃኖ ባንድ አበባ እና ንብ አጫውት,email_query,0.4894,0.0172,False
+2230,am-ET,iot,iot_hue_lightoff,የወጥ ቤቱን መብራት አጥፋ,qa_factoid,0.4427,0.0323,False
+2237,am-ET,news,news_query,የቅርብ አለም አቀፍ ዜናዎችን አንብብልኝ,email_sendemail,0.7063,0.2025,False
+2258,am-ET,weather,weather_query,ዛሬ ሹራብ ያስፈልገኛል,qa_factoid,0.9118,0.0002,False
+2265,am-ET,weather,weather_query,አሁን በ ባህር ዳር አማራ ውስጥ የአየር ሁኔታ ምን እንደሆነ ንገረኝ,weather_query,0.7967,0.7967,True
+2271,am-ET,play,play_music,እባክህ የገዛሁዋቸው እና ተወዳጅ ያደርኩዋቸው ዘፈኖች አጫውት,recommendation_events,0.4975,0.0163,False
+2296,am-ET,news,news_query,የዛሬ የእግር ኳስ ውጤቶች ንገረኝ,news_query,0.8912,0.8912,True
+2298,am-ET,iot,iot_hue_lightoff,መብራቶቹን አሁን አጥፋቸው,qa_factoid,0.3693,0.0177,False
+2315,am-ET,news,news_query,የዛሬ ዜና ምንድነው,news_query,0.9942,0.9942,True
+2316,am-ET,news,news_query,ኣልማዝ አርስተ ዜናውን ንገሪኝ,social_post,0.8549,0.0007,False
+2320,am-ET,weather,weather_query,በዚህ አርብ የአየር ሁኔታ ምንድነው,weather_query,0.991,0.991,True
+2322,am-ET,weather,weather_query,ነገ የአየር ሁኔታው ምን ይመስላል,weather_query,0.6603,0.6603,True
+2330,am-ET,datetime,datetime_query,የአዲስ አበባን ሰዓት አሁን አሳየኝ,datetime_query,0.5554,0.5554,True
+2384,am-ET,news,news_query,በ አለም ዙሪያ ምን እየሆነ ነው,qa_factoid,0.8412,0.0072,False
+2386,am-ET,news,news_query,የቅርብ ጊዜውን ዜና ስጠኝ,news_query,0.4046,0.4046,True
+2396,am-ET,play,play_music,የሙላቱ አስታጥቄ ዘፈኖችን ጀምር,cooking_recipe,0.4347,0.0098,False
+2408,am-ET,play,play_music,ከቴዲ አፍሮ ተጨማሪ ዘፈኖችን ፈልግ,recommendation_events,0.9853,0.0009,False
+2412,am-ET,datetime,datetime_query,ሀዋሳ ስንት ሰዓት እንደሆነ ትነግረኝ,datetime_query,0.5889,0.5889,True
+2423,am-ET,weather,weather_query,አድስ አበባ የዛሬ የአየር ትንበያ ምን ይመስላል,weather_query,0.9447,0.9447,True
+2438,am-ET,news,news_query,የ ቴክኖሎጂ ዜና ላክ,email_sendemail,1.0,0.0,False
+2441,am-ET,iot,iot_hue_lightoff,የበረንዳውን መብራት አጥፋው,cooking_recipe,0.9938,0.0034,False
+2472,am-ET,datetime,datetime_query,አሁን ባለሁበት ቦታ ሰአቱ ልክ ነው,iot_hue_lightoff,0.4482,0.0081,False
+2496,am-ET,news,news_query,እለተ ዜና,qa_factoid,0.9684,0.0005,False
+2497,am-ET,datetime,datetime_query,ዛሬ ቀኑ ምንድን ነዉ,calendar_remove,0.4811,0.0247,False
+2498,am-ET,datetime,datetime_query,ሲሪ ዛሬ ቀኑ ምንድን ነው,weather_query,0.3365,0.0204,False
+2527,am-ET,play,play_music,ትዝታ ይጫወቱ,play_radio,0.7728,0.0412,False
+2531,am-ET,play,play_music,አሌክሳ የ ራፕ እና የ ሮክ ዘፈን አንድ በአንድ ያጫውቱ,social_post,0.2982,0.0369,False
+2545,am-ET,weather,weather_query,የአየር ሁኔታው እንዴት ነው,qa_factoid,0.4518,0.1487,False
+2548,am-ET,news,news_query,ከ ኢ. ቢ. ኤስ. ዜና አስደሳች የሆነ ነገር,social_post,0.5931,0.0044,False
+2560,am-ET,play,play_music,የዘፈቀደ ሙዚቃ አጫውት,qa_factoid,0.9869,0.0006,False
+2573,am-ET,play,play_music,የእኔ ስፖትፋይ ውዝዋዜ ጨዋታ ዝርዝር አጫውት,play_music,0.4884,0.4884,True
+2578,am-ET,iot,iot_hue_lightoff,የ በረንዳ መብራት አጥፋ,cooking_recipe,0.1363,0.1073,False
+2588,am-ET,news,news_query,እባክዎን ከ ኢ. ቢ. ሲ. ምን የቅርብ ዜናዎች አሉ,news_query,0.8922,0.8922,True
+2594,am-ET,news,news_query,ስለ ወቅታዊ አካባቢያዊ ዜናዎች ንገረኝ,social_post,0.3156,0.1574,False
+2605,am-ET,play,play_music,የእኔ ን ተወዳጅ ሙዚቃ አሁን አጫዉት,recommendation_events,0.6606,0.0118,False
+2611,am-ET,weather,weather_query,አሁናዊ የአየር ሁኔታ ትንበያ,qa_factoid,0.4225,0.1676,False
+2615,am-ET,weather,weather_query,እሮብ ጃኬት መልበስ አለብኝ እንዴ,iot_hue_lightoff,0.3851,0.0146,False
+2638,am-ET,news,news_query,ስለ አብይ አህመድ ዜና አሳይ ኝ,social_post,0.7297,0.0019,False
+2639,am-ET,news,news_query,ስለ ኣከባቢ አየር ዜና ኣሳየኝ,social_post,0.7216,0.0276,False
+2651,am-ET,news,news_query,የአካባቢው አዳዲስ ዜና,qa_factoid,0.263,0.0153,False
+2678,am-ET,weather,weather_query,ዛሬ ማታ ይዘንባል,cooking_recipe,0.6158,0.0219,False
+2679,am-ET,weather,weather_query,የሙቀት መጠኑ እንደዚያው ይቆያል ወይንስ እየቀዘቀዘ ይሄዳል,weather_query,0.6321,0.6321,True
+2703,am-ET,play,play_music,እብክህ ህዝባዊ ሙዚቃ አጫውት,qa_factoid,0.6265,0.0374,False
+2704,am-ET,play,play_music,ጥቂት ኢንዲያን ሮክ እንስማ እሺ,social_post,0.8449,0.0131,False
+2708,am-ET,play,play_music,መደነስ አምሮኛል የኔ ዜማን አጫውትልኝ,news_query,0.9184,0.0006,False
+2709,am-ET,play,play_music,ኦሊ ዛሬ ጥቂት የእንጉርጉሮ ዘፈኖችን መስማት እፈልጋለሁ,social_post,0.7255,0.0049,False
+2711,am-ET,iot,iot_hue_lightoff,መብራቶች አጥፋ,qa_factoid,0.8398,0.0105,False
+2717,am-ET,play,play_music,ማር እስከ ጧፍን መስማት እፈልጋለው,email_sendemail,0.9666,0.0012,False
+2724,am-ET,news,news_query,ሲ. ኤን. ኤን. ዜና ንገረኝ,email_sendemail,0.9311,0.0005,False
+2770,am-ET,play,play_music,አበበ ከ ጃዝ ዘውግ ሙዚቃ አጫውት,qa_factoid,0.2143,0.036,False
+2774,am-ET,iot,iot_hue_lightoff,መብራቶች አጥፋ,qa_factoid,0.8398,0.0105,False
+2775,am-ET,iot,iot_hue_lightoff,መብራቶቹን አቋርጥ,qa_factoid,0.9756,0.0024,False
+2777,am-ET,weather,weather_query,ዛሬ ዣንጥላ ይዤ ልምጣ,email_query,0.9906,0.0005,False
+2781,am-ET,play,play_music,እባክህን ጥቂት የጃዝ ሙዚቃዎችን አጫውት,social_post,0.3165,0.2252,False
+2798,am-ET,play,play_music,alexa ላምባዲና ዘፈንን አጫውት,qa_factoid,0.5779,0.0151,False
+2801,am-ET,datetime,datetime_query,አዲስ አበባ ላይ ስንት ሰዓት ነው,datetime_query,0.6756,0.6756,True
+2824,am-ET,datetime,datetime_query,ታህሳስ አስራ ሶስት ዕለቱ ምንድን ነው,email_query,0.2059,0.0531,False
+2840,am-ET,datetime,datetime_query,የሚቀጥለዉ ወር ሁለተኛ ቀን የሚውለው በምን ዕለት ነው,weather_query,0.4962,0.3822,False
+2859,am-ET,datetime,datetime_query,ኦሊ ስንት ሰኃት ነው ይህ ከተማ ውስጥ,weather_query,0.8277,0.0059,False
+2887,am-ET,news,news_query,እባክህን በ ሰሞነኛ ወሬዎች ውስጥ የአየር ሁኔታ ን የሚመለከት ፅሑፍ ካለ አሳውቀኝ,qa_factoid,0.0562,0.0504,False
+2890,am-ET,weather,weather_query,ወቅታዊ የአየር ሁኔታ,qa_factoid,0.7393,0.039,False
+2898,am-ET,news,news_query,ስለ ምርጫው አዲስ ነገር አለ,iot_hue_lightoff,0.7204,0.0069,False
+2914,am-ET,datetime,datetime_query,ዛሬ ቀኑ ስንት እንደሆነ ንገሩኝ,weather_query,0.7535,0.0349,False
+2917,am-ET,weather,weather_query,ሳምንታዊ የአየር ሁኔታ ሪፖርት,qa_factoid,0.1567,0.043,False
+2921,am-ET,news,news_query,በ ኢ. ቲቪ ድህረ ገፅ ላይ ያሉ የዜና ታሪኮች ምንድናቸው,social_post,0.2279,0.0367,False
+2927,am-ET,datetime,datetime_query,ስንት ሰኃት ነው ደሴ ውስጥ,datetime_query,0.8809,0.8809,True
+2931,am-ET,play,play_music,ላምባዲናን ቀጥሎ አጫውት,social_post,0.8512,0.002,False
+2962,am-ET,play,play_music,እባክዎን መሐሙድ አህመድ ዘፈን ያጫውቱ,email_sendemail,0.9242,0.0002,False
+2965,am-ET,iot,iot_hue_lightoff,የቢሮ መብራቶች አጥፋ,qa_factoid,0.903,0.0037,False
+3002,am-ET,play,play_music,በ ሮሃ ባንድ ዘፈኖችን አጫውት,social_post,0.9719,0.0018,False
+3031,am-ET,play,play_music,ዘፈን እንደገና መጫወት እፈልጋለሁ,qa_factoid,0.7038,0.0006,False
+3034,am-ET,weather,weather_query,የሙቀት መጠን ንገረኝ,qa_factoid,0.8659,0.007,False
+3037,am-ET,news,news_query,እባክህ የፊት ገጽ የዜና ጽሑፎች,lists_query,0.3753,0.0151,False
+3039,am-ET,news,news_query,ምን አዲስ አለ ከዜናዎቹ,qa_factoid,0.7577,0.0042,False
+3060,am-ET,news,news_query,ከዛ የዜና ምንጭ ምን ዜና ኣለ,qa_factoid,0.9807,0.0007,False
+3091,am-ET,datetime,datetime_query,በፓሲፊክ አቆጣጠር ስንት ሰዓት ነው,datetime_query,0.7873,0.7873,True
+3096,am-ET,weather,weather_query,የ ጎንደር የአየር ሁኔታ እንዴት ነው,weather_query,0.9404,0.9404,True
+3098,am-ET,iot,iot_hue_lightoff,መብራቶቹን አጥፋ,qa_factoid,0.5142,0.0286,False
+3099,am-ET,news,news_query,የተወሰኑ የአሁን ጊዜ ዜናዎችን አሳየኝ,lists_remove,0.1393,0.0624,False
+3101,am-ET,news,news_query,ኦሊ ዜናውን አብራ,social_post,0.9989,0.0,False
+3116,am-ET,play,play_music,ካለፈው አመት የኔ ምርጥ ሙዚቃ ክፈትልኝ,qa_factoid,0.5422,0.0059,False
+3117,am-ET,play,play_music,የሆነ ነገር አሰፉ ደባልቄ ና ልተኛበት አልበም አሰፉ ደባልቄ አጫዉት,social_post,0.2325,0.0324,False
+3118,am-ET,datetime,datetime_query,በምስራቃዊ ሰዓት አቆጣጠር አሁን ስንት ሰዓት ነው,datetime_query,0.8938,0.8938,True
+3124,am-ET,play,play_music,ከኔ የዘፈን ዝርዝር የትኛውንም ዘፈን አጫውትልኝ,social_post,0.8356,0.0045,False
+3146,am-ET,play,play_music,ከእኔ መሐሙድ አህመድ አጫዋች ዝርዝር ውስጥ ትራክ አንድን አጫውት,qa_factoid,0.4812,0.0141,False
+3167,am-ET,iot,iot_hue_lightoff,የእኔ መኝታ ቤት መዞር መብራቶች ጠፍቷል,qa_factoid,0.6043,0.0372,False
+3174,am-ET,play,play_music,የ ሙዚቃ አጫዋች ዝርዝር አጫውት,iot_hue_lightoff,0.4827,0.0394,False
+3205,am-ET,play,play_music,የቴዲ አፍሮ ላምባዲና አጫውት,qa_factoid,0.9919,0.0001,False
+3207,am-ET,play,play_music,ሰበቡ በ አስቴር አወቀ አሰራጭ,qa_factoid,0.9797,0.0004,False
+3212,am-ET,calendar,calendar_set,የሆነ ነገር እንድሰራ አስታውሰኝ,qa_factoid,0.8851,0.0054,False
+3214,am-ET,news,news_query,ወያኔ ከ ግብፅ ጋር ስላለው ግንኙነት የሚደረገው ምርመራ ምን ላይ ደረሰ,news_query,0.1478,0.1478,True
+3228,am-ET,datetime,datetime_query,ገና በዚህ አመት ምን ቀን ላይ ነው የሚውለው,weather_query,0.3853,0.002,False
+3253,am-ET,weather,weather_query,ዛሬ ከሰአት ይዘንብ ይሆን,weather_query,0.9799,0.9799,True
+3264,am-ET,play,play_music,ሬጌ ሙዚቃ አጫውት,qa_factoid,0.9783,0.0013,False
+3305,am-ET,weather,weather_query,በዚህ ሳምንት አዋሳ የአየር ሁኔታው እንዴት ነው,weather_query,0.9308,0.9308,True
+3306,am-ET,weather,weather_query,የሳምንቱ ትንበያ እንዴት ነው,qa_factoid,0.5979,0.0768,False
+3329,am-ET,news,news_query,ዜና ማየት እፈልጋለሁ,iot_hue_lightoff,0.892,0.0002,False
+3337,am-ET,weather,weather_query,የሰላሳ ሶስት ሺህ ሰባት መቶ አስራ ሰባት የአየር ሁኔታ ሪፖርት,datetime_query,0.0887,0.0482,False
+3338,am-ET,weather,weather_query,የሻሽመኔን የአየር ሁኔታ ሪፖርት አድርግ,social_post,0.1664,0.0271,False
+3361,am-ET,datetime,datetime_query,የቀጣይ ማክሠኞ ቀን ስንት ነው,datetime_query,0.2351,0.2351,True
+3378,am-ET,iot,iot_hue_lightoff,ኩሽና ውስጥ ምንም መብራቶች የሉም,qa_factoid,0.9756,0.0004,False
+3386,am-ET,iot,iot_hue_lightoff,መብራቶች ቀይር ወደ ታች መካከለኛ ይቀንሱ,lists_remove,0.295,0.2079,False
+3400,am-ET,play,play_music,የ እዮብ መኮነን ላይቭ ስሪት አጫውት,qa_factoid,0.4173,0.0304,False
+3401,am-ET,play,play_music,በጣም ታዋቂ እዮብ መኮነን ዘፈን አጫውት,email_query,0.4562,0.0011,False
+3406,am-ET,weather,weather_query,የቀጣይ አስር ቀን ትንበያ ምንድን ነው,qa_factoid,0.2077,0.0443,False
+3407,am-ET,weather,weather_query,በዚህ ሳምንት የዝናብ ወይም የበረዶ ትንበያ አለ እንዴ,qa_factoid,0.0877,0.0474,False
+3408,am-ET,weather,weather_query,በዚህ ቅዳሜ እና እሁድ አየሩ ጥሩ ይሆናል,weather_query,0.9607,0.9607,True
+3426,am-ET,weather,weather_query,ውጭ ምን ያልህ ዲግሪ ነው,qa_factoid,0.6696,0.0003,False
+3433,am-ET,play,play_music,አዲስ ፖፕ ሙዚቃ,email_sendemail,0.4989,0.0002,False
+3434,am-ET,play,play_music,ምርጥ ትዝታ ሙዚቃ,cooking_recipe,0.9873,0.0011,False
+3441,am-ET,datetime,datetime_query,ሃያ ሁለት እሮብ ነው,qa_factoid,0.2752,0.017,False
+3444,am-ET,datetime,datetime_query,አስር ሆነ,qa_factoid,0.9957,0.0002,False
+3447,am-ET,weather,weather_query,የአየር ሁኔታ ትንበያው ቅዳሜ ዝናብ አለ ይላል,iot_hue_lightoff,0.5317,0.0782,False
+3481,am-ET,play,play_music,የተሰጠው ሙዚቀኛ በጣም ታዋቂ ዘፈን ያጫውቱ,recommendation_events,0.2282,0.0278,False
+3489,am-ET,play,play_music,እባክዎን አሁን አዲስ ሙዚቃ ያጫውቱ,social_post,0.233,0.0928,False
+3492,am-ET,play,play_music,አበዛኛው የእኔ የተጫወትኩትን የ ዘፈን ዝርዝሬን እንጫወት,qa_factoid,0.9145,0.0021,False
+3503,am-ET,weather,weather_query,ናዝሬት አየር ሁኔታ እንዴት ነው,qa_factoid,0.4054,0.0225,False
+3507,am-ET,weather,weather_query,በ ትንበያው ውስጥ በረዶ አለ እንዴ,qa_factoid,0.4083,0.0211,False
+3513,am-ET,play,play_music,የእኔን ዝርዝር ብቻ አጫውት,iot_hue_lightoff,0.9514,0.0027,False
+3516,am-ET,weather,weather_query,በዛሬው የአየር ሁኔታ ውስጥ የዝናብ ዕድል ምን ያህል ነው,weather_query,0.2724,0.2724,True
+3539,am-ET,play,play_music,መርካቶ ሰፈሬ በ አብዱ ኪያር አጫውት,social_post,0.8941,0.003,False
+3546,am-ET,play,play_music,የጃዝ ሙዚቃ መስማት እፈልጋለሁ,iot_hue_lightoff,0.5122,0.0064,False
+3550,am-ET,play,play_music,ጥቂት ጃኖ ባድ ላይ አኖረው,social_post,0.8229,0.0076,False
+3554,am-ET,play,play_music,በፍቅር ዜማ ዝርዝር ውስጥ ማስቀመጥ ይችላሉ,social_post,0.5405,0.0194,False
+3562,am-ET,play,play_music,ላምባዲና አጫውት,qa_factoid,0.6615,0.0033,False
+3566,am-ET,datetime,datetime_query,ጎንደር አሁን ስንት ሰዓት ነው,datetime_query,0.8221,0.8221,True
+3570,am-ET,iot,iot_hue_lightoff,የበረንዳውን መብራት አጥፋው,cooking_recipe,0.9938,0.0034,False
+3576,am-ET,news,news_query,ከ ኢ. ቢ. ሲ. ዜና የቅርብ ጊዜ ታሪክ ምንድነው,email_sendemail,0.7642,0.012,False
+3586,am-ET,weather,weather_query,ድሬዳዋ የአየር ሁኔታው ምንድን ነው,weather_query,0.4734,0.4734,True
+3600,am-ET,calendar,calendar_set,ከአስር ደቂቃ በኋላ አስታውሰኝ,qa_factoid,0.4243,0.0156,False
+3603,am-ET,news,news_query,ከኢ. ቢ. ሲ. የቅርብ ዜና ምንድነው,qa_factoid,0.927,0.0158,False
+3605,am-ET,news,news_query,ሲ. ኤን. ኤን. ላይ አሁናዊ ዜና ምንድነው,qa_factoid,0.9747,0.0008,False
+3606,am-ET,datetime,datetime_query,ሀረር ስንት ሰዓት ነው,datetime_query,0.9927,0.9927,True
+3614,am-ET,weather,weather_query,ዛሬ ጸሃያማ ቀን ነው,weather_query,0.9709,0.9709,True
+3623,am-ET,news,news_query,በ አለም ላይ ዛሬ ምን እየሆነ ነው,news_query,0.7193,0.7193,True
+3624,am-ET,news,news_query,ዜና ከፋና,qa_factoid,0.9754,0.0002,False
+3631,am-ET,play,play_music,ሰላም ጉግል አንዳንድ የ ጃዝ ሙዚቃ አጫውት,social_post,0.3861,0.0266,False
+3686,am-ET,play,play_music,እኔ ለ ሮክ ሙዚቃ የመደብኩት የዘፈን ዝርዝር ክፈት,cooking_recipe,0.3954,0.0215,False
+3714,am-ET,play,play_music,ከታች በመጀመር የእኔ የዘፈን ዝርዝር አጫውት,qa_factoid,0.9938,0.0001,False
+3717,am-ET,play,play_music,እባክህን የዘጠናዎቹን የራፕ ምርጦች አጫውት,play_podcasts,0.148,0.0525,False
+3723,am-ET,play,play_music,የአስቴር አወቀን ዘፈን መስማት እፈልጋለሁ,social_post,0.8622,0.0023,False
+3725,am-ET,datetime,datetime_query,ዛሬ የትኛው ቀን ነው,weather_query,0.9899,0.0012,False
+3727,am-ET,play,play_music,ጎሳዬ ተስፋዬ ሲያምሽ ያመኛልን አጫውት,social_post,0.9907,0.0009,False
+3750,am-ET,news,news_query,ኦሊ ስለ ጎርፍ አዲስ ዜና ካለ አሳውቀኝ,social_post,0.9915,0.0001,False
+3779,am-ET,play,play_music,የ ዩቲዩብ አጫዋች ዝርዝር የኔ ዜማ ያጫውቱ,social_post,0.9102,0.0022,False
+3780,am-ET,play,play_music,የእኔ ን እቴ ሜቴ የፍቅር አጫዋች ዝርዝር አጫውት,play_radio,0.242,0.0427,False
+3784,am-ET,weather,weather_query,የ ላስ ቬጋስ የአየር ትንበያ ንገረኝ,social_post,0.9654,0.0018,False
+3785,am-ET,iot,iot_hue_lightoff,የመታጠብያ ቤቱን መብራት አጥፊ,qa_factoid,0.9716,0.0073,False
+3822,am-ET,news,news_query,ስለ መኪናዎች መረጃ አግኙልኝ,recommendation_events,0.8273,0.0086,False
+3852,am-ET,weather,weather_query,አዋሳ አሁን ላይ ምን አይነት የአየር ሁኔታ ነው ያለዉ,iot_hue_lightoff,0.3577,0.0714,False
+3859,am-ET,play,play_music,እባክህ እኔ የምወደውን የራፕ ሙዚቃ ዝርዝር አድርገው,play_music,0.801,0.801,True
+3907,am-ET,play,play_music,ያለፈውን አመት ምርጥ ዘፈኖች አጫውት,iot_hue_lightoff,0.3023,0.0223,False
+3911,am-ET,play,play_music,በዚህ አመት ግራሚዎችን ያገኝ ማንኛውም ዘፈኖች መስማት እፍልጋለሁ,recommendation_events,0.9106,0.003,False
+3912,am-ET,play,play_music,የዳንስ እና የሀገር ሙዚቃ መስማት እፈልጋለሁ,cooking_recipe,0.226,0.0644,False
+3936,am-ET,weather,weather_query,የሙቀት መጠን ምንድን ነዉ,qa_factoid,0.999,0.0,False
+3960,am-ET,datetime,datetime_query,ሰዓቱን ተናገር,qa_factoid,0.9485,0.0001,False
+3967,am-ET,play,play_music,ራፕ,qa_factoid,0.9631,0.0,False
+3980,am-ET,play,play_music,እባኮትን የኔ ማር በ ማሚላ አጨዋወት,qa_factoid,0.9897,0.0,False
+3982,am-ET,play,play_music,እባክህ የመጀመሪያውን ዘፈን በእኔ ጃኖ ባንድ አጫዋች ዝርዝር ውስጥ ምረጥ,play_radio,0.6369,0.146,False
+3993,am-ET,iot,iot_hue_lightoff,መብራቶች እንዲጠፋ መስራት ይችላሉ,iot_hue_lightoff,0.4391,0.4391,True
+3995,am-ET,datetime,datetime_query,ኦሊ የሳምንቱ ቀን መች ነው ሀሎዊን,qa_factoid,0.7527,0.0008,False
+4001,am-ET,news,news_query,በ ደንብ አምስት ላይ ምን ተከሰተ,social_post,0.1585,0.0536,False
+4023,am-ET,news,news_query,በዜና ውስጥ ያለው ምንድን ነው,qa_definition,0.5275,0.0028,False
+4031,am-ET,play,play_music,ላምባዲና አጫውት,qa_factoid,0.6615,0.0033,False
+4040,am-ET,play,play_music,ብዙ ጊዜ የሰማውትን ዘፈን አጫውት,social_post,0.7465,0.0078,False
+4058,am-ET,play,play_music,አንዳንድ የ ራፕ ሙዚቃ መስማት እፈልጋለሁ,qa_factoid,0.3847,0.048,False
+4073,am-ET,datetime,datetime_query,ቀን አምስት የሚውለው መቼ ዕለት ነው,weather_query,0.5511,0.4374,False
+4077,am-ET,iot,iot_hue_lightoff,የወጥ ቤቱን መብራቶች አጥፋ,cooking_recipe,0.2766,0.0344,False
+4088,am-ET,iot,iot_hue_lightoff,የላይኛውን ላይ መብራት አጥፋ,qa_factoid,0.341,0.2034,False
+4104,am-ET,weather,weather_query,ዛሬ የደብረ ብርሃን አየር ሁኔታ ምን ይመስላል,weather_query,0.2354,0.2354,True
+4116,am-ET,play,play_music,እባክህን የተዘበራረቀ አጫዋች ዝርዝርን አጫውት,play_radio,0.917,0.0096,False
+4119,am-ET,news,news_query,በ አዲስ አበባ ውስጥ ስላለው ግድብ መፈራረስ ሁሉንም ነገር ማወቅ እፈልጋለሁ,lists_query,0.1715,0.0496,False
+4132,am-ET,weather,weather_query,ዛሬ በባህር ዳር አማራ የዝናብ እድል በመቶኛ ንገሩኝ,social_post,0.8044,0.0085,False
+4136,am-ET,play,play_music,እባክህ የ ቴዲ አፍሮ ማጫወት ትችላለህ,play_radio,0.9901,0.0009,False
+4152,am-ET,play,play_music,እባክህ ከአይኔ አትራቅ ዘፈን አጫውት,iot_hue_lightoff,0.212,0.0271,False
+4168,am-ET,weather,weather_query,እባክህ የ ሀዋሳን የአየር ሁኔታ አሳይ,email_sendemail,0.9805,0.0009,False
+4171,am-ET,iot,iot_hue_lightoff,የኩሽናውን መብራቶች አጥፋ,cooking_recipe,0.3136,0.1839,False
+4177,am-ET,news,news_query,በ ዓለም ዙሪያ ያሉ የቅርብ ጊዜ ፖለቲካዊ አርዕስቶችን ስጠኝ,lists_remove,0.6069,0.004,False
+4178,am-ET,news,news_query,ማንኛውም ፕሬዚዳንታዊ ዜና ካለ,qa_factoid,0.9983,0.0001,False
+4183,am-ET,datetime,datetime_query,ሀረር ስንት ሰዓት ነው,datetime_query,0.9927,0.9927,True
+4186,am-ET,datetime,datetime_query,ሰላም አበበ ስንት ሰዓት ነው,datetime_query,0.7898,0.7898,True
+4187,am-ET,datetime,datetime_query,ሲሪ ስንት ሰዓት ነው,datetime_query,0.9962,0.9962,True
+4205,am-ET,play,play_music,የኔ ቆንጆ በ እዮብ መኮነን መስማት እፈልጋለሁ,qa_factoid,0.3361,0.0179,False
+4212,am-ET,weather,weather_query,በዚህ ምሽት ሣሩን ማጨድ እችላለሁ,qa_factoid,0.8792,0.0002,False
+4227,am-ET,weather,weather_query,የሚቀጥለው ሳምንት ትንበያ ውስጥ ዝናብ ይኖራል,datetime_query,0.2009,0.1748,False
+4232,am-ET,play,play_music,ባቲ በ ጃኖ ባንድ ተጫወት,qa_factoid,0.9996,0.0,False
+4236,am-ET,datetime,datetime_query,አሁን ከሰዓት በኋላ ሆነ እንዴ,calendar_remove,0.7463,0.0449,False
+4253,am-ET,datetime,datetime_query,ምስራቅ የሰዓት ክልል ውስጥ ስንት ሰዓት ነው,datetime_query,0.7839,0.7839,True
+4254,am-ET,datetime,datetime_query,በኢትዮጲያ ምስራቃዊ ክፍል ስንት ሰዓት ነው,datetime_query,0.8397,0.8397,True
+4258,am-ET,news,news_query,አዲሱ ዜና ምንድነው,qa_definition,0.5105,0.0046,False
+4266,am-ET,weather,weather_query,የዛሬ የአየር ሁኔታ ምንድን ነው,weather_query,0.9927,0.9927,True
+4273,am-ET,play,play_music,ስወድላት ዘፈን አጫውት,qa_factoid,0.3413,0.0181,False
+4290,am-ET,weather,weather_query,ዛሬ ማታ ጃኬት ይዤ ልምጣ,iot_hue_lightoff,0.6538,0.0133,False
+4305,am-ET,play,play_music,አባይ ዘፈን ጂጂ በዴቪድ ቦቪ ተጫወቱ,social_post,0.693,0.005,False
+4309,am-ET,datetime,datetime_query,አዲስ አበባ ኢትዮጲያ ላይ ከስንት ሰዓት በኋላ ነው እኩለ ለሊት የሚሆነው,datetime_query,0.9498,0.9498,True
+4312,am-ET,weather,weather_query,አዋሳ የአየር ሁኔታ ከአስር ድግሪ በታች ይሆናል,weather_query,0.6847,0.6847,True
+4313,am-ET,weather,weather_query,ነገ በድሬዳዋ ዝናብ ይኖራል,weather_query,0.5864,0.5864,True
+4336,am-ET,datetime,datetime_query,ኢትዮጵያ ስንት ሰዓት ነው,datetime_query,0.9925,0.9925,True
+4346,am-ET,iot,iot_hue_lightoff,መብራቶች አጥፋ,qa_factoid,0.8398,0.0105,False
+4347,am-ET,iot,iot_hue_lightoff,የስራ ክንውን ብርሃን,email_query,0.319,0.0067,False
+4355,am-ET,weather,weather_query,እኔ ባለሁበት የአየር ሁኔታው እንዴት ነው,weather_query,0.7808,0.7808,True
+4361,am-ET,play,play_music,አንዳንድ ጥሩ ድምጾች ስጠኝ,lists_remove,0.4083,0.0109,False
+4362,am-ET,datetime,datetime_query,ሀዋሳ ስንት ሰዓት ነው,datetime_query,0.9498,0.9498,True
+4376,am-ET,weather,weather_query,ዛሬ ውጪው ምን ይመስላል,weather_query,0.7688,0.7688,True
+4377,am-ET,weather,weather_query,አሁን ያለው የአየር ሁኔታ ምን ይመስላል,weather_query,0.7164,0.7164,True
+4383,am-ET,weather,weather_query,ነገ የአየር ሁኔታው ምን ይመስላል,weather_query,0.6603,0.6603,True
+4391,am-ET,news,news_query,ሲ. ኤን. ኤን. ላይ ያሉ አርዕስተ ጉዳዮች ምንድናቸው,lists_query,0.3776,0.0443,False
+4400,am-ET,news,news_query,ኢ.ቲ.ቪ ላይ በመታየት ላይ ያሉ ዜናዎች ምንድናቸው,social_post,0.852,0.022,False
+4402,am-ET,weather,weather_query,ዛሬ ዣንጥላ መያዝ ያስፈልገኛል,qa_factoid,0.614,0.0108,False
+4412,am-ET,weather,weather_query,ሀሮማያ ላይ አየሩ ምንድን ነው,social_post,0.1245,0.0454,False
+4436,am-ET,weather,weather_query,የትኘዉ ጃኬት መልበስ አለንኝ,qa_factoid,0.7861,0.0083,False
+4439,am-ET,weather,weather_query,ባህር ዳር የአየር ሁኔታው እንዴት ነው,qa_factoid,0.2373,0.1395,False
+4449,am-ET,weather,weather_query,ዛሬ አንድ አንድ ፒ. ኤም. ላይ ዝናብ ሊዘንብ ነው,social_post,0.8191,0.0045,False
+4452,am-ET,play,play_music,ዘፈኖች አጫውት,social_post,0.9558,0.001,False
+4463,am-ET,datetime,datetime_query,በ የካቲት ውስጥ ስንት ቅዳሜዎች አሉ,lists_query,0.2776,0.0255,False
+4477,am-ET,play,play_music,ቀጥሎ ዘፈን አጫውት።,social_post,0.4731,0.0037,False
+4482,am-ET,weather,weather_query,ዛሬ ጥዋት የእኔን መተላለፊያ መዛቅ አለብኝ እንዴ,iot_hue_lightoff,0.766,0.0111,False
+4486,am-ET,weather,weather_query,የዚህ ሳምንት የአየር ሁኔታ ንገረኝ,weather_query,0.9959,0.9959,True
+4487,am-ET,weather,weather_query,ሀሙስ ይዘንብ ይሆን,qa_factoid,0.7556,0.0014,False
+4491,am-ET,news,news_query,በ አብይ አህመድ ላይ የቅርብ ጊዜ ዜናዎች ምንድ ናቸው,news_query,0.6264,0.6264,True
+4492,am-ET,news,news_query,ለእኔ አካባቢ የቅርብ ጊዜ የተጠና የወንጀል መረጃ ምንድነው,weather_query,0.3782,0.0262,False
+4496,am-ET,news,news_query,ዛሬ ኢ.ቲቪ. ምን ለጠፈ,qa_factoid,0.4435,0.0148,False
+4502,am-ET,datetime,datetime_query,ሰላም ሀዋሳ ስንት ሰዓት ነው,weather_query,0.9229,0.0666,False
+4524,am-ET,weather,weather_query,የዛሬ አየር ሁኔታ ትንበያ ምንድን ነው,weather_query,0.2478,0.2478,True
+4547,am-ET,play,play_music,አዲስ ዘፈን አጫዋች ዝርዝሩን ጀምር,play_radio,0.8294,0.0924,False
+4567,am-ET,news,news_query,የ ፋና የቅርብ ዜናዎችን አንብብልኝ,social_post,0.3546,0.1086,False
+4580,am-ET,datetime,datetime_query,ሀዋሳ ስንት ሰዓት ነው,datetime_query,0.9498,0.9498,True
+4587,am-ET,play,play_music,የእኔን ተወዳጆች መጫወት,social_post,0.476,0.0025,False
+4589,am-ET,calendar,calendar_set,ለ ስፖርትስ ጨዋታ ማስታወቂያ ያዘጋጁ,recommendation_events,0.1138,0.0398,False
+4606,am-ET,news,news_query,የዛሬን አክሲዮኖች ላይ መረጃ ያግኙ,recommendation_events,0.8738,0.0057,False
+4614,am-ET,weather,weather_query,ነገ የሙቀት መጠኑ ከአርባ በላይ ይሆናል,iot_hue_lightoff,0.8195,0.0289,False
+4662,am-ET,news,news_query,አሌክሳ የ ፋና ዜና,email_sendemail,0.998,0.0,False
+4667,am-ET,datetime,datetime_query,አሁን ስንት ሰዓት ነው,datetime_query,0.7239,0.7239,True
+4680,am-ET,weather,weather_query,ነጠ ጫማ ወይም ጫማ በካልሲ ልልበስ,play_radio,0.6677,0.0017,False
+4689,am-ET,weather,weather_query,አየር ሁኔታውን ታውቃለህ,iot_hue_lightoff,0.6832,0.0401,False
+4692,am-ET,play,play_music,ዘሪቱ ከበደ ዘፈን አጫውተኝ,social_post,0.9922,0.0006,False
+4710,am-ET,datetime,datetime_query,ጥምቀት በዚህ ዓመት ምን ቀን ነው የሚውለው,iot_hue_lightoff,0.3724,0.0201,False
+4764,am-ET,weather,weather_query,ሰኞ ይዘንባል,email_sendemail,0.7505,0.0099,False
+4767,am-ET,news,news_query,የሜክሲኮ እና አሜሪካ ድንበር ግንብ አዲስ መረጃ አለ,recommendation_events,0.0676,0.0504,False
+4772,am-ET,datetime,datetime_query,በዚህ የጊዜ ክልል ሰዓቱን ንገሩኝ,qa_factoid,0.8191,0.0101,False
+4780,am-ET,datetime,datetime_query,ልደቴ በዚህ ዓመት ሰኔ ሃያ ሰባት ምን ቀን ነው የሚሆነው,datetime_query,0.8427,0.8427,True
+4784,am-ET,weather,weather_query,ጃኬት ያስፈልገኝ ይሆን,qa_factoid,0.9997,0.0,False
+4813,am-ET,datetime,datetime_query,ሌላ ከተማ ውስጥ ስንት ሰዓት ነው,datetime_query,0.5347,0.5347,True
+4837,am-ET,news,news_query,አዲስ ዜና አለ ኦሊ,email_query,0.8337,0.0018,False
+4838,am-ET,play,play_music,በ ቴዲ አፍሮ ሁሉንም ሙዚቃ ያጫውቱ,recommendation_events,0.2999,0.0113,False
+4871,am-ET,weather,weather_query,ውጭ እንዴት ነው,qa_factoid,0.9982,0.0,False
+4881,am-ET,datetime,datetime_query,የአሁኑን የአካባቢ ሰዓት እና የሰዓት ዞን ለማግኘት ይፈልጉ,weather_query,0.9852,0.0008,False
+4882,am-ET,datetime,datetime_query,ከተማ ላይ ስንት ሰዓት ነው,weather_query,0.9533,0.0396,False
+4890,am-ET,calendar,calendar_set,በአሁኑ ኢትዮጲያ ዉስጥ ባለው የአየር ፀባይ አደጋዎች ላይ ማስታወቂያ ሙላ,iot_hue_lightoff,0.1967,0.0408,False
+4909,am-ET,play,play_music,የኛ ባንድ ዘፈኖች ይጫወቱ,play_podcasts,0.6144,0.035,False
+4917,am-ET,weather,weather_query,ከቤት ውጭ ያለው የሙቀት መጠን,qa_factoid,0.9791,0.0008,False
+4928,am-ET,play,play_music,የእኔ ን ማጀቢያ አጫውት,iot_hue_lightoff,0.3296,0.0068,False
+4933,am-ET,weather,weather_query,አሁን ይዘንብ ይሆን,qa_factoid,0.4256,0.1397,False
+4951,am-ET,datetime,datetime_query,አሁን ስንት ሰዓት እንደሆነ ማወቅ እፈልጋለሁ,datetime_query,0.9757,0.9757,True
+4953,am-ET,news,news_query,የባቡር አደጋው ላይ ዜና,email_sendemail,0.6636,0.0144,False
+4957,am-ET,datetime,datetime_query,የዚህ ወር ሀያ ሶስተኛው ቀን በየትኛው ዕለት ነው የሚውለው,weather_query,0.55,0.1784,False
+4960,am-ET,play,play_music,የ መሀመድ አህመድ ሙዚቃ,play_music,0.5548,0.5548,True
+4968,am-ET,qa,qa_factoid,በዚህ አመት የፕሬዝደንትነት ምርጫ ማን ነው ያሸነፈው,qa_factoid,0.9177,0.9177,True
+4973,am-ET,play,play_music,አበበ ላምባዲና አጫውት,social_post,0.466,0.0238,False
+4998,am-ET,play,play_music,ይህ ን ዘፈን ቀጥሎ የመጫወቻ ዘፈን ያክሉ,iot_hue_lightoff,0.2257,0.0372,False
+5009,am-ET,weather,weather_query,በዚህ ሳምንት ዣንጥላ ያስፈልገኝ ይሆን,qa_factoid,0.9999,0.0,False
+5016,am-ET,news,news_query,ስለ የአክሲዮን ገበያ ውጣ ውረድ ዜናውን ንገረኝ,social_post,0.1316,0.0762,False
+5027,am-ET,datetime,datetime_query,መች ነው ቀጣይ ዐርብ አስራ ሶስት,email_query,0.9946,0.0003,False
+5037,am-ET,weather,weather_query,ዛሬ ምን ያህል ይቀዘቅዛል,weather_query,0.2693,0.2693,True
+5038,am-ET,weather,weather_query,በዚህ ሳምንት የአየር ሁኔታው እንዴት ነው,weather_query,0.9936,0.9936,True
+5040,am-ET,weather,weather_query,አሁን ምን አይነት የአየር ሁኔታ ነው,weather_query,0.5696,0.5696,True
+5062,am-ET,play,play_music,የኔ ዜማ ዘፈኖች አጫውት,social_post,0.9878,0.0005,False
+5074,am-ET,weather,weather_query,የሳምንቱ አየር ሁኔታ እንዴት ነው,weather_query,0.8105,0.8105,True
+5085,am-ET,weather,weather_query,የ ቅዳሜ ትንበያ ምንድን ነው,qa_definition,0.5282,0.0688,False
+5118,am-ET,play,play_music,የኔ ዜማ,social_post,0.9132,0.0001,False
+5127,am-ET,news,news_query,በአንድ ሰው በጀት ውስጥ በተሽከርካሪዎች ላይ የሚወጣው ወጪ እውነታው ይህ ነው,qa_factoid,0.4508,0.023,False
+5131,am-ET,datetime,datetime_query,እባክዎን አዲስ አበባ ስንት ሰዓት እንደሆነ ልትነግሩኝ ትችላላቹ,weather_query,0.3876,0.1979,False
+5134,am-ET,play,play_music,ከ ትልቅ ባንድ አጫዋች ዝርዝር ዘፈኖችን አግኝ,play_music,0.2911,0.2911,True
+5156,am-ET,iot,iot_hue_lightoff,የሳሎን መብራት አጥፋ,iot_hue_lightoff,0.2326,0.2326,True
+5157,am-ET,iot,iot_hue_lightoff,ኦሊ የሳሎኑን መብራት አጥፋ,social_post,0.8585,0.0022,False
+5158,am-ET,play,play_music,እባክዎን የኔ ዜማ አልበም የቅርብ ጊዜ ዘፈን ያጫውቱ,news_query,0.5012,0.0045,False
+5159,am-ET,play,play_music,እባክዎን የአርቲስት መሐሙድ አህመድ ዘፈኑን መጫወት ይችላሉ,qa_factoid,0.8797,0.0003,False
+5160,am-ET,play,play_music,እባክህ በጃኖ ባንድ ዘፈን መጫወት ትችላለህ,qa_factoid,0.4157,0.0063,False
+5176,am-ET,weather,weather_query,በዚህ ሳምንት ምን አይነት የአየር ሁኔታ ልጠብቅ,iot_hue_lightoff,0.6295,0.119,False
+5196,am-ET,news,news_query,ስለ ብሬግዚት ማወቅ እፈልጋለሁ,recommendation_events,0.7998,0.0027,False
+5225,am-ET,datetime,datetime_query,ዕሮብ,qa_factoid,0.7871,0.0008,False
+5243,am-ET,iot,iot_hue_lightoff,አበበ እባክህን መፀዳጃ ቤት ያሉት መብራቶቹን እንዲጠፉ አድርግ,lists_remove,0.2244,0.0722,False
+5245,am-ET,news,news_query,ስለ አካባቢያዊ ዜና ማሳወቂያ ሙላ,weather_query,0.3707,0.0312,False
+5270,am-ET,news,news_query,የአሁኑ ጊዜ ሰበር ዜና,qa_factoid,0.7697,0.0113,False
+5278,am-ET,play,play_music,እባክዎ የፖፕ ቅልቅል ሙዚቃ ብቻ ያጫውቱ,lists_remove,0.2027,0.0401,False
+5279,am-ET,play,play_music,እባክዎን የሙዚቃ ማጫወቻ ውስጥ ትዝታ ዘፈን ብቻ ይጫወቱ,iot_hue_lightoff,0.4024,0.0302,False
+5286,am-ET,news,news_query,ኢ. ቢ. ሲ. የስደት ዜናዎች አሳይ,email_sendemail,0.9911,0.0002,False
+5296,am-ET,news,news_query,በቀለ ተወዳጅ ዜና ፋና ቴሌቨዝን ላይ ፈልግልኝ,recommendation_events,0.5004,0.0223,False
+5297,am-ET,news,news_query,ከ ቢቢሲ ላይ ታዋቂ ዜና ንገረኝ,social_post,0.9774,0.0007,False
+5301,am-ET,weather,weather_query,መጋቢት አስራ ሁለት ሁለት ሺ አስራ ሰባት የአየር ሁኔታ ምን ይመስላል,weather_query,0.3958,0.3958,True
+5307,am-ET,datetime,datetime_query,ዛሬ የካቲት ሃያ ነው,weather_query,0.6542,0.0487,False
+5318,am-ET,play,play_music,እባክህ የ መሐሙድ አህመድ ዘፈኖች ብቻ አጫውት,social_post,0.9386,0.0006,False
+5321,am-ET,weather,weather_query,የአየር ሁኔታዉ አሳየ,iot_hue_lightoff,0.8768,0.0058,False
+5328,am-ET,play,play_music,ሮክ,qa_factoid,0.9924,0.0001,False
+5339,am-ET,weather,weather_query,ዝቅተኛ የማቀዝቀዝ ሁኔታ,qa_factoid,0.9085,0.0022,False
+5341,am-ET,datetime,datetime_query,እባክዎን ጊዜውን ያሳውቁኝ,social_post,0.6736,0.0059,False
+5347,am-ET,play,play_music,የ አባሰል ሙዚቃ አጫውት,qa_factoid,0.123,0.0471,False
+5358,am-ET,datetime,datetime_query,ወደ አሁኑ ሰዓት አስተካክል,qa_factoid,0.9215,0.0034,False
+5370,am-ET,news,news_query,የሰሞኑ የደመቀ ውዝግብ ምንድነው,weather_query,0.5543,0.0045,False
+5378,am-ET,play,play_music,ሰ.,qa_factoid,0.86,0.0016,False
+5401,am-ET,play,play_music,ሙዚቃ,qa_factoid,0.9939,0.0,False
+5410,am-ET,news,news_query,አዲስ ዘመን ወቅታዊ መረጃ አንብብልኝ,qa_factoid,0.3231,0.0215,False
+5411,am-ET,news,news_query,ፋና ላይ ተቀዳሚ ዜናዎች ምን ምን ናቸው,qa_factoid,0.175,0.1267,False
+5413,am-ET,play,play_music,ሙዚቃውን ያጫውቱ,qa_factoid,0.5364,0.0023,False
+5414,am-ET,play,play_music,ሙዚቃ ትለብሳለህ,qa_factoid,0.5328,0.0011,False
+5427,am-ET,datetime,datetime_query,ኢትዮጲያ አሁን ስንት ሰዓት ነው,datetime_query,0.9102,0.9102,True
+5433,am-ET,weather,weather_query,በኋላ ሊዘንብ ይችላል,qa_factoid,0.9479,0.0004,False
+5439,am-ET,weather,weather_query,ማታ ዣንጥላ ያስፈልገኝ ይሆን,qa_factoid,0.9478,0.0001,False
+5465,am-ET,weather,weather_query,ዛሬ ነጠላ ጫማዬን ማድረግ እችላለሁ,iot_hue_lightoff,0.8745,0.0022,False
+5468,am-ET,weather,weather_query,የፀሐይ መነፅር መውሰድ አለብኝ,lists_remove,0.1349,0.0421,False
+5524,am-ET,weather,weather_query,አሁን ላይ ያለው የአየር ሁኔታ,weather_query,0.4847,0.4847,True
+5529,am-ET,weather,weather_query,በእግር ጉዞ ተራራ ለመወጣት በስንት ሰዓት መሄድ አለብኝ,datetime_query,0.1064,0.066,False
+5557,am-ET,play,play_music,ሬጌ እፈልጋለሁ,qa_factoid,0.987,0.0001,False
+5577,am-ET,weather,weather_query,ምሽት ላይ በጣም ነፋሳማ ከሆነ ሙሉ የሚሸፍን ጃኬት እፈልጋለሁ,iot_hue_lightoff,0.4294,0.0078,False
+5578,am-ET,weather,weather_query,በክረምት ጊዜ ጥዋት ላይ ሞቃታማ ካልሲ ያስፈልገኛል,qa_factoid,0.743,0.0282,False
+5584,am-ET,iot,iot_hue_lightoff,እባክዎን መብራቶች ቀይር ወይም ማጥፋት አለብዎ,cooking_recipe,0.4282,0.0295,False
+5590,am-ET,weather,weather_query,የሙቀት መጠን ክፈት,qa_factoid,0.9997,0.0,False
+5593,am-ET,play,play_music,ግዙፎችን ዳዊት ጽጌ እና ደስ አለኝ ይጫወቱ,social_post,0.9963,0.0001,False
+5619,am-ET,play,play_music,ያለፈውን ዘፈን አጫውት,qa_factoid,0.5785,0.0006,False
+5627,am-ET,play,play_music,የ መሐሙድ አህመድ ዘፈን አጫውትልኝ,social_post,0.9991,0.0001,False
+5640,am-ET,datetime,datetime_query,ቀን አሳይ,email_sendemail,0.7681,0.0003,False
+5650,am-ET,weather,weather_query,ዛሬ ምሽት ያለውን የአየር ሁኔታ ጠይቅ,weather_query,0.7249,0.7249,True
+5658,am-ET,play,play_music,የ ጃኖ ባንድ ሙዚቃ አጫውትልኝ,social_post,0.1688,0.1152,False
+5661,am-ET,weather,weather_query,የዝናብ ካፖርትቴን አሁን ልውሰድ,lists_remove,0.4021,0.0178,False
+5671,am-ET,datetime,datetime_query,ሀዋሳ ስንት ሰዓት ነው,datetime_query,0.9498,0.9498,True
+5678,am-ET,datetime,datetime_query,ነሀሴ አስራ አምስት በምን ዕለት ነው የሚውለው,datetime_query,0.5797,0.5797,True
+5683,am-ET,play,play_music,የኔ የዘፈን ዝርዝር የግብዣ ዘፈኖች አጫውት,lists_remove,0.5747,0.0401,False
+5688,am-ET,news,news_query,የዜናውን ርእስ ንገረኝ,social_post,0.9395,0.0023,False
+5703,am-ET,datetime,datetime_query,የአሁኑ ሰዓት,datetime_query,0.7842,0.7842,True
+5707,am-ET,play,play_music,የኔ ተወዳጆች አሰማ,qa_factoid,0.9991,0.0,False
+5721,am-ET,weather,weather_query,የዚህን አካባቢ የሚኖረውን የነገውን የአየር ሁኔታ አሳየኝ,weather_query,0.9726,0.9726,True
+5722,am-ET,weather,weather_query,የዚህን ሳምንት የሰባት ቀን ትንበያ አሳይ,datetime_query,0.3996,0.0235,False
+5732,am-ET,weather,weather_query,በቅርቡ የመኪናዬን ጎማዎች ወደ የበረዶ ጎማ መቀየር ይኖርብኝ ይሆን,iot_hue_lightoff,0.6408,0.0138,False
+5757,am-ET,datetime,datetime_query,ለሁለት እሩብ ጉዳይ,calendar_remove,0.1084,0.0391,False
+5758,am-ET,weather,weather_query,በዋና ከተማው አየሩ እንዴት የው,cooking_recipe,0.5045,0.1429,False
+5774,am-ET,datetime,datetime_query,የሀዋሳን የአሁኑ ሰዓት,datetime_query,0.7409,0.7409,True
+5797,am-ET,weather,weather_query,ከመውጣቴ በፊት የዝናብ ልብስ መልበስ አለብኝ,lists_remove,0.1364,0.0346,False
+5813,am-ET,play,play_music,ላምባዲና ዘፈንን አጫውት,social_post,0.8396,0.0035,False
+5820,am-ET,play,play_music,ላምባዲና ከቴዲ አፍሮ ጋር,social_post,0.439,0.0052,False
+5837,am-ET,weather,weather_query,የዚህን ሳምንት አየር ሁኔታ ንገረኝ,weather_query,0.822,0.822,True
+5871,am-ET,weather,weather_query,ዛሬ የሰመራ አየር ንብረት እንዴት ነው,cooking_recipe,0.1566,0.0714,False
+5886,am-ET,news,news_query,ትኩስ ርዕስ,qa_factoid,0.9983,0.0,False
+5919,am-ET,news,news_query,በ አዲስ አበባ ድልድይ ፕሮፖዛል ላይ የቅርብ ለውጥ ምንድነው,qa_factoid,0.1396,0.0374,False
+5930,am-ET,news,news_query,ማንኛውም ሰበር ዜና ከ አዲስ ዘመን,qa_factoid,0.7571,0.0016,False
+5948,am-ET,play,play_music,ከእኔ አጫዋች ዝርዝር ውስጥ ጥሩ ዘፈን አጫውት,qa_factoid,0.3882,0.0118,False
+5953,am-ET,weather,weather_query,ከተማዋ ለመኖር ርካሽ ወይም ውድ ነች,qa_factoid,0.9712,0.0011,False
+5955,am-ET,weather,weather_query,ህግ እና ስርዓትን በተመለከተ ከተማዋ ምን ያህል አስተማማኝ ነች,email_sendemail,0.9822,0.0005,False
+5970,am-ET,play,play_music,የኔ ዜማ እንድትጫወትልኝ እፈልጋለሁ,iot_hue_lightoff,0.8595,0.0011,False
+5985,am-ET,news,news_query,የአዲስ ስታንዳርድ የቅርብ ግዜ ዜና አሳየኝ,email_sendemail,0.1429,0.0472,False
+5996,am-ET,weather,weather_query,ዛሬ ከሰዓት በኋላ የእኔ የበረዶ ቡትስ ያስፈልገኛል,iot_hue_lightoff,0.4329,0.114,False
+5997,am-ET,datetime,datetime_query,በማዕከላዊ የሰዓት ዞን ውስጥ ስንት ሰዓት ነው,datetime_query,0.6211,0.6211,True
+6023,am-ET,weather,weather_query,በ አጣብቂኝ የተሞላ ምሽት ሊሆን ይችላል,calendar_remove,0.4508,0.0901,False
+6024,am-ET,weather,weather_query,ዛሬ ሹራብ ወይስ ካፓርት ወደ ስራ ልውሰድ,qa_factoid,0.5505,0.0092,False
+6025,am-ET,weather,weather_query,የፀሃይ መጠበቅያ ቅባቱን ዛሬ ከሰዓት በሇላ መቀባት አለብኝ,qa_factoid,0.4335,0.0222,False
+6027,am-ET,play,play_music,ተመራጭ ዘፈኖች አስጀምር,qa_factoid,0.8646,0.0046,False
+6039,am-ET,weather,weather_query,ነገ ዝናባማ ቀን ነው የሚሆነው,weather_query,0.9051,0.9051,True
+6041,am-ET,iot,iot_hue_lightoff,ሰላም አሊ መብራት አጥፋ,qa_factoid,0.1397,0.0973,False
+6045,am-ET,play,play_music,የተመረጠውን ዘፈን ያክሉ,social_post,0.1467,0.0405,False
+6050,am-ET,weather,weather_query,በኋላ የፀሐይ መከላከያ ያስፈልገኛል,qa_factoid,0.6593,0.015,False
+6055,am-ET,iot,iot_hue_lightoff,የጋራዡን መብራት አብርቼ ነው የተውኩት,qa_factoid,1.0,0.0,False
+6059,am-ET,play,play_music,ራፕ ሙዚቃ ዝፈንልኝ,social_post,0.6682,0.0097,False
+6069,am-ET,weather,weather_query,ዛሬ አውሎ ንፋስ ይኖራል,cooking_recipe,0.9943,0.0002,False
+6073,am-ET,iot,iot_hue_lightoff,የ በረንዳ መብራት አጥፋ,cooking_recipe,0.1363,0.1073,False
+6074,am-ET,iot,iot_hue_lightoff,የ መኝታ ቤት መብራት በ ዘጠኝ ተኩል ፒ.ኤም,email_sendemail,0.4972,0.0215,False
+6077,am-ET,news,news_query,ዛሬ የቅርብ ጊዜ የ ዓለም ዜናዎችን ማድመጥ እፈልጋለሁ,weather_query,0.3631,0.0131,False
+6093,am-ET,weather,weather_query,ጣሪያውን ልክፈተው,qa_factoid,0.9907,0.0001,False
+6103,am-ET,weather,weather_query,ሰላም የ ዛሬ አየር ሁኔታ በ ሎስ አንጀለስ ካሊፎርኒያ ምን ይመስላል,weather_query,0.3154,0.3154,True
+6116,am-ET,weather,weather_query,የዚህ ሳምንት የአየር ሁኔታ መረጃ,weather_query,0.9816,0.9816,True
+6118,am-ET,datetime,datetime_query,ሰላም አዲስ አበባ ስንት ሰዓት ነው,weather_query,0.4831,0.4251,False
+6127,am-ET,weather,weather_query,ዣንጥላ ትመክረኛለህ,qa_factoid,1.0,0.0,False
+6129,am-ET,news,news_query,ስለ ዓለምአቀፍ ዜናዎች አዳዲስ ነገሮች አሳውቀኝ,news_query,0.5304,0.5304,True
+6151,am-ET,weather,weather_query,የዛሬን አየር ሁኔታ ማወቅ እፈልጋለሁ,iot_hue_lightoff,0.7629,0.0294,False
+6172,am-ET,weather,weather_query,የጸሃይ መነጽር ለ ዛሬ ጥሩ ምርጫ ነው,email_query,0.1917,0.0331,False
+6177,am-ET,weather,weather_query,ዛሬ ዣንጥላ እፈልጋለሁ,qa_factoid,0.9765,0.0012,False
+6178,am-ET,weather,weather_query,ጃኬት መልበስ ይኖርብኝ ይሆን,qa_factoid,0.7169,0.0061,False
+6194,am-ET,weather,weather_query,ዛሬ የአየሩ ሁኔታ እንዴት ነው,weather_query,0.9951,0.9951,True
+6289,am-ET,weather,weather_query,ሃይ ዛሬ የአየሩ ሁኔታ እንዴት ነው,weather_query,0.9242,0.9242,True
+6370,am-ET,calendar,calendar_query,የሚመጣው ሳምንት ምን ይመስላል,weather_query,0.4635,0.012,False
+6372,am-ET,news,news_query,ሰብልን ላይ የተመሰረተ ዜና,email_sendemail,0.4925,0.0096,False
+6403,am-ET,transport,transport_query,አንድ ቦታ እንዴት እንደሚደርሱ,qa_factoid,0.6954,0.0201,False
+6410,am-ET,news,news_query,ዛሬ በ ሱዳን ውስጥ ምን እየሆነ ነው,news_query,0.7104,0.7104,True
+6411,am-ET,weather,weather_query,ቀጣይ እሮብ የአየር ሁኔታ ምን ይሆናል,iot_hue_lightoff,0.3472,0.1301,False
+6539,am-ET,calendar,calendar_set,ዛሬ የአመጋገብ ስርዐት ማስተካከያዬን ማስጀመሪያ መዝግብ,play_radio,0.1259,0.0425,False
+6542,am-ET,cooking,cooking_recipe,ለስላሳ አይብ ከጠንካራ አይብ ይሻላል,qa_factoid,0.8465,0.0268,False
+6618,am-ET,news,news_query,አዝናኝ ዜና ንገረኝ,social_post,0.6612,0.0794,False
+6682,am-ET,news,news_query,ምርጫዎች ወደ ላይ,social_post,0.1734,0.0335,False
+6683,am-ET,news,news_query,ኢኮኖሚያዊ ጉዳዮች,qa_factoid,0.5955,0.0154,False
+6713,am-ET,calendar,calendar_remove,ረቡዕ ላይ የንግድ ስብሰባ ን ሰርዝ,social_post,0.4542,0.024,False
+6722,am-ET,calendar,calendar_query,ላስታውሰው የሚከባ ነገር አለን,qa_factoid,0.546,0.0112,False
+6725,am-ET,calendar,calendar_set,ከሰአት በኋላ የኔ ስለነበረኝ ፕሮግራም ማስታወሻ,qa_factoid,0.9701,0.0015,False
+6726,am-ET,calendar,calendar_remove,የሚቀጥለውን ስብሰባ ይሰርዙ,social_post,0.4832,0.0024,False
+6729,am-ET,calendar,calendar_remove,የሳራ ቤት ቁርስ ቀጠሮዬን ሰርዝ,qa_factoid,0.2705,0.0244,False
+6732,am-ET,calendar,calendar_set,ከ የኔ አማች እሁድ ስብሰባ ማስታወሻ ጨምር,email_sendemail,1.0,0.0,False
+6744,am-ET,calendar,calendar_set,ነገ አስር ሰዓት ላይ ከከበደ ጋር ቀጠሮ ያዝልኝ,social_post,0.514,0.0036,False
+6746,am-ET,calendar,calendar_set,የእኔ የቀን መቁጠርያ ሰኔ የመጀመሪያ ሳምንት እንደ በዓል አስቀምጥ,datetime_query,0.4915,0.0244,False
+6747,am-ET,calendar,calendar_query,ምን ያህል ማስታወሻዎች አሉኝ,qa_factoid,0.9997,0.0,False
+6755,am-ET,calendar,calendar_remove,ካላንደሬን አጽዳልኝ,calendar_remove,0.4044,0.4044,True
+6761,am-ET,calendar,calendar_remove,ዘጠኝ ሰዓት ላይ የእኔ ከቀን መቁጠሪያዬ ስብሰባ አስወግድ,email_sendemail,0.9968,0.0001,False
+6764,am-ET,calendar,calendar_set,መስኮት ማጠብ አስታውሰኝ,qa_factoid,0.9995,0.0,False
+6774,am-ET,calendar,calendar_set,ለ አረብ ክስተት አዘጋጅ,qa_factoid,0.235,0.0287,False
+6785,am-ET,calendar,calendar_query,የሚቀጥለው ማስታወሻዬ ምንድነው,qa_factoid,0.999,0.0,False
+6789,am-ET,calendar,calendar_set,ቅዳሜ ምሽት አራት ሰዓት ላይ ከ ሄለን ጋር ቀጠሮ አስይዝ,cooking_recipe,0.9828,0.0006,False
+6798,am-ET,calendar,calendar_remove,ቀጣዩን የኔ ዝግጅት አስወግድ,email_sendemail,0.1866,0.0459,False
+6801,am-ET,calendar,calendar_query,በዚህ አርብ ስብሰባዎቼን አሳዩኝ,social_post,0.9805,0.0005,False
+6806,am-ET,calendar,calendar_query,ዛሬ የኔ በዚህ አርብ ከሰአት በኋላ የቀን ሰሌዳ ዝግጅት አሳይ,play_radio,0.1149,0.0356,False
+6815,am-ET,calendar,calendar_set,የእናት ልደት ከሳምንት በፊት አስታውሰኝ,weather_query,0.2137,0.0349,False
+6819,am-ET,calendar,calendar_set,ኦሊ ዛሬ ማታ ዘጠኝ ላይ ጃዝ ባር ጥሩ የሚጫወት ባንድ መሄድ እፈልጋለሁ,recommendation_events,0.5614,0.003,False
+6836,am-ET,calendar,calendar_set,ስለ ስብሰባው ነገ ስድስት ሰዓት አስታውሰኝ,social_post,0.9825,0.0004,False
+6850,am-ET,calendar,calendar_query,የእኔ ዛሬ መርሃ ግብር ዘርዝር,play_radio,0.3452,0.0137,False
+6856,am-ET,calendar,calendar_set,የነገ አስር ሰዓት ኤ. ኤም. ስብሰባ የሚያስታውስ ማንቂያ ስጠኝ,iot_hue_lightoff,0.5309,0.0021,False
+6860,am-ET,calendar,calendar_query,መጪ ክስተቶች አሉ,qa_factoid,0.8484,0.005,False
+6865,am-ET,calendar,calendar_set,በ አስር የ ነገ ስብሰባ ማስታወቂያ አዘጋጅ,social_post,0.2401,0.0376,False
+6878,am-ET,calendar,calendar_set,አርብ ሁለት ተኩል ፒ. ኤም. ከሒሳብ ክፍል ጋር ስብሰባ ያዝ,email_sendemail,1.0,0.0,False
+6891,am-ET,calendar,calendar_query,የጠዋት ትርኢቶች አሉ,iot_hue_lightoff,0.6454,0.0065,False
+6892,am-ET,calendar,calendar_query,የ ፊልም መርሃ ግብር ልትሰጠኝ ትችላለህ,qa_factoid,0.9908,0.0001,False
+6897,am-ET,calendar,calendar_set,በ ሰባተኛ ምሽት አምስት ላይ ሊዲያ እንድወስድ አስታውስ,qa_factoid,0.8958,0.0039,False
+6901,am-ET,calendar,calendar_set,ነገ አስር ኤ.ኤም. ላይ ስለ ስብሰባው አስታውሰኝ,social_post,0.7079,0.0075,False
+6902,am-ET,calendar,calendar_set,ቀጣይ ወር ዘይት ማስቀየር እንዳለብኝ ማስታወሻ አዘጋጅ,cooking_recipe,0.9873,0.0004,False
+6909,am-ET,calendar,calendar_query,ከአንድ ሰዓት በኋላ እና ከሶስት ፒ. ኤም. በፊት ምን አለ,datetime_query,0.4169,0.0149,False
+6918,am-ET,calendar,calendar_remove,ጉዳይ ከቀን መቁጠሪያ ሰርዝ,cooking_recipe,0.4039,0.0317,False
+6923,am-ET,calendar,calendar_set,ማክሰኞ ጠዋት ላይ ሰነዶቹን አትም አስታዋሽ ያዘጋጁ,email_sendemail,0.9621,0.0019,False
+6926,am-ET,calendar,calendar_query,አርብ ነዉ,weather_query,0.2607,0.025,False
+6928,am-ET,calendar,calendar_remove,ሁሉንም ጉዳዮች ሰርዝ,qa_factoid,0.353,0.0188,False
+6936,am-ET,calendar,calendar_set,ዘጠኝ ኤ.ኤም ለይ መድሀኒት እንድዘሰድ አስታውሰኝ,social_post,0.2418,0.0218,False
+6937,am-ET,calendar,calendar_set,ከሃላፊ ጋር ምሳ ከሰዓት አስታዋሽ ሙላ,qa_factoid,0.9988,0.0,False
+6946,am-ET,calendar,calendar_query,ለሚቀጥለው ዕሮብ የተዘጋጁ ቀጠሮዎች አሉ,recommendation_events,0.2,0.0389,False
+6958,am-ET,calendar,calendar_remove,ካላንደሬ ላይ ምንም ኹነቶች እንደሌሉ አረጋግጥ,qa_factoid,0.6266,0.013,False
+6959,am-ET,calendar,calendar_set,የኔ ስብሰባ ከመጀመሩ ከ አንድ ሰዓት በፊት አስታውሰኝ።,qa_factoid,0.5145,0.0133,False
+6962,am-ET,calendar,calendar_set,እኔ በሚቀጥለው ቅዳሜ በ ስድስት ፒ.ኤም. ሰዓት ምን ማድረግ እንዳለብኝ ማወቅ እችላለሁ,play_podcasts,0.3679,0.0148,False
+6964,am-ET,calendar,calendar_set,ከአለቃዬ ጋር ያለኝን ስብሰባ ከአንድ ሰአት በፊት ታስታውሰኝ,email_sendemail,0.288,0.0293,False
+6967,am-ET,calendar,calendar_query,በዚህ ጉዳይ እውነታውን ማጣራት ትችላለህ,qa_factoid,0.4871,0.022,False
+6968,am-ET,calendar,calendar_query,የግብዣው ሰው ለዛሬ ሁሉንም ስብሰባዎች ማረጋገጥ አለብኝ,cooking_recipe,0.3555,0.0071,False
+6973,am-ET,calendar,calendar_set,ነገ አድስ አበባ ስብሰባ ወደ ማስታወሻ ጨምር,social_post,0.1938,0.0272,False
+6974,am-ET,calendar,calendar_set,ነገ ድሬዳዋ ተግባር አለኝ አስታውሰኝ,qa_factoid,0.9824,0.0006,False
+6980,am-ET,calendar,calendar_query,የሚደረጉ ነገሮች ዝርዝር ስጠኝ,news_query,0.9368,0.0012,False
+6992,am-ET,calendar,calendar_query,የወደ ፊት ኹነቶችን አሳይ,iot_hue_lightoff,0.2745,0.0217,False
+6994,am-ET,calendar,calendar_set,በ እኔ አስታውስ,qa_factoid,0.9872,0.0001,False
+6997,am-ET,calendar,calendar_remove,ተከታታይ ዝግጅት አስወግድ,social_post,0.5021,0.0027,False
+7000,am-ET,calendar,calendar_set,አዲስ ኹነት,qa_factoid,0.9304,0.0031,False
+7004,am-ET,calendar,calendar_set,ካላንደሬ ላይ በየአመቱ በዚህ ቀን ማስታወሻ አስገባ,qa_factoid,0.9126,0.0037,False
+7013,am-ET,calendar,calendar_query,ክስተት መቼ እንደሚጀመር,qa_factoid,0.4839,0.002,False
+7014,am-ET,calendar,calendar_query,የዛሬ ክስተቶች መርሐግብር ስጠኝ,lists_remove,0.8846,0.0041,False
+7025,am-ET,calendar,calendar_remove,አዲስ አመትን ከካላንደር ላይ አጥፋ,social_post,0.1789,0.0402,False
+7026,am-ET,recommendation,recommendation_events,ምን አይነት ክስተቶች ይበራሉ የእኔ ከተማ ይህ ሳምንት,iot_hue_lightoff,0.3426,0.0285,False
+7039,am-ET,calendar,calendar_set,በሚቀጥለው ማክሰኞ አስራ አንድ ኤ. ም. ላይ ከ ቶሎሳ ጋር ስብሰባ አዘጋጅልኝ,email_sendemail,0.1836,0.0283,False
+7044,am-ET,calendar,calendar_set,አምስት ሰአት ፒ. ኤም. ላይ መዘጋጀት እንድጀምር አስታውሰኝ እባክህን,cooking_recipe,0.6659,0.0106,False
+7046,am-ET,calendar,calendar_set,ሀያ አንደኛው ቀን ሰባት ሰአት ላይ የቦርድ ስብሰባ አለ,social_post,0.6844,0.0098,False
+7055,am-ET,calendar,calendar_set,ሃሙስ አምስት ሰዓት ረፋድ ላይ ከ ሄኖክ ጋር ስብሰባ ያዝ,social_post,0.8288,0.0033,False
+7057,am-ET,calendar,calendar_set,ረብኡ እኩለ ቀን ላይ ከበደ ጋር የምሳ ስብሰባ ያዘጋጁ,social_post,0.5394,0.0184,False
+7061,am-ET,calendar,calendar_set,ከ ካሳ ጋር አርብ ላለኝ ስብሰባ ከ ከሃያ አራት ሰዓት በፊት አስታውሰኝ,news_query,0.1318,0.0448,False
+7073,am-ET,calendar,calendar_set,የእኔ ቀጣይ ክስተት ከመከሰቱ በፊት ቀን መቁጠሪያ ላይ ፈልገ አሳውቀኝ,qa_factoid,0.0657,0.0462,False
+7080,am-ET,calendar,calendar_remove,የቀን መቁጠሪያዬ ላይ ያለውን የእኔ ሁሉን ነገር ሰርዝ,lists_remove,0.7716,0.0072,False
+7087,am-ET,calendar,calendar_remove,የነገው ስብሰባ የእኔ የቀን መቁጠሪያ ላይ ሰርዘው,social_post,0.9323,0.0033,False
+7098,am-ET,calendar,calendar_set,በአስራ ሁለት የመኪና ክፍያ እንዳለብኝ ቀን መቁጠሪያ ላይ ማስታወሻ መዝግብ,lists_remove,0.1168,0.0471,False
+7100,am-ET,calendar,calendar_set,የእኔ መኪና ከ መቃረቡ ከአንድ ቀን በፊት ቀን አስታውሰኝ,lists_remove,0.183,0.0408,False
+7111,am-ET,calendar,calendar_query,የሃኪም ቀጠሮ የካቲት ሰላሳአንደኛው ስንት ሰዓት ነው,datetime_query,0.3227,0.0345,False
+7113,am-ET,calendar,calendar_query,የዚህ ሳምንት መጨረሻ ቅዳሜና እሁድ መሃል ከተማ ማንኛውም ዝግጅቶች ይኖራሉ,lists_remove,0.5013,0.0245,False
+7117,am-ET,calendar,calendar_remove,የኔ የቀን መቁጠሪያ አስራዘጠነኛው ላይ ያሉትን ዝግጅቶች አስወግዱ,lists_remove,0.0785,0.0489,False
+7120,am-ET,calendar,calendar_query,የዛሬ መርሃ ግብሬ ምን ይመስላል,iot_hue_lightoff,0.2141,0.0205,False
+7122,am-ET,calendar,calendar_set,ይህን ኩነት መድገም ትችያለሽ,qa_factoid,0.9196,0.0018,False
+7140,am-ET,calendar,calendar_set,ከ ምሳ ስብሰባ አንድ ሰዓት በፊት ለማሳወቅ አስታዋሽ አዘጋጅ,email_sendemail,0.8129,0.0032,False
+7141,am-ET,calendar,calendar_query,ለዚህ ፕሮግራም ቀጠሮ ተይዟል,cooking_recipe,0.3791,0.0282,False
+7151,am-ET,calendar,calendar_set,ለእያንዳንዱ ጎዶሎ ቁጥር ያለው እሁድ ቀን አስታዋሽ አዘጋጅ,cooking_recipe,0.1189,0.044,False
+7152,am-ET,calendar,calendar_set,የምሳ ማስታወሻ በየቀኑ አስራ ሁለት ተኩል ላይ ሙላ የምሳ ማስታወሻ,email_sendemail,0.5285,0.0125,False
+7161,am-ET,calendar,calendar_set,ይህንን ክስተት ለወደፊት አስታውስ,qa_factoid,0.687,0.0091,False
+7170,am-ET,calendar,calendar_set,ዛሬ የእናቴ ልደት ነው በዚህ ቀን በየአመቱ ማሳወቂያ ላኪልኝ,email_sendemail,0.642,0.0167,False
+7181,am-ET,calendar,calendar_set,እኔ ለ ስብሰባ ጊዜ እንዲኖረኝ ሃሙስ ስድስት ሰዓት ኤ.ኤም. እኔን አንቃ,email_sendemail,0.2695,0.0186,False
+7185,am-ET,calendar,calendar_query,ከዶክተር አየለ ጋር ያለኝ ቀጣይ ቀጠሮ መቼ ነው,qa_factoid,0.2926,0.0372,False
+7189,am-ET,calendar,calendar_query,ምን የያዝኩት ቀጠሮ አለኝ,cooking_recipe,0.7873,0.0025,False
+7194,am-ET,calendar,calendar_set,ነገ ስብሰባ አደረጋለው አዘጋጀው,cooking_recipe,0.382,0.0166,False
+7196,am-ET,calendar,calendar_set,በመጋቢት አስራ አምስት ከታደሰ ጋር እማደረገውን ስብሰባ አስታውሰኝ,social_post,0.3161,0.0282,False
+7199,am-ET,calendar,calendar_set,የሚቀጥለው ሳምንት የእንግሊዝኛ ማጠቃለያ ፈተና ከመደረጉ በፊት ሶስት ሁለት እና አንድ ሰአታት ማሳወቂያ ያዘጋጁ,qa_factoid,0.0758,0.0513,False
+7209,am-ET,calendar,calendar_set,ማክሰኞ ቆሻሻ ማውጣት አስታውሰኝ,qa_factoid,0.1823,0.0446,False
+7219,am-ET,calendar,calendar_query,ለነገው ስብሰባ አስታዋሽ አስቀምጠዋል,email_sendemail,0.9999,0.0,False
+7224,am-ET,calendar,calendar_query,የ አባድር ጋብቻ የሚካሄድበት ቦታ የት ነው,qa_factoid,0.8807,0.0044,False
+7232,am-ET,calendar,calendar_query,ቀጣይ ሳምንት ምን ጉዳዮች አሉ,qa_factoid,0.3699,0.0316,False
+7257,am-ET,calendar,calendar_set,እባኮትን በግማሽ ሰዓት ውስጥ እናቴን እንድ ደውል አስታውሰኝ,qa_factoid,0.3861,0.0227,False
+7258,am-ET,calendar,calendar_set,ከ አንድ ሰዓት በኋላ ለ አለቃ ኢሜል ይላኩ አስታውስ,email_sendemail,1.0,0.0,False
+7262,am-ET,calendar,calendar_set,ለ ነገ ስብሰባ የማሳወቂያ አስታዋሽ ይፍጠሩ,qa_factoid,0.8588,0.0044,False
+7266,am-ET,calendar,calendar_query,በመጠባበቅ ላይ ያሉ ተግባሮቼ ምንድን ናቸው,lists_remove,0.179,0.0385,False
+7278,am-ET,calendar,calendar_set,የሳራ ልደት ከሃያ አራት ሰዓት በፊት አስታውሰኝ,datetime_query,0.1629,0.0402,False
+7287,am-ET,calendar,calendar_set,ስለ ዓመታዊ በአሉ አንድ ቀን ቀደም ብለህ አስታውሰኝ,recommendation_events,0.0543,0.053,False
+7289,am-ET,calendar,calendar_remove,ሁሉንም ዝግጅቶች ከ ካሱ አስወግድ,lists_remove,0.7361,0.0134,False
+7291,am-ET,calendar,calendar_set,ከ አስር ነገ ጠዋት አንድ ሰዓት አግድ,weather_query,0.3399,0.0157,False
+7292,am-ET,calendar,calendar_set,ነገ ከአራት ሰዓት እስከ ስድስት ሰዓት ማታ አልገኝም ካላንደሬ ላይ ምልክት አድርግ,weather_query,0.2475,0.0297,False
+7293,am-ET,calendar,calendar_set,ቅዳሜ አንድ ሰዓት ቀጠሮ ይያዙ,datetime_query,0.7357,0.012,False
+7294,am-ET,calendar,calendar_remove,ከአበበ አበራ ጋር ያለኝን ቀጠሮ ሰርዝ,qa_factoid,0.5377,0.0156,False
+7295,am-ET,calendar,calendar_remove,እባክህ ካላንደሬን አጽዳ,email_sendemail,0.667,0.0276,False
+7314,am-ET,calendar,calendar_query,ዛሬ ምንድነው,calendar_remove,0.1779,0.0259,False
+7316,am-ET,calendar,calendar_query,ማንኛውም ቀጠሮ አለኝ,qa_factoid,0.926,0.003,False
+7319,am-ET,calendar,calendar_query,ከሁለት አራት ፒ. ኤም. ጀምሮ ዛሬ ምን እየሆነ ነው,datetime_query,0.3054,0.033,False
+7353,am-ET,email,email_query,በቃ በሚቀጥሉት ሳምንታት በአርባምንጭ የአየር ሁኔታ አሳውቀኝ,weather_query,0.5221,0.0253,False
+7355,am-ET,calendar,calendar_set,ስድስት ሰዓት ላይ ፓስታውን እንዳይ አስታውሰኝ,qa_factoid,0.9663,0.0015,False
+7380,am-ET,calendar,calendar_query,እባክዎን ዛሬ ከ ደንበኞች ጋር ስብሰባ ያሳዩ,social_post,0.99,0.0005,False
+7397,am-ET,calendar,calendar_query,ለሚቀጥሉት ሶስት ወራት የተያዘ እቅድ አለ,qa_factoid,0.9993,0.0,False
+7449,am-ET,calendar,calendar_set,እባክህ ከዚህ ሰው ጋር ቀጠሮ ያዝልኝ,social_post,0.5419,0.0035,False
+7450,am-ET,calendar,calendar_set,ከዚህ ሰው ጋር የስብሰባ ቀጠሮ እንዲያዝ እፈልጋለሁ,qa_factoid,0.2203,0.0232,False
+7455,am-ET,calendar,calendar_set,ስለ ፓርቲ ነገ አስታውስ,qa_factoid,0.9705,0.0002,False
+7461,am-ET,calendar,calendar_set,ወደ ካላንደሩ ኹነት ሰዎች ጋብዝ,qa_factoid,0.2123,0.0209,False
+7463,am-ET,calendar,calendar_set,አዲሱ ስብሰባ ቀን ነገ መሆኑን ለቡድኔ አሳውቁ,social_post,0.67,0.015,False
+7467,am-ET,calendar,calendar_query,ዝግጅቶች ጊዜ ስጠኝ,lists_remove,0.7462,0.0025,False
+7477,am-ET,calendar,calendar_set,በየአመቱ መስከረም አራት ላይ የሰርግ ክብረበዓል ስጦታዎች እንዳዘጋጅ አስታውሰኝ,qa_factoid,0.9713,0.0009,False
+7496,am-ET,calendar,calendar_query,ዛሬ ቀጠሮዎች አሉኝ,qa_factoid,0.8871,0.0039,False
+7499,am-ET,calendar,calendar_set,ለነገ ስብሰባ አዲስ መርሐግብር ፍጠር,email_sendemail,0.1023,0.0394,False
+7500,am-ET,calendar,calendar_remove,የሚቀጥለውን ክስተት መሰረዝ ይችላሉ,qa_factoid,0.4753,0.0098,False
+7502,am-ET,calendar,calendar_query,ከአለሙ ጋር አራት ፔኤም ላይ ያለኝ ቀጠሮ አጀንዳ ምንድነው,iot_hue_lightoff,0.0599,0.0536,False
+7503,am-ET,calendar,calendar_query,ያኛው አርብ አንድ ሰዓት ፒ.ኤም. ላይ የሚደረገው ስብሰባ አዲስ አበባ የት ቦታ ነው,news_query,0.2136,0.0407,False
+7520,am-ET,calendar,calendar_set,ሁሌም በየእለቱ ሁለት ፒ. ኤም. ምሳ አስታውሰኝ,email_sendemail,0.1969,0.0411,False
+7524,am-ET,calendar,calendar_query,ዛሬ አምስት ከሃያ ፒ. ኤም. ላይ በነበረው ስብሰባ ወርቁ ምን ያህል ለማውጣት ተስማማ,qa_factoid,0.3404,0.0234,False
+7528,am-ET,calendar,calendar_set,ሰኔ አስራ ሶስት የምርጫ ዉጤት ቀን ነው እባክህ አዘጋጀው,datetime_query,0.2082,0.0303,False
+7531,am-ET,calendar,calendar_set,እባክህ የክፍያ ቀናቶቼን አስገባ,email_sendemail,0.9981,0.0001,False
+7539,am-ET,calendar,calendar_query,አሁን እምሰራው ሰራ አለ,qa_factoid,0.9945,0.0002,False
+7542,am-ET,calendar,calendar_set,እባክህ ስለዚህ ጉዳይ ነገ ማስታወስ,email_sendemail,0.7771,0.0083,False
+7549,am-ET,calendar,calendar_set,እስከ ሶስት ሰአት ድረስ ስብሰባ እፈልጋለሁ,qa_factoid,0.7071,0.0068,False
+7556,am-ET,calendar,calendar_set,ሁልጊዜ አርብ የምግብ ሸቀጣ ሸቀጥ ግዛ የሚል አስታዋሽ አዘጋጅ,qa_factoid,0.448,0.0234,False
+7557,am-ET,calendar,calendar_set,ካላንደር ላይ የቦታ አስታዋሽ አድርግ,social_post,0.6554,0.0007,False
+7559,am-ET,calendar,calendar_set,ዛሬ ስምንት ሰዓት ፒ.ኤም. ላይ በደረቁ የታጠበ ልብሴን መቀበል አስታውሰኝ,email_sendemail,0.9917,0.0003,False
+7563,am-ET,calendar,calendar_set,የነገውን ስብሰባ ከአንድ ሰዓት በፊት አስታውስ,social_post,0.4325,0.0196,False
+7565,am-ET,calendar,calendar_set,የስብሰባ አስታዋሽ,email_sendemail,1.0,0.0,False
+7567,am-ET,calendar,calendar_set,የልደት ቀን,qa_factoid,0.9398,0.0014,False
+7569,am-ET,calendar,calendar_query,የነገ እቅድ,qa_factoid,0.9924,0.0,False
+7570,am-ET,calendar,calendar_query,ዛሬ እቅድ ምንድን ነው,qa_factoid,0.6204,0.0017,False
+7583,am-ET,calendar,calendar_set,አቤ ጉዳዮች ጨምር ካላንደርህ ላይ,lists_remove,0.5805,0.019,False
+7596,am-ET,calendar,calendar_set,እባክህ ከሰአት ላይ ከ derrick haysi ጋር ለመገናኘት ስብሰባ ያዝ,social_post,0.8712,0.0014,False
+7598,am-ET,calendar,calendar_set,እባክን ቀጥሎ ባለ የ ስብሰባ ቀን ከ ተፈሪ ጋር ስለሽብርተኝነት ለመወያየት ስብሰባ ያዝልኝ,social_post,0.2975,0.0345,False
+7606,am-ET,calendar,calendar_set,ነገ በ ሶስት ሰዓት ከ ቶማስ ጋር እንገናኝ,social_post,0.869,0.0024,False
+7609,am-ET,calendar,calendar_remove,የ ማክሰኞ ስብሰባ ማስታወሻ አስወግድ,qa_factoid,0.1348,0.1163,False
+7613,am-ET,calendar,calendar_query,ቀጣዩ ኹነት ምንድነው,qa_definition,0.9942,0.0,False
+7628,am-ET,calendar,calendar_set,በተ መጽሃፍ ውስጥ ስሆን አዲስ የቤተ-መጽሐፍት ካርድ እንዳገኝ አስታውሰኝ,qa_factoid,0.2054,0.0422,False
+7654,am-ET,calendar,calendar_set,ሚያዚያ ሃያን የወንድሜ የልደት ቀን አድርገህ ምልክት አድርግ,email_sendemail,0.296,0.0199,False
+7655,am-ET,calendar,calendar_set,ሚያዚያ ሀያ የወንድሜን ልደት ማስታወሻ ይያዝልኝ,qa_factoid,0.3308,0.0108,False
+7660,am-ET,calendar,calendar_remove,ዛሬ ከ ሶስት ፒ. ኤም. በኋላ ሁሉንም ቀጠሮዎች ሰርዝ እና ዝርዝሩን አሳውቀኝ,qa_factoid,0.2284,0.0391,False
+7662,am-ET,calendar,calendar_query,ዛሬ ያሉኝን ስብሰባዎች ልትዘረዝርልኝ ትችላለህን,social_post,0.6944,0.0052,False
+7664,am-ET,calendar,calendar_set,ከ ሚኪ ምሳ ጨምር,qa_factoid,0.6172,0.0014,False
+7666,am-ET,calendar,calendar_set,ነገ ሶስት ላይ ዮሃንስ ጋር ስብሰባ እንዳለኝ ምልክት ታደርጋለህ,email_sendemail,0.9171,0.0027,False
+7680,am-ET,calendar,calendar_remove,ካሌንደሬ ላይ ሁሉንም ያሁን ወር ሁሉንም የኳስ ዝግጅቶቼን አጥፋ,social_post,0.0534,0.0496,False
+7686,am-ET,calendar,calendar_set,ሚኪ እና ጀማል ወደ በዓል ቀን መቁጠሪያ አካትት,email_query,0.0928,0.0495,False
+7690,am-ET,calendar,calendar_query,ለእኔ ምን እየመጣ ነው,email_sendemail,0.3294,0.0202,False
+7693,am-ET,calendar,calendar_query,ለ ሀያ አንደኛ እቂድ አለኝ,qa_factoid,0.9891,0.0,False
+7697,am-ET,calendar,calendar_set,ለዚህ ማስታወሻ አዘጋጅ,qa_factoid,0.9998,0.0,False
+7711,am-ET,calendar,calendar_set,ሄይ ሌሎቹን የኔ ስብሰባዎች ሰርዝ እና የዳናኤል ልደት ቀን ስለሆነ ለ ህዳር ሁለት በአንተ የቀን መቁጠሪያ ውስጥ ያለ ኩነት አድርገህ አካትት,lists_remove,0.1735,0.0392,False
+7712,am-ET,calendar,calendar_set,ሁሉንም ሌሎች የኔ ስብሰባዎቼን ሰርዝ እና የዮሃንስ የልደት ቀን ስለሆነ የካቲት ሁለተኛው ጥሪ ደወልኩ በእርስዎ የቀን መቁጠሪያ ውስጥ እንደ ዝግጅት አድርግ,lists_remove,0.2004,0.0423,False
+7718,am-ET,calendar,calendar_set,ሄይ ስብሰባ ግብዣ አቶ በቀለ ላኪልኝ ለዚህ አርብ ስብሰባ ቀድመህ የቀን መቁጠሪያዬን አርብ ከቀትር በኋላ አግደው,iot_hue_lightoff,0.313,0.0349,False
+7726,am-ET,calendar,calendar_set,የሆነ ነገር ሁሌም ሰኞ እፈልጋለሁ ማስታወሻ አድርግለት,calendar_remove,0.1087,0.039,False
+7730,am-ET,calendar,calendar_set,ቀጣይ ሰኞን ምልክት እንድታረግ እፈልጋለሁ,calendar_remove,0.4563,0.0124,False
+7741,am-ET,calendar,calendar_remove,ካላንደሬን ለቅዳሜ አፅዳ,calendar_remove,0.1767,0.1767,True
+7751,am-ET,calendar,calendar_set,ቆሻሻውን እንዳወጣ በየእለቱ አስታውሰኝ።,weather_query,0.2099,0.0384,False
+7762,am-ET,calendar,calendar_query,ምን ማስታወሻዎች አሉኝ,qa_factoid,0.9998,0.0,False
+7767,am-ET,calendar,calendar_set,ጥር ሃያ ሰባት ሁለት ሰዓት ፒ.ኤም. አንድነት ፓርክ ጉዞ አስታውሰኝ,datetime_query,0.1381,0.0427,False
+7768,am-ET,calendar,calendar_set,እባክህ ጥር አራተኛው በ መርካቶ ሁለት ፒ. ኤም. ልምምድ ጨምር,lists_remove,0.0865,0.0349,False
+7774,am-ET,calendar,calendar_set,ነገ ግብይት ካላንደሬ ላይ ጨምር,qa_factoid,0.8888,0.0033,False
+7777,am-ET,calendar,calendar_query,እኔ ዛሬ ቀጠሮ አለኝ,qa_factoid,0.9119,0.0034,False
+7778,am-ET,calendar,calendar_set,እሁድ ከሰዓት በኋላ እኔ የምሰራውን ለእኔ አስታውስ,qa_factoid,0.9932,0.0002,False
+7808,am-ET,calendar,calendar_set,ሀሙስ አንድ ሽኽ አንድ መቶ ኤ.ኤም. ላይ እናት ወደ ፀጉር ሰራተኛ መውሰድ አስታውሰኝ,social_post,0.2391,0.0254,False
+7817,am-ET,calendar,calendar_query,ስለዚህ ቀን ይህ እውነት ነው,qa_factoid,0.5396,0.0124,False
+7820,am-ET,calendar,calendar_remove,በቀን መቁጠሪያ ውስጥ ያሉትን ሁሉንም ዝግጅቶች ደምስስ,lists_remove,0.8941,0.0132,False
+7836,am-ET,calendar,calendar_remove,ሁሉንም ኹነቶች አጥፋ,qa_factoid,0.3749,0.0302,False
+7843,am-ET,calendar,calendar_set,በሁለት ሰአት ውስጥ በአራት ሰዓት ፒ.ኤም. በብሄራዊ ቲያትር የቫዮሊን ትምህርት እንዳለኝ አስታውሰኝ,qa_factoid,0.2214,0.0359,False
+7844,am-ET,calendar,calendar_query,ምን ማስታወሻዎች አሉኝ,qa_factoid,0.9998,0.0,False
+7847,am-ET,calendar,calendar_set,ምዝገባ ሲጀመር,qa_factoid,0.3545,0.0035,False
+7851,am-ET,calendar,calendar_set,ዛሬ ከሰዓት ስብሰባ አለኝ,qa_factoid,0.848,0.0016,False
+7863,am-ET,calendar,calendar_set,ዛሬ ከሰአት በኋላ በአምስት ሰዓት እራት እንድጀምር አስታውሰኝ።,weather_query,0.651,0.0161,False
+7870,am-ET,calendar,calendar_remove,ከካላንደር ላይ ጉዳይ አጥፋ,social_post,0.2781,0.0382,False
+7876,am-ET,news,news_query,ላለፉት ሁለት ወራት ምን እየተፈጠረ ነበር,qa_factoid,0.2794,0.0873,False
+7878,am-ET,calendar,calendar_remove,ካላንደሬን አጽዳ,qa_factoid,0.2289,0.0332,False
+7879,am-ET,calendar,calendar_query,ቀጣይ ሶስት ኹነቶቼ ምን ምን ናቸው,iot_hue_lightoff,0.1128,0.0469,False
+7889,am-ET,calendar,calendar_query,ዛሬ ማታ የእግር ኩዋስ ጨዋታ ስንት ሰአት ነው,datetime_query,0.611,0.0097,False
+7890,am-ET,calendar,calendar_remove,ዛሬ ግልጽ የሆነ የፀጉር አሠራር,social_post,0.5324,0.0057,False
+7891,am-ET,calendar,calendar_remove,የዛሬ ማታን እራት ሰርዝ,weather_query,0.656,0.0172,False
+7892,am-ET,calendar,calendar_remove,የሚቀጥለውን ሁነት ዛሬ ሰርዝ,iot_hue_lightoff,0.8921,0.0037,False
+7894,am-ET,calendar,calendar_set,ስለ ምርጫ ያለ አዲስ ነገር በአንድ ሰዓት ውስጥ ንገረኝ,email_query,0.3199,0.0185,False
+7902,am-ET,calendar,calendar_set,በራሴ እና ዮሀንስ መካከል ስብሰባ ነገ ሁለት ፒ. ኤም. አዘጋጅ,email_sendemail,0.9987,0.0001,False
+7908,am-ET,calendar,calendar_query,ዛሬ ማንኛውንም ነገር ማድረግ አለብኝ,calendar_remove,0.3378,0.0076,False
+7912,am-ET,calendar,calendar_remove,አበበች እራት ከ ሚኪ የእኔ ቀን መቁጠሪያዬ አስወግድ,lists_remove,0.2699,0.1445,False
+7916,am-ET,calendar,calendar_set,ስድስት ሰዓት ፒ.ኤም. ላይ ቆሻሻውን እንዳወጣው አስታውሰኝ,datetime_query,0.2146,0.0372,False
+7918,am-ET,calendar,calendar_set,የቀን መቁጠሪያ የዝግጅት ጥሪ ለሰለሞን አበራ ላክ,lists_remove,0.1813,0.0399,False
+7919,am-ET,calendar,calendar_set,አዲሱ ስብሰባ ላይ ገሊላ እና በቀለን እንደ ተሳታፊዎች ጨምር,recommendation_events,0.9063,0.0035,False
+7922,am-ET,calendar,calendar_remove,ትእዛዞችን ክፈት የወደፊት ዝግጅቶችን ሰርዝ,cooking_recipe,0.5983,0.0073,False
+7927,am-ET,calendar,calendar_query,በዚህ ሳምንት ምን ምን ስራዎች አሉኝ,recommendation_events,0.4279,0.0192,False
+7946,am-ET,calendar,calendar_query,በአዲስ አበባ ውስጥ የሚመጡ የኮንሰርቶች ዝርዝሮች ምንድ ናቸው,recommendation_events,0.098,0.0489,False
+7953,am-ET,calendar,calendar_remove,ከ ዶክተሬ ጋር ያለኝን የቅዳሜ ቀጠሮ ሰርዝ,qa_factoid,0.1163,0.0411,False
+7955,am-ET,calendar,calendar_set,ይህንን ፕሮግራም በእኔ ካሌንደር ላይ በሚደጋገም መልኩ አስቀምጪው,qa_factoid,0.5326,0.0257,False
+7956,am-ET,calendar,calendar_set,ይህ ዝግጅት ተደጋጋሚ ማድረግ ይችላሉ,qa_factoid,0.6627,0.0049,False
+7966,am-ET,calendar,calendar_query,አንድ ነገር አስታውስ አልኩህ,qa_factoid,0.4017,0.0221,False
+7970,am-ET,calendar,calendar_set,በግዜ ሰርግ ስጦታ ለመግዛት በሰዓቱ ሰርጉን አስታውሰኝ,qa_factoid,0.8195,0.0022,False
+7971,am-ET,calendar,calendar_set,ከዝግጅቱ ሁለት ቀናቶች በፊት ማስታወሻ አዘጋጁ,qa_factoid,0.3935,0.0306,False
+7975,am-ET,calendar,calendar_query,በዝግጅቱ ላይ የ ቫሌት አገልግሎት አለ,qa_factoid,0.5729,0.0201,False
+7978,am-ET,calendar,calendar_query,ነገ ከ ቀትር በፊት ምን አስታዋሾች አስቀምጫለሁ,qa_factoid,0.5749,0.0111,False
+7980,am-ET,calendar,calendar_set,አንድ ዝግጅት ሲኖርኝ እኔ ንገር,qa_factoid,0.1647,0.0455,False
+7981,am-ET,calendar,calendar_set,ከስብሰባው በፊት ማንቂያ ላክ,qa_factoid,0.9978,0.0001,False
+7993,am-ET,calendar,calendar_remove,የእኔ ሁሉን ፕሮግራሞች ከ ካላንደር አጥፋ,recommendation_events,0.2062,0.0415,False
+8001,am-ET,calendar,calendar_remove,እኔ ለ አርብ ያቀድኩትን ፀጉር መስተካከል መሰረዝ ትችላለህ,cooking_recipe,0.3334,0.0317,False
+8004,am-ET,calendar,calendar_set,አበበች ስለ ፍቺ ልታዋራኝ ስለምትፈልግ በተገኘው ክፍተት ቀጠሮ ያዝልኝ,qa_factoid,0.9969,0.0001,False
+8005,am-ET,calendar,calendar_set,ሰኞ በሃያ ስለ ቅዳሜና እሁድ ጉዞአችን ከተሰማ ጋር መነጋገር አለብኝ,social_post,0.1517,0.038,False
+8013,am-ET,calendar,calendar_query,በ ቀጣይ ወር የእኔ ስብሰባ አሳይ,email_sendemail,1.0,0.0,False
+8029,am-ET,calendar,calendar_query,ዛሬ ምን አይነት ክስተቶች ሊመጡ ይችላሉ,recommendation_events,0.2652,0.0175,False
+8033,am-ET,datetime,datetime_query,ፋሲካ በየትኛው ቀን ላይ ይሆናል,weather_query,0.9974,0.0001,False
+8035,am-ET,calendar,calendar_set,ዘይቱ እንዲለወጥ እኔን አስታውስ,qa_factoid,0.8605,0.0032,False
+8037,am-ET,calendar,calendar_set,ከተወሰነ ጊዜ በኋላ የሆነ ነገር አስታውስ,qa_factoid,0.2519,0.0329,False
+8042,am-ET,calendar,calendar_query,በሚቀጥለው ስብሰባ ስንት ሰዎች ይሳተፋሉ,lists_remove,0.3551,0.0125,False
+8043,am-ET,calendar,calendar_query,ቀጣይ ቀጠሮዬ ስንት ሰአት ነው,datetime_query,0.9712,0.001,False
+8044,am-ET,calendar,calendar_query,የ ዛሬ የእኔ መርሃግብሬ ምንድነው,qa_factoid,0.9958,0.0001,False
+8055,am-ET,calendar,calendar_remove,ማርች ሰባት የኔን ቀጠሮ ሰርዝ,qa_factoid,0.9987,0.0001,False
+8056,am-ET,calendar,calendar_query,አርብ ቀጠሮ አለኝ,social_post,0.6251,0.0071,False
+8058,am-ET,calendar,calendar_query,ዛሬ የሽያጭ ስብሰባ አለኝ እንዴ,social_post,0.9482,0.0008,False
+8073,am-ET,calendar,calendar_set,ለረቡዕ በአስራ አንድ ሰዓት የሽያጭ ስብሰባ ያቅዱ,social_post,0.8393,0.0068,False
+8079,am-ET,calendar,calendar_set,ዳቦ ለመጋገር በ አንድ ሰዓት ውስጥ አስታዋሽ አዘጋጅ,qa_factoid,0.2672,0.0261,False
+8084,am-ET,calendar,calendar_query,የ ዝግጅት አጀንዳ ምንድን ነው,qa_definition,0.9937,0.0002,False
+8085,am-ET,calendar,calendar_set,ለዚህ ሳምንት ቀጠሮ መያዝ እፈልጋለሁ,iot_hue_lightoff,0.3847,0.0079,False
+8100,am-ET,email,email_sendemail,የእኔን የ ኢሜል ቀጠሮዎች ጊዜን መቀየር,iot_hue_lightoff,0.9149,0.0036,False
+8107,am-ET,calendar,calendar_set,ለ አብርሃም የልደት ቀን ዝግጅት አዘጋጅ,qa_factoid,0.2463,0.0159,False
+8110,am-ET,calendar,calendar_set,የቀን መቁጠሪያዬ ላይ ቁጥጥር ጨምር,iot_hue_lightoff,0.5297,0.0138,False
+8116,am-ET,calendar,calendar_query,የካቲት አንድ እና መጋቢት አሥራ ስድስት የጊዜ ገደብቭ ወቅት ምን ዓይነት ስብሰባዎች ተደረጉ,datetime_query,0.0925,0.0455,False
+8119,am-ET,calendar,calendar_query,የሃና የልደት ፓርቲ የት ነው የሚካሄደው,qa_factoid,0.8174,0.0078,False
+8125,am-ET,calendar,calendar_set,የእኔ የቀን መቁጠሪያ ውስጥ ስብሰባ ጉዳይ ፍጠር,email_sendemail,0.1495,0.031,False
+8126,am-ET,calendar,calendar_set,የእኔ የቀን መቁጠሪያ ውስጥ ስብሰባ ጉዳይ መርሐግብር ያስይዙ,social_post,0.207,0.0404,False
+8129,am-ET,calendar,calendar_query,አሁንም ምን አስታዋሾች አሉኝ,qa_factoid,0.9939,0.0001,False
+8140,am-ET,calendar,calendar_set,በአስራ ሦስት ከበዛብህ ጋር ምሳ ስላለኝ ማስታወሻ ሙላ,qa_factoid,0.9883,0.0004,False
+8148,am-ET,calendar,calendar_query,ማንኛውም ማስታወሻዎች አስቀምጬ እንደሆነ እይልኝ,qa_factoid,0.722,0.0079,False
+8150,am-ET,calendar,calendar_query,የልደት ድግስ ማስታዎሻ አለኝ,qa_factoid,0.8083,0.0039,False
+8165,am-ET,calendar,calendar_query,አንድ ሺህ ሁለት መቶ ሠላሳ ፒ. ኤም. ቀድሞውኑ በ አስር ደቂቃ ውስጥ ስብሰባ ይኖርሃል,lists_remove,0.1136,0.0366,False
+8182,am-ET,calendar,calendar_remove,የጥርስ ሐኪም ቀጠሮ መሰረዝ ይችላሉ,recommendation_events,0.4838,0.0008,False
+8188,am-ET,calendar,calendar_query,ቀኑ ምንድን ነው,qa_factoid,0.9984,0.0,False
+8204,am-ET,calendar,calendar_set,እባክዎን ወደ ፖስታ ቤት መሄድ አስታውስ,social_post,0.6854,0.0023,False
+8206,am-ET,calendar,calendar_set,እህት ስጦታ መግዛትን እንዳትረሳ,cooking_recipe,0.6614,0.0125,False
+8230,am-ET,calendar,calendar_query,ማክሰኞ ያለኝ የምሳ ቀጠሮ ምን ያህል ይረዝም ይሆን,email_sendemail,0.3486,0.0142,False
+8241,am-ET,calendar,calendar_remove,ለቀሪው አመት የቀን መቁጠሪያ መርሃ ግብሬን ነፃ አድርግ,qa_factoid,0.7812,0.0148,False
+8245,am-ET,calendar,calendar_set,እሑድ አስራ አንድ ኤ. ኤም. ስለ የቤተ ክርስቲያን አገልግሎቶች እንዳውቅ መደረግ አለበት,email_sendemail,0.0699,0.0515,False
+8248,am-ET,calendar,calendar_set,የነገ እራት ቀንን በቀን መቁጠሪያው ላይ ይጨምሩ,lists_remove,0.3108,0.0121,False
+8251,am-ET,calendar,calendar_set,የሚቀጥለው ሳምንት ምሳ በቀን መቁጠሪያ ላይ ማስቀመጥ እፈልጋለሁ,play_music,0.2483,0.0129,False
+8260,am-ET,calendar,calendar_set,ከበቀለ ልደት አንድ ቀን በፊት አስታውሰኝ,lists_remove,0.0652,0.0501,False
+8261,am-ET,calendar,calendar_set,ከቀጣይ ቀጠሮ አንድ ሰዓት በፊት ማሳወቂያ ላክልኝ,email_sendemail,0.9533,0.0024,False
+8269,am-ET,calendar,calendar_set,ማክሰኞ ስብሰባ ላይ የ ሰላሳ ደቂቃ አስታዋሽ,email_sendemail,0.8779,0.005,False
+8276,am-ET,calendar,calendar_remove,እባክህ ቀጣዩን ቀጠሮዬን ሰርዝ,email_sendemail,0.4689,0.0144,False
+8280,am-ET,calendar,calendar_set,የካቲት አስራአምስተኛው ሳምንት ላይ ማስታወሻ ማዘጋጀት አለብኝ,iot_hue_lightoff,0.3308,0.0197,False
+8284,am-ET,calendar,calendar_remove,ልደት ቀንን ከቀን መቁጠሪያ ያስወግዱ,lists_remove,0.3481,0.1041,False
+8289,am-ET,calendar,calendar_set,አራት ሰዓት ላይ ስለ የዛሬው የመምህራን ስብሰባ አስታዋሽ አዘጋጅ,email_sendemail,0.2204,0.0325,False
+8290,am-ET,calendar,calendar_set,የቀጣይ ሳምንቱን የማናጀሮች ስብሰባ ማክሰኞ እለት አስታዋሽ ሙላ,email_sendemail,0.3384,0.0365,False
+8294,am-ET,calendar,calendar_set,ወደ የቀን መቁጠሪያ አክለውና ድገመው,weather_query,0.064,0.048,False
+8300,am-ET,calendar,calendar_set,መጋቢት አስራስምንት ከአምስት ሰዓት ፒ.ኤም. እስከ ስድስት ፒ.ኤም. ቀጠሮ ያዝ,datetime_query,0.3788,0.0271,False
+8302,am-ET,calendar,calendar_remove,ቀጣይ ሰኞው ስብሰባ አስወግድ,email_sendemail,0.1691,0.0903,False
+8308,am-ET,news,news_query,ትላንትና ቀትር አከባቢ መስቀል አደባባይ የተካሄደው የተቃውሞ ሰልፍ ስለምንድነው,social_post,0.8006,0.0102,False
+8336,am-ET,calendar,calendar_query,ከ ሰላም ጋር ቁርስ የምበላው መቼ ነው,weather_query,0.6021,0.0017,False
+8343,am-ET,datetime,datetime_query,ዕሮብ ነው,qa_factoid,0.7885,0.004,False
+8345,am-ET,calendar,calendar_set,ስብሰባው መቼ እንደሚሆን አሳውቀኝ,qa_factoid,0.5106,0.0028,False
+8347,am-ET,calendar,calendar_query,ታህሳስ አራት ላይ ምን እየተደረገ ነው,cooking_recipe,0.1153,0.0439,False
+8358,am-ET,calendar,calendar_set,ስለዚህ ነገር አስታውሰኝ,qa_factoid,0.9321,0.0036,False
+8366,am-ET,calendar,calendar_set,መጋቢት አስራ ስምንት ተደጋጋሚ ቀጠሮ ለፐርል የልደት ቀን አዘጋጅ,cooking_recipe,0.0569,0.0441,False
+8387,am-ET,calendar,calendar_set,ምሽት ሁለት ሰአት ልብስ ማጠብ አስታውሰኝ,datetime_query,0.416,0.0242,False
+8388,am-ET,calendar,calendar_set,ስምንት ፒ. ኤም. ላይ ልብስ ማጠብ እፈልጋለሁ ማስታወሻ ቅጠር,email_sendemail,0.3708,0.0144,False
+8390,am-ET,calendar,calendar_set,ስብሰባዬን አስታውሰኝ,email_sendemail,0.9051,0.0005,False
+8394,am-ET,calendar,calendar_set,ሁል ቀን ከሰአት መድሃኒት እንድወስድ አስታዋሽ አበጅ,lists_remove,0.1127,0.0407,False
+8404,am-ET,calendar,calendar_query,ስለዚህ ክስተት ተጨማሪ ማወቅ እፈልጋለሁ,qa_factoid,0.8356,0.008,False
+8409,am-ET,calendar,calendar_remove,ነገ እራቴን ሰርዝ,social_post,0.9723,0.0005,False
+8410,am-ET,calendar,calendar_remove,ሰኞ ያለኝን የእራት ዝግጅት ሰርዝ,iot_hue_lightoff,0.1562,0.0386,False
+8413,am-ET,calendar,calendar_set,እባክህ አስጠንቅቀኝ,qa_factoid,0.9855,0.0002,False
+8414,am-ET,calendar,calendar_set,አርብ አምስት ፒ. ኤም. ላይ ከዳዊት ጋር እራት እንድሄድ አስታውሰኝ,weather_query,0.0581,0.0493,False
+8415,am-ET,calendar,calendar_set,በቢሮ ውስጥ ከብሬ ጋር ስብሰባ ለሶስት ፒ. ኤም. ማክሰኞ ዕለት ጨምር,qa_factoid,0.8999,0.0037,False
+8426,am-ET,calendar,calendar_query,በትናንት እና ነገ ጠዋት መካከል ያሉ ወቅታዊ ሁኔታዎችን ንገሩኝ,weather_query,0.0966,0.0445,False
+8430,am-ET,calendar,calendar_remove,በሙሉ የእኔ ቀጠሮዎች ሰርዝ,qa_factoid,0.3218,0.0113,False
+8431,am-ET,calendar,calendar_remove,ሁሉንም የታቀዱ የኔ ክስተቶች አስወግድ,qa_factoid,0.4955,0.0123,False
+8436,am-ET,calendar,calendar_set,እባክህን በመጋቢት በእያንዳንዱ ረቡዕ የምሳ ስብሰባ በአስራ ሁለት ፒ. ኤም. ላይ አድርግ,email_sendemail,1.0,0.0,False
+8442,am-ET,calendar,calendar_set,እባክዎን ይህ የኔ የቀን ሰሌዳ በዚህ ዝግጅት ያስተካክሉት,social_post,0.444,0.0113,False
+8449,am-ET,calendar,calendar_set,ለሴት ልጆቼ ልደት አስታዋሽ ያዝልኝ,social_post,0.5514,0.007,False
+8453,am-ET,calendar,calendar_set,ካላንደሬ ላይ ኹነት ጨምር እና ተደጋጋሚ ኹነት ብለህ አስቀምጠው,qa_factoid,0.3145,0.0153,False
+8460,am-ET,calendar,calendar_query,ያሉኝን ዝግጅቶች አሳየኝ,social_post,0.9898,0.0003,False
+8461,am-ET,calendar,calendar_query,ወርሃ ግንቦት ላይ ምን እቅዶች አሉኝ,qa_factoid,0.9129,0.0011,False
+8466,am-ET,calendar,calendar_set,በ እሮብ ስብሰባ ዘጠኝ ሰአት ጠዋት አለኝ አስተውሰኝ,social_post,0.275,0.0331,False
+8469,am-ET,calendar,calendar_query,ካላንደሬ ላይ ለዛሬ የታቀደው ምንድነው,social_post,0.5238,0.011,False
+8474,am-ET,calendar,calendar_set,ለ ነገ የሃና የልደት ድግስ ይጨምሩ ሁለት ሰአት በእኔ የቀን መቁጠሪያ ላይ መቶ ሃያ ሶስተኛ መንገድ አያት,lists_remove,0.0776,0.0398,False
+8494,am-ET,calendar,calendar_query,ዛሬ የእኔ መርሃ ግብር ምን ይመስላል,weather_query,0.6832,0.0046,False
+8496,am-ET,calendar,calendar_query,ለነገ ጠዋት ያሉኝን ስብሰባዎች ንገር,social_post,0.9976,0.0001,False
+8498,am-ET,calendar,calendar_query,ሁሉም በመጠባበቅ ላይ ያሉ ማስታወሻዎች እናሳልፍ,lists_remove,0.8898,0.004,False
+8516,am-ET,calendar,calendar_remove,ጉዳዩን ከቀን መቁጠርያው ላይ ሰርዝ,iot_hue_lightoff,0.236,0.0327,False
+8520,am-ET,calendar,calendar_set,ካላንደር መተግበሪያ ላይ ኹነት ጨምር,qa_factoid,0.5437,0.0121,False
+8525,am-ET,calendar,calendar_query,ማሳሰቢያ ስበሰባ ከሶስት እስከ አምስት ነው,email_sendemail,0.9991,0.0,False
+8535,am-ET,calendar,calendar_set,በሁለት ሰዓታት ውስጥ ያለኝን የጥርስ ሃኪም ቀጠሮ ታስታውሰኛለህ,qa_factoid,0.2827,0.0366,False
+8539,am-ET,calendar,calendar_set,ስለ አስታውሰኝ,qa_factoid,0.9996,0.0,False
+8541,am-ET,calendar,calendar_set,እኔን አስታውስ እባክህ,qa_factoid,0.9722,0.0007,False
+8553,am-ET,calendar,calendar_set,ዘጠኝ ሰዓት ኤ.ኤም. ከ ከበደ ጋር መገናኘት የእኔ ካላንደር ላይ አካትት,datetime_query,0.6775,0.011,False
+8559,am-ET,calendar,calendar_query,ለዛሬ የታቀደ ነገር አለኝ,qa_factoid,0.682,0.0128,False
+8562,am-ET,calendar,calendar_remove,ለሁለት ሰዓት ማታ ስብሰባዬን ሰርዝ,iot_hue_lightoff,0.6364,0.0008,False
+8568,am-ET,calendar,calendar_set,ማክሰኞ አስራ አንድ ኤ. ኤም. ላይ ለ ቁርስ ደረጄ እና ሳባ የቀን መቁጠሪያ ግብዣ ትልካለሁ,cooking_recipe,0.0703,0.0488,False
+8570,am-ET,calendar,calendar_set,ነገ ሁለት ሰዓት ፒ. ኤም. ቀጠሮ ስላለብኝ ማስታወሻ ትመዘግብልኛለህ,qa_factoid,0.3979,0.0113,False
+8579,am-ET,calendar,calendar_query,ዛሬ የኔ ስብሰባዎች ምን መረጃ ማወቅ አለብኝ,email_sendemail,0.9084,0.0002,False
+8585,am-ET,calendar,calendar_set,በ ሠላሳኛ የልደት ቀን ፓርቲ እንዳለኝ አስታውሰኝ,social_post,0.5863,0.0092,False
+8598,am-ET,calendar,calendar_set,በ አየር ማረፊያ በ ስድስት ፒ. ኤም. ላይ ከበደን እንድወስድ እኔን አስታውስ,qa_factoid,0.2439,0.0394,False
+8618,am-ET,calendar,calendar_set,ሁሌም ማክሰኞ ሐሙስ እና ቅዳሜ አትክልቶቼን ውሃ ማጠጣት እንዳለብኝ አስታውሰኝ,email_sendemail,1.0,0.0,False
+8631,am-ET,calendar,calendar_remove,ያንን ከቀን መቁጠሪያዬ ላይ ሰርዝ,iot_hue_lightoff,0.288,0.0466,False
+8635,am-ET,calendar,calendar_set,ከምስጋና ቀን በአል ሶስት ሳምንት በፊት ጅግራውን ማዘዝ እንዳለብኝ አስታውስኝ,cooking_recipe,0.9649,0.0018,False
+8640,am-ET,calendar,calendar_set,ነገ በቤተ-መጽሐፍት ውስጥ ያለውን ፕሮግራም ካላንደር ላይ ምልክት አድርግልኝ,recommendation_events,0.0609,0.0511,False
+8642,am-ET,calendar,calendar_set,የዛሬ ማስታወሻዎቼ ላይ የስልክ ኮንፈረንስ አራት ሰዓት ፒ. ኤም. አካትት,datetime_query,0.1471,0.0452,False
+8651,am-ET,calendar,calendar_set,ካላንደሬ ላይ ያለኝን ኹነት አስታውሰኝ,qa_factoid,0.1622,0.0416,False
+8653,am-ET,calendar,calendar_set,ክስተቱን የቀን መቁጠሪያዬ ላይ አስታውስኝ,iot_hue_lightoff,0.2229,0.0312,False
+8666,am-ET,calendar,calendar_remove,ሁሉም ዝግጅቶች የኔ ቀን መቁጠሪያ ላይ አጥፋ,social_post,0.9594,0.0008,False
+8667,am-ET,calendar,calendar_query,ባለፉት ሶስት ወራት ውስጥ ከ አቶ አስቻለው ጋር ምን ያህል ስብሰባዎች ነበረኝ,social_post,0.991,0.0004,False
+8670,am-ET,calendar,calendar_remove,ዝግጅቶች ከቀን መቁጠሪያ አስወግድ,lists_remove,0.9725,0.0031,False
+8672,am-ET,calendar,calendar_query,የመሳሳም ካንሰርት የት ቦታ ነው,qa_factoid,0.2841,0.0235,False
+8674,am-ET,calendar,calendar_query,ጠዋት ሶስት ሰአት ስብሰባዬ የት ነው,qa_factoid,0.7901,0.0026,False
+8679,am-ET,calendar,calendar_query,ዛሬ የቅዱስ ፓትርከ ቀን ነው,weather_query,0.3007,0.0156,False
+8681,am-ET,calendar,calendar_query,የማን ልደት ነው,qa_factoid,0.9868,0.0,False
+8694,am-ET,calendar,calendar_set,ክስተቱ ዘምዛ ና ገመዳ ያካትታል,qa_factoid,0.7351,0.0112,False
+8730,am-ET,calendar,calendar_set,የቀን መቁጠሪያዬ ላይ መጋቢት አስራ አምስት ላለኝ ስብሰባ ማስታወሻ አድርግ,email_sendemail,0.2609,0.0408,False
+8732,am-ET,calendar,calendar_remove,ሁሉንም ቀናት ሰርዝ,calendar_remove,0.5286,0.5286,True
+8762,am-ET,calendar,calendar_query,ዛሬ ከቀትር በኋላ ያለኝን ቀጠሮ ንገረኝ,iot_hue_lightoff,0.299,0.0319,False
+8765,am-ET,calendar,calendar_set,ዛሬ ዘጠኝ ሰአት እራት በእኔ ቀን መቁጠሪያው ላይ አቤኔዘር ካፌ አኑር,calendar_remove,0.1411,0.0395,False
+8766,am-ET,calendar,calendar_query,እኔ ቅዳሜ መጋቢት ሀያ አምስት ስብሰባ ይኖረኛል,email_sendemail,0.6738,0.0114,False
+8767,am-ET,calendar,calendar_query,የፌቨን ልደት ሚያዝያ አስራ ሁለት ነው,recommendation_events,0.0804,0.0506,False
+8769,am-ET,calendar,calendar_remove,ቀጣይ የሚመጡ ክስተቶችን ሰርዝ,play_podcasts,0.25,0.0059,False
+8771,am-ET,calendar,calendar_remove,የግብይት ጉዞውን ሰርዝ ለመጋቢት ሃያ ሦስት መርሃግብር ይዤ ነበር,cooking_recipe,0.0582,0.052,False
+8774,am-ET,calendar,calendar_query,የእኔ ሐምሌ ሰባት መርሐግብር ሙሉ በሙሉ ክፍት ነው,email_sendemail,0.5059,0.0158,False
+8781,am-ET,calendar,calendar_query,አራት ሰዓት ፒ. ኤም. እኔ ነፃ ነኝ,qa_factoid,0.9805,0.0006,False
+8782,am-ET,calendar,calendar_query,ዛሬ ከሰዓት ስብሰባ አለኝ,qa_factoid,0.848,0.0016,False
+8791,am-ET,calendar,calendar_query,ስለዚህ ክስተት የበለጠ መረጃ ስጠኝ,qa_factoid,0.7401,0.0111,False
+8795,am-ET,calendar,calendar_query,በመጠባበቅ ላይ ያሉ አስታዋሽ አሳይ,qa_factoid,0.736,0.011,False
+8822,am-ET,recommendation,recommendation_events,ስለ መጪ ዝግጅቶች መረጃ,recommendation_events,0.1721,0.1721,True
+8824,am-ET,calendar,calendar_query,በ ሁለት ፒ. ኤም. ለ አስራ ዘጠነኛው ምን ያቀድኩት,email_sendemail,0.2072,0.0336,False
+8825,am-ET,calendar,calendar_set,የሚመጣው አርብ ከ ተመስገን ጋር ያለኝን ቀጠሮ አስታውሺኝ,qa_factoid,0.1724,0.0318,False
+8828,am-ET,calendar,calendar_query,የቀን መቁጠሪያ ላይ የተያዘ ዝግጅት ያሳያል,qa_factoid,0.1523,0.0444,False
+8846,am-ET,calendar,calendar_query,በዚህ አመት ለሀምሌ አራት ቀጠሮ አለኝ,iot_hue_lightoff,0.1208,0.0452,False
+8853,am-ET,calendar,calendar_remove,ቀጣዩን ጉዳዬን ሰርዝ,email_sendemail,0.1792,0.0415,False
+8856,am-ET,calendar,calendar_remove,በቀን መቁጠሪያ ውስጥ ያሉትን ሁሉንም ኩነቶች ሰርዝ,lists_remove,0.3693,0.0163,False
+8857,am-ET,calendar,calendar_set,ከቴዲ ጋር ያለኝን ስብሰባ አስታውስ,social_post,0.8884,0.0005,False
+8868,am-ET,calendar,calendar_set,ሁልጊዜ ማክሰኞ ጠዋት አራት ሰአት ላይ እናቴ ጋር እንድደውል አስታውስኝ,email_sendemail,0.1683,0.0414,False
+8880,am-ET,calendar,calendar_set,ነገ ስለሚደረገው ስብሰባ ለዘጠኝ ኤ. ኤም. አስታዋሽ አዘጋጅ,email_sendemail,0.9996,0.0,False
+8888,am-ET,calendar,calendar_remove,አጥፋው,qa_factoid,0.8965,0.0132,False
+8900,am-ET,calendar,calendar_set,በየ እሁዱ ተደጋጋሚ አስታዋሽ ያዘጋጁ,social_post,0.5134,0.0157,False
+8904,am-ET,calendar,calendar_query,የቅርብ መረጃ ስለ ሁነቶች,lists_query,0.1951,0.0417,False
+8906,am-ET,calendar,calendar_set,ከሌሎች ጋር የዝግጅት ቀን በቀን መቁጠሪያ ውስጥ አዘጋጅ,lists_remove,0.14,0.0433,False
+8907,am-ET,calendar,calendar_set,ከሌሎች ጋር በቀን መቁጠሪያ ውስጥ ክስተት መጥቀስ,lists_remove,0.2068,0.0424,False
+8912,am-ET,calendar,calendar_query,ከ ስድስት ሰዓት ፒ. ኤም. በኋላ የዛሬን የቀን መቁጠሪያ ክስተቶች ስጠኝ,lists_remove,0.5143,0.0194,False
+8914,am-ET,calendar,calendar_query,የሚያዚያ አራት ቀጠሮዬ ስንት ሰአት ነው,datetime_query,0.9663,0.0015,False
+8916,am-ET,calendar,calendar_query,የዛሬው ቀን ዕቅዴ ምንድነው,qa_factoid,0.1752,0.0154,False
+8925,am-ET,calendar,calendar_remove,ሁሉንም ጉዳዮቼን ከቀን መቁጠሪያዬ ላይ ሰርዘው,lists_remove,0.4075,0.0299,False
+8939,am-ET,calendar,calendar_set,የሀያት ሴት ልጅ ቤቢ ሻወር,qa_factoid,0.7965,0.0057,False
+8948,am-ET,calendar,calendar_set,ከ ሳምሶን ጋር ለመገናኘት ዝግጅት ጨም,qa_factoid,0.4438,0.016,False
+8949,am-ET,calendar,calendar_remove,እባክህ ማስታወሻውን ሰርዝ,qa_factoid,0.9958,0.0006,False
+8958,am-ET,calendar,calendar_query,የስብሰባውን ሰአት ክፈት,qa_factoid,0.8663,0.0011,False
+8960,am-ET,calendar,calendar_set,ምሽት ላይ ስለ መጪው ስብሰባ ማንቂያ እፈልጋለሁ,email_sendemail,0.9984,0.0,False
+8967,am-ET,calendar,calendar_set,የሚስቴ ልደት ሁለት ቀን ሲቀረው አስታውሰኝ,email_sendemail,0.3126,0.0304,False
+8968,am-ET,calendar,calendar_set,በዚህ ሳምንት ለ ማስታወስ አንድ ነገር ንገረኝ,news_query,0.0964,0.0391,False
+8975,am-ET,calendar,calendar_query,ስብሰባ ዛሬ ስንት ሰዐት ነው,weather_query,0.7134,0.0064,False
+8977,am-ET,calendar,calendar_set,ስለ የዘገዩ የቢል ክፍያዎች ማስታወሻ አድርግልኝ,email_sendemail,0.6346,0.0116,False
+8978,am-ET,calendar,calendar_set,በዚህ ሳምንት ያለኝን ከአለቃዬ ጋር አስፈላጊ ስብሰባ አሳውቀኝ,news_query,0.0678,0.0499,False
+8985,am-ET,calendar,calendar_remove,እሺ ጎግል የጣሰውን የልደት ቀን ከቀን መቁጠሪያ ሰርዝ,social_post,0.4313,0.0133,False
+8990,am-ET,calendar,calendar_set,ዝግጅት ማድረግ,qa_factoid,0.5064,0.0004,False
+8992,am-ET,calendar,calendar_set,ስብሰባዎችን አሳይ,email_sendemail,1.0,0.0,False
+9009,am-ET,calendar,calendar_remove,የ አንቨርሰሪ ፕሮግራም ከቀን መቁጠሪያዬ ላይ ሰርዝ,recommendation_events,0.4499,0.0151,False
+9011,am-ET,calendar,calendar_query,በዚህ ወር በአስራ አራት ቀን የ ጥምቀት ክስተት እውነት ነው።,weather_query,0.3089,0.0271,False
+9014,am-ET,calendar,calendar_set,እባክዎን የእኔ የሥራ ባልደረባ ጋር ስለ ስብሰባ በ ጥቅምት ሃያ ሶስተኛ ማስታወቂያ አዘጋጅ,email_sendemail,0.1691,0.0394,False
+9015,am-ET,calendar,calendar_remove,የኔ የቀን መቁጠሪያ ሁሉንም ክስተቶች አጽዳ,lists_remove,0.1617,0.0413,False
+9019,am-ET,calendar,calendar_query,ስብሰባዎች ከ ሰኔ ሀያ እስክ ሀያ አምስት,lists_remove,0.8053,0.001,False
+9030,am-ET,calendar,calendar_remove,ለ ዛሬ የህክምና ቀጠሮ ዬን ከቀን መቁጠሪያ አስወግድ,calendar_remove,0.3428,0.3428,True
+9035,am-ET,calendar,calendar_query,የቶማስ ጋብቻ አስታዋሽ,qa_factoid,0.9995,0.0,False
+9043,am-ET,calendar,calendar_set,በቀን መቁጠሪያ ውስጥ መጪ ጉዳዮች አሉን,lists_remove,0.0824,0.0474,False
+9053,am-ET,calendar,calendar_set,ማክሰኞ ከ ሞሚና ጋር የ ስብሰባ ሁነት አስታዋሽ አዘጋጅ,iot_hue_lightoff,0.0596,0.0524,False
+9054,am-ET,calendar,calendar_set,ማክሰኞ ዝግጅት ማስታወሻ አድርግ,calendar_remove,0.1992,0.0288,False
+9059,am-ET,calendar,calendar_set,የኹነቱ ሰዓት ሲደርስ አሳውቀኝ,qa_factoid,0.437,0.0277,False
+9061,am-ET,calendar,calendar_query,በ አስታዋሾች ላይ ምን መረጃ አለኝ,qa_factoid,0.5949,0.0013,False
+9062,am-ET,calendar,calendar_set,የሊ ልደት በ ሰኔ ሃያ አንደኛው ማስቀመጥ ትችላለህ,qa_factoid,0.7481,0.0022,False
+9074,am-ET,calendar,calendar_remove,እባክህ ያኛውን ጉዳይ አንሳው,qa_factoid,0.7828,0.0084,False
+9088,am-ET,calendar,calendar_remove,የቀን መቁጠሪያዬ ላይ ያለውን ሁሉንም ነገር አጥፋ,lists_remove,0.2372,0.0401,False
+9095,am-ET,calendar,calendar_remove,ዛሬ ማታ እራት ከሄለን ጋር አስወግድ,weather_query,0.3557,0.0543,False
+9103,am-ET,calendar,calendar_query,ዛሬ ከሰአት በኋላ በእኔ የቀን መቁጠሪያ ስብሰባ አለ,qa_factoid,0.2357,0.0277,False
+9107,am-ET,calendar,calendar_query,በሰኔ ሶስተኛ የሚካሄደው የመሃሙድ የሙዚቃ ዝግጅት በስንት ሰአት ይጀምራል,datetime_query,0.97,0.0014,False
+9110,am-ET,calendar,calendar_set,ኤግዚቢሽን ሁለት ሺህ አሥራ ሰባት የጅምላ መጋቢት ሀያ አምስት ላይ ማስታወሻ በዛን ቀን ያዝ,social_post,0.1529,0.0397,False
+9112,am-ET,calendar,calendar_set,ይህን በእኔ የቀን መቁጠሪያ ላይ ጨምሩበት,qa_factoid,0.2895,0.0231,False
+9114,am-ET,calendar,calendar_set,ለዚህ ፕሮግራም ተደጋጋሚ ማስታዎሻ አድርግ,qa_factoid,0.8302,0.004,False
+9116,am-ET,calendar,calendar_query,የእኔን ስብሰባ ለሌላ ጊዜ ማስተላለፍ ትችላለህ,email_sendemail,0.9967,0.0001,False
+9121,am-ET,calendar,calendar_query,ምን አይነት ቀናት አስያዙክ,qa_factoid,0.4292,0.0207,False
+9124,am-ET,calendar,calendar_set,ለሚቀጥለው ሳምንት የእኔ ስራ የቀን መቁጠሪያ ውስጥ ያሉትን ፕሮግራሞች አሳየኝ,recommendation_events,0.166,0.0428,False
+9137,am-ET,calendar,calendar_query,በምሳ እና በእራት መካከል ጣሊያን ካፌ በየትኛው ሰዓት ተዘግቷል,datetime_query,0.1544,0.0358,False
+9138,am-ET,qa,qa_factoid,ፕሪሚየር ሊግ መቼ ነው በይፋ የሚጀምረው,qa_factoid,0.9903,0.9903,True
+9149,am-ET,calendar,calendar_query,የጥቁር ታይት ጋላ የእራት ዝግጅቱ ስንት ሰዓት ይጀምራል,qa_factoid,0.9421,0.0003,False
+9153,am-ET,calendar,calendar_set,ከሳራ ጋር እራት ቅዳሜ ቀጠሮ ያዝ,cooking_recipe,0.5227,0.02,False
+9155,am-ET,calendar,calendar_set,አርብ ዕለት ሶስት ሰአት ላይ የጥርስ ሀኪም ቀጠሮ ያዝ,cooking_recipe,0.3342,0.0372,False
+9156,am-ET,calendar,calendar_set,አስታውሰኝ,qa_factoid,0.9996,0.0,False
+9175,am-ET,calendar,calendar_query,የእኔ የቀን መቁጠሪያ የመጨረሻዎቹ አስር ደቂቃዎች ውስጥ ተዘምኗል,weather_query,0.1059,0.0413,False
+9182,am-ET,calendar,calendar_remove,ከ አየር ማረፊያ ወላጆቼን ለመቀበል እቅዴን ሰርዝ,recommendation_events,0.7426,0.0063,False
+9187,am-ET,calendar,calendar_set,ስብሰባው ላይ የሚሳተፉትን ደንበኞች መመርመር ነው,social_post,0.859,0.0036,False
+9193,am-ET,calendar,calendar_set,እባክህ ይህን ቀጠሮ ድገመው,social_post,0.6477,0.0144,False
+9194,am-ET,calendar,calendar_remove,እባክዎን ይህን ጉዳይ የእኔ ቀን መቁጠሪያዬ ያስወግዱት,email_sendemail,0.9993,0.0,False
+9197,am-ET,calendar,calendar_query,በዚህ ሳምንት ምን የተያዙ እቅዶች አሉኝ,recommendation_events,0.5144,0.0084,False
+9198,am-ET,calendar,calendar_query,ማስታወሻዎቼን አረጋግጥ,qa_factoid,0.9983,0.0001,False
+9202,am-ET,play,play_radio,የእኔ የሬዲዮ ጣቢያ አጫውት።,social_post,0.9866,0.0005,False
+9204,am-ET,play,play_radio,ፋና ሬዲዮ ክፈት,qa_factoid,0.9053,0.0002,False
+9212,am-ET,play,play_radio,አንድ ሰው ሬዲዮን ይክፈት,social_post,0.6842,0.0049,False
+9216,am-ET,play,play_radio,የእኔን ጣቢያ ክፈት,qa_factoid,0.999,0.0,False
+9225,am-ET,play,play_radio,ሬዲዮን ማብራት ይችላሉ,qa_factoid,0.9852,0.0001,False
+9233,am-ET,play,play_radio,ፓንዶራ መተግበሪያ ከፈት,qa_factoid,0.9992,0.0,False
+9236,am-ET,play,play_radio,ወደ ቻናል መቶ ሁለት ነጥብ አንድ ይሂዱ,social_post,0.5082,0.0236,False
+9237,am-ET,play,play_radio,ሬዲዮን አብራ እና ፋና ሬዲዮ ጣቢያን አጫውት,social_post,0.9839,0.0001,False
+9250,am-ET,play,play_radio,ሬዲዮ ማዳመጥ እፈልጋለሁ,social_post,0.9356,0.0052,False
+9254,am-ET,play,play_radio,እባክህን ፋና ሬዲዮ ላይ አስተካክል,recommendation_events,0.5768,0.0007,False
+9263,am-ET,play,play_radio,የሬዲዮ መተግበሪያን ይክፈቱ,qa_factoid,0.9179,0.0054,False
+9269,am-ET,play,play_radio,ፋና ሬዲዮ አስተካክል,qa_factoid,0.998,0.0001,False
+9270,am-ET,play,play_radio,ዘጠኝ መቶ ሠላሳ ሰባት ኤፍ.ኤም ብቻ ይጫወቱ,qa_factoid,0.8525,0.0094,False
+9275,am-ET,play,play_radio,ዘጠና ሰባት ነጥብ አንድ ኤፍ. ኤም. በሬዲዮ ሊጫወት ነው,play_radio,0.2722,0.2722,True
+9284,am-ET,play,play_radio,ኤፍ. ኤም. ክፈት,qa_factoid,0.9994,0.0,False
+9291,am-ET,play,play_radio,መልበስ,qa_factoid,0.9497,0.002,False
+9301,am-ET,play,play_radio,ፋና ሬዲዮ አጫውት,social_post,0.9964,0.0001,False
+9303,am-ET,play,play_radio,ሸገር ኤፍ ኤም ይጫወቱ,qa_factoid,0.9894,0.0007,False
+9305,am-ET,play,play_radio,ፋና ቃኝ,social_post,0.9924,0.0,False
+9316,am-ET,play,play_radio,ለኔ ፈና ራድዮ አጫውት,social_post,0.9998,0.0,False
+9317,am-ET,play,play_radio,ሬዲዮ አሁን ጀምር,play_music,0.9731,0.0091,False
+9321,am-ET,play,play_radio,አሁኑኑ ሬዲዮው እንዲ በራ አድርግ,play_music,0.2963,0.0332,False
+9323,am-ET,play,play_radio,pandora ጀምር,qa_factoid,0.8211,0.0067,False
+9326,am-ET,play,play_radio,እባክዎን አሁን አሀዱ ሬዲዮ ያጫውቱ,social_post,0.7465,0.0053,False
+9327,am-ET,play,play_radio,እባክህን በሬዲዮ አሁኑኑ የኤ. ኤም. ደውልን ፈልግ,recommendation_events,0.8533,0.0009,False
+9330,am-ET,play,play_radio,መጫወት,iot_hue_lightoff,0.8567,0.0409,False
+9341,am-ET,play,play_radio,አሌክሳ የሬዲዮ ጣቢያ ይቀይሩ,social_post,0.9872,0.0006,False
+9352,am-ET,play,play_radio,እባክዎን ሬዲዮ ያጫውቱ,play_podcasts,0.7048,0.0005,False
+9353,am-ET,play,play_radio,ሬድዮ አጫውት አንዳንድ ሙዚቃ ጀምር,social_post,0.99,0.0004,False
+9358,am-ET,play,play_radio,ስምንት መቶ እና ስማንያ ዘጠኝ የሬድዮ መስመር ጀምር,email_query,0.1186,0.0405,False
+9361,am-ET,play,play_radio,ሬዲዮ ለማዳመጥ,social_post,0.9841,0.0023,False
+9362,am-ET,play,play_radio,ሬዲዮ ጣቢያዎች,social_post,0.9965,0.0001,False
+9363,am-ET,play,play_radio,በሬዲዮ ላይ ምርጦች እንጫወት,social_post,0.9655,0.0008,False
+9364,am-ET,play,play_radio,ተደማጭ ሙዚቃዎች ይጫወቱ,qa_factoid,0.8725,0.0014,False
+9380,am-ET,play,play_radio,ዘጠና ሰባት ነጥብ አንድ ኤፍ. ኤም. ሬዲዮ እንድትሄድ እፈልጋለሁ,qa_factoid,0.2149,0.1832,False
+9384,am-ET,play,play_radio,ፋና ራድዮ አጫዉት,social_post,0.999,0.0,False
+9394,am-ET,play,play_radio,ሄይ ኦሊ ሬዲዮ ን ተጫወት,play_music,0.3149,0.0536,False
+9402,am-ET,play,play_radio,ፋና ሬዲዮ የ ሬዲዮ ጣቢያ አጫውት,social_post,0.9995,0.0,False
+9406,am-ET,play,play_radio,ፋና ራድዮ ጀምር,social_post,0.8258,0.0291,False
+9408,am-ET,play,play_radio,የ ሬዲዮ ጨዋታን ጀምር,play_music,0.9988,0.0001,False
+9426,am-ET,play,play_radio,ራ ኤንድ ቢ የሚያጫውት ጣቢያ መስማት እፈልጋለሁ,qa_factoid,0.9778,0.0009,False
+9438,am-ET,play,play_radio,የእስክስታ ዘፈን በ ሬዲዮ ማጫውት ትችላለህ,play_music,0.6615,0.0446,False
+9457,am-ET,play,play_music,የኔ ዜማ ዘፈን አጫውት,news_query,0.7492,0.0006,False
+9460,am-ET,play,play_music,የዘጠናዎቹ ሂፕ ሆፕ አጫውት,qa_factoid,0.7085,0.0009,False
+9471,am-ET,play,play_radio,የ ሃገረሰብ ሙዚቃ ጣቢያ ክፈት,social_post,0.6614,0.0096,False
+9494,am-ET,play,play_radio,እባክህ ፖፕ ዘፈኖች የሚጫወት ኤፍ. ኤም. ጣቢያ ልትጫወትልኝ ትችላለህ,play_podcasts,0.7641,0.1459,False
+9506,am-ET,play,play_radio,ፋና እንስማ,social_post,0.5816,0.0007,False
+9507,am-ET,play,play_radio,እባክህ አሁን ላይ ጂጂ የሚጫወት የራድዮ ጣቢያ አግኝ,play_podcasts,0.3852,0.0621,False
+9519,am-ET,play,play_radio,ማንኛውንም የፖፕ ኤፍ. ኤም. ጣቢያን አጫውት,play_podcasts,0.6972,0.0062,False
+9520,am-ET,play,play_radio,የሬዲዮ ስርጭት የመጨረሻውን ዶክተር ያጫውቱ,recommendation_events,0.2529,0.0239,False
+9524,am-ET,play,play_radio,ዝግጅት ወደ አሃዱ ክፈት,qa_factoid,0.8665,0.005,False
+9528,am-ET,play,play_radio,አንዳንድ n አብራ ፋና እና ከድምጽ ማጉያዎቼ ውስጥ ያጫውቷቸው,play_podcasts,0.1354,0.0462,False
+9541,am-ET,play,play_radio,የኔ ዜማ ዘፈን በ ሬዲዮ ያጫውቱ,news_query,0.5041,0.0013,False
+9542,am-ET,play,play_radio,ሬድዮ የወጡ አዳዲስ የዜና ፕሮግራሞችን ላዳምጥ,social_post,0.9878,0.0003,False
+9545,am-ET,play,play_radio,ሰይፉ በኢቢኤስ ፕሮግራም መስማት እፈልጋለሁ,qa_factoid,0.994,0.0,False
+9554,am-ET,play,play_radio,የፍቅር ስሜት የሚሰጥ ሙዚቃ በ ፋና ኤፍ ኤም አጫውት,play_music,0.1608,0.0409,False
+9561,am-ET,play,play_radio,ብስራት ኤፍ ኤምን ጣቢያ በሬዲዮ ውስጥ ያጫውቱ,social_post,0.616,0.01,False
+9562,am-ET,play,play_radio,እባክህን ይህን ፕሮግራም ልታጫውትልኝ ትችላለህ,qa_factoid,0.7483,0.0027,False
+9565,am-ET,play,play_radio,ሬዲዮው ላይ የማይቋረጡ ዘፈኖች ክፈት,social_post,0.5214,0.0063,False
+9568,am-ET,play,play_radio,ድሽታግና ቀጥታ የሙዚቃ ስርጭት ተከታታይ ተጫወቱ,qa_factoid,0.4453,0.0227,False
+9569,am-ET,play,play_radio,እሺ google ሸገርን አጫውት,social_post,0.458,0.0017,False
+9577,am-ET,play,play_radio,ጣቢያውን ወደ መቶ ሁለት ነጥብ አንድ ይለውጡ,social_post,0.9132,0.0037,False
+9591,am-ET,play,play_radio,ፋና ሬዲዮ ላይ ቤቶች ፕሮግራም አጫውት,social_post,0.995,0.0001,False
+9592,am-ET,play,play_podcasts,ከአድማስ ባሻገር ትዝታ ፖድካስት ፈልግ,qa_factoid,0.9956,0.0002,False
+9594,am-ET,play,play_radio,ኤፍ.ኤም ዘጠና ሶስት ነጥብ አምስት ሬድዮ ዘፈኖች,recommendation_events,0.4906,0.0146,False
+9601,am-ET,play,play_radio,ሃገረሰብ ሬድዮ አጫውት,social_post,0.999,0.0,False
+9617,am-ET,play,play_radio,የዛሬ ጠዋትን አንድ መቶ አንድ ነጥብ ዘጠኝ ሾው አጫውትልኝ,email_sendemail,0.4439,0.017,False
+9619,am-ET,play,play_radio,በመኪና ሬዲዮ ላይ ቴዲ አፍሮን አጫውት,social_post,0.9807,0.0011,False
+9620,am-ET,play,play_radio,መኝታ ቤት ውስጥ በ ሬዲዮ ውስጥ ፋና ማግኘት እችላለሁ,recommendation_events,0.6521,0.0017,False
+9629,am-ET,play,play_radio,ሬድዮ ለመስማት እባክህ ልታግዘኝ ትችላለህ,social_post,0.9997,0.0,False
+9630,am-ET,play,play_radio,ፋና ራድዮ አጫውተኝ,social_post,0.9999,0.0,False
+9632,am-ET,play,play_radio,እባክህ ሬድዮ,social_post,0.9892,0.0001,False
+9637,am-ET,play,play_radio,በዘፈን ዝርዝር ላይ አሃዱ ሬድዮ አስጀመር,play_podcasts,0.2644,0.1539,False
+9640,am-ET,play,play_radio,ክፍት spotify እና ክፍት የአካል ብቃት እንቅስቃሴ,qa_factoid,0.9981,0.0001,False
+9651,am-ET,play,play_radio,በእኔ ገጽ ላይ netflix ይጫወቱ,qa_factoid,0.8075,0.0036,False
+9656,am-ET,play,play_music,የድል ዘፈን በ ድምጽ ማጉያዎች አጫውትልኝ,play_music,0.8646,0.8646,True
+9706,am-ET,play,play_music,የኔ ቆንጆ አጫውት,social_post,0.4666,0.0495,False
+9707,am-ET,play,play_music,ክፍት ሚዲያ የኔ ዜማ ይጫወታሉ,social_post,0.8868,0.0036,False
+9738,am-ET,play,play_music,እባክህ ክላሲካል ሙዚቃ ልታጫውተኝ ትችላለህ,qa_factoid,0.8233,0.0576,False
+9793,am-ET,play,play_music,የፍቅር ዘፈኖች አጫውት,social_post,0.6225,0.0162,False
+9795,am-ET,play,play_music,ማራኪዪን ካቆመበት ጀምር,qa_factoid,0.984,0.0007,False
+9912,am-ET,cooking,cooking_recipe,በቀለ እንቁላሉን እሰከ ምን ድረስ ነው ማፍላት ያለብኝ,qa_factoid,0.7478,0.0055,False
+9918,am-ET,cooking,cooking_recipe,ፒዛ እንዴት ላዘጋጅ,qa_factoid,0.9652,0.0334,False
+9923,am-ET,cooking,cooking_recipe,ለምን ያህል ጊዜ ነዉ እንቁላል መቀቀል ያለብኝ,qa_factoid,0.4499,0.0185,False
+9924,am-ET,cooking,cooking_recipe,አሰራር ንገረኝ,qa_factoid,0.7189,0.005,False
+9930,am-ET,cooking,cooking_recipe,እንቁላሉን ለምን ያህል ጊዜ ልቀቅለዉ,qa_factoid,0.3692,0.0132,False
+9931,am-ET,cooking,cooking_recipe,ኦሊ እንቁላሉን ለምን ያህል ጊዜ ልቀቅለዉ,social_post,0.6658,0.0044,False
+9940,am-ET,cooking,cooking_recipe,የቸኮሌት ኬክ የአዘገጃጀት መመሪያ ንገረኝ,qa_factoid,0.9936,0.0003,False
+9941,am-ET,cooking,cooking_recipe,ዶሮ በቅቤ እንዴት ማብሰል እችላለሁ,qa_factoid,0.793,0.1081,False
+9942,am-ET,cooking,cooking_recipe,ኬክ ለመስረሰት ሁሉም የም ያስፈልጉ ነገራቶች ምንድን ናቸው,qa_factoid,0.3521,0.0349,False
+9943,am-ET,cooking,cooking_recipe,የአትክልት ላዛኛ ከሰራው ቆየ,qa_factoid,0.343,0.0386,False
+9952,am-ET,cooking,cooking_recipe,የምግብ አሰራር ስልጠና ስጠኝ,cooking_recipe,0.5478,0.5478,True
+9955,am-ET,cooking,cooking_recipe,የተጠበሰ ዶሮ አሰራር የሚያሳይ ቪድዮ አሳየኝ,social_post,0.869,0.0053,False
+9956,am-ET,cooking,cooking_recipe,ቅቤ ን በምን መተካት እችላለሁ,cooking_recipe,0.9441,0.9441,True
+9961,am-ET,cooking,cooking_recipe,ድንች ለመጥበስ ጥሩ የምድጃ የሙቀት መጠን ምን ያህል ነዉ,lists_query,0.1653,0.061,False
+9962,am-ET,cooking,cooking_recipe,ፓስታ አል ዴንትን ለማብሰል ምርጡ መንገድ ምንድነው,qa_factoid,0.7502,0.0059,False
+9964,am-ET,cooking,cooking_recipe,ምግብን ስለ ማዘጋጀት ትንህርት,cooking_recipe,0.9003,0.9003,True
+9966,am-ET,cooking,cooking_recipe,ፓስታ ለመስራት በጣም ቀላል ምንድን ነው,qa_factoid,0.9993,0.0001,False
+9969,am-ET,cooking,cooking_recipe,ሳፍሮን ለመስራት እንደ ግብዓት ምን ልጠቀም,cooking_recipe,0.8819,0.8819,True
+9971,am-ET,cooking,cooking_recipe,ሙቀትን በተሻለ ሁኔታ የሚመራው ከመዳብ በታች ያሉ ድስቶች ወይም የብረት ብረት,cooking_recipe,0.145,0.145,True
+9976,am-ET,cooking,cooking_recipe,ዶሮ ወጥ ቅመማ ቅመሞች ዝርዝር ስጠኝ,social_post,0.9996,0.0,False
+9977,am-ET,cooking,cooking_recipe,የኢትዮጵያ ምግቦችን እንተርኔት ላይ ፈልግና አመች የሆኑት የዩቲዩብ ቪዲዮዎች ፍለፍት ስክርን ላይ አድረግልኝ,social_post,0.5528,0.0085,False
+9979,am-ET,cooking,cooking_recipe,ጥቂት አጃ አብስልልኝ,social_post,0.9868,0.0003,False
+9980,am-ET,cooking,cooking_recipe,ዛሬ የተቀቀለ አትክልቶች ምኑ ላይ ምን አለ,social_post,0.9214,0.0037,False
+9986,am-ET,cooking,cooking_recipe,ማፍላት,qa_factoid,0.9809,0.0005,False
+9994,am-ET,cooking,cooking_recipe,ፓቭ ባጂ ለማብሰል የአዘገጃጀት መመሪያውን ልትነግረኝ ትችላለህ,qa_factoid,0.3314,0.0167,False
+10016,am-ET,cooking,cooking_recipe,የምስጋና ቱርክ የመብሰል ተቴፕ በአምሰት ቃላቶች ምንድን ነው,qa_definition,0.2475,0.0359,False
+10019,am-ET,cooking,cooking_recipe,እባክህ አስራ ሁለት ድፎ እንዴት እንደምጋግር ንገረኝ,qa_factoid,0.7144,0.0219,False
+10023,am-ET,cooking,cooking_recipe,የበግ ስጋ ወጥ ለመስራት ምን ያስፈልገኛል,qa_factoid,0.9927,0.0021,False
+10027,am-ET,cooking,cooking_recipe,የምግብ አሰራር መመሪያዎች,recommendation_events,0.4835,0.0505,False
+10031,am-ET,cooking,cooking_recipe,የእኔ ግዢ ዝርዝር ውስጥ ካሉ ንጥረ ነገሮች የተገኘ የምግብ አሰራር እፈልጋለሁ,qa_factoid,0.1426,0.0421,False
+10038,am-ET,cooking,cooking_recipe,ለማብሰል ጥሩ ሀሳቦችን እፈልጋለሁ,lists_remove,0.2708,0.0538,False
+10045,am-ET,cooking,cooking_recipe,የዶሮ መረቅ ለመስራት ምን ያስፈልጋል,cooking_recipe,0.9961,0.9961,True
+10048,am-ET,cooking,cooking_recipe,ዶሮ እንዴት ነዉ ምሰራዉ,qa_factoid,0.7836,0.2015,False
+10049,am-ET,cooking,cooking_recipe,ርካሽ ሳንዱች እንዴት እንደምሰራ ንገረኝ,social_post,0.5502,0.0145,False
+10053,am-ET,cooking,cooking_recipe,ፒዛ እንዴት እንደሚሰራ,qa_factoid,0.9998,0.0002,False
+10055,am-ET,cooking,cooking_recipe,እዴት ነው አሰራሩ የተጠበሰ ዶሮ,qa_factoid,0.9995,0.0,False
+10061,am-ET,cooking,cooking_recipe,እራት ምን ላዘጋጁ,cooking_recipe,0.7186,0.7186,True
+10072,am-ET,cooking,cooking_recipe,ዶሮ ምድጃ ላይ የሚጋገርበት ጊዜ,weather_query,0.4585,0.0036,False
+10076,am-ET,cooking,cooking_recipe,ቤኪንግ ሶዳ በመጋገሪያ ዱቄት መተካት ይችላሉ,qa_factoid,0.9845,0.0074,False
+10077,am-ET,cooking,cooking_recipe,ዛሬ ማታ ለእራት የምግብ አሰራር ፈልግ,cooking_recipe,0.285,0.285,True
+10078,am-ET,cooking,cooking_recipe,ለእራት ምንድን ማብሰል አለብኝ,iot_hue_lightoff,0.9489,0.0112,False
+10080,am-ET,cooking,cooking_recipe,ጥብስ አብረን እንስራ,email_query,0.304,0.0237,False
+10081,am-ET,cooking,cooking_recipe,የስጋ ኳሶች እንዴት እንደሚበስሉ ንገረኝ,qa_factoid,0.5667,0.0583,False
+10090,am-ET,cooking,cooking_recipe,ለ ቱና የምግብ አዘገጃጀት መመሪያ ማግኘት እችላለሁ,qa_factoid,0.9125,0.0016,False
+10093,am-ET,cooking,cooking_recipe,ለዛኛ እንዴት ነው የምዘጋጀው,cooking_recipe,0.9997,0.9997,True
+10097,am-ET,cooking,cooking_recipe,አይብ በርገር እፈልጋለሁኝ,qa_factoid,0.2864,0.0162,False
+10099,am-ET,cooking,cooking_recipe,ሩዝ እንዴት እንደሚሰራ ታዉቃለህ,cooking_recipe,0.818,0.818,True
+10100,am-ET,cooking,cooking_recipe,የሪሶቶ የምግብ አዘገጃጀት መመሪያ ታውቀው ይሆን,qa_factoid,0.9585,0.0036,False
+10105,am-ET,cooking,cooking_recipe,መለስረኛ የበሬ ስጋ ለመስራት ምን የህል ግዜ ይወስድብኛል,cooking_recipe,0.4638,0.4638,True
+10107,am-ET,cooking,cooking_recipe,የጥቅል ጎመን የምግብ አዘገጃጀት መመሪያ እፈልጋለሁ,lists_remove,0.3757,0.0729,False
+10119,am-ET,cooking,cooking_recipe,አስራ አምስት ፓዉንድ ዶሮ ለምን ያህል ጊዜ ነዉ የምታበስለዉ,qa_factoid,0.9681,0.0016,False
+10125,am-ET,cooking,cooking_recipe,በመጥበስ እና በመጋገር መሀል ያለዉ ልዩነት,qa_factoid,0.8067,0.0085,False
+10132,am-ET,cooking,cooking_recipe,መሃከለኛ ስቴክ ለመስራት ምን የህል ግዜ ይወስድብኛል,cooking_recipe,0.2743,0.2743,True
+10150,am-ET,cooking,cooking_recipe,taco እንዴት ነው የምሰራው,cooking_recipe,0.9999,0.9999,True
+10156,am-ET,cooking,cooking_recipe,ስንግ ቃሪያዋችን እንዴት እንደሚሰራ ማወቅ አለብኝ,qa_factoid,0.9964,0.0008,False
+10164,am-ET,cooking,cooking_recipe,መክሮኒ ለመስራት ምን የህል ግዜ ይወድብኛል,cooking_recipe,0.9507,0.9507,True
+10166,am-ET,cooking,cooking_recipe,የፖም አምባሻ አዘገጃጀት መመሪያ ተመልከት,recommendation_events,0.0554,0.0504,False
+10171,am-ET,cooking,cooking_recipe,የአሳ ሾርባ ለመስራት የአዘገጃጀት መመሪያ ምንድን ነው,cooking_recipe,0.6696,0.6696,True
+10177,am-ET,cooking,cooking_recipe,ስልስ እንዴት ይሰራል,qa_factoid,0.9991,0.0008,False
+10182,am-ET,cooking,cooking_recipe,ኦሜሌት ለመስራት ስንት እንቁላሎች ያስፈልጉኛል,cooking_recipe,0.9885,0.9885,True
+10197,am-ET,cooking,cooking_recipe,ምርጥ የፓስታ አሰራር አሳየኝ,qa_factoid,0.9244,0.0014,False
+10206,am-ET,cooking,cooking_recipe,ሩዝ እንዴት ነዉ የሚዘጋጀዉ,cooking_recipe,0.9996,0.9996,True
+10213,am-ET,cooking,cooking_recipe,ታዋቂ የክትፎ የምግብ አዘገጃጀት መመርያ ዘርዝር,cooking_recipe,0.5785,0.5785,True
+10214,am-ET,cooking,cooking_recipe,በአንድ ሰዓት ዉስጥ ልሰር የምችል የምግብ አይነት ምንድን ነው,iot_hue_lightoff,0.2419,0.1293,False
+10216,am-ET,cooking,cooking_recipe,ለሙፊንስ መጋገሪያ ለመግዛት በድሩ ውስጥ ፈልግ,cooking_recipe,0.375,0.375,True
+10217,am-ET,cooking,cooking_recipe,ድፍን ምስር ወጥ የምግብ አዘገጃጀት መመሪያ cookingforu መተግበሪያ ውስጥ ፈልግ,cooking_recipe,0.9999,0.9999,True
+10220,am-ET,cooking,cooking_recipe,አንድ ትልቅ ኬክ ለመጋገር ምን አይነት ንጥረ ነገሮች ያስፈልጉኛል,lists_query,0.2494,0.1181,False
+10224,am-ET,cooking,cooking_recipe,ጣፋጭ መሆን አለበት,qa_factoid,0.9097,0.0022,False
+10226,am-ET,cooking,cooking_recipe,የፓስታ አዘገጃጀት መመሪያውን አሳዉቀኝ,social_post,0.6961,0.0069,False
+10426,am-ET,lists,lists_query,በማስታወሻ ደብተር ውስጥ ሌላ ምን ይጎድላል,qa_factoid,0.9445,0.0006,False
+10427,am-ET,lists,lists_remove,እባክዎን የእኔ ግዢ ዝርዝር አፅዳ,email_sendemail,0.5092,0.0278,False
+10430,am-ET,lists,lists_remove,ዝርዝር ወስጥ ያለውን የመጀመሪያ እቃ ሰርዝ,play_radio,0.6411,0.0217,False
+10433,am-ET,lists,lists_remove,የእኔ ተግባር ዝርዝር አጥፋልኝ,qa_factoid,0.9134,0.0002,False
+10440,am-ET,lists,lists_query,የእኔ ዝርዝር ውስጥ ያሉ ማንኛውም ልዩ ፕሮግራም,social_post,0.7033,0.0015,False
+10442,am-ET,lists,lists_remove,ፕሮግራሞችን ከዝርዝሬ አስወግድ,lists_remove,0.1684,0.1684,True
+10444,am-ET,lists,lists_remove,ዕቃዎችን ሰርዝ,iot_hue_lightoff,0.3352,0.127,False
+10451,am-ET,lists,lists_query,ዛሬ ምን ልሰራ ነው,cooking_recipe,0.995,0.0003,False
+10455,am-ET,lists,lists_query,የእኔ የሥራ ዝርዝር ውስጥ ምን አለ,qa_factoid,0.3846,0.0599,False
+10462,am-ET,lists,lists_remove,ዝርዝሩን ያስወግዱ,social_post,0.9504,0.0005,False
+10493,am-ET,lists,lists_query,የእኔ የስራ ዝርዝር ውስጥ ምን አለ,qa_factoid,0.2262,0.1124,False
+10494,am-ET,lists,lists_remove,ከ ጽህፈት መሳሪያ እርሳስ አስወጣ,qa_factoid,0.134,0.0769,False
+10497,am-ET,qa,qa_factoid,አዲስ አበባ ባለ አምስት ኮከብ ሆቴሎች መወቅ እችላለሁ,social_post,0.1322,0.032,False
+10508,am-ET,lists,lists_remove,የ ዝርዝር ንጥልን ያስወግዱ,play_music,0.6728,0.0021,False
+10512,am-ET,lists,lists_query,ስልኬ ላይ ያለዉን ሁሉ ነገር ንገረኝ,qa_factoid,0.506,0.0397,False
+10523,am-ET,lists,lists_remove,ከሙዚቃ ማጫወቻ ውስጥ የድሮ እንግሊዘኛ መዝሙር ዝርዝሮችን አጥፋ,iot_hue_lightoff,0.2338,0.0456,False
+10525,am-ET,lists,lists_remove,የኔን መኪና መግዛት ከኔ ካለንደር ውስጥ አጥፋ,qa_factoid,0.0829,0.0757,False
+10527,am-ET,lists,lists_remove,ዝርዙን አስወግድ,social_post,0.9703,0.0003,False
+10534,am-ET,lists,lists_query,ለ ዛሬ ዝርዝር እንዴት እንደሚሰራ,cooking_recipe,0.644,0.0027,False
+10538,am-ET,lists,lists_query,የአስቤዛ ዝርዝሬን ድገምልኝ,play_radio,0.1966,0.0234,False
+10565,am-ET,lists,lists_remove,ሁሉንም ዝርዝሮች አጥፋ,play_podcasts,0.4752,0.0595,False
+10568,am-ET,lists,lists_remove,የድሮ ሙዚቃ ከዝዝሩ አጥፋልኝ,qa_factoid,0.9932,0.0004,False
+10570,am-ET,lists,lists_query,የማደርገውን ዝርዝር አረጋግጥ,cooking_recipe,0.5562,0.0043,False
+10571,am-ET,lists,lists_query,አንድሮይድ,qa_factoid,0.793,0.0067,False
+10577,am-ET,lists,lists_query,የእኔ ሁሉም ዝርዝሮች ስጠኝ,lists_remove,0.4785,0.3045,False
+10579,am-ET,lists,lists_remove,የቦታዎች ዝርዝሮቼን እንደገና አስተካክል,recommendation_events,0.8589,0.0082,False
+10588,am-ET,lists,lists_query,የ ዝርዝሩን ይዘቶች አሳየኝ,social_post,0.2955,0.0142,False
+10590,am-ET,lists,lists_remove,ሁለተኛውን መስመር ከዝርዝሩ ላይ አጥፋ,play_radio,0.1871,0.0385,False
+10655,am-ET,lists,lists_remove,የድግስ ጊዜ ዝርዝር አጥፋው,play_radio,0.2937,0.0132,False
+10667,am-ET,lists,lists_query,የ ዝርዝሩን መርሃ ግብሮች አንብብ,play_music,0.4267,0.0189,False
+10673,am-ET,lists,lists_remove,እባክህ እነዝህ ዝርዝር አጥፋቸው,social_post,0.6095,0.0029,False
+10674,am-ET,lists,lists_remove,አሁን ያለዉን ዝርዝር አጥፋ,play_radio,0.2443,0.0242,False
+10679,am-ET,lists,lists_query,ዛሬ የእኔ የሥራ ዕቅድ ምንድን ነዉ,calendar_remove,0.3145,0.0191,False
+10684,am-ET,lists,lists_query,እኔ ምን ዝርዝሮች ጠየቅሁ,news_query,0.8626,0.0542,False
+10687,am-ET,lists,lists_remove,ሌላ ዝግጅት ካለ እሱን ሰርዘው,qa_factoid,0.8659,0.0163,False
+10696,am-ET,lists,lists_remove,ቀይር,calendar_remove,0.6757,0.026,False
+10699,am-ET,lists,lists_query,የዕቃዎችን ዝርዝር አሳውቀኝ,iot_hue_lightoff,0.108,0.0404,False
+10718,am-ET,lists,lists_remove,ይህ ንጥል ከ ዝርዝር ውስጥ ማስወገድ ይችላሉ,play_radio,0.2327,0.0266,False
+10731,am-ET,lists,lists_query,የእኔ ዝርዝር ውስጥ ያለውን አንብብ,iot_hue_lightoff,0.5534,0.0188,False
+10743,am-ET,lists,lists_remove,ያንን ንጥል ያስወግዱ,qa_factoid,0.9739,0.0008,False
+10753,am-ET,lists,lists_query,የኦል ማርት ሊስት ላይ የሰራሁት ነገር ወደመዉን ኣለ,qa_factoid,0.5147,0.0194,False
+10755,am-ET,lists,lists_remove,እባክህን እኔ የምሰራውን ዝርዝር አስውግድልኝ,qa_factoid,0.9167,0.0003,False
+10756,am-ET,lists,lists_remove,የ ግዢ ዝርዝር አጽዳ,play_radio,0.088,0.046,False
+10757,am-ET,lists,lists_query,የእኔ ግዢ ዝርዝር ውስጥ ምን ዕቃዎች አሉ,lists_query,0.4373,0.4373,True
+10759,am-ET,lists,lists_query,የዕቃ ግዥ አንብብልኝ,social_post,0.5439,0.0001,False
+10760,am-ET,lists,lists_query,ከ ሁለት ቀናት በፊት የጻፍኩትን ዝርዝር ንገረኝ,iot_hue_lightoff,0.1655,0.0277,False
+10770,am-ET,lists,lists_remove,እህል የእኔ ግዢ ዝርዝር ውስጥ አስወግድ,email_sendemail,0.1511,0.13,False
+10772,am-ET,calendar,calendar_remove,የጥርስ ሐኪም ቀጠሮ ን ከዛሬ መርሃ ግብሬ ላይ አስወግድ,lists_remove,0.11,0.0757,False
+10776,am-ET,lists,lists_query,እኔ የተዘጋጀ አስቤዛ ዝርዝር አለኝ,qa_factoid,0.6788,0.0062,False
+10786,am-ET,lists,lists_remove,የዛሬ የእንቅስቃሴ ዝርዝሬን አጽዳ,news_query,0.1886,0.0285,False
+10790,am-ET,lists,lists_remove,ንጥሉን ከ ዝርዝር ሰርዝ,play_radio,0.4679,0.0169,False
+10804,am-ET,lists,lists_query,የገበያ ዝርዝሬን አንብብ,qa_factoid,0.9456,0.0017,False
+10805,am-ET,lists,lists_query,እባክህ እኔ ያለኝ ዝርዝር አሳይ,email_sendemail,0.375,0.0135,False
+10808,am-ET,lists,lists_remove,የመጨረሻው እቃ አጥፋ,qa_factoid,0.5689,0.0104,False
+10824,am-ET,lists,lists_remove,ኦሊ ዝርዝር አጥፋ,social_post,0.7203,0.0024,False
+10825,am-ET,lists,lists_remove,ዝርዝሩን አጥፋ,play_music,0.9795,0.0005,False
+10827,am-ET,lists,lists_remove,የምግብ መደብርች ዝርዝር ሰርዝ,cooking_recipe,0.857,0.002,False
+10828,am-ET,lists,lists_remove,ሁሉንም አጥፍ,qa_factoid,0.8419,0.1008,False
+10832,am-ET,calendar,calendar_query,አበበ ከዚህ ቀጥሎ ያለኝ ስራ ምንድነው,qa_factoid,0.5199,0.0169,False
+10843,am-ET,lists,lists_remove,የኔ የገበያ ዝርዝር ውስጥ ወተት አስወግድ,qa_factoid,0.9049,0.0051,False
+10846,am-ET,lists,lists_remove,አሁን የኒንቴንዶ ማብሪያ ማጥፊያን ለመግዛት በቂ ገንዘብ የለኝም እባክህን ከአማዞን ዊሽሊስት ዝርዝር ውስጥ አስወግደው,cooking_recipe,0.0947,0.0465,False
+10848,am-ET,lists,lists_remove,ይህን ዝርዝር ከሌሎቹ ያስወግዱ,social_post,0.9825,0.0003,False
+10851,am-ET,lists,lists_query,የሚገኙ ዝርዝሮቼን ምንድን ናቸው,news_query,0.8455,0.0798,False
+10853,am-ET,lists,lists_remove,ያንን ከዚያ አውርዱ,qa_factoid,0.9738,0.0008,False
+10855,am-ET,lists,lists_query,የእኔ ዝርዝር ማረጋገጥ አለብኝ,iot_hue_lightoff,0.2507,0.0199,False
+10868,am-ET,lists,lists_query,በ ዝርዝር ላይ የቀረውን ማንኛውም ነገር olly,social_post,0.9464,0.0014,False
+10887,am-ET,lists,lists_remove,የእኔ ዝርዝር ሰርዝ,iot_hue_lightoff,0.5916,0.0108,False
+10895,am-ET,lists,lists_remove,የኔ ዝርዝር ውስጥ አይነቶቹን አጥፍ,lists_remove,0.4827,0.4827,True
+10909,am-ET,lists,lists_query,ኦሊ ዝርዝሮቼን ለእኔ አንብብልኝ,social_post,0.2606,0.0096,False
+10927,am-ET,lists,lists_query,የእኔ ዝርዝር መስማት እችላለው,iot_hue_lightoff,0.6213,0.0085,False
+10931,am-ET,lists,lists_query,የእኔ አጫዋች ዝርዝር ውስጥ ምን አለ,email_query,0.1876,0.1412,False
+10936,am-ET,lists,lists_remove,እባክህ የእኔን ተወዳጅ አልበሞች ዝርዝር አስወግድ,social_post,0.2864,0.0313,False
+10954,am-ET,lists,lists_query,በ እኔ እውቂያዎች ውስጥ ስንት ዝርዝሮች አሉኝ,social_post,0.3547,0.2255,False
+10956,am-ET,lists,lists_query,የእኔ እውቂያዎች ውስጥ የትኞቹ ቡድኖች ተዘርዝረዋል,social_post,0.8612,0.0093,False
+10957,am-ET,lists,lists_query,ምን ያህል ዝርዝሮች እንዳለኝ አስታውሰኝ,play_podcasts,0.4815,0.0682,False
+10960,am-ET,lists,lists_remove,ያንን ከ ዝርዝር አጥፋ,play_music,0.3799,0.0213,False
+10970,am-ET,lists,lists_remove,የመጨረሻ ውን ሀረግ ሰርዝ,qa_factoid,0.8064,0.0096,False
+10979,am-ET,lists,lists_query,አሁን በአንተ ዝርዝር ውስጥ ምን አለ,play_radio,0.1298,0.1055,False
+10981,am-ET,lists,lists_query,ዝርዝር ን አሳውቀኝ,news_query,0.1943,0.0102,False
+10985,am-ET,lists,lists_remove,በዚህ ሳምንት የሚከናወኑ ዝርዝሮቼን አጥፋ,iot_hue_lightoff,0.2679,0.0169,False
+10990,am-ET,lists,lists_remove,በእኔ የምሰራው ላይ ኩሽናውን መጥረግ ያስወግዱት,social_post,0.3827,0.0169,False
+10999,am-ET,lists,lists_query,ዝርዝሩን ተናገር,news_query,0.3417,0.0056,False
+11023,am-ET,lists,lists_remove,የ ግዢ ዝርዝር አስወግድ,play_radio,0.5582,0.0501,False
+11024,am-ET,lists,lists_remove,የስራ ዝርዝር አጥፋ,play_music,0.5939,0.0058,False
+11053,am-ET,lists,lists_remove,google ዝርዝሩን አስወግድ,play_radio,0.1919,0.0061,False
+11075,am-ET,lists,lists_query,ምን ያህል ዝርዝሮች አሉኝ,play_podcasts,0.9453,0.0187,False
+11081,am-ET,lists,lists_query,የእኔ ማስታወሻ ደብተር ውስጥ ምን ዝርዝሮች አሉ,lists_query,0.7085,0.7085,True
+11085,am-ET,lists,lists_remove,ወተት ን ከ ግዢ ዝርዝር ውስጥ አውጡ,social_post,0.5217,0.0949,False
+11098,am-ET,lists,lists_remove,የ ቀረጥ ዝርዝር ከ አስራ ዘጠኝ ዘጠና ጅምሮ አስወግድ,play_music,0.2833,0.1653,False
+11107,am-ET,lists,lists_query,አሁን የእኔ ዝርዝር ምንድን ናቸው,email_query,0.275,0.059,False
+11124,am-ET,lists,lists_query,የእኔ ስራ ዝርዝር ውስጥ ያሉትን እቃዎች ዘርዝር,recommendation_events,0.1042,0.0514,False
+11125,am-ET,lists,lists_query,በግዢ ትዕዛዝ ላይ ዝርዝሮችን ስጠኝ,recommendation_events,0.7211,0.0171,False
+11133,am-ET,lists,lists_remove,ባለፈው ሳምንት ያዘጋጀውትን የእንግዳ ዝርዝር አጥፋ,cooking_recipe,0.3355,0.0346,False
+11154,am-ET,lists,lists_query,የቅርብ የስራ ዝርዝሮችን አረጋግጥልኝ,news_query,0.8176,0.0177,False
+11162,am-ET,lists,lists_remove,ፖም ከ ዝርዝር ውስጥ ማስወገድ እፈልጋለሁ,social_post,0.4595,0.0114,False
+11164,am-ET,lists,lists_remove,ከዝርዝር ራቅ,play_radio,0.6601,0.003,False
+11166,am-ET,lists,lists_query,google keep ክፈት,qa_factoid,0.9949,0.0001,False
+11168,am-ET,lists,lists_remove,የኔ ዝርር አጥፋልኝ,qa_factoid,0.466,0.0182,False
+11172,am-ET,lists,lists_query,ያሉትን ሁሉንም ዝርዝሮች ስጠኝ,lists_remove,0.957,0.0265,False
+11174,am-ET,lists,lists_query,በዚህ መሣሪያ ላይ ያሉትን ሁሉንም ዝርዝሮች ዘርዝሩ,play_radio,0.2858,0.0192,False
+11180,am-ET,calendar,calendar_query,የእኔ ድግስ እቅድ,qa_factoid,0.9712,0.0002,False
+11186,am-ET,lists,lists_query,የልብሶች ዝርዝር አለኝ,social_post,0.6359,0.0585,False
+11189,am-ET,lists,lists_query,ዝርዝሩን አግኝ,play_music,0.8535,0.0009,False
+11204,am-ET,lists,lists_query,አስፍላጊ የቤት መረጃ,qa_factoid,0.9997,0.0,False
+11215,am-ET,lists,lists_query,ዝርዝር,play_radio,0.6877,0.0049,False
+11250,am-ET,lists,lists_query,የእኔን አስቤዛ ዝርዝር አንብብልኝ,iot_hue_lightoff,0.4042,0.0018,False
+11257,am-ET,play,play_podcasts,olly ቀጣዩን ቀረጻ ይጫወቱ,email_sendemail,0.4523,0.0032,False
+11259,am-ET,play,play_podcasts,ወደ ቀጣዩ ፖድካስት ዝለል,qa_factoid,0.9564,0.0005,False
+11261,am-ET,play,play_podcasts,ቀጣይ,qa_factoid,0.9991,0.0001,False
+11265,am-ET,play,play_podcasts,ቀጣይ ያለውን ክፈት,qa_factoid,0.9953,0.0001,False
+11266,am-ET,play,play_podcasts,ከእኔ ስብስቦች ውስጥ ፖድካስት አጫውት,qa_factoid,0.427,0.0233,False
+11267,am-ET,play,play_podcasts,ስለ መጨረሻዎቹ የፕሪትዝከር ሽልማት አሸናፊዎች አስደሳች ፖድካስት ፈልግ,qa_factoid,0.285,0.038,False
+11270,am-ET,play,play_podcasts,ቀጣዩን ስርጭት አጫውት,qa_factoid,0.4459,0.0467,False
+11272,am-ET,play,play_podcasts,ቀጣይ ክፈት,qa_factoid,1.0,0.0,False
+11279,am-ET,play,play_podcasts,ወደ ፖድካስት ሂድና የእረኛዬ የሚቀጥለውን ክፍል አጫውት,play_radio,0.1648,0.0236,False
+11286,am-ET,play,play_podcasts,የለዛን ፖድካስት አጫወት,qa_factoid,0.9927,0.0003,False
+11296,am-ET,play,play_podcasts,ሁሉንም የእኔ ን ፖድካስቶች ጫን,social_post,0.2569,0.0571,False
+11302,am-ET,play,play_podcasts,ፋና ፖድካስት ይጫወቱ,qa_factoid,0.9822,0.002,False
+11303,am-ET,play,play_podcasts,የሚቀጥለውን ብስራት ፖድካስት ያጫውቱ,qa_factoid,0.5088,0.0462,False
+11306,am-ET,play,play_podcasts,ትናንት እያዳመጥ የነበረውን ፖድካስት አጫውት።,social_post,0.332,0.0684,False
+11318,am-ET,play,play_podcasts,የፕሮግራሙን የሚቀጥለውን ክፍል አጫውት,qa_factoid,0.5125,0.0405,False
+11322,am-ET,play,play_podcasts,የዛሬ ምርጥ ፖድካስቶች ምንድናቸው,social_post,0.4226,0.0164,False
+11328,am-ET,play,play_podcasts,የስፖርት ዜና በ ፖድካስት አጫውት,news_query,0.4861,0.0183,False
+11331,am-ET,play,play_podcasts,ጥሩ የሮክ ዘፈኖች ጥሩ ደረጃ ያላቸው ፖድካስት አሳየኝ,social_post,0.1006,0.0429,False
+11335,am-ET,play,play_music,ሁሉንም ዘገምተኛ የሙዚቃ ዘፈኖችን ይጫወቱ እና ያዋህዱ,recommendation_events,0.8946,0.0026,False
+11339,am-ET,play,play_podcasts,የእኔ በብዛት የታየ ፖድካስት አጫውት,qa_factoid,0.9775,0.0009,False
+11340,am-ET,play,play_podcasts,መሐሙድ አህመድ አዲስ ፖድካስት አለው,social_post,0.6588,0.0004,False
+11341,am-ET,play,play_podcasts,የቅርብ ጊዜ መንታ መንገድን ስርጭት ያግኙ,recommendation_events,0.9854,0.0007,False
+11343,am-ET,play,play_podcasts,ወደ ቀጣዩ የብስራት ክፍል ሂድ,qa_factoid,0.3427,0.023,False
+11345,am-ET,play,play_podcasts,የፖድካስት የሚቀጥለው ክፍል አጫውት,qa_factoid,0.9935,0.0023,False
+11349,am-ET,play,play_podcasts,ኦሊ ትላንት የተጀመረ ፖድካስት ጀምር,qa_factoid,0.4491,0.0207,False
+11353,am-ET,play,play_podcasts,ፖድካስቶች ለእኔ አሳይ,social_post,0.9798,0.0005,False
+11361,am-ET,play,play_podcasts,ለዛ ፖድካስት አጫውት,qa_factoid,0.9997,0.0,False
+11366,am-ET,play,play_podcasts,ያለፈው ክፍል ፖድካስት ተመለስ,qa_factoid,0.2883,0.0333,False
+11368,am-ET,play,play_podcasts,የብርሃኑ ፖድካስት ለእኔ አጫውት,qa_factoid,0.3588,0.0249,False
+11376,am-ET,play,play_podcasts,ፖድካስት ማዳመጥ እፈልጋለሁ,qa_factoid,0.9587,0.0006,False
+11384,am-ET,play,play_podcasts,እባክህ በይነመረብ ላይ የሚገኘውን የፖድካስት ፋይሌን አውርደህ አንድ ጊዜ አጫውት,iot_hue_lightoff,0.1327,0.0416,False
+11409,am-ET,play,play_podcasts,እባኮትን ወደ የሚቀጥለው ስርጭት ክፍል ይዝለሉ,qa_factoid,0.7393,0.0019,False
+11417,am-ET,play,play_podcasts,ቀጣዩን ክፍል ጀምር,qa_factoid,0.9467,0.0017,False
+11418,am-ET,play,play_podcasts,ብርሃኑ ድጋፌ የቅርብ ጊዜ ፖድካስት አጫውት,social_post,0.2387,0.0302,False
+11420,am-ET,play,play_podcasts,የእኔን በጣም የቅርብ ጊዜ ፖድካስት መጫወት ጀምር,qa_factoid,0.6785,0.0079,False
+11423,am-ET,play,play_podcasts,ሠላሳ ሰከንድ ወደ ኋላ ሂድ,social_post,0.8408,0.0047,False
+11424,am-ET,play,play_podcasts,አሃዱ ሬድዮ,social_post,1.0,0.0,False
+11426,am-ET,lists,lists_query,በጣም የታዩ ዝርዝር,qa_factoid,0.8734,0.0004,False
+11427,am-ET,play,play_podcasts,ፋና ጀምር,qa_factoid,0.922,0.0006,False
+11437,am-ET,play,play_podcasts,እባክህን ፖድካስት አጫውት,social_post,0.5989,0.0029,False
+11438,am-ET,play,play_podcasts,እባክህ የፖድካስት የሚቀጥለው ክፍል ሂድ,email_query,0.6412,0.0236,False
+11442,am-ET,play,play_podcasts,እባክዎ የቅርብ ጊዜ ፍቅር ይልቃል ፖድካስት ያጫውቱ,social_post,0.4459,0.0309,False
+11451,am-ET,play,play_podcasts,የቅርብ ጊዜውን ኢቶፒካሊ ፖድካስት ማዳመጥ እፈልጋለሁ,qa_factoid,0.3253,0.0292,False
+11453,am-ET,play,play_podcasts,ለዛ ላይ ፖድካስት አስጀምር,qa_factoid,0.9994,0.0,False
+11455,am-ET,play,play_podcasts,ወደ ቀጣዩ ክፍል ይሂዱ,social_post,0.7257,0.0076,False
+11458,am-ET,play,play_podcasts,ወደ ቀጣዩ የሚቀጥለው ፖድካስት ክፍል ቀጥልበት,qa_factoid,0.8235,0.0086,False
+11459,am-ET,play,play_podcasts,በዚህ ፖድካስት ወደ የመጨረሻው ክፍል ተመለስ,social_post,0.1526,0.042,False
+11460,am-ET,play,play_podcasts,የስፖርት ዜና ማዳመጥ እፈልጋለሁ,iot_hue_lightoff,0.2615,0.0204,False
+11467,am-ET,play,play_podcasts,ፋና በጣም የቅርብ ጊዜውን ፖድካስት ያጫውቱ,qa_factoid,0.707,0.0171,False
+11470,am-ET,play,play_podcasts,እባክህ የእኔ የሚወደድ ስርጭት አጫውት,qa_factoid,0.9802,0.0003,False
+11474,am-ET,play,play_podcasts,ተከታታይ ፖድካስት ከቆመበት ቀጥል,qa_factoid,0.9881,0.0004,False
+11476,am-ET,play,play_podcasts,ያለፈው ፖድካስት አጫውት,social_post,0.3298,0.0219,False
+11483,am-ET,play,play_podcasts,ለዛ ማጫወት ጀምር,play_radio,0.9456,0.0042,False
+11490,am-ET,play,play_podcasts,የሚቀጥለው ትዕይንት በ ፖድካስት ያጫውቱ,play_podcasts,0.2326,0.2326,True
+11502,am-ET,play,play_podcasts,ቀጣይ በተን,qa_factoid,1.0,0.0,False
+11505,am-ET,play,play_podcasts,የእኔ የመጨረሻው ፖድካስት እንደገና አጫውት,qa_factoid,0.1685,0.0297,False
+11514,am-ET,play,play_podcasts,olly ሁሉንም የሸገር ካፌ ፖድካስት ማዳመጥ እንችላለሁ,qa_factoid,0.9813,0.0007,False
+11515,am-ET,play,play_podcasts,ፋና ዜና ፖድካስት እንስማ,social_post,0.7857,0.0023,False
+11525,am-ET,play,play_podcasts,የሚቀጥለውን ፖድካስት እንዳለ ማየት እፈልጋለሁ,qa_factoid,0.7875,0.0038,False
+11529,am-ET,play,play_podcasts,ሃይ የእኔ የሚወደድ ፖድካስት ከ ዝርዝር አጫውት,play_radio,0.3586,0.0444,False
+11536,am-ET,play,play_podcasts,የፖድካስት ተወዳጆችን ወደ አጫዋች ዝርዝር ያክሉ እና ጀምር,recommendation_events,0.2357,0.0303,False
+11539,am-ET,play,play_podcasts,ቀጣዩን ፖድካስት ጀምር,qa_factoid,0.5409,0.0041,False
+11546,am-ET,play,play_podcasts,ከ ባለፈዉ ሳምንት ሁሉም ሽ ሰማንያ አጫውት,weather_query,0.1546,0.0395,False
+11554,am-ET,play,play_podcasts,ፖድካስት እንድትጫውትልኝ እፈልጋለሁ,qa_factoid,0.9071,0.0031,False
+11563,am-ET,recommendation,recommendation_events,ድሬደዋ ውስጥ ምን ማድረግ እችላለሁ,cooking_recipe,0.9957,0.0002,False
+11570,am-ET,recommendation,recommendation_events,በምኖርበት ከተማ ምን ተፈጠረ,social_post,0.1586,0.0394,False
+11582,am-ET,recommendation,recommendation_events,ፒያሳ አካባቢ በጃዝ ትእይንት ላይ ማንኛውም የሆነ ድፍረት ነገር አለ,iot_hue_lightoff,0.0991,0.0466,False
+11585,am-ET,recommendation,recommendation_events,በ ጅጅጋ ውስጥ ማንኛውም ባህላዊ ዝግጅቶች,social_post,0.198,0.0789,False
+11598,am-ET,recommendation,recommendation_events,መኖሪያ ከተማዬ ውስጥ የሚደረጉ የውሻ ትዕይንቶች ኩነቶች አሳውቀኝ,lists_remove,0.2177,0.0576,False
+11600,am-ET,recommendation,recommendation_events,ዛሬ ማታ ሲኒማ በቢሾፍቱ ውስጥ ምን ፊልም ማየት እችላለሁ,iot_hue_lightoff,0.703,0.0022,False
+11610,am-ET,recommendation,recommendation_events,አሁን በ ከተማ ውስጥ እየተካሄደ ያለውን የ ሰርከስ ትርኢቶች ዝርዝር ስጠኝ,lists_remove,0.6567,0.0071,False
+11612,am-ET,recommendation,recommendation_events,ፒያሳ ውስጥ ምን አጋፋሪ አለ,qa_definition,0.6032,0.0093,False
+11616,am-ET,recommendation,recommendation_events,ዛሬ ማታ ማንኛውም ዝግጅት አለ መሃል ከተማ ውስጥ,social_post,0.2532,0.0418,False
+11643,am-ET,recommendation,recommendation_events,በቅርቡ ልከሰቱ የምችሉ ክስተቶች ንገረኝ,qa_factoid,0.358,0.0852,False
+11644,am-ET,recommendation,recommendation_events,በ ፒያሳ ውስጥ ሁነቶች ን አሳየ ኝ,iot_hue_lightoff,0.1887,0.0341,False
+11650,am-ET,recommendation,recommendation_events,ሁለቱም ወጣት አሽከርካሪዎች እና ጊዜያዊ አሽከርካሪዎች በሰላም ለመንዳት የሚያስፈልጋቸውን ሰፊ ​​ልምድ ስላላገኙ ከሌሎች አሽከርካሪዎች በበለጠ ይጋጫሉ ራሳቸው ጥናቶች የሚያሳዩት የመንዳት ልምድ የመንገድ አደጋዎችን ለመቀነስ ዋነኛው ምክንያት መሆኑን እና ለወጣት አሽከርካሪዎች በጣም አስተማማኝ ጊዜ ሲማሩ በክትትል ውስጥ ሲነዱ ነው,recommendation_events,0.1204,0.1204,True
+11681,am-ET,recommendation,recommendation_events,እባክህ ማራቶን በአቅራቢያ አሳየኝ,social_post,0.6538,0.0045,False
+11685,am-ET,recommendation,recommendation_events,ደስተኛ እሆናለው ዝግጅቶች እንድታደም ካረግሽኝ,qa_factoid,0.7833,0.0146,False
+11705,am-ET,recommendation,recommendation_events,ፒያሳ አካባቢ አጋፋሪ አሳየኝ,social_post,0.8328,0.0029,False
+11720,am-ET,recommendation,recommendation_events,መዋኘት,qa_factoid,0.6366,0.0001,False
+11767,am-ET,recommendation,recommendation_events,አስቴር በዚ ሳምንት ፒያሳ ምን ክስተት ይኖራል,qa_factoid,0.6572,0.0014,False
+11770,am-ET,recommendation,recommendation_events,በዚህ ሳምንት አዲስ አበባ ላይ የሚደረጉ ኩነቶች አሉ,social_post,0.1215,0.0505,False
+11782,am-ET,recommendation,recommendation_events,ይህ ሳምንት በአጠገቤ ልዩ ዝግጅቶች አሉ,recommendation_events,0.5364,0.5364,True
+11798,am-ET,recommendation,recommendation_events,ቤተ መጵሀፍ ውስጥ ቀጣዩ ክስተት የትኛው ነው,iot_hue_lightoff,0.7222,0.0034,False
+11827,am-ET,recommendation,recommendation_events,የት አመድ ዛሬ ማታ,qa_factoid,0.3006,0.0219,False
+11839,am-ET,recommendation,recommendation_events,በእኔ አካባቢ ምን እየተካሄደ ነው,weather_query,0.9905,0.0004,False
+11841,am-ET,recommendation,recommendation_events,እዝህ አጀባቢ አጋፋሪ አለ እንዴ,qa_factoid,0.9997,0.0,False
+11844,am-ET,recommendation,recommendation_events,በውሃ ዳርቻ አካባቢ ምን አስደሳች ነገር አለ,lists_query,0.3087,0.0258,False
+11845,am-ET,recommendation,recommendation_events,በቀለ ፒያሳ አከባቢ ከለው ክስተት ጋር ውሰደኝ,social_post,0.9721,0.001,False
+11860,am-ET,recommendation,recommendation_events,ንገረኝ የአገር ውስጥ ዝግጅቶች delet,qa_factoid,0.9585,0.0013,False
+11867,am-ET,recommendation,recommendation_events,ነገ ድሬዳዋ ላይ የስፖርት ውድድር አለ,social_post,0.6963,0.0261,False
+11875,am-ET,recommendation,recommendation_events,አጋፋሪ ዝግጅት አለ እዚህ አካባቢ,social_post,0.4846,0.0157,False
+11904,am-ET,recommendation,recommendation_events,እዚህ አካባቢ በዚህ ሳምንት መጨረሻ ምን አለ,weather_query,0.9841,0.0007,False
+11905,am-ET,recommendation,recommendation_events,ኦሊ በዚህ ሳምንት ያሉትን ኹነቶች ንገረኝ,lists_query,0.155,0.043,False
+11911,am-ET,recommendation,recommendation_events,ይህ ሳምንት ጥሩ ክሰተት ምን አለ,qa_factoid,0.3231,0.0408,False
+11916,am-ET,recommendation,recommendation_events,በአቅራቢያ ያሉ ጥቂት ጥብቅ ፓርኮች እነማናቸው,social_post,0.9402,0.0021,False
+11969,am-ET,recommendation,recommendation_events,እዝህ አከባቢ እየተከናወነ የለ ነገር አለ እንዴ,qa_factoid,0.1451,0.0473,False
+11999,am-ET,recommendation,recommendation_events,የ ዛሬ በከተማዬ ያሉትን ሁነቶች ሁሉ ንገሩኝ,lists_remove,0.6295,0.0097,False
+12008,am-ET,recommendation,recommendation_events,ዛሬ ፒያሳ ላይ ማንኛውም አዝናኝ ዝግጅት አለ,social_post,0.4807,0.2548,False
+12054,am-ET,recommendation,recommendation_events,ፒያሳ ላይ አሁን ምን እየተከናወነ ነው,news_query,0.1478,0.0611,False
+12070,am-ET,recommendation,recommendation_events,ኤድና ሞል መች ይከፈታል,qa_factoid,0.9993,0.0,False
+12073,am-ET,recommendation,recommendation_events,አስተላላፊ አጋፋሪ,qa_factoid,0.9994,0.0,False
+12098,am-ET,recommendation,recommendation_events,ሙዚቃ ዝግጅቶች በቂረብ ያሉ አሳየኝ,recommendation_events,0.2259,0.2259,True
+12189,am-ET,transport,transport_query,ባቡር ጣቢያ አዴት አገኛለው ትኬት ለመቁረጥ,qa_factoid,0.9975,0.0001,False
+12240,am-ET,transport,transport_query,በ አምስት የመጓጓዣ ቤት ላይ ያለው ትራፊክ ምን ይመስላል,datetime_query,0.2068,0.0377,False
+12245,am-ET,transport,transport_query,ከ አዋሽ መተሃራ የሚሄደው ቀጣይ ባቡር መቼ ነው,datetime_query,0.4623,0.0033,False
+12251,am-ET,transport,transport_query,ወደ ሜክሲኮ መድረሻ የአከባቢ ባቡር ጊዜ አግኝልኝ,play_radio,0.165,0.0313,False
+12252,am-ET,transport,transport_query,ባቡሮቹ ወደ አዳማ የሚሄዱት ስንት ሰዓት ነው,datetime_query,0.8184,0.0061,False
+12261,am-ET,transport,transport_query,በሚቀጥለው እሮብ ወይም ሀሙስ ወደ አዲስ አበባ ለመሄድ ያለኝን የ ባቡር አማራጭ ንገረኝ,social_post,0.1219,0.0447,False
+12263,am-ET,transport,transport_query,ደቡብ ክልል,social_post,0.8334,0.0074,False
+12264,am-ET,transport,transport_query,አዲስ አበባ,email_query,0.2001,0.0365,False
+12294,am-ET,transport,transport_query,ወደ ሀገር ፍቅር ቲያትር የ ባቡር መርሃ ግብሮችን አሳየኝ,social_post,0.8996,0.0049,False
+12310,am-ET,transport,transport_query,ከ አዲስ አበባ እስከ ድሬዳዋ ያሉትን የ ባቡር ትኬቶች ዝርዝር ስጠኝ,lists_remove,0.7992,0.0019,False
+12343,am-ET,transport,transport_query,ከገሀር ጣቢያ የአስር ሺህ ስምንት መቶ ሰማንያ ሰባት ባቡር መግቢያ ሰዓት ማክሰኞ ላይ,datetime_query,0.2846,0.0367,False
+12354,am-ET,transport,transport_query,ባቡር ሰአቱን ስጠኝ,email_sendemail,0.599,0.0026,False
+12366,am-ET,transport,transport_query,ሀዋሳን ከ ጅማ የሚያገናኜ ባቡር አለ እንዴ,qa_factoid,0.8094,0.0096,False
+12367,am-ET,transport,transport_query,ወደ መርካቶ በጣም ጥሩው መንገድ የቱ ነው,qa_factoid,0.9613,0.0012,False
+12376,am-ET,transport,transport_query,ወደ አዳማ የመጀመሪያው ታክሲ ምንድን ነው,qa_factoid,0.1373,0.0547,False
+12392,am-ET,transport,transport_query,የዛሬውን አቅጣጫ ንገረኝ,calendar_remove,0.1513,0.0301,False
+12402,am-ET,transport,transport_query,በከተማዋ የሚጓዘው የሚቀጥለው ባቡር መቼ ነው በእዚህ የሚሄደው,weather_query,0.9962,0.0001,False
+12419,am-ET,transport,transport_query,ወደ ዮድ አቢሲንያ በጣም ፈጣኑ መንገድ,qa_factoid,0.4818,0.0018,False
+12430,am-ET,transport,transport_query,ወደ ቢሾፍቱ የ ባቡር መድረሻ ጊዜ ንገረኝ,social_post,0.5334,0.0061,False
+12436,am-ET,transport,transport_query,ወደ አየር ማረፊያ ለመድረስ ምን ያህል ጊዜ ይወስዳል,iot_hue_lightoff,0.2614,0.0668,False
+12437,am-ET,transport,transport_query,ወደ ቲያትር ቤቱ የመጓጓዣ ሰአት ስንት ነው,datetime_query,0.9794,0.0007,False
+12446,am-ET,transport,transport_query,ወደ ጅጅጋ የሚሄደው ባቡር የሚሄድባቸውን ሰዓታት ልታሳውቀኝ ትችላለህ,weather_query,0.4149,0.0186,False
+12473,am-ET,transport,transport_query,እዚህ ወደ እቤት እንዴት እንደምመለስ,qa_factoid,0.7894,0.0177,False
+12526,am-ET,transport,transport_query,ወደ starbucks ለመድረስ ፈጣኑ መንገድ ምንድነው,weather_query,0.3635,0.1654,False
+12532,am-ET,transport,transport_query,ወደ ቦታው መንገዱን ምራ,social_post,0.168,0.0557,False
+12581,am-ET,transport,transport_query,ኤፍ ባቡር ዛሬ ምን ጊዜ ይነሳል,weather_query,0.9713,0.0007,False
+12582,am-ET,transport,transport_query,የመጀመሪያው ቀላል ባቡር ጥዋት ስንት ሰዓት ላይ ይደርሳል,datetime_query,0.0992,0.0327,False
+12604,am-ET,transport,transport_query,የ ባቡር ትኬት በመስመር ላይ እንዴት ነው የምይዘው,cooking_recipe,0.9981,0.0002,False
+12618,am-ET,transport,transport_query,ወደ አዳማ ለመሄድ የዙር ጉዞ ባቡር ትኬት ስንት ነው።,play_radio,0.5939,0.022,False
+12623,am-ET,transport,transport_query,ለ ድሬዳዋ የ ባቡር ጊዜ አለህ,calendar_remove,0.3148,0.0178,False
+12629,am-ET,transport,transport_query,የመጀመሪያው ባቡር ከ አዲስ አበባ የሚነሳው በስንት ሰአት ነው,datetime_query,0.6807,0.0112,False
+12634,am-ET,transport,transport_query,የሚቀጥለው ባቡር ወደ ደብረ ታቦር የሚሄደው መቼ ነው,datetime_query,0.6211,0.0006,False
+12707,am-ET,transport,transport_query,የአሰሳ ፍለጋ,qa_factoid,0.3404,0.0358,False
+12759,am-ET,transport,transport_query,ወደ አሶሳ የማሽከርከር ጊዜ,qa_factoid,0.7611,0.0012,False
+12797,am-ET,transport,transport_query,የባቡር ጊዜዎች ከአጠገቤ ወደ መገኛ ቦታ,qa_factoid,0.6135,0.0213,False
+12800,am-ET,transport,transport_query,የት ነው የህዝብ ቤተ መፅሀፍ,qa_factoid,0.8856,0.0044,False
+12817,am-ET,transport,transport_query,የገበያ አዳራሽ እንዴት ማግኘት እችላለሁ,qa_factoid,0.9999,0.0,False
+12818,am-ET,transport,transport_query,ወደ ድሬዳዋ የሚወስደው ባቡር ትኬት ስንት ነው,iot_hue_lightoff,0.4746,0.3362,False
+12824,am-ET,transport,transport_query,ወደ ድሬዳዋ ሁሉንም የ ባቡር ጊዜያት ዘርዝር,play_radio,0.5281,0.0096,False
+12835,am-ET,transport,transport_query,ባቡር ስንት ሰኃት ነው ሚያልፈው,iot_hue_lightoff,0.3503,0.0071,False
+12839,am-ET,transport,transport_query,ወደ ጎንደር ፍሲለደስ ውሰደኝ,social_post,0.9742,0.0008,False
+12851,am-ET,transport,transport_query,ወደ ቤቴ አቅጣጫ አሳየኝ,social_post,0.612,0.0198,False
+12856,am-ET,transport,transport_query,እባክዎን አቅጣጫዎች,email_sendemail,0.5742,0.0024,False
+12866,am-ET,transport,transport_query,የኢትዮጵያ ኢ ኤም ኤስ ጊዜ ስንት ነው,social_post,0.8477,0.0003,False
+12908,am-ET,transport,transport_query,ባቡሩ ጭሮ ስንት ሰዓት ይደርሳል,datetime_query,0.9364,0.0012,False
+12930,am-ET,transport,transport_query,ካርታ ላይ እኔ ቅርብ ያሉ መደብሮች ተመልከት,social_post,0.9977,0.0001,False
+12932,am-ET,transport,transport_query,ኦሊ ወደ መስቀል አደባባይ ጓዳና ሚወስድ አቅጣጫ ንገሪኝ,social_post,0.9317,0.0036,False
+12951,am-ET,qa,qa_factoid,በ አለም ላይ ትልቁ ህንጻ ማን ነው,social_post,0.8832,0.0365,False
+12957,am-ET,qa,qa_definition,ረቂቅ ማለት ምን እነደሆነ አስረዳኝ,qa_factoid,0.5752,0.0102,False
+12961,am-ET,qa,qa_definition,ወንጀል ምርመራ ምን ማለት ነው,qa_definition,0.9999,0.9999,True
+12963,am-ET,qa,qa_definition,የ ፎረንሲክ ትርጉም ምንድን ነው,qa_definition,0.9617,0.9617,True
+12972,am-ET,qa,qa_factoid,የትኛው ነው የ አለም ከፍታ,qa_factoid,1.0,1.0,True
+12982,am-ET,qa,qa_definition,መንገጫገጭ ማለት ምን ማለት ነው,qa_definition,0.9972,0.9972,True
+12986,am-ET,qa,qa_definition,የ ገራሚ ፍቺን ያረጋግጡ,qa_factoid,1.0,0.0,False
+12999,am-ET,qa,qa_factoid,አስቴር አወቀ ስንት አመቷ ነው,email_sendemail,0.9181,0.007,False
+13016,am-ET,qa,qa_definition,ስለ blunder መብራሪያ ንገረኝ እስት,qa_factoid,0.4666,0.028,False
+13023,am-ET,cooking,cooking_recipe,የአዘገጃጀት መመሪያዎች አሳየኝ,qa_factoid,0.2812,0.0342,False
+13069,am-ET,qa,qa_definition,ብርቱካናማ ምን እንደ ሆነ ልትነግረኝ ትችላለህ,social_post,0.816,0.0039,False
+13074,am-ET,qa,qa_factoid,ለምንድነው ነፃነት ወርቅነህ አስቂኝ ያልሆነው,qa_factoid,0.9152,0.9152,True
+13077,am-ET,qa,qa_factoid,የነጻነት ወርቅነህ ልደት መች ነዉ,email_query,0.803,0.017,False
+13078,am-ET,qa,qa_factoid,ሽዋፈራው ደሳለኝ አድራሻውን ስጠኝ,qa_factoid,0.9534,0.9534,True
+13099,am-ET,qa,qa_factoid,የወቅቱ የ ብሪታኒያ ጠቅላይ ሚኒስቴር ማን ነው,qa_factoid,0.9869,0.9869,True
+13115,am-ET,qa,qa_factoid,የኢትዮጲያ ዋና ከተማ ማን ነው,email_query,0.8601,0.0722,False
+13124,am-ET,qa,qa_factoid,ኮስሞስ ምን ያህል ትልቅ ነው,qa_factoid,0.9951,0.9951,True
+13135,am-ET,qa,qa_factoid,ሳምሶን ታደሰ የተወለደበት ቀን መቼ ነው,weather_query,0.9841,0.0003,False
+13140,am-ET,qa,qa_definition,ስለ አውሎ ነፋስ ሁሉንም ነገር ንገረኝ,iot_hue_lightoff,0.2318,0.0305,False
+13154,am-ET,qa,qa_factoid,የግርማ ለማን ስልክ ቁጥር ታውቃለህ,qa_factoid,0.9965,0.9965,True
+13165,am-ET,qa,qa_definition,ማወዛወዝ ማለት ምን ማለት ነው,qa_definition,0.9809,0.9809,True
+13166,am-ET,qa,qa_definition,ማወዛወዝ ን ፃፋ እና ግለፅ,qa_factoid,0.1426,0.0258,False
+13177,am-ET,calendar,calendar_set,ክብደት እንዳልጨምር መንቀሳቀስ እንዳለብኝ አስታውስ,qa_factoid,0.9184,0.0025,False
+13178,am-ET,calendar,calendar_set,ከማለፋቸው በፊት በስድስት ወራት ውስጥ ያላነጋገርኳቸውን የድሮ ጓደኞቼን እንዳገኝ አስታውሰኝ,email_sendemail,0.2387,0.0361,False
+13188,am-ET,news,news_query,አዲስ አበባ ላይ ያለው ምርጫ ውጤት እንዴት እንደነበር ንገረኝ,social_post,0.9004,0.0336,False
+13206,am-ET,qa,qa_definition,መገኛ ቦታ,qa_factoid,0.9949,0.0003,False
+13215,am-ET,transport,transport_query,ቦሌ ለመድረስ የእኔ ቀላል እና ትራፍክ ጭንቅንቅ የሌለበት መንገድ የቱ ነው,qa_factoid,0.2025,0.0395,False
+13252,am-ET,qa,qa_factoid,የማዕዛ መንግስቴ የመጀመሪያ ልብ ወለድ ምንድን ነው,email_query,0.39,0.0263,False
+13255,am-ET,qa,qa_factoid,ስለ መንግስቱ ሀይለማርያም ወልዴ መረጃ ንገረኝ,email_sendemail,0.9988,0.0,False
+13283,am-ET,qa,qa_factoid,ሀይሌ ገብረስላሴ ምን ያህል ገንዘብ ያገኛል,qa_factoid,0.5134,0.5134,True
+13288,am-ET,qa,qa_definition,ዘላለማዊ የሚለው ቃል ፍቺ ምንድን ነው,qa_factoid,0.9625,0.0016,False
+13297,am-ET,qa,qa_factoid,ታዋቂ ሰው ማነው,social_post,0.9967,0.0022,False
+13298,am-ET,qa,qa_factoid,ታዋቂ ሰው ምን ያደርጋል,social_post,0.9101,0.0744,False
+13330,am-ET,qa,qa_factoid,የውሄል ስፐርም መጠን ምን ያህል ነው,qa_factoid,0.5965,0.5965,True
+13361,am-ET,qa,qa_definition,ወቅታዊነት ማላት ምን ማለት ነዉ,qa_factoid,0.9144,0.0754,False
+13383,am-ET,qa,qa_factoid,ምን ያክል ሀገራት የሞት ፍርድ አላቸው,qa_factoid,0.345,0.345,True
+13400,am-ET,social,social_post,የእኔ ለሁሉም ጓደኞቼ አስቂኝ መልእክት ላኩ,email_sendemail,0.9997,0.0,False
+13439,am-ET,qa,qa_factoid,ሃዲስ አለማየሁ ስንት አመቱ ነው,datetime_query,0.3494,0.1076,False
+13457,am-ET,calendar,calendar_set,በሰዓቱ እንድሆን ለታቀደለት ክስተት መቼ መሄድ እንዳለብኝ ንገረኝ,qa_factoid,0.9962,0.0001,False
+13473,am-ET,qa,qa_factoid,ኢትዮጵያ የነጻነት ሃገር ናት,email_query,0.6088,0.0195,False
+13487,am-ET,qa,qa_factoid,በቀለ የትግራይ ዋና ከተማ ማን ነች,social_post,0.1558,0.0509,False
+13494,am-ET,qa,qa_definition,የተነሳሺነትን ፍቺ ስጥ,qa_factoid,1.0,0.0,False
+13506,am-ET,datetime,datetime_query,ስንት ሰዓት እንደሆነ ልትነግሩኝ ይችላሉ,datetime_query,0.9918,0.9918,True
+13513,am-ET,qa,qa_factoid,ውሻ ስንት እግር አለው,social_post,0.9745,0.0031,False
+13516,am-ET,qa,qa_factoid,አሳ ነባሪዎች ለምን ትልቅ ሆኑ,qa_factoid,0.5674,0.5674,True
+13546,am-ET,qa,qa_factoid,ዘሪሁን አስማማው ያለበት የመጨሸዉ ፍልም የትኛዉ ነዉ,cooking_recipe,0.9109,0.0359,False
+13554,am-ET,qa,qa_factoid,አማኑኤል ሃብታሙ ምን ያክላል,social_post,0.38,0.1904,False
+13575,am-ET,qa,qa_factoid,የመጨረሽው የትምህረት ሽልማት መች ነበር,qa_factoid,0.9824,0.9824,True
+13580,am-ET,qa,qa_factoid,ራስ ዳሽን ተራራ ምን የህል ይዝማል,qa_factoid,0.9438,0.9438,True
+13591,am-ET,qa,qa_factoid,የሲዳማ ክልል ዋና ከተማ ማነው,lists_query,0.3223,0.0636,False
+13592,am-ET,qa,qa_factoid,ኒውዚላንድ በካርታ ላይ የት ነዉ ምትገኛዉ,social_post,0.5996,0.0282,False
+13604,am-ET,qa,qa_factoid,ሀይሌ ገብረስላሴ የት እንደተወለዱ ንገረኝ,news_query,0.2542,0.0227,False
+13607,am-ET,qa,qa_factoid,ገሩም ኤርሚያስ እንደ አገባ ልተታረልኝ ትችላለህ,qa_factoid,0.9851,0.9851,True
+13616,am-ET,qa,qa_factoid,አብዛኛው በዓላት መች ነው የምጀበሩት,qa_factoid,0.9937,0.9937,True
+13619,am-ET,recommendation,recommendation_events,ዛሬ በእኔ አካባቢ መግቢያቸው ነጻ የሆኑ ክስተቶች አሉ,weather_query,0.268,0.0355,False
+13625,am-ET,qa,qa_definition,ትልቁ ዴስክ ምን ማላት ነው,qa_factoid,0.7329,0.2419,False
+13636,am-ET,qa,qa_factoid,የግሩም ኤርሚያስ የልደት ቀን መች ነው,qa_factoid,0.1692,0.1692,True
+13679,am-ET,qa,qa_factoid,ላም ስንት ከርስ ነው ያላት,social_post,0.4504,0.0433,False
+13681,am-ET,qa,qa_factoid,ቤዛ አብዶ ስንት ዘፈን ውስጥ ነው ያለችው,email_query,0.9956,0.0,False
+13683,am-ET,qa,qa_factoid,አብይ አህመድ ምን አይነት ብራንድ ፀጉርን ይጠቀማል,qa_factoid,0.2028,0.2028,True
+13689,am-ET,qa,qa_definition,ሊቀመንበር ምን ማለት ነው,qa_definition,0.9956,0.9956,True
+13690,am-ET,qa,qa_factoid,ወንበሮች ምን ዓይነት ቀለም አላቸው,social_post,0.1714,0.1467,False
+13693,am-ET,qa,qa_factoid,ፕራይም ሜሪዲያን የት ነው,email_query,0.5074,0.2325,False
+13705,am-ET,qa,qa_definition,ኤሌክትሮኒክ ልቀት ስርዓት ምንድን ነው,qa_definition,0.9974,0.9974,True
+13706,am-ET,qa,qa_definition,rotor ምን እንደ ሆነ አብራራ,qa_factoid,0.997,0.0016,False
+13714,am-ET,qa,qa_definition,mango ምንድን ነው,qa_definition,0.9909,0.9909,True
+13717,am-ET,qa,qa_factoid,ሩስያ ከ አላስካ ማየት ትችላለህ,iot_hue_lightoff,0.6958,0.2709,False
+13758,am-ET,qa,qa_factoid,እጅጋየሁ ሽባባው ስንት አመቱ ነው,qa_factoid,0.9661,0.9661,True
+13761,am-ET,qa,qa_factoid,ፐርሴክ መለት ምን ማለት ነው,qa_definition,0.9994,0.0003,False
+13774,am-ET,qa,qa_factoid,ድሬዳዋ ከሀረር ምን ያህል ትራቃለች,social_post,0.3052,0.0742,False
+13777,am-ET,qa,qa_definition,የብድር ካርድ ማብራራት ትችላለህ,qa_factoid,0.9992,0.0,False
+13780,am-ET,qa,qa_factoid,አዳነ ግርማ አግብቷል,qa_factoid,0.9998,0.9998,True
+13798,am-ET,qa,qa_factoid,በምድር ላይ ያለው አማካይ ሀገር ስንት ካሬ ማይል ነው።,lists_query,0.0573,0.0472,False
+13799,am-ET,qa,qa_definition,መገዛት ምን ማለት ነው,qa_factoid,0.9975,0.0025,False
+13823,am-ET,qa,qa_factoid,ፀሃይ ምን ያህል እሩቅ ናት,qa_factoid,0.2282,0.2282,True
+13853,am-ET,qa,qa_factoid,በምድር ላይ ብዙ እሳተ ገሞራዎች ያሉት የት ነው,cooking_recipe,0.3341,0.0319,False
+13854,am-ET,qa,qa_factoid,አለማየሁ መቼ ሞተ,qa_factoid,0.9954,0.9954,True
+13863,am-ET,qa,qa_definition,አመክንዮ ምን ማለት ነው,qa_definition,0.9997,0.9997,True
+13867,am-ET,qa,qa_factoid,አዋሽ ፓርክ የት ነው,qa_factoid,0.9977,0.9977,True
+13869,am-ET,qa,qa_factoid,እባክህን የ mount rushmore አካባቢ እና መረጃን google አድርግ,lists_query,0.2214,0.0769,False
+13871,am-ET,qa,qa_definition,መልካም ልደትን እንዴት ልትገልፀው ትችላለህ,qa_factoid,0.9892,0.0021,False
+13881,am-ET,qa,qa_factoid,እባክህ ስለ ቴዲ አፍሮ ንገረኝ,email_sendemail,0.8568,0.0033,False
+13888,am-ET,qa,qa_factoid,አዋሳ የሙቀት መጠን እነዴት ነው,qa_factoid,0.8191,0.8191,True
+13895,am-ET,qa,qa_factoid,ሰለ ሄኖክ ሃጎስ ትነግሪኛለሽ,social_post,0.999,0.0007,False
+13900,am-ET,qa,qa_definition,የሕይወት ትርጓሜ,weather_query,0.0928,0.0407,False
+13907,am-ET,qa,qa_definition,ተበሳጨ የምል ቃል ተርጉምልኝ,qa_factoid,0.8543,0.0226,False
+13908,am-ET,qa,qa_definition,ተበሳጨ ማለት ምን እንደ ሆነ ልት ነግረኝ ትችላለህ,qa_definition,0.7969,0.7969,True
+13926,am-ET,qa,qa_factoid,አዳም ረታ ልደቱ መች ነው,email_query,0.9897,0.0,False
+13927,am-ET,qa,qa_factoid,ሌብሮን ጄምስ ሀብቷ ስንት ነው,qa_factoid,0.9965,0.9965,True
+13974,am-ET,qa,qa_factoid,ሱማልያ የት ነው የምትገኘው,qa_factoid,0.8642,0.8642,True
+13983,am-ET,qa,qa_definition,የሚያሰቃዩ ውጤቶች,cooking_recipe,0.4488,0.003,False
+13984,am-ET,qa,qa_definition,የድርጊቶች ውጤቶች,lists_query,0.2577,0.0134,False
+13997,am-ET,qa,qa_factoid,በአማካኝ ቤት ስንት ይሆናል,qa_factoid,0.9941,0.9941,True
+14000,am-ET,qa,qa_definition,ስሎዝ ማለት ምን እንደ ሆነ አብራራ,qa_factoid,0.659,0.2875,False
+14001,am-ET,qa,qa_factoid,ስለ ስሎዝ የምታውቀውን ሁሉ ንገረኝ,news_query,0.2639,0.0415,False
+14011,am-ET,qa,qa_factoid,የአስቴር አወቀ የልደት ቀን መቼ ነው,weather_query,0.8713,0.0412,False
+14015,am-ET,qa,qa_factoid,የምድር ወገብ የት ነው,qa_factoid,0.9912,0.9912,True
+14023,am-ET,qa,qa_definition,ሲኦል ምን እንደ ሆነ አስረዳኝ,qa_factoid,0.9811,0.0057,False
+14033,am-ET,qa,qa_factoid,ዐብይ መች እንደተወለደ ንገረኝ,social_post,0.6666,0.0137,False
+14038,am-ET,qa,qa_factoid,የ ማልዶቫ አቅጣጭ ምንድነው,qa_definition,0.9574,0.0404,False
+14040,am-ET,qa,qa_factoid,ሀልክ ምንያልክ ረዥም ይሆናል,qa_factoid,0.9833,0.9833,True
+14053,am-ET,qa,qa_factoid,የትኛው አመት በው አበበ ተምትም ትወና የጀመረው,datetime_query,0.9822,0.0023,False
+14063,am-ET,qa,qa_factoid,ጥላሁን ገሰሰ የልደት ቀን መቼ ነው,weather_query,0.9956,0.0001,False
+14083,am-ET,qa,qa_factoid,ነፃነት ወርቅነህ አሁን የት ነው የምኖረው,qa_factoid,0.2097,0.2097,True
+14096,am-ET,qa,qa_factoid,ሰሜን ተራሮች የት ነው,qa_factoid,0.9865,0.9865,True
+14115,am-ET,qa,qa_definition,የድንጋይ አሸዋ ዝርዝርን አሳውቀኝ,social_post,0.7946,0.0105,False
+14116,am-ET,qa,qa_definition,የድንጋይ አሸዋ ይግለጹ,social_post,0.5035,0.0252,False
+14117,am-ET,qa,qa_factoid,ላሊበላ የት ይገኛል,qa_factoid,0.9995,0.9995,True
+14118,am-ET,qa,qa_factoid,የላሊበላን መልክዓ ምድራዊ ዝርዝር መግለጫን አሳይ,email_sendemail,0.7586,0.0116,False
+14126,am-ET,qa,qa_factoid,ስለ ፀዲ ህይወት ታርክ ንገረኝ,email_sendemail,0.9944,0.0001,False
+14138,am-ET,qa,qa_definition,የሲሊንደር ትርጉም ምንድነው,qa_definition,0.9916,0.9916,True
+14147,am-ET,qa,qa_definition,ስለ ብርድ ልብስ መብራሪያ ስጥ,lists_remove,0.4226,0.0266,False
+14150,am-ET,qa,qa_definition,ኮንቨርስ ጫማ ምንድናቸው,qa_definition,0.859,0.859,True
+14151,am-ET,qa,qa_factoid,ምን አይነት የፀሀይ መነጽሮች ናቸው የአብራሪዎች ተብለው የሚታሰቡት,qa_definition,0.8096,0.0322,False
+14154,am-ET,qa,qa_factoid,የአፍሪካ መረጃ,qa_factoid,0.9096,0.9096,True
+14163,am-ET,qa,qa_factoid,አድራሻ ፈልግ,qa_factoid,0.9983,0.9983,True
+14169,am-ET,qa,qa_factoid,በላይ ዘለቀ የት ነው ኮሌጅ የተማሩት,qa_factoid,0.3678,0.3678,True
+14170,am-ET,qa,qa_factoid,ማህደር አሰፋ ኮንቨርስ ለበሰች,qa_factoid,0.9823,0.9823,True
+14179,am-ET,qa,qa_factoid,ካናዳ አሁን ካለሁበት ምን ያህል ይርቃል,qa_factoid,0.8943,0.8943,True
+14214,am-ET,transport,transport_query,ተመሳሳይ የጉዞ መንገዶችን ፈልግ,recommendation_events,0.2032,0.0185,False
+14229,am-ET,qa,qa_factoid,ሰላም ተስፋዬ የተወነችዉ ፍልም የቱ ነው,qa_factoid,0.2196,0.2196,True
+14243,am-ET,qa,qa_factoid,ሰው ላይ ዝርዝር,social_post,0.4357,0.0219,False
+14272,am-ET,qa,qa_definition,መፅሃፍ ምን እንደሆነ ንገረኝ,qa_factoid,0.3124,0.0277,False
+14283,am-ET,qa,qa_factoid,ስለ አርባምንጭ ንገረኝ እስት,email_sendemail,0.9996,0.0,False
+14306,am-ET,qa,qa_factoid,የህንድ ምድረገጻዊ መገኛን አብራራ,qa_factoid,0.9976,0.9976,True
+14308,am-ET,qa,qa_factoid,የሠራዊት ፍቅሬ ጥሬ ሃብት ስንት ነው,qa_factoid,0.8072,0.8072,True
+14316,am-ET,qa,qa_factoid,መቀሌ ምን ያህል ትልቅ ነው,qa_factoid,0.9846,0.9846,True
+14317,am-ET,qa,qa_factoid,የኢትዮጵያ ስፋት ስንት ነው,qa_factoid,0.6827,0.6827,True
+14323,am-ET,qa,qa_factoid,የግሽጣ ፍሬ ከለር ምን ዓይነት ነው,qa_definition,0.9441,0.0555,False
+14330,am-ET,qa,qa_factoid,ሳሙኤል ካሳ የት ተወለደ,qa_factoid,0.5327,0.5327,True
+14347,am-ET,qa,qa_definition,መላምት ምንድን ነው,qa_factoid,0.9299,0.0468,False
+14354,am-ET,qa,qa_factoid,ለዓለም መልሱ ምንድን ነው,qa_definition,0.976,0.0236,False
+14355,am-ET,qa,qa_factoid,ሰላም በባህር ዳርቻው ስንት እንኮይ ሸጠች,qa_factoid,0.684,0.684,True
+14370,am-ET,qa,qa_factoid,የእውቅ ሰው ሙያ ንረኝ,email_query,0.7836,0.0056,False
+14378,am-ET,qa,qa_definition,የ ፍጥነት መግለጫ,qa_factoid,0.2953,0.0235,False
+14382,am-ET,qa,qa_factoid,የፋሲል ግንብ ምንያህል ትልቅ ነው,qa_factoid,0.8884,0.8884,True
+14395,am-ET,qa,qa_factoid,በምድር ላይ ጥልቁ ነጥብ የቱ ነው,qa_factoid,0.9571,0.9571,True
+14414,am-ET,qa,qa_definition,ስለ ኮምፒውተር ሃርድ ዲስክ ግለጽ,social_post,0.711,0.0026,False
+14417,am-ET,qa,qa_factoid,አህጉራችንን የሚነካው የትኛው ውቅያኖስ ነው,qa_factoid,0.8055,0.8055,True
+14419,am-ET,qa,qa_factoid,ሰላም ተስፋዬ በዚህ ዓመት አዲስ ፊልም ይኖራታል,iot_hue_lightoff,0.2974,0.0253,False
+14429,am-ET,qa,qa_definition,ካፍታን ምንድን ነው,qa_factoid,0.5327,0.1273,False
+14440,am-ET,qa,qa_factoid,የኢትዮጵያ ትልቅ ከተማ ማን ነዉ,qa_factoid,0.8766,0.8766,True
+14442,am-ET,qa,qa_factoid,ኢትዮጵያ የት ናት,qa_factoid,0.9985,0.9985,True
+14444,am-ET,qa,qa_factoid,የ ግሩም ኤርሚያስ የመጀመሪያው ፊልም ምን ነበር,qa_factoid,0.6725,0.6725,True
+14449,am-ET,qa,qa_factoid,ዘሪቱ አዲስ ልጅ ወለደች,qa_factoid,1.0,1.0,True
+14457,am-ET,qa,qa_factoid,መንገድ ፈልግ,qa_factoid,0.9962,0.9962,True
+14465,am-ET,transport,transport_query,ወደ ሀዋሳ አቅጣጫዎች,social_post,0.9204,0.0087,False
+14490,am-ET,qa,qa_factoid,የሀገር ፍቅረ ትያትር መች ነዉ የተገነበዉ,social_post,0.7523,0.1966,False
+14498,am-ET,qa,qa_definition,ስለ ስማርትፎን መግለጫ ስጠኝ,social_post,0.9832,0.0004,False
+14504,am-ET,qa,qa_factoid,ኦሊ ማህተመ ጋንዲ ስንት ስብሰባዎችን አድርጓል,social_post,0.9993,0.0,False
+14505,am-ET,qa,qa_factoid,የሩስያ ጠቅላይ ሚኒስተር ማን ነው,qa_factoid,0.9622,0.9622,True
+14508,am-ET,qa,qa_factoid,እባክህ የበዓሉ ግርማን ከአድማስ ባሻገር አጠቃልልኝ,qa_factoid,0.475,0.475,True
+14509,am-ET,qa,qa_factoid,በላይ ዘለቀ የት ነው የተወለደው,qa_factoid,0.8719,0.8719,True
+14539,am-ET,qa,qa_factoid,የእዚህን ቦታ የመልክአ ምድር ዝርዝር ፈልግ,social_post,0.6155,0.221,False
+14545,am-ET,qa,qa_factoid,ህንድ የት እንደምትገኝ ንገረኝ,qa_factoid,0.9333,0.9333,True
+14567,am-ET,qa,qa_factoid,ምድር ላይ ትልቁ ንቁ እሳተ ገሞራ ምንድን ነው,social_post,0.9233,0.0258,False
+14585,am-ET,qa,qa_factoid,ከደቡብ ኮሪያ ወደ ኢትዮጲያ ለመጓዝ ምን ያህል ጊዜ ይወስዳል,qa_factoid,0.2694,0.2694,True
+14591,am-ET,qa,qa_definition,የቴሌቪዥን መስመር ዝርዝርን አሳየኝ,play_radio,0.5609,0.0097,False
+14592,am-ET,qa,qa_definition,smartphone circuit ማብራሪያ ስጠኝ,iot_hue_lightoff,0.8114,0.0074,False
+14597,am-ET,qa,qa_factoid,የ ኒው ዮርክ ህዝብ ቁጥር ስንት ነው,social_post,0.8522,0.013,False
+14601,am-ET,qa,qa_factoid,አብርሃም ሊንከን አሜሪካን ለስንት አመት ገዛ,email_sendemail,0.4498,0.0097,False
+14605,am-ET,qa,qa_factoid,ቃልኪዳን ጥበቡ ታሪኩ ባባ ተወቸ እንዴ,email_query,0.5387,0.0151,False
+14608,am-ET,qa,qa_factoid,ማህደር አሰፋ የትኛዉ ድስ ፍልም ላይ እየሰራች ነዉ,qa_factoid,0.9229,0.9229,True
+14622,am-ET,qa,qa_definition,ሉል ምን እንደ ሆነ አብራራ,qa_factoid,0.9893,0.0007,False
+14648,am-ET,cooking,cooking_recipe,የምግብ አዘገጃጀት መመሪያ እባክህ,transport_query,0.2838,0.2464,False
+14653,am-ET,qa,qa_factoid,የኢትዮጲያ የህዝብ ብዛት ስንት ነው,qa_factoid,0.9933,0.9933,True
+14661,am-ET,qa,qa_factoid,የ ሙላቱ ተሾመ ልደት መቼ ነው,qa_factoid,0.9023,0.9023,True
+14668,am-ET,qa,qa_definition,እቃ xy ን ግለጽ,qa_factoid,0.9586,0.0005,False
+14683,am-ET,qa,qa_factoid,የግሩም ኤርሚያስ ሆቢ ምንድን ነው,qa_factoid,0.8427,0.8427,True
+14684,am-ET,qa,qa_factoid,የሩስያ ፕርዝድንት ማን ነው,qa_factoid,0.7997,0.7997,True
+14690,am-ET,qa,qa_definition,ፕሬዚዳንት ምን እንደሆነ ጉግል አርግ,qa_factoid,0.99,0.0006,False
+14700,am-ET,qa,qa_definition,ሬዝን ትርስ ሙሌት በትክክል ምንድን ነው,qa_factoid,0.9773,0.0007,False
+14701,am-ET,qa,qa_definition,ልብ ድንጋይ ካርድ ጨዋታ አብራራ,qa_factoid,0.1985,0.0417,False
+14705,am-ET,qa,qa_factoid,እሺ ጎግል አስቴር አወቀ የት ነው የምትኖረው,social_post,0.9969,0.0022,False
+14706,am-ET,qa,qa_factoid,አመልማል አባተ የምትኖረው የት ነው,qa_factoid,0.9968,0.9968,True
+14746,am-ET,qa,qa_factoid,የኢትዮጵያ ዋና ከተማ ማን ነው,qa_factoid,0.8959,0.8959,True
+14761,am-ET,qa,qa_definition,የ pontificate ትርጉም ንገሪኝ,qa_factoid,0.2721,0.1507,False
+14767,am-ET,qa,qa_definition,ኳስን እንዴት ትገልፃለህ,qa_factoid,0.9707,0.0007,False
+14770,am-ET,qa,qa_factoid,በኣለም ላይ ትልቁን ባህር ንገረኝ,social_post,0.7554,0.2213,False
+14787,am-ET,qa,qa_factoid,የሮማን እና የግሪጎሪያን ቀን መቁጠርያ ልዩነቱ ምንድነው,qa_factoid,0.851,0.851,True
+14791,am-ET,qa,qa_factoid,የወንበሩ አሠራር ምንድን ነው,qa_definition,0.5676,0.4302,False
+14794,am-ET,qa,qa_factoid,የ አብይ የአነዳድ ምርጫ,social_post,0.9647,0.0061,False
+14822,am-ET,qa,qa_factoid,በሰዎች መሃል ማነጻጸር,qa_factoid,0.9718,0.9718,True
+14838,am-ET,qa,qa_factoid,ተፈጥሯዊው ክብደት ማጣሪያ ምንድነው እና እኔ መለስተኛውን ነው ወይስ ከፍተኛውን ምፈልገው እና ደግሞ ከጠመዝማዛው እና ከካሬው የትኛው የተሻለ ያምራል,qa_factoid,0.1545,0.1545,True
+14857,am-ET,qa,qa_definition,እባክህ የተጋነነ ማለት ምን እንደ ሆነ ልታስረዳኝ ትችላለህ,qa_factoid,0.8794,0.038,False
+14877,am-ET,qa,qa_factoid,እዛ ቦታ ያሉት የዓየር ሁኔታዎች ምንድን ናቸው,lists_remove,0.2187,0.0921,False
+14879,am-ET,qa,qa_definition,ትርጉሙ,qa_factoid,0.9981,0.0017,False
+14884,am-ET,qa,qa_factoid,በመላ ዩናይትድ እስቴትስ ውስጥ ትንሹ ለአውሎ ንፋስ የተጋለጠ ግዛት ምንድነው,cooking_recipe,0.0867,0.0556,False
+14889,am-ET,qa,qa_definition,እባክህ ያንን ነገር ገለጽልኝ,email_sendemail,0.6305,0.0062,False
+14891,am-ET,qa,qa_factoid,ያ ሰው የትኛው መደብ ውስጥ ነው የሚገኘው,weather_query,0.2813,0.1749,False
+14912,am-ET,qa,qa_factoid,ፕሬዝዳንት መንግሥቱ የት ነው የተወለዱት,qa_factoid,0.8685,0.8685,True
+14917,am-ET,qa,qa_factoid,መቼ የሙላቱ አስታጥቄ ቀጣዩ አልበም መቼ ይወጣል,qa_factoid,0.2456,0.2456,True
+14933,am-ET,qa,qa_factoid,ስለ የሕንድ የመሬት አቀማመጥ መረጃውን ንገረኝ,social_post,0.2547,0.0402,False
+14939,am-ET,qa,qa_factoid,ስለ ብሩስ ሊ ማብራሪያ ፈልጋለሁ,qa_factoid,0.9781,0.9781,True
+14981,am-ET,qa,qa_definition,ስለ አይፎን ሰቨን መግለጫ,email_query,0.8578,0.0001,False
+14994,am-ET,qa,qa_factoid,ቀጣይ ግሩም ኤርሚያስ የምተዊነው ፍልም ንን ይሰኛል,recommendation_events,0.3698,0.1879,False
+14995,am-ET,qa,qa_definition,ሁኔታ ማለት ምን ማለት ነው,qa_definition,0.9953,0.9953,True
+15020,am-ET,qa,qa_factoid,አለማየሁ ታደሰ ስንት አመቱ ነው,datetime_query,0.8379,0.0125,False
+15039,am-ET,qa,qa_factoid,ዘቢዳር ተራራ ከየት ነው የምነሰው,cooking_recipe,0.4069,0.0473,False
+15055,am-ET,qa,qa_factoid,የትኛው ፖል ነው ቀዝቃዛ ደቡብ ወይስ ሰሜን,qa_factoid,0.998,0.998,True
+15056,am-ET,qa,qa_factoid,የመስከረም በድሉ አዲሱ ፍቅረኛ ስንት ዓመቱ ነው,lists_query,0.0668,0.047,False
+15062,am-ET,qa,qa_factoid,ስለ ሳያት ደምሴ መረጃ,email_sendemail,0.6252,0.0238,False
+15075,am-ET,qa,qa_factoid,እመቤት የመጀመሪያዎቹ ቤተ-ኢስራኤላዊያን የሠፈሩት የት ነበር,qa_factoid,0.9383,0.9383,True
+15092,am-ET,qa,qa_definition,ስለ ሳምሰንግ ቴሌቭዥን መግለጫ ያግኙ,email_query,0.544,0.0114,False
+15094,am-ET,qa,qa_factoid,በ ሐዋሳ ሲዳማ የሚኖሩትን ሰዎች ቁጥር ይመልከቱ,lists_query,0.2222,0.1174,False
+15095,am-ET,qa,qa_factoid,ደሴ የት ክልል ነው የምትገኘው,qa_factoid,0.9966,0.9966,True
+15127,am-ET,qa,qa_definition,ስፒከር የሚለውን ቃል ተርጉም,qa_definition,0.4779,0.4779,True
+15155,am-ET,social,social_post,የእኔን የቅርብ ጊዜ የራስ ፎቶ የፌስቡክ አካውንት መለያዬ ላይ መስቀል ትችላለህ,social_post,0.8188,0.8188,True
+15166,am-ET,social,social_post,የእኔ ንግድ በ ትዊተር ላይ መለጠፍ,email_sendemail,0.9642,0.0042,False
+15177,am-ET,social,social_post,እባኮትን በ ትዊተር ላይ ይህን ጽሁፍ በድጋሚ አውጡ,social_post,0.8844,0.8844,True
+15185,am-ET,social,social_post,የልደት ቀን ምኞቶች,email_query,0.3819,0.1748,False
+15186,am-ET,social,social_post,የ ሰርግ ምኞቶች,social_post,0.769,0.769,True
+15187,am-ET,social,social_post,በጓደኞች ውስጥ አጋራ,social_post,0.9512,0.9512,True
+15197,am-ET,social,social_post,የ ጃፓን የኔን ጉበኝት ትዊተር ላይ ለጥፍ,social_post,0.5525,0.5525,True
+15208,am-ET,social,social_post,ሰላም ሁላችሁም በ ፌስቡክ ላይ ይለጥፉ,social_post,0.9524,0.9524,True
+15213,am-ET,news,news_query,አሁን ምን ወቅታዊ ነው,qa_factoid,0.9411,0.0028,False
+15214,am-ET,news,news_query,ዛሬ ዜና ምንድነው,news_query,0.9737,0.9737,True
+15216,am-ET,social,social_post,የሆነ ነገር ትዊት አድርግ,qa_factoid,0.4666,0.0729,False
+15231,am-ET,social,social_post,የእኔ ጉዞ ወደ ጎዋ ፎቶ በ ኢንስታግራም ላይ ለጥፈው,social_post,0.758,0.758,True
+15271,am-ET,social,social_post,ይህንን በ ፌስቡክ ላይ ለጥፉ l. ኦ. ኤል.,social_post,0.9957,0.9957,True
+15275,am-ET,social,social_post,ፖስት በ ፌስቡክ ደስተኛ ነኝ,social_post,0.8467,0.8467,True
+15276,am-ET,social,social_post,ጥሩ የአየር ሁኔታ ላይ እንደሆንኩ ፌስቡክ ላይ ለጥፈ,social_post,0.5602,0.5602,True
+15289,am-ET,social,social_post,መልዕክቱን አሁን ለጥፍ,calendar_remove,0.241,0.0072,False
+15305,am-ET,calendar,calendar_query,ከሶሻል ሚዲያ ማስታወቂያ አለኝ,social_post,0.979,0.0001,False
+15318,am-ET,social,social_post,ለ ልደት ቀን ምኞቶች ሁሉንም ሰው ማመስገን እፈልጋለሁ,recommendation_events,0.2649,0.1469,False
+15337,am-ET,social,social_post,ይህን ቪድዮ ወደ ፌስቡክ ይለጥፉ,social_post,0.9921,0.9921,True
+15350,am-ET,social,social_post,ራይድ ደስተኛ አይደለሁም እባክህ እርዳኝ,email_sendemail,0.5001,0.1474,False
+15358,am-ET,social,social_post,ኦሊ ትዊት ቴክኖ አይሰራም,qa_factoid,0.9997,0.0002,False
+15359,am-ET,social,social_post,የአይፎን ባትሪ ሁል ጊዜ የሚጠፋ መሆኑን ትዊት አፕል ክፈት።,qa_factoid,0.974,0.0016,False
+15364,am-ET,social,social_post,አዲሱ የስልክ መያዣ ማይረባ መሆኑን ለ amazon ማሳወቅ ትችላለህ,qa_factoid,0.9846,0.0001,False
+15382,am-ET,social,social_post,ሳምሰንግ ን ማነጋገር እና አጣቢዬ እየተቃጠለ ነው ይበሉ,social_post,0.9793,0.9793,True
+15387,am-ET,social,social_post,የኔ አሁን ያለኝን ቦታ ትዊት ያድርጉ,qa_factoid,0.7185,0.0301,False
+15399,am-ET,social,social_post,ከአውታረ መረብ ጋር የተያያዙ ጉዳዮች ቅሬታ ወደ ዳሸን መላክ ያስተላልፉ,lists_remove,0.0794,0.0507,False
+15401,am-ET,social,social_post,ትዊተር ከፍተህ መልእክት ላክ,email_sendemail,0.9998,0.0,False
+15402,am-ET,social,social_post,ምርቱ እንደማይረባ ቲዊት አድርግ,cooking_recipe,0.8174,0.0064,False
+15409,am-ET,social,social_post,የኔ ትዊተር ን ክፈት ቅሬታዬን ይተይቡ እና ደንበኛ አገልግሎት ላይ ይለጥፉ,email_sendemail,1.0,0.0,False
+15413,am-ET,social,social_post,በፍጥነት ሰው አግኝልኝ,social_post,0.4234,0.4234,True
+15444,am-ET,social,social_post,የኩባንያ ስም ላይ ሁለት አውራ ጣቶች ወደታች,recommendation_events,0.0533,0.0482,False
+15448,am-ET,social,social_post,ስለ ሶኒስ ጥራዝ ጉዳዮች ትዊት ይላኩ።,recommendation_events,0.1163,0.0437,False
+15454,am-ET,social,social_post,ኢትዮጵያ አይር መንገድ ትዊት ተናድጃለሁ ቦርሳዬን አጣህ,email_sendemail,0.9954,0.0016,False
+15456,am-ET,social,social_post,ቦርሳዬ ስለጠፋ ተናድጃለሁ ስለዚህ ለኢትዮጵያ አየር መንገድ ትዊት ማረግ እፈልጋለሁ,qa_factoid,0.1483,0.0793,False
+15457,am-ET,social,social_post,የታሸገው ቆሎ ላይ ችግር አለበት ለኤልሳ ቆሎ ትዊት ልታረግ ትችላለህ,qa_factoid,0.0989,0.0448,False
+15459,am-ET,social,social_post,የ ትዊተር ቅሬታ ይላኩ,email_sendemail,1.0,0.0,False
+15464,am-ET,social,social_post,ምርቱን በሰዓቱ አላገኘሁም ወደ ጃፓኒ ትዊት ይላኩ,lists_remove,0.1214,0.0438,False
+15467,am-ET,social,social_post,ሜንኮ እጠላቸዋለሁ,qa_factoid,0.9835,0.0048,False
+15472,am-ET,social,social_post,ለድረገፅ የመጽሐፍት መሸጫው ቅሬታ ትዊት አድርግ,social_post,0.4205,0.4205,True
+15487,am-ET,social,social_post,ስለ ሱቃቸው ንፅህና ስለ ደርባ ትዊት,social_post,0.508,0.508,True
+15488,am-ET,social,social_post,እባክዎን በፒዛ ሃት ላይ ትዊት ያድርጉልኝ ማድረሴን እየጠበቅኩ ነበር አሁን ቁጥር ደስተኛ ያልሆነ,social_post,0.3401,0.3401,True
+15503,am-ET,social,social_post,አዲስ ትዊት የደምበኛ አገልግሎት,email_sendemail,0.9125,0.0018,False
+15508,am-ET,social,social_post,siri twitter ከፍተሽ አረንጓዴ ኢትዮጵያ ላይ ትዊት አድርጊ,social_post,0.9741,0.9741,True
+15518,am-ET,social,social_post,ለ ጥቁር ክበቦች በ ትዊት ቅሬታ ላክ,email_sendemail,1.0,0.0,False
+15532,am-ET,social,social_post,ኦሊ ለ ሎምያድ ትዊት አድርግ እና የደንበኛ አገልግሎታቸው ደባሪ መሆኑን ንገራቸው,email_query,0.192,0.0587,False
+15546,am-ET,social,social_post,ስለ ቀዝቃዛ ቃተኛ ለፓፓ ጆንስ ትዊት ያድርጉ,social_post,0.4272,0.4272,True
+15548,am-ET,social,social_post,የሞባይል ቅሬታን ወደ ሳምሰንግ ትዊት አርግ,social_post,0.8085,0.8085,True
+15553,am-ET,social,social_post,እባክህ አሉታዊ ምላሽ ትዊት በ መብራት አገልግሎት ላይ,qa_factoid,0.9964,0.0002,False
+15554,am-ET,social,social_post,እባክህ ዴል አገልግሎት ዴላይ ቲዊት እናድረግ,email_sendemail,0.6253,0.0263,False
+15556,am-ET,social,social_post,ቅሬታ ትዊት እናድርግ,social_post,0.9821,0.9821,True
+15557,am-ET,social,social_post,ቅሬታ ትዊት ማድረግ እፈልጋለሁ,cooking_recipe,0.9809,0.0148,False
+15560,am-ET,social,social_post,ፌስቡክ ላይ ልጥፍ ርቦኛል,social_post,0.9935,0.9935,True
+15565,am-ET,social,social_post,ለ አባድር እንደገና እንደማልጠቀምባቸው ማሳወቅ ትችላለህ,qa_factoid,0.4249,0.2908,False
+15587,am-ET,social,social_post,ሚድያ ክምችት ልጥፍ ምስል ስም,email_query,0.9622,0.0017,False
+15592,am-ET,social,social_post,የባህል ምሽት ላይ ትዊት ቅሬታ,qa_factoid,0.2654,0.1235,False
+15593,am-ET,social,social_post,ኮም ካስት ላይ ቅሬታ ቲዊት አድርግ,social_post,0.9807,0.9807,True
+15598,am-ET,social,social_post,የድርጅት ስም ከፍተህ ቅሬታዎች አግኝ,cooking_recipe,0.3193,0.1073,False
+15610,am-ET,social,social_post,የኔ መለያ ላይ በ ኤ.ቢ.ሲ ኩባንያ በጣም መጥፎ ክትትል አልረካሁም የሚል ትዊት ለጥፍ,qa_factoid,0.3158,0.0278,False
+15618,am-ET,social,social_post,ትዊት እና መድን እና እንደሚደብሩ ይንገሯቸው,social_post,0.9825,0.9825,True
+15626,am-ET,social,social_post,እባክህ ለመጥፎ የደንበኞች አገልግሎት ቅሬታ ለ ኢትዮ ቴሌኮም ትዊት አድርግ,recommendation_events,0.9852,0.0071,False
+15634,am-ET,social,social_post,እሺ ትዊት ባለቤቱ በነዳጅ ማደያው ውስጥ ምን አይነት ጉድ ነው,qa_factoid,0.2996,0.0238,False
+15635,am-ET,social,social_post,ትዊት mcdonald's down reseda አስፈሪ አገልግሎት አለው,email_sendemail,0.2857,0.2817,False
+15647,am-ET,social,social_post,ቅሬታ ትዊት አድርግ,social_post,0.999,0.999,True
+15651,am-ET,social,social_post,ለደምበኛ አገልግሎት ሪፖርት ላክ,email_sendemail,0.9999,0.0,False
+15652,am-ET,social,social_post,የደምበኛ አገልግሎት ቅሬታ ማቅረብ እርዳኝ,email_sendemail,0.7066,0.0158,False
+15655,am-ET,social,social_post,ለጉግል ኮስትመር አገልግሎት ትዊት ያድርጉ የኔ አዲሱ የኔክስስ ስልክ መስራት አቁም እርዳኝ እባካችሁ,cooking_recipe,0.1069,0.0533,False
+15656,am-ET,social,social_post,ኢገበያ አሁንም ማድረስ እየጠበቅኩ እንደሆነ የታዘዘ ዕቃ መልእክት ትዊት ያድርጉ,qa_factoid,0.7271,0.0149,False
+15661,am-ET,social,social_post,የእኔ የቅርብ ጊዜ መግቢያዬን ወደ ትዊተር በ ኢንሳ ለጥፉ።,email_sendemail,0.9207,0.0327,False
+15670,am-ET,social,social_post,ቅሬታ ትዊት ይላኩ።,email_sendemail,1.0,0.0,False
+15672,am-ET,social,social_post,ባለፈው ሳምንት ለጥገና የላኩት የአይፎን ደረሰኝ እንደሌለበት ለ ቴክኖ ትዊት አድርግ,email_sendemail,0.9867,0.0008,False
+15676,am-ET,social,social_post,እባክዎን ስለ አገልግሎቱ ቅሬታ በ ትዊት ወደ የወይራ ሚድሮክ ይጨምሩ,recommendation_events,0.5741,0.079,False
+15686,am-ET,social,social_post,ሃይ ከአንዱ የገዛሁት እቃዬ ከአገልግሎት ውጪ ሆኗል,qa_factoid,0.9779,0.0011,False
+15693,am-ET,social,social_post,በቸኮሌት ፓኬት ውስጥ አንድ ነፍሳት እንደነበር ትዊት አድርግ,qa_factoid,0.9332,0.0039,False
+15700,am-ET,social,social_post,ጊዜው ያለፈባቸው ምርቶች በቅርብ ገበያ,lists_remove,0.636,0.0092,False
+15703,am-ET,social,social_post,ትዊተር ወደ ቴክኖ መጠኖቻቸው በፍጥነት እንደሚያልቁ,social_post,0.943,0.943,True
+15706,am-ET,social,social_post,ትዊት ለ,qa_factoid,0.9521,0.014,False
+15707,am-ET,social,social_post,ትዊት እንልክ,email_sendemail,0.9945,0.0029,False
+15708,am-ET,social,social_post,ስለ አገልግሎት ቅሬታ ይለጥፉ ሀ,email_sendemail,0.3163,0.1731,False
+15721,am-ET,social,social_post,ስለ ሸዋ ዳቦ የተጠላ ፊት ትዊት ያድርጉ,email_sendemail,0.3293,0.0568,False
+15723,am-ET,social,social_post,ደስተኛ ሁኔታ ማዘጋጀት ፌስቡክ,social_post,0.7367,0.7367,True
+15731,am-ET,social,social_post,ትዊት ወደ ኤትዮ ቴሌኮም እና አገልግሎቴ መጥፎ እንደሆነ ንገራቸው,social_post,0.6626,0.6626,True
+15732,am-ET,social,social_post,ሳምሰንግ ን ትዊት ያድርጉ እና ሰዎችን በምርታቸው መግደል እንዲያቆሙ ይንገሯቸው,email_sendemail,0.1756,0.1722,False
+15736,am-ET,social,social_post,ስለ ኩባንያ አሉታዊ ግምገማ አስገባ,qa_factoid,0.6032,0.0185,False
+15756,am-ET,email,email_sendemail,እባክህ የእኔ ቡድን ኢሜይል አድርግልኝ,email_sendemail,0.4072,0.4072,True
+15763,am-ET,email,email_query,አዲስ ኢሜሎች እንዳሉኝ ቸክ አርግ,iot_hue_lightoff,0.5726,0.0079,False
+15765,am-ET,email,email_sendemail,ለፓፒ ኢሜል መልስ ስጥ,qa_factoid,1.0,0.0,False
+15777,am-ET,email,email_query,እኔ አዲስ ኢሜይሎች እንዳሉኝ ይንገሩ,social_post,0.5038,0.0112,False
+15785,am-ET,email,email_query,በመልእክቴ ሳጥን ውስጥ አዲስ ነገር አለ,email_query,0.1086,0.1086,True
+15789,am-ET,email,email_query,olly ማንኛውም አዲስ ኢሜይሎች አሉኝ,email_sendemail,0.6335,0.0017,False
+15792,am-ET,calendar,calendar_query,ዛሬ የማገኘው ማንን ነው,qa_factoid,0.9419,0.0012,False
+15796,am-ET,email,email_sendemail,ኢሜይል ቼልሲ,email_query,0.4503,0.1353,False
+15802,am-ET,email,email_sendemail,ዛሬ ማታ አልመጣም የሚል ኢሜይል ለዮሃንስ መልስ,email_query,0.2092,0.0877,False
+15809,am-ET,email,email_query,ጫላ እስካሁን ኢሜይሎችን ልኮልኛል,play_radio,0.3239,0.0235,False
+15825,am-ET,email,email_sendemail,ለአባቴ እዘገያለሁ ብለህ ፃፍ,email_sendemail,0.9994,0.9994,True
+15828,am-ET,email,email_sendemail,ወደ ስሞቹ የሚካተት የኢሜይል አድራሻ እዚህ አለ,qa_factoid,0.9415,0.003,False
+15829,am-ET,email,email_sendemail,ወደ ግንኙነቶች ይሂዱ እና አዲስ የኢሜል አድራሻ ያስገቡ,recommendation_events,0.9956,0.0001,False
+15839,am-ET,email,email_query,ርዕስ,email_sendemail,0.4433,0.0134,False
+15841,am-ET,email,email_sendemail,ለሮቤል አዲስ ኢሜይል ጻፉ,email_sendemail,0.4125,0.4125,True
+15845,am-ET,email,email_sendemail,ወደ እኛ እንዴት እንደሚመጣ,qa_factoid,0.9782,0.0004,False
+15847,am-ET,email,email_sendemail,ብድር እንዴት ማግኘት እንችላለን,qa_factoid,0.4351,0.0025,False
+15849,am-ET,email,email_sendemail,ለ አለቃዬ ኢሜይል ላክለት,email_sendemail,0.9999,0.9999,True
+15857,am-ET,email,email_sendemail,እባክህን አዲስ የተዘረዘሩትን ኢሜይል አድራሻ ላክልኝ,email_sendemail,0.2809,0.2809,True
+15862,am-ET,email,email_query,ከ እናት የተቀበለውን ኢሜይል እንዳለ ያረጋግጡ,qa_factoid,0.9186,0.0035,False
+15880,am-ET,email,email_query,እባክዎን ደብዳቤዎቼን ያረጋግጡ,social_post,0.6103,0.004,False
+15890,am-ET,email,email_query,ከ እኔ አባት አዲስ የሆኑ ኢሜይሎች እንዳሉኝ በማየት አረጋግጥ,email_sendemail,0.9919,0.0006,False
+15904,am-ET,email,email_query,አዲሶቹን ኢሜይሎቼን ይፈትሹ እና እነሱ ስለ ምን እንደሆኑ ይንገሩኝ,lists_remove,0.1171,0.0407,False
+15906,am-ET,email,email_sendemail,ለ ታገሰ አመሰግናለሁ ብለሽ መልሺ,email_query,0.7442,0.1048,False
+15911,am-ET,email,email_sendemail,ለ ደረጀ ኢሜይል ያዘጋጁ,qa_factoid,0.2068,0.0332,False
+15933,am-ET,email,email_query,እኔ ምን አዲስ ኢሜይሎች አሉኝ,qa_factoid,0.9696,0.0015,False
+15942,am-ET,email,email_sendemail,ለቅርብ ጊዜ ኢሜይሎች ምላሽ ለመስጠት ይህንን ኢሜይል ይላኩ,email_sendemail,0.9672,0.9672,True
+15950,am-ET,email,email_sendemail,ለ አበበ ዶ ኢሜል ምላሽ ይስጡ,qa_factoid,0.9848,0.0121,False
+15957,am-ET,email,email_sendemail,መንገድ ላይ መሆናችንን እንድታሳውቅ ዘውዴ ኢሜይል አድርግ,qa_factoid,0.0831,0.0444,False
+15963,am-ET,email,email_query,እኔ ከ ሀብታሙ ማንኛውም አዲስ ኢሜይሎች አሉኝ,email_sendemail,0.9878,0.0095,False
+15966,am-ET,email,email_query,በጣም አስፈላጊ ከሆነ ምላሽ ይላኩ,qa_factoid,0.9999,0.0,False
+15968,am-ET,email,email_query,በጣም ከሚታወቅ ቦታ ከሆነ እንደ አስፈላጊ ምልክት አድርግበት,qa_factoid,0.9449,0.0011,False
+15970,am-ET,email,email_query,የመጨረሻው የ እናት ኢሜይል ጉዳይ ምን ነበር,qa_factoid,0.261,0.0316,False
+15971,am-ET,email,email_query,ከስራ የመጨረሻው ኢሜይል ምን ነበር,qa_factoid,0.9988,0.0,False
+15994,am-ET,email,email_sendemail,ለ መንግስቱ ስብሰባ ስንት ሰዓት እንደሚመቸው በ ኢሜይል ጠይቀው,recommendation_events,0.4687,0.0465,False
+15995,am-ET,email,email_sendemail,ስለ የበጀት ስብሰባ ሳራ ኢሜይል ያድርጉ,transport_query,0.3844,0.0462,False
+15998,am-ET,email,email_query,ከስም የሆነ ነገር ለማግኘት ኢሜይሎቼን አረጋግጥ,email_query,0.6582,0.6582,True
+16002,am-ET,email,email_query,አዲስ መልዕክት ፈልግ,qa_factoid,0.3343,0.1527,False
+16005,am-ET,email,email_sendemail,ለ joseph at gmail dot com ኢሜይል ይላኩ,email_sendemail,1.0,1.0,True
+16010,am-ET,email,email_query,ኢንቦክስ ውስጥ ማንኛውም አዲስ መልእክት ካለኝ ንገረኝ,qa_factoid,0.436,0.0379,False
+16024,am-ET,email,email_sendemail,ነገ ስራ በዝቶብኛል በማለት ለሂሩት ኢሜይል ይላኩ,qa_factoid,0.9666,0.0114,False
+16028,am-ET,email,email_sendemail,ሄይ ሲሪ የስራ ባልደረባ ኢሜይል ጀምር,qa_factoid,0.7016,0.0403,False
+16029,am-ET,email,email_sendemail,እባክዎ ለሰራ ባልደረባ አዲስ ኢሜይል ይጻፉ,social_post,0.2244,0.0664,False
+16032,am-ET,email,email_sendemail,እባክዎን የነገውን ስብሰባ በተመለከተ ለስራውድንቅ ኢሜይል ይላኩ,email_sendemail,1.0,1.0,True
+16038,am-ET,email,email_query,ሄይ ዮሀንስ በቅርብ ጊዜ ማንኛውንም ኢሜይል ልኮልኛል,email_sendemail,0.9922,0.0061,False
+16045,am-ET,email,email_sendemail,የቢሮ የመክፈቻ ጊዜ ሰንጠረዥ ወደ መሀመድ ላክ,email_sendemail,0.373,0.373,True
+16048,am-ET,email,email_query,የቅርብ መልዕክቶችን አሳየኝ,social_post,0.4028,0.0123,False
+16049,am-ET,email,email_sendemail,ወደ ቤተሰቤ ኢሜይል መላክ እፈልጋለሁ እርዳኝ,transport_query,0.6942,0.051,False
+16050,am-ET,email,email_query,ጂሜይል ያረጋግጡ,qa_factoid,0.9885,0.0001,False
+16052,am-ET,email,email_query,outlook ን ተመልከት,email_sendemail,0.8296,0.1691,False
+16056,am-ET,email,email_sendemail,ለ ኢሜል ምላሽ ይስጡ,qa_factoid,0.9903,0.0076,False
+16061,am-ET,email,email_query,ባለፉት አስር ደቂቃዎች ውስጥ ኢሜይሎች ደርሰውኛል,play_radio,0.095,0.0426,False
+16072,am-ET,email,email_sendemail,ዛሬ በአደጋ ምክንያት እንደምዘገይ ለ አለቃ ዬ ኢሜል ይላኩ እና ስብሰባ ው ላይ ስለማልገኝ ይቅርታ ጠይቁት,email_sendemail,0.9624,0.9624,True
+16075,am-ET,email,email_query,የቅርብ ጊዜውን የጫላን ኢሜይል አሳይ,play_podcasts,0.2406,0.0112,False
+16082,am-ET,email,email_sendemail,ለ ጴጥሮስ ኢሜል ይላኩ እና እሱ አሁን እሱን ለመርዳት አንድ ነገር ማድረግ የምችለው እንዴት እንደሆነ ጠይቁት,email_sendemail,1.0,1.0,True
+16089,am-ET,email,email_query,እኔ ባለፉት አስር ደቂቃዎች ውስጥ አዲስ ኢሜይሎች ደርሰውኛል,datetime_query,0.1005,0.0396,False
+16096,am-ET,email,email_query,ደስታ ማንኛውም አዲስ መልዕክቶች ልኮልኛል,recommendation_events,0.8078,0.0007,False
+16098,am-ET,email,email_query,ከእመቤት ማንኛውም ያልተነበቡ ኢሜይሎችን ያረጋግጡ,email_sendemail,0.9969,0.0003,False
+16100,am-ET,email,email_query,እባክዎን የሥራ ዝርዝር የያዘውን ኢሜይል ያረጋግጡ,qa_factoid,0.3762,0.0518,False
+16103,am-ET,email,email_sendemail,ለወንድሜ ኢሜል ላኩ እና የጋብቻ አመታዊ በዓል ይበሉ,qa_factoid,0.3654,0.2745,False
+16120,am-ET,email,email_sendemail,እርዳታ ወደ ሳራ ብቻ መላክ ነው,lists_remove,0.1189,0.04,False
+16131,am-ET,email,email_sendemail,ይህ አዲስ ኢሜይል ወደ እውቂያዬ መታከል አለበት,social_post,0.2376,0.0316,False
+16145,am-ET,email,email_query,በጣም የቅርብ ጊዜ ኢሜይሎችን አሳየኝ,qa_factoid,0.9837,0.0002,False
+16146,am-ET,news,news_query,የቅርብ ለውጦች ስጠኝ,play_music,0.6365,0.0103,False
+16148,am-ET,email,email_sendemail,ለየውብዳር መልስ ይስጡ እና እባክዎን ደብዳቤ ይላኩ,recommendation_events,0.6757,0.1751,False
+16151,am-ET,email,email_query,የ ስብሰባ መርሃ ግብር የዛሬ ፖስታ ውስጥ ያረጋግጡ,news_query,0.1993,0.0752,False
+16162,am-ET,email,email_sendemail,መልስ ላክ,email_sendemail,0.9998,0.9998,True
+16163,am-ET,email,email_query,ትናንትና ደብዳቤ የላከልኝ ማነው,qa_factoid,0.5853,0.0174,False
+16165,am-ET,email,email_query,አቤል ምላሽ ሰጠ,qa_factoid,0.8842,0.0024,False
+16166,am-ET,email,email_sendemail,ለቀጣይ ሦስት ሳምንታት በፕሮጀክት እንደ ምጠመድ ለ ሳምራዊት መልስ መስጠት ትችላለህ,recommendation_events,0.2327,0.0344,False
+16168,am-ET,email,email_query,ባለፉት አስራ አምስት ደቂቃዎች ውስጥ ኢሜይሎች ደርሰዋል,datetime_query,0.1647,0.0418,False
+16170,am-ET,email,email_query,ያልተነበቡ መልዕክት ለመፈተሽ የገቢ መልዕክት ሳጥንን ይክፈቱ,qa_factoid,0.1973,0.0307,False
+16178,am-ET,email,email_query,ዛሬ ከ አሽዋ የመጣ ማንኛውም መልእክት,social_post,0.5785,0.0016,False
+16183,am-ET,email,email_query,ስለ የእኔ ሥራዬ ኢሜይል ያረጋግጡ,email_sendemail,0.9504,0.0087,False
+16201,am-ET,email,email_sendemail,እባክዎ ለገመዳ አዲስ ኢሜል ይጫኑ እና አሁን መልዕክት ይላኩ,email_sendemail,0.9986,0.9986,True
+16221,am-ET,email,email_sendemail,የሳራን ኢሜል አውጥተህ እንደማሳውቃት ጻፍ,social_post,0.6698,0.0136,False
+16245,am-ET,email,email_sendemail,ለ joe at a. o. l. dot com ኢሜይል ላክ,email_sendemail,0.9997,0.9997,True
+16248,am-ET,email,email_query,እባክዎን የእኔ ደብዳቤ ያረጋግጡ,social_post,0.4521,0.0112,False
+16263,am-ET,email,email_query,እኔ አበዲሳ ምንም አዲስ ኢሜይል ደረሰኝ,email_sendemail,1.0,0.0,False
+16266,am-ET,email,email_sendemail,ሁላችሁንም እወዳችኋለሁ በማለት ለ ቤተሰብ ኢሜይል ጻፉ,lists_remove,0.7796,0.0062,False
+16271,am-ET,email,email_query,የገቢ መልዕክት ሳጥኔን አድስ እና ስለ አዲስ ኢሜይሎች አሳውቀኝ,qa_factoid,0.9421,0.0032,False
+16275,am-ET,email,email_query,ለ አዲስ ኢሜይል ምርጫ ጀምር,email_sendemail,0.3507,0.1899,False
+16276,am-ET,email,email_query,አዲስ የእኔ መልእክቶች አሉኝ,social_post,0.3237,0.0221,False
+16280,am-ET,email,email_sendemail,እባክዎን በቤተሰቤ እና በጓደኛዬ ዝርዝር ውስጥ ላለው ቃልኪዳን ኢሜል ይላኩ,email_sendemail,1.0,1.0,True
+16282,am-ET,email,email_sendemail,የነገ ቀጠሮዎችን ለመሰረዝ ለረዳት ፅዮን ኢሜል ላክ,email_sendemail,0.991,0.991,True
+16296,am-ET,email,email_sendemail,ለእናቴ የዮሃንስ የልደት ድግስ እሁድ መሆኑን ለመንገር ኢሜይል ላክላት,email_sendemail,1.0,1.0,True
+16297,am-ET,email,email_sendemail,ለሳሚ ምስጋናህን ለመናገር ኢሜይል ላክ,email_sendemail,0.9732,0.9732,True
+16314,am-ET,email,email_sendemail,ወደ ሳራ ኢሜል ይላኩ,email_sendemail,0.9996,0.9996,True
+16317,am-ET,email,email_query,እኔ አዲስ ኢሜይሎችን ከ ጫልቱ አገኛለሁ,qa_factoid,0.9725,0.0008,False
+16318,am-ET,email,email_sendemail,ለ ኢሜል ምላሽ ይስጡ,qa_factoid,0.9903,0.0076,False
+16320,am-ET,email,email_sendemail,ለሳራ ዮሃንስ ኢሜይል መልስ መስጠት እፈልጋለሁ,iot_hue_lightoff,0.2659,0.2079,False
+16353,am-ET,email,email_query,ከሳሚ ኢሜይሎች ካሉ አረጋግጥ,qa_factoid,0.9892,0.0005,False
+16354,am-ET,email,email_query,ከኔ ቀጣሪ ኢሜይሎችን ፈትሽ,qa_factoid,0.9946,0.0003,False
+16356,am-ET,email,email_query,ስለ ሽጉጥ ቁጥጥር ጉዳይ ዮሀንስ ን ኢሜል አድርጌዋለሁ,email_sendemail,1.0,0.0,False
+16357,am-ET,email,email_query,በቀለ ስለ ጥይት ኢሜል ልኮልኛል,email_query,0.4954,0.4954,True
+16361,am-ET,email,email_query,እኔ ባለፈው ሰዓት ውስጥ ማንኛውም አዲስ ኢሜይሎች አሉኝ,qa_factoid,0.1915,0.0361,False
+16373,am-ET,email,email_query,የመከታተያ ቁጥሮች ያላቸው ኢሜይሎች ደርሰውኛል,qa_factoid,1.0,0.0,False
+16375,am-ET,email,email_sendemail,ለብሩክ ኢሜይል ይጻፉ,social_post,0.4627,0.4411,False
+16376,am-ET,email,email_sendemail,አሌክሳ እባክዎን ለ እናት መልዕክት ይላኩ,email_sendemail,0.998,0.998,True
+16377,am-ET,email,email_sendemail,ለእናቴ አሁን ኢሜይል ላክ,email_sendemail,1.0,1.0,True
+16384,am-ET,email,email_query,ሄይ እኔ ማንኛውም አዲስ ኤሌክትሮኒክ መልእክቶች አሉኝ,qa_factoid,0.3726,0.0115,False
+16385,am-ET,email,email_query,እባክዎን አዳዲስ መልዕክቶችን ያንብቡ,social_post,0.3544,0.0261,False
+16398,am-ET,email,email_sendemail,እባክህ ኢሜሉን ለናትናኤል ላክለት,email_sendemail,1.0,1.0,True
+16399,am-ET,email,email_query,እኔ አዲስ ማንኛውም ኢሜይል አግኝቻለሁ,qa_factoid,0.7509,0.0024,False
+16401,am-ET,email,email_sendemail,ለሰርካለም መልዕክት ይላኩ ሄይ ዛሬ ምን ታደርጊያለሽ,email_sendemail,0.9557,0.9557,True
+16402,am-ET,email,email_sendemail,ለጫላ የዛሬ እቅዶች ኢሜል አርግ,email_query,0.9736,0.0263,False
+16406,am-ET,email,email_sendemail,አሌክሳ ኢሜይል ጀምሪ,qa_factoid,0.4057,0.0511,False
+16410,am-ET,email,email_sendemail,ኢሜይል አዘጋጅ,email_sendemail,0.5249,0.5249,True
+16413,am-ET,email,email_query,ከአለቃዬ የተላኩልኝን ኢሜይሎች በሙሉ አሳይ,recommendation_events,0.5046,0.0604,False
+16419,am-ET,email,email_sendemail,እባክዎን ለ አጎት ጫላ የሚከተለውን መልዕክት ይላኩ አዎ ማድረግ እችላለሁ,recommendation_events,0.998,0.0001,False
+16427,am-ET,email,email_query,ዛሬ ስንት አዲስ መልዕክቶችን ተቀብያለሁ,recommendation_events,0.951,0.005,False
+16430,am-ET,email,email_sendemail,እባክዎን ለእናቴ እና ለአባቴ እንዴት እንደሆኑ የሚጠይቅ ኢሜይል ይላኩ,email_sendemail,0.9803,0.9803,True
+16437,am-ET,email,email_sendemail,እባክህ ይህን ኢሜይል ለኔ ጓደኛ ላክልኝ,email_sendemail,0.5325,0.5325,True
+16438,am-ET,email,email_sendemail,ይህን ኢሜይል አሁን መላክ እፈልጋለሁ,qa_factoid,0.2328,0.0531,False
+16446,am-ET,email,email_query,እባክህን ከዚህ ላኪ የቅርብ ጊዜ የኢሜል ካለ አረጋግጥ,email_sendemail,0.9999,0.0001,False
+16459,am-ET,email,email_sendemail,አዲስ መልዕክት ለ newmail at gmail dot com,email_sendemail,1.0,1.0,True
+16461,am-ET,email,email_query,እኔ አንደች ያልተነበቡ መልዕክቶች አሉኝ,email_sendemail,0.5552,0.0354,False
+16467,am-ET,email,email_query,ከግንኙነቴ q. ማንኛውም አዲስ ኢሜይሎች አሉኝ,qa_factoid,1.0,0.0,False
+16471,am-ET,email,email_query,የ አሚር ኢሜይሎች ያረጋግጡ,qa_factoid,0.3684,0.01,False
+16496,am-ET,email,email_sendemail,ኢሜይል መልስ,email_sendemail,1.0,1.0,True
+16501,am-ET,email,email_sendemail,እባክህ ለጓደኛዬ ሰቦንቱ መልእክት ላኩልኝ እንዴት ነህ,email_sendemail,0.9994,0.9994,True
+16506,am-ET,email,email_sendemail,አዲስ የኢሜል አድራሻ ያክሉ እና ኢሜል ይላኩ,qa_factoid,0.9552,0.0105,False
+16518,am-ET,email,email_sendemail,ታደለ ገመቹ አድስ መልዕክት ያክሉ,social_post,0.4926,0.3941,False
+16519,am-ET,email,email_sendemail,ወደ እውቂያዎቼ አዲስ ኢሜይል ማከል አለብኝ,qa_factoid,0.4249,0.0163,False
+16535,am-ET,email,email_sendemail,ወደ ቸርነት ኢሜል መጻፍ ይችላሉ,qa_factoid,0.882,0.0311,False
+16559,am-ET,email,email_sendemail,ለአብዶ ዛሬ ጥዋት ከላከው ኢሜል አራት መቶ ሰላሳ ብለው ምላሽ ይላኩ,email_sendemail,1.0,1.0,True
+16560,am-ET,email,email_sendemail,ምሽት በአራት ሰዓት እገባለሁ በሚለው ቃል ለ አለቆቼ ኢሜይል ላክልኝ,datetime_query,0.2909,0.1549,False
+16563,am-ET,email,email_query,ኦሊ ኢሜይሌን አረጋግጥልኝ,qa_factoid,0.9946,0.0,False
+16591,am-ET,email,email_sendemail,ከቢል ኢሜይል ደረሰኝ አሁኑኑ መመለስ አለብኝ,qa_factoid,0.5395,0.0086,False
+16593,am-ET,email,email_sendemail,የመጨረሻው ኢሜል በፍጥነት መመለስ መሆን አለበት,iot_hue_lightoff,0.4254,0.0077,False
+16603,am-ET,email,email_query,ከሰላሳ ደቂቃ በፊት ከእናቴ የተላከ ኢሜይል ምን ይላል,qa_factoid,0.7109,0.1407,False
+16605,am-ET,email,email_sendemail,ለአለቃዬ ኢሜል ይፃፉ እና ይላኩ,email_sendemail,0.9297,0.9297,True
+16609,am-ET,email,email_query,ያልተነበቡ ማንኛውም አዲስ ኢሜይሎች ካሉኝ ንገረኝ,qa_factoid,0.2944,0.0332,False
+16613,am-ET,email,email_sendemail,አለቃ አባባል አርፍጃለሁ በማለት መልዕክት ላክ,email_sendemail,0.9873,0.9873,True
+16622,am-ET,email,email_sendemail,ይህ ግኑኝነት ኢሜይል ላክ,qa_factoid,0.9842,0.0008,False
+16624,am-ET,email,email_sendemail,ስለ እኔ አገልግሎት ጉዳዮች ወደ comcastcom ኢሜይል ለመላክ እፈልጋለሁ,recommendation_events,0.2197,0.035,False
+16627,am-ET,email,email_query,በጣም ቅርብ መልዕክት አረጋግጥ,email_sendemail,0.2649,0.0293,False
+16630,am-ET,email,email_sendemail,ለመጨረሻው ኢሜል ምላሽ ይላኩ,qa_factoid,0.9998,0.0,False
+16642,am-ET,email,email_query,ከሰርካለም ማንኛውም ነገር ሜይል ያረጋግጡ,qa_factoid,0.7641,0.0059,False
+16648,am-ET,email,email_query,እባክዎን ኢሜይሎቼን ያረጋግጡልኝ,email_sendemail,1.0,0.0,False
+16652,am-ET,email,email_query,የጫላ ኢሜይል አባሪ አለው,qa_factoid,1.0,0.0,False
+16662,am-ET,email,email_query,ከዳንኤል ምንም አዲስ ኢሜይሎች አልደረሱኝም,qa_factoid,0.5111,0.0197,False
+16666,am-ET,email,email_query,ማንኛውም ገቢ ኢሜይሎች አሉኝ,qa_factoid,1.0,0.0,False
+16668,am-ET,email,email_query,ከ አራት መቶ በኋላ ዛሬ የገባ አዲስ ኢሜይል አለ,qa_factoid,0.9391,0.0029,False
+16669,am-ET,email,email_query,ከጳውሎስ ኢሜል ደረሰኝ,email_sendemail,1.0,0.0,False
+16672,am-ET,email,email_query,ከበላይ ጋር ተገናኝቷል,qa_factoid,1.0,0.0,False
+16677,am-ET,email,email_query,ዛሬ በገቢ የመልእክት ሳጥን ውስጥ ማንኛውም አዲስ ኢሜይሎች አሉኝ,qa_factoid,0.9042,0.0041,False
+16698,am-ET,email,email_sendemail,የእኔ እናት ኢሜይል ምላሽ ጻፍ,email_sendemail,0.5593,0.5593,True
+16701,am-ET,email,email_sendemail,ለሕይወት ኢሜል መልስ መስጠት እፈልጋለሁ,email_sendemail,1.0,1.0,True
+16703,am-ET,email,email_sendemail,በጣም የቅርብ ጊዜውን ኢሜይል መመለስ እፈልጋለሁ,qa_factoid,0.5392,0.0047,False
+16712,am-ET,email,email_query,እኔ ማንኛውም አዲስ ኢሜይል አለኝ,email_query,0.8368,0.8368,True
+16713,am-ET,email,email_query,የእኔን ኢሜል አይተ እስኪ የሆነ አዲስ ኢሜል መኖሩን አረጋግጠ አሳውቀኝ,qa_factoid,0.3127,0.0524,False
+16717,am-ET,email,email_sendemail,እባክህ ለ ጆን ኢሜል መላክ ትችላለህ ፈቃድ ላይ ነኝ ብለህ,email_sendemail,0.8795,0.8795,True
+16719,am-ET,email,email_query,የደረሰኝን ማንኛውም አዲስ ኢሜይል አሳውቀኝ,social_post,0.1942,0.0407,False
+16729,am-ET,email,email_sendemail,ነገ እንደማገኛቸው በማሳወቅ ከሳራ ለደረሰኝ ኢሜይሌ ምላሽ ስጥ,email_sendemail,0.9996,0.9996,True
+16730,am-ET,email,email_query,እባክዎን ከ በረከት አዲስ ኢሜል ያረጋግጡ,email_sendemail,0.4216,0.0526,False
+16733,am-ET,email,email_query,አዲስ የ ራይድ ኢሜሎች አሳይ,social_post,0.0816,0.0516,False
+16749,am-ET,email,email_query,ዛሬ ለእኔ ምንም አዲስ ኢሜይሎች የሉኝም,qa_factoid,0.5277,0.093,False
+16754,am-ET,email,email_sendemail,ኢሜይል ማዘዝ,qa_factoid,0.3378,0.1749,False
+16758,am-ET,email,email_query,ካለፈው ጊዜ ጀምሮ ማንኛውም አዲስ ኢሜይል,qa_factoid,0.8789,0.0041,False
+16763,am-ET,email,email_query,ባለፉት አስር ደቂቃዎች ውስጥ የመጡ ኢሜይሎች,datetime_query,0.0958,0.0475,False
+16765,am-ET,email,email_query,የትላንቱ ኢሜይል የቃለመጠይቁ ሰዓት ስንት ነው ይላል,datetime_query,0.5447,0.0172,False
+16766,am-ET,email,email_query,አዲስ ኢሜይል ይፈትሹ,qa_factoid,0.9995,0.0,False
+16772,am-ET,email,email_query,ጥሰቱን በተመለከተ ሁሉንም ኢሜሎች አሳይ,lists_remove,0.1785,0.0488,False
+16780,am-ET,email,email_sendemail,ለ juanpedro at gmail dot com ኢሜል ይላኩ,email_sendemail,1.0,1.0,True
+16791,am-ET,email,email_sendemail,አዲስ ኢሜይል ጻፍ ግን በዚህ ጊዜ አዲስ አድራሻ brandon at example dot com ተጠቀም,email_query,0.7969,0.1115,False
+16799,am-ET,email,email_query,እኔ ከ እኩለ ቀን ጀምሮ ማንኛውም ኢሜይሎች ደርሰውኛል,email_query,0.1687,0.1687,True
+16801,am-ET,email,email_query,ናርዶስ ስለ ነብዩ ማንኛውንም ኢሜይሎች ልኮልኛል,qa_factoid,0.8393,0.0055,False
+16813,am-ET,email,email_query,ከ ዮናስ ኢሜይል ሲደርሰኝ ድምፁን አሰማ,play_radio,0.1915,0.0327,False
+16814,am-ET,email,email_query,ኢሜይሎች ይፈትሹ,qa_factoid,0.9993,0.0,False
+16838,am-ET,email,email_sendemail,ወደ አዲስ ኢሜይል መለያ መልእክት መላክ ትችላለክ,transport_query,0.1645,0.0396,False
+16851,am-ET,email,email_query,የኢሜል ማሳወቂያዎች,email_sendemail,1.0,0.0,False
+16859,am-ET,email,email_query,በመጨረሻው ኢሜይሌ ለሶስና ምን ነገርኳት,qa_factoid,0.2904,0.0201,False
+16872,am-ET,email,email_sendemail,ከእውቅያዎቼ ሰላም አግኝ እና ኢሜል ላክላት,email_sendemail,0.9245,0.9245,True
+16873,am-ET,email,email_sendemail,ለልደትዋ ናቲ ጋር ኢሜል ላክ,email_sendemail,1.0,1.0,True
+16880,am-ET,email,email_sendemail,ኢሜል ጄሪ ስለ ስብሰባው,email_sendemail,1.0,1.0,True
+16883,am-ET,email,email_sendemail,ለ አለም ዛሬ ማታ ስንት ሰዓት እንደሚመጣ ኢሜል ላኩለት,email_sendemail,0.9998,0.9998,True
+16886,am-ET,email,email_sendemail,ይህን መልእክት መልስ,qa_factoid,0.8269,0.0527,False
+16888,am-ET,email,email_query,ስለ አዲስ ደብዳቤ ምን ትላለክ,email_query,0.3581,0.3581,True
+16890,am-ET,email,email_query,አዲስ ኢሜይል ምን ይላል,qa_factoid,0.5396,0.0388,False
+16891,am-ET,email,email_sendemail,ለዮሴፍ ታዬ ኢሜይል ላክ,email_sendemail,0.8332,0.8332,True
+16892,am-ET,email,email_sendemail,ጀምር እና ወደ ዮሐንስ አንበሴ ኢሜል አድርግ,email_sendemail,1.0,1.0,True
+16899,am-ET,email,email_query,እኔ ከ በረከት ነጋሽ ማንኛውም ኢሜሎች ደርሰውኛል,qa_factoid,0.8286,0.0092,False
+16914,am-ET,email,email_query,ከዚህ ላኪ ኢሜይሎች አሉኝ,qa_factoid,0.953,0.0019,False
+16916,am-ET,email,email_sendemail,ሰላም የተቀበልኩትን ደብዳቤ መልሱ,email_sendemail,0.1405,0.1405,True
+16924,am-ET,email,email_query,እባክዎን የእኔ አዲስ መልእክት ጂሜይልን ያረጋግጡ,email_sendemail,0.9999,0.0,False
+16930,am-ET,email,email_query,የመጨረሻ ምርት የሆነ ኢሜይል አሳየኝ,iot_hue_lightoff,0.2821,0.0254,False
+16938,am-ET,email,email_sendemail,ለ አሰግድ ኢሜይል ምላሽ ይስጡ,qa_factoid,0.9621,0.001,False
+16944,am-ET,email,email_sendemail,ቅዳሜ እንገናኝ በማለት ለ ሴት አያት ኢሜይል ይላኩ,email_sendemail,0.804,0.804,True
+16947,am-ET,email,email_sendemail,ኢሜይል መልስ,email_sendemail,1.0,1.0,True
+16955,am-ET,email,email_sendemail,አዲስ ደንበኛ ኢሜይል,email_query,0.9926,0.002,False
+16956,am-ET,email,email_sendemail,ለአዲሱ እውቂያ ኢሜይል ላክ,email_sendemail,0.7638,0.7638,True
+16961,am-ET,email,email_sendemail,ጋር ምላሽ ይስጡ,qa_factoid,1.0,0.0,False
+16974,am-ET,email,email_query,እባክዎ ሁሉንም አዲስ የገቢዎች ስራ ክፍል ኢሜል ያረጋግጡ,email_sendemail,0.4433,0.1945,False
+16987,am-ET,email,email_query,የ ዮሐንስ ማንኛውም አዲስ ኢሜል,email_query,0.698,0.698,True
+16989,am-ET,email,email_sendemail,እባክዎን መሳይ የላከልኝን ኢሜል ንገሩኝ ገንዘቡ እፈልጋለሁ አሁን አስቸኳይ ነው,email_sendemail,0.7155,0.7155,True
+16992,am-ET,email,email_query,ዳኘ ዘገየ ኢሜይል ልኮልኝ ነበር,qa_factoid,0.9999,0.0,False
+16995,am-ET,email,email_sendemail,ለ ዘርፈሸዋል ኢሜል ላክ,email_sendemail,0.9961,0.9961,True
+17005,am-ET,email,email_query,እባክዎን አዲስ ኢሜይል ይመልከቱ,social_post,0.9143,0.0098,False
+17011,am-ET,email,email_sendemail,ኤሌክትሮኒክ ደብዳቤ መላክ ትችላለህ,qa_factoid,0.4674,0.0145,False
+17015,am-ET,email,email_sendemail,መመለስ ጀምር,cooking_recipe,0.442,0.001,False
+17019,am-ET,email,email_sendemail,ለመጨረሻው ኢሜል መልስ አዘጋጅ,email_sendemail,0.832,0.832,True
+17020,am-ET,email,email_sendemail,ለመጨረሻ ጊዜ ለተቀበለው ኢሜል መልስ ይስጡ,email_sendemail,0.794,0.794,True
+17023,am-ET,email,email_sendemail,ለ እናት በ ኢሜይል ይላኩ እና የአየሩ ሁኔታ እንዴት እንደሆነ ይጠይቁ,qa_factoid,0.138,0.0378,False
+17042,am-ET,email,email_sendemail,ለጆን ኢሜል በ ዮሃንስ በጂሜይል ዶት ኮም ይፃፉ,email_sendemail,0.6709,0.6709,True
+17043,am-ET,email,email_sendemail,በረከት አት ሆትሜይል ዶት ኮም ላይ ለበረከት ኢሜይል ይላኩ,qa_factoid,0.3691,0.0429,False
+17051,am-ET,email,email_query,አዲስ ኢሜይል አሳየኝ,social_post,0.6052,0.0857,False
+17052,am-ET,email,email_query,ራሄል ጌቱ ን ፈልግ,email_sendemail,0.5917,0.2621,False
+17069,am-ET,email,email_query,በ outlook ውስጥ ማንኛውም አዲስ ኢሜይሎች አሉ,iot_hue_lightoff,0.9996,0.0,False
+17075,am-ET,email,email_query,ዛሬ ከአራት ሰአት በኋላ የተቀበሉት አዲስ ኢሜይሎች አሉ,recommendation_events,0.3703,0.0248,False
+17081,am-ET,email,email_sendemail,በቅርብ ከተቀመጡ ሰነዶቼ ጋር ለኩባንያዬ ሰራተኛ ኢሜይል ፍጠር,email_sendemail,0.9096,0.9096,True
+17087,am-ET,email,email_query,ከ ሳራ የተቀበሉትን አዲስ ኢሜይሎች አረጋግጥልኝ,qa_factoid,0.2741,0.0204,False
+17098,am-ET,email,email_query,የመጨረሻው ሰአት የተቀበሉትን ማንኛውም ኢሜይሎች አሳየኝ,qa_factoid,0.4564,0.0255,False
+17107,am-ET,email,email_query,አዲስ ኢሜይሎች ይፈትሹ,qa_factoid,0.9992,0.0,False
+17108,am-ET,email,email_query,የእኔ የቅርብ ጊዜ ውን ኢሜይል ስጠኝ,qa_factoid,0.2613,0.2337,False
+17113,am-ET,email,email_sendemail,ለ መሰረት ኢሜይል ፍጠር,qa_factoid,0.5542,0.0012,False
+17115,am-ET,email,email_query,አዲስ ኢሜይሎች ዝርዝር ያንብቡ,play_radio,0.575,0.0072,False
+17116,am-ET,email,email_query,የቅርብ ጊዜ ኢሜይሎችን ዝርዝር አሳይ,play_radio,0.5126,0.0103,False
+17119,am-ET,email,email_query,ከአማዞን ማንኛውንም መልዕክት ያረጋግጡ,social_post,0.847,0.0008,False
+17123,am-ET,email,email_sendemail,ኢሜይል ቅጽ የክልል ቪ.ፒ.,qa_factoid,0.9655,0.0009,False
+17135,am-ET,email,email_query,የማንኛውም ፈጣን ዜና ኢሜይሎች,recommendation_events,0.2985,0.0197,False
+17136,am-ET,email,email_query,እባክህ አዲሱ ኢሜሌን አንብብ,email_sendemail,0.32,0.1505,False
+17138,am-ET,email,email_query,እባክህን የተነበቡ መልእክቶቼን በማህደር አስቀምጥ,email_sendemail,0.7553,0.0078,False
+17142,am-ET,email,email_query,ለመጨረሻ ጊዜ ከተመለከትነው በኋላ ኢንቦክሴ ውስጥ ምን ገብቷል,qa_factoid,0.9586,0.0021,False
+17143,am-ET,email,email_sendemail,ሄይ ኢሜይል ለ ዮሃንስ ላክ,email_sendemail,0.9913,0.9913,True
+17144,am-ET,email,email_query,ሰላም አረጋግጥ መልዕክት,email_sendemail,0.7602,0.0615,False
+17147,am-ET,email,email_sendemail,በሚከተለው ይዘት ለመልዕክት መልስ ስጥ,qa_factoid,0.8934,0.0026,False
+17148,am-ET,email,email_sendemail,አሌክሳ በሚከተለው ይዘት ለመልዕክቱ መልስ ስጥ ሄሎ አንተ,qa_factoid,0.392,0.0233,False
+17151,am-ET,email,email_sendemail,ጓደኛዬ ጫላ አዲስ ወደገዛው ቤቱ ግብዣ ካርድ ልኮልኛል በደብዳቤ መታወቂያ ቁጥሩ አመስግንልኝ,social_post,0.2283,0.0311,False
+17156,am-ET,email,email_query,ማንኛውም አዲስ የዮሃንስ ኢሜይል ከኢሜይሎቼ ውስጥ አረጋግጥ,qa_factoid,0.6223,0.051,False
+17157,am-ET,email,email_query,ከዮሐንስ ማንኛውም አዲስ ኢሜይል አለኝ,email_query,0.9976,0.9976,True
+17170,am-ET,email,email_query,ኢያሱ ኢሜይሎች ሲልክልኝ አሳውቀኝ,social_post,0.9749,0.0005,False
+17179,am-ET,email,email_query,አበበ ኢሜል ልኮልኛል,email_sendemail,0.9996,0.0004,False

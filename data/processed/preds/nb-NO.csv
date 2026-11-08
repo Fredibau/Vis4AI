@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,nb-NO,iot,iot_hue_lightoff,olly skru av lysene i soverommet,iot_hue_lightoff,0.962,0.962,True
+47,nb-NO,datetime,datetime_query,hva er klokken i australia,iot_hue_lightoff,0.9106,0.006,False
+85,nb-NO,datetime,datetime_query,fortell meg dagens dato,datetime_query,0.9853,0.9853,True
+86,nb-NO,datetime,datetime_query,hvilken dato er det i dag,qa_factoid,0.7635,0.2347,False
+100,nb-NO,weather,weather_query,hva er ukens værmelding,weather_query,0.6694,0.6694,True
+102,nb-NO,weather,weather_query,hvordan er denne ukens vær,weather_query,0.9993,0.9993,True
+103,nb-NO,weather,weather_query,fortell meg været for denne uken,weather_query,0.9997,0.9997,True
+128,nb-NO,datetime,datetime_query,hva er datoen,qa_factoid,0.9988,0.0008,False
+151,nb-NO,play,play_music,spill den igjen er du snill,play_music,0.9998,0.9998,True
+177,nb-NO,news,news_query,fortell meg noen forretnings nyheter,cooking_recipe,0.9804,0.0009,False
+178,nb-NO,news,news_query,fortell meg internasjonale nyheter,news_query,0.9971,0.9971,True
+182,nb-NO,play,play_music,spill min rock spilleliste,play_music,0.9998,0.9998,True
+185,nb-NO,play,play_music,slå på min spilleliste og spill den tredje sangen i køen,play_music,1.0,1.0,True
+197,nb-NO,datetime,datetime_query,hva er klokka,iot_hue_lightoff,0.8601,0.0011,False
+216,nb-NO,weather,weather_query,hvordan er været i dag,weather_query,0.9989,0.9989,True
+219,nb-NO,weather,weather_query,bør jeg ta med en paraply i morgen,iot_hue_lightoff,0.7668,0.0166,False
+220,nb-NO,play,play_music,spill musikk fra min rock liste,play_music,0.9999,0.9999,True
+250,nb-NO,play,play_music,jeg føler meg jazz akuratt nå hva med deg,play_music,0.9353,0.9353,True
+254,nb-NO,play,play_music,olly spill en god sang fra min favoritt jazz player,play_music,0.9987,0.9987,True
+279,nb-NO,weather,weather_query,hva er dagens værvarsel for berlin,weather_query,0.5598,0.5598,True
+281,nb-NO,news,news_query,hva er vekslingskurs for norske kroner til britisk pund,iot_hue_lightoff,0.7041,0.0032,False
+296,nb-NO,play,play_music,spill en nirvana spilleliste,play_music,1.0,1.0,True
+297,nb-NO,play,play_music,spill tilfeldig sanger av coldplay,play_music,0.9994,0.9994,True
+299,nb-NO,weather,weather_query,hvordan er været,weather_query,0.998,0.998,True
+310,nb-NO,datetime,datetime_query,hvilken dag er nyttårsaften i år,weather_query,0.9899,0.0072,False
+319,nb-NO,weather,weather_query,fortell meg været i røros to dager fra nå,weather_query,0.9998,0.9998,True
+329,nb-NO,play,play_music,syv år,qa_factoid,0.4294,0.0174,False
+333,nb-NO,weather,weather_query,hvordan er værtilstanden i oslo,weather_query,0.9939,0.9939,True
+334,nb-NO,weather,weather_query,jeg ønsker å få vite været i alta,weather_query,0.9999,0.9999,True
+344,nb-NO,weather,weather_query,blir det regn i morgen,weather_query,0.9996,0.9996,True
+348,nb-NO,weather,weather_query,vil det regne i morgen,weather_query,0.9938,0.9938,True
+355,nb-NO,datetime,datetime_query,hvilken ukedag er første april,weather_query,0.9765,0.0069,False
+360,nb-NO,datetime,datetime_query,hva er klokka,iot_hue_lightoff,0.8601,0.0011,False
+362,nb-NO,play,play_music,spill av den andre låten fra wenche myhre‎s sang,play_music,1.0,1.0,True
+366,nb-NO,news,news_query,vennligst fortell meg de siste nyhetene,news_query,0.9867,0.9867,True
+369,nb-NO,iot,iot_hue_lightoff,slå av lysene,calendar_remove,0.3251,0.2922,False
+385,nb-NO,news,news_query,hva er oppsiktsvekkende i time of india,social_post,0.5205,0.0045,False
+391,nb-NO,play,play_music,spill en tilfeldig sang fra spillelisten min,play_music,0.9999,0.9999,True
+393,nb-NO,play,play_music,spill en retro låt fra min spilleliste,play_music,0.9999,0.9999,True
+397,nb-NO,play,play_music,spill av en sang av turboneger,play_music,1.0,1.0,True
+400,nb-NO,play,play_music,begynne å spille,play_music,0.9524,0.9524,True
+407,nb-NO,play,play_music,kan du spille rock musikk den neste timen,play_music,1.0,1.0,True
+424,nb-NO,news,news_query,hva er på nyhets toppen,social_post,0.9359,0.0165,False
+427,nb-NO,iot,iot_hue_lightoff,skru av lys på baderom,iot_hue_lightoff,0.9665,0.9665,True
+428,nb-NO,iot,iot_hue_lightoff,skru av baderom lys,iot_hue_lightoff,0.4318,0.4318,True
+430,nb-NO,weather,weather_query,hvordan er været nå,weather_query,0.9985,0.9985,True
+437,nb-NO,play,play_music,åpne mappen bad religion,qa_factoid,0.9973,0.0001,False
+441,nb-NO,news,news_query,hva er de siste nyhetsoverskriftene,social_post,0.9868,0.0061,False
+442,nb-NO,news,news_query,hva skjer i nyhetene,news_query,0.9965,0.9965,True
+451,nb-NO,news,news_query,gi meg siste aksjekurs for europris,qa_factoid,1.0,0.0,False
+473,nb-NO,play,play_music,spill av ompa til du dør,play_music,0.9678,0.9678,True
+486,nb-NO,datetime,datetime_query,hva er klokken i new york city,iot_hue_lightoff,0.5314,0.1521,False
+491,nb-NO,weather,weather_query,er det kaldt ute,weather_query,0.9994,0.9994,True
+506,nb-NO,play,play_music,åpne sanger fra bertine zetlitz,cooking_recipe,0.5342,0.0624,False
+512,nb-NO,weather,weather_query,ved å få karakterer,qa_factoid,0.5387,0.0158,False
+540,nb-NO,play,play_music,spill sangen synget av katy perry,play_music,1.0,1.0,True
+555,nb-NO,play,play_music,sett på hva som helst av delillos,recommendation_events,0.5148,0.0294,False
+576,nb-NO,play,play_music,spill av alt fra spillelisten,play_music,1.0,1.0,True
+585,nb-NO,news,news_query,vis de siste nyhetene,news_query,0.8045,0.8045,True
+588,nb-NO,news,news_query,hva er nye nyheter for i dag,news_query,0.9434,0.9434,True
+590,nb-NO,weather,weather_query,hva er dagens vær,weather_query,0.9963,0.9963,True
+614,nb-NO,play,play_music,start spilleliste,play_music,0.9985,0.9985,True
+625,nb-NO,play,play_music,sett på radio gaga sangen er du snill,play_music,0.9939,0.9939,True
+631,nb-NO,news,news_query,angi varsling for nyheter om dakota rørledning,email_sendemail,0.9291,0.0224,False
+651,nb-NO,iot,iot_hue_lightoff,skru av rom lyset,iot_hue_lightoff,0.6724,0.6724,True
+660,nb-NO,datetime,datetime_query,nåværende tid i japan,qa_factoid,0.4825,0.102,False
+680,nb-NO,news,news_query,hold meg informert om bitcoin prisen,qa_factoid,0.9643,0.0018,False
+686,nb-NO,datetime,datetime_query,hva er klokka nå i new york,weather_query,0.992,0.0027,False
+712,nb-NO,news,news_query,jeg vil høre siste nytt fra n. r. k.,play_podcasts,0.9961,0.0018,False
+726,nb-NO,weather,weather_query,oppsummer ukens værdetaljer,weather_query,0.9964,0.9964,True
+730,nb-NO,iot,iot_hue_lightoff,skru lys av,calendar_remove,0.6372,0.2481,False
+738,nb-NO,weather,weather_query,hvor kaldt er det ute i dag,weather_query,0.9982,0.9982,True
+764,nb-NO,weather,weather_query,hva er værmeldingen for denne uken,weather_query,0.8303,0.8303,True
+765,nb-NO,news,news_query,kan du oppdatere meg på overskriftene fra min nyeste leverandør,qa_factoid,0.4505,0.0373,False
+767,nb-NO,news,news_query,kan du finne siste nyheter fra en kilde jeg ikke bruker til vanlig,news_query,0.7145,0.7145,True
+768,nb-NO,news,news_query,fortell meg om de siste politiske nyhetene,news_query,0.8846,0.8846,True
+779,nb-NO,play,play_music,jeg vil høre snow av red hot chili peppers,iot_hue_lightoff,0.5678,0.0104,False
+781,nb-NO,play,play_music,spill bailando,play_music,0.9994,0.9994,True
+782,nb-NO,play,play_music,spill let me love you by ariana grande,play_music,0.8102,0.8102,True
+783,nb-NO,play,play_music,spill romantiske sanger,play_music,0.9997,0.9997,True
+790,nb-NO,weather,weather_query,mildt eller røft vær,weather_query,0.9982,0.9982,True
+826,nb-NO,weather,weather_query,hva er dagens temperatur ute,weather_query,0.9987,0.9987,True
+827,nb-NO,play,play_music,spill bob dylan spilleliste,play_music,1.0,1.0,True
+832,nb-NO,weather,weather_query,hei hva er det spådde været for i morgen,weather_query,0.9975,0.9975,True
+837,nb-NO,news,news_query,hva er n. r. k. prognosen for neste stortingsvalg,qa_factoid,0.999,0.0,False
+891,nb-NO,play,play_music,spill litt kristen musikk,play_music,1.0,1.0,True
+914,nb-NO,iot,iot_hue_lightoff,slå lys av,iot_hue_lightoff,0.5269,0.5269,True
+936,nb-NO,play,play_music,åpne og spill musikk fra min joggende spilleliste,play_music,1.0,1.0,True
+951,nb-NO,weather,weather_query,hvordan er været i oslo akkurat nå,weather_query,0.9977,0.9977,True
+969,nb-NO,news,news_query,nyhets artikler om et bestemt emne,news_query,0.9982,0.9982,True
+974,nb-NO,datetime,datetime_query,hva er klokken i bergen nå,weather_query,0.9869,0.0102,False
+997,nb-NO,iot,iot_hue_lightoff,slå av lyset i stua,lists_remove,0.4277,0.069,False
+999,nb-NO,iot,iot_hue_lightoff,kan du skru av lyset,iot_hue_lightoff,0.961,0.961,True
+1007,nb-NO,play,play_music,spill creed fra min rock spilleliste,play_music,0.9998,0.9998,True
+1014,nb-NO,datetime,datetime_query,hva er klokken i london akkurat nå,weather_query,0.9872,0.0014,False
+1047,nb-NO,play,play_music,jeg trenger å gråte litt kan du spille triste rock sanger for meg,play_music,0.9998,0.9998,True
+1061,nb-NO,news,news_query,gi meg oppdateringer på sports nyheter,news_query,0.9004,0.9004,True
+1063,nb-NO,news,news_query,få times varsling på sports nyheter,qa_factoid,0.9251,0.0026,False
+1084,nb-NO,news,news_query,brukervennlig,qa_factoid,0.9793,0.0007,False
+1093,nb-NO,news,news_query,gå til nettsiden til aftenposten,social_post,0.977,0.0009,False
+1098,nb-NO,datetime,datetime_query,hvilken ukedag faller den femtende mars på,weather_query,0.8495,0.0003,False
+1108,nb-NO,play,play_music,mitt ønske er å lytte til noe countrymusikk,play_music,1.0,1.0,True
+1115,nb-NO,play,play_music,koordiner alle popsangsjangere,recommendation_events,0.3389,0.0736,False
+1120,nb-NO,news,news_query,er det noe spesielt i politikken,qa_factoid,0.7924,0.0034,False
+1121,nb-NO,play,play_music,spill butterflies av tone damli,play_music,0.9691,0.9691,True
+1123,nb-NO,play,play_music,spill justin bieber's sorry neste,play_music,0.9996,0.9996,True
+1124,nb-NO,play,play_music,gjør klar sias cheap thrills å spille som neste sang,play_music,0.9999,0.9999,True
+1127,nb-NO,play,play_music,spill alle sanger i tilfeldig rekkefølge,play_music,0.9997,0.9997,True
+1144,nb-NO,play,play_music,jeg trenger litt rap,play_music,0.9987,0.9987,True
+1148,nb-NO,datetime,datetime_query,hva er klokka i sydney nå,weather_query,0.7389,0.1789,False
+1156,nb-NO,news,news_query,siste nytt på den internasjonale kvinnedagen,news_query,0.839,0.839,True
+1160,nb-NO,weather,weather_query,hvor kaldt blir det hver natt denne uka,weather_query,0.9996,0.9996,True
+1180,nb-NO,news,news_query,finn dagens aftenposten artikler om solberg,news_query,0.981,0.981,True
+1202,nb-NO,datetime,datetime_query,nåværende tid i new york,weather_query,0.2124,0.1909,False
+1238,nb-NO,play,play_music,pandora,qa_factoid,0.1403,0.0391,False
+1249,nb-NO,weather,weather_query,hvordan vil været sannsynligvis bli denne uken,weather_query,0.9996,0.9996,True
+1252,nb-NO,datetime,datetime_query,si meg hva klokka er nå,weather_query,0.9988,0.0001,False
+1294,nb-NO,news,news_query,gi meg nyhetene om akademipriser,qa_factoid,0.9179,0.012,False
+1301,nb-NO,news,news_query,fortell meg om trumps nye utenrikspolitikk,qa_factoid,0.9629,0.0016,False
+1308,nb-NO,weather,weather_query,finn dagens klimavarsel her,transport_query,0.2823,0.0123,False
+1318,nb-NO,play,play_music,start musikk appen og spill av en låt for meg,play_music,1.0,1.0,True
+1351,nb-NO,weather,weather_query,blir det fint ute denne uka,weather_query,0.9957,0.9957,True
+1371,nb-NO,news,news_query,hva har vi på aftenpostens forside,social_post,0.6798,0.0025,False
+1377,nb-NO,iot,iot_hue_lightoff,slukk lyset i min sønns rom,play_music,0.9687,0.001,False
+1400,nb-NO,weather,weather_query,jeg følger oftest med,social_post,0.5105,0.0003,False
+1401,nb-NO,weather,weather_query,noen ganger følger jeg med,social_post,0.8877,0.0021,False
+1404,nb-NO,weather,weather_query,kan jeg vær så snill få været for i morgen her i mandal,weather_query,0.9432,0.9432,True
+1423,nb-NO,news,news_query,fortell meg om trump,social_post,0.9343,0.0485,False
+1425,nb-NO,news,news_query,gi meg beskjed når du hører om frankrike,email_sendemail,0.442,0.0257,False
+1440,nb-NO,play,play_music,spill av den siste rock sangen som er listet på fjerde eller over,play_music,1.0,1.0,True
+1449,nb-NO,datetime,datetime_query,når er påske i år to tusen og atten,weather_query,0.9979,0.0002,False
+1458,nb-NO,weather,weather_query,hvor varmt er det på hamar,weather_query,0.998,0.998,True
+1467,nb-NO,play,play_music,spill kygo,play_music,0.6188,0.6188,True
+1474,nb-NO,news,news_query,hva er dagens sports nyheter,news_query,0.9894,0.9894,True
+1489,nb-NO,play,play_music,spill av de nyeste sangene av röyksopp,play_music,0.9952,0.9952,True
+1513,nb-NO,weather,weather_query,hva er temperaturen ute,weather_query,0.9877,0.9877,True
+1533,nb-NO,news,news_query,hvilke nyheter har skjedd på n. r. k. i dag,news_query,0.9924,0.9924,True
+1537,nb-NO,datetime,datetime_query,si meg den nåværende tiden i tyskland,weather_query,0.8866,0.1084,False
+1542,nb-NO,weather,weather_query,sola skinner klart vil vi ha dette været for resten av dagen,weather_query,0.9989,0.9989,True
+1546,nb-NO,play,play_music,spill av min summer jams playlist,play_music,0.9997,0.9997,True
+1547,nb-NO,weather,weather_query,hva blir været på min lokasjon denne uken,weather_query,0.9995,0.9995,True
+1549,nb-NO,weather,weather_query,kommer det til å regne denne uken,weather_query,0.9979,0.9979,True
+1554,nb-NO,iot,iot_hue_lightoff,skru av lampene,calendar_remove,0.6646,0.0508,False
+1581,nb-NO,datetime,datetime_query,hva er dagens dato måned år,datetime_query,0.9819,0.9819,True
+1589,nb-NO,weather,weather_query,blir det sol neste tirsdag,weather_query,0.9393,0.9393,True
+1593,nb-NO,news,news_query,angi varsling fra verdensnyheter,news_query,0.9026,0.9026,True
+1594,nb-NO,news,news_query,kan du fortelle meg de siste nyhetene,news_query,0.9975,0.9975,True
+1607,nb-NO,datetime,datetime_query,fortell meg den nåværende tiden i los angeles,weather_query,0.9942,0.0011,False
+1617,nb-NO,news,news_query,når et nytt emne om politikk kommer opp varsle meg,social_post,0.9943,0.0025,False
+1636,nb-NO,news,news_query,vis meg de siste nyhetene fra the guardian,news_query,0.5642,0.5642,True
+1653,nb-NO,weather,weather_query,når er neste gang det kommer til å regne,weather_query,0.9926,0.9926,True
+1655,nb-NO,weather,weather_query,vil det snø i morgen klokka tolv,weather_query,0.9957,0.9957,True
+1666,nb-NO,news,news_query,hva er nyhetene fra dagbladet siste seks timer,news_query,0.9994,0.9994,True
+1671,nb-NO,play,play_music,spill bare all musikk utgitt mellom året ett tusen ni hundre og nitti og to tusen,play_music,0.9999,0.9999,True
+1683,nb-NO,weather,weather_query,morgendagens temperatur er varm ja eller nei,weather_query,0.998,0.998,True
+1684,nb-NO,weather,weather_query,ja eller nei morgendagens temperatur blir høy,weather_query,0.9973,0.9973,True
+1692,nb-NO,play,play_music,finn noe smooth jazz for meg,play_music,0.9986,0.9986,True
+1722,nb-NO,weather,weather_query,hva er minimumstemperaturen i stavanger,qa_factoid,0.7594,0.0232,False
+1750,nb-NO,iot,iot_hue_lightoff,skru av alle lys,lists_remove,0.5901,0.0975,False
+1759,nb-NO,news,news_query,gi meg nyheter om president biden,news_query,0.9991,0.9991,True
+1760,nb-NO,news,news_query,siste nytt om terrorisme,social_post,0.9852,0.0027,False
+1777,nb-NO,play,play_music,neste låt,play_music,0.998,0.998,True
+1784,nb-NO,iot,iot_hue_lightoff,skru av spisestua,calendar_remove,0.6452,0.0254,False
+1786,nb-NO,iot,iot_hue_lightoff,slå av mastersoverommet,calendar_remove,0.7487,0.0416,False
+1794,nb-NO,news,news_query,kommer trump til å beøske russland snart,qa_factoid,0.9927,0.0001,False
+1796,nb-NO,datetime,datetime_query,dagens dato,datetime_query,0.5596,0.5596,True
+1803,nb-NO,news,news_query,hvilke lag som spiller i dag i premier league,qa_factoid,0.7748,0.0118,False
+1811,nb-NO,play,play_music,begynn spillelisten og spill musikk,play_music,1.0,1.0,True
+1832,nb-NO,play,play_music,spill ravi album,play_music,0.9991,0.9991,True
+1833,nb-NO,play,play_music,kan du spille omigjen spillelisten temaer,play_music,1.0,1.0,True
+1866,nb-NO,weather,weather_query,værmelding nå,calendar_remove,0.9397,0.0012,False
+1870,nb-NO,datetime,datetime_query,hvilken måned er det i dag,datetime_query,0.9987,0.9987,True
+1904,nb-NO,news,news_query,gi meg kampens høydepunkter,iot_hue_lightoff,0.9411,0.0009,False
+1933,nb-NO,weather,weather_query,vil det komme et fall i temperatur i kveld,weather_query,0.9986,0.9986,True
+1940,nb-NO,play,play_music,spill sang tittelen,play_music,1.0,1.0,True
+1962,nb-NO,play,play_music,hei google spill spillelisten tullete i min spotify app,play_podcasts,0.469,0.4299,False
+1994,nb-NO,play,play_music,kan du åpne min itunes,play_podcasts,0.4812,0.0087,False
+1995,nb-NO,play,play_music,spill the beatles,play_music,1.0,1.0,True
+2007,nb-NO,play,play_music,spill thirteen vær så snill,play_music,0.9101,0.9101,True
+2062,nb-NO,play,play_music,jeg vil spille litt jazz musikk,play_music,1.0,1.0,True
+2085,nb-NO,play,play_music,alexa jeg vil høre noe klassisk alt utenom bach eller schubert,play_podcasts,0.9879,0.0087,False
+2098,nb-NO,news,news_query,hva skjer i verden i disse dager,weather_query,0.9449,0.029,False
+2108,nb-NO,play,play_music,spill summer lovin neste,play_music,0.9648,0.9648,True
+2113,nb-NO,recommendation,recommendation_events,fortell meg om pågående arrangementer i hjembyen min,recommendation_events,0.9619,0.9619,True
+2146,nb-NO,datetime,datetime_query,hvilken dato ligger vintersolverv på om to år,qa_factoid,0.8332,0.1568,False
+2156,nb-NO,datetime,datetime_query,jeg trenger å vite hva klokka er akkurat nå hva er den,weather_query,0.9227,0.0747,False
+2160,nb-NO,iot,iot_hue_lightoff,jeg skal legge meg nå,calendar_remove,0.9643,0.0057,False
+2178,nb-NO,weather,weather_query,hva er det nåværende værforholdet på mitt sted,weather_query,0.9917,0.9917,True
+2198,nb-NO,datetime,datetime_query,hvilken ukedag var fjerde desember nitten åttito,weather_query,0.7103,0.2581,False
+2201,nb-NO,news,news_query,c. n. n. overskrifter,email_sendemail,0.7952,0.0003,False
+2203,nb-NO,news,news_query,b. b. c. world overskrifter,qa_factoid,0.8841,0.0013,False
+2220,nb-NO,weather,weather_query,været i paris,social_post,0.5943,0.2652,False
+2225,nb-NO,play,play_music,spill ella fitzgerals get happy,play_music,1.0,1.0,True
+2230,nb-NO,iot,iot_hue_lightoff,skru av lys på kjøkken,iot_hue_lightoff,0.6923,0.6923,True
+2237,nb-NO,news,news_query,les de siste internasjonale nyhetene for meg,news_query,0.8546,0.8546,True
+2258,nb-NO,weather,weather_query,trenger jeg genser i dag,iot_hue_lightoff,0.8365,0.0174,False
+2265,nb-NO,weather,weather_query,fortell meg hvordan været er i hamar nå,weather_query,0.9996,0.9996,True
+2271,nb-NO,play,play_music,spill sanger jeg har kjøpt og favorisert,play_music,0.9999,0.9999,True
+2296,nb-NO,news,news_query,hold meg opdatert på dagens poengliste for basketball,news_query,0.8342,0.8342,True
+2298,nb-NO,iot,iot_hue_lightoff,skru av lysene nå,lists_remove,0.3268,0.2476,False
+2315,nb-NO,news,news_query,hva er nyhetene for dagen,news_query,0.9986,0.9986,True
+2316,nb-NO,news,news_query,alexa gi meg nyhetsoverskriftene,social_post,0.9964,0.0006,False
+2320,nb-NO,weather,weather_query,hvordan er været på fredag,weather_query,0.9988,0.9988,True
+2322,nb-NO,weather,weather_query,hva blir været i morgen,weather_query,0.9988,0.9988,True
+2330,nb-NO,datetime,datetime_query,vis lokal tid for london for øyeblikket,weather_query,0.9526,0.0008,False
+2384,nb-NO,news,news_query,hva foregår rundt om i verden,social_post,0.4614,0.0119,False
+2386,nb-NO,news,news_query,gi meg de siste nyhetene,news_query,0.9923,0.9923,True
+2396,nb-NO,play,play_music,start alexander rybak sanger,play_music,0.9092,0.9092,True
+2408,nb-NO,play,play_music,søk etter flere sanger av bandet,play_music,0.997,0.997,True
+2412,nb-NO,datetime,datetime_query,kan du si meg klokken i london,iot_hue_lightoff,0.8026,0.1699,False
+2423,nb-NO,weather,weather_query,vennligst fortell meg dagens værvarsel for oslo by,weather_query,0.9954,0.9954,True
+2438,nb-NO,news,news_query,send tech nyheter,email_sendemail,1.0,0.0,False
+2441,nb-NO,iot,iot_hue_lightoff,skru av lys i skur,iot_hue_lightoff,0.7437,0.7437,True
+2472,nb-NO,datetime,datetime_query,er tiden korrekt for hvor jeg er nå,weather_query,0.641,0.3506,False
+2496,nb-NO,news,news_query,daglige nyheter,news_query,0.9988,0.9988,True
+2497,nb-NO,datetime,datetime_query,i dag er hvilken dato,qa_factoid,0.6048,0.394,False
+2498,nb-NO,datetime,datetime_query,siri i dag er hvilken dato,qa_factoid,0.9592,0.0405,False
+2527,nb-NO,play,play_music,spill klassisk rock,play_music,0.9999,0.9999,True
+2531,nb-NO,play,play_music,alexa spill en rap sang og en rocke sang etter hverandre,play_music,1.0,1.0,True
+2545,nb-NO,weather,weather_query,hvordan er været,weather_query,0.998,0.998,True
+2548,nb-NO,news,news_query,noe interessant fra dagbladet,news_query,0.9753,0.9753,True
+2560,nb-NO,play,play_music,spill av tilfeldig musikk,play_music,0.9998,0.9998,True
+2573,nb-NO,play,play_music,spill danse spillelista mi på spotify,play_music,0.9815,0.9815,True
+2578,nb-NO,iot,iot_hue_lightoff,skru av lysene på veranda,iot_hue_lightoff,0.986,0.986,True
+2588,nb-NO,news,news_query,hva er siste nytt fra n. r. k. vær så snill,news_query,0.8689,0.8689,True
+2594,nb-NO,news,news_query,fortell meg de siste miljø nyhetene,news_query,0.2941,0.2941,True
+2605,nb-NO,play,play_music,spill min favoritt musikk nå,play_music,1.0,1.0,True
+2611,nb-NO,weather,weather_query,nåværende værmelding,calendar_remove,0.8698,0.0052,False
+2615,nb-NO,weather,weather_query,trenger jeg å ha på meg en jakke neste onsdag,iot_hue_lightoff,0.4126,0.0422,False
+2638,nb-NO,news,news_query,vis meg nyheter om støre,news_query,0.9979,0.9979,True
+2639,nb-NO,news,news_query,vis meg nyheter om miljøet,iot_hue_lightoff,0.3232,0.1752,False
+2651,nb-NO,news,news_query,siste nytt fra området,news_query,0.9895,0.9895,True
+2678,nb-NO,weather,weather_query,regner det i kveld,iot_hue_lightoff,0.56,0.1633,False
+2679,nb-NO,weather,weather_query,vil temperaturen holde seg på samme nivå eller vil det bli kaldere,weather_query,0.9419,0.9419,True
+2703,nb-NO,play,play_music,vennligst spill folke musikk,play_music,1.0,1.0,True
+2704,nb-NO,play,play_music,la oss høre på noe indie rock,play_music,1.0,1.0,True
+2708,nb-NO,play,play_music,olly jeg føler fo rå danse sett på noe rock north roll,play_music,0.9997,0.9997,True
+2709,nb-NO,play,play_music,olly jeg trenger å høre på triste sanger i dag,play_music,1.0,1.0,True
+2711,nb-NO,iot,iot_hue_lightoff,skru lysene av,iot_hue_lightoff,0.8141,0.8141,True
+2717,nb-NO,play,play_music,jeg vil høre discodrøv,play_music,0.9999,0.9999,True
+2724,nb-NO,news,news_query,gi meg nyhetene fra n. r. k.,news_query,0.9774,0.9774,True
+2770,nb-NO,play,play_music,olly spill musikk fra sjangeren jazz,play_music,1.0,1.0,True
+2774,nb-NO,iot,iot_hue_lightoff,skru av lysene,lists_remove,0.5994,0.116,False
+2775,nb-NO,iot,iot_hue_lightoff,avbryt bruk av lys,calendar_remove,0.9303,0.0121,False
+2777,nb-NO,weather,weather_query,bør jeg ta med paraply i dag,lists_remove,0.2204,0.0201,False
+2781,nb-NO,play,play_music,vennligst spill noe jazz musikk,play_music,1.0,1.0,True
+2798,nb-NO,play,play_music,alexa spill av låten tynn tråd,play_music,1.0,1.0,True
+2801,nb-NO,datetime,datetime_query,hva er klokken i london,iot_hue_lightoff,0.9844,0.0015,False
+2824,nb-NO,datetime,datetime_query,hvilken dag er trettende desember,weather_query,0.9996,0.0,False
+2840,nb-NO,datetime,datetime_query,den andre i neste måned lander på hvilken dag,weather_query,0.9898,0.0082,False
+2859,nb-NO,datetime,datetime_query,olly hva er klokken i denne byen,weather_query,0.9991,0.0001,False
+2887,nb-NO,news,news_query,vennligst vis meg artikler relatert til vær i morgennyhetene,news_query,0.3622,0.3622,True
+2890,nb-NO,weather,weather_query,nåværende vær,weather_query,0.9977,0.9977,True
+2898,nb-NO,news,news_query,er der noen oppdateringer i forhold til valget,recommendation_events,0.1778,0.0751,False
+2914,nb-NO,datetime,datetime_query,si meg hvilken dato det er i dag,qa_factoid,0.9805,0.018,False
+2917,nb-NO,weather,weather_query,ukentlig værrapport,qa_factoid,0.9608,0.0101,False
+2921,nb-NO,news,news_query,hva er nyhetssakene på n. r. k. sitt nettsted,news_query,0.9997,0.9997,True
+2927,nb-NO,datetime,datetime_query,hva er klokka i austin,iot_hue_lightoff,0.933,0.0004,False
+2931,nb-NO,play,play_music,spill atmosphere som neste,play_music,0.9767,0.9767,True
+2962,nb-NO,play,play_music,vennligst spill av låt av bruno mars,play_music,1.0,1.0,True
+2965,nb-NO,iot,iot_hue_lightoff,skru kontor lysene av,iot_hue_lightoff,0.7622,0.7622,True
+3002,nb-NO,play,play_music,spill sanger av bandet vamp,play_music,1.0,1.0,True
+3031,nb-NO,play,play_music,jeg vil spille sangen en gang til,play_music,0.9999,0.9999,True
+3034,nb-NO,weather,weather_query,fortell meg temperaturen,datetime_query,0.7934,0.142,False
+3037,nb-NO,news,news_query,artikler fra forsiden takk,social_post,0.6555,0.0393,False
+3039,nb-NO,news,news_query,er det noe nytt i nyhetsbildet,social_post,0.7315,0.2448,False
+3060,nb-NO,news,news_query,hva er nyhetene fra den nyehetskilden,news_query,0.9905,0.9905,True
+3091,nb-NO,datetime,datetime_query,hva er klokka i p. s. t.,play_music,0.3423,0.0114,False
+3096,nb-NO,weather,weather_query,hvordan er været i drammen,weather_query,0.9985,0.9985,True
+3098,nb-NO,iot,iot_hue_lightoff,sett lys av,iot_hue_lightoff,0.889,0.889,True
+3099,nb-NO,news,news_query,vis meg noen aktuelle arrangementer,recommendation_events,0.9537,0.0005,False
+3101,nb-NO,news,news_query,olly slå på nyhetene,iot_hue_lightoff,0.9884,0.0049,False
+3116,nb-NO,play,play_music,spill av min favoritt sang fra i fjor,play_music,1.0,1.0,True
+3117,nb-NO,play,play_music,spill noe fra keanes hopes and fears album,play_music,0.9942,0.9942,True
+3118,nb-NO,datetime,datetime_query,hva er østlig standardtid nå,datetime_query,0.753,0.753,True
+3124,nb-NO,play,play_music,spill en tilfeldig sang fra spillelisten min,play_music,0.9999,0.9999,True
+3146,nb-NO,play,play_music,spill spor en fra david bowie spillelisten min,play_music,0.9999,0.9999,True
+3167,nb-NO,iot,iot_hue_lightoff,skru mine soverom lys av,iot_hue_lightoff,0.9883,0.9883,True
+3174,nb-NO,play,play_music,spill musikkspilleliste,play_music,0.9999,0.9999,True
+3205,nb-NO,play,play_music,spill poker face av lady gaga,play_music,0.9871,0.9871,True
+3207,nb-NO,play,play_music,stream poker face av lady gaga,qa_factoid,0.9537,0.0011,False
+3212,nb-NO,calendar,calendar_set,påminn meg om å gjøre noe da,qa_factoid,0.4069,0.0086,False
+3214,nb-NO,news,news_query,hva er status på etterforskning av trumps bånd til russland,qa_factoid,0.7929,0.0013,False
+3228,nb-NO,datetime,datetime_query,hvilken ukedag faller julen på i år,weather_query,0.7796,0.0332,False
+3253,nb-NO,weather,weather_query,bør vi forvente regn i morgen ettermiddag,weather_query,0.9978,0.9978,True
+3264,nb-NO,play,play_music,spill reggae musikk,play_music,1.0,1.0,True
+3305,nb-NO,weather,weather_query,hva er været for denne uka i larvik,weather_query,0.9993,0.9993,True
+3306,nb-NO,weather,weather_query,hva er prognosen for uken,iot_hue_lightoff,0.8357,0.0061,False
+3329,nb-NO,news,news_query,jeg vil se nyheter,news_query,0.9957,0.9957,True
+3337,nb-NO,weather,weather_query,rapporter været for postnummer tjueseks elleve,weather_query,0.9959,0.9959,True
+3338,nb-NO,weather,weather_query,hva er værmeldingen for bergen,weather_query,0.9964,0.9964,True
+3361,nb-NO,datetime,datetime_query,hva er datoen for neste tirsdag,qa_factoid,0.9884,0.0106,False
+3378,nb-NO,iot,iot_hue_lightoff,ingen lys på kjøkkenet,iot_hue_lightoff,0.9085,0.9085,True
+3386,nb-NO,iot,iot_hue_lightoff,skru ned lampene til medium,calendar_remove,0.5732,0.2576,False
+3400,nb-NO,play,play_music,spill en liveversjon av kurt nilsen,play_music,0.9994,0.9994,True
+3401,nb-NO,play,play_music,spill den mest populære sangen med tix,play_music,1.0,1.0,True
+3406,nb-NO,weather,weather_query,hva er værmelding for ti dager,qa_factoid,0.6869,0.0156,False
+3407,nb-NO,weather,weather_query,er det noen prognoser for regn eller snø denne uka,weather_query,0.9732,0.9732,True
+3408,nb-NO,weather,weather_query,blir det fint vær denne helgen,weather_query,0.9846,0.9846,True
+3426,nb-NO,weather,weather_query,hvor mange grader er det ute,weather_query,0.9988,0.9988,True
+3433,nb-NO,play,play_music,ny pop musikk,play_music,0.9994,0.9994,True
+3434,nb-NO,play,play_music,beste rap musikken,qa_factoid,0.8942,0.0766,False
+3441,nb-NO,datetime,datetime_query,er den tjueandre på en onsdag,weather_query,0.6788,0.0001,False
+3444,nb-NO,datetime,datetime_query,er klokka ti,qa_factoid,0.4285,0.3508,False
+3447,nb-NO,weather,weather_query,sier væremeldingen at det vil regne på lørdag,weather_query,0.9994,0.9994,True
+3481,nb-NO,play,play_music,spill de mest populære sangene fra gitt artist,play_music,0.9999,0.9999,True
+3489,nb-NO,play,play_music,spill musikk nå,play_music,1.0,1.0,True
+3492,nb-NO,play,play_music,la oss spille min mest spilte sang liste,play_music,1.0,1.0,True
+3503,nb-NO,weather,weather_query,hvordan er været i karasjok,weather_query,0.9629,0.9629,True
+3507,nb-NO,weather,weather_query,er det snø i værmeldingen,weather_query,0.9889,0.9889,True
+3513,nb-NO,play,play_music,spill bare fra min liste,play_music,0.6974,0.6974,True
+3516,nb-NO,weather,weather_query,hva er sannsynligheten for nedbør i dag,weather_query,0.9313,0.9313,True
+3539,nb-NO,play,play_music,vennligst spill av ompa til du dør av kaizers orchestra,play_music,1.0,1.0,True
+3546,nb-NO,play,play_music,jeg vil gjerne høre noe jazz musikk,play_music,1.0,1.0,True
+3550,nb-NO,play,play_music,ha på noe led zeppelin,iot_hue_lightoff,0.9731,0.0018,False
+3554,nb-NO,play,play_music,kan du ha på kjærlighet spillelisten,play_music,0.9942,0.9942,True
+3562,nb-NO,play,play_music,spill av one more time,play_music,0.9956,0.9956,True
+3566,nb-NO,datetime,datetime_query,hva er klokken i chennai,iot_hue_lightoff,0.917,0.026,False
+3570,nb-NO,iot,iot_hue_lightoff,vennligst skru av lysene på uteplass,iot_hue_lightoff,0.9859,0.9859,True
+3576,nb-NO,news,news_query,hva er den siste historien fra t. v. to nyhetene,news_query,0.8998,0.8998,True
+3586,nb-NO,weather,weather_query,hvordan er været i longyearbyen,weather_query,0.9983,0.9983,True
+3600,nb-NO,calendar,calendar_set,påminn meg etter ti minutter,qa_factoid,0.8322,0.0005,False
+3603,nb-NO,news,news_query,hva er de siste nyhetene fra schibsted,news_query,0.9969,0.9969,True
+3605,nb-NO,news,news_query,hva e de siste nyhetene på c. n. n.,news_query,0.9893,0.9893,True
+3606,nb-NO,datetime,datetime_query,hva er klokken i beijing,iot_hue_lightoff,0.971,0.0064,False
+3614,nb-NO,weather,weather_query,det er en solrik dag i dag,weather_query,0.9881,0.9881,True
+3623,nb-NO,news,news_query,hva skjer i verden i dag,news_query,0.6257,0.6257,True
+3624,nb-NO,news,news_query,nyheter fra n. r. k.,news_query,0.9978,0.9978,True
+3631,nb-NO,play,play_music,hei google spill noe jazz musikk for meg,play_music,1.0,1.0,True
+3686,nb-NO,play,play_music,slå på spillelisten jeg har dedikert til rockmusikk,play_music,1.0,1.0,True
+3714,nb-NO,play,play_music,spill min spilleliste begynn fra bunnen,play_music,1.0,1.0,True
+3717,nb-NO,play,play_music,vennligst spill av min nittitalls rap hits,play_music,0.9955,0.9955,True
+3723,nb-NO,play,play_music,jeg ville likt å høre denne sangen dra tilbake av erik og kriss,play_music,1.0,1.0,True
+3725,nb-NO,datetime,datetime_query,hvilken dato er det i dag,qa_factoid,0.7635,0.2347,False
+3727,nb-NO,play,play_music,sett på hun er fri av raga rockers,play_music,0.8813,0.8813,True
+3750,nb-NO,news,news_query,olly hvis det kommer ut noen nye nyheter om flommen kan du gi meg beskjed med en gang,news_query,0.8431,0.8431,True
+3779,nb-NO,play,play_music,spill av youtube spilleliste frikjent,play_podcasts,0.9616,0.0381,False
+3780,nb-NO,play,play_music,spill av spillelisten min kjærlighetsnatt,play_music,1.0,1.0,True
+3784,nb-NO,weather,weather_query,gi meg en værmelding for tromsø,weather_query,0.9341,0.9341,True
+3785,nb-NO,iot,iot_hue_lightoff,slå av lys på baderommet,iot_hue_lightoff,0.9778,0.9778,True
+3822,nb-NO,news,news_query,finn meg info om biler,recommendation_events,0.5456,0.014,False
+3852,nb-NO,weather,weather_query,hva slags vær er det de har i vennesla akuratt nå,weather_query,0.9992,0.9992,True
+3859,nb-NO,play,play_music,vennligst sett på min favoritt rap musikkspilleliste,play_music,0.8208,0.8208,True
+3907,nb-NO,play,play_music,spill fjorårets hits for meg,play_music,0.6952,0.6952,True
+3911,nb-NO,play,play_music,jeg vil høre en låt som fikk grammys dette året,play_music,1.0,1.0,True
+3912,nb-NO,play,play_music,jeg vil gjerne høre på musikk av dance and country,play_music,1.0,1.0,True
+3936,nb-NO,weather,weather_query,hva er temperaturen,weather_query,0.4652,0.4652,True
+3960,nb-NO,datetime,datetime_query,si tiden,datetime_query,0.9085,0.9085,True
+3967,nb-NO,play,play_music,rap,qa_factoid,0.5852,0.0441,False
+3980,nb-NO,play,play_music,spill shape of you av ed sheeran,play_music,0.6076,0.6076,True
+3982,nb-NO,play,play_music,vennligst velg den første sangen i mitt itunes bibliotek,play_music,0.9504,0.9504,True
+3993,nb-NO,iot,iot_hue_lightoff,kan du få lysene til å slukke,iot_hue_lightoff,0.7939,0.7939,True
+3995,nb-NO,datetime,datetime_query,olly hvilken ukedag er halloween,qa_factoid,0.7955,0.0026,False
+4001,nb-NO,news,news_query,hva skjedde på the walking dead,social_post,0.3549,0.1206,False
+4023,nb-NO,news,news_query,skjer det noe nytt,calendar_remove,0.6577,0.018,False
+4031,nb-NO,play,play_music,spill av splitter pine,play_music,0.9956,0.9956,True
+4040,nb-NO,play,play_music,spill sangen jeg lytter til mest,play_music,1.0,1.0,True
+4058,nb-NO,play,play_music,jeg ønsker å høre litt rap musikk,play_music,0.9999,0.9999,True
+4073,nb-NO,datetime,datetime_query,hvilken dag er den femte,weather_query,0.9929,0.0006,False
+4077,nb-NO,iot,iot_hue_lightoff,skru kjøkken lys av,iot_hue_lightoff,0.4273,0.4273,True
+4088,nb-NO,iot,iot_hue_lightoff,skru av overhead lys,iot_hue_lightoff,0.864,0.864,True
+4104,nb-NO,weather,weather_query,hvordan blir været i dag i sogndal,weather_query,0.9992,0.9992,True
+4116,nb-NO,play,play_music,spill min blandede spilleliste takk,play_music,0.9998,0.9998,True
+4119,nb-NO,news,news_query,jeg vil få beskjed om alt om kommer om flommen i innlandet,social_post,0.5615,0.1477,False
+4132,nb-NO,weather,weather_query,hvor stor prosentvis sjanse er det for regn i oslo i dag,qa_factoid,1.0,0.0,False
+4136,nb-NO,play,play_music,kan du være så snill å set på kan eggum,qa_factoid,0.8904,0.0024,False
+4152,nb-NO,play,play_music,spill sangen velvet vær så snill,play_music,1.0,1.0,True
+4168,nb-NO,weather,weather_query,vennligst sjekk været i kautokeino,weather_query,0.9994,0.9994,True
+4171,nb-NO,iot,iot_hue_lightoff,skru av lys i kjøkken,iot_hue_lightoff,0.4656,0.4656,True
+4177,nb-NO,news,news_query,gi meg de siste politiske overskriftene rundt om i verden,cooking_recipe,0.9743,0.0002,False
+4178,nb-NO,news,news_query,er det noe nytt om presidentskapet,social_post,0.3095,0.0928,False
+4183,nb-NO,datetime,datetime_query,nåværende tid new york,weather_query,0.5499,0.0477,False
+4186,nb-NO,datetime,datetime_query,hei siri hva er klokka,qa_factoid,0.9997,0.0,False
+4187,nb-NO,datetime,datetime_query,hei siri hva er klokka,qa_factoid,0.9997,0.0,False
+4205,nb-NO,play,play_music,jeg vil høre på get it on av turboneger,qa_factoid,0.8409,0.0018,False
+4212,nb-NO,weather,weather_query,vil jeg få anledning til å klippe gresset denne kvelden,cooking_recipe,0.9978,0.0001,False
+4227,nb-NO,weather,weather_query,er det noe regn i varselet for neste uke,weather_query,0.9976,0.9976,True
+4232,nb-NO,play,play_music,spill glow av madcon,play_music,0.9476,0.9476,True
+4236,nb-NO,datetime,datetime_query,er det ettermiddag nå,weather_query,0.9888,0.0006,False
+4253,nb-NO,datetime,datetime_query,hva er den nåværende østlige standardtiden,datetime_query,0.9657,0.9657,True
+4254,nb-NO,datetime,datetime_query,hva er klokka på østkysten av u. s. a.,datetime_query,0.9395,0.9395,True
+4258,nb-NO,news,news_query,hva er siste nytt,news_query,0.4489,0.4489,True
+4266,nb-NO,weather,weather_query,hva er dagens vær,weather_query,0.9963,0.9963,True
+4273,nb-NO,play,play_music,spill sangen aces high,play_music,1.0,1.0,True
+4290,nb-NO,weather,weather_query,burde jeg ta med en jakke i kveld,lists_remove,0.3427,0.0127,False
+4305,nb-NO,play,play_music,spill sangen major tom av david bowie,play_music,1.0,1.0,True
+4309,nb-NO,datetime,datetime_query,om hvor mange timer vil det være midnatt i london england,weather_query,0.9927,0.0063,False
+4312,nb-NO,weather,weather_query,blir det mindre enn ti grader i paris,weather_query,0.9976,0.9976,True
+4313,nb-NO,weather,weather_query,kommer det til å regn i roma i morgen,weather_query,0.999,0.999,True
+4336,nb-NO,datetime,datetime_query,hva er klokka i kina,play_music,0.9243,0.0009,False
+4346,nb-NO,iot,iot_hue_lightoff,skru lys av,calendar_remove,0.6372,0.2481,False
+4347,nb-NO,iot,iot_hue_lightoff,stans fungerende lys,qa_factoid,0.9414,0.0502,False
+4355,nb-NO,weather,weather_query,hvordan er været der jeg er,weather_query,0.9982,0.9982,True
+4361,nb-NO,play,play_music,gi meg noen gode lyder,play_music,0.9868,0.9868,True
+4362,nb-NO,datetime,datetime_query,hva er klokka i stavanger,iot_hue_lightoff,0.4336,0.0044,False
+4376,nb-NO,weather,weather_query,hvordan er det ute i dag,weather_query,0.9987,0.9987,True
+4377,nb-NO,weather,weather_query,hva er det nåværende været,weather_query,0.9988,0.9988,True
+4383,nb-NO,weather,weather_query,hvordan blir været i morgen,weather_query,0.9984,0.9984,True
+4391,nb-NO,news,news_query,hva er overskriftene på c. n. n.,email_query,1.0,0.0,False
+4400,nb-NO,news,news_query,hvilke er de populære artiklene i finansavisen,lists_query,0.9202,0.0087,False
+4402,nb-NO,weather,weather_query,må jeg å ta med en paraply i dag,iot_hue_lightoff,0.2929,0.0237,False
+4412,nb-NO,weather,weather_query,hvordan er været i grimstad,weather_query,0.9985,0.9985,True
+4436,nb-NO,weather,weather_query,hvilken jakke burde jeg gå med,qa_factoid,0.9937,0.0003,False
+4439,nb-NO,weather,weather_query,hvordan er været i oslo,weather_query,0.9988,0.9988,True
+4449,nb-NO,weather,weather_query,vil det regne ved klokken tretten i dag,weather_query,0.9988,0.9988,True
+4452,nb-NO,play,play_music,spill sanger,play_music,0.9989,0.9989,True
+4463,nb-NO,datetime,datetime_query,hvor mange lørdager er det i mars,weather_query,0.9928,0.0006,False
+4477,nb-NO,play,play_music,spill neste sang,play_music,1.0,1.0,True
+4482,nb-NO,weather,weather_query,må jeg måke oppkjørselen denne morgenen,iot_hue_lightoff,0.991,0.0041,False
+4486,nb-NO,weather,weather_query,gi meg værmeldingen for denne uken,cooking_recipe,0.508,0.1198,False
+4487,nb-NO,weather,weather_query,skal det regne på torsdag,weather_query,0.9995,0.9995,True
+4491,nb-NO,news,news_query,hva er siste nytt om trygve vedum,news_query,0.9889,0.9889,True
+4492,nb-NO,news,news_query,hva er den siste kriminalstatistikken for området mitt,qa_factoid,0.4318,0.2847,False
+4496,nb-NO,news,news_query,hva postet vogue i dag,social_post,0.9989,0.0001,False
+4502,nb-NO,datetime,datetime_query,hei hva er tiden i london nå,weather_query,0.9979,0.0005,False
+4524,nb-NO,weather,weather_query,olly hva er værmeldingen i dag,weather_query,0.9963,0.9963,True
+4547,nb-NO,play,play_music,start gå tur med hund-spillelisten,play_music,0.767,0.767,True
+4567,nb-NO,news,news_query,les de siste overskriftene fra v. g. dot n. o. for meg,lists_remove,0.8832,0.0006,False
+4580,nb-NO,datetime,datetime_query,hva er klokken i chicago,iot_hue_lightoff,0.9415,0.0129,False
+4587,nb-NO,play,play_music,spill mine favoritter,qa_factoid,0.9885,0.0012,False
+4589,nb-NO,calendar,calendar_set,legg til en påminnelse for idrettskamp,qa_factoid,0.6387,0.0006,False
+4606,nb-NO,news,news_query,finn informasjon om dagens aksjer,recommendation_events,0.4698,0.0516,False
+4614,nb-NO,weather,weather_query,vil temperaturen overskride førti grader i morgen,weather_query,0.9993,0.9993,True
+4662,nb-NO,news,news_query,nyhetene fra t. v. to alexa,news_query,0.9998,0.9998,True
+4667,nb-NO,datetime,datetime_query,klokka i,cooking_recipe,0.541,0.0038,False
+4680,nb-NO,weather,weather_query,bør jeg ta sandaler eller sko med sokker,lists_remove,0.4607,0.0128,False
+4689,nb-NO,weather,weather_query,kjenner du til været,weather_query,0.9995,0.9995,True
+4692,nb-NO,play,play_music,spill for meg sang av van halen,play_music,1.0,1.0,True
+4710,nb-NO,datetime,datetime_query,hvilken ukedag er halloween i år,weather_query,0.9936,0.004,False
+4764,nb-NO,weather,weather_query,blir det regn på mandag,weather_query,0.9996,0.9996,True
+4767,nb-NO,news,news_query,er det noen ny informasjon om den meksikanske amerikanske grensemuren,news_query,0.4643,0.4643,True
+4772,nb-NO,datetime,datetime_query,gi meg tiden i denne tidssonen,weather_query,0.9979,0.0008,False
+4780,nb-NO,datetime,datetime_query,hvilken dag faller fødselsdag min på i år den tjuesjuende juni,weather_query,0.9069,0.0897,False
+4784,nb-NO,weather,weather_query,trenger jeg jakke,qa_factoid,0.8221,0.0053,False
+4813,nb-NO,datetime,datetime_query,hva er tiden i en annen by,weather_query,0.9967,0.0011,False
+4837,nb-NO,news,news_query,er det noen nyheter,news_query,0.957,0.957,True
+4838,nb-NO,play,play_music,spill av all musikk av karpe diem,play_music,0.9993,0.9993,True
+4871,nb-NO,weather,weather_query,hvordan er det utendørs,iot_hue_lightoff,0.6568,0.2326,False
+4881,nb-NO,datetime,datetime_query,søk for å finne nåværende lokal tid og tidssone,weather_query,0.9775,0.016,False
+4882,nb-NO,datetime,datetime_query,hvilken tid er det i en by,weather_query,0.953,0.0386,False
+4890,nb-NO,calendar,calendar_set,sett varsler om det er noen nåværende værkatastrofer i norge,weather_query,0.9966,0.0001,False
+4909,nb-NO,play,play_music,spill låten av turboneger,play_music,1.0,1.0,True
+4917,nb-NO,weather,weather_query,temperaturen ute,datetime_query,0.982,0.0155,False
+4928,nb-NO,play,play_music,spill mitt lydspor,play_music,0.9999,0.9999,True
+4933,nb-NO,weather,weather_query,vil det regne nå,weather_query,0.9931,0.9931,True
+4951,nb-NO,datetime,datetime_query,jeg vil vite hva klokka er akkurat nå,weather_query,0.5761,0.0308,False
+4953,nb-NO,news,news_query,nyheter om togulykken,news_query,0.9998,0.9998,True
+4957,nb-NO,datetime,datetime_query,hvilken ukedag er tjuetredje denne måneden,weather_query,0.9682,0.01,False
+4960,nb-NO,play,play_music,musikk røyksopp,play_music,0.9976,0.9976,True
+4968,nb-NO,qa,qa_factoid,hvem vant stortingsvalget dette året,qa_factoid,0.9997,0.9997,True
+4973,nb-NO,play,play_music,olly spill av nattens sønner,play_music,0.8165,0.8165,True
+4998,nb-NO,play,play_music,legg til denne sangen som neste sang,play_music,1.0,1.0,True
+5009,nb-NO,weather,weather_query,trenger jeg paraply denne uka,iot_hue_lightoff,0.3923,0.0085,False
+5016,nb-NO,news,news_query,fortell meg nyhetene om opp og nedturer i aksjemarkedet,news_query,0.2982,0.2982,True
+5027,nb-NO,datetime,datetime_query,når er den neste fredag den trettende,weather_query,0.9994,0.0,False
+5037,nb-NO,weather,weather_query,hvor kaldt er det i dag,weather_query,0.9959,0.9959,True
+5038,nb-NO,weather,weather_query,hva blir været denne uken,weather_query,0.9996,0.9996,True
+5040,nb-NO,weather,weather_query,hvordan er været nå,weather_query,0.9985,0.9985,True
+5062,nb-NO,play,play_music,vennligst spill for meg sanger fra åttitallet,play_music,1.0,1.0,True
+5074,nb-NO,weather,weather_query,hvordan var været for uken,weather_query,0.9979,0.9979,True
+5085,nb-NO,weather,weather_query,hva er prognosen for lørdag,iot_hue_lightoff,0.8727,0.0613,False
+5118,nb-NO,play,play_music,nattens sønner,social_post,0.4712,0.0189,False
+5127,nb-NO,news,news_query,her er sannheten om meals on wheels i noens budsjett,cooking_recipe,0.9999,0.0,False
+5131,nb-NO,datetime,datetime_query,fortell meg hva klokken er i sanfranscio,weather_query,0.9657,0.031,False
+5134,nb-NO,play,play_music,finn sanger fra min storbandsspilleliste,play_music,0.9537,0.9537,True
+5156,nb-NO,iot,iot_hue_lightoff,slå av lys i stue,iot_hue_lightoff,0.9466,0.9466,True
+5157,nb-NO,iot,iot_hue_lightoff,olly skru lys av i stue,iot_hue_lightoff,0.9994,0.9994,True
+5158,nb-NO,play,play_music,spill den nyeste sangen fra albumet abba,play_music,1.0,1.0,True
+5159,nb-NO,play,play_music,kan du spille sangen fra artisten madonna vær så snill,play_music,1.0,1.0,True
+5160,nb-NO,play,play_music,kan du være så snill å sette på sangen av michael jackson,play_music,0.9997,0.9997,True
+5176,nb-NO,weather,weather_query,hva slags vær blir det denne uken,weather_query,0.9997,0.9997,True
+5196,nb-NO,news,news_query,jeg vil vite om brexit,qa_factoid,0.9956,0.0,False
+5225,nb-NO,datetime,datetime_query,hva er datoen neste onsdag,qa_factoid,0.8579,0.1225,False
+5243,nb-NO,iot,iot_hue_lightoff,siri slå av lys i baderom,iot_hue_lightoff,0.9766,0.9766,True
+5245,nb-NO,news,news_query,sett nyhetsvarsel om miljø,iot_hue_lightoff,0.5874,0.0045,False
+5270,nb-NO,news,news_query,hva er nåværende siste nytt,lists_query,0.5872,0.0689,False
+5278,nb-NO,play,play_music,vennligst bare spill musikk fra pop mix,play_music,0.9998,0.9998,True
+5279,nb-NO,play,play_music,spill bare triste sanger i musikkspiller,play_music,1.0,1.0,True
+5286,nb-NO,news,news_query,vis t. v. to nyheter om migrasjon,email_sendemail,0.3053,0.0274,False
+5296,nb-NO,news,news_query,olly gi meg populære nyhetene fra b. b. c.,social_post,0.9562,0.0027,False
+5297,nb-NO,news,news_query,gi meg de populære nyhetene fra t. v. to,social_post,0.885,0.0251,False
+5301,nb-NO,weather,weather_query,hva blir været tjuende mars to tusen og sytten,weather_query,0.9998,0.9998,True
+5307,nb-NO,datetime,datetime_query,er det den tjuende mars i dag,weather_query,0.9988,0.0001,False
+5318,nb-NO,play,play_music,vennligst sett på bare rehman's sanger,qa_definition,0.6819,0.002,False
+5321,nb-NO,weather,weather_query,vis været,weather_query,0.994,0.994,True
+5328,nb-NO,play,play_music,rock,qa_factoid,0.5125,0.0155,False
+5339,nb-NO,weather,weather_query,lave kuldeforhold,iot_hue_lightoff,0.8585,0.0993,False
+5341,nb-NO,datetime,datetime_query,varsle meg om tiden,datetime_query,0.9465,0.9465,True
+5347,nb-NO,play,play_music,spill techno musikk,play_music,0.9999,0.9999,True
+5358,nb-NO,datetime,datetime_query,oppdater til riktig klokkeslett,calendar_remove,0.6839,0.0039,False
+5370,nb-NO,news,news_query,hva er den siste trump kontroversen,qa_factoid,0.9594,0.0003,False
+5378,nb-NO,play,play_music,s.,play_radio,0.1383,0.0381,False
+5401,nb-NO,play,play_music,musikk,play_music,0.9998,0.9998,True
+5410,nb-NO,news,news_query,les for meg de siste new york times overskriftene,lists_remove,0.999,0.0001,False
+5411,nb-NO,news,news_query,hva er de beste historiene på n. r. k.,news_query,0.7475,0.7475,True
+5413,nb-NO,play,play_music,spill musikken,play_music,1.0,1.0,True
+5414,nb-NO,play,play_music,vi du skru på musikken,play_music,0.9997,0.9997,True
+5427,nb-NO,datetime,datetime_query,hva er klokken i canada nå,weather_query,0.9741,0.0237,False
+5433,nb-NO,weather,weather_query,kommer det til å regne senere,weather_query,0.9948,0.9948,True
+5439,nb-NO,weather,weather_query,trenger jeg en paraply i natt,iot_hue_lightoff,0.972,0.001,False
+5465,nb-NO,weather,weather_query,kan jeg bruke mine sandaler i dag,qa_factoid,0.6455,0.0005,False
+5468,nb-NO,weather,weather_query,trenger jeg solbriller,lists_remove,0.2188,0.0287,False
+5524,nb-NO,weather,weather_query,været for øyeblikket,cooking_recipe,0.6576,0.0384,False
+5529,nb-NO,weather,weather_query,ved hvilken tid skal jeg gå på tur,calendar_remove,0.6167,0.014,False
+5557,nb-NO,play,play_music,jeg vil ha reggae,play_music,0.9963,0.9963,True
+5577,nb-NO,weather,weather_query,jeg må ha heldekkende jakke hvis det blir for stormfullt i kveld,weather_query,0.9334,0.9334,True
+5578,nb-NO,weather,weather_query,vil jeg trenge varme sokker om morgenen når det er vinter,weather_query,0.9618,0.9618,True
+5584,nb-NO,iot,iot_hue_lightoff,vennligst skru av lysene,iot_hue_lightoff,0.7259,0.7259,True
+5590,nb-NO,weather,weather_query,åpne temperatur,qa_factoid,0.427,0.0568,False
+5593,nb-NO,play,play_music,spill giants av banks and steelz,play_music,0.9981,0.9981,True
+5619,nb-NO,play,play_music,spill forrige sang,play_music,1.0,1.0,True
+5627,nb-NO,play,play_music,spill musikk av beatles for meg,play_music,1.0,1.0,True
+5640,nb-NO,datetime,datetime_query,vis dato,qa_factoid,0.7672,0.0021,False
+5650,nb-NO,weather,weather_query,spør etter været i dag på kveld,weather_query,0.9991,0.9991,True
+5658,nb-NO,play,play_music,spill musikken til the beatles,play_music,1.0,1.0,True
+5661,nb-NO,weather,weather_query,bør jeg ta med regnjakke nå,calendar_remove,0.4568,0.0118,False
+5671,nb-NO,datetime,datetime_query,hva er klokka i las vegas,play_music,0.7749,0.0025,False
+5678,nb-NO,datetime,datetime_query,femtende august er hvilken ukedag,weather_query,0.5282,0.4618,False
+5683,nb-NO,play,play_music,spill min spilleliste festlåter,play_music,0.9998,0.9998,True
+5688,nb-NO,news,news_query,gi meg nyhetsoverskriftene,social_post,0.9825,0.0004,False
+5703,nb-NO,datetime,datetime_query,tiden nå,datetime_query,0.9976,0.9976,True
+5707,nb-NO,play,play_music,hør på mine favoritter,social_post,0.9291,0.0002,False
+5721,nb-NO,weather,weather_query,vis meg morgendagens vær i dette området,weather_query,0.9978,0.9978,True
+5722,nb-NO,weather,weather_query,vis syvdagersprognosen for denne uken,qa_factoid,0.5165,0.01,False
+5732,nb-NO,weather,weather_query,må jeg skifte til vinterdekk snart,iot_hue_lightoff,0.9396,0.0019,False
+5757,nb-NO,datetime,datetime_query,kvart på to,qa_factoid,0.9417,0.0009,False
+5758,nb-NO,weather,weather_query,hvordan er været i hovedstaden,weather_query,0.9981,0.9981,True
+5774,nb-NO,datetime,datetime_query,klokken i sveits,social_post,0.4037,0.0027,False
+5797,nb-NO,weather,weather_query,bør jeg ta på regnjakke før jeg går ut,iot_hue_lightoff,0.6579,0.0165,False
+5813,nb-NO,play,play_music,spill rolig sang,play_music,1.0,1.0,True
+5820,nb-NO,play,play_music,gi ørene mine pleie med tone damli,iot_hue_lightoff,0.9523,0.0451,False
+5837,nb-NO,weather,weather_query,fortell meg denne ukens vær,weather_query,0.9998,0.9998,True
+5871,nb-NO,weather,weather_query,hvordan er klimaet i dag,weather_query,0.9864,0.9864,True
+5886,nb-NO,news,news_query,populært tema,social_post,0.9985,0.0,False
+5919,nb-NO,news,news_query,hva er den siste oppdateringen om forslaget på new york bridge,calendar_remove,0.3224,0.1882,False
+5930,nb-NO,news,news_query,noen siste nyheter fra dagbldet,news_query,0.9719,0.9719,True
+5948,nb-NO,play,play_music,sett på noen bra sanger fra min spilleliste,play_music,0.9518,0.9518,True
+5953,nb-NO,weather,weather_query,er det billigere eller dyrere å bo i byen,qa_factoid,0.2622,0.0668,False
+5955,nb-NO,weather,weather_query,hvor sikker er byen når det gjelder lov og orden,iot_hue_lightoff,0.4142,0.0674,False
+5970,nb-NO,play,play_music,jeg vil at du skal spille for meg bohemian raphsody,play_music,0.9986,0.9986,True
+5985,nb-NO,news,news_query,vis meg siste nytt fra f. n.,play_podcasts,0.5949,0.0998,False
+5996,nb-NO,weather,weather_query,trenger jeg snøskoene mine i ettermiddag,weather_query,0.7895,0.7895,True
+5997,nb-NO,datetime,datetime_query,hva er klokken i den sentrale tidssonen,iot_hue_lightoff,0.8492,0.0037,False
+6023,nb-NO,weather,weather_query,vil det li klamt i natt,iot_hue_lightoff,0.2457,0.0392,False
+6024,nb-NO,weather,weather_query,bør jeg ta på genser eller frakk i dag,lists_remove,0.2134,0.051,False
+6025,nb-NO,weather,weather_query,trenger jeg solkrem i ettermiddag,weather_query,0.8374,0.8374,True
+6027,nb-NO,play,play_music,sett på favoritt sanger,qa_factoid,0.9993,0.0,False
+6039,nb-NO,weather,weather_query,vil det bli en regnfull dag i morgen,weather_query,0.9994,0.9994,True
+6041,nb-NO,iot,iot_hue_lightoff,hey olly skru av lys er du grei,iot_hue_lightoff,0.9984,0.9984,True
+6045,nb-NO,play,play_music,legg til valgt sang,play_music,0.9998,0.9998,True
+6050,nb-NO,weather,weather_query,trenger jeg solkrem etterpå,lists_remove,0.445,0.1345,False
+6055,nb-NO,iot,iot_hue_lightoff,forlot jeg lyset i garasjen på,play_music,0.9996,0.0001,False
+6059,nb-NO,play,play_music,spill rap musikk,play_music,1.0,1.0,True
+6069,nb-NO,weather,weather_query,er det sannsynlig med stormer i dag,weather_query,0.9989,0.9989,True
+6073,nb-NO,iot,iot_hue_lightoff,skru av veranda lys,iot_hue_lightoff,0.8928,0.8928,True
+6074,nb-NO,iot,iot_hue_lightoff,skru av lys på soverom klokka tjueen tretti,iot_hue_lightoff,0.9993,0.9993,True
+6077,nb-NO,news,news_query,jeg vil høre de siste verdens nyhetene fra i dag,play_podcasts,0.999,0.0007,False
+6093,nb-NO,weather,weather_query,er det lurt å åpne soltaket,iot_hue_lightoff,0.6355,0.0149,False
+6103,nb-NO,weather,weather_query,hei hva vil været være i dag i oslo,weather_query,0.9995,0.9995,True
+6116,nb-NO,weather,weather_query,info om denne ukas vær,weather_query,0.9989,0.9989,True
+6118,nb-NO,datetime,datetime_query,hei hva er klokka i dallas texas,iot_hue_lightoff,0.9431,0.0022,False
+6127,nb-NO,weather,weather_query,anbefaler du en paraply,qa_factoid,0.9645,0.0001,False
+6129,nb-NO,news,news_query,hold meg oppdatert med verdens nyhetene,news_query,0.9956,0.9956,True
+6151,nb-NO,weather,weather_query,jeg vil vite dagens vær,weather_query,0.9996,0.9996,True
+6172,nb-NO,weather,weather_query,er solbriller et bra valg for i dag,lists_remove,0.3755,0.0095,False
+6177,nb-NO,weather,weather_query,trenger jeg en paraply i dag,iot_hue_lightoff,0.9231,0.0016,False
+6178,nb-NO,weather,weather_query,bør jeg ha på meg jakke,qa_factoid,0.8678,0.003,False
+6194,nb-NO,weather,weather_query,hvordan er været i dag,weather_query,0.9989,0.9989,True
+6289,nb-NO,weather,weather_query,hei hvordan er været i dag,weather_query,0.9988,0.9988,True
+6370,nb-NO,calendar,calendar_query,hvordan ser min førstkommende uke ut,weather_query,0.9828,0.0007,False
+6372,nb-NO,news,news_query,plantebaserte nyheter,recommendation_events,0.2693,0.2474,False
+6403,nb-NO,transport,transport_query,hvordan komme seg et sted,qa_factoid,0.9621,0.0005,False
+6410,nb-NO,news,news_query,hva skjer i frankrike i dag,news_query,0.8103,0.8103,True
+6411,nb-NO,weather,weather_query,hva er været neste onsdag,weather_query,0.9989,0.9989,True
+6539,nb-NO,calendar,calendar_set,marker i dag som begynnelsen på slankekuren,cooking_recipe,0.4795,0.0084,False
+6542,nb-NO,cooking,cooking_recipe,er myk ost bedre enn hard,cooking_recipe,0.536,0.536,True
+6618,nb-NO,news,news_query,fortell noen interessante nyheter,recommendation_events,0.4043,0.0238,False
+6682,nb-NO,news,news_query,valg i opp,qa_factoid,0.5654,0.0106,False
+6683,nb-NO,news,news_query,økonomiske temaer,lists_query,0.4973,0.031,False
+6713,nb-NO,calendar,calendar_remove,avlys forretningsmøte på onsdag,email_sendemail,1.0,0.0,False
+6722,nb-NO,calendar,calendar_query,er det noe jeg bør bli minnet om,social_post,0.4094,0.0107,False
+6725,nb-NO,calendar,calendar_set,minn meg på min tidsplan for ettermiddagen,calendar_remove,0.3796,0.0313,False
+6726,nb-NO,calendar,calendar_remove,avlys neste møte,qa_factoid,0.68,0.0968,False
+6729,nb-NO,calendar,calendar_remove,avlys frokosten på grand hotel,cooking_recipe,0.9723,0.0026,False
+6732,nb-NO,calendar,calendar_set,legg til påminnelse om møte for søndag med mine svigerforeldre,social_post,0.8586,0.0141,False
+6744,nb-NO,calendar,calendar_set,legg til møte med pål i morgen ti om morgenen,iot_hue_lightoff,0.4048,0.4017,False
+6746,nb-NO,calendar,calendar_set,sett av første uken i juni som ferie i min kalender,calendar_set,0.9994,0.9994,True
+6747,nb-NO,calendar,calendar_query,hvor mange varsler har jeg,qa_factoid,0.5196,0.0245,False
+6755,nb-NO,calendar,calendar_remove,vennligst rens min kalender,calendar_remove,0.7381,0.7381,True
+6761,nb-NO,calendar,calendar_remove,fjern møte klokken ni fra min kalender,calendar_remove,0.9999,0.9999,True
+6764,nb-NO,calendar,calendar_set,minn meg på å vaske vinduene,qa_factoid,0.699,0.0044,False
+6774,nb-NO,calendar,calendar_set,sett et arrangement på fredag,calendar_set,0.9509,0.9509,True
+6785,nb-NO,calendar,calendar_query,hva er min neste påminner,qa_factoid,0.9957,0.0001,False
+6789,nb-NO,calendar,calendar_set,legg til møte med jorid på lørdag fire på ettermiddagen,calendar_set,0.7062,0.7062,True
+6798,nb-NO,calendar,calendar_remove,fjern mitt neste arrangement,calendar_remove,0.4602,0.4602,True
+6801,nb-NO,calendar,calendar_query,vis meg mine møter denne fredagen,social_post,0.6714,0.0014,False
+6806,nb-NO,calendar,calendar_query,vis meg mitt arrangement i kalender denne fredagen på ettermiddag,calendar_remove,0.5888,0.1081,False
+6815,nb-NO,calendar,calendar_set,minn meg på mammas bursdag en uke før,qa_factoid,0.5805,0.0038,False
+6819,nb-NO,calendar,calendar_set,olly det er et bra band som spiller i kveld klokken ni på jazz bar jeg vil dit,play_music,0.9915,0.0004,False
+6836,nb-NO,calendar,calendar_set,påminn meg om møte i morgen klokken seks,weather_query,0.2447,0.1057,False
+6850,nb-NO,calendar,calendar_query,list opp min timeplan i dag,lists_remove,0.5883,0.0001,False
+6856,nb-NO,calendar,calendar_set,gi meg et varsel med påminnelse om morgendagens møte klokken ti,calendar_set,0.3509,0.3509,True
+6860,nb-NO,calendar,calendar_query,er det noen kommende aktiviteter,qa_factoid,0.5795,0.0073,False
+6865,nb-NO,calendar,calendar_set,legg til påminnelse om morgendagens møte klokken ti,calendar_set,0.8214,0.8214,True
+6878,nb-NO,calendar,calendar_set,planlegg et møte med økonomi avdelingen klokken fjorten tretti på fredag,cooking_recipe,0.5966,0.0547,False
+6891,nb-NO,calendar,calendar_query,er det noen morgen forestillinger tilgjengelig,play_podcasts,0.9894,0.0003,False
+6892,nb-NO,calendar,calendar_query,kan du gi meg timeplanen for filmer,qa_factoid,0.5546,0.0016,False
+6897,nb-NO,calendar,calendar_set,påminn meg å plukke opp linda klokken fem på kvelden den syvende,weather_query,0.7425,0.0037,False
+6901,nb-NO,calendar,calendar_set,minn meg på møtet i morgen klokken ti,qa_factoid,0.5024,0.0067,False
+6902,nb-NO,calendar,calendar_set,legg til en påminnelse om oljeskift neste måned,calendar_set,0.2607,0.2607,True
+6909,nb-NO,calendar,calendar_query,hva skjer etter ett og før femten,qa_factoid,0.6841,0.0058,False
+6918,nb-NO,calendar,calendar_remove,slett arrangementer fra kalender,calendar_remove,0.8765,0.8765,True
+6923,nb-NO,calendar,calendar_set,lag påminnelse om å printe dokumentene på tirsdag morning,email_sendemail,0.9427,0.0014,False
+6926,nb-NO,calendar,calendar_query,er det fredag,weather_query,0.9778,0.0005,False
+6928,nb-NO,calendar,calendar_remove,slett alle hendelsene,lists_remove,0.9828,0.0038,False
+6936,nb-NO,calendar,calendar_set,minn meg på å ta min medisin klokken ni,calendar_remove,0.6467,0.0021,False
+6937,nb-NO,calendar,calendar_set,lag påminnelse for middagstid om lunsj med sjef,cooking_recipe,0.9974,0.0005,False
+6946,nb-NO,calendar,calendar_query,er det noen møter neste onsdag,social_post,0.3866,0.0168,False
+6958,nb-NO,calendar,calendar_remove,sørg for at det ikke er noen arrangementer i min kalender,calendar_remove,1.0,1.0,True
+6959,nb-NO,calendar,calendar_set,minn meg på mitt møte en time før det begynner,calendar_remove,0.5504,0.0056,False
+6962,nb-NO,calendar,calendar_set,kan jeg få vite hva jeg skal gjøre neste lørdag klokken atten,calendar_remove,0.2526,0.0159,False
+6964,nb-NO,calendar,calendar_set,kan du minne meg på neste møte med sjefen en time på forhånd,email_sendemail,0.9048,0.0028,False
+6967,nb-NO,calendar,calendar_query,kan du sjekke fakta i denne saken,qa_factoid,0.9992,0.0,False
+6968,nb-NO,calendar,calendar_query,jeg må bekrefte alle møter for i dag med den inviterte personen,calendar_remove,0.2637,0.0092,False
+6973,nb-NO,calendar,calendar_set,legg til en påminnelse om en konferanse i morgen i bergen,calendar_set,0.3565,0.3565,True
+6974,nb-NO,calendar,calendar_set,jeg har en avtale i oslo i morgen påminn meg om det,email_sendemail,0.8746,0.0037,False
+6980,nb-NO,calendar,calendar_query,gi meg en å gjøre liste,lists_remove,0.6613,0.0001,False
+6992,nb-NO,calendar,calendar_query,vis fremtidige hendelser,qa_factoid,0.5326,0.0031,False
+6994,nb-NO,calendar,calendar_set,påminn meg ved,qa_factoid,0.9565,0.0002,False
+6997,nb-NO,calendar,calendar_remove,fjern etterfølgende arrangement,calendar_remove,0.8977,0.8977,True
+7000,nb-NO,calendar,calendar_set,nytt arrangement,lists_remove,0.3025,0.0314,False
+7004,nb-NO,calendar,calendar_set,legg til en påminnelse i min kalender hvert år på denne datoen,calendar_query,0.4936,0.254,False
+7013,nb-NO,calendar,calendar_query,når begynner arrangementet,datetime_query,0.767,0.0028,False
+7014,nb-NO,calendar,calendar_query,gi meg timeplanen for dagens hendelser,weather_query,0.6326,0.0042,False
+7025,nb-NO,calendar,calendar_remove,fjern nyttår fra kalender,calendar_remove,0.9174,0.9174,True
+7026,nb-NO,recommendation,recommendation_events,hvilke arrangementer skjer i byen min denne uka,recommendation_events,0.2668,0.2668,True
+7039,nb-NO,calendar,calendar_set,lag et møte for meg neste tirsdag klokken elleve med tiril,cooking_recipe,0.6525,0.0049,False
+7044,nb-NO,calendar,calendar_set,minn meg på å begynne å gjøre meg klar innen klokken sytten vær så snill,iot_hue_lightoff,0.3876,0.0132,False
+7046,nb-NO,calendar,calendar_set,legg til møte den tjueførste klokken syv,calendar_remove,0.8462,0.0734,False
+7055,nb-NO,calendar,calendar_set,planlegge et møte med matt klokken elleve på torsdag,calendar_remove,0.2764,0.1589,False
+7057,nb-NO,calendar,calendar_set,før opp et lunsjmøte med tore onsdag rundt middagstid,cooking_recipe,0.9557,0.0087,False
+7061,nb-NO,calendar,calendar_set,gi meg en påminnelse tjuefire timer før mitt møte på fredag med edgard,calendar_remove,0.7148,0.0047,False
+7073,nb-NO,calendar,calendar_set,søk i min kalender etter den neste hendelse og gi meg beskjed før den finner sted,calendar_query,0.7317,0.0532,False
+7080,nb-NO,calendar,calendar_remove,avbryt alt på min kalender,calendar_remove,1.0,1.0,True
+7087,nb-NO,calendar,calendar_remove,slett morgendagens møte fra min kalender,calendar_remove,0.9996,0.9996,True
+7098,nb-NO,calendar,calendar_set,legg i min kalender min betaling av bilutgifter den tolvte,calendar_set,0.7941,0.7941,True
+7100,nb-NO,calendar,calendar_set,påminn meg dagen før min bil er klar,weather_query,0.8615,0.0003,False
+7111,nb-NO,calendar,calendar_query,hvilken tid er legetimen den trettiførste mars,weather_query,0.9832,0.0002,False
+7113,nb-NO,calendar,calendar_query,vil det være noen eventer i sentrum denne helgen,social_post,0.7718,0.0051,False
+7117,nb-NO,calendar,calendar_remove,fjern hendelsene den nittende fra min kalender,calendar_remove,0.9926,0.9926,True
+7120,nb-NO,calendar,calendar_query,hvordan er min timeplan i dag,qa_factoid,0.9964,0.0001,False
+7122,nb-NO,calendar,calendar_set,kan du gjenta denne hendelsen,qa_factoid,0.3487,0.0241,False
+7140,nb-NO,calendar,calendar_set,sett en påminner for å minne meg på lunsjmøtet,iot_hue_lightoff,0.8323,0.1325,False
+7141,nb-NO,calendar,calendar_query,er dette programmet i kalenderen,cooking_recipe,0.5103,0.0125,False
+7151,nb-NO,calendar,calendar_set,for hvert oddetallssøndag opprett en påminnelse,email_sendemail,0.5435,0.0046,False
+7152,nb-NO,calendar,calendar_set,sett opp lunsj hver dag klokken halv ett,calendar_set,0.9929,0.9929,True
+7161,nb-NO,calendar,calendar_set,minn meg om denne hendelsen i fremtiden,qa_factoid,0.866,0.0023,False
+7170,nb-NO,calendar,calendar_set,det er min mammas bursdag i dag send meg et varsel hvert år på denne datoen,calendar_remove,0.2183,0.0322,False
+7181,nb-NO,calendar,calendar_set,vekk meg klokken seks torsdag så jeg har tid før møtet,calendar_remove,0.9819,0.0009,False
+7185,nb-NO,calendar,calendar_query,når er min neste time med doktor hansen,recommendation_events,0.3379,0.0078,False
+7189,nb-NO,calendar,calendar_query,har jeg noe planlagt,lists_query,0.5903,0.0056,False
+7194,nb-NO,calendar,calendar_set,jeg har et møte i morgen legg til,iot_hue_lightoff,0.6688,0.1243,False
+7196,nb-NO,calendar,calendar_set,minn meg på møtet med andre den femtende mars,social_post,0.9799,0.0005,False
+7199,nb-NO,calendar,calendar_set,sett et varsel for tre to og en time før neste ukes engelskeksamen,iot_hue_lightoff,0.881,0.1074,False
+7209,nb-NO,calendar,calendar_set,kan du minne meg på å ta ut søpla på tirsdag,calendar_remove,0.957,0.0004,False
+7219,nb-NO,calendar,calendar_query,har du lagt inn påminnelsen om møtet i morgen,calendar_remove,0.984,0.0002,False
+7224,nb-NO,calendar,calendar_query,hvor er stedet der tom skal ha bryllupet sitt,social_post,0.449,0.0105,False
+7232,nb-NO,calendar,calendar_query,hva er hendelsene neste uke,weather_query,0.936,0.0007,False
+7257,nb-NO,calendar,calendar_set,vennligs minn meg på å ringe mamma om en halv time,qa_factoid,0.8692,0.0017,False
+7258,nb-NO,calendar,calendar_set,minn om å sende epost til sjefen etter en time,email_sendemail,1.0,0.0,False
+7262,nb-NO,calendar,calendar_set,opprett en påminnelse for møte i morgen,qa_definition,0.3497,0.035,False
+7266,nb-NO,calendar,calendar_query,hva er mine ventende oppgaver,cooking_recipe,0.2824,0.0279,False
+7278,nb-NO,calendar,calendar_set,minn meg på noras bursdag tjuefire timer før,iot_hue_lightoff,0.7303,0.0006,False
+7287,nb-NO,calendar,calendar_set,minn meg på mitt jubileum en dag i forveien,calendar_remove,0.3401,0.0145,False
+7289,nb-NO,calendar,calendar_remove,bli kvitt alle aktiviteter med jon,lists_remove,0.6005,0.0287,False
+7291,nb-NO,calendar,calendar_set,blokker en time fra ti i morgen tidlig,iot_hue_lightoff,0.8068,0.0078,False
+7292,nb-NO,calendar,calendar_set,jeg er utilgjengelig fra fire til seks på ettermiddagen i morgen marker min kalender,calendar_remove,0.7896,0.124,False
+7293,nb-NO,calendar,calendar_set,planlegg en avtale på en time lørdag,calendar_remove,0.8226,0.0135,False
+7294,nb-NO,calendar,calendar_remove,fjern avtalen med ole hansen fra min kalender,calendar_remove,0.9693,0.9693,True
+7295,nb-NO,calendar,calendar_remove,tøm kalenderen min,calendar_remove,1.0,1.0,True
+7314,nb-NO,calendar,calendar_query,hva skje i dag,weather_query,0.9795,0.0002,False
+7316,nb-NO,calendar,calendar_query,har jeg noen avtaler,recommendation_events,0.4443,0.0079,False
+7319,nb-NO,calendar,calendar_query,hva skjer i dag fra fire på ettermiddagen,weather_query,0.6865,0.0125,False
+7353,nb-NO,email,email_query,bare la meg vite om neste ukes vær i tromsø,weather_query,0.9981,0.0001,False
+7355,nb-NO,calendar,calendar_set,minn meg på å sjekke gryten klokken seks,cooking_recipe,0.3935,0.0062,False
+7380,nb-NO,calendar,calendar_query,vennligst vis dagens møte med kunder,recommendation_events,0.3533,0.009,False
+7397,nb-NO,calendar,calendar_query,er det noen planlagte avtaler de kommende tre månedene,lists_query,0.5721,0.0097,False
+7449,nb-NO,calendar,calendar_set,vennligst planlegg et møte med denne personen,social_post,0.8126,0.0032,False
+7450,nb-NO,calendar,calendar_set,jeg trenger å planlegge et møte med denne personen,social_post,0.4127,0.0106,False
+7455,nb-NO,calendar,calendar_set,minn meg på festen i morgen,iot_hue_lightoff,0.4731,0.0133,False
+7461,nb-NO,calendar,calendar_set,inviter folk til hendelse i kalender,social_post,0.5256,0.0114,False
+7463,nb-NO,calendar,calendar_set,informer gruppen min at den nye datoen for møte er i morgen,qa_factoid,0.5538,0.0014,False
+7467,nb-NO,calendar,calendar_query,gi meg tidene for arrangementene,qa_factoid,0.7829,0.0007,False
+7477,nb-NO,calendar,calendar_set,gi meg en påminnelse den femte mars hvert år om å fikse gaver til bryllupsdagen,lists_remove,0.2579,0.2097,False
+7496,nb-NO,calendar,calendar_query,har jeg noen avtaler i dag,recommendation_events,0.8433,0.0035,False
+7499,nb-NO,calendar,calendar_set,lag en ny avtale for morgendagens møte,calendar_remove,0.9926,0.0061,False
+7500,nb-NO,calendar,calendar_remove,kan du slette det neste arrangementet,calendar_remove,0.8714,0.8714,True
+7502,nb-NO,calendar,calendar_query,hva er på agendaen for møtet klokken seksten med per,calendar_query,0.7488,0.7488,True
+7503,nb-NO,calendar,calendar_query,hvor i oslo er det møtet klokken tretten på fredag,weather_query,0.9687,0.0015,False
+7520,nb-NO,calendar,calendar_set,minn meg på lunsj hver dag klokken fjorten,iot_hue_lightoff,0.2717,0.0124,False
+7524,nb-NO,calendar,calendar_query,hvor mye er stordalen villig til å investere i selskapet mitt i møtet i dag klokken sytten tjue,qa_factoid,0.968,0.0015,False
+7528,nb-NO,calendar,calendar_set,trettende juni er datoen da valgresultatet er ferdig legg inn det,datetime_query,0.9996,0.0001,False
+7531,nb-NO,calendar,calendar_set,vennligst legg til mine lønningsdager,calendar_remove,0.9853,0.008,False
+7539,nb-NO,calendar,calendar_query,har jeg noe planlagt,lists_query,0.5903,0.0056,False
+7542,nb-NO,calendar,calendar_set,vennligst minn meg på dette i morgen,qa_factoid,0.8489,0.0003,False
+7549,nb-NO,calendar,calendar_set,jeg vil ha et møte til klokken tre,calendar_remove,0.7967,0.0126,False
+7556,nb-NO,calendar,calendar_set,legg inn i min kalender å minne meg på å kjøpe dagligvarer hver fredag,calendar_set,0.9974,0.9974,True
+7557,nb-NO,calendar,calendar_set,lag en påminnelse om posisjon a i kalender,calendar_set,0.4566,0.4566,True
+7559,nb-NO,calendar,calendar_set,minn meg på å hente på renseriet i kveld klokken tjue,weather_query,0.3899,0.0094,False
+7563,nb-NO,calendar,calendar_set,påminn meg om møtet i morgen en time før,email_sendemail,0.8313,0.0117,False
+7565,nb-NO,calendar,calendar_set,påminnelse om møte,qa_definition,0.3835,0.0077,False
+7567,nb-NO,calendar,calendar_set,bursdag,email_query,0.155,0.0246,False
+7569,nb-NO,calendar,calendar_query,plan for i morgen,calendar_remove,0.3841,0.0261,False
+7570,nb-NO,calendar,calendar_query,hva er planen for i dag,cooking_recipe,0.9509,0.001,False
+7583,nb-NO,calendar,calendar_set,kompis legg til hendelse i din kalender,iot_hue_lightoff,0.833,0.1647,False
+7596,nb-NO,calendar,calendar_set,vennligst planlegg et møte med håvard på teaterkafeen midt på dagen,email_sendemail,0.6013,0.0176,False
+7598,nb-NO,calendar,calendar_set,vennligst sett opp et møte for å diskutere terrorisme med per på den neste ledige møtedagen,social_post,0.9372,0.0094,False
+7606,nb-NO,calendar,calendar_set,møte med per i morgen klokken tre,email_sendemail,0.5169,0.0146,False
+7609,nb-NO,calendar,calendar_remove,fjern påminnelse om møte tirsdag,social_post,0.9042,0.0278,False
+7613,nb-NO,calendar,calendar_query,hva var det kommende arrangementet,qa_factoid,0.8273,0.0046,False
+7628,nb-NO,calendar,calendar_set,minn meg på å få et nytt lånekort når jeg er på biblioteket,calendar_remove,0.3321,0.0061,False
+7654,nb-NO,calendar,calendar_set,legg til tjuende april som min brors bursdag,calendar_set,0.5102,0.5102,True
+7655,nb-NO,calendar,calendar_set,legg til en påminnelse for tjuende april som er min brors bursdag,cooking_recipe,0.9617,0.0026,False
+7660,nb-NO,calendar,calendar_remove,avlys alle min avtaler etter femten i dag,email_sendemail,0.7788,0.0908,False
+7662,nb-NO,calendar,calendar_query,kan du liste opp mine møter i dag,lists_remove,0.9594,0.0001,False
+7664,nb-NO,calendar,calendar_set,legg til en lunsj med morten,cooking_recipe,0.999,0.0001,False
+7666,nb-NO,calendar,calendar_set,vil du markere at jeg har et møte med tom klokken tre i morgen,calendar_remove,0.4198,0.0296,False
+7680,nb-NO,calendar,calendar_remove,slett alle golf hendelser for inneværende måned i min kalender,lists_remove,0.9984,0.001,False
+7686,nb-NO,calendar,calendar_set,ta med mike og jack i kalenderen med festival,social_post,0.5409,0.4244,False
+7690,nb-NO,calendar,calendar_query,hvilke aktiviteter kommer,lists_query,0.827,0.0024,False
+7693,nb-NO,calendar,calendar_query,har jeg noe planlagt for den tjueførste,email_query,0.3718,0.0073,False
+7697,nb-NO,calendar,calendar_set,sett en påminnelse for dette,qa_definition,0.9382,0.0001,False
+7711,nb-NO,calendar,calendar_set,hei kanseller alle de andre møtene og samtalene mine den andre mars siden det er pers bursdag merk det som feiring i kalenderen din,lists_remove,0.3647,0.0682,False
+7712,nb-NO,calendar,calendar_set,hei olly avlys mine andre møter og samtaler for andre mars da det er truls bursdag merk det som en aktivitet i din kalender,calendar_set,0.7176,0.7176,True
+7718,nb-NO,calendar,calendar_set,hei send en invitasjon til hansen til denne fredagens møte og hold av fredag ettermiddag i min kalender,email_sendemail,1.0,0.0,False
+7726,nb-NO,calendar,calendar_set,jeg trenger noe hver mandag lag en påminnelse om det,lists_remove,0.5588,0.0241,False
+7730,nb-NO,calendar,calendar_set,jeg trenger at du holder av neste mandag,calendar_remove,0.2142,0.0131,False
+7741,nb-NO,calendar,calendar_remove,tøm min kalender for lørdag,calendar_remove,1.0,1.0,True
+7751,nb-NO,calendar,calendar_set,minn meg på å ta ut søpla hver mandag,calendar_remove,0.4934,0.0035,False
+7762,nb-NO,calendar,calendar_query,hvilke påminnelser har jeg,iot_hue_lightoff,0.3771,0.0152,False
+7767,nb-NO,calendar,calendar_set,legg til øvelse i kalenderen den fjerde februar i frognerparken klokken to på dagen,calendar_set,0.9623,0.9623,True
+7768,nb-NO,calendar,calendar_set,legg til trening på bislett stadion fjerde feb klokken fjorten,calendar_set,0.7228,0.7228,True
+7774,nb-NO,calendar,calendar_set,legg til shopping i min kalender for i morgen,calendar_set,0.9982,0.9982,True
+7777,nb-NO,calendar,calendar_query,har jeg en avtale i dag,iot_hue_lightoff,0.6354,0.0007,False
+7778,nb-NO,calendar,calendar_set,påminn med hva jeg skal gjøre på søndag ettermiddag,cooking_recipe,0.7058,0.0603,False
+7808,nb-NO,calendar,calendar_set,minn meg på å ta med mamma til frisøren på torsdag kommen ett på ettermiddagen,weather_query,0.8804,0.0048,False
+7817,nb-NO,calendar,calendar_query,stemmer dette om denne datoen,datetime_query,0.7079,0.0076,False
+7820,nb-NO,calendar,calendar_remove,slett alle arrangementene i kalenderen,lists_remove,0.9988,0.0003,False
+7836,nb-NO,calendar,calendar_remove,slett alle arrangementer,lists_remove,0.9947,0.0001,False
+7843,nb-NO,calendar,calendar_set,gi meg beskjed om to timer at jeg har min fiolintime som er klokken seksten på kulturskolen,iot_hue_lightoff,0.895,0.0006,False
+7844,nb-NO,calendar,calendar_query,hvilke påminnelser har jeg satt,calendar_set,0.0908,0.0484,False
+7847,nb-NO,calendar,calendar_set,gi meg beskjed når registreringen åpner,email_sendemail,0.8644,0.0037,False
+7851,nb-NO,calendar,calendar_set,jeg har et møte klokken tolv i dag,qa_factoid,0.5878,0.0179,False
+7863,nb-NO,calendar,calendar_set,minn meg på å begynne med middag i ettermiddag klokken fem,cooking_recipe,0.4836,0.009,False
+7870,nb-NO,calendar,calendar_remove,slett hendelse fra kalender,calendar_remove,0.9961,0.9961,True
+7876,nb-NO,news,news_query,hva har skjedd de siste to månedene,weather_query,0.8999,0.0469,False
+7878,nb-NO,calendar,calendar_remove,slett min kalender,calendar_remove,0.9973,0.9973,True
+7879,nb-NO,calendar,calendar_query,hva er mine tre neste arrangementer,cooking_recipe,0.6481,0.0058,False
+7889,nb-NO,calendar,calendar_query,hvilken tid er fotballkampen i kveld,weather_query,0.9806,0.0057,False
+7890,nb-NO,calendar,calendar_remove,fjern hårklipp i dag,iot_hue_lightoff,0.975,0.0011,False
+7891,nb-NO,calendar,calendar_remove,avlys middag i kveld,iot_hue_lightoff,0.754,0.024,False
+7892,nb-NO,calendar,calendar_remove,slett det neste arrangementet i dag,calendar_remove,0.8025,0.8025,True
+7894,nb-NO,calendar,calendar_set,gi meg en oppdatering på valget om en time,calendar_remove,0.5254,0.031,False
+7902,nb-NO,calendar,calendar_set,sett opp et møte mellom john og meg selv klokken to i morgen,calendar_set,0.9336,0.9336,True
+7908,nb-NO,calendar,calendar_query,må jeg gjøre noe i dag,cooking_recipe,0.8713,0.0158,False
+7912,nb-NO,calendar,calendar_remove,aøexa fjern middag med knut fra min kalender,calendar_remove,0.9936,0.9936,True
+7916,nb-NO,calendar,calendar_set,varsle meg til å ta ut søppla klokken atten,calendar_remove,0.6628,0.0029,False
+7918,nb-NO,calendar,calendar_set,send invitasjon til hendelse i kalender til per hansen,email_sendemail,0.923,0.0376,False
+7919,nb-NO,calendar,calendar_set,nytt møte legg til knut og anne som deltakere,social_post,0.8569,0.001,False
+7922,nb-NO,calendar,calendar_remove,åpne kalender slett fremtidige hendelser,calendar_remove,0.8818,0.8818,True
+7927,nb-NO,calendar,calendar_query,hva har jeg å gjøre denne uken,cooking_recipe,0.5293,0.0256,False
+7946,nb-NO,calendar,calendar_query,hva er de kommende konsertene i oslo,play_music,0.9922,0.0001,False
+7953,nb-NO,calendar,calendar_remove,fjern min avtale med legen min på lørdag er du snill,calendar_remove,0.6896,0.6896,True
+7955,nb-NO,calendar,calendar_set,legg til denne hendelsen så den gjentas i min kalender,calendar_set,0.7917,0.7917,True
+7956,nb-NO,calendar,calendar_set,kan du gjøre denne hendelsen gjentakende,qa_factoid,0.619,0.0086,False
+7966,nb-NO,calendar,calendar_query,ba jeg deg om å påminne meg om noe,social_post,0.5185,0.0003,False
+7970,nb-NO,calendar,calendar_set,minn meg på bryllupet i tide til å kjøpe en presang,qa_factoid,0.5607,0.0117,False
+7971,nb-NO,calendar,calendar_set,lag en påminnelse for to dager før hendelsen,calendar_remove,0.3084,0.0081,False
+7975,nb-NO,calendar,calendar_query,er det parkeringstjeneste på arrangementet,transport_query,0.2266,0.0378,False
+7978,nb-NO,calendar,calendar_query,hvilke påminnelser har jeg planlagt før tolv i morgen,iot_hue_lightoff,0.287,0.0281,False
+7980,nb-NO,calendar,calendar_set,fortell meg når jeg har et arrangement,datetime_query,0.9323,0.001,False
+7981,nb-NO,calendar,calendar_set,send et varsel før møtet,iot_hue_lightoff,0.9176,0.026,False
+7993,nb-NO,calendar,calendar_remove,slett alle hendelser i min kalender,lists_remove,1.0,0.0,False
+8001,nb-NO,calendar,calendar_remove,kan du slette den frisørtimen jeg har planlagt på fredag,calendar_remove,0.9564,0.9564,True
+8004,nb-NO,calendar,calendar_set,eva må snakke med meg om skilsmissen vår kan du vennligst sette opp et møte så snart jeg er ledig,email_sendemail,0.9995,0.0,False
+8005,nb-NO,calendar,calendar_set,jeg trenger å ha en samtale med greg mandag den tjuende om helgeturen vår,social_post,0.8944,0.0013,False
+8013,nb-NO,calendar,calendar_query,vis meg mitt møte neste måned,social_post,0.7429,0.0006,False
+8029,nb-NO,calendar,calendar_query,hvilke kommende aktiviteter er det i dag,qa_factoid,0.4995,0.0207,False
+8033,nb-NO,datetime,datetime_query,hvilken dag er det påske,weather_query,0.9975,0.0015,False
+8035,nb-NO,calendar,calendar_set,minn meg på at jeg må skifte olje,qa_factoid,0.7827,0.0033,False
+8037,nb-NO,calendar,calendar_set,minn meg på noe en gang,qa_factoid,0.7202,0.002,False
+8042,nb-NO,calendar,calendar_query,hvor mange personer er med på mitt neste møte,qa_factoid,0.6847,0.0117,False
+8043,nb-NO,calendar,calendar_query,når er min neste avtale,weather_query,0.5948,0.0006,False
+8044,nb-NO,calendar,calendar_query,hva er på min timeplan i dag,qa_factoid,0.9156,0.0008,False
+8055,nb-NO,calendar,calendar_remove,slett min avtale for syvende mars,iot_hue_lightoff,0.7465,0.0007,False
+8056,nb-NO,calendar,calendar_query,har jeg en date på fredag,datetime_query,0.9228,0.0028,False
+8058,nb-NO,calendar,calendar_query,har jeg et salgsmøte i dag,qa_factoid,0.7866,0.002,False
+8073,nb-NO,calendar,calendar_set,planlegg et salgsmøte onsdag elleve om morgenen,cooking_recipe,0.839,0.0167,False
+8079,nb-NO,calendar,calendar_set,sett en påminner om en time for å steke brødet mitt,cooking_recipe,1.0,0.0,False
+8084,nb-NO,calendar,calendar_query,hva er agendaen for aktiviteten,calendar_set,0.9551,0.0198,False
+8085,nb-NO,calendar,calendar_set,jeg vil lage en avtale denne uken,qa_factoid,0.8315,0.0007,False
+8100,nb-NO,email,email_sendemail,send epost til mine avtaler om å ombooke,email_sendemail,1.0,1.0,True
+8107,nb-NO,calendar,calendar_set,legg til en bursdags hendelse for martin,cooking_recipe,0.3815,0.109,False
+8110,nb-NO,calendar,calendar_set,legg til tilsyn på min kalender,calendar_set,0.9982,0.9982,True
+8116,nb-NO,calendar,calendar_query,i løpet av tidsrammen første februar og sekstende mars hvilke møter fant sted,news_query,0.8898,0.0016,False
+8119,nb-NO,calendar,calendar_query,hvor skal maris bursdagsfest være,weather_query,0.7677,0.0182,False
+8125,nb-NO,calendar,calendar_set,lag en møte aktivitet i min kalender,calendar_remove,0.9521,0.0179,False
+8126,nb-NO,calendar,calendar_set,planlegg en møte hendelse i kalenderen min,recommendation_events,0.3668,0.1877,False
+8129,nb-NO,calendar,calendar_query,hvilke påminnelser har jeg fortsatt,qa_factoid,0.0887,0.0495,False
+8140,nb-NO,calendar,calendar_set,legg til en påminnelse den trettende at jeg spiser lunsj med ole,cooking_recipe,0.9776,0.0005,False
+8148,nb-NO,calendar,calendar_query,har jeg lagt igjen noen påminelser til meg selv,qa_factoid,0.8672,0.0042,False
+8150,nb-NO,calendar,calendar_query,har jeg noen påminnelse om bursdagsfest,email_sendemail,0.3327,0.0151,False
+8165,nb-NO,calendar,calendar_query,er det et møte om ti minutter klokken tolv null null,calendar_remove,0.4606,0.0591,False
+8182,nb-NO,calendar,calendar_remove,kan du slette tannlegetimen,cooking_recipe,0.8169,0.0013,False
+8188,nb-NO,calendar,calendar_query,hvilken dato er det,qa_factoid,0.9154,0.0,False
+8204,nb-NO,calendar,calendar_set,vennligst minn meg på å gå til postkontoret,qa_factoid,0.9911,0.0001,False
+8206,nb-NO,calendar,calendar_set,ikke la meg glemme å kjøpe en gave for min søster,calendar_remove,0.5027,0.0071,False
+8230,nb-NO,calendar,calendar_query,hvor langt er mitt lunsjmøte på tirsdag,weather_query,0.5465,0.0026,False
+8241,nb-NO,calendar,calendar_remove,fjern alt fra min kalender resten av året,calendar_remove,0.9999,0.9999,True
+8245,nb-NO,calendar,calendar_set,jeg trenger å få beskjed om gudstjenester på søndager lokken elleve,email_sendemail,1.0,0.0,False
+8248,nb-NO,calendar,calendar_set,legg til morgendagens avtale om middag i kalenderen,calendar_set,0.99,0.99,True
+8251,nb-NO,calendar,calendar_set,jeg trenger neste ukes lunsj i kalenderen,calendar_remove,0.6187,0.037,False
+8260,nb-NO,calendar,calendar_set,vær så snill og gi meg beskjed en dag før jeffs bursdag,email_sendemail,0.9993,0.0,False
+8261,nb-NO,calendar,calendar_set,send meg et varsel en time før neste aktivitet,email_sendemail,0.9991,0.0,False
+8269,nb-NO,calendar,calendar_set,tretti minutter påminnelse for møte tirsdag,calendar_remove,0.3235,0.017,False
+8276,nb-NO,calendar,calendar_remove,fjern min neste planlagte avtale er du snill,qa_factoid,0.7875,0.0739,False
+8280,nb-NO,calendar,calendar_set,jeg trenger å legge inn en påminnelse den femtende mars,weather_query,0.2749,0.0334,False
+8284,nb-NO,calendar,calendar_remove,fjern bursdag fra kalender,calendar_remove,0.9964,0.9964,True
+8289,nb-NO,calendar,calendar_set,sett en påminnelse om dagens fakultetsmøte klokken fire,calendar_set,0.8435,0.8435,True
+8290,nb-NO,calendar,calendar_set,åpne en påminnelse om neste ukers sjefsmøte på tirsdag,calendar_remove,0.3909,0.1222,False
+8294,nb-NO,calendar,calendar_set,legg til i kalender og gjenta,calendar_set,0.9994,0.9994,True
+8300,nb-NO,calendar,calendar_set,lagre hendelse sytten til atten den attende mars,weather_query,0.6151,0.001,False
+8302,nb-NO,calendar,calendar_remove,fjern møte neste mandag,calendar_remove,0.7708,0.7708,True
+8308,nb-NO,news,news_query,i går ved middagstid i times square hva var protesten om,social_post,0.9222,0.0108,False
+8336,nb-NO,calendar,calendar_query,når er min brunsj med mona,iot_hue_lightoff,0.5423,0.0023,False
+8343,nb-NO,datetime,datetime_query,er det onsdag,weather_query,0.5281,0.0173,False
+8345,nb-NO,calendar,calendar_set,gi meg beskjed når møtet skal finne sted,qa_factoid,0.5194,0.0087,False
+8347,nb-NO,calendar,calendar_query,hva skjer den fjerde desember,weather_query,0.7895,0.0059,False
+8358,nb-NO,calendar,calendar_set,påminn meg om dette,qa_factoid,0.7224,0.0057,False
+8366,nb-NO,calendar,calendar_set,gjør attende mars til en gjentakende avtale for lines bursdag,lists_remove,0.3597,0.0217,False
+8387,nb-NO,calendar,calendar_set,lag påminnelse for klesvask klokken tjue,iot_hue_lightoff,0.9372,0.0003,False
+8388,nb-NO,calendar,calendar_set,jeg vil ordne klesvasken klokken åtte på kvelden lag påminnelse,lists_remove,0.4625,0.0143,False
+8390,nb-NO,calendar,calendar_set,minn meg på mitt møte den,qa_factoid,0.9743,0.0004,False
+8394,nb-NO,calendar,calendar_set,sett en påminnelse hver dag ved tolv om å ta medisin,calendar_set,0.5319,0.5319,True
+8404,nb-NO,calendar,calendar_query,jeg vil vite mer om denne hendelsen,qa_definition,0.9914,0.0003,False
+8409,nb-NO,calendar,calendar_remove,slett min middag i morgen,calendar_remove,0.9989,0.9989,True
+8410,nb-NO,calendar,calendar_remove,fjern mitt middags selskap mandag,iot_hue_lightoff,0.4957,0.2747,False
+8413,nb-NO,calendar,calendar_set,vennligst varsle meg,qa_factoid,0.9967,0.0,False
+8414,nb-NO,calendar,calendar_set,påminn meg om å gå til middagen med dave på fredag klokken sytten,email_sendemail,0.8167,0.0116,False
+8415,nb-NO,calendar,calendar_set,legg til et møte på kontoret med olav klokken femten på tirsdag,iot_hue_lightoff,0.8233,0.1171,False
+8426,nb-NO,calendar,calendar_query,fortell meg aktuelle aktiviteter mellom i går og denne morgenen,recommendation_events,0.6154,0.0191,False
+8430,nb-NO,calendar,calendar_remove,avlys alle mine timer,lists_remove,0.397,0.3177,False
+8431,nb-NO,calendar,calendar_remove,fjern alle mine planlagte events,calendar_remove,0.9899,0.9899,True
+8436,nb-NO,calendar,calendar_set,vennligst legg til lunsjmøte klokken tolv hver onsdag i mars,calendar_set,0.6091,0.6091,True
+8442,nb-NO,calendar,calendar_set,vennligst endre min kalender med denne hendelsen,calendar_set,0.6021,0.6021,True
+8449,nb-NO,calendar,calendar_set,legg til en påminnelse for min datters bursdag,cooking_recipe,0.6093,0.1351,False
+8453,nb-NO,calendar,calendar_set,vennligst legg til event i min kalender og merk det som gjentakende event,calendar_set,0.9861,0.9861,True
+8460,nb-NO,calendar,calendar_query,vis meg alle mine arrangementer,recommendation_events,0.9849,0.0002,False
+8461,nb-NO,calendar,calendar_query,hva er mine planer for mai måned,iot_hue_lightoff,0.373,0.0073,False
+8466,nb-NO,calendar,calendar_set,jeg har et møte klokken ni på onsdag send en påminnelse til meg,social_post,0.5303,0.0085,False
+8469,nb-NO,calendar,calendar_query,hva er planlagt i min kalender i dag,calendar_remove,0.4863,0.0272,False
+8474,nb-NO,calendar,calendar_set,legg til janes bursdagsselskap i morgen klokken fjorten i bogstadveien tre i min kalender,calendar_remove,0.5784,0.4016,False
+8494,nb-NO,calendar,calendar_query,hvordan ser min timeplan ut i dag,qa_factoid,0.9983,0.0001,False
+8496,nb-NO,calendar,calendar_query,fortell meg om mine møter i morgen tidlig,social_post,0.9173,0.0026,False
+8498,nb-NO,calendar,calendar_query,la oss gå igjennom alle ventende påminnelser,lists_remove,0.4972,0.0111,False
+8516,nb-NO,calendar,calendar_remove,slett oppføring i kalender,calendar_remove,1.0,1.0,True
+8520,nb-NO,calendar,calendar_set,legg til arrangement i kalender appen,calendar_set,0.9986,0.9986,True
+8525,nb-NO,calendar,calendar_query,påminnelse om møte fra tre til fem,qa_definition,0.9571,0.0012,False
+8535,nb-NO,calendar,calendar_set,vil du minne meg på tannlegetimen jeg har om to timer,iot_hue_lightoff,0.7245,0.0069,False
+8539,nb-NO,calendar,calendar_set,minn meg på,qa_factoid,0.5281,0.0005,False
+8541,nb-NO,calendar,calendar_set,påminn meg er du snill,qa_factoid,0.9995,0.0,False
+8553,nb-NO,calendar,calendar_set,legg til et møte med tom i min kalender klokken ni på morgenen,iot_hue_lightoff,0.306,0.2545,False
+8559,nb-NO,calendar,calendar_query,har jeg noe planlagt for i dag,lists_query,0.6683,0.0072,False
+8562,nb-NO,calendar,calendar_remove,slett mitt møte klokka to på ettermiddagen i dag,calendar_remove,0.9856,0.9856,True
+8568,nb-NO,calendar,calendar_set,kan du sende en kalenderinvitasjon til truls og merete om brunsj klokken elleve på tirsdag,calendar_set,0.7371,0.7371,True
+8570,nb-NO,calendar,calendar_set,vil du legge inn at jeg er opptatt med en avtale i morgen klokken fjorten,iot_hue_lightoff,0.332,0.0129,False
+8579,nb-NO,calendar,calendar_query,hva for informasjon skal jeg være klar over før mine møter i dag,email_query,0.3414,0.0165,False
+8585,nb-NO,calendar,calendar_set,minn meg på at jeg har et bursdagsselskap den trettiende,qa_factoid,0.9935,0.0003,False
+8598,nb-NO,calendar,calendar_set,påminn meg om å hente ole ved flyplassen klokken atten,transport_query,0.5294,0.0006,False
+8618,nb-NO,calendar,calendar_set,minn meg på å vanne plantene mine hver tirsdag torsdag og lørdag,cooking_recipe,0.7996,0.0092,False
+8631,nb-NO,calendar,calendar_remove,slett det fra min kalender,calendar_remove,0.9972,0.9972,True
+8635,nb-NO,calendar,calendar_set,kan du minne meg på å bestille kalkunen tre uker før nyttårsaften,calendar_remove,0.2355,0.0072,False
+8640,nb-NO,calendar,calendar_set,jeg vil lage et notat i min kalender for arrangementet i morgen på biblioteket,calendar_set,0.9859,0.9859,True
+8642,nb-NO,calendar,calendar_set,legg til konferansesamtale klokken fire på ettermiddagen til mine påminnelser for i dag,calendar_set,0.9244,0.9244,True
+8651,nb-NO,calendar,calendar_set,gi meg beskjed om arrangementet i min kalender,calendar_remove,0.5361,0.4034,False
+8653,nb-NO,calendar,calendar_set,påminn meg om hendelsen i min kalender,calendar_remove,0.3748,0.2797,False
+8666,nb-NO,calendar,calendar_remove,slett alle hendelser fra min kalender,lists_remove,0.9999,0.0001,False
+8667,nb-NO,calendar,calendar_query,hvor mange møter hadde jeg med fredriksen de siste tre månedene,social_post,0.2553,0.032,False
+8670,nb-NO,calendar,calendar_remove,fjern hendelser fra kalender,news_query,0.4977,0.108,False
+8672,nb-NO,calendar,calendar_query,når er neste kiss konsert,play_music,0.3676,0.0227,False
+8674,nb-NO,calendar,calendar_query,hvor er mitt møte klokken ni,weather_query,0.2377,0.0146,False
+8679,nb-NO,calendar,calendar_query,er det saint patricks day i dag,calendar_remove,0.5423,0.1789,False
+8681,nb-NO,calendar,calendar_query,er det noens fødselsdag,qa_factoid,0.9991,0.0,False
+8694,nb-NO,calendar,calendar_set,per og line blir med på arrangementet,qa_factoid,0.2414,0.0282,False
+8730,nb-NO,calendar,calendar_set,vennligst sett en påminnelse i min kalender for mitt møte den fem og tyvende mars,calendar_remove,0.9519,0.0422,False
+8732,nb-NO,calendar,calendar_remove,slett alle avtaler,lists_remove,0.8762,0.0544,False
+8762,nb-NO,calendar,calendar_query,fortell meg min timeplan senere denne ettermiddagen,calendar_remove,0.5246,0.0677,False
+8765,nb-NO,calendar,calendar_set,føre opp min middag på teaterkafeen i min kalender i dag klokken ni,calendar_set,0.9752,0.9752,True
+8766,nb-NO,calendar,calendar_query,har jeg et møte på lørdag den tjuefemte,social_post,0.9597,0.0013,False
+8767,nb-NO,calendar,calendar_query,er jessicas bursdag den tolvte april,weather_query,0.4912,0.0113,False
+8769,nb-NO,calendar,calendar_remove,slette fremtidig hendelse,iot_hue_lightoff,0.9966,0.0003,False
+8771,nb-NO,calendar,calendar_remove,slett handleturen jeg har planlagt tjueandre mars,calendar_remove,0.7603,0.7603,True
+8774,nb-NO,calendar,calendar_query,er min timeplan den syvende juli helt åpen,calendar_remove,0.9152,0.0032,False
+8781,nb-NO,calendar,calendar_query,er jeg ledig klokken seksten,iot_hue_lightoff,0.9966,0.0001,False
+8782,nb-NO,calendar,calendar_query,har jeg et møte denne ettermiddagen,social_post,0.3581,0.0287,False
+8791,nb-NO,calendar,calendar_query,mer informasjon om denne hendelsen,qa_definition,0.8242,0.0058,False
+8795,nb-NO,calendar,calendar_query,vis pågående påminnelser,news_query,0.0911,0.0476,False
+8822,nb-NO,recommendation,recommendation_events,info om det kommende arrangementet,recommendation_events,0.2397,0.2397,True
+8824,nb-NO,calendar,calendar_query,hva har jeg planlagt for den nittende klokken to på dagen,weather_query,0.4847,0.0261,False
+8825,nb-NO,calendar,calendar_set,send meg en påminner om mitt møte med tom neste fredag,email_sendemail,1.0,0.0,False
+8828,nb-NO,calendar,calendar_query,er kalender hendelsen riktig,calendar_remove,0.9929,0.0037,False
+8846,nb-NO,calendar,calendar_query,har jeg noe satt opp for den fjerde juli i år,calendar_set,0.4339,0.0118,False
+8853,nb-NO,calendar,calendar_remove,slett min neste aktivitet,qa_factoid,0.7282,0.0007,False
+8856,nb-NO,calendar,calendar_remove,slett alle oppføringer i kalender,calendar_remove,0.9411,0.9411,True
+8857,nb-NO,calendar,calendar_set,minn meg på møte med jahn teigen,social_post,0.994,0.0002,False
+8868,nb-NO,calendar,calendar_set,minn meg på å ringe mamma hver tirsdag klokken ti,email_sendemail,0.939,0.001,False
+8880,nb-NO,calendar,calendar_set,sett en påminnelse om morgendagens møte klokken ni,calendar_set,0.8908,0.8908,True
+8888,nb-NO,calendar,calendar_remove,slett det,qa_factoid,0.9431,0.0005,False
+8900,nb-NO,calendar,calendar_set,sett gjentakende påminnelse hver søndag,calendar_set,0.7095,0.7095,True
+8904,nb-NO,calendar,calendar_query,informasjon om nylige hendelser,news_query,0.9964,0.0002,False
+8906,nb-NO,calendar,calendar_set,legg til hendelse i kalender sammen med andre,calendar_set,0.9611,0.9611,True
+8907,nb-NO,calendar,calendar_set,hendelse sammen med andre i kalender,email_sendemail,1.0,0.0,False
+8912,nb-NO,calendar,calendar_query,vis meg dagens kalender aktiviteter etter klokken atten,calendar_query,0.8773,0.8773,True
+8914,nb-NO,calendar,calendar_query,ved hvilken tid er min avtale den fjerde april,datetime_query,0.8479,0.0026,False
+8916,nb-NO,calendar,calendar_query,hva er min timeplan for dagen,qa_factoid,0.6519,0.0037,False
+8925,nb-NO,calendar,calendar_remove,slett alle hendelser i min kalender,lists_remove,1.0,0.0,False
+8939,nb-NO,calendar,calendar_set,annes datters baby shower,email_query,0.5271,0.0116,False
+8948,nb-NO,calendar,calendar_set,opprett oppføring for møte med per,cooking_recipe,0.5372,0.0108,False
+8949,nb-NO,calendar,calendar_remove,slett resten,lists_remove,0.9998,0.0,False
+8958,nb-NO,calendar,calendar_query,åpne møte tider,calendar_set,0.972,0.0035,False
+8960,nb-NO,calendar,calendar_set,jeg vil at du gir en påminnelse om kvelden om kommende møte,email_sendemail,0.5155,0.0055,False
+8967,nb-NO,calendar,calendar_set,minn meg på min kones bursdag to dager før,social_post,0.8441,0.0002,False
+8968,nb-NO,calendar,calendar_set,fortell meg noe jeg skal minnes på denne uken,news_query,0.3097,0.0125,False
+8975,nb-NO,calendar,calendar_query,hva er møteplanen for i dag,calendar_set,0.7138,0.1576,False
+8977,nb-NO,calendar,calendar_set,legg inn påminnelser om ventende regningsbetalinger,lists_remove,0.3292,0.1946,False
+8978,nb-NO,calendar,calendar_set,bare minn meg på det viktige møter med sjefen min i løpet av uka,social_post,0.7174,0.0045,False
+8985,nb-NO,calendar,calendar_remove,ok google slett erics bursdag fra kalenderen,calendar_remove,0.9716,0.9716,True
+8990,nb-NO,calendar,calendar_set,opprett aktivitet,qa_factoid,0.5596,0.009,False
+8992,nb-NO,calendar,calendar_set,vis møter,social_post,0.8391,0.0029,False
+9009,nb-NO,calendar,calendar_remove,fjern jubileum arrangementet fra min kalender,calendar_remove,0.9997,0.9997,True
+9011,nb-NO,calendar,calendar_query,er det sant at høsttakkefesten et arrangement den fjortende denne måneden,calendar_remove,0.1748,0.0503,False
+9014,nb-NO,calendar,calendar_set,vennligst sett et varsel den tjuetredje oktober om møte med min kollega,email_sendemail,1.0,0.0,False
+9015,nb-NO,calendar,calendar_remove,rydd kalenderen min for alle aktiviteter,calendar_set,0.743,0.2562,False
+9019,nb-NO,calendar,calendar_query,møter fra tjuende til tjuefemte juni,calendar_remove,0.9509,0.0038,False
+9030,nb-NO,calendar,calendar_remove,fjern fra kalender min legetime for i dag,calendar_remove,1.0,1.0,True
+9035,nb-NO,calendar,calendar_query,rahuls bryllupp påminnelse,cooking_recipe,0.1278,0.0442,False
+9043,nb-NO,calendar,calendar_set,kommende hendelser i kalender,lists_remove,0.4125,0.0022,False
+9053,nb-NO,calendar,calendar_set,opprett en møte påminnelse med mona på tirsdag,qa_factoid,0.3366,0.0071,False
+9054,nb-NO,calendar,calendar_set,påminnelse om hendelse med lise på tirsdag,email_sendemail,0.9274,0.0001,False
+9059,nb-NO,calendar,calendar_set,varsle med når arrangementet begynner,datetime_query,0.9327,0.0068,False
+9061,nb-NO,calendar,calendar_query,hvilken informasjon har jeg i påminnelser,lists_query,0.126,0.042,False
+9062,nb-NO,calendar,calendar_set,kan du legge inn maris bursdag tjueandre juni,iot_hue_lightoff,0.8971,0.0006,False
+9074,nb-NO,calendar,calendar_remove,vennligst fjern den aktiviteten,qa_factoid,0.9995,0.0001,False
+9088,nb-NO,calendar,calendar_remove,slett alt i min kalender,calendar_remove,0.9636,0.9636,True
+9095,nb-NO,calendar,calendar_remove,fjern kveldens middag med anne,play_radio,0.7071,0.0045,False
+9103,nb-NO,calendar,calendar_query,er det et møte i min kalender denne ettermiddagen,calendar_query,0.6673,0.6673,True
+9107,nb-NO,calendar,calendar_query,hvilken tid begynner onkelp konserten den tredje juni,datetime_query,0.4605,0.0004,False
+9110,nb-NO,calendar,calendar_set,utstilling totusen og sytten den tjuefemte mars lag en oppføring på den datoen,iot_hue_lightoff,0.862,0.007,False
+9112,nb-NO,calendar,calendar_set,legg til dette i min kalender,calendar_set,0.9897,0.9897,True
+9114,nb-NO,calendar,calendar_set,lag en gjentakende påminnelse for denne hendelsen i kalenderen,calendar_remove,0.4713,0.1625,False
+9116,nb-NO,calendar,calendar_query,kan du ombooke mitt møte,calendar_remove,0.8142,0.0032,False
+9121,nb-NO,calendar,calendar_query,hvilke dager har jeg booket,weather_query,0.9429,0.0005,False
+9124,nb-NO,calendar,calendar_set,vis meg aktivitetene i min jobb kalender for neste uke,calendar_set,0.8312,0.8312,True
+9137,nb-NO,calendar,calendar_query,når er den italienske cafeen stengt mellom lunsj og middag,weather_query,0.9998,0.0,False
+9138,nb-NO,qa,qa_factoid,når starter tippeligaen offisielt,qa_factoid,0.9845,0.9845,True
+9149,nb-NO,calendar,calendar_query,ved hvilken tid skal gala middagen med mørk dress begynne,calendar_remove,0.8251,0.0073,False
+9153,nb-NO,calendar,calendar_set,vennligst legg til middag med mari i min kalender på lørdag,cooking_recipe,0.6199,0.1544,False
+9155,nb-NO,calendar,calendar_set,vennligst legg til tannlegetime på fredag klokken tre,iot_hue_lightoff,0.363,0.0493,False
+9156,nb-NO,calendar,calendar_set,påminnelse,qa_factoid,0.669,0.0083,False
+9175,nb-NO,calendar,calendar_query,har min kalender blitt oppdatert de siste ti minuttene,calendar_remove,0.7342,0.1692,False
+9182,nb-NO,calendar,calendar_remove,avlys mine planer om å hente foreldrene min fra flyplassen,transport_query,0.8794,0.003,False
+9187,nb-NO,calendar,calendar_set,finn informasjon om kundene som kommer i møtet,recommendation_events,0.4953,0.0032,False
+9193,nb-NO,calendar,calendar_set,vennligst legg inn at denne avtalen skal gjentas,email_sendemail,0.9764,0.0005,False
+9194,nb-NO,calendar,calendar_remove,vennligst fjern dette arrangementet fra min kalender,calendar_remove,0.9979,0.9979,True
+9197,nb-NO,calendar,calendar_query,hva har jeg planlagt for denne uken,cooking_recipe,0.3285,0.016,False
+9198,nb-NO,calendar,calendar_query,vennligst sjekk mine varsler,lists_query,0.2098,0.0181,False
+9202,nb-NO,play,play_radio,sett på min radiostasjon,play_radio,0.9992,0.9992,True
+9204,nb-NO,play,play_radio,start n. r. k. radio,play_radio,1.0,1.0,True
+9212,nb-NO,play,play_radio,en elle annen skru på radioen,play_radio,1.0,1.0,True
+9216,nb-NO,play,play_radio,spill av min stasjon,play_music,0.9895,0.0095,False
+9225,nb-NO,play,play_radio,kan du sette på radioen,play_radio,1.0,1.0,True
+9233,nb-NO,play,play_radio,åpne pandora,qa_factoid,0.4862,0.0825,False
+9236,nb-NO,play,play_radio,gå til kanal ett hundre og seksti komma ni,play_radio,0.9332,0.9332,True
+9237,nb-NO,play,play_radio,skru på radioen og spill kanal hundreogseks komma ni,play_radio,1.0,1.0,True
+9250,nb-NO,play,play_radio,jeg vil høe på radio,iot_hue_lightoff,0.9451,0.0543,False
+9254,nb-NO,play,play_radio,vennligst tune inn ni hundre og trettiåtte f. m.,qa_factoid,0.9709,0.002,False
+9263,nb-NO,play,play_radio,åpne radio appen,play_radio,1.0,1.0,True
+9269,nb-NO,play,play_radio,bytt til nittitre komma fem f. m.,qa_factoid,0.9502,0.0001,False
+9270,nb-NO,play,play_radio,bare spill nihundreogtrettisyv f m,qa_factoid,0.9778,0.0005,False
+9275,nb-NO,play,play_radio,bare spill av ni hundre og nittini f. m. på radion,play_music,0.9779,0.0119,False
+9284,nb-NO,play,play_radio,spill f. m.,play_music,0.9061,0.0684,False
+9291,nb-NO,play,play_radio,sett på,calendar_set,0.8402,0.0116,False
+9301,nb-NO,play,play_radio,spill bæ bæ lille lam,play_music,0.9971,0.0028,False
+9303,nb-NO,play,play_radio,spill klassiker stasjonen,play_music,1.0,0.0,False
+9305,nb-NO,play,play_radio,lytt på klassiske hits,recommendation_events,0.5526,0.0025,False
+9316,nb-NO,play,play_radio,spill radio norge for meg,play_radio,1.0,1.0,True
+9317,nb-NO,play,play_radio,start radio nå,play_radio,1.0,1.0,True
+9321,nb-NO,play,play_radio,få radioen på nå,play_radio,1.0,1.0,True
+9323,nb-NO,play,play_radio,åpne pandora,qa_factoid,0.4862,0.0825,False
+9326,nb-NO,play,play_radio,vennligst spill av radio stasjon en akuratt nå,play_radio,1.0,1.0,True
+9327,nb-NO,play,play_radio,scan am nummeret på radioen akuratt nå,play_radio,1.0,1.0,True
+9330,nb-NO,play,play_radio,spill,calendar_remove,0.7663,0.0695,False
+9341,nb-NO,play,play_radio,alexa bytt radiostasjon,play_radio,0.9994,0.9994,True
+9352,nb-NO,play,play_radio,skru på radioen vær så snill,play_radio,1.0,1.0,True
+9353,nb-NO,play,play_radio,start litt musikk spill radioen,play_music,0.905,0.0949,False
+9358,nb-NO,play,play_radio,start radiokanal åttehundreogåttini,play_radio,1.0,1.0,True
+9361,nb-NO,play,play_radio,hør på radio,play_radio,1.0,1.0,True
+9362,nb-NO,play,play_radio,radio kanaler,play_radio,0.9999,0.9999,True
+9363,nb-NO,play,play_radio,la oss spille hits på radioen,play_music,0.9715,0.0284,False
+9364,nb-NO,play,play_radio,la oss spille musikk hits,play_music,1.0,0.0,False
+9380,nb-NO,play,play_radio,jeg vil gå til radio rock på radioen,play_radio,0.9998,0.9998,True
+9384,nb-NO,play,play_radio,spill nrk radio,play_radio,1.0,1.0,True
+9394,nb-NO,play,play_radio,hei olly spill radioen,play_radio,1.0,1.0,True
+9402,nb-NO,play,play_radio,spill den radiostasjonen på nittisyv komma fem,play_radio,1.0,1.0,True
+9406,nb-NO,play,play_radio,start radioresepsjonen,play_radio,1.0,1.0,True
+9408,nb-NO,play,play_radio,spill radio,play_radio,1.0,1.0,True
+9426,nb-NO,play,play_radio,jeg vil høre stasjonen som spiller r. and b.,play_music,0.9978,0.0021,False
+9438,nb-NO,play,play_radio,kan du spille en rap sang på radioen,play_radio,0.7208,0.7208,True
+9457,nb-NO,play,play_music,spill sangen la det gå,play_music,1.0,1.0,True
+9460,nb-NO,play,play_music,spill av nittitalls hiphop,play_music,0.9847,0.9847,True
+9471,nb-NO,play,play_radio,skru på en country musikkstasjon,play_music,0.9969,0.0013,False
+9494,nb-NO,play,play_radio,kan du spille f. m. stasjonen som spiller pop sanger,play_music,1.0,0.0,False
+9506,nb-NO,play,play_radio,olly la oss høre p. åtte pop,play_music,0.9999,0.0,False
+9507,nb-NO,play,play_radio,finn radiostasjonen som spille hellstrøm akkurat nå,play_radio,1.0,1.0,True
+9519,nb-NO,play,play_radio,spill hvilken som helst pop,play_music,0.9713,0.0168,False
+9520,nb-NO,play,play_radio,spill den siste loven og co radiosendingen,play_radio,1.0,1.0,True
+9524,nb-NO,play,play_radio,skru på program på kiss,play_radio,0.9884,0.9884,True
+9528,nb-NO,play,play_radio,skru på n. r. k. p. tre og spill det på mine høyttalere,play_music,0.4544,0.0401,False
+9541,nb-NO,play,play_radio,spill the sweet song på radio,play_music,0.8743,0.1257,False
+9542,nb-NO,play,play_radio,la meg høre på det siste programmet på radio,play_radio,1.0,1.0,True
+9545,nb-NO,play,play_radio,jeg vil høre på valen programmet,play_music,0.4811,0.3251,False
+9554,nb-NO,play,play_radio,spill romantisk musikk på p. fire,play_music,1.0,0.0,False
+9561,nb-NO,play,play_radio,spill radio norge på radioen,play_radio,1.0,1.0,True
+9562,nb-NO,play,play_radio,kan du spille dette programmet for meg,play_music,0.5462,0.4369,False
+9565,nb-NO,play,play_radio,spill radio med uavbrutte sanger,play_radio,1.0,1.0,True
+9568,nb-NO,play,play_radio,spill britney spears live konsertserie,play_music,0.9986,0.0002,False
+9569,nb-NO,play,play_radio,ok google spill etthundre og seks komma syv,play_music,0.9709,0.0037,False
+9577,nb-NO,play,play_radio,bytt stasjonen til åttito komma fire,qa_factoid,0.999,0.0,False
+9591,nb-NO,play,play_radio,spill loven og co på nittien komma tre f. m.,play_music,1.0,0.0,False
+9592,nb-NO,play,play_podcasts,søk etter podcaster som handler om mannehelse,play_podcasts,1.0,1.0,True
+9594,nb-NO,play,play_radio,f. m. nittitre komma fem radio sanger,play_radio,1.0,1.0,True
+9601,nb-NO,play,play_radio,spill country radio,play_radio,1.0,1.0,True
+9617,nb-NO,play,play_radio,spill morgenprogrammet fra hundre og en komme ni for meg,play_music,0.9958,0.0041,False
+9619,nb-NO,play,play_radio,spill sanger fra idol på bilradioen,play_radio,1.0,1.0,True
+9620,nb-NO,play,play_radio,kan jeg få lindmo på radioen på soverommet,play_radio,1.0,1.0,True
+9629,nb-NO,play,play_radio,kan du være så snill og hjelpe med med å lytte til radioen,play_radio,1.0,1.0,True
+9630,nb-NO,play,play_radio,spill radio mirchi for meg,play_radio,1.0,1.0,True
+9632,nb-NO,play,play_radio,radio,play_radio,1.0,1.0,True
+9637,nb-NO,play,play_radio,start spillelista mi på kiss radio,play_radio,0.6766,0.6766,True
+9640,nb-NO,play,play_radio,åpne spotify og åpne trening,play_music,0.8701,0.0826,False
+9651,nb-NO,play,play_radio,spill netflix på min playstation fire,play_podcasts,0.653,0.0379,False
+9656,nb-NO,play,play_music,spill en upbeat sang for meg gjennom dine høyttalere,play_music,1.0,1.0,True
+9706,nb-NO,play,play_music,spill jingle bells,play_music,1.0,1.0,True
+9707,nb-NO,play,play_music,åpne media og spill jingle bells,play_music,0.9926,0.9926,True
+9738,nb-NO,play,play_music,kan du være så snill å spille klassisk musikk for meg,play_music,1.0,1.0,True
+9793,nb-NO,play,play_music,spill noe romantiske sanger,play_music,1.0,1.0,True
+9795,nb-NO,play,play_music,spill om igjen dum og deilig,play_music,0.9997,0.9997,True
+9912,nb-NO,cooking,cooking_recipe,olly hvor lenge burde jeg koke egg,cooking_recipe,1.0,1.0,True
+9918,nb-NO,cooking,cooking_recipe,hvordan lager jeg pizza,cooking_recipe,1.0,1.0,True
+9923,nb-NO,cooking,cooking_recipe,hvor lenge burde jeg koke et egg,cooking_recipe,1.0,1.0,True
+9924,nb-NO,cooking,cooking_recipe,gi meg oppskriften på,cooking_recipe,1.0,1.0,True
+9930,nb-NO,cooking,cooking_recipe,hvor lenge burde jeg koke egget,cooking_recipe,1.0,1.0,True
+9931,nb-NO,cooking,cooking_recipe,hvor lenge skal jeg koke egget,cooking_recipe,1.0,1.0,True
+9940,nb-NO,cooking,cooking_recipe,finn en sjokoladekake oppskrift,cooking_recipe,1.0,1.0,True
+9941,nb-NO,cooking,cooking_recipe,hvordan lager jeg smørkylling,cooking_recipe,0.9999,0.9999,True
+9942,nb-NO,cooking,cooking_recipe,hva er alt som skal i en rød fløyelskake,cooking_recipe,0.7982,0.7982,True
+9943,nb-NO,cooking,cooking_recipe,hvor lang tid tar det å lage grønnsakslasagne,cooking_recipe,1.0,1.0,True
+9952,nb-NO,cooking,cooking_recipe,gi meg en matlagingsinstruksjon,cooking_recipe,0.9999,0.9999,True
+9955,nb-NO,cooking,cooking_recipe,vis meg en video om tilberedning av fritert kylling,cooking_recipe,0.9999,0.9999,True
+9956,nb-NO,cooking,cooking_recipe,hva kan jeg erstatte smør med,qa_factoid,0.4158,0.1209,False
+9961,nb-NO,cooking,cooking_recipe,hvilken er den beste ovns temperaturen for å steke poteter,cooking_recipe,0.9957,0.9957,True
+9962,nb-NO,cooking,cooking_recipe,hva er den beste måten å lage pasta al dente på,cooking_recipe,0.9999,0.9999,True
+9964,nb-NO,cooking,cooking_recipe,kunnskap om mathåndtering,transport_query,0.6824,0.009,False
+9966,nb-NO,cooking,cooking_recipe,hva er den letteste måten å lage pasta på,cooking_recipe,1.0,1.0,True
+9969,nb-NO,cooking,cooking_recipe,hvilke ingrediens kan man bruke i stedet for safran,cooking_recipe,0.9997,0.9997,True
+9971,nb-NO,cooking,cooking_recipe,hva leder varme best kobber kjeler eller jern,qa_factoid,0.3758,0.0322,False
+9976,nb-NO,cooking,cooking_recipe,hei robot gi meg en liste over ingredienser for welsh rarebit,cooking_recipe,0.9996,0.9996,True
+9977,nb-NO,cooking,cooking_recipe,søk på internett og vis de passende youtube videoene for tilberedning av italiensk mat,cooking_recipe,0.9791,0.9791,True
+9979,nb-NO,cooking,cooking_recipe,lag meg litt korn,cooking_recipe,0.9998,0.9998,True
+9980,nb-NO,cooking,cooking_recipe,hva er på menyen i dag legg også til noen kokte grønnsaker,cooking_recipe,0.9996,0.9996,True
+9986,nb-NO,cooking,cooking_recipe,kokende,social_post,0.7442,0.032,False
+9994,nb-NO,cooking,cooking_recipe,kan du fortelle meg oppskriften på å lage pav bhaji,cooking_recipe,1.0,1.0,True
+10016,nb-NO,cooking,cooking_recipe,hva er en fem setningers oppskrift på kalkun til nyttårsaften,cooking_recipe,0.9994,0.9994,True
+10019,nb-NO,cooking,cooking_recipe,vennligst fortell meg hvordan jeg baker havremelkjeks,cooking_recipe,1.0,1.0,True
+10023,nb-NO,cooking,cooking_recipe,hva trenger jeg for å lage lamspatia,cooking_recipe,1.0,1.0,True
+10027,nb-NO,cooking,cooking_recipe,instruksjoner for å lage et måltid,cooking_recipe,0.9999,0.9999,True
+10031,nb-NO,cooking,cooking_recipe,jeg trenger en oppskrift som er fra ingrediensene på handle listen min,cooking_recipe,1.0,1.0,True
+10038,nb-NO,cooking,cooking_recipe,jeg trenger gode ideer til å lage mat,cooking_recipe,0.9998,0.9998,True
+10045,nb-NO,cooking,cooking_recipe,kan du gi meg en oppskrift på hjemmelaget kyllingnudelsuppe,cooking_recipe,0.9998,0.9998,True
+10048,nb-NO,cooking,cooking_recipe,hvordan tilbereder jeg en kalkun,cooking_recipe,0.9999,0.9999,True
+10049,nb-NO,cooking,cooking_recipe,fortell meg hvordan jeg lager arme riddere,cooking_recipe,0.9983,0.9983,True
+10053,nb-NO,cooking,cooking_recipe,hvordan lager jeg pizza,cooking_recipe,1.0,1.0,True
+10055,nb-NO,cooking,cooking_recipe,hva er oppskriften på fritert kylling,cooking_recipe,1.0,1.0,True
+10061,nb-NO,cooking,cooking_recipe,hva skal jeg lage til middag,cooking_recipe,1.0,1.0,True
+10072,nb-NO,cooking,cooking_recipe,steketider for kylling i ovnen,cooking_recipe,0.9553,0.9553,True
+10076,nb-NO,cooking,cooking_recipe,kan du erstatte bakepulver med natron,cooking_recipe,0.9622,0.9622,True
+10077,nb-NO,cooking,cooking_recipe,finn en oppskrift til middag i kveld,cooking_recipe,1.0,1.0,True
+10078,nb-NO,cooking,cooking_recipe,hva burde jeg lage til kveldsmat,cooking_recipe,0.9837,0.9837,True
+10080,nb-NO,cooking,cooking_recipe,la oss lage kjøttkaker sammen,cooking_recipe,1.0,1.0,True
+10081,nb-NO,cooking,cooking_recipe,fortell meg hvordan lage kjøttkaker,cooking_recipe,1.0,1.0,True
+10090,nb-NO,cooking,cooking_recipe,kan jeg få en oppskrift for tunfisk,cooking_recipe,1.0,1.0,True
+10093,nb-NO,cooking,cooking_recipe,hvordan lager man lasagne,cooking_recipe,0.9997,0.9997,True
+10097,nb-NO,cooking,cooking_recipe,jeg vil ha en cheeseburger,cooking_recipe,0.4358,0.4358,True
+10099,nb-NO,cooking,cooking_recipe,vet du hvordan man lager risotto,cooking_recipe,1.0,1.0,True
+10100,nb-NO,cooking,cooking_recipe,vet du oppskrift på risotto,cooking_recipe,0.9998,0.9998,True
+10105,nb-NO,cooking,cooking_recipe,hvor lenge skal man koke biff for medium rå,cooking_recipe,1.0,1.0,True
+10107,nb-NO,cooking,cooking_recipe,jeg trenger en oppskrift på vegetarpulao,cooking_recipe,0.9998,0.9998,True
+10119,nb-NO,cooking,cooking_recipe,hvor lenge koker du en kalkun på femten pund,cooking_recipe,1.0,1.0,True
+10125,nb-NO,cooking,cooking_recipe,hva er forskjellen på å steke og grille,cooking_recipe,0.9997,0.9997,True
+10132,nb-NO,cooking,cooking_recipe,hvor lenge skal jeg steke en biff for at den skal bli medium,cooking_recipe,1.0,1.0,True
+10150,nb-NO,cooking,cooking_recipe,hvordan lager man taco,cooking_recipe,0.9987,0.9987,True
+10156,nb-NO,cooking,cooking_recipe,jeg trenger å vite hvordan man lager fylte paprikaer,cooking_recipe,1.0,1.0,True
+10164,nb-NO,cooking,cooking_recipe,hvor lenge skal jeg koke maccaroni,cooking_recipe,1.0,1.0,True
+10166,nb-NO,cooking,cooking_recipe,se etter oppskrift på eplepai,cooking_recipe,1.0,1.0,True
+10171,nb-NO,cooking,cooking_recipe,hva er oppskriften på fiskesuppe,cooking_recipe,1.0,1.0,True
+10177,nb-NO,cooking,cooking_recipe,hvordan lage spaghetti squash,cooking_recipe,1.0,1.0,True
+10182,nb-NO,cooking,cooking_recipe,hvor mange egg trenger jeg for en omelett,cooking_recipe,0.9768,0.9768,True
+10197,nb-NO,cooking,cooking_recipe,vis meg den beste oppskriften på spaghetti,cooking_recipe,1.0,1.0,True
+10206,nb-NO,cooking,cooking_recipe,hvordan tilberedes ris,cooking_recipe,1.0,1.0,True
+10213,nb-NO,cooking,cooking_recipe,liste over kjente biryani oppskrifter,cooking_recipe,0.9998,0.9998,True
+10214,nb-NO,cooking,cooking_recipe,oppskrifter som kan lages på en time,cooking_recipe,0.9252,0.9252,True
+10216,nb-NO,cooking,cooking_recipe,søk på nettet for å kjøpe utstyr til å bake muffins,cooking_recipe,0.9999,0.9999,True
+10217,nb-NO,cooking,cooking_recipe,finn oppskrift på pizza i appen cookingforu,cooking_recipe,1.0,1.0,True
+10220,nb-NO,cooking,cooking_recipe,hvilke ingredienser trenger jeg for å bake en stor kake,cooking_recipe,1.0,1.0,True
+10224,nb-NO,cooking,cooking_recipe,det må være smak,qa_factoid,0.9081,0.0894,False
+10226,nb-NO,cooking,cooking_recipe,la meg vite oppskriften for forbereding av pasta,cooking_recipe,1.0,1.0,True
+10426,nb-NO,lists,lists_query,hva annet mangler i dagboken,cooking_recipe,0.4316,0.041,False
+10427,nb-NO,lists,lists_remove,please tøm min handle liste,lists_remove,0.9992,0.9992,True
+10430,nb-NO,lists,lists_remove,fjern den første tingen på listen,lists_remove,0.3822,0.3822,True
+10433,nb-NO,lists,lists_remove,fjern min gjøremål liste,lists_remove,1.0,1.0,True
+10440,nb-NO,lists,lists_query,noen ny spesielle hendelser i min liste,lists_remove,1.0,0.0,False
+10442,nb-NO,lists,lists_remove,fjern arrangementer fra listen min,play_music,0.9265,0.008,False
+10444,nb-NO,lists,lists_remove,slett vare,lists_remove,0.5636,0.5636,True
+10451,nb-NO,lists,lists_query,hva skal jeg gjøre i dag,cooking_recipe,0.6741,0.0415,False
+10455,nb-NO,lists,lists_query,hva er på min å gjøre liste,lists_query,0.6879,0.6879,True
+10462,nb-NO,lists,lists_remove,bli kvitt en liste,lists_remove,0.8887,0.8887,True
+10493,nb-NO,lists,lists_query,hva er på min gjøremåls liste,cooking_recipe,0.9971,0.0003,False
+10494,nb-NO,lists,lists_remove,fjern blyant fra skrivesaker,calendar_remove,0.4468,0.0776,False
+10497,nb-NO,qa,qa_factoid,kan jeg få en liste med femstjerners hotell i oslo,lists_query,0.9953,0.0,False
+10508,nb-NO,lists,lists_remove,fjern ting på liste,lists_remove,0.9994,0.9994,True
+10512,nb-NO,lists,lists_query,list alt som er igjen i min forespørsel,lists_remove,0.9255,0.0735,False
+10523,nb-NO,lists,lists_remove,slettt fra min gamle engelske sanger liste,lists_remove,0.9995,0.9995,True
+10525,nb-NO,lists,lists_remove,fjern min bilbetaling på min kalender,calendar_remove,0.9998,0.0,False
+10527,nb-NO,lists,lists_remove,fjern listen,play_radio,0.786,0.0034,False
+10534,nb-NO,lists,lists_query,hvordan er gjørelisten for i dag,cooking_recipe,0.7872,0.0076,False
+10538,nb-NO,lists,lists_query,vennligst repeter min handle liste,qa_factoid,0.9543,0.0012,False
+10565,nb-NO,lists,lists_remove,slett alle lister,lists_remove,1.0,1.0,True
+10568,nb-NO,lists,lists_remove,fjern gammel musikk listen,play_music,0.9985,0.0001,False
+10570,nb-NO,lists,lists_query,sjekk min gjøremåls liste,lists_remove,0.6848,0.0029,False
+10571,nb-NO,lists,lists_query,android,iot_hue_lightoff,0.2324,0.0685,False
+10577,nb-NO,lists,lists_query,gi meg alle mine lister,lists_query,1.0,1.0,True
+10579,nb-NO,lists,lists_remove,still tilbake min lokasjons liste,lists_remove,1.0,1.0,True
+10588,nb-NO,lists,lists_query,vis meg innholdet i listen,qa_factoid,0.4359,0.0095,False
+10590,nb-NO,lists,lists_remove,fjern den andre raden fra listen,play_radio,0.4836,0.379,False
+10655,nb-NO,lists,lists_remove,fjern lista kallet partytime,lists_remove,1.0,1.0,True
+10667,nb-NO,lists,lists_query,les opp timeplanene i listen,lists_remove,0.6036,0.0273,False
+10673,nb-NO,lists,lists_remove,vennligst fjern følgende liste,lists_remove,0.9125,0.9125,True
+10674,nb-NO,lists,lists_remove,slett den nåværende listen,lists_remove,0.9232,0.9232,True
+10679,nb-NO,lists,lists_query,hva er på min gjøremål liste i dag,cooking_recipe,0.9975,0.0012,False
+10684,nb-NO,lists,lists_query,hvilke lister har jeg spurt etter,lists_query,1.0,1.0,True
+10687,nb-NO,lists,lists_remove,hvis det er noe hendelse med show fjern den,iot_hue_lightoff,0.4726,0.0019,False
+10696,nb-NO,lists,lists_remove,erstatt,weather_query,0.3769,0.0371,False
+10699,nb-NO,lists,lists_query,informer meg om tingene på listen,play_podcasts,0.6394,0.0284,False
+10718,nb-NO,lists,lists_remove,kan du fjerne dette produktet fra listen,lists_remove,0.9982,0.9982,True
+10731,nb-NO,lists,lists_query,les hva som er på min liste,lists_query,0.9656,0.9656,True
+10743,nb-NO,lists,lists_remove,fjern det punktet,iot_hue_lightoff,0.5952,0.0095,False
+10753,nb-NO,lists,lists_query,hva har jeg allerede puttet på handlelista,lists_remove,0.6979,0.2759,False
+10755,nb-NO,lists,lists_remove,kast bort min gjøremål liste please,lists_remove,1.0,1.0,True
+10756,nb-NO,lists,lists_remove,tøm handle listen,calendar_remove,0.9601,0.0157,False
+10757,nb-NO,lists,lists_query,hvilke ting er på min handle liste,lists_query,0.6869,0.6869,True
+10759,nb-NO,lists,lists_query,les opp listen min for handling,iot_hue_lightoff,0.9555,0.001,False
+10760,nb-NO,lists,lists_query,fortell meg lista jeg skrev for to dager siden,lists_remove,0.9995,0.0002,False
+10770,nb-NO,lists,lists_remove,fjern frokostblanding fra min handleliste,cooking_recipe,0.686,0.1683,False
+10772,nb-NO,calendar,calendar_remove,fjern min tannlegetime fra dagens timeplan,calendar_remove,0.9315,0.9315,True
+10776,nb-NO,lists,lists_query,har jeg en handle liste klar,lists_query,0.9966,0.9966,True
+10786,nb-NO,lists,lists_remove,tøm min aktivitets liste for i dag,lists_remove,1.0,1.0,True
+10790,nb-NO,lists,lists_remove,slett oppføring fra listen,play_music,0.8094,0.0852,False
+10804,nb-NO,lists,lists_query,les min dagligvareliste,qa_factoid,0.9537,0.0113,False
+10805,nb-NO,lists,lists_query,vennligst vis meg listen sim jeg har,play_podcasts,0.9072,0.0017,False
+10808,nb-NO,lists,lists_remove,slett siste ting,lists_remove,0.7485,0.7485,True
+10824,nb-NO,lists,lists_remove,ola tøm listen,calendar_remove,0.2867,0.0252,False
+10825,nb-NO,lists,lists_remove,slett listen,iot_hue_lightoff,0.279,0.0634,False
+10827,nb-NO,lists,lists_remove,slett liste for matvarer,lists_remove,1.0,1.0,True
+10828,nb-NO,lists,lists_remove,slett alle,lists_remove,0.9996,0.9996,True
+10832,nb-NO,calendar,calendar_query,olly hva den neste jeg har planlagt,cooking_recipe,0.4122,0.006,False
+10843,nb-NO,lists,lists_remove,fjern melk fra min dagligvare liste,lists_remove,1.0,1.0,True
+10846,nb-NO,lists,lists_remove,jeg har ikke nok penger til å kjøpe nintendo switch akkurat nå kan du være så snill å fjerne det fra ønskelisten min på amazon,qa_factoid,0.9038,0.0661,False
+10848,nb-NO,lists,lists_remove,fjern denne listen for de andre,play_music,0.3812,0.0137,False
+10851,nb-NO,lists,lists_query,hva er mine tilgjengelige lister,lists_query,1.0,1.0,True
+10853,nb-NO,lists,lists_remove,ta dette vekk fra der,qa_factoid,0.8402,0.0021,False
+10855,nb-NO,lists,lists_query,trenger å sjekke min liste,lists_remove,0.9987,0.0012,False
+10868,nb-NO,lists,lists_query,olly noe annet igjen på liste,lists_remove,1.0,0.0,False
+10887,nb-NO,lists,lists_remove,slett min liste,lists_remove,1.0,1.0,True
+10895,nb-NO,lists,lists_remove,slett ting fra min liste,lists_remove,0.9909,0.9909,True
+10909,nb-NO,lists,lists_query,olly les listene mine for meg,lists_remove,0.9953,0.0046,False
+10927,nb-NO,lists,lists_query,la meg høre min liste,play_music,0.8336,0.0154,False
+10931,nb-NO,lists,lists_query,hva er på min spilleliste,play_music,0.9791,0.0074,False
+10936,nb-NO,lists,lists_remove,vennligst fjern min liste over favorittalbum,qa_factoid,1.0,0.0,False
+10954,nb-NO,lists,lists_query,hvor mange lister har jeg i kontakter,lists_query,1.0,1.0,True
+10956,nb-NO,lists,lists_query,hvilke grupper er i mine kontakter,lists_query,0.9865,0.9865,True
+10957,nb-NO,lists,lists_query,minn meg på hvor mange lister jeg har,lists_query,1.0,1.0,True
+10960,nb-NO,lists,lists_remove,stryk den fra listen,play_music,0.9986,0.0,False
+10970,nb-NO,lists,lists_remove,slett siste frase,lists_remove,0.9998,0.9998,True
+10979,nb-NO,lists,lists_query,hva er på listen din akkurat nå,play_podcasts,0.4377,0.0278,False
+10981,nb-NO,lists,lists_query,gi meg info om lista,lists_query,0.7379,0.7379,True
+10985,nb-NO,lists,lists_remove,slett mine gjøremål for denne uken,lists_remove,0.9991,0.9991,True
+10990,nb-NO,lists,lists_remove,på min gjøremål fjern mop kjøkkenet,lists_remove,0.3462,0.3462,True
+10999,nb-NO,lists,lists_query,les opp listen,iot_hue_lightoff,0.5829,0.0048,False
+11023,nb-NO,lists,lists_remove,fjern handle liste,lists_remove,0.9998,0.9998,True
+11024,nb-NO,lists,lists_remove,slett gjøremål liste,lists_remove,0.9998,0.9998,True
+11053,nb-NO,lists,lists_remove,fjern listen google,play_radio,0.8325,0.0018,False
+11075,nb-NO,lists,lists_query,hvor mange lister har jeg,lists_query,1.0,1.0,True
+11081,nb-NO,lists,lists_query,hvilke lister er i min notatbok,lists_remove,1.0,0.0,False
+11085,nb-NO,lists,lists_remove,ta vekk melken fra handle listen,iot_hue_lightoff,0.8516,0.0049,False
+11098,nb-NO,lists,lists_remove,fjern skatte liste fra nittennitti,lists_remove,0.9998,0.9998,True
+11107,nb-NO,lists,lists_query,hva er min nåværende liste,lists_remove,0.9776,0.0223,False
+11124,nb-NO,lists,lists_query,list opp ting på min jobb liste,lists_query,0.5174,0.5174,True
+11125,nb-NO,lists,lists_query,gi meg detaljene på bestillingen,email_query,0.4773,0.2178,False
+11133,nb-NO,lists,lists_remove,fjern gjeste listen jeg laget i forrige uke,play_music,0.9932,0.0001,False
+11154,nb-NO,lists,lists_query,sjekk den nyligste gjøremål listen,cooking_recipe,0.8519,0.019,False
+11162,nb-NO,lists,lists_remove,jeg vil fjerne epler fra listen,lists_remove,0.9871,0.9871,True
+11164,nb-NO,lists,lists_remove,vekk fra liste,lists_remove,0.9955,0.9955,True
+11166,nb-NO,lists,lists_query,åpne google keep,iot_hue_lightoff,0.3333,0.0171,False
+11168,nb-NO,lists,lists_remove,fjern listen min,play_music,0.4049,0.0222,False
+11172,nb-NO,lists,lists_query,gi meg alle tilgjengelige lister,lists_query,1.0,1.0,True
+11174,nb-NO,lists,lists_query,liste alle listene på denne enheten,lists_query,0.9932,0.9932,True
+11180,nb-NO,calendar,calendar_query,min fest planlegger,qa_factoid,0.5438,0.0099,False
+11186,nb-NO,lists,lists_query,jeg har min klesliste,lists_remove,1.0,0.0,False
+11189,nb-NO,lists,lists_query,finn listen,play_music,0.5676,0.0073,False
+11204,nb-NO,lists,lists_query,viktig husinformasjon,email_sendemail,0.6695,0.0218,False
+11215,nb-NO,lists,lists_query,liste,lists_query,0.9979,0.9979,True
+11250,nb-NO,lists,lists_query,les handlelisten for meg,qa_factoid,0.7079,0.01,False
+11257,nb-NO,play,play_podcasts,siri spill neste episode,social_post,0.519,0.0227,False
+11259,nb-NO,play,play_podcasts,hopp til neste podcast,play_podcasts,0.9998,0.9998,True
+11261,nb-NO,play,play_podcasts,neste,email_query,0.3475,0.0054,False
+11265,nb-NO,play,play_podcasts,spill den neste,play_music,0.9118,0.0,False
+11266,nb-NO,play,play_podcasts,spill en podcast fra mitt bibliotek,play_podcasts,1.0,1.0,True
+11267,nb-NO,play,play_podcasts,finn en interessant podcast om giæver og gjengen,play_podcasts,1.0,1.0,True
+11270,nb-NO,play,play_podcasts,spill av neste podcast,play_podcasts,1.0,1.0,True
+11272,nb-NO,play,play_podcasts,spill neste,play_music,0.5653,0.0076,False
+11279,nb-NO,play,play_podcasts,gå til podcast og spill av den neste episode av friends,play_podcasts,1.0,1.0,True
+11286,nb-NO,play,play_podcasts,spill av oppdatert podcast,play_podcasts,1.0,1.0,True
+11296,nb-NO,play,play_podcasts,last opp alle mine podcaster,play_podcasts,1.0,1.0,True
+11302,nb-NO,play,play_podcasts,sett på podcasten adresse. livet,play_podcasts,1.0,1.0,True
+11303,nb-NO,play,play_podcasts,spill av neste podcast forklart aftenposten.,play_podcasts,1.0,1.0,True
+11306,nb-NO,play,play_podcasts,spill av podccasten jeg hørte på i går,play_podcasts,1.0,1.0,True
+11318,nb-NO,play,play_podcasts,spill av neste episode av podcasten,play_podcasts,1.0,1.0,True
+11322,nb-NO,play,play_podcasts,hva er dagens top podcasts,social_post,0.9994,0.0005,False
+11328,nb-NO,play,play_podcasts,spilla av podcasten the kåss furuseths,play_podcasts,1.0,1.0,True
+11331,nb-NO,play,play_podcasts,vis meg den beste podcasetn av rocke sang med god omtale,play_podcasts,0.9998,0.9998,True
+11335,nb-NO,play,play_music,spill tilfeldig alle rolige sanger,play_music,0.9996,0.9996,True
+11339,nb-NO,play,play_podcasts,spill av min mest sette podcast,play_podcasts,1.0,1.0,True
+11340,nb-NO,play,play_podcasts,har ida wulff en ny podcast,social_post,0.6952,0.3044,False
+11341,nb-NO,play,play_podcasts,finn den siste disney podcasten,play_podcasts,1.0,1.0,True
+11343,nb-NO,play,play_podcasts,gå til neste episode av gi meg alle detaljene,play_podcasts,0.3379,0.3379,True
+11345,nb-NO,play,play_podcasts,sett på neste episode av podcasten,play_podcasts,0.9992,0.9992,True
+11349,nb-NO,play,play_podcasts,olly begynn podcast jeg begynte på i går kveld,play_podcasts,1.0,1.0,True
+11353,nb-NO,play,play_podcasts,vis meg podcasts,play_podcasts,1.0,1.0,True
+11361,nb-NO,play,play_podcasts,konspirasjonspodden podcast spill den,play_podcasts,1.0,1.0,True
+11366,nb-NO,play,play_podcasts,gå tilbake til forrige episode av podcasten,play_podcasts,1.0,1.0,True
+11368,nb-NO,play,play_podcasts,spill lines podcast,play_podcasts,1.0,1.0,True
+11376,nb-NO,play,play_podcasts,jeg vil høre på podcast,play_podcasts,1.0,1.0,True
+11384,nb-NO,play,play_podcasts,kan du laste ned min podcast fil tilgjengelig på internett og spill den en gang,play_podcasts,0.9998,0.9998,True
+11409,nb-NO,play,play_podcasts,hopp over neste podcast episode,play_podcasts,0.9939,0.9939,True
+11417,nb-NO,play,play_podcasts,begynn neste episode,social_post,0.2474,0.0473,False
+11418,nb-NO,play,play_podcasts,spill hellstrøms nyeste podcast,play_podcasts,1.0,1.0,True
+11420,nb-NO,play,play_podcasts,begynn å spille min siste podcast,play_podcasts,1.0,1.0,True
+11423,nb-NO,play,play_podcasts,spol tilbake tretti sekunder,datetime_query,0.4253,0.007,False
+11424,nb-NO,play,play_podcasts,støme og jerman,qa_factoid,0.6597,0.0097,False
+11426,nb-NO,lists,lists_query,mest sette liste,lists_remove,0.7344,0.2619,False
+11427,nb-NO,play,play_podcasts,start friminutt med herman og mikkel,iot_hue_lightoff,0.9418,0.0035,False
+11437,nb-NO,play,play_podcasts,start podcasten for meg vær så snill,play_podcasts,1.0,1.0,True
+11438,nb-NO,play,play_podcasts,gå til den neste episoden av podcasten vær så snill,play_podcasts,0.9999,0.9999,True
+11442,nb-NO,play,play_podcasts,spill den nyeste bill simmons podcasten vær så snill,play_podcasts,1.0,1.0,True
+11451,nb-NO,play,play_podcasts,jeg vil høre på siste podcast thomas og harald skriver dagbok,play_podcasts,1.0,1.0,True
+11453,nb-NO,play,play_podcasts,begnn kongerekka podcasts,play_podcasts,0.9241,0.9241,True
+11455,nb-NO,play,play_podcasts,gå til neste seksjon,qa_factoid,0.9884,0.0002,False
+11458,nb-NO,play,play_podcasts,gå videre til neste podcast -episode,play_podcasts,1.0,1.0,True
+11459,nb-NO,play,play_podcasts,gå tilbake til siste episoden i podcasten,play_podcasts,0.999,0.999,True
+11460,nb-NO,play,play_podcasts,jeg vil høre på uteliv,recommendation_events,0.9067,0.0011,False
+11467,nb-NO,play,play_podcasts,spill av den siste podcasten av nrk sport,play_podcasts,1.0,1.0,True
+11470,nb-NO,play,play_podcasts,spill av min favoritt podcast er du snill,play_podcasts,1.0,1.0,True
+11474,nb-NO,play,play_podcasts,gjenoppta podcast-serie,play_podcasts,1.0,1.0,True
+11476,nb-NO,play,play_podcasts,spill av den forrige podcasten,play_podcasts,1.0,1.0,True
+11483,nb-NO,play,play_podcasts,start å spille av støme og jerman,play_music,0.9977,0.0,False
+11490,nb-NO,play,play_podcasts,spill av neste program på podcasten,play_podcasts,1.0,1.0,True
+11502,nb-NO,play,play_podcasts,neste knapp,social_post,0.6661,0.0027,False
+11505,nb-NO,play,play_podcasts,gjenta min sist spilte podcast,play_podcasts,0.9998,0.9998,True
+11514,nb-NO,play,play_podcasts,olly kan vi høre på podcaster av fem på,play_podcasts,1.0,1.0,True
+11515,nb-NO,play,play_podcasts,la oss høre på podcast sinnsyn,play_podcasts,1.0,1.0,True
+11525,nb-NO,play,play_podcasts,jeg vil gjerne se neste podcast tilgjengelig,play_podcasts,1.0,1.0,True
+11529,nb-NO,play,play_podcasts,hei spill min favorittpodcast fra liste,play_podcasts,1.0,1.0,True
+11536,nb-NO,play,play_podcasts,add podcast favoritter til spilleliste og start den,play_podcasts,1.0,1.0,True
+11539,nb-NO,play,play_podcasts,start neste podcast,play_podcasts,0.9996,0.9996,True
+11546,nb-NO,play,play_podcasts,spill av alle loven og co fra forrige uke,play_music,0.9979,0.0008,False
+11554,nb-NO,play,play_podcasts,jeg vil at du skal spille podcasten,play_podcasts,1.0,1.0,True
+11563,nb-NO,recommendation,recommendation_events,hva kan jeg gjøre i berlin,cooking_recipe,0.9823,0.0009,False
+11570,nb-NO,recommendation,recommendation_events,hva skjer rundt byen,news_query,0.5883,0.0032,False
+11582,nb-NO,recommendation,recommendation_events,er det noe som skjer på jazzscenen rundt bergen,play_music,0.8542,0.0045,False
+11585,nb-NO,recommendation,recommendation_events,noen kulturelle arrangementer på østlandet,lists_query,0.3079,0.0486,False
+11598,nb-NO,recommendation,recommendation_events,gi meg beskjed om hundeutstillinger som foregår i hjembyen min,social_post,0.677,0.0522,False
+11600,nb-NO,recommendation,recommendation_events,hvilken film kan jeg se i kveld på teateret her i drammen,cooking_recipe,0.7555,0.0092,False
+11610,nb-NO,recommendation,recommendation_events,gi meg listen over sirkus show som pågår i byen akkurat nå,play_music,0.9639,0.0004,False
+11612,nb-NO,recommendation,recommendation_events,hvilke musikaler går i oslo,play_music,1.0,0.0,False
+11616,nb-NO,recommendation,recommendation_events,er det noen arrangementer som skjer i sentrum i kveld,weather_query,0.8769,0.0128,False
+11643,nb-NO,recommendation,recommendation_events,hvilke arrangementer skjer snart,play_podcasts,0.6635,0.3143,False
+11644,nb-NO,recommendation,recommendation_events,vis meg arrangementer i oslo,recommendation_events,0.9965,0.9965,True
+11650,nb-NO,recommendation,recommendation_events,både unge sjåfører og midlertidige førere krasjer oftere enn andre sjåfører fordi de ennå ikke har den brede erfaringen som trengs for å kjøre trygt alene forskning viser at kjøreerfaring er en stor faktor i å redusere trafikkuhell og at den tryggeste tiden for unge førere er når de er under tilsyn under opplæringen,lists_query,0.1005,0.0435,False
+11681,nb-NO,recommendation,recommendation_events,pleas vis meg maraton nær meg,play_music,0.5935,0.018,False
+11685,nb-NO,recommendation,recommendation_events,jeg blir glad hvis du kan fortelle meg hvilke arrangementer som foregår i området vårt,recommendation_events,0.8797,0.8797,True
+11705,nb-NO,recommendation,recommendation_events,vis meg kunstutstilling i kystområdet,social_post,0.8314,0.0106,False
+11720,nb-NO,recommendation,recommendation_events,svømming,iot_hue_lightoff,0.2044,0.0146,False
+11767,nb-NO,recommendation,recommendation_events,olly hvilke arrangementer skjer i moss denne helgen,recommendation_events,0.4866,0.4866,True
+11770,nb-NO,recommendation,recommendation_events,noen arrangementer denne helgen i oslo,social_post,0.7905,0.0084,False
+11782,nb-NO,recommendation,recommendation_events,er det noen spesielle arrangementer nær meg denne helgen,recommendation_events,0.3152,0.3152,True
+11798,nb-NO,recommendation,recommendation_events,hva er det neste arrangementet på biblioteket,iot_hue_lightoff,0.7944,0.0093,False
+11827,nb-NO,recommendation,recommendation_events,hvor kan jeg dra i kveld,qa_factoid,0.5636,0.0121,False
+11839,nb-NO,recommendation,recommendation_events,hva skjer rundt meg,news_query,0.7271,0.0038,False
+11841,nb-NO,recommendation,recommendation_events,er det noen håndverksmesser som skjer i dette området,lists_remove,0.4512,0.0604,False
+11844,nb-NO,recommendation,recommendation_events,noe interessant gående i kystområdet,social_post,0.5567,0.0079,False
+11845,nb-NO,recommendation,recommendation_events,ola fortell om noen spennende arrangementer i kystområdet,social_post,0.7858,0.0727,False
+11860,nb-NO,recommendation,recommendation_events,fortell meg om de lokale arrangementene,lists_remove,0.4643,0.0947,False
+11867,nb-NO,recommendation,recommendation_events,er det et idrettsarrangement i morgen i oslo,weather_query,0.898,0.0044,False
+11875,nb-NO,recommendation,recommendation_events,er det en matfestival i området,qa_factoid,0.4102,0.0822,False
+11904,nb-NO,recommendation,recommendation_events,hva skjer her denne helgen,social_post,0.8587,0.0029,False
+11905,nb-NO,recommendation,recommendation_events,olly fortell meg om aktiviteter i området mitt denne helgen,cooking_recipe,0.4962,0.2491,False
+11911,nb-NO,recommendation,recommendation_events,skjer det noe kjekt i området denne helgen,social_post,0.3111,0.1629,False
+11916,nb-NO,recommendation,recommendation_events,hva slags fornøyelsesparker er i nærheten,lists_query,0.5173,0.087,False
+11969,nb-NO,recommendation,recommendation_events,skjer det noe spesielt i nærheten,social_post,0.2741,0.0116,False
+11999,nb-NO,recommendation,recommendation_events,vis meg alle arrangementer i byen min i dag,recommendation_events,0.6352,0.6352,True
+12008,nb-NO,recommendation,recommendation_events,er det noen kjekke arrangementer i sandnes i dag,social_post,0.9518,0.0061,False
+12054,nb-NO,recommendation,recommendation_events,hva skjer rundt i byen,social_post,0.984,0.0003,False
+12070,nb-NO,recommendation,recommendation_events,når åpner oslo city kjøpesenter,transport_query,0.4874,0.0305,False
+12073,nb-NO,recommendation,recommendation_events,gjengi lokale aktuelle hendelser,lists_remove,0.5399,0.001,False
+12098,nb-NO,recommendation,recommendation_events,vis meg nærme musikalske begivenheter,play_music,0.9517,0.0003,False
+12189,nb-NO,transport,transport_query,hvordan kommer jeg til togstasjonen for å få billett,transport_query,0.9958,0.9958,True
+12240,nb-NO,transport,transport_query,hvordan er trafikken på min pendlerute hjem klokken fem,weather_query,0.8802,0.0997,False
+12245,nb-NO,transport,transport_query,når går det neste toget til oslo fra stockholm,transport_query,0.9974,0.9974,True
+12251,nb-NO,transport,transport_query,gi meg tidene for lokal tog til destinasjon oslo,transport_query,0.9964,0.9964,True
+12252,nb-NO,transport,transport_query,hvilken tid er det togene til asker går,weather_query,0.9968,0.0001,False
+12261,nb-NO,transport,transport_query,fortell meg mine alternativer for et tog til bergen neste onsdag eller torsdag,transport_query,0.8687,0.8687,True
+12263,nb-NO,transport,transport_query,innlandet,qa_factoid,0.9996,0.0,False
+12264,nb-NO,transport,transport_query,oslo,qa_factoid,0.6777,0.0077,False
+12294,nb-NO,transport,transport_query,vis meg rutetider for tog til operahuset,transport_query,0.967,0.967,True
+12310,nb-NO,transport,transport_query,gi meg en liste med tilgjengelige tog billetter fra trondheim til røros,transport_query,0.8914,0.8914,True
+12343,nb-NO,transport,transport_query,sjekk tiden for r. tjue toget fra oslo s stasjon på tirsdag,calendar_query,0.7575,0.0259,False
+12354,nb-NO,transport,transport_query,gi meg tog tidene,datetime_query,0.7769,0.0005,False
+12366,nb-NO,transport,transport_query,er det noe tog med forbindelse fra oslo til stockholm og til hvilken tid,transport_query,0.9992,0.9992,True
+12367,nb-NO,transport,transport_query,hva er den beste veien til drammen,transport_query,0.9971,0.9971,True
+12376,nb-NO,transport,transport_query,hva er den første banen til oslo sentrum,iot_hue_lightoff,0.1868,0.0753,False
+12392,nb-NO,transport,transport_query,fortell meg dagens retning,weather_query,0.503,0.0098,False
+12402,nb-NO,transport,transport_query,når har det neste toget mot byen avgang fra her,weather_query,0.9848,0.0145,False
+12419,nb-NO,transport,transport_query,raskeste ruter til ås,qa_factoid,0.755,0.0031,False
+12430,nb-NO,transport,transport_query,fortell meg togets ankomsttid i bergen,qa_factoid,0.9991,0.0003,False
+12436,nb-NO,transport,transport_query,hvor lang tid vil det ta å komme til flyplassen,transport_query,0.9929,0.9929,True
+12437,nb-NO,transport,transport_query,hva er pendlertiden til teateret,iot_hue_lightoff,0.4611,0.0034,False
+12446,nb-NO,transport,transport_query,kan du fortelle meg tiden da toget har avgang mot kongsvinger,weather_query,0.8206,0.0005,False
+12473,nb-NO,transport,transport_query,hvordan kommer jeg meg hjem fra her,qa_factoid,0.241,0.0725,False
+12526,nb-NO,transport,transport_query,hva er den raskeste veien til kaffebrenneriet,transport_query,0.9672,0.9672,True
+12532,nb-NO,transport,transport_query,led veien til stedet,transport_query,0.9256,0.9256,True
+12581,nb-NO,transport,transport_query,når går det første toget i dag,weather_query,0.8565,0.1191,False
+12582,nb-NO,transport,transport_query,hvilken tid ankommer den første banen om morgenen,datetime_query,0.6434,0.0007,False
+12604,nb-NO,transport,transport_query,hvordan booker jeg en tog billett på nett,qa_factoid,0.9648,0.0192,False
+12618,nb-NO,transport,transport_query,hvor mye er en tur retur tog billett til oslo,transport_query,0.3863,0.3863,True
+12623,nb-NO,transport,transport_query,har du noen tog tider for bø i vesterålen,calendar_query,0.9877,0.0008,False
+12629,nb-NO,transport,transport_query,når går det første toget fra kongsvinger,weather_query,0.7661,0.231,False
+12634,nb-NO,transport,transport_query,når går det neste toget mot gjøvik,weather_query,0.9953,0.0023,False
+12707,nb-NO,transport,transport_query,navigasjonssøk,qa_factoid,0.2838,0.0586,False
+12759,nb-NO,transport,transport_query,kjøre tid til bergen,cooking_recipe,0.2552,0.0316,False
+12797,nb-NO,transport,transport_query,togtider fra nær meg til posisjon,qa_factoid,0.9851,0.0006,False
+12800,nb-NO,transport,transport_query,hvor er det offentlige biblioteket,qa_factoid,0.9997,0.0,False
+12817,nb-NO,transport,transport_query,hvordan kommer jeg meg til kjøpesentret,cooking_recipe,0.634,0.0062,False
+12818,nb-NO,transport,transport_query,hvor mye koster en tog billett til bergen,qa_factoid,0.8307,0.1628,False
+12824,nb-NO,transport,transport_query,list alle tog tider til oslo,lists_query,0.9994,0.0,False
+12835,nb-NO,transport,transport_query,til hvilken tid går toget til stedet,qa_factoid,0.9993,0.0003,False
+12839,nb-NO,transport,transport_query,ta meg til aker brygge,qa_factoid,0.8002,0.0924,False
+12851,nb-NO,transport,transport_query,vis meg veibeskrivelse til mitt hjem,transport_query,0.9986,0.9986,True
+12856,nb-NO,transport,transport_query,veibeskrivelser er du snill,cooking_recipe,0.9977,0.0001,False
+12866,nb-NO,transport,transport_query,hva er tiden til nordlandsbanen,weather_query,0.5203,0.0007,False
+12908,nb-NO,transport,transport_query,hvilken tid ankommer toget fredrikstad,weather_query,0.8607,0.0004,False
+12930,nb-NO,transport,transport_query,søk opp kartet med butikker nær meg,lists_query,0.9874,0.0005,False
+12932,nb-NO,transport,transport_query,olly jeg trenger veibeskrivelse til bogstadveien,transport_query,0.9996,0.9996,True
+12951,nb-NO,qa,qa_factoid,hva er den høyeste byggningen i verden,qa_factoid,0.9999,0.9999,True
+12957,nb-NO,qa,qa_definition,definer innfløkt,qa_definition,0.9937,0.9937,True
+12961,nb-NO,qa,qa_definition,definer rettsmedisinsk er du snill,qa_definition,0.9972,0.9972,True
+12963,nb-NO,qa,qa_definition,hva er definisjonen av rettsmedisinsk,qa_definition,1.0,1.0,True
+12972,nb-NO,qa,qa_factoid,hva er den høyeste toppen i verden,qa_factoid,0.9976,0.9976,True
+12982,nb-NO,qa,qa_definition,hva betyr turbulens,qa_definition,0.9977,0.9977,True
+12986,nb-NO,qa,qa_definition,sjekk definisjonen av lunefull,qa_definition,1.0,1.0,True
+12999,nb-NO,qa,qa_factoid,hvor gammel er tone damli,qa_factoid,0.9999,0.9999,True
+13016,nb-NO,qa,qa_definition,sjekk opp definisjonen av feiltagelse,qa_factoid,0.5143,0.4851,False
+13023,nb-NO,cooking,cooking_recipe,vis meg oppskrifter,cooking_recipe,0.9998,0.9998,True
+13069,nb-NO,qa,qa_definition,hva er definisjonen av oransje,qa_definition,1.0,1.0,True
+13074,nb-NO,qa,qa_factoid,hvorfor er ikke jon øigarden morsom,cooking_recipe,0.4349,0.2783,False
+13077,nb-NO,qa,qa_factoid,når er harald rønneberg sin bursdag,weather_query,0.9877,0.0003,False
+13078,nb-NO,qa,qa_factoid,hva er harald eias adresse,email_query,0.9952,0.0002,False
+13099,nb-NO,qa,qa_factoid,hvem er statsminister i storbritannia i dag,qa_factoid,0.9997,0.9997,True
+13115,nb-NO,qa,qa_factoid,hva er hovedstaden i nigeria,qa_factoid,0.9928,0.9928,True
+13124,nb-NO,qa,qa_factoid,hvor stort er kosmos,qa_factoid,0.9999,0.9999,True
+13135,nb-NO,qa,qa_factoid,når er fødselsdatoen til taylor lautner,qa_factoid,0.9934,0.9934,True
+13140,nb-NO,qa,qa_definition,kan du fortelle meg alt du vet om orkan,qa_definition,0.6892,0.6892,True
+13154,nb-NO,qa,qa_factoid,kjenner du tone damlis telefonnummer,email_sendemail,0.9313,0.0021,False
+13165,nb-NO,qa,qa_definition,hva betyr oscillere,qa_definition,0.9997,0.9997,True
+13166,nb-NO,qa,qa_definition,stav og definer oscillere,play_radio,0.4554,0.0014,False
+13177,nb-NO,calendar,calendar_set,minn meg på å bevege meg så jeg ikke går opp i vekt,iot_hue_lightoff,0.4703,0.0069,False
+13178,nb-NO,calendar,calendar_set,minn meg på å kontakte gamle venner som jeg ikke har snakket med på seks måneder før de dør,social_post,0.9881,0.0005,False
+13188,nb-NO,news,news_query,fortell meg hvordan resultatene av forsamlingsvalget i delhi kommer til å komme ut,news_query,0.3467,0.3467,True
+13206,nb-NO,qa,qa_definition,sted,qa_factoid,0.4539,0.0297,False
+13215,nb-NO,transport,transport_query,hva er den raskeste veien til jobben min nede i byen uten å komme i trafikken,transport_query,0.9958,0.9958,True
+13252,nb-NO,qa,qa_factoid,hva var jo nesbøs første bok,email_sendemail,0.8721,0.0044,False
+13255,nb-NO,qa,qa_factoid,vennligst gi meg informasjon om karl johan,email_sendemail,1.0,0.0,False
+13283,nb-NO,qa,qa_factoid,hvor mye penger tjente bill gates,qa_factoid,0.9979,0.9979,True
+13288,nb-NO,qa,qa_definition,hva er definisjonen av ordet permanent,qa_definition,1.0,1.0,True
+13297,nb-NO,qa,qa_factoid,hvem er en kjendis,social_post,0.5885,0.411,False
+13298,nb-NO,qa,qa_factoid,hva gjør en kjendis,social_post,0.9997,0.0001,False
+13330,nb-NO,qa,qa_factoid,hva slags størrelse er en kaskelothval,iot_hue_lightoff,0.8623,0.1296,False
+13361,nb-NO,qa,qa_definition,hva er definisjonen av tidløs,qa_definition,1.0,1.0,True
+13383,nb-NO,qa,qa_factoid,hvor mange stater har dødsstraff,weather_query,0.7764,0.215,False
+13400,nb-NO,social,social_post,send en morsom melding til alle vennene mine,social_post,0.9953,0.9953,True
+13439,nb-NO,qa,qa_factoid,hvor gammel er j. k. rowling,qa_factoid,0.9971,0.9971,True
+13457,nb-NO,calendar,calendar_set,fortell meg når jeg må dra til en hendelse slik at jeg kommer på tiden,weather_query,0.9849,0.0031,False
+13473,nb-NO,qa,qa_factoid,når ble norge uavhengig,qa_factoid,0.9813,0.9813,True
+13487,nb-NO,qa,qa_factoid,olly hva er hovedstaden i viken,social_post,0.8421,0.0297,False
+13494,nb-NO,qa,qa_definition,gi meg definisjonen på motivasjon,qa_definition,0.9926,0.9926,True
+13506,nb-NO,datetime,datetime_query,kan du si meg hva klokka er,qa_factoid,0.9531,0.0001,False
+13513,nb-NO,qa,qa_factoid,hvor mange ben har en hund,qa_factoid,0.9995,0.9995,True
+13516,nb-NO,qa,qa_factoid,hvorfor er hvaler så store,qa_factoid,0.7782,0.7782,True
+13546,nb-NO,qa,qa_factoid,hva var den siste filmen ane dahl torp var med i,qa_factoid,0.9789,0.9789,True
+13554,nb-NO,qa,qa_factoid,hvor høy er aksel hennie,iot_hue_lightoff,0.8329,0.16,False
+13575,nb-NO,qa,qa_factoid,når var den siste akademi prisvinnende film,qa_factoid,0.3686,0.3686,True
+13580,nb-NO,qa,qa_factoid,hvor høyt er mount everest,iot_hue_lightoff,0.9888,0.0111,False
+13591,nb-NO,qa,qa_factoid,hva er delstatshovedstaden i vest virginia,iot_hue_lightoff,0.7216,0.0002,False
+13592,nb-NO,qa,qa_factoid,hvor er new zealand lokalisert på ett kart,iot_hue_lightoff,0.4138,0.0268,False
+13604,nb-NO,qa,qa_factoid,fortell meg hvor kjell inge røkke er født,qa_factoid,0.9845,0.9845,True
+13607,nb-NO,qa,qa_factoid,kan du vær så snill bekrefte om leonardo er gift,qa_factoid,0.9905,0.9905,True
+13616,nb-NO,qa,qa_factoid,hvor henger de fleste kjendiser,social_post,0.5929,0.4022,False
+13619,nb-NO,recommendation,recommendation_events,er det noen gratis arrangementer i nærheten i dag,qa_factoid,0.9684,0.0048,False
+13625,nb-NO,qa,qa_definition,hva er den største pulten,iot_hue_lightoff,0.8088,0.0035,False
+13636,nb-NO,qa,qa_factoid,hva er aksel hennies bursdag,email_sendemail,0.5151,0.0218,False
+13679,nb-NO,qa,qa_factoid,kan du fortelle meg hvor mange mager en ku har,qa_factoid,0.7543,0.7543,True
+13681,nb-NO,qa,qa_factoid,hvor mange stykker har aksel hennie spilt i,iot_hue_lightoff,0.7396,0.0383,False
+13683,nb-NO,qa,qa_factoid,hvilket merke hårspray bruker donald trump,qa_definition,0.4678,0.0444,False
+13689,nb-NO,qa,qa_definition,hva er en stol,qa_factoid,0.7786,0.0037,False
+13690,nb-NO,qa,qa_factoid,hvilken farge er stoler,iot_hue_lightoff,0.9852,0.0011,False
+13693,nb-NO,qa,qa_factoid,hvor er hovedmeridianen,iot_hue_lightoff,0.8284,0.0009,False
+13705,nb-NO,qa,qa_definition,hva er et elektronisk utslippssystem,iot_hue_lightoff,0.9356,0.046,False
+13706,nb-NO,qa,qa_definition,forklar en rotor,qa_factoid,0.2716,0.0226,False
+13714,nb-NO,qa,qa_definition,hva er en mango,cooking_recipe,0.7709,0.0004,False
+13717,nb-NO,qa,qa_factoid,kan du virkelig se russland fra alaska,qa_factoid,1.0,1.0,True
+13758,nb-NO,qa,qa_factoid,hvor gammel er kari bremnes,qa_factoid,0.9572,0.9572,True
+13761,nb-NO,qa,qa_factoid,hva er farse,qa_factoid,0.9902,0.9902,True
+13774,nb-NO,qa,qa_factoid,hvor langt er agder fra rogaland,qa_factoid,0.9553,0.9553,True
+13777,nb-NO,qa,qa_definition,kan du forklare ett kredittkort,qa_factoid,0.8576,0.0014,False
+13780,nb-NO,qa,qa_factoid,er john carew gift,email_sendemail,0.9877,0.0003,False
+13798,nb-NO,qa,qa_factoid,hvor mange kvadratkilometer er et gjennomsnittlig land på jorden,qa_factoid,0.9919,0.9919,True
+13799,nb-NO,qa,qa_definition,hva er definisjonen av underkastet,qa_definition,1.0,1.0,True
+13823,nb-NO,qa,qa_factoid,hvor langt unna er solen,weather_query,0.9574,0.0301,False
+13853,nb-NO,qa,qa_factoid,hvor i verden er det flest vulkaner,qa_factoid,0.9959,0.9959,True
+13854,nb-NO,qa,qa_factoid,når døde jahn teigen,weather_query,0.3628,0.255,False
+13863,nb-NO,qa,qa_definition,hva er definisjonen på logikk,qa_definition,1.0,1.0,True
+13867,nb-NO,qa,qa_factoid,hvor er rondane nasjonalpark,qa_definition,0.6436,0.117,False
+13869,nb-NO,qa,qa_factoid,vær så snill google lokasjon og informasjon om mount rushmore,social_post,0.2812,0.0408,False
+13871,nb-NO,qa,qa_definition,hvordan ville du beskrevet en gratulerer med dagen,qa_factoid,0.4844,0.0126,False
+13881,nb-NO,qa,qa_factoid,vennligst gi meg informasjon på alan walker,email_sendemail,0.9758,0.0133,False
+13888,nb-NO,qa,qa_factoid,hva er temperaturen i elverum i innlandet,weather_query,0.9994,0.0,False
+13895,nb-NO,qa,qa_factoid,kan du fortelle meg om john carew,email_sendemail,0.911,0.0,False
+13900,nb-NO,qa,qa_definition,definisjonen av liv,qa_definition,1.0,1.0,True
+13907,nb-NO,qa,qa_definition,definer forbløffet,qa_factoid,0.4011,0.2449,False
+13908,nb-NO,qa,qa_definition,kan du fortelle meg hva forbløffet betyr,qa_definition,0.7982,0.7982,True
+13926,nb-NO,qa,qa_factoid,hva er bursdagen til hemingway,weather_query,0.9878,0.0004,False
+13927,nb-NO,qa,qa_factoid,hvor mye er karsten warholm verdt,qa_factoid,0.9678,0.9678,True
+13974,nb-NO,qa,qa_factoid,hvor er laos lokalisert,social_post,0.9911,0.0063,False
+13983,nb-NO,qa,qa_definition,lider av konsekvenser,qa_factoid,0.5586,0.0117,False
+13984,nb-NO,qa,qa_definition,konsekvenser for handlinger,qa_factoid,0.4296,0.0293,False
+13997,nb-NO,qa,qa_factoid,hvor mye er et gjennomsnittlig hus,qa_factoid,0.995,0.995,True
+14000,nb-NO,qa,qa_definition,beskriv et dovendyr,qa_factoid,1.0,0.0,False
+14001,nb-NO,qa,qa_factoid,fortell meg alt du vet om dovendyr,qa_factoid,0.9258,0.9258,True
+14011,nb-NO,qa,qa_factoid,hva er tone damlis bursdag,social_post,0.9211,0.0013,False
+14015,nb-NO,qa,qa_factoid,hva er koordinatene til ekvatoren,qa_factoid,0.9986,0.9986,True
+14023,nb-NO,qa,qa_definition,beskirv helvete,cooking_recipe,0.33,0.0117,False
+14033,nb-NO,qa,qa_factoid,fortell meg når stoltenberg er født,datetime_query,0.3626,0.2101,False
+14038,nb-NO,qa,qa_factoid,hvor er moldova,weather_query,0.9324,0.0004,False
+14040,nb-NO,qa,qa_factoid,hvor høy er hulk hogan,qa_factoid,0.5471,0.5471,True
+14053,nb-NO,qa,qa_factoid,hvilket år begynte aksel hennie med skuespill,qa_factoid,0.9795,0.9795,True
+14063,nb-NO,qa,qa_factoid,når var jan werners fødselsdag,datetime_query,0.4254,0.0976,False
+14083,nb-NO,qa,qa_factoid,hvor er det nåværende bostedet til aksel hennie,qa_factoid,0.9582,0.9582,True
+14096,nb-NO,qa,qa_factoid,hvor er trollheimen,social_post,0.974,0.0038,False
+14115,nb-NO,qa,qa_definition,gi detaljer på steinsand,lists_query,0.8357,0.0044,False
+14116,nb-NO,qa,qa_definition,beskriv steinsand,qa_factoid,0.9997,0.0,False
+14117,nb-NO,qa,qa_factoid,hvor finner jeg pyramidene,lists_query,0.7615,0.0664,False
+14118,nb-NO,qa,qa_factoid,hvis geografiske detaljer av pyramider,qa_definition,0.2901,0.2881,False
+14126,nb-NO,qa,qa_factoid,vis biografi av astrid s,social_post,0.8835,0.0,False
+14138,nb-NO,qa,qa_definition,vær så snill å fortell meg hva definisjonen av en sylinder er,qa_definition,1.0,1.0,True
+14147,nb-NO,qa,qa_definition,definer teppe,qa_definition,0.9297,0.9297,True
+14150,nb-NO,qa,qa_definition,hva er converse sko,social_post,0.3366,0.0243,False
+14151,nb-NO,qa,qa_factoid,hvilke solbriller regnes som pilotbriller,recommendation_events,0.8789,0.0042,False
+14154,nb-NO,qa,qa_factoid,afrika info,qa_factoid,0.6018,0.6018,True
+14163,nb-NO,qa,qa_factoid,søk etter posisjonen,qa_factoid,0.5439,0.5439,True
+14169,nb-NO,qa,qa_factoid,hvor gikk gunhild stordalen på universitet,qa_factoid,0.3953,0.3953,True
+14170,nb-NO,qa,qa_factoid,bruker tone damli converse,recommendation_events,0.1758,0.0436,False
+14179,nb-NO,qa,qa_factoid,hvor langt er sverige fra min nåværende posisjon,qa_factoid,0.9758,0.9758,True
+14214,nb-NO,transport,transport_query,finn reisemåtene for det samme,transport_query,0.8053,0.8053,True
+14229,nb-NO,qa,qa_factoid,hvilke filmer har ane dahl torp spillt i,qa_factoid,0.9261,0.9261,True
+14243,nb-NO,qa,qa_factoid,personlig detaljer,email_query,0.2466,0.1074,False
+14272,nb-NO,qa,qa_definition,hei hva er en bok,qa_definition,0.988,0.988,True
+14283,nb-NO,qa,qa_factoid,fortell meg om bergen,social_post,0.7858,0.0049,False
+14306,nb-NO,qa,qa_factoid,forklar den geografiske beliggenheten til india,qa_factoid,0.4579,0.4579,True
+14308,nb-NO,qa,qa_factoid,hvor mye er aksel hennie verdt,qa_factoid,0.9962,0.9962,True
+14316,nb-NO,qa,qa_factoid,hvor stort er alaska,qa_factoid,1.0,1.0,True
+14317,nb-NO,qa,qa_factoid,hva er størrelsen på norge,qa_factoid,0.4846,0.4846,True
+14323,nb-NO,qa,qa_factoid,hvilken farge er en dragefrukt,iot_hue_lightoff,0.8877,0.0061,False
+14330,nb-NO,qa,qa_factoid,hvor ble steve jobs født,qa_factoid,0.3001,0.3001,True
+14347,nb-NO,qa,qa_definition,hva er en hypotese,qa_factoid,0.8068,0.0003,False
+14354,nb-NO,qa,qa_factoid,hva er svaret på universett,qa_factoid,0.6169,0.6169,True
+14355,nb-NO,qa,qa_factoid,hvor mange sjøsskjell solgte sally ved sjøkysten,qa_factoid,0.9962,0.9962,True
+14370,nb-NO,qa,qa_factoid,fortell meg om kjendisyrket,qa_definition,0.6159,0.272,False
+14378,nb-NO,qa,qa_definition,definisjon av hastighet,qa_definition,0.991,0.991,True
+14382,nb-NO,qa,qa_factoid,hvor høyt er munch museet,iot_hue_lightoff,0.9909,0.0077,False
+14395,nb-NO,qa,qa_factoid,hvor er det dypeste stedet på jorda,qa_factoid,0.995,0.995,True
+14414,nb-NO,qa,qa_definition,beskriv hva en data harddisk er,qa_definition,0.3597,0.3597,True
+14417,nb-NO,qa,qa_factoid,hvilke hav berører vårt kontinent,qa_factoid,0.9893,0.9893,True
+14419,nb-NO,qa,qa_factoid,er ane dahl torp med i en ny film i år,qa_factoid,0.6528,0.6528,True
+14429,nb-NO,qa,qa_definition,hva er en kaftan,qa_factoid,0.7951,0.0258,False
+14440,nb-NO,qa,qa_factoid,hva er hovedstaden i mexico,qa_factoid,0.6363,0.6363,True
+14442,nb-NO,qa,qa_factoid,hvor er fiji,qa_factoid,0.9997,0.9997,True
+14444,nb-NO,qa,qa_factoid,hva var den første fimen til morgan freeman,datetime_query,0.6456,0.0006,False
+14449,nb-NO,qa,qa_factoid,har aurora fått barn,qa_factoid,0.9581,0.9581,True
+14457,nb-NO,qa,qa_factoid,finn rute,email_query,0.4308,0.0104,False
+14465,nb-NO,transport,transport_query,veibeskrivelse til tusenfryd,cooking_recipe,0.398,0.0181,False
+14490,nb-NO,qa,qa_factoid,når ble nationalteateret byged,weather_query,0.7656,0.0256,False
+14498,nb-NO,qa,qa_definition,gi meg forklaringen på smarttelefonen,qa_definition,0.9997,0.9997,True
+14504,nb-NO,qa,qa_factoid,olly hvor mange møter hadde mahatma gandhi,social_post,0.7904,0.2057,False
+14505,nb-NO,qa,qa_factoid,hvem er nåværende statsminister i norge,qa_factoid,0.9941,0.9941,True
+14508,nb-NO,qa,qa_factoid,vennligst oppsummer den siste george r. r. boken martin ice and fire,email_sendemail,1.0,0.0,False
+14509,nb-NO,qa,qa_factoid,hvor var mahatma gandhi født,qa_factoid,1.0,1.0,True
+14539,nb-NO,qa,qa_factoid,finn geografiske opplysninger om dette stedet,qa_factoid,0.686,0.686,True
+14545,nb-NO,qa,qa_factoid,fortell meg india lokasjonen,qa_factoid,0.9835,0.9835,True
+14567,nb-NO,qa,qa_factoid,hva er den største akive vulkanen på jorden,qa_factoid,0.9988,0.9988,True
+14585,nb-NO,qa,qa_factoid,hvor lang tid tar det å reise til japan fra sørkorea,qa_factoid,0.9959,0.9959,True
+14591,nb-NO,qa,qa_definition,gi meg beskrivelsen av en tv-krets,qa_definition,0.9904,0.9904,True
+14592,nb-NO,qa,qa_definition,gi meg beskrivelsen av en smarttelefonkrets,qa_definition,0.994,0.994,True
+14597,nb-NO,qa,qa_factoid,hva er populasjonen i stavanger,lists_query,0.3549,0.0136,False
+14601,nb-NO,qa,qa_factoid,hvor mange år var abraham lincoln president i usa,qa_factoid,0.9971,0.9971,True
+14605,nb-NO,qa,qa_factoid,var det tone damli som forlot aksel hennie,email_sendemail,0.8652,0.0221,False
+14608,nb-NO,qa,qa_factoid,hvilken ny film jobber ane dahl torp med,qa_factoid,0.8556,0.8556,True
+14622,nb-NO,qa,qa_definition,beskriv hva sfære er,qa_definition,0.8254,0.8254,True
+14648,nb-NO,cooking,cooking_recipe,oppskrift vær så snill,cooking_recipe,0.9991,0.9991,True
+14653,nb-NO,qa,qa_factoid,hvor mange folk bor det i russland,qa_factoid,0.9506,0.9506,True
+14661,nb-NO,qa,qa_factoid,hvilket år er jens stoltenberg født,datetime_query,0.9951,0.001,False
+14668,nb-NO,qa,qa_definition,beskriv katt,email_sendemail,0.9965,0.0001,False
+14683,nb-NO,qa,qa_factoid,hva er hobbyen til victor sotberg,email_query,0.9283,0.0038,False
+14684,nb-NO,qa,qa_factoid,hvem er statsminister i russland,qa_factoid,0.9991,0.9991,True
+14690,nb-NO,qa,qa_definition,o. k. google hva er en president,qa_factoid,0.9431,0.0564,False
+14700,nb-NO,qa,qa_definition,hva nøyaktig er en harpiks tannfylling,iot_hue_lightoff,0.5077,0.1782,False
+14701,nb-NO,qa,qa_definition,forklar heart stone kortspillet,cooking_recipe,0.1425,0.0382,False
+14705,nb-NO,qa,qa_factoid,ok google hvor bor martin solheim,social_post,0.9941,0.0034,False
+14706,nb-NO,qa,qa_factoid,hvor bor åge hareide,qa_factoid,0.9991,0.9991,True
+14746,nb-NO,qa,qa_factoid,hva var hovedstaden i kazakhstan,qa_factoid,0.9206,0.9206,True
+14761,nb-NO,qa,qa_definition,gi meg definisjonen av ordet pontifikat,qa_definition,0.9996,0.9996,True
+14767,nb-NO,qa,qa_definition,hvordan vil du beskrive en ball,qa_definition,0.9998,0.9998,True
+14770,nb-NO,qa,qa_factoid,fortell meg om det største havet i verden,qa_factoid,0.5869,0.5869,True
+14787,nb-NO,qa,qa_factoid,hva er forskjellen mellom romersk og grigoreansk kalender,qa_definition,0.9669,0.0092,False
+14791,nb-NO,qa,qa_factoid,hva er stol laget av,iot_hue_lightoff,0.9164,0.0283,False
+14794,nb-NO,qa,qa_factoid,hva er elvis sin favoritt kjøretøy,cooking_recipe,0.6011,0.1131,False
+14822,nb-NO,qa,qa_factoid,å sammenligne mennesker,recommendation_events,0.3971,0.0473,False
+14838,nb-NO,qa,qa_factoid,hva er et nøytralt densitetfilter og burde jeg velge et gradert eller solid dessuten hvilket er best det med skruen eller det som er kvadratisk,qa_factoid,0.4494,0.4494,True
+14857,nb-NO,qa,qa_definition,kan du forklare meg meningen av ublu for meg er du snill,qa_definition,0.9639,0.9639,True
+14877,nb-NO,qa,qa_factoid,hvordan er klimaforholdene i området,weather_query,0.9122,0.0765,False
+14879,nb-NO,qa,qa_definition,meningen med,qa_definition,0.3538,0.3538,True
+14884,nb-NO,qa,qa_factoid,hva er den minst tornadoutsatte staten i hele us,qa_factoid,0.588,0.588,True
+14889,nb-NO,qa,qa_definition,vennligst beskriv det objektet for meg,qa_factoid,0.9931,0.0021,False
+14891,nb-NO,qa,qa_factoid,i hvilket felt utmerker personen seg for,qa_factoid,0.9999,0.9999,True
+14912,nb-NO,qa,qa_factoid,når ble statsminister gerhardsen født,datetime_query,0.9764,0.0003,False
+14917,nb-NO,qa,qa_factoid,når kommer mark lanegans neste album ut,email_sendemail,0.5885,0.1071,False
+14933,nb-NO,qa,qa_factoid,gi meg info om indias geografi,social_post,0.761,0.1504,False
+14939,nb-NO,qa,qa_factoid,jeg trenger noen opplysninger om aksel hennie kan du hjelpe,qa_factoid,0.2953,0.2953,True
+14981,nb-NO,qa,qa_definition,beskrivelse iphone syv,email_sendemail,0.934,0.0155,False
+14994,nb-NO,qa,qa_factoid,hva er aksel hennies neste film,social_post,0.7614,0.1888,False
+14995,nb-NO,qa,qa_definition,hva beyr situasjon,qa_factoid,0.9903,0.0001,False
+15020,nb-NO,qa,qa_factoid,hvor gammel er kristoffer joner,qa_factoid,0.9782,0.9782,True
+15039,nb-NO,qa,qa_factoid,olly hvor starter jotunheimen,iot_hue_lightoff,0.9993,0.0005,False
+15055,nb-NO,qa,qa_factoid,hvilken pol er kaldest sør eller nord polen,weather_query,0.9982,0.0001,False
+15056,nb-NO,qa,qa_factoid,hvor gammel er emma watson sin nyeste kjæreste,qa_factoid,0.9994,0.9994,True
+15062,nb-NO,qa,qa_factoid,info om lisa ann vær så snill,social_post,0.9017,0.0004,False
+15075,nb-NO,qa,qa_factoid,olly hvor bosatte de første amerikanerne seg,social_post,0.9993,0.0003,False
+15092,nb-NO,qa,qa_definition,finn en beskrivelse av en samsung t. v.,recommendation_events,0.8667,0.0009,False
+15094,nb-NO,qa,qa_factoid,sjekk opp antall mennesker som bor i gjøvik i innlandet,social_post,0.9172,0.0557,False
+15095,nb-NO,qa,qa_factoid,hvilken region er hamar lokalisert,qa_factoid,0.3361,0.3361,True
+15127,nb-NO,qa,qa_definition,definer høyttaler,iot_hue_lightoff,0.9983,0.0006,False
+15155,nb-NO,social,social_post,kan du laste opp min siste selfie på min facebook-konto,social_post,0.9996,0.9996,True
+15166,nb-NO,social,social_post,legg ut virksomheten min på twitter,social_post,0.9399,0.9399,True
+15177,nb-NO,social,social_post,please retweet denne posten på twitter,social_post,0.9998,0.9998,True
+15185,nb-NO,social,social_post,bursdags ønsker,cooking_recipe,0.6187,0.0049,False
+15186,nb-NO,social,social_post,bryllupsønsker,email_sendemail,0.618,0.0131,False
+15187,nb-NO,social,social_post,del i venninnlegg,social_post,0.9861,0.9861,True
+15197,nb-NO,social,social_post,post til min twitter mitt besøk til japan,social_post,1.0,1.0,True
+15208,nb-NO,social,social_post,post hei alle på facebook,social_post,1.0,1.0,True
+15213,nb-NO,news,news_query,hva er populært nå,social_post,0.8253,0.0016,False
+15214,nb-NO,news,news_query,hva er nyhetene i dag,news_query,0.9982,0.9982,True
+15216,nb-NO,social,social_post,tweet noe for meg,social_post,0.9492,0.9492,True
+15231,nb-NO,social,social_post,min tur til goa bilde legg det ut på instagram,social_post,0.9999,0.9999,True
+15271,nb-NO,social,social_post,post dette til min facebook l. o. l.,social_post,1.0,1.0,True
+15275,nb-NO,social,social_post,legg ut at jeg er glad på facebook,social_post,0.9999,0.9999,True
+15276,nb-NO,social,social_post,legg ut en ny status på facebook som sier at jeg nyter det fine været,social_post,0.9999,0.9999,True
+15289,nb-NO,social,social_post,legg ut meldingen nå,calendar_remove,0.3934,0.0097,False
+15305,nb-NO,calendar,calendar_query,har jeg noen påminnelser i sosiale medier,social_post,0.9564,0.0014,False
+15318,nb-NO,social,social_post,jeg vil takke alle for bursdagshilsene,email_sendemail,0.8298,0.006,False
+15337,nb-NO,social,social_post,post denne videoen på facebook,social_post,1.0,1.0,True
+15350,nb-NO,social,social_post,jeg er misfornøyd med rema tusen vennligst hjelp meg,qa_factoid,0.5199,0.0675,False
+15358,nb-NO,social,social_post,olly tweet apple at iphonen ikke fungerer,social_post,0.9826,0.9826,True
+15359,nb-NO,social,social_post,åpne tweet til apple om at batteriet til iphonen min alltid er utladet,qa_factoid,0.9692,0.0031,False
+15364,nb-NO,social,social_post,kan du la amazon få vite at det nye telefondekselet er juggel,qa_factoid,0.9992,0.0,False
+15382,nb-NO,social,social_post,kan du kontakte samsung og si at vaskemaskinen min brenner,email_sendemail,0.4537,0.0645,False
+15387,nb-NO,social,social_post,tweet min nåværende posisjon,social_post,0.9926,0.9926,True
+15399,nb-NO,social,social_post,send en klage til onecall om nettverksrelaterte problemer,transport_query,0.3431,0.0135,False
+15401,nb-NO,social,social_post,åpne twitter send melding,email_sendemail,0.9987,0.0,False
+15402,nb-NO,social,social_post,tweet at produktet suger,qa_factoid,0.9877,0.0109,False
+15409,nb-NO,social,social_post,åpne twitter skriv inn klagen min og legg ut til alfakrøll kundeservice,social_post,0.984,0.984,True
+15413,nb-NO,social,social_post,skaff meg en person så snart som mulig,social_post,0.5303,0.5303,True
+15444,nb-NO,social,social_post,to tomler ned alfakrøll firmanavn,qa_factoid,1.0,0.0,False
+15448,nb-NO,social,social_post,send tweet om sonys volumproblemer,social_post,0.9147,0.9147,True
+15454,nb-NO,social,social_post,tweet til united airlines jeg er sint for dere mistet koffertene mine,social_post,0.992,0.992,True
+15456,nb-NO,social,social_post,jeg vil sende en tweet til s. a. s. jeg er rasende for dere mistet bagasjen min,social_post,0.9191,0.9191,True
+15457,nb-NO,social,social_post,jeg hadde et problem med burgeren min kan du tweete bk,social_post,0.3991,0.3991,True
+15459,nb-NO,social,social_post,send en twitter klage,social_post,0.7972,0.7972,True
+15464,nb-NO,social,social_post,jeg fikk ikke produktet i tide send en tweet til monki,social_post,0.9905,0.9905,True
+15467,nb-NO,social,social_post,si til comcast at jeg hater dem,qa_factoid,0.4992,0.0746,False
+15472,nb-NO,social,social_post,tweet en klage til online bokhandel,social_post,0.9996,0.9996,True
+15487,nb-NO,social,social_post,tweet cubus om rensligheten i butikken deres,social_post,0.6563,0.6563,True
+15488,nb-NO,social,social_post,please tweet til dominos at jeg har ventet på leveringen min og jeg er ikke fornøyd,email_sendemail,1.0,0.0,False
+15503,nb-NO,social,social_post,ny melding til forbruker service,news_query,0.9977,0.0001,False
+15508,nb-NO,social,social_post,siri åpne twitter og kvitre at rema suger,social_post,0.989,0.989,True
+15518,nb-NO,social,social_post,send klage via tweet til j. crew,email_sendemail,1.0,0.0,False
+15532,nb-NO,social,social_post,olly tweet ikea og si at kundeservicen deres er forferdelig,social_post,0.3154,0.3154,True
+15546,nb-NO,social,social_post,tweet om kald pizza til dinos pizza,social_post,0.9997,0.9997,True
+15548,nb-NO,social,social_post,tweet mobilklage til samsung,email_sendemail,0.9991,0.0007,False
+15553,nb-NO,social,social_post,please negativ respons tweet på daikin service,social_post,0.7179,0.7179,True
+15554,nb-NO,social,social_post,please tweet at dell service har forsinket tjenester,social_post,0.681,0.681,True
+15556,nb-NO,social,social_post,la oss tweete en klage,iot_hue_lightoff,0.9461,0.0007,False
+15557,nb-NO,social,social_post,jeg trenger at du må kvitre en klage,qa_factoid,0.8056,0.0001,False
+15560,nb-NO,social,social_post,post på facebook jeg er sulten,social_post,1.0,1.0,True
+15565,nb-NO,social,social_post,kan du la s. a. s. få vite at jeg aldri kommer til å bruke dem igjen,qa_factoid,0.6863,0.0079,False
+15587,nb-NO,social,social_post,åpne galleri post bilde navn,social_post,0.9976,0.9976,True
+15592,nb-NO,social,social_post,tweet klage til get,social_post,0.9097,0.9097,True
+15593,nb-NO,social,social_post,tweet klage til comcast,social_post,0.9987,0.9987,True
+15598,nb-NO,social,social_post,åpne firma navn og finn klager,qa_factoid,0.9957,0.0001,False
+15610,nb-NO,social,social_post,post en tweet som følger veldig dårlig oppfølging av n. r. k. ikke fornøyd på kontoen min,social_post,1.0,1.0,True
+15618,nb-NO,social,social_post,tweet gjensidige og fortell at de suger,social_post,0.5364,0.5364,True
+15626,nb-NO,social,social_post,skriv en klage til vg for dårlig kundeseevice,qa_factoid,0.988,0.0006,False
+15634,nb-NO,social,social_post,ok google tvitre hvilken idiot eieren av denne bensinstasjonen er,qa_factoid,0.9995,0.0001,False
+15635,nb-NO,social,social_post,tweet mcdonald's nede på haugerud har forferdelig service,social_post,0.9868,0.9868,True
+15647,nb-NO,social,social_post,tweet klage til,social_post,0.998,0.998,True
+15651,nb-NO,social,social_post,send en rapport til kundeservice,qa_factoid,0.133,0.0296,False
+15652,nb-NO,social,social_post,hjelp å klage til kundeservice,email_sendemail,0.8188,0.0192,False
+15655,nb-NO,social,social_post,tweet til google kundeservice min nye nexustelefon slutte å virke hjelp vær så snill,email_sendemail,0.5721,0.0084,False
+15656,nb-NO,social,social_post,tweet en melding til clas ohlson at jeg venter fremdeles på min levering,email_sendemail,0.9996,0.0004,False
+15661,nb-NO,social,social_post,post min siste inngang til twitter til n. s. a.,social_post,0.9998,0.9998,True
+15670,nb-NO,social,social_post,send en klagetweet,social_post,0.8919,0.8919,True
+15672,nb-NO,social,social_post,tweet til apple om ingen kvittering på iphonen jeg sendte til reperasjon sist uke,social_post,0.5981,0.5981,True
+15676,nb-NO,social,social_post,vennligst legg til klage på servicen i tweet til olivia,email_sendemail,0.5761,0.4195,False
+15686,nb-NO,social,social_post,hei varen min som jeg kjøpte av noen har gått ut av drift,qa_factoid,0.3982,0.0302,False
+15693,nb-NO,social,social_post,tweet at det er et insekt i sjokoladepakken,social_post,0.9989,0.9989,True
+15700,nb-NO,social,social_post,utløpte produkter i det siste markedet,recommendation_events,0.5422,0.0025,False
+15703,nb-NO,social,social_post,twitter til cubus om at de går tom for størelser for raskt,social_post,0.9855,0.9855,True
+15706,nb-NO,social,social_post,tweet alfakrøll,social_post,0.9785,0.9785,True
+15707,nb-NO,social,social_post,la oss sende en tweet,email_sendemail,1.0,0.0,False
+15708,nb-NO,social,social_post,legge inn klage på tjeneste a,email_sendemail,0.85,0.1414,False
+15721,nb-NO,social,social_post,tweet et surt fjes om mcdonalds,social_post,0.999,0.999,True
+15723,nb-NO,social,social_post,sett status på facebook at jeg er glad,social_post,0.9833,0.9833,True
+15731,nb-NO,social,social_post,olly tweet en melding til telenor og fortell de at servicen er dårlig,social_post,0.5387,0.5387,True
+15732,nb-NO,social,social_post,tweet samsung og si at de må slutte å drepe mennesker med deres produkter,email_sendemail,1.0,0.0,False
+15736,nb-NO,social,social_post,send inn en negativ anmeldelse om et selskap,social_post,0.7694,0.7694,True
+15756,nb-NO,email,email_sendemail,vennligst send epost til mitt team,email_sendemail,1.0,1.0,True
+15763,nb-NO,email,email_query,vennligst se etter nye eposter,recommendation_events,0.3395,0.0267,False
+15765,nb-NO,email,email_sendemail,besvar truls e -post,iot_hue_lightoff,0.5374,0.002,False
+15777,nb-NO,email,email_query,fortell meg om jeg har nye eposter,email_sendemail,0.4547,0.0906,False
+15785,nb-NO,email,email_query,er det noe nytt i postkassen min,email_sendemail,0.9998,0.0002,False
+15789,nb-NO,email,email_query,olly har jeg noen nye eposter,social_post,0.3734,0.0315,False
+15792,nb-NO,calendar,calendar_query,hvem har jeg møte med i dag,social_post,0.9989,0.0001,False
+15796,nb-NO,email,email_sendemail,send epost til karen,email_sendemail,1.0,1.0,True
+15802,nb-NO,email,email_sendemail,svar på en epost til dennis at jeg ikke kommer i kveld,email_sendemail,1.0,1.0,True
+15809,nb-NO,email,email_query,har robert sendt meg epost ennå,email_sendemail,1.0,0.0,False
+15825,nb-NO,email,email_sendemail,svar til pappa skriv jeg blir sein,qa_factoid,0.9449,0.011,False
+15828,nb-NO,email,email_sendemail,her er en ny e-postadresse som skal legges til kontaktene,email_sendemail,0.9999,0.9999,True
+15829,nb-NO,email,email_sendemail,gå til kontakter og legg in en ny e-postadresse,email_sendemail,1.0,1.0,True
+15839,nb-NO,email,email_query,emne,qa_factoid,0.3031,0.0431,False
+15841,nb-NO,email,email_sendemail,opprett en ny epost til ståle,email_sendemail,0.985,0.985,True
+15845,nb-NO,email,email_sendemail,hvordan det kom til oss,social_post,0.7258,0.0385,False
+15847,nb-NO,email,email_sendemail,hvordan vi kan få kreditt,qa_factoid,0.5781,0.0048,False
+15849,nb-NO,email,email_sendemail,send en epost til sjefen min,email_sendemail,1.0,1.0,True
+15857,nb-NO,email,email_sendemail,vennligst send til den nye oppførte epost,email_sendemail,1.0,1.0,True
+15862,nb-NO,email,email_query,sjekk epost for mottatt fra mamma,email_sendemail,1.0,0.0,False
+15880,nb-NO,email,email_query,vennligst sjekk mine e-poster,social_post,0.378,0.0218,False
+15890,nb-NO,email,email_query,sjekk for å se om jeg har noen nye e-poster fra min pappa,email_sendemail,0.682,0.0274,False
+15904,nb-NO,email,email_query,sjekk mine nye e-poster og si meg hva de handler om,social_post,0.4429,0.0124,False
+15906,nb-NO,email,email_sendemail,svar takk til john,email_sendemail,0.9983,0.9983,True
+15911,nb-NO,email,email_sendemail,gjør klar epost for susanne,email_query,0.428,0.1776,False
+15933,nb-NO,email,email_query,hvilke nye eposter har jeg,lists_remove,0.4927,0.0105,False
+15942,nb-NO,email,email_sendemail,send denne eposten for å svare på de siste epostene,email_sendemail,1.0,1.0,True
+15950,nb-NO,email,email_sendemail,svar på eposten fra ola nordmann,email_sendemail,1.0,1.0,True
+15957,nb-NO,email,email_sendemail,send epost til alice for å fortelle henne at vi er på vei,email_sendemail,1.0,1.0,True
+15963,nb-NO,email,email_query,har jeg noen nye eposter fra kellogg,email_query,0.2881,0.2881,True
+15966,nb-NO,email,email_query,send et svar hvis det er veldig viktig,email_sendemail,0.9924,0.0008,False
+15968,nb-NO,email,email_query,hvis det er fra et veldig kjent sted marker det som viktig,social_post,0.3168,0.0193,False
+15970,nb-NO,email,email_query,hva var emnet for den siste eposten fra mamma,email_sendemail,0.3656,0.0682,False
+15971,nb-NO,email,email_query,hva var den siste e-posten jeg fikk fra jobb,email_sendemail,1.0,0.0,False
+15994,nb-NO,email,email_sendemail,send en epost til jens og spør ham nårtid går bra for møtet,email_sendemail,1.0,1.0,True
+15995,nb-NO,email,email_sendemail,send epost til karen om budsjettmøtet,email_sendemail,1.0,1.0,True
+15998,nb-NO,email,email_query,sjekk epostene mine for noe fra navnet,email_query,0.6817,0.6817,True
+16002,nb-NO,email,email_query,se etter ny epost,email_sendemail,0.9923,0.0032,False
+16005,nb-NO,email,email_sendemail,send en epost til josef alfakrøll gmail punkt com,email_sendemail,1.0,1.0,True
+16010,nb-NO,email,email_query,fortell meg om jeg har noen nye meldinger i innboksen min,email_sendemail,0.7286,0.0371,False
+16024,nb-NO,email,email_sendemail,send en epost til ronny og si at jeg er opptatt i morgen,email_sendemail,1.0,1.0,True
+16028,nb-NO,email,email_sendemail,hei siri start en epost til kollega,email_sendemail,0.8894,0.8894,True
+16029,nb-NO,email,email_sendemail,vennligst skriv en ny epost til en kollega,email_sendemail,1.0,1.0,True
+16032,nb-NO,email,email_sendemail,send en epost til siri angående morgendagens møte,email_sendemail,1.0,1.0,True
+16038,nb-NO,email,email_query,hei har jan sendt meg noen epost i det siste,email_sendemail,1.0,0.0,False
+16045,nb-NO,email,email_sendemail,send epost til jakob for timeplan for kontoråpning,email_sendemail,1.0,1.0,True
+16048,nb-NO,email,email_query,vis meg nylige eposter,social_post,0.9957,0.0001,False
+16049,nb-NO,email,email_sendemail,jeg har lyst til å sende en epost til familien min hjelper du meg,email_sendemail,1.0,1.0,True
+16050,nb-NO,email,email_query,sjekk g .mail,email_sendemail,1.0,0.0,False
+16052,nb-NO,email,email_query,sjekk outlook,iot_hue_lightoff,0.9841,0.0003,False
+16056,nb-NO,email,email_sendemail,svar på epost,email_sendemail,0.9908,0.9908,True
+16061,nb-NO,email,email_query,har jeg mottatt noen eposter i løpet av de siste ti minuttene,social_post,0.7079,0.0315,False
+16072,nb-NO,email,email_sendemail,send epost til sjefen min om at jeg kommer for sent i dag på grunn av en nødssituasjon og be ham om unnskyldning for at jeg gikk glipp av møtet,email_sendemail,1.0,1.0,True
+16075,nb-NO,email,email_query,vis nylig epost fra john,social_post,0.8308,0.0006,False
+16082,nb-NO,email,email_sendemail,send en epost til petter og spør ham hvordan har han det nå kan jeg gjøre noe for å hjelpe ham,email_sendemail,1.0,1.0,True
+16089,nb-NO,email,email_query,har jeg mottatt nye eposter de siste ti minuttene,recommendation_events,0.6941,0.0076,False
+16096,nb-NO,email,email_query,har ellen sendt meg noen nye eposter,social_post,0.9855,0.0007,False
+16098,nb-NO,email,email_query,sjekk uleste eposter fra amy,social_post,0.9797,0.0003,False
+16100,nb-NO,email,email_query,vennligst sjekk epost som inneholder jobbannonse,email_sendemail,0.9999,0.0001,False
+16103,nb-NO,email,email_sendemail,send en epost til broren min og si bryllupsdag,email_sendemail,1.0,1.0,True
+16120,nb-NO,email,email_sendemail,hjelp skal kun sendes til janne,email_sendemail,1.0,1.0,True
+16131,nb-NO,email,email_sendemail,denne nye eposten skal legges til min kontakt,email_sendemail,0.7904,0.7904,True
+16145,nb-NO,email,email_query,vis meg de siste epostene,social_post,0.9538,0.0005,False
+16146,nb-NO,news,news_query,gi meg de siste oppdateringene,email_sendemail,0.6566,0.064,False
+16148,nb-NO,email,email_sendemail,raskt svar til jack så send en mail,email_sendemail,1.0,1.0,True
+16151,nb-NO,email,email_query,sjekk møte planen i dagens post,social_post,0.9804,0.0007,False
+16162,nb-NO,email,email_sendemail,send svar,email_sendemail,0.9998,0.9998,True
+16163,nb-NO,email,email_query,hvem sendte meg epost i går,email_sendemail,1.0,0.0,False
+16165,nb-NO,email,email_query,svarte charlotte,email_query,0.1624,0.1624,True
+16166,nb-NO,email,email_sendemail,kan du svare charlotte at jeg kommer til å være opptatt med prosjektene de neste tre ukene,recommendation_events,0.3398,0.1106,False
+16168,nb-NO,email,email_query,har det kommet noen eposter de siste femten minuttene,social_post,0.9432,0.0082,False
+16170,nb-NO,email,email_query,åpne innboksen for å sjekke uleste eposter,play_podcasts,0.396,0.0416,False
+16178,nb-NO,email,email_query,noen epost fra amazon i dag,social_post,0.9666,0.0008,False
+16183,nb-NO,email,email_query,sjekk epost om jobben min,email_sendemail,1.0,0.0,False
+16201,nb-NO,email,email_sendemail,vennligst last inn ny epost for bjørn og send meldingen nå,email_sendemail,1.0,1.0,True
+16221,nb-NO,email,email_sendemail,finn frem karines epost og skriv at jeg skal gi henne beskjed,email_sendemail,0.7856,0.7856,True
+16245,nb-NO,email,email_sendemail,send epost til jonas alfakrøll a. o. l. punkt com,email_sendemail,1.0,1.0,True
+16248,nb-NO,email,email_query,vennligst sjekk eposten min,email_sendemail,0.9784,0.0003,False
+16263,nb-NO,email,email_query,fikk jeg noen ny epost fra robert,email_sendemail,1.0,0.0,False
+16266,nb-NO,email,email_sendemail,skriv en epost til familien min og si at jeg elsker dere alle,email_sendemail,1.0,1.0,True
+16271,nb-NO,email,email_query,oppdater innboksen min og informer meg om nye eposter,calendar_remove,0.3936,0.0178,False
+16275,nb-NO,email,email_query,start avstemning for ny epost,iot_hue_lightoff,0.8128,0.0014,False
+16276,nb-NO,email,email_query,har jeg nye eposter,social_post,0.8543,0.0626,False
+16280,nb-NO,email,email_sendemail,vennligst send en epost til trine som er på min familie og venne liste,email_sendemail,1.0,1.0,True
+16282,nb-NO,email,email_sendemail,send en epost til assistenten min klara for å avbestille alle avtaler for i morgen,email_sendemail,1.0,1.0,True
+16296,nb-NO,email,email_sendemail,send en epost til mamma for å fortelle at werners bursdagsfest er på søndag,email_sendemail,1.0,1.0,True
+16297,nb-NO,email,email_sendemail,send en epost til jørn for å si takk,email_sendemail,1.0,1.0,True
+16314,nb-NO,email,email_sendemail,send en epost til margrete,email_sendemail,1.0,1.0,True
+16317,nb-NO,email,email_query,fikk jeg nye eposter fra sara,social_post,0.9958,0.0002,False
+16318,nb-NO,email,email_sendemail,svar på epost,email_sendemail,0.9908,0.9908,True
+16320,nb-NO,email,email_sendemail,jeg vil svare på dag smedruds epost,email_query,0.8702,0.1298,False
+16353,nb-NO,email,email_query,se etter eposter fra sander,social_post,0.9972,0.0002,False
+16354,nb-NO,email,email_query,se etter eposter fra arbeidsgiveren min,social_post,0.6639,0.0008,False
+16356,nb-NO,email,email_query,sendte jeg en epost til tom om emnet våpenkontroll,email_sendemail,1.0,0.0,False
+16357,nb-NO,email,email_query,har tom sendt meg en epost om ammunisjon,email_sendemail,1.0,0.0,False
+16361,nb-NO,email,email_query,har jeg noen nye eposter den siste timen,recommendation_events,0.6042,0.0332,False
+16373,nb-NO,email,email_query,har jeg mottatt noen eposter med sporingsnummer,email_sendemail,0.9626,0.0357,False
+16375,nb-NO,email,email_sendemail,lag en epost til bjarne,cooking_recipe,0.5866,0.0254,False
+16376,nb-NO,email,email_sendemail,alexa vennligst send en epost til mamma,email_sendemail,1.0,1.0,True
+16377,nb-NO,email,email_sendemail,send mamma en epost nå,email_sendemail,1.0,1.0,True
+16384,nb-NO,email,email_query,hei har jeg noen nye eposter,lists_remove,0.4087,0.0218,False
+16385,nb-NO,email,email_query,vennligst les nye eposter,qa_factoid,0.8437,0.001,False
+16398,nb-NO,email,email_sendemail,vennligst send eposten til jørn,email_sendemail,1.0,1.0,True
+16399,nb-NO,email,email_query,har jeg fått noen ny epost,email_sendemail,1.0,0.0,False
+16401,nb-NO,email,email_sendemail,skriv en epost til emilie hei hva gjør du i dag,email_sendemail,1.0,1.0,True
+16402,nb-NO,email,email_sendemail,send epost til lise med planene for i dag,email_sendemail,1.0,1.0,True
+16406,nb-NO,email,email_sendemail,alexa start en epost,email_sendemail,0.7724,0.7724,True
+16410,nb-NO,email,email_sendemail,skriv epost,social_post,0.9828,0.0007,False
+16413,nb-NO,email,email_query,vis alle eposter sendt til meg fra sjefen min,social_post,0.6715,0.0019,False
+16419,nb-NO,email,email_sendemail,send en epost til onkel jan med følgende ja jeg kan klare det,email_sendemail,1.0,1.0,True
+16427,nb-NO,email,email_query,hvor mange nye eposter har jeg mottatt i dag,social_post,0.6586,0.0057,False
+16430,nb-NO,email,email_sendemail,send mamma og pappa en epost og spør hvordan de har det,email_sendemail,1.0,1.0,True
+16437,nb-NO,email,email_sendemail,vær så snill og send denne eposten til vennen min,email_sendemail,1.0,1.0,True
+16438,nb-NO,email,email_sendemail,jeg trenger å sende denne eposten nå,email_sendemail,1.0,1.0,True
+16446,nb-NO,email,email_query,vennligst sjekk seneste e-poststudie fra denne senderen,email_sendemail,0.5896,0.0079,False
+16459,nb-NO,email,email_sendemail,ny melding til nyepost alfakrøll g. mail punkt com,email_sendemail,1.0,1.0,True
+16461,nb-NO,email,email_query,har jeg noen uleste eposter,lists_query,0.9765,0.019,False
+16467,nb-NO,email,email_query,har jeg noen nye eposter fra kontakten min k.,email_query,0.5754,0.5754,True
+16471,nb-NO,email,email_query,sjekk eposter fra jan,social_post,0.9982,0.0001,False
+16496,nb-NO,email,email_sendemail,send en svar på e-post,email_sendemail,1.0,1.0,True
+16501,nb-NO,email,email_sendemail,vennligst send en epost til vennen min dagny hvordan har du det,email_sendemail,1.0,1.0,True
+16506,nb-NO,email,email_sendemail,opprett nye e-postadresse og send e-post,email_sendemail,1.0,1.0,True
+16518,nb-NO,email,email_sendemail,legg til en ny e. post til julie smestad,email_sendemail,1.0,1.0,True
+16519,nb-NO,email,email_sendemail,jeg trenger å legge til en ny e-post til mine kontater,email_sendemail,1.0,1.0,True
+16535,nb-NO,email,email_sendemail,kan du skrive en epost til nora,email_sendemail,1.0,1.0,True
+16559,nb-NO,email,email_sendemail,send et svar til mikkel med svaret fire hundre og tretti fra eposten han sendte i morges,email_sendemail,1.0,1.0,True
+16560,nb-NO,email,email_sendemail,svar på sjefens epost med beskjed om at jeg er der klokken fire om kvelden,email_sendemail,1.0,1.0,True
+16563,nb-NO,email,email_query,olly sjekk eposten min,email_sendemail,1.0,0.0,False
+16591,nb-NO,email,email_sendemail,jeg har nettopp fått en epost fra bill jeg må svare på den akkurat nå,email_sendemail,1.0,1.0,True
+16593,nb-NO,email,email_sendemail,den siste eposten må besvares snarest mulig,lists_remove,0.4524,0.3591,False
+16603,nb-NO,email,email_query,hva står det i eposten som ble sendt for tretti minutter siden fra mamma,email_sendemail,1.0,0.0,False
+16605,nb-NO,email,email_sendemail,skriv og send epost til sjefen min,email_sendemail,1.0,1.0,True
+16609,nb-NO,email,email_query,fortell meg om jeg har noen uleste nye eposter,recommendation_events,0.2682,0.0042,False
+16613,nb-NO,email,email_sendemail,send epost til sjefen som sier at jeg vil bli sen,email_sendemail,1.0,1.0,True
+16622,nb-NO,email,email_sendemail,send en e-post til denne kontakten,email_sendemail,1.0,1.0,True
+16624,nb-NO,email,email_sendemail,jeg trenger å sende en epost til altiboks om tjenesteproblemene mine,email_sendemail,1.0,1.0,True
+16627,nb-NO,email,email_query,sjekk de nyeste epostene,social_post,0.8644,0.003,False
+16630,nb-NO,email,email_sendemail,send et svar på den siste eposten,email_sendemail,0.8359,0.8359,True
+16642,nb-NO,email,email_query,sjekk epost for alt fra susan,social_post,0.9996,0.0,False
+16648,nb-NO,email,email_query,vennligst sjekk epostene mine for meg,email_sendemail,1.0,0.0,False
+16652,nb-NO,email,email_query,hadde bjørns epost vedlegg,email_sendemail,1.0,0.0,False
+16662,nb-NO,email,email_query,mottok jeg noen nye eposter fra oliver,social_post,0.9845,0.0006,False
+16666,nb-NO,email,email_query,har jeg noen inkommende e-poster,social_post,0.6355,0.0122,False
+16668,nb-NO,email,email_query,har noen eposter kommet inn siden fire hundre i dag,social_post,0.7895,0.1247,False
+16669,nb-NO,email,email_query,fikk jeg en epost fra paul,email_sendemail,1.0,0.0,False
+16672,nb-NO,email,email_query,har geir tatt kontakt,social_post,1.0,0.0,False
+16677,nb-NO,email,email_query,har jeg noen nye eposter i innboksen min i dag,lists_remove,0.8767,0.0217,False
+16698,nb-NO,email,email_sendemail,skrive et svar på min mors epost,social_post,0.4128,0.0561,False
+16701,nb-NO,email,email_sendemail,jeg vil svare på saras epost,social_post,0.9486,0.0242,False
+16703,nb-NO,email,email_sendemail,jeg vil gjerne svare på den siste eposten,social_post,0.8676,0.0086,False
+16712,nb-NO,email,email_query,har jeg noen ny epost,email_sendemail,0.9551,0.0423,False
+16713,nb-NO,email,email_query,vennligst sjekk mine e-poster og varsle meg om det finnes noen nye e-poster,email_sendemail,0.9981,0.0004,False
+16717,nb-NO,email,email_sendemail,kan du sende en epost til jens og si at jeg er på permisjon,email_sendemail,1.0,1.0,True
+16719,nb-NO,email,email_query,gi meg beskjed om noen nye eposter jeg har mottatt,social_post,0.449,0.0287,False
+16729,nb-NO,email,email_sendemail,svar på min epost fra per og la de få vite av jeg møter dem i morgen,email_sendemail,1.0,1.0,True
+16730,nb-NO,email,email_query,vennligst sjekk nye e-poster fra andy,social_post,0.891,0.0043,False
+16733,nb-NO,email,email_query,vis meg de siste epostene fra amazon,email_sendemail,0.9998,0.0,False
+16749,nb-NO,email,email_query,er det noen nye eposter for meg i dag,recommendation_events,0.613,0.0071,False
+16754,nb-NO,email,email_sendemail,dikter epost,social_post,0.9766,0.0007,False
+16758,nb-NO,email,email_query,noen nye eposter siden sist gang,social_post,0.9961,0.0002,False
+16763,nb-NO,email,email_query,eposter de siste ti minuttene,social_post,0.9947,0.0001,False
+16765,nb-NO,email,email_query,hva er intervjutiden fra gårsdagens epost,qa_factoid,1.0,0.0,False
+16766,nb-NO,email,email_query,sjekk ny epost,email_sendemail,1.0,0.0,False
+16772,nb-NO,email,email_query,vis alle eposter angående bruddet,social_post,0.4858,0.0014,False
+16780,nb-NO,email,email_sendemail,send en epost til hanschristian alfakrøll gmail punkt com,email_sendemail,1.0,1.0,True
+16791,nb-NO,email,email_sendemail,skriv en ny epost men jeg fikk en ny adresse denne gangen stefan alfakrøll example punkt com,email_sendemail,1.0,1.0,True
+16799,nb-NO,email,email_query,har jeg mottatt noen e-poster siden middagstid,email_sendemail,0.6101,0.0013,False
+16801,nb-NO,email,email_query,har karen send meg none e-poster angående tom,social_post,0.9604,0.0001,False
+16813,nb-NO,email,email_query,ring når jeg kan få en e-post fra john,email_sendemail,1.0,0.0,False
+16814,nb-NO,email,email_query,sjekk eposter,social_post,0.977,0.0009,False
+16838,nb-NO,email,email_sendemail,kan du sende meg eposten til den nye epost id,email_sendemail,1.0,1.0,True
+16851,nb-NO,email,email_query,epost varsler,social_post,0.9384,0.0025,False
+16859,nb-NO,email,email_query,hva sa jeg til josefine i min siste epost,email_sendemail,0.9935,0.0065,False
+16872,nb-NO,email,email_sendemail,finn bjørg fra kontaktene mine og send henne en epost,email_sendemail,1.0,1.0,True
+16873,nb-NO,email,email_sendemail,send epost til mari om hennes bursdag,email_sendemail,1.0,1.0,True
+16880,nb-NO,email,email_sendemail,send josef en epost angående møtet,email_sendemail,1.0,1.0,True
+16883,nb-NO,email,email_sendemail,send en epost til jerry spør når han er hjemme i kveld,email_sendemail,1.0,1.0,True
+16886,nb-NO,email,email_sendemail,svar på denne eposten,email_sendemail,0.8345,0.8345,True
+16888,nb-NO,email,email_query,hva med ny post,social_post,0.9783,0.0052,False
+16890,nb-NO,email,email_query,hva står i ny epost,email_sendemail,0.9999,0.0001,False
+16891,nb-NO,email,email_sendemail,send martin olsen og epost,email_sendemail,1.0,1.0,True
+16892,nb-NO,email,email_sendemail,start og epost til bjørnar strømmen,email_sendemail,1.0,1.0,True
+16899,nb-NO,email,email_query,har jeg mottatt noen eposter fra jonas bruun,social_post,1.0,0.0,False
+16914,nb-NO,email,email_query,har jeg eposter fra denne avsenderen,email_sendemail,1.0,0.0,False
+16916,nb-NO,email,email_sendemail,hei svar på en mail som jeg mottok,email_sendemail,1.0,1.0,True
+16924,nb-NO,email,email_query,sjekk g. mailen min for ny epost,email_sendemail,1.0,0.0,False
+16930,nb-NO,email,email_query,vis siste epost,social_post,0.664,0.0048,False
+16938,nb-NO,email,email_sendemail,svar på johns e -post,email_sendemail,0.997,0.997,True
+16944,nb-NO,email,email_sendemail,send en epost til bestemor og sier at vi er innom på lørdag sees da,email_sendemail,1.0,1.0,True
+16947,nb-NO,email,email_sendemail,svar på epost,email_sendemail,0.9908,0.9908,True
+16955,nb-NO,email,email_sendemail,epost til ny kontakt,social_post,0.9992,0.0,False
+16956,nb-NO,email,email_sendemail,send epost til ny kontakt,email_sendemail,1.0,1.0,True
+16961,nb-NO,email,email_sendemail,svar med,email_sendemail,1.0,1.0,True
+16974,nb-NO,email,email_query,vennligst sjekk all ny epost fra inntektsskatteavdelingen,social_post,0.4513,0.1969,False
+16987,nb-NO,email,email_query,noen ny epost fra john,email_sendemail,1.0,0.0,False
+16989,nb-NO,email,email_sendemail,vennligst svar på eposten jeg fikk fra per at jeg trenger pengene det haster,email_sendemail,0.9798,0.9798,True
+16992,nb-NO,email,email_query,har kari nordmann sendt meg en epost,email_sendemail,1.0,0.0,False
+16995,nb-NO,email,email_sendemail,send epost til jessica,email_sendemail,1.0,1.0,True
+17005,nb-NO,email,email_query,vennligst se etter ny epost,email_sendemail,1.0,0.0,False
+17011,nb-NO,email,email_sendemail,kan du sende en epost til,email_sendemail,1.0,1.0,True
+17015,nb-NO,email,email_sendemail,start svar,play_radio,0.9822,0.0001,False
+17019,nb-NO,email,email_sendemail,skriv et svar på siste epost,email_query,0.8862,0.1095,False
+17020,nb-NO,email,email_sendemail,svar på sist mottatte epost,email_sendemail,1.0,1.0,True
+17023,nb-NO,email,email_sendemail,send epost til mamma og spør hvordan været er der,email_sendemail,1.0,1.0,True
+17042,nb-NO,email,email_sendemail,skriv en epost for john på gmail dot com,email_sendemail,1.0,1.0,True
+17043,nb-NO,email,email_sendemail,send epost til lars alfakrøll hotmail punkt com,email_sendemail,1.0,1.0,True
+17051,nb-NO,email,email_query,få meg ny epost,email_sendemail,1.0,0.0,False
+17052,nb-NO,email,email_query,søk mari,cooking_recipe,0.6941,0.0016,False
+17069,nb-NO,email,email_query,er det noen nye eposter i outlook,iot_hue_lightoff,0.2173,0.0365,False
+17075,nb-NO,email,email_query,er det noen nye eposter mottatt etter klokken fire i dag,social_post,0.3412,0.0877,False
+17081,nb-NO,email,email_sendemail,lag en epost til mine ansatte med mine nylig lagrede dokumenter,email_sendemail,1.0,1.0,True
+17087,nb-NO,email,email_query,sjekk nye eposter for meg fått fra sara,social_post,0.9937,0.0003,False
+17098,nb-NO,email,email_query,vis meg alle mottatte eposter den siste timen,email_sendemail,0.9995,0.0,False
+17107,nb-NO,email,email_query,sjekk nye eposter,social_post,0.9227,0.0035,False
+17108,nb-NO,email,email_query,gi meg den siste eposten min,qa_factoid,0.9914,0.0001,False
+17113,nb-NO,email,email_sendemail,opprett epost til julie,email_sendemail,1.0,1.0,True
+17115,nb-NO,email,email_query,les liste over nye eposter,lists_remove,0.9993,0.0,False
+17116,nb-NO,email,email_query,vis liste over nylige eposter,lists_remove,0.8518,0.0005,False
+17119,nb-NO,email,email_query,sjekk for eposter fra amazon,social_post,0.9648,0.001,False
+17123,nb-NO,email,email_sendemail,epost til nestleder,email_sendemail,1.0,1.0,True
+17135,nb-NO,email,email_query,noen lyn nyheter på epost,email_sendemail,0.9991,0.0009,False
+17136,nb-NO,email,email_query,vennligst les mine nye e-poster,qa_factoid,0.99,0.0003,False
+17138,nb-NO,email,email_query,vennligst arkiver mine leste meldinger,qa_factoid,0.9984,0.0001,False
+17142,nb-NO,email,email_query,hva er i innboksen min siden vi sjekket sist,qa_factoid,0.3342,0.0281,False
+17143,nb-NO,email,email_sendemail,hei send epost til jan,email_sendemail,1.0,1.0,True
+17144,nb-NO,email,email_query,hey sjekk e-post,email_sendemail,0.9419,0.0232,False
+17147,nb-NO,email,email_sendemail,svar på eposten med følgende innhold hei du,email_sendemail,1.0,1.0,True
+17148,nb-NO,email,email_sendemail,alexa svar på eposten med følgende innhold hei du,email_sendemail,1.0,1.0,True
+17151,nb-NO,email,email_sendemail,min venn thor har sendt meg et invitasjonskort til hans nykjøpte hjem si takk til ham i post i. d. en hans,email_sendemail,1.0,1.0,True
+17156,nb-NO,email,email_query,sjekk eposten min for noen ny epost fra jan,email_sendemail,1.0,0.0,False
+17157,nb-NO,email,email_query,har jeg noen ny epost fra dag,email_sendemail,1.0,0.0,False
+17170,nb-NO,email,email_query,gi meg beskjed når joakim sender meg en epost,email_sendemail,1.0,0.0,False
+17179,nb-NO,email,email_query,har rune sendt meg en epost,email_sendemail,1.0,0.0,False

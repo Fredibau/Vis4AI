@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,is-IS,iot,iot_hue_lightoff,olly slökkva á ljósum í svefnherberginu,iot_hue_lightoff,0.9945,0.9945,True
+47,is-IS,datetime,datetime_query,hvað er klukkan í ástralíu,weather_query,0.9983,0.0,False
+85,is-IS,datetime,datetime_query,segðu mér dagsetninguna í dag,calendar_set,0.7151,0.0044,False
+86,is-IS,datetime,datetime_query,hvaða dagsetning er í dag,qa_factoid,0.9633,0.0019,False
+100,is-IS,weather,weather_query,hvernig er spá vikunnar,weather_query,0.9972,0.9972,True
+102,is-IS,weather,weather_query,hvað er veðrið í þessari viku,weather_query,0.9988,0.9988,True
+103,is-IS,weather,weather_query,segðu mér frá veðrinu í vikunni,iot_hue_lightoff,0.4261,0.1362,False
+128,is-IS,datetime,datetime_query,hver er dagsetningin í dag,qa_factoid,0.9926,0.0001,False
+151,is-IS,play,play_music,spilaðu það aftur,play_music,0.9471,0.9471,True
+177,is-IS,news,news_query,segðu mér einhverjar viðskipta fréttir,qa_factoid,0.8065,0.0033,False
+178,is-IS,news,news_query,segðu mér alþjóðlegar fréttir,news_query,0.998,0.998,True
+182,is-IS,play,play_music,spilaðu rokklagalistann minn,play_music,0.9896,0.9896,True
+185,is-IS,play,play_music,kveikja á lagalistanum mínum og spila þriðja lagið í röðinni,play_music,0.9969,0.9969,True
+197,is-IS,datetime,datetime_query,hvað er klukkan,weather_query,0.9864,0.0006,False
+216,is-IS,weather,weather_query,hvernig er veðrið í dag,weather_query,0.9993,0.9993,True
+219,is-IS,weather,weather_query,ætti ég að taka regnhlíf með á morgun,iot_hue_lightoff,0.9999,0.0001,False
+220,is-IS,play,play_music,spila tónlist úr rokklistanum mínum,play_music,0.7465,0.7465,True
+250,is-IS,play,play_music,ég væri til í djass núna hvað með þig,qa_factoid,0.2672,0.0215,False
+254,is-IS,play,play_music,olly spila gott lag úr uppáhalds djass player mínum,play_music,0.9997,0.9997,True
+279,is-IS,weather,weather_query,hvernig er spáin fyrir daginn í dag fyrir borganes,weather_query,0.7446,0.7446,True
+281,is-IS,news,news_query,hvað er gengi bandaríkjadollara gagnvart sterlingspundinu,qa_factoid,0.9999,0.0,False
+296,is-IS,play,play_music,spilaðu nirvana lagalista,play_music,0.9998,0.9998,True
+297,is-IS,play,play_music,stokkaðu lög með coldplay,play_podcasts,0.7561,0.1192,False
+299,is-IS,weather,weather_query,hvernig er veðrið,weather_query,0.9985,0.9985,True
+310,is-IS,datetime,datetime_query,á hvaða degi er gamlársdagur þetta árið,weather_query,0.7627,0.0046,False
+319,is-IS,weather,weather_query,segðu mér veðrið á borganesi eftir tvo daga,weather_query,0.8285,0.8285,True
+329,is-IS,play,play_music,í síðasta skipti,calendar_remove,0.4132,0.0068,False
+333,is-IS,weather,weather_query,hvernig eru veður skilyrðin í keflavík,weather_query,0.9538,0.9538,True
+334,is-IS,weather,weather_query,mig langar að vita veðrið á selfossi,weather_query,0.8935,0.8935,True
+344,is-IS,weather,weather_query,mun vera rigning á morgun,weather_query,0.5207,0.5207,True
+348,is-IS,weather,weather_query,mun rigna á morgun,social_post,0.7072,0.005,False
+355,is-IS,datetime,datetime_query,hvaða dag vikunnar er fyrsti apríl,iot_hue_lightoff,0.6406,0.0012,False
+360,is-IS,datetime,datetime_query,hvað er klukkan núna,weather_query,0.998,0.0001,False
+362,is-IS,play,play_music,spilaðu annað lagið frá bubba lög,play_music,0.9996,0.9996,True
+366,is-IS,news,news_query,segðu mér nýjustu fréttir takk,news_query,0.785,0.785,True
+369,is-IS,iot,iot_hue_lightoff,slökkva á ljósum,iot_hue_lightoff,0.9903,0.9903,True
+385,is-IS,news,news_query,hvað er vinsælast í morgunblaðinu,recommendation_events,0.3462,0.1551,False
+391,is-IS,play,play_music,spilaðu lag af handahófi af lagalistanum mínum,play_music,0.9786,0.9786,True
+393,is-IS,play,play_music,spilaðu retró lag af lagalistanum mínum,play_music,0.6452,0.6452,True
+397,is-IS,play,play_music,spila hvaða lag sem er með ómari ragnarssyni,play_music,0.8089,0.8089,True
+400,is-IS,play,play_music,byrjaðu að spila,play_music,0.9468,0.9468,True
+407,is-IS,play,play_music,geturðu spilað rokk tónlist næsta klukkutímann,play_music,0.9986,0.9986,True
+424,is-IS,news,news_query,hverjar eru stór fréttir,news_query,0.9914,0.9914,True
+427,is-IS,iot,iot_hue_lightoff,slökkva á ljósum á klósettinu,iot_hue_lightoff,0.8978,0.8978,True
+428,is-IS,iot,iot_hue_lightoff,slökkva á baðherbergis ljósum,iot_hue_lightoff,0.9941,0.9941,True
+430,is-IS,weather,weather_query,hvernig er veðrið núna,weather_query,0.9986,0.9986,True
+437,is-IS,play,play_music,opnaðu skálmöld möppuna,qa_factoid,0.8565,0.0013,False
+441,is-IS,news,news_query,hvað eru nýjustu frétta fyrirsagnirnar,news_query,0.9962,0.9962,True
+442,is-IS,news,news_query,hvað er að gerast í fréttunum,news_query,0.9719,0.9719,True
+451,is-IS,news,news_query,finndu nýjasta hlutabréfaverð fyrir costco,recommendation_events,0.99,0.0002,False
+473,is-IS,play,play_music,spila ekki ýkja flókið,play_music,0.7943,0.7943,True
+486,is-IS,datetime,datetime_query,hvað er klukkan í new york borg,weather_query,0.9996,0.0,False
+491,is-IS,weather,weather_query,er kalt úti,weather_query,0.9929,0.9929,True
+506,is-IS,play,play_music,opna lög frá major lazer,iot_hue_lightoff,0.9887,0.0001,False
+512,is-IS,weather,weather_query,eftir stuðmenn,qa_factoid,0.734,0.0004,False
+540,is-IS,play,play_music,spila lagið sem bríet syngur,play_music,0.9999,0.9999,True
+555,is-IS,play,play_music,spila sálin hans jóns míns sódóma,qa_factoid,0.3365,0.0214,False
+576,is-IS,play,play_music,spila allt eftir lagalista,play_music,0.9916,0.9916,True
+585,is-IS,news,news_query,sýna nýjustu fréttir,iot_hue_lightoff,0.8424,0.0095,False
+588,is-IS,news,news_query,hvað er í fréttum í dag,weather_query,0.9965,0.0001,False
+590,is-IS,weather,weather_query,hvernig er veðrið núna,weather_query,0.9986,0.9986,True
+614,is-IS,play,play_music,byrja lagalista,qa_factoid,0.7109,0.0001,False
+625,is-IS,play,play_music,vinsamlegast spila lagið kúreki með bríet,play_music,0.9998,0.9998,True
+631,is-IS,news,news_query,sendu mér tilkynningu um fréttir um orkuveituna,social_post,0.7777,0.0012,False
+651,is-IS,iot,iot_hue_lightoff,slökkva á herbergis ljósum,iot_hue_lightoff,0.9429,0.9429,True
+660,is-IS,datetime,datetime_query,núverandi tími í japan,qa_factoid,0.8239,0.0021,False
+680,is-IS,news,news_query,gefðu mér uppfærslur um verð á rafmynt,qa_factoid,0.9878,0.0005,False
+686,is-IS,datetime,datetime_query,hvað er klukkan núna í new york,weather_query,0.9995,0.0,False
+712,is-IS,news,news_query,ég vill heyra nýjustu fréttir frá c. n. n.,social_post,0.4774,0.004,False
+726,is-IS,weather,weather_query,taktu saman veðurupplýsingarnar í vikunni,recommendation_events,0.515,0.001,False
+730,is-IS,iot,iot_hue_lightoff,slökkva á ljósum,iot_hue_lightoff,0.9903,0.9903,True
+738,is-IS,weather,weather_query,hversu kalt er úti í dag,weather_query,0.998,0.998,True
+764,is-IS,weather,weather_query,hvernig er veðurspáin þessa vikuna,weather_query,0.9716,0.9716,True
+765,is-IS,news,news_query,gætirðu gefið mér uppfærðar frétta fyrirsagnir frá minni nýjustu veitu,cooking_recipe,0.7311,0.002,False
+767,is-IS,news,news_query,geturðu vinsamlegast fundið nýjustu fréttir frá miðli sem ég fer venjulega ekki á,news_query,0.819,0.819,True
+768,is-IS,news,news_query,segðu mér frá nýjustu stjórnmála fréttunum,social_post,0.9881,0.0001,False
+779,is-IS,play,play_music,mig langar að hlusta á sódóma með sálinni hans jóns míns,play_podcasts,0.9988,0.0002,False
+781,is-IS,play,play_music,spila gleðibankann,play_music,0.999,0.999,True
+782,is-IS,play,play_music,spila fingur með írafár,play_music,0.7034,0.7034,True
+783,is-IS,play,play_music,spila ástar lög,play_music,0.777,0.777,True
+790,is-IS,weather,weather_query,milt eða þungt veður,weather_query,0.9384,0.9384,True
+826,is-IS,weather,weather_query,hvert er núverandi hitastig úti,qa_factoid,0.5737,0.0088,False
+827,is-IS,play,play_music,spila lagalista bjögga halldórs,social_post,0.9752,0.0018,False
+832,is-IS,weather,weather_query,hvernig er veður spá á morgun,weather_query,0.9394,0.9394,True
+837,is-IS,news,news_query,hver er spáin hjá rúv skoðanakönnun varðandi væntanlegar forsetakosningar í bandaríkjunum,qa_factoid,0.6648,0.0003,False
+891,is-IS,play,play_music,spila einhverja kristna tónlist,play_music,0.9343,0.9343,True
+914,is-IS,iot,iot_hue_lightoff,slökkva á ljósum,iot_hue_lightoff,0.9903,0.9903,True
+936,is-IS,play,play_music,opna og spila tónlist úr skokk lagalistanum mínum,play_music,0.9808,0.9808,True
+951,is-IS,weather,weather_query,hvernig er veðrið í reykjavík núna,weather_query,0.9986,0.9986,True
+969,is-IS,news,news_query,frétta greinar um ákveðið efni,iot_hue_lightoff,0.4912,0.0321,False
+974,is-IS,datetime,datetime_query,hvað er klukkan í new york núna,weather_query,0.9995,0.0,False
+997,is-IS,iot,iot_hue_lightoff,slökkva á stofu ljósunum,play_music,0.644,0.3364,False
+999,is-IS,iot,iot_hue_lightoff,gætirðu slökkt á ljósinu,iot_hue_lightoff,0.7947,0.7947,True
+1007,is-IS,play,play_music,spila hatrið mun sigra úr rokk lagalistanum mínum,play_music,0.9949,0.9949,True
+1014,is-IS,datetime,datetime_query,hvað er klukkan í lundúnum núna,weather_query,0.9986,0.0001,False
+1047,is-IS,play,play_music,ég þarf að gráta vel geturðu spilað fyrir mig döpur rokk lög,play_music,0.9787,0.9787,True
+1061,is-IS,news,news_query,gefðu mér uppfærslur um íþrótta fréttir,news_query,0.7963,0.7963,True
+1063,is-IS,news,news_query,fá íþrótta tilkynningar á klukkutíma fresti,cooking_recipe,0.6622,0.0026,False
+1084,is-IS,news,news_query,notendavænt,qa_factoid,0.9935,0.0001,False
+1093,is-IS,news,news_query,fara á heimasíðu washington post,social_post,0.9961,0.0001,False
+1098,is-IS,datetime,datetime_query,hvaða dag vikunnar fellur fimmtándi mars,iot_hue_lightoff,0.9893,0.0001,False
+1108,is-IS,play,play_music,löngun mín er að hlusta á einhverja kántrý tónlist,play_music,0.9859,0.9859,True
+1115,is-IS,play,play_music,samræma öll popp laga tegundir,calendar_remove,0.353,0.0403,False
+1120,is-IS,news,news_query,er eitthvað sérstakt að gerast í stjórnmálum,qa_factoid,0.9925,0.0001,False
+1121,is-IS,play,play_music,spila í síðasta skipti með frikka dór,play_music,0.985,0.985,True
+1123,is-IS,play,play_music,spila í síðasta skipti með frikka dór næst,play_music,0.9816,0.9816,True
+1124,is-IS,play,play_music,gera esjan með bríet sunnu tilbúið til að spila næst,play_radio,0.2646,0.0385,False
+1127,is-IS,play,play_music,spila öll lög á stokkun,play_music,0.9771,0.9771,True
+1144,is-IS,play,play_music,ég þarf eitthvað rapp,play_music,0.9985,0.9985,True
+1148,is-IS,datetime,datetime_query,hvað er klukkan í ástralíu núna,weather_query,0.9997,0.0,False
+1156,is-IS,news,news_query,nýjustu fréttir um alþjóðlega kvennadaginn,news_query,0.991,0.991,True
+1160,is-IS,weather,weather_query,hversu kalt verður á hverju kvöldi þessa vikuna,weather_query,0.9997,0.9997,True
+1180,is-IS,news,news_query,finna m. b. l. greinar dagsins um guðna t. h.,social_post,0.3767,0.0469,False
+1202,is-IS,datetime,datetime_query,núverandi tími í new york,email_query,0.2023,0.0312,False
+1238,is-IS,play,play_music,pandora,qa_factoid,0.1403,0.0391,False
+1249,is-IS,weather,weather_query,hvernig er veðrið líklegt til að vera í vikunni,weather_query,0.7882,0.7882,True
+1252,is-IS,datetime,datetime_query,segðu mér hvað klukkan er núna,weather_query,0.998,0.0001,False
+1294,is-IS,news,news_query,sýndu mér fréttir um óskarsverðlaunin,news_query,0.187,0.187,True
+1301,is-IS,news,news_query,segðu mér frá nýju utanríkisstefnu trumps,qa_factoid,0.9962,0.0001,False
+1308,is-IS,weather,weather_query,fáðu loftlagsspána í dag hér,cooking_recipe,0.3473,0.0034,False
+1318,is-IS,play,play_music,opnaðu tónlistar forritið og spilaðu lag fyrir mig,play_music,0.9998,0.9998,True
+1351,is-IS,weather,weather_query,verður gott veður úti þessa viku,weather_query,0.9942,0.9942,True
+1371,is-IS,news,news_query,hvað höfum við á forsíðu morgunblaðsins,news_query,0.6546,0.6546,True
+1377,is-IS,iot,iot_hue_lightoff,slökktu ljósin í herbergi sonar míns,qa_definition,0.4037,0.366,False
+1400,is-IS,weather,weather_query,ég veiti yfirleitt athygli,iot_hue_lightoff,0.964,0.0165,False
+1401,is-IS,weather,weather_query,stundum veiti ég athygli,iot_hue_lightoff,0.9925,0.0001,False
+1404,is-IS,weather,weather_query,get ég vinsamlegast fengið veðrið á morgun hérna á selfossi,weather_query,0.9586,0.9586,True
+1423,is-IS,news,news_query,segðu mér frá trump,social_post,0.6029,0.0009,False
+1425,is-IS,news,news_query,láttu mig vita þegar þú heyrir um frakkland,social_post,0.9739,0.01,False
+1440,is-IS,play,play_music,spilaðu nýjustu rokk lögin sem hafa einkunn fjóra eða yfir,play_podcasts,0.5814,0.3676,False
+1449,is-IS,datetime,datetime_query,hvenær eru páskar árið tvö þúsund og átján,weather_query,0.9979,0.0004,False
+1458,is-IS,weather,weather_query,hversu heitt er í keflavík,weather_query,0.9997,0.9997,True
+1467,is-IS,play,play_music,spilaðu slayer,play_music,0.9999,0.9999,True
+1474,is-IS,news,news_query,hverjar eru íþrótta fréttir dagsins,lists_query,0.4772,0.4088,False
+1489,is-IS,play,play_music,spila nýjustu lögin með bríet sunnu,play_music,0.8171,0.8171,True
+1513,is-IS,weather,weather_query,hvert er hitastigið úti,weather_query,0.7478,0.7478,True
+1533,is-IS,news,news_query,hvaða fréttir eru á rúv í dag,news_query,0.9801,0.9801,True
+1537,is-IS,datetime,datetime_query,sýndu mér hvað klukkan er í þýskalandi,weather_query,0.7827,0.0001,False
+1542,is-IS,weather,weather_query,sólin skín bjart mun vera svona veður restina af deginum,weather_query,0.9982,0.9982,True
+1546,is-IS,play,play_music,spilaðu sumarstuðslagalistann minn,play_music,0.926,0.926,True
+1547,is-IS,weather,weather_query,hvernig er veðrið fyrir staðsetninguna mína þessa vikuna,weather_query,0.7576,0.7576,True
+1549,is-IS,weather,weather_query,mun rigna í vikunni,qa_factoid,0.5663,0.0022,False
+1554,is-IS,iot,iot_hue_lightoff,slökktu á lömpunum,social_post,0.9998,0.0,False
+1581,is-IS,datetime,datetime_query,hvaða dagsetning og ártal er í dag,iot_hue_lightoff,0.7432,0.0113,False
+1589,is-IS,weather,weather_query,verður sólríkt næsta þriðjudag,weather_query,0.9988,0.9988,True
+1593,is-IS,news,news_query,setja tilkynningar frá heimsfréttum,cooking_recipe,0.5179,0.0011,False
+1594,is-IS,news,news_query,geturðu sagt mér nýjustu fréttir,news_query,0.9836,0.9836,True
+1607,is-IS,datetime,datetime_query,segðu mér hvað klukkan er núna í los angels,weather_query,0.996,0.0002,False
+1617,is-IS,news,news_query,um leið og ný fyrirsögn um stjórnmál kemur upp láttu mig vita,news_query,0.4581,0.4581,True
+1636,is-IS,news,news_query,sýndu mér nýjustu fréttir úr morgunblaðinu,news_query,0.9998,0.9998,True
+1653,is-IS,weather,weather_query,hvenær á að rigna næst,weather_query,0.5807,0.5807,True
+1655,is-IS,weather,weather_query,mun snjóa á morgun um hádegi,weather_query,0.488,0.488,True
+1666,is-IS,news,news_query,fréttir af rúv síðustu sex klukkustundir,news_query,0.1484,0.1484,True
+1671,is-IS,play,play_music,spila bara tónlist sem kom út árin eitt þúsund níu hundruð og níutíu til tvö þúsund,play_music,0.9998,0.9998,True
+1683,is-IS,weather,weather_query,hitastigið á morgun er hlýtt já eða nei,iot_hue_lightoff,1.0,0.0,False
+1684,is-IS,weather,weather_query,já eða nei verður hitastig morgundagsins heitt,weather_query,0.9991,0.9991,True
+1692,is-IS,play,play_music,finndu einhvern ljúfan djass fyrir mig,iot_hue_lightoff,0.9987,0.0001,False
+1722,is-IS,weather,weather_query,hvað er minnsta hitastig í reykjavík,weather_query,0.9895,0.9895,True
+1750,is-IS,iot,iot_hue_lightoff,slökkva öll ljós,iot_hue_lightoff,0.7248,0.7248,True
+1759,is-IS,news,news_query,segðu mér fréttir um forsetann guðna th. jóhanesson,social_post,0.3854,0.2813,False
+1760,is-IS,news,news_query,nýjustu fréttir um hryðjuverk,play_podcasts,0.3917,0.2313,False
+1777,is-IS,play,play_music,næsta lag,qa_factoid,0.9288,0.001,False
+1784,is-IS,iot,iot_hue_lightoff,slökkva á borðstofu,iot_hue_lightoff,0.9635,0.9635,True
+1786,is-IS,iot,iot_hue_lightoff,slökkva á hjónaherberginu,iot_hue_lightoff,0.9358,0.9358,True
+1794,is-IS,news,news_query,mun trump heimsækja rússland bráðlega,social_post,0.9982,0.0001,False
+1796,is-IS,datetime,datetime_query,dagur í dag,calendar_remove,0.3368,0.0806,False
+1803,is-IS,news,news_query,hvaða lið eru að keppa í úrvalsdeildinni í dag,qa_factoid,0.4162,0.0383,False
+1811,is-IS,play,play_music,byrja lagalista og spila tónlist,play_radio,0.8847,0.0946,False
+1832,is-IS,play,play_music,spila sálin hans jóns míns albúm,play_music,0.9999,0.9999,True
+1833,is-IS,play,play_music,getur þú endurtekið lagalista þemu aftur og aftur,iot_hue_lightoff,0.2123,0.0273,False
+1866,is-IS,weather,weather_query,veðurfréttir núna,qa_factoid,0.2464,0.1759,False
+1870,is-IS,datetime,datetime_query,hvaða mánuður er í dag,weather_query,0.592,0.3911,False
+1904,is-IS,news,news_query,gefðu mér hápunkti leiksins,play_music,0.8496,0.0033,False
+1933,is-IS,weather,weather_query,mun vera fall í hita í kvöld,weather_query,0.9457,0.9457,True
+1940,is-IS,play,play_music,spila lagar titilinn,qa_factoid,0.6767,0.0052,False
+1962,is-IS,play,play_music,hey google spila lagalistann geggjað úr gaana appinu mínu,social_post,0.6617,0.0001,False
+1994,is-IS,play,play_music,geturðu opnað itunes mitt,email_sendemail,0.9187,0.0,False
+1995,is-IS,play,play_music,spila bjögga halldórs,cooking_recipe,0.7541,0.1954,False
+2007,is-IS,play,play_music,vinsamlegast spilaðu útihátíð,cooking_recipe,0.9317,0.0041,False
+2062,is-IS,play,play_music,ég vil spila einhverja djass tónlist,play_music,0.9998,0.9998,True
+2085,is-IS,play,play_music,alexa mig langar að hlusta á klassík fyrir utan bach eða schubert,play_music,0.5373,0.5373,True
+2098,is-IS,news,news_query,hvað er að gerast í heiminum þessa dagana,weather_query,0.5701,0.0539,False
+2108,is-IS,play,play_music,spila næst vertu ekki að plata mig,qa_factoid,0.9945,0.0025,False
+2113,is-IS,recommendation,recommendation_events,segðu mér frá öllum viðburðum í gangi í heimabænum mínum,news_query,0.3466,0.046,False
+2146,is-IS,datetime,datetime_query,hvaða dag eru vetrarsólstöður eftir tvö ár,iot_hue_lightoff,0.9911,0.0001,False
+2156,is-IS,datetime,datetime_query,ég þarf að vita hvað klukkan er núna',weather_query,0.9989,0.0,False
+2160,is-IS,iot,iot_hue_lightoff,ég ætla að fara að sofa núna,calendar_remove,0.4139,0.0724,False
+2178,is-IS,weather,weather_query,hvernig er veðrið á staðnum mínum,weather_query,0.9886,0.9886,True
+2198,is-IS,datetime,datetime_query,hvaða dag vikunnar var fjórði desember eitt þúsund níu hundruð áttatíu og tvö,iot_hue_lightoff,0.9904,0.0023,False
+2201,is-IS,news,news_query,fyrirsagnir á rúv,qa_factoid,0.3955,0.0008,False
+2203,is-IS,news,news_query,b. b. c. world fyrirsagnir,social_post,0.8371,0.0019,False
+2220,is-IS,weather,weather_query,veður í keflavík,weather_query,0.9939,0.9939,True
+2225,is-IS,play,play_music,spila siggu beinteins brú yfir boðaföllin,social_post,0.9287,0.0208,False
+2230,is-IS,iot,iot_hue_lightoff,slökktu á eldhús ljósinu,iot_hue_lightoff,0.9882,0.9882,True
+2237,is-IS,news,news_query,lestu nýjustu alþjóðlegu fréttirnar,news_query,0.9976,0.9976,True
+2258,is-IS,weather,weather_query,þarf ég peysu í dag,iot_hue_lightoff,0.6311,0.0008,False
+2265,is-IS,weather,weather_query,segðu mér hvað veðrið er að gera í ásbyrgi norðurlandi,weather_query,0.9947,0.9947,True
+2271,is-IS,play,play_music,vinsamlegast spila lög sem ég hef keypt og líkað við,play_music,0.9806,0.9806,True
+2296,is-IS,news,news_query,haltu mér uppfærðum um n. b. a. úrslit dagsins,weather_query,0.4643,0.0448,False
+2298,is-IS,iot,iot_hue_lightoff,slökktu ljósin núna,iot_hue_lightoff,0.9815,0.9815,True
+2315,is-IS,news,news_query,hvað er í fréttum í dag,weather_query,0.9965,0.0001,False
+2316,is-IS,news,news_query,alexa gefðu mér nýjusu ffrétta fyrirsagnir,qa_factoid,0.3575,0.029,False
+2320,is-IS,weather,weather_query,hvernig veður er á föstudag,weather_query,0.9988,0.9988,True
+2322,is-IS,weather,weather_query,hvernig er veðrið á morgun,weather_query,0.9987,0.9987,True
+2330,is-IS,datetime,datetime_query,sýndu hvað klukkan er í london núna,weather_query,0.9919,0.0001,False
+2384,is-IS,news,news_query,hvað er að gerast umhverfis heiminn,social_post,0.5307,0.0133,False
+2386,is-IS,news,news_query,gefðu mér nýjustu fréttir,news_query,0.9956,0.9956,True
+2396,is-IS,play,play_music,byrja celine dion lög,qa_definition,0.9075,0.0015,False
+2408,is-IS,play,play_music,leita að fleiri lögum frá hljómsveitinni,play_podcasts,0.8945,0.1052,False
+2412,is-IS,datetime,datetime_query,geturðu sagt mér hvað klukkan er í london,weather_query,0.9039,0.0002,False
+2423,is-IS,weather,weather_query,vinsamlegast gefðu mér spána í dag fyrir keflavík,cooking_recipe,0.9881,0.0002,False
+2438,is-IS,news,news_query,sentu tækni fréttir,qa_factoid,0.3457,0.0125,False
+2441,is-IS,iot,iot_hue_lightoff,slökkva á ljósinu í skúrnum,iot_hue_lightoff,0.9551,0.9551,True
+2472,is-IS,datetime,datetime_query,er klukkan rétt miðað við staðsetningu mína,weather_query,0.4886,0.0072,False
+2496,is-IS,news,news_query,daglegar fréttir,qa_factoid,0.7303,0.013,False
+2497,is-IS,datetime,datetime_query,hvaða dagsetning er í dag,qa_factoid,0.9633,0.0019,False
+2498,is-IS,datetime,datetime_query,siri hvaða dagsetning er í dag,weather_query,0.3569,0.1777,False
+2527,is-IS,play,play_music,spilaðu klassískt rokk,play_music,0.9988,0.9988,True
+2531,is-IS,play,play_music,alexa spilaðu rapp lag og rokk lag hvert á eftir öðru,play_music,0.9999,0.9999,True
+2545,is-IS,weather,weather_query,hvernig er veðrið,weather_query,0.9985,0.9985,True
+2548,is-IS,news,news_query,eitthvað áhugavert í rúv fréttum,social_post,0.9987,0.0,False
+2560,is-IS,play,play_music,spila tónlist af handahófi,play_music,0.9197,0.9197,True
+2573,is-IS,play,play_music,spila dans lagalistann minn á spotify,play_podcasts,0.9824,0.0173,False
+2578,is-IS,iot,iot_hue_lightoff,slökkva á ljósinu á veröndinni,iot_hue_lightoff,0.6686,0.6686,True
+2588,is-IS,news,news_query,hvað eru nýjustu fréttir frá c. n. n.,news_query,0.9989,0.9989,True
+2594,is-IS,news,news_query,segðu mér frá nýjustu umhverfis fréttunum,social_post,0.9992,0.0001,False
+2605,is-IS,play,play_music,spila uppáhalds tónlistina mína núna,play_music,0.9909,0.9909,True
+2611,is-IS,weather,weather_query,núverandi veðurspá,qa_factoid,0.9444,0.0015,False
+2615,is-IS,weather,weather_query,mun ég þurfa að klæðast jakka næsta miðvikudag,iot_hue_lightoff,0.4788,0.0028,False
+2638,is-IS,news,news_query,sýndu mér fréttir um guðna t. h. jóhannesson,social_post,0.8026,0.0553,False
+2639,is-IS,news,news_query,sýndu mér fréttir um umhverfis mál,email_sendemail,0.5642,0.0127,False
+2651,is-IS,news,news_query,nýjustu fréttir á svæðinu,news_query,0.9811,0.9811,True
+2678,is-IS,weather,weather_query,er rigning í kvöld,weather_query,0.9916,0.9916,True
+2679,is-IS,weather,weather_query,mun hitastigið haldast eins eða mun það verða kaldara,weather_query,0.9897,0.9897,True
+2703,is-IS,play,play_music,vinsamlegast spilaðu þjóðlaga tónlist,play_music,0.984,0.984,True
+2704,is-IS,play,play_music,hlustum á eitthvað indí rokk,play_music,0.9457,0.9457,True
+2708,is-IS,play,play_music,olly ég er í stuði til að dansa spilaðu smá rokk og ról,play_music,0.9971,0.9971,True
+2709,is-IS,play,play_music,olly ég þarf að heyra sorgleg lög í dag,play_podcasts,0.9388,0.0607,False
+2711,is-IS,iot,iot_hue_lightoff,slökkva á ljósum,iot_hue_lightoff,0.9903,0.9903,True
+2717,is-IS,play,play_music,mig langar að hlusta á rólegur kúreki,social_post,0.9922,0.0038,False
+2724,is-IS,news,news_query,gefðu mér fréttir af rúv,news_query,0.9949,0.9949,True
+2770,is-IS,play,play_music,olly spilaðu tónlist djass tegund,play_music,0.9995,0.9995,True
+2774,is-IS,iot,iot_hue_lightoff,slökkva á ljósum,iot_hue_lightoff,0.9903,0.9903,True
+2775,is-IS,iot,iot_hue_lightoff,hætta notkun á ljósum,qa_factoid,0.6181,0.3814,False
+2777,is-IS,weather,weather_query,ætti ég að hafa regnhlíf meðferðis í dag,iot_hue_lightoff,1.0,0.0,False
+2781,is-IS,play,play_music,vinsamlegast spilaðu einhverja djasstónlist,cooking_recipe,0.7967,0.1583,False
+2798,is-IS,play,play_music,alexa spila lagið fljúga hvítu fiðrildin,play_music,1.0,1.0,True
+2801,is-IS,datetime,datetime_query,hvað er klukkan í lundúnum,weather_query,0.9996,0.0,False
+2824,is-IS,datetime,datetime_query,hvaða dagur er þrettándi desember,weather_query,0.5835,0.0008,False
+2840,is-IS,datetime,datetime_query,annar í næsta mánuði er á hvaða degi,weather_query,0.9776,0.0069,False
+2859,is-IS,datetime,datetime_query,olly hver er tíminn í þessari borg,weather_query,0.9961,0.0011,False
+2887,is-IS,news,news_query,viltu sýna mér einhverjar greinar sem fjalla um veðrið í morgunfréttunum,iot_hue_lightoff,0.998,0.0001,False
+2890,is-IS,weather,weather_query,núverandi veður,weather_query,0.9953,0.9953,True
+2898,is-IS,news,news_query,eru einhverjar uppfærslur tengdar kosningunum,qa_factoid,0.8523,0.0006,False
+2914,is-IS,datetime,datetime_query,segðu mér dagsetninguna í dag,calendar_set,0.7151,0.0044,False
+2917,is-IS,weather,weather_query,vikuleg veðurspá,qa_factoid,0.9997,0.0001,False
+2921,is-IS,news,news_query,hverjar eru fréttirnar á rúv vef,news_query,0.9994,0.9994,True
+2927,is-IS,datetime,datetime_query,hvað er klukkan í austin,weather_query,0.9987,0.0001,False
+2931,is-IS,play,play_music,spila gordjöss næst,play_music,0.9046,0.9046,True
+2962,is-IS,play,play_music,vinsamlegast spilaðu lag með frikka dór,play_music,0.9811,0.9811,True
+2965,is-IS,iot,iot_hue_lightoff,slökkva á skrifstofu ljósum,iot_hue_lightoff,0.9821,0.9821,True
+3002,is-IS,play,play_music,spila lög með hljómsveitinni hjaltalín,play_music,0.9569,0.9569,True
+3031,is-IS,play,play_music,ég vil spila lagið aftur,play_music,0.9992,0.9992,True
+3034,is-IS,weather,weather_query,segðu mér hitastigið,qa_factoid,0.9385,0.0542,False
+3037,is-IS,news,news_query,forsíðu frétta greinar takk,social_post,0.5568,0.0542,False
+3039,is-IS,news,news_query,hvað er nýtt í fréttum,cooking_recipe,0.2013,0.1578,False
+3060,is-IS,news,news_query,hvað er í fréttum frá þessum fréttamiðli,news_query,0.999,0.999,True
+3091,is-IS,datetime,datetime_query,hvað er klukkan að kyrrahafs tíma,weather_query,0.9996,0.0,False
+3096,is-IS,weather,weather_query,hvernig er veðrið í sandgerði,weather_query,0.9995,0.9995,True
+3098,is-IS,iot,iot_hue_lightoff,gera ljósin slökkt,iot_hue_lightoff,0.9685,0.9685,True
+3099,is-IS,news,news_query,sýndu mér nokkra yfirstandandi viðburði,qa_factoid,0.7765,0.0008,False
+3101,is-IS,news,news_query,olly kveiktu á fréttunum,iot_hue_lightoff,0.8842,0.0,False
+3116,is-IS,play,play_music,spila uppáhalds lagið mitt frá síðasta ári,play_music,1.0,1.0,True
+3117,is-IS,play,play_music,spilaðu eitthvað af bubba frelsi til sölu plötunni,cooking_recipe,1.0,0.0,False
+3118,is-IS,datetime,datetime_query,hvað er austur staðalltími núna,social_post,0.3178,0.0171,False
+3124,is-IS,play,play_music,spila fyrir mig handahófskennt lag úr lagalistanum mínum,play_music,0.9723,0.9723,True
+3146,is-IS,play,play_music,spila lag eitt frá ragga bjarna lagalistanum mínum,iot_hue_lightoff,0.6955,0.0094,False
+3167,is-IS,iot,iot_hue_lightoff,slökkva á mínum herbergis ljósum,iot_hue_lightoff,0.9443,0.9443,True
+3174,is-IS,play,play_music,spila tónlistar lagalista,play_music,0.9996,0.9996,True
+3205,is-IS,play,play_music,spila fingur með írafár,play_music,0.7034,0.7034,True
+3207,is-IS,play,play_music,spila fingur með írafár,play_music,0.7034,0.7034,True
+3212,is-IS,calendar,calendar_set,minntu mig á að gera eitthvað þá,cooking_recipe,0.9894,0.0001,False
+3214,is-IS,news,news_query,hvað er núverandi staða á rannsókn um tengsl trump við rússland,qa_factoid,0.231,0.0374,False
+3228,is-IS,datetime,datetime_query,á hvaða vikudegi bera jólin upp á þessu ári,qa_factoid,0.52,0.016,False
+3253,is-IS,weather,weather_query,ættum við að búast við rigningu seinni partinn,weather_query,0.9922,0.9922,True
+3264,is-IS,play,play_music,spila reggí tónlist,play_music,0.4042,0.4042,True
+3305,is-IS,weather,weather_query,hvernig er veðrið þessa vikuna í reykjavík,weather_query,0.9993,0.9993,True
+3306,is-IS,weather,weather_query,hvernig er spáin fyrir vikuna,iot_hue_lightoff,0.2538,0.1808,False
+3329,is-IS,news,news_query,ég vill sjá fréttirnar,social_post,0.6846,0.2538,False
+3337,is-IS,weather,weather_query,veðurspá fyrir þrjátíu og þrjú þúsund sjö hundruð sjötíu og fjögur,weather_query,0.9194,0.9194,True
+3338,is-IS,weather,weather_query,veðurfrétt fyrir borganes,qa_factoid,0.9465,0.0037,False
+3361,is-IS,datetime,datetime_query,hvað er dagsetning næsta þriðjudag,calendar_set,0.652,0.0551,False
+3378,is-IS,iot,iot_hue_lightoff,engin ljós í eldhúsinu,iot_hue_lightoff,0.8611,0.8611,True
+3386,is-IS,iot,iot_hue_lightoff,lækka ljósin niður í miðlungs,iot_hue_lightoff,0.9953,0.9953,True
+3400,is-IS,play,play_music,spila í beinni útgáfu af ragga bjarna,play_music,0.9906,0.9906,True
+3401,is-IS,play,play_music,spilaðu vinsælustu bubba lögin,play_music,0.8972,0.8972,True
+3406,is-IS,weather,weather_query,hvernig er tíu daga spáin,qa_definition,0.9614,0.0,False
+3407,is-IS,weather,weather_query,eru einhverjar spár um rigningu eða snjó í vikunni,weather_query,0.7156,0.7156,True
+3408,is-IS,weather,weather_query,mun veðrið vera notalegt um helgina,social_post,0.9997,0.0,False
+3426,is-IS,weather,weather_query,hvaða hitastig er úti,iot_hue_lightoff,0.9348,0.052,False
+3433,is-IS,play,play_music,ný popp tónlist,social_post,0.9865,0.0004,False
+3434,is-IS,play,play_music,besta rapp tónlistin,qa_factoid,0.9798,0.0001,False
+3441,is-IS,datetime,datetime_query,er tuttugasti og annar á miðvikudegi,calendar_remove,0.3804,0.0143,False
+3444,is-IS,datetime,datetime_query,er klukkan tíu,qa_factoid,0.7379,0.001,False
+3447,is-IS,weather,weather_query,býstu við rigningu á laugardag,iot_hue_lightoff,0.9938,0.0003,False
+3481,is-IS,play,play_music,spila vinsælasta lagið með stuðmönnum,play_music,0.9957,0.9957,True
+3489,is-IS,play,play_music,spila tónlist núna takk,play_music,0.8461,0.8461,True
+3492,is-IS,play,play_music,við skulum spila mest spiluðu lög lagalistann minn,play_music,0.9952,0.9952,True
+3503,is-IS,weather,weather_query,hvað er veðrið á selfossi,weather_query,0.9983,0.9983,True
+3507,is-IS,weather,weather_query,er snjór í spánni,social_post,0.5013,0.0166,False
+3513,is-IS,play,play_music,spila bara listann minn,play_music,0.9827,0.9827,True
+3516,is-IS,weather,weather_query,hverjar eru líkurnar á úrkomu í dag,qa_factoid,0.4598,0.05,False
+3539,is-IS,play,play_music,vinsamlegast spilaðu fingur með írafár,qa_factoid,0.7133,0.0075,False
+3546,is-IS,play,play_music,ég vil heyra djass tónlist,play_music,0.5996,0.5996,True
+3550,is-IS,play,play_music,settu á eitthvað með led zeppelin,iot_hue_lightoff,0.4845,0.014,False
+3554,is-IS,play,play_music,geturðu sett á ástarlagalista,email_sendemail,0.6871,0.0003,False
+3562,is-IS,play,play_music,spila einu sinni enn,play_music,0.9401,0.9401,True
+3566,is-IS,datetime,datetime_query,hvað er núverandi tími í chennai,weather_query,0.9957,0.0003,False
+3570,is-IS,iot,iot_hue_lightoff,slökkva á ljósum á veröndinni,iot_hue_lightoff,0.9804,0.9804,True
+3576,is-IS,news,news_query,hver er nýjasta fréttin á rúv,social_post,0.6683,0.0002,False
+3586,is-IS,weather,weather_query,hvernig er veðrið á borganesi,weather_query,0.9944,0.9944,True
+3600,is-IS,calendar,calendar_set,minntu mig á eftir tíu mínútur,qa_factoid,0.995,0.0002,False
+3603,is-IS,news,news_query,hvað eru nýjustu fréttir frá stöð tvö,news_query,0.9993,0.9993,True
+3605,is-IS,news,news_query,hvað eru nýjustu fréttir á c. n. n.,news_query,0.9997,0.9997,True
+3606,is-IS,datetime,datetime_query,hvað er klukkan í peking,weather_query,0.1779,0.0378,False
+3614,is-IS,weather,weather_query,það er sólríkur dagur í dag er það ekki,weather_query,0.9986,0.9986,True
+3623,is-IS,news,news_query,hvað er að gerast í heiminum í dag,qa_factoid,0.1747,0.0869,False
+3624,is-IS,news,news_query,fréttir frá rúv,qa_factoid,0.9991,0.0,False
+3631,is-IS,play,play_music,hei google spilaðu einhverja djasstónlist fyrir mig,recommendation_events,0.998,0.0009,False
+3686,is-IS,play,play_music,kveiktu á lagalistanum sem ég hef tileinkað rokk tónlist,play_music,0.9829,0.9829,True
+3714,is-IS,play,play_music,spila lagalistann minn byrja á neðst,play_music,0.9974,0.9974,True
+3717,is-IS,play,play_music,vinsamlegast spila rapp smellina mína frá níunda áratugnum,play_music,1.0,1.0,True
+3723,is-IS,play,play_music,mig langar að heyra hringdu í mig með ellý vilhjálms eftir þetta lag,social_post,0.726,0.2168,False
+3725,is-IS,datetime,datetime_query,í dag er hvaða dagsetning,qa_factoid,0.7468,0.2288,False
+3727,is-IS,play,play_music,spilaðu stórasta land í heimi með blazroca,qa_factoid,0.9964,0.0002,False
+3750,is-IS,news,news_query,olly ef það koma fréttir um flóðið geturðu látið mig vita strax,weather_query,0.8318,0.0041,False
+3779,is-IS,play,play_music,spilaðu youtube lagalistann auður,play_music,0.4488,0.4488,True
+3780,is-IS,play,play_music,spila miðnæturást lagalistann minn,play_music,0.9883,0.9883,True
+3784,is-IS,weather,weather_query,gefðu mér veðurspána fyrir keflavík,cooking_recipe,0.9991,0.0,False
+3785,is-IS,iot,iot_hue_lightoff,slökkva á baðherbergis ljósi,iot_hue_lightoff,0.9995,0.9995,True
+3822,is-IS,news,news_query,finndu meira um bíla,qa_factoid,0.9999,0.0,False
+3852,is-IS,weather,weather_query,hverskonar veður eru þeir með í keflavík núna,weather_query,0.9928,0.9928,True
+3859,is-IS,play,play_music,vinsamlegast spilaðu uppáhalds rapp lagalistann minn,play_music,0.9981,0.9981,True
+3907,is-IS,play,play_music,spila smellina á síðasta ári,play_music,0.9283,0.9283,True
+3911,is-IS,play,play_music,ég vil heyra hvaða lög sem er sem unnu grammy verðlaun á þessu ári,play_podcasts,0.9971,0.0027,False
+3912,is-IS,play,play_music,ég vil hlusta á dance og country tónlist,play_music,0.9982,0.9982,True
+3936,is-IS,weather,weather_query,hvert er hitastigið,qa_factoid,0.9999,0.0,False
+3960,is-IS,datetime,datetime_query,segðu mér hvað klukkan er,qa_definition,0.9776,0.0001,False
+3967,is-IS,play,play_music,rapp,qa_factoid,0.1705,0.0298,False
+3980,is-IS,play,play_music,vinsamlegast spilaðu stál og hnífur með bubbi morthens,play_music,0.937,0.937,True
+3982,is-IS,play,play_music,vinsamlegast veldu fyrsta lagið í itunes safninu mínu,play_podcasts,0.5982,0.1762,False
+3993,is-IS,iot,iot_hue_lightoff,geturðu látið ljósin slökkva á sér,iot_hue_lightoff,0.9953,0.9953,True
+3995,is-IS,datetime,datetime_query,olly hvaða dag vikunnar er hrekkjavaka,qa_factoid,0.8371,0.0011,False
+4001,is-IS,news,news_query,hvað gerðist í verbúðinni,social_post,0.893,0.0141,False
+4023,is-IS,news,news_query,hvað er í fréttum,cooking_recipe,0.3362,0.0315,False
+4031,is-IS,play,play_music,spila palla níunda áratugs dans partý,play_music,0.7972,0.7972,True
+4040,is-IS,play,play_music,spila lagið sem ég hlusta mest á,play_music,0.9993,0.9993,True
+4058,is-IS,play,play_music,mig langar að heyra einhverja rapp tónlist,play_music,0.9832,0.9832,True
+4073,is-IS,datetime,datetime_query,hvaða dagur er fimmti,weather_query,0.9958,0.0001,False
+4077,is-IS,iot,iot_hue_lightoff,slökkva á ljósum í eldhúsi,iot_hue_lightoff,0.9989,0.9989,True
+4088,is-IS,iot,iot_hue_lightoff,slökktu á loft ljósum,iot_hue_lightoff,0.9998,0.9998,True
+4104,is-IS,weather,weather_query,hvernig mun veðrið vera í keflavík í dag,weather_query,0.9949,0.9949,True
+4116,is-IS,play,play_music,spila stokkaða lagalistann minn takk,play_music,0.9996,0.9996,True
+4119,is-IS,news,news_query,ég vill vita allt sem gerist varðandi stíflubrestinn í kaliforníu,weather_query,0.8645,0.0172,False
+4132,is-IS,weather,weather_query,segðu mér prósentu líkurnar á að fá regn á selfossi í dag,weather_query,0.8961,0.8961,True
+4136,is-IS,play,play_music,geturðu vinsamlegast spilað hjaltalín,qa_factoid,1.0,0.0,False
+4152,is-IS,play,play_music,geturðu spilað lagið í síðasta skipti,play_music,0.9995,0.9995,True
+4168,is-IS,weather,weather_query,vinsamlegast athugaði með veður í keflavík,weather_query,0.6753,0.6753,True
+4171,is-IS,iot,iot_hue_lightoff,slökktu á ljósunum í eldhúsinu,social_post,0.8593,0.0029,False
+4177,is-IS,news,news_query,gefðu mér nýjustu stjórnmála fyrirsagnir úr heiminum,social_post,0.3851,0.1372,False
+4178,is-IS,news,news_query,eru einhverjar fréttir um forsetaembættið,qa_factoid,0.8901,0.0195,False
+4183,is-IS,datetime,datetime_query,núverandi tími í new york borg,qa_factoid,0.1752,0.0293,False
+4186,is-IS,datetime,datetime_query,hey olly segðu mér hvað klukkan er,qa_definition,0.9708,0.0001,False
+4187,is-IS,datetime,datetime_query,hey siri hvað er klukkan,social_post,0.9645,0.0014,False
+4205,is-IS,play,play_music,mig langar að heyra fallegur dagur með bubba morthens,play_podcasts,0.619,0.0807,False
+4212,is-IS,weather,weather_query,mun ég ná að slá grasið í kvöld,iot_hue_lightoff,0.4906,0.2378,False
+4227,is-IS,weather,weather_query,er einhver rigning í spánni fyrir næstu viku,iot_hue_lightoff,0.852,0.0069,False
+4232,is-IS,play,play_music,spila sódóma með sálinni hans jóns míns,play_music,0.7729,0.7729,True
+4236,is-IS,datetime,datetime_query,er komið síðdegi,weather_query,0.3346,0.0181,False
+4253,is-IS,datetime,datetime_query,hvað er klukkan núna á austurlenskum staðaltíma,weather_query,0.9978,0.0007,False
+4254,is-IS,datetime,datetime_query,hvað er klukkan við austurströndina í bandaríkjunum,weather_query,0.9997,0.0,False
+4258,is-IS,news,news_query,hvað er nýjast í,news_query,0.9518,0.9518,True
+4266,is-IS,weather,weather_query,hvernig er veðrið í dag,weather_query,0.9993,0.9993,True
+4273,is-IS,play,play_music,spila lagið útihátíð,play_music,0.9927,0.9927,True
+4290,is-IS,weather,weather_query,ætti ég að taka með mér jakka í kvöld,qa_factoid,0.4038,0.0111,False
+4305,is-IS,play,play_music,spila lagið hvar er draumurinn með sálinni hans jóns míns,play_music,0.9996,0.9996,True
+4309,is-IS,datetime,datetime_query,eftir hversu marga tíma verður miðnætti í lundúnum englandi,weather_query,0.9972,0.0002,False
+4312,is-IS,weather,weather_query,mun veðrið vera minna en tíu gráður í keflavík,weather_query,0.9754,0.9754,True
+4313,is-IS,weather,weather_query,mun vera rigning á morgun í keflavík,weather_query,0.6719,0.6719,True
+4336,is-IS,datetime,datetime_query,hvað er klukkan í kína,weather_query,0.5695,0.0011,False
+4346,is-IS,iot,iot_hue_lightoff,slökktu á ljósunum,social_post,0.9993,0.0,False
+4347,is-IS,iot,iot_hue_lightoff,stoppa starfandi ljós,social_post,0.6625,0.0105,False
+4355,is-IS,weather,weather_query,hvernig er veðrið þar sem ég er,weather_query,0.9636,0.9636,True
+4361,is-IS,play,play_music,gefðu mér einhvern góðan hljóm,iot_hue_lightoff,0.9911,0.0047,False
+4362,is-IS,datetime,datetime_query,hvað er klukkan í kaupmannahöfn,weather_query,0.9992,0.0,False
+4376,is-IS,weather,weather_query,hvernig er úti í dag,weather_query,0.9939,0.9939,True
+4377,is-IS,weather,weather_query,hvaða veður er núna,weather_query,0.9796,0.9796,True
+4383,is-IS,weather,weather_query,hvernig verður veðrið á morgun,weather_query,0.9993,0.9993,True
+4391,is-IS,news,news_query,hverjar eru fyrirsagnirnar hjá rúv,cooking_recipe,0.6476,0.0121,False
+4400,is-IS,news,news_query,hvað eru vinsælar greinar í new york times,lists_query,0.7533,0.0072,False
+4402,is-IS,weather,weather_query,mun ég þurfa að vera með regnhlíf í dag,iot_hue_lightoff,0.9995,0.0005,False
+4412,is-IS,weather,weather_query,hvernig er veðrið í borganesi,weather_query,0.9991,0.9991,True
+4436,is-IS,weather,weather_query,hvaða jakka ætti ég að klæðast,lists_query,0.4395,0.015,False
+4439,is-IS,weather,weather_query,hvernig er veðrið á selfossi,weather_query,0.9509,0.9509,True
+4449,is-IS,weather,weather_query,mun rigna klukkan eitt e. h. í dag,weather_query,0.9966,0.9966,True
+4452,is-IS,play,play_music,spila lög,play_music,0.652,0.652,True
+4463,is-IS,datetime,datetime_query,hversu margir laugardagar eru í mars,weather_query,0.9971,0.0007,False
+4477,is-IS,play,play_music,spila næsta lag,play_music,0.4253,0.4253,True
+4482,is-IS,weather,weather_query,mun ég þurfa að moka bílastæðið mitt þennan morguninn,cooking_recipe,0.5401,0.017,False
+4486,is-IS,weather,weather_query,gefðu mér veðurspánna þessa vikuna,play_music,0.6141,0.02,False
+4487,is-IS,weather,weather_query,mun vera rigning á fimmtudag,qa_factoid,0.9947,0.0018,False
+4491,is-IS,news,news_query,hvað eru nýjustu fréttir um ólaf ragnar grímsson,news_query,0.9987,0.9987,True
+4492,is-IS,news,news_query,hvað er nýjasta glæpatíðni á mínu svæði,social_post,0.9768,0.0021,False
+4496,is-IS,news,news_query,hverju póstaði vogue í dag,social_post,0.9997,0.0,False
+4502,is-IS,datetime,datetime_query,hey hvað er klukkan í lundúnum núna,weather_query,0.9961,0.0002,False
+4524,is-IS,weather,weather_query,olly hvernig er veðurspáin í dag,weather_query,0.996,0.996,True
+4547,is-IS,play,play_music,byrja lagalistann út að labba með hundinn,play_radio,0.7315,0.1783,False
+4567,is-IS,news,news_query,lestu fyrir mig nýjustu fréttir af m. b. l.,lists_remove,0.5282,0.0663,False
+4580,is-IS,datetime,datetime_query,hvað er klukkan í chicago,weather_query,0.9997,0.0,False
+4587,is-IS,play,play_music,spila mitt uppáhalds,play_music,0.9969,0.9969,True
+4589,is-IS,calendar,calendar_set,settu upp tilkynningu fyrir íþróttaleikinn,iot_hue_lightoff,0.9823,0.0026,False
+4606,is-IS,news,news_query,finndu upplýsingar um hlutabréf dagsins,social_post,0.7214,0.0083,False
+4614,is-IS,weather,weather_query,mun hitastigið vera hærra en fjörtíu á morgun,weather_query,0.9416,0.9416,True
+4662,is-IS,news,news_query,fréttirnar frá rúv alexa,qa_factoid,1.0,0.0,False
+4667,is-IS,datetime,datetime_query,klukkan núna í,social_post,0.9339,0.0005,False
+4680,is-IS,weather,weather_query,ætti ég að vera í sandölum eða skóm og sokkum,iot_hue_lightoff,0.5088,0.013,False
+4689,is-IS,weather,weather_query,veist þú hvernig veðrið er,weather_query,0.9982,0.9982,True
+4692,is-IS,play,play_music,spilaðu lag með van halen fyrir mig,play_music,0.9974,0.9974,True
+4710,is-IS,datetime,datetime_query,hvaða dag er hrekkjavakan á þessu ári,iot_hue_lightoff,0.9937,0.0,False
+4764,is-IS,weather,weather_query,á eftir að rigna á mánudaginn,iot_hue_lightoff,0.8517,0.1071,False
+4767,is-IS,news,news_query,eru einhverjar nýjar upplýsingar varðandi eldgosið í geldingadölum,news_query,0.4849,0.4849,True
+4772,is-IS,datetime,datetime_query,segðu mér hvað klukkan er í þessu tímabelti,weather_query,0.998,0.0001,False
+4780,is-IS,datetime,datetime_query,á hvaða degi er afmælið mitt á þessu ári tuttugasta og sjöunda júní,weather_query,0.9647,0.0193,False
+4784,is-IS,weather,weather_query,þarf ég jakka,qa_factoid,0.8775,0.0003,False
+4813,is-IS,datetime,datetime_query,hvað er klukkan í annarri borg,weather_query,0.9998,0.0,False
+4837,is-IS,news,news_query,eru einhverjar fréttir olly,qa_factoid,0.9355,0.0002,False
+4838,is-IS,play,play_music,spilaðu alla tónlist með billy joel,play_music,0.9997,0.9997,True
+4871,is-IS,weather,weather_query,hvernig er það úti,weather_query,0.5156,0.5156,True
+4881,is-IS,datetime,datetime_query,leitaðu til að finna núverandi tíma og tímabelti,datetime_query,0.9549,0.9549,True
+4882,is-IS,datetime,datetime_query,hvað er klukkan í borg,weather_query,0.9991,0.0,False
+4890,is-IS,calendar,calendar_set,stilltu tilkynningar á núverandi veðurhamfarir á íslandi,weather_query,0.5873,0.0036,False
+4909,is-IS,play,play_music,spila lög með sniglabandinu,play_music,0.9991,0.9991,True
+4917,is-IS,weather,weather_query,hitastig úti,qa_factoid,0.9999,0.0,False
+4928,is-IS,play,play_music,spilaðu kvikmyndartónlistina mína,play_music,0.9997,0.9997,True
+4933,is-IS,weather,weather_query,mun rigna núna,qa_factoid,0.993,0.0001,False
+4951,is-IS,datetime,datetime_query,ég myndi vilja vita hvað klukkan er núna,weather_query,0.989,0.0005,False
+4953,is-IS,news,news_query,fréttir af lestarslysinu,qa_factoid,0.943,0.0007,False
+4957,is-IS,datetime,datetime_query,hvaða vikudagur er tuttugasti og þriðji þessa mánaðar,iot_hue_lightoff,0.9997,0.0,False
+4960,is-IS,play,play_music,tónlist third day,datetime_query,0.9957,0.0024,False
+4968,is-IS,qa,qa_factoid,hver vann forsetakosningarnar í ár,qa_factoid,1.0,1.0,True
+4973,is-IS,play,play_music,olly spila sódóma,qa_factoid,1.0,0.0,False
+4998,is-IS,play,play_music,bættu þessu lagi sem næsta lagi til að spila,cooking_recipe,0.6996,0.1025,False
+5009,is-IS,weather,weather_query,mun ég þurfa regnhlíf þessa vikuna,iot_hue_lightoff,0.9999,0.0001,False
+5016,is-IS,news,news_query,segðu mér fréttir um hæðir og lægðir á verðbréfamarkaðinum,news_query,0.3054,0.3054,True
+5027,is-IS,datetime,datetime_query,hvenær er næsti föstudagurinn þrettándi,weather_query,0.9094,0.009,False
+5037,is-IS,weather,weather_query,hversu kalt er í dag,weather_query,0.999,0.999,True
+5038,is-IS,weather,weather_query,hvernig er veðrið í vikunni,weather_query,0.9972,0.9972,True
+5040,is-IS,weather,weather_query,hvernig er veðrið núna,weather_query,0.9986,0.9986,True
+5062,is-IS,play,play_music,spilaðu fyrir mig lög frá níunda áratugnum,play_music,0.5462,0.5462,True
+5074,is-IS,weather,weather_query,hvernig var veðrið fyrir vikuna,weather_query,0.9363,0.9363,True
+5085,is-IS,weather,weather_query,hver er spáin á laugardag,social_post,0.6781,0.005,False
+5118,is-IS,play,play_music,sísí,qa_factoid,0.9741,0.0004,False
+5127,is-IS,news,news_query,hérna er sannleikurinn um matarpakka í fjárhagsáætlun einhvers,qa_definition,0.7425,0.0036,False
+5131,is-IS,datetime,datetime_query,vinsamlegast segðu mér hvað klukkan er í san fransiskó,weather_query,0.8417,0.0006,False
+5134,is-IS,play,play_music,findu lag af big band lagalistanum mínum,social_post,0.5155,0.3227,False
+5156,is-IS,iot,iot_hue_lightoff,slökkva á ljósi í stofunni,iot_hue_lightoff,0.9891,0.9891,True
+5157,is-IS,iot,iot_hue_lightoff,olly slökktu á ljósinu í stofunni,iot_hue_lightoff,0.8093,0.8093,True
+5158,is-IS,play,play_music,vinsamlegast spilaðu nýjasta lagið af albúminu manstu ekki eftir mér,play_music,0.9985,0.9985,True
+5159,is-IS,play,play_music,geturðu vinsamlegast spilað lagið með söngkonunni siggu beinteins,play_music,0.9792,0.9792,True
+5160,is-IS,play,play_music,geturðu vinsamlegast spilað lagið með páli óskari,play_music,0.9912,0.9912,True
+5176,is-IS,weather,weather_query,hvernig veðri má ég búast við í vikunni,weather_query,0.9998,0.9998,True
+5196,is-IS,news,news_query,ég vill vita um brexit,qa_factoid,0.9161,0.0032,False
+5225,is-IS,datetime,datetime_query,hvaða mánaðardagur er næsta miðvikudag,weather_query,0.4015,0.0185,False
+5243,is-IS,iot,iot_hue_lightoff,siri slökktu á ljósunum á baðherberginu,iot_hue_lightoff,0.9958,0.9958,True
+5245,is-IS,news,news_query,settu tilkynningu fyrir umhverfisfréttir,qa_factoid,0.7365,0.0011,False
+5270,is-IS,news,news_query,hvað er nýjast í fréttum,news_query,0.7906,0.7906,True
+5278,is-IS,play,play_music,vinsamlegast bara spila blandaða popp tónlist,play_music,1.0,1.0,True
+5279,is-IS,play,play_music,vinsamlegast spilaðu bara döpur lög í tónlistarspilaranum,play_music,0.9989,0.9989,True
+5286,is-IS,news,news_query,sýndu mér fréttir af rúv um fólksfutninga,social_post,0.9982,0.0,False
+5296,is-IS,news,news_query,olly finndu fyrir mig vinsælar fréttir frá rúv,social_post,0.8687,0.1234,False
+5297,is-IS,news,news_query,finndu vinsælar fréttir á rúv,social_post,0.7135,0.0021,False
+5301,is-IS,weather,weather_query,hvernig verður veðrið tuttugasta mars tvö þúsund og sautján,weather_query,0.9996,0.9996,True
+5307,is-IS,datetime,datetime_query,er tuttugasti mars í dag,qa_factoid,0.9995,0.0,False
+5318,is-IS,play,play_music,vinsamlegast spila bara ragga bjarna lög,cooking_recipe,0.9282,0.0324,False
+5321,is-IS,weather,weather_query,sýna veður,iot_hue_lightoff,0.5218,0.4351,False
+5328,is-IS,play,play_music,rokk,qa_factoid,0.6073,0.0089,False
+5339,is-IS,weather,weather_query,kólnandi veður,qa_factoid,0.9917,0.0037,False
+5341,is-IS,datetime,datetime_query,vinsamlegast láttu mig vita hvað klukkan er,qa_definition,0.9964,0.0001,False
+5347,is-IS,play,play_music,spila teknó tónlist,play_music,0.6,0.6,True
+5358,is-IS,datetime,datetime_query,uppfærðu í klukkuna núna,play_radio,0.6397,0.0028,False
+5370,is-IS,news,news_query,hverjar eru nýjustu trump deilurnar,lists_query,0.6551,0.0089,False
+5378,is-IS,play,play_music,s.,play_radio,0.1383,0.0381,False
+5401,is-IS,play,play_music,tónlist,play_music,0.9051,0.9051,True
+5410,is-IS,news,news_query,lestu fyrir mig nýjustu fyrirsagnir frá vísi,iot_hue_lightoff,0.5327,0.0177,False
+5411,is-IS,news,news_query,hvað eru helstu fréttir á c. n. n.,news_query,0.9827,0.9827,True
+5413,is-IS,play,play_music,spila tónlistina,qa_factoid,0.5521,0.044,False
+5414,is-IS,play,play_music,viltu setja á tónlistina,qa_factoid,0.632,0.0028,False
+5427,is-IS,datetime,datetime_query,hvað er klukkan í kanada núna,weather_query,0.9984,0.0001,False
+5433,is-IS,weather,weather_query,mun rigna seinna,qa_factoid,0.7923,0.0098,False
+5439,is-IS,weather,weather_query,þarf ég regnhlíf um kvöldið,iot_hue_lightoff,1.0,0.0,False
+5465,is-IS,weather,weather_query,get ég farið í sandalana mína í dag,qa_factoid,0.1364,0.0496,False
+5468,is-IS,weather,weather_query,þarf ég að taka með sólgleraugu,lists_remove,0.7734,0.0082,False
+5524,is-IS,weather,weather_query,veðrið í augnablikinu,weather_query,0.9768,0.9768,True
+5529,is-IS,weather,weather_query,klukkan hvað ætti ég að fara í gönguferð,weather_query,0.5727,0.5727,True
+5557,is-IS,play,play_music,ég vil reggí,qa_factoid,1.0,0.0,False
+5577,is-IS,weather,weather_query,mun ég þurfa þykkan jakka ef það er of stormasamt um kvöldið,iot_hue_lightoff,0.3041,0.0796,False
+5578,is-IS,weather,weather_query,ég mun þurfa hlýja sokka á morgnanna um vetur,iot_hue_lightoff,1.0,0.0,False
+5584,is-IS,iot,iot_hue_lightoff,slökkva á ljósum,iot_hue_lightoff,0.9903,0.9903,True
+5590,is-IS,weather,weather_query,opna hitastig,qa_factoid,0.9182,0.0014,False
+5593,is-IS,play,play_music,spila með allt á hreinu með stuðmönnum,play_music,0.9851,0.9851,True
+5619,is-IS,play,play_music,spila fyrra lag,play_music,0.6122,0.6122,True
+5627,is-IS,play,play_music,spila fyrir mig tónlist með brimkló,play_music,0.9968,0.9968,True
+5640,is-IS,datetime,datetime_query,sýndu dagsetningu,calendar_set,0.4033,0.0102,False
+5650,is-IS,weather,weather_query,spurðu um veðrið í dag um kvöldið,weather_query,0.9984,0.9984,True
+5658,is-IS,play,play_music,spilaðu fyrir mig tónlist með þjóðflokknum,play_music,1.0,1.0,True
+5661,is-IS,weather,weather_query,ætti ég að taka regnjakkann með mér núna,qa_factoid,0.7104,0.1554,False
+5671,is-IS,datetime,datetime_query,hvað er klukkan í las vegas,weather_query,0.9997,0.0,False
+5678,is-IS,datetime,datetime_query,fimmtándi ágúst er hvaða dag vikunnar,weather_query,0.9047,0.0201,False
+5683,is-IS,play,play_music,spila lagalistann minn partý lög,play_music,0.9064,0.9064,True
+5688,is-IS,news,news_query,segðu mér nýjustu fyrirsagnirnar í fréttunum takk,cooking_recipe,0.7926,0.0242,False
+5703,is-IS,datetime,datetime_query,klukkan núna,qa_factoid,0.8741,0.0002,False
+5707,is-IS,play,play_music,hlusta á mín uppáhalds,iot_hue_lightoff,0.4268,0.0096,False
+5721,is-IS,weather,weather_query,sýndu mér veðrið á morgun á þessu svæði,weather_query,0.9972,0.9972,True
+5722,is-IS,weather,weather_query,sýndu mér sjö daga veðurspánna þessa vikuna,iot_hue_lightoff,0.9034,0.0683,False
+5732,is-IS,weather,weather_query,ætti ég að skipta bíldekkjunum yfir í vetrardekk fljótlega,qa_factoid,0.6456,0.0007,False
+5757,is-IS,datetime,datetime_query,korter í tvö,iot_hue_lightoff,0.2961,0.0195,False
+5758,is-IS,weather,weather_query,hvernig er veðrið í höfuðborginni,weather_query,0.9929,0.9929,True
+5774,is-IS,datetime,datetime_query,núverandi tími á miðtímabelti,calendar_remove,0.1757,0.0286,False
+5797,is-IS,weather,weather_query,ætti ég að klæðast regnjakka áður en ég fer út,iot_hue_lightoff,0.8596,0.0009,False
+5813,is-IS,play,play_music,spila sódóma lagið,play_music,0.9993,0.9993,True
+5820,is-IS,play,play_music,þessi fallegi dagur með bubba morthens,social_post,0.6817,0.0383,False
+5837,is-IS,weather,weather_query,segðu mér frá veðrinu í vikunni,iot_hue_lightoff,0.4261,0.1362,False
+5871,is-IS,weather,weather_query,hvernig verður veðrið í keflavík í dag,weather_query,0.9993,0.9993,True
+5886,is-IS,news,news_query,vinsælt efni,qa_factoid,0.7569,0.006,False
+5919,is-IS,news,news_query,hvað er að frétta um brúna yfir fossvog,news_query,0.7172,0.7172,True
+5930,is-IS,news,news_query,einhverjar stórfréttir af d. v.,qa_factoid,0.3505,0.0089,False
+5948,is-IS,play,play_music,spilaðu eithvað gott lag frá lagalistanum mínum,play_music,1.0,1.0,True
+5953,is-IS,weather,weather_query,er ódýrara eða dýrara að búa í borginni,iot_hue_lightoff,0.5097,0.2975,False
+5955,is-IS,weather,weather_query,hversu örugg er borgin með tilliti til laga og reglna,qa_factoid,0.9432,0.0355,False
+5970,is-IS,play,play_music,ég vil að þú spilir bohemian rhapsody,play_music,1.0,1.0,True
+5985,is-IS,news,news_query,sýndu mér nýjustu fréttir frá sameinuðu þjóðunum,news_query,0.9946,0.9946,True
+5996,is-IS,weather,weather_query,mun ég þurfa snjó stígvélin mín seinni partinn,play_music,0.9995,0.0,False
+5997,is-IS,datetime,datetime_query,hvað er klukkan á miðlægu tímabelti,weather_query,0.9945,0.0027,False
+6023,is-IS,weather,weather_query,mun verða klístrað í kvöld,iot_hue_lightoff,0.4699,0.2746,False
+6024,is-IS,weather,weather_query,ætti ég að taka peysu eða kápu í vinnuna í dag,cooking_recipe,0.9994,0.0,False
+6025,is-IS,weather,weather_query,mun ég þurfa sólgleraugu síðdegis í dag,iot_hue_lightoff,0.8055,0.0176,False
+6027,is-IS,play,play_music,kveikja á uppáhalds lögum,cooking_recipe,0.999,0.0005,False
+6039,is-IS,weather,weather_query,verður rigning á morgun,weather_query,0.9846,0.9846,True
+6041,is-IS,iot,iot_hue_lightoff,hey olly slökktu á ljósunum takk,social_post,0.9685,0.025,False
+6045,is-IS,play,play_music,bæta við völdu lagi,qa_factoid,0.9995,0.0,False
+6050,is-IS,weather,weather_query,mun ég þurfa sólarvörn seinna,iot_hue_lightoff,0.5033,0.0002,False
+6055,is-IS,iot,iot_hue_lightoff,skildi ég eftir kveikt á ljósinu í bílskúrnum,iot_hue_lightoff,0.9997,0.9997,True
+6059,is-IS,play,play_music,spilaðu rapp tónlist,play_music,0.9997,0.9997,True
+6069,is-IS,weather,weather_query,eru stormar líklegir í dag,weather_query,0.9828,0.9828,True
+6073,is-IS,iot,iot_hue_lightoff,slökkva á ljósinu á veröndinni,iot_hue_lightoff,0.6686,0.6686,True
+6074,is-IS,iot,iot_hue_lightoff,slökkva á svefnherbergis ljósum klukka níu þrjátíu um kvöldið,iot_hue_lightoff,0.9828,0.9828,True
+6077,is-IS,news,news_query,ég vill heyra nýjustu heims fréttir í dag,social_post,0.8141,0.1706,False
+6093,is-IS,weather,weather_query,ætti ég að opna sólþakið,iot_hue_lightoff,0.8752,0.0001,False
+6103,is-IS,weather,weather_query,hey hvernig verður veðrið í dag í keflavík,weather_query,0.9996,0.9996,True
+6116,is-IS,weather,weather_query,upplýsingar um veðrið fyrir þessa viku,news_query,0.3186,0.0237,False
+6118,is-IS,datetime,datetime_query,hey hvað er klukkan í dallas texas núna,weather_query,0.9873,0.0001,False
+6127,is-IS,weather,weather_query,mælirðu með regnhlífum,iot_hue_lightoff,0.9999,0.0,False
+6129,is-IS,news,news_query,haltu mér uppfærðum um heims fréttir,news_query,0.9949,0.9949,True
+6151,is-IS,weather,weather_query,mig langar að vita veðrið í dag,weather_query,0.9998,0.9998,True
+6172,is-IS,weather,weather_query,eru sólgleraugu góð ákvörðun í dag,qa_factoid,0.982,0.0011,False
+6177,is-IS,weather,weather_query,mun ég þurfa regnhlíf í dag,iot_hue_lightoff,0.9958,0.004,False
+6178,is-IS,weather,weather_query,ætti ég að vera í jakka,qa_factoid,0.9349,0.0017,False
+6194,is-IS,weather,weather_query,hvernig er veðrið í dag,weather_query,0.9993,0.9993,True
+6289,is-IS,weather,weather_query,hey hvernig er veðrið í dag,weather_query,0.9995,0.9995,True
+6370,is-IS,calendar,calendar_query,hvernig lítur komandi vika út hjá mér,weather_query,0.9965,0.0,False
+6372,is-IS,news,news_query,plöntu byggðar fréttir,news_query,0.7784,0.7784,True
+6403,is-IS,transport,transport_query,hvernig á að fara einhvert,cooking_recipe,0.572,0.0256,False
+6410,is-IS,news,news_query,hvað er að gerast á íslandi í dag,weather_query,0.9639,0.012,False
+6411,is-IS,weather,weather_query,hvernig veður er næsta miðvikudag,weather_query,0.999,0.999,True
+6539,is-IS,calendar,calendar_set,merktu í dag sem byrjun á megruninni minni,qa_factoid,0.9958,0.0002,False
+6542,is-IS,cooking,cooking_recipe,er mjúkur ostur betri en harður,cooking_recipe,0.9415,0.9415,True
+6618,is-IS,news,news_query,segðu athyglisverðar fréttir,iot_hue_lightoff,0.9976,0.0005,False
+6682,is-IS,news,news_query,kosningar í up,qa_factoid,0.4687,0.0191,False
+6683,is-IS,news,news_query,efnahagsmál,qa_factoid,0.9961,0.0,False
+6713,is-IS,calendar,calendar_remove,hætta við viðskiptafund á miðvikudag,social_post,0.9494,0.0026,False
+6722,is-IS,calendar,calendar_query,er eithvað sem ég þarf á minningu um,lists_remove,0.2492,0.0279,False
+6725,is-IS,calendar,calendar_set,minntu mig á dagskránna mína seinni partinn,qa_factoid,0.8129,0.0035,False
+6726,is-IS,calendar,calendar_remove,eyða næsta fundi,qa_factoid,0.9975,0.0,False
+6729,is-IS,calendar,calendar_remove,hætta við morgunmatinn heima hjá tinnu,weather_query,0.2788,0.0127,False
+6732,is-IS,calendar,calendar_set,bættu við áminningu um fund á sunnudag með tengdaforeldrum mínum,qa_factoid,0.9551,0.0003,False
+6744,is-IS,calendar,calendar_set,setja fund með palla á morgun klukkan tíu f. h.,social_post,0.4451,0.0126,False
+6746,is-IS,calendar,calendar_set,settu fyrstu vikuna í júní sem frí í dagatalinu mínu,calendar_set,0.8054,0.8054,True
+6747,is-IS,calendar,calendar_query,hversu margar áminningar er ég með,recommendation_events,0.9248,0.0008,False
+6755,is-IS,calendar,calendar_remove,vinsamlegast hreinsa dagatalið mitt,email_query,0.8757,0.0052,False
+6761,is-IS,calendar,calendar_remove,fjarlægja fundinn klukkan níu um morguninn af dagatalinu mínu,lists_remove,0.2231,0.1651,False
+6764,is-IS,calendar,calendar_set,minntu mig á að þvo gluggana,iot_hue_lightoff,0.9119,0.0005,False
+6774,is-IS,calendar,calendar_set,settu viðburð á föstudag,calendar_set,0.6652,0.6652,True
+6785,is-IS,calendar,calendar_query,hver er næsta áminningin mín,qa_factoid,0.9897,0.0,False
+6789,is-IS,calendar,calendar_set,settu upp fund með jóhönnu á laugardag klukkan fjögur e. h.,social_post,0.9816,0.0006,False
+6798,is-IS,calendar,calendar_remove,fjarlæga minn næsta viðburð,iot_hue_lightoff,0.1117,0.0413,False
+6801,is-IS,calendar,calendar_query,sýndu mér fundina mína á föstudaginn,play_music,0.4436,0.0008,False
+6806,is-IS,calendar,calendar_query,sýndu mér dagatalsviðburðinn minn á föstudaginn seinni partinn,qa_factoid,0.3492,0.0111,False
+6815,is-IS,calendar,calendar_set,minntu mig á afmæli mömmu viku fyrir,qa_factoid,0.9833,0.0003,False
+6819,is-IS,calendar,calendar_set,olly það er góð hljómsveit að spila í kvöld klukkan níu á jass barnum mig langar að fara,weather_query,0.8986,0.001,False
+6836,is-IS,calendar,calendar_set,minntu mig á fundinn á morgun klukkan sex,qa_factoid,0.5445,0.0176,False
+6850,is-IS,calendar,calendar_query,listaðu upp dagskránna mína í dag,lists_query,0.6075,0.029,False
+6856,is-IS,calendar,calendar_set,gefðu mér áminningar tilkynningu um fund morgundagsins klukkan tíu f. h.,iot_hue_lightoff,0.3831,0.0099,False
+6860,is-IS,calendar,calendar_query,eru einhverjir komandi viðburðir,qa_factoid,0.2431,0.0311,False
+6865,is-IS,calendar,calendar_set,settu upp tilkynningu um morgundags fundinn klukkan tíu,iot_hue_lightoff,0.7147,0.156,False
+6878,is-IS,calendar,calendar_set,skipuleggðu fund með bókhaldsdeildinni klukkan tvö þrjátíu e. h. á föstudag,calendar_remove,0.8771,0.0034,False
+6891,is-IS,calendar,calendar_query,eru morgunsýningar í boði,iot_hue_lightoff,0.771,0.0073,False
+6892,is-IS,calendar,calendar_query,geturðu sagt mér bíómynda dagskránna,qa_factoid,0.9987,0.0,False
+6897,is-IS,calendar,calendar_set,minntu mig á að ná í lindu klukkan fimm um kvöldið þann sjöunda,cooking_recipe,0.8753,0.0063,False
+6901,is-IS,calendar,calendar_set,minntu mig á fundinn á morgun klukkan tíu f. h.,weather_query,0.9972,0.0001,False
+6902,is-IS,calendar,calendar_set,settu upp áminningu í næsta mánuði um að skipta um olíu,iot_hue_lightoff,0.8449,0.023,False
+6909,is-IS,calendar,calendar_query,hvað er að gerast eftir eitt og fyrir þrjú eftir hádegi,lists_query,0.1092,0.0371,False
+6918,is-IS,calendar,calendar_remove,eyddu viðburðum úr dagatali,cooking_recipe,0.4747,0.0011,False
+6923,is-IS,calendar,calendar_set,bæta áminningu að prenta út skjöl á þriðjudags morgun,iot_hue_lightoff,0.8776,0.0015,False
+6926,is-IS,calendar,calendar_query,er föstudagur,qa_factoid,0.9929,0.0,False
+6928,is-IS,calendar,calendar_remove,eyddu öllum viðburðum,cooking_recipe,0.5848,0.0524,False
+6936,is-IS,calendar,calendar_set,minntu mig á að taka lyfin klukkan níu um morguninn,iot_hue_lightoff,0.5673,0.0073,False
+6937,is-IS,calendar,calendar_set,settu upp áminningu um hádegi að fara í hádegismat með yfirmanninum,iot_hue_lightoff,0.5788,0.1019,False
+6946,is-IS,calendar,calendar_query,eru einhverjir fundir skipulagðir fyrir næsta miðvikudag,lists_remove,0.8901,0.0013,False
+6958,is-IS,calendar,calendar_remove,vera viss um að það séu engir viðburðir á dagatalinu mínu,qa_factoid,0.9283,0.0479,False
+6959,is-IS,calendar,calendar_set,minntu mig á fundinn minn klukkutíma áður en hann hefst,iot_hue_lightoff,0.2381,0.0241,False
+6962,is-IS,calendar,calendar_set,get ég fengið að vita hvað ég þarf að gera næsta laugardag klukkan sex e. h.,transport_query,0.3884,0.0136,False
+6964,is-IS,calendar,calendar_set,geturðu minnt mig á næsta fund með yfirmanninum eina klukkustund áður en hann hefst,social_post,0.5726,0.0038,False
+6967,is-IS,calendar,calendar_query,geturðu athugað staðreyndir þessa máls,lists_query,0.0978,0.0377,False
+6968,is-IS,calendar,calendar_query,ég þarf að staðfesta alla fundi í dag geturðu boðið manneskju,social_post,0.684,0.0012,False
+6973,is-IS,calendar,calendar_set,bæta við áminningu fyrir ráðstefnu á morgun í reykjavík,iot_hue_lightoff,0.4604,0.0028,False
+6974,is-IS,calendar,calendar_set,ég hef virkni í reykjavík á morgun minntu á,qa_factoid,0.3152,0.0204,False
+6980,is-IS,calendar,calendar_query,sýndu mér minnislista,lists_remove,0.9958,0.0,False
+6992,is-IS,calendar,calendar_query,sýna framtíðar viðburði,play_podcasts,0.5781,0.0021,False
+6994,is-IS,calendar,calendar_set,minntu mig á,qa_factoid,0.9647,0.0,False
+6997,is-IS,calendar,calendar_remove,fjarlægðu liðinn viðburð,qa_factoid,0.9356,0.0056,False
+7000,is-IS,calendar,calendar_set,nýr viðburður,qa_factoid,0.9985,0.0,False
+7004,is-IS,calendar,calendar_set,settu inn áminningu í dagatalið mitt á hverju ári á þessum degi,email_sendemail,0.9976,0.0,False
+7013,is-IS,calendar,calendar_query,hvenær byrjar viðburðurinn,weather_query,0.8302,0.0003,False
+7014,is-IS,calendar,calendar_query,gefðu mér dagskránna fyrir viðburðina í dag,calendar_set,0.173,0.0402,False
+7025,is-IS,calendar,calendar_remove,fjarlægja nýtt ár af dagatalinu,qa_factoid,0.9998,0.0,False
+7026,is-IS,recommendation,recommendation_events,hvaða viðburðir eru planaðir í mínum bæ þessa vikuna,recommendation_events,0.308,0.308,True
+7039,is-IS,calendar,calendar_set,settu fyrir mig fund næsta þriðjudag klukkan ellefu f. h. með jónu,social_post,0.8919,0.0393,False
+7044,is-IS,calendar,calendar_set,minntu mig á að gera mit tilbúinn fyrir fimm e. h. takk,qa_factoid,0.9315,0.0002,False
+7046,is-IS,calendar,calendar_set,bættu við nova fundi þann tuttugasta og fyrsta klukka sjö,qa_factoid,0.9836,0.0002,False
+7055,is-IS,calendar,calendar_set,skipuleggðu fund með matta klukkan ellefu um morguninn á fimmtudag,calendar_remove,0.9781,0.0009,False
+7057,is-IS,calendar,calendar_set,bóka hádegisfund með breka á miðvikudaginn í hádeginu,calendar_remove,0.4075,0.1369,False
+7061,is-IS,calendar,calendar_set,láttu mig vita sólarhring fyrir föstudags fundinn með agli,weather_query,0.2288,0.0257,False
+7073,is-IS,calendar,calendar_set,leitaðu í dagatalinu mínu að næsta viðburði og minntu mig á hann áður en hann byrjar,social_post,0.2664,0.0205,False
+7080,is-IS,calendar,calendar_remove,hættu við allt á dagatalinu mínu,qa_factoid,0.824,0.061,False
+7087,is-IS,calendar,calendar_remove,aflýstu fundinum á morgun í dagatalinu mínu,iot_hue_lightoff,0.9996,0.0,False
+7098,is-IS,calendar,calendar_set,bættu við bílagreiðslunni minni þann tólfta í dagatalið mitt,qa_factoid,0.8414,0.0024,False
+7100,is-IS,calendar,calendar_set,minntu mig á daginn áður en bíllinn verður tilbúinn,qa_factoid,0.8856,0.0009,False
+7111,is-IS,calendar,calendar_query,klukkan hvað er læknatíminn minn þrítugasta og fyrsta mars,iot_hue_lightoff,0.1329,0.0462,False
+7113,is-IS,calendar,calendar_query,hvaða viðburðir eru í miðbæ þessa helgina,iot_hue_lightoff,0.7452,0.0044,False
+7117,is-IS,calendar,calendar_remove,eyddu öllum viðburðum þann nítjánda úr dagatalinu mínu,play_radio,0.2485,0.0319,False
+7120,is-IS,calendar,calendar_query,hvernig lítur dagskráin mín út í dag,qa_factoid,0.9897,0.0,False
+7122,is-IS,calendar,calendar_set,getur þú endurtekið þennan viðburð,qa_factoid,0.6204,0.0027,False
+7140,is-IS,calendar,calendar_set,settu áminningu til að láta mig vita einum klukkutíma fyrir hádegisverðarfundinn,calendar_set,0.4555,0.4555,True
+7141,is-IS,calendar,calendar_query,er þetta plan skipulagt,qa_factoid,0.9586,0.0004,False
+7151,is-IS,calendar,calendar_set,fyrir hvern oddatölu sunnudag bættu við áminningu,qa_factoid,0.7813,0.0001,False
+7152,is-IS,calendar,calendar_set,settu hádegismat á hverjum degi klukkan hálf eitt,iot_hue_lightoff,0.5904,0.1943,False
+7161,is-IS,calendar,calendar_set,minntu á viðburðinn í framtíðinni,iot_hue_lightoff,0.4683,0.0029,False
+7170,is-IS,calendar,calendar_set,það er afmæli mömmu minnar í dag sendu mér áminningu á hverju ári á þessum degi,news_query,0.1983,0.0265,False
+7181,is-IS,calendar,calendar_set,vektu mig klukkan sex um morguninn á fimmtudaginn svo ég hafi tíma fyrir fundinn,iot_hue_lightoff,0.6114,0.0167,False
+7185,is-IS,calendar,calendar_query,hvenær er næsti tíminn minn hjá doktor sigurði,weather_query,0.9515,0.002,False
+7189,is-IS,calendar,calendar_query,er ég með eitthvað planað,cooking_recipe,0.6476,0.009,False
+7194,is-IS,calendar,calendar_set,ég er að fara á fund á morgun settu hann,calendar_set,0.5409,0.5409,True
+7196,is-IS,calendar,calendar_set,minntu mig á fundinn með andra þann fimmtánda mars,social_post,0.6089,0.0055,False
+7199,is-IS,calendar,calendar_set,setja tilkynningu þremur tveimur og einum tíma fyrir lokaprófið í ensku í næstu viku,calendar_set,0.9953,0.9953,True
+7209,is-IS,calendar,calendar_set,geturðu minnt mig á að fara út með ruslið á þriðjudag,weather_query,0.3525,0.0077,False
+7219,is-IS,calendar,calendar_query,stilltir þú áminninguna fyrir fundinn á morgun,iot_hue_lightoff,0.4205,0.0123,False
+7224,is-IS,calendar,calendar_query,hvar er vettvangurinn sem að gifting tómasar a að fara fram í,qa_factoid,0.7672,0.0057,False
+7232,is-IS,calendar,calendar_query,hvaða viðburðir eru í næstu viku,iot_hue_lightoff,0.5458,0.0084,False
+7257,is-IS,calendar,calendar_set,vinsamlegast minntu mig á að hringja í mömmu eftir hálftíma,qa_factoid,0.9109,0.003,False
+7258,is-IS,calendar,calendar_set,minntu mig á að senda tölvupóst á yfirmanninn eftir eina klukkustund,qa_factoid,0.3666,0.0117,False
+7262,is-IS,calendar,calendar_set,búðu til áminningu fyrir fundinn á morgun,email_sendemail,0.7225,0.006,False
+7266,is-IS,calendar,calendar_query,hver eru verkefnin mín sem þarf að gera,cooking_recipe,0.8061,0.0018,False
+7278,is-IS,calendar,calendar_set,minntu mig á afmæli rósu tuttugu og fjórum tímum fyrir,iot_hue_lightoff,0.3565,0.0083,False
+7287,is-IS,calendar,calendar_set,minntu mig á sambandsafmælið með eins dags fyrirvara,qa_factoid,0.9248,0.0024,False
+7289,is-IS,calendar,calendar_remove,eyða öllum viðburðum með jóni,play_music,0.3656,0.0442,False
+7291,is-IS,calendar,calendar_set,blokka eina klukkustund frá klukkan tíu á morgun um morguninn,iot_hue_lightoff,0.6439,0.0224,False
+7292,is-IS,calendar,calendar_set,ég er ekki tiltækur frá fjögur til sex á morgun um kvöldið merktu við dagatalið mitt,qa_factoid,0.9937,0.0002,False
+7293,is-IS,calendar,calendar_set,skipuleggðu klukkutíma viðtal á laugardag,qa_factoid,0.3087,0.0152,False
+7294,is-IS,calendar,calendar_remove,fjarlægðu hittinginn með garðari adamssyni úr dagatalinu mínu,social_post,0.9539,0.0088,False
+7295,is-IS,calendar,calendar_remove,vinsamlegast hreinsaðu dagatalið mitt,qa_factoid,0.7478,0.0225,False
+7314,is-IS,calendar,calendar_query,hvað er í dag,weather_query,0.9888,0.0006,False
+7316,is-IS,calendar,calendar_query,hef ég einhverjar tímabókanir,qa_factoid,0.9072,0.0008,False
+7319,is-IS,calendar,calendar_query,hvað er í gangi í dag frá tvö fjögur e. h.,weather_query,0.922,0.0026,False
+7353,is-IS,email,email_query,láttu mig bara vita um veður næstu vikur á reykjanesi,weather_query,0.9978,0.0,False
+7355,is-IS,calendar,calendar_set,minntu mig á að athuga kássuna klukkan sex,qa_factoid,0.6076,0.0018,False
+7380,is-IS,calendar,calendar_query,vinsamlegast sýndu fundi dagsins með viðskiptavinum,qa_factoid,0.9642,0.0002,False
+7397,is-IS,calendar,calendar_query,eru einverjir viðburðir planaðir fyrir næstu þrjá mánuði,recommendation_events,0.8965,0.0029,False
+7449,is-IS,calendar,calendar_set,vinsamlegast skipulagðu fund með þessari manneskju,qa_factoid,0.992,0.0002,False
+7450,is-IS,calendar,calendar_set,ég þarf að bóka fund með þessari manneskju,recommendation_events,0.7415,0.0028,False
+7455,is-IS,calendar,calendar_set,minntu mig á partýið á morgun,iot_hue_lightoff,0.7656,0.0012,False
+7461,is-IS,calendar,calendar_set,bjóða fólki í dagatals viðburðinn,social_post,0.6401,0.0022,False
+7463,is-IS,calendar,calendar_set,láta hópinn minn vita að nýja fundar dagsetningin er á morgun,qa_factoid,1.0,0.0,False
+7467,is-IS,calendar,calendar_query,gefðu mér tímasetningu viðburðanna,datetime_query,0.5861,0.0017,False
+7477,is-IS,calendar,calendar_set,minntu mig á fimmta mars á hverju ári að útvega brúðkaupsafmælis gjafir,recommendation_events,0.6404,0.0079,False
+7496,is-IS,calendar,calendar_query,hef ég tímabókanir í dag,qa_factoid,0.7532,0.0035,False
+7499,is-IS,calendar,calendar_set,gera nýja dagskrá fyrir fundinn á morgun,weather_query,0.6635,0.0346,False
+7500,is-IS,calendar,calendar_remove,geturðu eytt næsta viðburði,qa_factoid,0.8465,0.0043,False
+7502,is-IS,calendar,calendar_query,hvað er á dagská í fjögur e. h. fundinum með jóa,weather_query,0.8059,0.006,False
+7503,is-IS,calendar,calendar_query,hvar í keflavík er þarna fundurinn klukkan eitt e. h. á föstudaginn,weather_query,0.5742,0.0155,False
+7520,is-IS,calendar,calendar_set,minntu mig á hverjum degi klukkan tvö e. h. á hádegismat,qa_factoid,0.9745,0.0003,False
+7524,is-IS,calendar,calendar_query,hversu mikið er magga tilbúin að fjárfesta í fyrirtækingu mínu á fundi sem var haldinn í dag klukkan fimm hundruð og tuttugu e. h.,qa_factoid,0.8137,0.0101,False
+7528,is-IS,calendar,calendar_set,þrettánda júní eru kosningarúrslit vinsamlegast stilltu það,qa_factoid,0.93,0.0017,False
+7531,is-IS,calendar,calendar_set,vinsamlegast bættu við útborgunardagana mína,qa_factoid,0.4923,0.0007,False
+7539,is-IS,calendar,calendar_query,er ég með eitthvað í gangi,cooking_recipe,0.3663,0.0198,False
+7542,is-IS,calendar,calendar_set,vinsamlegast minntu mig á þetta á morgun,social_post,0.709,0.0072,False
+7549,is-IS,calendar,calendar_set,ég vil fund til klukkan þrjú,weather_query,0.9913,0.0001,False
+7556,is-IS,calendar,calendar_set,stilltu dagatalið að minna mig á að kaupa matvörur á hverjum föstudegi,qa_factoid,0.7556,0.0032,False
+7557,is-IS,calendar,calendar_set,settu áminningu um staðsetningu á dagatalið,email_sendemail,0.5061,0.011,False
+7559,is-IS,calendar,calendar_set,minntu mig á í kvöld að sækja fötin í fatahreinsunina klukkan átta,iot_hue_lightoff,0.9242,0.0017,False
+7563,is-IS,calendar,calendar_set,minntu mig á fundinn á morgun einum klukkutíma áður,iot_hue_lightoff,0.7836,0.0072,False
+7565,is-IS,calendar,calendar_set,fundar áminning,qa_factoid,0.9993,0.0,False
+7567,is-IS,calendar,calendar_set,afmæli,email_sendemail,0.9972,0.0,False
+7569,is-IS,calendar,calendar_query,plan fyrir morgundaginn,cooking_recipe,0.8074,0.0061,False
+7570,is-IS,calendar,calendar_query,hvað er planið í dag,cooking_recipe,0.9548,0.0016,False
+7583,is-IS,calendar,calendar_set,bubbi bættu við viðburð í dagatalið þitt,qa_factoid,0.9573,0.0006,False
+7596,is-IS,calendar,calendar_set,vinsamlegast skipuleggja fund með davíð á hamborgarabúllunni á hádegi,qa_factoid,0.9753,0.0001,False
+7598,is-IS,calendar,calendar_set,vinsamlegast bókaðu fund með fróða til að ræða hryðjuverk á næsta lausa fundardegi,social_post,0.5146,0.0027,False
+7606,is-IS,calendar,calendar_set,hitta jóa á morgun klukkan þrjú,weather_query,0.9273,0.0004,False
+7609,is-IS,calendar,calendar_remove,fjarlægðu fundaráminningu á þriðjudag,qa_factoid,0.2378,0.2095,False
+7613,is-IS,calendar,calendar_query,hvað var komandi viðburður,qa_factoid,0.5018,0.0251,False
+7628,is-IS,calendar,calendar_set,minntu mig á þegar ég er á bókasafninu að fá nýtt bókasafnskort,qa_factoid,0.5259,0.0299,False
+7654,is-IS,calendar,calendar_set,merktu tuttugasta apríl sem afmæli bróður míns,cooking_recipe,0.9959,0.0001,False
+7655,is-IS,calendar,calendar_set,bættu við áminningu tuttugasta apríl um afmæli bróður míns,qa_factoid,0.9962,0.0001,False
+7660,is-IS,calendar,calendar_remove,hætta við allar tímabókanir eftur klukkan þrjú e. h. í dag og upplýstu mig um smá atriðin,iot_hue_lightoff,0.2587,0.0179,False
+7662,is-IS,calendar,calendar_query,geturðu listað fundina mína í dag,lists_remove,0.9549,0.0005,False
+7664,is-IS,calendar,calendar_set,bættu við hádegismat með mikka,cooking_recipe,0.9607,0.0001,False
+7666,is-IS,calendar,calendar_set,viltu merkja að ég á fund með tomma klukkan þrjú á morgun,social_post,0.2306,0.0436,False
+7680,is-IS,calendar,calendar_remove,í dagatalinu mínu eyddu öllum golf viðburðum mínum út þennan mánuð,iot_hue_lightoff,0.3095,0.0574,False
+7686,is-IS,calendar,calendar_set,bættu mikka og jóa við hátíðar dagatalið,play_music,0.8215,0.0012,False
+7690,is-IS,calendar,calendar_query,hvað er á döfinni hjá mér,cooking_recipe,0.184,0.0226,False
+7693,is-IS,calendar,calendar_query,er ég með eitthvað á dagskrá tuttugasta og fyrsta,qa_factoid,0.3482,0.0182,False
+7697,is-IS,calendar,calendar_set,setja áminningu um þetta,email_sendemail,0.7096,0.0498,False
+7711,is-IS,calendar,calendar_set,hey eyddu öllum öðrum fundum mínum og símtölum annan mars þar sem jói á afmæli og merktu það sem viðburð í dagatalinu,social_post,0.106,0.0449,False
+7712,is-IS,calendar,calendar_set,hey olly hættu við alla hina fundina og símtölin mín annan mars þar sem það er afmæli jóa og skráðu það sem viðburð í dagatalið þitt,lists_remove,0.1246,0.0346,False
+7718,is-IS,calendar,calendar_set,hey sendu fundar boð til herra jóns fyrir þennan föstudags fund og lokaðu dagatalinu mínu fyrir seinni partinn á föstudag,email_sendemail,0.4802,0.2055,False
+7726,is-IS,calendar,calendar_set,ég þarf að gera eitthvað á hverjum mánudegi settu áminningu fyrir það,email_sendemail,0.5521,0.0161,False
+7730,is-IS,calendar,calendar_set,ég þarf að láta þig merkja við næsta mánudag,email_sendemail,0.2925,0.0147,False
+7741,is-IS,calendar,calendar_remove,hreinsa dagatalið mitt á laugardag,calendar_remove,0.8004,0.8004,True
+7751,is-IS,calendar,calendar_set,minntu mig á hverjum mánudegi að fara út með ruslið,social_post,0.2014,0.0105,False
+7762,is-IS,calendar,calendar_query,hvaða áminningar er ég með,qa_factoid,0.3927,0.0033,False
+7767,is-IS,calendar,calendar_set,bæta við æfingu í dagatalið fjórða febrúar í laugardalnum klukkan tvö e. h.,calendar_remove,0.84,0.0038,False
+7768,is-IS,calendar,calendar_set,bættu við æfingu þann fjórða febrúar í elliðárdalnum klukkan tvö eftir hádegi,qa_factoid,0.5929,0.0014,False
+7774,is-IS,calendar,calendar_set,bættu við innkaupum á dagatalið mitt á morgun,qa_factoid,0.9702,0.0004,False
+7777,is-IS,calendar,calendar_query,hef ég einhverjar tímabókanir í dag,social_post,0.498,0.0017,False
+7778,is-IS,calendar,calendar_set,minntu mig á hvað ég er að geras seinni partinn á sunnudag,cooking_recipe,0.9569,0.0015,False
+7808,is-IS,calendar,calendar_set,minntu mig á að taka mömmu á hárgreiðslustofuna fimmtudag klukkan eitt þúsund og eitt hundrað f. h.,iot_hue_lightoff,0.583,0.0103,False
+7817,is-IS,calendar,calendar_query,er þetta satt fyrir þessa dagsetningu,qa_factoid,1.0,0.0,False
+7820,is-IS,calendar,calendar_remove,eyddu öllum viðburðum úr dagatalinu,play_music,0.4946,0.0399,False
+7836,is-IS,calendar,calendar_remove,eyða öllum viðburðum,qa_factoid,0.3602,0.0096,False
+7843,is-IS,calendar,calendar_set,láttu mig vita eftir tvo tíma að ég þarf að leggja af stað í fiðlutíma sem er klukkan fjögur e. h. í tónlistarskólanum,datetime_query,0.9805,0.0004,False
+7844,is-IS,calendar,calendar_query,hvaða áminningar setti ég,iot_hue_lightoff,0.48,0.0023,False
+7847,is-IS,calendar,calendar_set,láttu mig vita þegar skráningin opnar,qa_factoid,0.3611,0.0103,False
+7851,is-IS,calendar,calendar_set,ég er með fund í hádeginu í dag,recommendation_events,0.8954,0.0015,False
+7863,is-IS,calendar,calendar_set,minna mig á að byrja á kvöldmatnum seinni partinn klukkan fimm,iot_hue_lightoff,0.9095,0.0032,False
+7870,is-IS,calendar,calendar_remove,eyddu viðburði úr dagatalinu,cooking_recipe,0.8777,0.0015,False
+7876,is-IS,news,news_query,hvað er búið að vera að gerast síðustu tvo mánuði,datetime_query,0.2798,0.0686,False
+7878,is-IS,calendar,calendar_remove,eyða dagatalinu mínu,qa_factoid,0.994,0.0002,False
+7879,is-IS,calendar,calendar_query,hverjir eru mínir þrír næstu viðburðir,cooking_recipe,0.2217,0.0159,False
+7889,is-IS,calendar,calendar_query,klukkan hvað er fótboltaleikurinn í kvöld,cooking_recipe,0.9556,0.0008,False
+7890,is-IS,calendar,calendar_remove,hreinsa klippingu í dag,qa_factoid,0.9991,0.0,False
+7891,is-IS,calendar,calendar_remove,hættu við kvöldmat í kvöld,calendar_remove,0.7244,0.7244,True
+7892,is-IS,calendar,calendar_remove,eyddu næsta viðburði í dag,cooking_recipe,0.965,0.0007,False
+7894,is-IS,calendar,calendar_set,uppfærðu mig um kosningarnar eftir einn tíma,social_post,0.3175,0.0202,False
+7902,is-IS,calendar,calendar_set,setja fund milli mín og jóns klukkan tvö e. h. á morgun,weather_query,0.4782,0.2903,False
+7908,is-IS,calendar,calendar_query,þarf ég að gera eitthvað í dag,cooking_recipe,0.8663,0.0106,False
+7912,is-IS,calendar,calendar_remove,alexa fjarlægðu kvöldmat með magnúsi frá dagatalinu mínu,qa_factoid,0.9869,0.0005,False
+7916,is-IS,calendar,calendar_set,minntu mig á að fara út með ruslið klukkan sex síðdegis,weather_query,0.9854,0.0004,False
+7918,is-IS,calendar,calendar_set,dagatals viðburður sendu boð á brynjar daðason,qa_factoid,0.5914,0.0019,False
+7919,is-IS,calendar,calendar_set,nýr fundur bættu bjarna og maríu við sem viðstöddum,social_post,0.9905,0.0002,False
+7922,is-IS,calendar,calendar_remove,opna verkefni henda út future viðburðum,qa_factoid,0.3922,0.0438,False
+7927,is-IS,calendar,calendar_query,hvað hef ég að gera þessa vikuna,cooking_recipe,0.6101,0.0197,False
+7946,is-IS,calendar,calendar_query,hvaða tónleikar eru væntanlegir í keflavík,iot_hue_lightoff,0.7507,0.0008,False
+7953,is-IS,calendar,calendar_remove,vinsamlegast fjarlægja tímann hjá lækninum mínum á laugardag,qa_factoid,0.4608,0.023,False
+7955,is-IS,calendar,calendar_set,settu þennan viðburð á endurtekningu í dagatalinu mínu,qa_factoid,0.8579,0.0204,False
+7956,is-IS,calendar,calendar_set,geturðu gert þennan viðburð endurtekinn,qa_factoid,0.4139,0.0188,False
+7966,is-IS,calendar,calendar_query,sagði ég þér að minna mig á eitthvað,social_post,0.2345,0.017,False
+7970,is-IS,calendar,calendar_set,minntu mig á brúðkaupið tímalega til að kaupa gjöf,qa_factoid,0.4516,0.01,False
+7971,is-IS,calendar,calendar_set,settur áminningu tvo daga fyrir viðburðinn,email_sendemail,1.0,0.0,False
+7975,is-IS,calendar,calendar_query,er bíla þjónusta á þessum viðburði,qa_factoid,0.863,0.001,False
+7978,is-IS,calendar,calendar_query,hvaða áminningar eru á planinu fyrir hádegi á morgun,iot_hue_lightoff,0.8375,0.0073,False
+7980,is-IS,calendar,calendar_set,segðu mér hvenær ég er næst með viðburð,weather_query,0.9982,0.0,False
+7981,is-IS,calendar,calendar_set,sendu áminningu fyrir fundinn,email_sendemail,1.0,0.0,False
+7993,is-IS,calendar,calendar_remove,eyddu öllum viðburðum í dagatalinu mínu,play_music,0.8544,0.0013,False
+8001,is-IS,calendar,calendar_remove,geturðu eydd klippingunni sem ég var með á planinu á föstudag,cooking_recipe,0.2538,0.0648,False
+8004,is-IS,calendar,calendar_set,dóra þarf að tala við mig varðandi skilnaðinn getur þú vinsamlegast búið til fund um leið og ég er laus,qa_factoid,0.3834,0.0054,False
+8005,is-IS,calendar,calendar_set,á mánudaginn tuttugasta þarf ég að tala við georg um ferðina okkar um helgina,email_sendemail,0.9879,0.0003,False
+8013,is-IS,calendar,calendar_query,sýndu mér fund minn í næsta mánuði,email_sendemail,0.5801,0.0044,False
+8029,is-IS,calendar,calendar_query,hvaða viðburðir eru í dag,weather_query,0.8342,0.0019,False
+8033,is-IS,datetime,datetime_query,á hvaða dag falla páskar,qa_factoid,0.958,0.0014,False
+8035,is-IS,calendar,calendar_set,minntu mig á að skipta um olíu,iot_hue_lightoff,0.319,0.0023,False
+8037,is-IS,calendar,calendar_set,minntu mig á eitthvað eftir einhvern tíma,datetime_query,0.6143,0.0078,False
+8042,is-IS,calendar,calendar_query,hversu margir mæta á minn næsta fund,weather_query,0.9232,0.0008,False
+8043,is-IS,calendar,calendar_query,klukkan hvað er næsti tíminn minn,weather_query,0.4877,0.014,False
+8044,is-IS,calendar,calendar_query,hver er dagskráin mín í dag,qa_factoid,0.9894,0.0001,False
+8055,is-IS,calendar,calendar_remove,eyddu tímanum mínum þann sjöunda mars,email_sendemail,0.9561,0.0008,False
+8056,is-IS,calendar,calendar_query,á ég stefnumót á föstudag,iot_hue_lightoff,0.9991,0.0,False
+8058,is-IS,calendar,calendar_query,er sölufundur hjá mér í dag,iot_hue_lightoff,0.4663,0.0063,False
+8073,is-IS,calendar,calendar_set,skipulegðu sölufund á miðvikudaginn klukkan ellefu fyrripartinn,calendar_remove,0.806,0.0099,False
+8079,is-IS,calendar,calendar_set,settu áminningu eftir eina klukkustund fyrir brauðið mitt að bakast,cooking_recipe,0.9736,0.0013,False
+8084,is-IS,calendar,calendar_query,hver er dagskrá viðburðarins,qa_factoid,0.9991,0.0,False
+8085,is-IS,calendar,calendar_set,ég vil setja stefnumót fyrir þessa vikuna,iot_hue_lightoff,0.9782,0.0011,False
+8100,is-IS,email,email_sendemail,senda tölvupóst á tímabókanir mínar og endurskipuleggja,email_sendemail,1.0,1.0,True
+8107,is-IS,calendar,calendar_set,settu upp afmælisviðburð fyrir magnús,iot_hue_lightoff,0.7454,0.0126,False
+8110,is-IS,calendar,calendar_set,vinsamlegast bættu við eftirliti á dagatalið mitt,qa_factoid,0.69,0.004,False
+8116,is-IS,calendar,calendar_query,á tímabilinu fyrsta febrúar og sextánda mars hvaða fundir eru skráðir,datetime_query,0.7454,0.003,False
+8119,is-IS,calendar,calendar_query,hvar er afmælisveisla mæju,qa_factoid,1.0,0.0,False
+8125,is-IS,calendar,calendar_set,búðu til fundarviðburð í dagatalinu mínu,social_post,0.504,0.0005,False
+8126,is-IS,calendar,calendar_set,skráðu fundarviðburð í dagatalið mitt,recommendation_events,0.8898,0.001,False
+8129,is-IS,calendar,calendar_query,hvaða áminningar er ég ennþá með,email_sendemail,0.7226,0.0066,False
+8140,is-IS,calendar,calendar_set,stilltu áminningu þrettánda að ég sé að fara í hádegismat með degi,weather_query,0.6869,0.0013,False
+8148,is-IS,calendar,calendar_query,setti ég einhverjar áminningar fyrir mig,lists_remove,0.711,0.0048,False
+8150,is-IS,calendar,calendar_query,hef ég einhverjar áminningar um afmælisveislur,email_sendemail,0.9944,0.0,False
+8165,is-IS,calendar,calendar_query,hálf eitt e. h. áttu nú þegar fund eftir tíu mínútur,qa_factoid,0.4078,0.0099,False
+8182,is-IS,calendar,calendar_remove,geturðu eytt tannlæknatímanum,iot_hue_lightoff,0.9994,0.0,False
+8188,is-IS,calendar,calendar_query,hvaða dagur er í dag,weather_query,0.6954,0.0002,False
+8204,is-IS,calendar,calendar_set,vinsamlegast minntu mig á að fara á pósthúsið,email_sendemail,0.9939,0.0001,False
+8206,is-IS,calendar,calendar_set,ekki láta mig gleyma að kaupa gjöf fyrir systur mína,qa_factoid,0.9991,0.0,False
+8230,is-IS,calendar,calendar_query,hversu langur verður hádegisverðarfundurinn minn á þriðjudag,weather_query,0.9119,0.0008,False
+8241,is-IS,calendar,calendar_remove,hættu við allt í dagatalinu mínu restina af árinu mínu,calendar_remove,0.7362,0.7362,True
+8245,is-IS,calendar,calendar_set,ég þarf að fá áminningu um messur á sunnudögum ellefu fyrir hádegi,email_sendemail,0.8223,0.0124,False
+8248,is-IS,calendar,calendar_set,bættu morgundags kvöldverð við dagatalið,qa_factoid,0.9951,0.0,False
+8251,is-IS,calendar,calendar_set,ég þarf að setja hádegismatinn í næstu viku á dagatalið,calendar_set,0.4911,0.4911,True
+8260,is-IS,calendar,calendar_set,vinsamlegast láttu mig vita daginn fyrir afmæli jóns,qa_factoid,0.7915,0.0036,False
+8261,is-IS,calendar,calendar_set,senda mér viðvörun klukkutíma fyrir næsta tímann minn,email_sendemail,1.0,0.0,False
+8269,is-IS,calendar,calendar_set,þrjátíu mínútna áminning um fundinn á þriðjudaginn,iot_hue_lightoff,0.4617,0.0149,False
+8276,is-IS,calendar,calendar_remove,eyða næsta skipulagða tímann minn takk,qa_factoid,0.9122,0.0068,False
+8280,is-IS,calendar,calendar_set,ég þarf að setja áminningu fimmtánda mars,email_sendemail,1.0,0.0,False
+8284,is-IS,calendar,calendar_remove,fjarlægðu afmæli úr dagatalinu,qa_factoid,0.994,0.0006,False
+8289,is-IS,calendar,calendar_set,setja áminningu um starfsmannafundinn í dag klukkan fjögur,email_sendemail,0.9988,0.0001,False
+8290,is-IS,calendar,calendar_set,opnaðu áminningu um stjórnarfund í næstu viku á þriðjudag,email_sendemail,0.9602,0.0013,False
+8294,is-IS,calendar,calendar_set,bættu við dagatal og endurtaktu,qa_factoid,1.0,0.0,False
+8300,is-IS,calendar,calendar_set,vista viðburð frá fimm eftir hádegi til sex eftir hádegi átjánda mars,social_post,0.3479,0.0229,False
+8302,is-IS,calendar,calendar_remove,fjarlægja fundinn næsta mánudag,calendar_remove,0.9547,0.9547,True
+8308,is-IS,news,news_query,í hádeginu í gær á austurvelli hvað voru mótmælin um,news_query,0.7629,0.7629,True
+8336,is-IS,calendar,calendar_query,hvenær er brunchinn minn með jóhönnu,cooking_recipe,0.9726,0.0014,False
+8343,is-IS,datetime,datetime_query,er miðvikudagur,weather_query,0.9916,0.0007,False
+8345,is-IS,calendar,calendar_set,láttu mig vita hvenær fundurinn fer fram,weather_query,0.9905,0.0001,False
+8347,is-IS,calendar,calendar_query,hvað er í gangi þann fjórða desember,weather_query,0.9948,0.0002,False
+8358,is-IS,calendar,calendar_set,minntu mig á þetta,qa_factoid,0.9712,0.0001,False
+8366,is-IS,calendar,calendar_set,gerðu átjánda mars að endurteknum tíma fyrir afmæli perlu,cooking_recipe,0.9982,0.0001,False
+8387,is-IS,calendar,calendar_set,búa til áminningu um þvott klukkan átta e. h.,iot_hue_lightoff,0.9645,0.0003,False
+8388,is-IS,calendar,calendar_set,ég vil ganga frá þvotti klukkan átta e. h. gerðu áminningu,weather_query,0.9349,0.0001,False
+8390,is-IS,calendar,calendar_set,minntu mig á fundinn minn á,qa_factoid,0.5107,0.0015,False
+8394,is-IS,calendar,calendar_set,stilltu á áminningu á hverjum degi á hádegi að tala lyf,iot_hue_lightoff,0.7416,0.0059,False
+8404,is-IS,calendar,calendar_query,mig langar að vita meira um þennan viðburð,qa_factoid,0.4605,0.0138,False
+8409,is-IS,calendar,calendar_remove,eyddu kvöldmatnum mínum á morgun,qa_factoid,0.7956,0.0473,False
+8410,is-IS,calendar,calendar_remove,fjarlægðu kvöldmats viðburðinn minn á mánudag,social_post,0.7278,0.0088,False
+8413,is-IS,calendar,calendar_set,vinsamlegast gerðu mér viðvart,qa_factoid,0.6111,0.0012,False
+8414,is-IS,calendar,calendar_set,minntu mig á að fara í kvöldmat með davíð á föstudaginn klukkan fimm e. h.,iot_hue_lightoff,0.4262,0.0148,False
+8415,is-IS,calendar,calendar_set,bættu inn fundi á skrifstofunni með brynjari klukkan þrjú e. h. á þriðjudag,qa_factoid,0.6807,0.0084,False
+8426,is-IS,calendar,calendar_query,segðu mér staðbundna viðburði milli gærdagsins og morgunsins,calendar_remove,0.2508,0.0207,False
+8430,is-IS,calendar,calendar_remove,aflýsa öllum tímabókunum mínum,iot_hue_lightoff,0.9999,0.0,False
+8431,is-IS,calendar,calendar_remove,losa mig við alla skipulagða viðburði,play_radio,0.4027,0.0032,False
+8436,is-IS,calendar,calendar_set,vinsamlegast bættu við hádegisfund klukkan tólf e. h. á hverjum miðvikudegi í mars,cooking_recipe,0.4564,0.0192,False
+8442,is-IS,calendar,calendar_set,vinsamlegast breyttu dagatalinu mínu með þessum viðburði,cooking_recipe,0.4816,0.0126,False
+8449,is-IS,calendar,calendar_set,setja áminningu um afmæli dóttur minnar,email_sendemail,0.9998,0.0,False
+8453,is-IS,calendar,calendar_set,vinsamlegast settu viðburð í dagatalið mitt og merktu sem endurekinn viðburð,email_sendemail,0.5448,0.011,False
+8460,is-IS,calendar,calendar_query,sýna mér viðburðina mína,play_radio,0.728,0.0021,False
+8461,is-IS,calendar,calendar_query,hvaða plön er ég með í maí mánuði,play_music,0.9844,0.0004,False
+8466,is-IS,calendar,calendar_set,ég á fund níu fyrir hádegi á miðvikudaginn sendu mér áminningu,email_sendemail,1.0,0.0,False
+8469,is-IS,calendar,calendar_query,hvað er skipulagt á dagatalinu mínu í dag,lists_remove,0.3443,0.0182,False
+8474,is-IS,calendar,calendar_set,bæta afmælis partý jónu á morgun tvö e. h. á eitt hundrað og tuttugu og þrjú aðal á dagatalið mitt,lists_remove,0.3078,0.0237,False
+8494,is-IS,calendar,calendar_query,hvernig lýtur dagskráin mín út í dag,qa_factoid,0.9565,0.0001,False
+8496,is-IS,calendar,calendar_query,segðu fundina mína á morgun um morguninn,iot_hue_lightoff,0.1641,0.0122,False
+8498,is-IS,calendar,calendar_query,förum í gegnum allar áminningar á bið,recommendation_events,0.4269,0.0037,False
+8516,is-IS,calendar,calendar_remove,eyða hlut úr dagatali,lists_remove,0.3677,0.0253,False
+8520,is-IS,calendar,calendar_set,bættu viðburð við dagatalsforritið,qa_factoid,0.8516,0.0013,False
+8525,is-IS,calendar,calendar_query,funda áminningar frá þrjú til fimm,email_sendemail,0.9996,0.0,False
+8535,is-IS,calendar,calendar_set,minna mig á tannlæknatímann sem ég á eftir tvo tíma,social_post,0.316,0.0156,False
+8539,is-IS,calendar,calendar_set,minntu mig á,qa_factoid,0.9647,0.0,False
+8541,is-IS,calendar,calendar_set,vinsamlegast minntu mig á,qa_factoid,0.9933,0.0,False
+8553,is-IS,calendar,calendar_set,bæta við fund á dagatalið mitt klukkan níu um morguninn með tomma,qa_factoid,0.8252,0.0069,False
+8559,is-IS,calendar,calendar_query,er ég með eitthvað skipulagt í dag,lists_remove,0.3069,0.019,False
+8562,is-IS,calendar,calendar_remove,eyddu fundinum mínum fyrir klukkan tvö eftir hádegi í dag,cooking_recipe,0.8686,0.0026,False
+8568,is-IS,calendar,calendar_set,geturðu sent dagatalsboð til jóhanns og öldu fyrir brunch klukkan ellefu um morguninn á þriðjudag,email_sendemail,1.0,0.0,False
+8570,is-IS,calendar,calendar_set,viltu skrá að ég er upptekinn á viðburði á morgun klukkan tvö e. h.,weather_query,0.9936,0.0002,False
+8579,is-IS,calendar,calendar_query,hvaða upplýsingar þarf ég að vita fyrir fundina mína í dag,news_query,0.5046,0.0045,False
+8585,is-IS,calendar,calendar_set,minntu mig á að ég er að fara í afmælis partý þrítugasta,cooking_recipe,0.2649,0.0391,False
+8598,is-IS,calendar,calendar_set,minntu mig á að sækja magga á flugvöllinn klukkan sex e. h.,cooking_recipe,0.5279,0.0009,False
+8618,is-IS,calendar,calendar_set,minntu mig á að vökva plönturnar mínar á hverjum þriðjudegi og sunnudegi,cooking_recipe,0.9984,0.0001,False
+8631,is-IS,calendar,calendar_remove,eyddu þessu úr dagatalinu mínu,qa_factoid,0.8312,0.0706,False
+8635,is-IS,calendar,calendar_set,geturðu minnt mig á að panta kalkúninn þrjár vikur fyrir þakkagjörðina,cooking_recipe,0.993,0.0002,False
+8640,is-IS,calendar,calendar_set,mig langar að skrifa minnispunkt í dagatalið fyrir viðburðinn á morgun á bókasafninu,lists_remove,0.296,0.0162,False
+8642,is-IS,calendar,calendar_set,bæta við símafund klukkan fjögur e. h. í áminningarnar mínar í dag,iot_hue_lightoff,0.2532,0.034,False
+8651,is-IS,calendar,calendar_set,minntu mig á viðburðinn í dagatalinu mínu,qa_factoid,0.5474,0.0061,False
+8653,is-IS,calendar,calendar_set,minntu mig á viðburðin í dagatalinu mínu,qa_factoid,0.6601,0.0069,False
+8666,is-IS,calendar,calendar_remove,eyddu öllum viðburðum í dagatalinu mínu,play_music,0.8544,0.0013,False
+8667,is-IS,calendar,calendar_query,hversu marga fundi hef ég haft með ríkharði síðustu þrjá mánuði,social_post,0.9847,0.0002,False
+8670,is-IS,calendar,calendar_remove,fjarlægja viðburði úr dagatali,iot_hue_lightoff,0.3912,0.0077,False
+8672,is-IS,calendar,calendar_query,hvar eru stuðmannatónleikarnir,play_music,0.2298,0.021,False
+8674,is-IS,calendar,calendar_query,hvar er fundurinn minn sem er klukkan níu f. h.,iot_hue_lightoff,0.394,0.0145,False
+8679,is-IS,calendar,calendar_query,er dagur heilaga patreks í dag,social_post,1.0,0.0,False
+8681,is-IS,calendar,calendar_query,á einhver afmæli,email_sendemail,0.8537,0.0046,False
+8694,is-IS,calendar,calendar_set,viðburðurinn mun innihalda viðar og gillu,play_music,0.8567,0.0017,False
+8730,is-IS,calendar,calendar_set,vinsamlegast settu áminningu í dagatalið mitt fyrir fundinn minn þann tuttugasta og fyrsta mars,iot_hue_lightoff,0.9582,0.0067,False
+8732,is-IS,calendar,calendar_remove,eyddu öllum stefnumótum,social_post,0.9636,0.0014,False
+8762,is-IS,calendar,calendar_query,segðu mér dagskrána mína fyrir seinni partinn í dag,calendar_remove,0.9497,0.0051,False
+8765,is-IS,calendar,calendar_set,settu kvöldmatinn minn á sjávarhúsinu á dagatalið klukkan níu í dag,qa_factoid,0.8823,0.0104,False
+8766,is-IS,calendar,calendar_query,er ég með bókaðan fund á laugardaginn tuttugasta og fimmta mars,calendar_remove,0.3906,0.013,False
+8767,is-IS,calendar,calendar_query,er afmælið hennar jóhönnu tólfta apríl,email_sendemail,0.997,0.0001,False
+8769,is-IS,calendar,calendar_remove,eyddu viðburð á döfinni,qa_factoid,0.964,0.0004,False
+8771,is-IS,calendar,calendar_remove,eyddu verslunarferðinni sem ég skipulagði tuttugasta og þriðja mars,calendar_remove,0.1167,0.1167,True
+8774,is-IS,calendar,calendar_query,er dagskráin mín fyrir sjöunda júlí algjörlega opin,qa_factoid,0.9966,0.0001,False
+8781,is-IS,calendar,calendar_query,er ég laus klukkan fjögur e. h.,weather_query,0.4611,0.004,False
+8782,is-IS,calendar,calendar_query,er ég að fara á fund seinni partinn,social_post,0.6186,0.0041,False
+8791,is-IS,calendar,calendar_query,meiri upplýsingar um þennan viðburð,iot_hue_lightoff,0.3255,0.0209,False
+8795,is-IS,calendar,calendar_query,sýndu áminningar í bið,email_sendemail,1.0,0.0,False
+8822,is-IS,recommendation,recommendation_events,upplýsingar um komandi viðburði,email_sendemail,0.8116,0.0072,False
+8824,is-IS,calendar,calendar_query,hvað er ég með planlagt þann nítjánda klukkan tvö eftir hádegi,cooking_recipe,0.2437,0.0545,False
+8825,is-IS,calendar,calendar_set,sendu mér áminningu um fundinn með tómasi næsta föstudag,email_sendemail,0.497,0.007,False
+8828,is-IS,calendar,calendar_query,er dagatals viðburður sannur,qa_factoid,1.0,0.0,False
+8846,is-IS,calendar,calendar_query,er ég með einhver plön fyrir fjórða júlí á þessu ári,cooking_recipe,0.7606,0.0031,False
+8853,is-IS,calendar,calendar_remove,eyddu næsta verkefni,qa_factoid,0.9988,0.0,False
+8856,is-IS,calendar,calendar_remove,eyða öllum viðburðum í dagatalinu,play_music,0.9419,0.0003,False
+8857,is-IS,calendar,calendar_set,minntu mig á komandi fund með einari,qa_factoid,0.9953,0.0001,False
+8868,is-IS,calendar,calendar_set,minntu mig á að hringja í mömmu á hverjum þriðjudegi klukkan tíu um morguninn,iot_hue_lightoff,0.0944,0.0426,False
+8880,is-IS,calendar,calendar_set,stilltu áminningu um fundinn klukkan níu f. h. á morgun,email_sendemail,0.9973,0.0,False
+8888,is-IS,calendar,calendar_remove,eyddu því,qa_factoid,1.0,0.0,False
+8900,is-IS,calendar,calendar_set,settu endurtekna áminningu á hverjum sunnudegi,email_sendemail,1.0,0.0,False
+8904,is-IS,calendar,calendar_query,upplýsingar um nýlega atburði,news_query,0.9965,0.0001,False
+8906,is-IS,calendar,calendar_set,skráðu dagsetingu viðburðsins í dagatalið með öðrum,calendar_set,0.9415,0.9415,True
+8907,is-IS,calendar,calendar_set,nefna viðburð í dagatali með öðrum,social_post,0.531,0.0052,False
+8912,is-IS,calendar,calendar_query,gefðu mér viðburði dagsins eftir klukkan sex seinnipartinn,weather_query,0.9641,0.001,False
+8914,is-IS,calendar,calendar_query,klukkan hvað er tíminn minn þann fjórða apríl,datetime_query,0.8162,0.0014,False
+8916,is-IS,calendar,calendar_query,hvernig er dagksráin mín fyrir daginn í dag,weather_query,0.9891,0.0001,False
+8925,is-IS,calendar,calendar_remove,eyddu öllum viðburðum af dagatalinu mínu,play_music,0.4076,0.0118,False
+8939,is-IS,calendar,calendar_set,bumbuboð dóttur jónu,social_post,0.9602,0.0006,False
+8948,is-IS,calendar,calendar_set,bættu við viðburð fyrir fund með jóhanni,qa_factoid,0.9384,0.0002,False
+8949,is-IS,calendar,calendar_remove,vinsamlegast fjarlægðu afganginn,qa_factoid,0.9957,0.0005,False
+8958,is-IS,calendar,calendar_query,opna fundar tíma,qa_definition,0.5662,0.0012,False
+8960,is-IS,calendar,calendar_set,ég vil að þú búir til viðvörun í kvöld um komandi fund,iot_hue_lightoff,0.7333,0.0058,False
+8967,is-IS,calendar,calendar_set,minntu mig á tveim dögum fyrir afmæli konunnar,qa_factoid,0.9459,0.0006,False
+8968,is-IS,calendar,calendar_set,segðu mér eitthvað til að minna á þessa vikuna,cooking_recipe,0.8101,0.0069,False
+8975,is-IS,calendar,calendar_query,hvaða fundir eru skipulagðir í dag,iot_hue_lightoff,0.5029,0.0112,False
+8977,is-IS,calendar,calendar_set,settu áminningar um ógreidda reikninga,cooking_recipe,0.93,0.0005,False
+8978,is-IS,calendar,calendar_set,láttu mig bara vita um mikilvægu fundina með yfirmanninum í vikunni,email_sendemail,0.4658,0.0073,False
+8985,is-IS,calendar,calendar_remove,ok google eyddu afmæli egils úr dagatalinu,social_post,0.7159,0.0002,False
+8990,is-IS,calendar,calendar_set,búa til viðburð,cooking_recipe,0.9181,0.002,False
+8992,is-IS,calendar,calendar_set,sýna fundi,email_sendemail,0.2837,0.0137,False
+9009,is-IS,calendar,calendar_remove,fjarlægja sambandsafmælis viðburð af dagatalinu mínu,transport_query,0.3672,0.016,False
+9011,is-IS,calendar,calendar_query,er þakkargjörðar viðburðurinn þann fjórtánda í þessum mánuði,qa_factoid,0.3162,0.023,False
+9014,is-IS,calendar,calendar_set,búðu til tilkynningu þann tuttugasta og þriðja október um fundinn með vinnufélaga mínum,social_post,0.9147,0.0048,False
+9015,is-IS,calendar,calendar_remove,hreinsaðu alla viðburði úr dagatalinu mínu,lists_remove,0.4435,0.2079,False
+9019,is-IS,calendar,calendar_query,fundir frá tuttugasta til tuttugasta og fimmta júní,lists_query,0.2689,0.0212,False
+9030,is-IS,calendar,calendar_remove,fjarlægja frá dagatalinu mínu læknis heimsóknina í dag,calendar_remove,0.4725,0.4725,True
+9035,is-IS,calendar,calendar_query,ragnar brúðkaup áminning,email_sendemail,1.0,0.0,False
+9043,is-IS,calendar,calendar_set,næstu viðburðir í dagatali,cooking_recipe,0.5426,0.0217,False
+9053,is-IS,calendar,calendar_set,settu fundar áminningu með mónu á þriðjudag,email_sendemail,1.0,0.0,False
+9054,is-IS,calendar,calendar_set,viðburður áminning móna þriðjudag,news_query,0.2386,0.0268,False
+9059,is-IS,calendar,calendar_set,láttu mig vita þegar viðburðurinn á sér stað,qa_factoid,0.3701,0.0082,False
+9061,is-IS,calendar,calendar_query,hvaða upplýsingar er ég með varðandi áminningar,news_query,0.2279,0.0186,False
+9062,is-IS,calendar,calendar_set,geturðu sett inn afmæli lárusar tuttugasta og annan júní,news_query,0.3166,0.0463,False
+9074,is-IS,calendar,calendar_remove,vinsamlegast fjarlægðu þennan viðburð,qa_factoid,0.9802,0.0034,False
+9088,is-IS,calendar,calendar_remove,hreinsa allt af dagatalinu mínu,qa_factoid,0.973,0.0006,False
+9095,is-IS,calendar,calendar_remove,fjarlægðu kvöldmatinn í kvöld með stellu,calendar_remove,0.374,0.374,True
+9103,is-IS,calendar,calendar_query,er fundur á dagatalinu mínu seinni partinn í dag,lists_remove,0.3511,0.0239,False
+9107,is-IS,calendar,calendar_query,klukkan hvað byrja jón jónsson tónleikarnir þriðja júní,play_music,0.9954,0.0001,False
+9110,is-IS,calendar,calendar_set,sýning tvö þúsund og sautján messa þann tuttugasta og fimmta mars búa til athugasemd um það á samsvarandi dagsetningu,play_podcasts,0.5998,0.0118,False
+9112,is-IS,calendar,calendar_set,bættu þessu við dagatalið mitt,qa_factoid,0.9989,0.0,False
+9114,is-IS,calendar,calendar_set,búa til endurtekna áminningu fyrir þennan dagatals viðburð,cooking_recipe,0.3287,0.1517,False
+9116,is-IS,calendar,calendar_query,getur þú endur skipulagt fundinn minn,email_query,0.6685,0.0074,False
+9121,is-IS,calendar,calendar_query,hvaða daga er ég bókuð,qa_factoid,0.297,0.0219,False
+9124,is-IS,calendar,calendar_set,sýndu mér viðburðina í vinnu dagatalinu mínu í næstu viku,iot_hue_lightoff,0.442,0.0149,False
+9137,is-IS,calendar,calendar_query,hvenær er ítalska kaffihúsið lokað á milli hádegis og kvöldmatar,cooking_recipe,0.948,0.001,False
+9138,is-IS,qa,qa_factoid,hvenær byrja ólympíuleikarnir,weather_query,0.9902,0.0002,False
+9149,is-IS,calendar,calendar_query,klukkan hvað á smóking gala kvöldmaturinn að byrja,cooking_recipe,0.9954,0.0006,False
+9153,is-IS,calendar,calendar_set,vinsamlegast bættu við kvöldmat með mæju á dagatalið mitt fyrir laugardag,iot_hue_lightoff,0.9637,0.0006,False
+9155,is-IS,calendar,calendar_set,á föstudag vinsamlegast settu tannlækna tíma klukkan þrjú,weather_query,0.5624,0.0026,False
+9156,is-IS,calendar,calendar_set,minntu mig á,qa_factoid,0.9647,0.0,False
+9175,is-IS,calendar,calendar_query,hefur dagatalið mitt verið uppfært síðastliðnu tíu mínútur,datetime_query,0.9504,0.0005,False
+9182,is-IS,calendar,calendar_remove,hætta við plönin mín að sækja foreldra mína á flugvöllinn,qa_factoid,0.4187,0.0105,False
+9187,is-IS,calendar,calendar_set,rannsaka viðskiptavini sem munu mæta á fundinn,qa_factoid,0.6953,0.0059,False
+9193,is-IS,calendar,calendar_set,vinsamlegast settu þessa dagsetningu á endurtekningu,qa_factoid,0.9987,0.0006,False
+9194,is-IS,calendar,calendar_remove,vinsamlegast fjarlægðu þennan viðburð úr dagatalinu mínu,qa_factoid,0.841,0.06,False
+9197,is-IS,calendar,calendar_query,hvað er ég með planað í vikunni,cooking_recipe,0.4236,0.0231,False
+9198,is-IS,calendar,calendar_query,athugaðu áminningarnar mínar,email_sendemail,0.9159,0.0009,False
+9202,is-IS,play,play_radio,spilaðu mína útvarpsstöð,play_music,0.5849,0.3844,False
+9204,is-IS,play,play_radio,byrja r. ú. v. útvarp,qa_factoid,0.9943,0.0002,False
+9212,is-IS,play,play_radio,spilaðu eitthvað úr útvarpinu,play_music,0.9627,0.0002,False
+9216,is-IS,play,play_radio,spila stöðina mína,play_music,0.999,0.0007,False
+9225,is-IS,play,play_radio,geturðu kveikt á útvarpinu,qa_factoid,0.9223,0.0,False
+9233,is-IS,play,play_radio,opnaðu pandora,qa_factoid,0.9973,0.0003,False
+9236,is-IS,play,play_radio,farðu á stöð eitt hundrað og sex komma níu,play_radio,0.3824,0.3824,True
+9237,is-IS,play,play_radio,kveikja á útvarpinu og spila stöð eitt hundrað og sex punktur níu,play_music,0.6634,0.2657,False
+9250,is-IS,play,play_radio,ég vil hlusta á útvarp,iot_hue_lightoff,1.0,0.0,False
+9254,is-IS,play,play_radio,vinsamlegast settu á níu hundruð þrjátíu og átta f. m. útvarp saga,qa_factoid,0.2226,0.0405,False
+9263,is-IS,play,play_radio,opna radio appið,play_radio,0.9999,0.9999,True
+9269,is-IS,play,play_radio,stilla á átta hundruð níutíu og sjö f. m.,qa_factoid,0.619,0.0095,False
+9270,is-IS,play,play_radio,spilaðu bara níu hundruð þrjátíu og sjö f. m.,play_music,0.9963,0.0002,False
+9275,is-IS,play,play_radio,ég vil bara heyra níu hundruð níutíu og níu f. m. í útvarpinu,social_post,0.9999,0.0,False
+9284,is-IS,play,play_radio,spila f. m.,play_radio,0.6551,0.6551,True
+9291,is-IS,play,play_radio,settu á,calendar_set,0.8262,0.0008,False
+9301,is-IS,play,play_radio,spila gullvagninn,play_music,0.794,0.1908,False
+9303,is-IS,play,play_radio,spila gullbylgjuna,iot_hue_lightoff,0.9976,0.0,False
+9305,is-IS,play,play_radio,stilla á klassíska smelli,cooking_recipe,0.9992,0.0,False
+9316,is-IS,play,play_radio,spila k hundrað fyrir mig,qa_factoid,0.9632,0.0219,False
+9317,is-IS,play,play_radio,startaðu útvarpinu núna,qa_factoid,0.286,0.2388,False
+9321,is-IS,play,play_radio,láta útvarpið kveikja á sér núna,iot_hue_lightoff,0.9348,0.0048,False
+9323,is-IS,play,play_radio,ræsa pandora,qa_factoid,0.9959,0.0,False
+9326,is-IS,play,play_radio,vinsamlegast spila útvarp rás eitt núna,qa_factoid,0.7376,0.0028,False
+9327,is-IS,play,play_radio,vinsamlegast skannaðu a. m. tíðnina í útvarpinu akkúrat núna,social_post,0.3276,0.0169,False
+9330,is-IS,play,play_radio,spila,play_radio,0.5466,0.5466,True
+9341,is-IS,play,play_radio,alexa skipta um útvarpsstöð,social_post,0.9903,0.0001,False
+9352,is-IS,play,play_radio,vinsamlegast spila útvarpið,play_music,0.9529,0.0053,False
+9353,is-IS,play,play_radio,hefja einhverja tónlist spila útvarpið,play_music,0.9765,0.0009,False
+9358,is-IS,play,play_radio,byrja útvarpsstöð átta hundruð áttatíu og níu,transport_query,0.6397,0.0047,False
+9361,is-IS,play,play_radio,hlusta á útvarp,iot_hue_lightoff,0.9281,0.0,False
+9362,is-IS,play,play_radio,útvarps stöðvar,qa_factoid,0.9984,0.0,False
+9363,is-IS,play,play_radio,spila smelli í útvarpinu,play_music,0.9991,0.0007,False
+9364,is-IS,play,play_radio,spila tónlistar smelli,qa_factoid,0.9262,0.0009,False
+9380,is-IS,play,play_radio,ég vil að þú farir á f. m. níu fimm sjö í útvarpinu,weather_query,0.67,0.0115,False
+9384,is-IS,play,play_radio,spila rúv útvarp,play_music,0.9709,0.013,False
+9394,is-IS,play,play_radio,hey olly spila útvarpið,play_music,0.9998,0.0001,False
+9402,is-IS,play,play_radio,spila níu hundruð áttatíu og níu útvarpsstöðina,play_music,0.9105,0.0771,False
+9406,is-IS,play,play_radio,byrja f. m. níu fimm sjö útvarpsstöðina,qa_factoid,0.1929,0.0533,False
+9408,is-IS,play,play_radio,byrja útvarp,qa_factoid,0.896,0.0126,False
+9426,is-IS,play,play_radio,ég vill heyra stöð sem spilar r. og b.,play_music,0.8625,0.0009,False
+9438,is-IS,play,play_radio,geturðu spilað fyrir mig rapp lag í útvarpinu,play_music,0.9999,0.0,False
+9457,is-IS,play,play_music,spila lagið þetta er nóg,play_music,0.9969,0.9969,True
+9460,is-IS,play,play_music,spila hipp hopp frá níunda áratugnum,play_music,0.963,0.963,True
+9471,is-IS,play,play_radio,kveikja á kántrý tónlistarstöð,play_music,0.9983,0.0003,False
+9494,is-IS,play,play_radio,geturðu vinsamlegast spilað f. m. stöðina sem spilar popp lög,qa_factoid,0.8285,0.0009,False
+9506,is-IS,play,play_radio,olly hlustum á k hundrað,qa_factoid,0.9953,0.0001,False
+9507,is-IS,play,play_radio,vinsamlegast finndu útvarpsstöðina er núna að spila sigga hlö,qa_factoid,0.2756,0.1054,False
+9519,is-IS,play,play_radio,spila hvaða popp f. m. stöð sem er,play_podcasts,0.9985,0.0,False
+9520,is-IS,play,play_radio,spila síðasta doctor who útvarps útsendinguna,play_music,0.5656,0.1735,False
+9524,is-IS,play,play_radio,kveikja á þátt á bylgjunni,iot_hue_lightoff,0.9967,0.0,False
+9528,is-IS,play,play_radio,kveikja á rás tvö og spila úr hátölurunum mínum,play_music,0.9977,0.0019,False
+9541,is-IS,play,play_radio,spila sódóma lagið í útvarpinu,play_music,0.9995,0.0002,False
+9542,is-IS,play,play_radio,leyfðu mér að heyra nýjustu fréttaþætti í útvarpinu,play_podcasts,0.9998,0.0,False
+9545,is-IS,play,play_radio,mig langar að hlutsa á sigga hlö þáttinn,iot_hue_lightoff,0.9736,0.0019,False
+9554,is-IS,play,play_radio,spilaðu rómantíska tónlist á f. m. níu fimm sjö,play_music,1.0,0.0,False
+9561,is-IS,play,play_radio,spila útvarp sögu í útvarpinu,play_podcasts,0.4043,0.0826,False
+9562,is-IS,play,play_radio,gætir þú spilað þennan þátt fyrir mig,qa_factoid,0.5819,0.0353,False
+9565,is-IS,play,play_radio,spila útvarp með stanslausum lögum,play_music,0.9903,0.0002,False
+9568,is-IS,play,play_radio,spila írafár í beinni seríurnar,play_music,0.9944,0.0029,False
+9569,is-IS,play,play_radio,ok google spilaðu eitt hundrað og sex punktur sjö,recommendation_events,0.9269,0.0014,False
+9577,is-IS,play,play_radio,skipta um stöð á áttatíu og tvö punktur fjögur,weather_query,0.5807,0.0192,False
+9591,is-IS,play,play_radio,spila þáttinn á níutíu og einn punktur þrír f. m.,play_music,0.5893,0.4073,False
+9592,is-IS,play,play_podcasts,leita að hlaðvörpum sem ná yfir vandamál karlmanna,play_podcasts,0.8739,0.8739,True
+9594,is-IS,play,play_radio,f. m. níu fimm sjö lög,social_post,0.9573,0.001,False
+9601,is-IS,play,play_radio,spila kántrý útvarp,qa_factoid,0.7907,0.0016,False
+9617,is-IS,play,play_radio,spila fyrir mig morgunþáttinn á eitt hundrað og einn punktur níu,play_music,0.9624,0.035,False
+9619,is-IS,play,play_radio,spila síðdegisþáttinn í bílaútvarpinu,play_music,0.9982,0.0012,False
+9620,is-IS,play,play_radio,get ég fengið að heyra í síðdegisþáttinum í útvarpinu inn í svefnherberginu,play_music,0.5075,0.0095,False
+9629,is-IS,play,play_radio,geturðu vinsamlegast hjálpað mér að hlusta í útvarpinu,play_radio,0.9214,0.9214,True
+9630,is-IS,play,play_radio,spila rás eitt fyrir mig,play_music,0.8047,0.1545,False
+9632,is-IS,play,play_radio,útvarp takk,qa_factoid,0.872,0.0004,False
+9637,is-IS,play,play_radio,byrja lagalistann minn á útvarp lindinni,play_music,0.9356,0.0591,False
+9640,is-IS,play,play_radio,opna spotify og opna æfingu,play_music,0.7793,0.0,False
+9651,is-IS,play,play_radio,spila netflix á play station fjögur tölvunni minni,play_podcasts,0.8456,0.0036,False
+9656,is-IS,play,play_music,spilaðu fyrir mig hressandi lag í gegnum hátalarana þína,play_music,0.9783,0.9783,True
+9706,is-IS,play,play_music,spila snjókorn falla,play_music,0.7225,0.7225,True
+9707,is-IS,play,play_music,opna miðla og spila snjókorn falla,cooking_recipe,0.9658,0.0105,False
+9738,is-IS,play,play_music,getur þú vinsamlegast spilað klassíska tónlist fyrir mig,play_music,0.9911,0.9911,True
+9793,is-IS,play,play_music,spilaðu rómantísku lögin,play_music,0.9991,0.9991,True
+9795,is-IS,play,play_music,haltu áfram með geislavirkir,cooking_recipe,0.9868,0.0064,False
+9912,is-IS,cooking,cooking_recipe,olly hve lengi á ég að sjóða eggin,cooking_recipe,0.9991,0.9991,True
+9918,is-IS,cooking,cooking_recipe,hvernig geri ég pítsu,qa_factoid,0.8806,0.0198,False
+9923,is-IS,cooking,cooking_recipe,hve lengi á að sjóða egg,cooking_recipe,0.9967,0.9967,True
+9924,is-IS,cooking,cooking_recipe,segðu mér uppskriftina að,cooking_recipe,1.0,1.0,True
+9930,is-IS,cooking,cooking_recipe,hversu lengi á ég að sjóða eggið,cooking_recipe,0.9988,0.9988,True
+9931,is-IS,cooking,cooking_recipe,olly hversu lengi á ég að sjóða eggið,cooking_recipe,0.9988,0.9988,True
+9940,is-IS,cooking,cooking_recipe,finndu uppskrift að súkkulaðiköku,cooking_recipe,1.0,1.0,True
+9941,is-IS,cooking,cooking_recipe,hvernig elda ég smjör kjúkling,cooking_recipe,0.7276,0.7276,True
+9942,is-IS,cooking,cooking_recipe,hvað fer í rauða flauelsköku,cooking_recipe,0.2413,0.2413,True
+9943,is-IS,cooking,cooking_recipe,hve langan tíma tekur það að gera grænmetis lasagna,cooking_recipe,1.0,1.0,True
+9952,is-IS,cooking,cooking_recipe,gefðu mér matreiðslu kennslu,cooking_recipe,0.8773,0.8773,True
+9955,is-IS,cooking,cooking_recipe,sýnu mér myndband um að elda steiktan kjúkling,cooking_recipe,0.9999,0.9999,True
+9956,is-IS,cooking,cooking_recipe,hvað getur komið í staðinn fyrir smjör,cooking_recipe,0.9906,0.9906,True
+9961,is-IS,cooking,cooking_recipe,hvert er besta hitastigið til að ofnsteikja kartöflur,cooking_recipe,0.6418,0.6418,True
+9962,is-IS,cooking,cooking_recipe,hver er besta leiðin til þess að elda pasta að hætti svönu,cooking_recipe,1.0,1.0,True
+9964,is-IS,cooking,cooking_recipe,kunnátta varðandi meðhöndlun á mat,qa_factoid,0.9924,0.0031,False
+9966,is-IS,cooking,cooking_recipe,hver er auðveldasta leiðin til að elda pasta,cooking_recipe,1.0,1.0,True
+9969,is-IS,cooking,cooking_recipe,hvaða hráefni er hægt að nota í staðinn fyrir saffron,iot_hue_lightoff,0.9181,0.0231,False
+9971,is-IS,cooking,cooking_recipe,hvort leiðir betur hita pottar með kopar botni eða járn,cooking_recipe,0.9965,0.9965,True
+9976,is-IS,cooking,cooking_recipe,heyrðu vélmenni gefðu mér lista af hráefnum í pylsurétt,recommendation_events,0.8301,0.0688,False
+9977,is-IS,cooking,cooking_recipe,vinsamlegast gerðu netleit og birtu viðeigandi youtube myndbönd til að elda ítalskan mat,social_post,0.9731,0.0263,False
+9979,is-IS,cooking,cooking_recipe,eldaðu fyrir mig hafra,play_music,0.3123,0.021,False
+9980,is-IS,cooking,cooking_recipe,hvað er á matseðlinum í dag bættu við soðnu grænmeti,cooking_recipe,0.9694,0.9694,True
+9986,is-IS,cooking,cooking_recipe,suða,qa_factoid,0.9993,0.0,False
+9994,is-IS,cooking,cooking_recipe,geturðu sagt mér uppskriftina að pav bhaji,cooking_recipe,1.0,1.0,True
+10016,is-IS,cooking,cooking_recipe,eldunarleiðbeiningar fyrir þakkargjörðar kalkún í fimm setningum,lists_query,0.238,0.1783,False
+10019,is-IS,cooking,cooking_recipe,vinsamlegast segðu mér hvernig ég baka tólf hafraklatta,cooking_recipe,1.0,1.0,True
+10023,is-IS,cooking,cooking_recipe,hvað þarf ég í lamba pathia,cooking_recipe,1.0,1.0,True
+10027,is-IS,cooking,cooking_recipe,leiðbeiningar um hvernig á að elda rétt,cooking_recipe,0.9983,0.9983,True
+10031,is-IS,cooking,cooking_recipe,ég þarf uppskrift sem er búin til með hráefnum á innkaupa listanum mínum,cooking_recipe,1.0,1.0,True
+10038,is-IS,cooking,cooking_recipe,mig vantar góðar hugmyndir til að elda,cooking_recipe,0.9723,0.9723,True
+10045,is-IS,cooking,cooking_recipe,geturðu gefið mér uppskrift að heimalagaðri kjúklinga núðlusúpu,cooking_recipe,1.0,1.0,True
+10048,is-IS,cooking,cooking_recipe,hvernig elda ég kalkún,weather_query,0.998,0.0002,False
+10049,is-IS,cooking,cooking_recipe,segðu mér hvernig á að gera poor boy samloku,cooking_recipe,0.9906,0.9906,True
+10053,is-IS,cooking,cooking_recipe,hvernig bý ég til pítsu,qa_factoid,0.9962,0.0002,False
+10055,is-IS,cooking,cooking_recipe,hver er uppskriftin að steiktum kjúkling,cooking_recipe,1.0,1.0,True
+10061,is-IS,cooking,cooking_recipe,hvað á ég að elda í kvöldmat,cooking_recipe,0.9988,0.9988,True
+10072,is-IS,cooking,cooking_recipe,bökunartími fyrir kjúkling í ofni,iot_hue_lightoff,0.3322,0.0228,False
+10076,is-IS,cooking,cooking_recipe,er hægt að skipta út matarsóda fyrir lyftiduft,iot_hue_lightoff,0.9957,0.0011,False
+10077,is-IS,cooking,cooking_recipe,finndu uppskrift að kvöldmat í kvöld,cooking_recipe,0.9999,0.9999,True
+10078,is-IS,cooking,cooking_recipe,hvað ætti ég að elda í kvöldmat,cooking_recipe,0.999,0.999,True
+10080,is-IS,cooking,cooking_recipe,við skulum elda kjötbollur saman,cooking_recipe,0.9998,0.9998,True
+10081,is-IS,cooking,cooking_recipe,segðu mér hvernig á að elda kjötbollur,cooking_recipe,1.0,1.0,True
+10090,is-IS,cooking,cooking_recipe,get ég fengið uppskrift að túnfiski,cooking_recipe,0.9997,0.9997,True
+10093,is-IS,cooking,cooking_recipe,hvernig er lasagne búið til,cooking_recipe,0.9003,0.9003,True
+10097,is-IS,cooking,cooking_recipe,mig langar í ostborgara,social_post,0.9913,0.0001,False
+10099,is-IS,cooking,cooking_recipe,veistu hvernig á að elda risotto,cooking_recipe,1.0,1.0,True
+10100,is-IS,cooking,cooking_recipe,veistu um uppskrift að hrísgrjónagraut,cooking_recipe,1.0,1.0,True
+10105,is-IS,cooking,cooking_recipe,hvernig elda ég steik svo hún verði medium rare,cooking_recipe,0.9993,0.9993,True
+10107,is-IS,cooking,cooking_recipe,mig vantar uppskrift að veg pulav,cooking_recipe,0.9975,0.9975,True
+10119,is-IS,cooking,cooking_recipe,hve lengi á að elda sjö kílóa kalkún,cooking_recipe,0.9987,0.9987,True
+10125,is-IS,cooking,cooking_recipe,hver er munurinn á að steikja og sjóða,cooking_recipe,0.9928,0.9928,True
+10132,is-IS,cooking,cooking_recipe,hversu lengi ætti ég að elda steik til að fá hana medium,cooking_recipe,0.9994,0.9994,True
+10150,is-IS,cooking,cooking_recipe,hvernig á að gera tacó,cooking_recipe,0.9999,0.9999,True
+10156,is-IS,cooking,cooking_recipe,ég þarf að vita hvernig á að búa til fyllta papriku,cooking_recipe,0.9999,0.9999,True
+10164,is-IS,cooking,cooking_recipe,hversu lengi á að elda makkarónur,qa_factoid,0.9385,0.0559,False
+10166,is-IS,cooking,cooking_recipe,leitaðu að uppskriftum að eplaböku,cooking_recipe,0.9986,0.9986,True
+10171,is-IS,cooking,cooking_recipe,hver er uppskriftin að fiskisúpu,cooking_recipe,1.0,1.0,True
+10177,is-IS,cooking,cooking_recipe,hvernig á að elda skvass spaghettí,cooking_recipe,0.9999,0.9999,True
+10182,is-IS,cooking,cooking_recipe,hve mörg egg þarf í ommilettu,cooking_recipe,0.9994,0.9994,True
+10197,is-IS,cooking,cooking_recipe,sýndu mér bestu uppskriftina að spaghetti,cooking_recipe,1.0,1.0,True
+10206,is-IS,cooking,cooking_recipe,hvernig á elda hrísgrjón,weather_query,0.9992,0.0,False
+10213,is-IS,cooking,cooking_recipe,listi yfir frægar biryani uppskriftir,lists_query,0.9512,0.0026,False
+10214,is-IS,cooking,cooking_recipe,uppskriftir sem hægt er að elda á klukkutíma,cooking_recipe,0.7213,0.7213,True
+10216,is-IS,cooking,cooking_recipe,leitaðu á netinu að hvar er hægt að kaupa hluti til að baka muffins,cooking_recipe,1.0,1.0,True
+10217,is-IS,cooking,cooking_recipe,finndu uppskrift að pylsurétt í eldumrétt appinu,cooking_recipe,1.0,1.0,True
+10220,is-IS,cooking,cooking_recipe,hvaða hráefni þarf ég til að baka stóra köku,cooking_recipe,0.9999,0.9999,True
+10224,is-IS,cooking,cooking_recipe,það hlýtur að vera bragð,qa_factoid,0.903,0.0101,False
+10226,is-IS,cooking,cooking_recipe,segðu mér bestu uppskriftina til þess að undirbúa pasta,cooking_recipe,1.0,1.0,True
+10426,is-IS,lists,lists_query,hvað annað vantar í dagbókina,lists_query,0.38,0.38,True
+10427,is-IS,lists,lists_remove,viltu hreinsa minn innkaupa lista,lists_remove,0.8252,0.8252,True
+10430,is-IS,lists,lists_remove,eyða fyrsta hlut af listanum,lists_remove,0.9952,0.9952,True
+10433,is-IS,lists,lists_remove,fjarlægja verkefna listann minn,lists_remove,0.7102,0.7102,True
+10440,is-IS,lists,lists_query,einhverjir sérstakir viðburðir á mínum lista,qa_factoid,0.7767,0.0002,False
+10442,is-IS,lists,lists_remove,fjarlægðu viðburði af listanum mínum,lists_remove,0.6686,0.6686,True
+10444,is-IS,lists,lists_remove,eyddu hlut,iot_hue_lightoff,0.9998,0.0,False
+10451,is-IS,lists,lists_query,hvað er ég að fara að gera í dag,cooking_recipe,0.6835,0.018,False
+10455,is-IS,lists,lists_query,hvað er á verkefnalistanum mínum,qa_factoid,0.9957,0.0002,False
+10462,is-IS,lists,lists_remove,eyddu lista,email_query,0.9993,0.0006,False
+10493,is-IS,lists,lists_query,hvað er á verkefnalistanum mínum,qa_factoid,0.9957,0.0002,False
+10494,is-IS,lists,lists_remove,fjarlægðu blýant af ritföng,qa_factoid,0.4555,0.0203,False
+10497,is-IS,qa,qa_factoid,get ég fengið lista yfir fimm stjörnu hótel í parís,lists_remove,0.5946,0.0014,False
+10508,is-IS,lists,lists_remove,fjarlægja lista hlut,lists_remove,0.9995,0.9995,True
+10512,is-IS,lists,lists_query,teldu upp allt sem eftir er á beiðninni minni,lists_remove,0.7821,0.0112,False
+10523,is-IS,lists,lists_remove,eyða mínum gömul ensk lög spilunarlista frá lagalistum,play_music,0.6846,0.1143,False
+10525,is-IS,lists,lists_remove,fjarlægja bíla afborgunina mína af dagatalinu mínu,qa_factoid,1.0,0.0,False
+10527,is-IS,lists,lists_remove,fjarlægja listann,lists_remove,1.0,1.0,True
+10534,is-IS,lists,lists_query,hvernig er að gera listinn í dag,cooking_recipe,0.9795,0.0051,False
+10538,is-IS,lists,lists_query,viltu endurtaka innkaupa listann minn,lists_query,0.9961,0.9961,True
+10565,is-IS,lists,lists_remove,eyða öllum listum,lists_remove,0.999,0.999,True
+10568,is-IS,lists,lists_remove,eyddu gömul tónlist listanum,lists_remove,0.8345,0.8345,True
+10570,is-IS,lists,lists_query,athugaðu verkefna listann minn,recommendation_events,0.6223,0.0159,False
+10571,is-IS,lists,lists_query,android stýrikerfi,qa_factoid,0.8925,0.0013,False
+10577,is-IS,lists,lists_query,gefa mér alla mína lista,lists_query,0.6463,0.6463,True
+10579,is-IS,lists,lists_remove,endurstilltu staðsetninga listann minn,lists_remove,0.9991,0.9991,True
+10588,is-IS,lists,lists_query,sýna mér innihald listans,qa_factoid,0.9697,0.0013,False
+10590,is-IS,lists,lists_remove,fjarlægðu aðra línuna af listanum,lists_remove,0.9998,0.9998,True
+10655,is-IS,lists,lists_remove,fjarlægja listann sem heitir partí tími,lists_remove,0.9998,0.9998,True
+10667,is-IS,lists,lists_query,lestu upp áætlanirnar á listanum,lists_query,0.8541,0.8541,True
+10673,is-IS,lists,lists_remove,fjarlægðu eftirfarandi lista,lists_remove,0.9992,0.9992,True
+10674,is-IS,lists,lists_remove,eyða núverandi lista,lists_remove,0.9918,0.9918,True
+10679,is-IS,lists,lists_query,hvað er á verkefna listanum mínum í dag,lists_query,0.9811,0.9811,True
+10684,is-IS,lists,lists_query,hvaða lista hef ég spurt um,lists_remove,0.9997,0.0001,False
+10687,is-IS,lists,lists_remove,ef það er viðburður eða sýning fjarlægðu hann,qa_factoid,0.9378,0.0011,False
+10696,is-IS,lists,lists_remove,skiptu út,calendar_remove,0.6796,0.1004,False
+10699,is-IS,lists,lists_query,fræddu mig um hlutina á listanum mínum,lists_remove,1.0,0.0,False
+10718,is-IS,lists,lists_remove,geturðu fjarlægt þennan hlut frá listanum,qa_factoid,0.8513,0.1082,False
+10731,is-IS,lists,lists_query,lestu hvað er á listanum mínum,lists_query,0.9996,0.9996,True
+10743,is-IS,lists,lists_remove,eyða þessum hlut,qa_factoid,0.2905,0.1535,False
+10753,is-IS,lists,lists_query,hvað er nú þegar komið á hagkaupslistann minn,lists_query,0.4572,0.4572,True
+10755,is-IS,lists,lists_remove,henda burt verkefna listanum mínum takk,email_sendemail,1.0,0.0,False
+10756,is-IS,lists,lists_remove,hreinsa innkaupalistann,qa_factoid,0.9979,0.0,False
+10757,is-IS,lists,lists_query,hvaða hlutir eru á mínum innkaupa lista,lists_remove,0.9268,0.0333,False
+10759,is-IS,lists,lists_query,lesa listann minn fyrir innkaup,qa_factoid,0.9695,0.0094,False
+10760,is-IS,lists,lists_query,segðu mér hvaða lista ég gerði fyrir tveimur dögum,lists_query,0.9992,0.9992,True
+10770,is-IS,lists,lists_remove,eyða morgunkorni af innkaupa listanum mínum,lists_remove,0.9895,0.9895,True
+10772,is-IS,calendar,calendar_remove,fjarlægðu tannlæknatímann frá tímaáætluninni í dag,qa_factoid,0.7602,0.0034,False
+10776,is-IS,lists,lists_query,hef ég matvæla lista kláran,lists_remove,0.9974,0.0001,False
+10786,is-IS,lists,lists_remove,eyða mín starfsemi lista fyrir daginn í dag,iot_hue_lightoff,0.3385,0.1498,False
+10790,is-IS,lists,lists_remove,eyða hlut frá lista,lists_remove,0.9997,0.9997,True
+10804,is-IS,lists,lists_query,lesa matvöru listann minn,lists_remove,0.5554,0.442,False
+10805,is-IS,lists,lists_query,viltu sýna mér listana sem ég hef,lists_remove,0.9998,0.0001,False
+10808,is-IS,lists,lists_remove,eyða síðasta hlut,lists_remove,0.7787,0.7787,True
+10824,is-IS,lists,lists_remove,olly hreinsaðu listann,lists_remove,0.9987,0.9987,True
+10825,is-IS,lists,lists_remove,hreinsa listann,lists_remove,0.9829,0.9829,True
+10827,is-IS,lists,lists_remove,eyða lista fyrir matvæli,recommendation_events,0.6475,0.2095,False
+10828,is-IS,lists,lists_remove,eyða öllu,social_post,0.7817,0.0023,False
+10832,is-IS,calendar,calendar_query,olly hvað er næst á plani,cooking_recipe,0.2064,0.0169,False
+10843,is-IS,lists,lists_remove,fjarlægja mjólk af matvöru listanum mínum,lists_remove,0.9987,0.9987,True
+10846,is-IS,lists,lists_remove,ég á ekki nógan pening til að kaupa nintendo switch núna geturðu fjarlægt hana af amazon óskalistanum mínum,qa_factoid,0.9971,0.0003,False
+10848,is-IS,lists,lists_remove,fjarlægja þennan lista frá öðrum,lists_remove,1.0,1.0,True
+10851,is-IS,lists,lists_query,hvaða listar eru í boði,lists_query,0.9758,0.9758,True
+10853,is-IS,lists,lists_remove,taktu þetta af þessu,cooking_recipe,0.8202,0.0002,False
+10855,is-IS,lists,lists_query,ég þarf að skoða minn lista,lists_query,0.9654,0.9654,True
+10868,is-IS,lists,lists_query,olly eitthvað annað eftir á listanum,lists_remove,0.9998,0.0001,False
+10887,is-IS,lists,lists_remove,eyða listanum mínum,lists_remove,0.9367,0.9367,True
+10895,is-IS,lists,lists_remove,eyða hlut frá mínum lista,lists_remove,0.9989,0.9989,True
+10909,is-IS,lists,lists_query,olly lestu listann fyrir mig,lists_remove,0.9483,0.0457,False
+10927,is-IS,lists,lists_query,leyfðu mér að heyra listann minn,lists_query,0.9386,0.9386,True
+10931,is-IS,lists,lists_query,hvað er á lagalistanum mínum,weather_query,0.5639,0.0524,False
+10936,is-IS,lists,lists_remove,viltu fjarlægja listann minn yfir uppáhalds albúm,qa_factoid,0.8548,0.1412,False
+10954,is-IS,lists,lists_query,hversu marga lista hef ég í mínum tengiliðum,lists_remove,0.9948,0.0018,False
+10956,is-IS,lists,lists_query,hvaða hópar eru í mínum tengiliðum,social_post,0.9863,0.0002,False
+10957,is-IS,lists,lists_query,minna mig á hversu marga lista ég hef,iot_hue_lightoff,0.8194,0.1194,False
+10960,is-IS,lists,lists_remove,eyddu þessum af listanum,lists_remove,1.0,1.0,True
+10970,is-IS,lists,lists_remove,eyðu síðustu setningu,iot_hue_lightoff,0.284,0.0097,False
+10979,is-IS,lists,lists_query,hvað er á listanum þínum akkúrat núna,lists_query,0.9906,0.9906,True
+10981,is-IS,lists,lists_query,segðu mér listann,lists_query,0.9996,0.9996,True
+10985,is-IS,lists,lists_remove,eyddu verkefnum mínum fyrir þessa viku,recommendation_events,0.9991,0.0001,False
+10990,is-IS,lists,lists_remove,í verkefnunum mínum fjarlægðu skúra eldhúsið,qa_factoid,0.9918,0.0,False
+10999,is-IS,lists,lists_query,segðu listann,lists_query,0.9999,0.9999,True
+11023,is-IS,lists,lists_remove,fjarlægja innkaupa lista,lists_remove,0.9997,0.9997,True
+11024,is-IS,lists,lists_remove,eyða verkefna lista,qa_factoid,0.5598,0.0157,False
+11053,is-IS,lists,lists_remove,losa mig við listann google,lists_remove,0.6979,0.6979,True
+11075,is-IS,lists,lists_query,hvað hef ég marga lista,lists_query,0.6943,0.6943,True
+11081,is-IS,lists,lists_query,hvaða listar eru í minnisbókinni minni,lists_query,0.7999,0.7999,True
+11085,is-IS,lists,lists_remove,taka burt mjólkina af innkaupa listanum,lists_remove,1.0,1.0,True
+11098,is-IS,lists,lists_remove,losa mig við skatta lista frá nítján hundruð og níutíu,qa_factoid,0.7684,0.0663,False
+11107,is-IS,lists,lists_query,hverjir eru mínir núverandi listar,lists_remove,0.9995,0.0005,False
+11124,is-IS,lists,lists_query,listaðu hluti á vinnu listanum mínum,lists_remove,0.5753,0.4165,False
+11125,is-IS,lists,lists_query,gefðu mér upplýsingar um sölu pöntun,social_post,0.7107,0.0025,False
+11133,is-IS,lists,lists_remove,fjarlægðu gestalistann sem ég bjó til í seinustu viku,qa_factoid,0.6966,0.0154,False
+11154,is-IS,lists,lists_query,athugaðu nýja verkefna lista,lists_remove,0.6925,0.0002,False
+11162,is-IS,lists,lists_remove,ég vil fjarlægja epli af listanum,lists_remove,1.0,1.0,True
+11164,is-IS,lists,lists_remove,burt af lista,qa_factoid,0.9989,0.0002,False
+11166,is-IS,lists,lists_query,opna google keep,lists_remove,0.5124,0.0162,False
+11168,is-IS,lists,lists_remove,hentu listanum mínum,lists_remove,0.9953,0.9953,True
+11172,is-IS,lists,lists_query,gefðu mér alla lista í boði,lists_query,0.9909,0.9909,True
+11174,is-IS,lists,lists_query,teldu upp alla listana á þessu tæki,lists_remove,0.9993,0.0005,False
+11180,is-IS,calendar,calendar_query,partý skipulagið mitt,qa_factoid,0.8925,0.002,False
+11186,is-IS,lists,lists_query,ég er með fata listann minn,qa_factoid,1.0,0.0,False
+11189,is-IS,lists,lists_query,findu listann,lists_remove,0.968,0.0304,False
+11204,is-IS,lists,lists_query,mikilvægar upplýsingar um hús,iot_hue_lightoff,0.6017,0.0238,False
+11215,is-IS,lists,lists_query,listi,lists_query,1.0,1.0,True
+11250,is-IS,lists,lists_query,lestu upp innkaupa listann minn fyrir mig,lists_remove,0.8302,0.0061,False
+11257,is-IS,play,play_podcasts,olly spilaðu næstu upptöku,play_podcasts,0.6316,0.6316,True
+11259,is-IS,play,play_podcasts,hoppaðu á næsta hlaðvarp,transport_query,0.9809,0.0005,False
+11261,is-IS,play,play_podcasts,næsti,weather_query,0.8042,0.003,False
+11265,is-IS,play,play_podcasts,spila næsta,play_music,0.9794,0.0043,False
+11266,is-IS,play,play_podcasts,spila hlaðvarp úr safninu mínu,play_radio,0.7113,0.0019,False
+11267,is-IS,play,play_podcasts,finndu áhugaverðt hlaðvarp um síðasta vinningshafa pritzker-verðlaunanna,transport_query,0.4186,0.0155,False
+11270,is-IS,play,play_podcasts,spilaðu næsta hlaðvarp,transport_query,0.9306,0.0121,False
+11272,is-IS,play,play_podcasts,spila næst,play_music,0.9143,0.0174,False
+11279,is-IS,play,play_podcasts,farðu í hlaðvarpið og spilaðu næsta þátt af vinum,play_music,0.6453,0.0061,False
+11286,is-IS,play,play_podcasts,spila hlaðvarp hugleiks dagsonar,iot_hue_lightoff,0.9384,0.0006,False
+11296,is-IS,play,play_podcasts,hlaða öll mín hlaðvörp,play_music,0.9927,0.0005,False
+11302,is-IS,play,play_podcasts,spila tvíhöfða hlaðvarpið,transport_query,0.5236,0.008,False
+11303,is-IS,play,play_podcasts,spila næsta ástæða hlaðvarp,qa_factoid,0.4699,0.0009,False
+11306,is-IS,play,play_podcasts,spilaðu hlaðvarpið sem ég var að hlusta á í gær,play_radio,0.6705,0.0634,False
+11318,is-IS,play,play_podcasts,spilaðu næsta þátt af hlaðvarpi,play_podcasts,0.2817,0.2817,True
+11322,is-IS,play,play_podcasts,hver eru topp hlaðvörp dagsins í dag,lists_query,0.9609,0.0006,False
+11328,is-IS,play,play_podcasts,spila hlaðvarp fyrir tindastóls leikinn,cooking_recipe,0.4779,0.0017,False
+11331,is-IS,play,play_podcasts,sýna mér besta hlaðvarpið með vinsælum rokklögum,play_radio,0.4909,0.0058,False
+11335,is-IS,play,play_music,spilaðu og stokkaðu öll róleg lög,play_music,0.999,0.999,True
+11339,is-IS,play,play_podcasts,spila mitt mest spilaða hlaðvarp,cooking_recipe,0.7041,0.038,False
+11340,is-IS,play,play_podcasts,er karlmennskan með nýtt hlaðvarp,qa_factoid,0.703,0.0099,False
+11341,is-IS,play,play_podcasts,finna nýjasta disney hlaðvarpið,recommendation_events,0.3739,0.2073,False
+11343,is-IS,play,play_podcasts,fara á næsta þátt af eigin konur,qa_factoid,0.5045,0.0281,False
+11345,is-IS,play,play_podcasts,spilaðu næsta þátt af hlaðvarpi,play_podcasts,0.2817,0.2817,True
+11349,is-IS,play,play_podcasts,olly byrjaðu hlaðvarpið upp á nýtt sem ég byrjaði á í gærkvöldi,iot_hue_lightoff,0.959,0.0019,False
+11353,is-IS,play,play_podcasts,sýndu mér hlaðvörp,play_music,0.6858,0.0104,False
+11361,is-IS,play,play_podcasts,sögur af plötum hlaðvarpið spilaðu það,play_podcasts,0.7583,0.7583,True
+11366,is-IS,play,play_podcasts,fara til baka í fyrri þátt af hlaðvarpi,calendar_remove,0.4142,0.021,False
+11368,is-IS,play,play_podcasts,spilaðu hlaðvarpið hans jóns,play_radio,0.7499,0.1078,False
+11376,is-IS,play,play_podcasts,ég vil hlusta á hlaðvarp,play_music,0.8972,0.0284,False
+11384,is-IS,play,play_podcasts,geturðu vinsamlegast niðurhalað hlaðvarps efninu mínu aðgengilegt á netinu og spilað það einu sinni,recommendation_events,0.5095,0.0146,False
+11409,is-IS,play,play_podcasts,vinsamlegast skippaðu á næsta hlaðvarpsþátt,qa_factoid,0.9634,0.0015,False
+11417,is-IS,play,play_podcasts,byrjaðu næsta þátt,qa_factoid,0.998,0.0001,False
+11418,is-IS,play,play_podcasts,spila sölva tryggva nýjasta hlaðvarp,transport_query,0.2221,0.0871,False
+11420,is-IS,play,play_podcasts,spilaðu nýlegasta hlaðvarpið mitt,play_radio,0.3415,0.3296,False
+11423,is-IS,play,play_podcasts,fara til baka um þrjátíu sekúndur,qa_factoid,0.6193,0.0084,False
+11424,is-IS,play,play_podcasts,bylgjan,iot_hue_lightoff,0.9969,0.0,False
+11426,is-IS,lists,lists_query,listi yfir mest skoðað,lists_query,0.9993,0.9993,True
+11427,is-IS,play,play_podcasts,byrja eigin konur,qa_factoid,0.9997,0.0,False
+11437,is-IS,play,play_podcasts,vinsamlegast spilaðu hlaðvarpið fyrir mig,qa_factoid,0.8962,0.0017,False
+11438,is-IS,play,play_podcasts,vinsamlegast farðu á næsta þátt í hlaðvarpinu,qa_factoid,0.991,0.0003,False
+11442,is-IS,play,play_podcasts,vinsamlegast spilaðu nýjasta hlaðvarp sölva tryggva,qa_factoid,0.6133,0.0608,False
+11451,is-IS,play,play_podcasts,mig langar að hlusta á nýjasta þáttin af mike and mike hlaðvarpinu,play_music,0.5775,0.4217,False
+11453,is-IS,play,play_podcasts,byrja hlaðvörp á rúv núll,iot_hue_lightoff,0.5987,0.0036,False
+11455,is-IS,play,play_podcasts,fara yfir í næsta kafla,cooking_recipe,0.8408,0.006,False
+11458,is-IS,play,play_podcasts,halda áfram á næsta hlaðvarpsþátt,play_radio,0.4169,0.0157,False
+11459,is-IS,play,play_podcasts,farðu til baka á síðasta þáttinn í þessu hlaðvarpi,play_radio,0.7211,0.0089,False
+11460,is-IS,play,play_podcasts,ég vil hlusta á íþrótta hlaðvarp,iot_hue_lightoff,0.7845,0.059,False
+11467,is-IS,play,play_podcasts,spila nýlegasta hlaðvarpið af í ljósi sögunnar,iot_hue_lightoff,0.57,0.0039,False
+11470,is-IS,play,play_podcasts,spila uppáhalds hlaðvarpið mitt,play_music,0.6226,0.0153,False
+11474,is-IS,play,play_podcasts,halda áfram röð hlaðvarpa,iot_hue_lightoff,0.3595,0.0074,False
+11476,is-IS,play,play_podcasts,spila fyrra hlaðvarpið,play_radio,0.5244,0.0255,False
+11483,is-IS,play,play_podcasts,byrja að spila rúv núll,play_music,0.9496,0.0011,False
+11490,is-IS,play,play_podcasts,spila næsta þátt í hlaðvarpi,play_music,0.3205,0.0558,False
+11502,is-IS,play,play_podcasts,næsti takki,qa_factoid,0.5145,0.0081,False
+11505,is-IS,play,play_podcasts,endurspila síðasta hlaðvarpið mitt,calendar_remove,0.3312,0.0159,False
+11514,is-IS,play,play_podcasts,olly getum við hlustað á að svara öllum hlaðvörpum,play_music,0.7118,0.1024,False
+11515,is-IS,play,play_podcasts,mig langar að heyra the united states of anxiety hlaðvarp,play_podcasts,0.581,0.581,True
+11525,is-IS,play,play_podcasts,mig langar að sjá næsta fáanlega hlaðvarp,transport_query,0.9044,0.0013,False
+11529,is-IS,play,play_podcasts,hey spila uppáhalds hlaðvarpið mitt úr lista,play_music,0.9745,0.0013,False
+11536,is-IS,play,play_podcasts,bæta uppáhálds hlaðvörpum á lagalistann og byrja á honum,play_music,0.5178,0.0111,False
+11539,is-IS,play,play_podcasts,byrja næsta hlaðvarp,transport_query,0.9517,0.001,False
+11546,is-IS,play,play_podcasts,spilaðu allt eigin konur frá síðustu viku,play_music,0.9945,0.0037,False
+11554,is-IS,play,play_podcasts,ég vil að þú spilir hlaðvarpið,play_music,0.9452,0.0014,False
+11563,is-IS,recommendation,recommendation_events,hvað get ég gert í berlín,cooking_recipe,0.991,0.0009,False
+11570,is-IS,recommendation,recommendation_events,hvað er í gangi í bænum mínum,news_query,0.3503,0.0184,False
+11582,is-IS,recommendation,recommendation_events,er eitthvað í gangi í djass senunni í reykjavík,weather_query,0.9848,0.0005,False
+11585,is-IS,recommendation,recommendation_events,einhverjir menningar viðburðir á selfossi,social_post,0.9961,0.0001,False
+11598,is-IS,recommendation,recommendation_events,vinsamlegast segðu mér frá hundasýninga viðburðum sem eru í gangi í heimabænum mínum,social_post,0.3261,0.038,False
+11600,is-IS,recommendation,recommendation_events,hvaða bíómynd get ég horft á í kvöld í kvikmyndahúsinu hér í borgarnesi,play_music,0.8855,0.0001,False
+11610,is-IS,recommendation,recommendation_events,gefðu mér lista fyrir sirkus sýningar sem eru í gangi í borginni núna,lists_query,0.5229,0.051,False
+11612,is-IS,recommendation,recommendation_events,hvaða byssusýningar eru í dalvík,qa_factoid,0.9338,0.0164,False
+11616,is-IS,recommendation,recommendation_events,verða einhverjir viðburðir í miðbænum í kvöld,weather_query,0.1484,0.056,False
+11643,is-IS,recommendation,recommendation_events,hvaða viðburðir eru bráðlega,iot_hue_lightoff,0.9847,0.0001,False
+11644,is-IS,recommendation,recommendation_events,sýndu mér viðburði í reykjavík,qa_factoid,0.5735,0.019,False
+11650,is-IS,recommendation,recommendation_events,bæði ungir og bráðabirgða bílstjórar lenda oftar í árekstri en aðrir bílstjórar vegna þess að þeir hafa ekki fengið þá víðteknu reynslu sem þarf til að aka örugglega sjálfir hafa rannsóknir sýnt að ökureynsla er stórt atriði í að lækka tíðni vegaslysa og að öruggasti tíminn fyrir unga bílstjóra er þegar þeir keyra undir eftirliti á meðan þeir læra,lists_query,0.1166,0.0864,False
+11681,is-IS,recommendation,recommendation_events,vinsamlegast sýndu mér maraþon nálægt mér,social_post,1.0,0.0,False
+11685,is-IS,recommendation,recommendation_events,ég væri glaður ef þú gætir uppfært mig um viðburðina í gangi á okkar svæði,qa_factoid,0.2145,0.04,False
+11705,is-IS,recommendation,recommendation_events,sýndu mér málverkasýningu á flóasvæði,iot_hue_lightoff,0.9825,0.0004,False
+11720,is-IS,recommendation,recommendation_events,synda,email_query,0.14,0.0504,False
+11767,is-IS,recommendation,recommendation_events,olly hvaða viðburðir eru í gangi á akureyri þessa helgina,news_query,0.935,0.0104,False
+11770,is-IS,recommendation,recommendation_events,einhverjir viðburðir þessa helgina á akureyri,social_post,0.1478,0.0579,False
+11782,is-IS,recommendation,recommendation_events,eru einhverjir sérstakir viðburðir nálægt mér þessa helgina,social_post,0.8373,0.0065,False
+11798,is-IS,recommendation,recommendation_events,hver er næsti viðburður á bókasafninu,qa_factoid,0.9994,0.0001,False
+11827,is-IS,recommendation,recommendation_events,hvert get ég farið í kvöld,weather_query,0.4899,0.0109,False
+11839,is-IS,recommendation,recommendation_events,hvað er að gerast á svæðinu,qa_factoid,0.1857,0.0237,False
+11841,is-IS,recommendation,recommendation_events,eru einhverjar handverkssýningar á þessu svæði,recommendation_events,0.6723,0.6723,True
+11844,is-IS,recommendation,recommendation_events,eitthvað spennandi í gangi á flóasvæðinu,social_post,0.3808,0.0507,False
+11845,is-IS,recommendation,recommendation_events,sýndu mér spennandi viðburði á höfuðborgarsvæðinu,play_podcasts,0.8558,0.0037,False
+11860,is-IS,recommendation,recommendation_events,segðu mér frá bæjar viðburðum,qa_factoid,0.9829,0.002,False
+11867,is-IS,recommendation,recommendation_events,er einhver íþróttaviðburður á morgun á seyðisfirði,qa_factoid,0.4747,0.0048,False
+11875,is-IS,recommendation,recommendation_events,er matarhátíð á svæðinu,social_post,0.9525,0.0018,False
+11904,is-IS,recommendation,recommendation_events,hvað er í gangi hérna um helgina,social_post,0.9128,0.0013,False
+11905,is-IS,recommendation,recommendation_events,olly segðu mér frá viðburðum á mínu svæði þessa helgi,social_post,0.9976,0.0006,False
+11911,is-IS,recommendation,recommendation_events,er eitthvað sniðugt í gangi þessa helgina á svæðinu,social_post,0.9925,0.0002,False
+11916,is-IS,recommendation,recommendation_events,hvaða skemmtigarðar eru í grenndinni,iot_hue_lightoff,0.7352,0.0039,False
+11969,is-IS,recommendation,recommendation_events,er eitthvað sérstakt í gangi á svæðinu,social_post,0.4424,0.0139,False
+11999,is-IS,recommendation,recommendation_events,segðu mér frá öllum viðburðum í dag á mínu svæði,news_query,0.8963,0.013,False
+12008,is-IS,recommendation,recommendation_events,eru einhverjir skemmtilegir viðburðir í rvk í dag,cooking_recipe,0.7874,0.0067,False
+12054,is-IS,recommendation,recommendation_events,hvað er að gerast í bænum,cooking_recipe,0.1552,0.0366,False
+12070,is-IS,recommendation,recommendation_events,hvenær opnar kringlan,weather_query,0.982,0.0001,False
+12073,is-IS,recommendation,recommendation_events,sýndu viðburði í nágrenninu,play_podcasts,0.3846,0.0236,False
+12098,is-IS,recommendation,recommendation_events,sýndu mér nálæga tónlistarviðburði,play_music,0.9996,0.0,False
+12189,is-IS,transport,transport_query,hvernig kemst ég á lestarstöðina til að kaupa miða,qa_factoid,0.9988,0.0,False
+12240,is-IS,transport,transport_query,hvernig er umferðin á leið minni heim klukkan fimm,weather_query,0.9975,0.0001,False
+12245,is-IS,transport,transport_query,hvenær er næsta lest til grindavíkur frá akureyri,cooking_recipe,0.9739,0.0,False
+12251,is-IS,transport,transport_query,finna bæjar lestar áætlun í grindavík,recommendation_events,0.3738,0.0107,False
+12252,is-IS,transport,transport_query,klukkan hvað eru lestarnar að fara til grindavíkur,lists_remove,0.6153,0.0061,False
+12261,is-IS,transport,transport_query,hverjir eru valmöguleikar mínir um lest til akureyrar næsta miðvikudag eða fimmtudag,recommendation_events,0.7493,0.0067,False
+12263,is-IS,transport,transport_query,norðurland,qa_factoid,0.4467,0.028,False
+12264,is-IS,transport,transport_query,reykjavík,social_post,0.6972,0.0089,False
+12294,is-IS,transport,transport_query,sýna mér lestar áætlun í hörpuna,play_music,0.6425,0.0018,False
+12310,is-IS,transport,transport_query,sýna mér lista yfir lausa lestar miða frá edinburgh til leeds,lists_query,0.7183,0.0018,False
+12343,is-IS,transport,transport_query,athuga tímasetningu á tíu þúsund átta hundruð áttatíu og sjö lestinni frá línu stöðinni á þriðjudag,datetime_query,0.8247,0.0047,False
+12354,is-IS,transport,transport_query,gefa mér lestar tíma,qa_factoid,0.9972,0.0,False
+12366,is-IS,transport,transport_query,er lest sem tengist frá keflavík til akureyrar og klukkan hvað,qa_factoid,0.212,0.0366,False
+12367,is-IS,transport,transport_query,hver er besta leiðin til sauðárkróks,qa_factoid,0.9998,0.0,False
+12376,is-IS,transport,transport_query,hver er fyrsta neðanjarðarlestin til d. c.,qa_factoid,0.5726,0.0012,False
+12392,is-IS,transport,transport_query,segðu mér leiðina í dag,weather_query,0.9945,0.0001,False
+12402,is-IS,transport,transport_query,hvenær fer næsta lest sem fer um borgina héðan,weather_query,0.6406,0.0241,False
+12419,is-IS,transport,transport_query,fljótlegasta leiðin til vestmannaeyja,qa_factoid,0.9995,0.0,False
+12430,is-IS,transport,transport_query,segðu mér lestar komu tíma til reykjavíkur,weather_query,0.6073,0.0008,False
+12436,is-IS,transport,transport_query,hvað tekur langan tíma að fara á flugvöllinn,transport_query,0.9068,0.9068,True
+12437,is-IS,transport,transport_query,hvernig er samgöngu tíminn í leikhúsið,qa_factoid,0.5259,0.0012,False
+12446,is-IS,transport,transport_query,geturðu sagt mér tímana sem lestin fer til keflavíkur,datetime_query,0.9486,0.0079,False
+12473,is-IS,transport,transport_query,hvernig kemst ég heim héðan,weather_query,0.9982,0.0001,False
+12526,is-IS,transport,transport_query,hvað er fljótasta leiðin í kaffitár,qa_factoid,0.99,0.0001,False
+12532,is-IS,transport,transport_query,vísaðu veginn að staðnum takk,social_post,0.807,0.0006,False
+12581,is-IS,transport,transport_query,hvenær fer lestin í dag,weather_query,0.9982,0.0001,False
+12582,is-IS,transport,transport_query,klukkan hvað kemur fyrsti strætó í fyrramálið,weather_query,0.9778,0.003,False
+12604,is-IS,transport,transport_query,hvernig bóka ég lestar miða á netinu,qa_factoid,0.9998,0.0,False
+12618,is-IS,transport,transport_query,hvað kostar lestar miði báðar leiðir til reykjavíkur,qa_factoid,0.9762,0.008,False
+12623,is-IS,transport,transport_query,ertu með tímann fyrir keflavík lestina,cooking_recipe,0.4819,0.0012,False
+12629,is-IS,transport,transport_query,klukkan hvað fer fyrstsa lestin frá akureyri,qa_definition,0.4026,0.013,False
+12634,is-IS,transport,transport_query,hvenær fer næsta lest til akureyrar,qa_factoid,0.9886,0.0,False
+12707,is-IS,transport,transport_query,leiðsögu leit,qa_factoid,0.9976,0.0,False
+12759,is-IS,transport,transport_query,aksturs tími til akureyrar,qa_factoid,0.8272,0.0019,False
+12797,is-IS,transport,transport_query,lestar tímar nálægt mér til staðsetningar,weather_query,0.8383,0.0011,False
+12800,is-IS,transport,transport_query,hvar er almennings bókasafnið,qa_factoid,0.9979,0.0002,False
+12817,is-IS,transport,transport_query,hvernig kemst ég í smáralind,weather_query,0.9947,0.0001,False
+12818,is-IS,transport,transport_query,hvað kostar lestar miði til njarðvíkur,qa_factoid,0.536,0.0092,False
+12824,is-IS,transport,transport_query,listaðu alla lestar fartím til reykjavíkur,lists_query,0.9441,0.0009,False
+12835,is-IS,transport,transport_query,klukkan hvað fer lestin til staðar,lists_remove,0.8521,0.0051,False
+12839,is-IS,transport,transport_query,fara með mig í ármúla,social_post,0.7917,0.0045,False
+12851,is-IS,transport,transport_query,sýna mér leiðina heim til mín,email_sendemail,0.9966,0.0,False
+12856,is-IS,transport,transport_query,leiðbeiningar takk,email_sendemail,1.0,0.0,False
+12866,is-IS,transport,transport_query,hver er tímasetningin á flugvallar rútunni,qa_factoid,0.9973,0.0,False
+12908,is-IS,transport,transport_query,klukkan hvað kemur lestin í keflavík,lists_remove,0.2592,0.0046,False
+12930,is-IS,transport,transport_query,leita á kortinu að búðum nálægt mér,social_post,0.2061,0.0135,False
+12932,is-IS,transport,transport_query,olly ég þarf leiðbeiningar á laugaveginn,qa_definition,0.5818,0.0004,False
+12951,is-IS,qa,qa_factoid,hvað er hæsta bygging í heimi,qa_factoid,0.9994,0.9994,True
+12957,is-IS,qa,qa_definition,skilgreina ítarlegur,qa_factoid,0.9797,0.0002,False
+12961,is-IS,qa,qa_definition,vinsamlegast skilgreina réttarfræði,qa_factoid,0.402,0.3099,False
+12963,is-IS,qa,qa_definition,hvað er skilgreiningin á réttarlækningum,qa_factoid,0.9663,0.0333,False
+12972,is-IS,qa,qa_factoid,hvað er hæsti tindur í heiminum,qa_factoid,0.6758,0.6758,True
+12982,is-IS,qa,qa_definition,hvað þýðir ókyrrð,qa_factoid,0.7465,0.0377,False
+12986,is-IS,qa,qa_definition,athugaðu merkingu orðsins duttlungafullur,iot_hue_lightoff,0.3233,0.0297,False
+12999,is-IS,qa,qa_factoid,hversu gömul er selma björnsdóttir,social_post,0.8017,0.0022,False
+13016,is-IS,qa,qa_definition,leitaðu uppi skilgreiningu á klúður,iot_hue_lightoff,0.5305,0.014,False
+13023,is-IS,cooking,cooking_recipe,sýndu mér uppskriftir,play_music,0.7629,0.0112,False
+13069,is-IS,qa,qa_definition,hver er skilgreiningin á appelsínu,qa_factoid,0.9963,0.0035,False
+13074,is-IS,qa,qa_factoid,afhverju er jón gnarr ekki fyndinn,qa_factoid,0.9992,0.9992,True
+13077,is-IS,qa,qa_factoid,hvenær er afmæli jóns jónssonar,iot_hue_lightoff,0.4266,0.0177,False
+13078,is-IS,qa,qa_factoid,segðu mér heimilisfang jóns jónssonar,email_sendemail,1.0,0.0,False
+13099,is-IS,qa,qa_factoid,hver var núverandi forsætisráðherra bretlands,qa_factoid,1.0,1.0,True
+13115,is-IS,qa,qa_factoid,hver er höfuðborgin í nígeríu,qa_factoid,0.6183,0.6183,True
+13124,is-IS,qa,qa_factoid,hversu stór er alheimurinn,qa_factoid,0.9628,0.9628,True
+13135,is-IS,qa,qa_factoid,hvenær er fæðingardagur jóns gnarr,weather_query,0.9987,0.0001,False
+13140,is-IS,qa,qa_definition,segðu mér frá fellibyl,social_post,0.9526,0.0041,False
+13154,is-IS,qa,qa_factoid,veistu símanúmer önnu jónsdóttur,email_sendemail,0.9999,0.0,False
+13165,is-IS,qa,qa_definition,hvað þýðir að sveiflast,qa_factoid,0.8227,0.1304,False
+13166,is-IS,qa,qa_definition,stafaðu og skilgreindu að sveiflast,qa_factoid,0.4118,0.009,False
+13177,is-IS,calendar,calendar_set,minntu mig á að hreyfa mig svo mér líði vel,iot_hue_lightoff,0.7612,0.0014,False
+13178,is-IS,calendar,calendar_set,minntu mig á að hafa samband við gamla vini sem ég hef ekki talað við í sex mánuði áður en þeir líða,social_post,0.9309,0.002,False
+13188,is-IS,news,news_query,segðu mér hvernig niðurstöður þingkpstninga í reykjavík munu koma út,qa_factoid,0.9157,0.0157,False
+13206,is-IS,qa,qa_definition,staðsetning,calendar_set,0.8237,0.0161,False
+13215,is-IS,transport,transport_query,hver er fljótasta leiðin í vinnuna mína niður í bæ án þess að lenda í umferð,lists_query,0.4332,0.1221,False
+13252,is-IS,qa,qa_factoid,hvað var halldórs laxness fyrsta nóvember,weather_query,0.9977,0.0001,False
+13255,is-IS,qa,qa_factoid,geturðu vinsamlegast gefið mér upplýsingar um jón sigurðsson,social_post,0.9923,0.0037,False
+13283,is-IS,qa,qa_factoid,hversu mikinn pening græddi björgvin þór,qa_factoid,0.4549,0.4549,True
+13288,is-IS,qa,qa_definition,hver er skilgreiningin á orðinu ævarandi,qa_factoid,0.9822,0.0176,False
+13297,is-IS,qa,qa_factoid,hver er frægur,social_post,0.9928,0.0002,False
+13298,is-IS,qa,qa_factoid,hvað gerir frægt fólk,social_post,0.9968,0.0002,False
+13330,is-IS,qa,qa_factoid,hvaða stærð er búrhvalur,qa_factoid,0.9846,0.9846,True
+13361,is-IS,qa,qa_definition,hvað er skilgreining á tímasetningu,datetime_query,0.9787,0.0131,False
+13383,is-IS,qa,qa_factoid,hversu mörg ríki eru með dauðarefsingu,qa_factoid,0.9991,0.9991,True
+13400,is-IS,social,social_post,sentu fyndin skilaboð til allra vina minna,email_sendemail,1.0,0.0,False
+13439,is-IS,qa,qa_factoid,hversu gömul er yrsa sigurðardóttir,iot_hue_lightoff,0.2949,0.0108,False
+13457,is-IS,calendar,calendar_set,segðu mér hvenær ég á að leggja af stað á bókaðan viðburðu svo að ég verði á réttum tíma,calendar_remove,0.9419,0.0013,False
+13473,is-IS,qa,qa_factoid,hvenær fengu bandaríkin frelsi,weather_query,0.872,0.0233,False
+13487,is-IS,qa,qa_factoid,olly hvað er höfuðborg kaliforníu,email_query,0.3443,0.0161,False
+13494,is-IS,qa,qa_definition,gefðu skilgreiningu á hvatningu,iot_hue_lightoff,0.9892,0.0002,False
+13506,is-IS,datetime,datetime_query,geturðu sagt mér hvað klukkan er,qa_definition,0.9987,0.0,False
+13513,is-IS,qa,qa_factoid,hvað eru hundar með margar fætur,qa_definition,0.9879,0.0039,False
+13516,is-IS,qa,qa_factoid,afhverju eru hvalir stórir,qa_factoid,0.9999,0.9999,True
+13546,is-IS,qa,qa_factoid,hvað var síðasta bíómynd sem jón gnarr var í,play_podcasts,0.6324,0.028,False
+13554,is-IS,qa,qa_factoid,hvað er hilmir snær hávaxinn,qa_factoid,0.6239,0.6239,True
+13575,is-IS,qa,qa_factoid,hver var seinasta óskarsverðlauna mynd,qa_factoid,0.9998,0.9998,True
+13580,is-IS,qa,qa_factoid,hversu há er esjan,weather_query,0.9987,0.0002,False
+13591,is-IS,qa,qa_factoid,hver er höfuðborg norðurlands,qa_factoid,0.6045,0.6045,True
+13592,is-IS,qa,qa_factoid,hvar er nýja sjáland á korti,qa_factoid,0.9992,0.9992,True
+13604,is-IS,qa,qa_factoid,segðu mér hvar steve jobs fæddist,qa_factoid,0.9956,0.9956,True
+13607,is-IS,qa,qa_factoid,geturðu vinsamlegast staðfest að hilmir snær sé giftur,qa_factoid,0.9795,0.9795,True
+13616,is-IS,qa,qa_factoid,hvar hanga flestir frægir,qa_factoid,0.9997,0.9997,True
+13619,is-IS,recommendation,recommendation_events,eru einhverjir fríir viðburðir á mínu svæði í dag,play_podcasts,0.9479,0.0083,False
+13625,is-IS,qa,qa_definition,hvað er stærsta borðið,cooking_recipe,0.9879,0.0041,False
+13636,is-IS,qa,qa_factoid,hvenær er afmæli ingvars sigurðssonar,weather_query,0.8322,0.0066,False
+13679,is-IS,qa,qa_factoid,geturðu sagt mér hversu marga maga kýr hafa,qa_factoid,1.0,1.0,True
+13681,is-IS,qa,qa_factoid,hversu mörgum leikritum hefur ingvar eggert sigurðsson verið í,cooking_recipe,0.9788,0.0015,False
+13683,is-IS,qa,qa_factoid,hvaða tegund af hárspreyi notar ólafur ragnar grímsson,iot_hue_lightoff,0.9977,0.0018,False
+13689,is-IS,qa,qa_definition,hvað er stóll,lists_remove,0.5983,0.0135,False
+13690,is-IS,qa,qa_factoid,hvernig eru stólar á litinn,qa_factoid,0.9503,0.9503,True
+13693,is-IS,qa,qa_factoid,hvar er aðal lengdarbaugurinn,qa_factoid,0.9779,0.9779,True
+13705,is-IS,qa,qa_definition,hvað er rafrænt losunarkerfi,social_post,0.9901,0.0017,False
+13706,is-IS,qa,qa_definition,lýsa snúningi,iot_hue_lightoff,0.6451,0.0022,False
+13714,is-IS,qa,qa_definition,hvað er mangó,qa_definition,1.0,1.0,True
+13717,is-IS,qa,qa_factoid,geturðu í alvöru séð rússland frá alaska,qa_factoid,0.9996,0.9996,True
+13758,is-IS,qa,qa_factoid,hversu gömul er birgitta haukdal,weather_query,0.731,0.0119,False
+13761,is-IS,qa,qa_factoid,hvað er parsek,qa_factoid,0.9515,0.9515,True
+13774,is-IS,qa,qa_factoid,hversu langt er árnessýsla frá suðurþingeyjarsýslu,qa_factoid,0.9069,0.9069,True
+13777,is-IS,qa,qa_definition,geturðu lýst kreditkorti,email_sendemail,0.8647,0.0013,False
+13780,is-IS,qa,qa_factoid,er gylfi sigurðsson giftur,email_sendemail,0.9966,0.0027,False
+13798,is-IS,qa,qa_factoid,hversu margir ferkílómetrar er meðalland á jörðinni,qa_factoid,0.9995,0.9995,True
+13799,is-IS,qa,qa_definition,hvað er skilgreining á undirgefinn,qa_definition,0.9999,0.9999,True
+13823,is-IS,qa,qa_factoid,hvað er sólin langt í burtu,weather_query,0.471,0.0818,False
+13853,is-IS,qa,qa_factoid,hvar í heiminum eru flest eldfjöll,weather_query,0.4094,0.3927,False
+13854,is-IS,qa,qa_factoid,hvenær dó elvis,qa_factoid,0.9953,0.9953,True
+13863,is-IS,qa,qa_definition,hver er skilgreiningin á rökfræði,qa_definition,0.9793,0.9793,True
+13867,is-IS,qa,qa_factoid,hvar er þingvallaþjóðgarður,email_query,0.1209,0.0364,False
+13869,is-IS,qa,qa_factoid,googlaðu staðsetninu og upplýsingar um mount rushmore takk,email_sendemail,0.6881,0.0074,False
+13871,is-IS,qa,qa_definition,hvernig myndirðu lýsa gleðilegum afmælisdegi,social_post,0.5974,0.0092,False
+13881,is-IS,qa,qa_factoid,gefðu mér upplýsingar um jón jónsson,social_post,0.8942,0.0012,False
+13888,is-IS,qa,qa_factoid,hvað er hitastigið á akureyri,weather_query,0.9965,0.002,False
+13895,is-IS,qa,qa_factoid,geturðu sagt mér frá gylfa sigurðssyni,qa_factoid,0.6347,0.6347,True
+13900,is-IS,qa,qa_definition,skilgreiningin á lífi,qa_factoid,1.0,0.0,False
+13907,is-IS,qa,qa_definition,skilgreina furðulostinn,cooking_recipe,0.4352,0.0043,False
+13908,is-IS,qa,qa_definition,geturðu sagt mér hvað furðulostinn þýðir,qa_factoid,0.5144,0.4534,False
+13926,is-IS,qa,qa_factoid,hvað er afmælisdagur halldórs laxness,weather_query,0.5439,0.0101,False
+13927,is-IS,qa,qa_factoid,hversu mikils virði er eiður smári,qa_factoid,0.9746,0.9746,True
+13974,is-IS,qa,qa_factoid,hvar er ísafjörður,iot_hue_lightoff,0.9445,0.0009,False
+13983,is-IS,qa,qa_definition,þola afleiðingar,social_post,0.7885,0.002,False
+13984,is-IS,qa,qa_definition,afleiðingar aðgerða,qa_factoid,0.9984,0.0001,False
+13997,is-IS,qa,qa_factoid,hversu mikið er meðal hús,qa_factoid,0.9144,0.9144,True
+14000,is-IS,qa,qa_definition,lýstu letidýri,social_post,0.9895,0.0001,False
+14001,is-IS,qa,qa_factoid,segðu mér allt sem þú veist um letidýr,recommendation_events,0.9984,0.0003,False
+14011,is-IS,qa,qa_factoid,hvenær á edda björgvinsdóttir afmæli,email_sendemail,0.9468,0.0005,False
+14015,is-IS,qa,qa_factoid,hver eru hnit miðbaugs,qa_definition,0.9922,0.0007,False
+14023,is-IS,qa,qa_definition,lýstu helvíti,qa_factoid,0.8323,0.0002,False
+14033,is-IS,qa,qa_factoid,segðu mér hvenær ólafur ragnar grímsson var fæddur,qa_factoid,0.9955,0.9955,True
+14038,is-IS,qa,qa_factoid,hver er staðsetning modavíu,qa_factoid,0.991,0.991,True
+14040,is-IS,qa,qa_factoid,hversu hár er hulk hogan,qa_factoid,0.9768,0.9768,True
+14053,is-IS,qa,qa_factoid,hvaða ár byrjaði ingvar e. sigurðsson að leika,qa_factoid,0.6074,0.6074,True
+14063,is-IS,qa,qa_factoid,hvenær er afmæli bubba morthens,qa_factoid,0.8569,0.8569,True
+14083,is-IS,qa,qa_factoid,hvar býr jón gnarr núna,qa_factoid,0.9359,0.9359,True
+14096,is-IS,qa,qa_factoid,hvar eru bláfjöll,iot_hue_lightoff,0.9462,0.0136,False
+14115,is-IS,qa,qa_definition,gefa lýsingu á klettasandi,iot_hue_lightoff,0.7509,0.013,False
+14116,is-IS,qa,qa_definition,lýstu grjótsandi,iot_hue_lightoff,0.9789,0.0002,False
+14117,is-IS,qa,qa_factoid,hvar eru pýramídarnir,iot_hue_lightoff,0.5067,0.4061,False
+14118,is-IS,qa,qa_factoid,sýna landfræðilegar upplýsingar um pýramídana,social_post,0.3416,0.0364,False
+14126,is-IS,qa,qa_factoid,sýna ævisögu birgittu haukdals,social_post,0.9275,0.0226,False
+14138,is-IS,qa,qa_definition,vinsamlegast segðu mér hver skilgreiningin á hólk er,qa_factoid,0.7682,0.2281,False
+14147,is-IS,qa,qa_definition,skilgreina teppi,qa_factoid,0.9717,0.0023,False
+14150,is-IS,qa,qa_definition,hvað eru converse skór,qa_definition,0.9975,0.9975,True
+14151,is-IS,qa,qa_factoid,hverskonar sólgleraugu teljast vera flugsólgleraugu,qa_factoid,0.9967,0.9967,True
+14154,is-IS,qa,qa_factoid,afríku upplýsingar,news_query,0.963,0.0033,False
+14163,is-IS,qa,qa_factoid,leita á staðnum,play_radio,0.4622,0.0557,False
+14169,is-IS,qa,qa_factoid,hvar lærði eliza reid,qa_factoid,1.0,1.0,True
+14170,is-IS,qa,qa_factoid,klæðist anita briem converse,qa_factoid,0.9595,0.9595,True
+14179,is-IS,qa,qa_factoid,hversu langt er kanada frá minni núverandi staðsetningu,qa_factoid,0.9985,0.9985,True
+14214,is-IS,transport,transport_query,findu aðrar leiðir fyrir sama,cooking_recipe,0.981,0.0001,False
+14229,is-IS,qa,qa_factoid,hvaða myndum hefur ilmur kristjánsdóttir leikið í,social_post,0.6334,0.0052,False
+14243,is-IS,qa,qa_factoid,smáatriði um manneskju,social_post,0.7243,0.0032,False
+14272,is-IS,qa,qa_definition,hey hvað er bók,qa_factoid,0.7481,0.0048,False
+14283,is-IS,qa,qa_factoid,segðu mér frá akureyri,social_post,0.559,0.0252,False
+14306,is-IS,qa,qa_factoid,útskýrðu landfræðilega staðsetningu íslands,social_post,0.7145,0.0756,False
+14308,is-IS,qa,qa_factoid,hver er hrein eign leónardó dicaprio,qa_factoid,0.9901,0.9901,True
+14316,is-IS,qa,qa_factoid,hversu stórt er norðurland,qa_factoid,0.7709,0.7709,True
+14317,is-IS,qa,qa_factoid,hversu stór eru bandaríkin,weather_query,0.8487,0.1346,False
+14323,is-IS,qa,qa_factoid,hvaða litur er á drekaávexti,iot_hue_lightoff,0.9996,0.0,False
+14330,is-IS,qa,qa_factoid,hvað fæddist steve jobs,social_post,0.3839,0.2389,False
+14347,is-IS,qa,qa_definition,hvað er tilgáta,qa_factoid,1.0,0.0,False
+14354,is-IS,qa,qa_factoid,hvað er svarið við alheiminum,email_query,0.6777,0.0,False
+14355,is-IS,qa,qa_factoid,geta margar skeljar seldar við ströndina,cooking_recipe,0.5849,0.03,False
+14370,is-IS,qa,qa_factoid,segðu mér fagið af frægð,social_post,0.9876,0.0008,False
+14378,is-IS,qa,qa_definition,skilgreining á hraða,iot_hue_lightoff,0.6485,0.0274,False
+14382,is-IS,qa,qa_factoid,hversu há er empire state byggingin,qa_factoid,0.9953,0.9953,True
+14395,is-IS,qa,qa_factoid,hver er dýpsti punktur jarðar,qa_factoid,0.9637,0.9637,True
+14414,is-IS,qa,qa_definition,lýsa harða diskinum í tölvunni,play_music,0.7671,0.0003,False
+14417,is-IS,qa,qa_factoid,hvaða haf snertir meginlandið okkar,iot_hue_lightoff,0.3913,0.1923,False
+14419,is-IS,qa,qa_factoid,er angeline með nýja bíómynd á þessu ári,play_podcasts,0.5132,0.0115,False
+14429,is-IS,qa,qa_definition,hvað er caftan,qa_factoid,1.0,0.0,False
+14440,is-IS,qa,qa_factoid,hver er höfuðborg mexíkó,qa_factoid,0.6669,0.6669,True
+14442,is-IS,qa,qa_factoid,hvar eru vestmannaeyjar,iot_hue_lightoff,0.7459,0.0551,False
+14444,is-IS,qa,qa_factoid,hvað var fyrsta bíómynd jóns gnarrs,play_podcasts,0.3905,0.1055,False
+14449,is-IS,qa,qa_factoid,á selma björnsdóttir nýtt barn,social_post,0.9463,0.0038,False
+14457,is-IS,qa,qa_factoid,finna leið,qa_factoid,0.9977,0.9977,True
+14465,is-IS,transport,transport_query,leiðbeiningar í húsdýragarðinn,lists_remove,0.2375,0.0383,False
+14490,is-IS,qa,qa_factoid,hvenær var þjóðleikhúsið byggt,weather_query,0.999,0.0,False
+14498,is-IS,qa,qa_definition,gefðu mér smáatriðin um snjallsíma,iot_hue_lightoff,0.9273,0.012,False
+14504,is-IS,qa,qa_factoid,olly hvað mætti mahatma gandhi á marga fundi,social_post,0.9989,0.0001,False
+14505,is-IS,qa,qa_factoid,hver er núverandi forsætisráðherra rússlands,qa_factoid,0.9997,0.9997,True
+14508,is-IS,qa,qa_factoid,taktu saman helstu atriði úr nýjustu bók george r.r. martin ís og eldur,news_query,0.632,0.0134,False
+14509,is-IS,qa,qa_factoid,hvar fæddist jón jónsson,email_sendemail,0.9951,0.0006,False
+14539,is-IS,qa,qa_factoid,findu landfræðilegar upplýsingar fyrir þennan stað,qa_factoid,0.5101,0.5101,True
+14545,is-IS,qa,qa_factoid,segðu mér frá staðsetningu indlands,qa_factoid,0.9977,0.9977,True
+14567,is-IS,qa,qa_factoid,hvað er stærsta virka eldfjall jarðar,qa_factoid,0.6566,0.6566,True
+14585,is-IS,qa,qa_factoid,hversu lengi tekur það að ferðast til íslands frá danmörk,qa_factoid,0.6434,0.6434,True
+14591,is-IS,qa,qa_definition,gefðu mér lýsingu yfir sjónvarpsrás,qa_definition,0.7173,0.7173,True
+14592,is-IS,qa,qa_definition,gefðu mér lýsinguna á snjallsíma rás,qa_factoid,0.827,0.1724,False
+14597,is-IS,qa,qa_factoid,hver er íbúafjöldi reykjavíkur,qa_factoid,0.9795,0.9795,True
+14601,is-IS,qa,qa_factoid,hverstu mörg ár var abraham lincoln forseti bandaríkjanna,qa_factoid,0.9781,0.9781,True
+14605,is-IS,qa,qa_factoid,fór selma björnsdóttir frá birni braga,social_post,0.9991,0.0003,False
+14608,is-IS,qa,qa_factoid,hvaða nýja mynd er edda björgvinsdóttir að vinna að,social_post,0.9895,0.0009,False
+14622,is-IS,qa,qa_definition,lýsa hvað kúla er,qa_definition,0.8891,0.8891,True
+14648,is-IS,cooking,cooking_recipe,uppskrift takk,email_sendemail,1.0,0.0,False
+14653,is-IS,qa,qa_factoid,hver er íbúafjöldi rússlands,qa_factoid,0.9999,0.9999,True
+14661,is-IS,qa,qa_factoid,hvað er fæðingarár ólafs ragnars grímssonar,qa_factoid,0.801,0.801,True
+14668,is-IS,qa,qa_definition,lýsa atiði xy,iot_hue_lightoff,0.9608,0.0001,False
+14683,is-IS,qa,qa_factoid,hvað er áhugamál jóns gnarrs,cooking_recipe,0.9903,0.0007,False
+14684,is-IS,qa,qa_factoid,hver er forsætisráðherra rússlands,qa_factoid,1.0,1.0,True
+14690,is-IS,qa,qa_definition,ok google hvað er forseti,qa_factoid,0.9994,0.0006,False
+14700,is-IS,qa,qa_definition,hvað er nákvæmlega í plast tannfyllingu,qa_definition,0.8815,0.8815,True
+14701,is-IS,qa,qa_definition,lýstu hæ gosa spila leiknum,cooking_recipe,0.9831,0.0001,False
+14705,is-IS,qa,qa_factoid,allt í lagi google hvar býr aníta briem,social_post,0.517,0.4457,False
+14706,is-IS,qa,qa_factoid,hvar býr anita briem,iot_hue_lightoff,0.8707,0.1172,False
+14746,is-IS,qa,qa_factoid,hver er höfuðborg íslands,social_post,0.9998,0.0001,False
+14761,is-IS,qa,qa_definition,gefðu mér skilgreiningu á orðinu predika,qa_definition,0.7244,0.7244,True
+14767,is-IS,qa,qa_definition,hvernig myndirðu lýsa bolta,qa_factoid,0.7438,0.0013,False
+14770,is-IS,qa,qa_factoid,segðu mér hvað er stærsta hafið í heiminum,qa_definition,0.5776,0.3811,False
+14787,is-IS,qa,qa_factoid,hver er munurinn á milli rómverska og gríska dagatalsins,social_post,0.5917,0.0422,False
+14791,is-IS,qa,qa_factoid,hvernig er samsetning stólsins,qa_factoid,0.5726,0.5726,True
+14794,is-IS,qa,qa_factoid,hvað er bubba morthens uppáhalds ferð,qa_definition,0.9379,0.0595,False
+14822,is-IS,qa,qa_factoid,að bera saman í fólki,qa_factoid,0.7989,0.7989,True
+14838,is-IS,qa,qa_factoid,hvað er hlutlaus þéttleika sía og myndi ég vilja hallandi eða beina einnig hver væri flottari á milli skrúfunnar á einni og ferkantaðra,qa_factoid,0.7254,0.7254,True
+14857,is-IS,qa,qa_definition,getur þú útskýrt fyrir mér hvað uppskrúfaður þýðir takk,qa_factoid,0.2109,0.0369,False
+14877,is-IS,qa,qa_factoid,hvað er veðurfarið á þessu svæði,weather_query,0.9698,0.0002,False
+14879,is-IS,qa,qa_definition,merking,datetime_query,0.6422,0.0069,False
+14884,is-IS,qa,qa_factoid,hvaða fylki í bandaríkjunum fær minnst af hvirfilbylum,iot_hue_lightoff,0.9029,0.0966,False
+14889,is-IS,qa,qa_definition,vinsamlegast lýstu þessum hlut fyrir mér,social_post,0.4982,0.0049,False
+14891,is-IS,qa,qa_factoid,á hvaða sviði skarar viðkomandi framúr,qa_factoid,1.0,1.0,True
+14912,is-IS,qa,qa_factoid,hvar fæddist ólafur ragnar grímsson forseti,qa_factoid,0.9724,0.9724,True
+14917,is-IS,qa,qa_factoid,hvenær kemur næsta plata jóns jónssonar út,datetime_query,0.7217,0.017,False
+14933,is-IS,qa,qa_factoid,segðu mér upplýsingar um landafræði indlands,recommendation_events,0.9533,0.0016,False
+14939,is-IS,qa,qa_factoid,ég þarf að fá upplýsingar um ingvar sigurðsson vinsamlegast aðstoða,recommendation_events,0.823,0.0532,False
+14981,is-IS,qa,qa_definition,lýstu iphone sjö,qa_factoid,1.0,0.0,False
+14994,is-IS,qa,qa_factoid,hver er næsta mynd ingvars eggerts sigurðssonar,social_post,0.9999,0.0,False
+14995,is-IS,qa,qa_definition,hvað þýðir ástand,qa_definition,0.9954,0.9954,True
+15020,is-IS,qa,qa_factoid,hvað er ingvar eggert sigurðsson gamall,qa_factoid,0.9516,0.9516,True
+15039,is-IS,qa,qa_factoid,olly hvar byrja bláfjöll,iot_hue_lightoff,0.8781,0.0057,False
+15055,is-IS,qa,qa_factoid,hvort er kaldara á norður eða suður pólnum,iot_hue_lightoff,0.4983,0.0065,False
+15056,is-IS,qa,qa_factoid,hversu gömul er anita briem,iot_hue_lightoff,0.305,0.1036,False
+15062,is-IS,qa,qa_factoid,upplýsingar um lisa ann takk,email_sendemail,1.0,0.0,False
+15075,is-IS,qa,qa_factoid,olly hvar settust fyrstu ameríkanarnir að,social_post,0.995,0.0038,False
+15092,is-IS,qa,qa_definition,finndu lýsingu á samsung sjónvarpi,qa_factoid,0.9991,0.0004,False
+15094,is-IS,qa,qa_factoid,finna hvað búa margir á egilsstöðum í suður-múlasýslu,social_post,0.7259,0.0006,False
+15095,is-IS,qa,qa_factoid,á hvaða svæði er akureyri staðsett,qa_factoid,0.8536,0.8536,True
+15127,is-IS,qa,qa_definition,skilgreindu hátalara,qa_factoid,0.9156,0.0052,False
+15155,is-IS,social,social_post,geturðu hlaðað á facebook reikninginn minn nýjustu sjálfunni sem ég tók,email_sendemail,1.0,0.0,False
+15166,is-IS,social,social_post,pósta fyrirtækinu mínu á twitter,social_post,0.9999,0.9999,True
+15177,is-IS,social,social_post,vinsamlegast endur tísta þessum pósti á twitter,email_sendemail,0.6861,0.2572,False
+15185,is-IS,social,social_post,afmælis kveðjur,email_sendemail,0.6118,0.0103,False
+15186,is-IS,social,social_post,brúðkaups óskir,social_post,0.9136,0.9136,True
+15187,is-IS,social,social_post,deila færslu vinar,weather_query,0.7142,0.0002,False
+15197,is-IS,social,social_post,birtu heimsókn mína til japan á twitter,social_post,0.9717,0.9717,True
+15208,is-IS,social,social_post,póstaðu hey allir á facebook,social_post,0.9999,0.9999,True
+15213,is-IS,news,news_query,hvað er vinsælt núna,social_post,0.8395,0.0006,False
+15214,is-IS,news,news_query,hvað er í fréttum í dag,weather_query,0.9965,0.0001,False
+15216,is-IS,social,social_post,tístu einhverju fyrir mig,qa_factoid,0.9904,0.0001,False
+15231,is-IS,social,social_post,settu myndir af ferðinni minni til akureyrar á instagram,social_post,0.9991,0.9991,True
+15271,is-IS,social,social_post,póstaðu þessu á mitt facebook l. o. l.,social_post,1.0,1.0,True
+15275,is-IS,social,social_post,póstaðu ég er glaður á facebook,social_post,0.9995,0.9995,True
+15276,is-IS,social,social_post,pósta nýjan status á facebook sem segir að ég er að njóta góða veðursins,social_post,0.9992,0.9992,True
+15289,is-IS,social,social_post,póstaðu skilaboðunum núna,email_sendemail,0.9972,0.0024,False
+15305,is-IS,calendar,calendar_query,hef ég einhverjar tilkynningar frá samfélagsmiðlum,social_post,0.9402,0.0007,False
+15318,is-IS,social,social_post,ég vil þakka öllum fyrir afmælis kveðjurnar,email_sendemail,0.8527,0.0018,False
+15337,is-IS,social,social_post,póstaðu þessu myndbandi á facebook,social_post,1.0,1.0,True
+15350,is-IS,social,social_post,ég er ósáttur með costco vinsamlegast hjálpaðu mér,social_post,0.9512,0.9512,True
+15358,is-IS,social,social_post,olly tístu til apple að iphone virkar ekki,qa_factoid,0.8857,0.0034,False
+15359,is-IS,social,social_post,opnaðu tíst til apple að batteríið í iphoneinum mínu er alltaf tómt,iot_hue_lightoff,0.519,0.069,False
+15364,is-IS,social,social_post,geturðu látið amazon vita að þetta nýja símahulstur er rusl,qa_factoid,0.9997,0.0,False
+15382,is-IS,social,social_post,geturðu haft samband við samsung og sagt að það sé kviknað í þvottavélinni minni,email_sendemail,1.0,0.0,False
+15387,is-IS,social,social_post,tístaðu núverandi staðsetningu minni,qa_factoid,0.4846,0.0232,False
+15399,is-IS,social,social_post,áframsendu kvörtun til símans við net vandamálum,email_sendemail,0.9922,0.0,False
+15401,is-IS,social,social_post,opna twitter opna skilaboð,iot_hue_lightoff,0.7952,0.0872,False
+15402,is-IS,social,social_post,tístaðu að varan sökkar,weather_query,0.5644,0.001,False
+15409,is-IS,social,social_post,opnaðu twitter og skrifaðu kvörtunina mína og póstaðu til hjá þjónustuver,social_post,0.9972,0.9972,True
+15413,is-IS,social,social_post,gefðu mér samband við manneskju strax,email_sendemail,0.9649,0.0342,False
+15444,is-IS,social,social_post,tveir þumlar niður til nova,iot_hue_lightoff,0.9928,0.0004,False
+15448,is-IS,social,social_post,sentu tíst um hljóðstillinga vandamál hjá sony,iot_hue_lightoff,0.6424,0.0182,False
+15454,is-IS,social,social_post,tístaðu hjá icelandair ég er reiður þið týnduð töskunum mínum,social_post,0.833,0.833,True
+15456,is-IS,social,social_post,ég vil senda tíst á icelandair um að ég er reiður þið týnduð töskunum mínum,email_sendemail,0.9884,0.0076,False
+15457,is-IS,social,social_post,það var vandamál með hamborgarann minn geturðu tístað hamborgarafabrikkunni,qa_factoid,0.5599,0.1293,False
+15459,is-IS,social,social_post,senda twitter kvörtun,qa_factoid,1.0,0.0,False
+15464,is-IS,social,social_post,ég fékk vöruna ekki á réttum tíma senda tíst á heimkaup,email_sendemail,0.9999,0.0,False
+15467,is-IS,social,social_post,segðu símanum að ég hata hann,qa_factoid,0.9984,0.0003,False
+15472,is-IS,social,social_post,tístu kvörtun fyrir bókabúð á netinu,cooking_recipe,0.8701,0.001,False
+15487,is-IS,social,social_post,tístu granda um hreinlætið í stöðinni hjá þeim,lists_remove,0.302,0.0497,False
+15488,is-IS,social,social_post,vinsamlegast tístu hjá flatey pizza að ég sé búin að bíða eftir pöntuninni minni lengi ekki glöð,cooking_recipe,0.9957,0.0002,False
+15503,is-IS,social,social_post,nýtt tíst á þjónustuver,recommendation_events,0.8811,0.0664,False
+15508,is-IS,social,social_post,siri opnaðu twitter tístaðu að pokus sökkar,social_post,0.9576,0.9576,True
+15518,is-IS,social,social_post,senda kvörtun með tísti á jack and jones,qa_factoid,0.7691,0.0002,False
+15532,is-IS,social,social_post,olly tístaðu til bónus og segðu þeim að þjónusta þeirra er hræðileg,email_sendemail,0.9981,0.0002,False
+15546,is-IS,social,social_post,tístu um kalda pítsu á pizzunni,cooking_recipe,0.9915,0.0005,False
+15548,is-IS,social,social_post,tístu farsíma kvörtun á samsung,qa_factoid,0.9966,0.0002,False
+15553,is-IS,social,social_post,vinsamlegast neikvætt svar tíst til daikin service,qa_factoid,0.8365,0.0005,False
+15554,is-IS,social,social_post,vinsamlegast tístu á ejs um seinkun á þjónustu,recommendation_events,0.3982,0.0539,False
+15556,is-IS,social,social_post,við skulum tísta kvörtun,qa_factoid,0.9747,0.0003,False
+15557,is-IS,social,social_post,ég þarf að fá þig til að tísta kvörtun,iot_hue_lightoff,0.8113,0.0006,False
+15560,is-IS,social,social_post,pósta á facebook að ég er svangur,social_post,1.0,1.0,True
+15565,is-IS,social,social_post,geturðu látið icelandair vita að ég ætla aldrei að nota þá aftur,qa_factoid,0.837,0.1435,False
+15587,is-IS,social,social_post,opna gallerí pósta ljósmynd nafn,social_post,0.9998,0.9998,True
+15592,is-IS,social,social_post,tístu kvörtun hjá comcast,qa_factoid,0.7533,0.0986,False
+15593,is-IS,social,social_post,tístu kvörtun á bubba morthens,qa_factoid,0.5851,0.2716,False
+15598,is-IS,social,social_post,opna fyrirtækjanafn og finna kvartanir,qa_factoid,0.9999,0.0,False
+15610,is-IS,social,social_post,póstaðu tísti sem segir eftirfarandi mjög léleg eftirfylgni af a. b. c. hjálparstarfi á minn aðgang,email_sendemail,0.4367,0.2704,False
+15618,is-IS,social,social_post,tístaðu sjóvá og segðu þeim að þeir sökka,social_post,0.8088,0.8088,True
+15626,is-IS,social,social_post,vinsamlegast tístaðu kvörtun til nova að þeir eru með lélega þjónustu við viðskiptavini,qa_factoid,0.6939,0.013,False
+15634,is-IS,social,social_post,ok google tístu hversu mikið fífl eigandinn er á bensínstöðinni,qa_factoid,0.9806,0.004,False
+15635,is-IS,social,social_post,tístu subway niðrí bæ er með slæma þjónustu,qa_factoid,0.8493,0.0103,False
+15647,is-IS,social,social_post,tístu kvörtun til allra,qa_factoid,1.0,0.0,False
+15651,is-IS,social,social_post,sendu skýrslu til þjónustuvers,email_sendemail,1.0,0.0,False
+15652,is-IS,social,social_post,hjálp til að kvarta til viðskiptaþjónustu,qa_factoid,0.9785,0.0005,False
+15655,is-IS,social,social_post,tístu til þjónustuvers google nýji nexus síminn hætti að virka hjálp takk,qa_factoid,0.7501,0.0071,False
+15656,is-IS,social,social_post,tístaðu skilaboð á heimkaup að ég er enn að bíða eftir sendingunni,email_sendemail,1.0,0.0,False
+15661,is-IS,social,social_post,pósta nýjustu færslu minni á twitter hjá n. s. a.,social_post,1.0,1.0,True
+15670,is-IS,social,social_post,senda kvörtunar tíst,qa_factoid,1.0,0.0,False
+15672,is-IS,social,social_post,tístaðu á apple um ipone án kvittunar sem ég sendi í viðgerð í síðustu viku,qa_factoid,0.9942,0.0002,False
+15676,is-IS,social,social_post,vinsamlega tístu kvörtun yfir þjónustu til olive garden,cooking_recipe,0.9226,0.0006,False
+15686,is-IS,social,social_post,halló hluturinn minn sem ég keypti af einhverjum er bilaður,social_post,0.5059,0.5059,True
+15693,is-IS,social,social_post,tístu að það var skordýr í súkkulaði pakkningunni,cooking_recipe,0.3038,0.023,False
+15700,is-IS,social,social_post,útrunnar vörur á nýlegum mörkuðum,qa_factoid,0.1267,0.0456,False
+15703,is-IS,social,social_post,tístaðu á herrafatalagerinn að stærðir klárast of fljótt hjá þeim,social_post,0.4613,0.4613,True
+15706,is-IS,social,social_post,tístu á,qa_factoid,0.6478,0.0004,False
+15707,is-IS,social,social_post,sendum tíst,email_sendemail,1.0,0.0,False
+15708,is-IS,social,social_post,setja inn kvörtun um þjónustu,qa_factoid,0.999,0.0001,False
+15721,is-IS,social,social_post,tístaðu ógeðslegu andliti um metró,qa_factoid,0.3913,0.1521,False
+15723,is-IS,social,social_post,settu statusinn ég er hamingjusamur á facebook,social_post,0.9998,0.9998,True
+15731,is-IS,social,social_post,olly tístaðu skilaboð til símans og segðu þeim af hverju þjónustan mín er slæm,email_sendemail,1.0,0.0,False
+15732,is-IS,social,social_post,tístaðu á samsung og segðu þeim að hætta að drepa fólk með varningi sínum,social_post,0.7574,0.7574,True
+15736,is-IS,social,social_post,setja inn neikvæð ummæli um fyrirtækið,play_podcasts,0.3283,0.2626,False
+15756,is-IS,email,email_sendemail,vinsamlegast sendu tölvupóst til liðsins míns,qa_factoid,0.904,0.0142,False
+15763,is-IS,email,email_query,vinsamlegast athugaðu um nýja tölvupósta,social_post,0.9016,0.0003,False
+15765,is-IS,email,email_sendemail,svaraðu pósti pawel's,email_sendemail,1.0,1.0,True
+15777,is-IS,email,email_query,segðu mér ef ég hef fengið nýja tölvupósta,social_post,0.5335,0.0084,False
+15785,is-IS,email,email_query,er eitthvað nýtt í innhólfinu mínu,iot_hue_lightoff,0.9961,0.0001,False
+15789,is-IS,email,email_query,ella hef ég einhverja nýja tölvupósta,play_podcasts,0.5302,0.0021,False
+15792,is-IS,calendar,calendar_query,hvern er ég að fara hitta í dag,qa_factoid,0.8685,0.0026,False
+15796,is-IS,email,email_sendemail,senda tölvupóst til klöru,email_sendemail,1.0,1.0,True
+15802,is-IS,email,email_sendemail,svara tölvupósti frá jóhanni það ég mun ekki koma í kvöld,iot_hue_lightoff,0.5655,0.0053,False
+15809,is-IS,email,email_query,hefur róbert sent mér tölvupóst,social_post,0.999,0.0,False
+15825,is-IS,email,email_sendemail,svaraðu pabba og skrifaðu að ég verði sein,social_post,0.9928,0.0002,False
+15828,is-IS,email,email_sendemail,hér er nýtt netfang sem á að bæta við tengiliði,lists_remove,0.3006,0.0149,False
+15829,is-IS,email,email_sendemail,farðu í tengiliði og bættu við nýju netfangi,qa_factoid,0.5493,0.0051,False
+15839,is-IS,email,email_query,umræðuefni,qa_factoid,0.999,0.0,False
+15841,is-IS,email,email_sendemail,búa til nýjan tölvupóst til ragnars,iot_hue_lightoff,0.4628,0.0025,False
+15845,is-IS,email,email_sendemail,hvernig hefur það komið til okkar,qa_factoid,0.9863,0.0002,False
+15847,is-IS,email,email_sendemail,hvernig getum við fengið lánstraust,qa_factoid,0.4007,0.0029,False
+15849,is-IS,email,email_sendemail,sendu tölvupóst til yfirmanns míns,email_sendemail,1.0,1.0,True
+15857,is-IS,email,email_sendemail,vinsamlegast sendu á nýja tölvupóstinn á tengiliðalistanum,email_sendemail,1.0,1.0,True
+15862,is-IS,email,email_query,athuga tölvupóst fyrir mótteknum pósti frá mömmu,email_sendemail,1.0,0.0,False
+15880,is-IS,email,email_query,vinsamlegast athugaðu tölvupóstinn minn,social_post,0.9416,0.0028,False
+15890,is-IS,email,email_query,athugaðu hvort ég sé með einhvern nýjan tölvupóst frá pabba mínum,social_post,0.7776,0.0006,False
+15904,is-IS,email,email_query,skoðaðu tölvupóstana mína og segðu mér um hvað þeir eru,recommendation_events,0.3549,0.0565,False
+15906,is-IS,email,email_sendemail,svara takk fyrir til jóns,email_sendemail,0.3216,0.3216,True
+15911,is-IS,email,email_sendemail,semja tölvupóst til sigrúnar,qa_factoid,0.9949,0.0001,False
+15933,is-IS,email,email_query,hvaða nýja tölvupósta er ég með,social_post,0.798,0.0056,False
+15942,is-IS,email,email_sendemail,sendu þennan tölvupóst til þess að svara nýjustu tölvupóstum,email_sendemail,0.944,0.944,True
+15950,is-IS,email,email_sendemail,svaraðu tölvupóstinum frá fannari,qa_factoid,0.7553,0.0064,False
+15957,is-IS,email,email_sendemail,sendu póst á lísu og láttu hana vita að við erum á leiðinni,email_sendemail,1.0,1.0,True
+15963,is-IS,email,email_query,er ég með einhverja nýja tölvupósta frá kjartani,social_post,0.4973,0.0137,False
+15966,is-IS,email,email_query,sendu svar til baka ef það er mjög mikilvægt,email_sendemail,0.9998,0.0,False
+15968,is-IS,email,email_query,ef það er frá mjög þekktum stað merktu það sem mikilvægt,qa_factoid,0.7142,0.053,False
+15970,is-IS,email,email_query,hvert var efnistakið á seinasta pósti frá mömmu,email_sendemail,0.8234,0.0009,False
+15971,is-IS,email,email_query,hvað var síðasti tölvupósturinn frá vinnunni,qa_factoid,0.9607,0.0012,False
+15994,is-IS,email,email_sendemail,sendu tölvupóst tl jóns sem spyr hann hvaða tími hentar honum fyrir fundinn,email_sendemail,1.0,1.0,True
+15995,is-IS,email,email_sendemail,sendu katrínu tölvupóst um fjármálafundinn,email_sendemail,0.9999,0.9999,True
+15998,is-IS,email,email_query,athugaðu mína tölvupósta eftir einhverju frá nafni,social_post,0.977,0.0007,False
+16002,is-IS,email,email_query,athuga nýja tölvupósta,social_post,0.9867,0.0004,False
+16005,is-IS,email,email_sendemail,sendu tölvupóst á josef hjá simnet punktur is,email_sendemail,1.0,1.0,True
+16010,is-IS,email,email_query,segðu mér ef að ég hef einhver ný skilaboð í mínu innhólfi,email_sendemail,0.7134,0.0295,False
+16024,is-IS,email,email_sendemail,sendu tölvupóst til robba sem segir að ég sé upptekinn á morgun,email_sendemail,1.0,1.0,True
+16028,is-IS,email,email_sendemail,hey siri byrjaðu tölvupóst á vinnufélaga,social_post,0.6553,0.0143,False
+16029,is-IS,email,email_sendemail,vinsamlegast semdu tölvupóst til vinnufélaga,social_post,0.6574,0.0127,False
+16032,is-IS,email,email_sendemail,sendu tölvupóst á söndru varðandi fundinn á morgun,email_sendemail,1.0,1.0,True
+16038,is-IS,email,email_query,hey hefur jón sent mér einhvern tölvupóst nýlega,social_post,0.9979,0.0,False
+16045,is-IS,email,email_sendemail,sendu póst á vodafone fyrir opnunartíma skrifstofu,email_sendemail,1.0,1.0,True
+16048,is-IS,email,email_query,sýndu mér nýlega tölvupósta,social_post,0.9989,0.0,False
+16049,is-IS,email,email_sendemail,ég vil senda tölvupóst á fjölskyldu mína geturðu hjálpað mér,social_post,0.8973,0.0711,False
+16050,is-IS,email,email_query,athuga gmail,email_sendemail,0.9851,0.0149,False
+16052,is-IS,email,email_query,athuga outlook,iot_hue_lightoff,0.8188,0.0006,False
+16056,is-IS,email,email_sendemail,svara tölvupósti,qa_factoid,0.5322,0.0039,False
+16061,is-IS,email,email_query,hef ég fengið einhvern póst á síðustu tíu mínútum,social_post,0.9996,0.0,False
+16072,is-IS,email,email_sendemail,senda tölvupóst á yfirmann minn að ég verð sein í dag útaf neyðartilviki and biðstu afsökunar á að missa af fundinum,email_sendemail,1.0,1.0,True
+16075,is-IS,email,email_query,sýna nýlega tölvupósta frá jóni,social_post,0.9996,0.0,False
+16082,is-IS,email,email_sendemail,sendu póst til péturs og spurðu hann hvernig hann hafi það núna er eitthvað sem ég get gert til að hjálpa honum,email_sendemail,1.0,1.0,True
+16089,is-IS,email,email_query,héf ég fengið einhverja nýja tölvupósta síðustu tíu mínútur,qa_factoid,0.1313,0.0308,False
+16096,is-IS,email,email_query,hefur arna sent mér einhverja nýja tölvupósta,social_post,0.7402,0.0001,False
+16098,is-IS,email,email_query,athuga ólesna tölvupósta frá örnu,iot_hue_lightoff,0.5637,0.0009,False
+16100,is-IS,email,email_query,vinsamlegast athugaðu tölvupóst sem inniheldur atvinnuauglýsingar,social_post,0.5195,0.0076,False
+16103,is-IS,email,email_sendemail,sendu tölvupóst til bróður míns sem segir brúðkaupsafmæli,email_sendemail,1.0,1.0,True
+16120,is-IS,email,email_sendemail,aðstoð á að vera send aðeins til jónu,social_post,0.992,0.0002,False
+16131,is-IS,email,email_sendemail,þessu nýja netfangi á að vera bætt við tengiliðinn minn,qa_factoid,0.9218,0.0032,False
+16145,is-IS,email,email_query,sýndu nýlegustu tölvupósta,social_post,0.9836,0.0005,False
+16146,is-IS,news,news_query,láttu mig fá nýjustu uppfærslur,play_music,0.9981,0.0,False
+16148,is-IS,email,email_sendemail,svara fljótt jóa vinsamlegast sendu póst,email_sendemail,1.0,1.0,True
+16151,is-IS,email,email_query,athugaðu fundar áætlun í póstinum í dag,social_post,0.6647,0.003,False
+16162,is-IS,email,email_sendemail,senda svar,email_sendemail,1.0,1.0,True
+16163,is-IS,email,email_query,hver sendi mér póst í gær,social_post,1.0,0.0,False
+16165,is-IS,email,email_query,svaraði karlotta,social_post,0.9275,0.0001,False
+16166,is-IS,email,email_sendemail,geturðu svarað karlottu og sagt að ég verði upptekin ið verkefnið næstu þrjár vikur,email_sendemail,0.7712,0.7712,True
+16168,is-IS,email,email_query,hafa einhverjir tölvupóstar komið á síðustu fimmtán mínútum,social_post,0.9036,0.0036,False
+16170,is-IS,email,email_query,opna innhólf til að skoða ólesinn póst,social_post,0.8695,0.0002,False
+16178,is-IS,email,email_query,einhver póstur frá heimkaup í dag,email_sendemail,0.3673,0.1413,False
+16183,is-IS,email,email_query,athufa tölvupóst um vinnuna mína,social_post,0.9992,0.0,False
+16201,is-IS,email,email_sendemail,uppfærðu nýjan tölvupóst fyrir björn og sendu skilaboð núna,email_sendemail,1.0,1.0,True
+16221,is-IS,email,email_sendemail,sækja netfang kötu og skrifa að ég láti hana vita,email_sendemail,1.0,1.0,True
+16245,is-IS,email,email_sendemail,senda tölvupóst á joi att joi punktur is,email_sendemail,0.6339,0.6339,True
+16248,is-IS,email,email_query,athugaðu póstinn minn,social_post,0.9999,0.0,False
+16263,is-IS,email,email_query,fékk ég einhverja nýja tölvupósta frá róberti,social_post,0.9101,0.0002,False
+16266,is-IS,email,email_sendemail,skrifaðu póst til fjölskyldunnar sem segir ég elska ykkur öll,social_post,0.9998,0.0,False
+16271,is-IS,email,email_query,endurnýjaðu innhólfið mitt og upplýstu mig um nýja tölvupósta,iot_hue_lightoff,0.9902,0.0004,False
+16275,is-IS,email,email_query,hefja könnun fyrir nýjan tölvupóst,qa_factoid,0.9957,0.0001,False
+16276,is-IS,email,email_query,er ég með einhverja nýja tölvupósta,lists_remove,0.3674,0.0137,False
+16280,is-IS,email,email_sendemail,vinsamlegast sendu tölvupóst til kristínar sem er á fjölskyldu og vina listanum mínum,social_post,0.9999,0.0,False
+16282,is-IS,email,email_sendemail,sendu póst á klöru aðstoðarkonu um að afbóka allar tímabókanir á morgun,email_sendemail,1.0,1.0,True
+16296,is-IS,email,email_sendemail,sendu tölvupóst á mömmu um að afmælis partý viðars er á sunnudag,email_sendemail,1.0,1.0,True
+16297,is-IS,email,email_sendemail,senda tölvupóst á jóa sem segir takk,email_sendemail,1.0,1.0,True
+16314,is-IS,email,email_sendemail,senda tölvupóst til margrétar,email_sendemail,1.0,1.0,True
+16317,is-IS,email,email_query,fékk ég nýja tölvupósta frá söru,social_post,0.8056,0.0032,False
+16318,is-IS,email,email_sendemail,svara tölvupóst,iot_hue_lightoff,0.7108,0.0126,False
+16320,is-IS,email,email_sendemail,ég vil svara tölvupósti bubba jónssyni,social_post,0.8105,0.0064,False
+16353,is-IS,email,email_query,athuga með tölvupósta frá stefáni,social_post,0.7937,0.002,False
+16354,is-IS,email,email_query,athugaðu tölvupósta frá vinnuveitanda mínum,qa_factoid,0.319,0.0266,False
+16356,is-IS,email,email_query,sendi ég tómas tölvupóst með efnið byssueftirlit,email_sendemail,0.9764,0.0008,False
+16357,is-IS,email,email_query,er tómas búin að senta mér póst um skotfæri,social_post,0.9999,0.0,False
+16361,is-IS,email,email_query,hef ég fengið einhverja nýja tölvupósta síðustu klukkustund,social_post,0.4492,0.0228,False
+16373,is-IS,email,email_query,hef ég fengið einhverja tölvupósta með rakningarnúmeri,qa_factoid,0.3079,0.0271,False
+16375,is-IS,email,email_sendemail,semja tölvupóst til bubba,social_post,0.5216,0.0117,False
+16376,is-IS,email,email_sendemail,alexa vinsamlegast senda tölvupóst til mömmu,email_sendemail,1.0,1.0,True
+16377,is-IS,email,email_sendemail,senda mömmu tölvupóst núna,email_sendemail,1.0,1.0,True
+16384,is-IS,email,email_query,hey hef ég einhverja nýja tölvupósta,social_post,0.6745,0.0025,False
+16385,is-IS,email,email_query,vinsamlegast lestu nýja tölvupósta,social_post,0.8962,0.0012,False
+16398,is-IS,email,email_sendemail,sendu tölvupóst til jóa,email_sendemail,1.0,1.0,True
+16399,is-IS,email,email_query,hef ég fengið einhvern nýjan tölvupóst,social_post,0.9682,0.0016,False
+16401,is-IS,email,email_sendemail,senda tölvupóst til dönu hey hvað ertu að gera í dag,email_sendemail,1.0,1.0,True
+16402,is-IS,email,email_sendemail,senda tölvupóst til dönu plön dagsins,email_sendemail,1.0,1.0,True
+16406,is-IS,email,email_sendemail,alexa byrjaði tölvupóst,qa_factoid,0.8717,0.001,False
+16410,is-IS,email,email_sendemail,semja tölvupóst,social_post,0.8365,0.0037,False
+16413,is-IS,email,email_query,sýna alla tölvupósta sem ég hef fengið frá yfirmanni mínum,social_post,0.9684,0.0005,False
+16419,is-IS,email,email_sendemail,vinsamlegast sendu tölvupóst til jón frænda með eftirfarandi já ég get það,email_sendemail,1.0,1.0,True
+16427,is-IS,email,email_query,hversu marga nýja tölvupósta hef ég fengið í dag,social_post,0.9865,0.0004,False
+16430,is-IS,email,email_sendemail,sendu póst á mömmu og pabba og spurðu hvernig þau hafi það,email_sendemail,1.0,1.0,True
+16437,is-IS,email,email_sendemail,sendu þennan póst á vin minn,email_sendemail,0.9415,0.9415,True
+16438,is-IS,email,email_sendemail,ég þarf þennan tölvupóst sendan núna,email_sendemail,1.0,1.0,True
+16446,is-IS,email,email_query,athugaðu hvort það eru nýlegir tölvupóstar frá þessum sendanda,email_sendemail,1.0,0.0,False
+16459,is-IS,email,email_sendemail,ný skilaboð til nyrpostur att simnet punktur is,iot_hue_lightoff,0.9258,0.0126,False
+16461,is-IS,email,email_query,hef ég einhverja ólesna tölvupósta,lists_remove,0.5024,0.0109,False
+16467,is-IS,email,email_query,er ég með einhverja nýja tölvupósta frá tengiliðnum mínum k,lists_remove,0.3957,0.0188,False
+16471,is-IS,email,email_query,athuga tölvupósta frá jóni,social_post,0.9759,0.0003,False
+16496,is-IS,email,email_sendemail,sendu tölvupóst til baka,email_sendemail,1.0,1.0,True
+16501,is-IS,email,email_sendemail,vinsamlegast sendu tölvupóst til díönu vinkonu hvernig hefur þú það,email_sendemail,1.0,1.0,True
+16506,is-IS,email,email_sendemail,bæta við nýju netfangi og senda póst,email_sendemail,0.9998,0.9998,True
+16518,is-IS,email,email_sendemail,bættu við nýjum tölvupósti til júlíu sigurðardóttur,qa_factoid,0.9737,0.0003,False
+16519,is-IS,email,email_sendemail,ég þarf að bæta nýju netfangi við tengiliðina,iot_hue_lightoff,0.7425,0.0028,False
+16535,is-IS,email,email_sendemail,getur þú skrifað tölvupóst til stellu,qa_factoid,0.9336,0.0068,False
+16559,is-IS,email,email_sendemail,sendu svar til magga með svarinu fjögur hundruð og þrjátíu úr tölvupósti hans sem hann sendi í morgun,email_sendemail,1.0,1.0,True
+16560,is-IS,email,email_sendemail,svara tölvupósti yfirmanns míns með orðunum að ég verð komin um fjögur síðdegis,qa_factoid,0.2229,0.0314,False
+16563,is-IS,email,email_query,ella athugaðu tölvupóstinn minn,email_sendemail,0.367,0.0154,False
+16591,is-IS,email,email_sendemail,ég var að fá póst frá bubba ég þarf að svara honum núna strax,email_sendemail,1.0,1.0,True
+16593,is-IS,email,email_sendemail,það þarf að svara síðasta tölvupósti eins hratt og hægt er,transport_query,0.5077,0.0181,False
+16603,is-IS,email,email_query,hvað segir tölvupósturinn sem var sendur fyrir þrjátíu mínútum frá mömmu,qa_factoid,0.63,0.0132,False
+16605,is-IS,email,email_sendemail,skrifaðu og sendu tölvupóst til yfirmanns míns,email_sendemail,1.0,1.0,True
+16609,is-IS,email,email_query,segðu mér ef ég er með einhverja nýja tölvupósta,lists_remove,0.3763,0.0146,False
+16613,is-IS,email,email_sendemail,sendu tölvupóst til yfirmanns sem segir að ég verði sein,email_sendemail,1.0,1.0,True
+16622,is-IS,email,email_sendemail,senda tölvupóst á þennan tengilið,email_sendemail,1.0,1.0,True
+16624,is-IS,email,email_sendemail,ég þarf að láta senda tölvupóst til síminn varðandi mín þjónustu vandamál,email_sendemail,0.9957,0.9957,True
+16627,is-IS,email,email_query,athugaðu nýjustu tölvupósta,play_podcasts,0.6539,0.0012,False
+16630,is-IS,email,email_sendemail,sendu svar við seinasta tölvupóst,email_sendemail,0.9984,0.9984,True
+16642,is-IS,email,email_query,athugaðu póst með eitthvað frá stellu,social_post,0.999,0.0,False
+16648,is-IS,email,email_query,athugaðu tölvupóstana mína fyrir mig,lists_remove,0.4137,0.0106,False
+16652,is-IS,email,email_query,var tölvupósturinn hans bubba með viðhengi,qa_definition,0.9509,0.0016,False
+16662,is-IS,email,email_query,fékk ég einhverja nýja tölvupósta frá danna,social_post,0.9798,0.0001,False
+16666,is-IS,email,email_query,er ég með einhverja tölvupósta,social_post,0.2637,0.025,False
+16668,is-IS,email,email_query,hafa einhver skilaboð komið inn síðan fjögur hundruð í dag,qa_factoid,0.5272,0.0078,False
+16669,is-IS,email,email_query,fékk ég tölvupóst frá pétri,cooking_recipe,0.9917,0.0002,False
+16672,is-IS,email,email_query,hefur björn haft samband,social_post,0.9994,0.0,False
+16677,is-IS,email,email_query,hef ég einhverja nýja tölvupósta í innhólfinu mínu í dag,iot_hue_lightoff,0.6371,0.0056,False
+16698,is-IS,email,email_sendemail,skrifaðu svar við tölvupóst mömmu minnar,social_post,0.4298,0.0758,False
+16701,is-IS,email,email_sendemail,ég vil svara tölvupóst söru,qa_factoid,0.4681,0.0021,False
+16703,is-IS,email,email_sendemail,mig langar að svara nýjasta tölvupóstinum sem ég hef fengið,qa_factoid,0.3985,0.0158,False
+16712,is-IS,email,email_query,er ég með einhverja nýja tölvupósta,lists_remove,0.3674,0.0137,False
+16713,is-IS,email,email_query,athugaðu hvort ég hafi fengið einhverja nýja tölvupósta,qa_factoid,0.933,0.0003,False
+16717,is-IS,email,email_sendemail,værirðu vinsamlegast til í að senda póst til jóns sem segir að ég er í fríi,email_sendemail,1.0,1.0,True
+16719,is-IS,email,email_query,láta mig vita um einhverja nýja tölvupósta sem ég hef fengið,social_post,0.9326,0.0008,False
+16729,is-IS,email,email_sendemail,svaraðu póstinum mínum frá bjarna og segðu þeim að ég sé þau á morgun,email_sendemail,1.0,1.0,True
+16730,is-IS,email,email_query,vinsamlegast athugaðu nýjan tölvupóst frá andra,social_post,0.7726,0.0008,False
+16733,is-IS,email,email_query,sýndu mér nýjustu tölvupóstana frá heimkaup,email_sendemail,0.7574,0.0003,False
+16749,is-IS,email,email_query,eru einhverjir nýjir tölvupóstar til mín í dag,lists_remove,0.5758,0.013,False
+16754,is-IS,email,email_sendemail,fyrirskipa tölvupóst,social_post,0.5303,0.0064,False
+16758,is-IS,email,email_query,einhverjir nýir tölvupóstar síðan síðasta skipti,lists_remove,0.7749,0.0026,False
+16763,is-IS,email,email_query,tölvupóstar á síðustu tíu mínútum,lists_remove,0.5524,0.0141,False
+16765,is-IS,email,email_query,hvenær er viðtalstíminn úr tölvupóstinum í gær,weather_query,0.1753,0.0417,False
+16766,is-IS,email,email_query,athuga nýjan tölvupóst,social_post,0.9972,0.0001,False
+16772,is-IS,email,email_query,sýndu alla tölvupóstana varðandi brotið,lists_remove,0.5036,0.0112,False
+16780,is-IS,email,email_sendemail,sendu tölvupóst til guðmundurjon att simnet punktur is,email_sendemail,1.0,1.0,True
+16791,is-IS,email,email_sendemail,skrifaðu nýjan tölvupóst en ég fékk nýtt netfang sendu í þetta skiptið á bragi hjá daemi punktur is,email_sendemail,0.0707,0.0707,True
+16799,is-IS,email,email_query,hef ég fengið einhverja tölvupósta eftir hádegi,social_post,0.386,0.015,False
+16801,is-IS,email,email_query,hefur cassie sent mér einhvern póst um tom,social_post,0.9997,0.0,False
+16813,is-IS,email,email_query,píptu þegar ég fæ tölvupóst frá jóni,qa_factoid,0.2776,0.0152,False
+16814,is-IS,email,email_query,skoða tölvupóstinn,transport_query,0.7376,0.0026,False
+16838,is-IS,email,email_sendemail,geturðu sent mér tölvupóstinn á nýja netfangið,transport_query,0.7014,0.011,False
+16851,is-IS,email,email_query,senda tilkynningar,email_sendemail,0.9992,0.0,False
+16859,is-IS,email,email_query,hvað sagði ég söndru í síðasta tölvupóstinum mínum,email_sendemail,0.9662,0.0015,False
+16872,is-IS,email,email_sendemail,finndu naty í mínum tengiliðum og sendu henni póst,social_post,0.9947,0.0013,False
+16873,is-IS,email,email_sendemail,senda tölvupóst á nönnu fyrir afmælið hennar,email_sendemail,1.0,1.0,True
+16880,is-IS,email,email_sendemail,senda tölvupóst á jóhann varðandi fundinn,email_sendemail,1.0,1.0,True
+16883,is-IS,email,email_sendemail,sendu tölvupóst til jerry til að spyrja hvort hann verði heima í kvöld,email_sendemail,1.0,1.0,True
+16886,is-IS,email,email_sendemail,svara þessum pósti,email_sendemail,0.9997,0.9997,True
+16888,is-IS,email,email_query,hvað með nýjan póst,social_post,0.9998,0.0,False
+16890,is-IS,email,email_query,hvað segir nýr tölvupóstur,news_query,0.9489,0.0006,False
+16891,is-IS,email,email_sendemail,senda páli óskari tölvupóst,email_sendemail,1.0,1.0,True
+16892,is-IS,email,email_sendemail,hefja póst til john smith,social_post,0.6282,0.0003,False
+16899,is-IS,email,email_query,hef ég fengið einhverja tölvupósta frá jóhanni jónssyni,social_post,0.9864,0.0005,False
+16914,is-IS,email,email_query,er ég með tölvupóst frá þessum sendanda,email_sendemail,1.0,0.0,False
+16916,is-IS,email,email_sendemail,hey svaraðu tölvupóst sem að ég fékk,qa_factoid,0.2711,0.0237,False
+16924,is-IS,email,email_query,vinsamlegast athugaðu póstinn minn eftir nýjum pósti,email_sendemail,0.9994,0.0003,False
+16930,is-IS,email,email_query,sýndu nýjasta tölvupóstinn,social_post,0.7858,0.0074,False
+16938,is-IS,email,email_sendemail,senda svar við tölvupóst jóns,email_sendemail,1.0,1.0,True
+16944,is-IS,email,email_sendemail,senda tölvupóst til ömmu sem segir við ætlum að kíkja við á laugardaginn sjáumst þá,email_sendemail,1.0,1.0,True
+16947,is-IS,email,email_sendemail,svara tölvupósti,qa_factoid,0.5322,0.0039,False
+16955,is-IS,email,email_sendemail,tölvupóstur á nýjan tengilið,iot_hue_lightoff,0.6768,0.0144,False
+16956,is-IS,email,email_sendemail,senda tölvupóst á nýjan tengilið,email_sendemail,1.0,1.0,True
+16961,is-IS,email,email_sendemail,svaraðu með,qa_factoid,0.9263,0.0007,False
+16974,is-IS,email,email_query,athugaðu alla nýja tölvupósta frá ríkisskattsstjóra,social_post,0.8791,0.0042,False
+16987,is-IS,email,email_query,einhver nýr tölvupóstur frá jóni,qa_factoid,0.9998,0.0,False
+16989,is-IS,email,email_sendemail,vinsamlegast segðu tölvupósti sem sendi mér gunnar ég þarf peningana núna það er mikilvægt,qa_factoid,0.3012,0.049,False
+16992,is-IS,email,email_query,hefur guðrún sent mér tölvupóst,qa_factoid,0.6985,0.0021,False
+16995,is-IS,email,email_sendemail,sendu tölvupóst á jóhönnu,email_sendemail,0.9728,0.9728,True
+17005,is-IS,email,email_query,vinsamlegast athugaðu nýja tölvupósta,social_post,0.9159,0.0003,False
+17011,is-IS,email,email_sendemail,geturðu sent tölvupóst til,email_sendemail,0.3638,0.3638,True
+17015,is-IS,email,email_sendemail,byrja svar,qa_factoid,1.0,0.0,False
+17019,is-IS,email,email_sendemail,skrifaðu svara við seinasta tölvupóst,transport_query,0.1325,0.0823,False
+17020,is-IS,email,email_sendemail,svara síðasta tölvupóst,transport_query,0.2551,0.0109,False
+17023,is-IS,email,email_sendemail,senda mömmu tölvupóst og spurja hvernig veðrið er þar,email_sendemail,1.0,1.0,True
+17042,is-IS,email,email_sendemail,skrifa tölvupóst til jón at gmail punktur com,email_sendemail,1.0,1.0,True
+17043,is-IS,email,email_sendemail,senda tölvupóst til tommi att simnet punktur is,email_sendemail,1.0,1.0,True
+17051,is-IS,email,email_query,færðu mér nýjan tölvupóst,social_post,0.976,0.0011,False
+17052,is-IS,email,email_query,leita eftir nanna,iot_hue_lightoff,0.2778,0.037,False
+17069,is-IS,email,email_query,eru einhverjir nýjir tölvupóstar í outlook,iot_hue_lightoff,0.2991,0.0116,False
+17075,is-IS,email,email_query,hef ég fengið einhverja nýja tölvupósta eftir klukkan fjögur í dag,social_post,0.6467,0.0096,False
+17081,is-IS,email,email_sendemail,skrifa email fyrir starfsmanninn minn með nýlega vistuðum skjölum,email_sendemail,1.0,1.0,True
+17087,is-IS,email,email_query,athugaðu hvort það sé nýr tölvupóstur frá söru,qa_factoid,0.9995,0.0,False
+17098,is-IS,email,email_query,sýndu mér einhverja tölvupósta móttekna síðustu klukkustund,social_post,0.6826,0.0109,False
+17107,is-IS,email,email_query,athuga nýjan tölvupóst,social_post,0.9972,0.0001,False
+17108,is-IS,email,email_query,gefðu mér nýjasta tölvupóst minn,social_post,0.5873,0.0212,False
+17113,is-IS,email,email_sendemail,búðu til tölvupóst til júlíu,social_post,0.4619,0.1015,False
+17115,is-IS,email,email_query,lestu lista yfir nýja tölvupósta,lists_remove,0.9998,0.0,False
+17116,is-IS,email,email_query,sýna lista af nýlegum tölvupósti,news_query,0.4955,0.0024,False
+17119,is-IS,email,email_query,athugaðu um alla nýja tölvupósta frá górilla vöruhús,social_post,0.9696,0.0011,False
+17123,is-IS,email,email_sendemail,form fyrir tölvupóst fyrir sendiráðherra,social_post,0.5278,0.0108,False
+17135,is-IS,email,email_query,einhverjir póstar frá kveik,qa_factoid,1.0,0.0,False
+17136,is-IS,email,email_query,vinsamlegast lestu nýju tölvupóstana mína,social_post,0.8829,0.0083,False
+17138,is-IS,email,email_query,vinsamlegast geymdu lesnu skilaboðin mín,social_post,0.4962,0.0043,False
+17142,is-IS,email,email_query,hvað er í innhólfinu mínu síðan við skoðuðum síðast,iot_hue_lightoff,0.9946,0.0002,False
+17143,is-IS,email,email_sendemail,hey sendu tölvupóst til jóns,email_sendemail,0.9999,0.9999,True
+17144,is-IS,email,email_query,hey athuga tölvupóst,social_post,0.9985,0.0,False
+17147,is-IS,email,email_sendemail,svara póstinum með eftirfarandi efni halló þú,social_post,0.9862,0.0125,False
+17148,is-IS,email,email_sendemail,alexa svaraðu póstinum með eftirfarandi efni halló þú,social_post,0.9997,0.0,False
+17151,is-IS,email,email_sendemail,jón vinur minn hefur sent mér boðskort til nýlega keypta hússins hans segðu takk við hann í tölvupóstnúmerinu,recommendation_events,0.9723,0.0223,False
+17156,is-IS,email,email_query,athuga tölvupóstinn minn hvort sé einhver nýr tölvupóstur frá jóa,lists_remove,0.4167,0.0189,False
+17157,is-IS,email,email_query,hef ég einhverja nýja tölvupósta frá jóa,lists_remove,0.7916,0.0037,False
+17170,is-IS,email,email_query,láttu mig vita þegar jóhann sendir tölvupóst á mig,email_sendemail,1.0,0.0,False
+17179,is-IS,email,email_query,hefur jón sent mér tölvupóst,social_post,0.9954,0.0,False

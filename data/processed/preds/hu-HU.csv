@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,hu-HU,iot,iot_hue_lightoff,olly kapcsold ki a világítást a hálószobában,iot_hue_lightoff,0.9942,0.9942,True
+47,hu-HU,datetime,datetime_query,mennyi az idő magyarországon,weather_query,0.9976,0.0004,False
+85,hu-HU,datetime,datetime_query,mondd meg a mai dátuomt,qa_factoid,0.9722,0.0001,False
+86,hu-HU,datetime,datetime_query,hányadika van ma,qa_factoid,0.7949,0.0027,False
+100,hu-HU,weather,weather_query,mi a heti előrejelzés,iot_hue_lightoff,0.701,0.0544,False
+102,hu-HU,weather,weather_query,milyen az e heti időjárás,weather_query,0.9846,0.9846,True
+103,hu-HU,weather,weather_query,ismertesd a heti időjárást,weather_query,0.9924,0.9924,True
+128,hu-HU,datetime,datetime_query,mi a dátum,datetime_query,0.552,0.552,True
+151,hu-HU,play,play_music,játszd azt újra kérlek,play_music,0.9998,0.9998,True
+177,hu-HU,news,news_query,mondj üzleti híreket,qa_factoid,0.9997,0.0,False
+178,hu-HU,news,news_query,mondj nemzetközi híreket,qa_factoid,0.8981,0.0003,False
+182,hu-HU,play,play_music,játszd a rock lejátszási listámat,lists_query,0.5269,0.0009,False
+185,hu-HU,play,play_music,kapcsold be a lejátszási listám és játszd le a harmadik számot a sorban,lists_remove,0.9979,0.0013,False
+197,hu-HU,datetime,datetime_query,mennyi az idő,weather_query,0.8266,0.145,False
+216,hu-HU,weather,weather_query,milyen idő lesz ma,weather_query,0.9951,0.9951,True
+219,hu-HU,weather,weather_query,vigyek magammal esőernyőt holnap,weather_query,0.9719,0.9719,True
+220,hu-HU,play,play_music,játssz zenét a rock listámról,play_music,1.0,1.0,True
+250,hu-HU,play,play_music,én most jazzre vágyom és te,play_music,0.9997,0.9997,True
+254,hu-HU,play,play_music,olly játssz egy jó számot a kedvenc jazz zenészemtől,play_music,0.9999,0.9999,True
+279,hu-HU,weather,weather_query,mi a mai előrejelzés budapesten,iot_hue_lightoff,0.8797,0.0269,False
+281,hu-HU,news,news_query,hogy áll az amerikai dollár és a font sterling árfolyama,qa_factoid,0.2117,0.0256,False
+296,hu-HU,play,play_music,játszd az edda lejátszási listát,lists_remove,0.9491,0.0005,False
+297,hu-HU,play,play_music,véletlenszerűen játssz le ákos dalokat,play_music,0.9993,0.9993,True
+299,hu-HU,weather,weather_query,milyen az idő,weather_query,0.8361,0.8361,True
+310,hu-HU,datetime,datetime_query,melyik napra esik szilveszter idén,weather_query,0.8939,0.0059,False
+319,hu-HU,weather,weather_query,mondd milyen lesz az időjárás győrben két nap múlva,weather_query,0.9997,0.9997,True
+329,hu-HU,play,play_music,hét év,qa_factoid,0.9723,0.0001,False
+333,hu-HU,weather,weather_query,milyen az időjárási állapot nyírbátorban,weather_query,0.9976,0.9976,True
+334,hu-HU,weather,weather_query,szeretném tudni a szombathelyi időjárást,weather_query,0.9948,0.9948,True
+344,hu-HU,weather,weather_query,esős nap lesz holnap,weather_query,0.9956,0.9956,True
+348,hu-HU,weather,weather_query,esni fog holnap az eső,weather_query,0.9994,0.9994,True
+355,hu-HU,datetime,datetime_query,a hét melyik napjára esik április elseje,weather_query,0.9703,0.0191,False
+360,hu-HU,datetime,datetime_query,mennyi az idő most,weather_query,0.9166,0.0329,False
+362,hu-HU,play,play_music,játszd le a második dalt a tankcsapda listáról,play_music,0.9975,0.9975,True
+366,hu-HU,news,news_query,kérlek mondd el a legfrissebb híreket,qa_factoid,0.9705,0.0,False
+369,hu-HU,iot,iot_hue_lightoff,kapcsold ki a világítást,iot_hue_lightoff,0.9931,0.9931,True
+385,hu-HU,news,news_query,mi a szenzáció a magyar időkben,social_post,0.5926,0.0135,False
+391,hu-HU,play,play_music,játssz le találomra egy dalt a lejátszási listámból,play_music,0.9981,0.9981,True
+393,hu-HU,play,play_music,játssz egy retro dalt a lejátszási listámon,play_music,0.9996,0.9996,True
+397,hu-HU,play,play_music,játssz le bármilyen dalt oláh gergőtől,play_music,0.981,0.981,True
+400,hu-HU,play,play_music,kezdd el lejátszani,qa_factoid,1.0,0.0,False
+407,hu-HU,play,play_music,tudnál nekem rock zenét játszani az elkövetkező egy órában,play_music,1.0,1.0,True
+424,hu-HU,news,news_query,mik a legfrissebb hírek,iot_hue_lightoff,0.8195,0.0009,False
+427,hu-HU,iot,iot_hue_lightoff,kapcsold le a villanyt a fürdőszobában,cooking_recipe,0.8058,0.0774,False
+428,hu-HU,iot,iot_hue_lightoff,kapcsold ki a fürdőszoba fényeket,iot_hue_lightoff,0.9823,0.9823,True
+430,hu-HU,weather,weather_query,milyen most az időjárás,weather_query,0.9983,0.9983,True
+437,hu-HU,play,play_music,az anti fitness club mappa megnyitása,recommendation_events,0.4133,0.0157,False
+441,hu-HU,news,news_query,mik a legújabb hír főcímek,social_post,0.7834,0.0008,False
+442,hu-HU,news,news_query,mi történik a hírekben,qa_factoid,0.9911,0.0,False
+451,hu-HU,news,news_query,tudasd velem a legfrissebb costco részvényárfolyamot,qa_factoid,0.9347,0.0003,False
+473,hu-HU,play,play_music,játszd le a nyolc óra munkát,calendar_remove,0.8961,0.0016,False
+486,hu-HU,datetime,datetime_query,mennyi az idő nyíregyházán,weather_query,0.9863,0.0011,False
+491,hu-HU,weather,weather_query,hideg van e kint,qa_factoid,0.6752,0.002,False
+506,hu-HU,play,play_music,nyiss meg dalokat rácz gergőtől,news_query,0.9641,0.0008,False
+512,hu-HU,weather,weather_query,tankcsapdától,qa_factoid,0.9981,0.0001,False
+540,hu-HU,play,play_music,játszd le majkától az olyan mint te,play_music,0.9999,0.9999,True
+555,hu-HU,play,play_music,játszd krúbitól az orbán verd ki a ferineket,qa_factoid,0.9914,0.0003,False
+576,hu-HU,play,play_music,játszd az összes lejátszási listát,lists_remove,0.9493,0.0432,False
+585,hu-HU,news,news_query,mutasd a legújabb híreket,social_post,0.7804,0.0751,False
+588,hu-HU,news,news_query,mik a mai friss hírek,iot_hue_lightoff,0.4786,0.0022,False
+590,hu-HU,weather,weather_query,milyen a jelenlegi időjárás,weather_query,0.9966,0.9966,True
+614,hu-HU,play,play_music,indítsd el a lejátszási listát,lists_remove,0.9934,0.0001,False
+625,hu-HU,play,play_music,játsszd le az ákos dalt,qa_factoid,0.9938,0.0,False
+631,hu-HU,news,news_query,állítsd be értesítést a barátság kőolajvezeték híreihez,social_post,0.9807,0.0003,False
+651,hu-HU,iot,iot_hue_lightoff,kapcsold ki a szoba világítást,iot_hue_lightoff,0.9796,0.9796,True
+660,hu-HU,datetime,datetime_query,jelenlegi idő magyarországon,weather_query,0.909,0.0313,False
+680,hu-HU,news,news_query,folyamatosan tájékoztass a bitcoin árakról,qa_factoid,0.3857,0.005,False
+686,hu-HU,datetime,datetime_query,hány óra van most new yorkban,qa_factoid,0.9808,0.0037,False
+712,hu-HU,news,news_query,a legutóbbi híreket akarom az a. t. v. -n,iot_hue_lightoff,0.9925,0.0001,False
+726,hu-HU,weather,weather_query,foglald össze a hét időjárás adatait,weather_query,0.9939,0.9939,True
+730,hu-HU,iot,iot_hue_lightoff,kapcsold ki a világítást,iot_hue_lightoff,0.9931,0.9931,True
+738,hu-HU,weather,weather_query,milyen hideg van ma odakint,qa_factoid,0.999,0.0,False
+764,hu-HU,weather,weather_query,mi az e heti időjárás előrejelzés,weather_query,0.9855,0.9855,True
+765,hu-HU,news,news_query,tudnál adni nekem naprakész címeket a hírekből a legújabb szolgáltatómtól kérlek,recommendation_events,0.645,0.0003,False
+767,hu-HU,news,news_query,megkeresnéd nekem egy olyan hírforrás híreit amit általában nem látogatok,social_post,0.9769,0.0002,False
+768,hu-HU,news,news_query,beszélj a legutóbbi politikai hírekről,social_post,0.8229,0.0337,False
+779,hu-HU,play,play_music,hallani akarom a kiscsillagtól az ott ahol akarod dalt,social_post,0.6279,0.0585,False
+781,hu-HU,play,play_music,játszd a legjobb méreg című dalt,play_music,1.0,1.0,True
+782,hu-HU,play,play_music,játszd rúzsa magditól a tejútat,qa_factoid,0.6729,0.001,False
+783,hu-HU,play,play_music,játssz szerelmes számokat,play_music,0.489,0.489,True
+790,hu-HU,weather,weather_query,mérsékelt vagy heves időjárás,weather_query,0.9979,0.9979,True
+826,hu-HU,weather,weather_query,mi a jelenlegi kinti hőmérséklet,iot_hue_lightoff,0.7732,0.0001,False
+827,hu-HU,play,play_music,játszd le a koncz zsuzsa lejátszási listát,email_sendemail,0.5341,0.0003,False
+832,hu-HU,weather,weather_query,hé milyen időjárás várható holnapra,weather_query,0.9926,0.9926,True
+837,hu-HU,news,news_query,mi az a. t. v. felmérésének előrejelzése a közelgő magyarországi választásokkal kapcsolatban,news_query,0.2722,0.2722,True
+891,hu-HU,play,play_music,játssz egy kis keresztény zenét,play_music,1.0,1.0,True
+914,hu-HU,iot,iot_hue_lightoff,kapcsold ki a fényeket,iot_hue_lightoff,0.8873,0.8873,True
+936,hu-HU,play,play_music,nyisd meg és játssz zenét a kocogás lejátszási listámról,play_music,0.9998,0.9998,True
+951,hu-HU,weather,weather_query,milyen az időjárás nyíradonyban most,weather_query,0.9981,0.9981,True
+969,hu-HU,news,news_query,új cikkek abban a bizonyos témában,news_query,0.7569,0.7569,True
+974,hu-HU,datetime,datetime_query,mennyi az idő nyírbátorban,weather_query,0.9977,0.0003,False
+997,hu-HU,iot,iot_hue_lightoff,kapcsold le a nappaliban a villanyt,qa_factoid,0.9135,0.0005,False
+999,hu-HU,iot,iot_hue_lightoff,lekapcsolnád a villanyt,social_post,0.5396,0.0016,False
+1007,hu-HU,play,play_music,edda lejátszása a rock lejátszólistámból,play_music,0.9929,0.9929,True
+1014,hu-HU,datetime,datetime_query,mennyi most az idő budapesten,weather_query,0.9983,0.0003,False
+1047,hu-HU,play,play_music,ki akarom sírni magam játszanál nekem szomorú rock dalokat,play_music,1.0,1.0,True
+1061,hu-HU,news,news_query,mutasd a lefrissebbeket a sport hírekből,iot_hue_lightoff,0.9984,0.0,False
+1063,hu-HU,news,news_query,adj óránkénti értesítést a sport hírekről,email_sendemail,0.4488,0.0342,False
+1084,hu-HU,news,news_query,felhasználóbarát,qa_factoid,0.8829,0.0027,False
+1093,hu-HU,news,news_query,menj a népszava weboldalára,social_post,0.6859,0.0015,False
+1098,hu-HU,datetime,datetime_query,a hét melyik napjára esik március tizenötödike,weather_query,0.9878,0.0049,False
+1108,hu-HU,play,play_music,a vágyam hogy egy kis country zenét hallgassak,play_music,0.9993,0.9993,True
+1115,hu-HU,play,play_music,minden pop zeneműfaj összehangolása,iot_hue_lightoff,0.3423,0.2118,False
+1120,hu-HU,news,news_query,van valami különös esemény a politikában,news_query,0.3674,0.3674,True
+1121,hu-HU,play,play_music,játszd koncz zsuzsától a jöjj kedvesemet,qa_factoid,0.8498,0.0042,False
+1123,hu-HU,play,play_music,következő szám l. l. junior ma éjjel legyen,qa_factoid,0.7957,0.0025,False
+1124,hu-HU,play,play_music,készítsd be következőnek szakács gergőtől az elkezdemet,cooking_recipe,0.9531,0.0001,False
+1127,hu-HU,play,play_music,játsz le minden számot véletlenszerűen,qa_factoid,0.7505,0.0344,False
+1144,hu-HU,play,play_music,valamilyen rappet szeretnék,play_music,0.9941,0.9941,True
+1148,hu-HU,datetime,datetime_query,mennyi most az idő budapesten,weather_query,0.9983,0.0003,False
+1156,hu-HU,news,news_query,legfrissebb hírek a nemzetközi nőnappal kapcsolatban,news_query,0.9786,0.9786,True
+1160,hu-HU,weather,weather_query,milyen hideg lesz esténként ezen a héten,weather_query,0.991,0.991,True
+1180,hu-HU,news,news_query,keress mai cikkeket orbánról a telexen,qa_definition,0.7465,0.0012,False
+1202,hu-HU,datetime,datetime_query,a pontos idő temesváron,qa_factoid,0.9862,0.0006,False
+1238,hu-HU,play,play_music,pandora,qa_factoid,0.1403,0.0391,False
+1249,hu-HU,weather,weather_query,milyen lesz valószínűleg az időjárás ezen a héten,weather_query,0.9973,0.9973,True
+1252,hu-HU,datetime,datetime_query,mondd meg a mostani időt,qa_factoid,0.8985,0.0851,False
+1294,hu-HU,news,news_query,mutasd a híreket az akadémiai díjátadóról,social_post,0.7727,0.0063,False
+1301,hu-HU,news,news_query,beszélj az új orbáni külpolitikáról,qa_factoid,0.9322,0.001,False
+1308,hu-HU,weather,weather_query,a mai éghajlati előrejelzést itt találja,iot_hue_lightoff,0.6997,0.0095,False
+1318,hu-HU,play,play_music,indítsd a zene appot és játsz egy dalt nekem,play_music,0.9995,0.9995,True
+1351,hu-HU,weather,weather_query,szép lesz odakint ezen a héten,iot_hue_lightoff,0.6378,0.0007,False
+1371,hu-HU,news,news_query,mi van a magyar nemzet címlapján,email_sendemail,0.9968,0.0,False
+1377,hu-HU,iot,iot_hue_lightoff,kapcsold le a világítást a fiam szobájában,iot_hue_lightoff,0.9947,0.9947,True
+1400,hu-HU,weather,weather_query,általában odafigyelek,qa_factoid,0.99,0.0,False
+1401,hu-HU,weather,weather_query,általában odafigyelek,qa_factoid,0.99,0.0,False
+1404,hu-HU,weather,weather_query,megkaphatnám a holnapi időjárást itt veszprémben,weather_query,0.9437,0.9437,True
+1423,hu-HU,news,news_query,beszélj nekem orbánról,qa_factoid,0.9382,0.0003,False
+1425,hu-HU,news,news_query,tájékoztass amikor van hír franciaországról,weather_query,0.7528,0.0002,False
+1440,hu-HU,play,play_music,játsszd le a legújabb rock zenéket amik négynél jobbra vannak értékelve,email_query,0.7591,0.1411,False
+1449,hu-HU,datetime,datetime_query,mikor van húsvét kétezer tizennyolcban,social_post,0.8112,0.002,False
+1458,hu-HU,weather,weather_query,mennyire van meleg siófokon,iot_hue_lightoff,0.9835,0.0005,False
+1467,hu-HU,play,play_music,játssz tankcsapdát,play_music,0.5272,0.5272,True
+1474,hu-HU,news,news_query,mik a mai sport hírek,cooking_recipe,0.8674,0.005,False
+1489,hu-HU,play,play_music,játsszd le a legújabb dalokat rúzsa magditól,play_music,0.9939,0.9939,True
+1513,hu-HU,weather,weather_query,milyen a hőmérséklet kint,qa_factoid,0.7417,0.0001,False
+1533,hu-HU,news,news_query,milyen hírek vannak ma a hír t. v. -n,qa_factoid,0.9838,0.0005,False
+1537,hu-HU,datetime,datetime_query,mutasd a jelenlegi pontos időt németországban,weather_query,0.9843,0.0028,False
+1542,hu-HU,weather,weather_query,ragyogóan süt a nap ilyen idő lesz a nap hátralévő részében,weather_query,0.9787,0.9787,True
+1546,hu-HU,play,play_music,indítsd el a nyári slágerek lejátszólistát,cooking_recipe,0.5146,0.2282,False
+1547,hu-HU,weather,weather_query,milyen időjárás várható ezen a héten a környékemen,weather_query,0.9992,0.9992,True
+1549,hu-HU,weather,weather_query,lesz eső a héten,weather_query,0.9875,0.9875,True
+1554,hu-HU,iot,iot_hue_lightoff,kapcsold le a lámpákat,iot_hue_lightoff,0.4222,0.4222,True
+1581,hu-HU,datetime,datetime_query,milyen nap hónap és év van ma,weather_query,0.9985,0.0001,False
+1589,hu-HU,weather,weather_query,napos idő lesz jövő kedden,weather_query,0.9887,0.9887,True
+1593,hu-HU,news,news_query,állítsd be értesítést az a.t.v.-re,iot_hue_lightoff,0.3107,0.0146,False
+1594,hu-HU,news,news_query,el tudnád mondani a legfrissebb híreket,qa_factoid,0.998,0.0,False
+1607,hu-HU,datetime,datetime_query,mi a pontos idő most budapesten,weather_query,0.997,0.0001,False
+1617,hu-HU,news,news_query,ha van új hír politikáról figyelmeztess,qa_factoid,0.6097,0.0029,False
+1636,hu-HU,news,news_query,mutasd a legutóbbi híreket a telexen,cooking_recipe,0.6611,0.0012,False
+1653,hu-HU,weather,weather_query,mikor fog legközelebb esni,qa_factoid,0.9997,0.0,False
+1655,hu-HU,weather,weather_query,havazni fog holnap délben,qa_factoid,0.7219,0.001,False
+1666,hu-HU,news,news_query,az index hírei az elmúlt hat órában,iot_hue_lightoff,0.6518,0.0052,False
+1671,hu-HU,play,play_music,csak ezerkilencszázkilencven és kétezer közötti zenéket játssz,play_music,1.0,1.0,True
+1683,hu-HU,weather,weather_query,a holnapi hőmérséklet meleg lesz vagy nem,weather_query,0.9058,0.9058,True
+1684,hu-HU,weather,weather_query,a holnapi hőmérséklet meleg lesz vagy sem,weather_query,0.9276,0.9276,True
+1692,hu-HU,play,play_music,keress egy kis lágy jazzt nekem,social_post,0.6443,0.0427,False
+1722,hu-HU,weather,weather_query,mi a minimum hőmérséklet budapesten,iot_hue_lightoff,0.978,0.0206,False
+1750,hu-HU,iot,iot_hue_lightoff,kapcsolj le minden fényt,iot_hue_lightoff,0.8172,0.8172,True
+1759,hu-HU,news,news_query,mutass híreket trump elnökről,social_post,0.96,0.0005,False
+1760,hu-HU,news,news_query,legutóbbi hírek a terrorizmusról,social_post,0.9608,0.0005,False
+1777,hu-HU,play,play_music,következő szám,qa_factoid,0.9043,0.0021,False
+1784,hu-HU,iot,iot_hue_lightoff,kapcsold ki az ebédlőt,cooking_recipe,0.9872,0.0045,False
+1786,hu-HU,iot,iot_hue_lightoff,kapcsold le a villanyt az úr hálószobájában,cooking_recipe,0.7227,0.0091,False
+1794,hu-HU,news,news_query,orbán megfogja látogatni oroszországot mostanában,social_post,0.7125,0.0003,False
+1796,hu-HU,datetime,datetime_query,mai dátum,datetime_query,0.9941,0.9941,True
+1803,hu-HU,news,news_query,mely csapatok játszanak ma az angol első osztályú labdarúgó-bajnokságon,lists_query,0.3551,0.0153,False
+1811,hu-HU,play,play_music,indítsd el a lejátszási listát és játszd le a zenét,play_music,0.9998,0.9998,True
+1832,hu-HU,play,play_music,játssz egy kiscsillag albumot,play_music,0.9992,0.9992,True
+1833,hu-HU,play,play_music,játszd újra a lejátszási lista témáit,email_sendemail,0.974,0.0026,False
+1866,hu-HU,weather,weather_query,időjárás jelentés most,qa_factoid,0.9873,0.0005,False
+1870,hu-HU,datetime,datetime_query,milyen hónap van ma,qa_factoid,0.9991,0.0,False
+1904,hu-HU,news,news_query,mutasd meg nekem a meccs kiemelt pillanatait,qa_factoid,0.5846,0.0059,False
+1933,hu-HU,weather,weather_query,csökkenni fog a hőmérséklet ma éjszaka,cooking_recipe,0.864,0.0004,False
+1940,hu-HU,play,play_music,játsszd le a dal címet,qa_factoid,1.0,0.0,False
+1962,hu-HU,play,play_music,hé google játszd le nekem a wacky lejátszási listát a gaana applikációmban,qa_factoid,0.4963,0.0236,False
+1994,hu-HU,play,play_music,meg tudod nyitni az én itunesomat,qa_factoid,0.9996,0.0,False
+1995,hu-HU,play,play_music,játssz kispál és a borzt,play_music,0.9906,0.9906,True
+2007,hu-HU,play,play_music,kérlek játszd a tizenháromat,qa_factoid,0.8823,0.0003,False
+2062,hu-HU,play,play_music,egy kis jazz zenét akarok játszani,play_music,1.0,1.0,True
+2085,hu-HU,play,play_music,alexa bármilyen klasszikust szívesen hallgatok kivéve lisztet vagy kodályt,play_music,0.9246,0.9246,True
+2098,hu-HU,news,news_query,mi újság a nagyvilágban,email_sendemail,0.8015,0.0005,False
+2108,hu-HU,play,play_music,következőnek játszd a szájbergyereket,play_radio,0.8097,0.1815,False
+2113,hu-HU,recommendation,recommendation_events,mondj el minden aktuális eseményt a szülővárosomban,social_post,0.5228,0.1895,False
+2146,hu-HU,datetime,datetime_query,mi a téli napforduló dátuma két év múlva,qa_factoid,0.6753,0.3185,False
+2156,hu-HU,datetime,datetime_query,most azonnal tudnom kell mennyi az idő,weather_query,0.9956,0.0032,False
+2160,hu-HU,iot,iot_hue_lightoff,aludni fogok most,social_post,0.9675,0.0112,False
+2178,hu-HU,weather,weather_query,milyen a jelenlegi időjárási állapot nálam,weather_query,0.9942,0.9942,True
+2198,hu-HU,datetime,datetime_query,a hét melyik napjára esett ezerkilencszáznyolcvankettő december negyedike,datetime_query,0.9007,0.9007,True
+2201,hu-HU,news,news_query,r. t. l. címlap,email_sendemail,1.0,0.0,False
+2203,hu-HU,news,news_query,r. t. l. híradó főcímei,qa_factoid,0.855,0.0022,False
+2220,hu-HU,weather,weather_query,időjárás budapesten,qa_factoid,0.9761,0.0009,False
+2225,hu-HU,play,play_music,játszd lovasi andrástól a mire megtanultamat,social_post,0.9961,0.0001,False
+2230,hu-HU,iot,iot_hue_lightoff,kapcsold ki a konyhai világítást,iot_hue_lightoff,0.9801,0.9801,True
+2237,hu-HU,news,news_query,olvasd el nekem a legújabb nemzetközi híreket,news_query,0.9775,0.9775,True
+2258,hu-HU,weather,weather_query,szükségem van ma pulóverre,lists_remove,0.6364,0.0155,False
+2265,hu-HU,weather,weather_query,mondd el milyen az időjárás most miskolcon,weather_query,0.9982,0.9982,True
+2271,hu-HU,play,play_music,kérlek játszd le az általam megvásárolt és kedvencként megjelölt számokat,lists_remove,0.5468,0.0865,False
+2296,hu-HU,news,news_query,tájékoztass engem folyamatosan a mai kosárlabda eredményekről,play_podcasts,0.5027,0.0074,False
+2298,hu-HU,iot,iot_hue_lightoff,kapcsold le a lámpákat most,qa_factoid,0.4077,0.2359,False
+2315,hu-HU,news,news_query,mik a mai hírek,qa_factoid,0.9788,0.0,False
+2316,hu-HU,news,news_query,alexa mondd el a legfőbb hírt,qa_factoid,0.9999,0.0,False
+2320,hu-HU,weather,weather_query,milyen az időjárás ezen a pénteken,weather_query,0.999,0.999,True
+2322,hu-HU,weather,weather_query,milyen idő lesz holnap,weather_query,0.9958,0.9958,True
+2330,hu-HU,datetime,datetime_query,mutasd meg mennyi az idő londonban,weather_query,0.9987,0.0001,False
+2384,hu-HU,news,news_query,mi történik a világban,social_post,0.281,0.0673,False
+2386,hu-HU,news,news_query,mondd a legújabb híreket,social_post,0.5666,0.4126,False
+2396,hu-HU,play,play_music,kezdje el a celine dion számokat,qa_factoid,0.9979,0.0,False
+2408,hu-HU,play,play_music,keress több zenét a bagossy brothers company-től,play_music,0.9979,0.9979,True
+2412,hu-HU,datetime,datetime_query,megmondanád mennyi az idő ajkán,weather_query,0.8664,0.0187,False
+2423,hu-HU,weather,weather_query,kérlek add meg a mai előrejelzést pécsre,iot_hue_lightoff,0.911,0.0023,False
+2438,hu-HU,news,news_query,küldd át a tech híreket,qa_factoid,0.9674,0.0,False
+2441,hu-HU,iot,iot_hue_lightoff,kapcsold ki a fészer világítást,iot_hue_lightoff,0.9609,0.9609,True
+2472,hu-HU,datetime,datetime_query,helyes e az idő ott ahol most vagyok,qa_factoid,0.9988,0.0,False
+2496,hu-HU,news,news_query,napi hírek,qa_factoid,0.9997,0.0,False
+2497,hu-HU,datetime,datetime_query,mi a mai dátum,datetime_query,0.5981,0.5981,True
+2498,hu-HU,datetime,datetime_query,siri milyen dátumot írunk ma,weather_query,0.8769,0.0802,False
+2527,hu-HU,play,play_music,játssz klasszikus rockot,play_music,0.9997,0.9997,True
+2531,hu-HU,play,play_music,alexa játsz egy rap és egy rock dalt egymás után,play_music,1.0,1.0,True
+2545,hu-HU,weather,weather_query,milyen az idő,weather_query,0.8361,0.8361,True
+2548,hu-HU,news,news_query,bármi érdekesség az r. t. l. híradóból,qa_factoid,0.9161,0.0238,False
+2560,hu-HU,play,play_music,játsz véletlen zenét,qa_factoid,0.9339,0.0498,False
+2573,hu-HU,play,play_music,játszd le a spotify dance listámat,play_podcasts,0.3816,0.1402,False
+2578,hu-HU,iot,iot_hue_lightoff,kapcsold ki a veranda fényét,iot_hue_lightoff,0.9996,0.9996,True
+2588,hu-HU,news,news_query,mik a legutóbbi hírek az a.t.v.-n kérlek,qa_factoid,0.9168,0.001,False
+2594,hu-HU,news,news_query,beszélj a legutóbbi környezeti hírekről,news_query,0.7722,0.7722,True
+2605,hu-HU,play,play_music,játszd az én kedvenc zenémet most,qa_factoid,0.9959,0.0,False
+2611,hu-HU,weather,weather_query,jelenlegi időjárási előrejelzés,weather_query,0.7436,0.7436,True
+2615,hu-HU,weather,weather_query,szükségem lesz dzsekire jövő szerdán,iot_hue_lightoff,0.9468,0.0016,False
+2638,hu-HU,news,news_query,mutass híreket trumpról,social_post,0.9437,0.0001,False
+2639,hu-HU,news,news_query,mutass nekem híreket a környezetről,social_post,0.7978,0.0605,False
+2651,hu-HU,news,news_query,legújabb hírek a környéken,social_post,0.9319,0.0126,False
+2678,hu-HU,weather,weather_query,esni fog az eső ma este,weather_query,0.9996,0.9996,True
+2679,hu-HU,weather,weather_query,ilyen marad a hőmérséklet vagy hidegebb lesz,iot_hue_lightoff,0.5814,0.072,False
+2703,hu-HU,play,play_music,kérlek játssz népzenét,play_music,0.9999,0.9999,True
+2704,hu-HU,play,play_music,hallgassunk egy kis indie rockot,play_music,0.9997,0.9997,True
+2708,hu-HU,play,play_music,olly táncolhatnékom van játssz nekem valami rock and rollt,social_post,0.9998,0.0,False
+2709,hu-HU,play,play_music,olly ma néhány szomorú dalt kell hallgatnom,play_music,0.9851,0.9851,True
+2711,hu-HU,iot,iot_hue_lightoff,kapcsolja le a lámpákat,iot_hue_lightoff,0.6594,0.6594,True
+2717,hu-HU,play,play_music,a dúdolni halkant akarom hallgatni,qa_factoid,0.9344,0.0115,False
+2724,hu-HU,news,news_query,mutasd az a.t.v. híreit,qa_factoid,0.9939,0.0,False
+2770,hu-HU,play,play_music,olly játsz jazz zenét,play_music,0.9999,0.9999,True
+2774,hu-HU,iot,iot_hue_lightoff,kapcsold ki a világítást,iot_hue_lightoff,0.9931,0.9931,True
+2775,hu-HU,iot,iot_hue_lightoff,a lámpák használatának megszüntetése,calendar_remove,0.5212,0.1079,False
+2777,hu-HU,weather,weather_query,vinnem kéne ma esernyőt,iot_hue_lightoff,0.746,0.0023,False
+2781,hu-HU,play,play_music,kérlek játssz egy kis jazz zenét,play_music,1.0,1.0,True
+2798,hu-HU,play,play_music,alexa játszd a dúdolni halkan dalt,qa_factoid,0.9991,0.0,False
+2801,hu-HU,datetime,datetime_query,hány óra van londonban,weather_query,0.9953,0.0004,False
+2824,hu-HU,datetime,datetime_query,milyen nap lesz december tizenharmadika,weather_query,0.9977,0.0003,False
+2840,hu-HU,datetime,datetime_query,milyen napra esik jövő hónap másodika,weather_query,0.9992,0.0,False
+2859,hu-HU,datetime,datetime_query,olly hány óra van ebben a városban,weather_query,0.9889,0.0019,False
+2887,hu-HU,news,news_query,kérlek mutass bármilyen az időjárással kapcsolatos cikkeket a reggeli hírekből,recommendation_events,0.3982,0.0099,False
+2890,hu-HU,weather,weather_query,jelenlegi időjárás,weather_query,0.9754,0.9754,True
+2898,hu-HU,news,news_query,van bármilyen új hír a választásról,news_query,0.8713,0.8713,True
+2914,hu-HU,datetime,datetime_query,mondd meg mi a mai dátum,datetime_query,0.8436,0.8436,True
+2917,hu-HU,weather,weather_query,heti időjárás jelentés,weather_query,0.9656,0.9656,True
+2921,hu-HU,news,news_query,mik a hírek az a. t. v. weboldalán,social_post,0.7512,0.0197,False
+2927,hu-HU,datetime,datetime_query,mennyi az idő budapesten,weather_query,0.9959,0.0011,False
+2931,hu-HU,play,play_music,következőnek játszd a nyuszikát,play_music,0.9456,0.9456,True
+2962,hu-HU,play,play_music,kérlek játssz egy dalt az omegától,play_music,0.9988,0.9988,True
+2965,hu-HU,iot,iot_hue_lightoff,kapcsold ki az irodai lámpákat,iot_hue_lightoff,0.3348,0.3348,True
+3002,hu-HU,play,play_music,játszd a beatrice együttes dalait,social_post,0.8224,0.0597,False
+3031,hu-HU,play,play_music,újra le akarom játszani azt a dalt,play_music,0.9987,0.9987,True
+3034,hu-HU,weather,weather_query,mond meg a hőmérsékletet,iot_hue_lightoff,0.8314,0.0004,False
+3037,hu-HU,news,news_query,a címlapon lévő cikkeket kérlek,email_sendemail,1.0,0.0,False
+3039,hu-HU,news,news_query,mi újdonság van a hírekben,iot_hue_lightoff,0.529,0.0003,False
+3060,hu-HU,news,news_query,milyen hírek vannak arról a hírforrásról,qa_factoid,0.4348,0.0005,False
+3091,hu-HU,datetime,datetime_query,hány óra van közép európai idő szerint,datetime_query,0.9594,0.9594,True
+3096,hu-HU,weather,weather_query,milyen az időjárás siófokon,weather_query,0.9986,0.9986,True
+3098,hu-HU,iot,iot_hue_lightoff,kapcsold ki a fényeket,iot_hue_lightoff,0.8873,0.8873,True
+3099,hu-HU,news,news_query,mutass aktuális eseményeket,email_sendemail,0.4353,0.0297,False
+3101,hu-HU,news,news_query,olly kapcsold be a híreket,qa_factoid,1.0,0.0,False
+3116,hu-HU,play,play_music,játszd le a kedvenc dalomat tavalyról,play_music,0.9909,0.9909,True
+3117,hu-HU,play,play_music,játssz valamit a nox örömvölgy albumáról,play_music,0.9993,0.9993,True
+3118,hu-HU,datetime,datetime_query,hány óra is van most éppen keleti parti idő szerint,datetime_query,0.9936,0.9936,True
+3124,hu-HU,play,play_music,játsz le nekem egy véletlenszerű dalt az én lejátszási listámból,play_music,1.0,1.0,True
+3146,hu-HU,play,play_music,játszd le az első számot a lovasi andrás lejátszási listámról,play_music,0.9547,0.9547,True
+3167,hu-HU,iot,iot_hue_lightoff,kapcsold ki a világítást a hálószobámban,iot_hue_lightoff,0.9884,0.9884,True
+3174,hu-HU,play,play_music,játszd a zenei lejátszási listát,play_podcasts,0.6665,0.0657,False
+3205,hu-HU,play,play_music,játszd le a póker arc című számot király linda előadótól,play_music,0.9995,0.9995,True
+3207,hu-HU,play,play_music,játszd le a vigyázz a madárra dalt rúzsa magditól,qa_factoid,0.6672,0.0064,False
+3212,hu-HU,calendar,calendar_set,emlékeztess hogy csináljak akkor valamit,cooking_recipe,0.9994,0.0,False
+3214,hu-HU,news,news_query,hogy áll jelenleg az oroszország és orbán kapcsolatait vizsgáló nyomozás,qa_factoid,0.6994,0.0105,False
+3228,hu-HU,datetime,datetime_query,idén melyik napra esik karácsony,qa_factoid,0.9998,0.0,False
+3253,hu-HU,weather,weather_query,várhatunk esőt ma délután,weather_query,0.9999,0.9999,True
+3264,hu-HU,play,play_music,játsz reggae zenét,play_music,1.0,1.0,True
+3305,hu-HU,weather,weather_query,milyen az időjárás siófokon ezen a héten,weather_query,0.9982,0.9982,True
+3306,hu-HU,weather,weather_query,mi a heti előrejelzés,iot_hue_lightoff,0.701,0.0544,False
+3329,hu-HU,news,news_query,a híreket szeretném megnézni,qa_factoid,0.6022,0.0007,False
+3337,hu-HU,weather,weather_query,időjárás jelentés harmincháromezer-hétszázhetvennégyre,qa_factoid,0.8636,0.0036,False
+3338,hu-HU,weather,weather_query,számolj be a szegedi időjárásról,weather_query,0.9912,0.9912,True
+3361,hu-HU,datetime,datetime_query,hányadika lesz jövő kedden,iot_hue_lightoff,0.8599,0.0018,False
+3378,hu-HU,iot,iot_hue_lightoff,semmi világítás a konyhában,cooking_recipe,0.8464,0.1132,False
+3386,hu-HU,iot,iot_hue_lightoff,kapcsold le a fényeket közepes fokozatra,iot_hue_lightoff,0.9903,0.9903,True
+3400,hu-HU,play,play_music,játsz koncz zsuzsától élő előadást,play_podcasts,0.9971,0.0012,False
+3401,hu-HU,play,play_music,játszd le a legnépszerűbb koncz zsuzsa számot,recommendation_events,0.7974,0.0048,False
+3406,hu-HU,weather,weather_query,mi a tíz napos előrejelzés,qa_factoid,0.2068,0.0282,False
+3407,hu-HU,weather,weather_query,van előrejelzés esőre vagy hóra ezen a héten,weather_query,0.9552,0.9552,True
+3408,hu-HU,weather,weather_query,szép idő lesz a hétvégén,weather_query,0.7915,0.7915,True
+3426,hu-HU,weather,weather_query,hány fok van odakint,qa_factoid,0.9996,0.0,False
+3433,hu-HU,play,play_music,új pop zene,social_post,0.5736,0.0039,False
+3434,hu-HU,play,play_music,legjobb rap zene,cooking_recipe,0.542,0.4556,False
+3441,hu-HU,datetime,datetime_query,huszonkettedike szerdára esik,qa_factoid,0.3799,0.2118,False
+3444,hu-HU,datetime,datetime_query,tíz van,qa_factoid,0.9969,0.0006,False
+3447,hu-HU,weather,weather_query,esőt mond szombatra az időjárás,weather_query,0.8829,0.8829,True
+3481,hu-HU,play,play_music,játszd zorán legnépszerűbb dalát,qa_factoid,0.5228,0.0002,False
+3489,hu-HU,play,play_music,játssz zenét most,play_music,1.0,1.0,True
+3492,hu-HU,play,play_music,játszd le az én legtöbbet játszott dal listámat,play_music,0.9456,0.9456,True
+3503,hu-HU,weather,weather_query,milyen az idő szegeden,weather_query,0.7632,0.7632,True
+3507,hu-HU,weather,weather_query,szerepel hó az előrejelzésben,weather_query,0.9824,0.9824,True
+3513,hu-HU,play,play_music,csak az én listámat játszd le,lists_remove,0.9931,0.0002,False
+3516,hu-HU,weather,weather_query,mennyi a csapadék esélye a mai időjárásban,qa_factoid,1.0,0.0,False
+3539,hu-HU,play,play_music,kérlek játszd le a rakpartot a wellhellótól,qa_definition,0.8301,0.0002,False
+3546,hu-HU,play,play_music,szeretnék jazz zenét hallgatni,play_music,0.9985,0.9985,True
+3550,hu-HU,play,play_music,tegyél fel egy kis hooliganst,social_post,0.9965,0.0,False
+3554,hu-HU,play,play_music,fel tudod tenni a szerelem lejátszási listát,lists_remove,0.6999,0.0011,False
+3562,hu-HU,play,play_music,játszd a rakpartot,qa_factoid,0.9718,0.0001,False
+3566,hu-HU,datetime,datetime_query,hány óra van most szekszárdon,datetime_query,0.6657,0.6657,True
+3570,hu-HU,iot,iot_hue_lightoff,kérlek kapcsold le a lámpákat a teraszon,iot_hue_lightoff,0.4689,0.4689,True
+3576,hu-HU,news,news_query,mik a legújabb hírek a pesti srácok oldalán,news_query,0.9808,0.9808,True
+3586,hu-HU,weather,weather_query,milyen az időjárás pécsett,weather_query,0.9725,0.9725,True
+3600,hu-HU,calendar,calendar_set,emlékeztess tíz perc múlva,cooking_recipe,0.9117,0.0004,False
+3603,hu-HU,news,news_query,mik a legfrissebb hírek a euronews-on,social_post,0.9128,0.0105,False
+3605,hu-HU,news,news_query,mik a legújabb hírek az r. t. l. en,recommendation_events,0.9575,0.0043,False
+3606,hu-HU,datetime,datetime_query,mennyi az idő kecskeméten,weather_query,0.9864,0.0011,False
+3614,hu-HU,weather,weather_query,ma napos idő van ugye,qa_factoid,0.9204,0.0659,False
+3623,hu-HU,news,news_query,mi történik a világban ma,social_post,0.3263,0.2209,False
+3624,hu-HU,news,news_query,hírek az a. t. v.-től,qa_factoid,0.3396,0.1631,False
+3631,hu-HU,play,play_music,hej google játsz le nekem néhány jazz zene számot,play_music,0.9999,0.9999,True
+3686,hu-HU,play,play_music,kapcsold be a lejátszási listát amit a rock zenének szenteltem,play_music,0.9402,0.9402,True
+3714,hu-HU,play,play_music,játszd le a lejátszási listát kezdve az aljáról,lists_remove,0.9851,0.0117,False
+3717,hu-HU,play,play_music,indítsd el a kilencvenes évek rap slágereit,play_music,0.9998,0.9998,True
+3723,hu-HU,play,play_music,szeretném tóth gabitól a fekete virágot hallgatni ez utan a dal után,play_music,0.3338,0.3338,True
+3725,hu-HU,datetime,datetime_query,mi a mai dátum,datetime_query,0.5981,0.5981,True
+3727,hu-HU,play,play_music,játszd ugye mi jó barátok vagyunk az lgt-től,play_music,0.8628,0.8628,True
+3750,hu-HU,news,news_query,olly jelezd azonnal ha bármilyen új hír jön ki az árvízről,iot_hue_lightoff,0.6185,0.0892,False
+3779,hu-HU,play,play_music,youtube üres lejátszólistájának lejátszása,iot_hue_lightoff,0.4738,0.0468,False
+3780,hu-HU,play,play_music,játszd le az éjféli szerelem lejátszási listám,lists_remove,0.6041,0.2027,False
+3784,hu-HU,weather,weather_query,közöld budapest időjárás jelentéstét,weather_query,0.9963,0.9963,True
+3785,hu-HU,iot,iot_hue_lightoff,kérlek kapcsold le a villanyt a fürdőszobában,iot_hue_lightoff,0.9386,0.9386,True
+3822,hu-HU,news,news_query,keress nekem infót autókról,qa_factoid,0.9976,0.0001,False
+3852,hu-HU,weather,weather_query,milyen idő van most győrben,weather_query,0.9979,0.9979,True
+3859,hu-HU,play,play_music,tedd fel a kedvenc rap zenei lejátszási listámat,social_post,0.6822,0.242,False
+3907,hu-HU,play,play_music,játssz tavalyi slágereket,cooking_recipe,0.4558,0.1723,False
+3911,hu-HU,play,play_music,bármilyen olyan dalt szeretnék hallani ami idén grammyt nyert,play_music,0.9991,0.9991,True
+3912,hu-HU,play,play_music,szeretnék dance és country zenét hallgatni,play_music,0.9999,0.9999,True
+3936,hu-HU,weather,weather_query,milyen a hőmérséklet,qa_factoid,0.782,0.0015,False
+3960,hu-HU,datetime,datetime_query,mondd meg az időt,datetime_query,0.6828,0.6828,True
+3967,hu-HU,play,play_music,rap,qa_factoid,0.5852,0.0441,False
+3980,hu-HU,play,play_music,kérlek játszd a retúrjegyet a wellhellótól,iot_hue_lightoff,0.6819,0.0019,False
+3982,hu-HU,play,play_music,kérlek válaszd ki az első dalt az itunes könyvtáramban,qa_factoid,0.9017,0.0015,False
+3993,hu-HU,iot,iot_hue_lightoff,le tudod oltani a fényeket,iot_hue_lightoff,0.874,0.874,True
+3995,hu-HU,datetime,datetime_query,olly a hét melyik napjára esik mindenszentek,email_sendemail,1.0,0.0,False
+4001,hu-HU,news,news_query,mi történt a barátok köztben,qa_factoid,0.9455,0.0001,False
+4023,hu-HU,news,news_query,mi van a hírekben,qa_factoid,0.7604,0.0,False
+4031,hu-HU,play,play_music,játszd a pandora kilencvenes évek táncestjét,play_music,0.9993,0.9993,True
+4040,hu-HU,play,play_music,játszd a legtöbbet hallgatott számomat,qa_factoid,0.5871,0.0655,False
+4058,hu-HU,play,play_music,szeretnék hallani egy kis rap zenét,play_music,0.9999,0.9999,True
+4073,hu-HU,datetime,datetime_query,milyen nap lesz ötödike,weather_query,0.9938,0.0029,False
+4077,hu-HU,iot,iot_hue_lightoff,kapcsold ki a világítást a konyhában,iot_hue_lightoff,0.8921,0.8921,True
+4088,hu-HU,iot,iot_hue_lightoff,kapcsold ki a mennyezeti lámpát,play_radio,0.7323,0.0801,False
+4104,hu-HU,weather,weather_query,milyen idő lesz ma tatán,weather_query,0.994,0.994,True
+4116,hu-HU,play,play_music,véletlen sorrendű lejátszási listát játssz,lists_remove,0.3793,0.118,False
+4119,hu-HU,news,news_query,mutasd az összes hírt a gátszakadásról pest megyében,lists_remove,0.1727,0.1549,False
+4132,hu-HU,weather,weather_query,mondd meg hány százalék a valószínűsége annak hogy ma esni fog miskolcon,qa_factoid,0.9948,0.0032,False
+4136,hu-HU,play,play_music,játszanál nekem aleet kérlek,play_music,1.0,1.0,True
+4152,hu-HU,play,play_music,kérlek játszd a nincsen gond című dalt,play_music,0.9991,0.9991,True
+4168,hu-HU,weather,weather_query,ellenőrizd a szegedi időjárást,weather_query,0.9776,0.9776,True
+4171,hu-HU,iot,iot_hue_lightoff,kapcsold ki a világítást a konyhában,iot_hue_lightoff,0.8921,0.8921,True
+4177,hu-HU,news,news_query,mutasd a legfrissebb politikai híreket a világból,news_query,0.6496,0.6496,True
+4178,hu-HU,news,news_query,van bármi hír az elnökségről,qa_factoid,0.7129,0.174,False
+4183,hu-HU,datetime,datetime_query,a jelenlegi idő nyírbátorban,weather_query,0.9825,0.007,False
+4186,hu-HU,datetime,datetime_query,hé olly mennyi az idő,weather_query,0.999,0.0,False
+4187,hu-HU,datetime,datetime_query,hé siri mennyi az idő,weather_query,0.9977,0.0002,False
+4205,hu-HU,play,play_music,a mindent akarom hallani deshtől,qa_factoid,0.7504,0.0003,False
+4212,hu-HU,weather,weather_query,tudok majd füvet nyírni ma este,cooking_recipe,0.9997,0.0,False
+4227,hu-HU,weather,weather_query,az előrejelzések szerint várható eső a jövő héten,weather_query,0.9936,0.9936,True
+4232,hu-HU,play,play_music,játszd miénk itt a tér lgt-től,play_music,0.9376,0.9376,True
+4236,hu-HU,datetime,datetime_query,már délután van,qa_factoid,0.6077,0.0148,False
+4253,hu-HU,datetime,datetime_query,hány óra is van most keleti parti idő szerint,datetime_query,0.9935,0.9935,True
+4254,hu-HU,datetime,datetime_query,mennyi most az idő a dunántúlon magyarországon,weather_query,0.997,0.0001,False
+4258,hu-HU,news,news_query,mik a legújabb hírek,news_query,0.9111,0.9111,True
+4266,hu-HU,weather,weather_query,milyen a mai időjárás,weather_query,0.9982,0.9982,True
+4273,hu-HU,play,play_music,játszd le a belehalok című dalt,play_music,1.0,1.0,True
+4290,hu-HU,weather,weather_query,vigyek magammal kabátot ma este,qa_factoid,1.0,0.0,False
+4305,hu-HU,play,play_music,játsszd le a mindegy címú számot azahriahtól,qa_factoid,1.0,0.0,False
+4309,hu-HU,datetime,datetime_query,hány óra múlva lesz éjfél az angliai londonban,weather_query,0.9985,0.0008,False
+4312,hu-HU,weather,weather_query,tíz fok alatt lesz az idő budapesten,iot_hue_lightoff,0.5743,0.419,False
+4313,hu-HU,weather,weather_query,esni fog holnap budapesten,social_post,0.13,0.0927,False
+4336,hu-HU,datetime,datetime_query,mennyi az idő kínában,weather_query,0.9816,0.0015,False
+4346,hu-HU,iot,iot_hue_lightoff,kapcsold le a fényeket,iot_hue_lightoff,0.999,0.999,True
+4347,hu-HU,iot,iot_hue_lightoff,szüneteltesd a világítás működését,iot_hue_lightoff,0.9665,0.9665,True
+4355,hu-HU,weather,weather_query,milyen az időjárás ott ahol vagyok,weather_query,0.9978,0.9978,True
+4361,hu-HU,play,play_music,adj nekem néhány jó hangot,social_post,0.875,0.0253,False
+4362,hu-HU,datetime,datetime_query,mennyi az idő szegeden,qa_factoid,0.5552,0.001,False
+4376,hu-HU,weather,weather_query,milyen ma odakint,qa_factoid,1.0,0.0,False
+4377,hu-HU,weather,weather_query,milyen az aktuális időjárás,weather_query,0.9972,0.9972,True
+4383,hu-HU,weather,weather_query,milyen idő lesz holnap,weather_query,0.9958,0.9958,True
+4391,hu-HU,news,news_query,melyek a főcímek a hír t. v. -n,qa_factoid,0.7918,0.0006,False
+4400,hu-HU,news,news_query,melyek a felkapott cikkek a népszavában,social_post,0.5378,0.0064,False
+4402,hu-HU,weather,weather_query,kell majd egy brolly sátrat cipelnem ma magammal,qa_factoid,0.9011,0.0015,False
+4412,hu-HU,weather,weather_query,milyen poroszlón az időjárás,weather_query,0.9797,0.9797,True
+4436,hu-HU,weather,weather_query,milyen kabátot vegyek fel,iot_hue_lightoff,0.5644,0.0003,False
+4439,hu-HU,weather,weather_query,milyen az idő pécsen,iot_hue_lightoff,0.7314,0.1966,False
+4449,hu-HU,weather,weather_query,fog ma délután egykor esni,weather_query,0.9946,0.9946,True
+4452,hu-HU,play,play_music,játssz dalokat,play_music,0.8616,0.8616,True
+4463,hu-HU,datetime,datetime_query,hány szombat van márciusban,weather_query,0.9635,0.001,False
+4477,hu-HU,play,play_music,játsz egy dalt következőnek,play_music,0.9997,0.9997,True
+4482,hu-HU,weather,weather_query,lapátolnom kell a kocsifelhajtómon ma reggel,qa_factoid,0.571,0.0001,False
+4486,hu-HU,weather,weather_query,add meg az időjárás előrejelzést erre a hétre,weather_query,0.891,0.891,True
+4487,hu-HU,weather,weather_query,esni fog csütörtökön,weather_query,0.9126,0.9126,True
+4491,hu-HU,news,news_query,mik a legutóbbi hírek donald trumpról,play_music,0.8612,0.0002,False
+4492,hu-HU,news,news_query,melyek a legfrissebb bűnügyi statisztikák a környékemen,lists_query,0.8256,0.0497,False
+4496,hu-HU,news,news_query,mit posztolt a nők lapja ma,social_post,0.9998,0.0,False
+4502,hu-HU,datetime,datetime_query,hé hány óra van most londonban,weather_query,0.9864,0.0002,False
+4524,hu-HU,weather,weather_query,olly mi a mai időjárás előrejelzés,weather_query,0.9727,0.9727,True
+4547,hu-HU,play,play_music,indítsd el a kutyasétáltatós lejátszási listát,lists_remove,0.9529,0.0007,False
+4567,hu-HU,news,news_query,olvasd fel nekem a legfrissebb főcímeket a nepszava pont huról,qa_factoid,0.6596,0.0011,False
+4580,hu-HU,datetime,datetime_query,mennyi az idő chicagoban,weather_query,0.9965,0.0001,False
+4587,hu-HU,play,play_music,játszd a kedvenceimet,qa_factoid,1.0,0.0,False
+4589,hu-HU,calendar,calendar_set,küldj értesítést sport játékra,email_sendemail,0.9976,0.0,False
+4606,hu-HU,news,news_query,keress információt a mai részvényárakról,recommendation_events,0.3377,0.0138,False
+4614,hu-HU,weather,weather_query,negyvennél magasabb lesz holnap a hőmérséklet,qa_factoid,0.5433,0.2083,False
+4662,hu-HU,news,news_query,hírek az a. t. v. -n alexa,qa_factoid,0.7857,0.0008,False
+4667,hu-HU,datetime,datetime_query,aktuális idő,qa_factoid,0.9554,0.0121,False
+4680,hu-HU,weather,weather_query,szandált vegyek vagy cipőt zoknival,iot_hue_lightoff,0.2057,0.0254,False
+4689,hu-HU,weather,weather_query,tudod az időjárást,weather_query,0.5126,0.5126,True
+4692,hu-HU,play,play_music,játssz le egy dalt vastag csabától,play_music,0.9831,0.9831,True
+4710,hu-HU,datetime,datetime_query,melyik nap van idén mindenszentek,play_radio,0.1943,0.0337,False
+4764,hu-HU,weather,weather_query,esni fog hétfőn,weather_query,0.9927,0.9927,True
+4767,hu-HU,news,news_query,van valami új hír az amerikai-mexikói határfalról,news_query,0.9337,0.9337,True
+4772,hu-HU,datetime,datetime_query,mondd meg az időt ebben az időzónában,weather_query,0.957,0.0014,False
+4780,hu-HU,datetime,datetime_query,milyen napra esik idén a születésnapom június huszonhetedikén,weather_query,0.999,0.0001,False
+4784,hu-HU,weather,weather_query,szükségem van kabátra,qa_factoid,0.991,0.0003,False
+4813,hu-HU,datetime,datetime_query,mennyi az idő egy másik városban,weather_query,0.999,0.0001,False
+4837,hu-HU,news,news_query,van bármi hír olly,social_post,0.9283,0.0001,False
+4838,hu-HU,play,play_music,játszd le az összes zenét tóth anditól,play_music,1.0,1.0,True
+4871,hu-HU,weather,weather_query,milyen odakint,qa_factoid,1.0,0.0,False
+4881,hu-HU,datetime,datetime_query,keress jelenlegi helyi időt és időzónát,weather_query,0.5542,0.0113,False
+4882,hu-HU,datetime,datetime_query,hány óra van egy városban,weather_query,0.6247,0.3255,False
+4890,hu-HU,calendar,calendar_set,értesítések beállítása az aktuális időjárási katasztrófákról európában,weather_query,0.343,0.1507,False
+4909,hu-HU,play,play_music,játssz dér heni dalokat,play_music,0.8553,0.8553,True
+4917,hu-HU,weather,weather_query,kinti hőmérséklet,iot_hue_lightoff,0.54,0.0004,False
+4928,hu-HU,play,play_music,játszd az én zenei listám,qa_factoid,0.9607,0.0299,False
+4933,hu-HU,weather,weather_query,esni fog most,weather_query,0.5829,0.5829,True
+4951,hu-HU,datetime,datetime_query,szeretném tudni hogy hány óra van most,weather_query,0.9142,0.0818,False
+4953,hu-HU,news,news_query,hírek a vonatbaleset kapcsán,qa_factoid,0.9343,0.0001,False
+4957,hu-HU,datetime,datetime_query,milyen napra esik e hó huszonharmadika,qa_factoid,0.9246,0.0002,False
+4960,hu-HU,play,play_music,omega zene,iot_hue_lightoff,0.7242,0.0132,False
+4968,hu-HU,qa,qa_factoid,ki nyerte idén az elnökválasztást,qa_factoid,0.9948,0.9948,True
+4973,hu-HU,play,play_music,olly játszd le a most múlik pontosant,qa_factoid,0.9555,0.0,False
+4998,hu-HU,play,play_music,add hozzá ezt a dalt a következő lejátszott dalhoz,play_music,0.9959,0.9959,True
+5009,hu-HU,weather,weather_query,szükségem lesz esernyőre ezen a héten,iot_hue_lightoff,0.9663,0.0031,False
+5016,hu-HU,news,news_query,mondd el a híreket a részvénypiaci hullámvölgyekről,social_post,0.4362,0.1116,False
+5027,hu-HU,datetime,datetime_query,mikor lesz legközelebb péntek tizenharmadika,recommendation_events,0.8441,0.002,False
+5037,hu-HU,weather,weather_query,mennyire van ma hideg,qa_factoid,0.4282,0.0242,False
+5038,hu-HU,weather,weather_query,milyen az időjárás ezen a héten,weather_query,0.9983,0.9983,True
+5040,hu-HU,weather,weather_query,milyen most az idő,weather_query,0.9984,0.9984,True
+5062,hu-HU,play,play_music,kérlek játssz nekem dalokat a nyolcvanas évekből,play_music,1.0,1.0,True
+5074,hu-HU,weather,weather_query,milyen volt az időjárás a héten,weather_query,0.999,0.999,True
+5085,hu-HU,weather,weather_query,mi az előrejelzés szombatra,weather_query,0.2656,0.2656,True
+5118,hu-HU,play,play_music,olyan ő,qa_factoid,0.6447,0.0001,False
+5127,hu-HU,news,news_query,itt az igazság a házhoz szállításról valakinek a költségvetésében,qa_factoid,0.4263,0.0268,False
+5131,hu-HU,datetime,datetime_query,kérlek mondd el mennyi az idő tatabányán,qa_factoid,0.428,0.0476,False
+5134,hu-HU,play,play_music,találj dalokat az én nagy együttesek lejátszási listámról,play_music,0.5729,0.5729,True
+5156,hu-HU,iot,iot_hue_lightoff,kapcsold ki a világítást a nappaliban,iot_hue_lightoff,0.9777,0.9777,True
+5157,hu-HU,iot,iot_hue_lightoff,olly kapcsold ki a világítást a nappaliban,iot_hue_lightoff,0.9934,0.9934,True
+5158,hu-HU,play,play_music,kérlek játszd le a legújabb dalt a neoton família albumáról,play_music,0.9815,0.9815,True
+5159,hu-HU,play,play_music,lejátszanád a dalt az előadóművész rúzsa magditól kérlek,play_music,0.9996,0.9996,True
+5160,hu-HU,play,play_music,lejátszanád michael jackson dalát,social_post,0.9999,0.0,False
+5176,hu-HU,weather,weather_query,milyen időre számítsak ezen a héten,datetime_query,0.5616,0.4169,False
+5196,hu-HU,news,news_query,a brexitről szeretnék informálódni,iot_hue_lightoff,0.7829,0.0001,False
+5225,hu-HU,datetime,datetime_query,hanyadika lesz jövő szerdán,iot_hue_lightoff,0.8768,0.0024,False
+5243,hu-HU,iot,iot_hue_lightoff,siri kérlek kapcsold le a világítást a fürdőszobában,iot_hue_lightoff,0.9752,0.9752,True
+5245,hu-HU,news,news_query,környezetvédelmi hírekről való értesítés beállítása,email_sendemail,0.9927,0.0003,False
+5270,hu-HU,news,news_query,mik a mostani legfrissebb hírek,iot_hue_lightoff,0.8677,0.001,False
+5278,hu-HU,play,play_music,csak a pop mixből játssz le zenéket,play_music,0.9659,0.9659,True
+5279,hu-HU,play,play_music,kérlek játssz csak szomorú dalokat a zenelejátszón,play_music,1.0,1.0,True
+5286,hu-HU,news,news_query,mutasd az a. t. v. híreit a migrációról,qa_factoid,0.8522,0.0033,False
+5296,hu-HU,news,news_query,olly mutasd a népszerű híreket a telexen,social_post,0.9938,0.0001,False
+5297,hu-HU,news,news_query,mutasd a telex népszerű híreit,social_post,0.9602,0.0004,False
+5301,hu-HU,weather,weather_query,milyen lesz az időjárás kétezer-tizenhét március huszadikán,weather_query,0.9979,0.9979,True
+5307,hu-HU,datetime,datetime_query,ma március huszadika van,qa_factoid,0.9994,0.0,False
+5318,hu-HU,play,play_music,csak halott pénz számokat játssz,play_music,0.9771,0.9771,True
+5321,hu-HU,weather,weather_query,mutasd az időjárást,iot_hue_lightoff,0.3901,0.3851,False
+5328,hu-HU,play,play_music,rock,qa_factoid,0.5125,0.0155,False
+5339,hu-HU,weather,weather_query,alacsony lehűlési viszonyok,weather_query,0.9283,0.9283,True
+5341,hu-HU,datetime,datetime_query,kérlek tájékoztass a pontos időről,weather_query,0.896,0.0087,False
+5347,hu-HU,play,play_music,játssz techno zenét,play_music,1.0,1.0,True
+5358,hu-HU,datetime,datetime_query,frissíts az aktuális időre,calendar_remove,0.8695,0.0027,False
+5370,hu-HU,news,news_query,mi a legutóbbi orbán ellentmondás,qa_factoid,0.9835,0.0001,False
+5378,hu-HU,play,play_music,s.,play_radio,0.1383,0.0381,False
+5401,hu-HU,play,play_music,zene,qa_factoid,0.9931,0.0002,False
+5410,hu-HU,news,news_query,olvasd fel nekem a népszabadság legújabb szalagcímeit,play_podcasts,0.6854,0.1084,False
+5411,hu-HU,news,news_query,melyek a legfrissebb hírek a t. v. kettőn,news_query,0.3788,0.3788,True
+5413,hu-HU,play,play_music,játszd le a zenét,qa_factoid,0.9946,0.0001,False
+5414,hu-HU,play,play_music,felteszed a zenét,iot_hue_lightoff,0.9507,0.0002,False
+5427,hu-HU,datetime,datetime_query,mennyi most az idő magyarországon,weather_query,0.9987,0.0001,False
+5433,hu-HU,weather,weather_query,fog esni az eső később,weather_query,0.9959,0.9959,True
+5439,hu-HU,weather,weather_query,szükségem lesz esőernyőre ma éjszaka,weather_query,0.9808,0.9808,True
+5465,hu-HU,weather,weather_query,felvehetem a szandáljaimat ma,cooking_recipe,0.8614,0.0011,False
+5468,hu-HU,weather,weather_query,vigyek napszemüveget,iot_hue_lightoff,0.9962,0.0001,False
+5524,hu-HU,weather,weather_query,az időjárás pillanatnyilag,iot_hue_lightoff,0.8348,0.1584,False
+5529,hu-HU,weather,weather_query,mikor menjek kirándulni,social_post,0.9841,0.0002,False
+5557,hu-HU,play,play_music,reggae zenét akarok,qa_definition,0.4402,0.3229,False
+5577,hu-HU,weather,weather_query,teljes védőkabátra lesz szükségem ha túl viharos lesz este,iot_hue_lightoff,0.5735,0.0158,False
+5578,hu-HU,weather,weather_query,télen reggelente meleg zoknira lesz szükségem,play_music,1.0,0.0,False
+5584,hu-HU,iot,iot_hue_lightoff,kérlek kapcsold ki a világítást,iot_hue_lightoff,0.9982,0.9982,True
+5590,hu-HU,weather,weather_query,hőmérséklet megnyitása,iot_hue_lightoff,0.6051,0.2912,False
+5593,hu-HU,play,play_music,játszd le a szájbergyereket a kistehéntől,play_music,0.6127,0.6127,True
+5619,hu-HU,play,play_music,játszd le az előző dalt,play_music,1.0,1.0,True
+5627,hu-HU,play,play_music,játssz egy kis zenét az illéstől,play_music,1.0,1.0,True
+5640,hu-HU,datetime,datetime_query,jelenítsd meg a dátumot,qa_factoid,0.9942,0.005,False
+5650,hu-HU,weather,weather_query,kérdezd meg az időjárást ma este,weather_query,0.9964,0.9964,True
+5658,hu-HU,play,play_music,kérlek játszd nekem a kistehén zenéjét,play_music,0.9243,0.9243,True
+5661,hu-HU,weather,weather_query,magammal vigyem a esőkabátomat most,qa_factoid,0.9894,0.0003,False
+5671,hu-HU,datetime,datetime_query,mennyi az idő budapesten,weather_query,0.9959,0.0011,False
+5678,hu-HU,datetime,datetime_query,milyen napra esik augusztus tizenötödike,weather_query,0.9972,0.0004,False
+5683,hu-HU,play,play_music,játszd le a bulizós számok lejátszási listámat,play_podcasts,0.4714,0.1384,False
+5688,hu-HU,news,news_query,kérlek mondd meg a hírek főcímeit,recommendation_events,0.5878,0.0026,False
+5703,hu-HU,datetime,datetime_query,idő most,qa_factoid,0.9962,0.0,False
+5707,hu-HU,play,play_music,hallgassuk a kedvenceimet,qa_factoid,0.9325,0.0007,False
+5721,hu-HU,weather,weather_query,mutasd a környék holnapi időjárását,weather_query,0.9465,0.9465,True
+5722,hu-HU,weather,weather_query,mutasd a hét napos előrejelzést erre a hétre,calendar_remove,0.409,0.0833,False
+5732,hu-HU,weather,weather_query,lecseréljem az autó gumikat téli gumira a közeljövőben,recommendation_events,0.6904,0.0134,False
+5757,hu-HU,datetime,datetime_query,háromnegyed kettő,qa_factoid,0.2352,0.0326,False
+5758,hu-HU,weather,weather_query,milyen az idő a fővárosban,weather_query,0.998,0.998,True
+5774,hu-HU,datetime,datetime_query,a pontos idő sopronban,qa_factoid,0.9604,0.0124,False
+5797,hu-HU,weather,weather_query,viseljek esőkabátot mielőtt kimegyek,iot_hue_lightoff,0.8741,0.044,False
+5813,hu-HU,play,play_music,játszd a legjobb méreg dalt,qa_factoid,0.9721,0.0057,False
+5820,hu-HU,play,play_music,kényeztesd a füleimet ákossal,email_sendemail,0.9954,0.0,False
+5837,hu-HU,weather,weather_query,mondd meg nekem az e heti időjárást,weather_query,0.9546,0.9546,True
+5871,hu-HU,weather,weather_query,milyen ma a szegedi időjárás,weather_query,0.9984,0.9984,True
+5886,hu-HU,news,news_query,felkapott téma,qa_definition,0.5936,0.0144,False
+5919,hu-HU,news,news_query,mik a legújabb fejlemények a lánchíd javaslattal kapcsolatban,recommendation_events,0.9309,0.0544,False
+5930,hu-HU,news,news_query,bármilyen friss hírek a telextől,qa_factoid,1.0,0.0,False
+5948,hu-HU,play,play_music,játssz jó zenéket a lejátszási listámról,play_music,0.9994,0.9994,True
+5953,hu-HU,weather,weather_query,olcsóbb vagy drágább városban élni,social_post,0.2061,0.0527,False
+5955,hu-HU,weather,weather_query,mennyire biztonságos a város a törvény és rend tekintetében,qa_factoid,0.7561,0.0126,False
+5970,hu-HU,play,play_music,játszd le nekem a vén európát,qa_factoid,0.9997,0.0,False
+5985,hu-HU,news,news_query,mutasd a legfrissebb híreket az e.n.sz.-ről,news_query,0.9989,0.9989,True
+5996,hu-HU,weather,weather_query,szükségem lesz a hócsizmámra ma délután,iot_hue_lightoff,0.8515,0.1466,False
+5997,hu-HU,datetime,datetime_query,hány óra van a központi idő szerint,datetime_query,0.9776,0.9776,True
+6023,hu-HU,weather,weather_query,ragadós éjszaka lesz e,cooking_recipe,0.9987,0.0,False
+6024,hu-HU,weather,weather_query,pulóvert vagy kabátot vigyek ma a munkahelyemre,qa_factoid,0.8725,0.0022,False
+6025,hu-HU,weather,weather_query,szükségem lesz naptejre ma délután,iot_hue_lightoff,0.5599,0.4358,False
+6027,hu-HU,play,play_music,indítsd el a kedvenc dalaimat,email_sendemail,0.8788,0.0001,False
+6039,hu-HU,weather,weather_query,esős nap lesz holnap,weather_query,0.9956,0.9956,True
+6041,hu-HU,iot,iot_hue_lightoff,hé olly kapcsold ki a világítást kérlek,iot_hue_lightoff,0.9975,0.9975,True
+6045,hu-HU,play,play_music,a kiválasztott dal hozzáadása,play_music,0.9332,0.9332,True
+6050,hu-HU,weather,weather_query,kell-e naptej később,weather_query,0.9282,0.9282,True
+6055,hu-HU,iot,iot_hue_lightoff,felkapcsolva hagytam a lámpát a garázsban,iot_hue_lightoff,0.8956,0.8956,True
+6059,hu-HU,play,play_music,játssz rap zenét,play_music,1.0,1.0,True
+6069,hu-HU,weather,weather_query,valószínűek ma viharok,qa_factoid,0.9126,0.0,False
+6073,hu-HU,iot,iot_hue_lightoff,kapcsold le a veranda lámpáját,iot_hue_lightoff,0.6883,0.6883,True
+6074,hu-HU,iot,iot_hue_lightoff,kapcsold le a hálószoba fényét este kilenc harminckor,iot_hue_lightoff,0.9688,0.9688,True
+6077,hu-HU,news,news_query,szeretném hallani a legújabb mai világhíreket,play_podcasts,0.922,0.0521,False
+6093,hu-HU,weather,weather_query,kinyissam e a naptetőt,iot_hue_lightoff,0.705,0.0049,False
+6103,hu-HU,weather,weather_query,hé milyen lesz az időjárás ma miskolcon,weather_query,0.9983,0.9983,True
+6116,hu-HU,weather,weather_query,információ az eheti időjárásról,weather_query,0.7526,0.7526,True
+6118,hu-HU,datetime,datetime_query,hány óra van most pécset baranyában,weather_query,0.5878,0.2995,False
+6127,hu-HU,weather,weather_query,ajánlod az esernyőt,iot_hue_lightoff,0.9923,0.0001,False
+6129,hu-HU,news,news_query,tarts naprakészen a világ híreiről,social_post,0.5208,0.1202,False
+6151,hu-HU,weather,weather_query,a mai időjárást szeretném megtudni,datetime_query,0.6121,0.3655,False
+6172,hu-HU,weather,weather_query,jó választás ma a napszemüveg,cooking_recipe,0.4594,0.0009,False
+6177,hu-HU,weather,weather_query,szükségem lesz esőernyőre ma,weather_query,0.9434,0.9434,True
+6178,hu-HU,weather,weather_query,kéne dzsekit vennem,qa_definition,0.7647,0.0,False
+6194,hu-HU,weather,weather_query,milyen ma az időjárás,weather_query,0.9988,0.9988,True
+6289,hu-HU,weather,weather_query,hé milyen ma az időjárás,weather_query,0.9974,0.9974,True
+6370,hu-HU,calendar,calendar_query,hogy néz ki a következő hetem,weather_query,0.8498,0.0045,False
+6372,hu-HU,news,news_query,növényalapú hírek,qa_factoid,0.8886,0.0002,False
+6403,hu-HU,transport,transport_query,hogy jutok el valahova,social_post,0.9876,0.0001,False
+6410,hu-HU,news,news_query,mi történik franciaországban ma,weather_query,0.9517,0.0013,False
+6411,hu-HU,weather,weather_query,milyen az időjárás jövő szerdán,weather_query,0.9993,0.9993,True
+6539,hu-HU,calendar,calendar_set,jelöld meg a mai napot a diétám kezdeteként,cooking_recipe,0.9243,0.0016,False
+6542,hu-HU,cooking,cooking_recipe,a puha sajt jobb mint a kemény,cooking_recipe,0.9955,0.9955,True
+6618,hu-HU,news,news_query,mondj érdekes híreket,recommendation_events,0.5444,0.3645,False
+6682,hu-HU,news,news_query,választások itt,recommendation_events,0.8578,0.0052,False
+6683,hu-HU,news,news_query,gazdasági ügyek,cooking_recipe,0.8979,0.0017,False
+6713,hu-HU,calendar,calendar_remove,töröld a szerdai üzleti tájékoztatót,qa_factoid,0.9505,0.0012,False
+6722,hu-HU,calendar,calendar_query,van bármi amiről emlékeztetni kellene,qa_factoid,0.2655,0.0103,False
+6725,hu-HU,calendar,calendar_set,emlékeztess a délutáni időbeosztásomról,weather_query,0.8531,0.0024,False
+6726,hu-HU,calendar,calendar_remove,töröld a következő találkozót,calendar_remove,0.761,0.761,True
+6729,hu-HU,calendar,calendar_remove,töröld a reggelit a gerlóczy kávéházban,play_music,0.981,0.0003,False
+6732,hu-HU,calendar,calendar_set,adj hozzá egy találkozó emlékeztetőt vasárnapra a sógoraimmal,iot_hue_lightoff,0.9934,0.0023,False
+6744,hu-HU,calendar,calendar_set,írd be holnap délelőtt tíz órára hogy találkozom gergővel,qa_factoid,0.999,0.0,False
+6746,hu-HU,calendar,calendar_set,rögzítsd június első hetét szabadságként a naptáramba,iot_hue_lightoff,0.7282,0.0009,False
+6747,hu-HU,calendar,calendar_query,mennyi emlékeztetőm van,qa_factoid,0.9076,0.0008,False
+6755,hu-HU,calendar,calendar_remove,kérlek tisztítsd meg a naptáram,cooking_recipe,0.9068,0.0032,False
+6761,hu-HU,calendar,calendar_remove,távolítsd el a naptáramból a reggel kilenc órás találkozót,iot_hue_lightoff,0.8137,0.1332,False
+6764,hu-HU,calendar,calendar_set,emlékeztess hogy mossam le az ablakokat,cooking_recipe,0.9857,0.0001,False
+6774,hu-HU,calendar,calendar_set,állíts be egy eseményt péntekre,email_sendemail,0.8497,0.0096,False
+6785,hu-HU,calendar,calendar_query,mi a következő emlékeztetőm,email_sendemail,0.7486,0.0056,False
+6789,hu-HU,calendar,calendar_set,állíts be egy találkozót hannával szombat délután négyre,social_post,0.634,0.0824,False
+6798,hu-HU,calendar,calendar_remove,töröld a következő eseményt,datetime_query,0.165,0.0204,False
+6801,hu-HU,calendar,calendar_query,mutasd meg a találkozóimat erre a péntekre,qa_factoid,0.8463,0.0008,False
+6806,hu-HU,calendar,calendar_query,mutasd meg a naptáramban az eseményeket péntek délutánra,iot_hue_lightoff,0.196,0.0284,False
+6815,hu-HU,calendar,calendar_set,emlékeztess anyám szülinapjára egy héttel korábban,play_music,0.5078,0.007,False
+6819,hu-HU,calendar,calendar_set,olly egy jó zenekar játszik ma este kilenckor a jazz bárban szeretnék menni,play_music,0.9984,0.0001,False
+6836,hu-HU,calendar,calendar_set,emlékeztess a holnapi értekezletemről hatkor,email_sendemail,1.0,0.0,False
+6850,hu-HU,calendar,calendar_query,listázd ki a mai napirendemet,lists_remove,0.9749,0.0001,False
+6856,hu-HU,calendar,calendar_set,emlékeztess értesítésben a holnapi találkozóra d. e. tízkor,social_post,0.335,0.0049,False
+6860,hu-HU,calendar,calendar_query,van valamilyen közelgő esemény,weather_query,0.6269,0.0085,False
+6865,hu-HU,calendar,calendar_set,értesíts a holnapi találkozóról tízkor,email_sendemail,0.1457,0.014,False
+6878,hu-HU,calendar,calendar_set,ütemezz be egy találkozót a számviteli részleggel kettő harmincra pénteken,calendar_remove,0.2708,0.0125,False
+6891,hu-HU,calendar,calendar_query,vannak elérhető reggeli előadások,play_podcasts,0.4066,0.0086,False
+6892,hu-HU,calendar,calendar_query,oda tudnád adni a mozi vetítési időpontokat,qa_factoid,0.9967,0.0,False
+6897,hu-HU,calendar,calendar_set,emlékeztess hogy vegyem fel katát este ötkor hetedikén,play_music,0.7246,0.0018,False
+6901,hu-HU,calendar,calendar_set,emlékeztess holnap reggel tízkor a találkozómról,email_sendemail,0.8999,0.0056,False
+6902,hu-HU,calendar,calendar_set,állíts be egy emlékeztetőt jövő hónapra olajcserére,iot_hue_lightoff,0.9295,0.0107,False
+6909,hu-HU,calendar,calendar_query,mi történik egy után és d. u. három előtt,qa_factoid,0.7558,0.0078,False
+6918,hu-HU,calendar,calendar_remove,töröld az eseményeket a naptárbóle,qa_factoid,0.4416,0.015,False
+6923,hu-HU,calendar,calendar_set,állíts emlékeztetőt kedd reggelre hogy kinyomtassam a dokumentumokat,play_radio,0.5003,0.0042,False
+6926,hu-HU,calendar,calendar_query,péntek van,qa_factoid,0.5169,0.0234,False
+6928,hu-HU,calendar,calendar_remove,töröld az összes eseményt,calendar_remove,0.4562,0.4562,True
+6936,hu-HU,calendar,calendar_set,emlékeztess hogy vegyem be a gyógyszerem reggel kilenckor,cooking_recipe,0.9842,0.0004,False
+6937,hu-HU,calendar,calendar_set,állíts be emlékeztetőt délre a főnökkel való ebédre,iot_hue_lightoff,0.992,0.0061,False
+6946,hu-HU,calendar,calendar_query,van bármilyen találkozóm jövő szerdán,qa_factoid,0.5814,0.0042,False
+6958,hu-HU,calendar,calendar_remove,menj biztonsra hogy ne legyen egy esemény sem a naptáramban,qa_factoid,0.9339,0.0189,False
+6959,hu-HU,calendar,calendar_set,emlékeztess az értekezletemre egy órával a kezdete előtt,recommendation_events,0.4518,0.0316,False
+6962,hu-HU,calendar,calendar_set,megtudhatom hogy mit kell tennem majd jövő szombaton d.u. hatkor,weather_query,0.3721,0.0153,False
+6964,hu-HU,calendar,calendar_set,tudnál emlékeztetni a kövtekező találkozómra a főnökömmel egy órával előtte,email_sendemail,0.5242,0.0072,False
+6967,hu-HU,calendar,calendar_query,ellenőrizd a tényeket ebben a kérdésben,qa_factoid,0.9707,0.001,False
+6968,hu-HU,calendar,calendar_query,meg kell erősítenem az összes találkozót mára,iot_hue_lightoff,0.9812,0.0003,False
+6973,hu-HU,calendar,calendar_set,adj hozzá egy emlékeztetőt egy holnapi konferenciára szegeden,iot_hue_lightoff,0.6608,0.0094,False
+6974,hu-HU,calendar,calendar_set,van egy feladatom budapesten holnap emlékeztess róla,social_post,0.499,0.0076,False
+6980,hu-HU,calendar,calendar_query,mutasd a teendőlistát,email_sendemail,0.9989,0.0,False
+6992,hu-HU,calendar,calendar_query,mutasd a jövőbeli eseményeket,email_sendemail,0.8696,0.0015,False
+6994,hu-HU,calendar,calendar_set,emlékeztess,cooking_recipe,0.9802,0.0001,False
+6997,hu-HU,calendar,calendar_remove,töröld a következő eseményt,datetime_query,0.165,0.0204,False
+7000,hu-HU,calendar,calendar_set,új esemény,email_sendemail,0.9997,0.0,False
+7004,hu-HU,calendar,calendar_set,adj a naptáramhoz emlékeztetőt minden évben erre a dátumra,email_sendemail,0.6788,0.0284,False
+7013,hu-HU,calendar,calendar_query,mikor kezdődik az esemény,datetime_query,0.9888,0.0002,False
+7014,hu-HU,calendar,calendar_query,add meg a mai események időbeosztását,datetime_query,0.7354,0.0017,False
+7025,hu-HU,calendar,calendar_remove,töröld újévet a naptáramból,iot_hue_lightoff,0.6288,0.02,False
+7026,hu-HU,recommendation,recommendation_events,milyen események zajlanak a városomban ezen a héten,news_query,0.8481,0.0094,False
+7039,hu-HU,calendar,calendar_set,állíts be nekem egy értekezletet jövő kedd délelőtt tizenegyre nórával,recommendation_events,0.9999,0.0,False
+7044,hu-HU,calendar,calendar_set,kérlek emlékeztess hogy kezdjek el készülődni d. u. öt órakor,email_sendemail,0.9983,0.0004,False
+7046,hu-HU,calendar,calendar_set,adj hozzá egy találkozót huszonegyedikén hétkor,recommendation_events,0.3764,0.108,False
+7055,hu-HU,calendar,calendar_set,tervezz be egy találkozót mátéval csütörtök délelőtt tizenegy órára,cooking_recipe,0.3989,0.0098,False
+7057,hu-HU,calendar,calendar_set,tervezz be egy munkaebédet bélával szerda délre,cooking_recipe,0.267,0.0068,False
+7061,hu-HU,calendar,calendar_set,küldj egy emlékeztetőt huszonnégy órával a pénteki találkozóm előtt gézával,email_sendemail,1.0,0.0,False
+7073,hu-HU,calendar,calendar_set,keresd meg a naptáramban a következő eseményt és értesíts mielőtt történne,recommendation_events,0.1525,0.0287,False
+7080,hu-HU,calendar,calendar_remove,törölj mindent a naptárból,qa_factoid,0.5185,0.0034,False
+7087,hu-HU,calendar,calendar_remove,töröld a holnapi találkozót a naptáramból,social_post,0.3641,0.0287,False
+7098,hu-HU,calendar,calendar_set,add hozzá a naptáramhoz a gépjármű kifizetést tizenkettedikére,iot_hue_lightoff,0.4303,0.0131,False
+7100,hu-HU,calendar,calendar_set,emlékeztess egy nappal az autóm esedékessége előtt,play_music,0.879,0.0036,False
+7111,hu-HU,calendar,calendar_query,hánykor van időpontom az orvoshoz március harmincegyedikén,qa_factoid,0.848,0.0002,False
+7113,hu-HU,calendar,calendar_query,lesz valamilyen esemény ezen a hétvégén a belvárosban,lists_remove,0.4111,0.015,False
+7117,hu-HU,calendar,calendar_remove,töröld a naptáramból az eseményeket tizenkilencedikén,cooking_recipe,0.4081,0.0096,False
+7120,hu-HU,calendar,calendar_query,mi a napirendem ma,qa_factoid,0.9953,0.0001,False
+7122,hu-HU,calendar,calendar_set,meg tudnád ismételni ezt az eseményt,play_podcasts,0.5571,0.0008,False
+7140,hu-HU,calendar,calendar_set,állíts be egy emlékeztetőt hogy egy órával a üzleti ebéd előtt jelezzen,iot_hue_lightoff,0.7335,0.1023,False
+7141,hu-HU,calendar,calendar_query,ez a program van tervezve,qa_factoid,0.8872,0.0013,False
+7151,hu-HU,calendar,calendar_set,állíts emlékeztetőt minden páratlan számú vasárnapra,iot_hue_lightoff,0.9906,0.0028,False
+7152,hu-HU,calendar,calendar_set,ebéd beállítása minden nap tizenkettő harmincra,email_sendemail,0.995,0.0,False
+7161,hu-HU,calendar,calendar_set,emlékeztess erre az eseményre a jövőben,email_sendemail,0.3283,0.0064,False
+7170,hu-HU,calendar,calendar_set,ma van édesanyám születésnapja küldj értesítőt ezen a napon minden évben,datetime_query,0.5125,0.0143,False
+7181,hu-HU,calendar,calendar_set,ébressz fel csütörtökön reggel hatkor hogy legyen időm a találkozóra,iot_hue_lightoff,0.9652,0.001,False
+7185,hu-HU,calendar,calendar_query,mikor lesz a következő időpontom szabó doktorral,qa_factoid,0.8139,0.0003,False
+7189,hu-HU,calendar,calendar_query,van bármi betervezve,qa_factoid,0.9936,0.0001,False
+7194,hu-HU,calendar,calendar_set,holnap találkozóm lesz állítsd be,qa_factoid,0.8925,0.0128,False
+7196,hu-HU,calendar,calendar_set,emlékeztess a megbeszélésre áronnal március tizenötödikén,cooking_recipe,0.82,0.0033,False
+7199,hu-HU,calendar,calendar_set,állíts emlékeztetőt három kettő és egy órakor a következő hét angol évzáró dolgozat,play_radio,0.5875,0.0351,False
+7209,hu-HU,calendar,calendar_set,tudnál emlékeztetni kedden hogy vigyem ki a szemetet,iot_hue_lightoff,0.3606,0.0076,False
+7219,hu-HU,calendar,calendar_query,raktál be emlékeztetőt a holnapi találkozóról,iot_hue_lightoff,0.352,0.0102,False
+7224,hu-HU,calendar,calendar_query,hol van a helyszín ahol tamás esküvője lesz,social_post,0.9924,0.0001,False
+7232,hu-HU,calendar,calendar_query,milyen események lesznek a jövő héten,weather_query,0.301,0.0265,False
+7257,hu-HU,calendar,calendar_set,kérlek emlékeztess hogy hívjam fel anyut fél óra múlva,email_sendemail,0.9984,0.0,False
+7258,hu-HU,calendar,calendar_set,emlékeztess hogy küldjek emailt a főnöknek egy óra után,email_sendemail,1.0,0.0,False
+7262,hu-HU,calendar,calendar_set,állíts be emlékeztető értesítést a holnapi megbeszélésre,iot_hue_lightoff,0.9602,0.0202,False
+7266,hu-HU,calendar,calendar_query,mik a függőben lévő feladataim,qa_factoid,0.9309,0.0007,False
+7278,hu-HU,calendar,calendar_set,emlékeztess rita születésnapjára huszonnégy órával előtte,iot_hue_lightoff,0.4127,0.0292,False
+7287,hu-HU,calendar,calendar_set,emlékeztess az évfordulómról egy nappal előbb,email_sendemail,0.4903,0.0227,False
+7289,hu-HU,calendar,calendar_remove,töröld az összes eseményt gáborral,qa_factoid,0.9546,0.0056,False
+7291,hu-HU,calendar,calendar_set,zárolj egy órát holnap reggel tíz órától,calendar_remove,0.9856,0.0024,False
+7292,hu-HU,calendar,calendar_set,írd be a naptárba hogy nem leszek elérhető holnap este négy és hat között,qa_factoid,0.5129,0.0089,False
+7293,hu-HU,calendar,calendar_set,állíts be egyórás időpontot szombatra,calendar_set,0.6475,0.6475,True
+7294,hu-HU,calendar,calendar_remove,töröld a naptáramból az időpontot takács györggyel,iot_hue_lightoff,0.9195,0.0024,False
+7295,hu-HU,calendar,calendar_remove,kérlek töröld a naptáramat,qa_factoid,0.9888,0.0003,False
+7314,hu-HU,calendar,calendar_query,mi lesz ma,qa_factoid,0.8467,0.0001,False
+7316,hu-HU,calendar,calendar_query,van valami időpontom,datetime_query,0.9933,0.0001,False
+7319,hu-HU,calendar,calendar_query,mi lesz ma d. u. kettőtől négyig,calendar_remove,0.2685,0.0201,False
+7353,hu-HU,email,email_query,mondd meg milyen idő lesz jövő héten erdélyben,weather_query,0.9993,0.0,False
+7355,hu-HU,calendar,calendar_set,emlékeztess hogy ellenőrizzem a ragut hat órakor,recommendation_events,0.8874,0.0007,False
+7380,hu-HU,calendar,calendar_query,kérlek mutasd meg a mai megbeszéléseket ügyfelekkel,qa_factoid,0.9508,0.0009,False
+7397,hu-HU,calendar,calendar_query,van bármilyen tervezett esemény a következő három hónapban,recommendation_events,0.7426,0.0109,False
+7449,hu-HU,calendar,calendar_set,kérlek tervezz be egy találkozót ezzel az emberrel,qa_factoid,0.8532,0.0022,False
+7450,hu-HU,calendar,calendar_set,be kell tervezni egy megbeszélést ezzel a személlyel,qa_factoid,0.4533,0.0058,False
+7455,hu-HU,calendar,calendar_set,emlékeztess holnap a partira,cooking_recipe,0.7242,0.0006,False
+7461,hu-HU,calendar,calendar_set,hívj meg embereket a naptári eseményre,qa_factoid,0.5337,0.0013,False
+7463,hu-HU,calendar,calendar_set,szólj a csapatomnak hogy a megbeszélés új dátuma holnap van,social_post,0.834,0.0059,False
+7467,hu-HU,calendar,calendar_query,add meg az események időpontjait,datetime_query,0.9978,0.0,False
+7477,hu-HU,calendar,calendar_set,emlékeztess minden év március ötödikén hogy gondoskodjak a házassági évfordulós ajándékokról,cooking_recipe,0.7239,0.0097,False
+7496,hu-HU,calendar,calendar_query,vannak ma időpontjaim,datetime_query,0.9208,0.0002,False
+7499,hu-HU,calendar,calendar_set,csinálj egy tervet a holnapi megbeszélésre,recommendation_events,0.866,0.0044,False
+7500,hu-HU,calendar,calendar_remove,törölnéd a következő eseményt,qa_factoid,0.2652,0.0128,False
+7502,hu-HU,calendar,calendar_query,mi a tárgya a d. u. négy órási megbeszélésenek péterrel,email_sendemail,0.2628,0.0207,False
+7503,hu-HU,calendar,calendar_query,debrecenben hol lesz az a találkozó péntek délután egy órakor,qa_factoid,0.2072,0.0206,False
+7520,hu-HU,calendar,calendar_set,emlékeztess minden nap délután kettőkor hogy ebéd,cooking_recipe,0.9646,0.0007,False
+7524,hu-HU,calendar,calendar_query,mennyit akart péter befektetni a cégembe a ma délután öt óra húszkor való találkozón,social_post,0.8165,0.0004,False
+7528,hu-HU,calendar,calendar_set,június tizenharmadika a választási eredmény napja kérlek állítsd be,qa_factoid,0.9987,0.0,False
+7531,hu-HU,calendar,calendar_set,kérlek add hozzá a fizetésnapjaim,email_sendemail,1.0,0.0,False
+7539,hu-HU,calendar,calendar_query,van most bármilyen programom,qa_factoid,0.9995,0.0,False
+7542,hu-HU,calendar,calendar_set,kérlek emlékeztess erre holnap,email_sendemail,0.9824,0.0011,False
+7549,hu-HU,calendar,calendar_set,szeretnék egy találkozót három óráig,recommendation_events,0.4997,0.007,False
+7556,hu-HU,calendar,calendar_set,állíts be a naptáram hogy minden pénteken emlékeztessen hogy menjek el bevásárolni,iot_hue_lightoff,0.7719,0.0057,False
+7557,hu-HU,calendar,calendar_set,emlékeztetőt készítsen a helyről a naptárban,cooking_recipe,0.9496,0.0012,False
+7559,hu-HU,calendar,calendar_set,emlékeztess ma este hogy ne felejtsem el felvenni a megszárított ruhákat este nyolckor,cooking_recipe,0.8077,0.0048,False
+7563,hu-HU,calendar,calendar_set,emlékeztess a találkozóra holnap egy órával előtte,calendar_remove,0.701,0.034,False
+7565,hu-HU,calendar,calendar_set,találkozó emlékeztető,qa_factoid,0.3385,0.0054,False
+7567,hu-HU,calendar,calendar_set,születésnap,email_sendemail,0.4963,0.0084,False
+7569,hu-HU,calendar,calendar_query,terv holnapra,social_post,0.9906,0.0001,False
+7570,hu-HU,calendar,calendar_query,mi a terv mára,iot_hue_lightoff,0.3486,0.0042,False
+7583,hu-HU,calendar,calendar_set,haverozós esemény hozzáadása a naptárhoz,email_sendemail,0.984,0.0002,False
+7596,hu-HU,calendar,calendar_set,kérlek tervezz be egy találkozót dáviddal ásotthalmon délre,qa_factoid,0.5253,0.001,False
+7598,hu-HU,calendar,calendar_set,állíts be megbeszélést a terrorizmusról a következő elérhető időpontra ferenccel,qa_factoid,0.9428,0.0007,False
+7606,hu-HU,calendar,calendar_set,találkozz holnap józsival háromkor,social_post,0.8022,0.0042,False
+7609,hu-HU,calendar,calendar_remove,töröld a keddi találkozó emlékeztetőt,calendar_remove,0.9869,0.9869,True
+7613,hu-HU,calendar,calendar_query,mi volt a közelgő esemény,weather_query,0.683,0.0058,False
+7628,hu-HU,calendar,calendar_set,emlékeztess a könyvtárban hogy csináltassak egy új olvasójegyet,lists_remove,0.3038,0.0125,False
+7654,hu-HU,calendar,calendar_set,jelöld meg április huszadikát a bátyám születésnapjaként,email_sendemail,0.9816,0.0001,False
+7655,hu-HU,calendar,calendar_set,állíts emlékeztetőt április húszra az én fiú testvérem születésnapjára,calendar_set,0.8697,0.8697,True
+7660,hu-HU,calendar,calendar_remove,töröld az összes időpontomat ma d. u. három óra után és tájékoztass a részletekről,calendar_remove,0.9173,0.9173,True
+7662,hu-HU,calendar,calendar_query,kitudnád listázni a mai találkozóimat,recommendation_events,0.7987,0.0002,False
+7664,hu-HU,calendar,calendar_set,adj hozzá egy ebédet miklóssal,cooking_recipe,0.9969,0.0002,False
+7666,hu-HU,calendar,calendar_set,beírnád hogy van egy találkozóm holnap háromkor tamással,social_post,0.8405,0.0002,False
+7680,hu-HU,calendar,calendar_remove,töröld a naptáramból az aktuális hónap összes golfeseményét,lists_remove,0.452,0.2613,False
+7686,hu-HU,calendar,calendar_set,add hozzá bélát és pétert a fesztivál naptárhoz,cooking_recipe,0.489,0.0073,False
+7690,hu-HU,calendar,calendar_query,milyen dolgaim vannak következőleg,social_post,0.9174,0.0005,False
+7693,hu-HU,calendar,calendar_query,terveztem valamit huszonegyedikére,qa_definition,0.4862,0.0016,False
+7697,hu-HU,calendar,calendar_set,állíts be egy emlékeztetőt ehhez,iot_hue_lightoff,0.9507,0.0269,False
+7711,hu-HU,calendar,calendar_set,mondd le az összes március másodikai találkozómat és hívásomat mivel jakab születésnapja van jelöld meg eseményként a naptáradban,calendar_remove,0.7304,0.0087,False
+7712,hu-HU,calendar,calendar_set,olly töröld ki az összes találkozómat és telefonhívásomat március másodikáról mivel ez zsolt születésnapja,lists_remove,0.6665,0.017,False
+7718,hu-HU,calendar,calendar_set,küldj egy meghívót tóth úrnak a pénteki találkozóra és blokkold a péntek délutáni naptár elérhetőségemet,social_post,0.9689,0.001,False
+7726,hu-HU,calendar,calendar_set,kell valami minden hétfőn állíts emlékeztetőt hozzá,iot_hue_lightoff,0.2378,0.0668,False
+7730,hu-HU,calendar,calendar_set,azt akarom hogy jelöld meg a következő hétfőt,qa_factoid,0.9389,0.0008,False
+7741,hu-HU,calendar,calendar_remove,törölj minden szombati eseményt a naptáramból,calendar_remove,0.4833,0.4833,True
+7751,hu-HU,calendar,calendar_set,emlékeztess minden hétfőn hogy vigyem ki a szemetet,cooking_recipe,0.6788,0.0027,False
+7762,hu-HU,calendar,calendar_query,milyen emlékeztetőim vannak,qa_factoid,0.586,0.0166,False
+7767,hu-HU,calendar,calendar_set,add hozzá az edzést a naptárhoz február négy délután kettőkor a jókai kertben,iot_hue_lightoff,0.6673,0.0108,False
+7768,hu-HU,calendar,calendar_set,kérlek adj hozzá egy edzést február negyedikére a városligetbe délután kettőre,cooking_recipe,0.9933,0.0,False
+7774,hu-HU,calendar,calendar_set,add hozzá a bevásárlást holnapra a naptáramba,iot_hue_lightoff,0.4439,0.015,False
+7777,hu-HU,calendar,calendar_query,van találkozóm ma,qa_factoid,0.3885,0.0037,False
+7778,hu-HU,calendar,calendar_set,emlékeztess mit csinálok vasárnap délután,cooking_recipe,0.9987,0.0001,False
+7808,hu-HU,calendar,calendar_set,emlékeztess hogy csütörtökön délelőtt tizenegykor vigyem anyát fodrászhoz,play_music,0.2189,0.002,False
+7817,hu-HU,calendar,calendar_query,ez igaz erről a dátumról,qa_factoid,0.6581,0.0001,False
+7820,hu-HU,calendar,calendar_remove,töröld az összes eseményt a naptárból,lists_remove,0.7097,0.1319,False
+7836,hu-HU,calendar,calendar_remove,töröld az összes eseményt,calendar_remove,0.4562,0.4562,True
+7843,hu-HU,calendar,calendar_set,tudasd velem két óra múlva hogy el kell mennem hegedűórára ami d. u. négykor van a zeneiskolában,calendar_remove,0.7336,0.012,False
+7844,hu-HU,calendar,calendar_query,milyen emlékeztetőket állítottam,qa_factoid,0.3905,0.014,False
+7847,hu-HU,calendar,calendar_set,riassz engem amikor a regisztráció nyílik,qa_factoid,0.9623,0.0003,False
+7851,hu-HU,calendar,calendar_set,ma délben találkozóm van,weather_query,0.6342,0.0039,False
+7863,hu-HU,calendar,calendar_set,emlékeztess hogy ma délután ötkor kezdjem el a vacsorát,cooking_recipe,0.7561,0.0036,False
+7870,hu-HU,calendar,calendar_remove,töröld az eseményt a naptárból,play_podcasts,0.6207,0.0258,False
+7876,hu-HU,news,news_query,mi történt az elmúlt két hónapban,news_query,0.6837,0.6837,True
+7878,hu-HU,calendar,calendar_remove,töröld a naptáramat,qa_factoid,0.9139,0.0001,False
+7879,hu-HU,calendar,calendar_query,mi a következő három eseményem,cooking_recipe,0.2248,0.0238,False
+7889,hu-HU,calendar,calendar_query,mikor lesz a focimeccs ma este,qa_factoid,0.999,0.0,False
+7890,hu-HU,calendar,calendar_remove,töröld a mai hajvágást,cooking_recipe,0.668,0.0071,False
+7891,hu-HU,calendar,calendar_remove,töröld a ma esti vacsorát,qa_factoid,0.9336,0.0055,False
+7892,hu-HU,calendar,calendar_remove,töröld a következő eseményt mára,calendar_set,0.2713,0.0231,False
+7894,hu-HU,calendar,calendar_set,adj egy frissítést egy óra múlva a választásról,play_podcasts,0.1868,0.0214,False
+7902,hu-HU,calendar,calendar_set,rögzíts egy megbeszélést jánossal holnap d. u. kettő órakor,cooking_recipe,0.3081,0.0005,False
+7908,hu-HU,calendar,calendar_query,kell ma csinálnom valamit,cooking_recipe,0.9991,0.0,False
+7912,hu-HU,calendar,calendar_remove,alexa töröld a naptáramból a vacsorát mikivel,qa_factoid,0.8859,0.0032,False
+7916,hu-HU,calendar,calendar_set,emlékeztess hogy vigyem ki a szemetet délután hatkor,cooking_recipe,0.8883,0.0013,False
+7918,hu-HU,calendar,calendar_set,naptári esemény meghívó küldése kiss jánosnak,email_sendemail,0.9963,0.0,False
+7919,hu-HU,calendar,calendar_set,új találkozó robival és melindával mint résztvevőkkel,social_post,0.9371,0.0025,False
+7922,hu-HU,calendar,calendar_remove,feladatok megnyitása jövőbeli események törlése,qa_factoid,0.587,0.0166,False
+7927,hu-HU,calendar,calendar_query,mit kell csinálnom ezen a héten,cooking_recipe,0.7782,0.0077,False
+7946,hu-HU,calendar,calendar_query,milyen koncertek lesznek dombóváron,play_music,0.9997,0.0,False
+7953,hu-HU,calendar,calendar_remove,kérlek töröld az időpontot az orvosommal szombaton,qa_factoid,0.6208,0.3354,False
+7955,hu-HU,calendar,calendar_set,ezt az eseményt ismétlődően tedd a naptáramba,qa_factoid,0.9175,0.0026,False
+7956,hu-HU,calendar,calendar_set,ismétlődőre tudnád állítani ezt az eseményt,qa_factoid,0.9905,0.0001,False
+7966,hu-HU,calendar,calendar_query,mondtam neked hogy emlékeztess valamire,email_sendemail,0.9996,0.0,False
+7970,hu-HU,calendar,calendar_set,emlékeztess az esküvőről időben hogy megvegyem az ajándékot,email_sendemail,0.9409,0.0011,False
+7971,hu-HU,calendar,calendar_set,állíts emlékeztetőt két nappal az esemény előtt,iot_hue_lightoff,0.4714,0.014,False
+7975,hu-HU,calendar,calendar_query,lesz inas szolgáltatás az eseményen,iot_hue_lightoff,0.6753,0.008,False
+7978,hu-HU,calendar,calendar_query,milyen emlékeztetőim vannak beállítva holnap dél előttre,qa_factoid,0.965,0.0009,False
+7980,hu-HU,calendar,calendar_set,mondd mikor van eseményem,qa_factoid,0.3118,0.0218,False
+7981,hu-HU,calendar,calendar_set,küldj értesítést a találkozó előtt,email_sendemail,0.9995,0.0,False
+7993,hu-HU,calendar,calendar_remove,töröld az összes eseményt a naptáramból,lists_remove,0.6269,0.1164,False
+8001,hu-HU,calendar,calendar_remove,tudnád törölni a fodrászt amit péntekre terveztem,calendar_remove,0.4505,0.4505,True
+8004,hu-HU,calendar,calendar_set,dorottya beszélni akar velem a válásunkról szervezz meg egy találkozót amint szabad vagyok,qa_factoid,0.9474,0.0006,False
+8005,hu-HU,calendar,calendar_set,huszadikán hétfőn beszélnem kell gergővel a hétvégi kirándulásunkról,social_post,0.8129,0.0069,False
+8013,hu-HU,calendar,calendar_query,mutasd meg a megbeszéléseimet a következő hónapban,email_sendemail,1.0,0.0,False
+8029,hu-HU,calendar,calendar_query,milyen események lesznek még ma,recommendation_events,0.4155,0.0201,False
+8033,hu-HU,datetime,datetime_query,milyen napra esik húsvét,iot_hue_lightoff,0.7055,0.001,False
+8035,hu-HU,calendar,calendar_set,emlékeztess hogy cseréltessek olajat,cooking_recipe,0.9976,0.0001,False
+8037,hu-HU,calendar,calendar_set,emlékeztess valamire valamikor,qa_factoid,0.9557,0.0001,False
+8042,hu-HU,calendar,calendar_query,hány ember lesz ott a következő megbeszélésemen,qa_factoid,0.6959,0.002,False
+8043,hu-HU,calendar,calendar_query,mikor van a következő időpontom,datetime_query,0.9993,0.0,False
+8044,hu-HU,calendar,calendar_query,mi a mai programom,qa_factoid,0.9985,0.0,False
+8055,hu-HU,calendar,calendar_remove,töröld a március hetedikei időpontomat,datetime_query,0.5218,0.4485,False
+8056,hu-HU,calendar,calendar_query,van találkozóm pénteken,qa_factoid,0.6421,0.0031,False
+8058,hu-HU,calendar,calendar_query,lesz ma értékesítési megbeszélés,qa_factoid,0.9968,0.0001,False
+8073,hu-HU,calendar,calendar_set,állíts be egy céges megbeszélést szerda d. e. tizenegyre,qa_factoid,0.5286,0.033,False
+8079,hu-HU,calendar,calendar_set,állíts időzítőt egy órára hogy megsüljön a kenyerem,qa_factoid,0.9965,0.0,False
+8084,hu-HU,calendar,calendar_query,mi az esemény napirendje,qa_factoid,0.9821,0.0003,False
+8085,hu-HU,calendar,calendar_set,szeretnék beállítani egy találkozót erre a hétre,calendar_remove,0.7596,0.038,False
+8100,hu-HU,email,email_sendemail,küldj emailt az időpontjaimnak átütemezésre,email_sendemail,1.0,1.0,True
+8107,hu-HU,calendar,calendar_set,állíts be születésnapi eseményt mártonnak,qa_factoid,0.3509,0.1561,False
+8110,hu-HU,calendar,calendar_set,kérlek adj hozzá ellenőrzést a naptáramhoz,iot_hue_lightoff,0.8463,0.0136,False
+8116,hu-HU,calendar,calendar_query,február elseje és március tizenhatodika között milyen találkozók lesznek,recommendation_events,0.3718,0.0445,False
+8119,hu-HU,calendar,calendar_query,hol lesz mária születésnapi bulija,weather_query,0.9849,0.0003,False
+8125,hu-HU,calendar,calendar_set,csinálj egy megbeszélés eseményt a naptáramban,play_podcasts,0.9887,0.0003,False
+8126,hu-HU,calendar,calendar_set,írj be egy megbeszélés eseményt a naptáramba,qa_factoid,0.4476,0.0064,False
+8129,hu-HU,calendar,calendar_query,milyen emlékeztetők vannak még,iot_hue_lightoff,0.958,0.002,False
+8140,hu-HU,calendar,calendar_set,állítsa be emlékeztetőt tizenharmadikára hogy dáviddal ebédelek,iot_hue_lightoff,0.9024,0.0099,False
+8148,hu-HU,calendar,calendar_query,hagytam magamnak bármilyen emlékeztetőt,lists_remove,0.4097,0.0035,False
+8150,hu-HU,calendar,calendar_query,van bármilyen emlékeztetőm szülinapi buliról,social_post,0.5722,0.0121,False
+8165,hu-HU,calendar,calendar_query,már d. u. fél egy van megbeszélésed lesz tíz perc múlva,qa_factoid,0.9412,0.0005,False
+8182,hu-HU,calendar,calendar_remove,tudnád törölni a fogászati időpontot,qa_factoid,0.525,0.3125,False
+8188,hu-HU,calendar,calendar_query,milyen időpontban van ez,datetime_query,0.8226,0.0003,False
+8204,hu-HU,calendar,calendar_set,kérlek emlékeztess hogy menjek el a postára,email_sendemail,0.996,0.0001,False
+8206,hu-HU,calendar,calendar_set,ne hagyd hogy elfelejtsem hogy ajándékot kell vennem a húgomnak,lists_remove,0.2488,0.0111,False
+8230,hu-HU,calendar,calendar_query,milyen hosszú lesz kedden az üzleti ebéd,weather_query,0.6421,0.0007,False
+8241,hu-HU,calendar,calendar_remove,törölj minden eseményt a naptáramból az év hátralévő részéről,calendar_remove,0.7583,0.7583,True
+8245,hu-HU,calendar,calendar_set,értesíteni kell a vasárnapi templomi istentiszteletekről d. e. tizenegy órakor,iot_hue_lightoff,0.7281,0.0027,False
+8248,hu-HU,calendar,calendar_set,írd be a holnapi vacsora randit a naptárba,qa_factoid,1.0,0.0,False
+8251,hu-HU,calendar,calendar_set,be kell írni a jövő heti ebédet a naptáramba,cooking_recipe,0.981,0.0004,False
+8260,hu-HU,calendar,calendar_set,kérlek figyelmeztess józsef születésnapja előtt egy nappal,email_sendemail,0.5612,0.0292,False
+8261,hu-HU,calendar,calendar_set,küldj egy riasztást a következő időpontom előtt egy órával,iot_hue_lightoff,0.469,0.0115,False
+8269,hu-HU,calendar,calendar_set,harminc perces emlékeztető a keddi megbeszélésre,iot_hue_lightoff,0.1883,0.0358,False
+8276,hu-HU,calendar,calendar_remove,kérlek távolítsd el a következő megbeszélt találkozót,calendar_remove,0.647,0.647,True
+8280,hu-HU,calendar,calendar_set,be kell állítanom emlékeztetőt március tizenötödikére,iot_hue_lightoff,0.6067,0.2116,False
+8284,hu-HU,calendar,calendar_remove,töröld a születésnapot a naptárból,datetime_query,0.9249,0.0292,False
+8289,hu-HU,calendar,calendar_set,állíts be emlékeztetőt a mai tantestületi ülésről négy órára,iot_hue_lightoff,0.996,0.002,False
+8290,hu-HU,calendar,calendar_set,nyiss meg egy emlékeztetőt a következő hetek menedzseri üléseiről kedden,news_query,0.7633,0.0134,False
+8294,hu-HU,calendar,calendar_set,add hozzá a naptárhoz és ismételd meg,iot_hue_lightoff,0.3352,0.0057,False
+8300,hu-HU,calendar,calendar_set,esemény elmentése d. u. öttől d. u. hatig március tizennyolcadikán,news_query,0.3117,0.0246,False
+8302,hu-HU,calendar,calendar_remove,töröld a jövő hétfői találkozót,calendar_remove,0.9966,0.9966,True
+8308,hu-HU,news,news_query,tegnap délben a nyugati téren mi ellen tüntettek,weather_query,0.2981,0.0262,False
+8336,hu-HU,calendar,calendar_query,mikor van a villásreggelim zsuzsával,social_post,0.9997,0.0,False
+8343,hu-HU,datetime,datetime_query,szerda van,qa_factoid,0.9981,0.0001,False
+8345,hu-HU,calendar,calendar_set,szólj hogy mikor lesz a találkozó,play_music,0.9967,0.0001,False
+8347,hu-HU,calendar,calendar_query,mi lesz december negyedikén,iot_hue_lightoff,0.8049,0.0013,False
+8358,hu-HU,calendar,calendar_set,emlékeztess erre,cooking_recipe,0.9905,0.0002,False
+8366,hu-HU,calendar,calendar_set,írd be március tizennyolcadikát mint ismétlődő időpont gyöngyi születésnapjára,email_sendemail,0.7748,0.019,False
+8387,hu-HU,calendar,calendar_set,hozz létre emlékeztetőt a mosásra este nyolc órára,iot_hue_lightoff,0.9951,0.0003,False
+8388,hu-HU,calendar,calendar_set,mosni akarok este nyolckor csinálj emlékeztetőt,cooking_recipe,0.9951,0.0001,False
+8390,hu-HU,calendar,calendar_set,emlékeztess a megbeszélésemről,play_music,0.5895,0.0004,False
+8394,hu-HU,calendar,calendar_set,állíts be emlékeztetőt minden nap délre hogy bevegyem a gyógyszeremet,iot_hue_lightoff,0.991,0.0063,False
+8404,hu-HU,calendar,calendar_query,szeretnék többet megtudni erről az eseményről,email_sendemail,0.787,0.0048,False
+8409,hu-HU,calendar,calendar_remove,töröld a holnapi vacsorám,cooking_recipe,0.8173,0.0013,False
+8410,hu-HU,calendar,calendar_remove,távolítsd el a hétfői vacsora eseményt,calendar_remove,0.5457,0.5457,True
+8413,hu-HU,calendar,calendar_set,kérlek riassz engem,qa_factoid,0.5959,0.0027,False
+8414,hu-HU,calendar,calendar_set,emlékeztess hogy menjek vacsorázni dáviddal péntek d. u. öt órakor,email_sendemail,0.9947,0.0001,False
+8415,hu-HU,calendar,calendar_set,adj hozzá egy találkozót az irodában péterrel délután háromra kedden,calendar_set,0.1668,0.1668,True
+8426,hu-HU,calendar,calendar_query,mondd el az aktuális eseményeket tegnap és ma reggel között,weather_query,0.3212,0.0236,False
+8430,hu-HU,calendar,calendar_remove,töröld az összes időpontomat,calendar_remove,0.8498,0.8498,True
+8431,hu-HU,calendar,calendar_remove,szabadulj meg az összes tervezett eseményemtől,lists_remove,0.4776,0.3029,False
+8436,hu-HU,calendar,calendar_set,kérlek tervezz be üzleti ebédet márciusban minden szerdán délre,cooking_recipe,0.3867,0.0155,False
+8442,hu-HU,calendar,calendar_set,módosítsd a naptáramat ezzel az eseménnyel,iot_hue_lightoff,0.7278,0.0031,False
+8449,hu-HU,calendar,calendar_set,állíts be egy emlékeztetőt a lányom születésnapjára,calendar_set,0.8187,0.8187,True
+8453,hu-HU,calendar,calendar_set,kérlek rakd be az eseményt a naptáramba és jelöld meg mint ismétlődő esemény,qa_factoid,0.3646,0.022,False
+8460,hu-HU,calendar,calendar_query,mutasd az eseményeimet,email_sendemail,1.0,0.0,False
+8461,hu-HU,calendar,calendar_query,mik a terveim a májusi hónapban,iot_hue_lightoff,0.3809,0.0057,False
+8466,hu-HU,calendar,calendar_set,lesz egy megbeszélésem szerda reggel kilenckor küldj egy emlékeztetőt,iot_hue_lightoff,0.778,0.0069,False
+8469,hu-HU,calendar,calendar_query,mi van beírva a naptáramba mára,qa_factoid,0.7999,0.0004,False
+8474,hu-HU,calendar,calendar_set,add hozzá a naptáramhoz évi szülinapi buliját holnap délután két órakor a váci út százhuszonháromban,iot_hue_lightoff,0.2877,0.1865,False
+8494,hu-HU,calendar,calendar_query,milyen a mai napirendem,qa_factoid,0.957,0.0002,False
+8496,hu-HU,calendar,calendar_query,mondd el a holnap reggeli megbeszéléseim,qa_factoid,0.9487,0.0011,False
+8498,hu-HU,calendar,calendar_query,menjünk végig minden függőben lévő emlékeztetőn,iot_hue_lightoff,0.4028,0.0262,False
+8516,hu-HU,calendar,calendar_remove,töröld a naptári tételt,cooking_recipe,0.7188,0.0027,False
+8520,hu-HU,calendar,calendar_set,adj hozzá egy eseményt a naptár alkalmazásba,recommendation_events,0.6548,0.0303,False
+8525,hu-HU,calendar,calendar_query,megbeszélés emlékeztetők háromtól ötig,iot_hue_lightoff,0.6338,0.0136,False
+8535,hu-HU,calendar,calendar_set,emlékeztess a fogorvosi időpontomra két órán belül,play_podcasts,0.1796,0.0218,False
+8539,hu-HU,calendar,calendar_set,emlékeztess rá,cooking_recipe,0.7552,0.0003,False
+8541,hu-HU,calendar,calendar_set,emlékeztess kérlek,cooking_recipe,0.9951,0.0001,False
+8553,hu-HU,calendar,calendar_set,adj hozzá a naptáramba egy találkozót tamással reggel kilenc órakor,iot_hue_lightoff,0.457,0.0688,False
+8559,hu-HU,calendar,calendar_query,van valami programom ma,qa_factoid,0.893,0.0001,False
+8562,hu-HU,calendar,calendar_remove,töröld a mai d. u. kettő órás tárgyalásom,calendar_remove,0.9181,0.9181,True
+8568,hu-HU,calendar,calendar_set,elküldenél egy naptármeghívót bélának és katának brunchra kedd d.e. tizenegyre,cooking_recipe,0.9233,0.0007,False
+8570,hu-HU,calendar,calendar_set,jelölnéd hogy holnap kettőkor elfoglalt vagyok,weather_query,0.424,0.004,False
+8579,hu-HU,calendar,calendar_query,milyen információkat kell tudnom a mai találkozóimról,lists_query,0.672,0.0105,False
+8585,hu-HU,calendar,calendar_set,emlékeztess hogy harmincadikán van egy születésnapi buli,play_music,0.6347,0.0047,False
+8598,hu-HU,calendar,calendar_set,emlékeztess hogy vegyem fel márkot este hatkor a reptéren,cooking_recipe,0.864,0.0021,False
+8618,hu-HU,calendar,calendar_set,emlékeztess hogy locsoljam meg a virágokat minden kedden csütörtökön és szombaton,cooking_recipe,0.9523,0.0011,False
+8631,hu-HU,calendar,calendar_remove,töröld azt a naptáramból,qa_factoid,0.4601,0.0022,False
+8635,hu-HU,calendar,calendar_set,emlékeztess hogy rendeljem meg a halat három héttel karácsony előtt,cooking_recipe,0.9976,0.0001,False
+8640,hu-HU,calendar,calendar_set,szeretnék egy bejegyzést tenni a naptáramba a holnapi könyvtári eseményről,email_sendemail,0.9951,0.0001,False
+8642,hu-HU,calendar,calendar_set,add hozzá a konferenciahívást délután négykor az emlékeztetőimhez mára,iot_hue_lightoff,0.993,0.0004,False
+8651,hu-HU,calendar,calendar_set,emlékeztess az eseményről a naptáramban,cooking_recipe,0.698,0.0026,False
+8653,hu-HU,calendar,calendar_set,emlékeztess az eseményre ami a naptáramban van,cooking_recipe,0.6052,0.0081,False
+8666,hu-HU,calendar,calendar_remove,töröld az összes eseményt a naptáramból,lists_remove,0.6269,0.1165,False
+8667,hu-HU,calendar,calendar_query,az elmúlt három hónapban hány találkozóm volt szűcs úrral,qa_factoid,0.9229,0.0023,False
+8670,hu-HU,calendar,calendar_remove,törölj eseményeket a naptárból,play_podcasts,0.6615,0.0041,False
+8672,hu-HU,calendar,calendar_query,hol lesz a beatrice koncert,play_music,0.9973,0.0001,False
+8674,hu-HU,calendar,calendar_query,hol lesz a megbeszélésem reggel kilenc órakor,weather_query,0.9847,0.0002,False
+8679,hu-HU,calendar,calendar_query,ma van szent patrik nap,calendar_remove,0.5129,0.0181,False
+8681,hu-HU,calendar,calendar_query,van ma valakinek születésnapja,qa_factoid,0.6322,0.0012,False
+8694,hu-HU,calendar,calendar_set,az eseményen zoltán és gyöngyi is ott lesz,social_post,0.4933,0.0007,False
+8730,hu-HU,calendar,calendar_set,légy szíves állíts be egy emlékeztetőt a naptáramba a március huszonötödikei találkozómra,iot_hue_lightoff,0.7819,0.1892,False
+8732,hu-HU,calendar,calendar_remove,törölj minden dátumot,datetime_query,0.9823,0.001,False
+8762,hu-HU,calendar,calendar_query,mondd el az ütemtervem a mai délutánra,weather_query,0.8389,0.0021,False
+8765,hu-HU,calendar,calendar_set,írd be a naptárba a vacsorámat a halkakasba ma kilencre,qa_factoid,0.9994,0.0,False
+8766,hu-HU,calendar,calendar_query,lesz megbeszélésem március huszonötödikén szombaton,iot_hue_lightoff,0.6523,0.0028,False
+8767,hu-HU,calendar,calendar_query,júlia születésnapja április tizenkettedikén van,email_sendemail,1.0,0.0,False
+8769,hu-HU,calendar,calendar_remove,töröld a következő eseményt,datetime_query,0.165,0.0204,False
+8771,hu-HU,calendar,calendar_remove,töröld a bevásárló körútat amit március huszonharmadikára terveztem,calendar_remove,0.6023,0.6023,True
+8774,hu-HU,calendar,calendar_query,teljesen nyitott-e az időbeosztásom július hetedikén,weather_query,0.9974,0.0001,False
+8781,hu-HU,calendar,calendar_query,szabad vagyok délután négykor,qa_factoid,0.9914,0.0001,False
+8782,hu-HU,calendar,calendar_query,van ma délután találkozóm,qa_factoid,0.568,0.0083,False
+8791,hu-HU,calendar,calendar_query,több információ erről az eseményről,email_sendemail,0.998,0.0,False
+8795,hu-HU,calendar,calendar_query,mutasd meg a függőben lévő emlékeztetőket,qa_factoid,0.9862,0.0003,False
+8822,hu-HU,recommendation,recommendation_events,információk a közelgő eseményekről,news_query,0.7193,0.029,False
+8824,hu-HU,calendar,calendar_query,mi a programom tizenkilencedikén délután kettőkor,play_radio,0.4796,0.0044,False
+8825,hu-HU,calendar,calendar_set,küldj emlékeztetőt a megbeszélésemről tamással következő pénteken,email_sendemail,0.9996,0.0,False
+8828,hu-HU,calendar,calendar_query,igaz a naptári esemény,cooking_recipe,0.5399,0.0002,False
+8846,hu-HU,calendar,calendar_query,terveztem valamit idén július negyedikére,cooking_recipe,0.7727,0.0059,False
+8853,hu-HU,calendar,calendar_remove,töröld a következő tevékenységem,cooking_recipe,0.7916,0.0047,False
+8856,hu-HU,calendar,calendar_remove,töröld az összes eseményt a naptárból,lists_remove,0.7097,0.1319,False
+8857,hu-HU,calendar,calendar_set,emlékeztess a közelgő találkozóra majkával,cooking_recipe,0.2532,0.0107,False
+8868,hu-HU,calendar,calendar_set,emlékeztess minden kedden hogy d. e. tízkor hívjam fel anyát,cooking_recipe,0.2194,0.0173,False
+8880,hu-HU,calendar,calendar_set,állíts emlékeztetőt a holnapi megbeszélésről d. e. kilencre,email_sendemail,0.4096,0.0067,False
+8888,hu-HU,calendar,calendar_remove,töröld,qa_factoid,0.9406,0.0004,False
+8900,hu-HU,calendar,calendar_set,állíts be ismétlődő emlékeztetőt minden vasárnapra,iot_hue_lightoff,0.95,0.0319,False
+8904,hu-HU,calendar,calendar_query,információ a legutóbbi eseményekről,news_query,0.9535,0.0007,False
+8906,hu-HU,calendar,calendar_set,esemény dátumának beállítása a naptárban a többiekkel,qa_factoid,0.6184,0.0404,False
+8907,hu-HU,calendar,calendar_set,oszd meg az eseményt a naptárban másokkal,social_post,0.5153,0.0041,False
+8912,hu-HU,calendar,calendar_query,add meg nekem a mai naptári eseményeket este hat után,calendar_set,0.2219,0.0222,False
+8914,hu-HU,calendar,calendar_query,hánykor van az időpontom április negyedikén,qa_factoid,0.6319,0.0001,False
+8916,hu-HU,calendar,calendar_query,mi az időbeosztásom erre a napra,weather_query,0.9869,0.0002,False
+8925,hu-HU,calendar,calendar_remove,törölj minden eseményt a naptáramból,calendar_remove,0.3578,0.3578,True
+8939,hu-HU,calendar,calendar_set,helga lányának babavárója,social_post,0.9891,0.0005,False
+8948,hu-HU,calendar,calendar_set,adj hozzá egy találkozó eseményt jánossal,social_post,0.5399,0.0057,False
+8949,hu-HU,calendar,calendar_remove,kérlek töröld az emlékeztetőt,calendar_remove,0.5533,0.5533,True
+8958,hu-HU,calendar,calendar_query,szabad megbeszélési idő,qa_factoid,0.9752,0.0006,False
+8960,hu-HU,calendar,calendar_set,szeretnél ha beállítanál egy riasztást a közelgő megbeszélés estéjén,iot_hue_lightoff,0.6263,0.0119,False
+8967,hu-HU,calendar,calendar_set,emlékeztess a feleségem születésnapjára két nappal előbb,email_sendemail,0.2537,0.0613,False
+8968,hu-HU,calendar,calendar_set,mondj valamit amire emlékeztetni kell ezen a héten,recommendation_events,0.5096,0.0068,False
+8975,hu-HU,calendar,calendar_query,milyen megbeszélés van betervezve mára,qa_factoid,0.9909,0.0001,False
+8977,hu-HU,calendar,calendar_set,csak állíts be emlékeztetőket a függőben lévő számlabefizetésekről,iot_hue_lightoff,0.7329,0.0848,False
+8978,hu-HU,calendar,calendar_set,informálj a fontos tárgyalásokról a főnökömmel a hét folyamán,recommendation_events,0.5731,0.0157,False
+8985,hu-HU,calendar,calendar_remove,töröld az erik születésnapját a naptárból,datetime_query,0.8868,0.0788,False
+8990,hu-HU,calendar,calendar_set,hozz létre eseményt,email_sendemail,1.0,0.0,False
+8992,hu-HU,calendar,calendar_set,mutasd meg a megbeszéléseket,qa_factoid,0.9865,0.0,False
+9009,hu-HU,calendar,calendar_remove,töröld az évforduló eseményt a naptáramból,play_podcasts,0.6449,0.0065,False
+9011,hu-HU,calendar,calendar_query,a húsvéti esemény e hónap tizennegyedikén lesz igaz,qa_factoid,0.9388,0.0019,False
+9014,hu-HU,calendar,calendar_set,kérlek állíts be értesítőt október huszonharmadikára hogy tárgyalásom lesz a munkatársammal,email_sendemail,0.9942,0.0,False
+9015,hu-HU,calendar,calendar_remove,töröld az összes eseményt a naptáramból,lists_remove,0.6269,0.1164,False
+9019,hu-HU,calendar,calendar_query,találkozók június huszadika és huszonötödike között,weather_query,0.8952,0.0039,False
+9030,hu-HU,calendar,calendar_remove,töröld a mai orvosi időpontomat a naptárból,calendar_remove,0.9545,0.9545,True
+9035,hu-HU,calendar,calendar_query,emlékeztető péter esküvője,social_post,0.7256,0.011,False
+9043,hu-HU,calendar,calendar_set,elkövetkező események a naptárban,datetime_query,0.5583,0.0161,False
+9053,hu-HU,calendar,calendar_set,állíts be egy megbeszélés emlékeztetőt mónikával kedden,iot_hue_lightoff,0.8134,0.0557,False
+9054,hu-HU,calendar,calendar_set,esemény emlékeztető kedd mónika,qa_factoid,0.9065,0.0002,False
+9059,hu-HU,calendar,calendar_set,riassz az esemény idején,email_sendemail,0.9998,0.0,False
+9061,hu-HU,calendar,calendar_query,milyen információim vannak az emlékeztetőben,lists_query,0.7444,0.006,False
+9062,hu-HU,calendar,calendar_set,betudnád írni lajos születésnapját június huszonkettedikére,qa_factoid,0.8406,0.0008,False
+9074,hu-HU,calendar,calendar_remove,kérlek töröld azt az eseményt,qa_factoid,0.9134,0.0631,False
+9088,hu-HU,calendar,calendar_remove,törölj mindent a naptáramból,qa_definition,0.484,0.0015,False
+9095,hu-HU,calendar,calendar_remove,töröld a ma esti vacsorát sárival,qa_factoid,0.9627,0.001,False
+9103,hu-HU,calendar,calendar_query,van megbeszélés a naptáramban ma délután,qa_factoid,0.9952,0.0001,False
+9107,hu-HU,calendar,calendar_query,hánykor kezdődik a byealex koncert június harmadikán,qa_factoid,0.7141,0.0004,False
+9110,hu-HU,calendar,calendar_set,kiállítás kétezer-tizenhét mise március huszonötödikén jegyezd fel a megfelelő időpontra,email_sendemail,0.4224,0.014,False
+9112,hu-HU,calendar,calendar_set,add ezt hozzá a naptáramhoz,iot_hue_lightoff,0.8823,0.0651,False
+9114,hu-HU,calendar,calendar_set,állítsd be ismétlődő emlékeztetőt ehhez a naptári eseményhez,iot_hue_lightoff,0.856,0.107,False
+9116,hu-HU,calendar,calendar_query,áttudnád rakni a megbeszélésem,qa_factoid,0.9886,0.0,False
+9121,hu-HU,calendar,calendar_query,milyen napokat foglaltam le,weather_query,0.9964,0.0001,False
+9124,hu-HU,calendar,calendar_set,mutasd a munkanaptáram jövő heti eseményeit,iot_hue_lightoff,0.2211,0.0144,False
+9137,hu-HU,calendar,calendar_query,mikor van zárva az olasz kávézó ebéd és vacsora között,cooking_recipe,0.816,0.0015,False
+9138,hu-HU,qa,qa_factoid,mikor kezdődik hivatalosan a bajnoki döntő,qa_factoid,0.9975,0.9975,True
+9149,hu-HU,calendar,calendar_query,mikor kellene elkezdődnie a nyakkendős gálavacsorának,qa_factoid,0.8327,0.0001,False
+9153,hu-HU,calendar,calendar_set,kérlek add hozzá a naptáramhoz hogy szombaton vacsora marival,cooking_recipe,0.5304,0.0579,False
+9155,hu-HU,calendar,calendar_set,kérlek írd be péntek háromra a fogorvosi időpontot,datetime_query,0.6534,0.0009,False
+9156,hu-HU,calendar,calendar_set,emlékeztess,cooking_recipe,0.9802,0.0001,False
+9175,hu-HU,calendar,calendar_query,frissült a naptáram az utóbbi tíz percben,iot_hue_lightoff,0.7185,0.0143,False
+9182,hu-HU,calendar,calendar_remove,töröld a terveimet hogy el tudjak menni a szüleimért a reptérre,iot_hue_lightoff,0.6925,0.0147,False
+9187,hu-HU,calendar,calendar_set,keress rá az ügyfelekre akik mennek a találkozóra,qa_factoid,0.9408,0.0001,False
+9193,hu-HU,calendar,calendar_set,kérlek állítsd be ezt a dátumot ismétlődőre,qa_factoid,0.8698,0.0011,False
+9194,hu-HU,calendar,calendar_remove,kérlek töröld ezt az eseményt a naptáramból,qa_factoid,0.6934,0.1607,False
+9197,hu-HU,calendar,calendar_query,mit terveztem erre a hétre,datetime_query,0.3194,0.0228,False
+9198,hu-HU,calendar,calendar_query,kérlek nézd meg az emlékeztetőimet,email_sendemail,0.9988,0.0,False
+9202,hu-HU,play,play_radio,játszd le az én rádiós csatornámat,play_radio,0.9998,0.9998,True
+9204,hu-HU,play,play_radio,indítsd a kossuth rádiót,play_radio,0.9483,0.9483,True
+9212,hu-HU,play,play_radio,kapcsolj be valamilyen rádiót,play_radio,0.9945,0.9945,True
+9216,hu-HU,play,play_radio,játszd az állomásomat,play_music,0.6732,0.3258,False
+9225,hu-HU,play,play_radio,bekapcsolod a rádiót,iot_hue_lightoff,0.6581,0.1774,False
+9233,hu-HU,play,play_radio,nyissa meg a pandorát,cooking_recipe,0.8612,0.0062,False
+9236,hu-HU,play,play_radio,menj a százhat pont kilenc csatornához,qa_factoid,0.9693,0.0001,False
+9237,hu-HU,play,play_radio,kapcsold be a rádiót és indítsd el a százhat pont kilences csatornát,play_radio,1.0,1.0,True
+9250,hu-HU,play,play_radio,rádiót szeretnék hallgatni,play_radio,0.9993,0.9993,True
+9254,hu-HU,play,play_radio,kérlek hangolj az f. m. kilencszázharmincnyolc rádió mirchire,social_post,0.8199,0.1531,False
+9263,hu-HU,play,play_radio,nyisd meg a rádió alkalmazást,play_radio,0.9618,0.9618,True
+9269,hu-HU,play,play_radio,hangolj az f. m. nyolcszázkilencvenhétre,qa_factoid,0.8372,0.0019,False
+9270,hu-HU,play,play_radio,csak játszd az f. m. kilencszázharminchetet,qa_factoid,0.9959,0.0002,False
+9275,hu-HU,play,play_radio,olly az f. m. kilencszázkilencvenkilencet kellene játszani a rádióban,play_radio,0.5679,0.5679,True
+9284,hu-HU,play,play_radio,játszd a hazatalálszt,qa_factoid,0.9901,0.0013,False
+9291,hu-HU,play,play_radio,játszd le,qa_factoid,1.0,0.0,False
+9301,hu-HU,play,play_radio,játszd az egy f. m. -et,play_music,0.7691,0.1825,False
+9303,hu-HU,play,play_radio,játsszd le a brodapestet,qa_factoid,1.0,0.0,False
+9305,hu-HU,play,play_radio,klasszikus slágerekre hangolni,social_post,0.9608,0.0005,False
+9316,hu-HU,play,play_radio,játszd a rádió egyet nekem,play_radio,1.0,1.0,True
+9317,hu-HU,play,play_radio,indítsd el a rádiót most,play_radio,0.5964,0.5964,True
+9321,hu-HU,play,play_radio,kapcsold be a rádiót most,qa_factoid,0.9954,0.0009,False
+9323,hu-HU,play,play_radio,pandora indítása,qa_factoid,1.0,0.0,False
+9326,hu-HU,play,play_radio,kérlek játszd most a kossuth rádiót,qa_factoid,1.0,0.0,False
+9327,hu-HU,play,play_radio,kérelek olvasd be a rádió am tárcsáját most azonnal,play_radio,1.0,1.0,True
+9330,hu-HU,play,play_radio,játsszd le,qa_factoid,1.0,0.0,False
+9341,hu-HU,play,play_radio,alexa válts rádió adót,qa_factoid,0.9744,0.0254,False
+9352,hu-HU,play,play_radio,játszd le a rádiót kérlek,play_radio,0.9999,0.9999,True
+9353,hu-HU,play,play_radio,indítson el valamilyen zenét a rádióban,play_radio,0.9974,0.9974,True
+9358,hu-HU,play,play_radio,indítsd el a nyolcszáznyolcvankilences rádióadót,qa_factoid,1.0,0.0,False
+9361,hu-HU,play,play_radio,rádió hallgatása,play_radio,0.9973,0.9973,True
+9362,hu-HU,play,play_radio,rádió csatornák,qa_factoid,0.741,0.1589,False
+9363,hu-HU,play,play_radio,játssz slágereket a rádióban,play_radio,0.9976,0.9976,True
+9364,hu-HU,play,play_radio,játssz zenei slágereket,play_music,1.0,0.0,False
+9380,hu-HU,play,play_radio,azt akarom hogy menj rá a petőfi rádióra,play_radio,1.0,1.0,True
+9384,hu-HU,play,play_radio,játssz best f.m. rádiót,play_radio,0.9994,0.9994,True
+9394,hu-HU,play,play_radio,kapcsold be a rádiót,qa_factoid,0.9711,0.0271,False
+9402,hu-HU,play,play_radio,indítsd el a kilencszáznyolcvankilenc rádióadót,qa_factoid,0.9948,0.0038,False
+9406,hu-HU,play,play_radio,indítsd el a petőfi rádiót,play_radio,0.9909,0.9909,True
+9408,hu-HU,play,play_radio,indítsa el a rádió lejátszását,play_radio,1.0,1.0,True
+9426,hu-HU,play,play_radio,r and b zenét játszó adót akarok hallgatni,qa_factoid,0.9802,0.0001,False
+9438,hu-HU,play,play_radio,tudnál játszani egy rap számot a rádióban,play_music,0.992,0.0077,False
+9457,hu-HU,play,play_music,játszd le a még egyszer című dalt,play_music,1.0,1.0,True
+9460,hu-HU,play,play_music,játssz kilencvenes évek hip hopját,play_music,0.9998,0.9998,True
+9471,hu-HU,play,play_radio,kapcsolj be egy country zeneadót,play_music,0.5025,0.0,False
+9494,hu-HU,play,play_radio,indítsd el az f. m. adót amelyik pop dalokat játszik,qa_factoid,1.0,0.0,False
+9506,hu-HU,play,play_radio,hallgassuk best f.m. kilencvenkilenc egész öt,social_post,0.3563,0.0016,False
+9507,hu-HU,play,play_radio,kérlek keresd meg a rádióadót amelyiken épp bochkor gábor megy,qa_factoid,0.9959,0.0023,False
+9519,hu-HU,play,play_radio,játssz bármilyen pop f. m. csatornát,play_podcasts,0.7321,0.005,False
+9520,hu-HU,play,play_radio,indítsd el az utolsó doktor aki rádió adást,play_radio,0.9982,0.9982,True
+9524,hu-HU,play,play_radio,kapcsolj a petőfi rádió műsorára,play_radio,1.0,1.0,True
+9528,hu-HU,play,play_radio,kapcsolj be egy kis petőfi rádiót és játszd le a hangszóróimon,play_radio,1.0,1.0,True
+9541,hu-HU,play,play_radio,játszd a tejutat a rádión,play_radio,0.9998,0.9998,True
+9542,hu-HU,play,play_radio,engedd meg hogy meghallgassam a legújabb hír műsort a rádióban,play_radio,0.9973,0.9973,True
+9545,hu-HU,play,play_radio,hallani akarom a fábry showt,social_post,0.6863,0.0,False
+9554,hu-HU,play,play_radio,játssz romantikus zenét a sláger rádión,play_music,0.9334,0.0663,False
+9561,hu-HU,play,play_radio,jétszd le best f.m. a rádióban,qa_factoid,0.9942,0.0019,False
+9562,hu-HU,play,play_radio,le tudnád játszani ezt a műsort nekem,iot_hue_lightoff,0.9934,0.004,False
+9565,hu-HU,play,play_radio,játssz kiscsillag számokat rádión,play_radio,0.9963,0.9963,True
+9568,hu-HU,play,play_radio,játszd a rúzsa magdi élő koncert sorozatot,play_music,1.0,0.0,False
+9569,hu-HU,play,play_radio,ok google játszd a százhat pont hetest,qa_factoid,0.6185,0.0028,False
+9577,hu-HU,play,play_radio,váltsd az adót a kossuth rádióra,play_radio,1.0,1.0,True
+9591,hu-HU,play,play_radio,játszd a cooky weekend műsort az f. m. kilencvenegy pont hármon,cooking_recipe,1.0,0.0,False
+9592,hu-HU,play,play_podcasts,keress podcastokat amelyek férfiak problémáiról szólnak,play_podcasts,1.0,1.0,True
+9594,hu-HU,play,play_radio,f. m. kilencvenhárom pont öt rádió számok,qa_factoid,0.9836,0.0055,False
+9601,hu-HU,play,play_radio,játssz country rádiót,play_radio,0.9993,0.9993,True
+9617,hu-HU,play,play_radio,játszd le a ma reggeli műsort a százegy pont kilenc hullámhosszról,play_music,0.9953,0.0005,False
+9619,hu-HU,play,play_radio,játszd a préri otthoni társat az autó rádióban,play_radio,0.9965,0.9965,True
+9620,hu-HU,play,play_radio,garamit szeretnék hallgatni rádión a hálószobában,play_podcasts,0.9677,0.0234,False
+9629,hu-HU,play,play_radio,tudnál nekem segíteni rádió hallgatásban kérlek,play_radio,0.9994,0.9994,True
+9630,hu-HU,play,play_radio,játszd a tilos rádiót nekem,play_radio,0.8857,0.8857,True
+9632,hu-HU,play,play_radio,rádió kérlek,play_radio,0.9976,0.9976,True
+9637,hu-HU,play,play_radio,indítsd el a lejátszási listámat a petőfi rádióból,play_radio,0.9974,0.9974,True
+9640,hu-HU,play,play_radio,nyisd meg spotify-on az istenest,email_sendemail,0.4345,0.0002,False
+9651,hu-HU,play,play_radio,indítsd el a netflixet playstation négyemen,qa_factoid,0.7944,0.0003,False
+9656,hu-HU,play,play_music,játssz nekem egy vidám dalt a hangszóróidon keresztül,play_music,1.0,1.0,True
+9706,hu-HU,play,play_music,mennyből az angyal,qa_factoid,0.8834,0.0019,False
+9707,hu-HU,play,play_music,játszd le jingle bells,qa_factoid,1.0,0.0,False
+9738,hu-HU,play,play_music,eljátszanál nekem egy klasszikus zenét,play_music,0.9999,0.9999,True
+9793,hu-HU,play,play_music,játszd a romantikus dalokat,play_music,0.9943,0.9943,True
+9795,hu-HU,play,play_music,folytasd a ballag a katonát,play_music,0.999,0.999,True
+9912,hu-HU,cooking,cooking_recipe,olly mennyi ideig főzzem a tojásokat,cooking_recipe,0.9999,0.9999,True
+9918,hu-HU,cooking,cooking_recipe,hogyan sütök pizzát,cooking_recipe,1.0,1.0,True
+9923,hu-HU,cooking,cooking_recipe,mennyi ideig kell főzni egy tojást,cooking_recipe,0.9999,0.9999,True
+9924,hu-HU,cooking,cooking_recipe,mondd meg a receptjét,cooking_recipe,1.0,1.0,True
+9930,hu-HU,cooking,cooking_recipe,meddig kell a tojást főzni,cooking_recipe,0.9999,0.9999,True
+9931,hu-HU,cooking,cooking_recipe,olly meddig főzzem a tojást,cooking_recipe,0.9999,0.9999,True
+9940,hu-HU,cooking,cooking_recipe,keress nekem egy csokoládétorta receptet,cooking_recipe,1.0,1.0,True
+9941,hu-HU,cooking,cooking_recipe,hogyan kell vajas csirkét főzni,cooking_recipe,1.0,1.0,True
+9942,hu-HU,cooking,cooking_recipe,mi mindent tartalmaz egy vörösáfonya torta,cooking_recipe,0.7559,0.7559,True
+9943,hu-HU,cooking,cooking_recipe,mennyi ideig tart a zöldséges lasagne elkészítése,cooking_recipe,0.9997,0.9997,True
+9952,hu-HU,cooking,cooking_recipe,adj oktató anyagot főzéshez,cooking_recipe,0.9421,0.9421,True
+9955,hu-HU,cooking,cooking_recipe,mutass egy videót a sült csirke készítéséről,cooking_recipe,0.9993,0.9993,True
+9956,hu-HU,cooking,cooking_recipe,mivel tudom helyettesíteni a vajat,qa_factoid,0.9986,0.0007,False
+9961,hu-HU,cooking,cooking_recipe,mi a legjobb sütő hőmérséklet a burgonya sütéséhez,cooking_recipe,0.9816,0.9816,True
+9962,hu-HU,cooking,cooking_recipe,mi a legjobb módja a kemény tészta elkészítésének,cooking_recipe,1.0,1.0,True
+9964,hu-HU,cooking,cooking_recipe,tudás az étel feldolgozásról,cooking_recipe,0.9987,0.9987,True
+9966,hu-HU,cooking,cooking_recipe,mi a legegyszerűbb módja a tészta főzésének,cooking_recipe,0.9988,0.9988,True
+9969,hu-HU,cooking,cooking_recipe,milyen hozzávalót lehet sáfrány helyett használni,qa_factoid,0.9665,0.0008,False
+9971,hu-HU,cooking,cooking_recipe,mi vezeti jobban a hőt a rézfenekű vagy az öntöttvas edények,weather_query,0.9324,0.0011,False
+9976,hu-HU,cooking,cooking_recipe,hé robot add meg a sajtos pirítós összetevőinek listáját,cooking_recipe,0.9362,0.9362,True
+9977,hu-HU,cooking,cooking_recipe,kérlek keress az interneten és mutasd meg az olasz ételek készítéséhez megfelelő youtube videókat,play_podcasts,0.9974,0.0018,False
+9979,hu-HU,cooking,cooking_recipe,főzz nekem egy kis zabot,cooking_recipe,1.0,1.0,True
+9980,hu-HU,cooking,cooking_recipe,mi a mai menü adj hozzá főtt zöldségeket is,cooking_recipe,0.9948,0.9948,True
+9986,hu-HU,cooking,cooking_recipe,forró,qa_factoid,0.9952,0.0008,False
+9994,hu-HU,cooking,cooking_recipe,tudnál indiai csirke receptet mondani,cooking_recipe,0.9992,0.9992,True
+10016,hu-HU,cooking,cooking_recipe,mi öt mondatban a hálaadás napi pulyka sütési folyamata,cooking_recipe,0.3291,0.3291,True
+10019,hu-HU,cooking,cooking_recipe,kérlek mondd meg hogy sütök tizenkét zabpelyhes kekszet,cooking_recipe,0.9987,0.9987,True
+10023,hu-HU,cooking,cooking_recipe,mire van szükségem a báránysült elkészítéséhez,cooking_recipe,0.9996,0.9996,True
+10027,hu-HU,cooking,cooking_recipe,ételkészítési instrukciók,cooking_recipe,0.9995,0.9995,True
+10031,hu-HU,cooking,cooking_recipe,olyan receptre van szükségem melyek az én bevásárló listámon szereplő hozzávalókat tartalmazza,cooking_recipe,1.0,1.0,True
+10038,hu-HU,cooking,cooking_recipe,jó ötletek főzéshez,cooking_recipe,0.9834,0.9834,True
+10045,hu-HU,cooking,cooking_recipe,mutass nekem házi készítésű csirkehúsleves recepetet,cooking_recipe,0.9996,0.9996,True
+10048,hu-HU,cooking,cooking_recipe,hogyan kell megsütni meg egy pulykát,cooking_recipe,1.0,1.0,True
+10049,hu-HU,cooking,cooking_recipe,hogyan kell sonkás sajtos szendvicset készíteni,cooking_recipe,1.0,1.0,True
+10053,hu-HU,cooking,cooking_recipe,hogyan készítek pizzát,cooking_recipe,1.0,1.0,True
+10055,hu-HU,cooking,cooking_recipe,mi a sült csirke receptje,cooking_recipe,1.0,1.0,True
+10061,hu-HU,cooking,cooking_recipe,mit készítsek vacsorára,cooking_recipe,0.9955,0.9955,True
+10072,hu-HU,cooking,cooking_recipe,a csirke sütési ideje a sütőben,cooking_recipe,0.9952,0.9952,True
+10076,hu-HU,cooking,cooking_recipe,helyettesíthető a sütőpor szódabikarbónával,cooking_recipe,0.9995,0.9995,True
+10077,hu-HU,cooking,cooking_recipe,találj egy receptet ma este vacsorára,cooking_recipe,1.0,1.0,True
+10078,hu-HU,cooking,cooking_recipe,mit főzzek vacsorára,social_post,0.8962,0.0004,False
+10080,hu-HU,cooking,cooking_recipe,főzzünk együtt húsgombócot,cooking_recipe,0.9999,0.9999,True
+10081,hu-HU,cooking,cooking_recipe,mondd meg hogyan kell húsgolyót készíteni,cooking_recipe,1.0,1.0,True
+10090,hu-HU,cooking,cooking_recipe,kaphatnék egy tonhal receptet,cooking_recipe,0.9999,0.9999,True
+10093,hu-HU,cooking,cooking_recipe,hogy készül a lasagne,cooking_recipe,1.0,1.0,True
+10097,hu-HU,cooking,cooking_recipe,szeretnék egy sajtburgert,recommendation_events,0.7317,0.2235,False
+10099,hu-HU,cooking,cooking_recipe,tudod hogyan kell rizottót készíteni,cooking_recipe,1.0,1.0,True
+10100,hu-HU,cooking,cooking_recipe,tudsz egy rizottó receptet,cooking_recipe,1.0,1.0,True
+10105,hu-HU,cooking,cooking_recipe,mennyi ideig kell sütni a steaket hogy angolos legyen,cooking_recipe,0.9922,0.9922,True
+10107,hu-HU,cooking,cooking_recipe,szükségem van egy borscs receptre,cooking_recipe,1.0,1.0,True
+10119,hu-HU,cooking,cooking_recipe,mennyi ideig kell főzni egy tizenöt kilós pulykát,cooking_recipe,0.999,0.999,True
+10125,hu-HU,cooking,cooking_recipe,mi a különbség a sütés és a grillfokozat között,cooking_recipe,0.9982,0.9982,True
+10132,hu-HU,cooking,cooking_recipe,mennyi ideig süssem a steaket hogy közepes legyen,cooking_recipe,0.9941,0.9941,True
+10150,hu-HU,cooking,cooking_recipe,hogy készül a taco,cooking_recipe,1.0,1.0,True
+10156,hu-HU,cooking,cooking_recipe,tudnom kell hogyan kell töltött paprikát készíteni,cooking_recipe,1.0,1.0,True
+10164,hu-HU,cooking,cooking_recipe,mennyi ideig kell főzni a csőtésztát,cooking_recipe,0.997,0.997,True
+10166,hu-HU,cooking,cooking_recipe,keress almás pite receptet,cooking_recipe,0.9999,0.9999,True
+10171,hu-HU,cooking,cooking_recipe,mi a halászlé receptje,cooking_recipe,1.0,1.0,True
+10177,hu-HU,cooking,cooking_recipe,hogyan kell megfőzni a spárgatököt,cooking_recipe,0.9995,0.9995,True
+10182,hu-HU,cooking,cooking_recipe,hány tojásra van szükségem egy omletthez,cooking_recipe,0.9929,0.9929,True
+10197,hu-HU,cooking,cooking_recipe,mutasd meg a legjobb spagetti receptet,cooking_recipe,1.0,1.0,True
+10206,hu-HU,cooking,cooking_recipe,hogyan készül el a rizs,cooking_recipe,1.0,1.0,True
+10213,hu-HU,cooking,cooking_recipe,híres tepsis csirke receptek listája,cooking_recipe,1.0,1.0,True
+10214,hu-HU,cooking,cooking_recipe,egy órán belül elkészíthető receptek,cooking_recipe,0.9999,0.9999,True
+10216,hu-HU,cooking,cooking_recipe,keress az interneten sütési alapanyagok vásárlására muffinhoz,cooking_recipe,0.9949,0.9949,True
+10217,hu-HU,cooking,cooking_recipe,keresd meg a lencsefőzelék receptjét a cookingforuban,cooking_recipe,1.0,1.0,True
+10220,hu-HU,cooking,cooking_recipe,milyen összetevők kellenek egy nagy torta sütéséhez,cooking_recipe,0.9999,0.9999,True
+10224,hu-HU,cooking,cooking_recipe,íznek kell lennie,qa_factoid,0.9565,0.0053,False
+10226,hu-HU,cooking,cooking_recipe,mondj tészta főző receptet,cooking_recipe,1.0,1.0,True
+10426,hu-HU,lists,lists_query,mi más hiányzik még a naplóból,lists_remove,0.9081,0.0382,False
+10427,hu-HU,lists,lists_remove,töröld kérlek a bevásárló listámat,lists_remove,1.0,1.0,True
+10430,hu-HU,lists,lists_remove,töröld az első tételt a listáról,lists_remove,0.9841,0.9841,True
+10433,hu-HU,lists,lists_remove,töröld a feladat listámat,qa_factoid,0.9934,0.0022,False
+10440,hu-HU,lists,lists_query,van bármi különleges esemény a listámon,social_post,0.7169,0.1397,False
+10442,hu-HU,lists,lists_remove,távolítsd el az eseményeket a listámról,lists_remove,0.9935,0.9935,True
+10444,hu-HU,lists,lists_remove,töröld a tételt,qa_factoid,0.9908,0.0001,False
+10451,hu-HU,lists,lists_query,mit fogok ma csinálni,cooking_recipe,0.9996,0.0,False
+10455,hu-HU,lists,lists_query,mi van a teendőlistámon,email_sendemail,0.9941,0.0,False
+10462,hu-HU,lists,lists_remove,távolíts el egy listát,lists_remove,1.0,1.0,True
+10493,hu-HU,lists,lists_query,mi van az én teendők listámon,lists_remove,0.9766,0.0206,False
+10494,hu-HU,lists,lists_remove,vedd ki a ceruzát az írószerek közül,lists_remove,0.824,0.824,True
+10497,hu-HU,qa,qa_factoid,kérhetek egy listát a budapesti ötcsillagos szállodákról,lists_query,0.9883,0.0,False
+10508,hu-HU,lists,lists_remove,töröld a lista tételt,lists_remove,0.8698,0.8698,True
+10512,hu-HU,lists,lists_query,sorolj fel mindent ami maradt a kérdéslistán,qa_factoid,0.6741,0.0296,False
+10523,hu-HU,lists,lists_remove,töröld a lejátszási listáról az régi angol dalok listáját,play_music,0.9844,0.0081,False
+10525,hu-HU,lists,lists_remove,töröld az autóm fizetését a naptáramból,qa_factoid,0.9943,0.0003,False
+10527,hu-HU,lists,lists_remove,töröld a listát,lists_remove,0.9591,0.9591,True
+10534,hu-HU,lists,lists_query,mi van a mai teendőlistán,lists_remove,0.4125,0.0251,False
+10538,hu-HU,lists,lists_query,ismételd el kérlek a bevásárlás listámat,lists_remove,1.0,0.0,False
+10565,hu-HU,lists,lists_remove,törölj minden listát,lists_remove,1.0,1.0,True
+10568,hu-HU,lists,lists_remove,távolítsd el a régi zene listát,lists_remove,1.0,1.0,True
+10570,hu-HU,lists,lists_query,ellenőrizd a tennivalók listám,lists_remove,0.5365,0.413,False
+10571,hu-HU,lists,lists_query,android,iot_hue_lightoff,0.2324,0.0685,False
+10577,hu-HU,lists,lists_query,add meg az összes listámat,lists_remove,0.999,0.0009,False
+10579,hu-HU,lists,lists_remove,állítsd át a helyek listát,lists_remove,0.7971,0.7971,True
+10588,hu-HU,lists,lists_query,mutasd a lista tartalmát,lists_remove,0.9996,0.0001,False
+10590,hu-HU,lists,lists_remove,távolítsd el a második sort a listáról,lists_remove,1.0,1.0,True
+10655,hu-HU,lists,lists_remove,távolítsd el a bulinak hívott listát,lists_remove,1.0,1.0,True
+10667,hu-HU,lists,lists_query,mondd el a lista beosztását,lists_remove,0.9999,0.0,False
+10673,hu-HU,lists,lists_remove,távolítsd el a következő listát,lists_remove,1.0,1.0,True
+10674,hu-HU,lists,lists_remove,dobd a kukába az aktuális listát,lists_remove,1.0,1.0,True
+10679,hu-HU,lists,lists_query,mi van a tennivalók listámon ma,lists_remove,0.5522,0.4452,False
+10684,hu-HU,lists,lists_query,milyen listáim vannak,lists_query,0.9977,0.9977,True
+10687,hu-HU,lists,lists_remove,ha van esemény a listán töröld azt,qa_factoid,0.5645,0.3803,False
+10696,hu-HU,lists,lists_remove,cseréld ki,email_sendemail,0.1976,0.0181,False
+10699,hu-HU,lists,lists_query,értesíts a listámon szereplő tételekről,email_sendemail,0.5077,0.0448,False
+10718,hu-HU,lists,lists_remove,távolítsd el ezt a tételt a listámról,lists_remove,0.9742,0.9742,True
+10731,hu-HU,lists,lists_query,olvasd fel mi van a listámon,social_post,0.9984,0.0003,False
+10743,hu-HU,lists,lists_remove,töröld azt a tételt,qa_factoid,0.3806,0.0036,False
+10753,hu-HU,lists,lists_query,mit tettem fel már a reál listára,lists_query,0.9832,0.9832,True
+10755,hu-HU,lists,lists_remove,dobd ki a teendőlistámat,qa_factoid,1.0,0.0,False
+10756,hu-HU,lists,lists_remove,töröld a bevásárló listát,lists_query,0.7132,0.2849,False
+10757,hu-HU,lists,lists_query,mik vannak a bevásárló listámon,lists_query,0.998,0.998,True
+10759,hu-HU,lists,lists_query,olvasd fel nekem a bevásárló listámat,lists_query,0.9973,0.9973,True
+10760,hu-HU,lists,lists_query,olvasd fel azt a listát amit két napja csináltam,lists_query,0.999,0.999,True
+10770,hu-HU,lists,lists_remove,távolítsd el a gabonapelyhet a bevásárló listámról,lists_remove,0.9995,0.9995,True
+10772,hu-HU,calendar,calendar_remove,töröld a fogorvosi időpontomat a mai időbeosztásomból,qa_factoid,0.5195,0.0463,False
+10776,hu-HU,lists,lists_query,készen van a bevásárlólistám,lists_query,0.8785,0.8785,True
+10786,hu-HU,lists,lists_remove,tisztítsd a tevékenységek listámat a mai napra,lists_remove,0.9966,0.9966,True
+10790,hu-HU,lists,lists_remove,töröld a tételt a listáról,lists_remove,0.7727,0.7727,True
+10804,hu-HU,lists,lists_query,olvasd fel az élelmiszer listámat,qa_factoid,0.9349,0.0431,False
+10805,hu-HU,lists,lists_query,mutasd meg kérlek nekem a listámat,email_sendemail,1.0,0.0,False
+10808,hu-HU,lists,lists_remove,töröld az utolsó listázott tételt,lists_remove,0.9984,0.9984,True
+10824,hu-HU,lists,lists_remove,olly töröld a listát,lists_remove,1.0,1.0,True
+10825,hu-HU,lists,lists_remove,töröld a listát,lists_remove,0.9591,0.9591,True
+10827,hu-HU,lists,lists_remove,töröld az élelmiszer listát,lists_remove,0.9944,0.9944,True
+10828,hu-HU,lists,lists_remove,törölj mindent,qa_factoid,0.9969,0.0,False
+10832,hu-HU,calendar,calendar_query,olly mit terveztem következőnek,cooking_recipe,0.98,0.0004,False
+10843,hu-HU,lists,lists_remove,távolítsd el a tejet az élelmiszer listámról,lists_remove,0.9732,0.9732,True
+10846,hu-HU,lists,lists_remove,nincs elég pénzem hogy megvegyem a nintendo switchet kérlek töröld az amazon kívánságlistámról,qa_factoid,0.6883,0.053,False
+10848,hu-HU,lists,lists_remove,töröld ezt a listát a többi közül,lists_remove,1.0,1.0,True
+10851,hu-HU,lists,lists_query,melyek az elérhető listáim,lists_query,0.9989,0.9989,True
+10853,hu-HU,lists,lists_remove,vedd azt onnan le,qa_factoid,0.9976,0.0001,False
+10855,hu-HU,lists,lists_query,ellenőrizni kell a listámat,lists_remove,0.9976,0.0012,False
+10868,hu-HU,lists,lists_query,olly bármi más maradt a listán,qa_factoid,0.6311,0.0002,False
+10887,hu-HU,lists,lists_remove,töröld a listám,lists_remove,0.9011,0.9011,True
+10895,hu-HU,lists,lists_remove,törölj tételt a listámról,iot_hue_lightoff,0.277,0.2408,False
+10909,hu-HU,lists,lists_query,olly olvasd fel nekem a listáimat,email_sendemail,1.0,0.0,False
+10927,hu-HU,lists,lists_query,hadd halljam a listámat,email_sendemail,0.5868,0.361,False
+10931,hu-HU,lists,lists_query,mi van a lejátszási listámon,social_post,0.9725,0.0009,False
+10936,hu-HU,lists,lists_remove,kérlek távolítsd el a kedvenc albumok listámat,email_sendemail,0.9332,0.0394,False
+10954,hu-HU,lists,lists_query,hány listám van a névjegyzékben,lists_remove,0.9953,0.0036,False
+10956,hu-HU,lists,lists_query,milyen csoportok vannak listázva a névjegyzékemben,lists_query,0.9889,0.9889,True
+10957,hu-HU,lists,lists_query,emlékeztess hogy listám van,lists_remove,0.9664,0.0327,False
+10960,hu-HU,lists,lists_remove,azt töröld a listáról,lists_remove,0.998,0.998,True
+10970,hu-HU,lists,lists_remove,töröld az utolsó mondatot,calendar_remove,0.9496,0.0186,False
+10979,hu-HU,lists,lists_query,mi van a listádon épp most,lists_remove,0.8718,0.1222,False
+10981,hu-HU,lists,lists_query,ismertesd velem a listát,social_post,0.5901,0.0092,False
+10985,hu-HU,lists,lists_remove,töröld a tennivalóimat erre a hétre,datetime_query,0.7829,0.0081,False
+10990,hu-HU,lists,lists_remove,a teendőim közül töröld a felmosni a konyhát,cooking_recipe,0.9996,0.0,False
+10999,hu-HU,lists,lists_query,mondd a listát,lists_remove,0.9982,0.0011,False
+11023,hu-HU,lists,lists_remove,töröld a bevásárló listát,lists_query,0.7132,0.2849,False
+11024,hu-HU,lists,lists_remove,töröld a teendők listát,lists_remove,0.999,0.999,True
+11053,hu-HU,lists,lists_remove,távolítsd el a listát google,lists_remove,1.0,1.0,True
+11075,hu-HU,lists,lists_query,hány listám van,lists_remove,0.7955,0.2009,False
+11081,hu-HU,lists,lists_query,melyik listák vannak a notebookomban,lists_query,0.9989,0.9989,True
+11085,hu-HU,lists,lists_remove,vedd le a tejet a bevásárló listáról,lists_remove,0.9917,0.9917,True
+11098,hu-HU,lists,lists_remove,töröld ki az adózási listákat ezerkilencszázkilencventől,lists_remove,1.0,1.0,True
+11107,hu-HU,lists,lists_query,melyek a jelenlegi listáim,lists_remove,0.936,0.0063,False
+11124,hu-HU,lists,lists_query,sorold fel a munka listámon levő tételeket,lists_remove,0.9986,0.0004,False
+11125,hu-HU,lists,lists_query,add meg a rendelés részleteit,qa_factoid,0.3119,0.0229,False
+11133,hu-HU,lists,lists_remove,töröld a vendég listát amit a múlt héten készítettem,lists_remove,0.9988,0.9988,True
+11154,hu-HU,lists,lists_query,ellenőrízd a legutóbbi tennivalók listát,lists_remove,0.948,0.0197,False
+11162,hu-HU,lists,lists_remove,le akarom venni az almát a listáról,lists_remove,0.9993,0.9993,True
+11164,hu-HU,lists,lists_remove,lépj ki a listából,lists_remove,0.9978,0.9978,True
+11166,hu-HU,lists,lists_query,nyisd meg a google keep-et,news_query,0.5358,0.0066,False
+11168,hu-HU,lists,lists_remove,töröld a listámat,email_sendemail,0.9913,0.0033,False
+11172,hu-HU,lists,lists_query,add meg az összes elérhető listát,lists_remove,0.9985,0.0014,False
+11174,hu-HU,lists,lists_query,listázd a készüléken található összes listát,lists_query,1.0,1.0,True
+11180,hu-HU,calendar,calendar_query,az én buli szervezésem,qa_factoid,0.9798,0.0001,False
+11186,hu-HU,lists,lists_query,megvan a ruhák listám,lists_remove,0.8906,0.0695,False
+11189,hu-HU,lists,lists_query,keresd meg a listát,qa_factoid,0.6869,0.2889,False
+11204,hu-HU,lists,lists_query,olvasd fel a listát,lists_remove,0.612,0.3639,False
+11215,hu-HU,lists,lists_query,lista,lists_query,1.0,1.0,True
+11250,hu-HU,lists,lists_query,olvasd vissza a bevásárló listámat,lists_remove,0.7444,0.1376,False
+11257,hu-HU,play,play_podcasts,olly játsszd le a következő felvételt,cooking_recipe,0.8627,0.0037,False
+11259,hu-HU,play,play_podcasts,ugorj a következő hanglemeztárra,qa_factoid,0.6731,0.0004,False
+11261,hu-HU,play,play_podcasts,következő,qa_factoid,0.9989,0.0,False
+11265,hu-HU,play,play_podcasts,játszd le a következőt,qa_factoid,0.9758,0.0004,False
+11266,hu-HU,play,play_podcasts,játssz le egy podcastet a könyvtáramból,play_podcasts,0.9995,0.9995,True
+11267,hu-HU,play,play_podcasts,keress egy érdekes podcastet a legutóbbi millásreggeliről,play_podcasts,0.9999,0.9999,True
+11270,hu-HU,play,play_podcasts,játszd a következő podcastot,play_podcasts,0.9991,0.9991,True
+11272,hu-HU,play,play_podcasts,játsszd le a következőt,cooking_recipe,0.975,0.0003,False
+11279,hu-HU,play,play_podcasts,menj a podcasthoz és játszd le a következő epizódot a barátok köztből,play_podcasts,1.0,1.0,True
+11286,hu-HU,play,play_podcasts,játszd le az igenek és nemek podcastot,play_podcasts,1.0,1.0,True
+11296,hu-HU,play,play_podcasts,töltsd fel minden podcastomat,play_podcasts,0.9996,0.9996,True
+11302,hu-HU,play,play_podcasts,játszd le az igenek és nemek podcastet,play_podcasts,1.0,1.0,True
+11303,hu-HU,play,play_podcasts,játszd le a következő igenek és nemek podcastet,play_podcasts,0.8943,0.8943,True
+11306,hu-HU,play,play_podcasts,folytasd a podcastot amit tegnap hallgattam,play_podcasts,0.9813,0.9813,True
+11318,hu-HU,play,play_podcasts,játssz le a következő részét a podcastnak,play_podcasts,1.0,1.0,True
+11322,hu-HU,play,play_podcasts,mik a mai legjobb podcastok,play_podcasts,0.755,0.755,True
+11328,hu-HU,play,play_podcasts,játszd le a budapest honvéd tartalmú podcastot,play_podcasts,0.9998,0.9998,True
+11331,hu-HU,play,play_podcasts,mutasd a legjobb podcastot magas értékelésű rock zenékkel,play_podcasts,0.8539,0.8539,True
+11335,hu-HU,play,play_music,játszd le véletlenszerű sorrendben az összes lassú számot,play_music,0.6581,0.6581,True
+11339,hu-HU,play,play_podcasts,játsszd le az én legtöbbet nézett podcastomat,play_podcasts,1.0,1.0,True
+11340,hu-HU,play,play_podcasts,csabának van új podcastja,social_post,0.9984,0.0016,False
+11341,hu-HU,play,play_podcasts,találd meg a legújabb disney podcastot,play_podcasts,1.0,1.0,True
+11343,hu-HU,play,play_podcasts,tovább a partizán következő részéhez,lists_remove,0.5689,0.0114,False
+11345,hu-HU,play,play_podcasts,játszd le a következő részt a podcatból,play_podcasts,0.9995,0.9995,True
+11349,hu-HU,play,play_podcasts,olly indítsd el a tegnap este elkezdett podcastot,play_podcasts,0.9168,0.9168,True
+11353,hu-HU,play,play_podcasts,mutass podcasteket,play_podcasts,0.9994,0.9994,True
+11361,hu-HU,play,play_podcasts,játszd le balázsék podcastját,play_podcasts,1.0,1.0,True
+11366,hu-HU,play,play_podcasts,lépj vissza a podcast előző epizódjához,play_podcasts,0.9987,0.9987,True
+11368,hu-HU,play,play_podcasts,indítsd el friderikusz podcastját,play_podcasts,1.0,1.0,True
+11376,hu-HU,play,play_podcasts,podcastot szeretnék hallgatni,play_podcasts,1.0,1.0,True
+11384,hu-HU,play,play_podcasts,le tudnád tölteni kérlek a podcast fájlomat ami elérhető az interneten és lejátszanád egyszer,play_podcasts,0.9961,0.9961,True
+11409,hu-HU,play,play_podcasts,kérlek ugorj a podcast következő részére,play_podcasts,0.9999,0.9999,True
+11417,hu-HU,play,play_podcasts,indítsd el a következő részt,cooking_recipe,0.9977,0.0001,False
+11418,hu-HU,play,play_podcasts,játssz le duncan trussel legújabb podcastját,play_podcasts,1.0,1.0,True
+11420,hu-HU,play,play_podcasts,kezd el lejátszani a legfrissebb podcastom,play_podcasts,0.9997,0.9997,True
+11423,hu-HU,play,play_podcasts,lépj vissza harminc másodpercet,email_sendemail,0.5128,0.01,False
+11424,hu-HU,play,play_podcasts,petőfi rádió,play_radio,0.9888,0.0002,False
+11426,hu-HU,lists,lists_query,leggyakrabban látogatott lista,qa_factoid,0.9975,0.0004,False
+11427,hu-HU,play,play_podcasts,kezd az istenestet,qa_factoid,1.0,0.0,False
+11437,hu-HU,play,play_podcasts,kérlek játszd le nekem ezt a podcastot,play_podcasts,0.9959,0.9959,True
+11438,hu-HU,play,play_podcasts,kérlek menj a podcast következő részére,play_podcasts,0.9998,0.9998,True
+11442,hu-HU,play,play_podcasts,kérlek játszd le a legújabb friderikusz podcastot,play_podcasts,0.9946,0.9946,True
+11451,hu-HU,play,play_podcasts,meg akarom hallgatni a legújabb david dobrik podcastot,play_podcasts,1.0,1.0,True
+11453,hu-HU,play,play_podcasts,indítsd el a nemzeti sport podcastot,qa_factoid,1.0,0.0,False
+11455,hu-HU,play,play_podcasts,lépj a következő részre,calendar_remove,0.4905,0.0118,False
+11458,hu-HU,play,play_podcasts,haladj tovább a következő podcast részre,play_podcasts,0.9906,0.9906,True
+11459,hu-HU,play,play_podcasts,menj vissza a podcast utolsó részéhez,play_podcasts,0.9997,0.9997,True
+11460,hu-HU,play,play_podcasts,sport podcastot akarok hallgatni,play_podcasts,0.5545,0.5545,True
+11467,hu-HU,play,play_podcasts,játszd le az igenek és nemek legutóbbi podcastját,play_podcasts,1.0,1.0,True
+11470,hu-HU,play,play_podcasts,játszd le az én kedvenc podcastomat kérlek,play_podcasts,1.0,1.0,True
+11474,hu-HU,play,play_podcasts,folytasd a podcast sorozatot,play_podcasts,1.0,1.0,True
+11476,hu-HU,play,play_podcasts,játszd le az előző podcastot,play_podcasts,1.0,1.0,True
+11483,hu-HU,play,play_podcasts,kezd el játszani a természet hangját,play_music,0.9999,0.0,False
+11490,hu-HU,play,play_podcasts,játszd le a következő műsort podcaston,play_podcasts,1.0,1.0,True
+11502,hu-HU,play,play_podcasts,következő gomb,qa_factoid,0.9985,0.0,False
+11505,hu-HU,play,play_podcasts,a legutóbb lejátszott podcastom újrajátszása,play_podcasts,0.9995,0.9995,True
+11514,hu-HU,play,play_podcasts,olly meghallgathatjuk a vakfolt podcastot,qa_factoid,1.0,0.0,False
+11515,hu-HU,play,play_podcasts,akarom hallani a kolorlokál podcastot,social_post,0.8447,0.001,False
+11525,hu-HU,play,play_podcasts,a következő elérhető podcastot akarom látni,play_podcasts,1.0,1.0,True
+11529,hu-HU,play,play_podcasts,hej játszd le a kedvenc podcastomat a listáról,play_podcasts,0.998,0.998,True
+11536,hu-HU,play,play_podcasts,add hozzá a kedvenc podcastokat a lejátszási listához és kezdd el,play_podcasts,1.0,1.0,True
+11539,hu-HU,play,play_podcasts,kezd el a következő podcastot,play_podcasts,1.0,1.0,True
+11546,hu-HU,play,play_podcasts,játszd le az előző heti összes igenek és nemek részt,play_music,0.8761,0.0946,False
+11554,hu-HU,play,play_podcasts,azt akarom hogy játszd le a podcastot,play_podcasts,1.0,1.0,True
+11563,hu-HU,recommendation,recommendation_events,mit tehetek debrecenben,qa_factoid,0.7093,0.0077,False
+11570,hu-HU,recommendation,recommendation_events,mi történik a városomban,social_post,0.642,0.0149,False
+11582,hu-HU,recommendation,recommendation_events,történik e valami a rock színtéren csornán,iot_hue_lightoff,0.2501,0.0266,False
+11585,hu-HU,recommendation,recommendation_events,bármely kulturális esemény magyarországon,social_post,0.6737,0.0091,False
+11598,hu-HU,recommendation,recommendation_events,kérlek tájékoztass a szülővárosomban zajló kutyakiállításokról,email_sendemail,0.966,0.0015,False
+11600,hu-HU,recommendation,recommendation_events,milyen filmet nézhetnék meg ma este a moziban itt miskolcon,qa_factoid,0.9769,0.0001,False
+11610,hu-HU,recommendation,recommendation_events,listázd a város jelenlegi cirkuszi előadásainak listáját,lists_query,0.8459,0.0312,False
+11612,hu-HU,recommendation,recommendation_events,milyen fegyver kiállítás van szolnokon,cooking_recipe,0.3897,0.0246,False
+11616,hu-HU,recommendation,recommendation_events,milyen események vannak ma este a belvárosban,news_query,0.6332,0.0189,False
+11643,hu-HU,recommendation,recommendation_events,milyen események történnek hamarosan,qa_factoid,0.2985,0.0527,False
+11644,hu-HU,recommendation,recommendation_events,mutass eseményeket kaposváron,qa_factoid,0.5476,0.0036,False
+11650,hu-HU,recommendation,recommendation_events,a fiatal és ideiglenes vezetők többet karamboloznak mint a többi sofőr mivel még nem szerezték meg azt a széles körű tapasztalatot amelyre szükségük van ahhoz hogy biztonságosan vezessenek önállóan kutatások kimutatták hogy a vezetési tapasztalat fontos tényező a közúti balesetek számának csökkentésében és hogy a fiatal járművezetők számára a legbiztonságosabb időszak az amikor felügyelet mellett vezetnek miközben tanulnak,recommendation_events,0.5654,0.5654,True
+11681,hu-HU,recommendation,recommendation_events,kérlek mutasd meg a marathont a környéken,qa_factoid,0.5175,0.0033,False
+11685,hu-HU,recommendation,recommendation_events,örülnék ha tájékoztatnál a térségünkben zajló eseményekről,email_sendemail,0.9926,0.0001,False
+11705,hu-HU,recommendation,recommendation_events,mutasson festmény kiállítást debrecen belvárosában,iot_hue_lightoff,0.6116,0.0193,False
+11720,hu-HU,recommendation,recommendation_events,úszás,play_radio,0.4314,0.0061,False
+11767,hu-HU,recommendation,recommendation_events,olly milyen események lesznek sopronban ezen a hétvégén,recommendation_events,0.8864,0.8864,True
+11770,hu-HU,recommendation,recommendation_events,bármilyen esemény ezen a hétvégén pécsett,social_post,0.5554,0.07,False
+11782,hu-HU,recommendation,recommendation_events,vannak e különleges események a közelemben ezen e hétvégén,news_query,0.3313,0.2806,False
+11798,hu-HU,recommendation,recommendation_events,mi lesz a következő esemény a könyvtárban,recommendation_events,0.3412,0.3412,True
+11827,hu-HU,recommendation,recommendation_events,hova mehetnék ma este,email_sendemail,0.9998,0.0,False
+11839,hu-HU,recommendation,recommendation_events,mi történik körülöttem,news_query,0.203,0.0395,False
+11841,hu-HU,recommendation,recommendation_events,van bármilyen kézműves vásár ezen a környéken,recommendation_events,0.9594,0.9594,True
+11844,hu-HU,recommendation,recommendation_events,bármi érdekes történik az öböl környékén,social_post,0.4475,0.1882,False
+11845,hu-HU,recommendation,recommendation_events,olly ajánlj izgalmas eseményeket a római parton,recommendation_events,0.9618,0.9618,True
+11860,hu-HU,recommendation,recommendation_events,mesélj a helyi eseményekről,play_podcasts,0.5321,0.0065,False
+11867,hu-HU,recommendation,recommendation_events,lesz holnap sportesemény budapesten,social_post,0.6264,0.154,False
+11875,hu-HU,recommendation,recommendation_events,van e étel fesztivál a környéken,social_post,0.7895,0.0077,False
+11904,hu-HU,recommendation,recommendation_events,mi történik errefelé ezen a hétvégén,weather_query,0.3623,0.0108,False
+11905,hu-HU,recommendation,recommendation_events,olly mesélj a környékemen zajló tevékenységekről ezen a hétvégén,social_post,0.9735,0.0007,False
+11911,hu-HU,recommendation,recommendation_events,történik valami jó ezen a hétvégén a környékemen,weather_query,0.9486,0.0029,False
+11916,hu-HU,recommendation,recommendation_events,milyen vidámparkok vannak a környéken,lists_remove,0.4282,0.0132,False
+11969,hu-HU,recommendation,recommendation_events,van valami érdekes ami zajlik a környéken,recommendation_events,0.654,0.654,True
+11999,hu-HU,recommendation,recommendation_events,add meg az összes mai eseményt a városban,news_query,0.3687,0.0128,False
+12008,hu-HU,recommendation,recommendation_events,van ma valami izgalmas rendezvény miskolcon,social_post,0.9266,0.0215,False
+12054,hu-HU,recommendation,recommendation_events,mi folyik a városban,weather_query,0.9402,0.0019,False
+12070,hu-HU,recommendation,recommendation_events,mikor nyit a mammut bevásárlóközpont,qa_factoid,0.2139,0.1206,False
+12073,hu-HU,recommendation,recommendation_events,ajánlj helyi aktuális eseményeket,recommendation_events,0.9891,0.9891,True
+12098,hu-HU,recommendation,recommendation_events,mutass zenei eseményeket a közelben,social_post,0.4925,0.0259,False
+12189,hu-HU,transport,transport_query,hogy jutok el a vasútállomásra egy jegyért,transport_query,0.8543,0.8543,True
+12240,hu-HU,transport,transport_query,milyen a forgalom a hazafelé tartó utamon ötkor,qa_factoid,1.0,0.0,False
+12245,hu-HU,transport,transport_query,mikor indul a következő vonat pécsről kaposvárra,transport_query,0.957,0.957,True
+12251,hu-HU,transport,transport_query,add meg a helyi vonat menetrendjét egerbe,iot_hue_lightoff,0.5104,0.0784,False
+12252,hu-HU,transport,transport_query,mikor indulnak csongrádba a vonatok,qa_factoid,0.9974,0.0,False
+12261,hu-HU,transport,transport_query,mondj nekem vonat lehetőségeket temesvárra a következő szerdára vagy csütörtökre,transport_query,0.9928,0.9928,True
+12263,hu-HU,transport,transport_query,magyarország,social_post,0.6988,0.0031,False
+12264,hu-HU,transport,transport_query,budapest,qa_factoid,0.7746,0.01,False
+12294,hu-HU,transport,transport_query,mutasd a vonatmenetrendet a magyar állami operaházhoz,qa_factoid,0.9545,0.0146,False
+12310,hu-HU,transport,transport_query,mutasd az elérhető vonatjegyek listáját szegedről pécsre,lists_query,0.5556,0.0079,False
+12343,hu-HU,transport,transport_query,nézd meg a kelenföld vasútállomásról induló tízezer nyolcszáznyolcvanhetes vonat idejét kedden,social_post,0.7095,0.0127,False
+12354,hu-HU,transport,transport_query,add meg a vonat indulási idejét,qa_factoid,0.9999,0.0,False
+12366,hu-HU,transport,transport_query,van csatlakozó vonat budapestről bécsbe és mikor,transport_query,0.9422,0.9422,True
+12367,hu-HU,transport,transport_query,melyik a legjobb útvonal kecskemétre,qa_factoid,0.995,0.0004,False
+12376,hu-HU,transport,transport_query,mikor megy az első metró újpestre,weather_query,0.985,0.0001,False
+12392,hu-HU,transport,transport_query,mondd meg a mai irányt,qa_factoid,0.9718,0.0002,False
+12402,hu-HU,transport,transport_query,mikor indul innen a következő vonat a városba,transport_query,0.9759,0.9759,True
+12419,hu-HU,transport,transport_query,leggyorsabb út budapestre,qa_factoid,0.9956,0.0022,False
+12430,hu-HU,transport,transport_query,mondd meg a vonat érkezési idejét budapestre,transport_query,0.6379,0.6379,True
+12436,hu-HU,transport,transport_query,mennyi idő alatt érek ki a repülőtérre,qa_factoid,0.9421,0.0487,False
+12437,hu-HU,transport,transport_query,mennyi az út ideje a színházba,qa_factoid,0.9689,0.0006,False
+12446,hu-HU,transport,transport_query,meg tudod mondani mikor indul a vonat csákvárra,weather_query,0.9665,0.0009,False
+12473,hu-HU,transport,transport_query,hogyan jutok haza innen,qa_factoid,0.7188,0.0016,False
+12526,hu-HU,transport,transport_query,mi a leggyorsabb út a starbucksba,qa_factoid,0.8309,0.0098,False
+12532,hu-HU,transport,transport_query,vezess a helyre,iot_hue_lightoff,0.9176,0.0015,False
+12581,hu-HU,transport,transport_query,mikor jár ma az elővárosi vonat,weather_query,0.9989,0.0001,False
+12582,hu-HU,transport,transport_query,hány órakor érkezik reggel az első piros metró,weather_query,0.9564,0.0175,False
+12604,hu-HU,transport,transport_query,hogyan foglalhatok online jegyet vonatra,transport_query,0.9174,0.9174,True
+12618,hu-HU,transport,transport_query,mennyibe kerül egy retúrjegy vonattal budapestre,qa_factoid,0.5396,0.346,False
+12623,hu-HU,transport,transport_query,mikor vannak vonatok budapestre,qa_factoid,0.9988,0.0007,False
+12629,hu-HU,transport,transport_query,hánykor indul az első vonat csákvárról,qa_factoid,0.9601,0.001,False
+12634,hu-HU,transport,transport_query,mikor indul a követező vonat albertirsára,weather_query,0.5375,0.4487,False
+12707,hu-HU,transport,transport_query,navigációs keresés,lists_query,0.283,0.0295,False
+12759,hu-HU,transport,transport_query,menetidő budapestre,datetime_query,0.8162,0.0005,False
+12797,hu-HU,transport,transport_query,vonatok ideje a közelemből a helyszínre,qa_factoid,0.8571,0.0014,False
+12800,hu-HU,transport,transport_query,hol van a közkönyvtár,recommendation_events,0.889,0.0026,False
+12817,hu-HU,transport,transport_query,hogyan jutok el a bevásárlóközpontba,transport_query,0.7788,0.7788,True
+12818,hu-HU,transport,transport_query,mennyibe kerül egy vonatjegy miskolcra,qa_factoid,0.9978,0.0001,False
+12824,hu-HU,transport,transport_query,sorold fel az összes vonat időt válba,datetime_query,0.6377,0.1261,False
+12835,hu-HU,transport,transport_query,mikor indul a vonat a helyre,qa_factoid,0.9999,0.0,False
+12839,hu-HU,transport,transport_query,vigyél a keleti pályaudvarhoz,qa_factoid,0.9228,0.0009,False
+12851,hu-HU,transport,transport_query,mutasd az útvonalat hazáig,qa_factoid,0.976,0.0005,False
+12856,hu-HU,transport,transport_query,az útirányt kérem,qa_factoid,0.9964,0.0027,False
+12866,hu-HU,transport,transport_query,mi a napfény i. c. időzítése,weather_query,0.6584,0.0042,False
+12908,hu-HU,transport,transport_query,hánykor érkezik a vonat szekszárdra,social_post,0.9987,0.0,False
+12930,hu-HU,transport,transport_query,keress a térképen üzleteket a közelemben,qa_factoid,0.4257,0.0063,False
+12932,hu-HU,transport,transport_query,olly szükségem van útvonalakra a váci útra,qa_factoid,0.9975,0.0003,False
+12951,hu-HU,qa,qa_factoid,mi a világ legmagasabb épülete,qa_definition,0.5952,0.2252,False
+12957,hu-HU,qa,qa_definition,definiáld azt hogy kidolgozott,qa_factoid,0.8053,0.1943,False
+12961,hu-HU,qa,qa_definition,kérlek definiáld azt hogy törvényszéki,qa_factoid,0.5674,0.4322,False
+12963,hu-HU,qa,qa_definition,mi a törvényszéki vizsgálat fogalma,qa_definition,0.9994,0.9994,True
+12972,hu-HU,qa,qa_factoid,melyik a világ csúcspontja,qa_factoid,0.9989,0.9989,True
+12982,hu-HU,qa,qa_definition,mit jelent a légörvény,qa_definition,0.9916,0.9916,True
+12986,hu-HU,qa,qa_definition,nézd meg a szeszélyes szó jelentését,qa_definition,0.9993,0.9993,True
+12999,hu-HU,qa,qa_factoid,mennyi idős koncz zsuzsa,social_post,0.9059,0.0389,False
+13016,hu-HU,qa,qa_definition,keresd ki a baklövés definícióját,qa_definition,0.9995,0.9995,True
+13023,hu-HU,cooking,cooking_recipe,mutass recepteket,cooking_recipe,0.9916,0.9916,True
+13069,hu-HU,qa,qa_definition,mi a narancs definíciója,qa_definition,1.0,1.0,True
+13074,hu-HU,qa,qa_factoid,miért nem vicces csuja imre,cooking_recipe,0.9724,0.0036,False
+13077,hu-HU,qa,qa_factoid,mikor van csuja imre születésnapja,datetime_query,0.8833,0.0777,False
+13078,hu-HU,qa,qa_factoid,mondd meg varga tamás címét,email_sendemail,1.0,0.0,False
+13099,hu-HU,qa,qa_factoid,ki magyarország jelenlegi miniszterelnöke,email_sendemail,0.9821,0.0029,False
+13115,hu-HU,qa,qa_factoid,mi magyarország fővárosa,social_post,0.9046,0.007,False
+13124,hu-HU,qa,qa_factoid,milyen nagy a kozmosz,qa_factoid,1.0,1.0,True
+13135,hu-HU,qa,qa_factoid,mi bozóki andrea születési éve,datetime_query,0.9493,0.0092,False
+13140,hu-HU,qa,qa_definition,mesélj nekem a hurrikánról,social_post,0.8002,0.0022,False
+13154,hu-HU,qa,qa_factoid,tudod tóth gabi telefonszámát,email_sendemail,0.6516,0.3322,False
+13165,hu-HU,qa,qa_definition,mit jelent a rezgés,qa_factoid,0.8556,0.143,False
+13166,hu-HU,qa,qa_definition,betűzd és határozd meg az oszcillálni szót,iot_hue_lightoff,0.7809,0.0233,False
+13177,hu-HU,calendar,calendar_set,emlékeztess rá hogy mozogjak és így ne hízzak meg,cooking_recipe,0.9489,0.0004,False
+13178,hu-HU,calendar,calendar_set,emlékeztess hogy lépjek kapcsolatba régi barátaimmal akikkel hat hónapja nem beszéltem mielőtt elmennek,social_post,0.6987,0.0036,False
+13188,hu-HU,news,news_query,mondd el hogyan hozzák majd nyilvánosságra a budapesti országgyűlési választások eredményét,social_post,0.8619,0.0178,False
+13206,hu-HU,qa,qa_definition,helyszín,qa_factoid,0.6275,0.0012,False
+13215,hu-HU,transport,transport_query,melyik a forgalmat elkerülő leggyorsabb út a belvárosi munkahelyemre,qa_factoid,0.3398,0.1273,False
+13252,hu-HU,qa,qa_factoid,mi volt karinthy frigyes első novemberi,iot_hue_lightoff,0.2784,0.1433,False
+13255,hu-HU,qa,qa_factoid,kérlek adj információt kádár jánosról,email_sendemail,0.9999,0.0,False
+13283,hu-HU,qa,qa_factoid,mennyi pénzt keresett bill gates,qa_factoid,0.9997,0.9997,True
+13288,hu-HU,qa,qa_definition,mi az örökös szó meghatározása,qa_definition,1.0,1.0,True
+13297,hu-HU,qa,qa_factoid,ki a híresség,qa_factoid,1.0,1.0,True
+13298,hu-HU,qa,qa_factoid,mit csinál egy híresség,qa_factoid,0.9769,0.9769,True
+13330,hu-HU,qa,qa_factoid,mekkora az ámbráscet,qa_factoid,0.8114,0.8114,True
+13361,hu-HU,qa,qa_definition,mi az időszerűség meghatározása,qa_factoid,0.8,0.1054,False
+13383,hu-HU,qa,qa_factoid,hány államban van halálbüntetés,qa_factoid,0.9995,0.9995,True
+13400,hu-HU,social,social_post,küljd egy vicces üzenetet az összes ismerősömnek,social_post,0.9867,0.9867,True
+13439,hu-HU,qa,qa_factoid,mennyi idős fábián janka,social_post,0.9989,0.0008,False
+13457,hu-HU,calendar,calendar_set,mondd meg hogy mikor induljak el a tervezett eseményre hogy időben legyek,calendar_remove,0.8854,0.0198,False
+13473,hu-HU,qa,qa_factoid,mikor szabadult fel magyarország,qa_factoid,1.0,1.0,True
+13487,hu-HU,qa,qa_factoid,mi magyarország fővárosa,social_post,0.9046,0.007,False
+13494,hu-HU,qa,qa_definition,add meg a motiváció jelentését,qa_factoid,0.9846,0.0039,False
+13506,hu-HU,datetime,datetime_query,meg tudnád mondani mennyi az idő,weather_query,0.998,0.0003,False
+13513,hu-HU,qa,qa_factoid,hány lába van egy kutyának,lists_remove,0.299,0.2949,False
+13516,hu-HU,qa,qa_factoid,miért nagyok a bálnák,qa_factoid,0.9969,0.9969,True
+13546,hu-HU,qa,qa_factoid,mi volt az utolsó film amiben mészáros béla szerepelt,qa_factoid,0.4623,0.4623,True
+13554,hu-HU,qa,qa_factoid,milyen magas csuja imre,social_post,0.7019,0.1033,False
+13575,hu-HU,qa,qa_factoid,mikor volt az utolsó oscar díjas film,qa_factoid,0.9916,0.9916,True
+13580,hu-HU,qa,qa_factoid,milyen magas a mount everest,qa_factoid,0.9872,0.9872,True
+13591,hu-HU,qa,qa_factoid,mi nyugat virginia fővárosa,email_query,0.2685,0.036,False
+13592,hu-HU,qa,qa_factoid,hol található új zéland a térképen,lists_remove,0.8332,0.0321,False
+13604,hu-HU,qa,qa_factoid,mondd el hol született árvai péter,social_post,0.9814,0.0017,False
+13607,hu-HU,qa,qa_factoid,meg tudnád erősíteni hogy leonardo házas e,qa_factoid,0.9992,0.9992,True
+13616,hu-HU,qa,qa_factoid,hol lóg a legtöbb híresség,qa_factoid,1.0,1.0,True
+13619,hu-HU,recommendation,recommendation_events,vannak ingyenes rendezvények a környékemen ma,recommendation_events,0.3615,0.3615,True
+13625,hu-HU,qa,qa_definition,melyik a legnagyobb íróasztal,cooking_recipe,0.6949,0.0127,False
+13636,hu-HU,qa,qa_factoid,mikor van arnold schwarzenegger születésnapja,qa_factoid,0.5991,0.5991,True
+13679,hu-HU,qa,qa_factoid,meg tudod mondani hány gyomra van egy tehénnek,iot_hue_lightoff,0.6007,0.0791,False
+13681,hu-HU,qa,qa_factoid,hány darabban szerepelt gesztesi károly,qa_factoid,0.9806,0.9806,True
+13683,hu-HU,qa,qa_factoid,gyurcsány ferenc milyen hajlakk márkát használ,qa_factoid,0.9893,0.9893,True
+13689,hu-HU,qa,qa_definition,mi az a szék,qa_factoid,0.9853,0.0032,False
+13690,hu-HU,qa,qa_factoid,milyen színűek a székek,iot_hue_lightoff,0.5982,0.0654,False
+13693,hu-HU,qa,qa_factoid,hol van a főmeridián,social_post,0.9651,0.0235,False
+13705,hu-HU,qa,qa_definition,mi az hogy elektromos kibocsátási rendszer,qa_factoid,0.5708,0.3564,False
+13706,hu-HU,qa,qa_definition,írj le egy forgószárnyat,iot_hue_lightoff,0.6505,0.0113,False
+13714,hu-HU,qa,qa_definition,mi az a mangó,cooking_recipe,0.9961,0.0,False
+13717,hu-HU,qa,qa_factoid,tényleg ellátni oroszországig alaszkából,qa_factoid,0.7584,0.7584,True
+13758,hu-HU,qa,qa_factoid,milyen idős király linda,social_post,0.4975,0.3377,False
+13761,hu-HU,qa,qa_factoid,mi az a parszek,qa_factoid,0.9137,0.9137,True
+13774,hu-HU,qa,qa_factoid,milyen messze van románia grúziától,play_music,0.3748,0.079,False
+13777,hu-HU,qa,qa_definition,le tudnál írni egy hitelkártyát,email_query,0.8926,0.0,False
+13780,hu-HU,qa,qa_factoid,lékai máté házas,cooking_recipe,0.6107,0.2298,False
+13798,hu-HU,qa,qa_factoid,hány négyzetkilométer egy átlagos ország a földön,qa_factoid,0.2358,0.2358,True
+13799,hu-HU,qa,qa_definition,mi az alávetett definíciója,qa_definition,1.0,1.0,True
+13823,hu-HU,qa,qa_factoid,milyen messze van a nap,qa_factoid,0.534,0.534,True
+13853,hu-HU,qa,qa_factoid,hol van a földön a legtöbb vulkán,qa_factoid,0.9982,0.9982,True
+13854,hu-HU,qa,qa_factoid,mikor halt meg elvis,qa_factoid,0.9525,0.9525,True
+13863,hu-HU,qa,qa_definition,mi a logika meghatározása,qa_factoid,0.9103,0.0334,False
+13867,hu-HU,qa,qa_factoid,hol van a népliget,qa_factoid,0.9736,0.9736,True
+13869,hu-HU,qa,qa_factoid,kérlek keresd meg a googlebenan a rushmore hegy helyét és adatait,qa_factoid,0.2901,0.2901,True
+13871,hu-HU,qa,qa_definition,hogyan jellemeznéd a boldog születésnapot,play_music,0.9917,0.0041,False
+13881,hu-HU,qa,qa_factoid,adj nekem információt oláh gergőről,social_post,0.4782,0.0965,False
+13888,hu-HU,qa,qa_factoid,milyen a hőmérséklet budapesten pest megye,weather_query,0.8478,0.0424,False
+13895,hu-HU,qa,qa_factoid,mesélnél nekem wayne gretzkyről,social_post,0.9995,0.0,False
+13900,hu-HU,qa,qa_definition,az élet meghatározása,qa_factoid,0.6829,0.2838,False
+13907,hu-HU,qa,qa_definition,definiáld a megdöbbentet,qa_factoid,1.0,0.0,False
+13908,hu-HU,qa,qa_definition,meg tudod mondani mit jelent az elképedt,qa_definition,0.942,0.942,True
+13926,hu-HU,qa,qa_factoid,mikor van a születésnapja móricz zsigmondnak,datetime_query,0.9192,0.0297,False
+13927,hu-HU,qa,qa_factoid,mennyit ér mészáros béla,social_post,0.7805,0.1771,False
+13974,hu-HU,qa,qa_factoid,hol található laosz,social_post,1.0,0.0,False
+13983,hu-HU,qa,qa_definition,következmények elszenvedése,email_sendemail,1.0,0.0,False
+13984,hu-HU,qa,qa_definition,a cselekvések következményei,cooking_recipe,0.5835,0.0122,False
+13997,hu-HU,qa,qa_factoid,mennyibe kerül egy átlagos ház,qa_factoid,0.398,0.398,True
+14000,hu-HU,qa,qa_definition,jellemezz egy lajhárt,play_music,0.9781,0.0,False
+14001,hu-HU,qa,qa_factoid,mondj el mindent amit tudsz a lajhárokról,qa_factoid,0.532,0.532,True
+14011,hu-HU,qa,qa_factoid,mikor van rúzsa magdi születésnapja,qa_factoid,0.9877,0.9877,True
+14015,hu-HU,qa,qa_factoid,mik az egyenlítő koordinátái,qa_factoid,0.5702,0.5702,True
+14023,hu-HU,qa,qa_definition,jellemezd a poklot,qa_factoid,0.5134,0.0009,False
+14033,hu-HU,qa,qa_factoid,mondd meg mikor született kádár jános,qa_factoid,1.0,1.0,True
+14038,hu-HU,qa,qa_factoid,hol van moldova,qa_factoid,0.1924,0.1924,True
+14040,hu-HU,qa,qa_factoid,milyen magas hulk hogan,qa_factoid,0.952,0.952,True
+14053,hu-HU,qa,qa_factoid,melyik évben kezdett el színészkedni koltay róbert,play_music,0.4634,0.1418,False
+14063,hu-HU,qa,qa_factoid,mi volt kaszás attila születésnapja,datetime_query,0.3598,0.2497,False
+14083,hu-HU,qa,qa_factoid,hol él jelenleg bujtor istván,social_post,0.9701,0.0203,False
+14096,hu-HU,qa,qa_factoid,hol vannak a kárpátok,social_post,0.9984,0.0005,False
+14115,hu-HU,qa,qa_definition,adjon részleteket a sziklás homokról,cooking_recipe,0.4407,0.2496,False
+14116,hu-HU,qa,qa_definition,rja le a sziklahomokot,social_post,0.9982,0.0001,False
+14117,hu-HU,qa,qa_factoid,hol vannak a piramisok,social_post,0.7452,0.2509,False
+14118,hu-HU,qa,qa_factoid,mutasd meg a piramisok földrajzi részleteit,qa_factoid,0.5845,0.5845,True
+14126,hu-HU,qa,qa_factoid,mutasd meg zséda életrajzát,qa_factoid,0.9473,0.9473,True
+14138,hu-HU,qa,qa_definition,kérlek mondd meg mi a henger definíciója,qa_definition,1.0,1.0,True
+14147,hu-HU,qa,qa_definition,definiálja a takarót,qa_definition,0.9827,0.9827,True
+14150,hu-HU,qa,qa_definition,mik azok a tisza cipők,qa_factoid,0.404,0.2753,False
+14151,hu-HU,qa,qa_factoid,melyik napszemüvegek számítanak repülősnek,qa_factoid,0.3955,0.3955,True
+14154,hu-HU,qa,qa_factoid,afrika info,qa_factoid,0.6018,0.6018,True
+14163,hu-HU,qa,qa_factoid,keresd meg a helyet,recommendation_events,0.9906,0.0091,False
+14169,hu-HU,qa,qa_factoid,hova járt amal clooney főiskolára,email_sendemail,0.9932,0.0,False
+14170,hu-HU,qa,qa_factoid,visel e kim kardashian converset,social_post,0.6713,0.0142,False
+14179,hu-HU,qa,qa_factoid,milyen messze van románia a jelenlegi tartózkodási helyemtől,qa_factoid,0.9766,0.9766,True
+14214,hu-HU,transport,transport_query,találd meg az utazás módjait,qa_factoid,0.9508,0.0008,False
+14229,hu-HU,qa,qa_factoid,milyen filmekben játszott gubik petra,qa_factoid,0.8332,0.8332,True
+14243,hu-HU,qa,qa_factoid,részletek erről a személyről,email_query,0.5435,0.3442,False
+14272,hu-HU,qa,qa_definition,hé mi az a könyv,email_query,0.4973,0.0004,False
+14283,hu-HU,qa,qa_factoid,mesélj egerről,play_podcasts,0.5227,0.0205,False
+14306,hu-HU,qa,qa_factoid,magyarázd el románia földrajzi elhelyezkedését,qa_factoid,0.6545,0.6545,True
+14308,hu-HU,qa,qa_factoid,mennyi leonardo dicaprio összvagyona,qa_factoid,0.9742,0.9742,True
+14316,hu-HU,qa,qa_factoid,milyen nagy alaszka,iot_hue_lightoff,0.6847,0.0162,False
+14317,hu-HU,qa,qa_factoid,mekkora az egyesült államok területe,qa_factoid,0.3373,0.3373,True
+14323,hu-HU,qa,qa_factoid,milyen színű a sárkánygyümölcs,iot_hue_lightoff,0.552,0.0262,False
+14330,hu-HU,qa,qa_factoid,mikor született gattyán györgy,qa_factoid,1.0,1.0,True
+14347,hu-HU,qa,qa_definition,mi az a hipotézis,qa_factoid,0.9992,0.0006,False
+14354,hu-HU,qa,qa_factoid,mi a válasz az univerzumra,qa_factoid,0.9572,0.9572,True
+14355,hu-HU,qa,qa_factoid,hány kagylót adott el sally a tengerparton,qa_factoid,1.0,1.0,True
+14370,hu-HU,qa,qa_factoid,mondd meg mi a foglalkozása a celebnek,social_post,0.9271,0.0572,False
+14378,hu-HU,qa,qa_definition,a sebesség ofgalma,qa_factoid,0.9995,0.0004,False
+14382,hu-HU,qa,qa_factoid,milyen magas az empire state building,iot_hue_lightoff,0.9339,0.0018,False
+14395,hu-HU,qa,qa_factoid,mi a föld legmélyebb pontja,qa_factoid,0.5353,0.5353,True
+14414,hu-HU,qa,qa_definition,magyarázd el a számítógép merevlemezt,cooking_recipe,0.3588,0.1394,False
+14417,hu-HU,qa,qa_factoid,melyik óceán érintkezik a kontinensünkkel,qa_factoid,0.5977,0.5977,True
+14419,hu-HU,qa,qa_factoid,ábel anitának új filmje lesz e idén,iot_hue_lightoff,0.4515,0.0882,False
+14429,hu-HU,qa,qa_definition,mi az a kaftán,qa_factoid,0.9999,0.0,False
+14440,hu-HU,qa,qa_factoid,mi mexikó fővárosa,social_post,0.9734,0.0149,False
+14442,hu-HU,qa,qa_factoid,hol vannak a fiji szigetek,social_post,0.9974,0.0006,False
+14444,hu-HU,qa,qa_factoid,mi volt morgan freeman első filmje,iot_hue_lightoff,0.2386,0.1182,False
+14449,hu-HU,qa,qa_factoid,született zsédának új gyermeke,social_post,0.3801,0.1379,False
+14457,hu-HU,qa,qa_factoid,útvonal keresése,recommendation_events,0.8624,0.0067,False
+14465,hu-HU,transport,transport_query,útvonalak a vidámparkba,qa_factoid,0.8323,0.0009,False
+14490,hu-HU,qa,qa_factoid,mikor épült az erkel színház,qa_factoid,0.9991,0.9991,True
+14498,hu-HU,qa,qa_definition,mondd meg nekem az okostelefon jellemzését,qa_factoid,0.671,0.0077,False
+14504,hu-HU,qa,qa_factoid,olly hány találkozót vállalt mahatma gandhi,qa_factoid,0.951,0.951,True
+14505,hu-HU,qa,qa_factoid,ki jelenleg a miniszterelnök oroszországban,qa_factoid,0.9993,0.9993,True
+14508,hu-HU,qa,qa_factoid,foglald össze george r. r. martin tűz és jég dala című könyvét,email_sendemail,0.999,0.0,False
+14509,hu-HU,qa,qa_factoid,hol született mahatma gandhi,social_post,0.9999,0.0001,False
+14539,hu-HU,qa,qa_factoid,találj földrajzi részleteket erről a helyről,qa_factoid,0.8675,0.8675,True
+14545,hu-HU,qa,qa_factoid,mesélj nekem európa helyéről,qa_factoid,0.8809,0.8809,True
+14567,hu-HU,qa,qa_factoid,melyik a föld legnagyobb aktív vulkánja,qa_factoid,0.9804,0.9804,True
+14585,hu-HU,qa,qa_factoid,mennyi idő alatt lehet eljutni magyarországról ausztriába,qa_factoid,0.9643,0.9643,True
+14591,hu-HU,qa,qa_definition,add meg nekem a televíziós körforgás leírását,qa_definition,0.9943,0.9943,True
+14592,hu-HU,qa,qa_definition,add meg nekem egy okostelefon áramkör leírását,iot_hue_lightoff,0.8948,0.0652,False
+14597,hu-HU,qa,qa_factoid,hányan laknak pécsen,social_post,0.9803,0.0047,False
+14601,hu-HU,qa,qa_factoid,hány évig volt abraham lincoln az egyesült államok elnöke,qa_factoid,0.9866,0.9866,True
+14605,hu-HU,qa,qa_factoid,elhagyta-e angelina jolie brad pittet,social_post,0.9581,0.011,False
+14608,hu-HU,qa,qa_factoid,melyik új filmen dolgozik döbrösi laura,cooking_recipe,0.2752,0.1778,False
+14622,hu-HU,qa,qa_definition,jellemezd a gömböt,qa_factoid,0.8318,0.0074,False
+14648,hu-HU,cooking,cooking_recipe,receptet kérlek,cooking_recipe,0.9996,0.9996,True
+14653,hu-HU,qa,qa_factoid,mennyi magyarország népessége,qa_factoid,0.9995,0.9995,True
+14661,hu-HU,qa,qa_factoid,mi kádár jános születési éve,datetime_query,0.9705,0.0013,False
+14668,hu-HU,qa,qa_definition,ismertesd az xy elemet,qa_factoid,0.4124,0.359,False
+14683,hu-HU,qa,qa_factoid,mi gáspár sándor hobbija,social_post,0.9995,0.0,False
+14684,hu-HU,qa,qa_factoid,ki magyarország miniszterelnöke,qa_factoid,0.998,0.998,True
+14690,hu-HU,qa,qa_definition,ok google mi az az elnök,qa_factoid,0.6569,0.0248,False
+14700,hu-HU,qa,qa_definition,pontosan mi az a gyantás fogtömés,qa_factoid,0.5677,0.0194,False
+14701,hu-HU,qa,qa_definition,magyarázd el a hearthstone kártyajátékot,qa_factoid,0.9971,0.0003,False
+14705,hu-HU,qa,qa_factoid,ok google hol lakik gubik petra,social_post,0.9828,0.0002,False
+14706,hu-HU,qa,qa_factoid,hol lakik hernádi judit,social_post,1.0,0.0,False
+14746,hu-HU,qa,qa_factoid,mi kazahsztán fővárosa,qa_factoid,0.4264,0.4264,True
+14761,hu-HU,qa,qa_definition,add meg a pontifikátus szó definícióját,qa_definition,0.9907,0.9907,True
+14767,hu-HU,qa,qa_definition,hogyan írnál le egy labdát,qa_factoid,0.8105,0.0219,False
+14770,hu-HU,qa,qa_factoid,mondd meg nekem melyik a legnagyobb óceán a világon,qa_factoid,0.9998,0.9998,True
+14787,hu-HU,qa,qa_factoid,mi a különbség a római és a gergelynaptár között,qa_factoid,0.4958,0.4958,True
+14791,hu-HU,qa,qa_factoid,mi a szék összetétele,social_post,0.9249,0.0042,False
+14794,hu-HU,qa,qa_factoid,mi elvis kedvenc túrája,social_post,0.9459,0.0,False
+14822,hu-HU,qa,qa_factoid,összehasonlítani emberekben,social_post,0.8664,0.0771,False
+14838,hu-HU,qa,qa_factoid,mi a semleges sűrűségű szűrő és szeretnék egy gradiens vagy egy szilárd szűrőt is amely jobb lenne a stílusban a csavar és a négyzet alakúak között,qa_factoid,0.1568,0.1568,True
+14857,hu-HU,qa,qa_definition,megmagyaráznád a túlzó szó jelentését kérlek,qa_definition,0.9891,0.9891,True
+14877,hu-HU,qa,qa_factoid,mik annak a környéknek az éghajlati körülményei,weather_query,0.9965,0.0004,False
+14879,hu-HU,qa,qa_definition,jelentése,email_sendemail,0.8534,0.004,False
+14884,hu-HU,qa,qa_factoid,mi a legkevésbé tornádóveszélyes állam az egész usában,social_post,0.4846,0.4098,False
+14889,hu-HU,qa,qa_definition,kérlek jellemezd nekem azt a tárgyat,qa_factoid,0.9525,0.0029,False
+14891,hu-HU,qa,qa_factoid,milyen területen jeleskedik az a személy,qa_factoid,0.9913,0.9913,True
+14912,hu-HU,qa,qa_factoid,hol született madison elnök,social_post,0.942,0.0294,False
+14917,hu-HU,qa,qa_factoid,mikor jön ki presser gábor következő albuma,email_sendemail,0.6952,0.0097,False
+14933,hu-HU,qa,qa_factoid,mondd el az információkat magyarország földrajzáról,qa_factoid,0.4546,0.4546,True
+14939,hu-HU,qa,qa_factoid,szükségem van néhány információra bujtor istvánról kérlek segíts,cooking_recipe,0.2352,0.0239,False
+14981,hu-HU,qa,qa_definition,iphone hetes leírása,iot_hue_lightoff,0.8196,0.0069,False
+14994,hu-HU,qa,qa_factoid,mi lesz hujber ferenc következő filmje,iot_hue_lightoff,0.9869,0.0093,False
+14995,hu-HU,qa,qa_definition,mit jelent a helyzet,qa_factoid,0.9959,0.003,False
+15020,hu-HU,qa,qa_factoid,milyen idős clint eastwood,qa_factoid,0.6068,0.6068,True
+15039,hu-HU,qa,qa_factoid,olly hol kezdődik a sziklás-hegység,qa_definition,0.975,0.0201,False
+15055,hu-HU,qa,qa_factoid,az északi vagy a déli sark hidegebb,weather_query,0.9923,0.0001,False
+15056,hu-HU,qa,qa_factoid,hány éves udvaros dorottya legújabb barátja,qa_factoid,0.9813,0.9813,True
+15062,hu-HU,qa,qa_factoid,info lisa annról kérlek,social_post,0.9874,0.0029,False
+15075,hu-HU,qa,qa_factoid,olly hol telepedtek le az első amerikaiak,social_post,0.9878,0.0075,False
+15092,hu-HU,qa,qa_definition,keress nekem leírást egy samsung tévéről,qa_factoid,0.9351,0.0011,False
+15094,hu-HU,qa,qa_factoid,nézd meg a debrecenben magyarországon élők számát,social_post,0.9518,0.0159,False
+15095,hu-HU,qa,qa_factoid,szekszárd melyik régióhoz tartozik,qa_definition,0.6918,0.3025,False
+15127,hu-HU,qa,qa_definition,határozza meg a beszélőt,qa_factoid,0.9966,0.0028,False
+15155,hu-HU,social,social_post,fel tudnád e tölteni a legújabb szelfimet a facebook fiókomba,social_post,0.8296,0.8296,True
+15166,hu-HU,social,social_post,posztold a vállalkozásomat twitterre,social_post,1.0,1.0,True
+15177,hu-HU,social,social_post,kérlek posztold ki újra ezt twitteren,social_post,0.9991,0.9991,True
+15185,hu-HU,social,social_post,születésnapi jókívánságok,recommendation_events,0.2869,0.0082,False
+15186,hu-HU,social,social_post,esküvői kívánságok,email_sendemail,0.777,0.005,False
+15187,hu-HU,social,social_post,oszd meg egy barát posztjában,social_post,0.9997,0.9997,True
+15197,hu-HU,social,social_post,tedd közzé a twitteren a japán látogatásomat,social_post,0.9773,0.9773,True
+15208,hu-HU,social,social_post,posztold szia mindenki a facebookra,social_post,0.9997,0.9997,True
+15213,hu-HU,news,news_query,melyek a legnépszerűbb hírek most,social_post,0.9264,0.0001,False
+15214,hu-HU,news,news_query,mik a mai hírek,qa_factoid,0.9788,0.0,False
+15216,hu-HU,social,social_post,csipogjon nekem valamit,email_sendemail,1.0,0.0,False
+15231,hu-HU,social,social_post,a goai utazásom fotóját tedd közzé az instagramon,social_post,0.9692,0.9692,True
+15271,hu-HU,social,social_post,posztold a facebookra hogy l. o. l.,social_post,1.0,1.0,True
+15275,hu-HU,social,social_post,posztold hogy örülök a facebookon,social_post,1.0,1.0,True
+15276,hu-HU,social,social_post,oszd meg a facebookon állapotfrissítésben hogy élvezem a jó időt,social_post,0.9995,0.9995,True
+15289,hu-HU,social,social_post,posztold az üzenetet most,qa_factoid,0.9874,0.0109,False
+15305,hu-HU,calendar,calendar_query,van valami értesítés a közösségi médiából,social_post,0.9959,0.0001,False
+15318,hu-HU,social,social_post,szeretném mindenkinek megköszönni a születésnapi jókívánságokat,email_sendemail,0.9996,0.0,False
+15337,hu-HU,social,social_post,posztold ki ezt a videót facebookon,social_post,1.0,1.0,True
+15350,hu-HU,social,social_post,elégedetlen vagyok a tescóval segíts nekem,qa_factoid,0.984,0.0089,False
+15358,hu-HU,social,social_post,olly tweetelj applenek hogy az iphone nem működik,qa_factoid,0.8928,0.0017,False
+15359,hu-HU,social,social_post,nyisd meg az applenek tweetet hogy az iphone-om akkumulátora mindig lemerül,iot_hue_lightoff,0.5699,0.0156,False
+15364,hu-HU,social,social_post,tudasd az amazonnal hogy ez az új telefontok egy szemét,qa_factoid,0.9637,0.0015,False
+15382,hu-HU,social,social_post,felvennéd a kapcsolatot a samsunggal hogy ég a mosógépem,qa_factoid,0.621,0.004,False
+15387,hu-HU,social,social_post,posztold ki twitteren az aktuális tartózkodási helyemet,social_post,1.0,1.0,True
+15399,hu-HU,social,social_post,továbbíts egy panaszt a vodafonenak a hálózattal kapcsolatos problémák miatt,social_post,0.6749,0.6749,True
+15401,hu-HU,social,social_post,nyisd meg a twittert küldj üzenetet,qa_factoid,0.8614,0.0154,False
+15402,hu-HU,social,social_post,tweeteld hogy rossz a termék,qa_factoid,0.9978,0.0,False
+15409,hu-HU,social,social_post,nyisd meg a twittert írd be a panaszomat és tedd közzé a fogyasztói szolgálatnál,social_post,0.9931,0.9931,True
+15413,hu-HU,social,social_post,szerezz nekem egy személyt a lehető leghamarabb,social_post,0.4473,0.4473,True
+15444,hu-HU,social,social_post,két hüvelykujj lefelé a cégnévnél,iot_hue_lightoff,1.0,0.0,False
+15448,hu-HU,social,social_post,küldj egy tweetet a sony hangerővel kapcsolatos problémáiról,social_post,0.9939,0.9939,True
+15454,hu-HU,social,social_post,tweet a kukac wizzairnek mérges vagyok amiért elhagytátok a csomagjaimat,social_post,0.9936,0.9936,True
+15456,hu-HU,social,social_post,egy tweetet akarok küldeni a wizzairnek hogy mérges vagyok elvesztettétek a csomagjaimat,email_sendemail,0.9968,0.003,False
+15457,hu-HU,social,social_post,volt egy probléma a hamburgeremmel tudsz tweetelni a burger kingnek,recommendation_events,0.6162,0.0006,False
+15459,hu-HU,social,social_post,küljd egy panaszt twitteren,social_post,0.9992,0.9992,True
+15464,hu-HU,social,social_post,nem kaptam meg időben a terméket küldj egy tweetet az univernek,qa_factoid,0.494,0.4891,False
+15467,hu-HU,social,social_post,mondd meg a telekomnak hogy utálom őket,social_post,0.9978,0.9978,True
+15472,hu-HU,social,social_post,tweetelj egy panaszt az online könyvesboltnak,social_post,0.9389,0.9389,True
+15487,hu-HU,social,social_post,tweetelj a tescónak az üzletük tisztasága miatt,social_post,0.4386,0.4386,True
+15488,hu-HU,social,social_post,kérlek posztolj a twitteren a pizza hut oldalán hogy eddig vártam a rendelésemet elégedetlen vagyok,social_post,0.9995,0.9995,True
+15503,hu-HU,social,social_post,új tweet az ügyfélszolgálatnak,social_post,0.9651,0.9651,True
+15508,hu-HU,social,social_post,siri nyisd meg a twittert és tweetelj a potus suckshoz,social_post,0.9937,0.9937,True
+15518,hu-HU,social,social_post,panasz elküldése tweeten keresztül a j. crewn,social_post,0.7898,0.7898,True
+15532,hu-HU,social,social_post,olly posztolj a twitteren a tesconak és írd meg nekik hogy az ügyfélszolgálatuk szörnyű,social_post,1.0,1.0,True
+15546,hu-HU,social,social_post,tweetelj a hideg pizzáról a don pepenek,qa_factoid,0.6393,0.061,False
+15548,hu-HU,social,social_post,tweetelj mobilpanaszt a samsungnak,qa_factoid,0.9944,0.0002,False
+15553,hu-HU,social,social_post,kérlek válaszolj elutasító tweetre a telekom ügyfélszolgálaton,social_post,0.7163,0.7163,True
+15554,hu-HU,social,social_post,kérlek küldj tweetet a dell ügyfélszolgálatnak a késleltetési szolgáltatásokért,qa_factoid,0.9694,0.0004,False
+15556,hu-HU,social,social_post,tweetelj egy panaszt,iot_hue_lightoff,0.6659,0.0705,False
+15557,hu-HU,social,social_post,posztold twitteren a panaszomat,social_post,0.9953,0.9953,True
+15560,hu-HU,social,social_post,posztold a facebookon éhes vagyok,social_post,1.0,1.0,True
+15565,hu-HU,social,social_post,tudasd a ryanairrel hogy nem utazok megint velük,qa_factoid,0.9911,0.0004,False
+15587,hu-HU,social,social_post,galéria megnyitása poszt kép neve,social_post,1.0,1.0,True
+15592,hu-HU,social,social_post,tweetelj panaszt a telekomnak,qa_factoid,0.9882,0.0002,False
+15593,hu-HU,social,social_post,tweetelj panaszt a telekomnak,qa_factoid,0.9882,0.0002,False
+15598,hu-HU,social,social_post,nyisd meg a cég nevét és keresse meg a panaszokat,cooking_recipe,0.9853,0.0006,False
+15610,hu-HU,social,social_post,írd egy tweetben a következőket az a. b. c. cégben nagyon rossz az utánkövetés nem vagyok elégedett a fiókommal,email_sendemail,0.5472,0.4385,False
+15618,hu-HU,social,social_post,tweetelj a generalinak és mondd meg nekik hogy silányok,qa_factoid,0.9433,0.0248,False
+15626,hu-HU,social,social_post,kérlek tweetelj egy panaszt az alzának a rossz ügyfélszolgálatuk miatt,email_sendemail,0.8123,0.0061,False
+15634,hu-HU,social,social_post,oké google posztold ki a twitteren hogy mekkora egy bunkó a benzinkút tulajdonosa,social_post,0.9999,0.9999,True
+15635,hu-HU,social,social_post,tweetelj a mcdonaldsnak hogy a corvin negyedben szörnyű kiszolgálása van,qa_factoid,0.5738,0.0274,False
+15647,hu-HU,social,social_post,tweetelj egy panaszt a,qa_factoid,0.6426,0.0301,False
+15651,hu-HU,social,social_post,küldj jelentést a vevőszolgálatnak,email_sendemail,0.7384,0.0054,False
+15652,hu-HU,social,social_post,segíts panaszt tenni a fogyasztói ügyfélszolgálathoz,recommendation_events,0.7206,0.0021,False
+15655,hu-HU,social,social_post,tweeteld a google ügyfélszolgálatnak hogy az új nexus telefonom nem működik segítséget kérek,iot_hue_lightoff,0.6806,0.0053,False
+15656,hu-HU,social,social_post,üzenj twitteren az emagnak hogy még mindig várom a rendelésemet,social_post,0.9841,0.9841,True
+15661,hu-HU,social,social_post,posztold ki a legutóbbi twitter bejegyzésemet az n.b.sz. oldalán,social_post,0.9999,0.9999,True
+15670,hu-HU,social,social_post,küldjön panaszos tweetet,social_post,0.9965,0.9965,True
+15672,hu-HU,social,social_post,tweetelj az applenek hogy a múlt héten javításra küldött iphone nem érkezett meg,iot_hue_lightoff,0.7671,0.0083,False
+15676,hu-HU,social,social_post,kérlek add hozzá panaszt a szolgáltatással kapcsolatban az olive garden tweetjében,iot_hue_lightoff,0.622,0.0026,False
+15686,hu-HU,social,social_post,hello a termék amit megvásároltam valakitől tönkrement,recommendation_events,0.9971,0.0,False
+15693,hu-HU,social,social_post,tweeteld hogy egy rovar volt a csokicsomagban,qa_factoid,0.665,0.0003,False
+15700,hu-HU,social,social_post,lejárt termékek a mostani piacon,qa_factoid,0.8023,0.0002,False
+15703,hu-HU,social,social_post,twitter a nagyméretű ruhák boltjának hogy túl gyorsan kifogynak a méretekből,social_post,0.9998,0.9998,True
+15706,hu-HU,social,social_post,tweetelni a,iot_hue_lightoff,0.9346,0.0003,False
+15707,hu-HU,social,social_post,küldjünk egy tweetet,social_post,0.9409,0.9409,True
+15708,hu-HU,social,social_post,küldj panaszt a szolgáltatásról,qa_factoid,0.9117,0.0098,False
+15721,hu-HU,social,social_post,posztolj ki twitteren egy undort kifejező arcot a mcdonald's-ról,social_post,0.9268,0.9268,True
+15723,hu-HU,social,social_post,állítsd be azt az állapotot facebookon hogy boldog vagyok,social_post,0.9999,0.9999,True
+15731,hu-HU,social,social_post,olly tweetelj egy üzenetet a vodafonnak hogy rossz a szolgáltatásom,email_sendemail,0.9996,0.0003,False
+15732,hu-HU,social,social_post,tweetelj a samsungnak és mondd meg nekik hogy hagyják abba az emberek megölését a termékeikkel,recommendation_events,0.5074,0.0218,False
+15736,hu-HU,social,social_post,küldj negatív véleményt egy cégről,qa_factoid,0.9938,0.0021,False
+15756,hu-HU,email,email_sendemail,kérlek írj emailt a csapatomnak,email_sendemail,1.0,1.0,True
+15763,hu-HU,email,email_query,nézd meg az új emaileket,email_sendemail,1.0,0.0,False
+15765,hu-HU,email,email_sendemail,válaszolj jános emailjére,email_sendemail,1.0,1.0,True
+15777,hu-HU,email,email_query,szólj ha vannak új emailjeim,email_sendemail,1.0,0.0,False
+15785,hu-HU,email,email_query,van bármi új a postaládámban,email_sendemail,1.0,0.0,False
+15789,hu-HU,email,email_query,olly kaptam bármilyen új emailt,email_sendemail,1.0,0.0,False
+15792,hu-HU,calendar,calendar_query,kivel lesz megbeszélésem ma,qa_factoid,0.996,0.0,False
+15796,hu-HU,email,email_sendemail,emailezz csillának,email_sendemail,1.0,1.0,True
+15802,hu-HU,email,email_sendemail,válaszolj joci emailjére hogy nem fogok jönni ma este,email_sendemail,1.0,1.0,True
+15809,hu-HU,email,email_query,róbert küldött már emailt,email_sendemail,1.0,0.0,False
+15825,hu-HU,email,email_sendemail,válaszolj apunak írd meg hogy késni fogok,email_sendemail,0.998,0.998,True
+15828,hu-HU,email,email_sendemail,itt egy új email cím amit hozzá kell adni a kontaktokhoz,email_sendemail,1.0,1.0,True
+15829,hu-HU,email,email_sendemail,menj a kapcsolatokhoz és írj be egy új email címet,email_sendemail,1.0,1.0,True
+15839,hu-HU,email,email_query,tárgy,datetime_query,0.6707,0.0142,False
+15841,hu-HU,email,email_sendemail,írj egy új emailt robinak,email_sendemail,1.0,1.0,True
+15845,hu-HU,email,email_sendemail,elküldted az e-mailt,email_sendemail,1.0,1.0,True
+15847,hu-HU,email,email_sendemail,hogyan szerezhetünk hitelt,qa_factoid,0.6171,0.0029,False
+15849,hu-HU,email,email_sendemail,küldj egy emailt a főnökömnek,email_sendemail,1.0,1.0,True
+15857,hu-HU,email,email_sendemail,kérlek küldd el a felsorolt új email címre,email_sendemail,1.0,1.0,True
+15862,hu-HU,email,email_query,keress beérkező emailt anyától,email_sendemail,1.0,0.0,False
+15880,hu-HU,email,email_query,kérlek ellenőrizd az emailjeimet,email_sendemail,1.0,0.0,False
+15890,hu-HU,email,email_query,ellenőrizd hogy van-e új emailem apától,email_sendemail,1.0,0.0,False
+15904,hu-HU,email,email_query,nézd meg az új emailjeim és mondd meg mik vannak azokban benne,email_sendemail,1.0,0.0,False
+15906,hu-HU,email,email_sendemail,válaszolj jánosnak hogy köszönöm,email_sendemail,0.9949,0.9949,True
+15911,hu-HU,email,email_sendemail,írj emailt zsuzsának,email_sendemail,1.0,1.0,True
+15933,hu-HU,email,email_query,milyen új emaileket kaptam,email_sendemail,1.0,0.0,False
+15942,hu-HU,email,email_sendemail,küldd el ezt az emailt válaszként az utolsó emailekre,email_sendemail,1.0,1.0,True
+15950,hu-HU,email,email_sendemail,válaszolj dorogi jános emailjére,email_sendemail,1.0,1.0,True
+15957,hu-HU,email,email_sendemail,írj emailt alíznak hogy úton vagyunk,email_sendemail,1.0,1.0,True
+15963,hu-HU,email,email_query,van e bármilyen új emailem karcsitól,email_sendemail,0.9998,0.0,False
+15966,hu-HU,email,email_query,válaszolj ha nagyon fontos,qa_factoid,0.8357,0.0065,False
+15968,hu-HU,email,email_query,ha ez egy nagyon ismerős helyről jött akkor jelöld fontosnak,social_post,0.7823,0.0032,False
+15970,hu-HU,email,email_query,mi volt a tárgya az utolsó emailnek ami anyutól jött,email_sendemail,1.0,0.0,False
+15971,hu-HU,email,email_query,mi volt az utolsó email a munkahelyemtől,email_sendemail,1.0,0.0,False
+15994,hu-HU,email,email_sendemail,küldj egy emailt jánosnak hogy mikor lenne alkalmas neki a megbeszélés,email_sendemail,1.0,1.0,True
+15995,hu-HU,email,email_sendemail,küldj emailt karennek a költségvetési értekezletről,email_sendemail,1.0,1.0,True
+15998,hu-HU,email,email_query,ellenőrizd hogy milyen nevektől kaptam emailt,email_sendemail,1.0,0.0,False
+16002,hu-HU,email,email_query,nézd meg hogy van e új email,email_sendemail,1.0,0.0,False
+16005,hu-HU,email,email_sendemail,küldj emailt a jozsef kukac gmail pont com címre,email_sendemail,1.0,1.0,True
+16010,hu-HU,email,email_query,mondd meg ha van bármilyen új üzenet a beérkező levelek között,email_sendemail,0.9999,0.0001,False
+16024,hu-HU,email,email_sendemail,küldj egy emailt roxánának hogy holnap nem érek rá,email_sendemail,1.0,1.0,True
+16028,hu-HU,email,email_sendemail,szia siri kezdj egy emailt a munkatársamnak,email_sendemail,1.0,1.0,True
+16029,hu-HU,email,email_sendemail,kérlek írj egy új emailt a munkatársnak,email_sendemail,1.0,1.0,True
+16032,hu-HU,email,email_sendemail,kérlek küldj egy emailt franciskának a holnapi találkozóval kapcsolatban,email_sendemail,1.0,1.0,True
+16038,hu-HU,email,email_query,hé küldött-e jános bármilyen emailt mostanában,email_sendemail,1.0,0.0,False
+16045,hu-HU,email,email_sendemail,küldj mailt izsáknak az irodai nyitvatartásról,email_sendemail,0.9994,0.9994,True
+16048,hu-HU,email,email_query,mutasd meg a friss emaileket,email_sendemail,1.0,0.0,False
+16049,hu-HU,email,email_sendemail,küldeni akarok egy emailt a családomnak segítenél,email_sendemail,1.0,1.0,True
+16050,hu-HU,email,email_query,ellenőrizd a gmailt,email_sendemail,0.9934,0.0021,False
+16052,hu-HU,email,email_query,ellenőrizd az outlookot,iot_hue_lightoff,0.9813,0.0001,False
+16056,hu-HU,email,email_sendemail,válaszolj az emailre,email_sendemail,1.0,1.0,True
+16061,hu-HU,email,email_query,kaptam bármilyen új emailt az utóbbi tíz percben,email_sendemail,1.0,0.0,False
+16072,hu-HU,email,email_sendemail,küldj egy emailt a főnökömnek hogy kések ma mert sürgős dolgom akadt és kérj elnézést amiért kihagyom az értekezletet,email_sendemail,1.0,1.0,True
+16075,hu-HU,email,email_query,mutasd a legújabb emailt jánostól,email_sendemail,1.0,0.0,False
+16082,hu-HU,email,email_sendemail,küldj egy emailt péternek és kérdezd meg tőle hogy hogy van most és tehetek e valamit érte,email_sendemail,1.0,1.0,True
+16089,hu-HU,email,email_query,kaptam új emaileket az elmúlt tíz percben,email_sendemail,1.0,0.0,False
+16096,hu-HU,email,email_query,amália küldött nekem új emailt,email_sendemail,1.0,0.0,False
+16098,hu-HU,email,email_query,nézd meg hogy van e olvasatlan emailem amáliától,email_sendemail,1.0,0.0,False
+16100,hu-HU,email,email_query,kérlek nézd meg az álláshirdetést tartalmazó emailt,email_sendemail,1.0,0.0,False
+16103,hu-HU,email,email_sendemail,küldj egy emailt a bátyámnak hogy házassági évforduló,email_sendemail,1.0,1.0,True
+16120,hu-HU,email,email_sendemail,segítséget csak janenek küldök,email_sendemail,1.0,1.0,True
+16131,hu-HU,email,email_sendemail,ezt az új emailt add hozzá a kontaktomhoz,email_sendemail,1.0,1.0,True
+16145,hu-HU,email,email_query,mutasd meg a legutóbbi emaileket,email_sendemail,1.0,0.0,False
+16146,hu-HU,news,news_query,mondd meg mik az újdonságok,recommendation_events,0.2962,0.0218,False
+16148,hu-HU,email,email_sendemail,gyors válasz jakabnak úgyhogy küldj egy emailt kérlek,email_sendemail,1.0,1.0,True
+16151,hu-HU,email,email_query,ellenőrizd a megbeszélés ütemtervét a mai emailben,email_sendemail,0.9999,0.0001,False
+16162,hu-HU,email,email_sendemail,küldj választ,qa_factoid,0.876,0.119,False
+16163,hu-HU,email,email_query,ki üzent nekem tegnap,email_sendemail,0.813,0.0038,False
+16165,hu-HU,email,email_query,válaszolt sára,qa_factoid,0.9992,0.0,False
+16166,hu-HU,email,email_sendemail,küldj egy választ sárának hogy elfoglalt leszek a projektek miatt a következő három héten,cooking_recipe,0.4242,0.2675,False
+16168,hu-HU,email,email_query,érkezett email az elmúlt negyedórában,email_sendemail,1.0,0.0,False
+16170,hu-HU,email,email_query,nyisd meg a beérkező postafiókomat és ellenőrízd az olvasatlan leveleket,email_sendemail,1.0,0.0,False
+16178,hu-HU,email,email_query,jött ma levél az amazontól,email_sendemail,1.0,0.0,False
+16183,hu-HU,email,email_query,ellenőrízd az emaileket az én munkámmal kapcsolatban,email_sendemail,1.0,0.0,False
+16201,hu-HU,email,email_sendemail,kérlek tölts be egy új emailt brúnónak címezve és küldd el az üzenetet most,email_sendemail,1.0,1.0,True
+16221,hu-HU,email,email_sendemail,tedd be kata email címét és írd azt hogy tudatni fogom vele,email_sendemail,1.0,1.0,True
+16245,hu-HU,email,email_sendemail,küldj emailt a jozsef kukac t-online pont hu email címre,email_sendemail,1.0,1.0,True
+16248,hu-HU,email,email_query,lérlek ellenőrizd a leveleim,email_sendemail,1.0,0.0,False
+16263,hu-HU,email,email_query,kaptam e bármilyen új emailt róberttől,email_sendemail,1.0,0.0,False
+16266,hu-HU,email,email_sendemail,küldj egy emailt a családomnak hogy szeretlek titeket,email_sendemail,1.0,1.0,True
+16271,hu-HU,email,email_query,frissítsd a postafiókomat és értesíts az új emailekről,email_sendemail,1.0,0.0,False
+16275,hu-HU,email,email_query,kezdeményezz lekérdezést az új emailekről,email_sendemail,0.9961,0.0039,False
+16276,hu-HU,email,email_query,van nekem új emailem,email_sendemail,1.0,0.0,False
+16280,hu-HU,email,email_sendemail,kérlek küldj egy emailt rolandnak hogy ki van a család és barát listámon,email_sendemail,1.0,1.0,True
+16282,hu-HU,email,email_sendemail,küldj egy emailt az asszisztensemnek klárának hogy törölje az összes holnapi időpontot,email_sendemail,1.0,1.0,True
+16296,hu-HU,email,email_sendemail,küldj egy emailt anyának hogy lőrinc szülinapi bulija vasárnap lesz,email_sendemail,1.0,1.0,True
+16297,hu-HU,email,email_sendemail,küldj egy emailt lacinak írd meg neki hogy köszönöm,email_sendemail,1.0,1.0,True
+16314,hu-HU,email,email_sendemail,küldj egy emailt margitnak,email_sendemail,1.0,1.0,True
+16317,hu-HU,email,email_query,kaptam új emailt sárától,email_sendemail,1.0,0.0,False
+16318,hu-HU,email,email_sendemail,válaszolj az emailre,email_sendemail,1.0,1.0,True
+16320,hu-HU,email,email_sendemail,akarok válaszolni horvát józsef emailjére,email_sendemail,1.0,1.0,True
+16353,hu-HU,email,email_query,ellenőrizd az emaileket istvántól,email_sendemail,1.0,0.0,False
+16354,hu-HU,email,email_query,ellenőrizd az emaileket a főnökömtől,email_sendemail,1.0,0.0,False
+16356,hu-HU,email,email_query,küldtem emailt tamásnak a fegyverhasználat szabályozásáról,email_sendemail,1.0,0.0,False
+16357,hu-HU,email,email_query,írt-e tamás nekem a lőszerről,qa_factoid,0.9985,0.0,False
+16361,hu-HU,email,email_query,kaptam én bármilyen új emailt az elmúlt egy órában,email_sendemail,1.0,0.0,False
+16373,hu-HU,email,email_query,kaptam bármilyen emailt nyomonkövetési számokkal,email_sendemail,1.0,0.0,False
+16375,hu-HU,email,email_sendemail,írj egy emailt balázsnak,email_sendemail,1.0,1.0,True
+16376,hu-HU,email,email_sendemail,alexa kérlek küldj emailt anyunak,email_sendemail,1.0,1.0,True
+16377,hu-HU,email,email_sendemail,küldj egy emailt anyának most,email_sendemail,1.0,1.0,True
+16384,hu-HU,email,email_query,hé van bármilyen új emailem,email_sendemail,1.0,0.0,False
+16385,hu-HU,email,email_query,kérlek olvasd fel az új emaileket,email_sendemail,1.0,0.0,False
+16398,hu-HU,email,email_sendemail,kérlek küldd el az emailt ferinek,email_sendemail,1.0,1.0,True
+16399,hu-HU,email,email_query,kaptam-e új emailt,email_sendemail,1.0,0.0,False
+16401,hu-HU,email,email_sendemail,írj emailt dórinak szia te mit csinálsz ma,email_sendemail,1.0,1.0,True
+16402,hu-HU,email,email_sendemail,emailezd el dórinak a mai terveket,email_sendemail,1.0,1.0,True
+16406,hu-HU,email,email_sendemail,alexa kezdd el írni az emailt,email_sendemail,1.0,1.0,True
+16410,hu-HU,email,email_sendemail,írj egy emailt,email_sendemail,1.0,1.0,True
+16413,hu-HU,email,email_query,mutass minden emailt amit a főnököm küldött nekem,email_sendemail,1.0,0.0,False
+16419,hu-HU,email,email_sendemail,kérlek küldj emailt jános bácsikának az alábbi tartalommal igen meg tudom csinálni,email_sendemail,1.0,1.0,True
+16427,hu-HU,email,email_query,hány új emailt kaptam ma,email_sendemail,1.0,0.0,False
+16430,hu-HU,email,email_sendemail,kérlek küldj egy emailt anyának és apának kérdezd meg hogy vannak,email_sendemail,1.0,1.0,True
+16437,hu-HU,email,email_sendemail,kérlek kükdd el ezt az emailt a barátomnak,email_sendemail,1.0,1.0,True
+16438,hu-HU,email,email_sendemail,el kell küldjem ezt az emailt most,email_sendemail,1.0,1.0,True
+16446,hu-HU,email,email_query,kérlek ellenőrizd hogy van e mostani emailtanulmány ettől a feladótól,email_sendemail,1.0,0.0,False
+16459,hu-HU,email,email_sendemail,új üzenet írása a newmail kukac gmail pont com címre,email_sendemail,1.0,1.0,True
+16461,hu-HU,email,email_query,vannak-e bármilyen olvasatlan emailjeim,email_sendemail,1.0,0.0,False
+16467,hu-HU,email,email_query,van nekem bármilyen új email az én q. nevű kontaktomtól,email_sendemail,1.0,0.0,False
+16471,hu-HU,email,email_query,ellenőrízd az emaileket jánostól,email_sendemail,1.0,0.0,False
+16496,hu-HU,email,email_sendemail,küldj válasz emailt,email_sendemail,1.0,1.0,True
+16501,hu-HU,email,email_sendemail,kérlek küldj egy emailt a barátomnak divyának hogy vagy,email_sendemail,1.0,1.0,True
+16506,hu-HU,email,email_sendemail,adj hozzá új email címet és küldj emailt,email_sendemail,1.0,1.0,True
+16518,hu-HU,email,email_sendemail,új email simon julinak,email_sendemail,1.0,1.0,True
+16519,hu-HU,email,email_sendemail,elküldted az e-mailt az új ügyfelemnek,email_sendemail,1.0,1.0,True
+16535,hu-HU,email,email_sendemail,írhatsz egy email -t csillának,email_sendemail,1.0,1.0,True
+16559,hu-HU,email,email_sendemail,küldj választ misinek azzal a válasszal amit küldött ma reggel fél ötkor,qa_factoid,0.9975,0.0001,False
+16560,hu-HU,email,email_sendemail,válaszolj emailben a főnökeimnek írd azt hogy este négykor bent leszek,email_sendemail,1.0,1.0,True
+16563,hu-HU,email,email_query,olly ellenőrizd az emailemet,email_sendemail,1.0,0.0,False
+16591,hu-HU,email,email_sendemail,most kaptam egy emailt bélától amire muszáj rögtön válaszolnom,email_sendemail,1.0,1.0,True
+16593,hu-HU,email,email_sendemail,a legutóbbi emailre válaszolni kell minél hamarabb,email_sendemail,1.0,1.0,True
+16603,hu-HU,email,email_query,mit mond az email amit harminc perce küldött anya,email_sendemail,1.0,0.0,False
+16605,hu-HU,email,email_sendemail,írj és küldj emailt a főnökömnek,email_sendemail,1.0,1.0,True
+16609,hu-HU,email,email_query,mondd meg hogy van e nekem bármilyen új olvasatlan emailem,email_sendemail,1.0,0.0,False
+16613,hu-HU,email,email_sendemail,küldj egy emailt a főnöknek mondva hogy késni fogok,email_sendemail,1.0,1.0,True
+16622,hu-HU,email,email_sendemail,küldj egy emailt ennek az ismerősnek,email_sendemail,1.0,1.0,True
+16624,hu-HU,email,email_sendemail,emailt kell küldenem a telekomnak az általam tapasztalt szolgáltatási problémákról,email_sendemail,1.0,1.0,True
+16627,hu-HU,email,email_query,ellenőrízd a legutóbbi emaileket,email_sendemail,1.0,0.0,False
+16630,hu-HU,email,email_sendemail,küldj választ a legutolsó emailre,email_sendemail,1.0,1.0,True
+16642,hu-HU,email,email_query,nézd meg az emailt hogy van-e bármi csengétől,email_sendemail,1.0,0.0,False
+16648,hu-HU,email,email_query,kérlek ellenőrízd azemailjeimet,email_sendemail,1.0,0.0,False
+16652,hu-HU,email,email_query,bence emailjének van csatolmánya,email_sendemail,1.0,0.0,False
+16662,hu-HU,email,email_query,kaptam új emailt danitól,email_sendemail,1.0,0.0,False
+16666,hu-HU,email,email_query,vannak nekem bármilyen beérkező emailjeim,email_sendemail,1.0,0.0,False
+16668,hu-HU,email,email_query,érkezett bármilyen email tizennégy óra óta ma,email_sendemail,1.0,0.0,False
+16669,hu-HU,email,email_query,kaptam emailt páltól,email_sendemail,1.0,0.0,False
+16672,hu-HU,email,email_query,bence keresett már,social_post,0.7657,0.0,False
+16677,hu-HU,email,email_query,van nekem bármilyen új emailem az én postafiókomban ma,email_sendemail,1.0,0.0,False
+16698,hu-HU,email,email_sendemail,írj egy választ az anyám emailjére,email_sendemail,1.0,1.0,True
+16701,hu-HU,email,email_sendemail,szeretnék válaszolni sára emailjére,email_sendemail,1.0,1.0,True
+16703,hu-HU,email,email_sendemail,szeretnék válaszolni a legújabb emailre,email_sendemail,1.0,1.0,True
+16712,hu-HU,email,email_query,van bármilyen új emailem,email_sendemail,1.0,0.0,False
+16713,hu-HU,email,email_query,kérlek ellenőrizd az emailjeimet és szólj ha van bármennyi új email,email_sendemail,1.0,0.0,False
+16717,hu-HU,email,email_sendemail,tudnál kérlek küldeni egy emailt janinak hogy szabadságon vagyok,email_sendemail,1.0,1.0,True
+16719,hu-HU,email,email_query,tájékoztass bármilyen új emailről amit kaptam,email_sendemail,1.0,0.0,False
+16729,hu-HU,email,email_sendemail,válaszolj a robitól kapott emailemre és tudasd vele hogy holnap találkozunk,email_sendemail,1.0,1.0,True
+16730,hu-HU,email,email_query,kérlek nézd meg az új emailt banditól,email_sendemail,1.0,0.0,False
+16733,hu-HU,email,email_query,mutasd meg a legutóbbi emaileket az amazontól,email_sendemail,1.0,0.0,False
+16749,hu-HU,email,email_query,kaptam bármilyen új emailt ma,email_sendemail,1.0,0.0,False
+16754,hu-HU,email,email_sendemail,diktálj emailt,email_sendemail,1.0,1.0,True
+16758,hu-HU,email,email_query,újabb emailek,email_sendemail,1.0,0.0,False
+16763,hu-HU,email,email_query,emailek az utóbbi tíz percben,email_sendemail,1.0,0.0,False
+16765,hu-HU,email,email_query,mi az interjú ideje a tegnapi emailből,email_sendemail,0.9893,0.0107,False
+16766,hu-HU,email,email_query,ellenőrizd az új emaileket,email_sendemail,1.0,0.0,False
+16772,hu-HU,email,email_query,mutasd meg az összes ehhez kapcsolódó emailt,email_sendemail,0.9995,0.0005,False
+16780,hu-HU,email,email_sendemail,küldj egy emailt a peterjanos kukac gmail pont com email címre,email_sendemail,1.0,1.0,True
+16791,hu-HU,email,email_sendemail,írj egy új emailt de most egy új emailt címet adok meg barnabas kukac hotmail pont com,email_sendemail,1.0,1.0,True
+16799,hu-HU,email,email_query,kaptam én bármilyen emailt dél óta,email_sendemail,1.0,0.0,False
+16801,hu-HU,email,email_query,küldött e magdi bármilyen emailt tamásról,email_sendemail,1.0,0.0,False
+16813,hu-HU,email,email_query,jelezz amikor emailt kapok jánostól,email_sendemail,1.0,0.0,False
+16814,hu-HU,email,email_query,nézd meg az emaileket,email_sendemail,1.0,0.0,False
+16838,hu-HU,email,email_sendemail,el tudnád küldeni az emailt az új email azonosítóra,email_sendemail,1.0,1.0,True
+16851,hu-HU,email,email_query,email értesítések,email_sendemail,1.0,0.0,False
+16859,hu-HU,email,email_query,mit mondtam zsuzsának az utolsó emailemben,email_sendemail,1.0,0.0,False
+16872,hu-HU,email,email_sendemail,keresd meg natit a kontaktjaim között és küldj neki egy emailt,email_sendemail,1.0,1.0,True
+16873,hu-HU,email,email_sendemail,küldj emailt natinak a szülinapjára,email_sendemail,1.0,1.0,True
+16880,hu-HU,email,email_sendemail,emailezz janinak a találkozóval kapcsolatosan,email_sendemail,1.0,1.0,True
+16883,hu-HU,email,email_sendemail,küldj egy emailt zalánnak hogy este mikor lesz otthon,email_sendemail,1.0,1.0,True
+16886,hu-HU,email,email_sendemail,válaszolj erre a mailre,email_sendemail,1.0,1.0,True
+16888,hu-HU,email,email_query,mi van az új maillel,email_sendemail,1.0,0.0,False
+16890,hu-HU,email,email_query,mi van az új emailben,email_sendemail,1.0,0.0,False
+16891,hu-HU,email,email_sendemail,küldj szabó jánosnak emailt,email_sendemail,1.0,1.0,True
+16892,hu-HU,email,email_sendemail,kezdjük és írj emailt szabó jánosnak,email_sendemail,1.0,1.0,True
+16899,hu-HU,email,email_query,kaptam bármilyen emailt kis jakabtól,email_sendemail,1.0,0.0,False
+16914,hu-HU,email,email_query,vannak e emailjeim ettől a feladótól,email_sendemail,1.0,0.0,False
+16916,hu-HU,email,email_sendemail,szia válaszolj az emailre amit kaptam,email_sendemail,1.0,1.0,True
+16924,hu-HU,email,email_query,kérlek ellenőrizd a gmailemet hogy van e új mail,email_sendemail,1.0,0.0,False
+16930,hu-HU,email,email_query,mutasd meg a legutolsó emailt,email_sendemail,0.9999,0.0001,False
+16938,hu-HU,email,email_sendemail,válaszolj jános emailjére,email_sendemail,1.0,1.0,True
+16944,hu-HU,email,email_sendemail,küldj emailt a nagymamának hogy beugrunk szombaton akkor találkozunk,email_sendemail,1.0,1.0,True
+16947,hu-HU,email,email_sendemail,válaszolj az emailre,email_sendemail,1.0,1.0,True
+16955,hu-HU,email,email_sendemail,emailezz az új ismerősnek,email_sendemail,1.0,1.0,True
+16956,hu-HU,email,email_sendemail,küldj egy emailt az új kontaktnak,email_sendemail,1.0,1.0,True
+16961,hu-HU,email,email_sendemail,válaszolj,qa_factoid,0.9941,0.0,False
+16974,hu-HU,email,email_query,kérlek ellenőrizd az összes új emailt a navtól,email_sendemail,1.0,0.0,False
+16987,hu-HU,email,email_query,bármilyen új email jánostól,email_sendemail,1.0,0.0,False
+16989,hu-HU,email,email_sendemail,kérlek mondd az emailre amit györgy küldött hogy szükségem van most a pénzre sürgős,email_sendemail,1.0,1.0,True
+16992,hu-HU,email,email_query,szabó katalin küldött emailt,email_sendemail,1.0,0.0,False
+16995,hu-HU,email,email_sendemail,küldj emailt tímeának,email_sendemail,1.0,1.0,True
+17005,hu-HU,email,email_query,kérlek ellenőrizd hogy van e új email,email_sendemail,1.0,0.0,False
+17011,hu-HU,email,email_sendemail,el tudnál küldeni egy emailt nekem,email_sendemail,1.0,1.0,True
+17015,hu-HU,email,email_sendemail,kezdj írni választ,qa_factoid,0.9893,0.0101,False
+17019,hu-HU,email,email_sendemail,írj egy választ az utolsó emailre,email_sendemail,0.9995,0.9995,True
+17020,hu-HU,email,email_sendemail,válaszolj a legutóbb érkezett emailre,email_sendemail,1.0,1.0,True
+17023,hu-HU,email,email_sendemail,emailezz anyának és kérdezd meg milyen ott az idő,email_sendemail,1.0,1.0,True
+17042,hu-HU,email,email_sendemail,írj egy emailt a john kukac gmail pont comra,email_sendemail,1.0,1.0,True
+17043,hu-HU,email,email_sendemail,küldj emailt a tim kukac hotmail pont comra,email_sendemail,1.0,1.0,True
+17051,hu-HU,email,email_query,kaptam új emailt,email_sendemail,1.0,0.0,False
+17052,hu-HU,email,email_query,keresd meg szandit,cooking_recipe,0.9958,0.0,False
+17069,hu-HU,email,email_query,van bármennyi új email az outlookon,email_sendemail,1.0,0.0,False
+17075,hu-HU,email,email_query,kaptam valamilyen emailt ma délután négy után,email_sendemail,1.0,0.0,False
+17081,hu-HU,email,email_sendemail,írj emailt a céges alkalmazottamnak a mostanában mentett dokumentumokkal,email_sendemail,1.0,1.0,True
+17087,hu-HU,email,email_query,ellenőrizd hogy kaptam-e új emailt sárától,email_sendemail,1.0,0.0,False
+17098,hu-HU,email,email_query,mutass bármilyen emailt amit az utóbbi órában kaptam,email_sendemail,1.0,0.0,False
+17107,hu-HU,email,email_query,ellenőrizd az új emaileket,email_sendemail,1.0,0.0,False
+17108,hu-HU,email,email_query,add a legutóbbi emailem,email_sendemail,1.0,0.0,False
+17113,hu-HU,email,email_sendemail,írj emailt júliának,email_sendemail,1.0,1.0,True
+17115,hu-HU,email,email_query,olvasd fel az új emailek listáját,email_sendemail,1.0,0.0,False
+17116,hu-HU,email,email_query,jelenítsd meg a legújabb emaileket,email_sendemail,1.0,0.0,False
+17119,hu-HU,email,email_query,ellenőrizz minden levelet az amazontól,email_sendemail,1.0,0.0,False
+17123,hu-HU,email,email_sendemail,küldd el a formanyomtatványt emailben a regionális igazgatónak,email_sendemail,1.0,1.0,True
+17135,hu-HU,email,email_query,bármilyen villám hír email,email_sendemail,1.0,0.0,False
+17136,hu-HU,email,email_query,kérlek olvasd el az új emailjeim,email_sendemail,1.0,0.0,False
+17138,hu-HU,email,email_query,kérlek archiváld az olvasott üzeneteimet,email_sendemail,1.0,0.0,False
+17142,hu-HU,email,email_query,mi van a beérkező levelek között miuóta utoljára néztük,social_post,0.5034,0.1239,False
+17143,hu-HU,email,email_sendemail,szia küldj emailt jánosnak,email_sendemail,1.0,1.0,True
+17144,hu-HU,email,email_query,hali ellenőrizd az emailt,email_sendemail,1.0,0.0,False
+17147,hu-HU,email,email_sendemail,válaszolj az emailre írd azt hogy hello te,email_sendemail,1.0,1.0,True
+17148,hu-HU,email,email_sendemail,alexa válaszolj az emailre a következő tartalommal szia,email_sendemail,1.0,1.0,True
+17151,hu-HU,email,email_sendemail,a barátom jános küldött nekem egy meghívót az újonnan vásárolt otthonához mondd a levelében neki hogy köszönöm,social_post,0.9411,0.0106,False
+17156,hu-HU,email,email_query,ellenőrizd az emailjeimet hogy jött e bármilyen új email jocitól,email_sendemail,1.0,0.0,False
+17157,hu-HU,email,email_query,van bármi új emailem józsitól,email_sendemail,1.0,0.0,False
+17170,hu-HU,email,email_query,jelezd amikor józsué emailt küld,email_sendemail,1.0,0.0,False
+17179,hu-HU,email,email_query,küldött e jános egy emailt nekem,email_sendemail,1.0,0.0,False

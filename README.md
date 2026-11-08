@@ -39,6 +39,8 @@ from src.model import load_model       # laya agent: agent.predict(state, questi
 Each pair keeps its own notebooks, scripts and figures inside its own folder.
 The `ai_interaction_record.md` file sits in the folder of whichever pair is AI-aided in that phase.
 
+Model outputs for all 52 languages (20 most common intents, without general_quirky) are already in `data/processed/` (`predictions.csv`, `intents.txt`), so you don't need to rerun the model. They were made with `src/run_all.py` (~2.5 h on CPU).
+
 ## Links
 - Dataset: https://huggingface.co/datasets/AmazonScience/massive
 - Paper: https://arxiv.org/abs/2204.08582

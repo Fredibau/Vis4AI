@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,ru-RU,iot,iot_hue_lightoff,olly выключи свет в спальне,iot_hue_lightoff,0.9953,0.9953,True
+47,ru-RU,datetime,datetime_query,сколько времени в австралии,weather_query,0.6156,0.0339,False
+85,ru-RU,datetime,datetime_query,скажи мне сегодняшнее число,datetime_query,0.9944,0.9944,True
+86,ru-RU,datetime,datetime_query,какая сегодня дата,datetime_query,0.9974,0.9974,True
+100,ru-RU,weather,weather_query,какой прогноз на эту неделю,news_query,0.3935,0.0258,False
+102,ru-RU,weather,weather_query,какая будет погода на этой неделе,weather_query,0.9991,0.9991,True
+103,ru-RU,weather,weather_query,расскажи о погоде на эту неделю,weather_query,0.9973,0.9973,True
+128,ru-RU,datetime,datetime_query,какая дата сегодня,datetime_query,0.9985,0.9985,True
+151,ru-RU,play,play_music,послушать снова,play_podcasts,0.5616,0.3897,False
+177,ru-RU,news,news_query,расскажи мне деловые новости,news_query,0.9996,0.9996,True
+178,ru-RU,news,news_query,расскажи мне международные новости,news_query,0.9995,0.9995,True
+182,ru-RU,play,play_music,включи мой рок плейлист,play_music,0.9997,0.9997,True
+185,ru-RU,play,play_music,включи мой плейлист и воспроизведи третью песню в очереди,play_music,0.9973,0.9973,True
+197,ru-RU,datetime,datetime_query,какое время,datetime_query,0.7077,0.7077,True
+216,ru-RU,weather,weather_query,как там погода сегодня,weather_query,0.9973,0.9973,True
+219,ru-RU,weather,weather_query,мне взять зонт завтра,iot_hue_lightoff,0.4233,0.0065,False
+220,ru-RU,play,play_music,включи музыку из моего рок листа,play_music,1.0,1.0,True
+250,ru-RU,play,play_music,хочу послушать джаз включи,play_music,0.9998,0.9998,True
+254,ru-RU,play,play_music,olly включи хороший трек моего избранного джазового исполнителя,play_music,1.0,1.0,True
+279,ru-RU,weather,weather_query,какой прогноз сегодня для москвы,weather_query,0.3878,0.3878,True
+281,ru-RU,news,news_query,какой курс обмена американского доллара к фунту стерлингов,qa_factoid,0.156,0.0431,False
+296,ru-RU,play,play_music,включи инстасамка плейлист,iot_hue_lightoff,0.6158,0.0095,False
+297,ru-RU,play,play_music,включи песни сплин в случайном порядке,play_music,1.0,1.0,True
+299,ru-RU,weather,weather_query,какая погода,weather_query,0.9991,0.9991,True
+310,ru-RU,datetime,datetime_query,какой день новогодняя ночь в этом году,weather_query,0.9953,0.0025,False
+319,ru-RU,weather,weather_query,расскажи о погоде в кинешме через два дня,weather_query,0.9989,0.9989,True
+329,ru-RU,play,play_music,ягода малинка,email_sendemail,0.9735,0.0006,False
+333,ru-RU,weather,weather_query,какая погода в кирове,weather_query,0.9993,0.9993,True
+334,ru-RU,weather,weather_query,хочу узнать про погоду в сочи,weather_query,0.9995,0.9995,True
+344,ru-RU,weather,weather_query,завтра будет дождь,weather_query,0.9997,0.9997,True
+348,ru-RU,weather,weather_query,завтра будет дождь,weather_query,0.9997,0.9997,True
+355,ru-RU,datetime,datetime_query,первое апреля выпадает на какой день недели,datetime_query,0.8482,0.8482,True
+360,ru-RU,datetime,datetime_query,какое текущее время,weather_query,0.993,0.0035,False
+362,ru-RU,play,play_music,включи вторую песню из песен нилетто,play_music,1.0,1.0,True
+366,ru-RU,news,news_query,расскажи мне последние новости,news_query,0.9999,0.9999,True
+369,ru-RU,iot,iot_hue_lightoff,выключи свет,iot_hue_lightoff,0.9814,0.9814,True
+385,ru-RU,news,news_query,какие сенсации в российской газете,qa_factoid,0.9996,0.0001,False
+391,ru-RU,play,play_music,воспроизведи случайную песню из моего плейлиста,play_music,0.9998,0.9998,True
+393,ru-RU,play,play_music,включи ретро песни в моем плейлисте,play_music,0.9461,0.9461,True
+397,ru-RU,play,play_music,играй любую песню игоря николаева,play_music,1.0,1.0,True
+400,ru-RU,play,play_music,включи музыку,play_music,1.0,1.0,True
+407,ru-RU,play,play_music,можешь играть рок следующий час,play_music,0.9994,0.9994,True
+424,ru-RU,news,news_query,какие последние новости,news_query,0.9998,0.9998,True
+427,ru-RU,iot,iot_hue_lightoff,выключи свет в ванной,iot_hue_lightoff,0.9871,0.9871,True
+428,ru-RU,iot,iot_hue_lightoff,выключи свет в ванной,iot_hue_lightoff,0.9871,0.9871,True
+430,ru-RU,weather,weather_query,какая там погода сейчас,weather_query,0.9985,0.9985,True
+437,ru-RU,play,play_music,открой папку космонавтов нет,qa_factoid,0.9853,0.0004,False
+441,ru-RU,news,news_query,какие последние заголовки в новостях,news_query,0.9995,0.9995,True
+442,ru-RU,news,news_query,что происходит в новостях,news_query,1.0,1.0,True
+451,ru-RU,news,news_query,покажи мне последнюю цену акций costco,recommendation_events,0.2492,0.0131,False
+473,ru-RU,play,play_music,включи мало половин,iot_hue_lightoff,0.9966,0.001,False
+486,ru-RU,datetime,datetime_query,который час в санкт петербурге,weather_query,0.9879,0.0098,False
+491,ru-RU,weather,weather_query,на улице холодно,weather_query,0.998,0.998,True
+506,ru-RU,play,play_music,включи песни короля и шута,play_music,1.0,1.0,True
+512,ru-RU,weather,weather_query,получить оценки,email_sendemail,1.0,0.0,False
+540,ru-RU,play,play_music,включи песню группа крови виктора цоя,play_music,1.0,1.0,True
+555,ru-RU,play,play_music,включи дабро что-нибудь,iot_hue_lightoff,0.996,0.0006,False
+576,ru-RU,play,play_music,проиграй все из плейлиста,play_music,0.9989,0.9989,True
+585,ru-RU,news,news_query,покажи последние новости,news_query,0.9996,0.9996,True
+588,ru-RU,news,news_query,что нового в новостях сегодня,news_query,0.9999,0.9999,True
+590,ru-RU,weather,weather_query,какая погода сейчас,weather_query,0.9988,0.9988,True
+614,ru-RU,play,play_music,включи плейлист,play_music,0.8941,0.8941,True
+625,ru-RU,play,play_music,пожалуйста воспроизведи король и шут песню,play_music,1.0,1.0,True
+631,ru-RU,news,news_query,поставь уведомление на новости о трубопроводе северный поток,news_query,0.9488,0.9488,True
+651,ru-RU,iot,iot_hue_lightoff,выключи свет в комнате,iot_hue_lightoff,0.9919,0.9919,True
+660,ru-RU,datetime,datetime_query,текущее время в японии,weather_query,0.9167,0.0669,False
+680,ru-RU,news,news_query,информируй меня о том какая цена биткоина,qa_factoid,0.9957,0.0,False
+686,ru-RU,datetime,datetime_query,сколько сейчас времени в новом уренгое,weather_query,0.9618,0.0076,False
+712,ru-RU,news,news_query,я хочу услышать последние новости медузы,news_query,0.9996,0.9996,True
+726,ru-RU,weather,weather_query,подытожь прогноз погоды за неделю,weather_query,0.5011,0.5011,True
+730,ru-RU,iot,iot_hue_lightoff,выключи свет,iot_hue_lightoff,0.9814,0.9814,True
+738,ru-RU,weather,weather_query,насколько холодно там сегодня на улице,weather_query,0.9991,0.9991,True
+764,ru-RU,weather,weather_query,какой прогноз погоды на эту неделю,weather_query,0.9947,0.9947,True
+765,ru-RU,news,news_query,можешь ли ты дать мне последние заголовки новостей от моего новейшего провайдера,news_query,0.9659,0.9659,True
+767,ru-RU,news,news_query,не могли бы вы найти мне новости из моего обычного источника,news_query,0.9999,0.9999,True
+768,ru-RU,news,news_query,расскажи последние политические новости,news_query,0.9972,0.9972,True
+779,ru-RU,play,play_music,хочу послушать прыгну со скалы король и шут,play_music,0.9948,0.9948,True
+781,ru-RU,play,play_music,воспроизведи выхода нет,qa_factoid,0.9651,0.0009,False
+782,ru-RU,play,play_music,играй покинула чат клавы коки,play_music,0.9912,0.9912,True
+783,ru-RU,play,play_music,включи покинула чат,iot_hue_lightoff,0.999,0.0,False
+790,ru-RU,weather,weather_query,тёплая или холодная погода,weather_query,0.9965,0.9965,True
+826,ru-RU,weather,weather_query,какая температура сейчас на улице,weather_query,0.9986,0.9986,True
+827,ru-RU,play,play_music,играй плейлист клавы коки,play_music,0.9773,0.9773,True
+832,ru-RU,weather,weather_query,эй какую погоду обещают на завтра,weather_query,0.9996,0.9996,True
+837,ru-RU,news,news_query,что предсказывают опросы рбк о грядущих выборах в россии,qa_factoid,0.3928,0.11,False
+891,ru-RU,play,play_music,включи немного христианской музыки,play_music,0.9999,0.9999,True
+914,ru-RU,iot,iot_hue_lightoff,пожалуйста выключи свет,iot_hue_lightoff,0.9899,0.9899,True
+936,ru-RU,play,play_music,открой и включи музыку из моего плейлиста для бега,play_music,1.0,1.0,True
+951,ru-RU,weather,weather_query,какая сейчас погода в москве,weather_query,0.9988,0.9988,True
+969,ru-RU,news,news_query,новые статьи на определенную тему,news_query,0.9999,0.9999,True
+974,ru-RU,datetime,datetime_query,какое время сейчас в санкт-петербурге,weather_query,0.998,0.0003,False
+997,ru-RU,iot,iot_hue_lightoff,выключи свет в гостиной,iot_hue_lightoff,0.9948,0.9948,True
+999,ru-RU,iot,iot_hue_lightoff,ты можешь выключить свет,iot_hue_lightoff,0.5989,0.5989,True
+1007,ru-RU,play,play_music,включи сплин из моего рок плейлиста,play_music,0.9986,0.9986,True
+1014,ru-RU,datetime,datetime_query,сколько сейчас времени в мурманске,weather_query,0.9987,0.0001,False
+1047,ru-RU,play,play_music,мне нужно выплакаться можешь сыграть мне грустные рок песни,play_music,1.0,1.0,True
+1061,ru-RU,news,news_query,сообщи мне новости спорта,news_query,0.998,0.998,True
+1063,ru-RU,news,news_query,включи ежечасные уведомления о спортивных новостях,iot_hue_lightoff,0.3556,0.1452,False
+1084,ru-RU,news,news_query,дружественный интрефейс,cooking_recipe,0.3801,0.0081,False
+1093,ru-RU,news,news_query,перейди на веб-сайт правда,qa_factoid,1.0,0.0,False
+1098,ru-RU,datetime,datetime_query,на какой день недели приходится пятнадцатое марта,datetime_query,0.9643,0.9643,True
+1108,ru-RU,play,play_music,моё желание послушать какую-нибудь классическую музыку,play_music,1.0,1.0,True
+1115,ru-RU,play,play_music,сгруппируй все жанры поп песен,lists_remove,0.9275,0.02,False
+1120,ru-RU,news,news_query,есть ли что-то особенное в политике,qa_factoid,0.6055,0.002,False
+1121,ru-RU,play,play_music,включи покинула чат клавы коки,iot_hue_lightoff,1.0,0.0,False
+1123,ru-RU,play,play_music,следующей включи ягода малинка хабиба,qa_factoid,0.998,0.0,False
+1124,ru-RU,play,play_music,подготовь сплин выхода нет чтобы заиграла следующей,play_music,0.9681,0.9681,True
+1127,ru-RU,play,play_music,играй все песни в случайном порядке,play_music,0.9998,0.9998,True
+1144,ru-RU,play,play_music,мне нужен рэп,play_music,0.9994,0.9994,True
+1148,ru-RU,datetime,datetime_query,какое время сейчас в южно-сахалинске,weather_query,0.9981,0.0002,False
+1156,ru-RU,news,news_query,последние новости в международный женский день,news_query,0.9993,0.9993,True
+1160,ru-RU,weather,weather_query,станет холоднее с каждой ночью на этой неделе,weather_query,0.9929,0.9929,True
+1180,ru-RU,news,news_query,найди сегодняшние статьи о путине на лента ру,news_query,0.8477,0.8477,True
+1202,ru-RU,datetime,datetime_query,текущее время в санкт-петербурге,weather_query,0.9928,0.0028,False
+1238,ru-RU,play,play_music,pandora,qa_factoid,0.1403,0.0391,False
+1249,ru-RU,weather,weather_query,какой может быть погода на этой неделе,weather_query,0.9987,0.9987,True
+1252,ru-RU,datetime,datetime_query,скажи мне текущее время,weather_query,0.9942,0.0037,False
+1294,ru-RU,news,news_query,расскажи мне быстро о наградах академии,recommendation_events,0.9862,0.0014,False
+1301,ru-RU,news,news_query,расскажи о новой внешней политике путина,social_post,0.9202,0.0011,False
+1308,ru-RU,weather,weather_query,получить сегодняшний прогноз погоды можно здесь,weather_query,0.9956,0.9956,True
+1318,ru-RU,play,play_music,открой музыкальное приложение и играй для меня песню,play_music,1.0,1.0,True
+1351,ru-RU,weather,weather_query,на этой неделе на улице будет хорошо,weather_query,0.9961,0.9961,True
+1371,ru-RU,news,news_query,что у нас на первой странице комсомольской правды,social_post,0.4614,0.1219,False
+1377,ru-RU,iot,iot_hue_lightoff,пожалуйста выключи свет в комнате моего сына,iot_hue_lightoff,0.9993,0.9993,True
+1400,ru-RU,weather,weather_query,я чаще всего обращаю внимание,qa_factoid,0.9887,0.0001,False
+1401,ru-RU,weather,weather_query,я иногда обращаю внимание,iot_hue_lightoff,0.8189,0.005,False
+1404,ru-RU,weather,weather_query,дай мне погоду на завтра здесь в твери,weather_query,0.9991,0.9991,True
+1423,ru-RU,news,news_query,расскажи мне про трампа,qa_definition,0.996,0.0001,False
+1425,ru-RU,news,news_query,дай знать когда услышишь о франции,datetime_query,0.3488,0.0223,False
+1440,ru-RU,play,play_music,включи самые последние рок песни с рейтингом четыре или выше,play_music,0.9951,0.9951,True
+1449,ru-RU,datetime,datetime_query,когда пасха в две тысячи восемнадцатом,datetime_query,0.4735,0.4735,True
+1458,ru-RU,weather,weather_query,в кирове сильная жара,qa_factoid,0.9994,0.0002,False
+1467,ru-RU,play,play_music,включи клава кока,iot_hue_lightoff,0.9988,0.0007,False
+1474,ru-RU,news,news_query,сегодняшние спортивные новости,news_query,0.9993,0.9993,True
+1489,ru-RU,play,play_music,включи новые песни земфиры,play_music,1.0,1.0,True
+1513,ru-RU,weather,weather_query,сколько градусов на улице,weather_query,0.9984,0.9984,True
+1533,ru-RU,news,news_query,какие новости произошли сегодня на первом канале,news_query,0.9998,0.9998,True
+1537,ru-RU,datetime,datetime_query,покажи текущее время в германии,weather_query,0.9988,0.0001,False
+1542,ru-RU,weather,weather_query,солнце светит ярко будет погода такой же до конца дня,weather_query,0.9937,0.9937,True
+1546,ru-RU,play,play_music,включи мой плейлист для летних вечеринок,play_podcasts,0.8209,0.0252,False
+1547,ru-RU,weather,weather_query,какая погода на этой неделе у нас,weather_query,0.9992,0.9992,True
+1549,ru-RU,weather,weather_query,на этой неделе пойдет дождь,weather_query,0.9992,0.9992,True
+1554,ru-RU,iot,iot_hue_lightoff,выключи лампы,iot_hue_lightoff,0.9718,0.9718,True
+1581,ru-RU,datetime,datetime_query,каков текущий день месяц год,email_sendemail,0.9898,0.003,False
+1589,ru-RU,weather,weather_query,в следующий вторник будет солнечно,weather_query,0.9975,0.9975,True
+1593,ru-RU,news,news_query,установи уведомление от мировых новостей,email_sendemail,0.998,0.0017,False
+1594,ru-RU,news,news_query,можешь рассказать мне последние новости,news_query,0.9999,0.9999,True
+1607,ru-RU,datetime,datetime_query,скажи мне текущее время в краснодаре,weather_query,0.9981,0.0004,False
+1617,ru-RU,news,news_query,когда появится новая политическая тема предупреди,social_post,0.9998,0.0,False
+1636,ru-RU,news,news_query,покажи мне последние новости из ведомостей,news_query,0.9997,0.9997,True
+1653,ru-RU,weather,weather_query,когда пойдет дождь в следующий раз,datetime_query,0.5871,0.4102,False
+1655,ru-RU,weather,weather_query,завтра в полдень будет снег,weather_query,0.9989,0.9989,True
+1666,ru-RU,news,news_query,новости за последние шесть часов от лента ру,news_query,0.9998,0.9998,True
+1671,ru-RU,play,play_music,включи всю музыку выпущенную только с тысяча девятьсот девяностого по две тысячи,play_music,1.0,1.0,True
+1683,ru-RU,weather,weather_query,так или иначе но завтра будет жарко,weather_query,0.9985,0.9985,True
+1684,ru-RU,weather,weather_query,да или нет завтрашняя температура будет жаркой,weather_query,0.9995,0.9995,True
+1692,ru-RU,play,play_music,найди легкий джаз,cooking_recipe,0.8598,0.0074,False
+1722,ru-RU,weather,weather_query,какая минимальная температура в люберцах,weather_query,0.4769,0.4769,True
+1750,ru-RU,iot,iot_hue_lightoff,выключи весь свет,iot_hue_lightoff,0.9633,0.9633,True
+1759,ru-RU,news,news_query,дай мне новости о президенте трампе,news_query,0.9998,0.9998,True
+1760,ru-RU,news,news_query,последние новости о терроризме,news_query,0.9195,0.9195,True
+1777,ru-RU,play,play_music,следующая песня,play_music,0.9984,0.9984,True
+1784,ru-RU,iot,iot_hue_lightoff,выключи в столовой,iot_hue_lightoff,0.5169,0.5169,True
+1786,ru-RU,iot,iot_hue_lightoff,выключи спальню хозяина,iot_hue_lightoff,0.4856,0.4856,True
+1794,ru-RU,news,news_query,посетит ли трамп россию в ближайшее время,qa_factoid,0.9541,0.0001,False
+1796,ru-RU,datetime,datetime_query,какая сегодня дата,datetime_query,0.9974,0.9974,True
+1803,ru-RU,news,news_query,какие команды играют сегодня в премьер лиге,social_post,0.4128,0.0439,False
+1811,ru-RU,play,play_music,запусти плейлист и включи музыку,play_music,0.9999,0.9999,True
+1832,ru-RU,play,play_music,включи альбом coldplay,iot_hue_lightoff,0.9582,0.0342,False
+1833,ru-RU,play,play_music,можешь зациклить плейлист темы,iot_hue_lightoff,0.9755,0.0001,False
+1866,ru-RU,weather,weather_query,прогноз погоды сейчас,weather_query,0.9932,0.9932,True
+1870,ru-RU,datetime,datetime_query,какой сейчас месяц,email_sendemail,0.999,0.0005,False
+1904,ru-RU,news,news_query,покажи главные моменты матча,news_query,0.1844,0.1844,True
+1933,ru-RU,weather,weather_query,будет ли понижение температуры сегодня вечером,weather_query,0.9982,0.9982,True
+1940,ru-RU,play,play_music,включи название песни,play_music,0.9991,0.9991,True
+1962,ru-RU,play,play_music,привет google включи плейлист дурацкий в моем приложении gaana,play_podcasts,0.9843,0.0101,False
+1994,ru-RU,play,play_music,можешь пожалуйста открыть мой itunes,iot_hue_lightoff,0.7732,0.0068,False
+1995,ru-RU,play,play_music,включи короля и шута,iot_hue_lightoff,0.9801,0.0024,False
+2007,ru-RU,play,play_music,пожалуйста воспроизведи мало половин,play_music,0.999,0.999,True
+2062,ru-RU,play,play_music,я хочу чтобы немного джазовой музыки прозвучало,play_music,0.9999,0.9999,True
+2085,ru-RU,play,play_music,alexa я бы послушал любую классику кроме глинки и свиридова,play_podcasts,0.5514,0.4209,False
+2098,ru-RU,news,news_query,что происходит в мире в эти дни,weather_query,0.5516,0.1664,False
+2108,ru-RU,play,play_music,следующей воспроизведи мое сердце,play_radio,0.9876,0.0106,False
+2113,ru-RU,recommendation,recommendation_events,назови все текущие события в моем родном городе,news_query,0.9866,0.0016,False
+2146,ru-RU,datetime,datetime_query,какая будет дата зимнего солнцестояния спустя два года с сегодня,datetime_query,0.9093,0.9093,True
+2156,ru-RU,datetime,datetime_query,мне нужно узнать текущее время,weather_query,0.9485,0.0484,False
+2160,ru-RU,iot,iot_hue_lightoff,иду спать,qa_factoid,0.3773,0.1275,False
+2178,ru-RU,weather,weather_query,какой будет погода у меня дома,weather_query,0.9992,0.9992,True
+2198,ru-RU,datetime,datetime_query,какой день недели было четвертое декабря тысяча девятьсот восемьдесят второго,datetime_query,0.9953,0.9953,True
+2201,ru-RU,news,news_query,краткое содержание последних новостей на канале россия двадцать четыре,news_query,0.9999,0.9999,True
+2203,ru-RU,news,news_query,заголовки новостей в мире на раша тудей,news_query,0.9982,0.9982,True
+2220,ru-RU,weather,weather_query,погода в москве,weather_query,0.9974,0.9974,True
+2225,ru-RU,play,play_music,включи клаву коку покинула чат,iot_hue_lightoff,0.786,0.0698,False
+2230,ru-RU,iot,iot_hue_lightoff,выключи свет на кухне,iot_hue_lightoff,0.9939,0.9939,True
+2237,ru-RU,news,news_query,прочитай мне последние международные новости,news_query,0.9998,0.9998,True
+2258,ru-RU,weather,weather_query,мне надеть свитер сегодня,calendar_remove,0.2906,0.0187,False
+2265,ru-RU,weather,weather_query,скажи как там с погодой тпрямо сейчас в химках московской области,weather_query,0.999,0.999,True
+2271,ru-RU,play,play_music,пожалуйста играй песни которые я купил и которые мне нравятся,play_music,1.0,1.0,True
+2296,ru-RU,news,news_query,держи меня в курсе сегодняшних результатов р ф п л,recommendation_events,0.5276,0.0995,False
+2298,ru-RU,iot,iot_hue_lightoff,выключи свет сейчас,iot_hue_lightoff,0.996,0.996,True
+2315,ru-RU,news,news_query,какие новости сегодня,news_query,0.9999,0.9999,True
+2316,ru-RU,news,news_query,алекса сообщи мне последние новости,news_query,0.9906,0.9906,True
+2320,ru-RU,weather,weather_query,какой будет погода в эту пятницу,weather_query,0.9989,0.9989,True
+2322,ru-RU,weather,weather_query,какой будет погода на завтра,weather_query,0.9992,0.9992,True
+2330,ru-RU,datetime,datetime_query,покажи местное время в москве сейчас,weather_query,0.9977,0.0001,False
+2384,ru-RU,news,news_query,что происходит в мире,qa_factoid,0.308,0.126,False
+2386,ru-RU,news,news_query,дай мне последние новости,news_query,0.9998,0.9998,True
+2396,ru-RU,play,play_music,включи песни клавы коки,play_music,1.0,1.0,True
+2408,ru-RU,play,play_music,искать больше песен от сектора газа,play_music,0.9585,0.9585,True
+2412,ru-RU,datetime,datetime_query,можешь ли сказать время в калининграде,weather_query,0.9972,0.0001,False
+2423,ru-RU,weather,weather_query,дай прогноз погоды в петербурге на сегодня,weather_query,0.9983,0.9983,True
+2438,ru-RU,news,news_query,отправь новости техники,news_query,0.9957,0.9957,True
+2441,ru-RU,iot,iot_hue_lightoff,выключи свет в сарае,iot_hue_lightoff,0.9965,0.9965,True
+2472,ru-RU,datetime,datetime_query,правильно ли мое время для того места где я нахожусь,qa_factoid,0.7516,0.0002,False
+2496,ru-RU,news,news_query,новости дня,news_query,0.9994,0.9994,True
+2497,ru-RU,datetime,datetime_query,сегодня какое число,datetime_query,0.9393,0.9393,True
+2498,ru-RU,datetime,datetime_query,алиса какое сегодня число,email_sendemail,1.0,0.0,False
+2527,ru-RU,play,play_music,включи классический рок,play_music,1.0,1.0,True
+2531,ru-RU,play,play_music,алекса включи мои рэп и рок песни чередуя,play_music,1.0,1.0,True
+2545,ru-RU,weather,weather_query,какая погода,weather_query,0.9991,0.9991,True
+2548,ru-RU,news,news_query,что-нибудь интересное на лента ру,recommendation_events,0.7874,0.0082,False
+2560,ru-RU,play,play_music,включи случайную музыку,play_music,1.0,1.0,True
+2573,ru-RU,play,play_music,включи мой танцевальный плейлист в spotify,play_music,0.9961,0.9961,True
+2578,ru-RU,iot,iot_hue_lightoff,выключи свет на крыльце,iot_hue_lightoff,0.9936,0.9936,True
+2588,ru-RU,news,news_query,какие последние новости на р. и. а. новости пожалуйста,news_query,0.9999,0.9999,True
+2594,ru-RU,news,news_query,расскажи мне последние новости экологии,news_query,0.9802,0.9802,True
+2605,ru-RU,play,play_music,включи мою любимую музыку прямо сейчас,play_music,1.0,1.0,True
+2611,ru-RU,weather,weather_query,текущий прогноз погоды,weather_query,0.9973,0.9973,True
+2615,ru-RU,weather,weather_query,мне надеть куртку в следующую среду,calendar_remove,0.2383,0.2012,False
+2638,ru-RU,news,news_query,покажи мне новости о жириновском,news_query,0.9999,0.9999,True
+2639,ru-RU,news,news_query,покажи мне новости окружающей среды,news_query,0.9882,0.9882,True
+2651,ru-RU,news,news_query,последние местные новости,news_query,0.9999,0.9999,True
+2678,ru-RU,weather,weather_query,сегодня вечером пойдет дождь,weather_query,0.9991,0.9991,True
+2679,ru-RU,weather,weather_query,температура останется прежней или станет холоднее,weather_query,0.8677,0.8677,True
+2703,ru-RU,play,play_music,пожалуйста играй фольклорную музыку,play_music,1.0,1.0,True
+2704,ru-RU,play,play_music,давай послушаем немного инди рока,play_music,0.9949,0.9949,True
+2708,ru-RU,play,play_music,olly хочу потанцевать включи мне какой-нибудь рок-н-ролл,play_music,1.0,1.0,True
+2709,ru-RU,play,play_music,olly мне нужно послушать какие-нибудь грустные песни сегодня,play_music,0.9997,0.9997,True
+2711,ru-RU,iot,iot_hue_lightoff,выключи свет,iot_hue_lightoff,0.9814,0.9814,True
+2717,ru-RU,play,play_music,хочу послушать прыгну со скалы,play_music,0.6236,0.6236,True
+2724,ru-RU,news,news_query,покажи мне новости первого канала,news_query,0.6625,0.6625,True
+2770,ru-RU,play,play_music,olly включи музыку жанра джаз,play_music,1.0,1.0,True
+2774,ru-RU,iot,iot_hue_lightoff,выключи свет,iot_hue_lightoff,0.9814,0.9814,True
+2775,ru-RU,iot,iot_hue_lightoff,выключи свет,iot_hue_lightoff,0.9814,0.9814,True
+2777,ru-RU,weather,weather_query,мне сегодня брать зонт,calendar_remove,0.6547,0.0061,False
+2781,ru-RU,play,play_music,пожалуйста включи какой нибудь джаз,play_music,0.9987,0.9987,True
+2798,ru-RU,play,play_music,алекса воспроизведи песню проклятый старый дом,play_music,1.0,1.0,True
+2801,ru-RU,datetime,datetime_query,сколько времени в калининграде,weather_query,0.7994,0.0043,False
+2824,ru-RU,datetime,datetime_query,какой день тринадцатого декабря,weather_query,0.6581,0.2848,False
+2840,ru-RU,datetime,datetime_query,второе число в следующем месяце выпадает на какой день,datetime_query,0.9257,0.9257,True
+2859,ru-RU,datetime,datetime_query,olly какое время в этом городе,weather_query,0.9982,0.0003,False
+2887,ru-RU,news,news_query,пожалуйста покажи мне какие либо статьи касающиеся погоды в утренних новостях,news_query,0.9997,0.9997,True
+2890,ru-RU,weather,weather_query,погода на данный момент,weather_query,0.9981,0.9981,True
+2898,ru-RU,news,news_query,есть какие нибудь новости про выборы,news_query,0.9994,0.9994,True
+2914,ru-RU,datetime,datetime_query,скажи мне какой сегодня день,weather_query,0.9984,0.0003,False
+2917,ru-RU,weather,weather_query,еженедельный прогноз погоды,weather_query,0.9962,0.9962,True
+2921,ru-RU,news,news_query,какие новости на сайте интерфакса,news_query,1.0,1.0,True
+2927,ru-RU,datetime,datetime_query,который час в воркуте,weather_query,0.7808,0.2025,False
+2931,ru-RU,play,play_music,включи следующей невесту,social_post,0.6769,0.004,False
+2962,ru-RU,play,play_music,пожалуйста воспроизведи песню виктора цоя,play_music,1.0,1.0,True
+2965,ru-RU,iot,iot_hue_lightoff,выключи свет в офисе,iot_hue_lightoff,0.9978,0.9978,True
+3002,ru-RU,play,play_music,играть песни группы ария,play_music,1.0,1.0,True
+3031,ru-RU,play,play_music,хочу послушать эту песню снова,play_music,0.9999,0.9999,True
+3034,ru-RU,weather,weather_query,скажи температуру,iot_hue_lightoff,0.5202,0.0176,False
+3037,ru-RU,news,news_query,новостные статьи на первой полосе пожалуйста,news_query,0.9208,0.9208,True
+3039,ru-RU,news,news_query,что нового в новостях,news_query,0.9999,0.9999,True
+3060,ru-RU,news,news_query,каковы новости от этого новостного ресурса,news_query,1.0,1.0,True
+3091,ru-RU,datetime,datetime_query,сколько сейчас по тихоокеанскому стандартному времени,weather_query,0.9958,0.0014,False
+3096,ru-RU,weather,weather_query,какая погода в новокузнецке,weather_query,0.9992,0.9992,True
+3098,ru-RU,iot,iot_hue_lightoff,выключи свет,iot_hue_lightoff,0.9814,0.9814,True
+3099,ru-RU,news,news_query,покажи мне текущие события,news_query,0.8676,0.8676,True
+3101,ru-RU,news,news_query,олли включи новости,play_radio,0.7868,0.0261,False
+3116,ru-RU,play,play_music,воспроизведи мою любимую песню прошлого года,play_music,1.0,1.0,True
+3117,ru-RU,play,play_music,воспроизведи что нибудь из сплина пыльная быль альбом,play_music,0.9974,0.9974,True
+3118,ru-RU,datetime,datetime_query,сколько в данный момент по восточному стандартному времени,weather_query,0.574,0.0757,False
+3124,ru-RU,play,play_music,включи любую песню из моего плейлиста,play_music,1.0,1.0,True
+3146,ru-RU,play,play_music,включи первый трек из моего плейлиста мумий тролля,play_music,0.9998,0.9998,True
+3167,ru-RU,iot,iot_hue_lightoff,выключи свет в моей спальне,iot_hue_lightoff,0.9983,0.9983,True
+3174,ru-RU,play,play_music,играй музыкальный плейлист,play_music,0.9999,0.9999,True
+3205,ru-RU,play,play_music,включи песню гори нади дорофеевой,play_music,1.0,1.0,True
+3207,ru-RU,play,play_music,стримь покинула чат клавы коки,social_post,0.9975,0.0001,False
+3212,ru-RU,calendar,calendar_set,напомни мне сделать что-нибудь потом,cooking_recipe,0.9038,0.0007,False
+3214,ru-RU,news,news_query,на каком этапе находится расследование связей трампа с россией,lists_query,0.1754,0.0356,False
+3228,ru-RU,datetime,datetime_query,на какой день недели выпадает рождество в этом году,datetime_query,0.8994,0.8994,True
+3253,ru-RU,weather,weather_query,будет дождь сегодня днём,weather_query,0.9989,0.9989,True
+3264,ru-RU,play,play_music,воспроизведи музыку регги,play_music,1.0,1.0,True
+3305,ru-RU,weather,weather_query,что там с погодой на этой неделе в краснодаре,weather_query,0.9987,0.9987,True
+3306,ru-RU,weather,weather_query,каков прогноз на неделю,qa_factoid,0.1864,0.0454,False
+3329,ru-RU,news,news_query,хочу увидеть новости,news_query,0.9999,0.9999,True
+3337,ru-RU,weather,weather_query,доложи о погоде в регионе с индексом тридцать три семьсот семьдесят четыре,weather_query,0.9966,0.9966,True
+3338,ru-RU,weather,weather_query,проноз погоды в сочи,social_post,0.4964,0.0199,False
+3361,ru-RU,datetime,datetime_query,какое число в следующий вторник,datetime_query,0.3453,0.3453,True
+3378,ru-RU,iot,iot_hue_lightoff,выклю свет на кухне,iot_hue_lightoff,0.9986,0.9986,True
+3386,ru-RU,iot,iot_hue_lightoff,убавь delet свет до среднего,iot_hue_lightoff,0.9978,0.9978,True
+3400,ru-RU,play,play_music,включи живой концерт игоря крутого,play_music,0.7899,0.7899,True
+3401,ru-RU,play,play_music,включи самую популярную песню димы билана,play_music,1.0,1.0,True
+3406,ru-RU,weather,weather_query,какой прогноз на десять дней,weather_query,0.26,0.26,True
+3407,ru-RU,weather,weather_query,есть ли предсказания дождя или снега на этой неделе,weather_query,0.9281,0.9281,True
+3408,ru-RU,weather,weather_query,в эти выходные погода будет хорошей,weather_query,0.997,0.997,True
+3426,ru-RU,weather,weather_query,сколько градусов на улице,weather_query,0.9984,0.9984,True
+3433,ru-RU,play,play_music,новая поп музыка,social_post,0.9994,0.0005,False
+3434,ru-RU,play,play_music,лучшая рэп музыка,play_music,0.7427,0.7427,True
+3441,ru-RU,datetime,datetime_query,двадцать второе в среду,calendar_remove,0.0997,0.0865,False
+3444,ru-RU,datetime,datetime_query,десять ли часов сейчас,weather_query,0.9656,0.0105,False
+3447,ru-RU,weather,weather_query,в субботу обещают дождь,weather_query,0.9979,0.9979,True
+3481,ru-RU,play,play_music,включи самую популярную песню данного артиста,play_music,1.0,1.0,True
+3489,ru-RU,play,play_music,пожалуйста играй сейчас музыку,play_music,1.0,1.0,True
+3492,ru-RU,play,play_music,давай включим мой список самых популярных песен,play_music,0.9817,0.9817,True
+3503,ru-RU,weather,weather_query,что там с погодой в петрозаводске,weather_query,0.9984,0.9984,True
+3507,ru-RU,weather,weather_query,в прогнозе есть снег,weather_query,0.8843,0.8843,True
+3513,ru-RU,play,play_music,воспроизводи только из моего списка,lists_remove,0.7081,0.0344,False
+3516,ru-RU,weather,weather_query,какая вероятность осадков на сегодня,weather_query,0.9447,0.9447,True
+3539,ru-RU,play,play_music,включи не надо слов ларисы долиной,iot_hue_lightoff,0.9998,0.0,False
+3546,ru-RU,play,play_music,я хотел бы послушать джаз,play_music,0.9901,0.9901,True
+3550,ru-RU,play,play_music,включи браво,qa_factoid,0.7541,0.0,False
+3554,ru-RU,play,play_music,можешь поставить любовный плейлист,play_podcasts,0.4984,0.0089,False
+3562,ru-RU,play,play_music,включи лесника,iot_hue_lightoff,0.8629,0.0,False
+3566,ru-RU,datetime,datetime_query,какое местное время в челябинске,weather_query,0.9992,0.0001,False
+3570,ru-RU,iot,iot_hue_lightoff,выключи свет во внутреннем дворике,iot_hue_lightoff,0.9926,0.9926,True
+3576,ru-RU,news,news_query,какое последнее сообщение от нтв,social_post,0.5362,0.0246,False
+3586,ru-RU,weather,weather_query,что там с погодой в саратове,weather_query,0.9971,0.9971,True
+3600,ru-RU,calendar,calendar_set,напомни мне через десять минут,qa_factoid,0.5127,0.003,False
+3603,ru-RU,news,news_query,какие последние новости интерфакса,news_query,0.9998,0.9998,True
+3605,ru-RU,news,news_query,какие последние новости на н. т. в.,news_query,0.9997,0.9997,True
+3606,ru-RU,datetime,datetime_query,какое время в красноярске,weather_query,0.9963,0.0006,False
+3614,ru-RU,weather,weather_query,сегодня солнечный день не так ли,weather_query,0.9969,0.9969,True
+3623,ru-RU,news,news_query,что происходит в мире сегодня,weather_query,0.8822,0.0768,False
+3624,ru-RU,news,news_query,новости первого канала,news_query,0.9872,0.9872,True
+3631,ru-RU,play,play_music,эй гугл играй какую-нибудь джаз музыку для меня,play_music,1.0,1.0,True
+3686,ru-RU,play,play_music,включи плейлист который я посвятил рок музыке,play_music,0.9006,0.9006,True
+3714,ru-RU,play,play_music,включи мой плейлист начиная снизу,play_podcasts,0.3983,0.2672,False
+3717,ru-RU,play,play_music,включи пожалуйста мои хиты рэпа девяностых,play_music,0.9998,0.9998,True
+3723,ru-RU,play,play_music,я хотел бы послушать король и шут позови меня после этой песни,play_music,0.9997,0.9997,True
+3725,ru-RU,datetime,datetime_query,какая сегодня дата,datetime_query,0.9974,0.9974,True
+3727,ru-RU,play,play_music,включи туман сектора газа,iot_hue_lightoff,0.7062,0.0139,False
+3750,ru-RU,news,news_query,olly если появятся какие-либо новости о наводнении можешь немедленно сообщить мне об этом,email_sendemail,1.0,0.0,False
+3779,ru-RU,play,play_music,включи youtube плейлист потерянный рай,play_podcasts,1.0,0.0,False
+3780,ru-RU,play,play_music,включи мой плейлист полуночная любовь,play_music,0.9916,0.9916,True
+3784,ru-RU,weather,weather_query,дай проноз погоды в сочи,qa_definition,0.7082,0.0941,False
+3785,ru-RU,iot,iot_hue_lightoff,выключи свет в ванной пожалуйста,iot_hue_lightoff,0.9856,0.9856,True
+3822,ru-RU,news,news_query,найди мне информацию об автомобилях,recommendation_events,0.9987,0.0001,False
+3852,ru-RU,weather,weather_query,какая погода сейчас в грозном чечня,weather_query,0.9989,0.9989,True
+3859,ru-RU,play,play_music,пожалуйста включи мой любимый рэп музыкальный плейлист,play_music,1.0,1.0,True
+3907,ru-RU,play,play_music,включи мне прошлогодние хиты,play_music,0.9632,0.9632,True
+3911,ru-RU,play,play_music,я хочу услышать любые песни получившие золотой грамофон этом году,play_music,0.8725,0.8725,True
+3912,ru-RU,play,play_music,включи танцевальную музыку и кантри,play_music,1.0,1.0,True
+3936,ru-RU,weather,weather_query,какая температура,weather_query,0.5459,0.5459,True
+3960,ru-RU,datetime,datetime_query,скажи время,weather_query,0.9951,0.0007,False
+3967,ru-RU,play,play_music,рэп,social_post,0.4613,0.0088,False
+3980,ru-RU,play,play_music,включи пожалуйста туман сектора газа,iot_hue_lightoff,0.9989,0.0,False
+3982,ru-RU,play,play_music,включи пожалуйста первую песню из моей библиотеки itunes,play_music,0.9996,0.9996,True
+3993,ru-RU,iot,iot_hue_lightoff,погаси свет,iot_hue_lightoff,0.9892,0.9892,True
+3995,ru-RU,datetime,datetime_query,алиса в какой день недели хэллоуин,email_sendemail,0.8816,0.0026,False
+4001,ru-RU,news,news_query,что случилось с ходячими мертвецами,social_post,0.9398,0.002,False
+4023,ru-RU,news,news_query,что нового,news_query,0.3301,0.3301,True
+4031,ru-RU,play,play_music,включи проклятый старый дом,play_radio,0.9994,0.0,False
+4040,ru-RU,play,play_music,играй песню которую я слушаю больше всего,play_music,1.0,1.0,True
+4058,ru-RU,play,play_music,хочу послушать какой нибудь рэп,play_music,1.0,1.0,True
+4073,ru-RU,datetime,datetime_query,какой день пятое,qa_factoid,0.5445,0.0422,False
+4077,ru-RU,iot,iot_hue_lightoff,выключи на кухне свет,iot_hue_lightoff,0.9979,0.9979,True
+4088,ru-RU,iot,iot_hue_lightoff,выключи верхний свет,iot_hue_lightoff,0.9992,0.9992,True
+4104,ru-RU,weather,weather_query,какая погода будет сегодня в томске,weather_query,0.9995,0.9995,True
+4116,ru-RU,play,play_music,включи мой перетасованный плейлист,play_podcasts,0.8816,0.0257,False
+4119,ru-RU,news,news_query,я хочу знать все о прорыве дамбы в якутии,qa_factoid,0.5453,0.0026,False
+4132,ru-RU,weather,weather_query,скажи мне процент вероятности дождя в симферополе крым на сегодня,qa_factoid,0.9685,0.0253,False
+4136,ru-RU,play,play_music,можешь пожалуйста играть нюшу,play_music,0.7305,0.7305,True
+4152,ru-RU,play,play_music,пожалуйста поставь песню группа крови,play_music,0.9998,0.9998,True
+4168,ru-RU,weather,weather_query,пожалуйста проверь погоду в псковской области,weather_query,0.9994,0.9994,True
+4171,ru-RU,iot,iot_hue_lightoff,выключи свет на кухне,iot_hue_lightoff,0.9939,0.9939,True
+4177,ru-RU,news,news_query,сообщи мне последние заголовки из политики по всему миру,social_post,0.6821,0.01,False
+4178,ru-RU,news,news_query,есть какие-нибудь новости о президентстве,news_query,0.9998,0.9998,True
+4183,ru-RU,datetime,datetime_query,текущее время в новом уренгое,datetime_query,0.816,0.816,True
+4186,ru-RU,datetime,datetime_query,эй olly сколько сейчас время,weather_query,0.9987,0.0002,False
+4187,ru-RU,datetime,datetime_query,эй siri сколько время,weather_query,0.7733,0.0263,False
+4205,ru-RU,play,play_music,я хочу слушать мало половин ольги бузовой,play_podcasts,0.8789,0.1208,False
+4212,ru-RU,weather,weather_query,я смогу покосить траву сегодня вечером,cooking_recipe,0.258,0.1393,False
+4227,ru-RU,weather,weather_query,есть что нибудь про дождь в прогнозе на следующую неделю,weather_query,0.9925,0.9925,True
+4232,ru-RU,play,play_music,включи прыгну со скалы короля и шута,iot_hue_lightoff,0.9995,0.0,False
+4236,ru-RU,datetime,datetime_query,уже полдень,weather_query,0.9918,0.0003,False
+4253,ru-RU,datetime,datetime_query,который сейчас час на дальнем востоке,weather_query,0.9901,0.0007,False
+4254,ru-RU,datetime,datetime_query,сколько времени на восточном побережье соединённых штатов,weather_query,0.995,0.0016,False
+4258,ru-RU,news,news_query,какие последние новости,news_query,0.9998,0.9998,True
+4266,ru-RU,weather,weather_query,какая погода сегодня,weather_query,0.9989,0.9989,True
+4273,ru-RU,play,play_music,включи песню мало половин,play_music,1.0,1.0,True
+4290,ru-RU,weather,weather_query,мне взять с собой куртку сегодня вечером,lists_remove,0.5768,0.0113,False
+4305,ru-RU,play,play_music,играй песню ольги бузовой мало половин,play_music,1.0,1.0,True
+4309,ru-RU,datetime,datetime_query,через сколько часов наступит полночь в тюмени россия,weather_query,0.984,0.0144,False
+4312,ru-RU,weather,weather_query,в москве будет меньше чем десять градусов,weather_query,0.9987,0.9987,True
+4313,ru-RU,weather,weather_query,завтра будет дождь в москве,weather_query,0.9996,0.9996,True
+4336,ru-RU,datetime,datetime_query,сколько времени в китае,weather_query,0.7742,0.0383,False
+4346,ru-RU,iot,iot_hue_lightoff,выключи свет,iot_hue_lightoff,0.9814,0.9814,True
+4347,ru-RU,iot,iot_hue_lightoff,выключи свет,iot_hue_lightoff,0.9814,0.9814,True
+4355,ru-RU,weather,weather_query,какая погода у нас,weather_query,0.999,0.999,True
+4361,ru-RU,play,play_music,дай мне немного хороших мелодий,play_music,0.9879,0.9879,True
+4362,ru-RU,datetime,datetime_query,который сейчас час в новоуральске,weather_query,0.9969,0.0004,False
+4376,ru-RU,weather,weather_query,как там сегодня на улице,weather_query,0.9966,0.9966,True
+4377,ru-RU,weather,weather_query,какая сейчас погода,weather_query,0.9986,0.9986,True
+4383,ru-RU,weather,weather_query,какой будет погода завтра,weather_query,0.9991,0.9991,True
+4391,ru-RU,news,news_query,какие заголовки на c n n,play_podcasts,0.7677,0.0074,False
+4400,ru-RU,news,news_query,какие есть актуальные статьи в газете аргументы и факты,news_query,0.9368,0.9368,True
+4402,ru-RU,weather,weather_query,мне сегодня взять с собой зонтик,calendar_remove,0.5854,0.0098,False
+4412,ru-RU,weather,weather_query,какая погода в покрове,weather_query,0.9985,0.9985,True
+4436,ru-RU,weather,weather_query,какую куртку мне надеть,lists_query,0.3482,0.0221,False
+4439,ru-RU,weather,weather_query,какая погода в красноярске,weather_query,0.9994,0.9994,True
+4449,ru-RU,weather,weather_query,сегодня в час дня будет дождь,weather_query,0.9992,0.9992,True
+4452,ru-RU,play,play_music,играй песни,play_music,1.0,1.0,True
+4463,ru-RU,datetime,datetime_query,сколько суббот в марте,qa_factoid,0.6868,0.0017,False
+4477,ru-RU,play,play_music,включи следующую песню,play_music,1.0,1.0,True
+4482,ru-RU,weather,weather_query,мне придется откапывать свое парковочное место этим утром,lists_remove,0.4886,0.0051,False
+4486,ru-RU,weather,weather_query,прогноз погоды на эту неделю,weather_query,0.9968,0.9968,True
+4487,ru-RU,weather,weather_query,в четверг будет дождливо,weather_query,0.9987,0.9987,True
+4491,ru-RU,news,news_query,какие последние новости о дональде трампе,news_query,0.9998,0.9998,True
+4492,ru-RU,news,news_query,какова свежая статистика преступности в моем районе,social_post,0.5809,0.2483,False
+4496,ru-RU,news,news_query,что сегодня опубликовал vogue,social_post,0.9992,0.0,False
+4502,ru-RU,datetime,datetime_query,привет какое время сейчас в москве,weather_query,0.997,0.0003,False
+4524,ru-RU,weather,weather_query,олли какой прогноз погоды на сегодня,weather_query,0.9909,0.9909,True
+4547,ru-RU,play,play_music,запусти плейлист для прогулок с собакой,play_podcasts,0.9982,0.0014,False
+4567,ru-RU,news,news_query,прочитай мне последние заголовки с лентыру,social_post,0.9838,0.0004,False
+4580,ru-RU,datetime,datetime_query,сколько времени в якутске,weather_query,0.972,0.0033,False
+4587,ru-RU,play,play_music,играй моё избранное,play_music,0.9902,0.9902,True
+4589,ru-RU,calendar,calendar_set,установи напоминание о спортивной игре,calendar_remove,0.4292,0.0059,False
+4606,ru-RU,news,news_query,найди информацию о сегодняшних акциях,recommendation_events,0.9939,0.0014,False
+4614,ru-RU,weather,weather_query,завтра температура будет выше сорока,weather_query,0.999,0.999,True
+4662,ru-RU,news,news_query,новости в г т р к alexa,news_query,0.9994,0.9994,True
+4667,ru-RU,datetime,datetime_query,текущее время,datetime_query,0.7212,0.7212,True
+4680,ru-RU,weather,weather_query,мне надеть сандалии или обувь с носками,qa_factoid,0.4749,0.0068,False
+4689,ru-RU,weather,weather_query,ты знаешь погоду,qa_factoid,0.9043,0.0952,False
+4692,ru-RU,play,play_music,поставь песню светланы лободы,play_music,1.0,1.0,True
+4710,ru-RU,datetime,datetime_query,в какой день хэлоуин в этом году,weather_query,0.8868,0.0785,False
+4764,ru-RU,weather,weather_query,в понедельник будет дождь,weather_query,0.9992,0.9992,True
+4767,ru-RU,news,news_query,есть какая либо новая информация касающаяся стены на границе мексики и америки,news_query,0.1089,0.1089,True
+4772,ru-RU,datetime,datetime_query,скажи мне время в этой временной зоне,weather_query,0.99,0.0011,False
+4780,ru-RU,datetime,datetime_query,на какой день недели приходится мой день рождения двадцать седьмого июня в этом году,datetime_query,0.9132,0.9132,True
+4784,ru-RU,weather,weather_query,мне надеть куртку,lists_remove,0.3243,0.0194,False
+4813,ru-RU,datetime,datetime_query,который час в другом городе,weather_query,0.9777,0.0073,False
+4837,ru-RU,news,news_query,есть ли какие нибудь новости олли,news_query,0.9998,0.9998,True
+4838,ru-RU,play,play_music,воспроизведи всю музыку сплина,play_music,0.9979,0.9979,True
+4871,ru-RU,weather,weather_query,как там на улице,weather_query,0.995,0.995,True
+4881,ru-RU,datetime,datetime_query,поиск чтобы найти текущее местное время и часовой пояс,weather_query,0.9824,0.013,False
+4882,ru-RU,datetime,datetime_query,который час в городе,weather_query,0.9724,0.0216,False
+4890,ru-RU,calendar,calendar_set,установи уведомления о текущих стихийных бедствиях в россии,email_sendemail,0.1688,0.0385,False
+4909,ru-RU,play,play_music,включи песни мираж,play_music,0.9997,0.9997,True
+4917,ru-RU,weather,weather_query,температура на улице,weather_query,0.9793,0.9793,True
+4928,ru-RU,play,play_music,включи мой саундтрек,play_music,1.0,1.0,True
+4933,ru-RU,weather,weather_query,пойдет сегодня дождь,weather_query,0.9993,0.9993,True
+4951,ru-RU,datetime,datetime_query,я хотел бы узнать сколько сейчас время,weather_query,0.9949,0.0037,False
+4953,ru-RU,news,news_query,новости о крушении поезда,news_query,0.9983,0.9983,True
+4957,ru-RU,datetime,datetime_query,на какой день недели выпадает двадцать третье в этом месяце,datetime_query,0.7885,0.7885,True
+4960,ru-RU,play,play_music,музыка король и шут,play_music,0.9999,0.9999,True
+4968,ru-RU,qa,qa_factoid,кто выиграл президентские выборы в этот год,qa_factoid,0.9974,0.9974,True
+4973,ru-RU,play,play_music,включи покинула чат,iot_hue_lightoff,0.999,0.0,False
+4998,ru-RU,play,play_music,добавить эту песню как следующую проигрываемую песню,play_music,0.9996,0.9996,True
+5009,ru-RU,weather,weather_query,мне потребуется зонт на этой неделе,iot_hue_lightoff,0.7966,0.0073,False
+5016,ru-RU,news,news_query,расскажи мне новости о взлетах и падениях рынка акций,news_query,0.9996,0.9996,True
+5027,ru-RU,datetime,datetime_query,когда следующая пятница тринадцатое,datetime_query,0.9899,0.9899,True
+5037,ru-RU,weather,weather_query,насколько холодно сегодня,weather_query,0.9991,0.9991,True
+5038,ru-RU,weather,weather_query,какая будет погода на этой неделе,weather_query,0.9991,0.9991,True
+5040,ru-RU,weather,weather_query,какая погода сейчас,weather_query,0.9988,0.9988,True
+5062,ru-RU,play,play_music,пожалуйста включи песни восьмидесятых,play_music,0.9999,0.9999,True
+5074,ru-RU,weather,weather_query,какой был проноз погоды на эту неделю,weather_query,0.9592,0.9592,True
+5085,ru-RU,weather,weather_query,какой прогноз на субботу,qa_factoid,0.2511,0.0509,False
+5118,ru-RU,play,play_music,покинула чат,social_post,0.704,0.0002,False
+5127,ru-RU,news,news_query,вот правда о пище на колесах в чьём-то бюждете,cooking_recipe,0.9923,0.0001,False
+5131,ru-RU,datetime,datetime_query,пожалуйста скажи мне который час в липецке,weather_query,0.9966,0.0005,False
+5134,ru-RU,play,play_music,воспроизведи песни из плейлиста любимых групп,play_music,0.9994,0.9994,True
+5156,ru-RU,iot,iot_hue_lightoff,выключи свет в гостиной,iot_hue_lightoff,0.9948,0.9948,True
+5157,ru-RU,iot,iot_hue_lightoff,олли выключи свет в гостинной,iot_hue_lightoff,0.9988,0.9988,True
+5158,ru-RU,play,play_music,включи пожалуйста последнюю песню из альбома как в старой сказке,play_music,1.0,1.0,True
+5159,ru-RU,play,play_music,можешь включить песню артиста zivert,play_music,1.0,1.0,True
+5160,ru-RU,play,play_music,не мог бы ты пожалуйста включить песню леонида агутина,play_music,1.0,1.0,True
+5176,ru-RU,weather,weather_query,какой будет погода на этой неделе,weather_query,0.999,0.999,True
+5196,ru-RU,news,news_query,я хочу узнать про брекзит,qa_definition,0.9861,0.0001,False
+5225,ru-RU,datetime,datetime_query,какое число следующая среда,datetime_query,0.8474,0.8474,True
+5243,ru-RU,iot,iot_hue_lightoff,siri выключи свет в ванной,iot_hue_lightoff,0.9955,0.9955,True
+5245,ru-RU,news,news_query,установить уведомление об экологических новостях,email_sendemail,0.5436,0.0577,False
+5270,ru-RU,news,news_query,какие последние новости сейчас,news_query,0.9998,0.9998,True
+5278,ru-RU,play,play_music,воспроизведи только поп музыку,play_music,0.9999,0.9999,True
+5279,ru-RU,play,play_music,пожалуйста ставь только грустную музыку на плеере,play_music,0.9988,0.9988,True
+5286,ru-RU,news,news_query,покажи новости раша тудей о миграции,news_query,0.9977,0.9977,True
+5296,ru-RU,news,news_query,olly дай мне популярные новости от н т в,news_query,0.9995,0.9995,True
+5297,ru-RU,news,news_query,найди самые читаемые новости на р. б. к.,news_query,0.9995,0.9995,True
+5301,ru-RU,weather,weather_query,какой будет погода двадцатого марта две тысячи семнадцатого года,weather_query,0.9865,0.9865,True
+5307,ru-RU,datetime,datetime_query,двадцатое ли марта сегодня,weather_query,0.9802,0.0067,False
+5318,ru-RU,play,play_music,включи музыку только клавы коки,play_music,1.0,1.0,True
+5321,ru-RU,weather,weather_query,покажи погоду,weather_query,0.9884,0.9884,True
+5328,ru-RU,play,play_music,рок музыка,play_music,1.0,1.0,True
+5339,ru-RU,weather,weather_query,уровень низкого охлаждения,qa_factoid,0.9819,0.0007,False
+5341,ru-RU,datetime,datetime_query,пожалуйста предупреди меня о времени,weather_query,0.9974,0.0001,False
+5347,ru-RU,play,play_music,включи техно музыку,play_music,0.9999,0.9999,True
+5358,ru-RU,datetime,datetime_query,обнови до текущего времени,datetime_query,0.9887,0.9887,True
+5370,ru-RU,news,news_query,какой последний спор о путине,qa_factoid,0.7862,0.0033,False
+5378,ru-RU,play,play_music,руки вверх,qa_factoid,0.8349,0.0061,False
+5401,ru-RU,play,play_music,музыка,play_music,0.9996,0.9996,True
+5410,ru-RU,news,news_query,прочитай мне последние заголовки new york times,news_query,0.8749,0.8749,True
+5411,ru-RU,news,news_query,какие главные новости c n n,news_query,1.0,1.0,True
+5413,ru-RU,play,play_music,включи музыку,play_music,1.0,1.0,True
+5414,ru-RU,play,play_music,включи музыку,play_music,1.0,1.0,True
+5427,ru-RU,datetime,datetime_query,сколько времени сейчас в канаде,weather_query,0.8325,0.003,False
+5433,ru-RU,weather,weather_query,дождь так и будет идти,weather_query,0.9496,0.9496,True
+5439,ru-RU,weather,weather_query,мне потребуется зонт в этой ночью,iot_hue_lightoff,0.8278,0.0378,False
+5465,ru-RU,weather,weather_query,могу я сегодня одеть сандалии,iot_hue_lightoff,0.961,0.0006,False
+5468,ru-RU,weather,weather_query,мне взять солнечные очки,iot_hue_lightoff,0.7638,0.0051,False
+5524,ru-RU,weather,weather_query,погода в настоящий момент,weather_query,0.9977,0.9977,True
+5529,ru-RU,weather,weather_query,когда мне лучше пойти в поход,calendar_remove,0.9024,0.0043,False
+5557,ru-RU,play,play_music,я хочу регги,qa_factoid,0.9957,0.0,False
+5577,ru-RU,weather,weather_query,мне понадобится тёплая куртка если вечером станет слишком ветрено,weather_query,0.8635,0.8635,True
+5578,ru-RU,weather,weather_query,зимой утром мне нужны тёплые носки,weather_query,0.9145,0.9145,True
+5584,ru-RU,iot,iot_hue_lightoff,пожалуйста выключи свет,iot_hue_lightoff,0.9899,0.9899,True
+5590,ru-RU,weather,weather_query,открой температуру,qa_factoid,0.9156,0.0,False
+5593,ru-RU,play,play_music,играй прыгну со скалы короля и шута,play_music,0.9729,0.9729,True
+5619,ru-RU,play,play_music,включи предыдущую песню,play_music,1.0,1.0,True
+5627,ru-RU,play,play_music,сыграй для меня музыку битлз,play_music,1.0,1.0,True
+5640,ru-RU,datetime,datetime_query,отобразить время,qa_factoid,0.8173,0.0031,False
+5650,ru-RU,weather,weather_query,спроси о погоде сегодня вечером,weather_query,0.9981,0.9981,True
+5658,ru-RU,play,play_music,воспроизведи мне музыку сплин,play_music,1.0,1.0,True
+5661,ru-RU,weather,weather_query,мне взять с собой плащ,lists_remove,0.4001,0.0156,False
+5671,ru-RU,datetime,datetime_query,какое время в сочи,weather_query,0.9453,0.0347,False
+5678,ru-RU,datetime,datetime_query,пятнадцатое августа какой день недели,datetime_query,0.9862,0.9862,True
+5683,ru-RU,play,play_music,включи мой плейлист песни для вечеринок,play_music,0.9978,0.9978,True
+5688,ru-RU,news,news_query,прочитай мне заголовки новостей,news_query,0.9999,0.9999,True
+5703,ru-RU,datetime,datetime_query,время сейчас,datetime_query,0.6403,0.6403,True
+5707,ru-RU,play,play_music,слушать мои избранные,play_podcasts,0.852,0.0035,False
+5721,ru-RU,weather,weather_query,покажи мне погоду на завтра в этом районе,weather_query,0.9996,0.9996,True
+5722,ru-RU,weather,weather_query,отобрази семидневный прогноз на эту неделю,iot_hue_lightoff,0.4865,0.1026,False
+5732,ru-RU,weather,weather_query,скоро мне менять покрышки на зимнюю резину,lists_remove,0.4758,0.0064,False
+5757,ru-RU,datetime,datetime_query,без четверти два,qa_factoid,0.9964,0.0001,False
+5758,ru-RU,weather,weather_query,что с погодой в столице,weather_query,0.9982,0.9982,True
+5774,ru-RU,datetime,datetime_query,текущее время в якутии,datetime_query,0.874,0.874,True
+5797,ru-RU,weather,weather_query,мне надеть плащ перед тем как выйти,lists_remove,0.3501,0.0118,False
+5813,ru-RU,play,play_music,играй песню холодно не будет,play_music,1.0,1.0,True
+5820,ru-RU,play,play_music,покинула чат от клава кока,social_post,0.6068,0.1704,False
+5837,ru-RU,weather,weather_query,расскажи мне о погоде на этой неделе,weather_query,0.9988,0.9988,True
+5871,ru-RU,weather,weather_query,какая сегодня погода в москве,weather_query,0.9988,0.9988,True
+5886,ru-RU,news,news_query,горячая тема,social_post,1.0,0.0,False
+5919,ru-RU,news,news_query,есть ли последние обновления о предложении на нью йоркском мосту,social_post,0.4561,0.0996,False
+5930,ru-RU,news,news_query,какое-нибудь срочное сообщение из новой газеты,email_sendemail,0.9901,0.0034,False
+5948,ru-RU,play,play_music,включи какую нибудь хорошую песню из моего плейлиста,play_music,0.9998,0.9998,True
+5953,ru-RU,weather,weather_query,в городе дешевле или дороже жить,social_post,0.242,0.028,False
+5955,ru-RU,weather,weather_query,насколько безопасен город в части закона и порядка,qa_factoid,0.8426,0.0207,False
+5970,ru-RU,play,play_music,я хочу чтобы ты включил северное сияние,iot_hue_lightoff,0.9054,0.0016,False
+5985,ru-RU,news,news_query,покажи мне последние новости оон,news_query,0.9918,0.9918,True
+5996,ru-RU,weather,weather_query,мне потребуется зимняя обувь после обеда,iot_hue_lightoff,0.9849,0.0008,False
+5997,ru-RU,datetime,datetime_query,какое время в центральном часовом поясе,weather_query,0.8576,0.0853,False
+6023,ru-RU,weather,weather_query,ночь будет трудная,weather_query,0.9967,0.9967,True
+6024,ru-RU,weather,weather_query,мне надеть свитер или пальто на работу сегодня,lists_remove,0.4123,0.0199,False
+6025,ru-RU,weather,weather_query,мне потребуется крем от загара этим утром,iot_hue_lightoff,0.2843,0.024,False
+6027,ru-RU,play,play_music,включи мои избранные,social_post,0.4941,0.0136,False
+6039,ru-RU,weather,weather_query,завтра будет дождливый день,weather_query,0.9989,0.9989,True
+6041,ru-RU,iot,iot_hue_lightoff,эй olly выключи свет пожалуйста,iot_hue_lightoff,0.9976,0.9976,True
+6045,ru-RU,play,play_music,добавить выбранную песню,play_music,0.9952,0.9952,True
+6050,ru-RU,weather,weather_query,мне потребуется крем от загара позже,iot_hue_lightoff,0.6635,0.0115,False
+6055,ru-RU,iot,iot_hue_lightoff,оставил ли я свет в гараже включенным,iot_hue_lightoff,0.9899,0.9899,True
+6059,ru-RU,play,play_music,включи рэп музыку,play_music,1.0,1.0,True
+6069,ru-RU,weather,weather_query,сегодня будут грозы,weather_query,0.333,0.333,True
+6073,ru-RU,iot,iot_hue_lightoff,выключи свет на крыльце,iot_hue_lightoff,0.9936,0.9936,True
+6074,ru-RU,iot,iot_hue_lightoff,выключи свет в спальне в девять тридцать вечера,iot_hue_lightoff,0.9991,0.9991,True
+6077,ru-RU,news,news_query,я хочу услышать последние мировые новости сегодня,news_query,0.9999,0.9999,True
+6093,ru-RU,weather,weather_query,надо ли мне открыть люк на крыше,iot_hue_lightoff,0.9998,0.0,False
+6103,ru-RU,weather,weather_query,эй какой будет погода сегодня в уфе башкортостан,weather_query,0.9995,0.9995,True
+6116,ru-RU,weather,weather_query,информация о погоде на текущую неделю,weather_query,0.9978,0.9978,True
+6118,ru-RU,datetime,datetime_query,эй сколько времени в новосибирске россия,weather_query,0.9964,0.0002,False
+6127,ru-RU,weather,weather_query,вы советуете взять зонт,recommendation_events,0.6063,0.0047,False
+6129,ru-RU,news,news_query,держи меня в курсе про мировые новости,news_query,0.9967,0.9967,True
+6151,ru-RU,weather,weather_query,хочу узнать про погоду на сегодня,weather_query,0.9995,0.9995,True
+6172,ru-RU,weather,weather_query,стоит сегодня надевать солнцезащитные очки,iot_hue_lightoff,0.9146,0.0042,False
+6177,ru-RU,weather,weather_query,мне сегодня понадобится зонт,iot_hue_lightoff,0.7245,0.004,False
+6178,ru-RU,weather,weather_query,мне надевать куртку,lists_remove,0.3153,0.0264,False
+6194,ru-RU,weather,weather_query,как сегодня погода,weather_query,0.9979,0.9979,True
+6289,ru-RU,weather,weather_query,эй olly что там с погодой сегодня,weather_query,0.998,0.998,True
+6370,ru-RU,calendar,calendar_query,что у меня на следующей неделе,weather_query,0.3012,0.031,False
+6372,ru-RU,news,news_query,новости о растениях,news_query,0.9999,0.9999,True
+6403,ru-RU,transport,transport_query,как добраться куда-то,transport_query,0.9987,0.9987,True
+6410,ru-RU,news,news_query,что происходит в россии сегодня,news_query,0.8643,0.8643,True
+6411,ru-RU,weather,weather_query,как с погодой на следующую среду,weather_query,0.9984,0.9984,True
+6539,ru-RU,calendar,calendar_set,отметь сегодня как начало моей диеты,cooking_recipe,0.945,0.0001,False
+6542,ru-RU,cooking,cooking_recipe,мягкий сыр лучше чем твёрдый,cooking_recipe,0.9977,0.9977,True
+6618,ru-RU,news,news_query,расскажи интересные новости,news_query,0.9999,0.9999,True
+6682,ru-RU,news,news_query,начало выборов,recommendation_events,0.4146,0.0173,False
+6683,ru-RU,news,news_query,экономические отношения,lists_query,0.4385,0.0271,False
+6713,ru-RU,calendar,calendar_remove,отмени рабочую встречу в среду,calendar_remove,0.965,0.965,True
+6722,ru-RU,calendar,calendar_query,есть ли что-то о чем мне нужно напомнить,lists_query,0.3822,0.0153,False
+6725,ru-RU,calendar,calendar_set,напомни мне о расписании на вторую половину дня,calendar_remove,0.2402,0.0408,False
+6726,ru-RU,calendar,calendar_remove,отмени следующую встречу,qa_factoid,0.6321,0.0951,False
+6729,ru-RU,calendar,calendar_remove,отмени завтрак у татьяны,qa_factoid,0.95,0.0002,False
+6732,ru-RU,calendar,calendar_set,добавь напоминание о встрече в воскресенье с родители мужа,email_sendemail,0.6197,0.0389,False
+6744,ru-RU,calendar,calendar_set,поставь встречу с павлом на завтра в десять утра,social_post,0.9952,0.0006,False
+6746,ru-RU,calendar,calendar_set,поставь первую неделю июня как отпуск в моем календаре,calendar_set,0.989,0.989,True
+6747,ru-RU,calendar,calendar_query,сколько напоминаний у меня есть,play_podcasts,0.2343,0.0187,False
+6755,ru-RU,calendar,calendar_remove,почисти пожалуйста мой календарь,calendar_remove,1.0,1.0,True
+6761,ru-RU,calendar,calendar_remove,удали из моего календаря встречу в девять утра,calendar_remove,0.9999,0.9999,True
+6764,ru-RU,calendar,calendar_set,напомни мне помыть окна,cooking_recipe,0.8894,0.0011,False
+6774,ru-RU,calendar,calendar_set,поставь событие на пятницу,iot_hue_lightoff,0.7844,0.0294,False
+6785,ru-RU,calendar,calendar_query,какое у меня следующее напоминание,recommendation_events,0.3108,0.0201,False
+6789,ru-RU,calendar,calendar_set,поставь встречу с женей в субботу в четыре часа дня,social_post,0.9563,0.003,False
+6798,ru-RU,calendar,calendar_remove,удали моё следующее событие,qa_factoid,0.5321,0.0073,False
+6801,ru-RU,calendar,calendar_query,покажи мне мои встречи в эту пятницу,social_post,0.7979,0.0133,False
+6806,ru-RU,calendar,calendar_query,покажи событие в моём календаре на эту пятницу днём,calendar_set,0.9493,0.0205,False
+6815,ru-RU,calendar,calendar_set,напомни мне про день рождения моей мамы за неделю до него,email_sendemail,1.0,0.0,False
+6819,ru-RU,calendar,calendar_set,olly сегодня вечером в девять в джаз клубе играет хорошая группа я хочу пойти,social_post,0.4143,0.0109,False
+6836,ru-RU,calendar,calendar_set,напомни мне о собрании завтра в шесть,email_sendemail,0.4643,0.0179,False
+6850,ru-RU,calendar,calendar_query,выложи мое расписание на сегодня,calendar_remove,0.9993,0.0001,False
+6856,ru-RU,calendar,calendar_set,сделай мне напоминание о завтрашней встрече в десять утра,calendar_remove,0.962,0.003,False
+6860,ru-RU,calendar,calendar_query,есть ли какие-нибудь предстоящие события,news_query,0.6804,0.0125,False
+6865,ru-RU,calendar,calendar_set,настрой оповещение о завтрашней встрече в десять,recommendation_events,0.396,0.0378,False
+6878,ru-RU,calendar,calendar_set,назначь встречу с бухгалтерией на два тридцать дня в пятницу,email_sendemail,0.5867,0.1992,False
+6891,ru-RU,calendar,calendar_query,есть ли доступные утренние сериалы,play_podcasts,0.9956,0.0001,False
+6892,ru-RU,calendar,calendar_query,можешь дать мне расписание фильмов,qa_factoid,0.4063,0.0138,False
+6897,ru-RU,calendar,calendar_set,напомни мне забрать ларису в пять вечера седьмого,email_sendemail,0.8129,0.0015,False
+6901,ru-RU,calendar,calendar_set,напомни мне завтра в десять утра про встречу,email_sendemail,0.9759,0.001,False
+6902,ru-RU,calendar,calendar_set,поставь напоминание на следующий месяц поменять моё масло,email_sendemail,0.6134,0.0583,False
+6909,ru-RU,calendar,calendar_query,что запланировано после часа и до трех дня,calendar_remove,0.4699,0.0102,False
+6918,ru-RU,calendar,calendar_remove,удали события из календаря,calendar_remove,0.9999,0.9999,True
+6923,ru-RU,calendar,calendar_set,установи напоминание распечатать документы во вторник утром,email_sendemail,0.9995,0.0,False
+6926,ru-RU,calendar,calendar_query,это пятница,datetime_query,0.8115,0.0034,False
+6928,ru-RU,calendar,calendar_remove,сотри все события,news_query,0.9191,0.0029,False
+6936,ru-RU,calendar,calendar_set,напомни мне принять лекарство в девять утра,email_sendemail,0.8959,0.0198,False
+6937,ru-RU,calendar,calendar_set,установи напоминание на полдень чтобы пообедать с начальником,email_sendemail,0.9906,0.0007,False
+6946,ru-RU,calendar,calendar_query,есть ли какие либо встречи на следующую среду,recommendation_events,0.6487,0.0259,False
+6958,ru-RU,calendar,calendar_remove,убедись что нет событий в моём календаре,calendar_remove,1.0,1.0,True
+6959,ru-RU,calendar,calendar_set,напомни мне о моей встрече за час до её начала,email_sendemail,1.0,0.0,False
+6962,ru-RU,calendar,calendar_set,можно мне узнать что мне нужно сделать в следующую субботу в шесть вечера,recommendation_events,0.3111,0.0246,False
+6964,ru-RU,calendar,calendar_set,ты можешь напомнить мне о следующей встрече с начальником за один час до того как она произойдет,email_sendemail,0.9998,0.0,False
+6967,ru-RU,calendar,calendar_query,ты можешь проверить факты по этому вопросу,qa_factoid,0.9875,0.0004,False
+6968,ru-RU,calendar,calendar_query,мне нужно подтвердить все встречи на сегодня можешь пригласить человека,recommendation_events,0.9869,0.0003,False
+6973,ru-RU,calendar,calendar_set,поставь напоминание о конференции завтра в рязани,social_post,0.779,0.0028,False
+6974,ru-RU,calendar,calendar_set,у меня приём в москве завтра напомни об этом,email_sendemail,0.8333,0.003,False
+6980,ru-RU,calendar,calendar_query,дай мне список дел,lists_query,0.6981,0.0033,False
+6992,ru-RU,calendar,calendar_query,покажи следующие события,play_podcasts,0.8929,0.0006,False
+6994,ru-RU,calendar,calendar_set,напомни мне в,recommendation_events,0.2789,0.0258,False
+6997,ru-RU,calendar,calendar_remove,удали следующее событие,qa_factoid,0.9461,0.0091,False
+7000,ru-RU,calendar,calendar_set,новое событие,iot_hue_lightoff,0.7506,0.0001,False
+7004,ru-RU,calendar,calendar_set,добавляй напоминание в мой календарь каждый год в эту дату,calendar_set,0.9636,0.9636,True
+7013,ru-RU,calendar,calendar_query,когда начнётся событие,qa_factoid,0.9656,0.0001,False
+7014,ru-RU,calendar,calendar_query,дай мне расписание сегодняшних мероприятий,calendar_query,0.8411,0.8411,True
+7025,ru-RU,calendar,calendar_remove,удалить новый год из календаря,calendar_remove,0.9999,0.9999,True
+7026,ru-RU,recommendation,recommendation_events,какие мероприятия проходят в моём городе на этой неделе,lists_query,0.4149,0.0939,False
+7039,ru-RU,calendar,calendar_set,назначь встречу в следующий вторник в одиннадцать утра с дарьей,calendar_remove,0.5909,0.1598,False
+7044,ru-RU,calendar,calendar_set,напомни мне начать собираться к пяти вечера пожалуйста,calendar_set,0.7667,0.7667,True
+7046,ru-RU,calendar,calendar_set,добавить собрание двадцать первого в семь,lists_remove,0.1406,0.037,False
+7055,ru-RU,calendar,calendar_set,назначь встречу с андреем на одиннадцать утра в четверг,calendar_remove,0.7321,0.127,False
+7057,ru-RU,calendar,calendar_set,запланируй обеденную встречу с данилом в среду в полдень,calendar_set,0.6303,0.6303,True
+7061,ru-RU,calendar,calendar_set,напомни мне за двадцать четыре часа о моей встрече с пашей в пятницу,email_sendemail,0.7152,0.0045,False
+7073,ru-RU,calendar,calendar_set,найди в моём календаре моё следующее событие и сообщи мне о нём до того как оно произойдёт,calendar_query,0.3551,0.3447,False
+7080,ru-RU,calendar,calendar_remove,отмени всё в моём календаре,calendar_remove,0.5289,0.5289,True
+7087,ru-RU,calendar,calendar_remove,отмени завтрашнюю встречу в моём календаре,calendar_remove,0.4578,0.4578,True
+7098,ru-RU,calendar,calendar_set,добавь мой платёж за машину на двенадцатое число в мой календарь,calendar_set,0.2919,0.2919,True
+7100,ru-RU,calendar,calendar_set,напомни мне за день до того как моя машина будет готова,email_sendemail,0.8564,0.0043,False
+7111,ru-RU,calendar,calendar_query,во сколько моя запись к врачу тридцать первого марта,datetime_query,0.4199,0.0121,False
+7113,ru-RU,calendar,calendar_query,будут какие-то события в центре на этих выходных,news_query,0.8671,0.0056,False
+7117,ru-RU,calendar,calendar_remove,удали записи на девятнадцатое из моего календаря,calendar_remove,0.9914,0.9914,True
+7120,ru-RU,calendar,calendar_query,какое у меня расписание сегодня,calendar_remove,0.8529,0.1238,False
+7122,ru-RU,calendar,calendar_set,можешь повторить это событие,iot_hue_lightoff,0.5122,0.0002,False
+7140,ru-RU,calendar,calendar_set,установи напоминание чтобы предупредить меня за час до встречи на обеде,email_sendemail,1.0,0.0,False
+7141,ru-RU,calendar,calendar_query,эта программа есть в расписании,cooking_recipe,0.7707,0.0026,False
+7151,ru-RU,calendar,calendar_set,на каждое нечётное воскресенье установи уведомление о,email_sendemail,0.9846,0.0018,False
+7152,ru-RU,calendar,calendar_set,установи обед каждый день в двенадцать тридцать,cooking_recipe,0.8041,0.0119,False
+7161,ru-RU,calendar,calendar_set,напомни об этом событии в будущем,email_sendemail,0.5529,0.0049,False
+7170,ru-RU,calendar,calendar_set,сегодня у моей мамы день рождения отправляй мне напоминания каждый год в эту дату,news_query,0.2815,0.0705,False
+7181,ru-RU,calendar,calendar_set,разбуди меня в шесть утра в четверг чтобы у меня было время на встречу,play_radio,0.4919,0.0201,False
+7185,ru-RU,calendar,calendar_query,когда у меня следующая запись к врачу терапевту ивановой,recommendation_events,0.9976,0.0001,False
+7189,ru-RU,calendar,calendar_query,я что-то запланировал,qa_factoid,0.8506,0.0052,False
+7194,ru-RU,calendar,calendar_set,у меня завтра встреча настрой её,email_sendemail,0.9786,0.0021,False
+7196,ru-RU,calendar,calendar_set,напомни мне о встрече с алексеем пятнадцатого марта,email_sendemail,1.0,0.0,False
+7199,ru-RU,calendar,calendar_set,установи напоминание за три два и один час до итогового экзамена по английскому на следующей неделе,email_sendemail,1.0,0.0,False
+7209,ru-RU,calendar,calendar_set,напомни мне вынести мусор во вторник,calendar_remove,0.1656,0.0384,False
+7219,ru-RU,calendar,calendar_query,ты установил напоминание о завтрашней встрече,calendar_set,0.1932,0.0174,False
+7224,ru-RU,calendar,calendar_query,где состоится свадьба анатолия,qa_factoid,0.9998,0.0,False
+7232,ru-RU,calendar,calendar_query,какие события на следующей неделе,news_query,0.8792,0.0066,False
+7257,ru-RU,calendar,calendar_set,пожалуйста напомни мне позвонить маме через полчаса,email_sendemail,0.9997,0.0,False
+7258,ru-RU,calendar,calendar_set,напомни мне отправить письмо начальнику через час,email_sendemail,1.0,0.0,False
+7262,ru-RU,calendar,calendar_set,создай напоминание о встрече завтра,email_sendemail,0.8856,0.0009,False
+7266,ru-RU,calendar,calendar_query,какие у меня нерешённые задачи,lists_query,0.5045,0.019,False
+7278,ru-RU,calendar,calendar_set,напомни мне о дне рождения марии за двадцать четыре часа,datetime_query,0.9485,0.0004,False
+7287,ru-RU,calendar,calendar_set,напоминай мне о годовщине за один день до неё,email_sendemail,0.7186,0.0041,False
+7289,ru-RU,calendar,calendar_remove,убери все события с олегом,email_query,0.6028,0.0001,False
+7291,ru-RU,calendar,calendar_set,выдели один час с десяти завтрашним утром,datetime_query,0.9216,0.0007,False
+7292,ru-RU,calendar,calendar_set,я недоступен с четырёх до шести вечера завтра отметь в моём календаре,calendar_remove,0.9391,0.0604,False
+7293,ru-RU,calendar,calendar_set,назначь часовую встречу на субботу,calendar_set,0.5059,0.5059,True
+7294,ru-RU,calendar,calendar_remove,убери встречу с григорием адамовым из моего календаря,calendar_set,0.2019,0.1184,False
+7295,ru-RU,calendar,calendar_remove,пожалуйста очисти мой календарь,calendar_remove,1.0,1.0,True
+7314,ru-RU,calendar,calendar_query,что на сегодня,weather_query,0.9728,0.0011,False
+7316,ru-RU,calendar,calendar_query,есть ли у меня какие-то встречи,recommendation_events,0.4455,0.0093,False
+7319,ru-RU,calendar,calendar_query,что происходит сегодня с двух до четырёх часов дня,datetime_query,0.7532,0.0295,False
+7353,ru-RU,email,email_query,просто скажи мне погоду на следующей неделе в сибири,weather_query,0.9914,0.0001,False
+7355,ru-RU,calendar,calendar_set,напомни мне проверить рагу в шесть часов,datetime_query,0.5739,0.0081,False
+7380,ru-RU,calendar,calendar_query,пожалуйста покажи сегодняшнюю встречу с клиентами,recommendation_events,0.7717,0.0006,False
+7397,ru-RU,calendar,calendar_query,есть ли какие либо запланированные мероприятия на следующие три месяца,recommendation_events,0.4471,0.0187,False
+7449,ru-RU,calendar,calendar_set,запланируй пожалуйста встречу с этим человеком,email_sendemail,0.8991,0.0005,False
+7450,ru-RU,calendar,calendar_set,мне нужна в расписании встреча с этим человеком,social_post,0.3199,0.0162,False
+7455,ru-RU,calendar,calendar_set,напомни мне о вечеринке завтра,email_sendemail,0.275,0.0186,False
+7461,ru-RU,calendar,calendar_set,пригласи людей на событие в соответствии с календарём,calendar_remove,0.5089,0.3659,False
+7463,ru-RU,calendar,calendar_set,сообщи моей группе что дата новой встречи завтра,email_sendemail,0.9039,0.0005,False
+7467,ru-RU,calendar,calendar_query,дай мне время мероприятий,calendar_remove,0.5513,0.0066,False
+7477,ru-RU,calendar,calendar_set,напомни мне пятого марта каждого года устраивать подарки на годовщину свадьбы,calendar_set,0.2328,0.2328,True
+7496,ru-RU,calendar,calendar_query,есть ли у меня встречи сегодня,recommendation_events,0.69,0.0128,False
+7499,ru-RU,calendar,calendar_set,составь новое расписание для завтрашней встречи,calendar_set,0.6533,0.6533,True
+7500,ru-RU,calendar,calendar_remove,можешь удалить следующую запись,calendar_remove,0.8558,0.8558,True
+7502,ru-RU,calendar,calendar_query,что на повестке дня в четыре вечера встреча с антоном,social_post,0.2319,0.0469,False
+7503,ru-RU,calendar,calendar_query,где в москве та встреча в час дня в пятницу,weather_query,0.3994,0.0171,False
+7520,ru-RU,calendar,calendar_set,напоминай мне каждый день в два дня про обед,email_sendemail,0.9914,0.0001,False
+7524,ru-RU,calendar,calendar_query,сколько антон готов вложить в мою компанию на собрании которое состоится сегодня в пять двадцать вечера,qa_factoid,0.931,0.0016,False
+7528,ru-RU,calendar,calendar_set,тринадцатое июня день объявления результатов выборов пожалуйста установи напоминание,email_sendemail,0.9964,0.0005,False
+7531,ru-RU,calendar,calendar_set,добавь пожалуйста мои дни зарплат,datetime_query,0.7262,0.0034,False
+7539,ru-RU,calendar,calendar_query,у меня сейчас происходит что-нибудь,news_query,0.9748,0.0009,False
+7542,ru-RU,calendar,calendar_set,напомни мне пожалуйста об этом завтра,weather_query,0.431,0.0095,False
+7549,ru-RU,calendar,calendar_set,я хочу встречу до трёх часов дня,weather_query,0.9828,0.0002,False
+7556,ru-RU,calendar,calendar_set,установи в моём календаре напоминание покупать продукты каждую пятницу,calendar_set,0.9123,0.9123,True
+7557,ru-RU,calendar,calendar_set,установи уведомление о местоположении в календаре,calendar_remove,0.9725,0.0265,False
+7559,ru-RU,calendar,calendar_set,напомни мне сегодня забрать вещи из химчистки в восемь часов вечера,social_post,0.3813,0.0162,False
+7563,ru-RU,calendar,calendar_set,напомни мне о встрече завтра за один час до,email_sendemail,0.3469,0.0121,False
+7565,ru-RU,calendar,calendar_set,напоминание о встрече,email_sendemail,0.9951,0.0001,False
+7567,ru-RU,calendar,calendar_set,день рождение,play_radio,0.3171,0.0332,False
+7569,ru-RU,calendar,calendar_query,план на завтра,qa_factoid,0.1862,0.0185,False
+7570,ru-RU,calendar,calendar_query,какой сегодня план,qa_factoid,0.9558,0.0009,False
+7583,ru-RU,calendar,calendar_set,событие добавление приятелей в твой календарь,qa_factoid,0.8588,0.0,False
+7596,ru-RU,calendar,calendar_set,пожалуйста запланируй встречу с димой в чайхоне в полдень,calendar_remove,0.8032,0.0358,False
+7598,ru-RU,calendar,calendar_set,пожалуйста поставь встречу чтобы обсудить терроризм с василием в следующий доступный для встречи день,qa_factoid,0.6321,0.0725,False
+7606,ru-RU,calendar,calendar_set,встреча с павлом завтра в три,weather_query,0.3365,0.0113,False
+7609,ru-RU,calendar,calendar_remove,удали напоминание о встрече на вторник,email_sendemail,0.6779,0.0178,False
+7613,ru-RU,calendar,calendar_query,что там за предстоящее событие,qa_factoid,0.9186,0.0027,False
+7628,ru-RU,calendar,calendar_set,напомни мне когда я буду в библиотеке получить новый читательский билет,email_sendemail,0.9981,0.0,False
+7654,ru-RU,calendar,calendar_set,отметь двадцатое апреля как день рождения моего брата,email_sendemail,1.0,0.0,False
+7655,ru-RU,calendar,calendar_set,поставь напоминание на двадцатое апреля для дня рождения моего брата,social_post,0.75,0.0334,False
+7660,ru-RU,calendar,calendar_remove,отмени все мои встречи после трёх часов дня сегодня и сообщи мне подробности,email_sendemail,0.8388,0.1166,False
+7662,ru-RU,calendar,calendar_query,можешь перечислить мои встречи на сегодня,recommendation_events,0.9774,0.0028,False
+7664,ru-RU,calendar,calendar_set,добавь обед с михаилом,cooking_recipe,0.9992,0.0,False
+7666,ru-RU,calendar,calendar_set,отметишь что у меня встреча с андреем в три завтра,weather_query,0.9763,0.0002,False
+7680,ru-RU,calendar,calendar_remove,удали в моем календаре все мероприятия по гольфу за текущий месяц,calendar_remove,0.9218,0.9218,True
+7686,ru-RU,calendar,calendar_set,включи михаила и василия в праздничный календарь,calendar_set,0.9995,0.9995,True
+7690,ru-RU,calendar,calendar_query,что мне предстоит,cooking_recipe,0.43,0.0132,False
+7693,ru-RU,calendar,calendar_query,у меня есть какие то планы на двадцать первое,qa_factoid,0.8946,0.0009,False
+7697,ru-RU,calendar,calendar_set,установи напоминание об этом,email_sendemail,0.9684,0.0005,False
+7711,ru-RU,calendar,calendar_set,эй отмени все мои другие встречи и звонки на второе марта потому что это женин день рождения пометь его как событие в своём календаре,calendar_remove,0.9963,0.0001,False
+7712,ru-RU,calendar,calendar_set,эй olly отмени все мои встречи и звонки на второе марта потому что это день рождения дмитрия это запись в моем календаре,calendar_remove,0.9999,0.0,False
+7718,ru-RU,calendar,calendar_set,эй отправь приглашение на встречу господину иванову на встречу в эту пятницу и заблокируй мой календарь на день пятницы,calendar_remove,0.9999,0.0,False
+7726,ru-RU,calendar,calendar_set,мне нужно что нибудь делать каждый понедельник установи напоминание об этом,social_post,0.3503,0.0776,False
+7730,ru-RU,calendar,calendar_set,мне нужно чтобы ты отметил следующий понедельник,email_sendemail,0.8961,0.0003,False
+7741,ru-RU,calendar,calendar_remove,очисти мой календарь на субботу,calendar_remove,1.0,1.0,True
+7751,ru-RU,calendar,calendar_set,напоминай мне каждый понедельник выбрасывать мусор,calendar_remove,0.7907,0.0103,False
+7762,ru-RU,calendar,calendar_query,какие у меня есть напоминания,news_query,0.7821,0.0046,False
+7767,ru-RU,calendar,calendar_set,добавь практику в календаре на четвертое февраля в парке зарядье в два часа дня,calendar_set,0.8308,0.8308,True
+7768,ru-RU,calendar,calendar_set,добавь пожалуйста тренировку на четвертое февраля в парке юсупова в два часа дня,iot_hue_lightoff,0.5814,0.1194,False
+7774,ru-RU,calendar,calendar_set,добавь покупки в мой календарь на завтра,calendar_set,0.9919,0.9919,True
+7777,ru-RU,calendar,calendar_query,у меня сегодня есть какая-то встреча,social_post,0.9287,0.003,False
+7778,ru-RU,calendar,calendar_set,напомни мне что я делаю в воскресенье днём,weather_query,0.7267,0.0014,False
+7808,ru-RU,calendar,calendar_set,напомни мне я веду маму к парикмахеру в четверг в одиннадцать утра,weather_query,0.4969,0.0201,False
+7817,ru-RU,calendar,calendar_query,правда ли это про эту дату,qa_factoid,0.9998,0.0,False
+7820,ru-RU,calendar,calendar_remove,удали все события в календаре,calendar_remove,0.9996,0.9996,True
+7836,ru-RU,calendar,calendar_remove,удали все события,calendar_remove,0.6831,0.6831,True
+7843,ru-RU,calendar,calendar_set,дай мне знать через два часа что я должен закончить урок скрипки в музыкальной школе в четыре часа вечера,datetime_query,0.3528,0.0455,False
+7844,ru-RU,calendar,calendar_query,какие напоминания я установил,recommendation_events,0.2595,0.014,False
+7847,ru-RU,calendar,calendar_set,предупреди меня когда откроется регистрация,qa_factoid,0.7848,0.0046,False
+7851,ru-RU,calendar,calendar_set,у меня встреча в полдень сегодня,weather_query,0.9081,0.0039,False
+7863,ru-RU,calendar,calendar_set,напомни мне начать ужин во второй половине дня в пять,cooking_recipe,0.9519,0.0056,False
+7870,ru-RU,calendar,calendar_remove,удали событие из календаря,calendar_remove,0.844,0.844,True
+7876,ru-RU,news,news_query,что происходило два последних месяца,news_query,0.9333,0.9333,True
+7878,ru-RU,calendar,calendar_remove,сотри мой календарь,calendar_remove,0.9179,0.9179,True
+7879,ru-RU,calendar,calendar_query,какие мои следующие три события,recommendation_events,0.2254,0.0296,False
+7889,ru-RU,calendar,calendar_query,в какое время будет футбольный матч сегодня вечером,weather_query,0.7311,0.0243,False
+7890,ru-RU,calendar,calendar_remove,удали стрижку на сегодня,lists_remove,0.6134,0.0628,False
+7891,ru-RU,calendar,calendar_remove,отмени ужин сегодня вечером,iot_hue_lightoff,0.5204,0.0063,False
+7892,ru-RU,calendar,calendar_remove,удали следующее событие сегодня,iot_hue_lightoff,0.3776,0.0812,False
+7894,ru-RU,calendar,calendar_set,сообщи мне последние новости о выборах через час,news_query,0.6851,0.0039,False
+7902,ru-RU,calendar,calendar_set,поставь встречу со мной и димой в два часа дня завтра,social_post,0.9794,0.0003,False
+7908,ru-RU,calendar,calendar_query,должен ли я что-нибудь сделать сегодня,cooking_recipe,0.6518,0.0113,False
+7912,ru-RU,calendar,calendar_remove,алекса удали обед с михаилом из моего календаря,calendar_remove,0.9952,0.9952,True
+7916,ru-RU,calendar,calendar_set,напомни мне вынести мусор в шесть часов вечера,weather_query,0.9528,0.0021,False
+7918,ru-RU,calendar,calendar_set,в календарь событие пригласить сашу иванова,qa_factoid,0.8379,0.0396,False
+7919,ru-RU,calendar,calendar_set,новая встреча добавь павла и анжелику в участники,iot_hue_lightoff,0.9986,0.0,False
+7922,ru-RU,calendar,calendar_remove,открой задачи удали будущие события,iot_hue_lightoff,0.4314,0.3707,False
+7927,ru-RU,calendar,calendar_query,что я должен сделать на этой неделе,cooking_recipe,0.7915,0.0114,False
+7946,ru-RU,calendar,calendar_query,какие ближайшие концерты в москве,play_music,0.8001,0.0032,False
+7953,ru-RU,calendar,calendar_remove,удали мою запись с моим врачом в субботу пожалуйста,calendar_remove,0.7755,0.7755,True
+7955,ru-RU,calendar,calendar_set,поставь это событие в режим повтора в моем календаре,iot_hue_lightoff,0.9857,0.0086,False
+7956,ru-RU,calendar,calendar_set,можешь сделать это событие повторяющимся,iot_hue_lightoff,0.9835,0.0001,False
+7966,ru-RU,calendar,calendar_query,просил ли я тебя напомнить о чём-то,email_sendemail,0.9875,0.0001,False
+7970,ru-RU,calendar,calendar_set,напомни мне о свадьбе вовремя чтобы купить подарок,email_sendemail,0.9917,0.0001,False
+7971,ru-RU,calendar,calendar_set,установи уведомление за два дня до мероприятия,email_sendemail,0.9923,0.0,False
+7975,ru-RU,calendar,calendar_query,есть ли на мероприятии услуги парковщика,recommendation_events,0.4021,0.0137,False
+7978,ru-RU,calendar,calendar_query,какие напоминания у меня установлены на завтра до полудня,email_sendemail,0.3016,0.0194,False
+7980,ru-RU,calendar,calendar_set,скажи когда у меня мероприятие,datetime_query,0.9546,0.0017,False
+7981,ru-RU,calendar,calendar_set,отправь мне уведомление перед встречей,email_sendemail,1.0,0.0,False
+7993,ru-RU,calendar,calendar_remove,удали все записи в моём календаре,calendar_remove,0.9955,0.9955,True
+8001,ru-RU,calendar,calendar_remove,можешь удалить запись на стрижку которую я запланировал на пятницу,calendar_remove,0.8355,0.8355,True
+8004,ru-RU,calendar,calendar_set,нина хочет поговорить о разводе ты можешь добавить встречу как можно раньше,email_sendemail,0.2213,0.0135,False
+8005,ru-RU,calendar,calendar_set,в понедельник двадцатого мне нужно поговорить с георгием о нашей поездке на выходные,social_post,0.5998,0.0093,False
+8013,ru-RU,calendar,calendar_query,покажи мою встречу на следующий месяц,social_post,0.8463,0.0004,False
+8029,ru-RU,calendar,calendar_query,какие события произойдут сегодня,news_query,0.9916,0.0003,False
+8033,ru-RU,datetime,datetime_query,на какой день выпадает пасха,datetime_query,0.4053,0.4053,True
+8035,ru-RU,calendar,calendar_set,напомни мне что нужно поменять масло,email_sendemail,0.9984,0.0001,False
+8037,ru-RU,calendar,calendar_set,напомни мне о чём-то когда-то,email_sendemail,0.9992,0.0,False
+8042,ru-RU,calendar,calendar_query,сколько человек придут на мою следующую встречу,social_post,0.661,0.0061,False
+8043,ru-RU,calendar,calendar_query,во сколько у меня следующая встреча,qa_factoid,0.9986,0.0001,False
+8044,ru-RU,calendar,calendar_query,каково моё расписание на сегодня,calendar_remove,0.9665,0.0173,False
+8055,ru-RU,calendar,calendar_remove,удали мой приём на седьмое марта,qa_factoid,0.3754,0.1065,False
+8056,ru-RU,calendar,calendar_query,есть ли у меня свидание в пятницу,social_post,0.3269,0.0182,False
+8058,ru-RU,calendar,calendar_query,есть ли у меня сегодня совещание по продажам,recommendation_events,0.8523,0.0066,False
+8073,ru-RU,calendar,calendar_set,запланировать совещание по продажам на среду в одиннадцать утра,calendar_set,0.6281,0.6281,True
+8079,ru-RU,calendar,calendar_set,поставь напоминание через час когда мой хлеб испечётся,cooking_recipe,0.9996,0.0,False
+8084,ru-RU,calendar,calendar_query,какая программа мероприятия,cooking_recipe,0.9989,0.0,False
+8085,ru-RU,calendar,calendar_set,я бы хотел назначить дату на эту неделю,calendar_set,0.9229,0.9229,True
+8100,ru-RU,email,email_sendemail,отправь и-мейл мои встречи надо перенести,email_sendemail,1.0,1.0,True
+8107,ru-RU,calendar,calendar_set,поставь уведомление о дне рождения филиппа,email_sendemail,0.689,0.0004,False
+8110,ru-RU,calendar,calendar_set,пожалуйста добавь наблюдение в мой календарь,iot_hue_lightoff,0.8615,0.1262,False
+8116,ru-RU,calendar,calendar_query,какие встречи прошли в период между первым февраля и шестнадцатым марта,news_query,0.2697,0.0263,False
+8119,ru-RU,calendar,calendar_query,где проходит вечеринка по случаю машиного дня рождения,calendar_remove,0.1246,0.0365,False
+8125,ru-RU,calendar,calendar_set,создай в моём календаре событие встреча,qa_factoid,0.9049,0.0032,False
+8126,ru-RU,calendar,calendar_set,запланируй встречу в моём календаре,calendar_set,0.9719,0.9719,True
+8129,ru-RU,calendar,calendar_query,какие напоминания у меня еще есть,news_query,0.9675,0.0011,False
+8140,ru-RU,calendar,calendar_set,поставь напоминание на тринадцатое что у меня обед с алёной,social_post,0.9937,0.0001,False
+8148,ru-RU,calendar,calendar_query,оставлял ли я для себя какие-то напоминания,lists_remove,0.3436,0.0112,False
+8150,ru-RU,calendar,calendar_query,у меня есть какое-то напоминание о вечеринке по случаю дня рождения,email_sendemail,0.4748,0.019,False
+8165,ru-RU,calendar,calendar_query,у тебя встреча в двенадцать тридцать дня через десять минут,datetime_query,0.5806,0.0055,False
+8182,ru-RU,calendar,calendar_remove,можешь удалить приём у стоматолога,lists_remove,0.4181,0.245,False
+8188,ru-RU,calendar,calendar_query,какое сегодня число,datetime_query,0.9618,0.0003,False
+8204,ru-RU,calendar,calendar_set,пожалуйста напомни мне сходить на почту,email_sendemail,1.0,0.0,False
+8206,ru-RU,calendar,calendar_set,не дай мне забыть купить подарок моей сестре,lists_remove,0.8828,0.0029,False
+8230,ru-RU,calendar,calendar_query,как долго продлится моя встреча за обедом во вторник,email_sendemail,0.5448,0.0125,False
+8241,ru-RU,calendar,calendar_remove,почисти всё из моего календаря до конца года,calendar_remove,0.9996,0.9996,True
+8245,ru-RU,calendar,calendar_set,мне нужны уведомления о церковных службах по воскресеньям в одиннадцать утра,calendar_query,0.4106,0.3013,False
+8248,ru-RU,calendar,calendar_set,добавить дату завтрашнего ужина в календарь,calendar_set,0.9957,0.9957,True
+8251,ru-RU,calendar,calendar_set,мне нужно занести в календарь обед на следующей неделе,calendar_set,0.8132,0.8132,True
+8260,ru-RU,calendar,calendar_set,предупреди меня пожалуйста за день до дня рождения евгения,email_sendemail,0.979,0.0,False
+8261,ru-RU,calendar,calendar_set,отправь мне предупреждение за час до моей следующей встречи,email_sendemail,0.9029,0.001,False
+8269,ru-RU,calendar,calendar_set,напомни мне про встречу во вторник за тридцать минут,email_sendemail,0.8888,0.0039,False
+8276,ru-RU,calendar,calendar_remove,удали мою следующую встречу пожалуйста,recommendation_events,0.9896,0.0011,False
+8280,ru-RU,calendar,calendar_set,мне нужно поставить напоминание на пятнадцатое марта,calendar_set,0.8519,0.8519,True
+8284,ru-RU,calendar,calendar_remove,удали день рождения из календаря,calendar_remove,0.9699,0.9699,True
+8289,ru-RU,calendar,calendar_set,поставь напоминание про сегодняшнее собрание факультета на четыре,social_post,0.9434,0.0039,False
+8290,ru-RU,calendar,calendar_set,открой напоминание о собрании менеджеров на следующей неделе во вторник,recommendation_events,0.5161,0.0485,False
+8294,ru-RU,calendar,calendar_set,добавь в календарь и повтори,calendar_set,0.9981,0.9981,True
+8300,ru-RU,calendar,calendar_set,сохрани событие с пяти до шести часов вечера восемнадцатого марта,datetime_query,0.342,0.0336,False
+8302,ru-RU,calendar,calendar_remove,удали встречу в следующий понедельник,calendar_remove,0.4881,0.4881,True
+8308,ru-RU,news,news_query,против чего были протесты вчера в полдень на красной площади,social_post,0.5233,0.0975,False
+8336,ru-RU,calendar,calendar_query,когда у меня обед с сашей,cooking_recipe,0.9892,0.0001,False
+8343,ru-RU,datetime,datetime_query,это среда,qa_factoid,0.9849,0.0,False
+8345,ru-RU,calendar,calendar_set,дай мне знать когда состоится встреча,calendar_remove,0.7747,0.0226,False
+8347,ru-RU,calendar,calendar_query,что происходит четвертого декабря,datetime_query,0.577,0.0103,False
+8358,ru-RU,calendar,calendar_set,напомни мне об этом,iot_hue_lightoff,0.6865,0.0063,False
+8366,ru-RU,calendar,calendar_set,установи восемнадцатое марта как повторяющееся событие на день рождения пелагеи,qa_factoid,0.9871,0.0,False
+8387,ru-RU,calendar,calendar_set,создай напоминание для стирки в восемь вечера,social_post,0.3172,0.0819,False
+8388,ru-RU,calendar,calendar_set,я хочу заняться стиркой в восемь вечера создай напоминание,lists_remove,0.5154,0.0133,False
+8390,ru-RU,calendar,calendar_set,напомни мне о моей встрече в,email_sendemail,0.9932,0.0,False
+8394,ru-RU,calendar,calendar_set,установи ежедневное напоминание в полдень для приёма лекарства,calendar_remove,0.8381,0.0976,False
+8404,ru-RU,calendar,calendar_query,я хочу знать больше об этом событии,qa_factoid,0.7977,0.0,False
+8409,ru-RU,calendar,calendar_remove,удали мой ужин завтра,cooking_recipe,0.8311,0.0075,False
+8410,ru-RU,calendar,calendar_remove,удали мой ужин в понедельник,cooking_recipe,0.9679,0.0055,False
+8413,ru-RU,calendar,calendar_set,пожалуйста предупреди меня,qa_factoid,0.9941,0.0001,False
+8414,ru-RU,calendar,calendar_set,напомни мне пойти на ужин с павлом в пятницу в пять вечера,cooking_recipe,0.9853,0.0082,False
+8415,ru-RU,calendar,calendar_set,добавь встречу в офисе с василием на три часа дня во вторник,calendar_set,0.6817,0.6817,True
+8426,ru-RU,calendar,calendar_query,назови мне текущие события между вчера и утром сегодня,news_query,0.7693,0.0087,False
+8430,ru-RU,calendar,calendar_remove,отмени все мои встречи,email_sendemail,0.8173,0.06,False
+8431,ru-RU,calendar,calendar_remove,убери все мои запланированные события,calendar_set,0.5119,0.0702,False
+8436,ru-RU,calendar,calendar_set,запланируй пожалуйста встречу за обедом на двенадцать дня каждую среду марта,calendar_set,0.8494,0.8494,True
+8442,ru-RU,calendar,calendar_set,пожалуйста измени мой календарь с этим событием,calendar_remove,0.9999,0.0,False
+8449,ru-RU,calendar,calendar_set,установи напоминание на день рождения моей дочери,calendar_remove,0.8522,0.0023,False
+8453,ru-RU,calendar,calendar_set,пожалуйста поставь событие в мой календарь и отметь его как повторяющееся событие,calendar_set,0.9904,0.9904,True
+8460,ru-RU,calendar,calendar_query,покажи мои события,news_query,0.4137,0.014,False
+8461,ru-RU,calendar,calendar_query,какие у меня планы на май,calendar_set,0.3731,0.0426,False
+8466,ru-RU,calendar,calendar_set,у меня встреча в девять утра в среду пришли мне напоминание,weather_query,0.6107,0.0125,False
+8469,ru-RU,calendar,calendar_query,какое у меня расписание на сегодня,calendar_remove,0.9681,0.0189,False
+8474,ru-RU,calendar,calendar_set,добавь вечеринку в честь дня рождения тани на завтра в два часа дня на улице ленина сто двадцать три в мой календарь,calendar_set,0.9111,0.9111,True
+8494,ru-RU,calendar,calendar_query,как выглядит моё расписание сегодня,calendar_remove,0.9505,0.005,False
+8496,ru-RU,calendar,calendar_query,скажи какие у меня встречи завтра утром,play_podcasts,0.3125,0.0355,False
+8498,ru-RU,calendar,calendar_query,давай пройдемся по всем текущим напоминаниям,lists_remove,0.6351,0.0007,False
+8516,ru-RU,calendar,calendar_remove,сотри событие в календаре,calendar_set,0.4883,0.1374,False
+8520,ru-RU,calendar,calendar_set,добавь запись в приложение календарь,calendar_set,0.9998,0.9998,True
+8525,ru-RU,calendar,calendar_query,напоминания о встрече с трех до пяти,email_sendemail,0.9659,0.0007,False
+8535,ru-RU,calendar,calendar_set,не напомнишь ли мне о визите к стоматологу который у меня через два часа,recommendation_events,0.8711,0.0033,False
+8539,ru-RU,calendar,calendar_set,напомни мне о,qa_factoid,0.2649,0.0144,False
+8541,ru-RU,calendar,calendar_set,напомни мне пожалуйста,qa_factoid,0.1299,0.0309,False
+8553,ru-RU,calendar,calendar_set,добавь встречу в мой календарь на девять утра с тимуром,calendar_set,0.9484,0.9484,True
+8559,ru-RU,calendar,calendar_query,запланировано ли у меня что-нибудь на сегодня,weather_query,0.3009,0.0318,False
+8562,ru-RU,calendar,calendar_remove,удали мою встречу на два часа дня сегодня,weather_query,0.9427,0.0022,False
+8568,ru-RU,calendar,calendar_set,не могла бы ты отправить приглашение на поздний завтрак в календаре дмитрию и алисе в одиннадцать утра во вторник,calendar_remove,0.9995,0.0002,False
+8570,ru-RU,calendar,calendar_set,отметишь что я занят на мероприятии завтра в два часа дня,calendar_remove,0.2418,0.0654,False
+8579,ru-RU,calendar,calendar_query,какую информацию я должен знать для моей встречи сегодня,email_query,0.8391,0.0006,False
+8585,ru-RU,calendar,calendar_set,напомни мне что тринадцатого у меня вечеринка по случаю дня рождения,email_sendemail,0.9997,0.0,False
+8598,ru-RU,calendar,calendar_set,напомни мне забрать мишу из аэропорта в шесть вечера,weather_query,0.7851,0.0024,False
+8618,ru-RU,calendar,calendar_set,напомни мне поливать цветы каждый вторник четверг и субботу,email_sendemail,0.876,0.0105,False
+8631,ru-RU,calendar,calendar_remove,удали это из моего календаря,calendar_remove,0.9328,0.9328,True
+8635,ru-RU,calendar,calendar_set,можешь напомнить мне заказать индейку за три недели до дня благодарения,recommendation_events,0.6249,0.0009,False
+8640,ru-RU,calendar,calendar_set,я хочу отметить в своем календаре завтрашнее мероприятие в библиотеке,calendar_remove,0.8369,0.1298,False
+8642,ru-RU,calendar,calendar_set,добавь телеконференцию в четыре часа дня в мои напоминания на сегодня,play_podcasts,0.9038,0.0481,False
+8651,ru-RU,calendar,calendar_set,напомни мне про событие в моём календаре,calendar_remove,0.6008,0.152,False
+8653,ru-RU,calendar,calendar_set,напомни мне о событии в моём календаре,calendar_remove,0.762,0.1499,False
+8666,ru-RU,calendar,calendar_remove,удали все события из моего календаря,calendar_remove,0.9768,0.9768,True
+8667,ru-RU,calendar,calendar_query,как много встреч с господином ивановым у меня было в последние три месяца,social_post,0.9923,0.0002,False
+8670,ru-RU,calendar,calendar_remove,удали события из календаря,calendar_remove,0.9999,0.9999,True
+8672,ru-RU,calendar,calendar_query,где состоится концерт noize mc,play_music,0.6687,0.0034,False
+8674,ru-RU,calendar,calendar_query,где состоится моя встреча в девять утра,weather_query,0.972,0.0064,False
+8679,ru-RU,calendar,calendar_query,день святого патрика сегодня,qa_factoid,0.9864,0.0012,False
+8681,ru-RU,calendar,calendar_query,есть у кого-нибудь день рождения,datetime_query,0.2419,0.0249,False
+8694,ru-RU,calendar,calendar_set,на мероприятии будут инна и геннадий,social_post,0.962,0.0004,False
+8730,ru-RU,calendar,calendar_set,пожалуйста установи напоминание в моем календаре на мою встречу двадцать пятого марта,calendar_remove,0.746,0.2513,False
+8732,ru-RU,calendar,calendar_remove,удали все даты,datetime_query,0.573,0.0874,False
+8762,ru-RU,calendar,calendar_query,скажи мне мое расписание на сегодня после полудня,calendar_query,0.7825,0.7825,True
+8765,ru-RU,calendar,calendar_set,внеси мой ужин в тануки в календарь сегодня в девять,calendar_remove,0.9013,0.0257,False
+8766,ru-RU,calendar,calendar_query,у меня есть встреча в субботу двадцать пятого марта,social_post,0.9918,0.0004,False
+8767,ru-RU,calendar,calendar_query,анин день рождения двенадцатого апреля,datetime_query,0.8585,0.0057,False
+8769,ru-RU,calendar,calendar_remove,удали предстоящую запись,calendar_remove,0.8902,0.8902,True
+8771,ru-RU,calendar,calendar_remove,удали запланированный мной поход в магазин на двадцать третье марта,recommendation_events,0.8239,0.0062,False
+8774,ru-RU,calendar,calendar_query,моё расписание на седьмое июля полностью открыто,calendar_remove,0.544,0.4294,False
+8781,ru-RU,calendar,calendar_query,я свободен в четыре часа дня,weather_query,0.9882,0.0011,False
+8782,ru-RU,calendar,calendar_query,у меня есть встреча сегодня днём,social_post,0.961,0.0018,False
+8791,ru-RU,calendar,calendar_query,больше информации об этом событии,qa_factoid,0.9623,0.0001,False
+8795,ru-RU,calendar,calendar_query,открой напоминания,recommendation_events,0.403,0.004,False
+8822,ru-RU,recommendation,recommendation_events,информация о предстоящих мероприятиях,recommendation_events,0.4084,0.4084,True
+8824,ru-RU,calendar,calendar_query,что у меня по расписанию на девятнадцатое в два часа дня,datetime_query,0.3509,0.0732,False
+8825,ru-RU,calendar,calendar_set,пришли мне напоминание о встрече с виталием в следующую пятницу,email_sendemail,0.5264,0.0167,False
+8828,ru-RU,calendar,calendar_query,верно ли событие в календаре,qa_factoid,0.9983,0.0004,False
+8846,ru-RU,calendar,calendar_query,у меня что-то запланировано на четвертое июля этого года,qa_factoid,0.4,0.0156,False
+8853,ru-RU,calendar,calendar_remove,очисти моё следующее действие,cooking_recipe,0.8974,0.0141,False
+8856,ru-RU,calendar,calendar_remove,удали все записи из календаря,calendar_remove,0.9994,0.9994,True
+8857,ru-RU,calendar,calendar_set,напомни о предстоящей встрече с павлом,email_sendemail,0.8596,0.006,False
+8868,ru-RU,calendar,calendar_set,напомни мне звонить маме каждый вторник в десять утра,email_sendemail,0.954,0.0024,False
+8880,ru-RU,calendar,calendar_set,поставь напоминание о завтрашней встрече в девять утра,social_post,0.8937,0.0162,False
+8888,ru-RU,calendar,calendar_remove,удали это,qa_factoid,0.9786,0.0007,False
+8900,ru-RU,calendar,calendar_set,установи повторяющееся напоминание на каждое воскресенье,calendar_remove,0.9811,0.0007,False
+8904,ru-RU,calendar,calendar_query,информация о недавних событиях,news_query,0.8103,0.0047,False
+8906,ru-RU,calendar,calendar_set,установи дату события в календаре вместе с другими,datetime_query,0.4645,0.4296,False
+8907,ru-RU,calendar,calendar_set,пометь событие в календаре вместе с другими,calendar_set,0.8319,0.8319,True
+8912,ru-RU,calendar,calendar_query,покажи мне сегодняшние события в календаре после шести вечера,calendar_query,0.8065,0.8065,True
+8914,ru-RU,calendar,calendar_query,во сколько моя встреча четвёртого апреля,qa_factoid,0.5421,0.0101,False
+8916,ru-RU,calendar,calendar_query,какое у меня расписание на день,calendar_query,0.5467,0.5467,True
+8925,ru-RU,calendar,calendar_remove,удалить все события в моём календаре,calendar_remove,1.0,1.0,True
+8939,ru-RU,calendar,calendar_set,ольгин праздник в преддверии рождения дочки,email_sendemail,0.9798,0.0012,False
+8948,ru-RU,calendar,calendar_set,создай событие для встречи с вовой,qa_factoid,0.9331,0.0001,False
+8949,ru-RU,calendar,calendar_remove,пожалуйста удали напоминание,calendar_remove,0.9065,0.9065,True
+8958,ru-RU,calendar,calendar_query,открой время встречи,datetime_query,0.2798,0.0334,False
+8960,ru-RU,calendar,calendar_set,я хочу чтобы ты создал оповещение на вечер о предстоящей встрече,social_post,0.7323,0.0111,False
+8967,ru-RU,calendar,calendar_set,напомни мне о дне рождения жены за два дня,email_sendemail,0.7437,0.0034,False
+8968,ru-RU,calendar,calendar_set,скажи мне что-нибудь о чём надо напомнить на этой неделе,email_sendemail,0.4674,0.0095,False
+8975,ru-RU,calendar,calendar_query,какая встреча запланирована на сегодня,qa_factoid,0.5438,0.0893,False
+8977,ru-RU,calendar,calendar_set,поставь мне напоминания о предстоящих платежах,social_post,0.9804,0.0009,False
+8978,ru-RU,calendar,calendar_set,дай мне знать про важные встречи с моим начальником на неделе,recommendation_events,0.4506,0.0162,False
+8985,ru-RU,calendar,calendar_remove,окей google удали день рождения саши из календаря,calendar_remove,0.9985,0.9985,True
+8990,ru-RU,calendar,calendar_set,создай событие,qa_factoid,0.9495,0.0001,False
+8992,ru-RU,calendar,calendar_set,покажи встречи,social_post,0.7765,0.0038,False
+9009,ru-RU,calendar,calendar_remove,удали запись о годовщине из моего календаря,calendar_remove,0.9807,0.9807,True
+9011,ru-RU,calendar,calendar_query,правда ли что день благодарения четырнадцатого в этом месяце,qa_factoid,0.8686,0.005,False
+9014,ru-RU,calendar,calendar_set,пожалуйста установи оповещение на двадцать третье октября о встрече с моим коллегой,email_sendemail,0.5941,0.0003,False
+9015,ru-RU,calendar,calendar_remove,очисти все события в моём календаре,calendar_remove,0.9958,0.9958,True
+9019,ru-RU,calendar,calendar_query,встречи с двадцатого по двадцать пятое июня,email_sendemail,0.9284,0.002,False
+9030,ru-RU,calendar,calendar_remove,удали из календаря мой прием у врача на сегодня,calendar_remove,0.9999,0.9999,True
+9035,ru-RU,calendar,calendar_query,василий свадьба напоминание,email_sendemail,0.7396,0.0072,False
+9043,ru-RU,calendar,calendar_set,предстоящие события в календаре,calendar_set,0.9349,0.9349,True
+9053,ru-RU,calendar,calendar_set,установи напоминание о событие встреча с мариной во вторник,email_sendemail,0.9942,0.0001,False
+9054,ru-RU,calendar,calendar_set,напоминание о событии гала вторник,email_sendemail,0.6638,0.0032,False
+9059,ru-RU,calendar,calendar_set,уведоми меня во время события,datetime_query,0.3463,0.0092,False
+9061,ru-RU,calendar,calendar_query,что у меня в напоминаниях,lists_query,0.2494,0.0101,False
+9062,ru-RU,calendar,calendar_set,можешь записать день рождения сергея на двадцать второе июня,email_sendemail,0.3749,0.1435,False
+9074,ru-RU,calendar,calendar_remove,пожалуйста удали это событие,calendar_remove,0.825,0.825,True
+9088,ru-RU,calendar,calendar_remove,сотри всё в моём календаре,calendar_set,0.9295,0.0038,False
+9095,ru-RU,calendar,calendar_remove,удали сегодняшний ужин с сашей,cooking_recipe,0.886,0.0087,False
+9103,ru-RU,calendar,calendar_query,есть ли встреча в моём календаре сегодня днём,calendar_query,0.4658,0.4658,True
+9107,ru-RU,calendar,calendar_query,в какое время начинается концерт димы билана третьего июня,play_music,0.8926,0.0006,False
+9110,ru-RU,calendar,calendar_set,широкомасштабная выставка две тысячи семнадцать двадцать пятого марта сделай пометку об этом на соответствующую дату,datetime_query,0.6308,0.039,False
+9112,ru-RU,calendar,calendar_set,добавь это в мой календарь,calendar_set,0.9975,0.9975,True
+9114,ru-RU,calendar,calendar_set,сделай повторяющееся напоминание для этого события в календаре,calendar_remove,0.857,0.1359,False
+9116,ru-RU,calendar,calendar_query,ты не мог бы перенести мою встречу,qa_factoid,0.9834,0.0002,False
+9121,ru-RU,calendar,calendar_query,какие дни я забронировал,calendar_set,0.5592,0.1929,False
+9124,ru-RU,calendar,calendar_set,покажи мне события в моём рабочем календаре на следующую неделю,news_query,0.5448,0.2274,False
+9137,ru-RU,calendar,calendar_query,в какое время между ланчем и обедом итальянское кафе закрыто,calendar_remove,0.4735,0.059,False
+9138,ru-RU,qa,qa_factoid,когда официально стартует суперкубок,qa_factoid,0.9817,0.9817,True
+9149,ru-RU,calendar,calendar_query,в какое время ожидается начало званого ужина в мясном клубе,weather_query,0.2905,0.0726,False
+9153,ru-RU,calendar,calendar_set,пожалуйста добавь в календарь ужин с машей на субботу,calendar_set,0.9978,0.9978,True
+9155,ru-RU,calendar,calendar_set,запиши пожалуйста на приём к стоматологу на пятницу в три,calendar_set,0.4371,0.4371,True
+9156,ru-RU,calendar,calendar_set,напомни,iot_hue_lightoff,0.4091,0.0156,False
+9175,ru-RU,calendar,calendar_query,были ли обновления в моём календаре за последние десять минут,calendar_remove,0.5179,0.4635,False
+9182,ru-RU,calendar,calendar_remove,отмени мои планы забрать родителей из аэропорта,transport_query,0.8804,0.0106,False
+9187,ru-RU,calendar,calendar_set,изучить клиентов которые придут на встречу,cooking_recipe,0.9465,0.0002,False
+9193,ru-RU,calendar,calendar_set,установи пожалуйста эту дату чтобы повторить,calendar_remove,0.8343,0.0012,False
+9194,ru-RU,calendar,calendar_remove,пожалуйста удали это событие из моего календаря,calendar_remove,0.9999,0.9999,True
+9197,ru-RU,calendar,calendar_query,что я запланировал на эту неделю,lists_query,0.3267,0.0418,False
+9198,ru-RU,calendar,calendar_query,пожалуйста проверь мои напоминания,email_sendemail,0.6027,0.0074,False
+9202,ru-RU,play,play_radio,включи мою радио станцию,play_radio,1.0,1.0,True
+9204,ru-RU,play,play_radio,вруби радио европа плюс,play_radio,1.0,1.0,True
+9212,ru-RU,play,play_radio,кто-нибудь включите радио,play_radio,1.0,1.0,True
+9216,ru-RU,play,play_radio,включи мою станцию,iot_hue_lightoff,0.997,0.0006,False
+9225,ru-RU,play,play_radio,можешь включить радио,play_radio,1.0,1.0,True
+9233,ru-RU,play,play_radio,открой pandora,cooking_recipe,0.9865,0.0002,False
+9236,ru-RU,play,play_radio,перейди на радиостанцию сто шесть и девять,play_radio,1.0,1.0,True
+9237,ru-RU,play,play_radio,включи радио сто семь и восемь,play_radio,1.0,1.0,True
+9250,ru-RU,play,play_radio,слушать радио,play_radio,1.0,1.0,True
+9254,ru-RU,play,play_radio,включи сто семь и восемь ф. м. русское радио,play_radio,1.0,1.0,True
+9263,ru-RU,play,play_radio,открой приложение радио,play_radio,1.0,1.0,True
+9269,ru-RU,play,play_radio,включи радио рекорд,play_radio,1.0,1.0,True
+9270,ru-RU,play,play_radio,просто воспроизведи шансон,play_radio,0.5894,0.5894,True
+9275,ru-RU,play,play_radio,только девятьсот девяносто девять ф. м. должно воспроизводиться по радио,play_radio,0.9976,0.9976,True
+9284,ru-RU,play,play_radio,вне зоны доступа,qa_factoid,0.9995,0.0,False
+9291,ru-RU,play,play_radio,включи,iot_hue_lightoff,0.6684,0.0001,False
+9301,ru-RU,play,play_radio,играй ф. м. радио,play_radio,0.9999,0.9999,True
+9303,ru-RU,play,play_radio,воспроизведи европу плюс,qa_factoid,0.915,0.0176,False
+9305,ru-RU,play,play_radio,настрой радио рекорд,play_radio,0.9987,0.9987,True
+9316,ru-RU,play,play_radio,включи радио ваня для меня,play_radio,1.0,1.0,True
+9317,ru-RU,play,play_radio,запусти радио радио рекорд,play_radio,1.0,1.0,True
+9321,ru-RU,play,play_radio,включи радио,play_radio,1.0,1.0,True
+9323,ru-RU,play,play_radio,включи pandora,iot_hue_lightoff,0.7564,0.0001,False
+9326,ru-RU,play,play_radio,включи пожалуйста радио рекорд прямо сейчас,play_radio,1.0,1.0,True
+9327,ru-RU,play,play_radio,пожалуйста отсканируй а. м. набери на радио прямо сейчас,play_radio,1.0,1.0,True
+9330,ru-RU,play,play_radio,включи,iot_hue_lightoff,0.6684,0.0001,False
+9341,ru-RU,play,play_radio,alexa поменяй радиостанцию,play_radio,0.9998,0.9998,True
+9352,ru-RU,play,play_radio,пожалуйста включи радио,play_radio,1.0,1.0,True
+9353,ru-RU,play,play_radio,включи музыку включи радио,play_music,0.9982,0.0017,False
+9358,ru-RU,play,play_radio,запусти радиоканал сто три точка четыре,play_radio,1.0,1.0,True
+9361,ru-RU,play,play_radio,слушать радио,play_radio,1.0,1.0,True
+9362,ru-RU,play,play_radio,каналы радио,play_radio,0.9532,0.9532,True
+9363,ru-RU,play,play_radio,давай воспроизведи хиты на радио,play_music,0.9534,0.0445,False
+9364,ru-RU,play,play_radio,включи музыкальные хиты,play_music,1.0,0.0,False
+9380,ru-RU,play,play_radio,я хочу чтобы ты перешел на радио вести f. m.,play_radio,0.9999,0.9999,True
+9384,ru-RU,play,play_radio,включи русское радио,play_radio,1.0,1.0,True
+9394,ru-RU,play,play_radio,эй олли включи радио,play_radio,1.0,1.0,True
+9402,ru-RU,play,play_radio,включи радиостанцию европа плюс,play_radio,1.0,1.0,True
+9406,ru-RU,play,play_radio,включи радиостанцию наше радио,play_radio,1.0,1.0,True
+9408,ru-RU,play,play_radio,включи радио,play_radio,1.0,1.0,True
+9426,ru-RU,play,play_radio,я хочу послушать станцию на которой играют русские народные песни,play_music,0.9996,0.0,False
+9438,ru-RU,play,play_radio,можешь поиграть рэп песни по радио,play_music,0.7223,0.2771,False
+9457,ru-RU,play,play_music,включи песню на берегу неба,play_music,1.0,1.0,True
+9460,ru-RU,play,play_music,воспроизведи хип хоп девяностых,play_music,0.9927,0.9927,True
+9471,ru-RU,play,play_radio,включи станцию с музыкой кантри,play_music,0.9996,0.0001,False
+9494,ru-RU,play,play_radio,включи пожалуйста f. m. станцию которая проигрывает поп песни,play_music,0.9936,0.0041,False
+9506,ru-RU,play,play_radio,olly давай послушаем европу плюс,play_music,0.9804,0.0073,False
+9507,ru-RU,play,play_radio,пожалуйста найди радиостанцию которая сейчас играет никиту джигурду,play_music,0.961,0.0386,False
+9519,ru-RU,play,play_radio,включи любую станцию поп ф м,iot_hue_lightoff,0.9804,0.0006,False
+9520,ru-RU,play,play_radio,включи последнюю радио трансляцию доктора кто,play_radio,1.0,1.0,True
+9524,ru-RU,play,play_radio,включи программу на радио зенит,play_radio,1.0,1.0,True
+9528,ru-RU,play,play_radio,включи европу плюс и воспроизведи на моих динамиках,iot_hue_lightoff,0.9987,0.0002,False
+9541,ru-RU,play,play_radio,воспроизведи песню выхода нет на радио,play_music,1.0,0.0,False
+9542,ru-RU,play,play_radio,дай мне послушать новости по радио,play_radio,1.0,1.0,True
+9545,ru-RU,play,play_radio,хочу послушать шоу встреча с песней,play_music,0.9904,0.0,False
+9554,ru-RU,play,play_radio,играй романтическую музыку по радио рекорд,play_music,0.9999,0.0001,False
+9561,ru-RU,play,play_radio,играй европу плюс по радио,play_radio,0.7378,0.7378,True
+9562,ru-RU,play,play_radio,можешь пожалуйста воспроизвести эту программу для меня,cooking_recipe,0.9648,0.0096,False
+9565,ru-RU,play,play_radio,играй песни на радио без остановки,play_music,0.8233,0.1757,False
+9568,ru-RU,play,play_radio,включи серию живых концертов клавы коки,play_music,0.9378,0.0006,False
+9569,ru-RU,play,play_radio,окей google воспроизведи европу плюс,qa_factoid,0.6918,0.0851,False
+9577,ru-RU,play,play_radio,смени станцию на сто семь и восемь,calendar_remove,0.2986,0.2521,False
+9591,ru-RU,play,play_radio,включи утреннее шоу на европе плюс,play_radio,0.3625,0.3625,True
+9592,ru-RU,play,play_podcasts,найди подкаст посвященный мужским проблемам,play_podcasts,1.0,1.0,True
+9594,ru-RU,play,play_radio,песни сто семь и восемь ф. м.,play_music,0.9998,0.0,False
+9601,ru-RU,play,play_radio,включи радио дача,play_radio,1.0,1.0,True
+9617,ru-RU,play,play_radio,поставь мне сегодняшнее утреннее шоу со сто один и девять,play_podcasts,1.0,0.0,False
+9619,ru-RU,play,play_radio,включи компаньон в прериях по радио в машине,play_radio,0.9988,0.9988,True
+9620,ru-RU,play,play_radio,могу я послушать равные среди первых по радио в спальне,play_radio,0.9468,0.9468,True
+9629,ru-RU,play,play_radio,можешь помочь мне в прослушивании радио,play_radio,1.0,1.0,True
+9630,ru-RU,play,play_radio,включи радио маяк,play_radio,1.0,1.0,True
+9632,ru-RU,play,play_radio,радио пожалуйста,play_radio,1.0,1.0,True
+9637,ru-RU,play,play_radio,запусти мой плейлист в i heart radio,play_radio,1.0,1.0,True
+9640,ru-RU,play,play_radio,открой spotify и открой workout,play_podcasts,0.7875,0.0057,False
+9651,ru-RU,play,play_radio,включи кинопоиск на моей p. s. четыре,play_radio,0.9642,0.9642,True
+9656,ru-RU,play,play_music,включи мне бодрую песню через колонки,play_music,1.0,1.0,True
+9706,ru-RU,play,play_music,запусти в лесу родилась елочка,play_radio,0.7017,0.1689,False
+9707,ru-RU,play,play_music,открой сайт с музыкой и включи в лесу родилась ёлочка,play_music,0.9995,0.9995,True
+9738,ru-RU,play,play_music,можешь включить классическую музыку для меня,play_music,1.0,1.0,True
+9793,ru-RU,play,play_music,включи романтические песни,play_music,0.9999,0.9999,True
+9795,ru-RU,play,play_music,продолжить рожден чтобы бежать,qa_factoid,0.817,0.0054,False
+9912,ru-RU,cooking,cooking_recipe,олли сколько варить яйца,cooking_recipe,1.0,1.0,True
+9918,ru-RU,cooking,cooking_recipe,как приготовить пиццу,cooking_recipe,1.0,1.0,True
+9923,ru-RU,cooking,cooking_recipe,сколько варить яйца,cooking_recipe,1.0,1.0,True
+9924,ru-RU,cooking,cooking_recipe,расскажи рецепт,cooking_recipe,1.0,1.0,True
+9930,ru-RU,cooking,cooking_recipe,сколько варить яйца,cooking_recipe,1.0,1.0,True
+9931,ru-RU,cooking,cooking_recipe,олли сколько нужно варить яйцо,cooking_recipe,1.0,1.0,True
+9940,ru-RU,cooking,cooking_recipe,найди рецепт шоколадного торта,cooking_recipe,1.0,1.0,True
+9941,ru-RU,cooking,cooking_recipe,как приготовить цыпленка в масле,cooking_recipe,1.0,1.0,True
+9942,ru-RU,cooking,cooking_recipe,какие продукты нужны для приготовления торта красный бархат,cooking_recipe,0.9999,0.9999,True
+9943,ru-RU,cooking,cooking_recipe,сколько готовится овощная лазанья,cooking_recipe,1.0,1.0,True
+9952,ru-RU,cooking,cooking_recipe,дай мне урок по кулинарии,cooking_recipe,0.9987,0.9987,True
+9955,ru-RU,cooking,cooking_recipe,покажи мне видео для приготовления жареной курицы,cooking_recipe,1.0,1.0,True
+9956,ru-RU,cooking,cooking_recipe,чем я могу заменить сливочное масло,qa_factoid,0.6426,0.2534,False
+9961,ru-RU,cooking,cooking_recipe,при какой температуре лучше запекать картошку в духовке,cooking_recipe,0.9999,0.9999,True
+9962,ru-RU,cooking,cooking_recipe,какой лучший способ приготовить макароны al dente,cooking_recipe,1.0,1.0,True
+9964,ru-RU,cooking,cooking_recipe,знание пищевой промышленности,cooking_recipe,0.5208,0.5208,True
+9966,ru-RU,cooking,cooking_recipe,какой самый простой способ приготовить пасту,cooking_recipe,1.0,1.0,True
+9969,ru-RU,cooking,cooking_recipe,что можно использовать вместо шафрана,cooking_recipe,0.774,0.774,True
+9971,ru-RU,cooking,cooking_recipe,какие кастрюли лучше проводят тепло с медным дном или чугунным,cooking_recipe,0.3531,0.3531,True
+9976,ru-RU,cooking,cooking_recipe,эй робот покажи список ингредиентов для чесночных гренок,cooking_recipe,0.9999,0.9999,True
+9977,ru-RU,cooking,cooking_recipe,пожалуйста поищи в интернете и покажи видео на youtube где готовят блюда русской кухни,cooking_recipe,0.9999,0.9999,True
+9979,ru-RU,cooking,cooking_recipe,приготовь мне немного хлопьев,cooking_recipe,0.999,0.999,True
+9980,ru-RU,cooking,cooking_recipe,что сегодня в меню добавь еще туда вареные овощи,cooking_recipe,0.8842,0.8842,True
+9986,ru-RU,cooking,cooking_recipe,варка,cooking_recipe,0.6396,0.6396,True
+9994,ru-RU,cooking,cooking_recipe,можешь сказать мне рецепт овощного карри,cooking_recipe,1.0,1.0,True
+10016,ru-RU,cooking,cooking_recipe,инструкция по приготовлению селёдки под шубой в двух словах,cooking_recipe,1.0,1.0,True
+10019,ru-RU,cooking,cooking_recipe,пожалуйста скажи мне как испечь двенадцать овсяных печений,cooking_recipe,1.0,1.0,True
+10023,ru-RU,cooking,cooking_recipe,что нужно для приготовления жаркого из баранины,cooking_recipe,1.0,1.0,True
+10027,ru-RU,cooking,cooking_recipe,инструкции для приготовления еды,cooking_recipe,1.0,1.0,True
+10031,ru-RU,cooking,cooking_recipe,мне нужен рецепт из ингредиентов которые есть в моём списке покупок,cooking_recipe,1.0,1.0,True
+10038,ru-RU,cooking,cooking_recipe,что приготовить вкусное,cooking_recipe,1.0,1.0,True
+10045,ru-RU,cooking,cooking_recipe,можешь дать мне рецепт домашнего куриного супа с лапшой,cooking_recipe,1.0,1.0,True
+10048,ru-RU,cooking,cooking_recipe,как приготовить индейку,cooking_recipe,1.0,1.0,True
+10049,ru-RU,cooking,cooking_recipe,расскажи как приготовить бутерброд с сыром,cooking_recipe,1.0,1.0,True
+10053,ru-RU,cooking,cooking_recipe,как приготовить пиццу,cooking_recipe,1.0,1.0,True
+10055,ru-RU,cooking,cooking_recipe,найди рецепт жареной курицы,cooking_recipe,1.0,1.0,True
+10061,ru-RU,cooking,cooking_recipe,что приготовить на ужин,cooking_recipe,1.0,1.0,True
+10072,ru-RU,cooking,cooking_recipe,время запекания для курицы в духовке,cooking_recipe,1.0,1.0,True
+10076,ru-RU,cooking,cooking_recipe,можно использовать соду вместо разрыхлителя,iot_hue_lightoff,0.7754,0.049,False
+10077,ru-RU,cooking,cooking_recipe,найди рецепт на ужин на сегодня,cooking_recipe,1.0,1.0,True
+10078,ru-RU,cooking,cooking_recipe,что мне приготовить на ужин,cooking_recipe,1.0,1.0,True
+10080,ru-RU,cooking,cooking_recipe,давай вместе приготовим фрикадельки,cooking_recipe,0.9998,0.9998,True
+10081,ru-RU,cooking,cooking_recipe,скажи как готовить фрикадельки,cooking_recipe,1.0,1.0,True
+10090,ru-RU,cooking,cooking_recipe,найди рецепт приготовления трески,cooking_recipe,1.0,1.0,True
+10093,ru-RU,cooking,cooking_recipe,как приготовить лазанью,cooking_recipe,1.0,1.0,True
+10097,ru-RU,cooking,cooking_recipe,я бы хотела чизбургер,cooking_recipe,0.9924,0.9924,True
+10099,ru-RU,cooking,cooking_recipe,ты знаешь как готовить ризотто,cooking_recipe,1.0,1.0,True
+10100,ru-RU,cooking,cooking_recipe,ты знаешь рецепт ризотто,cooking_recipe,1.0,1.0,True
+10105,ru-RU,cooking,cooking_recipe,как долго нужно готовить стейк до степени средней прожарки,cooking_recipe,1.0,1.0,True
+10107,ru-RU,cooking,cooking_recipe,мне нужен рецепт риса с овощами,cooking_recipe,1.0,1.0,True
+10119,ru-RU,cooking,cooking_recipe,как долго готовить индейку весом семь килограмм,cooking_recipe,0.9999,0.9999,True
+10125,ru-RU,cooking,cooking_recipe,чем отличается запекание от жарки под грилем,cooking_recipe,0.9911,0.9911,True
+10132,ru-RU,cooking,cooking_recipe,сколько нужно готовить стейк для средней прожарки,cooking_recipe,0.9999,0.9999,True
+10150,ru-RU,cooking,cooking_recipe,как сделать шаурму,cooking_recipe,0.9994,0.9994,True
+10156,ru-RU,cooking,cooking_recipe,мне нужно знать как готовить фаршированные перцы,cooking_recipe,1.0,1.0,True
+10164,ru-RU,cooking,cooking_recipe,как долго готовить макароны,cooking_recipe,1.0,1.0,True
+10166,ru-RU,cooking,cooking_recipe,найди рецепт яблочный пирог,cooking_recipe,1.0,1.0,True
+10171,ru-RU,cooking,cooking_recipe,какой рецепт рыбного супа,cooking_recipe,1.0,1.0,True
+10177,ru-RU,cooking,cooking_recipe,как приготовить тыкву спагетти,cooking_recipe,1.0,1.0,True
+10182,ru-RU,cooking,cooking_recipe,сколько яиц нужно для приготовления омлета,cooking_recipe,1.0,1.0,True
+10197,ru-RU,cooking,cooking_recipe,покажи мне лучший рецепт приготовления спагетти,cooking_recipe,1.0,1.0,True
+10206,ru-RU,cooking,cooking_recipe,как готовить рис,cooking_recipe,0.9994,0.9994,True
+10213,ru-RU,cooking,cooking_recipe,подбери список самых популярных рецептов плова,cooking_recipe,1.0,1.0,True
+10214,ru-RU,cooking,cooking_recipe,рецепты которые можно приготовить в течении часа,cooking_recipe,1.0,1.0,True
+10216,ru-RU,cooking,cooking_recipe,поищи в интернете для покупки формочки для выпекания маффинов,cooking_recipe,0.9888,0.9888,True
+10217,ru-RU,cooking,cooking_recipe,найди рецепт шарлотки в приложении cookingforu,cooking_recipe,1.0,1.0,True
+10220,ru-RU,cooking,cooking_recipe,какие продукты нужны чтобы испечь большой торт,cooking_recipe,0.9999,0.9999,True
+10224,ru-RU,cooking,cooking_recipe,это должно быть вкусно,cooking_recipe,0.9997,0.9997,True
+10226,ru-RU,cooking,cooking_recipe,подскажи рецепт приготовления макарон,cooking_recipe,1.0,1.0,True
+10426,ru-RU,lists,lists_query,чего еще не хватает в дневнике,lists_remove,0.8516,0.038,False
+10427,ru-RU,lists,lists_remove,пожалуйста очистить мой список покупок,lists_remove,0.9953,0.9953,True
+10430,ru-RU,lists,lists_remove,удалить первый пункт в списке,lists_remove,0.7532,0.7532,True
+10433,ru-RU,lists,lists_remove,удали мой список задач,lists_remove,0.946,0.946,True
+10440,ru-RU,lists,lists_query,какие-нибудь особые события в моём списке,news_query,0.6877,0.0299,False
+10442,ru-RU,lists,lists_remove,удали события из моего списка,lists_remove,0.4989,0.4989,True
+10444,ru-RU,lists,lists_remove,удалить пункт,calendar_remove,0.6146,0.2736,False
+10451,ru-RU,lists,lists_query,что я собираюсь делать сегодня,cooking_recipe,0.9621,0.0046,False
+10455,ru-RU,lists,lists_query,что в моём списке дел,lists_query,0.3692,0.3692,True
+10462,ru-RU,lists,lists_remove,избавиться от списка,lists_remove,0.9999,0.9999,True
+10493,ru-RU,lists,lists_query,что в моём списке дела,cooking_recipe,0.567,0.0707,False
+10494,ru-RU,lists,lists_remove,снять карандаш из постоянного,cooking_recipe,0.8125,0.0205,False
+10497,ru-RU,qa,qa_factoid,можно мне список пятизвёздочных отелей в москве,lists_query,0.9908,0.0001,False
+10508,ru-RU,lists,lists_remove,удалить пункт из списка,lists_remove,0.9999,0.9999,True
+10512,ru-RU,lists,lists_query,перечислить всё что осталось по моему запросу,lists_query,0.6463,0.6463,True
+10523,ru-RU,lists,lists_remove,удалить из плейлиста список моих старых английских песен,lists_remove,0.9377,0.9377,True
+10525,ru-RU,lists,lists_remove,удалить мой платеж за машину из моего календаря,calendar_remove,0.9695,0.0103,False
+10527,ru-RU,lists,lists_remove,удалить список,lists_remove,0.9988,0.9988,True
+10534,ru-RU,lists,lists_query,как там мой список дел на сегодня,lists_query,0.6858,0.6858,True
+10538,ru-RU,lists,lists_query,пожалуйста повтори мой список покупок,lists_remove,0.7367,0.0511,False
+10565,ru-RU,lists,lists_remove,удалить все списки,lists_remove,0.9998,0.9998,True
+10568,ru-RU,lists,lists_remove,удалить список старая музыка,lists_remove,0.9872,0.9872,True
+10570,ru-RU,lists,lists_query,проверь мой список дел,email_query,0.5243,0.1173,False
+10571,ru-RU,lists,lists_query,андройд,play_radio,0.9951,0.0,False
+10577,ru-RU,lists,lists_query,дай мне все мои списки,lists_remove,0.5984,0.1881,False
+10579,ru-RU,lists,lists_remove,сбросить список моих местоположений,lists_remove,0.999,0.999,True
+10588,ru-RU,lists,lists_query,покажи мне содержание списка,lists_remove,0.721,0.2543,False
+10590,ru-RU,lists,lists_remove,удали вторую строку из списка,lists_remove,0.9996,0.9996,True
+10655,ru-RU,lists,lists_remove,убери мой список с названием время вечеринки,lists_remove,0.7811,0.7811,True
+10667,ru-RU,lists,lists_query,убери расписания из списка,lists_remove,0.9996,0.0001,False
+10673,ru-RU,lists,lists_remove,пожалуйста удали следующий список,lists_remove,0.9995,0.9995,True
+10674,ru-RU,lists,lists_remove,отправь в корзину текущий список,lists_remove,0.9995,0.9995,True
+10679,ru-RU,lists,lists_query,что в моём списке дел сегодня,news_query,0.5951,0.0435,False
+10684,ru-RU,lists,lists_query,какие списки я запрашивал,lists_remove,0.9711,0.0245,False
+10687,ru-RU,lists,lists_remove,если в событиях есть спектакль то удали его,calendar_remove,0.8047,0.0929,False
+10696,ru-RU,lists,lists_remove,заменить,qa_factoid,0.996,0.0001,False
+10699,ru-RU,lists,lists_query,сообщи мне какие пункты в списке,lists_query,0.9895,0.9895,True
+10718,ru-RU,lists,lists_remove,вы можете удалить этот пункт из списка,lists_remove,0.998,0.998,True
+10731,ru-RU,lists,lists_query,прочитай что в моём списке,lists_query,0.9551,0.9551,True
+10743,ru-RU,lists,lists_remove,удали этот пункт,calendar_remove,0.7184,0.1475,False
+10753,ru-RU,lists,lists_query,что я уже добавил в список перекрёсток,lists_remove,0.5362,0.0072,False
+10755,ru-RU,lists,lists_remove,удали мой список дел пожалуйста,lists_remove,0.9657,0.9657,True
+10756,ru-RU,lists,lists_remove,очисти список покупок,lists_remove,0.9983,0.9983,True
+10757,ru-RU,lists,lists_query,какие товары в моём списке покупок,lists_query,0.9936,0.9936,True
+10759,ru-RU,lists,lists_query,прочти мне мой список покупок,social_post,0.4638,0.0063,False
+10760,ru-RU,lists,lists_query,перечисли мне список который я написал два дня назад,email_sendemail,1.0,0.0,False
+10770,ru-RU,lists,lists_remove,убери мюсли из моего списка шопинг,recommendation_events,0.9946,0.0004,False
+10772,ru-RU,calendar,calendar_remove,удали приём у стоматолога из сегодняшнего расписания,lists_remove,0.2675,0.1168,False
+10776,ru-RU,lists,lists_query,есть ли у меня готовый список продуктов,lists_query,0.5658,0.5658,True
+10786,ru-RU,lists,lists_remove,очисти список дела на сегодня,cooking_recipe,0.9991,0.0001,False
+10790,ru-RU,lists,lists_remove,удали пункт из списка,lists_remove,0.9996,0.9996,True
+10804,ru-RU,lists,lists_query,прочитай мой список продуктов,recommendation_events,0.6777,0.2979,False
+10805,ru-RU,lists,lists_query,пожалуйста покажи мне список который у меня есть,lists_query,0.498,0.498,True
+10808,ru-RU,lists,lists_remove,удалить последний элемент в списке,lists_remove,0.8614,0.8614,True
+10824,ru-RU,lists,lists_remove,алиса очисти список,qa_factoid,0.9916,0.0023,False
+10825,ru-RU,lists,lists_remove,очисти список,lists_remove,0.9988,0.9988,True
+10827,ru-RU,lists,lists_remove,удали список продукты,lists_remove,0.9616,0.9616,True
+10828,ru-RU,lists,lists_remove,стереть всё,qa_factoid,0.9131,0.0021,False
+10832,ru-RU,calendar,calendar_query,olly что у меня запланировано дальше,email_query,0.3304,0.0072,False
+10843,ru-RU,lists,lists_remove,удалить молоко из моего списка продуктов,lists_remove,0.9778,0.9778,True
+10846,ru-RU,lists,lists_remove,у меня недостаточно денег чтобы купить nintendo switch прямо сейчас не могли бы вы удалить его из моего списка желаний amazon,qa_factoid,0.9516,0.0158,False
+10848,ru-RU,lists,lists_remove,удалить этот список из других,lists_remove,0.9865,0.9865,True
+10851,ru-RU,lists,lists_query,какие мне доступны списки,lists_query,0.9981,0.9981,True
+10853,ru-RU,lists,lists_remove,убери это оттуда,recommendation_events,0.5814,0.0016,False
+10855,ru-RU,lists,lists_query,нужно проверить мой список,lists_query,0.9911,0.9911,True
+10868,ru-RU,lists,lists_query,алиса что нибудь ещё осталось в списке,social_post,0.9816,0.0001,False
+10887,ru-RU,lists,lists_remove,удали мой список,lists_remove,0.9976,0.9976,True
+10895,ru-RU,lists,lists_remove,удалить пункт из моего списка,lists_remove,0.9976,0.9976,True
+10909,ru-RU,lists,lists_query,olly прочти мне мои списки,lists_remove,0.4339,0.2285,False
+10927,ru-RU,lists,lists_query,позвольте мне услышать мой список,lists_remove,0.923,0.0739,False
+10931,ru-RU,lists,lists_query,что в моём плейлисте,play_podcasts,0.3202,0.1909,False
+10936,ru-RU,lists,lists_remove,пожалуйста убери мой список любимых альбомов,lists_remove,0.8659,0.8659,True
+10954,ru-RU,lists,lists_query,сколько у меня списков в контактах,lists_query,0.9891,0.9891,True
+10956,ru-RU,lists,lists_query,какие группы указаны в моих контактах,lists_query,0.8472,0.8472,True
+10957,ru-RU,lists,lists_query,напомни мне сколько у меня списков,lists_remove,0.8566,0.0595,False
+10960,ru-RU,lists,lists_remove,вычеркни это из списка,lists_remove,0.999,0.999,True
+10970,ru-RU,lists,lists_remove,удалить последнюю фразу,calendar_remove,0.6127,0.2572,False
+10979,ru-RU,lists,lists_query,что в вашем списке прямо сейчас,lists_query,0.9292,0.9292,True
+10981,ru-RU,lists,lists_query,ознакомь меня со списком,email_sendemail,0.2437,0.0896,False
+10985,ru-RU,lists,lists_remove,удалить мои дела на эту неделю,calendar_remove,0.6505,0.2198,False
+10990,ru-RU,lists,lists_remove,у меня в списке дел убрать швабру на кухне,cooking_recipe,0.7035,0.2557,False
+10999,ru-RU,lists,lists_query,скажи список,lists_query,0.6985,0.6985,True
+11023,ru-RU,lists,lists_remove,удалить список покупок,lists_remove,0.9989,0.9989,True
+11024,ru-RU,lists,lists_remove,удалить список дел,lists_remove,0.9803,0.9803,True
+11053,ru-RU,lists,lists_remove,удали список google,lists_remove,0.4804,0.4804,True
+11075,ru-RU,lists,lists_query,сколько у меня списков,lists_query,0.9803,0.9803,True
+11081,ru-RU,lists,lists_query,какие списки в моём блокноте,lists_query,0.9831,0.9831,True
+11085,ru-RU,lists,lists_remove,убери молоко из списка покупок,lists_remove,0.5713,0.5713,True
+11098,ru-RU,lists,lists_remove,избавься от списка налогов тысяча девятьсот девяностого года,lists_remove,0.9745,0.9745,True
+11107,ru-RU,lists,lists_query,какой мой текущий список,lists_query,0.98,0.98,True
+11124,ru-RU,lists,lists_query,упорядочить пункты в моём рабочем списке,lists_remove,0.8509,0.0222,False
+11125,ru-RU,lists,lists_query,дайте мне детали заказа на покупку,qa_factoid,0.965,0.0054,False
+11133,ru-RU,lists,lists_remove,удалить список гостей который я создал на прошлой неделе,lists_remove,0.995,0.995,True
+11154,ru-RU,lists,lists_query,проверить последний список дел,recommendation_events,0.2926,0.209,False
+11162,ru-RU,lists,lists_remove,я хочу удалить яблоки из списка,lists_remove,0.9992,0.9992,True
+11164,ru-RU,lists,lists_remove,удалить из списка,lists_remove,0.9997,0.9997,True
+11166,ru-RU,lists,lists_query,открой google keep,iot_hue_lightoff,0.5324,0.0001,False
+11168,ru-RU,lists,lists_remove,удалить мой список,lists_remove,0.9988,0.9988,True
+11172,ru-RU,lists,lists_query,покажи мне все доступные списки,lists_query,0.9958,0.9958,True
+11174,ru-RU,lists,lists_query,вывести все списки на этом устройстве,lists_remove,0.9751,0.0121,False
+11180,ru-RU,calendar,calendar_query,моя тусовка запланирована,qa_factoid,0.7434,0.0035,False
+11186,ru-RU,lists,lists_query,у меня есть список одежды,lists_remove,0.7941,0.0313,False
+11189,ru-RU,lists,lists_query,найди этот список,lists_query,0.909,0.909,True
+11204,ru-RU,lists,lists_query,важная информация по дому,email_query,0.4183,0.1478,False
+11215,ru-RU,lists,lists_query,список,lists_query,0.8076,0.8076,True
+11250,ru-RU,lists,lists_query,перечитай мне мой список продуктов,lists_remove,0.8949,0.0068,False
+11257,ru-RU,play,play_podcasts,олли включи следующую запись,qa_factoid,0.8286,0.001,False
+11259,ru-RU,play,play_podcasts,перейти к следующему подкасту,play_podcasts,1.0,1.0,True
+11261,ru-RU,play,play_podcasts,следующий,qa_factoid,0.2578,0.0123,False
+11265,ru-RU,play,play_podcasts,включи следующий,iot_hue_lightoff,0.9984,0.0,False
+11266,ru-RU,play,play_podcasts,включи подкаст из моей библиотеки,play_podcasts,1.0,1.0,True
+11267,ru-RU,play,play_podcasts,найди интересный подкаст о диете,play_podcasts,0.9999,0.9999,True
+11270,ru-RU,play,play_podcasts,включи следующий подкаст,play_podcasts,0.9999,0.9999,True
+11272,ru-RU,play,play_podcasts,включи следующую,iot_hue_lightoff,0.9908,0.0,False
+11279,ru-RU,play,play_podcasts,перейди к подкасту и включи следующий эпизод в встрече с песней,play_podcasts,1.0,1.0,True
+11286,ru-RU,play,play_podcasts,включи подкаст виражи времени,play_podcasts,1.0,1.0,True
+11296,ru-RU,play,play_podcasts,загрузи все мои подкасты,play_podcasts,1.0,1.0,True
+11302,ru-RU,play,play_podcasts,включи подкаст сперва роди,play_podcasts,1.0,1.0,True
+11303,ru-RU,play,play_podcasts,включи следующий подкаст антиква,play_podcasts,1.0,1.0,True
+11306,ru-RU,play,play_podcasts,играть подкаст который я слушал вчера,play_podcasts,0.999,0.999,True
+11318,ru-RU,play,play_podcasts,включи следующий эпизод этого подкаста,play_podcasts,1.0,1.0,True
+11322,ru-RU,play,play_podcasts,какие сегодняшние топ подкасты,social_post,0.9996,0.0002,False
+11328,ru-RU,play,play_podcasts,воспроизведи подкаст простыми словами,play_podcasts,1.0,1.0,True
+11331,ru-RU,play,play_podcasts,покажи мне самый лучший подкаст о рок песнях имеющих хороший рейтинг,play_podcasts,0.8854,0.8854,True
+11335,ru-RU,play,play_music,перемешай и включи все медленные песни,play_music,0.9993,0.9993,True
+11339,ru-RU,play,play_podcasts,включи мой самый просматриваемый подкаст,play_podcasts,1.0,1.0,True
+11340,ru-RU,play,play_podcasts,есть ли у ани ковалевой новый подкаст,play_podcasts,1.0,1.0,True
+11341,ru-RU,play,play_podcasts,найди последний подкаст встреча с песней,play_podcasts,1.0,1.0,True
+11343,ru-RU,play,play_podcasts,перейти на следующий выпуск дело привычки,play_podcasts,0.2371,0.2371,True
+11345,ru-RU,play,play_podcasts,играть следующий эпизод подкаста,play_podcasts,1.0,1.0,True
+11349,ru-RU,play,play_podcasts,olly начни подкаст с того места где я начал прошлой ночью,play_podcasts,0.975,0.975,True
+11353,ru-RU,play,play_podcasts,покажи мне подкасты,play_podcasts,1.0,1.0,True
+11361,ru-RU,play,play_podcasts,это безумный мир подкаст включи его,play_music,0.6797,0.3201,False
+11366,ru-RU,play,play_podcasts,вернись к предыдущему эпизоду подкаста,play_podcasts,1.0,1.0,True
+11368,ru-RU,play,play_podcasts,воспроизведи подкаст ольги максимовой,play_podcasts,0.9951,0.9951,True
+11376,ru-RU,play,play_podcasts,хочу послушать подкаст,play_podcasts,1.0,1.0,True
+11384,ru-RU,play,play_podcasts,можешь ли ты пожалуйста скачать подкаст файл с интернета и включить его,play_podcasts,0.9999,0.9999,True
+11409,ru-RU,play,play_podcasts,пропусти следующий эпизод подкаста,play_podcasts,1.0,1.0,True
+11417,ru-RU,play,play_podcasts,запусти следующий выпуск,play_podcasts,0.5374,0.5374,True
+11418,ru-RU,play,play_podcasts,воспроизведи сергея кузнецова последний подкаст,play_podcasts,0.9868,0.9868,True
+11420,ru-RU,play,play_podcasts,включи мой последний подкаст,play_podcasts,0.9783,0.9783,True
+11423,ru-RU,play,play_podcasts,перемотай назад на тридцать секунд,qa_factoid,0.4842,0.0091,False
+11424,ru-RU,play,play_podcasts,книжный базар,qa_factoid,0.7645,0.0032,False
+11426,ru-RU,lists,lists_query,наиболее просматриваемый список,lists_query,0.9954,0.9954,True
+11427,ru-RU,play,play_podcasts,включи встречу с песней,play_music,0.7108,0.0006,False
+11437,ru-RU,play,play_podcasts,включи мне пожалуйста подкаст,play_podcasts,1.0,1.0,True
+11438,ru-RU,play,play_podcasts,пожалуйста перейди к следующему эпизоду подкаста,play_podcasts,1.0,1.0,True
+11442,ru-RU,play,play_podcasts,включи пожалуйста последний подкаст надя дорофеева,play_music,0.9784,0.0216,False
+11451,ru-RU,play,play_podcasts,хочу послушать новый выпуск подкаста встреча с песней,play_podcasts,1.0,1.0,True
+11453,ru-RU,play,play_podcasts,включи подкасты музыкальной литературы,play_podcasts,1.0,1.0,True
+11455,ru-RU,play,play_podcasts,перейди к следующему разделу,lists_remove,0.3266,0.0347,False
+11458,ru-RU,play,play_podcasts,перейти к следующему эпизоду подкаста,play_podcasts,1.0,1.0,True
+11459,ru-RU,play,play_podcasts,вернись к последнему выпуску этого подкаста,play_podcasts,0.9965,0.9965,True
+11460,ru-RU,play,play_podcasts,я хочу послушать спортивный подкаст,play_podcasts,1.0,1.0,True
+11467,ru-RU,play,play_podcasts,проиграй самый последний подкаст выходные на колесах,play_podcasts,0.9956,0.9956,True
+11470,ru-RU,play,play_podcasts,включи мой любимый подкаст,play_podcasts,0.999,0.999,True
+11474,ru-RU,play,play_podcasts,возобнови подкаст сериала,play_podcasts,1.0,1.0,True
+11476,ru-RU,play,play_podcasts,включи предыдущий подкаст,play_podcasts,1.0,1.0,True
+11483,ru-RU,play,play_podcasts,начни воспроизведение барочная практика,play_music,0.9693,0.0007,False
+11490,ru-RU,play,play_podcasts,включи следующую серию подкаста,play_podcasts,1.0,1.0,True
+11502,ru-RU,play,play_podcasts,следующая кнопка,lists_remove,0.2922,0.0251,False
+11505,ru-RU,play,play_podcasts,повтори мой последний подкаст,play_podcasts,0.9889,0.9889,True
+11514,ru-RU,play,play_podcasts,olly мы можем послушать подкаст чартова дюжина,play_podcasts,1.0,1.0,True
+11515,ru-RU,play,play_podcasts,давай послушаем подкаст политический дневник,play_podcasts,1.0,1.0,True
+11525,ru-RU,play,play_podcasts,хочу увидеть доступный следующий подкаст,play_podcasts,1.0,1.0,True
+11529,ru-RU,play,play_podcasts,эй включи мой любимый подкаст из списка,play_music,0.9884,0.0115,False
+11536,ru-RU,play,play_podcasts,добавь избранные подкасты в плейлист и включи его,play_podcasts,1.0,1.0,True
+11539,ru-RU,play,play_podcasts,запусти следующий подкаст,play_podcasts,1.0,1.0,True
+11546,ru-RU,play,play_podcasts,включи все подкасты великой кошачьей революции с предыдущей недели,play_podcasts,1.0,1.0,True
+11554,ru-RU,play,play_podcasts,хочу чтобы ты включила подкаст,play_music,0.7351,0.2648,False
+11563,ru-RU,recommendation,recommendation_events,чем можно заняться в москве,recommendation_events,0.4285,0.4285,True
+11570,ru-RU,recommendation,recommendation_events,что происходит в моём городе,social_post,0.6785,0.0094,False
+11582,ru-RU,recommendation,recommendation_events,происходит ли что-нибудь на джазовой сцене около эдинбурга,social_post,0.2135,0.0276,False
+11585,ru-RU,recommendation,recommendation_events,какие-то культурные события в ленинградской области,news_query,0.383,0.0508,False
+11598,ru-RU,recommendation,recommendation_events,пожалуйста дай мне знать про события выставки собак проходящие в моем родном городе,recommendation_events,0.5306,0.5306,True
+11600,ru-RU,recommendation,recommendation_events,какой фильм я могу посмотреть сегодня вечером в кинотеатре здесь в пензе,recommendation_events,0.4528,0.4528,True
+11610,ru-RU,recommendation,recommendation_events,дай мне список цирковых шоу идущих сейчас в городе,play_podcasts,0.9412,0.0192,False
+11612,ru-RU,recommendation,recommendation_events,какие выставки оружия проходят в калининграде,play_podcasts,0.7053,0.048,False
+11616,ru-RU,recommendation,recommendation_events,сегодня вечером есть какие-нибудь мероприятия в центре,weather_query,0.5475,0.0627,False
+11643,ru-RU,recommendation,recommendation_events,какие события будут проходить в ближайшее время,news_query,0.3302,0.1103,False
+11644,ru-RU,recommendation,recommendation_events,покажи мероприятия в городе пермь,play_podcasts,0.9913,0.0018,False
+11650,ru-RU,recommendation,recommendation_events,молодые и начинающие водители попадают в аварии чаще чем другие водители потому что у них еще нет широкого опыта необходимого для самостоятельного безопасного вождения сами по себе исследования показали что опыт вождения является основным фактором снижения числа дорожно-транспортных происшествий и что самое безопасное время для молодых водителей это когда они управляют автомобилем под присмотром во время обучения,lists_query,0.1311,0.0419,False
+11681,ru-RU,recommendation,recommendation_events,пожалуйста покажи мне марафон рядом со мной,social_post,0.8337,0.0068,False
+11685,ru-RU,recommendation,recommendation_events,я был бы счастлив если б ты обновил мне события проходящие в округе,email_sendemail,0.3449,0.0239,False
+11705,ru-RU,recommendation,recommendation_events,покажи мне выставку живописи в районе залива,social_post,0.6905,0.0473,False
+11720,ru-RU,recommendation,recommendation_events,плавание,qa_factoid,0.9914,0.0001,False
+11767,ru-RU,recommendation,recommendation_events,алиса какие мероприятия будут на этих выходных в твери,social_post,0.8763,0.0137,False
+11770,ru-RU,recommendation,recommendation_events,какие-нибудь события на этих выходных в выборге,news_query,0.5477,0.0674,False
+11782,ru-RU,recommendation,recommendation_events,есть ли какие-то особенные события рядом со мной в эти выходные,news_query,0.5687,0.0506,False
+11798,ru-RU,recommendation,recommendation_events,какое следующее событие в библиотеке,iot_hue_lightoff,0.2935,0.1833,False
+11827,ru-RU,recommendation,recommendation_events,куда мне пойти сегодня вечером,weather_query,0.1147,0.0263,False
+11839,ru-RU,recommendation,recommendation_events,что происходит вокруг меня,lists_query,0.1428,0.0517,False
+11841,ru-RU,recommendation,recommendation_events,проходят какие-нибудь ярмарки ремесел в этом районе,recommendation_events,0.9961,0.9961,True
+11844,ru-RU,recommendation,recommendation_events,что-нибудь интересное происходит в районе залива,social_post,0.6979,0.2676,False
+11845,ru-RU,recommendation,recommendation_events,olly покажи мне какие-нибудь интересные мероприятия на финском заливе,recommendation_events,0.9941,0.9941,True
+11860,ru-RU,recommendation,recommendation_events,назови мне местные мероприятия,recommendation_events,0.9307,0.9307,True
+11867,ru-RU,recommendation,recommendation_events,будет ли завтра спортивное мероприятие в туле,weather_query,0.5124,0.0832,False
+11875,ru-RU,recommendation,recommendation_events,есть ли в этом районе фестиваль еды,cooking_recipe,0.9268,0.0027,False
+11904,ru-RU,recommendation,recommendation_events,что здесь будет происходить в эти выходные,play_podcasts,0.6003,0.0332,False
+11905,ru-RU,recommendation,recommendation_events,olly расскажи мне о занятиях в моем районе в эти выходные,social_post,0.7566,0.1027,False
+11911,ru-RU,recommendation,recommendation_events,что нибудь интересное происходит недалеко на этих выходных,weather_query,0.5077,0.1625,False
+11916,ru-RU,recommendation,recommendation_events,какие тематические парки находятся поблизости,social_post,0.892,0.0018,False
+11969,ru-RU,recommendation,recommendation_events,происходит ли поблизости что-нибудь особенное,social_post,0.4403,0.012,False
+11999,ru-RU,recommendation,recommendation_events,перечисли все события на сегодня в моём городе,news_query,0.9881,0.0007,False
+12008,ru-RU,recommendation,recommendation_events,есть ли какие-нибудь прикольные мероприятия в санкт петербурге сегодня,recommendation_events,0.8486,0.8486,True
+12054,ru-RU,recommendation,recommendation_events,что происходит в городе,weather_query,0.4222,0.0173,False
+12070,ru-RU,recommendation,recommendation_events,когда открывается лондон молл,datetime_query,0.9982,0.0002,False
+12073,ru-RU,recommendation,recommendation_events,отобрази текущие местные события,iot_hue_lightoff,0.9877,0.0003,False
+12098,ru-RU,recommendation,recommendation_events,покажи мне музыкальные события поблизости,play_podcasts,0.9981,0.0,False
+12189,ru-RU,transport,transport_query,как добраться на вокзал за билетом,transport_query,0.9995,0.9995,True
+12240,ru-RU,transport,transport_query,какие пробки по дороге домой в пять,weather_query,0.2388,0.0343,False
+12245,ru-RU,transport,transport_query,когда следующий поезд из владивостока в хабаровск,datetime_query,0.8139,0.07,False
+12251,ru-RU,transport,transport_query,дай мне расписание местного поезда до площади славы,transport_query,0.9962,0.9962,True
+12252,ru-RU,transport,transport_query,во сколько отправляются поезда в екатеринбург,qa_factoid,0.6939,0.1127,False
+12261,ru-RU,transport,transport_query,подскажи варианты поезда до санкт-петербурга в следующую среду или четверг,recommendation_events,0.8943,0.0941,False
+12263,ru-RU,transport,transport_query,свердловская область,lists_query,0.2191,0.0391,False
+12264,ru-RU,transport,transport_query,екатеринбург,weather_query,0.149,0.0406,False
+12294,ru-RU,transport,transport_query,покажи расписание поездов до эрмитажа,calendar_remove,0.6945,0.0095,False
+12310,ru-RU,transport,transport_query,покажи мне список доступных поездов из москвы в нижний тагил,lists_query,0.8583,0.017,False
+12343,ru-RU,transport,transport_query,проверь время десять тысяч восемьсот восемьдесят седьмого поезда со станции международная во вторник,datetime_query,0.8027,0.0043,False
+12354,ru-RU,transport,transport_query,дай мне время поезда,weather_query,0.9845,0.0004,False
+12366,ru-RU,transport,transport_query,есть ли стыковочный поезд из санкт-петербурга в москву и во сколько,transport_query,0.9997,0.9997,True
+12367,ru-RU,transport,transport_query,как лучше всего добраться до твери,transport_query,0.9998,0.9998,True
+12376,ru-RU,transport,transport_query,какое первое метро до москвы,transport_query,0.9999,0.9999,True
+12392,ru-RU,transport,transport_query,расскажи мне о сегодняшнем маршруте,transport_query,0.9981,0.9981,True
+12402,ru-RU,transport,transport_query,когда отсюда уезжает следующий поезд в город,weather_query,0.5629,0.0086,False
+12419,ru-RU,transport,transport_query,быстрейший маршрут во всеволожск,transport_query,0.9978,0.9978,True
+12430,ru-RU,transport,transport_query,скажи мне время прибытия поезда в москву,transport_query,0.7755,0.7755,True
+12436,ru-RU,transport,transport_query,сколько времени займет добраться в аэропорт,transport_query,0.9669,0.9669,True
+12437,ru-RU,transport,transport_query,сколько времени нужно чтобы добраться до театра,transport_query,0.9438,0.9438,True
+12446,ru-RU,transport,transport_query,скажи в какое время отходит поезд в санкт петербург,weather_query,0.9972,0.0001,False
+12473,ru-RU,transport,transport_query,как мне добраться до дома отсюда,transport_query,0.9992,0.9992,True
+12526,ru-RU,transport,transport_query,как быстрее всего добраться до starbucks,transport_query,0.9991,0.9991,True
+12532,ru-RU,transport,transport_query,укажи путь к этому месту,transport_query,0.9135,0.9135,True
+12581,ru-RU,transport,transport_query,когда сегодня отправляется поезд,weather_query,0.7739,0.0002,False
+12582,ru-RU,transport,transport_query,во сколько приходит первый сапсан утром,weather_query,0.7874,0.0019,False
+12604,ru-RU,transport,transport_query,как мне забронировать билет на поезд онлайн,transport_query,0.9989,0.9989,True
+12618,ru-RU,transport,transport_query,сколько стоит билет на поезд в москву туда и обратно,transport_query,0.6165,0.6165,True
+12623,ru-RU,transport,transport_query,есть ли у тебя расписание поездов в санкт петербург,weather_query,0.4326,0.1292,False
+12629,ru-RU,transport,transport_query,во сколько отходит первый поезд из тулы,qa_factoid,0.7932,0.0083,False
+12634,ru-RU,transport,transport_query,когда отправляется следующий поезд в екатеринбург,datetime_query,0.5175,0.0283,False
+12707,ru-RU,transport,transport_query,поиск по навигации,recommendation_events,0.7319,0.0237,False
+12759,ru-RU,transport,transport_query,время в пути до москвы,datetime_query,0.6042,0.0016,False
+12797,ru-RU,transport,transport_query,время движения поездов от ближайшего ко мне места досюда,datetime_query,0.9472,0.0019,False
+12800,ru-RU,transport,transport_query,где находится общественная библиотека,qa_factoid,0.9955,0.0002,False
+12817,ru-RU,transport,transport_query,как добраться до торгового центра,transport_query,0.9995,0.9995,True
+12818,ru-RU,transport,transport_query,сколько стоит билет на поезд в москву,qa_factoid,0.5107,0.4885,False
+12824,ru-RU,transport,transport_query,назови расписание поездов в москву,calendar_remove,0.2947,0.1153,False
+12835,ru-RU,transport,transport_query,во сколько поезд к месту отбывает,qa_factoid,0.912,0.0359,False
+12839,ru-RU,transport,transport_query,отвези меня на канал грибоедова,social_post,0.9999,0.0,False
+12851,ru-RU,transport,transport_query,покажи как добраться домой,transport_query,0.9988,0.9988,True
+12856,ru-RU,transport,transport_query,как проехать,transport_query,0.9534,0.9534,True
+12866,ru-RU,transport,transport_query,какое время прибытия экспресс авто,datetime_query,0.4982,0.1265,False
+12908,ru-RU,transport,transport_query,во сколько поезд прибывает в мурманск,weather_query,0.817,0.0124,False
+12930,ru-RU,transport,transport_query,найди на карте магазины рядом со мной,recommendation_events,0.9994,0.0,False
+12932,ru-RU,transport,transport_query,olly как мне доехать до улицы большая зеленина,transport_query,0.2864,0.2864,True
+12951,ru-RU,qa,qa_factoid,какое самое высокое здание в мире,qa_factoid,0.8318,0.8318,True
+12957,ru-RU,qa,qa_definition,определение слова разрабатывать,qa_definition,0.6279,0.6279,True
+12961,ru-RU,qa,qa_definition,пожалуйста дайте определение судебной экспертизе,qa_factoid,0.9911,0.0028,False
+12963,ru-RU,qa,qa_definition,какое определение судебной медицины,qa_definition,0.9991,0.9991,True
+12972,ru-RU,qa,qa_factoid,какая самая высокая вершина в мире,qa_factoid,0.9852,0.9852,True
+12982,ru-RU,qa,qa_definition,что означает турбулентность,qa_definition,0.9707,0.9707,True
+12986,ru-RU,qa,qa_definition,проверь значение слова капризный,qa_factoid,0.6929,0.0268,False
+12999,ru-RU,qa,qa_factoid,сколько лет алле пугачёвой,qa_factoid,0.9104,0.9104,True
+13016,ru-RU,qa,qa_definition,поищи определение слова просчёт,qa_definition,0.9996,0.9996,True
+13023,ru-RU,cooking,cooking_recipe,покажи мне рецепты,cooking_recipe,1.0,1.0,True
+13069,ru-RU,qa,qa_definition,каковы определения оранжевого цвета,qa_definition,0.998,0.998,True
+13074,ru-RU,qa,qa_factoid,почему данила козловский не смешной,social_post,0.989,0.005,False
+13077,ru-RU,qa,qa_factoid,когда день рождения данилы козловского,datetime_query,0.9785,0.0055,False
+13078,ru-RU,qa,qa_factoid,скажи мне адрес билли кристала,email_sendemail,0.8706,0.0,False
+13099,ru-RU,qa,qa_factoid,кто был нынешним премьер-министром великобритании,qa_factoid,0.9976,0.9976,True
+13115,ru-RU,qa,qa_factoid,какая столица нигерии,qa_factoid,0.8462,0.8462,True
+13124,ru-RU,qa,qa_factoid,насколько велика вселенная,qa_factoid,0.8611,0.8611,True
+13135,ru-RU,qa,qa_factoid,когда день рождения константина хабенского,datetime_query,0.6579,0.2732,False
+13140,ru-RU,qa,qa_definition,расскажи мне об урагане,qa_definition,0.482,0.482,True
+13154,ru-RU,qa,qa_factoid,ты знаешь телефонный номер вари мироновой,qa_factoid,0.9891,0.9891,True
+13165,ru-RU,qa,qa_definition,что значит слово колебаться,qa_definition,0.9918,0.9918,True
+13166,ru-RU,qa,qa_definition,произнеси и дай определение слову осциллировать,qa_definition,0.7839,0.7839,True
+13177,ru-RU,calendar,calendar_set,напомни мне двигаться чтобы не набирать вес,iot_hue_lightoff,0.1101,0.0539,False
+13178,ru-RU,calendar,calendar_set,напомни мне позвонить старым друзьям с которыми я не общался шесть месяцев,social_post,0.9881,0.0004,False
+13188,ru-RU,news,news_query,расскажи мне о результатах выборов в собрание в санкт петербурге,news_query,0.6993,0.6993,True
+13206,ru-RU,qa,qa_definition,местоположение,social_post,0.9699,0.0012,False
+13215,ru-RU,transport,transport_query,как быстрее всего добраться до моей работы в центре без пробок,transport_query,0.9997,0.9997,True
+13252,ru-RU,qa,qa_factoid,каким было первое ноября максима горького,weather_query,0.9967,0.0002,False
+13255,ru-RU,qa,qa_factoid,пожалуйста найди информацию об иосифе сталине,email_sendemail,0.9931,0.0001,False
+13283,ru-RU,qa,qa_factoid,сколько денег заработал билл гейтс,qa_factoid,0.9996,0.9996,True
+13288,ru-RU,qa,qa_definition,каково определение слова вечный,qa_definition,0.9997,0.9997,True
+13297,ru-RU,qa,qa_factoid,кто такая знаменитость,social_post,0.9924,0.0075,False
+13298,ru-RU,qa,qa_factoid,что делает знаменитость,social_post,0.6743,0.3249,False
+13330,ru-RU,qa,qa_factoid,какого размера кашалот,qa_factoid,0.9934,0.9934,True
+13361,ru-RU,qa,qa_definition,какое определение слова своевременность,qa_definition,0.9777,0.9777,True
+13383,ru-RU,qa,qa_factoid,как много штатов проводят смертную казнь,qa_factoid,0.9979,0.9979,True
+13400,ru-RU,social,social_post,отправить смешное сообщение всем моим друзьям,social_post,0.9996,0.9996,True
+13439,ru-RU,qa,qa_factoid,сколько лет дж. к. роулинг,qa_factoid,0.8741,0.8741,True
+13457,ru-RU,calendar,calendar_set,скажи мне когда я должен уйти на запланированное мероприятие чтобы прийти вовремя,calendar_remove,0.9864,0.0022,False
+13473,ru-RU,qa,qa_factoid,когда с. ш. а. получили свободу,qa_factoid,0.9997,0.9997,True
+13487,ru-RU,qa,qa_factoid,алиса какая столица свердловской области,qa_factoid,0.9709,0.9709,True
+13494,ru-RU,qa,qa_definition,дайте определение мотивации,qa_factoid,0.9712,0.0273,False
+13506,ru-RU,datetime,datetime_query,можешь ли ты мне сказать время,weather_query,0.7261,0.2149,False
+13513,ru-RU,qa,qa_factoid,сколько лап у собаки,qa_factoid,0.898,0.898,True
+13516,ru-RU,qa,qa_factoid,почему киты такие большие,social_post,0.9584,0.0395,False
+13546,ru-RU,qa,qa_factoid,в каком последнем фильме снимался уилл смит,qa_factoid,0.4656,0.4656,True
+13554,ru-RU,qa,qa_factoid,какой рост у данилы козловского,qa_factoid,0.5276,0.5276,True
+13575,ru-RU,qa,qa_factoid,какой фильм получил последнюю награду киноакадемии,recommendation_events,0.9984,0.0006,False
+13580,ru-RU,qa,qa_factoid,какой высоты гора эверест,iot_hue_lightoff,0.9793,0.0191,False
+13591,ru-RU,qa,qa_factoid,какая столица западной вирджинии,weather_query,0.651,0.1468,False
+13592,ru-RU,qa,qa_factoid,где находится новая зеландия на карте,qa_factoid,0.3273,0.3273,True
+13604,ru-RU,qa,qa_factoid,скажи мне где родился павел дуров,social_post,0.9875,0.0028,False
+13607,ru-RU,qa,qa_factoid,можешь ли подтвердить женат ли моргенштерн,qa_factoid,1.0,1.0,True
+13616,ru-RU,qa,qa_factoid,где тусуются большинство звёзд,qa_factoid,0.8354,0.8354,True
+13619,ru-RU,recommendation,recommendation_events,есть ли какие-то бесплатные мероприятия сегодня в моем районе,recommendation_events,0.9647,0.9647,True
+13625,ru-RU,qa,qa_definition,какой самый большой письменный стол,lists_query,0.495,0.0148,False
+13636,ru-RU,qa,qa_factoid,когда день рождения у арнольда шварценеггера,datetime_query,0.9957,0.0003,False
+13679,ru-RU,qa,qa_factoid,можете ли вы сказать мне сколько желудков у коровы,iot_hue_lightoff,0.4918,0.3129,False
+13681,ru-RU,qa,qa_factoid,во скольких спектаклях играл дмитрий нагиев,play_music,0.6241,0.1635,False
+13683,ru-RU,qa,qa_factoid,каким спреем для волос пользуется владимир зеленский,cooking_recipe,0.4632,0.0231,False
+13689,ru-RU,qa,qa_definition,что такое стул,qa_definition,0.9535,0.9535,True
+13690,ru-RU,qa,qa_factoid,какого цвета стулья,iot_hue_lightoff,0.7469,0.218,False
+13693,ru-RU,qa,qa_factoid,где находится нулевой меридиан,qa_factoid,0.9977,0.9977,True
+13705,ru-RU,qa,qa_definition,что такое электронная система выбросов,qa_definition,0.9917,0.9917,True
+13706,ru-RU,qa,qa_definition,опиши ротор,cooking_recipe,0.8186,0.0016,False
+13714,ru-RU,qa,qa_definition,что такое манго,social_post,0.9938,0.0056,False
+13717,ru-RU,qa,qa_factoid,вы действительно можете увидеть россию с аляски,social_post,0.8831,0.0494,False
+13758,ru-RU,qa,qa_factoid,сколько лет мэрайе кэри,qa_factoid,0.9996,0.9996,True
+13761,ru-RU,qa,qa_factoid,что такое парсек,qa_definition,0.9202,0.0348,False
+13774,ru-RU,qa,qa_factoid,как далеко ленинградская область от калужской,weather_query,0.3687,0.2364,False
+13777,ru-RU,qa,qa_definition,вы можете описать кредитную карту,qa_definition,0.9801,0.9801,True
+13780,ru-RU,qa,qa_factoid,стеф карри замужем,social_post,0.9704,0.0192,False
+13798,ru-RU,qa,qa_factoid,сколько квадратных миль занимает средняя страна на земле,lists_query,0.6357,0.175,False
+13799,ru-RU,qa,qa_definition,значение слова подчинять,qa_definition,0.8306,0.8306,True
+13823,ru-RU,qa,qa_factoid,как далеко находится солнце,weather_query,0.9968,0.0007,False
+13853,ru-RU,qa,qa_factoid,где на земле больше всего вулканов,qa_factoid,0.3509,0.3509,True
+13854,ru-RU,qa,qa_factoid,когда умер элвис,datetime_query,0.9761,0.0175,False
+13863,ru-RU,qa,qa_definition,каково значение слова логика,lists_query,0.5784,0.0102,False
+13867,ru-RU,qa,qa_factoid,где находится парк горького,qa_factoid,0.1157,0.1157,True
+13869,ru-RU,qa,qa_factoid,пожалуйста найди в google местоположение и информацию о горе рашмор,social_post,0.9124,0.0061,False
+13871,ru-RU,qa,qa_definition,как бы вы описали счастливый день рождения,qa_definition,0.567,0.567,True
+13881,ru-RU,qa,qa_factoid,пожалуйста дайте мне информацию о майкле джексоне,email_query,0.9478,0.0007,False
+13888,ru-RU,qa,qa_factoid,какая температура в барнауле алтайский край,weather_query,0.9974,0.0002,False
+13895,ru-RU,qa,qa_factoid,расскажи об александре овечкине,social_post,0.9932,0.0,False
+13900,ru-RU,qa,qa_definition,определение жизни,qa_definition,0.6732,0.6732,True
+13907,ru-RU,qa,qa_definition,что значит ошарашенный,qa_definition,0.9999,0.9999,True
+13908,ru-RU,qa,qa_definition,можете ли вы сказать мне что значит ошеломленный,qa_definition,0.999,0.999,True
+13926,ru-RU,qa,qa_factoid,когда день рождения иванова,datetime_query,0.9972,0.0005,False
+13927,ru-RU,qa,qa_factoid,сколько стоит андрей кириленко,qa_factoid,0.9999,0.9999,True
+13974,ru-RU,qa,qa_factoid,где находится лаос,qa_factoid,0.9914,0.9914,True
+13983,ru-RU,qa,qa_definition,последствия страданий,qa_factoid,0.4588,0.0251,False
+13984,ru-RU,qa,qa_definition,последствия действий,lists_remove,0.5393,0.0117,False
+13997,ru-RU,qa,qa_factoid,сколько стоит средний дом,qa_factoid,0.9966,0.9966,True
+14000,ru-RU,qa,qa_definition,дай определение лени,qa_definition,0.9967,0.9967,True
+14001,ru-RU,qa,qa_factoid,расскажи мне все что ты знаешь о ленивцах,lists_query,0.3432,0.0505,False
+14011,ru-RU,qa,qa_factoid,когда день рождение жанны агузаровой,datetime_query,0.5901,0.0708,False
+14015,ru-RU,qa,qa_factoid,какие координаты экватора,qa_factoid,0.9951,0.9951,True
+14023,ru-RU,qa,qa_definition,дай определение ада,qa_definition,0.9912,0.9912,True
+14033,ru-RU,qa,qa_factoid,скажи когда родился путин,datetime_query,0.9234,0.0022,False
+14038,ru-RU,qa,qa_factoid,какое местоположение у молдавии,qa_factoid,0.5412,0.5412,True
+14040,ru-RU,qa,qa_factoid,какой рост у халка хогана,qa_factoid,0.8722,0.8722,True
+14053,ru-RU,qa,qa_factoid,в каком году начал сниматься александр абдулов,qa_factoid,0.9683,0.9683,True
+14063,ru-RU,qa,qa_factoid,когда был день рождения у элвиса пресли,datetime_query,0.9387,0.0004,False
+14083,ru-RU,qa,qa_factoid,где сейчас проживает павел прилучный,social_post,0.6379,0.2185,False
+14096,ru-RU,qa,qa_factoid,где находится эльбрус,email_sendemail,0.6282,0.0001,False
+14115,ru-RU,qa,qa_definition,расскажи подробно о каменном песке,qa_definition,0.8514,0.8514,True
+14116,ru-RU,qa,qa_definition,описывать каменный песок,cooking_recipe,0.8571,0.0439,False
+14117,ru-RU,qa,qa_factoid,где находятся пирамиды,qa_definition,0.7063,0.1426,False
+14118,ru-RU,qa,qa_factoid,покажи точное расположение пирамид,qa_factoid,0.38,0.38,True
+14126,ru-RU,qa,qa_factoid,показать биографию рианны,email_sendemail,0.9959,0.0028,False
+14138,ru-RU,qa,qa_definition,пожалуйста скажи определение цилиндра,qa_definition,0.9995,0.9995,True
+14147,ru-RU,qa,qa_definition,дай определение одеяло,qa_definition,0.9998,0.9998,True
+14150,ru-RU,qa,qa_definition,что такое обувь converse,iot_hue_lightoff,0.7066,0.2796,False
+14151,ru-RU,qa,qa_factoid,какие солнцезащитные очки называют авиаторами,qa_factoid,0.9395,0.9395,True
+14154,ru-RU,qa,qa_factoid,информация об африке,qa_factoid,0.9982,0.9982,True
+14163,ru-RU,qa,qa_factoid,обыщи местность,iot_hue_lightoff,0.3981,0.1169,False
+14169,ru-RU,qa,qa_factoid,где сергей иванов учился в колледже,email_sendemail,0.8411,0.0349,False
+14170,ru-RU,qa,qa_factoid,носит ли ким кардашьян конверсы,qa_factoid,0.9788,0.9788,True
+14179,ru-RU,qa,qa_factoid,как далеко канада от моего текущего местоположения,social_post,0.7643,0.2136,False
+14214,ru-RU,transport,transport_query,найди различные способы добраться до одного места,transport_query,0.9974,0.9974,True
+14229,ru-RU,qa,qa_factoid,в каких фильмах снималась светлана ходченкова,qa_factoid,0.7855,0.7855,True
+14243,ru-RU,qa,qa_factoid,подробности о человеке,email_query,0.4871,0.0024,False
+14272,ru-RU,qa,qa_definition,эй что такое книга,qa_definition,0.985,0.985,True
+14283,ru-RU,qa,qa_factoid,расскажи мне о джайпуре,qa_definition,0.8246,0.1742,False
+14306,ru-RU,qa,qa_factoid,объясни географическое расположение россии,qa_factoid,0.7781,0.7781,True
+14308,ru-RU,qa,qa_factoid,каков собственный капитал леонардо ди каприо,qa_factoid,0.9998,0.9998,True
+14316,ru-RU,qa,qa_factoid,насколько велика аляска,weather_query,0.597,0.0735,False
+14317,ru-RU,qa,qa_factoid,какая площадь соединённых штатов,qa_factoid,0.7271,0.7271,True
+14323,ru-RU,qa,qa_factoid,какого цвета апельсин,qa_factoid,0.985,0.985,True
+14330,ru-RU,qa,qa_factoid,где родился стив джобс,qa_factoid,0.6246,0.6246,True
+14347,ru-RU,qa,qa_definition,что такое гипотеза,qa_factoid,0.9946,0.0053,False
+14354,ru-RU,qa,qa_factoid,что означает вселенная,qa_definition,0.9997,0.0001,False
+14355,ru-RU,qa,qa_factoid,может ли салли продать много ракушек на берегу моря,recommendation_events,0.8561,0.1326,False
+14370,ru-RU,qa,qa_factoid,скажи мне профессию знаменитости,qa_factoid,0.8632,0.8632,True
+14378,ru-RU,qa,qa_definition,определение скорости,qa_factoid,0.8949,0.002,False
+14382,ru-RU,qa,qa_factoid,насколько большой эмпайр стейт билдинг,email_query,0.8121,0.0988,False
+14395,ru-RU,qa,qa_factoid,какая самая глубокая точка на земле,qa_definition,0.6172,0.31,False
+14414,ru-RU,qa,qa_definition,опиши жесткий диск компьютера,email_sendemail,0.97,0.0003,False
+14417,ru-RU,qa,qa_factoid,какой океан омывает наш континент,weather_query,0.6001,0.2362,False
+14419,ru-RU,qa,qa_factoid,у анджелины будет новый фильм в этом году,social_post,0.5036,0.1726,False
+14429,ru-RU,qa,qa_definition,что такое кафтан,qa_definition,0.8447,0.8447,True
+14440,ru-RU,qa,qa_factoid,какая столица мексики,qa_factoid,0.8723,0.8723,True
+14442,ru-RU,qa,qa_factoid,где находится фиджи,qa_factoid,0.9551,0.9551,True
+14444,ru-RU,qa,qa_factoid,какой был первый фильм александра домогарова,qa_factoid,0.2583,0.2583,True
+14449,ru-RU,qa,qa_factoid,есть ли у земфиры новый ребёнок,qa_factoid,0.8918,0.8918,True
+14457,ru-RU,qa,qa_factoid,найди маршрут,recommendation_events,0.912,0.0008,False
+14465,ru-RU,transport,transport_query,маршрут до додо пицца,transport_query,0.6898,0.6898,True
+14490,ru-RU,qa,qa_factoid,когда был построен большой театр,qa_factoid,0.2916,0.2916,True
+14498,ru-RU,qa,qa_definition,дайте мне описание смартфона,recommendation_events,0.7874,0.004,False
+14504,ru-RU,qa,qa_factoid,олли сколько встреч провел махатма ганди,social_post,0.9975,0.0002,False
+14505,ru-RU,qa,qa_factoid,кто в настоящее время премьер министр в россии,qa_factoid,0.9972,0.9972,True
+14508,ru-RU,qa,qa_factoid,пожалуйста резюмируй последнюю книгу джорджа мартина лед и пламя,email_sendemail,0.4574,0.0573,False
+14509,ru-RU,qa,qa_factoid,где родился махатма ганди,qa_factoid,0.942,0.942,True
+14539,ru-RU,qa,qa_factoid,найди географические детали этого места,recommendation_events,0.4633,0.2888,False
+14545,ru-RU,qa,qa_factoid,расскажи мне о местоположении индии,qa_factoid,0.7939,0.7939,True
+14567,ru-RU,qa,qa_factoid,какой самый большой действующий вулкан на земле,qa_factoid,0.9768,0.9768,True
+14585,ru-RU,qa,qa_factoid,как долго займет путешествовать из японии в южную корею,qa_factoid,0.9327,0.9327,True
+14591,ru-RU,qa,qa_definition,дайте мне описание телевизионной схемы,qa_definition,0.996,0.996,True
+14592,ru-RU,qa,qa_definition,дайте мне описание схемы смартфона,qa_definition,0.637,0.637,True
+14597,ru-RU,qa,qa_factoid,каково население нью-йорка,qa_factoid,0.8913,0.8913,True
+14601,ru-RU,qa,qa_factoid,сколько лет борис ельцин был президентом россии,qa_factoid,0.9734,0.9734,True
+14605,ru-RU,qa,qa_factoid,ушла ли анджелина джоли от брэда питта,social_post,0.9702,0.0259,False
+14608,ru-RU,qa,qa_factoid,над каким новым фильмом работает дженнифер лоуренс,qa_factoid,0.8988,0.8988,True
+14622,ru-RU,qa,qa_definition,опиши что такое сфера,qa_definition,0.985,0.985,True
+14648,ru-RU,cooking,cooking_recipe,рецепт пожалуйста,cooking_recipe,1.0,1.0,True
+14653,ru-RU,qa,qa_factoid,какое население россии,qa_factoid,0.7873,0.7873,True
+14661,ru-RU,qa,qa_factoid,в каком году родился барак обама,qa_factoid,0.9993,0.9993,True
+14668,ru-RU,qa,qa_definition,опишите элемент xy,cooking_recipe,0.605,0.0001,False
+14683,ru-RU,qa,qa_factoid,чем увлекается аджай девган,social_post,0.9975,0.0001,False
+14684,ru-RU,qa,qa_factoid,кто премьер министр россии,qa_factoid,0.9869,0.9869,True
+14690,ru-RU,qa,qa_definition,окей гугл что такое президент,qa_definition,0.9271,0.9271,True
+14700,ru-RU,qa,qa_definition,что именно представляет собой полимерная пломба для зубов,qa_definition,0.9996,0.9996,True
+14701,ru-RU,qa,qa_definition,опиши игру в дурака,play_music,0.9603,0.0004,False
+14705,ru-RU,qa,qa_factoid,алиса где живёт анастасия заворотнюк,social_post,0.7259,0.0002,False
+14706,ru-RU,qa,qa_factoid,где живет софия вергара,social_post,0.9996,0.0002,False
+14746,ru-RU,qa,qa_factoid,какая столица казахстана,qa_factoid,0.8168,0.8168,True
+14761,ru-RU,qa,qa_definition,дайте мне определение слову понтификат,qa_factoid,0.9919,0.0081,False
+14767,ru-RU,qa,qa_definition,как бы ты описал шар,qa_definition,0.9985,0.9985,True
+14770,ru-RU,qa,qa_factoid,скажи мне какой самый большой океан в мире,qa_factoid,0.9852,0.9852,True
+14787,ru-RU,qa,qa_factoid,какая разница между римским и григореанским календарями,calendar_remove,0.2621,0.0838,False
+14791,ru-RU,qa,qa_factoid,из чего сделан стул,qa_definition,0.9901,0.0018,False
+14794,ru-RU,qa,qa_factoid,какая любимая поездка элвиса,social_post,0.9977,0.0002,False
+14822,ru-RU,qa,qa_factoid,сравнить в людях,iot_hue_lightoff,0.1959,0.0996,False
+14838,ru-RU,qa,qa_factoid,что такое фильтр нейтральной плотности и хотел бы я также градиентный или сплошной который был бы лучше по стилю между винтовым и квадратным,qa_definition,0.8242,0.0167,False
+14857,ru-RU,qa,qa_definition,пожалуйста можешь ли объяснить мне значение слова чрезмерный,qa_factoid,0.5166,0.277,False
+14877,ru-RU,qa,qa_factoid,какие климатические условия в этой области,weather_query,0.9816,0.008,False
+14879,ru-RU,qa,qa_definition,значение,qa_definition,0.7894,0.7894,True
+14884,ru-RU,qa,qa_factoid,какой штат наименее подвержен торнадо во всех с. ш. а.,qa_factoid,0.932,0.932,True
+14889,ru-RU,qa,qa_definition,пожалуйста опиши мне этот предмет,qa_definition,0.5808,0.5808,True
+14891,ru-RU,qa,qa_factoid,в какой области преуспевает этот человек,qa_factoid,0.9864,0.9864,True
+14912,ru-RU,qa,qa_factoid,где родился президент мэдисон,qa_factoid,0.8217,0.8217,True
+14917,ru-RU,qa,qa_factoid,когда выйдет следующий альбом марка ланегана,datetime_query,0.9627,0.0245,False
+14933,ru-RU,qa,qa_factoid,расскажите мне информацию о географии индии,qa_definition,0.9954,0.0044,False
+14939,ru-RU,qa,qa_factoid,мне нужны некоторые подробности о брюсе ли пожалуйста помогите,lists_query,0.8292,0.0081,False
+14981,ru-RU,qa,qa_definition,iphone седьмой описание,email_sendemail,0.635,0.0,False
+14994,ru-RU,qa,qa_factoid,какой следующий фильм тимура бекмамбетова,qa_factoid,0.7482,0.7482,True
+14995,ru-RU,qa,qa_definition,что означает ситуация,qa_definition,0.9955,0.9955,True
+15020,ru-RU,qa,qa_factoid,сколько лет клинту иствуду,qa_factoid,0.9947,0.9947,True
+15039,ru-RU,qa,qa_factoid,олли где начинаются скалистые горы,iot_hue_lightoff,0.7291,0.0328,False
+15055,ru-RU,qa,qa_factoid,какой полюс холоднее южный или северный,weather_query,0.9894,0.0081,False
+15056,ru-RU,qa,qa_factoid,сколько лет новому парню эммы уотсон,qa_factoid,0.9594,0.9594,True
+15062,ru-RU,qa,qa_factoid,информацию о лизе энн пожалуйста,qa_factoid,0.9901,0.9901,True
+15075,ru-RU,qa,qa_factoid,olly где жили первые русские племена,social_post,0.9756,0.0039,False
+15092,ru-RU,qa,qa_definition,найди описание samsung t. v.,recommendation_events,0.9456,0.0,False
+15094,ru-RU,qa,qa_factoid,посмотрите сколько людей живет в майами штат флорида,qa_factoid,0.9614,0.9614,True
+15095,ru-RU,qa,qa_factoid,в каком регионе находится псков,qa_factoid,0.9133,0.9133,True
+15127,ru-RU,qa,qa_definition,дай определение слову спикер,qa_definition,0.9961,0.9961,True
+15155,ru-RU,social,social_post,можешь ли ты загрузить моё последнее селфи в мой facebook аккаунт,social_post,0.9997,0.9997,True
+15166,ru-RU,social,social_post,запости мои дела на twitter,social_post,0.9911,0.9911,True
+15177,ru-RU,social,social_post,пожалуйста ретвить этот пост в twitter,social_post,0.9651,0.9651,True
+15185,ru-RU,social,social_post,пожелания на день рождения,email_sendemail,0.988,0.0057,False
+15186,ru-RU,social,social_post,свадебные пожелания,email_sendemail,0.999,0.0,False
+15187,ru-RU,social,social_post,поделись в посте друзей,social_post,0.9988,0.9988,True
+15197,ru-RU,social,social_post,опубликуй в twitter моя поездка в японию,email_sendemail,0.8675,0.1324,False
+15208,ru-RU,social,social_post,сообщение привет всем на facebook,social_post,0.9998,0.9998,True
+15213,ru-RU,news,news_query,что сейчас в тренде,lists_query,0.7196,0.0434,False
+15214,ru-RU,news,news_query,какие сегодня новости,news_query,0.9999,0.9999,True
+15216,ru-RU,social,social_post,твитни что-нибудь для меня,qa_factoid,0.8185,0.0244,False
+15231,ru-RU,social,social_post,выложи фото моей поездки на гоа в instagram,social_post,0.9992,0.9992,True
+15271,ru-RU,social,social_post,отправьте это в одноклассники l. o. l.,iot_hue_lightoff,0.8986,0.009,False
+15275,ru-RU,social,social_post,опубликуй я счастлив в facebook,social_post,0.9977,0.9977,True
+15276,ru-RU,social,social_post,поставь новый статус в facebook гласящий что я наслаждаюсь хорошей погодкой,social_post,1.0,1.0,True
+15289,ru-RU,social,social_post,опубликуй сообщение сейчас,email_sendemail,0.999,0.0009,False
+15305,ru-RU,calendar,calendar_query,у меня есть какие то напоминания из социальных сетей,social_post,0.9998,0.0,False
+15318,ru-RU,social,social_post,я хочу поблагодарить всех за поздравления день рождения,email_sendemail,0.8592,0.0093,False
+15337,ru-RU,social,social_post,запости это видео на facebook,social_post,0.9999,0.9999,True
+15350,ru-RU,social,social_post,я недоволен яндекс маркетом пожалуйста помогите мне,recommendation_events,0.6122,0.0202,False
+15358,ru-RU,social,social_post,алиса твитни в apple что айфон не работает,qa_factoid,0.9459,0.0126,False
+15359,ru-RU,social,social_post,создай твит в apple что у моего айфона батарея всегда пустая,qa_factoid,0.6754,0.003,False
+15364,ru-RU,social,social_post,можете ли вы сообщить amazon что этот новый чехол для телефона барахло,lists_remove,0.643,0.0619,False
+15382,ru-RU,social,social_post,можешь связаться с samsung и сказать что моя посудомойка загорелась,social_post,0.3752,0.3752,True
+15387,ru-RU,social,social_post,твитни моё текущее местоположение,qa_factoid,0.8996,0.0029,False
+15399,ru-RU,social,social_post,отправь жалобу в билайн на сетевые проблемы,email_sendemail,0.9998,0.0,False
+15401,ru-RU,social,social_post,открой twitter отправь сообщение,email_sendemail,1.0,0.0,False
+15402,ru-RU,social,social_post,твитнуть что продукт отстой,qa_factoid,0.9946,0.0009,False
+15409,ru-RU,social,social_post,открой twitter напиши мою жалобу и запости её в клиентскую службу,email_sendemail,0.9845,0.0056,False
+15413,ru-RU,social,social_post,найди мне человека как можно скорее,recommendation_events,0.9999,0.0,False
+15444,ru-RU,social,social_post,два больших пальца вниз на название компании,lists_remove,0.1785,0.0397,False
+15448,ru-RU,social,social_post,отправь твит о проблемах с громкостью у sony,social_post,0.9994,0.9994,True
+15454,ru-RU,social,social_post,твитни в руслайн я в ярости вы потеряли мой багаж,social_post,0.9773,0.9773,True
+15456,ru-RU,social,social_post,я хочу отправить твит аэрофлоту что я зол вы потеряли мои чемоданы,social_post,0.9995,0.9995,True
+15457,ru-RU,social,social_post,мне не понравился бургер можешь твитнуть в бургер кинг,social_post,0.7639,0.7639,True
+15459,ru-RU,social,social_post,отправить жалобу в twitter,qa_factoid,0.9824,0.0166,False
+15464,ru-RU,social,social_post,я не получил средство вовремя отправь твит в улыбку радуги,social_post,0.5962,0.5962,True
+15467,ru-RU,social,social_post,скажи ростелекому я не навижу их,social_post,0.9477,0.9477,True
+15472,ru-RU,social,social_post,твитни жалобу на читай город,social_post,0.8537,0.8537,True
+15487,ru-RU,social,social_post,отправь твит в apple о чистоте в их магазине,social_post,0.9987,0.9987,True
+15488,ru-RU,social,social_post,пожалуйста твитни в додо пицца я прождал свою доставку до теперешнего номера несчастлив,transport_query,0.5801,0.0133,False
+15503,ru-RU,social,social_post,новый твит для клиентской службы,qa_factoid,0.7802,0.0078,False
+15508,ru-RU,social,social_post,сири открой twitter твитни что прмьер министр уганды плохой,social_post,0.9951,0.9951,True
+15518,ru-RU,social,social_post,отправь жалобу zara с помощью твита,social_post,0.9577,0.9577,True
+15532,ru-RU,social,social_post,olly твитнуть магнит и сказать им что их обслуживание клиентов ужасно,email_sendemail,1.0,0.0,False
+15546,ru-RU,social,social_post,отправь твит о холодной пицце в papa johns,social_post,0.987,0.987,True
+15548,ru-RU,social,social_post,твитни жалобу на мобильный в samsung,social_post,0.7887,0.7887,True
+15553,ru-RU,social,social_post,пожалуйста ответить отрицательным твитом о сушимании,qa_factoid,0.9431,0.0381,False
+15554,ru-RU,social,social_post,пожалуйста твитни додо пицца про задержку в обслуживании,qa_factoid,0.8651,0.0065,False
+15556,ru-RU,social,social_post,давай твитнем жалобу,social_post,0.9987,0.9987,True
+15557,ru-RU,social,social_post,мне нужно чтобы ты твитнул жалобу,social_post,0.9996,0.9996,True
+15560,ru-RU,social,social_post,сделай пост на facebook что я голоден,social_post,0.9998,0.9998,True
+15565,ru-RU,social,social_post,можешь дать знать сбербанку что я больше никогда не буду их клиентом,email_sendemail,0.5537,0.0548,False
+15587,ru-RU,social,social_post,открой галерею опубликуй имя картинки,social_post,0.9983,0.9983,True
+15592,ru-RU,social,social_post,твитни жалобу на тинькофф банк,qa_factoid,0.6369,0.3386,False
+15593,ru-RU,social,social_post,твит жалобу на ростелеком,social_post,0.9996,0.9996,True
+15598,ru-RU,social,social_post,открой сбербанк и найди жалобы,qa_factoid,0.6761,0.2973,False
+15610,ru-RU,social,social_post,размести tweet следующего содержания очень плохое продолжение a. b. c. компания которая не удовлетворена моим аккаунтом,social_post,0.9998,0.9998,True
+15618,ru-RU,social,social_post,твитни росгосстрах и скажи им что они отстой,social_post,0.971,0.971,True
+15626,ru-RU,social,social_post,твитни пожалуйста жалобу на ozon за плохое обслуживание клиентов,email_sendemail,0.7563,0.0041,False
+15634,ru-RU,social,social_post,окей google твитни какой козёл владелец этой заправки,qa_factoid,0.9997,0.0001,False
+15635,ru-RU,social,social_post,твитни что в макдоналдс на невском отвратный сервис,qa_factoid,0.9658,0.0015,False
+15647,ru-RU,social,social_post,твитни жалобу на магазин,social_post,0.7621,0.7621,True
+15651,ru-RU,social,social_post,отправить отчет потребительскому сервису,email_sendemail,0.9999,0.0,False
+15652,ru-RU,social,social_post,помоги пожаловаться в службу поддержки клиентов,email_sendemail,0.9999,0.0,False
+15655,ru-RU,social,social_post,твитни в клиентскую службу google что мой телефон nexus перестал работать помогите пожалуйста,iot_hue_lightoff,0.7212,0.0029,False
+15656,ru-RU,social,social_post,твитни сообщение в ozon что я до сих пор жду свою доставку,transport_query,0.9881,0.0004,False
+15661,ru-RU,social,social_post,отправь моё последнее предложение в twitter сбербанка,qa_factoid,0.9714,0.0043,False
+15670,ru-RU,social,social_post,отправь жалобу в твиттер,email_sendemail,0.8409,0.1527,False
+15672,ru-RU,social,social_post,твитни в apple о неполучении айфона который я отправил в ремонт на прошлой неделе,email_sendemail,0.5229,0.1743,False
+15676,ru-RU,social,social_post,пожалуйста добавь жалобу на обслуживание в твит для додо пицца,social_post,0.9596,0.9596,True
+15686,ru-RU,social,social_post,привет моя вещь которую я у кое-кого купил вышла из строя,email_sendemail,0.9268,0.0002,False
+15693,ru-RU,social,social_post,твитнуть что в пакете шоколада было живтоное,iot_hue_lightoff,0.9989,0.0,False
+15700,ru-RU,social,social_post,просроченные продукты на недавнем рынке,recommendation_events,0.7738,0.0006,False
+15703,ru-RU,social,social_post,твитни в леди шарм что у них слишком быстро заканчиваются размеры,qa_factoid,0.7613,0.0472,False
+15706,ru-RU,social,social_post,напиши твит в,iot_hue_lightoff,0.6049,0.2117,False
+15707,ru-RU,social,social_post,давай отправим твит,social_post,0.9284,0.9284,True
+15708,ru-RU,social,social_post,опубликуй жалобу об уровне сервиса,qa_factoid,0.9746,0.0165,False
+15721,ru-RU,social,social_post,написать твит с отвращением о макдональдсе,social_post,0.9,0.9,True
+15723,ru-RU,social,social_post,поставь статус чувствую себя счастливым на facebook,social_post,0.9999,0.9999,True
+15731,ru-RU,social,social_post,алиса твитни в a. t. and t. и скажи что меня плохо обслужили,qa_factoid,0.5098,0.3166,False
+15732,ru-RU,social,social_post,твитни samsung и скажи им перестать убивать людей своей продукцией,email_sendemail,0.9941,0.0011,False
+15736,ru-RU,social,social_post,загрузи негативный отзыв о компании,qa_factoid,0.9903,0.0,False
+15756,ru-RU,email,email_sendemail,отправь письмо моей команде,email_sendemail,1.0,1.0,True
+15763,ru-RU,email,email_query,пожалуйста проверь новую почту,email_sendemail,1.0,0.0,False
+15765,ru-RU,email,email_sendemail,ответь на письмо павла,email_sendemail,1.0,1.0,True
+15777,ru-RU,email,email_query,скажи мне есть новые письма,email_sendemail,1.0,0.0,False
+15785,ru-RU,email,email_query,есть что нибудь новенькое в почте,email_sendemail,1.0,0.0,False
+15789,ru-RU,email,email_query,olly усть какие нибудь новые письма,email_sendemail,1.0,0.0,False
+15792,ru-RU,calendar,calendar_query,с кем я встречаюсь сегодня,social_post,0.9977,0.0001,False
+15796,ru-RU,email,email_sendemail,написать письмо ларисе,email_sendemail,1.0,1.0,True
+15802,ru-RU,email,email_sendemail,ответь в письме ясону что я не приду сегодня вечером,email_sendemail,1.0,1.0,True
+15809,ru-RU,email,email_query,роберт мне еще не написал,qa_factoid,0.9377,0.0019,False
+15825,ru-RU,email,email_sendemail,ответь папе напиши я буду поздно,email_sendemail,0.9997,0.9997,True
+15828,ru-RU,email,email_sendemail,вот новый адрес электронной почты который надо добавить в контакты,email_sendemail,0.9997,0.9997,True
+15829,ru-RU,email,email_sendemail,иди в контакты и введи новый адрес электронной почтв,email_sendemail,1.0,1.0,True
+15839,ru-RU,email,email_query,тема,qa_definition,0.6293,0.0422,False
+15841,ru-RU,email,email_sendemail,напиши новое письмо сергею,email_sendemail,0.95,0.95,True
+15845,ru-RU,email,email_sendemail,как это случилось с нами,qa_factoid,0.9871,0.003,False
+15847,ru-RU,email,email_sendemail,как нам получить кредит,transport_query,0.6226,0.009,False
+15849,ru-RU,email,email_sendemail,отправь письмо моему шефу,email_sendemail,1.0,1.0,True
+15857,ru-RU,email,email_sendemail,пожалуйста отправь на новый электронный адрес из списка,email_sendemail,0.9999,0.9999,True
+15862,ru-RU,email,email_query,проверь полученные письма от мамы,email_sendemail,0.9999,0.0001,False
+15880,ru-RU,email,email_query,пожалуйста проверь почту,email_sendemail,1.0,0.0,False
+15890,ru-RU,email,email_query,проверь если у меня есть какие-нибудь новые электронные письма от моего отца,email_sendemail,1.0,0.0,False
+15904,ru-RU,email,email_query,проверь почту и скажи о чем новые имейлы,email_sendemail,1.0,0.0,False
+15906,ru-RU,email,email_sendemail,ответь скажи спасибо евгению,email_sendemail,0.9964,0.9964,True
+15911,ru-RU,email,email_sendemail,подготовь письмо для светланы,email_sendemail,1.0,1.0,True
+15933,ru-RU,email,email_query,у меня есть новые письма,email_sendemail,1.0,0.0,False
+15942,ru-RU,email,email_sendemail,пошли письмо в ответ на последние электронные письма,email_sendemail,1.0,1.0,True
+15950,ru-RU,email,email_sendemail,ответь на письмо от ивана лобова,email_sendemail,1.0,1.0,True
+15957,ru-RU,email,email_sendemail,пошли сообщение алисе и скажи ей что мы уже в пути,email_sendemail,1.0,1.0,True
+15963,ru-RU,email,email_query,есть у меня какие нибудь новые письма от константина,email_sendemail,1.0,0.0,False
+15966,ru-RU,email,email_query,пошли ответ если это очень важно,email_sendemail,0.5054,0.1791,False
+15968,ru-RU,email,email_query,если это из очень знакомого места пометь его как важное,social_post,0.9473,0.0008,False
+15970,ru-RU,email,email_query,какая тема последнего электронного письма от мамы,email_sendemail,0.9167,0.0796,False
+15971,ru-RU,email,email_query,где последнее письмо с работы,email_sendemail,1.0,0.0,False
+15994,ru-RU,email,email_sendemail,напиши письмо жене с вопросом про время встречи,email_sendemail,1.0,1.0,True
+15995,ru-RU,email,email_sendemail,напиши карине по поводу собрания по бюджету,email_sendemail,0.766,0.766,True
+15998,ru-RU,email,email_query,проверь мои и-мейлы есть ли что-то от имени,email_sendemail,1.0,0.0,False
+16002,ru-RU,email,email_query,проверь новые письма,email_sendemail,1.0,0.0,False
+16005,ru-RU,email,email_sendemail,пошли письмо на joseph собака gmail точка com,email_sendemail,1.0,1.0,True
+16010,ru-RU,email,email_query,сказать мне если у меня есть любые новые сообщения в моём почтовом ящике,email_sendemail,0.9908,0.0053,False
+16024,ru-RU,email,email_sendemail,отправь письмо ринату и скажи что я завтра занят,email_sendemail,1.0,1.0,True
+16028,ru-RU,email,email_sendemail,эй сири начни электронное письмо коллеге,email_sendemail,0.9996,0.9996,True
+16029,ru-RU,email,email_sendemail,пожалуйста напиши новое письмо коллеге,email_sendemail,1.0,1.0,True
+16032,ru-RU,email,email_sendemail,пожалуйста отправь письмо саше по поводу завтрашней встречи,email_sendemail,1.0,1.0,True
+16038,ru-RU,email,email_query,эй женя отправил мне какое-нибудь электронное письмо недавно,email_sendemail,1.0,0.0,False
+16045,ru-RU,email,email_sendemail,напишщи письмо александру с вопросом про расписание работы офиса,email_sendemail,1.0,1.0,True
+16048,ru-RU,email,email_query,покажи мне последние сообщения электронной почты,email_sendemail,1.0,0.0,False
+16049,ru-RU,email,email_sendemail,я хочу послать письмо своей семье ты мне поможешь,email_sendemail,1.0,1.0,True
+16050,ru-RU,email,email_query,проверь gmail,email_sendemail,0.9982,0.0018,False
+16052,ru-RU,email,email_query,проверь outlook,iot_hue_lightoff,0.5311,0.0098,False
+16056,ru-RU,email,email_sendemail,ответь на электронное письмо,email_sendemail,1.0,1.0,True
+16061,ru-RU,email,email_query,были у меня новые письма за последние десять минут,email_sendemail,1.0,0.0,False
+16072,ru-RU,email,email_sendemail,напиши иимейл боссу и скажи что я сегодня опоздаю из за непредвиденных обстоятельств я извиняюсь что пропускаю собрание,email_sendemail,1.0,1.0,True
+16075,ru-RU,email,email_query,покажи последнее электронное письмо от евгения,email_sendemail,1.0,0.0,False
+16082,ru-RU,email,email_sendemail,напиши петру письмо и спроси как он могу ли я чем то помочь,email_sendemail,0.9999,0.9999,True
+16089,ru-RU,email,email_query,мне приходило что нибудь за последние десять минут,datetime_query,0.6306,0.0151,False
+16096,ru-RU,email,email_query,эмма присылала какие нибудь письма,email_sendemail,1.0,0.0,False
+16098,ru-RU,email,email_query,проверь непрочитанные письма от ани,email_sendemail,0.9835,0.0164,False
+16100,ru-RU,email,email_query,пожалуйста проверь и-мейл содержащий вакансии,email_sendemail,1.0,0.0,False
+16103,ru-RU,email,email_sendemail,пошли письмо моему брату и напомни годовщина свадьбы,email_sendemail,1.0,1.0,True
+16120,ru-RU,email,email_sendemail,помощь нужно послать только максиму,email_sendemail,0.628,0.628,True
+16131,ru-RU,email,email_sendemail,этот новый адрес электронной почты должен быть добавлен в мой контакт,email_sendemail,1.0,1.0,True
+16145,ru-RU,email,email_query,покажи последние письма,email_sendemail,1.0,0.0,False
+16146,ru-RU,news,news_query,дай мне последние обновления новостей,news_query,0.9989,0.9989,True
+16148,ru-RU,email,email_sendemail,быстрый ответ сергею поэтому пожалуйста отправь письмо,email_sendemail,1.0,1.0,True
+16151,ru-RU,email,email_query,проверь расписание встреч в сегодняшней почте,email_sendemail,0.9952,0.0011,False
+16162,ru-RU,email,email_sendemail,пошли ответ,email_sendemail,1.0,1.0,True
+16163,ru-RU,email,email_query,кто нибудь прислал письма вчера,email_sendemail,1.0,0.0,False
+16165,ru-RU,email,email_query,марина ответила,qa_factoid,0.9984,0.0,False
+16166,ru-RU,email,email_sendemail,можешь ответить жене что я буду занят над проектом следующие три недели,qa_factoid,0.9389,0.0002,False
+16168,ru-RU,email,email_query,за последние пятнадцать минут приходили новые письма,email_sendemail,1.0,0.0,False
+16170,ru-RU,email,email_query,открой входящие чтобы проверить непрочитанные письма,email_sendemail,0.961,0.039,False
+16178,ru-RU,email,email_query,какая-нибудь почта от amazon сегодня,email_sendemail,1.0,0.0,False
+16183,ru-RU,email,email_query,проверьте электронную почту о моей работе,email_sendemail,1.0,0.0,False
+16201,ru-RU,email,email_sendemail,пожалуйста загрузи новое письмо борису и отправь сообщение сейчас,email_sendemail,1.0,1.0,True
+16221,ru-RU,email,email_sendemail,открой письмо кати и скажи я дам ей знать,email_sendemail,1.0,1.0,True
+16245,ru-RU,email,email_sendemail,отправить электронное письмо на иван собака мейл точка ру,email_sendemail,1.0,1.0,True
+16248,ru-RU,email,email_query,пожалуйста проверь мою почту,email_sendemail,0.9998,0.0002,False
+16263,ru-RU,email,email_query,я получал какое-либо новое письмо от роберта,email_sendemail,1.0,0.0,False
+16266,ru-RU,email,email_sendemail,написать электронное письмо моей семье сказав что я люблю вас всех,email_sendemail,1.0,1.0,True
+16271,ru-RU,email,email_query,обнови мои входящие и проинформируй меня о новых электронных письмах,email_sendemail,1.0,0.0,False
+16275,ru-RU,email,email_query,инициировать опрос для нового и-мейла,iot_hue_lightoff,0.7339,0.2155,False
+16276,ru-RU,email,email_query,у меня есть новые письма,email_sendemail,1.0,0.0,False
+16280,ru-RU,email,email_sendemail,пожалуйста отправь электронное письмо ксении которая есть в моем списке семья и друзья,email_sendemail,1.0,1.0,True
+16282,ru-RU,email,email_sendemail,отправь электронное письмо моей помощнице кларе чтобы отменить все встречи на завтра,email_sendemail,1.0,1.0,True
+16296,ru-RU,email,email_sendemail,отправь письмо маме и скажи ей что вечеринка по поводу васиного дня рождения будет в воскресенье,email_sendemail,1.0,1.0,True
+16297,ru-RU,email,email_sendemail,отправь имейл петру и скажи ему спасибо,email_sendemail,1.0,1.0,True
+16314,ru-RU,email,email_sendemail,отправь письмо маргарите,email_sendemail,1.0,1.0,True
+16317,ru-RU,email,email_query,получил ли я новые и-мейлы от ольги,email_sendemail,1.0,0.0,False
+16318,ru-RU,email,email_sendemail,ответить на письмо,email_sendemail,0.9996,0.9996,True
+16320,ru-RU,email,email_sendemail,хочу ответить на письмо бориса кузнецова,email_sendemail,1.0,1.0,True
+16353,ru-RU,email,email_query,проверь имейлы от саши,email_sendemail,1.0,0.0,False
+16354,ru-RU,email,email_query,проверь и-мейлы от моего работодателя,email_sendemail,1.0,0.0,False
+16356,ru-RU,email,email_query,я писал толе о контроле над оружием в теме,email_sendemail,0.4503,0.0407,False
+16357,ru-RU,email,email_query,саша писал мне о боеприпасах,social_post,0.9738,0.002,False
+16361,ru-RU,email,email_query,у меня есть что нибудь новое в почте за последний час,email_sendemail,0.9995,0.0005,False
+16373,ru-RU,email,email_query,приходили какие нибудь сообщения с трекинговыми номерами,iot_hue_lightoff,0.2251,0.0262,False
+16375,ru-RU,email,email_sendemail,составь письмо борису,email_sendemail,1.0,1.0,True
+16376,ru-RU,email,email_sendemail,alexa пожалуйста отправь письмо маме,email_sendemail,1.0,1.0,True
+16377,ru-RU,email,email_sendemail,пошли маме сейчас письмо,email_sendemail,1.0,1.0,True
+16384,ru-RU,email,email_query,привет у меня есть какие нибудь новые электронные письма,email_sendemail,0.9999,0.0001,False
+16385,ru-RU,email,email_query,пожалуйста прочитай новые письма,email_sendemail,1.0,0.0,False
+16398,ru-RU,email,email_sendemail,пожалуйста отправь письмо жене,email_sendemail,1.0,1.0,True
+16399,ru-RU,email,email_query,у меня есть новые письма,email_sendemail,1.0,0.0,False
+16401,ru-RU,email,email_sendemail,набери и-мейл даше эй что ты делаешь сегодня,email_sendemail,0.9937,0.9937,True
+16402,ru-RU,email,email_sendemail,отправь и-мейл дарье планы на сегодня,qa_factoid,0.7321,0.0048,False
+16406,ru-RU,email,email_sendemail,alexa начни новое письмо,email_sendemail,1.0,1.0,True
+16410,ru-RU,email,email_sendemail,создай письмо,email_sendemail,1.0,1.0,True
+16413,ru-RU,email,email_query,покажи все письма от моего начальника,email_sendemail,1.0,0.0,False
+16419,ru-RU,email,email_sendemail,отправь письмо дяде ване с содержанием да я могу,email_sendemail,1.0,1.0,True
+16427,ru-RU,email,email_query,сколько новых емейлов я получил сегодня,email_sendemail,1.0,0.0,False
+16430,ru-RU,email,email_sendemail,пошли письмо маме и папе и спроси как уних дела,email_sendemail,1.0,1.0,True
+16437,ru-RU,email,email_sendemail,пожалуйста отправь это письмо моему другу,email_sendemail,1.0,1.0,True
+16438,ru-RU,email,email_sendemail,мне нужно отправить это письмо сейчас,email_sendemail,1.0,1.0,True
+16446,ru-RU,email,email_query,пожалуйста проверь опросы электронной почты от этого отправителя,email_sendemail,0.8305,0.1691,False
+16459,ru-RU,email,email_sendemail,новое сообщение для newmail собака gmail точка com,email_sendemail,1.0,1.0,True
+16461,ru-RU,email,email_query,есть у меня какие-нибудь непрочитанные электронные письма,email_sendemail,1.0,0.0,False
+16467,ru-RU,email,email_query,есть ли у меня какие нибудь новые электронные письма от моего андрея,email_sendemail,1.0,0.0,False
+16471,ru-RU,email,email_query,проверь письма от жени,email_sendemail,1.0,0.0,False
+16496,ru-RU,email,email_sendemail,отправь ответ,qa_factoid,1.0,0.0,False
+16501,ru-RU,email,email_sendemail,пожалуйста отправь письмо моей подруге дарье как твои дела,email_sendemail,1.0,1.0,True
+16506,ru-RU,email,email_sendemail,добавь новый адрес и оправь письмо,email_sendemail,1.0,1.0,True
+16518,ru-RU,email,email_sendemail,добавь новый и-мейл для юлии кузнецовой,email_sendemail,0.9954,0.9954,True
+16519,ru-RU,email,email_sendemail,мне нужно добавить новый адрес электронной почты в контакты,email_sendemail,0.9929,0.9929,True
+16535,ru-RU,email,email_sendemail,можешь написать письмо ларисе,email_sendemail,1.0,1.0,True
+16559,ru-RU,email,email_sendemail,отправь ответ мише с ответом четыреста тридцать из его письма которое он послал этим утром,email_sendemail,1.0,1.0,True
+16560,ru-RU,email,email_sendemail,ответь на письмо начальника с сообщением что я буду в четыре вечера,email_sendemail,1.0,1.0,True
+16563,ru-RU,email,email_query,olly проверь мою почту,email_sendemail,1.0,0.0,False
+16591,ru-RU,email,email_sendemail,я только что получил письмо от бори мне надо ответить прямо сейчас,email_sendemail,1.0,1.0,True
+16593,ru-RU,email,email_sendemail,на последнее электронное письмо необходимо ответить как можно скорее,email_sendemail,1.0,1.0,True
+16603,ru-RU,email,email_query,что говорится в письме которое мама прислала тридцать минут назад,email_sendemail,1.0,0.0,False
+16605,ru-RU,email,email_sendemail,напиши и отправь электронное письмо моему начальнику,email_sendemail,1.0,1.0,True
+16609,ru-RU,email,email_query,скажи мне есть ли у меня новые непрочитанные письма,email_sendemail,0.8127,0.1871,False
+16613,ru-RU,email,email_sendemail,отправь и-мейл руководителю со словами я опоздаю,email_sendemail,1.0,1.0,True
+16622,ru-RU,email,email_sendemail,отправь и-мейл этому контакту,email_sendemail,1.0,1.0,True
+16624,ru-RU,email,email_sendemail,мне нужно чтобы был направлен и-мейл в максидом о моих проблемах с обслуживанием,email_sendemail,0.6719,0.6719,True
+16627,ru-RU,email,email_query,проверь последние письма,email_sendemail,1.0,0.0,False
+16630,ru-RU,email,email_sendemail,пошли ответ на этот последний имейл,email_sendemail,1.0,1.0,True
+16642,ru-RU,email,email_query,проверь почту есть ли что-нибудь от тани,email_sendemail,1.0,0.0,False
+16648,ru-RU,email,email_query,пожалуйста проверь мои и-мейлы для меня,email_sendemail,1.0,0.0,False
+16652,ru-RU,email,email_query,имеет ли электронное письмо андрея вложение,email_query,0.5621,0.5621,True
+16662,ru-RU,email,email_query,приходили мне какие нибудь новые письма от димы,email_sendemail,1.0,0.0,False
+16666,ru-RU,email,email_query,у меня есть какие либо новые письма,email_sendemail,1.0,0.0,False
+16668,ru-RU,email,email_query,какие нибудь новые письма пришли сегодня с четырёх ноль ноль,email_sendemail,1.0,0.0,False
+16669,ru-RU,email,email_query,не приходило письмо от паши,email_sendemail,1.0,0.0,False
+16672,ru-RU,email,email_query,бен выходил на связь,social_post,0.9881,0.0003,False
+16677,ru-RU,email,email_query,есть ли у меня сегодня какие нибудь новые письма в моём почтовом ящике,email_sendemail,1.0,0.0,False
+16698,ru-RU,email,email_sendemail,напиши ответ на и-мейл моей мамы,email_sendemail,1.0,1.0,True
+16701,ru-RU,email,email_sendemail,я бы хотел ответить на сарино письмо,email_sendemail,1.0,1.0,True
+16703,ru-RU,email,email_sendemail,хочу написать ответ на самый последний имейл,email_sendemail,0.9885,0.9885,True
+16712,ru-RU,email,email_query,у меня есть какие либо новые письма,email_sendemail,1.0,0.0,False
+16713,ru-RU,email,email_query,пожалуйста проверь мои и-мейлы и уведоми меня если есть любое новое электронное письмо,email_sendemail,1.0,0.0,False
+16717,ru-RU,email,email_sendemail,можешь пожалуйста отправить и-мейл ивану со словами я в отъезде,email_sendemail,1.0,1.0,True
+16719,ru-RU,email,email_query,покажи мне все новые письма что я получил,email_sendemail,0.9761,0.0146,False
+16729,ru-RU,email,email_sendemail,ответь на мой и-мейл от вовы сообщи им я увижусь с ними завтра,email_sendemail,1.0,1.0,True
+16730,ru-RU,email,email_query,проверь есть ли новые письма от андрея,email_sendemail,1.0,0.0,False
+16733,ru-RU,email,email_query,покажи мне последние письма с amazon,email_sendemail,1.0,0.0,False
+16749,ru-RU,email,email_query,у меня есть какие-нибудь новые письма сегодня,email_sendemail,0.9999,0.0001,False
+16754,ru-RU,email,email_sendemail,наговори электронное письмо,email_sendemail,1.0,1.0,True
+16758,ru-RU,email,email_query,есть какой-нибудь новый и-мейл с прошлого раза,email_sendemail,1.0,0.0,False
+16763,ru-RU,email,email_query,электронные письма за последние десять минут,email_sendemail,1.0,0.0,False
+16765,ru-RU,email,email_query,из вчерашнего имейла во сколько интервью,email_sendemail,0.9998,0.0002,False
+16766,ru-RU,email,email_query,новые электронные письма,email_sendemail,0.9637,0.0322,False
+16772,ru-RU,email,email_query,покажи все письма про разрыв,email_sendemail,0.9867,0.0123,False
+16780,ru-RU,email,email_sendemail,пошли письмо борису на juanpedro собака gmail точка com,email_sendemail,1.0,1.0,True
+16791,ru-RU,email,email_sendemail,напиши новое электронное письмо но на этот раз я получил новый адрес валентин собака яндекс точка ру,email_sendemail,1.0,1.0,True
+16799,ru-RU,email,email_query,мне приходили какие либо письма с полудня,email_sendemail,0.9977,0.0023,False
+16801,ru-RU,email,email_query,присылала ли мне катя какие то письма про тимофея,email_sendemail,1.0,0.0,False
+16813,ru-RU,email,email_query,подай сигнал когда придет имейл от ивана,email_sendemail,1.0,0.0,False
+16814,ru-RU,email,email_query,проверь электронную почту,email_sendemail,0.879,0.115,False
+16838,ru-RU,email,email_sendemail,можно послать письмо на новый адрес,email_sendemail,1.0,1.0,True
+16851,ru-RU,email,email_query,почтовый оповещения,social_post,0.8714,0.0033,False
+16859,ru-RU,email,email_query,что я писал сюзанне в моем последнем письме,email_sendemail,1.0,0.0,False
+16872,ru-RU,email,email_sendemail,найди наташу в моих контактах и отправь ей письмо,email_sendemail,0.9936,0.9936,True
+16873,ru-RU,email,email_sendemail,напиши наталье и поздравь ее с днем рождения,email_sendemail,0.9989,0.9989,True
+16880,ru-RU,email,email_sendemail,отправь и-мейл даниилу про собрание,email_sendemail,1.0,1.0,True
+16883,ru-RU,email,email_sendemail,напиши письмо косте и спроси во сколько он будет дома сегодня вечером,email_sendemail,1.0,1.0,True
+16886,ru-RU,email,email_sendemail,ответь на это письмо,email_sendemail,1.0,1.0,True
+16888,ru-RU,email,email_query,что по новым письмам,email_sendemail,1.0,0.0,False
+16890,ru-RU,email,email_query,что говорится в моем новом имейле,email_sendemail,0.9999,0.0001,False
+16891,ru-RU,email,email_sendemail,пошли письмо сидорову саше,email_sendemail,1.0,1.0,True
+16892,ru-RU,email,email_sendemail,начни письмо ивану самойлову,email_sendemail,1.0,1.0,True
+16899,ru-RU,email,email_query,мне приходили какие нибудь новые письма от евгения петрова,email_sendemail,1.0,0.0,False
+16914,ru-RU,email,email_query,у меня есть письма от этого отправителя,email_sendemail,1.0,0.0,False
+16916,ru-RU,email,email_sendemail,ответь на письмо которое я получил,email_sendemail,1.0,1.0,True
+16924,ru-RU,email,email_query,пожалуйста проверить мою яндекс почту для нового письма,email_sendemail,0.9998,0.0002,False
+16930,ru-RU,email,email_query,покажи последние письма,email_sendemail,1.0,0.0,False
+16938,ru-RU,email,email_sendemail,ответь на женино письмо,email_sendemail,1.0,1.0,True
+16944,ru-RU,email,email_sendemail,напиши имейл бабушке скажи мы заскочим в субботу до встречи,email_sendemail,1.0,1.0,True
+16947,ru-RU,email,email_sendemail,ответное письмо,email_sendemail,1.0,1.0,True
+16955,ru-RU,email,email_sendemail,отправь письмо новому контакту,email_sendemail,1.0,1.0,True
+16956,ru-RU,email,email_sendemail,отправь письмо новому контакту,email_sendemail,1.0,1.0,True
+16961,ru-RU,email,email_sendemail,ответь с,qa_factoid,0.9973,0.0002,False
+16974,ru-RU,email,email_query,проверь всю новую почту из департамента подоходного налога,email_sendemail,1.0,0.0,False
+16987,ru-RU,email,email_query,какие нибудь новые письма от ивана,email_sendemail,1.0,0.0,False
+16989,ru-RU,email,email_sendemail,пожалуйста ответь на и-мейл который прислал мне георгий мне нужны деньги сейчас это срочно,email_sendemail,1.0,1.0,True
+16992,ru-RU,email,email_query,лена катина писала по электронной почте мне,email_sendemail,1.0,0.0,False
+16995,ru-RU,email,email_sendemail,пошли письмо арине,email_sendemail,1.0,1.0,True
+17005,ru-RU,email,email_query,проверь почту,email_sendemail,1.0,0.0,False
+17011,ru-RU,email,email_sendemail,можешь отправить письмо,email_sendemail,1.0,1.0,True
+17015,ru-RU,email,email_sendemail,начни отвечать,qa_factoid,0.9249,0.0012,False
+17019,ru-RU,email,email_sendemail,составь письмо на последний имейл,email_sendemail,1.0,1.0,True
+17020,ru-RU,email,email_sendemail,ответь на последнее полученное электронное письмо,email_sendemail,1.0,1.0,True
+17023,ru-RU,email,email_sendemail,напиши маме и спроси как погода у них,weather_query,0.9985,0.0001,False
+17042,ru-RU,email,email_sendemail,напиши имейл на john собака gmail точка com,email_sendemail,1.0,1.0,True
+17043,ru-RU,email,email_sendemail,отправь электронное письмо тиму на hotmail точка com,email_sendemail,1.0,1.0,True
+17051,ru-RU,email,email_query,покажи мне новое письмо,email_sendemail,1.0,0.0,False
+17052,ru-RU,email,email_query,ищи надежду,qa_factoid,0.9998,0.0,False
+17069,ru-RU,email,email_query,есть какие нибудь новые письма в outlook,email_sendemail,0.9466,0.0389,False
+17075,ru-RU,email,email_query,есть какие-нибудь новые письма полученные сегодня после четырёх,email_sendemail,0.6275,0.3712,False
+17081,ru-RU,email,email_sendemail,создай письмо для сотрудника компании с моими недавно сохраненными документами,email_sendemail,1.0,1.0,True
+17087,ru-RU,email,email_query,проверь новые письма полученные от елены,email_sendemail,1.0,0.0,False
+17098,ru-RU,email,email_query,покажи мне все письма полученные за последний час,email_sendemail,0.9987,0.0013,False
+17107,ru-RU,email,email_query,проверь почту,email_sendemail,1.0,0.0,False
+17108,ru-RU,email,email_query,открой мое последнее письмо,email_sendemail,1.0,0.0,False
+17113,ru-RU,email,email_sendemail,создай электронное письмо юлии,email_sendemail,1.0,1.0,True
+17115,ru-RU,email,email_query,прочти список новых писем,email_sendemail,0.9993,0.0007,False
+17116,ru-RU,email,email_query,покажи список недавних писем,email_sendemail,0.3214,0.022,False
+17119,ru-RU,email,email_query,проверь все входящие сообщения от александра,email_sendemail,1.0,0.0,False
+17123,ru-RU,email,email_sendemail,отправь форму для регионального замдиректора по электронке,iot_hue_lightoff,0.4094,0.0073,False
+17135,ru-RU,email,email_query,любые новые письма про освещение,email_sendemail,1.0,0.0,False
+17136,ru-RU,email,email_query,пожалуйста прочитай мои новые письма,email_sendemail,1.0,0.0,False
+17138,ru-RU,email,email_query,пожалуйста отправь в архив мои прочитанные сообщения,email_sendemail,0.9083,0.0009,False
+17142,ru-RU,email,email_query,что у меня во входящих с последнего раза,news_query,0.4306,0.0677,False
+17143,ru-RU,email,email_sendemail,эй отправь письмо жене,email_sendemail,1.0,1.0,True
+17144,ru-RU,email,email_query,эй проверь почту,email_sendemail,1.0,0.0,False
+17147,ru-RU,email,email_sendemail,ответь на письмо со следующим содержанием привет тебе,email_sendemail,1.0,1.0,True
+17148,ru-RU,email,email_sendemail,alexa ответь на письмо следующее привет тебе,email_sendemail,1.0,1.0,True
+17151,ru-RU,email,email_sendemail,мой друг женя прислал мне пригласительную открытку на новоселье поблагодари его на его почту,email_sendemail,1.0,1.0,True
+17156,ru-RU,email,email_query,проверь мою почту есть новое письмо от васи,email_sendemail,1.0,0.0,False
+17157,ru-RU,email,email_query,у меня есть какие нибудь новые письма от жени,email_sendemail,1.0,0.0,False
+17170,ru-RU,email,email_query,уведоми меня когда иннокентий мне напишет,qa_factoid,0.6645,0.0001,False
+17179,ru-RU,email,email_query,алексей послал мне имейл,email_sendemail,1.0,0.0,False

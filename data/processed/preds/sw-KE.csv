@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,sw-KE,iot,iot_hue_lightoff,olly zima taa ndani ya chumba cha malazi,email_sendemail,0.6546,0.0638,False
+47,sw-KE,datetime,datetime_query,saa ngapi huko australia,qa_factoid,0.5011,0.0083,False
+85,sw-KE,datetime,datetime_query,niambie tarehe ya leo,social_post,0.9997,0.0,False
+86,sw-KE,datetime,datetime_query,leo ni tarehe ngapi,qa_factoid,0.8325,0.0049,False
+100,sw-KE,weather,weather_query,nini utabiri wa wiki,qa_factoid,0.7305,0.0058,False
+102,sw-KE,weather,weather_query,hali ya hewa ya wiki hii iko aje,weather_query,0.9812,0.9812,True
+103,sw-KE,weather,weather_query,niambie hali ya hewa wiki hii,weather_query,0.7147,0.7147,True
+128,sw-KE,datetime,datetime_query,tarehe ngapi,weather_query,0.9872,0.0001,False
+151,sw-KE,play,play_music,cheza hiyo tena tafadhali,cooking_recipe,0.9702,0.0232,False
+177,sw-KE,news,news_query,niambie habari za biashara,social_post,0.9834,0.0052,False
+178,sw-KE,news,news_query,niambie habari za kimataifa,qa_factoid,0.9985,0.0,False
+182,sw-KE,play,play_music,cheza orodha ya kucheza yangu ya benga,cooking_recipe,0.8384,0.0037,False
+185,sw-KE,play,play_music,fungua orodha yangu ya kucheza na ucheze wimbo wa tatu kwa orodha,play_music,0.9991,0.9991,True
+197,sw-KE,datetime,datetime_query,ni saa ngapi,qa_factoid,0.869,0.0027,False
+216,sw-KE,weather,weather_query,hali ya hewa iko aje leo,iot_hue_lightoff,0.9598,0.0003,False
+219,sw-KE,weather,weather_query,nilete mwavuli kesho,qa_factoid,0.4299,0.0119,False
+220,sw-KE,play,play_music,orodha ya rock,social_post,0.8137,0.0973,False
+250,sw-KE,play,play_music,cheza muziki wa jazi,play_music,0.9999,0.9999,True
+254,sw-KE,play,play_music,olly kucheza wimbo mzuri kutoka kwa mchezaji yangu nayopenda jazz,play_music,1.0,1.0,True
+279,sw-KE,weather,weather_query,nini utabiri wa leo wa berlin,email_sendemail,0.9994,0.0,False
+281,sw-KE,news,news_query,mgomo wa madaktari ni nini,social_post,0.9998,0.0,False
+296,sw-KE,play,play_music,cheza nakupenda malaika,qa_factoid,0.7294,0.0016,False
+297,sw-KE,play,play_music,changanya wimbo wa sauti sol,play_music,0.9918,0.9918,True
+299,sw-KE,weather,weather_query,hali ya hewa ni gani,weather_query,0.9904,0.9904,True
+310,sw-KE,datetime,datetime_query,ni siku gani ya mkesha wa mwaka mpya mwaka huu,weather_query,0.9944,0.0012,False
+319,sw-KE,weather,weather_query,niambie hali ya hewa ya nairobi siku mbili kutoka sasa,weather_query,0.996,0.996,True
+329,sw-KE,play,play_music,mapenzi hisia,email_sendemail,1.0,0.0,False
+333,sw-KE,weather,weather_query,hali ya hewa ikoje huko nairobi,iot_hue_lightoff,0.8299,0.0056,False
+334,sw-KE,weather,weather_query,natamani kujua hali ya hewa huko san francisco,weather_query,0.922,0.922,True
+344,sw-KE,weather,weather_query,kutakuwa na mvua kesho,weather_query,0.8794,0.8794,True
+348,sw-KE,weather,weather_query,itanyesha kesho,social_post,0.9992,0.0,False
+355,sw-KE,datetime,datetime_query,siku gani ya juma ni aprili tarehe moja,weather_query,0.8998,0.0036,False
+360,sw-KE,datetime,datetime_query,sasa ni saa ngapi,qa_factoid,0.9822,0.0006,False
+362,sw-KE,play,play_music,cheza wimbo wa pili kutoka fadhili williams,play_music,1.0,1.0,True
+366,sw-KE,news,news_query,tafadhali niambie habari za hivi punde,social_post,0.9937,0.0002,False
+369,sw-KE,iot,iot_hue_lightoff,zima taa,weather_query,0.9376,0.003,False
+385,sw-KE,news,news_query,ni nini kinachovutia taifa leo,qa_factoid,1.0,0.0,False
+391,sw-KE,play,play_music,cheza wimbo wa nasibu kwenye orodha yangu ya kucheza,play_music,1.0,1.0,True
+393,sw-KE,play,play_music,cheza wimbo wa taarab kwenye orodha ya kucheza yangu,play_music,1.0,1.0,True
+397,sw-KE,play,play_music,cheza wimbo yoyote ya bahati,play_music,1.0,1.0,True
+400,sw-KE,play,play_music,cheza muziki,play_music,0.9998,0.9998,True
+407,sw-KE,play,play_music,unaweza kucheza muziki wa roki katika saa ijayo,play_music,0.9984,0.9984,True
+424,sw-KE,news,news_query,ni habari zipi zinazochipuka,qa_factoid,0.9901,0.0004,False
+427,sw-KE,iot,iot_hue_lightoff,zima taa ya bafu,weather_query,0.7046,0.0022,False
+428,sw-KE,iot,iot_hue_lightoff,zima taa za bafu,qa_factoid,0.8863,0.0002,False
+430,sw-KE,weather,weather_query,hali ya hewa iko aje sasa hivi,iot_hue_lightoff,0.9892,0.0093,False
+437,sw-KE,play,play_music,cheza bendi ya les wanyika,cooking_recipe,0.9222,0.005,False
+441,sw-KE,news,news_query,nini habari za hivi karibuni,news_query,0.9989,0.9989,True
+442,sw-KE,news,news_query,kinachoendelea kwenye habari,news_query,0.9986,0.9986,True
+451,sw-KE,news,news_query,nipe bei ya hisa ya naivas ya karibuni,social_post,0.9511,0.0013,False
+473,sw-KE,play,play_music,cheza rhumba japani,social_post,0.9994,0.0,False
+486,sw-KE,datetime,datetime_query,ni wakati gani katika nairobi,qa_factoid,0.9007,0.0004,False
+491,sw-KE,weather,weather_query,je kuna baridi nje,social_post,0.9126,0.0001,False
+506,sw-KE,play,play_music,fungua nyimbo kutoka fundi konde,play_music,1.0,1.0,True
+512,sw-KE,weather,weather_query,kwa bahati,qa_factoid,0.9955,0.0,False
+540,sw-KE,play,play_music,kucheza wimbo wa nakupenda malaika wa miriam makeba,play_music,1.0,1.0,True
+555,sw-KE,play,play_music,cheza aiyana ya otile brown,iot_hue_lightoff,0.9612,0.001,False
+576,sw-KE,play,play_music,cheza zote kwa orodha ya kucheza,cooking_recipe,0.6866,0.0117,False
+585,sw-KE,news,news_query,onyesha habari za hivi punde,iot_hue_lightoff,0.942,0.0407,False
+588,sw-KE,news,news_query,ni habari gani mpya kwa leo,news_query,0.9963,0.9963,True
+590,sw-KE,weather,weather_query,hali ya hewa ya sasa ni nini,weather_query,0.9993,0.9993,True
+614,sw-KE,play,play_music,anza orodha ya kucheza,social_post,0.9611,0.0009,False
+625,sw-KE,play,play_music,tafadhali cheza wimbo wa redio sura mbaya,play_music,0.9998,0.9998,True
+631,sw-KE,news,news_query,weka arifu kwa habari kuhusu bomba la dakota,social_post,0.9215,0.0025,False
+651,sw-KE,iot,iot_hue_lightoff,zima taa za chumba,qa_factoid,0.9995,0.0,False
+660,sw-KE,datetime,datetime_query,masaa ya sasa hivi kenya,social_post,0.6323,0.0012,False
+680,sw-KE,news,news_query,nifahamishe kuhusu bei ya bitcoin,qa_factoid,1.0,0.0,False
+686,sw-KE,datetime,datetime_query,saa ngapi sasa huko nairobi,qa_factoid,0.4293,0.0129,False
+712,sw-KE,news,news_query,nataka kusikia habari za mwisho kutoka kwa k. b. c.,news_query,0.9412,0.9412,True
+726,sw-KE,weather,weather_query,muhtasari wa maelezo ya hali ya hewa ya wiki,iot_hue_lightoff,0.7638,0.0477,False
+730,sw-KE,iot,iot_hue_lightoff,zima taa,weather_query,0.9376,0.003,False
+738,sw-KE,weather,weather_query,je kuna baridi kiasi gani hivi leo,qa_factoid,0.9281,0.0003,False
+764,sw-KE,weather,weather_query,nini utabiri wa hali ya hewa ya wiki hii,weather_query,0.5621,0.5621,True
+765,sw-KE,news,news_query,tafadhali unaweza nipa habari iliyo ya sasa ya vichwa vya habari kutoka daily nation,social_post,0.929,0.0064,False
+767,sw-KE,news,news_query,tafadhali unaweza kunitafutia habari za hivi punde kutoka kwa chanzo ambacho huwa siendi,social_post,0.5535,0.0019,False
+768,sw-KE,news,news_query,nieleze kuhusu habari zilizojiri za siasa,news_query,0.6139,0.6139,True
+779,sw-KE,play,play_music,nataka kuskia shuka ya mwabuka,social_post,0.9919,0.0003,False
+781,sw-KE,play,play_music,cheza azoni,social_post,0.9977,0.0001,False
+782,sw-KE,play,play_music,cheza kenya ni nchi yetu ya johana sakwa,social_post,0.9092,0.006,False
+783,sw-KE,play,play_music,cheza nyimbo za mapenzi,play_music,1.0,1.0,True
+790,sw-KE,weather,weather_query,hali ya hewa hafifu au nzito,iot_hue_lightoff,0.8735,0.0977,False
+826,sw-KE,weather,weather_query,kiwango cha joto cha sasa nje ni kipi,qa_factoid,0.295,0.0251,False
+827,sw-KE,play,play_music,cheza orodha ya kucheza ya koinange,cooking_recipe,0.5301,0.0141,False
+832,sw-KE,weather,weather_query,hey nina itakuwa hali ya hewa iliyotabiriwa kesho,weather_query,0.9552,0.9552,True
+837,sw-KE,news,news_query,ni nini kura ya maoni ya b.b.c inatabiri kwa uchaguzi ujao wa marekani,qa_factoid,0.9989,0.0001,False
+891,sw-KE,play,play_music,cheza baadhi ya muziki ya kikristu,play_music,1.0,1.0,True
+914,sw-KE,iot,iot_hue_lightoff,tafadhali zima taa,weather_query,0.9547,0.0012,False
+936,sw-KE,play,play_music,fungua na ucheze muziki kutoka orodha ya mazoezi,play_music,1.0,1.0,True
+951,sw-KE,weather,weather_query,hali ya hewa ikoje kwa sasa huko new york,weather_query,0.9912,0.9912,True
+969,sw-KE,news,news_query,makala ya habari juu ya mada fulani,news_query,0.798,0.798,True
+974,sw-KE,datetime,datetime_query,saa ngapi huko nairobi sasa,qa_factoid,0.9455,0.0023,False
+997,sw-KE,iot,iot_hue_lightoff,zima taa ya sebuleni,weather_query,0.9776,0.0017,False
+999,sw-KE,iot,iot_hue_lightoff,unaweza zima taa,qa_factoid,0.9997,0.0001,False
+1007,sw-KE,play,play_music,cheza wanavokali kutoka kwa orodha yangu ya kucheza ya rock,play_music,0.9999,0.9999,True
+1014,sw-KE,datetime,datetime_query,saa ngapi huko nairobi sasa hivi,qa_factoid,0.9846,0.0001,False
+1047,sw-KE,play,play_music,nahisi kulia unaweza kunichezea nyimbo za huzuni za rock,play_music,1.0,1.0,True
+1061,sw-KE,news,news_query,nipatie habari za michezo za hadi sasa,social_post,0.9898,0.0011,False
+1063,sw-KE,news,news_query,nipe taarifa ya habari ya michezo kila saa,social_post,0.8847,0.0782,False
+1084,sw-KE,news,news_query,rahisi kutumika,qa_factoid,0.9087,0.0004,False
+1093,sw-KE,news,news_query,enda kwenye tovuti ya daily nation,qa_factoid,0.9812,0.0002,False
+1098,sw-KE,datetime,datetime_query,siku gani ya juma tarehe kumi na tano ya machi,weather_query,0.5528,0.0026,False
+1108,sw-KE,play,play_music,hamu yangu ni kwamba nisikilize baadhi ya wimbo za bongo,play_music,0.9821,0.9821,True
+1115,sw-KE,play,play_music,cheza aina za nyimbo yote ya bongo mapenzi hisia,play_music,1.0,1.0,True
+1120,sw-KE,news,news_query,kuna habari maalum katika siasa,qa_factoid,0.5357,0.4021,False
+1121,sw-KE,play,play_music,cheza shauri yako ya nkuashi ntimbo,cooking_recipe,0.9839,0.0123,False
+1123,sw-KE,play,play_music,inayofuata cheza justin muturi kristina dada,qa_factoid,1.0,0.0,False
+1124,sw-KE,play,play_music,pata burudani zangalewa staminamina tayari kucheza ijayo,cooking_recipe,0.2192,0.0291,False
+1127,sw-KE,play,play_music,changa kiholela nyimbo zote ukicheza,play_music,0.9959,0.9959,True
+1144,sw-KE,play,play_music,naitaji baadhi ya rap,social_post,0.6907,0.1662,False
+1148,sw-KE,datetime,datetime_query,ni saa ngapi huko sydney sasa ivi,qa_factoid,0.4947,0.0046,False
+1156,sw-KE,news,news_query,habari mpya za siku ya madaraka,social_post,0.8845,0.0033,False
+1160,sw-KE,weather,weather_query,kutakuwa na baridi kiasi gani kila usiku wiki hii,qa_factoid,0.7575,0.0199,False
+1180,sw-KE,news,news_query,tafuta vifungu vya leo vya mpasho kuhusu kibaki,qa_factoid,0.9859,0.0005,False
+1202,sw-KE,datetime,datetime_query,wakati wa sasa huko new york,social_post,0.7213,0.0008,False
+1238,sw-KE,play,play_music,pandora,qa_factoid,0.1403,0.0391,False
+1249,sw-KE,weather,weather_query,uwezekano ya hali ya hewa inaweza kuwaje wiki hii,iot_hue_lightoff,0.557,0.4374,False
+1252,sw-KE,datetime,datetime_query,niambie wakati wa sasa,qa_factoid,0.9548,0.001,False
+1294,sw-KE,news,news_query,nipatie habari za groove awards,social_post,0.63,0.1768,False
+1301,sw-KE,news,news_query,niambie kuhusu sera mpya ya kigeni ya kibaki,qa_definition,0.5021,0.0009,False
+1308,sw-KE,weather,weather_query,tafuta hali ya hewa leo mahali hapa,social_post,0.7908,0.0018,False
+1318,sw-KE,play,play_music,anzisha programu ya muziki na unichezee wimbo,play_music,0.9994,0.9994,True
+1351,sw-KE,weather,weather_query,je nje kutakuwa kuzuri wiki hii,social_post,0.188,0.1048,False
+1371,sw-KE,news,news_query,tuna nini kwenye ukurasa wa kwanza wa daily nation,news_query,0.9996,0.9996,True
+1377,sw-KE,iot,iot_hue_lightoff,tafadhali zima taa ya chumba cha mwanangu,weather_query,0.9901,0.0022,False
+1400,sw-KE,weather,weather_query,mimi huwa makini zaidi,social_post,0.9622,0.0013,False
+1401,sw-KE,weather,weather_query,mara kwa mara mimi hukuwa makini,social_post,0.9866,0.0001,False
+1404,sw-KE,weather,weather_query,naweza pata hali ya hewa ya kesho ya nakuru,weather_query,0.9914,0.9914,True
+1423,sw-KE,news,news_query,niambie kuhusu uhuru kenyatta,social_post,0.9993,0.0,False
+1425,sw-KE,news,news_query,nijulishe ukisikia kuhusu ufaransa,recommendation_events,0.3924,0.0042,False
+1440,sw-KE,play,play_music,cheza nyimbo za rock za karibuni zenye ukadiriaji ya nyota nne au zaidi,play_music,0.9999,0.9999,True
+1449,sw-KE,datetime,datetime_query,mwaka wa elfu mbili na kumi na nane pasaka itakua lini,datetime_query,0.1184,0.1184,True
+1458,sw-KE,weather,weather_query,kuna joto kiasi gani quebec,qa_factoid,0.9742,0.0,False
+1467,sw-KE,play,play_music,cheza fadhili williams,email_query,0.918,0.0002,False
+1474,sw-KE,news,news_query,habari za michezo leo ni zipi,email_sendemail,0.5801,0.001,False
+1489,sw-KE,play,play_music,cheza nyimbo za hivi karibuni za bensoul,play_music,1.0,1.0,True
+1513,sw-KE,weather,weather_query,joto gani iko nje,qa_factoid,1.0,0.0,False
+1533,sw-KE,news,news_query,ni habari gani imetokea kwenye k. b. c. leo,news_query,0.9992,0.9992,True
+1537,sw-KE,datetime,datetime_query,nionyeshe wakati wa sasa katika nairobi,qa_factoid,0.9957,0.0001,False
+1542,sw-KE,weather,weather_query,jua linang'aa tutakuwa na hali ya hewa wakati wa siku uliobaki,weather_query,0.9587,0.9587,True
+1546,sw-KE,play,play_music,cheza zilizopendwa,qa_factoid,1.0,0.0,False
+1547,sw-KE,weather,weather_query,hali ya hewa ikoje katika eneo langu wiki hii,iot_hue_lightoff,0.8019,0.1975,False
+1549,sw-KE,weather,weather_query,je itanyesha wiki hii,qa_factoid,0.6131,0.0161,False
+1554,sw-KE,iot,iot_hue_lightoff,zima taa,weather_query,0.9376,0.003,False
+1581,sw-KE,datetime,datetime_query,leo ni siku mwezi na mwaka gani,weather_query,0.9975,0.0016,False
+1589,sw-KE,weather,weather_query,kutakuwa na jua jumanne ijayo,weather_query,0.7928,0.7928,True
+1593,sw-KE,news,news_query,weka arifu kutoka daily nation,qa_factoid,0.7825,0.0003,False
+1594,sw-KE,news,news_query,niambie habari zilizojiri hivi karibuni,news_query,0.9965,0.9965,True
+1607,sw-KE,datetime,datetime_query,niambie wakati wa sasa huko los angels,play_music,0.2969,0.0235,False
+1617,sw-KE,news,news_query,mara mada mpya kuhusu siasa ikija utanijulisha,play_podcasts,0.2201,0.0691,False
+1636,sw-KE,news,news_query,nionyeshe habari za hivi punde kutoka kwa guardian,news_query,0.9808,0.9808,True
+1653,sw-KE,weather,weather_query,je kutanyesha lini tena,email_sendemail,0.8968,0.0007,False
+1655,sw-KE,weather,weather_query,je kutakuwa na theluji kesho mchana,iot_hue_lightoff,0.8785,0.1199,False
+1666,sw-KE,news,news_query,ni habari gani ya daily nation ya saa sita zilizopita,news_query,0.9997,0.9997,True
+1671,sw-KE,play,play_music,cheza muziki wote uliochezwa kati ya mwaka wa elfu moja mia tisa tisini na elfu mbili,play_music,1.0,1.0,True
+1683,sw-KE,weather,weather_query,joto ya kesho itakuwa kali ndiyo au hapana,weather_query,0.9948,0.9948,True
+1684,sw-KE,weather,weather_query,nijulishe iwapo temprecha ya kesho itakua ya joto,iot_hue_lightoff,0.8798,0.0418,False
+1692,sw-KE,play,play_music,nitafutie baadhi ya jazi laini,qa_factoid,0.8892,0.001,False
+1722,sw-KE,weather,weather_query,ni ipi joto ya chini nairobi,social_post,0.584,0.0035,False
+1750,sw-KE,iot,iot_hue_lightoff,kuzima taa zote,cooking_recipe,0.9155,0.0044,False
+1759,sw-KE,news,news_query,nipe habari za rais uhuru kenyatta,social_post,1.0,0.0,False
+1760,sw-KE,news,news_query,habari za hivi punde kuhusu ugaidi,social_post,0.9837,0.0018,False
+1777,sw-KE,play,play_music,wimbo unaofuata,iot_hue_lightoff,0.9499,0.0017,False
+1784,sw-KE,iot,iot_hue_lightoff,zima chumba cha kulia,qa_factoid,0.9748,0.0005,False
+1786,sw-KE,iot,iot_hue_lightoff,zima chumba cha kulala kikuu,qa_factoid,0.944,0.0017,False
+1794,sw-KE,news,news_query,kibaki atazuru tanzania hivi karibuni,social_post,0.9725,0.0005,False
+1796,sw-KE,datetime,datetime_query,tarehe leo,weather_query,0.8298,0.0022,False
+1803,sw-KE,news,news_query,timu gani zinacheza leo kwenye ligu kuu,iot_hue_lightoff,0.44,0.0042,False
+1811,sw-KE,play,play_music,anza orodha ya kucheza na ucheze muziki,play_music,0.9999,0.9999,True
+1832,sw-KE,play,play_music,cheza albamu ya mtukudzi,play_music,0.9997,0.9997,True
+1833,sw-KE,play,play_music,unaweza weka ijirudie orodha ya kucheza ya vipengee,qa_factoid,0.9694,0.0009,False
+1866,sw-KE,weather,weather_query,ripoti ya hali ya hewa sasa,iot_hue_lightoff,0.8254,0.1675,False
+1870,sw-KE,datetime,datetime_query,mwezi gani leo,weather_query,0.9217,0.0163,False
+1904,sw-KE,news,news_query,niletee mambo muhimu ya mechi,cooking_recipe,0.5118,0.0198,False
+1933,sw-KE,weather,weather_query,je joto itashuka kufikia usiku wa leo,iot_hue_lightoff,0.534,0.0091,False
+1940,sw-KE,play,play_music,cheza kichwa cha wimbo,play_music,0.9616,0.9616,True
+1962,sw-KE,play,play_music,google nichezee orodha ya kucheza wacky kwenye programu yangu ya gaana,play_music,0.5651,0.5651,True
+1994,sw-KE,play,play_music,unaeza fungua itunes yangu,qa_factoid,0.9994,0.0,False
+1995,sw-KE,play,play_music,cheza wakadinali,social_post,0.9523,0.0004,False
+2007,sw-KE,play,play_music,tafadhali cheza kanungo,cooking_recipe,0.5989,0.0024,False
+2062,sw-KE,play,play_music,nataka kucheza baadhi ya muziki ya jazz,play_music,0.9987,0.9987,True
+2085,sw-KE,play,play_music,alexa ningependa kusikia bango yoyote isipokuwa ya mzee ngala na fundi konde,cooking_recipe,0.2766,0.0203,False
+2098,sw-KE,news,news_query,nini inaendelea kwa dunia siku hizi,recommendation_events,0.3333,0.0407,False
+2108,sw-KE,play,play_music,inayofuata cheza awilo longomba,qa_factoid,0.9995,0.0,False
+2113,sw-KE,recommendation,recommendation_events,niambie matukio yote ya sasa katika mji wa nyumbani,weather_query,0.383,0.0197,False
+2146,sw-KE,datetime,datetime_query,ni tarehe gani ya sherehe miaka miwili kutoka sasa,datetime_query,0.9025,0.9025,True
+2156,sw-KE,datetime,datetime_query,nahitaji kujua wakati sasa hivi ni upi,qa_factoid,0.7362,0.0007,False
+2160,sw-KE,iot,iot_hue_lightoff,naenda kulala sasa,social_post,0.9802,0.0002,False
+2178,sw-KE,weather,weather_query,hali ya hewa ikoje mahali pangu,social_post,0.9724,0.0066,False
+2198,sw-KE,datetime,datetime_query,siku gani ya juma ilikuwa disemba nne mwaka wa elfu moja mia tisa themanini na mbili,weather_query,0.8122,0.118,False
+2201,sw-KE,news,news_query,vichwa vya habari vya k. b. c.,news_query,0.3608,0.3608,True
+2203,sw-KE,news,news_query,vichwa vya habari za ktn news,news_query,1.0,1.0,True
+2220,sw-KE,weather,weather_query,hali ya hewa nairobi,iot_hue_lightoff,0.6539,0.2092,False
+2225,sw-KE,play,play_music,cheza ferre gola asusi,social_post,0.9749,0.0014,False
+2230,sw-KE,iot,iot_hue_lightoff,zima taa za jikoni,qa_factoid,0.9138,0.0017,False
+2237,sw-KE,news,news_query,nisomee habari za kimataifa za karibuni,qa_factoid,0.9155,0.0005,False
+2258,sw-KE,weather,weather_query,je ninahitaji sweta leo,recommendation_events,0.9277,0.0009,False
+2265,sw-KE,weather,weather_query,niambie hali ya hewa inafanya nini grand rapids mi hivi sasa,weather_query,0.9887,0.9887,True
+2271,sw-KE,play,play_music,tafadhali cheza nyimbo nimezinunua na kupendezwa,play_music,1.0,1.0,True
+2296,sw-KE,news,news_query,nisasishe kuhusu alama za n. b. a. za leo,weather_query,0.4825,0.0515,False
+2298,sw-KE,iot,iot_hue_lightoff,zima taa sasa,qa_factoid,0.7646,0.0061,False
+2315,sw-KE,news,news_query,habari za leo ni nini,qa_factoid,0.8586,0.0001,False
+2316,sw-KE,news,news_query,alexa nipe kichwa cha habari,social_post,0.6251,0.1132,False
+2320,sw-KE,weather,weather_query,hali ya hewa iko aje ijumaa hii,weather_query,0.7215,0.7215,True
+2322,sw-KE,weather,weather_query,hali ya hewa iko aje kesho,weather_query,0.9571,0.9571,True
+2330,sw-KE,datetime,datetime_query,onyesha saa za ndani za nairobi kwa wakati huu,news_query,0.505,0.002,False
+2384,sw-KE,news,news_query,nini kinaendelea duniani,email_sendemail,0.5764,0.0045,False
+2386,sw-KE,news,news_query,nipe habari za hivi karibuni,news_query,0.7056,0.7056,True
+2396,sw-KE,play,play_music,anza nyimbo za sanaipei tande,play_music,0.9988,0.9988,True
+2408,sw-KE,play,play_music,tafuta nyimbo zaidi kwenye bendi,play_music,0.9864,0.9864,True
+2412,sw-KE,datetime,datetime_query,unaweza niambia ni saa ngapi huko london,weather_query,0.9996,0.0,False
+2423,sw-KE,weather,weather_query,tafadhali nipe utabiri wa leo wa nairobi,qa_factoid,0.9884,0.0006,False
+2438,sw-KE,news,news_query,tuma habari za teknolojia,play_podcasts,0.8857,0.0645,False
+2441,sw-KE,iot,iot_hue_lightoff,zima stima kwenye zizi,iot_hue_lightoff,0.6732,0.6732,True
+2472,sw-KE,datetime,datetime_query,ni wakati sahihi kwa sasa mahali nilipo,qa_factoid,0.8473,0.0005,False
+2496,sw-KE,news,news_query,habari za kila siku,cooking_recipe,0.4882,0.0069,False
+2497,sw-KE,datetime,datetime_query,leo ni tarehe ngapi,qa_factoid,0.8325,0.0049,False
+2498,sw-KE,datetime,datetime_query,siri leo ni tarehe gani,social_post,0.9511,0.0001,False
+2527,sw-KE,play,play_music,cheza zilizopendwa,qa_factoid,1.0,0.0,False
+2531,sw-KE,play,play_music,rap rock,play_music,0.9929,0.9929,True
+2545,sw-KE,weather,weather_query,hali ya hewa iko aje,iot_hue_lightoff,0.7845,0.0172,False
+2548,sw-KE,news,news_query,chochote kinavutia kutoka jeff koinange live,iot_hue_lightoff,0.7615,0.0029,False
+2560,sw-KE,play,play_music,cheza muziki nasibu,play_music,0.9986,0.9986,True
+2573,sw-KE,play,play_music,cheza orodha yangu ya kucheza ya spotify,email_query,0.5093,0.0117,False
+2578,sw-KE,iot,iot_hue_lightoff,zima taa ya ukumbi,qa_factoid,0.9955,0.0,False
+2588,sw-KE,news,news_query,ni habari zipi za karibuni kutoka k. b. c. tafadhali,news_query,0.3511,0.3511,True
+2594,sw-KE,news,news_query,niambie kuhusu habari ya mazingira ya karibuni,news_query,0.2564,0.2564,True
+2605,sw-KE,play,play_music,cheza wimbo wangu niupendao,play_music,1.0,1.0,True
+2611,sw-KE,weather,weather_query,utabiri wa hali ya hewa wa sasa,iot_hue_lightoff,0.5868,0.0004,False
+2615,sw-KE,weather,weather_query,nitahitaji kuvaa koti jumatano ijayo,iot_hue_lightoff,0.5726,0.0056,False
+2638,sw-KE,news,news_query,nionyeshe habari kuhusu kibaki,qa_factoid,0.9978,0.0004,False
+2639,sw-KE,news,news_query,nionyeshe habari kuhusu mazingira,news_query,0.8989,0.8989,True
+2651,sw-KE,news,news_query,habari za hivi punde kutoka eneo hilo,play_podcasts,0.56,0.0082,False
+2678,sw-KE,weather,weather_query,je kutanyesha usiku wa leo,qa_factoid,0.9077,0.0014,False
+2679,sw-KE,weather,weather_query,halijoto itaendelea kuwa sawa au itazidi kuwa baridi,qa_factoid,0.9996,0.0,False
+2703,sw-KE,play,play_music,tafadhali cheza muziki wa folk,play_music,0.9941,0.9941,True
+2704,sw-KE,play,play_music,hebu tuskie baadhi ya indie rock sawa,iot_hue_lightoff,0.7443,0.1416,False
+2708,sw-KE,play,play_music,olly naskia kucheza ngoma nichezee rock north roll,social_post,0.9978,0.0004,False
+2709,sw-KE,play,play_music,olly leo nataka kuskia nyimbo kadhaa za kusikitisha,play_music,0.9921,0.9921,True
+2711,sw-KE,iot,iot_hue_lightoff,zima taa,weather_query,0.9376,0.003,False
+2717,sw-KE,play,play_music,nataka kuskiza pete yangu,social_post,0.6359,0.0001,False
+2724,sw-KE,news,news_query,nipe habari kutoka k. b. c.,qa_factoid,0.7789,0.0051,False
+2770,sw-KE,play,play_music,olly cheza muziki kutoka jazz,play_music,0.9999,0.9999,True
+2774,sw-KE,iot,iot_hue_lightoff,zima taa,weather_query,0.9376,0.003,False
+2775,sw-KE,iot,iot_hue_lightoff,sitisha matumizi ya taa,social_post,0.4492,0.0117,False
+2777,sw-KE,weather,weather_query,je nilete mwavuli leo,qa_factoid,0.988,0.0001,False
+2781,sw-KE,play,play_music,tafadhali cheza baadhi muziki ya jazz,play_music,0.9989,0.9989,True
+2798,sw-KE,play,play_music,alexa cheza wimbo malaika,play_music,0.9991,0.9991,True
+2801,sw-KE,datetime,datetime_query,ni saa ngapi huko london,weather_query,0.5816,0.0101,False
+2824,sw-KE,datetime,datetime_query,mwezi wa disemba tarehe kumi na tatu ni siku gani,weather_query,0.9356,0.0629,False
+2840,sw-KE,datetime,datetime_query,siku ya pili wa mwezi ujao ya mont siku gani,weather_query,0.9765,0.0219,False
+2859,sw-KE,datetime,datetime_query,olly saa ngapi katika mji huu,weather_query,0.9968,0.0001,False
+2887,sw-KE,news,news_query,tafadhali nionyeshe makala yoyote kuhusiana na hali ya hewa kwa habari za asubuhi,iot_hue_lightoff,0.4746,0.0446,False
+2890,sw-KE,weather,weather_query,hali ya hewa ya sasa,weather_query,0.9889,0.9889,True
+2898,sw-KE,news,news_query,kuna sasisho yoyote kuhusu uchaguzi,cooking_recipe,0.5893,0.0991,False
+2914,sw-KE,datetime,datetime_query,niambie leo ni tarehe ngapi,social_post,0.9211,0.0007,False
+2917,sw-KE,weather,weather_query,repoti ya hali ya hewa ya wiki,iot_hue_lightoff,0.683,0.0239,False
+2921,sw-KE,news,news_query,ni makala gani ya habari mpya kwenye tovuti ya c. n. n.,lists_query,0.4374,0.231,False
+2927,sw-KE,datetime,datetime_query,saa ngapi huko kisumu,social_post,0.9952,0.0001,False
+2931,sw-KE,play,play_music,cheza nakupenda malaika ijayo,qa_factoid,0.7782,0.0026,False
+2962,sw-KE,play,play_music,tafadhali cheza wimbo wa rose muhando,play_music,0.9998,0.9998,True
+2965,sw-KE,iot,iot_hue_lightoff,zima taa za ofisi,qa_factoid,0.8861,0.0007,False
+3002,sw-KE,play,play_music,cheza nyimbo ya bendi sauti sol,play_music,1.0,1.0,True
+3031,sw-KE,play,play_music,nataka kucheza wimbo tena,play_music,1.0,1.0,True
+3034,sw-KE,weather,weather_query,niambie joto,social_post,0.9893,0.0001,False
+3037,sw-KE,news,news_query,makala ya habari ya ukurasa wa mbele tafadhali,social_post,0.5661,0.4244,False
+3039,sw-KE,news,news_query,ni nini kipya katika habari,news_query,0.9997,0.9997,True
+3060,sw-KE,news,news_query,ni habari gani kutoka k. t. n.,qa_factoid,0.8224,0.0086,False
+3091,sw-KE,datetime,datetime_query,ni wakati gani katika wakati wa kawaida wa pasifiki,qa_factoid,0.9857,0.0005,False
+3096,sw-KE,weather,weather_query,hali ya hewa iko aje new jersey,iot_hue_lightoff,0.7522,0.2217,False
+3098,sw-KE,iot,iot_hue_lightoff,zima taa zote,qa_factoid,0.9971,0.0026,False
+3099,sw-KE,news,news_query,nionyeshe baadhi ya matukio ya sasa,social_post,0.4881,0.0249,False
+3101,sw-KE,news,news_query,olly washa habari,news_query,0.7196,0.7196,True
+3116,sw-KE,play,play_music,cheza wimbo nilioupenda zaidi mwaka uliopita,play_music,1.0,1.0,True
+3117,sw-KE,play,play_music,cheza kitu kutoka albumu ya jakadala hera remo,play_music,1.0,1.0,True
+3118,sw-KE,datetime,datetime_query,ni wakati gani wa kawaida wa mashariki,qa_factoid,0.9817,0.0,False
+3124,sw-KE,play,play_music,nichezee wimbo wowote katika orodha yangu ya muziki,play_music,0.8237,0.8237,True
+3146,sw-KE,play,play_music,cheza wimbo wa kwanza wa sauti sol kwa orodha yangu ya kucheza,play_music,1.0,1.0,True
+3167,sw-KE,iot,iot_hue_lightoff,zima taa yangu ya chumba cha kulala zima,weather_query,0.9916,0.0006,False
+3174,sw-KE,play,play_music,cheza orodha ya muziki,play_music,0.9937,0.9937,True
+3205,sw-KE,play,play_music,cheza mapesi ya lady gaga,cooking_recipe,0.9017,0.0008,False
+3207,sw-KE,play,play_music,fululiza raha ya zuchu,iot_hue_lightoff,0.9317,0.0021,False
+3212,sw-KE,calendar,calendar_set,nikumbushe kufanya kitu fulani wakati huo,cooking_recipe,0.99,0.0002,False
+3214,sw-KE,news,news_query,je hali ya sasa ya uchunguzi wa mahusiano ya trump na urusi ikoje,qa_factoid,0.4967,0.0239,False
+3228,sw-KE,datetime,datetime_query,krismasi inaangukia siku gani ya juma mwaka huu,weather_query,0.9517,0.0413,False
+3253,sw-KE,weather,weather_query,je tutarajie mvua mchana huu,iot_hue_lightoff,0.9796,0.0005,False
+3264,sw-KE,play,play_music,cheza muziki wa lingala,play_music,0.9998,0.9998,True
+3305,sw-KE,weather,weather_query,je hali ya hewa mombasa wiki hii iko vipi,weather_query,0.9516,0.9516,True
+3306,sw-KE,weather,weather_query,ni utabiri gani wa wiki,qa_factoid,0.9974,0.0,False
+3329,sw-KE,news,news_query,nataka kuona habari,news_query,0.7361,0.7361,True
+3337,sw-KE,weather,weather_query,ripoti ya hali ya hewa ya thelathini na tatu elfu mia saba sabini na nne,iot_hue_lightoff,0.9998,0.0,False
+3338,sw-KE,weather,weather_query,ripoti ya hali ya hewa largo,social_post,0.5187,0.0069,False
+3361,sw-KE,datetime,datetime_query,ni tarehe gani ya jumanne ijayo,qa_factoid,0.9896,0.0,False
+3378,sw-KE,iot,iot_hue_lightoff,hakuna taa jikoni,social_post,0.9657,0.0025,False
+3386,sw-KE,iot,iot_hue_lightoff,punguza mwangaza wa taa hadi kiwango cha kati,qa_factoid,0.4211,0.3921,False
+3400,sw-KE,play,play_music,cheza toleo ya moja kwa moja ya buju banton,play_music,0.9987,0.9987,True
+3401,sw-KE,play,play_music,cheza wimbo wa dola kabari maarufu zaidi,play_music,1.0,1.0,True
+3406,sw-KE,weather,weather_query,utabiri wa siku kumi ni nini,qa_factoid,1.0,0.0,False
+3407,sw-KE,weather,weather_query,kuna utabiri wowote wa mvua au theluji wiki hii,iot_hue_lightoff,0.9659,0.0002,False
+3408,sw-KE,weather,weather_query,je hali ya hewa itakuwa nzuri hii wikendi,weather_query,0.8712,0.8712,True
+3426,sw-KE,weather,weather_query,ni digrii gapi huko nje,qa_factoid,0.276,0.0116,False
+3433,sw-KE,play,play_music,muziki mpya wa genge,play_music,0.9998,0.9998,True
+3434,sw-KE,play,play_music,muziki wa kapuka bora zaidi,qa_factoid,0.5543,0.3851,False
+3441,sw-KE,datetime,datetime_query,ni ishirini na mbili siku ya jumatano,weather_query,0.2027,0.1001,False
+3444,sw-KE,datetime,datetime_query,ni saa nne,qa_factoid,0.9358,0.0004,False
+3447,sw-KE,weather,weather_query,je kunatarajiwa mvua jumamosi,qa_factoid,0.8677,0.0018,False
+3481,sw-KE,play,play_music,cheza wimbo maarufu sana wa madilu,play_music,1.0,1.0,True
+3489,sw-KE,play,play_music,cheza muziki sasa hivi tafadhali,play_music,0.997,0.997,True
+3492,sw-KE,play,play_music,wacha tucheze orodha ya wimbo yangu inayochezwa sana,play_music,1.0,1.0,True
+3503,sw-KE,weather,weather_query,hali ya hewa ni nini huko pittsburgh,weather_query,0.9951,0.9951,True
+3507,sw-KE,weather,weather_query,kuna theluji katika utabiri,qa_factoid,0.9953,0.0,False
+3513,sw-KE,play,play_music,cheza tu yangu mapenzi hisia,qa_factoid,0.9991,0.0,False
+3516,sw-KE,weather,weather_query,je kuna uwezekano wa mvua kunyesha leo,iot_hue_lightoff,0.8997,0.0834,False
+3539,sw-KE,play,play_music,tafadhali cheza heri siku moja ya reuben kigame,qa_factoid,0.4435,0.0248,False
+3546,sw-KE,play,play_music,ningependa kusikia muziki wa jazz,play_music,0.9828,0.9828,True
+3550,sw-KE,play,play_music,weka adhiambo,iot_hue_lightoff,0.9979,0.0001,False
+3554,sw-KE,play,play_music,fungua orodha ya kucheza ya kimapenzi,cooking_recipe,0.9826,0.0008,False
+3562,sw-KE,play,play_music,cheza baby love,social_post,0.6523,0.0086,False
+3566,sw-KE,datetime,datetime_query,saa ngapi huko kisumu,social_post,0.9952,0.0001,False
+3570,sw-KE,iot,iot_hue_lightoff,zima taa za patio,email_sendemail,0.7907,0.0116,False
+3576,sw-KE,news,news_query,ni hadithi gani mpya kutoka kwa habari za citizen,social_post,0.6713,0.3031,False
+3586,sw-KE,weather,weather_query,hali ya hewa iko aje huko beijing,iot_hue_lightoff,0.4278,0.0158,False
+3600,sw-KE,calendar,calendar_set,nikumbushe baada ya dakika kumi,qa_factoid,0.9955,0.0001,False
+3603,sw-KE,news,news_query,ni habari gani za hivi punde kutoka shirika la habari kenya,news_query,0.9954,0.9954,True
+3605,sw-KE,news,news_query,ni habari gani za hivi punde kwenye k. b. c.,play_podcasts,0.8999,0.0716,False
+3606,sw-KE,datetime,datetime_query,ni saa ngapi huko beijing,qa_factoid,0.146,0.0353,False
+3614,sw-KE,weather,weather_query,ni siku ya jua leo ukweli,iot_hue_lightoff,0.7631,0.1662,False
+3623,sw-KE,news,news_query,nini kinaendelea duniani leo,social_post,0.4445,0.0126,False
+3624,sw-KE,news,news_query,habari kutoka citizen t. v.,social_post,0.9755,0.0002,False
+3631,sw-KE,play,play_music,hujambo google nichezee baadhi ya muziki ya jazz,social_post,0.6165,0.2033,False
+3686,sw-KE,play,play_music,washa orodha ya kucheza yangu nimeitolea ya muziki ya bongo,play_music,0.792,0.792,True
+3714,sw-KE,play,play_music,chezesha orodha ya kucheza yangu ya nyimbo kuanzia chini,play_music,0.9998,0.9998,True
+3717,sw-KE,play,play_music,tafadhali cheza nyimbo zangu za rhumba,play_music,0.9984,0.9984,True
+3723,sw-KE,play,play_music,ningependa kusikia minwa mary ya suzanna owiyo baada ya wimbo huu,play_music,0.9989,0.9989,True
+3725,sw-KE,datetime,datetime_query,leo ni tarehe gani,social_post,0.8847,0.0001,False
+3727,sw-KE,play,play_music,cheza rhumba ya wanavokali,social_post,0.9967,0.0002,False
+3750,sw-KE,news,news_query,olly kama kuna habari mpya itatokea kuhusu mafuriko nijulishe mara moja,email_query,0.334,0.0986,False
+3779,sw-KE,play,play_music,cheza orodha ya kucheza ya youtube tupu,social_post,0.9289,0.0161,False
+3780,sw-KE,play,play_music,cheza orodha ya kucheza yangu midnight love,social_post,0.4807,0.0353,False
+3784,sw-KE,weather,weather_query,nipe ripoti ya hali ya hewa ya las vegas,iot_hue_lightoff,0.999,0.0003,False
+3785,sw-KE,iot,iot_hue_lightoff,zima taa ya bafu tafadhali,weather_query,0.6779,0.0331,False
+3822,sw-KE,news,news_query,nitafutie habari ya magari,qa_factoid,0.787,0.0206,False
+3852,sw-KE,weather,weather_query,ni aina gani ya hali ya hewa wanayo katika mji wa orange tx sasa hivi,weather_query,0.7304,0.7304,True
+3859,sw-KE,play,play_music,tafadhali weka rap yangu ninayoipenda zaidi kwa orodha ya kucheza ya muziki,play_music,0.9999,0.9999,True
+3907,sw-KE,play,play_music,nicheze hits za mwaka uliopita,news_query,0.6988,0.0027,False
+3911,sw-KE,play,play_music,nataka kusikia nyimbo zozote zilizopata grammys mwaka huu,iot_hue_lightoff,0.7696,0.0399,False
+3912,sw-KE,play,play_music,ningependa kusikiliza muziki wa chakacha,play_music,0.9927,0.9927,True
+3936,sw-KE,weather,weather_query,joto ni ngapi,qa_factoid,0.9993,0.0,False
+3960,sw-KE,datetime,datetime_query,sema wakati,qa_factoid,0.9995,0.0,False
+3967,sw-KE,play,play_music,rap,qa_factoid,0.5852,0.0441,False
+3980,sw-KE,play,play_music,tafadhali cheza ndabasie ya kakai kilinzo,qa_factoid,0.9625,0.0017,False
+3982,sw-KE,play,play_music,tafadhali chagua wimbo wa kwanza ndani ya itunes library yangu,play_music,0.9812,0.9812,True
+3993,sw-KE,iot,iot_hue_lightoff,unaweza fanya taa kuzimika,qa_factoid,0.6784,0.0002,False
+3995,sw-KE,datetime,datetime_query,olly siku gani ya wiki ni halloween,weather_query,0.9782,0.0132,False
+4001,sw-KE,news,news_query,nini ilifanyika kwenye sue na johnie,news_query,0.9963,0.9963,True
+4023,sw-KE,news,news_query,ni nini kwenye habari,news_query,0.994,0.994,True
+4031,sw-KE,play,play_music,cheza muziki safari ya samburu,play_music,0.9998,0.9998,True
+4040,sw-KE,play,play_music,cheza wimbo ninaosikiliza zaidi,play_music,0.9999,0.9999,True
+4058,sw-KE,play,play_music,ningependa kusikia baadhi ya muziki ya rap,play_music,0.9993,0.9993,True
+4073,sw-KE,datetime,datetime_query,siku ya tano ni nini,qa_factoid,0.3788,0.0153,False
+4077,sw-KE,iot,iot_hue_lightoff,zima taa za jikoni,qa_factoid,0.9138,0.0017,False
+4088,sw-KE,iot,iot_hue_lightoff,zima taa ya juu,weather_query,0.8915,0.0017,False
+4104,sw-KE,weather,weather_query,je hali ya hewa itakuwa aje leo tucson,weather_query,0.9861,0.9861,True
+4116,sw-KE,play,play_music,cheza ngoma yangu tafadhali,social_post,0.992,0.0011,False
+4119,sw-KE,news,news_query,nataka kujua kila kitu kinayochipuka kuhusu kuvunjika kwa bwawa ya naivasha,lists_query,0.4331,0.0862,False
+4132,sw-KE,weather,weather_query,niambie asilimia ya nafasi ya mvua kunyesha huko seattle washington kwa leo,weather_query,0.8213,0.8213,True
+4136,sw-KE,play,play_music,unaweza cheza samba mapangala,qa_factoid,0.9953,0.0002,False
+4152,sw-KE,play,play_music,tafadhali cheza wimbo kwa ajili yako,play_music,0.999,0.999,True
+4168,sw-KE,weather,weather_query,tafadhali angalia hali ya hewa huko kansas,iot_hue_lightoff,0.8529,0.0137,False
+4171,sw-KE,iot,iot_hue_lightoff,zima taa jikoni,qa_factoid,0.7013,0.0036,False
+4177,sw-KE,news,news_query,nipe vichwa vya habari vya kisiasa vya hivi karibuni vya dunia mzima,news_query,0.9204,0.9204,True
+4178,sw-KE,news,news_query,kuna habari yoyote kuhusu urais,qa_factoid,0.6734,0.0744,False
+4183,sw-KE,datetime,datetime_query,saa ngapi new york sasa hivi,qa_factoid,0.6456,0.0002,False
+4186,sw-KE,datetime,datetime_query,hey olly ni saa ngapi,qa_factoid,0.9826,0.0002,False
+4187,sw-KE,datetime,datetime_query,hey siri saa ngapi,social_post,0.992,0.0002,False
+4205,sw-KE,play,play_music,nataka kuskiza nakuwaza ya reuben kagame,email_sendemail,0.3567,0.0317,False
+4212,sw-KE,weather,weather_query,nitaweza kufyeka nyasi jioni hii,iot_hue_lightoff,0.7469,0.251,False
+4227,sw-KE,weather,weather_query,kuna mvua katika utabiri wa wiki ijayo,datetime_query,0.2393,0.0363,False
+4232,sw-KE,play,play_music,cheza lusa ya oliver ngoma,social_post,0.9962,0.0001,False
+4236,sw-KE,datetime,datetime_query,mchana umefika,social_post,0.6699,0.0,False
+4253,sw-KE,datetime,datetime_query,saa ngapi katika kiwango cha mashariki,weather_query,0.9994,0.0,False
+4254,sw-KE,datetime,datetime_query,ni wakati gani katika pwani ya mashariki ya kenya,qa_factoid,0.9958,0.0,False
+4258,sw-KE,news,news_query,habari za hivi punde ni zipi,social_post,0.6913,0.0007,False
+4266,sw-KE,weather,weather_query,hali ya hewa ya leo ni ipi,iot_hue_lightoff,0.9066,0.0931,False
+4273,sw-KE,play,play_music,cheza wimbo wa tunakuabudu,play_music,1.0,1.0,True
+4290,sw-KE,weather,weather_query,je nije na koti usiku wa leo,qa_factoid,0.7759,0.0064,False
+4305,sw-KE,play,play_music,cheza wimbo wa mobutu ulioimbwa na franco makiadi,play_music,1.0,1.0,True
+4309,sw-KE,datetime,datetime_query,saa ngapi itakuwa saa sita usiku huko nairobi kenya uingereza,weather_query,0.9989,0.0001,False
+4312,sw-KE,weather,weather_query,hali ya hewa itakuwa chini ya digrii kumi katika mji wa paris,weather_query,0.9983,0.9983,True
+4313,sw-KE,weather,weather_query,je kutakuwa na mvua kesho huko roma,weather_query,0.9957,0.9957,True
+4336,sw-KE,datetime,datetime_query,saa ngapi kenya,qa_factoid,0.999,0.0,False
+4346,sw-KE,iot,iot_hue_lightoff,zima taa,weather_query,0.9376,0.003,False
+4347,sw-KE,iot,iot_hue_lightoff,kusitisha taa za kufanya kazi,qa_factoid,0.8554,0.0016,False
+4355,sw-KE,weather,weather_query,hali ya hewa iko aje hapa nilipo,social_post,0.7529,0.0018,False
+4361,sw-KE,play,play_music,nipe baadhi ya sauti nzuri,play_music,0.2256,0.2256,True
+4362,sw-KE,datetime,datetime_query,ni saa ngapi kisumu,weather_query,0.9191,0.0005,False
+4376,sw-KE,weather,weather_query,vipi leo nje,iot_hue_lightoff,0.9449,0.0017,False
+4377,sw-KE,weather,weather_query,hali ya hewa ya sasa iko aje,weather_query,0.9959,0.9959,True
+4383,sw-KE,weather,weather_query,hali ya hewa itakuwaje kesho,weather_query,0.8699,0.8699,True
+4391,sw-KE,news,news_query,vichwa habari vya c. n. n. ni nini,qa_factoid,0.9512,0.0002,False
+4400,sw-KE,news,news_query,ni makala yapi inayovuma kwa new york times,qa_factoid,0.9997,0.0,False
+4402,sw-KE,weather,weather_query,je nitahitaji kubeba mwavuli leo,cooking_recipe,0.9876,0.0001,False
+4412,sw-KE,weather,weather_query,je hali ya hewa mombasa iko vipi,iot_hue_lightoff,0.5205,0.4661,False
+4436,sw-KE,weather,weather_query,nivae koti gani,qa_factoid,0.9908,0.0,False
+4439,sw-KE,weather,weather_query,hali ya hewa ni gani san francisco,weather_query,0.9946,0.9946,True
+4449,sw-KE,weather,weather_query,mvua itanyesha leo saa saba mchana,weather_query,0.4595,0.4595,True
+4452,sw-KE,play,play_music,cheza nyimbo,play_music,1.0,1.0,True
+4463,sw-KE,datetime,datetime_query,ni jumamosi ngapi zipo kwenye mwezi wa machi,weather_query,0.9947,0.0013,False
+4477,sw-KE,play,play_music,cheza wimbo unaofuata,play_music,0.9992,0.9992,True
+4482,sw-KE,weather,weather_query,nitahitaji kupiga koleo barabara ya gari asubuhi ya leo,transport_query,0.9979,0.0018,False
+4486,sw-KE,weather,weather_query,nipe utabiri wa hali ya hewa ya wiki hii,iot_hue_lightoff,0.7403,0.24,False
+4487,sw-KE,weather,weather_query,kutanyesha siku ya alhamisi,social_post,0.4828,0.046,False
+4491,sw-KE,news,news_query,ni habari gani za hivi punde kuhusu donald trump,news_query,0.9492,0.9492,True
+4492,sw-KE,news,news_query,takwimu za uhalifu hivi punde kwa eneo langu,recommendation_events,0.8962,0.0032,False
+4496,sw-KE,news,news_query,je vogue imechapicha nini leo,social_post,0.9776,0.0002,False
+4502,sw-KE,datetime,datetime_query,hey saa ngapi huko nairobi sasa,qa_factoid,0.6912,0.0002,False
+4524,sw-KE,weather,weather_query,olly utabiri wa hali ya hewa kwa leo ni upi,weather_query,0.9483,0.9483,True
+4547,sw-KE,play,play_music,anza orotha ya kucheza ya twisti,social_post,0.7231,0.0062,False
+4567,sw-KE,news,news_query,nisomee vichwa vya habari vya karibuni kutoka standarddigitalcom,play_podcasts,0.6584,0.0298,False
+4580,sw-KE,datetime,datetime_query,ni saa ngapi nairobi,transport_query,0.4993,0.01,False
+4587,sw-KE,play,play_music,cheza ninazozipenda zaidi,cooking_recipe,0.9859,0.0098,False
+4589,sw-KE,calendar,calendar_set,weka arifa ya mchezo wa michezo,iot_hue_lightoff,0.7011,0.0001,False
+4606,sw-KE,news,news_query,tafuta habari za hifadhi ya leo,qa_factoid,0.973,0.0003,False
+4614,sw-KE,weather,weather_query,joto itakuwa zaidi ya arobaini kesho,weather_query,0.9831,0.9831,True
+4662,sw-KE,news,news_query,alexa weka habari kutoka k. b. c.,news_query,0.7619,0.7619,True
+4667,sw-KE,datetime,datetime_query,muda wa sasa katika,datetime_query,0.9512,0.9512,True
+4680,sw-KE,weather,weather_query,nivae lapulapu au viatu na soksi,social_post,0.4485,0.0157,False
+4689,sw-KE,weather,weather_query,unajua hali ya hewa,weather_query,0.8533,0.8533,True
+4692,sw-KE,play,play_music,nichezee wimbo ya otile brown,play_music,0.9886,0.9886,True
+4710,sw-KE,datetime,datetime_query,ni siku gani krismasi mwaka huu,weather_query,0.9947,0.0039,False
+4764,sw-KE,weather,weather_query,mvua itanyesha siku jumatatu,qa_factoid,0.6164,0.0103,False
+4767,sw-KE,news,news_query,kuna habari mpya kuhusu mpaka wa kenya na somalia,news_query,0.928,0.928,True
+4772,sw-KE,datetime,datetime_query,niambie saa katika eneo hili la saa,weather_query,0.9869,0.0006,False
+4780,sw-KE,datetime,datetime_query,siku gani siku yangu ya kuzaliwa inaangukia mwaka huu juni tarehe ishirini na saba,weather_query,0.997,0.0004,False
+4784,sw-KE,weather,weather_query,je ninahitaji koti,qa_factoid,0.9998,0.0,False
+4813,sw-KE,datetime,datetime_query,ni wakati gani katika mji mwingine,qa_factoid,0.9243,0.0003,False
+4837,sw-KE,news,news_query,kuna habari yoyote olly,social_post,0.5894,0.0046,False
+4838,sw-KE,play,play_music,kucheza wimbo zote wa miriam makeba,play_music,1.0,1.0,True
+4871,sw-KE,weather,weather_query,nje kukoaje,social_post,0.508,0.0113,False
+4881,sw-KE,datetime,datetime_query,tafuta wakati wa sasa la saa na saa,qa_factoid,0.9998,0.0,False
+4882,sw-KE,datetime,datetime_query,saa ngapi mjini,social_post,0.9996,0.0,False
+4890,sw-KE,calendar,calendar_set,weka arifa kuhusu majanga ya hali ya hewa ya sasa huko marekani,social_post,0.7788,0.0027,False
+4909,sw-KE,play,play_music,cheza wimbo wa barenaked ladies,play_music,0.9999,0.9999,True
+4917,sw-KE,weather,weather_query,hali ya joto nje,qa_factoid,0.61,0.0004,False
+4928,sw-KE,play,play_music,cheza my soundtrack,play_music,0.9999,0.9999,True
+4933,sw-KE,weather,weather_query,inaweza nyesha sasa,weather_query,0.8962,0.8962,True
+4951,sw-KE,datetime,datetime_query,ningependa kujua ni saa ngapi sasa hivi,qa_factoid,0.9949,0.0,False
+4953,sw-KE,news,news_query,habari kuhusu ajali ya gari la moshi,social_post,0.9965,0.0005,False
+4957,sw-KE,datetime,datetime_query,siku gani ya juma ni tarehe ishirini na tatu ya mwezi huu,datetime_query,0.5509,0.5509,True
+4960,sw-KE,play,play_music,muziki sauti sol,play_music,0.9998,0.9998,True
+4968,sw-KE,qa,qa_factoid,nani alishinda katika uchaguzi wa rais mwaka huu,qa_factoid,0.9997,0.9997,True
+4973,sw-KE,play,play_music,olly cheza nitarejea,qa_factoid,0.4592,0.0001,False
+4998,sw-KE,play,play_music,huu wimbo ufwatao wimbo,play_music,0.9974,0.9974,True
+5009,sw-KE,weather,weather_query,je nitahitaji mwavuli wiki hii,recommendation_events,0.9817,0.0002,False
+5016,sw-KE,news,news_query,niambie habari kuhusu kupanda na kushuka kwa soko la hisa,social_post,0.4744,0.0376,False
+5027,sw-KE,datetime,datetime_query,ni lini ijumaa ya tarehe kumi na tatu,social_post,0.9927,0.0002,False
+5037,sw-KE,weather,weather_query,kuna baridi aje leo,social_post,0.9998,0.0,False
+5038,sw-KE,weather,weather_query,hali ya hewa iko aje wiki hii,weather_query,0.8328,0.8328,True
+5040,sw-KE,weather,weather_query,hali ya hewa ikoje sasa,weather_query,0.7349,0.7349,True
+5062,sw-KE,play,play_music,tafadhali nichezee nyimbo kutoka miaka ya themanini,play_music,0.9955,0.9955,True
+5074,sw-KE,weather,weather_query,hali ya hewa ya wiki,weather_query,0.9988,0.9988,True
+5085,sw-KE,weather,weather_query,nini utabiri wa jumamosi,iot_hue_lightoff,0.5753,0.0023,False
+5118,sw-KE,play,play_music,nakupenda malaika,qa_factoid,0.9989,0.0,False
+5127,sw-KE,news,news_query,hapa ni ukweli kuhusu vyakula kwenye gurudumu la bajeti la mtu,cooking_recipe,0.9956,0.0001,False
+5131,sw-KE,datetime,datetime_query,tafadhali niambie saa ngapi katika nakuru,weather_query,0.9983,0.0001,False
+5134,sw-KE,play,play_music,tafuta nyimbo kutokwa kwa orodha ya kaka sungura,play_music,0.9718,0.9718,True
+5156,sw-KE,iot,iot_hue_lightoff,weka taa za sebuleni katika hali ya kuzima,iot_hue_lightoff,0.8751,0.8751,True
+5157,sw-KE,iot,iot_hue_lightoff,olly zima taa sebuleni,weather_query,0.9958,0.0014,False
+5158,sw-KE,play,play_music,tafadhali cheza wimbo wa karibuni kutoka kwa albamu ya simba wa nyika,play_music,0.9859,0.9859,True
+5159,sw-KE,play,play_music,tafadhali unaweza kucheza wimbo kutoka kwa msanii elani band,play_music,0.9997,0.9997,True
+5160,sw-KE,play,play_music,tafadhali unaweza kucheza wimbo wa awilo longomba,play_music,1.0,1.0,True
+5176,sw-KE,weather,weather_query,ni aina gani ya hali ya hewa napaswa kutarajia wiki hii,iot_hue_lightoff,0.8015,0.156,False
+5196,sw-KE,news,news_query,nataka kujua kuhusu huduma numba,qa_factoid,0.9259,0.0008,False
+5225,sw-KE,datetime,datetime_query,jumatano ijayo ni tarehe gani,social_post,0.9992,0.0,False
+5243,sw-KE,iot,iot_hue_lightoff,siri tafadhali zima taa za bafu geuza,weather_query,0.9722,0.0059,False
+5245,sw-KE,news,news_query,weka taarifa za habari za mazingira,iot_hue_lightoff,0.5587,0.0255,False
+5270,sw-KE,news,news_query,ni habari zipi zinazochipuka kwa sasa,news_query,0.5729,0.5729,True
+5278,sw-KE,play,play_music,tafadhali cheza muziki wa taarab pekee,play_music,0.9025,0.9025,True
+5279,sw-KE,play,play_music,tafadhali cheza muziki ya huzuni kwenye mtambo wa muzuki,play_music,1.0,1.0,True
+5286,sw-KE,news,news_query,onyesha habari za k. b. c. kuhusu uhamiaji,news_query,0.9903,0.9903,True
+5296,sw-KE,news,news_query,olly nipe habari maarufu kutoka b. b. c.,social_post,0.7337,0.0002,False
+5297,sw-KE,news,news_query,nipate habari maarufu kutoka kwa kbc,cooking_recipe,0.3603,0.0056,False
+5301,sw-KE,weather,weather_query,hali ya hewa itakuwaje mnamo machi mwaka wa elfu ishirini na mbili na kumi saba,weather_query,0.9981,0.9981,True
+5307,sw-KE,datetime,datetime_query,ni tarehe machi ishirini leo,social_post,0.8797,0.0043,False
+5318,sw-KE,play,play_music,tafadhali cheza ni nyimbo za ken wa maria pekee,play_music,0.9668,0.9668,True
+5321,sw-KE,weather,weather_query,onyesha hali ya hewa,iot_hue_lightoff,0.9982,0.0002,False
+5328,sw-KE,play,play_music,rhumba,play_music,0.2055,0.2055,True
+5339,sw-KE,weather,weather_query,hali ya kupoa ya chini,qa_factoid,0.9999,0.0,False
+5341,sw-KE,datetime,datetime_query,tafadhali nijulishe kwa wakati,email_sendemail,0.5341,0.0035,False
+5347,sw-KE,play,play_music,cheza muziki wa bango,play_music,1.0,1.0,True
+5358,sw-KE,datetime,datetime_query,sasisha hadi saa ya sasa,cooking_recipe,0.9361,0.0027,False
+5370,sw-KE,news,news_query,nini mabishano ya kibaki ya karibuni,social_post,0.9963,0.0001,False
+5378,sw-KE,play,play_music,s cheza muziki,play_music,0.9989,0.9989,True
+5401,sw-KE,play,play_music,muziki,play_music,0.9997,0.9997,True
+5410,sw-KE,news,news_query,nisomee kichwa cha habari ya daily nation ya karibuni,news_query,0.9978,0.9978,True
+5411,sw-KE,news,news_query,ni hadithi gani za juu kwa k. t. n.,qa_factoid,0.9948,0.0003,False
+5413,sw-KE,play,play_music,cheza muziki,play_music,0.9998,0.9998,True
+5414,sw-KE,play,play_music,je utawasha muziki,play_music,0.7038,0.7038,True
+5427,sw-KE,datetime,datetime_query,ni saa ngapi kenya sasa,qa_factoid,0.9729,0.0003,False
+5433,sw-KE,weather,weather_query,je mvua itanyesha baadaye,qa_factoid,0.5954,0.0001,False
+5439,sw-KE,weather,weather_query,ninahitaji mwavuli kwa usiku,social_post,0.9561,0.0004,False
+5465,sw-KE,weather,weather_query,naweza kuvaa lapulapu zangu leo,iot_hue_lightoff,0.6085,0.0707,False
+5468,sw-KE,weather,weather_query,nahitaji kuchukua miwani ya jua,cooking_recipe,0.9674,0.0013,False
+5524,sw-KE,weather,weather_query,hali ya hewa kwa sasa,weather_query,0.9961,0.9961,True
+5529,sw-KE,weather,weather_query,je ninafaa kuenda kupanda mlima saa ndapi,social_post,0.7631,0.0505,False
+5557,sw-KE,play,play_music,nataka reggae,play_music,0.9655,0.9655,True
+5577,sw-KE,weather,weather_query,nitahitaji koti kamili ikiwa kuna dhoruba sana wakati wa jioni,qa_factoid,0.8474,0.014,False
+5578,sw-KE,weather,weather_query,nitahitaji soksi za joto majira ya baridi asubuhi,qa_factoid,0.595,0.0335,False
+5584,sw-KE,iot,iot_hue_lightoff,tafadhali zima taa,weather_query,0.9547,0.0012,False
+5590,sw-KE,weather,weather_query,fungua joto,qa_factoid,0.9372,0.0001,False
+5593,sw-KE,play,play_music,cheza ferre ya maboko pamba,social_post,0.9567,0.0015,False
+5619,sw-KE,play,play_music,cheza wimbo uliopita,play_music,1.0,1.0,True
+5627,sw-KE,play,play_music,nichezee muziki ya yamoto band,play_music,0.965,0.965,True
+5640,sw-KE,datetime,datetime_query,onyesha tarehe,social_post,0.9998,0.0,False
+5650,sw-KE,weather,weather_query,ulizia hali ya hewa ya leo jioni,iot_hue_lightoff,0.7915,0.2072,False
+5658,sw-KE,play,play_music,nichezee muziki ya sauti sol,social_post,0.991,0.0081,False
+5661,sw-KE,weather,weather_query,nichukue koti langu la mvua na mimi sasa,iot_hue_lightoff,0.5335,0.0155,False
+5671,sw-KE,datetime,datetime_query,saa ngapi huko nairobi,qa_factoid,0.3209,0.0195,False
+5678,sw-KE,datetime,datetime_query,agosti kumi na tano ni siku gani ya juma,weather_query,0.7974,0.0202,False
+5683,sw-KE,play,play_music,cheza orodha yangu ya muziki ya nyimbo za sherehe,play_music,0.9998,0.9998,True
+5688,sw-KE,news,news_query,tafadhali niambie vichwa vya habari,social_post,0.9908,0.0039,False
+5703,sw-KE,datetime,datetime_query,wakati sasa,qa_factoid,0.9976,0.0,False
+5707,sw-KE,play,play_music,sikiliza ninazopenda zaidi,qa_factoid,0.675,0.0158,False
+5721,sw-KE,weather,weather_query,nionyeshe hali ya hewa ya siku ya kesho katika eneo hili,weather_query,0.5112,0.5112,True
+5722,sw-KE,weather,weather_query,onyesha utabiri wa siku saba za wiki hii,iot_hue_lightoff,0.9958,0.0,False
+5732,sw-KE,weather,weather_query,je nibadilishe matairi ya gari langu kuwa matairi ya theluji hivi karibuni,qa_factoid,0.9987,0.0,False
+5757,sw-KE,datetime,datetime_query,saa nane kasorobo,social_post,0.9998,0.0,False
+5758,sw-KE,weather,weather_query,je hali ya hewa katika mji mkuu iko vipi,weather_query,0.9854,0.9854,True
+5774,sw-KE,datetime,datetime_query,wakati wa sasa katika kisumu,qa_factoid,0.9996,0.0,False
+5797,sw-KE,weather,weather_query,je nivae koti la mvua kabla ya kutoka,qa_factoid,0.7614,0.0101,False
+5813,sw-KE,play,play_music,cheza wimbo kimya,play_music,1.0,1.0,True
+5820,sw-KE,play,play_music,utakufa bure na princess jully,social_post,0.9968,0.0001,False
+5837,sw-KE,weather,weather_query,niambie kuhusu hali ya hewa ya wiki hii,weather_query,0.9069,0.9069,True
+5871,sw-KE,weather,weather_query,hali ya anga mombasa leo,social_post,0.9999,0.0,False
+5886,sw-KE,news,news_query,swala nyeti,iot_hue_lightoff,0.6255,0.0133,False
+5919,sw-KE,news,news_query,nini kipya kuhusu pendekezo la daraja la nyali,qa_factoid,0.9808,0.0003,False
+5930,sw-KE,news,news_query,kuna habari zozote muhimu kutoka kwa tuko,qa_factoid,0.7899,0.0134,False
+5948,sw-KE,play,play_music,cheza baadhi ya nyimbo nzuri kutoka kwa orodha yangu,play_music,0.9999,0.9999,True
+5953,sw-KE,weather,weather_query,je ni mji wa bei nafuu au ghali kuishi,social_post,0.9219,0.0032,False
+5955,sw-KE,weather,weather_query,vipi usalama wa mji kuhusu sheria na utaratibu,play_podcasts,0.3354,0.0181,False
+5970,sw-KE,play,play_music,cheza wimbo mwamba wangu,play_music,1.0,1.0,True
+5985,sw-KE,news,news_query,onyesha habari za hivi punde kutoka kwa un,news_query,0.9953,0.9953,True
+5996,sw-KE,weather,weather_query,je nitahitaji kuvaa buti zangu za theluji alasiri hii,iot_hue_lightoff,0.446,0.0034,False
+5997,sw-KE,datetime,datetime_query,ni wakati gani katika eneo la kati,qa_factoid,0.7836,0.0005,False
+6023,sw-KE,weather,weather_query,je itakuwa usiku wa kunata,weather_query,0.9935,0.9935,True
+6024,sw-KE,weather,weather_query,nichukue sweta au koti niende kazini leo,qa_factoid,1.0,0.0,False
+6025,sw-KE,weather,weather_query,je nitahitaj mafuta ya kuzuia jua mchana huu,cooking_recipe,0.6766,0.0195,False
+6027,sw-KE,play,play_music,fungua nyimbo ninazo penda zaidi,play_music,0.9997,0.9997,True
+6039,sw-KE,weather,weather_query,je kesho kutakuwa na mvua,qa_factoid,0.3289,0.2691,False
+6041,sw-KE,iot,iot_hue_lightoff,hujambo olly zima taa tafadhali,weather_query,0.8029,0.1014,False
+6045,sw-KE,play,play_music,ongeza wimbo ulioteuliwa,play_music,0.9832,0.9832,True
+6050,sw-KE,weather,weather_query,je nitahitaji mafuta ya kuzuia jua baadaye,cooking_recipe,0.8777,0.0018,False
+6055,sw-KE,iot,iot_hue_lightoff,je niliacha taa ikiwaka kwenye karakana,qa_factoid,0.9957,0.0002,False
+6059,sw-KE,play,play_music,cheza muziki ya kapuka,play_music,0.9996,0.9996,True
+6069,sw-KE,weather,weather_query,kuna uwezekano wa dhoruba leo,qa_factoid,0.9999,0.0,False
+6073,sw-KE,iot,iot_hue_lightoff,zima taa ya varanda,qa_factoid,0.1678,0.1164,False
+6074,sw-KE,iot,iot_hue_lightoff,zima taa za chumba cha kulala saa tatu na nusu usiku,qa_factoid,0.8539,0.024,False
+6077,sw-KE,news,news_query,nataka kusikia habari za hivi punde za dunia kuanzia leo,social_post,0.4138,0.0613,False
+6093,sw-KE,weather,weather_query,nifungue paa la jua,qa_factoid,0.9573,0.0005,False
+6103,sw-KE,weather,weather_query,jambo hali ya hewa itakuwa aje leo huko los angeles california,weather_query,0.6602,0.6602,True
+6116,sw-KE,weather,weather_query,habari juu ya hali ya hewa ya wiki hii,news_query,0.5562,0.0134,False
+6118,sw-KE,datetime,datetime_query,jamani ni saa ngapi huko dallas texas,social_post,0.9931,0.0001,False
+6127,sw-KE,weather,weather_query,unapendekeza miavuli,qa_factoid,0.7861,0.0003,False
+6129,sw-KE,news,news_query,nijulishe kuhusu habari mpya za dunia,news_query,0.8647,0.8647,True
+6151,sw-KE,weather,weather_query,nataka kujua hali ya hewa ya leo,iot_hue_lightoff,0.5474,0.4513,False
+6172,sw-KE,weather,weather_query,je miwani ya jua ni chaguo zuri kwa leo,cooking_recipe,0.5587,0.015,False
+6177,sw-KE,weather,weather_query,je nitahitaji mwavuli leo,recommendation_events,0.6373,0.0003,False
+6178,sw-KE,weather,weather_query,je nivae koti,qa_factoid,0.4355,0.0033,False
+6194,sw-KE,weather,weather_query,hali ya hewa leo iko aje,social_post,0.8902,0.0009,False
+6289,sw-KE,weather,weather_query,jambo hali ya hewa iko aje leo,iot_hue_lightoff,0.8632,0.1324,False
+6370,sw-KE,calendar,calendar_query,wiki yangu ijayo inaonekanaje,social_post,0.9794,0.0001,False
+6372,sw-KE,news,news_query,habari za mimea,email_sendemail,0.9764,0.0001,False
+6403,sw-KE,transport,transport_query,jinsi ya kufika mahali,qa_factoid,1.0,0.0,False
+6410,sw-KE,news,news_query,ni nini inatokea kenya leo,qa_factoid,0.9919,0.0001,False
+6411,sw-KE,weather,weather_query,hali ya hewa ikoje jumatano ijayo,weather_query,0.995,0.995,True
+6539,sw-KE,calendar,calendar_set,weka alama leo kama mwanzo wa lishe yangu,cooking_recipe,0.9997,0.0,False
+6542,sw-KE,cooking,cooking_recipe,je jibini nyororo bora kuliko ngumu,cooking_recipe,0.9926,0.9926,True
+6618,sw-KE,news,news_query,niambie habari za kuvutia,social_post,0.9764,0.0035,False
+6682,sw-KE,news,news_query,uchaguzi unaendelea,qa_factoid,0.9956,0.0,False
+6683,sw-KE,news,news_query,mambo ya kiuchumi,social_post,0.9403,0.0016,False
+6713,sw-KE,calendar,calendar_remove,ghairi mkutano wa biashara siku ya jumatano,recommendation_events,0.802,0.011,False
+6722,sw-KE,calendar,calendar_query,kuna jambo ninalopaswa kukumbushwa,social_post,0.5073,0.006,False
+6725,sw-KE,calendar,calendar_set,nikumbushe kuhusu ratiba yangu ya alasiri,qa_factoid,0.9999,0.0,False
+6726,sw-KE,calendar,calendar_remove,ghairi mkutano ujao,social_post,0.9998,0.0,False
+6729,sw-KE,calendar,calendar_remove,ghairi kiamsha kinywa nyumbani kwa tiffany,social_post,0.9995,0.0,False
+6732,sw-KE,calendar,calendar_set,ongeza ukumbusho wa mkutano wa jumapili na wazazi wakwe,social_post,0.9655,0.0012,False
+6744,sw-KE,calendar,calendar_set,weka mkutano na pawel kesho saa nne asubuhi,iot_hue_lightoff,0.669,0.0041,False
+6746,sw-KE,calendar,calendar_set,weka wiki ya kwanza ya juni kama likizo kwa kalenda yangu,cooking_recipe,0.3684,0.1992,False
+6747,sw-KE,calendar,calendar_query,nina vikumbusho vingapi,qa_factoid,0.9567,0.0,False
+6755,sw-KE,calendar,calendar_remove,tafadhali safisha kalenda yangu,cooking_recipe,0.8621,0.0017,False
+6761,sw-KE,calendar,calendar_remove,toa kwa kalenda yangu mkutano wa saa tatu asubuhi,qa_factoid,0.9333,0.0047,False
+6764,sw-KE,calendar,calendar_set,nikumbushe kuosha madirisha,social_post,0.9949,0.0002,False
+6774,sw-KE,calendar,calendar_set,panga tukio la ijumaa,social_post,0.9585,0.0008,False
+6785,sw-KE,calendar,calendar_query,ukumbusho wangu unaofuata ni nini,qa_factoid,0.9909,0.0001,False
+6789,sw-KE,calendar,calendar_set,panga mkutano na joanna jumamosi saa kumi jioni,weather_query,0.9794,0.0002,False
+6798,sw-KE,calendar,calendar_remove,toa tukio yangu inayofuata,qa_factoid,0.9996,0.0,False
+6801,sw-KE,calendar,calendar_query,nionyeshe mikutano yangu ijumaa hii,social_post,0.9177,0.0006,False
+6806,sw-KE,calendar,calendar_query,nionyeshe kalenda yangu ya tukio mchana ijumaa hii,social_post,0.5869,0.0078,False
+6815,sw-KE,calendar,calendar_set,nikumbushe sherehe ya siku ya kuzaliwa ya mama wiki moja kabla,datetime_query,0.2422,0.0243,False
+6819,sw-KE,calendar,calendar_set,olly kuna bendi nzuri inayocheza leo usiku saa tatu katika baa ya jazz nataka kuenda,play_music,0.3012,0.0145,False
+6836,sw-KE,calendar,calendar_set,nikumbushe kuhusu mkutano wa kesho saa kumi na mbili,news_query,0.3482,0.0233,False
+6850,sw-KE,calendar,calendar_query,orodhesha ratiba yangu leo,qa_factoid,0.9994,0.0,False
+6856,sw-KE,calendar,calendar_set,nipe taarifa ya ukumbusho wa mkutano wa kesho saa nne asubuhi,weather_query,0.2102,0.0429,False
+6860,sw-KE,calendar,calendar_query,kuna matukio yoyote yanayokuja,iot_hue_lightoff,0.652,0.0001,False
+6865,sw-KE,calendar,calendar_set,weka arifa kuhusu mkutano wa kesho saa nne,iot_hue_lightoff,0.7215,0.01,False
+6878,sw-KE,calendar,calendar_set,ratibu mkutano na idara ya uhasibu ijumaa saa nane unusu mchana,qa_factoid,0.7889,0.0005,False
+6891,sw-KE,calendar,calendar_query,kuna maonyesho ya asubuhi yanapatikana,social_post,0.9921,0.0002,False
+6892,sw-KE,calendar,calendar_query,unaweza kunipatia ratiba ya filamu,qa_factoid,0.9997,0.0,False
+6897,sw-KE,calendar,calendar_set,nikumbushe nimchukue linda mnamo saa kumi na moja jioni tarehe saba,social_post,0.7663,0.0097,False
+6901,sw-KE,calendar,calendar_set,nikumbushe kesho saa nne mchana kuhusu mkutano,news_query,0.6773,0.0129,False
+6902,sw-KE,calendar,calendar_set,weka ukumbusho mwezi ujao ili mafuta yangu kubadilishwa,iot_hue_lightoff,0.5441,0.0066,False
+6909,sw-KE,calendar,calendar_query,nini kanafanyika baada ya saa saba kesho na kabla ya saa tisa alasiri,qa_factoid,0.8012,0.0055,False
+6918,sw-KE,calendar,calendar_remove,futa matukio kwenye kalenda,qa_factoid,0.52,0.1783,False
+6923,sw-KE,calendar,calendar_set,weka ukumbusho wa kuchapisha hati jumanne asubuhi,qa_factoid,0.6108,0.0037,False
+6926,sw-KE,calendar,calendar_query,ni ijumaa,social_post,0.7418,0.0015,False
+6928,sw-KE,calendar,calendar_remove,kufuta matukio yote,iot_hue_lightoff,0.9046,0.0002,False
+6936,sw-KE,calendar,calendar_set,nikumbushe kunywa dawa saa tatu mchana,social_post,0.2113,0.0259,False
+6937,sw-KE,calendar,calendar_set,weka ukumbusho wa mchana ili kupata chakula cha mchana na bosi,cooking_recipe,0.95,0.0015,False
+6946,sw-KE,calendar,calendar_query,kuna mikutano yoyote jumatano ijayo,iot_hue_lightoff,0.9227,0.0016,False
+6958,sw-KE,calendar,calendar_remove,hakikisha hakuna matukio kwa kalenda yangu,qa_factoid,0.9927,0.0001,False
+6959,sw-KE,calendar,calendar_set,nikumbushe kuhuau mkutano wangu saa moja kabla uanze,social_post,0.8508,0.0005,False
+6962,sw-KE,calendar,calendar_set,mimi naweza jua kile nafaa kufanya siku ya jumamosi saa kumi na mbili na jioni,cooking_recipe,0.6369,0.0042,False
+6964,sw-KE,calendar,calendar_set,unaweza kukumbusha mkutano wangu ujao na bosi wangu saa moja kabla ya kutokea,qa_factoid,0.9857,0.0002,False
+6967,sw-KE,calendar,calendar_query,unaweza kuangalia ukweli juu ya suala hili,qa_factoid,0.9772,0.0006,False
+6968,sw-KE,calendar,calendar_query,nahitaji kuthibitisha mikutano yote ya leo unaweza mwalika mtu,lists_remove,0.2032,0.0277,False
+6973,sw-KE,calendar,calendar_set,ongeza ukumbusho wa mkutano wa kesho huko nyeri,iot_hue_lightoff,0.6656,0.0169,False
+6974,sw-KE,calendar,calendar_set,nina shughuli pale mombasa kesho nikumbushe,social_post,0.998,0.0,False
+6980,sw-KE,calendar,calendar_query,nipe orodha ya kufanya,cooking_recipe,0.7388,0.0018,False
+6992,sw-KE,calendar,calendar_query,onyesha matukio yajayo,social_post,1.0,0.0,False
+6994,sw-KE,calendar,calendar_set,nikumbushe,email_query,0.9716,0.0006,False
+6997,sw-KE,calendar,calendar_remove,ondoa tukio lifwatalo,iot_hue_lightoff,0.9988,0.0,False
+7000,sw-KE,calendar,calendar_set,tukio jipya,social_post,0.4663,0.0044,False
+7004,sw-KE,calendar,calendar_set,ongeza kikumbusho kwa kalenda yangu kila mwaka tarehe hii,social_post,0.7371,0.0081,False
+7013,sw-KE,calendar,calendar_query,tukio litaanza lini,cooking_recipe,0.9859,0.0001,False
+7014,sw-KE,calendar,calendar_query,nipatie ratiba ya matukio ya leo,qa_factoid,1.0,0.0,False
+7025,sw-KE,calendar,calendar_remove,ondoa mwaka mpya kutoka kwa kalenda,calendar_remove,0.3062,0.3062,True
+7026,sw-KE,recommendation,recommendation_events,ni matukio gani yanaendelea katika mji wangu wiki hii,news_query,0.249,0.0367,False
+7039,sw-KE,calendar,calendar_set,panga mkutano jumanne na jesse saa kumi na moja asubuhi,social_post,0.9983,0.0001,False
+7044,sw-KE,calendar,calendar_set,nikumbushe nianze kujitayarisha ifikapo saa kumi na moja jioni tafadhali,social_post,0.7872,0.0006,False
+7046,sw-KE,calendar,calendar_set,ongeza mkutano wa tal tarehe ishirini na moja saa moja,cooking_recipe,0.6676,0.0049,False
+7055,sw-KE,calendar,calendar_set,panga mkutano na matt saa tano asubuhi siku ya alhamisi,weather_query,0.4059,0.0159,False
+7057,sw-KE,calendar,calendar_set,panga mkutano wa chakula cha mchana na brent jumanne saa sita mchana,social_post,0.9678,0.0008,False
+7061,sw-KE,calendar,calendar_set,nikumbushe masaa ishirini na nne kabla ya mkutano wangu wa ijumaa na edg,social_post,0.9792,0.001,False
+7073,sw-KE,calendar,calendar_set,tafuta kwenye kalenda yangu tukio na nijulishe kabla ifanyike,qa_factoid,0.9973,0.0001,False
+7080,sw-KE,calendar,calendar_remove,ghairi kila kitu kwenye kalenda yangu,recommendation_events,0.282,0.006,False
+7087,sw-KE,calendar,calendar_remove,ghairi mkutano wa kesho kwenye kalenda yangu,recommendation_events,0.7002,0.0033,False
+7098,sw-KE,calendar,calendar_set,ongeza malipo ya gari langu tarehe kumi na mbili kwenye kalenda yangu,qa_factoid,0.5517,0.0109,False
+7100,sw-KE,calendar,calendar_set,nikumbushe siku moja kabla ya kwamba gari linatakiwa,qa_factoid,0.9994,0.0,False
+7111,sw-KE,calendar,calendar_query,ni saa ngapi miadi yangu na daktari mnamo machi thelathini na moja,social_post,0.9981,0.0001,False
+7113,sw-KE,calendar,calendar_query,kutakuwa na matukio yoyote katikati westlands hii wikendi,weather_query,0.9774,0.0001,False
+7117,sw-KE,calendar,calendar_remove,ondoa matukio ya tarehe kumi na tisa kwenye kalenda yangu,calendar_remove,0.575,0.575,True
+7120,sw-KE,calendar,calendar_query,ratiba yangu ikoje leo,qa_factoid,1.0,0.0,False
+7122,sw-KE,calendar,calendar_set,unaweza rudia tukio hili,qa_factoid,0.6353,0.0016,False
+7140,sw-KE,calendar,calendar_set,weka ukumbusho wa kunijulisha dakika sitini kabla ya mkutano wa chakula cha mchana,iot_hue_lightoff,0.6478,0.0034,False
+7141,sw-KE,calendar,calendar_query,ni hii programu imepangwa,qa_factoid,0.7991,0.0041,False
+7151,sw-KE,calendar,calendar_set,kwa kila jumapili yenye nambari isiyo ya kawaida iweke ukumbusho,social_post,0.1358,0.0426,False
+7152,sw-KE,calendar,calendar_set,weka chakula cha mchana kila siku saa sita unusu mchana,calendar_set,0.4,0.4,True
+7161,sw-KE,calendar,calendar_set,kumbuka tukio hili baadaye,social_post,0.9999,0.0,False
+7170,sw-KE,calendar,calendar_set,ni siku ya kuzaliwa ya mama yangu leo ​​nitumie arifa kila mwaka tarehe hii,weather_query,0.8917,0.0029,False
+7181,sw-KE,calendar,calendar_set,mimi niamshe saa kumi na mbili asubuhi alhamisi ili nipate muda wa mkutano,social_post,0.144,0.0379,False
+7185,sw-KE,calendar,calendar_query,miadi yangu ijayo na daktari smith ni lini,qa_factoid,0.8939,0.0035,False
+7189,sw-KE,calendar,calendar_query,nina lolote nililopanga,social_post,0.8207,0.0,False
+7194,sw-KE,calendar,calendar_set,nitakuwa na mkutano kesho ebu itege,social_post,0.9275,0.0034,False
+7196,sw-KE,calendar,calendar_set,nikumbushe mkutano wangu na allan machi tarehe kumi na tano,social_post,0.6351,0.0195,False
+7199,sw-KE,calendar,calendar_set,weka taarifa ya saa tatu mbili na moja kabla ya mtihani wa kiingereza wiki ijayo,iot_hue_lightoff,0.2666,0.1919,False
+7209,sw-KE,calendar,calendar_set,unaweza nikumbusha kutoa takataka nje jumanne,qa_factoid,0.9982,0.0001,False
+7219,sw-KE,calendar,calendar_query,uliweka ukumbusho kuhusu mkutano wa kesho,iot_hue_lightoff,0.3287,0.0214,False
+7224,sw-KE,calendar,calendar_query,mahali ambapo ndoa ya tom itafanyika,social_post,0.1387,0.0404,False
+7232,sw-KE,calendar,calendar_query,ni matukio gani wiki ijayo,qa_factoid,0.997,0.0,False
+7257,sw-KE,calendar,calendar_set,tafadhali nikumbushe kumpigia simu mama baada ya nusu saa,qa_factoid,0.259,0.0278,False
+7258,sw-KE,calendar,calendar_set,nikumbushe kumtumia bosi barua pepe baada ya saa moja,cooking_recipe,0.3514,0.0057,False
+7262,sw-KE,calendar,calendar_set,unda kikumbusho cha arifa ya kukutana kesho,social_post,0.7045,0.0066,False
+7266,sw-KE,calendar,calendar_query,ni kazi gani zinazo nisubiri,cooking_recipe,0.9844,0.0001,False
+7278,sw-KE,calendar,calendar_set,nikumbushe sherehe ya siku ya kuzaliwa ya rita masaa ishirini na nne mbeleni,iot_hue_lightoff,0.0952,0.044,False
+7287,sw-KE,calendar,calendar_set,nikumbushe kuhusu maadhimisho yangu ya miaka siku moja kabla ya,datetime_query,0.1698,0.0299,False
+7289,sw-KE,calendar,calendar_remove,ondoa matukio yote na jeff,iot_hue_lightoff,0.8627,0.0022,False
+7291,sw-KE,calendar,calendar_set,zuia muda wa saa moja kuanzia saa nne kesho asubuhi,datetime_query,0.8919,0.0037,False
+7292,sw-KE,calendar,calendar_set,sipatikani kuanzia saa kumi hadi saa kumi na mbili jioni kesho weka alama kwenye kalenda yangu,calendar_remove,0.4684,0.004,False
+7293,sw-KE,calendar,calendar_set,panga miadi ya saa moja siku ya jumamosi,social_post,0.4431,0.0072,False
+7294,sw-KE,calendar,calendar_remove,ondoa miadi yangu na george adams kwa kalenda,qa_factoid,0.6398,0.0023,False
+7295,sw-KE,calendar,calendar_remove,tafadhali faywa wazi kalenda yangu,cooking_recipe,0.4584,0.0023,False
+7314,sw-KE,calendar,calendar_query,matukio ya leo,qa_factoid,0.9999,0.0,False
+7316,sw-KE,calendar,calendar_query,nina miadi yoyote,qa_factoid,0.6279,0.0,False
+7319,sw-KE,calendar,calendar_query,nini kinafanyika kati ya saa nane mchana hadi saa kumi leo,weather_query,0.8823,0.0061,False
+7353,sw-KE,email,email_query,nijulishe tu wiki zijazo hali ya hewa huko kisumu,qa_factoid,0.9902,0.0,False
+7355,sw-KE,calendar,calendar_set,nikumbushe niangalie kitoweo saa kumi na mbili,social_post,0.9943,0.0003,False
+7380,sw-KE,calendar,calendar_query,tafadhali onyesha mkutano wa leo na wateja,qa_factoid,0.8813,0.0006,False
+7397,sw-KE,calendar,calendar_query,kuna tukio lolote ambalo limepangwa miezi mitatu ijayo,weather_query,0.8812,0.0002,False
+7449,sw-KE,calendar,calendar_set,tafadhali panga mkutano na mtu huyu,social_post,0.7404,0.0001,False
+7450,sw-KE,calendar,calendar_set,nahitaji mkutano iratibiwe na huyu mtu,qa_factoid,0.9988,0.0,False
+7455,sw-KE,calendar,calendar_set,nikumbushe kuhusu sherehe kesho,social_post,0.9951,0.0001,False
+7461,sw-KE,calendar,calendar_set,alika watu kwenye tukio la kalenda,qa_factoid,0.9065,0.0036,False
+7463,sw-KE,calendar,calendar_set,lijulishe kundi langu kuwa tarehe mpya ya mkutano ni kesho,email_sendemail,1.0,0.0,False
+7467,sw-KE,calendar,calendar_query,nipe muda wa matukio,social_post,0.9789,0.0001,False
+7477,sw-KE,calendar,calendar_set,nikumbushe tarehe tano ya machi kila mwaka kupanga zawadi za maadhimisho ya harusi,weather_query,0.5534,0.008,False
+7496,sw-KE,calendar,calendar_query,mimi nina miadi leo,social_post,0.9953,0.0001,False
+7499,sw-KE,calendar,calendar_set,tengeneza ratiba mpya ya mkutano wa kesho,qa_factoid,0.6197,0.0134,False
+7500,sw-KE,calendar,calendar_remove,unaweza futa tukio lijalo,qa_factoid,0.731,0.0018,False
+7502,sw-KE,calendar,calendar_query,kuna ajenda gani ya mkutano na joe saa kumi jioni,qa_factoid,0.9516,0.0001,False
+7503,sw-KE,calendar,calendar_query,d.c. iko wapi huo mkutano uko saa saba ijumaa,social_post,0.5158,0.0185,False
+7520,sw-KE,calendar,calendar_set,nikumbushe kila siku saa nane kwa chakula cha mchana,weather_query,0.8275,0.0024,False
+7524,sw-KE,calendar,calendar_query,kiasi gani cha mehta tayari kuwekeza katika kampuni yangu katika mkutano uliofanyika leo saa kumi na moja na dakika ishirini jioni,recommendation_events,0.7694,0.008,False
+7528,sw-KE,calendar,calendar_set,juni tarehe kumi na tatu ni siku ya matokeo ya uchaguzi tafadhali iweke,iot_hue_lightoff,0.6879,0.0009,False
+7531,sw-KE,calendar,calendar_set,tafadhali ongeza siku zangu za malipo,cooking_recipe,0.6793,0.0007,False
+7539,sw-KE,calendar,calendar_query,niko na chochote kinacho endelea,social_post,0.9995,0.0,False
+7542,sw-KE,calendar,calendar_set,tafadhali nikumbushe kuhusu hii kesho,calendar_remove,0.2732,0.0145,False
+7549,sw-KE,calendar,calendar_set,nataka mkutano hadi saa tisa kamili,social_post,0.7303,0.0072,False
+7556,sw-KE,calendar,calendar_set,panga kalenda yangu ili unikumbushe kununua mboga kila ijumaa,qa_factoid,0.5064,0.0009,False
+7557,sw-KE,calendar,calendar_set,unda ukumbusho wa eneo a kwenye kalenda,play_podcasts,0.4314,0.0022,False
+7559,sw-KE,calendar,calendar_set,nikumbushe usiku wa leo kuchukua nguo zangu zilizo oshwa saa mbili usiku,datetime_query,0.1883,0.031,False
+7563,sw-KE,calendar,calendar_set,nikumbushe kuhusu mkutano wa kesho saa moja kabla ya,weather_query,0.7319,0.0075,False
+7565,sw-KE,calendar,calendar_set,ukumbusho wa mkutano,social_post,0.4568,0.019,False
+7567,sw-KE,calendar,calendar_set,siku ya kuzaliwa,cooking_recipe,0.9935,0.0002,False
+7569,sw-KE,calendar,calendar_query,panga ya kesho,cooking_recipe,0.5591,0.0124,False
+7570,sw-KE,calendar,calendar_query,kuna mpango gani leo,social_post,0.8586,0.0005,False
+7583,sw-KE,calendar,calendar_set,rafiki ongeza tukio kwenye kalenda yako,recommendation_events,0.3123,0.0096,False
+7596,sw-KE,calendar,calendar_set,tafadhali panga mkutano na derrick katika haysi mchana,weather_query,0.446,0.0081,False
+7598,sw-KE,calendar,calendar_set,tafadhali weka mkutano wa kujadili ugaidi na fred kwa siku ijayo inayofuata inayopatikana ya mkutano,calendar_remove,0.8961,0.0037,False
+7606,sw-KE,calendar,calendar_set,kutana na joe kesho saa tisa,social_post,0.9998,0.0,False
+7609,sw-KE,calendar,calendar_remove,toa ukumbusho wa mkutano wa jumanne,email_query,0.837,0.0014,False
+7613,sw-KE,calendar,calendar_query,ni tukio gani linakuja,qa_factoid,0.9979,0.0,False
+7628,sw-KE,calendar,calendar_set,nikumbushe nikiwa kwenye maktaba kupata kadi mpya ya maktaba,cooking_recipe,0.8582,0.0052,False
+7654,sw-KE,calendar,calendar_set,weka alama tarehe ishirini aprili kama siku ya kuzaliwa ya kaka yangu,cooking_recipe,0.9997,0.0,False
+7655,sw-KE,calendar,calendar_set,ongeza ukumbusho wa aprili ishirini kama siku ya kuzaliwa ya kaka yangu,iot_hue_lightoff,0.9513,0.002,False
+7660,sw-KE,calendar,calendar_remove,kufuta uteuzi wangu wote baada ya saa tisa mchana leo na unifahamishe maelezo,qa_factoid,0.4745,0.0164,False
+7662,sw-KE,calendar,calendar_query,orodhesha mikutano yangu yote leo,iot_hue_lightoff,0.9789,0.0,False
+7664,sw-KE,calendar,calendar_set,ongeza chakula cha mchana na juma,cooking_recipe,0.4483,0.0119,False
+7666,sw-KE,calendar,calendar_set,utaashiria kuwa nina mkutano na juma saa tisa kesho,social_post,0.9474,0.0024,False
+7680,sw-KE,calendar,calendar_remove,kwa kalenda yangu futa matukio ya gofu yote ya mwezi huu,qa_factoid,0.9561,0.0003,False
+7686,sw-KE,calendar,calendar_set,jumuisha mike na jack kwenye tamasha la kalenda,play_music,0.9358,0.0021,False
+7690,sw-KE,calendar,calendar_query,nina nini kinakuja,qa_factoid,0.9894,0.0,False
+7693,sw-KE,calendar,calendar_query,kuna kitu nimepanga tarehe ishirini na moja,cooking_recipe,0.6051,0.0042,False
+7697,sw-KE,calendar,calendar_set,weka ukumbusho kwa hili,email_sendemail,0.6339,0.0009,False
+7711,sw-KE,calendar,calendar_set,ghairi mikutano yangu yote na simu za kupiga machi tarehe mbili manake ni sherehe ya kuzaliwa ya jim na uifanye tukio kwa kalenda yako,cooking_recipe,0.2495,0.031,False
+7712,sw-KE,calendar,calendar_set,habari olly ghairi mikutano yangu yote na simu kwa machi tarehe mbili kwa kuwa ni siku ya kuzaliwa ya jim ieke kama tukio kwenye kalenda yako,social_post,0.6163,0.0046,False
+7718,sw-KE,calendar,calendar_set,mtumie bwana wafula mwaliko wa mkutano hii ijumaa na ufunge kalenda yangu ijumaa mchana,cooking_recipe,0.1269,0.0389,False
+7726,sw-KE,calendar,calendar_set,nahitaji kitu fulani kila jumatatu weka ukumbusho kwa ajili yake,lists_remove,0.6508,0.0122,False
+7730,sw-KE,calendar,calendar_set,nakuhitaji wewe kueka alama siku ya jumatatu,qa_factoid,0.9894,0.0002,False
+7741,sw-KE,calendar,calendar_remove,ondoa kalenda yangu ya jumamosi,qa_factoid,0.9985,0.0002,False
+7751,sw-KE,calendar,calendar_set,nikumbushe kila jumatatu kutoa takataka nje,qa_factoid,0.9984,0.0,False
+7762,sw-KE,calendar,calendar_query,nina vikumbusho gani,social_post,0.6725,0.0,False
+7767,sw-KE,calendar,calendar_set,ongeza mazoezi kwa kalenda tarehe nne februari katika king's park saa nane mchana,iot_hue_lightoff,0.5773,0.0054,False
+7768,sw-KE,calendar,calendar_set,tafadhali ongeza mazoezi mnamo februari tarehe nne pale uhuru park saa nane alasiri,social_post,0.7956,0.0073,False
+7774,sw-KE,calendar,calendar_set,ongeza ununuzi kwenye kalenda yangu ya kesho,iot_hue_lightoff,0.6286,0.0094,False
+7777,sw-KE,calendar,calendar_query,je nina miadi leo,social_post,0.6812,0.0021,False
+7778,sw-KE,calendar,calendar_set,nikumbushe ninachofanya jumapili alasiri,qa_factoid,0.4623,0.0064,False
+7808,sw-KE,calendar,calendar_set,nikumbushe nimpeleke mama kwa msusi alhamisi saa tano asubuhi,social_post,0.8487,0.001,False
+7817,sw-KE,calendar,calendar_query,hii ni kweli kuhusu tarehe hii,weather_query,0.999,0.0,False
+7820,sw-KE,calendar,calendar_remove,futa matukio yote kwenye kalenda,qa_factoid,0.8416,0.0162,False
+7836,sw-KE,calendar,calendar_remove,futa matukio yote,iot_hue_lightoff,0.9784,0.0001,False
+7843,sw-KE,calendar,calendar_set,nijulishe baada ya masaa mawili natakiwa kuondoka kwa ajili ya somo langu la violin ni saa kumi jioni pale thika,weather_query,0.9781,0.0005,False
+7844,sw-KE,calendar,calendar_query,nilieka vikumbusho vipi,social_post,0.9228,0.0002,False
+7847,sw-KE,calendar,calendar_set,nijulishe wakati wa kujisajilisha utakapoanza,iot_hue_lightoff,0.425,0.0048,False
+7851,sw-KE,calendar,calendar_set,nina mkutano saa sita mchana leo,social_post,0.9984,0.0001,False
+7863,sw-KE,calendar,calendar_set,niambie nianze chakula cha jioni saa kumi na moja hii alasiri,cooking_recipe,0.9438,0.0019,False
+7870,sw-KE,calendar,calendar_remove,toa tukio kwa kalenda,qa_factoid,0.9998,0.0,False
+7876,sw-KE,news,news_query,nini imekua ikiendelea miezi miwili iliyopita,datetime_query,0.7384,0.0122,False
+7878,sw-KE,calendar,calendar_remove,futa kalenda yangu,qa_factoid,0.8974,0.0014,False
+7879,sw-KE,calendar,calendar_query,ni matukio gani matatu yanayofuata,qa_factoid,0.9998,0.0,False
+7889,sw-KE,calendar,calendar_query,mechi ya soka itakua wakati gani leo usiku,weather_query,0.9944,0.0,False
+7890,sw-KE,calendar,calendar_remove,toa kukata nywele leo,qa_factoid,0.9688,0.0004,False
+7891,sw-KE,calendar,calendar_remove,futa chajio leo usiku,social_post,0.9951,0.0001,False
+7892,sw-KE,calendar,calendar_remove,futa tukio linalofuata leo,qa_factoid,1.0,0.0,False
+7894,sw-KE,calendar,calendar_set,nipe taarifa kuhusu uchaguzi ndani ya lisaa limoja,social_post,0.5235,0.0159,False
+7902,sw-KE,calendar,calendar_set,weka mkutano kati yangu na john saa nane mchana kesho,qa_factoid,0.9656,0.0006,False
+7908,sw-KE,calendar,calendar_query,ninahitaji kufanya chochote leo,cooking_recipe,0.53,0.0092,False
+7912,sw-KE,calendar,calendar_remove,alexa ondoa chajio na mike kwenye kalenda yangu,qa_factoid,0.9436,0.0166,False
+7916,sw-KE,calendar,calendar_set,nikumbushe nitoe takataka saa kumi na mbili jioni,qa_factoid,0.999,0.0,False
+7918,sw-KE,calendar,calendar_set,tukio kwa kalenda alika bill malinda,email_sendemail,0.9296,0.0001,False
+7919,sw-KE,calendar,calendar_set,mkutano mpya ongeza bill na malinda kama wahudhuriaji,qa_factoid,0.7759,0.0059,False
+7922,sw-KE,calendar,calendar_remove,matukio ya baadaye ondoa,qa_factoid,0.9946,0.0,False
+7927,sw-KE,calendar,calendar_query,ni nini natakana kufanya hii wiki,qa_factoid,0.9994,0.0,False
+7946,sw-KE,calendar,calendar_query,ni matamasha yapi yajayo nairobi,qa_factoid,0.9922,0.0004,False
+7953,sw-KE,calendar,calendar_remove,ondoa miadi yangu na daktari wangu siku ya jumamosi tafadhali,cooking_recipe,0.8938,0.0395,False
+7955,sw-KE,calendar,calendar_set,weka hili tukio liwe lakujirudia kwenye kalenda yangu,qa_factoid,0.9953,0.0,False
+7956,sw-KE,calendar,calendar_set,unaweza kufanya tukio hili lijirudie rudie,qa_factoid,0.9998,0.0,False
+7966,sw-KE,calendar,calendar_query,nilikuambia unikumbushe kitu,qa_factoid,0.9735,0.0,False
+7970,sw-KE,calendar,calendar_set,nikumbushe harusi kwa wakati ili kununua zawadi,qa_factoid,0.7237,0.0026,False
+7971,sw-KE,calendar,calendar_set,weka ukumbusho kwa siku mbili mbele ya tukio,iot_hue_lightoff,0.9057,0.0023,False
+7975,sw-KE,calendar,calendar_query,kunayo huduma ya valeti kwenye hii tukio,qa_factoid,0.9986,0.0,False
+7978,sw-KE,calendar,calendar_query,ni vikumbusho gani nimepanga kesho kabla ya saa sita mchana,qa_factoid,0.8113,0.0033,False
+7980,sw-KE,calendar,calendar_set,niambie wakati nina tukio,qa_factoid,0.9956,0.0,False
+7981,sw-KE,calendar,calendar_set,tuma arifa kabla ya mkutano,qa_factoid,1.0,0.0,False
+7993,sw-KE,calendar,calendar_remove,futa matukio yote kwenye kalenda yangu,qa_factoid,0.84,0.0099,False
+8001,sw-KE,calendar,calendar_remove,unaweza kufuta kunyolewa nywele niliyoratibu ijumaa,lists_remove,0.5555,0.0092,False
+8004,sw-KE,calendar,calendar_set,dorothy anahitaji kuongea na mimi kuhusu talaka waeza tafadhali panga mkutano haraka iwezekanavyo nitakapo patikana,social_post,0.1867,0.0161,False
+8005,sw-KE,calendar,calendar_set,siku ya jumatatu tarehe ishirini nahitaji kufanya mazungumzo na juma kuhusu safari yetu ya wikendi,news_query,0.3639,0.0244,False
+8013,sw-KE,calendar,calendar_query,nionyeshe mkutano yangu ya mwezi ujao,email_sendemail,0.9815,0.0008,False
+8029,sw-KE,calendar,calendar_query,matukio gani yanakuja leo,qa_factoid,1.0,0.0,False
+8033,sw-KE,datetime,datetime_query,pasaka inaangukia siku gani,weather_query,0.9911,0.0054,False
+8035,sw-KE,calendar,calendar_set,nikumbushe kubadilisha mafuta,cooking_recipe,0.5285,0.0054,False
+8037,sw-KE,calendar,calendar_set,nikumbushe kitu kwa wakati fulani,social_post,0.8563,0.001,False
+8042,sw-KE,calendar,calendar_query,ni watu wangapi wanahudhuria mkutano wangu unaofuata,social_post,0.9937,0.0001,False
+8043,sw-KE,calendar,calendar_query,miadi yangu ifuatayo ni saa ngapi,qa_factoid,0.7207,0.0025,False
+8044,sw-KE,calendar,calendar_query,ratiba yangu ni nini leo,qa_factoid,1.0,0.0,False
+8055,sw-KE,calendar,calendar_remove,futa miadi yangu ya machi tarehe saba,social_post,0.9979,0.0001,False
+8056,sw-KE,calendar,calendar_query,mimi nina tarehe ijumaa,social_post,0.9999,0.0,False
+8058,sw-KE,calendar,calendar_query,nina mkutano wa mauzo leo,social_post,0.9307,0.0004,False
+8073,sw-KE,calendar,calendar_set,weka ratiba ya mkutano wa mauzo jumatano saa tano asubuhi,qa_factoid,0.885,0.0098,False
+8079,sw-KE,calendar,calendar_set,weka ukumbusho wa saa moja ili mkate wangu uoke,cooking_recipe,0.991,0.0001,False
+8084,sw-KE,calendar,calendar_query,ajenda ya tukio ni nini,cooking_recipe,0.5319,0.0014,False
+8085,sw-KE,calendar,calendar_set,ningependa kuweka tarehe ya wiki hii,calendar_remove,0.8232,0.0236,False
+8100,sw-KE,email,email_sendemail,barua pepe yangu uteuzi kwa panga upya,qa_definition,0.9353,0.001,False
+8107,sw-KE,calendar,calendar_set,weka tukio la siku ya kuzaliwa kwa martin,iot_hue_lightoff,0.981,0.0002,False
+8110,sw-KE,calendar,calendar_set,tafadhali ongeza usimamizi kwa kalenda yangu,qa_factoid,0.9823,0.0001,False
+8116,sw-KE,calendar,calendar_query,katika kipindi cha februari moja na machi kumi na sita ni mikutano gani ilifanyika,iot_hue_lightoff,0.2521,0.0406,False
+8119,sw-KE,calendar,calendar_query,sherehe ya siku ya kuzaliwa ya maria inafanyika wapi,qa_factoid,0.8316,0.001,False
+8125,sw-KE,calendar,calendar_set,tengeneza tukio la mkutano kwa kalenda yangu,qa_factoid,0.9999,0.0,False
+8126,sw-KE,calendar,calendar_set,panga tukio la mkutano kwa kalenda yangu,qa_factoid,0.9998,0.0,False
+8129,sw-KE,calendar,calendar_query,ni vikumbusho vipi bado ninavyo,qa_factoid,1.0,0.0,False
+8140,sw-KE,calendar,calendar_set,weka ukumbusho ya tarehe kumi na tatu kwamba nina chakula cha mchana na dale,cooking_recipe,0.8176,0.0744,False
+8148,sw-KE,calendar,calendar_query,nilijiachia makumbusho yoyote,iot_hue_lightoff,0.9987,0.0,False
+8150,sw-KE,calendar,calendar_query,nina ukumbusho wowote kuhusu sherehe ya siku ya kuzaliwa,qa_factoid,0.3922,0.0235,False
+8165,sw-KE,calendar,calendar_query,saa sita na nusu mchana tayari utakuwa na mkutano dakika kumi zijazo,weather_query,0.9662,0.0013,False
+8182,sw-KE,calendar,calendar_remove,unaweza futa miadi na daktari wa meno,qa_factoid,0.9971,0.0,False
+8188,sw-KE,calendar,calendar_query,ni tarehe gani,social_post,0.9476,0.0,False
+8204,sw-KE,calendar,calendar_set,tafadhali nikumbushe niende posta,email_sendemail,1.0,0.0,False
+8206,sw-KE,calendar,calendar_set,usiniache nisahau kumnunulia zawadi dada yangu,social_post,0.9551,0.0018,False
+8230,sw-KE,calendar,calendar_query,mkutano wangu wa chakula cha mchana utakuwa hadi lini jumanne,cooking_recipe,0.4587,0.0123,False
+8241,sw-KE,calendar,calendar_remove,futa kila kitu kwenye kalenda yangu ya siku zilizo baki kwa hii mwaka,lists_remove,0.6351,0.0828,False
+8245,sw-KE,calendar,calendar_set,nikumbushe tukio la huduma za kanisa jumapili saa tano asubuhi,qa_factoid,1.0,0.0,False
+8248,sw-KE,calendar,calendar_set,ongeza tarehe ya chajio ya kesho kwenye kalenda,iot_hue_lightoff,0.5344,0.2603,False
+8251,sw-KE,calendar,calendar_set,nahitaji chamcha ya wiki ijayo kiwekwe kwenye kalenda,cooking_recipe,0.9724,0.0005,False
+8260,sw-KE,calendar,calendar_set,nikumbushe siku moja kabla ya siku ya kuzaliwa kwa jeff,iot_hue_lightoff,0.5297,0.0112,False
+8261,sw-KE,calendar,calendar_set,nitumie arifa na saa moja kabla ya miadi yangu ijayo,email_sendemail,0.7419,0.0049,False
+8269,sw-KE,calendar,calendar_set,ukumbusho wa dakika thelathini kwenye mkutano wa jumanne,datetime_query,0.0779,0.0456,False
+8276,sw-KE,calendar,calendar_remove,ondoa miadi yangu iliyoratibiwa ifuatayo tafadhali,qa_factoid,0.9334,0.0004,False
+8280,sw-KE,calendar,calendar_set,ongeza tukio kwenye kalenda machi kumi na tano,iot_hue_lightoff,0.8091,0.0041,False
+8284,sw-KE,calendar,calendar_remove,toa sherehe ya siku ya kuzaliwa kwa kalenda,cooking_recipe,0.7384,0.0193,False
+8289,sw-KE,calendar,calendar_set,weka ukumbusho wa mkutano wa idhara wa leo saa kumi,iot_hue_lightoff,0.7874,0.006,False
+8290,sw-KE,calendar,calendar_set,fungua ukumbusho kuhusu mkutano wa wasimamizi wa jumanne ya wiki ijayo,calendar_remove,0.3641,0.024,False
+8294,sw-KE,calendar,calendar_set,ongeza kwenye kalenda na urudie,qa_factoid,0.6781,0.0077,False
+8300,sw-KE,calendar,calendar_set,eka tukio la saa kumi na moja jioni hadi saa kumi na mbili jioni machi kumi na nane,social_post,0.9405,0.0019,False
+8302,sw-KE,calendar,calendar_remove,ondoa mkutano wa jumatatu ijayo kwenye kalenda,calendar_remove,0.8983,0.8983,True
+8308,sw-KE,news,news_query,jana saa sita mchana huko uhuru park kulikuwa na maandamano yalikuwa yanahusu nini,social_post,0.5864,0.0123,False
+8336,sw-KE,calendar,calendar_query,ni lini chakula cha mchana changu na jennifer,social_post,0.9959,0.0002,False
+8343,sw-KE,datetime,datetime_query,ni jumatano,email_sendemail,0.9952,0.0,False
+8345,sw-KE,calendar,calendar_set,nijulishe wakati mkutano utafanyika,qa_factoid,0.9378,0.0001,False
+8347,sw-KE,calendar,calendar_query,nini kitakachokua kinaendelea decemba tarehe nne,social_post,0.9962,0.0002,False
+8358,sw-KE,calendar,calendar_set,nikumbushe kuhusu hili,email_query,0.9992,0.0,False
+8366,sw-KE,calendar,calendar_set,tengeneza machi tarehe kumi na nane miadi ya kujirudia ya siku ya kuzaliwa ya pearl,cooking_recipe,0.8776,0.0021,False
+8387,sw-KE,calendar,calendar_set,unda ukumbusho wa kufua nguo saa mbili usiku,weather_query,0.9874,0.0007,False
+8388,sw-KE,calendar,calendar_set,nataka kufua saa mbili usiku tengeneza ukumbusho,qa_factoid,0.8976,0.0036,False
+8390,sw-KE,calendar,calendar_set,nikumbushe kuhusu mkutano wangu wa,qa_factoid,0.1483,0.0321,False
+8394,sw-KE,calendar,calendar_set,weka ukumbusho kila siku saa sita mchana kuchukua dawa,calendar_remove,0.1385,0.0269,False
+8404,sw-KE,calendar,calendar_query,nataka kujua zaidi kuhusu tukio hili,qa_factoid,0.9143,0.004,False
+8409,sw-KE,calendar,calendar_remove,ondoa ratiba yangu ya chajio kesho kwenye kalenda,qa_factoid,1.0,0.0,False
+8410,sw-KE,calendar,calendar_remove,ondoa tukio langu la chajio jioni jumatatu,social_post,0.9967,0.0001,False
+8413,sw-KE,calendar,calendar_set,tafadhali nijulishe,cooking_recipe,0.9936,0.0001,False
+8414,sw-KE,calendar,calendar_set,nikumbushe kwenda kula chajio na dave siku ya ijumaa saa kumi na moja jioni,weather_query,0.5861,0.017,False
+8415,sw-KE,calendar,calendar_set,ongeza mkutano kwa ofisi na brian saa tisa alasiri jumanne,qa_factoid,0.8208,0.001,False
+8426,sw-KE,calendar,calendar_query,niambie matukio ya hivi punde kati ya jana na leo asubuhi,social_post,0.6912,0.0151,False
+8430,sw-KE,calendar,calendar_remove,ghairi miadi yangu yote,social_post,0.8928,0.0001,False
+8431,sw-KE,calendar,calendar_remove,ondea matukio yangu yote kwenye ratiba,qa_factoid,0.9996,0.0,False
+8436,sw-KE,calendar,calendar_set,tafadhali weka mkutano wa mchana kila jumatano saa sita mchana machi,cooking_recipe,0.7062,0.0087,False
+8442,sw-KE,calendar,calendar_set,tafadhali rekebisha kalenda yangu na tukio hili,email_sendemail,0.8527,0.0012,False
+8449,sw-KE,calendar,calendar_set,weka ukumbusho wa sherehe ya siku za kuzaliwa ya mabinti zangu,iot_hue_lightoff,0.4457,0.0772,False
+8453,sw-KE,calendar,calendar_set,tafadhali weka tukio kwenye kalenda yangu na uweke alama kama tukio linalojirudia,qa_factoid,0.7365,0.0028,False
+8460,sw-KE,calendar,calendar_query,nionyeshe matukio yangu,social_post,0.9996,0.0,False
+8461,sw-KE,calendar,calendar_query,mipango yangu ni ipi mwezi wa mei,weather_query,0.9679,0.0001,False
+8466,sw-KE,calendar,calendar_set,niko na mkutano jumatano saa tatu asubuhi nitumie ukumbusho,qa_factoid,0.9673,0.0003,False
+8469,sw-KE,calendar,calendar_query,nini kilichopangwa kwenye kalenda yangu leo,lists_remove,0.8263,0.0029,False
+8474,sw-KE,calendar,calendar_set,ongeza sherehe ya siku ya kuzaliwa ya jane kesho saa nane mchana pale mia moja na ishirini na tatu kuu,cooking_recipe,0.6208,0.0137,False
+8494,sw-KE,calendar,calendar_query,ratiba yangu inafanana aje leo,qa_factoid,1.0,0.0,False
+8496,sw-KE,calendar,calendar_query,niambie mikutano yangu kesho asubuhi,social_post,0.9998,0.0,False
+8498,sw-KE,calendar,calendar_query,tuvipitie vikumbusho vyote,qa_factoid,0.9832,0.0,False
+8516,sw-KE,calendar,calendar_remove,futa kipengee kwa kalenda,qa_factoid,1.0,0.0,False
+8520,sw-KE,calendar,calendar_set,ongeza tukio kwa programu ya kalenda,iot_hue_lightoff,0.9959,0.0001,False
+8525,sw-KE,calendar,calendar_query,vikumbusho vya mkutano kutoka saa tisa hadi saa kumi na moja,datetime_query,0.3659,0.0255,False
+8535,sw-KE,calendar,calendar_set,utanikumbusha miadi na daktari wa meno niliyo nayo baada ya masaa mawili,cooking_recipe,0.6864,0.0147,False
+8539,sw-KE,calendar,calendar_set,nikumbushe mimi kuhusu,social_post,0.986,0.0002,False
+8541,sw-KE,calendar,calendar_set,nikumbushe tafadhali,social_post,0.5088,0.022,False
+8553,sw-KE,calendar,calendar_set,ongeza mkutano kwa kalenda yangu wa saa tatu asubuhi na tom,qa_factoid,0.6853,0.0081,False
+8559,sw-KE,calendar,calendar_query,nina chochote nilichopanga kwa leo,qa_factoid,0.7281,0.0001,False
+8562,sw-KE,calendar,calendar_remove,futa mkutano wangu wa saa nane mchana leo,social_post,0.9983,0.0001,False
+8568,sw-KE,calendar,calendar_set,utatuma mwaliko wa kalenda kwa mutua na mutheu kwa chakula cha mchana saa tano asubuhi siku ya jumanne,iot_hue_lightoff,0.6505,0.017,False
+8570,sw-KE,calendar,calendar_set,utaweka alama kuwa nina kazi kesho saa nane jioni,iot_hue_lightoff,0.7501,0.0032,False
+8579,sw-KE,calendar,calendar_query,ni habari gani napaswa kujua kuhusu mikutano yangu ya leo,news_query,0.9456,0.0008,False
+8585,sw-KE,calendar,calendar_set,nikumbushe kuwa nina sherehe ya kuzaliwa tarehe kumi na tatu,social_post,0.2855,0.0259,False
+8598,sw-KE,calendar,calendar_set,nikumbushe kuchukua mark kutoka uwanja wa ndege saa kumi na mbili jioni,social_post,0.8213,0.0022,False
+8618,sw-KE,calendar,calendar_set,nikumbushe kumwagilia maji mimea yangu kila jumanne alhamisi na jumamosi,cooking_recipe,0.75,0.006,False
+8631,sw-KE,calendar,calendar_remove,futa hilo kwa kalenda yangu,qa_factoid,0.9906,0.0001,False
+8635,sw-KE,calendar,calendar_set,unaeza nikumbusha ku agiza kuku wiki tatu kabla ya shukrani,social_post,0.4969,0.0004,False
+8640,sw-KE,calendar,calendar_set,nataka kufanya noti kwa kalenda yangu juu ya tukio la kesho katika maktaba,iot_hue_lightoff,0.4801,0.0065,False
+8642,sw-KE,calendar,calendar_set,ongeza simu ya mkutano kwenye vikumbusho vyangu saa kumi jioni leo,iot_hue_lightoff,0.3412,0.0135,False
+8651,sw-KE,calendar,calendar_set,nijulishe tukio ambalo liko katika kalenda yangu,qa_factoid,0.9143,0.0002,False
+8653,sw-KE,calendar,calendar_set,nikumbushe kuhusu tukio kwenye kalenda yangu,qa_factoid,0.9962,0.0001,False
+8666,sw-KE,calendar,calendar_remove,futa matukio yangu yote kwa kalenda,qa_factoid,0.9914,0.0001,False
+8667,sw-KE,calendar,calendar_query,ndani ya miezi mitatu iliyopita nilifanya mikutano mingapi na bwana katana,qa_factoid,0.4154,0.0109,False
+8670,sw-KE,calendar,calendar_remove,toa matukio kwa kalenda,qa_factoid,1.0,0.0,False
+8672,sw-KE,calendar,calendar_query,tamasha la busu liko wapi,social_post,0.9997,0.0,False
+8674,sw-KE,calendar,calendar_query,mkutano wangu saa tatu asubuhi uko wapi,social_post,0.9359,0.0031,False
+8679,sw-KE,calendar,calendar_query,leo ni leo ni siku ya madaraka,weather_query,0.9991,0.0,False
+8681,sw-KE,calendar,calendar_query,je ni siku ya kuzaliwa ya mtu yeyote,weather_query,0.9895,0.0001,False
+8694,sw-KE,calendar,calendar_set,tukio litajumuisha walter na gemma,email_sendemail,0.6731,0.0012,False
+8730,sw-KE,calendar,calendar_set,tafadhali weka ukumbusho kwa kalenda yangu kuhusu mkutano wangu wa machi tarehe ishirini na tano,social_post,0.8601,0.0028,False
+8732,sw-KE,calendar,calendar_remove,futa tarehe zote,qa_factoid,0.6565,0.0007,False
+8762,sw-KE,calendar,calendar_query,niambie ratiba yangu mchana huu,iot_hue_lightoff,1.0,0.0,False
+8765,sw-KE,calendar,calendar_set,kuweka chajio yangu hapo red lobster kwenye kalenda ya leo saa tatu,cooking_recipe,0.4992,0.0088,False
+8766,sw-KE,calendar,calendar_query,nina mkutano jumamosi machi ishirini na tano,social_post,0.9821,0.0007,False
+8767,sw-KE,calendar,calendar_query,siku ya kuzaliwa ya jessica ni aprili tarehe kumi na mbili,cooking_recipe,0.8919,0.0012,False
+8769,sw-KE,calendar,calendar_remove,futa tukio lijalo,social_post,0.9927,0.0001,False
+8771,sw-KE,calendar,calendar_remove,futa safari ya ununuzi nimepanga machi tarehe ishirini na tatu,qa_factoid,0.9919,0.0002,False
+8774,sw-KE,calendar,calendar_query,je ratiba yangu ya julai tarehe kumi na saba iko wazi kabisa,qa_factoid,0.9959,0.0002,False
+8781,sw-KE,calendar,calendar_query,je niko huru saa kumi jioni,social_post,0.6627,0.0006,False
+8782,sw-KE,calendar,calendar_query,nina mkutano mchana huu,iot_hue_lightoff,0.808,0.0,False
+8791,sw-KE,calendar,calendar_query,habari zaidi juu ya tukio hili,social_post,0.9271,0.0006,False
+8795,sw-KE,calendar,calendar_query,onyesha vikumbusho rejea,social_post,0.9984,0.0,False
+8822,sw-KE,recommendation,recommendation_events,habari za matukio yajayo,social_post,0.9992,0.0,False
+8824,sw-KE,calendar,calendar_query,nina nini kwenye ratiba tarehe kumi na tisa saa nane alasiri,datetime_query,0.9975,0.0001,False
+8825,sw-KE,calendar,calendar_set,nitumie kumbusho la mkutano wangu na tom ijumaa ijayo,social_post,0.9976,0.0001,False
+8828,sw-KE,calendar,calendar_query,tukio la kalenda ni kweli,qa_factoid,0.9366,0.0008,False
+8846,sw-KE,calendar,calendar_query,nina chochote nilichopanga kwa tarehe nne julai mwaka huu,weather_query,0.2087,0.0223,False
+8853,sw-KE,calendar,calendar_remove,futa shughuli yangu inayofuata,qa_factoid,0.9998,0.0,False
+8856,sw-KE,calendar,calendar_remove,futa tukio zote kwa kalenda,qa_factoid,1.0,0.0,False
+8857,sw-KE,calendar,calendar_set,kumbusha mkutano ujao na eminem,social_post,1.0,0.0,False
+8868,sw-KE,calendar,calendar_set,nikumbushe kumpigia mama simu kila jumanne saa nne asubuhi,social_post,0.9354,0.003,False
+8880,sw-KE,calendar,calendar_set,weka kumbusho la mkutano wa kesho saa tatu asubuhi,iot_hue_lightoff,0.8414,0.0084,False
+8888,sw-KE,calendar,calendar_remove,ifute,qa_factoid,0.999,0.0,False
+8900,sw-KE,calendar,calendar_set,weka ukumbusho unaorudiwa kwa kila jumapili,social_post,0.489,0.1463,False
+8904,sw-KE,calendar,calendar_query,habari za matukio ya hivi karibuni,social_post,0.9996,0.0,False
+8906,sw-KE,calendar,calendar_set,weka tarehe ya tukio kwa kalenda na wengine,cooking_recipe,0.9877,0.0004,False
+8907,sw-KE,calendar,calendar_set,taja tukio kwa kalenda kwa wengine,qa_factoid,0.9976,0.0,False
+8912,sw-KE,calendar,calendar_query,nipe matukio ya kalenda ya leo baada ya saa kumi na mbili jioni,weather_query,0.7396,0.0048,False
+8914,sw-KE,calendar,calendar_query,miadi yangu ya aprili tarehe nne ipo saa ngapi,qa_factoid,1.0,0.0,False
+8916,sw-KE,calendar,calendar_query,ratiba yangu kwa leo ikoje,qa_factoid,1.0,0.0,False
+8925,sw-KE,calendar,calendar_remove,futa matukio yote kwenye kalenda yangu,qa_factoid,0.84,0.0099,False
+8939,sw-KE,calendar,calendar_set,sherehe ya kupokea binti wa hayathis,social_post,0.9478,0.0019,False
+8948,sw-KE,calendar,calendar_set,ongeza tukio la kukutana na james,qa_factoid,0.8487,0.0039,False
+8949,sw-KE,calendar,calendar_remove,tafadhali ondoa ukumbusho,qa_factoid,0.9628,0.0001,False
+8958,sw-KE,calendar,calendar_query,fungua masaa ya mkutano,qa_definition,0.7799,0.0047,False
+8960,sw-KE,calendar,calendar_set,nataka utoe tahadhari jioni kuhusu mkutano ujao,iot_hue_lightoff,0.8183,0.0028,False
+8967,sw-KE,calendar,calendar_set,nikumbushe siku mbili kabla ya siku ya kuzaliwa kwa mke wangu,qa_factoid,0.7192,0.004,False
+8968,sw-KE,calendar,calendar_set,niambie kitu cha kukumbusha wiki hii,social_post,0.3411,0.0108,False
+8975,sw-KE,calendar,calendar_query,ni mkutano gani uliopangwa leo,qa_factoid,0.9829,0.0,False
+8977,sw-KE,calendar,calendar_set,niwekee vikumbusho kuhusu malipo ya bili yanayosubiri,qa_factoid,0.6238,0.0112,False
+8978,sw-KE,calendar,calendar_set,niambie mikutano ya muhimu na bosi wangu wiki hii,social_post,0.2701,0.0207,False
+8985,sw-KE,calendar,calendar_remove,sawa google futa siku ya kuzaliwa ya eric kutoka kwa kalenda,qa_factoid,0.965,0.0003,False
+8990,sw-KE,calendar,calendar_set,tengeneza tukio,social_post,0.9463,0.0004,False
+8992,sw-KE,calendar,calendar_set,onyesha mikutano,social_post,0.99,0.0002,False
+9009,sw-KE,calendar,calendar_remove,ondoa tukio la maadhimisho ya miaka kwenye kalenda yangu,calendar_remove,0.7267,0.7267,True
+9011,sw-KE,calendar,calendar_query,ni kweli tukio la kutoa shukrani tarehe kumi na nne mwezi huu,qa_factoid,0.9985,0.0,False
+9014,sw-KE,calendar,calendar_set,tafadhali weka taarifa tarehe ishirini na tatu oktoba kuhusu kukutana na mwenzangu,social_post,0.9338,0.0009,False
+9015,sw-KE,calendar,calendar_remove,futa matukio yote kwa kalenda yangu,qa_factoid,0.9845,0.0002,False
+9019,sw-KE,calendar,calendar_query,mikutano kuanzia juni tarehe ishirini hadi ishirini na tano,datetime_query,0.6869,0.0087,False
+9030,sw-KE,calendar,calendar_remove,ondoa kwenye kalenda miadi ya matibabu yangu ya leo,lists_remove,0.4464,0.0639,False
+9035,sw-KE,calendar,calendar_query,ukumbusho wa ndoa ya jamal,social_post,0.9944,0.0001,False
+9043,sw-KE,calendar,calendar_set,matukio yajayo kwa kalenda,qa_factoid,0.9991,0.0,False
+9053,sw-KE,calendar,calendar_set,weka ukumbusho wa tukio la mkutano na mona jumanne,qa_factoid,0.2064,0.025,False
+9054,sw-KE,calendar,calendar_set,kumbusho wa tukio na mona jumanne,social_post,0.894,0.0038,False
+9059,sw-KE,calendar,calendar_set,niarifi wakati wa tukio,qa_factoid,0.9996,0.0,False
+9061,sw-KE,calendar,calendar_query,nina ujumbe gani kwenye vikumbusho,social_post,0.9739,0.0001,False
+9062,sw-KE,calendar,calendar_set,weka siku ya kuzaliwa ya lee tarehe ishirini na mbili juni,iot_hue_lightoff,0.7626,0.1586,False
+9074,sw-KE,calendar,calendar_remove,tafadhali ondoa tukio hilo,social_post,0.7526,0.0011,False
+9088,sw-KE,calendar,calendar_remove,toa kila kitu kwa kalenda yangu,qa_factoid,0.9961,0.0001,False
+9095,sw-KE,calendar,calendar_remove,ondoa chakula cha jioni na shelly usiku huu,iot_hue_lightoff,0.628,0.133,False
+9103,sw-KE,calendar,calendar_query,je kuna mkutano kwenye kalenda yangu leo alasiri,social_post,0.5861,0.0093,False
+9107,sw-KE,calendar,calendar_query,tamasha ya collins injera inaanza saa ngapi tarehe tatu juni,weather_query,0.7772,0.0081,False
+9110,sw-KE,calendar,calendar_set,weka tukio la maonyesho ya misa elfu mbili na kumi na saba machi ishirini na tano,iot_hue_lightoff,0.671,0.0037,False
+9112,sw-KE,calendar,calendar_set,ongeza hii kwa kalenda yangu,iot_hue_lightoff,0.8778,0.0015,False
+9114,sw-KE,calendar,calendar_set,tengeneza ukumbusho wa marudio ya hii kalenda ya matukio,play_music,1.0,0.0,False
+9116,sw-KE,calendar,calendar_query,unaweza kupanga upya mkutano yangu,qa_factoid,0.9998,0.0,False
+9121,sw-KE,calendar,calendar_query,siku zipi ninazo zimehifadhiwa,lists_remove,0.3195,0.0335,False
+9124,sw-KE,calendar,calendar_set,nionyeshe matukio kwenye kalenda yangu ya kazi ya wiki ijayo,lists_remove,0.2617,0.0079,False
+9137,sw-KE,calendar,calendar_query,ni saa ngapi mkahawa ya italian cafe hufungwa kati ya chakula cha mchana na chajio,iot_hue_lightoff,0.1017,0.0413,False
+9138,sw-KE,qa,qa_factoid,ni lini olimpiki huanza rasmi,qa_factoid,0.9967,0.9967,True
+9149,sw-KE,calendar,calendar_query,tamasha la women in manufacturing gala night linafaa kuanza lini,social_post,0.9885,0.0006,False
+9153,sw-KE,calendar,calendar_set,tafadhali ongeza chajio na mary kwenye kalenda yangu siku ya jumamosi,lists_remove,0.3201,0.0045,False
+9155,sw-KE,calendar,calendar_set,weka tukio la miadi ya kumwona daktari wa meno ijumaa saa tisa jion,iot_hue_lightoff,0.6675,0.0073,False
+9156,sw-KE,calendar,calendar_set,kumbusha,social_post,0.9675,0.0015,False
+9175,sw-KE,calendar,calendar_query,je kalenda yangu imesasishwa dakika kumi za mwisho,qa_factoid,0.9998,0.0,False
+9182,sw-KE,calendar,calendar_remove,ghairi mipango yangu ya kuwachukua wazazi wangu kutoka uwanja wa ndege,qa_factoid,0.5702,0.0046,False
+9187,sw-KE,calendar,calendar_set,kutafiti wateja watakaohudhuria mkutano huo,qa_factoid,1.0,0.0,False
+9193,sw-KE,calendar,calendar_set,tafadhali panga tarehe hii ijirudie,cooking_recipe,0.9995,0.0,False
+9194,sw-KE,calendar,calendar_remove,ondoa hili tukio kwenye kalenda yangu,qa_factoid,0.9573,0.0133,False
+9197,sw-KE,calendar,calendar_query,nimepanga nini wiki hii,qa_factoid,0.989,0.0004,False
+9198,sw-KE,calendar,calendar_query,tafadhali anagalia vikumbusho vyangu,qa_definition,0.7168,0.0019,False
+9202,sw-KE,play,play_radio,cheza kituo cha redio changu,cooking_recipe,0.4863,0.0111,False
+9204,sw-KE,play,play_radio,kuanza b.b.c redio,qa_factoid,0.9836,0.0003,False
+9212,sw-KE,play,play_radio,yeyote acheze redio,qa_factoid,0.8953,0.0002,False
+9216,sw-KE,play,play_radio,cheza kituo changu,iot_hue_lightoff,0.7434,0.0116,False
+9225,sw-KE,play,play_radio,washa redio,social_post,0.7853,0.0048,False
+9233,sw-KE,play,play_radio,fungua pandora,qa_factoid,0.9938,0.0,False
+9236,sw-KE,play,play_radio,enda kituo mia moja na sita nukta tisa,qa_factoid,0.7008,0.0019,False
+9237,sw-KE,play,play_radio,washa redio na ucheze kituo cha mia moja na sita nukta tisa,cooking_recipe,0.3876,0.009,False
+9250,sw-KE,play,play_radio,nataka kusikiza redio,social_post,0.9302,0.0011,False
+9254,sw-KE,play,play_radio,tafadhali weka mia tisa na thelathini na nane f. m. redio mirchi,cooking_recipe,0.8801,0.001,False
+9263,sw-KE,play,play_radio,fungua programu ya redio,qa_factoid,0.9999,0.0,False
+9269,sw-KE,play,play_radio,weka mia nane na tisini na saba f. m.,iot_hue_lightoff,0.8674,0.0008,False
+9270,sw-KE,play,play_radio,cheza tu mia tisa na thelathini na saba f.m.,weather_query,0.9814,0.0003,False
+9275,sw-KE,play,play_radio,mia tisa na tisini na tisa f.m. ichezwe kwenye redio pekee,play_radio,0.9434,0.9434,True
+9284,sw-KE,play,play_radio,cheza fm,iot_hue_lightoff,0.1692,0.149,False
+9291,sw-KE,play,play_radio,weka,iot_hue_lightoff,0.6942,0.0038,False
+9301,sw-KE,play,play_radio,cheza stesheni ya muusyi f.m,cooking_recipe,0.7541,0.0079,False
+9303,sw-KE,play,play_radio,cheza kameme,social_post,0.9995,0.0,False
+9305,sw-KE,play,play_radio,weka milele f.m.,iot_hue_lightoff,0.8263,0.0005,False
+9316,sw-KE,play,play_radio,nichezee kiss f. m.,social_post,0.9982,0.0001,False
+9317,sw-KE,play,play_radio,anzisha redio sahii,social_post,0.9991,0.0,False
+9321,sw-KE,play,play_radio,fanya redio iwake sasa,iot_hue_lightoff,0.5939,0.009,False
+9323,sw-KE,play,play_radio,anza pandora,qa_factoid,0.9989,0.0001,False
+9326,sw-KE,play,play_radio,tafadhali cheza k.b.c. sasa hivi,social_post,0.9803,0.0001,False
+9327,sw-KE,play,play_radio,tafadhali tambaza dial ya a.m. ya redio sasa hivi,qa_factoid,0.9953,0.0001,False
+9330,sw-KE,play,play_radio,cheza,cooking_recipe,0.3178,0.0295,False
+9341,sw-KE,play,play_radio,alexa badilisha kituo cha redio,social_post,0.9354,0.0001,False
+9352,sw-KE,play,play_radio,cheza redio tafadhali,social_post,0.9569,0.0003,False
+9353,sw-KE,play,play_radio,anza baadhi ya muziki cheza redio,play_music,0.9925,0.0001,False
+9358,sw-KE,play,play_radio,anza kituo cha redio mia nane na thamnini na tisa,social_post,0.6772,0.0053,False
+9361,sw-KE,play,play_radio,sikiliza redio,iot_hue_lightoff,0.9943,0.0001,False
+9362,sw-KE,play,play_radio,vituo vya redio,news_query,0.1763,0.0261,False
+9363,sw-KE,play,play_radio,hebu tucheze vibao kwenye redio,play_music,0.9992,0.0,False
+9364,sw-KE,play,play_radio,wacha tucheze ngoma,play_podcasts,0.5467,0.0099,False
+9380,sw-KE,play,play_radio,nataka uende hadi milele f. m. kwenye redio,qa_factoid,0.9866,0.0005,False
+9384,sw-KE,play,play_radio,cheza c. n. n. radio,play_radio,1.0,1.0,True
+9394,sw-KE,play,play_radio,olly cheza radio,play_radio,1.0,1.0,True
+9402,sw-KE,play,play_radio,cheza mia tisa na themanini na tisa kwa kituo cha redio,social_post,0.7965,0.0298,False
+9406,sw-KE,play,play_radio,anza milele f. m.,email_sendemail,1.0,0.0,False
+9408,sw-KE,play,play_radio,anza kucheza radio,play_radio,1.0,1.0,True
+9426,sw-KE,play,play_radio,nataka kusikia kituo kinachocheza r. n. b.,email_sendemail,0.6691,0.01,False
+9438,sw-KE,play,play_radio,unaweza kunichezea wimbo wa rap kwenye redio,play_music,0.9988,0.0,False
+9457,sw-KE,play,play_music,cheza wimbo haunisumbui,play_music,1.0,1.0,True
+9460,sw-KE,play,play_music,cheza bango,social_post,0.9221,0.0006,False
+9471,sw-KE,play,play_radio,washa kituo cha muziki cha genge,play_music,0.6126,0.0048,False
+9494,sw-KE,play,play_radio,unaweza tafadhali kucheza f. m. kituo ambacho ina nyimbo pop,play_music,0.9998,0.0,False
+9506,sw-KE,play,play_radio,olly wacha tusikie wgrr mia moja na tatu nukta tano,qa_factoid,0.9977,0.0001,False
+9507,sw-KE,play,play_radio,tafadhali kupata kituo cha redio sasa kucheza patanisho,qa_factoid,0.8687,0.0008,False
+9519,sw-KE,play,play_radio,cheza kituo yoyote ya rhumba f. m.,iot_hue_lightoff,0.9016,0.0,False
+9520,sw-KE,play,play_radio,cheza matangazo ya redio ya mwisho ya doctor who,qa_factoid,0.2686,0.0697,False
+9524,sw-KE,play,play_radio,wacha programu kwenye milele f. m.,email_sendemail,0.7394,0.0015,False
+9528,sw-KE,play,play_radio,weka n.t.v na uchezee kwenye paza sauti zangu,play_music,0.5374,0.1346,False
+9541,sw-KE,play,play_radio,cheza muziki wa switi switi kwenye radio,play_music,0.9965,0.0035,False
+9542,sw-KE,play,play_radio,wacha nisikilize kipindi cha habari za hivi punde kwenye redio,play_podcasts,1.0,0.0,False
+9545,sw-KE,play,play_radio,nataka kusikiza kipindi cha ted josiah,email_sendemail,0.9868,0.0,False
+9554,sw-KE,play,play_radio,cheza muziki ya kimapenzi kwenye radio maisha,play_music,1.0,0.0,False
+9561,sw-KE,play,play_radio,cheza milele f. m. kwenye redio,play_music,0.9782,0.0177,False
+9562,sw-KE,play,play_radio,unaweza tafadhali kucheza programu hii kwa ajili yangu,qa_factoid,0.9999,0.0001,False
+9565,sw-KE,play,play_radio,cheza nyimbo kwenye redio mseto bila kukoma,play_music,1.0,0.0,False
+9568,sw-KE,play,play_radio,cheza mfululizo wa tamasha la moja kwa moja la britney spears,play_music,0.9873,0.0019,False
+9569,sw-KE,play,play_radio,sawa google cheza mia moja na sita nukta saba,social_post,0.7909,0.004,False
+9577,sw-KE,play,play_radio,badilisha kituo hadi themanini na mbili nukta nne,qa_factoid,0.9985,0.0,False
+9591,sw-KE,play,play_radio,cheza programu ya bhuli bisri yaadien kwa tisini na moja nukta tatu f.m.,iot_hue_lightoff,0.6033,0.0142,False
+9592,sw-KE,play,play_podcasts,tafuta podikasti zinazo ongea kuhusu masuala ya wanaume,qa_factoid,0.9996,0.0,False
+9594,sw-KE,play,play_radio,nyimbo za f. m. tisini na tatu nukta tano,play_music,0.9998,0.0,False
+9601,sw-KE,play,play_radio,cheza redio ya bongo flava,cooking_recipe,0.7945,0.0069,False
+9617,sw-KE,play,play_radio,nichezee onyeshoya leo asubuhi kutoka mia moja na moja nukta tisa,social_post,0.7584,0.0068,False
+9619,sw-KE,play,play_radio,cheza jalas na kamene goro kwenye redio ya gari,play_music,0.8953,0.0064,False
+9620,sw-KE,play,play_radio,naweza pata delilah kwenye redio ndani ya chumba cha kulala,qa_factoid,0.9688,0.0013,False
+9629,sw-KE,play,play_radio,tafadhali nisaidie kusikiliza redio,cooking_recipe,0.9983,0.0,False
+9630,sw-KE,play,play_radio,nichezee radio sayare,play_radio,0.9736,0.9736,True
+9632,sw-KE,play,play_radio,redio tafadhali,iot_hue_lightoff,0.6213,0.0058,False
+9637,sw-KE,play,play_radio,anza orodha ya kucheza yangu kwenye salama radio,play_radio,1.0,1.0,True
+9640,sw-KE,play,play_radio,fungua spotify na ufungue mazoezi,qa_factoid,0.9996,0.0,False
+9651,sw-KE,play,play_radio,cheza netflix katika p. s. four yangu,play_podcasts,0.9987,0.0,False
+9656,sw-KE,play,play_music,nicheze nyimbo wa furaha kupitia wazungumzaji,play_music,1.0,1.0,True
+9706,sw-KE,play,play_music,cheza krismasi,social_post,0.6271,0.001,False
+9707,sw-KE,play,play_music,fungua kicheza media na ucheze malaika,qa_definition,0.4087,0.0136,False
+9738,sw-KE,play,play_music,tafadhali waeza nichezea muziki wa classical,cooking_recipe,0.7403,0.2501,False
+9793,sw-KE,play,play_music,cheza nyimbo za kimapenzi,play_music,1.0,1.0,True
+9795,sw-KE,play,play_music,rejea born to run,qa_factoid,1.0,0.0,False
+9912,sw-KE,cooking,cooking_recipe,olly nafaa kuchemsha mayai kwa mda gani,qa_factoid,0.9978,0.0001,False
+9918,sw-KE,cooking,cooking_recipe,ni vipi naunda ugali,email_sendemail,0.7048,0.0008,False
+9923,sw-KE,cooking,cooking_recipe,ni muda kiasi gani wa kuchemsha yai,iot_hue_lightoff,0.9646,0.0,False
+9924,sw-KE,cooking,cooking_recipe,niambie resipe ya,qa_factoid,0.9997,0.0001,False
+9930,sw-KE,cooking,cooking_recipe,nachemsha yai kwa muda gani,qa_factoid,0.9966,0.0,False
+9931,sw-KE,cooking,cooking_recipe,olly nichemshe yai kwa mda gani,qa_factoid,0.7788,0.0001,False
+9940,sw-KE,cooking,cooking_recipe,nitafutie resipe ya keki ya chokoleti,cooking_recipe,1.0,1.0,True
+9941,sw-KE,cooking,cooking_recipe,jinsi ya kupika kuku wa kienyeji,cooking_recipe,0.9995,0.9995,True
+9942,sw-KE,cooking,cooking_recipe,ni nini yote inaenda kwa keki ya harusi,cooking_recipe,0.9991,0.9991,True
+9943,sw-KE,cooking,cooking_recipe,inachukua muda gani kutengenaza chapati,qa_factoid,0.9977,0.0002,False
+9952,sw-KE,cooking,cooking_recipe,nipatie ratiba ya upishi,qa_factoid,1.0,0.0,False
+9955,sw-KE,cooking,cooking_recipe,nionyeshe video ya kupika kuku iliyokaangwa,cooking_recipe,0.9965,0.9965,True
+9956,sw-KE,cooking,cooking_recipe,ni nini inaweza kubadilisha na mafuta,qa_factoid,0.4603,0.0401,False
+9961,sw-KE,cooking,cooking_recipe,ni joto gani bora zaidi la tanuri kwa kuchoma viazi vya roast,cooking_recipe,1.0,1.0,True
+9962,sw-KE,cooking,cooking_recipe,ni jinsi gany njema ya kupika pilau,cooking_recipe,0.9897,0.9897,True
+9964,sw-KE,cooking,cooking_recipe,maarifa ya usindikaji wa chakula,qa_factoid,0.7486,0.0008,False
+9966,sw-KE,cooking,cooking_recipe,ni njia gani rahisi zaidi ya kupika pasta,cooking_recipe,0.9996,0.9996,True
+9969,sw-KE,cooking,cooking_recipe,ni nini yaweza kutumika badala ya kutumia tangawizi,qa_factoid,0.6816,0.1037,False
+9971,sw-KE,cooking,cooking_recipe,nini hushika moto vizuri zaidi ya kopa na ayoni,qa_factoid,0.8711,0.0163,False
+9976,sw-KE,cooking,cooking_recipe,roboti nipatie orodha ya viungo vya mukimo,qa_factoid,0.9173,0.0011,False
+9977,sw-KE,cooking,cooking_recipe,tafathali tafuta kwa mtandao video za youtube ambazo zinafaa kwa kuika vyakula vya kikenya,qa_factoid,0.5368,0.1723,False
+9979,sw-KE,cooking,cooking_recipe,pika baadhi ya shayiri,social_post,0.8839,0.0078,False
+9980,sw-KE,cooking,cooking_recipe,ni menyu gani leo ongeza mboga iliyochemshwa pya,social_post,0.2978,0.0422,False
+9986,sw-KE,cooking,cooking_recipe,kuchemsha,social_post,0.8324,0.039,False
+9994,sw-KE,cooking,cooking_recipe,niambie resipe ya kupika pilau,cooking_recipe,1.0,1.0,True
+10016,sw-KE,cooking,cooking_recipe,resipe ya kupika pilau kwa sentensi tano ni ipi,cooking_recipe,0.9995,0.9995,True
+10019,sw-KE,cooking,cooking_recipe,niambie ni vipi nitapika wali wa daku,social_post,0.7615,0.0046,False
+10023,sw-KE,cooking,cooking_recipe,nahitaji nini kuandaa pilau,cooking_recipe,0.991,0.991,True
+10027,sw-KE,cooking,cooking_recipe,maelezo ya kuandaa chakula,cooking_recipe,1.0,1.0,True
+10031,sw-KE,cooking,cooking_recipe,ninahitaji kichocheo ambacho ni kutoka kwa viungo kwenye orodha yangu ya ununuzi,qa_factoid,0.7386,0.0028,False
+10038,sw-KE,cooking,cooking_recipe,nataka mawazo mazuri ya kupika,social_post,0.6131,0.0021,False
+10045,sw-KE,cooking,cooking_recipe,unaweza kunipatia resipe ya supu ya nyumbani,qa_factoid,0.7537,0.1492,False
+10048,sw-KE,cooking,cooking_recipe,naandaa aje nyama ya bata,qa_factoid,0.4494,0.0206,False
+10049,sw-KE,cooking,cooking_recipe,niambie jinsi ya kuandaa keki ya watoto,cooking_recipe,0.9998,0.9998,True
+10053,sw-KE,cooking,cooking_recipe,jinsi ya mimi kutengeneza pizza,qa_factoid,0.9999,0.0001,False
+10055,sw-KE,cooking,cooking_recipe,ni nini resipe ya kuku wa kukaanga,cooking_recipe,1.0,1.0,True
+10061,sw-KE,cooking,cooking_recipe,nifanye nini kwa chajio,cooking_recipe,0.9789,0.9789,True
+10072,sw-KE,cooking,cooking_recipe,masaa ya kuioka nyama ya kuku kwenye mashine ya kuoka,cooking_recipe,0.9997,0.9997,True
+10076,sw-KE,cooking,cooking_recipe,je unaweza tumia masala badala ya iliki,cooking_recipe,1.0,1.0,True
+10077,sw-KE,cooking,cooking_recipe,tafuta resipe ya chajio cha usiku wa leo,qa_factoid,0.9998,0.0,False
+10078,sw-KE,cooking,cooking_recipe,ni nini napaswa kupika nini kwa ajili ya chakula cha jioni,cooking_recipe,0.9999,0.9999,True
+10080,sw-KE,cooking,cooking_recipe,wacha tupike nyama pamoja,qa_factoid,0.5657,0.0069,False
+10081,sw-KE,cooking,cooking_recipe,niambie jinsi ya kupika nyama ya kondoo,cooking_recipe,0.5135,0.5135,True
+10090,sw-KE,cooking,cooking_recipe,je ninaweza kupata mapishi ya tuna,cooking_recipe,0.5118,0.5118,True
+10093,sw-KE,cooking,cooking_recipe,mukimo unapikwa vipi,qa_factoid,0.993,0.0003,False
+10097,sw-KE,cooking,cooking_recipe,ningependa cheeseburger,cooking_recipe,0.9062,0.9062,True
+10099,sw-KE,cooking,cooking_recipe,je unajua kupika wali,qa_factoid,0.464,0.1825,False
+10100,sw-KE,cooking,cooking_recipe,unajua mbinu ya kupika mbaazi,social_post,0.4821,0.1939,False
+10105,sw-KE,cooking,cooking_recipe,nafaa kupika nyama kwa muda gani ndio ifike ya wastani,qa_factoid,0.9994,0.0002,False
+10107,sw-KE,cooking,cooking_recipe,nahitaji resipe ya wali,qa_factoid,0.2009,0.0481,False
+10119,sw-KE,cooking,cooking_recipe,nafaa kupika bata mzinga kwa mda gani,qa_definition,0.8881,0.0026,False
+10125,sw-KE,cooking,cooking_recipe,kuna tofauti gani kati ya kuoka na kuchoma kwa moto,qa_definition,0.9983,0.0,False
+10132,sw-KE,cooking,cooking_recipe,nafaa kupika nyama kwa mda gani ndio ikuwe wastani,qa_factoid,0.8542,0.0224,False
+10150,sw-KE,cooking,cooking_recipe,jinsi ya kutengeneza pizza,qa_factoid,1.0,0.0,False
+10156,sw-KE,cooking,cooking_recipe,nahitaji jinsi ya kutengeza pilipili tamu,cooking_recipe,0.9995,0.9995,True
+10164,sw-KE,cooking,cooking_recipe,ni kwa muda upi unapika makoroni,qa_factoid,0.9892,0.0002,False
+10166,sw-KE,cooking,cooking_recipe,kuangalia mapishi ya keki,cooking_recipe,0.6252,0.6252,True
+10171,sw-KE,cooking,cooking_recipe,resipe ya supu ya samaki ni nini,social_post,0.7026,0.0202,False
+10177,sw-KE,cooking,cooking_recipe,jinsi ya kupika boga la tambi,cooking_recipe,0.9966,0.9966,True
+10182,sw-KE,cooking,cooking_recipe,nahitaji mayai mangapi kwa chapati,cooking_recipe,0.9334,0.9334,True
+10197,sw-KE,cooking,cooking_recipe,nionyeshe resipe bora zaidi ya spaghetti,cooking_recipe,1.0,1.0,True
+10206,sw-KE,cooking,cooking_recipe,mchele unatayarishwa vipi,qa_factoid,0.9999,0.0,False
+10213,sw-KE,cooking,cooking_recipe,orodha ya resipe maarufu za biryani,cooking_recipe,0.9999,0.9999,True
+10214,sw-KE,cooking,cooking_recipe,resipe zinazoweza kupika kwa saa moja,qa_factoid,0.9951,0.0001,False
+10216,sw-KE,cooking,cooking_recipe,tafuta kwenye wavuti kwa ajili ya kununua vyombo vya kuoka muffins,cooking_recipe,0.641,0.641,True
+10217,sw-KE,cooking,cooking_recipe,kupata mapishi ya samaki kwa maombi ya kupika foru,cooking_recipe,0.9951,0.9951,True
+10220,sw-KE,cooking,cooking_recipe,nahitaji viungo vipi kuoka keki kubwa,cooking_recipe,1.0,1.0,True
+10224,sw-KE,cooking,cooking_recipe,lazima iwe na ladha,social_post,0.8572,0.0001,False
+10226,sw-KE,cooking,cooking_recipe,nijulishe resipe ya kutengeza pasta,cooking_recipe,1.0,1.0,True
+10426,sw-KE,lists,lists_query,ni nini chengine hakipatikani kwa shajara,qa_factoid,0.5428,0.0047,False
+10427,sw-KE,lists,lists_remove,tafadhali safisha orodha yangu ya ununuzi,social_post,0.7818,0.0004,False
+10430,sw-KE,lists,lists_remove,futa kipengee cha kwanza kwenye orodha,lists_remove,0.3273,0.3273,True
+10433,sw-KE,lists,lists_remove,ondoa orodha yangu ya kazi,qa_factoid,0.8947,0.0186,False
+10440,sw-KE,lists,lists_query,tukio yoyote maalum kwenye orodha yangu,qa_factoid,0.8414,0.0065,False
+10442,sw-KE,lists,lists_remove,toa matukio kutoka kwa orodha yangu,iot_hue_lightoff,0.4474,0.0279,False
+10444,sw-KE,lists,lists_remove,futa kipengee,qa_factoid,0.9983,0.0,False
+10451,sw-KE,lists,lists_query,nini cha kufanya leo,cooking_recipe,0.998,0.0001,False
+10455,sw-KE,lists,lists_query,ni nini kiko kwa orodha yangu ya kufanya,cooking_recipe,0.3882,0.2953,False
+10462,sw-KE,lists,lists_remove,tupa orodha,email_query,0.3735,0.0111,False
+10493,sw-KE,lists,lists_query,nini ya ku orodha yangu ya kufanya,cooking_recipe,0.8549,0.0016,False
+10494,sw-KE,lists,lists_remove,ondoa penseli kutoka kwenye vifaa vya kuandika,calendar_remove,0.8211,0.0842,False
+10497,sw-KE,qa,qa_factoid,naomba orodha ya hoteli za nyota tano nairobi,qa_factoid,0.5259,0.5259,True
+10508,sw-KE,lists,lists_remove,toa kipengee cha orodha,social_post,0.8366,0.0014,False
+10512,sw-KE,lists,lists_query,orodhesha kila kitu kilichobaki kwenye ulizo langu,lists_remove,0.9363,0.0091,False
+10523,sw-KE,lists,lists_remove,futa kutoka kwenye orodha yangu ya nyimbo ya kiingereza cha zamani,play_music,0.6501,0.0372,False
+10525,sw-KE,lists,lists_remove,ondoa malipo ya gari langu kwenye kalenda yangu,calendar_remove,0.4056,0.3618,False
+10527,sw-KE,lists,lists_remove,toa hiyo orodha,qa_factoid,0.9999,0.0,False
+10534,sw-KE,lists,lists_query,jinsi ya kufanya orodha ya leo,cooking_recipe,0.3979,0.01,False
+10538,sw-KE,lists,lists_query,tafadhali rudia orodha yangu ya ununuzi,social_post,0.999,0.0,False
+10565,sw-KE,lists,lists_remove,futa orodha zote,qa_factoid,0.8824,0.0,False
+10568,sw-KE,lists,lists_remove,ondoa orodha ya muziki wa kitambo,play_music,0.8569,0.0007,False
+10570,sw-KE,lists,lists_query,angalia yangu ya kufanya orodha,recommendation_events,0.6514,0.0039,False
+10571,sw-KE,lists,lists_query,android,iot_hue_lightoff,0.2324,0.0685,False
+10577,sw-KE,lists,lists_query,nipatie orodha zangu zote,qa_factoid,0.9999,0.0,False
+10579,sw-KE,lists,lists_remove,weka upya orodha yangu ya maeneo,iot_hue_lightoff,0.7676,0.0123,False
+10588,sw-KE,lists,lists_query,nionyeshe yaliyomo kwenye orodha,lists_remove,0.7819,0.0044,False
+10590,sw-KE,lists,lists_remove,ondoa safu ya pili kwa orodha,qa_factoid,0.9831,0.0026,False
+10655,sw-KE,lists,lists_remove,to orodha iitwayo wakati wa sherehe,weather_query,0.9122,0.0021,False
+10667,sw-KE,lists,lists_query,soma ratiba ya orodha,qa_factoid,0.991,0.0004,False
+10673,sw-KE,lists,lists_remove,tafadhali ondoa orodha ifuatayo,social_post,0.3998,0.0044,False
+10674,sw-KE,lists,lists_remove,tupa orodha ya sasa,qa_factoid,0.602,0.0092,False
+10679,sw-KE,lists,lists_query,nini ni iko kwenye orodha yangu ya kufanya leo,recommendation_events,0.4128,0.0584,False
+10684,sw-KE,lists,lists_query,ni orodha gani mimi nimeuliza,qa_factoid,0.9052,0.0024,False
+10687,sw-KE,lists,lists_remove,kama kuna tukio la onyesho basi litoe,social_post,0.8,0.0038,False
+10696,sw-KE,lists,lists_remove,badili,qa_factoid,0.9867,0.0002,False
+10699,sw-KE,lists,lists_query,nijulishe kuhusu bidhaa kwa orodha,recommendation_events,0.9274,0.0034,False
+10718,sw-KE,lists,lists_remove,unaweza toa hii bidhaa kutoka kwa orodha,qa_factoid,1.0,0.0,False
+10731,sw-KE,lists,lists_query,nisomee chenye kiko kwa orodha yangu,social_post,0.9985,0.0,False
+10743,sw-KE,lists,lists_remove,ondoa kipengee hicho,qa_factoid,0.98,0.0,False
+10753,sw-KE,lists,lists_query,niliandika nini kwenye orodha ya naivas,recommendation_events,0.265,0.0298,False
+10755,sw-KE,lists,lists_remove,tupa mbali yangu ya kufanya orodha tafadhali,calendar_remove,0.6177,0.0887,False
+10756,sw-KE,lists,lists_remove,futa orodha ya ununuzi,qa_factoid,1.0,0.0,False
+10757,sw-KE,lists,lists_query,ni vitu gani vilivyo kwenye orodha yangu ya ununuzi,lists_query,0.9325,0.9325,True
+10759,sw-KE,lists,lists_query,nisomee orodha yangu ya ununuzi,qa_factoid,0.969,0.0,False
+10760,sw-KE,lists,lists_query,niambie orodha niliyoandika siku mbili zilizopita,social_post,0.9136,0.0028,False
+10770,sw-KE,lists,lists_remove,kuondoa nafaka kutoka orodha yangu ya ununuzi,qa_factoid,0.6299,0.2769,False
+10772,sw-KE,calendar,calendar_remove,toa miadi na daktari wa meno kwa ratiba ya leo,qa_factoid,0.9697,0.001,False
+10776,sw-KE,lists,lists_query,nikona orodha ya mboga tayari,social_post,0.9112,0.0,False
+10786,sw-KE,lists,lists_remove,ondoa orodha yangu ya shughuli kwa leo,social_post,0.9459,0.0013,False
+10790,sw-KE,lists,lists_remove,futa kipengee kwenye orodha,lists_remove,0.3199,0.3199,True
+10804,sw-KE,lists,lists_query,soma orodha yangu ya mboga,social_post,0.9395,0.0007,False
+10805,sw-KE,lists,lists_query,tafadhali nionyeshe orodha yenye niko nayo,qa_factoid,0.7045,0.0002,False
+10808,sw-KE,lists,lists_remove,toa kipengee kilicho orodheshwa mwisho,social_post,0.7946,0.0022,False
+10824,sw-KE,lists,lists_remove,olly futa orodha,qa_factoid,0.6169,0.0018,False
+10825,sw-KE,lists,lists_remove,futa orodha,qa_factoid,0.747,0.0045,False
+10827,sw-KE,lists,lists_remove,futa orodha ya mboga,email_query,0.4595,0.0003,False
+10828,sw-KE,lists,lists_remove,futa yote,iot_hue_lightoff,0.9952,0.0001,False
+10832,sw-KE,calendar,calendar_query,olly nimepanga nini baadaye,qa_factoid,0.9997,0.0,False
+10843,sw-KE,lists,lists_remove,toa maziwa kutoka kwa orodha yangu ya mboga,cooking_recipe,0.9999,0.0,False
+10846,sw-KE,lists,lists_remove,sina pesa za kutosha kununua kibadili cha nintendo saa hizi unaweza unaweza kiondoa kwa orodha yangu ya orodha ya matamanio yangu ya amazon,qa_factoid,0.9391,0.0082,False
+10848,sw-KE,lists,lists_remove,toa hii orodha kwa zingine,iot_hue_lightoff,0.9987,0.0,False
+10851,sw-KE,lists,lists_query,ni orodha gani zinazopatikana,qa_factoid,0.9995,0.0,False
+10853,sw-KE,lists,lists_remove,chukua hiyo hapo,qa_factoid,0.9969,0.0,False
+10855,sw-KE,lists,lists_query,nahitaji kuangalia orodha yangu,qa_factoid,0.9774,0.0001,False
+10868,sw-KE,lists,lists_query,olly kitu kingine chochote kimesalia kwenye orodha,qa_factoid,0.379,0.0136,False
+10887,sw-KE,lists,lists_remove,futa orodha yangu,social_post,0.932,0.0003,False
+10895,sw-KE,lists,lists_remove,toa bidhaa kutoka kwa orodha yangu,qa_factoid,0.7448,0.0043,False
+10909,sw-KE,lists,lists_query,olly nisomee orodha zangu,email_sendemail,0.6059,0.0001,False
+10927,sw-KE,lists,lists_query,wacha nisikie orodha yangu,social_post,0.9996,0.0,False
+10931,sw-KE,lists,lists_query,nini iko kwa orodha ya kucheza yangu,iot_hue_lightoff,0.2703,0.0232,False
+10936,sw-KE,lists,lists_remove,tafadhali ondoa kwa orodha yangu ya albamu favorite,email_sendemail,0.9868,0.0007,False
+10954,sw-KE,lists,lists_query,ni orodha ngapi mimi ninayo katika wawasiliani,lists_query,0.9976,0.9976,True
+10956,sw-KE,lists,lists_query,ni vikundi gani vilivyoorodheshwa katika anwani yangu,qa_factoid,0.944,0.0104,False
+10957,sw-KE,lists,lists_query,nikumbushe ni orodha ngapi ninazo,qa_definition,0.6827,0.0023,False
+10960,sw-KE,lists,lists_remove,toa hiyo moja kutoka kwa orodha,qa_factoid,0.99,0.0001,False
+10970,sw-KE,lists,lists_remove,futa kishazi cha mwisho,social_post,0.9636,0.0005,False
+10979,sw-KE,lists,lists_query,ni nini kiko kwa orodha yako sahi,qa_factoid,0.9,0.0093,False
+10981,sw-KE,lists,lists_query,nijulishe orodha,email_query,0.3692,0.0038,False
+10985,sw-KE,lists,lists_remove,futa yangu ya kufanya kwa wiki hii,qa_factoid,0.9898,0.0008,False
+10990,sw-KE,lists,lists_remove,katika orodha ya vitu za kufanya ondoa kupiga deki jikoni,lists_remove,0.4863,0.4863,True
+10999,sw-KE,lists,lists_query,sema orodha,qa_factoid,0.5458,0.0082,False
+11023,sw-KE,lists,lists_remove,ondoa orodha ya ununuzi,qa_factoid,0.9959,0.0001,False
+11024,sw-KE,lists,lists_remove,futa orodha ya kufanya,qa_factoid,0.9168,0.0077,False
+11053,sw-KE,lists,lists_remove,futa orodha inayoitwa google,qa_factoid,0.9831,0.0,False
+11075,sw-KE,lists,lists_query,nikona orodha ngapi,transport_query,0.3771,0.0117,False
+11081,sw-KE,lists,lists_query,ni orodha gani ziko kwa kitabu changu,social_post,0.5885,0.0052,False
+11085,sw-KE,lists,lists_remove,toa maziwa kutoka kwenye orodha ya ununuzi,cooking_recipe,0.9997,0.0,False
+11098,sw-KE,lists,lists_remove,ondoa orodha ya kodi kutoka mwaka wa elfu moja kenda mia na tisini,iot_hue_lightoff,0.8452,0.0615,False
+11107,sw-KE,lists,lists_query,ni nini orodha yangu ya hivi sasa,qa_factoid,0.8832,0.0072,False
+11124,sw-KE,lists,lists_query,orodhesha vipengee za orodha yangu ya kazi,lists_remove,0.5454,0.0282,False
+11125,sw-KE,lists,lists_query,nipee maelezo ya agizo la ununuaji,qa_factoid,0.3159,0.0245,False
+11133,sw-KE,lists,lists_remove,kuondoa orodha ya wageni wangu iliyoundwa wiki iliyopita,recommendation_events,0.7156,0.2023,False
+11154,sw-KE,lists,lists_query,kagua ya kufanya orodha,qa_factoid,0.7302,0.0011,False
+11162,sw-KE,lists,lists_remove,nataka kutoa tufaka kutoka kwa orodha,qa_factoid,0.9501,0.0009,False
+11164,sw-KE,lists,lists_remove,mbali mbali na orodha,social_post,0.9999,0.0,False
+11166,sw-KE,lists,lists_query,fungua google keep,qa_factoid,0.9881,0.0003,False
+11168,sw-KE,lists,lists_remove,futa orodha yangu,social_post,0.932,0.0003,False
+11172,sw-KE,lists,lists_query,nipe orodha zote zinazopatikana,qa_factoid,0.996,0.0,False
+11174,sw-KE,lists,lists_query,orodhesha orodha zote zilizo kwa hichi kifaa,qa_factoid,0.9882,0.0002,False
+11180,sw-KE,calendar,calendar_query,mipango ya sherehe yangu,social_post,0.9975,0.0001,False
+11186,sw-KE,lists,lists_query,niko na orodha yangu ya nguo,email_query,0.8379,0.0025,False
+11189,sw-KE,lists,lists_query,tafuta hio orodha,iot_hue_lightoff,0.7969,0.0,False
+11204,sw-KE,lists,lists_query,habari muhimu ya nyumba,qa_factoid,0.9894,0.0001,False
+11215,sw-KE,lists,lists_query,orodha,qa_factoid,0.9659,0.0003,False
+11250,sw-KE,lists,lists_query,nisomee orodha yangu ya mboga tena,email_query,0.559,0.0,False
+11257,sw-KE,play,play_podcasts,olly cheza rekodi inayofuata,qa_factoid,1.0,0.0,False
+11259,sw-KE,play,play_podcasts,ruka hadi kipindi kinachofuata,qa_factoid,0.9997,0.0,False
+11261,sw-KE,play,play_podcasts,ingine,qa_factoid,0.9004,0.0017,False
+11265,sw-KE,play,play_podcasts,cheza inayofuata,qa_factoid,0.997,0.0,False
+11266,sw-KE,play,play_podcasts,kucheza podaksti kutoka maktaba yangu,play_music,0.7985,0.1994,False
+11267,sw-KE,play,play_podcasts,tafuta podikasti inayovutia kuhusu washindi wa tuzo la teeniez ya mwisho,qa_factoid,1.0,0.0,False
+11270,sw-KE,play,play_podcasts,cheza podikasti ifwatayo,qa_factoid,0.9446,0.0003,False
+11272,sw-KE,play,play_podcasts,cheza inayofuata,qa_factoid,0.997,0.0,False
+11279,sw-KE,play,play_podcasts,enda kwa podikasti na ucheze sehemu inayofuata ya machachari,qa_factoid,0.9521,0.0045,False
+11286,sw-KE,play,play_podcasts,cheza kenyan plug podikasti,qa_factoid,1.0,0.0,False
+11296,sw-KE,play,play_podcasts,zote zangu podikasti,qa_factoid,0.9542,0.0002,False
+11302,sw-KE,play,play_podcasts,cheza podikasti ya vioja mahakamani,news_query,0.0603,0.0543,False
+11303,sw-KE,play,play_podcasts,cheza inayofuata jalango podikasti,qa_factoid,1.0,0.0,False
+11306,sw-KE,play,play_podcasts,cheza hiyo podkasti nikisikiliza jana,play_podcasts,1.0,1.0,True
+11318,sw-KE,play,play_podcasts,cheza kipindi kinachofuata ya podikasti,qa_factoid,1.0,0.0,False
+11322,sw-KE,play,play_podcasts,podikasti za leo ni zipi,social_post,0.8901,0.1058,False
+11328,sw-KE,play,play_podcasts,cheza podikasti ya sarakasi za nairobi,lists_remove,0.2346,0.0443,False
+11331,sw-KE,play,play_podcasts,nionyeshe podkasti bora zaidi za nyimbo za rock zenye ukadiriaji nzuri,play_podcasts,0.7013,0.7013,True
+11335,sw-KE,play,play_music,cheza na changanya muziki zote za polepole,play_music,0.8028,0.8028,True
+11339,sw-KE,play,play_podcasts,cheza podikasti yangu iliyotazamwa sana,cooking_recipe,0.7182,0.1994,False
+11340,sw-KE,play,play_podcasts,je kageni akona podikasti mpya,qa_factoid,0.9995,0.0,False
+11341,sw-KE,play,play_podcasts,tafuta podikasti ya maria ya hivi karibuni,qa_factoid,0.5852,0.0054,False
+11343,sw-KE,play,play_podcasts,sehemu inayofuata ya hipsterhood,iot_hue_lightoff,0.9229,0.0,False
+11345,sw-KE,play,play_podcasts,cheza kipindi kinachofuata ya podikasti,qa_factoid,1.0,0.0,False
+11349,sw-KE,play,play_podcasts,olly anza tena podikasti nilianza jana usiku,social_post,0.9652,0.0012,False
+11353,sw-KE,play,play_podcasts,onyesha podikasti,qa_factoid,0.9993,0.0,False
+11361,sw-KE,play,play_podcasts,cheza hiyo podikasti surviving nairobi,play_podcasts,0.632,0.632,True
+11366,sw-KE,play,play_podcasts,rudi nyuma kwa kipindi kilichotangulia ya podikasti,qa_factoid,0.9994,0.0003,False
+11368,sw-KE,play,play_podcasts,nichezee kipindi cha juma,social_post,0.9996,0.0,False
+11376,sw-KE,play,play_podcasts,nataka kusikiliza kipindi,cooking_recipe,0.8279,0.0034,False
+11384,sw-KE,play,play_podcasts,tafadhali pakua faili yangu ya podikasti kwenye mtandao na uicheze mara moja,qa_factoid,0.9884,0.0004,False
+11409,sw-KE,play,play_podcasts,tafadhali songa katika sehemu ya podikasti inayofuata,qa_factoid,0.9249,0.0583,False
+11417,sw-KE,play,play_podcasts,anza kipindi kifuatacho,qa_factoid,0.9998,0.0,False
+11418,sw-KE,play,play_podcasts,cheza podikasti ya willy tuva ya karibuni,social_post,0.4801,0.0502,False
+11420,sw-KE,play,play_podcasts,anza kucheza podikasti yangu ya hivi karibuni,social_post,0.7902,0.0385,False
+11423,sw-KE,play,play_podcasts,rudi nyuma sekunde thelathini,qa_factoid,0.7895,0.0004,False
+11424,sw-KE,play,play_podcasts,chaneli ya njugush,social_post,0.9995,0.0,False
+11426,sw-KE,lists,lists_query,orodha iliyotazamwa zaidi,qa_factoid,0.9996,0.0,False
+11427,sw-KE,play,play_podcasts,anza patanisho,social_post,0.8046,0.0021,False
+11437,sw-KE,play,play_podcasts,tafadhali nichezee podikasti,social_post,0.9999,0.0,False
+11438,sw-KE,play,play_podcasts,tafadhali enda kwa kipindi kinachofuata kwa podikasti,qa_factoid,0.9996,0.0,False
+11442,sw-KE,play,play_podcasts,tafadhali cheza podikasti ya maina kageni ya hivi karibuni,social_post,0.855,0.0184,False
+11451,sw-KE,play,play_podcasts,nataka kusikiliza podikasti ya aki na ukwa ya hivi karibuni,lists_remove,0.6123,0.0057,False
+11453,sw-KE,play,play_podcasts,anza podikasti kwenye zora,qa_factoid,0.9876,0.0023,False
+11455,sw-KE,play,play_podcasts,songa kwenye sehemu inayofuata,qa_factoid,0.3694,0.0075,False
+11458,sw-KE,play,play_podcasts,endelea katika kipindi kinachofuata kwenye kanda,qa_factoid,0.3014,0.0489,False
+11459,sw-KE,play,play_podcasts,rudi nyuma kwa kipindi cha mwisho kwenye podikasti hii,qa_factoid,0.9995,0.0001,False
+11460,sw-KE,play,play_podcasts,nataka kusikiliza podikasti ya michezo,social_post,0.853,0.007,False
+11467,sw-KE,play,play_podcasts,cheza kipindi cha hivi karibuni cha maisha mjiji,play_podcasts,1.0,1.0,True
+11470,sw-KE,play,play_podcasts,cheza podikasti yangu ninayopenda zaidi,cooking_recipe,0.7082,0.0086,False
+11474,sw-KE,play,play_podcasts,endelea mfululizo wa podikasti,qa_factoid,0.9195,0.015,False
+11476,sw-KE,play,play_podcasts,cheza podikasti uliopita,social_post,0.9374,0.0002,False
+11483,sw-KE,play,play_podcasts,anza kucheza ringcast,social_post,0.9912,0.0007,False
+11490,sw-KE,play,play_podcasts,cheza onyesho linalofuata kwenye podikasti,play_podcasts,0.5012,0.5012,True
+11502,sw-KE,play,play_podcasts,kitufe inayofuata,qa_factoid,0.9999,0.0,False
+11505,sw-KE,play,play_podcasts,cheza tena podikasti yangu ya mwisho,qa_factoid,0.9491,0.0029,False
+11514,sw-KE,play,play_podcasts,olly tunaweza kusikiliza podikasti legally clueless,qa_factoid,0.996,0.001,False
+11515,sw-KE,play,play_podcasts,wacha tusikie podikasti ya mke nyumbani,social_post,0.8898,0.0747,False
+11525,sw-KE,play,play_podcasts,nataka kuona kipindi kinachofuata inayopatikana,qa_factoid,0.6495,0.0079,False
+11529,sw-KE,play,play_podcasts,cheza orodha ya kucheza yangu ninayopenda zaidi kutoka kwa orodha,play_music,0.309,0.0099,False
+11536,sw-KE,play,play_podcasts,ongeza podikasti ya ninayopenda zaidi kwa orodha ya kucheza na ianze,qa_factoid,0.9854,0.0004,False
+11539,sw-KE,play,play_podcasts,anza podikasti inayofuata,qa_factoid,1.0,0.0,False
+11546,sw-KE,play,play_podcasts,cheza mpangilio wote wa order of the green hand wiki iliyopita,play_music,0.9933,0.0062,False
+11554,sw-KE,play,play_podcasts,nataka ucheze podikasti,social_post,0.9996,0.0002,False
+11563,sw-KE,recommendation,recommendation_events,ni nini naweza fanya nairobi,qa_factoid,0.9998,0.0,False
+11570,sw-KE,recommendation,recommendation_events,nini inafanyika karibu na mji wangu,social_post,0.8883,0.0065,False
+11582,sw-KE,recommendation,recommendation_events,kuna chochote kinafanyika taarab kitale,qa_definition,0.5154,0.0171,False
+11585,sw-KE,recommendation,recommendation_events,matukio yoyote ya kitamaduni mombasa,iot_hue_lightoff,0.9971,0.0019,False
+11598,sw-KE,recommendation,recommendation_events,tafadhali nijulishe kuhusu matukio ya maonyesho ya mbwa yanayoendelea mji wangu wa nyumbani,social_post,0.7056,0.0099,False
+11600,sw-KE,recommendation,recommendation_events,naweza kutazama filamu gani leo usiku katika ukumbi wa michezo hapa nyeri,play_podcasts,0.7024,0.0602,False
+11610,sw-KE,recommendation,recommendation_events,nipe orodha ya maonyesho ya sarakasi yanayoendelea jijini hivi sasa,email_query,0.5461,0.0027,False
+11612,sw-KE,recommendation,recommendation_events,ni maonyesho gani ya bunduki kwenye nakuru,social_post,0.8089,0.0078,False
+11616,sw-KE,recommendation,recommendation_events,kuna matukio yoyote yanayoendeleo katikati mwa jiji usiku wa leo,qa_factoid,0.9313,0.0031,False
+11643,sw-KE,recommendation,recommendation_events,ni matukio gani yanafanyika hivi karibuni,qa_factoid,0.9578,0.0003,False
+11644,sw-KE,recommendation,recommendation_events,nionyeshe matukio ya eldoret,qa_factoid,0.7239,0.0012,False
+11650,sw-KE,recommendation,recommendation_events,wote madereva wadogo na madereva wa muda mfupi hupoteza mara nyingi zaidi kuliko madereva wengine kwa sababu bado hawajawahi kuwa na uzoefu mkubwa ambao wanahitaji kuendesha salama wenyewe utafiti umeonyesha kuwa uzoefu wa kuendesha gari ni sababu kubwa katika kupunguza ajali za barabara na kwamba wakati salama zaidi kwa madereva wa vijana ni wakati wanaendesha gari chini ya usimamizi wakati wa kujifunza,lists_query,0.1594,0.0443,False
+11681,sw-KE,recommendation,recommendation_events,tafadhali onyesha mbio za marathoni zilizo karibu nami,qa_factoid,0.9991,0.0001,False
+11685,sw-KE,recommendation,recommendation_events,ningefurahi kama ungenieleza kuhusu matukio yanayoendelea kwenye eneo letu,qa_factoid,0.6008,0.0122,False
+11705,sw-KE,recommendation,recommendation_events,nionyeshe maonyesho ya uchoraji katika eneo la nakuru,news_query,0.9458,0.0101,False
+11720,sw-KE,recommendation,recommendation_events,kuogelea,cooking_recipe,0.6865,0.0001,False
+11767,sw-KE,recommendation,recommendation_events,olly ni matukio gani yanafanyika kilgoris wikendi hii,iot_hue_lightoff,0.6807,0.0042,False
+11770,sw-KE,recommendation,recommendation_events,matukio yoyote wikendi hii entebbe,iot_hue_lightoff,1.0,0.0,False
+11782,sw-KE,recommendation,recommendation_events,kuna matukio maalum karibu na mimi wikendi hii,social_post,0.7419,0.0005,False
+11798,sw-KE,recommendation,recommendation_events,ni tukio gani linalofuata kwenye maktaba,qa_factoid,0.7157,0.0142,False
+11827,sw-KE,recommendation,recommendation_events,ninaweza kuenda wapi usiku wa leo,weather_query,0.9962,0.0002,False
+11839,sw-KE,recommendation,recommendation_events,nini kinaendelea karibu nami,email_sendemail,0.9416,0.0004,False
+11841,sw-KE,recommendation,recommendation_events,kuna maonyesho ya ufundi yoyote yanayofanyika katika eneo hili,recommendation_events,0.7094,0.7094,True
+11844,sw-KE,recommendation,recommendation_events,kuna chochote kinaendelea mombasa,social_post,0.9146,0.0106,False
+11845,sw-KE,recommendation,recommendation_events,olly niletee matukio ya kuchangamsha huko mombasa,cooking_recipe,0.9875,0.0011,False
+11860,sw-KE,recommendation,recommendation_events,niambie matukio ya eneo,social_post,0.9905,0.0008,False
+11867,sw-KE,recommendation,recommendation_events,kuna tukio la michezo kesho huko nairobi,qa_factoid,0.3222,0.0206,False
+11875,sw-KE,recommendation,recommendation_events,kuna tamasha la chakula kwenye eneo,cooking_recipe,0.9981,0.0001,False
+11904,sw-KE,recommendation,recommendation_events,nini kinaendelea hapa wikendi hii,social_post,0.95,0.0035,False
+11905,sw-KE,recommendation,recommendation_events,olly niambie kuhusu shughuli katika eneo langu wikendi hii,social_post,0.5618,0.0043,False
+11911,sw-KE,recommendation,recommendation_events,chochote kizuri kitakachofanyika wikendi hii katika eneo hilo,qa_factoid,0.8929,0.0072,False
+11916,sw-KE,recommendation,recommendation_events,ni nini baadhi ya hifadhi ya mandhari hapa karibu,lists_remove,0.3334,0.0199,False
+11969,sw-KE,recommendation,recommendation_events,kuna jambo lolote spesieli linaendelea karibu,cooking_recipe,0.5749,0.0041,False
+11999,sw-KE,recommendation,recommendation_events,niambie matukio yote ya leo katika jiji langu,weather_query,0.989,0.0003,False
+12008,sw-KE,recommendation,recommendation_events,kuna matukio ya kustarehe leo tsavo,social_post,0.998,0.0001,False
+12054,sw-KE,recommendation,recommendation_events,ni nini knachoendelea hapa mjini,social_post,0.9953,0.0003,False
+12070,sw-KE,recommendation,recommendation_events,thika road mall hufunguliwa saa ngapi,transport_query,0.5565,0.0797,False
+12073,sw-KE,recommendation,recommendation_events,rejea matukio ya sasa mtaani,social_post,0.3199,0.0428,False
+12098,sw-KE,recommendation,recommendation_events,nionyeshe matukio ya karibu ya muziki,social_post,0.9226,0.0002,False
+12189,sw-KE,transport,transport_query,nawezaje kufika kwenye kituo cha treni kwa tikiti,transport_query,0.5981,0.5981,True
+12240,sw-KE,transport,transport_query,hali ya trafiki kutoka nyumba yangu saa kumi na moja ni ipi,qa_factoid,0.9757,0.001,False
+12245,sw-KE,transport,transport_query,gari la moshi linalofuata kwenda nairobi kutoka kisumu linatoka lini,qa_factoid,0.426,0.0107,False
+12251,sw-KE,transport,transport_query,nipatie muda wa treni ya ndani kuelekea syokimau,calendar_remove,0.7851,0.0034,False
+12252,sw-KE,transport,transport_query,ni saa ngapi ngari za moshi kwenda nyeri zinatoka,weather_query,0.9382,0.003,False
+12261,sw-KE,transport,transport_query,nipe chaguzi za gari la moshi la kuenda nairobi jumatano au alhamisi ijayo,social_post,0.7084,0.0048,False
+12263,sw-KE,transport,transport_query,nairobi,social_post,0.9992,0.0,False
+12264,sw-KE,transport,transport_query,kuna magari ya kutoka nairobi hadi kisumu,transport_query,0.9332,0.9332,True
+12294,sw-KE,transport,transport_query,nionyeshe rabita la gari la moshi kwenda jumba la nyayo,social_post,0.9983,0.0001,False
+12310,sw-KE,transport,transport_query,nipe orodha ya tiketi zinazopatikana za gari la moshi la kutoka nairobi hadi mombasa,lists_query,0.3933,0.0146,False
+12343,sw-KE,transport,transport_query,angalia muda wa gari la moshi la madaraka express katika stesheni ya mombasa siku ya jumanne,iot_hue_lightoff,0.7194,0.0093,False
+12354,sw-KE,transport,transport_query,nipe muda wa treni,social_post,0.9753,0.0002,False
+12366,sw-KE,transport,transport_query,kuna gari la moshi ya kuunganisha kutoka mombasa hadi nairobi na ni saa ngapi,transport_query,0.8641,0.8641,True
+12367,sw-KE,transport,transport_query,ni njia gani bora kwenda nyeri,recommendation_events,0.9089,0.0377,False
+12376,sw-KE,transport,transport_query,je ni madaraka express ipi ya kwanza kuelekea nairobi,qa_factoid,0.947,0.0018,False
+12392,sw-KE,transport,transport_query,niambie mwelekeo wa leo,qa_factoid,1.0,0.0,False
+12402,sw-KE,transport,transport_query,gari la moshi inayofuata inayosafiri mji inaondoka hapa wakati gani,qa_factoid,1.0,0.0,False
+12419,sw-KE,transport,transport_query,njia ya haraka sana ya nairobi,weather_query,0.2777,0.0179,False
+12430,sw-KE,transport,transport_query,niambie wakati wa kuwasili kwa treni kwenda nairobi,email_sendemail,0.1405,0.0344,False
+12436,sw-KE,transport,transport_query,itachukua muda gani kufika uwanja wa ndege,qa_factoid,1.0,0.0,False
+12437,sw-KE,transport,transport_query,ni wakati gani wa kusafiri kwenye ukumbi wa michezo,qa_factoid,0.9984,0.0,False
+12446,sw-KE,transport,transport_query,niambie gari la moshi huenda nairobi mara ngapi,social_post,0.5956,0.0181,False
+12473,sw-KE,transport,transport_query,nawezaje kufika nyumbani kutoka hapa,qa_factoid,0.6302,0.1113,False
+12526,sw-KE,transport,transport_query,ni ipi njia ya haraka sana ya kupata safaricom,qa_factoid,0.9519,0.0058,False
+12532,sw-KE,transport,transport_query,kuongoza njia ya mahali,qa_factoid,0.8357,0.0889,False
+12581,sw-KE,transport,transport_query,gari la moshi ya f. inafanya kazi wakati gani leo,weather_query,0.9989,0.0,False
+12582,sw-KE,transport,transport_query,metrolink ya kwanza inawasili saa ngapi asubuhi,weather_query,0.9965,0.0001,False
+12604,sw-KE,transport,transport_query,mimi nitawezaje kuagiza tiketi la gari la moshi mtandaoni,social_post,0.9969,0.0002,False
+12618,sw-KE,transport,transport_query,ni pesa ngapi kutembea na gari la moshi kuenda nairobi,qa_factoid,0.1047,0.0606,False
+12623,sw-KE,transport,transport_query,una nyakati za gari la moshi za beaumont tx,social_post,0.987,0.0006,False
+12629,sw-KE,transport,transport_query,treni ya kwanza inaondoka saa ngapi kutoka nairobi,weather_query,0.9731,0.0008,False
+12634,sw-KE,transport,transport_query,gari la moshi inayofuata itaondoka lini kuelekea nairobi,qa_factoid,0.9919,0.0001,False
+12707,sw-KE,transport,transport_query,tafuta urambazaji,qa_factoid,0.9963,0.0001,False
+12759,sw-KE,transport,transport_query,muda wa kuendesha gari kuenda nairobi,social_post,0.3538,0.0307,False
+12797,sw-KE,transport,transport_query,muda wa treni kutoka karibu nami hadi eneo,weather_query,0.4777,0.0127,False
+12800,sw-KE,transport,transport_query,maktaba ya umma iko wapi,social_post,0.8734,0.042,False
+12817,sw-KE,transport,transport_query,nawezaje kufika kwenye madukani,qa_factoid,0.6162,0.0017,False
+12818,sw-KE,transport,transport_query,tiketi ya gari la moshi mpaka chicago ni bei ngapi,social_post,0.1988,0.0442,False
+12824,sw-KE,transport,transport_query,orodhesha nyakati zote za treni hadi nairobi,qa_factoid,1.0,0.0,False
+12835,sw-KE,transport,transport_query,gari la moshi ya kuweka inaondoka saa ngapi,weather_query,0.982,0.0004,False
+12839,sw-KE,transport,transport_query,nipeleke kwa consolata cathedral na naivas,email_sendemail,0.5597,0.0023,False
+12851,sw-KE,transport,transport_query,nionyeshe mwelekeo yangu ya kuenda nyumbani kwangu,qa_factoid,0.9024,0.0015,False
+12856,sw-KE,transport,transport_query,maelekezo tafadhali,email_query,0.4884,0.0024,False
+12866,sw-KE,transport,transport_query,nyakati za bagmati express ni gani,social_post,0.6272,0.0088,False
+12908,sw-KE,transport,transport_query,treni inafika saa ngapi tala,social_post,0.9635,0.0001,False
+12930,sw-KE,transport,transport_query,angalia ramani maduka karibu na mimi,social_post,0.9931,0.0001,False
+12932,sw-KE,transport,transport_query,olly nahitaji maelekezo ya kuelekea kimathi street,social_post,0.8188,0.0008,False
+12951,sw-KE,qa,qa_factoid,je jengo lipi ndilo jengo refu zaidi duniani,qa_factoid,0.7735,0.7735,True
+12957,sw-KE,qa,qa_definition,eleza kufafanua,qa_factoid,0.8132,0.0016,False
+12961,sw-KE,qa,qa_definition,tafadhali fafanua mahakama,cooking_recipe,0.9854,0.0003,False
+12963,sw-KE,qa,qa_definition,ni nini maana ya mahakama,qa_definition,0.5105,0.5105,True
+12972,sw-KE,qa,qa_factoid,kilele kipi ni kirefu zaidi kwa dunia,qa_factoid,0.9599,0.9599,True
+12982,sw-KE,qa,qa_definition,mtikisiko ina maanisha nini,qa_factoid,0.9046,0.0949,False
+12986,sw-KE,qa,qa_definition,angalia maana ya isiyobadilika,qa_factoid,0.9758,0.004,False
+12999,sw-KE,qa,qa_factoid,sanaipei tande ana umri gani,iot_hue_lightoff,0.6208,0.2266,False
+13016,sw-KE,qa,qa_definition,tafuta maana ya kosa la kutojali,iot_hue_lightoff,0.9581,0.0046,False
+13023,sw-KE,cooking,cooking_recipe,nionyeshe resipe,qa_factoid,0.9927,0.0001,False
+13069,sw-KE,qa,qa_definition,ni zipi fafanuzi za chungwa,social_post,0.9961,0.0003,False
+13074,sw-KE,qa,qa_factoid,kwa nini eric omondi hachekeshi,social_post,0.6516,0.3478,False
+13077,sw-KE,qa,qa_factoid,siku ya kuzaliwa ya lenny juma ni nini,cooking_recipe,0.902,0.002,False
+13078,sw-KE,qa,qa_factoid,niambie anwani ya peter king nzioki,social_post,0.4112,0.1747,False
+13099,sw-KE,qa,qa_factoid,ambaye alikuwa waziri mkuu wa sasa wa uingereza,qa_factoid,1.0,1.0,True
+13115,sw-KE,qa,qa_factoid,mji mkuu wa kenya ni upi,social_post,0.9702,0.0041,False
+13124,sw-KE,qa,qa_factoid,ulimwengu una ukubwa kiasi gani,qa_factoid,0.9887,0.9887,True
+13135,sw-KE,qa,qa_factoid,tarehe ya kuzaliwa ya nelson mandela ni lini,weather_query,0.5707,0.0001,False
+13140,sw-KE,qa,qa_definition,niambie yote kuhusu kimbunga,qa_definition,0.4029,0.4029,True
+13154,sw-KE,qa,qa_factoid,unajua namba ya simu ya margaret kenyatta,social_post,0.9816,0.008,False
+13165,sw-KE,qa,qa_definition,oscillate inamaanisha nini,qa_factoid,0.7584,0.1511,False
+13166,sw-KE,qa,qa_definition,loga na ueleze bembea,qa_factoid,0.7268,0.0221,False
+13177,sw-KE,calendar,calendar_set,nikumbushe kusonga ili hakuna kuongeza uzito,qa_factoid,1.0,0.0,False
+13178,sw-KE,calendar,calendar_set,nikumbushe kuwasiliana na marafiki wa zamani ambao sija zungumza nao kwa muda wa miezi sita kabla ya kupita,social_post,0.9455,0.0013,False
+13188,sw-KE,news,news_query,niambie matokeo ya uchaguzi wa bunge huko muranga yatatokaje,iot_hue_lightoff,0.6012,0.0179,False
+13206,sw-KE,qa,qa_definition,mahali,social_post,0.9838,0.0001,False
+13215,sw-KE,transport,transport_query,ni njia gani fupi itakayonifikisha kazini yangu kupitia sehemu ya chini ya mji bila kupata msongomano wa magari,transport_query,0.9945,0.9945,True
+13252,sw-KE,qa,qa_factoid,ipi ilikuwa riwaya ya kwanza ya ngugi wa thiongo,social_post,0.6945,0.0076,False
+13255,sw-KE,qa,qa_factoid,tafadhali nipe habari kuhusu daniel arap moi,social_post,0.9821,0.0002,False
+13283,sw-KE,qa,qa_factoid,chris kirubi alipata pesa ngapi,qa_factoid,0.7907,0.7907,True
+13288,sw-KE,qa,qa_definition,ni upi ufafanuzi wa neno daima,qa_factoid,1.0,0.0,False
+13297,sw-KE,qa,qa_factoid,mtu mashuhuri ni nani,qa_factoid,0.9948,0.9948,True
+13298,sw-KE,qa,qa_factoid,mtu mashuhuri hufanya nini,qa_factoid,1.0,1.0,True
+13330,sw-KE,qa,qa_factoid,ukubwa wa nyangumi wa manii,qa_factoid,0.3686,0.3686,True
+13361,sw-KE,qa,qa_definition,ufafanuzi wa muda muafaka,email_sendemail,0.4359,0.0075,False
+13383,sw-KE,qa,qa_factoid,majimbo mangapi yana hukumu ya kifo,social_post,0.7432,0.0019,False
+13400,sw-KE,social,social_post,tuma ujumbe wa kuchekesha kwa marafiki zangu wote,social_post,0.9942,0.9942,True
+13439,sw-KE,qa,qa_factoid,chris kirubi ana umri gani,social_post,0.9712,0.0266,False
+13457,sw-KE,calendar,calendar_set,niambie ni lini ninapaswa kuondoka kwa tukio iliyoratibiwa ili nifike kwa wakati,qa_factoid,0.9257,0.0021,False
+13473,sw-KE,qa,qa_factoid,kenya ilipata uhuru lini,social_post,0.9113,0.0003,False
+13487,sw-KE,qa,qa_factoid,olly mji mkuu wa kenya ni upi,social_post,0.9994,0.0,False
+13494,sw-KE,qa,qa_definition,toa ufafanuzi wa motisha,email_sendemail,1.0,0.0,False
+13506,sw-KE,datetime,datetime_query,unaweza kuniambia ni saa ngapi,weather_query,0.9994,0.0001,False
+13513,sw-KE,qa,qa_factoid,mbwa ana miguu mingapi,qa_factoid,0.8669,0.8669,True
+13516,sw-KE,qa,qa_factoid,kwanini nyangumi ni wakubwa,qa_factoid,1.0,1.0,True
+13546,sw-KE,qa,qa_factoid,ni movie gani ya mwisho nana awiti alikuwa,qa_factoid,0.24,0.24,True
+13554,sw-KE,qa,qa_factoid,juma ana urefu gani,qa_factoid,0.9867,0.9867,True
+13575,sw-KE,qa,qa_factoid,ni lini filamu ya mwisho ya kushinda tuzo ya akademi,social_post,0.5309,0.0248,False
+13580,sw-KE,qa,qa_factoid,mlima kenya ni mrefu kwa kiasi gani,social_post,0.9966,0.0009,False
+13591,sw-KE,qa,qa_factoid,mji mkuu wa uganda ni upi,social_post,0.9986,0.0001,False
+13592,sw-KE,qa,qa_factoid,je tanzania yapatikana wapi kwenye ramani,recommendation_events,0.6631,0.215,False
+13604,sw-KE,qa,qa_factoid,niambie chris kirubi alizaliwa wapi,qa_factoid,0.9709,0.9709,True
+13607,sw-KE,qa,qa_factoid,tafadhali unaweza kuthibitisha kama macdonald mariga ameolewa,qa_factoid,1.0,1.0,True
+13616,sw-KE,qa,qa_factoid,wengi wa watu mashuhuri hujivinjari wapi,social_post,0.9974,0.0018,False
+13619,sw-KE,recommendation,recommendation_events,kuna matukio yoyote ya bure eneo langu leo,social_post,0.9575,0.006,False
+13625,sw-KE,qa,qa_definition,ni dawati gani kubwa zaidi,qa_factoid,1.0,0.0,False
+13636,sw-KE,qa,qa_factoid,ni nini siku ya kuzaliwa ya arnold schwarzenegger,qa_factoid,0.8334,0.8334,True
+13679,sw-KE,qa,qa_factoid,waweza niambia ng'ombe ana tumbo ngapi,qa_factoid,0.9028,0.9028,True
+13681,sw-KE,qa,qa_factoid,je pascal tokodi amekuwa kwenye maigizo mangapi,qa_factoid,0.882,0.882,True
+13683,sw-KE,qa,qa_factoid,ni chapa gani ya fukiza ya nywele ambayo uhuru kenyatta hutumia,qa_factoid,0.4427,0.4427,True
+13689,sw-KE,qa,qa_definition,kiti ni nini,social_post,0.9956,0.0001,False
+13690,sw-KE,qa,qa_factoid,viti ni rangi gani,weather_query,0.9962,0.0001,False
+13693,sw-KE,qa,qa_factoid,prime meridian iko wapi,transport_query,0.66,0.0741,False
+13705,sw-KE,qa,qa_definition,ni nini mfumo wa uzalishaji wa elektroniki,qa_factoid,0.9979,0.0016,False
+13706,sw-KE,qa,qa_definition,fafanua rota,social_post,0.8162,0.0029,False
+13714,sw-KE,qa,qa_definition,embe ni nini,email_sendemail,0.5801,0.0001,False
+13717,sw-KE,qa,qa_factoid,je unaweza kuiona tanzania ukiwa afrika,cooking_recipe,0.9995,0.0,False
+13758,sw-KE,qa,qa_factoid,zuchu ana umri gani,qa_factoid,0.8455,0.8455,True
+13761,sw-KE,qa,qa_factoid,ni nini pazia,qa_factoid,1.0,1.0,True
+13774,sw-KE,qa,qa_factoid,ni kwa umbali gani kisumu ipo kutoka nakuru,qa_factoid,0.6933,0.6933,True
+13777,sw-KE,qa,qa_definition,unaweza kuelezea kadi ya mkopo,qa_factoid,0.7712,0.1754,False
+13780,sw-KE,qa,qa_factoid,je macdonald mariga ameoa,qa_factoid,0.4681,0.4681,True
+13798,sw-KE,qa,qa_factoid,je kila nchi ina wastani wa maili ngapi mraba duniani,qa_factoid,0.6039,0.6039,True
+13799,sw-KE,qa,qa_definition,nini tafsiri ya mnyenyekevu,qa_definition,0.9943,0.9943,True
+13823,sw-KE,qa,qa_factoid,jua ni mbali kiasi gani,qa_factoid,0.9999,0.9999,True
+13853,sw-KE,qa,qa_factoid,wapi duniani ndiko kuna volkeno nyingi zaidi,qa_factoid,0.9973,0.9973,True
+13854,sw-KE,qa,qa_factoid,yyy comedian alifariki lini,email_sendemail,0.9738,0.0019,False
+13863,sw-KE,qa,qa_definition,nini maana ya mantiki,social_post,0.1997,0.0223,False
+13867,sw-KE,qa,qa_factoid,uhuru park iko wapi,qa_factoid,0.3759,0.3759,True
+13869,sw-KE,qa,qa_factoid,tafadhali angalia sehemu na habari ya mount kenya,email_sendemail,0.9998,0.0,False
+13871,sw-KE,qa,qa_definition,jinsi gani unaweza kuelezea siku ya kuzaliwa yenye furaha,cooking_recipe,0.9952,0.0001,False
+13881,sw-KE,qa,qa_factoid,tafadhali nipe maelezo kuhusu otile brown,qa_definition,0.4895,0.4541,False
+13888,sw-KE,qa,qa_factoid,joto mombasa ni ngapi,social_post,0.8245,0.0175,False
+13895,sw-KE,qa,qa_factoid,unaweza kuniambia kuhusu ann waiguru,social_post,0.909,0.0304,False
+13900,sw-KE,qa,qa_definition,ufafanuzi wa maisha,recommendation_events,0.6792,0.0223,False
+13907,sw-KE,qa,qa_definition,fafanua kushangaa,social_post,0.9992,0.0,False
+13908,sw-KE,qa,qa_definition,waweza niambia kushangaa inamaanisha nini,qa_definition,0.9948,0.9948,True
+13926,sw-KE,qa,qa_factoid,siku ya kuzaliwa ya ngugi wa thiongo ni gani,weather_query,0.9517,0.0061,False
+13927,sw-KE,qa,qa_factoid,macdonald mariga ana thamani gani,social_post,0.9032,0.0388,False
+13974,sw-KE,qa,qa_factoid,kenya iko wapi,qa_factoid,0.8407,0.8407,True
+13983,sw-KE,qa,qa_definition,maana ya matokeo ya kuteseka,qa_factoid,0.755,0.0112,False
+13984,sw-KE,qa,qa_definition,matokeo ya vitendo,social_post,0.798,0.0052,False
+13997,sw-KE,qa,qa_factoid,nyumba ya wastani ni kiasi gani,qa_factoid,0.5836,0.5836,True
+14000,sw-KE,qa,qa_definition,mvivu ni nini,qa_factoid,0.8084,0.0003,False
+14001,sw-KE,qa,qa_factoid,niambie kila kitu unachojua kuhusu wavivu,email_sendemail,0.2185,0.1119,False
+14011,sw-KE,qa,qa_factoid,siku ya kuzaliwa ya nikita kering ni gani,cooking_recipe,0.9186,0.0753,False
+14015,sw-KE,qa,qa_factoid,kuratibu za ikweta ni nini,qa_factoid,1.0,1.0,True
+14023,sw-KE,qa,qa_definition,elezea kuzimu,social_post,0.9351,0.0003,False
+14033,sw-KE,qa,qa_factoid,niambie kenyatta alizaliwa lini,qa_factoid,0.8926,0.8926,True
+14038,sw-KE,qa,qa_factoid,maldova ipo eneo lipi,iot_hue_lightoff,0.7645,0.2231,False
+14040,sw-KE,qa,qa_factoid,hulk hogan ni mrefu kwa kiasi gani,qa_factoid,0.6255,0.6255,True
+14053,sw-KE,qa,qa_factoid,ni mwaka gani nick denda alianza kuigiza,qa_factoid,0.9942,0.9942,True
+14063,sw-KE,qa,qa_factoid,ni ipi ilikuwa siku ya kuzaliwa ya sanaipei tande,weather_query,0.6624,0.0136,False
+14083,sw-KE,qa,qa_factoid,papa shirandula anaishi wapi kwa sasa,social_post,0.8306,0.1005,False
+14096,sw-KE,qa,qa_factoid,mlima kenya unapitikana wapi,social_post,0.2941,0.1056,False
+14115,sw-KE,qa,qa_definition,toa maelezo ya mchanga wa mwamba,qa_definition,0.4679,0.4679,True
+14116,sw-KE,qa,qa_definition,eleze mchanga wa mwamba,qa_definition,0.5317,0.5317,True
+14117,sw-KE,qa,qa_factoid,piramidi ziko wapi,iot_hue_lightoff,0.224,0.1178,False
+14118,sw-KE,qa,qa_factoid,onyesha maelezo ya kijiografia ya piramidi,iot_hue_lightoff,0.9283,0.0019,False
+14126,sw-KE,qa,qa_factoid,onyesha wasifu wa nadia mukami,social_post,0.9998,0.0001,False
+14138,sw-KE,qa,qa_definition,tafadhali niambie ufafanuzi wa silinda ni nini,qa_factoid,0.8861,0.0068,False
+14147,sw-KE,qa,qa_definition,fafanua blanketi,qa_factoid,0.1538,0.0378,False
+14150,sw-KE,qa,qa_definition,viatu vya mpira ni nini,qa_factoid,0.2981,0.079,False
+14151,sw-KE,qa,qa_factoid,miwani ya aina gani huchukuliwa kama ya ndege,qa_factoid,0.9087,0.9087,True
+14154,sw-KE,qa,qa_factoid,habari za afrika,qa_definition,0.6859,0.2116,False
+14163,sw-KE,qa,qa_factoid,tafuta eneo la karibu,qa_factoid,0.6701,0.6701,True
+14169,sw-KE,qa,qa_factoid,raila odinga alisoma chuo kipi,email_sendemail,0.9476,0.0,False
+14170,sw-KE,qa,qa_factoid,je vera sidika huvaa converse,qa_factoid,0.9939,0.9939,True
+14179,sw-KE,qa,qa_factoid,kenya iko umbali gani na mahali nipo sasa hivi,social_post,0.995,0.0014,False
+14214,sw-KE,transport,transport_query,tafuta mbinu ya kusafiri sawa,qa_factoid,0.9797,0.0005,False
+14229,sw-KE,qa,qa_factoid,sanaipei tande ameigiza kwenye sinema gani,qa_factoid,0.9955,0.9955,True
+14243,sw-KE,qa,qa_factoid,maelezo juu ya mtu,qa_factoid,0.4741,0.4741,True
+14272,sw-KE,qa,qa_definition,habari kitabu ni nini,social_post,0.954,0.0439,False
+14283,sw-KE,qa,qa_factoid,niambie kuhusu abc place,email_sendemail,0.9996,0.0003,False
+14306,sw-KE,qa,qa_factoid,eleza eneo la kijiografia ya kenya,qa_factoid,0.5415,0.5415,True
+14308,sw-KE,qa,qa_factoid,thamana ya leonardo dicaprio ni ngapi,social_post,0.8426,0.1193,False
+14316,sw-KE,qa,qa_factoid,nairobi ni kubwa kiasi gani,qa_factoid,0.6499,0.6499,True
+14317,sw-KE,qa,qa_factoid,kenya ina ukubwa gani,qa_factoid,0.7473,0.7473,True
+14323,sw-KE,qa,qa_factoid,nini rangi ya tunda la joka,weather_query,0.9925,0.0002,False
+14330,sw-KE,qa,qa_factoid,steve jobs alizaliwa wapi,qa_factoid,0.9828,0.9828,True
+14347,sw-KE,qa,qa_definition,hypothesis ni nini,qa_factoid,0.9992,0.0,False
+14354,sw-KE,qa,qa_factoid,ni nini jibu kwa ulimwengu,qa_definition,0.646,0.3534,False
+14355,sw-KE,qa,qa_factoid,sally aliuza makombe mangapi ufuoni mwa bahari,cooking_recipe,0.4282,0.0009,False
+14370,sw-KE,qa,qa_factoid,niambie ni nini taaluma ya mtu mashuhuri,qa_factoid,0.4843,0.4843,True
+14378,sw-KE,qa,qa_definition,maelezo ya neno kasi,qa_definition,0.984,0.984,True
+14382,sw-KE,qa,qa_factoid,upana wa empire state building,lists_query,0.0722,0.047,False
+14395,sw-KE,qa,qa_factoid,ni eleo lipi lenye kina kirefu zaidi duniani,qa_factoid,0.9677,0.9677,True
+14414,sw-KE,qa,qa_definition,kuelezea kuhusu diski ngumu ya kompyuta,social_post,0.9014,0.0022,False
+14417,sw-KE,qa,qa_factoid,ni bahari ipi inaliguza bara let,qa_factoid,0.3535,0.3535,True
+14419,sw-KE,qa,qa_factoid,brenda ana filamu mpya mwaka huu,social_post,0.677,0.0068,False
+14429,sw-KE,qa,qa_definition,dera nini,qa_factoid,0.984,0.0155,False
+14440,sw-KE,qa,qa_factoid,mji mkuu wa tanzania ni upi,qa_definition,0.8329,0.0662,False
+14442,sw-KE,qa,qa_factoid,kenya iko wapi,qa_factoid,0.8407,0.8407,True
+14444,sw-KE,qa,qa_factoid,ni filamu gani ya kwanza ya mzee ojwang,social_post,0.3209,0.2602,False
+14449,sw-KE,qa,qa_factoid,je maria ana mtoto mchanga,social_post,0.642,0.3533,False
+14457,sw-KE,qa,qa_factoid,tafuta njia,qa_factoid,0.9994,0.9994,True
+14465,sw-KE,transport,transport_query,nipe mwelekeo kutoka nairobi hadi machakos,iot_hue_lightoff,0.6098,0.011,False
+14490,sw-KE,qa,qa_factoid,nairobi cinema ilijengwa lini,recommendation_events,0.562,0.2884,False
+14498,sw-KE,qa,qa_definition,nipe maelezo kuhusu kikokotoo,qa_definition,0.8641,0.8641,True
+14504,sw-KE,qa,qa_factoid,maria tom mboya alifanya mikutano mingapi,social_post,0.9849,0.0024,False
+14505,sw-KE,qa,qa_factoid,nani ndiye waziri mkuu wa sasa kenya,qa_factoid,0.9908,0.9908,True
+14508,sw-KE,qa,qa_factoid,tafadhali fupisha kitabu kipya zaidi cha george r. r. martin cha cha barafu na moto,qa_factoid,0.9864,0.9864,True
+14509,sw-KE,qa,qa_factoid,wangari maathai alizaliwa wapi,social_post,0.5411,0.1466,False
+14539,sw-KE,qa,qa_factoid,tafuta ufafanuzi wa kijiografia wa eneo hili,qa_factoid,0.4928,0.4928,True
+14545,sw-KE,qa,qa_factoid,niambie kuhusu eneo la kenya,social_post,0.985,0.0011,False
+14567,sw-KE,qa,qa_factoid,ni ipi volkeno kubwa zaidi iliyo hai duniani,qa_factoid,0.9999,0.9999,True
+14585,sw-KE,qa,qa_factoid,itachukua muda gani kusafiri kwenda uganda kutoka tanzania,qa_factoid,0.736,0.736,True
+14591,sw-KE,qa,qa_definition,nipee maelezo ya mzunguko wa televisheni,lists_remove,0.2122,0.0535,False
+14592,sw-KE,qa,qa_definition,nipatie maelezo ya mzunguko wa simu mahiri,lists_remove,0.4996,0.0102,False
+14597,sw-KE,qa,qa_factoid,dar es salaam ina kiasi kipi cha wingi wa watu,qa_factoid,0.9994,0.9994,True
+14601,sw-KE,qa,qa_factoid,kwa miaka mingapi abraham lincoln alikuwa rais wa marekani,qa_factoid,0.8936,0.8936,True
+14605,sw-KE,qa,qa_factoid,je diana marua alimwacha kelvin bahati,social_post,1.0,0.0,False
+14608,sw-KE,qa,qa_factoid,catherine kamau anafanyia kazi filamu gani mpya,qa_factoid,0.9945,0.9945,True
+14622,sw-KE,qa,qa_definition,elezea tufe ni nini,qa_factoid,0.6623,0.0008,False
+14648,sw-KE,cooking,cooking_recipe,resipe tafadhali,qa_factoid,0.4558,0.0087,False
+14653,sw-KE,qa,qa_factoid,niambie idadi ya watu kenya,qa_factoid,0.9522,0.9522,True
+14661,sw-KE,qa,qa_factoid,ni mwaka gani wa kuzaliwa kwa willy paul,weather_query,0.7965,0.0086,False
+14668,sw-KE,qa,qa_definition,eleza bidha xy,qa_factoid,0.9057,0.0059,False
+14683,sw-KE,qa,qa_factoid,ni hamu gani ya pascal takodi,qa_factoid,0.3896,0.3896,True
+14684,sw-KE,qa,qa_factoid,nani waziri mkuu wa kenya,social_post,1.0,0.0,False
+14690,sw-KE,qa,qa_definition,sawa google rais ni nini,qa_factoid,0.9994,0.0005,False
+14700,sw-KE,qa,qa_definition,mtungi ni nini hasa,social_post,0.8978,0.0006,False
+14701,sw-KE,qa,qa_definition,eleza mchezo wa kadi ya jiwe la moyo,cooking_recipe,0.25,0.1302,False
+14705,sw-KE,qa,qa_factoid,google sarah hassan anaishi wapi,qa_factoid,0.9881,0.9881,True
+14706,sw-KE,qa,qa_factoid,brenda wairimu anaishi wapi,cooking_recipe,0.6693,0.0133,False
+14746,sw-KE,qa,qa_factoid,ni upi mji mkuu wa tanzania,social_post,0.9635,0.0155,False
+14761,sw-KE,qa,qa_definition,nipatie ufafanuzi wa neno kipapa,social_post,0.9933,0.0015,False
+14767,sw-KE,qa,qa_definition,utaelezea vipi mpira,social_post,0.6464,0.0043,False
+14770,sw-KE,qa,qa_factoid,niambie bahari kubwa zaidi duniani,qa_factoid,0.9933,0.9933,True
+14787,sw-KE,qa,qa_factoid,ni tofauti gani kati ya kalenda ya kirumi na grigorean,qa_factoid,0.9324,0.9324,True
+14791,sw-KE,qa,qa_factoid,hicho kiti kimeundwa kutumia nini,qa_factoid,1.0,1.0,True
+14794,sw-KE,qa,qa_factoid,ni gari lipi kimani alipendalo zaidi,qa_factoid,0.9678,0.9678,True
+14822,sw-KE,qa,qa_factoid,kulinganisha kwa watu,social_post,0.7692,0.1932,False
+14838,sw-KE,qa,qa_factoid,ni kichujio gani cha msongamano wa upande wowote na ningetaka gradient au dhabiti pia ambayo inaweza kuwa bora kwa mtindo kati ya screw kwenye moja na mraba.,qa_factoid,0.4137,0.4137,True
+14857,sw-KE,qa,qa_definition,je unaweza nielezea maana ya kupita kiasi tafadhali,cooking_recipe,0.9995,0.0,False
+14877,sw-KE,qa,qa_factoid,ni ipi hali ya anga katika eneo lile,qa_factoid,0.3034,0.3034,True
+14879,sw-KE,qa,qa_definition,maana ya,social_post,0.9871,0.0003,False
+14884,sw-KE,qa,qa_factoid,ni jimbo gani linalokabiliwa na kimbunga kidogo zaidi katika kenya nzima,qa_factoid,0.7282,0.7282,True
+14889,sw-KE,qa,qa_definition,tafuta maana ya neno mwiko,iot_hue_lightoff,0.3168,0.0293,False
+14891,sw-KE,qa,qa_factoid,ni kitengo gani huyo mtu ananawiri zaidi,qa_factoid,0.7092,0.7092,True
+14912,sw-KE,qa,qa_factoid,rais kenyatta alizaliwa wapi,qa_factoid,0.9916,0.9916,True
+14917,sw-KE,qa,qa_factoid,je albamu ya sauti sol ifuatayo itakiwa lini,play_music,0.9996,0.0,False
+14933,sw-KE,qa,qa_factoid,nieleze taarifa kuhusu giografia ya kenya,qa_definition,0.9103,0.0357,False
+14939,sw-KE,qa,qa_factoid,nahitaji maelezo fulani kuhusu lenana kariba tafadhali saidia,qa_factoid,0.8973,0.8973,True
+14981,sw-KE,qa,qa_definition,maelezo ya neon ray,qa_definition,1.0,1.0,True
+14994,sw-KE,qa,qa_factoid,ni sinema gani inayofuata ya sanaipei tande,qa_factoid,0.9744,0.9744,True
+14995,sw-KE,qa,qa_definition,hali hii inamaanisha nini,qa_factoid,0.5446,0.427,False
+15020,sw-KE,qa,qa_factoid,pascal tokodi ana umri gani,qa_factoid,0.994,0.994,True
+15039,sw-KE,qa,qa_factoid,olly mlima wa kyulu unaanzia wapi,email_sendemail,0.5191,0.1294,False
+15055,sw-KE,qa,qa_factoid,nguzo ipi ni baridi zaidi kusini au kaskazini,qa_factoid,0.8222,0.8222,True
+15056,sw-KE,qa,qa_factoid,mchumba wa sanaipei tande wa hivi karibuni ana umri gani,social_post,0.6399,0.0388,False
+15062,sw-KE,qa,qa_factoid,habari kuhusu nandi the african princess tafadhali,social_post,0.9971,0.0009,False
+15075,sw-KE,qa,qa_factoid,olly wamarekani wa kwanza walikaa wapi,social_post,0.9999,0.0,False
+15092,sw-KE,qa,qa_definition,pata maelezo kuhusu samsung t. v.,recommendation_events,0.4573,0.0362,False
+15094,sw-KE,qa,qa_factoid,angalia idadi ya watu wanaoishi kisumu,qa_factoid,0.9969,0.9969,True
+15095,sw-KE,qa,qa_factoid,mombasa iko mkoa gani,qa_factoid,0.9791,0.9791,True
+15127,sw-KE,qa,qa_definition,fafanua mzungumzaji,qa_definition,0.5498,0.5498,True
+15155,sw-KE,social,social_post,ongeza picha yangu ya karibuni kwenye akaunti ya facebook,social_post,0.9995,0.9995,True
+15166,sw-KE,social,social_post,chapisha biashara yangu kwenye twitter,social_post,0.9926,0.9926,True
+15177,sw-KE,social,social_post,tafadhali tuma tena ujumbe huu kwenye twitter,social_post,0.9867,0.9867,True
+15185,sw-KE,social,social_post,matakwa ya siku ya kuzaliwa,iot_hue_lightoff,0.4507,0.0095,False
+15186,sw-KE,social,social_post,matakwa ya harusi,social_post,0.2606,0.2606,True
+15187,sw-KE,social,social_post,shiriki kwenye chapisho la marafiki,social_post,0.9998,0.9998,True
+15197,sw-KE,social,social_post,chapisha kwa twitter kuhusu safari yangu kenya,social_post,0.9924,0.9924,True
+15208,sw-KE,social,social_post,chapisha hey kwenye mtandao wangu wa fesibuku,social_post,0.8941,0.8941,True
+15213,sw-KE,news,news_query,nini inavuma sasa hivi,email_sendemail,0.5447,0.0002,False
+15214,sw-KE,news,news_query,kuna habari gani leo,news_query,0.9828,0.9828,True
+15216,sw-KE,social,social_post,niandikie ujembe twita,social_post,0.9999,0.9999,True
+15231,sw-KE,social,social_post,safari yangu ya kwenda goa picha ichapishe kwenye instagramu,social_post,0.9999,0.9999,True
+15271,sw-KE,social,social_post,weka hii kwenye facebook yangu,social_post,0.9991,0.9991,True
+15275,sw-KE,social,social_post,chapisha nimefurahi kwa facebook,social_post,0.9998,0.9998,True
+15276,sw-KE,social,social_post,chapisha hali mpya kwenye facebook ukisema kwamba ninafurahia hali ya hewa nzuri,social_post,0.9927,0.9927,True
+15289,sw-KE,social,social_post,chapisha ujumbe sasa hivi,social_post,0.9996,0.9996,True
+15305,sw-KE,calendar,calendar_query,nina arifa zozote kutoka kwa mitandao ya kijamii,social_post,0.5496,0.0067,False
+15318,sw-KE,social,social_post,nataka kuwashukuru watu wote kwa jumbe na siku ya kuzaliwa,recommendation_events,0.405,0.1806,False
+15337,sw-KE,social,social_post,chapisha vidio hii facebook,social_post,0.9641,0.9641,True
+15350,sw-KE,social,social_post,sijafurahishwa na epz tafadhali nisaidie,qa_factoid,0.9619,0.0334,False
+15358,sw-KE,social,social_post,olly tuma ujumbe wa twita apple kuwa iphone haifanyi kazi,social_post,0.9978,0.9978,True
+15359,sw-KE,social,social_post,fungua tweet kwa apple kwamba betri ya iphone yangu huisha kila wakati,qa_factoid,0.7656,0.0067,False
+15364,sw-KE,social,social_post,unaweza kuwafahamisha amazon kuwa hii kesi mpya ya simu haifai,qa_factoid,0.9996,0.0,False
+15382,sw-KE,social,social_post,wapigie samsung na uwajulishe kuwa kiosheo changu kinachomeka,email_sendemail,1.0,0.0,False
+15387,sw-KE,social,social_post,tuma ujumbe twita yangu,social_post,1.0,1.0,True
+15399,sw-KE,social,social_post,tuma malalamiko kwa mumias kuhusu masuala yanayohusiana na mtandao,social_post,0.2644,0.2644,True
+15401,sw-KE,social,social_post,fungua twita tuma ujumbe,social_post,0.9998,0.9998,True
+15402,sw-KE,social,social_post,tuma ujumbe twita kuwa bidhaa zinaudhi,social_post,0.9999,0.9999,True
+15409,sw-KE,social,social_post,fungua twitter chapa malalamiko yangu na uchapishe kwa huduma ya watumiaji,email_sendemail,0.9457,0.0015,False
+15413,sw-KE,social,social_post,nipate mtu a. s. a. uk.,qa_factoid,1.0,0.0,False
+15444,sw-KE,social,social_post,vidole gumba mbili chini kwenye jumia,cooking_recipe,0.9597,0.0015,False
+15448,sw-KE,social,social_post,tuma ujumbe wa twita kuhusu swala la sauti ya juma,social_post,0.9994,0.9994,True
+15454,sw-KE,social,social_post,tuma ujumbe wa twita kwa kenya airways kuwa nina hasira wamepoteza mifuko yangu,social_post,1.0,1.0,True
+15456,sw-KE,social,social_post,nataka kutuma twita kenya airways samahani ulipoteza begi langu,social_post,0.9991,0.9991,True
+15457,sw-KE,social,social_post,nilikuwa na tatizo na burger yangu unaweza kutweet kenchic,social_post,0.9979,0.9979,True
+15459,sw-KE,social,social_post,tuma malalamiko kwa twitter,email_sendemail,1.0,0.0,False
+15464,sw-KE,social,social_post,tuma ujumbe wa twitter naivas kuwa sikupata bidhaa kwa wakati unaofaa,qa_factoid,0.3925,0.0185,False
+15467,sw-KE,social,social_post,ambia safaricom nawachukia,qa_factoid,1.0,0.0,False
+15472,sw-KE,social,social_post,tweet malalamiko kwa duka la vitabu mtandaoni,social_post,0.9926,0.9926,True
+15487,sw-KE,social,social_post,tuma ujumbe twita kwa jumia kuhusu usafi wa mahali pa hifadhi,social_post,0.9779,0.9779,True
+15488,sw-KE,social,social_post,tafadhali tweet katika pizza inn nimekuwa nikingoja niletewe kwa sasa nambari nothappy,social_post,0.8852,0.8852,True
+15503,sw-KE,social,social_post,tweet mpya kwa huduma ya wateja,social_post,1.0,1.0,True
+15508,sw-KE,social,social_post,siri fungua twita tweet katika potus sucks,social_post,0.9986,0.9986,True
+15518,sw-KE,social,social_post,tuma malalamiko kupitia tweet kwa jumia,qa_factoid,0.9406,0.0523,False
+15532,sw-KE,social,social_post,tuma ujumbe kwenye twitter ya naivas uwaambie kwamba huduma yao ya wateja ni mbaya,social_post,0.9985,0.9985,True
+15546,sw-KE,social,social_post,tuma ujumbe twita kuhusu pizza baridi kwa kiki,social_post,0.9923,0.9923,True
+15548,sw-KE,social,social_post,tweet malalako ya rununu kuhusu samsung,social_post,0.9999,0.9999,True
+15553,sw-KE,social,social_post,tuma ujumbe hasi twita kuhusu huduma ya l.g.,social_post,0.9996,0.9996,True
+15554,sw-KE,social,social_post,tafadhali tweet kwa jumia kuhusu huduma za kuchelewa,social_post,0.9348,0.9348,True
+15556,sw-KE,social,social_post,tuma ujumbe wa malalamishi twita,social_post,1.0,1.0,True
+15557,sw-KE,social,social_post,nahitaji utume tweet kuhusu malalamiko,social_post,0.9987,0.9987,True
+15560,sw-KE,social,social_post,weka ujumbe kwa mtandao wa facebook kuwa nina njaa,social_post,0.9996,0.9996,True
+15565,sw-KE,social,social_post,hebu ambia kenya airways sita safiri nao tena,qa_factoid,0.9874,0.0007,False
+15587,sw-KE,social,social_post,fungua nyumba ya sanaa na chapisha ya picha jina,lists_remove,0.1273,0.0639,False
+15592,sw-KE,social,social_post,tweet lalamiko kwa safaricom,email_sendemail,0.9998,0.0002,False
+15593,sw-KE,social,social_post,tuma ujumbe twita wa malalamishi kwa safaricom,social_post,0.9999,0.9999,True
+15598,sw-KE,social,social_post,fungua jina la kampuni utafute malalamishi,qa_definition,0.8065,0.014,False
+15610,sw-KE,social,social_post,tuma tweet siskii na mejja katika akaunti yangu,social_post,0.9998,0.9998,True
+15618,sw-KE,social,social_post,tuma ujumbe kupitia mtandao wa twita kwa safaricom na uwaeleze wanaudhi,social_post,0.9999,0.9999,True
+15626,sw-KE,social,social_post,tafadhali andika kwenye mtandao wa twitter lalamishi kuhusu huduma mbovu za za wateja za safaricom,social_post,0.9999,0.9999,True
+15634,sw-KE,social,social_post,sawa google tweet mmiliki ni mjinga kwenye kituo cha mafuta,social_post,0.9575,0.9575,True
+15635,sw-KE,social,social_post,andika kwenye mtandao wa twitter kwamba mcdonald imekuwa na mbaya,social_post,0.9972,0.9972,True
+15647,sw-KE,social,social_post,tweet malalamiko kwa,email_sendemail,1.0,0.0,False
+15651,sw-KE,social,social_post,tuma ripoti kwa huduma ya wateja,social_post,0.9616,0.9616,True
+15652,sw-KE,social,social_post,saidia malalamiko kwa jumia,email_sendemail,1.0,0.0,False
+15655,sw-KE,social,social_post,tweet kwa muhudumu wa wateja wa google simu yangu mpya ya nexus imeacha kufanya kazi tafadhali,social_post,0.9998,0.9998,True
+15656,sw-KE,social,social_post,tweet ujumbe kwa safaricom kwamba bado nasubiri uwasilishaji wangu,social_post,0.6014,0.6014,True
+15661,sw-KE,social,social_post,chapisha ingizo langu la hivi punde kwenye twita kwa kk,social_post,0.9999,0.9999,True
+15670,sw-KE,social,social_post,tuma barua ya malalamiko,email_query,0.192,0.0473,False
+15672,sw-KE,social,social_post,andika ujumbe wa twita kwa apple kuhusu kutopokea iphone niliyotuma kwa ukarabati wiki iliyopita,social_post,0.9998,0.9998,True
+15676,sw-KE,social,social_post,tafathali ongeza malalamishi kuhusu java na utume kwa twita,social_post,0.9939,0.9939,True
+15686,sw-KE,social,social_post,habari bidhaa yangu ambayo nilinunua kutoka kwa mtu imetoka nje ya agizo,qa_factoid,0.9997,0.0,False
+15693,sw-KE,social,social_post,tuma ujumbe twita kwamba kulikuwa na mdudu katika pakiti yangu ya chokoleti,social_post,0.9993,0.9993,True
+15700,sw-KE,social,social_post,bidhaa ambazo muda wake umeisha kwenye soko la hivi karibuni,qa_factoid,0.9947,0.0001,False
+15703,sw-KE,social,social_post,to m.r price that they run out of sizes too fast,qa_factoid,0.283,0.0201,False
+15706,sw-KE,social,social_post,chapisha kwenya mtandao wa kijamii,social_post,0.991,0.991,True
+15707,sw-KE,social,social_post,tutume ujumbe wa twita,social_post,0.9999,0.9999,True
+15708,sw-KE,social,social_post,chapisha malamiko kuhusu huduma a,recommendation_events,0.4556,0.2203,False
+15721,sw-KE,social,social_post,tweet uso uliochukizwa kuhusu kenchic,social_post,0.5489,0.5489,True
+15723,sw-KE,social,social_post,weka kuwa nahisi furaha kwa fesibuku,cooking_recipe,0.6536,0.0329,False
+15731,sw-KE,social,social_post,olly tuma ujumbe twita kwa safaricom na waambie huduma yangu ni mbaya,social_post,1.0,1.0,True
+15732,sw-KE,social,social_post,tuma ujumbe twita ya samsung na uwajulishe kuwa waache kuwauwa watu kipitia kwa bidhaa zao,social_post,0.9982,0.9982,True
+15736,sw-KE,social,social_post,kuwasilisha mapitio mabaya kuhusu kampuni,iot_hue_lightoff,0.9822,0.0027,False
+15756,sw-KE,email,email_sendemail,tafadhali tuma barua pepe kwa timu yangu,social_post,0.9962,0.0002,False
+15763,sw-KE,email,email_query,tafadhali angalia barua pepe mpya,social_post,0.8911,0.0035,False
+15765,sw-KE,email,email_sendemail,jibu kwa barua pepe ya juma,qa_factoid,0.7455,0.0007,False
+15777,sw-KE,email,email_query,niambie kama nina barua pepe mpya,social_post,0.6717,0.0033,False
+15785,sw-KE,email,email_query,kuna kitu kipya kwenye kisanduku changu cha barua,play_podcasts,0.286,0.0139,False
+15789,sw-KE,email,email_query,olly nina barua pepe zozote mpya,social_post,0.9963,0.0001,False
+15792,sw-KE,calendar,calendar_query,ni nani nina mkutano naye leo,qa_factoid,0.9688,0.0001,False
+15796,sw-KE,email,email_sendemail,mtumie asha barua pepe,qa_factoid,0.3725,0.0482,False
+15802,sw-KE,email,email_sendemail,jibu barua pepe kwa emma kwamba sitokuja usiku wa leo,email_sendemail,1.0,1.0,True
+15809,sw-KE,email,email_query,je juma amesha nitumia barua pepe,social_post,0.8547,0.0031,False
+15825,sw-KE,email,email_sendemail,mjibu baba andika nitachelewa,social_post,0.9834,0.0081,False
+15828,sw-KE,email,email_sendemail,ndio hii anwani mpya ya barua pepe inayofaa kuongezwa kwenye orodha ya wawasiliani,lists_remove,0.6199,0.1047,False
+15829,sw-KE,email,email_sendemail,enda kwa wawasiliani na uongeze anwani mpya ya barua pepe,lists_remove,0.7703,0.0138,False
+15839,sw-KE,email,email_query,mada,qa_factoid,0.4976,0.02,False
+15841,sw-KE,email,email_sendemail,tunga barua pepe mpya kwa juma,social_post,0.5312,0.0109,False
+15845,sw-KE,email,email_sendemail,imefikaje kwetu,email_sendemail,1.0,1.0,True
+15847,sw-KE,email,email_sendemail,jinsi tunavyoweza kupata mikopo,qa_factoid,1.0,0.0,False
+15849,sw-KE,email,email_sendemail,tuma barua pepe kwa bosi wangu,social_post,0.4344,0.0111,False
+15857,sw-KE,email,email_sendemail,tafadhali tuma barua pepe mpya kwenye anwani iliyo orodheshwa,qa_factoid,0.5044,0.0144,False
+15862,sw-KE,email,email_query,angalia barua pepe kwa kupokea kutoka kwa mama,email_sendemail,0.9853,0.0036,False
+15880,sw-KE,email,email_query,tafadhali angalia barua zangu,social_post,0.9916,0.0002,False
+15890,sw-KE,email,email_query,angalia ili kuona kama nina barua pepe yoyote mpya kutoka kwa baba yangu,lists_remove,0.5048,0.0188,False
+15904,sw-KE,email,email_query,angalia barua pepe zangu mpya na unijulishe zinahusu nini,social_post,0.966,0.0007,False
+15906,sw-KE,email,email_sendemail,jibu asante kwa juma,social_post,0.4804,0.004,False
+15911,sw-KE,email,email_sendemail,andaa barua pepe kwa susana,social_post,0.9538,0.0016,False
+15933,sw-KE,email,email_query,nina barua pepe gani mpya,qa_factoid,0.8588,0.002,False
+15942,sw-KE,email,email_sendemail,tuma barua pepe hii kujibu barua pepe za hivi punde,cooking_recipe,0.5912,0.0102,False
+15950,sw-KE,email,email_sendemail,jibu barua pepe ya said juma,social_post,0.7833,0.0463,False
+15957,sw-KE,email,email_sendemail,mtumie asha barua pepe umujulishe kwamba tu njiani,email_sendemail,0.9462,0.9462,True
+15963,sw-KE,email,email_query,mimi nina barua pepe zozote mpya kutoka kwa juma,recommendation_events,0.1548,0.0388,False
+15966,sw-KE,email,email_query,tuma jibu ikiwa ni muhimu sana,qa_factoid,0.9033,0.0023,False
+15968,sw-KE,email,email_query,ikiwa inatoka mahali panapojulikana sana itie alama kuwa ni muhimu,iot_hue_lightoff,0.3923,0.0063,False
+15970,sw-KE,email,email_query,ipi ilikuwa anwani ya barua pepe ya mwisho kutoka kwa mama yangu,news_query,0.3721,0.0248,False
+15971,sw-KE,email,email_query,barua pepe ya mwisho kutoka kazini ilikuwa ipi,lists_remove,0.6852,0.01,False
+15994,sw-KE,email,email_sendemail,tuma barua pepe kwa asha ukimuuliza ni saa ngapi inafanyika kwa mkutano,weather_query,0.9989,0.0,False
+15995,sw-KE,email,email_sendemail,mtumie asha barua pepe kuhusu mkutano wa bajeti,social_post,0.6852,0.2727,False
+15998,sw-KE,email,email_query,angalia barua pepe zangu kwa kitu kutoka kwa jina,social_post,0.6417,0.0374,False
+16002,sw-KE,email,email_query,angalia barua pepe mpya,social_post,0.4834,0.0055,False
+16005,sw-KE,email,email_sendemail,tuma barua pepe kwa joseph at gmail dot com,email_sendemail,1.0,1.0,True
+16010,sw-KE,email,email_query,niambie kama mimi nina ujumbe yoyote mpya katika kikasha yangu,email_sendemail,0.8581,0.0286,False
+16024,sw-KE,email,email_sendemail,tuma barua pepe kwa juma ukisema nitakua nimeshikana kesho,cooking_recipe,0.1782,0.0433,False
+16028,sw-KE,email,email_sendemail,hujambo siri anza barua pepe kwa mfanyakazi mwenzangu,social_post,0.9956,0.0002,False
+16029,sw-KE,email,email_sendemail,tafadhali tunga barua pepe mpya kwa mfanyikazi mwenza,qa_factoid,0.3763,0.0249,False
+16032,sw-KE,email,email_sendemail,tafadhali tuma barua pepe kwa asha kuhusu mkutano wa kesho,lists_remove,0.2387,0.0301,False
+16038,sw-KE,email,email_query,jamani juma amenitumia barua pepe yoyote hivi majuzi,social_post,0.6003,0.0039,False
+16045,sw-KE,email,email_sendemail,tumia ismail barua ya jedwali la kufunguliwa kwa ofisi,email_sendemail,1.0,1.0,True
+16048,sw-KE,email,email_query,nionyeshe barua pepe za hivi majuzi,email_sendemail,0.9947,0.0002,False
+16049,sw-KE,email,email_sendemail,nataka kutuma barua pepe kwa familia yangu je unanisaidia,qa_factoid,0.5732,0.0091,False
+16050,sw-KE,email,email_query,angalia barua pepe ya gmail,email_sendemail,1.0,0.0,False
+16052,sw-KE,email,email_query,angalia outlook,iot_hue_lightoff,0.9997,0.0,False
+16056,sw-KE,email,email_sendemail,jibu barua pepe,qa_factoid,0.9056,0.0011,False
+16061,sw-KE,email,email_query,nimepokea barua pepe zozote katika dakika kumi zilizopita,qa_factoid,0.4237,0.0211,False
+16072,sw-KE,email,email_sendemail,tumia bosi wangu barua pepe ya kuwa nitachelewa kwa kuwa nina dharura na naomba ruhusa kwa kukosa mkutano wa leo,lists_remove,0.2351,0.0255,False
+16075,sw-KE,email,email_query,onyesha barua pepe ya hivi juzi kutoka kwa juma,iot_hue_lightoff,0.4799,0.0025,False
+16082,sw-KE,email,email_sendemail,tuma barua pepe kwa petero na umuulize yukoje sasa naweza kufanya kitu kumsaidia,email_sendemail,0.9947,0.9947,True
+16089,sw-KE,email,email_query,nimepokea barua pepe mpya katika dakika kumi zilizopita,email_sendemail,0.1946,0.0361,False
+16096,sw-KE,email,email_query,fatma amenitumia barua pepe zozote mpya,social_post,0.9362,0.0019,False
+16098,sw-KE,email,email_query,angalia barua pepe ambazo hazijasomwa kutoka kwa juma,lists_remove,0.4815,0.0402,False
+16100,sw-KE,email,email_query,tafadahli angalia barua pepe iliyo na orodha ya kazi,email_sendemail,0.7257,0.0277,False
+16103,sw-KE,email,email_sendemail,tuma barua pepe kwa ndugu yangu na kusema maadhimisho ya harusi,lists_remove,0.2751,0.0267,False
+16120,sw-KE,email,email_sendemail,msaada unatumwa kwa jane peke yake,email_sendemail,1.0,1.0,True
+16131,sw-KE,email,email_sendemail,hii barua pepe mpya inapaswa kuongezwa kwa anwani yangu,email_sendemail,0.9901,0.9901,True
+16145,sw-KE,email,email_query,nionyeshe barua pepe za hivi karibuni kabisa,social_post,0.9601,0.0008,False
+16146,sw-KE,news,news_query,nipatie sasisho za karibuni,social_post,0.9963,0.0001,False
+16148,sw-KE,email,email_sendemail,jibu haraka kwa asha kwa hivyo tafadhali tuma barua,cooking_recipe,0.2183,0.0147,False
+16151,sw-KE,email,email_query,angalia ratiba ya mkutano katika barua ya leo,qa_factoid,0.9677,0.0016,False
+16162,sw-KE,email,email_sendemail,tuma jibu,qa_factoid,0.9851,0.0002,False
+16163,sw-KE,email,email_query,ambaye alinitumia barua jana,social_post,0.9954,0.0,False
+16165,sw-KE,email,email_query,je abdi alijibu,qa_factoid,1.0,0.0,False
+16166,sw-KE,email,email_sendemail,jibu mutinda kuwa naenda kuwa na kazi nyingi ya mradi kwa wiki tatu zijazo,qa_factoid,0.6633,0.0488,False
+16168,sw-KE,email,email_query,kuna barua pepe zozote zilizofika katika dakika kumi na tano zilizopita,social_post,0.231,0.0237,False
+16170,sw-KE,email,email_query,fungua kikasha ili kuangalia barua ambazo hazijasomwa,qa_definition,0.4188,0.0219,False
+16178,sw-KE,email,email_query,nimepokea barua pepe yoyote kutoka kilimall leo,email_sendemail,1.0,0.0,False
+16183,sw-KE,email,email_query,angalia barua pepe kuhusu kazi yangu,email_sendemail,1.0,0.0,False
+16201,sw-KE,email,email_sendemail,tafadhali pakia barua pepe mpya ya abdi na tuma ujumbe saa hii,cooking_recipe,0.4082,0.019,False
+16221,sw-KE,email,email_sendemail,leta barua pepe ya asha na umwambie nitamjulisha,lists_remove,0.5066,0.1733,False
+16245,sw-KE,email,email_sendemail,tuma barua pepe kwa joe at a. o. l. dot com,email_sendemail,0.9966,0.9966,True
+16248,sw-KE,email,email_query,tafadhali angalia barua yangu,social_post,0.9899,0.0002,False
+16263,sw-KE,email,email_query,nimepokea barua pepe yoyote mpya kutoka kwa mutinda,email_sendemail,1.0,0.0,False
+16266,sw-KE,email,email_sendemail,andika barua pepe kwa familia yangu ukisema ninawapenda nyote,iot_hue_lightoff,0.5157,0.3954,False
+16271,sw-KE,email,email_query,fanyiza upya kisanduku pokezi na uniarifu barua pepe mpya,cooking_recipe,0.5416,0.0145,False
+16275,sw-KE,email,email_query,anzisha upigaji kura kwa barua pepe mpya,cooking_recipe,0.824,0.0032,False
+16276,sw-KE,email,email_query,nina barua pepe mpya,social_post,0.3335,0.2353,False
+16280,sw-KE,email,email_sendemail,tafadhali tuma barua pepe kwa asha ambaye yuko kwenye orodha ya familia yangu na marafiki,email_sendemail,0.9973,0.9973,True
+16282,sw-KE,email,email_sendemail,tuma barua pepe kwa msaidizi wangu asha ili kughairi miadi yote ya kesho,cooking_recipe,0.936,0.0035,False
+16296,sw-KE,email,email_sendemail,tuma barua pepe kwa mama kumwambia sherehe ya siku kuzaliwa ya mutinda ni jumapili,cooking_recipe,0.1372,0.0403,False
+16297,sw-KE,email,email_sendemail,tuma barua pepe kwa juma kumwambia asante,social_post,0.8731,0.0025,False
+16314,sw-KE,email,email_sendemail,mtumie asha barua pepe,qa_factoid,0.3725,0.0482,False
+16317,sw-KE,email,email_query,ningepata barua pepe mpya kutoka kwa asha,social_post,0.7072,0.0074,False
+16318,sw-KE,email,email_sendemail,jibu barua pepe,qa_factoid,0.9056,0.0011,False
+16320,sw-KE,email,email_sendemail,nataka kujibu barua pepe ya bakari,qa_factoid,0.1674,0.0323,False
+16353,sw-KE,email,email_query,angalia barua pepe kutoka kwa emma,email_sendemail,1.0,0.0,False
+16354,sw-KE,email,email_query,angalia barua pepe kutoka kwa mwajiri wangu,social_post,0.3565,0.0146,False
+16356,sw-KE,email,email_query,nilimtumia abdi barua pepe kuhusu udhibiti wa bunduki,social_post,0.452,0.0241,False
+16357,sw-KE,email,email_query,juma amenitumia barua pepe kuhusu risasi,social_post,0.598,0.0094,False
+16361,sw-KE,email,email_query,nina barua pepe zozote mpya katika saa iliyopita,social_post,0.5394,0.0227,False
+16373,sw-KE,email,email_query,nimepokea barua pepe zozote zilizo na nambari za ufuatiliaji,email_sendemail,1.0,0.0,False
+16375,sw-KE,email,email_sendemail,tunga barua pepe kwa abdi,qa_factoid,0.637,0.0016,False
+16376,sw-KE,email,email_sendemail,alexa tafadhali mtumie mama yangu barua pepe,qa_factoid,0.9994,0.0,False
+16377,sw-KE,email,email_sendemail,tuma mama barua pepe sasa,social_post,0.9948,0.0002,False
+16384,sw-KE,email,email_query,jamani nina barua pepe yoyote mpya,iot_hue_lightoff,0.7832,0.0004,False
+16385,sw-KE,email,email_query,tafadhali soma barua pepe mpya,social_post,0.3481,0.0147,False
+16398,sw-KE,email,email_sendemail,tafadhali tuma barua pepe kwa juma,social_post,0.6185,0.0073,False
+16399,sw-KE,email,email_query,je nimepata barua pepe yoyote mpya,social_post,0.4833,0.003,False
+16401,sw-KE,email,email_sendemail,tuma nakala barua pepe kwa fatma hujambo unafanya nini leo,qa_factoid,0.8957,0.001,False
+16402,sw-KE,email,email_sendemail,barua pepe fatuma mipango kwa ajili ya leo,qa_factoid,0.8964,0.0006,False
+16406,sw-KE,email,email_sendemail,alexa anza barua pepe,qa_factoid,0.4704,0.1207,False
+16410,sw-KE,email,email_sendemail,andika barua pepe,qa_factoid,0.613,0.0114,False
+16413,sw-KE,email,email_query,onyesha barua pepe zote nilizotumwa kutoka kwa bosi wangu,news_query,0.6009,0.007,False
+16419,sw-KE,email,email_sendemail,tafadhali tuma barua pepe kwa mjomba mutinda na yafuatayo ndiyo naweza kuifanya,qa_factoid,0.8379,0.0036,False
+16427,sw-KE,email,email_query,nimepokea barua pepe ngapi mpya leo,email_sendemail,1.0,0.0,False
+16430,sw-KE,email,email_sendemail,tafadhali tuma mama na baba barua pepe kuwauliza hali zao,social_post,0.3345,0.0122,False
+16437,sw-KE,email,email_sendemail,tafadhali tuma barua pepe hii kwa rafiki yangu,lists_remove,0.2366,0.2266,False
+16438,sw-KE,email,email_sendemail,nahitaji barua pepe hii itumwe sasa,lists_remove,0.4582,0.032,False
+16446,sw-KE,email,email_query,tafadhali angalia uchunguzi wa hivi majuzi wa barua pepe kutoka kwa mtumaji huyu,email_query,0.1988,0.1988,True
+16459,sw-KE,email,email_sendemail,ujumbe mpya kwa newmail at gmail dot com,email_sendemail,1.0,1.0,True
+16461,sw-KE,email,email_query,nina barua pepe zozote ambazo hazijasomwa,qa_factoid,0.9429,0.0014,False
+16467,sw-KE,email,email_query,nina barua pepe zozote mpya kutoka kwa mwasiliani wangu ayub,social_post,0.3764,0.0207,False
+16471,sw-KE,email,email_query,angalia barua pepe kutoka kwa juma,email_sendemail,0.429,0.0926,False
+16496,sw-KE,email,email_sendemail,tuma barua pepe ya jibu,qa_factoid,0.6296,0.0002,False
+16501,sw-KE,email,email_sendemail,tafadhali tuma barua pepe kwa rafiki yangu abdi ya kumjulia,qa_factoid,0.9816,0.0009,False
+16506,sw-KE,email,email_sendemail,ongeza barua pepe mpya kisha tuma barua pepe,email_sendemail,0.2826,0.2826,True
+16518,sw-KE,email,email_sendemail,ongeza barua pepe mpya kwa abdalla,iot_hue_lightoff,0.4789,0.0232,False
+16519,sw-KE,email,email_sendemail,ninahitaji kuongezwa anwani mpya ya barua pepe kwa wawasiliani wangu,lists_remove,0.7734,0.174,False
+16535,sw-KE,email,email_sendemail,unaweza kuandika barua pepe kwa salim,qa_factoid,0.9976,0.0,False
+16559,sw-KE,email,email_sendemail,mtumie abdi jibu lenye jibu mia nne na thelathini kutoka kwa barua pepe aliyonitumia asubuhi,email_sendemail,0.9885,0.9885,True
+16560,sw-KE,email,email_sendemail,jibu barua pepe yangu kwa mabosi wangu kwamba nitaingia saa nne jioni,weather_query,0.9968,0.0002,False
+16563,sw-KE,email,email_query,olly angalia barua pepe yangu,social_post,0.7321,0.0052,False
+16591,sw-KE,email,email_sendemail,nimepokea barua pepe kutoka kwa juma na ninahitaji kuijibu sasa hivi,lists_remove,0.1652,0.0516,False
+16593,sw-KE,email,email_sendemail,barua pepe hiyo ya mwisho inahitaji kujibiwa sasa,lists_remove,0.54,0.0158,False
+16603,sw-KE,email,email_query,barua pepe hiyo inasemaje iliyotumwa dakika thelathini zilizopita kutoka kwa mama,qa_factoid,0.6883,0.0112,False
+16605,sw-KE,email,email_sendemail,kuandika na kutuma barua pepe kwa bosi wangu,social_post,0.9942,0.0001,False
+16609,sw-KE,email,email_query,niambie ikiwa nina barua pepe yoyote mpya ambazo hazijasomwa,email_sendemail,0.6656,0.021,False
+16613,sw-KE,email,email_sendemail,tuma barua pepe kwa bosi ukisema nitachelewa,qa_factoid,0.4949,0.0147,False
+16622,sw-KE,email,email_sendemail,tuma barua pepe kwa anwani hii,lists_remove,0.2499,0.0211,False
+16624,sw-KE,email,email_sendemail,ninahitaji barua pepe kutumwa kwenda safaricom nairobi kuhusu masuala ya huduma yangu,qa_factoid,1.0,0.0,False
+16627,sw-KE,email,email_query,nina barua pepe mpya,social_post,0.3335,0.2353,False
+16630,sw-KE,email,email_sendemail,tuma jibu kwa barua pepe ya mwisho,lists_remove,0.498,0.0256,False
+16642,sw-KE,email,email_query,angalia barua kwa chochote kutoka kwa fatma,qa_factoid,0.9728,0.001,False
+16648,sw-KE,email,email_query,tafadhali niangalie barua pepe zangu,social_post,0.9988,0.0001,False
+16652,sw-KE,email,email_query,barua pepe ya abdi ilikuwa na kiambatisho,social_post,0.9981,0.0001,False
+16662,sw-KE,email,email_query,nimeweza kupokea barua pepe zozote mpya kutoka kwa juma,qa_factoid,0.5957,0.0161,False
+16666,sw-KE,email,email_query,nina barua pepe zozote zinazoingia,qa_factoid,1.0,0.0,False
+16668,sw-KE,email,email_query,je barua pepe zozote zimekuja leo tangu saa kumi leo,qa_factoid,0.4008,0.0054,False
+16669,sw-KE,email,email_query,nilipata barua pepe kutoka kwa paula,qa_factoid,0.4606,0.0189,False
+16672,sw-KE,email,email_query,rashid amewasiliana nawe,social_post,0.9971,0.0001,False
+16677,sw-KE,email,email_query,je nina barua pepe zozote mpya kwenye kisanduku pokezi changu leo,social_post,0.8912,0.0008,False
+16698,sw-KE,email,email_sendemail,andika jibu kwa barua pepe ya mama yangu,social_post,0.602,0.0608,False
+16701,sw-KE,email,email_sendemail,ningependa kujibu barua pepe ya asha,social_post,0.6238,0.0058,False
+16703,sw-KE,email,email_sendemail,ningependa kujibu barua pepe yangu ya hivi karibuni,social_post,0.8304,0.0044,False
+16712,sw-KE,email,email_query,je nina barua pepe yoyote mpya,iot_hue_lightoff,0.9806,0.0,False
+16713,sw-KE,email,email_query,tafadhali angalia barua pepe zangu na unijulishe ikiwa kuna barua pepe yoyote mpya,lists_remove,0.6574,0.0064,False
+16717,sw-KE,email,email_sendemail,tafadhali unaweza kutuma barua pepe kwa john ukisema niko likizo,recommendation_events,0.2912,0.0203,False
+16719,sw-KE,email,email_query,nataka kujua barua pepe yoyote mpya nimepata,qa_factoid,0.4443,0.0068,False
+16729,sw-KE,email,email_sendemail,jibu barua pepe yangu kutoka kwa bob kuwajulisha kuwa nitawaona kesho,iot_hue_lightoff,0.2066,0.0552,False
+16730,sw-KE,email,email_query,tafadhali angalia barua pepe mpya kutoka kwa juma,lists_remove,0.3336,0.0149,False
+16733,sw-KE,email,email_query,nionyeshe barua pepe za karibuni kutoka amazon,email_sendemail,1.0,0.0,False
+16749,sw-KE,email,email_query,zipo barua pepe zozote mpya kwa ajili yangu leo,social_post,0.963,0.0016,False
+16754,sw-KE,email,email_sendemail,amuru barua pepe,qa_factoid,0.284,0.0408,False
+16758,sw-KE,email,email_query,barua pepe mpya tangu wakati wa mwisho,qa_factoid,0.9702,0.0003,False
+16763,sw-KE,email,email_query,barua pepe katika dakika kumi zilizopita,qa_factoid,0.2011,0.0269,False
+16765,sw-KE,email,email_query,muda wa mahojiano kutoka barua pepe ya jana,qa_factoid,0.5878,0.0129,False
+16766,sw-KE,email,email_query,angalia barua pepe zangu mpya,social_post,0.8983,0.0022,False
+16772,sw-KE,email,email_query,onyesha barua pepe zote kuhusu ukiukaji huo,iot_hue_lightoff,0.9413,0.0005,False
+16780,sw-KE,email,email_sendemail,tuma barua pepe kwa juanpedro at gmail dot com,email_sendemail,1.0,1.0,True
+16791,sw-KE,email,email_sendemail,andika barua pepe mpya na niko na anwani mpya wakati huu brandon at example dot com,iot_hue_lightoff,0.6866,0.0152,False
+16799,sw-KE,email,email_query,mimi nimepokea barua pepe yoyote kutoka mchana,email_sendemail,0.9992,0.0,False
+16801,sw-KE,email,email_query,aisha amenitumia barua pepe zozote kuhusu juma,social_post,0.9975,0.0001,False
+16813,sw-KE,email,email_query,nijulishe ninapopokea barua pepe kutoka kwa john,email_sendemail,1.0,0.0,False
+16814,sw-KE,email,email_query,angalia barua pepe,qa_factoid,0.7388,0.0795,False
+16838,sw-KE,email,email_sendemail,je unaweza tuma barua pepe kwa kitambulisho kipya cha barua pepe,cooking_recipe,0.2494,0.0929,False
+16851,sw-KE,email,email_query,arifa za barua pepe,qa_factoid,0.9994,0.0,False
+16859,sw-KE,email,email_query,nilimwambia nini juma kwenye barua pepe yangu ya mwisho,cooking_recipe,0.9678,0.0008,False
+16872,sw-KE,email,email_sendemail,mtafute nasra kwenye wawasiliani wangu na umtumie barua pepe,email_sendemail,0.9625,0.9625,True
+16873,sw-KE,email,email_sendemail,tuma barua pepe kwa fatuma kwa siku yake ya kuzaliwa,email_sendemail,0.42,0.42,True
+16880,sw-KE,email,email_sendemail,barua pepe fahim kuhusu mkutano,social_post,1.0,0.0,False
+16883,sw-KE,email,email_sendemail,tuma barua pepe kwa juma umuulize atakuwa nyumbani saa ngapi usiku wa leo,weather_query,0.9471,0.0019,False
+16886,sw-KE,email,email_sendemail,jibu barua hii,qa_factoid,0.7911,0.0007,False
+16888,sw-KE,email,email_query,vipi kuhusu barua mpya,play_podcasts,0.9344,0.0003,False
+16890,sw-KE,email,email_query,barua pepe mpya inasema nini,qa_definition,1.0,0.0,False
+16891,sw-KE,email,email_sendemail,tumia abdi na barua pepe,qa_factoid,0.8637,0.0194,False
+16892,sw-KE,email,email_sendemail,anza na utumie barua pepe kwa emma,social_post,0.3615,0.2452,False
+16899,sw-KE,email,email_query,mimi nimepokea barua pepe zozote kutoka kwa asha,email_sendemail,0.983,0.0006,False
+16914,sw-KE,email,email_query,niko na barua pepe kutoka kwa huyu mtumaji,lists_remove,0.4956,0.0064,False
+16916,sw-KE,email,email_sendemail,hey jibu barua ambayo nilipokea,iot_hue_lightoff,0.4106,0.0559,False
+16924,sw-KE,email,email_query,tafadhali angalia gmail yangu kwa barua mpya,email_sendemail,1.0,0.0,False
+16930,sw-KE,email,email_query,onyesha barua pepe ya hivi karibuni,social_post,0.9913,0.0001,False
+16938,sw-KE,email,email_sendemail,jibu barua pepe ya juma,cooking_recipe,0.4143,0.0084,False
+16944,sw-KE,email,email_sendemail,tuma barua pepe kwa bibi kumwambia tutapitia jumamosi tutaonana huo wakati,social_post,0.8286,0.0575,False
+16947,sw-KE,email,email_sendemail,jibu barua pepe,qa_factoid,0.9056,0.0011,False
+16955,sw-KE,email,email_sendemail,barua pepe kwa wasiliani mpya,email_sendemail,0.6691,0.6691,True
+16956,sw-KE,email,email_sendemail,tuma barua pepe kwa nambari ya simu mpya,lists_remove,0.4998,0.0252,False
+16961,sw-KE,email,email_sendemail,jibu na,social_post,0.9665,0.0004,False
+16974,sw-KE,email,email_query,tafadhali angalia barua pepe zote mpya za idara ya ushuru wa mapato,social_post,0.628,0.0167,False
+16987,sw-KE,email,email_query,kuna barua pepe yoyote mpya kutoka kwa john,qa_factoid,0.5793,0.0029,False
+16989,sw-KE,email,email_sendemail,tafadhali ambia barua pepe aliyonitumia juma yakwamba naziitaji zile pesa kwa dharura,qa_factoid,0.7301,0.0122,False
+16992,sw-KE,email,email_query,jane doe amenitumia barua pepe,email_sendemail,0.6239,0.0726,False
+16995,sw-KE,email,email_sendemail,tuma barua pepe kwa juma,qa_definition,0.3909,0.0043,False
+17005,sw-KE,email,email_query,tafadhali angalia barua pepe mpya,social_post,0.8911,0.0035,False
+17011,sw-KE,email,email_sendemail,unaweza kutuma barua pepe kwa,qa_factoid,0.9239,0.0085,False
+17015,sw-KE,email,email_sendemail,anza kujibu,social_post,0.9911,0.0002,False
+17019,sw-KE,email,email_sendemail,tunga jibu kwa barua pepe ya mwisho,social_post,0.2497,0.0243,False
+17020,sw-KE,email,email_sendemail,jibu barua pepe iliyopokelewa mwisho,social_post,0.4811,0.0202,False
+17023,sw-KE,email,email_sendemail,mtumie barua pepe mama na uulize hali ya hewa huko,iot_hue_lightoff,0.8558,0.005,False
+17042,sw-KE,email,email_sendemail,andika barua pepe kwa john kwenye gmail dot com,email_sendemail,1.0,1.0,True
+17043,sw-KE,email,email_sendemail,tuma barua pepe kwa tim at hotmail dot com,email_sendemail,1.0,1.0,True
+17051,sw-KE,email,email_query,nipatie barua pepe mpya,social_post,0.8276,0.0661,False
+17052,sw-KE,email,email_query,tafuta nandy,social_post,0.5115,0.2671,False
+17069,sw-KE,email,email_query,kuna barua pepe yoyote mpya katika mtazamo,qa_factoid,0.3248,0.0241,False
+17075,sw-KE,email,email_query,kuna barua pepe mpya zilizopokelewa baada ya saa kumi leo,qa_factoid,0.2553,0.0318,False
+17081,sw-KE,email,email_sendemail,unda barua pepe kwa mfanyikazi wa kampuni yangu na hati zangu zilizohifadhiwa hivi majuzi,cooking_recipe,0.2899,0.1619,False
+17087,sw-KE,email,email_query,niangalie barua pepe mpya nilizopokea kutoka kwa asha,lists_remove,0.3315,0.0282,False
+17098,sw-KE,email,email_query,nionyeshe barua pepe zozote zilizopokelewa katika saa iliyopita,news_query,0.7911,0.0054,False
+17107,sw-KE,email,email_query,angalia barua pepe mpya,social_post,0.4834,0.0055,False
+17108,sw-KE,email,email_query,nipe barua pepe yangu ya hivi punde,social_post,0.9975,0.0001,False
+17113,sw-KE,email,email_sendemail,tengeneza barua pepe kwa kamau,qa_definition,0.6558,0.0004,False
+17115,sw-KE,email,email_query,soma orodha ya barua pepe mpya,qa_factoid,0.215,0.0938,False
+17116,sw-KE,email,email_query,onyesha orodha ya barua pepe ya hivi karibuni,social_post,0.9987,0.0001,False
+17119,sw-KE,email,email_query,angalia barua pepe yoyote kutoka jumia,qa_factoid,0.524,0.0148,False
+17123,sw-KE,email,email_sendemail,fomu ya barua pepe ya baba,social_post,0.3244,0.0233,False
+17135,sw-KE,email,email_query,barua pepe zozote za habari za taa,news_query,0.8305,0.0002,False
+17136,sw-KE,email,email_query,tafadhali soma barua pepe zangu mpya,social_post,0.693,0.0145,False
+17138,sw-KE,email,email_query,tafadhali ficha jumbe zangu ambazo zimesomwa,qa_factoid,0.9173,0.0001,False
+17142,sw-KE,email,email_query,kuna nini kwenye kisanduku pokezi tangu tulipoangalia mara ya mwisho,cooking_recipe,0.9998,0.0,False
+17143,sw-KE,email,email_sendemail,hey tuma barua pepe kwa juma,social_post,0.9935,0.0001,False
+17144,sw-KE,email,email_query,hey angalia barua pepe,social_post,0.9906,0.0001,False
+17147,sw-KE,email,email_sendemail,jibu barua pepe kwa maudhui yafuatayo hujambo,social_post,0.7959,0.0079,False
+17148,sw-KE,email,email_sendemail,alexa jibu barua na maudhui yafuatayo hujambo wewe,social_post,0.9898,0.0005,False
+17151,sw-KE,email,email_sendemail,rafiki yangu juma amenitumia kadi ya mwaliko kwenye nyumba yake aliyoinunua hivi karibuni sema asante katika kitambulisho chake cha barua.,social_post,0.8408,0.0088,False
+17156,sw-KE,email,email_query,angalia barua pepe yangu kwa barua pepe yoyote mpya kutoka kwa yusufu,social_post,0.4001,0.0345,False
+17157,sw-KE,email,email_query,nina barua pepe yoyote mpya kutoka kwa juma,lists_remove,0.6119,0.0178,False
+17170,sw-KE,email,email_query,nijulishe joshua anaponitumia barua pepe,qa_factoid,0.8099,0.0068,False
+17179,sw-KE,email,email_query,amenitumia barua pepe asha,lists_remove,0.3757,0.0556,False

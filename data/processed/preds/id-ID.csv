@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,id-ID,iot,iot_hue_lightoff,olly matikan lampu di kamar tidur,iot_hue_lightoff,0.9664,0.9664,True
+47,id-ID,datetime,datetime_query,waktu di australia,weather_query,0.9904,0.0007,False
+85,id-ID,datetime,datetime_query,tanggal berapa hari ini,qa_factoid,0.7976,0.1853,False
+86,id-ID,datetime,datetime_query,tanggal berapa hari ini,qa_factoid,0.7976,0.1853,False
+100,id-ID,weather,weather_query,apa perkiraan cuaca minggu ini,weather_query,0.9985,0.9985,True
+102,id-ID,weather,weather_query,bagaimana cuaca minggu ini,weather_query,0.9848,0.9848,True
+103,id-ID,weather,weather_query,beri tahu saya cuaca minggu ini,weather_query,0.9992,0.9992,True
+128,id-ID,datetime,datetime_query,tanggal berapa,datetime_query,0.4508,0.4508,True
+151,id-ID,play,play_music,mainkan itu lagi tolong,qa_factoid,1.0,0.0,False
+177,id-ID,news,news_query,beri tahu saya berita bisnis,news_query,0.9945,0.9945,True
+178,id-ID,news,news_query,beri tahu saya berita internasional,news_query,0.984,0.984,True
+182,id-ID,play,play_music,putarkan playlist musik rock,play_music,0.9994,0.9994,True
+185,id-ID,play,play_music,nyalakan playlist saya dan putar lagu ketiga di dalam antrian,play_music,1.0,1.0,True
+197,id-ID,datetime,datetime_query,jam berapa sekarang,weather_query,0.9971,0.0006,False
+216,id-ID,weather,weather_query,bagaimana cuaca hari ini,weather_query,0.9961,0.9961,True
+219,id-ID,weather,weather_query,haruskah saya membawa payung besok,weather_query,0.9728,0.9728,True
+220,id-ID,play,play_music,putar musik dari daftar rock saya,play_music,1.0,1.0,True
+250,id-ID,play,play_music,saya ingin mendengar jazz sekarang bagaimana denganmu,play_music,0.9998,0.9998,True
+254,id-ID,play,play_music,olly mainkan lagu yang bagus dari pemutar jazz dari favorit saya,play_music,1.0,1.0,True
+279,id-ID,weather,weather_query,bagaimana perkiraan cuaca hari ini di dki jakarta,weather_query,0.999,0.999,True
+281,id-ID,news,news_query,berapa nilai tukar rupiah terhadap dolar,lists_query,0.1732,0.0419,False
+296,id-ID,play,play_music,putar playlist nirvana,play_music,0.9963,0.9963,True
+297,id-ID,play,play_music,acak lagu naif,qa_factoid,0.9961,0.0001,False
+299,id-ID,weather,weather_query,bagaimana cuaca,weather_query,0.998,0.998,True
+310,id-ID,datetime,datetime_query,malam tahun baru di tahun ini jatuh di hari apa,weather_query,0.8455,0.0226,False
+319,id-ID,weather,weather_query,beri tahu cuaca di bogor dua hari dari sekarang,weather_query,0.9993,0.9993,True
+329,id-ID,play,play_music,cinta tak harus memiliki,email_sendemail,0.9164,0.0003,False
+333,id-ID,weather,weather_query,apa kondisi cuaca di jakarta,weather_query,0.9986,0.9986,True
+334,id-ID,weather,weather_query,saya ingin tahu cuaca di semarang,weather_query,0.9997,0.9997,True
+344,id-ID,weather,weather_query,apakah besok akan hujan,weather_query,0.9916,0.9916,True
+348,id-ID,weather,weather_query,apakah besok akan hujan,weather_query,0.9916,0.9916,True
+355,id-ID,datetime,datetime_query,hari apa tanggal satu april,datetime_query,0.9675,0.9675,True
+360,id-ID,datetime,datetime_query,jam berapa sekarang,weather_query,0.9971,0.0006,False
+362,id-ID,play,play_music,putar lagu kedua lagu noah,play_music,1.0,1.0,True
+366,id-ID,news,news_query,beritahu saya berita terbaru,news_query,0.9694,0.9694,True
+369,id-ID,iot,iot_hue_lightoff,matikan lampu,iot_hue_lightoff,0.7623,0.7623,True
+385,id-ID,news,news_query,apa yang sensasional di jawa pos,social_post,0.9826,0.0003,False
+391,id-ID,play,play_music,putar lagu acak dari playlist saya,play_music,1.0,1.0,True
+393,id-ID,play,play_music,putar lagu retro di playlist saya,play_music,0.9999,0.9999,True
+397,id-ID,play,play_music,putar lagu apa pun oleh ari lasso,play_music,0.9998,0.9998,True
+400,id-ID,play,play_music,mulai putar,qa_factoid,0.6923,0.0006,False
+407,id-ID,play,play_music,bisakah kamu putar musik rock selama satu jam berikutnya,play_music,0.9973,0.9973,True
+424,id-ID,news,news_query,berita apa saja yang terkini,qa_factoid,0.9895,0.0001,False
+427,id-ID,iot,iot_hue_lightoff,matikan lampu di kamar mandi,iot_hue_lightoff,0.8951,0.8951,True
+428,id-ID,iot,iot_hue_lightoff,matikan lampu kamar mandi,iot_hue_lightoff,0.9457,0.9457,True
+430,id-ID,weather,weather_query,bagaimana cuaca saat ini,weather_query,0.9905,0.9905,True
+437,id-ID,play,play_music,buka berkas slank,qa_factoid,0.5479,0.0967,False
+441,id-ID,news,news_query,apa berita utama terbaru,news_query,0.9997,0.9997,True
+442,id-ID,news,news_query,apa yang terjadi di berita,news_query,0.9999,0.9999,True
+451,id-ID,news,news_query,berikan saya harga saham terkini i. h. s. g.,email_sendemail,0.2234,0.0247,False
+473,id-ID,play,play_music,mainkan lagu sebelas januari,play_music,1.0,1.0,True
+486,id-ID,datetime,datetime_query,jam berapa di kota jakarta,weather_query,0.9923,0.0058,False
+491,id-ID,weather,weather_query,apakah di luar dingin,weather_query,0.9975,0.9975,True
+506,id-ID,play,play_music,buka lagu dari samsons,play_music,1.0,1.0,True
+512,id-ID,weather,weather_query,dengan peter pan,qa_factoid,0.9605,0.0003,False
+540,id-ID,play,play_music,mainkan lagu yang dinyanyikan katy perry,play_music,0.9999,0.9999,True
+555,id-ID,play,play_music,putar apa pun noah,qa_definition,0.9125,0.0059,False
+576,id-ID,play,play_music,putar semua berdasarkan playlist,play_music,0.9983,0.9983,True
+585,id-ID,news,news_query,tunjukkan berita terbaru,news_query,0.9946,0.9946,True
+588,id-ID,news,news_query,apa kabar baru untuk hari ini,news_query,0.9792,0.9792,True
+590,id-ID,weather,weather_query,bagaimana cuaca terkini,weather_query,0.8829,0.8829,True
+614,id-ID,play,play_music,mulai daftar putar,qa_factoid,0.9177,0.0,False
+625,id-ID,play,play_music,tolong putarkan lagu berubah,play_music,1.0,1.0,True
+631,id-ID,news,news_query,atur pemberitahuan tentang berita pipa minyak pertamina,news_query,0.5455,0.5455,True
+651,id-ID,iot,iot_hue_lightoff,matikan lampu ruangan,iot_hue_lightoff,0.9529,0.9529,True
+660,id-ID,datetime,datetime_query,waktu terkini di jepang,qa_factoid,0.8893,0.0043,False
+680,id-ID,news,news_query,beri tahu saya tentang harga bitcoin,qa_factoid,0.977,0.001,False
+686,id-ID,datetime,datetime_query,di jakarta sekarang jam berapa,weather_query,0.9848,0.0024,False
+712,id-ID,news,news_query,saya ingin mendengar berita terakhir dari c. n. n.,news_query,0.9945,0.9945,True
+726,id-ID,weather,weather_query,ringkaskan detil cuaca minggu ini,weather_query,0.9702,0.9702,True
+730,id-ID,iot,iot_hue_lightoff,buat lampu menjadi mati,cooking_recipe,0.9747,0.0169,False
+738,id-ID,weather,weather_query,seberapa dingin di luar hari ini,weather_query,0.9846,0.9846,True
+764,id-ID,weather,weather_query,bagaimana perkiraan cuaca minggu ini,weather_query,0.9985,0.9985,True
+765,id-ID,news,news_query,bisakah anda memberi saya berita utama terkini dari penyedia terbaru saya,recommendation_events,0.9346,0.0612,False
+767,id-ID,news,news_query,bisakah anda menemukan saya berita terbaru dari sumber yang biasanya tidak saya kunjungi,qa_factoid,0.9972,0.0008,False
+768,id-ID,news,news_query,kasih tahu aku tentang berita politik terkini,news_query,0.9944,0.9944,True
+779,id-ID,play,play_music,saya ingin mendengar mungkin nanti leh peterpan,qa_factoid,0.5982,0.0006,False
+781,id-ID,play,play_music,putar seperti kekasihku,play_music,0.715,0.715,True
+782,id-ID,play,play_music,putarkan mungkin nanti oleh peterpan,qa_factoid,0.9793,0.0004,False
+783,id-ID,play,play_music,putar lagu lagu cinta,play_music,1.0,1.0,True
+790,id-ID,weather,weather_query,cuaca ringan atau berat,qa_factoid,0.7625,0.0001,False
+826,id-ID,weather,weather_query,bagaimana suhu di luar saat ini,weather_query,0.4904,0.4904,True
+827,id-ID,play,play_music,putar playlist iwan fals,play_music,0.9994,0.9994,True
+832,id-ID,weather,weather_query,hey bagaimana prakiraan cuaca besok,weather_query,0.9995,0.9995,True
+837,id-ID,news,news_query,apa prediksi charta politika untuk pemilihan presiden indonesia yang akan datang,qa_factoid,0.4791,0.0833,False
+891,id-ID,play,play_music,putar beberapa musik islami,play_music,1.0,1.0,True
+914,id-ID,iot,iot_hue_lightoff,tolong matikan lampu,iot_hue_lightoff,0.9851,0.9851,True
+936,id-ID,play,play_music,buka dan putar musik dari daftar putar joging saya,play_music,0.9999,0.9999,True
+951,id-ID,weather,weather_query,bagaimana cuaca sekarang di pontianak,weather_query,0.9978,0.9978,True
+969,id-ID,news,news_query,artikel berita tentang subjek tertentu,news_query,0.9943,0.9943,True
+974,id-ID,datetime,datetime_query,jam berapa di bandung sekarang,weather_query,0.9995,0.0001,False
+997,id-ID,iot,iot_hue_lightoff,matikan lampu ruang keluarga,iot_hue_lightoff,0.9673,0.9673,True
+999,id-ID,iot,iot_hue_lightoff,bisakah kamu matikan lampu,iot_hue_lightoff,0.9721,0.9721,True
+1007,id-ID,play,play_music,mainkan superman is dead dari playlist rock saya,play_music,0.9993,0.9993,True
+1014,id-ID,datetime,datetime_query,jam berapa di bandung saat ini,weather_query,0.9989,0.0001,False
+1047,id-ID,play,play_music,aku butuh tangisan yang bagus bisakah kamu memainkan lagu rock sedih untukku,play_music,0.9999,0.9999,True
+1061,id-ID,news,news_query,berikan saya berita olahraga terbaru,news_query,0.9933,0.9933,True
+1063,id-ID,news,news_query,dapatkan pemberitahuan tentang berita olahraga setiap jam,news_query,0.8284,0.8284,True
+1084,id-ID,news,news_query,mudah digunakan,qa_factoid,0.6122,0.0059,False
+1093,id-ID,news,news_query,buka situs jawa pos,social_post,0.6155,0.0006,False
+1098,id-ID,datetime,datetime_query,tanggal lima belas maret jatuh di hari apa,datetime_query,0.8796,0.8796,True
+1108,id-ID,play,play_music,keinginan saya adalah mendengarkan beberapa musik country,play_music,0.9999,0.9999,True
+1115,id-ID,play,play_music,mengkoordinasi semua genre lagu pop,play_music,0.4825,0.4825,True
+1120,id-ID,news,news_query,apakah ada yang spesial dalam politik,qa_factoid,0.9984,0.0,False
+1121,id-ID,play,play_music,putar putri oleh s. t. dua belas,play_music,0.9999,0.9999,True
+1123,id-ID,play,play_music,selanjutnya mainkan mama papa larang judika,qa_factoid,0.7445,0.0003,False
+1124,id-ID,play,play_music,siapkan lama lama aku bosan oleh audy item untuk diputar berikutnya,social_post,0.2982,0.0566,False
+1127,id-ID,play,play_music,putar semua lagu secara acak,play_music,0.9999,0.9999,True
+1144,id-ID,play,play_music,saya ingin beberapa rap,play_music,0.9998,0.9998,True
+1148,id-ID,datetime,datetime_query,jam berapa di solo sekarang,weather_query,0.9368,0.0137,False
+1156,id-ID,news,news_query,berita terbaru tentang hari perempuan internasional,news_query,0.9369,0.9369,True
+1160,id-ID,weather,weather_query,akan seberapa dingin suhu setiap malam minggu ini,weather_query,0.9982,0.9982,True
+1180,id-ID,news,news_query,cari artikel media indonesia hari ini tentang jokowi,social_post,0.8981,0.0851,False
+1202,id-ID,datetime,datetime_query,waktu sekarang di jakarta,weather_query,0.9913,0.0005,False
+1238,id-ID,play,play_music,pandora,qa_factoid,0.1403,0.0391,False
+1249,id-ID,weather,weather_query,cuaca minggu ini akan seperti apa,qa_factoid,0.9791,0.0193,False
+1252,id-ID,datetime,datetime_query,beri tahu saya waktu saat ini,weather_query,0.6521,0.0468,False
+1294,id-ID,news,news_query,beri tahu dengan cepat berita tentang piala citra,news_query,0.9883,0.9883,True
+1301,id-ID,news,news_query,ceritakan tentang kebijakan kerja sama luar negeri presiden jokowi,qa_factoid,0.3732,0.1396,False
+1308,id-ID,weather,weather_query,bagaimana perkiraan iklim hari ini disini,weather_query,0.9917,0.9917,True
+1318,id-ID,play,play_music,nyalakan aplikasi musik dan putar lagu untuk saya,play_music,0.9993,0.9993,True
+1351,id-ID,weather,weather_query,apakah cuaca akan cerah minggu ini,weather_query,0.9878,0.9878,True
+1371,id-ID,news,news_query,ada apa di halaman depan jawa pos,social_post,0.9995,0.0,False
+1377,id-ID,iot,iot_hue_lightoff,tolong matikan lampu di kamar anak saya,iot_hue_lightoff,0.9809,0.9809,True
+1400,id-ID,weather,weather_query,saya paling memperhatikan,qa_factoid,0.9979,0.0,False
+1401,id-ID,weather,weather_query,saya sesekali memperhatikan,qa_factoid,0.5464,0.0007,False
+1404,id-ID,weather,weather_query,bisakah saya mendapatkan perkiraan cuaca besok di banjarmasin sini,weather_query,1.0,1.0,True
+1423,id-ID,news,news_query,beri tahu saya tentang joko widodo,qa_factoid,0.9869,0.0001,False
+1425,id-ID,news,news_query,beri tahu saya ketika anda mendengar tentang indonesia,play_podcasts,0.2183,0.0144,False
+1440,id-ID,play,play_music,putar lagu rock terbaru dengan rating empat ke atas,play_music,0.9991,0.9991,True
+1449,id-ID,datetime,datetime_query,kapan paskah tahun dua ribu delapan belas,weather_query,0.9918,0.0007,False
+1458,id-ID,weather,weather_query,seberapa panas di balikpapan,weather_query,0.9992,0.9992,True
+1467,id-ID,play,play_music,mainkan slayer,social_post,0.3579,0.0283,False
+1474,id-ID,news,news_query,apa berita olahraga hari ini,news_query,0.9995,0.9995,True
+1489,id-ID,play,play_music,mainkan lagu terbaru dari raisa,play_music,1.0,1.0,True
+1513,id-ID,weather,weather_query,bagaimana suhu di luar,qa_factoid,0.9729,0.0013,False
+1533,id-ID,news,news_query,berita apa yang terjadi pada metro t. v. hari ini,qa_factoid,0.7259,0.2453,False
+1537,id-ID,datetime,datetime_query,tampilkan waktu jerman saat ini,weather_query,0.965,0.0005,False
+1542,id-ID,weather,weather_query,matahari bersinar cerah akankah kita mendapat cuaca seperti ini di sisa hari ini,weather_query,0.9994,0.9994,True
+1546,id-ID,play,play_music,mainkan daftar putar musim panas saya,recommendation_events,0.7287,0.0033,False
+1547,id-ID,weather,weather_query,bagaimana cuaca di lokasi saya minggu ini,weather_query,0.9988,0.9988,True
+1549,id-ID,weather,weather_query,apakah minggu ini akan hujan,weather_query,0.9994,0.9994,True
+1554,id-ID,iot,iot_hue_lightoff,matikan lampu,iot_hue_lightoff,0.7623,0.7623,True
+1581,id-ID,datetime,datetime_query,saat ini bulan dan tahun berapa,datetime_query,0.8325,0.8325,True
+1589,id-ID,weather,weather_query,hari selasa depan apakah akan cerah,weather_query,0.9997,0.9997,True
+1593,id-ID,news,news_query,atur pemberitahuan dari berita mancanegara,qa_factoid,0.812,0.0461,False
+1594,id-ID,news,news_query,dapatkah anda memberi tahu saya berita terbaru,news_query,0.9888,0.9888,True
+1607,id-ID,datetime,datetime_query,jam berapa sekarang di jakarta,weather_query,0.9978,0.0007,False
+1617,id-ID,news,news_query,ketika topik baru tentang politik muncul beri tahu saya,social_post,0.9908,0.0007,False
+1636,id-ID,news,news_query,tunjukkan saya berita terbaru dari indosiar,news_query,0.9995,0.9995,True
+1653,id-ID,weather,weather_query,kapan akan hujan lagi,weather_query,0.9992,0.9992,True
+1655,id-ID,weather,weather_query,apakah akan turun salju besok siang,weather_query,0.9967,0.9967,True
+1666,id-ID,news,news_query,jadi berita bersih dalam enam jam terakhir adalah,qa_factoid,0.2982,0.2741,False
+1671,id-ID,play,play_music,putar hanya semua musik yang dirilis antara tahun seribu sembilan ratus sembilan puluh dan dua ribu,play_music,0.9963,0.9963,True
+1683,id-ID,weather,weather_query,suhu besok akan panas benar atau tidak,weather_query,0.9946,0.9946,True
+1684,id-ID,weather,weather_query,benar atau tidak suhu besok akan panas,weather_query,0.906,0.906,True
+1692,id-ID,play,play_music,temukan beberapa smooth jazz untuk saya,play_music,0.999,0.999,True
+1722,id-ID,weather,weather_query,berapa suhu terendah di bandung,weather_query,0.9956,0.9956,True
+1750,id-ID,iot,iot_hue_lightoff,matikan semua lampu,calendar_remove,0.6383,0.229,False
+1759,id-ID,news,news_query,berikan saya berita presiden joko widodo,news_query,0.9459,0.9459,True
+1760,id-ID,news,news_query,berita terbaru tentang terorisme,news_query,0.9948,0.9948,True
+1777,id-ID,play,play_music,lagu selanjutnya,play_music,0.9998,0.9998,True
+1784,id-ID,iot,iot_hue_lightoff,matikan lampu ruang makan,iot_hue_lightoff,0.8979,0.8979,True
+1786,id-ID,iot,iot_hue_lightoff,matikan lampu kamar tidur utama,iot_hue_lightoff,0.9039,0.9039,True
+1794,id-ID,news,news_query,apakah megawati akan mengunjungi myanmar dalam waktu dekat,qa_factoid,0.9999,0.0,False
+1796,id-ID,datetime,datetime_query,tanggal hari ini,qa_factoid,0.9926,0.0045,False
+1803,id-ID,news,news_query,tim apa saja yang bertanding hari ini di liga satu,lists_query,0.4511,0.0119,False
+1811,id-ID,play,play_music,mulai daftar putar dan mainkan musik,play_music,0.9741,0.9741,True
+1832,id-ID,play,play_music,putar album noah,play_music,0.9948,0.9948,True
+1833,id-ID,play,play_music,bisakah kamu mengulang tema daftar putar,qa_factoid,0.9143,0.0006,False
+1866,id-ID,weather,weather_query,laporan cuaca saat ini,weather_query,0.968,0.968,True
+1870,id-ID,datetime,datetime_query,hari ini bulan apa,weather_query,0.9948,0.0005,False
+1904,id-ID,news,news_query,berikan saya sorotan pertandingan,social_post,0.9716,0.0003,False
+1933,id-ID,weather,weather_query,apakah akan ada penurunan suhu malam ini,weather_query,0.9996,0.9996,True
+1940,id-ID,play,play_music,putar judul lagu,play_music,1.0,1.0,True
+1962,id-ID,play,play_music,hai google mainkan untuk saya daftar lagu aneh di aplikasi gaana saya,social_post,0.5482,0.3569,False
+1994,id-ID,play,play_music,bisakah kamu buka itunes saya,play_podcasts,0.7032,0.039,False
+1995,id-ID,play,play_music,putar panbers,iot_hue_lightoff,0.3158,0.0578,False
+2007,id-ID,play,play_music,tolong putar los dol,qa_factoid,0.4962,0.0091,False
+2062,id-ID,play,play_music,saya ingin memutar beberapa musik jazz untuk dimainkan,play_music,0.9997,0.9997,True
+2085,id-ID,play,play_music,alexa saya ingin mendengar klasik apa saja kecuali bach atau schubert,play_music,0.9991,0.9991,True
+2098,id-ID,news,news_query,apa yang terjadi di dunia akhir akhir ini,social_post,0.2268,0.1048,False
+2108,id-ID,play,play_music,selanjutnya mainkan dangdut pantura,qa_factoid,0.9269,0.0101,False
+2113,id-ID,recommendation,recommendation_events,beritahu saya semua event saat ini di kota tempat tinggal saya,news_query,0.4998,0.1428,False
+2146,id-ID,datetime,datetime_query,kapan tanggal titik balik matahari musim dingin dua tahun dari sekarang,datetime_query,0.9271,0.9271,True
+2156,id-ID,datetime,datetime_query,jam berapa sekarang,weather_query,0.9971,0.0006,False
+2160,id-ID,iot,iot_hue_lightoff,aku mau tidur sekarang,calendar_remove,0.2478,0.1955,False
+2178,id-ID,weather,weather_query,bagaimana kondisi cuaca saat ini di tempat saya,weather_query,0.9974,0.9974,True
+2198,id-ID,datetime,datetime_query,jatuh pada hari apa tanggal empat desember seribu sembilan ratus delapan puluh dua,weather_query,0.9661,0.0041,False
+2201,id-ID,news,news_query,tajuk utama c. n. n.,social_post,0.9757,0.0,False
+2203,id-ID,news,news_query,berita utama c. n. n. indonesia,social_post,0.8931,0.0014,False
+2220,id-ID,weather,weather_query,cuaca di jakarta,qa_factoid,0.7529,0.0009,False
+2225,id-ID,play,play_music,putar melly goeslaw jika,qa_factoid,1.0,0.0,False
+2230,id-ID,iot,iot_hue_lightoff,matikan lampu dapur,cooking_recipe,0.7851,0.1861,False
+2237,id-ID,news,news_query,bacakan saya berita mancanegara terkini,news_query,0.9967,0.9967,True
+2258,id-ID,weather,weather_query,apakah hari ini saya butuh sweter,weather_query,0.9991,0.9991,True
+2265,id-ID,weather,weather_query,beritahu saya cuaca bogor jawa barat sekarang,weather_query,0.9988,0.9988,True
+2271,id-ID,play,play_music,tolong putar lagu lagu yang telah saya beli dan favoritkan,play_music,0.9942,0.9942,True
+2296,id-ID,news,news_query,beri tahu saya terus tentang skor i. b. l. hari ini,iot_hue_lightoff,0.5256,0.0469,False
+2298,id-ID,iot,iot_hue_lightoff,buat lampu mati sekarang,iot_hue_lightoff,0.4997,0.4997,True
+2315,id-ID,news,news_query,apa berita terbaru hari ini,news_query,0.9993,0.9993,True
+2316,id-ID,news,news_query,alexa beri saya berita utama,news_query,0.7537,0.7537,True
+2320,id-ID,weather,weather_query,bagaimana cuaca hari jumat,weather_query,0.9989,0.9989,True
+2322,id-ID,weather,weather_query,bagaimana cuaca besok,weather_query,0.9356,0.9356,True
+2330,id-ID,datetime,datetime_query,tampilkan waktu setempat di bandung saat ini,weather_query,0.995,0.0001,False
+2384,id-ID,news,news_query,apa yang terjadi di seluruh dunia,qa_factoid,0.7143,0.197,False
+2386,id-ID,news,news_query,beri saya berita terbaru,news_query,0.9977,0.9977,True
+2396,id-ID,play,play_music,mulai lagu agnes monica,social_post,0.6117,0.3162,False
+2408,id-ID,play,play_music,cari lagu lainnya dari noah,play_music,0.9873,0.9873,True
+2412,id-ID,datetime,datetime_query,beri tahu saya waktu di bandung,weather_query,0.9988,0.0001,False
+2423,id-ID,weather,weather_query,berikan saya perkiraan cuaca hari ini di jakarta,weather_query,0.9988,0.9988,True
+2438,id-ID,news,news_query,kirim berita teknologi,news_query,0.9966,0.9966,True
+2441,id-ID,iot,iot_hue_lightoff,matikan lampu gudang,iot_hue_lightoff,0.9853,0.9853,True
+2472,id-ID,datetime,datetime_query,apakah waktunya sudah benar untuk lokasi saya berada,qa_factoid,0.9998,0.0001,False
+2496,id-ID,news,news_query,berita sehari hari,qa_factoid,0.9846,0.0,False
+2497,id-ID,datetime,datetime_query,tanggal berapa hari ini,qa_factoid,0.7976,0.1853,False
+2498,id-ID,datetime,datetime_query,siri hari ini tanggal berapa,datetime_query,0.5116,0.5116,True
+2527,id-ID,play,play_music,mainkan dangdut,play_music,0.9946,0.9946,True
+2531,id-ID,play,play_music,alexa putarkan lagu rap dan rock bergantian,play_music,0.9999,0.9999,True
+2545,id-ID,weather,weather_query,bagaimana cuacanya,qa_factoid,1.0,0.0,False
+2548,id-ID,news,news_query,apapun ada yang menarik dari gramedia,lists_query,0.6156,0.0087,False
+2560,id-ID,play,play_music,mainkan musik acak,play_music,1.0,1.0,True
+2573,id-ID,play,play_music,putar play list dance spotify saya,play_music,0.9997,0.9997,True
+2578,id-ID,iot,iot_hue_lightoff,matikan lampu beranda,iot_hue_lightoff,0.8791,0.8791,True
+2588,id-ID,news,news_query,apa berita terbaru dari m. n. c. t. v.,news_query,0.9994,0.9994,True
+2594,id-ID,news,news_query,beri tahu saya tentang berita lingkungan terakhir,news_query,0.9936,0.9936,True
+2605,id-ID,play,play_music,putar musik favorit saya sekarang,play_music,1.0,1.0,True
+2611,id-ID,weather,weather_query,ramalan cuaca saat ini,weather_query,0.9957,0.9957,True
+2615,id-ID,weather,weather_query,apakah hari rabu saya perlu pakai jaket,weather_query,0.9892,0.9892,True
+2638,id-ID,news,news_query,tampilkan berita tentang joko widodo,social_post,0.9504,0.0382,False
+2639,id-ID,news,news_query,tunjukkan saya berita tentang lingkungan,news_query,0.997,0.997,True
+2651,id-ID,news,news_query,berita terbaru dari daerah,news_query,0.9588,0.9588,True
+2678,id-ID,weather,weather_query,apakah malam ini akan hujan,weather_query,0.9996,0.9996,True
+2679,id-ID,weather,weather_query,apakah suhu akan tetap sama atau akan lebih dingin,weather_query,0.9945,0.9945,True
+2703,id-ID,play,play_music,tolong putar musik folk,play_music,0.9942,0.9942,True
+2704,id-ID,play,play_music,ayo dengarkan beberapa rock indie,play_music,0.2825,0.2825,True
+2708,id-ID,play,play_music,ratna saya suka berjoget bisakah saya memainkan beberapa musik jenis rock and roll,play_music,1.0,1.0,True
+2709,id-ID,play,play_music,olly saya ingin mendengar lagu sedih hari ini,play_music,1.0,1.0,True
+2711,id-ID,iot,iot_hue_lightoff,matikan lampu,iot_hue_lightoff,0.7623,0.7623,True
+2717,id-ID,play,play_music,saya ingin mendengarkan purple haze,play_music,0.9996,0.9996,True
+2724,id-ID,news,news_query,beri aku berita dari metro t. v.,news_query,0.911,0.911,True
+2770,id-ID,play,play_music,olly putar musik dari jenis musik dangdut,play_music,0.9995,0.9995,True
+2774,id-ID,iot,iot_hue_lightoff,matikan lampu,iot_hue_lightoff,0.7623,0.7623,True
+2775,id-ID,iot,iot_hue_lightoff,matikan lampu,iot_hue_lightoff,0.7623,0.7623,True
+2777,id-ID,weather,weather_query,apakah saya perlu membawa payung hari ini,qa_factoid,0.3132,0.1384,False
+2781,id-ID,play,play_music,mainkan beberapa musik dangdut,play_music,1.0,1.0,True
+2798,id-ID,play,play_music,alexa putar lagu over the rainbow,play_music,0.956,0.956,True
+2801,id-ID,datetime,datetime_query,jam berapa sekarang bandung,weather_query,0.999,0.0001,False
+2824,id-ID,datetime,datetime_query,tanggal tiga belas desember hari apa,datetime_query,0.8794,0.8794,True
+2840,id-ID,datetime,datetime_query,tanggal dua bulan depan jatuh pada hari apa,datetime_query,0.5156,0.5156,True
+2859,id-ID,datetime,datetime_query,olly jam berapa di kota ini,weather_query,0.9938,0.0002,False
+2887,id-ID,news,news_query,tampilkan artikel apa saja yang berhubungan dengan cuaca dalam berita pagi,news_query,0.3198,0.3198,True
+2890,id-ID,weather,weather_query,cuaca terkini,qa_factoid,0.9574,0.0001,False
+2898,id-ID,news,news_query,apakah ada pembaruan terkait pemilihan,news_query,0.1577,0.1577,True
+2914,id-ID,datetime,datetime_query,beri tahu saya tanggal hari ini,datetime_query,0.7917,0.7917,True
+2917,id-ID,weather,weather_query,laporan cuaca mingguan,weather_query,0.9965,0.9965,True
+2921,id-ID,news,news_query,apa cerita terbaru si situs web metro t. v.,news_query,0.9941,0.9941,True
+2927,id-ID,datetime,datetime_query,jam berapa di purwokerto,qa_factoid,0.9989,0.0003,False
+2931,id-ID,play,play_music,mainkan lagu hampa wanitaku,play_music,1.0,1.0,True
+2962,id-ID,play,play_music,tolong mainkan lagu dari bruno mars,play_music,0.9999,0.9999,True
+2965,id-ID,iot,iot_hue_lightoff,matikan lampu kantor,iot_hue_lightoff,0.9675,0.9675,True
+3002,id-ID,play,play_music,putarkan lagu lagu oleh band the beatles,play_music,1.0,1.0,True
+3031,id-ID,play,play_music,apakah saya bisa memainkan lagu itu lagi,play_music,1.0,1.0,True
+3034,id-ID,weather,weather_query,beri tahu temperatur,qa_factoid,0.5689,0.2077,False
+3037,id-ID,news,news_query,tolong artikel berita halaman depan,news_query,0.579,0.579,True
+3039,id-ID,news,news_query,apa yang baru di berita,news_query,0.9999,0.9999,True
+3060,id-ID,news,news_query,apa berita dari kompas t. v.,news_query,0.991,0.991,True
+3091,id-ID,datetime,datetime_query,jam berapa di standar waktu pasifik,qa_factoid,0.7451,0.0102,False
+3096,id-ID,weather,weather_query,bagaimana cuaca di sumatera utara,weather_query,0.9976,0.9976,True
+3098,id-ID,iot,iot_hue_lightoff,matikan lampunya,qa_definition,1.0,0.0,False
+3099,id-ID,news,news_query,tunjukkan beberapa peristiwa terkini,news_query,0.9572,0.9572,True
+3101,id-ID,news,news_query,olly nyalakan berita,news_query,0.9947,0.9947,True
+3116,id-ID,play,play_music,putarkan lagu favorit saya dari tahun lalu,play_music,0.9998,0.9998,True
+3117,id-ID,play,play_music,mainkan sesuatu dari album hopes and fears milik keane,play_music,1.0,1.0,True
+3118,id-ID,datetime,datetime_query,jam berapa di zona waktu standar bagian timur sekarang,weather_query,0.9943,0.0036,False
+3124,id-ID,play,play_music,putar lagu secara acak dari playlist saya,play_music,0.9998,0.9998,True
+3146,id-ID,play,play_music,mainkan lagu pertama dari tulus di daftar lagu saya,play_music,1.0,1.0,True
+3167,id-ID,iot,iot_hue_lightoff,matikan lampu kamar tidur saya,iot_hue_lightoff,0.9698,0.9698,True
+3174,id-ID,play,play_music,putarkan playlist musik,play_music,0.9999,0.9999,True
+3205,id-ID,play,play_music,mainkan parasit oleh gita gutawa,play_music,0.9989,0.9989,True
+3207,id-ID,play,play_music,nyalakan poker face oleh lady gaga,social_post,0.9997,0.0001,False
+3212,id-ID,calendar,calendar_set,ingatkan aku untuk melakukan sesuatu kalau begitu,qa_factoid,0.713,0.0012,False
+3214,id-ID,news,news_query,bagaimana situasi terkini penyelidikan hubungan trump dengan russia,qa_factoid,0.9574,0.0021,False
+3228,id-ID,datetime,datetime_query,natal tahun ini jatuh di hari apa,weather_query,0.9924,0.007,False
+3253,id-ID,weather,weather_query,haruskah kami mempersiapkan untuk hujan sore hari ini,weather_query,0.9914,0.9914,True
+3264,id-ID,play,play_music,mainkan musik dangdut,play_music,1.0,1.0,True
+3305,id-ID,weather,weather_query,bagaimana cuaca minggu ini di jogjakarta,weather_query,0.9983,0.9983,True
+3306,id-ID,weather,weather_query,apa ramalan untuk seminggu,datetime_query,0.6535,0.008,False
+3329,id-ID,news,news_query,saya ingin melihat berita,news_query,0.9997,0.9997,True
+3337,id-ID,weather,weather_query,laporkan cuaca untuk tiga puluh tiga ribu tujuh ratus tujuh dan empat puluh,weather_query,0.9996,0.9996,True
+3338,id-ID,weather,weather_query,laporkan cuaca di jakarta,weather_query,0.9974,0.9974,True
+3361,id-ID,datetime,datetime_query,hari selasa depan tanggal berapa,qa_factoid,0.962,0.0088,False
+3378,id-ID,iot,iot_hue_lightoff,tidak ada penerangan di dapur,iot_hue_lightoff,0.9834,0.9834,True
+3386,id-ID,iot,iot_hue_lightoff,atur lampu ke medium,qa_definition,0.7108,0.2411,False
+3400,id-ID,play,play_music,segera mainkan versi langsung dari elton john,play_music,0.9217,0.9217,True
+3401,id-ID,play,play_music,mainkan yang terpopuler dari lagu lagu ahmad dhani,play_music,1.0,1.0,True
+3406,id-ID,weather,weather_query,bagaimana cuaca sepuluh hari ini,weather_query,0.9501,0.9501,True
+3407,id-ID,weather,weather_query,adakah perkiraan hujan atau salju minggu ini,weather_query,0.9987,0.9987,True
+3408,id-ID,weather,weather_query,apakah cuaca akan bagus di akhir minggu ini,weather_query,0.9977,0.9977,True
+3426,id-ID,weather,weather_query,di luar berapa derajat,weather_query,0.9208,0.9208,True
+3433,id-ID,play,play_music,tolong putar musik pop baru,play_music,0.9998,0.9998,True
+3434,id-ID,play,play_music,musik rap terbaik,play_music,0.8627,0.8627,True
+3441,id-ID,datetime,datetime_query,apakah tanggal dua puluh dua hari rabu,datetime_query,0.8993,0.8993,True
+3444,id-ID,datetime,datetime_query,apakah sekarang jam sepuluh,weather_query,0.9978,0.0003,False
+3447,id-ID,weather,weather_query,cuaca sepertinya memanggil untuk hujan hari sabtu,weather_query,0.991,0.991,True
+3481,id-ID,play,play_music,putar lagu paling populer oleh artis berbakat,play_music,1.0,1.0,True
+3489,id-ID,play,play_music,putar musik sekarang,play_music,1.0,1.0,True
+3492,id-ID,play,play_music,segera mainkan daftar lagu yang paling sering saya mainkan,play_music,0.9997,0.9997,True
+3503,id-ID,weather,weather_query,bagaimana cuaca di nganjuk,qa_factoid,0.9885,0.0113,False
+3507,id-ID,weather,weather_query,adakah salju di perkiraan cuaca,weather_query,0.9847,0.9847,True
+3513,id-ID,play,play_music,mainkan hanya daftar saya,qa_factoid,0.5776,0.0005,False
+3516,id-ID,weather,weather_query,bagaimana peluang curah hujan di cuaca hari ini,qa_factoid,0.9899,0.0097,False
+3539,id-ID,play,play_music,tolong putar ruang sendiri oleh tulus,lists_remove,0.3088,0.0104,False
+3546,id-ID,play,play_music,saya ingin mendengar musik jazz,play_music,1.0,1.0,True
+3550,id-ID,play,play_music,nyalakan beberapa led zeppelin,iot_hue_lightoff,0.2542,0.0246,False
+3554,id-ID,play,play_music,bisakah kamu masukkan ke daftar putar cinta,recommendation_events,0.9854,0.0002,False
+3562,id-ID,play,play_music,mainkan lagu angin,play_music,0.9825,0.9825,True
+3566,id-ID,datetime,datetime_query,sekarang jam berapa di cirebon,weather_query,0.9969,0.0002,False
+3570,id-ID,iot,iot_hue_lightoff,tolong matikan lampu di teras,iot_hue_lightoff,0.9851,0.9851,True
+3576,id-ID,news,news_query,apa berita terbaru dari metro t. v.,news_query,0.9996,0.9996,True
+3586,id-ID,weather,weather_query,bagaimana cuaca di jakarta,weather_query,0.9983,0.9983,True
+3600,id-ID,calendar,calendar_set,ingatkan saya setelah sepuluh menit,qa_factoid,0.9032,0.0004,False
+3603,id-ID,news,news_query,apa berita terbaru dari metro siang,weather_query,0.9902,0.0083,False
+3605,id-ID,news,news_query,apa berita terbaru di metro t. v.,news_query,0.9995,0.9995,True
+3606,id-ID,datetime,datetime_query,bagaimana waktu di malang,weather_query,0.9931,0.0002,False
+3614,id-ID,weather,weather_query,ini hari yang cerah kan,weather_query,0.9472,0.9472,True
+3623,id-ID,news,news_query,apa yang sedang terjadi di dunia hari ini,news_query,0.9535,0.9535,True
+3624,id-ID,news,news_query,berita dari r. c. t. i.,email_sendemail,0.3334,0.0051,False
+3631,id-ID,play,play_music,hey google mainkan beberapa musik jazz untuk saya,play_music,0.9999,0.9999,True
+3686,id-ID,play,play_music,putar playlist yang saya dedikasikan untuk musik rock,play_music,0.9997,0.9997,True
+3714,id-ID,play,play_music,putar playlist saya mulai dari bawah,play_music,1.0,1.0,True
+3717,id-ID,play,play_music,tolong putar lagu terbaik rap sembilan puluhan saya,play_music,0.9926,0.9926,True
+3723,id-ID,play,play_music,saya ingin mendengar maudy ayunda panggil aku sayang setelah lagu ini,play_music,0.9999,0.9999,True
+3725,id-ID,datetime,datetime_query,tanggal berapa hari ini,qa_factoid,0.7976,0.1853,False
+3727,id-ID,play,play_music,putar sepatu oleh tulus,play_music,0.4158,0.4158,True
+3750,id-ID,news,news_query,olly jika ada berita baru tentang banjir bisakah anda memberi tahu saya segera,weather_query,0.9551,0.0082,False
+3779,id-ID,play,play_music,mainkan daftar lagu sampai tutup usia di youtube,play_music,0.9999,0.9999,True
+3780,id-ID,play,play_music,putar playlist midnight love saya,play_music,0.9996,0.9996,True
+3784,id-ID,weather,weather_query,tunjukkan laporan cuaca di surabaya,weather_query,0.9989,0.9989,True
+3785,id-ID,iot,iot_hue_lightoff,tolong matikan lampu kamar mandi,iot_hue_lightoff,0.9788,0.9788,True
+3822,id-ID,news,news_query,temukan saya info tentang mobil,social_post,0.5233,0.008,False
+3852,id-ID,weather,weather_query,bagaimana cuaca di depok jabar saat ini,weather_query,0.9957,0.9957,True
+3859,id-ID,play,play_music,tolong masukkan daftar putar musik rap favorit saya,social_post,0.5611,0.193,False
+3907,id-ID,play,play_music,tolong mainkan lagu hits tahun lalu,play_music,1.0,1.0,True
+3911,id-ID,play,play_music,saya ingin mendengar lagu apa saja yang mendapatkan grammy tahun ini,play_music,0.9998,0.9998,True
+3912,id-ID,play,play_music,saya ingin mendengarkan musik dari tarian tradisional,play_music,0.9999,0.9999,True
+3936,id-ID,weather,weather_query,berapa suhu,qa_factoid,0.9879,0.0092,False
+3960,id-ID,datetime,datetime_query,beritahu waktu,qa_factoid,0.999,0.0001,False
+3967,id-ID,play,play_music,rap,qa_factoid,0.5852,0.0441,False
+3980,id-ID,play,play_music,mainkan yang terdalam dari noah,play_music,0.9455,0.9455,True
+3982,id-ID,play,play_music,tolong pilih lagu pertama di perpustakaan itunes saya,play_music,0.654,0.654,True
+3993,id-ID,iot,iot_hue_lightoff,bisakah kamu mematikan lampu,qa_factoid,0.6931,0.0063,False
+3995,id-ID,datetime,datetime_query,olly halloween hari apa,weather_query,0.9926,0.0001,False
+4001,id-ID,news,news_query,apa yang terjadi pada kisah tanah jawa,news_query,0.5527,0.5527,True
+4023,id-ID,news,news_query,apa yang ada di berita,news_query,1.0,1.0,True
+4031,id-ID,play,play_music,mainkan ada apa denganmu,play_music,0.6503,0.6503,True
+4040,id-ID,play,play_music,putar lagu yang paling sering saya dengarkan,play_music,1.0,1.0,True
+4058,id-ID,play,play_music,tolong saya sangat ingin mendengarkan beberapa musik rap,play_music,0.9999,0.9999,True
+4073,id-ID,datetime,datetime_query,tanggal lima itu hari apa,weather_query,0.9957,0.0011,False
+4077,id-ID,iot,iot_hue_lightoff,matikan lampu dapur,cooking_recipe,0.7851,0.1861,False
+4088,id-ID,iot,iot_hue_lightoff,matikan lampu sorot,iot_hue_lightoff,0.9938,0.9938,True
+4104,id-ID,weather,weather_query,bagaimana cuaca hari ini di bandung,weather_query,0.9986,0.9986,True
+4116,id-ID,play,play_music,tolong putar playlist acak saya,social_post,0.5218,0.0884,False
+4119,id-ID,news,news_query,saya ingin tahu semua yang rusak tentang jebolnya bendungan di cirebon,social_post,0.4642,0.2626,False
+4132,id-ID,weather,weather_query,sebutkan persentase kemungkinan hujan di bandung jawa barat hari ini,qa_factoid,0.9556,0.0038,False
+4136,id-ID,play,play_music,bisakah kamu putar melly goeslaw,social_post,0.586,0.0001,False
+4152,id-ID,play,play_music,tolong putar lagu sayang,play_music,0.9988,0.9988,True
+4168,id-ID,weather,weather_query,tolong cek cuaca di kendari,weather_query,0.9968,0.9968,True
+4171,id-ID,iot,iot_hue_lightoff,matikan lampu di dapur,cooking_recipe,0.5378,0.3813,False
+4177,id-ID,news,news_query,beri tahu saya berita utama politik terbaru di seluruh dunia,news_query,0.9977,0.9977,True
+4178,id-ID,news,news_query,apakah ada berita terbaru dari kepresidenan,news_query,0.9979,0.9979,True
+4183,id-ID,datetime,datetime_query,waktu saat ini di jakarta barat,weather_query,0.9919,0.0006,False
+4186,id-ID,datetime,datetime_query,hey olly jam berapa sekarang,weather_query,0.7459,0.0003,False
+4187,id-ID,datetime,datetime_query,hey siri sekarang pukul berapa,weather_query,0.9874,0.0016,False
+4205,id-ID,play,play_music,saya ingin mendengarkan lagu sadis dari afgan,play_music,1.0,1.0,True
+4212,id-ID,weather,weather_query,apakah saya bisa memotong rumput malam ini,cooking_recipe,0.98,0.0022,False
+4227,id-ID,weather,weather_query,adakah kemungkinan hujan minggu depan,weather_query,0.9883,0.9883,True
+4232,id-ID,play,play_music,mainkan menghapus jejakmu dari peterpan,qa_factoid,0.6375,0.0032,False
+4236,id-ID,datetime,datetime_query,apakah sekarang sudah siang,weather_query,0.9956,0.0001,False
+4253,id-ID,datetime,datetime_query,jam berapa di standar waktu bagian barat,weather_query,0.9857,0.0072,False
+4254,id-ID,datetime,datetime_query,jam berapa sekarang di pantai timur amerika,weather_query,0.9974,0.0013,False
+4258,id-ID,news,news_query,apa kabar terbaru,news_query,0.9975,0.9975,True
+4266,id-ID,weather,weather_query,bagaimana cuaca hari ini,weather_query,0.9961,0.9961,True
+4273,id-ID,play,play_music,mainkan lagu tak ada logika,play_music,1.0,1.0,True
+4290,id-ID,weather,weather_query,haruskah saya membawa jaket malam ini,weather_query,0.586,0.586,True
+4305,id-ID,play,play_music,putar lagu major tom oleh david bowie,play_music,1.0,1.0,True
+4309,id-ID,datetime,datetime_query,berapa jam lagi hingga tengah malam di jakarta indonesia,weather_query,0.977,0.0042,False
+4312,id-ID,weather,weather_query,apakah cuacanya akan kurang dari sepuluh derajat di jakarta,qa_factoid,0.9997,0.0003,False
+4313,id-ID,weather,weather_query,apakah besok akan hujan di riau,weather_query,0.997,0.997,True
+4336,id-ID,datetime,datetime_query,jam berapa di cina,qa_factoid,1.0,0.0,False
+4346,id-ID,iot,iot_hue_lightoff,ubah lampu menjadi mati,iot_hue_lightoff,0.9372,0.9372,True
+4347,id-ID,iot,iot_hue_lightoff,matikan lampu,iot_hue_lightoff,0.7623,0.7623,True
+4355,id-ID,weather,weather_query,bagaimana cuaca di tempat saya berada,weather_query,0.927,0.927,True
+4361,id-ID,play,play_music,putarkan beberapa lagu bagus,play_music,0.9998,0.9998,True
+4362,id-ID,datetime,datetime_query,sekarang jam berapa di cirebon,weather_query,0.9969,0.0002,False
+4376,id-ID,weather,weather_query,bagaimana kondisi di luar hari ini,weather_query,0.9458,0.9458,True
+4377,id-ID,weather,weather_query,bagaimana cuaca saat ini,weather_query,0.9905,0.9905,True
+4383,id-ID,weather,weather_query,bagaimana cuaca besok,weather_query,0.9356,0.9356,True
+4391,id-ID,news,news_query,apa judul berita di s. c. t. v.,social_post,0.881,0.1178,False
+4400,id-ID,news,news_query,apa artikel yang terpopuler di media indonesia,qa_factoid,0.7121,0.002,False
+4402,id-ID,weather,weather_query,apakah saya perlu membawa bobi hari ini,transport_query,0.8864,0.0031,False
+4412,id-ID,weather,weather_query,bagaimana cuaca di probolinggo,qa_factoid,0.9889,0.011,False
+4436,id-ID,weather,weather_query,jaket apa yang harus digunakan,qa_factoid,0.854,0.0007,False
+4439,id-ID,weather,weather_query,bagaimana cuaca di bontang,weather_query,0.9986,0.9986,True
+4449,id-ID,weather,weather_query,apakah akan turun hujan pukul satu siang hari ini,weather_query,0.997,0.997,True
+4452,id-ID,play,play_music,mainkan lagu lagu,play_music,1.0,1.0,True
+4463,id-ID,datetime,datetime_query,ada berapa hari sabtu di bulan maret,weather_query,0.9984,0.0002,False
+4477,id-ID,play,play_music,putar lagu berikutnya,play_music,1.0,1.0,True
+4482,id-ID,weather,weather_query,apakah saya perlu menyekop jalan masuk saya pagi ini,transport_query,0.3205,0.0471,False
+4486,id-ID,weather,weather_query,berikan saya perkiraan cuaca minggu ini,weather_query,0.9987,0.9987,True
+4487,id-ID,weather,weather_query,apakah akan hujan hari kamis,weather_query,0.9998,0.9998,True
+4491,id-ID,news,news_query,apa berita terbaru tentang joko widodo,news_query,0.9762,0.9762,True
+4492,id-ID,news,news_query,apa statistik kejahatan untuk wilayah saya yang terbaru,qa_factoid,0.7756,0.1113,False
+4496,id-ID,news,news_query,apa yang diposting gadis hari ini,social_post,1.0,0.0,False
+4502,id-ID,datetime,datetime_query,hai jam berapa sekarang di jakarta,weather_query,0.9904,0.0003,False
+4524,id-ID,weather,weather_query,oki bagaimana ramalan cuaca hari ini,weather_query,0.9965,0.9965,True
+4547,id-ID,play,play_music,mulai playlist mengajak jalan anjing,play_music,1.0,1.0,True
+4567,id-ID,news,news_query,bacakan saya tajuk utama terrbaru detikcom,qa_factoid,1.0,0.0,False
+4580,id-ID,datetime,datetime_query,pukul berapa sekarang di cilegon,weather_query,0.9955,0.0,False
+4587,id-ID,play,play_music,mainkan favorit saya,qa_factoid,0.9974,0.0,False
+4589,id-ID,calendar,calendar_set,pasang notifikasi untuk pertandingan olahraga,iot_hue_lightoff,0.9063,0.0356,False
+4606,id-ID,news,news_query,cari informasi tentang saham hari ini,lists_query,0.7005,0.0429,False
+4614,id-ID,weather,weather_query,akankah suhu lebih tinggi dari empat puluh besok,weather_query,0.9997,0.9997,True
+4662,id-ID,news,news_query,berita dari m. n. c. t. v. alexa,social_post,0.9388,0.0,False
+4667,id-ID,datetime,datetime_query,waktu saat ini di,datetime_query,0.9912,0.9912,True
+4680,id-ID,weather,weather_query,haruskan saya memakai sandal atau sepatu dengan kaos kaki,qa_factoid,0.8732,0.0029,False
+4689,id-ID,weather,weather_query,kamu tau cuacanya,qa_factoid,1.0,0.0,False
+4692,id-ID,play,play_music,putarkan lagu dari van halen,play_music,1.0,1.0,True
+4710,id-ID,datetime,datetime_query,halloween tahun ini hari apa,weather_query,0.9996,0.0,False
+4764,id-ID,weather,weather_query,apakah hari senin akan hujan,weather_query,0.9998,0.9998,True
+4767,id-ID,news,news_query,apakah ada informasi baru mengenai tembok pembatas wilayah meksiko dan amerika,news_query,0.3495,0.3495,True
+4772,id-ID,datetime,datetime_query,beri tahu saya waktu di zona waktu ini,weather_query,0.989,0.0008,False
+4780,id-ID,datetime,datetime_query,hari apa ulang tahu saya di tahun ini tanggal dua puluh tujuh juni,datetime_query,0.962,0.962,True
+4784,id-ID,weather,weather_query,apakah aku butuh jaket,qa_factoid,0.9959,0.0001,False
+4813,id-ID,datetime,datetime_query,jam berapa di kota lain,weather_query,0.7428,0.0003,False
+4837,id-ID,news,news_query,apakah ada berita olly,news_query,0.9989,0.9989,True
+4838,id-ID,play,play_music,putar semua musik dari billy joel,play_music,1.0,1.0,True
+4871,id-ID,weather,weather_query,bagaimana cuaca di luar,weather_query,0.9906,0.9906,True
+4881,id-ID,datetime,datetime_query,cari waktu dan zona waktu setempat,qa_factoid,0.2866,0.1636,False
+4882,id-ID,datetime,datetime_query,di kota jam berapa,qa_factoid,0.9998,0.0,False
+4890,id-ID,calendar,calendar_set,pasang pemberitahuan tentang bencana cuaca terkini di indonesia,weather_query,0.9937,0.0003,False
+4909,id-ID,play,play_music,putar lagu lagu kahitna,play_music,0.9999,0.9999,True
+4917,id-ID,weather,weather_query,suhu di luar,iot_hue_lightoff,0.9547,0.0031,False
+4928,id-ID,play,play_music,putar soundtrack saya,play_music,1.0,1.0,True
+4933,id-ID,weather,weather_query,apakah akan hujan sekarang,weather_query,0.9996,0.9996,True
+4951,id-ID,datetime,datetime_query,saya ingin tahu saat ini pukul berapa,weather_query,0.9308,0.0667,False
+4953,id-ID,news,news_query,berita kecelakaan kereta api,qa_factoid,0.9997,0.0,False
+4957,id-ID,datetime,datetime_query,tanggal dua puluh tiga bulan ini jatuh di hari apa,weather_query,0.6843,0.2868,False
+4960,id-ID,play,play_music,musik noah,play_music,0.9999,0.9999,True
+4968,id-ID,qa,qa_factoid,siapa pemenang pemilu presiden tahun ini,qa_factoid,0.9999,0.9999,True
+4973,id-ID,play,play_music,olly putar monokrom,iot_hue_lightoff,0.9721,0.0011,False
+4998,id-ID,play,play_music,tambahkan lagu ini untuk memainkan lagu selanjutnya,play_music,1.0,1.0,True
+5009,id-ID,weather,weather_query,apakah saya membutuhkan payung minggu ini,qa_factoid,0.6559,0.0066,False
+5016,id-ID,news,news_query,beri tahu saya tentang bursa efek indonesia,qa_definition,0.1731,0.0323,False
+5027,id-ID,datetime,datetime_query,kapan hari jumat tanggal tiga belas berikutnya,calendar_remove,0.9684,0.0132,False
+5037,id-ID,weather,weather_query,seberapa dingin hari ini,weather_query,0.9971,0.9971,True
+5038,id-ID,weather,weather_query,bagaimana cuaca minggu ini,weather_query,0.9848,0.9848,True
+5040,id-ID,weather,weather_query,bagaimana cuaca saat ini,weather_query,0.9905,0.9905,True
+5062,id-ID,play,play_music,tolong putarkan lagu lagu dari tahun delapan puluhan,play_music,1.0,1.0,True
+5074,id-ID,weather,weather_query,bagaimana cuaca pekan ini,weather_query,0.9757,0.9757,True
+5085,id-ID,weather,weather_query,apa perkiraan cuaca di hari sabtu,weather_query,0.9983,0.9983,True
+5118,id-ID,play,play_music,sempurna,calendar_remove,0.518,0.0082,False
+5127,id-ID,news,news_query,inilah kebenaran tentang pembagian makanan dalam anggaran seseorang,qa_factoid,0.9997,0.0,False
+5131,id-ID,datetime,datetime_query,jam berapa sekarang di sumedang,weather_query,0.9981,0.0005,False
+5134,id-ID,play,play_music,temukan lagu dari playlist big band saya,play_music,0.9999,0.9999,True
+5156,id-ID,iot,iot_hue_lightoff,atur lampu ruang tengah matikan,iot_hue_lightoff,0.9727,0.9727,True
+5157,id-ID,iot,iot_hue_lightoff,olly ubah lampu jadi mati di ruang keluarga,iot_hue_lightoff,0.5206,0.5206,True
+5158,id-ID,play,play_music,mainkan lagu terakhir dari album abbas,play_music,1.0,1.0,True
+5159,id-ID,play,play_music,tolonglah bisakah kau memainkan lagu dari artis raisa,play_music,1.0,1.0,True
+5160,id-ID,play,play_music,bisakah kamu putar lagu dari tulus,play_music,0.9992,0.9992,True
+5176,id-ID,weather,weather_query,bagaimana kira kira cuaca minggu ini,weather_query,0.8522,0.8522,True
+5196,id-ID,news,news_query,saya ingin tahu tentang timor leste memisahkan diri dari indonesia,qa_definition,0.7093,0.0002,False
+5225,id-ID,datetime,datetime_query,hari rabu depan tanggal berapa,qa_factoid,0.9433,0.0256,False
+5243,id-ID,iot,iot_hue_lightoff,siri tolong matikan lampu mati di kamar mandi,iot_hue_lightoff,0.8437,0.8437,True
+5245,id-ID,news,news_query,atur notifikasi berita lingkungan,news_query,0.6144,0.6144,True
+5270,id-ID,news,news_query,apa yang menjadu berita terbaru saat ini,news_query,0.9983,0.9983,True
+5278,id-ID,play,play_music,tolong mainkan hanya musik jenis pop mix saja,play_music,0.9999,0.9999,True
+5279,id-ID,play,play_music,putar kembali lagu sedih di pemutar musik,play_music,0.9998,0.9998,True
+5286,id-ID,news,news_query,tunjukkan berita tentang imigrasi dari seputar indonesia pagi,news_query,0.9944,0.9944,True
+5296,id-ID,news,news_query,olly ambilkan saya berita populer dari c. n. n.,news_query,0.8914,0.8914,True
+5297,id-ID,news,news_query,dapatkan saya berita populer dari c. n. n.,news_query,0.997,0.997,True
+5301,id-ID,weather,weather_query,bagaimana cuaca tanggal dua puluh maret dua ribu tujuh belas,weather_query,0.9997,0.9997,True
+5307,id-ID,datetime,datetime_query,apakah hari ini dua puluh maret,weather_query,0.9977,0.0001,False
+5318,id-ID,play,play_music,tolong hanya putar lagu lagu noah,play_music,0.9744,0.9744,True
+5321,id-ID,weather,weather_query,menunjukkan cuaca,weather_query,0.9642,0.9642,True
+5328,id-ID,play,play_music,rock,qa_factoid,0.5125,0.0155,False
+5339,id-ID,weather,weather_query,kondisi dingin menurun,weather_query,0.1018,0.1018,True
+5341,id-ID,datetime,datetime_query,tolong peringatkan saya tentang waktu,qa_factoid,0.7001,0.0143,False
+5347,id-ID,play,play_music,mainkan musik techno,play_music,1.0,1.0,True
+5358,id-ID,datetime,datetime_query,perbaharui waktu terkini,calendar_remove,0.4048,0.0274,False
+5370,id-ID,news,news_query,apa kontroversi joko widodo terbaru,social_post,0.9949,0.0002,False
+5378,id-ID,play,play_music,s.,play_radio,0.1383,0.0381,False
+5401,id-ID,play,play_music,musik,play_music,0.9985,0.9985,True
+5410,id-ID,news,news_query,bacakan saya berita utama terbaru dari jawa pos,news_query,0.9925,0.9925,True
+5411,id-ID,news,news_query,apa berita utama di c. n. n.,news_query,0.9983,0.9983,True
+5413,id-ID,play,play_music,putar musik,play_music,1.0,1.0,True
+5414,id-ID,play,play_music,maukah kau menyalakn musik,play_music,0.9998,0.9998,True
+5427,id-ID,datetime,datetime_query,jam berapa di kanada saat ini,weather_query,0.9825,0.0003,False
+5433,id-ID,weather,weather_query,akankah nanti turun hujan,weather_query,0.9799,0.9799,True
+5439,id-ID,weather,weather_query,apakah saya membutuhkan payung malam ini,social_post,0.7275,0.0008,False
+5465,id-ID,weather,weather_query,bisakah saya memakai sandal saya hari ini,iot_hue_lightoff,0.1471,0.0897,False
+5468,id-ID,weather,weather_query,apakah saya perlu kacamata hitam,qa_factoid,0.2528,0.032,False
+5524,id-ID,weather,weather_query,cuaca saat ini,cooking_recipe,0.7734,0.0959,False
+5529,id-ID,weather,weather_query,jam berapa saya harus pergi mendaki,weather_query,0.9947,0.9947,True
+5557,id-ID,play,play_music,saya ingin reggae,play_music,0.9988,0.9988,True
+5577,id-ID,weather,weather_query,saya akan membutuhkan jaket penutup penuh jika terlalu badai di malam hari,qa_factoid,0.8744,0.0713,False
+5578,id-ID,weather,weather_query,saya akan butuh kaus kaki hangat di pagi musim dingin,weather_query,0.8924,0.8924,True
+5584,id-ID,iot,iot_hue_lightoff,tolong matikan lampu,iot_hue_lightoff,0.9851,0.9851,True
+5590,id-ID,weather,weather_query,buka suhu,qa_factoid,0.6306,0.0025,False
+5593,id-ID,play,play_music,mainkan virus oleh slank,play_music,0.9378,0.9378,True
+5619,id-ID,play,play_music,putar lagu sebelumnya,play_music,1.0,1.0,True
+5627,id-ID,play,play_music,mainkan untukku musik oleh dewa sembilan belas,play_music,1.0,1.0,True
+5640,id-ID,datetime,datetime_query,tampilkan tanggal,qa_factoid,0.855,0.0021,False
+5650,id-ID,weather,weather_query,tanya cuaca malam hari ini,weather_query,0.9882,0.9882,True
+5658,id-ID,play,play_music,putarkan musik oleh noah,play_music,1.0,1.0,True
+5661,id-ID,weather,weather_query,apakah saya harus membawa jas hujan,weather_query,0.4986,0.4986,True
+5671,id-ID,datetime,datetime_query,jam berapa di lamongan,weather_query,0.8954,0.0288,False
+5678,id-ID,datetime,datetime_query,tanggal lima belas agustus itu hari apa,datetime_query,0.9872,0.9872,True
+5683,id-ID,play,play_music,putarkan playlist saya lagu party,play_music,0.9992,0.9992,True
+5688,id-ID,news,news_query,tolong beri tahu saya berita utama,social_post,0.8089,0.1356,False
+5703,id-ID,datetime,datetime_query,jam berapa sekarang,weather_query,0.9971,0.0006,False
+5707,id-ID,play,play_music,dengarkan favorit saya,social_post,0.9373,0.0074,False
+5721,id-ID,weather,weather_query,tunjukkan cuaca besok di wilayah ini,weather_query,0.9963,0.9963,True
+5722,id-ID,weather,weather_query,tampilkan ramalan cuaca tujuh hari untuk minggu ini,weather_query,0.9125,0.9125,True
+5732,id-ID,weather,weather_query,haruskah saya segera mengganti ban salju,weather_query,0.5738,0.5738,True
+5757,id-ID,datetime,datetime_query,lima belas menit sebelum pukul dua,datetime_query,0.5719,0.5719,True
+5758,id-ID,weather,weather_query,bagaimana cuaca di ibu kota,weather_query,0.9976,0.9976,True
+5774,id-ID,datetime,datetime_query,waktu saat ini di d. k. i.,weather_query,0.4606,0.1762,False
+5797,id-ID,weather,weather_query,haruskah saya memakai jas hujan sebelum pergi,iot_hue_lightoff,0.8759,0.0305,False
+5813,id-ID,play,play_music,putar lagu beraksi,play_music,1.0,1.0,True
+5820,id-ID,play,play_music,manjakan telinga saya dengan noah,play_music,0.5499,0.5499,True
+5837,id-ID,weather,weather_query,beri tahu cuaca minggu ini,weather_query,0.9977,0.9977,True
+5871,id-ID,weather,weather_query,bagaimana iklim di sukabumi hari ini,weather_query,0.9964,0.9964,True
+5886,id-ID,news,news_query,topik hangat,qa_factoid,0.5663,0.0037,False
+5919,id-ID,news,news_query,apa berita terbaru pada lamaran dijembatan ampera,news_query,0.9979,0.9979,True
+5930,id-ID,news,news_query,apa saja berita terbaru dari jawa pos,news_query,0.9968,0.9968,True
+5948,id-ID,play,play_music,putar beberapa lagu enak dari playlist saya,play_music,0.9999,0.9999,True
+5953,id-ID,weather,weather_query,apakah kota ini lebih murah atau lebih mahal untuk hidup,qa_factoid,0.9857,0.0012,False
+5955,id-ID,weather,weather_query,seberapa aman hukum dan ketertiban di kota ini,qa_factoid,0.8765,0.0229,False
+5970,id-ID,play,play_music,saya ingin kamu putarkan sephia,lists_remove,0.303,0.0085,False
+5985,id-ID,news,news_query,tunjukkan berita terbaru dari p. b. b.,news_query,0.998,0.998,True
+5996,id-ID,weather,weather_query,apakah saya akan butuh sepatu salju siang ini,qa_factoid,0.4179,0.0575,False
+5997,id-ID,datetime,datetime_query,jam berapa sekarang di waktu indonesia tengah,weather_query,0.9975,0.0011,False
+6023,id-ID,weather,weather_query,apakah malam ini akan lembab,weather_query,0.9985,0.9985,True
+6024,id-ID,weather,weather_query,haruskah hari ini saya membawa sweter atau jaket ke kantor,weather_query,0.9908,0.9908,True
+6025,id-ID,weather,weather_query,apakah saya membutuhkan tabir surya siang ini,qa_factoid,0.9976,0.0002,False
+6027,id-ID,play,play_music,putar lagu lagu kesukaan,play_music,1.0,1.0,True
+6039,id-ID,weather,weather_query,apakah besok akan hujan,weather_query,0.9916,0.9916,True
+6041,id-ID,iot,iot_hue_lightoff,hai olly tolong matikan lampu,qa_definition,0.9512,0.0001,False
+6045,id-ID,play,play_music,tambahkan lagu yang dipilih,play_music,0.9994,0.9994,True
+6050,id-ID,weather,weather_query,apakah nanti aku membutuhkan tabir surya,qa_factoid,0.9994,0.0,False
+6055,id-ID,iot,iot_hue_lightoff,apa saya meninggalkan lampu menyala di garasi,iot_hue_lightoff,0.7364,0.7364,True
+6059,id-ID,play,play_music,putar musik rap,play_music,1.0,1.0,True
+6069,id-ID,weather,weather_query,apakah mungkin akan ada badai hari ini,qa_factoid,0.9997,0.0003,False
+6073,id-ID,iot,iot_hue_lightoff,matikan lampu teras,iot_hue_lightoff,0.9607,0.9607,True
+6074,id-ID,iot,iot_hue_lightoff,matikan lampu kamar tidur di jam setengah sepuluh malam,iot_hue_lightoff,0.9063,0.9063,True
+6077,id-ID,news,news_query,saya ingin mendengar berita dunia terbaru dari hari ini,news_query,0.999,0.999,True
+6093,id-ID,weather,weather_query,haruskah saya membuka kaca atap mobil,iot_hue_lightoff,0.9896,0.0011,False
+6103,id-ID,weather,weather_query,hey bagaimana cuaca hari ini di bandung jawa barat,weather_query,0.9982,0.9982,True
+6116,id-ID,weather,weather_query,info cuaca minggu ini,weather_query,0.9354,0.9354,True
+6118,id-ID,datetime,datetime_query,hei sekarang jam berapa di kuningan jawa barat,weather_query,0.9969,0.0006,False
+6127,id-ID,weather,weather_query,apakah kamu menyarankan membawa payung,social_post,0.9589,0.0002,False
+6129,id-ID,news,news_query,tetap perbarui saya tentang berita dunia,news_query,0.9976,0.9976,True
+6151,id-ID,weather,weather_query,saya ingin tau cuaca hari ini,weather_query,0.9995,0.9995,True
+6172,id-ID,weather,weather_query,apakah kaca mata hitam pilihan yang tepat hari ini,recommendation_events,0.9866,0.0001,False
+6177,id-ID,weather,weather_query,apakah saya akan membutuhkan payung hari ini,recommendation_events,0.6639,0.0046,False
+6178,id-ID,weather,weather_query,apakah saya perlu memakai jaket,qa_factoid,0.6752,0.0036,False
+6194,id-ID,weather,weather_query,bagaimana cuaca hari ini,weather_query,0.9961,0.9961,True
+6289,id-ID,weather,weather_query,hey bagaimana cuaca hari ini,weather_query,0.9986,0.9986,True
+6370,id-ID,calendar,calendar_query,bagaimana minggu saya yang akan datang,email_sendemail,0.8703,0.0043,False
+6372,id-ID,news,news_query,berita makanan vegetarian,cooking_recipe,0.9996,0.0,False
+6403,id-ID,transport,transport_query,bagaimana cara pergi ke suatu tempat,cooking_recipe,0.7739,0.0793,False
+6410,id-ID,news,news_query,apa yang terjadi di prancis hari ini,news_query,0.5791,0.5791,True
+6411,id-ID,weather,weather_query,bagaimana cuaca rabu depan,weather_query,0.8581,0.8581,True
+6539,id-ID,calendar,calendar_set,tandai hari ini sebagai awal dari diet saya,cooking_recipe,0.6937,0.0033,False
+6542,id-ID,cooking,cooking_recipe,apakah keju lembut lebih baik dari yang keras,cooking_recipe,0.7464,0.7464,True
+6618,id-ID,news,news_query,berikan berita menarik,social_post,0.8405,0.0051,False
+6682,id-ID,news,news_query,pemilu di atas,email_sendemail,0.9659,0.0001,False
+6683,id-ID,news,news_query,bidang perekonomian,qa_definition,0.184,0.0173,False
+6713,id-ID,calendar,calendar_remove,batalkan rapat bisnis di hari rabu,calendar_remove,0.9807,0.9807,True
+6722,id-ID,calendar,calendar_query,apakah ada sesuatu yang harus saya ingatkan,qa_factoid,0.9922,0.0001,False
+6725,id-ID,calendar,calendar_set,ingatkan saya untuk jadwal saya di siang hari,qa_factoid,0.7998,0.0257,False
+6726,id-ID,calendar,calendar_remove,batalkan rapat berikutnya,qa_factoid,0.9316,0.0417,False
+6729,id-ID,calendar,calendar_remove,batalkan sarapan di rumah tiffany,calendar_remove,0.787,0.787,True
+6732,id-ID,calendar,calendar_set,tambahkan pengingat pertemuan hari minggu dengan mertua saya,calendar_remove,0.8089,0.0467,False
+6744,id-ID,calendar,calendar_set,pasang pertemuan dengan parto besok jam sepuluh pagi di kalender,calendar_set,0.4938,0.4938,True
+6746,id-ID,calendar,calendar_set,atur minggu pertama bulan juni sebagai hari libur di kalender saya,calendar_set,0.9719,0.9719,True
+6747,id-ID,calendar,calendar_query,ada berapa pengingat yang saya punya,qa_factoid,0.9989,0.0,False
+6755,id-ID,calendar,calendar_remove,tolong hapus kalender saya,calendar_set,0.472,0.3323,False
+6761,id-ID,calendar,calendar_remove,hapus dari kalender saya pertemuan jam sembilan pagi,calendar_remove,1.0,1.0,True
+6764,id-ID,calendar,calendar_set,ingatkan saya untuk mencuci jendela,lists_remove,0.6545,0.011,False
+6774,id-ID,calendar,calendar_set,atur acara untuk hari jumat,cooking_recipe,0.5218,0.4584,False
+6785,id-ID,calendar,calendar_query,apa pengingatku berikutnya,recommendation_events,0.6827,0.0025,False
+6789,id-ID,calendar,calendar_set,buat pertemuan dengan dinda hari sabtu jam empat sore,qa_factoid,0.8988,0.0034,False
+6798,id-ID,calendar,calendar_remove,hapus acara saya berikutnya,calendar_remove,0.9811,0.9811,True
+6801,id-ID,calendar,calendar_query,tampilkan rapat saya jumat ini,calendar_remove,0.5229,0.011,False
+6806,id-ID,calendar,calendar_query,tampilkan acara kalender saya untuk jumat sore ini,calendar_remove,1.0,0.0,False
+6815,id-ID,calendar,calendar_set,ingatkan saya hari ulang tahun ibu satu minggu sebelumnya,qa_factoid,0.971,0.0005,False
+6819,id-ID,calendar,calendar_set,olly ada band bagus bermain malam ini jam sembilan di bar joko saya ingin pergi,social_post,0.5739,0.0044,False
+6836,id-ID,calendar,calendar_set,ingatkan saya tentang pertemuan besok jam enam,social_post,0.8862,0.0009,False
+6850,id-ID,calendar,calendar_query,cek daftar jadwal saya hari ini,calendar_set,0.9778,0.0179,False
+6856,id-ID,calendar,calendar_set,berikan saya notifikasi pengingat untuk rapat besok pukul sepuluh pagi,qa_factoid,0.4818,0.1493,False
+6860,id-ID,calendar,calendar_query,apakah ada acara yang akan datang,qa_factoid,0.9285,0.0021,False
+6865,id-ID,calendar,calendar_set,pasang pemberitahuan tentang pertemuan besok jam sepuluh,email_sendemail,0.2642,0.088,False
+6878,id-ID,calendar,calendar_set,jadwalkan pertemuan dengan departemen akuntansi jam dua tiga puluh siang di hari jumat,calendar_remove,0.8183,0.1484,False
+6891,id-ID,calendar,calendar_query,apakah ada pertunjukan pagi yang tersedia,qa_factoid,0.9467,0.0012,False
+6892,id-ID,calendar,calendar_query,bisakah anda memberikan saya jadwal filmnya,recommendation_events,0.8825,0.0044,False
+6897,id-ID,calendar,calendar_set,ingatkan saya untuk menjemput linda pada jam lima sore tanggal tujuh,qa_factoid,0.2954,0.0173,False
+6901,id-ID,calendar,calendar_set,ingatkan saya besok jam sepuluh pagi untuk rapat,qa_factoid,0.9939,0.0,False
+6902,id-ID,calendar,calendar_set,pasang pengingat untuk bulan depan untuk ganti oli,iot_hue_lightoff,0.7392,0.0628,False
+6909,id-ID,calendar,calendar_query,apa yang terjadi setelah jam satu sebelum jam tiga sore,weather_query,0.9963,0.0011,False
+6918,id-ID,calendar,calendar_remove,hapus acara dari kalender,calendar_remove,1.0,1.0,True
+6923,id-ID,calendar,calendar_set,pasang pengingat untuk mencetak dokumen dokumen hari selasa pagi,iot_hue_lightoff,0.5021,0.2666,False
+6926,id-ID,calendar,calendar_query,apakah ini hari jumat,weather_query,0.989,0.0001,False
+6928,id-ID,calendar,calendar_remove,hapus semua acara,calendar_remove,0.8265,0.8265,True
+6936,id-ID,calendar,calendar_set,ingatkan saya untuk meminum obat jam sembilan pagi,qa_factoid,0.421,0.0088,False
+6937,id-ID,calendar,calendar_set,pasang pengingat di siang hari untuk makan siang dengan bos,cooking_recipe,0.5104,0.0948,False
+6946,id-ID,calendar,calendar_query,apakah ada rapat yang diatur hari rabu depan,qa_factoid,0.9722,0.0012,False
+6958,id-ID,calendar,calendar_remove,pastikan tidak ada acara di kalender aku,calendar_remove,1.0,1.0,True
+6959,id-ID,calendar,calendar_set,ingatkan saya untuk rapat satu jam sebelum dimulai,qa_factoid,0.8988,0.0016,False
+6962,id-ID,calendar,calendar_set,bisakah saya tahu apa yang saya harus lakukan hari sabtu depan jam enam sore,cooking_recipe,0.3154,0.0175,False
+6964,id-ID,calendar,calendar_set,bisakah anda mengingatkan saya satu jam sebelum rapat saya berikutnya dengan bos saya,email_query,0.5597,0.0053,False
+6967,id-ID,calendar,calendar_query,dapatkah anda memeriksa fakta tentang masalah ini,qa_factoid,0.9999,0.0,False
+6968,id-ID,calendar,calendar_query,saya butuh memastikan semua rapat hari ini bisa mengundang orang,iot_hue_lightoff,0.1618,0.0519,False
+6973,id-ID,calendar,calendar_set,tambahkan pengingat untuk konferensi besok di bandung,calendar_remove,0.6405,0.1315,False
+6974,id-ID,calendar,calendar_set,saya ada acara di jakarta besok ingatkan saya,qa_factoid,0.9514,0.0015,False
+6980,id-ID,calendar,calendar_query,berikan saya daftar hal yang harus dilakukan,cooking_recipe,0.9272,0.0018,False
+6992,id-ID,calendar,calendar_query,tampilkan acara yang akan datang,calendar_remove,0.9693,0.0011,False
+6994,id-ID,calendar,calendar_set,ingatkan saya pada,qa_factoid,0.8536,0.0001,False
+6997,id-ID,calendar,calendar_remove,hapus semua acara yang sudah berhasil,calendar_remove,0.7374,0.7374,True
+7000,id-ID,calendar,calendar_set,acara baru,qa_factoid,0.9533,0.002,False
+7004,id-ID,calendar,calendar_set,tambahkan pengingat ke kalender saya setiap tahun di tanggal ini,email_sendemail,0.4887,0.4489,False
+7013,id-ID,calendar,calendar_query,kapan acara dimulai,qa_factoid,0.9965,0.0,False
+7014,id-ID,calendar,calendar_query,berikan ke saya jadwal acara hari ini,calendar_remove,0.9749,0.0175,False
+7025,id-ID,calendar,calendar_remove,hapus tahun baru dari kalender,calendar_remove,0.9999,0.9999,True
+7026,id-ID,recommendation,recommendation_events,acara apa yang berlangsung di kota saya minggu ini,social_post,0.1914,0.1385,False
+7039,id-ID,calendar,calendar_set,atur untuk saya rapat hari selasa depan pukul sebelas pagi dengan joko,social_post,0.728,0.0026,False
+7044,id-ID,calendar,calendar_set,tolong ingatkan aku untuk mulai siap siap sebelum jam lima sore,calendar_set,0.3249,0.3249,True
+7046,id-ID,calendar,calendar_set,tambahkan rapat panitia tanggal dua puluh satu pukul tujuh,calendar_remove,0.8838,0.0293,False
+7055,id-ID,calendar,calendar_set,jadwalkan pertemuan dengan matt pukul sebelas siang hari kamis,calendar_set,0.6448,0.6448,True
+7057,id-ID,calendar,calendar_set,ada pertemuan makan siang dengan brent pada hari rabu siang ini,social_post,0.7109,0.0062,False
+7061,id-ID,calendar,calendar_set,beri aku pengingat dua empat jam sebelum rapat jumat aku dengan rani,calendar_remove,0.2502,0.04,False
+7073,id-ID,calendar,calendar_set,cari di kalender saya untuk acara berikutnya dan ingatkan saya sebelumnya,calendar_query,0.5036,0.0661,False
+7080,id-ID,calendar,calendar_remove,batalkan semua nya dari kalender saya,calendar_remove,0.9983,0.9983,True
+7087,id-ID,calendar,calendar_remove,tolong batalkan rapat besok dari kalender saya,calendar_remove,0.9985,0.9985,True
+7098,id-ID,calendar,calendar_set,tambahkan pembayaran mobil saya pada tanggal dua belas di kalender saya,calendar_remove,0.9716,0.0031,False
+7100,id-ID,calendar,calendar_set,ingatkan saya satu hari sebelum tenggat waktu mobil saya,qa_factoid,0.659,0.0004,False
+7111,id-ID,calendar,calendar_query,jam berapa janji dengan dokter aku di tanggal tiga satu maret,weather_query,0.9632,0.0005,False
+7113,id-ID,calendar,calendar_query,apakah ada acara di pusat kota akhir pekan ini,news_query,0.9553,0.0017,False
+7117,id-ID,calendar,calendar_remove,hapus acara di tanggal sembilan belas dari kalender aku,calendar_remove,1.0,1.0,True
+7120,id-ID,calendar,calendar_query,apa jadwal aku hari ini,calendar_remove,0.5827,0.3619,False
+7122,id-ID,calendar,calendar_set,bisa ulangi acara ini,play_music,0.4876,0.0014,False
+7140,id-ID,calendar,calendar_set,buat pengingat untuk memberitahu saya satu jam sebelum pertemuan makan siang,email_sendemail,0.8308,0.0028,False
+7141,id-ID,calendar,calendar_query,apakah program ini sudah dijadwalkan,qa_factoid,0.9893,0.0001,False
+7151,id-ID,calendar,calendar_set,setiap minggu tanggal ganjil atur sebagai pengingat,email_sendemail,0.6506,0.0356,False
+7152,id-ID,calendar,calendar_set,atur makan siang setiap hari jam dua belas tiga puluh,cooking_recipe,0.8881,0.0625,False
+7161,id-ID,calendar,calendar_set,ingatkan saya acara ini kedepannya,qa_factoid,0.9855,0.0001,False
+7170,id-ID,calendar,calendar_set,hari ini hari ulang tahun ibu saya kirim notifikasi setiap tahun di tanggal ini,datetime_query,0.4708,0.1557,False
+7181,id-ID,calendar,calendar_set,bangunkan saya jam enam pagi hari kamis agar saya punya waktu untuk rapat,social_post,0.433,0.0357,False
+7185,id-ID,calendar,calendar_query,kapan janji temu saya berikutnya dengan dokter smith,social_post,0.6577,0.0023,False
+7189,id-ID,calendar,calendar_query,apakah saya mempunyai rencana lainnya,cooking_recipe,0.2984,0.009,False
+7194,id-ID,calendar,calendar_set,saya ada rapat besok tolong atur,calendar_remove,0.6073,0.0053,False
+7196,id-ID,calendar,calendar_set,ingatkan aku tentang rapat dengan della tanggal lima belas maret,email_sendemail,1.0,0.0,False
+7199,id-ID,calendar,calendar_set,pasang notifikasi untuk tiga dua dan satu jam sebelum ujian akhir bahasa inggris minggu depan,iot_hue_lightoff,0.8418,0.0049,False
+7209,id-ID,calendar,calendar_set,tolong ingatkan saya untuk mengeluarkan sampah pada selasa,lists_remove,0.3393,0.0032,False
+7219,id-ID,calendar,calendar_query,bisakah kau menempatkan pengingat tentang pertemuan untuk besok,lists_query,0.2695,0.0351,False
+7224,id-ID,calendar,calendar_query,dimana tempat pernikahan tom akan berlangsung,qa_factoid,0.6759,0.0093,False
+7232,id-ID,calendar,calendar_query,apa acara minggu depan,qa_factoid,0.9678,0.0011,False
+7257,id-ID,calendar,calendar_set,tolong ingatkan aku untuk menelepon ibu dalam setengah jam,email_sendemail,0.8333,0.0028,False
+7258,id-ID,calendar,calendar_set,ingatkan aku untuk kirim email ke bos setelah satu jam,email_sendemail,0.9999,0.0,False
+7262,id-ID,calendar,calendar_set,buat notifikasi pengingat untuk rapat besok,cooking_recipe,0.6693,0.0013,False
+7266,id-ID,calendar,calendar_query,apa tugas saya yang tertunda,qa_factoid,0.2856,0.0401,False
+7278,id-ID,calendar,calendar_set,ingatkan saya hari ulang tahun rita dua puluh empat jam sebelumnya,weather_query,0.5932,0.001,False
+7287,id-ID,calendar,calendar_set,ingatkan aku tentang hari jadi satu hari sebelumnya,weather_query,0.9619,0.0002,False
+7289,id-ID,calendar,calendar_remove,hapus semua acara dengan johan,lists_remove,0.7935,0.167,False
+7291,id-ID,calendar,calendar_set,atur satu jam sebelum jam sepuluh besok pagi,calendar_set,0.8525,0.8525,True
+7292,id-ID,calendar,calendar_set,saya tidak tersedia dari jam empat sampai jam enam besok malam tandai kalender saya,calendar_query,0.6318,0.1699,False
+7293,id-ID,calendar,calendar_set,jadwalkan janji temu satu jam di hari sabtu,calendar_remove,0.9253,0.0098,False
+7294,id-ID,calendar,calendar_remove,hapus janji temu dengan gilang ramadhan dari kalender saya,calendar_remove,0.8912,0.8912,True
+7295,id-ID,calendar,calendar_remove,tolong bersihkan kalender aku,calendar_remove,0.9999,0.9999,True
+7314,id-ID,calendar,calendar_query,ada apa hari ini,weather_query,0.7639,0.0043,False
+7316,id-ID,calendar,calendar_query,apakah saya punya suatu janji,weather_query,0.308,0.005,False
+7319,id-ID,calendar,calendar_query,apa agenda hari ini dari jam dua sampai empat sore,calendar_remove,0.4552,0.422,False
+7353,id-ID,email,email_query,beritahu saya cuaca minggu depan di medan,weather_query,0.999,0.0001,False
+7355,id-ID,calendar,calendar_set,ingatkan saya untuk mengecek rebusan jam enam tepat,cooking_recipe,0.9609,0.0002,False
+7380,id-ID,calendar,calendar_query,tampilkan rapat hari ini dengan klien,social_post,0.6135,0.0131,False
+7397,id-ID,calendar,calendar_query,berapa banyak rencana acara untuk tiga bulan kedepan,qa_factoid,0.9357,0.0016,False
+7449,id-ID,calendar,calendar_set,tolong jadwalkan pertemuan dengan orang ini,calendar_remove,0.677,0.1518,False
+7450,id-ID,calendar,calendar_set,saya butuh rapat dijadwalkan dengan orang ini,qa_factoid,0.958,0.0006,False
+7455,id-ID,calendar,calendar_set,ingatkan saya tentang pesta besok,social_post,0.9968,0.0001,False
+7461,id-ID,calendar,calendar_set,undang orang orang ke acara kalender,calendar_set,0.9845,0.9845,True
+7463,id-ID,calendar,calendar_set,beri tahu grup saya bahwa tanggal rapat baru adalah besok,calendar_remove,0.6864,0.0227,False
+7467,id-ID,calendar,calendar_query,beri tahu saya waktu acara,qa_factoid,0.8123,0.0005,False
+7477,id-ID,calendar,calendar_set,ingatkan saya pada tanggal lima maret setiap tahun untuk mempersiapkan hadiah ulang tahun pernikahan,cooking_recipe,0.5383,0.2296,False
+7496,id-ID,calendar,calendar_query,apa saya punya janji temu hari ini,social_post,0.8709,0.0048,False
+7499,id-ID,calendar,calendar_set,buat jadwal baru untuk rapat besok,calendar_remove,0.6265,0.3636,False
+7500,id-ID,calendar,calendar_remove,bisakah anda menghapus acara berikutnya,calendar_remove,0.9806,0.9806,True
+7502,id-ID,calendar,calendar_query,apa yang ada di agenda untuk rapat jam empat sore dengan joe,calendar_set,0.3825,0.2263,False
+7503,id-ID,calendar,calendar_query,di sebelah mana jawa barat rapat jam satu siang di hari jumat itu,weather_query,0.4794,0.0069,False
+7520,id-ID,calendar,calendar_set,ingatkan saya setiap hari jam dua siang untuk makan siang,cooking_recipe,0.8193,0.0005,False
+7524,id-ID,calendar,calendar_query,seberapa banyak mehta mau berinvestasi di perusahaan saya pada rapat yang diadakan hari ini jam lima dua puluh sore,email_sendemail,0.9781,0.0003,False
+7528,id-ID,calendar,calendar_set,tanggal tiga belas juni adalah hari keluarnya hasil pemilu tolong atur itu,datetime_query,0.9967,0.0001,False
+7531,id-ID,calendar,calendar_set,tolong tambahkan hari gajian saya,iot_hue_lightoff,0.3239,0.0045,False
+7539,id-ID,calendar,calendar_query,apakah saya memiliki sesuatu yang terjadi,qa_factoid,0.9881,0.0002,False
+7542,id-ID,calendar,calendar_set,tolong ingatkan saya mengenai ini besok,social_post,0.9337,0.0003,False
+7549,id-ID,calendar,calendar_set,saya ingin rapat hingga jam tiga sore,iot_hue_lightoff,0.2674,0.0189,False
+7556,id-ID,calendar,calendar_set,atur kalender saya untuk mengingatkan membeli bahan makanan setiap hari jumat,calendar_set,0.9954,0.9954,True
+7557,id-ID,calendar,calendar_set,buat pengingat untuk lokasi a di kalender,qa_factoid,0.5235,0.1061,False
+7559,id-ID,calendar,calendar_set,ingatkan saya malam ini untuk mengambil dry cleaning saya pukul delapan malam,qa_factoid,0.6947,0.0122,False
+7563,id-ID,calendar,calendar_set,ingatkan saya tentang rapat besok satu jam sebelum,email_sendemail,0.4727,0.0017,False
+7565,id-ID,calendar,calendar_set,pengingat rapat,qa_factoid,0.9686,0.0009,False
+7567,id-ID,calendar,calendar_set,ulang tahun,email_sendemail,0.7326,0.0118,False
+7569,id-ID,calendar,calendar_query,rencanakan untuk besok,qa_factoid,0.3625,0.0759,False
+7570,id-ID,calendar,calendar_query,apa rencana hari ini,cooking_recipe,0.4684,0.0186,False
+7583,id-ID,calendar,calendar_set,sobat menambahkan acara di kalender,calendar_set,0.9994,0.9994,True
+7596,id-ID,calendar,calendar_set,tolong jadwalkan rapat dengan derrick di hilton di siang hari,social_post,0.5707,0.2217,False
+7598,id-ID,calendar,calendar_set,tolong atur rapat untuk mendiskusikan terorisme dengan jaka pada rapat yang tersedia berikutnya,qa_factoid,0.4783,0.0127,False
+7606,id-ID,calendar,calendar_set,bertemu dengan agus besok jam tiga,cooking_recipe,0.7311,0.0002,False
+7609,id-ID,calendar,calendar_remove,hapus pengingat rapat untuk selasa,email_sendemail,0.7431,0.2135,False
+7613,id-ID,calendar,calendar_query,apa acara selanjutnya,qa_factoid,0.9979,0.0,False
+7628,id-ID,calendar,calendar_set,ingatkan aku untuk membuat kartu perpustakaan yang baru ketika di perpustakaan,qa_factoid,0.6836,0.0109,False
+7654,id-ID,calendar,calendar_set,tandai tanggal dua puluh april sebagai hari ulang tahun saudara laki laki,datetime_query,0.4077,0.1662,False
+7655,id-ID,calendar,calendar_set,tambahkan pengingat untuk dua puluh april sebagai ulang tahun kakak saya,calendar_set,0.4762,0.4762,True
+7660,id-ID,calendar,calendar_remove,batalkan semua janji saya jam tiga sore hari ini dan informasikan detilnya,qa_factoid,0.6194,0.1903,False
+7662,id-ID,calendar,calendar_query,dapatkah kamu membuat daftar pertemuan saya hari ini,lists_remove,0.6907,0.0064,False
+7664,id-ID,calendar,calendar_set,tambahkan makan siang dengan joko,cooking_recipe,0.9816,0.0007,False
+7666,id-ID,calendar,calendar_set,tolong tandai pertemuan saya dengan tom jam tiga besok,email_sendemail,0.9999,0.0,False
+7680,id-ID,calendar,calendar_remove,di kalender saya hapus semua acara golf di bulan ini,calendar_remove,0.9999,0.9999,True
+7686,id-ID,calendar,calendar_set,masukkan dika dan dimas ke festival di kalender,cooking_recipe,0.9789,0.0201,False
+7690,id-ID,calendar,calendar_query,apa yang saya miliki datang,recommendation_events,0.4098,0.0102,False
+7693,id-ID,calendar,calendar_query,apakah saya ada rencana tanggal dua puluh satu,social_post,0.3566,0.0239,False
+7697,id-ID,calendar,calendar_set,pasang pengingat untuk ini,iot_hue_lightoff,0.7963,0.005,False
+7711,id-ID,calendar,calendar_set,hai batalkan semua pertemuan lain dan panggilan saya untuk tanggal dua maret karena itu ulang tahun dika tandai itu sebagai acara di kalender,calendar_remove,0.9982,0.0004,False
+7712,id-ID,calendar,calendar_set,hei olly batalkan semua rapat dan panggilan saya yang lain tanggal dua maret karena itu adalah hari ulang tahun dodi tandai itu sebagai acara di kalender,calendar_remove,0.9965,0.0001,False
+7718,id-ID,calendar,calendar_set,hei kirim undangan rapat ke ibu rosa untuk rapat jumat ini dan tandai kalender saya untuk jumat siang,email_sendemail,0.6675,0.1935,False
+7726,id-ID,calendar,calendar_set,saya perlu melakukan sesuatu setiap senin atur pengingat untuk itu,calendar_remove,0.2605,0.0327,False
+7730,id-ID,calendar,calendar_set,saya perlu kamu menandai hari senin depan,weather_query,0.9425,0.0051,False
+7741,id-ID,calendar,calendar_remove,hapus kalender saya untuk hari sabtu,calendar_remove,1.0,1.0,True
+7751,id-ID,calendar,calendar_set,ingatkan saya setiap hari senin untuk membuang sampah,calendar_remove,0.8816,0.0001,False
+7762,id-ID,calendar,calendar_query,pengingat apa yang saya punya,email_query,0.4335,0.008,False
+7767,id-ID,calendar,calendar_set,tambahkan latihan ke kalender pada tanggal empat februari di taman mini jam dua siang,calendar_set,0.9643,0.9643,True
+7768,id-ID,calendar,calendar_set,tolong masukkan latihan tanggal empat februari di alun alun pukul dua siang,iot_hue_lightoff,0.9935,0.0005,False
+7774,id-ID,calendar,calendar_set,tambahkan belanja ke kalender saya besok,calendar_set,0.9896,0.9896,True
+7777,id-ID,calendar,calendar_query,apakah saya punya janji hari ini,weather_query,0.9931,0.0002,False
+7778,id-ID,calendar,calendar_set,ingatkan saya apa yang saya lakukan di hari minggu siang,cooking_recipe,0.5808,0.0019,False
+7808,id-ID,calendar,calendar_set,ingatkan aku buat antar ibu ke salon di hari kamis jam sebelas siang,cooking_recipe,0.753,0.0017,False
+7817,id-ID,calendar,calendar_query,apakah benar tentang tanggal ini,qa_factoid,0.9998,0.0,False
+7820,id-ID,calendar,calendar_remove,hapus semua acara di kalender,calendar_remove,1.0,1.0,True
+7836,id-ID,calendar,calendar_remove,hapus semua acara,calendar_remove,0.8265,0.8265,True
+7843,id-ID,calendar,calendar_set,beritahu saya dua jam lagi kalau saya harus pergi untuk pelajaran biola saya pukul empat sore di jamtos,calendar_query,0.2478,0.1401,False
+7844,id-ID,calendar,calendar_query,pengingat apa yang saya setel,calendar_set,0.5148,0.0145,False
+7847,id-ID,calendar,calendar_set,ingatkan saya kapan pendaftaran dibuka,qa_factoid,0.9957,0.0002,False
+7851,id-ID,calendar,calendar_set,saya ada rapat siang hari ini,social_post,0.99,0.0004,False
+7863,id-ID,calendar,calendar_set,ingatkan aku mulai makan malam jam lima sore ini,cooking_recipe,0.945,0.0011,False
+7870,id-ID,calendar,calendar_remove,hapus acara dari kalender saya,calendar_remove,1.0,1.0,True
+7876,id-ID,news,news_query,apa saja yang telah terjadi dalam dua bulan terakhir,news_query,0.9894,0.9894,True
+7878,id-ID,calendar,calendar_remove,hapus kalender saya,calendar_remove,0.9998,0.9998,True
+7879,id-ID,calendar,calendar_query,apa tiga acara saya berikutnya,qa_factoid,0.673,0.0016,False
+7889,id-ID,calendar,calendar_query,jam berapa pertandingan sepak bola malam ini,weather_query,0.994,0.0002,False
+7890,id-ID,calendar,calendar_remove,hapus potong rambut hari ini,iot_hue_lightoff,0.4405,0.0062,False
+7891,id-ID,calendar,calendar_remove,batalkan makan malam malam ini,calendar_remove,0.6705,0.6705,True
+7892,id-ID,calendar,calendar_remove,hapus acara selanjutnya hari ini,calendar_remove,0.9552,0.9552,True
+7894,id-ID,calendar,calendar_set,berikan saya berita terbaru mengenai pemilu dalam satu jam,news_query,0.8778,0.003,False
+7902,id-ID,calendar,calendar_set,atur pertemuan antara saya dan john pada jam dua siang besok,email_sendemail,0.891,0.0012,False
+7908,id-ID,calendar,calendar_query,hari ini,weather_query,0.959,0.0002,False
+7912,id-ID,calendar,calendar_remove,alexa hapus makan malam dengan dodi dari kalender saya,calendar_remove,0.9906,0.9906,True
+7916,id-ID,calendar,calendar_set,ingatkan aku untuk buang sampah pada pukul enam sore,lists_remove,0.7067,0.0033,False
+7918,id-ID,calendar,calendar_set,kirimkan undangan kalender acara kepada citra lestari,calendar_set,0.9989,0.9989,True
+7919,id-ID,calendar,calendar_set,tolong tambahkan pertemuan baru dengan budi dan linda sebagai peserta,email_sendemail,0.6751,0.0015,False
+7922,id-ID,calendar,calendar_remove,buka tugas dan hapus acara acara mendatang,calendar_remove,0.9196,0.9196,True
+7927,id-ID,calendar,calendar_query,apa jadwal saya minggu ini,calendar_remove,0.5214,0.3774,False
+7946,id-ID,calendar,calendar_query,konser apa yang akan datang di jambi,play_music,0.7866,0.0005,False
+7953,id-ID,calendar,calendar_remove,tolong hapus janji temu dengan dokter aku di hari sabtu,calendar_remove,0.366,0.366,True
+7955,id-ID,calendar,calendar_set,tambahkan acara ini dalam pola berulang di kalender aku,calendar_set,0.9284,0.9284,True
+7956,id-ID,calendar,calendar_set,bisakah kau membuat acara ini terus berulang-ulang,qa_factoid,0.8444,0.0017,False
+7966,id-ID,calendar,calendar_query,bisakah saya memberitahukan kamu untuk mengingatkan sesuatu tentang saya,social_post,0.2811,0.009,False
+7970,id-ID,calendar,calendar_set,ingatkan aku tentang acara pernikahan tepat waktu untuk membeli hadiah,cooking_recipe,0.3897,0.008,False
+7971,id-ID,calendar,calendar_set,atur pengingat untuk dua hari sebelum acara,iot_hue_lightoff,0.8337,0.0256,False
+7975,id-ID,calendar,calendar_query,apakah ada layanan pelayan di acara tersebut,qa_factoid,0.9709,0.0001,False
+7978,id-ID,calendar,calendar_query,pengingat apa yang aku punya sebelum siang besok,weather_query,0.3894,0.008,False
+7980,id-ID,calendar,calendar_set,kasih tahu kapan aku ada acara,datetime_query,0.7378,0.0005,False
+7981,id-ID,calendar,calendar_set,kirim pengingat sebelum rapat,email_sendemail,1.0,0.0,False
+7993,id-ID,calendar,calendar_remove,hapus semua acara dari kalender aku,calendar_remove,1.0,1.0,True
+8001,id-ID,calendar,calendar_remove,hapus potong rambut yang sudah saya jadwalkan hari jumat,calendar_remove,0.6872,0.6872,True
+8004,id-ID,calendar,calendar_set,ratna perlu berbicara dengan saya terkait perceraian bisakah kau mengatur pertemuan saya selanjutnya jika saya bersedia,email_sendemail,0.86,0.0038,False
+8005,id-ID,calendar,calendar_set,senin tanggal dua puluh aku harus bicara dengan budi tentang perjalanan akhir pekan kami,email_sendemail,1.0,0.0,False
+8013,id-ID,calendar,calendar_query,tunjukkan saya pertemuan bulan depan,qa_factoid,0.4532,0.0153,False
+8029,id-ID,calendar,calendar_query,apa acara selanjutnya untuk hari ini,recommendation_events,0.4632,0.0258,False
+8033,id-ID,datetime,datetime_query,paskah jatuh di hari apa,weather_query,0.9969,0.0003,False
+8035,id-ID,calendar,calendar_set,ingatkan aku untuk pergi ganti oli,qa_factoid,0.9358,0.001,False
+8037,id-ID,calendar,calendar_set,ingatkan saya atas sesuatu pada suatu waktu,qa_factoid,0.8454,0.0024,False
+8042,id-ID,calendar,calendar_query,berapa banyak orang yang akan menghadiri rapat saya berikutnya,qa_factoid,0.6725,0.0092,False
+8043,id-ID,calendar,calendar_query,jam berapa janji temu saya selanjutnya,social_post,0.9881,0.0002,False
+8044,id-ID,calendar,calendar_query,apa jadwal aku hari ini,calendar_remove,0.5827,0.3619,False
+8055,id-ID,calendar,calendar_remove,hapus janji temu saya di tanggal tujuh maret,social_post,0.9995,0.0,False
+8056,id-ID,calendar,calendar_query,apakah saya ada kencan hari jumat,social_post,0.9186,0.0007,False
+8058,id-ID,calendar,calendar_query,apa aku ada rapat sales hari ini,qa_factoid,0.5014,0.0202,False
+8073,id-ID,calendar,calendar_set,jadwalkan rapat penjualan untuk hari rabu jam sebelas siang,calendar_remove,0.3743,0.1254,False
+8079,id-ID,calendar,calendar_set,pasang pengingat dalam satu jam untuk memanggang roti,cooking_recipe,0.9966,0.0001,False
+8084,id-ID,calendar,calendar_query,apa agenda acara,qa_factoid,0.3797,0.0828,False
+8085,id-ID,calendar,calendar_set,saya ingin mengatur kencan di pekan ini,recommendation_events,0.9909,0.0004,False
+8100,id-ID,email,email_sendemail,email janji temu saya untuk dijadwalkan ulang,email_sendemail,1.0,1.0,True
+8107,id-ID,calendar,calendar_set,tambahkan acara ulang tahun untuk juki,calendar_set,0.6552,0.6552,True
+8110,id-ID,calendar,calendar_set,tolong tambahkan pengawasan ke kalender saya,calendar_remove,0.5374,0.4199,False
+8116,id-ID,calendar,calendar_query,selama jangka waktu satu februari dan enam belas maret terdapat acara apa saja,news_query,0.5568,0.0146,False
+8119,id-ID,calendar,calendar_query,dimana pesta ulang tahun meri diadakan,qa_factoid,0.2876,0.0211,False
+8125,id-ID,calendar,calendar_set,buat acara rapat di kalender saya,qa_factoid,0.7919,0.176,False
+8126,id-ID,calendar,calendar_set,jadwal acara rapat di kalender saya,calendar_remove,0.8842,0.0926,False
+8129,id-ID,calendar,calendar_query,pengingat apa yang aku punya,email_query,0.5182,0.0081,False
+8140,id-ID,calendar,calendar_set,tolong atur pengingat untuk tanggal tiga belas karena saya ada makan siang dengan desta,calendar_remove,0.348,0.0315,False
+8148,id-ID,calendar,calendar_query,apakah saya meninggalkan pengingat,qa_factoid,0.604,0.0014,False
+8150,id-ID,calendar,calendar_query,apa aku ada pengingat untuk pesta ulang tahun,calendar_remove,0.7912,0.0705,False
+8165,id-ID,calendar,calendar_query,sidah jam dua belas tiga puluh siang kamu akan rapat dalam sepuluh menit,weather_query,0.6813,0.0053,False
+8182,id-ID,calendar,calendar_remove,bisa hapus janji temu dokter gigi,qa_factoid,0.5934,0.0142,False
+8188,id-ID,calendar,calendar_query,tanggal berapa ini,datetime_query,0.9857,0.0001,False
+8204,id-ID,calendar,calendar_set,tolong ingatkan saya untuk pergi ke kantor pos,social_post,0.4195,0.0033,False
+8206,id-ID,calendar,calendar_set,jangan biarkan saya lupa membeli kado untuk kakak saya,lists_remove,0.3533,0.0046,False
+8230,id-ID,calendar,calendar_query,seberapa lama pertemuan makan siang di hari selasa,datetime_query,0.3815,0.0157,False
+8241,id-ID,calendar,calendar_remove,hapus semuanya dari kalender saya di sisa tahun ini,calendar_remove,0.992,0.992,True
+8245,id-ID,calendar,calendar_set,saya perlu diingatkan untuk pelayanan gereja hari minggu jam sebelas pagi,email_sendemail,0.505,0.0062,False
+8248,id-ID,calendar,calendar_set,tambahkan kencan makan malam besok ke kalender,calendar_set,0.9656,0.9656,True
+8251,id-ID,calendar,calendar_set,saya perlu makan siang minggu depan untuk dimasukkan ke kalender,calendar_set,0.8994,0.8994,True
+8260,id-ID,calendar,calendar_set,tolong ingatkan saya sehari sebelum ulang tahun joko,qa_factoid,0.5885,0.0043,False
+8261,id-ID,calendar,calendar_set,kirimkan saya peringatan satu jam sebelum janji saya berikutnya,calendar_remove,0.6356,0.0091,False
+8269,id-ID,calendar,calendar_set,pengingat tiga puluh menit pada rapat di hari selasa,calendar_remove,0.2228,0.0663,False
+8276,id-ID,calendar,calendar_remove,hapus janji saya berikutnya yang sudah dijadwalkan,calendar_remove,0.9831,0.9831,True
+8280,id-ID,calendar,calendar_set,saya butuh mengatur pengingat untuk tanggal lima belas maret,calendar_set,0.936,0.936,True
+8284,id-ID,calendar,calendar_remove,hapus ulang tahun dari kalender,calendar_remove,0.9999,0.9999,True
+8289,id-ID,calendar,calendar_set,pasang pengingat tentang rapat fakultas jam empat hari ini,calendar_set,0.4727,0.4727,True
+8290,id-ID,calendar,calendar_set,buat pengingat untuk rapat manajer minggu depan hari selasa,email_sendemail,0.8473,0.005,False
+8294,id-ID,calendar,calendar_set,tambahkan ke kalender saya dan ulangi,calendar_set,0.8033,0.8033,True
+8300,id-ID,calendar,calendar_set,simpan acara jam lima sore sampai enam sore pada tanggal delapan belas maret,calendar_set,0.9989,0.9989,True
+8302,id-ID,calendar,calendar_remove,hapus rapat senin depan,email_sendemail,0.72,0.1608,False
+8308,id-ID,news,news_query,kemarin siang hari di bundaran hotel indonesia tentang apa protesnya,social_post,0.9999,0.0,False
+8336,id-ID,calendar,calendar_query,kapan makan siang saya dengan yani,cooking_recipe,0.9805,0.0007,False
+8343,id-ID,datetime,datetime_query,apakah sekarang hari rabu,weather_query,0.9984,0.0001,False
+8345,id-ID,calendar,calendar_set,beri tahu saya saat rapat akan segera dimulai,calendar_remove,0.7319,0.0078,False
+8347,id-ID,calendar,calendar_query,apa yang terjadi pada empat desember,news_query,0.5511,0.0124,False
+8358,id-ID,calendar,calendar_set,ingatkan saya akan ini,qa_factoid,0.9981,0.0,False
+8366,id-ID,calendar,calendar_set,buat acara berulang di tanggal delapan belas maret janji temu untuk ulang tahun ayu,qa_factoid,0.9036,0.0046,False
+8387,id-ID,calendar,calendar_set,buat pengingat untuk cuci baju pukul delapan malam,iot_hue_lightoff,0.456,0.0546,False
+8388,id-ID,calendar,calendar_set,saya ingin mencuci jam delapan malam buat pengingat,lists_remove,0.669,0.0046,False
+8390,id-ID,calendar,calendar_set,ingatkan saya kapan pertemuan saya,qa_factoid,0.9787,0.0005,False
+8394,id-ID,calendar,calendar_set,pasang pengingat setiap hari di siang hari untuk minum obat,iot_hue_lightoff,0.4621,0.4429,False
+8404,id-ID,calendar,calendar_query,saya ingin tahu lebih banyak tentang event ini,recommendation_events,0.9798,0.0011,False
+8409,id-ID,calendar,calendar_remove,hapus makan malam saya besok,cooking_recipe,0.9597,0.0143,False
+8410,id-ID,calendar,calendar_remove,hapus acara makan malam saya untuk hari senin,calendar_remove,0.9654,0.9654,True
+8413,id-ID,calendar,calendar_set,tolong ingatkan saya,qa_factoid,0.5015,0.0009,False
+8414,id-ID,calendar,calendar_set,ingatkan saya untuk pergi makan malam dengan david pada hari jumat jam lima sore,cooking_recipe,0.9976,0.0001,False
+8415,id-ID,calendar,calendar_set,tambahkan rapat di kantor dengan dika untuk jam tiga sore pada hari selasa,calendar_remove,0.4993,0.4032,False
+8426,id-ID,calendar,calendar_query,beri tahu saya acara saat ini antara kemarin dan pagi ini,qa_factoid,0.1276,0.0355,False
+8430,id-ID,calendar,calendar_remove,batalkan semua janji temu saya,social_post,0.9993,0.0001,False
+8431,id-ID,calendar,calendar_remove,hapus semua acara terjadwal saya,calendar_remove,0.9998,0.9998,True
+8436,id-ID,calendar,calendar_set,tolong atur pertemuan makan siang jam dua belas siang setiap rabu di bulan maret,cooking_recipe,0.315,0.0275,False
+8442,id-ID,calendar,calendar_set,tolong ubah kalender saya dengan acara ini,calendar_remove,0.9742,0.0202,False
+8449,id-ID,calendar,calendar_set,atur pengingat untuk ulang tahun anak perempuan saya,iot_hue_lightoff,0.8973,0.0138,False
+8453,id-ID,calendar,calendar_set,tolong tempatkan acara ke dalam kalender saya dan tandai itu sebagai acara yang berulang,calendar_set,0.6411,0.6411,True
+8460,id-ID,calendar,calendar_query,tunjukkan acara saya,play_music,0.5907,0.0005,False
+8461,id-ID,calendar,calendar_query,apa rencana saya untuk bulan mei,cooking_recipe,0.5315,0.0413,False
+8466,id-ID,calendar,calendar_set,saya ada rapat pukul sembilan pagi hari rabu kirimkan saya pengingat,email_query,0.4127,0.0196,False
+8469,id-ID,calendar,calendar_query,apa yang ada pada kalender saya hari ini,calendar_set,0.9999,0.0,False
+8474,id-ID,calendar,calendar_set,tambahkan pesta ulang tahun yani besok pukul dua siang di jamtos di kalender saya,calendar_set,0.9964,0.9964,True
+8494,id-ID,calendar,calendar_query,bagaimana jadwal saya hari ini,calendar_remove,0.7049,0.1633,False
+8496,id-ID,calendar,calendar_query,beritahu saya rapat untuk besok pagi,social_post,0.8539,0.0015,False
+8498,id-ID,calendar,calendar_query,buka semua pengingat yang tertunda,lists_remove,0.2637,0.0276,False
+8516,id-ID,calendar,calendar_remove,hapus item kalender,calendar_remove,1.0,1.0,True
+8520,id-ID,calendar,calendar_set,tambahkan acara ke kalender,calendar_set,0.9584,0.9584,True
+8525,id-ID,calendar,calendar_query,pengingat rapat dari jam tiga ke lima,iot_hue_lightoff,0.8956,0.0043,False
+8535,id-ID,calendar,calendar_set,bisakah kamu ingatkan saya janji temu dokter gigi dalam dua jam,recommendation_events,0.9735,0.0001,False
+8539,id-ID,calendar,calendar_set,ingatkan saya tentang,social_post,0.8514,0.0005,False
+8541,id-ID,calendar,calendar_set,tolong ingatkan saya,qa_factoid,0.5015,0.0009,False
+8553,id-ID,calendar,calendar_set,tambahkan rapat ke kalender saya jam sembilan pagi dengan joko,calendar_set,0.9449,0.9449,True
+8559,id-ID,calendar,calendar_query,apakah saya ada jadwal hari ini,calendar_remove,0.5832,0.1908,False
+8562,id-ID,calendar,calendar_remove,hapus jadwal rapat saya jam dua siang hari ini,calendar_remove,0.9994,0.9994,True
+8568,id-ID,calendar,calendar_set,kirim undangan kalender ke joko dan lisa untuk sarapan siang jam sebelas siang hari selasa,calendar_set,0.996,0.996,True
+8570,id-ID,calendar,calendar_set,bisakah kamu tandai saya sibuk untuk acara besok jam dua siang,qa_factoid,0.9741,0.0013,False
+8579,id-ID,calendar,calendar_query,informasi apa yang harus saya ketahui untuk rapat hari ini,email_sendemail,0.3014,0.0168,False
+8585,id-ID,calendar,calendar_set,ingatkan saya bahwa saya mengadakan pesta ulang tahun pada tanggal tiga puluh,qa_factoid,0.6937,0.0133,False
+8598,id-ID,calendar,calendar_set,ingatkan saya untuk menjemput mark di bandara jam enam sore,qa_factoid,0.8401,0.0035,False
+8618,id-ID,calendar,calendar_set,ingatkan saya untuk menyiram tanaman saya setiap hari selasa kamis dan sabtu,email_sendemail,0.5922,0.0032,False
+8631,id-ID,calendar,calendar_remove,hapus itu dari kalender saya,calendar_remove,0.9985,0.9985,True
+8635,id-ID,calendar,calendar_set,bisakah kamu ingatkan saya untuk memesan kalkun tiga minggu sebelum thanksgiving,cooking_recipe,0.4947,0.0023,False
+8640,id-ID,calendar,calendar_set,saya ingin membuat catatan di kalender untuk acara besok di perpustakaan,calendar_set,0.9898,0.9898,True
+8642,id-ID,calendar,calendar_set,tambah rapat lewat telepon di jam empat sore ke pengingat aku buat hari ini,social_post,0.9742,0.001,False
+8651,id-ID,calendar,calendar_set,beri tahu saya tentang acara di kalender saya,calendar_query,0.6774,0.2415,False
+8653,id-ID,calendar,calendar_set,ingatkan saya tentang acara di kalender saya,calendar_query,0.3265,0.0676,False
+8666,id-ID,calendar,calendar_remove,hapus semua acara dari kalender saya,calendar_remove,1.0,1.0,True
+8667,id-ID,calendar,calendar_query,dalam tiga bulan terakhir ada berapa pertemuan saya dengan tuan rido,social_post,0.9529,0.0009,False
+8670,id-ID,calendar,calendar_remove,hapus acara dari kalender,calendar_remove,1.0,1.0,True
+8672,id-ID,calendar,calendar_query,dimana konser iwan fals,play_music,0.9813,0.0,False
+8674,id-ID,calendar,calendar_query,dimana rapat saya jam sembilan pagi,weather_query,0.5553,0.001,False
+8679,id-ID,calendar,calendar_query,apakah hari ini hari natal,weather_query,0.9952,0.0001,False
+8681,id-ID,calendar,calendar_query,apakah ada hari ulang tahun seseorang,weather_query,0.7903,0.0022,False
+8694,id-ID,calendar,calendar_set,acara ini akan mengikutsertakan wawan dan gemma,qa_factoid,1.0,0.0,False
+8730,id-ID,calendar,calendar_set,tolong buat pengingat di kalender saya untuk rapat saya tanggal dua puluh lima maret,calendar_remove,0.3977,0.3405,False
+8732,id-ID,calendar,calendar_remove,hapus semua rencana,lists_remove,0.7934,0.0183,False
+8762,id-ID,calendar,calendar_query,kasih tahu jadwal aku nanti untuk sore ini,calendar_query,0.7985,0.7985,True
+8765,id-ID,calendar,calendar_set,buat makan malam saya di red lobster di kalender hari ini jam sembilan,calendar_set,0.575,0.575,True
+8766,id-ID,calendar,calendar_query,apakah saya memiliki rapat pada hari sabtu dua puluh lima maret,social_post,0.5083,0.0065,False
+8767,id-ID,calendar,calendar_query,apakah ulang tahun debi tanggal dua belas april,datetime_query,0.9924,0.0003,False
+8769,id-ID,calendar,calendar_remove,hapus acara yang akan datang,calendar_remove,0.9174,0.9174,True
+8771,id-ID,calendar,calendar_remove,tolong hapus perjalanan belanja karena saya mempunyai jadwal di tanggal dua puluh tiga maret,calendar_remove,0.9946,0.9946,True
+8774,id-ID,calendar,calendar_query,apakah jadwal saya tanggal tujuh juli benar benar kosong,calendar_remove,0.9671,0.0013,False
+8781,id-ID,calendar,calendar_query,apa aku senggang di jam empat sore,calendar_remove,0.2796,0.0232,False
+8782,id-ID,calendar,calendar_query,apakah saya ada pertemuan pada sore ini,email_sendemail,0.2859,0.0163,False
+8791,id-ID,calendar,calendar_query,tolong informasikan semua pada acara ini,social_post,0.9038,0.0018,False
+8795,id-ID,calendar,calendar_query,tunjukkan pengingat terlambat,iot_hue_lightoff,0.6791,0.0018,False
+8822,id-ID,recommendation,recommendation_events,informasi acara acara yang akan datang,email_sendemail,0.3654,0.0916,False
+8824,id-ID,calendar,calendar_query,apa yang saya jadwalkan tanggal sembilan belas pukul dua siang,calendar_query,0.7656,0.7656,True
+8825,id-ID,calendar,calendar_set,kirim aku pengingat untuk rapat dengan tom jumat depan,email_sendemail,0.9875,0.0001,False
+8828,id-ID,calendar,calendar_query,apa acara kalender benar,qa_factoid,0.6963,0.1357,False
+8846,id-ID,calendar,calendar_query,apakah saya memiliki jadwal pada empat juli tahun ini,calendar_set,0.5685,0.067,False
+8853,id-ID,calendar,calendar_remove,hapus kegiatan saya berikutnya,qa_factoid,0.8302,0.1038,False
+8856,id-ID,calendar,calendar_remove,hapus semua acara di kalender,calendar_remove,1.0,1.0,True
+8857,id-ID,calendar,calendar_set,ingatkan rapat yang akan datang dengan eminem,social_post,0.878,0.0008,False
+8868,id-ID,calendar,calendar_set,ingatkan saya untuk hubungi mama setiap selasa pukul sepuluh pagi,email_sendemail,0.8361,0.0057,False
+8880,id-ID,calendar,calendar_set,atur pengingat tentang pertemuan besok pada jam sembilan pagi,iot_hue_lightoff,0.3562,0.0327,False
+8888,id-ID,calendar,calendar_remove,hapus itu,email_sendemail,0.9804,0.0012,False
+8900,id-ID,calendar,calendar_set,pasang pengingat berulang untuk setiap hari minggu,calendar_set,0.6314,0.6314,True
+8904,id-ID,calendar,calendar_query,informasi tentang peristiwa baru-baru ini,news_query,0.9246,0.0017,False
+8906,id-ID,calendar,calendar_set,atur tanggal acara di kalender dengan yang lainnya,calendar_set,0.9899,0.9899,True
+8907,id-ID,calendar,calendar_set,sebutkan acara di kalender dengan yang lain,calendar_remove,0.6641,0.2133,False
+8912,id-ID,calendar,calendar_query,beri tahu saya acara di kalender hari ini setelah jam enam sore,calendar_query,0.7842,0.7842,True
+8914,id-ID,calendar,calendar_query,jam berapa janji temu saya di tanggal empat april,datetime_query,0.3426,0.0072,False
+8916,id-ID,calendar,calendar_query,apa jadwalku untuk hari ini,cooking_recipe,0.5733,0.0109,False
+8925,id-ID,calendar,calendar_remove,hapus semua acara di kalender saya,calendar_remove,1.0,1.0,True
+8939,id-ID,calendar,calendar_set,syukuran anak perempuan hayathis,social_post,0.8273,0.0022,False
+8948,id-ID,calendar,calendar_set,tambahkan acara untuk rapat dengan budi,calendar_set,0.7461,0.7461,True
+8949,id-ID,calendar,calendar_remove,tolong hapus sisa pengingat,qa_factoid,0.8019,0.0238,False
+8958,id-ID,calendar,calendar_query,buka waktu rapat,qa_factoid,0.9008,0.0023,False
+8960,id-ID,calendar,calendar_set,saya ingin anda membuat peringatan di malam sebelum rapat yang akan datang,email_sendemail,0.5032,0.0062,False
+8967,id-ID,calendar,calendar_set,ingatkan saya dua hari sebelum ulang tahun istri saya,weather_query,0.472,0.0016,False
+8968,id-ID,calendar,calendar_set,tolong beritahukan saya sesuatu untuk ingatkan minggu ini,email_sendemail,0.5121,0.0102,False
+8975,id-ID,calendar,calendar_query,apa jadwal pertemuan hari ini,calendar_remove,0.4881,0.4458,False
+8977,id-ID,calendar,calendar_set,atur pengingat tentang menunda pembayaran tagihan,iot_hue_lightoff,0.3485,0.0282,False
+8978,id-ID,calendar,calendar_set,beri tahu saya pertemuan penting dengan bos saya selama sepekan,social_post,0.4984,0.0106,False
+8985,id-ID,calendar,calendar_remove,ok google hapus ulang tahun budi dari kalender,calendar_remove,0.9994,0.9994,True
+8990,id-ID,calendar,calendar_set,buat event,qa_factoid,0.9776,0.0003,False
+8992,id-ID,calendar,calendar_set,tunjukkan rapat,qa_factoid,0.6284,0.0016,False
+9009,id-ID,calendar,calendar_remove,hapus acara anniversary dari kalender saya,calendar_remove,0.9967,0.9967,True
+9011,id-ID,calendar,calendar_query,apakah perayaan lebaran sekarang ini tanggal empat belas bulan ini benar,qa_factoid,0.9808,0.0001,False
+9014,id-ID,calendar,calendar_set,nyalakan pemberitahuan pada tanggal dua puluh tiga oktober untuk pertemuan dengan kolega saya,calendar_remove,0.8418,0.0016,False
+9015,id-ID,calendar,calendar_remove,hapus semua acara kalender aku,calendar_remove,1.0,1.0,True
+9019,id-ID,calendar,calendar_query,rapat dari tanggal dua puluh sampai dua lima juni,calendar_remove,0.5181,0.0116,False
+9030,id-ID,calendar,calendar_remove,hapus dari kalender saya janji temu medis untuk hari ini,calendar_remove,0.9999,0.9999,True
+9035,id-ID,calendar,calendar_query,pengingat untuk pernikahan kiki,qa_factoid,0.2535,0.0114,False
+9043,id-ID,calendar,calendar_set,acara mendatang di kalender,calendar_query,0.4257,0.392,False
+9053,id-ID,calendar,calendar_set,atur pengingat pertemuan dengan mona di hari selasa,play_music,0.6056,0.0012,False
+9054,id-ID,calendar,calendar_set,pengingat acara yani hari selasa,calendar_remove,0.67,0.0894,False
+9059,id-ID,calendar,calendar_set,peringatkan saya pada saat waktu acara,qa_factoid,0.8376,0.0006,False
+9061,id-ID,calendar,calendar_query,informasi apa yang ada pada pengingat saya,social_post,0.2409,0.0137,False
+9062,id-ID,calendar,calendar_set,bisakah anda memasukkan ulang tahun lee tanggal dua puluh dua juni,datetime_query,0.287,0.1301,False
+9074,id-ID,calendar,calendar_remove,tolong hapus acara itu,qa_factoid,0.9997,0.0,False
+9088,id-ID,calendar,calendar_remove,hapus semuanya dari kalender saya,calendar_remove,0.9931,0.9931,True
+9095,id-ID,calendar,calendar_remove,hapus makan malam malam ini dengan shelly,cooking_recipe,0.994,0.0012,False
+9103,id-ID,calendar,calendar_query,apakah ada rapat di kalender saya untuk siang ini,calendar_set,0.624,0.3251,False
+9107,id-ID,calendar,calendar_query,jam berapakah konser sheila on seven pada tanggal tiga juni akan dimulai,datetime_query,0.6835,0.001,False
+9110,id-ID,calendar,calendar_set,pameran misa dua ribu tujuh belas pada dua puluh lima maret buatlah catatan pada yang sesuai,calendar_remove,0.6692,0.0146,False
+9112,id-ID,calendar,calendar_set,tambahkan ini ke kalender saya,calendar_set,0.9596,0.9596,True
+9114,id-ID,calendar,calendar_set,buat pengingat berulang untuk acara kalender ini,calendar_remove,0.3917,0.0889,False
+9116,id-ID,calendar,calendar_query,buat ulang jadwal rapat saya,calendar_remove,0.9971,0.0001,False
+9121,id-ID,calendar,calendar_query,hari apa saja saya telat pesan,weather_query,0.9015,0.001,False
+9124,id-ID,calendar,calendar_set,perlihatkan acara acara saya di kalender kerja untuk minggu depan,calendar_set,0.895,0.895,True
+9137,id-ID,calendar,calendar_query,jam berapa kafe itali tutup antara makan siang dan makan malam,weather_query,0.9492,0.0201,False
+9138,id-ID,qa,qa_factoid,kapan liga satu indonesia resmi dimulai,qa_factoid,0.9694,0.9694,True
+9149,id-ID,calendar,calendar_query,jam berapa makan malam resmi seharusnya dimulai,qa_factoid,0.3718,0.0103,False
+9153,id-ID,calendar,calendar_set,tolong tambahkan makan malam dengan meri ke kalender saya di hari sabtu,cooking_recipe,0.8097,0.1858,False
+9155,id-ID,calendar,calendar_set,buat janji dengan dokter gigi di hari jumat jam tiga,qa_factoid,0.9785,0.001,False
+9156,id-ID,calendar,calendar_set,ingatkan,qa_factoid,0.8912,0.0006,False
+9175,id-ID,calendar,calendar_query,apakah jadwal kalender saya sudah diperbarui dalam sepuluh menit terakhir,calendar_query,0.7626,0.7626,True
+9182,id-ID,calendar,calendar_remove,batalkan rencana untuk menjemput orang tua saya dari bandara,calendar_remove,0.7584,0.7584,True
+9187,id-ID,calendar,calendar_set,cari tahu tentang klien yang akan datang ke rapat,qa_factoid,0.9995,0.0,False
+9193,id-ID,calendar,calendar_set,tolong atur tanggal ini untuk diulang,calendar_remove,0.9953,0.0004,False
+9194,id-ID,calendar,calendar_remove,tolong hapus acara ini dari kalender saya,calendar_remove,0.9974,0.9974,True
+9197,id-ID,calendar,calendar_query,apa yang telah saya rencanakan untuk minggu ini,calendar_set,0.3193,0.0253,False
+9198,id-ID,calendar,calendar_query,tolong cek pengingat pengingat saya,email_sendemail,0.3696,0.0125,False
+9202,id-ID,play,play_radio,putar stasiun radio saya,play_radio,1.0,1.0,True
+9204,id-ID,play,play_radio,nyalakan radio prambors,play_radio,0.9569,0.9569,True
+9212,id-ID,play,play_radio,seseorang memainkan radio,play_radio,1.0,1.0,True
+9216,id-ID,play,play_radio,mainkan stasiun aku,transport_query,0.9864,0.0,False
+9225,id-ID,play,play_radio,bisakah kamu nyalakan radio,play_radio,0.9377,0.9377,True
+9233,id-ID,play,play_radio,buka pandora,qa_factoid,0.9769,0.001,False
+9236,id-ID,play,play_radio,pergi ke saluran seratus enam koma sembilan,play_podcasts,0.982,0.0001,False
+9237,id-ID,play,play_radio,nyalakan radio dan putar saluran seratus enam koma sembilan,play_radio,1.0,1.0,True
+9250,id-ID,play,play_radio,saya ingin mendengarkan radio,play_radio,1.0,1.0,True
+9254,id-ID,play,play_radio,tolong putar sembilan ratus tiga puluh delapan f. m. radio mirchi,play_radio,0.7223,0.7223,True
+9263,id-ID,play,play_radio,buka aplikasi radio,play_radio,1.0,1.0,True
+9269,id-ID,play,play_radio,nyalakan delapan ratus sembilan puluh tujuh f. m.,iot_hue_lightoff,0.4754,0.0131,False
+9270,id-ID,play,play_radio,mainkan saja sembilan ratus tiga puluh tujuh f. m.,iot_hue_lightoff,0.8682,0.0013,False
+9275,id-ID,play,play_radio,hanya prambors yang bisa dimainkan di radio,play_radio,0.5784,0.5784,True
+9284,id-ID,play,play_radio,putar radio f. m.,play_radio,1.0,1.0,True
+9291,id-ID,play,play_radio,nyalakan,qa_factoid,0.8637,0.005,False
+9301,id-ID,play,play_radio,mainkan ardan f.m,cooking_recipe,0.587,0.0786,False
+9303,id-ID,play,play_radio,putar stasiun prambors,transport_query,0.9964,0.0002,False
+9305,id-ID,play,play_radio,nyalakan lagu klasik,play_music,0.9968,0.0001,False
+9316,id-ID,play,play_radio,mainkan saluran prambors f. m. untuk aku,qa_factoid,0.9793,0.0003,False
+9317,id-ID,play,play_radio,mulai radio kosmonita,play_radio,0.9994,0.9994,True
+9321,id-ID,play,play_radio,nyalakan radio sekarang,play_radio,0.9981,0.9981,True
+9323,id-ID,play,play_radio,mulai pandora,qa_factoid,0.9424,0.0029,False
+9326,id-ID,play,play_radio,tolong putar jak f. m. sekarang,qa_factoid,0.9925,0.0001,False
+9327,id-ID,play,play_radio,tolong pindai panggilan malam di radio sekarang juga,play_radio,0.9999,0.9999,True
+9330,id-ID,play,play_radio,putar,play_radio,0.931,0.931,True
+9341,id-ID,play,play_radio,alexa ganti stasiun radio,play_radio,0.999,0.999,True
+9352,id-ID,play,play_radio,tolong putarkan radio,play_radio,0.9998,0.9998,True
+9353,id-ID,play,play_radio,mulai putar beberapa musik di radio,play_music,0.9997,0.0002,False
+9358,id-ID,play,play_radio,putar saluran radio prambors,play_radio,1.0,1.0,True
+9361,id-ID,play,play_radio,dengarkan radio,play_radio,1.0,1.0,True
+9362,id-ID,play,play_radio,saluran radio,play_radio,0.9999,0.9999,True
+9363,id-ID,play,play_radio,ayo putar lagu lagu terbaik di radio,play_music,0.6767,0.3226,False
+9364,id-ID,play,play_radio,ayo putar hits musik,play_music,0.9999,0.0,False
+9380,id-ID,play,play_radio,saya ingin kamu pilih prambors di radio,play_radio,1.0,1.0,True
+9384,id-ID,play,play_radio,putar radio prambors,play_radio,1.0,1.0,True
+9394,id-ID,play,play_radio,hei olly mainkan radio,play_radio,0.9999,0.9999,True
+9402,id-ID,play,play_radio,putar stasiun radio sembilan ratus delapan puluh sembilan,play_radio,1.0,1.0,True
+9406,id-ID,play,play_radio,mulai saluran prambors,play_music,0.4014,0.1309,False
+9408,id-ID,play,play_radio,mulai putar radio,play_radio,1.0,1.0,True
+9426,id-ID,play,play_radio,aku ingin mendengar lesmana f. m.,play_music,0.9966,0.0001,False
+9438,id-ID,play,play_radio,bisakah kamu putarkan lagu rap di radio,play_music,0.9539,0.0457,False
+9457,id-ID,play,play_music,putar lagu mungkin nanti,play_music,0.9998,0.9998,True
+9460,id-ID,play,play_music,putar hip hop sembilan puluhan,play_music,0.9958,0.9958,True
+9471,id-ID,play,play_radio,nyalakan stasiun radio country,qa_factoid,0.9965,0.0018,False
+9494,id-ID,play,play_radio,bisakah kamu mainkan stasiun f. m. yang memutar lagu pop,play_music,0.9945,0.0047,False
+9506,id-ID,play,play_radio,olly ayo dengarkan eighty seven point six hard rock f. m.,qa_factoid,0.483,0.0049,False
+9507,id-ID,play,play_radio,tolong temukan stasiun radio saat ini juga dan mainkan acara desta,play_radio,0.9998,0.9998,True
+9519,id-ID,play,play_radio,putar saluran f. m. pop apa saja,play_music,0.9816,0.0079,False
+9520,id-ID,play,play_radio,mainkan siaran radio terakhir doctor who,play_radio,1.0,1.0,True
+9524,id-ID,play,play_radio,putar program trax f. m.,play_music,0.864,0.1328,False
+9528,id-ID,play,play_radio,nyalakan i radio dan putar melalui pengeras suara saya,play_radio,1.0,1.0,True
+9541,id-ID,play,play_radio,tolong mainkan lagu romantis di radio,play_radio,0.5432,0.5432,True
+9542,id-ID,play,play_radio,segera saya ingin mendengarkan program berita terbaru di radio,play_radio,0.9825,0.9825,True
+9545,id-ID,play,play_radio,saya ingin mendengarkan acara gina and desta in the morning,play_music,0.997,0.0,False
+9554,id-ID,play,play_radio,putar musik romantis di sembilan puluh lima koma satu kis f. m.,play_music,1.0,0.0,False
+9561,id-ID,play,play_radio,mainkan station gx di radio,qa_factoid,1.0,0.0,False
+9562,id-ID,play,play_radio,tolong bisakah kau memainkan program ini untuk saya,qa_factoid,0.9695,0.0259,False
+9565,id-ID,play,play_radio,mainkan radio dengan lagu tanpa henti,play_music,0.9293,0.0706,False
+9568,id-ID,play,play_radio,putar britney spears seri konser langsung,play_music,0.9749,0.0,False
+9569,id-ID,play,play_radio,ok google putar sembilan delapan koma tujuh f. m.,recommendation_events,0.4439,0.0028,False
+9577,id-ID,play,play_radio,ubah stasiun radio ke ninety five point one,play_radio,0.7821,0.7821,True
+9591,id-ID,play,play_radio,putar program kosmonita pagi di kosmonita,play_music,0.532,0.4644,False
+9592,id-ID,play,play_podcasts,cari siniar yang membahas tentang pria,social_post,0.9997,0.0,False
+9594,id-ID,play,play_radio,lagu lagu prambors radio,play_radio,0.8458,0.8458,True
+9601,id-ID,play,play_radio,putar radio dangdut,play_radio,1.0,1.0,True
+9617,id-ID,play,play_radio,putarkan acara pagi dari prambors,calendar_remove,0.9957,0.0001,False
+9619,id-ID,play,play_radio,putar prairie home companion di radio mobil,play_radio,0.9965,0.9965,True
+9620,id-ID,play,play_radio,dapatkah saya memperoleh tangga lagu pada radio di kamar tidur saya,play_music,0.9727,0.0246,False
+9629,id-ID,play,play_radio,tolong bisakah kau membantu saya dalam mendengarkan radio ini,play_radio,1.0,1.0,True
+9630,id-ID,play,play_radio,mainkan radio sonora untuk saya,play_radio,1.0,1.0,True
+9632,id-ID,play,play_radio,tolong nyalakan radio,play_radio,0.9986,0.9986,True
+9637,id-ID,play,play_radio,nyalakan playlist saya di prambors,play_music,0.9957,0.0,False
+9640,id-ID,play,play_radio,buka aplikasi spotify dan buka workout,play_music,0.541,0.0398,False
+9651,id-ID,play,play_radio,putar netflix di p. s. empat saya,qa_factoid,0.7517,0.0042,False
+9656,id-ID,play,play_music,putarkan lagu ceria melalui speaker,play_music,1.0,1.0,True
+9706,id-ID,play,play_music,putar naik delman,qa_factoid,0.727,0.0379,False
+9707,id-ID,play,play_music,buka media lalu mainkan ya nabi ya rasull,play_podcasts,0.5741,0.0367,False
+9738,id-ID,play,play_music,tolonglah bisakah kamu memainkan musik klasik untuk saya,play_music,1.0,1.0,True
+9793,id-ID,play,play_music,putar lagu lagu romantis,play_music,1.0,1.0,True
+9795,id-ID,play,play_music,lanjutkan born to run,qa_factoid,0.6892,0.0021,False
+9912,id-ID,cooking,cooking_recipe,olly berapa lama saya harus merebus telur,cooking_recipe,0.9968,0.9968,True
+9918,id-ID,cooking,cooking_recipe,bagaimana cara membuat pizza,cooking_recipe,1.0,1.0,True
+9923,id-ID,cooking,cooking_recipe,berapa lama waktu yang dibutuhkan untuk merebus telur,qa_factoid,0.8984,0.0974,False
+9924,id-ID,cooking,cooking_recipe,beritahu saya resep untuk,cooking_recipe,1.0,1.0,True
+9930,id-ID,cooking,cooking_recipe,berapa lama saya harus merebus telur,cooking_recipe,0.9426,0.9426,True
+9931,id-ID,cooking,cooking_recipe,olly berapa lama saya harus merebus telur,cooking_recipe,0.9968,0.9968,True
+9940,id-ID,cooking,cooking_recipe,temukan resep kue cokelat,cooking_recipe,1.0,1.0,True
+9941,id-ID,cooking,cooking_recipe,bagaimana cara memasak ayam mentega,cooking_recipe,1.0,1.0,True
+9942,id-ID,cooking,cooking_recipe,apa semua bahan kue red velvet,cooking_recipe,0.9991,0.9991,True
+9943,id-ID,cooking,cooking_recipe,berapa lama waktu yang dibutuhkan untuk membuat lasagna sayuran,cooking_recipe,1.0,1.0,True
+9952,id-ID,cooking,cooking_recipe,berikan saya tutorial memasak,cooking_recipe,1.0,1.0,True
+9955,id-ID,cooking,cooking_recipe,perlihatkan video memasak ayam goreng,cooking_recipe,1.0,1.0,True
+9956,id-ID,cooking,cooking_recipe,apa yang bisa saya gunakan untuk menggantikan mentega,cooking_recipe,0.9957,0.9957,True
+9961,id-ID,cooking,cooking_recipe,berapa suhu oven terbaik untuk memanggang kentang,cooking_recipe,0.9994,0.9994,True
+9962,id-ID,cooking,cooking_recipe,apa cara terbaik untuk memasakn pasta al dente,cooking_recipe,1.0,1.0,True
+9964,id-ID,cooking,cooking_recipe,pengetahuan tentang pengolahan makanan,cooking_recipe,0.9972,0.9972,True
+9966,id-ID,cooking,cooking_recipe,apa cara termudah untuk memasak pasta,cooking_recipe,1.0,1.0,True
+9969,id-ID,cooking,cooking_recipe,apa bahan yang bisa digunakan selain kunyit,qa_definition,0.3697,0.2349,False
+9971,id-ID,cooking,cooking_recipe,mana yang menghantar panas lebih baik panci lapis tembaga atau cast iron,cooking_recipe,0.9909,0.9909,True
+9976,id-ID,cooking,cooking_recipe,hei robot berikan saya daftar bahan bahan untuk opor ayam,cooking_recipe,1.0,1.0,True
+9977,id-ID,cooking,cooking_recipe,cari video youtube di internet yang cocok buat masakan khas italia,cooking_recipe,0.9543,0.9543,True
+9979,id-ID,cooking,cooking_recipe,buatkan saya havermut,qa_factoid,0.9829,0.0032,False
+9980,id-ID,cooking,cooking_recipe,apa menu hari ini tambahkan sayur rebus kedalamnya,lists_remove,0.6018,0.0522,False
+9986,id-ID,cooking,cooking_recipe,mendidih,qa_factoid,0.9973,0.0001,False
+9994,id-ID,cooking,cooking_recipe,bisa kasih tahu cara masak pepes tahu,cooking_recipe,1.0,1.0,True
+10016,id-ID,cooking,cooking_recipe,cara masak lemang untuk lebaran dalam lima kalimat itu apa,cooking_recipe,0.9999,0.9999,True
+10019,id-ID,cooking,cooking_recipe,beritahu saya bagaimana cara membuat dua belas biskuit oatmeal,cooking_recipe,1.0,1.0,True
+10023,id-ID,cooking,cooking_recipe,apa yang saya butuhkan untuk membuat sate kambing,cooking_recipe,1.0,1.0,True
+10027,id-ID,cooking,cooking_recipe,petunjuk untuk membuat masakan,cooking_recipe,1.0,1.0,True
+10031,id-ID,cooking,cooking_recipe,aku butuh resep yang bahan bahannya ada di daftar belanja aku,cooking_recipe,1.0,1.0,True
+10038,id-ID,cooking,cooking_recipe,saya butuh ide bagus untuk memasak,cooking_recipe,0.9999,0.9999,True
+10045,id-ID,cooking,cooking_recipe,apakah anda dapat memberikan saya resep untuk sup mi ayam buatan rumah,cooking_recipe,1.0,1.0,True
+10048,id-ID,cooking,cooking_recipe,bagaimana cara membuat kalkun,cooking_recipe,1.0,1.0,True
+10049,id-ID,cooking,cooking_recipe,beritahu saya cara membuat roti sisir,cooking_recipe,1.0,1.0,True
+10053,id-ID,cooking,cooking_recipe,bagaimana cara membuat pizza,cooking_recipe,1.0,1.0,True
+10055,id-ID,cooking,cooking_recipe,apa resep ayam goreng,cooking_recipe,1.0,1.0,True
+10061,id-ID,cooking,cooking_recipe,apa yang perlu saya buat untuk makan malam,cooking_recipe,0.9998,0.9998,True
+10072,id-ID,cooking,cooking_recipe,waktu memanggang ayam di oven,cooking_recipe,1.0,1.0,True
+10076,id-ID,cooking,cooking_recipe,apakah anda bisa menggantikan baking soda dengan baking powder,qa_factoid,0.5378,0.4609,False
+10077,id-ID,cooking,cooking_recipe,temukan resep untuk makan malam malam ini,cooking_recipe,1.0,1.0,True
+10078,id-ID,cooking,cooking_recipe,apa yang harus saya masak untuk makan malam,cooking_recipe,1.0,1.0,True
+10080,id-ID,cooking,cooking_recipe,ayo masak bakso bareng,cooking_recipe,1.0,1.0,True
+10081,id-ID,cooking,cooking_recipe,beritahu saya bagaimana cara memasak bakso,cooking_recipe,1.0,1.0,True
+10090,id-ID,cooking,cooking_recipe,apakah saya bisa mendapatkan resep dengan tuna,cooking_recipe,1.0,1.0,True
+10093,id-ID,cooking,cooking_recipe,bagaimana cara mie dibuat,qa_factoid,0.7559,0.2261,False
+10097,id-ID,cooking,cooking_recipe,saya mau burger keju,cooking_recipe,0.9996,0.9996,True
+10099,id-ID,cooking,cooking_recipe,apakah kamu tahu cara memasak risotto,cooking_recipe,1.0,1.0,True
+10100,id-ID,cooking,cooking_recipe,apakah anda tahu resep untuk risotto,cooking_recipe,1.0,1.0,True
+10105,id-ID,cooking,cooking_recipe,berapa lama waktu yang dibutuhkan untuk memasak daging panggang dengan kematangan medium rare,cooking_recipe,1.0,1.0,True
+10107,id-ID,cooking,cooking_recipe,saya butuh resep untuk sayur lodeh,cooking_recipe,1.0,1.0,True
+10119,id-ID,cooking,cooking_recipe,berapa lama ayam enam kilogram harus dimasak,cooking_recipe,1.0,1.0,True
+10125,id-ID,cooking,cooking_recipe,apa perbedaan antara memanggang dan broil,cooking_recipe,0.985,0.985,True
+10132,id-ID,cooking,cooking_recipe,berapa lama saya harus memasak steak agar kematangannya medium,cooking_recipe,1.0,1.0,True
+10150,id-ID,cooking,cooking_recipe,bagaimana cara membuat taco,cooking_recipe,1.0,1.0,True
+10156,id-ID,cooking,cooking_recipe,saya perlu tahu cara membuat paprika isi,cooking_recipe,1.0,1.0,True
+10164,id-ID,cooking,cooking_recipe,berapa lama saya harus memasak makaroni,cooking_recipe,1.0,1.0,True
+10166,id-ID,cooking,cooking_recipe,temukan resep pie apel,cooking_recipe,1.0,1.0,True
+10171,id-ID,cooking,cooking_recipe,apa resep untuk sup ikan,cooking_recipe,1.0,1.0,True
+10177,id-ID,cooking,cooking_recipe,bagaimana cara memasak mi ayam,cooking_recipe,1.0,1.0,True
+10182,id-ID,cooking,cooking_recipe,berapa banyak telur yang dibutuhkan untuk sebuah omelet,qa_factoid,0.6144,0.3591,False
+10197,id-ID,cooking,cooking_recipe,tampilkan resep terbaik untuk spaghetti,cooking_recipe,1.0,1.0,True
+10206,id-ID,cooking,cooking_recipe,gimana cara masak nasi,cooking_recipe,1.0,1.0,True
+10213,id-ID,cooking,cooking_recipe,buatkan daftar resep nasi liwet yang terkenal,cooking_recipe,1.0,1.0,True
+10214,id-ID,cooking,cooking_recipe,resep yang bisa dimasak dalam satu jam,cooking_recipe,1.0,1.0,True
+10216,id-ID,cooking,cooking_recipe,cari di internet harga alat masak muffin,cooking_recipe,0.9999,0.9999,True
+10217,id-ID,cooking,cooking_recipe,carikan resep gulai di aplikasi cookingforu,cooking_recipe,1.0,1.0,True
+10220,id-ID,cooking,cooking_recipe,apa bahan bahan yang saya butuhkan untuk memanggang kue yang besar,cooking_recipe,1.0,1.0,True
+10224,id-ID,cooking,cooking_recipe,rasanya harus,qa_factoid,0.9015,0.0053,False
+10226,id-ID,cooking,cooking_recipe,kasih tahu aku resep persiapan pasta,cooking_recipe,1.0,1.0,True
+10426,id-ID,lists,lists_query,apa lagi yang hilang di buku harian,lists_remove,0.6991,0.0288,False
+10427,id-ID,lists,lists_remove,tolong bersihkan daftar belanjaan saya,email_sendemail,0.9779,0.0135,False
+10430,id-ID,lists,lists_remove,haous barang pertama dari daftar,qa_factoid,1.0,0.0,False
+10433,id-ID,lists,lists_remove,hapus daftar tugas saya,email_sendemail,0.9998,0.0,False
+10440,id-ID,lists,lists_query,ada acara spesial apa saja di daftar saya,recommendation_events,0.741,0.0105,False
+10442,id-ID,lists,lists_remove,hapus acara dari daftar saya,lists_remove,0.4867,0.4867,True
+10444,id-ID,lists,lists_remove,hapus item,qa_factoid,0.5278,0.1929,False
+10451,id-ID,lists,lists_query,apa yang harus saya lakukan hari ini,recommendation_events,0.5879,0.028,False
+10455,id-ID,lists,lists_query,apa yang ada di daftar saya yang harus dilakukan,lists_query,0.991,0.991,True
+10462,id-ID,lists,lists_remove,hapus sebuah daftar,lists_remove,0.8514,0.8514,True
+10493,id-ID,lists,lists_query,apa yang ada di daftar yang harus dikerjakan saya,lists_query,0.8117,0.8117,True
+10494,id-ID,lists,lists_remove,hapus pensil dari toko alat tulis,calendar_remove,0.798,0.0816,False
+10497,id-ID,qa,qa_factoid,bisakahh berikan saya daftar hotel bintang lima di jakarta,recommendation_events,0.9497,0.0084,False
+10508,id-ID,lists,lists_remove,hapus item daftar,lists_remove,0.9237,0.9237,True
+10512,id-ID,lists,lists_query,daftarkan semua yang tersisa di kueri saya,iot_hue_lightoff,0.6761,0.0002,False
+10523,id-ID,lists,lists_remove,hapus dari daftar lagu nostalgia saya,play_music,0.515,0.4111,False
+10525,id-ID,lists,lists_remove,hapus pembayaran mobil saya dari kalender saya,calendar_remove,0.995,0.001,False
+10527,id-ID,lists,lists_remove,hapus daftar,qa_factoid,0.7403,0.2267,False
+10534,id-ID,lists,lists_query,bagaimana daftar hari ini,recommendation_events,0.6955,0.033,False
+10538,id-ID,lists,lists_query,tolong ulangi daftar belanjaan saya,social_post,0.8533,0.0014,False
+10565,id-ID,lists,lists_remove,hapus semua daftar,lists_remove,0.9856,0.9856,True
+10568,id-ID,lists,lists_remove,hapus daftar musik lama,play_music,0.9641,0.0249,False
+10570,id-ID,lists,lists_query,periksa daftar tugas saya,iot_hue_lightoff,0.7471,0.0012,False
+10571,id-ID,lists,lists_query,android,iot_hue_lightoff,0.2324,0.0685,False
+10577,id-ID,lists,lists_query,berikan semua daftar punya saya,lists_remove,0.9581,0.0023,False
+10579,id-ID,lists,lists_remove,atur ulang daftar lokasi saya,lists_remove,0.8692,0.8692,True
+10588,id-ID,lists,lists_query,tampilkan isi dari daftar,lists_remove,0.9979,0.0001,False
+10590,id-ID,lists,lists_remove,hapus baris kedua dari daftar,email_sendemail,0.5544,0.2585,False
+10655,id-ID,lists,lists_remove,hapus daftar berjudul saatnya berpesta,email_sendemail,0.8694,0.1027,False
+10667,id-ID,lists,lists_query,bacakan jadwal dari daftar,calendar_remove,0.5229,0.0008,False
+10673,id-ID,lists,lists_remove,tolong hapus daftar berikut ini,email_sendemail,0.4966,0.259,False
+10674,id-ID,lists,lists_remove,buang daftar terkini,lists_remove,0.8961,0.8961,True
+10679,id-ID,lists,lists_query,apa yang harus dilakukan hari ini,recommendation_events,0.4883,0.0844,False
+10684,id-ID,lists,lists_query,daftar apa yang saya tanyakan,lists_query,0.9761,0.9761,True
+10687,id-ID,lists,lists_remove,jika ada acara pertunjukan hapus itu,qa_factoid,0.932,0.0,False
+10696,id-ID,lists,lists_remove,ganti,qa_factoid,0.9917,0.0007,False
+10699,id-ID,lists,lists_query,beri tahu saya barang barang yang ada di daftar,lists_remove,0.5698,0.4227,False
+10718,id-ID,lists,lists_remove,bisakah kamu hapus item ini dari daftar,lists_remove,0.5324,0.5324,True
+10731,id-ID,lists,lists_query,bacakan apa yang ada di daftar saya,lists_query,0.5336,0.5336,True
+10743,id-ID,lists,lists_remove,hapus item itu,email_sendemail,0.9951,0.0018,False
+10753,id-ID,lists,lists_query,apa yang sudah saya tulis di daftar hypermart,lists_query,0.7584,0.7584,True
+10755,id-ID,lists,lists_remove,tolong hapus daftar tugas wajib punyaku,qa_factoid,0.9829,0.0053,False
+10756,id-ID,lists,lists_remove,hapus daftar belanja,qa_factoid,0.9516,0.001,False
+10757,id-ID,lists,lists_query,item apa saja yang ada di daftar belanjaan saya,lists_query,0.9983,0.9983,True
+10759,id-ID,lists,lists_query,bacakan saya daftar belanjaan,qa_factoid,1.0,0.0,False
+10760,id-ID,lists,lists_query,beri tahu saya daftar yang saya tulis dua hari lalu,lists_remove,0.9995,0.0002,False
+10770,id-ID,lists,lists_remove,hapus sereal dari daftar belanjaan saya,lists_remove,0.3902,0.3902,True
+10772,id-ID,calendar,calendar_remove,hapus janji dokter gigi dari jadwal hari ini,calendar_remove,0.9976,0.9976,True
+10776,id-ID,lists,lists_query,apakah saya mempunyai daftar bahan makanan sehari hari siap,cooking_recipe,0.6163,0.3479,False
+10786,id-ID,lists,lists_remove,hapus daftar kegiatan saya untuk hari ini,lists_remove,0.6822,0.6822,True
+10790,id-ID,lists,lists_remove,hapus item dari daftar,email_sendemail,0.743,0.2474,False
+10804,id-ID,lists,lists_query,bacakan daftar belanja saya,qa_factoid,0.9909,0.0001,False
+10805,id-ID,lists,lists_query,tolong tampilkan pada saya daftar yang sudah saya,lists_remove,0.9964,0.0026,False
+10808,id-ID,lists,lists_remove,hapus item terakhir yang terdaftar,lists_remove,0.9439,0.9439,True
+10824,id-ID,lists,lists_remove,olly hapus daftar,qa_factoid,0.9993,0.0,False
+10825,id-ID,lists,lists_remove,hapus daftar,qa_factoid,0.7403,0.2267,False
+10827,id-ID,lists,lists_remove,hapus daftar dari bahan makanan sehari hari,lists_remove,0.9113,0.9113,True
+10828,id-ID,lists,lists_remove,hapus semua,lists_remove,0.6575,0.6575,True
+10832,id-ID,calendar,calendar_query,santi apa yang harus saya rencanakan selanjutnya,cooking_recipe,0.2331,0.0363,False
+10843,id-ID,lists,lists_remove,hapus susu dari daftar bahan makanan saya,lists_remove,0.9145,0.9145,True
+10846,id-ID,lists,lists_remove,saya tidak punya cukup uang untuk membeli nintendo switch saat ini bisakah kamu menghapusnya dari daftar keinginan amazon saya,qa_factoid,0.6894,0.2367,False
+10848,id-ID,lists,lists_remove,hapus daftar ini dari yang lainnnya,lists_remove,0.9877,0.9877,True
+10851,id-ID,lists,lists_query,apa saja daftar saya yang tersedia,lists_query,0.6935,0.6935,True
+10853,id-ID,lists,lists_remove,lepaskan itu dari sana,qa_factoid,0.6513,0.1067,False
+10855,id-ID,lists,lists_query,butuh memeriksa daftar saya,social_post,0.9855,0.0003,False
+10868,id-ID,lists,lists_query,olly adakah hal lain yang tertinggal di daftar,email_query,0.9833,0.0001,False
+10887,id-ID,lists,lists_remove,hapus daftar saya,social_post,0.7509,0.0005,False
+10895,id-ID,lists,lists_remove,hapus barang dari daftar saya,lists_remove,0.975,0.975,True
+10909,id-ID,lists,lists_query,olly bacakan daftar saya,qa_factoid,1.0,0.0,False
+10927,id-ID,lists,lists_query,biarkan saya mendengar daftar saya,play_radio,0.9463,0.0014,False
+10931,id-ID,lists,lists_query,apa yang ada di daftar putar saya,lists_remove,0.6394,0.1948,False
+10936,id-ID,lists,lists_remove,tolong hapus daftar album kesukaan saya,email_sendemail,1.0,0.0,False
+10954,id-ID,lists,lists_query,ada berapa daftar yang saya punya di kontak,qa_factoid,0.693,0.027,False
+10956,id-ID,lists,lists_query,kelompok apa yang terdaftar di kontak saya,social_post,0.9934,0.0033,False
+10957,id-ID,lists,lists_query,ingatkan saya berapa daftar yang saya punya,qa_factoid,0.9875,0.0003,False
+10960,id-ID,lists,lists_remove,coret yang itu dari daftar,social_post,0.7082,0.1821,False
+10970,id-ID,lists,lists_remove,hapus frase terakhir,lists_remove,0.908,0.908,True
+10979,id-ID,lists,lists_query,apa yang ada di daftar saya saat ini,lists_query,0.9302,0.9302,True
+10981,id-ID,lists,lists_query,beri tahu saya daftar,qa_factoid,0.995,0.0001,False
+10985,id-ID,lists,lists_remove,hapus yang harus dikerjakan minggu ini,calendar_remove,0.9329,0.0122,False
+10990,id-ID,lists,lists_remove,di daftar yang harus dilakukan hapus mengepel dapur,lists_remove,0.8857,0.8857,True
+10999,id-ID,lists,lists_query,berikan daftar,qa_factoid,0.9732,0.0,False
+11023,id-ID,lists,lists_remove,hapus daftar belanjaan,qa_factoid,0.9978,0.0005,False
+11024,id-ID,lists,lists_remove,hapus daftar yang harus dilakukan,lists_remove,0.9998,0.9998,True
+11053,id-ID,lists,lists_remove,google hapus daftar,qa_factoid,0.9954,0.0002,False
+11075,id-ID,lists,lists_query,berapa banyak daftar yang saya punya,lists_query,0.653,0.653,True
+11081,id-ID,lists,lists_query,daftar apa saja yang ada di buku catatan saya,lists_query,0.9979,0.9979,True
+11085,id-ID,lists,lists_remove,hapus susu dari daftar belanja saya,lists_remove,0.77,0.77,True
+11098,id-ID,lists,lists_remove,hapus daftar pajak dari sembilan belas sembilan puluh,lists_remove,0.6448,0.6448,True
+11107,id-ID,lists,lists_query,apa daftar saya saat ini,lists_remove,0.6364,0.1331,False
+11124,id-ID,lists,lists_query,sebutkan item yang ada di daftar pekerjaan saya,recommendation_events,0.8344,0.0025,False
+11125,id-ID,lists,lists_query,berikan saya rincian pesanan pembelian,email_query,0.963,0.0,False
+11133,id-ID,lists,lists_remove,hapus daftar tamu yang saya buat minggu lalu,lists_remove,0.9523,0.9523,True
+11154,id-ID,lists,lists_query,periksa daftar yang harus dilakukan,lists_query,0.947,0.947,True
+11162,id-ID,lists,lists_remove,saya ingin menghapus apel dari daftar,lists_remove,0.681,0.681,True
+11164,id-ID,lists,lists_remove,hapus dari daftar,qa_factoid,0.9755,0.0209,False
+11166,id-ID,lists,lists_query,buka google keep,recommendation_events,0.506,0.003,False
+11168,id-ID,lists,lists_remove,buang daftar saya,social_post,0.9814,0.0002,False
+11172,id-ID,lists,lists_query,berikan saya semua daftar yang tersedia,lists_remove,0.9979,0.001,False
+11174,id-ID,lists,lists_query,daftar semua daftar di perangkat ini,lists_query,0.9776,0.9776,True
+11180,id-ID,calendar,calendar_query,perencanaan pesta aku,social_post,0.7371,0.0018,False
+11186,id-ID,lists,lists_query,saya punya daftar pakaian saya,lists_remove,0.4565,0.4466,False
+11189,id-ID,lists,lists_query,cari daftar,qa_factoid,0.9694,0.0,False
+11204,id-ID,lists,lists_query,informasi penting rumah,email_sendemail,0.5517,0.0026,False
+11215,id-ID,lists,lists_query,daftar,email_query,0.419,0.0686,False
+11250,id-ID,lists,lists_query,bacakan ulang daftar belanja saya,qa_factoid,0.5182,0.0197,False
+11257,id-ID,play,play_podcasts,olly putar rekaman berikutnya,social_post,0.9996,0.0,False
+11259,id-ID,play,play_podcasts,lompat ke podcast selanjutnya,play_podcasts,0.9907,0.9907,True
+11261,id-ID,play,play_podcasts,berikutnya,calendar_remove,0.8763,0.0032,False
+11265,id-ID,play,play_podcasts,putar yang berikutnya,play_radio,0.6854,0.0385,False
+11266,id-ID,play,play_podcasts,putarkan podcast dari perpustakaan saya,play_podcasts,0.9999,0.9999,True
+11267,id-ID,play,play_podcasts,temukan podcast menarik tentang pritzker price winners terakhir,play_podcasts,1.0,1.0,True
+11270,id-ID,play,play_podcasts,putar podcast selanjutnya,play_podcasts,1.0,1.0,True
+11272,id-ID,play,play_podcasts,putar yang berikutnya,play_radio,0.6854,0.0385,False
+11279,id-ID,play,play_podcasts,buka podcast dan putar episode berikutnya dari podkesmas,play_podcasts,1.0,1.0,True
+11286,id-ID,play,play_podcasts,mainkan podcast young turks,play_podcasts,1.0,1.0,True
+11296,id-ID,play,play_podcasts,unggah semua podcast saya,play_podcasts,0.9993,0.9993,True
+11302,id-ID,play,play_podcasts,mainkan podcast last libertarian,play_podcasts,0.9995,0.9995,True
+11303,id-ID,play,play_podcasts,putar podcast podkesmas berikutnya,play_podcasts,1.0,1.0,True
+11306,id-ID,play,play_podcasts,putarkan podcast yang saya dengarkan kemarin,play_podcasts,1.0,1.0,True
+11318,id-ID,play,play_podcasts,putar episode selanjutnya dari podcast,play_podcasts,1.0,1.0,True
+11322,id-ID,play,play_podcasts,apa podcast terbaik hari ini,recommendation_events,0.7027,0.2371,False
+11328,id-ID,play,play_podcasts,tolong mainkan program podcast podkesmas,play_podcasts,0.9959,0.9959,True
+11331,id-ID,play,play_podcasts,tampilkan podcast terbaik dari lagu rock dengan peringkat bagus,play_podcasts,1.0,1.0,True
+11335,id-ID,play,play_music,putar dan acak semua lagu musik lambat,play_music,0.9999,0.9999,True
+11339,id-ID,play,play_podcasts,putar podcast saya yang sering ditonton,play_podcasts,1.0,1.0,True
+11340,id-ID,play,play_podcasts,apakah omesh punya podcast baru,social_post,0.6048,0.3944,False
+11341,id-ID,play,play_podcasts,temukan podcast disney terbaru,play_podcasts,0.993,0.993,True
+11343,id-ID,play,play_podcasts,alihkan ke episode berikutnya dari ibu ibu yacult,play_podcasts,0.8845,0.8845,True
+11345,id-ID,play,play_podcasts,putar episode selanjutnya dari podcast,play_podcasts,1.0,1.0,True
+11349,id-ID,play,play_podcasts,olly putar podcast yang saya mulai tadi malam,play_podcasts,1.0,1.0,True
+11353,id-ID,play,play_podcasts,tampilkan podcast,play_podcasts,0.5898,0.5898,True
+11361,id-ID,play,play_podcasts,podcast podkesmas putar itu,play_podcasts,0.9957,0.9957,True
+11366,id-ID,play,play_podcasts,kembali ke episode sebelumnya dari podcast,play_podcasts,1.0,1.0,True
+11368,id-ID,play,play_podcasts,putarkan podcast budi,play_podcasts,0.9435,0.9435,True
+11376,id-ID,play,play_podcasts,saya ingin mendengarkan podcast,play_podcasts,1.0,1.0,True
+11384,id-ID,play,play_podcasts,dapatkah anda mengunduh file podcast saya yang tersedia di internet dan memutarnya sekali,play_podcasts,0.9996,0.9996,True
+11409,id-ID,play,play_podcasts,lewati ke episode podcast selanjutnya,play_podcasts,0.9805,0.9805,True
+11417,id-ID,play,play_podcasts,mainkan episode selanjutnya,cooking_recipe,0.9072,0.0009,False
+11418,id-ID,play,play_podcasts,putar podcast terbaru deddy corbuzier,play_podcasts,1.0,1.0,True
+11420,id-ID,play,play_podcasts,mulai mainkan beberapa podcast terbaru saya,play_podcasts,1.0,1.0,True
+11423,id-ID,play,play_podcasts,mundur tiga puluh detik,qa_factoid,0.4934,0.0012,False
+11424,id-ID,play,play_podcasts,saluran prambors,qa_definition,0.6794,0.0062,False
+11426,id-ID,lists,lists_query,daftar yang paling sering dilihat,qa_factoid,0.973,0.0113,False
+11427,id-ID,play,play_podcasts,mulai program close the door,cooking_recipe,0.2633,0.0384,False
+11437,id-ID,play,play_podcasts,tolong mainkan podcast untuk saya,play_podcasts,1.0,1.0,True
+11438,id-ID,play,play_podcasts,tolong pindah ke episode podcast selanjutnya,play_podcasts,0.6881,0.6881,True
+11442,id-ID,play,play_podcasts,tolong putar podcast vincent desta terbaru,social_post,0.9839,0.0147,False
+11451,id-ID,play,play_podcasts,saya ingin mendengarkan podcast terbaru mike and mike,play_podcasts,1.0,1.0,True
+11453,id-ID,play,play_podcasts,mulai podcast-podcast di n. f. l.,social_post,0.8528,0.1464,False
+11455,id-ID,play,play_podcasts,segera pindah ke bagian berikutnya,calendar_remove,0.6014,0.0064,False
+11458,id-ID,play,play_podcasts,lanjut ke episode podcast selanjutnya,social_post,0.7982,0.1964,False
+11459,id-ID,play,play_podcasts,segera kembali ke episode terakhir di podcast,play_podcasts,0.9962,0.9962,True
+11460,id-ID,play,play_podcasts,saya ingin mendengarkan podcast olahraga,play_podcasts,1.0,1.0,True
+11467,id-ID,play,play_podcasts,segera mainkan semua podcast terbaru dari program rintik sendu,play_podcasts,1.0,1.0,True
+11470,id-ID,play,play_podcasts,putar podcast kesukaan saya,play_podcasts,1.0,1.0,True
+11474,id-ID,play,play_podcasts,lanjutkan series podcast,play_podcasts,0.9999,0.9999,True
+11476,id-ID,play,play_podcasts,putar podcast sebelumnya,play_podcasts,1.0,1.0,True
+11483,id-ID,play,play_podcasts,mulai mainkan program kutu buku,cooking_recipe,0.7795,0.0015,False
+11490,id-ID,play,play_podcasts,mainkan acara selanjutnya di podcast,play_podcasts,0.9953,0.9953,True
+11502,id-ID,play,play_podcasts,tombol selanjutnya,iot_hue_lightoff,0.4009,0.0099,False
+11505,id-ID,play,play_podcasts,putar ulang podcast yang terakhir saya putar,play_podcasts,1.0,1.0,True
+11514,id-ID,play,play_podcasts,ratna bisa kami mendengarkan balasan semua podcast yang ada,play_podcasts,0.9998,0.9998,True
+11515,id-ID,play,play_podcasts,segera dengarkan podcast asumsi bersuara,play_podcasts,0.9986,0.9986,True
+11525,id-ID,play,play_podcasts,saya mau melihat podcast selanjutnya yang masih tersedia,play_podcasts,1.0,1.0,True
+11529,id-ID,play,play_podcasts,hei putar podcast favorit saya dari playlist,social_post,0.9646,0.035,False
+11536,id-ID,play,play_podcasts,tambahkan podcast favorit ke playlist dan mulai,play_podcasts,1.0,1.0,True
+11539,id-ID,play,play_podcasts,mulai podcast selanjutnya,play_podcasts,0.9953,0.9953,True
+11546,id-ID,play,play_podcasts,putar semua podkesmas dari minggu sebelumnya,play_podcasts,1.0,1.0,True
+11554,id-ID,play,play_podcasts,saya ingin kamu memutar podcast,play_podcasts,1.0,1.0,True
+11563,id-ID,recommendation,recommendation_events,apa yang bisa saya lakukan di bandung,transport_query,0.6832,0.0237,False
+11570,id-ID,recommendation,recommendation_events,apa yang terjadi di kota saya,social_post,0.6595,0.0007,False
+11582,id-ID,recommendation,recommendation_events,apakah ada suatu event di dunia jazz di sekitar jakarta,play_music,0.1917,0.1796,False
+11585,id-ID,recommendation,recommendation_events,apa ada suatu acara kebudayaan di jakarta,recommendation_events,0.3591,0.3591,True
+11598,id-ID,recommendation,recommendation_events,beri tahu saya acara kontes pertunjukan anjing yang berlangsung di kota asal saya,social_post,0.3435,0.0822,False
+11600,id-ID,recommendation,recommendation_events,film apa yang bisa saya tonton malam ini di bioskop di jakarta,recommendation_events,0.7772,0.7772,True
+11610,id-ID,recommendation,recommendation_events,berikan saya daftar pertunjukan pertunjukan sirkus yang ada di kota saat ini,recommendation_events,0.2427,0.2427,True
+11612,id-ID,recommendation,recommendation_events,pameran pistol apa saja yang ada di depok,lists_query,0.9983,0.0001,False
+11616,id-ID,recommendation,recommendation_events,apakah ada acara yang diadakan di pusat kota malam ini,news_query,0.8629,0.0119,False
+11643,id-ID,recommendation,recommendation_events,acara apa saja yang akan digelar dalam waktu dekat,qa_factoid,0.5817,0.1968,False
+11644,id-ID,recommendation,recommendation_events,perlihatkan acara acara di depok,news_query,0.7792,0.0022,False
+11650,id-ID,recommendation,recommendation_events,kedua pengemudi muda dan pengemudi sementara lebih sering mengalami kecelakaan daripada pengemudi lain karena mereka belum memiliki berbagai pengalaman yang mereka butuhkan untuk mengemudi dengan aman berdasarkan penelitian mereka menunjukkan bahwa pengalaman berkendara merupakan faktor utama dalam mengurangi kecelakaan di jalan raya dan waktu teraman bagi pengemudi muda adalah saat mereka mengemudi di bawah pengawasan sambil belajar,lists_query,0.2533,0.0332,False
+11681,id-ID,recommendation,recommendation_events,tolong tampilkan maraton dekat saya,iot_hue_lightoff,0.75,0.0033,False
+11685,id-ID,recommendation,recommendation_events,saya akan senang bisa anda memberikan update tentang event yang diadakan di area kita,calendar_remove,0.3281,0.2206,False
+11705,id-ID,recommendation,recommendation_events,tunjukkan pameran lukisan di teluk ambon,social_post,0.9524,0.0018,False
+11720,id-ID,recommendation,recommendation_events,berenang,qa_factoid,0.6693,0.0042,False
+11767,id-ID,recommendation,recommendation_events,olly event apa yang sedang diadakan di bogor akhir pekan ini,recommendation_events,0.4317,0.4317,True
+11770,id-ID,recommendation,recommendation_events,acara apa saja saat akhir pekan di bandung,recommendation_events,0.3054,0.3054,True
+11782,id-ID,recommendation,recommendation_events,apakah ada acara spesial di sekitar saya di akhir pekan ini,qa_factoid,0.9427,0.0045,False
+11798,id-ID,recommendation,recommendation_events,apa acara selanjutnya di perpustakaan,recommendation_events,0.7484,0.7484,True
+11827,id-ID,recommendation,recommendation_events,ke mana saya bisa pergi malam ini,transport_query,0.2712,0.0621,False
+11839,id-ID,recommendation,recommendation_events,apa yang terjadi di sekitar saya,social_post,0.469,0.0095,False
+11841,id-ID,recommendation,recommendation_events,apakah ada pameran pernak pernik yang diadakan di area ini,recommendation_events,0.8452,0.8452,True
+11844,id-ID,recommendation,recommendation_events,apa ada suatu acara menarik di ancol,recommendation_events,0.879,0.879,True
+11845,id-ID,recommendation,recommendation_events,olly beritahu saya acara yang sangat menarik di area pantai indah kapuk,recommendation_events,0.6374,0.6374,True
+11860,id-ID,recommendation,recommendation_events,tunjukkan saya acara acara lokal,social_post,0.3607,0.0113,False
+11867,id-ID,recommendation,recommendation_events,apa ada acara olahraga besok di bandung,weather_query,0.6803,0.0283,False
+11875,id-ID,recommendation,recommendation_events,apa ada festival makanan di wilayah ini,qa_factoid,0.3792,0.0301,False
+11904,id-ID,recommendation,recommendation_events,akhir pekan ini apa yang terjadi di sekitar sini,social_post,0.7443,0.0094,False
+11905,id-ID,recommendation,recommendation_events,olly beri tahu saya aktivitas di area saya akhir pekan ini,social_post,0.7555,0.005,False
+11911,id-ID,recommendation,recommendation_events,apa ada acara bagus di daerah ini yang akan digelar akhir pekan ini,recommendation_events,0.9976,0.9976,True
+11916,id-ID,recommendation,recommendation_events,apa saja taman hiburan yang lokasinya dekat,qa_factoid,0.969,0.0039,False
+11969,id-ID,recommendation,recommendation_events,apakah ada sesuatu yang khusus terjadi di sekitar,qa_factoid,0.9839,0.0006,False
+11999,id-ID,recommendation,recommendation_events,beritau saya semua acara hari ini di kota saya,qa_factoid,0.9969,0.0001,False
+12008,id-ID,recommendation,recommendation_events,apa ada acara yang menyenangkan hari ini di depok,news_query,0.7186,0.0348,False
+12054,id-ID,recommendation,recommendation_events,apa yang terjadi di sekitar kota,news_query,0.4379,0.011,False
+12070,id-ID,recommendation,recommendation_events,kapan lippo mall puri buka,qa_factoid,0.9211,0.0069,False
+12073,id-ID,recommendation,recommendation_events,beritahukan event lokal saat ini,iot_hue_lightoff,0.7075,0.0127,False
+12098,id-ID,recommendation,recommendation_events,tunjukkan event musikal terdekat,play_music,0.9956,0.0006,False
+12189,id-ID,transport,transport_query,gimana cara ke stasiun kereta buat beli tiket,transport_query,0.9995,0.9995,True
+12240,id-ID,transport,transport_query,bagaimana lalu lintas di arah rumah aku di jam lima,weather_query,0.998,0.001,False
+12245,id-ID,transport,transport_query,kapankah kereta selanjutnya tujuan surabaya dari bandung,transport_query,0.9997,0.9997,True
+12251,id-ID,transport,transport_query,kasih jadwal kereta lokal ke tujuan ancol,transport_query,0.9741,0.9741,True
+12252,id-ID,transport,transport_query,jam berapa kereta ke arah manado berangkat,transport_query,0.365,0.365,True
+12261,id-ID,transport,transport_query,kasih tahu pilihan apa aja yang ada buat kereta ke arah bekasi untuk hari rabu atau kamis depan,lists_query,0.8236,0.0342,False
+12263,id-ID,transport,transport_query,bandung,social_post,0.9994,0.0,False
+12264,id-ID,transport,transport_query,jakarta,qa_factoid,0.2116,0.1561,False
+12294,id-ID,transport,transport_query,tampilkan jadwal kereta ke taman ismail marzuki,calendar_remove,0.9994,0.0002,False
+12310,id-ID,transport,transport_query,beri saya daftar tiket kereta yang tersedia dari cirebon ke bekasi,transport_query,0.9477,0.9477,True
+12343,id-ID,transport,transport_query,cek waktu kereta ciremai dari stasiun prujakan pada hari selasa,datetime_query,0.5075,0.3579,False
+12354,id-ID,transport,transport_query,beri aku jadwal kereta,qa_factoid,0.9872,0.0011,False
+12366,id-ID,transport,transport_query,apa ada kereta penghubung dari jakarta ke kuala lumpur dan jam berapa,transport_query,0.9943,0.9943,True
+12367,id-ID,transport,transport_query,apa jalan terbaik menuju banten,transport_query,0.999,0.999,True
+12376,id-ID,transport,transport_query,jam berapa k. r. l. pertama ke jakarta,datetime_query,0.9322,0.0063,False
+12392,id-ID,transport,transport_query,beritahu saya arah hari ini,qa_factoid,0.8876,0.0007,False
+12402,id-ID,transport,transport_query,kapan kereta selanjutnya tujuan kota dari sini,transport_query,0.9985,0.9985,True
+12419,id-ID,transport,transport_query,rute tercepat ke pizza hut,transport_query,0.9995,0.9995,True
+12430,id-ID,transport,transport_query,beritahu saya waktu kedatangan kereta ke jakarta,weather_query,0.9574,0.0323,False
+12436,id-ID,transport,transport_query,berapa lama waktu perjalanan dari sini ke bandara,transport_query,0.7257,0.7257,True
+12437,id-ID,transport,transport_query,berapa lama waktu perjalanan ke bioskop,qa_factoid,0.5721,0.3273,False
+12446,id-ID,transport,transport_query,bisa kasih tahu aku jam berapa saja kereta berangkat ke solo,weather_query,0.9983,0.0002,False
+12473,id-ID,transport,transport_query,bagaimana saya pulang ke rumah dari sini,qa_factoid,0.6732,0.0074,False
+12526,id-ID,transport,transport_query,apa jalan tercepat menuju kopi kenangan,transport_query,0.9982,0.9982,True
+12532,id-ID,transport,transport_query,tunjukkan cara pergi ke tempat,cooking_recipe,0.4631,0.0516,False
+12581,id-ID,transport,transport_query,kapan kereta f beroprasi hari ini,qa_factoid,0.5188,0.257,False
+12582,id-ID,transport,transport_query,jam berapa kereta m. r. t. pertama tiba di pagi hari,weather_query,0.8348,0.0001,False
+12604,id-ID,transport,transport_query,bagaimana cara saya memesan tiket kereta secara daring,qa_factoid,0.9993,0.0,False
+12618,id-ID,transport,transport_query,berapa harga tiket kereta pulang pergi ke jakarta pusat,transport_query,0.5339,0.5339,True
+12623,id-ID,transport,transport_query,apa kamu punya waktu kereta untuk medan sumatera utara,qa_factoid,0.8998,0.0013,False
+12629,id-ID,transport,transport_query,jam berapa kereta pertama berangkat dari bandung,weather_query,0.9443,0.0008,False
+12634,id-ID,transport,transport_query,jam berapa kereta berikutnya berangkat ke purwakarta,weather_query,0.9934,0.0008,False
+12707,id-ID,transport,transport_query,cari navigasi,qa_factoid,0.9941,0.0004,False
+12759,id-ID,transport,transport_query,lamanya waktu mengemudi ke bandung,qa_factoid,0.441,0.3323,False
+12797,id-ID,transport,transport_query,jadwal kereta dari sekitarku ke lokasi,transport_query,0.9982,0.9982,True
+12800,id-ID,transport,transport_query,di mana perpustakaan umum,qa_factoid,0.7385,0.0693,False
+12817,id-ID,transport,transport_query,bagaimana saya ke pusat perbelanjaan,qa_factoid,0.9969,0.0001,False
+12818,id-ID,transport,transport_query,berapa harga tiket kereta ke padang,qa_factoid,0.9797,0.0187,False
+12824,id-ID,transport,transport_query,buat daftar waktu kereta tujuan jakarta,calendar_remove,0.5049,0.0906,False
+12835,id-ID,transport,transport_query,jam berapa kereta ke tempat berangkat,weather_query,0.9515,0.0007,False
+12839,id-ID,transport,transport_query,bawa saya ke monas,social_post,0.7936,0.0045,False
+12851,id-ID,transport,transport_query,tampilkan arah ke rumah saya,qa_factoid,0.2982,0.1776,False
+12856,id-ID,transport,transport_query,tunjukkan arah,qa_factoid,0.9842,0.0001,False
+12866,id-ID,transport,transport_query,jam berapa argo bromo anggrek,qa_factoid,1.0,0.0,False
+12908,id-ID,transport,transport_query,jam berapa kereta tiba di semarang,weather_query,0.9718,0.0001,False
+12930,id-ID,transport,transport_query,carikan toko dekat saya di map,recommendation_events,0.51,0.0012,False
+12932,id-ID,transport,transport_query,olly saya perlu petunjuk arah ke jalan sarinah,transport_query,0.4984,0.4984,True
+12951,id-ID,qa,qa_factoid,apakah gedung tertinggi di dunia,qa_factoid,0.989,0.989,True
+12957,id-ID,qa,qa_definition,definisikan elaborasi,qa_definition,0.999,0.999,True
+12961,id-ID,qa,qa_definition,tolong definisikan forensik,qa_definition,0.9997,0.9997,True
+12963,id-ID,qa,qa_definition,apa definisi forensik,qa_definition,0.9997,0.9997,True
+12972,id-ID,qa,qa_factoid,dimana puncak tertinggi di dunia,qa_factoid,0.9834,0.9834,True
+12982,id-ID,qa,qa_definition,apa yang dimaksud dengan turbulensi,qa_definition,0.9803,0.9803,True
+12986,id-ID,qa,qa_definition,cek definisi berubah ubah,qa_definition,1.0,1.0,True
+12999,id-ID,qa,qa_factoid,berapa umur vina panduwinata,qa_factoid,0.9994,0.9994,True
+13016,id-ID,qa,qa_definition,cari definisi kekeliruan,qa_definition,1.0,1.0,True
+13023,id-ID,cooking,cooking_recipe,perlihatkan saya resep,cooking_recipe,1.0,1.0,True
+13069,id-ID,qa,qa_definition,apa definisi jeruk,qa_definition,1.0,1.0,True
+13074,id-ID,qa,qa_factoid,mengapa raditya dika tidak lucu,social_post,0.978,0.018,False
+13077,id-ID,qa,qa_factoid,kapan ulang tahun ahmad dhani,calendar_remove,0.7479,0.0398,False
+13078,id-ID,qa,qa_factoid,beri tahu saya alamat lyodra,qa_factoid,0.9836,0.9836,True
+13099,id-ID,qa,qa_factoid,siapa perdana menteri malaysia saat ini,qa_factoid,0.9996,0.9996,True
+13115,id-ID,qa,qa_factoid,apa ibu kota indonesia,qa_factoid,0.9747,0.9747,True
+13124,id-ID,qa,qa_factoid,seberapa besar kosmos,qa_factoid,0.9871,0.9871,True
+13135,id-ID,qa,qa_factoid,taylor lautner tanggal lahirnya kapan,datetime_query,0.7986,0.1913,False
+13140,id-ID,qa,qa_definition,beri tahu saya tentang badai,social_post,0.794,0.0592,False
+13154,id-ID,qa,qa_factoid,kamu tahu nomor h. p. jessica iskandar gak,qa_factoid,1.0,1.0,True
+13165,id-ID,qa,qa_definition,apa arti terombang ambing,qa_definition,0.9975,0.9975,True
+13166,id-ID,qa,qa_definition,eja dan definisikan terombang ambing,qa_definition,1.0,1.0,True
+13177,id-ID,calendar,calendar_set,ingatkan saya untuk bergerak sehingga tidak ada penambahan berat badan,qa_factoid,0.6744,0.0024,False
+13178,id-ID,calendar,calendar_set,ingatkan aku untuk menghubungi teman lama tidak mengobrol denganku dalam enam bulan sebelum mereka pergi,email_sendemail,0.3234,0.0123,False
+13188,id-ID,news,news_query,kasih tahu aku hasil pemilu dewan di jakarta kayak gimana,news_query,0.8884,0.8884,True
+13206,id-ID,qa,qa_definition,lokasi,qa_factoid,0.5932,0.0549,False
+13215,id-ID,transport,transport_query,jalan apa yang tercepat dan tanpa kena macet untuk ke tempat kerja saya di pusat kota,transport_query,0.9854,0.9854,True
+13252,id-ID,qa,qa_factoid,berapa hasil pemilu pertama susilo bambang yudhoyono,qa_factoid,0.9993,0.9993,True
+13255,id-ID,qa,qa_factoid,tolong beri aku info tentang susilo bambang yudhoyono,social_post,0.9156,0.0006,False
+13283,id-ID,qa,qa_factoid,berapa uang yang dihasilkan chairul tanjung,qa_factoid,0.9999,0.9999,True
+13288,id-ID,qa,qa_definition,apa definisi dari kata perpetual,qa_definition,1.0,1.0,True
+13297,id-ID,qa,qa_factoid,siapa itu selebriti,qa_factoid,0.7321,0.7321,True
+13298,id-ID,qa,qa_factoid,apa yang dilakukan selebriti,qa_factoid,0.8357,0.8357,True
+13330,id-ID,qa,qa_factoid,berapa ukuran paus sperma,qa_factoid,0.9994,0.9994,True
+13361,id-ID,qa,qa_definition,apa definisi ketepatan waktu,qa_definition,1.0,1.0,True
+13383,id-ID,qa,qa_factoid,berapa banyak negara bagian yang memiliki hukuman mati,qa_factoid,0.9993,0.9993,True
+13400,id-ID,social,social_post,kirim pesan lucu ke semua teman aku,social_post,0.9153,0.9153,True
+13439,id-ID,qa,qa_factoid,berapa umur dewi lestari,qa_factoid,0.9999,0.9999,True
+13457,id-ID,calendar,calendar_set,beritahu saya kapan saya harus pergi ke event tercatat supaya saya tiba tepat waktu,recommendation_events,0.5249,0.0323,False
+13473,id-ID,qa,qa_factoid,kapan amerika merdeka,qa_factoid,0.6423,0.6423,True
+13487,id-ID,qa,qa_factoid,olly apa ibu kota aceh,qa_factoid,1.0,1.0,True
+13494,id-ID,qa,qa_definition,apa arti kata motivasi,qa_definition,0.9999,0.9999,True
+13506,id-ID,datetime,datetime_query,beri tahu saya jam berapa sekarang,weather_query,0.9539,0.003,False
+13513,id-ID,qa,qa_factoid,ada berapa kaki yang anjing miliki,qa_factoid,1.0,1.0,True
+13516,id-ID,qa,qa_factoid,kenapa paus besar,qa_definition,0.9945,0.0055,False
+13546,id-ID,qa,qa_factoid,apa film terakhir yang diperankan raditya dika,qa_factoid,0.9535,0.9535,True
+13554,id-ID,qa,qa_factoid,brad pitt tingginya berapa,social_post,0.8039,0.0705,False
+13575,id-ID,qa,qa_factoid,kapan film pemenang penghargaan akademi terakhir,qa_factoid,0.8949,0.8949,True
+13580,id-ID,qa,qa_factoid,berapa tinggi puncak jaya wijaya,qa_factoid,0.9706,0.9706,True
+13591,id-ID,qa,qa_factoid,apa ibu kota jawa barat,qa_factoid,0.9652,0.9652,True
+13592,id-ID,qa,qa_factoid,indonesia ada di sebelah mana di dalam peta,qa_factoid,0.2892,0.2892,True
+13604,id-ID,qa,qa_factoid,di manakah hary tanoe dilahirkan,qa_factoid,0.6744,0.6744,True
+13607,id-ID,qa,qa_factoid,cek apakah betul ferry maryadi sudah menikah,qa_factoid,1.0,1.0,True
+13616,id-ID,qa,qa_factoid,dimana biasanya selebriti nongkrong,social_post,0.5902,0.33,False
+13619,id-ID,recommendation,recommendation_events,apa ada acara gratis di daerah saya hari ini,social_post,0.942,0.0242,False
+13625,id-ID,qa,qa_definition,apa meja terbesar,qa_factoid,1.0,0.0,False
+13636,id-ID,qa,qa_factoid,kapan ulang tahun willy dozan,calendar_remove,0.9895,0.0004,False
+13679,id-ID,qa,qa_factoid,bisakah anda memberitahu berapa banyak perut yang dimiliki sapi,qa_definition,0.1997,0.1018,False
+13681,id-ID,qa,qa_factoid,berapa banyak permainan yang telah dimainkan patrick stewart,qa_factoid,0.9989,0.9989,True
+13683,id-ID,qa,qa_factoid,apa merek semprotan rambut yang digunakan susilo bambang yudhoyono,qa_definition,0.7112,0.1681,False
+13689,id-ID,qa,qa_definition,apa itu kursi,qa_definition,0.9966,0.9966,True
+13690,id-ID,qa,qa_factoid,apa warna kursi,iot_hue_lightoff,0.7237,0.1685,False
+13693,id-ID,qa,qa_factoid,garis meridian bumi ada di mana,qa_factoid,0.7192,0.7192,True
+13705,id-ID,qa,qa_definition,apa itu sistem emisi elektronik,qa_definition,0.9999,0.9999,True
+13706,id-ID,qa,qa_definition,deskripsikan baling baling,cooking_recipe,0.3328,0.3195,False
+13714,id-ID,qa,qa_definition,apa itu mangga,qa_definition,0.9991,0.9991,True
+13717,id-ID,qa,qa_factoid,bisakah melihat russia dari alaska,qa_definition,0.5624,0.4371,False
+13758,id-ID,qa,qa_factoid,anggun c. sasmi umurnya berapa,qa_factoid,1.0,1.0,True
+13761,id-ID,qa,qa_factoid,apa itu parsec,qa_definition,0.9967,0.0009,False
+13774,id-ID,qa,qa_factoid,seberapa jauh jarak jawa barat dari malaysia,qa_factoid,0.9999,0.9999,True
+13777,id-ID,qa,qa_definition,bisa jelaskan apa itu kartu kredit,email_query,0.5625,0.4042,False
+13780,id-ID,qa,qa_factoid,apakah daniel wenas sudah menikah,social_post,0.7686,0.2092,False
+13798,id-ID,qa,qa_factoid,ada berapa mil persegi rata rata negara di bumi,qa_factoid,0.8469,0.8469,True
+13799,id-ID,qa,qa_definition,apa definisi tunduk,qa_definition,1.0,1.0,True
+13823,id-ID,qa,qa_factoid,berapa jarak matahari,qa_factoid,0.8485,0.8485,True
+13853,id-ID,qa,qa_factoid,dimanakah di muka bumi ini yang paling banyak gunung berapi,qa_factoid,0.9721,0.9721,True
+13854,id-ID,qa,qa_factoid,kapan chrisye meninggal,qa_factoid,0.9872,0.9872,True
+13863,id-ID,qa,qa_definition,apa definisi logika,qa_definition,0.9985,0.9985,True
+13867,id-ID,qa,qa_factoid,di mana taman yosemite,qa_factoid,0.996,0.996,True
+13869,id-ID,qa,qa_factoid,tolong google lokasi dan informasi gunung rushmore,lists_query,0.1159,0.05,False
+13871,id-ID,qa,qa_definition,menurutmu apa yang dimaksud selamat ulang tahun,email_sendemail,0.8606,0.0224,False
+13881,id-ID,qa,qa_factoid,beri tahu saya informasi anang,qa_definition,0.7283,0.1702,False
+13888,id-ID,qa,qa_factoid,berapa suhu di indramayu jawa barat,qa_factoid,0.9999,0.9999,True
+13895,id-ID,qa,qa_factoid,bisakah kamu ceritakan tentang raditya dika,social_post,0.9246,0.0102,False
+13900,id-ID,qa,qa_definition,definisi hidup,qa_definition,0.9983,0.9983,True
+13907,id-ID,qa,qa_definition,definisikan terheran heran,qa_definition,1.0,1.0,True
+13908,id-ID,qa,qa_definition,beri tahu saya apa makna terheran heran,qa_definition,0.983,0.983,True
+13926,id-ID,qa,qa_factoid,kapan ulang tahun iko uwais,calendar_remove,0.3176,0.2173,False
+13927,id-ID,qa,qa_factoid,berapa harga egi maulana,qa_factoid,0.9999,0.9999,True
+13974,id-ID,qa,qa_factoid,dimana indonesia berada,social_post,0.4825,0.3086,False
+13983,id-ID,qa,qa_definition,menderita akibat,qa_factoid,0.2711,0.0293,False
+13984,id-ID,qa,qa_definition,konsekuensi dari tindakan,qa_factoid,0.8495,0.0284,False
+13997,id-ID,qa,qa_factoid,berapa harga rata rata rumah,qa_factoid,0.903,0.903,True
+14000,id-ID,qa,qa_definition,deskripsikan kungkang,qa_definition,0.9789,0.9789,True
+14001,id-ID,qa,qa_factoid,beri tau saya apapun yang kamu ketahui tentang kungkang,qa_definition,0.8219,0.1394,False
+14011,id-ID,qa,qa_factoid,kapan hari ulang tahun tamara bleszynzki,weather_query,0.5599,0.0002,False
+14015,id-ID,qa,qa_factoid,berapa titik koordinat khatulistiwa,qa_factoid,0.9402,0.9402,True
+14023,id-ID,qa,qa_definition,deskripsikan neraka,qa_factoid,0.9998,0.0001,False
+14033,id-ID,qa,qa_factoid,beri tahu saya kapan obama lahir,qa_factoid,0.984,0.984,True
+14038,id-ID,qa,qa_factoid,dimana lokasi moldova,qa_factoid,0.4048,0.4048,True
+14040,id-ID,qa,qa_factoid,seberapa tinggi hulk hogan,qa_factoid,1.0,1.0,True
+14053,id-ID,qa,qa_factoid,tahun berapa jeremy thomas mulai berakting,datetime_query,0.9752,0.0103,False
+14063,id-ID,qa,qa_factoid,kapan hari ulang tahun chrisye,weather_query,0.9844,0.0009,False
+14083,id-ID,qa,qa_factoid,dimana joe taslim tinggal saat ini,social_post,0.9942,0.0002,False
+14096,id-ID,qa,qa_factoid,di mana pegunungan bukit barisan,qa_definition,0.9993,0.0003,False
+14115,id-ID,qa,qa_definition,berikan saya detail dari batu pasir,qa_factoid,0.6103,0.0446,False
+14116,id-ID,qa,qa_definition,jelaskan pasir batu,qa_definition,0.9989,0.9989,True
+14117,id-ID,qa,qa_factoid,piramida ada di mana,qa_definition,0.577,0.1169,False
+14118,id-ID,qa,qa_factoid,beri tahu saya detil geografis piramida,qa_factoid,0.7692,0.7692,True
+14126,id-ID,qa,qa_factoid,tampilkan biodata dari maudy ayunda,iot_hue_lightoff,0.8365,0.1613,False
+14138,id-ID,qa,qa_definition,beri tahu saya apa definisi silinder,qa_definition,1.0,1.0,True
+14147,id-ID,qa,qa_definition,definisikan selimut,qa_definition,0.9999,0.9999,True
+14150,id-ID,qa,qa_definition,apa itu sepatu bata,qa_definition,0.9831,0.9831,True
+14151,id-ID,qa,qa_factoid,jenis kacamata hitam apa yang dianggap penerbang,qa_definition,0.9988,0.0011,False
+14154,id-ID,qa,qa_factoid,info afrika,qa_definition,0.3959,0.1323,False
+14163,id-ID,qa,qa_factoid,cari lokalitas,qa_factoid,1.0,1.0,True
+14169,id-ID,qa,qa_factoid,farah queen kuliah di mana,qa_factoid,0.9998,0.9998,True
+14170,id-ID,qa,qa_factoid,apakah kim kardashian menggunakan converse,qa_definition,0.8349,0.1648,False
+14179,id-ID,qa,qa_factoid,berapa jauh jarak kanada dari lokasi saya saat ini,qa_factoid,0.9985,0.9985,True
+14214,id-ID,transport,transport_query,cari cara perjalanan untuk yang sama,cooking_recipe,0.8222,0.0292,False
+14229,id-ID,qa,qa_factoid,prilly latuconsina udah akting di film mana,qa_factoid,0.9865,0.9865,True
+14243,id-ID,qa,qa_factoid,detail tentang orang,social_post,0.978,0.0006,False
+14272,id-ID,qa,qa_definition,apa itu buku,qa_definition,0.9999,0.9999,True
+14283,id-ID,qa,qa_factoid,beri tahu aku tentang jember,qa_definition,0.9658,0.0034,False
+14306,id-ID,qa,qa_factoid,jelasin lokasi geografis indonesia,qa_factoid,0.9984,0.9984,True
+14308,id-ID,qa,qa_factoid,berapa kekayaan bersih leonardo dicaprio,qa_factoid,0.9998,0.9998,True
+14316,id-ID,qa,qa_factoid,seberapa besar sumatra utara,lists_query,0.9401,0.0182,False
+14317,id-ID,qa,qa_factoid,berapa luas amerika,qa_factoid,0.9932,0.9932,True
+14323,id-ID,qa,qa_factoid,buah naga warnanya apa,iot_hue_lightoff,0.3438,0.102,False
+14330,id-ID,qa,qa_factoid,hary tanoe lahir di mana,qa_factoid,0.9857,0.9857,True
+14347,id-ID,qa,qa_definition,apa itu hipotesa,iot_hue_lightoff,0.8993,0.0396,False
+14354,id-ID,qa,qa_factoid,apa jawaban dari alam semesta,qa_definition,0.8936,0.0576,False
+14355,id-ID,qa,qa_factoid,berapa banyak kerang yang di jual sally di pinggir pantai,qa_factoid,0.926,0.926,True
+14370,id-ID,qa,qa_factoid,beritahu saya profesi selebriti,social_post,0.9173,0.0684,False
+14378,id-ID,qa,qa_definition,definisi kecepatan,qa_factoid,0.9997,0.0003,False
+14382,id-ID,qa,qa_factoid,seberapa besar gedung empire state,qa_factoid,0.8075,0.8075,True
+14395,id-ID,qa,qa_factoid,berapakah titik terdalam di bumi,qa_factoid,0.9996,0.9996,True
+14414,id-ID,qa,qa_definition,jelaskan apa itu hardisk komputer,qa_definition,0.9983,0.9983,True
+14417,id-ID,qa,qa_factoid,samudera mana yang menyentuh benua kita,qa_factoid,0.9995,0.9995,True
+14419,id-ID,qa,qa_factoid,apakah raditya dika ada film baru tahun ini,qa_factoid,0.9999,0.9999,True
+14429,id-ID,qa,qa_definition,apa itu caftan,qa_definition,0.9866,0.9866,True
+14440,id-ID,qa,qa_factoid,apa ibu kota indonesia,qa_factoid,0.9747,0.9747,True
+14442,id-ID,qa,qa_factoid,dimanakah gunung fiji,qa_definition,0.9909,0.0091,False
+14444,id-ID,qa,qa_factoid,apa film pertama jeremy thomas,qa_factoid,1.0,1.0,True
+14449,id-ID,qa,qa_factoid,apa raffi ahmad punya anak lagi,social_post,0.4462,0.3836,False
+14457,id-ID,qa,qa_factoid,cari rute,qa_factoid,0.9895,0.9895,True
+14465,id-ID,transport,transport_query,petunjuk jalan ke dufan,social_post,0.9972,0.0,False
+14490,id-ID,qa,qa_factoid,kapan djakarta theater dibangun,qa_factoid,0.9921,0.9921,True
+14498,id-ID,qa,qa_definition,beri tahu saya deskripsi telepon pintar,qa_definition,0.9953,0.9953,True
+14504,id-ID,qa,qa_factoid,olly ada berapa rapat yang dilakukan susilo bambang yudhoyono,qa_factoid,0.9968,0.9968,True
+14505,id-ID,qa,qa_factoid,siapa perdana menteri indonesia saat ini,qa_factoid,0.9998,0.9998,True
+14508,id-ID,qa,qa_factoid,tolong ringkaskan buku terbaru george r. r. martin ice and fire,lists_remove,0.502,0.0067,False
+14509,id-ID,qa,qa_factoid,dimana mahatma gandhi lahir,social_post,0.5651,0.0289,False
+14539,id-ID,qa,qa_factoid,cari detil geografis tempat ini,qa_factoid,0.9986,0.9986,True
+14545,id-ID,qa,qa_factoid,beri tahu lokasi indonesia,qa_factoid,1.0,1.0,True
+14567,id-ID,qa,qa_factoid,apa aktivitas gunung berapi tertinggi di bumi,qa_factoid,0.9989,0.9989,True
+14585,id-ID,qa,qa_factoid,berapa lama perjalanan dari korea selatan ke jepang,qa_factoid,0.9896,0.9896,True
+14591,id-ID,qa,qa_definition,berikan saya deskripsi dari sirkuit televisi,qa_definition,0.9889,0.9889,True
+14592,id-ID,qa,qa_definition,beri saya deskripsi sirkuit smartphone,qa_factoid,0.9982,0.0004,False
+14597,id-ID,qa,qa_factoid,berapa populasi jakarta,qa_factoid,1.0,1.0,True
+14601,id-ID,qa,qa_factoid,berapa tahun abraham lincoln menjadi presiden amerika,qa_factoid,0.9693,0.9693,True
+14605,id-ID,qa,qa_factoid,apa luna maya putus sama ariel noah,qa_factoid,0.9973,0.9973,True
+14608,id-ID,qa,qa_factoid,film terbaru apa yang sedang dikerjakan raditya dika,recommendation_events,0.9893,0.0037,False
+14622,id-ID,qa,qa_definition,apa itu korah,social_post,0.87,0.1236,False
+14648,id-ID,cooking,cooking_recipe,resep tolong,cooking_recipe,0.7947,0.7947,True
+14653,id-ID,qa,qa_factoid,berapa populasi malaysia,qa_factoid,1.0,1.0,True
+14661,id-ID,qa,qa_factoid,berapa tahun kelahiran susilo bambang yudhoyono,qa_factoid,0.8698,0.8698,True
+14668,id-ID,qa,qa_definition,jabarkan soal xy,iot_hue_lightoff,0.9969,0.0,False
+14683,id-ID,qa,qa_factoid,apakah hobby tiara andini,qa_definition,0.9976,0.0002,False
+14684,id-ID,qa,qa_factoid,siapa perdana menteri indonesia,qa_factoid,0.9995,0.9995,True
+14690,id-ID,qa,qa_definition,ok google apa itu presiden,qa_factoid,0.9507,0.0492,False
+14700,id-ID,qa,qa_definition,apa sebenarnya tambal gigi berlubang,qa_definition,1.0,1.0,True
+14701,id-ID,qa,qa_definition,jelasin tentang uno,qa_definition,0.9661,0.9661,True
+14705,id-ID,qa,qa_factoid,ok google dimana tara basro tinggal,qa_factoid,1.0,1.0,True
+14706,id-ID,qa,qa_factoid,nikita mirzani tinggal di mana,social_post,0.9982,0.0003,False
+14746,id-ID,qa,qa_factoid,apa ibu kota kazakhstan,qa_factoid,1.0,1.0,True
+14761,id-ID,qa,qa_definition,beri tahu saya definisi kepausan,qa_definition,1.0,1.0,True
+14767,id-ID,qa,qa_definition,bagaimana kamu mendeskripsikan bola,qa_definition,0.5396,0.5396,True
+14770,id-ID,qa,qa_factoid,beri tahu saya samudra terbesar di dunia,qa_factoid,0.9988,0.9988,True
+14787,id-ID,qa,qa_factoid,apa bedanya kalender roman dan gregorian,cooking_recipe,0.9646,0.0004,False
+14791,id-ID,qa,qa_factoid,apa make up kursinya,cooking_recipe,0.9991,0.0,False
+14794,id-ID,qa,qa_factoid,apa kendaraan favorit chrisye,social_post,0.9456,0.0126,False
+14822,id-ID,qa,qa_factoid,untuk membandingkan orang orang,social_post,0.9874,0.0025,False
+14838,id-ID,qa,qa_factoid,apa itu filter kepadatan netral dan apakah saya butuh yang gradien atau yang solid juga mana yang modelnya lebih baik antara sekrup satu dan yang persegi,qa_factoid,0.9882,0.9882,True
+14857,id-ID,qa,qa_definition,jelaskan makna terlalu tinggi padaku,qa_definition,0.9995,0.9995,True
+14877,id-ID,qa,qa_factoid,bagaimana kondisi iklim di area itu,weather_query,0.9804,0.004,False
+14879,id-ID,qa,qa_definition,arti dari,qa_definition,0.9997,0.9997,True
+14884,id-ID,qa,qa_factoid,apa negara bagian yang paling rentan terhadap tornado di seluruh indonesia,qa_factoid,0.3616,0.3616,True
+14889,id-ID,qa,qa_definition,deskripsikan objek itu untuk saya,qa_definition,0.6595,0.6595,True
+14891,id-ID,qa,qa_factoid,di bidang apa orang itu unggul,qa_factoid,1.0,1.0,True
+14912,id-ID,qa,qa_factoid,dimana presiden soekarno lahir,social_post,0.966,0.0057,False
+14917,id-ID,qa,qa_factoid,kapan album baru lyodra keluar,email_sendemail,0.7363,0.1795,False
+14933,id-ID,qa,qa_factoid,beri tahu saya tentang info geografis india,qa_factoid,0.2416,0.2416,True
+14939,id-ID,qa,qa_factoid,saya butuh penjelasan tentang bruce lee tolong dibantu,email_query,0.2297,0.2043,False
+14981,id-ID,qa,qa_definition,deskripsi oppo find seven,qa_factoid,0.9995,0.0004,False
+14994,id-ID,qa,qa_factoid,apa film raditya dika yang berikutnya,social_post,0.2156,0.204,False
+14995,id-ID,qa,qa_definition,apa arti keadaan,qa_definition,0.9981,0.9981,True
+15020,id-ID,qa,qa_factoid,berapa umur ray sahetapy,qa_factoid,0.8902,0.8902,True
+15039,id-ID,qa,qa_factoid,olly dimanakah pegunungan jayawijaya dimulai,social_post,0.7082,0.0056,False
+15055,id-ID,qa,qa_factoid,kutub mana yang lebih dingin selatan atau utara,weather_query,0.9992,0.0001,False
+15056,id-ID,qa,qa_factoid,berapa usia pacar terbaru prilly latuconsina,qa_factoid,1.0,1.0,True
+15062,id-ID,qa,qa_factoid,tolong info nikita mirzani,social_post,0.9992,0.0004,False
+15075,id-ID,qa,qa_factoid,olly dimana orang amerika pertama menetap,qa_factoid,0.9998,0.9998,True
+15092,id-ID,qa,qa_definition,temukan deskripsi tentang samsung tv,qa_definition,0.9999,0.9999,True
+15094,id-ID,qa,qa_factoid,cari tahu jumlah orang yang tinggal di bandung jawa barat,qa_factoid,0.4227,0.4227,True
+15095,id-ID,qa,qa_factoid,bali ada di wilayah mana,qa_factoid,0.9956,0.9956,True
+15127,id-ID,qa,qa_definition,apa itu pengeras suara,qa_definition,0.9998,0.9998,True
+15155,id-ID,social,social_post,bisakah kamu unggah swafoto terakhir saya ke akun facebook,social_post,0.979,0.979,True
+15166,id-ID,social,social_post,kirim bisnis di twitter,qa_factoid,0.9688,0.0029,False
+15177,id-ID,social,social_post,tolong retweet kiriman ini di twitter,social_post,0.9986,0.9986,True
+15185,id-ID,social,social_post,ucapan ulang tahun,qa_factoid,0.7781,0.0004,False
+15186,id-ID,social,social_post,ucapan pernikahan,qa_factoid,0.9275,0.0002,False
+15187,id-ID,social,social_post,bagikan di kiriman teman,email_sendemail,1.0,0.0,False
+15197,id-ID,social,social_post,post ke twitter kunjungan saya ke jepang,social_post,0.9999,0.9999,True
+15208,id-ID,social,social_post,kirim hey semuanya di facebook,social_post,0.9996,0.9996,True
+15213,id-ID,news,news_query,apa yang sedang tren saat ini,weather_query,0.9007,0.0022,False
+15214,id-ID,news,news_query,apa berita di hari ini,news_query,0.9997,0.9997,True
+15216,id-ID,social,social_post,twit sesuatu untuk saya,qa_factoid,0.9274,0.002,False
+15231,id-ID,social,social_post,foto perjalananku ke goa post ke instagram,social_post,0.9999,0.9999,True
+15271,id-ID,social,social_post,post ini ke facebook saya l. o. l.,social_post,1.0,1.0,True
+15275,id-ID,social,social_post,buat postingan saya senang di facebook,social_post,0.9996,0.9996,True
+15276,id-ID,social,social_post,buat kiriman status baru di facebook mengatakan saya menikmati cuaca bagus ini,weather_query,0.9794,0.019,False
+15289,id-ID,social,social_post,kirim pesan sekarang,email_sendemail,1.0,0.0,False
+15305,id-ID,calendar,calendar_query,apakah saya ada pemberitahuan dai sosial media,social_post,0.9971,0.0001,False
+15318,id-ID,social,social_post,saya ingin berterima kasih ke semuanya untuk ucapan ulang tahun,email_sendemail,0.9962,0.0001,False
+15337,id-ID,social,social_post,kirim video ini ke facebook,qa_factoid,0.8982,0.0929,False
+15350,id-ID,social,social_post,saya tidak puas dengan lotte tolong bantu saya,social_post,0.9409,0.9409,True
+15358,id-ID,social,social_post,olly twit apple bahwa iphone tidak berfungsi,social_post,0.9998,0.9998,True
+15359,id-ID,social,social_post,buka cuitan ke apple bilang baterai iphone saya selalu terkuras,qa_factoid,1.0,0.0,False
+15364,id-ID,social,social_post,bisakah kamu beri tahu amazon bahwa pelindung handphone saya ini sampah,qa_factoid,0.8869,0.0008,False
+15382,id-ID,social,social_post,bisa kontak samsung dan bilang mesin cuci aku kebakaran,qa_factoid,0.9497,0.0012,False
+15387,id-ID,social,social_post,twit lokasi saya saat ini,qa_factoid,0.881,0.0018,False
+15399,id-ID,social,social_post,teruskan keluhan ke indosat karena masalah jaringan,transport_query,0.9259,0.0037,False
+15401,id-ID,social,social_post,buka twitter dan kirim pesan,social_post,0.9363,0.9363,True
+15402,id-ID,social,social_post,twit produk itu jelek,qa_factoid,0.9907,0.0003,False
+15409,id-ID,social,social_post,buka twitter ketik keluhan aku dan kirim ke at consumer service,social_post,0.9882,0.9882,True
+15413,id-ID,social,social_post,carikan saya seseorang segera,recommendation_events,0.9966,0.0018,False
+15444,id-ID,social,social_post,sangat buruk ke at companyname,social_post,0.9794,0.9794,True
+15448,id-ID,social,social_post,kirim twit tentang masalah volume sonys,social_post,0.9997,0.9997,True
+15454,id-ID,social,social_post,twit ke lion air saya marah mereka menghilangkan tas saya,iot_hue_lightoff,0.4189,0.366,False
+15456,id-ID,social,social_post,saya ingin mengirim cuitan ke lion air saya marah mereka menghilangkan tas saya,social_post,0.9999,0.9999,True
+15457,id-ID,social,social_post,saya ada masalah dengan burger saya bisakah kamu twit burger king,social_post,0.9997,0.9997,True
+15459,id-ID,social,social_post,buat twitter keluhan,qa_factoid,0.7082,0.0,False
+15464,id-ID,social,social_post,saya tidak mendapatkan produk saya tepat waktu kirim cuitan ke sogo,qa_factoid,1.0,0.0,False
+15467,id-ID,social,social_post,kasih tahu telkomsel aku benci mereka,social_post,0.7796,0.7796,True
+15472,id-ID,social,social_post,twit keluhan untuk toko buku online,iot_hue_lightoff,0.9934,0.0002,False
+15487,id-ID,social,social_post,twit metro tentang kebersihan toko mereka,email_sendemail,0.852,0.0252,False
+15488,id-ID,social,social_post,tolong twit at pizzahut aku udah lama nunggu pesananku diantar gak senang,social_post,0.9997,0.9997,True
+15503,id-ID,social,social_post,cuitan baru ke layanan konsumen,cooking_recipe,0.7899,0.0,False
+15508,id-ID,social,social_post,siri buka twitter twit at potus jelek,social_post,0.9803,0.9803,True
+15518,id-ID,social,social_post,kirim keluhan lewat twit ke zalora,social_post,0.5854,0.5854,True
+15532,id-ID,social,social_post,olly twit lotte dan beri tahu mereka layanan konsumennya sangat jelek,social_post,0.8959,0.8959,True
+15546,id-ID,social,social_post,twit tentang pizza dingin ke papa johns,cooking_recipe,0.9963,0.0001,False
+15548,id-ID,social,social_post,twit keluhan mobile ke samsung,qa_factoid,0.9931,0.0,False
+15553,id-ID,social,social_post,tolong twit respon negatif pada layanan daikin,qa_factoid,0.9723,0.0268,False
+15554,id-ID,social,social_post,tolong twit ke dell service untuk layanan yang terlambat,social_post,0.3984,0.3984,True
+15556,id-ID,social,social_post,mari twit keluhan,social_post,1.0,1.0,True
+15557,id-ID,social,social_post,saya perlu kamu membuat twit keluhan,social_post,0.943,0.943,True
+15560,id-ID,social,social_post,kirim ke facebook saya lapar,social_post,0.8713,0.8713,True
+15565,id-ID,social,social_post,bisakah kamu beri tahu garuda saya tidak akan memakai mereka lagi,recommendation_events,0.7482,0.1409,False
+15587,id-ID,social,social_post,buka galeri dan buat kiriman gambar nama,email_sendemail,0.9871,0.005,False
+15592,id-ID,social,social_post,twit keluhan ke at telkomsel,iot_hue_lightoff,0.7958,0.0014,False
+15593,id-ID,social,social_post,twit keluhan ke at telkomsel,iot_hue_lightoff,0.7958,0.0014,False
+15598,id-ID,social,social_post,buka nama perusahaan cari keluhan,qa_factoid,0.5442,0.0555,False
+15610,id-ID,social,social_post,kirim cuitan sebagai berikut tindak lanjut yang sangat buruk oleh perusahaan a. b. c. tidak puas di akun saya,qa_factoid,0.9805,0.0013,False
+15618,id-ID,social,social_post,twit prudential dan bilang mereka payah,qa_factoid,0.9486,0.0046,False
+15626,id-ID,social,social_post,tolong twit keluhan ke xl untuk layanan konsumen buruk,social_post,0.779,0.779,True
+15634,id-ID,social,social_post,ok google twit pemilik pom bensin itu brengsek banget,social_post,0.9999,0.9999,True
+15635,id-ID,social,social_post,twit mcdonalds cimahi pelayanannya buruk,qa_factoid,0.882,0.0052,False
+15647,id-ID,social,social_post,twit keluhan ke at,qa_factoid,0.9406,0.0002,False
+15651,id-ID,social,social_post,kirim laporan ke layanan pengguna,recommendation_events,0.3873,0.0062,False
+15652,id-ID,social,social_post,bantu protes ke layanan konsumen,social_post,0.9965,0.9965,True
+15655,id-ID,social,social_post,twit ke layanan konsumen google telefon nexus saya berhenti berfungsi tolong bantu,qa_factoid,0.9992,0.0,False
+15656,id-ID,social,social_post,twit pesan ke kris bahwa saya masih menunggu pengiriman,email_sendemail,0.9952,0.0014,False
+15661,id-ID,social,social_post,kirim entri terbaru saya ke twitter at n. s. a.,qa_factoid,0.5128,0.4758,False
+15670,id-ID,social,social_post,kirim twit keluhan,social_post,1.0,1.0,True
+15672,id-ID,social,social_post,twit ke apple tentang struk servis iphone aku minggu lalu gak dikasih juga,email_sendemail,0.79,0.0037,False
+15676,id-ID,social,social_post,tollong tambahkan keluhan tentang pelayanan di twit ke olive garden,social_post,0.9961,0.9961,True
+15686,id-ID,social,social_post,halo barang saya yang saya beli dari seseorang telah rusak,qa_factoid,0.7173,0.044,False
+15693,id-ID,social,social_post,twit ada serangga di paket cokelat,iot_hue_lightoff,0.5645,0.0006,False
+15700,id-ID,social,social_post,produk yang kedaluwarsa di pasar akhir akhir ini,qa_factoid,0.9977,0.0001,False
+15703,id-ID,social,social_post,twitter ke destinasi x. l. mereka kehabisan ukuran terlalu cepat,email_sendemail,0.8763,0.0648,False
+15706,id-ID,social,social_post,twit at,iot_hue_lightoff,0.6824,0.0012,False
+15707,id-ID,social,social_post,ayo kirim cuitan,qa_factoid,1.0,0.0,False
+15708,id-ID,social,social_post,post keluhan tentang layanan a,social_post,0.982,0.982,True
+15721,id-ID,social,social_post,twit wajah jijik tentang mcdonalds,social_post,0.9959,0.9959,True
+15723,id-ID,social,social_post,atur merasa bahagia di status facebook,social_post,0.9987,0.9987,True
+15731,id-ID,social,social_post,olly twit pesan ke indosat dan beri tahu mereka pelayanannya buruk,email_sendemail,1.0,0.0,False
+15732,id-ID,social,social_post,twit samsung dan kasih tahu mereka berhenti ngebunuh orang orang dengan produk mereka,email_sendemail,1.0,0.0,False
+15736,id-ID,social,social_post,kirim review negatif tentang perusahaan,qa_factoid,0.9594,0.0262,False
+15756,id-ID,email,email_sendemail,tolong email tim saya,email_sendemail,1.0,1.0,True
+15763,id-ID,email,email_query,tolong cek surat elektronik yang baru,email_query,0.6289,0.6289,True
+15765,id-ID,email,email_sendemail,jawaban ke email joni,email_sendemail,1.0,1.0,True
+15777,id-ID,email,email_query,beritahu saya kalau ada email baru,email_sendemail,1.0,0.0,False
+15785,id-ID,email,email_query,apakah ada yang baru di kotak surat saya,email_sendemail,0.9997,0.0003,False
+15789,id-ID,email,email_query,oki apakah saya ada surel baru,qa_factoid,0.948,0.001,False
+15792,id-ID,calendar,calendar_query,siapa yang saya temui hari ini,cooking_recipe,0.3545,0.0086,False
+15796,id-ID,email,email_sendemail,kirim surel ke tati,social_post,0.9988,0.0,False
+15802,id-ID,email,email_sendemail,balas email ke jason kalau saya tidak akan datang malam ini,email_sendemail,1.0,1.0,True
+15809,id-ID,email,email_query,apakah putra sudah ngirim surel saya,qa_factoid,1.0,0.0,False
+15825,id-ID,email,email_sendemail,balas ke ayah tulis saya akan terlambat,email_sendemail,0.9995,0.9995,True
+15828,id-ID,email,email_sendemail,ini adalah alamat email baru untuk ditambahkan ke kontak,email_sendemail,1.0,1.0,True
+15829,id-ID,email,email_sendemail,buka kontak dan masukkan alamat email baru,email_sendemail,1.0,1.0,True
+15839,id-ID,email,email_query,tema,qa_factoid,0.7187,0.0043,False
+15841,id-ID,email,email_sendemail,buat email baru untuk ray,email_sendemail,1.0,1.0,True
+15845,id-ID,email,email_sendemail,bagaimana itu datang ke kita,qa_factoid,0.9443,0.0004,False
+15847,id-ID,email,email_sendemail,bagaimana kita bisa mendapatkan kredit,qa_factoid,0.3719,0.0325,False
+15849,id-ID,email,email_sendemail,kirim surel ke bos saya,social_post,0.9996,0.0,False
+15857,id-ID,email,email_sendemail,tolong kirim ke alamat email baru yang tertera,email_sendemail,1.0,1.0,True
+15862,id-ID,email,email_query,cek email yang diterima dari mama,email_sendemail,1.0,0.0,False
+15880,id-ID,email,email_query,tolong cek email saya,email_sendemail,1.0,0.0,False
+15890,id-ID,email,email_query,cek untuk melihat apakah saya dapat email baru dari ayah saya,email_sendemail,1.0,0.0,False
+15904,id-ID,email,email_query,cek email baru saya dan beritahu saya apa isinya,email_sendemail,1.0,0.0,False
+15906,id-ID,email,email_sendemail,balas terima kasih ke andi,email_sendemail,0.9996,0.9996,True
+15911,id-ID,email,email_sendemail,siapkan email untuk susan,email_sendemail,1.0,1.0,True
+15933,id-ID,email,email_query,aku ada email baru apa,email_sendemail,1.0,0.0,False
+15942,id-ID,email,email_sendemail,kirim email ini sebagai balasan buat email terbaru,email_sendemail,1.0,1.0,True
+15950,id-ID,email,email_sendemail,balas surel dari gina sudrajat,social_post,0.9959,0.0001,False
+15957,id-ID,email,email_sendemail,email alice agar dia tahu kita dalam perjalanan,email_sendemail,1.0,1.0,True
+15963,id-ID,email,email_query,apa saya punya email baru dari indofood,email_sendemail,1.0,0.0,False
+15966,id-ID,email,email_query,kirim balasan kalau sangat penting,qa_factoid,0.5289,0.003,False
+15968,id-ID,email,email_query,jika dari tempat yang sangat familiar tandai sebagai penting,qa_factoid,0.9306,0.0011,False
+15970,id-ID,email,email_query,apa judul dari surat elektronik ibu yang terakhir,email_query,0.8558,0.8558,True
+15971,id-ID,email,email_query,apa email terakhir dari tempat kerja,email_sendemail,1.0,0.0,False
+15994,id-ID,email,email_sendemail,kirim email ke joko menanyakan jam berapa bisa rapat,email_sendemail,1.0,1.0,True
+15995,id-ID,email,email_sendemail,surel ke kiki tentang rapat anggaran,qa_factoid,0.3284,0.028,False
+15998,id-ID,email,email_query,periksa surel saya apa ada nama sesuatu,qa_factoid,0.9864,0.0004,False
+16002,id-ID,email,email_query,cek email baru,email_sendemail,0.9998,0.0002,False
+16005,id-ID,email,email_sendemail,kirim email ke joseph at gmail dot com,email_sendemail,1.0,1.0,True
+16010,id-ID,email,email_query,beritahu saya kalau saya punya pesan baru di kotak masuk saya,email_sendemail,1.0,0.0,False
+16024,id-ID,email,email_sendemail,kirim email ke joni katakan saya sibuk besok,email_sendemail,1.0,1.0,True
+16028,id-ID,email,email_sendemail,hei siri mulai sebuah email ke rekan kerja,email_sendemail,1.0,1.0,True
+16029,id-ID,email,email_sendemail,tolong tulis email baru ke rekan kerja,email_sendemail,1.0,1.0,True
+16032,id-ID,email,email_sendemail,tolong kirim email ke sally mengenai rapat besok,email_sendemail,1.0,1.0,True
+16038,id-ID,email,email_query,hei apakah dimas mengirimkan saya sesuatu email belakangan ini,email_sendemail,1.0,0.0,False
+16045,id-ID,email,email_sendemail,kirim email ke ismail untuk jadwal pembukaan kantor,email_sendemail,1.0,1.0,True
+16048,id-ID,email,email_query,tunjukkan saya surat elektronik terbaru,email_query,0.5289,0.5289,True
+16049,id-ID,email,email_sendemail,saya ingin mengirim email ke keluarga saya apakah anda membantu saya,email_sendemail,1.0,1.0,True
+16050,id-ID,email,email_query,cek gmail,email_sendemail,0.9991,0.0009,False
+16052,id-ID,email,email_query,cek outlook,qa_factoid,0.9887,0.0001,False
+16056,id-ID,email,email_sendemail,balas email,email_sendemail,1.0,1.0,True
+16061,id-ID,email,email_query,apa aku udah dapat email dalam sepuluh menit terakhir,email_sendemail,1.0,0.0,False
+16072,id-ID,email,email_sendemail,email bos saya kalau saya akan terlambat hari ini karena ada urgensi dan minta maaf padanya karena sudah melewatkan rapat,email_sendemail,1.0,1.0,True
+16075,id-ID,email,email_query,tampilkan surel terbaru dari bagus,qa_factoid,0.9972,0.0001,False
+16082,id-ID,email,email_sendemail,kirim email ke joko dan tanyakan padanya bagaimana kabarnya sekarang bisakah saya melakukan sesuatu untuk membantunya,email_sendemail,1.0,1.0,True
+16089,id-ID,email,email_query,apakah saya menerima email baru di sepuluh menit terakhir,email_sendemail,1.0,0.0,False
+16096,id-ID,email,email_query,apa ada yani mengirimi saya surel baru,social_post,0.7491,0.0001,False
+16098,id-ID,email,email_query,cek email yang belum dibaca dari amalia,email_sendemail,1.0,0.0,False
+16100,id-ID,email,email_query,tolong periksa surat elektronik yang berisi daftar pekerjaan,email_sendemail,0.7793,0.2031,False
+16103,id-ID,email,email_sendemail,kirim email ke saudara laki laki aku dan ucapkan selamat hari jadi pernikahan,email_sendemail,1.0,1.0,True
+16120,id-ID,email,email_sendemail,bantuan hanya akan dikirimkan ke jane,qa_factoid,0.6955,0.0051,False
+16131,id-ID,email,email_sendemail,email baru ini harus ditambahkan ke kontak saya,email_sendemail,1.0,1.0,True
+16145,id-ID,email,email_query,tunjukkan saya email terbaru,email_sendemail,1.0,0.0,False
+16146,id-ID,news,news_query,beri saya pembaruan terbaru,iot_hue_lightoff,0.3735,0.0112,False
+16148,id-ID,email,email_sendemail,balas cepat ke jack jadi tolong kirim sebuah email,email_sendemail,1.0,1.0,True
+16151,id-ID,email,email_query,cek jadwal rapat di surat hari ini,email_sendemail,0.4236,0.0059,False
+16162,id-ID,email,email_sendemail,kirim balasan,qa_factoid,0.6427,0.0431,False
+16163,id-ID,email,email_query,siapa yang mengirimiku surel kemarin,social_post,0.83,0.0,False
+16165,id-ID,email,email_query,apa clara udah kirim balasan,email_sendemail,1.0,0.0,False
+16166,id-ID,email,email_sendemail,dapatkah anda membalas joko bahwa saya akan sibuk dengan proyek-proyek selama tiga minggu ke depan,recommendation_events,0.5597,0.007,False
+16168,id-ID,email,email_query,apa ada surel apapun masuk dalam lima belas menit terakhir,qa_factoid,0.2282,0.0175,False
+16170,id-ID,email,email_query,buka kotak masuk untuk mengecek pesan yang belum dibaca,lists_query,0.111,0.0596,False
+16178,id-ID,email,email_query,apa ada email dari amazon hari ini,email_sendemail,1.0,0.0,False
+16183,id-ID,email,email_query,cek email tentang pekerjaan saya,email_sendemail,0.7136,0.2864,False
+16201,id-ID,email,email_sendemail,tolong muat email baru untuk eko dan kirim pesan sekarang,email_sendemail,1.0,1.0,True
+16221,id-ID,email,email_sendemail,cari email kate dan tuliskan saya akan mengabarinya,email_sendemail,0.8765,0.8765,True
+16245,id-ID,email,email_sendemail,kirim email ke joe at a. o. l. dot com,email_sendemail,1.0,1.0,True
+16248,id-ID,email,email_query,tolong cek email aku,email_sendemail,1.0,0.0,False
+16263,id-ID,email,email_query,apa saya mendapat suatu email baru dari riky,email_sendemail,1.0,0.0,False
+16266,id-ID,email,email_sendemail,buat email ke keluarga aku isinya aku sayang kalian semua,email_sendemail,1.0,1.0,True
+16271,id-ID,email,email_query,perbarui kotak masuk saya dan beritahukan tentang email baru,email_sendemail,1.0,0.0,False
+16275,id-ID,email,email_query,memulai polling untuk email baru,email_sendemail,0.9986,0.0013,False
+16276,id-ID,email,email_query,apa aku ada email baru,email_sendemail,1.0,0.0,False
+16280,id-ID,email,email_sendemail,tolong kirim email ke dinda yang ada di daftar keluarga dan teman,email_sendemail,1.0,1.0,True
+16282,id-ID,email,email_sendemail,kirim email ke asisten aku clara buat batalin semua janji besok,email_sendemail,1.0,1.0,True
+16296,id-ID,email,email_sendemail,kirim email ke ibu untuk memberitaunya bahwa pesta ulang tahun inu itu hari minggu,email_sendemail,1.0,1.0,True
+16297,id-ID,email,email_sendemail,kirim email ke sani untuk mengatakan terima kasih,email_sendemail,1.0,1.0,True
+16314,id-ID,email,email_sendemail,kirim email ke dewi,email_sendemail,1.0,1.0,True
+16317,id-ID,email,email_query,apakah saya mendapat surat elektronik baru dari sarah,email_sendemail,1.0,0.0,False
+16318,id-ID,email,email_sendemail,balas email,email_sendemail,1.0,1.0,True
+16320,id-ID,email,email_sendemail,saya ingin balas surat elektronik boris bokir,qa_factoid,0.999,0.001,False
+16353,id-ID,email,email_query,periksa email dari steve,email_sendemail,1.0,0.0,False
+16354,id-ID,email,email_query,periksa email dari atasan saya,email_query,0.638,0.638,True
+16356,id-ID,email,email_query,apakah saya mengirim email kepada tama tentang masalah kontrol senjata,email_sendemail,1.0,0.0,False
+16357,id-ID,email,email_query,apakah tom mengirim email ke saya tentang amunisi,email_sendemail,1.0,0.0,False
+16361,id-ID,email,email_query,apakah ada email baru untuk saya selama satu jam terakhir ini,email_sendemail,0.952,0.048,False
+16373,id-ID,email,email_query,apakah saya sudah menerima email dengan nomor pelacakan,email_sendemail,1.0,0.0,False
+16375,id-ID,email,email_sendemail,susun email ke joko,email_sendemail,1.0,1.0,True
+16376,id-ID,email,email_sendemail,alexa tolong kirim email ke ibu saya,email_sendemail,1.0,1.0,True
+16377,id-ID,email,email_sendemail,kirim sebuah email ke ibu sekarang,email_sendemail,1.0,1.0,True
+16384,id-ID,email,email_query,hai apakah saya punya email baru,email_sendemail,1.0,0.0,False
+16385,id-ID,email,email_query,tolong bacakan email email baru,email_sendemail,1.0,0.0,False
+16398,id-ID,email,email_sendemail,kirim surel ke joko,social_post,0.9998,0.0,False
+16399,id-ID,email,email_query,apakah saya mendapatkan email baru apa saja,email_sendemail,1.0,0.0,False
+16401,id-ID,email,email_sendemail,kirim email ke dona hey apa yang kamu lakukan hari ini,email_sendemail,1.0,1.0,True
+16402,id-ID,email,email_sendemail,kirim email ke tini rencana untuk hari ini,email_sendemail,1.0,1.0,True
+16406,id-ID,email,email_sendemail,alexa mulai tulis email,email_sendemail,0.9998,0.9998,True
+16410,id-ID,email,email_sendemail,tulis email,email_sendemail,0.9901,0.9901,True
+16413,id-ID,email,email_query,tunjukkan semua surel-surel yang dikirimkan bos saya,social_post,0.9996,0.0,False
+16419,id-ID,email,email_sendemail,tolong kirim email ke paman joko bahwa saya bisa,email_sendemail,1.0,1.0,True
+16427,id-ID,email,email_query,berapa banyak surat elektronik baru yang saya terima hari ini,email_sendemail,0.7174,0.2797,False
+16430,id-ID,email,email_sendemail,tolong kirimkan surel ke ibu dan ayah isinya tanyakan bagaimana keadaan mereka,email_sendemail,1.0,1.0,True
+16437,id-ID,email,email_sendemail,tolong kirim email ini ke teman saya,email_sendemail,1.0,1.0,True
+16438,id-ID,email,email_sendemail,saya butuh surat elektronik ini dikirim sekarang,email_sendemail,1.0,1.0,True
+16446,id-ID,email,email_query,tolong periksa studi email terbaru dari pengirim ini,email_sendemail,1.0,0.0,False
+16459,id-ID,email,email_sendemail,pesan baru ke newmail at gmail dot com,email_sendemail,1.0,1.0,True
+16461,id-ID,email,email_query,apakah saya memilki surat elektronik yang belum dibaca,email_query,0.9867,0.9867,True
+16467,id-ID,email,email_query,apakah saya punya suatu email baru dari kontak saya ruli,email_sendemail,1.0,0.0,False
+16471,id-ID,email,email_query,cek surat elektronik dari jono,email_sendemail,0.3863,0.2186,False
+16496,id-ID,email,email_sendemail,kirim email balasan,email_sendemail,1.0,1.0,True
+16501,id-ID,email,email_sendemail,tolong kirim email untuk teman saya divya apa kabarmu,email_sendemail,1.0,1.0,True
+16506,id-ID,email,email_sendemail,tambahkan alamat email baru dan kirim email,email_sendemail,1.0,1.0,True
+16518,id-ID,email,email_sendemail,tambahkan email baru untuk julie smith,email_sendemail,1.0,1.0,True
+16519,id-ID,email,email_sendemail,aku harus tambahkan email baru ke kontakku,email_sendemail,1.0,1.0,True
+16535,id-ID,email,email_sendemail,bisakah anda menulis email ke cici,email_sendemail,0.9866,0.9866,True
+16559,id-ID,email,email_sendemail,kirim balasan ke mika dengan jawaban empat ratus tiga puluh dari emailnya yang dikirim pagi ini,email_sendemail,0.9765,0.9765,True
+16560,id-ID,email,email_sendemail,balas email bos bosku dengan kabar bahwa aku akan masuk jam empat sore,email_sendemail,1.0,1.0,True
+16563,id-ID,email,email_query,olly periksa surel saya,qa_factoid,0.952,0.0006,False
+16591,id-ID,email,email_sendemail,aku baru aja dapat email dari bill aku harus balas sekarang juga,email_sendemail,1.0,1.0,True
+16593,id-ID,email,email_sendemail,email yang terakhir itu harus dibalas segera,email_sendemail,1.0,1.0,True
+16603,id-ID,email,email_query,apa yang tertulis di email yang terkirim tiga puluh menit lalu dari ibu,email_sendemail,1.0,0.0,False
+16605,id-ID,email,email_sendemail,tuliskan dan kirim email ke atasan saya,email_sendemail,1.0,1.0,True
+16609,id-ID,email,email_query,beritahu saya jika saya ada surel baru yang belum dibaca,qa_factoid,0.1161,0.0415,False
+16613,id-ID,email,email_sendemail,kirim email ke atasan saya dan katakan saya akan terlambat,email_sendemail,1.0,1.0,True
+16622,id-ID,email,email_sendemail,kirimkan sebuah surel ke kontak ini,social_post,0.9954,0.0003,False
+16624,id-ID,email,email_sendemail,saya butuh sebuah email untuk dikirimkan ke telkomsel tentang masalah layanan saya,email_sendemail,1.0,1.0,True
+16627,id-ID,email,email_query,periksa email terbaru,email_sendemail,0.5422,0.4578,False
+16630,id-ID,email,email_sendemail,kirim balasan ke email terakhir,email_sendemail,1.0,1.0,True
+16642,id-ID,email,email_query,cek email apapun dari sheila,email_sendemail,0.9882,0.0118,False
+16648,id-ID,email,email_query,tolok periksa email saya,email_sendemail,0.9987,0.0012,False
+16652,id-ID,email,email_query,apakah surel joko memiliki lampiran,qa_factoid,0.997,0.0,False
+16662,id-ID,email,email_query,apakah saya menerima email baru dari dan,email_sendemail,1.0,0.0,False
+16666,id-ID,email,email_query,apakah saya punya email masuk,email_sendemail,0.9352,0.0648,False
+16668,id-ID,email,email_query,apakah ada email yang masuk sejak jam empat hari ini,email_sendemail,0.9402,0.0597,False
+16669,id-ID,email,email_query,apakah saya mendapatkan email dari paul,email_sendemail,1.0,0.0,False
+16672,id-ID,email,email_query,apakah ben bisa dihubungi,qa_factoid,1.0,0.0,False
+16677,id-ID,email,email_query,apa aku ada email baru di kotak masuk aku hari ini,email_sendemail,1.0,0.0,False
+16698,id-ID,email,email_sendemail,tulis balasan ke email ibu saya,email_sendemail,1.0,1.0,True
+16701,id-ID,email,email_sendemail,saya ingin membalas emailnya sarah,email_sendemail,1.0,1.0,True
+16703,id-ID,email,email_sendemail,saya ingin membalas surel terbaru,social_post,0.9391,0.0368,False
+16712,id-ID,email,email_query,apa aku ada email baru,email_sendemail,1.0,0.0,False
+16713,id-ID,email,email_query,cek email saya dan beritahu saya apabila ada email baru,email_sendemail,1.0,0.0,False
+16717,id-ID,email,email_sendemail,bisa kirim email ke john isinya saya sedang cuti,email_sendemail,1.0,1.0,True
+16719,id-ID,email,email_query,beritahu saya jika ada surel baru yang saya terima,qa_factoid,0.145,0.0405,False
+16729,id-ID,email,email_sendemail,balas email saya dari bob beritahukan kalau saya akan bertemu mereka besok,email_sendemail,1.0,1.0,True
+16730,id-ID,email,email_query,tolong cek email baru dari andy,email_sendemail,1.0,0.0,False
+16733,id-ID,email,email_query,tunjukkan email terakhir dari amazon,email_sendemail,1.0,0.0,False
+16749,id-ID,email,email_query,apakah ada emails baru untuk saya hari ini,email_sendemail,1.0,0.0,False
+16754,id-ID,email,email_sendemail,mendikte surel,qa_factoid,0.988,0.0004,False
+16758,id-ID,email,email_query,apa ada email baru sejak saat terakhir,email_sendemail,0.9999,0.0001,False
+16763,id-ID,email,email_query,email dalam sepuluh menit terakhir,email_sendemail,1.0,0.0,False
+16765,id-ID,email,email_query,jam berapa waktu interview dari email kemarin,email_sendemail,1.0,0.0,False
+16766,id-ID,email,email_query,periksa surel baru,qa_factoid,0.9998,0.0,False
+16772,id-ID,email,email_query,tampilkan semua email tentang pelanggaran,email_sendemail,1.0,0.0,False
+16780,id-ID,email,email_sendemail,kirim email ke juanpedro at gmail dot com,email_sendemail,1.0,1.0,True
+16791,id-ID,email,email_sendemail,buat email baru tapi saya punya email baru sekarang yaitu brandon at example dot com,email_sendemail,1.0,1.0,True
+16799,id-ID,email,email_query,apakah saya menerima email sejak siang tadi,email_sendemail,1.0,0.0,False
+16801,id-ID,email,email_query,apakah karina mengirim email ke saya tentang tom,email_sendemail,0.9999,0.0,False
+16813,id-ID,email,email_query,beep kapan aku dapat email dari yogi,email_sendemail,1.0,0.0,False
+16814,id-ID,email,email_query,periksa surel,qa_factoid,0.9983,0.0,False
+16838,id-ID,email,email_sendemail,dapatkah anda mengirim email ke id email baru,email_sendemail,1.0,1.0,True
+16851,id-ID,email,email_query,email notifikasi,email_sendemail,1.0,0.0,False
+16859,id-ID,email,email_query,apa yang aku kirim ke susan di email terakhir dariku,email_sendemail,1.0,0.0,False
+16872,id-ID,email,email_sendemail,cari kiki di daftar kontak saya dan kirimkan dia surel,social_post,0.9806,0.0021,False
+16873,id-ID,email,email_sendemail,kirim email ke naty untuk ulang tahunnya,email_sendemail,1.0,1.0,True
+16880,id-ID,email,email_sendemail,kirim email ke putra mengenai rapat,email_sendemail,1.0,1.0,True
+16883,id-ID,email,email_sendemail,kirim email ke jerry tanyakan jam berapa dia akan sampai di rumah malam ini,email_sendemail,1.0,1.0,True
+16886,id-ID,email,email_sendemail,balas pesan ini,email_sendemail,0.9452,0.9452,True
+16888,id-ID,email,email_query,bagaimana dengan surat baru,email_sendemail,1.0,0.0,False
+16890,id-ID,email,email_query,apa yang dikatakan surel baru,qa_factoid,0.9776,0.0,False
+16891,id-ID,email,email_sendemail,kirimkan email ke bogi rudianto,email_sendemail,1.0,1.0,True
+16892,id-ID,email,email_sendemail,mulai surel ke joko santosa,social_post,0.5222,0.0031,False
+16899,id-ID,email,email_query,apakah saya ada surel dari joko santosa,qa_factoid,1.0,0.0,False
+16914,id-ID,email,email_query,apakah saya punya email dari pengirim ini,email_sendemail,1.0,0.0,False
+16916,id-ID,email,email_sendemail,hey balas email yang saya terima,email_sendemail,1.0,1.0,True
+16924,id-ID,email,email_query,periksa gmail saya untuk pesan baru,email_sendemail,1.0,0.0,False
+16930,id-ID,email,email_query,tunjukkan email terbaru,email_sendemail,1.0,0.0,False
+16938,id-ID,email,email_sendemail,balas surel ke joko,social_post,0.7933,0.0007,False
+16944,id-ID,email,email_sendemail,kirim sebuah email ke nenek yang mengatakan kita akan mampir hari sabtu sampai ketemu nanti,email_sendemail,1.0,1.0,True
+16947,id-ID,email,email_sendemail,balas email,email_sendemail,1.0,1.0,True
+16955,id-ID,email,email_sendemail,kirim email ke kontak baru,email_sendemail,1.0,1.0,True
+16956,id-ID,email,email_sendemail,kirim email ke kontak baru,email_sendemail,1.0,1.0,True
+16961,id-ID,email,email_sendemail,menanggapi dengan,qa_factoid,0.9976,0.0,False
+16974,id-ID,email,email_query,periksa semua surel baru dari departemen pajak penghasilan,recommendation_events,0.5792,0.0066,False
+16987,id-ID,email,email_query,apakah ada suatu surat elektronik baru dari aziz,email_sendemail,1.0,0.0,False
+16989,id-ID,email,email_sendemail,tolong katakan ke email budi bahwa saya membutuhkan uang itu sekarang mendesak,email_sendemail,1.0,1.0,True
+16992,id-ID,email,email_query,apakah anisa sari mengirimkan surat elektronik ke saya,email_sendemail,0.5128,0.0093,False
+16995,id-ID,email,email_sendemail,kirim email ke jessica,email_sendemail,1.0,1.0,True
+17005,id-ID,email,email_query,tolong cek email baru,email_sendemail,0.9998,0.0002,False
+17011,id-ID,email,email_sendemail,apakah kamu bisa mengirimkan surat elektronik ke,email_query,0.7625,0.2338,False
+17015,id-ID,email,email_sendemail,mulai balas,social_post,0.8303,0.0067,False
+17019,id-ID,email,email_sendemail,buat balasan ke email terakhir,email_sendemail,1.0,1.0,True
+17020,id-ID,email,email_sendemail,balas email terakhir yang diterima,email_sendemail,1.0,1.0,True
+17023,id-ID,email,email_sendemail,kirimkan ibu surel dan tanyakan bagaimana cuaca di sana,weather_query,0.9998,0.0,False
+17042,id-ID,email,email_sendemail,tulis email untuk john at gmail dot com,email_sendemail,1.0,1.0,True
+17043,id-ID,email,email_sendemail,kirim surel ke tim at hotmail dot com,email_sendemail,1.0,1.0,True
+17051,id-ID,email,email_query,bukakan email baru,email_sendemail,1.0,0.0,False
+17052,id-ID,email,email_query,cari budi,qa_factoid,0.9996,0.0,False
+17069,id-ID,email,email_query,apa ada email baru di outlook,email_sendemail,0.9995,0.0005,False
+17075,id-ID,email,email_query,apakah ada email baru yang diterima setelah jam empat hari ini,email_sendemail,1.0,0.0,False
+17081,id-ID,email,email_sendemail,buat email untuk karyawan saya beserta dokumen saya yang terakhir disimpan,email_sendemail,1.0,1.0,True
+17087,id-ID,email,email_query,cek email baru yang diterima dari sara,email_sendemail,1.0,0.0,False
+17098,id-ID,email,email_query,tampilkan saya semua surat elektronik yang saya terima di satu jam terakhir,email_sendemail,0.8662,0.1335,False
+17107,id-ID,email,email_query,cek surat elektronik baru,email_query,0.9422,0.9422,True
+17108,id-ID,email,email_query,kasih aku email terakhir aku,email_sendemail,1.0,0.0,False
+17113,id-ID,email,email_sendemail,buat email ke yulia,email_sendemail,1.0,1.0,True
+17115,id-ID,email,email_query,baca daftar surat elektronik yang baru,email_query,0.4732,0.4732,True
+17116,id-ID,email,email_query,tampilkan daftar emails terbaru,email_sendemail,1.0,0.0,False
+17119,id-ID,email,email_query,cek apakah ada email dari amazon,email_sendemail,1.0,0.0,False
+17123,id-ID,email,email_sendemail,formulir email untuk regional v. p.,email_sendemail,0.9999,0.9999,True
+17135,id-ID,email,email_query,ada email berita penerangan,email_sendemail,1.0,0.0,False
+17136,id-ID,email,email_query,tolong bacakan email baru saya,email_sendemail,1.0,0.0,False
+17138,id-ID,email,email_query,tolong simpan pesan saya yang sudah terbaca,email_sendemail,1.0,0.0,False
+17142,id-ID,email,email_query,ada apa aja di kotak masuk aku sejak terakhir kali kita lihat,lists_remove,0.3279,0.1503,False
+17143,id-ID,email,email_sendemail,hei kirim email ke dimas,email_sendemail,1.0,1.0,True
+17144,id-ID,email,email_query,hey periksa email,email_sendemail,0.9996,0.0004,False
+17147,id-ID,email,email_sendemail,balas email dengan konten berikut halo anda,email_sendemail,1.0,1.0,True
+17148,id-ID,email,email_sendemail,alexa balas email dengan isi berikut halo kamu,email_sendemail,1.0,1.0,True
+17151,id-ID,email,email_sendemail,teman saya joko telah mengirim kan saya kartu undangan untuk pembelian rumah baru ucapkan terimakasih kepadanya di id emailnya,email_sendemail,1.0,1.0,True
+17156,id-ID,email,email_query,periksa email aku dan lihat apa ada email baru dari joe,email_query,0.9996,0.9996,True
+17157,id-ID,email,email_query,apakah saya memiliki suatu email baru dari joe,email_sendemail,1.0,0.0,False
+17170,id-ID,email,email_query,kabari aku kalau dika kirim email ke aku,email_sendemail,1.0,0.0,False
+17179,id-ID,email,email_query,apa fikri udah kirim email ke aku,email_sendemail,1.0,0.0,False

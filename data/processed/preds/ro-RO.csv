@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,ro-RO,iot,iot_hue_lightoff,stinge lumina in dormitor,iot_hue_lightoff,0.8567,0.8567,True
+47,ro-RO,datetime,datetime_query,cat este ceasul in romania,qa_factoid,0.9761,0.0001,False
+85,ro-RO,datetime,datetime_query,spune-mi ce zi e astazi,social_post,0.842,0.0024,False
+86,ro-RO,datetime,datetime_query,cat este data de astazi,qa_factoid,0.3273,0.0272,False
+100,ro-RO,weather,weather_query,care e prognoza saptamanii,qa_factoid,0.5652,0.0162,False
+102,ro-RO,weather,weather_query,cum este vremea săptămâna asta,weather_query,0.9979,0.9979,True
+103,ro-RO,weather,weather_query,spune-mi vremea pentru saptamana aceasta,weather_query,0.9991,0.9991,True
+128,ro-RO,datetime,datetime_query,ce data este,datetime_query,0.6294,0.6294,True
+151,ro-RO,play,play_music,redă asta din nou,play_music,0.8045,0.8045,True
+177,ro-RO,news,news_query,spune mi stiri despre afaceri,qa_factoid,0.7608,0.0042,False
+178,ro-RO,news,news_query,spune-mi stiri internationale,social_post,0.9618,0.0002,False
+182,ro-RO,play,play_music,redă playlist-ul meu rock,play_music,0.9239,0.9239,True
+185,ro-RO,play,play_music,pornește lista de redare și redă a treia piesă de la rând,lists_remove,0.5699,0.4178,False
+197,ro-RO,datetime,datetime_query,cat este ora,weather_query,0.7447,0.2302,False
+216,ro-RO,weather,weather_query,cum e vremea astazi,weather_query,0.9789,0.9789,True
+219,ro-RO,weather,weather_query,eu ar trebui sa iau o umbrela maine,iot_hue_lightoff,0.9996,0.0,False
+220,ro-RO,play,play_music,canta muzica din lista mea rock,play_music,0.9976,0.9976,True
+250,ro-RO,play,play_music,ași avea chef de jazz acum ce zici,cooking_recipe,0.9925,0.0005,False
+254,ro-RO,play,play_music,olly redă o piesă bună din playerul meu preferat de jazz,play_music,0.8194,0.8194,True
+279,ro-RO,weather,weather_query,cum e prognoza de azi pentru bucuresti,weather_query,0.9802,0.9802,True
+281,ro-RO,news,news_query,care este cursul de schimb al dolarului american la lira sterlina,iot_hue_lightoff,0.3912,0.0262,False
+296,ro-RO,play,play_music,redă playlistul nirvana,play_music,0.9996,0.9996,True
+297,ro-RO,play,play_music,amestecă melodii de coldplay,play_music,0.9911,0.9911,True
+299,ro-RO,weather,weather_query,cum este vremea,weather_query,0.9968,0.9968,True
+310,ro-RO,datetime,datetime_query,în ce zi este revelionul anul acesta,datetime_query,0.6905,0.6905,True
+319,ro-RO,weather,weather_query,spune-mi prgnoza meteo pentru poimaine in sibiu,weather_query,0.7295,0.7295,True
+329,ro-RO,play,play_music,vara nu dorm,calendar_remove,0.4579,0.0139,False
+333,ro-RO,weather,weather_query,cum e starea vremii in târgu mureș,weather_query,0.9945,0.9945,True
+334,ro-RO,weather,weather_query,aș dori să știu vremea în craiova,weather_query,0.9996,0.9996,True
+344,ro-RO,weather,weather_query,o să fie ploios mâine,qa_factoid,0.5334,0.0002,False
+348,ro-RO,weather,weather_query,va ploua mâine,social_post,0.7232,0.0001,False
+355,ro-RO,datetime,datetime_query,ce dată a săptămânii este întâi aprilie,datetime_query,0.9926,0.9926,True
+360,ro-RO,datetime,datetime_query,cat e ceasul acum,weather_query,0.569,0.0018,False
+362,ro-RO,play,play_music,redă al doilea cântec de la proconsul,play_music,0.9913,0.9913,True
+366,ro-RO,news,news_query,te rog sa mi spui ultimele noutati,qa_factoid,0.8142,0.0464,False
+369,ro-RO,iot,iot_hue_lightoff,stinge luminile,iot_hue_lightoff,0.9478,0.9478,True
+385,ro-RO,news,news_query,ce e senzational la pro tv,iot_hue_lightoff,0.5624,0.013,False
+391,ro-RO,play,play_music,redă aleatoriu un cântec din playlist ul meu,play_music,0.9998,0.9998,True
+393,ro-RO,play,play_music,redă cântec retro în playlist meu,play_music,0.9986,0.9986,True
+397,ro-RO,play,play_music,pune oricare melodie de connect-r,play_music,0.9982,0.9982,True
+400,ro-RO,play,play_music,porneste,social_post,0.9985,0.0001,False
+407,ro-RO,play,play_music,poti sa redai muzica rock pentru urmatoarea ora,play_music,0.9795,0.9795,True
+424,ro-RO,news,news_query,care sunt stirile de ultimă oră,news_query,0.9987,0.9987,True
+427,ro-RO,iot,iot_hue_lightoff,stinge luminile în baie,iot_hue_lightoff,0.9854,0.9854,True
+428,ro-RO,iot,iot_hue_lightoff,oprește luminile din baie,iot_hue_lightoff,0.9937,0.9937,True
+430,ro-RO,weather,weather_query,cum e vremea acum,weather_query,0.997,0.997,True
+437,ro-RO,play,play_music,deschide folderul bad religion,social_post,0.9961,0.0001,False
+441,ro-RO,news,news_query,care sunt ultimele titluri de stiri,lists_remove,0.9944,0.0001,False
+442,ro-RO,news,news_query,ce se intampla in stiri,iot_hue_lightoff,0.644,0.0036,False
+451,ro-RO,news,news_query,da-mi cel mai recent pret al actiunilor petrom,recommendation_events,0.9617,0.0012,False
+473,ro-RO,play,play_music,redă vara nu dorm,weather_query,0.9989,0.0,False
+486,ro-RO,datetime,datetime_query,ce ora este in bucuresti,weather_query,0.9335,0.0556,False
+491,ro-RO,weather,weather_query,e frig afara,weather_query,0.9977,0.9977,True
+506,ro-RO,play,play_music,deschide piese de la proconsul,play_music,0.3417,0.3417,True
+512,ro-RO,weather,weather_query,de holograf,qa_factoid,0.8345,0.0043,False
+540,ro-RO,play,play_music,redă cântecul interpretat de loredana groza,play_music,0.9986,0.9986,True
+555,ro-RO,play,play_music,redă proconsul tu,qa_factoid,0.912,0.0023,False
+576,ro-RO,play,play_music,reda toate dupa playlist,play_music,0.8106,0.8106,True
+585,ro-RO,news,news_query,arata-mi ultimele știri,news_query,0.6758,0.6758,True
+588,ro-RO,news,news_query,care sunt stirile pentru azi,news_query,0.9994,0.9994,True
+590,ro-RO,weather,weather_query,cum e vremea acum,weather_query,0.997,0.997,True
+614,ro-RO,play,play_music,pornește lista de redare,cooking_recipe,0.8876,0.0011,False
+625,ro-RO,play,play_music,redă te rog irina rimes,iot_hue_lightoff,0.4544,0.0081,False
+631,ro-RO,news,news_query,setează notificare pentru știri despre conducta bucurești,social_post,0.8265,0.0023,False
+651,ro-RO,iot,iot_hue_lightoff,stinge luminile din camera,iot_hue_lightoff,0.9948,0.9948,True
+660,ro-RO,datetime,datetime_query,ora curentă în românia,weather_query,0.3543,0.0998,False
+680,ro-RO,news,news_query,tine-ma la curent cu pretul bitcoin,qa_factoid,0.9953,0.0001,False
+686,ro-RO,datetime,datetime_query,cât este ora acum în new york,weather_query,0.9989,0.0001,False
+712,ro-RO,news,news_query,vreau sa aud ultimele stiri de la pro tv,qa_factoid,0.9664,0.0007,False
+726,ro-RO,weather,weather_query,sumarizeaza vremea saptamanii,weather_query,0.9129,0.9129,True
+730,ro-RO,iot,iot_hue_lightoff,stinge luminile,iot_hue_lightoff,0.9478,0.9478,True
+738,ro-RO,weather,weather_query,cat de rece e afara astazi,qa_factoid,1.0,0.0,False
+764,ro-RO,weather,weather_query,care e prognoza meteo de saptamana aceasta,weather_query,0.988,0.988,True
+765,ro-RO,news,news_query,ai putea te rog sa ma tii la curent cu ultimele titluri de la cel mai nou furnizor,recommendation_events,0.8925,0.0003,False
+767,ro-RO,news,news_query,va rog sa gasiti cele mai recente stiri dintr o sursa pe care nu o accesez de obicei,news_query,0.7384,0.7384,True
+768,ro-RO,news,news_query,spune-mi despre ultimele stiri politice,recommendation_events,0.2464,0.0334,False
+779,ro-RO,play,play_music,aș dori să ascult n aud de la carlas dreams,qa_factoid,0.7913,0.0015,False
+781,ro-RO,play,play_music,reda vara nu dorm,weather_query,0.9875,0.0003,False
+782,ro-RO,play,play_music,redă acele de carla's dreams,iot_hue_lightoff,0.8639,0.0153,False
+783,ro-RO,play,play_music,pune cântece de dragoste,play_music,0.9999,0.9999,True
+790,ro-RO,weather,weather_query,vreme blanda sau grea,iot_hue_lightoff,0.5836,0.0203,False
+826,ro-RO,weather,weather_query,care e temperatura actuala afara,iot_hue_lightoff,0.5741,0.2209,False
+827,ro-RO,play,play_music,pune playlist cu holograf,play_music,0.9992,0.9992,True
+832,ro-RO,weather,weather_query,cum e prognoza meteo pe maine,weather_query,0.722,0.722,True
+837,ro-RO,news,news_query,care sunt predictiile sondajelor antena trei pentru urmatoarele alegeri din romania,qa_factoid,0.4714,0.0902,False
+891,ro-RO,play,play_music,pune niște muzică creștină,play_music,1.0,1.0,True
+914,ro-RO,iot,iot_hue_lightoff,oprește luminile te rog,iot_hue_lightoff,0.9903,0.9903,True
+936,ro-RO,play,play_music,deschide si pune muzica din lista de redare la alergat,play_music,1.0,1.0,True
+951,ro-RO,weather,weather_query,cum e vrtemea acum in bucuresti,weather_query,0.7872,0.7872,True
+969,ro-RO,news,news_query,articole de stiri pentru un anumit subiect,news_query,0.8272,0.8272,True
+974,ro-RO,datetime,datetime_query,cat este ceasul in bucuresti acum,weather_query,0.9984,0.0001,False
+997,ro-RO,iot,iot_hue_lightoff,opreşte lumina din sufragerie,iot_hue_lightoff,0.8604,0.8604,True
+999,ro-RO,iot,iot_hue_lightoff,poți să stingi lumina,iot_hue_lightoff,0.8672,0.8672,True
+1007,ro-RO,play,play_music,redă iris din playlistul meu rock,play_music,0.9944,0.9944,True
+1014,ro-RO,datetime,datetime_query,ce oră este acum în bucurești,weather_query,0.9988,0.0001,False
+1047,ro-RO,play,play_music,simt nevoia să plâng redă un rock trist,play_music,0.5519,0.5519,True
+1061,ro-RO,news,news_query,tine ma la curent cu noutatile din stirile sportive,news_query,0.9964,0.9964,True
+1063,ro-RO,news,news_query,primiti notificari la fiecare ora cu privire la stirile din sport,news_query,0.9917,0.9917,True
+1084,ro-RO,news,news_query,usor de utilizat,qa_factoid,0.9958,0.0001,False
+1093,ro-RO,news,news_query,acceseaza siteul hot news,news_query,0.9975,0.9975,True
+1098,ro-RO,datetime,datetime_query,in ce zi a saptamanii pica cincisprezece martie,qa_factoid,0.9708,0.0092,False
+1108,ro-RO,play,play_music,dorința mea e să ascult ceva muzică folk,play_music,1.0,1.0,True
+1115,ro-RO,play,play_music,coordonează toate genurile muzicale pop,play_music,0.9836,0.9836,True
+1120,ro-RO,news,news_query,este ceva special în politică,social_post,0.642,0.0005,False
+1121,ro-RO,play,play_music,pune visele de irina rimes,iot_hue_lightoff,0.9371,0.0005,False
+1123,ro-RO,play,play_music,în continuare redă delia da mamă,iot_hue_lightoff,0.9014,0.0122,False
+1124,ro-RO,play,play_music,redă visele irina rimes,iot_hue_lightoff,0.9114,0.0347,False
+1127,ro-RO,play,play_music,redă muzică aleatoriu,play_music,0.9995,0.9995,True
+1144,ro-RO,play,play_music,am nevoie de niște rap,play_music,0.9995,0.9995,True
+1148,ro-RO,datetime,datetime_query,cat este ora in busteni acum,weather_query,0.9967,0.0001,False
+1156,ro-RO,news,news_query,ultimele noutati de ziua internationala a femeii,news_query,0.9987,0.9987,True
+1160,ro-RO,weather,weather_query,cât de frig va fi în fiecare noapte săptămâna asta,weather_query,0.9984,0.9984,True
+1180,ro-RO,news,news_query,gaseste adevarul despre articolele despre dragnea de azi,lists_remove,0.3551,0.0134,False
+1202,ro-RO,datetime,datetime_query,ora actuala la cluj,qa_factoid,0.7562,0.0,False
+1238,ro-RO,play,play_music,pandora,qa_factoid,0.1403,0.0391,False
+1249,ro-RO,weather,weather_query,cum va fi vremea probabil in aceasta saptamana,weather_query,0.9982,0.9982,True
+1252,ro-RO,datetime,datetime_query,spune-mi ora curenta,datetime_query,0.7293,0.7293,True
+1294,ro-RO,news,news_query,da mi repede stirile despre premiile gopo,social_post,0.7001,0.0198,False
+1301,ro-RO,news,news_query,spune-mi despre noua politica externă a lui iohannis,qa_factoid,0.9597,0.0014,False
+1308,ro-RO,weather,weather_query,afisaza vremea de azi aici,weather_query,0.9996,0.9996,True
+1318,ro-RO,play,play_music,deschide aplicatia de muzica si reda o melodie pentru mine,play_music,0.9998,0.9998,True
+1351,ro-RO,weather,weather_query,va fi frumos afara saptamana aceasta,weather_query,0.9972,0.9972,True
+1371,ro-RO,news,news_query,ce avem pe prima pagina la adevărul,qa_factoid,0.9995,0.0,False
+1377,ro-RO,iot,iot_hue_lightoff,te rog închide lumina în camera fiului meu,iot_hue_lightoff,0.984,0.984,True
+1400,ro-RO,weather,weather_query,sunt mai ales atent,qa_factoid,0.9959,0.0001,False
+1401,ro-RO,weather,weather_query,sunt atent ocazional,qa_factoid,0.9988,0.0,False
+1404,ro-RO,weather,weather_query,pot sa stiu vremea pentru maine in turnu magurele,weather_query,0.9999,0.9999,True
+1423,ro-RO,news,news_query,spune mi despre basescu,social_post,0.859,0.0071,False
+1425,ro-RO,news,news_query,spune mi cand auzi ceva despre franta,social_post,0.6019,0.0253,False
+1440,ro-RO,play,play_music,ascultă cele mai recente melodii rock evaluate cu cel puțin patru,play_music,0.9956,0.9956,True
+1449,ro-RO,datetime,datetime_query,când este paștele în două mii optsprezece,datetime_query,0.4892,0.4892,True
+1458,ro-RO,weather,weather_query,cat de cald e in constanța,weather_query,0.999,0.999,True
+1467,ro-RO,play,play_music,redă holograf,iot_hue_lightoff,0.9212,0.0019,False
+1474,ro-RO,news,news_query,care sunt stirile de azi din sport,news_query,0.9995,0.9995,True
+1489,ro-RO,play,play_music,pune ultima melodie de la dalida,play_music,0.973,0.973,True
+1513,ro-RO,weather,weather_query,ce temperatură e afara,weather_query,0.7726,0.7726,True
+1533,ro-RO,news,news_query,ce stiri au avut loc azi la antena trei,news_query,0.9525,0.9525,True
+1537,ro-RO,datetime,datetime_query,arata ora curenta in romania,datetime_query,0.9614,0.9614,True
+1542,ro-RO,weather,weather_query,soarele straluceste luminos vom avea vremea aceasta pentru restul zilei,weather_query,0.9931,0.9931,True
+1546,ro-RO,play,play_music,pune mi playlist-ul cu hiturile verii,play_music,0.9521,0.9521,True
+1547,ro-RO,weather,weather_query,cum e vremea la locatia mea in aceasta saptamana,weather_query,0.9989,0.9989,True
+1549,ro-RO,weather,weather_query,va ploua saptamana aceasta,weather_query,0.9138,0.9138,True
+1554,ro-RO,iot,iot_hue_lightoff,stinge lămpile,iot_hue_lightoff,0.9163,0.9163,True
+1581,ro-RO,datetime,datetime_query,care este ziua luna si anul curent,weather_query,0.6861,0.2558,False
+1589,ro-RO,weather,weather_query,o sa fie însorit marti,weather_query,0.9811,0.9811,True
+1593,ro-RO,news,news_query,setează notificare de la știri mondiale,email_sendemail,0.642,0.0311,False
+1594,ro-RO,news,news_query,poti sa imi spui ultimele stiri,calendar_remove,0.822,0.0062,False
+1607,ro-RO,datetime,datetime_query,spune-mi ora curenta in busteni,datetime_query,0.5056,0.5056,True
+1617,ro-RO,news,news_query,alerteaza-ma odata ce apare un subiect nou despre politica,social_post,0.6801,0.2585,False
+1636,ro-RO,news,news_query,arata-mi cele mai recente stiri de la adevarul,lists_remove,0.4368,0.0686,False
+1653,ro-RO,weather,weather_query,când va ploua data viitoare,qa_factoid,0.8412,0.1511,False
+1655,ro-RO,weather,weather_query,va ninge maine la pranz,calendar_remove,0.2241,0.1541,False
+1666,ro-RO,news,news_query,ce sunt deci curate stiri in ultimele sase ore,recommendation_events,0.2838,0.0253,False
+1671,ro-RO,play,play_music,redă doar melodiile lansate între anii o mie nouă sute nouăzeci şi două mii,play_music,0.9351,0.9351,True
+1683,ro-RO,weather,weather_query,mâine o să fie vreme caldă da sau nu,weather_query,0.9992,0.9992,True
+1684,ro-RO,weather,weather_query,da sau nu de mâine o să fie cald,weather_query,0.9968,0.9968,True
+1692,ro-RO,play,play_music,pune niște smooth jazz pentru mine,play_music,1.0,1.0,True
+1722,ro-RO,weather,weather_query,care e temperatura minima in bucurești,weather_query,0.7473,0.7473,True
+1750,ro-RO,iot,iot_hue_lightoff,stinge toate luminile,iot_hue_lightoff,0.3281,0.3281,True
+1759,ro-RO,news,news_query,da-mi stiri despre presedintele iohannis,email_sendemail,0.992,0.0,False
+1760,ro-RO,news,news_query,ultimele stiri legate de terorism,social_post,0.9555,0.0013,False
+1777,ro-RO,play,play_music,următorul cântec,qa_factoid,0.6767,0.26,False
+1784,ro-RO,iot,iot_hue_lightoff,stinge lumina în sala de mese,cooking_recipe,0.4858,0.4381,False
+1786,ro-RO,iot,iot_hue_lightoff,stinge lumina in dormitorul principal,iot_hue_lightoff,0.9357,0.9357,True
+1794,ro-RO,news,news_query,va visita trump românia in curand,social_post,0.9869,0.0005,False
+1796,ro-RO,datetime,datetime_query,data azi,qa_factoid,0.8402,0.0184,False
+1803,ro-RO,news,news_query,ce echipe joaca astazi in liga intai,qa_factoid,0.9986,0.0001,False
+1811,ro-RO,play,play_music,începe playlistul si pornește muzica,play_music,1.0,1.0,True
+1832,ro-RO,play,play_music,redă albumul holograf,play_music,0.9857,0.9857,True
+1833,ro-RO,play,play_music,poti sa pui in bucla playlistul teme,iot_hue_lightoff,0.7263,0.0354,False
+1866,ro-RO,weather,weather_query,buletinul meteo acum,email_sendemail,0.5295,0.0292,False
+1870,ro-RO,datetime,datetime_query,ce luna este azi,weather_query,0.997,0.0002,False
+1904,ro-RO,news,news_query,dă-mi momentele importante ale meciului,calendar_remove,0.3692,0.0135,False
+1933,ro-RO,weather,weather_query,va fi o scadere la temperatura la noapte,weather_query,0.9912,0.9912,True
+1940,ro-RO,play,play_music,redă titlul melodiei,play_music,0.9978,0.9978,True
+1962,ro-RO,play,play_music,hi google redă lista de redare trăznite in aplicatia mea,qa_factoid,0.9514,0.0002,False
+1994,ro-RO,play,play_music,poti sa-mi deschizi itunes,qa_factoid,0.9985,0.0001,False
+1995,ro-RO,play,play_music,pune the beatles,email_sendemail,0.986,0.0015,False
+2007,ro-RO,play,play_music,te rog redă cerul,iot_hue_lightoff,0.7374,0.0051,False
+2062,ro-RO,play,play_music,vreau sa pornesti niste muzica jazz,play_music,0.8294,0.8294,True
+2085,ro-RO,play,play_music,alexa as dori sa ascult orice fragment clasic de bach sau schubert,email_sendemail,0.878,0.0007,False
+2098,ro-RO,news,news_query,ce se intampla in aceste zile in lume,weather_query,0.8786,0.0027,False
+2108,ro-RO,play,play_music,pune urmatorul vara nu dorm,cooking_recipe,0.9649,0.0003,False
+2113,ro-RO,recommendation,recommendation_events,spune-mi evenimentele curente în orașul natal,news_query,0.2776,0.0517,False
+2146,ro-RO,datetime,datetime_query,in ce zi pica solstitiul de iarna peste doi ani,weather_query,0.9993,0.0004,False
+2156,ro-RO,datetime,datetime_query,trebuie sa stiu ce ora este acum,weather_query,0.9993,0.0001,False
+2160,ro-RO,iot,iot_hue_lightoff,ma duc sa dorm acum,calendar_remove,0.3254,0.0297,False
+2178,ro-RO,weather,weather_query,care e vremea actuala in zona mea,weather_query,0.9945,0.9945,True
+2198,ro-RO,datetime,datetime_query,ce zi din saptamana era pe patru decembrie o mie nouasute optzeci si doi,weather_query,0.9501,0.0174,False
+2201,ro-RO,news,news_query,titluri antena trei,play_music,0.3348,0.0291,False
+2203,ro-RO,news,news_query,titluri mondiale antena trei,qa_factoid,0.9059,0.0034,False
+2220,ro-RO,weather,weather_query,vremea la iași,weather_query,0.9995,0.9995,True
+2225,ro-RO,play,play_music,redă irina rimes bolnavi amândoi,iot_hue_lightoff,0.8351,0.0011,False
+2230,ro-RO,iot,iot_hue_lightoff,stinge lumina din bucatarie,iot_hue_lightoff,0.8913,0.8913,True
+2237,ro-RO,news,news_query,citeste-mi cele mai recente stiri internationale,news_query,0.7951,0.7951,True
+2258,ro-RO,weather,weather_query,am nevoie de pulover azi,social_post,0.4342,0.0069,False
+2265,ro-RO,weather,weather_query,spune-mi cum e vremea acum in cluj napoca judetul cluj,weather_query,0.9998,0.9998,True
+2271,ro-RO,play,play_music,pune te rog cântecele ce le-am cumpărat si le-am pus la favorite,play_music,0.7359,0.7359,True
+2296,ro-RO,news,news_query,tine ma la curent cu scorurile de fotbal de azi,email_sendemail,0.8446,0.0536,False
+2298,ro-RO,iot,iot_hue_lightoff,stinge luminile acum,iot_hue_lightoff,0.9623,0.9623,True
+2315,ro-RO,news,news_query,care sunt știrile de azi,news_query,0.9989,0.9989,True
+2316,ro-RO,news,news_query,alexa da mi ultimele titluri de stiri,lists_remove,0.9944,0.0,False
+2320,ro-RO,weather,weather_query,cum e vremea vineri,weather_query,0.9976,0.9976,True
+2322,ro-RO,weather,weather_query,cum e vremea maine,weather_query,0.9981,0.9981,True
+2330,ro-RO,datetime,datetime_query,afiseaza ora locala pentru craiova in acest moment,calendar_remove,0.7052,0.0002,False
+2384,ro-RO,news,news_query,ce se intampla in lume,qa_factoid,0.8684,0.0003,False
+2386,ro-RO,news,news_query,da mi ultimele stiri,iot_hue_lightoff,0.5138,0.0046,False
+2396,ro-RO,play,play_music,redă melodii paula seling,play_music,0.9992,0.9992,True
+2408,ro-RO,play,play_music,cauta mai multe melodii de la trupa,play_music,1.0,1.0,True
+2412,ro-RO,datetime,datetime_query,imi poti spune ora in londra,weather_query,0.9596,0.0016,False
+2423,ro-RO,weather,weather_query,da-mi prognoza meteo de astazi pentru bucuresti,weather_query,0.9985,0.9985,True
+2438,ro-RO,news,news_query,trimite știri despre tehnologie,social_post,0.8607,0.0033,False
+2441,ro-RO,iot,iot_hue_lightoff,stinge lumina din magazie,iot_hue_lightoff,0.5079,0.5079,True
+2472,ro-RO,datetime,datetime_query,este timpul corect unde ma aflu acum,qa_factoid,0.7219,0.0155,False
+2496,ro-RO,news,news_query,stiri zilnice,qa_factoid,0.957,0.0011,False
+2497,ro-RO,datetime,datetime_query,ce dată e azi,datetime_query,0.9163,0.9163,True
+2498,ro-RO,datetime,datetime_query,siri ce data e azi,email_sendemail,0.9962,0.0001,False
+2527,ro-RO,play,play_music,pune rock clasic,play_music,0.5229,0.5229,True
+2531,ro-RO,play,play_music,alexa pune-mi o melodie rap şi una rock una după cealaltă,play_music,0.9999,0.9999,True
+2545,ro-RO,weather,weather_query,cum este vremea,weather_query,0.9968,0.9968,True
+2548,ro-RO,news,news_query,orice interesant din adevarul,qa_factoid,0.9516,0.0013,False
+2560,ro-RO,play,play_music,reda muzica aleatorie,play_music,0.9983,0.9983,True
+2573,ro-RO,play,play_music,reda lista mea dance din spotify,play_music,0.9925,0.9925,True
+2578,ro-RO,iot,iot_hue_lightoff,stinge lumina pe verandă,iot_hue_lightoff,0.9537,0.9537,True
+2588,ro-RO,news,news_query,care sunt cele mai recente stiri de la pro tv te rog,lists_query,0.9311,0.0591,False
+2594,ro-RO,news,news_query,spune-mi despre cele mai noi stiri despre mediu,news_query,0.99,0.99,True
+2605,ro-RO,play,play_music,redă muzica mea preferată acum,play_music,0.9998,0.9998,True
+2611,ro-RO,weather,weather_query,cum e vremea acum,weather_query,0.997,0.997,True
+2615,ro-RO,weather,weather_query,va trebui să port o geacă miercurea viitoare,qa_factoid,0.5785,0.2448,False
+2638,ro-RO,news,news_query,arata mi stiri despre trump,social_post,0.9759,0.0015,False
+2639,ro-RO,news,news_query,arata mi stirile despre mediu,iot_hue_lightoff,0.363,0.0731,False
+2651,ro-RO,news,news_query,ultimele stiri din zona,social_post,0.6428,0.005,False
+2678,ro-RO,weather,weather_query,o sa ploua la noapte,weather_query,0.8155,0.8155,True
+2679,ro-RO,weather,weather_query,temperatura o sa ramana la fel sau o sa fie mai rece,weather_query,0.989,0.989,True
+2703,ro-RO,play,play_music,te rog cântă muzică folk,play_music,1.0,1.0,True
+2704,ro-RO,play,play_music,hai să ascultăm niște rock,play_music,0.9927,0.9927,True
+2708,ro-RO,play,play_music,olly imi vine sa dansez pune niste rock north roll,play_music,0.9897,0.9897,True
+2709,ro-RO,play,play_music,olly eu am nevoie sa ascult niste melodii triste astazi,play_music,0.9999,0.9999,True
+2711,ro-RO,iot,iot_hue_lightoff,stinge luminile,iot_hue_lightoff,0.9478,0.9478,True
+2717,ro-RO,play,play_music,vreau să ascult eu vara nu dorm,iot_hue_lightoff,0.6973,0.0196,False
+2724,ro-RO,news,news_query,zi-mi stirile de la t. v. r.,qa_factoid,0.4136,0.0168,False
+2770,ro-RO,play,play_music,olly redă muzică de la genul jazz,play_music,0.9999,0.9999,True
+2774,ro-RO,iot,iot_hue_lightoff,stinge luminile,iot_hue_lightoff,0.9478,0.9478,True
+2775,ro-RO,iot,iot_hue_lightoff,folosirea discontinuă a luminii,iot_hue_lightoff,0.1665,0.1665,True
+2777,ro-RO,weather,weather_query,să iau umbrelă azi,iot_hue_lightoff,0.9991,0.0001,False
+2781,ro-RO,play,play_music,redă te rog ceva muzică jazz,play_music,0.9991,0.9991,True
+2798,ro-RO,play,play_music,alexa redă melodia over the rainbow,play_music,0.9987,0.9987,True
+2801,ro-RO,datetime,datetime_query,cat este ora in bucuresti,weather_query,0.9985,0.0002,False
+2824,ro-RO,datetime,datetime_query,in ce zi pica treisprezece decembrie,weather_query,0.8577,0.1275,False
+2840,ro-RO,datetime,datetime_query,a doua zi din luna următoare pică în ce zi,weather_query,0.8159,0.0313,False
+2859,ro-RO,datetime,datetime_query,andrei cat este ceasul in acest oras,weather_query,0.9989,0.0001,False
+2887,ro-RO,news,news_query,te rog sa-mi arati orice articole meteo la stirile diminetii,weather_query,0.9053,0.0021,False
+2890,ro-RO,weather,weather_query,vremea in acest moment,weather_query,0.9979,0.9979,True
+2898,ro-RO,news,news_query,sunt ceva noutăți privind alegerile,news_query,0.9929,0.9929,True
+2914,ro-RO,datetime,datetime_query,spune mi ce zi e azi,weather_query,0.8565,0.0016,False
+2917,ro-RO,weather,weather_query,raportul saptamanal de vreme,qa_factoid,0.9897,0.0007,False
+2921,ro-RO,news,news_query,care sunt stirile pe website-ul pro tv,recommendation_events,0.1389,0.0882,False
+2927,ro-RO,datetime,datetime_query,cat este ora in busteni,weather_query,0.9978,0.0001,False
+2931,ro-RO,play,play_music,redă atmosphere următorul,play_music,0.4052,0.4052,True
+2962,ro-RO,play,play_music,te rog pune o piesă de la marius moga,play_music,0.987,0.987,True
+2965,ro-RO,iot,iot_hue_lightoff,stinge lumini birou,iot_hue_lightoff,0.8809,0.8809,True
+3002,ro-RO,play,play_music,pune melodii de la formaţia holograf,play_music,1.0,1.0,True
+3031,ro-RO,play,play_music,vreau să cânți melodia din nou,play_music,1.0,1.0,True
+3034,ro-RO,weather,weather_query,spune-mi temperatura,weather_query,0.756,0.756,True
+3037,ro-RO,news,news_query,articole de stiri pe prima pagina te rog,cooking_recipe,0.8933,0.0016,False
+3039,ro-RO,news,news_query,ce e nou la stiri,weather_query,0.485,0.0037,False
+3060,ro-RO,news,news_query,care sunt stirile din stiri pe surse,qa_factoid,0.4595,0.013,False
+3091,ro-RO,datetime,datetime_query,cat este ceasul in ora standard a pacificului,weather_query,0.6536,0.335,False
+3096,ro-RO,weather,weather_query,cum e vremea in calarasi,weather_query,0.9931,0.9931,True
+3098,ro-RO,iot,iot_hue_lightoff,stinge luminile,iot_hue_lightoff,0.9478,0.9478,True
+3099,ro-RO,news,news_query,arata mi cateva evenimente actuale,qa_factoid,1.0,0.0,False
+3101,ro-RO,news,news_query,olly da drumul la stiri,play_music,0.9757,0.0003,False
+3116,ro-RO,play,play_music,redă cântecul meu favorit de anul trecut,play_music,0.9745,0.9745,True
+3117,ro-RO,play,play_music,redă ceva de holograf din album să nu-mi iei niciodata dragostea,play_music,0.2914,0.2914,True
+3118,ro-RO,datetime,datetime_query,care este ora standard de est chiar acum,weather_query,0.9949,0.0031,False
+3124,ro-RO,play,play_music,pune un cântec aleatoriu din playlistul meu,play_music,1.0,1.0,True
+3146,ro-RO,play,play_music,redă piesa unu de pe playlist-ul meu smiley,play_music,0.9968,0.9968,True
+3167,ro-RO,iot,iot_hue_lightoff,stinge-mi luminile în dormitor,iot_hue_lightoff,0.8285,0.8285,True
+3174,ro-RO,play,play_music,redă lista melodiilor,play_music,0.9992,0.9992,True
+3205,ro-RO,play,play_music,pune da mama de delia,social_post,0.9205,0.0011,False
+3207,ro-RO,play,play_music,reda apa de loredana groza,iot_hue_lightoff,0.9858,0.0007,False
+3212,ro-RO,calendar,calendar_set,amintește mi să fac ceva atunci,cooking_recipe,0.9262,0.001,False
+3214,ro-RO,news,news_query,care este starea actuala a investigatiei asupra legaturilor lui trump cu rusia,qa_factoid,0.6277,0.0204,False
+3228,ro-RO,datetime,datetime_query,in ce zi a saptamanii cade craciunul anul acesta,weather_query,0.5629,0.4133,False
+3253,ro-RO,weather,weather_query,ar trebui sa ploua dupa amiaza,weather_query,0.9569,0.9569,True
+3264,ro-RO,play,play_music,reda muzica reggae,play_music,0.9991,0.9991,True
+3305,ro-RO,weather,weather_query,cum e vremea saptamana aceasta la mamaia,weather_query,0.9982,0.9982,True
+3306,ro-RO,weather,weather_query,ce prognoza e pentru saptamana asta,cooking_recipe,0.2147,0.0207,False
+3329,ro-RO,news,news_query,vreau sa vad stirile,iot_hue_lightoff,0.6394,0.0035,False
+3337,ro-RO,weather,weather_query,spune-mi vremea pentru treizeci si trei de mii sapte sute saptezeci,weather_query,0.9979,0.9979,True
+3338,ro-RO,weather,weather_query,prognoza meteo pentru sibiu,weather_query,0.9862,0.9862,True
+3361,ro-RO,datetime,datetime_query,în ce dată vom fi marțea viitoare,datetime_query,0.5147,0.5147,True
+3378,ro-RO,iot,iot_hue_lightoff,nici o lumină în bucătărie,cooking_recipe,0.5005,0.419,False
+3386,ro-RO,iot,iot_hue_lightoff,setează lumina la mediu,iot_hue_lightoff,0.9062,0.9062,True
+3400,ro-RO,play,play_music,redă o versiune live gică petrescu,play_music,0.8356,0.8356,True
+3401,ro-RO,play,play_music,pune cea mai populara piesa de elton john,cooking_recipe,0.5791,0.0067,False
+3406,ro-RO,weather,weather_query,care este prognoza pe zece zile,qa_factoid,0.843,0.0138,False
+3407,ro-RO,weather,weather_query,e prognozata ploaie sau zăpadă săptămâna asta,weather_query,0.9941,0.9941,True
+3408,ro-RO,weather,weather_query,o sa fie frumos weekend-ul acesta,iot_hue_lightoff,0.426,0.1106,False
+3426,ro-RO,weather,weather_query,cate grade sunt afara,qa_factoid,0.999,0.0001,False
+3433,ro-RO,play,play_music,muzică pop nouă,play_music,1.0,1.0,True
+3434,ro-RO,play,play_music,cea mai bună muzică rap,play_music,0.9804,0.9804,True
+3441,ro-RO,datetime,datetime_query,este douazeci si doi intr-o miercuri,weather_query,0.9954,0.0003,False
+3444,ro-RO,datetime,datetime_query,este zece,qa_factoid,0.9076,0.0034,False
+3447,ro-RO,weather,weather_query,va fi ploaie sambata,weather_query,0.884,0.884,True
+3481,ro-RO,play,play_music,redă cel mai popular cântec de la smiley,play_music,0.9864,0.9864,True
+3489,ro-RO,play,play_music,pune te rog muzică acum,play_music,1.0,1.0,True
+3492,ro-RO,play,play_music,reda lista cu cele mai ascultate piese ale mele,lists_remove,0.9358,0.0011,False
+3503,ro-RO,weather,weather_query,cum e vremea in ploiesti,weather_query,0.9979,0.9979,True
+3507,ro-RO,weather,weather_query,este zăpadă în prognoza meteo,weather_query,0.9663,0.9663,True
+3513,ro-RO,play,play_music,redă doar lista mea,lists_query,0.9514,0.009,False
+3516,ro-RO,weather,weather_query,care sunt sansele de precipitatii azi,weather_query,0.9965,0.9965,True
+3539,ro-RO,play,play_music,te rog reda shake it off de taylor swift,iot_hue_lightoff,0.4209,0.0327,False
+3546,ro-RO,play,play_music,vreau să aud muzică jazz,play_music,1.0,1.0,True
+3550,ro-RO,play,play_music,pune niște led zeppelin,play_radio,0.4392,0.1184,False
+3554,ro-RO,play,play_music,poţi să pui playlist-ul de dragoste,play_music,0.9354,0.9354,True
+3562,ro-RO,play,play_music,redă o ultimă dorință,iot_hue_lightoff,0.2871,0.0771,False
+3566,ro-RO,datetime,datetime_query,care este ora actuala in buzau,weather_query,0.912,0.0128,False
+3570,ro-RO,iot,iot_hue_lightoff,te rog stinge luminile pe terasă,iot_hue_lightoff,0.9748,0.9748,True
+3576,ro-RO,news,news_query,care este cea mai recenta poveste de la antena trei,play_podcasts,0.9534,0.002,False
+3586,ro-RO,weather,weather_query,cum e vremea în bucurești,weather_query,0.9989,0.9989,True
+3600,ro-RO,calendar,calendar_set,aminteste-mi peste zece minute,qa_factoid,0.5827,0.0012,False
+3603,ro-RO,news,news_query,care sunt ultimele stiri de la pro tv,lists_remove,0.5398,0.0729,False
+3605,ro-RO,news,news_query,care sunt ultimele stiri pe pro tv,lists_remove,0.2283,0.0203,False
+3606,ro-RO,datetime,datetime_query,cat este ora in bucuresti,weather_query,0.9985,0.0002,False
+3614,ro-RO,weather,weather_query,e o zi însorită astăzi corect,weather_query,0.9955,0.9955,True
+3623,ro-RO,news,news_query,ce se intampla in lume azi,qa_factoid,0.7469,0.0003,False
+3624,ro-RO,news,news_query,stiri de la antena unu,play_radio,0.4249,0.0166,False
+3631,ro-RO,play,play_music,hey google redă niște muzică jazz pentru mine,play_music,0.7241,0.7241,True
+3686,ro-RO,play,play_music,pornește playlist-ul pe care eu l-am dedicat muzicii rock,play_music,0.9994,0.9994,True
+3714,ro-RO,play,play_music,redă playlistul meu începând de la final,play_music,0.5803,0.5803,True
+3717,ro-RO,play,play_music,te rog redă hiturile mele rap din anii nouăzeci,play_music,0.9736,0.9736,True
+3723,ro-RO,play,play_music,as dori sa ascult cristina de maria raducanu dupa aceasta melodie,play_music,0.9921,0.9921,True
+3725,ro-RO,datetime,datetime_query,ce zi este azi,weather_query,0.9659,0.0026,False
+3727,ro-RO,play,play_music,pune vals de smiley,iot_hue_lightoff,0.7785,0.0982,False
+3750,ro-RO,news,news_query,olly daca apare vreo veste noua despre inundatie poti sa ma anunti imediat,weather_query,0.7735,0.0751,False
+3779,ro-RO,play,play_music,redă playlist gol youtube,play_music,0.9096,0.9096,True
+3780,ro-RO,play,play_music,ascultă lista de melodii dragoste în miezul nopții,play_music,0.9996,0.9996,True
+3784,ro-RO,weather,weather_query,spune-mi prognoza meteo pentru sinaia,weather_query,0.9967,0.9967,True
+3785,ro-RO,iot,iot_hue_lightoff,stinge lumina la baie te rog,iot_hue_lightoff,0.8334,0.8334,True
+3822,ro-RO,news,news_query,caută informații despre mașini,qa_factoid,0.9778,0.0005,False
+3852,ro-RO,weather,weather_query,ce fel de vreme e in ploiesti prahova acum,weather_query,0.9973,0.9973,True
+3859,ro-RO,play,play_music,te rog pune lista mea muzicala preferata rap,play_music,0.9612,0.9612,True
+3907,ro-RO,play,play_music,reda slagarele anului trecut,qa_factoid,0.0599,0.051,False
+3911,ro-RO,play,play_music,vreau să aud oricare cântece care au primit grammy acest an,play_music,0.7737,0.7737,True
+3912,ro-RO,play,play_music,vreau sa ascult musica de dans și country,play_music,1.0,1.0,True
+3936,ro-RO,weather,weather_query,ce temperatura este,qa_factoid,0.8819,0.0595,False
+3960,ro-RO,datetime,datetime_query,spune ora,iot_hue_lightoff,0.9487,0.0093,False
+3967,ro-RO,play,play_music,rap,qa_factoid,0.5852,0.0441,False
+3980,ro-RO,play,play_music,te rog redă pierdut buletin al lui smiley,email_sendemail,1.0,0.0,False
+3982,ro-RO,play,play_music,te rog selectează prima melodie din librăria mea itunes,play_music,0.3898,0.3898,True
+3993,ro-RO,iot,iot_hue_lightoff,poți face luminile să se stingă,iot_hue_lightoff,0.9985,0.9985,True
+3995,ro-RO,datetime,datetime_query,olly în ce zi a săptămânii e halloween-ul,qa_factoid,0.9021,0.0006,False
+4001,ro-RO,news,news_query,ce s a intamplat in walking dead,qa_factoid,0.8111,0.001,False
+4023,ro-RO,news,news_query,ce este la stiri,weather_query,0.9864,0.0005,False
+4031,ro-RO,play,play_music,pune pe umerii tăi slabi,iot_hue_lightoff,0.4083,0.0361,False
+4040,ro-RO,play,play_music,redă cântecul pe care îl ascult cel mai mult,play_music,0.9997,0.9997,True
+4058,ro-RO,play,play_music,aș vrea să ascult niște muzică rap,play_music,0.9998,0.9998,True
+4073,ro-RO,datetime,datetime_query,in ce zi pica data de cinci,qa_factoid,0.5412,0.0414,False
+4077,ro-RO,iot,iot_hue_lightoff,sa stingi luminile din bucatarie,iot_hue_lightoff,0.7995,0.7995,True
+4088,ro-RO,iot,iot_hue_lightoff,stinge lumina de deasupra capului,iot_hue_lightoff,0.9125,0.9125,True
+4104,ro-RO,weather,weather_query,cum o sa fie vremea astazi in bucuresti,weather_query,0.9986,0.9986,True
+4116,ro-RO,play,play_music,redă te rog playlistul aleatoriu,qa_factoid,0.5799,0.3756,False
+4119,ro-RO,news,news_query,vreau sa stiu tot ce apare in legatura cu ruperea barajului din california,news_query,0.5355,0.5355,True
+4132,ro-RO,weather,weather_query,cât la sută sunt șanse de ploaie în ploiești prahova astăzi,qa_factoid,0.8282,0.1267,False
+4136,ro-RO,play,play_music,poti sa redai te rog carlas dreams,social_post,0.4815,0.0162,False
+4152,ro-RO,play,play_music,te rog redă melodia bună seara iubito,play_music,0.9938,0.9938,True
+4168,ro-RO,weather,weather_query,verifica vremea in prahova,weather_query,0.9975,0.9975,True
+4171,ro-RO,iot,iot_hue_lightoff,inchide luminile in bucatarie,iot_hue_lightoff,0.7554,0.7554,True
+4177,ro-RO,news,news_query,dă-mi cele mai recente titluri politice din lume,recommendation_events,1.0,0.0,False
+4178,ro-RO,news,news_query,sunt orice stiri despre presedinte,news_query,0.9053,0.9053,True
+4183,ro-RO,datetime,datetime_query,ora curenta in bucuresti,weather_query,0.7502,0.0157,False
+4186,ro-RO,datetime,datetime_query,bună olly cât e ceasul,weather_query,0.9692,0.0004,False
+4187,ro-RO,datetime,datetime_query,salut siri cat e ceasul,qa_factoid,1.0,0.0,False
+4205,ro-RO,play,play_music,vreau să ascult delia ce are ea,qa_factoid,0.9994,0.0,False
+4212,ro-RO,weather,weather_query,voi putea sa tund iarba in seara asta,iot_hue_lightoff,0.4955,0.0125,False
+4227,ro-RO,weather,weather_query,se anunta ploaie pe săptămâna viitoare,weather_query,0.9943,0.9943,True
+4232,ro-RO,play,play_music,redă cerul de la proconsul,play_music,0.8265,0.8265,True
+4236,ro-RO,datetime,datetime_query,este deja dupa amiaza,weather_query,0.982,0.0014,False
+4253,ro-RO,datetime,datetime_query,care este ora exacta in partea de est,weather_query,0.9796,0.0182,False
+4254,ro-RO,datetime,datetime_query,cat este ora pe coasta de est a greciei,weather_query,0.9975,0.0002,False
+4258,ro-RO,news,news_query,care sunt cele mai recente stiri,lists_query,0.7412,0.2458,False
+4266,ro-RO,weather,weather_query,cum este vremea de azi,weather_query,0.998,0.998,True
+4273,ro-RO,play,play_music,redă melodia cosmos,play_music,0.9998,0.9998,True
+4290,ro-RO,weather,weather_query,ar trebui sa iau o geaca cu mine la noapte,iot_hue_lightoff,0.9185,0.0398,False
+4305,ro-RO,play,play_music,pune melodia la un ceai de victor socaciu,play_music,1.0,1.0,True
+4309,ro-RO,datetime,datetime_query,in cate ore va fi miezul noptii in bucuresti romania,weather_query,0.9971,0.0013,False
+4312,ro-RO,weather,weather_query,vor fi mai putin de zece grade la ploiesti,weather_query,0.5198,0.5198,True
+4313,ro-RO,weather,weather_query,va fi ploaie maine in bucuresti,weather_query,0.9963,0.9963,True
+4336,ro-RO,datetime,datetime_query,cat este ora in china,weather_query,0.9668,0.0005,False
+4346,ro-RO,iot,iot_hue_lightoff,oprește luminile,email_sendemail,0.5203,0.4703,False
+4347,ro-RO,iot,iot_hue_lightoff,oprește luminile de operare,iot_hue_lightoff,0.9969,0.9969,True
+4355,ro-RO,weather,weather_query,cum este vremea unde mă aflu,weather_query,0.9609,0.9609,True
+4361,ro-RO,play,play_music,dă-mi niște muzică bună,play_music,0.9996,0.9996,True
+4362,ro-RO,datetime,datetime_query,ce ora este in brasov,weather_query,0.9902,0.0021,False
+4376,ro-RO,weather,weather_query,cum e astazi afara,qa_factoid,0.9736,0.0007,False
+4377,ro-RO,weather,weather_query,cum e vremea acum,weather_query,0.997,0.997,True
+4383,ro-RO,weather,weather_query,cum o sa fie vremea maine,weather_query,0.9995,0.9995,True
+4391,ro-RO,news,news_query,care sunt titlurile pe antena unu,qa_factoid,0.9406,0.001,False
+4400,ro-RO,news,news_query,care sunt articolele in tendinte din pro tv,lists_remove,0.8205,0.001,False
+4402,ro-RO,weather,weather_query,o sa fie nevoie sa iau cu mine haina azi,iot_hue_lightoff,0.2565,0.0209,False
+4412,ro-RO,weather,weather_query,cum e vremea in sibiu,weather_query,0.9949,0.9949,True
+4436,ro-RO,weather,weather_query,ce jacheta ar trebui sa port,transport_query,0.9986,0.0,False
+4439,ro-RO,weather,weather_query,cum e vremea in miercurea ciuc,weather_query,0.9964,0.9964,True
+4449,ro-RO,weather,weather_query,va ploua astăzi la ora unu după-amiază,weather_query,0.9953,0.9953,True
+4452,ro-RO,play,play_music,redă cântece,iot_hue_lightoff,0.4918,0.4859,False
+4463,ro-RO,datetime,datetime_query,câte sâmbete sunt în martie,weather_query,0.4834,0.1002,False
+4477,ro-RO,play,play_music,pune cântecul urmator,play_music,1.0,1.0,True
+4482,ro-RO,weather,weather_query,voi avea nevoie sa dau cu lopata pe aleea mea in aceasta dimineata,play_music,0.9235,0.0015,False
+4486,ro-RO,weather,weather_query,spune-mi vremea pentru saptamana aceasta,weather_query,0.9991,0.9991,True
+4487,ro-RO,weather,weather_query,va ploua joi,weather_query,0.9062,0.9062,True
+4491,ro-RO,news,news_query,care este ultima știre despre klaus iohannis,news_query,0.9964,0.9964,True
+4492,ro-RO,news,news_query,care este cea mai recenta statistica privind criminalitatea din zona mea,social_post,0.5943,0.0011,False
+4496,ro-RO,news,news_query,ce a publicat elle azi,social_post,0.5018,0.0001,False
+4502,ro-RO,datetime,datetime_query,hei ce oră e la bucurești acum,weather_query,0.9977,0.0001,False
+4524,ro-RO,weather,weather_query,olly care e prognoza meteo de astazi,iot_hue_lightoff,0.8352,0.1262,False
+4547,ro-RO,play,play_music,pornește un playlist de plimbat câinele,play_music,0.9997,0.9997,True
+4567,ro-RO,news,news_query,citeste mi ultimele titluri de la pro tv,play_podcasts,0.8996,0.0007,False
+4580,ro-RO,datetime,datetime_query,ce ora este la bucuresti,weather_query,0.9501,0.0369,False
+4587,ro-RO,play,play_music,pune preferatele mele,cooking_recipe,0.603,0.0007,False
+4589,ro-RO,calendar,calendar_set,setează o notificare pentru joc sportiv,iot_hue_lightoff,0.48,0.3976,False
+4606,ro-RO,news,news_query,gasiti informatii despre stocurile valutare de azi,lists_remove,0.6124,0.0153,False
+4614,ro-RO,weather,weather_query,o sa fie temperatura mai mare de patruzeci de grade maine,weather_query,0.9962,0.9962,True
+4662,ro-RO,news,news_query,alexa știrile de la pro t. v.,qa_definition,0.1303,0.0464,False
+4667,ro-RO,datetime,datetime_query,ora curenta in,datetime_query,0.3147,0.3147,True
+4680,ro-RO,weather,weather_query,ar trebui sa port sandale sau papuci cu sosete,transport_query,0.2341,0.0292,False
+4689,ro-RO,weather,weather_query,știi cum va fi vremea,weather_query,0.9986,0.9986,True
+4692,ro-RO,play,play_music,pune-mi un cântec de inna,play_music,0.9944,0.9944,True
+4710,ro-RO,datetime,datetime_query,ce zi este ziua mortilor anul acesta,calendar_remove,0.7376,0.018,False
+4764,ro-RO,weather,weather_query,o sa ploua luni,weather_query,0.7751,0.7751,True
+4767,ro-RO,news,news_query,sunt noi informatii in legatura cu zidul de la granița dintre mexic și america,social_post,0.225,0.0599,False
+4772,ro-RO,datetime,datetime_query,spune mi ora in acest fus orar,calendar_remove,0.947,0.0001,False
+4780,ro-RO,datetime,datetime_query,in ce zi cade ziua mea douazeci si sapte iunie,datetime_query,0.7376,0.7376,True
+4784,ro-RO,weather,weather_query,am nevoie de o jacheta,qa_factoid,0.9396,0.0004,False
+4813,ro-RO,datetime,datetime_query,care e ora in alt oras,calendar_remove,0.3466,0.0111,False
+4837,ro-RO,news,news_query,olly ai niste stiri noi,social_post,0.9964,0.0002,False
+4838,ro-RO,play,play_music,redă toată muzica de proconsul,play_music,0.9987,0.9987,True
+4871,ro-RO,weather,weather_query,cum e afara,weather_query,0.8683,0.8683,True
+4881,ro-RO,datetime,datetime_query,caută să afli ora locală actuală și fusul orar,qa_factoid,0.3012,0.034,False
+4882,ro-RO,datetime,datetime_query,cat este ora intr-un oras,weather_query,0.9966,0.0009,False
+4890,ro-RO,calendar,calendar_set,setează notificările pentru cataclismele naturale in america,recommendation_events,0.3005,0.1035,False
+4909,ro-RO,play,play_music,redă cantece de iris,iot_hue_lightoff,0.8865,0.0052,False
+4917,ro-RO,weather,weather_query,temperatura afara,qa_factoid,0.4474,0.0513,False
+4928,ro-RO,play,play_music,redă soundtrack-ul meu,play_music,0.9996,0.9996,True
+4933,ro-RO,weather,weather_query,o sa plouă acum,weather_query,0.9628,0.9628,True
+4951,ro-RO,datetime,datetime_query,as vrea sa stiu cat este ceasul acum,weather_query,0.9945,0.0039,False
+4953,ro-RO,news,news_query,vești despre accidentul feroviar,qa_factoid,0.8724,0.0691,False
+4957,ro-RO,datetime,datetime_query,în ce zi a săptămânii e douăzeci și trei ale lunii curente,weather_query,0.7207,0.1654,False
+4960,ro-RO,play,play_music,muzica cargo,play_music,0.9978,0.9978,True
+4968,ro-RO,qa,qa_factoid,cine a câștigat alegerile prezidențiale anul acesta,qa_factoid,0.9867,0.9867,True
+4973,ro-RO,play,play_music,olly pune i can't feel my face,weather_query,0.9142,0.0002,False
+4998,ro-RO,play,play_music,adaugă acest cântec pentru următorul cântec care se redă,play_music,0.9998,0.9998,True
+5009,ro-RO,weather,weather_query,o sa am nevoie de umbrela saptamana aceasta,iot_hue_lightoff,0.9949,0.0003,False
+5016,ro-RO,news,news_query,spune-mi noutatile despre cresterea si scaderea pietei,news_query,0.9692,0.9692,True
+5027,ro-RO,datetime,datetime_query,cand pica urmatoarea vineri treisprezece,qa_factoid,0.8032,0.0138,False
+5037,ro-RO,weather,weather_query,cat de rece e azi,qa_factoid,0.9983,0.0,False
+5038,ro-RO,weather,weather_query,cum e vremea saptamana aceasta,weather_query,0.9957,0.9957,True
+5040,ro-RO,weather,weather_query,cum e vremea acum,weather_query,0.997,0.997,True
+5062,ro-RO,play,play_music,te rog cântă-mi melodii din anii optzeci,play_music,1.0,1.0,True
+5074,ro-RO,weather,weather_query,cum a fost vremea de saptamana aceasta,weather_query,0.9966,0.9966,True
+5085,ro-RO,weather,weather_query,care e prognoza meteo pe sambata,weather_query,0.9901,0.9901,True
+5118,ro-RO,play,play_music,nimeni pe drum,qa_factoid,0.9976,0.0007,False
+5127,ro-RO,news,news_query,acesta este adevarul despre meals on wheels in bugetul cuiva,cooking_recipe,0.9971,0.0002,False
+5131,ro-RO,datetime,datetime_query,te rog spune mi cat este ceasul in satu mare,iot_hue_lightoff,0.4009,0.0629,False
+5134,ro-RO,play,play_music,găsește melodii din playlist carla's dreams,play_music,1.0,1.0,True
+5156,ro-RO,iot,iot_hue_lightoff,opreşte lumina în sufragerie,cooking_recipe,0.4098,0.3974,False
+5157,ro-RO,iot,iot_hue_lightoff,olly stinge lumina în sufragerie,iot_hue_lightoff,0.7894,0.7894,True
+5158,ro-RO,play,play_music,te rog pune cel mai nou cântec de pe albumul irina rimes,play_music,0.9844,0.9844,True
+5159,ro-RO,play,play_music,poți te rog cânta melodia artistei loredana,play_music,1.0,1.0,True
+5160,ro-RO,play,play_music,ai putea te rog să redai cântecul lui michael jackson,email_sendemail,0.8085,0.0824,False
+5176,ro-RO,weather,weather_query,cum o să fie vremea săptămâna aceasta,weather_query,0.9984,0.9984,True
+5196,ro-RO,news,news_query,vreau sa stiu despre brexit,iot_hue_lightoff,0.7107,0.0032,False
+5225,ro-RO,datetime,datetime_query,ce dată e miercurea următoare,qa_factoid,0.998,0.0018,False
+5243,ro-RO,iot,iot_hue_lightoff,siri stinge te rog luminile în baie,weather_query,0.9792,0.0156,False
+5245,ro-RO,news,news_query,seteaza notificari despre stiri mediu,email_sendemail,0.9125,0.0024,False
+5270,ro-RO,news,news_query,care sunt in prezent stirile de ultima ora,news_query,0.9987,0.9987,True
+5278,ro-RO,play,play_music,redă te rog doar muzică pop,play_music,0.9958,0.9958,True
+5279,ro-RO,play,play_music,te rog porneste doar melodii triste in playerul muzical,play_music,0.9999,0.9999,True
+5286,ro-RO,news,news_query,arata stirile pro tv despre migrare,transport_query,0.6879,0.0084,False
+5296,ro-RO,news,news_query,olly da mi cele mai populare stiri de la antena trei,lists_remove,0.4717,0.0025,False
+5297,ro-RO,news,news_query,da-mi stirile populare de pe pro tv,social_post,0.4965,0.0079,False
+5301,ro-RO,weather,weather_query,cum o sa fie vremea pe douazeci martie doua mii saptesprezece,weather_query,0.9986,0.9986,True
+5307,ro-RO,datetime,datetime_query,este douazeci martie azi,weather_query,0.9992,0.0,False
+5318,ro-RO,play,play_music,te rog redă melodia proconsul,play_music,0.9852,0.9852,True
+5321,ro-RO,weather,weather_query,arată vremea,weather_query,0.9996,0.9996,True
+5328,ro-RO,play,play_music,rock,qa_factoid,0.5125,0.0155,False
+5339,ro-RO,weather,weather_query,conditii scazute de racire,qa_factoid,0.4957,0.0041,False
+5341,ro-RO,datetime,datetime_query,te rog alertează mă cu privire la ora,qa_factoid,0.8994,0.0567,False
+5347,ro-RO,play,play_music,redă muzică tehno,play_music,0.9978,0.9978,True
+5358,ro-RO,datetime,datetime_query,actualizat la ora curenta,iot_hue_lightoff,0.8733,0.0135,False
+5370,ro-RO,news,news_query,care este cea mai recenta stire controversata despre iohannis,news_query,0.4948,0.4948,True
+5378,ro-RO,play,play_music,redă s.,iot_hue_lightoff,0.9243,0.002,False
+5401,ro-RO,play,play_music,muzică,play_music,0.9996,0.9996,True
+5410,ro-RO,news,news_query,citeste mi ultimele titluri din jurnalul national,lists_remove,0.8997,0.0013,False
+5411,ro-RO,news,news_query,care sunt principalele stiri la pro tv,social_post,0.8384,0.0037,False
+5413,ro-RO,play,play_music,pune muzică,play_music,1.0,1.0,True
+5414,ro-RO,play,play_music,vei pune muzică,play_music,0.9998,0.9998,True
+5427,ro-RO,datetime,datetime_query,cat este ceasul acum in romania,weather_query,0.9629,0.0046,False
+5433,ro-RO,weather,weather_query,o sa ploua mai tarziu,iot_hue_lightoff,0.7825,0.1994,False
+5439,ro-RO,weather,weather_query,am nevoie de umbrela la noapte,iot_hue_lightoff,0.9697,0.0217,False
+5465,ro-RO,weather,weather_query,îmi pot purta sandalele azi,qa_factoid,0.9969,0.0001,False
+5468,ro-RO,weather,weather_query,ar trebui sa iau ochelari de soare,iot_hue_lightoff,0.6831,0.0813,False
+5524,ro-RO,weather,weather_query,vremea in acest moment,weather_query,0.9979,0.9979,True
+5529,ro-RO,weather,weather_query,cand ar trebui sa ma duc in drumetie,weather_query,0.9374,0.9374,True
+5557,ro-RO,play,play_music,vreau reggae,play_music,0.9727,0.9727,True
+5577,ro-RO,weather,weather_query,o sa am nevoie de jacheta cu acoperire completa daca e prea furtunos in seara asta,iot_hue_lightoff,0.4216,0.0081,False
+5578,ro-RO,weather,weather_query,o sa am nevoie de sosete groase iarna dimineata,weather_query,0.2597,0.2597,True
+5584,ro-RO,iot,iot_hue_lightoff,te rog stinge luminile,iot_hue_lightoff,0.9645,0.9645,True
+5590,ro-RO,weather,weather_query,porneste temperatura,cooking_recipe,0.3598,0.0543,False
+5593,ro-RO,play,play_music,redă smiley toată vara,iot_hue_lightoff,0.5952,0.0036,False
+5619,ro-RO,play,play_music,redă melodia anterioară,play_music,0.9999,0.9999,True
+5627,ro-RO,play,play_music,pune-mi muzică de proconsul,play_music,0.9998,0.9998,True
+5640,ro-RO,datetime,datetime_query,arata data,datetime_query,0.2392,0.2392,True
+5650,ro-RO,weather,weather_query,intreaba de vreme pentru seara de astazi,weather_query,0.9987,0.9987,True
+5658,ro-RO,play,play_music,pune-mi muzică de proconsul,play_music,0.9998,0.9998,True
+5661,ro-RO,weather,weather_query,ar trebui sa iau pelerina de ploaie acum,cooking_recipe,0.5635,0.2258,False
+5671,ro-RO,datetime,datetime_query,ce ora este in cluj napoca,weather_query,0.8853,0.0293,False
+5678,ro-RO,datetime,datetime_query,ce zi a saptamanii este cincisprezece august,qa_factoid,0.9804,0.0009,False
+5683,ro-RO,play,play_music,reda playlistul meu cu piese de petrecere,play_music,0.8727,0.8727,True
+5688,ro-RO,news,news_query,te rog spune mi titlurile stirilor,news_query,0.9973,0.9973,True
+5703,ro-RO,datetime,datetime_query,ceasul acum,qa_factoid,0.9977,0.0001,False
+5707,ro-RO,play,play_music,asculta favoritele mele,cooking_recipe,0.5566,0.0223,False
+5721,ro-RO,weather,weather_query,arata-mi vremea de maine in zona aceasta,weather_query,0.9998,0.9998,True
+5722,ro-RO,weather,weather_query,afisaza prognoza pe sapte zile de saptamana aceasta,weather_query,0.2589,0.2589,True
+5732,ro-RO,weather,weather_query,ar trebui sa imi schimb anvelopele masinii cu cauciucuri de iarna curand,iot_hue_lightoff,0.9898,0.0021,False
+5757,ro-RO,datetime,datetime_query,doua fara un sfert,qa_factoid,1.0,0.0,False
+5758,ro-RO,weather,weather_query,cum e vremea in capitala,weather_query,0.9977,0.9977,True
+5774,ro-RO,datetime,datetime_query,ora actuală în ora europei centrale,weather_query,0.9939,0.0013,False
+5797,ro-RO,weather,weather_query,ar trebui sa port o pelerina de ploaie inainte sa ies afara,weather_query,0.9813,0.9813,True
+5813,ro-RO,play,play_music,reda cantecul vals,qa_factoid,0.8232,0.0038,False
+5820,ro-RO,play,play_music,cerul cu proconsul,transport_query,0.5304,0.0149,False
+5837,ro-RO,weather,weather_query,spune-mi despre vremea de săptămâna aceasta,weather_query,0.9987,0.9987,True
+5871,ro-RO,weather,weather_query,cum e vremea in delta azi,weather_query,0.9978,0.9978,True
+5886,ro-RO,news,news_query,subiecte fierbinti,qa_factoid,0.9994,0.0,False
+5919,ro-RO,news,news_query,care este ultima actualizare despre covid,news_query,0.5257,0.5257,True
+5930,ro-RO,news,news_query,orice stire de ultima ora de la gazeta sporturilor,news_query,0.9986,0.9986,True
+5948,ro-RO,play,play_music,pune o melodie buna din lista mea,play_music,1.0,1.0,True
+5953,ro-RO,weather,weather_query,este orasul mai ieftin sau costisitor de trait in el,qa_factoid,0.8874,0.0918,False
+5955,ro-RO,weather,weather_query,cat de sigur este orasul in ceea ce priveste legea si ordinea,qa_factoid,0.9993,0.0001,False
+5970,ro-RO,play,play_music,vreau să redai cerul pentru mine,weather_query,0.9859,0.0002,False
+5985,ro-RO,news,news_query,arată mi ultimele stiri de la kanal d,news_query,0.9187,0.9187,True
+5996,ro-RO,weather,weather_query,o sa am nevoie de cizmele de zapada in dupa amiaza asta,iot_hue_lightoff,0.3391,0.0323,False
+5997,ro-RO,datetime,datetime_query,cat este ceasul in fusul orar central,weather_query,0.6694,0.0586,False
+6023,ro-RO,weather,weather_query,o sa fie o noapte vascoasa,iot_hue_lightoff,0.706,0.0129,False
+6024,ro-RO,weather,weather_query,ar trebui sa iau un pulover sau o haina astazi,iot_hue_lightoff,0.6934,0.0075,False
+6025,ro-RO,weather,weather_query,o sa am nevoie de protectie solara in aceasta dupa-amiaza,iot_hue_lightoff,0.6935,0.059,False
+6027,ro-RO,play,play_music,pornește piesele favorite,cooking_recipe,0.7304,0.0217,False
+6039,ro-RO,weather,weather_query,o sa fie ploios mâine,qa_factoid,0.9382,0.0001,False
+6041,ro-RO,iot,iot_hue_lightoff,hey olly stinge lumina te rog,iot_hue_lightoff,0.9764,0.9764,True
+6045,ro-RO,play,play_music,adaugă cântecul selectat,play_music,1.0,1.0,True
+6050,ro-RO,weather,weather_query,voi avea nevoie de crema de protectie solara mai tarziu,qa_factoid,0.1328,0.0371,False
+6055,ro-RO,iot,iot_hue_lightoff,am lăsat lumina aprinsă în garaj,iot_hue_lightoff,0.9035,0.9035,True
+6059,ro-RO,play,play_music,redă muzică rap,play_music,0.9989,0.9989,True
+6069,ro-RO,weather,weather_query,o sa fie furtuni azi,iot_hue_lightoff,0.7777,0.0015,False
+6073,ro-RO,iot,iot_hue_lightoff,stinge lumina pe verandă,iot_hue_lightoff,0.9537,0.9537,True
+6074,ro-RO,iot,iot_hue_lightoff,opreşte luminile din dormitor la nouă jumate seara,iot_hue_lightoff,0.9977,0.9977,True
+6077,ro-RO,news,news_query,vreau sa aud cele mai recente stiri internationale de azi,play_podcasts,0.9665,0.0089,False
+6093,ro-RO,weather,weather_query,ar trebui sa deschid trapa,iot_hue_lightoff,0.3973,0.0122,False
+6103,ro-RO,weather,weather_query,hei cum va fi vremea astazi in ploiesti prahova,weather_query,0.9757,0.9757,True
+6116,ro-RO,weather,weather_query,vremea pentru săptămâna asta,weather_query,0.9958,0.9958,True
+6118,ro-RO,datetime,datetime_query,hei ce ora este in sofia bulgaria,weather_query,0.9921,0.0003,False
+6127,ro-RO,weather,weather_query,recomanzi umbrele,qa_factoid,0.6791,0.0011,False
+6129,ro-RO,news,news_query,tine-ma la curent cu stirile din lume,news_query,0.9979,0.9979,True
+6151,ro-RO,weather,weather_query,vreau sa stiu vremea de astăzi,weather_query,0.9999,0.9999,True
+6172,ro-RO,weather,weather_query,sunt ochelarii de soare o alegere buna azi,qa_factoid,0.5104,0.013,False
+6177,ro-RO,weather,weather_query,o sa am nevoie de umbrela azi,iot_hue_lightoff,0.9923,0.0004,False
+6178,ro-RO,weather,weather_query,ar trebui sa port o geacă,qa_factoid,0.9463,0.0006,False
+6194,ro-RO,weather,weather_query,cum e vremea azi,weather_query,0.9968,0.9968,True
+6289,ro-RO,weather,weather_query,cum e vremea azi,weather_query,0.9968,0.9968,True
+6370,ro-RO,calendar,calendar_query,cum arata saptamana urmatoare,iot_hue_lightoff,0.1697,0.0325,False
+6372,ro-RO,news,news_query,stiri bazat pe plante,qa_factoid,0.9594,0.0001,False
+6403,ro-RO,transport,transport_query,cum sa ajungi undeva,qa_factoid,0.9817,0.0112,False
+6410,ro-RO,news,news_query,ce se întâmplă în românia azi,social_post,0.9908,0.0014,False
+6411,ro-RO,weather,weather_query,cum e vremea miercurea viitoare,weather_query,0.9977,0.9977,True
+6539,ro-RO,calendar,calendar_set,marcheaza ziua de azi ca si începutul dietei mele,cooking_recipe,0.5989,0.0378,False
+6542,ro-RO,cooking,cooking_recipe,e branza moale mai buna decat cea tare,cooking_recipe,0.9997,0.9997,True
+6618,ro-RO,news,news_query,spune mi stiri interesante,social_post,0.8868,0.0021,False
+6682,ro-RO,news,news_query,alegeri in sus,email_sendemail,0.9822,0.0,False
+6683,ro-RO,news,news_query,afaceri economice,qa_factoid,0.9989,0.0,False
+6713,ro-RO,calendar,calendar_remove,anulează intalnirea de afaceri de miercuri,weather_query,0.4847,0.1559,False
+6722,ro-RO,calendar,calendar_query,este ceva de care trebuie să îmi aduci aminte,qa_factoid,0.3749,0.0244,False
+6725,ro-RO,calendar,calendar_set,să îmi amintești de programul meu pentru dupa amiaza,cooking_recipe,0.9978,0.0001,False
+6726,ro-RO,calendar,calendar_remove,anulează următoarea întâlnire,calendar_remove,0.9301,0.9301,True
+6729,ro-RO,calendar,calendar_remove,anuleaza mic ul dejun de la casa teodorei,play_music,0.4972,0.0006,False
+6732,ro-RO,calendar,calendar_set,adauga reminder pentru intalnire duminica cu socrii mei,lists_remove,0.5732,0.0185,False
+6744,ro-RO,calendar,calendar_set,pune întâlnirea cu paul pentru mâine la zece dimineața,weather_query,0.95,0.0004,False
+6746,ro-RO,calendar,calendar_set,fixeaza prima saptamana din iunie ca vacanta in calendarul meu,calendar_remove,0.8683,0.1243,False
+6747,ro-RO,calendar,calendar_query,cate memento-uri am,email_sendemail,0.999,0.0,False
+6755,ro-RO,calendar,calendar_remove,curata calendarul meu te rog,calendar_remove,1.0,1.0,True
+6761,ro-RO,calendar,calendar_remove,șterge din calendarul meu întâlnirea de la nouă dimineața,calendar_remove,1.0,1.0,True
+6764,ro-RO,calendar,calendar_set,amintește-mi să spăl fererestrele,lists_remove,0.5205,0.0038,False
+6774,ro-RO,calendar,calendar_set,setează un eveniment pentru vineri,recommendation_events,0.8663,0.0514,False
+6785,ro-RO,calendar,calendar_query,care e urmatorul meu memento,calendar_remove,0.4776,0.0034,False
+6789,ro-RO,calendar,calendar_set,stabilește o întâlnire cu ioana sâmbătă la patru după amiază,calendar_remove,0.4332,0.0101,False
+6798,ro-RO,calendar,calendar_remove,șterge următorul meu eveniment,calendar_remove,0.4937,0.4937,True
+6801,ro-RO,calendar,calendar_query,arată mi întâlnirile din această vineri,recommendation_events,0.8577,0.0041,False
+6806,ro-RO,calendar,calendar_query,arată-mi calendarul cu evenimentele mele din această vineri după amiază,calendar_query,0.5536,0.5536,True
+6815,ro-RO,calendar,calendar_set,amintește-mi de ziua de nastere a mamei cu o saptamana inainte,email_sendemail,0.8557,0.0032,False
+6819,ro-RO,calendar,calendar_set,olly aici este trupa care cântă diseară la ora douăzeci și unu în barul de jazz și eu vreau sa merg,play_music,0.9806,0.0009,False
+6836,ro-RO,calendar,calendar_set,reamintește mi despre întâlnirea de mâine la șase,qa_factoid,0.345,0.0289,False
+6850,ro-RO,calendar,calendar_query,spune-mi programul meu pentru azi,cooking_recipe,0.9838,0.0006,False
+6856,ro-RO,calendar,calendar_set,da-mi o notificare despre întâlnirea de mâine la zece dimineața,email_sendemail,0.9858,0.0001,False
+6860,ro-RO,calendar,calendar_query,sunt evenimente viitoare,iot_hue_lightoff,0.5856,0.0086,False
+6865,ro-RO,calendar,calendar_set,setează o notificare pentru ședința de mâine de la zece,recommendation_events,0.4023,0.2249,False
+6878,ro-RO,calendar,calendar_set,programează o întâlnire cu departamentul de contabilitate la doua treizeci p. m. vineri,recommendation_events,0.4306,0.0276,False
+6891,ro-RO,calendar,calendar_query,sunt emisiunile de dimineață disponibile,play_podcasts,0.9781,0.0001,False
+6892,ro-RO,calendar,calendar_query,poți să îmi dai și mie orarul de la film,calendar_remove,0.9906,0.0026,False
+6897,ro-RO,calendar,calendar_set,reaminteste-mi sa o iau pe elena la cinci seara pe șapte,weather_query,0.5339,0.0019,False
+6901,ro-RO,calendar,calendar_set,amintește mi mâine la zece dimineața de ședință,email_sendemail,0.1368,0.0418,False
+6902,ro-RO,calendar,calendar_set,seteaza un memento pentru luna viitoare sa schimb uleiul,email_sendemail,1.0,0.0,False
+6909,ro-RO,calendar,calendar_query,ce se întâmplă după unu și înainte de trei după amiază,weather_query,0.9836,0.0007,False
+6918,ro-RO,calendar,calendar_remove,șterge evenimente din calendar,calendar_remove,0.9988,0.9988,True
+6923,ro-RO,calendar,calendar_set,seteaza un memento care va printa documentele marți dimineața,calendar_set,0.7263,0.7263,True
+6926,ro-RO,calendar,calendar_query,nu e vineri,iot_hue_lightoff,0.4541,0.0127,False
+6928,ro-RO,calendar,calendar_remove,sterge toate evenimentele,qa_factoid,0.6168,0.0471,False
+6936,ro-RO,calendar,calendar_set,amintește-mi să iau medicamentele la nouă dimineața,calendar_remove,0.5761,0.1603,False
+6937,ro-RO,calendar,calendar_set,setează memento la amiază pentru a lua prânzul cu șeful,calendar_set,0.7362,0.7362,True
+6946,ro-RO,calendar,calendar_query,sunt ceva ședințe pentru miercurea viitoare,social_post,0.3116,0.0058,False
+6958,ro-RO,calendar,calendar_remove,asigura-te ca nu sunt evenimente in calendarul meu,calendar_remove,1.0,1.0,True
+6959,ro-RO,calendar,calendar_set,reamintește-mi despre întâlnirea mea cu o oră înainte de a începe,email_sendemail,0.956,0.0003,False
+6962,ro-RO,calendar,calendar_set,pot sa stiu ce am eu de facut sâmbăta viitoare la șase după amiază,email_sendemail,0.6208,0.001,False
+6964,ro-RO,calendar,calendar_set,poți să îmi amintești de următoarea mea întâlnire cu șeful cu o oră înainte,social_post,0.4619,0.0138,False
+6967,ro-RO,calendar,calendar_query,poti verifica faptele cu privire la aceasta problema,qa_factoid,0.9468,0.0015,False
+6968,ro-RO,calendar,calendar_query,trebuie sa confirm toate întâlnirile pentru azi poti invita persoana,recommendation_events,0.9702,0.0005,False
+6973,ro-RO,calendar,calendar_set,adauga un memento despre conferință pentru mâine in satu mare,email_sendemail,0.4674,0.1001,False
+6974,ro-RO,calendar,calendar_set,am o ceremonie la bucurești mâine adu mi aminte,social_post,0.9898,0.0002,False
+6980,ro-RO,calendar,calendar_query,dă-mi lista de făcut,cooking_recipe,0.9937,0.0001,False
+6992,ro-RO,calendar,calendar_query,arata evenimente viitoare,play_podcasts,0.5901,0.0085,False
+6994,ro-RO,calendar,calendar_set,amintește-mi la,qa_factoid,0.3656,0.0037,False
+6997,ro-RO,calendar,calendar_remove,sterge evenimentul care urmează,play_radio,0.2248,0.1154,False
+7000,ro-RO,calendar,calendar_set,eveniment nou,news_query,0.9992,0.0,False
+7004,ro-RO,calendar,calendar_set,adauga un memento in calendarul meu în fiecare an pe data aceasta,calendar_remove,0.5171,0.4752,False
+7013,ro-RO,calendar,calendar_query,când o să înceapă evenimentul,datetime_query,0.6449,0.0051,False
+7014,ro-RO,calendar,calendar_query,da-mi programul pentru evenimentele de azi,cooking_recipe,0.9603,0.0004,False
+7025,ro-RO,calendar,calendar_remove,șterge anul nou din calendar,calendar_remove,0.9997,0.9997,True
+7026,ro-RO,recommendation,recommendation_events,ce evenimente sunt in orașul meu in această săptămână,news_query,0.9939,0.0004,False
+7039,ro-RO,calendar,calendar_set,programează mi o întâlnire cu simona pentru marțea viitoare la unsprezece dimineața,social_post,0.2974,0.0146,False
+7044,ro-RO,calendar,calendar_set,amintește-mi să încep să mă pregătesc înainte de cinci seara,cooking_recipe,0.9148,0.0371,False
+7046,ro-RO,calendar,calendar_set,adauga sedinta cu parintii pe douazeci si unu la sapte,iot_hue_lightoff,0.2831,0.0264,False
+7055,ro-RO,calendar,calendar_set,porgramează o întalnire cu matt joi la ora unsprezece dimineață,social_post,0.8892,0.0013,False
+7057,ro-RO,calendar,calendar_set,programeaza o intalnire la pranz cu vasile miercuri amiaza,qa_factoid,0.9111,0.0004,False
+7061,ro-RO,calendar,calendar_set,setează o notificare cu douăzeci și patru de ore înainte de întâlnirea mea de vineri cu edi,email_sendemail,0.9949,0.0003,False
+7073,ro-RO,calendar,calendar_set,caută în calendar următorul eveniment și anunță-mă înainte de a avea loc,calendar_set,0.5909,0.5909,True
+7080,ro-RO,calendar,calendar_remove,anulează tot din calendarul meu,calendar_remove,0.9954,0.9954,True
+7087,ro-RO,calendar,calendar_remove,anuleaza întâlnire de mâine din calendarul meu,iot_hue_lightoff,0.7504,0.0578,False
+7098,ro-RO,calendar,calendar_set,adaugă plata mașinii în calendarul meu pe doisprezece,calendar_remove,0.6842,0.0985,False
+7100,ro-RO,calendar,calendar_set,aminteste -mi cu o zi inainte cand e gata masina,email_sendemail,0.9807,0.0003,False
+7111,ro-RO,calendar,calendar_query,poti sa verifii la ce ora am programarea la doctor pe data de treizeci și unu martie,qa_factoid,0.9912,0.0001,False
+7113,ro-RO,calendar,calendar_query,vor fi evenimente în centru în acest weekend,weather_query,0.4582,0.0127,False
+7117,ro-RO,calendar,calendar_remove,scăpați de programarile din data de nouăsprezece din calendarul meu,play_podcasts,0.7205,0.0785,False
+7120,ro-RO,calendar,calendar_query,cum arata programul meu de azi,iot_hue_lightoff,0.4938,0.0046,False
+7122,ro-RO,calendar,calendar_set,poți repeta acest eveniment,recommendation_events,0.7189,0.0168,False
+7140,ro-RO,calendar,calendar_set,seteaza un memento sa ma anunte cu o ora inainte de intalnirea de la pranz,calendar_set,0.5984,0.5984,True
+7141,ro-RO,calendar,calendar_query,este programat acest program,qa_factoid,0.7813,0.0011,False
+7151,ro-RO,calendar,calendar_set,pentru fiecare duminica impara seteaza un memento,calendar_remove,0.9255,0.0427,False
+7152,ro-RO,calendar,calendar_set,setează prânzul în fiecare zi la doisprezece jumătate,cooking_recipe,0.9943,0.0041,False
+7161,ro-RO,calendar,calendar_set,reaminteste acest eveniment in viitor,recommendation_events,0.9649,0.0009,False
+7170,ro-RO,calendar,calendar_set,astazi este ziua de nastere a mamei mele trimite mi o notificare in fiecare an la aceasta data,datetime_query,0.5289,0.0257,False
+7181,ro-RO,calendar,calendar_set,trezeste-ma la sase a. m. joi ca sa am timp pentru intalnire,calendar_remove,0.8903,0.0174,False
+7185,ro-RO,calendar,calendar_query,când este următoarea mea programare la doctorul popescu,datetime_query,0.5161,0.0059,False
+7189,ro-RO,calendar,calendar_query,am ceva planificat,qa_factoid,0.3866,0.0108,False
+7194,ro-RO,calendar,calendar_set,am o întâlnire programată pe mâine seteaz-o,qa_factoid,0.8567,0.0003,False
+7196,ro-RO,calendar,calendar_set,aminteste-mi despre întâlnirea cu alin de pe cincisprezece martie,email_sendemail,0.9958,0.0001,False
+7199,ro-RO,calendar,calendar_set,setează o notificare cu trei două și o oră înainte de examenul final la engleză de săptămâna viitoare,calendar_set,0.9386,0.9386,True
+7209,ro-RO,calendar,calendar_set,poți să îmi amintești marți sa scot gunoiul,iot_hue_lightoff,0.3624,0.0046,False
+7219,ro-RO,calendar,calendar_query,mi-ai pus un memento pentru întâlnirea de mâine,email_sendemail,0.9949,0.0001,False
+7224,ro-RO,calendar,calendar_query,unde este locația în care căsătoria lui toma se va ține,qa_factoid,0.5508,0.0028,False
+7232,ro-RO,calendar,calendar_query,ce evenimente sunt săptămâna viitoare,qa_factoid,0.7828,0.003,False
+7257,ro-RO,calendar,calendar_set,te rog amintește-mi să o sun pe mama intr-o jumătate de oră,calendar_remove,0.2488,0.0084,False
+7258,ro-RO,calendar,calendar_set,reaminteste-mi sa trimit email sefului după o ora,email_sendemail,0.9999,0.0,False
+7262,ro-RO,calendar,calendar_set,crează o notificare memento pentru întâlnirea de mâine,email_sendemail,0.9872,0.0038,False
+7266,ro-RO,calendar,calendar_query,care sunt task-urile mele,cooking_recipe,0.539,0.002,False
+7278,ro-RO,calendar,calendar_set,adumi amite de ziua de naștere a rodicai cu douăzeci și patru de ore înainte,email_sendemail,1.0,0.0,False
+7287,ro-RO,calendar,calendar_set,reamintește de aniversarea mea cu o zi înainte,email_sendemail,0.999,0.0,False
+7289,ro-RO,calendar,calendar_remove,scapa de toate evenimentele cu jeff,lists_remove,0.3499,0.1578,False
+7291,ro-RO,calendar,calendar_set,rezervă o oră de la zece mâine dimineață,calendar_remove,0.5228,0.1001,False
+7292,ro-RO,calendar,calendar_set,menționează în calendarul meu că nu sunt disponibil mâine seară de la patru la șase,calendar_remove,1.0,0.0,False
+7293,ro-RO,calendar,calendar_set,planifica o programare de o oră pentru sâmbătă,calendar_remove,0.6673,0.1838,False
+7294,ro-RO,calendar,calendar_remove,șterge întâlnirea cu george apostol din calendar,calendar_remove,0.9998,0.9998,True
+7295,ro-RO,calendar,calendar_remove,te rog sterge-mi calendarul,calendar_remove,1.0,1.0,True
+7314,ro-RO,calendar,calendar_query,ce e pentru azi,email_query,0.2908,0.0134,False
+7316,ro-RO,calendar,calendar_query,am ceva programari,cooking_recipe,0.8391,0.0003,False
+7319,ro-RO,calendar,calendar_query,ce se intampla azi de la două la patru p.m.,weather_query,0.8756,0.012,False
+7353,ro-RO,email,email_query,te rog tine ma la curent cu vremea de saptamana viitoare in brasov,weather_query,0.9972,0.0001,False
+7355,ro-RO,calendar,calendar_set,amintește -mi să verific tocana la ora șase fix,weather_query,0.5158,0.0111,False
+7380,ro-RO,calendar,calendar_query,te rog arata-mi întâlnirea de azi cu clienții,social_post,0.7221,0.0016,False
+7397,ro-RO,calendar,calendar_query,exista evenimente planificate pentru următoarele trei luni,recommendation_events,0.5329,0.0137,False
+7449,ro-RO,calendar,calendar_set,te rog programează o ședință cu persoana asta,iot_hue_lightoff,0.2001,0.0048,False
+7450,ro-RO,calendar,calendar_set,am nevoie de o intalnire programata cu persoana aceasta,qa_factoid,0.9093,0.0002,False
+7455,ro-RO,calendar,calendar_set,reaminteste despre petrecerea de maine,social_post,0.9641,0.0001,False
+7461,ro-RO,calendar,calendar_set,invită oameni la evenimentul din calendar,recommendation_events,0.6616,0.2004,False
+7463,ro-RO,calendar,calendar_set,anunță grupul meu că data noii întâlniri este mâine,calendar_remove,0.7734,0.0012,False
+7467,ro-RO,calendar,calendar_query,spune-mi la ce oră sunt evenimentele,weather_query,0.9941,0.0001,False
+7477,ro-RO,calendar,calendar_set,setează un memento în fiecare an pe cinci martie pentru a mă ocupa de cadourile aniversare de nuntă,calendar_set,0.9888,0.9888,True
+7496,ro-RO,calendar,calendar_query,am programări azi,cooking_recipe,0.9924,0.0001,False
+7499,ro-RO,calendar,calendar_set,planifica o noua programa pentru ședința de mâine,cooking_recipe,0.5037,0.0315,False
+7500,ro-RO,calendar,calendar_remove,poți șterge următorul eveniment,calendar_remove,0.8588,0.8588,True
+7502,ro-RO,calendar,calendar_query,ce este pe ordinea de zi la întîlnirea de la patru după amiază cu cristian,social_post,0.5468,0.0019,False
+7503,ro-RO,calendar,calendar_query,unde in județul ilfov se afla acea întâlnire vineri la unu după amiază,social_post,0.6936,0.0114,False
+7520,ro-RO,calendar,calendar_set,aminteste-mi în fiecare zi la două după amiază pentru masa de prânz,cooking_recipe,0.9001,0.0185,False
+7524,ro-RO,calendar,calendar_query,cat era dispus marcu sa investeasca in compania mea in intalnirea care s-a tinut azi la cinci si douazeci dupa-amiaza,email_sendemail,0.7402,0.0045,False
+7528,ro-RO,calendar,calendar_set,treisprezece iunie este ziua cu rezultatul alegerilor te rog să o setezi,calendar_set,0.6935,0.6935,True
+7531,ro-RO,calendar,calendar_set,te rog adauga zilele de plată,qa_factoid,1.0,0.0,False
+7539,ro-RO,calendar,calendar_query,am ceva stabilit,iot_hue_lightoff,0.333,0.0123,False
+7542,ro-RO,calendar,calendar_set,te rog să îmi amintești despre asta mâine,calendar_remove,0.3785,0.014,False
+7549,ro-RO,calendar,calendar_set,vreau o întâlnire pâna la ora trei,weather_query,0.9841,0.0001,False
+7556,ro-RO,calendar,calendar_set,seteaza-mi calendarul sa imi aminteasca sa cumpăr alimente în fiecare vineri,calendar_set,0.6533,0.6533,True
+7557,ro-RO,calendar,calendar_set,faceți un memento de locație în calendar,calendar_set,0.824,0.824,True
+7559,ro-RO,calendar,calendar_set,amintește-mi diseară să mă duc la curățătoria chimică la opt p. m.,qa_factoid,0.508,0.0098,False
+7563,ro-RO,calendar,calendar_set,îmi amintește de întâlnire mâine cu o oră înainte,calendar_remove,0.425,0.018,False
+7565,ro-RO,calendar,calendar_set,memento pentru întâlnire,qa_factoid,0.662,0.0038,False
+7567,ro-RO,calendar,calendar_set,zi de nastere,qa_factoid,0.7014,0.0071,False
+7569,ro-RO,calendar,calendar_query,planifică pentru mâine,calendar_set,0.3676,0.0088,False
+7570,ro-RO,calendar,calendar_query,care este planul de azi,qa_factoid,0.3786,0.0137,False
+7583,ro-RO,calendar,calendar_set,eveniment de adăugare a unui prieten in calendarul tau,social_post,0.9982,0.0001,False
+7596,ro-RO,calendar,calendar_set,te rog planifica o întâlnire cu damian in deva la amiază,social_post,0.5593,0.0016,False
+7598,ro-RO,calendar,calendar_set,te rog fixeaza o intalnire pentru a discuta despre terorism cu vlad in următoarea zi disponibilă pentru intalniri,qa_factoid,0.9995,0.0,False
+7606,ro-RO,calendar,calendar_set,întâlnire cu ion mâine la ora trei,iot_hue_lightoff,0.9266,0.001,False
+7609,ro-RO,calendar,calendar_remove,eliminați mementoul întâlnirii pentru marți,calendar_remove,0.5367,0.5367,True
+7613,ro-RO,calendar,calendar_query,care a fost urmatorul eveniment,qa_factoid,0.189,0.0222,False
+7628,ro-RO,calendar,calendar_set,amintește-mi când ajung la bibliotecă să obțin un nou card de bibliotecă,email_sendemail,0.9995,0.0,False
+7654,ro-RO,calendar,calendar_set,marcheaza douăzeci aprilie ca si aniversarea fratelui meu,weather_query,0.689,0.0048,False
+7655,ro-RO,calendar,calendar_set,adaugă un memento pe douăzeci aprilie numit ziua de naștere a fratelui meu,email_sendemail,0.9929,0.0007,False
+7660,ro-RO,calendar,calendar_remove,anulează-mi toate programările după trei după amiază astăzi si spune-mi detalile,calendar_remove,0.8717,0.8717,True
+7662,ro-RO,calendar,calendar_query,poți enumera întâlnirile mele de azi,recommendation_events,0.9962,0.0,False
+7664,ro-RO,calendar,calendar_set,adaugă prânz cu mihai,cooking_recipe,0.8733,0.0028,False
+7666,ro-RO,calendar,calendar_set,noteaza intalnirea mea cu toma de maine la trei,social_post,0.5859,0.0029,False
+7680,ro-RO,calendar,calendar_remove,in calendarul meu sterge toate evenimentele de golf din luna curenta,calendar_remove,1.0,1.0,True
+7686,ro-RO,calendar,calendar_set,includei pe mihai si jean pentru calendarul de sarbatori,calendar_set,0.9272,0.9272,True
+7690,ro-RO,calendar,calendar_query,ce am stabilit în continuare,lists_remove,0.2118,0.0252,False
+7693,ro-RO,calendar,calendar_query,am ceva programat pentru douăzeci și unu,iot_hue_lightoff,0.3797,0.0093,False
+7697,ro-RO,calendar,calendar_set,seteaza un memento pentru asta,calendar_set,0.8577,0.8577,True
+7711,ro-RO,calendar,calendar_set,anuleaza toate intalnirile mele si apelurile de pe doua martie si adauga in calendar ziua de nastere a lui iacob,calendar_set,0.994,0.994,True
+7712,ro-RO,calendar,calendar_set,hei oli anulează toate celelalte întâlniri și apeluri ale mele din data de doi martie pentru că este aniversarea lui petru marcheaz-o ca eveniment în calendarul tău,calendar_remove,0.48,0.0076,False
+7718,ro-RO,calendar,calendar_set,trimite-i invitația domnului ross de vinerea aceasta si blochează-mi calendarul pentru vineri după amiază,calendar_remove,1.0,0.0,False
+7726,ro-RO,calendar,calendar_set,trebuie sa fac ceva in fiecare luni seteaza un reminder pentru asta,calendar_set,0.6614,0.6614,True
+7730,ro-RO,calendar,calendar_set,am nevoie să îmi însemnezi lunea următoare,calendar_remove,0.6903,0.0056,False
+7741,ro-RO,calendar,calendar_remove,eliberează calendarul meu pentru sâmbătă,calendar_remove,0.9975,0.9975,True
+7751,ro-RO,calendar,calendar_set,amintește-mi în fiecare luni să duc gunoiul,calendar_remove,0.2601,0.0277,False
+7762,ro-RO,calendar,calendar_query,ce memento-uri am,email_sendemail,0.9997,0.0,False
+7767,ro-RO,calendar,calendar_set,adauga antrenament pe patru februarie in parcul herastrau la doua dupa-amiaza,calendar_remove,0.9332,0.0289,False
+7768,ro-RO,calendar,calendar_set,te rog să adaugi antrenament pe patru februarie la parcul cișmigiu la două după amiază,calendar_remove,0.9965,0.0001,False
+7774,ro-RO,calendar,calendar_set,adauga cumparaturi la calendarul meu pentru mâine,calendar_set,0.9882,0.9882,True
+7777,ro-RO,calendar,calendar_query,am eu o programare astăzi,qa_factoid,0.9008,0.0001,False
+7778,ro-RO,calendar,calendar_set,reaminteste-mi ce fac eu duminică dupa amiaza,weather_query,0.8679,0.0014,False
+7808,ro-RO,calendar,calendar_set,amintește-mi să o duc pe mama la coafor joi la unsprezece dimineața,weather_query,0.9648,0.001,False
+7817,ro-RO,calendar,calendar_query,este adevărat despre această dată,qa_factoid,0.9934,0.0001,False
+7820,ro-RO,calendar,calendar_remove,șterge toate evenimentele din calendar,calendar_remove,0.9971,0.9971,True
+7836,ro-RO,calendar,calendar_remove,șterge toate evenimentele,lists_remove,0.4679,0.2895,False
+7843,ro-RO,calendar,calendar_set,anunță-mă în două ore că trebuie sa plec la lecțiile de vioară care sunt la ora șaisprezece la atelierul de muzică,calendar_remove,0.9833,0.0007,False
+7844,ro-RO,calendar,calendar_query,ce mementouri am setat,qa_factoid,0.9355,0.0007,False
+7847,ro-RO,calendar,calendar_set,anunta-ma cand înmatriculările se redeschid,qa_factoid,0.1503,0.0316,False
+7851,ro-RO,calendar,calendar_set,am o întâlnire la prânz astăzi,social_post,0.9933,0.0002,False
+7863,ro-RO,calendar,calendar_set,amintește-mi să încep pregătirea cinei în această după amiază la cinci,cooking_recipe,0.9988,0.0001,False
+7870,ro-RO,calendar,calendar_remove,sterge eveniment din calendar,calendar_remove,0.9981,0.9981,True
+7876,ro-RO,news,news_query,ce s a intamplat in ultimele doua luni,social_post,0.6693,0.0378,False
+7878,ro-RO,calendar,calendar_remove,șterge tot din calendarul meu,calendar_remove,0.9986,0.9986,True
+7879,ro-RO,calendar,calendar_query,care sunt următoarele trei evenimente ale mele,recommendation_events,0.3878,0.0259,False
+7889,ro-RO,calendar,calendar_query,la ce oră o să fie meciul de fotbal diseară,weather_query,0.963,0.0003,False
+7890,ro-RO,calendar,calendar_remove,sterge programarea la frizer de azi,cooking_recipe,0.5178,0.0111,False
+7891,ro-RO,calendar,calendar_remove,anulează cina în seara asta,cooking_recipe,0.7364,0.011,False
+7892,ro-RO,calendar,calendar_remove,șterge următorul eveniment de azi,calendar_remove,0.3903,0.3903,True
+7894,ro-RO,calendar,calendar_set,da mi un update despre alegeri dupa o oră,email_sendemail,0.9501,0.0002,False
+7902,ro-RO,calendar,calendar_set,programează o întâlnire cu ion mâine la ora două după-amiaza,iot_hue_lightoff,0.9601,0.0022,False
+7908,ro-RO,calendar,calendar_query,trebuie să fac ceva azi,cooking_recipe,0.9178,0.0033,False
+7912,ro-RO,calendar,calendar_remove,alexa anulează cina cu mihai din calendar,calendar_remove,0.7254,0.7254,True
+7916,ro-RO,calendar,calendar_set,aminteste-mi sa scot gunoiul la șase p. m.,iot_hue_lightoff,0.9951,0.0,False
+7918,ro-RO,calendar,calendar_set,eveniment din calendar invita pe dan negru,calendar_remove,0.8128,0.04,False
+7919,ro-RO,calendar,calendar_set,sedinta noua adauga-i pe cristi si andreea ca participanti,email_sendemail,0.9983,0.0,False
+7922,ro-RO,calendar,calendar_remove,deschide atributiile sterge evenimentele viitoare,lists_remove,0.3283,0.0297,False
+7927,ro-RO,calendar,calendar_query,ce am de făcut săptămâna aceasta,cooking_recipe,0.9068,0.0063,False
+7946,ro-RO,calendar,calendar_query,care sunt urmatoarele concerte in bucurești,play_music,0.7299,0.0013,False
+7953,ro-RO,calendar,calendar_remove,elimina programarea mea cu doctorul meu pentru sambata te rog,lists_remove,0.5553,0.2304,False
+7955,ro-RO,calendar,calendar_set,pune acest eveniment să se repete în calendar,calendar_remove,0.9994,0.0001,False
+7956,ro-RO,calendar,calendar_set,poti face acest eveniment repetitiv,qa_factoid,0.9903,0.0001,False
+7966,ro-RO,calendar,calendar_query,ți-am spus să-mi reamintești ceva,social_post,0.9047,0.0031,False
+7970,ro-RO,calendar,calendar_set,amintește-mi de nuntă la timp pentru a cumpăra un cadou,email_sendemail,0.9975,0.0001,False
+7971,ro-RO,calendar,calendar_set,fixează un memento cu două zile înainte de eveniment,email_sendemail,0.7734,0.0076,False
+7975,ro-RO,calendar,calendar_query,există serviciu de valet la acest eveniment,recommendation_events,0.2485,0.0376,False
+7978,ro-RO,calendar,calendar_query,ce mementouri am programate pentru maine inainte de pranz,cooking_recipe,0.8004,0.0052,False
+7980,ro-RO,calendar,calendar_set,spune mi cand am un eveniment,qa_factoid,0.9563,0.0016,False
+7981,ro-RO,calendar,calendar_set,trimite-mi o notificare inainte de întâlnire,email_sendemail,1.0,0.0,False
+7993,ro-RO,calendar,calendar_remove,sterge toate evenimentele din calendarul meu,calendar_remove,0.8784,0.8784,True
+8001,ro-RO,calendar,calendar_remove,poți șterge tunsul pe care l-am programat pentru vineri,calendar_remove,0.7589,0.7589,True
+8004,ro-RO,calendar,calendar_set,dorina trebuie sa -mi vorbeasca despre divortul nostru poti te rog sa fixezi o întâlnire imediat ce sunt disponibile,qa_factoid,0.39,0.0233,False
+8005,ro-RO,calendar,calendar_set,luni douazeci trebuie să am o conversație cu grigore despre excursia noastră de weekend,social_post,0.813,0.0019,False
+8013,ro-RO,calendar,calendar_query,arată-mi întâlnirea de luna viitoare,social_post,0.6913,0.0027,False
+8029,ro-RO,calendar,calendar_query,ce evenimente urmeaza azi,news_query,0.9903,0.0005,False
+8033,ro-RO,datetime,datetime_query,in ce zi pica pastele,cooking_recipe,0.6338,0.004,False
+8035,ro-RO,calendar,calendar_set,aminteste mi sa schimb uleiul,iot_hue_lightoff,0.9817,0.0,False
+8037,ro-RO,calendar,calendar_set,aminteste-mi sa fac ceva cândva,cooking_recipe,0.9984,0.0001,False
+8042,ro-RO,calendar,calendar_query,cati oameni vor participa la urmatoarea sedinta,qa_factoid,0.9655,0.0002,False
+8043,ro-RO,calendar,calendar_query,la ce oră este programată următoarea mea întalnire,weather_query,0.9951,0.0,False
+8044,ro-RO,calendar,calendar_query,care e programul meu azi,cooking_recipe,0.979,0.0003,False
+8055,ro-RO,calendar,calendar_remove,șterge mi programarea din șapte martie,iot_hue_lightoff,0.2453,0.1367,False
+8056,ro-RO,calendar,calendar_query,am o întâlnire vineri,iot_hue_lightoff,0.7589,0.0043,False
+8058,ro-RO,calendar,calendar_query,am sedinta de vanzari azi,qa_factoid,0.9984,0.0,False
+8073,ro-RO,calendar,calendar_set,fixeaza o intalnire de vanzari pentru miercuri la unsprezece dimineata,qa_factoid,0.4114,0.0101,False
+8079,ro-RO,calendar,calendar_set,pune un memento peste o ora pentru a pune pâinea sa se coace,cooking_recipe,0.8283,0.0056,False
+8084,ro-RO,calendar,calendar_query,care este programul evenimentului,cooking_recipe,0.9177,0.0009,False
+8085,ro-RO,calendar,calendar_set,vreau să stabilesc o întâlnire săptămâna aceasta,calendar_set,0.3826,0.3826,True
+8100,ro-RO,email,email_sendemail,trimite email catre programarile mele pentru reprogramare,email_sendemail,1.0,1.0,True
+8107,ro-RO,calendar,calendar_set,setează eveniment pentru ziua de naștere a lui mihai,recommendation_events,0.546,0.0672,False
+8110,ro-RO,calendar,calendar_set,te rog adaugă supraveghere în calendar,calendar_set,0.9043,0.9043,True
+8116,ro-RO,calendar,calendar_query,intre intai februarie și șaisprezece martie ce intalniri apar,qa_factoid,0.2119,0.0333,False
+8119,ro-RO,calendar,calendar_query,unde se ține petrecerea de ziua mariei,qa_factoid,0.7685,0.0012,False
+8125,ro-RO,calendar,calendar_set,creeaza un eveniment pentru intalnire in calendarul meu,cooking_recipe,0.9182,0.0279,False
+8126,ro-RO,calendar,calendar_set,programeaza un eveniment întâlnire in calendarul meu,play_podcasts,0.4105,0.0497,False
+8129,ro-RO,calendar,calendar_query,ce mementouri mai am,social_post,0.9018,0.0019,False
+8140,ro-RO,calendar,calendar_set,pune un memento pentru data de treisprezece cum ca eu am pranz cu andrei,calendar_remove,0.4353,0.0676,False
+8148,ro-RO,calendar,calendar_query,mi-am lasat orice fel de mementouri,lists_remove,0.9628,0.0017,False
+8150,ro-RO,calendar,calendar_query,am vreun memento pentru petrecerea pentru ziua onomastica,cooking_recipe,0.2405,0.0354,False
+8165,ro-RO,calendar,calendar_query,doisprezece jumatate p. m. ai deja o sedinta in zece minute,qa_factoid,0.9937,0.0,False
+8182,ro-RO,calendar,calendar_remove,poți șterge programarea la dentist,qa_factoid,0.381,0.0826,False
+8188,ro-RO,calendar,calendar_query,in ce data suntem astazi,qa_factoid,0.8157,0.0039,False
+8204,ro-RO,calendar,calendar_set,te rog adu-mi aminte sa merg la poștă,transport_query,0.9872,0.0006,False
+8206,ro-RO,calendar,calendar_set,nu ma lasa sa uit sa-i cumpar un cadou surorii mele,iot_hue_lightoff,0.9096,0.003,False
+8230,ro-RO,calendar,calendar_query,cat timp va tine intalnirea de pranz de marti,weather_query,0.9843,0.0003,False
+8241,ro-RO,calendar,calendar_remove,șterge tot din calendarul meu pentru restul anului,calendar_remove,0.9995,0.9995,True
+8245,ro-RO,calendar,calendar_set,am nevoie sa primesc notificari despre serviciile bisericesti duminica la unsprezece a. m.,email_sendemail,1.0,0.0,False
+8248,ro-RO,calendar,calendar_set,adauga cina de mâine in calendar,social_post,0.984,0.0042,False
+8251,ro-RO,calendar,calendar_set,am nevoia ca masa de prânz de săptămâna viitoare sa fie pusa in calendar,calendar_remove,0.9999,0.0,False
+8260,ro-RO,calendar,calendar_set,te rog anunta-ma cu o zi înainte de ziua de naștere al lui andrei,email_sendemail,0.7829,0.0002,False
+8261,ro-RO,calendar,calendar_set,trimite-mi o alerta cu o oră înainte de urmatoarea mea programare,iot_hue_lightoff,0.6949,0.0098,False
+8269,ro-RO,calendar,calendar_set,memento treizeci de minute pentru întâlnirea de marți,calendar_remove,0.518,0.0167,False
+8276,ro-RO,calendar,calendar_remove,șterge următoarea mea programare te rog,play_radio,0.2553,0.1041,False
+8280,ro-RO,calendar,calendar_set,trebuie să setez un memento pe cincisprezece martie,calendar_set,0.9919,0.9919,True
+8284,ro-RO,calendar,calendar_remove,sterge ziua de naștere din calendar,calendar_remove,0.9387,0.9387,True
+8289,ro-RO,calendar,calendar_set,setează un memento pentru întâlnirea de la facultate de azi la patru,recommendation_events,0.4442,0.3191,False
+8290,ro-RO,calendar,calendar_set,reminder despre întâlnirea managerilor de săptămânile viitoare de marți,email_sendemail,0.4438,0.0123,False
+8294,ro-RO,calendar,calendar_set,adaugă în calendar și repetă,calendar_set,0.9758,0.9758,True
+8300,ro-RO,calendar,calendar_set,salvează eveniment de la cinci până la șase după-amiază în optsprezece martie,calendar_remove,0.8063,0.0048,False
+8302,ro-RO,calendar,calendar_remove,elimina intalnirea de lunea viitoare,calendar_remove,0.8261,0.8261,True
+8308,ro-RO,news,news_query,ieri la amiază in piața unirii pentru ce era protestul,social_post,0.9957,0.0002,False
+8336,ro-RO,calendar,calendar_query,când e gustarea mea cu maia,cooking_recipe,0.9973,0.0001,False
+8343,ro-RO,datetime,datetime_query,este miercuri,weather_query,0.9983,0.0001,False
+8345,ro-RO,calendar,calendar_set,anunta cand va avea loc sedinta,qa_factoid,0.9989,0.0,False
+8347,ro-RO,calendar,calendar_query,ce se petrece pe patru decembrie,weather_query,0.6739,0.005,False
+8358,ro-RO,calendar,calendar_set,creeaza un eveniment repetat,cooking_recipe,0.6515,0.0028,False
+8366,ro-RO,calendar,calendar_set,fa pe optsprezece martie o programare repetitiva pentru ziua de naștere a elenei,play_music,0.6496,0.0083,False
+8387,ro-RO,calendar,calendar_set,creeaza un reminder pentru rufe la opt seara,lists_remove,0.4292,0.0252,False
+8388,ro-RO,calendar,calendar_set,vreau să spăl rufele la opt seara creează memento,lists_remove,0.296,0.0263,False
+8390,ro-RO,calendar,calendar_set,adu-mi aminte de întâlnirea mea în desfășurare,email_sendemail,0.6929,0.0105,False
+8394,ro-RO,calendar,calendar_set,setează un memento în fiecare zi la prânz să iau medicamentele,calendar_set,0.8601,0.8601,True
+8404,ro-RO,calendar,calendar_query,vreau sa stiu mai multe despre acest eveniment,recommendation_events,0.4655,0.0095,False
+8409,ro-RO,calendar,calendar_remove,șterge cina mea de mâine,social_post,0.4436,0.0073,False
+8410,ro-RO,calendar,calendar_remove,șterge evenimentul meu de cina pentru luni,cooking_recipe,0.5825,0.4021,False
+8413,ro-RO,calendar,calendar_set,te rog alerteaza-ma,qa_factoid,0.8346,0.0032,False
+8414,ro-RO,calendar,calendar_set,să îmi amintești să merg la cină cu david vineri la cinci după amiază,cooking_recipe,0.9862,0.0003,False
+8415,ro-RO,calendar,calendar_set,adauga o ședință la birou cu matei pentru trei p. m. marți,cooking_recipe,0.7237,0.0073,False
+8426,ro-RO,calendar,calendar_query,spune-mi evenimentele curente de ieri până azi dimineață,news_query,0.9797,0.001,False
+8430,ro-RO,calendar,calendar_remove,anulează toate programările mele,iot_hue_lightoff,0.7267,0.0876,False
+8431,ro-RO,calendar,calendar_remove,sterge toate evenimentele mele planificate,lists_remove,0.7145,0.0631,False
+8436,ro-RO,calendar,calendar_set,te rog seteaza întâlnirea de la prânz la doisprezece după amiază în fiecare marți in martie,calendar_set,0.9416,0.9416,True
+8442,ro-RO,calendar,calendar_set,adaugă acest eveniment în calendarul meu,calendar_set,0.4461,0.4461,True
+8449,ro-RO,calendar,calendar_set,seteaza un memento pentru ziua de nastere a fiicei mele,calendar_set,0.9228,0.9228,True
+8453,ro-RO,calendar,calendar_set,te rog pune eveniment în calendarul meu și marcheazăl ca eveniment repetitiv,calendar_set,0.8945,0.8945,True
+8460,ro-RO,calendar,calendar_query,arată mi evenimentele mele,news_query,0.966,0.0009,False
+8461,ro-RO,calendar,calendar_query,care sunt planurile mele pentru luna mai,lists_query,0.4468,0.0175,False
+8466,ro-RO,calendar,calendar_set,am o întâlnire miercuri la ora nouă dimineața trimite-mi un memento,email_sendemail,0.5235,0.1402,False
+8469,ro-RO,calendar,calendar_query,ce este planificat in calendarul meu pentru astazi,calendar_set,0.9603,0.0216,False
+8474,ro-RO,calendar,calendar_set,adaugă petrecerea aniversară a irinei pentru mâine la ora două după-amiază la numărul o sută douăzeci și trei în calendarul meu,calendar_set,0.7188,0.7188,True
+8494,ro-RO,calendar,calendar_query,cum arată programul meu de azi,iot_hue_lightoff,0.9758,0.0008,False
+8496,ro-RO,calendar,calendar_query,spune întâlnirile de mâine dimineață,play_radio,0.6107,0.0028,False
+8498,ro-RO,calendar,calendar_query,să trecem prin toate memento-urile,lists_remove,0.794,0.0072,False
+8516,ro-RO,calendar,calendar_remove,șterge elementul din calendar,calendar_remove,1.0,1.0,True
+8520,ro-RO,calendar,calendar_set,adaugă un eveniment in aplicația calendar,calendar_set,0.9527,0.9527,True
+8525,ro-RO,calendar,calendar_query,memento pentru întâlnire de la trei la cinci,qa_factoid,0.6583,0.0037,False
+8535,ro-RO,calendar,calendar_set,amintește-mi te rog de programarea la dentist pe care o am în două ore,qa_factoid,0.6935,0.0118,False
+8539,ro-RO,calendar,calendar_set,reamintește,email_sendemail,0.4473,0.0032,False
+8541,ro-RO,calendar,calendar_set,amintește mi te rog,email_sendemail,0.2675,0.0301,False
+8553,ro-RO,calendar,calendar_set,adaugă o întâlnire cu dan în calendarul meu pentru nouă dimineața,calendar_set,0.9361,0.9361,True
+8559,ro-RO,calendar,calendar_query,am ceva programat pentru azi,iot_hue_lightoff,0.2904,0.0127,False
+8562,ro-RO,calendar,calendar_remove,sterge intalnirea mea de la doua dupa-amiaza de azi,social_post,0.4005,0.0288,False
+8568,ro-RO,calendar,calendar_set,trimite o invitatie catre ioana și andra cu faptul ca avem o gustare la unsprezece dimineața marți,cooking_recipe,0.9794,0.0004,False
+8570,ro-RO,calendar,calendar_set,marchează ca sunt ocupată pentru un eveniment mâine la două după amiază,calendar_remove,0.2883,0.0471,False
+8579,ro-RO,calendar,calendar_query,ce informații ar trebui să știu pentru întâlnirile mele de azi,recommendation_events,0.6022,0.0104,False
+8585,ro-RO,calendar,calendar_set,amintește-mi că am o petrecere aniversară pe treizeci,calendar_remove,0.3978,0.1406,False
+8598,ro-RO,calendar,calendar_set,aminteste-mi sa il iau pe alex de la aeroport la șase p. m.,iot_hue_lightoff,0.5531,0.011,False
+8618,ro-RO,calendar,calendar_set,amintește-mi să ud plantele în fiecare marți joi și sâmbătă,cooking_recipe,0.987,0.0005,False
+8631,ro-RO,calendar,calendar_remove,sterge aia din calendarul meu,qa_factoid,0.5236,0.4727,False
+8635,ro-RO,calendar,calendar_set,poți să îmi reamintești să comand curcanul cu trei zile înainte de ziua recunoștinței,email_sendemail,0.922,0.0005,False
+8640,ro-RO,calendar,calendar_set,vreau sa fac o notatie in calendarul meu pentru evenimentul mâine la biblioteca,calendar_set,0.6153,0.6153,True
+8642,ro-RO,calendar,calendar_set,adauga conferinta la patru după-amiaza la notificările mele pentru azi,calendar_remove,0.2866,0.0293,False
+8651,ro-RO,calendar,calendar_set,anunță-mă despre eveniment în calendarul meu,calendar_remove,0.4636,0.1705,False
+8653,ro-RO,calendar,calendar_set,reamintește-mi de eveniment în calendarul meu,recommendation_events,0.6001,0.0791,False
+8666,ro-RO,calendar,calendar_remove,sterge toate evenimentele din calendarul meu,calendar_remove,0.8784,0.8784,True
+8667,ro-RO,calendar,calendar_query,cate intalniri am avut in ultimele trei luni cu domnul radu,qa_factoid,0.9808,0.0001,False
+8670,ro-RO,calendar,calendar_remove,șterge evenimente din calendar,calendar_remove,0.9988,0.9988,True
+8672,ro-RO,calendar,calendar_query,unde e concertul iris,play_music,0.9616,0.0002,False
+8674,ro-RO,calendar,calendar_query,unde este întâlnirea mea de la nouă dimineața,weather_query,0.892,0.0061,False
+8679,ro-RO,calendar,calendar_query,astăzi este dragobetele,qa_factoid,0.9713,0.0011,False
+8681,ro-RO,calendar,calendar_query,este aniversarea cuiva,email_sendemail,0.9973,0.0,False
+8694,ro-RO,calendar,calendar_set,acest eveniment ii include pe andrei si eliza,qa_factoid,0.9388,0.0003,False
+8730,ro-RO,calendar,calendar_set,te rog să setezi un memento în calendarul meu pentru întâlnirea mea din douăzeci și cinci martie,calendar_set,0.9999,0.9999,True
+8732,ro-RO,calendar,calendar_remove,sterge toate datele,calendar_remove,0.7441,0.7441,True
+8762,ro-RO,calendar,calendar_query,spune-mi programul meu pentru după amiaza aceasta,cooking_recipe,0.9954,0.0001,False
+8765,ro-RO,calendar,calendar_set,pune-mi cina la homarul roșu în calendar pentru azi la nouă,calendar_remove,0.975,0.0025,False
+8766,ro-RO,calendar,calendar_query,am eu o întâlnire sâmbătă douăzeci și cinci martie,qa_factoid,0.3382,0.0237,False
+8767,ro-RO,calendar,calendar_query,este ziua lui vasilica pe doisprezece aprilie,weather_query,0.9988,0.0001,False
+8769,ro-RO,calendar,calendar_remove,șterge evenimentul următor,play_podcasts,0.3695,0.1398,False
+8771,ro-RO,calendar,calendar_remove,sterge calatoria de cumparaturi pe care eu o am planificata pe douăzeci şi trei de martie,calendar_remove,0.5806,0.5806,True
+8774,ro-RO,calendar,calendar_query,este programul meu pe sapte iulie complet liber,calendar_remove,0.753,0.0023,False
+8781,ro-RO,calendar,calendar_query,sunt libera la patru dupa-amiaza,weather_query,0.844,0.0012,False
+8782,ro-RO,calendar,calendar_query,am o întâlnire în după amiaza aceasta,social_post,0.8808,0.0008,False
+8791,ro-RO,calendar,calendar_query,mai multa informatie despre acest eveniment,recommendation_events,0.5686,0.0058,False
+8795,ro-RO,calendar,calendar_query,arata-mi momento-urile in asteptare,play_podcasts,0.5088,0.0109,False
+8822,ro-RO,recommendation,recommendation_events,informații despre evenimente viitoare,news_query,0.7915,0.0451,False
+8824,ro-RO,calendar,calendar_query,ce aveai programat in data de nouăsprezece la ora două după amiază,cooking_recipe,0.5264,0.0052,False
+8825,ro-RO,calendar,calendar_set,trimite reminder cu întâlnirea mea cu vasile vinerea viitoare,email_sendemail,0.8684,0.0033,False
+8828,ro-RO,calendar,calendar_query,eveniment în calendar,calendar_remove,0.795,0.1371,False
+8846,ro-RO,calendar,calendar_query,am ceva programat pe patru iulie anul acesta,datetime_query,0.6431,0.0022,False
+8853,ro-RO,calendar,calendar_remove,sterge urmatoarea actiune,qa_factoid,0.9748,0.0004,False
+8856,ro-RO,calendar,calendar_remove,anulează toate evenimentele din calendar,calendar_remove,0.9882,0.9882,True
+8857,ro-RO,calendar,calendar_set,reamintește de viitoarea întâlnire cu antonia,qa_factoid,0.5038,0.0009,False
+8868,ro-RO,calendar,calendar_set,amintește-mi să sun pe mama în fiecare marți la zece dimineața,play_radio,0.3421,0.0248,False
+8880,ro-RO,calendar,calendar_set,setează un memento pentru întâlnirea de mâine de la nouă dimineața,calendar_set,0.9923,0.9923,True
+8888,ro-RO,calendar,calendar_remove,sterge-l,qa_factoid,0.8381,0.0059,False
+8900,ro-RO,calendar,calendar_set,setează memento repetat pentru fiecare duminică,calendar_set,0.9129,0.9129,True
+8904,ro-RO,calendar,calendar_query,informații despre evenimentele recente,news_query,0.9922,0.0004,False
+8906,ro-RO,calendar,calendar_set,setează un eveniment de întâlnire cu alții în calendar,calendar_set,0.9902,0.9902,True
+8907,ro-RO,calendar,calendar_set,mentioneaza evenimentul în calendar cu alții,recommendation_events,0.4697,0.0367,False
+8912,ro-RO,calendar,calendar_query,da-mi evenimentele de azi din calendar de după șase p. m.,calendar_query,0.3857,0.3857,True
+8914,ro-RO,calendar,calendar_query,la ce ora este programarea mea pe patru aprilie,datetime_query,0.6535,0.0023,False
+8916,ro-RO,calendar,calendar_query,care este programul meu de azi,cooking_recipe,0.9952,0.0002,False
+8925,ro-RO,calendar,calendar_remove,șterge toate evenimentele din calendarul meu,calendar_remove,0.9807,0.9807,True
+8939,ro-RO,calendar,calendar_set,baby showerul fiicei andrei,social_post,0.5455,0.0082,False
+8948,ro-RO,calendar,calendar_set,adaugă un eveniment pentru întâlnirea cu cristian,recommendation_events,0.9256,0.0023,False
+8949,ro-RO,calendar,calendar_remove,te rog sterge mementoul,qa_factoid,0.9921,0.0002,False
+8958,ro-RO,calendar,calendar_query,la ce ora am întâlnire,qa_factoid,0.8928,0.001,False
+8960,ro-RO,calendar,calendar_set,vreau să creez o alertă seara pentru întâlnirea care urmează,calendar_set,0.2929,0.2929,True
+8967,ro-RO,calendar,calendar_set,aminteste mi cu doua zile inainte de ziua de nastere a sotiei,calendar_remove,0.4817,0.0015,False
+8968,ro-RO,calendar,calendar_set,spune-mi ceva sa imi reamintesc săptămâna aceasta,cooking_recipe,0.1302,0.0298,False
+8975,ro-RO,calendar,calendar_query,ce întâlniri sunt programate azi,social_post,0.9441,0.0004,False
+8977,ro-RO,calendar,calendar_set,creeaza un memento pentru a plati facturile in asteptare,qa_factoid,0.3238,0.173,False
+8978,ro-RO,calendar,calendar_set,doar anunță-ma de întâlnirile importante cu șeful meu pe parcursul săptămânii,social_post,0.9091,0.0036,False
+8985,ro-RO,calendar,calendar_remove,o. k. google șterge ziua de naștere a lui eric din calendar,calendar_remove,1.0,1.0,True
+8990,ro-RO,calendar,calendar_set,fa eveniment,iot_hue_lightoff,0.1871,0.0408,False
+8992,ro-RO,calendar,calendar_set,arata intalnirile,qa_factoid,0.5514,0.0055,False
+9009,ro-RO,calendar,calendar_remove,sterge evenimentul aniversar din calendarul meu,calendar_remove,0.9917,0.9917,True
+9011,ro-RO,calendar,calendar_query,evenimentul de craciun de pe data de paisprezece ale lunii acesteia este real,qa_factoid,0.9767,0.001,False
+9014,ro-RO,calendar,calendar_set,te rog seteaza o notificare pe douăzeci și trei octombrie despre întâlnirea mea cu colegul,email_sendemail,0.9998,0.0,False
+9015,ro-RO,calendar,calendar_remove,sterge- mi calendarul de toate evenimentele,calendar_remove,0.962,0.962,True
+9019,ro-RO,calendar,calendar_query,intalniri din douăzeci până in douăzeci și cinci iunie,qa_factoid,0.1907,0.0342,False
+9030,ro-RO,calendar,calendar_remove,elimină din calendar programarea la doctor de azi,calendar_remove,0.9998,0.9998,True
+9035,ro-RO,calendar,calendar_query,memento căsătoria lui cristi,social_post,0.9995,0.0,False
+9043,ro-RO,calendar,calendar_set,evenimente viitoare in calendar,calendar_set,0.6478,0.6478,True
+9053,ro-RO,calendar,calendar_set,setează un memento de întâlnire cu mona pentru marți,calendar_set,0.9847,0.9847,True
+9054,ro-RO,calendar,calendar_set,memento eveniment mona marți,news_query,0.7885,0.0046,False
+9059,ro-RO,calendar,calendar_set,anunta-ma la ora evenimentului,weather_query,0.7154,0.0013,False
+9061,ro-RO,calendar,calendar_query,ce informații am in memento-uri,lists_remove,0.2277,0.0356,False
+9062,ro-RO,calendar,calendar_set,poti adauga ziua lui laur pe douazeci si doi iunie,calendar_set,0.7157,0.7157,True
+9074,ro-RO,calendar,calendar_remove,te rog elimină acel eveniment,qa_factoid,0.8394,0.1313,False
+9088,ro-RO,calendar,calendar_remove,sterge totul din calendarul meu,calendar_remove,0.999,0.999,True
+9095,ro-RO,calendar,calendar_remove,șterge cina de diseară cu silvia,cooking_recipe,0.6749,0.1454,False
+9103,ro-RO,calendar,calendar_query,este vreo intalnire în această după-amiază in calendarul meu,calendar_remove,0.9807,0.0049,False
+9107,ro-RO,calendar,calendar_query,la ce oră începe concertul lui ștefan bănică pe trei iunie,weather_query,0.988,0.0,False
+9110,ro-RO,calendar,calendar_set,expoziție două mii șaptesprezece în douăzeci și cinci martie fă o notă despre asta în data corespunzătoare,qa_factoid,0.1385,0.0331,False
+9112,ro-RO,calendar,calendar_set,adaugă asta în calendarul meu,calendar_set,0.9845,0.9845,True
+9114,ro-RO,calendar,calendar_set,creeaza un memento repetitiv pentru acest eveniment din calendar,calendar_set,0.5251,0.5251,True
+9116,ro-RO,calendar,calendar_query,poti sa imi replanifici întâlnirea,qa_factoid,0.9914,0.0002,False
+9121,ro-RO,calendar,calendar_query,ce zile am rezervate,qa_factoid,0.9127,0.002,False
+9124,ro-RO,calendar,calendar_set,arata-mi evenimentele din calendarul meu de servici pentru saptamana viitoare,news_query,0.9748,0.0056,False
+9137,ro-RO,calendar,calendar_query,la ce ora este inchis restaurantul românesc intre prânz si cina,weather_query,0.9987,0.0,False
+9138,ro-RO,qa,qa_factoid,cand incepe oficial finala campionatului,qa_factoid,0.9998,0.9998,True
+9149,ro-RO,calendar,calendar_query,la ce ora e programata sa inceapa cina de gala,calendar_set,0.5531,0.1427,False
+9153,ro-RO,calendar,calendar_set,adaugă cina cu maria în calendarul meu de sâmbătă,calendar_set,0.6448,0.6448,True
+9155,ro-RO,calendar,calendar_set,vineri te rog pune programarea la stomatolog la trei,recommendation_events,0.3903,0.0139,False
+9156,ro-RO,calendar,calendar_set,reaminteste,datetime_query,0.448,0.0138,False
+9175,ro-RO,calendar,calendar_query,a fost calendarul meu actualizat în ultimele zece minute,calendar_remove,1.0,0.0,False
+9182,ro-RO,calendar,calendar_remove,anulează-mi planurile să merg după părinți la aeroport,calendar_remove,0.7494,0.7494,True
+9187,ro-RO,calendar,calendar_set,cerceteaza clientii care vor participa la sedinta,qa_factoid,0.9417,0.0005,False
+9193,ro-RO,calendar,calendar_set,te rog setează această dată să se repete,datetime_query,0.8383,0.1554,False
+9194,ro-RO,calendar,calendar_remove,te rog șterge acest eveniment de pe calendarul meu,calendar_remove,0.9999,0.9999,True
+9197,ro-RO,calendar,calendar_query,ce am planificat pentru săptămâna aceasta,calendar_set,0.4436,0.0411,False
+9198,ro-RO,calendar,calendar_query,verifică mementourile mele,iot_hue_lightoff,0.1547,0.0241,False
+9202,ro-RO,play,play_radio,redă statia radio a mea,play_radio,1.0,1.0,True
+9204,ro-RO,play,play_radio,porneşte radio digi f. m.,play_radio,0.8708,0.8708,True
+9212,ro-RO,play,play_radio,cineva să pună radio-ul,play_radio,0.9997,0.9997,True
+9216,ro-RO,play,play_radio,reda postul meu,social_post,0.9895,0.0005,False
+9225,ro-RO,play,play_radio,poți să pornești radioul,play_radio,1.0,1.0,True
+9233,ro-RO,play,play_radio,deschide pandora,qa_factoid,0.9889,0.0008,False
+9236,ro-RO,play,play_radio,dă pe canalul digi f. m.,play_radio,0.5524,0.5524,True
+9237,ro-RO,play,play_radio,pornește radioul pe nouăzeci și șase virgulă șase,play_radio,1.0,1.0,True
+9250,ro-RO,play,play_radio,vreau să ascult radio,play_radio,1.0,1.0,True
+9254,ro-RO,play,play_radio,te rog reda radioul noua sute treizeci si opt fm,play_radio,1.0,1.0,True
+9263,ro-RO,play,play_radio,deschide aplicația radio,play_radio,1.0,1.0,True
+9269,ro-RO,play,play_radio,deschide kiss f. m.,social_post,0.5776,0.04,False
+9270,ro-RO,play,play_radio,doar redă digi f. m.,iot_hue_lightoff,0.8801,0.0045,False
+9275,ro-RO,play,play_radio,doar kiss f. m. trebuie să se redea la radio,play_radio,0.9998,0.9998,True
+9284,ro-RO,play,play_radio,pune f. m.,qa_factoid,0.7464,0.0087,False
+9291,ro-RO,play,play_radio,pune pe,qa_factoid,0.9363,0.0054,False
+9301,ro-RO,play,play_radio,redă radio f. m.,play_radio,0.9973,0.9973,True
+9303,ro-RO,play,play_radio,redă europa f. m.,iot_hue_lightoff,0.9498,0.0026,False
+9305,ro-RO,play,play_radio,dă pe classic f. m.,play_radio,0.7189,0.7189,True
+9316,ro-RO,play,play_radio,pune kiss f. m. pentru mine,play_music,0.9141,0.0124,False
+9317,ro-RO,play,play_radio,pornește radio acum,play_radio,1.0,1.0,True
+9321,ro-RO,play,play_radio,fă radioul să pornească acum,play_radio,1.0,1.0,True
+9323,ro-RO,play,play_radio,deschide pandora,qa_factoid,0.9889,0.0008,False
+9326,ro-RO,play,play_radio,te rog reda europa f. m. chiar acum,qa_factoid,0.5232,0.0122,False
+9327,ro-RO,play,play_radio,scanează te rog butonul am de la radio chiar acum,play_radio,1.0,1.0,True
+9330,ro-RO,play,play_radio,redă,iot_hue_lightoff,0.9888,0.0004,False
+9341,ro-RO,play,play_radio,alexa schimbă postul de radio,social_post,0.967,0.0326,False
+9352,ro-RO,play,play_radio,porneşte radioul te rog,play_radio,1.0,1.0,True
+9353,ro-RO,play,play_radio,pornește niște muzică la radio,play_music,1.0,0.0,False
+9358,ro-RO,play,play_radio,pornește canalul radio opt sute optzeci și nouă,play_radio,1.0,1.0,True
+9361,ro-RO,play,play_radio,ascultă radio,play_radio,1.0,1.0,True
+9362,ro-RO,play,play_radio,canale radio,play_radio,1.0,1.0,True
+9363,ro-RO,play,play_radio,hai să redăm hituri la radio,play_music,0.9977,0.0023,False
+9364,ro-RO,play,play_radio,hai să punemi niște hituri,play_music,0.9963,0.0001,False
+9380,ro-RO,play,play_radio,vreau să mă duc la radio pe europa f. m.,play_radio,1.0,1.0,True
+9384,ro-RO,play,play_radio,reda postul de radio digi f. m.,social_post,0.9966,0.0017,False
+9394,ro-RO,play,play_radio,salut olly porneste radio,play_radio,1.0,1.0,True
+9402,ro-RO,play,play_radio,redă radio zu,play_radio,0.993,0.993,True
+9406,ro-RO,play,play_radio,porneste europa f. m.,social_post,0.9993,0.0,False
+9408,ro-RO,play,play_radio,pornește radio,play_radio,1.0,1.0,True
+9426,ro-RO,play,play_radio,vreau să ascult un post care cântă r. and b.,social_post,0.9985,0.0,False
+9438,ro-RO,play,play_radio,poți să îmi redai o melodie rap la radio,play_music,0.5655,0.4331,False
+9457,ro-RO,play,play_music,pune melodia nu știi tu să fii bărbat,play_music,1.0,1.0,True
+9460,ro-RO,play,play_music,redă hip hop din anii nouăzeci,play_music,0.9908,0.9908,True
+9471,ro-RO,play,play_radio,pornește un canal de muzică country,play_music,0.997,0.0,False
+9494,ro-RO,play,play_radio,poţi te rog să pui postul f. m. care are melodii pop,social_post,0.9152,0.0003,False
+9506,ro-RO,play,play_radio,olly sa auzim radio guerrilla nouăzeci și patru virgulă opt,play_radio,1.0,1.0,True
+9507,ro-RO,play,play_radio,te rog caută stația radio care acum redă horia brenciu,play_radio,0.9999,0.9999,True
+9519,ro-RO,play,play_radio,redă orice canal f. m. pop,iot_hue_lightoff,0.3453,0.0899,False
+9520,ro-RO,play,play_radio,pune ultima emisiune de radio doctor who,play_radio,0.9945,0.9945,True
+9524,ro-RO,play,play_radio,redă programul europa f. m.,qa_factoid,0.4049,0.1479,False
+9528,ro-RO,play,play_radio,redă kiss f. m. în boxe,iot_hue_lightoff,0.9627,0.0024,False
+9541,ro-RO,play,play_radio,redă la radio melodia vals,play_radio,0.9999,0.9999,True
+9542,ro-RO,play,play_radio,lasama sa ascult ultimul program de stiri la radio,play_radio,0.9997,0.9997,True
+9545,ro-RO,play,play_radio,vreau să ascult emisiunea lui horia brenciu,play_podcasts,1.0,0.0,False
+9554,ro-RO,play,play_radio,pune muzică de dragoste pe kiss f. m.,play_music,1.0,0.0,False
+9561,ro-RO,play,play_radio,pune matinalii la radio,play_radio,0.9983,0.9983,True
+9562,ro-RO,play,play_radio,poți te rog rula acest program pentru mine,iot_hue_lightoff,0.9389,0.0131,False
+9565,ro-RO,play,play_radio,pune radio cu melodii non-stop,play_radio,0.9984,0.9984,True
+9568,ro-RO,play,play_radio,pune seriile de concerte live de loredana groza,recommendation_events,0.9422,0.0001,False
+9569,ro-RO,play,play_radio,ok google pune kiss f. m.,social_post,0.9932,0.0002,False
+9577,ro-RO,play,play_radio,schimbă postul pe optzeci doi punct patru,social_post,0.976,0.0004,False
+9591,ro-RO,play,play_radio,redă europa f. m.,iot_hue_lightoff,0.9498,0.0026,False
+9592,ro-RO,play,play_podcasts,cauta podcasturi care discuta problemele barbatilor,play_podcasts,1.0,1.0,True
+9594,ro-RO,play,play_radio,cântece kiss f. m.,social_post,0.8928,0.0051,False
+9601,ro-RO,play,play_radio,pune country radio,play_radio,1.0,1.0,True
+9617,ro-RO,play,play_radio,reda emisiunea de dimineata aceasta de la o suta unu punct noua,play_podcasts,0.5464,0.0201,False
+9619,ro-RO,play,play_radio,pune prairie home companion la radio-ul mașinii,play_radio,0.9998,0.9998,True
+9620,ro-RO,play,play_radio,pot să am la radio în dormitor matinalii,play_radio,1.0,1.0,True
+9629,ro-RO,play,play_radio,poti sa ma ajuti sa ascult radio,play_radio,1.0,1.0,True
+9630,ro-RO,play,play_radio,pune pentru mine kiss f. m.,play_music,0.9145,0.0222,False
+9632,ro-RO,play,play_radio,radio te rog,play_radio,1.0,1.0,True
+9637,ro-RO,play,play_radio,porneste playlistul meu kiss f. m.,play_music,1.0,0.0,False
+9640,ro-RO,play,play_radio,deschide spotify si porneşte antrenament,play_podcasts,0.9617,0.0005,False
+9651,ro-RO,play,play_radio,pune netflix pe p. s. patru meu,play_podcasts,0.9829,0.0024,False
+9656,ro-RO,play,play_music,pune-mi un cântec optimist prin boxele tale,play_music,0.9999,0.9999,True
+9706,ro-RO,play,play_music,pune o brad frumos,cooking_recipe,0.9901,0.0017,False
+9707,ro-RO,play,play_music,deschide media si pune o ce veste minunată,social_post,0.8102,0.0007,False
+9738,ro-RO,play,play_music,te rog poți să redai muzica clasica pentru mine,play_music,0.9978,0.9978,True
+9793,ro-RO,play,play_music,pune cântecele romantice,play_music,1.0,1.0,True
+9795,ro-RO,play,play_music,reia born to run,qa_factoid,1.0,0.0,False
+9912,ro-RO,cooking,cooking_recipe,olly cat timp sa fierb ouale,cooking_recipe,0.9974,0.9974,True
+9918,ro-RO,cooking,cooking_recipe,cum fac pizza,cooking_recipe,0.9882,0.9882,True
+9923,ro-RO,cooking,cooking_recipe,cat timp trebuie sa fierb un ou,cooking_recipe,0.9996,0.9996,True
+9924,ro-RO,cooking,cooking_recipe,spune-mi rețeta pentru,qa_factoid,0.51,0.4686,False
+9930,ro-RO,cooking,cooking_recipe,cat sa fierb oul,iot_hue_lightoff,0.7876,0.0122,False
+9931,ro-RO,cooking,cooking_recipe,olly cat trebuie sa fierb oul,cooking_recipe,0.9999,0.9999,True
+9940,ro-RO,cooking,cooking_recipe,cauta-mi o reteta de tort de ciocolata,cooking_recipe,0.9471,0.9471,True
+9941,ro-RO,cooking,cooking_recipe,cum gatesc pui fript,qa_factoid,0.8466,0.0004,False
+9942,ro-RO,cooking,cooking_recipe,ce se foloseste la un cozonac,cooking_recipe,0.7031,0.7031,True
+9943,ro-RO,cooking,cooking_recipe,cat imi ia sa fac lasagna de legume,cooking_recipe,1.0,1.0,True
+9952,ro-RO,cooking,cooking_recipe,da-mi un tutorial de gatit,cooking_recipe,0.9634,0.9634,True
+9955,ro-RO,cooking,cooking_recipe,arata-mi un video pentru a gati pui prajit,cooking_recipe,1.0,1.0,True
+9956,ro-RO,cooking,cooking_recipe,cu ce pot inlocui untul,cooking_recipe,0.7953,0.7953,True
+9961,ro-RO,cooking,cooking_recipe,care e cea mai buna temperatura a cuptorului de copt cartofi,cooking_recipe,0.5088,0.5088,True
+9962,ro-RO,cooking,cooking_recipe,care e cea mai buna metoda de a face paste al dente,cooking_recipe,0.9999,0.9999,True
+9964,ro-RO,cooking,cooking_recipe,cunoștințe despre prelucrarea alimentelor,cooking_recipe,0.6443,0.6443,True
+9966,ro-RO,cooking,cooking_recipe,care este cea mai usoara metoda de a gati paste,cooking_recipe,0.9922,0.9922,True
+9969,ro-RO,cooking,cooking_recipe,ce pot folosi in loc de sofran,qa_factoid,0.964,0.002,False
+9971,ro-RO,cooking,cooking_recipe,care sunt conductoare de căldură mai bune oale cu fund de cupru sau fontă,lists_query,0.1996,0.0566,False
+9976,ro-RO,cooking,cooking_recipe,hei robot dă mi o listă de ingrediente pentru musaca de vinete,cooking_recipe,0.9999,0.9999,True
+9977,ro-RO,cooking,cooking_recipe,te rog sa cauti pe internet si sa afisezi videoclipurile de pe youtube potrivite pentru a gati mancare italiana,cooking_recipe,0.9795,0.9795,True
+9979,ro-RO,cooking,cooking_recipe,gateste-mi niste ovaz,qa_factoid,0.7016,0.0034,False
+9980,ro-RO,cooking,cooking_recipe,care e meniul pe azi adaugă niște legume fierte la acesta,cooking_recipe,0.9908,0.9908,True
+9986,ro-RO,cooking,cooking_recipe,a fierbe,qa_factoid,0.9996,0.0,False
+9994,ro-RO,cooking,cooking_recipe,poti sa imi spui reteta pentru gulas,cooking_recipe,0.9999,0.9999,True
+10016,ro-RO,cooking,cooking_recipe,procedura de gatit sarmale de craciun in cinci propozitii este,cooking_recipe,0.9999,0.9999,True
+10019,ro-RO,cooking,cooking_recipe,te rog spune mi cum sa fac doisprezece biscuiti cu unt,cooking_recipe,1.0,1.0,True
+10023,ro-RO,cooking,cooking_recipe,ce imi trebuie sa fac friptura de miel,cooking_recipe,1.0,1.0,True
+10027,ro-RO,cooking,cooking_recipe,instrucțiuni pentru prepararea mâncării,cooking_recipe,1.0,1.0,True
+10031,ro-RO,cooking,cooking_recipe,am nevoie de o reteta care sa contina ingrediente din lista mea de cumparaturi,cooking_recipe,0.9999,0.9999,True
+10038,ro-RO,cooking,cooking_recipe,am nevoie de idei bune pentru gătit,cooking_recipe,0.9999,0.9999,True
+10045,ro-RO,cooking,cooking_recipe,imi dai o reteta de supa de pui cu taitei facuta in casa,cooking_recipe,0.9993,0.9993,True
+10048,ro-RO,cooking,cooking_recipe,cum fac un curcan,qa_factoid,0.992,0.0016,False
+10049,ro-RO,cooking,cooking_recipe,spune-mi cum sa pregatesc un sandvis cu sunca si cascaval,qa_definition,0.5118,0.4059,False
+10053,ro-RO,cooking,cooking_recipe,cum fac pizza,cooking_recipe,0.9882,0.9882,True
+10055,ro-RO,cooking,cooking_recipe,care este reteta de pui prajit,email_sendemail,0.568,0.4071,False
+10061,ro-RO,cooking,cooking_recipe,ce sa pregatesc pentru cina,cooking_recipe,1.0,1.0,True
+10072,ro-RO,cooking,cooking_recipe,timpii de coacere pentru pui la cuptor,cooking_recipe,0.9996,0.9996,True
+10076,ro-RO,cooking,cooking_recipe,poti inlocui praful de copt cu bicarbonatul de sodiu,qa_factoid,0.7714,0.0013,False
+10077,ro-RO,cooking,cooking_recipe,gaseste o reteta pentru cina in aceasta seara,cooking_recipe,0.9998,0.9998,True
+10078,ro-RO,cooking,cooking_recipe,ce as putea gati pentru cina,cooking_recipe,1.0,1.0,True
+10080,ro-RO,cooking,cooking_recipe,sa gatim chiftele impreuna,social_post,0.5579,0.0561,False
+10081,ro-RO,cooking,cooking_recipe,spune-mi cum sa fac chiftelute,qa_factoid,0.9002,0.0014,False
+10090,ro-RO,cooking,cooking_recipe,pot obtine o reteta de ton,qa_factoid,0.9998,0.0001,False
+10093,ro-RO,cooking,cooking_recipe,cum se face lasagna,cooking_recipe,0.9991,0.9991,True
+10097,ro-RO,cooking,cooking_recipe,vreau un cheeseburger,cooking_recipe,0.9985,0.9985,True
+10099,ro-RO,cooking,cooking_recipe,stii cum se gateste risotto,cooking_recipe,1.0,1.0,True
+10100,ro-RO,cooking,cooking_recipe,stii o reteta pentru risotto,cooking_recipe,1.0,1.0,True
+10105,ro-RO,cooking,cooking_recipe,cat timp se gateste o friptura mediu facuta,cooking_recipe,0.9996,0.9996,True
+10107,ro-RO,cooking,cooking_recipe,am nevoie de o reteta de ghiveci de legume,cooking_recipe,0.996,0.996,True
+10119,ro-RO,cooking,cooking_recipe,cat timp trebuie gatit un curcan de sapte kilograme,cooking_recipe,0.9998,0.9998,True
+10125,ro-RO,cooking,cooking_recipe,care este diferența dintre a coace și a prăji,cooking_recipe,0.9976,0.9976,True
+10132,ro-RO,cooking,cooking_recipe,cat timp ar trebui sa gatesc friptura pentru a fi medium,cooking_recipe,0.9998,0.9998,True
+10150,ro-RO,cooking,cooking_recipe,cum sa fac taco,cooking_recipe,0.9996,0.9996,True
+10156,ro-RO,cooking,cooking_recipe,cum sa fac ardei umpluti,qa_factoid,0.6096,0.3895,False
+10164,ro-RO,cooking,cooking_recipe,cât timp gătesc macaroane,cooking_recipe,0.9996,0.9996,True
+10166,ro-RO,cooking,cooking_recipe,cauta reteta de placinta cu mere,qa_factoid,0.7959,0.0115,False
+10171,ro-RO,cooking,cooking_recipe,care este reteta pentru supa de peste,cooking_recipe,0.9951,0.9951,True
+10177,ro-RO,cooking,cooking_recipe,cum sa fac spaghete de dovlecei,cooking_recipe,0.9988,0.9988,True
+10182,ro-RO,cooking,cooking_recipe,cate oua imi trebuie pentru o omleta,cooking_recipe,0.9979,0.9979,True
+10197,ro-RO,cooking,cooking_recipe,arata mi cea mai buna reteta pentru spaghete,cooking_recipe,1.0,1.0,True
+10206,ro-RO,cooking,cooking_recipe,cum este pregatit orezul,cooking_recipe,0.9998,0.9998,True
+10213,ro-RO,cooking,cooking_recipe,listă de rețete de zacuscă renumite,lists_remove,0.9991,0.0001,False
+10214,ro-RO,cooking,cooking_recipe,rețete care pot fi gătite într-o oră,cooking_recipe,0.9998,0.9998,True
+10216,ro-RO,cooking,cooking_recipe,caută pe internet vase de copt pentru brioșe,cooking_recipe,0.8023,0.8023,True
+10217,ro-RO,cooking,cooking_recipe,găsește rețetă pentru musaca în aplicația jamilacuisine,cooking_recipe,1.0,1.0,True
+10220,ro-RO,cooking,cooking_recipe,de ce ingrediente am nevoie pentru a pregati un tort imens,cooking_recipe,0.9999,0.9999,True
+10224,ro-RO,cooking,cooking_recipe,trebuie să fie gustul,qa_factoid,0.971,0.0245,False
+10226,ro-RO,cooking,cooking_recipe,spune mi reteta pentru paste,iot_hue_lightoff,0.3653,0.0058,False
+10426,ro-RO,lists,lists_query,ce mai lipseste din jurnal,iot_hue_lightoff,0.6176,0.0067,False
+10427,ro-RO,lists,lists_remove,te rog golește lista mea de cumpărături,lists_remove,0.9413,0.9413,True
+10430,ro-RO,lists,lists_remove,șterge primul articol din listă,lists_remove,0.9993,0.9993,True
+10433,ro-RO,lists,lists_remove,sterge lista mea de sarcini,cooking_recipe,0.9999,0.0,False
+10440,ro-RO,lists,lists_query,ceva evenimente speciale din lista mea,social_post,0.9114,0.0014,False
+10442,ro-RO,lists,lists_remove,șterge evenimente de pe lista mea,lists_remove,0.3274,0.3274,True
+10444,ro-RO,lists,lists_remove,sterge articol,email_query,0.9894,0.0001,False
+10451,ro-RO,lists,lists_query,ce o să fac azi,cooking_recipe,0.9969,0.0002,False
+10455,ro-RO,lists,lists_query,ce e pe lista mea de făcut,cooking_recipe,0.9895,0.0027,False
+10462,ro-RO,lists,lists_remove,elimină o listă,lists_remove,1.0,1.0,True
+10493,ro-RO,lists,lists_query,care este lista mea de lucruri de facut,lists_query,0.7737,0.7737,True
+10494,ro-RO,lists,lists_remove,elimină creion din penar,cooking_recipe,0.9358,0.0021,False
+10497,ro-RO,qa,qa_factoid,pot avea o listă cu hoteluri de cinci stele la paris,lists_query,0.9754,0.0001,False
+10508,ro-RO,lists,lists_remove,șterge articolul listă,lists_remove,0.9999,0.9999,True
+10512,ro-RO,lists,lists_query,enumerați tot ce a rămas în interogarea mea,lists_remove,0.8758,0.1033,False
+10523,ro-RO,lists,lists_remove,șterge din lista de redare lista mea cu cântece vechi în engleză,lists_remove,0.9994,0.9994,True
+10525,ro-RO,lists,lists_remove,șterge plata mașinii mele la calendarul meu,calendar_remove,0.9984,0.0002,False
+10527,ro-RO,lists,lists_remove,elimină lista,lists_remove,0.998,0.998,True
+10534,ro-RO,lists,lists_query,cum este lista de făcut pentru azi,cooking_recipe,0.7109,0.2515,False
+10538,ro-RO,lists,lists_query,te rog repetă lista mea de cumpărături,lists_remove,0.8351,0.0094,False
+10565,ro-RO,lists,lists_remove,sterge toate listele,lists_remove,0.9996,0.9996,True
+10568,ro-RO,lists,lists_remove,sterge lista cu muzica veche,play_music,0.9995,0.0003,False
+10570,ro-RO,lists,lists_query,verifica lista mea cu lucruri de facut,cooking_recipe,0.7581,0.1548,False
+10571,ro-RO,lists,lists_query,android,iot_hue_lightoff,0.2324,0.0685,False
+10577,ro-RO,lists,lists_query,da mi toate listele mele,lists_remove,0.9999,0.0001,False
+10579,ro-RO,lists,lists_remove,reseteaza lista cu locatii,lists_remove,0.9959,0.9959,True
+10588,ro-RO,lists,lists_query,arată -mi continutul listei,lists_query,1.0,1.0,True
+10590,ro-RO,lists,lists_remove,elimină al doilea rând din listă,lists_remove,1.0,1.0,True
+10655,ro-RO,lists,lists_remove,sterge lista numita e timpul de petrecere,lists_remove,0.9998,0.9998,True
+10667,ro-RO,lists,lists_query,recită programe din listă,cooking_recipe,0.98,0.0027,False
+10673,ro-RO,lists,lists_remove,te rog elimină următoarea listă,lists_remove,1.0,1.0,True
+10674,ro-RO,lists,lists_remove,sterge lista curenta,lists_remove,0.9956,0.9956,True
+10679,ro-RO,lists,lists_query,ce este pe lista mea cu lucruri de facut azi,lists_query,0.5772,0.5772,True
+10684,ro-RO,lists,lists_query,ce liste am interogat,lists_remove,1.0,0.0,False
+10687,ro-RO,lists,lists_remove,dacă există un eveniment de spectacol eliminați pe acesta,calendar_remove,0.5936,0.1783,False
+10696,ro-RO,lists,lists_remove,înlocuiește,iot_hue_lightoff,0.2907,0.0434,False
+10699,ro-RO,lists,lists_query,informeaza ma in legatura cu articolele de pe lista,lists_remove,0.556,0.0569,False
+10718,ro-RO,lists,lists_remove,poți elimina acest articol din lista mea,lists_remove,0.9821,0.9821,True
+10731,ro-RO,lists,lists_query,citeste ce este pe lista mea,lists_query,0.9907,0.9907,True
+10743,ro-RO,lists,lists_remove,elimină acel articol,lists_remove,0.3625,0.3625,True
+10753,ro-RO,lists,lists_query,ce am scris deja pe lista kaufland,email_query,0.9883,0.0098,False
+10755,ro-RO,lists,lists_remove,aruncp lista mea de făcut te rog,cooking_recipe,0.9533,0.0222,False
+10756,ro-RO,lists,lists_remove,șterge lista de cumpărături,lists_remove,0.7385,0.7385,True
+10757,ro-RO,lists,lists_query,ce articole sunt pe lista mea de cumparaturi,lists_remove,0.7615,0.1213,False
+10759,ro-RO,lists,lists_query,citește lista mea pentru cumpărături,lists_query,0.9409,0.9409,True
+10760,ro-RO,lists,lists_query,citeste mi lista pe care am scris o acum doua zile,lists_remove,0.996,0.0015,False
+10770,ro-RO,lists,lists_remove,sterge cerealele din lista mea de cumparaturi,lists_remove,0.9614,0.9614,True
+10772,ro-RO,calendar,calendar_remove,anuleaza programarea la dentist din programul de azi,play_music,0.6141,0.0019,False
+10776,ro-RO,lists,lists_query,am o lista de cumparaturi,lists_remove,0.9973,0.0005,False
+10786,ro-RO,lists,lists_remove,eliberează lista mea de activități pe azi,email_sendemail,0.8978,0.0129,False
+10790,ro-RO,lists,lists_remove,șterge articol din listă,lists_remove,0.9998,0.9998,True
+10804,ro-RO,lists,lists_query,citește lista de cumpărături,lists_remove,0.7042,0.2538,False
+10805,ro-RO,lists,lists_query,te rog arata mi lista pe care o am,lists_remove,0.9606,0.0335,False
+10808,ro-RO,lists,lists_remove,șterge ultimul articol de pe listă,lists_remove,0.9989,0.9989,True
+10824,ro-RO,lists,lists_remove,oly șterge lista,lists_remove,0.9993,0.9993,True
+10825,ro-RO,lists,lists_remove,șterge lista,lists_remove,0.9949,0.9949,True
+10827,ro-RO,lists,lists_remove,șterge lista de cumpărături,lists_remove,0.7385,0.7385,True
+10828,ro-RO,lists,lists_remove,sterge tot,qa_factoid,1.0,0.0,False
+10832,ro-RO,calendar,calendar_query,olly ce am planificat în continuare,cooking_recipe,0.2692,0.022,False
+10843,ro-RO,lists,lists_remove,elimină lapte din lista mea de cumpărături,lists_remove,0.9657,0.9657,True
+10846,ro-RO,lists,lists_remove,nu am suficienți bani pentru a cumpăra comutatorul nintendo acum vă rog îl puteți elimina din lista mea de dorințe amazon,qa_factoid,0.9771,0.0175,False
+10848,ro-RO,lists,lists_remove,sterge aceasta lista din celelalte,lists_remove,0.9998,0.9998,True
+10851,ro-RO,lists,lists_query,care sunt listele mele disponibile,lists_query,0.9917,0.9917,True
+10853,ro-RO,lists,lists_remove,ia aceea de acolo,qa_factoid,0.9999,0.0,False
+10855,ro-RO,lists,lists_query,am nevoie să verific lista mea,lists_query,0.929,0.929,True
+10868,ro-RO,lists,lists_query,olly orice altceva a mai rămas din listă,lists_remove,0.9995,0.0001,False
+10887,ro-RO,lists,lists_remove,sterge lista mea,lists_remove,0.9597,0.9597,True
+10895,ro-RO,lists,lists_remove,șterge articol din lista mea,lists_remove,0.9995,0.9995,True
+10909,ro-RO,lists,lists_query,olly citește-mi lista,lists_query,0.7002,0.7002,True
+10927,ro-RO,lists,lists_query,lasă să aud lista mea,lists_remove,0.974,0.0246,False
+10931,ro-RO,lists,lists_query,ce este pe lista mea de redare,lists_query,0.6298,0.6298,True
+10936,ro-RO,lists,lists_remove,te rog șterge lista de albume favorite,lists_remove,0.9997,0.9997,True
+10954,ro-RO,lists,lists_query,câte liste am eu în contacte,qa_factoid,0.8546,0.1367,False
+10956,ro-RO,lists,lists_query,ce grupuri sunt listate in contactele mele,qa_factoid,0.3658,0.2094,False
+10957,ro-RO,lists,lists_query,amintește -mi câte liste am,lists_remove,0.7562,0.2434,False
+10960,ro-RO,lists,lists_remove,șterge pe acela din listă,lists_remove,0.9979,0.9979,True
+10970,ro-RO,lists,lists_remove,șterge ultima frază,calendar_remove,0.979,0.0079,False
+10979,ro-RO,lists,lists_query,ce este acum pe lista ta,lists_query,0.887,0.887,True
+10981,ro-RO,lists,lists_query,anunță lista,lists_remove,0.9996,0.0,False
+10985,ro-RO,lists,lists_remove,șterge lista mea de făcut pentru această săptămână,lists_remove,0.9996,0.9996,True
+10990,ro-RO,lists,lists_remove,pe lista de făcut elimină mop bucătărie,lists_remove,1.0,1.0,True
+10999,ro-RO,lists,lists_query,spune lista,lists_remove,0.8499,0.0668,False
+11023,ro-RO,lists,lists_remove,șterge lista de cumpărături,lists_remove,0.7385,0.7385,True
+11024,ro-RO,lists,lists_remove,șterge lista de făcut,cooking_recipe,0.8979,0.0921,False
+11053,ro-RO,lists,lists_remove,șterge lista google,lists_remove,0.9991,0.9991,True
+11075,ro-RO,lists,lists_query,câte liste am,lists_query,0.8491,0.8491,True
+11081,ro-RO,lists,lists_query,ce liste sunt în notebookul meu,lists_query,0.9986,0.9986,True
+11085,ro-RO,lists,lists_remove,scoate laptele din lista de cumpărături,cooking_recipe,0.3763,0.1771,False
+11098,ro-RO,lists,lists_remove,scapă de lista de taxe din o mie nouăsute nouăzeci,lists_remove,0.8658,0.8658,True
+11107,ro-RO,lists,lists_query,care este lista mea actuală,lists_query,0.9964,0.9964,True
+11124,ro-RO,lists,lists_query,enumeră articolele de pe lista mea de muncă,lists_query,0.9373,0.9373,True
+11125,ro-RO,lists,lists_query,da-mi detalii despre comanda mea de cumparturi,email_query,0.3559,0.106,False
+11133,ro-RO,lists,lists_remove,sterge lista de invitati pe care am creat o saptamana trecuta,social_post,0.9769,0.0047,False
+11154,ro-RO,lists,lists_query,verifică lista de făcut,cooking_recipe,0.8494,0.052,False
+11162,ro-RO,lists,lists_remove,vreau să elimin mere din listă,lists_remove,0.9998,0.9998,True
+11164,ro-RO,lists,lists_remove,departe e scos de pe listă,lists_remove,0.9974,0.9974,True
+11166,ro-RO,lists,lists_query,deschide google keep,lists_remove,0.5041,0.0089,False
+11168,ro-RO,lists,lists_remove,șterge lista mea,lists_remove,0.9993,0.9993,True
+11172,ro-RO,lists,lists_query,dă toate listele disponibile,lists_remove,0.958,0.0402,False
+11174,ro-RO,lists,lists_query,fă o listă cu toate listele din acest dispozitiv,lists_remove,0.9696,0.0291,False
+11180,ro-RO,calendar,calendar_query,planificarea petrecerii mele,cooking_recipe,0.9959,0.0002,False
+11186,ro-RO,lists,lists_query,am lista de îmbrăcăminte,lists_remove,0.8787,0.1133,False
+11189,ro-RO,lists,lists_query,caută lista,qa_factoid,0.9999,0.0,False
+11204,ro-RO,lists,lists_query,informatii importante despre casa,email_query,0.9335,0.002,False
+11215,ro-RO,lists,lists_query,lista,lists_query,1.0,1.0,True
+11250,ro-RO,lists,lists_query,citeste mi lista de cumparaturi,lists_remove,0.874,0.0854,False
+11257,ro-RO,play,play_podcasts,olly dă drumul la următoare înregistrare,play_radio,0.9047,0.0005,False
+11259,ro-RO,play,play_podcasts,sari la următorul podcast,play_podcasts,1.0,1.0,True
+11261,ro-RO,play,play_podcasts,difuzeaza cel mai nou podcast,play_podcasts,1.0,1.0,True
+11265,ro-RO,play,play_podcasts,redă următorul,play_radio,0.8773,0.0028,False
+11266,ro-RO,play,play_podcasts,rulează un podcast din librăria mea,play_podcasts,1.0,1.0,True
+11267,ro-RO,play,play_podcasts,gaseste un podcast despre castigatorii premiului gopo,play_podcasts,0.9979,0.9979,True
+11270,ro-RO,play,play_podcasts,redă următorul podcast,play_podcasts,1.0,1.0,True
+11272,ro-RO,play,play_podcasts,redă podcasturi,play_podcasts,0.9992,0.9992,True
+11279,ro-RO,play,play_podcasts,deschide podcast și redă următorul episod la fileu,play_podcasts,1.0,1.0,True
+11286,ro-RO,play,play_podcasts,pune podcastul starea natiei,play_podcasts,1.0,1.0,True
+11296,ro-RO,play,play_podcasts,încarcă tot podcastul meu,play_podcasts,0.9996,0.9996,True
+11302,ro-RO,play,play_podcasts,redă pe bune podcast,play_podcasts,1.0,1.0,True
+11303,ro-RO,play,play_podcasts,redă următorul podcast da bravo,play_podcasts,1.0,1.0,True
+11306,ro-RO,play,play_podcasts,redă acel podcast pe care l-am ascultat ieri,play_podcasts,1.0,1.0,True
+11318,ro-RO,play,play_podcasts,redă episodul următor din podcast,play_podcasts,1.0,1.0,True
+11322,ro-RO,play,play_podcasts,care sunt podcast-urile în top de astăzi,play_podcasts,0.9875,0.9875,True
+11328,ro-RO,play,play_podcasts,redă podcastul pe bune,play_podcasts,0.9997,0.9997,True
+11331,ro-RO,play,play_podcasts,arata-mi cel mai bun podcast de melodii rock bine evaluate,play_podcasts,0.9995,0.9995,True
+11335,ro-RO,play,play_music,redă și amestecă toate melodiile lente,play_music,0.9996,0.9996,True
+11339,ro-RO,play,play_podcasts,redă podcast ul meu cel mai vizionat,play_podcasts,1.0,1.0,True
+11340,ro-RO,play,play_podcasts,are alex un nou podcast,play_podcasts,1.0,1.0,True
+11341,ro-RO,play,play_podcasts,găsește ultimul podcast disney,play_podcasts,1.0,1.0,True
+11343,ro-RO,play,play_podcasts,treci la următorul episod de la recorder,play_music,0.6096,0.3793,False
+11345,ro-RO,play,play_podcasts,rulează următorul episod al podcast-ului,play_podcasts,0.9998,0.9998,True
+11349,ro-RO,play,play_podcasts,olly începe podcastul pe care l-am început noaptea trecută,play_podcasts,1.0,1.0,True
+11353,ro-RO,play,play_podcasts,arată mi podcasturi,play_podcasts,1.0,1.0,True
+11361,ro-RO,play,play_podcasts,neascultatorii podcast porneste-l,social_post,0.9659,0.034,False
+11366,ro-RO,play,play_podcasts,întoarce-te la episodul anterior,calendar_remove,0.8208,0.0085,False
+11368,ro-RO,play,play_podcasts,redă-mi podcast lui george buhnici,play_podcasts,1.0,1.0,True
+11376,ro-RO,play,play_podcasts,vreau să ascult un podcast,social_post,0.5807,0.4029,False
+11384,ro-RO,play,play_podcasts,te rog poți să descarci fișierul podcast găsit pe internet și să îl redai o dată,play_podcasts,0.9993,0.9993,True
+11409,ro-RO,play,play_podcasts,te rog sări la următorul episod din podcast,play_podcasts,1.0,1.0,True
+11417,ro-RO,play,play_podcasts,pornește următorul episod,play_podcasts,0.6832,0.6832,True
+11418,ro-RO,play,play_podcasts,reda cel mai recent podcast a lui george buhnici,social_post,0.9458,0.0529,False
+11420,ro-RO,play,play_podcasts,incepe sa redai cel mai recent podcast al meu,social_post,0.9658,0.0132,False
+11423,ro-RO,play,play_podcasts,mergi înapoi treizeci de secunde,qa_factoid,0.8007,0.0056,False
+11424,ro-RO,play,play_podcasts,kiss f. m.,social_post,0.2031,0.0257,False
+11426,ro-RO,lists,lists_query,cea mai cautata lista,qa_factoid,1.0,0.0,False
+11427,ro-RO,play,play_podcasts,porneste gilmore guys,qa_factoid,0.9459,0.0006,False
+11437,ro-RO,play,play_podcasts,te rog redă acest podcast pentru mine,play_podcasts,0.9975,0.9975,True
+11438,ro-RO,play,play_podcasts,te rog mergi la episodul următor al podcast-ului,play_podcasts,1.0,1.0,True
+11442,ro-RO,play,play_podcasts,redă te rog ultimul podcast al lui george buhnici,play_podcasts,0.9962,0.9962,True
+11451,ro-RO,play,play_podcasts,vreau să ascult ultimul podcast al lui radu morar,play_podcasts,0.9701,0.9701,True
+11453,ro-RO,play,play_podcasts,redă podcasturile kiss f. m.,play_podcasts,1.0,1.0,True
+11455,ro-RO,play,play_podcasts,mergi catre sectiunea urmatoare,qa_factoid,0.1613,0.024,False
+11458,ro-RO,play,play_podcasts,mergi la urmatorul episod de podcast,play_podcasts,1.0,1.0,True
+11459,ro-RO,play,play_podcasts,mergi înapoi la ultimul episod din acest podcast,play_podcasts,0.8776,0.8776,True
+11460,ro-RO,play,play_podcasts,vreau să ascult un podcast sportiv,social_post,0.8545,0.1128,False
+11467,ro-RO,play,play_podcasts,pune cel mai recent podcast pe bune,play_podcasts,1.0,1.0,True
+11470,ro-RO,play,play_podcasts,redă podcastul meu favorit te rog,play_podcasts,1.0,1.0,True
+11474,ro-RO,play,play_podcasts,reia seria de podcast,play_podcasts,0.9996,0.9996,True
+11476,ro-RO,play,play_podcasts,reda podcastul anterior,play_podcasts,1.0,1.0,True
+11483,ro-RO,play,play_podcasts,redă lucruri simple,play_music,0.7451,0.0073,False
+11490,ro-RO,play,play_podcasts,redă următorul show pe podcast,play_podcasts,0.9998,0.9998,True
+11502,ro-RO,play,play_podcasts,butonul next,qa_factoid,0.9888,0.0003,False
+11505,ro-RO,play,play_podcasts,reia ultimul meu podcast ascultat,social_post,0.9478,0.0509,False
+11514,ro-RO,play,play_podcasts,olly putem să ascultăm podcastul pe bune,play_podcasts,0.9979,0.9979,True
+11515,ro-RO,play,play_podcasts,hai să ascultăm podcastul lucruri simple,play_podcasts,1.0,1.0,True
+11525,ro-RO,play,play_podcasts,vreau să văd următorul podcast disponibil,play_podcasts,1.0,1.0,True
+11529,ro-RO,play,play_podcasts,hei redă podcastul meu preferat din listă,play_podcasts,0.9999,0.9999,True
+11536,ro-RO,play,play_podcasts,adauga podcasturile favorite la lista de redare si porneste,play_podcasts,1.0,1.0,True
+11539,ro-RO,play,play_podcasts,începe următorul podcast,play_podcasts,1.0,1.0,True
+11546,ro-RO,play,play_podcasts,redă toate pe bune din săptămâna trecută,play_music,0.171,0.0251,False
+11554,ro-RO,play,play_podcasts,vreau să rulezi podcast-ul,recommendation_events,0.981,0.0044,False
+11563,ro-RO,recommendation,recommendation_events,ce pot sa fac in brasov,cooking_recipe,0.9993,0.0,False
+11570,ro-RO,recommendation,recommendation_events,ce se întâmplă prin oraș,social_post,0.815,0.0053,False
+11582,ro-RO,recommendation,recommendation_events,se întâmplă ceva pe scena de jazz pe lângă constanța,social_post,0.9269,0.0056,False
+11585,ro-RO,recommendation,recommendation_events,ceva evenimente culturale în sibiu,social_post,0.9873,0.0022,False
+11598,ro-RO,recommendation,recommendation_events,te rog spune despre evenimente cu expoziții de câini care au loc în orașul meu natal,qa_factoid,0.3704,0.0455,False
+11600,ro-RO,recommendation,recommendation_events,ce film pot vedea diseară la cinema aici în bucurești,play_podcasts,0.339,0.1658,False
+11610,ro-RO,recommendation,recommendation_events,da-mi lista spectacolelor de circ care au loc in oraș acum,lists_remove,0.8109,0.0087,False
+11612,ro-RO,recommendation,recommendation_events,ce spectacole de arme sunt în iași,play_podcasts,0.715,0.0063,False
+11616,ro-RO,recommendation,recommendation_events,au loc evenimente in centrul orașului diseară,weather_query,0.9732,0.0033,False
+11643,ro-RO,recommendation,recommendation_events,ce evenimente au loc în curând,news_query,0.565,0.0734,False
+11644,ro-RO,recommendation,recommendation_events,arată-mi evenimentele din kultur,news_query,0.8693,0.0137,False
+11650,ro-RO,recommendation,recommendation_events,ambii șoferii tineri și șoferii provizorii se prăbușesc mai des decât alți șoferi deoarece nu au avut încă o gamă largă de experiențe de care au nevoie pentru a conduce în siguranță ei înșiși au arătat cercetările că experiența de conducere este un factor major în reducerea accidentelor rutiere și că cel mai sigur moment pentru șoferii tineri este atunci când conduc sub supraveghere în timp ce învață,qa_factoid,0.1283,0.0418,False
+11681,ro-RO,recommendation,recommendation_events,te rog arata-mi un maraton lângă mine,social_post,0.5543,0.0055,False
+11685,ro-RO,recommendation,recommendation_events,m-aș bucura dacă m-ai pune la curent cu evenimentele ce au loc în zona noastră,news_query,0.7907,0.0035,False
+11705,ro-RO,recommendation,recommendation_events,arată-mi expoziție de pictură în zona golfului,social_post,0.1807,0.0552,False
+11720,ro-RO,recommendation,recommendation_events,înot,qa_factoid,0.9867,0.0,False
+11767,ro-RO,recommendation,recommendation_events,olly ce evenimente au loc la mamaia în acest weekend,news_query,0.6423,0.1418,False
+11770,ro-RO,recommendation,recommendation_events,ceva evenimente weekendul acesta în oradea,play_podcasts,0.6844,0.0218,False
+11782,ro-RO,recommendation,recommendation_events,sunt ceva evenimente speciale lângă mine în acest weekend,news_query,0.9101,0.0095,False
+11798,ro-RO,recommendation,recommendation_events,care este urmatorul eveniment la librărie,play_podcasts,0.7861,0.022,False
+11827,ro-RO,recommendation,recommendation_events,unde pot să mă duc diseară,transport_query,0.8409,0.0058,False
+11839,ro-RO,recommendation,recommendation_events,ce evenimente sunt în preajma mea,news_query,0.9028,0.0044,False
+11841,ro-RO,recommendation,recommendation_events,sunt ceva târguri de meșteșuguri care se întâmplă în zonă,cooking_recipe,0.6753,0.0436,False
+11844,ro-RO,recommendation,recommendation_events,ceva interesant în zona golfului,social_post,0.9357,0.0021,False
+11845,ro-RO,recommendation,recommendation_events,alex zi-mi niste evenimente atractive in zona portului,qa_factoid,0.8683,0.059,False
+11860,ro-RO,recommendation,recommendation_events,spune despre evenimente locale,qa_factoid,0.6279,0.017,False
+11867,ro-RO,recommendation,recommendation_events,este un eveniment sportiv mâine in iași,social_post,0.8342,0.0093,False
+11875,ro-RO,recommendation,recommendation_events,este vreun festival alimentar in zona,qa_factoid,0.9349,0.0013,False
+11904,ro-RO,recommendation,recommendation_events,ce se întâmplă aici în acest weekend,news_query,0.609,0.018,False
+11905,ro-RO,recommendation,recommendation_events,olly spune despre activitățile din zona mea în acest weekend,social_post,0.9749,0.002,False
+11911,ro-RO,recommendation,recommendation_events,ceva bun se întâmplă în acest weekend în zonă,social_post,0.2265,0.0449,False
+11916,ro-RO,recommendation,recommendation_events,ce parcuri tematice în apropiere,lists_query,0.8103,0.0051,False
+11969,ro-RO,recommendation,recommendation_events,se întâmplă ceva deosebit în zonă,social_post,0.7929,0.0037,False
+11999,ro-RO,recommendation,recommendation_events,spune-mi toate evenimentele de azi in orasul meu,news_query,0.8625,0.0246,False
+12008,ro-RO,recommendation,recommendation_events,sunt evenimente distractive in iași azi,news_query,0.8688,0.0071,False
+12054,ro-RO,recommendation,recommendation_events,ce se întâmplă prin oras,news_query,0.4072,0.0148,False
+12070,ro-RO,recommendation,recommendation_events,când se deschide plaza mall,qa_factoid,0.6295,0.0053,False
+12073,ro-RO,recommendation,recommendation_events,se referă la evenimente locale curente,qa_factoid,0.963,0.0013,False
+12098,ro-RO,recommendation,recommendation_events,arata-mi evenimente muzicale in apropiere,play_music,0.9973,0.0001,False
+12189,ro-RO,transport,transport_query,cum ajung la gară pentru un tichet,transport_query,0.6519,0.6519,True
+12240,ro-RO,transport,transport_query,cum e traficul pe drumul meu acasa la cinci,qa_factoid,0.8625,0.1135,False
+12245,ro-RO,transport,transport_query,cand este urmatorul tren spre de la,weather_query,0.9986,0.0,False
+12251,ro-RO,transport,transport_query,tren iași,qa_factoid,0.999,0.0003,False
+12252,ro-RO,transport,transport_query,la ce oră pleacă trenurile care se îndreaptă spre iași,weather_query,0.9945,0.0001,False
+12261,ro-RO,transport,transport_query,spune mi care îmi sunt opțiunile pentru un tren către oradea miercurea sau joia următoare,transport_query,0.5495,0.5495,True
+12263,ro-RO,transport,transport_query,california,weather_query,0.3036,0.0247,False
+12264,ro-RO,transport,transport_query,bucurești,social_post,0.9765,0.0006,False
+12294,ro-RO,transport,transport_query,arata mi orarul trenului catre gara de nord,transport_query,0.965,0.965,True
+12310,ro-RO,transport,transport_query,da mi o lista de bilete de tren disponibile de la iasi spre tulcea,lists_query,0.8183,0.121,False
+12343,ro-RO,transport,transport_query,verifică orarul pentru trenul zece mii opt sute optzeci și șapte de la gara baneasa marti,weather_query,0.9751,0.0006,False
+12354,ro-RO,transport,transport_query,da-mi orarul pentru tren,weather_query,0.9586,0.0131,False
+12366,ro-RO,transport,transport_query,este un tren de legatura de la bucurești la cluj napoca la ce ora,weather_query,0.799,0.0688,False
+12367,ro-RO,transport,transport_query,care este cea mai buna ruta spre,transport_query,0.6399,0.6399,True
+12376,ro-RO,transport,transport_query,care este primul metrou către bucurești,transport_query,0.9493,0.9493,True
+12392,ro-RO,transport,transport_query,spune mi indicatiile de astăzi,qa_factoid,0.5856,0.004,False
+12402,ro-RO,transport,transport_query,când pleacă de aici următorul tren care circulă prin oraș,transport_query,0.9637,0.9637,True
+12419,ro-RO,transport,transport_query,cea mai rapida ruta spre sibiu,qa_factoid,0.5372,0.3853,False
+12430,ro-RO,transport,transport_query,spune-mi cand ajunge la trenul,transport_query,0.9965,0.9965,True
+12436,ro-RO,transport,transport_query,cat timp dureaza sa ajung la aeroport,qa_factoid,0.7116,0.0721,False
+12437,ro-RO,transport,transport_query,care este timpul de navetă până la teatru,qa_factoid,0.426,0.1834,False
+12446,ro-RO,transport,transport_query,poti sa-mi spui la ce ora pleaca trenul spre,weather_query,0.9092,0.0002,False
+12473,ro-RO,transport,transport_query,cum ajung acasa de aici,qa_factoid,0.8335,0.0106,False
+12526,ro-RO,transport,transport_query,care e cea mai rapida cale sa ajung la starbucks,transport_query,0.9993,0.9993,True
+12532,ro-RO,transport,transport_query,arata calea spre acel loc,qa_factoid,0.9619,0.0,False
+12581,ro-RO,transport,transport_query,cand pleaca trenul azi,weather_query,0.9921,0.0001,False
+12582,ro-RO,transport,transport_query,la ce oră sosește primul metrou dimineata,weather_query,0.9988,0.0005,False
+12604,ro-RO,transport,transport_query,cum rezerv eu un bilet de tren online,qa_factoid,0.4737,0.3273,False
+12618,ro-RO,transport,transport_query,cat costa un bilet dus intors pentru iasi,email_sendemail,0.9741,0.0002,False
+12623,ro-RO,transport,transport_query,ai orele pentru tren pentru oradea,weather_query,0.8861,0.0097,False
+12629,ro-RO,transport,transport_query,cand pleaca primul tren spre brasov,transport_query,0.9828,0.9828,True
+12634,ro-RO,transport,transport_query,cand pleaca urmatorul tren spre arad,weather_query,0.8322,0.1369,False
+12707,ro-RO,transport,transport_query,căutare de navigare,qa_factoid,0.9975,0.0003,False
+12759,ro-RO,transport,transport_query,timpul de condus spre sibiu,datetime_query,0.6302,0.0093,False
+12797,ro-RO,transport,transport_query,orarul trenurilor in apropierea mea spre locație,recommendation_events,0.3005,0.0669,False
+12800,ro-RO,transport,transport_query,unde e bibliotecă publică,qa_factoid,0.9995,0.0,False
+12817,ro-RO,transport,transport_query,cum ajung la mall,qa_factoid,0.7635,0.0038,False
+12818,ro-RO,transport,transport_query,cat costa un bilet de tren spre sibiu,qa_factoid,1.0,0.0,False
+12824,ro-RO,transport,transport_query,arata toate trenurile spre bucuresti,transport_query,0.9982,0.9982,True
+12835,ro-RO,transport,transport_query,cand pleaca trenul,weather_query,0.9397,0.0014,False
+12839,ro-RO,transport,transport_query,du-ma la piata victoriei,qa_factoid,0.6124,0.0072,False
+12851,ro-RO,transport,transport_query,arata directia spre casa mea,qa_factoid,0.4856,0.0008,False
+12856,ro-RO,transport,transport_query,directii te rog,qa_factoid,0.9998,0.0,False
+12866,ro-RO,transport,transport_query,care e sincronizarea la sageata albastra,email_sendemail,0.8518,0.0034,False
+12908,ro-RO,transport,transport_query,cand ajunge trenul in brasov,transport_query,0.9987,0.9987,True
+12930,ro-RO,transport,transport_query,cauta harta pentru magazine mie,qa_factoid,0.5182,0.0222,False
+12932,ro-RO,transport,transport_query,olly am nevoie de indicatii spre bulevardul eroilor,transport_query,0.6284,0.6284,True
+12951,ro-RO,qa,qa_factoid,care e cea mai inalta cladire din lume,qa_factoid,1.0,1.0,True
+12957,ro-RO,qa,qa_definition,defineste cuvantul elaborat,qa_definition,0.9991,0.9991,True
+12961,ro-RO,qa,qa_definition,defineste te rog criminalistica,qa_definition,0.9998,0.9998,True
+12963,ro-RO,qa,qa_definition,care e definitia la criminalist,qa_definition,0.8949,0.8949,True
+12972,ro-RO,qa,qa_factoid,care este cel mai inalt varf de pe glob,qa_factoid,0.9851,0.9851,True
+12982,ro-RO,qa,qa_definition,ce înseamnă turbulență,qa_definition,0.8981,0.8981,True
+12986,ro-RO,qa,qa_definition,cauta definitia cuvantului capricios,qa_definition,0.9893,0.9893,True
+12999,ro-RO,qa,qa_factoid,cati ani are delia matache,qa_factoid,1.0,1.0,True
+13016,ro-RO,qa,qa_definition,caută definiția gafei,qa_definition,0.571,0.571,True
+13023,ro-RO,cooking,cooking_recipe,arata-mi retetele,qa_factoid,0.9663,0.0131,False
+13069,ro-RO,qa,qa_definition,care sunt definitiile la portocala,qa_definition,0.9998,0.9998,True
+13074,ro-RO,qa,qa_factoid,de ce nu este amuzant mihai bendeac,qa_factoid,0.7359,0.7359,True
+13077,ro-RO,qa,qa_factoid,cand este ziua de nastere a lui virgil iantu,datetime_query,0.5732,0.2328,False
+13078,ro-RO,qa,qa_factoid,spune-mi adresa lui mihai margineanu,qa_factoid,0.9538,0.9538,True
+13099,ro-RO,qa,qa_factoid,care a fost actualul prim ministru al marii britanii,qa_factoid,0.9996,0.9996,True
+13115,ro-RO,qa,qa_factoid,care e capitala romaniei,qa_factoid,0.269,0.269,True
+13124,ro-RO,qa,qa_factoid,cât de mare este cosmosul,qa_factoid,0.7555,0.7555,True
+13135,ro-RO,qa,qa_factoid,care este data nașterii lui elena ceausescu,qa_factoid,0.3399,0.3399,True
+13140,ro-RO,qa,qa_definition,spune-mi despre uragan,social_post,0.8498,0.0459,False
+13154,ro-RO,qa,qa_factoid,stii numarul de telefon al alexandrei porumbescu,qa_factoid,0.9998,0.9998,True
+13165,ro-RO,qa,qa_definition,ce inseamna a oscila,qa_definition,0.995,0.995,True
+13166,ro-RO,qa,qa_definition,scrie si defineste cuvantul oscilant,qa_definition,0.9983,0.9983,True
+13177,ro-RO,calendar,calendar_set,reamintește-mi să mă mișc astfel încât să nu existe creștere în greutate,qa_factoid,0.5753,0.001,False
+13178,ro-RO,calendar,calendar_set,aminteste-mi sa contactez prieteni vechi cu care nu am mai vorbit in ultimele sase luni inainte ca ele sa treaca,social_post,0.9863,0.0005,False
+13188,ro-RO,news,news_query,spune-mi cum vor iesi rezultatele alegerilor adunarii din bucuresti,qa_factoid,0.9638,0.0008,False
+13206,ro-RO,qa,qa_definition,locatie,qa_factoid,0.9996,0.0001,False
+13215,ro-RO,transport,transport_query,care este cea mai rapida cale catre serviciul meu in centru fara sa intru in trafic,transport_query,0.9998,0.9998,True
+13252,ro-RO,qa,qa_factoid,care a fost primul noiembrie a lui mircea eliade,email_sendemail,1.0,0.0,False
+13255,ro-RO,qa,qa_factoid,te rog da-mi informatii despre nicolae ceausescu,email_sendemail,0.7396,0.0185,False
+13283,ro-RO,qa,qa_factoid,ce avere are ion tiriac,qa_factoid,0.9455,0.9455,True
+13288,ro-RO,qa,qa_definition,care este definitia pentru etern,qa_definition,1.0,1.0,True
+13297,ro-RO,qa,qa_factoid,cine este vedeta,qa_factoid,0.9996,0.9996,True
+13298,ro-RO,qa,qa_factoid,ce fac vedetele,qa_factoid,0.9997,0.9997,True
+13330,ro-RO,qa,qa_factoid,ce marime are un casalot,social_post,1.0,0.0,False
+13361,ro-RO,qa,qa_definition,care este definiția actualității,qa_factoid,0.8561,0.138,False
+13383,ro-RO,qa,qa_factoid,câte state au pedeapsa cu moartea,qa_factoid,1.0,1.0,True
+13400,ro-RO,social,social_post,trimite un mesaj amuzant catre toti prietenii mei,social_post,0.9985,0.9985,True
+13439,ro-RO,qa,qa_factoid,care e varsta lui j. k. rowling,iot_hue_lightoff,0.9092,0.0362,False
+13457,ro-RO,calendar,calendar_set,anunță-mă când ar trebui să plec la un eveniment planificat astfel încât să ajung la timp,calendar_remove,0.9875,0.0037,False
+13473,ro-RO,qa,qa_factoid,cand si-a dobandit libertatea statele unite,social_post,0.1267,0.0314,False
+13487,ro-RO,qa,qa_factoid,olly care este capitala californiei,qa_factoid,0.6532,0.6532,True
+13494,ro-RO,qa,qa_definition,care este definitia cuvantului motivatie,qa_definition,0.9998,0.9998,True
+13506,ro-RO,datetime,datetime_query,poti sa imi spui cat este ora,weather_query,0.9986,0.001,False
+13513,ro-RO,qa,qa_factoid,cate picioare are un caine,qa_factoid,1.0,1.0,True
+13516,ro-RO,qa,qa_factoid,de ce sunt mari balenele,qa_definition,0.9956,0.0021,False
+13546,ro-RO,qa,qa_factoid,care e ultimul film in care a jucat will smith,qa_factoid,0.8473,0.8473,True
+13554,ro-RO,qa,qa_factoid,cat de inalt e brad pitt,social_post,0.7733,0.1758,False
+13575,ro-RO,qa,qa_factoid,cand a fost ultimul film care a castigat oscar,qa_factoid,0.9915,0.9915,True
+13580,ro-RO,qa,qa_factoid,cat de inalt este muntele everest,qa_factoid,0.5323,0.5323,True
+13591,ro-RO,qa,qa_factoid,care e capitala statului west virginia,weather_query,0.9972,0.0001,False
+13592,ro-RO,qa,qa_factoid,unde se afla noua zeelanda pe harta,qa_factoid,1.0,1.0,True
+13604,ro-RO,qa,qa_factoid,spune-mi unde s-a nascut steve jobs,qa_factoid,0.8006,0.8006,True
+13607,ro-RO,qa,qa_factoid,poți să îmi spui dacă piersic junior este căsătorit,qa_factoid,0.9978,0.9978,True
+13616,ro-RO,qa,qa_factoid,unde se întâlnesc majoritatea vedetelor,qa_factoid,0.9555,0.9555,True
+13619,ro-RO,recommendation,recommendation_events,sunt ceva evenimente gratis în zona mea azi,qa_factoid,0.9338,0.0052,False
+13625,ro-RO,qa,qa_definition,care e cel mai mare birou,qa_factoid,0.9646,0.0002,False
+13636,ro-RO,qa,qa_factoid,care e ziua de nastere a lui arnold schwarzenegger's,datetime_query,0.609,0.0752,False
+13679,ro-RO,qa,qa_factoid,imi poti spune cate stomacuri are o vaca,qa_factoid,0.9269,0.9269,True
+13681,ro-RO,qa,qa_factoid,in cate piese a fost patrick stewart,qa_factoid,0.981,0.981,True
+13683,ro-RO,qa,qa_factoid,ce marca de fixativ foloseste traian basescu,qa_factoid,0.619,0.619,True
+13689,ro-RO,qa,qa_definition,ce e un scaun,qa_factoid,0.8287,0.0,False
+13690,ro-RO,qa,qa_factoid,ce culoare sunt scaunele,iot_hue_lightoff,0.7693,0.1775,False
+13693,ro-RO,qa,qa_factoid,unde este primul meridian,weather_query,0.4322,0.1701,False
+13705,ro-RO,qa,qa_definition,ce este un sistem electronic de emisii,qa_definition,0.8623,0.8623,True
+13706,ro-RO,qa,qa_definition,descrie un rotor,qa_definition,0.9993,0.9993,True
+13714,ro-RO,qa,qa_definition,ce e un mango,weather_query,0.8114,0.0011,False
+13717,ro-RO,qa,qa_factoid,chiar poti vedea rusia din alaska,iot_hue_lightoff,0.9161,0.083,False
+13758,ro-RO,qa,qa_factoid,ce varsta are anda adam,social_post,0.664,0.1878,False
+13761,ro-RO,qa,qa_factoid,ce este un parsec,qa_definition,0.8516,0.1128,False
+13774,ro-RO,qa,qa_factoid,cat de departe e bihor de constanta,qa_factoid,1.0,1.0,True
+13777,ro-RO,qa,qa_definition,ce este un card de credit,email_sendemail,0.8481,0.0021,False
+13780,ro-RO,qa,qa_factoid,e casatorit ianis hagi,qa_factoid,1.0,1.0,True
+13798,ro-RO,qa,qa_factoid,cate mile patrate e media tarilor pe glob,qa_factoid,0.9993,0.9993,True
+13799,ro-RO,qa,qa_definition,defineste subjugat,qa_definition,0.9979,0.9979,True
+13823,ro-RO,qa,qa_factoid,cat de departe e soarele,weather_query,0.8478,0.0215,False
+13853,ro-RO,qa,qa_factoid,unde pe pamant sunt cei mai multi vulcani,qa_factoid,0.3448,0.3448,True
+13854,ro-RO,qa,qa_factoid,cand a murit elvis,qa_factoid,0.9814,0.9814,True
+13863,ro-RO,qa,qa_definition,care e definitia la logica,qa_definition,0.9497,0.9497,True
+13867,ro-RO,qa,qa_factoid,unde este parcul retezat,qa_factoid,0.2792,0.2792,True
+13869,ro-RO,qa,qa_factoid,te rog cauta pe google locatia si informatii despre muntele rushmore,qa_factoid,0.9961,0.9961,True
+13871,ro-RO,qa,qa_definition,cum poti descrie o zi de nastere fericita,qa_factoid,0.3922,0.2189,False
+13881,ro-RO,qa,qa_factoid,da-mi informatii despre michael jackson,social_post,0.3605,0.0436,False
+13888,ro-RO,qa,qa_factoid,care e temperatura in turda cluj,iot_hue_lightoff,0.7164,0.0203,False
+13895,ro-RO,qa,qa_factoid,poti sa-mi spui despre gica hagi,social_post,0.8745,0.0877,False
+13900,ro-RO,qa,qa_definition,definiția vietii,qa_definition,0.9842,0.9842,True
+13907,ro-RO,qa,qa_definition,defineste uluit,qa_definition,0.9993,0.9993,True
+13908,ro-RO,qa,qa_definition,poti sa-mi spui ce inseamna uluit,qa_definition,0.9416,0.9416,True
+13926,ro-RO,qa,qa_factoid,cand e ziua de nastere a lui hemingway,weather_query,0.8933,0.0247,False
+13927,ro-RO,qa,qa_factoid,cât valorează gică hagi,qa_factoid,1.0,1.0,True
+13974,ro-RO,qa,qa_factoid,unde se afla laos,qa_factoid,0.9999,0.9999,True
+13983,ro-RO,qa,qa_definition,sufera consecinte,qa_factoid,0.2859,0.0237,False
+13984,ro-RO,qa,qa_definition,consecinta actiunilor,lists_remove,0.4522,0.0162,False
+13997,ro-RO,qa,qa_factoid,cat costa o casa medie,qa_factoid,0.9082,0.9082,True
+14000,ro-RO,qa,qa_definition,descrie un lenes,qa_definition,0.9983,0.9983,True
+14001,ro-RO,qa,qa_factoid,spune-mi tot ce stii despre lenesi,social_post,0.9546,0.006,False
+14011,ro-RO,qa,qa_factoid,cand e ziua de nastere a angelei similea,qa_factoid,0.8878,0.8878,True
+14015,ro-RO,qa,qa_factoid,care sunt coordonatele ecuatorului,qa_factoid,0.997,0.997,True
+14023,ro-RO,qa,qa_definition,descrie iadul,qa_factoid,0.5798,0.2802,False
+14033,ro-RO,qa,qa_factoid,spune-mi cand s-a nascut obama,qa_factoid,0.9714,0.9714,True
+14038,ro-RO,qa,qa_factoid,unde se afla moldova,qa_factoid,0.943,0.943,True
+14040,ro-RO,qa,qa_factoid,cat de inalt este hulk hogan,qa_factoid,0.9976,0.9976,True
+14053,ro-RO,qa,qa_factoid,in ce an a inceput florin piersic sa joace,cooking_recipe,0.9986,0.0,False
+14063,ro-RO,qa,qa_factoid,ziua de naștere a lui elvis presley,social_post,0.6587,0.0272,False
+14083,ro-RO,qa,qa_factoid,unde traieste acum jackie chan,social_post,0.7085,0.14,False
+14096,ro-RO,qa,qa_factoid,unde sunt muntii bucegi,social_post,0.9808,0.0008,False
+14115,ro-RO,qa,qa_definition,dati detalii despre nisip de roca,qa_factoid,0.4681,0.0115,False
+14116,ro-RO,qa,qa_definition,descrie nisip de piatra,cooking_recipe,0.667,0.3131,False
+14117,ro-RO,qa,qa_factoid,unde sunt localizate piramidele,lists_query,0.2956,0.1007,False
+14118,ro-RO,qa,qa_factoid,arata detaliile geografice ale piramidelor,lists_query,0.8418,0.0046,False
+14126,ro-RO,qa,qa_factoid,arata biografia lui rihana,qa_factoid,0.9484,0.9484,True
+14138,ro-RO,qa,qa_definition,spune mi te rog care este definitia pentru cilindru,qa_definition,1.0,1.0,True
+14147,ro-RO,qa,qa_definition,defineste patura,qa_definition,0.9986,0.9986,True
+14150,ro-RO,qa,qa_definition,ce sunt papuci converse,qa_definition,0.964,0.964,True
+14151,ro-RO,qa,qa_factoid,ce fel de ochelari de soare sunt considerati aviatori,qa_definition,0.8744,0.1105,False
+14154,ro-RO,qa,qa_factoid,info despre africa,qa_factoid,0.979,0.979,True
+14163,ro-RO,qa,qa_factoid,caută localitatea,qa_factoid,1.0,1.0,True
+14169,ro-RO,qa,qa_factoid,unde a urmat colegiul amal clooney,qa_factoid,0.756,0.756,True
+14170,ro-RO,qa,qa_factoid,poarta kim kardashian converse,social_post,0.9943,0.0003,False
+14179,ro-RO,qa,qa_factoid,cat de departe e canada de locatia mea,qa_factoid,0.9956,0.9956,True
+14214,ro-RO,transport,transport_query,gaseste caile de transport pentru aceleasi,transport_query,0.9943,0.9943,True
+14229,ro-RO,qa,qa_factoid,in ce filme a jucat emma watson,qa_factoid,0.2549,0.2549,True
+14243,ro-RO,qa,qa_factoid,detalii despre persoana,email_sendemail,0.9047,0.0172,False
+14272,ro-RO,qa,qa_definition,hei ce este o carte,iot_hue_lightoff,0.5777,0.004,False
+14283,ro-RO,qa,qa_factoid,spune mi despre constanța,qa_definition,0.8865,0.1096,False
+14306,ro-RO,qa,qa_factoid,explica locatia geografica a indiei,social_post,0.914,0.0111,False
+14308,ro-RO,qa,qa_factoid,care este valoarea neta a lui leonardo dicaprio,qa_factoid,1.0,1.0,True
+14316,ro-RO,qa,qa_factoid,cat de mare este prahova,qa_factoid,0.7838,0.7838,True
+14317,ro-RO,qa,qa_factoid,care este dimensiunea statelor unite,qa_factoid,0.9997,0.9997,True
+14323,ro-RO,qa,qa_factoid,ce culoare are fructul dragonului,iot_hue_lightoff,0.9834,0.0085,False
+14330,ro-RO,qa,qa_factoid,unde s-a nascut ion tiriac,qa_factoid,0.5503,0.5503,True
+14347,ro-RO,qa,qa_definition,ce este o ipoteza,qa_factoid,1.0,0.0,False
+14354,ro-RO,qa,qa_factoid,care este răspunsul universului,qa_factoid,0.9666,0.9666,True
+14355,ro-RO,qa,qa_factoid,câte scoici a vândut sally lângă malul mării,qa_factoid,0.9509,0.9509,True
+14370,ro-RO,qa,qa_factoid,spune-mi profesia vedetei,play_radio,0.3216,0.2265,False
+14378,ro-RO,qa,qa_definition,defineste velocitate,qa_factoid,0.6528,0.1948,False
+14382,ro-RO,qa,qa_factoid,cat de mare e empire state building,lists_query,0.0572,0.0567,False
+14395,ro-RO,qa,qa_factoid,care este cel mai adanc punct de pe glob,qa_factoid,0.8338,0.8338,True
+14414,ro-RO,qa,qa_definition,descrie un hard disc,qa_definition,0.9921,0.9921,True
+14417,ro-RO,qa,qa_factoid,care ocean atinge continentul nostru,weather_query,0.8203,0.1437,False
+14419,ro-RO,qa,qa_factoid,andreea va avea un nou film anul acesta,email_sendemail,0.7687,0.0132,False
+14429,ro-RO,qa,qa_definition,ce e un caftan,qa_factoid,0.7554,0.0057,False
+14440,ro-RO,qa,qa_factoid,care e capitala romaniei,qa_factoid,0.269,0.269,True
+14442,ro-RO,qa,qa_factoid,unde e fiji,qa_factoid,0.803,0.803,True
+14444,ro-RO,qa,qa_factoid,care a fost primul film a lui florin piersic,qa_factoid,0.1099,0.1099,True
+14449,ro-RO,qa,qa_factoid,delia are un nou copil,email_sendemail,0.9997,0.0003,False
+14457,ro-RO,qa,qa_factoid,cauta ruta,qa_factoid,1.0,1.0,True
+14465,ro-RO,transport,transport_query,directii spre disney land,qa_factoid,0.9785,0.0005,False
+14490,ro-RO,qa,qa_factoid,cand a fost construit teatrul mare,qa_factoid,0.4643,0.4643,True
+14498,ro-RO,qa,qa_definition,descrie-mi ce este un telefon inteligent,qa_definition,0.4601,0.4601,True
+14504,ro-RO,qa,qa_factoid,olly câte întâlniri a avut mircea dinescu,recommendation_events,0.9984,0.0,False
+14505,ro-RO,qa,qa_factoid,cine este prin ministrul curent al romaniei,social_post,0.9999,0.0,False
+14508,ro-RO,qa,qa_factoid,te rog fa un rezumat la ultima carte a lui george r. r. martine gheata si focul,cooking_recipe,0.3075,0.0187,False
+14509,ro-RO,qa,qa_factoid,unde s-a nascut mihai eminescu,social_post,0.9972,0.0004,False
+14539,ro-RO,qa,qa_factoid,cauta date geografice despre acest loc,datetime_query,0.742,0.1817,False
+14545,ro-RO,qa,qa_factoid,spune-mi despre locatia indiei,qa_factoid,0.8923,0.8923,True
+14567,ro-RO,qa,qa_factoid,care e cel mai mare vulcan activ de pe glob,qa_factoid,0.9998,0.9998,True
+14585,ro-RO,qa,qa_factoid,cat o sa imi ia sa calatoresc in serbia din romania,qa_factoid,0.9983,0.9983,True
+14591,ro-RO,qa,qa_definition,da-mi o descriere a unui circuit de televizor,cooking_recipe,0.7962,0.1967,False
+14592,ro-RO,qa,qa_definition,poti sa-mi descrii circuitul unui smartphone,qa_definition,0.9751,0.9751,True
+14597,ro-RO,qa,qa_factoid,care este populatia orasului vaslui,qa_factoid,0.3966,0.3966,True
+14601,ro-RO,qa,qa_factoid,cati ani a fost presedinte al statelor unite abraham lincoln,qa_factoid,0.9768,0.9768,True
+14605,ro-RO,qa,qa_factoid,l a parasit angelina jolie pe brad pitt,qa_factoid,0.6819,0.6819,True
+14608,ro-RO,qa,qa_factoid,la ce film nou lucreaza jennifer lawrence,qa_factoid,0.9758,0.9758,True
+14622,ro-RO,qa,qa_definition,descrie ce este o sfera,qa_definition,0.9995,0.9995,True
+14648,ro-RO,cooking,cooking_recipe,reteta te rog,qa_factoid,1.0,0.0,False
+14653,ro-RO,qa,qa_factoid,care este populația rusiei,qa_factoid,0.7758,0.7758,True
+14661,ro-RO,qa,qa_factoid,care e anul de nastere a lui traian basescu,qa_factoid,0.4956,0.4956,True
+14668,ro-RO,qa,qa_definition,descrie articolul xy,cooking_recipe,0.4548,0.0556,False
+14683,ro-RO,qa,qa_factoid,care este hobbv-ul lui mihai bendeac,qa_factoid,0.9852,0.9852,True
+14684,ro-RO,qa,qa_factoid,cine este prim ministrul romaniei,qa_factoid,0.774,0.774,True
+14690,ro-RO,qa,qa_definition,ok google ce este un presedinte,qa_definition,0.9537,0.9537,True
+14700,ro-RO,qa,qa_definition,ce este mai exact o plomba,qa_factoid,0.6322,0.32,False
+14701,ro-RO,qa,qa_definition,descrie jocul de carti numit septica,qa_definition,0.9995,0.9995,True
+14705,ro-RO,qa,qa_factoid,ok google unde traieste oana pelea,qa_factoid,0.6697,0.6697,True
+14706,ro-RO,qa,qa_factoid,unde locuieste loredana groza,qa_factoid,0.9454,0.9454,True
+14746,ro-RO,qa,qa_factoid,care este capitala romaniei,qa_factoid,0.966,0.966,True
+14761,ro-RO,qa,qa_definition,defineste-mi cuvantul pontaj,qa_definition,0.9593,0.9593,True
+14767,ro-RO,qa,qa_definition,cum ai descrie o minge,iot_hue_lightoff,0.7795,0.0999,False
+14770,ro-RO,qa,qa_factoid,spune-mi cel mai mare ocean din lume,qa_factoid,0.9968,0.9968,True
+14787,ro-RO,qa,qa_factoid,care este diferenta intre calendarul roman si cel gregorian,calendar_query,0.9438,0.0008,False
+14791,ro-RO,qa,qa_factoid,cum se construieste un scaun,cooking_recipe,0.636,0.3415,False
+14794,ro-RO,qa,qa_factoid,care e masina preferata a lui cheloo,qa_factoid,0.9865,0.9865,True
+14822,ro-RO,qa,qa_factoid,a compara in oameni,social_post,0.9723,0.0119,False
+14838,ro-RO,qa,qa_factoid,ce este un filtru cu densitate neutră și aș vrea unul gradat sau unul solid de asemenea care ar fi mai bun ca stil cel cu șurub sau cele pătrate,lists_query,0.2186,0.0918,False
+14857,ro-RO,qa,qa_definition,poti sa mi explici ce inseamna exorbitant,qa_definition,0.9993,0.9993,True
+14877,ro-RO,qa,qa_factoid,care sunt conditiile climatice din aceasta zona,qa_factoid,0.4837,0.4837,True
+14879,ro-RO,qa,qa_definition,insemnatatea,qa_factoid,0.9885,0.0007,False
+14884,ro-RO,qa,qa_factoid,care e cel mai putin vulnerabil stat la tornade din statele unite,qa_factoid,0.9997,0.9997,True
+14889,ro-RO,qa,qa_definition,te rog descrie acel obiect pentru mine,qa_factoid,0.7386,0.233,False
+14891,ro-RO,qa,qa_factoid,în ce domeniu excelează acea persoană,qa_factoid,0.999,0.999,True
+14912,ro-RO,qa,qa_factoid,unde s-a nascut presedintele iliescu,qa_factoid,0.9869,0.9869,True
+14917,ro-RO,qa,qa_factoid,când va fi lansat noul album a lui dan bittman,qa_factoid,0.7705,0.7705,True
+14933,ro-RO,qa,qa_factoid,spune-mi informatii despre geografia indiei,qa_definition,0.8243,0.0397,False
+14939,ro-RO,qa,qa_factoid,am nevoie de cateva detalii despre bruce lee va rog ajutati,qa_factoid,0.2528,0.2528,True
+14981,ro-RO,qa,qa_definition,descriere iphone sapte,cooking_recipe,0.6314,0.2329,False
+14994,ro-RO,qa,qa_factoid,care este următorul film al lui denzel washington,qa_factoid,0.0591,0.0591,True
+14995,ro-RO,qa,qa_definition,ce inseamna situatie,qa_definition,0.9639,0.9639,True
+15020,ro-RO,qa,qa_factoid,cati ani are florin piersic,qa_factoid,0.8591,0.8591,True
+15039,ro-RO,qa,qa_factoid,olly unde incep muntii carpati,qa_factoid,0.5897,0.5897,True
+15055,ro-RO,qa,qa_factoid,care pol este cel mai rece sud sau nord,qa_factoid,0.9775,0.9775,True
+15056,ro-RO,qa,qa_factoid,ce varsta are ultimul prieten a lui emma watson,social_post,0.9844,0.0089,False
+15062,ro-RO,qa,qa_factoid,informatii despre lisa ann te rog,email_query,0.6619,0.0561,False
+15075,ro-RO,qa,qa_factoid,olly unde s-au stablit primii americani,qa_factoid,0.9792,0.9792,True
+15092,ro-RO,qa,qa_definition,gaseste o descrie a unui televizor samsung,cooking_recipe,0.9998,0.0001,False
+15094,ro-RO,qa,qa_factoid,cauta numarul de locuitori lugoj timis,qa_factoid,0.9129,0.9129,True
+15095,ro-RO,qa,qa_factoid,in ce regiune se afla miami,qa_factoid,0.9999,0.9999,True
+15127,ro-RO,qa,qa_definition,defineste difuzor,qa_definition,0.9899,0.9899,True
+15155,ro-RO,social,social_post,poți să încarci ultimul meu selfie în contul meu de facebook,social_post,0.9989,0.9989,True
+15166,ro-RO,social,social_post,postează afacerea mea pe twitter,social_post,0.9999,0.9999,True
+15177,ro-RO,social,social_post,te rog reposteaza aceasta postare pe twitter,social_post,0.9964,0.9964,True
+15185,ro-RO,social,social_post,urări de zi de naștere,lists_query,0.3151,0.0535,False
+15186,ro-RO,social,social_post,urări de nuntă,social_post,0.969,0.969,True
+15187,ro-RO,social,social_post,distribuie postarea prietenilor,social_post,0.9986,0.9986,True
+15197,ro-RO,social,social_post,posteaza pe twitter despre vizita mea in japonia,social_post,1.0,1.0,True
+15208,ro-RO,social,social_post,postează buna tuturor pe facebook,social_post,0.9998,0.9998,True
+15213,ro-RO,news,news_query,care este tendinta acum,qa_factoid,0.9939,0.0002,False
+15214,ro-RO,news,news_query,care sunt stirile de azi,news_query,0.9989,0.9989,True
+15216,ro-RO,social,social_post,trimite un tweet pentru mine,social_post,0.9967,0.9967,True
+15231,ro-RO,social,social_post,postează pe instagram poza călătoria mea la goa,social_post,0.9999,0.9999,True
+15271,ro-RO,social,social_post,postează asta pe pagina mea de facebook l. o. l.,social_post,0.9999,0.9999,True
+15275,ro-RO,social,social_post,posteaza sunt fericit pe facebook,social_post,0.9999,0.9999,True
+15276,ro-RO,social,social_post,posteaza un nou status pe facebook care sa spuna ca ma bucur de vremea frumoasa,social_post,1.0,1.0,True
+15289,ro-RO,social,social_post,posteaza mesajul acum,social_post,0.5131,0.5131,True
+15305,ro-RO,calendar,calendar_query,am eu vreo notificare de la social media,social_post,0.667,0.0,False
+15318,ro-RO,social,social_post,vă mulțumesc tuturor pentru urările de ziua de naștere,email_sendemail,0.8187,0.0104,False
+15337,ro-RO,social,social_post,postează acest video pe facebook,social_post,0.9999,0.9999,True
+15350,ro-RO,social,social_post,sunt nemulțumită de real te rog să mă ajuți,qa_factoid,0.5281,0.0655,False
+15358,ro-RO,social,social_post,olly tweet apple ca iphone ul lor nu merge,social_post,0.6153,0.6153,True
+15359,ro-RO,social,social_post,deschide tweet catre apple ca bateria telefonului meu este mereu descarcata,iot_hue_lightoff,0.936,0.0006,False
+15364,ro-RO,social,social_post,informeaza amazon ca acest nou telefon este gunoi,qa_factoid,0.9607,0.0012,False
+15382,ro-RO,social,social_post,poti contacta samsung sa le zici ca luat foc masina de spalat,qa_factoid,0.97,0.0035,False
+15387,ro-RO,social,social_post,tweet locația mea actuală,social_post,0.9971,0.9971,True
+15399,ro-RO,social,social_post,redirectioneaza plangerea catre vodafone pentru probleme legate de rețea,iot_hue_lightoff,0.8469,0.0027,False
+15401,ro-RO,social,social_post,deschide twitter trimite mesaj,social_post,0.6416,0.6416,True
+15402,ro-RO,social,social_post,scrie un tweet ca acest produs e nasol,social_post,0.9993,0.9993,True
+15409,ro-RO,social,social_post,deschide twitter scrie plangerea mea si posteaza la serviciul clienti,social_post,0.9992,0.9992,True
+15413,ro-RO,social,social_post,fă mi de îndată legătura cu cineva,social_post,0.7168,0.7168,True
+15444,ro-RO,social,social_post,două degete în jos la nume companie,iot_hue_lightoff,0.6756,0.0091,False
+15448,ro-RO,social,social_post,scrie un tweet despre problemele de la emag cu volumul,social_post,0.9916,0.9916,True
+15454,ro-RO,social,social_post,scrie pe twitter catre blue air sunt nervos mi ati pierdut bagajele,social_post,0.9998,0.9998,True
+15456,ro-RO,social,social_post,tweet wizz air sunt supărat că mi-ați pierdut bagajele,social_post,0.9999,0.9999,True
+15457,ro-RO,social,social_post,am o problema cu burger ul meu poti sa dai un tweet burger king,social_post,0.8677,0.8677,True
+15459,ro-RO,social,social_post,trimite o reclamatie pe twitter,social_post,0.784,0.784,True
+15464,ro-RO,social,social_post,nu am primit produsul la timp trimite un tweet la lidl,qa_factoid,0.6577,0.3169,False
+15467,ro-RO,social,social_post,spune le la telekom ca ii urasc,qa_factoid,0.9842,0.0002,False
+15472,ro-RO,social,social_post,scrie pe twitter o plângere la librăria online,social_post,0.9987,0.9987,True
+15487,ro-RO,social,social_post,scrie pe twitter la kohls despre curățenia magazinului lor,social_post,0.9997,0.9997,True
+15488,ro-RO,social,social_post,dă un tweet către pizzahut am așteptat după livrarea mea timp de număr deloc fericit,social_post,0.9993,0.9993,True
+15503,ro-RO,social,social_post,trimite un tweet nou la serviciul clienți,social_post,0.9986,0.9986,True
+15508,ro-RO,social,social_post,siri deschide twitter si tweet ca presedintele statelor unite ale americii e jalnic,social_post,0.996,0.996,True
+15518,ro-RO,social,social_post,trimite o plangere printr un tweet catre bershka,social_post,0.99,0.99,True
+15532,ro-RO,social,social_post,scrie pe twitter celor de la cora și spunele ca serviciul clienți este oribil,social_post,0.9995,0.9995,True
+15546,ro-RO,social,social_post,scrie un mesaj tweet la presto pizza,email_sendemail,0.9973,0.0027,False
+15548,ro-RO,social,social_post,scrie un tweet catre samsung in legatura cu o plangere despre telefoanele mobile,social_post,0.9999,0.9999,True
+15553,ro-RO,social,social_post,tweet negativ te rog la daikin service,social_post,0.9901,0.9901,True
+15554,ro-RO,social,social_post,te rog trimite un tweet către service ul dell pentru întârziere,social_post,0.9974,0.9974,True
+15556,ro-RO,social,social_post,hai să scriem un tweet de plângere,email_sendemail,0.5006,0.4846,False
+15557,ro-RO,social,social_post,scrie pe twitter o reclamatie,social_post,0.7392,0.7392,True
+15560,ro-RO,social,social_post,posteaza pe facebook imi este foame,social_post,1.0,1.0,True
+15565,ro-RO,social,social_post,poți sa le zici la blue air că nu o să le mai folosesc servicile niciodata,qa_factoid,0.9767,0.0141,False
+15587,ro-RO,social,social_post,deschide galeria postează numele pozei,social_post,0.9996,0.9996,True
+15592,ro-RO,social,social_post,trimite tweet plângere către digi,social_post,0.9737,0.9737,True
+15593,ro-RO,social,social_post,tweet plângere la flanco,social_post,0.9999,0.9999,True
+15598,ro-RO,social,social_post,deschide numele companiei si cauta plangerile,recommendation_events,0.2743,0.0688,False
+15610,ro-RO,social,social_post,tweet în contul meu e dimineață holograf,email_query,0.6349,0.1094,False
+15618,ro-RO,social,social_post,tweet omniasig si spune le ca sunt de rahat,social_post,0.9996,0.9996,True
+15626,ro-RO,social,social_post,scrie pe twitter o plângere către telekom pentru serviciul prost pentru clienți,social_post,0.9977,0.9977,True
+15634,ro-RO,social,social_post,ok google fa un tweet despre ce nesimțit e patronul de la stația de benzină,social_post,0.9994,0.9994,True
+15635,ro-RO,social,social_post,tweet mcdonald's berceni că au servicii proaste,social_post,0.9982,0.9982,True
+15647,ro-RO,social,social_post,tweet o plângere la,social_post,0.9996,0.9996,True
+15651,ro-RO,social,social_post,trimite un raport către serviciul pentru consumatori,recommendation_events,0.3322,0.0429,False
+15652,ro-RO,social,social_post,trimite plângere la serviciul pentru consumatori,email_sendemail,0.6936,0.0135,False
+15655,ro-RO,social,social_post,scrie pe twitter la customer service-ul de la google că noul meu telefon nexus nu mai funcționează ajutor te rog,social_post,0.9445,0.9445,True
+15656,ro-RO,social,social_post,scrie un mesaj pe twitter celor de la pizza hut că eu încă îmi aștept livrarea,social_post,0.9999,0.9999,True
+15661,ro-RO,social,social_post,posteaza ultima mea postare pe twitter la n.s.a.,social_post,1.0,1.0,True
+15670,ro-RO,social,social_post,trimite un tweet cu reclamatie,social_post,0.9897,0.9897,True
+15672,ro-RO,social,social_post,scrie pe twitter celor de la apple despre neprimirea iphonului trimis pentru reparații săptămâna trecută,social_post,0.8576,0.8576,True
+15676,ro-RO,social,social_post,te rog adauga o plangere in tweet despre serviciu la hanul cu bere,social_post,0.7797,0.7797,True
+15686,ro-RO,social,social_post,buna ziua articolul pe care l-am cumparat de la cineva nu mai functioneaza,qa_factoid,0.9553,0.0189,False
+15693,ro-RO,social,social_post,scrie un tweet că am găsit o insectă în foietajul cu ciocolată,social_post,0.9289,0.9289,True
+15700,ro-RO,social,social_post,produse expirate pe piață recent,lists_remove,0.9505,0.0012,False
+15703,ro-RO,social,social_post,scrie pe twitter celor de la zara ca rămân fără mărimi prea repede,social_post,0.9988,0.9988,True
+15706,ro-RO,social,social_post,tweet arond,social_post,0.9913,0.9913,True
+15707,ro-RO,social,social_post,hai sa trimitem un tweet,iot_hue_lightoff,0.7287,0.1682,False
+15708,ro-RO,social,social_post,postati o reclamatie privind serviciul a,social_post,0.987,0.987,True
+15721,ro-RO,social,social_post,postează pe twitter o fata dezgustata despre mcdonalds,social_post,1.0,1.0,True
+15723,ro-RO,social,social_post,seteaza ma simt fericit ca si status pe facebook,social_post,0.9979,0.9979,True
+15731,ro-RO,social,social_post,olly scrie un tweet către vodafone și spune le că semnalul meu e prost,qa_factoid,0.8674,0.0541,False
+15732,ro-RO,social,social_post,trimite un tweet la samsung și spune-le să nu mai omoare oameni cu produsele lor,social_post,0.9985,0.9985,True
+15736,ro-RO,social,social_post,trimite o recenzie negativa despre o companie,qa_factoid,0.8732,0.0207,False
+15756,ro-RO,email,email_sendemail,te rog trimite un email echipei mele,email_sendemail,1.0,1.0,True
+15763,ro-RO,email,email_query,te rog verifica daca sunt email-uri noi,email_sendemail,1.0,0.0,False
+15765,ro-RO,email,email_sendemail,raspunde la email ul lui pavel,email_sendemail,1.0,1.0,True
+15777,ro-RO,email,email_query,spune mi daca am noi email uri,email_sendemail,1.0,0.0,False
+15785,ro-RO,email,email_query,e ceva nou in casuta mea postala,email_sendemail,0.9998,0.0002,False
+15789,ro-RO,email,email_query,olly am vreun email nou,email_sendemail,1.0,0.0,False
+15792,ro-RO,calendar,calendar_query,cu cine mă întâlnesc azi,social_post,0.9997,0.0,False
+15796,ro-RO,email,email_sendemail,trimite email mirunei,email_sendemail,1.0,1.0,True
+15802,ro-RO,email,email_sendemail,raspunde cu email catre cristian ca nu voi veni deseara,email_sendemail,1.0,1.0,True
+15809,ro-RO,email,email_query,am ceva emailuri de la robert deja,email_sendemail,1.0,0.0,False
+15825,ro-RO,email,email_sendemail,răspunde-i tatălui meu scrie că voi întârzia,qa_factoid,0.8271,0.008,False
+15828,ro-RO,email,email_sendemail,uite o noua adresa de e-mail care trebuie adaugata la contacte,email_sendemail,1.0,1.0,True
+15829,ro-RO,email,email_sendemail,mergi la contacte si introdu o noua adresa de email,email_sendemail,0.9998,0.9998,True
+15839,ro-RO,email,email_query,subiect,qa_factoid,0.5883,0.0052,False
+15841,ro-RO,email,email_sendemail,compune un nou email către radu,email_sendemail,1.0,1.0,True
+15845,ro-RO,email,email_sendemail,cum a ajuns la noi,qa_factoid,0.9183,0.0002,False
+15847,ro-RO,email,email_sendemail,cum putem obtine credit,qa_factoid,0.7871,0.0038,False
+15849,ro-RO,email,email_sendemail,trimite un email sefului meu,email_sendemail,1.0,1.0,True
+15857,ro-RO,email,email_sendemail,te rog trimite la noua adresă de email listată,email_sendemail,1.0,1.0,True
+15862,ro-RO,email,email_query,cauta email urile primite de la mama,email_sendemail,1.0,0.0,False
+15880,ro-RO,email,email_query,te rog verifica-mi mail-urile,email_sendemail,1.0,0.0,False
+15890,ro-RO,email,email_query,vezi daca am email uri noi de la tata,email_sendemail,1.0,0.0,False
+15904,ro-RO,email,email_query,verifică-mi noile e-mailuri și spune-mi despre ce e vorba în ele,email_sendemail,1.0,0.0,False
+15906,ro-RO,email,email_sendemail,raspunde cu multumesc lui marian,email_sendemail,0.9988,0.9988,True
+15911,ro-RO,email,email_sendemail,pregateste email pentru lavinia,email_sendemail,1.0,1.0,True
+15933,ro-RO,email,email_query,ce emailuri noi am,email_sendemail,1.0,0.0,False
+15942,ro-RO,email,email_sendemail,trimite acest email ca raspuns la ultimele emailuri,email_sendemail,1.0,1.0,True
+15950,ro-RO,email,email_sendemail,raspunde la emailul de la aurel popescu,email_sendemail,1.0,1.0,True
+15957,ro-RO,email,email_sendemail,trimite i un email alinei să știe că suntem pe drum,email_sendemail,1.0,1.0,True
+15963,ro-RO,email,email_query,am vreun email nou de la mihai,email_sendemail,1.0,0.0,False
+15966,ro-RO,email,email_query,trimite un raspuns daca este foarte important,qa_factoid,0.9873,0.0005,False
+15968,ro-RO,email,email_query,daca este de la un loc foarte cunoscut marcheaza-l ca fiind important,social_post,0.9832,0.0005,False
+15970,ro-RO,email,email_query,care a fost subiectul ultimului e-mail de la mama,email_sendemail,1.0,0.0,False
+15971,ro-RO,email,email_query,care a fost ultimul email de la munca,email_sendemail,1.0,0.0,False
+15994,ro-RO,email,email_sendemail,trimite un email lui ion si intreaba l la ce ora ar fi bine sa fie sedinta,email_sendemail,1.0,1.0,True
+15995,ro-RO,email,email_sendemail,trimite email catre delia in legatura cu sedinta de buget,email_sendemail,1.0,1.0,True
+15998,ro-RO,email,email_query,cauta in email urile mele ceva de la numele,email_sendemail,0.734,0.266,False
+16002,ro-RO,email,email_query,verifica dupa email nou,email_query,0.9738,0.9738,True
+16005,ro-RO,email,email_sendemail,trimite email catre jean arond gmail punct com,email_sendemail,1.0,1.0,True
+16010,ro-RO,email,email_query,spune mi dacă am ceva mesaje noi în inbox,email_sendemail,0.6405,0.1332,False
+16024,ro-RO,email,email_sendemail,trimite un email lui robert si spune i ca sunt ocupat maine,email_sendemail,1.0,1.0,True
+16028,ro-RO,email,email_sendemail,hei siri începe un email către coleg,email_sendemail,1.0,1.0,True
+16029,ro-RO,email,email_sendemail,te rog compune un nou email catre coleg,email_sendemail,1.0,1.0,True
+16032,ro-RO,email,email_sendemail,te rog trimite un email mariei privind ședința de mâine,email_sendemail,1.0,1.0,True
+16038,ro-RO,email,email_query,hai mi a dat daniel vreun email in ultima vreme,email_sendemail,1.0,0.0,False
+16045,ro-RO,email,email_sendemail,trimite mail lui ilie cu orarul de deschidere a biroului,email_sendemail,1.0,1.0,True
+16048,ro-RO,email,email_query,arata email urile recente,email_sendemail,1.0,0.0,False
+16049,ro-RO,email,email_sendemail,vreau sa trimit un e-mail familiei mele ma ajuti,email_sendemail,1.0,1.0,True
+16050,ro-RO,email,email_query,verifică gmail,email_query,0.8881,0.8881,True
+16052,ro-RO,email,email_query,verifica outlook,iot_hue_lightoff,0.5752,0.0184,False
+16056,ro-RO,email,email_sendemail,raspunde la email,email_sendemail,1.0,1.0,True
+16061,ro-RO,email,email_query,am primit email uri in ultimele zece minute,email_sendemail,1.0,0.0,False
+16072,ro-RO,email,email_sendemail,scrie i un email șefului meu că voi întârzia azi din cauza unei urgențe și că îmi cer scuze pentru că lipsesc de la întâlnire,email_sendemail,1.0,1.0,True
+16075,ro-RO,email,email_query,afișează email-urile recente de la marius,email_sendemail,1.0,0.0,False
+16082,ro-RO,email,email_sendemail,trimite un email lui petre si intreaba l cum se simte acum pot face ceva sa il ajut,email_sendemail,1.0,1.0,True
+16089,ro-RO,email,email_query,am primit email uri noi ultimele zece minute,email_sendemail,1.0,0.0,False
+16096,ro-RO,email,email_query,mia trimis alina vreun email nou,email_sendemail,1.0,0.0,False
+16098,ro-RO,email,email_query,verifică emailurile necitite de la andreea,email_sendemail,0.9574,0.0426,False
+16100,ro-RO,email,email_query,te rog cauta email care sa contina lista de locuri de munca,email_sendemail,0.9928,0.0072,False
+16103,ro-RO,email,email_sendemail,trimite email fratelui meu si spune aniversarea nuntii,email_sendemail,1.0,1.0,True
+16120,ro-RO,email,email_sendemail,ajutorul trebuie trimis doar mariei,qa_factoid,0.9038,0.0002,False
+16131,ro-RO,email,email_sendemail,acest nou e-mail ar trebui adăugat la contul meu,email_sendemail,1.0,1.0,True
+16145,ro-RO,email,email_query,afișează cele mai recente emailuri,email_sendemail,1.0,0.0,False
+16146,ro-RO,news,news_query,da mi ultimele actualitati,qa_factoid,0.8028,0.0034,False
+16148,ro-RO,email,email_sendemail,răspuns rapid către octav te rog trimite un email,email_sendemail,1.0,1.0,True
+16151,ro-RO,email,email_query,verifica programul sedintei in mail urile de azi,email_sendemail,1.0,0.0,False
+16162,ro-RO,email,email_sendemail,trimite raspuns,qa_factoid,0.8116,0.0017,False
+16163,ro-RO,email,email_query,de la cine am primit emailuri ieri,email_sendemail,1.0,0.0,False
+16165,ro-RO,email,email_query,a raspuns elena,social_post,0.5593,0.0012,False
+16166,ro-RO,email,email_sendemail,răspunde i lui carmen că voi fi ocupată cu proiectele pentru următoarele trei săptămâni,cooking_recipe,0.7298,0.0076,False
+16168,ro-RO,email,email_query,câte emailuri au intrat în ultimele cincisprezece minute,email_query,0.535,0.535,True
+16170,ro-RO,email,email_query,deschide inbox si cauta mail uri necitite,email_sendemail,1.0,0.0,False
+16178,ro-RO,email,email_query,vreun mail de la amazon azi,email_sendemail,1.0,0.0,False
+16183,ro-RO,email,email_query,verifica email ul in legatura cu job ul meu,email_sendemail,1.0,0.0,False
+16201,ro-RO,email,email_sendemail,te rog să încarci un nou e-mail pentru bogdan și să trimiți mesajul acum,email_sendemail,1.0,1.0,True
+16221,ro-RO,email,email_sendemail,deschide emailul corinei și scrie că o voi informa eu,email_sendemail,1.0,1.0,True
+16245,ro-RO,email,email_sendemail,trimite un email către george arond r. d. s. punct com,email_sendemail,1.0,1.0,True
+16248,ro-RO,email,email_query,te rog verifica mail ul meu,email_sendemail,1.0,0.0,False
+16263,ro-RO,email,email_query,am primit vreun email nou de la robert,email_sendemail,1.0,0.0,False
+16266,ro-RO,email,email_sendemail,scrie un email familiei mele cu textul va iubesc pe toti,email_sendemail,1.0,1.0,True
+16271,ro-RO,email,email_query,da refresh la inbox ul meu si informeaza ma despre email uri noi,email_sendemail,0.999,0.001,False
+16275,ro-RO,email,email_query,inițializează sondaj de opinie pentru un email nou,email_sendemail,0.989,0.0109,False
+16276,ro-RO,email,email_query,am emailuri noi,email_sendemail,1.0,0.0,False
+16280,ro-RO,email,email_sendemail,te rog trimite un email lui cami care este pe lista meade familie si prieteni,email_sendemail,1.0,1.0,True
+16282,ro-RO,email,email_sendemail,trimite i un email asistentei mele corina să anuleze toate programările de mâine,email_sendemail,1.0,1.0,True
+16296,ro-RO,email,email_sendemail,trimite i un email mamei să îi spui că petrecerea aniversară a lui cosmin este duminică,email_sendemail,1.0,1.0,True
+16297,ro-RO,email,email_sendemail,trimite i un email lui mircea și spune i mulțumesc,email_sendemail,1.0,1.0,True
+16314,ro-RO,email,email_sendemail,trimite un email catre margareta,email_sendemail,1.0,1.0,True
+16317,ro-RO,email,email_query,am primit e-mailuri noi de la simona,email_sendemail,1.0,0.0,False
+16318,ro-RO,email,email_sendemail,răspunde la email,email_sendemail,1.0,1.0,True
+16320,ro-RO,email,email_sendemail,doresc să răspund la emailul lui bogdan sorlea,email_sendemail,1.0,1.0,True
+16353,ro-RO,email,email_query,verifică dacă sunt emailuri de la șerban,email_sendemail,0.9999,0.0001,False
+16354,ro-RO,email,email_query,verifică dacă sunt emailuri de la angajatorul meu,email_sendemail,1.0,0.0,False
+16356,ro-RO,email,email_query,i am trimis email lui tiberiu despre subiectul despre controlul armelor,email_sendemail,1.0,0.0,False
+16357,ro-RO,email,email_query,mi a trimis tudor vreun email despre munitie,email_sendemail,1.0,0.0,False
+16361,ro-RO,email,email_query,am ceva emailuri noi primite în ultima oră,email_sendemail,1.0,0.0,False
+16373,ro-RO,email,email_query,am primit vreun e-mail cu numere de urmarire,email_sendemail,1.0,0.0,False
+16375,ro-RO,email,email_sendemail,compune un email catre luca,email_sendemail,1.0,1.0,True
+16376,ro-RO,email,email_sendemail,alexa te rog trimite un email catre mama,email_sendemail,1.0,1.0,True
+16377,ro-RO,email,email_sendemail,trimite i un email mamei acum,email_sendemail,1.0,1.0,True
+16384,ro-RO,email,email_query,hei am vreun email nou,email_sendemail,1.0,0.0,False
+16385,ro-RO,email,email_query,citeste emailurile noi,email_sendemail,1.0,0.0,False
+16398,ro-RO,email,email_sendemail,trimite i email ul lui martin,email_sendemail,1.0,1.0,True
+16399,ro-RO,email,email_query,am vreun email nou,email_sendemail,1.0,0.0,False
+16401,ro-RO,email,email_sendemail,scrie i un email mariei hei ce faci astăzi,email_sendemail,1.0,1.0,True
+16402,ro-RO,email,email_sendemail,trimite un email danei ai planuri azi,email_sendemail,1.0,1.0,True
+16406,ro-RO,email,email_sendemail,alexa începe un email,email_sendemail,1.0,1.0,True
+16410,ro-RO,email,email_sendemail,compune un email,email_sendemail,1.0,1.0,True
+16413,ro-RO,email,email_query,arată toate emailurile primite de la șeful meu,email_sendemail,1.0,0.0,False
+16419,ro-RO,email,email_sendemail,te rog trimite un email unchiului stefan cu urmatoarele da pot,email_sendemail,1.0,1.0,True
+16427,ro-RO,email,email_query,cate email uri noi am primit azi,email_sendemail,1.0,0.0,False
+16430,ro-RO,email,email_sendemail,te rog trimite le un email mamei și tatălui întrebând cum sunt,email_sendemail,1.0,1.0,True
+16437,ro-RO,email,email_sendemail,te rog trimite acest email prietenului meu,email_sendemail,1.0,1.0,True
+16438,ro-RO,email,email_sendemail,am nevoie ca acest email să fie trimis acum,email_sendemail,1.0,1.0,True
+16446,ro-RO,email,email_query,te rog verifica pentru un studiu de e-mail recent de la acest expeditor,email_sendemail,1.0,0.0,False
+16459,ro-RO,email,email_sendemail,mesaj nou la contact arond gmail punct com,email_sendemail,1.0,1.0,True
+16461,ro-RO,email,email_query,am vreun email necitit,email_sendemail,1.0,0.0,False
+16467,ro-RO,email,email_query,am vreun email nou de la contactul meu q.,email_sendemail,1.0,0.0,False
+16471,ro-RO,email,email_query,verifica emailurile de la aurel,email_sendemail,1.0,0.0,False
+16496,ro-RO,email,email_sendemail,trimite un e-mail de raspuns,email_sendemail,0.9999,0.9999,True
+16501,ro-RO,email,email_sendemail,te rog trimite mail prietenei mele alexandra ce mai faci,email_sendemail,1.0,1.0,True
+16506,ro-RO,email,email_sendemail,adăugați o nouă adresă de e-mail și trimiteți e-mail,email_sendemail,1.0,1.0,True
+16518,ro-RO,email,email_sendemail,scrie un e-mail nou pentru ileana marcu,email_sendemail,1.0,1.0,True
+16519,ro-RO,email,email_sendemail,am nevoie sa adaug un nou e-mail la contactele mele,email_sendemail,1.0,1.0,True
+16535,ro-RO,email,email_sendemail,scrie i un email corinei,email_sendemail,1.0,1.0,True
+16559,ro-RO,email,email_sendemail,trimite un raspuns la emai ul trimis in dimineata aceasta de mihai cu raspunsul patru sute treizeci,social_post,0.4987,0.2548,False
+16560,ro-RO,email,email_sendemail,răspunde email-ului șefului meu spunându-i că o să fiu la serviciu la patru după masa,email_sendemail,1.0,1.0,True
+16563,ro-RO,email,email_query,olly verifica emailul meu,email_sendemail,1.0,0.0,False
+16591,ro-RO,email,email_sendemail,tocmai am primit un e-mail de la bill trebuie sa raspund chiar acum,email_sendemail,1.0,1.0,True
+16593,ro-RO,email,email_sendemail,trebuie raspuns urgent la ultimul email,email_sendemail,1.0,1.0,True
+16603,ro-RO,email,email_query,ce spune emailul de acum treizeci de minute de la mama,email_sendemail,1.0,0.0,False
+16605,ro-RO,email,email_sendemail,scrie si trimite email sefului meu,email_sendemail,1.0,1.0,True
+16609,ro-RO,email,email_query,spune mi dacă am vreun email nou necitit,email_sendemail,1.0,0.0,False
+16613,ro-RO,email,email_sendemail,trimite email sefului spunand ca voi intarzia,email_sendemail,1.0,1.0,True
+16622,ro-RO,email,email_sendemail,trimite un email acestui contact,email_sendemail,1.0,1.0,True
+16624,ro-RO,email,email_sendemail,am nevoie să trimit un email la upc cu privire la problemele de semnal,email_sendemail,1.0,1.0,True
+16627,ro-RO,email,email_query,verifică cele mai recente emailuri,email_sendemail,0.9999,0.0001,False
+16630,ro-RO,email,email_sendemail,trimite un răspuns către ultimul email,email_sendemail,1.0,1.0,True
+16642,ro-RO,email,email_query,verifică poșta după orice de la sorina,email_sendemail,0.9999,0.0,False
+16648,ro-RO,email,email_query,te rog sa imi verifici email urile mele,email_sendemail,1.0,0.0,False
+16652,ro-RO,email,email_query,avea vreun atașament emailul lui andrei,email_sendemail,1.0,0.0,False
+16662,ro-RO,email,email_query,am primit vreun email nou de la daniel,email_sendemail,1.0,0.0,False
+16666,ro-RO,email,email_query,am vreun email nou,email_sendemail,1.0,0.0,False
+16668,ro-RO,email,email_query,a venit vreun email azi de la ora patru,email_sendemail,1.0,0.0,False
+16669,ro-RO,email,email_query,am primit eu vreun email de la paul,email_sendemail,1.0,0.0,False
+16672,ro-RO,email,email_query,ben a luat legătura,qa_factoid,0.9721,0.0002,False
+16677,ro-RO,email,email_query,am vreun email nou in inbox ul meu azi,email_sendemail,1.0,0.0,False
+16698,ro-RO,email,email_sendemail,scrie un raspuns la emailul mamei mele,email_sendemail,1.0,1.0,True
+16701,ro-RO,email,email_sendemail,as vrea sa dau replay la email ul sorinei,email_sendemail,1.0,1.0,True
+16703,ro-RO,email,email_sendemail,as vrea sa raspund la cel mai recent email,email_sendemail,1.0,1.0,True
+16712,ro-RO,email,email_query,am vreun email nou,email_sendemail,1.0,0.0,False
+16713,ro-RO,email,email_query,te rog verifică mi emaulurile și notifică mă dacă am vreun email nou,email_sendemail,1.0,0.0,False
+16717,ro-RO,email,email_sendemail,îi trimiți te rog un email lui ion spunând că sunt în concediu,email_sendemail,1.0,1.0,True
+16719,ro-RO,email,email_query,zi-mi daca am primit vreun nou email,email_sendemail,1.0,0.0,False
+16729,ro-RO,email,email_sendemail,raspunde la emailul meu de la bogdan si ii informeaza ca ii voi vedea maine,email_sendemail,1.0,1.0,True
+16730,ro-RO,email,email_query,te rog verifică noul email de la vlad,email_sendemail,1.0,0.0,False
+16733,ro-RO,email,email_query,arata mi cele mai recente email uri de la amazon,email_sendemail,1.0,0.0,False
+16749,ro-RO,email,email_query,este vreun email nou pentru mine azi,email_sendemail,1.0,0.0,False
+16754,ro-RO,email,email_sendemail,dicteaza email,email_sendemail,1.0,1.0,True
+16758,ro-RO,email,email_query,vreun email nou de ultima dată,email_sendemail,1.0,0.0,False
+16763,ro-RO,email,email_query,email-urile din ultimele zece minute,email_sendemail,1.0,0.0,False
+16765,ro-RO,email,email_query,care este ora interviului de la mail ul de ieri,email_sendemail,0.9981,0.0019,False
+16766,ro-RO,email,email_query,cauta email uri noi,email_sendemail,1.0,0.0,False
+16772,ro-RO,email,email_query,arată toate emailurile despre încălcare,email_sendemail,1.0,0.0,False
+16780,ro-RO,email,email_sendemail,trimite un email la ionpetre arond gmail punct com,email_sendemail,1.0,1.0,True
+16791,ro-RO,email,email_sendemail,compune un nou email dar am o noua adresa de data asta bogdan arond romexpert punct com,email_sendemail,1.0,1.0,True
+16799,ro-RO,email,email_query,am primit vreun email de la pranz,email_sendemail,1.0,0.0,False
+16801,ro-RO,email,email_query,mi a trimis camelia vreun email despre tiberiu,email_sendemail,1.0,0.0,False
+16813,ro-RO,email,email_query,da bip cand primesc un email de la eugen,email_sendemail,0.9998,0.0002,False
+16814,ro-RO,email,email_query,verifică emailuri,email_sendemail,0.9996,0.0004,False
+16838,ro-RO,email,email_sendemail,poti trimite email ul catre noul i. d. de email,email_sendemail,1.0,1.0,True
+16851,ro-RO,email,email_query,notificări email,email_sendemail,1.0,0.0,False
+16859,ro-RO,email,email_query,ce i am spus lui alina în ultimul meu email,email_sendemail,0.8152,0.1848,False
+16872,ro-RO,email,email_sendemail,gaseste natalia din contactele mele si trimite i un email,email_sendemail,1.0,1.0,True
+16873,ro-RO,email,email_sendemail,trimite email nataliei pentru ziua ei de nastere,email_sendemail,1.0,1.0,True
+16880,ro-RO,email,email_sendemail,scrie i un email lui jean în ceea ce privește întâlnirea,email_sendemail,1.0,1.0,True
+16883,ro-RO,email,email_sendemail,trimite un email catre ilie si intreaba l la ce ora va fi acasa deseara,email_sendemail,1.0,1.0,True
+16886,ro-RO,email,email_sendemail,raspunde acestui mail,email_sendemail,1.0,1.0,True
+16888,ro-RO,email,email_query,sunt email uri noi,email_sendemail,1.0,0.0,False
+16890,ro-RO,email,email_query,ce scrie în email-ul nou,email_sendemail,1.0,0.0,False
+16891,ro-RO,email,email_sendemail,trimite i un email lui ion sima,email_sendemail,1.0,1.0,True
+16892,ro-RO,email,email_sendemail,începe să trimiți un email către popescu ion,email_sendemail,1.0,1.0,True
+16899,ro-RO,email,email_query,am primit vreun email de la ioana bruneta,email_sendemail,1.0,0.0,False
+16914,ro-RO,email,email_query,am email-uri de la acest emițător,email_sendemail,1.0,0.0,False
+16916,ro-RO,email,email_sendemail,hei raspunde la un e-mail pe care l-am primit,email_sendemail,1.0,1.0,True
+16924,ro-RO,email,email_query,te rog verifică gmail-ul meu pentru noi mail-uri,email_sendemail,0.9183,0.0817,False
+16930,ro-RO,email,email_query,arata ultimele emailuri,email_sendemail,1.0,0.0,False
+16938,ro-RO,email,email_sendemail,raspunde la email lui ion,email_sendemail,1.0,1.0,True
+16944,ro-RO,email,email_sendemail,trimite un email bunicii scriind ca vom trece sa o vedem sambata,email_sendemail,1.0,1.0,True
+16947,ro-RO,email,email_sendemail,raspunde la email,email_sendemail,1.0,1.0,True
+16955,ro-RO,email,email_sendemail,email catre noul contact,email_sendemail,1.0,1.0,True
+16956,ro-RO,email,email_sendemail,trimite email catre contactul nou,email_sendemail,1.0,1.0,True
+16961,ro-RO,email,email_sendemail,raspunde cu,qa_factoid,0.9987,0.0,False
+16974,ro-RO,email,email_query,te rog verifică toate emailurile noi de la departamentul de impozit pe venit,email_sendemail,1.0,0.0,False
+16987,ro-RO,email,email_query,vreun email nou de la andrei,email_sendemail,1.0,0.0,False
+16989,ro-RO,email,email_sendemail,te rog scrie la emailul trimis de george că am nevoie de bani acum este urgent,email_sendemail,1.0,1.0,True
+16992,ro-RO,email,email_query,mi-a trimis ioana popescu email,email_sendemail,1.0,0.0,False
+16995,ro-RO,email,email_sendemail,trimite i un email mihaelei,email_sendemail,1.0,1.0,True
+17005,ro-RO,email,email_query,te rog verifică dacă sunt email-uri noi,email_sendemail,1.0,0.0,False
+17011,ro-RO,email,email_sendemail,poți trimite email către,email_sendemail,1.0,1.0,True
+17015,ro-RO,email,email_sendemail,incepe raspunsul,qa_factoid,0.7796,0.0067,False
+17019,ro-RO,email,email_sendemail,compune un raspuns la ultimul email,email_sendemail,1.0,1.0,True
+17020,ro-RO,email,email_sendemail,raspunde la ultimul email primit,email_sendemail,1.0,1.0,True
+17023,ro-RO,email,email_sendemail,trimite email mamei și întreab-o cum este vremea,email_sendemail,1.0,1.0,True
+17042,ro-RO,email,email_sendemail,trimite un email catre ion arond gmail punct com,email_sendemail,1.0,1.0,True
+17043,ro-RO,email,email_sendemail,trimite email către tudor arond hotmail punct com,email_sendemail,1.0,1.0,True
+17051,ro-RO,email,email_query,da mi email nou,email_sendemail,1.0,0.0,False
+17052,ro-RO,email,email_query,caută maria,qa_factoid,0.9999,0.0,False
+17069,ro-RO,email,email_query,sunt emailuri noi in outlook,email_sendemail,1.0,0.0,False
+17075,ro-RO,email,email_query,sunt email uri primite dupa ora patru astazi,email_sendemail,1.0,0.0,False
+17081,ro-RO,email,email_sendemail,creeaza un email pentru angajatul companiei cu documentele mele salvate recent,email_sendemail,1.0,1.0,True
+17087,ro-RO,email,email_query,verifica email urile noi primite de la sandra,email_sendemail,1.0,0.0,False
+17098,ro-RO,email,email_query,afișează toate emailurile primite în ultima oră,email_sendemail,1.0,0.0,False
+17107,ro-RO,email,email_query,verifica noile emailuri,email_sendemail,1.0,0.0,False
+17108,ro-RO,email,email_query,dă - mi ultimul email,email_sendemail,1.0,0.0,False
+17113,ro-RO,email,email_sendemail,creează un email către iulia,email_sendemail,1.0,1.0,True
+17115,ro-RO,email,email_query,citește lista de emailuri noi,email_sendemail,1.0,0.0,False
+17116,ro-RO,email,email_query,afiseaza lista cu email urile recente,email_sendemail,1.0,0.0,False
+17119,ro-RO,email,email_query,verifică orice mail de la amazon,email_sendemail,1.0,0.0,False
+17123,ro-RO,email,email_sendemail,formular de email pentru primarie,email_sendemail,1.0,1.0,True
+17135,ro-RO,email,email_query,vreun email referitor la iluminat,email_sendemail,1.0,0.0,False
+17136,ro-RO,email,email_query,te rog citeste noile mele mail-uri,email_sendemail,1.0,0.0,False
+17138,ro-RO,email,email_query,te rog arhivează mi mesajele citite,email_sendemail,0.9979,0.0014,False
+17142,ro-RO,email,email_query,ce a mai aparut in inbox ul meu de cand ne am uitat ultima oara,email_sendemail,0.9998,0.0002,False
+17143,ro-RO,email,email_sendemail,hei trimite un email lui ion,email_sendemail,1.0,1.0,True
+17144,ro-RO,email,email_query,hei verifică email,email_sendemail,0.9982,0.0018,False
+17147,ro-RO,email,email_sendemail,raspunde la mail cu urmatorul continut hei tu,email_sendemail,1.0,1.0,True
+17148,ro-RO,email,email_sendemail,alexa răspunde la email cu următorul conținut bună tu,email_sendemail,1.0,1.0,True
+17151,ro-RO,email,email_sendemail,prietenul meu alex mi a trimis o invitatie la noua lui locuinta spune i multumesc pe email ul lui,email_sendemail,1.0,1.0,True
+17156,ro-RO,email,email_query,verifica mi emailul vezi daca am vreun email nou de la ilie,email_sendemail,0.9795,0.0205,False
+17157,ro-RO,email,email_query,am vreun email nou de la ionut,email_sendemail,1.0,0.0,False
+17170,ro-RO,email,email_query,anuntama cand imi trimite claudiu email,email_sendemail,1.0,0.0,False
+17179,ro-RO,email,email_query,am vreun email de la lucian,email_sendemail,1.0,0.0,False

@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,ko-KR,iot,iot_hue_lightoff,침실 조명 꺼,iot_hue_lightoff,0.7786,0.7786,True
+47,ko-KR,datetime,datetime_query,호주 몇 시야,weather_query,0.9855,0.0002,False
+85,ko-KR,datetime,datetime_query,오늘의 날짜 말해줘,datetime_query,0.9305,0.9305,True
+86,ko-KR,datetime,datetime_query,오늘 은 며칠이야,email_query,0.641,0.004,False
+100,ko-KR,weather,weather_query,한 주간 예보,qa_factoid,0.7969,0.0022,False
+102,ko-KR,weather,weather_query,이번 주의 날씨는 어때,weather_query,0.9984,0.9984,True
+103,ko-KR,weather,weather_query,이번 주 날씨 알려줘,weather_query,0.9981,0.9981,True
+128,ko-KR,datetime,datetime_query,며칠이야,weather_query,0.8766,0.007,False
+151,ko-KR,play,play_music,그것을 다시 재생해주세요,email_sendemail,0.6849,0.0076,False
+177,ko-KR,news,news_query,비즈니스 뉴스 말해줘,news_query,0.9999,0.9999,True
+178,ko-KR,news,news_query,국제 소식 알려주세요,social_post,0.3817,0.277,False
+182,ko-KR,play,play_music,내 락 플레이리스트 재생,play_music,0.7691,0.7691,True
+185,ko-KR,play,play_music,나의 플레이 리스트 틀어서 세번째 대기하고 있는 음악 틀어줘,play_music,0.9982,0.9982,True
+197,ko-KR,datetime,datetime_query,몇 시야,weather_query,0.9025,0.0026,False
+216,ko-KR,weather,weather_query,오늘 날씨 어때,weather_query,0.9983,0.9983,True
+219,ko-KR,weather,weather_query,내가 내일 우산 가져가야 하나,calendar_remove,0.773,0.0035,False
+220,ko-KR,play,play_music,내 록 목록 의 음악 재생,play_music,0.952,0.952,True
+250,ko-KR,play,play_music,나 지금 재즈 듣고 싶은데 너는 어때,play_music,0.9887,0.9887,True
+254,ko-KR,play,play_music,올리 내가 가장 좋아하는 재즈 연주자 의 좋은 트랙 들려줘,email_query,0.3932,0.2415,False
+279,ko-KR,weather,weather_query,서울 지역 오늘의 날씨 예보는 어때,weather_query,0.9977,0.9977,True
+281,ko-KR,news,news_query,미국 달러에서 원화로의 환율 뭐야,iot_hue_lightoff,0.3798,0.0199,False
+296,ko-KR,play,play_music,임영웅 플레이리스트 재생,play_music,0.5437,0.5437,True
+297,ko-KR,play,play_music,이승윤 노래들 셔플해줘,play_music,0.9822,0.9822,True
+299,ko-KR,weather,weather_query,날씨 어때,weather_query,0.9799,0.9799,True
+310,ko-KR,datetime,datetime_query,올해 마지막 날은 무슨 요일이야,weather_query,0.9382,0.0014,False
+319,ko-KR,weather,weather_query,이틀 뒤 대전 날씨 어떨지 알려줘,weather_query,0.8062,0.8062,True
+329,ko-KR,play,play_music,천일동안,qa_factoid,0.9769,0.0011,False
+333,ko-KR,weather,weather_query,서울 날씨 상황이 어떻게 돼,weather_query,0.9976,0.9976,True
+334,ko-KR,weather,weather_query,강릉 날씨 알고 싶은데,weather_query,0.9997,0.9997,True
+344,ko-KR,weather,weather_query,내일 비가 올까,weather_query,0.9982,0.9982,True
+348,ko-KR,weather,weather_query,내일 비가 올까,weather_query,0.9982,0.9982,True
+355,ko-KR,datetime,datetime_query,사월 일일 은 무슨 요일이야,qa_factoid,0.9566,0.005,False
+360,ko-KR,datetime,datetime_query,지금 몇 시야,weather_query,0.998,0.0002,False
+362,ko-KR,play,play_music,장기하의 노래 중 두 번째 노래 재생,play_music,0.9872,0.9872,True
+366,ko-KR,news,news_query,최신 뉴스 알려줘,news_query,1.0,1.0,True
+369,ko-KR,iot,iot_hue_lightoff,불 꺼 줘,calendar_remove,0.8956,0.0035,False
+385,ko-KR,news,news_query,중앙일보 의 획기적인 뉴스는 뭐야,news_query,1.0,1.0,True
+391,ko-KR,play,play_music,나의 재생 목록 에서 무작위의 노래 재생,play_music,0.8716,0.8716,True
+393,ko-KR,play,play_music,내 플레이리스트 에서 레트로 노래 재생해줘,play_music,0.9971,0.9971,True
+397,ko-KR,play,play_music,이승환 노래 무엇이든 재생해줘,play_music,0.9999,0.9999,True
+400,ko-KR,play,play_music,재생 시작,qa_factoid,0.4364,0.0234,False
+407,ko-KR,play,play_music,다음 한 시간 동안 록 음악 틀어줄 수 있어,play_music,0.9969,0.9969,True
+424,ko-KR,news,news_query,어떤 속보가 있어,iot_hue_lightoff,0.4456,0.0255,False
+427,ko-KR,iot,iot_hue_lightoff,화장실 불 꺼 줘,lists_remove,0.3494,0.0767,False
+428,ko-KR,iot,iot_hue_lightoff,화장실 불 꺼 줘,lists_remove,0.3494,0.0767,False
+430,ko-KR,weather,weather_query,지금 날씨 어때,weather_query,0.9911,0.9911,True
+437,ko-KR,play,play_music,싸이 노래 틀어,play_music,1.0,1.0,True
+441,ko-KR,news,news_query,최신 뉴스 헤드라인 뭐야,news_query,0.9998,0.9998,True
+442,ko-KR,news,news_query,무슨 뉴스 있어,news_query,1.0,1.0,True
+451,ko-KR,news,news_query,가장 최신 애플 주가 말해줘,qa_factoid,0.9998,0.0,False
+473,ko-KR,play,play_music,고백 재생해줘,qa_factoid,0.3019,0.0246,False
+486,ko-KR,datetime,datetime_query,뉴욕시 는 몇 시야,weather_query,0.9985,0.0001,False
+491,ko-KR,weather,weather_query,밖에 날씨 추울까,weather_query,0.9983,0.9983,True
+506,ko-KR,play,play_music,이승철 노래들 열어,play_music,0.9875,0.9875,True
+512,ko-KR,weather,weather_query,점수를 받기,qa_factoid,0.9993,0.0,False
+540,ko-KR,play,play_music,아이유 가 부른 노래 틀어,play_music,1.0,1.0,True
+555,ko-KR,play,play_music,싸이 아무거나 틀어,qa_factoid,0.9112,0.0055,False
+576,ko-KR,play,play_music,플레이리스트 모두 재생,play_music,0.9903,0.9903,True
+585,ko-KR,news,news_query,최신 뉴스 보여 줘,news_query,1.0,1.0,True
+588,ko-KR,news,news_query,오늘 새로운 소식은 뭐가 있니,news_query,0.9988,0.9988,True
+590,ko-KR,weather,weather_query,현재 날씨는 어때,weather_query,0.9969,0.9969,True
+614,ko-KR,play,play_music,플레이리스트 시작,play_music,0.9868,0.9868,True
+625,ko-KR,play,play_music,이효리 노래 라디오에서 재생해주세요,play_music,0.999,0.999,True
+631,ko-KR,news,news_query,강원도 도로 확장 공사 관련 새소식 알림 설정해,news_query,0.9964,0.9964,True
+651,ko-KR,iot,iot_hue_lightoff,방 조명 꺼 줘,qa_factoid,0.7511,0.2276,False
+660,ko-KR,datetime,datetime_query,일본 의 현재 시간,weather_query,0.9249,0.0625,False
+680,ko-KR,news,news_query,비트코인 가격에 대해 알려줘,qa_factoid,0.1814,0.03,False
+686,ko-KR,datetime,datetime_query,서울 지금 몇 시니,weather_query,0.999,0.0001,False
+712,ko-KR,news,news_query,제이 티 비 씨 마지막 소식 듣고 싶어,news_query,0.867,0.867,True
+726,ko-KR,weather,weather_query,이번 한 주의 날씨 요약해줘,weather_query,0.9969,0.9969,True
+730,ko-KR,iot,iot_hue_lightoff,조명 꺼,qa_factoid,0.9944,0.0019,False
+738,ko-KR,weather,weather_query,오늘 밖은 얼마나 춥나,weather_query,0.9992,0.9992,True
+764,ko-KR,weather,weather_query,이번 주 일기 예보 알려줘,iot_hue_lightoff,0.4598,0.0473,False
+765,ko-KR,news,news_query,내 최신 공급업체의 최신 소식들 알려 줄 수 있니,news_query,0.9821,0.9821,True
+767,ko-KR,news,news_query,내가 잘 안 보는 언론사의 최신 뉴스 찾아줄래,news_query,0.9998,0.9998,True
+768,ko-KR,news,news_query,최신 정치 뉴스에 관해 말해줄래,news_query,0.997,0.997,True
+779,ko-KR,play,play_music,방탄 의 마이 유니버스 틀어줘,social_post,0.9838,0.0048,False
+781,ko-KR,play,play_music,그대라는 사치 재생,social_post,0.3816,0.3005,False
+782,ko-KR,play,play_music,제니 의 솔로 틀어줘,play_music,0.9875,0.9875,True
+783,ko-KR,play,play_music,사랑 노래들 틀어,play_music,1.0,1.0,True
+790,ko-KR,weather,weather_query,온화하거나 무거운 날씨,weather_query,0.998,0.998,True
+826,ko-KR,weather,weather_query,현재 바깥 기온 어때,weather_query,0.8889,0.8889,True
+827,ko-KR,play,play_music,싸이 재생 목록 틀어줘,lists_remove,0.9638,0.0048,False
+832,ko-KR,weather,weather_query,야 내일 예상하는 날씨가 어때,weather_query,0.9976,0.9976,True
+837,ko-KR,news,news_query,다가오는 국내 선거 관련 k. b. s. 여론 조사 예상은 뭐야,qa_factoid,0.5861,0.0303,False
+891,ko-KR,play,play_music,찬양 음악 좀 틀어줘,play_music,1.0,1.0,True
+914,ko-KR,iot,iot_hue_lightoff,조명 꺼 주세요,iot_hue_lightoff,0.9625,0.9625,True
+936,ko-KR,play,play_music,내 조깅 플레이리스트 열어서 노래 틀어줘,play_music,0.998,0.998,True
+951,ko-KR,weather,weather_query,지금 서울 날씨는 어때,weather_query,0.9981,0.9981,True
+969,ko-KR,news,news_query,특정 주제에 관한 뉴스 기사,news_query,1.0,1.0,True
+974,ko-KR,datetime,datetime_query,서울 지금 몇 시니,weather_query,0.999,0.0001,False
+997,ko-KR,iot,iot_hue_lightoff,거실의 조명 꺼,iot_hue_lightoff,0.561,0.561,True
+999,ko-KR,iot,iot_hue_lightoff,불 꺼 줘,calendar_remove,0.8956,0.0035,False
+1007,ko-KR,play,play_music,내 록 플레이리스트 에서 넥스트 틀어줘,play_music,0.9906,0.9906,True
+1014,ko-KR,datetime,datetime_query,지금 부산 몇 시지,weather_query,0.999,0.0001,False
+1047,ko-KR,play,play_music,나 울고 싶은데 슬픈 록 음악 틀어줘,play_music,1.0,1.0,True
+1061,ko-KR,news,news_query,최신 스포츠 뉴스 알려줘,news_query,0.9999,0.9999,True
+1063,ko-KR,news,news_query,스포츠 소식 시간별로 알림 해줘,news_query,0.8812,0.8812,True
+1084,ko-KR,news,news_query,사용친화적,qa_factoid,0.9629,0.0011,False
+1093,ko-KR,news,news_query,국민일보 웹사이트 가,qa_factoid,0.9979,0.0001,False
+1098,ko-KR,datetime,datetime_query,삼월 십오일 무슨 요일이야,weather_query,0.9587,0.0013,False
+1108,ko-KR,play,play_music,내가 원하는 건 컨츄리 음악 듣는 거야,play_music,0.9927,0.9927,True
+1115,ko-KR,play,play_music,모든 팝 송 장르 나열해 봐,play_music,0.6994,0.6994,True
+1120,ko-KR,news,news_query,정치 관력 특별한 거 있니,qa_factoid,0.4111,0.0093,False
+1121,ko-KR,play,play_music,제니 의 솔로 틀어줘,play_music,0.9875,0.9875,True
+1123,ko-KR,play,play_music,다음으로 아이유 내 손을 잡아 재생,iot_hue_lightoff,0.3821,0.0247,False
+1124,ko-KR,play,play_music,아이유의 내 손을 잡아 다음에 재생할 수 있도록 준비해,iot_hue_lightoff,0.356,0.0118,False
+1127,ko-KR,play,play_music,모든 노래 섞어 서 재생,play_music,0.9979,0.9979,True
+1144,ko-KR,play,play_music,랩 좀 들려줘,qa_definition,0.7498,0.0,False
+1148,ko-KR,datetime,datetime_query,지금 시드니 몇 시야,weather_query,0.9363,0.0001,False
+1156,ko-KR,news,news_query,국제여성의 날 관련 최신 소식,news_query,0.9972,0.9972,True
+1160,ko-KR,weather,weather_query,이번 주 매일 밤 마다 얼마나 더 추워 질까,weather_query,0.9992,0.9992,True
+1180,ko-KR,news,news_query,문재인 대통령 관련 오늘의 중앙 기사 찾아줘,news_query,0.9815,0.9815,True
+1202,ko-KR,datetime,datetime_query,뉴욕 의 현재 시간,weather_query,0.9964,0.0012,False
+1238,ko-KR,play,play_music,pandora,qa_factoid,0.1403,0.0391,False
+1249,ko-KR,weather,weather_query,이번 주 날씨 어떨 것 같아,weather_query,0.9979,0.9979,True
+1252,ko-KR,datetime,datetime_query,현재 시간 말해줘,datetime_query,0.9468,0.9468,True
+1294,ko-KR,news,news_query,아카데이 시상식 소식 빠르게 전해줘,news_query,0.3252,0.3252,True
+1301,ko-KR,news,news_query,트럼프의 새 이민 정책에 관해 말해줘,email_sendemail,0.9106,0.0024,False
+1308,ko-KR,weather,weather_query,이곳의 오늘의 일기 예보 알려줘,weather_query,0.9181,0.9181,True
+1318,ko-KR,play,play_music,음악 앱 켜서 노래 재생해줘,play_music,0.9991,0.9991,True
+1351,ko-KR,weather,weather_query,이번 주 밖에 날씨 좋을까,weather_query,0.9986,0.9986,True
+1371,ko-KR,news,news_query,시사저널 첫 페이지 뭐 있어,social_post,0.7198,0.0049,False
+1377,ko-KR,iot,iot_hue_lightoff,아들 방 불 꺼 줘,iot_hue_lightoff,0.2978,0.2978,True
+1400,ko-KR,weather,weather_query,난 주로 집중하고 있어,qa_factoid,0.858,0.0047,False
+1401,ko-KR,weather,weather_query,나는 한번 씩 주의를 해,email_sendemail,0.9992,0.0,False
+1404,ko-KR,weather,weather_query,창원 의 내일 날씨 알 수 있을까,weather_query,0.9992,0.9992,True
+1423,ko-KR,news,news_query,문재인 대통령에 관해 말해줘,email_sendemail,0.9901,0.0,False
+1425,ko-KR,news,news_query,프랑스 관련해 듣게 되면 나한테 말해줘,social_post,0.9009,0.0006,False
+1440,ko-KR,play,play_music,사점 이상을 받은 최신 트로트 음악 재생,qa_factoid,0.9921,0.0014,False
+1449,ko-KR,datetime,datetime_query,이천십팔년 에 크리스마스 가 언제였어,weather_query,0.9308,0.0486,False
+1458,ko-KR,weather,weather_query,경상도 는 얼마나 덥나,weather_query,0.9992,0.9992,True
+1467,ko-KR,play,play_music,혁오 재생,qa_factoid,0.4533,0.0118,False
+1474,ko-KR,news,news_query,오늘의 스포츠 뉴스 어떤 것들 있어,news_query,1.0,1.0,True
+1489,ko-KR,play,play_music,아이유 최신 노래들 재생,play_podcasts,0.8068,0.1827,False
+1513,ko-KR,weather,weather_query,바깥 기온 이 어때,qa_factoid,0.8802,0.0037,False
+1533,ko-KR,news,news_query,오늘 y. t. n. 에 무슨 뉴스 있었니,news_query,1.0,1.0,True
+1537,ko-KR,datetime,datetime_query,독일 현재 시간 보여줘,datetime_query,0.9536,0.9536,True
+1542,ko-KR,weather,weather_query,해가 환하게 비추네 남은 하루 날씨도 이럴까,weather_query,0.9988,0.9988,True
+1546,ko-KR,play,play_music,여름 휴가 플레이리스트 재생,play_music,0.7884,0.7884,True
+1547,ko-KR,weather,weather_query,이번 주 내 지역의 날씨는 어때,weather_query,0.9989,0.9989,True
+1549,ko-KR,weather,weather_query,이번 주 에 비가 올까,weather_query,0.9963,0.9963,True
+1554,ko-KR,iot,iot_hue_lightoff,조명 꺼 줘,qa_factoid,0.9416,0.0504,False
+1581,ko-KR,datetime,datetime_query,현재 일 월 연도는 뭐야,email_sendemail,0.5449,0.2133,False
+1589,ko-KR,weather,weather_query,다음주 화요일 에 날씨 맑을까,weather_query,0.9995,0.9995,True
+1593,ko-KR,news,news_query,세계 뉴스 알림 설정해줘,news_query,0.9995,0.9995,True
+1594,ko-KR,news,news_query,최신 뉴스 알려줄 수 있어,news_query,0.9999,0.9999,True
+1607,ko-KR,datetime,datetime_query,로스앤젤레스 현재 시간 알려줘,weather_query,0.9975,0.0004,False
+1617,ko-KR,news,news_query,정치 관련 새로운 토픽 올라오면 나한테 알려줘,play_podcasts,0.3754,0.0189,False
+1636,ko-KR,news,news_query,시사저널에서 가장 최근 뉴스 보여줘,news_query,0.9999,0.9999,True
+1653,ko-KR,weather,weather_query,다음 번에는 언제 비가 올까,weather_query,0.9992,0.9992,True
+1655,ko-KR,weather,weather_query,내일 정오 에 눈이 오나,weather_query,0.9903,0.9903,True
+1666,ko-KR,news,news_query,지난 여섯 시간 동안의 케이비에스 뉴스는 뭐야,news_query,0.9999,0.9999,True
+1671,ko-KR,play,play_music,천구백구십 년 과 이천 년 사이 나온 음악만 재생해,play_music,0.7585,0.7585,True
+1683,ko-KR,weather,weather_query,내일 온도 더울지 예 아니오로 대답해,weather_query,0.9719,0.9719,True
+1684,ko-KR,weather,weather_query,내일의 기온 이 더울까 아닐까,weather_query,0.9327,0.9327,True
+1692,ko-KR,play,play_music,부드러운 재즈 좀 찾아줄래,recommendation_events,0.9802,0.0001,False
+1722,ko-KR,weather,weather_query,서울 최저 기온 은 몇도야,iot_hue_lightoff,0.6382,0.1927,False
+1750,ko-KR,iot,iot_hue_lightoff,모든 조명 꺼,iot_hue_lightoff,0.935,0.935,True
+1759,ko-KR,news,news_query,문재인 대통령 관련 뉴스 알려줘,news_query,0.9996,0.9996,True
+1760,ko-KR,news,news_query,테러 관련 최근 뉴스,news_query,0.9999,0.9999,True
+1777,ko-KR,play,play_music,다음 노래,play_music,0.9969,0.9969,True
+1784,ko-KR,iot,iot_hue_lightoff,다이닝 룸 꺼,lists_remove,0.4068,0.0185,False
+1786,ko-KR,iot,iot_hue_lightoff,안방 꺼 줘,lists_remove,0.4347,0.0164,False
+1794,ko-KR,news,news_query,문재인 대통령은 곧 중국을 방문할까,qa_factoid,0.5713,0.0078,False
+1796,ko-KR,datetime,datetime_query,오늘 날짜,datetime_query,0.5576,0.5576,True
+1803,ko-KR,news,news_query,어떤 팀이 오늘 프리미엄 리그에서 경기하지,qa_factoid,0.3693,0.0072,False
+1811,ko-KR,play,play_music,플레이리스트 켜서 음악 틀어줘,play_music,0.9997,0.9997,True
+1832,ko-KR,play,play_music,콜드플레이 앨범 틀어,email_query,0.9989,0.0011,False
+1833,ko-KR,play,play_music,테마 재생목록 반복해줄 수 있어,qa_factoid,0.7448,0.0122,False
+1866,ko-KR,weather,weather_query,현재 날씨 리포트,weather_query,0.9944,0.9944,True
+1870,ko-KR,datetime,datetime_query,오늘 몇 월이지,email_query,0.4079,0.4043,False
+1904,ko-KR,news,news_query,경기 주요장면 보여줘,social_post,0.5268,0.0044,False
+1933,ko-KR,weather,weather_query,오늘 밤 안에 온도 떨어질까,weather_query,0.9957,0.9957,True
+1940,ko-KR,play,play_music,노래 제목 플레이 해,play_music,1.0,1.0,True
+1962,ko-KR,play,play_music,하이 구글 내 gaana 앱에서 엉뚱한 플레이리스트 재생해줘,qa_factoid,0.987,0.0002,False
+1994,ko-KR,play,play_music,나의 itunes 열어줄 수 있어,iot_hue_lightoff,0.7418,0.0041,False
+1995,ko-KR,play,play_music,비틀즈 재생,play_music,0.1928,0.1928,True
+2007,ko-KR,play,play_music,사라지지 말아요 재생해주세요,qa_factoid,0.7144,0.0471,False
+2062,ko-KR,play,play_music,재즈 음악 좀 듣고 싶어,play_music,1.0,1.0,True
+2085,ko-KR,play,play_music,알렉사 바흐 와 슈베르트 빼고 아무 클래식 이나 듣고 싶어,play_music,0.5838,0.5838,True
+2098,ko-KR,news,news_query,세계에서 요즘 무슨 일이 일어나고 있어,social_post,0.6539,0.0494,False
+2108,ko-KR,play,play_music,다음으로 멜로디 재생,play_podcasts,0.9243,0.0746,False
+2113,ko-KR,recommendation,recommendation_events,내 고향의 현 이벤트들 알려줘,recommendation_events,0.4039,0.4039,True
+2146,ko-KR,datetime,datetime_query,이 년 후 동지 날짜가 어떻게 되니,email_sendemail,1.0,0.0,False
+2156,ko-KR,datetime,datetime_query,지금 몇 시인지 알고 싶어,weather_query,0.8244,0.1718,False
+2160,ko-KR,iot,iot_hue_lightoff,나 이제 잘거야,cooking_recipe,0.998,0.0001,False
+2178,ko-KR,weather,weather_query,내가 있는 곳 현재 기상 상태는 어때,weather_query,0.9977,0.9977,True
+2198,ko-KR,datetime,datetime_query,천구백팔십이년 십이월 사일 은 무슨 요일이지,weather_query,0.9238,0.0096,False
+2201,ko-KR,news,news_query,m. b. c. 헤드라인,qa_factoid,0.5586,0.0045,False
+2203,ko-KR,news,news_query,k. b. s. 세계,qa_factoid,0.9818,0.0,False
+2220,ko-KR,weather,weather_query,서울 날씨,weather_query,0.9994,0.9994,True
+2225,ko-KR,play,play_music,이무진 의 비와 당신 틀어줘,weather_query,0.9944,0.0001,False
+2230,ko-KR,iot,iot_hue_lightoff,주방 조명 꺼,iot_hue_lightoff,0.7536,0.7536,True
+2237,ko-KR,news,news_query,최신 국제 뉴스 읽어줘,news_query,0.9998,0.9998,True
+2258,ko-KR,weather,weather_query,오늘 스웨터 입을까,iot_hue_lightoff,0.573,0.0393,False
+2265,ko-KR,weather,weather_query,지금 경상남도 진주 의 날씨가 어떤지 알려줘,weather_query,0.9978,0.9978,True
+2271,ko-KR,play,play_music,내가 구입했고 좋아했던 노래들 재생해줘,play_music,0.9068,0.9068,True
+2296,ko-KR,news,news_query,오늘의 k. b. l 점수 계속 알려줘,qa_factoid,0.9889,0.0004,False
+2298,ko-KR,iot,iot_hue_lightoff,조명 꺼 지금,qa_factoid,0.9897,0.0057,False
+2315,ko-KR,news,news_query,오늘 새소식 뭐 있어,news_query,0.9992,0.9992,True
+2316,ko-KR,news,news_query,alexa 헤드라인 뉴스 알려줘,news_query,0.9999,0.9999,True
+2320,ko-KR,weather,weather_query,이번주 금요일 날씨는 어때,weather_query,0.9984,0.9984,True
+2322,ko-KR,weather,weather_query,내일 날시는 어때,weather_query,0.9878,0.9878,True
+2330,ko-KR,datetime,datetime_query,지금 런던 현지 시간 보여줘,weather_query,0.9943,0.0009,False
+2384,ko-KR,news,news_query,세계는 어떻게 돌아가고 있니,qa_factoid,0.6201,0.017,False
+2386,ko-KR,news,news_query,최신 뉴스 알려줘,news_query,1.0,1.0,True
+2396,ko-KR,play,play_music,msg워너비 노래 틀어줘,play_music,0.9717,0.9717,True
+2408,ko-KR,play,play_music,이 밴드 다른 노래들도 찾아줘,play_music,0.6565,0.6565,True
+2412,ko-KR,datetime,datetime_query,서울 시간 좀 알려줘,weather_query,0.5986,0.3799,False
+2423,ko-KR,weather,weather_query,오늘의 서울시 예보 알려줘,qa_factoid,0.5382,0.0029,False
+2438,ko-KR,news,news_query,기술 소식 보내줘,news_query,0.9043,0.9043,True
+2441,ko-KR,iot,iot_hue_lightoff,다용도실 전등 꺼 줘,lists_remove,0.4431,0.0579,False
+2472,ko-KR,datetime,datetime_query,내가 있는 곳의 현재 시간이 정확한 거야,weather_query,0.9823,0.0094,False
+2496,ko-KR,news,news_query,매일 뉴스,news_query,1.0,1.0,True
+2497,ko-KR,datetime,datetime_query,오늘 며칠이야,weather_query,0.9939,0.0003,False
+2498,ko-KR,datetime,datetime_query,오늘 날짜가 뭐야,datetime_query,0.904,0.904,True
+2527,ko-KR,play,play_music,클래식 락 들려저ㅜ,play_music,0.367,0.367,True
+2531,ko-KR,play,play_music,알렉사 랩 과 락 음악 잇따라 들려줘,play_music,0.6086,0.6086,True
+2545,ko-KR,weather,weather_query,날씨 어때,weather_query,0.9799,0.9799,True
+2548,ko-KR,news,news_query,유튜브 뉴스 중에 아무거나 흥미로운 거,news_query,0.9887,0.9887,True
+2560,ko-KR,play,play_music,음악 무작위로 재생,play_music,0.689,0.689,True
+2573,ko-KR,play,play_music,내 spotify 댄스 플레이리스트 재생,play_podcasts,0.5437,0.3047,False
+2578,ko-KR,iot,iot_hue_lightoff,현관 불 꺼 줘,qa_factoid,0.9852,0.0045,False
+2588,ko-KR,news,news_query,최근 m. b. c. 뉴스는 어떤 게 있습니까,news_query,1.0,1.0,True
+2594,ko-KR,news,news_query,최신 환경 뉴스에 관해 말해줘,news_query,0.9768,0.9768,True
+2605,ko-KR,play,play_music,내 가 선호하는 음악 지금 재생,play_music,0.8773,0.8773,True
+2611,ko-KR,weather,weather_query,현재 날씨 예보,weather_query,0.9779,0.9779,True
+2615,ko-KR,weather,weather_query,다음주 수요일 에 재킷 입어야 할까,iot_hue_lightoff,0.9403,0.0027,False
+2638,ko-KR,news,news_query,김정은에 관한 뉴스 보여줘,news_query,1.0,1.0,True
+2639,ko-KR,news,news_query,환경 관련 뉴스 보여줘,news_query,0.9994,0.9994,True
+2651,ko-KR,news,news_query,이 동네 최신 뉴스,news_query,0.9998,0.9998,True
+2678,ko-KR,weather,weather_query,오늘밤 에 비가 오나,weather_query,0.9975,0.9975,True
+2679,ko-KR,weather,weather_query,기온 이 지금이랑 비슷할까 아니면 더 추워질까,weather_query,0.9217,0.9217,True
+2703,ko-KR,play,play_music,포크 음악 재생해주세요,play_music,0.9988,0.9988,True
+2704,ko-KR,play,play_music,헤비메탈 좀 들어보자 오케이,cooking_recipe,0.8431,0.0053,False
+2708,ko-KR,play,play_music,올리 나 춤추고 싶어 로큰롤 좀 틀어줘,play_music,0.9997,0.9997,True
+2709,ko-KR,play,play_music,올리 나 오늘 슬픈 노래들 좀 듣고 싶어,play_music,1.0,1.0,True
+2711,ko-KR,iot,iot_hue_lightoff,불 꺼 줘,calendar_remove,0.8956,0.0035,False
+2717,ko-KR,play,play_music,간지 듣고 싶어,social_post,0.7534,0.024,False
+2724,ko-KR,news,news_query,t. b. s. 에서 뉴스 좀 알려줘,news_query,0.9999,0.9999,True
+2770,ko-KR,play,play_music,올리 재즈 장르 의 음악 재생해,play_music,0.9877,0.9877,True
+2774,ko-KR,iot,iot_hue_lightoff,조명 꺼,qa_factoid,0.9944,0.0019,False
+2775,ko-KR,iot,iot_hue_lightoff,조명들 사용 중지해,lists_remove,0.266,0.0819,False
+2777,ko-KR,weather,weather_query,오늘 우산 챙길까,cooking_recipe,0.5859,0.0256,False
+2781,ko-KR,play,play_music,재즈 음악 좀 틀어줘,play_music,0.9998,0.9998,True
+2798,ko-KR,play,play_music,알렉사 노래 내 손을 잡아 재생해,play_music,0.9967,0.9967,True
+2801,ko-KR,datetime,datetime_query,광주 몇 시지,qa_factoid,0.8469,0.0043,False
+2824,ko-KR,datetime,datetime_query,십이월 십삼일 무슨 요일이야,weather_query,0.9911,0.0002,False
+2840,ko-KR,datetime,datetime_query,다음 달 이 일은 무슨 요일이야,weather_query,0.8364,0.0019,False
+2859,ko-KR,datetime,datetime_query,이 도시 는 지금 몇 시야,weather_query,0.9726,0.0001,False
+2887,ko-KR,news,news_query,날씨 관련한 아무 기사나 아침 뉴스에서 보여주지 않을래,news_query,0.5136,0.5136,True
+2890,ko-KR,weather,weather_query,현재 날씨,weather_query,0.9975,0.9975,True
+2898,ko-KR,news,news_query,선거 관련 업데이트가 있니,qa_factoid,0.1147,0.0852,False
+2914,ko-KR,datetime,datetime_query,오늘 날짜 말해줘,datetime_query,0.9553,0.9553,True
+2917,ko-KR,weather,weather_query,주간 기상정보,weather_query,0.7125,0.7125,True
+2921,ko-KR,news,news_query,y. t. n. 웹사이트에 있는 뉴스 이야기 어떤 게 있어,news_query,1.0,1.0,True
+2927,ko-KR,datetime,datetime_query,오스틴 은 지금 몇 시야,weather_query,0.8126,0.0001,False
+2931,ko-KR,play,play_music,다음에 취중진담 재생해,social_post,0.979,0.0048,False
+2962,ko-KR,play,play_music,이정권 의 노래 틀어주세요,play_music,1.0,1.0,True
+2965,ko-KR,iot,iot_hue_lightoff,사무실 조명 꺼,iot_hue_lightoff,0.831,0.831,True
+3002,ko-KR,play,play_music,비틀즈 밴드의 노래 재생,play_music,0.5018,0.5018,True
+3031,ko-KR,play,play_music,노래 다시 듣고 싶어,play_music,0.9998,0.9998,True
+3034,ko-KR,weather,weather_query,기온 알려줘,weather_query,0.7773,0.7773,True
+3037,ko-KR,news,news_query,일 면 신문 기사 알려줘,email_sendemail,0.9678,0.0001,False
+3039,ko-KR,news,news_query,새로운 뉴스 뭐야,news_query,1.0,1.0,True
+3060,ko-KR,news,news_query,조인스 무슨 뉴스 있어,news_query,1.0,1.0,True
+3091,ko-KR,datetime,datetime_query,태평양 시간으로 몇 시야,iot_hue_lightoff,0.7702,0.0024,False
+3096,ko-KR,weather,weather_query,충청도 날씨는 어때,weather_query,0.9981,0.9981,True
+3098,ko-KR,iot,iot_hue_lightoff,불 꺼 줘,calendar_remove,0.8956,0.0035,False
+3099,ko-KR,news,news_query,현재 행사들 보여줘,news_query,0.5812,0.5812,True
+3101,ko-KR,news,news_query,olly 뉴스 틀어줘,news_query,0.999,0.999,True
+3116,ko-KR,play,play_music,작년 에 내 가 좋아했던 노래 재생,play_music,0.9871,0.9871,True
+3117,ko-KR,play,play_music,빅 마마 하루만 더 앨범 에서 뭔가 틀어줘,email_sendemail,0.9948,0.0,False
+3118,ko-KR,datetime,datetime_query,지금 동부 표준시 로 몇 시야,iot_hue_lightoff,0.9949,0.0001,False
+3124,ko-KR,play,play_music,내 플레이리스트 에서 무작위 로 노래 재생해줘,play_music,0.9965,0.9965,True
+3146,ko-KR,play,play_music,내 이승철 플레이리스트 일번 트랙 재생,play_music,0.9051,0.9051,True
+3167,ko-KR,iot,iot_hue_lightoff,내 침실 조명들 꺼,calendar_remove,0.3166,0.1819,False
+3174,ko-KR,play,play_music,음악 플레이리스트 틀어,play_music,0.9993,0.9993,True
+3205,ko-KR,play,play_music,혁오 의 위잉위잉 재생,social_post,0.9628,0.0013,False
+3207,ko-KR,play,play_music,임영웅 의 사랑은 늘 도망가 스트리밍,social_post,0.555,0.0335,False
+3212,ko-KR,calendar,calendar_set,그때 뭔가 하라고 리마인드해줘,qa_factoid,0.6138,0.0054,False
+3214,ko-KR,news,news_query,러시아 트럼프 개입 사건 진행 어떻게 되고 있니,news_query,0.0717,0.0717,True
+3228,ko-KR,datetime,datetime_query,올해 크리스마스는 몇 요일이야,weather_query,0.9889,0.0007,False
+3253,ko-KR,weather,weather_query,오늘 오후 에 비가 오려나,weather_query,0.9963,0.9963,True
+3264,ko-KR,play,play_music,레게 음악 재생,play_music,0.9091,0.9091,True
+3305,ko-KR,weather,weather_query,이번 주 강릉 날씨 어때,weather_query,0.9984,0.9984,True
+3306,ko-KR,weather,weather_query,이번 주 일기 예보는 어때,iot_hue_lightoff,0.3672,0.214,False
+3329,ko-KR,news,news_query,뉴스 보고 싶어,news_query,0.9967,0.9967,True
+3337,ko-KR,weather,weather_query,삼만 삼천 칠 백 칠십 사 번지의 날씨 리포트,weather_query,0.9984,0.9984,True
+3338,ko-KR,weather,weather_query,서울 날씨 알려줘,weather_query,0.9987,0.9987,True
+3361,ko-KR,datetime,datetime_query,다음 화요일 은 며칠이야,weather_query,0.9968,0.0011,False
+3378,ko-KR,iot,iot_hue_lightoff,주방 조명 꺼,iot_hue_lightoff,0.7536,0.7536,True
+3386,ko-KR,iot,iot_hue_lightoff,조명 중간 으로 낮춰,iot_hue_lightoff,0.949,0.949,True
+3400,ko-KR,play,play_music,방탄 의 라이브 버전 틀어줘,social_post,0.9747,0.0047,False
+3401,ko-KR,play,play_music,가장 인기있는 보아 노래 재생해줘,play_music,0.952,0.952,True
+3406,ko-KR,weather,weather_query,앞으로 열흘 간 일기 예보 알려줘,iot_hue_lightoff,0.1817,0.1385,False
+3407,ko-KR,weather,weather_query,이번 주 에 비나 눈 소식이 있니,weather_query,0.9988,0.9988,True
+3408,ko-KR,weather,weather_query,이번 주말 에 날씨 좋을까,weather_query,0.9992,0.9992,True
+3426,ko-KR,weather,weather_query,밖에 몇 도 야,qa_factoid,0.6496,0.2948,False
+3433,ko-KR,play,play_music,새로운 팝 음악,play_music,0.9793,0.9793,True
+3434,ko-KR,play,play_music,베스트 랩 음악,play_music,0.5068,0.5068,True
+3441,ko-KR,datetime,datetime_query,이십이일 은 수요일이야,weather_query,0.9931,0.0015,False
+3444,ko-KR,datetime,datetime_query,지금 열시 야,weather_query,0.9669,0.0004,False
+3447,ko-KR,weather,weather_query,토요일 에 비 소식이 있나,weather_query,0.9462,0.9462,True
+3481,ko-KR,play,play_music,혁오 노래 중에 가장 유명한 거 틀어,play_music,0.9974,0.9974,True
+3489,ko-KR,play,play_music,지금 음악 틀어줘,play_music,1.0,1.0,True
+3492,ko-KR,play,play_music,내 최애 노래 목록 틀자,play_music,0.8173,0.8173,True
+3503,ko-KR,weather,weather_query,광명 날씨는 어때,weather_query,0.9984,0.9984,True
+3507,ko-KR,weather,weather_query,일기 예보에 눈 온다 그랬어,weather_query,0.9931,0.9931,True
+3513,ko-KR,play,play_music,나의 목록만 틀어,lists_remove,0.9992,0.0,False
+3516,ko-KR,weather,weather_query,오늘 강수 확률은 얼마나 돼,qa_factoid,0.965,0.0144,False
+3539,ko-KR,play,play_music,소코도모 의 회전목마 재생해주세요,iot_hue_lightoff,0.9367,0.0037,False
+3546,ko-KR,play,play_music,재즈 음악 듣고 싶어,play_music,1.0,1.0,True
+3550,ko-KR,play,play_music,이승철 좀 틀어줘,qa_factoid,0.8173,0.0021,False
+3554,ko-KR,play,play_music,러브 플레이 리스트 넣어줄 수 있어요,lists_query,0.6532,0.009,False
+3562,ko-KR,play,play_music,드라마 재생,play_podcasts,0.6408,0.1115,False
+3566,ko-KR,datetime,datetime_query,오사카 의 현재 시간은 몇 시야,weather_query,0.5309,0.0134,False
+3570,ko-KR,iot,iot_hue_lightoff,베란다 불 꺼줘,qa_factoid,0.2063,0.1973,False
+3576,ko-KR,news,news_query,중앙일보 최근 뉴스가 뭐야,news_query,0.9998,0.9998,True
+3586,ko-KR,weather,weather_query,서울 날씨 어때,weather_query,0.9958,0.9958,True
+3600,ko-KR,calendar,calendar_set,십분 후에 알려줘,qa_factoid,0.9363,0.002,False
+3603,ko-KR,news,news_query,동아 최신 뉴스가 뭐야,news_query,0.9999,0.9999,True
+3605,ko-KR,news,news_query,와이 티 엔 뉴스 중 가장 최근 소식이 뭐야,news_query,0.9999,0.9999,True
+3606,ko-KR,datetime,datetime_query,베이징 은 지금 몇 시야,weather_query,0.9987,0.0,False
+3614,ko-KR,weather,weather_query,오늘 날씨 맑지,weather_query,0.9977,0.9977,True
+3623,ko-KR,news,news_query,오늘 세계는 어떻니,qa_factoid,0.811,0.0026,False
+3624,ko-KR,news,news_query,y. t. n. 뉴스,news_query,1.0,1.0,True
+3631,ko-KR,play,play_music,헤이 구글 재즈 음악 좀 재생해줘,play_music,0.9977,0.9977,True
+3686,ko-KR,play,play_music,내가 아끼는 발라드 음악 재생 목록 틀어,play_music,0.9996,0.9996,True
+3714,ko-KR,play,play_music,나의 재생 목록 아래부터 틀어,lists_remove,0.9603,0.006,False
+3717,ko-KR,play,play_music,내 구십년대 랩 히트곡 들려주세요,play_music,0.9969,0.9969,True
+3723,ko-KR,play,play_music,이 노래 다음에 조광일 의 곡예사 듣고 싶어,play_music,0.9998,0.9998,True
+3725,ko-KR,datetime,datetime_query,오늘 며칠이야,weather_query,0.9939,0.0003,False
+3727,ko-KR,play,play_music,조용필 의 단발 머리 틀어줘,lists_remove,0.4696,0.0152,False
+3750,ko-KR,news,news_query,올리야 혹시 홍수 관련 새 소식 있으면 나한테 바로 알려줘,email_sendemail,0.9299,0.0514,False
+3779,ko-KR,play,play_music,유튜브 플레이리스트 봄날 재생,play_music,0.5472,0.5472,True
+3780,ko-KR,play,play_music,나의 재생 목록에서 한밤중의 사랑 틀어줘,play_music,0.9966,0.9966,True
+3784,ko-KR,weather,weather_query,부산 날씨 알려줘,weather_query,0.9991,0.9991,True
+3785,ko-KR,iot,iot_hue_lightoff,화장실 불 꺼 줘,lists_remove,0.3494,0.0767,False
+3822,ko-KR,news,news_query,자동차 관련 정보 찾아줘,recommendation_events,0.453,0.0333,False
+3852,ko-KR,weather,weather_query,경기도 용인 에 지금 날씨 어때,weather_query,0.9984,0.9984,True
+3859,ko-KR,play,play_music,내 가 가장 좋아하는 랩 음악 플레이리스트 에 올려주세요,play_music,0.7463,0.7463,True
+3907,ko-KR,play,play_music,작년의 히트송 틀어줘,play_music,0.9963,0.9963,True
+3911,ko-KR,play,play_music,올해 한국대중음악상 수상한 노래들 듣고 싶어,play_music,0.9993,0.9993,True
+3912,ko-KR,play,play_music,댄스와 트로트 음악 듣고 싶어,play_music,0.9999,0.9999,True
+3936,ko-KR,weather,weather_query,기온 알려줘,weather_query,0.7773,0.7773,True
+3960,ko-KR,datetime,datetime_query,시간 말해줘,datetime_query,0.9221,0.9221,True
+3967,ko-KR,play,play_music,랩,qa_factoid,0.5568,0.0,False
+3980,ko-KR,play,play_music,멜로망스 의 인사 재생해주세요,email_sendemail,1.0,0.0,False
+3982,ko-KR,play,play_music,아이튠즈 보관함 에서 첫 번째 노래 선택해주세요,email_query,0.3968,0.3417,False
+3993,ko-KR,iot,iot_hue_lightoff,조명 좀 꺼줄래,iot_hue_lightoff,0.8987,0.8987,True
+3995,ko-KR,datetime,datetime_query,할로인이 무슨 요일이니,calendar_remove,0.444,0.0026,False
+4001,ko-KR,news,news_query,설강화 어떻게 됐어,qa_factoid,0.1084,0.0452,False
+4023,ko-KR,news,news_query,무슨 뉴스 있어,news_query,1.0,1.0,True
+4031,ko-KR,play,play_music,스우파 재생,qa_factoid,0.9544,0.0025,False
+4040,ko-KR,play,play_music,내가 듣는 노래 중에 가장 많이 듣는 거 틀어,play_music,0.9981,0.9981,True
+4058,ko-KR,play,play_music,랩 음악 좀 듣고 싶어,play_music,1.0,1.0,True
+4073,ko-KR,datetime,datetime_query,오일 무슨 요일이야,weather_query,0.9501,0.0004,False
+4077,ko-KR,iot,iot_hue_lightoff,주방 불 꺼 줘,iot_hue_lightoff,0.1816,0.1816,True
+4088,ko-KR,iot,iot_hue_lightoff,머리 맡 조명 꺼,iot_hue_lightoff,0.8134,0.8134,True
+4104,ko-KR,weather,weather_query,오늘 보령 날씨 어떨 것 같아,weather_query,0.9979,0.9979,True
+4116,ko-KR,play,play_music,셔플링한 재생 목록 틀어줘,lists_remove,0.9822,0.0032,False
+4119,ko-KR,news,news_query,춘천에 있는 붕괴된 댐에 관한 모든 속보 알려줘,play_podcasts,0.3159,0.0272,False
+4132,ko-KR,weather,weather_query,경기도 용인시 에 오늘 비가 올 확률이 얼마나 되는지 알려줘,weather_query,0.9989,0.9989,True
+4136,ko-KR,play,play_music,커피소년 노래 틀어,play_music,1.0,1.0,True
+4152,ko-KR,play,play_music,노래 너를 위해 재생해주세요,play_music,0.9997,0.9997,True
+4168,ko-KR,weather,weather_query,경기도 날씨 좀 체크해봐줘,weather_query,0.9983,0.9983,True
+4171,ko-KR,iot,iot_hue_lightoff,주방 불 꺼 줘,iot_hue_lightoff,0.1816,0.1816,True
+4177,ko-KR,news,news_query,전 세계 정치 최신 정치 헤드라인 말해줘,qa_factoid,0.9626,0.0002,False
+4178,ko-KR,news,news_query,대통령 소식 있니,email_sendemail,0.7139,0.0962,False
+4183,ko-KR,datetime,datetime_query,현재 뉴욕 시간,weather_query,0.994,0.0011,False
+4186,ko-KR,datetime,datetime_query,몇 시야,weather_query,0.9025,0.0026,False
+4187,ko-KR,datetime,datetime_query,시리야 지금 몇 시야,weather_query,0.9979,0.0001,False
+4205,ko-KR,play,play_music,비오 의 문득 듣고 싶어,play_podcasts,0.9726,0.0024,False
+4212,ko-KR,weather,weather_query,오늘 저녁 에 잔디를 깎을 수 있으려나,cooking_recipe,0.9712,0.0034,False
+4227,ko-KR,weather,weather_query,다음 주 일기 예보에 비 소식이 있었나,qa_factoid,0.7232,0.1958,False
+4232,ko-KR,play,play_music,아이즈원 의 환상동화 재생,play_music,0.543,0.543,True
+4236,ko-KR,datetime,datetime_query,아직 오후 아닌가,weather_query,0.9951,0.0002,False
+4253,ko-KR,datetime,datetime_query,동부 표준 시로 지금 몇 시니,weather_query,0.9984,0.0006,False
+4254,ko-KR,datetime,datetime_query,미국 동부 는 몇 시야,iot_hue_lightoff,0.9947,0.0001,False
+4258,ko-KR,news,news_query,최신 뉴스 뭐야,news_query,1.0,1.0,True
+4266,ko-KR,weather,weather_query,오늘의 날씨는 어때,weather_query,0.9981,0.9981,True
+4273,ko-KR,play,play_music,눈누난나 노래 틀어줘,play_music,0.9999,0.9999,True
+4290,ko-KR,weather,weather_query,오늘밤 에 재킷 가져가야 하려나,lists_remove,0.5208,0.0145,False
+4305,ko-KR,play,play_music,십센치 의 노래 서랍 틀어줘,play_music,0.9946,0.9946,True
+4309,ko-KR,datetime,datetime_query,영국 런던 은 몇 시간 후에 자정 이야,weather_query,0.4953,0.0596,False
+4312,ko-KR,weather,weather_query,인천 기온이 십도 아래 로 떨어질까,iot_hue_lightoff,0.6089,0.3892,False
+4313,ko-KR,weather,weather_query,내일 서울 에 비가 올까,weather_query,0.9981,0.9981,True
+4336,ko-KR,datetime,datetime_query,중국 은 몇 시야,weather_query,0.9331,0.0006,False
+4346,ko-KR,iot,iot_hue_lightoff,조명 꺼,qa_factoid,0.9944,0.0019,False
+4347,ko-KR,iot,iot_hue_lightoff,켜져있는 조명 중지,calendar_remove,0.7775,0.0757,False
+4355,ko-KR,weather,weather_query,나 있는 곳 날씨가 어때,weather_query,0.9975,0.9975,True
+4361,ko-KR,play,play_music,좋은 소리 좀 들려줘,play_music,0.9974,0.9974,True
+4362,ko-KR,datetime,datetime_query,클리블랜드 는 몇 시야,iot_hue_lightoff,0.8685,0.0002,False
+4376,ko-KR,weather,weather_query,오늘 밖에 날씨 어때,weather_query,0.9962,0.9962,True
+4377,ko-KR,weather,weather_query,현재 날씨가 어떄,weather_query,0.996,0.996,True
+4383,ko-KR,weather,weather_query,내일 날씨 어때,weather_query,0.9923,0.9923,True
+4391,ko-KR,news,news_query,s. b. s 표제 뭐 있어,qa_definition,0.9871,0.0005,False
+4400,ko-KR,news,news_query,네이버 뉴스에 실검 기사는 어떤 것들이 있어,qa_factoid,0.8866,0.0681,False
+4402,ko-KR,weather,weather_query,오늘 우산 가져가야 하나,calendar_remove,0.4496,0.0113,False
+4412,ko-KR,weather,weather_query,강릉 날씨는 어때,weather_query,0.9977,0.9977,True
+4436,ko-KR,weather,weather_query,어떤 재킷 입어야 할까,qa_factoid,0.3999,0.0179,False
+4439,ko-KR,weather,weather_query,김포 날씨는 어때,weather_query,0.998,0.998,True
+4449,ko-KR,weather,weather_query,오늘 오후 한 시 에 비가 올까,weather_query,0.9923,0.9923,True
+4452,ko-KR,play,play_music,노래들 틀어줘,play_music,1.0,1.0,True
+4463,ko-KR,datetime,datetime_query,삼월에 토요일이 얼마나 있어,weather_query,0.9892,0.0004,False
+4477,ko-KR,play,play_music,다음 노래 틀어,play_music,1.0,1.0,True
+4482,ko-KR,weather,weather_query,오늘 아침 에 우리집 진입로 삽질 해야 되나,cooking_recipe,0.205,0.0414,False
+4486,ko-KR,weather,weather_query,이번 주 일기 예보 알려줘,iot_hue_lightoff,0.4598,0.0473,False
+4487,ko-KR,weather,weather_query,목요일 에 비가 오나,weather_query,0.9986,0.9986,True
+4491,ko-KR,news,news_query,문재인 관련 가장 최신 뉴스가 뭐지,news_query,0.9997,0.9997,True
+4492,ko-KR,news,news_query,지역 최신 범죄 통계가 뭐야,qa_factoid,0.9996,0.0,False
+4496,ko-KR,news,news_query,오늘 여성동아가 게시한 건 뭐야,social_post,0.9992,0.0,False
+4502,ko-KR,datetime,datetime_query,안녕 지금 런던 몇 시야,social_post,0.7118,0.0047,False
+4524,ko-KR,weather,weather_query,올리야 오늘 일기 예보 어때,iot_hue_lightoff,0.481,0.057,False
+4547,ko-KR,play,play_music,개 산책 플레이리스트 틀어,play_music,0.9995,0.9995,True
+4567,ko-KR,news,news_query,연합뉴스 t. v. 최신 헤드라인 좀 읽어줘,news_query,0.9961,0.9961,True
+4580,ko-KR,datetime,datetime_query,시카고 는 몇 시야,iot_hue_lightoff,0.8298,0.0001,False
+4587,ko-KR,play,play_music,내가 좋아하는 노래들 재생,play_music,0.6793,0.6793,True
+4589,ko-KR,calendar,calendar_set,스포츠 경기 알림 세팅해,iot_hue_lightoff,0.9072,0.0037,False
+4606,ko-KR,news,news_query,오늘의 주식 관련 정보 찾아줘,email_query,0.3983,0.0125,False
+4614,ko-KR,weather,weather_query,내일 기온 사십도보다 높을까,iot_hue_lightoff,0.83,0.0417,False
+4662,ko-KR,news,news_query,알렉사야 y. t. n. 뉴스 좀,news_query,1.0,1.0,True
+4667,ko-KR,datetime,datetime_query,현재 시간,datetime_query,0.9013,0.9013,True
+4680,ko-KR,weather,weather_query,나 샌들 아니면 양말 신고 신발 신어야 할까,qa_factoid,0.2323,0.0202,False
+4689,ko-KR,weather,weather_query,너 날씨 알아,weather_query,0.6557,0.6557,True
+4692,ko-KR,play,play_music,헤이즈 노래 재생해줘,play_music,0.9949,0.9949,True
+4710,ko-KR,datetime,datetime_query,올해 핼러윈 은 무슨 요일이야,weather_query,0.969,0.0003,False
+4764,ko-KR,weather,weather_query,월요일 에 비가 올까,weather_query,0.9944,0.9944,True
+4767,ko-KR,news,news_query,남북한 국경에 관한 새로운 정보 있어,news_query,0.9054,0.9054,True
+4772,ko-KR,datetime,datetime_query,이 시간대 의 시간 알려줘,datetime_query,0.9868,0.9868,True
+4780,ko-KR,datetime,datetime_query,올해 유월 이십칠일 인 내 생일 은 무슨 요일이야,weather_query,0.9661,0.0097,False
+4784,ko-KR,weather,weather_query,재킷 필요한가,qa_factoid,0.9361,0.001,False
+4813,ko-KR,datetime,datetime_query,다른 도시 는 몇 시야,weather_query,0.9905,0.0001,False
+4837,ko-KR,news,news_query,올리야 아무 소식이라도 있니,news_query,0.9825,0.9825,True
+4838,ko-KR,play,play_music,김현식 의 모든 음악 재생해,play_music,0.8223,0.8223,True
+4871,ko-KR,weather,weather_query,바깥 날씨 어때,qa_factoid,0.5957,0.3962,False
+4881,ko-KR,datetime,datetime_query,현재 지역 시간 그리고 시간대를 검색해,weather_query,0.9841,0.0124,False
+4882,ko-KR,datetime,datetime_query,도시 는 지금 몇 시야,weather_query,0.6533,0.0007,False
+4890,ko-KR,calendar,calendar_set,일본 현재 기상 재해 알림 설정해,weather_query,0.9371,0.0027,False
+4909,ko-KR,play,play_music,악동 뮤지션 노래 재생,play_music,0.9145,0.9145,True
+4917,ko-KR,weather,weather_query,바깥 기온,qa_factoid,0.7883,0.0005,False
+4928,ko-KR,play,play_music,나의 사운드트랙 틀어,play_music,0.9998,0.9998,True
+4933,ko-KR,weather,weather_query,지금 비가 오나,weather_query,0.9988,0.9988,True
+4951,ko-KR,datetime,datetime_query,지금 몇 시인지 알고 싶어요,weather_query,0.8398,0.1569,False
+4953,ko-KR,news,news_query,열차 사고 뉴스,news_query,1.0,1.0,True
+4957,ko-KR,datetime,datetime_query,이달 이십삼일 무슨 요일이야,weather_query,0.8653,0.0029,False
+4960,ko-KR,play,play_music,산울림 음악,play_music,0.9811,0.9811,True
+4968,ko-KR,qa,qa_factoid,올해 대선에서 누가 이겼어,qa_factoid,0.9898,0.9898,True
+4973,ko-KR,play,play_music,올리 비와 당신 재생해,play_music,0.3163,0.3163,True
+4998,ko-KR,play,play_music,다음 재생할 노래 로 이 노래 추가해,play_music,0.9981,0.9981,True
+5009,ko-KR,weather,weather_query,이번 주 에 우산 필요할까,iot_hue_lightoff,0.477,0.0033,False
+5016,ko-KR,news,news_query,주식시장의 상승과 하락에 관련된 뉴스 말해줘,news_query,1.0,1.0,True
+5027,ko-KR,datetime,datetime_query,언제가 다음 금요일 십삼일 이지,weather_query,0.9231,0.0372,False
+5037,ko-KR,weather,weather_query,오늘 날씨가 얼마나 춥나,weather_query,0.9996,0.9996,True
+5038,ko-KR,weather,weather_query,이번 주 날씨 어떨 것 같아,weather_query,0.9979,0.9979,True
+5040,ko-KR,weather,weather_query,현재 날씨 어때,weather_query,0.9917,0.9917,True
+5062,ko-KR,play,play_music,팔십년대 의 노래들 들려주세요,play_music,0.9994,0.9994,True
+5074,ko-KR,weather,weather_query,그 주 날씨 어땠지,weather_query,0.9532,0.9532,True
+5085,ko-KR,weather,weather_query,토요일 날씨 예보 어때,weather_query,0.9629,0.9629,True
+5118,ko-KR,play,play_music,너를 생각해,recommendation_events,0.2035,0.0219,False
+5127,ko-KR,news,news_query,무료 급식소의 재정에 대한 진실,recommendation_events,0.1149,0.0408,False
+5131,ko-KR,datetime,datetime_query,서울 은 몇 시인지 말해줘,weather_query,0.9988,0.0005,False
+5134,ko-KR,play,play_music,내 록 밴드 플레이리스트 에서 노래 찾아줘,play_music,0.9916,0.9916,True
+5156,ko-KR,iot,iot_hue_lightoff,거실 불 꺼 줘,lists_remove,0.7118,0.0814,False
+5157,ko-KR,iot,iot_hue_lightoff,거실 조명 꺼 줘,iot_hue_lightoff,0.4402,0.4402,True
+5158,ko-KR,play,play_music,시나위 앨범 에서 최신 노래 틀어주세요,play_music,0.9957,0.9957,True
+5159,ko-KR,play,play_music,아티스트 엄정화 의 노래 들려줄 수 있어,play_music,0.9969,0.9969,True
+5160,ko-KR,play,play_music,마이클 잭슨 의 노래 틀어줄 수 있어,play_music,1.0,1.0,True
+5176,ko-KR,weather,weather_query,이번 주 날씨 어떨 것 같아,weather_query,0.9979,0.9979,True
+5196,ko-KR,news,news_query,브렉시트 에 대해서 알고 싶어,qa_definition,0.7902,0.0053,False
+5225,ko-KR,datetime,datetime_query,다음 수요일 은 무슨 요일이야,weather_query,0.5883,0.0027,False
+5243,ko-KR,iot,iot_hue_lightoff,시리야 욕실 조명 꺼,iot_hue_lightoff,0.5473,0.5473,True
+5245,ko-KR,news,news_query,환경 뉴스 알림 설정해줘,news_query,0.9985,0.9985,True
+5270,ko-KR,news,news_query,현재 속보가 뭐야,iot_hue_lightoff,0.9193,0.0025,False
+5278,ko-KR,play,play_music,케이팝 믹스 음악 만 재생해줘요,play_music,0.9997,0.9997,True
+5279,ko-KR,play,play_music,뮤직 플레이어 에서 슬픈 노래 만 틀어줘,play_music,1.0,1.0,True
+5286,ko-KR,news,news_query,이민 관련 k. b. s. 뉴스 보여 줘,news_query,0.9999,0.9999,True
+5296,ko-KR,news,news_query,올리야 s. b. s. 에서 인기있는 뉴스 가져와,news_query,1.0,1.0,True
+5297,ko-KR,news,news_query,인기 많은 s. b. s. 뉴스 알려줘,news_query,0.9998,0.9998,True
+5301,ko-KR,weather,weather_query,이천십칠년 삼월 이십일 의 날씨는 어때,weather_query,0.9986,0.9986,True
+5307,ko-KR,datetime,datetime_query,오늘이 삼월 이십일 야,weather_query,0.9949,0.0004,False
+5318,ko-KR,play,play_music,로제의 노래만 재생해줘,play_music,0.997,0.997,True
+5321,ko-KR,weather,weather_query,날씨 보여줘,weather_query,0.9946,0.9946,True
+5328,ko-KR,play,play_music,락,qa_factoid,1.0,0.0,False
+5339,ko-KR,weather,weather_query,낮은 냉각 조건,iot_hue_lightoff,0.7164,0.1096,False
+5341,ko-KR,datetime,datetime_query,시간을 알려줘,datetime_query,0.8511,0.8511,True
+5347,ko-KR,play,play_music,테크노 음악 틀어,play_music,0.9999,0.9999,True
+5358,ko-KR,datetime,datetime_query,현재 시간 업데이트,datetime_query,0.996,0.996,True
+5370,ko-KR,news,news_query,가장 최근 윤석열 논란 뭐야,news_query,0.7641,0.7641,True
+5378,ko-KR,play,play_music,s.,play_radio,0.1383,0.0381,False
+5401,ko-KR,play,play_music,음악,play_music,0.9972,0.9972,True
+5410,ko-KR,news,news_query,경향신문 최신 헤드라인 읽어줘,news_query,0.4136,0.4136,True
+5411,ko-KR,news,news_query,k. b. s.의 탑 뉴스는 뭐야,news_query,0.9998,0.9998,True
+5413,ko-KR,play,play_music,음악 틀어줘,play_music,1.0,1.0,True
+5414,ko-KR,play,play_music,음악 틀어줄래,play_music,0.9998,0.9998,True
+5427,ko-KR,datetime,datetime_query,지금 캐나다 는 몇 시야,iot_hue_lightoff,0.7474,0.0002,False
+5433,ko-KR,weather,weather_query,나중에 비가 올까,weather_query,0.9844,0.9844,True
+5439,ko-KR,weather,weather_query,밤 에 우산 필요할까,qa_factoid,0.9855,0.0004,False
+5465,ko-KR,weather,weather_query,오늘 샌들 신어도 되나,lists_remove,0.2474,0.0215,False
+5468,ko-KR,weather,weather_query,선글라스 챙겨야 하나,lists_remove,0.2421,0.0325,False
+5524,ko-KR,weather,weather_query,현재 날씨,weather_query,0.9975,0.9975,True
+5529,ko-KR,weather,weather_query,몇시에 하이킹 가야 되지,datetime_query,0.7028,0.2097,False
+5557,ko-KR,play,play_music,레게 듣고 싶어,play_music,0.9403,0.9403,True
+5577,ko-KR,weather,weather_query,저녁에 너무 바람이 많이 불면 엄청 두꺼운 자켓 입어야 해,weather_query,0.9889,0.9889,True
+5578,ko-KR,weather,weather_query,겨울 아침에는 두꺼운 양말이 필요해,cooking_recipe,0.6081,0.1016,False
+5584,ko-KR,iot,iot_hue_lightoff,불 꺼 줘,calendar_remove,0.8956,0.0035,False
+5590,ko-KR,weather,weather_query,오픈 온도,iot_hue_lightoff,0.8957,0.001,False
+5593,ko-KR,play,play_music,블랙핑크 의 휘파람 틀어줘,iot_hue_lightoff,0.3965,0.2399,False
+5619,ko-KR,play,play_music,이전 곡 틀어줘,play_music,0.9998,0.9998,True
+5627,ko-KR,play,play_music,beatles 노래 재생해줘,play_music,0.9978,0.9978,True
+5640,ko-KR,datetime,datetime_query,날짜 표시,qa_factoid,0.9973,0.0006,False
+5650,ko-KR,weather,weather_query,오늘 밤 날씨에 대해 묻기,weather_query,0.9973,0.9973,True
+5658,ko-KR,play,play_music,비틀즈 의 음악 재생해줘,play_music,0.4026,0.4026,True
+5661,ko-KR,weather,weather_query,지금 비옷 챙겨야 하나,iot_hue_lightoff,0.8156,0.0036,False
+5671,ko-KR,datetime,datetime_query,라스베이거스 는 몇 시야,iot_hue_lightoff,0.8883,0.0002,False
+5678,ko-KR,datetime,datetime_query,팔월 십오일 은 무슨 요일이야,weather_query,0.9793,0.0011,False
+5683,ko-KR,play,play_music,내 파티 노래 플레이리스트 틀어,play_music,0.9998,0.9998,True
+5688,ko-KR,news,news_query,뉴스 헤드라인 말해 줄래,news_query,0.9992,0.9992,True
+5703,ko-KR,datetime,datetime_query,지금 시간,datetime_query,0.9893,0.9893,True
+5707,ko-KR,play,play_music,내가 좋아하는 노래들 듣기,play_music,0.9993,0.9993,True
+5721,ko-KR,weather,weather_query,이 지역 내일의 날씨 보여줘,weather_query,0.9985,0.9985,True
+5722,ko-KR,weather,weather_query,이번 주 주간 예보 알려줘,iot_hue_lightoff,0.2507,0.0361,False
+5732,ko-KR,weather,weather_query,조만간 자동차 바퀴를 스노우 타이어 로 바꿀까,qa_factoid,0.9375,0.0003,False
+5757,ko-KR,datetime,datetime_query,두시 십오분 전,qa_factoid,0.999,0.0007,False
+5758,ko-KR,weather,weather_query,수도 의 날씨는 어때,weather_query,0.9982,0.9982,True
+5774,ko-KR,datetime,datetime_query,현재 서울 시간,weather_query,0.992,0.0045,False
+5797,ko-KR,weather,weather_query,밖에 나가기 전에 비옷 걸쳐야 하나,iot_hue_lightoff,0.8944,0.0029,False
+5813,ko-KR,play,play_music,조용한 노래 재생,play_music,0.9997,0.9997,True
+5820,ko-KR,play,play_music,블핑 의 휘파람,play_music,0.5692,0.5692,True
+5837,ko-KR,weather,weather_query,이번 주의 날씨 알려줘,weather_query,0.9983,0.9983,True
+5871,ko-KR,weather,weather_query,오늘 부산 날씨 어때,weather_query,0.9975,0.9975,True
+5886,ko-KR,news,news_query,인기 있는 주제,social_post,0.8841,0.0028,False
+5919,ko-KR,news,news_query,서울 백신패스 가장 최근에 업데이트 된게 뭐니,qa_factoid,0.8832,0.0051,False
+5930,ko-KR,news,news_query,조선일보의 속보,qa_factoid,0.5832,0.005,False
+5948,ko-KR,play,play_music,내 플레이리스트 에서 좋은 음악 좀 들려줘,play_music,0.5851,0.5851,True
+5953,ko-KR,weather,weather_query,도시 가 살기에 더 저렴하니 비싸니,qa_factoid,0.3547,0.0229,False
+5955,ko-KR,weather,weather_query,법 관련해서 그 도시는 안전한 편이야,qa_factoid,0.3769,0.073,False
+5970,ko-KR,play,play_music,하루만 더 틀어줬으면 해,qa_factoid,0.7775,0.0008,False
+5985,ko-KR,news,news_query,y. t. n. 최신 뉴스 보여줘,news_query,0.9995,0.9995,True
+5996,ko-KR,weather,weather_query,오늘 오후 에 스노우 부츠 필요할까,qa_factoid,0.9494,0.0436,False
+5997,ko-KR,datetime,datetime_query,한국표준 시로 몇 시야,iot_hue_lightoff,0.8668,0.0004,False
+6023,ko-KR,weather,weather_query,오늘은 무더운 밤 이 될까,weather_query,0.9992,0.9992,True
+6024,ko-KR,weather,weather_query,오늘 스웨터를 입을까 아님 코트를 입을까,qa_factoid,0.2362,0.0394,False
+6025,ko-KR,weather,weather_query,오늘 오후 에 선크림 필요할까,weather_query,0.9261,0.9261,True
+6027,ko-KR,play,play_music,좋아하는 노래들 틀어줘,play_music,1.0,1.0,True
+6039,ko-KR,weather,weather_query,내일 비가 오나,weather_query,0.9994,0.9994,True
+6041,ko-KR,iot,iot_hue_lightoff,올리 조명 꺼 주세요,iot_hue_lightoff,0.982,0.982,True
+6045,ko-KR,play,play_music,선택한 노래 추가,play_music,0.9946,0.9946,True
+6050,ko-KR,weather,weather_query,나중에 선크림 필요할까,lists_remove,0.2442,0.0264,False
+6055,ko-KR,iot,iot_hue_lightoff,내가 차고 조명 켜놨어,iot_hue_lightoff,0.2366,0.2366,True
+6059,ko-KR,play,play_music,랩 음악 재생,play_music,0.992,0.992,True
+6069,ko-KR,weather,weather_query,오늘 폭풍 이 올까,weather_query,0.994,0.994,True
+6073,ko-KR,iot,iot_hue_lightoff,현관 불 꺼 줘,qa_factoid,0.9852,0.0045,False
+6074,ko-KR,iot,iot_hue_lightoff,밤 아홉 시 반 에 안방 조명 꺼 줘,iot_hue_lightoff,0.5744,0.5744,True
+6077,ko-KR,news,news_query,오늘 최신 세계 소식 듣고 싶어,news_query,0.9658,0.9658,True
+6093,ko-KR,weather,weather_query,선루프 열어야 할까,iot_hue_lightoff,0.4662,0.0067,False
+6103,ko-KR,weather,weather_query,전라북도 남원 오늘 날씨는 어때,weather_query,0.9973,0.9973,True
+6116,ko-KR,weather,weather_query,이번 주 날씨 정보,weather_query,0.9987,0.9987,True
+6118,ko-KR,datetime,datetime_query,텍사스 댈러스 는 지금 몇 시야,weather_query,0.9669,0.0001,False
+6127,ko-KR,weather,weather_query,오늘 우산 들고 갈까,social_post,0.1314,0.0448,False
+6129,ko-KR,news,news_query,세계 뉴스 계속 보고 해줘,news_query,0.9996,0.9996,True
+6151,ko-KR,weather,weather_query,오늘의 날씨 알려줘,weather_query,0.9988,0.9988,True
+6172,ko-KR,weather,weather_query,오늘 선글라스 쓰기 좋은 날인가,weather_query,0.9093,0.9093,True
+6177,ko-KR,weather,weather_query,오늘 우산 필요할까,qa_factoid,0.7712,0.0022,False
+6178,ko-KR,weather,weather_query,자켓 입어야 할까,iot_hue_lightoff,0.4399,0.0094,False
+6194,ko-KR,weather,weather_query,오늘 날씨 어때,weather_query,0.9983,0.9983,True
+6289,ko-KR,weather,weather_query,오늘 날씨 어때,weather_query,0.9983,0.9983,True
+6370,ko-KR,calendar,calendar_query,내 다음 주 어떻게 되나요,weather_query,0.9971,0.0001,False
+6372,ko-KR,news,news_query,식물 기반 뉴스,news_query,0.9999,0.9999,True
+6403,ko-KR,transport,transport_query,어딘가로 가는 법,cooking_recipe,0.9822,0.0048,False
+6410,ko-KR,news,news_query,오늘 프랑스에서는 무슨 일이 일어났어,social_post,0.5273,0.4497,False
+6411,ko-KR,weather,weather_query,다음주 수요일 날씨 어때,weather_query,0.998,0.998,True
+6539,ko-KR,calendar,calendar_set,오늘부터 다이어트 시작 추가,email_query,0.2438,0.0214,False
+6542,ko-KR,cooking,cooking_recipe,소프트 치즈가 딱딱한 치즈보다 나아,cooking_recipe,0.9596,0.9596,True
+6618,ko-KR,news,news_query,재밌는 뉴스 알려줘,news_query,1.0,1.0,True
+6682,ko-KR,news,news_query,선거,calendar_remove,0.3681,0.0201,False
+6683,ko-KR,news,news_query,경제 문제,qa_factoid,0.9431,0.0026,False
+6713,ko-KR,calendar,calendar_remove,수요일 비지니스 미팅 취소해,calendar_remove,0.9381,0.9381,True
+6722,ko-KR,calendar,calendar_query,나에게 알려줄 리마인더 있어,recommendation_events,0.9389,0.0009,False
+6725,ko-KR,calendar,calendar_set,내 오후 일정 알려줘,email_query,0.3346,0.0197,False
+6726,ko-KR,calendar,calendar_remove,다음 미팅 삭제,lists_remove,0.3052,0.2235,False
+6729,ko-KR,calendar,calendar_remove,지은이네 집 아침 식사 취소해,calendar_remove,0.8711,0.8711,True
+6732,ko-KR,calendar,calendar_set,일요일 시부모와 만나기 리마인더 추가해,social_post,0.2952,0.0203,False
+6744,ko-KR,calendar,calendar_set,내일 오전 열시 남준 하고 미팅 설정해,iot_hue_lightoff,0.723,0.0047,False
+6746,ko-KR,calendar,calendar_set,내 캘린더에서 유월 첫 주 휴일로 저장해줘,calendar_set,0.412,0.412,True
+6747,ko-KR,calendar,calendar_query,리마인더 몇 개 있어,lists_remove,0.9907,0.0004,False
+6755,ko-KR,calendar,calendar_remove,내 달력 깨끗이 해 줘,email_sendemail,0.9995,0.0001,False
+6761,ko-KR,calendar,calendar_remove,오전 아홉시 내 달력에서 미팅 삭제해,calendar_remove,0.8394,0.8394,True
+6764,ko-KR,calendar,calendar_set,창문 닦기 리마인드해 줘,iot_hue_lightoff,0.7861,0.0019,False
+6774,ko-KR,calendar,calendar_set,금요일 일정 세팅해,calendar_set,0.6317,0.6317,True
+6785,ko-KR,calendar,calendar_query,다음 리마인더는 뭐야,cooking_recipe,0.2727,0.0346,False
+6789,ko-KR,calendar,calendar_set,토요일 오후 네시 서윤 하고 미팅 설정해,iot_hue_lightoff,0.4661,0.0251,False
+6798,ko-KR,calendar,calendar_remove,다음 내 일정 삭제해,calendar_remove,0.6559,0.6559,True
+6801,ko-KR,calendar,calendar_query,이번 금요일 미팅 보여줘,qa_factoid,0.4728,0.0136,False
+6806,ko-KR,calendar,calendar_query,내 캘린더에서 이번 주 금요일 오후 이벤트 보여 줘,iot_hue_lightoff,0.8895,0.0002,False
+6815,ko-KR,calendar,calendar_set,엄마의 생일 일주일 전 알려줘,qa_factoid,0.2563,0.0099,False
+6819,ko-KR,calendar,calendar_set,오늘밤 아홉시에 재즈바 밴드 연주 잘 하는 팀 오나,play_music,0.9838,0.0007,False
+6836,ko-KR,calendar,calendar_set,내일 여섯시 미팅 리마인드해 줘,iot_hue_lightoff,0.4741,0.0098,False
+6850,ko-KR,calendar,calendar_query,오늘 내 일정 나열해 줘,email_query,0.9992,0.0,False
+6856,ko-KR,calendar,calendar_set,내일 오전 열시 미팅 관련해서 리마인더 알림 보내줘,iot_hue_lightoff,0.2714,0.0265,False
+6860,ko-KR,calendar,calendar_query,다가오는 일정 있어,weather_query,0.6388,0.014,False
+6865,ko-KR,calendar,calendar_set,내일 열시 미팅 관해서 알림 설정해,iot_hue_lightoff,0.47,0.0148,False
+6878,ko-KR,calendar,calendar_set,금요일 오후 두시 반 회계부서 미팅 일정 잡아줘,calendar_remove,0.1828,0.0418,False
+6891,ko-KR,calendar,calendar_query,가능한 아침 프로그램 있나,cooking_recipe,0.9941,0.0002,False
+6892,ko-KR,calendar,calendar_query,영화 스케쥴 알려줘,qa_factoid,0.9033,0.0058,False
+6897,ko-KR,calendar,calendar_set,칠일 저녁 다섯시에 지현 데려오기 리마인드해 줘,email_sendemail,0.626,0.0059,False
+6901,ko-KR,calendar,calendar_set,내일 오전 열시 미팅 알려줘,qa_factoid,0.1582,0.0319,False
+6902,ko-KR,calendar,calendar_set,다음 달 오일 교환 리마인더 설정해,iot_hue_lightoff,0.7186,0.0112,False
+6909,ko-KR,calendar,calendar_query,오후 한시에서 세시 사이에 무슨 일 있어,weather_query,0.9971,0.0002,False
+6918,ko-KR,calendar,calendar_remove,캘린더에서 일정들 지워,calendar_remove,1.0,1.0,True
+6923,ko-KR,calendar,calendar_set,화요일 아침 서류 인쇄 리마인더 설정해,iot_hue_lightoff,0.0859,0.0465,False
+6926,ko-KR,calendar,calendar_query,오늘 금요일 이야,news_query,0.992,0.0002,False
+6928,ko-KR,calendar,calendar_remove,이벤트 모두 지워,iot_hue_lightoff,0.4885,0.0279,False
+6936,ko-KR,calendar,calendar_set,오전 아홉시 약 먹으라고 리마인더 해 줘,cooking_recipe,0.4383,0.0248,False
+6937,ko-KR,calendar,calendar_set,정오에 사장님과 점심 리마인더 세팅해,iot_hue_lightoff,0.6463,0.0126,False
+6946,ko-KR,calendar,calendar_query,다음 수요일 미팅들 있어,social_post,0.5447,0.0218,False
+6958,ko-KR,calendar,calendar_remove,내 달력 상에 이벤트 없는 거 확인해 줘,email_sendemail,1.0,0.0,False
+6959,ko-KR,calendar,calendar_set,미팅 시작 한 시간 전에 알려줘,email_sendemail,0.2021,0.016,False
+6962,ko-KR,calendar,calendar_set,다음 주 토요일 오후 여섯시 나 뭐 해야 하는지 알려줘,iot_hue_lightoff,0.2495,0.0219,False
+6964,ko-KR,calendar,calendar_set,사장님이랑 미팅 한 시간 전에 알려줘,social_post,0.7781,0.005,False
+6967,ko-KR,calendar,calendar_query,이 이슈에 관한 팩트를 체크해줄 수 있어,qa_factoid,0.9804,0.001,False
+6968,ko-KR,calendar,calendar_query,오늘 미팅 초대 다 했는지 확인해 줘,qa_factoid,0.1646,0.0379,False
+6973,ko-KR,calendar,calendar_set,내일 서울 회의 리마인더 추가해,iot_hue_lightoff,0.366,0.0308,False
+6974,ko-KR,calendar,calendar_set,나 내일 서울 에서 일 있다고 알려줘,email_sendemail,0.9555,0.0003,False
+6980,ko-KR,calendar,calendar_query,투 두 리스트 보여줘,lists_remove,0.9439,0.0006,False
+6992,ko-KR,calendar,calendar_query,앞으로의 이벤트들 보여줘,recommendation_events,0.9133,0.0033,False
+6994,ko-KR,calendar,calendar_set,알려줘,email_sendemail,0.9953,0.0,False
+6997,ko-KR,calendar,calendar_remove,계속되는 이벤트 삭제,iot_hue_lightoff,0.7838,0.1103,False
+7000,ko-KR,calendar,calendar_set,새 이벤트,news_query,0.4534,0.0097,False
+7004,ko-KR,calendar,calendar_set,캘린더에 매년 이 날짜 리마인더 추가해,qa_factoid,0.4568,0.3748,False
+7013,ko-KR,calendar,calendar_query,이벤트 언제 시작하니,recommendation_events,0.7502,0.0014,False
+7014,ko-KR,calendar,calendar_query,오늘의 이벤트들 일정 보여줘,recommendation_events,0.9262,0.0032,False
+7025,ko-KR,calendar,calendar_remove,달력에서 새해 삭제해,calendar_remove,0.6298,0.6298,True
+7026,ko-KR,recommendation,recommendation_events,이번 주 우리 동네에서 어떤 행사 있어,social_post,0.5653,0.0205,False
+7039,ko-KR,calendar,calendar_set,다음 화요일 오전 열한시 수진 하고 미팅 설정해,iot_hue_lightoff,0.4334,0.0081,False
+7044,ko-KR,calendar,calendar_set,오후 다섯시 까지 준비 시작하라고 알려줘,cooking_recipe,0.8449,0.018,False
+7046,ko-KR,calendar,calendar_set,이십 일일 일곱시 동창 모임 추가해,calendar_remove,0.8481,0.0072,False
+7055,ko-KR,calendar,calendar_set,목요일 오전 열한시 석훈 과의 미팅 일정 잡아,email_sendemail,0.9753,0.0027,False
+7057,ko-KR,calendar,calendar_set,수요일 정오에 병수랑 점심 미팅 잡아줘,qa_factoid,0.68,0.0109,False
+7061,ko-KR,calendar,calendar_set,준석 과의 금요일 미팅 이십사 시간 전 리마인더 줘,email_sendemail,0.3075,0.0273,False
+7073,ko-KR,calendar,calendar_set,내 캘린더 에서 다음 일정 찾아서 시작하기 전 에 알려줘,email_sendemail,0.8795,0.0299,False
+7080,ko-KR,calendar,calendar_remove,내 캘린더 의 모든 것 취소,calendar_remove,0.9985,0.9985,True
+7087,ko-KR,calendar,calendar_remove,내 달력에서 내일 미팅 취소해줘,calendar_remove,0.6204,0.6204,True
+7098,ko-KR,calendar,calendar_set,내 달력에 내 자동차 할부금 십이일이라고 적어줘,email_sendemail,1.0,0.0,False
+7100,ko-KR,calendar,calendar_set,내 자동차 마감 하루 전 리마인드해 줘,email_sendemail,0.6059,0.0134,False
+7111,ko-KR,calendar,calendar_query,삼월 삼십일일 진료 예약 몇 시야,weather_query,0.9213,0.0011,False
+7113,ko-KR,calendar,calendar_query,이번 주말에 시내에 일정 있어,weather_query,0.9562,0.001,False
+7117,ko-KR,calendar,calendar_remove,내 달력에서 십구일 에 있는 이벤트들 삭제해줘,lists_remove,0.351,0.3493,False
+7120,ko-KR,calendar,calendar_query,오늘 나의 일정은 뭐야,email_query,0.993,0.0013,False
+7122,ko-KR,calendar,calendar_set,이 일정 반복해 줄래,calendar_remove,0.4628,0.0093,False
+7140,ko-KR,calendar,calendar_set,점심 미팅 한 시간 전에 알려줄 리마인더 설정,iot_hue_lightoff,0.2414,0.0362,False
+7141,ko-KR,calendar,calendar_query,이 프로그램이 예정되어 있어,cooking_recipe,0.5909,0.0095,False
+7151,ko-KR,calendar,calendar_set,홀수 일요일 마다 리마인더 설정,iot_hue_lightoff,0.2753,0.0349,False
+7152,ko-KR,calendar,calendar_set,매일 열두시 삼십분 점심 설정해,qa_factoid,0.3803,0.0773,False
+7161,ko-KR,calendar,calendar_set,미래 에 이 이벤트 상기시켜 줘,iot_hue_lightoff,0.9739,0.0004,False
+7170,ko-KR,calendar,calendar_set,오늘 어머니의 생신 이니 매년 이 날에 나에게 알림 보내줘,email_sendemail,1.0,0.0,False
+7181,ko-KR,calendar,calendar_set,내가 미팅 할 시간이 있도록 목요일 오전 여섯시 에 깨워줘,iot_hue_lightoff,0.977,0.001,False
+7185,ko-KR,calendar,calendar_query,이박사 와의 다음 약속 언제야,qa_factoid,0.519,0.0015,False
+7189,ko-KR,calendar,calendar_query,나 어떤 것 설정했어,qa_factoid,0.4192,0.0086,False
+7194,ko-KR,calendar,calendar_set,내일 있을 회의 설정해,qa_factoid,0.6668,0.0079,False
+7196,ko-KR,calendar,calendar_set,삼월 십오일 에 상진 과의 미팅 상기시켜줘,social_post,0.9938,0.0003,False
+7199,ko-KR,calendar,calendar_set,한 시간 삼십 이 분 전에 다음 주 백 대 일 에 대한 알림 설정,iot_hue_lightoff,0.3208,0.0561,False
+7209,ko-KR,calendar,calendar_set,화요일 에 쓰레기 버리기 알려줄 수 있어요,iot_hue_lightoff,0.2016,0.0234,False
+7219,ko-KR,calendar,calendar_query,내일 미팅 리마인더 설정했니,iot_hue_lightoff,0.7847,0.0092,False
+7224,ko-KR,calendar,calendar_query,진호의 결혼식 장소가 어디야,social_post,0.2397,0.0231,False
+7232,ko-KR,calendar,calendar_query,다음 주 이벤트 뭐야,recommendation_events,0.8187,0.0088,False
+7257,ko-KR,calendar,calendar_set,삼십 분 후에 엄마 에게 전화하라고 알려주세요,social_post,0.8197,0.0023,False
+7258,ko-KR,calendar,calendar_set,한 시간 후에 상사 한테 이메일 보내기 알려줘,email_sendemail,1.0,0.0,False
+7262,ko-KR,calendar,calendar_set,내일 미팅 리마인더 알림 생성해,iot_hue_lightoff,0.8047,0.0088,False
+7266,ko-KR,calendar,calendar_query,나에게 걸려있는 업무는 뭐가 있어,qa_factoid,0.9618,0.0009,False
+7278,ko-KR,calendar,calendar_set,지연이 생일 이십사 시간 전에 알려줘,weather_query,0.3914,0.01,False
+7287,ko-KR,calendar,calendar_set,기념일 하루 전에 알려줘,email_sendemail,0.9997,0.0,False
+7289,ko-KR,calendar,calendar_remove,종석 관련 일정들 모두 삭제해,lists_remove,0.7202,0.2508,False
+7291,ko-KR,calendar,calendar_set,내일 아침 열 시 부터 한 시간 막아놔,calendar_remove,0.9264,0.0098,False
+7292,ko-KR,calendar,calendar_set,내 달력에 내일 저녁 네시부터 여섯시까지 나 시간이 없다고 표시해줘,datetime_query,0.8566,0.0025,False
+7293,ko-KR,calendar,calendar_set,토요일 한 시간 약속 일정 잡아,calendar_remove,0.2642,0.0377,False
+7294,ko-KR,calendar,calendar_remove,내 달력에서 정준호 하고 약속 지워 줘,qa_factoid,0.8377,0.0559,False
+7295,ko-KR,calendar,calendar_remove,내 달력 지워,qa_factoid,0.9795,0.0006,False
+7314,ko-KR,calendar,calendar_query,오늘 뭐 있어,lists_query,0.4041,0.0155,False
+7316,ko-KR,calendar,calendar_query,약속 있어,qa_factoid,0.9627,0.0005,False
+7319,ko-KR,calendar,calendar_query,오늘 오후 두시부터 네시까지 무슨 일 있어,weather_query,0.9641,0.0021,False
+7353,ko-KR,email,email_query,다음 주 강원도 날씨 알려줘,weather_query,0.9983,0.0001,False
+7355,ko-KR,calendar,calendar_set,여섯 시에 찌개 확인하기 알려줘,cooking_recipe,0.9628,0.001,False
+7380,ko-KR,calendar,calendar_query,오늘 고객이랑 진행하는 회의 일정 알려줘,email_sendemail,0.9811,0.001,False
+7397,ko-KR,calendar,calendar_query,앞으로 세 달 뭔가 정해놓은 일정이 있어,calendar_set,0.7944,0.019,False
+7449,ko-KR,calendar,calendar_set,이 사람이랑 회의를 잡아줘,social_post,0.9342,0.0013,False
+7450,ko-KR,calendar,calendar_set,이 사람 하고 미팅 잡아야 돼,social_post,0.6709,0.0083,False
+7455,ko-KR,calendar,calendar_set,내일 파티 관해서 리마인드 해 줘,iot_hue_lightoff,0.9137,0.0027,False
+7461,ko-KR,calendar,calendar_set,캘린더 일정에 사람들 초대해,social_post,0.9625,0.0042,False
+7463,ko-KR,calendar,calendar_set,내 그룹에 새 미팅 일자가 내일 이라고 알려줘,email_sendemail,0.7429,0.0047,False
+7467,ko-KR,calendar,calendar_query,이벤트 시간 알려 줘,email_sendemail,0.4558,0.002,False
+7477,ko-KR,calendar,calendar_set,매년 삼월 십오일 결혼기념일 선물 준비하는 거 리마인드해줘,lists_remove,0.4225,0.0393,False
+7496,ko-KR,calendar,calendar_query,나 오늘 약속 있어,qa_factoid,0.8958,0.0011,False
+7499,ko-KR,calendar,calendar_set,내일 회의 새 일정 만들어,email_query,0.6039,0.0059,False
+7500,ko-KR,calendar,calendar_remove,다음 행사 삭제해 줘,email_sendemail,0.7137,0.0284,False
+7502,ko-KR,calendar,calendar_query,오후 네시에 진수와의 미팅 주제는 뭐야,social_post,0.6436,0.0121,False
+7503,ko-KR,calendar,calendar_query,금요일 오후 한시 그 미팅 서울 어디서 있어,social_post,0.8173,0.0092,False
+7520,ko-KR,calendar,calendar_set,매일 오후 두시 점심 리마인드해줘,iot_hue_lightoff,0.9529,0.0022,False
+7524,ko-KR,calendar,calendar_query,오늘 오후 다섯시 이십분 회사 미팅 관해서 요한 얼마나 투자할까,news_query,0.219,0.0474,False
+7528,ko-KR,calendar,calendar_set,유월 십삼일 선거 결과 날인데 설정해 줘,weather_query,0.9929,0.0004,False
+7531,ko-KR,calendar,calendar_set,내 월급 날들을 추가해줘,calendar_set,0.9186,0.9186,True
+7539,ko-KR,calendar,calendar_query,나 무슨 일정 있어,calendar_remove,0.3747,0.0316,False
+7542,ko-KR,calendar,calendar_set,내일 이거 다시 알려줘,email_sendemail,0.3787,0.0087,False
+7549,ko-KR,calendar,calendar_set,세 시 정각 회의 설정해,qa_factoid,0.9543,0.0009,False
+7556,ko-KR,calendar,calendar_set,매주 금요일 식료품 사라고 알려줘,recommendation_events,0.7198,0.0044,False
+7557,ko-KR,calendar,calendar_set,달력에 지역에 대한 리마인더 만들어줘,iot_hue_lightoff,0.6691,0.0145,False
+7559,ko-KR,calendar,calendar_set,오늘밤 오후 여덟 시 드라이클리닝한 옷 찾아오기 리마인드해 줘,recommendation_events,0.2808,0.0113,False
+7563,ko-KR,calendar,calendar_set,내일 회의 한 시간 전에 알려줘,email_sendemail,0.9957,0.0001,False
+7565,ko-KR,calendar,calendar_set,회의 리마인더,iot_hue_lightoff,0.8527,0.0062,False
+7567,ko-KR,calendar,calendar_set,생일,email_sendemail,0.9994,0.0,False
+7569,ko-KR,calendar,calendar_query,내일 계획,qa_factoid,0.7543,0.0028,False
+7570,ko-KR,calendar,calendar_query,오늘의 계획은 뭐야,cooking_recipe,0.9081,0.0031,False
+7583,ko-KR,calendar,calendar_set,달력에 친구 추가 이벤트,social_post,0.7128,0.0002,False
+7596,ko-KR,calendar,calendar_set,정오 에 서울 에서 진호 하고 회의 일정 잡아 줘,qa_factoid,0.1037,0.0457,False
+7598,ko-KR,calendar,calendar_set,다음 가능한 미팅 날에 현웅 하고 테러에 대한 논의 미팅 설정해 줘,qa_factoid,0.5367,0.0657,False
+7606,ko-KR,calendar,calendar_set,내일 세 시 에 진호 랑 만나기,weather_query,0.9812,0.0002,False
+7609,ko-KR,calendar,calendar_remove,화요일 회의 리마인더 삭제해,calendar_remove,0.5305,0.5305,True
+7613,ko-KR,calendar,calendar_query,앞으로 행사 뭐 있어,play_podcasts,0.1715,0.0237,False
+7628,ko-KR,calendar,calendar_set,도서관 가면 새 도서관 카드 받기 리마인드해 줘,email_sendemail,1.0,0.0,False
+7654,ko-KR,calendar,calendar_set,사월 이십일 오빠의 생일 이렇게 표시해,email_sendemail,0.3153,0.0288,False
+7655,ko-KR,calendar,calendar_set,사월 이십일 내 형 생일 리마인더 추가해,iot_hue_lightoff,0.162,0.0351,False
+7660,ko-KR,calendar,calendar_remove,오늘 오후 세시 약속 모두 취소하고 그 세부내용 알려줘,calendar_remove,0.6717,0.6717,True
+7662,ko-KR,calendar,calendar_query,오늘 내 미팅 목록 뽑아줘,recommendation_events,0.6198,0.0021,False
+7664,ko-KR,calendar,calendar_set,민기 하고 점심 식사 추가해,cooking_recipe,0.6922,0.021,False
+7666,ko-KR,calendar,calendar_set,내일 세시 진우와 미팅 있는 거 표시해줘,social_post,0.3942,0.0149,False
+7680,ko-KR,calendar,calendar_remove,이번 달 골프 행사 달력에서 모두 삭제해,lists_remove,0.937,0.0279,False
+7686,ko-KR,calendar,calendar_set,축제 달력에 준호 하고 민수 포함해 줘,email_sendemail,0.961,0.0,False
+7690,ko-KR,calendar,calendar_query,어떤 일정이 다가오고 있어,calendar_query,0.7206,0.7206,True
+7693,ko-KR,calendar,calendar_query,이 십 일일 일정이 뭔가 있어,news_query,0.2993,0.0647,False
+7697,ko-KR,calendar,calendar_set,이거 리마인더 설정해,iot_hue_lightoff,0.4509,0.0249,False
+7711,ko-KR,calendar,calendar_set,다른 미팅은 모두 삭제하고 삼월 이일 성호 생일 행사 표시해,lists_remove,0.5891,0.0131,False
+7712,ko-KR,calendar,calendar_set,헤이 올리 삼월 이일은 영호의 생일이니깐 미팅이랑 전화미팅 전부 삭제해주고 캘린더에 이벤트 추가해줘,email_sendemail,0.9981,0.0002,False
+7718,ko-KR,calendar,calendar_set,이번 금요일 김씨 한테 미팅 초대 보내고 내 달력에서 금요일 오후 막아 줘,social_post,0.1579,0.0411,False
+7726,ko-KR,calendar,calendar_set,매주 월요일 리마인더 설정해야 돼,iot_hue_lightoff,0.0994,0.0673,False
+7730,ko-KR,calendar,calendar_set,다음주 월요일 표시해줘,email_sendemail,0.9855,0.0002,False
+7741,ko-KR,calendar,calendar_remove,내 달력에서 토요일 비워 줘,qa_factoid,0.8015,0.1437,False
+7751,ko-KR,calendar,calendar_set,월요일마다 쓰레기 버리기 리마인드해 줘,iot_hue_lightoff,0.7254,0.0137,False
+7762,ko-KR,calendar,calendar_query,무슨 리마인더 있어,qa_factoid,0.2421,0.0274,False
+7767,ko-KR,calendar,calendar_set,이월 사일 오후 두시 서울 광장 연습 달력에 추가해,email_query,0.4493,0.002,False
+7768,ko-KR,calendar,calendar_set,이월 사일 오후 두시 용지공원 연습 추가해줘,email_sendemail,0.9997,0.0,False
+7774,ko-KR,calendar,calendar_set,내 달력에 내일 쇼핑 추가해,cooking_recipe,0.5527,0.0454,False
+7777,ko-KR,calendar,calendar_query,나 오늘 약속 있어,qa_factoid,0.8958,0.0011,False
+7778,ko-KR,calendar,calendar_set,일요일 오후 나 뭐할건지 알려줘,weather_query,0.9456,0.0015,False
+7808,ko-KR,calendar,calendar_set,목요일 열한시 엄마 미용실,qa_factoid,0.3826,0.0158,False
+7817,ko-KR,calendar,calendar_query,이것이 이 날짜에 대해 사실입니까,qa_factoid,0.9275,0.001,False
+7820,ko-KR,calendar,calendar_remove,달력에 행사 모두 삭제해,lists_remove,0.8815,0.033,False
+7836,ko-KR,calendar,calendar_remove,모든 이벤트 삭제,iot_hue_lightoff,0.9221,0.0152,False
+7843,ko-KR,calendar,calendar_set,빛나라뮤직 에서 오후 네시 바이올린 레슨 하러 출발해야 하니까 두 시간 후에 알려줘,play_music,0.9776,0.0004,False
+7844,ko-KR,calendar,calendar_query,무슨 리마인더 설정했어,qa_factoid,0.054,0.0511,False
+7847,ko-KR,calendar,calendar_set,등록 되면 알려줘,email_sendemail,0.9931,0.0002,False
+7851,ko-KR,calendar,calendar_set,오늘 정오 미팅 있어,iot_hue_lightoff,0.8764,0.008,False
+7863,ko-KR,calendar,calendar_set,오늘 오후 다섯시 저녁식사 시작하는 거 리마인더해 줘,cooking_recipe,0.4755,0.0229,False
+7870,ko-KR,calendar,calendar_remove,달력 이벤트 지워 줘,iot_hue_lightoff,0.9997,0.0,False
+7876,ko-KR,news,news_query,지난 두 달 동안 무슨 일이 있었던 거니,news_query,0.1964,0.1964,True
+7878,ko-KR,calendar,calendar_remove,내 캘린더 삭제,calendar_remove,1.0,1.0,True
+7879,ko-KR,calendar,calendar_query,내 다음 이벤트 세 개 뭐야,recommendation_events,0.8762,0.0055,False
+7889,ko-KR,calendar,calendar_query,오늘밤 축구 경기 몇 시야,iot_hue_lightoff,0.9055,0.0003,False
+7890,ko-KR,calendar,calendar_remove,오늘 미용실 삭제해,lists_remove,0.8707,0.0629,False
+7891,ko-KR,calendar,calendar_remove,오늘밤 저녁 취소,calendar_remove,0.8407,0.8407,True
+7892,ko-KR,calendar,calendar_remove,오늘 다음 일정 삭제해,calendar_remove,0.8242,0.8242,True
+7894,ko-KR,calendar,calendar_set,선거 한 시간 후에 업데이트 보여 줘,calendar_remove,0.6464,0.0059,False
+7902,ko-KR,calendar,calendar_set,내일 오후 두시 나와 지훈 의 미팅 설정해,iot_hue_lightoff,0.2283,0.0459,False
+7908,ko-KR,calendar,calendar_query,나 오늘 뭐 해야 하나,cooking_recipe,0.989,0.0005,False
+7912,ko-KR,calendar,calendar_remove,알렉사 내 달력에서 민호 와의 저녁 삭제해,iot_hue_lightoff,0.2995,0.0909,False
+7916,ko-KR,calendar,calendar_set,오후 여섯시 에 쓰레기 버리러 가라고 알려줘,weather_query,0.9811,0.0008,False
+7918,ko-KR,calendar,calendar_set,일정 이벤트 보내 김영호 초대해,social_post,0.4219,0.0044,False
+7919,ko-KR,calendar,calendar_set,준호와 현주 가 참석자인 새 미팅 추가,qa_factoid,0.4807,0.0254,False
+7922,ko-KR,calendar,calendar_remove,미래 이벤트 삭제,iot_hue_lightoff,0.9998,0.0,False
+7927,ko-KR,calendar,calendar_query,이번 주 내가 뭐 해야 하지,cooking_recipe,0.5946,0.0216,False
+7946,ko-KR,calendar,calendar_query,앞으로 강릉 에서 무슨 콘서트가 열려,play_podcasts,0.4179,0.0084,False
+7953,ko-KR,calendar,calendar_remove,토요일 에 주치의 와의 약속 지워줘,iot_hue_lightoff,0.9959,0.0003,False
+7955,ko-KR,calendar,calendar_set,이 일정 반복해서 내 캘린더 에 넣어줘,calendar_set,0.8742,0.8742,True
+7956,ko-KR,calendar,calendar_set,이 반복되는 이벤트 만들어,iot_hue_lightoff,0.5458,0.0089,False
+7966,ko-KR,calendar,calendar_query,내가 너에게 뭔가 알려주라고 말했나,qa_definition,0.6612,0.004,False
+7970,ko-KR,calendar,calendar_set,선물을 사기 위해 제 시간에 결혼식 알려줘,social_post,0.9433,0.0029,False
+7971,ko-KR,calendar,calendar_set,그 이벤트 이틀 전 으로 리마인더 설정,recommendation_events,0.6454,0.0106,False
+7975,ko-KR,calendar,calendar_query,이벤트에 주차 서비스 있어,recommendation_events,0.7488,0.0044,False
+7978,ko-KR,calendar,calendar_query,내일 정오 이전에 어떤 리마인더가 설정되어있어,iot_hue_lightoff,0.263,0.0331,False
+7980,ko-KR,calendar,calendar_set,내가 언제 이벤트 있는지 말해 줘,qa_factoid,0.8859,0.0012,False
+7981,ko-KR,calendar,calendar_set,미팅 전에 알림 보내줘,email_sendemail,0.9997,0.0,False
+7993,ko-KR,calendar,calendar_remove,내 달력에서 모든 이벤트 지워줘,iot_hue_lightoff,0.9986,0.0,False
+8001,ko-KR,calendar,calendar_remove,나 금요일 로 잡은 이발 일정 지워줄래,calendar_remove,0.3314,0.3314,True
+8004,ko-KR,calendar,calendar_set,주현이가 우리의 이혼에 대해 대화하고 싶어해 가능한한 빨리 미팅 잡아줘,email_sendemail,0.9873,0.0004,False
+8005,ko-KR,calendar,calendar_set,이십일 월요일 에 우리 주말 여행 에 관해 진호 와 대화 를 해야 해,social_post,0.7818,0.0084,False
+8013,ko-KR,calendar,calendar_query,다음 달 내 미팅 보여줘,qa_factoid,0.8224,0.0024,False
+8029,ko-KR,calendar,calendar_query,오늘 다가오는 이벤트들 뭐 있어,recommendation_events,0.8777,0.0051,False
+8033,ko-KR,datetime,datetime_query,삼일절 은 무슨 요일이야,qa_factoid,0.5743,0.0008,False
+8035,ko-KR,calendar,calendar_set,오일을 갈라고 알려줘,email_sendemail,0.7001,0.002,False
+8037,ko-KR,calendar,calendar_set,나에게 뭐가 언제인가 를 알려줘,datetime_query,0.4245,0.0092,False
+8042,ko-KR,calendar,calendar_query,내 다음 미팅 몇명 들어와,social_post,0.5985,0.0134,False
+8043,ko-KR,calendar,calendar_query,내 다음 약속 시간 언제야,qa_factoid,0.296,0.0098,False
+8044,ko-KR,calendar,calendar_query,오늘 내 일정이 뭐야,email_query,0.9944,0.0007,False
+8055,ko-KR,calendar,calendar_remove,삼월 칠일 내 약속 지워,calendar_remove,0.9009,0.9009,True
+8056,ko-KR,calendar,calendar_query,금요일에 데이트있어,qa_factoid,0.9218,0.0022,False
+8058,ko-KR,calendar,calendar_query,오늘 영업 회의 있어,qa_factoid,0.4103,0.0256,False
+8073,ko-KR,calendar,calendar_set,수요일 오전 열한시 에 영업 회의 일정 잡아,calendar_set,0.1522,0.1522,True
+8079,ko-KR,calendar,calendar_set,빵 한시간 리마인더 설정해,cooking_recipe,0.4434,0.0058,False
+8084,ko-KR,calendar,calendar_query,이벤트 안건이 뭐야,recommendation_events,0.7238,0.0017,False
+8085,ko-KR,calendar,calendar_set,이번 주 에 날짜를 정하고 싶어,datetime_query,0.5995,0.0138,False
+8100,ko-KR,email,email_sendemail,일정변경 위해 내 약속 이메일 보내,email_sendemail,1.0,1.0,True
+8107,ko-KR,calendar,calendar_set,병호 를 위한 생일 이벤트 설정,recommendation_events,0.694,0.0118,False
+8110,ko-KR,calendar,calendar_set,내 달력에 감독 추가해,qa_factoid,0.9995,0.0,False
+8116,ko-KR,calendar,calendar_query,이월 일일과 삼월 십육일 에 어떤 미팅들 이 있지,email_query,0.6398,0.0124,False
+8119,ko-KR,calendar,calendar_query,미현이 생일 파티 어디서 열려,social_post,0.7412,0.0075,False
+8125,ko-KR,calendar,calendar_set,내 달력 에 미팅 이벤트 생성해줘,recommendation_events,0.4452,0.0064,False
+8126,ko-KR,calendar,calendar_set,내 캘린더에 미팅 이벤트 일정 잡아,calendar_set,0.996,0.996,True
+8129,ko-KR,calendar,calendar_query,아직 남아있는 리마인더 가 뭐야,lists_remove,0.6167,0.0176,False
+8140,ko-KR,calendar,calendar_set,십삼일 에 나 진후 와 점심 있다고 리마인더 설정해줘,weather_query,0.779,0.009,False
+8148,ko-KR,calendar,calendar_query,내가 어떤 리마인더 남겼어,cooking_recipe,0.5754,0.0173,False
+8150,ko-KR,calendar,calendar_query,생일 파티 관련해서 리마인더 뭔가 있어,qa_definition,0.4379,0.0192,False
+8165,ko-KR,calendar,calendar_query,오후 열두 시 삼십 분 에 이미 회의 십 분 전,datetime_query,0.4658,0.0095,False
+8182,ko-KR,calendar,calendar_remove,치과 예약 삭제해 줘,lists_remove,0.7707,0.039,False
+8188,ko-KR,calendar,calendar_query,무슨 날짜야,qa_factoid,0.9775,0.0001,False
+8204,ko-KR,calendar,calendar_set,우체국 가는 거 알려줘,qa_factoid,0.9952,0.0001,False
+8206,ko-KR,calendar,calendar_set,여동생 에게 줄 선물 사는 걸 잊지 않도록 해줘,email_sendemail,0.7443,0.0043,False
+8230,ko-KR,calendar,calendar_query,화요일 점심 미팅은 얼마나 길어,weather_query,0.9907,0.0004,False
+8241,ko-KR,calendar,calendar_remove,올해의 남은 거 내 달력에서 모두 삭제해 줘,lists_remove,0.8562,0.0676,False
+8245,ko-KR,calendar,calendar_set,일요일 오전 열한시에 예배라고 알려줘,email_sendemail,0.767,0.008,False
+8248,ko-KR,calendar,calendar_set,캘린더 에 내일 저녁 추가,calendar_set,0.9733,0.9733,True
+8251,ko-KR,calendar,calendar_set,다음 주 점심 달력에 넣어줘,email_sendemail,0.1745,0.034,False
+8260,ko-KR,calendar,calendar_set,진영의 생일 하루 전 알려 줘,social_post,0.7805,0.0002,False
+8261,ko-KR,calendar,calendar_set,다음 약속 한 시간 전 알림 보내줘,qa_factoid,0.5195,0.0178,False
+8269,ko-KR,calendar,calendar_set,화요일 미팅 에 삼십분 리마인더 설정,iot_hue_lightoff,0.8753,0.0064,False
+8276,ko-KR,calendar,calendar_remove,내 다음 약속 정한 거 삭제해 줘,calendar_remove,0.8634,0.8634,True
+8280,ko-KR,calendar,calendar_set,삼월 십오일 리미인드 설정해 줘,email_sendemail,0.9933,0.0001,False
+8284,ko-KR,calendar,calendar_remove,달력에서 생일 지워,iot_hue_lightoff,0.6709,0.2629,False
+8289,ko-KR,calendar,calendar_set,네 시 오늘의 교수 회의 리마인더 설정해,iot_hue_lightoff,0.8184,0.0086,False
+8290,ko-KR,calendar,calendar_set,화요일 매니저 회의 에 대해서 다음 주 리마인더 열어봐,iot_hue_lightoff,0.5006,0.0171,False
+8294,ko-KR,calendar,calendar_set,달력에 더하고 반복해줘,qa_factoid,0.2115,0.0318,False
+8300,ko-KR,calendar,calendar_set,삼월 십팔일 오후 다섯 시부터 오후 여섯 시 이벤트 저장해,iot_hue_lightoff,0.9343,0.0033,False
+8302,ko-KR,calendar,calendar_remove,다음 주 월요일 미팅 삭제해,calendar_remove,0.9331,0.9331,True
+8308,ko-KR,news,news_query,어제 정오 광화문 광장에 뭐에 관한 시위였어,social_post,0.9985,0.0003,False
+8336,ko-KR,calendar,calendar_query,준희랑 브런치 먹기로 한 게 언제지,cooking_recipe,0.8352,0.0023,False
+8343,ko-KR,datetime,datetime_query,수요일 이야,news_query,0.9814,0.0003,False
+8345,ko-KR,calendar,calendar_set,미팅 언제 있을 건지 알려줘,weather_query,0.9977,0.0001,False
+8347,ko-KR,calendar,calendar_query,십이월 사일에 무슨 일이 있어,email_sendemail,0.3453,0.013,False
+8358,ko-KR,calendar,calendar_set,이거에 대해 나에게 알려줘,email_sendemail,1.0,0.0,False
+8366,ko-KR,calendar,calendar_set,삼월 십팔일 재영의 생일 약속 반복으로 해 줘,email_sendemail,0.99,0.0005,False
+8387,ko-KR,calendar,calendar_set,오후 여덟 시 세탁소 리마인드 설정해,weather_query,0.8542,0.0029,False
+8388,ko-KR,calendar,calendar_set,저녁 여덟 시 빨래하기 리마인더 설정해,cooking_recipe,0.329,0.0563,False
+8390,ko-KR,calendar,calendar_set,내 회의 대해서 알려줘,qa_factoid,0.412,0.0028,False
+8394,ko-KR,calendar,calendar_set,매일 정오 약 먹으라고 설정,cooking_recipe,0.8545,0.0036,False
+8404,ko-KR,calendar,calendar_query,이 이벶트에 대해 더 알고 싶어,email_sendemail,0.9995,0.0,False
+8409,ko-KR,calendar,calendar_remove,나의 내일 저녁 일정 지워,calendar_remove,0.9375,0.9375,True
+8410,ko-KR,calendar,calendar_remove,월요일 내 저녁 식사 일정 지워,calendar_remove,0.9524,0.9524,True
+8413,ko-KR,calendar,calendar_set,알려줘,email_sendemail,0.9953,0.0,False
+8414,ko-KR,calendar,calendar_set,금요일 오후 다섯시에 이준이와 저녁 가라고 다시 알려줘,email_sendemail,0.7866,0.0055,False
+8415,ko-KR,calendar,calendar_set,화요일 오후 세시 병훈 사무실 미팅 추가해,weather_query,0.0835,0.0444,False
+8426,ko-KR,calendar,calendar_query,어제 하고 오늘 아침 사이 이벤트 있는 거 말해 줘,email_sendemail,0.594,0.0104,False
+8430,ko-KR,calendar,calendar_remove,내 약속 모두 취소해,calendar_remove,0.5024,0.5024,True
+8431,ko-KR,calendar,calendar_remove,내 일정 이벤트 모두 제거해,calendar_remove,0.9015,0.9015,True
+8436,ko-KR,calendar,calendar_set,삼월 수요일마다 오후 열두시 점심 회의 설정해,iot_hue_lightoff,0.4294,0.2669,False
+8442,ko-KR,calendar,calendar_set,이 일정 관련해서 내 캘린더 수정해,calendar_remove,0.996,0.0024,False
+8449,ko-KR,calendar,calendar_set,내 딸들 생일 리마인더 잡아줘,iot_hue_lightoff,0.5218,0.0111,False
+8453,ko-KR,calendar,calendar_set,내 달력에 행사 만들어서 반복 행사 표시해 줘,email_sendemail,0.999,0.0,False
+8460,ko-KR,calendar,calendar_query,내 이벤트들 보여줘,recommendation_events,0.8808,0.0041,False
+8461,ko-KR,calendar,calendar_query,오월 계획이 뭐 있어,cooking_recipe,0.5746,0.015,False
+8466,ko-KR,calendar,calendar_set,수요일 오전 아홉시 회의 있는 거 다시 알려줘,qa_factoid,0.2069,0.0277,False
+8469,ko-KR,calendar,calendar_query,내 캘린더에서 오늘 스케줄 뭐야,calendar_set,0.5436,0.182,False
+8474,ko-KR,calendar,calendar_set,내일 오후 두 시 명촌동 일이삼 장소에서 진희의 생일 파티 달력에 추가해,email_sendemail,0.3903,0.0246,False
+8494,ko-KR,calendar,calendar_query,오늘 같은 내 일정 뭐 있어,email_query,0.9924,0.0003,False
+8496,ko-KR,calendar,calendar_query,내일 아침 내 회의 관해서 말해줘,email_sendemail,0.953,0.0013,False
+8498,ko-KR,calendar,calendar_query,리마인더 모두 나열해,lists_remove,0.6686,0.0062,False
+8516,ko-KR,calendar,calendar_remove,달력 항목 삭제,email_sendemail,1.0,0.0,False
+8520,ko-KR,calendar,calendar_set,이벤트를 캘린더 앱에 추가해,recommendation_events,0.7562,0.2243,False
+8525,ko-KR,calendar,calendar_query,세시에서 다섯시 미팅 리마인더,datetime_query,0.4956,0.0131,False
+8535,ko-KR,calendar,calendar_set,두 시간 후 나 치과 예약 있는 거 리마인드 해 줄래,qa_factoid,0.7686,0.0042,False
+8539,ko-KR,calendar,calendar_set,리마인드해 줘,iot_hue_lightoff,0.7398,0.0068,False
+8541,ko-KR,calendar,calendar_set,제발 알려줘,qa_factoid,0.9836,0.0004,False
+8553,ko-KR,calendar,calendar_set,내 캘린더에서 지민이와 오전 아홉시 미팅 추가해,calendar_set,0.9934,0.9934,True
+8559,ko-KR,calendar,calendar_query,오늘 일정 뭐 있어,email_query,0.9951,0.0,False
+8562,ko-KR,calendar,calendar_remove,오늘 오후 두시 미팅 삭제해,calendar_remove,0.4918,0.4918,True
+8568,ko-KR,calendar,calendar_set,화요일 오전 열한시 지훈이랑 희수 같이 브런치 초대 보내줄래,recommendation_events,0.1848,0.0438,False
+8570,ko-KR,calendar,calendar_set,내일 오후 두시 이벤트 내가 바쁜 거 표시해 줘,iot_hue_lightoff,0.3665,0.0052,False
+8579,ko-KR,calendar,calendar_query,오늘 내 미팅 어떤 내용이야,email_query,0.9996,0.0,False
+8585,ko-KR,calendar,calendar_set,삼십일 생일파티 있는 거 알려줘,cooking_recipe,0.3222,0.0168,False
+8598,ko-KR,calendar,calendar_set,오후 여섯시 공항으로 민준이 픽업 알려줘,weather_query,0.7217,0.0004,False
+8618,ko-KR,calendar,calendar_set,매주 화 목 토마다 화분 물주기 리마인드해 줘,email_sendemail,0.8754,0.0051,False
+8631,ko-KR,calendar,calendar_remove,내 달력에서 저거 지워,qa_factoid,0.8288,0.0228,False
+8635,ko-KR,calendar,calendar_set,추수 감사절 삼 주 전에 칠면조 주문하는 거 리마인드해줘,email_sendemail,0.2266,0.0155,False
+8640,ko-KR,calendar,calendar_set,내일 도서관 이벤트를 달력에 메모하고 싶어,email_sendemail,0.62,0.0152,False
+8642,ko-KR,calendar,calendar_set,오늘 오후 네시 내 리마인더 목록에 전화 회의 추가해,lists_remove,0.1876,0.0563,False
+8651,ko-KR,calendar,calendar_set,내 달력에서 일정 알려줘,email_sendemail,0.8432,0.0,False
+8653,ko-KR,calendar,calendar_set,내 캘린더에 이벤트 리마인드해 줘,calendar_set,0.9747,0.9747,True
+8666,ko-KR,calendar,calendar_remove,내 달력에서 모든 일정 지워줘,email_sendemail,1.0,0.0,False
+8667,ko-KR,calendar,calendar_query,박씨랑 지난 삼 개월 미팅 몇 개 했어,email_sendemail,0.9856,0.0,False
+8670,ko-KR,calendar,calendar_remove,달력에서 이벤트 삭제해,iot_hue_lightoff,0.8199,0.0095,False
+8672,ko-KR,calendar,calendar_query,블핑 콘서트 어디서 해,play_music,0.9806,0.0001,False
+8674,ko-KR,calendar,calendar_query,오전 아홉시 미팅 어디야,social_post,0.2873,0.0336,False
+8679,ko-KR,calendar,calendar_query,오늘 현충일이야,email_query,0.8441,0.0026,False
+8681,ko-KR,calendar,calendar_query,누구 생일 있어,qa_factoid,0.6428,0.0085,False
+8694,ko-KR,calendar,calendar_set,그 이벤트는 재혁 하고 지현 포함할거야,recommendation_events,0.8464,0.0052,False
+8730,ko-KR,calendar,calendar_set,삼월 이십오일 내 미팅 캘린더에 리마인더 세팅해줘,calendar_set,0.3607,0.3607,True
+8732,ko-KR,calendar,calendar_remove,날짜 전체 삭제해,qa_factoid,0.9913,0.0004,False
+8762,ko-KR,calendar,calendar_query,오늘 오후 늦게 내 스케줄 말해줘,calendar_remove,0.5887,0.0342,False
+8765,ko-KR,calendar,calendar_set,달력에 오늘 아홉시에 김밥천국에서 저녁식사라고 적어줘,cooking_recipe,0.997,0.0001,False
+8766,ko-KR,calendar,calendar_query,삼월 이십오일 토요일에 미팅 있어,email_sendemail,0.6603,0.0113,False
+8767,ko-KR,calendar,calendar_query,현주 생일이 사월 십이일 이야,weather_query,0.419,0.012,False
+8769,ko-KR,calendar,calendar_remove,다가오는 이벤트 지워줘,iot_hue_lightoff,0.9999,0.0,False
+8771,ko-KR,calendar,calendar_remove,삼월 이십삼일 나 일정에서 쇼핑 여행 삭제해,calendar_remove,0.8928,0.8928,True
+8774,ko-KR,calendar,calendar_query,칠 월 칠 일 내 일정 완전히 오픈해,calendar_remove,0.8423,0.0302,False
+8781,ko-KR,calendar,calendar_query,나 오후 네시 에 한가해,weather_query,0.9856,0.0004,False
+8782,ko-KR,calendar,calendar_query,오늘 오후 미팅 있어,iot_hue_lightoff,0.4773,0.007,False
+8791,ko-KR,calendar,calendar_query,이 이벤트 정보 더 알려줘,recommendation_events,0.7693,0.0064,False
+8795,ko-KR,calendar,calendar_query,보류 중인 리마인더 보여줘,play_music,0.2552,0.0237,False
+8822,ko-KR,recommendation,recommendation_events,다가오는 이벤트 정보,recommendation_events,0.9159,0.9159,True
+8824,ko-KR,calendar,calendar_query,십구일 오후 두시 일정이 뭐가 있어,weather_query,0.2463,0.0861,False
+8825,ko-KR,calendar,calendar_set,다음 금요일 현우 와의 미팅 에 관한 리마인더 보내줘,email_sendemail,0.3961,0.0217,False
+8828,ko-KR,calendar,calendar_query,캘린더 이벤트 가 맞아,qa_factoid,0.8973,0.0203,False
+8846,ko-KR,calendar,calendar_query,올해 칠월 사일 로 설정해둔 것 있어,email_sendemail,0.6573,0.0039,False
+8853,ko-KR,calendar,calendar_remove,내 다음 활동 삭제,lists_remove,0.7354,0.0051,False
+8856,ko-KR,calendar,calendar_remove,달력의 모든 이벤트들 삭제,lists_remove,0.5511,0.1793,False
+8857,ko-KR,calendar,calendar_set,다가오는 종민 과의 미팅 알려줘,social_post,0.9976,0.0001,False
+8868,ko-KR,calendar,calendar_set,매주 화요일 오전 열시 에 엄마에게 전화하라고 알려줘,email_sendemail,0.6425,0.012,False
+8880,ko-KR,calendar,calendar_set,내일 오전 아홉시 미팅 리마인더 설정,iot_hue_lightoff,0.8058,0.0098,False
+8888,ko-KR,calendar,calendar_remove,그거 삭제해,qa_factoid,0.8824,0.0182,False
+8900,ko-KR,calendar,calendar_set,매주 일요일 반복되는 리마인더를 맞춰 줘,iot_hue_lightoff,0.9631,0.0015,False
+8904,ko-KR,calendar,calendar_query,최근의 이벤트들 정보,recommendation_events,0.6432,0.0173,False
+8906,ko-KR,calendar,calendar_set,다른 것들 과 달력 에 이벤트 날짜 설정해,recommendation_events,0.9675,0.0024,False
+8907,ko-KR,calendar,calendar_set,다른 사람들과의 이벤트 알려줘,recommendation_events,0.8475,0.0015,False
+8912,ko-KR,calendar,calendar_query,오후 여섯시 이후 오늘의 달력 이벤트 알려줘,recommendation_events,0.5001,0.0168,False
+8914,ko-KR,calendar,calendar_query,사월 사일 내 약속 몇 시야,weather_query,0.8763,0.0005,False
+8916,ko-KR,calendar,calendar_query,하루 동안 일정 알려줘,email_sendemail,0.7614,0.0027,False
+8925,ko-KR,calendar,calendar_remove,내 달력의 모든 이벤트들 삭제,email_sendemail,0.9977,0.0003,False
+8939,ko-KR,calendar,calendar_set,은미 딸 베이비 샤워,iot_hue_lightoff,0.7799,0.004,False
+8948,ko-KR,calendar,calendar_set,재훈 과의 미팅 이벤트 추가,recommendation_events,0.7605,0.0114,False
+8949,ko-KR,calendar,calendar_remove,리마인더,qa_factoid,0.2529,0.0302,False
+8958,ko-KR,calendar,calendar_query,회의 시간 열어 줘,qa_factoid,0.9499,0.0019,False
+8960,ko-KR,calendar,calendar_set,다음 회의 에 대해서 오늘 저녁 에 알려줘,email_sendemail,0.8853,0.0048,False
+8967,ko-KR,calendar,calendar_set,부인 생일 이틀 전에 리마인드해 줘,email_sendemail,0.466,0.0095,False
+8968,ko-KR,calendar,calendar_set,이번 주 기억할 것 있으면 알려줘,email_query,0.3591,0.016,False
+8975,ko-KR,calendar,calendar_query,오늘 잡혀있는 미팅 뭐 있어,cooking_recipe,0.1646,0.0364,False
+8977,ko-KR,calendar,calendar_set,보류 청구서 지불 에 관한 리마인더 설정,qa_factoid,0.4512,0.0269,False
+8978,ko-KR,calendar,calendar_set,일주일 동안 사장님과 중요한 회의 관련해서 알려줘,email_sendemail,0.9998,0.0,False
+8985,ko-KR,calendar,calendar_remove,재현 생일 캘린더에서 삭제,calendar_remove,0.9937,0.9937,True
+8990,ko-KR,calendar,calendar_set,이벤트 만들어,email_sendemail,0.9907,0.0001,False
+8992,ko-KR,calendar,calendar_set,미팅들 보여줘,social_post,0.9895,0.0003,False
+9009,ko-KR,calendar,calendar_remove,내 캘린더 에서 기념일 이벤트 삭제,calendar_remove,0.9997,0.9997,True
+9011,ko-KR,calendar,calendar_query,이번 달 십사일 추수 감사절 이벤트 진짜야,qa_factoid,0.9933,0.0002,False
+9014,ko-KR,calendar,calendar_set,시월 이십삼일 내 직장동료 와의 회의 에 관한 알림 설정해주세요,email_sendemail,0.9996,0.0,False
+9015,ko-KR,calendar,calendar_remove,내 캘린더 모든 일정들 삭제해,calendar_remove,1.0,1.0,True
+9019,ko-KR,calendar,calendar_query,유월 이십일부터 이십오일 까지 미팅들,social_post,0.3124,0.021,False
+9030,ko-KR,calendar,calendar_remove,오늘 진료 예약 캘린더에서 삭제,calendar_remove,0.9911,0.9911,True
+9035,ko-KR,calendar,calendar_query,재인 결혼식 리마인더,play_music,0.9857,0.0007,False
+9043,ko-KR,calendar,calendar_set,캘린더 에서 다가오는 일정,calendar_query,0.7861,0.0955,False
+9053,ko-KR,calendar,calendar_set,화요일 에 현미 와의 미팅 일정 리마인더 설정,calendar_set,0.393,0.393,True
+9054,ko-KR,calendar,calendar_set,화요일 윤희 일정 리마인더,email_query,0.8675,0.0023,False
+9059,ko-KR,calendar,calendar_set,이벤트 시간에 알려줘,email_sendemail,0.6751,0.0015,False
+9061,ko-KR,calendar,calendar_query,리마인더 에 어떤 정보가 있어,email_query,0.5316,0.0055,False
+9062,ko-KR,calendar,calendar_set,유월 이십이일에 현수 생일이라고 표시해줘,email_sendemail,1.0,0.0,False
+9074,ko-KR,calendar,calendar_remove,그 일정 삭제해주세요,lists_remove,0.6306,0.0299,False
+9088,ko-KR,calendar,calendar_remove,내 캘린더에 있는 거 전부 지워,calendar_remove,1.0,1.0,True
+9095,ko-KR,calendar,calendar_remove,지호랑 오늘밤 저녁 삭제해,calendar_remove,0.6558,0.6558,True
+9103,ko-KR,calendar,calendar_query,오늘 오후 회의 달력에 있어,email_query,0.1411,0.0347,False
+9107,ko-KR,calendar,calendar_query,유월 삼일 이승환 콘서트 몇 시에 시작해,datetime_query,0.7359,0.0035,False
+9110,ko-KR,calendar,calendar_set,삼월 이십오일 샤갈 전시회 해당 날짜에 표시해 줘,email_sendemail,1.0,0.0,False
+9112,ko-KR,calendar,calendar_set,내 달력에서 이것 추가해,qa_factoid,0.145,0.1151,False
+9114,ko-KR,calendar,calendar_set,이 달력 이벤트에 반복 리마인더 설정해,recommendation_events,0.5791,0.0228,False
+9116,ko-KR,calendar,calendar_query,내 미팅 조정해 줘,iot_hue_lightoff,0.4267,0.0076,False
+9121,ko-KR,calendar,calendar_query,내가 예약되어 있는 날이 언제야,weather_query,0.638,0.001,False
+9124,ko-KR,calendar,calendar_set,다음 주 내 업무 달력 이벤트 보여줘,qa_factoid,0.9221,0.0011,False
+9137,ko-KR,calendar,calendar_query,점심 저녁 사이에 이탈리아 식당 몇시에 닫아,weather_query,0.1273,0.0575,False
+9138,ko-KR,qa,qa_factoid,슈퍼볼 언제 시작해,qa_factoid,0.7806,0.7806,True
+9149,ko-KR,calendar,calendar_query,칠순 저녁 식사 몇 시에 시작해,datetime_query,0.7787,0.0097,False
+9153,ko-KR,calendar,calendar_set,내 달력에 토요일 진희와의 저녁 식사 추가해,calendar_set,0.4241,0.4241,True
+9155,ko-KR,calendar,calendar_set,금요일 세시 치과 예약 잡아줘,weather_query,0.8857,0.0031,False
+9156,ko-KR,calendar,calendar_set,알려줘,email_sendemail,0.9953,0.0,False
+9175,ko-KR,calendar,calendar_query,십분 전에 내 캘린더 업데이트 됐니,calendar_remove,0.6217,0.0296,False
+9182,ko-KR,calendar,calendar_remove,공항에서 부모님 모시고 오는 일정 취소해줘,calendar_remove,0.6804,0.6804,True
+9187,ko-KR,calendar,calendar_set,회의 참석하는 고객사 찾아 줘,qa_factoid,0.936,0.0004,False
+9193,ko-KR,calendar,calendar_set,이 날짜 반복 설정해,qa_factoid,0.9887,0.0002,False
+9194,ko-KR,calendar,calendar_remove,내 달력에서 이 이벤트 삭제해 줘,email_sendemail,0.6918,0.0053,False
+9197,ko-KR,calendar,calendar_query,이번 주 내 일정 알려줘,email_query,0.8413,0.0001,False
+9198,ko-KR,calendar,calendar_query,내 리마인더들 확인해 줘,recommendation_events,0.5609,0.013,False
+9202,ko-KR,play,play_radio,내 라디오 방송국 재생,play_radio,0.9979,0.9979,True
+9204,ko-KR,play,play_radio,에스비에스 라디오 틀어줘,play_radio,0.9827,0.9827,True
+9212,ko-KR,play,play_radio,누가 라디오 틀어,play_radio,1.0,1.0,True
+9216,ko-KR,play,play_radio,내 스테이션 재생,iot_hue_lightoff,0.8885,0.0076,False
+9225,ko-KR,play,play_radio,라디오 켜줄 수 있어,play_radio,1.0,1.0,True
+9233,ko-KR,play,play_radio,pandora 열어,qa_factoid,0.9881,0.0006,False
+9236,ko-KR,play,play_radio,채널 구십오 점 구 로 가줘,qa_factoid,0.6568,0.0008,False
+9237,ko-KR,play,play_radio,라디오 켜서 채널 팔십구 점 일 틀어줘,play_radio,1.0,1.0,True
+9250,ko-KR,play,play_radio,라디오 듣고 싶어,play_radio,1.0,1.0,True
+9254,ko-KR,play,play_radio,f. m. 구십일 점 구 라디오 틀어줘,play_radio,1.0,1.0,True
+9263,ko-KR,play,play_radio,radio 앱 열어,play_radio,1.0,1.0,True
+9269,ko-KR,play,play_radio,f. m. 팔십구 점 일 로 맞춰,qa_factoid,0.5034,0.0087,False
+9270,ko-KR,play,play_radio,f. m. 팔십구 점 일 틀어줘,qa_factoid,0.7763,0.0094,False
+9275,ko-KR,play,play_radio,라디오에서 f.m. 구십일 점 구 만 재생,play_radio,0.999,0.999,True
+9284,ko-KR,play,play_radio,f. m. 라디오 틀어,play_radio,1.0,1.0,True
+9291,ko-KR,play,play_radio,틀어,qa_factoid,0.9982,0.0001,False
+9301,ko-KR,play,play_radio,줄리엣 틀어,play_music,0.8448,0.0038,False
+9303,ko-KR,play,play_radio,옛날 음악 방송 재생,play_music,0.9477,0.0002,False
+9305,ko-KR,play,play_radio,클래식 f. m. 맞쳐줘,qa_factoid,0.8611,0.0025,False
+9316,ko-KR,play,play_radio,키스 에프엠 와줘 틀어줘,iot_hue_lightoff,0.1989,0.0423,False
+9317,ko-KR,play,play_radio,라디오 지금 시작,play_radio,1.0,1.0,True
+9321,ko-KR,play,play_radio,라디오 지금 켜줘,play_radio,0.9999,0.9999,True
+9323,ko-KR,play,play_radio,pandora 시작,email_sendemail,0.7151,0.0062,False
+9326,ko-KR,play,play_radio,라디오 방송국 일번 지금 바로 틀어,qa_factoid,0.641,0.3146,False
+9327,ko-KR,play,play_radio,라디오 채널 am으로 지금 바로 변경해줘,play_radio,0.9955,0.9955,True
+9330,ko-KR,play,play_radio,재생,qa_factoid,0.9917,0.0003,False
+9341,ko-KR,play,play_radio,알렉사 라디오 방송국 바꿔,play_radio,0.9613,0.9613,True
+9352,ko-KR,play,play_radio,라디오 재생해주세요,play_radio,0.9989,0.9989,True
+9353,ko-KR,play,play_radio,라디오 틀어서 노래 좀 틀어,play_radio,0.999,0.999,True
+9358,ko-KR,play,play_radio,팔십구 점 일 라디오 채널 틀어,play_podcasts,0.4852,0.4785,False
+9361,ko-KR,play,play_radio,라디오 듣기,play_radio,0.9999,0.9999,True
+9362,ko-KR,play,play_radio,라디오 채널,play_radio,0.5461,0.5461,True
+9363,ko-KR,play,play_radio,라디오 에서 히트 틀어줘,play_radio,1.0,1.0,True
+9364,ko-KR,play,play_radio,히트송 틀어줘,play_music,0.8795,0.0362,False
+9380,ko-KR,play,play_radio,라디오 국악방송 듣고 싶어,play_music,0.9961,0.0015,False
+9384,ko-KR,play,play_radio,m. b. c. 라디오 틀어,play_radio,0.9985,0.9985,True
+9394,ko-KR,play,play_radio,헤이 올리 라디오 틀어줘,play_radio,0.9301,0.9301,True
+9402,ko-KR,play,play_radio,구십삼 점 일 라디오 방송국 재생,play_radio,0.38,0.38,True
+9406,ko-KR,play,play_radio,경인방송 시작,play_music,0.9994,0.0,False
+9408,ko-KR,play,play_radio,라디오 재생 시작,play_radio,0.9999,0.9999,True
+9426,ko-KR,play,play_radio,발라드 틀어주는 방송 듣고 싶어,play_music,1.0,0.0,False
+9438,ko-KR,play,play_radio,라디오 에서 랩 노래 틀어줄 수 있어,play_music,0.9999,0.0001,False
+9457,ko-KR,play,play_music,노래 신호등 재생,play_music,0.9865,0.9865,True
+9460,ko-KR,play,play_music,구십년대 힙합 재생,play_music,0.9797,0.9797,True
+9471,ko-KR,play,play_radio,트로트 음악 방송국 켜줘,play_music,0.8031,0.0031,False
+9494,ko-KR,play,play_radio,케이팝 노래들 틀어주는 f. m. 방송국 틀어줄 수 있어,play_music,0.995,0.0,False
+9506,ko-KR,play,play_radio,올리 k. b. s. 팔백구십일 듣자,email_sendemail,0.364,0.0203,False
+9507,ko-KR,play,play_radio,현재 조용필 이 진행하는 라디오 방송국 찾아줘,play_music,0.2406,0.1819,False
+9519,ko-KR,play,play_radio,어떤 거라도 좋으니 팝 f. m. 채널 틀어줘,play_music,0.9784,0.0001,False
+9520,ko-KR,play,play_radio,라디오 방송 출연한 마지막 의사 켜줘,qa_factoid,1.0,0.0,False
+9524,ko-KR,play,play_radio,시사전망대 프로그램 틀어줘,iot_hue_lightoff,0.3807,0.0102,False
+9528,ko-KR,play,play_radio,m. b. c. 켜서 스피커 에서 나오도록 틀어줘,iot_hue_lightoff,0.8305,0.0392,False
+9541,ko-KR,play,play_radio,라디오에서 달콤한 노래 틀어줘,play_music,1.0,0.0,False
+9542,ko-KR,play,play_radio,라디오 에서 최신 뉴스 프로그램 들을래,play_radio,0.9275,0.9275,True
+9545,ko-KR,play,play_radio,컬투 쇼 듣고 싶어,play_music,0.9275,0.0011,False
+9554,ko-KR,play,play_radio,kbs f.m. 백일점일에서 발라드 음악 틀어줘,play_music,0.9995,0.0,False
+9561,ko-KR,play,play_radio,라디오에서 극동방송 틀어줘,play_music,0.9999,0.0001,False
+9562,ko-KR,play,play_radio,이 프로그램 틀어줘,qa_factoid,0.9963,0.0001,False
+9565,ko-KR,play,play_radio,논스탑 의 노래 가 나오는 라디오 틀어,play_music,0.6121,0.3839,False
+9568,ko-KR,play,play_radio,아이유 라이브 콘서트 시리즈 틀어,play_music,0.9996,0.0,False
+9569,ko-KR,play,play_radio,오케이 구글 백칠 점 칠 재생해,iot_hue_lightoff,0.907,0.0017,False
+9577,ko-KR,play,play_radio,라디오 주파수를 팔십구 점 일 로 바꿔,play_radio,0.7239,0.7239,True
+9591,ko-KR,play,play_radio,구십팔 점 칠 f. m. 에서 굿모닝 팝스 프로그램 재생,play_music,0.5861,0.0566,False
+9592,ko-KR,play,play_podcasts,남자의 고민 커버곡 팟캐스트 찾아줘,play_podcasts,0.8504,0.8504,True
+9594,ko-KR,play,play_radio,f. m. 구십일 점 구 라디오 노래들,play_music,0.9616,0.0081,False
+9601,ko-KR,play,play_radio,트로트 라디오 틀어줘,play_radio,0.7662,0.7662,True
+9617,ko-KR,play,play_radio,백 일 점 구 에서 모닝쇼 틀어줘,qa_factoid,0.9984,0.0001,False
+9619,ko-KR,play,play_radio,차 라디오 에서 프레리 홈 컴패니언 틀어줘,play_radio,0.9526,0.9526,True
+9620,ko-KR,play,play_radio,침실 라디오 에서 컬투쇼 들을 수 있어,play_radio,0.6205,0.6205,True
+9629,ko-KR,play,play_radio,라디오 듣는거 도와줄래,play_radio,1.0,1.0,True
+9630,ko-KR,play,play_radio,e. b. s. f. m. 틀어줘,qa_factoid,0.9649,0.0005,False
+9632,ko-KR,play,play_radio,라디오 부탁해,play_radio,0.9964,0.9964,True
+9637,ko-KR,play,play_radio,쿨 f. m. 에서 내 플레이리스트 시작,play_music,0.9401,0.0192,False
+9640,ko-KR,play,play_radio,spotify 틀고 운동 켜,iot_hue_lightoff,0.4444,0.0079,False
+9651,ko-KR,play,play_radio,내 플레이스테이션 포 에서 netflix 틀어,iot_hue_lightoff,0.4322,0.0244,False
+9656,ko-KR,play,play_music,스피커 로 경쾌한 음악 틀어,play_music,0.9998,0.9998,True
+9706,ko-KR,play,play_music,징글벨 틀어줘,qa_factoid,0.6562,0.0027,False
+9707,ko-KR,play,play_music,미디어 열어서 징글벨 재생,play_podcasts,0.7434,0.1725,False
+9738,ko-KR,play,play_music,클래식 음악 들려줄 수 있어,play_music,0.9975,0.9975,True
+9793,ko-KR,play,play_music,댄스 노래 재생,play_music,0.9976,0.9976,True
+9795,ko-KR,play,play_music,겨울잠 재시작,iot_hue_lightoff,0.8407,0.0061,False
+9912,ko-KR,cooking,cooking_recipe,올리 계란 얼마나 오래 삶아야 해,cooking_recipe,0.9999,0.9999,True
+9918,ko-KR,cooking,cooking_recipe,피자 어떻게 만들어,cooking_recipe,0.9971,0.9971,True
+9923,ko-KR,cooking,cooking_recipe,계란 얼마나 삶아,cooking_recipe,1.0,1.0,True
+9924,ko-KR,cooking,cooking_recipe,레시피 알려줘,qa_factoid,0.9612,0.0001,False
+9930,ko-KR,cooking,cooking_recipe,계란 얼마나 오래 삶아야 해,cooking_recipe,0.9999,0.9999,True
+9931,ko-KR,cooking,cooking_recipe,올리 계란 은 얼마나 오래 삶나,cooking_recipe,0.9932,0.9932,True
+9940,ko-KR,cooking,cooking_recipe,수박 화채 레시피 찾아줘,cooking_recipe,1.0,1.0,True
+9941,ko-KR,cooking,cooking_recipe,닭백숙 어떻게 요리하나,cooking_recipe,1.0,1.0,True
+9942,ko-KR,cooking,cooking_recipe,레드벨벳 케이크 에 들어가는 모든 것,cooking_recipe,0.7273,0.7273,True
+9943,ko-KR,cooking,cooking_recipe,채소 라자냐 만드는 데 얼마나 걸려,qa_factoid,0.9996,0.0002,False
+9952,ko-KR,cooking,cooking_recipe,요리법 알려줘,cooking_recipe,1.0,1.0,True
+9955,ko-KR,cooking,cooking_recipe,닭 튀김 요리하는 비디오 보여줘,cooking_recipe,0.9999,0.9999,True
+9956,ko-KR,cooking,cooking_recipe,버터 는 무엇으로 대체할 수 있을까,qa_definition,0.7178,0.0019,False
+9961,ko-KR,cooking,cooking_recipe,감자 구이 하기 가장 좋은 오븐 온도는 뭐야,cooking_recipe,0.9992,0.9992,True
+9962,ko-KR,cooking,cooking_recipe,알단테 파스타 최고 레시피 뭐야,cooking_recipe,0.9991,0.9991,True
+9964,ko-KR,cooking,cooking_recipe,식품 가공 관련 지식,qa_definition,0.6322,0.2114,False
+9966,ko-KR,cooking,cooking_recipe,제일 쉬운 파스타 요리하는 법이 뭐야,cooking_recipe,0.9999,0.9999,True
+9969,ko-KR,cooking,cooking_recipe,파슬리 대신 어떤 재료 쓸 수 있어,cooking_recipe,0.8161,0.8161,True
+9971,ko-KR,cooking,cooking_recipe,구리 냄비랑 무쇠 냄비 중에 뭐가 더 열 전도가 잘 돼,cooking_recipe,0.9756,0.9756,True
+9976,ko-KR,cooking,cooking_recipe,헤이 로봇 전라도 김치 재료 목록 알려줘,qa_factoid,0.6487,0.0127,False
+9977,ko-KR,cooking,cooking_recipe,인터넷 검색해서 이탈리안 음식 요리에 적합한 유튜브 비디오 보여줘,cooking_recipe,0.9192,0.9192,True
+9979,ko-KR,cooking,cooking_recipe,오트밀 좀 요리해,cooking_recipe,1.0,1.0,True
+9980,ko-KR,cooking,cooking_recipe,오늘 메뉴는 뭐야 거기에 삶은 채소 도 좀 추가해,cooking_recipe,0.9865,0.9865,True
+9986,ko-KR,cooking,cooking_recipe,삶기,cooking_recipe,0.6357,0.6357,True
+9994,ko-KR,cooking,cooking_recipe,소고기 카레 요리하는 레시피 말해줄 수 있어,cooking_recipe,1.0,1.0,True
+10016,ko-KR,cooking,cooking_recipe,새해 송편 요리 과정을 다섯 문장으로 알려줘,cooking_recipe,0.9998,0.9998,True
+10019,ko-KR,cooking,cooking_recipe,오트밀 쿠키 열 두 개 어떻게 굽는지 말해줘,cooking_recipe,1.0,1.0,True
+10023,ko-KR,cooking,cooking_recipe,소고기 카레 만들려면 무엇이 필요해,cooking_recipe,0.9998,0.9998,True
+10027,ko-KR,cooking,cooking_recipe,식사 만들기 위한 방법,cooking_recipe,0.9997,0.9997,True
+10031,ko-KR,cooking,cooking_recipe,내 쇼핑 목록 에 있는 재료 가 들어가는 요리법 알려줘,cooking_recipe,1.0,1.0,True
+10038,ko-KR,cooking,cooking_recipe,좋은 레시피 알려줘,cooking_recipe,1.0,1.0,True
+10045,ko-KR,cooking,cooking_recipe,집에서 만든 닭고기 칼국수 레시피 알려줄 수 있어,cooking_recipe,1.0,1.0,True
+10048,ko-KR,cooking,cooking_recipe,생닭 어떻게 요리해,cooking_recipe,1.0,1.0,True
+10049,ko-KR,cooking,cooking_recipe,해물파전 어떻게 만드는지 말해줘,cooking_recipe,0.9535,0.9535,True
+10053,ko-KR,cooking,cooking_recipe,피자 어떻게 만들어,cooking_recipe,0.9971,0.9971,True
+10055,ko-KR,cooking,cooking_recipe,삼계탕 조리법 은 뭐야,cooking_recipe,1.0,1.0,True
+10061,ko-KR,cooking,cooking_recipe,저녁 으로 뭐 만들어야 할까,cooking_recipe,0.9999,0.9999,True
+10072,ko-KR,cooking,cooking_recipe,압력밥솥 에서 갈비 만드는 시간,cooking_recipe,0.998,0.998,True
+10076,ko-KR,cooking,cooking_recipe,베이킹소다를 베이킹파우더 로 대체할 수 있어,cooking_recipe,0.381,0.381,True
+10077,ko-KR,cooking,cooking_recipe,오늘 밤 저녁 식사 요리법 찾아줘,cooking_recipe,1.0,1.0,True
+10078,ko-KR,cooking,cooking_recipe,저녁 으로 뭐 요리해야 할까,cooking_recipe,1.0,1.0,True
+10080,ko-KR,cooking,cooking_recipe,미트볼 같이 만들자,cooking_recipe,0.9998,0.9998,True
+10081,ko-KR,cooking,cooking_recipe,미트볼 어떻게 요리하는지 말해줘,cooking_recipe,1.0,1.0,True
+10090,ko-KR,cooking,cooking_recipe,참치 레시피 얻을 수 있어,cooking_recipe,0.999,0.999,True
+10093,ko-KR,cooking,cooking_recipe,라자냐 어떻게 만들어,cooking_recipe,0.9986,0.9986,True
+10097,ko-KR,cooking,cooking_recipe,짬뽕 먹고 싶어,cooking_recipe,0.9997,0.9997,True
+10099,ko-KR,cooking,cooking_recipe,솥밥 어떻게 요리하는지 알아,cooking_recipe,1.0,1.0,True
+10100,ko-KR,cooking,cooking_recipe,볶음밥 레시피 알아,cooking_recipe,1.0,1.0,True
+10105,ko-KR,cooking,cooking_recipe,스테이크 미디엄 레어로 구우려면 얼마나 요리해야 해,cooking_recipe,1.0,1.0,True
+10107,ko-KR,cooking,cooking_recipe,야채 볶음밥 요리법 필요해,cooking_recipe,1.0,1.0,True
+10119,ko-KR,cooking,cooking_recipe,생닭 삼키로 얼마나 요리해야 해,cooking_recipe,1.0,1.0,True
+10125,ko-KR,cooking,cooking_recipe,오븐에 굽는 거랑 직화에 굽는 거랑 뭐가 달라,cooking_recipe,0.9997,0.9997,True
+10132,ko-KR,cooking,cooking_recipe,스테이크 를 미디움으로 하려면 얼마나 오래 요리해야 해,cooking_recipe,1.0,1.0,True
+10150,ko-KR,cooking,cooking_recipe,타코 어떻게 만들어,cooking_recipe,0.9811,0.9811,True
+10156,ko-KR,cooking,cooking_recipe,고추전 어떻게 만드는지 알아야 해,cooking_recipe,0.9994,0.9994,True
+10164,ko-KR,cooking,cooking_recipe,마카로니 얼마나 삶아야 돼,cooking_recipe,1.0,1.0,True
+10166,ko-KR,cooking,cooking_recipe,사과파이 요리법 찾아줘,cooking_recipe,1.0,1.0,True
+10171,ko-KR,cooking,cooking_recipe,매운탕 레시피 뭐야,cooking_recipe,1.0,1.0,True
+10177,ko-KR,cooking,cooking_recipe,두부면 어떻게 요리해,cooking_recipe,1.0,1.0,True
+10182,ko-KR,cooking,cooking_recipe,오믈렛 만드는 데 계란 몇 개 필요해,cooking_recipe,0.9998,0.9998,True
+10197,ko-KR,cooking,cooking_recipe,가장 좋은 스파게티 요리법 보여줘,cooking_recipe,1.0,1.0,True
+10206,ko-KR,cooking,cooking_recipe,쌀 은 어떻게 준비해,cooking_recipe,0.9999,0.9999,True
+10213,ko-KR,cooking,cooking_recipe,유명한 일본 레시피 나열해줘,cooking_recipe,0.5039,0.5039,True
+10214,ko-KR,cooking,cooking_recipe,한 시간 만에 완성할 수 있는 레시피,cooking_recipe,0.9266,0.9266,True
+10216,ko-KR,cooking,cooking_recipe,머핀 만들기 위해서 사야하는 것들 인터넷에서 검색해봐,cooking_recipe,0.6346,0.6346,True
+10217,ko-KR,cooking,cooking_recipe,만개의 레시피에서 김치 찌개 레시피 찾아줘,cooking_recipe,1.0,1.0,True
+10220,ko-KR,cooking,cooking_recipe,큰 케이크 구우려면 어떤 재료 필요해,cooking_recipe,0.9998,0.9998,True
+10224,ko-KR,cooking,cooking_recipe,맛있을 거야,cooking_recipe,0.9081,0.9081,True
+10226,ko-KR,cooking,cooking_recipe,파스타 준비하는 요리법 알려줘,cooking_recipe,1.0,1.0,True
+10426,ko-KR,lists,lists_query,다이어리에서 또 뭐가 부족하지,email_sendemail,0.6723,0.0006,False
+10427,ko-KR,lists,lists_remove,나의 쇼핑 목록 삭제해줘,lists_remove,0.9993,0.9993,True
+10430,ko-KR,lists,lists_remove,목록에 있는 첫 번째 아이템 삭제해줘,lists_remove,0.6966,0.6966,True
+10433,ko-KR,lists,lists_remove,내 할 일 목록 삭제해줘,lists_remove,0.9999,0.9999,True
+10440,ko-KR,lists,lists_query,어떤 특별 이벤트가 나의 목록에 있어,recommendation_events,0.9823,0.0008,False
+10442,ko-KR,lists,lists_remove,내 목록에서 이벤트를 제거해,lists_remove,0.7279,0.7279,True
+10444,ko-KR,lists,lists_remove,아이템 삭제해,iot_hue_lightoff,0.8449,0.0854,False
+10451,ko-KR,lists,lists_query,나 오늘 뭐 해야 해,cooking_recipe,0.9733,0.0024,False
+10455,ko-KR,lists,lists_query,나의 할 일 목록에 뭐가 있어,lists_query,0.9586,0.9586,True
+10462,ko-KR,lists,lists_remove,목록 삭제,lists_remove,0.752,0.752,True
+10493,ko-KR,lists,lists_query,나의 할 일 목록에 뭐가 있어,lists_query,0.9586,0.9586,True
+10494,ko-KR,lists,lists_remove,문구점에서 살 거 연필 삭제해줘,lists_remove,0.9372,0.9372,True
+10497,ko-KR,qa,qa_factoid,파리 의 별 다섯 호텔 목록 알려줘,recommendation_events,0.7569,0.0025,False
+10508,ko-KR,lists,lists_remove,목록 아이템 삭제해,lists_remove,0.6785,0.6785,True
+10512,ko-KR,lists,lists_query,목록에 남은 거 알려줘,email_sendemail,0.4423,0.0155,False
+10523,ko-KR,lists,lists_remove,내 플레이리스트에서 영어 팝송 리스트 삭제,lists_remove,1.0,1.0,True
+10525,ko-KR,lists,lists_remove,나의 캘린더 에서 나의 자동차 대금 삭제해,email_sendemail,0.5712,0.0901,False
+10527,ko-KR,lists,lists_remove,그 목록 없애줘,lists_remove,0.9989,0.9989,True
+10534,ko-KR,lists,lists_query,오늘 의 할 일 목록 어떻게 만들어,lists_query,0.5703,0.5703,True
+10538,ko-KR,lists,lists_query,나의 쇼핑 목록 반복해서 말해봐,lists_remove,0.8709,0.0794,False
+10565,ko-KR,lists,lists_remove,모든 목록 삭제,lists_remove,1.0,1.0,True
+10568,ko-KR,lists,lists_remove,올드 뮤직 목록 삭제해줘,lists_remove,0.9906,0.9906,True
+10570,ko-KR,lists,lists_query,나의 할 일 목록 체크해,lists_query,0.7696,0.7696,True
+10571,ko-KR,lists,lists_query,안드로이드,iot_hue_lightoff,0.941,0.0023,False
+10577,ko-KR,lists,lists_query,나의 모든 목록들 줘봐,lists_remove,0.8086,0.1899,False
+10579,ko-KR,lists,lists_remove,장소 리스트 다시 설정해 줘,lists_remove,0.9996,0.9996,True
+10588,ko-KR,lists,lists_query,리스트 내용 보여줘,play_podcasts,0.2649,0.0191,False
+10590,ko-KR,lists,lists_remove,목록에서 두 번째 줄 삭제,lists_remove,0.9986,0.9986,True
+10655,ko-KR,lists,lists_remove,파티 타임 목록 삭제해줘,lists_remove,0.9998,0.9998,True
+10667,ko-KR,lists,lists_query,스케줄 목록 나열해,lists_query,0.953,0.953,True
+10673,ko-KR,lists,lists_remove,다음 목록 삭제해주세요,lists_remove,1.0,1.0,True
+10674,ko-KR,lists,lists_remove,현재 목록 버려,lists_remove,0.9998,0.9998,True
+10679,ko-KR,lists,lists_query,오늘 내가 할 일 리스트에 뭐 있어,lists_query,0.5465,0.5465,True
+10684,ko-KR,lists,lists_query,내가 무슨 목록을 요청했지,lists_remove,0.5375,0.4554,False
+10687,ko-KR,lists,lists_remove,쇼 이벤트가 있다면 그거 삭제해줘,qa_factoid,0.7279,0.0172,False
+10696,ko-KR,lists,lists_remove,대체,qa_factoid,0.4075,0.1518,False
+10699,ko-KR,lists,lists_query,목록에서 아이템들 알려줘,lists_remove,0.3268,0.1237,False
+10718,ko-KR,lists,lists_remove,목록에서 이거 삭제해줄 수 있어,lists_remove,0.7996,0.7996,True
+10731,ko-KR,lists,lists_query,내 목록에 있는 것들을 읽어줘,lists_query,0.9899,0.9899,True
+10743,ko-KR,lists,lists_remove,그 아이템 삭제해,lists_remove,0.4882,0.4882,True
+10753,ko-KR,lists,lists_query,이마트 목록에 내가 뭐 적었어,lists_remove,0.9798,0.014,False
+10755,ko-KR,lists,lists_remove,나의 할 일 목록 버려,lists_remove,0.9993,0.9993,True
+10756,ko-KR,lists,lists_remove,쇼핑 목록 비워,lists_remove,0.9999,0.9999,True
+10757,ko-KR,lists,lists_query,내 쇼핑 목록 에 어떤 항목 있어,lists_query,0.9984,0.9984,True
+10759,ko-KR,lists,lists_query,쇼핑 목록 읽어줘,lists_query,0.7371,0.7371,True
+10760,ko-KR,lists,lists_query,이틀 전에 적은 목록 알려줘,lists_remove,0.9996,0.0001,False
+10770,ko-KR,lists,lists_remove,쇼핑 목록에서 씨리얼 빼줘,lists_remove,0.7819,0.7819,True
+10772,ko-KR,calendar,calendar_remove,오늘 치과 예약 삭제해 줘,lists_remove,0.7575,0.08,False
+10776,ko-KR,lists,lists_query,내 식료품 목록 준비되었나,cooking_recipe,0.6379,0.3011,False
+10786,ko-KR,lists,lists_remove,내 오늘 액티비티 목록 지워줘,lists_remove,0.9996,0.9996,True
+10790,ko-KR,lists,lists_remove,목록 에서 항목 삭제,lists_remove,0.4426,0.4426,True
+10804,ko-KR,lists,lists_query,식료품 목록 읽어줘,lists_query,0.4456,0.4456,True
+10805,ko-KR,lists,lists_query,내가 가진 목록 을 나에게 보여 줘,lists_remove,0.7688,0.227,False
+10808,ko-KR,lists,lists_remove,리스트에 있는 마지막 아이템 삭제해줘,lists_remove,0.4556,0.4556,True
+10824,ko-KR,lists,lists_remove,올리 목록 지워 줘,lists_remove,0.9998,0.9998,True
+10825,ko-KR,lists,lists_remove,목록 비워줘,lists_remove,0.8125,0.8125,True
+10827,ko-KR,lists,lists_remove,잡화 목록 지워줘,iot_hue_lightoff,0.9136,0.082,False
+10828,ko-KR,lists,lists_remove,모두 제거해,lists_remove,0.5965,0.5965,True
+10832,ko-KR,calendar,calendar_query,올리 내 다음 계획은 뭐야,cooking_recipe,0.6579,0.0047,False
+10843,ko-KR,lists,lists_remove,나의 잡화 목록 에서 우유 삭제,lists_remove,0.9988,0.9988,True
+10846,ko-KR,lists,lists_remove,닌텐도 스위치 살 돈이 충분히 없는데 아마존 위시리스트에서 그것 제거해줄래,iot_hue_lightoff,0.3212,0.1583,False
+10848,ko-KR,lists,lists_remove,이 목록 삭제해줘,lists_remove,1.0,1.0,True
+10851,ko-KR,lists,lists_query,나의 가능한 목록이 무엇이 있니,lists_query,0.9935,0.9935,True
+10853,ko-KR,lists,lists_remove,거기 서 그거 빼,qa_factoid,0.9848,0.0018,False
+10855,ko-KR,lists,lists_query,나의 목록 확인 좀 해 줘,lists_remove,0.9898,0.0095,False
+10868,ko-KR,lists,lists_query,올리 목록 에서 아무거나 남은 거 있어,lists_remove,0.9646,0.0023,False
+10887,ko-KR,lists,lists_remove,나의 목록 삭제,lists_remove,1.0,1.0,True
+10895,ko-KR,lists,lists_remove,목록에서 문구 지워줘,iot_hue_lightoff,0.976,0.0168,False
+10909,ko-KR,lists,lists_query,경희야 목록 나에게 읽어줘,recommendation_events,0.59,0.0372,False
+10927,ko-KR,lists,lists_query,내 목록 알려줘,lists_remove,0.6192,0.3757,False
+10931,ko-KR,lists,lists_query,나의 재생 목록 에 뭐 있어,lists_query,0.9722,0.9722,True
+10936,ko-KR,lists,lists_remove,최고 좋아하는 앨범 목록 지워주세요,lists_remove,0.9989,0.9989,True
+10954,ko-KR,lists,lists_query,연락처에 사람들 목록 얼마나 많이 있어,lists_query,0.676,0.676,True
+10956,ko-KR,lists,lists_query,나의 연락처 에 어떤 그룹이 나열되어 있어,social_post,0.904,0.0099,False
+10957,ko-KR,lists,lists_query,나 리스트 몇개 있는지 알려줘,lists_remove,0.9211,0.0782,False
+10960,ko-KR,lists,lists_remove,목록에서 저것 삭제해줘,lists_remove,0.919,0.919,True
+10970,ko-KR,lists,lists_remove,마지막 문구 삭제해줘,calendar_remove,0.334,0.2985,False
+10979,ko-KR,lists,lists_query,네 리스트에 지금 뭐 있어,lists_remove,0.9822,0.0153,False
+10981,ko-KR,lists,lists_query,목록 나한테 알려줘,email_sendemail,0.553,0.0005,False
+10985,ko-KR,lists,lists_remove,이번 주 할 일 삭제해줘,calendar_remove,0.7576,0.1328,False
+10990,ko-KR,lists,lists_remove,내 할 일에서 부엌 닦기 삭제해줘,email_sendemail,1.0,0.0,False
+10999,ko-KR,lists,lists_query,목록 말해봐,play_music,0.5256,0.0135,False
+11023,ko-KR,lists,lists_remove,쇼핑 목록 삭제해줘,lists_remove,0.9999,0.9999,True
+11024,ko-KR,lists,lists_remove,할일 목록 삭제,lists_remove,1.0,1.0,True
+11053,ko-KR,lists,lists_remove,그 목록을 없애자,lists_remove,0.9999,0.9999,True
+11075,ko-KR,lists,lists_query,나 목록 몇 개 있어,lists_remove,0.9949,0.0048,False
+11081,ko-KR,lists,lists_query,내 공책에 어떤 목록이 있어,lists_remove,0.9046,0.0945,False
+11085,ko-KR,lists,lists_remove,쇼핑 목록에서 우유 빼줘,qa_factoid,0.8956,0.1021,False
+11098,ko-KR,lists,lists_remove,천구백구십 년도의 세금 목록 제거해,lists_remove,0.9969,0.9969,True
+11107,ko-KR,lists,lists_query,나의 현재 목록 무엇인지 말해줘,lists_query,0.9588,0.9588,True
+11124,ko-KR,lists,lists_query,내 작업 목록에 항목들을 추가해줘,email_sendemail,0.9841,0.0001,False
+11125,ko-KR,lists,lists_query,상세 주문 내역 보여줘,qa_factoid,0.4309,0.0348,False
+11133,ko-KR,lists,lists_remove,지난 주 에 내가 만든 목록 에 그 손님 은 제외해,lists_remove,1.0,1.0,True
+11154,ko-KR,lists,lists_query,최근 해야 할 일 확인해줘,email_query,0.2571,0.0521,False
+11162,ko-KR,lists,lists_remove,목록에서 사과 삭제해줘,lists_remove,0.9749,0.9749,True
+11164,ko-KR,lists,lists_remove,리스트에서 삭제,lists_remove,0.6941,0.6941,True
+11166,ko-KR,lists,lists_query,google keep 열기,recommendation_events,0.3003,0.0166,False
+11168,ko-KR,lists,lists_remove,내 목록 삭제해줘,lists_remove,1.0,1.0,True
+11172,ko-KR,lists,lists_query,가능한 모든 목록 알려줘,lists_query,0.9748,0.9748,True
+11174,ko-KR,lists,lists_query,이 디바이스의 모든 목록을 나열해줘,lists_query,0.9977,0.9977,True
+11180,ko-KR,calendar,calendar_query,내 파티 계획,cooking_recipe,0.7367,0.007,False
+11186,ko-KR,lists,lists_query,내 의류 목록 있어,lists_remove,0.8881,0.1039,False
+11189,ko-KR,lists,lists_query,그 목록 찾아줘,lists_query,0.7007,0.7007,True
+11204,ko-KR,lists,lists_query,중요한 집 정보,lists_query,0.1948,0.1948,True
+11215,ko-KR,lists,lists_query,목록,email_query,0.9957,0.0002,False
+11250,ko-KR,lists,lists_query,식료품 리스트 소리내서 읽어줘,lists_remove,0.9498,0.0331,False
+11257,ko-KR,play,play_podcasts,올리 다음 음반 들려줘,play_music,0.9998,0.0,False
+11259,ko-KR,play,play_podcasts,다음 팟캐스트 로 이동,play_podcasts,1.0,1.0,True
+11261,ko-KR,play,play_podcasts,다음,lists_remove,0.2754,0.0354,False
+11265,ko-KR,play,play_podcasts,다음 것 틀어,iot_hue_lightoff,0.5573,0.0037,False
+11266,ko-KR,play,play_podcasts,나의 라이브러리 에 있는 팟캐스트 틀어줘,play_podcasts,0.9995,0.9995,True
+11267,ko-KR,play,play_podcasts,마지막 고민 상담 에 관한 흥미로운 팟캐스트 찾아줘,play_podcasts,0.9877,0.9877,True
+11270,ko-KR,play,play_podcasts,다음 팟캐스트 재생,play_podcasts,0.9999,0.9999,True
+11272,ko-KR,play,play_podcasts,다음 것 재생,play_podcasts,0.2946,0.2946,True
+11279,ko-KR,play,play_podcasts,팟캐스트로 가서 매불쇼 다음 편 틀어줘,play_podcasts,0.9912,0.9912,True
+11286,ko-KR,play,play_podcasts,손에 잡히는 경제 팟캐스트 재생,play_podcasts,0.8468,0.8468,True
+11296,ko-KR,play,play_podcasts,내 모든 팟캐스트 업로드,play_podcasts,0.9988,0.9988,True
+11302,ko-KR,play,play_podcasts,잡스러운 연애 팟캐스트 틀어,play_podcasts,0.9893,0.9893,True
+11303,ko-KR,play,play_podcasts,다음 뉴스공장 팟캐스트 재생,play_podcasts,0.9956,0.9956,True
+11306,ko-KR,play,play_podcasts,어제 들었던 팟캐스트 재생,play_podcasts,0.9995,0.9995,True
+11318,ko-KR,play,play_podcasts,팟캐스트 다음 편 틀어,play_podcasts,0.6202,0.6202,True
+11322,ko-KR,play,play_podcasts,오늘의 최고 팟캐스트들은 뭐야,play_podcasts,0.8108,0.8108,True
+11328,ko-KR,play,play_podcasts,한화 이글스 관련 팟캐스트 재생,play_podcasts,1.0,1.0,True
+11331,ko-KR,play,play_podcasts,최고로 평점이 좋은 록 음악 팟캐스트 보여줘,qa_factoid,0.4111,0.219,False
+11335,ko-KR,play,play_music,모든 느린 노래들 셔플로 재생,play_podcasts,0.8742,0.1232,False
+11339,ko-KR,play,play_podcasts,나의 즐겨 보는 팟캐스트 틀어줘,play_music,0.6313,0.3657,False
+11340,ko-KR,play,play_podcasts,주진우 새 팟캐스트 있어,social_post,0.9919,0.0056,False
+11341,ko-KR,play,play_podcasts,최근 디즈니 팟캐스트 찾아줘,recommendation_events,1.0,0.0,False
+11343,ko-KR,play,play_podcasts,오징어게임 다음 편 으로 넘어가,social_post,0.8553,0.0064,False
+11345,ko-KR,play,play_podcasts,팟캐스트 다음 편 재생,play_podcasts,0.9912,0.9912,True
+11349,ko-KR,play,play_podcasts,올리 어젯밤 시작했던 팟캐스트 다시 시작해,play_podcasts,0.9983,0.9983,True
+11353,ko-KR,play,play_podcasts,팟캐스트들 보여줘,play_podcasts,1.0,1.0,True
+11361,ko-KR,play,play_podcasts,식장탈출 넘버원 팟캐스트 틀어,play_music,0.7898,0.2091,False
+11366,ko-KR,play,play_podcasts,팟캐스트의 이전 편 으로 돌아가,play_podcasts,0.999,0.999,True
+11368,ko-KR,play,play_podcasts,김어준의 팟캐스트 틀어줘,play_music,0.9601,0.0058,False
+11376,ko-KR,play,play_podcasts,팟캐스트 듣고 싶어,play_podcasts,1.0,1.0,True
+11384,ko-KR,play,play_podcasts,인터넷에서 사용 가능한 내 팟캐스트 파일 다운로드해서 한 번 재생해줄 수 있어,email_sendemail,0.9616,0.0059,False
+11409,ko-KR,play,play_podcasts,팟캐스트 다음 편 으로 가,play_podcasts,0.9981,0.9981,True
+11417,ko-KR,play,play_podcasts,다음 편 시작해,play_radio,0.4023,0.0189,False
+11418,ko-KR,play,play_podcasts,김어준 최신 팟캐스트 재생,play_podcasts,0.9468,0.9468,True
+11420,ko-KR,play,play_podcasts,내 가장 최근 팟캐스트 재생 시작,play_podcasts,1.0,1.0,True
+11423,ko-KR,play,play_podcasts,삼십 초 뒤로 가,qa_factoid,0.9805,0.0007,False
+11424,ko-KR,play,play_podcasts,국악방송,play_music,0.999,0.0001,False
+11426,ko-KR,lists,lists_query,가장 많이 본 목록,lists_query,0.6732,0.6732,True
+11427,ko-KR,play,play_podcasts,수다맨들 틀어줘,qa_factoid,0.5172,0.0079,False
+11437,ko-KR,play,play_podcasts,팟캐스트 재생해주세요,play_podcasts,0.9905,0.9905,True
+11438,ko-KR,play,play_podcasts,팟캐스트 다음 편 으로 가주세요,play_podcasts,0.9856,0.9856,True
+11442,ko-KR,play,play_podcasts,최신 김어준 팟캐스트 틀어주세요,play_podcasts,0.9899,0.9899,True
+11451,ko-KR,play,play_podcasts,최신 일당백 팟캐스트 듣고 싶어,play_podcasts,0.9932,0.9932,True
+11453,ko-KR,play,play_podcasts,k. b. s. 팟캐스트 시작,play_podcasts,0.9997,0.9997,True
+11455,ko-KR,play,play_podcasts,다음 섹션 으로 옮겨,lists_remove,0.9482,0.0026,False
+11458,ko-KR,play,play_podcasts,팟캐스트 다음 편 으로 넘어가,play_podcasts,0.9967,0.9967,True
+11459,ko-KR,play,play_podcasts,이 팟캐스트 의 마지막 편 으로 돌아가,play_podcasts,0.9766,0.9766,True
+11460,ko-KR,play,play_podcasts,스포츠 팟캐스트 듣고 싶어,play_podcasts,0.9999,0.9999,True
+11467,ko-KR,play,play_podcasts,일당백 의 가장 최근 팟캐스트 들려줘,play_podcasts,0.9733,0.9733,True
+11470,ko-KR,play,play_podcasts,내 가 선호하는 팟캐스트 재생해주세요,play_podcasts,0.9856,0.9856,True
+11474,ko-KR,play,play_podcasts,팟캐스트 시리즈 재시작,play_podcasts,0.9979,0.9979,True
+11476,ko-KR,play,play_podcasts,이전 팟캐스트 재생,play_podcasts,0.998,0.998,True
+11483,ko-KR,play,play_podcasts,뉴스공장 재생 시작,news_query,0.4492,0.0855,False
+11490,ko-KR,play,play_podcasts,팟캐스트 다음 쇼 재생,play_podcasts,0.9984,0.9984,True
+11502,ko-KR,play,play_podcasts,다음 버튼,qa_factoid,0.3078,0.0153,False
+11505,ko-KR,play,play_podcasts,내 마지막 팟캐스트 다시 재생,play_podcasts,0.9967,0.9967,True
+11514,ko-KR,play,play_podcasts,올리야 모든 팟캐스트 에서 회신 들을 수 있나,play_podcasts,0.9995,0.9995,True
+11515,ko-KR,play,play_podcasts,식장탈출 넘버원 팟캐스트 듣자,play_podcasts,0.9944,0.9944,True
+11525,ko-KR,play,play_podcasts,다음 팟캐스트 가 있는지 보고 싶어,play_podcasts,0.9999,0.9999,True
+11529,ko-KR,play,play_podcasts,목록 에서 내 가 선호하는 팟캐스트 재생,play_podcasts,0.8534,0.8534,True
+11536,ko-KR,play,play_podcasts,좋아하는 팟캐스트 플레이리스트 추가 하고 틀어,play_podcasts,0.9966,0.9966,True
+11539,ko-KR,play,play_podcasts,다음 팟캐스트 시작,play_podcasts,0.9999,0.9999,True
+11546,ko-KR,play,play_podcasts,지난 주 의 모든 왓섭 공포라디오 틀어줘,play_radio,0.8,0.0127,False
+11554,ko-KR,play,play_podcasts,팟캐스트 틀어줘,social_post,0.5758,0.1125,False
+11563,ko-KR,recommendation,recommendation_events,울산에서 뭘 할 수 있을까,transport_query,0.5575,0.0505,False
+11570,ko-KR,recommendation,recommendation_events,마을에서 무슨 일이 있는지 알려줘,social_post,0.9797,0.001,False
+11582,ko-KR,recommendation,recommendation_events,서울에서 열리는 재즈 분야 관련 행사 있어,social_post,0.3665,0.0565,False
+11585,ko-KR,recommendation,recommendation_events,경기도에 문화 이벤트 있어,social_post,0.9748,0.0094,False
+11598,ko-KR,recommendation,recommendation_events,내 고향의 노래 자랑 행사에 대해 알려줘,play_music,0.5392,0.0133,False
+11600,ko-KR,recommendation,recommendation_events,오늘 밤 수원에서 어떤 영화를 봐야할가,recommendation_events,0.8889,0.8889,True
+11610,ko-KR,recommendation,recommendation_events,지금 도시에서 하는 서커스 공연들 알려줘,social_post,0.4433,0.023,False
+11612,ko-KR,recommendation,recommendation_events,횡성에 어떤 소싸움 경기 있어,social_post,0.9564,0.0012,False
+11616,ko-KR,recommendation,recommendation_events,오늘 밤 시내에서 어떤 행사들이 있나,weather_query,0.9792,0.0012,False
+11643,ko-KR,recommendation,recommendation_events,곧 어떤 행사 있어,calendar_remove,0.7744,0.0005,False
+11644,ko-KR,recommendation,recommendation_events,천안에 있는 행사 보여줘,weather_query,0.9447,0.001,False
+11650,ko-KR,recommendation,recommendation_events,젊은 운전자들과 임시 운전자들 모두 스스로 안전하게 운전하는데 필요한 다양한 경험을 아직 경험하지 못했기 때문에 다른 운전자들 보다 더 자주 충돌한다. 연구에 따르면 운전 경험은 도로 충돌을 줄이는 주요 요인이며 젊은 운전자에게 가장 안전한 시간은 학습하는 동안 감독하에 운전할때다,qa_factoid,0.1968,0.0374,False
+11681,ko-KR,recommendation,recommendation_events,근처 마라톤 보여줘,weather_query,0.8039,0.0067,False
+11685,ko-KR,recommendation,recommendation_events,네가 내 지역에서 일어나는 이벤트 업데이트 해주면 나는 기쁠 거야,qa_factoid,0.6427,0.014,False
+11705,ko-KR,recommendation,recommendation_events,삼청동에 있는 그림 전시회 보여줘,social_post,0.8556,0.0112,False
+11720,ko-KR,recommendation,recommendation_events,수영,social_post,0.4144,0.0071,False
+11767,ko-KR,recommendation,recommendation_events,올리 이번 주 서산에서 무슨 이벤트 있어,email_sendemail,0.4102,0.1088,False
+11770,ko-KR,recommendation,recommendation_events,이번 주말에 의정부에서 이벤트 있어,recommendation_events,0.3646,0.3646,True
+11782,ko-KR,recommendation,recommendation_events,근처에서 이번 주말에 무슨 특별한 이벤트 있어,recommendation_events,0.7193,0.7193,True
+11798,ko-KR,recommendation,recommendation_events,도서관 다음 이벤트는 뭐야,recommendation_events,0.9902,0.9902,True
+11827,ko-KR,recommendation,recommendation_events,오늘 밤에 어디 갈 수 있어,weather_query,0.9955,0.0001,False
+11839,ko-KR,recommendation,recommendation_events,내 주변에 무슨 일이 일어나고있지,weather_query,0.2678,0.0257,False
+11841,ko-KR,recommendation,recommendation_events,이 지역에 플리마켓 있어,social_post,0.7427,0.0541,False
+11844,ko-KR,recommendation,recommendation_events,수도권 지역에 재미있는 거 해,weather_query,0.9911,0.0002,False
+11845,ko-KR,recommendation,recommendation_events,올리 홍대 재밌는 행사 알려줘,social_post,0.9744,0.0057,False
+11860,ko-KR,recommendation,recommendation_events,지역 행사 알려줘,qa_factoid,0.2072,0.0188,False
+11867,ko-KR,recommendation,recommendation_events,내일 부산에 스포츠 행사 있어,social_post,0.6847,0.0277,False
+11875,ko-KR,recommendation,recommendation_events,이 지역에 음식 축제가 있나,cooking_recipe,0.948,0.0021,False
+11904,ko-KR,recommendation,recommendation_events,이번 주말에 여기 무슨 일 있어,weather_query,0.4311,0.0083,False
+11905,ko-KR,recommendation,recommendation_events,올리 이번 주말 내 지역 활동에 대해 말해줘,social_post,0.5866,0.0093,False
+11911,ko-KR,recommendation,recommendation_events,이번 주말에 여기에서 하는 재밌는 거 있어,cooking_recipe,0.9898,0.0001,False
+11916,ko-KR,recommendation,recommendation_events,근처에 테마 파크 있어,social_post,0.4088,0.0728,False
+11969,ko-KR,recommendation,recommendation_events,근처에서 열리는 특별한 게 있나,social_post,0.6884,0.01,False
+11999,ko-KR,recommendation,recommendation_events,오늘 우리 지역에 무슨 이벤트 있어,recommendation_events,0.2552,0.2552,True
+12008,ko-KR,recommendation,recommendation_events,오늘 순천에서 재미있는 이벤트 있어,social_post,0.8727,0.0873,False
+12054,ko-KR,recommendation,recommendation_events,동네 주변에 무슨 일 있어,lists_query,0.3394,0.0201,False
+12070,ko-KR,recommendation,recommendation_events,스타필드 언제 열어,calendar_remove,0.4076,0.0346,False
+12073,ko-KR,recommendation,recommendation_events,지역 현재 이벤트 찾아줘,qa_factoid,0.8754,0.0276,False
+12098,ko-KR,recommendation,recommendation_events,주변 음악 이벤트 알려줘,play_music,0.5486,0.3997,False
+12189,ko-KR,transport,transport_query,기차역 시간표 알려줘,iot_hue_lightoff,0.5196,0.0337,False
+12240,ko-KR,transport,transport_query,다섯시 에 집 으로 갈 때 교통 상황이 어때,weather_query,0.7582,0.1357,False
+12245,ko-KR,transport,transport_query,부산에서 울산 가는 다음 기차 언제야,weather_query,0.994,0.0044,False
+12251,ko-KR,transport,transport_query,청량리 가는 현지 기차 시간 알려줘,transport_query,0.8615,0.8615,True
+12252,ko-KR,transport,transport_query,몇 시에 천안 가는 기차가 떠나니,weather_query,0.9865,0.0036,False
+12261,ko-KR,transport,transport_query,다음 주 수요일이나 목요일에 부산행 기차 옵션들 보여줘,recommendation_events,0.9325,0.0118,False
+12263,ko-KR,transport,transport_query,경기도,email_query,0.8118,0.0049,False
+12264,ko-KR,transport,transport_query,서울,weather_query,0.4034,0.0098,False
+12294,ko-KR,transport,transport_query,예술의 전당 가는 기차 시간표 보여줘,iot_hue_lightoff,0.267,0.0271,False
+12310,ko-KR,transport,transport_query,서울 에서 강릉 갈 때 예약 가능한 기차 표 목록 보여줘,lists_query,0.6981,0.1519,False
+12343,ko-KR,transport,transport_query,화요일 청량리 역 의 무궁화 호 기차 시간 확인해줘,weather_query,0.7642,0.1003,False
+12354,ko-KR,transport,transport_query,기차 시간 좀 줘 봐,qa_factoid,0.3548,0.0206,False
+12366,ko-KR,transport,transport_query,서울 에서 부산 까지 연결되는 기차 가 몇 시에 있어,weather_query,0.9929,0.0042,False
+12367,ko-KR,transport,transport_query,사천 가는 가장 좋은 길은 뭐야,transport_query,0.4113,0.4113,True
+12376,ko-KR,transport,transport_query,인천 가는 첫 지하철 이 뭐지,transport_query,0.9985,0.9985,True
+12392,ko-KR,transport,transport_query,오늘의 방향을 알려줘,weather_query,0.6362,0.0085,False
+12402,ko-KR,transport,transport_query,도시 를 여행하는 다음 기차 는 언제 여기 에서 출발해,transport_query,0.7712,0.7712,True
+12419,ko-KR,transport,transport_query,가로수길 로 가는 가장 빠른 경로,transport_query,0.976,0.976,True
+12430,ko-KR,transport,transport_query,울산 도착하는 기차 시간 알려줘,transport_query,0.9838,0.9838,True
+12436,ko-KR,transport,transport_query,공항 가는데 시간 얼마나 걸려,weather_query,0.936,0.0385,False
+12437,ko-KR,transport,transport_query,영화관 가는데 시간이 얼마나 걸려,qa_factoid,0.7863,0.007,False
+12446,ko-KR,transport,transport_query,인천 가는 기차 시간 알려줄래,transport_query,0.8143,0.8143,True
+12473,ko-KR,transport,transport_query,집에서 여기까지 어떻게 와,cooking_recipe,0.5863,0.0365,False
+12526,ko-KR,transport,transport_query,스타벅스 로 가는 가장 빠른 길이 뭐지,transport_query,0.5652,0.5652,True
+12532,ko-KR,transport,transport_query,그 곳으로 길 안내해,transport_query,0.6523,0.6523,True
+12581,ko-KR,transport,transport_query,오늘 기차 언제 와,weather_query,0.9906,0.003,False
+12582,ko-KR,transport,transport_query,아침에 첫 지하철 시간은 언제야,weather_query,0.4603,0.382,False
+12604,ko-KR,transport,transport_query,내가 온라인에서 기차 티켓 예약 어떻게 해,qa_factoid,0.4614,0.1576,False
+12618,ko-KR,transport,transport_query,마산 까지 가는 왕복 여행 기차 표가 얼마야,transport_query,0.5176,0.5176,True
+12623,ko-KR,transport,transport_query,경기도 군포 가는 기차 시간표 있니,weather_query,0.5001,0.0179,False
+12629,ko-KR,transport,transport_query,부산 에서 출발하는 첫 기차 몇 시니,weather_query,0.998,0.0005,False
+12634,ko-KR,transport,transport_query,청주 가는 다음 기차 가 언제 있어,weather_query,0.989,0.0054,False
+12707,ko-KR,transport,transport_query,네비게이션 검색,recommendation_events,0.8321,0.0456,False
+12759,ko-KR,transport,transport_query,서울까지 운전하는데 걸리는 시간,transport_query,0.9813,0.9813,True
+12797,ko-KR,transport,transport_query,내 위치 근처의 기차 시간표,weather_query,0.954,0.0013,False
+12800,ko-KR,transport,transport_query,공립 도서관 어디야,social_post,0.1498,0.0664,False
+12817,ko-KR,transport,transport_query,쇼핑몰 로 어떻게 가,qa_factoid,0.3746,0.0844,False
+12818,ko-KR,transport,transport_query,부산 가는 기차 표 얼마야,weather_query,0.9967,0.0001,False
+12824,ko-KR,transport,transport_query,서울 가는 모든 기차 시간 목록 부탁해,lists_remove,0.6558,0.0398,False
+12835,ko-KR,transport,transport_query,기차 몇 시에 출발해,datetime_query,0.5673,0.0013,False
+12839,ko-KR,transport,transport_query,롯데 타워 에 데려다줘,qa_factoid,0.9878,0.0016,False
+12851,ko-KR,transport,transport_query,우리 집 가는 방향 보여줘,qa_factoid,0.9506,0.0011,False
+12856,ko-KR,transport,transport_query,방향 부탁,qa_factoid,0.9997,0.0,False
+12866,ko-KR,transport,transport_query,영남 고속버스 시간이 어떻게 돼,datetime_query,0.4375,0.2792,False
+12908,ko-KR,transport,transport_query,청주 에 기차 몇 시에 도착하지,weather_query,0.8834,0.0999,False
+12930,ko-KR,transport,transport_query,내 근처 가게들 지도에 찾아줘,weather_query,0.4131,0.0275,False
+12932,ko-KR,transport,transport_query,올리 봉은사로 가는 방향 알려줘,transport_query,0.3195,0.3195,True
+12951,ko-KR,qa,qa_factoid,세상 에서 가장 높은 건물이 뭐야,qa_definition,0.3508,0.2824,False
+12957,ko-KR,qa,qa_definition,정교하다 의 정의,email_sendemail,0.8255,0.0091,False
+12961,ko-KR,qa,qa_definition,포렌식 정의 부탁해,qa_factoid,0.9998,0.0,False
+12963,ko-KR,qa,qa_definition,포렌식 의 정의는 뭐야,qa_factoid,0.8289,0.1576,False
+12972,ko-KR,qa,qa_factoid,세계 에서 제일 높은 봉우리는 뭐야,qa_factoid,0.483,0.483,True
+12982,ko-KR,qa,qa_definition,난기류 뜻이 뭐야,qa_definition,0.9999,0.9999,True
+12986,ko-KR,qa,qa_definition,톺아보다 의 정의 확인해줘,qa_factoid,0.9928,0.0043,False
+12999,ko-KR,qa,qa_factoid,김연자 는 몇 살이야,qa_factoid,0.9446,0.9446,True
+13016,ko-KR,qa,qa_definition,결례 의 정의 찾아줘,qa_factoid,0.9219,0.0175,False
+13023,ko-KR,cooking,cooking_recipe,레시피들 보여줘,social_post,0.6422,0.0051,False
+13069,ko-KR,qa,qa_definition,오렌지 의 정의는 뭐야,qa_definition,0.5849,0.5849,True
+13074,ko-KR,qa,qa_factoid,박명수 가 왜 안 웃기지,social_post,0.9915,0.0045,False
+13077,ko-KR,qa,qa_factoid,이승철 생일 언제야,weather_query,0.9303,0.0014,False
+13078,ko-KR,qa,qa_factoid,송새벽 주소 알려줘,email_sendemail,0.9895,0.0007,False
+13099,ko-KR,qa,qa_factoid,영국 의 현 총리가 누구였지,qa_factoid,1.0,1.0,True
+13115,ko-KR,qa,qa_factoid,나이지리아 의 수도는 어디야,qa_factoid,0.9989,0.9989,True
+13124,ko-KR,qa,qa_factoid,우주는 얼마나 커,weather_query,0.8727,0.0018,False
+13135,ko-KR,qa,qa_factoid,전도연 의 생일은 언제야,email_sendemail,0.9985,0.0001,False
+13140,ko-KR,qa,qa_definition,태풍 에 관해 모두 말해줘,social_post,0.5037,0.0205,False
+13154,ko-KR,qa,qa_factoid,전지현 전화번호 알아,email_sendemail,0.5186,0.4606,False
+13165,ko-KR,qa,qa_definition,계몽하다 의 뜻은 뭐야,qa_definition,1.0,1.0,True
+13166,ko-KR,qa,qa_definition,진동 의 정의와 철자,qa_definition,0.9754,0.9754,True
+13177,ko-KR,calendar,calendar_set,살이 찌지 않도록 움직이게 알려줘,iot_hue_lightoff,0.3979,0.0117,False
+13178,ko-KR,calendar,calendar_set,여섯 달 안에 한번도 얘기 안 했던 오래된 친구들 연락처 알려줘,email_sendemail,0.9979,0.0,False
+13188,ko-KR,news,news_query,서울시 총선 결과 어떨지 나한테 말해줘,weather_query,0.4059,0.0277,False
+13206,ko-KR,qa,qa_definition,지역,qa_factoid,0.9292,0.0266,False
+13215,ko-KR,transport,transport_query,교통체증 없이 시내 내 직장으로 가는 가장 빠른 방법이 뭐지,transport_query,0.9315,0.9315,True
+13252,ko-KR,qa,qa_factoid,박경리 첫번째 출판물이 뭐야,lists_query,0.3562,0.0757,False
+13255,ko-KR,qa,qa_factoid,안중근 에 관한 정보 부탁해,email_sendemail,0.2365,0.0424,False
+13283,ko-KR,qa,qa_factoid,김범수 는 얼마나 벌었어,qa_factoid,0.9907,0.9907,True
+13288,ko-KR,qa,qa_definition,빈번 이라는 단어의 정의가 뭐야,qa_definition,0.9823,0.9823,True
+13297,ko-KR,qa,qa_factoid,유명인이 누구야,social_post,0.9692,0.03,False
+13298,ko-KR,qa,qa_factoid,유명인은 뭐해,social_post,0.9999,0.0,False
+13330,ko-KR,qa,qa_factoid,향유고래의 크기는 얼마야,iot_hue_lightoff,0.5472,0.4232,False
+13361,ko-KR,qa,qa_definition,적시성 의 정의는 뭐야,qa_definition,0.8438,0.8438,True
+13383,ko-KR,qa,qa_factoid,얼마나 많은 나라들이 사형 제도를 시행해,qa_factoid,0.9947,0.9947,True
+13400,ko-KR,social,social_post,내 모든 친구들에게 재미있는 메시지를 보내줘,social_post,0.9974,0.9974,True
+13439,ko-KR,qa,qa_factoid,박완서 는 몇 살이야,qa_factoid,0.7766,0.7766,True
+13457,ko-KR,calendar,calendar_set,예정된 일정에 늦지 않으려면 언제 떠나야 하는 지 알려줘,email_query,0.5494,0.0053,False
+13473,ko-KR,qa,qa_factoid,미국이 언제 자유를 얻었지,qa_factoid,0.9835,0.9835,True
+13487,ko-KR,qa,qa_factoid,올리야 경기도 수도가 뭐니,email_query,0.5747,0.0146,False
+13494,ko-KR,qa,qa_definition,동기 부여 의 정의 알려줘,qa_factoid,0.9753,0.0154,False
+13506,ko-KR,datetime,datetime_query,몇 시인지 알려줘,weather_query,0.9634,0.0287,False
+13513,ko-KR,qa,qa_factoid,개의 다리는 몇 개야,iot_hue_lightoff,0.8096,0.0219,False
+13516,ko-KR,qa,qa_factoid,고래는 왜 커,qa_factoid,0.4937,0.4937,True
+13546,ko-KR,qa,qa_factoid,한석규 가 나온 마지막 영화가 뭐야,qa_factoid,0.3241,0.3241,True
+13554,ko-KR,qa,qa_factoid,조인성 얼마나 커,qa_factoid,0.9999,0.9999,True
+13575,ko-KR,qa,qa_factoid,지난번에 아카데미상 탄 영화가 언제였지,qa_factoid,0.3222,0.3222,True
+13580,ko-KR,qa,qa_factoid,에베레스트 산 얼마나 높아,weather_query,0.9675,0.0005,False
+13591,ko-KR,qa,qa_factoid,웨스트 버지니아 주도가 어디야,qa_factoid,0.9355,0.9355,True
+13592,ko-KR,qa,qa_factoid,뉴질랜드 는 지도에서 어디 있어,weather_query,0.4059,0.2892,False
+13604,ko-KR,qa,qa_factoid,스티브 잡스 가 어디서 태어났는지 말해줘,email_sendemail,0.9751,0.0,False
+13607,ko-KR,qa,qa_factoid,이정재 결혼했는지 확인해줄 수 있어,qa_factoid,0.7179,0.7179,True
+13616,ko-KR,qa,qa_factoid,대부분의 유명 인사들은 어디서 놀아,social_post,0.9699,0.0028,False
+13619,ko-KR,recommendation,recommendation_events,오늘 내 지역에 무료 이벤트 있어,qa_factoid,0.5656,0.4163,False
+13625,ko-KR,qa,qa_definition,가장 큰 책상 은 뭐야,lists_query,0.6771,0.0375,False
+13636,ko-KR,qa,qa_factoid,아놀드 슈워제네거의 생일이 언제야,weather_query,0.9613,0.0001,False
+13679,ko-KR,qa,qa_factoid,소의 위가 몇 개인지 말해줄 수 있어,iot_hue_lightoff,0.6132,0.0232,False
+13681,ko-KR,qa,qa_factoid,조승우 는 연극 몇 편에 나왔어,social_post,0.9477,0.0008,False
+13683,ko-KR,qa,qa_factoid,현빈 은 어떤 스프레이 브랜드 사용해,recommendation_events,0.4191,0.0262,False
+13689,ko-KR,qa,qa_definition,의자 가 뭐야,qa_factoid,0.549,0.0153,False
+13690,ko-KR,qa,qa_factoid,의자는 무슨 색이야,iot_hue_lightoff,0.3152,0.0873,False
+13693,ko-KR,qa,qa_factoid,본초 자오선이 어디 있어,qa_factoid,0.6248,0.6248,True
+13705,ko-KR,qa,qa_definition,전자 배출 시스템 은 뭐야,qa_factoid,0.7527,0.0375,False
+13706,ko-KR,qa,qa_definition,회전자 설명해줘,qa_factoid,0.9707,0.029,False
+13714,ko-KR,qa,qa_definition,망고 가 뭐야,qa_factoid,0.9095,0.0011,False
+13717,ko-KR,qa,qa_factoid,알래스카 에서 러시아 볼 수 있다는 게 진짜야,qa_factoid,0.9996,0.9996,True
+13758,ko-KR,qa,qa_factoid,엄정화 는 몇 살이야,qa_factoid,0.972,0.972,True
+13761,ko-KR,qa,qa_factoid,파섹이 뭐야,cooking_recipe,0.922,0.0068,False
+13774,ko-KR,qa,qa_factoid,서울 에서 부산 까지 얼마나 멀어,weather_query,0.9971,0.0005,False
+13777,ko-KR,qa,qa_definition,신용 카드 설명해줄 수 있어,qa_definition,0.6353,0.6353,True
+13780,ko-KR,qa,qa_factoid,양세찬 은 결혼 했어,email_sendemail,0.9486,0.0023,False
+13798,ko-KR,qa,qa_factoid,지구에 있는 나라들의 평균 크기는 몇 제곱 미터야,iot_hue_lightoff,0.5077,0.2071,False
+13799,ko-KR,qa,qa_definition,종속적인 의 정의가 뭐야,qa_definition,0.8717,0.8717,True
+13823,ko-KR,qa,qa_factoid,태양은 얼마나 멀어,weather_query,0.9998,0.0,False
+13853,ko-KR,qa,qa_factoid,지구에서 화산이 가장 많은 곳은 어디야,weather_query,0.5561,0.3414,False
+13854,ko-KR,qa,qa_factoid,서지원 은 언제 죽었어,qa_factoid,1.0,1.0,True
+13863,ko-KR,qa,qa_definition,논리 의 정의는 뭐야,qa_factoid,0.9713,0.0268,False
+13867,ko-KR,qa,qa_factoid,독도 는 어디야,qa_factoid,1.0,1.0,True
+13869,ko-KR,qa,qa_factoid,러시모어 산의 위치와 정보 검색해주세요,email_query,0.3108,0.0447,False
+13871,ko-KR,qa,qa_definition,행복한 생일 을 어떻게 묘사할래,cooking_recipe,0.9486,0.03,False
+13881,ko-KR,qa,qa_factoid,유승준 에 관한 정보 부탁해,email_sendemail,0.5345,0.3659,False
+13888,ko-KR,qa,qa_factoid,충남 천안 의 기온 어때,weather_query,0.726,0.0205,False
+13895,ko-KR,qa,qa_factoid,허재 에 관해 말해줄 수 있어,email_query,0.5575,0.0622,False
+13900,ko-KR,qa,qa_definition,인생 의 정의,qa_factoid,0.9759,0.0128,False
+13907,ko-KR,qa,qa_definition,기절초풍 정의해줘,iot_hue_lightoff,0.48,0.0445,False
+13908,ko-KR,qa,qa_definition,기절초풍 의 뜻이 뭔지 말해줄 수 있어,qa_definition,0.9999,0.9999,True
+13926,ko-KR,qa,qa_factoid,황석영 의 생일은 언제야,email_sendemail,0.9985,0.0,False
+13927,ko-KR,qa,qa_factoid,추신수 의 가치는 얼마야,qa_factoid,0.9863,0.9863,True
+13974,ko-KR,qa,qa_factoid,라오스 는 어디 있어,social_post,0.9696,0.004,False
+13983,ko-KR,qa,qa_definition,suffering consequences 뜻,qa_definition,0.7316,0.7316,True
+13984,ko-KR,qa,qa_definition,행동의 결과,news_query,0.4988,0.0205,False
+13997,ko-KR,qa,qa_factoid,평균적인 집은 얼마야,qa_factoid,0.4914,0.4914,True
+14000,ko-KR,qa,qa_definition,나무늘보 설명해줘,qa_definition,0.5105,0.5105,True
+14001,ko-KR,qa,qa_factoid,나무늘보에 관해 아는 거 다 말해줘,qa_definition,0.3808,0.216,False
+14011,ko-KR,qa,qa_factoid,송소희 생일 언제야,email_sendemail,0.7365,0.0002,False
+14015,ko-KR,qa,qa_factoid,적도 의 좌표는 뭐야,datetime_query,0.2832,0.0555,False
+14023,ko-KR,qa,qa_definition,지옥 을 설명해줘,qa_factoid,0.9307,0.0097,False
+14033,ko-KR,qa,qa_factoid,문재인 이 언제 태어났는지 말해줘,datetime_query,0.5225,0.1817,False
+14038,ko-KR,qa,qa_factoid,몰도바의 위치는 어디야,qa_factoid,0.7092,0.7092,True
+14040,ko-KR,qa,qa_factoid,헐크는 얼마나 커,qa_factoid,0.5193,0.5193,True
+14053,ko-KR,qa,qa_factoid,이정재 는 몇 년도에 연기 시작했어,email_sendemail,1.0,0.0,False
+14063,ko-KR,qa,qa_factoid,엘비스 프레슬리의 생일 은 언제야,email_sendemail,0.9985,0.0,False
+14083,ko-KR,qa,qa_factoid,성룡 은 지금 어디 살아,social_post,0.9995,0.0,False
+14096,ko-KR,qa,qa_factoid,태백산맥 은 어디야,qa_factoid,0.7386,0.7386,True
+14115,ko-KR,qa,qa_definition,사암 에 관한 상세 정보 부탁해,lists_remove,0.1769,0.0364,False
+14116,ko-KR,qa,qa_definition,사암 설명해줘,qa_definition,0.6241,0.6241,True
+14117,ko-KR,qa,qa_factoid,피라미드 는 어디 있어,email_sendemail,0.5465,0.1796,False
+14118,ko-KR,qa,qa_factoid,피라미드 의 지리적 세부 정보 보여줘,iot_hue_lightoff,0.4765,0.0487,False
+14126,ko-KR,qa,qa_factoid,이소라 의 약력 보여줘,qa_factoid,0.993,0.993,True
+14138,ko-KR,qa,qa_definition,실린더 의 정의가 뭔지 말해줘,qa_definition,0.9991,0.9991,True
+14147,ko-KR,qa,qa_definition,담요 정의,qa_factoid,0.9695,0.0004,False
+14150,ko-KR,qa,qa_definition,컨버스 신발 이 뭐야,lists_remove,0.2434,0.0202,False
+14151,ko-KR,qa,qa_factoid,조종사 선글라스는 어떤 종류의 선글라스야,qa_definition,0.9975,0.0002,False
+14154,ko-KR,qa,qa_factoid,아프리카 정보,social_post,0.1939,0.152,False
+14163,ko-KR,qa,qa_factoid,locality 뜻,qa_factoid,0.9988,0.9988,True
+14169,ko-KR,qa,qa_factoid,정은지 는 어디에서 대학 다녔어,email_sendemail,1.0,0.0,False
+14170,ko-KR,qa,qa_factoid,김민정 이 컨버스 신어,social_post,0.3997,0.3783,False
+14179,ko-KR,qa,qa_factoid,내 현재 위치에서 캐나다 까지 얼마나 멀어,weather_query,0.4168,0.3647,False
+14214,ko-KR,transport,transport_query,같은 걸로 여행 길 찾아봐,recommendation_events,0.2398,0.0453,False
+14229,ko-KR,qa,qa_factoid,전지현이 어느 영화에 나왔어,email_sendemail,0.9865,0.0037,False
+14243,ko-KR,qa,qa_factoid,사람의 자세한 정보,email_query,0.3342,0.0223,False
+14272,ko-KR,qa,qa_definition,책 이 뭐야,email_sendemail,0.6101,0.0006,False
+14283,ko-KR,qa,qa_factoid,강릉 에 관해 말해줘,social_post,0.4892,0.0109,False
+14306,ko-KR,qa,qa_factoid,인도 의 지리적 위치 설명해줘,email_sendemail,0.7165,0.019,False
+14308,ko-KR,qa,qa_factoid,이병헌의 가치는 얼마나 돼,qa_factoid,0.8929,0.8929,True
+14316,ko-KR,qa,qa_factoid,강원도 는 얼마나 커,qa_factoid,0.9301,0.9301,True
+14317,ko-KR,qa,qa_factoid,미국의 사이즈는 어떻게 돼,qa_factoid,0.754,0.754,True
+14323,ko-KR,qa,qa_factoid,용과의 색은 뭐야,iot_hue_lightoff,0.9865,0.0015,False
+14330,ko-KR,qa,qa_factoid,이재용 어디서 태어났어,social_post,0.8294,0.078,False
+14347,ko-KR,qa,qa_definition,가설 이 뭐야,cooking_recipe,0.818,0.0039,False
+14354,ko-KR,qa,qa_factoid,세계관의 답변은 뭐야,cooking_recipe,0.2175,0.1086,False
+14355,ko-KR,qa,qa_factoid,간장 공장 공장장은 장 공장장이고 된장 공장 공장장은 공 공장장이다,lists_query,0.0984,0.0467,False
+14370,ko-KR,qa,qa_factoid,유명인 직업 알려줘,qa_factoid,0.9984,0.9984,True
+14378,ko-KR,qa,qa_definition,치생 의 정의,qa_factoid,0.9862,0.0024,False
+14382,ko-KR,qa,qa_factoid,육삼빌딩은 얼마나 커,qa_factoid,0.9993,0.9993,True
+14395,ko-KR,qa,qa_factoid,지구에서 가장 깊은 곳은 어디야,weather_query,0.6742,0.1354,False
+14414,ko-KR,qa,qa_definition,컴퓨터 하드 디스크 에 관해 설명해,qa_definition,0.4315,0.4315,True
+14417,ko-KR,qa,qa_factoid,우리나라에 접한 대양은 뭐야,qa_factoid,0.311,0.311,True
+14419,ko-KR,qa,qa_factoid,마동석 올해 새 영화 있어,qa_factoid,0.1376,0.1376,True
+14429,ko-KR,qa,qa_definition,카프탄 이 뭐야,cooking_recipe,0.4482,0.0215,False
+14440,ko-KR,qa,qa_factoid,멕시코 의 수도는 어디야,qa_factoid,1.0,1.0,True
+14442,ko-KR,qa,qa_factoid,피지 는 어디야,qa_factoid,0.9255,0.9255,True
+14444,ko-KR,qa,qa_factoid,정우성 의 첫 번째 영화는 뭐야,qa_factoid,0.286,0.286,True
+14449,ko-KR,qa,qa_factoid,정주리 에게 새로운 아기가 생겼어,social_post,0.6214,0.1088,False
+14457,ko-KR,qa,qa_factoid,길 찾아,social_post,0.1557,0.1091,False
+14465,ko-KR,transport,transport_query,롯데월드 가는 방향,qa_factoid,0.9829,0.0007,False
+14490,ko-KR,qa,qa_factoid,볼쇼이 극장 은 언제 지어졌어,qa_factoid,0.9989,0.9989,True
+14498,ko-KR,qa,qa_definition,스마트폰에 대해 설명해봐,qa_definition,0.5508,0.5508,True
+14504,ko-KR,qa,qa_factoid,올리 김구 는 몇 번의 회의를 했어,email_sendemail,0.9994,0.0,False
+14505,ko-KR,qa,qa_factoid,러시아 의 현재 총리는 누구야,qa_factoid,1.0,1.0,True
+14508,ko-KR,qa,qa_factoid,조지 r.r. 마틴의 얼음과 불의 노래 최근 책 요약해주세요,email_sendemail,1.0,0.0,False
+14509,ko-KR,qa,qa_factoid,김구 는 어디서 태어났어,social_post,0.9972,0.0003,False
+14539,ko-KR,qa,qa_factoid,이 장소의 지리적 세부 정보 찾아,lists_query,0.4756,0.0537,False
+14545,ko-KR,qa,qa_factoid,인도 의 위치를 말해줘,qa_factoid,0.4821,0.4821,True
+14567,ko-KR,qa,qa_factoid,지구 에서 가장 큰 활화산 어디야,qa_factoid,0.9969,0.9969,True
+14585,ko-KR,qa,qa_factoid,일본에서 한국까지 가려면 얼마나 걸려,qa_factoid,0.9749,0.9749,True
+14591,ko-KR,qa,qa_definition,television circuit 뜻이 뭐야,qa_definition,1.0,1.0,True
+14592,ko-KR,qa,qa_definition,스마트폰 회로 설명해줘,qa_definition,0.9973,0.9973,True
+14597,ko-KR,qa,qa_factoid,서울 인구는 얼마나 돼,qa_factoid,0.7356,0.7356,True
+14601,ko-KR,qa,qa_factoid,이승만은 몇 년 동안 한국의 대통령이었어,email_sendemail,0.9996,0.0,False
+14605,ko-KR,qa,qa_factoid,이미연 이 김승우 를 떠났어,social_post,0.9986,0.0007,False
+14608,ko-KR,qa,qa_factoid,천우희 가 작업 중인 새 영화가 뭐야,cooking_recipe,0.567,0.0863,False
+14622,ko-KR,qa,qa_definition,구 가 뭔지 설명해줘,qa_definition,0.9979,0.9979,True
+14648,ko-KR,cooking,cooking_recipe,요리법 부탁해,cooking_recipe,1.0,1.0,True
+14653,ko-KR,qa,qa_factoid,러시아 의 인구는,qa_factoid,0.7586,0.7586,True
+14661,ko-KR,qa,qa_factoid,노무현 이 태어난 해는 언제야,email_sendemail,0.9964,0.0,False
+14668,ko-KR,qa,qa_definition,xy에 대해 설명해봐,qa_definition,0.8691,0.8691,True
+14683,ko-KR,qa,qa_factoid,김남길 의 취미가 뭐야,cooking_recipe,0.8955,0.0067,False
+14684,ko-KR,qa,qa_factoid,러시아 총리는 누구야,qa_factoid,0.9991,0.9991,True
+14690,ko-KR,qa,qa_definition,오케이 구글 대통령 이 뭐야,social_post,0.963,0.0012,False
+14700,ko-KR,qa,qa_definition,레진 치아 치료 가 정확히 뭐야,cooking_recipe,0.4076,0.061,False
+14701,ko-KR,qa,qa_definition,하스스톤 카드 게임 설명해줘,qa_definition,0.3306,0.3306,True
+14705,ko-KR,qa,qa_factoid,오케이 구글 이효리 는 어디 살아,social_post,0.9998,0.0,False
+14706,ko-KR,qa,qa_factoid,이효리 는 어디 살아,social_post,0.8106,0.0469,False
+14746,ko-KR,qa,qa_factoid,카자흐스탄 의 수도는 어디야,qa_factoid,0.9976,0.9976,True
+14761,ko-KR,qa,qa_definition,거들먹 이라는 단어의 정의 알려줘,qa_definition,0.9302,0.9302,True
+14767,ko-KR,qa,qa_definition,공 을 어떻게 설명할래,qa_definition,1.0,1.0,True
+14770,ko-KR,qa,qa_factoid,세상 에서 가장 큰 대양 말해줘,qa_factoid,0.6494,0.6494,True
+14787,ko-KR,qa,qa_factoid,로마와 그리스 달력의 차이점은 뭐야,qa_factoid,0.998,0.998,True
+14791,ko-KR,qa,qa_factoid,의자의 구성은 뭐야,qa_definition,0.5484,0.2905,False
+14794,ko-KR,qa,qa_factoid,랩몬 이 가장 좋아하는 놀이기구가 뭐야,qa_factoid,0.7264,0.7264,True
+14822,ko-KR,qa,qa_factoid,사람들을 비교,qa_factoid,0.9965,0.9965,True
+14838,ko-KR,qa,qa_factoid,중립 밀도 필터란 무엇이며 하나 위의 나사와 네모난 것 사이에서 스타일이 더 좋은 그라데이션 필터를 원합니까 아니면 솔리드 필터를 원합니까,qa_definition,0.854,0.0074,False
+14857,ko-KR,qa,qa_definition,과도한 의 의미 설명해줄 수 있어,qa_definition,0.9978,0.9978,True
+14877,ko-KR,qa,qa_factoid,저 지역의 기후 조건은 어때,weather_query,0.9964,0.0016,False
+14879,ko-KR,qa,qa_definition,의 뜻,qa_definition,0.9997,0.9997,True
+14884,ko-KR,qa,qa_factoid,미국에서 토네이도가 가장 적게 출몰하는 도시가 어디야,qa_factoid,0.9349,0.9349,True
+14889,ko-KR,qa,qa_definition,그 대상을 나에게 설명해주세요,qa_factoid,0.9283,0.0487,False
+14891,ko-KR,qa,qa_factoid,그 사람은 어떤 분야에서 뛰어나,qa_factoid,0.9989,0.9989,True
+14912,ko-KR,qa,qa_factoid,노무현 대통령은 어디서 태어났어,social_post,0.9443,0.0011,False
+14917,ko-KR,qa,qa_factoid,임영웅 다음 앨범 언제 나와,email_query,0.9437,0.0003,False
+14933,ko-KR,qa,qa_factoid,인도의 지리에 관한 정보 말해줘,email_sendemail,0.6336,0.0113,False
+14939,ko-KR,qa,qa_factoid,강동원 에 관한 세부 정보가 필요해 도와줘,email_query,0.6427,0.0165,False
+14981,ko-KR,qa,qa_definition,아이폰 칠 설명,qa_definition,0.9633,0.9633,True
+14994,ko-KR,qa,qa_factoid,마동석의 다음 영화는 뭐야,recommendation_events,0.8747,0.0574,False
+14995,ko-KR,qa,qa_definition,상황 뜻이 뭐야,qa_definition,0.9998,0.9998,True
+15020,ko-KR,qa,qa_factoid,원빈 은 몇 살이야,qa_factoid,0.6324,0.6324,True
+15039,ko-KR,qa,qa_factoid,올리 태백산맥 어디서 시작해,qa_definition,0.9021,0.0199,False
+15055,ko-KR,qa,qa_factoid,남극과 북극 중 어디가 더 추워,weather_query,0.998,0.0001,False
+15056,ko-KR,qa,qa_factoid,제니 의 새 남자친구는 몇 살이야,qa_factoid,0.9416,0.9416,True
+15062,ko-KR,qa,qa_factoid,제시 관련 정보 부탁해,qa_factoid,0.8122,0.8122,True
+15075,ko-KR,qa,qa_factoid,올리 최초의 미국인들은 어디에 정착했어,qa_factoid,0.36,0.36,True
+15092,ko-KR,qa,qa_definition,삼성 t.v. 에 관한 설명 찾아줘,qa_definition,0.9984,0.9984,True
+15094,ko-KR,qa,qa_factoid,경기도 일산 에 거주하는 인구 찾아줘,lists_query,0.2714,0.0248,False
+15095,ko-KR,qa,qa_factoid,여수 는 어느 지역에 있어,social_post,0.6757,0.0755,False
+15127,ko-KR,qa,qa_definition,스피커 정의해,qa_factoid,0.81,0.1463,False
+15155,ko-KR,social,social_post,내 페이스북 계정 에 가장 최근에 찍은 셀카 올려줄래,social_post,0.9853,0.9853,True
+15166,ko-KR,social,social_post,트위터에 내 비지니스 올려줘,social_post,0.9991,0.9991,True
+15177,ko-KR,social,social_post,트위터 에 이 포스팅 리트윗 해줘,social_post,0.9991,0.9991,True
+15185,ko-KR,social,social_post,생일에 원하는 것들 게시물 올려,social_post,0.9973,0.9973,True
+15186,ko-KR,social,social_post,결혼 소망들 게시해,social_post,0.9994,0.9994,True
+15187,ko-KR,social,social_post,친구 게시물에 공유,social_post,0.9998,0.9998,True
+15197,ko-KR,social,social_post,일본 에 내 방문 을 트위터 에 게시해,social_post,0.9992,0.9992,True
+15208,ko-KR,social,social_post,페이스북 에 저기 모두들 이라고 게시해,social_post,0.9989,0.9989,True
+15213,ko-KR,news,news_query,지금 화제는 뭐야,social_post,0.9994,0.0,False
+15214,ko-KR,news,news_query,오늘 무슨 뉴스 있어,news_query,1.0,1.0,True
+15216,ko-KR,social,social_post,나를 위해 뭔가를 트윗해,email_sendemail,0.758,0.2167,False
+15231,ko-KR,social,social_post,인스타그램 에 내 여행 사진 게시물,social_post,0.9983,0.9983,True
+15271,ko-KR,social,social_post,내 이걸 페이스북 에 ㅋㅋㅋ 라고 올려,social_post,0.9999,0.9999,True
+15275,ko-KR,social,social_post,페이스북 에 기분 좋다고 써 줘,email_sendemail,0.9597,0.0395,False
+15276,ko-KR,social,social_post,내가 좋은 날씨 를 즐기고 있다고 페이스북 에 새로 상태 게시해 줘,social_post,0.9934,0.9934,True
+15289,ko-KR,social,social_post,지금 메시지 게시해,email_sendemail,1.0,0.0,False
+15305,ko-KR,calendar,calendar_query,소셜미디어 알림 어떤 거 있어,email_query,0.5629,0.0024,False
+15318,ko-KR,social,social_post,생일 축하 해줘서 모두 고맙다고 전하고 싶어,email_sendemail,0.9998,0.0,False
+15337,ko-KR,social,social_post,페이스북 에 이 영상 올려줘,social_post,0.9987,0.9987,True
+15350,ko-KR,social,social_post,지마켓에 불만이니 도와달라고 게시해,social_post,0.9915,0.9915,True
+15358,ko-KR,social,social_post,올리 애플 한테 아이폰이 작동하지 않는다고 트윗 해,social_post,0.9604,0.9604,True
+15359,ko-KR,social,social_post,내 휴대폰이 항상 방전돼 있다고 애플에 트윗 보내,social_post,0.4413,0.4413,True
+15364,ko-KR,social,social_post,새로운 폰 케이스가 완전 쓰레기라고 아마존 에 알려줄래,qa_factoid,0.9198,0.0276,False
+15382,ko-KR,social,social_post,삼성 연락해서 내 세탁기에 불이 났다고 말해 줄래,qa_factoid,0.623,0.0198,False
+15387,ko-KR,social,social_post,내 현재 위치 트위터 에 올려줘,social_post,0.3812,0.3812,True
+15399,ko-KR,social,social_post,네트워크 관련 문제 에 대하 케이티 에게 불만 전달해,qa_factoid,0.2309,0.0385,False
+15401,ko-KR,social,social_post,트위터 열어서 메시지 보내,social_post,0.7009,0.7009,True
+15402,ko-KR,social,social_post,제품이 형편 없다고 트윗 해,social_post,0.9047,0.9047,True
+15409,ko-KR,social,social_post,트위터 열고 고객 서비스에 내 불만 사항 입력하고 포스팅 해줘,social_post,0.9971,0.9971,True
+15413,ko-KR,social,social_post,빨리 사람을 불러줘,social_post,0.9308,0.9308,True
+15444,ko-KR,social,social_post,엘지에 싫어요 두 개,lists_remove,0.8291,0.0062,False
+15448,ko-KR,social,social_post,소니 음량 문제 있다고 트윗 보내줘,social_post,0.7568,0.7568,True
+15454,ko-KR,social,social_post,내 가방 잃어버린 점에 대해 화가 났다고 대한항공 에 트윗 해,social_post,0.9287,0.9287,True
+15456,ko-KR,social,social_post,내 가방 분실해서 대한항공 에 화난다고 트윗 한 거 보내고 싶어,social_post,0.995,0.995,True
+15457,ko-KR,social,social_post,내 버거가 문제가 있는데 버거킹 에 트윗 해줄래,iot_hue_lightoff,0.4661,0.3504,False
+15459,ko-KR,social,social_post,트위터 항의 보내줘,social_post,0.9859,0.9859,True
+15464,ko-KR,social,social_post,나 아직 상품 못 받았다고 롯데백화점에게 트윗 보내,social_post,0.7854,0.7854,True
+15467,ko-KR,social,social_post,comcast 에게 내가 싫어한다고 말해줘,email_sendemail,0.9895,0.008,False
+15472,ko-KR,social,social_post,온라인 서점에 대한 불만 트윗 날리자,social_post,0.9782,0.9782,True
+15487,ko-KR,social,social_post,롯데마트에게 점포의 청결함에 대해 트윗 해,social_post,0.9314,0.9314,True
+15488,ko-KR,social,social_post,내가 내 배달은 지금까지 기다리고 있다고 피자헛에 트윗해,social_post,0.9122,0.9122,True
+15503,ko-KR,social,social_post,고객센터 에 새 트윗,social_post,0.9451,0.9451,True
+15508,ko-KR,social,social_post,시리 트위터 열어서 미국 대통령이 나쁘다고 트윗해줘,social_post,1.0,1.0,True
+15518,ko-KR,social,social_post,나이키 에 트윗 으로 컴플레인 보내,social_post,0.5507,0.5507,True
+15532,ko-KR,social,social_post,올리 이마트에 서비스가 최악이다라고 트윗 보내,qa_factoid,0.9892,0.0008,False
+15546,ko-KR,social,social_post,파파존스 에 식은 피자에 대해 트윗 해,social_post,0.991,0.991,True
+15548,ko-KR,social,social_post,삼성 에 모바일 불만 사항 트윗,iot_hue_lightoff,0.5214,0.3627,False
+15553,ko-KR,social,social_post,한화 서비스에 부정적인 트윗 남겨,social_post,0.983,0.983,True
+15554,ko-KR,social,social_post,삼성 서비스 에 서비스 지연 에 대해 트윗해줘,qa_factoid,0.4884,0.0075,False
+15556,ko-KR,social,social_post,불만에 대해 트윗하자,social_post,0.9521,0.9521,True
+15557,ko-KR,social,social_post,불만 사항을 트윗해줘,social_post,0.7912,0.7912,True
+15560,ko-KR,social,social_post,나 배 고프다고 페이스북 에 올려줘,social_post,0.9977,0.9977,True
+15565,ko-KR,social,social_post,내가 다시는 아시아나 이용 안하겠다고 그들에게 알려줄래,social_post,0.4119,0.4119,True
+15587,ko-KR,social,social_post,사진첩 열어서 사진 이름 게시해,qa_factoid,0.9012,0.0842,False
+15592,ko-KR,social,social_post,케이비에스에 불만 트윗 보내,social_post,0.9174,0.9174,True
+15593,ko-KR,social,social_post,유플러스에 불만 트윗 해,social_post,0.9729,0.9729,True
+15598,ko-KR,social,social_post,엘지 열고 불만사항 찾아,qa_factoid,0.9348,0.0016,False
+15610,ko-KR,social,social_post,내 계정에 만족하지 못한 a. b. c. 회사에 의해 매우 나쁜 후속 조치를 트윗 해줘,social_post,0.8772,0.8772,True
+15618,ko-KR,social,social_post,한화생명에 니네 짜증난다고 트윗해줘,social_post,0.9838,0.9838,True
+15626,ko-KR,social,social_post,엉망인 고객서비스를 k. t. 에 불만사항으로 트윗 해줘,qa_factoid,0.9822,0.0093,False
+15634,ko-KR,social,social_post,오케이 구글 멍청이가 주유소 주인이라고 트위터 에 올려,social_post,0.9997,0.9997,True
+15635,ko-KR,social,social_post,맥도날드 서비스가 엉망이라고 트윗 해,qa_factoid,0.973,0.0128,False
+15647,ko-KR,social,social_post,롯데리아에 불만 트윗 해,social_post,0.9976,0.9976,True
+15651,ko-KR,social,social_post,고객 서비스에 게시글 남겨,social_post,0.9998,0.9998,True
+15652,ko-KR,social,social_post,고객 서비스 에 컴플레인 하는 것 좀 도와줘,transport_query,0.6422,0.0088,False
+15655,ko-KR,social,social_post,구글 고객 서비스에 내 넥서스 폰이 작동 안한다고 도와 달라고 트윗 해,social_post,0.9152,0.9152,True
+15656,ko-KR,social,social_post,네이버쇼핑에 아직도 배송을 기다리고 있다고 트윗 해,qa_factoid,0.4191,0.3373,False
+15661,ko-KR,social,social_post,국방부의 트위터에 마지막으로 게시글 올려,social_post,0.9998,0.9998,True
+15670,ko-KR,social,social_post,불만 트윗 보내줘,social_post,0.9997,0.9997,True
+15672,ko-KR,social,social_post,지난 주 내가 보낸 아이폰 수리 접수 불가에 대한 트윗 애플에 보내,iot_hue_lightoff,0.1763,0.0606,False
+15676,ko-KR,social,social_post,애슐리 에 트위터 로 서비스에 대한 컴플레인 추가해 줘,email_sendemail,0.377,0.0293,False
+15686,ko-KR,social,social_post,안녕 내가 누군가한테서 산 물건이 고장났어,qa_factoid,0.499,0.1396,False
+15693,ko-KR,social,social_post,초콜릿 포장에 벌레가 있었다는 거 트윗 해,social_post,0.9104,0.9104,True
+15700,ko-KR,social,social_post,최근 시장에서 유통기한이 지난 상품들,qa_factoid,0.7367,0.0104,False
+15703,ko-KR,social,social_post,사이즈가 넘 빨리 없어진다고 무신사 트위터 해 줘,social_post,0.9995,0.9995,True
+15706,ko-KR,social,social_post,철수에세 트윗 남겨,social_post,0.9999,0.9999,True
+15707,ko-KR,social,social_post,트윗 날리자,social_post,0.5236,0.5236,True
+15708,ko-KR,social,social_post,삼성 전자에 서비스 불만 트윗 남겨,social_post,0.9667,0.9667,True
+15721,ko-KR,social,social_post,맥도날드 이중성 관해서 트윗해,email_sendemail,0.6317,0.1658,False
+15723,ko-KR,social,social_post,페이스북 에서 행복한 상태로 기분 설정해,iot_hue_lightoff,0.2795,0.1166,False
+15731,ko-KR,social,social_post,올리 에스 케이 텔레콤한테 서비스가 나쁘다고 트윗 보내줘,social_post,0.9551,0.9551,True
+15732,ko-KR,social,social_post,삼성 제품들로 사람들을 죽이는 걸 멈춰라고 삼성 한테 트윗 해,social_post,0.9893,0.9893,True
+15736,ko-KR,social,social_post,회사에 대한 부정적인 리뷰 남겨,recommendation_events,0.6834,0.0616,False
+15756,ko-KR,email,email_sendemail,내 팀 한테 이메일 부탁해,email_sendemail,1.0,1.0,True
+15763,ko-KR,email,email_query,새 이메일들이 있는지 확인해줘,email_sendemail,1.0,0.0,False
+15765,ko-KR,email,email_sendemail,민수의 이메일에 답장해,email_sendemail,1.0,1.0,True
+15777,ko-KR,email,email_query,새 이메일들이 있으면 말해줘,email_sendemail,1.0,0.0,False
+15785,ko-KR,email,email_query,내 메일함에 새로운 이메일이 있나,email_sendemail,1.0,0.0,False
+15789,ko-KR,email,email_query,새로운 이메일들을 받은 게 있니,email_sendemail,1.0,0.0,False
+15792,ko-KR,calendar,calendar_query,내 오늘 미팅 누구랑이지,social_post,0.9966,0.0002,False
+15796,ko-KR,email,email_sendemail,진우에게 이메일 보내,email_sendemail,1.0,1.0,True
+15802,ko-KR,email,email_sendemail,현수한테 오늘 밤에 가지 않을 거라고 이메일 답장해,email_sendemail,1.0,1.0,True
+15809,ko-KR,email,email_query,시우가 아직 이메일 안 보냈나,email_sendemail,1.0,0.0,False
+15825,ko-KR,email,email_sendemail,아빠에게 내가 늦는다고 답장해,qa_factoid,0.2991,0.0225,False
+15828,ko-KR,email,email_sendemail,여기 연락처에 추가할 새로운 이메일 주소가 있어,email_sendemail,1.0,1.0,True
+15829,ko-KR,email,email_sendemail,연락처에 새로운 이메일 주소를 추가해,email_sendemail,0.9984,0.9984,True
+15839,ko-KR,email,email_query,주제,calendar_remove,0.2941,0.0129,False
+15841,ko-KR,email,email_sendemail,민호에게 보낼 이메일 작성해줘,email_sendemail,1.0,1.0,True
+15845,ko-KR,email,email_sendemail,그게 어떻게 우리에게 와,qa_factoid,0.8803,0.0043,False
+15847,ko-KR,email,email_sendemail,크레딧 어떻게 얻어,qa_factoid,0.9998,0.0,False
+15849,ko-KR,email,email_sendemail,내 상사에게 메일 보내,email_sendemail,1.0,1.0,True
+15857,ko-KR,email,email_sendemail,적힌 새 이메일 주소로 보내줘,email_sendemail,1.0,1.0,True
+15862,ko-KR,email,email_query,엄마한테서 온 이메일을 확인해 줘,email_sendemail,1.0,0.0,False
+15880,ko-KR,email,email_query,내 메일 확인해주세요,email_sendemail,1.0,0.0,False
+15890,ko-KR,email,email_query,아빠가 보낸 새 이메일들이 있는지 확인해,email_sendemail,1.0,0.0,False
+15904,ko-KR,email,email_query,새 이메일 확인하여 무엇에 대한 건지 말해줘,email_sendemail,1.0,0.0,False
+15906,ko-KR,email,email_sendemail,민호에게 고맙다고 회신해,email_sendemail,0.9999,0.9999,True
+15911,ko-KR,email,email_sendemail,수지에게 이메일 보내자,email_sendemail,1.0,1.0,True
+15933,ko-KR,email,email_query,내가 받은 새 이메일들 뭐야,email_sendemail,1.0,0.0,False
+15942,ko-KR,email,email_sendemail,마지막 이메일에 이 이메일을 답장으로 보내,email_sendemail,1.0,1.0,True
+15950,ko-KR,email,email_sendemail,김준호한테서 온 이메일에 답장해,email_sendemail,1.0,1.0,True
+15957,ko-KR,email,email_sendemail,우리 지금 가고 있다고 현주한테 이메일 보내줘,email_sendemail,1.0,1.0,True
+15963,ko-KR,email,email_query,수진 한테 온 어떤 새로운 이메일 나 받았어,email_sendemail,1.0,0.0,False
+15966,ko-KR,email,email_query,그게 가장 중요하다면 답장해줘,email_sendemail,0.9761,0.0182,False
+15968,ko-KR,email,email_query,매우 익숙한 곳에서 온 것이라면 중요라고 표시해라,qa_factoid,0.879,0.0032,False
+15970,ko-KR,email,email_query,엄마의 마지막 이메일이 무슨 내용이었지,email_sendemail,1.0,0.0,False
+15971,ko-KR,email,email_query,직장에서 온 마지막 이메일이 뭐지,email_sendemail,1.0,0.0,False
+15994,ko-KR,email,email_sendemail,준호한테 이메일 보내서 회의 시간 언제가 좋은지 물어봐,email_sendemail,1.0,1.0,True
+15995,ko-KR,email,email_sendemail,현주에게 예산 회의에 관한 이메일 보내,email_sendemail,1.0,1.0,True
+15998,ko-KR,email,email_query,이름한테서 온 이메일 확인해줘,email_sendemail,1.0,0.0,False
+16002,ko-KR,email,email_query,내 새 이메일 확인해,email_sendemail,1.0,0.0,False
+16005,ko-KR,email,email_sendemail,지영 골뱅이 네이버 닷컴으로 이메일 보내,email_sendemail,1.0,1.0,True
+16010,ko-KR,email,email_query,내 수신함에 새로운 메시지들이 있는지 말해줘,email_sendemail,1.0,0.0,False
+16024,ko-KR,email,email_sendemail,봉준이한테 나 내일 바쁘다고 이메일 보내줘,email_sendemail,1.0,1.0,True
+16028,ko-KR,email,email_sendemail,헤이 시리 동료 한테 이메일 보내줘,email_sendemail,1.0,1.0,True
+16029,ko-KR,email,email_sendemail,회사동료에게 보낼 새로운 이메일을 작성해,email_sendemail,1.0,1.0,True
+16032,ko-KR,email,email_sendemail,내일 회의 관련해 시은 한테 이메일 보내,email_sendemail,1.0,1.0,True
+16038,ko-KR,email,email_query,강훈이 최근에 보낸 이메일 있나,email_sendemail,1.0,0.0,False
+16045,ko-KR,email,email_sendemail,인주에게 사무실 영업 시간표를 적어서 메일 보내,email_query,0.9937,0.0063,False
+16048,ko-KR,email,email_query,최근 이메일 보여줘,email_sendemail,1.0,0.0,False
+16049,ko-KR,email,email_sendemail,나 도와 줄 수 있는지 가족한테 이메일 보내주세요,email_sendemail,1.0,1.0,True
+16050,ko-KR,email,email_query,지메일 확인해봐,email_sendemail,1.0,0.0,False
+16052,ko-KR,email,email_query,아웃룩 확인해 줘,iot_hue_lightoff,0.6259,0.0279,False
+16056,ko-KR,email,email_sendemail,이메일에 회신해,email_sendemail,1.0,1.0,True
+16061,ko-KR,email,email_query,지난 십 분 안에 받은 이메일이 있나,email_sendemail,1.0,0.0,False
+16072,ko-KR,email,email_sendemail,나의 상사에게 오늘 급한 일로 늦어서 회의에 참석하지 못해 죄송하다고 메일 보내,email_sendemail,1.0,1.0,True
+16075,ko-KR,email,email_query,호현에게 온 최근 이메일 보여줘,email_sendemail,1.0,0.0,False
+16082,ko-KR,email,email_sendemail,병수 어떻게 지내는지 또 내가 어떻게 도울 수 있는지 물어보는 이메일 좀 보내줘,email_sendemail,1.0,1.0,True
+16089,ko-KR,email,email_query,지난 십 분 내에 새로운 이메일을 받은 게 있니,email_sendemail,1.0,0.0,False
+16096,ko-KR,email,email_query,진희 가 새 이메일 보냈어,email_sendemail,1.0,0.0,False
+16098,ko-KR,email,email_query,수진 한테 온 읽지 않은 이메일 확인해,email_sendemail,1.0,0.0,False
+16100,ko-KR,email,email_query,직업 목록 포함한 이메일 체크해줘,email_sendemail,0.9436,0.0562,False
+16103,ko-KR,email,email_sendemail,결혼 기념일이라고 내 남동생한테 이메일 보내줄래,email_sendemail,1.0,1.0,True
+16120,ko-KR,email,email_sendemail,도움은 성희에게만 보내져야 한다,email_sendemail,1.0,1.0,True
+16131,ko-KR,email,email_sendemail,이 새로운 이메일 주소를 내 연락처에 추가해,email_sendemail,0.9987,0.9987,True
+16145,ko-KR,email,email_query,가장 최근 이메일 보여줘,email_sendemail,1.0,0.0,False
+16146,ko-KR,news,news_query,최신 업데이트 해줘,qa_factoid,0.1118,0.0402,False
+16148,ko-KR,email,email_sendemail,정수한테 메일로 빠르게 답장해,email_sendemail,1.0,1.0,True
+16151,ko-KR,email,email_query,오늘 메일에서 미팅 일정 확인해줘,email_sendemail,1.0,0.0,False
+16162,ko-KR,email,email_sendemail,답장 보내기,qa_factoid,0.8833,0.0497,False
+16163,ko-KR,email,email_query,어제 누가 나한테 메일 보낸거야,email_sendemail,1.0,0.0,False
+16165,ko-KR,email,email_query,지윤이가 답장했나,qa_factoid,0.9821,0.0003,False
+16166,ko-KR,email,email_sendemail,나 앞으로 삼주 동안 프로젝트로 바쁠거라고 현주한테 답장 보내줄래,email_sendemail,0.9868,0.9868,True
+16168,ko-KR,email,email_query,지난 십오 분 동안 온 이메일 있나,email_sendemail,1.0,0.0,False
+16170,ko-KR,email,email_query,받은 편지함을 열어서 읽지 않은 메일들 확인해봐,email_sendemail,1.0,0.0,False
+16178,ko-KR,email,email_query,오늘 진영이한테서 온 메일이 있나,email_sendemail,1.0,0.0,False
+16183,ko-KR,email,email_query,내 직업에 관련된 이메일 확인해봐,email_sendemail,1.0,0.0,False
+16201,ko-KR,email,email_sendemail,욱환을 위해 새 이메일을 로드하고 지금 메시지를 보내줘,email_sendemail,1.0,1.0,True
+16221,ko-KR,email,email_sendemail,현지한테 알려주겠다고 이메일 적어서 보내줘,email_sendemail,1.0,1.0,True
+16245,ko-KR,email,email_sendemail,지수 골뱅이 네이버 닷컴으로 이메일 보내줘,email_sendemail,1.0,1.0,True
+16248,ko-KR,email,email_query,메일 온 게 있나 학인해,email_sendemail,1.0,0.0,False
+16263,ko-KR,email,email_query,봉수한테서 새 이메일 받은 거 있니,email_sendemail,1.0,0.0,False
+16266,ko-KR,email,email_sendemail,우리 가족들한테 메일을 써서 모두를 사랑한다고 말해,email_sendemail,1.0,1.0,True
+16271,ko-KR,email,email_query,내 받은편지함 새로고침하고 새 이메일에 대해 알려줘,email_sendemail,1.0,0.0,False
+16275,ko-KR,email,email_query,새 이메일에 대한 폴링 시작해줘,email_sendemail,1.0,0.0,False
+16276,ko-KR,email,email_query,나에게 새 이메일 왔어,email_sendemail,1.0,0.0,False
+16280,ko-KR,email,email_sendemail,가족이나 친구 명단에 있는 지효에게 이메일 보내,email_sendemail,1.0,1.0,True
+16282,ko-KR,email,email_sendemail,조수 지윤이한테 내일 약속 다 취소해 달라고 메일 보내줘,email_sendemail,1.0,1.0,True
+16296,ko-KR,email,email_sendemail,엄마에게 수민의 생일 파티가 일요일에 있다고 이메일 보내,email_sendemail,1.0,1.0,True
+16297,ko-KR,email,email_sendemail,지후한테 고맙다고 이메일 보내줘,email_sendemail,1.0,1.0,True
+16314,ko-KR,email,email_sendemail,은정에게 이메일 보내줘,email_sendemail,1.0,1.0,True
+16317,ko-KR,email,email_query,유진이 보낸 새 이메일이 있나,email_sendemail,1.0,0.0,False
+16318,ko-KR,email,email_sendemail,이메일 답장 보내줘,email_sendemail,1.0,1.0,True
+16320,ko-KR,email,email_sendemail,김지영의 이메일에 회신하고 싶어,email_sendemail,1.0,1.0,True
+16353,ko-KR,email,email_query,선우에게 온 이메일들 체크해줘,email_sendemail,1.0,0.0,False
+16354,ko-KR,email,email_query,내 회사에서 온 이메일들 확인해줘,email_sendemail,1.0,0.0,False
+16356,ko-KR,email,email_query,총기관리 제목으로 재준에게 이메일 보냈나,email_sendemail,1.0,0.0,False
+16357,ko-KR,email,email_query,선정 이가 탄약에 관해 나한테 메일 보냈어,email_sendemail,1.0,0.0,False
+16361,ko-KR,email,email_query,지난 한 시간 동안 새 이메일을 받은 게 있나,email_sendemail,1.0,0.0,False
+16373,ko-KR,email,email_query,추적 번호가 있는 이메일을 받은 적이 있나,email_sendemail,1.0,0.0,False
+16375,ko-KR,email,email_sendemail,가현이한테 이메일 보내,email_sendemail,1.0,1.0,True
+16376,ko-KR,email,email_sendemail,알렉사 엄마 한테 이메일 하나 보내 줘,email_sendemail,1.0,1.0,True
+16377,ko-KR,email,email_sendemail,지금 엄마에게 이메일 보내자,email_sendemail,1.0,1.0,True
+16384,ko-KR,email,email_query,나에게 온 새 이메일 있어,email_sendemail,1.0,0.0,False
+16385,ko-KR,email,email_query,새 이메일 읽어줘,email_sendemail,1.0,0.0,False
+16398,ko-KR,email,email_sendemail,재우한테 그 이메일 보내줘,email_sendemail,1.0,1.0,True
+16399,ko-KR,email,email_query,나 새로 받은 이메일 있어,email_sendemail,1.0,0.0,False
+16401,ko-KR,email,email_sendemail,오늘 뭐하는지 주현이한테 이메일 보내줘,email_sendemail,1.0,1.0,True
+16402,ko-KR,email,email_sendemail,오늘 형돈이 계획 이메일 보내,email_sendemail,1.0,1.0,True
+16406,ko-KR,email,email_sendemail,알렉사 이메일 시작해,email_sendemail,1.0,1.0,True
+16410,ko-KR,email,email_sendemail,이메일을 써,email_sendemail,1.0,1.0,True
+16413,ko-KR,email,email_query,내 상사가 보낸 모든 이메일들 보여줘,email_sendemail,1.0,0.0,False
+16419,ko-KR,email,email_sendemail,삼촌 중호에게 네 그거 가능해요라고 이메일 보내,email_sendemail,1.0,1.0,True
+16427,ko-KR,email,email_query,오늘 새로운 이메일 몇 개 받았어,email_sendemail,1.0,0.0,False
+16430,ko-KR,email,email_sendemail,엄마 아빠 한테 안부 이메일 보내주세요,email_sendemail,1.0,1.0,True
+16437,ko-KR,email,email_sendemail,내 친구한테 이 이메일 보내주세요,email_sendemail,1.0,1.0,True
+16438,ko-KR,email,email_sendemail,이 이메일 지금 보내줘,email_sendemail,1.0,1.0,True
+16446,ko-KR,email,email_query,철수로부터 온 최근 이메일들 확인해,email_sendemail,1.0,0.0,False
+16459,ko-KR,email,email_sendemail,newmail at gmail dot com 로 새 메시지,email_sendemail,1.0,1.0,True
+16461,ko-KR,email,email_query,나 안 읽은 메일 있니,email_sendemail,1.0,0.0,False
+16467,ko-KR,email,email_query,내 연락처 철수로부터 새 이메일을 받은 게 있니,email_sendemail,1.0,0.0,False
+16471,ko-KR,email,email_query,진혁에게서 온 이메일 확인해봐,email_sendemail,1.0,0.0,False
+16496,ko-KR,email,email_sendemail,답장 이메일 보내줘,email_sendemail,1.0,1.0,True
+16501,ko-KR,email,email_sendemail,내 친구 은수에게 어떻게 지내냐고 메일 보내줘,email_sendemail,1.0,1.0,True
+16506,ko-KR,email,email_sendemail,새 메일 주소 추가해서 메일 보내,email_sendemail,1.0,1.0,True
+16518,ko-KR,email,email_sendemail,김민정 새로운 이메일 추가해,social_post,0.9996,0.0003,False
+16519,ko-KR,email,email_sendemail,나 내 연락처에 새로운 이메일을 추가해야 해,email_sendemail,1.0,1.0,True
+16535,ko-KR,email,email_sendemail,지후한테 이메일 보내줘,email_sendemail,1.0,1.0,True
+16559,ko-KR,email,email_sendemail,종현이가 아침에 보낸 이메일에 정답은 사백삼십이라고 답변해줘,email_sendemail,1.0,1.0,True
+16560,ko-KR,email,email_sendemail,상사의 이메일에 오후 네 시에 갈게요라고 답장 보내,email_sendemail,1.0,1.0,True
+16563,ko-KR,email,email_query,올리야 내 이메일 체크해,email_sendemail,1.0,0.0,False
+16591,ko-KR,email,email_sendemail,방금 영수에게서 메일을 받았는데 지금 바로 답장을 해야겠어,email_sendemail,1.0,1.0,True
+16593,ko-KR,email,email_sendemail,마지막 메일에 즉시 답장 해,email_sendemail,1.0,1.0,True
+16603,ko-KR,email,email_query,삼십 분 전에 엄마로부터 온 이메일의 내용이 뭐지,email_sendemail,1.0,0.0,False
+16605,ko-KR,email,email_sendemail,상사한테 이메일 보내줘,email_sendemail,1.0,1.0,True
+16609,ko-KR,email,email_query,혹시 내가 안 읽은 새 이메일 있는지 말해 줘,email_sendemail,1.0,0.0,False
+16613,ko-KR,email,email_sendemail,상사한테 나 늦을거라고 이메일 보내줘,email_sendemail,1.0,1.0,True
+16622,ko-KR,email,email_sendemail,이 연락처로 이메일 보내,email_sendemail,1.0,1.0,True
+16624,ko-KR,email,email_sendemail,내 서비스 문제 관련해 s. k. 텔레콤 한테 이메일 보내고 싶어,email_sendemail,1.0,1.0,True
+16627,ko-KR,email,email_query,최근 이메일 확인해줘,email_sendemail,1.0,0.0,False
+16630,ko-KR,email,email_sendemail,마지막 이메일 답자아 보재,email_sendemail,1.0,1.0,True
+16642,ko-KR,email,email_query,효진이한테 온 메일 있는 지 확인해봐,email_sendemail,1.0,0.0,False
+16648,ko-KR,email,email_query,내 이메일들 좀 확인 부탁해,email_sendemail,1.0,0.0,False
+16652,ko-KR,email,email_query,현우의 이메일에 첨부가 있니,email_sendemail,1.0,0.0,False
+16662,ko-KR,email,email_query,동민에게서 새 이메일을 받은 게 있니,email_sendemail,1.0,0.0,False
+16666,ko-KR,email,email_query,이메일 받은 게 있나,email_sendemail,1.0,0.0,False
+16668,ko-KR,email,email_query,오늘 네 시 이후 이메일 온 거 있어,email_sendemail,1.0,0.0,False
+16669,ko-KR,email,email_query,민수로부터 이메일 받았니,email_sendemail,1.0,0.0,False
+16672,ko-KR,email,email_query,경식이에게 연락이 왔나,social_post,0.9996,0.0,False
+16677,ko-KR,email,email_query,오늘 받은편지함에 새 이메일들이 있나,email_sendemail,1.0,0.0,False
+16698,ko-KR,email,email_sendemail,내 어머니 이메일로 답장 보내줘,email_sendemail,1.0,1.0,True
+16701,ko-KR,email,email_sendemail,나 현주의 이메일에 답장하고 싶어,email_sendemail,1.0,1.0,True
+16703,ko-KR,email,email_sendemail,가장 최근 이메일 답장 할래,email_sendemail,1.0,1.0,True
+16712,ko-KR,email,email_query,새 이메일 온 게 있나,email_sendemail,1.0,0.0,False
+16713,ko-KR,email,email_query,이메일을 확인해서 새 이메일이 있으면 알려줘,email_sendemail,1.0,0.0,False
+16717,ko-KR,email,email_sendemail,대현에게 내가 휴가 중이라고 이메일 보내줘,email_sendemail,1.0,1.0,True
+16719,ko-KR,email,email_query,새로 온 이메일이 있나 알려 줘,email_sendemail,1.0,0.0,False
+16729,ko-KR,email,email_sendemail,한수의 이메일에 내일 만나자고 답장해,email_sendemail,1.0,1.0,True
+16730,ko-KR,email,email_query,영준이에게서 새 이메일 왔어,email_sendemail,1.0,0.0,False
+16733,ko-KR,email,email_query,네이버로 부터 최근 이메일들 보여줘,social_post,0.9016,0.0065,False
+16749,ko-KR,email,email_query,오늘 온 새 이메일이 있니,email_sendemail,1.0,0.0,False
+16754,ko-KR,email,email_sendemail,이메일 받아써줘,email_sendemail,1.0,1.0,True
+16758,ko-KR,email,email_query,지난 번 이후에 온 이메일 있어,email_sendemail,1.0,0.0,False
+16763,ko-KR,email,email_query,지난 십 분 동안 온 이메일들이 있나,email_sendemail,1.0,0.0,False
+16765,ko-KR,email,email_query,어제 이메일에 인터뷰 몇 시 라고 했지,email_sendemail,1.0,0.0,False
+16766,ko-KR,email,email_query,새 메일 확인해,email_sendemail,1.0,0.0,False
+16772,ko-KR,email,email_query,법규 위반에 관한 모든 이메일들을 보여줘,email_sendemail,0.4324,0.0256,False
+16780,ko-KR,email,email_sendemail,juanpedro 골뱅이 gmail 쩜 com으로 이메일 보내줘,email_sendemail,1.0,1.0,True
+16791,ko-KR,email,email_sendemail,brandon at example dot com 이 새 주소고 새 이메일 작성해,email_sendemail,1.0,1.0,True
+16799,ko-KR,email,email_query,정오 이후에 이메일 받은 게 있니,email_sendemail,1.0,0.0,False
+16801,ko-KR,email,email_query,경희가 보낸 동희 관련 어떠한 이메일 있어,email_sendemail,0.9968,0.0032,False
+16813,ko-KR,email,email_query,한경의 이메일을 받으면 소리로 알려줘,email_sendemail,1.0,0.0,False
+16814,ko-KR,email,email_query,이메일 체크해줘,email_sendemail,1.0,0.0,False
+16838,ko-KR,email,email_sendemail,새 이메일 i. d.에게 이메일 보내줄래,email_sendemail,1.0,1.0,True
+16851,ko-KR,email,email_query,알림 이메일 보내,email_sendemail,1.0,0.0,False
+16859,ko-KR,email,email_query,나의 마지막 이메일에 영희 한테 내가 뭐라고 말했지,email_sendemail,1.0,0.0,False
+16872,ko-KR,email,email_sendemail,내 연락처에서 은지 찾아서 이메일 보내줘,email_sendemail,1.0,1.0,True
+16873,ko-KR,email,email_sendemail,나래 생일 이니 이메일 보내,email_sendemail,1.0,1.0,True
+16880,ko-KR,email,email_sendemail,미팅 관련해서 진기 한테 이메일 보내,email_sendemail,1.0,1.0,True
+16883,ko-KR,email,email_sendemail,진우에게 이메일을 보내서 오늘밤 언제 집에 들어오는지 물어봐,email_sendemail,1.0,1.0,True
+16886,ko-KR,email,email_sendemail,이 이메일에 답장해,email_sendemail,1.0,1.0,True
+16888,ko-KR,email,email_query,새 메일 뭐에 관한 거야,email_sendemail,1.0,0.0,False
+16890,ko-KR,email,email_query,새 이메일의 내용이 뭐지,social_post,0.989,0.0,False
+16891,ko-KR,email,email_sendemail,박진우 한테 이메일 보내,email_sendemail,1.0,1.0,True
+16892,ko-KR,email,email_sendemail,박상준에게 이메일 보내,email_sendemail,1.0,1.0,True
+16899,ko-KR,email,email_query,정준호한테서 온 메일 있어,email_sendemail,1.0,0.0,False
+16914,ko-KR,email,email_query,이 발신자로부터 이메일 받은 거 있나,email_sendemail,1.0,0.0,False
+16916,ko-KR,email,email_sendemail,받은 메일에 답장을 보내,email_sendemail,1.0,1.0,True
+16924,ko-KR,email,email_query,새 메일 있는지 내 지메일 확인 부탁해,email_sendemail,1.0,0.0,False
+16930,ko-KR,email,email_query,최근 이메일 보여줘,email_sendemail,1.0,0.0,False
+16938,ko-KR,email,email_sendemail,진수의 이메일에 답장 해,email_sendemail,1.0,1.0,True
+16944,ko-KR,email,email_sendemail,할머니에게 토요일에 들른다고 이메일 보내줘,email_sendemail,1.0,1.0,True
+16947,ko-KR,email,email_sendemail,이메일 답장해줘,email_sendemail,1.0,1.0,True
+16955,ko-KR,email,email_sendemail,새로운 연락처로 이메일 보내,email_sendemail,1.0,1.0,True
+16956,ko-KR,email,email_sendemail,새로운 연락처로 이메일 보내,email_sendemail,1.0,1.0,True
+16961,ko-KR,email,email_sendemail,답장 보내,qa_factoid,0.9885,0.0019,False
+16974,ko-KR,email,email_query,소득세부서 한테 온 모든 새로울 이메일 체크해 줘,email_sendemail,1.0,0.0,False
+16987,ko-KR,email,email_query,준석 이 새 이메일 보냈어,email_sendemail,1.0,0.0,False
+16989,ko-KR,email,email_sendemail,나한테 보낸 이메일에 남수한테 나 지금 돈 필요하고 급하다고 말 좀 해줘,email_sendemail,1.0,1.0,True
+16992,ko-KR,email,email_query,김영희가 내게 메일 보냈니,email_sendemail,1.0,0.0,False
+16995,ko-KR,email,email_sendemail,정선에게 이메일 보내,email_sendemail,1.0,1.0,True
+17005,ko-KR,email,email_query,새 메일이 있는지 확인해,email_sendemail,1.0,0.0,False
+17011,ko-KR,email,email_sendemail,이메일 보내줄 수 있어,email_sendemail,1.0,1.0,True
+17015,ko-KR,email,email_sendemail,답장 시작해,qa_factoid,0.7046,0.0058,False
+17019,ko-KR,email,email_sendemail,지난 이메일에 답장 만들어,email_sendemail,1.0,1.0,True
+17020,ko-KR,email,email_sendemail,마지막으로 받은 이메일에 답장 보내,email_sendemail,1.0,1.0,True
+17023,ko-KR,email,email_sendemail,엄마한테 이메일 보내서 날씨 어떤지 물어봐줘,email_sendemail,1.0,1.0,True
+17042,ko-KR,email,email_sendemail,준 골뱅이 지메일 닷 컴 으로 이메일 하나 써,email_sendemail,1.0,1.0,True
+17043,ko-KR,email,email_sendemail,수민 골뱅이 네이버 닷컴으로 이메일 보내,email_sendemail,1.0,1.0,True
+17051,ko-KR,email,email_query,새로운 이메일 받았나,email_sendemail,1.0,0.0,False
+17052,ko-KR,email,email_query,낸디 검색해,recommendation_events,0.7759,0.0062,False
+17069,ko-KR,email,email_query,아웃룩에 새로운 이메일들이 있니,email_sendemail,0.9961,0.0002,False
+17075,ko-KR,email,email_query,오늘 네 시 이후에 받은 새 메일이 있나,email_sendemail,1.0,0.0,False
+17081,ko-KR,email,email_sendemail,최근에 저장한 문서와 함께 회사 동료 한테 보내는 이메일 생성하기,email_sendemail,1.0,1.0,True
+17087,ko-KR,email,email_query,시연이한테서 새로 온 이메일을 열어 줘,email_sendemail,1.0,0.0,False
+17098,ko-KR,email,email_query,지난 한 시간 동안 온 이메일을 보여줘,email_sendemail,0.9997,0.0002,False
+17107,ko-KR,email,email_query,새 이메일들 체크해줘,email_sendemail,1.0,0.0,False
+17108,ko-KR,email,email_query,가장 최근 이메일 보여줘,email_sendemail,1.0,0.0,False
+17113,ko-KR,email,email_sendemail,윤지에게 보낼 이메일 작성해,email_sendemail,1.0,1.0,True
+17115,ko-KR,email,email_query,새로운 이메일 목록 읽어줘,email_sendemail,0.9994,0.0003,False
+17116,ko-KR,email,email_query,최근 이메일 리스트 보여줘,email_sendemail,1.0,0.0,False
+17119,ko-KR,email,email_query,아마존 한테 온 어떤 메일 있나 체크해 줘,email_sendemail,1.0,0.0,False
+17123,ko-KR,email,email_sendemail,지역 부사장에 대한 이메일 양식,email_sendemail,1.0,1.0,True
+17135,ko-KR,email,email_query,어떤 밝은 소식의 이메일들,email_query,0.8742,0.8742,True
+17136,ko-KR,email,email_query,새로 온 이메일을 읽어 줘,email_sendemail,1.0,0.0,False
+17138,ko-KR,email,email_query,내가 읽은 메시지 보관해줘,email_sendemail,1.0,0.0,False
+17142,ko-KR,email,email_query,우리가 마지막으로 학인한 후에 받은 편지함에 새로운 메일이 온 게 있나,email_sendemail,1.0,0.0,False
+17143,ko-KR,email,email_sendemail,진우에게 이메일 보내자,email_sendemail,1.0,1.0,True
+17144,ko-KR,email,email_query,이메일 확인해봐,email_sendemail,1.0,0.0,False
+17147,ko-KR,email,email_sendemail,답장 할 때 다음과 같이 보내세요 안녕하세요,email_query,0.2736,0.1387,False
+17148,ko-KR,email,email_sendemail,안녕하세요라는 내용의 메일에 답장해,email_sendemail,0.9999,0.9999,True
+17151,ko-KR,email,email_sendemail,내 친구 지훈이가 새로 장만한 집으로 초대장 보냈는데 걔 이메일 아이디로 고맙다고 보내줘,email_sendemail,1.0,1.0,True
+17156,ko-KR,email,email_query,지영이한테서 새로 온 이메일이 있으면 확인해 줘,email_sendemail,1.0,0.0,False
+17157,ko-KR,email,email_query,준호한테서 온 새 이메일이 있나,email_sendemail,1.0,0.0,False
+17170,ko-KR,email,email_query,지화가 언제 내게 이메일 보냈는지 알려줘,email_sendemail,1.0,0.0,False
+17179,ko-KR,email,email_query,주호가 보낸 이메일 있었니,email_sendemail,1.0,0.0,False

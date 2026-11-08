@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,ur-PK,iot,iot_hue_lightoff,ماہی سونے کے باتھ روم کی روشنی بند کرو,iot_hue_lightoff,0.9939,0.9939,True
+47,ur-PK,datetime,datetime_query,پاکستان میں کیا وقت ہے,weather_query,0.9378,0.001,False
+85,ur-PK,datetime,datetime_query,آج کی تاریخ بتاؤ,datetime_query,0.9387,0.9387,True
+86,ur-PK,datetime,datetime_query,آج کیا تاریخ ہے,datetime_query,0.9997,0.9997,True
+100,ur-PK,weather,weather_query,ہفتے کی پیشن گوئی کیا ہے,recommendation_events,0.9469,0.0001,False
+102,ur-PK,weather,weather_query,اس ہفتے کا موسم کیسا ہے,weather_query,0.9995,0.9995,True
+103,ur-PK,weather,weather_query,اس ہفتے کا موسم بتاؤ,weather_query,0.9483,0.9483,True
+128,ur-PK,datetime,datetime_query,کیا تاریخ ہے,datetime_query,0.9997,0.9997,True
+151,ur-PK,play,play_music,برائے کرم اس کو دوبارہ چلائیں,qa_factoid,0.6177,0.022,False
+177,ur-PK,news,news_query,مجھے کچھ کاروباری خبریں بتائیں,email_sendemail,0.8628,0.0018,False
+178,ur-PK,news,news_query,مجھے بین الاقوامی خبریں بتانا,qa_factoid,0.9972,0.0,False
+182,ur-PK,play,play_music,میری راک چلانے کی فہرست چلادیئں,lists_remove,0.8335,0.0022,False
+185,ur-PK,play,play_music,میری پلے لسٹ میں تیسرا گانا سجنی چلائیں,recommendation_events,0.8514,0.0525,False
+197,ur-PK,datetime,datetime_query,کیا وقت ہوا ہے,weather_query,0.7498,0.0107,False
+216,ur-PK,weather,weather_query,آج موسم کس طرح کا ہے,weather_query,0.9977,0.9977,True
+219,ur-PK,weather,weather_query,کیا میں کل چھتری لے کرآئوں,iot_hue_lightoff,0.338,0.0305,False
+220,ur-PK,play,play_music,میری راک لسٹ سے تیرا فطور چلائیں,cooking_recipe,0.9994,0.0,False
+250,ur-PK,play,play_music,میں اس وقت دھماکیدار موسیقی کے جیسا محسوس کر رہا ہوں تمہارا کیا حال ہے,play_music,0.5923,0.5923,True
+254,ur-PK,play,play_music,اولی میرا پسندیدہ گانا پلر کرو قوالی سے,play_music,0.5245,0.5245,True
+279,ur-PK,weather,weather_query,کراچی کے لئے آج کی پیشگوئی کیا ہے,weather_query,0.2352,0.2352,True
+281,ur-PK,news,news_query,پاکستانی روپے اور سعودی ریال میں زر مبادلہ کی شرح کیا ہے,qa_factoid,0.341,0.0254,False
+296,ur-PK,play,play_music,ایک اتیف اسلام پلالیست چلائیں,qa_factoid,0.4008,0.0008,False
+297,ur-PK,play,play_music,جنون کے گانے شفل کرو,play_music,1.0,1.0,True
+299,ur-PK,weather,weather_query,موسم کیسی ہے,weather_query,0.9597,0.9597,True
+310,ur-PK,datetime,datetime_query,اس سال نئے سال کی شام کونسا دن ہے,weather_query,0.9984,0.0003,False
+319,ur-PK,weather,weather_query,مجھے فیصل آباد ميں آج سے دو دن کا موسم بتاؤ,weather_query,0.9506,0.9506,True
+329,ur-PK,play,play_music,الف بس,qa_factoid,0.9991,0.0,False
+333,ur-PK,weather,weather_query,پشاور میں موسم کی کیا حالت ہے,weather_query,0.9991,0.9991,True
+334,ur-PK,weather,weather_query,میں لاہور کا موسم جاننے کی خواہش رکھتا ہوں,weather_query,0.9996,0.9996,True
+344,ur-PK,weather,weather_query,کیا کل بارش ہوگی,weather_query,0.9969,0.9969,True
+348,ur-PK,weather,weather_query,کیا کل بارش ہوگی,weather_query,0.9969,0.9969,True
+355,ur-PK,datetime,datetime_query,ہفتے کا کون سا دن پہلی اپریل ہے,datetime_query,0.7749,0.7749,True
+360,ur-PK,datetime,datetime_query,موجودہ وقت کیا ہے,qa_factoid,0.9996,0.0,False
+362,ur-PK,play,play_music,فرحان کے گانے سے دوسرا گانا چلاؤ,play_music,0.9992,0.9992,True
+366,ur-PK,news,news_query,براہ کرم مجھے تازہ ترین خبریں بتانا,lists_query,0.7984,0.0061,False
+369,ur-PK,iot,iot_hue_lightoff,روشنی بند کرو,lists_remove,0.6282,0.0149,False
+385,ur-PK,news,news_query,دنیا نیوز میں کیا سنسنی خیز ہے,cooking_recipe,0.6926,0.0008,False
+391,ur-PK,play,play_music,فہرست میں کوئی بھی میرا گانا چلائیں,play_music,0.986,0.986,True
+393,ur-PK,play,play_music,میری پلے لسٹ میں ایک ریٹرو گانا چلائیں,play_music,0.3985,0.3985,True
+397,ur-PK,play,play_music,فیوزن کا کوئی گانا چلائین,recommendation_events,0.4399,0.3831,False
+400,ur-PK,play,play_music,کھیلنا شروع کرو,play_music,0.8968,0.8968,True
+407,ur-PK,play,play_music,کیا تم اگلے گھنٹے کیلیے راک موسیقی چلا سکتے ہو,play_music,0.9975,0.9975,True
+424,ur-PK,news,news_query,تازہ ترین خبریں کیا ہیں,news_query,0.9957,0.9957,True
+427,ur-PK,iot,iot_hue_lightoff,باتھ روم میں روشنی بند کرو,iot_hue_lightoff,0.9973,0.9973,True
+428,ur-PK,iot,iot_hue_lightoff,باتھ روم کی روشنی بند کرو,iot_hue_lightoff,0.9944,0.9944,True
+430,ur-PK,weather,weather_query,ابھی اس وقت موسم کس طرح کا ہے,weather_query,0.9896,0.9896,True
+437,ur-PK,play,play_music,جنون جنون کھولیں,qa_factoid,0.9269,0.0,False
+441,ur-PK,news,news_query,تازہ ترین خبروں کی سرخیاں کیا ہیں,news_query,0.7914,0.7914,True
+442,ur-PK,news,news_query,خبروں میں کیا ہو رہا ہے,qa_factoid,0.8764,0.0175,False
+451,ur-PK,news,news_query,مجھے نئے حبیب بینک کے حصص کی قیمت حاصل کرنی ہے,lists_remove,0.1971,0.0319,False
+473,ur-PK,play,play_music,دل دل پاکستان چلاؤ,qa_factoid,0.9403,0.0016,False
+486,ur-PK,datetime,datetime_query,لاہور شہر میں کتنے بجے ہیں,iot_hue_lightoff,0.8697,0.0004,False
+491,ur-PK,weather,weather_query,کيا باہر ٹھنڈا ہے,qa_factoid,0.9677,0.0003,False
+506,ur-PK,play,play_music,خودغرذ کے گانے کھولیں,play_music,1.0,1.0,True
+512,ur-PK,weather,weather_query,جل کی طرف سے,email_sendemail,0.8851,0.0005,False
+540,ur-PK,play,play_music,گانا رابطہ ارجیت سنگ چلاو,qa_factoid,0.9869,0.0,False
+555,ur-PK,play,play_music,کچھ حدیقہ کیانی چلاؤ,qa_definition,0.654,0.0007,False
+576,ur-PK,play,play_music,تمام چلنے والی فہرست چلائیں,lists_remove,0.9276,0.0014,False
+585,ur-PK,news,news_query,تازہ ترین خبریں دکھانا,news_query,0.9351,0.9351,True
+588,ur-PK,news,news_query,آج کی نئی خبر کیا ہے,news_query,0.9997,0.9997,True
+590,ur-PK,weather,weather_query,موجودہ موسم کیسا ہے,weather_query,0.9993,0.9993,True
+614,ur-PK,play,play_music,پلے لسٹ شروع کرو,recommendation_events,0.6355,0.0041,False
+625,ur-PK,play,play_music,برائے کرم روکسن کا گانا ریڈیو پر چلائیں,play_music,0.9991,0.9991,True
+631,ur-PK,news,news_query,کالا باغ ڈیم کے بارے میں خبروں کے لیے اطلاع مرتب کرو,email_query,0.3403,0.2989,False
+651,ur-PK,iot,iot_hue_lightoff,کمرے کی روشنی بند کرو,iot_hue_lightoff,0.9935,0.9935,True
+660,ur-PK,datetime,datetime_query,پاکستان میں موجودہ وقت,qa_factoid,0.9543,0.0021,False
+680,ur-PK,news,news_query,بٹ کوائن کی قیمت کے بارے میں مجھے آگاہ کرتے رہیں,qa_factoid,0.4919,0.0128,False
+686,ur-PK,datetime,datetime_query,نارووال میں ابھی وقت کیا ہے,qa_factoid,0.9999,0.0,False
+712,ur-PK,news,news_query,میں جیو نیوز کی آخری خبریں سننا چاہتا ہوں,news_query,0.9999,0.9999,True
+726,ur-PK,weather,weather_query,اس ہفتے کی تفصیلات مختصر بتاؤ,qa_factoid,0.7225,0.0107,False
+730,ur-PK,iot,iot_hue_lightoff,روشنی بند کرو,lists_remove,0.6282,0.0149,False
+738,ur-PK,weather,weather_query,کتنی سردی ہے آج باہر,weather_query,0.9992,0.9992,True
+764,ur-PK,weather,weather_query,اس ہفتے موسم کی پیشن گوئی کيا ہے,weather_query,0.8375,0.8375,True
+765,ur-PK,news,news_query,کيا آپ مہربانی کر کے مجھےنئی ہيڈلائنز دو گے نیا فراہم کردہ,qa_factoid,0.9291,0.002,False
+767,ur-PK,news,news_query,کیا آپ براہ کرم مجھے کسی ایسے ذریعہ سے تازہ ترین خبریں ڈھونڈ سکتے ہیں جس پر میں عام طور پر نہیں جاتا ہوں,email_query,0.92,0.019,False
+768,ur-PK,news,news_query,مجھے تازہ ترین سیاسی خبروں کے بارے میں بتائیں,news_query,0.9829,0.9829,True
+779,ur-PK,play,play_music,میں سننا چاہتا ہوں دور سٹرنگس کا,qa_factoid,0.2963,0.1077,False
+781,ur-PK,play,play_music,آوارہ پن کھیلو,iot_hue_lightoff,0.9813,0.0001,False
+782,ur-PK,play,play_music,وائیٹل سائنز کا دل دل پاکستان چلاؤ,social_post,0.264,0.0447,False
+783,ur-PK,play,play_music,چلائیں مبارک مبارک,email_sendemail,0.9989,0.0,False
+790,ur-PK,weather,weather_query,معتدل یا بھاری موسم,weather_query,0.9972,0.9972,True
+826,ur-PK,weather,weather_query,باہر موجودہ درجہ حرارت کیا ہے,qa_factoid,0.8309,0.1537,False
+827,ur-PK,play,play_music,میکال حسن کی پلے لسٹ چلاؤ,email_query,0.1892,0.0115,False
+832,ur-PK,weather,weather_query,کل کی کیا پیشن گوئی ہوگی موسم کی,weather_query,0.9192,0.9192,True
+837,ur-PK,news,news_query,ڈان تبصرے کیا ہیں آئندہ اگلے پاکستانی انتخابات کے لیے سروے کی پیش گوئیاں,email_query,0.6709,0.0413,False
+891,ur-PK,play,play_music,کچھ کرسچن کی موسیقی چلائیں,play_music,0.9998,0.9998,True
+914,ur-PK,iot,iot_hue_lightoff,براہ کرم بتیاں بند کردیں,qa_factoid,0.7518,0.0048,False
+936,ur-PK,play,play_music,کھولو اور موسیقی چلاؤ جوگنگ پلے لسٹ,play_music,0.7921,0.7921,True
+951,ur-PK,weather,weather_query,میرپور خاص میں ابھی موسم کیسا ہے,weather_query,0.9991,0.9991,True
+969,ur-PK,news,news_query,ایک خاص موضوع پر مضامین کی خبریں,social_post,0.7027,0.2472,False
+974,ur-PK,datetime,datetime_query,لاہور میں ابھی کتنے بجے ہیں,weather_query,0.6724,0.0003,False
+997,ur-PK,iot,iot_hue_lightoff,بیٹھک کی لائٹ آف کر دو,iot_hue_lightoff,0.9824,0.9824,True
+999,ur-PK,iot,iot_hue_lightoff,کیا آپ بتی بند کر سکتے ہیں,qa_factoid,0.5489,0.1376,False
+1007,ur-PK,play,play_music,میری راک پلے لسٹ چلاؤ جل کی,play_music,0.9067,0.9067,True
+1014,ur-PK,datetime,datetime_query,اس وقت راولپنڈی میں کتنے بجے ہیں,weather_query,0.5002,0.0089,False
+1047,ur-PK,play,play_music,میں اچھا رونا چاہتا ہوں مجھے کچھ اداس راک گانے سناؤ,play_music,0.9998,0.9998,True
+1061,ur-PK,news,news_query,مجھے کھیلوں کی خبروں پر تازہ ترین دیں,news_query,0.97,0.97,True
+1063,ur-PK,news,news_query,کھیلوں کی خبروں پر فی گھنٹہ اطلاع حاصل کریں,recommendation_events,0.8643,0.0283,False
+1084,ur-PK,news,news_query,صارف دوست,social_post,0.9999,0.0,False
+1093,ur-PK,news,news_query,جنگ پوسٹ کی ویب سائٹ پر جائیں,social_post,0.996,0.0001,False
+1098,ur-PK,datetime,datetime_query,ہفتے کے کس دن پندرہ مارچ کو آتا ہے,datetime_query,0.5439,0.5439,True
+1108,ur-PK,play,play_music,میری خواہش ہے کہ میں وطن کے بارے میں کچھ موسیقی سنوں,play_music,0.9849,0.9849,True
+1115,ur-PK,play,play_music,تمام پاپ گانوں کی انواع کو مربوط کریں,lists_remove,0.8039,0.0534,False
+1120,ur-PK,news,news_query,کیا سیاست میں کوئی خاص بات ہے,qa_definition,0.9319,0.0003,False
+1121,ur-PK,play,play_music,عاطف اسلم کا یقین گانا بجا دیں,play_music,0.9999,0.9999,True
+1123,ur-PK,play,play_music,جسٹن بیبر کی معذرت اگلی چلاؤ,email_sendemail,0.9475,0.0007,False
+1124,ur-PK,play,play_music,جنون کا دوری اگلا چلانے کے لیے تیار کرو,qa_factoid,0.3863,0.0081,False
+1127,ur-PK,play,play_music,سارے گانے شفل پر چلا دو,play_music,0.9999,0.9999,True
+1144,ur-PK,play,play_music,مجھے کچھ ریپ چاہیئے,iot_hue_lightoff,0.4277,0.007,False
+1148,ur-PK,datetime,datetime_query,کو ئٹہ میں ابھی کیا وقت ہو رہا ہے,qa_factoid,0.854,0.0007,False
+1156,ur-PK,news,news_query,خواتین کے عالمی دن پر تازہ ترین خبر,news_query,0.9979,0.9979,True
+1160,ur-PK,weather,weather_query,ہر رات اس ہفتے کتنی سردی ہوگی,weather_query,0.9996,0.9996,True
+1180,ur-PK,news,news_query,عمران خان کے بارے میں آج کے جنگ مضامین تلاش کریں,email_sendemail,0.6995,0.0118,False
+1202,ur-PK,datetime,datetime_query,لاہور میں موجودہ وقت,qa_factoid,0.6372,0.0108,False
+1238,ur-PK,play,play_music,pandora,qa_factoid,0.1403,0.0391,False
+1249,ur-PK,weather,weather_query,اس ہفتے کس طرح کا موسم ہونے کا امکان ہے,weather_query,0.9865,0.9865,True
+1252,ur-PK,datetime,datetime_query,مجھے موجودہ وقت بتاؤ,qa_factoid,0.9911,0.0034,False
+1294,ur-PK,news,news_query,جلدی سے مجھے لکس ایوارڈ کی خبریں دو,recommendation_events,0.991,0.0048,False
+1301,ur-PK,news,news_query,مجھے عمران خان کی خارجہ پالیسی کے بارے میں تازہ ترین بتائو,email_query,0.9557,0.0327,False
+1308,ur-PK,weather,weather_query,یہاں کی آج کی موسم کی پیشن گوئی لو,weather_query,0.984,0.984,True
+1318,ur-PK,play,play_music,موسیقی ایپ شروع کریں اور ایک گانا چلائین میرے لیئے,play_music,0.9999,0.9999,True
+1351,ur-PK,weather,weather_query,اس ہفتے کیا خوشگوار ہوگا,weather_query,0.3215,0.3215,True
+1371,ur-PK,news,news_query,جنگ کے فرنٹ پیج پر ہمارے پاس کیا ہے,qa_factoid,0.7541,0.0015,False
+1377,ur-PK,iot,iot_hue_lightoff,براہ کرم میرے بیٹے کے کمرے کی لائٹ بند کر دیں,iot_hue_lightoff,0.4866,0.4866,True
+1400,ur-PK,weather,weather_query,میں زیادہ تر توجہ دیتا ہوں,qa_factoid,0.7614,0.004,False
+1401,ur-PK,weather,weather_query,میں کبھی کبھی توجہ دیتا ہوں,qa_factoid,0.6105,0.0371,False
+1404,ur-PK,weather,weather_query,برائے مہربانی کیا میں منوڑا کے کل کے موسم کے بارے میں جان سکتا ہوں,weather_query,0.9956,0.9956,True
+1423,ur-PK,news,news_query,مجھے ٹرمپ کے بارے میں بتائیں,email_query,0.6166,0.0036,False
+1425,ur-PK,news,news_query,مجھے جاننے دوکب تم نے سنا پاکستان کے بارے میں,social_post,0.308,0.1414,False
+1440,ur-PK,play,play_music,تازہ ترین راک گانے چلاؤ جن کا درجہ چار یا اس سے اوپر ہو,play_music,0.9996,0.9996,True
+1449,ur-PK,datetime,datetime_query,سال دو ہزار اٹھارہ میں عاشورہ کب ہے,weather_query,0.9969,0.0019,False
+1458,ur-PK,weather,weather_query,کراچی میں کتنی گرمی ہے,weather_query,0.9997,0.9997,True
+1467,ur-PK,play,play_music,دل لگی چلاؤ,iot_hue_lightoff,0.3688,0.033,False
+1474,ur-PK,news,news_query,آج کی کھیلوں کی خبریں کیا ہیں,news_query,0.9749,0.9749,True
+1489,ur-PK,play,play_music,عاطف کے نیے گانے چلاو,play_music,0.9989,0.9989,True
+1513,ur-PK,weather,weather_query,باہر درجہ حرارت کیا ہے,qa_factoid,0.9818,0.0068,False
+1533,ur-PK,news,news_query,جیو نیوز پر آج کیا خبر آئی ہے,news_query,0.9993,0.9993,True
+1537,ur-PK,datetime,datetime_query,مجھے پاکستان میں موجودہ وقت دکھائیں,weather_query,0.5661,0.0083,False
+1542,ur-PK,weather,weather_query,سورج روشن چمک رہا ہے کیا باقی دن میں بھی ہمیں ایسا ہی موسم ملے گا,weather_query,0.988,0.988,True
+1546,ur-PK,play,play_music,میری تیری اور گانوں کی فہرست چلائیں,recommendation_events,0.9003,0.03,False
+1547,ur-PK,weather,weather_query,میری جگہ کے لیئے اس ہفتے کیا موسم ہے,weather_query,0.9989,0.9989,True
+1549,ur-PK,weather,weather_query,کیا اس ہفتے بارش ہوگی,weather_query,0.9975,0.9975,True
+1554,ur-PK,iot,iot_hue_lightoff,چراغ بند کرو,lists_remove,0.3349,0.0858,False
+1581,ur-PK,datetime,datetime_query,موجودہ دن مہینہ اور سال کیا ہے,datetime_query,0.9194,0.9194,True
+1589,ur-PK,weather,weather_query,کیا اگلے منگل دھوپ ہوگی,weather_query,0.9976,0.9976,True
+1593,ur-PK,news,news_query,نوائے وقت سے نوٹیفکیشن مرتب کریں,qa_factoid,0.9927,0.0001,False
+1594,ur-PK,news,news_query,کیا آپ مجھے تازہ ترین خبریں بتا سکتے ہیں,news_query,0.9569,0.9569,True
+1607,ur-PK,datetime,datetime_query,مجھے ملتان میں موجودہ وقت بتائیں,qa_factoid,0.8893,0.0007,False
+1617,ur-PK,news,news_query,ایک بار جب سیاست پر کوئی نیا موضوع سامنے آتا ہے تو مجھے متنبہ کرتا ہے,qa_factoid,0.8927,0.0046,False
+1636,ur-PK,news,news_query,مجھے تازہ ترین نوائے وقت کی خبریں دکھاؤ,news_query,0.5207,0.5207,True
+1653,ur-PK,weather,weather_query,اب کب بارش ہوگی,weather_query,0.9986,0.9986,True
+1655,ur-PK,weather,weather_query,کیا کل دوپہر میں برف باری ہوگی,weather_query,0.9992,0.9992,True
+1666,ur-PK,news,news_query,گزشتہ چھ گھنٹوں میں سب سے صاف خبریں کیا ہیں,news_query,0.7384,0.7384,True
+1671,ur-PK,play,play_music,صرف وہ ہی میوزک جو انیس سو نوے دو ہزار چلائیں,qa_factoid,0.9896,0.0005,False
+1683,ur-PK,weather,weather_query,کل کا درجہ حرارت گرم ہونے والا ہے ہاں یا نہیں,weather_query,0.9993,0.9993,True
+1684,ur-PK,weather,weather_query,کل کا درجہ حرارت گرم ہنا ہے یا نہیں,weather_query,0.9994,0.9994,True
+1692,ur-PK,play,play_music,میرےے لیے کچھ آرام دہ جاز ڈھونڈو,lists_remove,0.4566,0.0161,False
+1722,ur-PK,weather,weather_query,سکھر کا کسکم درجہ حرارت کیا ہے,qa_factoid,0.5556,0.1444,False
+1750,ur-PK,iot,iot_hue_lightoff,تمام لائٹس بند کرو,lists_remove,0.5141,0.2247,False
+1759,ur-PK,news,news_query,صدر آصف علی زرداری کی خبر دو مجھے,news_query,0.999,0.999,True
+1760,ur-PK,news,news_query,دہشت گردی کی تازہ ترین خبریں,news_query,0.9997,0.9997,True
+1777,ur-PK,play,play_music,اگلا گانا,qa_factoid,1.0,0.0,False
+1784,ur-PK,iot,iot_hue_lightoff,کھانا کھانے کے کمرے کو بند کرو,cooking_recipe,0.911,0.003,False
+1786,ur-PK,iot,iot_hue_lightoff,ماسٹر کے بیڈروم کو بند کر دو,calendar_remove,0.4251,0.2466,False
+1794,ur-PK,news,news_query,کیا عمران خان جلد ہی کسی بھی وقت پاکستان کا دورہ کریں گے,qa_factoid,0.5277,0.0046,False
+1796,ur-PK,datetime,datetime_query,آج کی تاریخ,datetime_query,0.999,0.999,True
+1803,ur-PK,news,news_query,سپر لیگ میں آج کون سی ٹیمیں کھیل رہی ہیں,qa_factoid,0.5553,0.0195,False
+1811,ur-PK,play,play_music,پلے لسٹ کھولو اور موسیقی چلاؤ,play_music,0.9867,0.9867,True
+1832,ur-PK,play,play_music,دوری البم چلاؤ,qa_factoid,0.9231,0.0004,False
+1833,ur-PK,play,play_music,کیا تم پلے لسٹ تھیم کو دوبارہ چلا سکتے ہو,qa_factoid,0.8935,0.0021,False
+1866,ur-PK,weather,weather_query,موسم کی رپورٹ دو ابھی,news_query,0.7264,0.007,False
+1870,ur-PK,datetime,datetime_query,آج کون سا مہینہ ہے,weather_query,0.9973,0.0017,False
+1904,ur-PK,news,news_query,میچ کی جھلکیاں حاصل کریں,iot_hue_lightoff,0.9804,0.0003,False
+1933,ur-PK,weather,weather_query,کیا آج رات سے درجہ حرارت میں کمی ہوگی,weather_query,0.9985,0.9985,True
+1940,ur-PK,play,play_music,ٹائی ٹیل گانا چلائیں,play_music,0.9991,0.9991,True
+1962,ur-PK,play,play_music,ہاۓ google مہربانی کر کہ ہمنوا میرے گانوں کی فہرست میرے گانا ایپلیکیشن میں ڈالو,recommendation_events,0.3388,0.066,False
+1994,ur-PK,play,play_music,کیا تم میرے itunes چلا سکتے ہو,qa_factoid,0.9885,0.001,False
+1995,ur-PK,play,play_music,وائیٹل سائنز چلائیں,transport_query,0.4069,0.0249,False
+2007,ur-PK,play,play_music,براہ کرم قربانی بجائیں,qa_factoid,0.7808,0.001,False
+2062,ur-PK,play,play_music,ميں چلانا چاہتا ہوں کچھ بھڑکدار موسیقی,play_music,0.9945,0.9945,True
+2085,ur-PK,play,play_music,الیگزا ميں کوئی کلاسیکل سننا چاہتا ہوں سوائے عاطف اور علی کے,email_sendemail,0.5654,0.1458,False
+2098,ur-PK,news,news_query,ان دنوں دنیا میں کیا ہو رہا ہے,weather_query,0.6626,0.0789,False
+2108,ur-PK,play,play_music,اگلا پلے یہ پل,weather_query,0.6451,0.004,False
+2113,ur-PK,recommendation,recommendation_events,مجھے میرے آبائی شہر کے تمام حالیہ واقعات بتائیں,news_query,0.8165,0.0035,False
+2146,ur-PK,datetime,datetime_query,اب سے دو سال بعد ونٹرسالسٹیس کی تاریخ کیا ہے,datetime_query,0.9669,0.9669,True
+2156,ur-PK,datetime,datetime_query,مجھے ابھی وقت جاننے کی ضرورت ہے کہ یہ کیا ہے,qa_factoid,0.9479,0.0001,False
+2160,ur-PK,iot,iot_hue_lightoff,میں اب سونے جا رہا ہوں,cooking_recipe,0.4461,0.1451,False
+2178,ur-PK,weather,weather_query,میری جگہ پر حالیہ موسم کی حالت کیا ہے,weather_query,0.9974,0.9974,True
+2198,ur-PK,datetime,datetime_query,چار دسمبر ایک ہزار نو سو بیاسی ہفتے کا کون سا دن تھا,datetime_query,0.6514,0.6514,True
+2201,ur-PK,news,news_query,جیو نیوز کی سرخیاں,iot_hue_lightoff,0.2323,0.0425,False
+2203,ur-PK,news,news_query,دنیا نیوز عالمی سرخیاں,iot_hue_lightoff,0.45,0.0249,False
+2220,ur-PK,weather,weather_query,کراچی میں موسم,weather_query,0.9985,0.9985,True
+2225,ur-PK,play,play_music,نازیہ اور زوہیب کا ڈسکو دیوانے چلاؤ,social_post,0.997,0.0002,False
+2230,ur-PK,iot,iot_hue_lightoff,باورچی خانے کی روشنی بند کرو,iot_hue_lightoff,0.9972,0.9972,True
+2237,ur-PK,news,news_query,مجھے تازہ ترین بین الاقوامی خبریں پڑھیں,news_query,0.9996,0.9996,True
+2258,ur-PK,weather,weather_query,کیا مجھے آج رات سویٹر چاہیے,iot_hue_lightoff,0.8791,0.0009,False
+2265,ur-PK,weather,weather_query,مجھے لاہور کے ابھی کے موسم کا بتاؤ,weather_query,0.9973,0.9973,True
+2271,ur-PK,play,play_music,گانے لگاؤ جو میں نے خریدے اور پسند ہے,recommendation_events,0.2608,0.1011,False
+2296,ur-PK,news,news_query,مجھے کرکٹ لیگ کے آج کے اسکور سے باخبر رکھو,email_query,0.9433,0.0002,False
+2298,ur-PK,iot,iot_hue_lightoff,اب لائٹس بند کرو,iot_hue_lightoff,0.5134,0.5134,True
+2315,ur-PK,news,news_query,آج کی کیا خبر ہے,news_query,0.9998,0.9998,True
+2316,ur-PK,news,news_query,یاسر مجھے سرخی والی خبریں دینا,social_post,0.999,0.0,False
+2320,ur-PK,weather,weather_query,اس جمعہ کیا موسم ہے,weather_query,0.9993,0.9993,True
+2322,ur-PK,weather,weather_query,کل کی طرح کا موسم ہے کیا,weather_query,0.9994,0.9994,True
+2330,ur-PK,datetime,datetime_query,اس وقت لاہور کا مقامی وقت دکھائیں,weather_query,0.8756,0.0025,False
+2384,ur-PK,news,news_query,دنیا بھر میں کیا ہو رہا ہے,social_post,0.8403,0.0837,False
+2386,ur-PK,news,news_query,مجھے تازہ ترین خبریں دینا,email_sendemail,0.727,0.1833,False
+2396,ur-PK,play,play_music,نازیہ حسن کے گانے شروع کرو,play_music,1.0,1.0,True
+2408,ur-PK,play,play_music,جل کے مزید گانے تلاش کرو,play_music,0.9922,0.9922,True
+2412,ur-PK,datetime,datetime_query,کیا آپ مجھے لاہور میں وقت بتا سکتے ہیں,qa_factoid,0.9964,0.0013,False
+2423,ur-PK,weather,weather_query,آج کی کراچی کی پیشن کوئی مجھے دو پلیز,cooking_recipe,0.9969,0.0,False
+2438,ur-PK,news,news_query,کرونا وائرس کی خبریں بھیجو,social_post,0.9687,0.0231,False
+2441,ur-PK,iot,iot_hue_lightoff,شیڈ کی روشنی کو بند کرو,iot_hue_lightoff,0.9988,0.9988,True
+2472,ur-PK,datetime,datetime_query,جہاں میں ابھی موجود ہوں کیا اس کا وقت ٹھیک ہے,weather_query,0.9232,0.0014,False
+2496,ur-PK,news,news_query,روزانہ کی خبریں,news_query,0.9996,0.9996,True
+2497,ur-PK,datetime,datetime_query,آج کیا تاریخ ہے,datetime_query,0.9997,0.9997,True
+2498,ur-PK,datetime,datetime_query,سری آج کون سی تاریخ ہے,datetime_query,0.9993,0.9993,True
+2527,ur-PK,play,play_music,کلاسک راک چلاؤ,play_music,0.64,0.64,True
+2531,ur-PK,play,play_music,ایمازون ایکو ڈاٹ میرے لئے ایک کے بعد ایک راپ اور راک والا گانا چلاؤ,play_music,0.9882,0.9882,True
+2545,ur-PK,weather,weather_query,موسم کیسا ہے,weather_query,0.9988,0.9988,True
+2548,ur-PK,news,news_query,علی کی خبروں سے کچھ بھی دلچسپ,qa_factoid,0.9374,0.0056,False
+2560,ur-PK,play,play_music,بے ترتیب موسیقی چلائیں,play_music,0.9977,0.9977,True
+2573,ur-PK,play,play_music,میری spotify پر ناچ والی پلے لسٹ چلاؤ,play_podcasts,0.7737,0.1088,False
+2578,ur-PK,iot,iot_hue_lightoff,پورچ کی روشنی بند کر دو,iot_hue_lightoff,0.9774,0.9774,True
+2588,ur-PK,news,news_query,برائے مہربانی جیو نیوز سے تازہ ترین خبریں کیا ہیں,news_query,0.98,0.98,True
+2594,ur-PK,news,news_query,مجھے تازہ ترین ماحولیاتی خبروں کے بارے میں بتائیں,recommendation_events,0.5569,0.0989,False
+2605,ur-PK,play,play_music,اب میری پسندیدہ موسیقی چلائیں,play_music,0.9972,0.9972,True
+2611,ur-PK,weather,weather_query,موجودہ موسم کی پیشن گوئی,cooking_recipe,0.9663,0.0004,False
+2615,ur-PK,weather,weather_query,کیا مجھے اگلی بدھ کو جیکٹ پہننے کی ضرورت ہوگی,iot_hue_lightoff,0.3025,0.1963,False
+2638,ur-PK,news,news_query,مجھے نواز شریف کے بارے میں خبریں دکھاؤ,news_query,0.9866,0.9866,True
+2639,ur-PK,news,news_query,مجھے دکھاؤ خبریں ماحول کے بارے میں,recommendation_events,0.554,0.0366,False
+2651,ur-PK,news,news_query,علاقے سے تازہ ترین خبریں,news_query,0.9967,0.9967,True
+2678,ur-PK,weather,weather_query,کیا آج رات بارش ہو رہی ہے,weather_query,0.9979,0.9979,True
+2679,ur-PK,weather,weather_query,کیا درجہ حرارت ایسا ہی رہے گا یا یہ اور ٹھنڈا ہو گا,weather_query,0.9933,0.9933,True
+2703,ur-PK,play,play_music,برائے مہربانی لوک موسیقی چلاؤ,play_music,0.9734,0.9734,True
+2704,ur-PK,play,play_music,چلو کچھ پاپ سنتے ہیں ثھیک ہے,play_music,0.9993,0.9993,True
+2708,ur-PK,play,play_music,اولے میں ناچنا چاہتا ہوں مجھے کچھ جاز چلا کر سناؤ,cooking_recipe,0.9114,0.0035,False
+2709,ur-PK,play,play_music,اولی مجھے آج کچھ اداس گانے سننے کی ضرورت ہے,play_music,1.0,1.0,True
+2711,ur-PK,iot,iot_hue_lightoff,روشنی بند کریں,lists_remove,0.3971,0.0528,False
+2717,ur-PK,play,play_music,میں میرا نصیب سننا چاہتا ہرں,email_sendemail,0.9932,0.0,False
+2724,ur-PK,news,news_query,مجھے اے آر وائے سے خبریں دو,social_post,0.9924,0.007,False
+2770,ur-PK,play,play_music,علی گانا چلائو جیز genre کی طرف سے,email_sendemail,0.9413,0.0,False
+2774,ur-PK,iot,iot_hue_lightoff,روشنی بند کرو,lists_remove,0.6282,0.0149,False
+2775,ur-PK,iot,iot_hue_lightoff,روشنی کا استعمال بند کریں,lists_remove,0.3089,0.0453,False
+2777,ur-PK,weather,weather_query,کیا مجھے آج ایک چھتری لے کر آنی چاہئے,iot_hue_lightoff,0.5551,0.4137,False
+2781,ur-PK,play,play_music,برائے مہربانی کچھ جاز موسیقی چلاؤ,play_music,0.54,0.54,True
+2798,ur-PK,play,play_music,pob گانا جب کوئی بات چلائیں,qa_definition,0.9648,0.0012,False
+2801,ur-PK,datetime,datetime_query,اسلام آباد میں کتنے بجے ہیں,weather_query,0.9987,0.0001,False
+2824,ur-PK,datetime,datetime_query,تیرہ دسمبر کون سا دن ہے,weather_query,0.963,0.0358,False
+2840,ur-PK,datetime,datetime_query,اگلے مونٹ لینڈز کا دوسرا دن کيا ہے,datetime_query,0.9076,0.9076,True
+2859,ur-PK,datetime,datetime_query,علی اس شہر میں کیا وقت ہوا ہے,qa_factoid,0.8056,0.0007,False
+2887,ur-PK,news,news_query,براہ کرم مجھے صبح کی خبروں میں موسم سے متعلق کوئی مضمون دکھانا,email_sendemail,0.3537,0.0886,False
+2890,ur-PK,weather,weather_query,موجودہ موسم,weather_query,0.9978,0.9978,True
+2898,ur-PK,news,news_query,کيا وہاں کوئی بتاۓ گا انتخابات حوالے سے,qa_factoid,0.8386,0.0013,False
+2914,ur-PK,datetime,datetime_query,بتاؤ آج کون سی تاریخ ہے,datetime_query,0.9996,0.9996,True
+2917,ur-PK,weather,weather_query,موسم کی ہفتہ وار رپورٹ,news_query,0.9539,0.002,False
+2921,ur-PK,news,news_query,سی این این ویب سائٹ پر کیا خبریں ہیں,social_post,0.9039,0.0935,False
+2927,ur-PK,datetime,datetime_query,لاہور میں کتنے بجے ہیں,weather_query,0.5628,0.0008,False
+2931,ur-PK,play,play_music,اگلا آفرین آفرین چلائین,qa_factoid,0.7088,0.0085,False
+2962,ur-PK,play,play_music,علی ظفر کا گانا چلاؤ پلیز,play_music,0.9611,0.9611,True
+2965,ur-PK,iot,iot_hue_lightoff,دفتر کی روشنیاں بند کر دیں,iot_hue_lightoff,0.9907,0.9907,True
+3002,ur-PK,play,play_music,جل بینڈ کا گانے لگایئں,play_music,1.0,1.0,True
+3031,ur-PK,play,play_music,میں یہ گانا دوبارہ چلانا چاہتا ہوں,play_music,0.9998,0.9998,True
+3034,ur-PK,weather,weather_query,مجھے درجہ حرارت بتائیں,qa_factoid,0.4038,0.3134,False
+3037,ur-PK,news,news_query,پہلے صفہ کے مضامین کی خبر دو مہربانی,lists_remove,0.3319,0.0887,False
+3039,ur-PK,news,news_query,خبروں میں نیا کیا ہے,cooking_recipe,0.3751,0.0445,False
+3060,ur-PK,news,news_query,اس نیوز سورس سے کیا خبر ہے,news_query,0.9955,0.9955,True
+3091,ur-PK,datetime,datetime_query,پیسیفک معیاری وقت میں یہ کیا وقت ہے,weather_query,0.9582,0.0012,False
+3096,ur-PK,weather,weather_query,نیو کراچی کا موسم کیسا ہے,weather_query,0.9997,0.9997,True
+3098,ur-PK,iot,iot_hue_lightoff,روشنی بند کرو,lists_remove,0.6282,0.0149,False
+3099,ur-PK,news,news_query,مجھے کچھ حالیہ واقعات دکھانا,lists_remove,0.604,0.0701,False
+3101,ur-PK,news,news_query,یاسر خبر کو آن کریں,news_query,0.9064,0.9064,True
+3116,ur-PK,play,play_music,میرا پسندیدہ گانا آخری سال سے چلائیں,play_music,0.9931,0.9931,True
+3117,ur-PK,play,play_music,کوئی چیز بیان کال کی طرف سے بدنام بیاض چلائو,qa_factoid,0.9999,0.0,False
+3118,ur-PK,datetime,datetime_query,اس وقت مشرقی معیاری وقت کیا ہے,qa_factoid,0.9861,0.0001,False
+3124,ur-PK,play,play_music,میری گانوں کی فہرست سے بے ترتیب گانا لگاؤ,play_music,0.3402,0.3402,True
+3146,ur-PK,play,play_music,میری عاطف اسلم کی گانوں کی فہرست سے پہلا گانا چلاؤ,play_music,0.987,0.987,True
+3167,ur-PK,iot,iot_hue_lightoff,میرے بیڈروم کی روشنی بند کر دو,iot_hue_lightoff,0.9997,0.9997,True
+3174,ur-PK,play,play_music,موسیقی کی فہرست چلا‎ؤ,recommendation_events,0.9119,0.0002,False
+3205,ur-PK,play,play_music,عاطف اسلم کا محبتیں چلائیں,email_query,0.9735,0.0006,False
+3207,ur-PK,play,play_music,اسٹرنگز کا تو ہے کہاں چلاؤ,qa_factoid,0.6509,0.0068,False
+3212,ur-PK,calendar,calendar_set,پھر مجھے کچھ کرنے کے لیے یاد دلانا,cooking_recipe,0.7855,0.0048,False
+3214,ur-PK,news,news_query,ٹرمپ کے پاکستان سے رشتے کی تفتیش کا موجودہ حالت کیا ہے,lists_query,0.2203,0.1105,False
+3228,ur-PK,datetime,datetime_query,اس سال عید الحضی ہفتے کا کون سا دن آتا ہے,weather_query,0.6395,0.2763,False
+3253,ur-PK,weather,weather_query,کيا ہم توقع کر سکتے ہيں بارش دوپہر,qa_factoid,0.9566,0.0432,False
+3264,ur-PK,play,play_music,آروح موسیقی چلائیں,play_music,0.9996,0.9996,True
+3305,ur-PK,weather,weather_query,اس ہفتے اسلا م آباد کا کیسا موسم ہے,weather_query,0.9986,0.9986,True
+3306,ur-PK,weather,weather_query,اس ہفتہ کی کیا پیشن کوئی ہے,recommendation_events,0.9995,0.0,False
+3329,ur-PK,news,news_query,میں خبر دیکھنا چاہتا ہوں,news_query,0.817,0.817,True
+3337,ur-PK,weather,weather_query,رپورٹ موسم کی دو تینتیس ہزار سات سو اور ستر چار کی,weather_query,0.9022,0.9022,True
+3338,ur-PK,weather,weather_query,لسبیلا کے لئے موسم کی اطلاع دیں,weather_query,0.9661,0.9661,True
+3361,ur-PK,datetime,datetime_query,اگلے منگل کی تاریخ کیا ہے,datetime_query,0.9978,0.9978,True
+3378,ur-PK,iot,iot_hue_lightoff,باورچی خانے میں روشنی نہیں ہے,iot_hue_lightoff,0.9899,0.9899,True
+3386,ur-PK,iot,iot_hue_lightoff,روشنیاں کو نیچے درمیانہ درجے پر بند کر دیں,calendar_remove,0.7974,0.022,False
+3400,ur-PK,play,play_music,لائف ورزن جل کا لگاؤ,recommendation_events,0.3379,0.0021,False
+3401,ur-PK,play,play_music,جنید جمشید کا سب سے مشہور گانا چلاؤ,play_music,0.9989,0.9989,True
+3406,ur-PK,weather,weather_query,دس دن کی پیشن گوئی کیا ہے,cooking_recipe,0.8194,0.0008,False
+3407,ur-PK,weather,weather_query,اس ہفتے کوئی بارش یا برف کی پیشن گوئی ہے,weather_query,0.9992,0.9992,True
+3408,ur-PK,weather,weather_query,اس ہفتے کے آخر میں موسم اچھا ہو گا,weather_query,0.9951,0.9951,True
+3426,ur-PK,weather,weather_query,باہر کی ڈگری کیا ہے,iot_hue_lightoff,0.9901,0.0002,False
+3433,ur-PK,play,play_music,نیا پاپ موسیقی,play_music,0.944,0.944,True
+3434,ur-PK,play,play_music,بہترین ریپ موسیقی,play_music,0.6616,0.6616,True
+3441,ur-PK,datetime,datetime_query,بدھ کو بائیس ہے,qa_factoid,0.8977,0.0004,False
+3444,ur-PK,datetime,datetime_query,کیا یہ دس ہے,weather_query,0.4829,0.0209,False
+3447,ur-PK,weather,weather_query,کیا موسم بارش کا ہے ہفتہ ہے,weather_query,0.9983,0.9983,True
+3481,ur-PK,play,play_music,دیے گئے فنکار کا سب سے مشہور گانا چلاؤ,play_music,0.9955,0.9955,True
+3489,ur-PK,play,play_music,برائے مہربانی ابھی موسیقی چلاؤ,play_music,0.8887,0.8887,True
+3492,ur-PK,play,play_music,سب سے ذیادہ چلنے والا گانا میری فہرست کا چلاؤ,lists_remove,0.3145,0.1462,False
+3503,ur-PK,weather,weather_query,ملتان میں کیسا موسم ہے,weather_query,0.9989,0.9989,True
+3507,ur-PK,weather,weather_query,کیا پیشن گوئی میں برف ہے,weather_query,0.9973,0.9973,True
+3513,ur-PK,play,play_music,صرف میری فہرست چلاؤ,lists_remove,0.9999,0.0,False
+3516,ur-PK,weather,weather_query,آج کے بارش کی کوئ امید ہے,qa_factoid,0.9993,0.0001,False
+3539,ur-PK,play,play_music,برائے کرم جنید جمشید کا سجنی چلا دیں,cooking_recipe,0.7957,0.006,False
+3546,ur-PK,play,play_music,مجھے جاز موسیقی سننا پسند ہے,play_music,0.9997,0.9997,True
+3550,ur-PK,play,play_music,کچھ راحت فتح پر ڈال دیا,qa_factoid,0.5798,0.0074,False
+3554,ur-PK,play,play_music,کیا آپ لگا سکتے ہیں محبت کی پلے لسٹ,play_podcasts,0.3481,0.0189,False
+3562,ur-PK,play,play_music,دل دل پاکستان چلاو,qa_factoid,0.9099,0.0024,False
+3566,ur-PK,datetime,datetime_query,کو ٹری میں موجودہ وقت کیا ہے,qa_factoid,0.999,0.0002,False
+3570,ur-PK,iot,iot_hue_lightoff,براہ کرم آنگن میں روشنی بند کرو,iot_hue_lightoff,0.6775,0.6775,True
+3576,ur-PK,news,news_query,جنگ کی تازہ ترین کہانی کیا ہے,news_query,0.6617,0.6617,True
+3586,ur-PK,weather,weather_query,سیالکوٹ میں کیسا موسم ہے,weather_query,0.9991,0.9991,True
+3600,ur-PK,calendar,calendar_set,مجھے دس منٹ بعد یاد دلائیں,calendar_remove,0.5376,0.0021,False
+3603,ur-PK,news,news_query,کيا نئی خبر ہے سما کی طرف سے,news_query,0.9693,0.9693,True
+3605,ur-PK,news,news_query,جیو نیوز کی تازہ ترین خبریں کیا ہیں,news_query,1.0,1.0,True
+3606,ur-PK,datetime,datetime_query,کراچی میں کیا وقت ہے,weather_query,0.9984,0.0009,False
+3614,ur-PK,weather,weather_query,آج سورج ہوگا کیا,weather_query,0.9981,0.9981,True
+3623,ur-PK,news,news_query,آج دنیا میں کیا ہو رہا ہے,social_post,0.7288,0.0088,False
+3624,ur-PK,news,news_query,جیو نیوز سے خبریں,news_query,0.6403,0.6403,True
+3631,ur-PK,play,play_music,ارے گوگل میرے لئے کچھ جاز موسیقی چلاؤ,play_music,0.769,0.769,True
+3686,ur-PK,play,play_music,میں نے جو موسیقی قوالی وقف کیے چلنے والی فہرست آن کریں,qa_factoid,0.8451,0.1275,False
+3714,ur-PK,play,play_music,میری سنائی جانے والی فہرست میں تیری یادیں چلائیں جنون کا,recommendation_events,0.6626,0.0025,False
+3717,ur-PK,play,play_music,براہ کرم میرے نوے کی دہائی کے راپ گانے چلاؤ,play_music,0.9998,0.9998,True
+3723,ur-PK,play,play_music,میں اس گانے کے بعد علی ظفر کا گانا چل دل میرے سننا چاہوں گا,play_music,0.9953,0.9953,True
+3725,ur-PK,datetime,datetime_query,آج کون سی تاریخ ہے,datetime_query,0.9996,0.9996,True
+3727,ur-PK,play,play_music,وائیٹل سائنز کا دل دل پاکستان چلاؤ,social_post,0.264,0.0447,False
+3750,ur-PK,news,news_query,یاسر اگر سیلاب کے بارے میں کوئی نئی خبر آتی ہے تو کیا آپ مجھے فوراً بتا سکتے ہیں,weather_query,0.7617,0.1324,False
+3779,ur-PK,play,play_music,یوٹیوب پر آڈیو کی فہرست میں ہمارا پاکستان چلائیں,recommendation_events,0.2505,0.0231,False
+3780,ur-PK,play,play_music,میری غمگین یادیں پلے لسٹ چلاؤ,social_post,0.9613,0.0011,False
+3784,ur-PK,weather,weather_query,مجھے لاہور کے لئے موسم کی ایک رپورٹ دو,weather_query,0.9913,0.9913,True
+3785,ur-PK,iot,iot_hue_lightoff,براہ کرم غسل خانہ کی روشنی بند کر دیں,iot_hue_lightoff,0.6556,0.6556,True
+3822,ur-PK,news,news_query,میرے لیے کاروں کے بارے میں معلومات حاصل کریں,recommendation_events,0.5271,0.0072,False
+3852,ur-PK,weather,weather_query,راولپنڈی میں ابھی کس طرح کا موسم چل رہا ہے,weather_query,0.9988,0.9988,True
+3859,ur-PK,play,play_music,براہ کرم میری پسندیدہ موسیقی کی فہرست میں قوالی رکھیں,qa_factoid,1.0,0.0,False
+3907,ur-PK,play,play_music,مجھے آخری سال کے مشہور چلا دیئں,social_post,0.9751,0.0027,False
+3911,ur-PK,play,play_music,میں کوئی وہ گانے سننا چاہتا ہوں جسے اس سال گریمی ملا ہو,play_music,0.9999,0.9999,True
+3912,ur-PK,play,play_music,میں پہلی سی محبت کی موسیقی سننا چاہتا ہوں,play_music,1.0,1.0,True
+3936,ur-PK,weather,weather_query,درجہ حرارت کیا ہے,weather_query,0.8477,0.8477,True
+3960,ur-PK,datetime,datetime_query,وقت کہو,qa_factoid,0.9992,0.0005,False
+3967,ur-PK,play,play_music,رپ,qa_factoid,0.5901,0.0094,False
+3980,ur-PK,play,play_music,برائے مہربانی علی ظفر کا میرا بچھڑا یار چلاؤ,play_radio,0.893,0.0051,False
+3982,ur-PK,play,play_music,برائے کرم میری آئی ٹیون لائبریری میں پیلا گانا منتخت کریں,play_music,0.9426,0.9426,True
+3993,ur-PK,iot,iot_hue_lightoff,کیا آپ روشنی کو بجھا سکتے ہیں,iot_hue_lightoff,0.9888,0.9888,True
+3995,ur-PK,datetime,datetime_query,علی کيا ہفتے کے دن ہالووین ہے,weather_query,0.9431,0.0188,False
+4001,ur-PK,news,news_query,عہد وفا پر کیا ہوا,news_query,0.4847,0.4847,True
+4023,ur-PK,news,news_query,خبروں میں کیا ہے,qa_factoid,0.9985,0.0,False
+4031,ur-PK,play,play_music,کیا ہوا تیرا وعدہ چلائیں,weather_query,0.9879,0.0002,False
+4040,ur-PK,play,play_music,وہ گانا چلائیں جو میں سنتی ہوں بہت,play_music,0.9993,0.9993,True
+4058,ur-PK,play,play_music,میں کچھ غزل موسیقی سننا پسند کرتا ہوں,play_music,0.9997,0.9997,True
+4073,ur-PK,datetime,datetime_query,پانچواں دن کونسا ہے,weather_query,0.9979,0.0003,False
+4077,ur-PK,iot,iot_hue_lightoff,باورچی خانہ کی لائٹس بند کر دو,lists_remove,0.7376,0.1903,False
+4088,ur-PK,iot,iot_hue_lightoff,اوور ہیڈ روشنی بند کرو,iot_hue_lightoff,0.995,0.995,True
+4104,ur-PK,weather,weather_query,فیصل آباد کا آج کا موسم کیسا ہے,weather_query,0.9997,0.9997,True
+4116,ur-PK,play,play_music,برائے مہربانی میری شفلڈ پلے لسٹ چلاؤ,recommendation_events,0.3086,0.0197,False
+4119,ur-PK,news,news_query,میں وہ سب کچھ جاننا چاہتا ہوں جو بلوچستان میں ڈیم ٹوٹنے کے بارے میں ٹوٹتی ہے,qa_definition,0.3278,0.0724,False
+4132,ur-PK,weather,weather_query,بتائو مجھے کتنے فيصد موقع ہے بارش کا لاہور پنجاب میں آج,qa_factoid,0.9675,0.0298,False
+4136,ur-PK,play,play_music,برائے کرم کیا آپ وائٹل سائن چلائیں گے,transport_query,0.5417,0.0055,False
+4152,ur-PK,play,play_music,برائے کرم گانا تاجدار حرم چلائیں,play_music,0.9975,0.9975,True
+4168,ur-PK,weather,weather_query,مہربانی کر کے کراچی کا موسم چيک کريں,weather_query,0.9895,0.9895,True
+4171,ur-PK,iot,iot_hue_lightoff,باورچی خانہ کی روشنی بند کرو,iot_hue_lightoff,0.9966,0.9966,True
+4177,ur-PK,news,news_query,مجھے دنیا کی تازہ ترین سیاسی سرخیاں دینا,cooking_recipe,0.9871,0.0004,False
+4178,ur-PK,news,news_query,کیا صدارت کے بارے میں کوئی خبر ہے,qa_factoid,0.9721,0.0053,False
+4183,ur-PK,datetime,datetime_query,موجودہ وقت لاہور,qa_factoid,0.9676,0.0014,False
+4186,ur-PK,datetime,datetime_query,ارے اولی کیا وقت ہوا ہے,weather_query,0.9813,0.0007,False
+4187,ur-PK,datetime,datetime_query,ارے سری کیا وقت ہوا ہے,weather_query,0.9886,0.0003,False
+4205,ur-PK,play,play_music,مین سننا چاہتا ہوں میں ہاری پیا لام علی کا,email_sendemail,0.9481,0.0405,False
+4212,ur-PK,weather,weather_query,کيا ميں جائو گھاس کاٹنا اس شام,cooking_recipe,0.9484,0.0037,False
+4227,ur-PK,weather,weather_query,کیا اگلے ہفتے کوئی بارش کی پیشن گوئی ہے,weather_query,0.9983,0.9983,True
+4232,ur-PK,play,play_music,جنون کا سجنی چلاؤ,social_post,0.9999,0.0,False
+4236,ur-PK,datetime,datetime_query,کیا ابھی دوپہر ہے,weather_query,0.9983,0.0001,False
+4253,ur-PK,datetime,datetime_query,مشرقی معیار میں موجودہ وقت کیا ہے,qa_factoid,0.998,0.0003,False
+4254,ur-PK,datetime,datetime_query,پاکستان کے مشرقی ساحل پر کیا وقت ہوا ہے,weather_query,0.8544,0.0242,False
+4258,ur-PK,news,news_query,تازہ ترین خبر کیا ہے,news_query,0.9998,0.9998,True
+4266,ur-PK,weather,weather_query,آج کا موسم کیسا ہے,weather_query,0.9994,0.9994,True
+4273,ur-PK,play,play_music,گانا چلاو جان دل,qa_factoid,0.997,0.0,False
+4290,ur-PK,weather,weather_query,کیا مجھے آج رات اپنے ساتھ جیکٹ لانی چاہیے,iot_hue_lightoff,0.555,0.0075,False
+4305,ur-PK,play,play_music,ہونا تھا پیار گانا عاطف اسلم کا چلاؤ,play_music,0.9963,0.9963,True
+4309,ur-PK,datetime,datetime_query,لاہور پاکستان میں آدھی رات کتنے گھنٹے میں ہوگی,weather_query,0.9969,0.0016,False
+4312,ur-PK,weather,weather_query,کراچی میں دس ڈگری سے کم ہوگا,iot_hue_lightoff,0.5006,0.4884,False
+4313,ur-PK,weather,weather_query,کیا کل گجرات میں بارش ہوگی,weather_query,0.9978,0.9978,True
+4336,ur-PK,datetime,datetime_query,پاکستان میں کیا وقت ہے,weather_query,0.9378,0.001,False
+4346,ur-PK,iot,iot_hue_lightoff,روشنی بند کرو,lists_remove,0.6282,0.0149,False
+4347,ur-PK,iot,iot_hue_lightoff,آپریٹنگ روشنی بند کرو,iot_hue_lightoff,0.9724,0.9724,True
+4355,ur-PK,weather,weather_query,جہاں میں ہوں وہاں موسم کیسا ہے,weather_query,0.9991,0.9991,True
+4361,ur-PK,play,play_music,مجھے کچھ اچھی آوازیں دین,email_sendemail,0.5584,0.0001,False
+4362,ur-PK,datetime,datetime_query,کراچی میں کیا وقت ہوا ہے,weather_query,0.9791,0.0066,False
+4376,ur-PK,weather,weather_query,آج باہر کیسا ہے,weather_query,0.9917,0.9917,True
+4377,ur-PK,weather,weather_query,موجودہ موسم کیا ہے,weather_query,0.9991,0.9991,True
+4383,ur-PK,weather,weather_query,کل موسم کیسا ہوگا,weather_query,0.9988,0.9988,True
+4391,ur-PK,news,news_query,جیو نیوز پر سرخیاں کیا ہیں,social_post,0.2843,0.0316,False
+4400,ur-PK,news,news_query,نوائے وقت پر رجحان ساز کے مضامین کیا ہیں,cooking_recipe,0.6307,0.0041,False
+4402,ur-PK,weather,weather_query,کیا مجھے آج برولی لانے کی ضرورت ہے,iot_hue_lightoff,0.7256,0.0202,False
+4412,ur-PK,weather,weather_query,کيا موسم ہے پورٹ گرانڈ کا,weather_query,0.9995,0.9995,True
+4436,ur-PK,weather,weather_query,مجھے کونسی جیکٹ پہننی چاہیئے,cooking_recipe,0.8269,0.0029,False
+4439,ur-PK,weather,weather_query,کيسا ومسم ہے رحیم یار خان میں,email_query,0.9697,0.0,False
+4449,ur-PK,weather,weather_query,کیا آج دوپہر ایک بجے سے بارش ہو رہی ہے,weather_query,0.9983,0.9983,True
+4452,ur-PK,play,play_music,گانے چلاؤ,qa_factoid,0.991,0.0003,False
+4463,ur-PK,datetime,datetime_query,مارچ میں کتنے ہفتے ہیں,weather_query,0.6568,0.0114,False
+4477,ur-PK,play,play_music,اگلا گانا چلاؤ,qa_factoid,1.0,0.0,False
+4482,ur-PK,weather,weather_query,کیا مجھے اس صبح میرے داخلے کا راستہ کو بیلچہ کرنے کی ضرورت ہے,iot_hue_lightoff,0.326,0.0381,False
+4486,ur-PK,weather,weather_query,اس ہفتے کی پیشن گوئی بتاؤ,recommendation_events,0.9987,0.0,False
+4487,ur-PK,weather,weather_query,کیا جمعرات کو بارش ہونے والی ہے,weather_query,0.9994,0.9994,True
+4491,ur-PK,news,news_query,تازہ ترین خبر کیا ہے نواز شریف کی,news_query,0.9996,0.9996,True
+4492,ur-PK,news,news_query,میرے علاقے کے لیے جرائم کے تازہ ترین اعداد و شمار کیا ہیں,lists_query,0.5535,0.1343,False
+4496,ur-PK,news,news_query,آج جنگ نے ​​کیا پوسٹ کیا,social_post,0.7623,0.0061,False
+4502,ur-PK,datetime,datetime_query,ارے اب لاہور میں کیا وقت ہو رہا ہے,weather_query,0.9937,0.0001,False
+4524,ur-PK,weather,weather_query,اولی آج کے لئے موسم کی پیشگوئی کیا ہے,email_sendemail,0.5024,0.0469,False
+4547,ur-PK,play,play_music,رومانوی گانوں کی فہرست شروع کرو,lists_query,0.6508,0.0162,False
+4567,ur-PK,news,news_query,میرے لیے دنیا نیوز کی تازہ ترین سرخیاں پڑھیں,play_podcasts,0.4464,0.0253,False
+4580,ur-PK,datetime,datetime_query,بہا ول پور میں کیا وقت ہے,qa_factoid,0.5634,0.0023,False
+4587,ur-PK,play,play_music,میری پسند چلاؤ,social_post,0.9923,0.0001,False
+4589,ur-PK,calendar,calendar_set,کھیلوں کے کھیل کے لئے ایک اطلاع مرتب کریں,iot_hue_lightoff,0.5148,0.0035,False
+4606,ur-PK,news,news_query,آج کا معلومات ڈھونڈو اسٹاک کی,lists_remove,0.0941,0.0462,False
+4614,ur-PK,weather,weather_query,کیا کل درجہ حرارت چالیس سے اونچا ہوگا,weather_query,0.9984,0.9984,True
+4662,ur-PK,news,news_query,سی بی ایس الیکسا سے خبریں,social_post,0.9769,0.0007,False
+4667,ur-PK,datetime,datetime_query,موجودہ وقت میں,qa_factoid,0.9924,0.0003,False
+4680,ur-PK,weather,weather_query,کيا ميں پہنوں چپلیں اور جوتے بنا موزوں کے,cooking_recipe,0.6282,0.0108,False
+4689,ur-PK,weather,weather_query,کیا آپ موسم کے بارے میں جانتے ہیں,weather_query,0.9906,0.9906,True
+4692,ur-PK,play,play_music,مجھے علی ظفر کا گانا لگا کر دو,play_music,1.0,1.0,True
+4710,ur-PK,datetime,datetime_query,اس سال ہالووین کس دن ہے,weather_query,0.9562,0.0105,False
+4764,ur-PK,weather,weather_query,کیا پیر کو بارش ہو گی,weather_query,0.895,0.895,True
+4767,ur-PK,news,news_query,کیا کوئی پاکستان افغانستان سرحد تار کے بارے میں خبر ہے,news_query,0.73,0.73,True
+4772,ur-PK,datetime,datetime_query,مجھے اس ٹائم زون میں وقت بتاؤ,email_sendemail,1.0,0.0,False
+4780,ur-PK,datetime,datetime_query,اس سال ستائیس جون کو میری سالگرہ کس دن آتی ہے,datetime_query,0.704,0.704,True
+4784,ur-PK,weather,weather_query,کیا مجھے ایک جیکیٹ کی ضرورت ہے,qa_factoid,0.8754,0.0003,False
+4813,ur-PK,datetime,datetime_query,دوسرے شہر میں کیا وقت ہے,weather_query,0.9934,0.0004,False
+4837,ur-PK,news,news_query,کیا کوئی خبر ہے اولی,email_query,0.9868,0.013,False
+4838,ur-PK,play,play_music,تمام موسیقی عاطف اسلم کی چلائیں,play_music,0.9997,0.9997,True
+4871,ur-PK,weather,weather_query,یہ باہر کیسا ہے,weather_query,0.8665,0.8665,True
+4881,ur-PK,datetime,datetime_query,موجودہ مقامی وقت اور ٹائم زون تلاش کرنے کے لیے تلاش کریں,datetime_query,0.724,0.724,True
+4882,ur-PK,datetime,datetime_query,کيا وقت ہے ایک شہر کا,qa_factoid,0.8784,0.0457,False
+4890,ur-PK,calendar,calendar_set,پاکستان میں حالیہ موسمی آفات پر نوٹیفیکیشن سیٹ کرو,qa_factoid,0.7042,0.0117,False
+4909,ur-PK,play,play_music,عائمہ بیگ کے گانے چلاؤ,play_music,0.859,0.859,True
+4917,ur-PK,weather,weather_query,باہر کا درجہ حرارت,weather_query,0.9949,0.9949,True
+4928,ur-PK,play,play_music,میرا ساؤنڈ ٹریک چلائیں,play_radio,0.3514,0.0098,False
+4933,ur-PK,weather,weather_query,کیا اب بارش ہوگی,weather_query,0.9967,0.9967,True
+4951,ur-PK,datetime,datetime_query,میں جاننا چاہتا ہوں کہ ابھی کیا وقت ہوا ہے,weather_query,0.632,0.0175,False
+4953,ur-PK,news,news_query,موٹرسائیکل حادثہ کی خبر,news_query,0.9975,0.9975,True
+4957,ur-PK,datetime,datetime_query,اس مہینے کی تیئس کو ہفتے کا کون سا دن ہے,datetime_query,0.8722,0.8722,True
+4960,ur-PK,play,play_music,موسیقی جنون,social_post,0.6308,0.0001,False
+4968,ur-PK,qa,qa_factoid,اس سال صدارتی انتخابات کون جیتا,qa_factoid,0.9997,0.9997,True
+4973,ur-PK,play,play_music,گوگل نیسٹ ہب میکس سچ کہہ رہا ہے چلاؤ,social_post,0.4206,0.0169,False
+4998,ur-PK,play,play_music,اگلے گانے میں اس گانے کو شامل کریں,play_music,0.9417,0.9417,True
+5009,ur-PK,weather,weather_query,اس ہفتے مجھے چھتری کی ضرورت ہوگی,lists_remove,0.2826,0.029,False
+5016,ur-PK,news,news_query,مجھے شیئر مارکیٹ کے اتار چڑھاؤ کی خبریں بتائیں,social_post,0.9657,0.0287,False
+5027,ur-PK,datetime,datetime_query,اگلا جمعہ کب ہے تیرہویں کو,datetime_query,0.2461,0.2461,True
+5037,ur-PK,weather,weather_query,آج کتنی سردی ہے,weather_query,0.9984,0.9984,True
+5038,ur-PK,weather,weather_query,اس ہفتے کا موسم کیسا ہے,weather_query,0.9995,0.9995,True
+5040,ur-PK,weather,weather_query,ابھی موسم کیسی ہے,weather_query,0.9991,0.9991,True
+5062,ur-PK,play,play_music,مجھے پلیز فولک گانے لگا دو,play_music,0.9999,0.9999,True
+5074,ur-PK,weather,weather_query,اس ہفتہ کا کیا موسم ہے,weather_query,0.9991,0.9991,True
+5085,ur-PK,weather,weather_query,ہفتے کے لئے کیا پیشگوئی ہے,qa_factoid,0.9179,0.0281,False
+5118,ur-PK,play,play_music,اے دل,social_post,0.5089,0.0082,False
+5127,ur-PK,news,news_query,کسی کے بجٹ میں پہیوں پر کھانے کی حقیقت یہ ہے,qa_factoid,1.0,0.0,False
+5131,ur-PK,datetime,datetime_query,براہ مہربانی مجھے بتائیں کہ بہاولنگر میں کیا وقت ہے,weather_query,0.7702,0.0014,False
+5134,ur-PK,play,play_music,بگ بینڈ گانوں کی فہرست تلاش کرو,lists_query,0.9536,0.0013,False
+5156,ur-PK,iot,iot_hue_lightoff,رہنے کے کمرے میں روشنی بند کرو,iot_hue_lightoff,0.9633,0.9633,True
+5157,ur-PK,iot,iot_hue_lightoff,ماہی نے رہنے کے کمرے میں روشنی بند کرو,iot_hue_lightoff,0.9789,0.9789,True
+5158,ur-PK,play,play_music,براہ کرم البم کا تازہ ترین گانا جھوم چلائیں,play_music,0.9857,0.9857,True
+5159,ur-PK,play,play_music,برائے مہربانی کیا تم فنکار جنون کا گانا چلا سکتے ہو,play_music,0.9998,0.9998,True
+5160,ur-PK,play,play_music,کیا آپ امانت علی کا گانا چلا سکتے ہو,play_music,1.0,1.0,True
+5176,ur-PK,weather,weather_query,اس ہفتے موسم کی کیا امید کی جانی چاہیئے,weather_query,0.8111,0.8111,True
+5196,ur-PK,news,news_query,میں پاک چائنا ڈیل کے بارے میں جاننا چاہتا ہوں,qa_factoid,0.7264,0.0006,False
+5225,ur-PK,datetime,datetime_query,اگلے بدھ کو کیا تاریخ ہے,datetime_query,0.9987,0.9987,True
+5243,ur-PK,iot,iot_hue_lightoff,سری براہ کرم باتھ روم کی روشنی بند کرو,iot_hue_lightoff,0.9916,0.9916,True
+5245,ur-PK,news,news_query,ماحولیاتی خبروں کی اطلاع مرتب کریں,recommendation_events,0.3281,0.0102,False
+5270,ur-PK,news,news_query,اس وقت بریکنگ نیوز کیا ہے,news_query,0.9968,0.9968,True
+5278,ur-PK,play,play_music,برائے مہربانی صرف قوالی کی موسیقی چلاؤ,play_music,0.9107,0.9107,True
+5279,ur-PK,play,play_music,مہربانی کر کے میوزک پلیئر صرف دکھی گانا چلاؤ,play_music,0.9785,0.9785,True
+5286,ur-PK,news,news_query,بی بی سی کی ہجرت کی خبریں دکھائیں,news_query,0.8292,0.8292,True
+5296,ur-PK,news,news_query,یاسر میرے لیے جیو نیوز کی مشہور خبریں نکالنا,news_query,0.9966,0.9966,True
+5297,ur-PK,news,news_query,مجھے دنیا نیوز سے مشہور خبریں حاصل کریں,news_query,0.7316,0.7316,True
+5301,ur-PK,weather,weather_query,بیس مارچ دو ہزار سترہ کو موسم کیسا ہوگا,weather_query,0.9995,0.9995,True
+5307,ur-PK,datetime,datetime_query,کیا آج بیسویں مارچ ہے,weather_query,0.9988,0.0001,False
+5318,ur-PK,play,play_music,فراز کے گانے بجاؤ,play_music,1.0,1.0,True
+5321,ur-PK,weather,weather_query,موسم دکھائیں,play_music,0.9845,0.0002,False
+5328,ur-PK,play,play_music,راک,qa_factoid,0.9491,0.0014,False
+5339,ur-PK,weather,weather_query,کم ٹھنڈک کی حالت,qa_factoid,0.6702,0.1062,False
+5341,ur-PK,datetime,datetime_query,براہ کرم مجھے وقت سے آگاہ کریں,weather_query,0.3234,0.0082,False
+5347,ur-PK,play,play_music,ٹیکنو موسیقی چلائیں,play_music,0.9977,0.9977,True
+5358,ur-PK,datetime,datetime_query,موجودہ وقت پر اپ ڈیٹ کریں,iot_hue_lightoff,0.7559,0.0021,False
+5370,ur-PK,news,news_query,کیا ہے تازہ ترین نواز شریف کا اسکینڈل,news_query,0.9717,0.9717,True
+5378,ur-PK,play,play_music,ایس,iot_hue_lightoff,0.2219,0.0209,False
+5401,ur-PK,play,play_music,موسیقی,qa_factoid,0.9955,0.0001,False
+5410,ur-PK,news,news_query,میرے لیے پاکستان ٹائیمز کی تازہ ترین سرخیاں پڑھیں,lists_remove,0.329,0.0171,False
+5411,ur-PK,news,news_query,جیو نیوز پر سب سے اہم خبریں کیا ہیں,news_query,0.9181,0.9181,True
+5413,ur-PK,play,play_music,موسیقی چلائیں,qa_factoid,0.9995,0.0,False
+5414,ur-PK,play,play_music,کیا آپ موسیقی لگا ئیں گے,play_music,0.9998,0.9998,True
+5427,ur-PK,datetime,datetime_query,کینیڈا میں اس وقت کیا وقت ہے,weather_query,0.9834,0.0004,False
+5433,ur-PK,weather,weather_query,با رش دیرسے ہورہی ہے,qa_factoid,0.9914,0.0067,False
+5439,ur-PK,weather,weather_query,کیا مجھے آج رات چھتری کی ضرورت ہو گی,iot_hue_lightoff,0.9265,0.0165,False
+5465,ur-PK,weather,weather_query,کیا میں آج اپنی چپلیں پہن سکتا ہوں,iot_hue_lightoff,0.3316,0.0614,False
+5468,ur-PK,weather,weather_query,دھوپ کے چشمے کی ضرورت ہے مجھے,qa_factoid,0.8577,0.0017,False
+5524,ur-PK,weather,weather_query,اس لمحہ موسم,weather_query,0.965,0.965,True
+5529,ur-PK,weather,weather_query,مجھے کس وقت لمبا پیدل سفر کے لیے جانا چاہیے,weather_query,0.9664,0.9664,True
+5557,ur-PK,play,play_music,مجھے ریگے چاہیے,iot_hue_lightoff,0.8804,0.0011,False
+5577,ur-PK,weather,weather_query,مجھے مکمل ڈھکی ہوئی جیکٹ چاہیے اگر شام بہت طوفانی ہے,weather_query,0.9402,0.9402,True
+5578,ur-PK,weather,weather_query,اس صبح مجھے موسم سرما کے گرم جرابے چاہیئے ہونگے,iot_hue_lightoff,0.4498,0.2467,False
+5584,ur-PK,iot,iot_hue_lightoff,براہ کرم روشنیاں بند کر دیں,iot_hue_lightoff,0.9906,0.9906,True
+5590,ur-PK,weather,weather_query,درجہ حرارت کھولنا,iot_hue_lightoff,0.9978,0.0001,False
+5593,ur-PK,play,play_music,عاطف اسلم کا رفتہ رفتہ صنم چلاؤ,social_post,0.1646,0.0392,False
+5619,ur-PK,play,play_music,پچھلا گانا چلاؤ,play_music,0.9997,0.9997,True
+5627,ur-PK,play,play_music,بیٹلس کی طرف سے موسیقی چلاؤ میرے لیئے,play_music,0.9974,0.9974,True
+5640,ur-PK,datetime,datetime_query,تاریخ دکھاؤ,datetime_query,0.7647,0.7647,True
+5650,ur-PK,weather,weather_query,آج شام کے موسم کا پوچھو,weather_query,0.9891,0.9891,True
+5658,ur-PK,play,play_music,اسٹرنگز کی موسیقی میرے لیئے بجاؤ,play_music,0.9997,0.9997,True
+5661,ur-PK,weather,weather_query,کيا ميں رکھو برساتی کوٹ اپنے ساتھ,lists_remove,0.8783,0.0044,False
+5671,ur-PK,datetime,datetime_query,لاہور میں کیا وقت ہے,weather_query,0.9983,0.0006,False
+5678,ur-PK,datetime,datetime_query,پندرہ اگست ہفتے کا کون سا دن ہے,weather_query,0.9217,0.0755,False
+5683,ur-PK,play,play_music,میری پلے لسٹ پارٹی کے گانے چلائیں,play_music,0.9995,0.9995,True
+5688,ur-PK,news,news_query,براہ کرم مجھے خبر کی سرخیاں بتانا,news_query,0.6764,0.6764,True
+5703,ur-PK,datetime,datetime_query,ابھی وقت,qa_factoid,0.9961,0.0,False
+5707,ur-PK,play,play_music,میرے پسندیدہ سنو,social_post,0.9405,0.0004,False
+5721,ur-PK,weather,weather_query,کل کا مجھے اس علاقے کا موسم دکھاؤ,weather_query,0.9915,0.9915,True
+5722,ur-PK,weather,weather_query,اس ہفتے سات دن کی پیشن گوئی دکھاؤ,recommendation_events,0.9444,0.0006,False
+5732,ur-PK,weather,weather_query,کیا میں جلد ہی اپنی گاڑی کے ٹائر کو برف والے ٹائر سے تبدیل کردوں,qa_factoid,0.3587,0.0132,False
+5757,ur-PK,datetime,datetime_query,دو بج کر پندرہ منٹ,datetime_query,0.9972,0.9972,True
+5758,ur-PK,weather,weather_query,اسلام آباد میں موسم کیسا ہے,weather_query,0.9995,0.9995,True
+5774,ur-PK,datetime,datetime_query,لاہور میں موجودہ وقت,qa_factoid,0.6372,0.0108,False
+5797,ur-PK,weather,weather_query,کیا مجھے برساتی کوٹ پہننا چاہیے جب میں باہرجائوں,lists_remove,0.3338,0.0202,False
+5813,ur-PK,play,play_music,دل دل پاکستان گانا چلائو,play_music,1.0,1.0,True
+5820,ur-PK,play,play_music,ارجیت سنگھ سے میرے کانوں کو سکون دو,cooking_recipe,0.3372,0.0876,False
+5837,ur-PK,weather,weather_query,مجھے اس ہفتے کا موسم بتاؤ,weather_query,0.8772,0.8772,True
+5871,ur-PK,weather,weather_query,آج ملتان کا موسم کیسا ہے,weather_query,0.9995,0.9995,True
+5886,ur-PK,news,news_query,گرم موضوع,iot_hue_lightoff,0.9319,0.0001,False
+5919,ur-PK,news,news_query,گوجرانوالہ بائپاس کا مسودہ پر تازہ ترین خبریں کیا ہیں,news_query,0.9998,0.9998,True
+5930,ur-PK,news,news_query,جنگ سے کوئی بریکنگ نیوز,qa_factoid,0.9231,0.0011,False
+5948,ur-PK,play,play_music,میری پلے لسٹ میں سے کوئی اچھا گانا چلاؤ,play_music,0.8469,0.8469,True
+5953,ur-PK,weather,weather_query,کیا شہر رہنے کے لئے سستا ہے یا مہنگا ہے,qa_factoid,0.3462,0.1954,False
+5955,ur-PK,weather,weather_query,شہر امن و امان کے حوالے سے کتنا محفوظ ہے,qa_factoid,0.1606,0.0332,False
+5970,ur-PK,play,play_music,میں چاہتا ہوں آپ میرے لیئے ہائے دل چلائیں,recommendation_events,0.6146,0.0753,False
+5985,ur-PK,news,news_query,مجھے اقوام متحدہ کی تازہ ترین خبریں دکھانا,news_query,0.9997,0.9997,True
+5996,ur-PK,weather,weather_query,میرے اس دوپہر برف کے جوتے کی ضرورت ہو گی,iot_hue_lightoff,0.6727,0.2253,False
+5997,ur-PK,datetime,datetime_query,سنٹرل ٹائم زون میں کیا وقت ہوا ہے,weather_query,0.7583,0.1172,False
+6023,ur-PK,weather,weather_query,کیا رات چپچپی ہوگی,weather_query,0.9825,0.9825,True
+6024,ur-PK,weather,weather_query,کیا مجھے آج کام پر ایک سویٹر یا کوٹ لے جانا چاہئے,calendar_remove,0.7915,0.0098,False
+6025,ur-PK,weather,weather_query,کیا مجھے آج دوپہر سن اسکرین کی ضرورت ہے,iot_hue_lightoff,0.942,0.0041,False
+6027,ur-PK,play,play_music,پسندیدہ گانے چلا دو,play_music,1.0,1.0,True
+6039,ur-PK,weather,weather_query,کیا کل بارش والا دن ہوگا,weather_query,0.9992,0.9992,True
+6041,ur-PK,iot,iot_hue_lightoff,ارے ماہی روشنی بند کرو پلیز,iot_hue_lightoff,0.9719,0.9719,True
+6045,ur-PK,play,play_music,منتخب کردہ گانا شامل کرو,play_music,0.9885,0.9885,True
+6050,ur-PK,weather,weather_query,کیا مجھے آج بعد میں سن اسکرین کی ضرورت ہوگی,iot_hue_lightoff,0.9529,0.002,False
+6055,ur-PK,iot,iot_hue_lightoff,کیا میں نے گیراج میں روشنی چھوڑ دی,iot_hue_lightoff,0.9601,0.9601,True
+6059,ur-PK,play,play_music,ریپ موسیقی چلاؤ,play_music,0.9997,0.9997,True
+6069,ur-PK,weather,weather_query,آج کیا طوفان آئے گا,weather_query,0.9991,0.9991,True
+6073,ur-PK,iot,iot_hue_lightoff,پورچ کی روشنی کو بند کرو,cooking_recipe,0.3743,0.2981,False
+6074,ur-PK,iot,iot_hue_lightoff,ساڈھے نو بجے کمرے کی لائٹ بند کر دو,calendar_remove,0.878,0.073,False
+6077,ur-PK,news,news_query,میں آج سے دنیا کی تازہ ترین خبریں سننا چاہتا ہوں,news_query,0.9961,0.9961,True
+6093,ur-PK,weather,weather_query,کیا میں سورج کی چھت کھولوں,iot_hue_lightoff,0.8302,0.0248,False
+6103,ur-PK,weather,weather_query,ہائے کيا آج کا لاہور موسم کیسا رہے گا,weather_query,0.9998,0.9998,True
+6116,ur-PK,weather,weather_query,اس ہفتے کی موسم پر معلومات,weather_query,0.9949,0.9949,True
+6118,ur-PK,datetime,datetime_query,ارے جیکب آباد میں کیا وقت ہو رہا ہے,weather_query,0.9883,0.0001,False
+6127,ur-PK,weather,weather_query,کیا چھتریاں دو گی,cooking_recipe,0.8914,0.0028,False
+6129,ur-PK,news,news_query,مجھے دنیا کی خبروں سے باخبر رکھنا,qa_factoid,0.978,0.0004,False
+6151,ur-PK,weather,weather_query,میں آج کا موسم جاننا چاہتا ہوں,weather_query,0.9992,0.9992,True
+6172,ur-PK,weather,weather_query,کیا آج دھوپ کے چشمے اچھا انتخاب ہے,recommendation_events,0.864,0.0028,False
+6177,ur-PK,weather,weather_query,کیا مجھے آج چھتری ملے گی,iot_hue_lightoff,0.8332,0.0815,False
+6178,ur-PK,weather,weather_query,کیا جیکٹ پہننی چاہیئے,cooking_recipe,0.9834,0.0004,False
+6194,ur-PK,weather,weather_query,آج موسم کیسا ہے,weather_query,0.9995,0.9995,True
+6289,ur-PK,weather,weather_query,ہائے کيا موسم ہے آج کا,weather_query,0.9986,0.9986,True
+6370,ur-PK,calendar,calendar_query,میرا آنے والا ہفتہ کیسا ہے,weather_query,0.9981,0.0001,False
+6372,ur-PK,news,news_query,کرونا وائرس خبریں,news_query,0.5887,0.5887,True
+6403,ur-PK,transport,transport_query,کسی جگہ کیسے جایا جائے,qa_factoid,0.9964,0.0007,False
+6410,ur-PK,news,news_query,آج پاکستان میں کیا ہو رہا ہے,weather_query,0.9991,0.0002,False
+6411,ur-PK,weather,weather_query,اگلے بدھ کیسا موسم ہے,weather_query,0.9997,0.9997,True
+6539,ur-PK,calendar,calendar_set,آج کو میری غذا کے شروع کرنے کے طور پر نشان زد کریں,cooking_recipe,0.7778,0.0034,False
+6542,ur-PK,cooking,cooking_recipe,نرم پنیر سخت سے بہتر ہے,qa_factoid,0.7703,0.2093,False
+6618,ur-PK,news,news_query,دلچسپ خبریں بتاؤ,qa_factoid,0.9961,0.0001,False
+6682,ur-PK,news,news_query,انتخابات میں,qa_factoid,0.9864,0.0003,False
+6683,ur-PK,news,news_query,معاشی صورتحال,iot_hue_lightoff,0.3271,0.0303,False
+6713,ur-PK,calendar,calendar_remove,بدھ کی کاروباری میٹنگ منسوخ کر دیں,calendar_remove,0.695,0.695,True
+6722,ur-PK,calendar,calendar_query,کیا کچھ ایسا ہے جو مجھے یاد رکھنا چاہیے,qa_factoid,0.4714,0.0142,False
+6725,ur-PK,calendar,calendar_set,مجھے دوپہر کے لیے میرے شیڈول کے بارے میں یاد دلائیں,calendar_remove,0.278,0.0225,False
+6726,ur-PK,calendar,calendar_remove,اگلی میٹنگ منسوخ کریں,calendar_remove,0.6462,0.6462,True
+6729,ur-PK,calendar,calendar_remove,ریجا کا گھر کا ناشتہ کینسل کردو,cooking_recipe,0.8854,0.0036,False
+6732,ur-PK,calendar,calendar_set,میرے سسرال کے ساتھ اتوار کی ملاقات کی یاد دہانی شامل کریں,email_sendemail,0.9586,0.0234,False
+6744,ur-PK,calendar,calendar_set,پٹیل سے کل صبح دس بجے ملاقات کرو,email_sendemail,0.3851,0.0129,False
+6746,ur-PK,calendar,calendar_set,میرے کیلنڈر میں جون کا پہلا ہفتہ چھٹی کے طور پر مقرر کریں,calendar_remove,0.6577,0.1512,False
+6747,ur-PK,calendar,calendar_query,میرے پاس کتنی یاد دہانیاں ہیں,qa_factoid,0.177,0.0281,False
+6755,ur-PK,calendar,calendar_remove,براہ کرم میرا کیلنڈر صاف کریں,qa_factoid,0.3062,0.083,False
+6761,ur-PK,calendar,calendar_remove,صبح نو بجے کیلنڈر سے میری ملاقات ہٹا دیں,calendar_remove,0.9177,0.9177,True
+6764,ur-PK,calendar,calendar_set,مجھے کھڑکیاں دھونا یاد دلانا,lists_remove,0.1286,0.0454,False
+6774,ur-PK,calendar,calendar_set,جمعے کے لیے ایک تقریب سیٹ کرو,qa_factoid,0.9531,0.0008,False
+6785,ur-PK,calendar,calendar_query,میرا اگلا ریمائنڈر کون سا ہے,qa_factoid,0.9936,0.0001,False
+6789,ur-PK,calendar,calendar_set,ہفتہ کو شام چار بجے جمیلا کے ساتھ ملاقات طے کریں,email_sendemail,0.3447,0.0301,False
+6798,ur-PK,calendar,calendar_remove,میری اگلی تقریب ہٹا دیں,qa_factoid,0.9906,0.0041,False
+6801,ur-PK,calendar,calendar_query,مجھے میری اس جمعے کی میٹنگز دکھاؤ,lists_remove,0.1743,0.0397,False
+6806,ur-PK,calendar,calendar_query,اس جمعہ کی سہ پہر مجھے میرا کیلنڈر تقریب دکھائیں,play_radio,0.3802,0.022,False
+6815,ur-PK,calendar,calendar_set,مجھے ایک ہفتہ پہلے میری ماں کی سالگرہ یاد دلائیں,email_sendemail,1.0,0.0,False
+6819,ur-PK,calendar,calendar_set,علی یہاں نو بجے آج رات جاز بار میں اچھا بینڈ بجانا ہے میں جانا چاہوں گا,recommendation_events,0.8012,0.0059,False
+6836,ur-PK,calendar,calendar_set,مجھے کل چھ بجے ملاقات کے بارے میں یاد دلائیں,email_sendemail,0.9999,0.0,False
+6850,ur-PK,calendar,calendar_query,میرے آج کے شیڈول کی فہرست بنائیں,lists_remove,0.8821,0.0007,False
+6856,ur-PK,calendar,calendar_set,صبح کے دس بجے مجھے کل کی میٹنگ کے ریمائنڈر کا نوٹیفیکیشن دینا,qa_factoid,0.9941,0.0003,False
+6860,ur-PK,calendar,calendar_query,کیا کوئی آنے والی تقریبات ہیں,qa_factoid,0.9818,0.0004,False
+6865,ur-PK,calendar,calendar_set,کل دس بجے کی میٹنگ کے بارے میں ایک نوٹیفکیشن مرتب کریں,cooking_recipe,0.4383,0.0134,False
+6878,ur-PK,calendar,calendar_set,جمعے کو دوپہر ڈھائی بجے اکائونٹنگ ڈیپارٹمنٹ کے ساتھ ملاقات کا شیڈول بنائیں,calendar_set,0.5691,0.5691,True
+6891,ur-PK,calendar,calendar_query,کیا وہاں مارننگ شوز دستیاب ہیں,recommendation_events,0.2962,0.0144,False
+6892,ur-PK,calendar,calendar_query,کیا آپ مجھے فلم کا شیڈول دے سکتے ہیں,qa_factoid,0.9875,0.0,False
+6897,ur-PK,calendar,calendar_set,مجھے سات تاریخ کو شام پانچ بجے کے وقت عمر کو لینے کی یاد دلائیں,datetime_query,0.8093,0.0065,False
+6901,ur-PK,calendar,calendar_set,مجھے کل صبح کے دس بجے میٹنگ کے بارے میں یاد دلانا,qa_factoid,0.1984,0.0248,False
+6902,ur-PK,calendar,calendar_set,اپنا تیل بدلی کرنے کے لیے اگلے مہینے ایک یاد دہانی ترتیب دیں,email_sendemail,0.2963,0.0364,False
+6909,ur-PK,calendar,calendar_query,ایک کے بعد اور دوپہر تین بجے سے پہلے کیا ہو رہا ہے,qa_factoid,0.8845,0.0042,False
+6918,ur-PK,calendar,calendar_remove,کیلنڈر سے تقریبات حذف کریں,qa_factoid,0.9996,0.0,False
+6923,ur-PK,calendar,calendar_set,منگل کی صبح کاغزات پرنٹ کرنے کے لیے یاد دہانی مقرر کریں,calendar_remove,0.5281,0.0091,False
+6926,ur-PK,calendar,calendar_query,کیا آج جمعہ ہے,weather_query,0.9966,0.0002,False
+6928,ur-PK,calendar,calendar_remove,تمام تقریبات کو مٹا دیں,qa_factoid,0.4665,0.3086,False
+6936,ur-PK,calendar,calendar_set,مجھے یاد دلائیں کہ میری دوا صبح نو بجے لے لو,email_sendemail,0.444,0.0077,False
+6937,ur-PK,calendar,calendar_set,دوپہر میں افسر کے ساتھ کھانا کھانے کی یاد دہانی سیٹ کریں,cooking_recipe,0.3935,0.0496,False
+6946,ur-PK,calendar,calendar_query,کیا کوئی میری ملاقات اگلی بدھ کے لیے سیٹ ہے,qa_factoid,0.4466,0.0095,False
+6958,ur-PK,calendar,calendar_remove,یقینی بنائیں کہ میرے کیلنڈر پر کوئی تقریبات نہیں ہے,qa_factoid,0.7331,0.001,False
+6959,ur-PK,calendar,calendar_set,میری میٹنگ شروع ہونے سے ایک گھنٹہ پہلے مجھے یاد دلائیں,calendar_remove,0.2187,0.0225,False
+6962,ur-PK,calendar,calendar_set,کیا میں جان سکتا ہوں کہ مجھے اگلے ہفتہ کو شام چھ بجے کیا کرنا ہے,weather_query,0.2701,0.0215,False
+6964,ur-PK,calendar,calendar_set,کیا آپ میرے افسر کے ساتھ میری اگلی ملاقات اس کے ہونے سے ایک گھنٹہ پہلے یاد کرا سکتے ہیں,email_query,0.6964,0.0034,False
+6967,ur-PK,calendar,calendar_query,کیا آپ اس مسئلے کے حقائق کا معائنہ کر سکتے ہیں,qa_factoid,0.9957,0.0002,False
+6968,ur-PK,calendar,calendar_query,مجھے آج کی تمام میٹنگز کی تصدیق کرنی ہے جو شخص مدعو کر سکتا ہے,qa_factoid,0.9652,0.0013,False
+6973,ur-PK,calendar,calendar_set,کراچی میں کل ہونے والی اجلاس کی یاد دہانی شامل کریں,email_sendemail,0.4312,0.1238,False
+6974,ur-PK,calendar,calendar_set,میری کل کراچی میں ایک تقریب ہے اسے یاد دلانا,qa_factoid,0.9987,0.0,False
+6980,ur-PK,calendar,calendar_query,مجھے کام کرنے کی فہرست دیں,lists_query,0.6519,0.0005,False
+6992,ur-PK,calendar,calendar_query,مستقبل کی تقریب دکھائیں,qa_factoid,0.9775,0.0002,False
+6994,ur-PK,calendar,calendar_set,مجھے یاد دلائیں,qa_factoid,0.8628,0.0002,False
+6997,ur-PK,calendar,calendar_remove,کامیاب تقریب خارج کرو,qa_factoid,1.0,0.0,False
+7000,ur-PK,calendar,calendar_set,نئی تقریب,qa_factoid,1.0,0.0,False
+7004,ur-PK,calendar,calendar_set,ہر سال اس تاریخ کو میرے کیلنڈر میں ایک یاد دہانی شامل کریں,datetime_query,0.543,0.016,False
+7013,ur-PK,calendar,calendar_query,ایونٹ کب شروع ہونے والا ہے,datetime_query,0.484,0.0062,False
+7014,ur-PK,calendar,calendar_query,مجھے آج کی تقریبات کا شیڈول دیں,calendar_remove,0.4932,0.0039,False
+7025,ur-PK,calendar,calendar_remove,نیا سال ہٹائو کلینڈر سے,email_sendemail,0.994,0.0002,False
+7026,ur-PK,recommendation,recommendation_events,اس ہفتے میرےقصبے میں کیا تقریبات ہو رہی ہیں,qa_factoid,0.6063,0.0172,False
+7039,ur-PK,calendar,calendar_set,مجھے اگلے منگل کو صبح گیارہ بجے جمیل کے ساتھ ایک ملاقات مقرر کرو,email_sendemail,0.9007,0.0027,False
+7044,ur-PK,calendar,calendar_set,برائے مہربانی مجھے پانچ p.m. پر تیار ہونا شروع ہونا یاد لانا,email_query,0.2528,0.0303,False
+7046,ur-PK,calendar,calendar_set,اکیس تاریخ کو سات بجے کاروباری میٹنگ ایڈ کر دو,datetime_query,0.8549,0.0009,False
+7055,ur-PK,calendar,calendar_set,مصطفیٰ کے ساتھ جمعرات گیارہ a. m. میٹنگ شیڈول کرو,email_sendemail,0.6935,0.0087,False
+7057,ur-PK,calendar,calendar_set,احمد کے ساتھ بُدھ دوپہر ظہرانے کی میٹنگ شیڈول کرو,email_sendemail,0.1388,0.0715,False
+7061,ur-PK,calendar,calendar_set,اظہر کے ساتھ میری جمعہ کی میٹنگ سے چوبیس گھنٹے پہلے مجھے ریمائنڈر دینا,email_sendemail,0.5101,0.0223,False
+7073,ur-PK,calendar,calendar_set,میری اگلی تقریب کے لیے میرا کیلنڈر تلاشیں اور اس کے واقع ہونے سے پہلے مجھے مطلع کریں,qa_factoid,0.9081,0.0048,False
+7080,ur-PK,calendar,calendar_remove,میرے کیلنڈر سے ہر چیز منسوخ کر دو,calendar_remove,0.4843,0.4843,True
+7087,ur-PK,calendar,calendar_remove,میرے کیلنڈر سے کل کی میٹنگ منسوخ کر دو,calendar_remove,0.9754,0.9754,True
+7098,ur-PK,calendar,calendar_set,بارہ تاریخ کو میری کار کی ادائیگی میرے کیلنڈر میں ایڈ کرو,datetime_query,0.9474,0.0015,False
+7100,ur-PK,calendar,calendar_set,میری کار کی قسط کی ادائیگی سے ایک دن پہلے مجھے بتانا,email_sendemail,0.9014,0.0027,False
+7111,ur-PK,calendar,calendar_query,اکتیس مارچ کو میری ڈاکٹر کی اپائنٹمنٹ کس وقت ہے,email_sendemail,0.4786,0.0007,False
+7113,ur-PK,calendar,calendar_query,کیا اس اختتامِ ہفتہ اندرون شہر میں کوئی تقریبات ہوں گی,weather_query,0.7945,0.0023,False
+7117,ur-PK,calendar,calendar_remove,انیس تاریخ کی تقریبات کو میرے کیلنڈر سے ختم کر دو,calendar_remove,0.9864,0.9864,True
+7120,ur-PK,calendar,calendar_query,میرا آج کا شیڈول کیسا ہے,weather_query,0.9872,0.0005,False
+7122,ur-PK,calendar,calendar_set,کیا تم اس تقریب کو دہرا سکتے ہو,qa_factoid,0.9894,0.0002,False
+7140,ur-PK,calendar,calendar_set,ریمائنڈر سیٹ کرو اور ظہرانے کی میٹنگ سے ایک گھنٹہ پہلے مجھے مطلع کرنا,email_sendemail,0.1994,0.0247,False
+7141,ur-PK,calendar,calendar_query,کیا یہ پروگرام شیڈول ہے,qa_factoid,0.9991,0.0,False
+7151,ur-PK,calendar,calendar_set,ہر طاق نمبر کے اتوار کے لیے ایک ریمائنڈر لگاؤ,iot_hue_lightoff,0.2457,0.0194,False
+7152,ur-PK,calendar,calendar_set,ہر روز بارہ تیس پر ظہرانہ سیٹ کرو,qa_factoid,0.2282,0.0247,False
+7161,ur-PK,calendar,calendar_set,اس تقریب کو مستقبل میں یاد دلانا,qa_factoid,0.9998,0.0,False
+7170,ur-PK,calendar,calendar_set,آج میری امی کی سالگرہ ہے ہر سال اس تاریخ کو مجھے ایک نوٹیفیکیشن بھیجو,email_sendemail,0.9867,0.0009,False
+7181,ur-PK,calendar,calendar_set,مجھے جمعرات کو چھے a. m. جگانا تاکہ میرے پاس میٹنگ کے لیے وقت ہو,calendar_remove,0.8619,0.0039,False
+7185,ur-PK,calendar,calendar_query,میری ڈاکٹر اشرف کے ساتھ اگلی اپائنٹمنٹ کب ہے,email_sendemail,0.9582,0.0002,False
+7189,ur-PK,calendar,calendar_query,کیا میں نے کسی چیز کا منصوبہ بنایا ہوا ہے,cooking_recipe,0.536,0.0029,False
+7194,ur-PK,calendar,calendar_set,کل میری میٹنگ ہے اسے سیٹ کر دو,iot_hue_lightoff,0.554,0.0047,False
+7196,ur-PK,calendar,calendar_set,مجھے ارباز کے ساتھ پندرہ مارچ کی ملاقات یاد دلائیں,email_sendemail,0.9993,0.0,False
+7199,ur-PK,calendar,calendar_set,اگلے ہفتے کے انگریزی کے فائنل سے تین دو اور ایک گھنٹے پہلے کا تحریری نوٹس لگا دو,lists_remove,0.0683,0.0488,False
+7209,ur-PK,calendar,calendar_set,کیا تم مجھے منگل کو کُوڑا باہر لے جانا یاد دلا سکتے ہو,social_post,0.9112,0.0002,False
+7219,ur-PK,calendar,calendar_query,کیا تم نے کل کی میٹنگ کا ریمائنڈر لگا لیا,play_radio,0.4655,0.0054,False
+7224,ur-PK,calendar,calendar_query,وہ مقام کہاں ہے جہاں طاہر کی شادی منعقد ہونے والی ہے,qa_factoid,0.1845,0.0355,False
+7232,ur-PK,calendar,calendar_query,اگلے ہفتے کیا تقریبات ہیں,weather_query,0.9595,0.0059,False
+7257,ur-PK,calendar,calendar_set,برائے مہربانی آدھے گھنٹے میں مجھے ماں کو کال کرنا یاد دلانا,qa_factoid,0.2601,0.0383,False
+7258,ur-PK,calendar,calendar_set,مجھے ایک گھنٹے کے بعد باس کو ای میل بھیجنے کی یاد دلائیں,email_sendemail,1.0,0.0,False
+7262,ur-PK,calendar,calendar_set,کل کی میٹنگ کے لیے ایک نوٹیفیکیشن ریمائنڈر تخلیق کرو,qa_factoid,0.6606,0.0015,False
+7266,ur-PK,calendar,calendar_query,میرے زیرِ التواء کام کون سے ہیں,cooking_recipe,0.3642,0.0099,False
+7278,ur-PK,calendar,calendar_set,مجھے ردا کی سالگرہ چوبیس گھنٹے پہلے سے یاد دلانا,datetime_query,0.1623,0.0368,False
+7287,ur-PK,calendar,calendar_set,مجھے اپنی سالگرہ سے ایک دن پہلے یاد دلانا,calendar_remove,0.4413,0.0044,False
+7289,ur-PK,calendar,calendar_remove,جعفر کے ساتھ تمام تقریبات سے چھٹکارہ پالو,lists_remove,0.4361,0.021,False
+7291,ur-PK,calendar,calendar_set,کل صبح دس بجے سے ایک گھنٹہ بلاک کر دینا,calendar_remove,0.3395,0.0214,False
+7292,ur-PK,calendar,calendar_set,میں کل شام چار سے چھے تک غیر دستیاب ہوں میرے کیلنڈر میں مارک کر لو,weather_query,0.4049,0.0283,False
+7293,ur-PK,calendar,calendar_set,ہفتے کے لیے ایک گھنٹے کی اپائنٹمنٹ شیڈول کر دو,calendar_remove,0.5739,0.063,False
+7294,ur-PK,calendar,calendar_remove,میرے کیلنڈر سے جمال ناصر کے ساتھ اپائنٹمنٹ مٹا دو,lists_remove,0.461,0.1569,False
+7295,ur-PK,calendar,calendar_remove,برائے مہربانی میرا کیلنڈر صاف کر دو,calendar_remove,0.566,0.566,True
+7314,ur-PK,calendar,calendar_query,آج کے لیے کیا ہے,qa_factoid,0.7732,0.002,False
+7316,ur-PK,calendar,calendar_query,کیا میرے پاس کوئی اپائنٹمنٹس ہیں,recommendation_events,0.2675,0.0105,False
+7319,ur-PK,calendar,calendar_query,آج دو سے چار p. m. کیا ہو رہا ہے,weather_query,0.8397,0.0134,False
+7353,ur-PK,email,email_query,بس مجھے اگلے ہفتے قائد پارک کا موسم بتائیں,weather_query,0.9945,0.0001,False
+7355,ur-PK,calendar,calendar_set,مجھے چھے بجے چولہا بند کرنا یاد دلانا,calendar_remove,0.7334,0.0152,False
+7380,ur-PK,calendar,calendar_query,براہ کرم کلائنٹس کے ساتھ آج کی ملاقات دکھائیں,social_post,0.5352,0.0097,False
+7397,ur-PK,calendar,calendar_query,کیا کچھ تقریبات کی اگلے تین مہینے کے لیے منصوبہ بندی ہو گئی ہے,calendar_remove,0.1174,0.0724,False
+7449,ur-PK,calendar,calendar_set,برائے مہربانی اس شخص کے ساتھ میٹنگ شیڈول کرو,qa_factoid,0.9221,0.0016,False
+7450,ur-PK,calendar,calendar_set,مجھے اس شخص کے ساتھ میٹنگ شیڈول کرنے کی ضرورت ہے,qa_factoid,0.3021,0.0182,False
+7455,ur-PK,calendar,calendar_set,مجھے کل پارٹی کے بارے میں یاد دلانا,qa_factoid,0.0981,0.0423,False
+7461,ur-PK,calendar,calendar_set,لوگوں کو کیلنڈری تقریب میں دعوت دو,play_music,0.4847,0.0049,False
+7463,ur-PK,calendar,calendar_set,میرے گروپ کو اطلاع دو کہ نئی میٹنگ کی تاریخ کل ہے,datetime_query,0.9406,0.0006,False
+7467,ur-PK,calendar,calendar_query,مجھے تقریبات کا وقت دیں,qa_factoid,0.9296,0.0006,False
+7477,ur-PK,calendar,calendar_set,شادی کی سالگرہ کے تحائف کا بندوبست کرنے کے لیے ہر سال کے پانچویں مارچ کو مجھے یاد دلائیں,lists_remove,0.258,0.0355,False
+7496,ur-PK,calendar,calendar_query,کیا آج میری طے شدہ ملاقاتیں ہیں,email_sendemail,0.9907,0.0002,False
+7499,ur-PK,calendar,calendar_set,کل کی میٹنگ کے لیے نیا شیڈول بناؤ,iot_hue_lightoff,0.2713,0.0243,False
+7500,ur-PK,calendar,calendar_remove,کیا آپ اگلی تقریب حذف کر سکتے ہیں,qa_factoid,0.9993,0.0001,False
+7502,ur-PK,calendar,calendar_query,شام کے چار بجے کامران کے ساتھ ملاقات کے ایجنڈے میں کیا ہے,weather_query,0.2968,0.0169,False
+7503,ur-PK,calendar,calendar_query,لاہور میں دوپہر ایک بجے وہ جمعہ کے دن ملاقات کہاں ہے,qa_factoid,0.8387,0.0066,False
+7520,ur-PK,calendar,calendar_set,مجھے روزانہ دوپہر دو بجے دوپہر کے کھانے کے لیے یاد دلائیں,email_sendemail,0.9924,0.0003,False
+7524,ur-PK,calendar,calendar_query,آج شام پانچ بیس ہونے والی میٹنگ میں ماہر میری کمپنی میں کتنا سرمایہ کاری کرنے کو تیار ہے,recommendation_events,0.1845,0.0613,False
+7528,ur-PK,calendar,calendar_set,تیرہ جون انتخابات کے نتائج کا دن ہے برائے مہربانی اسے سیٹ کر دو,calendar_remove,0.9644,0.0003,False
+7531,ur-PK,calendar,calendar_set,براہ کرم میری تنخواہ کے دن شامل کریں,calendar_remove,0.3444,0.0597,False
+7539,ur-PK,calendar,calendar_query,کیا میرا کوئی کام جاری ہے,cooking_recipe,0.7381,0.0086,False
+7542,ur-PK,calendar,calendar_set,براہ کرم مجھے کل اس کے بارے میں یاد دلائیں,qa_factoid,0.6855,0.013,False
+7549,ur-PK,calendar,calendar_set,میں تین بجے میٹنگ چاہتا ہوں,calendar_remove,0.6644,0.0184,False
+7556,ur-PK,calendar,calendar_set,ہر جمعے مجھے سودا سلف خریدنے کے لیے یاد دلانے کے لیے کیلنڈر سیٹ کرو,cooking_recipe,0.3516,0.0177,False
+7557,ur-PK,calendar,calendar_set,کیلنڈر پر محل وقوع کی یاد دہانی کرائیں,calendar_remove,0.401,0.0193,False
+7559,ur-PK,calendar,calendar_set,مجھے آج رات آٹھ بجے میری ڈرائی کلیننگ لینے کی یاد دلائیں,play_radio,0.9976,0.0001,False
+7563,ur-PK,calendar,calendar_set,مجھے کل کی میٹنگ کے بارے میں ایک گھنٹہ پہلے یاد دلانا,datetime_query,0.2732,0.0282,False
+7565,ur-PK,calendar,calendar_set,ملاقات کی یاددہانی,email_sendemail,1.0,0.0,False
+7567,ur-PK,calendar,calendar_set,سالگرہ,calendar_query,0.8318,0.0746,False
+7569,ur-PK,calendar,calendar_query,کل کے لئے منصوبہ بنائیں,cooking_recipe,0.9955,0.0001,False
+7570,ur-PK,calendar,calendar_query,آج کا کیا منصوبہ ہے,recommendation_events,0.9515,0.0006,False
+7583,ur-PK,calendar,calendar_set,کیلنڈر میں منگنی کی تقریب ایڈ کرنا,qa_factoid,0.95,0.0002,False
+7596,ur-PK,calendar,calendar_set,مہربانی کر کے شيڈول بنائو ملاقات کا عادل کے ساتھ کراچی ميں دوپہر کا,email_sendemail,0.4815,0.0189,False
+7598,ur-PK,calendar,calendar_set,میری علی کے ساتھ اگلی ملاقات سیٹ کرو دہشت گردی پر تبادلہ خیال کے لیے اور اگلی دستیاب ملاقات کیا ہے,social_post,0.5364,0.0179,False
+7606,ur-PK,calendar,calendar_set,جمال سے کل تین بجے ملنا,weather_query,0.5058,0.0024,False
+7609,ur-PK,calendar,calendar_remove,منگل کے لیے میٹنگ کی یاد دہانی کو ہٹا دیں,calendar_remove,0.9771,0.9771,True
+7613,ur-PK,calendar,calendar_query,آنے والا تقریب کیا ہے,qa_factoid,0.9998,0.0,False
+7628,ur-PK,calendar,calendar_set,جب میں لائبریری میں ہوں ایک نیا لائبریری کارڈ لینے کے لیے مجھے یاد دلائیں,email_sendemail,0.9904,0.0,False
+7654,ur-PK,calendar,calendar_set,بیس اپریل کو میرے بھائی کی سالگرہ کے طور پر نشان زد کریں,iot_hue_lightoff,0.1744,0.0331,False
+7655,ur-PK,calendar,calendar_set,میرے بھائی کی سالگرہ کے طور پر بیس اپریل کے لیے ایک یاد دہانی شامل کریں,lists_remove,0.3328,0.2609,False
+7660,ur-PK,calendar,calendar_remove,میری آج دوپہر تین بجے کی طے شدہ ملاقات خارج کر دو اور مجھے ساری معلومات بتا دو,calendar_remove,0.9813,0.9813,True
+7662,ur-PK,calendar,calendar_query,کیا آپ میری آج کی ملاقاتوں کی فہرست دے سکتے ہیں,lists_query,0.9881,0.0001,False
+7664,ur-PK,calendar,calendar_set,مائر کے ساتھ ایک ظہرانہ ایڈ کر دو,iot_hue_lightoff,0.6734,0.0033,False
+7666,ur-PK,calendar,calendar_set,کیا آپ نشان زد کریں گے کہ کل تین بجے میری نظام سے ملاقات ہے,qa_factoid,0.9809,0.0004,False
+7680,ur-PK,calendar,calendar_remove,میرے کیلنڈر میں موجودہ مہینے کے لیے میرے تمام گولف ایونٹس کو حذف کر دیں,lists_remove,0.6517,0.2039,False
+7686,ur-PK,calendar,calendar_set,میکائیل اور جابر کو کیلنڈری تہوار میں شامل کر دو,lists_remove,0.2487,0.0237,False
+7690,ur-PK,calendar,calendar_query,آگے میرے لیے کیا آنے والا ہے,qa_factoid,0.3483,0.0224,False
+7693,ur-PK,calendar,calendar_query,کیا میں نے اکیس کے لیے کچھ پلان کیا ہے,cooking_recipe,0.9401,0.0012,False
+7697,ur-PK,calendar,calendar_set,اس کے لئے ایک یاد دہانی مقرر کریں,cooking_recipe,0.367,0.047,False
+7711,ur-PK,calendar,calendar_set,ہائے دو مارچ کو میری تمام میٹنگز اور کالز منسوخ کر دو کیونکہ یہ میرے کیلنڈر میں جلیل کی سالگرہ کی تقریب کے طور پر محفوظ ہے,calendar_remove,0.6925,0.0028,False
+7712,ur-PK,calendar,calendar_set,ارے اسامہ میری دو مارچ کی دیگر تمام ملاقاتیں اور کال منسوخ کر دیں کیونکہ سمیر کی سالگرہ ہے اسے اپنے کیلنڈر میں تقریب کے طور پر ٹیگ کریں,calendar_remove,0.7578,0.0051,False
+7718,ur-PK,calendar,calendar_set,ہاۓ مسٹر عمر کو اس جمعہ کی ملاقات کے لیے بھیجیں اور بلاک کرو میرا کلینڈر جمعہ کی دوپہر کے لیے,email_sendemail,0.4107,0.0248,False
+7726,ur-PK,calendar,calendar_set,مجھے ہر پیر کسی چیز کی ضرورت ہے اسے ریمائنڈر کے طور پر سیٹ کرو,weather_query,0.7584,0.0077,False
+7730,ur-PK,calendar,calendar_set,مجھے اگلا پیر مارک کرنے کی ضرورت ہے,weather_query,0.8931,0.0012,False
+7741,ur-PK,calendar,calendar_remove,ہفتہ کے لیے میرا کیلنڈر صاف کریں,calendar_remove,0.7206,0.7206,True
+7751,ur-PK,calendar,calendar_set,مجھے ہر پیر کوڑا کرکٹ باہر لے جانا یاد دلانا,weather_query,0.3399,0.0314,False
+7762,ur-PK,calendar,calendar_query,میرے پاس کیا یاد دہانیاں ہیں,lists_query,0.5135,0.0126,False
+7767,ur-PK,calendar,calendar_set,چار فروری کو دوپہر دو بجے جہانگیر پارک میں مشق کیلنڈر میں ایڈ کر دو,calendar_remove,0.3115,0.0227,False
+7768,ur-PK,calendar,calendar_set,مہربانی کرکےڈالو الہ دین پارک کی دو بجے دوپہر فروری چار,qa_factoid,0.5407,0.0037,False
+7774,ur-PK,calendar,calendar_set,کل کے لیے میرے کیلنڈر میں خریداری شامل کریں,recommendation_events,0.7908,0.0249,False
+7777,ur-PK,calendar,calendar_query,کیا آج میری ملاقات ہے,qa_factoid,0.9618,0.0004,False
+7778,ur-PK,calendar,calendar_set,مجھے یاد دلانا اتوار کی سہ پہر میں کیا کر رہا ہوں,weather_query,0.6229,0.0078,False
+7808,ur-PK,calendar,calendar_set,جمعرات کی صبح گیارہ بجے مجھے ماں کو حجام کے پاس لے جانا یاد دلانا,weather_query,0.4419,0.0183,False
+7817,ur-PK,calendar,calendar_query,کیا یہ اس تاریخ کے بارے میں درست ہے,datetime_query,0.5746,0.0011,False
+7820,ur-PK,calendar,calendar_remove,کیلنڈر میں تمام تقریبات کو مٹا دیں,calendar_remove,0.7245,0.7245,True
+7836,ur-PK,calendar,calendar_remove,تمام تقریبات کو حذف کریں,qa_factoid,0.9999,0.0,False
+7843,ur-PK,calendar,calendar_set,مجھے دو گھنٹوں میں وائلن کا سبق بتائو شام کے چار بجے میوزک کام کرتا ہے,cooking_recipe,0.6868,0.0064,False
+7844,ur-PK,calendar,calendar_query,یاد دہانی کے پیغامات کیا سیٹ کیئے,email_sendemail,0.9328,0.0012,False
+7847,ur-PK,calendar,calendar_set,رجسٹریشن کھلنے پر مجھے الرٹ کریں,email_query,0.2408,0.0646,False
+7851,ur-PK,calendar,calendar_set,میری آج دوپہر میں ایک ملاقات ہے,email_sendemail,0.9848,0.0002,False
+7863,ur-PK,calendar,calendar_set,مجھے آج شام کا ناشتہ دوپہر پانچ بجے شروع کرنے کے لئے یاد دلائیں,cooking_recipe,0.4055,0.025,False
+7870,ur-PK,calendar,calendar_remove,کیلنڈر سے تقریب کو حذف کریں,qa_factoid,0.9997,0.0,False
+7876,ur-PK,news,news_query,پچھلے دو ماہ سے کیا ہو رہا ہے,news_query,0.1939,0.1939,True
+7878,ur-PK,calendar,calendar_remove,میرا کیلنڈر مٹا دو,play_radio,0.3264,0.1104,False
+7879,ur-PK,calendar,calendar_query,میرے اگلے تین تقریبات کیا ہیں,qa_factoid,0.5318,0.0068,False
+7889,ur-PK,calendar,calendar_query,آج رات فٹ بال میچ کتنے بجے ہوگا,weather_query,0.9352,0.0009,False
+7890,ur-PK,calendar,calendar_remove,آج بالوں کی کٹائی کروالیں,cooking_recipe,0.6949,0.0394,False
+7891,ur-PK,calendar,calendar_remove,آج رات کا کھانا منسوخ کریں,cooking_recipe,0.9998,0.0,False
+7892,ur-PK,calendar,calendar_remove,اگلی تقریب آج ختم کریں,qa_factoid,0.9847,0.0048,False
+7894,ur-PK,calendar,calendar_set,مجھے ایک گھنٹے میں انتخابات کے بارے میں اپ ڈیٹ دیں,qa_factoid,0.6772,0.0092,False
+7902,ur-PK,calendar,calendar_set,کل دو p. m. پر میرے اور جاسم کے درمیان ایک میٹنگ سیٹ کر دو,lists_remove,0.4433,0.0192,False
+7908,ur-PK,calendar,calendar_query,کیا آج مجھے کچھ کرنے کی ضرورت ہے,cooking_recipe,0.1765,0.0265,False
+7912,ur-PK,calendar,calendar_remove,عالیہ نے میرے کیلنڈر سے ماہر کے ساتھ ڈنر ہٹا دیا,social_post,0.3609,0.0345,False
+7916,ur-PK,calendar,calendar_set,مجھے چھے p. m. پر کوڑا کرکٹ باہر لے جانا یاد دلانا,weather_query,0.109,0.0483,False
+7918,ur-PK,calendar,calendar_set,کیلنڈر میں تقریب درج کرو اور احمد ناساز کو دعوت بھیج دو,social_post,0.3535,0.0096,False
+7919,ur-PK,calendar,calendar_set,نئی میٹنگ میں بلال اور ماریہ کو حاضرین کے طور پر ایڈ کر دو,qa_factoid,0.3155,0.0193,False
+7922,ur-PK,calendar,calendar_remove,کام کھول کر مستقبل کی تقریبات ڈیلیٹ کر دو,iot_hue_lightoff,0.9872,0.0072,False
+7927,ur-PK,calendar,calendar_query,مجھے اس ہفتے کیا کرنا ہے,cooking_recipe,0.2103,0.0263,False
+7946,ur-PK,calendar,calendar_query,لاہور میں آنے والی تقریبات کون سی ہیں,weather_query,0.9698,0.0004,False
+7953,ur-PK,calendar,calendar_remove,برائے مہربانی ہفتے کو میری ڈاکٹر کے ساتھ اپائنٹمنٹ مٹا دو,calendar_remove,0.3427,0.3427,True
+7955,ur-PK,calendar,calendar_set,یہ تقریب میرے کیلنڈر میں بار بار ہونے والے ضابطے کے طور پر ایڈ کر لو,qa_factoid,0.6672,0.0089,False
+7956,ur-PK,calendar,calendar_set,کیا آپ اس تقریب کو دہرا سکتے ہیں,qa_factoid,0.9925,0.0001,False
+7966,ur-PK,calendar,calendar_query,کیا میں نے تمہیں یاد دلانے کے لیے کچھ بتایا تھا,social_post,0.9306,0.0024,False
+7970,ur-PK,calendar,calendar_set,شادی کے وقت مجھے تحفہ خریدنا یاد دلانا,email_sendemail,0.2593,0.0215,False
+7971,ur-PK,calendar,calendar_set,تقریب سے دو دن قبل کا ریمائنڈر لگاؤ,iot_hue_lightoff,0.7449,0.0042,False
+7975,ur-PK,calendar,calendar_query,کیا تقریب میں پارکنگ سروس ہے,qa_factoid,0.9887,0.0001,False
+7978,ur-PK,calendar,calendar_query,کل دوپہر سے پہلے میں نے کون سی یادداشتیں شیڈول کی ہیں,lists_remove,0.4997,0.0068,False
+7980,ur-PK,calendar,calendar_set,جب میری کوئی تقریب ہو تو مجھے بتاؤ,qa_factoid,1.0,0.0,False
+7981,ur-PK,calendar,calendar_set,میٹنگ سے پہلے مجھے انتباہ بھیجنا,social_post,0.7987,0.0058,False
+7993,ur-PK,calendar,calendar_remove,میرے کیلنڈر سے تمام تقریبات ڈیلیٹ کر دو,calendar_remove,0.8162,0.8162,True
+8001,ur-PK,calendar,calendar_remove,کیا تم حجامت کو مٹا سکتے ہو جو میں نے جمعہ کو شیڈول کی ہے,calendar_remove,0.7633,0.7633,True
+8004,ur-PK,calendar,calendar_set,دانیہ مجھ سے طلاق کے بارے میں بات کرنا چاہتی ہے جتنی جلدی میں دستیاب ہوں کیا تم ایک میٹنگ سیٹ کر سکتے ہو,qa_factoid,0.223,0.0311,False
+8005,ur-PK,calendar,calendar_set,سوموار بیس کو مجھے علی کے ساتھ ہمارے اختتامِ ہفتہ کے دورے کے بارے میں گفتگو کرنے کی ضرورت ہے,email_sendemail,0.6676,0.0143,False
+8013,ur-PK,calendar,calendar_query,مجھے میری اگلے مہینے کی میٹنگ دکھاؤ,calendar_remove,0.6759,0.0097,False
+8029,ur-PK,calendar,calendar_query,آج آنے والی تقریبات کون سی ہیں,weather_query,0.8911,0.0003,False
+8033,ur-PK,datetime,datetime_query,ایسٹر کس دن آتا ہے,weather_query,0.4826,0.4816,False
+8035,ur-PK,calendar,calendar_set,مجھے آئل تبدیل کروانا یاد دلانا,cooking_recipe,0.6166,0.0006,False
+8037,ur-PK,calendar,calendar_set,مجھے کسی وقت کوئی چیز یاد دلانا,qa_factoid,0.934,0.001,False
+8042,ur-PK,calendar,calendar_query,میری اگلی میٹنگ میں کتنے لوگ شرکت کر رہے ہیں,qa_factoid,0.9321,0.0032,False
+8043,ur-PK,calendar,calendar_query,میری اگلی اپائنٹمنٹ کس وقت ہے,datetime_query,0.8487,0.0005,False
+8044,ur-PK,calendar,calendar_query,میرا آج کا شیڈول کیا ہے,weather_query,0.9258,0.0013,False
+8055,ur-PK,calendar,calendar_remove,سات مارچ کو میری مصروفیت مٹا دو,iot_hue_lightoff,0.3629,0.2591,False
+8056,ur-PK,calendar,calendar_query,کیا میں جمعے کو تاریخ رکھتا ہوں,datetime_query,0.9846,0.0003,False
+8058,ur-PK,calendar,calendar_query,کیا آج میری سیلز میٹنگ ہے,iot_hue_lightoff,0.5002,0.0071,False
+8073,ur-PK,calendar,calendar_set,بدھ گیارہ a. m. پر ایک سیلز میٹنگ شیڈول کرو,iot_hue_lightoff,0.4359,0.0142,False
+8079,ur-PK,calendar,calendar_set,ایک گھنٹے میں میرے روٹی پکانے کے لیے ایک ریمائنڈر سیٹ کرو,cooking_recipe,0.9975,0.0001,False
+8084,ur-PK,calendar,calendar_query,تقریب کا ایجنڈا کیا ہے,qa_factoid,0.9999,0.0,False
+8085,ur-PK,calendar,calendar_set,اس ہفتے کے لیئے تاریخ سیٹ کرو,datetime_query,0.9145,0.0013,False
+8100,ur-PK,email,email_sendemail,میری تمام تقرریوں کو ای میل کرو کہ دوبارہ شیڈول کرو,email_sendemail,0.9996,0.9996,True
+8107,ur-PK,calendar,calendar_set,افضل کے لیے سالگرہ کا پروگرام ترتیب دیں,cooking_recipe,0.8909,0.0682,False
+8110,ur-PK,calendar,calendar_set,برائے مہربانی میرے کیلنڈر میں نگرانی ایڈ کر دو,qa_factoid,0.2727,0.0146,False
+8116,ur-PK,calendar,calendar_query,یکم فروری اور سولہ مارچ کے دورانیے میں کون سی میٹنگز ہونے والی ہیں,lists_query,0.3736,0.0222,False
+8119,ur-PK,calendar,calendar_query,مریم کی سالگرہ کی دعوت کہاں منعقد ہو رہی ہے,weather_query,0.1148,0.0395,False
+8125,ur-PK,calendar,calendar_set,میرے کیلنڈر میں ایک میٹنگ کی تقریب تخلیق کرو,qa_factoid,0.9884,0.0001,False
+8126,ur-PK,calendar,calendar_set,میرے کیلنڈر میں میٹنگ کی تقریب شیڈول کرو,cooking_recipe,0.4107,0.0314,False
+8129,ur-PK,calendar,calendar_query,ابھی تک میرے کون سے ریمائنڈر ہیں,qa_factoid,0.4849,0.0213,False
+8140,ur-PK,calendar,calendar_set,تیرہ تاریخ کے لیے ریمائنڈر سیٹ کرو کہ میرا دانیال کے ساتھ ظہرانہ ہے,datetime_query,0.7752,0.005,False
+8148,ur-PK,calendar,calendar_query,کیا میں نے کوئی ریمائنڈرز چھوڑے ہیں,social_post,0.5948,0.0041,False
+8150,ur-PK,calendar,calendar_query,کیا سالگرہ کی دعوت کے لیے میرے پاس کوئی ریمائنڈر ہے,qa_factoid,0.4877,0.0172,False
+8165,ur-PK,calendar,calendar_query,بارہ بج کر تیس p. m. پہلے ہی آپ کی دس منٹ میں ایک میٹنگ ہے,datetime_query,0.2693,0.0831,False
+8182,ur-PK,calendar,calendar_remove,کیا تم دانتوں کے ڈاکٹر کی اپائنٹمنٹ ڈیلیٹ کر سکتے ہو,qa_factoid,0.544,0.0052,False
+8188,ur-PK,calendar,calendar_query,آج کیا تاریخ ہے,datetime_query,0.9997,0.0,False
+8204,ur-PK,calendar,calendar_set,برائے مہربانی مجھے ڈاک خانے جانا یاد دلانا,qa_factoid,0.1634,0.0383,False
+8206,ur-PK,calendar,calendar_set,مجھے اپنی بہن کے لیے تحفہ خریدنے کا مت بھولنے دینا,email_sendemail,0.9913,0.0001,False
+8230,ur-PK,calendar,calendar_query,منگل کو میری ظہرانے کی میٹنگ کتنی طویل ہو گی,weather_query,0.3779,0.0133,False
+8241,ur-PK,calendar,calendar_remove,باقی سال کے لیے میرے کیلنڈر سے ہر چیز صاف کر دو,lists_remove,0.4909,0.2924,False
+8245,ur-PK,calendar,calendar_set,ہر اتوار گیارہ a. m. گرجا گھر کی خدمات کے لیے مجھے مطلع ہونے کی ضرورت ہے,recommendation_events,0.4101,0.0258,False
+8248,ur-PK,calendar,calendar_set,کل کے رات کے کھانے کی تاریخ کیلنڈر میں ایڈ کر دو,calendar_remove,0.9898,0.0008,False
+8251,ur-PK,calendar,calendar_set,مجھے اگلے ہفتے کا ظہرانہ کیلنڈر میں ایڈ کرنے کی ضرورت ہے,weather_query,0.8559,0.0042,False
+8260,ur-PK,calendar,calendar_set,برائے مہربانی جلیل کی سالگرہ سے ایک دن پہلے مجھے متنبہ کرنا,qa_factoid,0.9433,0.0011,False
+8261,ur-PK,calendar,calendar_set,میری اگلی اپائنٹمنٹ سے ایک گھنٹہ پہلے مجھے ایک انتباہ بھیجنا,social_post,0.7495,0.0077,False
+8269,ur-PK,calendar,calendar_set,منگل کےلیئے تیس منٹ کی ملاقات کا یاد دلانا,qa_factoid,0.2041,0.0349,False
+8276,ur-PK,calendar,calendar_remove,برائے مہربانی میری اگلی شیڈول کی گئی اپائنٹمنٹ مٹا دو,lists_remove,0.3261,0.2824,False
+8280,ur-PK,calendar,calendar_set,مجھے پندرہ مارچ کو ریمائنڈر سیٹ کرنے کی ضرورت ہے,iot_hue_lightoff,0.3796,0.018,False
+8284,ur-PK,calendar,calendar_remove,کیلنڈر سے سالگرہ کو ہٹا دیں,calendar_remove,0.5498,0.5498,True
+8289,ur-PK,calendar,calendar_set,چار بجے آج کی فیکلٹی میٹنگ کے بارے میں ایک یاد دہانی مقرر کریں,calendar_remove,0.4804,0.112,False
+8290,ur-PK,calendar,calendar_set,منگل کو اگلے ہفتے کی منتظمین کی میٹنگ کا ریمائنڈر لگاؤ,iot_hue_lightoff,0.8384,0.0063,False
+8294,ur-PK,calendar,calendar_set,کیلنڈر میں شامل کریں اور دہرائیں,cooking_recipe,0.9981,0.0,False
+8300,ur-PK,calendar,calendar_set,اٹھارہ مارچ کو شام پانچ بجے سے چھے بجے تقریب محفوظ کرو,calendar_remove,0.5209,0.0245,False
+8302,ur-PK,calendar,calendar_remove,اگلے پیر کی میٹنگ ختم کر دو,calendar_remove,0.9945,0.9945,True
+8308,ur-PK,news,news_query,کل دن کے وقت گھنٹہ گھر میں احتجاج کس چیز کے بارے میں تھا,social_post,0.6881,0.0151,False
+8336,ur-PK,calendar,calendar_query,میرا صائمہ کے ساتھ برنچ کب ہے,weather_query,0.9527,0.0003,False
+8343,ur-PK,datetime,datetime_query,کیا یہ بدھ ہے,social_post,0.7114,0.0041,False
+8345,ur-PK,calendar,calendar_set,مجھے بتانا کہ میٹنگ کب ہو گی,weather_query,0.8789,0.0023,False
+8347,ur-PK,calendar,calendar_query,چار دسمبر کو کیا ہو رہا ہے,weather_query,0.999,0.0,False
+8358,ur-PK,calendar,calendar_set,مجھے اس کے بارے میں یاد دلانا,qa_factoid,0.2004,0.0281,False
+8366,ur-PK,calendar,calendar_set,اٹھارہ مارچ کو پارس کی سالگرہ کی اپائنٹمنٹ تکراری کے طور پر مارک کر دو,calendar_remove,0.4808,0.0084,False
+8387,ur-PK,calendar,calendar_set,رات آٹھ بجے لانڈری کے لیے یاد دہانی بنائیں,calendar_remove,0.7464,0.0324,False
+8388,ur-PK,calendar,calendar_set,میں رات کے آٹھ بجے کپڑے دھونا چاہتی ہوں ریمائنڈر سیٹ کرو,weather_query,0.4495,0.0084,False
+8390,ur-PK,calendar,calendar_set,مجھے یاد دلانا میری ملاقات کا,email_sendemail,1.0,0.0,False
+8394,ur-PK,calendar,calendar_set,دوا لینے کے لیے ہر روز دوپہر کے وقت ایک یاد دہانی مقرر کریں,calendar_set,0.4931,0.4931,True
+8404,ur-PK,calendar,calendar_query,میں اس تقریب کے بارے میں مزید جاننا چاہتا ہوں,qa_factoid,0.9977,0.0001,False
+8409,ur-PK,calendar,calendar_remove,میرا کل رات کا کھانا ڈیلیٹ کر دو,calendar_remove,0.4228,0.4228,True
+8410,ur-PK,calendar,calendar_remove,میرا رات کا کھانا کی تقریب پیر کو ہٹا دو,qa_factoid,0.9999,0.0,False
+8413,ur-PK,calendar,calendar_set,براہ مہربانی مجھے خبردار کریں,qa_factoid,0.948,0.0016,False
+8414,ur-PK,calendar,calendar_set,جمعہ کو شام پانچ بجے داؤد کے ساتھ رات کا کھانا کھانے جانے کے لیے یاد دلائیں,email_sendemail,0.4843,0.0099,False
+8415,ur-PK,calendar,calendar_set,منگل کو دوپہر کے تین بجے دفتر میں بابر کے ساتھ ایک میٹنگ ایڈ کرو,email_query,0.4991,0.0208,False
+8426,ur-PK,calendar,calendar_query,مجھے کل اور آج صبح کے درمیان موجودہ تقریبات بتائیں,qa_factoid,0.9553,0.0007,False
+8430,ur-PK,calendar,calendar_remove,میری تمام اپائنٹمنٹس منسوخ کر دیں,calendar_remove,0.4725,0.4725,True
+8431,ur-PK,calendar,calendar_remove,میری تمام طے شدہ تقریبات سے چھٹکارا حاصل کریں,qa_factoid,0.9912,0.0003,False
+8436,ur-PK,calendar,calendar_set,براہ کرم مارچ میں ہر بدھ دوپہر کے بارہ بجے دوپہر کے کھانے پہ ملاقات مقرر کریں,email_sendemail,0.255,0.0193,False
+8442,ur-PK,calendar,calendar_set,براہ کرم اس تقریب کے ساتھ میرے کیلنڈر میں ترمیم کریں,qa_factoid,0.895,0.0049,False
+8449,ur-PK,calendar,calendar_set,میری بیٹیوں کی سالگرہ کے لیے ایک یاد دہانی مقرر کریں,calendar_set,0.6449,0.6449,True
+8453,ur-PK,calendar,calendar_set,براہ کرم تقریب کو میرے کیلنڈر میں ڈالیں اور اسے دہرائے جانے والی تقریب کے بطور نشان زد کریں,qa_factoid,0.997,0.0001,False
+8460,ur-PK,calendar,calendar_query,مجھے میرے تقریبات دکھائیں,qa_factoid,0.989,0.0001,False
+8461,ur-PK,calendar,calendar_query,مئی کے مہینے کے لیے میرے کیا منصوبے ہیں,cooking_recipe,0.6551,0.0055,False
+8466,ur-PK,calendar,calendar_set,میری بدھ کو صبح نو بجے ایک ملاقات ہے مجھے یاد دہانی کا پیغام بھیجنا,email_sendemail,1.0,0.0,False
+8469,ur-PK,calendar,calendar_query,آج میرے کیلنڈر پر کیا شیڈول ہے,weather_query,0.814,0.0044,False
+8474,ur-PK,calendar,calendar_set,کل دو p. m. پر تندوری ہوٹل میں جمیلہ کی سالگرہ کی دعوت میرے کیلنڈر میں ایڈ کر دو,play_radio,0.0952,0.042,False
+8494,ur-PK,calendar,calendar_query,میرا آج کا شیڈول کیسا لگتا ہے,weather_query,0.9643,0.0009,False
+8496,ur-PK,calendar,calendar_query,کل صبح کے لیے میری میٹنگز بتائیں,lists_query,0.2431,0.0226,False
+8498,ur-PK,calendar,calendar_query,چلو تمام زیرِ التواء ریمائنڈرز کو ترتیب وار دیکھو,lists_remove,0.2161,0.0181,False
+8516,ur-PK,calendar,calendar_remove,کیلنڈر آئٹم ڈیلیٹ کر دو,calendar_remove,0.4645,0.4645,True
+8520,ur-PK,calendar,calendar_set,کیلنڈر ایپ میں تقریب شامل کریں,qa_factoid,0.6725,0.0015,False
+8525,ur-PK,calendar,calendar_query,تین سے پانچ تک میٹنگ کی ملاقات,email_sendemail,0.8096,0.0082,False
+8535,ur-PK,calendar,calendar_set,کیا تم مجھے دو گھنٹوں میں ہونے والی دانتوں کے ڈاکٹر کی اپائنٹمنٹ یاد دلاؤ گے,email_query,0.1921,0.0337,False
+8539,ur-PK,calendar,calendar_set,مجھے یاد دلائیں,qa_factoid,0.8628,0.0002,False
+8541,ur-PK,calendar,calendar_set,براہ کرم مجھے یاد دلائیں,qa_factoid,0.9978,0.0001,False
+8553,ur-PK,calendar,calendar_set,طاہر کے ساتھ نو a. m. پر ایک میٹنگ میرے کیلنڈر میں ایڈ کر دو,social_post,0.1821,0.0245,False
+8559,ur-PK,calendar,calendar_query,کیا میں نے آج کسی چیز کا زیڈول بنایا ہے,cooking_recipe,0.5353,0.0022,False
+8562,ur-PK,calendar,calendar_remove,آج میری دو p. m. والی میٹنگ ڈیلیٹ کر دو,calendar_remove,0.9676,0.9676,True
+8568,ur-PK,calendar,calendar_set,آسیہ اور عروج کے ساتھ صبح گیارہ بجے منگل کے دن کلینڈرپر برنچ کی دعوت دو,play_radio,0.5627,0.0096,False
+8570,ur-PK,calendar,calendar_set,کیا آپ نشان زد کریں گے کہ میں کل دوپہر دو بجے ایک پروگرام میں مصروف ہوں,social_post,0.8398,0.0021,False
+8579,ur-PK,calendar,calendar_query,مجھے اپنی آج کی ملاقاتوں کے لیے کون سی معلومات معلوم ہونی چاہئیں,email_query,0.9992,0.0,False
+8585,ur-PK,calendar,calendar_set,مجھے یاد دلائیں کہ تیس کو میری سالگرا کی پارٹی ہے,email_sendemail,0.9803,0.0005,False
+8598,ur-PK,calendar,calendar_set,چھ بجے ہوائی اڈہ سے مقررہ وقت پر شادی کی چیزیں اٹھانی یاد دیلانا وقت پر,datetime_query,0.2615,0.0258,False
+8618,ur-PK,calendar,calendar_set,مجھے ہر منگل جمعرات اور ہفتہ کو اپنے پودوں کو پانی دینا یاد دلائیں,cooking_recipe,0.1877,0.04,False
+8631,ur-PK,calendar,calendar_remove,وہ میرے کیلنڈر سے مٹا دو,iot_hue_lightoff,0.4599,0.0984,False
+8635,ur-PK,calendar,calendar_set,کیا آپ مجھے تھینکس گیونگ سے تین ہفتے پہلے ٹرکی منگوانا یاد دلا سکتے ہیں,email_sendemail,0.2614,0.0158,False
+8640,ur-PK,calendar,calendar_set,میں کتب خانہ میں کل ہونے والے پروگرام کے لیے اپنے کیلنڈر پر ایک نوٹ بنانا چاہتا ہوں,iot_hue_lightoff,0.4003,0.0052,False
+8642,ur-PK,calendar,calendar_set,آج کی میری یاد دہانیوں میں شام چار بجے کانفرنس کال شامل کریں,calendar_set,0.5048,0.5048,True
+8651,ur-PK,calendar,calendar_set,میرے کیلنڈر سے اس تقریب کے بارے میں بتانا,qa_factoid,0.9986,0.0001,False
+8653,ur-PK,calendar,calendar_set,مجھے اپنے کیلنڈر میں واقعہ یاد دلائیں,email_sendemail,0.9799,0.0003,False
+8666,ur-PK,calendar,calendar_remove,تمام تقریبات میرے کیلنڈر سے ہٹا دو,lists_remove,0.3868,0.3226,False
+8667,ur-PK,calendar,calendar_query,پچھلے تین مہینے کے اندر کتنی ملاقاتیں کی ميں نے جناب کامران کے ساتھ,email_sendemail,0.9809,0.0005,False
+8670,ur-PK,calendar,calendar_remove,کیلنڈر سے تقریبات کو ہٹا دیں,qa_factoid,0.9669,0.0147,False
+8672,ur-PK,calendar,calendar_query,نیو ایئر کانسرٹ کہاں ہے,qa_factoid,0.4944,0.0014,False
+8674,ur-PK,calendar,calendar_query,میری ملاقات صبح نو بجے کہاں ہے,qa_factoid,0.7886,0.0011,False
+8679,ur-PK,calendar,calendar_query,کیا آج سینٹ پیٹرکس دن ہے,weather_query,0.9876,0.0005,False
+8681,ur-PK,calendar,calendar_query,کیا یہ کسی کی سالگرہ ہے,calendar_remove,0.4911,0.0253,False
+8694,ur-PK,calendar,calendar_set,تقریب میں علی اور احمد شامل ہوں گے,qa_factoid,0.9566,0.0005,False
+8730,ur-PK,calendar,calendar_set,براہ کرم میرے کیلنڈر میں پچیس مارچ کو ہونے والی میری ملاقات کے لیے ایک یاد دہانی مقرر کریں,email_sendemail,0.9796,0.0033,False
+8732,ur-PK,calendar,calendar_remove,تمام تاریخوں کو حذف کریں,lists_remove,0.9989,0.0001,False
+8762,ur-PK,calendar,calendar_query,اس سہ پہر مجھے میرا شیڈول بتاؤ,qa_factoid,0.7256,0.0065,False
+8765,ur-PK,calendar,calendar_set,آج رات نو بجے قصر الحمراء میں میرا عشائیہ کیلنڈر میں ایڈ کر دو,play_radio,0.1977,0.0223,False
+8766,ur-PK,calendar,calendar_query,کیا ہفتہ پچیس مارچ کو میری میٹنگ ہے,calendar_remove,0.1933,0.0695,False
+8767,ur-PK,calendar,calendar_query,کیا سارہ کی سالگرہ بارہ اپریل کو ہے,weather_query,0.9312,0.0071,False
+8769,ur-PK,calendar,calendar_remove,آنے والی تقریب کو حذف کریں,qa_factoid,1.0,0.0,False
+8771,ur-PK,calendar,calendar_remove,خریداری کا دورہ جو میں نے تیئیس مارچ کو شیڈول کیا تھا وہ ڈیلیٹ کر دو,qa_factoid,0.301,0.1001,False
+8774,ur-PK,calendar,calendar_query,کیا میرا سات جولائی کا شیڈول مکمل طور پر کھلا ہے,weather_query,0.3641,0.0193,False
+8781,ur-PK,calendar,calendar_query,کیا میں چار p. m. پر فارغ ہوں,qa_factoid,0.4963,0.016,False
+8782,ur-PK,calendar,calendar_query,کیا میری اس سہ پہر کو کوئی میٹنگ ہے,weather_query,0.9037,0.0055,False
+8791,ur-PK,calendar,calendar_query,اس تقریب کے بارے میں مزید معلومات,qa_factoid,0.9996,0.0,False
+8795,ur-PK,calendar,calendar_query,زیر التواء یاد دہانیاں دکھائیں,play_podcasts,0.6545,0.0046,False
+8822,ur-PK,recommendation,recommendation_events,آنے والی تقریبات کی معلومات,qa_factoid,0.8966,0.0045,False
+8824,ur-PK,calendar,calendar_query,انیس تاریخ کو دو p. m. پر میں نے کیا شیڈول بنایا تھا,datetime_query,0.9675,0.0009,False
+8825,ur-PK,calendar,calendar_set,مجھے میری اگلے جمعہ عبد الحسیب کے ساتھ میٹنگ کا ریمائنڈر بھیجو,email_sendemail,0.7262,0.0034,False
+8828,ur-PK,calendar,calendar_query,کیا کیلنڈری تقریب درست ہے,qa_factoid,0.9999,0.0,False
+8846,ur-PK,calendar,calendar_query,کیا میں نے اس سال چار جولائی کو کچھ سیٹ کیا ہے,qa_factoid,0.2924,0.0194,False
+8853,ur-PK,calendar,calendar_remove,میری اگلی سرگرمی صاف کر دو,cooking_recipe,0.5453,0.1349,False
+8856,ur-PK,calendar,calendar_remove,کیلنڈر کی تمام تقریبات ڈیلیٹ کر دو,calendar_remove,0.7707,0.7707,True
+8857,ur-PK,calendar,calendar_set,ایمن کے ساتھ آنے والی میٹنگ یاد دلانا,social_post,0.121,0.0395,False
+8868,ur-PK,calendar,calendar_set,مجھے یاد دلائیں کہ ہر منگل کو صبح دس بجے ماں کو کال کرنی ہے,qa_factoid,0.2186,0.0346,False
+8880,ur-PK,calendar,calendar_set,نو a. m. کو کل کی میٹنگ کا ریمائنڈر سیٹ کرو,cooking_recipe,0.356,0.0192,False
+8888,ur-PK,calendar,calendar_remove,اسے ڈیلیٹ کر دو,qa_factoid,0.9711,0.0199,False
+8900,ur-PK,calendar,calendar_set,ہر اتوار کے لیے تکراری ریمائنڈر سیٹ کرو,cooking_recipe,0.3384,0.0169,False
+8904,ur-PK,calendar,calendar_query,حالیہ تقریبات کی معلومات,qa_factoid,0.8948,0.0047,False
+8906,ur-PK,calendar,calendar_set,کیلنڈر میں دوسروں کے ساتھ تقریب کی تاریخ سیٹ کرو,qa_factoid,0.8123,0.0049,False
+8907,ur-PK,calendar,calendar_set,کیلنڈر میں دوسروں کے ساتھ تقریب مینشن کریں,qa_factoid,0.876,0.0004,False
+8912,ur-PK,calendar,calendar_query,چھے p. m. کے بعد مجھے آج کی کیلنڈر تقریبات دینا,weather_query,0.9882,0.0005,False
+8914,ur-PK,calendar,calendar_query,چار اپریل کو میری اپائنٹمنٹ کس وقت ہے,weather_query,0.4785,0.0006,False
+8916,ur-PK,calendar,calendar_query,میرا دن کا کیا شیڈول ہے,calendar_remove,0.3417,0.0105,False
+8925,ur-PK,calendar,calendar_remove,میرے کیلنڈر کے تمام تقریبات کو حذف کریں,qa_factoid,0.7749,0.1091,False
+8939,ur-PK,calendar,calendar_set,حیا کی بیٹی کی گود بھرائی,cooking_recipe,0.9996,0.0,False
+8948,ur-PK,calendar,calendar_set,جمشید کے ساتھ میٹنگ کی تقریب ایڈ کرو,qa_factoid,0.9762,0.0007,False
+8949,ur-PK,calendar,calendar_remove,برائے مہربانی ریمائنڈر مٹا دو,play_radio,0.635,0.0615,False
+8958,ur-PK,calendar,calendar_query,کھلی ملاقات کا وقت,qa_factoid,0.9988,0.0,False
+8960,ur-PK,calendar,calendar_set,میں چاہتا ہوں کہ تم شام کو آنے والی میٹنگ کے لیے ایک انتباہ بناؤ,social_post,0.3163,0.0077,False
+8967,ur-PK,calendar,calendar_set,میری بیوی کی سالگرہ سے دو دن پہلے مجھے یاد دلانا,calendar_remove,0.4019,0.0209,False
+8968,ur-PK,calendar,calendar_set,اس ہفتے یاد دلانے کے لیے مجھے کچھ بتاؤ,qa_factoid,0.1682,0.0232,False
+8975,ur-PK,calendar,calendar_query,آج کے لیے کون سی میٹنگز شیڈول ہیں,qa_factoid,0.9796,0.0004,False
+8977,ur-PK,calendar,calendar_set,میرے زیرِ التوا بلوں کی ادائیگیوں کے لیے ریمائنڈر سیٹ کرو,lists_remove,0.2257,0.0288,False
+8978,ur-PK,calendar,calendar_set,بس مجھے اپنے مالک کے ساتھ ہفتہ بھر ان ہونے والی اہم ملاقاتوں سے آگاہ کریں,social_post,0.2605,0.0248,False
+8985,ur-PK,calendar,calendar_remove,اوکے googleر ارمش کی سالگرہ کو کیلنڈر سے حذف کریں,calendar_remove,0.7417,0.7417,True
+8990,ur-PK,calendar,calendar_set,تقریب بناؤ,qa_factoid,0.9999,0.0,False
+8992,ur-PK,calendar,calendar_set,ملاقاتیں دکھاؤ,qa_factoid,0.9988,0.0,False
+9009,ur-PK,calendar,calendar_remove,میرے کیلنڈر سے سالگرہ کی تقریب کو ہٹا دیں,calendar_remove,0.9714,0.9714,True
+9011,ur-PK,calendar,calendar_query,کیا اس مہینے کی چودہ تاریخ کو ادائے شکر کی تقریب درست ہے,qa_factoid,0.9928,0.0001,False
+9014,ur-PK,calendar,calendar_set,برائے مہربانی تیئیس اکتوبر کو میرے رفیق کار کے ساتھ ایک میٹنگ کا نوٹیفیکیشن سیٹ کرو,qa_factoid,0.7003,0.0086,False
+9015,ur-PK,calendar,calendar_remove,میرے کیلنڈر سے تمام تقریبات صاف کر دو,calendar_remove,0.8472,0.8472,True
+9019,ur-PK,calendar,calendar_query,بیس سے پچیس جون تک میٹنگز,datetime_query,0.3206,0.011,False
+9030,ur-PK,calendar,calendar_remove,آج کے لیے میری طبی ملاقات کو کیلنڈر سے ہٹا دیں,calendar_remove,0.6585,0.6585,True
+9035,ur-PK,calendar,calendar_query,ریحان کی شادی کا ریمائنڈر,qa_factoid,0.833,0.0068,False
+9043,ur-PK,calendar,calendar_set,کیلنڈر میں آنے والی تقریبات,qa_factoid,0.6108,0.0138,False
+9053,ur-PK,calendar,calendar_set,منگل کو مریم کے ساتھ میٹنگ ایونٹ کی یاد دہانی سیٹ کریں,qa_factoid,0.2201,0.0232,False
+9054,ur-PK,calendar,calendar_set,منگل کو مریم ریمائنڈر کی تقریب,qa_factoid,0.9999,0.0,False
+9059,ur-PK,calendar,calendar_set,تقریب کے وقت پر مجھے متنبہ کرنا,qa_factoid,0.993,0.0002,False
+9061,ur-PK,calendar,calendar_query,میرے ریمائنڈرز میں کیا معلومات ہیں,email_query,0.9652,0.0004,False
+9062,ur-PK,calendar,calendar_set,کیا آپ بائیس جون کو لا ئکہ کی سالگرہ منا سکتے ہیں,email_query,0.9991,0.0,False
+9074,ur-PK,calendar,calendar_remove,براہ کرم اس تقریب کو ہٹا دیں,qa_factoid,0.9994,0.0002,False
+9088,ur-PK,calendar,calendar_remove,میرے کیلنڈر سے ہر چیز صاف کر دو,lists_remove,0.5399,0.2277,False
+9095,ur-PK,calendar,calendar_remove,آج رات کا کھانا صالحہ کے ساتھ مٹا دو,cooking_recipe,0.958,0.002,False
+9103,ur-PK,calendar,calendar_query,کیا آج سہ پہر میرے کیلنڈر پر کوئی میٹنگ ہے,weather_query,0.8352,0.008,False
+9107,ur-PK,calendar,calendar_query,عاطف اسلم کی محفل تین جون کو کس وقت شروع ہو گی,calendar_remove,0.6869,0.0492,False
+9110,ur-PK,calendar,calendar_set,پچیس مارچ کو نمائش دو ہزار سترہ بڑے پیمانے پر ایک نوٹ بنائیں متعلقہ تاریخ پر,email_query,0.2712,0.0085,False
+9112,ur-PK,calendar,calendar_set,اسے میرے کیلنڈر میں شامل کریں,email_query,0.3116,0.0139,False
+9114,ur-PK,calendar,calendar_set,اس کیلنڈری تقریب کے لیے ایک تکراری ریمائنڈر بناؤ,cooking_recipe,0.9626,0.0014,False
+9116,ur-PK,calendar,calendar_query,کیا تم میری میٹنگ دوبارہ شیڈول کر سکتے ہو,qa_factoid,0.9097,0.0032,False
+9121,ur-PK,calendar,calendar_query,میں نے کون سے دن مخصوص کیے ہیں,calendar_remove,0.9311,0.0171,False
+9124,ur-PK,calendar,calendar_set,مجھے اگلے ہفتے کے لیے میرے کام کے کیلنڈر کی تقریبات دکھاؤ,weather_query,0.6887,0.0067,False
+9137,ur-PK,calendar,calendar_query,عمران کیفے دوپہر کے کھانے اور رات کے کھانے کے درمیان کس وقت بند ہوتا ہے,datetime_query,0.7956,0.0248,False
+9138,ur-PK,qa,qa_factoid,سپر ٹی ٹوئنٹی کب سرکاری طور پر شروع ہوگا,qa_factoid,0.6075,0.6075,True
+9149,ur-PK,calendar,calendar_query,نئے سال کا پہلا عشائیہ کب شروع ہوگا,cooking_recipe,0.8194,0.0049,False
+9153,ur-PK,calendar,calendar_set,مریم کے ساتھ عشائیہ کا ہفتہ کا کیلنڈر میں شامل کرلو,cooking_recipe,0.1601,0.0938,False
+9155,ur-PK,calendar,calendar_set,برائے مہربانی جمعہ کو تین بجے دانتوں کے ڈاکٹر کی اپائنٹمنٹ ایڈ کر دو,calendar_remove,0.3986,0.0231,False
+9156,ur-PK,calendar,calendar_set,یاد دلانا,qa_factoid,0.9999,0.0,False
+9175,ur-PK,calendar,calendar_query,کیا پچھلے دس منٹ میں میرا کیلنڈر اپ ڈیٹ ہوا ہے,qa_factoid,0.1608,0.0301,False
+9182,ur-PK,calendar,calendar_remove,ہوائی اڈے سے اپنے والدین کو اٹھانے کا میرا منصوبہ منسوخ کر دو,qa_factoid,0.4031,0.2233,False
+9187,ur-PK,calendar,calendar_set,ان گاہکوں کی تحقیق کریں جو ملاقات میں شرکت کریں گے,email_query,0.9981,0.0,False
+9193,ur-PK,calendar,calendar_set,برائے مہربانی اس تاریخ کو دہرا دو,calendar_remove,0.9389,0.0002,False
+9194,ur-PK,calendar,calendar_remove,براہ کرم اس تقریب کو میرے کیلنڈر سے ہٹا دیں,qa_factoid,0.9811,0.0124,False
+9197,ur-PK,calendar,calendar_query,میں نے اس ہفتے کیا منصوبہ بندی کی ہے,recommendation_events,0.747,0.006,False
+9198,ur-PK,calendar,calendar_query,میرے ریمائنڈرز چیک کریں,qa_factoid,0.991,0.0001,False
+9202,ur-PK,play,play_radio,میرا ریڈیو اسٹیشن چلاؤ,qa_factoid,0.2883,0.0254,False
+9204,ur-PK,play,play_radio,مست ریڈیو چلاؤ,qa_factoid,0.9484,0.0408,False
+9212,ur-PK,play,play_radio,کوئی ریڈیو چلا دے,play_radio,0.8339,0.8339,True
+9216,ur-PK,play,play_radio,میرے اسٹیشن چلائیں,cooking_recipe,0.1486,0.0363,False
+9225,ur-PK,play,play_radio,کیا آپ ریڈیو آن کرسکتے ہیں,qa_factoid,0.5775,0.0395,False
+9233,ur-PK,play,play_radio,pandora کھولو,qa_factoid,1.0,0.0,False
+9236,ur-PK,play,play_radio,چینل ایک سو چھ اعشاریہ نو پر جاؤ,transport_query,0.9773,0.0016,False
+9237,ur-PK,play,play_radio,ریڈیو چلاؤ اور مست اسٹیشن چینل چلاؤ,play_radio,0.8553,0.8553,True
+9250,ur-PK,play,play_radio,میں ریڈیو سننا چاہتا ہوں,play_podcasts,0.8795,0.025,False
+9254,ur-PK,play,play_radio,برائے مہربانی مست اسٹیشن ریڈیو مرچی لگاؤ,play_radio,0.1665,0.1665,True
+9263,ur-PK,play,play_radio,ریڈیو ایپ کھولو,qa_factoid,0.9937,0.0031,False
+9269,ur-PK,play,play_radio,ایف. ایم. آٹھ سو ستانوے چلاؤ,email_sendemail,1.0,0.0,False
+9270,ur-PK,play,play_radio,رنگ ریڈیو کا صرف چلاؤ,qa_factoid,0.3767,0.0233,False
+9275,ur-PK,play,play_radio,ریڈیو پر صرف نو سو نوانوے ایف. ایم. چلوانا ہے,qa_factoid,0.9023,0.0054,False
+9284,ur-PK,play,play_radio,ایف. ایم. چلاؤ,email_sendemail,1.0,0.0,False
+9291,ur-PK,play,play_radio,چلاؤ,email_sendemail,0.9418,0.0001,False
+9301,ur-PK,play,play_radio,ایف. ایم. چلائیں,email_sendemail,1.0,0.0,False
+9303,ur-PK,play,play_radio,مست سٹیشن چلاؤ,qa_factoid,0.9018,0.0015,False
+9305,ur-PK,play,play_radio,کلاسیکی ہٹس چلاؤ,qa_factoid,0.1521,0.0694,False
+9316,ur-PK,play,play_radio,میرے لیے مست ایف. ایم. چلاؤ,email_sendemail,1.0,0.0,False
+9317,ur-PK,play,play_radio,اس وقت ریڈیو شروع کرو,play_radio,0.9062,0.9062,True
+9321,ur-PK,play,play_radio,اب ریڈیو چلاؤ,play_radio,0.9392,0.9392,True
+9323,ur-PK,play,play_radio,پینڈورا شروع,play_radio,0.8194,0.8194,True
+9326,ur-PK,play,play_radio,ابھی ریڈیو اسٹیشن ایک لگاؤ,play_radio,0.8827,0.8827,True
+9327,ur-PK,play,play_radio,براہ کرم ابھی ریڈیو پر ایم ڈائل کو اسکین کریں,email_sendemail,0.978,0.0017,False
+9330,ur-PK,play,play_radio,چلاؤ,email_sendemail,0.9418,0.0001,False
+9341,ur-PK,play,play_radio,pob بدل ریڈیو اسٹیشن,qa_factoid,0.9406,0.0071,False
+9352,ur-PK,play,play_radio,برائے مہربانی ریڈیو چلاؤ,play_radio,0.6745,0.6745,True
+9353,ur-PK,play,play_radio,ریڈیو چلاو کچھ موسیقی شروع کرو,play_music,0.9891,0.0005,False
+9358,ur-PK,play,play_radio,ریڈیو چینل آٹھ سو اناسی چلاؤ,cooking_recipe,0.9684,0.019,False
+9361,ur-PK,play,play_radio,ریڈیو سنو,email_sendemail,0.2867,0.1658,False
+9362,ur-PK,play,play_radio,ریڈیو چینلز,recommendation_events,0.7776,0.0117,False
+9363,ur-PK,play,play_radio,چلو ریڈیو پر ہٹ بجاتے ہیں,play_radio,0.6661,0.6661,True
+9364,ur-PK,play,play_radio,چلو موسیقی ہٹس سنیں,play_music,1.0,0.0,False
+9380,ur-PK,play,play_radio,میں ریڈیو پر ہاٹ ایک سو پانچ جانا چاہتا ہوں,qa_factoid,0.3361,0.051,False
+9384,ur-PK,play,play_radio,مست اسٹیشن چلاؤ,qa_factoid,0.9351,0.0008,False
+9394,ur-PK,play,play_radio,ہائے گوگل نیسٹ ہب میکس ریڈیو چلاؤ,qa_factoid,0.8947,0.0009,False
+9402,ur-PK,play,play_radio,مست ریڈیو اسٹیشن چلاؤ,qa_factoid,0.9964,0.0002,False
+9406,ur-PK,play,play_radio,ایف ایم ون او ون شروع کرو,qa_factoid,0.6235,0.0014,False
+9408,ur-PK,play,play_radio,ریڈیو چلاؤ,qa_factoid,0.9288,0.0269,False
+9426,ur-PK,play,play_radio,میں ایک اسٹیشن سننا چاہتا ہوں جو فرحان سعید چلاتا ہے,play_music,0.8002,0.0057,False
+9438,ur-PK,play,play_radio,تم ریپ گانا لگا سکتے ہو مجھے ریڈیو پر,play_music,0.9998,0.0,False
+9457,ur-PK,play,play_music,پہلی دفا گانا چلا دیں,play_music,1.0,1.0,True
+9460,ur-PK,play,play_music,انیسوی صوفی چلائیں,social_post,0.944,0.0046,False
+9471,ur-PK,play,play_radio,وطن سے متعلقہ موسیقی کا سٹیشن چلا دو,play_music,0.9991,0.0,False
+9494,ur-PK,play,play_radio,کیا آپ براہ کرم ایف. ایم. اسٹیشن چلا سکتے ہیں جو پاپ گانے بجاتا ہے,play_music,0.4777,0.0534,False
+9506,ur-PK,play,play_radio,اولے چلو مست اسٹیشن سنیں,play_music,0.9423,0.0035,False
+9507,ur-PK,play,play_radio,مہربانی کر کے ابھی چلائيں ریڈیو اسٹیشن امجد,calendar_remove,0.3174,0.0837,False
+9519,ur-PK,play,play_radio,کوئی قوالی ایف ایم اسٹیشن چلاؤ,qa_factoid,0.9999,0.0,False
+9520,ur-PK,play,play_radio,ریڈیو نشریات پر آخری ڈاکٹر کو چلاؤ,social_post,0.9755,0.0006,False
+9524,ur-PK,play,play_radio,جلوہ پر پروگرام لگاؤ,qa_factoid,0.5245,0.0047,False
+9528,ur-PK,play,play_radio,کچھ این. پی. آر. کو آن کریں اور انہیں میرے اسپیکر سے باہر چلائیں,transport_query,0.6479,0.0169,False
+9541,ur-PK,play,play_radio,میٹھا گانا سناؤ ریڈیو پر,play_music,0.9989,0.0,False
+9542,ur-PK,play,play_radio,مجھے ریڈیو پر تازہ ترین خبروں کا پروگرام سننے دو,news_query,0.8304,0.0005,False
+9545,ur-PK,play,play_radio,خوشحال کسان شو میں سننا چاہتی ہوں,social_post,0.7497,0.0085,False
+9554,ur-PK,play,play_radio,مست ایف. ایم. اٹھانوے پوائنٹ سات پر رومانوی موسیقی بجاؤ,play_music,0.9959,0.0001,False
+9561,ur-PK,play,play_radio,ریڈيو پر مست اسٹیشن چلاؤ,play_radio,0.8538,0.8538,True
+9562,ur-PK,play,play_radio,کیا تم برائے مہربانی میرے لیے اس پروگرام کو چلا سکتے ہو,qa_factoid,0.9988,0.0001,False
+9565,ur-PK,play,play_radio,ریڈیو پر لگاتار چلنے والے گانے چلاؤ,play_music,0.7248,0.2692,False
+9568,ur-PK,play,play_radio,علی ظفر کی لائیو کنسرٹ کی سیریز چلاؤ,cooking_recipe,0.2283,0.1093,False
+9569,ur-PK,play,play_radio,اوکے google مست اسٹیشن چلاؤ,cooking_recipe,0.3831,0.0061,False
+9577,ur-PK,play,play_radio,اسی اشاریہ چار اسٹیشن بدلو,calendar_remove,0.4576,0.0194,False
+9591,ur-PK,play,play_radio,مست اسٹیشن پر بھولی بسری یادیں پروگرام لگاؤ,social_post,0.9913,0.0007,False
+9592,ur-PK,play,play_podcasts,مردوں کے مسائل پر جیو پر احاطہ سرچ کریں,qa_definition,0.8628,0.003,False
+9594,ur-PK,play,play_radio,مست اسٹیشن ریڈیو کے گانے,play_music,0.998,0.0001,False
+9601,ur-PK,play,play_radio,رنگ ریڈیو چلاؤ,play_radio,0.3822,0.3822,True
+9617,ur-PK,play,play_radio,مجھے ایک سو ایک اعشاریہ نو پر آج صبح کا شو چلا دو,cooking_recipe,0.5328,0.0341,False
+9619,ur-PK,play,play_radio,گاڑی کے ریڈیو پر رفتہ رفتہ چلاؤ,play_radio,0.5626,0.5626,True
+9620,ur-PK,play,play_radio,کیا میں بیڈروم میں ریڈیو پر روشنی سن سکتا ہوں,iot_hue_lightoff,0.9778,0.0101,False
+9629,ur-PK,play,play_radio,کیا تم مہربانی کر کہ ریڈیو سننے میں میری مدد کر سکتے ہو,play_radio,0.9256,0.9256,True
+9630,ur-PK,play,play_radio,رنگ ریڈیو بجاؤ میرے لیئے,play_radio,0.5295,0.5295,True
+9632,ur-PK,play,play_radio,برائے کرم رییو,recommendation_events,0.3061,0.013,False
+9637,ur-PK,play,play_radio,ریڈیو پاکستان پر میری پلے لسٹ شروع کریں,recommendation_events,0.9053,0.0024,False
+9640,ur-PK,play,play_radio,spotify کھولو اور ورزش کھولو,cooking_recipe,0.3999,0.1017,False
+9651,ur-PK,play,play_radio,میرے پی. ایس. فور پر netflix چلاؤ,qa_factoid,0.8823,0.0047,False
+9656,ur-PK,play,play_music,مجھے اپنے اسپیکرز پر کوئی اونچے سر والا گانا سناؤ,play_music,0.9994,0.9994,True
+9706,ur-PK,play,play_music,جنگل بیلس چلاؤ,social_post,0.8138,0.0001,False
+9707,ur-PK,play,play_music,میرے آلات مواصلات کھولیں اور دل دل پاکستان چلا دیں,transport_query,0.9417,0.0013,False
+9738,ur-PK,play,play_music,برائے مہربانی کیا تم میرے لیے کلاسیکل موسیقی چلا سکتے ہو,qa_factoid,0.8985,0.0996,False
+9793,ur-PK,play,play_music,رومانوی گانے چلائیں,play_music,0.9999,0.9999,True
+9795,ur-PK,play,play_music,کچھ اس طرح دوبارہ شروع کرو,cooking_recipe,0.505,0.0401,False
+9912,ur-PK,cooking,cooking_recipe,یاسر مجھے انڈے کب تک ابالنے چاہئیں,qa_factoid,0.4671,0.0097,False
+9918,ur-PK,cooking,cooking_recipe,میں پیزا کیسے بناؤں,qa_factoid,0.544,0.4542,False
+9923,ur-PK,cooking,cooking_recipe,مجھے انڈے کو کب تک ابالنا چاہیے,qa_factoid,0.5987,0.003,False
+9924,ur-PK,cooking,cooking_recipe,مجھے اس کی ترکیب بتانا,qa_factoid,0.985,0.0107,False
+9930,ur-PK,cooking,cooking_recipe,مجھے انڈے کو کب تک ابالنا چاہیے,qa_factoid,0.5987,0.003,False
+9931,ur-PK,cooking,cooking_recipe,یاسر مجھے انڈہ کب تک ابالنا چاہیے,qa_factoid,0.5983,0.0062,False
+9940,ur-PK,cooking,cooking_recipe,میرے لیے چاکلیٹ کیک کی ترکیب تلاش کرو,cooking_recipe,1.0,1.0,True
+9941,ur-PK,cooking,cooking_recipe,میں مکھنی چکن کیسے پکاؤں,cooking_recipe,1.0,1.0,True
+9942,ur-PK,cooking,cooking_recipe,کیا سب ایک سرخ مخمل کیک میں جاتا ہے,cooking_recipe,0.9998,0.9998,True
+9943,ur-PK,cooking,cooking_recipe,سبزی کے چاول بنانے میں کتنا وقت لگتا ہے,cooking_recipe,0.9776,0.9776,True
+9952,ur-PK,cooking,cooking_recipe,مجھے کھانا پکانے کا سبق دیں,cooking_recipe,0.9999,0.9999,True
+9955,ur-PK,cooking,cooking_recipe,مجھے فرائیڈ چکن پکانے کی ویڈیو دکھائیں,cooking_recipe,0.7692,0.7692,True
+9956,ur-PK,cooking,cooking_recipe,میں مکھن کو کس چیز سے بدل سکتا ہوں,cooking_recipe,0.5656,0.5656,True
+9961,ur-PK,cooking,cooking_recipe,آلو بھوننے کے لیے تندور کا بہترین درجہ حرارت کیا ہے,cooking_recipe,0.502,0.502,True
+9962,ur-PK,cooking,cooking_recipe,مکرونی کو پکانے کا بہترین طریقہ کیا ہے,cooking_recipe,0.9979,0.9979,True
+9964,ur-PK,cooking,cooking_recipe,فوڈ پروسیسنگ کے بارے میں علم,qa_definition,0.9354,0.0021,False
+9966,ur-PK,cooking,cooking_recipe,پاستا پکانے کا سب سے آسان طریقہ کیا ہے,cooking_recipe,0.9998,0.9998,True
+9969,ur-PK,cooking,cooking_recipe,زعفران کی جگہ کون سا اجزا استعمال کیا جا سکتا ہے,qa_definition,0.4638,0.0143,False
+9971,ur-PK,cooking,cooking_recipe,حرارت کو بہتر طور پر تانبے کے پیندے والے برتن چلاتے ہیں یا لوہے کے برتن,qa_factoid,0.4469,0.3659,False
+9976,ur-PK,cooking,cooking_recipe,ارے روبوٹ مجھے کیک کے اجزاء کی فہرست دیں,cooking_recipe,0.9979,0.9979,True
+9977,ur-PK,cooking,cooking_recipe,براہ کرم انٹرنیٹ پر تلاش کریں اور پاکستانی کھانے پکانے کے لیے مناسب یوٹیوب ویڈیوز دکھائیں,play_podcasts,0.8935,0.0022,False
+9979,ur-PK,cooking,cooking_recipe,میرے لیے کچھ جئی پکانا,cooking_recipe,0.9997,0.9997,True
+9980,ur-PK,cooking,cooking_recipe,آج کا مینو کیا ہے اس میں کچھ ابلی ہوئی سبزیاں بھی شامل کریں,cooking_recipe,0.9908,0.9908,True
+9986,ur-PK,cooking,cooking_recipe,ابلنا,qa_factoid,0.995,0.0,False
+9994,ur-PK,cooking,cooking_recipe,کیا آپ مجھے بریانی پکانے کی ترکیب بتا سکتے ہیں,cooking_recipe,0.9987,0.9987,True
+10016,ur-PK,cooking,cooking_recipe,حلوہ پکانے کا طریقہ پانچ جملوں میں کیا ہے,cooking_recipe,1.0,1.0,True
+10019,ur-PK,cooking,cooking_recipe,براہ کرم مجھے بتائیں کہ میں بسکٹ کیسے بناؤں,qa_factoid,0.9974,0.0023,False
+10023,ur-PK,cooking,cooking_recipe,مجھے گوشت کا سالن بنانے کی کیا ضرورت ہے,cooking_recipe,0.9996,0.9996,True
+10027,ur-PK,cooking,cooking_recipe,کھانا بنانے کے لیے ہدایات,cooking_recipe,0.993,0.993,True
+10031,ur-PK,cooking,cooking_recipe,مجھے ایک ترکیب چاہیے جو میری خریداری کی فہرست میں موجود اجزاء سے ہو,cooking_recipe,0.4977,0.4977,True
+10038,ur-PK,cooking,cooking_recipe,مجھے کھانا پکانے کے لیے اچھے آئیڈیاز کی ضرورت ہے,cooking_recipe,0.4297,0.4297,True
+10045,ur-PK,cooking,cooking_recipe,کیا آپ مجھے گھر کے بنے ہوئے چکن نوڈل سوپ کی ترکیب بتا سکتے ہیں,qa_factoid,0.7201,0.0565,False
+10048,ur-PK,cooking,cooking_recipe,میں اسٹیک کیسے بناؤں,cooking_recipe,0.7763,0.7763,True
+10049,ur-PK,cooking,cooking_recipe,مجھے بتائیں کہ ایک پیزا کیسے بنایا جائے,cooking_recipe,0.9993,0.9993,True
+10053,ur-PK,cooking,cooking_recipe,میں پیزا کیسے بناؤں,qa_factoid,0.544,0.4542,False
+10055,ur-PK,cooking,cooking_recipe,فرائیڈ چکن کی ترکیب کیا ہے,qa_definition,0.9956,0.0021,False
+10061,ur-PK,cooking,cooking_recipe,مجھے رات کے کھانے کے لیے کیا بنانا چاہیے,cooking_recipe,0.9998,0.9998,True
+10072,ur-PK,cooking,cooking_recipe,تندور میں مرغ کے پکانے کے اوقات,cooking_recipe,0.9996,0.9996,True
+10076,ur-PK,cooking,cooking_recipe,کیا آپ بیکنگ سوڈا کو بیکنگ پاؤڈر سے بدل سکتے ہیں,qa_factoid,0.6457,0.0053,False
+10077,ur-PK,cooking,cooking_recipe,آج رات کے کھانے کی ترکیب تلاش کریں,cooking_recipe,1.0,1.0,True
+10078,ur-PK,cooking,cooking_recipe,مجھے رات کے کھانے کے لیے کیا پکانا چاہیے,cooking_recipe,0.9997,0.9997,True
+10080,ur-PK,cooking,cooking_recipe,آئیے ایک ساتھ میٹ بالز پکاتے ہیں,cooking_recipe,0.832,0.832,True
+10081,ur-PK,cooking,cooking_recipe,مجھے بتائیں کہ میٹ بالز کیسے پکائیں,cooking_recipe,0.9998,0.9998,True
+10090,ur-PK,cooking,cooking_recipe,کیا مجھے مچھلی کی ترکیب مل سکتی ہے,cooking_recipe,0.9993,0.9993,True
+10093,ur-PK,cooking,cooking_recipe,لزانیہ کیسے بنایا جاتا ہے,cooking_recipe,0.9905,0.9905,True
+10097,ur-PK,cooking,cooking_recipe,مجھے ایک چیس برگر چاہیے,qa_factoid,0.9772,0.0004,False
+10099,ur-PK,cooking,cooking_recipe,کیا آپ اسٹیک پکانا جانتے ہیں,cooking_recipe,0.9257,0.9257,True
+10100,ur-PK,cooking,cooking_recipe,کیا آپ بریانی کی ترکیب جانتے ہیں,qa_factoid,0.9807,0.0021,False
+10105,ur-PK,cooking,cooking_recipe,درمیانی نایاب حاصل کرنے کے لیے مجھے اسٹیک کو کب تک پکانا چاہیے,qa_factoid,0.4338,0.0258,False
+10107,ur-PK,cooking,cooking_recipe,مجھے سبزی پلاؤ کی ترکیب چاہیے,cooking_recipe,1.0,1.0,True
+10119,ur-PK,cooking,cooking_recipe,آپ پندرہ پاؤنڈ کا بریانی کب تک پکاتے ہیں,cooking_recipe,0.8892,0.8892,True
+10125,ur-PK,cooking,cooking_recipe,پکانا اور برائل میں کیا فرق ہے,qa_factoid,0.4762,0.066,False
+10132,ur-PK,cooking,cooking_recipe,مجھے اسٹیک کو درمیانے درجے تک کب تک پکانا چاہیے,iot_hue_lightoff,0.6636,0.0443,False
+10150,ur-PK,cooking,cooking_recipe,شوارما بنانے کا طریقہ,cooking_recipe,0.9989,0.9989,True
+10156,ur-PK,cooking,cooking_recipe,مجھے یہ جاننا ہے کہ کٹلٹس کیسے بنائی جائے,cooking_recipe,0.542,0.542,True
+10164,ur-PK,cooking,cooking_recipe,میں کب تک میکورونی پکاؤں,qa_factoid,0.8544,0.0639,False
+10166,ur-PK,cooking,cooking_recipe,ایپل پائی کی ترکیب تلاش کریں,cooking_recipe,0.8905,0.8905,True
+10171,ur-PK,cooking,cooking_recipe,مچھلی کے سوپ کی ترکیب کیا ہے,cooking_recipe,0.9883,0.9883,True
+10177,ur-PK,cooking,cooking_recipe,بریانی کیسے پکائیں,cooking_recipe,1.0,1.0,True
+10182,ur-PK,cooking,cooking_recipe,مجھے آملیٹ کے لیے کتنے انڈوں کی ضرورت ہے,qa_factoid,0.343,0.2301,False
+10197,ur-PK,cooking,cooking_recipe,مجھے اسپیگہیٹی کی بہترین ترکیب دکھانا,cooking_recipe,0.964,0.964,True
+10206,ur-PK,cooking,cooking_recipe,چاول کیسے تیار ہوتے ہیں,cooking_recipe,1.0,1.0,True
+10213,ur-PK,cooking,cooking_recipe,مشہور بریانی کی ترکیبوں کی فہرست,lists_query,0.9561,0.0037,False
+10214,ur-PK,cooking,cooking_recipe,ترکیبیں جو ایک گھنٹے میں پکائی جا سکتی ہیں,cooking_recipe,0.9929,0.9929,True
+10216,ur-PK,cooking,cooking_recipe,مفنز کے لیے بیک ویئر خریدنے کے لیے ویب پر تلاش کریں,recommendation_events,0.5676,0.0025,False
+10217,ur-PK,cooking,cooking_recipe,cookingforu ایپلی کیشن میں کدو کی ترکیب تلاش کریں,cooking_recipe,1.0,1.0,True
+10220,ur-PK,cooking,cooking_recipe,مجھے ایک بڑا کیک بنانے کے لیے کن چیزوں کی ضرورت ہے,cooking_recipe,1.0,1.0,True
+10224,ur-PK,cooking,cooking_recipe,یہ ذائقہ ہونا چاہئے,qa_factoid,0.9939,0.0051,False
+10226,ur-PK,cooking,cooking_recipe,مجھے پاستا بنانے کی ترکیب بتائیں,cooking_recipe,0.9998,0.9998,True
+10426,ur-PK,lists,lists_query,ڈائری میں اور کیا غائب ہے,qa_factoid,0.8949,0.0065,False
+10427,ur-PK,lists,lists_remove,براہ کرم میری خریداری کی فہرست صاف کریں,lists_remove,1.0,1.0,True
+10430,ur-PK,lists,lists_remove,فہرست میں پہلی چیز کو حذف کریں,lists_remove,0.765,0.765,True
+10433,ur-PK,lists,lists_remove,میری کام کی فہرست کو ہٹا دیں,lists_remove,0.9999,0.9999,True
+10440,ur-PK,lists,lists_query,میری فہرست میں کوئی خصوصی تقریبات,qa_factoid,0.8621,0.0001,False
+10442,ur-PK,lists,lists_remove,میری فہرست سے واقعات کو ہٹا دیں,lists_remove,0.9981,0.9981,True
+10444,ur-PK,lists,lists_remove,آئٹم کو حذف کریں,qa_factoid,0.6879,0.0153,False
+10451,ur-PK,lists,lists_query,میں آج کیا کرنے جا رہا ہوں,cooking_recipe,0.3717,0.042,False
+10455,ur-PK,lists,lists_query,میری کرنے کی فہرست میں کیا ہے,cooking_recipe,0.8103,0.0869,False
+10462,ur-PK,lists,lists_remove,فہرست سے چھٹکارا حاصل کریں,qa_factoid,0.3901,0.3414,False
+10493,ur-PK,lists,lists_query,میری کرنے کی فہرست میں کیا ہے,cooking_recipe,0.8103,0.0869,False
+10494,ur-PK,lists,lists_remove,تحریر کے سامان سے پینسل کو ہٹا دیں,calendar_remove,0.5197,0.323,False
+10497,ur-PK,qa,qa_factoid,کیا میرے پاس لاہور میں پانچ ستارے والے سرائے ہوٹلوں کی فہرست ہے,lists_query,0.9884,0.0002,False
+10508,ur-PK,lists,lists_remove,فہرست آئٹم کو ہٹا دیں,lists_remove,0.9851,0.9851,True
+10512,ur-PK,lists,lists_query,میرے استفسار پر رہ جانے والی ہر چیز کی فہرست بنائیں,lists_remove,0.8881,0.1085,False
+10523,ur-PK,lists,lists_remove,میرے پرانے انگریزی گانوں کی فہرست پلے لسٹ سے حذف کریں,lists_remove,0.9932,0.9932,True
+10525,ur-PK,lists,lists_remove,میرے کیلنڈر پر میری کار کی ادائیگی کو ہٹا دیں,calendar_remove,0.7867,0.1472,False
+10527,ur-PK,lists,lists_remove,فہرست کو ہٹا دیں,lists_remove,0.8916,0.8916,True
+10534,ur-PK,lists,lists_query,آج کی فھرست کس طرح کرنی ہے,cooking_recipe,0.5297,0.0012,False
+10538,ur-PK,lists,lists_query,براہ کرم میری خریداری کی فہرست کو دہرائیں,lists_remove,1.0,0.0,False
+10565,ur-PK,lists,lists_remove,تمام فہرستیں حذف کریں,lists_remove,1.0,1.0,True
+10568,ur-PK,lists,lists_remove,پرانی موسیقی کی فہرست کو ہٹا دیں,lists_remove,0.9856,0.9856,True
+10570,ur-PK,lists,lists_query,میری کرنے کی فہرست چیک کریں,lists_query,0.5244,0.5244,True
+10571,ur-PK,lists,lists_query,android,iot_hue_lightoff,0.2324,0.0685,False
+10577,ur-PK,lists,lists_query,مجھے میری تمام فھرستیں دیں,social_post,0.9502,0.0004,False
+10579,ur-PK,lists,lists_remove,میرے مقامات کی فہرست کو دوبارہ ترتیب دیں,lists_remove,0.9859,0.9859,True
+10588,ur-PK,lists,lists_query,مجھے فہرست کے مواد دکھائیں,lists_query,0.4488,0.4488,True
+10590,ur-PK,lists,lists_remove,فہرست سے دوسری قطار کو ہٹا دیں,lists_remove,0.7035,0.7035,True
+10655,ur-PK,lists,lists_remove,جشن کا وقت نامی فہرست کو ہٹا دیں,lists_remove,0.951,0.951,True
+10667,ur-PK,lists,lists_query,فہرست کے نظام الاوقات کی تلاوت کریں,iot_hue_lightoff,0.2369,0.202,False
+10673,ur-PK,lists,lists_remove,براہ کرم درج ذیل فہرست کو ہٹا دیں,lists_remove,1.0,1.0,True
+10674,ur-PK,lists,lists_remove,موجودہ فہرست کو ردی کی ٹوکری میں ڈالیں,lists_remove,0.9995,0.9995,True
+10679,ur-PK,lists,lists_query,آج میرے کرنے کی فہرست میں کیا ہے,recommendation_events,0.7717,0.089,False
+10684,ur-PK,lists,lists_query,میں نے کن فہرست سے استفسار کیا ہے,lists_remove,0.7527,0.0111,False
+10687,ur-PK,lists,lists_remove,اگر شو کا واقعہ ہے تو اس کو ہٹا دیں,lists_remove,0.3398,0.3398,True
+10696,ur-PK,lists,lists_remove,تبدیل کریں,qa_factoid,0.9272,0.0068,False
+10699,ur-PK,lists,lists_query,فہرست میں موجود اشیاء کے بارے میں مجھے مطلع کریں,lists_query,0.6865,0.6865,True
+10718,ur-PK,lists,lists_remove,کیا آپ اس آئٹم کو فہرست سے ہٹا سکتے ہیں,lists_remove,0.5099,0.5099,True
+10731,ur-PK,lists,lists_query,میری فہرست میں کیا ہے پڑھیں,lists_query,0.9751,0.9751,True
+10743,ur-PK,lists,lists_remove,اس چیز کو ہٹا دیں,qa_factoid,0.8735,0.0628,False
+10753,ur-PK,lists,lists_query,میں نے پہلے ہی walmart کی فہرست میں کیا رکھا ہے,lists_query,0.3574,0.3574,True
+10755,ur-PK,lists,lists_remove,براہ کرم میری کرنے کی فہرست کو پھینک دیں,lists_remove,0.9831,0.9831,True
+10756,ur-PK,lists,lists_remove,خریداری کی فہرست کو صاف کریں,lists_remove,0.9991,0.9991,True
+10757,ur-PK,lists,lists_query,میری خریداری کی فہرست میں کون سی چیزیں ہیں,lists_query,0.9931,0.9931,True
+10759,ur-PK,lists,lists_query,مجھے خریداری کے لیے میری فہرست پڑھیں,lists_query,0.9918,0.9918,True
+10760,ur-PK,lists,lists_query,وہ لسٹ بتاؤ جو میں نے دو دن پہلے لکھی تھی,lists_remove,0.9587,0.002,False
+10770,ur-PK,lists,lists_remove,میری خریداری کی فہرست سے اناج کو ہٹا دیں,lists_remove,0.9998,0.9998,True
+10772,ur-PK,calendar,calendar_remove,آج کے شیڈول سے میری آج کی دانتوں کے ڈاکٹر کی طے شدہ ملاقات کو ہٹا دیں,calendar_remove,0.7177,0.7177,True
+10776,ur-PK,lists,lists_query,کیا میرے پاس گروسریفہرست تیار ہے,qa_factoid,0.743,0.002,False
+10786,ur-PK,lists,lists_remove,آج کے لیے میری سرگرمیوں کی فہرست صاف کریں,lists_remove,0.9977,0.9977,True
+10790,ur-PK,lists,lists_remove,ختم کرو آئٹم فہرست سے,lists_remove,0.6482,0.6482,True
+10804,ur-PK,lists,lists_query,میری پنساری کا سامان والی فہرست پڑھیں,lists_query,0.7706,0.7706,True
+10805,ur-PK,lists,lists_query,براہ کرم مجھے وہ فہرست دکھائیں جو میرے پاس ہے,lists_remove,0.9946,0.0041,False
+10808,ur-PK,lists,lists_remove,درج آخری آئٹم کو حذف کریں,qa_factoid,0.958,0.0042,False
+10824,ur-PK,lists,lists_remove,علی فہرست صاف کریں,lists_remove,0.9909,0.9909,True
+10825,ur-PK,lists,lists_remove,فہرست صاف کریں,lists_remove,0.7652,0.7652,True
+10827,ur-PK,lists,lists_remove,سودا سلف کی فہرست کو حذف کریں,lists_remove,1.0,1.0,True
+10828,ur-PK,lists,lists_remove,سب مٹا دو,lists_remove,0.3487,0.3487,True
+10832,ur-PK,calendar,calendar_query,اولی میں نے آگے کیا منصوبہ بنایا ہے,email_query,0.8416,0.0001,False
+10843,ur-PK,lists,lists_remove,میری گروسری فہرست سے دودھ نکال دیں,cooking_recipe,0.7166,0.2686,False
+10846,ur-PK,lists,lists_remove,میرے پاس ابھی اتنے پیسے نہیں ہیں کہ نینٹینڈو سوئچ خرید سکوں کیا آپ اسے میری ایمیزون خواہش کی فہرست سے ہٹا سکتے ہیں,qa_factoid,0.9895,0.0004,False
+10848,ur-PK,lists,lists_remove,اس فہرست کو دوسروں سے ہٹا دیں,lists_remove,1.0,1.0,True
+10851,ur-PK,lists,lists_query,میری دستیاب فہرست کیا ہیں,lists_query,0.9975,0.9975,True
+10853,ur-PK,lists,lists_remove,اسے وہاں سے اتار دو,lists_remove,0.2435,0.2435,True
+10855,ur-PK,lists,lists_query,میری فہرست چیک کرنے کی ضرورت ہے,lists_remove,0.9969,0.0018,False
+10868,ur-PK,lists,lists_query,علی کیا فہرست میں باقی ہے کچھ بھی,lists_remove,0.9985,0.0002,False
+10887,ur-PK,lists,lists_remove,میری فہرست کو حذف کریں,lists_remove,1.0,1.0,True
+10895,ur-PK,lists,lists_remove,میری فہرست سے آئٹم کو حذف کریں,lists_remove,0.9876,0.9876,True
+10909,ur-PK,lists,lists_query,علی مجھے میری فہرستیں پڑھیں,lists_query,0.9265,0.9265,True
+10927,ur-PK,lists,lists_query,مجھے میری فہرست سننے دو,lists_remove,0.9364,0.0042,False
+10931,ur-PK,lists,lists_query,میری پلے لسٹ میں کیا ہے,lists_query,0.5973,0.5973,True
+10936,ur-PK,lists,lists_remove,براہ کرم میرے پسندیدہ البمز کی فہرست کو ہٹا دیں,lists_remove,0.9963,0.9963,True
+10954,ur-PK,lists,lists_query,میرے رابطوں میں کتنی فہرستیں ہیں,lists_query,0.93,0.93,True
+10956,ur-PK,lists,lists_query,میرے رابطوں میں کون سے گروپ درج ہیں,social_post,0.9441,0.0088,False
+10957,ur-PK,lists,lists_query,مجھے یاد دلائیں کہ میرے پاس کتنے لوگ ہیں,social_post,0.7333,0.0048,False
+10960,ur-PK,lists,lists_remove,فہرست سے اس کو کھرچیں,lists_remove,0.9977,0.9977,True
+10970,ur-PK,lists,lists_remove,آخری جملہ حذف کریں,qa_factoid,0.9264,0.039,False
+10979,ur-PK,lists,lists_query,ابھی آپ کی فہرست میں کیا ہے,lists_remove,0.5784,0.1755,False
+10981,ur-PK,lists,lists_query,مجھے فہرست بتائیں,lists_remove,0.9983,0.0009,False
+10985,ur-PK,lists,lists_remove,اس ہفتے ایسا کرنے کی میرے کام کو حذف کریں,calendar_remove,0.7263,0.1326,False
+10990,ur-PK,lists,lists_remove,میرے کرنے کے کام کی فہرست میں سے باورچی خانہ کو پوچا لگانا ہٹا دیں,lists_remove,0.9993,0.9993,True
+10999,ur-PK,lists,lists_query,فہرست کہو,qa_factoid,0.9974,0.0001,False
+11023,ur-PK,lists,lists_remove,خریداری کی فہرست کو ہٹا دیں,lists_remove,1.0,1.0,True
+11024,ur-PK,lists,lists_remove,کرنے کی فہرست کو حذف کریں,lists_remove,1.0,1.0,True
+11053,ur-PK,lists,lists_remove,چھٹکارا حاصل کرو گوگل فہرست سے,qa_factoid,0.9999,0.0,False
+11075,ur-PK,lists,lists_query,میرے پاس کتنی فھرستیں ہیں,social_post,0.3244,0.0904,False
+11081,ur-PK,lists,lists_query,میری نوٹ بک میں کون سی فہرستیں ہیں,lists_query,0.9991,0.9991,True
+11085,ur-PK,lists,lists_remove,خریداری کی فہرست سے دودھ نکال دیں,lists_remove,0.9988,0.9988,True
+11098,ur-PK,lists,lists_remove,انیس سو نوے سے ٹیکس کی فہرست سے چھٹکارا حاصل کریں,lists_remove,0.3286,0.3286,True
+11107,ur-PK,lists,lists_query,میری موجودہ فہرست کیا ہے,lists_query,0.9676,0.9676,True
+11124,ur-PK,lists,lists_query,میرے کام کی فہرست میں اشیاء کی فہرست بنائیں,lists_remove,0.9817,0.0155,False
+11125,ur-PK,lists,lists_query,مجھے خریداری کی فرمائش پر تفصیلات دیں,email_query,0.9991,0.0,False
+11133,ur-PK,lists,lists_remove,مہمانوں کی جو فھرست میں نے پچھلے ہفتے بنائی تھی اسے ہٹا دیں,lists_remove,0.8345,0.8345,True
+11154,ur-PK,lists,lists_query,حالیہ کرنے کی فہرست چیک کریں,lists_remove,0.6227,0.213,False
+11162,ur-PK,lists,lists_remove,میں فہرست سے سیب کو ہٹانا چاہتا ہوں,lists_remove,0.9998,0.9998,True
+11164,ur-PK,lists,lists_remove,فہرست سے دور,qa_factoid,0.4903,0.3237,False
+11166,ur-PK,lists,lists_query,کھولیں google keep,email_query,0.9802,0.0,False
+11168,ur-PK,lists,lists_remove,میری فہرست کو ردی کی ٹوکری میں ڈالیں,lists_remove,0.9985,0.9985,True
+11172,ur-PK,lists,lists_query,مجھے تمام دستیاب فہرست دیں,lists_remove,0.9183,0.0785,False
+11174,ur-PK,lists,lists_query,اس آلے پر تمام فہرستیں درج کریں,lists_remove,0.99,0.0083,False
+11180,ur-PK,calendar,calendar_query,میری پارٹی کی دعوت,social_post,0.7299,0.0032,False
+11186,ur-PK,lists,lists_query,میرے پاس میرے کپڑوں کی فہرست ہے,lists_query,0.9866,0.9866,True
+11189,ur-PK,lists,lists_query,فہرست تلاش کریں,lists_query,0.8691,0.8691,True
+11204,ur-PK,lists,lists_query,گھر کی اہم معلومات,email_query,0.5849,0.1697,False
+11215,ur-PK,lists,lists_query,فہرست,qa_factoid,0.5875,0.279,False
+11250,ur-PK,lists,lists_query,میری گروسری لسٹ مجھے واپس پڑھیں,lists_remove,0.9149,0.0101,False
+11257,ur-PK,play,play_podcasts,pob اگلی ریکا ڈنگ چلائیں,qa_definition,0.4169,0.0089,False
+11259,ur-PK,play,play_podcasts,چلے جاؤ اگلی پوڈکاسٹ پر,weather_query,0.4602,0.0045,False
+11261,ur-PK,play,play_podcasts,اگلا,qa_factoid,0.9775,0.0001,False
+11265,ur-PK,play,play_podcasts,اگلا ایک کھیلیں,iot_hue_lightoff,0.9997,0.0,False
+11266,ur-PK,play,play_podcasts,میری لائبریری سے ایک پوڈ کاسٹ چلاؤ,transport_query,0.4068,0.0162,False
+11267,ur-PK,play,play_podcasts,اگلی دل لگی کے بارے میں دلچسپ پوڈکاسٹ تلاش کرو,recommendation_events,0.5976,0.1503,False
+11270,ur-PK,play,play_podcasts,اگلی پوڈکاسٹ چلائیں,qa_factoid,0.8542,0.0035,False
+11272,ur-PK,play,play_podcasts,اگلا چلاؤ,qa_factoid,0.9997,0.0,False
+11279,ur-PK,play,play_podcasts,صوتی خطاب پے جاؤ اور اردو آواز کی اگلی قسط چلاؤ,play_music,0.9862,0.0018,False
+11286,ur-PK,play,play_podcasts,پوڈ کاسٹ میں جوان تنوں چلائیں,play_podcasts,0.5824,0.5824,True
+11296,ur-PK,play,play_podcasts,میرے تمام پوڈ کاسٹ اپ لوڈ کریں,iot_hue_lightoff,0.9709,0.001,False
+11302,ur-PK,play,play_podcasts,سنو پاکستان میں پوڈ کاسٹ چلائین,qa_factoid,0.9369,0.0012,False
+11303,ur-PK,play,play_podcasts,اگلی غمگین راتیں پوڈ کاسٹ چلاؤ,play_radio,0.1155,0.0419,False
+11306,ur-PK,play,play_podcasts,وہ پوڈ کاسٹ چلائیں کل کی بات سن رہا ہوں,play_radio,0.5283,0.0285,False
+11318,ur-PK,play,play_podcasts,پوڈ کاسٹ کی اگلی قسط چلائیں,cooking_recipe,0.1966,0.0414,False
+11322,ur-PK,play,play_podcasts,آج کے سب سے بہترین پوڈکاسٹ کون سے ہیں,qa_factoid,0.9727,0.0002,False
+11328,ur-PK,play,play_podcasts,میرے لیئے پوڈ کاسٹ میں پیام صبح چلائیں,email_sendemail,0.9547,0.0,False
+11331,ur-PK,play,play_podcasts,مجھے پوڈکاسٹ قوالی جن کے درجے اچھے ہوں دیکھائیں,qa_factoid,0.9674,0.0001,False
+11335,ur-PK,play,play_music,دھیمی موسیقی کے سارے گانے پلے اور شفل کرو,play_music,1.0,1.0,True
+11339,ur-PK,play,play_podcasts,میرا سب سے زیادہ دیکھا جانے والا پوڈ کاسٹ چلاؤ,social_post,0.9963,0.0001,False
+11340,ur-PK,play,play_podcasts,کیا علی کے پاس نیا پوڈ کاسٹ ہے,qa_factoid,0.9303,0.0025,False
+11341,ur-PK,play,play_podcasts,صوتی خطاب کے تازہ ترین مورو تلاش کریں,recommendation_events,0.925,0.0006,False
+11343,ur-PK,play,play_podcasts,میں ہاری پیا کی اگلی قسط پر جا ئیں,cooking_recipe,0.4419,0.0165,False
+11345,ur-PK,play,play_podcasts,پوڈ کاسٹ کی اگلی قسط چلائیں,cooking_recipe,0.1966,0.0414,False
+11349,ur-PK,play,play_podcasts,اولے وہ پوڈ کاسٹ چلاؤ جو میں نے پچھلی رات شروع کی,play_radio,0.5291,0.0121,False
+11353,ur-PK,play,play_podcasts,مجھے پوڈکاسٹس دکھاؤ,qa_factoid,0.4148,0.0085,False
+11361,ur-PK,play,play_podcasts,اس شادی خصوصی پوڈ کاسٹ چلائین,qa_factoid,0.3091,0.0261,False
+11366,ur-PK,play,play_podcasts,پوڈ کوسٹ کی پچھلی قسط پر واپس جائیں,calendar_remove,0.3254,0.0271,False
+11368,ur-PK,play,play_podcasts,احمد یوٹیوب لگاؤ,qa_factoid,0.7177,0.0,False
+11376,ur-PK,play,play_podcasts,میں پوڈ کاسٹ سننا چاہتا ہوں,play_podcasts,0.7561,0.7561,True
+11384,ur-PK,play,play_podcasts,کیا آپ براہ کرم انٹرنیٹ پر دستیاب میری پوڈ کاسٹ فائل ڈاؤن لوڈ کریں اور اسے ایک بار چلائیں,iot_hue_lightoff,0.5319,0.0318,False
+11409,ur-PK,play,play_podcasts,براہ کرم اگلے پوڈ کاسٹ ایپی سوڈ پر جائیں,play_radio,0.1046,0.044,False
+11417,ur-PK,play,play_podcasts,اگلی قسط شروع کرو,qa_factoid,0.9971,0.0001,False
+11418,ur-PK,play,play_podcasts,تیمور معین کا تازہ ترین صوتی خطاب چلاؤ,play_podcasts,0.6672,0.6672,True
+11420,ur-PK,play,play_podcasts,میری تازہ ترین پوڈ کاسٹ چلانا شروع کرو,cooking_recipe,0.6293,0.0048,False
+11423,ur-PK,play,play_podcasts,تیس سیکنڈ پیچھے جاوؑ,qa_factoid,0.636,0.006,False
+11424,ur-PK,play,play_podcasts,جیو چینل,qa_factoid,0.8299,0.0001,False
+11426,ur-PK,lists,lists_query,سب سے زیادہ دیکھی جانے والی فہرست,lists_query,0.9804,0.9804,True
+11427,ur-PK,play,play_podcasts,گلزار شروع کرو,iot_hue_lightoff,0.4487,0.0013,False
+11437,ur-PK,play,play_podcasts,برائے مہربانی میرے لیے پوڈ کاسٹ چلاؤ,qa_factoid,0.6243,0.0082,False
+11438,ur-PK,play,play_podcasts,برائے مہربانی پوڈکاسٹ کی اگلی قسط پر جائیں,recommendation_events,0.1524,0.0293,False
+11442,ur-PK,play,play_podcasts,مہربانی کر کے نازیہ حسن کا تازہ ترین پوڈ کاسٹ چلاؤ,qa_factoid,0.9915,0.0002,False
+11451,ur-PK,play,play_podcasts,میں پیام صبح کی حالیہ ترین پوڈ کاسٹ سننا چاہتا ہوں,play_podcasts,0.4901,0.4901,True
+11453,ur-PK,play,play_podcasts,رنگ ریڈیو پر صوتی خطاب شروع کریں,play_music,0.9346,0.0024,False
+11455,ur-PK,play,play_podcasts,چلنا ہے اگلے سیکشن پر,weather_query,0.5656,0.0073,False
+11458,ur-PK,play,play_podcasts,اگلی پو ڈ کاسٹ آگے بڑھیں,qa_factoid,0.6607,0.0054,False
+11459,ur-PK,play,play_podcasts,واپس جاوؑ اور آخری قسط لگاؤ یوٹیوب میں,social_post,0.7245,0.0123,False
+11460,ur-PK,play,play_podcasts,میں کھیل کا پوڈ کاسٹ سننا چاہتا ہوں,play_music,0.91,0.0188,False
+11467,ur-PK,play,play_podcasts,پیام صبح کی حالیہ ترین پوڈ کاسٹ چلاؤ,play_radio,0.4516,0.0643,False
+11470,ur-PK,play,play_podcasts,برائے کرم میرے پسند پوڈ کاسٹ چلائین,play_radio,0.3272,0.0141,False
+11474,ur-PK,play,play_podcasts,پو ڈ کاسٹ کا سلسلہ دوبارہ شروع کریں,qa_factoid,0.1643,0.038,False
+11476,ur-PK,play,play_podcasts,پرانی پوڈ کاسٹ چلائیں,play_radio,0.35,0.0141,False
+11483,ur-PK,play,play_podcasts,شروع کروع مست ایف ایم,email_sendemail,0.8295,0.0001,False
+11490,ur-PK,play,play_podcasts,اگلا شو یوٹیوب پر لگاؤ,qa_factoid,0.6265,0.0008,False
+11502,ur-PK,play,play_podcasts,اگلا بٹن,email_query,0.4587,0.013,False
+11505,ur-PK,play,play_podcasts,میری آخری چلائی گئی پوڈکاسٹ دوبارہ چلاؤ,play_radio,0.1276,0.0386,False
+11514,ur-PK,play,play_podcasts,اولی کیا ہم پوڈ کاسٹ جواب دیں سن سکتے ہیں,email_query,0.651,0.0005,False
+11515,ur-PK,play,play_podcasts,چلو شاعر نامہ سنتے ہیں,play_music,1.0,0.0,False
+11525,ur-PK,play,play_podcasts,میں دستیاب ہونے والی اگلی پوڈکاسٹ دیکھنا چاہوں گا,qa_factoid,0.289,0.0633,False
+11529,ur-PK,play,play_podcasts,ہائے فہرست میں سے میرا پسندیدہ پوڈکاسٹ چلائیں,recommendation_events,0.9115,0.0017,False
+11536,ur-PK,play,play_podcasts,پلے لسٹ میں پسندیدہ پوڈ کاسٹ شامل کرو اور شروع کرو,recommendation_events,0.7798,0.0061,False
+11539,ur-PK,play,play_podcasts,اگلا پوڈ کاسٹ شروع کرو,cooking_recipe,0.3035,0.0593,False
+11546,ur-PK,play,play_podcasts,پچھلے ہفتے کے سارے پیام صبح چلاؤ,lists_remove,0.8684,0.0031,False
+11554,ur-PK,play,play_podcasts,پوڈکاسٹ میں چاہتی ہوں تم چلاؤ,social_post,0.7939,0.0011,False
+11563,ur-PK,recommendation,recommendation_events,میں ملتان میں کیا کر سکتا ہوں,cooking_recipe,0.9296,0.0065,False
+11570,ur-PK,recommendation,recommendation_events,میرے قصبہ میں کیا ہو رہا ہے,social_post,0.9908,0.0003,False
+11582,ur-PK,recommendation,recommendation_events,کیا شملا کے آس پاس کوئی مل گیا پر کوئی چیز ہو رہی ہے,qa_factoid,0.4135,0.0187,False
+11585,ur-PK,recommendation,recommendation_events,سندھ میں کوئی ثقافتی تقاریب,qa_factoid,0.988,0.0,False
+11598,ur-PK,recommendation,recommendation_events,براہ کرم مجھے بتائیں کہ میرے آبائی شہر کتے کی نمائش کے واقعات ہونے والے ہیں,social_post,0.9018,0.0106,False
+11600,ur-PK,recommendation,recommendation_events,میں آج رات پشاور کے تھیٹر میں کون سی فلم دیکھ سکتا ہوں,weather_query,0.4095,0.0097,False
+11610,ur-PK,recommendation,recommendation_events,مجھے ابھی شہر میں ہونے والے سرکس کے شوز کی فہرست دو,lists_query,0.7549,0.007,False
+11612,ur-PK,recommendation,recommendation_events,ڈفینس میں کیا ہتھیاروں کے شو ہوتے ہیں,play_podcasts,0.4102,0.042,False
+11616,ur-PK,recommendation,recommendation_events,کیا آج رات صدر میں کوئی پروگرام ہو رہا ہے,social_post,0.3117,0.0145,False
+11643,ur-PK,recommendation,recommendation_events,کیا تقریبات جلد ہو رہی ہیں,weather_query,0.807,0.0021,False
+11644,ur-PK,recommendation,recommendation_events,مجھے ڈفینس کی تقریبات دکھائیں,qa_factoid,0.9198,0.0013,False
+11650,ur-PK,recommendation,recommendation_events,علی ظفر شنو کی آنکھ میں اک نشا ہے بینڈ شنو کی آنکھ میں اک نشا ہے,email_query,0.9615,0.0006,False
+11681,ur-PK,recommendation,recommendation_events,برائے مہربانی مجھے میرے قریب ہی میراتھن دکھاؤ,qa_factoid,0.9886,0.0005,False
+11685,ur-PK,recommendation,recommendation_events,اگر آپ مجھے ہمارے علاقے میں ہونے والی تقریبات کی تازہ کاری کریں تو مجھے خوشی ہوگی,weather_query,0.3379,0.0275,False
+11705,ur-PK,recommendation,recommendation_events,مجھے کلفٹن میں پینٹنگ کی نمائش دکھاؤ,cooking_recipe,0.4144,0.0114,False
+11720,ur-PK,recommendation,recommendation_events,تیراکی,qa_factoid,0.9144,0.0001,False
+11767,ur-PK,recommendation,recommendation_events,اولے اس ہفتے کے آخر میں بحریہ ٹاؤن میں کیا ہو رہا ہے,email_query,0.407,0.003,False
+11770,ur-PK,recommendation,recommendation_events,کلفٹن میں اس ہفتے کے آخر میں کوئی بھی واقعہ,qa_factoid,0.4387,0.0182,False
+11782,ur-PK,recommendation,recommendation_events,کیا اس ہفتے کے آخر میں میرے قریب کوئی خاص واقعات ہیں,qa_factoid,0.997,0.0001,False
+11798,ur-PK,recommendation,recommendation_events,لائبریری میں اگلی تقریب کیا ہے,qa_factoid,0.9997,0.0,False
+11827,ur-PK,recommendation,recommendation_events,میں آج رات کہاں جا سکتا ہوں,weather_query,0.4354,0.0092,False
+11839,ur-PK,recommendation,recommendation_events,میرے ارد گرد کیا ہو رہا ہے,social_post,0.799,0.0104,False
+11841,ur-PK,recommendation,recommendation_events,کیا اس علاقے میں کوئی دستکاری کی نمائش ہو رہی ہے,social_post,0.3857,0.0328,False
+11844,ur-PK,recommendation,recommendation_events,کلفٹن کے علاقے میں کچھ بھی دلچسپ ہو رہا ہے,social_post,0.367,0.0473,False
+11845,ur-PK,recommendation,recommendation_events,اسامہ نے مجھے ساحل سمندر کے قریب علاقے میں سالگرہ کی تقریب کے بارے میں آگاہ کیا,social_post,0.8441,0.0052,False
+11860,ur-PK,recommendation,recommendation_events,مجھے مقامی تقریبات بتائیں,qa_factoid,1.0,0.0,False
+11867,ur-PK,recommendation,recommendation_events,کیا کل پشاور میں کوئی کھیلوں کی تقریب ہے,qa_factoid,0.9998,0.0,False
+11875,ur-PK,recommendation,recommendation_events,کیا اس علاقے میں کھانے کا میلہ ہے,cooking_recipe,0.9967,0.0003,False
+11904,ur-PK,recommendation,recommendation_events,اس ہفتے کے آخر میں یہاں کیا ہو رہا ہے,news_query,0.2501,0.024,False
+11905,ur-PK,recommendation,recommendation_events,اولے مجھے میرے علاقے میں اس ہفتے کے آخر میں ہونے والی سرگرمیوں کے بارے میں بتاؤ,email_query,0.9973,0.0,False
+11911,ur-PK,recommendation,recommendation_events,علاقے میں اس ہفتے کے آخر میں کچھ بھی اچھا ہو رہا ہے,weather_query,0.8247,0.0211,False
+11916,ur-PK,recommendation,recommendation_events,آس پاس کے کچھ تھیم پارکز کون سے ہیں,social_post,0.9845,0.0041,False
+11969,ur-PK,recommendation,recommendation_events,کیا آس پاس کچھ خاص ہو رہا ہے,social_post,0.9374,0.0026,False
+11999,ur-PK,recommendation,recommendation_events,مجھے میرے شہر میں آج کے تمام واقعات بتائیں,qa_factoid,0.9754,0.0004,False
+12008,ur-PK,recommendation,recommendation_events,کیا آج لاہور میں کوئی تفریحی پروگرام ہیں,social_post,0.5948,0.0046,False
+12054,ur-PK,recommendation,recommendation_events,قصبے کے اردگرد کیا ہو رہا ہے,qa_factoid,0.6479,0.0096,False
+12070,ur-PK,recommendation,recommendation_events,ملینیم سٹی مال کب کھلتا ہے,qa_factoid,0.9887,0.0001,False
+12073,ur-PK,recommendation,recommendation_events,عام موجودہ واقعات سے رجوع کرو,qa_factoid,0.7533,0.0303,False
+12098,ur-PK,recommendation,recommendation_events,مجھے قریب میں موسیقی کی تقریبات دکھاؤ,qa_factoid,0.9998,0.0,False
+12189,ur-PK,transport,transport_query,میں ٹکٹ کے لیے ریل گاڑی اسٹیشن کیسے جاؤں,transport_query,0.64,0.64,True
+12240,ur-PK,transport,transport_query,پانچ بجے میرے گھر کے سفر پر ٹریفک کیسی ہوتی ہے,weather_query,0.5938,0.0128,False
+12245,ur-PK,transport,transport_query,کیماڑی سے برنس روڈ کے لئے اگلی ٹرین کب ہے,qa_factoid,0.3433,0.104,False
+12251,ur-PK,transport,transport_query,مجھے کینٹ کی منزل تک مقامی ریل گاڑی کا وقت بتا دیں,transport_query,0.5285,0.5285,True
+12252,ur-PK,transport,transport_query,واہ کینٹ جانے والی ریل گاڑیان کس وقت روانہ ہونگی,qa_factoid,0.5939,0.0029,False
+12261,ur-PK,transport,transport_query,مجھے اگلے بدھ یا جمعرات کو کراچی سے ریل گاڑی کے لیے میرے اختیارات بتائیں,lists_query,0.212,0.0508,False
+12263,ur-PK,transport,transport_query,ملتان,social_post,0.0924,0.041,False
+12264,ur-PK,transport,transport_query,ناگن چورنگی,social_post,0.9906,0.0002,False
+12294,ur-PK,transport,transport_query,مجھے ملیر کے لئے ریل کے اوقاات دکھائو,qa_factoid,0.9417,0.0013,False
+12310,ur-PK,transport,transport_query,مجھے کراچی سے ملتان کے لئے دستیاب ریل ٹکیٹس کی فہرست دو,lists_remove,0.5152,0.003,False
+12343,ur-PK,transport,transport_query,منگل کو لانڈھی اسٹیشن سے شالیمار ریل کا ٹائم چیک کریں,datetime_query,0.7231,0.0115,False
+12354,ur-PK,transport,transport_query,مجھے ریل گاڑی کا وقت دو,qa_factoid,0.9867,0.0003,False
+12366,ur-PK,transport,transport_query,کیا کراچی سے لاہور تک کوئی منسلک ریل گاڑی ہے اور کتنے بجے,qa_factoid,0.4907,0.0924,False
+12367,ur-PK,transport,transport_query,حیدرآباد کے لئے بہترین راستہ کونسا ہے,transport_query,0.9481,0.9481,True
+12376,ur-PK,transport,transport_query,لاہور کے لئے پہلی میٹرو کونسی ہے,qa_factoid,0.7153,0.0125,False
+12392,ur-PK,transport,transport_query,مجھے آج کی سمت بتائو,qa_factoid,0.9998,0.0,False
+12402,ur-PK,transport,transport_query,شہر جانے والی اگلی ریل گاڑی کب یہاں سے روانہ ہوگی,qa_factoid,0.1833,0.1131,False
+12419,ur-PK,transport,transport_query,پشاور جانے کے لئے تیز ترین راستہ,transport_query,0.7064,0.7064,True
+12430,ur-PK,transport,transport_query,مجھے کراچی میں ریل کی آمد کا وقت بتائو,weather_query,0.785,0.0002,False
+12436,ur-PK,transport,transport_query,ایئرپورٹ جانے کے لئے کتنا وقت لگے گا,qa_factoid,0.816,0.0867,False
+12437,ur-PK,transport,transport_query,تھیٹر جانے کا وقت کیا ہے,qa_factoid,0.9872,0.0001,False
+12446,ur-PK,transport,transport_query,کیا تم مجھے پشاور جانے والی ریل کے اوقات بتا سکتے ہو,weather_query,0.3321,0.0334,False
+12473,ur-PK,transport,transport_query,میں یہاں سے گھر کیسے جاؤں,qa_factoid,0.6655,0.0277,False
+12526,ur-PK,transport,transport_query,امتیاز مارکیٹ جانے کے لئے سب سے تیز راستہ کونسا ہے,qa_factoid,0.9937,0.0003,False
+12532,ur-PK,transport,transport_query,جگہ کے راستے کی قیادت کریں,qa_factoid,0.8386,0.0051,False
+12581,ur-PK,transport,transport_query,ایف ریل آج کب چلے گی,weather_query,0.997,0.0008,False
+12582,ur-PK,transport,transport_query,پہلا گرین لائن صبح کتنے بجے آتا ہے,weather_query,0.995,0.0001,False
+12604,ur-PK,transport,transport_query,میں آن لائین ٹرین کی ٹکیٹ کس طرح بوک کروں,cooking_recipe,0.4757,0.0099,False
+12618,ur-PK,transport,transport_query,پشاور جانے کے لیے راؤنڈ ٹرپ ریل کا ٹکٹ کتنا ہے,transport_query,0.2088,0.2088,True
+12623,ur-PK,transport,transport_query,کیا آپ کے پاس شاہ فیصل کے لیے ریل گاڑی کا وقت ہے,qa_factoid,0.6576,0.2534,False
+12629,ur-PK,transport,transport_query,ملیر سے پہلی ٹرین کس وقت روانہ ہوتی ہے,datetime_query,0.523,0.0107,False
+12634,ur-PK,transport,transport_query,اوکاڑہ کے لئے اگلی ریل گاڑی کب روانہ ہو رہی ہے,weather_query,0.9623,0.0055,False
+12707,ur-PK,transport,transport_query,نیویگیشن کی تلاش,qa_factoid,1.0,0.0,False
+12759,ur-PK,transport,transport_query,ملیر ھالٹ میں گاڑی چلانے کا وقت,qa_factoid,0.5915,0.005,False
+12797,ur-PK,transport,transport_query,میرے قریب سے مقام تک ریل گاڑی کے اوقات,qa_factoid,0.9944,0.0028,False
+12800,ur-PK,transport,transport_query,پبلک لائبریری کہاں ہے,qa_factoid,0.9917,0.0007,False
+12817,ur-PK,transport,transport_query,میں مال میں کیسے پہنچوں,qa_factoid,0.9997,0.0001,False
+12818,ur-PK,transport,transport_query,کراچی کے لیے ریل گاڑی کا ٹکٹ کتنا ہے,qa_factoid,0.3693,0.2121,False
+12824,ur-PK,transport,transport_query,سی وہو جانے والی تمام ٹرینوں کے اوقات کی فہرست بنائیں,lists_query,0.9391,0.0014,False
+12835,ur-PK,transport,transport_query,ریل گاڑی کس وقت روانہ ہوتی ہے,weather_query,0.6125,0.001,False
+12839,ur-PK,transport,transport_query,مجھے علادین پارک پر لے چلو,transport_query,0.6695,0.6695,True
+12851,ur-PK,transport,transport_query,میرے گھر کا راستہ دکھاوؑ,social_post,0.9728,0.0012,False
+12856,ur-PK,transport,transport_query,براہ کرم ہدایات,qa_factoid,0.7269,0.0005,False
+12866,ur-PK,transport,transport_query,شالیمار ایکسپریس کے اوقات کیا ہیں,qa_factoid,0.9999,0.0,False
+12908,ur-PK,transport,transport_query,ملتان میں ریل گاڑی کی آمد کس وقت ہوتی ہے,weather_query,0.5528,0.0001,False
+12930,ur-PK,transport,transport_query,میرے قریب کے اسٹور کا نقشہ تلاش کریں,qa_factoid,0.6275,0.0079,False
+12932,ur-PK,transport,transport_query,اولی مجھے بحریہ ٹائون تک رہنمائی چاہئے,email_sendemail,0.4441,0.0014,False
+12951,ur-PK,qa,qa_factoid,دنیا کی سب سے اونچی عمارت کون سی ہے,qa_definition,0.8205,0.106,False
+12957,ur-PK,qa,qa_definition,تفصیلی وضاحت کریں,qa_factoid,0.1269,0.069,False
+12961,ur-PK,qa,qa_definition,سائنسی تفشیش کی تعریف بیان کرو,qa_definition,0.9868,0.9868,True
+12963,ur-PK,qa,qa_definition,سائنسی تفتیش کی تعریف بیان کریں,qa_definition,0.9996,0.9996,True
+12972,ur-PK,qa,qa_factoid,دنیا کی بلند ترین چوٹی کونسی ہے,qa_factoid,0.8503,0.8503,True
+12982,ur-PK,qa,qa_definition,ہنگامہ خیزی کا کیا مطلب ہے,qa_definition,0.9978,0.9978,True
+12986,ur-PK,qa,qa_definition,موجی کی تعریف چیک کریں,qa_definition,0.9996,0.9996,True
+12999,ur-PK,qa,qa_factoid,ماریہ کی عمر کتنی ہے,qa_factoid,1.0,1.0,True
+13016,ur-PK,qa,qa_definition,غلطی کی تعریف دیکھو,qa_factoid,0.996,0.0038,False
+13023,ur-PK,cooking,cooking_recipe,مجھے ترکیبیں دکھائیں,qa_definition,0.956,0.0034,False
+13069,ur-PK,qa,qa_definition,نارنگی کی تعریف کیا ہے,qa_definition,0.9998,0.9998,True
+13074,ur-PK,qa,qa_factoid,علی حیدر مضحکہ خیز کیوں نہیں ہے,social_post,0.9953,0.0011,False
+13077,ur-PK,qa,qa_factoid,علی حیدر کی سالگرہ کیا ہے,email_query,0.8632,0.0003,False
+13078,ur-PK,qa,qa_factoid,مجھے علی حیدر کا پتہ بتائیں,email_query,0.5897,0.3339,False
+13099,ur-PK,qa,qa_factoid,پاکستان کا موجودہ وزیر اعظم کون تھا,email_sendemail,0.93,0.0683,False
+13115,ur-PK,qa,qa_factoid,پاکستان کا دارالحکومت کیا ہے,qa_factoid,0.9594,0.9594,True
+13124,ur-PK,qa,qa_factoid,کائنات کتنا بڑا ہے,qa_factoid,0.9961,0.9961,True
+13135,ur-PK,qa,qa_factoid,یاسر حسین کی تاریخ پیدائش کب ہے,datetime_query,0.9981,0.0001,False
+13140,ur-PK,qa,qa_definition,مجھے سمندری طوفان کے بارے میں سب کچھ بتائیں,qa_factoid,0.1564,0.0406,False
+13154,ur-PK,qa,qa_factoid,کیا آپ کو بتول علی کا فون نمبر پتہ ہے,qa_factoid,0.9104,0.9104,True
+13165,ur-PK,qa,qa_definition,گردش کا کیا مطلب ہے,qa_definition,1.0,1.0,True
+13166,ur-PK,qa,qa_definition,گردش کرنا کو سپیل کرو اور واضح کرو,lists_remove,0.2809,0.0214,False
+13177,ur-PK,calendar,calendar_set,مجھے ورزش کرنا یاد دلانا تاکہ وزن زیادہ نہ ہو,cooking_recipe,0.9529,0.0015,False
+13178,ur-PK,calendar,calendar_set,مجھے اپنے پرانے دوستوں سے رابطہ کرنا یاد دلانا کیونکہ میں نے چھے مہینے سے ان سے بات نہیں کی,social_post,0.9614,0.0019,False
+13188,ur-PK,news,news_query,بتاؤ اسلام آباد کے اسمبلی انتخابات کے نتائج کیسے نکلیں گے,qa_factoid,0.9941,0.0002,False
+13206,ur-PK,qa,qa_definition,جگہ,qa_factoid,0.5309,0.3456,False
+13215,ur-PK,transport,transport_query,کسی ٹریفک کو سے ٹکرائے بغیر جوہر جانے کا تیز ترین راستہ کیا ہے,transport_query,0.3218,0.3218,True
+13252,ur-PK,qa,qa_factoid,علی حیدر کا پہلا نومبر کیا تھا,qa_factoid,0.8972,0.8972,True
+13255,ur-PK,qa,qa_factoid,براہ کرم مجھے علی ظفر کے بارے میں معلومات دیں,email_sendemail,0.7899,0.0133,False
+13283,ur-PK,qa,qa_factoid,نسیم غوری نے کتنے پیسے بنائے,qa_factoid,0.9973,0.9973,True
+13288,ur-PK,qa,qa_definition,دائمی لفظ کی تعریف کیا ہے,qa_definition,0.9996,0.9996,True
+13297,ur-PK,qa,qa_factoid,مشہور شخصیت کون ہے,social_post,0.533,0.4652,False
+13298,ur-PK,qa,qa_factoid,مشہور شخصیات کیا کرتے ہیں,social_post,0.9084,0.0865,False
+13330,ur-PK,qa,qa_factoid,سپرم وہیل کا سائز کیا ہے,qa_factoid,0.4181,0.4181,True
+13361,ur-PK,qa,qa_definition,بروقت کی تعریف کیا ہے,qa_factoid,0.639,0.3608,False
+13383,ur-PK,qa,qa_factoid,کتنی ریاستوں میں سزائے موت ہے,qa_factoid,0.9364,0.9364,True
+13400,ur-PK,social,social_post,میرے تمام دوستوں کو ایک مزاحیہ پیغام بھیجیں,email_sendemail,0.8814,0.1159,False
+13439,ur-PK,qa,qa_factoid,محمد حنیف کی عمر کیا ہے,qa_factoid,0.9792,0.9792,True
+13457,ur-PK,calendar,calendar_set,مجھے بتانا کہ کب مجھے ایک شیڈول کی گئی تقریب کے لیے روانہ ہونا چاہیے تاکہ میں وقت پر پہنچ سکوں,qa_factoid,0.2935,0.0137,False
+13473,ur-PK,qa,qa_factoid,پاکستان کب آزاد ہوا,weather_query,0.9982,0.0001,False
+13487,ur-PK,qa,qa_factoid,اولے پنجاب کا دارالحکومت کیا ہے,email_sendemail,0.9745,0.0001,False
+13494,ur-PK,qa,qa_definition,حوصلہ افزائی کی تعریف بیان کرو,qa_definition,0.4537,0.4537,True
+13506,ur-PK,datetime,datetime_query,کیا آپ مجھے بتا سکتے ہیں کہ یہ کب ہے,weather_query,0.9984,0.0008,False
+13513,ur-PK,qa,qa_factoid,ایک کتے کی کتنی ٹانگیں ہوتی ہیں,iot_hue_lightoff,0.2503,0.1071,False
+13516,ur-PK,qa,qa_factoid,وہیل کیوں بڑی ہیں,iot_hue_lightoff,0.9992,0.0001,False
+13546,ur-PK,qa,qa_factoid,فواد خان نے آخری فلم کون سی کی تھی,email_query,0.5383,0.0216,False
+13554,ur-PK,qa,qa_factoid,فواد خان کتنا لمبا ہے,weather_query,0.3303,0.0877,False
+13575,ur-PK,qa,qa_factoid,آخری اکیڈمی ایوارڈ جیتنے والی فلم کب تھی,qa_factoid,0.4781,0.4781,True
+13580,ur-PK,qa,qa_factoid,نانگا پربت کتنا اونچا ہے,qa_factoid,0.5647,0.5647,True
+13591,ur-PK,qa,qa_factoid,بلوچستان کا دارالحکومت کیا ہے,qa_factoid,0.3842,0.3842,True
+13592,ur-PK,qa,qa_factoid,پاکستان نقشہ پر کہاں واقع ہے,qa_factoid,0.972,0.972,True
+13604,ur-PK,qa,qa_factoid,مجھے بتائیں کہ سلیم غوری کہاں پیدا ہوئے,qa_factoid,0.9351,0.9351,True
+13607,ur-PK,qa,qa_factoid,کیا آپ تصدیق کر سکتے ہیں کہ لقمان شادی شدہ ہے,qa_factoid,0.9999,0.9999,True
+13616,ur-PK,qa,qa_factoid,زیادہ تر مشہور شخصیات کہاں گھومتی ہیں,social_post,0.975,0.005,False
+13619,ur-PK,recommendation,recommendation_events,کیا آج میرے علاقے میں کوئی مفت کی تقریب ہو رہی ہے,qa_factoid,0.9996,0.0,False
+13625,ur-PK,qa,qa_definition,سب سے بڑی میز کیا ہے,qa_factoid,0.4477,0.1819,False
+13636,ur-PK,qa,qa_factoid,فواد خان کی سالگرہ کب ہے,weather_query,0.9978,0.0,False
+13679,ur-PK,qa,qa_factoid,کیا تم مجھے بتا سکتے ہو کہ ایک گائے کے کتنے معدے ہيں,qa_factoid,0.5938,0.5938,True
+13681,ur-PK,qa,qa_factoid,ماریا اسلم کتنے ڈراموں میں رہ چکے ہیں,play_podcasts,0.2825,0.0586,False
+13683,ur-PK,qa,qa_factoid,نواز شریف کس برانڈ کا ہیئر سپرے استعمال کرتے ہیں,social_post,0.268,0.0417,False
+13689,ur-PK,qa,qa_definition,ایک کرسی کیا ہے,iot_hue_lightoff,0.519,0.0056,False
+13690,ur-PK,qa,qa_factoid,کرسیاں کس رنگ کی ہیں,qa_factoid,0.3709,0.3709,True
+13693,ur-PK,qa,qa_factoid,واہگہ بارڈر کہاں ہے,qa_factoid,0.9969,0.9969,True
+13705,ur-PK,qa,qa_definition,الیکٹرونک اخراج کا نظام کیا ہے,qa_factoid,0.9637,0.0071,False
+13706,ur-PK,qa,qa_definition,مشین کے گھومنے والے پرزہ کو بیان کرو,qa_definition,0.2708,0.2708,True
+13714,ur-PK,qa,qa_definition,ایک آم کیا ہے,qa_factoid,0.8416,0.1582,False
+13717,ur-PK,qa,qa_factoid,کیا آپ واقعی پاکستان سے پنجاب دیکھ سکتے ہیں,qa_factoid,0.9927,0.9927,True
+13758,ur-PK,qa,qa_factoid,مریم کریم کی عمر کتنی ہے,qa_factoid,0.9998,0.9998,True
+13761,ur-PK,qa,qa_factoid,پارسیک کیا ہے,qa_factoid,0.9989,0.9989,True
+13774,ur-PK,qa,qa_factoid,سندھ پنجاب سے کتنا دور ہے,qa_factoid,0.726,0.726,True
+13777,ur-PK,qa,qa_definition,کیا آپ کریڈٹ کارڈ کی وضاحت کر سکتے ہیں,qa_factoid,0.9883,0.0027,False
+13780,ur-PK,qa,qa_factoid,کیا شاہد آفریدی شادی شدہ ہے,qa_factoid,0.893,0.893,True
+13798,ur-PK,qa,qa_factoid,زمین پر اوسط ملک کتنے مربع میل ہے,lists_query,0.844,0.0036,False
+13799,ur-PK,qa,qa_definition,محکوم کی تعریف بیان کرو,qa_definition,0.9963,0.9963,True
+13823,ur-PK,qa,qa_factoid,سورج کتنا دور ہے,weather_query,0.8721,0.1067,False
+13853,ur-PK,qa,qa_factoid,زمین پر سب سے زیادہ آتش فشاں کہاں ہیں,qa_factoid,0.9663,0.9663,True
+13854,ur-PK,qa,qa_factoid,رفیع کی موت کب ہوئی,qa_factoid,0.8465,0.8465,True
+13863,ur-PK,qa,qa_definition,منطق کی تعریف کیا ہے,qa_definition,0.9998,0.9998,True
+13867,ur-PK,qa,qa_factoid,جناح پارک کہاں ہے,social_post,0.9105,0.056,False
+13869,ur-PK,qa,qa_factoid,براہ کرم لکی ون مال کی لوکیشن اور معلومات google کریں,qa_factoid,0.8898,0.8898,True
+13871,ur-PK,qa,qa_definition,سالگرہ مبارک کو آپ کیسے بیان کریں گے,qa_factoid,0.915,0.0819,False
+13881,ur-PK,qa,qa_factoid,مجھے علی ظفر کے بارے میں معلومات دو,email_query,0.8702,0.0002,False
+13888,ur-PK,qa,qa_factoid,لودھراں پنجاب کا درجہ حرارت کیا ہے,weather_query,0.9951,0.0001,False
+13895,ur-PK,qa,qa_factoid,کیا آپ مجھے وزیر شاہ کی کے بارے میں بتا سکتے ہیں,qa_factoid,0.9721,0.9721,True
+13900,ur-PK,qa,qa_definition,زندگی کی تعریف,qa_definition,0.8192,0.8192,True
+13907,ur-PK,qa,qa_definition,حیران کی تعریف بیان کرو,qa_factoid,0.57,0.43,False
+13908,ur-PK,qa,qa_definition,کیا آپ مجھے بتا سکتے ہیں کہ فلاببرگسٹڈ کا کیا مطلب ہے,qa_definition,0.9998,0.9998,True
+13926,ur-PK,qa,qa_factoid,حمید کی سالگرہ کیا ہے,email_query,0.4311,0.0083,False
+13927,ur-PK,qa,qa_factoid,شاہد آفریدی کی قیمت کتنی ہے,qa_factoid,0.9964,0.9964,True
+13974,ur-PK,qa,qa_factoid,پاکستان کہاں واقع ہے,qa_factoid,0.9921,0.9921,True
+13983,ur-PK,qa,qa_definition,نتائج بھگتنا,iot_hue_lightoff,0.8464,0.0001,False
+13984,ur-PK,qa,qa_definition,اعمال کے نتائج,news_query,0.4583,0.0159,False
+13997,ur-PK,qa,qa_factoid,اوسط گھر کتنا ہے,qa_factoid,0.997,0.997,True
+14000,ur-PK,qa,qa_definition,کاہلی کو بیان کرو,social_post,0.9683,0.0005,False
+14001,ur-PK,qa,qa_factoid,مجھے وہ سب کچھ بتائیں جو آپ کاہلی کے بارے میں جانتے ہیں,qa_factoid,0.8015,0.8015,True
+14011,ur-PK,qa,qa_factoid,حدیقہ کیانی کا سالگرہ کیا ہے,qa_factoid,0.9997,0.9997,True
+14015,ur-PK,qa,qa_factoid,خط استوا کے نقاط کیا ہیں,lists_query,0.9705,0.0016,False
+14023,ur-PK,qa,qa_definition,جہنم کی وضاحت کریں,qa_definition,0.6675,0.6675,True
+14033,ur-PK,qa,qa_factoid,مجھے بتائیں کہ علی کب پیدا ہوئے,email_sendemail,0.981,0.019,False
+14038,ur-PK,qa,qa_factoid,مالڈووا کا مقام کیا ہے,qa_factoid,1.0,1.0,True
+14040,ur-PK,qa,qa_factoid,عاطف اسلم کتنا لمبا ہے,qa_factoid,0.6626,0.6626,True
+14053,ur-PK,qa,qa_factoid,غلام علی نے کس سال اداکاری شروع کی,play_music,0.3849,0.3161,False
+14063,ur-PK,qa,qa_factoid,ناصر الطاف کی سالگرہ کیا تھی,email_sendemail,0.9949,0.0,False
+14083,ur-PK,qa,qa_factoid,جہاں جاوید چیمہ اس وقت رہتے ہیں,qa_factoid,0.8612,0.8612,True
+14096,ur-PK,qa,qa_factoid,پتھریلے پہاڑ کہاں ہیں,qa_factoid,0.6045,0.6045,True
+14115,ur-PK,qa,qa_definition,چٹانی ریت کی تفصیل بتاؤ,email_query,0.8213,0.0007,False
+14116,ur-PK,qa,qa_definition,راک سینڈ کی وضاحت کریں,qa_factoid,0.6401,0.351,False
+14117,ur-PK,qa,qa_factoid,تخت بائی کہاں واقع ہیں,email_query,0.9165,0.0304,False
+14118,ur-PK,qa,qa_factoid,اہرام کی جغرافیائی تفصیلات دکھائیں,qa_factoid,0.962,0.962,True
+14126,ur-PK,qa,qa_factoid,علی ظفر کا بائیو دکھائیں,qa_factoid,0.9707,0.9707,True
+14138,ur-PK,qa,qa_definition,برائے مہربانی مجھے سلنڈر کی تعریف بتاؤ,qa_definition,0.9979,0.9979,True
+14147,ur-PK,qa,qa_definition,کمبل کی وضاحت کریں,qa_definition,0.4841,0.4841,True
+14150,ur-PK,qa,qa_definition,کنورس جوتے کیا ہیں,qa_definition,0.9997,0.9997,True
+14151,ur-PK,qa,qa_factoid,کس قسم کے چشمے ایویایٹرز سمجھے جاتے ہیں,qa_definition,0.6427,0.0928,False
+14154,ur-PK,qa,qa_factoid,پاکستان کی معلومات,email_query,0.8473,0.0201,False
+14163,ur-PK,qa,qa_factoid,علاقے کی تلاش کریں,qa_factoid,0.6355,0.6355,True
+14169,ur-PK,qa,qa_factoid,عمران علی کالج کہاں گیا,social_post,0.2578,0.1656,False
+14170,ur-PK,qa,qa_factoid,کیا کامران کاشف بات چیت کرتے ہیں,social_post,0.9991,0.0,False
+14179,ur-PK,qa,qa_factoid,پاکستان میرے موجودہ مقام سے کتنا دور ہے,qa_factoid,0.9342,0.9342,True
+14214,ur-PK,transport,transport_query,اسی کے لیے سفر کے طریقے تلاش کریں,cooking_recipe,0.7083,0.003,False
+14229,ur-PK,qa,qa_factoid,عمران علی نے کن فلموں میں اداکاری کی ہے,play_podcasts,0.4111,0.1788,False
+14243,ur-PK,qa,qa_factoid,شخص کی تفصیل,qa_factoid,0.9999,0.9999,True
+14272,ur-PK,qa,qa_definition,ہائے ایک کتاب کیا چیز ہے,email_sendemail,0.9607,0.0003,False
+14283,ur-PK,qa,qa_factoid,مجھے لاہور کے بارے بتاؤ,qa_factoid,0.9889,0.9889,True
+14306,ur-PK,qa,qa_factoid,پاکستان کے جغرافیائی محل وقوع کی وضاحت کریں,qa_definition,0.7755,0.1552,False
+14308,ur-PK,qa,qa_factoid,عاطف اسلم کی قدر کیا ہے,qa_factoid,0.5993,0.5993,True
+14316,ur-PK,qa,qa_factoid,ملتان کتنا بڑا ہے,social_post,0.9046,0.0933,False
+14317,ur-PK,qa,qa_factoid,امریکہ کا کیا رقبہ ہے,qa_factoid,0.9403,0.9403,True
+14323,ur-PK,qa,qa_factoid,ڈریگن فروٹ کا رنگ کیا ہے,qa_factoid,0.8808,0.8808,True
+14330,ur-PK,qa,qa_factoid,سلیم غوری کہاں پیدا ہوا تھا,qa_factoid,1.0,1.0,True
+14347,ur-PK,qa,qa_definition,ایک مفروضہ کیا ہے,social_post,0.9728,0.0058,False
+14354,ur-PK,qa,qa_factoid,کائنات کیلیے کیا جواب ہے,qa_factoid,0.7704,0.7704,True
+14355,ur-PK,qa,qa_factoid,کیا بہت سے سیشیلز سمندر کے کنارے بیچ سکتے ہیں,qa_factoid,0.8881,0.8881,True
+14370,ur-PK,qa,qa_factoid,مشہور شخصیات کا پیشہ بتاؤ,qa_factoid,0.9783,0.9783,True
+14378,ur-PK,qa,qa_definition,رفتار کی تعریف,qa_factoid,0.7247,0.2747,False
+14382,ur-PK,qa,qa_factoid,ایمپائر سٹیٹ بلڈنگ کتنی اونچی ہے,weather_query,0.7664,0.0231,False
+14395,ur-PK,qa,qa_factoid,زمین پر گہرا ترین نقطہ کیا ہے,qa_factoid,0.8854,0.8854,True
+14414,ur-PK,qa,qa_definition,کمپیوٹر ہارڈ ڈسک کے بارے میں بیان کریں,qa_definition,0.4994,0.4994,True
+14417,ur-PK,qa,qa_factoid,ہمارے براعظم کو کون سا سمندر لگتا ہے,qa_factoid,0.9277,0.9277,True
+14419,ur-PK,qa,qa_factoid,کیا عالیہ اس سال ایک نئی فلم لا رہی ہے,qa_factoid,0.1229,0.1229,True
+14429,ur-PK,qa,qa_definition,کفتان کیا ہے,qa_factoid,0.9878,0.0012,False
+14440,ur-PK,qa,qa_factoid,پاکستان کا دارالحکومت کیا ہے,qa_factoid,0.9594,0.9594,True
+14442,ur-PK,qa,qa_factoid,منوڑا کیا ہے,social_post,0.3478,0.1096,False
+14444,ur-PK,qa,qa_factoid,علی ظفر کی پہلی مووی کون سی تھی,iot_hue_lightoff,0.6522,0.0171,False
+14449,ur-PK,qa,qa_factoid,کیا گلابی کا نیا بچہ ہے,qa_factoid,0.6736,0.6736,True
+14457,ur-PK,qa,qa_factoid,راستہ تلاش کریں,recommendation_events,0.2673,0.037,False
+14465,ur-PK,transport,transport_query,سندھباد کی سمت,qa_factoid,0.9972,0.0001,False
+14490,ur-PK,qa,qa_factoid,سنگم سینما کب تعمیر کیا گیا,qa_factoid,0.996,0.996,True
+14498,ur-PK,qa,qa_definition,ذہین موبائل کی تفصیلات بیان کرو,email_sendemail,1.0,0.0,False
+14504,ur-PK,qa,qa_factoid,اولے قائد اعظم محمد علی جناح نے کتنی ملاقاتیں کی,email_sendemail,1.0,0.0,False
+14505,ur-PK,qa,qa_factoid,پاکستان کا موجودہ وزیر اعظم کون ہے,email_sendemail,1.0,0.0,False
+14508,ur-PK,qa,qa_factoid,براہ کرم تازہ ترین جارج آر مارٹن آئس اینڈ فائر بک کا خلاصہ کریں,email_sendemail,0.8952,0.004,False
+14509,ur-PK,qa,qa_factoid,قائد اعظم محمد علی جناح کہاں پیدا ہوئے,email_sendemail,0.9024,0.0432,False
+14539,ur-PK,qa,qa_factoid,اس جگہ کی جغرافیائی تفصیل ڈھونڈو,qa_factoid,0.7736,0.7736,True
+14545,ur-PK,qa,qa_factoid,مجھے پاکستان کے مقام کے بارے میں بتائیں,qa_factoid,0.8998,0.8998,True
+14567,ur-PK,qa,qa_factoid,زمین پر سب سے بڑا فعال آتش فشاں کیا ہے,qa_factoid,0.9466,0.9466,True
+14585,ur-PK,qa,qa_factoid,پاکستان سے انڈیا کے سفر میں کتنا وقت لگے گا,qa_factoid,0.9235,0.9235,True
+14591,ur-PK,qa,qa_definition,مجھے ٹیلی ویژن سرکٹ کی تفصیل بتائیں,qa_factoid,0.4203,0.0084,False
+14592,ur-PK,qa,qa_definition,مجھے اسمارٹ فون سرکٹ کی تفصیل بتائیں,qa_factoid,0.6245,0.0168,False
+14597,ur-PK,qa,qa_factoid,کراچی کی آبادی کتنی ہے,qa_factoid,0.4525,0.4525,True
+14601,ur-PK,qa,qa_factoid,زرداری کتنے سال پاکستان کے صدر رہے,datetime_query,0.6553,0.2176,False
+14605,ur-PK,qa,qa_factoid,کیا الطاف علی نے بلال شاہ کو چھوڑ دیا,social_post,0.9565,0.0143,False
+14608,ur-PK,qa,qa_factoid,جنید جمشید کس نئی فلم پر کام کر رہی ہیں,email_query,0.5381,0.0857,False
+14622,ur-PK,qa,qa_definition,بیان کریں کہ دائرہ کیا ہے,qa_factoid,0.6897,0.2432,False
+14648,ur-PK,cooking,cooking_recipe,ترکیب براہ مہربانی,qa_factoid,0.9981,0.0001,False
+14653,ur-PK,qa,qa_factoid,پاکستان کی آبادی کتنی ہے,qa_factoid,0.9326,0.9326,True
+14661,ur-PK,qa,qa_factoid,نواز شریف کی پیدائش کا سال کیا ہے,datetime_query,0.2986,0.0205,False
+14668,ur-PK,qa,qa_definition,ایکس وائی چیز بیان کرو,qa_factoid,0.8575,0.1315,False
+14683,ur-PK,qa,qa_factoid,فواد خان کا شوق کیا ہے,social_post,0.9948,0.0001,False
+14684,ur-PK,qa,qa_factoid,پاکستان کا وزیراعظم کون ہے,qa_factoid,0.971,0.971,True
+14690,ur-PK,qa,qa_definition,اوکے گوگل صدر کیا ہوتا ہے,qa_factoid,0.9882,0.0117,False
+14700,ur-PK,qa,qa_definition,دانت بھرنے والی رال دراصل کیا ہوتی ہے,qa_definition,0.8927,0.8927,True
+14701,ur-PK,qa,qa_definition,ہارٹ اسٹون کارڈ گیم کی وضاحت کریں,qa_definition,0.9091,0.9091,True
+14705,ur-PK,qa,qa_factoid,اوکے google صبا قمر کہاں رہتی ہے,qa_factoid,0.9378,0.9378,True
+14706,ur-PK,qa,qa_factoid,عائزہ خان کہاں رہتی ہے,social_post,0.849,0.0188,False
+14746,ur-PK,qa,qa_factoid,پاکستان کا دارالحکومت کیا ہے,qa_factoid,0.9594,0.9594,True
+14761,ur-PK,qa,qa_definition,مجھے لفظ امام کی تعریف بتائیں,qa_definition,0.9986,0.9986,True
+14767,ur-PK,qa,qa_definition,آپ گیند کو کیسے بیان کریں گے,qa_factoid,0.9381,0.0615,False
+14770,ur-PK,qa,qa_factoid,مجھے دنیا کا سب سے بڑا سمندر بتاؤ,qa_factoid,0.9923,0.9923,True
+14787,ur-PK,qa,qa_factoid,رومن اور گریگورین کیلنڈر میں کیا فرق ہے,qa_factoid,0.5736,0.5736,True
+14791,ur-PK,qa,qa_factoid,کرسی کی بناوٹ کیا ہے,cooking_recipe,0.7487,0.0495,False
+14794,ur-PK,qa,qa_factoid,علی ظفر کی پسندیدہ گاڑی کون سی ہے,qa_factoid,0.1112,0.1112,True
+14822,ur-PK,qa,qa_factoid,لوگوں میں موازنہ کرنے کیلیے,iot_hue_lightoff,0.3797,0.0889,False
+14838,ur-PK,qa,qa_factoid,غیر جانبدار کثافت کا فلٹر کیا ہے اور کیا میں گریڈینٹ والا چاہوں گا یا ٹھوس بھی جو اسکرو آن ون اور مربع والے کے درمیان انداز میں بہتر ہو,qa_factoid,0.5239,0.5239,True
+14857,ur-PK,qa,qa_definition,کیا تم مجھے حد سے زیادہ کا مطلب تفصیل سے بیان کر سکتے ہو,qa_definition,0.9856,0.9856,True
+14877,ur-PK,qa,qa_factoid,اس علاقے میں موسمی حالات کیا ہیں,weather_query,0.9983,0.0001,False
+14879,ur-PK,qa,qa_definition,کا مطلب,qa_factoid,0.7357,0.2605,False
+14884,ur-PK,qa,qa_factoid,پورے پاکستان میں طوفان سے بچا ہوا صوبہ کون سا ہے,qa_factoid,0.9878,0.9878,True
+14889,ur-PK,qa,qa_definition,براہ کرم میرے لئے اس اعتراض کی وضاحت کریں,qa_factoid,0.2554,0.0357,False
+14891,ur-PK,qa,qa_factoid,کس شعبے میں وہ شخص آگے بڑھا,qa_factoid,0.9015,0.9015,True
+14912,ur-PK,qa,qa_factoid,صدر نواز کہاں پیدا ہوئے,social_post,0.9549,0.0427,False
+14917,ur-PK,qa,qa_factoid,فرحان سعید کی اگلی البم کب آئے گی,weather_query,0.9731,0.0106,False
+14933,ur-PK,qa,qa_factoid,مجھے پاکستان کے جغرافیہ کے بارے میں معلومات بتائیں,email_query,0.2757,0.0468,False
+14939,ur-PK,qa,qa_factoid,مجھے شان شاہد کے بارے میں کچھ معلومات چاہیے برائے مہربانی مدد کرو,email_query,0.9566,0.0019,False
+14981,ur-PK,qa,qa_definition,آئی فون سیون کی تفصیل,qa_factoid,0.8547,0.1268,False
+14994,ur-PK,qa,qa_factoid,عمران عباس کی اگلی فلم کون سی ہے,qa_factoid,0.1365,0.1365,True
+14995,ur-PK,qa,qa_definition,صورتحال کا کیا مطلب ہے,qa_definition,0.999,0.999,True
+15020,ur-PK,qa,qa_factoid,سلمان علی ووڈ کی عمر کتنی ہے,qa_factoid,1.0,1.0,True
+15039,ur-PK,qa,qa_factoid,اولے ہمالیہ کے پہاڑ کہاں سے شروع ہوتے ہیں,email_query,0.3287,0.0587,False
+15055,ur-PK,qa,qa_factoid,کون سا قطب میں سرد ہے جنوبی یا شمال,weather_query,0.999,0.0002,False
+15056,ur-PK,qa,qa_factoid,ایمان خان کے نئے بوائے فرینڈ کی عمر کتنی ہے,qa_factoid,0.976,0.976,True
+15062,ur-PK,qa,qa_factoid,برائے مہربانی رحیم شاہ پر معلومات,email_query,0.9764,0.0006,False
+15075,ur-PK,qa,qa_factoid,اولے سب سے پہلے امریکی کہاں رہائش پذیر ہوئے,email_query,0.8549,0.1063,False
+15092,ur-PK,qa,qa_definition,پیل ٹیلی ویژن کے بارے میں تفصیل تلاش کریں,email_query,0.3824,0.1508,False
+15094,ur-PK,qa,qa_factoid,لاہور پنجاب میں رہنے والے لوگوں کی آبادی کے اعداد دیکھو,lists_query,0.1335,0.086,False
+15095,ur-PK,qa,qa_factoid,کراچی کون سا علاقہ ہے,qa_factoid,0.5091,0.5091,True
+15127,ur-PK,qa,qa_definition,متکلم کی تعریف بیان کرو,qa_definition,0.9085,0.9085,True
+15155,ur-PK,social,social_post,کیا آپ میری تازہ ترین سیلفی میرے facebook اکاؤنٹ میں اپ لوڈ کر سکتے ہیں,social_post,0.9373,0.9373,True
+15166,ur-PK,social,social_post,twitter پرمیرے بزنس کی پوسٹ کرو,social_post,0.9995,0.9995,True
+15177,ur-PK,social,social_post,براہ کرم اس پوسٹ کو twitter پر ریٹویٹ کریں,social_post,0.9999,0.9999,True
+15185,ur-PK,social,social_post,سالگرہ کی مبارکبادیں,email_sendemail,0.7849,0.0084,False
+15186,ur-PK,social,social_post,شادی کی دعائیں,email_sendemail,0.9985,0.0,False
+15187,ur-PK,social,social_post,دوست کو پوسٹ شیئر کرو,social_post,0.9996,0.9996,True
+15197,ur-PK,social,social_post,میرے پاکستان کے دورے کا twitter پر پوسٹ کریں,social_post,0.9999,0.9999,True
+15208,ur-PK,social,social_post,ارے سب کو facebook پر پوسٹ کریں,social_post,1.0,1.0,True
+15213,ur-PK,news,news_query,ابھی کیا رجحان ساز ہے,cooking_recipe,0.6105,0.0016,False
+15214,ur-PK,news,news_query,کیا ہیں آج کی خبریں,news_query,0.9994,0.9994,True
+15216,ur-PK,social,social_post,میرے لیے کچھ ٹویٹ کریں,social_post,0.9986,0.9986,True
+15231,ur-PK,social,social_post,میری گوا کے سفر کی تصویر اسے instagram پر پوسٹ کرتا ہوں,social_post,1.0,1.0,True
+15271,ur-PK,social,social_post,اسے میرے فیس بک پر پوسٹ کریں,social_post,0.9238,0.9238,True
+15275,ur-PK,social,social_post,facebook پر پوسٹ کریں میں خوش ہوں,social_post,0.9999,0.9999,True
+15276,ur-PK,social,social_post,facebook پر نیا اسٹیٹس پوسٹ کرو کہ میں اچھے موسم کا مزہ لے رہا ہوں,social_post,1.0,1.0,True
+15289,ur-PK,social,social_post,ابھی پیغام پوسٹ کریں,email_sendemail,1.0,0.0,False
+15305,ur-PK,calendar,calendar_query,کیا میرے پاس سوشل میڈیا سے کوئی اطلاع ہے,social_post,0.6192,0.0034,False
+15318,ur-PK,social,social_post,میں سالگرہ کی خواہشات کے لیے سب کا شکریہ ادا کرنا چاہتا ہوں,lists_remove,0.4135,0.012,False
+15337,ur-PK,social,social_post,اس ویڈیو کو facebook پر پوسٹ کریں,social_post,1.0,1.0,True
+15350,ur-PK,social,social_post,میں امتیاز سے ناخوش ہوں براہ کرم میری مدد کریں,qa_factoid,0.9996,0.0,False
+15358,ur-PK,social,social_post,اولی نے apple کو ٹویٹ کیا کہ آئی فون کام نہیں کرتا,email_sendemail,1.0,0.0,False
+15359,ur-PK,social,social_post,apple پر ٹویٹ کھولیں کہ میرے آئی فون کی بیٹری ہمیشہ ختم ہوجاتی ہے,social_post,0.9265,0.9265,True
+15364,ur-PK,social,social_post,کیا آپ amazon کو بتا سکتے ہیں کہ یہ نیا فون کیس فضول ہے,qa_factoid,0.7692,0.221,False
+15382,ur-PK,social,social_post,samsung سے رابطہ کرو کہ واشر میں آگ لگ گئی,email_sendemail,0.1097,0.0498,False
+15387,ur-PK,social,social_post,میرے موجودہ مقام کو ٹویٹ کریں,social_post,0.9982,0.9982,True
+15399,ur-PK,social,social_post,نیٹ ورک سے متعلق مسائل کے لیے شکایت aircel کو بھیجیں,transport_query,0.7411,0.0113,False
+15401,ur-PK,social,social_post,twitter کھولیں پیغام بھیجیں,email_sendemail,0.8421,0.0763,False
+15402,ur-PK,social,social_post,پیغام دو پروڈکٹ خراب ہے,qa_factoid,0.1433,0.0885,False
+15409,ur-PK,social,social_post,twitter کھولیں میری شکایت ٹائپ کریں اور کنزیومر سروس پر پوسٹ کریں,social_post,0.9974,0.9974,True
+15413,ur-PK,social,social_post,as admi kw jl bhijw,qa_factoid,0.9983,0.0,False
+15444,ur-PK,social,social_post,ایٹ طاہر پہ پر دو انگوٹھے نیچے,iot_hue_lightoff,0.9767,0.0021,False
+15448,ur-PK,social,social_post,سونیس والیوم کے مسائل کے بارے میں ایک ٹویٹ بھیجیں,email_sendemail,0.9997,0.0003,False
+15454,ur-PK,social,social_post,serene airlines پر ٹویٹ کریں میں ناراض ہوں آپ نے میرا بیگ کھو دیا,social_post,0.9987,0.9987,True
+15456,ur-PK,social,social_post,میں پاکستان ائیر لائنز کو ایک ٹوئیٹ بھیجنا چاہتا ہوں میں ناراض ہوں کہ آپ نے میرا بیگ کھو دیا,social_post,0.8293,0.8293,True
+15457,ur-PK,social,social_post,مجھے اپنے برگر کے ساتھ مسئلہ تھا کیا آپ bk ٹویٹ کر سکتے ہیں,qa_factoid,0.7085,0.0054,False
+15459,ur-PK,social,social_post,twitter پر شکایت بھیجیں,social_post,0.9993,0.9993,True
+15464,ur-PK,social,social_post,مجھے وقت پر پروڈکٹ نہیں ملی نشات لنن کو ایک ٹویٹ بھیجیں,qa_factoid,0.9881,0.0085,False
+15467,ur-PK,social,social_post,comcast کو بتائیں کہ میں ان سے نفرت کرتا ہوں,social_post,0.9963,0.9963,True
+15472,ur-PK,social,social_post,کتابوں کی آن لائن دکان کے لیے ایک شکایت ٹویٹ کریں,social_post,0.9759,0.9759,True
+15487,ur-PK,social,social_post,kohlsٹوئیٹ کریں صاف ستھرائی اسٹور کی,iot_hue_lightoff,0.8549,0.0031,False
+15488,ur-PK,social,social_post,براہ کرم pizzahut پر ٹویٹ کریں میں ابھی اپنی ڈلیوری کا انتظار کر رہا ہوں نمبر ناخوش,social_post,0.9986,0.9986,True
+15503,ur-PK,social,social_post,صارفین کی خدمت کے لیے نیا ٹویٹ,social_post,0.9821,0.9821,True
+15508,ur-PK,social,social_post,سری پوٹر سکس پر ٹویٹر ٹویٹ کھولیں,social_post,0.9659,0.9659,True
+15518,ur-PK,social,social_post,جے ڈاٹ پرفیوم عملے کو ٹویٹ کے ذریعے پیغام بھیجیں,social_post,0.3652,0.3652,True
+15532,ur-PK,social,social_post,آسیہ ٹوئیٹwalmart اور بتاوؑ کہ انکی کسٹمر سروس خوفناک ہے,qa_factoid,0.9203,0.0641,False
+15546,ur-PK,social,social_post,پاپا جانز کو کولڈ پیزا کے بارے میں ٹویٹ کریں,social_post,0.9855,0.9855,True
+15548,ur-PK,social,social_post,موبائل کی شکایت سام سنگ کو ٹویٹ کریں,social_post,0.9974,0.9974,True
+15553,ur-PK,social,social_post,براہ کرم پاکستان پوسٹ پر منفی جوابی ٹوئیٹ کریں,qa_factoid,0.8754,0.1061,False
+15554,ur-PK,social,social_post,براہ کرم تاخیر کی خدمات کے لئے dell service پر ٹویٹ کریں,email_sendemail,0.3615,0.0499,False
+15556,ur-PK,social,social_post,ٹوئٹ شکایت کرو,qa_factoid,0.9458,0.048,False
+15557,ur-PK,social,social_post,مجھے آپ کی شکایت ٹویٹ کرنے کی ضرورت ہے,social_post,0.9993,0.9993,True
+15560,ur-PK,social,social_post,facebook پر پوسٹ کرو میں بھوکی ہوں,social_post,1.0,1.0,True
+15565,ur-PK,social,social_post,کیا آپ daraz کو بتا سکتے ہیں کہ میں انہیں دوبارہ کبھی استعمال نہیں کر رہا ہوں,recommendation_events,0.5163,0.2013,False
+15587,ur-PK,social,social_post,گیلری کھولیں تصویر کا نام پوسٹ کریں,iot_hue_lightoff,0.9984,0.0,False
+15592,ur-PK,social,social_post,comcast پر ٹوئیٹ شکایت کریں,email_sendemail,0.7174,0.0458,False
+15593,ur-PK,social,social_post,لوائس پر ٹویٹ شکایت کریں,social_post,0.9906,0.9906,True
+15598,ur-PK,social,social_post,کمپنی کا نام کھولیں اور شکایات تلاش کریں,email_query,0.8793,0.0049,False
+15610,ur-PK,social,social_post,ایک ٹویٹ کریں مندرجہ ذیل کے طور پر بہت برا فالو اپ ہے میرے اکاؤنٹ میں سٹرنگز مطمئن نہیں ہے,social_post,0.9983,0.9983,True
+15618,ur-PK,social,social_post,انشورنس ٹوئیٹ کریں اور انہیں بتائیں کہ وہ چوس رہے ہیں,lists_remove,0.1941,0.0325,False
+15626,ur-PK,social,social_post,براہ کرم comcast پر برے کسٹمر سروس کے لیے شکایت ٹویٹ کریں,social_post,0.2678,0.2678,True
+15634,ur-PK,social,social_post,ٹھیک ہے google ٹویٹ کریں کہ مالک گیس اسٹیشن پر کیا جھٹکا لگا رہا ہے,social_post,0.9645,0.9645,True
+15635,ur-PK,social,social_post,ٹویٹ کریں کہ مکڈونلڈ کے نیچے ریزیڈا کی خوفناک سروس ہے,social_post,0.9934,0.9934,True
+15647,ur-PK,social,social_post,ٹویٹ شکایت کرو,social_post,0.9985,0.9985,True
+15651,ur-PK,social,social_post,کسٹمر سروس کو رپورٹ بھیجیں,email_sendemail,0.9995,0.0004,False
+15652,ur-PK,social,social_post,صارفین کی خدمت میں شکایت میں مدد کریں,social_post,0.7384,0.7384,True
+15655,ur-PK,social,social_post,google costumer service کو ٹویٹ کریں کہ میرا نیا nexus فون نے کام کرنا بند کر دیا برائے مہربانی مدد کریں,social_post,0.1992,0.1992,True
+15656,ur-PK,social,social_post,suqcom کو ایک پیغام ٹویٹ کریں کہ میں ابھی تک اپنی ترسیل کا انتظار کر رہا ہوں,email_sendemail,0.7738,0.2208,False
+15661,ur-PK,social,social_post,میری تازہ ترین انٹری twitter پر پی اے ایف پر پوسٹ کریں,social_post,0.9963,0.9963,True
+15670,ur-PK,social,social_post,شکایتی ٹویٹ بھیجیں,social_post,0.9979,0.9979,True
+15672,ur-PK,social,social_post,آئی فون کی عدم وصولی کے بارے میں apple کو ٹویٹ میں نے پچھلے ہفتے مرمت کے لیے بھیجا تھا,email_sendemail,0.9974,0.0003,False
+15676,ur-PK,social,social_post,کیفے پیالا ٹوئیٹ پلیز شکایت درج کریں سروس کے بارے میں,social_post,0.8189,0.8189,True
+15686,ur-PK,social,social_post,ہیلو میری وہ چیز جو میں نے کسی سے خریدی تھی آرڈر سے باہر ہو گئی ہے,qa_factoid,0.9598,0.0066,False
+15693,ur-PK,social,social_post,ٹویٹ کروکہ چاکلیٹ پیکٹ میں کیڑا تھا,social_post,0.9012,0.9012,True
+15700,ur-PK,social,social_post,حالیہ مارکیٹ میں ختم شدہ مصنوعات,calendar_remove,0.6685,0.0069,False
+15703,ur-PK,social,social_post,ڈیسٹینیشن ایکس. آئی. کو ٹویٹر کہ ان کے سائز بہت تیزی سے ختم ہوجاتے ہیں,social_post,0.9794,0.9794,True
+15706,ur-PK,social,social_post,پر ٹویٹ,social_post,0.9997,0.9997,True
+15707,ur-PK,social,social_post,چلو پیغام بھجیو,social_post,0.9216,0.9216,True
+15708,ur-PK,social,social_post,ان کی سروس کی شکایت کرو,social_post,0.4904,0.4904,True
+15721,ur-PK,social,social_post,میکڈونلڈز کے بارے میں نفرت بھرے چہرے کو ٹویٹ کریں,social_post,0.997,0.997,True
+15723,ur-PK,social,social_post,سیٹfacebook خوشی کا اسٹیٹس,social_post,0.9944,0.9944,True
+15731,ur-PK,social,social_post,علی ايک پيغام ٹویٹ کريں گارمينٹس کو اور بتائيں انہوں ميری سروس خراب ہے,social_post,0.9995,0.9995,True
+15732,ur-PK,social,social_post,samsung کو ٹویٹ کریں اور انہیں بتائیں کہ وہ اپنی مصنوعات سے لوگوں کو مارنا بند کریں,email_sendemail,0.9547,0.0409,False
+15736,ur-PK,social,social_post,کمپنی کے بارے میں منفی جائزہ پیش کریں,qa_factoid,0.9996,0.0,False
+15756,ur-PK,email,email_sendemail,براہ کرم میری ٹیم کو ای میل کریں,email_sendemail,1.0,1.0,True
+15763,ur-PK,email,email_query,براہ کرم نئی ای میلز کی جانچ کریں,email_sendemail,1.0,0.0,False
+15765,ur-PK,email,email_sendemail,پری زاد کی الیکٹرانک میل کا جواب دو,email_query,0.988,0.0112,False
+15777,ur-PK,email,email_query,مجھے بتاؤ اگر مجھے نئی ای میلز آئی ہیں,email_query,0.9999,0.9999,True
+15785,ur-PK,email,email_query,کیا میرے میل باکس میں کچھ نیا ہے,email_query,0.9699,0.9699,True
+15789,ur-PK,email,email_query,ایمازون ایکو ڈاٹ کیا میرے پاس کوئی نئی ای میلز ہیں,email_query,0.9568,0.9568,True
+15792,ur-PK,calendar,calendar_query,آج میری کس کے ساتھ میٹنگ ہے,social_post,0.8744,0.0052,False
+15796,ur-PK,email,email_sendemail,کامران کو ای میل کرو,email_sendemail,1.0,1.0,True
+15802,ur-PK,email,email_sendemail,جہانزیب کو ای میل میں جواب دو کہ میں آج رات نہیں آؤں گا,email_query,0.9999,0.0001,False
+15809,ur-PK,email,email_query,کیا ریحان نے ابھی تک مجھے ای میلز بھیجی ہیں,email_sendemail,0.9954,0.0046,False
+15825,ur-PK,email,email_sendemail,ابو کو جواب لکھو مجھے دیر ہو جائے گی,weather_query,0.7277,0.0037,False
+15828,ur-PK,email,email_sendemail,رابطوں میں شامل کرنے کے لیے یہاں ایک نیا ای میل پتہ ہے,email_query,0.9683,0.0262,False
+15829,ur-PK,email,email_sendemail,رابطوں پر جائیں اور ایک نیا ای میل ایڈریس درج کریں,email_sendemail,0.5584,0.5584,True
+15839,ur-PK,email,email_query,موضوع,email_query,0.8785,0.8785,True
+15841,ur-PK,email,email_sendemail,روزی کے لیے نئی ای میل تحریر کریں,email_sendemail,1.0,1.0,True
+15845,ur-PK,email,email_sendemail,یہ ہمارے ہاں کیسے آئی,qa_factoid,0.6138,0.0004,False
+15847,ur-PK,email,email_sendemail,ہم کریڈٹ کیسے حاصل کرسکتے ہیں,qa_factoid,0.9998,0.0,False
+15849,ur-PK,email,email_sendemail,میرے باس کو ایک ای میل بھیجیں,email_sendemail,1.0,1.0,True
+15857,ur-PK,email,email_sendemail,براہ مہربانی مجھے فہرست میں درج نیا ای میل ایڈریس بھیجیں,email_sendemail,1.0,1.0,True
+15862,ur-PK,email,email_query,ماں کی طرف سے وصول الیکٹرانک میل دیکھو,email_query,0.9254,0.9254,True
+15880,ur-PK,email,email_query,براہ مہربانی میری ای میلز چیک کریں,email_query,0.9983,0.9983,True
+15890,ur-PK,email,email_query,یہ دیکھنے کے لیے چیک کریں کہ میرے پاس اپنے والد کی طرف سے کوئی نئی ای میلز ہیں,email_query,0.9924,0.9924,True
+15904,ur-PK,email,email_query,میری نئی ای میل چیک کرو اور بتاؤ اس میں کیا ہے,email_sendemail,1.0,0.0,False
+15906,ur-PK,email,email_sendemail,جواب دیں جلیل کا شکریہ,qa_factoid,0.9999,0.0,False
+15911,ur-PK,email,email_sendemail,سعد کے لیے ای میل تیار کریں,email_sendemail,0.9999,0.9999,True
+15933,ur-PK,email,email_query,میرے پاس کون سی نئی ای میلز ہیں,email_query,1.0,1.0,True
+15942,ur-PK,email,email_sendemail,یہ ای میل بھیجو اور نئی ای میلز کا جواب دو,email_sendemail,1.0,1.0,True
+15950,ur-PK,email,email_sendemail,احمد کے ای میل کا جواب دیں,email_sendemail,0.6073,0.6073,True
+15957,ur-PK,email,email_sendemail,آسیہ کو یہ بتانے کے لیے ای میل کریں کہ ہم راستے میں ہیں,email_sendemail,0.9978,0.9978,True
+15963,ur-PK,email,email_query,کیا میرے پاس ہارون کی کوئی نئی ای میلز ہیں,email_query,0.9444,0.9444,True
+15966,ur-PK,email,email_query,اگر وہ بہت اہم ہو تو رپلائے بھیجو,social_post,0.9919,0.0005,False
+15968,ur-PK,email,email_query,اگر یہ کسی بہت پہچانی جگہ سے ہے تو اسے اہم مارک کرو,social_post,0.8824,0.0006,False
+15970,ur-PK,email,email_query,امی کی آخری ای میل کا سبجیکٹ کیا تھا,email_query,0.8157,0.8157,True
+15971,ur-PK,email,email_query,کام سے آخری ای میل کیا تھی,email_sendemail,1.0,0.0,False
+15994,ur-PK,email,email_sendemail,جان کو ای میل کر کے پوچھو ملاقات کیلیے کون سا وقت صحیح ہے,email_sendemail,1.0,1.0,True
+15995,ur-PK,email,email_sendemail,بجٹ اجلاس کے بارے میں ارشد کو ای میل کریں,email_query,0.6465,0.3535,False
+15998,ur-PK,email,email_query,کسی چیز کے لیے میری ای میلز نام سے چیک کریں,email_sendemail,0.9969,0.0031,False
+16002,ur-PK,email,email_query,نئی ای میل چیک کرو,email_sendemail,1.0,0.0,False
+16005,ur-PK,email,email_sendemail,علی ایٹ جی میل ڈاٹ کام کو ای میل بھیجیں,email_sendemail,1.0,1.0,True
+16010,ur-PK,email,email_query,اگر میرے ان باکس میں کوئی نئے پیغامات ہوں تو مجھے بتاؤ,email_sendemail,0.6502,0.3479,False
+16024,ur-PK,email,email_sendemail,رانی کو ای میل بھیجیں کہ میں کل مصروف ہوں,email_sendemail,1.0,1.0,True
+16028,ur-PK,email,email_sendemail,ہائے گوگل نیسٹ ہب میکس ساتھی کارکن کے لیے ایک ای میل شروع کریں,email_query,0.5017,0.498,False
+16029,ur-PK,email,email_sendemail,براہ کرم ساتھی کارکن کو ایک نیا ای میل تحریر کریں,email_sendemail,0.9995,0.9995,True
+16032,ur-PK,email,email_sendemail,پلیز سمی کو ای میل کرو کل کی ملاقات کے بارے میں,email_sendemail,1.0,1.0,True
+16038,ur-PK,email,email_query,ارے سارم نے مجھے حال ہی میں کوئی ای میل بھیجا ہے,email_query,1.0,1.0,True
+16045,ur-PK,email,email_sendemail,دفتر کھلنے کے ٹائم ٹیبل کے لیے اسمٰعیل کو میل بھیجیں,email_sendemail,1.0,1.0,True
+16048,ur-PK,email,email_query,مجھے حالیہ ای میلز دکھائیں,email_query,0.9696,0.9696,True
+16049,ur-PK,email,email_sendemail,میں اپنے خاندان کو ایک ای میل بھیجنا چاہتا ہوں کیا آپ میری مدد کریں,email_sendemail,0.9994,0.9994,True
+16050,ur-PK,email,email_query,جی میل دیکھو,email_sendemail,1.0,0.0,False
+16052,ur-PK,email,email_query,outlook چیک کریں,email_sendemail,0.6661,0.3011,False
+16056,ur-PK,email,email_sendemail,ای میل کا جواب دو,email_sendemail,0.9998,0.9998,True
+16061,ur-PK,email,email_query,کیا مجھے پچھلے دس منٹ میں کوئی ای میل موصول ہوئی ہے,email_query,1.0,1.0,True
+16072,ur-PK,email,email_sendemail,میرے افسر کو ای میل کریں کہ میں آج ایمرجنسی کی وجہ سے دیر سے آؤں گا اور ان سے آج کی ملاقات میں شرکت نہ کرنے کی معافی مانگیں,email_sendemail,1.0,1.0,True
+16075,ur-PK,email,email_query,عروج کی طرف سے حالیہ ای میل دکھائیں,email_sendemail,1.0,0.0,False
+16082,ur-PK,email,email_sendemail,بھیجو ای میل پروانہ کو اور پوچھو ابھی وہ کیسا ہے کیا میں کچھ کر سکتا ہوں اس کی مدد کے لیے,email_query,0.9671,0.0328,False
+16089,ur-PK,email,email_query,کیا مجھے پچھلے دس منٹ میں نئی ​​ای میلز موصول ہوئی ہیں,email_query,1.0,1.0,True
+16096,ur-PK,email,email_query,کیا ایمان نے مجھے کوئی نئی ای میل بھیجی ہے,email_sendemail,0.9351,0.0649,False
+16098,ur-PK,email,email_query,امبرین کی بغیر پڑھی ہوئی ای میلز چیک کریں,email_query,0.5244,0.5244,True
+16100,ur-PK,email,email_query,برائے مہربانی ملازمت کی فہرست پر مشتمل ای میل کو چیک کرو,email_query,1.0,1.0,True
+16103,ur-PK,email,email_sendemail,میرے بھائی کو ای میل بھیجیں اور شادی کی سالگرہ بتائیں,email_sendemail,1.0,1.0,True
+16120,ur-PK,email,email_sendemail,مدد صرف حاشر کو بھیجی جائے گی,social_post,0.9881,0.0003,False
+16131,ur-PK,email,email_sendemail,یہ نئی ای میل میرے روابط میں شامل ہونی چاہیے,email_sendemail,0.9998,0.9998,True
+16145,ur-PK,email,email_query,مجھے تازہ ترین ای میلز دکھائیں,email_sendemail,0.9998,0.0002,False
+16146,ur-PK,news,news_query,مجھے تازہ ترین اپڈیٹس دیں,recommendation_events,0.3805,0.0903,False
+16148,ur-PK,email,email_sendemail,مانی کو فوری جواب دیں تو براہ کرم ایک میل بھیجیں,email_query,0.8305,0.1691,False
+16151,ur-PK,email,email_query,آج کی میل میں ملاقات کا شیڈول چیک کریں,email_query,0.9993,0.9993,True
+16162,ur-PK,email,email_sendemail,جواب دیں,email_query,0.9772,0.0178,False
+16163,ur-PK,email,email_query,جس نے کل مجھے میل کیا تھا,email_sendemail,0.488,0.3748,False
+16165,ur-PK,email,email_query,کیا سلیم نے جواب دیا,social_post,0.9561,0.0002,False
+16166,ur-PK,email,email_sendemail,کیا آپ کاجل کو جواب دے سکتے ہیں کہ میں اگلے تین ہفتوں تک پروجیکٹس میں مصروف رہوں گا,recommendation_events,0.3621,0.0104,False
+16168,ur-PK,email,email_query,کیا پچھلے پندرہ منٹ میں کوئی ای میلز پہنچی,email_sendemail,0.9448,0.0549,False
+16170,ur-PK,email,email_query,ان باکس کھولو بغیر پڑھے میلز دیکھنے کے لیے,lists_remove,0.8233,0.0053,False
+16178,ur-PK,email,email_query,amazon کی کوئی میل ہے آج,qa_factoid,0.9989,0.0,False
+16183,ur-PK,email,email_query,میری نوکری سے متعلق ای میل چیک کریں,email_query,0.9993,0.9993,True
+16201,ur-PK,email,email_sendemail,براہ کرم بصیر کے لیے نیا ای میل لوڈ کریں اور ابھی پیغام بھیجیں,email_sendemail,0.9991,0.9991,True
+16221,ur-PK,email,email_sendemail,کومل کی ای میل اوپر کرو اور لکھو کہبتاتے ہیں,email_sendemail,1.0,1.0,True
+16245,ur-PK,email,email_sendemail,سلمان ایٹ کے. ایف. سی. ڈاٹ کام پر ای میل بھیجو,email_sendemail,0.5151,0.5151,True
+16248,ur-PK,email,email_query,براہ کرم میری میل چیک کریں,email_sendemail,0.9996,0.0004,False
+16263,ur-PK,email,email_query,کیا مجھے انس کی طرف سے کوئی نئی ای میل موصول ہوئی,email_query,0.9999,0.9999,True
+16266,ur-PK,email,email_sendemail,لکھو ای میل میرے خاندان کو کہہ رہا ہوں پیار کرتا ہوں تم سب سے,email_sendemail,1.0,1.0,True
+16271,ur-PK,email,email_query,میرے ان باکس کو ریفریش کریں اور مجھے نئی ای میلز کے بارے میں مطلع کریں,email_query,0.9988,0.9988,True
+16275,ur-PK,email,email_query,نئی ای میل کی پولنگ شروع کرو,email_sendemail,1.0,0.0,False
+16276,ur-PK,email,email_query,کیا میرے پاس نئی ای میلز ہیں,email_sendemail,0.9994,0.0006,False
+16280,ur-PK,email,email_sendemail,براہ کرم امبر کو ای میل بھیجیں جو میرے خاندان اور دوست کی فہرست میں موجود ہے,email_sendemail,1.0,1.0,True
+16282,ur-PK,email,email_sendemail,کل کی تمام ملاقاتیں منسوخ کرنے کے لیے میری اسسٹنٹ یاسر کو ای میل بھیجیں,email_sendemail,1.0,1.0,True
+16296,ur-PK,email,email_sendemail,ماں کو ایک ای میل بھیجیں ان کو بتانے کے لیے وجاہت کی سالگرہ کی دعوت اتوار کو ہے,email_sendemail,1.0,1.0,True
+16297,ur-PK,email,email_sendemail,عائزہ کو ای میل کرو اور کہو تمہارا شکریہ,email_sendemail,1.0,1.0,True
+16314,ur-PK,email,email_sendemail,حمزہ کو ای میل بھیجیں,email_sendemail,1.0,1.0,True
+16317,ur-PK,email,email_query,کیا مجھے سارہ سے نئی ای میلز موصول ہوئی ہیں,email_sendemail,1.0,0.0,False
+16318,ur-PK,email,email_sendemail,ای میل کا جواب دیں,email_sendemail,0.8334,0.8334,True
+16320,ur-PK,email,email_sendemail,میں ہانیہ علی کی ای میل کا جواب دینا چاہتا ہوں,email_query,1.0,0.0,False
+16353,ur-PK,email,email_query,تارا سے ای میلز کی جانچ کریں,email_sendemail,1.0,0.0,False
+16354,ur-PK,email,email_query,میرے آجر کی طرف سے ای میل کو چیک کرنا,email_query,1.0,1.0,True
+16356,ur-PK,email,email_query,کیا میں نے گن کنٹرول کے موضوع پر اسلم کو ای میل کیا,email_sendemail,0.9995,0.0005,False
+16357,ur-PK,email,email_query,کیا طاہر نے مجھے گولہ بارود کے بارے میں ای میل کیا,email_sendemail,0.9595,0.0405,False
+16361,ur-PK,email,email_query,کیا میرے پاس آخری گھنٹے میں کوئی نئی ای میلز ہیں,email_query,0.9999,0.9999,True
+16373,ur-PK,email,email_query,کیا مجھے ٹریکنگ نمبرز سے کوئی بھی ای میلز موصول ہوئی ہیں,email_sendemail,0.6092,0.3908,False
+16375,ur-PK,email,email_sendemail,نواز کو ایک ای میل تحریر کریں,email_sendemail,1.0,1.0,True
+16376,ur-PK,email,email_sendemail,عالیہ براہ کرم ماں کو ای میل بھیجیں,email_sendemail,1.0,1.0,True
+16377,ur-PK,email,email_sendemail,ماں کو ابھی الیکٹرانک میل بھیجی,email_sendemail,0.9952,0.9952,True
+16384,ur-PK,email,email_query,ہاں کیا میرے پاس کوئی نئی ای میل ہے,email_query,1.0,1.0,True
+16385,ur-PK,email,email_query,براہ کرم نئی ای میلز پڑھیں,email_sendemail,1.0,0.0,False
+16398,ur-PK,email,email_sendemail,برائے مہربانی جعفری کو پیغام بھیجیں,email_sendemail,1.0,1.0,True
+16399,ur-PK,email,email_query,مجھے کوئی نئی ای میل ملی,email_sendemail,1.0,0.0,False
+16401,ur-PK,email,email_sendemail,احمر کو پیغام میسج کریں کہ تم آج کیا کر رہے ہو,email_sendemail,1.0,1.0,True
+16402,ur-PK,email,email_sendemail,آج کے لیے دانیہ کے منصوبے کو ای میل کریں,email_query,1.0,0.0,False
+16406,ur-PK,email,email_sendemail,علی شروع کرو ای میل,email_sendemail,0.8758,0.8758,True
+16410,ur-PK,email,email_sendemail,ای میل تشلیق کریں,email_sendemail,1.0,1.0,True
+16413,ur-PK,email,email_query,میرے افسر کی طرف سے مجھے بھیجی گئی تمام ای میلز دکھائیں,email_sendemail,1.0,0.0,False
+16419,ur-PK,email,email_sendemail,برائے مہربانی انکل پاشا کو ایک پیغام بھیجیں مندرجہ ذیل کے ساتھ ہاں میں یہ کرسکتا ہوں,email_sendemail,1.0,1.0,True
+16427,ur-PK,email,email_query,مجھے آج کتنی نئی ای میلز ملیں گی,email_sendemail,1.0,0.0,False
+16430,ur-PK,email,email_sendemail,پلیز والد والدہ کو ای میل کرو کہ وہ کیسے ہیں,email_sendemail,1.0,1.0,True
+16437,ur-PK,email,email_sendemail,برائے مہربانی یہ ای میل میرے دوست کو بھیجئیے,email_sendemail,1.0,1.0,True
+16438,ur-PK,email,email_sendemail,مجھے اس ای میل کو بھیجنے کی ضرورت ہے,email_sendemail,1.0,1.0,True
+16446,ur-PK,email,email_query,برائے مہربانی اس بھیجنے والے کی طرف سے حالیہ ای میل کے مطالعہ کو چیک کریں,email_query,1.0,1.0,True
+16459,ur-PK,email,email_sendemail,نیا پیغام جی میل ڈاٹ کام پر نئی ای میل,email_sendemail,0.9996,0.9996,True
+16461,ur-PK,email,email_query,کیا میرے پاس کوئی ناپڑھی ای میلز ہیں,email_sendemail,0.811,0.189,False
+16467,ur-PK,email,email_query,کیا میرے رابطوں میں سے کیو. کی کوئی نئی ای میلز ہیں,email_query,0.9099,0.9099,True
+16471,ur-PK,email,email_query,نعیم کی طرف سے الیکٹرانک میل چیک کریں,email_query,0.964,0.964,True
+16496,ur-PK,email,email_sendemail,ایک جوابی ای میل بھیجو,email_sendemail,1.0,1.0,True
+16501,ur-PK,email,email_sendemail,مہربانی کر کہ میل بھیجیں میری دوست رانی کو کہ وہ کیسی ہے,email_sendemail,1.0,1.0,True
+16506,ur-PK,email,email_sendemail,نیا ای میل ایڈریس شامل کریں اور ای میل بھیجیں,email_sendemail,0.9998,0.9998,True
+16518,ur-PK,email,email_sendemail,عاطف کے لیے ایک نئی ای میل شامل کریں,email_sendemail,0.9641,0.9641,True
+16519,ur-PK,email,email_sendemail,مجھے اپنے روابط میں ایک نیا ای میل شامل کرنا ہے,email_sendemail,0.7973,0.7973,True
+16535,ur-PK,email,email_sendemail,کیا تم طاہر کو ای میل لکھ سکتی ہو,email_sendemail,0.9883,0.9883,True
+16559,ur-PK,email,email_sendemail,مریم کو چار سو اور تیس اس کی ای میل کی جواب کے ساتھ جواب بھیجیں اس نے اس صبح بھیجی,email_sendemail,0.8269,0.8269,True
+16560,ur-PK,email,email_sendemail,میرے مالکان کے ای میل کا اس لفظ کے ساتھ جواب دیں کہ میں شام چار بجے حاضر ہوں گا,email_sendemail,1.0,1.0,True
+16563,ur-PK,email,email_query,گوگل نیسٹ ہب میکس میری ای میل چیک کرو,email_query,0.9969,0.9969,True
+16591,ur-PK,email,email_sendemail,مجھے علی کی طرف سے ای میل آئی ہے جسے مجھف ابھی جواب دینا ہے,email_query,1.0,0.0,False
+16593,ur-PK,email,email_sendemail,آخری ای میل کا جواب جتنی جلدی ہوسکے دینا ضروری ہے,email_sendemail,0.9998,0.9998,True
+16603,ur-PK,email,email_query,ای میل کیا کہتی ہے جو تیس منٹ پہلے امی کی طرف سے بھیجی گئی تھی,email_query,1.0,1.0,True
+16605,ur-PK,email,email_sendemail,میرے مالک کو ای میل لکھو اند بھیجو,email_sendemail,1.0,1.0,True
+16609,ur-PK,email,email_query,مجھے بتائیں کہ کیا میرے پاس کوئی پڑھی ہوئی نئی ای میلز ہیں,email_query,0.9999,0.9999,True
+16613,ur-PK,email,email_sendemail,افسر کو ای میل بھیجیں کہ مجھے دیر ہو جائے گی,email_sendemail,1.0,1.0,True
+16622,ur-PK,email,email_sendemail,اس رابطہ کو ای میل بھیجیں,email_sendemail,1.0,1.0,True
+16624,ur-PK,email,email_sendemail,مجھے میرے خدمات کے مسائل کے لیے کامکیسٹکام کو ایک ای میل بھیجنے کی ضرورت ہے,email_sendemail,1.0,1.0,True
+16627,ur-PK,email,email_query,زیادہ تر موجودہ ای میلز کو چیک کریں,email_query,0.9776,0.9776,True
+16630,ur-PK,email,email_sendemail,آخری الیکٹرانک میل کو جواب بھیجیں,email_query,0.9944,0.005,False
+16642,ur-PK,email,email_query,شاہدہ کی طرف سے کسی بھی چیز کے لیے میل چیک کریں,email_query,0.8918,0.8918,True
+16648,ur-PK,email,email_query,برائے مہربانی میرے لیے الیکٹرانک میل چیک کریں,email_query,0.7137,0.7137,True
+16652,ur-PK,email,email_query,کیا علی کی ای میل میں ایک منسلکہ تھا,email_sendemail,0.753,0.247,False
+16662,ur-PK,email,email_query,کیا مجھے دانیہ کی طرف سے کوئی نئی ای میل موصول ہوئی,email_query,1.0,1.0,True
+16666,ur-PK,email,email_query,کیا مجھے کوئی ای میلز آئی ہیں,email_sendemail,1.0,0.0,False
+16668,ur-PK,email,email_query,کیا آج چار سو کے بعد سے کوئی ای میل آئی ہے,email_query,1.0,1.0,True
+16669,ur-PK,email,email_query,مجھے مانو کی طرف سے ایک ای میل ملا,email_sendemail,1.0,0.0,False
+16672,ur-PK,email,email_query,احسن سے رابطہ ہوا ہے,email_sendemail,0.9926,0.0004,False
+16677,ur-PK,email,email_query,کیا آج میرے ان باکس میں کوئی نئی ای میلز ہے,email_query,1.0,1.0,True
+16698,ur-PK,email,email_sendemail,میری ماں کی ای میل کا جواب تحریر کرو,email_sendemail,0.9754,0.9754,True
+16701,ur-PK,email,email_sendemail,میں سارہ کی ای میل کا جواب دینا چاہوں گا,email_query,1.0,0.0,False
+16703,ur-PK,email,email_sendemail,میں تازہ پیغام کا جواب دیا چاہتا ہے,recommendation_events,0.1945,0.135,False
+16712,ur-PK,email,email_query,کیا میرے پاس کوئی نئی ای میل ہے,email_query,0.9999,0.9999,True
+16713,ur-PK,email,email_query,براہ کرم میری ای میلز کو چیک کریں اور اگر کوئی نئی ای میل موجود ہے تو مجھے مطلع کریں,email_query,1.0,1.0,True
+16717,ur-PK,email,email_sendemail,کیا آپ روہت کو ای میل کر سکتے ہیں کہ میں چھٹی پر ہوں,email_sendemail,0.9935,0.9935,True
+16719,ur-PK,email,email_query,مجھے دیکھنے دیں کوئی نئی ای میلز جو میں نے موصول کی ہیں,email_query,1.0,1.0,True
+16729,ur-PK,email,email_sendemail,علی کی طرف سے میرے ای میل کا جواب دیتے ہوئے انہیں بتائیں کہ میں کل ان سے ملوں گا,email_query,1.0,0.0,False
+16730,ur-PK,email,email_query,براہ کرم اکرم سے نیا الیکٹرانک میل چیک کریں,email_query,0.9988,0.9988,True
+16733,ur-PK,email,email_query,دکھاوؑ مجھے تازہ ترین پیغامات amazon سے,email_sendemail,1.0,0.0,False
+16749,ur-PK,email,email_query,کیا آج کی میرے کیئے کوئی نئی ای میلز ہیں,email_query,1.0,1.0,True
+16754,ur-PK,email,email_sendemail,ای میل لکھیں,email_sendemail,1.0,1.0,True
+16758,ur-PK,email,email_query,پچھلی بار سے کوئی نیا ای میل,email_query,1.0,1.0,True
+16763,ur-PK,email,email_query,آخری دس منٹ میں ای میلز,email_sendemail,1.0,0.0,False
+16765,ur-PK,email,email_query,کل کی ای میل سے انٹرویو کا وقت کیا ہے,qa_factoid,0.8015,0.0617,False
+16766,ur-PK,email,email_query,نئی ای میل دیکھو,email_sendemail,1.0,0.0,False
+16772,ur-PK,email,email_query,خلاف ورزی سے متعلق تمام ای میلز دکھائیں,lists_remove,0.9876,0.0004,False
+16780,ur-PK,email,email_sendemail,بھیجو ای میل جبارایٹ جی میل ڈاٹ کام کو,email_sendemail,1.0,1.0,True
+16791,ur-PK,email,email_sendemail,ایک نئی ای میل تحریر کی ہے مگر اس بار مجھے ایک نئی ایڈریس ملی ہے نیشنل ایٹ ایگزیمپل ڈاٹ کام,email_query,0.6848,0.3152,False
+16799,ur-PK,email,email_query,کیا مجھے دوپہر کے بعد سے کوئی ای میل موصول ہوئی ہے,email_query,1.0,1.0,True
+16801,ur-PK,email,email_query,کیا ندا نے مجھے فرحان کے بارے میں کوئی ای میل بھیجی ہے,email_query,0.9999,0.9999,True
+16813,ur-PK,email,email_query,جب بھی جمشید کی طرف سے ای میل آئے تو بیپ کرنا,email_query,0.9996,0.9996,True
+16814,ur-PK,email,email_query,ای میلز چیک کریں,email_sendemail,1.0,0.0,False
+16838,ur-PK,email,email_sendemail,کیا تم اس نئی آئی ڈی کو ای میل کر سکتے ہو,email_query,1.0,0.0,False
+16851,ur-PK,email,email_query,ای میل کی اطلاعات,email_sendemail,1.0,0.0,False
+16859,ur-PK,email,email_query,میں نے اپنی آخری ای میل میں گوہر کو کیا بتایا,email_sendemail,0.9912,0.0088,False
+16872,ur-PK,email,email_sendemail,میرے روابط میں سے ندا کو ڈھونڈو اور اسے ایک ای میل کرو,email_sendemail,0.9991,0.9991,True
+16873,ur-PK,email,email_sendemail,ندا کو اس کی سالگرہ کے لیے ای میل کریں,email_sendemail,0.9999,0.9999,True
+16880,ur-PK,email,email_sendemail,آسیہ کو ملاقات کے بارے میں ای میل بھیجو,email_sendemail,1.0,1.0,True
+16883,ur-PK,email,email_sendemail,جمشید کو ای میل کرو اور پوچھو وہ آج رات کس وقت گھر ہوگا,email_sendemail,1.0,1.0,True
+16886,ur-PK,email,email_sendemail,اس میل کا جواب دو,email_sendemail,1.0,1.0,True
+16888,ur-PK,email,email_query,نئے میل کے بارے میں کیا ہے,qa_factoid,0.3757,0.0246,False
+16890,ur-PK,email,email_query,نیا ای میل کیا کہتا ہے,email_sendemail,0.9998,0.0002,False
+16891,ur-PK,email,email_sendemail,امین خان کو ای میل بھیجیں,email_sendemail,1.0,1.0,True
+16892,ur-PK,email,email_sendemail,عمر کو شروع کریں اور ای میل کریں,email_sendemail,1.0,1.0,True
+16899,ur-PK,email,email_query,کیا مجھے جویریہ عباسی کی طرف سے کوئی ای میلز موصول ہوئی ہیں,email_query,0.8572,0.8572,True
+16914,ur-PK,email,email_query,کیا مجھے اس سینڈر سے ای میلز آئی ہیں,email_sendemail,1.0,0.0,False
+16916,ur-PK,email,email_sendemail,ہاۓ جواب دو میل کا جو میں نے موصول کی,email_query,0.8918,0.1063,False
+16924,ur-PK,email,email_query,براہ کرم نئے میل کے لیے میرا جی میل چیک کریں,email_sendemail,0.9991,0.0009,False
+16930,ur-PK,email,email_query,تازہ ترین ای میل دکھائیں,email_sendemail,1.0,0.0,False
+16938,ur-PK,email,email_sendemail,علی کی ای میل کا جواب دیں,email_sendemail,0.6428,0.6428,True
+16944,ur-PK,email,email_sendemail,دادی کو ایک ای میل بھیجیں کہ ہم ہفتہ کو چھوڑ رہے ہیں پھر ملیں گے,email_sendemail,1.0,1.0,True
+16947,ur-PK,email,email_sendemail,ای میل کا جواب دو,email_sendemail,0.9998,0.9998,True
+16955,ur-PK,email,email_sendemail,نئے ربط کو الیکٹرانک میل کرو,iot_hue_lightoff,0.4113,0.0095,False
+16956,ur-PK,email,email_sendemail,نئے رابطے کو ای میل بھیجیں,email_sendemail,1.0,1.0,True
+16961,ur-PK,email,email_sendemail,کے ساتھ جواب دو,qa_factoid,0.3717,0.0559,False
+16974,ur-PK,email,email_query,محکمہ انکم ٹیکس کی تمام نئی ای میل چیک کرو,email_query,0.9238,0.9238,True
+16987,ur-PK,email,email_query,حیدر کی طرف سے کویٴ نیا الیکٹرانک میل,cooking_recipe,0.9795,0.0095,False
+16989,ur-PK,email,email_sendemail,براہ کرم اس ای میل سے کہو جس نے مجھے سیمہ نے بھیجا تھا مجھے رقم کی ضرورت ہے اب یہ ضروری ہے,email_sendemail,0.5912,0.5912,True
+16992,ur-PK,email,email_query,کیا طلحہ علی نے مجھے ای میل کیا ہے,email_query,0.8142,0.8142,True
+16995,ur-PK,email,email_sendemail,جویریہ کو ای میل بھیجیں,email_sendemail,1.0,1.0,True
+17005,ur-PK,email,email_query,براہ کرم نئی ای میل چیک کریں,email_sendemail,0.9982,0.0018,False
+17011,ur-PK,email,email_sendemail,کیا تم ایک الیکٹرانک میل بھیج سکتے ہو,email_sendemail,0.7151,0.7151,True
+17015,ur-PK,email,email_sendemail,جواب شروع کرو,email_query,0.6962,0.0041,False
+17019,ur-PK,email,email_sendemail,آخری ای میل کا جواب دو,email_sendemail,0.9082,0.9082,True
+17020,ur-PK,email,email_sendemail,آخری موصول ہونے والی ای میل کا جواب دیں,email_query,1.0,0.0,False
+17023,ur-PK,email,email_sendemail,ماں کو ای میل کریں اور پوچھیں کہ موسم کیسا ہے,email_sendemail,1.0,1.0,True
+17042,ur-PK,email,email_sendemail,ھادی ایٹ جی میل ڈاٹ کام کے لیے ایک ای میل لکھیں,email_sendemail,0.9293,0.9293,True
+17043,ur-PK,email,email_sendemail,علی ایٹ جی میل ڈاٹ کام پر ای میل بھیجو,email_query,0.9666,0.0334,False
+17051,ur-PK,email,email_query,مجھے نیا ای میل حاصل کریں,email_sendemail,1.0,0.0,False
+17052,ur-PK,email,email_query,تیمور کو تلاش کریں,recommendation_events,0.9698,0.0011,False
+17069,ur-PK,email,email_query,کیا outlook میں کوئی نئی الیکٹرانک میلز ہیں,email_query,0.9959,0.9959,True
+17075,ur-PK,email,email_query,کیا آج چار بجے کے بعد کوئی نئی ای میل موصول ہوئی ہیں,email_query,1.0,1.0,True
+17081,ur-PK,email,email_sendemail,بنائو ای میل میرے کمپنی کارکن کو میری حالیہ محفوط ڈاکومنٹ کو,email_sendemail,1.0,1.0,True
+17087,ur-PK,email,email_query,نئی ای میلز چیک کرو سارہ سےآئی ہوئی,email_sendemail,1.0,0.0,False
+17098,ur-PK,email,email_query,پچھلے گھنٹے میں موصول ہونے والی کوئی بھی ای میلز دکھاؤ,email_query,0.9897,0.9897,True
+17107,ur-PK,email,email_query,نئے پیغامات کی جانچ کرو,email_sendemail,0.9702,0.0292,False
+17108,ur-PK,email,email_query,مجھے میریجدید ای میل بھیجو,email_sendemail,1.0,0.0,False
+17113,ur-PK,email,email_sendemail,یسرا کو بھیجنے کیلیے ای میل بناؤ,email_sendemail,0.9999,0.9999,True
+17115,ur-PK,email,email_query,نئی ای میلز کی فہرست کو پڑھیں,email_sendemail,0.9862,0.0004,False
+17116,ur-PK,email,email_query,حالیہ ای میلز کی فہرست دکھائیں,email_sendemail,1.0,0.0,False
+17119,ur-PK,email,email_query,amazon سے کوئی میل چیک کرو,qa_factoid,0.4022,0.0017,False
+17123,ur-PK,email,email_sendemail,علاقائی وی. پی. کے لیے ای میل فارم,email_query,0.5364,0.4636,False
+17135,ur-PK,email,email_query,کوئی بھی لائٹنگ نیوز ای میلز,email_sendemail,0.9983,0.0017,False
+17136,ur-PK,email,email_query,براہ مہربانی میری نئی ای میلز پڑھو,email_sendemail,1.0,0.0,False
+17138,ur-PK,email,email_query,مہربانی کرکہ محفوظ کرو میرے پڑھے ہوۓ پیغامات کو,email_sendemail,0.9996,0.0003,False
+17142,ur-PK,email,email_query,جب سے ہم نے آخری بار دیکھا ہے میرے ان باکس میں کیا ہے,email_query,0.1038,0.1038,True
+17143,ur-PK,email,email_sendemail,ارے عینی کو ای میل بھیجیں,email_sendemail,1.0,1.0,True
+17144,ur-PK,email,email_query,ہائے ای میل چیک کرو,email_sendemail,0.9999,0.0001,False
+17147,ur-PK,email,email_sendemail,میل کو اس متن کے ساتھ جواب دو ہیلو یو,email_sendemail,0.5469,0.5469,True
+17148,ur-PK,email,email_sendemail,سنیا مندرجہ ذیل مواد کے ساتھ میل کا جواب ہیلو تم,email_query,0.9996,0.0004,False
+17151,ur-PK,email,email_sendemail,میرے دوست عمیر نے مجھے اپنے نئے خریدے ہوئے گھر کا دعوتی کارڈ بھیجا ہے کہ اس کی میل آئی ڈی میں اس کا شکریہ ادا کریں,email_sendemail,0.9012,0.9012,True
+17156,ur-PK,email,email_query,جواد کی طرف سے کسی بھی نئے ای میل کے لیے میرا ای میل چیک کریں,email_sendemail,0.5486,0.4513,False
+17157,ur-PK,email,email_query,کیا میرے پاس جنید کی طرف سے کوئی نئی ای میل ہے,email_query,0.9997,0.9997,True
+17170,ur-PK,email,email_query,جب جیسمین مجھے ای میلز کرے تو مجھے مطلع کریں,email_sendemail,1.0,0.0,False
+17179,ur-PK,email,email_query,سحر نے مجھے ایک ای میل بھیجا ہے,email_sendemail,1.0,0.0,False

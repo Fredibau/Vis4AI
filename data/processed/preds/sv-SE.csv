@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,sv-SE,iot,iot_hue_lightoff,olly släck lamporna i sovrummet,iot_hue_lightoff,0.3756,0.3756,True
+47,sv-SE,datetime,datetime_query,vad är klockan i australien,weather_query,0.9654,0.0332,False
+85,sv-SE,datetime,datetime_query,säg dagens datum,weather_query,0.3614,0.0097,False
+86,sv-SE,datetime,datetime_query,vilket datum är det idag,datetime_query,0.648,0.648,True
+100,sv-SE,weather,weather_query,vad är veckans prognos,qa_factoid,0.6493,0.022,False
+102,sv-SE,weather,weather_query,hur är denna veckas väder,weather_query,0.9983,0.9983,True
+103,sv-SE,weather,weather_query,berätta om vädret den här veckan,weather_query,0.9966,0.9966,True
+128,sv-SE,datetime,datetime_query,vilket datum är det,datetime_query,0.997,0.997,True
+151,sv-SE,play,play_music,spela den igen,play_music,0.9819,0.9819,True
+177,sv-SE,news,news_query,ge mig några ekonomi nyheter,recommendation_events,0.374,0.0094,False
+178,sv-SE,news,news_query,ge mig internationella nyheter,news_query,0.6628,0.6628,True
+182,sv-SE,play,play_music,spela min rockspellista,qa_factoid,0.8306,0.1481,False
+185,sv-SE,play,play_music,sätt på min spellista och spela tredje låten i kön,play_music,0.9998,0.9998,True
+197,sv-SE,datetime,datetime_query,vad är klockan,datetime_query,0.9463,0.9463,True
+216,sv-SE,weather,weather_query,hur är vädret idag,weather_query,0.9988,0.9988,True
+219,sv-SE,weather,weather_query,ska jag ta med ett paraply imorgon,lists_remove,0.3243,0.0493,False
+220,sv-SE,play,play_music,spela musik från rocklistan,play_music,1.0,1.0,True
+250,sv-SE,play,play_music,jag känner för jazz just nu och du då,qa_factoid,0.6018,0.1094,False
+254,sv-SE,play,play_music,google spela en bra låt från mina favorit jazzmusiker,play_music,0.9999,0.9999,True
+279,sv-SE,weather,weather_query,vad är dagens prognos i göteborg,qa_factoid,0.5008,0.07,False
+281,sv-SE,news,news_query,vad är det för växelkurs från u. s. dollar till sterling pund,qa_factoid,0.633,0.014,False
+296,sv-SE,play,play_music,spela nirvana spellista,play_music,0.9996,0.9996,True
+297,sv-SE,play,play_music,blanda låtar av gyllene tider,play_music,0.9983,0.9983,True
+299,sv-SE,weather,weather_query,hur är vädret,weather_query,0.9988,0.9988,True
+310,sv-SE,datetime,datetime_query,vilken dag är det nyår i år,weather_query,0.872,0.0879,False
+319,sv-SE,weather,weather_query,berätta vädret i malmö två dagar från nu,weather_query,0.9988,0.9988,True
+329,sv-SE,play,play_music,sommarnatt,calendar_remove,0.5925,0.0329,False
+333,sv-SE,weather,weather_query,hur är väderförhållandena i stockholm,weather_query,0.9981,0.9981,True
+334,sv-SE,weather,weather_query,jag önskar att få veta vädret i stockholm,weather_query,0.9999,0.9999,True
+344,sv-SE,weather,weather_query,kommer det att regna imorgon,weather_query,0.9995,0.9995,True
+348,sv-SE,weather,weather_query,kommer det att regna imorgon,weather_query,0.9995,0.9995,True
+355,sv-SE,datetime,datetime_query,vilken veckodag är första april,datetime_query,0.4405,0.4405,True
+360,sv-SE,datetime,datetime_query,vad är klockan just nu,weather_query,0.9937,0.0005,False
+362,sv-SE,play,play_music,spela den andra låten av magnus uggla,play_music,1.0,1.0,True
+366,sv-SE,news,news_query,berätta de senaste nyheterna tack,email_sendemail,0.9771,0.0137,False
+369,sv-SE,iot,iot_hue_lightoff,stäng av lamporna,calendar_remove,0.5686,0.1526,False
+385,sv-SE,news,news_query,vad är jättenyheten i expressen,qa_factoid,0.7422,0.0006,False
+391,sv-SE,play,play_music,spela slumpmässig låt från min spellista,play_music,1.0,1.0,True
+393,sv-SE,play,play_music,spela en retro sång i min spellista,play_music,1.0,1.0,True
+397,sv-SE,play,play_music,spela någon låt av agnes,play_music,1.0,1.0,True
+400,sv-SE,play,play_music,börja spela,play_music,0.9845,0.9845,True
+407,sv-SE,play,play_music,kan du spela rockmusik nästa timme,play_music,1.0,1.0,True
+424,sv-SE,news,news_query,vad är senaste nytt,news_query,0.9947,0.9947,True
+427,sv-SE,iot,iot_hue_lightoff,släck lamporna i badrummet,iot_hue_lightoff,0.5349,0.5349,True
+428,sv-SE,iot,iot_hue_lightoff,stäng av lamporna i badrummet,iot_hue_lightoff,0.4377,0.4377,True
+430,sv-SE,weather,weather_query,hur är vädret just nu,weather_query,0.9986,0.9986,True
+437,sv-SE,play,play_music,öppna loreen album,email_sendemail,0.6536,0.0011,False
+441,sv-SE,news,news_query,vad är de senaste nyhetsrubrikerna,news_query,0.9518,0.9518,True
+442,sv-SE,news,news_query,vad händer i nyhetsväg,social_post,0.9969,0.0001,False
+451,sv-SE,news,news_query,ge mig den nyaste aktiepriset för costco,qa_factoid,0.4538,0.0002,False
+473,sv-SE,play,play_music,spela easy on me,play_radio,0.5871,0.3502,False
+486,sv-SE,datetime,datetime_query,vad är det för tid i new york city,weather_query,0.9984,0.0001,False
+491,sv-SE,weather,weather_query,är det kallt ute,weather_query,0.9996,0.9996,True
+506,sv-SE,play,play_music,öppna låtar från timbuktu,play_music,0.9957,0.9957,True
+512,sv-SE,weather,weather_query,av abba,qa_factoid,0.9983,0.0,False
+540,sv-SE,play,play_music,spela låten sjungen av miss li,play_music,1.0,1.0,True
+555,sv-SE,play,play_music,spela beyonce halo,play_music,0.6282,0.6282,True
+576,sv-SE,play,play_music,spela alla av spellista,play_music,0.975,0.975,True
+585,sv-SE,news,news_query,visa de senaste nyheterna,news_query,0.8048,0.8048,True
+588,sv-SE,news,news_query,vad är nya nyheter för idag,news_query,0.9607,0.9607,True
+590,sv-SE,weather,weather_query,hur är vädret just nu,weather_query,0.9986,0.9986,True
+614,sv-SE,play,play_music,starta spellista,play_music,0.4893,0.4893,True
+625,sv-SE,play,play_music,snälla spela radio låten händerna mot himlen,play_radio,0.9999,0.0001,False
+631,sv-SE,news,news_query,notifiera mig om det kommer några nyheter om northstream,email_sendemail,0.5869,0.3382,False
+651,sv-SE,iot,iot_hue_lightoff,släck lamporna i rummet,calendar_remove,0.3293,0.2495,False
+660,sv-SE,datetime,datetime_query,tiden i japan just nu,qa_factoid,0.8205,0.0037,False
+680,sv-SE,news,news_query,håll mig uppdaterad om bitcoin pris tack,email_sendemail,0.9988,0.0,False
+686,sv-SE,datetime,datetime_query,vad är klockan nu i new york,weather_query,0.9985,0.0001,False
+712,sv-SE,news,news_query,jag vill höra de senaste nyheterna från s. v. t.,news_query,0.5896,0.5896,True
+726,sv-SE,weather,weather_query,sumemra veckans väderprognos,weather_query,0.9087,0.9087,True
+730,sv-SE,iot,iot_hue_lightoff,släck lamporna,calendar_remove,0.5586,0.1401,False
+738,sv-SE,weather,weather_query,hur kallt är det ute idag,weather_query,0.9957,0.9957,True
+764,sv-SE,weather,weather_query,hur är väderprognosen för den här veckan,weather_query,0.9977,0.9977,True
+765,sv-SE,news,news_query,kan du ge mig en uppdatering på överskrifterna från min nyaste leverantör,iot_hue_lightoff,0.132,0.0366,False
+767,sv-SE,news,news_query,kan du hitta nyheter åt mig från en källa jag inte normalt går till tack,qa_factoid,0.9907,0.0008,False
+768,sv-SE,news,news_query,ge mig de senaste politiska nyheterna,news_query,0.9682,0.9682,True
+779,sv-SE,play,play_music,jag vill höra pepas av farruko,play_music,0.9751,0.9751,True
+781,sv-SE,play,play_music,spela eld och lågor,play_music,0.4659,0.4659,True
+782,sv-SE,play,play_music,spela eld och lågor av victor leksell,play_music,0.9989,0.9989,True
+783,sv-SE,play,play_music,spela kärlekslåtar,play_music,0.9996,0.9996,True
+790,sv-SE,weather,weather_query,milt eller tungt väder,cooking_recipe,0.0817,0.0524,False
+826,sv-SE,weather,weather_query,vad är den nuvarande temperaturen utomhus,weather_query,0.9867,0.9867,True
+827,sv-SE,play,play_music,spela min spellista med per gessle,play_music,0.9952,0.9952,True
+832,sv-SE,weather,weather_query,hej vad kommer att vara det förutspådda vädret imorgon,weather_query,0.997,0.997,True
+837,sv-SE,news,news_query,vad visar s. c. b. granskning om stadsminister omröstningen,qa_factoid,0.4263,0.1073,False
+891,sv-SE,play,play_music,spela lite kristen musik,play_music,1.0,1.0,True
+914,sv-SE,iot,iot_hue_lightoff,släck lamporna tack,lists_remove,0.7359,0.0757,False
+936,sv-SE,play,play_music,öppna och börja spela min joggingspellista,play_radio,0.6689,0.1735,False
+951,sv-SE,weather,weather_query,hur är vädret just nu i stockholm,weather_query,0.9995,0.9995,True
+969,sv-SE,news,news_query,nyhets artiklar om ett speciellt projekt,news_query,1.0,1.0,True
+974,sv-SE,datetime,datetime_query,vad är klockan i mörbylånga nu,iot_hue_lightoff,0.57,0.0008,False
+997,sv-SE,iot,iot_hue_lightoff,släck lampan i vardagsrummet,calendar_remove,0.3775,0.1418,False
+999,sv-SE,iot,iot_hue_lightoff,kan du slå av lampan,iot_hue_lightoff,0.7509,0.7509,True
+1007,sv-SE,play,play_music,spela europe från min rock spellista,play_music,0.9999,0.9999,True
+1014,sv-SE,datetime,datetime_query,vad är klockan i london just nu,weather_query,0.999,0.0001,False
+1047,sv-SE,play,play_music,jag behöver gråta spela ledsna rocklåtar,play_music,1.0,1.0,True
+1061,sv-SE,news,news_query,ge mig de senaste sport nyheterna,news_query,0.5534,0.5534,True
+1063,sv-SE,news,news_query,ge mig uppdateringar varje timme om sporten,email_sendemail,0.9955,0.0003,False
+1084,sv-SE,news,news_query,användarvänlig,qa_factoid,0.5626,0.0148,False
+1093,sv-SE,news,news_query,gå till svenska dagbladet webbsidan,social_post,0.9897,0.0005,False
+1098,sv-SE,datetime,datetime_query,vilken veckodag infaller den femtonde mars på,weather_query,0.8485,0.0785,False
+1108,sv-SE,play,play_music,min önskan är att lyssna på lite country musik,play_music,0.9993,0.9993,True
+1115,sv-SE,play,play_music,koordinera alla pop låts genrer,play_music,0.9608,0.9608,True
+1120,sv-SE,news,news_query,händer det något speciellt idag i politiken,qa_factoid,0.8037,0.0018,False
+1121,sv-SE,play,play_music,spela lady med kenny roger,play_music,0.9974,0.9974,True
+1123,sv-SE,play,play_music,nästa låt spela victor leksells eld och lågor,play_music,0.985,0.985,True
+1124,sv-SE,play,play_music,gör victor leksells låt eld och lågor redo att spelas som nästa,iot_hue_lightoff,0.8382,0.0335,False
+1127,sv-SE,play,play_music,spela alla låtar på shuffle,play_music,0.9989,0.9989,True
+1144,sv-SE,play,play_music,jag vill ha lite rap,play_music,0.9986,0.9986,True
+1148,sv-SE,datetime,datetime_query,vad är klockan i sydney just nu,weather_query,0.999,0.0002,False
+1156,sv-SE,news,news_query,senaste nyheter om internationella kvinnodagen,news_query,0.7482,0.7482,True
+1160,sv-SE,weather,weather_query,hur kallt kommer det att bli varje natt den här veckan,weather_query,0.9946,0.9946,True
+1180,sv-SE,news,news_query,ta fram dagens wapo artiklar om trump,social_post,0.926,0.0326,False
+1202,sv-SE,datetime,datetime_query,tid i new york nu,calendar_remove,0.1949,0.0221,False
+1238,sv-SE,play,play_music,pandora,qa_factoid,0.1403,0.0391,False
+1249,sv-SE,weather,weather_query,hur kommer vädret troligtvis att bli denna veckan,weather_query,0.9998,0.9998,True
+1252,sv-SE,datetime,datetime_query,ge mig aktuell tid,datetime_query,0.5931,0.5931,True
+1294,sv-SE,news,news_query,ge mig nyheterna om oscars galan,news_query,0.9879,0.9879,True
+1301,sv-SE,news,news_query,berätta om ann lindes nya utrikespolitik,news_query,0.4477,0.4477,True
+1308,sv-SE,weather,weather_query,få dagens klimatrapport här,weather_query,0.3419,0.3419,True
+1318,sv-SE,play,play_music,starta musikapp och spela en låt för mig,play_music,1.0,1.0,True
+1351,sv-SE,weather,weather_query,kommer det att vara fint ute i veckan,weather_query,0.9962,0.9962,True
+1371,sv-SE,news,news_query,vad finns det på new york time's framsida,iot_hue_lightoff,0.673,0.0093,False
+1377,sv-SE,iot,iot_hue_lightoff,snälla släck ljuset i min sons rum,iot_hue_lightoff,0.695,0.695,True
+1400,sv-SE,weather,weather_query,för det mesta är jag uppmärksam,qa_factoid,0.7723,0.0092,False
+1401,sv-SE,weather,weather_query,ibland är jag uppmärksam,social_post,0.9827,0.0002,False
+1404,sv-SE,weather,weather_query,kan jag snälla få veta vädret för imorgon här i stockholm,weather_query,0.9993,0.9993,True
+1423,sv-SE,news,news_query,berätta för mig om löfven,social_post,0.8432,0.0558,False
+1425,sv-SE,news,news_query,berätta för mig så fort du hör något från frankrike,play_podcasts,0.9276,0.0036,False
+1440,sv-SE,play,play_music,spela senaste rocklåtarna betyg fyra och högre,play_music,1.0,1.0,True
+1449,sv-SE,datetime,datetime_query,när är påsk år tvåtusenarton,weather_query,0.9746,0.0228,False
+1458,sv-SE,weather,weather_query,hur varmt är det i härnösand,weather_query,0.9974,0.9974,True
+1467,sv-SE,play,play_music,spela vikingarna,play_music,0.9773,0.9773,True
+1474,sv-SE,news,news_query,vad är dagens sport nyheter,news_query,0.9259,0.9259,True
+1489,sv-SE,play,play_music,spela de senaste låtarna av nanne grönvall,play_music,0.9995,0.9995,True
+1513,sv-SE,weather,weather_query,hur är temperaturen ute,weather_query,0.9983,0.9983,True
+1533,sv-SE,news,news_query,vilka nyheter har varit på s. v. t. idag,weather_query,0.1694,0.142,False
+1537,sv-SE,datetime,datetime_query,visa den aktuella tiden i tyskland,weather_query,0.9977,0.0004,False
+1542,sv-SE,weather,weather_query,solen skiner ljust kommer vi ha det här vädret resten av dagen,weather_query,0.9975,0.9975,True
+1546,sv-SE,play,play_music,spela mina sommarlåtar spellista,play_music,1.0,1.0,True
+1547,sv-SE,weather,weather_query,hur är vädret min plats den här veckan,weather_query,0.9992,0.9992,True
+1549,sv-SE,weather,weather_query,kommer det att regna den här veckan,weather_query,0.9987,0.9987,True
+1554,sv-SE,iot,iot_hue_lightoff,släck lamporna,calendar_remove,0.5586,0.1401,False
+1581,sv-SE,datetime,datetime_query,vad är dagens datum,datetime_query,0.9707,0.9707,True
+1589,sv-SE,weather,weather_query,kommer det vara soligt nästa tisdag,iot_hue_lightoff,0.3977,0.2896,False
+1593,sv-SE,news,news_query,skapa notifikation från reuters,qa_factoid,0.6989,0.0027,False
+1594,sv-SE,news,news_query,kan du berätta de senaste nyheterna,news_query,0.9949,0.9949,True
+1607,sv-SE,datetime,datetime_query,säg mig aktuell tid i vaggeryd,weather_query,0.9694,0.0014,False
+1617,sv-SE,news,news_query,om det kommer upp en ny rubrik om politik notifiera mig,social_post,0.9761,0.0228,False
+1636,sv-SE,news,news_query,visa mig de senaste nyheterna från guardian,news_query,0.8219,0.8219,True
+1653,sv-SE,weather,weather_query,när kommer det att regna nästa gång,weather_query,0.999,0.999,True
+1655,sv-SE,weather,weather_query,kommer det att snöa imorgon mitt på dagen,weather_query,0.9772,0.9772,True
+1666,sv-SE,news,news_query,vad är de senaste nyheten från de sista sex timmarna från s. v. t.,news_query,0.9701,0.9701,True
+1671,sv-SE,play,play_music,spela bara musik som släppts mellan nittionhundra nittio och tvåtusen,play_music,1.0,1.0,True
+1683,sv-SE,weather,weather_query,morgondagens temperatur är att det kommer vara varmt ja eller nej,weather_query,0.9911,0.9911,True
+1684,sv-SE,weather,weather_query,ja eller nej morgondagens temperatur kommer vara varm,weather_query,0.999,0.999,True
+1692,sv-SE,play,play_music,hitta lite smooth jazz åt mig,play_music,0.9563,0.9563,True
+1722,sv-SE,weather,weather_query,vad är den lägsta temperaturen i stockholm,weather_query,0.9969,0.9969,True
+1750,sv-SE,iot,iot_hue_lightoff,släck alla lampor,lists_remove,0.7392,0.0395,False
+1759,sv-SE,news,news_query,ge mig nyheter om stadsminister löfven,news_query,0.4936,0.4936,True
+1760,sv-SE,news,news_query,senaste nyheter om terrorism,social_post,0.9324,0.031,False
+1777,sv-SE,play,play_music,nästa låt,play_music,0.9996,0.9996,True
+1784,sv-SE,iot,iot_hue_lightoff,stäng av matsalen,calendar_remove,0.7005,0.1593,False
+1786,sv-SE,iot,iot_hue_lightoff,stäng ner huvudsovrummet,calendar_remove,0.4058,0.357,False
+1794,sv-SE,news,news_query,kommer trump besöka ryssland någon gång snart,social_post,0.6797,0.0008,False
+1796,sv-SE,datetime,datetime_query,datum idag,datetime_query,0.9992,0.9992,True
+1803,sv-SE,news,news_query,vilka lag spelar idag i allsvenskan,play_music,0.3174,0.015,False
+1811,sv-SE,play,play_music,starta spellistan och spela musik,play_music,0.9949,0.9949,True
+1832,sv-SE,play,play_music,spela coldplay album,play_music,0.7966,0.7966,True
+1833,sv-SE,play,play_music,kan du loopa min spellista teman,qa_factoid,0.8486,0.0183,False
+1866,sv-SE,weather,weather_query,väderrapport nu,weather_query,0.9977,0.9977,True
+1870,sv-SE,datetime,datetime_query,vilken månad är det idag,weather_query,0.8839,0.1131,False
+1904,sv-SE,news,news_query,ge mig match höjdpunkter,qa_factoid,0.9955,0.0,False
+1933,sv-SE,weather,weather_query,kommer det att bli ett fall i temperatur ikväll,weather_query,0.9969,0.9969,True
+1940,sv-SE,play,play_music,spela låt titeln,play_music,1.0,1.0,True
+1962,sv-SE,play,play_music,hej google spela min spellista knäpp,recommendation_events,0.93,0.0066,False
+1994,sv-SE,play,play_music,kan du öppna min itunes,iot_hue_lightoff,0.8799,0.0018,False
+1995,sv-SE,play,play_music,spela beatles,play_music,0.9967,0.9967,True
+2007,sv-SE,play,play_music,spela eld och lågor tack,play_music,0.5401,0.5401,True
+2062,sv-SE,play,play_music,jag vill höra lite jazz musik,play_music,1.0,1.0,True
+2085,sv-SE,play,play_music,alexa jag vill lyssna på något klassiskt förutom bach eller schubert,play_music,0.9957,0.9957,True
+2098,sv-SE,news,news_query,vad händer i världen just nu,social_post,0.6658,0.0162,False
+2108,sv-SE,play,play_music,spela bärsärkagång härnäst,play_music,0.9575,0.9575,True
+2113,sv-SE,recommendation,recommendation_events,tala om alla pågående evenemang i min hemstad,news_query,0.333,0.083,False
+2146,sv-SE,datetime,datetime_query,vilket datum är vintersolståndet om två år från nu,weather_query,0.9183,0.0712,False
+2156,sv-SE,datetime,datetime_query,jag behöver veta vad klockan är just nu vad är den,weather_query,0.9995,0.0001,False
+2160,sv-SE,iot,iot_hue_lightoff,jag går och sover nu,iot_hue_lightoff,0.5192,0.5192,True
+2178,sv-SE,weather,weather_query,vad är det nuvarande väderförhållandet på min plats,weather_query,0.9985,0.9985,True
+2198,sv-SE,datetime,datetime_query,vilken veckodag var den fjärde december nittonhundra åttiotvå,datetime_query,0.9537,0.9537,True
+2201,sv-SE,news,news_query,s. v. t. huvudrubriker,social_post,0.7022,0.0017,False
+2203,sv-SE,news,news_query,s. v. t. världs nyheter,qa_factoid,0.7775,0.0918,False
+2220,sv-SE,weather,weather_query,väder i stockholm,weather_query,0.998,0.998,True
+2225,sv-SE,play,play_music,spela eld och lågor med victor leksells,play_music,0.9993,0.9993,True
+2230,sv-SE,iot,iot_hue_lightoff,släck lampan i köket,iot_hue_lightoff,0.5584,0.5584,True
+2237,sv-SE,news,news_query,läs de senaste internationella nyheterna för mig,play_podcasts,0.8123,0.1209,False
+2258,sv-SE,weather,weather_query,behöver jag en tjocktröja idag,iot_hue_lightoff,0.9335,0.0007,False
+2265,sv-SE,weather,weather_query,berätta hur vädret är i lund skåne just nu,weather_query,0.9987,0.9987,True
+2271,sv-SE,play,play_music,spela låtar jag har köpt och favoriserat tack,play_music,1.0,1.0,True
+2296,sv-SE,news,news_query,uppdatera mig om dagens basketlagens poäng,email_sendemail,0.9991,0.0,False
+2298,sv-SE,iot,iot_hue_lightoff,stäng av lamporna nu,iot_hue_lightoff,0.4775,0.4775,True
+2315,sv-SE,news,news_query,vad är det för nyheter idag,news_query,0.9988,0.9988,True
+2316,sv-SE,news,news_query,alexa ge mig nyhetsrubrikerna,social_post,0.9695,0.0015,False
+2320,sv-SE,weather,weather_query,hur är vädret denna fredag,weather_query,0.9995,0.9995,True
+2322,sv-SE,weather,weather_query,hur blir vädret imorgon,weather_query,0.9982,0.9982,True
+2330,sv-SE,datetime,datetime_query,visa den lokala tiden för london just nu,weather_query,0.9941,0.0008,False
+2384,sv-SE,news,news_query,vad händer runt om världen,social_post,0.9768,0.0034,False
+2386,sv-SE,news,news_query,ge mig de senaste nyheterna,news_query,0.9685,0.9685,True
+2396,sv-SE,play,play_music,starta celine dion låtar,play_music,0.9948,0.9948,True
+2408,sv-SE,play,play_music,sök efter fler låtar från bandet,play_music,0.9496,0.9496,True
+2412,sv-SE,datetime,datetime_query,kan du säga mig tiden i kalix,weather_query,0.9915,0.0007,False
+2423,sv-SE,weather,weather_query,ge mig dagens prognos för stockholm,weather_query,0.6212,0.6212,True
+2438,sv-SE,news,news_query,skicka de tekniska nyheterna,email_sendemail,0.6392,0.0272,False
+2441,sv-SE,iot,iot_hue_lightoff,stäng av skjulets lampa,iot_hue_lightoff,0.4715,0.4715,True
+2472,sv-SE,datetime,datetime_query,är tiden för närvarande korrekt för var jag befinner mig,weather_query,0.9121,0.0642,False
+2496,sv-SE,news,news_query,dagens nyheter,news_query,0.9992,0.9992,True
+2497,sv-SE,datetime,datetime_query,idag är vilket datum,qa_factoid,1.0,0.0,False
+2498,sv-SE,datetime,datetime_query,siri idag är vilket datum,qa_factoid,0.9984,0.0,False
+2527,sv-SE,play,play_music,spela klassisk rock,play_music,1.0,1.0,True
+2531,sv-SE,play,play_music,alexa spela mina låtar rap och rock en efter en,play_music,1.0,1.0,True
+2545,sv-SE,weather,weather_query,hur är vädret,weather_query,0.9988,0.9988,True
+2548,sv-SE,news,news_query,något intressant från lerums tidning,news_query,0.7051,0.7051,True
+2560,sv-SE,play,play_music,spela random musik,play_music,1.0,1.0,True
+2573,sv-SE,play,play_music,splea min spotify dansspellista,qa_factoid,0.4824,0.1356,False
+2578,sv-SE,iot,iot_hue_lightoff,stäng av lampan på verandan,iot_hue_lightoff,0.7668,0.7668,True
+2588,sv-SE,news,news_query,vad är de senaste nyheterna från reuters,news_query,0.9943,0.9943,True
+2594,sv-SE,news,news_query,berätta fö mig om de senaste miljö nyheterna,news_query,0.2541,0.2541,True
+2605,sv-SE,play,play_music,spela min favorit musik nu,play_music,1.0,1.0,True
+2611,sv-SE,weather,weather_query,aktuell väderprognos,weather_query,0.9822,0.9822,True
+2615,sv-SE,weather,weather_query,kommer jag att behöva använda jacka nästa onsdag,iot_hue_lightoff,0.451,0.0314,False
+2638,sv-SE,news,news_query,visa mig nyheter om löfven,news_query,0.9934,0.9934,True
+2639,sv-SE,news,news_query,visa mig nyheter om klimatet,news_query,0.9963,0.9963,True
+2651,sv-SE,news,news_query,senaste nyheter från området,news_query,0.968,0.968,True
+2678,sv-SE,weather,weather_query,regnar det ikväll,play_music,0.5118,0.0043,False
+2679,sv-SE,weather,weather_query,kommer temperaturen att vara samma eller kommer det bli kallare,weather_query,0.9825,0.9825,True
+2703,sv-SE,play,play_music,spela folk musik tack,play_music,1.0,1.0,True
+2704,sv-SE,play,play_music,jag vill lyssna på lite indie rock,play_music,0.9991,0.9991,True
+2708,sv-SE,play,play_music,google jag känner för att spela lite rock and roll,play_music,0.9998,0.9998,True
+2709,sv-SE,play,play_music,olly jag behöver höra några sorgsna låtar idag,play_music,0.9977,0.9977,True
+2711,sv-SE,iot,iot_hue_lightoff,stäng av ljuset,iot_hue_lightoff,0.9825,0.9825,True
+2717,sv-SE,play,play_music,jag vill höra sommartider,weather_query,0.9697,0.0001,False
+2724,sv-SE,news,news_query,ge mig nyheterna från s. v. t.,email_sendemail,0.9949,0.0013,False
+2770,sv-SE,play,play_music,google spela musik från jazzgenren,play_music,1.0,1.0,True
+2774,sv-SE,iot,iot_hue_lightoff,släck lamporna,calendar_remove,0.5586,0.1401,False
+2775,sv-SE,iot,iot_hue_lightoff,stäng av lampor,calendar_remove,0.7364,0.0554,False
+2777,sv-SE,weather,weather_query,ska jag ta med paraply idag,transport_query,0.4496,0.0175,False
+2781,sv-SE,play,play_music,spela lite jazzmusik,play_music,1.0,1.0,True
+2798,sv-SE,play,play_music,alexa spela låten over the rainbow,play_music,1.0,1.0,True
+2801,sv-SE,datetime,datetime_query,vad är klockan i london,weather_query,0.9982,0.0013,False
+2824,sv-SE,datetime,datetime_query,vilken dag är trettonde december,weather_query,0.9966,0.0011,False
+2840,sv-SE,datetime,datetime_query,den andra i nästa månad infaller på vilken veckodag,qa_factoid,0.562,0.17,False
+2859,sv-SE,datetime,datetime_query,olly vad är klockan i den här staden,weather_query,0.9998,0.0,False
+2887,sv-SE,news,news_query,snälla visa mig alla artiklar relaterade till vädret i morgonnyheterna,news_query,0.9425,0.9425,True
+2890,sv-SE,weather,weather_query,nuvarande väder,weather_query,0.9678,0.9678,True
+2898,sv-SE,news,news_query,några uppdateringar beträffande valet,email_sendemail,0.5456,0.0194,False
+2914,sv-SE,datetime,datetime_query,säg mig vilket datum det är idag,qa_factoid,0.5071,0.0828,False
+2917,sv-SE,weather,weather_query,veckans väderprognos,weather_query,0.9784,0.9784,True
+2921,sv-SE,news,news_query,vad är det senaste på s. v. t. webbsida,social_post,0.2357,0.1542,False
+2927,sv-SE,datetime,datetime_query,hur mycket är klockan i gnosjö,weather_query,0.9753,0.0186,False
+2931,sv-SE,play,play_music,spela sommardag härnäst,play_music,0.9904,0.9904,True
+2962,sv-SE,play,play_music,spela en låt av håkan hellström,play_music,1.0,1.0,True
+2965,sv-SE,iot,iot_hue_lightoff,slå av kontorslamporna,iot_hue_lightoff,0.5267,0.5267,True
+3002,sv-SE,play,play_music,spela låtar med bandet beatles,play_music,1.0,1.0,True
+3031,sv-SE,play,play_music,jag vill spela låten igen,play_music,0.9999,0.9999,True
+3034,sv-SE,weather,weather_query,ge mig temperaturen,iot_hue_lightoff,0.5199,0.0362,False
+3037,sv-SE,news,news_query,förstasidan nyhets artiklar tack,social_post,0.8057,0.1838,False
+3039,sv-SE,news,news_query,vad är de senaste nyheterna,news_query,0.471,0.471,True
+3060,sv-SE,news,news_query,vad är det för nyheter från den nyhetskällan,news_query,0.9985,0.9985,True
+3091,sv-SE,datetime,datetime_query,vad är klockan i stillahavsstandardtid,qa_factoid,0.9986,0.0005,False
+3096,sv-SE,weather,weather_query,hur är vädret i huddinge,weather_query,0.9995,0.9995,True
+3098,sv-SE,iot,iot_hue_lightoff,släck lamporna,calendar_remove,0.5586,0.1401,False
+3099,sv-SE,news,news_query,visa mig några nuvarande händelser,news_query,0.9734,0.9734,True
+3101,sv-SE,news,news_query,olly sätt på nyheterna,news_query,0.7369,0.7369,True
+3116,sv-SE,play,play_music,spela min favoritlåt från senaste året,play_music,1.0,1.0,True
+3117,sv-SE,play,play_music,spela något från keanes hopes and fears album,play_music,0.9999,0.9999,True
+3118,sv-SE,datetime,datetime_query,vad är östkusten standardtid just nu,weather_query,0.9878,0.0022,False
+3124,sv-SE,play,play_music,spela en slumpmässig låt från min spellista,play_music,1.0,1.0,True
+3146,sv-SE,play,play_music,spela låt ett från min september spellista,play_music,1.0,1.0,True
+3167,sv-SE,iot,iot_hue_lightoff,släck mina lampor i sovrummet,lists_remove,0.4703,0.0599,False
+3174,sv-SE,play,play_music,spela musikspellista,play_music,0.9999,0.9999,True
+3205,sv-SE,play,play_music,spela eld och lågor med victor leksell,play_music,0.9997,0.9997,True
+3207,sv-SE,play,play_music,streama poker face av lady gaga,play_music,0.7293,0.7293,True
+3212,sv-SE,calendar,calendar_set,påminn mig om att göra något då,cooking_recipe,0.9967,0.0001,False
+3214,sv-SE,news,news_query,hur står det till med spaningen om trumps samarbete med ryssland,qa_factoid,0.7182,0.001,False
+3228,sv-SE,datetime,datetime_query,vilken dag på veckan infaller jul detta år,weather_query,0.5631,0.015,False
+3253,sv-SE,weather,weather_query,kan vi förvänta oss regn denna eftermiddag,weather_query,0.9987,0.9987,True
+3264,sv-SE,play,play_music,spela reggaemusik,play_music,1.0,1.0,True
+3305,sv-SE,weather,weather_query,hur är vädret den här veckan i stockholm,weather_query,0.9993,0.9993,True
+3306,sv-SE,weather,weather_query,vad är prognosen för veckan,qa_factoid,0.8058,0.0077,False
+3329,sv-SE,news,news_query,jag vill se nyheterna,news_query,0.7033,0.7033,True
+3337,sv-SE,weather,weather_query,rapportera väder för trettiotretusen sju hundra och sjuttio,weather_query,0.9997,0.9997,True
+3338,sv-SE,weather,weather_query,rapportera väder i stockholm,weather_query,0.9985,0.9985,True
+3361,sv-SE,datetime,datetime_query,vad är datumet nästa tisdag,qa_factoid,0.8716,0.1272,False
+3378,sv-SE,iot,iot_hue_lightoff,inga lampor i köket,lists_remove,0.2659,0.1917,False
+3386,sv-SE,iot,iot_hue_lightoff,sänk ljuset till medel,iot_hue_lightoff,0.9825,0.9825,True
+3400,sv-SE,play,play_music,spela en live version av miriam bryant,play_podcasts,0.8894,0.1053,False
+3401,sv-SE,play,play_music,spela den mest populära låten med per gessle,play_music,0.9999,0.9999,True
+3406,sv-SE,weather,weather_query,vad är tio dagarsprognosen,qa_factoid,0.9639,0.0014,False
+3407,sv-SE,weather,weather_query,finns det några väderprognosen om regn eller snö den här veckan,weather_query,0.9985,0.9985,True
+3408,sv-SE,weather,weather_query,kommer vädret att bli fint denna vecka,weather_query,0.9977,0.9977,True
+3426,sv-SE,weather,weather_query,hur många grader är det utomhus,weather_query,0.9969,0.9969,True
+3433,sv-SE,play,play_music,ny pop musik,play_music,0.9998,0.9998,True
+3434,sv-SE,play,play_music,bästa rap musiken,play_music,0.9746,0.9746,True
+3441,sv-SE,datetime,datetime_query,är den tjugoandra en onsdag,weather_query,0.9543,0.0004,False
+3444,sv-SE,datetime,datetime_query,är det tio,iot_hue_lightoff,0.9507,0.0011,False
+3447,sv-SE,weather,weather_query,kommer det regn på lördag,weather_query,0.9997,0.9997,True
+3481,sv-SE,play,play_music,spela den mest populära låten med totta näslund,play_music,1.0,1.0,True
+3489,sv-SE,play,play_music,spela musik nu tack,play_music,1.0,1.0,True
+3492,sv-SE,play,play_music,spela min mest lyssnade låt lista,play_music,1.0,1.0,True
+3503,sv-SE,weather,weather_query,hur är vädret i stockholm,weather_query,0.9993,0.9993,True
+3507,sv-SE,weather,weather_query,finns det snö i väderprognosen,weather_query,0.9793,0.9793,True
+3513,sv-SE,play,play_music,spela bara min lista,lists_remove,0.5747,0.0024,False
+3516,sv-SE,weather,weather_query,hur stor är sannolikheten av nederbörd dagens väder,weather_query,0.991,0.991,True
+3539,sv-SE,play,play_music,spela shake it off med taylor swift tack,play_music,0.9865,0.9865,True
+3546,sv-SE,play,play_music,jag skulle vilja höra jazz musik,play_music,1.0,1.0,True
+3550,sv-SE,play,play_music,sätt på lite led zeppelin,iot_hue_lightoff,0.9787,0.0024,False
+3554,sv-SE,play,play_music,kan du sätta på kärlek spellista,lists_query,0.5204,0.0097,False
+3562,sv-SE,play,play_music,spela ta mig tillbaka,play_music,0.6294,0.6294,True
+3566,sv-SE,datetime,datetime_query,vad är klockan i chennai just nu,weather_query,0.9978,0.0003,False
+3570,sv-SE,iot,iot_hue_lightoff,släck lamporna på uteplatsen,iot_hue_lightoff,0.6132,0.6132,True
+3576,sv-SE,news,news_query,vad är de senaste rubrikerna från t. v. fyra nyheter,news_query,0.9938,0.9938,True
+3586,sv-SE,weather,weather_query,hur är vädret i stockholm,weather_query,0.9993,0.9993,True
+3600,sv-SE,calendar,calendar_set,påminn mig efter tio minuter,qa_factoid,0.8554,0.001,False
+3603,sv-SE,news,news_query,vad är de senaste nyheterna från göteborgs posten,news_query,0.9915,0.9915,True
+3605,sv-SE,news,news_query,vad är de senaste nyheterna på s. v. t.,lists_query,0.2722,0.1112,False
+3606,sv-SE,datetime,datetime_query,vad är tiden i peking,datetime_query,0.4935,0.4935,True
+3614,sv-SE,weather,weather_query,det blir en solig dag idag inte sant,weather_query,0.9971,0.9971,True
+3623,sv-SE,news,news_query,vad händer i världen idag,social_post,0.4218,0.0169,False
+3624,sv-SE,news,news_query,nyheter från s. v. t.,news_query,0.9989,0.9989,True
+3631,sv-SE,play,play_music,hej google spela lite jazzmusik för mig,play_music,1.0,1.0,True
+3686,sv-SE,play,play_music,sätt på spellistan jag har dedikerat till rock musik,play_music,0.9526,0.9526,True
+3714,sv-SE,play,play_music,spela min spellista börjar längst ner,play_music,0.9662,0.9662,True
+3717,sv-SE,play,play_music,spela min nittiotals rap hits,play_music,0.9848,0.9848,True
+3723,sv-SE,play,play_music,jag skulle vilja höra aretha franklin's call me efter den här låten,play_music,0.9999,0.9999,True
+3725,sv-SE,datetime,datetime_query,idag vad är datumet,qa_factoid,0.9907,0.0091,False
+3727,sv-SE,play,play_music,spela astrologen av magnus uggla,qa_factoid,0.462,0.0138,False
+3750,sv-SE,news,news_query,olly om det kommer några nyheter om översvämningen kan du berätta det för mig,email_sendemail,1.0,0.0,False
+3779,sv-SE,play,play_music,spela youtube spellista blank,play_music,0.9475,0.9475,True
+3780,sv-SE,play,play_music,spela min midnattskärlek spellista,play_music,0.8853,0.8853,True
+3784,sv-SE,weather,weather_query,ge mig en väderrapport för stockholm,weather_query,0.9981,0.9981,True
+3785,sv-SE,iot,iot_hue_lightoff,slå av badrums lampan tack,iot_hue_lightoff,0.6742,0.6742,True
+3822,sv-SE,news,news_query,hitta mig information om bilar,social_post,0.7486,0.0321,False
+3852,sv-SE,weather,weather_query,vilket väder har de i lund skåne just nu,weather_query,0.998,0.998,True
+3859,sv-SE,play,play_music,sätt på min favorit rap musik spellista,play_music,0.966,0.966,True
+3907,sv-SE,play,play_music,spela senaste årets hits,play_music,0.9954,0.9954,True
+3911,sv-SE,play,play_music,jag vill höra någon låt som fått grammy i år,play_music,1.0,1.0,True
+3912,sv-SE,play,play_music,jag skulle vilja lyssna på dans och country musik,play_music,0.9996,0.9996,True
+3936,sv-SE,weather,weather_query,vad är temperaturen,qa_factoid,0.4598,0.1942,False
+3960,sv-SE,datetime,datetime_query,säg tiden,qa_factoid,0.9445,0.0053,False
+3967,sv-SE,play,play_music,rap,qa_factoid,0.5852,0.0441,False
+3980,sv-SE,play,play_music,spela en väg till mitt hjärta av niklas strömstedt,play_music,0.9998,0.9998,True
+3982,sv-SE,play,play_music,välj den första låten i mitt itunes bibliotek,play_music,0.9653,0.9653,True
+3993,sv-SE,iot,iot_hue_lightoff,kan du göra så lamporna stängs av,cooking_recipe,0.286,0.2858,False
+3995,sv-SE,datetime,datetime_query,olly vilken dag i veckan är allhelgona,qa_factoid,0.7727,0.0017,False
+4001,sv-SE,news,news_query,vad hände på nyhetsmorgon,social_post,0.9161,0.0742,False
+4023,sv-SE,news,news_query,vad är i nyheterna,news_query,0.9996,0.9996,True
+4031,sv-SE,play,play_music,spela pandora nittiotals dansparty,iot_hue_lightoff,0.8696,0.0955,False
+4040,sv-SE,play,play_music,spela låtar jag lyssnar på mest,play_music,1.0,1.0,True
+4058,sv-SE,play,play_music,jag skulle vilja höra lite rap musik,play_music,1.0,1.0,True
+4073,sv-SE,datetime,datetime_query,vilken dag är den femte,weather_query,0.7752,0.0597,False
+4077,sv-SE,iot,iot_hue_lightoff,släck lamporna i köket,iot_hue_lightoff,0.7203,0.7203,True
+4088,sv-SE,iot,iot_hue_lightoff,stäng av taklampa,calendar_remove,0.5142,0.2039,False
+4104,sv-SE,weather,weather_query,hur kommer vädret att bli idag i stockholm,weather_query,0.9998,0.9998,True
+4116,sv-SE,play,play_music,spela min blandade spellista tack,play_music,0.682,0.682,True
+4119,sv-SE,news,news_query,jag vill veta allt som händer angående luleälven i norrland,news_query,0.6384,0.6384,True
+4132,sv-SE,weather,weather_query,berätta procentandel regn i malmö skåne idag,qa_factoid,0.5171,0.4516,False
+4136,sv-SE,play,play_music,kan du spela molly sandén,play_music,0.9995,0.9995,True
+4152,sv-SE,play,play_music,spela låten vacker utan spackel,play_music,1.0,1.0,True
+4168,sv-SE,weather,weather_query,kolla vädret i stockholm,weather_query,0.998,0.998,True
+4171,sv-SE,iot,iot_hue_lightoff,släck lamporna i köket,iot_hue_lightoff,0.7203,0.7203,True
+4177,sv-SE,news,news_query,ge mig den senaste politiska nyheten från världen,news_query,0.9487,0.9487,True
+4178,sv-SE,news,news_query,finns det några nyheter om statsministern,news_query,0.9751,0.9751,True
+4183,sv-SE,datetime,datetime_query,aktuell tid i new york,weather_query,0.949,0.0017,False
+4186,sv-SE,datetime,datetime_query,hej google vad är klockan,weather_query,0.9978,0.0006,False
+4187,sv-SE,datetime,datetime_query,hej siri vad är klockan,weather_query,0.9819,0.0123,False
+4205,sv-SE,play,play_music,jag vill höra i hennes sovrum med imperiet,play_radio,0.978,0.0041,False
+4212,sv-SE,weather,weather_query,kommer jag att kunna klippa gräset ikväll,iot_hue_lightoff,0.5688,0.0269,False
+4227,sv-SE,weather,weather_query,är det någon regn i prognosen nästa vecka,weather_query,0.9965,0.9965,True
+4232,sv-SE,play,play_music,spela eld och lågor me victor leksell,play_music,0.9986,0.9986,True
+4236,sv-SE,datetime,datetime_query,er det eftermiddag ännu,weather_query,0.9851,0.0007,False
+4253,sv-SE,datetime,datetime_query,vad är klockan just nu östlig standard,weather_query,0.9951,0.0001,False
+4254,sv-SE,datetime,datetime_query,vad är klockan på u. s. a. s östkust,weather_query,0.9843,0.0116,False
+4258,sv-SE,news,news_query,vad är de senaste nyheterna,news_query,0.471,0.471,True
+4266,sv-SE,weather,weather_query,vad är dagens väder,weather_query,0.9996,0.9996,True
+4273,sv-SE,play,play_music,spela låt tystnar i luren,play_music,1.0,1.0,True
+4290,sv-SE,weather,weather_query,borde jag ta med jacka ikväll,email_query,0.6434,0.0027,False
+4305,sv-SE,play,play_music,spela låten eld och lågor med victor leksell,play_music,1.0,1.0,True
+4309,sv-SE,datetime,datetime_query,om hur många timmar är det midnatt i london england,weather_query,0.9919,0.0075,False
+4312,sv-SE,weather,weather_query,kommer vädret att vara mindre än tio grader i stockholm,weather_query,0.9998,0.9998,True
+4313,sv-SE,weather,weather_query,kommer det att regna imorgon i uppsala,weather_query,0.9992,0.9992,True
+4336,sv-SE,datetime,datetime_query,vad är klockan i kina,weather_query,0.9596,0.0314,False
+4346,sv-SE,iot,iot_hue_lightoff,släck lamporna,calendar_remove,0.5586,0.1401,False
+4347,sv-SE,iot,iot_hue_lightoff,sluta köra lampor,lists_remove,0.4078,0.0923,False
+4355,sv-SE,weather,weather_query,hur är vädret där jag är,weather_query,0.9985,0.9985,True
+4361,sv-SE,play,play_music,ge mig några bra låtar,play_music,0.9804,0.9804,True
+4362,sv-SE,datetime,datetime_query,vad är klockan i spanien,weather_query,0.8783,0.1185,False
+4376,sv-SE,weather,weather_query,hur är det utomhus idag,weather_query,0.9738,0.9738,True
+4377,sv-SE,weather,weather_query,hur är det nuvarande vädret,weather_query,0.9983,0.9983,True
+4383,sv-SE,weather,weather_query,vad kommer vädret vara imorgon,weather_query,0.9988,0.9988,True
+4391,sv-SE,news,news_query,vad är rubrikerna på s. v. t.,social_post,0.989,0.0003,False
+4400,sv-SE,news,news_query,vad är de trendande artiklarna i svenska dagbladet,news_query,0.9865,0.9865,True
+4402,sv-SE,weather,weather_query,behöver jag bära runt på ett paraply idag,lists_remove,0.6808,0.0174,False
+4412,sv-SE,weather,weather_query,hur är vädret i stockholm,weather_query,0.9993,0.9993,True
+4436,sv-SE,weather,weather_query,vilken jacka ska jag ha,social_post,0.6892,0.0001,False
+4439,sv-SE,weather,weather_query,hur är vädret i stockholm,weather_query,0.9993,0.9993,True
+4449,sv-SE,weather,weather_query,kommer det att regna ett på eftermiddagen idag,weather_query,0.9989,0.9989,True
+4452,sv-SE,play,play_music,spela låtar,play_music,1.0,1.0,True
+4463,sv-SE,datetime,datetime_query,hur många lördagar i mars,weather_query,0.9533,0.0039,False
+4477,sv-SE,play,play_music,spela nästa låt,play_music,1.0,1.0,True
+4482,sv-SE,weather,weather_query,kommer jag behöva skotta min uppfart den här morgonen,calendar_remove,0.8365,0.0059,False
+4486,sv-SE,weather,weather_query,ge mig väderprognosen för denna veckan,weather_query,0.9988,0.9988,True
+4487,sv-SE,weather,weather_query,kommer det att regna på torsdag,weather_query,0.9988,0.9988,True
+4491,sv-SE,news,news_query,vad är de senaste nyheterna om stefan löfven,news_query,0.999,0.999,True
+4492,sv-SE,news,news_query,vad är den senaste brottsstatistiken i mitt område,social_post,0.5427,0.0914,False
+4496,sv-SE,news,news_query,vad skrev elle idag,qa_factoid,0.453,0.0179,False
+4502,sv-SE,datetime,datetime_query,hej vad är klockan i london nu,weather_query,0.9992,0.0,False
+4524,sv-SE,weather,weather_query,alexa vad är väderprognosen idag,weather_query,0.9977,0.9977,True
+4547,sv-SE,play,play_music,starta rasta hunden spellistan,play_music,0.4833,0.4833,True
+4567,sv-SE,news,news_query,läs mig de senaste nyheterna från expressen punkt s. e.,news_query,0.9913,0.9913,True
+4580,sv-SE,datetime,datetime_query,vad är klockan i chicago,weather_query,0.9641,0.0339,False
+4587,sv-SE,play,play_music,spela mina favoriter,qa_factoid,0.9992,0.0,False
+4589,sv-SE,calendar,calendar_set,ställ in en notifikation för sportspel,email_sendemail,0.5162,0.004,False
+4606,sv-SE,news,news_query,hitta information on dagens aktier,news_query,0.9029,0.9029,True
+4614,sv-SE,weather,weather_query,kommer temperaturen vara högre än fyrtio imorgon,weather_query,0.9886,0.9886,True
+4662,sv-SE,news,news_query,nyheterna från s. v. t. alexa,news_query,0.9942,0.9942,True
+4667,sv-SE,datetime,datetime_query,aktuell tid i,qa_factoid,0.4387,0.0597,False
+4680,sv-SE,weather,weather_query,borde jag ha på mig sandaler eller skor med strumpor,lists_remove,0.2735,0.0264,False
+4689,sv-SE,weather,weather_query,vet du vädret,weather_query,0.9988,0.9988,True
+4692,sv-SE,play,play_music,spela en låt av europe,play_music,1.0,1.0,True
+4710,sv-SE,datetime,datetime_query,på vilken dag är allhellgona i år,weather_query,0.9711,0.0022,False
+4764,sv-SE,weather,weather_query,kommer det att regna på måndag,weather_query,0.9987,0.9987,True
+4767,sv-SE,news,news_query,är det några nyheter om muren på gränsen mellan mexiko och u. s. a.,news_query,0.959,0.959,True
+4772,sv-SE,datetime,datetime_query,säg mig tiden i denna tidszon,datetime_query,0.5892,0.5892,True
+4780,sv-SE,datetime,datetime_query,vilken dag infaller min födelsedag i år den tjugosjunde juni,datetime_query,0.7729,0.7729,True
+4784,sv-SE,weather,weather_query,behöver jag en jacka,qa_factoid,0.9161,0.0002,False
+4813,sv-SE,datetime,datetime_query,vad är klockan i en annan stad,weather_query,0.9984,0.0008,False
+4837,sv-SE,news,news_query,är det några nyheter olly,news_query,0.8928,0.8928,True
+4838,sv-SE,play,play_music,spela all musik av roxette,play_music,1.0,1.0,True
+4871,sv-SE,weather,weather_query,hur är det utomhus,weather_query,0.8864,0.8864,True
+4881,sv-SE,datetime,datetime_query,sök och hitta den aktuella lokala tid och tidszon,weather_query,0.9459,0.0364,False
+4882,sv-SE,datetime,datetime_query,vad är klockan i en stad,weather_query,0.9877,0.0104,False
+4890,sv-SE,calendar,calendar_set,sätt notifikationer på nuvarande väderkatastrofer i danmark,social_post,0.8249,0.004,False
+4909,sv-SE,play,play_music,spela låtar av roxette,play_music,1.0,1.0,True
+4917,sv-SE,weather,weather_query,temperatur utomhus,iot_hue_lightoff,0.8634,0.0389,False
+4928,sv-SE,play,play_music,spela mitt ljudspår,play_music,0.9995,0.9995,True
+4933,sv-SE,weather,weather_query,kommer det att regna nu,weather_query,0.9965,0.9965,True
+4951,sv-SE,datetime,datetime_query,jag skulle vilja veta hur mycket klockan är precis nu,weather_query,0.9977,0.0015,False
+4953,sv-SE,news,news_query,nyheter om tågolyckan,news_query,0.9998,0.9998,True
+4957,sv-SE,datetime,datetime_query,vilken dag på veckan är tjugotredje i denna månad,calendar_remove,0.8731,0.0156,False
+4960,sv-SE,play,play_music,musik carola,play_music,0.9988,0.9988,True
+4968,sv-SE,qa,qa_factoid,vem vann presidentvalet i år,qa_factoid,1.0,1.0,True
+4973,sv-SE,play,play_music,olly spela slå mig hårt i ansiktet,iot_hue_lightoff,0.5179,0.2425,False
+4998,sv-SE,play,play_music,lägg till denna låten som nästa låt att spela,play_music,1.0,1.0,True
+5009,sv-SE,weather,weather_query,kommer jag att behöva ett paraply den här veckan,qa_factoid,0.4558,0.0183,False
+5016,sv-SE,news,news_query,läs upp nyheter om aktiemarknadens upp och nedgångar,news_query,0.9839,0.9839,True
+5027,sv-SE,datetime,datetime_query,när är nästa fredag den trettonde,weather_query,0.9988,0.0002,False
+5037,sv-SE,weather,weather_query,hur kallt är det idag,weather_query,0.9939,0.9939,True
+5038,sv-SE,weather,weather_query,hur är vädret den här veckan,weather_query,0.9991,0.9991,True
+5040,sv-SE,weather,weather_query,hur är vädret nu,weather_query,0.9989,0.9989,True
+5062,sv-SE,play,play_music,spela låtar från åttiotalet,play_music,0.9992,0.9992,True
+5074,sv-SE,weather,weather_query,hur är vädret den här veckan,weather_query,0.9991,0.9991,True
+5085,sv-SE,weather,weather_query,hur är väderprognosen på lördag,weather_query,0.9987,0.9987,True
+5118,sv-SE,play,play_music,två av oss,qa_factoid,0.2766,0.0297,False
+5127,sv-SE,news,news_query,berätta sanningen om skattereformen,qa_factoid,0.9837,0.0007,False
+5131,sv-SE,datetime,datetime_query,säg vilken tid det är i san francisco,weather_query,0.9992,0.0001,False
+5134,sv-SE,play,play_music,hitta låtar från min storbandsspellista,play_music,0.7803,0.7803,True
+5156,sv-SE,iot,iot_hue_lightoff,släck ner ljuset i vardagsrummet,iot_hue_lightoff,0.9999,0.9999,True
+5157,sv-SE,iot,iot_hue_lightoff,olly släck ljuset i vardagsrummet,iot_hue_lightoff,0.9986,0.9986,True
+5158,sv-SE,play,play_music,spela den senaste låten från abbas skiva,play_music,1.0,1.0,True
+5159,sv-SE,play,play_music,kan du spela låten av artisten madonna,play_music,1.0,1.0,True
+5160,sv-SE,play,play_music,kan du spela låtar av mikael rickfors,play_music,1.0,1.0,True
+5176,sv-SE,weather,weather_query,vad för typ av väder kan jag förvänta mig den här veckan,weather_query,0.9998,0.9998,True
+5196,sv-SE,news,news_query,jag vill veta mer om brexit,qa_factoid,0.3846,0.0191,False
+5225,sv-SE,datetime,datetime_query,vad är datumet nästa onsdag,qa_factoid,0.9823,0.0171,False
+5243,sv-SE,iot,iot_hue_lightoff,siri slå av lamporna i badrummet tack,iot_hue_lightoff,0.7999,0.7999,True
+5245,sv-SE,news,news_query,sätt ett meddelande om miljö nyheter,email_sendemail,0.997,0.0001,False
+5270,sv-SE,news,news_query,vad är senaste nyheterna just nu,news_query,0.8131,0.8131,True
+5278,sv-SE,play,play_music,spela bara popmix musik,play_music,1.0,1.0,True
+5279,sv-SE,play,play_music,spela bara sorgsna låtar i musikspelaren,play_music,1.0,1.0,True
+5286,sv-SE,news,news_query,visa s. v. t. nyheter om migration,news_query,0.4092,0.4092,True
+5296,sv-SE,news,news_query,olly get me de populära nyheterna från s. v. t.,play_podcasts,0.5657,0.0188,False
+5297,sv-SE,news,news_query,hämta populära nyheter från b. b. c.,play_podcasts,0.6536,0.0646,False
+5301,sv-SE,weather,weather_query,hur kommer vädret att bli tjugonde mars tvåtusensjutton,weather_query,0.9998,0.9998,True
+5307,sv-SE,datetime,datetime_query,är det den tjugonde mars idag,weather_query,0.9996,0.0,False
+5318,sv-SE,play,play_music,spela bara aviciis låtar,play_music,1.0,1.0,True
+5321,sv-SE,weather,weather_query,visa väder,weather_query,0.9942,0.9942,True
+5328,sv-SE,play,play_music,rock,qa_factoid,0.5125,0.0155,False
+5339,sv-SE,weather,weather_query,låga temperaturförhållanden,weather_query,0.2417,0.2417,True
+5341,sv-SE,datetime,datetime_query,berätta tiden för mig,calendar_remove,0.7776,0.0952,False
+5347,sv-SE,play,play_music,spela technomusik,play_music,1.0,1.0,True
+5358,sv-SE,datetime,datetime_query,uppdatera till aktuell tid,datetime_query,0.8161,0.8161,True
+5370,sv-SE,news,news_query,vad är den senaste trump kontroversen,news_query,0.8897,0.8897,True
+5378,sv-SE,play,play_music,s.,play_radio,0.1383,0.0381,False
+5401,sv-SE,play,play_music,musik,play_music,0.9985,0.9985,True
+5410,sv-SE,news,news_query,ge mig de senaste new york times rubrikerna,news_query,0.9939,0.9939,True
+5411,sv-SE,news,news_query,vad är topp nyheterna på t. v. fyra,qa_factoid,0.7678,0.0047,False
+5413,sv-SE,play,play_music,spela musiken,play_music,1.0,1.0,True
+5414,sv-SE,play,play_music,kommer du att sätta på musiken,play_music,0.9994,0.9994,True
+5427,sv-SE,datetime,datetime_query,vad är klockan i kanada nu,weather_query,0.9933,0.0041,False
+5433,sv-SE,weather,weather_query,kommer det att regna senare,weather_query,0.8206,0.8206,True
+5439,sv-SE,weather,weather_query,behöver jag paraply under natten,weather_query,0.5144,0.5144,True
+5465,sv-SE,weather,weather_query,kan jag använda mina sandaler idag,iot_hue_lightoff,0.988,0.0004,False
+5468,sv-SE,weather,weather_query,behöver jag ta med solglasögon,iot_hue_lightoff,0.9062,0.0031,False
+5524,sv-SE,weather,weather_query,vädret just nu,iot_hue_lightoff,0.4084,0.0403,False
+5529,sv-SE,weather,weather_query,vilken tid ska jag gå på vandring,weather_query,0.9916,0.9916,True
+5557,sv-SE,play,play_music,jag vill lyssna på reggae,play_music,1.0,1.0,True
+5577,sv-SE,weather,weather_query,jag kommer att behöva en heltäckande jacka om det är för stormigt på kvällen,qa_factoid,0.8317,0.0424,False
+5578,sv-SE,weather,weather_query,jag kommer att behöva varma strumpor i vinter på morgonen,weather_query,0.8108,0.8108,True
+5584,sv-SE,iot,iot_hue_lightoff,släck lamporna tack,lists_remove,0.7359,0.0757,False
+5590,sv-SE,weather,weather_query,öppna temperatur,qa_factoid,0.9118,0.0205,False
+5593,sv-SE,play,play_music,spela svalkar vinden med svenska björnstammen,play_music,0.8387,0.8387,True
+5619,sv-SE,play,play_music,spela föregående låt,play_music,1.0,1.0,True
+5627,sv-SE,play,play_music,spela musik från eldkvarn för mig,play_music,1.0,1.0,True
+5640,sv-SE,datetime,datetime_query,visas datum,qa_factoid,0.4889,0.3965,False
+5650,sv-SE,weather,weather_query,fråga om vädret idag kväll,weather_query,0.9992,0.9992,True
+5658,sv-SE,play,play_music,spela musik från eldkvarn,play_music,1.0,1.0,True
+5661,sv-SE,weather,weather_query,borde jag ta min regnkappa med mig nu,weather_query,0.4615,0.4615,True
+5671,sv-SE,datetime,datetime_query,vad är klockan i las vegas,weather_query,0.9948,0.0041,False
+5678,sv-SE,datetime,datetime_query,vilken dag i veckan är femtonde augusti,weather_query,0.4834,0.0654,False
+5683,sv-SE,play,play_music,spela min spellista partylåtar,play_music,0.9998,0.9998,True
+5688,sv-SE,news,news_query,berätta nyhetsrubrikerna tack,social_post,0.9785,0.0024,False
+5703,sv-SE,datetime,datetime_query,tid nu,qa_factoid,0.9969,0.0021,False
+5707,sv-SE,play,play_music,lyssna på mina favoriter,qa_factoid,0.9547,0.0009,False
+5721,sv-SE,weather,weather_query,visa mig morgondagens väder i det här området,weather_query,0.9998,0.9998,True
+5722,sv-SE,weather,weather_query,visa sju dagars prognos den här veckan,lists_query,0.3484,0.0291,False
+5732,sv-SE,weather,weather_query,borde jag byta mina bildäck till vinterdäck snart,qa_factoid,0.2499,0.0119,False
+5757,sv-SE,datetime,datetime_query,kvart i två,qa_factoid,0.2494,0.0191,False
+5758,sv-SE,weather,weather_query,hur är vädret i huvudstaden,weather_query,0.9991,0.9991,True
+5774,sv-SE,datetime,datetime_query,tid nu i köpenhamn,weather_query,0.9464,0.0059,False
+5797,sv-SE,weather,weather_query,borde jag använda regnkappa innan jag går ut,iot_hue_lightoff,0.5609,0.2143,False
+5813,sv-SE,play,play_music,spela sommarnatt låt,play_music,0.9995,0.9995,True
+5820,sv-SE,play,play_music,trösta mina öron med miriam bryant,social_post,0.8844,0.0023,False
+5837,sv-SE,weather,weather_query,berätta om den här veckans väder,weather_query,0.9981,0.9981,True
+5871,sv-SE,weather,weather_query,hur är kirunas väder idag,weather_query,0.9982,0.9982,True
+5886,sv-SE,news,news_query,hett ämne,social_post,0.9503,0.0,False
+5919,sv-SE,news,news_query,vad är de senaste nyheterna om öresundsbron,news_query,0.9955,0.9955,True
+5930,sv-SE,news,news_query,någon nyhet från göteborgsposten,news_query,0.9901,0.9901,True
+5948,sv-SE,play,play_music,spela lite bra låtar från min spellista,play_music,1.0,1.0,True
+5953,sv-SE,weather,weather_query,är staden billigare eller dyrare att bo i,lists_query,0.2339,0.0521,False
+5955,sv-SE,weather,weather_query,hur säker är staden gällande lag och ordning,qa_factoid,0.9961,0.0002,False
+5970,sv-SE,play,play_music,kan du spela bohemian raphsody,play_music,1.0,1.0,True
+5985,sv-SE,news,news_query,visa mig e senaste nyheterna från f. n.,news_query,0.7516,0.7516,True
+5996,sv-SE,weather,weather_query,kommer jag att behöva mina vinterstövlar i eftermiddag,lists_remove,0.3682,0.0332,False
+5997,sv-SE,datetime,datetime_query,vad är klockan i central tidszon,weather_query,0.8637,0.125,False
+6023,sv-SE,weather,weather_query,kommer det att bli en kladdig kväll,weather_query,0.9971,0.9971,True
+6024,sv-SE,weather,weather_query,ska jag ta en tröja eller jacka till jobbet idag,iot_hue_lightoff,0.221,0.0405,False
+6025,sv-SE,weather,weather_query,kommer jag att behöva solskydd i eftermiddag,iot_hue_lightoff,0.7887,0.1358,False
+6027,sv-SE,play,play_music,sätt på favoritlåtar,play_music,0.9938,0.9938,True
+6039,sv-SE,weather,weather_query,kommer det att vara en regnig dag imorgon,weather_query,0.9989,0.9989,True
+6041,sv-SE,iot,iot_hue_lightoff,hej olly stäng av lampan tack,iot_hue_lightoff,0.9734,0.9734,True
+6045,sv-SE,play,play_music,lägg till vald låt,play_music,1.0,1.0,True
+6050,sv-SE,weather,weather_query,kommer jag att behöva solskydd senare,iot_hue_lightoff,0.6893,0.0163,False
+6055,sv-SE,iot,iot_hue_lightoff,lämnade jag belysningen på i garaget,iot_hue_lightoff,0.9383,0.9383,True
+6059,sv-SE,play,play_music,spela rap musik,play_music,1.0,1.0,True
+6069,sv-SE,weather,weather_query,är storm sannolikt idag,weather_query,0.9996,0.9996,True
+6073,sv-SE,iot,iot_hue_lightoff,stäng av lampan på verandan,iot_hue_lightoff,0.7668,0.7668,True
+6074,sv-SE,iot,iot_hue_lightoff,stäng av lampan i sovrummet tjugoett och trettio,calendar_remove,0.4181,0.386,False
+6077,sv-SE,news,news_query,jag vill höra de senaste världs nyheterna från idag,play_podcasts,0.9954,0.0024,False
+6093,sv-SE,weather,weather_query,ska jag öppna soltaket,iot_hue_lightoff,0.4886,0.001,False
+6103,sv-SE,weather,weather_query,hej hur kommer vädret att bli idag i malmö skåne,weather_query,0.9996,0.9996,True
+6116,sv-SE,weather,weather_query,info om veckans väder,weather_query,0.9979,0.9979,True
+6118,sv-SE,datetime,datetime_query,hej vad är klockan i london england,weather_query,0.9984,0.0002,False
+6127,sv-SE,weather,weather_query,rekommenderar du paraplyn,recommendation_events,0.9938,0.0001,False
+6129,sv-SE,news,news_query,håll mig uppdaterad om nyheter i världen,email_sendemail,0.9823,0.0117,False
+6151,sv-SE,weather,weather_query,jag vill veta dagens väder,weather_query,0.9998,0.9998,True
+6172,sv-SE,weather,weather_query,är solglasögon ett bra val idag,recommendation_events,0.7778,0.0133,False
+6177,sv-SE,weather,weather_query,kommer jag behöva ett paraply idag,qa_factoid,0.3056,0.0217,False
+6178,sv-SE,weather,weather_query,borde jag ha jacka,social_post,0.8899,0.0003,False
+6194,sv-SE,weather,weather_query,hur är vädret idag,weather_query,0.9988,0.9988,True
+6289,sv-SE,weather,weather_query,hej hur är vädret idag,weather_query,0.9984,0.9984,True
+6370,sv-SE,calendar,calendar_query,hur ser min kommande vecka ut,qa_factoid,0.9637,0.0004,False
+6372,sv-SE,news,news_query,nyheter om växter,news_query,0.8736,0.8736,True
+6403,sv-SE,transport,transport_query,hur man kommer någonstans,qa_factoid,0.9991,0.0,False
+6410,sv-SE,news,news_query,vad händer i frankrike idag,weather_query,0.728,0.0037,False
+6411,sv-SE,weather,weather_query,hur är vädret nästa onsdag,weather_query,0.9996,0.9996,True
+6539,sv-SE,calendar,calendar_set,märk idag som starten på min diet,cooking_recipe,0.9956,0.0001,False
+6542,sv-SE,cooking,cooking_recipe,är mjuk ost bättre än hård,cooking_recipe,0.4866,0.4866,True
+6618,sv-SE,news,news_query,berätta intressanta nyheter,news_query,0.6682,0.6682,True
+6682,sv-SE,news,news_query,val i d. n.,qa_factoid,0.7904,0.0008,False
+6683,sv-SE,news,news_query,ekonominyheter,qa_factoid,0.5248,0.0005,False
+6713,sv-SE,calendar,calendar_remove,avboka affärsmöte på onsdag,recommendation_events,0.5749,0.1697,False
+6722,sv-SE,calendar,calendar_query,finns det något jag borde bli påmind om,qa_factoid,0.625,0.0067,False
+6725,sv-SE,calendar,calendar_set,påminn mig om mitt schema för eftermiddagen,cooking_recipe,0.3768,0.097,False
+6726,sv-SE,calendar,calendar_remove,avboka nästa möte,calendar_remove,0.5747,0.5747,True
+6729,sv-SE,calendar,calendar_remove,avboka frukosten hos terese,cooking_recipe,0.9982,0.0,False
+6732,sv-SE,calendar,calendar_set,lägg till mötes påminnelse på söndag med mina svärföräldrar,social_post,0.3627,0.0086,False
+6744,sv-SE,calendar,calendar_set,sätt möte med pelle imorgon klockan tio på morgonen,social_post,0.2624,0.0206,False
+6746,sv-SE,calendar,calendar_set,sätt första veckan i juni som helgdag i min kalender,calendar_set,0.9978,0.9978,True
+6747,sv-SE,calendar,calendar_query,hur många påminnelser har jag,qa_factoid,0.2791,0.0335,False
+6755,sv-SE,calendar,calendar_remove,rensa min kalender tack,qa_factoid,0.6505,0.2561,False
+6761,sv-SE,calendar,calendar_remove,ta bort från min kalender möte klockan nio på morgonen,calendar_remove,1.0,1.0,True
+6764,sv-SE,calendar,calendar_set,påminn mig att tvätta tvätta fönstren,iot_hue_lightoff,0.6227,0.0053,False
+6774,sv-SE,calendar,calendar_set,sätt ett event på fredag,recommendation_events,0.6644,0.2845,False
+6785,sv-SE,calendar,calendar_query,vilken är min nästa påminnelse,play_podcasts,0.2873,0.0181,False
+6789,sv-SE,calendar,calendar_set,sätt ett möte med johanna på lördag klockan fyra på eftermiddagen,calendar_remove,0.5189,0.0803,False
+6798,sv-SE,calendar,calendar_remove,ta bort mitt nästa event,calendar_remove,0.991,0.991,True
+6801,sv-SE,calendar,calendar_query,visa mig mina möten på fredag,calendar_remove,0.3812,0.0082,False
+6806,sv-SE,calendar,calendar_query,visa mig mina kalender event denna fredag eftermiddag,calendar_set,0.9777,0.0179,False
+6815,sv-SE,calendar,calendar_set,påminn mig min mammas födelsedag en vecka innan,weather_query,0.2982,0.0074,False
+6819,sv-SE,calendar,calendar_set,ola det är ett bra band som spelar ikväll klockan nio på jazzbaren jag vill gå,play_music,0.9972,0.0001,False
+6836,sv-SE,calendar,calendar_set,påminn mig om mötet imorgon klockan sex,iot_hue_lightoff,0.5186,0.0143,False
+6850,sv-SE,calendar,calendar_query,lista mitt schema idag,lists_query,0.3708,0.0126,False
+6856,sv-SE,calendar,calendar_set,ge mig en påminnelsenotifikation om morgondagens möte klockan tio på förmiddagen,iot_hue_lightoff,0.9571,0.0028,False
+6860,sv-SE,calendar,calendar_query,är där några kommande händelser,news_query,0.5214,0.0093,False
+6865,sv-SE,calendar,calendar_set,lägg till en notis om morgondagens möte klockan tio,iot_hue_lightoff,0.8422,0.0821,False
+6878,sv-SE,calendar,calendar_set,schemalägg ett möte med ekonomiavdelningen klockan halv tre på fredag eftermiddag,recommendation_events,0.252,0.0346,False
+6891,sv-SE,calendar,calendar_query,finns det morgon program tillgängliga,play_music,0.4312,0.0007,False
+6892,sv-SE,calendar,calendar_query,kan du ge mig film schemat,cooking_recipe,0.8088,0.0003,False
+6897,sv-SE,calendar,calendar_set,påminn mig att hämta linda vid fem på kvällen den sjunde,weather_query,0.9311,0.002,False
+6901,sv-SE,calendar,calendar_set,påminn mig imorgon klockan tio på morgonen om mötet,iot_hue_lightoff,0.5936,0.0145,False
+6902,sv-SE,calendar,calendar_set,ställ in en påminnelse nästa månad att byta olja,iot_hue_lightoff,0.2238,0.116,False
+6909,sv-SE,calendar,calendar_query,vad händer efter ett och före tre på eftermiddagen,weather_query,0.8845,0.0139,False
+6918,sv-SE,calendar,calendar_remove,radera händelser från kalender,play_radio,0.5805,0.0112,False
+6923,sv-SE,calendar,calendar_set,ställ in en påminnelse om att skriva ut dokumenten på tisdag morgon,email_sendemail,0.9989,0.0001,False
+6926,sv-SE,calendar,calendar_query,är det fredag,weather_query,0.966,0.0004,False
+6928,sv-SE,calendar,calendar_remove,radera alla händelserna,play_radio,0.8749,0.0008,False
+6936,sv-SE,calendar,calendar_set,påminn mig att ta min medicin klockan nio på morgonen,qa_factoid,0.391,0.0063,False
+6937,sv-SE,calendar,calendar_set,ställ in påminnelse mitt på dagen att ha lunch med chef,cooking_recipe,0.9952,0.0018,False
+6946,sv-SE,calendar,calendar_query,är det några möten bokade nästa onsdag,lists_remove,0.1611,0.0414,False
+6958,sv-SE,calendar,calendar_remove,se till att det inte finns några händelser i min kalender,calendar_remove,0.9997,0.9997,True
+6959,sv-SE,calendar,calendar_set,påminn mig om mitt möte en timme innan det börjar,email_sendemail,0.9039,0.0039,False
+6962,sv-SE,calendar,calendar_set,kan jag få veta vad jag behöver göra nästa lördag vid sex på kvällen,weather_query,0.8173,0.0055,False
+6964,sv-SE,calendar,calendar_set,kan du påminna om mitt nästa möte med min chef en timme innan det kommer att hända,calendar_remove,0.4908,0.0109,False
+6967,sv-SE,calendar,calendar_query,kan du hitta möte,qa_factoid,0.719,0.0016,False
+6968,sv-SE,calendar,calendar_query,kan du bekräfta mina möten idag,calendar_remove,0.4324,0.0025,False
+6973,sv-SE,calendar,calendar_set,lägg till en påminnelse om konferens imorgon i göteborg,social_post,0.7876,0.01,False
+6974,sv-SE,calendar,calendar_set,jag har en funktion i umeå imorgon påminn,cooking_recipe,0.9084,0.0011,False
+6980,sv-SE,calendar,calendar_query,ge mig att-göra-lista,lists_remove,0.7644,0.0013,False
+6992,sv-SE,calendar,calendar_query,visa framtida händelser,email_sendemail,0.974,0.001,False
+6994,sv-SE,calendar,calendar_set,påminn mig vid,iot_hue_lightoff,0.7289,0.0004,False
+6997,sv-SE,calendar,calendar_remove,ta bort efterföljande event,calendar_remove,0.9711,0.9711,True
+7000,sv-SE,calendar,calendar_set,ny händelse,news_query,0.9992,0.0,False
+7004,sv-SE,calendar,calendar_set,lägg till en påminnelse i min kalender varje år på detta datum,calendar_set,0.9515,0.9515,True
+7013,sv-SE,calendar,calendar_query,när ska eventet starta,qa_factoid,0.8208,0.0001,False
+7014,sv-SE,calendar,calendar_query,ge mig schemat för dagens event,weather_query,0.3384,0.1416,False
+7025,sv-SE,calendar,calendar_remove,ta bort nyårsafton från kalender,calendar_remove,0.9975,0.9975,True
+7026,sv-SE,recommendation,recommendation_events,vilka evenemang som händer i min stad denna veckan,recommendation_events,0.6403,0.6403,True
+7039,sv-SE,calendar,calendar_set,sätt ett möte nästa tisdag klockan elva med jonas,qa_factoid,0.4768,0.0217,False
+7044,sv-SE,calendar,calendar_set,påminn mig att börja förbereda vid fem på eftermiddagen tack,email_sendemail,0.6012,0.0033,False
+7046,sv-SE,calendar,calendar_set,lägg till ikeamöte den tjugoförsta klockan sju,email_sendemail,0.9734,0.0,False
+7055,sv-SE,calendar,calendar_set,schemalägg ett möte med emil vid elva på förmiddagen på torsdag,email_sendemail,0.9998,0.0,False
+7057,sv-SE,calendar,calendar_set,schemalägg ett lunchmöte med bengt på onsdag tolv på dagen,cooking_recipe,0.6288,0.231,False
+7061,sv-SE,calendar,calendar_set,ge mig en påminnelse tjugofyra timmar innan mitt fredags möte med erik,email_sendemail,0.9996,0.0,False
+7073,sv-SE,calendar,calendar_set,sök i min kalender efter min nästa event och meddela mig innan den inträffar,calendar_remove,0.8697,0.0301,False
+7080,sv-SE,calendar,calendar_remove,avboka allting i min kalender,calendar_remove,0.9455,0.9455,True
+7087,sv-SE,calendar,calendar_remove,ta bort morgondagens möte från min kalender,calendar_remove,0.9996,0.9996,True
+7098,sv-SE,calendar,calendar_set,lägg till min avbetalning på bilen den tolfte i min kalender,calendar_set,0.9909,0.9909,True
+7100,sv-SE,calendar,calendar_set,påminn mig dagen innan min bil är klar,weather_query,0.9152,0.0012,False
+7111,sv-SE,calendar,calendar_query,vilken tid är min läkartid den trettioförsta mars,weather_query,0.6549,0.0003,False
+7113,sv-SE,calendar,calendar_query,kommer det några evenemang inne i stan den här helgen,recommendation_events,0.275,0.0543,False
+7117,sv-SE,calendar,calendar_remove,ta bort händelsen den nittonde från min kalender,calendar_remove,1.0,1.0,True
+7120,sv-SE,calendar,calendar_query,hur är mitt schema idag,calendar_remove,0.3,0.0271,False
+7122,sv-SE,calendar,calendar_set,kan du upprepa detta eventet,iot_hue_lightoff,0.736,0.0005,False
+7140,sv-SE,calendar,calendar_set,sätt en påminnelse för att notifiera mig en timme före lunchmöte,iot_hue_lightoff,0.6072,0.0343,False
+7141,sv-SE,calendar,calendar_query,är det här programmet planerat,qa_factoid,0.3288,0.0056,False
+7151,sv-SE,calendar,calendar_set,sätt en påminnelse vare söndag udda veckor,qa_factoid,0.4417,0.0055,False
+7152,sv-SE,calendar,calendar_set,ställ in lunch varje dag tolv trettio,cooking_recipe,0.839,0.1285,False
+7161,sv-SE,calendar,calendar_set,påminn mig om detta i framtiden,qa_factoid,0.8336,0.0041,False
+7170,sv-SE,calendar,calendar_set,det är min mors födelsedag idag skicka med en påminnelse varje år detta datum,weather_query,0.5739,0.0371,False
+7181,sv-SE,calendar,calendar_set,väck mig klockan sex på morgonen på torsdag så jag hinner med mötet,cooking_recipe,0.886,0.0018,False
+7185,sv-SE,calendar,calendar_query,när är min nästa bokade tid med doktor gustavsson,datetime_query,0.6935,0.0043,False
+7189,sv-SE,calendar,calendar_query,har jag något planerat,lists_query,0.7869,0.0026,False
+7194,sv-SE,calendar,calendar_set,jag har ett möte imorgon ställ det,calendar_remove,0.5039,0.0134,False
+7196,sv-SE,calendar,calendar_set,påminn mig om mötet med liam den femtonde mars,social_post,0.9667,0.0014,False
+7199,sv-SE,calendar,calendar_set,sätt en avisering till tre två och en timme innan nästa veckas svenskaprov,calendar_remove,0.4405,0.009,False
+7209,sv-SE,calendar,calendar_set,kan du påminna mig om att ta ut soporna på tisdag,calendar_remove,0.775,0.0023,False
+7219,sv-SE,calendar,calendar_query,satte du en påminnelse om mötet imorgon,iot_hue_lightoff,0.8422,0.0038,False
+7224,sv-SE,calendar,calendar_query,var ligger platsen där toms bröllop ska äga rum,lists_remove,0.1775,0.0303,False
+7232,sv-SE,calendar,calendar_query,vilka är eventen för nästa vecka,recommendation_events,0.6902,0.016,False
+7257,sv-SE,calendar,calendar_set,påminn mig att ringa mamma om en halvtimme,qa_factoid,0.3407,0.0119,False
+7258,sv-SE,calendar,calendar_set,påminn mig att skicka email till chef efter en timme,email_sendemail,1.0,0.0,False
+7262,sv-SE,calendar,calendar_set,skapa en notifikations påminnelse för möte imorgon,iot_hue_lightoff,0.5063,0.0969,False
+7266,sv-SE,calendar,calendar_query,vilka är mina väntande uppgifter,lists_query,0.8523,0.006,False
+7278,sv-SE,calendar,calendar_set,påminn mig om ebbas födelsedag tjugofyra timmar i förväg,weather_query,0.6354,0.009,False
+7287,sv-SE,calendar,calendar_set,påminn mig om min årsdag en dag i förväg,email_sendemail,0.4525,0.0137,False
+7289,sv-SE,calendar,calendar_remove,ta bort alla händelser med jeff,lists_remove,0.8553,0.0755,False
+7291,sv-SE,calendar,calendar_set,blockera en timme från klockan tio imorgon bitti,calendar_remove,0.6278,0.0009,False
+7292,sv-SE,calendar,calendar_set,jag är otillgänglig från fyra till sex på kvällen imorgon markera min kalender,calendar_remove,0.9856,0.0066,False
+7293,sv-SE,calendar,calendar_set,schemalägg en timmes bokning på lördag,email_sendemail,0.9896,0.0006,False
+7294,sv-SE,calendar,calendar_remove,ta bort tidsbokningen med dennis renfors från min kalender,calendar_remove,0.995,0.995,True
+7295,sv-SE,calendar,calendar_remove,vänligen rensa min kalender,calendar_remove,0.9996,0.9996,True
+7314,sv-SE,calendar,calendar_query,vad är det för idag,weather_query,0.993,0.0003,False
+7316,sv-SE,calendar,calendar_query,har jag några bokningar,lists_remove,0.5544,0.0018,False
+7319,sv-SE,calendar,calendar_query,vad händer idag från två till fyra på eftermiddagen,weather_query,0.4871,0.0396,False
+7353,sv-SE,email,email_query,hitta nästa veckas väder i kalifornien,weather_query,0.9984,0.0001,False
+7355,sv-SE,calendar,calendar_set,påminn mig om att kolla stuvningen klockan sex,cooking_recipe,0.7157,0.0034,False
+7380,sv-SE,calendar,calendar_query,visa dagens möte med klienter tack,play_podcasts,0.9613,0.0005,False
+7397,sv-SE,calendar,calendar_query,är det några events inplanerade kommande tre månaderna,lists_query,0.4739,0.0068,False
+7449,sv-SE,calendar,calendar_set,var god boka ett möte med den här personen,social_post,0.7101,0.002,False
+7450,sv-SE,calendar,calendar_set,jag måste boka ett möte med den här personen,qa_factoid,0.7151,0.0035,False
+7455,sv-SE,calendar,calendar_set,påminn mig om festen imorgon,iot_hue_lightoff,0.5643,0.0343,False
+7461,sv-SE,calendar,calendar_set,bjud in folk till event i kalender,calendar_set,0.9524,0.9524,True
+7463,sv-SE,calendar,calendar_set,informera min grupp att det nya datumet för mötet är imorgon,calendar_remove,0.9846,0.0072,False
+7467,sv-SE,calendar,calendar_query,ge mig tiden på eventen,datetime_query,0.6476,0.0031,False
+7477,sv-SE,calendar,calendar_set,påminn mig femtonde mars varje år att arrangera bröllopsdagspresenter,qa_factoid,0.9997,0.0,False
+7496,sv-SE,calendar,calendar_query,har jag några bokningar idag,lists_query,0.5743,0.0052,False
+7499,sv-SE,calendar,calendar_set,skapa en ny händelse med möte imorgon,calendar_remove,0.8507,0.0094,False
+7500,sv-SE,calendar,calendar_remove,kan du radera nästa händelse,recommendation_events,0.9998,0.0,False
+7502,sv-SE,calendar,calendar_query,vad är på agendan fyra på eftermiddagen möte med hans,social_post,0.899,0.0045,False
+7503,sv-SE,calendar,calendar_query,var i malmö är det där mötet klockan tretton på fredag,weather_query,0.8814,0.0036,False
+7520,sv-SE,calendar,calendar_set,påminn mig varje dag klockan fjorton noll noll om lunch,iot_hue_lightoff,0.3396,0.0226,False
+7524,sv-SE,calendar,calendar_query,hur mycket är nilsson villig att investera i mitt företag under mötet som hölls idag sjutton och tjugo,qa_factoid,0.4744,0.0064,False
+7528,sv-SE,calendar,calendar_set,trettonde juni är dagen för valresultaten var god markera det,datetime_query,0.4788,0.0008,False
+7531,sv-SE,calendar,calendar_set,lägg till min lönedag tack,email_sendemail,0.6986,0.0063,False
+7539,sv-SE,calendar,calendar_query,har jag något på gång,lists_query,0.3658,0.0157,False
+7542,sv-SE,calendar,calendar_set,var god påminn mig om det här imorgon,iot_hue_lightoff,0.9289,0.0005,False
+7549,sv-SE,calendar,calendar_set,jag vill ha ett möte klockan tre,calendar_remove,0.4261,0.0146,False
+7556,sv-SE,calendar,calendar_set,ställ in min kalender att påminna mig om att köpa mat varje fredag,calendar_set,1.0,1.0,True
+7557,sv-SE,calendar,calendar_set,skapa en påminnelse av platsen i kalender,calendar_set,0.9063,0.9063,True
+7559,sv-SE,calendar,calendar_set,påminn mig om att hämta min kemtvätt klockan åtta på kvällen,iot_hue_lightoff,0.189,0.0249,False
+7563,sv-SE,calendar,calendar_set,påminn mig om mötet imorgon en timme i förväg,email_sendemail,0.6684,0.0071,False
+7565,sv-SE,calendar,calendar_set,mötes påminnelse,qa_definition,0.8707,0.0023,False
+7567,sv-SE,calendar,calendar_set,födelsedag,datetime_query,0.5105,0.0055,False
+7569,sv-SE,calendar,calendar_query,planera för imorgon,calendar_set,0.2199,0.0259,False
+7570,sv-SE,calendar,calendar_query,vad är planen idag,qa_factoid,0.2838,0.0191,False
+7583,sv-SE,calendar,calendar_set,lägg till kompisfest i kalender,calendar_set,0.9992,0.9992,True
+7596,sv-SE,calendar,calendar_set,var god boka ett möte med didrik på saturnus kafé klockan tolv noll noll,weather_query,0.2414,0.0175,False
+7598,sv-SE,calendar,calendar_set,var god boka ett möte för att diskutera terrorism med fred på nästa möjliga mötesdag,qa_factoid,0.3951,0.0189,False
+7606,sv-SE,calendar,calendar_set,träffa hans imorgon klockan tre,weather_query,0.9722,0.0011,False
+7609,sv-SE,calendar,calendar_remove,ta bort mötes påminnelse för tisdag,calendar_remove,0.981,0.981,True
+7613,sv-SE,calendar,calendar_query,vad var den kommande händelsen,news_query,0.9189,0.0022,False
+7628,sv-SE,calendar,calendar_set,påminn mig när jag är på biblioteket att skaffa ett nytt bibliotekskort,email_sendemail,0.9958,0.0001,False
+7654,sv-SE,calendar,calendar_set,markera tjugonde april som min brorsas födelsedag,iot_hue_lightoff,0.4356,0.019,False
+7655,sv-SE,calendar,calendar_set,lägg till en påminnelse den tjugonde april som min brors födelsedag,calendar_remove,0.2949,0.2892,False
+7660,sv-SE,calendar,calendar_remove,avboka alla mina möten efter tre på eftermiddagen idag och informera mig om detaljerna,lists_remove,0.4253,0.1513,False
+7662,sv-SE,calendar,calendar_query,kan du lista upp mina möten idag,lists_remove,0.9902,0.0001,False
+7664,sv-SE,calendar,calendar_set,lägg till lunch med micke,cooking_recipe,0.9983,0.0001,False
+7666,sv-SE,calendar,calendar_set,kan du markera att jag har ett möte med tom klockan tre imorgon,iot_hue_lightoff,0.3729,0.0117,False
+7680,sv-SE,calendar,calendar_remove,i min kalender radera alla golfevent för denna månad,calendar_remove,0.9968,0.9968,True
+7686,sv-SE,calendar,calendar_set,inkludera mikael och jonas till festival kalender,calendar_set,0.9992,0.9992,True
+7690,sv-SE,calendar,calendar_query,vad har jag på gång,news_query,0.1083,0.0374,False
+7693,sv-SE,calendar,calendar_query,har jag något planerat den tjugoförsta,lists_query,0.6185,0.0055,False
+7697,sv-SE,calendar,calendar_set,sätt en påminnelse för den här,qa_factoid,0.9824,0.0002,False
+7711,sv-SE,calendar,calendar_set,hej ställ in alla mina andra möten och samtal till andra mars eftersom det är jimmys födelsedag tagga det som en händelse i din kalender,calendar_remove,0.7893,0.0485,False
+7712,sv-SE,calendar,calendar_set,hej ola avboka alla mina andra möten och samtal den andra mars eftersom det är davids födelsedag märk det som ett event i din kalender,calendar_remove,0.9424,0.0424,False
+7718,sv-SE,calendar,calendar_set,hej skicka en mötes inbjudan till henrik för fredagens möte och blockera min kalender för fredag eftermiddag,calendar_remove,0.9996,0.0002,False
+7726,sv-SE,calendar,calendar_set,jag behöver göra något varje måndag ställ in en påminnelse för det,calendar_remove,0.4905,0.0531,False
+7730,sv-SE,calendar,calendar_set,jag vill att du markerar nästa måndag,iot_hue_lightoff,0.1637,0.0528,False
+7741,sv-SE,calendar,calendar_remove,rensa min kalender för lördag,calendar_remove,0.9982,0.9982,True
+7751,sv-SE,calendar,calendar_set,påminn mig varje måndag att ta ut soporna,calendar_remove,0.8839,0.0021,False
+7762,sv-SE,calendar,calendar_query,vilka påminnelser har jag,qa_factoid,0.7843,0.0081,False
+7767,sv-SE,calendar,calendar_set,lägg till träning till kalender den fjärde februari i gamla stan vid fjorton noll noll,calendar_set,0.7357,0.7357,True
+7768,sv-SE,calendar,calendar_set,var god lägg till träning den fjärde februari i kungsträdgården klockan två på dagen,cooking_recipe,0.8579,0.0192,False
+7774,sv-SE,calendar,calendar_set,lägg till shopping i min kalender för imorgon,calendar_set,0.9993,0.9993,True
+7777,sv-SE,calendar,calendar_query,har jag en bokad tid idag,qa_factoid,0.9502,0.0005,False
+7778,sv-SE,calendar,calendar_set,påminn mig vad jag gör på söndag eftermiddag,cooking_recipe,0.4446,0.0263,False
+7808,sv-SE,calendar,calendar_set,påminn mig att ta mamma till hårsalongen på torsdag två på eftermiddagen,email_sendemail,0.8427,0.0015,False
+7817,sv-SE,calendar,calendar_query,stämmer det här om den här dejten,qa_factoid,0.9675,0.0,False
+7820,sv-SE,calendar,calendar_remove,radera alla händelser i kalendern,recommendation_events,0.3633,0.0067,False
+7836,sv-SE,calendar,calendar_remove,radera alla händelser,play_radio,0.9564,0.0003,False
+7843,sv-SE,calendar,calendar_set,låt mig veta om två timmar att jag måste bege mig till min fiollektion som är vid fyra på eftermiddagen på kulturskolan,calendar_remove,0.5744,0.0277,False
+7844,sv-SE,calendar,calendar_query,vilka påminnelser har jag ställt in,qa_factoid,0.2582,0.0314,False
+7847,sv-SE,calendar,calendar_set,notifiera mig när registrering öppnar,email_sendemail,0.9727,0.0007,False
+7851,sv-SE,calendar,calendar_set,jag har ett möte mitt på dagen idag,qa_factoid,0.1298,0.0411,False
+7863,sv-SE,calendar,calendar_set,påminn mig att börja laga middag den här eftermiddagen vid fem,cooking_recipe,0.9999,0.0,False
+7870,sv-SE,calendar,calendar_remove,radera händelser från kalendern,calendar_query,0.4072,0.0395,False
+7876,sv-SE,news,news_query,vad har hänt de senaste två månaderna,social_post,0.6986,0.1296,False
+7878,sv-SE,calendar,calendar_remove,rensa min kalender,qa_factoid,0.7529,0.0764,False
+7879,sv-SE,calendar,calendar_query,vilka är mina nästa tre evenemang,recommendation_events,0.7323,0.0036,False
+7889,sv-SE,calendar,calendar_query,vilken tid kommer fotbollsmatchen vara ikväll,weather_query,0.9993,0.0,False
+7890,sv-SE,calendar,calendar_remove,ta bort klippning idag,qa_factoid,0.3114,0.2348,False
+7891,sv-SE,calendar,calendar_remove,avboka middagen ikväll,iot_hue_lightoff,0.6234,0.0544,False
+7892,sv-SE,calendar,calendar_remove,radera nästa eventet idag,recommendation_events,0.9973,0.0001,False
+7894,sv-SE,calendar,calendar_set,ge mig en uppdatering om valet om en timme,email_sendemail,0.9851,0.0006,False
+7902,sv-SE,calendar,calendar_set,ordna ett möte mellan mig och john vid två på eftermiddagen imorgon,email_sendemail,0.8699,0.0059,False
+7908,sv-SE,calendar,calendar_query,behöver jag göra något idag,cooking_recipe,0.311,0.02,False
+7912,sv-SE,calendar,calendar_remove,alexa radera middag med mikael från min kalender,cooking_recipe,0.9979,0.0004,False
+7916,sv-SE,calendar,calendar_set,påminn mig om att ta ut soporna klockan sex på kvällen,social_post,0.7705,0.0048,False
+7918,sv-SE,calendar,calendar_set,kalender händelse skicka inbjudan stina svensson,calendar_remove,0.7257,0.0064,False
+7919,sv-SE,calendar,calendar_set,nytt möte lägg till björn och malin som deltagare,social_post,0.469,0.0174,False
+7922,sv-SE,calendar,calendar_remove,öppna och ta bort framtida evenemang,calendar_remove,0.3854,0.3854,True
+7927,sv-SE,calendar,calendar_query,vad ska jag göra den här veckan,cooking_recipe,0.7434,0.0241,False
+7946,sv-SE,calendar,calendar_query,vilka är kommande konserter i göteborg,play_podcasts,0.8205,0.0035,False
+7953,sv-SE,calendar,calendar_remove,ta bort tiden hos min läkare på lördag,calendar_remove,0.9997,0.9997,True
+7955,sv-SE,calendar,calendar_set,lägg in den här händelsen som återkommande i min kalender,qa_factoid,0.6342,0.301,False
+7956,sv-SE,calendar,calendar_set,kan du göra den här händelsen återkommande,cooking_recipe,0.277,0.006,False
+7966,sv-SE,calendar,calendar_query,sa jag till dig att påminna mig om något,email_sendemail,1.0,0.0,False
+7970,sv-SE,calendar,calendar_set,påminn mig om bröllopet i tid att köpa en present,email_sendemail,0.7092,0.0063,False
+7971,sv-SE,calendar,calendar_set,ställ in en påminnelse två dagar innan händelsen,email_sendemail,0.9998,0.0,False
+7975,sv-SE,calendar,calendar_query,är det parkeringsservice på eventet,qa_factoid,0.944,0.0017,False
+7978,sv-SE,calendar,calendar_query,vilka påminnelser har jag schemalagda före tolv på dagen imorgon,iot_hue_lightoff,0.3161,0.0196,False
+7980,sv-SE,calendar,calendar_set,berätta när jag har en händelse,datetime_query,0.9528,0.0009,False
+7981,sv-SE,calendar,calendar_set,skicka en avisering före möte,calendar_remove,0.5317,0.0138,False
+7993,sv-SE,calendar,calendar_remove,radera alla event från min kalender,calendar_set,0.7983,0.0606,False
+8001,sv-SE,calendar,calendar_remove,kan du radera hårklippningen som jag har planerat in på fredag,lists_remove,0.8897,0.0101,False
+8004,sv-SE,calendar,calendar_set,doris behöver prata med mig om vår skilsmässa kan du boka ett möte så snart jag är ledig,email_sendemail,0.9997,0.0,False
+8005,sv-SE,calendar,calendar_set,på måndag den tjugonde behöver jag ha ett samtal med greger om vår weekendresa,social_post,0.6845,0.0061,False
+8013,sv-SE,calendar,calendar_query,visa mitt möte för nästa månad,play_podcasts,0.1808,0.0199,False
+8029,sv-SE,calendar,calendar_query,vilka händelser kommer idag,weather_query,0.9598,0.0006,False
+8033,sv-SE,datetime,datetime_query,på vilken dag är påsken i år,weather_query,0.9731,0.014,False
+8035,sv-SE,calendar,calendar_set,påminn mig om att byta oljan,iot_hue_lightoff,0.6883,0.0019,False
+8037,sv-SE,calendar,calendar_set,påminn mig att göra något snart,cooking_recipe,0.9916,0.0003,False
+8042,sv-SE,calendar,calendar_query,hur många människor kommer delta i mitt nästa möte,qa_factoid,0.6533,0.0109,False
+8043,sv-SE,calendar,calendar_query,vid vilken tid är mitt nästa möte,datetime_query,0.7814,0.0073,False
+8044,sv-SE,calendar,calendar_query,vad är på mitt schema idag,lists_query,0.2042,0.0281,False
+8055,sv-SE,calendar,calendar_remove,radera mina bokningar för sjunde mars,recommendation_events,0.347,0.0137,False
+8056,sv-SE,calendar,calendar_query,har jag en dejt på fredag,cooking_recipe,0.9892,0.0003,False
+8058,sv-SE,calendar,calendar_query,har jag ett försäljningsmöte idag,recommendation_events,0.9168,0.0015,False
+8073,sv-SE,calendar,calendar_set,boka in ett säljmöte på onsdag klockan elva på förmiddagen,iot_hue_lightoff,0.6185,0.0233,False
+8079,sv-SE,calendar,calendar_set,sätt en påminnelse en timme för mitt bröd att bli färdigt,cooking_recipe,0.9765,0.0013,False
+8084,sv-SE,calendar,calendar_query,vad är agendan för evenemanget,calendar_remove,0.394,0.1098,False
+8085,sv-SE,calendar,calendar_set,jag skulle vilja sätta en dejt för denna veckan,social_post,0.3942,0.0091,False
+8100,sv-SE,email,email_sendemail,emejla mina möten om att omboka,email_sendemail,1.0,1.0,True
+8107,sv-SE,calendar,calendar_set,sätt ett födelsedags event för martin,calendar_remove,0.3951,0.3397,False
+8110,sv-SE,calendar,calendar_set,vänligen lägg till undervisning till min kalender,calendar_set,0.999,0.999,True
+8116,sv-SE,calendar,calendar_query,under tidsramen den första februari och sextonde mars vilka möten ägde rum,datetime_query,0.5231,0.0222,False
+8119,sv-SE,calendar,calendar_query,var hålls marys födelsedagskalas,email_sendemail,0.703,0.0029,False
+8125,sv-SE,calendar,calendar_set,skapa en mötes händelse i min kalender,calendar_remove,0.9996,0.0003,False
+8126,sv-SE,calendar,calendar_set,schemalägg ett mötes händelse i min kalender,email_sendemail,0.9838,0.0102,False
+8129,sv-SE,calendar,calendar_query,vilka påminnelser har jag fortfarande,iot_hue_lightoff,0.1395,0.0397,False
+8140,sv-SE,calendar,calendar_set,sätt en påminnelse den trettonde om att jag har en lunch med erik,cooking_recipe,0.7869,0.0033,False
+8148,sv-SE,calendar,calendar_query,lämnade jag några påminnelser åt mig själv,lists_remove,0.8762,0.004,False
+8150,sv-SE,calendar,calendar_query,har jag någon påminnelse om födelsedagsfest,email_sendemail,0.7641,0.0148,False
+8165,sv-SE,calendar,calendar_query,två och trettio redan du har ett möte om tio minuter,calendar_remove,0.266,0.0323,False
+8182,sv-SE,calendar,calendar_remove,kan du radera tandläkartiden,recommendation_events,0.7836,0.001,False
+8188,sv-SE,calendar,calendar_query,vad är det för datum,weather_query,0.7466,0.012,False
+8204,sv-SE,calendar,calendar_set,påminn mig att gå till postkontoret tack,email_sendemail,0.9991,0.0,False
+8206,sv-SE,calendar,calendar_set,se till att jag inte glömmer att köpa en present till min syster,email_sendemail,0.9994,0.0,False
+8230,sv-SE,calendar,calendar_query,hur långt kommer mitt lunchmöte vara på tisdag,calendar_remove,0.8108,0.0015,False
+8241,sv-SE,calendar,calendar_remove,rensa allt från min kalender för resten av året,calendar_remove,0.954,0.954,True
+8245,sv-SE,calendar,calendar_set,jag skulle vilja bli notifierad angående kyrkotjänster på söndagar klockan elva,email_sendemail,0.5526,0.0094,False
+8248,sv-SE,calendar,calendar_set,lägg till morgondagens middags träff till kalendern,calendar_set,0.945,0.945,True
+8251,sv-SE,calendar,calendar_set,jag behöver lägga in nästa veckas lunch i kalendern,calendar_set,0.9977,0.9977,True
+8260,sv-SE,calendar,calendar_set,notifiera mig en dag innan lisas födelsedag,email_sendemail,0.9998,0.0,False
+8261,sv-SE,calendar,calendar_set,skicka mig en alarm en timme före mitt nästa möte,calendar_remove,0.54,0.2159,False
+8269,sv-SE,calendar,calendar_set,trettio minuters påminnelse till mötet på tisdag,qa_factoid,0.3109,0.0282,False
+8276,sv-SE,calendar,calendar_remove,ta bort mitt nästa schemalagda möte tack,calendar_remove,0.6472,0.6472,True
+8280,sv-SE,calendar,calendar_set,jag vill ställa in påminnelse den femtonde mars,weather_query,0.8645,0.0041,False
+8284,sv-SE,calendar,calendar_remove,ta bort födelsedag från kalender,calendar_remove,0.9997,0.9997,True
+8289,sv-SE,calendar,calendar_set,ställ in en påminnelse om dagens fakultetsmöte klockan fyra,calendar_set,0.7499,0.7499,True
+8290,sv-SE,calendar,calendar_set,öppna en påminnelse om kommande veckors chefsmöte på tisdag,social_post,0.5205,0.0086,False
+8294,sv-SE,calendar,calendar_set,lägg till i kalender och upprepa,calendar_set,0.9998,0.9998,True
+8300,sv-SE,calendar,calendar_set,spara event sjutton till arton den artonde mars,recommendation_events,0.7493,0.0012,False
+8302,sv-SE,calendar,calendar_remove,radera nästa måndags möte,play_radio,0.9863,0.0002,False
+8308,sv-SE,news,news_query,igår vid middag vid guldbron vad var det för protester,social_post,0.9968,0.0002,False
+8336,sv-SE,calendar,calendar_query,när är min brunch med jennifer,cooking_recipe,0.619,0.0008,False
+8343,sv-SE,datetime,datetime_query,är det onsdag,weather_query,0.4596,0.0351,False
+8345,sv-SE,calendar,calendar_set,berätta när mötet kommer inträffa,qa_factoid,0.8955,0.0001,False
+8347,sv-SE,calendar,calendar_query,vad händer den fjärde december,weather_query,0.9238,0.0022,False
+8358,sv-SE,calendar,calendar_set,påminn mig om detta,qa_factoid,0.9684,0.0011,False
+8366,sv-SE,calendar,calendar_set,gör artonde mars ett repeterande möte för pearls födelsedag,weather_query,0.1587,0.0319,False
+8387,sv-SE,calendar,calendar_set,skapa påminnelse för tvätt vid åtta på kvällen,iot_hue_lightoff,0.772,0.0065,False
+8388,sv-SE,calendar,calendar_set,jag vill tvätta vid åtta på kvällen skapa påminnelse,iot_hue_lightoff,0.9586,0.0013,False
+8390,sv-SE,calendar,calendar_set,påminn mig om mitt möte på,email_sendemail,0.9868,0.0001,False
+8394,sv-SE,calendar,calendar_set,ställ in en påminnelse varje dag vid tolv på dagen att ta medicin,email_sendemail,0.8384,0.1089,False
+8404,sv-SE,calendar,calendar_query,jag vill veta mer om det här eventet,qa_factoid,0.6174,0.0026,False
+8409,sv-SE,calendar,calendar_remove,radera min middag imorgon,play_radio,0.8575,0.0047,False
+8410,sv-SE,calendar,calendar_remove,ta bort mitt middags event på måndag,calendar_remove,1.0,1.0,True
+8413,sv-SE,calendar,calendar_set,varna mig tack,qa_factoid,0.9382,0.0004,False
+8414,sv-SE,calendar,calendar_set,påminn mig att gå på middag med daniel på fredag klockan fem,cooking_recipe,0.9367,0.0008,False
+8415,sv-SE,calendar,calendar_set,lägg till möte på kontoret med erik klockan tre på eftermiddagen på tisdag,email_sendemail,0.3899,0.1271,False
+8426,sv-SE,calendar,calendar_query,berätta för mig aktuella händelser mellan igår och denna morgon,news_query,0.9237,0.0035,False
+8430,sv-SE,calendar,calendar_remove,avboka alla mina bokningar,calendar_remove,0.5604,0.5604,True
+8431,sv-SE,calendar,calendar_remove,ta bort alla mina schemalagda händelser,lists_remove,0.8934,0.0754,False
+8436,sv-SE,calendar,calendar_set,var god sätt lunchmöte vid tolv för varje onsdag i mars,calendar_set,0.5848,0.5848,True
+8442,sv-SE,calendar,calendar_set,ändra min kalender med detta event,calendar_set,0.9885,0.9885,True
+8449,sv-SE,calendar,calendar_set,sätt en påminnelse för min dotters födelsedag,iot_hue_lightoff,0.3151,0.0392,False
+8453,sv-SE,calendar,calendar_set,var god lägg till händelse i min kalender och märk det som en återkommande händelse,email_sendemail,0.9865,0.0132,False
+8460,sv-SE,calendar,calendar_query,visa mig mina händelser,news_query,0.5367,0.011,False
+8461,sv-SE,calendar,calendar_query,vad är mina planer för maj månad,email_sendemail,0.261,0.0328,False
+8466,sv-SE,calendar,calendar_set,jag har ett möte nio på morgonen på onsdag skicka mig en påminnelse,calendar_remove,0.3464,0.0212,False
+8469,sv-SE,calendar,calendar_query,vad är bokat i min kalender idag,calendar_set,0.9954,0.0033,False
+8474,sv-SE,calendar,calendar_set,legg till kristinas födelsedagsfest i min kalender imorgon på berns klockan två på eftermiddagen,calendar_set,0.9097,0.9097,True
+8494,sv-SE,calendar,calendar_query,hur ser mitt schema ut idag,lists_query,0.361,0.0232,False
+8496,sv-SE,calendar,calendar_query,berätta för mig om mina möten imorgon på morgonen,email_sendemail,0.2448,0.0201,False
+8498,sv-SE,calendar,calendar_query,låt oss gå igenom alla väntande påminnelser,lists_remove,0.4979,0.0108,False
+8516,sv-SE,calendar,calendar_remove,ta bort kalenderenhet,calendar_remove,1.0,1.0,True
+8520,sv-SE,calendar,calendar_set,lägg till event i kalenderappen,calendar_set,1.0,1.0,True
+8525,sv-SE,calendar,calendar_query,mötes påminnelser från tre till fem,iot_hue_lightoff,0.1559,0.0383,False
+8535,sv-SE,calendar,calendar_set,kan du påminna mig om tandläkartiden jag har om två timmar,datetime_query,0.9205,0.0011,False
+8539,sv-SE,calendar,calendar_set,påminn mig om,qa_factoid,0.6011,0.0007,False
+8541,sv-SE,calendar,calendar_set,påminn mig snälla,iot_hue_lightoff,0.97,0.0005,False
+8553,sv-SE,calendar,calendar_set,lägg till ett möte i min kalender klockan nio på morgonen med tom,calendar_set,0.5586,0.5586,True
+8559,sv-SE,calendar,calendar_query,har jag något schemalagt idag,calendar_set,0.2348,0.0113,False
+8562,sv-SE,calendar,calendar_remove,radera mitt möte vid två på eftermiddagen idag,calendar_remove,0.9903,0.9903,True
+8568,sv-SE,calendar,calendar_set,skickar du en kalenderinbjudan till david och klara på brunch klockan elva på tisdag,calendar_set,0.9654,0.9654,True
+8570,sv-SE,calendar,calendar_set,kan du markera att jag är upptagen med ett event imorgon vid två på eftermiddagen,recommendation_events,0.4981,0.0386,False
+8579,sv-SE,calendar,calendar_query,vilken information borde jag veta för mina möten idag,recommendation_events,0.9888,0.0006,False
+8585,sv-SE,calendar,calendar_set,påminn mig om att jag har en födelsedagsfest den trettionde,social_post,0.3494,0.024,False
+8598,sv-SE,calendar,calendar_set,påminn mig att hämta david vid flygplatsen vid klockan sex på kvällen,weather_query,0.6911,0.001,False
+8618,sv-SE,calendar,calendar_set,påminn mig om att vattna mina blommor varje tisdag torsdag och lördag,cooking_recipe,0.9719,0.0032,False
+8631,sv-SE,calendar,calendar_remove,radera det där från min kalender,play_radio,0.4191,0.0211,False
+8635,sv-SE,calendar,calendar_set,kan du påminna mig att beställa kalkonen tre veckor före thanksgiving,cooking_recipe,0.774,0.0023,False
+8640,sv-SE,calendar,calendar_set,jag vill skapa en anteckning i min kalender för eventet imorgon på biblioteket,calendar_set,0.8527,0.8527,True
+8642,sv-SE,calendar,calendar_set,lägg till konferenssamtal klockan fyra på eftermiddagen till mina påminnelser för idag,calendar_set,0.7328,0.7328,True
+8651,sv-SE,calendar,calendar_set,meddela mig om händelsen i min kalender,calendar_query,0.5261,0.1988,False
+8653,sv-SE,calendar,calendar_set,påminn mig om händelsen i min kalender,calendar_remove,0.3546,0.3225,False
+8666,sv-SE,calendar,calendar_remove,radera alla händelser i min kalender,calendar_set,0.4535,0.2472,False
+8667,sv-SE,calendar,calendar_query,under de senaste tre månaderna hur många möten har jag haft med lukasson,social_post,0.6325,0.0132,False
+8670,sv-SE,calendar,calendar_remove,radera alla händelser från kalendern,recommendation_events,0.3513,0.1391,False
+8672,sv-SE,calendar,calendar_query,var är kisskonserten,email_sendemail,0.9958,0.0001,False
+8674,sv-SE,calendar,calendar_query,var är mitt möte klockan nio på morgonen,email_sendemail,0.266,0.0149,False
+8679,sv-SE,calendar,calendar_query,är det sveriges nationaldag idag,weather_query,0.9945,0.0005,False
+8681,sv-SE,calendar,calendar_query,är det någons födelsedag,qa_factoid,0.9544,0.0002,False
+8694,sv-SE,calendar,calendar_set,klara och david följer med till detta evenemanget,qa_factoid,0.2537,0.0137,False
+8730,sv-SE,calendar,calendar_set,var god ställ in en påminnelse i min kalender för mitt möte den tjugofemte mars,calendar_remove,0.9369,0.0086,False
+8732,sv-SE,calendar,calendar_remove,radera alla datum,play_radio,0.9977,0.0001,False
+8762,sv-SE,calendar,calendar_query,berätta mitt schema för senare denna eftermiddag,calendar_remove,0.4225,0.0086,False
+8765,sv-SE,calendar,calendar_set,sätt min middag på burger king på kalendern för idag vid nio,calendar_set,0.9985,0.9985,True
+8766,sv-SE,calendar,calendar_query,har jag ett möte lördagen den tjugofemte mars,calendar_remove,0.3094,0.0146,False
+8767,sv-SE,calendar,calendar_query,är linas födelsedag tjugonde april,datetime_query,0.9576,0.001,False
+8769,sv-SE,calendar,calendar_remove,radera kommande event,play_radio,0.9977,0.0001,False
+8771,sv-SE,calendar,calendar_remove,radera shoppingresan som jag har bokat in den tjugotredje mars,recommendation_events,0.9705,0.0001,False
+8774,sv-SE,calendar,calendar_query,är mitt schema den sjuttonde juli helt öppet,calendar_remove,0.7614,0.0059,False
+8781,sv-SE,calendar,calendar_query,är jag ledig vid fyra i eftermiddag,iot_hue_lightoff,0.9069,0.0154,False
+8782,sv-SE,calendar,calendar_query,har jag ett möte den här eftermiddagen,calendar_remove,0.9545,0.005,False
+8791,sv-SE,calendar,calendar_query,mer information om denna händelse,news_query,0.359,0.0138,False
+8795,sv-SE,calendar,calendar_query,visa väntande påminnelser,qa_factoid,0.5773,0.0087,False
+8822,sv-SE,recommendation,recommendation_events,information om uppkommande evenemang,recommendation_events,0.3599,0.3599,True
+8824,sv-SE,calendar,calendar_query,vad har jag schemalagt den nittonde klockan två e. m.,weather_query,0.8025,0.0056,False
+8825,sv-SE,calendar,calendar_set,skicka mig en påminnelse för mitt möte med tomas nästa fredag,social_post,0.1984,0.019,False
+8828,sv-SE,calendar,calendar_query,är event i kalender äkta,calendar_remove,0.9069,0.0685,False
+8846,sv-SE,calendar,calendar_query,har jag något planerat fjärde juli i år,calendar_remove,0.8638,0.0043,False
+8853,sv-SE,calendar,calendar_remove,rensa min aktivitet,iot_hue_lightoff,0.74,0.0006,False
+8856,sv-SE,calendar,calendar_remove,radera alla händelser i kalender,calendar_query,0.6309,0.0123,False
+8857,sv-SE,calendar,calendar_set,påminn om det kommande mötet med håkan,email_sendemail,0.572,0.0047,False
+8868,sv-SE,calendar,calendar_set,påminn mig om att ringa mamma varje tisdag klockan tio på morgonen,email_sendemail,1.0,0.0,False
+8880,sv-SE,calendar,calendar_set,sätt en påminnelse om morgondagens möte vid nio på morgonen,calendar_remove,0.8326,0.0531,False
+8888,sv-SE,calendar,calendar_remove,radera den,play_radio,0.9608,0.0018,False
+8900,sv-SE,calendar,calendar_set,ställ in återkommande påminnelse varje söndag,calendar_set,0.6471,0.6471,True
+8904,sv-SE,calendar,calendar_query,information om de senaste händelserna,news_query,0.9864,0.0005,False
+8906,sv-SE,calendar,calendar_set,sätt händelse datum i kalender med andra,calendar_set,0.9984,0.9984,True
+8907,sv-SE,calendar,calendar_set,nämn event i kalender med andra,calendar_set,0.7229,0.7229,True
+8912,sv-SE,calendar,calendar_query,ge mig dagens kalenderhändelser efter sex på kvällen,calendar_set,0.807,0.0837,False
+8914,sv-SE,calendar,calendar_query,vilken tid är mitt möte den fjärde april,weather_query,0.684,0.0624,False
+8916,sv-SE,calendar,calendar_query,vad är mitt schema för dagen,lists_query,0.2585,0.0956,False
+8925,sv-SE,calendar,calendar_remove,radera alla händelser i min kalender,calendar_set,0.4535,0.2472,False
+8939,sv-SE,calendar,calendar_set,saras dotter baby shower,play_music,0.2996,0.0339,False
+8948,sv-SE,calendar,calendar_set,lägg till händelse för möte med jakob,calendar_set,0.7953,0.7953,True
+8949,sv-SE,calendar,calendar_remove,ta bort påminnelse,calendar_remove,0.793,0.793,True
+8958,sv-SE,calendar,calendar_query,öppna mötes tid,calendar_remove,0.975,0.0007,False
+8960,sv-SE,calendar,calendar_set,jag vill att du skapar ett larm på kvällen om kommande möte,iot_hue_lightoff,0.998,0.0001,False
+8967,sv-SE,calendar,calendar_set,påminn mig två dagar innan min frus födelsedag,weather_query,0.75,0.0042,False
+8968,sv-SE,calendar,calendar_set,berätta något för att påminna mig denna vecka,social_post,0.4093,0.0089,False
+8975,sv-SE,calendar,calendar_query,vilka möten är inbokade idag,qa_factoid,0.113,0.0472,False
+8977,sv-SE,calendar,calendar_set,ställ bara in en påminnelse om inkommande fakturabetalningar,qa_factoid,0.5874,0.0571,False
+8978,sv-SE,calendar,calendar_set,låt mig bara veta de viktiga mötena med min chef under helgen,recommendation_events,0.2528,0.016,False
+8985,sv-SE,calendar,calendar_remove,o. k. google radera eriks födelsedag från kalendern,calendar_remove,0.9927,0.9927,True
+8990,sv-SE,calendar,calendar_set,skapa händelse,news_query,0.2693,0.0142,False
+8992,sv-SE,calendar,calendar_set,visa möten,datetime_query,0.924,0.0004,False
+9009,sv-SE,calendar,calendar_remove,ta bort årsdag händelse från min kalender,calendar_remove,0.9984,0.9984,True
+9011,sv-SE,calendar,calendar_query,är det midsommar den fjortonde den här månaden,weather_query,0.9917,0.0001,False
+9014,sv-SE,calendar,calendar_set,lägg in en notifikation tjugotredje oktober möte med min kollega,email_sendemail,0.8753,0.0004,False
+9015,sv-SE,calendar,calendar_remove,ta bort alla händelser från min kalender,calendar_remove,0.9854,0.9854,True
+9019,sv-SE,calendar,calendar_query,möten från tjugonde till tjugofemte juni,calendar_remove,0.1247,0.0378,False
+9030,sv-SE,calendar,calendar_remove,radera läkarundersökningstid idag från min kalender,calendar_remove,0.6561,0.6561,True
+9035,sv-SE,calendar,calendar_query,hugo bröllop påminnelse,email_sendemail,0.9742,0.0004,False
+9043,sv-SE,calendar,calendar_set,kommande händelser i kalender,calendar_set,0.8292,0.8292,True
+9053,sv-SE,calendar,calendar_set,sätt ett möte påminnelse med mona på tisdag,social_post,0.7792,0.0036,False
+9054,sv-SE,calendar,calendar_set,händelse påminnelse monika tisdag,email_sendemail,0.9422,0.0024,False
+9059,sv-SE,calendar,calendar_set,notifiera mig vid tidpunkten för eventet,email_sendemail,0.9907,0.0003,False
+9061,sv-SE,calendar,calendar_query,vilken information har jag bland påminnelser,lists_query,0.6606,0.0178,False
+9062,sv-SE,calendar,calendar_set,kan du sätta ninas födelsedag på den tjugoandra juni,datetime_query,0.4701,0.1421,False
+9074,sv-SE,calendar,calendar_remove,var god radera det där eventet,iot_hue_lightoff,0.3881,0.0276,False
+9088,sv-SE,calendar,calendar_remove,ta bort allt från min kalender,calendar_remove,0.9865,0.9865,True
+9095,sv-SE,calendar,calendar_remove,ta bort kvällens middag med sofia,cooking_recipe,0.9487,0.0194,False
+9103,sv-SE,calendar,calendar_query,är det ett möte i min kalender denna eftermiddag,calendar_query,0.6896,0.6896,True
+9107,sv-SE,calendar,calendar_query,vilken tid börjar darins konsert den tredje juni,weather_query,0.9736,0.0015,False
+9110,sv-SE,calendar,calendar_set,the pet show den tjugofemte mars gör en anteckning om det på motsvarande datum,social_post,0.8175,0.0035,False
+9112,sv-SE,calendar,calendar_set,lägg till det här i min kalender,calendar_set,0.9979,0.9979,True
+9114,sv-SE,calendar,calendar_set,skapa en återkommande påminnelse för det här kalendereventet,email_sendemail,0.6469,0.0072,False
+9116,sv-SE,calendar,calendar_query,kan du boka om mitt möte,qa_factoid,0.9722,0.0003,False
+9121,sv-SE,calendar,calendar_query,vilka dagar har jag bokat,weather_query,0.5471,0.0007,False
+9124,sv-SE,calendar,calendar_set,visa mig eventen i min jobbkalender för nästa vecka,email_sendemail,0.9777,0.001,False
+9137,sv-SE,calendar,calendar_query,vilken tid är det italienska kaféet stäng mellan lunch och middag,calendar_remove,0.4419,0.4332,False
+9138,sv-SE,qa,qa_factoid,när börjar superbowlen officiellt,qa_factoid,0.9993,0.9993,True
+9149,sv-SE,calendar,calendar_query,vilken tid börjar grammisgalan,datetime_query,0.7126,0.0017,False
+9153,sv-SE,calendar,calendar_set,lägg till middag med maria i min kalender på lördag,cooking_recipe,0.9938,0.0032,False
+9155,sv-SE,calendar,calendar_set,på fredag var god lägg till tandläkarbesök vid tre,cooking_recipe,0.8754,0.0492,False
+9156,sv-SE,calendar,calendar_set,påminn,iot_hue_lightoff,0.7029,0.0025,False
+9175,sv-SE,calendar,calendar_query,har min kalender uppdaterats de sista tio minuterna,calendar_set,0.6227,0.0231,False
+9182,sv-SE,calendar,calendar_remove,avboka mina planer på att hämta mina föräldrar från flygplatsen,transport_query,0.8761,0.045,False
+9187,sv-SE,calendar,calendar_set,gör efterforskning om klienterna som kommer att medverka på mötet,qa_factoid,0.2582,0.0088,False
+9193,sv-SE,calendar,calendar_set,ställ in det här datumet att upprepas,qa_factoid,0.9758,0.0028,False
+9194,sv-SE,calendar,calendar_remove,var god radera det här eventet från min kalender,calendar_remove,0.9033,0.9033,True
+9197,sv-SE,calendar,calendar_query,vad har jag planerat den här veckan,calendar_set,0.7201,0.0105,False
+9198,sv-SE,calendar,calendar_query,kolla mina påminnelser tack,iot_hue_lightoff,0.2889,0.0146,False
+9202,sv-SE,play,play_radio,spela min radiostation,play_radio,1.0,1.0,True
+9204,sv-SE,play,play_radio,starta power hit radio,play_radio,1.0,1.0,True
+9212,sv-SE,play,play_radio,någon spela radion,play_radio,0.9999,0.9999,True
+9216,sv-SE,play,play_radio,spela min station,play_radio,0.8443,0.8443,True
+9225,sv-SE,play,play_radio,kan du starta radion,play_radio,1.0,1.0,True
+9233,sv-SE,play,play_radio,öppna itunes,email_sendemail,0.8767,0.0001,False
+9236,sv-SE,play,play_radio,gå till kanal etthundrasex komma nio,qa_factoid,0.9959,0.0001,False
+9237,sv-SE,play,play_radio,sätt på radion och spela kanal p. ett,play_radio,1.0,1.0,True
+9250,sv-SE,play,play_radio,jag vill lyssna på radio,play_radio,1.0,1.0,True
+9254,sv-SE,play,play_radio,spela rix f. m.,play_radio,0.4245,0.4245,True
+9263,sv-SE,play,play_radio,öppna radio appen,play_radio,1.0,1.0,True
+9269,sv-SE,play,play_radio,ställ in åttahundranittiosju f. m.,qa_factoid,0.9958,0.0001,False
+9270,sv-SE,play,play_radio,spela rix f. m.,play_radio,0.4245,0.4245,True
+9275,sv-SE,play,play_radio,bara hundrasju komma fem ska spelas på radion,play_radio,0.9969,0.9969,True
+9284,sv-SE,play,play_radio,spela n. r. j.,play_radio,0.7265,0.7265,True
+9291,sv-SE,play,play_radio,sätt på,calendar_set,0.447,0.053,False
+9301,sv-SE,play,play_radio,spela rockklassiker,play_music,1.0,0.0,False
+9303,sv-SE,play,play_radio,spela bandit rock,play_music,0.9962,0.0036,False
+9305,sv-SE,play,play_radio,växla till gamla favoriter,qa_factoid,0.9312,0.0001,False
+9316,sv-SE,play,play_radio,spela mix megapol för mig,iot_hue_lightoff,0.6386,0.0573,False
+9317,sv-SE,play,play_radio,starta radion nu,play_radio,1.0,1.0,True
+9321,sv-SE,play,play_radio,sätt igång radion nu,play_radio,1.0,1.0,True
+9323,sv-SE,play,play_radio,starta pandora,qa_factoid,0.8966,0.0136,False
+9326,sv-SE,play,play_radio,snälla spela radiostation mix megapol just nu,play_radio,1.0,1.0,True
+9327,sv-SE,play,play_radio,vänligen skanna am ratten på radion just nu,play_radio,0.9981,0.9981,True
+9330,sv-SE,play,play_radio,spela,play_radio,0.8619,0.8619,True
+9341,sv-SE,play,play_radio,alexa byt radiostationen,qa_factoid,1.0,0.0,False
+9352,sv-SE,play,play_radio,starta radion tack,play_radio,0.9093,0.9093,True
+9353,sv-SE,play,play_radio,sätt igång radion och spela lite musik,play_radio,1.0,1.0,True
+9358,sv-SE,play,play_radio,starta radiokanalen rix f. m.,play_radio,1.0,1.0,True
+9361,sv-SE,play,play_radio,lyssna på radio,play_radio,0.9999,0.9999,True
+9362,sv-SE,play,play_radio,radio kanaler,play_radio,0.9999,0.9999,True
+9363,sv-SE,play,play_radio,spela hits på radion,play_radio,0.9999,0.9999,True
+9364,sv-SE,play,play_radio,spela svenska hits,play_music,0.9764,0.0087,False
+9380,sv-SE,play,play_radio,jag vill att du går till hundrasex komma tre på radion,play_radio,0.9992,0.9992,True
+9384,sv-SE,play,play_radio,spela s. r. p. två,iot_hue_lightoff,0.5086,0.2041,False
+9394,sv-SE,play,play_radio,hej google spela radion,play_radio,0.9471,0.9471,True
+9402,sv-SE,play,play_radio,spela hundrafyra komma sju radiostationen,play_radio,0.9997,0.9997,True
+9406,sv-SE,play,play_radio,starta bandit rock radiokanal,play_radio,1.0,1.0,True
+9408,sv-SE,play,play_radio,starta radio play,play_radio,1.0,1.0,True
+9426,sv-SE,play,play_radio,jag vill lyssna på stationen som spelar r. and b.,play_music,0.9997,0.0,False
+9438,sv-SE,play,play_radio,kan du spela en raplåt på radion,play_radio,0.9998,0.9998,True
+9457,sv-SE,play,play_music,spela låten eld och lågor,play_music,1.0,1.0,True
+9460,sv-SE,play,play_music,spela nittiotals hip hop,play_music,0.9995,0.9995,True
+9471,sv-SE,play,play_radio,sätt på en country musikstation,play_music,0.9945,0.0012,False
+9494,sv-SE,play,play_radio,kan du spela rix f. m. station som spelar poplåtar,play_music,1.0,0.0,False
+9506,sv-SE,play,play_radio,google låt oss lyssna på järfälla radio,play_radio,1.0,1.0,True
+9507,sv-SE,play,play_radio,hitta radiostationen som för närvarande spelar lykke li,play_radio,0.9998,0.9998,True
+9519,sv-SE,play,play_radio,spela någon pop mix megapol kanal,play_music,0.5085,0.197,False
+9520,sv-SE,play,play_radio,spela den senaste läkaren som broadcastade på radion,play_music,0.723,0.0927,False
+9524,sv-SE,play,play_radio,starta program på sveriges radio,play_radio,1.0,1.0,True
+9528,sv-SE,play,play_radio,sätt på n. r. j. och spela den på mina högtalare,play_music,0.997,0.0026,False
+9541,sv-SE,play,play_radio,spela alltid va lugn låten på radio,play_radio,0.9349,0.9349,True
+9542,sv-SE,play,play_radio,låt mig lyssna på det senaste nyhetsprogrammet på radion,play_radio,0.8995,0.8995,True
+9545,sv-SE,play,play_radio,jag vill lyssna på rix morronzoo show tack,play_podcasts,0.9998,0.0,False
+9554,sv-SE,play,play_radio,spela romantisk musik på lugna favoriter,play_music,1.0,0.0,False
+9561,sv-SE,play,play_radio,spela kanalen rix f. m.,play_music,0.3987,0.1462,False
+9562,sv-SE,play,play_radio,kan du snälla spela detta programmet åt mig,play_radio,0.5275,0.5275,True
+9565,sv-SE,play,play_radio,spela radio nonstop låtar,play_radio,0.9991,0.9991,True
+9568,sv-SE,play,play_radio,spela miriam bryant livekonsert serie,play_podcasts,0.9804,0.0069,False
+9569,sv-SE,play,play_radio,google spela nittionio komma fyra,play_music,0.995,0.004,False
+9577,sv-SE,play,play_radio,ändra station till åttiotvå komma fyra,calendar_remove,0.7903,0.011,False
+9591,sv-SE,play,play_radio,spela programmet p. tre krysset på nittionio komma fyra f. m.,play_music,0.5093,0.3023,False
+9592,sv-SE,play,play_podcasts,sök på podcasts som handlar om mäns besvär,play_podcasts,1.0,1.0,True
+9594,sv-SE,play,play_radio,f. m. nittiotre komma fem radio låtar,play_radio,0.9755,0.9755,True
+9601,sv-SE,play,play_radio,spela countryradio,play_radio,1.0,1.0,True
+9617,sv-SE,play,play_radio,spela morgonshowen från hundraett komma nio,play_podcasts,0.4895,0.0502,False
+9619,sv-SE,play,play_radio,spela imperiet på bilstereon,play_radio,0.4607,0.4607,True
+9620,sv-SE,play,play_radio,kan jag få rix morronzoo på radion i sovrummet,play_radio,1.0,1.0,True
+9629,sv-SE,play,play_radio,kan du hjälpa mig att lyssna på radion,play_radio,0.9998,0.9998,True
+9630,sv-SE,play,play_radio,spela p.tre. för mig,play_music,0.5376,0.3027,False
+9632,sv-SE,play,play_radio,radio tack,play_radio,1.0,1.0,True
+9637,sv-SE,play,play_radio,starta min spellista på i heart radio,play_radio,0.9758,0.9758,True
+9640,sv-SE,play,play_radio,öppna spotify och öppna träning,play_podcasts,0.9974,0.0,False
+9651,sv-SE,play,play_radio,spela netflix på min p. s. fyra,cooking_recipe,0.2859,0.0349,False
+9656,sv-SE,play,play_music,spela en upbeat låt genom dina högtalare,play_music,1.0,1.0,True
+9706,sv-SE,play,play_music,spela bjällerklang,qa_factoid,0.4444,0.0778,False
+9707,sv-SE,play,play_music,öppna mediaspelaren med bjällerklang,play_radio,0.8597,0.0473,False
+9738,sv-SE,play,play_music,kan du spela klassisk musik för mig,play_music,1.0,1.0,True
+9793,sv-SE,play,play_music,spela romantiska låtar,play_music,1.0,1.0,True
+9795,sv-SE,play,play_music,återuppta utan dig,qa_factoid,0.994,0.0002,False
+9912,sv-SE,cooking,cooking_recipe,olly hur länge borde jag koka äggen,cooking_recipe,1.0,1.0,True
+9918,sv-SE,cooking,cooking_recipe,hur gör jag pizza,cooking_recipe,0.9998,0.9998,True
+9923,sv-SE,cooking,cooking_recipe,hur länge borde jag koka ett ägg,cooking_recipe,0.9999,0.9999,True
+9924,sv-SE,cooking,cooking_recipe,berätta receptet på,cooking_recipe,1.0,1.0,True
+9930,sv-SE,cooking,cooking_recipe,hur länge borde jag koka ägget,cooking_recipe,0.9999,0.9999,True
+9931,sv-SE,cooking,cooking_recipe,olly hur länge borde jag koka ägget,cooking_recipe,1.0,1.0,True
+9940,sv-SE,cooking,cooking_recipe,hitta ett recept på chokladkaka åt mig,cooking_recipe,1.0,1.0,True
+9941,sv-SE,cooking,cooking_recipe,hur lagar jag smörkyckling,cooking_recipe,1.0,1.0,True
+9942,sv-SE,cooking,cooking_recipe,vad behövs för en red velvet cake,cooking_recipe,0.9996,0.9996,True
+9943,sv-SE,cooking,cooking_recipe,hur lång tid tar det att göra vegetarisk lasagne,cooking_recipe,1.0,1.0,True
+9952,sv-SE,cooking,cooking_recipe,ge mig en matlagningsguide,cooking_recipe,0.9987,0.9987,True
+9955,sv-SE,cooking,cooking_recipe,visa mig en video om tillagning av friterad kyckling,cooking_recipe,0.9994,0.9994,True
+9956,sv-SE,cooking,cooking_recipe,vad kan jag ersätta smör med,qa_factoid,0.8386,0.005,False
+9961,sv-SE,cooking,cooking_recipe,vad är den bästa ugns temperaturen för att rosta potatisar,cooking_recipe,0.9939,0.9939,True
+9962,sv-SE,cooking,cooking_recipe,vad är det bästa sättet att koka pasta al dente,cooking_recipe,1.0,1.0,True
+9964,sv-SE,cooking,cooking_recipe,kunskap om livsmedelsförädling,email_sendemail,0.3979,0.0216,False
+9966,sv-SE,cooking,cooking_recipe,vad är enklaste sättet att koka pasta,cooking_recipe,1.0,1.0,True
+9969,sv-SE,cooking,cooking_recipe,vilken ingrediens kan användas istället för saffran,cooking_recipe,0.9447,0.9447,True
+9971,sv-SE,cooking,cooking_recipe,vad leder värme bäst kopparbottnade grytor eller gjutjärn,cooking_recipe,0.9999,0.9999,True
+9976,sv-SE,cooking,cooking_recipe,hej robot ge mig en lista över ingredienser för welsh rarebit,cooking_recipe,0.9999,0.9999,True
+9977,sv-SE,cooking,cooking_recipe,sök på internet och visa lämpliga youtube videos för att tillaga italiensk mat,cooking_recipe,0.9994,0.9994,True
+9979,sv-SE,cooking,cooking_recipe,laga lite havre åt mig,cooking_recipe,0.7336,0.7336,True
+9980,sv-SE,cooking,cooking_recipe,vad är menyn idag lägg till lite kokade grönsaker till den,cooking_recipe,0.9999,0.9999,True
+9986,sv-SE,cooking,cooking_recipe,kokning,social_post,0.8005,0.0471,False
+9994,sv-SE,cooking,cooking_recipe,kan du berätta receptet för att laga pav bhaji,cooking_recipe,1.0,1.0,True
+10016,sv-SE,cooking,cooking_recipe,julskinka matlagningsprocedur i fem meningar är vad,cooking_recipe,0.9973,0.9973,True
+10019,sv-SE,cooking,cooking_recipe,berätta hur man bakar tolv havregrynskakor tack,cooking_recipe,1.0,1.0,True
+10023,sv-SE,cooking,cooking_recipe,vad behöver jag för att laga korvstroganoff,cooking_recipe,1.0,1.0,True
+10027,sv-SE,cooking,cooking_recipe,instruktioner till att göra en måltid,cooking_recipe,0.9999,0.9999,True
+10031,sv-SE,cooking,cooking_recipe,jag behöver ett recept som är från ingredienser från min shoppinglista,cooking_recipe,1.0,1.0,True
+10038,sv-SE,cooking,cooking_recipe,jag behöver bra idéer för matlagning,cooking_recipe,1.0,1.0,True
+10045,sv-SE,cooking,cooking_recipe,kan du ge mig receptet på hemmagjord kycklingsoppa,cooking_recipe,1.0,1.0,True
+10048,sv-SE,cooking,cooking_recipe,hur lagar jag kalkon,cooking_recipe,0.9985,0.9985,True
+10049,sv-SE,cooking,cooking_recipe,berätta hur man gör en räksmörgås,cooking_recipe,0.9997,0.9997,True
+10053,sv-SE,cooking,cooking_recipe,hur lagar jag pizza,cooking_recipe,1.0,1.0,True
+10055,sv-SE,cooking,cooking_recipe,vad är receptet för friterad kyckling,cooking_recipe,1.0,1.0,True
+10061,sv-SE,cooking,cooking_recipe,vad ska jag göra till middag,cooking_recipe,0.9962,0.9962,True
+10072,sv-SE,cooking,cooking_recipe,bakningstider för kyckling i ugnen,cooking_recipe,0.9995,0.9995,True
+10076,sv-SE,cooking,cooking_recipe,kan man ersätta bikarbonat mot bakpulver,cooking_recipe,0.9451,0.9451,True
+10077,sv-SE,cooking,cooking_recipe,hitta ett recept för middag ikväll,cooking_recipe,1.0,1.0,True
+10078,sv-SE,cooking,cooking_recipe,vad ska jag laga till middag,weather_query,0.6747,0.0676,False
+10080,sv-SE,cooking,cooking_recipe,låt oss laga köttbullar tillsammans,cooking_recipe,0.9999,0.9999,True
+10081,sv-SE,cooking,cooking_recipe,berätta hur man lagar köttbullar,cooking_recipe,0.9853,0.9853,True
+10090,sv-SE,cooking,cooking_recipe,kan jag få ett recept för tonfisk,cooking_recipe,1.0,1.0,True
+10093,sv-SE,cooking,cooking_recipe,hur gör man lasagne,cooking_recipe,0.9998,0.9998,True
+10097,sv-SE,cooking,cooking_recipe,jag skulle vilja ha en ostburgare,recommendation_events,0.8862,0.053,False
+10099,sv-SE,cooking,cooking_recipe,vet du hur man tillagar risotto,cooking_recipe,0.9998,0.9998,True
+10100,sv-SE,cooking,cooking_recipe,kan du recept för risotto,cooking_recipe,1.0,1.0,True
+10105,sv-SE,cooking,cooking_recipe,hur länge borde jag tillaga en biff för att få den medium rare,cooking_recipe,0.9981,0.9981,True
+10107,sv-SE,cooking,cooking_recipe,jag behöver ett recept för vegetarisk pilaff,cooking_recipe,1.0,1.0,True
+10119,sv-SE,cooking,cooking_recipe,hur länge tillagar man en femton punds kalkon,cooking_recipe,1.0,1.0,True
+10125,sv-SE,cooking,cooking_recipe,vad är skillnaden mellan baka och briljera,cooking_recipe,1.0,1.0,True
+10132,sv-SE,cooking,cooking_recipe,hur länge borde jag steka en stek för att vara medium,cooking_recipe,0.9998,0.9998,True
+10150,sv-SE,cooking,cooking_recipe,hur man gör taco,cooking_recipe,0.9999,0.9999,True
+10156,sv-SE,cooking,cooking_recipe,jag behöver veta hur man gör fylld paprika,cooking_recipe,1.0,1.0,True
+10164,sv-SE,cooking,cooking_recipe,hur länge ska jag koka makaroner,cooking_recipe,0.9999,0.9999,True
+10166,sv-SE,cooking,cooking_recipe,sök efter recept på äppelpaj,cooking_recipe,1.0,1.0,True
+10171,sv-SE,cooking,cooking_recipe,vad är receptet för fisksoppa,cooking_recipe,1.0,1.0,True
+10177,sv-SE,cooking,cooking_recipe,hur man lagar spaghetti squash,cooking_recipe,0.9999,0.9999,True
+10182,sv-SE,cooking,cooking_recipe,hur många ägg behöver jag för en omelett,cooking_recipe,0.9999,0.9999,True
+10197,sv-SE,cooking,cooking_recipe,visa mig det bästa receptet för spaghetti,cooking_recipe,1.0,1.0,True
+10206,sv-SE,cooking,cooking_recipe,hur förbereder man ris,cooking_recipe,1.0,1.0,True
+10213,sv-SE,cooking,cooking_recipe,lista över kända biryani recept,cooking_recipe,1.0,1.0,True
+10214,sv-SE,cooking,cooking_recipe,recept som kan lagas på en timme,cooking_recipe,1.0,1.0,True
+10216,sv-SE,cooking,cooking_recipe,kolla på internet för att köpa bakformar för muffins,cooking_recipe,0.9994,0.9994,True
+10217,sv-SE,cooking,cooking_recipe,hitta receptet för raggmunk på cookingforu appen,cooking_recipe,1.0,1.0,True
+10220,sv-SE,cooking,cooking_recipe,vilka ingredienser behöver jag för att baka en stor tårta,cooking_recipe,0.9999,0.9999,True
+10224,sv-SE,cooking,cooking_recipe,det måste vara smaken,qa_factoid,0.9964,0.0003,False
+10226,sv-SE,cooking,cooking_recipe,berätta receptet för att göra pasta,cooking_recipe,1.0,1.0,True
+10426,sv-SE,lists,lists_query,vad mer fattas i dagboken,qa_factoid,0.8825,0.0153,False
+10427,sv-SE,lists,lists_remove,rensa min shoppinglista,lists_query,0.4885,0.1841,False
+10430,sv-SE,lists,lists_remove,ta bort den första artikeln på listan,lists_remove,1.0,1.0,True
+10433,sv-SE,lists,lists_remove,ta bort min uppgiftslista,lists_remove,0.9999,0.9999,True
+10440,sv-SE,lists,lists_query,några speciella händelser på min lista,qa_factoid,0.4366,0.0195,False
+10442,sv-SE,lists,lists_remove,ta bort evenemang från min lista,lists_remove,0.9998,0.9998,True
+10444,sv-SE,lists,lists_remove,ta bort enhet,qa_factoid,0.9987,0.0007,False
+10451,sv-SE,lists,lists_query,vad ska jag göra idag,cooking_recipe,0.4106,0.0559,False
+10455,sv-SE,lists,lists_query,vad finns på min att göra lista,lists_query,0.9016,0.9016,True
+10462,sv-SE,lists,lists_remove,ta bort en lista,qa_factoid,0.604,0.3945,False
+10493,sv-SE,lists,lists_query,vad finns på min att göra lista,lists_query,0.9016,0.9016,True
+10494,sv-SE,lists,lists_remove,ta bort penna från stationär,calendar_remove,0.7532,0.1647,False
+10497,sv-SE,qa,qa_factoid,kan jag få en lista med femstjärniga hotell i göteborg,lists_query,0.9796,0.0001,False
+10508,sv-SE,lists,lists_remove,ta bort artikel från lista,lists_remove,0.9997,0.9997,True
+10512,sv-SE,lists,lists_query,lista allt som är kvar på min fråga,lists_remove,0.9926,0.0035,False
+10523,sv-SE,lists,lists_remove,radera från spellista min gamla engelska låtlista,play_music,0.9697,0.0,False
+10525,sv-SE,lists,lists_remove,ta bort min bilbetalning på min kalender,calendar_remove,0.9998,0.0,False
+10527,sv-SE,lists,lists_remove,ta bort listan,lists_remove,0.6048,0.6048,True
+10534,sv-SE,lists,lists_query,hur är att göra listan för idag,lists_query,0.9983,0.9983,True
+10538,sv-SE,lists,lists_query,repetera min shopping lista tack,qa_factoid,0.9813,0.0003,False
+10565,sv-SE,lists,lists_remove,ta bort alla listor,lists_remove,1.0,1.0,True
+10568,sv-SE,lists,lists_remove,ta bort den gamla musiklistan,lists_remove,0.9969,0.9969,True
+10570,sv-SE,lists,lists_query,kolla min att göra lista,cooking_recipe,0.7188,0.2555,False
+10571,sv-SE,lists,lists_query,android,iot_hue_lightoff,0.2324,0.0685,False
+10577,sv-SE,lists,lists_query,ge mig alla mina listor,lists_remove,0.7203,0.2743,False
+10579,sv-SE,lists,lists_remove,återställ min platslista,qa_factoid,0.7885,0.2012,False
+10588,sv-SE,lists,lists_query,visa innehållet på listan,lists_query,0.9997,0.9997,True
+10590,sv-SE,lists,lists_remove,ta bort den andra raden från listan,lists_remove,1.0,1.0,True
+10655,sv-SE,lists,lists_remove,ta bort listan som heter festdags,lists_remove,1.0,1.0,True
+10667,sv-SE,lists,lists_query,läs upp scheman från listan,lists_query,0.9992,0.9992,True
+10673,sv-SE,lists,lists_remove,ta bort följande lista tack,lists_remove,0.9998,0.9998,True
+10674,sv-SE,lists,lists_remove,kasta den nuvarande listan,lists_remove,0.9995,0.9995,True
+10679,sv-SE,lists,lists_query,vad finns på min att göra lista idag,lists_remove,0.5872,0.4088,False
+10684,sv-SE,lists,lists_query,vilka listor har jag,lists_remove,0.9543,0.0455,False
+10687,sv-SE,lists,lists_remove,om det är event show ta bort det,qa_factoid,0.3152,0.033,False
+10696,sv-SE,lists,lists_remove,byt ut,qa_factoid,0.996,0.0002,False
+10699,sv-SE,lists,lists_query,informera mig om sakerna på listan,lists_query,0.9991,0.9991,True
+10718,sv-SE,lists,lists_remove,kan du ta bort denna artikel från listan,lists_remove,0.9974,0.9974,True
+10731,sv-SE,lists,lists_query,läs upp vad som finns på min lista,lists_query,0.9986,0.9986,True
+10743,sv-SE,lists,lists_remove,ta bort den där artikeln,qa_factoid,0.6484,0.1854,False
+10753,sv-SE,lists,lists_query,vad har jag redan skrivit upp i willyslistan,lists_query,0.865,0.865,True
+10755,sv-SE,lists,lists_remove,kasta min att göra lista tack,cooking_recipe,0.8208,0.1517,False
+10756,sv-SE,lists,lists_remove,rensa ut shoppinglistan,lists_query,0.5285,0.0999,False
+10757,sv-SE,lists,lists_query,vilka enheter finns på min shoppinglista,lists_query,0.9943,0.9943,True
+10759,sv-SE,lists,lists_query,läs upp för mig shoppinglistan,lists_query,0.8688,0.8688,True
+10760,sv-SE,lists,lists_query,säg listan jag skrev för två dagar sedan,email_sendemail,0.9999,0.0,False
+10770,sv-SE,lists,lists_remove,ta bort flingor från min shoppinglista,lists_remove,0.9284,0.9284,True
+10772,sv-SE,calendar,calendar_remove,ta bort mitt tandläkarbesök från dagens schema,calendar_remove,0.9079,0.9079,True
+10776,sv-SE,lists,lists_query,har jag inköpslistan redo,lists_remove,0.7013,0.1926,False
+10786,sv-SE,lists,lists_remove,rensa mina aktivitetslista för idag,lists_remove,0.9167,0.9167,True
+10790,sv-SE,lists,lists_remove,ta bort artikel från lista,lists_remove,0.9997,0.9997,True
+10804,sv-SE,lists,lists_query,läs upp min lista med livsmedel,lists_query,0.9832,0.9832,True
+10805,sv-SE,lists,lists_query,visa listan jag har,lists_query,0.5451,0.5451,True
+10808,sv-SE,lists,lists_remove,ta bort senaste tillagda artikel,calendar_remove,0.8714,0.0752,False
+10824,sv-SE,lists,lists_remove,olly rensa listan,email_sendemail,0.999,0.0003,False
+10825,sv-SE,lists,lists_remove,töm listan,lists_remove,1.0,1.0,True
+10827,sv-SE,lists,lists_remove,ta borta lista från livsmedel,lists_remove,0.9985,0.9985,True
+10828,sv-SE,lists,lists_remove,ta bort allt,qa_factoid,0.723,0.1674,False
+10832,sv-SE,calendar,calendar_query,olly vad har jag planerat härnäst,email_sendemail,0.2716,0.0082,False
+10843,sv-SE,lists,lists_remove,ta bort mjölk från min inköpslista,lists_remove,0.9998,0.9998,True
+10846,sv-SE,lists,lists_remove,jag har inte tillräckligt med pengar att köpa nintendo switch just nu kan du ta bort det från min amazon önskelista tack,qa_factoid,0.5233,0.2116,False
+10848,sv-SE,lists,lists_remove,ta bort denna lista från de andra,lists_remove,0.9999,0.9999,True
+10851,sv-SE,lists,lists_query,vilka är mina tillgängliga listor,lists_query,1.0,1.0,True
+10853,sv-SE,lists,lists_remove,ta bort den där där borta,lists_remove,0.7623,0.7623,True
+10855,sv-SE,lists,lists_query,behöver kolla min lista,qa_factoid,0.9999,0.0,False
+10868,sv-SE,lists,lists_query,alexa något kvar på listan,lists_remove,1.0,0.0,False
+10887,sv-SE,lists,lists_remove,ta bort min lista,qa_factoid,0.7943,0.2054,False
+10895,sv-SE,lists,lists_remove,ta bort objekt från min lista,lists_remove,0.9998,0.9998,True
+10909,sv-SE,lists,lists_query,olly läs mina listor för mig,lists_query,0.9981,0.9981,True
+10927,sv-SE,lists,lists_query,jag vill höra min lista,lists_remove,0.7323,0.0061,False
+10931,sv-SE,lists,lists_query,vad finns på min spellista,lists_query,0.747,0.747,True
+10936,sv-SE,lists,lists_remove,var snäll ta bort listan med favoritalbum,lists_remove,0.9977,0.9977,True
+10954,sv-SE,lists,lists_query,hur många listor har jag bland mina kontakter,lists_query,0.9953,0.9953,True
+10956,sv-SE,lists,lists_query,vilka grupper finns listade bland mina kontakter,lists_query,1.0,1.0,True
+10957,sv-SE,lists,lists_query,påminn mig om hur många listor jag har,lists_remove,0.9467,0.053,False
+10960,sv-SE,lists,lists_remove,ta bor den där från min listan,qa_factoid,0.6358,0.2694,False
+10970,sv-SE,lists,lists_remove,radera sista frasen,qa_definition,0.5591,0.0025,False
+10979,sv-SE,lists,lists_query,vad finns på din lista just nu,lists_remove,0.9993,0.0004,False
+10981,sv-SE,lists,lists_query,läs upp listan,lists_query,0.9998,0.9998,True
+10985,sv-SE,lists,lists_remove,radera min att göra för den här veckan,cooking_recipe,0.8587,0.0001,False
+10990,sv-SE,lists,lists_remove,på min att göra ta bort moppa kök,cooking_recipe,0.9979,0.0005,False
+10999,sv-SE,lists,lists_query,läs upp listan,lists_query,0.9998,0.9998,True
+11023,sv-SE,lists,lists_remove,ta bort shopping lista,qa_factoid,0.728,0.1341,False
+11024,sv-SE,lists,lists_remove,ta bort att göra lista,lists_remove,0.9997,0.9997,True
+11053,sv-SE,lists,lists_remove,ta bort listan google,lists_query,0.965,0.0322,False
+11075,sv-SE,lists,lists_query,hur många listor har jag,lists_query,0.9987,0.9987,True
+11081,sv-SE,lists,lists_query,vilka listor finns bland mina anteckningar,lists_query,0.9966,0.9966,True
+11085,sv-SE,lists,lists_remove,ta bort mjölken från shoppinglistan,lists_remove,0.5201,0.5201,True
+11098,sv-SE,lists,lists_remove,ta bort skattelista från nittonhundra nittio,qa_factoid,0.9619,0.0378,False
+11107,sv-SE,lists,lists_query,vad är min nuvarande lista,lists_remove,0.9996,0.0004,False
+11124,sv-SE,lists,lists_query,lista enheter på min jobblista,recommendation_events,0.3897,0.3674,False
+11125,sv-SE,lists,lists_query,ge mig informationen på inköpsordern,transport_query,0.9728,0.0009,False
+11133,sv-SE,lists,lists_remove,ta bort gäst listan jag skapade förra veckan,lists_remove,1.0,1.0,True
+11154,sv-SE,lists,lists_query,kolla senaste att göra lista,cooking_recipe,0.7487,0.1727,False
+11162,sv-SE,lists,lists_remove,jag vill ta bort äpplen från lista,lists_remove,1.0,1.0,True
+11164,sv-SE,lists,lists_remove,ta bort från lista,lists_remove,0.9998,0.9998,True
+11166,sv-SE,lists,lists_query,öppna google keep,lists_remove,0.5767,0.0083,False
+11168,sv-SE,lists,lists_remove,kasta min lista,qa_factoid,0.9752,0.0238,False
+11172,sv-SE,lists,lists_query,visa alla mina tillgängliga listor,lists_query,1.0,1.0,True
+11174,sv-SE,lists,lists_query,lista alla listor på den här enheten,lists_query,0.971,0.971,True
+11180,sv-SE,calendar,calendar_query,min festplanering,qa_factoid,0.983,0.0002,False
+11186,sv-SE,lists,lists_query,jag har min klädlista,lists_remove,0.9916,0.0001,False
+11189,sv-SE,lists,lists_query,hitta listan,lists_query,0.9888,0.9888,True
+11204,sv-SE,lists,lists_query,viktig husinformation,qa_factoid,0.2323,0.0885,False
+11215,sv-SE,lists,lists_query,lista,lists_query,1.0,1.0,True
+11250,sv-SE,lists,lists_query,läs upp min inköpslista för mig,lists_query,0.9877,0.9877,True
+11257,sv-SE,play,play_podcasts,olly spela nästa inspelning,play_music,0.9991,0.0002,False
+11259,sv-SE,play,play_podcasts,hoppa till nästa podcast,play_podcasts,0.9995,0.9995,True
+11261,sv-SE,play,play_podcasts,nästa,qa_factoid,0.6707,0.0077,False
+11265,sv-SE,play,play_podcasts,spela nästa,play_music,0.9253,0.0003,False
+11266,sv-SE,play,play_podcasts,spela en podcast från mitt bibliotek,play_podcasts,1.0,1.0,True
+11267,sv-SE,play,play_podcasts,hitta en intressant podcast om senaste nobelprisvinnarna,play_podcasts,0.9999,0.9999,True
+11270,sv-SE,play,play_podcasts,spela nästa podcast,play_podcasts,1.0,1.0,True
+11272,sv-SE,play,play_podcasts,spela nästa,play_music,0.9253,0.0003,False
+11279,sv-SE,play,play_podcasts,gå till podcasten och spela nästa avsnitt av ursäkta,play_podcasts,1.0,1.0,True
+11286,sv-SE,play,play_podcasts,spela alex och sigges podcast,play_podcasts,1.0,1.0,True
+11296,sv-SE,play,play_podcasts,ladda upp alla mina podcasts,play_podcasts,0.9999,0.9999,True
+11302,sv-SE,play,play_podcasts,spela framgångspodden podcast,play_podcasts,1.0,1.0,True
+11303,sv-SE,play,play_podcasts,spela fördomspodden härnäst,play_podcasts,1.0,1.0,True
+11306,sv-SE,play,play_podcasts,spela podasten jag lyssnade på igår,play_podcasts,1.0,1.0,True
+11318,sv-SE,play,play_podcasts,spela nästa episod av en podd,play_podcasts,1.0,1.0,True
+11322,sv-SE,play,play_podcasts,vad är dagens topp podcasts,social_post,0.9985,0.0001,False
+11328,sv-SE,play,play_podcasts,spela framgångspodden,play_music,0.9207,0.0793,False
+11331,sv-SE,play,play_podcasts,visa mig den bästa podden med rocklåtar med bra omdöme,play_podcasts,0.8763,0.8763,True
+11335,sv-SE,play,play_music,spela och blanda alla långsamma låtar,play_music,0.9998,0.9998,True
+11339,sv-SE,play,play_podcasts,spela min mest sedda podcast,play_podcasts,1.0,1.0,True
+11340,sv-SE,play,play_podcasts,har alexander pärleros en ny podcast,play_podcasts,1.0,1.0,True
+11341,sv-SE,play,play_podcasts,hitta den senaste disneypodcasten,play_podcasts,1.0,1.0,True
+11343,sv-SE,play,play_podcasts,gå till nästa avsnitt av älskade skandal,social_post,0.555,0.2049,False
+11345,sv-SE,play,play_podcasts,spela nästa avsnitt av podcast,play_podcasts,1.0,1.0,True
+11349,sv-SE,play,play_podcasts,google starta om podcasten jag påbörjade igår kväll,play_podcasts,1.0,1.0,True
+11353,sv-SE,play,play_podcasts,visa mig podcasts,play_podcasts,1.0,1.0,True
+11361,sv-SE,play,play_podcasts,psykologipodden podcast spela den,play_podcasts,1.0,1.0,True
+11366,sv-SE,play,play_podcasts,gå tillbaka till föregående avsnitt,calendar_remove,0.9066,0.0037,False
+11368,sv-SE,play,play_podcasts,spela alexander pärleros podcast,play_podcasts,1.0,1.0,True
+11376,sv-SE,play,play_podcasts,jag vill lyssna på podcast,play_podcasts,1.0,1.0,True
+11384,sv-SE,play,play_podcasts,kan du ladda ner min podcastfil tillgänglig på internet och spela den en gång,play_podcasts,0.9997,0.9997,True
+11409,sv-SE,play,play_podcasts,spela nästa podcastavsnitt,play_podcasts,1.0,1.0,True
+11417,sv-SE,play,play_podcasts,starta nästa avsnitt,play_radio,0.5678,0.0045,False
+11418,sv-SE,play,play_podcasts,spela alexander pärleros senaste podcast,play_podcasts,1.0,1.0,True
+11420,sv-SE,play,play_podcasts,börja spela min senaste podcast,play_podcasts,1.0,1.0,True
+11423,sv-SE,play,play_podcasts,gå tillbaka trettio sekunder,datetime_query,0.7362,0.005,False
+11424,sv-SE,play,play_podcasts,hälsorevolutionen,qa_factoid,0.965,0.0001,False
+11426,sv-SE,lists,lists_query,mest sedda lista,lists_remove,0.9343,0.0551,False
+11427,sv-SE,play,play_podcasts,starta alla våra ligg,lists_remove,0.4444,0.0055,False
+11437,sv-SE,play,play_podcasts,spela podcasten tack,play_podcasts,1.0,1.0,True
+11438,sv-SE,play,play_podcasts,gå till nästa avsnitt av podden,play_podcasts,1.0,1.0,True
+11442,sv-SE,play,play_podcasts,spela det senaste avsnittet av alexander pärleros podcast,play_podcasts,1.0,1.0,True
+11451,sv-SE,play,play_podcasts,jag vill lyssna på den senaste julkalendern tjugotjugoett,play_music,1.0,0.0,False
+11453,sv-SE,play,play_podcasts,starta podcasts på apple podcasts,play_podcasts,0.9999,0.9999,True
+11455,sv-SE,play,play_podcasts,gå till nästa sektion,calendar_remove,0.5356,0.0097,False
+11458,sv-SE,play,play_podcasts,hoppa fram till nästa podcastavsnitt,play_podcasts,1.0,1.0,True
+11459,sv-SE,play,play_podcasts,spola tillbaka till det sista avsnittet av den här podden,play_podcasts,1.0,1.0,True
+11460,sv-SE,play,play_podcasts,jag vill lyssna på en sportpodcast,play_podcasts,1.0,1.0,True
+11467,sv-SE,play,play_podcasts,spela det senaste poddavsnittet med dumma människor,play_podcasts,0.9998,0.9998,True
+11470,sv-SE,play,play_podcasts,spela min favorit podcast tack,play_podcasts,1.0,1.0,True
+11474,sv-SE,play,play_podcasts,återuppta seriemördarpodden,qa_factoid,0.6218,0.1137,False
+11476,sv-SE,play,play_podcasts,spela föregående podd,play_podcasts,1.0,1.0,True
+11483,sv-SE,play,play_podcasts,börja spela krimkalendern,play_music,0.8562,0.0001,False
+11490,sv-SE,play,play_podcasts,spela nästa show på podcaster,play_podcasts,1.0,1.0,True
+11502,sv-SE,play,play_podcasts,nästa knappen,qa_factoid,0.9907,0.0002,False
+11505,sv-SE,play,play_podcasts,spela om min senast spelade podcast,play_podcasts,1.0,1.0,True
+11514,sv-SE,play,play_podcasts,olly kan vi lyssna på dumma människor podden,play_podcasts,1.0,1.0,True
+11515,sv-SE,play,play_podcasts,låt oss lyssna på podden makrorådet,play_podcasts,1.0,1.0,True
+11525,sv-SE,play,play_podcasts,jag vill lyssna på nästa tillgängliga podcast,play_podcasts,1.0,1.0,True
+11529,sv-SE,play,play_podcasts,hej spela min favorit podcast från lista,play_podcasts,1.0,1.0,True
+11536,sv-SE,play,play_podcasts,lägg till podcastfavoriter i spellista och starta den,play_podcasts,0.9998,0.9998,True
+11539,sv-SE,play,play_podcasts,starta nästa podcast,play_podcasts,1.0,1.0,True
+11546,sv-SE,play,play_podcasts,spela alla det skaver från förra veckan,play_music,1.0,0.0,False
+11554,sv-SE,play,play_podcasts,jag vill att du spelar podcasten,play_podcasts,1.0,1.0,True
+11563,sv-SE,recommendation,recommendation_events,vad kan jag göra i göteborg,cooking_recipe,0.9846,0.0014,False
+11570,sv-SE,recommendation,recommendation_events,vad händer i min stad,social_post,0.9947,0.0002,False
+11582,sv-SE,recommendation,recommendation_events,händer det något på jazz scenen runt göteborg,play_podcasts,0.9091,0.0003,False
+11585,sv-SE,recommendation,recommendation_events,några kulturella evenemang i stockholm,recommendation_events,0.2696,0.2696,True
+11598,sv-SE,recommendation,recommendation_events,låt mig veta vilka hundshower som pågår i min hemstad tack,weather_query,0.7176,0.0151,False
+11600,sv-SE,recommendation,recommendation_events,vilken film kan jag se i kväll på bion här i göteborg,play_podcasts,0.2594,0.0203,False
+11610,sv-SE,recommendation,recommendation_events,ge mig en lista på cirkusföreställningar i staden just nu,lists_query,0.8396,0.0194,False
+11612,sv-SE,recommendation,recommendation_events,vilka konstutställningar finns i karlstad,cooking_recipe,0.7614,0.017,False
+11616,sv-SE,recommendation,recommendation_events,är det några evenemang som händer i centrum ikväll,news_query,0.3816,0.1302,False
+11643,sv-SE,recommendation,recommendation_events,vilka evenemang händer snart,recommendation_events,0.8791,0.8791,True
+11644,sv-SE,recommendation,recommendation_events,visa mig evenemang i strömstad,recommendation_events,0.4646,0.4646,True
+11650,sv-SE,recommendation,recommendation_events,både unga förare och provisoriska förare krockar oftare än andra förare eftersom de ännu inte har haft det breda utbudet av erfarenheter de behöver för att köra säkert egen hand har forskning visat att förarerfarenheten är en stor faktor i att minska trafikolyckor och att den säkraste tiden för unga förare är när de kör under uppsikt medan de lär sig,lists_query,0.1419,0.0442,False
+11681,sv-SE,recommendation,recommendation_events,visa mig maraton i närheten av mig,qa_factoid,0.9507,0.0024,False
+11685,sv-SE,recommendation,recommendation_events,jag skulle bli så glad om du kan uppdatera mig på vilka evenemang som pågår i vårt område,news_query,0.8212,0.0954,False
+11705,sv-SE,recommendation,recommendation_events,visa mig konstutställning i stockholmsområdet,cooking_recipe,0.4246,0.1781,False
+11720,sv-SE,recommendation,recommendation_events,simning,iot_hue_lightoff,0.3868,0.0236,False
+11767,sv-SE,recommendation,recommendation_events,olly vilka evenemang är på gång i norrköping i helgen,recommendation_events,0.953,0.953,True
+11770,sv-SE,recommendation,recommendation_events,några evenemang på gång i helgen i jönköping,recommendation_events,0.3636,0.3636,True
+11782,sv-SE,recommendation,recommendation_events,finns det några speciella evenemang nära mig i helgen,recommendation_events,0.9657,0.9657,True
+11798,sv-SE,recommendation,recommendation_events,vilket är nästa evenemang på biblioteket,play_podcasts,0.4641,0.0845,False
+11827,sv-SE,recommendation,recommendation_events,vart kan jag gå ikväll,weather_query,0.9991,0.0,False
+11839,sv-SE,recommendation,recommendation_events,vad händer i min närhet,qa_factoid,0.4376,0.0219,False
+11841,sv-SE,recommendation,recommendation_events,finns det några utställningar som pågår i närheten,recommendation_events,0.3306,0.3306,True
+11844,sv-SE,recommendation,recommendation_events,händer det något intressant vid havet,social_post,0.7501,0.1806,False
+11845,sv-SE,recommendation,recommendation_events,olly ge mig några spännande evenemang i uppsala,recommendation_events,0.4948,0.4948,True
+11860,sv-SE,recommendation,recommendation_events,berätta om de lokala evenemangen,social_post,0.9777,0.0024,False
+11867,sv-SE,recommendation,recommendation_events,är det ett sport evenemang imorgon i uppsala,weather_query,0.8864,0.0087,False
+11875,sv-SE,recommendation,recommendation_events,finns det en matfestival i området,qa_factoid,0.6168,0.0657,False
+11904,sv-SE,recommendation,recommendation_events,vad händer här i helgen,social_post,0.7925,0.0053,False
+11905,sv-SE,recommendation,recommendation_events,olly berätta för mig om aktiviteter i mitt område denna helgen,cooking_recipe,0.6351,0.0451,False
+11911,sv-SE,recommendation,recommendation_events,händer det något kul här i helgen,social_post,0.3567,0.0148,False
+11916,sv-SE,recommendation,recommendation_events,vilka temaparker finns det i närheten,lists_query,0.4328,0.1048,False
+11969,sv-SE,recommendation,recommendation_events,händer det något speciellt i närheten,lists_remove,0.6207,0.0069,False
+11999,sv-SE,recommendation,recommendation_events,berätta om alla evenemang i min stad idag,news_query,0.8057,0.1082,False
+12008,sv-SE,recommendation,recommendation_events,finns det några roliga händelser i stockholm idag,news_query,0.6115,0.0459,False
+12054,sv-SE,recommendation,recommendation_events,vad händer på stan,social_post,0.6019,0.0175,False
+12070,sv-SE,recommendation,recommendation_events,när öppnar köpcentret på östermalm,recommendation_events,0.593,0.593,True
+12073,sv-SE,recommendation,recommendation_events,rekommendera lokala aktuella evenemang,social_post,0.6652,0.0139,False
+12098,sv-SE,recommendation,recommendation_events,visa mig musikevenemang i närheten,play_music,0.9965,0.0002,False
+12189,sv-SE,transport,transport_query,hur kommer jag till tågstationen för att köpa en biljett,transport_query,0.4953,0.4953,True
+12240,sv-SE,transport,transport_query,hur är trafiken på min hem färd klockan fem,transport_query,0.3199,0.3199,True
+12245,sv-SE,transport,transport_query,när är nästa tåg till stockholm från malmö,weather_query,0.9467,0.0202,False
+12251,sv-SE,transport,transport_query,visa den lokala tåg tidtabellen till min destination stockholm,transport_query,0.9618,0.9618,True
+12252,sv-SE,transport,transport_query,vilken tid åker tåget till laxå,weather_query,0.9851,0.0008,False
+12261,sv-SE,transport,transport_query,berätta för mig om mina allternativ för tåg till göteborg nästa onsdag eller torsdag,transport_query,0.9999,0.9999,True
+12263,sv-SE,transport,transport_query,stockholm,weather_query,0.129,0.0357,False
+12264,sv-SE,transport,transport_query,stockholm,weather_query,0.129,0.0357,False
+12294,sv-SE,transport,transport_query,visa mig tågtabellerna till kungliga operan,qa_factoid,0.9984,0.0001,False
+12310,sv-SE,transport,transport_query,ge mig listan över tillgängliga tåg biljetter från borlänge till falköping,lists_query,0.9628,0.0058,False
+12343,sv-SE,transport,transport_query,kolla tiden för x. tvåtusen tåg från stockholm station på tisdag,transport_query,0.9685,0.9685,True
+12354,sv-SE,transport,transport_query,ge mig tåg tiden,weather_query,0.9917,0.0004,False
+12366,sv-SE,transport,transport_query,är det ett anslutande tåg mellan göteborg och köpenhamn och vilken tid,weather_query,0.9088,0.0874,False
+12367,sv-SE,transport,transport_query,vilken är den bästa vägen till jönköping,transport_query,0.9993,0.9993,True
+12376,sv-SE,transport,transport_query,vilken är första tunnelbanan till centrum,transport_query,0.9972,0.9972,True
+12392,sv-SE,transport,transport_query,säg mig dagens riktning,social_post,0.3391,0.0043,False
+12402,sv-SE,transport,transport_query,när går nästa tåg mot staden härifrån,transport_query,0.8129,0.8129,True
+12419,sv-SE,transport,transport_query,snabbaste rutten till stockholm,transport_query,0.4573,0.4573,True
+12430,sv-SE,transport,transport_query,berätta tågets ankomsttid till katrineholm,transport_query,0.997,0.997,True
+12436,sv-SE,transport,transport_query,hur lång tid tar det att ta sig till flygplatsen,transport_query,0.995,0.995,True
+12437,sv-SE,transport,transport_query,vad är pendlingstiden till teatern,qa_factoid,0.897,0.001,False
+12446,sv-SE,transport,transport_query,kan du berätta för mig tiderna när tåget går mot stockholm,weather_query,0.9362,0.0627,False
+12473,sv-SE,transport,transport_query,hur kommer jag hem härifrån,weather_query,0.7667,0.0195,False
+12526,sv-SE,transport,transport_query,vad är snabbaste vägen till espresso house,transport_query,0.9991,0.9991,True
+12532,sv-SE,transport,transport_query,visa vägen till platsen,transport_query,0.861,0.861,True
+12581,sv-SE,transport,transport_query,när åker tåget idag,weather_query,0.9897,0.0088,False
+12582,sv-SE,transport,transport_query,vilken tid kommer första tunnelbanan fram på morgonen,weather_query,0.9861,0.0019,False
+12604,sv-SE,transport,transport_query,hur bokar jag en tågbiljett online,qa_factoid,0.9666,0.0158,False
+12618,sv-SE,transport,transport_query,hur mycket kostar en tåg biljett tur och retur för att åka till stockholm,transport_query,0.9986,0.9986,True
+12623,sv-SE,transport,transport_query,har du tåg tabellerna för göteborg,lists_query,0.9756,0.0002,False
+12629,sv-SE,transport,transport_query,vilket tid avgår det första tåget från göteborg,weather_query,0.9968,0.0005,False
+12634,sv-SE,transport,transport_query,när går nästa tåg till stockholm,transport_query,0.9815,0.9815,True
+12707,sv-SE,transport,transport_query,navigationssök,qa_factoid,0.9947,0.0002,False
+12759,sv-SE,transport,transport_query,körtid till bua,qa_factoid,0.9741,0.0011,False
+12797,sv-SE,transport,transport_query,tågtider från nära mig till stockholm,transport_query,0.8522,0.8522,True
+12800,sv-SE,transport,transport_query,var är biblioteket,qa_factoid,0.9979,0.0001,False
+12817,sv-SE,transport,transport_query,hur tar jag mig till köpcentret,transport_query,0.3732,0.3732,True
+12818,sv-SE,transport,transport_query,vad kostar en tåg biljett till ålem,qa_factoid,0.9989,0.0002,False
+12824,sv-SE,transport,transport_query,lista alla tåg tider till stockholm,transport_query,0.9846,0.9846,True
+12835,sv-SE,transport,transport_query,vilken tid går tåget till malmö,weather_query,0.9987,0.0001,False
+12839,sv-SE,transport,transport_query,ta mig till kungsportsavenyen och berzeliigatan,social_post,0.9969,0.0,False
+12851,sv-SE,transport,transport_query,visa mig vägen till mitt hem,transport_query,0.9678,0.9678,True
+12856,sv-SE,transport,transport_query,vägbeskrivningar tack,transport_query,0.5349,0.5349,True
+12866,sv-SE,transport,transport_query,är bohusbanan i tid,weather_query,0.568,0.0058,False
+12908,sv-SE,transport,transport_query,vilken tid ankommer tåget till lund,weather_query,0.9895,0.0003,False
+12930,sv-SE,transport,transport_query,kolla kartan över butikerna nära mig,lists_remove,0.4132,0.0304,False
+12932,sv-SE,transport,transport_query,olly jag behöver vägbeskrivning till sveavägen,transport_query,0.9833,0.9833,True
+12951,sv-SE,qa,qa_factoid,vad heter världens högsta byggnad,qa_definition,0.7724,0.2196,False
+12957,sv-SE,qa,qa_definition,definiera genomarbeta,qa_factoid,0.7154,0.2189,False
+12961,sv-SE,qa,qa_definition,definiera forensisk,qa_definition,0.9962,0.9962,True
+12963,sv-SE,qa,qa_definition,vad är definitionen av forensisk,qa_definition,1.0,1.0,True
+12972,sv-SE,qa,qa_factoid,vad är den högsta toppen i världen,qa_factoid,0.9994,0.9994,True
+12982,sv-SE,qa,qa_definition,vad betyder turbulens,qa_definition,0.9976,0.9976,True
+12986,sv-SE,qa,qa_definition,kolla betydelsen av kapris,qa_factoid,0.983,0.0146,False
+12999,sv-SE,qa,qa_factoid,hur gammal är carola häggkvist,qa_factoid,0.9998,0.9998,True
+13016,sv-SE,qa,qa_definition,ta reda på definitionen för blunder,qa_definition,1.0,1.0,True
+13023,sv-SE,cooking,cooking_recipe,visa mig recept,cooking_recipe,0.7006,0.7006,True
+13069,sv-SE,qa,qa_definition,vad är definitionen för apelsin,qa_definition,1.0,1.0,True
+13074,sv-SE,qa,qa_factoid,varför är inte david batra rolig,qa_factoid,0.9994,0.9994,True
+13077,sv-SE,qa,qa_factoid,vad är alba august födelsedag,datetime_query,0.8286,0.0473,False
+13078,sv-SE,qa,qa_factoid,ge mig billy crytals adress,email_sendemail,0.8676,0.0,False
+13099,sv-SE,qa,qa_factoid,vem är storbritanniens nuvarande premiärminister,qa_factoid,0.9996,0.9996,True
+13115,sv-SE,qa,qa_factoid,vad är nigerias huvudstad,qa_factoid,0.971,0.971,True
+13124,sv-SE,qa,qa_factoid,hur stort är kosmos,qa_factoid,0.9156,0.9156,True
+13135,sv-SE,qa,qa_factoid,när är sverrir gudnason födelsedatum,qa_factoid,0.9998,0.9998,True
+13140,sv-SE,qa,qa_definition,berätta allt om orkanen,weather_query,0.3933,0.013,False
+13154,sv-SE,qa,qa_factoid,kan du ola rapaces telefonnummer,email_sendemail,0.9999,0.0,False
+13165,sv-SE,qa,qa_definition,vad betyder oscillera,qa_definition,0.9984,0.9984,True
+13166,sv-SE,qa,qa_definition,stava och definiera oscillera,qa_definition,0.9986,0.9986,True
+13177,sv-SE,calendar,calendar_set,påminn mig om att röra på mig så att jag inte går upp i vikt,iot_hue_lightoff,0.5179,0.0123,False
+13178,sv-SE,calendar,calendar_set,påminn mig om att kontakta gamla vänner som jag inte har pratat med på sex månader före de går bort,social_post,0.9972,0.0001,False
+13188,sv-SE,news,news_query,berätt för mig hur valet i stockholm gick,weather_query,0.9879,0.004,False
+13206,sv-SE,qa,qa_definition,plats,qa_factoid,0.9948,0.0008,False
+13215,sv-SE,transport,transport_query,vad är den snabbaste vägen till mitt jobb i stan utan trafik,transport_query,0.9996,0.9996,True
+13252,sv-SE,qa,qa_factoid,vad var lars keplers första november,weather_query,0.6031,0.0446,False
+13255,sv-SE,qa,qa_factoid,ge mig information om john abraham lincoln,email_sendemail,1.0,0.0,False
+13283,sv-SE,qa,qa_factoid,hur mycket pengar tjänade bill gates,qa_factoid,0.9993,0.9993,True
+13288,sv-SE,qa,qa_definition,vad är definitionen av ordet oförgänglig,qa_definition,0.9892,0.9892,True
+13297,sv-SE,qa,qa_factoid,vem är kändis,qa_factoid,0.9981,0.9981,True
+13298,sv-SE,qa,qa_factoid,vad gör kändisar,qa_factoid,0.9987,0.9987,True
+13330,sv-SE,qa,qa_factoid,hur stor är en kaskelot,qa_factoid,0.9718,0.9718,True
+13361,sv-SE,qa,qa_definition,vad är definitionen av aktualitet,qa_factoid,0.6069,0.3921,False
+13383,sv-SE,qa,qa_factoid,hur många stater har dödsstraff,qa_factoid,0.9986,0.9986,True
+13400,sv-SE,social,social_post,skicka ett roligt meddelande till alla mina vänner,social_post,0.9856,0.9856,True
+13439,sv-SE,qa,qa_factoid,hur gammal är j. k. rowling,qa_factoid,0.9862,0.9862,True
+13457,sv-SE,calendar,calendar_set,berätta för mig när jag behöver ge mig iväg till en inbokad händelse så att jag kommer i tid,calendar_remove,0.7363,0.0395,False
+13473,sv-SE,qa,qa_factoid,när blev u.s.a. självständigt,qa_factoid,0.9994,0.9994,True
+13487,sv-SE,qa,qa_factoid,olly vad är norges huvudstad,weather_query,0.5619,0.038,False
+13494,sv-SE,qa,qa_definition,ge definitionen av motivation,qa_definition,1.0,1.0,True
+13506,sv-SE,datetime,datetime_query,kan du säga vad klockan är,weather_query,0.9304,0.0678,False
+13513,sv-SE,qa,qa_factoid,hur många ben har en hund,qa_factoid,0.9987,0.9987,True
+13516,sv-SE,qa,qa_factoid,varför är valar stora,qa_factoid,0.7909,0.7909,True
+13546,sv-SE,qa,qa_factoid,vilken var den senaste filmen peter stormare var med i,qa_factoid,0.6666,0.6666,True
+13554,sv-SE,qa,qa_factoid,hur lång är brad pitt,social_post,0.6392,0.284,False
+13575,sv-SE,qa,qa_factoid,när var den senaste guldbaggebelönta filmen,qa_factoid,0.929,0.929,True
+13580,sv-SE,qa,qa_factoid,hur högt är ölmesberg,weather_query,0.978,0.0001,False
+13591,sv-SE,qa,qa_factoid,vilken är huvudstaden i frankrike,weather_query,0.6493,0.2557,False
+13592,sv-SE,qa,qa_factoid,var ligger nya zeeland på kartan,weather_query,0.3652,0.0586,False
+13604,sv-SE,qa,qa_factoid,berätta för mig var steve jobs föddes,qa_factoid,0.4319,0.4319,True
+13607,sv-SE,qa,qa_factoid,kan du bekräfta att bill skarsgård är gift,qa_factoid,0.9839,0.9839,True
+13616,sv-SE,qa,qa_factoid,var umgås de flesta kändisarna,qa_factoid,0.9223,0.9223,True
+13619,sv-SE,recommendation,recommendation_events,finns det några gratisevenemang i mitt område idag,recommendation_events,0.484,0.484,True
+13625,sv-SE,qa,qa_definition,vad är det största skrivbordet,qa_definition,0.6842,0.6842,True
+13636,sv-SE,qa,qa_factoid,när fyller ola serneke år,qa_factoid,0.6938,0.6938,True
+13679,sv-SE,qa,qa_factoid,kan du berätta för mig hur många magar en ko har,qa_factoid,0.6531,0.6531,True
+13681,sv-SE,qa,qa_factoid,hur många uppsätnignar har noomi rapace varit med i,qa_factoid,0.8709,0.8709,True
+13683,sv-SE,qa,qa_factoid,vilket märke på hårsprej använder donald trump,qa_definition,0.9478,0.0013,False
+13689,sv-SE,qa,qa_definition,vad är en stol,qa_definition,0.9996,0.9996,True
+13690,sv-SE,qa,qa_factoid,vilken färg är stolar,iot_hue_lightoff,0.6924,0.1361,False
+13693,sv-SE,qa,qa_factoid,var är nollmeridianen,iot_hue_lightoff,0.8688,0.1229,False
+13705,sv-SE,qa,qa_definition,vad är ett elektroniskt utsläppssystem,qa_definition,0.9836,0.9836,True
+13706,sv-SE,qa,qa_definition,beskriv en rotor,qa_factoid,0.9984,0.0002,False
+13714,sv-SE,qa,qa_definition,vad är en mango,qa_definition,0.9997,0.9997,True
+13717,sv-SE,qa,qa_factoid,kan du se från ryssland till sverige,social_post,0.7041,0.0516,False
+13758,sv-SE,qa,qa_factoid,hur gammal är marian carey,qa_factoid,1.0,1.0,True
+13761,sv-SE,qa,qa_factoid,vad är en parsec,qa_definition,0.9744,0.0162,False
+13774,sv-SE,qa,qa_factoid,hur långt bort är california från georgia,qa_factoid,0.9778,0.9778,True
+13777,sv-SE,qa,qa_definition,kan du beskriva et kreditkort,qa_factoid,0.9629,0.0275,False
+13780,sv-SE,qa,qa_factoid,är hannah widell gift,email_sendemail,0.995,0.0001,False
+13798,sv-SE,qa,qa_factoid,hur många kvadratkilometer är det genomsnittliga landet på jorden,qa_factoid,0.9824,0.9824,True
+13799,sv-SE,qa,qa_definition,vad betyder det att vara undergiven,qa_definition,0.9839,0.9839,True
+13823,sv-SE,qa,qa_factoid,hur långt bort ligger solen,weather_query,0.9749,0.0128,False
+13853,sv-SE,qa,qa_factoid,vart på jorden finns det flest vulkaner,qa_factoid,0.9119,0.9119,True
+13854,sv-SE,qa,qa_factoid,när dog elvis,social_post,0.9852,0.0013,False
+13863,sv-SE,qa,qa_definition,vad är definitionen av logik,qa_definition,1.0,1.0,True
+13867,sv-SE,qa,qa_factoid,var ligger skansen,email_sendemail,0.4659,0.3293,False
+13869,sv-SE,qa,qa_factoid,vänligen googla plats och information om gallberget,qa_factoid,0.1607,0.1607,True
+13871,sv-SE,qa,qa_definition,hur skulle du beskriva en glad födelsedag,qa_definition,0.9748,0.9748,True
+13881,sv-SE,qa,qa_factoid,ge mig information om seinabo sey tack,social_post,0.7127,0.226,False
+13888,sv-SE,qa,qa_factoid,vad är temperaturen i borlänge dalarna,weather_query,0.994,0.0021,False
+13895,sv-SE,qa,qa_factoid,kan du berätta för mig om wayne gretszky,social_post,0.7796,0.0388,False
+13900,sv-SE,qa,qa_definition,definitionen av liv,qa_definition,1.0,1.0,True
+13907,sv-SE,qa,qa_definition,definiera förbluffad,qa_definition,0.9749,0.9749,True
+13908,sv-SE,qa,qa_definition,vad betyder ordet enorm,qa_definition,0.9997,0.9997,True
+13926,sv-SE,qa,qa_factoid,när fyller hemingway år,weather_query,0.4164,0.0069,False
+13927,sv-SE,qa,qa_factoid,hur mycket är ludvig håkanson värd,qa_factoid,0.9997,0.9997,True
+13974,sv-SE,qa,qa_factoid,vart ligger laos,weather_query,0.5409,0.1353,False
+13983,sv-SE,qa,qa_definition,drabbas av konsekvenser,qa_factoid,0.5016,0.0093,False
+13984,sv-SE,qa,qa_definition,konsekvenser av handlingar,qa_factoid,0.2176,0.0396,False
+13997,sv-SE,qa,qa_factoid,hur mycket kostar det genomsnittliga huset,qa_factoid,0.9078,0.9078,True
+14000,sv-SE,qa,qa_definition,beskriv ett slott,qa_definition,0.5534,0.5534,True
+14001,sv-SE,qa,qa_factoid,berätta allt du vet om sengångare för mig,qa_definition,0.2453,0.2424,False
+14011,sv-SE,qa,qa_factoid,när är dolly partons födelsedag,weather_query,0.9374,0.0001,False
+14015,sv-SE,qa,qa_factoid,vad är ekvatorns koordinater,qa_factoid,0.9392,0.9392,True
+14023,sv-SE,qa,qa_definition,beskriv helvetet,qa_factoid,0.9531,0.007,False
+14033,sv-SE,qa,qa_factoid,när föddes obama,qa_factoid,0.9981,0.9981,True
+14038,sv-SE,qa,qa_factoid,var ligger moldavien,email_sendemail,0.918,0.044,False
+14040,sv-SE,qa,qa_factoid,hur lång är hulk hogan,qa_factoid,0.7008,0.7008,True
+14053,sv-SE,qa,qa_factoid,vilket år började bill skarsgård att skådespela,play_music,0.3247,0.2643,False
+14063,sv-SE,qa,qa_factoid,när var elvis presleys födelsedag,datetime_query,0.9873,0.0017,False
+14083,sv-SE,qa,qa_factoid,var bor erica braun nu för tiden,email_query,0.517,0.0438,False
+14096,sv-SE,qa,qa_factoid,var ligger kebnekaise,email_sendemail,0.7407,0.1229,False
+14115,sv-SE,qa,qa_definition,ge detaljer om stensand,email_sendemail,1.0,0.0,False
+14116,sv-SE,qa,qa_definition,beskriv stensand,email_sendemail,1.0,0.0,False
+14117,sv-SE,qa,qa_factoid,var ligger pyramiderna,qa_factoid,0.8347,0.8347,True
+14118,sv-SE,qa,qa_factoid,visa geografiska detaljer om pyramider,play_podcasts,0.5252,0.0834,False
+14126,sv-SE,qa,qa_factoid,visa biografi om kent,qa_factoid,0.8778,0.8778,True
+14138,sv-SE,qa,qa_definition,vad är definitionen av en cylinder,qa_definition,1.0,1.0,True
+14147,sv-SE,qa,qa_definition,definiera lakan,qa_definition,0.9997,0.9997,True
+14150,sv-SE,qa,qa_definition,vad är converse skor,qa_definition,0.7504,0.7504,True
+14151,sv-SE,qa,qa_factoid,vilken typ av solglasögon anses vara pilotglasögon,qa_definition,0.8862,0.1021,False
+14154,sv-SE,qa,qa_factoid,info om afrika,qa_definition,0.6673,0.2958,False
+14163,sv-SE,qa,qa_factoid,sök efter lokaliteten,qa_factoid,1.0,1.0,True
+14169,sv-SE,qa,qa_factoid,vart gick amal clooney i skolan,social_post,0.9841,0.0009,False
+14170,sv-SE,qa,qa_factoid,använder magdalena graaf converse,lists_remove,0.4288,0.0962,False
+14179,sv-SE,qa,qa_factoid,hur långt bort är kanada från min nuvarande position,qa_factoid,0.9772,0.9772,True
+14214,sv-SE,transport,transport_query,hitta sätt att resa för samma,transport_query,0.967,0.967,True
+14229,sv-SE,qa,qa_factoid,vilka filmer har peter stormare spelat i,play_podcasts,0.7497,0.0523,False
+14243,sv-SE,qa,qa_factoid,detaljer om person,email_query,0.972,0.0004,False
+14272,sv-SE,qa,qa_definition,vad är en bok,qa_definition,0.9997,0.9997,True
+14283,sv-SE,qa,qa_factoid,berätta för mig om jaipur,social_post,0.7852,0.0089,False
+14306,sv-SE,qa,qa_factoid,berätta vart indien ligger,qa_factoid,1.0,1.0,True
+14308,sv-SE,qa,qa_factoid,vad är leonardo dicaprios nettovärde,qa_factoid,1.0,1.0,True
+14316,sv-SE,qa,qa_factoid,hur stort är grönland,qa_factoid,0.9174,0.9174,True
+14317,sv-SE,qa,qa_factoid,hur stort är u.s.a.,qa_factoid,0.9948,0.9948,True
+14323,sv-SE,qa,qa_factoid,vilken färg har en drakfrukt,iot_hue_lightoff,0.9737,0.0136,False
+14330,sv-SE,qa,qa_factoid,var föddes steve jobs,email_sendemail,1.0,0.0,False
+14347,sv-SE,qa,qa_definition,vad betyder ordet hypotes,iot_hue_lightoff,0.9613,0.0382,False
+14354,sv-SE,qa,qa_factoid,vad är svaret på universum,qa_definition,0.6315,0.3466,False
+14355,sv-SE,qa,qa_factoid,hur många snäckskal sålde sally vid havsstranden,qa_factoid,0.9696,0.9696,True
+14370,sv-SE,qa,qa_factoid,berätta kändisens yrke,qa_factoid,0.9732,0.9732,True
+14378,sv-SE,qa,qa_definition,definition av hastighet,qa_definition,0.9877,0.9877,True
+14382,sv-SE,qa,qa_factoid,hur högt är empire state building,weather_query,0.5861,0.0087,False
+14395,sv-SE,qa,qa_factoid,vad är den djupaste punkten på jorden,qa_definition,0.4329,0.3819,False
+14414,sv-SE,qa,qa_definition,beskriv om datorns hårddisk,iot_hue_lightoff,0.7831,0.1704,False
+14417,sv-SE,qa,qa_factoid,vilka hav gränsar till vår kontinent,qa_factoid,0.9147,0.9147,True
+14419,sv-SE,qa,qa_factoid,är angeline med en i ny film i år,social_post,0.3042,0.1032,False
+14429,sv-SE,qa,qa_definition,vad är en kaftan,qa_definition,0.9969,0.9969,True
+14440,sv-SE,qa,qa_factoid,vad är mexikos huvudstad,qa_factoid,0.3027,0.3027,True
+14442,sv-SE,qa,qa_factoid,var ligger fiji,qa_factoid,0.9999,0.9999,True
+14444,sv-SE,qa,qa_factoid,vilken var sven wollters första film,qa_factoid,0.9436,0.9436,True
+14449,sv-SE,qa,qa_factoid,har pink en ny bebis,iot_hue_lightoff,0.9298,0.0024,False
+14457,sv-SE,qa,qa_factoid,hitta rutt,social_post,0.538,0.1709,False
+14465,sv-SE,transport,transport_query,vägbeskrivning till gröna lund,transport_query,0.9923,0.9923,True
+14490,sv-SE,qa,qa_factoid,när byggdes kina teatern,qa_factoid,0.6938,0.6938,True
+14498,sv-SE,qa,qa_definition,ge mig beskrivningen för smartphone,qa_definition,0.9998,0.9998,True
+14504,sv-SE,qa,qa_factoid,olly hur många möten genomförde mahatma gandhi,qa_factoid,0.9165,0.9165,True
+14505,sv-SE,qa,qa_factoid,vem är rysslands nuvarande premiärminister,qa_factoid,1.0,1.0,True
+14508,sv-SE,qa,qa_factoid,snälla summera den senaste ice and fire boken av george r. r. martin,email_sendemail,0.7205,0.0024,False
+14509,sv-SE,qa,qa_factoid,var föddes mahatma gandhi,email_sendemail,1.0,0.0,False
+14539,sv-SE,qa,qa_factoid,hitta geografiska detaljer för det här stället,qa_factoid,0.7248,0.7248,True
+14545,sv-SE,qa,qa_factoid,berätta för mig om platsen i indien,qa_factoid,0.9988,0.9988,True
+14567,sv-SE,qa,qa_factoid,vilken är den största aktiva vulkanen på jorden,qa_factoid,0.9997,0.9997,True
+14585,sv-SE,qa,qa_factoid,hur lång tid tar det att resa till japan från sydkorea,qa_factoid,0.8218,0.8218,True
+14591,sv-SE,qa,qa_definition,ge mig beskrivningen av en t. v. krets,qa_definition,0.9911,0.9911,True
+14592,sv-SE,qa,qa_definition,ge mig beskrivningen av en smartphone circuit,qa_definition,0.9996,0.9996,True
+14597,sv-SE,qa,qa_factoid,vad är befolkningen i stockholm,social_post,0.7229,0.1329,False
+14601,sv-SE,qa,qa_factoid,i hur många år var abraham lincoln president i u. s. a.,qa_factoid,0.9073,0.9073,True
+14605,sv-SE,qa,qa_factoid,lämnade angelina jolie brad pitt,social_post,0.9948,0.0002,False
+14608,sv-SE,qa,qa_factoid,vilken ny film jobbar jennifer lawrence med,social_post,0.4271,0.2538,False
+14622,sv-SE,qa,qa_definition,beskriv vad en sfär är,qa_definition,0.9843,0.9843,True
+14648,sv-SE,cooking,cooking_recipe,recept tack,cooking_recipe,1.0,1.0,True
+14653,sv-SE,qa,qa_factoid,hur stor är befolkningen i ryssland,qa_factoid,0.9981,0.9981,True
+14661,sv-SE,qa,qa_factoid,vad är barack obamas födelseår,qa_factoid,0.5145,0.5145,True
+14668,sv-SE,qa,qa_definition,beskriv objekt xy,iot_hue_lightoff,0.8063,0.0002,False
+14683,sv-SE,qa,qa_factoid,vad har alexander skarsgård för hobby,qa_factoid,0.3356,0.3356,True
+14684,sv-SE,qa,qa_factoid,vem är premiärminister i ryssland,qa_factoid,1.0,1.0,True
+14690,sv-SE,qa,qa_definition,okej google vad är en president,qa_definition,0.5592,0.5592,True
+14700,sv-SE,qa,qa_definition,vad exakt är en tandfyllning,qa_definition,0.9612,0.9612,True
+14701,sv-SE,qa,qa_definition,beskriv vändtian,qa_factoid,0.8778,0.0704,False
+14705,sv-SE,qa,qa_factoid,ok googla var bor elsa hosk,qa_factoid,0.9997,0.9997,True
+14706,sv-SE,qa,qa_factoid,var bor helena bergström,email_sendemail,0.6938,0.123,False
+14746,sv-SE,qa,qa_factoid,vilken är huvudstaden i kazakstan,qa_definition,0.5446,0.4511,False
+14761,sv-SE,qa,qa_definition,ge mig definitionen av ordet docera,qa_definition,0.9989,0.9989,True
+14767,sv-SE,qa,qa_definition,hur skulle du beskriva en boll,qa_definition,0.9999,0.9999,True
+14770,sv-SE,qa,qa_factoid,vilket är världens största hav,qa_factoid,0.8411,0.8411,True
+14787,sv-SE,qa,qa_factoid,vad är skillnaden mellan romersk och grigorisk kalender,qa_definition,0.9167,0.0232,False
+14791,sv-SE,qa,qa_factoid,vad består stolen av,qa_factoid,0.5926,0.5926,True
+14794,sv-SE,qa,qa_factoid,vad är elvis favorit åk,qa_factoid,0.9335,0.9335,True
+14822,sv-SE,qa,qa_factoid,att jämföra i människor,qa_factoid,0.3116,0.3116,True
+14838,sv-SE,qa,qa_factoid,vad är ett neutralt densitetsfilter och skulle jag vilja ha ett gradient eller ett solitt och vilket skulle passa bättre i stil mellan den skruvade och de fyrkantiga,iot_hue_lightoff,0.5424,0.2174,False
+14857,sv-SE,qa,qa_definition,kan du förklara innebörden av orimlig för mig snälla,qa_definition,0.4344,0.4344,True
+14877,sv-SE,qa,qa_factoid,vad är klimatförhållandena i det området,weather_query,0.9317,0.0486,False
+14879,sv-SE,qa,qa_definition,betydelsen för,qa_definition,0.9987,0.9987,True
+14884,sv-SE,qa,qa_factoid,vilket landskap i sverige har minst risk för tromber,qa_factoid,0.8194,0.8194,True
+14889,sv-SE,qa,qa_definition,beskriv det där föremålet för mig,qa_definition,0.9952,0.9952,True
+14891,sv-SE,qa,qa_factoid,i vilket fält utmärker den personen sig,qa_factoid,0.9947,0.9947,True
+14912,sv-SE,qa,qa_factoid,när föddes stadsminister magdalena andersson,email_sendemail,0.5793,0.0281,False
+14917,sv-SE,qa,qa_factoid,när kommer kents nästa album ut,qa_factoid,0.4595,0.4595,True
+14933,sv-SE,qa,qa_factoid,berätta informationen om finlands geografi,social_post,0.4512,0.317,False
+14939,sv-SE,qa,qa_factoid,jag behöver lite information om astrid lindgren snälla hjälp till,social_post,0.2245,0.0441,False
+14981,sv-SE,qa,qa_definition,iphone sju beskrivning,qa_factoid,0.51,0.0003,False
+14994,sv-SE,qa,qa_factoid,vad är joel kinnaman nästa film,qa_factoid,0.5621,0.5621,True
+14995,sv-SE,qa,qa_definition,vad betyder situation,qa_definition,0.9982,0.9982,True
+15020,sv-SE,qa,qa_factoid,hur gammal är lasse hallström,qa_factoid,0.9981,0.9981,True
+15039,sv-SE,qa,qa_factoid,olly var börjar donaufloden,email_sendemail,0.9985,0.0,False
+15055,sv-SE,qa,qa_factoid,vilken pol är kallast syd eller nord,qa_definition,0.4749,0.4526,False
+15056,sv-SE,qa,qa_factoid,hur gammal är emma watsons ny pojkvän,qa_factoid,0.9997,0.9997,True
+15062,sv-SE,qa,qa_factoid,info om greta garbo tack,social_post,0.9775,0.0002,False
+15075,sv-SE,qa,qa_factoid,olly var bosatte sig de första utvandrarna i amerika,social_post,0.8011,0.1228,False
+15092,sv-SE,qa,qa_definition,hitte en beskrivning om samsung t. v.,qa_factoid,0.995,0.0001,False
+15094,sv-SE,qa,qa_factoid,slå upp antalet människor som bor i helsingborg skåne,qa_factoid,0.3804,0.3804,True
+15095,sv-SE,qa,qa_factoid,i vilken region ligger kiruna,qa_factoid,0.8043,0.8043,True
+15127,sv-SE,qa,qa_definition,definiera högtalare,iot_hue_lightoff,0.9999,0.0,False
+15155,sv-SE,social,social_post,kan du ladda upp min senaste selfie på mitt facebookkonto,social_post,0.9973,0.9973,True
+15166,sv-SE,social,social_post,lägg upp mitt företag på twitter,social_post,0.9997,0.9997,True
+15177,sv-SE,social,social_post,snälla återtweeta denna post på twitter,social_post,0.9976,0.9976,True
+15185,sv-SE,social,social_post,födelsedags önskningar,news_query,0.1984,0.0373,False
+15186,sv-SE,social,social_post,bröllopsönskningar,social_post,0.4831,0.4831,True
+15187,sv-SE,social,social_post,dela på kompis inlägg,social_post,0.8651,0.8651,True
+15197,sv-SE,social,social_post,posta mitt besök i japan på twitter,social_post,0.9999,0.9999,True
+15208,sv-SE,social,social_post,posta hej allihopa på facebook,social_post,0.9999,0.9999,True
+15213,sv-SE,news,news_query,vad trendar just nu,qa_factoid,0.6385,0.0098,False
+15214,sv-SE,news,news_query,vad är det för nyheter idag,news_query,0.9988,0.9988,True
+15216,sv-SE,social,social_post,tweeta något för mig,play_music,0.9657,0.0021,False
+15231,sv-SE,social,social_post,min resa till goa lägg upp foto på instagram,social_post,0.9991,0.9991,True
+15271,sv-SE,social,social_post,lägg upp detta på min facebook l. o. l.,social_post,0.9998,0.9998,True
+15275,sv-SE,social,social_post,lägg upp på facebook att jag är lycklig,social_post,1.0,1.0,True
+15276,sv-SE,social,social_post,lägg upp en ny status på facebook som säger att jag njuter av det härliga vädret,social_post,0.9998,0.9998,True
+15289,sv-SE,social,social_post,lägg upp meddelande nu,social_post,0.3749,0.3749,True
+15305,sv-SE,calendar,calendar_query,har jag några notifieringar från sociala medier,social_post,0.9462,0.0009,False
+15318,sv-SE,social,social_post,jag vill tacka alla för födelsedagsgratulationerna,email_sendemail,0.6911,0.0112,False
+15337,sv-SE,social,social_post,lägg upp den här videon på facebook,social_post,0.9999,0.9999,True
+15350,sv-SE,social,social_post,jag är missnöjd med ica hjälp mig tack,social_post,0.392,0.392,True
+15358,sv-SE,social,social_post,google tweeta apple att telefonen inte fungerar,qa_factoid,0.9313,0.0314,False
+15359,sv-SE,social,social_post,öppna tweet till apple att mitt mobilbatteri alltid är urladdat,email_sendemail,0.2386,0.0612,False
+15364,sv-SE,social,social_post,kan du låta amazon få veta att det här nya telefonfrodalet är skräp,qa_factoid,0.9584,0.008,False
+15382,sv-SE,social,social_post,kan du kontakta samsung och säga att min diskmaskin brinner upp,lists_remove,0.2319,0.0669,False
+15387,sv-SE,social,social_post,tvittra min aktuella position,iot_hue_lightoff,0.9581,0.0006,False
+15399,sv-SE,social,social_post,vidarebefordra ett klagomål till telia om nätverksrelaterade problem,qa_factoid,0.9975,0.0001,False
+15401,sv-SE,social,social_post,öppna twitter skicka meddelande,social_post,0.9946,0.9946,True
+15402,sv-SE,social,social_post,tweeta att produkterna suger,social_post,0.9951,0.9951,True
+15409,sv-SE,social,social_post,öppna twitter skriv mina klagomål och skicka till kundservice,email_sendemail,0.9959,0.0036,False
+15413,sv-SE,social,social_post,få tag på en person åt mig omedelbart,qa_factoid,0.5899,0.386,False
+15444,sv-SE,social,social_post,två tummar ner till telia,iot_hue_lightoff,0.7326,0.0076,False
+15448,sv-SE,social,social_post,skicka en tweet om sonys volymproblem,social_post,0.9979,0.9979,True
+15454,sv-SE,social,social_post,tvittra sas jag är arg för du förlorat mitt bagage,qa_factoid,0.4155,0.0221,False
+15456,sv-SE,social,social_post,jag vill skicka en tweet till bra att jag är arg för att ni tappade bort mina väskor,email_sendemail,0.9999,0.0001,False
+15457,sv-SE,social,social_post,jag fick problem med min bugare kan du tvittra bk,iot_hue_lightoff,0.9152,0.0038,False
+15459,sv-SE,social,social_post,skicka ett klagomål på twitter,social_post,0.995,0.995,True
+15464,sv-SE,social,social_post,jag fick inte produkten i tid skicka en tweet till åhlens,social_post,0.9487,0.9487,True
+15467,sv-SE,social,social_post,säg till telia att jag hatar dem,qa_factoid,0.9843,0.0138,False
+15472,sv-SE,social,social_post,tweeta ett klagomål till nätbokhandeln,play_podcasts,0.6788,0.2626,False
+15487,sv-SE,social,social_post,tweeta åhlens angående deras renlighet i deras affär,social_post,0.6242,0.6242,True
+15488,sv-SE,social,social_post,tvittra på max jag har väntat på min leverans för länge jag är inte nöjd,qa_factoid,0.9711,0.0007,False
+15503,sv-SE,social,social_post,ny tweet till kundtjänst,social_post,0.9872,0.9872,True
+15508,sv-SE,social,social_post,siri öppna twitter sats suger,qa_factoid,0.6497,0.0127,False
+15518,sv-SE,social,social_post,skicka ett klagomål via tweet till kappahl,email_sendemail,0.9914,0.005,False
+15532,sv-SE,social,social_post,olly tvittra ikea och tala om att deras kundtjänst är usel,email_sendemail,0.9955,0.0,False
+15546,sv-SE,social,social_post,tweeta om kall pizza på pizza hut,social_post,0.9462,0.9462,True
+15548,sv-SE,social,social_post,tweeta mobilklagomål till samsung,recommendation_events,0.836,0.0191,False
+15553,sv-SE,social,social_post,negativ feedback tweet om nike,qa_factoid,0.4943,0.4935,False
+15554,sv-SE,social,social_post,tweeta på telia service om försenad service,calendar_remove,0.236,0.017,False
+15556,sv-SE,social,social_post,tweeta ett klagomål,play_music,0.9988,0.0,False
+15557,sv-SE,social,social_post,jag vill att du tweetar ett klagomål,social_post,0.998,0.998,True
+15560,sv-SE,social,social_post,lägg upp på facebook jag är hungrig,social_post,0.9999,0.9999,True
+15565,sv-SE,social,social_post,kan du berätta för ryanair att jag aldrig kommer resa med dem igen,qa_factoid,0.9111,0.0156,False
+15587,sv-SE,social,social_post,öppna galleri lägg upp bild namn,social_post,0.418,0.418,True
+15592,sv-SE,social,social_post,tweeta klaga till telia,iot_hue_lightoff,0.7818,0.0075,False
+15593,sv-SE,social,social_post,tweeta klagomål på comcast,play_podcasts,0.5349,0.001,False
+15598,sv-SE,social,social_post,öppna s. a. s. och hitta klagomål,recommendation_events,0.4321,0.0137,False
+15610,sv-SE,social,social_post,lägg ut en tweet med mitt konto dålig uppföljning från telia inte nöjd,social_post,0.9995,0.9995,True
+15618,sv-SE,social,social_post,tvittra willys och skriv att de suger,recommendation_events,0.8481,0.0009,False
+15626,sv-SE,social,social_post,snälla tvittra ett klagemål till telia för dålig kundtjänst,qa_factoid,0.9669,0.0036,False
+15634,sv-SE,social,social_post,ok google tvittra vilken idiot ägaren på bensinstationen är,qa_factoid,0.9865,0.004,False
+15635,sv-SE,social,social_post,tvittra att mcdonalds på bangatan har fruktansvärd service,cooking_recipe,0.3981,0.3788,False
+15647,sv-SE,social,social_post,tvittra klagomål till,iot_hue_lightoff,0.7448,0.0021,False
+15651,sv-SE,social,social_post,skicka en rapport till kundservice,recommendation_events,0.7892,0.0079,False
+15652,sv-SE,social,social_post,hjälp klagomål till kundtjänst,recommendation_events,0.9235,0.0273,False
+15655,sv-SE,social,social_post,tvittra till googles kundtjänst att min nexus telefon har slutat fungera hjälp tack,email_sendemail,0.6074,0.0009,False
+15656,sv-SE,social,social_post,tvittra ett meddelande till bygg hemma att jag fortfarande väntar på min leverans,email_sendemail,0.98,0.0006,False
+15661,sv-SE,social,social_post,posta mitt senaste inlägg på twitter på eniro,social_post,0.9999,0.9999,True
+15670,sv-SE,social,social_post,skicka ett klagomåls tweet,social_post,0.9955,0.9955,True
+15672,sv-SE,social,social_post,tvittra apple om inget kvitto för iphone jag skickade på lagning förra veckan,iot_hue_lightoff,0.867,0.0002,False
+15676,sv-SE,social,social_post,lägg till klagomål om servicen i en tweet till mcdonalds tack,email_sendemail,1.0,0.0,False
+15686,sv-SE,social,social_post,hej varan jag köpte av någon har tagit slut,qa_factoid,0.6977,0.0309,False
+15693,sv-SE,social,social_post,tvittra att det var en insekt i chokladkakan,iot_hue_lightoff,0.7554,0.0007,False
+15700,sv-SE,social,social_post,utgångna produkter på nuvarande marknad,recommendation_events,0.8867,0.0002,False
+15703,sv-SE,social,social_post,tvittra till footlocker att deras storlekar tar slut för snabbt,cooking_recipe,0.7374,0.0015,False
+15706,sv-SE,social,social_post,tvittra på,calendar_remove,0.5469,0.0042,False
+15707,sv-SE,social,social_post,skicka en tweet,social_post,0.9973,0.9973,True
+15708,sv-SE,social,social_post,lägg upp ett klagomål om service a,social_post,0.9788,0.9788,True
+15721,sv-SE,social,social_post,tweeta en äcklad emoji om mcdonalds,social_post,0.9555,0.9555,True
+15723,sv-SE,social,social_post,ange lycklig status på facebook,social_post,0.9999,0.9999,True
+15731,sv-SE,social,social_post,google tvittra ett meddelande till järnia och säg till dem att deras kundservice är dålig,email_sendemail,0.5754,0.0131,False
+15732,sv-SE,social,social_post,twittra samsung och säg till dem att sluta döda människor med deras produkter,email_sendemail,1.0,0.0,False
+15736,sv-SE,social,social_post,lämna en negativ recension om ett företag,qa_factoid,0.9169,0.0094,False
+15756,sv-SE,email,email_sendemail,mejla mitt team tack,iot_hue_lightoff,0.1768,0.1496,False
+15763,sv-SE,email,email_query,kolla efter nya mejl tack,email_sendemail,1.0,0.0,False
+15765,sv-SE,email,email_sendemail,svara fredriks mejl,email_sendemail,0.5942,0.5942,True
+15777,sv-SE,email,email_query,berätta om jag har nya mejl,email_query,0.9318,0.9318,True
+15785,sv-SE,email,email_query,är där något nytt i min inkorg,news_query,0.213,0.0347,False
+15789,sv-SE,email,email_query,olly har jag några nya mejl,email_query,0.9997,0.9997,True
+15792,sv-SE,calendar,calendar_query,vem träffar jag idag,social_post,0.9675,0.0001,False
+15796,sv-SE,email,email_sendemail,mejla helen,social_post,0.998,0.0,False
+15802,sv-SE,email,email_sendemail,svara ett mejl till jocke att jag kommer inte ikväll,email_sendemail,1.0,1.0,True
+15809,sv-SE,email,email_query,har robert skickat mejl ännu,email_sendemail,1.0,0.0,False
+15825,sv-SE,email,email_sendemail,svara pappa skriv att jag kommer att bli sen,email_sendemail,0.5891,0.5891,True
+15828,sv-SE,email,email_sendemail,höra är en ny emejladress som ska läggas till i kontakter,iot_hue_lightoff,0.6109,0.0089,False
+15829,sv-SE,email,email_sendemail,gå till kontakter och skapa en ny e postadress,email_sendemail,0.9999,0.9999,True
+15839,sv-SE,email,email_query,ämne,qa_factoid,0.6753,0.0007,False
+15841,sv-SE,email,email_sendemail,skriv ett nytt mejl till hasse,email_sendemail,0.9998,0.9998,True
+15845,sv-SE,email,email_sendemail,skicka e post till anna,email_sendemail,1.0,1.0,True
+15847,sv-SE,email,email_sendemail,skicka e post med låneansökan,email_sendemail,1.0,1.0,True
+15849,sv-SE,email,email_sendemail,skicka ett mejl till min chef,email_sendemail,1.0,1.0,True
+15857,sv-SE,email,email_sendemail,skicka till den nya listade emejl adressen,email_sendemail,1.0,1.0,True
+15862,sv-SE,email,email_query,kolle emejl etter något från mamma,email_sendemail,1.0,0.0,False
+15880,sv-SE,email,email_query,snälla checka mina mejl,email_query,0.9867,0.9867,True
+15890,sv-SE,email,email_query,kolla för att se om jag har några nya mejl från min pappa,email_sendemail,0.9997,0.0003,False
+15904,sv-SE,email,email_query,kolla mina emails och berätta vad de handlar om,email_sendemail,0.9996,0.0004,False
+15906,sv-SE,email,email_sendemail,svara tack till johan,email_sendemail,0.9996,0.9996,True
+15911,sv-SE,email,email_sendemail,förbered mejl till susanne,email_sendemail,1.0,1.0,True
+15933,sv-SE,email,email_query,vilka nya mejl har jag,cooking_recipe,0.5873,0.0012,False
+15942,sv-SE,email,email_sendemail,skicka detta mejl som svar på det senaste mejlet,email_sendemail,1.0,1.0,True
+15950,sv-SE,email,email_sendemail,svara mejlet från johan larsson,email_sendemail,0.549,0.549,True
+15957,sv-SE,email,email_sendemail,mejla lisa för att låta henne veta att vi är på väg,email_sendemail,0.9913,0.9913,True
+15963,sv-SE,email,email_query,har jag några nya mejl från lars,email_query,0.9993,0.9993,True
+15966,sv-SE,email,email_query,skicka ett svar om det är väldigt viktigt,qa_factoid,0.5727,0.0354,False
+15968,sv-SE,email,email_query,kolla om jag har fått mail,email_sendemail,1.0,0.0,False
+15970,sv-SE,email,email_query,vad var ämnet för det senaste mejlet från mamma,social_post,0.9963,0.0021,False
+15971,sv-SE,email,email_query,vilket var det senaste mejlet från jobbet,cooking_recipe,0.181,0.0302,False
+15994,sv-SE,email,email_sendemail,skicka ett mejl till johan som frågar honom om vilken tid som fungerar för mötet,email_sendemail,1.0,1.0,True
+15995,sv-SE,email,email_sendemail,mejla karin om budgetmötet,email_sendemail,0.7777,0.7777,True
+15998,sv-SE,email,email_query,checka mina mejl efter något från namn,email_query,0.9897,0.9897,True
+16002,sv-SE,email,email_query,kolla efter nya mejl,email_query,0.9939,0.9939,True
+16005,sv-SE,email,email_sendemail,skicka mejl till mats snabel a. gmail punkt kom,email_sendemail,1.0,1.0,True
+16010,sv-SE,email,email_query,berätta om jag har några nya meddelanden i min inkorg,lists_remove,0.9848,0.0001,False
+16024,sv-SE,email,email_sendemail,skicka ett mejl till lars och säger att jag är upptagen imorgon,email_sendemail,1.0,1.0,True
+16028,sv-SE,email,email_sendemail,hej siri starta ett mejl till medarbetare,email_sendemail,1.0,1.0,True
+16029,sv-SE,email,email_sendemail,skriv ett nytt mejl till medarbetare tack,email_sendemail,1.0,1.0,True
+16032,sv-SE,email,email_sendemail,var snäll skicka ett mejl till sandra om morgondagens möte,email_sendemail,1.0,1.0,True
+16038,sv-SE,email,email_query,hej har johan skickat några mejl på sistone,email_sendemail,1.0,0.0,False
+16045,sv-SE,email,email_sendemail,skicka mejl till larsson för tidtabell för kontorsöppning,email_sendemail,1.0,1.0,True
+16048,sv-SE,email,email_query,visa my nya mejl,email_query,0.8248,0.8248,True
+16049,sv-SE,email,email_sendemail,jag vill skicka ett mejl till min familj kan du hjälpa mig,email_sendemail,1.0,1.0,True
+16050,sv-SE,email,email_query,kolla gmail,email_sendemail,0.995,0.005,False
+16052,sv-SE,email,email_query,kolla outlook,email_sendemail,0.4754,0.0207,False
+16056,sv-SE,email,email_sendemail,svara på mejl,email_query,0.8014,0.1115,False
+16061,sv-SE,email,email_query,har jag mottagit några mejl de senaste tio minuterna,social_post,0.998,0.0001,False
+16072,sv-SE,email,email_sendemail,skicka e post til min chef att jag blir försenad idag be om ursäkt för att jag missar mötet,email_sendemail,1.0,1.0,True
+16075,sv-SE,email,email_query,visa nytt mejl från johan,email_sendemail,0.9502,0.0498,False
+16082,sv-SE,email,email_sendemail,skicka ett mejl till peter och fråga honom hur han mår nu kan jag göra något för att hjälpa honom,email_sendemail,1.0,1.0,True
+16089,sv-SE,email,email_query,har jag mottagit nya mejl de senaste tio minuterna,recommendation_events,0.5129,0.0185,False
+16096,sv-SE,email,email_query,har anna skickat mig några nya mejl,email_sendemail,1.0,0.0,False
+16098,sv-SE,email,email_query,kolla olästa mejl från anna,email_sendemail,0.9999,0.0001,False
+16100,sv-SE,email,email_query,kolla mejl som innehåller jobblista,email_query,0.9496,0.9496,True
+16103,sv-SE,email,email_sendemail,skicka ett mejl till min bror och säg bröllopsdag,email_sendemail,1.0,1.0,True
+16120,sv-SE,email,email_sendemail,hjälp ska skickas bara till lisa,email_sendemail,1.0,1.0,True
+16131,sv-SE,email,email_sendemail,skicka e post till anna och hasse,email_sendemail,1.0,1.0,True
+16145,sv-SE,email,email_query,visa mig de senaste mejlen,email_sendemail,0.8227,0.1742,False
+16146,sv-SE,news,news_query,ge mig de senaste uppdateringarna,email_sendemail,0.8421,0.0121,False
+16148,sv-SE,email,email_sendemail,snabbt svar till jakob så snälla skicka ett mejl,email_sendemail,1.0,1.0,True
+16151,sv-SE,email,email_query,kolla kalender för möte i dagens e post,calendar_set,0.9692,0.0003,False
+16162,sv-SE,email,email_sendemail,skicka svar,email_sendemail,0.9889,0.9889,True
+16163,sv-SE,email,email_query,vem mejlade mig igår,social_post,0.9838,0.0007,False
+16165,sv-SE,email,email_query,har charlotte svarat,weather_query,0.9947,0.0,False
+16166,sv-SE,email,email_sendemail,kan du svara charlotte att jag kommer att vara upptagenmed projektet de nästkommande tre veckorna,recommendation_events,0.6539,0.0052,False
+16168,sv-SE,email,email_query,har några mejl kommit de senaste femton minuterna,social_post,0.985,0.0098,False
+16170,sv-SE,email,email_query,öppna inkorg för att checka olästa mejl,email_query,0.5211,0.5211,True
+16178,sv-SE,email,email_query,några mejl från amazon idag,email_query,0.5186,0.5186,True
+16183,sv-SE,email,email_query,kolla mejl om mitt jobb,email_sendemail,0.9549,0.0448,False
+16201,sv-SE,email,email_sendemail,var vänlig ladda nya mejl för bert och skicka meddelande nu,email_query,0.7868,0.0422,False
+16221,sv-SE,email,email_sendemail,ta upp katjas mejl och skriv att jag ska meddela henne,email_sendemail,1.0,1.0,True
+16245,sv-SE,email,email_sendemail,skicka mejl till joe på a. o. l. punkt kom,email_sendemail,1.0,1.0,True
+16248,sv-SE,email,email_query,vänligen kolla min mejl,qa_factoid,0.7778,0.0282,False
+16263,sv-SE,email,email_query,fick jag några nya mejl från robert,email_sendemail,1.0,0.0,False
+16266,sv-SE,email,email_sendemail,skriv ett mejl till min familj som säger jag älskar er alla,email_sendemail,1.0,1.0,True
+16271,sv-SE,email,email_query,uppdatera min inkorg och informera om nya mejl,email_sendemail,0.6314,0.0123,False
+16275,sv-SE,email,email_query,sök efter ny mejl,email_query,0.7919,0.7919,True
+16276,sv-SE,email,email_query,har jag nya mejl,qa_factoid,0.9397,0.0004,False
+16280,sv-SE,email,email_sendemail,skicka et mail till carola som är på listan med familj och vänner,email_sendemail,1.0,1.0,True
+16282,sv-SE,email,email_sendemail,skicka ett mejl till min assistent klara för att ställa in möten imorgon,email_sendemail,1.0,1.0,True
+16296,sv-SE,email,email_sendemail,skicka emejl till mamma och skriv att williams födelsedagskalas är på söndag,email_sendemail,1.0,1.0,True
+16297,sv-SE,email,email_sendemail,skicka ett mejl till jocke för att säga tack,email_sendemail,1.0,1.0,True
+16314,sv-SE,email,email_sendemail,skicka ett mejl till margareta,email_sendemail,1.0,1.0,True
+16317,sv-SE,email,email_query,fick jag nya mejl från sara,email_sendemail,0.7282,0.2365,False
+16318,sv-SE,email,email_sendemail,svara mejl,email_query,0.9636,0.0103,False
+16320,sv-SE,email,email_sendemail,jag vill svara till anders larssons mejl,email_query,0.8598,0.0023,False
+16353,sv-SE,email,email_query,kolla efter mejl från stefan,email_sendemail,0.5275,0.4725,False
+16354,sv-SE,email,email_query,kolla efter mejl från min arbetsgivare,email_sendemail,0.7675,0.2322,False
+16356,sv-SE,email,email_query,mejlade jag tom om ämnet vapenkontroll,iot_hue_lightoff,0.4158,0.0247,False
+16357,sv-SE,email,email_query,har tomas mejlat mig om ammunition,iot_hue_lightoff,0.4672,0.0064,False
+16361,sv-SE,email,email_query,har jag några nya mejl den senaste timmen,email_query,0.7328,0.7328,True
+16373,sv-SE,email,email_query,har jag mottagit några mejl med spårningsnummer,email_sendemail,0.5137,0.0885,False
+16375,sv-SE,email,email_sendemail,skriv ett mejl till tobias,email_sendemail,1.0,1.0,True
+16376,sv-SE,email,email_sendemail,alexa vänligen skicka ett mejl till mamma,email_sendemail,1.0,1.0,True
+16377,sv-SE,email,email_sendemail,skicka ett mejl till mamma nu,email_sendemail,1.0,1.0,True
+16384,sv-SE,email,email_query,hej har jag några nya mejl,email_query,0.9725,0.9725,True
+16385,sv-SE,email,email_query,vänligen läs nya mejl,email_sendemail,0.691,0.309,False
+16398,sv-SE,email,email_sendemail,skicka mejlet till jens tack,email_sendemail,1.0,1.0,True
+16399,sv-SE,email,email_query,har jag fått några nya mejl,email_sendemail,0.8996,0.0949,False
+16401,sv-SE,email,email_sendemail,skriv ett mejl till anneli hej vad gör du idag,email_sendemail,1.0,1.0,True
+16402,sv-SE,email,email_sendemail,mejla dora om planerna idag,email_sendemail,0.9337,0.9337,True
+16406,sv-SE,email,email_sendemail,alexa starta mejl,qa_factoid,0.6645,0.002,False
+16410,sv-SE,email,email_sendemail,skriv mejl,email_query,0.9905,0.003,False
+16413,sv-SE,email,email_query,visa alla mejl skickade till mig från min chef,email_sendemail,1.0,0.0,False
+16419,sv-SE,email,email_sendemail,vänligen skicka ett mejl till farbror johan med följande ja jag kan göra det,email_sendemail,1.0,1.0,True
+16427,sv-SE,email,email_query,hur många nya mejl har jag fått idag,email_query,0.3375,0.3375,True
+16430,sv-SE,email,email_sendemail,var snäll skicka ett mejl till mamma och pappa som frågar hur de mår,email_sendemail,1.0,1.0,True
+16437,sv-SE,email,email_sendemail,var snälla skicka detta mejlet till min vän,email_sendemail,1.0,1.0,True
+16438,sv-SE,email,email_sendemail,jag behöver att detta mejl skickas nu,email_sendemail,1.0,1.0,True
+16446,sv-SE,email,email_query,var snäll och kolla efter emejlstudie från denna avsändare,email_sendemail,1.0,0.0,False
+16459,sv-SE,email,email_sendemail,nytt meddelande till newmail snabel a. gmail punkt kom,email_sendemail,1.0,1.0,True
+16461,sv-SE,email,email_query,har jag några olästa mejl,email_query,0.3534,0.3534,True
+16467,sv-SE,email,email_query,har jag några nya mejl från min kontakt q.,email_query,1.0,1.0,True
+16471,sv-SE,email,email_query,kolla mejl från johan,email_query,1.0,1.0,True
+16496,sv-SE,email,email_sendemail,skicka ett svarsmejl,email_sendemail,0.7712,0.7712,True
+16501,sv-SE,email,email_sendemail,vänligen skicka ett mejl till min vän emma hur mår du,email_sendemail,1.0,1.0,True
+16506,sv-SE,email,email_sendemail,lägg till ny mejladress och skicka mejl,email_sendemail,1.0,1.0,True
+16518,sv-SE,email,email_sendemail,lägg till en ny emejl för jill stare,iot_hue_lightoff,1.0,0.0,False
+16519,sv-SE,email,email_sendemail,jag behöver lägga till ett nytt mejl till mina kontakter,email_sendemail,1.0,1.0,True
+16535,sv-SE,email,email_sendemail,kan du skriva ett mejl till charlotte,email_sendemail,1.0,1.0,True
+16559,sv-SE,email,email_sendemail,skicka ett svar till micke med svaret fyrahundratrettio från hans mejl som han skickade denna morgonen,email_sendemail,1.0,1.0,True
+16560,sv-SE,email,email_sendemail,svara på mina chefers mejl med ordet att jag kommer vara inne vid fyra på eftermiddagen,email_sendemail,1.0,1.0,True
+16563,sv-SE,email,email_query,olly kolla min email,email_sendemail,1.0,0.0,False
+16591,sv-SE,email,email_sendemail,jag fick ett mejl från bill jag behöver svara det nu,email_sendemail,1.0,1.0,True
+16593,sv-SE,email,email_sendemail,det senaste mejlet behöver svaras på så snart som möjligt,email_sendemail,0.8796,0.8796,True
+16603,sv-SE,email,email_query,vad säger mejlet som var skickat trettio minuter sedan från mamma,email_sendemail,0.9827,0.0013,False
+16605,sv-SE,email,email_sendemail,skriva och skicka email till min chef,email_sendemail,1.0,1.0,True
+16609,sv-SE,email,email_query,berätta om jag har några olästa nya mejl,lists_remove,0.8191,0.1048,False
+16613,sv-SE,email,email_sendemail,skicka mejl till chef som säger jag kommer att bli sen,email_sendemail,1.0,1.0,True
+16622,sv-SE,email,email_sendemail,skicka ett mejl till denna kontakten,email_sendemail,1.0,1.0,True
+16624,sv-SE,email,email_sendemail,jag behöver skicka e post till comhem om mitt serviceärende,email_sendemail,1.0,1.0,True
+16627,sv-SE,email,email_query,kolla nyaste mejl,email_sendemail,0.9522,0.0128,False
+16630,sv-SE,email,email_sendemail,skicka ett svar på det senaste mejlet,email_query,0.8996,0.0967,False
+16642,sv-SE,email,email_query,kolla mejl efter något från sandra,email_sendemail,0.9999,0.0001,False
+16648,sv-SE,email,email_query,vänligen kolla mina mejl åt mig,email_query,0.5746,0.5746,True
+16652,sv-SE,email,email_query,hade berts mejl en bilaga,iot_hue_lightoff,0.9794,0.001,False
+16662,sv-SE,email,email_query,fick jag några nya mejl från dan,email_query,0.8605,0.8605,True
+16666,sv-SE,email,email_query,har jag några inkommande mejl,email_query,0.9812,0.9812,True
+16668,sv-SE,email,email_query,har några mejl kommit in sedan fyrahundra idag,social_post,0.9549,0.0209,False
+16669,sv-SE,email,email_query,fick jag ett mejl från lars,email_sendemail,1.0,0.0,False
+16672,sv-SE,email,email_query,har per hört av sig,qa_factoid,0.9838,0.0,False
+16677,sv-SE,email,email_query,har jag några nya mejl i min inkorg idag,lists_remove,0.9502,0.0023,False
+16698,sv-SE,email,email_sendemail,skriv ett svar till min mors mejl,email_query,0.8113,0.1849,False
+16701,sv-SE,email,email_sendemail,jag skulle vilja svara saras mejl,cooking_recipe,0.2519,0.006,False
+16703,sv-SE,email,email_sendemail,jag skulle vilja svara på det senaste mejlet,email_query,0.3334,0.0199,False
+16712,sv-SE,email,email_query,har jag några nya mejl,email_query,0.9842,0.9842,True
+16713,sv-SE,email,email_query,vänligen kontrollera mina mejl och meddela mig om det finns några nya mejl,email_sendemail,0.4122,0.0263,False
+16717,sv-SE,email,email_sendemail,kan du snälla mejla johan och säga att jag är ledig,email_sendemail,1.0,1.0,True
+16719,sv-SE,email,email_query,låt mig veta om nya mejl jag mottagit,email_sendemail,0.9998,0.0,False
+16729,sv-SE,email,email_sendemail,svara på mitt emejl från bert och låt han veta att jag kommer träffa dom imorgon,email_sendemail,1.0,1.0,True
+16730,sv-SE,email,email_query,vänligen kolla nya mejl från anders,email_query,0.9444,0.9444,True
+16733,sv-SE,email,email_query,visa mig de senaste mejlen från amazon,recommendation_events,0.4723,0.0195,False
+16749,sv-SE,email,email_query,är där några nya mejl från idag,email_query,0.9806,0.9806,True
+16754,sv-SE,email,email_sendemail,diktera mejl,datetime_query,0.7801,0.0067,False
+16758,sv-SE,email,email_query,några nya mejls sedan sist,email_sendemail,1.0,0.0,False
+16763,sv-SE,email,email_query,mejl de senaste tio minuterna,email_query,0.8915,0.8915,True
+16765,sv-SE,email,email_query,vilken är intervjutiden från gårdagens mejl,qa_factoid,0.9999,0.0,False
+16766,sv-SE,email,email_query,checka nya mejl,cooking_recipe,0.3873,0.3725,False
+16772,sv-SE,email,email_query,visa alla mejl om intrånget,email_query,0.7409,0.7409,True
+16780,sv-SE,email,email_sendemail,skicka ett mejl till hasse larsson på gmail punkt kom,email_sendemail,1.0,1.0,True
+16791,sv-SE,email,email_sendemail,skapa ett nytt mail jag har en ny adress denna gången brandon snabel a. example punkt com,email_sendemail,1.0,1.0,True
+16799,sv-SE,email,email_query,har jag fått några mejl sedan middag,email_sendemail,0.9967,0.0015,False
+16801,sv-SE,email,email_query,har kassandra skickat några mejl till mig om tomas,email_sendemail,1.0,0.0,False
+16813,sv-SE,email,email_query,pip när jag får ett email från johan,email_sendemail,1.0,0.0,False
+16814,sv-SE,email,email_query,checka mejl,iot_hue_lightoff,0.6463,0.0088,False
+16838,sv-SE,email,email_sendemail,kan du skicka mejlet till nya mejl i. d.,email_sendemail,1.0,1.0,True
+16851,sv-SE,email,email_query,mejl notifikationer,qa_factoid,0.625,0.001,False
+16859,sv-SE,email,email_query,vad sa jag till susanne i mitt senaste mejl,email_sendemail,1.0,0.0,False
+16872,sv-SE,email,email_sendemail,hitta nathalie från mina kontakter och skicka henne ett mejl,email_sendemail,1.0,1.0,True
+16873,sv-SE,email,email_sendemail,mejla anna för hennes födelsedag,cooking_recipe,0.9963,0.0001,False
+16880,sv-SE,email,email_sendemail,emejla julle rörande möte,email_sendemail,0.9201,0.9201,True
+16883,sv-SE,email,email_sendemail,skicka ett mejl till jerry och fråga vid vilken tid han kommer att vara hemma ikväll,email_sendemail,1.0,1.0,True
+16886,sv-SE,email,email_sendemail,svara detta mejl,email_query,0.3971,0.0266,False
+16888,sv-SE,email,email_query,vad sägs om nya mejl,qa_factoid,0.4843,0.1645,False
+16890,sv-SE,email,email_query,vilket nytt mejl säger,email_query,0.9808,0.9808,True
+16891,sv-SE,email,email_sendemail,skicka ett mejl till anders persson,email_sendemail,1.0,1.0,True
+16892,sv-SE,email,email_sendemail,börja ett mejl till johan svensson,email_sendemail,1.0,1.0,True
+16899,sv-SE,email,email_query,har jag mottagit några mejl från jonas olsson,social_post,0.7867,0.0,False
+16914,sv-SE,email,email_query,har jag några mejl från denna avsändare,email_sendemail,1.0,0.0,False
+16916,sv-SE,email,email_sendemail,hej svara ett mejl som jag mottog,qa_factoid,0.99,0.0002,False
+16924,sv-SE,email,email_query,kolla min gmail efter nya mejl,email_sendemail,1.0,0.0,False
+16930,sv-SE,email,email_query,visa senaste mejl,email_query,0.8186,0.8186,True
+16938,sv-SE,email,email_sendemail,svara johans mejl,email_query,0.7834,0.0202,False
+16944,sv-SE,email,email_sendemail,skicka ett mejl till mormor som säger att vi kommer förbi på lördag ses så,email_sendemail,1.0,1.0,True
+16947,sv-SE,email,email_sendemail,svara mejl,email_query,0.9636,0.0103,False
+16955,sv-SE,email,email_sendemail,mejl till ny kontakt,email_sendemail,0.9976,0.9976,True
+16956,sv-SE,email,email_sendemail,skicka mejl till ny kontakt,email_sendemail,1.0,1.0,True
+16961,sv-SE,email,email_sendemail,svara med,email_sendemail,0.9008,0.9008,True
+16974,sv-SE,email,email_query,var snälla kolla alla nya mejl från inkomstskatteavdelning,email_query,0.7935,0.7935,True
+16987,sv-SE,email,email_query,några nya mejl från johan,email_sendemail,0.9997,0.0003,False
+16989,sv-SE,email,email_sendemail,svara på e post från göran jag behöver pengarna nu det är bråttom,email_sendemail,0.987,0.987,True
+16992,sv-SE,email,email_query,har anders olsson mejlat mig,social_post,0.987,0.0,False
+16995,sv-SE,email,email_sendemail,skicka mejl till jesicka,email_sendemail,1.0,1.0,True
+17005,sv-SE,email,email_query,vänligen kolla efter nya mejl,email_query,0.7829,0.7829,True
+17011,sv-SE,email,email_sendemail,kan du skicka ett mejl till,email_sendemail,1.0,1.0,True
+17015,sv-SE,email,email_sendemail,påbörja svar,qa_factoid,0.573,0.0116,False
+17019,sv-SE,email,email_sendemail,skriv ett svar till senaste mejl,email_query,0.6266,0.3726,False
+17020,sv-SE,email,email_sendemail,svara på senaste mottagna mejlet,qa_factoid,0.6906,0.0045,False
+17023,sv-SE,email,email_sendemail,mejla mamma och fråga hur vädret är där,weather_query,0.9985,0.0001,False
+17042,sv-SE,email,email_sendemail,skriv ett emejl till john snabel a. gmail punkt com,email_sendemail,1.0,1.0,True
+17043,sv-SE,email,email_sendemail,skicka mejl till tim på hotmail punkt kom,email_sendemail,1.0,1.0,True
+17051,sv-SE,email,email_query,ge mig nya mejl,iot_hue_lightoff,0.7698,0.0004,False
+17052,sv-SE,email,email_query,sök efter e post från nina,social_post,0.9973,0.0001,False
+17069,sv-SE,email,email_query,är där några nya mejl i outlook,lists_remove,0.7142,0.0943,False
+17075,sv-SE,email,email_query,är där några nya mejl mottagna efter fyra idag,email_sendemail,0.9957,0.0026,False
+17081,sv-SE,email,email_sendemail,skapa ett mejl åt min företagsarbetare med mina nyligen sparade dokument,email_sendemail,1.0,1.0,True
+17087,sv-SE,email,email_query,checka efter mina senaste mejl från sara,email_sendemail,0.5308,0.4692,False
+17098,sv-SE,email,email_query,visa mig alla mejl som mottagits sista timmen,email_sendemail,0.9901,0.0096,False
+17107,sv-SE,email,email_query,kolla nya mejl,email_query,0.96,0.96,True
+17108,sv-SE,email,email_query,ge mig mitt senaste mejl,email_sendemail,0.9747,0.0253,False
+17113,sv-SE,email,email_sendemail,skapa mejl till julia,cooking_recipe,0.7617,0.048,False
+17115,sv-SE,email,email_query,läs lista med nya mejl,email_query,0.9936,0.9936,True
+17116,sv-SE,email,email_query,visa lista över nya mejl,email_query,0.7281,0.7281,True
+17119,sv-SE,email,email_query,checka mejl från amazon,email_query,0.4758,0.4758,True
+17123,sv-SE,email,email_sendemail,skicka emejl till avdelningschef,email_sendemail,1.0,1.0,True
+17135,sv-SE,email,email_query,några spännande nya e post,social_post,0.9881,0.0029,False
+17136,sv-SE,email,email_query,läs mina nya mejl tack,qa_factoid,0.4729,0.0528,False
+17138,sv-SE,email,email_query,snälla arkivera mina lästa meddelanden,social_post,0.6852,0.0032,False
+17142,sv-SE,email,email_query,vad är i min inkorg sedan vi sist kollade,lists_remove,0.3903,0.0384,False
+17143,sv-SE,email,email_sendemail,hej skicka mejl till johan,email_sendemail,1.0,1.0,True
+17144,sv-SE,email,email_query,hej kolla mejl,social_post,0.9976,0.0002,False
+17147,sv-SE,email,email_sendemail,svara mejlet med följande innehåll hej du,email_sendemail,1.0,1.0,True
+17148,sv-SE,email,email_sendemail,alexa svara på mejlet med följande innehåll hej du,email_sendemail,1.0,1.0,True
+17151,sv-SE,email,email_sendemail,min vän johan har skickat mig ett inbjudningskort till hans nyköpta hem säg tack till honom i hans mejl i. d.,email_sendemail,1.0,1.0,True
+17156,sv-SE,email,email_query,kolla min mejl efter några nya mejl från jonathan,email_query,0.2685,0.2685,True
+17157,sv-SE,email,email_query,har jag några nya mejl från jonas,email_sendemail,0.5375,0.4625,False
+17170,sv-SE,email,email_query,meddela mig när jonas mejlar mig,email_sendemail,0.6093,0.0049,False
+17179,sv-SE,email,email_query,har johan skickat ett mejl till mig,email_sendemail,1.0,0.0,False

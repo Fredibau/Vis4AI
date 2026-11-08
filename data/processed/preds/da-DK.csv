@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,da-DK,iot,iot_hue_lightoff,sluk lyset i soveværelset,social_post,0.9968,0.0003,False
+47,da-DK,datetime,datetime_query,hvad er klokken i sydney,weather_query,0.9025,0.046,False
+85,da-DK,datetime,datetime_query,giv mig datoen for i dag,datetime_query,0.8575,0.8575,True
+86,da-DK,datetime,datetime_query,hvad dato er det i dag,qa_factoid,0.9783,0.0118,False
+100,da-DK,weather,weather_query,hvad er ugens udsigt,weather_query,0.9618,0.9618,True
+102,da-DK,weather,weather_query,hvordan er denne uges vejr,weather_query,0.9868,0.9868,True
+103,da-DK,weather,weather_query,fortæl mig om vejret denne uge,weather_query,0.9964,0.9964,True
+128,da-DK,datetime,datetime_query,hvad dato er det,qa_factoid,0.9882,0.0062,False
+151,da-DK,play,play_music,afspil det igen tak,play_music,0.997,0.997,True
+177,da-DK,news,news_query,fortæl mig nogle erhvervs nyheder,news_query,0.6515,0.6515,True
+178,da-DK,news,news_query,fortæl mig internationale nyheder,news_query,0.6252,0.6252,True
+182,da-DK,play,play_music,spil min rock playliste,play_music,0.9855,0.9855,True
+185,da-DK,play,play_music,tænd for min playliste og spil den tredje sang der er i kø,play_music,1.0,1.0,True
+197,da-DK,datetime,datetime_query,hvad er klokken,datetime_query,0.8856,0.8856,True
+216,da-DK,weather,weather_query,hvordan er vejret i dag,weather_query,0.9981,0.9981,True
+219,da-DK,weather,weather_query,bør jeg tage en paraply med i morgen,iot_hue_lightoff,0.9254,0.0132,False
+220,da-DK,play,play_music,spil musik fra min rockliste,play_music,1.0,1.0,True
+250,da-DK,play,play_music,jeg har lyst til jazz lige nu hvad med dig,play_music,0.9682,0.9682,True
+254,da-DK,play,play_music,olly spil en god sang fra min favorit jazz musiker,play_music,0.9999,0.9999,True
+279,da-DK,weather,weather_query,hvad er dagens vejrudsigt for berlin,weather_query,0.9937,0.9937,True
+281,da-DK,news,news_query,hvad er valutakurs fra danske kroner til pund sterling,qa_factoid,0.4616,0.0199,False
+296,da-DK,play,play_music,spil en nirvana playliste,play_music,0.9995,0.9995,True
+297,da-DK,play,play_music,shuffle sange af coldplay,play_music,0.5709,0.5709,True
+299,da-DK,weather,weather_query,hvordan er vejret,weather_query,0.9983,0.9983,True
+310,da-DK,datetime,datetime_query,hvilken dag er nytår i år,weather_query,0.9782,0.0177,False
+319,da-DK,weather,weather_query,fortæl mig vejret i københavn om to dage fra nu,weather_query,0.9998,0.9998,True
+329,da-DK,play,play_music,syv år,qa_factoid,0.4294,0.0174,False
+333,da-DK,weather,weather_query,hvad er vejrforholden i new york,weather_query,0.998,0.998,True
+334,da-DK,weather,weather_query,jeg vil vide vejret i skagen,weather_query,0.9889,0.9889,True
+344,da-DK,weather,weather_query,vil der blive regnvejr i morgen,weather_query,0.9978,0.9978,True
+348,da-DK,weather,weather_query,vil der regne i morgen,weather_query,0.9978,0.9978,True
+355,da-DK,datetime,datetime_query,hvilken dag på ugen er den første april,weather_query,0.9986,0.0003,False
+360,da-DK,datetime,datetime_query,hvad er den aktuelle tid,weather_query,0.6529,0.313,False
+362,da-DK,play,play_music,spil anden sang fra kim larsen sang,play_music,1.0,1.0,True
+366,da-DK,news,news_query,vær venlig at fortælle mig de seneste nyheder,news_query,0.9983,0.9983,True
+369,da-DK,iot,iot_hue_lightoff,sluk for lysene,play_music,0.9973,0.0012,False
+385,da-DK,news,news_query,hvad er sensationet i tid i indien,social_post,0.9664,0.0054,False
+391,da-DK,play,play_music,spil en tilfældig sang fra min playliste,play_music,1.0,1.0,True
+393,da-DK,play,play_music,spil en retro sang fra min playliste,play_music,1.0,1.0,True
+397,da-DK,play,play_music,spil en uvilkårlig sang af joe prsaise,play_music,1.0,1.0,True
+400,da-DK,play,play_music,start afspilning,play_music,0.8587,0.8587,True
+407,da-DK,play,play_music,kan du spille rock musik den næste time,play_music,1.0,1.0,True
+424,da-DK,news,news_query,hvad er de breaking nyheder,news_query,0.9966,0.9966,True
+427,da-DK,iot,iot_hue_lightoff,sluk lysene i badeværelset,iot_hue_lightoff,0.9936,0.9936,True
+428,da-DK,iot,iot_hue_lightoff,sluk for badeværelses lysene,iot_hue_lightoff,0.9905,0.9905,True
+430,da-DK,weather,weather_query,hvordan er vejret lige nu,weather_query,0.9969,0.9969,True
+437,da-DK,play,play_music,åbn nellyville dilemma,qa_factoid,0.5536,0.009,False
+441,da-DK,news,news_query,hvad er de seneste nyhedsoverskrifter,qa_factoid,0.5499,0.026,False
+442,da-DK,news,news_query,hvad sker der i nyhederne,news_query,0.9998,0.9998,True
+451,da-DK,news,news_query,giv mig den seneste aktiekurs vestas,qa_factoid,0.8825,0.0016,False
+473,da-DK,play,play_music,spil the weekend,play_music,0.4154,0.4154,True
+486,da-DK,datetime,datetime_query,hvad tid er det i new york,weather_query,0.9339,0.0075,False
+491,da-DK,weather,weather_query,er det koldt udenfor,weather_query,0.9979,0.9979,True
+506,da-DK,play,play_music,åbn sange fra medina,iot_hue_lightoff,0.6764,0.0617,False
+512,da-DK,weather,weather_query,at få karakterer,qa_factoid,0.6811,0.0038,False
+540,da-DK,play,play_music,spil sang der hedder sung af katy perry,play_music,0.9999,0.9999,True
+555,da-DK,play,play_music,spil øde ø med rasmus seeback,play_podcasts,0.5143,0.1218,False
+576,da-DK,play,play_music,spil alt på playliste,play_music,0.9991,0.9991,True
+585,da-DK,news,news_query,vis seneste nyheder,news_query,0.9923,0.9923,True
+588,da-DK,news,news_query,hvad er de nye nyheder fra i dag,news_query,0.9971,0.9971,True
+590,da-DK,weather,weather_query,hvad er det aktuelle vejr,weather_query,0.9797,0.9797,True
+614,da-DK,play,play_music,start playliste,play_music,0.9867,0.9867,True
+625,da-DK,play,play_music,vær venlig at spille radio gaga sangen,play_music,0.6963,0.6963,True
+631,da-DK,news,news_query,sæt notification på nyheder om dakota pipeline,transport_query,0.9044,0.0288,False
+651,da-DK,iot,iot_hue_lightoff,sluk for værelsets lys,lists_remove,0.9991,0.0004,False
+660,da-DK,datetime,datetime_query,aktuelle tid i japan,iot_hue_lightoff,0.4251,0.1025,False
+680,da-DK,news,news_query,hold mig informeret om prisen på bitcoin,qa_factoid,0.7401,0.0123,False
+686,da-DK,datetime,datetime_query,hvad er klokken lige nu i new york,weather_query,0.9987,0.0001,False
+712,da-DK,news,news_query,jeg vil høre de seneste nyheder fra dr,news_query,0.7955,0.7955,True
+726,da-DK,weather,weather_query,opsummér ugens vejr detaljer,iot_hue_lightoff,0.6859,0.162,False
+730,da-DK,iot,iot_hue_lightoff,sluk for lysene,play_music,0.9973,0.0012,False
+738,da-DK,weather,weather_query,hvor koldt er det udenfor i dag,weather_query,0.9985,0.9985,True
+764,da-DK,weather,weather_query,hvordan er vejrudsigten for denne uge,weather_query,0.9936,0.9936,True
+765,da-DK,news,news_query,kunne du give mig opdaterede nyhedsoverskrifter fra min nyeste udbyder tak,recommendation_events,0.8477,0.0334,False
+767,da-DK,news,news_query,kunen du finde mig de seneste nyheder fra en kilde jeg normalt ikke besøger tak,social_post,0.6849,0.0853,False
+768,da-DK,news,news_query,fortæl mig om de seneste politiske nyheder,news_query,0.994,0.994,True
+779,da-DK,play,play_music,jeg vil høre snow af red hot chili peppers,iot_hue_lightoff,0.82,0.0028,False
+781,da-DK,play,play_music,spil last christmas,calendar_remove,0.2188,0.0292,False
+782,da-DK,play,play_music,spil let me love you af ariana grande,social_post,0.9972,0.0003,False
+783,da-DK,play,play_music,spil kærlighedssange,play_music,0.9937,0.9937,True
+790,da-DK,weather,weather_query,er det mildt eller voldsomt vejr,weather_query,0.9981,0.9981,True
+826,da-DK,weather,weather_query,hvad er den nuværende temperatur udenfor,weather_query,0.9968,0.9968,True
+827,da-DK,play,play_music,spil bob dylan playliste,play_music,0.9995,0.9995,True
+832,da-DK,weather,weather_query,hej hvad vejr vil du forudsige fir i morgen,weather_query,0.9986,0.9986,True
+837,da-DK,news,news_query,hvad er forudsigelserne på d r afstemning for kommende folketingsvalg,recommendation_events,0.2397,0.0409,False
+891,da-DK,play,play_music,spil noget kristen musik,play_music,1.0,1.0,True
+914,da-DK,iot,iot_hue_lightoff,slå lysene fra tak,iot_hue_lightoff,0.9325,0.9325,True
+936,da-DK,play,play_music,åbn op og spil musik fra min løbe playlist,play_music,1.0,1.0,True
+951,da-DK,weather,weather_query,hvordan er vejret lige nu i københavn,weather_query,0.9988,0.9988,True
+969,da-DK,news,news_query,nyheds artikler om et bestemt emne,news_query,1.0,1.0,True
+974,da-DK,datetime,datetime_query,hvad er klokken i new york nu,weather_query,0.9945,0.0024,False
+997,da-DK,iot,iot_hue_lightoff,sluk for stuens lys,play_music,0.5006,0.3559,False
+999,da-DK,iot,iot_hue_lightoff,kunne du slå lyset fra,play_music,0.6876,0.13,False
+1007,da-DK,play,play_music,spil u to fra min rock playliste,play_music,0.9999,0.9999,True
+1014,da-DK,datetime,datetime_query,hvad tid er det i london lige nu,weather_query,0.9748,0.001,False
+1047,da-DK,play,play_music,jeg har brug for en god græder kan du spille sørgelig rock sange,play_music,1.0,1.0,True
+1061,da-DK,news,news_query,hold mig opdateret på sports nyheder,news_query,0.4307,0.4307,True
+1063,da-DK,news,news_query,få besked om sports nyheder hver time,play_podcasts,0.456,0.2461,False
+1084,da-DK,news,news_query,brugervenlig,qa_factoid,0.9615,0.0012,False
+1093,da-DK,news,news_query,gå til washington post website,email_sendemail,1.0,0.0,False
+1098,da-DK,datetime,datetime_query,hvilken dag på ugen falder den femtende marts på,weather_query,0.8659,0.0464,False
+1108,da-DK,play,play_music,mit ønske er at høre noget country musik,play_music,1.0,1.0,True
+1115,da-DK,play,play_music,koordiner alle pop sang genrer,play_music,0.9953,0.9953,True
+1120,da-DK,news,news_query,er der nogen speciel i politik,qa_factoid,0.9951,0.0,False
+1121,da-DK,play,play_music,spil smuk som et stjerneskud med brødrene olsen,play_music,0.9969,0.9969,True
+1123,da-DK,play,play_music,spil justin biebers sorry som det næste,play_music,0.9999,0.9999,True
+1124,da-DK,play,play_music,gør medinas kun for mig klar til at spille som det næste,social_post,0.7463,0.0246,False
+1127,da-DK,play,play_music,spil alle sange på shuffle,play_music,0.9988,0.9988,True
+1144,da-DK,play,play_music,jeg skal bruge noget rap,play_music,0.9975,0.9975,True
+1148,da-DK,datetime,datetime_query,hvad er klokken i sydney nu,weather_query,0.9967,0.0005,False
+1156,da-DK,news,news_query,seneste nyt om den internationale kvinders kampdag,news_query,0.7172,0.7172,True
+1160,da-DK,weather,weather_query,hvor koldt bliver det hver aften denne uge,weather_query,0.999,0.999,True
+1180,da-DK,news,news_query,find dagens d r nyheder artikler om frederiksen,news_query,0.9995,0.9995,True
+1202,da-DK,datetime,datetime_query,nuværende tid i new york,datetime_query,0.3357,0.3357,True
+1238,da-DK,play,play_music,spotify,recommendation_events,0.1339,0.0813,False
+1249,da-DK,weather,weather_query,hvordan forventes vejret at blive denne uge,weather_query,0.9982,0.9982,True
+1252,da-DK,datetime,datetime_query,sig mig den nuværende tid,weather_query,0.6155,0.0532,False
+1294,da-DK,news,news_query,find mig nyheder om academy awards,news_query,0.9971,0.9971,True
+1301,da-DK,news,news_query,fortæl mig om det kommende kommunalvalg,email_sendemail,0.2407,0.2332,False
+1308,da-DK,weather,weather_query,få dagens klima udsigt her,weather_query,0.9935,0.9935,True
+1318,da-DK,play,play_music,start musik app og spil en sang for mig,play_music,1.0,1.0,True
+1351,da-DK,weather,weather_query,vil det være dejligt udenfor denne uge,weather_query,0.7937,0.7937,True
+1371,da-DK,news,news_query,hvad er der på new york times forside,weather_query,0.6925,0.0065,False
+1377,da-DK,iot,iot_hue_lightoff,vær sød at slukke lyset i min søns værelse,iot_hue_lightoff,0.7731,0.7731,True
+1400,da-DK,weather,weather_query,jeg koncentrere mig mest,iot_hue_lightoff,0.5484,0.0323,False
+1401,da-DK,weather,weather_query,jeg er opmærksom til tider,recommendation_events,0.8209,0.002,False
+1404,da-DK,weather,weather_query,kan jeg få vejrudsigten for i morgen her i københavn,weather_query,0.998,0.998,True
+1423,da-DK,news,news_query,fortæl mig om trump,social_post,0.5809,0.0478,False
+1425,da-DK,news,news_query,lad mig vide når du hører om frankrig,social_post,0.9942,0.0047,False
+1440,da-DK,play,play_music,afspil de seneste rock sange vurderet til fire eller mere,play_music,0.9999,0.9999,True
+1449,da-DK,datetime,datetime_query,hvornår er påske i året totusinde og atten,weather_query,0.9995,0.0001,False
+1458,da-DK,weather,weather_query,hvor varmt er det i københavn,weather_query,0.9989,0.9989,True
+1467,da-DK,play,play_music,spil slayer,recommendation_events,0.0919,0.0593,False
+1474,da-DK,news,news_query,hvad er dagens sports nyheder,news_query,0.2925,0.2925,True
+1489,da-DK,play,play_music,spil seneste sange med scarlet plesure,play_music,0.9919,0.9919,True
+1513,da-DK,weather,weather_query,hvad er temperaturen udenfor,weather_query,0.9968,0.9968,True
+1533,da-DK,news,news_query,hvilke nyheder har der været på cnn i dag,news_query,0.9931,0.9931,True
+1537,da-DK,datetime,datetime_query,vis mig den aktuelle tid i grækenland,weather_query,0.9971,0.0002,False
+1542,da-DK,weather,weather_query,solen skinner klart vil vi have det her vejr resten af dagen,weather_query,0.9256,0.9256,True
+1546,da-DK,play,play_music,afspil min sommer jam playliste,play_music,1.0,1.0,True
+1547,da-DK,weather,weather_query,hvordan er vejret for min lokation denne uge,weather_query,0.9988,0.9988,True
+1549,da-DK,weather,weather_query,vil det regne denne uge,weather_query,0.9977,0.9977,True
+1554,da-DK,iot,iot_hue_lightoff,sluk lamperne,iot_hue_lightoff,0.9265,0.9265,True
+1581,da-DK,datetime,datetime_query,hvad er den aktuelle dag måned og år,weather_query,0.8311,0.0085,False
+1589,da-DK,weather,weather_query,bliver det solskin næste tirsdag,weather_query,0.9728,0.9728,True
+1593,da-DK,news,news_query,sæt notifikation fra verdens nyheder,news_query,0.7388,0.7388,True
+1594,da-DK,news,news_query,kan du give mig de seneste nyheder,news_query,0.9945,0.9945,True
+1607,da-DK,datetime,datetime_query,sig mig den aktuelle tid i los angeles,weather_query,0.983,0.0031,False
+1617,da-DK,news,news_query,når kommer et nyt emne om politik så giv mig et varsel,social_post,0.6291,0.0047,False
+1636,da-DK,news,news_query,vis mig de seneste nyheder fra berlingske,news_query,0.5324,0.5324,True
+1653,da-DK,weather,weather_query,hvornår vil det regne næste gang,weather_query,0.9992,0.9992,True
+1655,da-DK,weather,weather_query,kommer det til at sne i morgen ved middagstid,weather_query,0.9976,0.9976,True
+1666,da-DK,news,news_query,d r nyheder fra de sidste seks timer er hvad,datetime_query,0.7175,0.1839,False
+1671,da-DK,play,play_music,spil kun musik udgivet mellem årene et tusind ni hundrede og halvfems og to tusind,play_music,0.9999,0.9999,True
+1683,da-DK,weather,weather_query,morgendagens temperatur bliver varm ja eller nej,weather_query,0.9984,0.9984,True
+1684,da-DK,weather,weather_query,ja eller nej bliver morgendagens temperatur varm,weather_query,0.9987,0.9987,True
+1692,da-DK,play,play_music,find noget blød jazz til mig,play_music,0.9997,0.9997,True
+1722,da-DK,weather,weather_query,hvad er minimum temperaturen i københavn,weather_query,0.9399,0.9399,True
+1750,da-DK,iot,iot_hue_lightoff,sluk alle lysene,iot_hue_lightoff,0.2779,0.2779,True
+1759,da-DK,news,news_query,giv mig nyheder om president trump,news_query,0.9984,0.9984,True
+1760,da-DK,news,news_query,seneste nyheder om terrorisme,news_query,0.633,0.633,True
+1777,da-DK,play,play_music,næste sang,play_music,0.9998,0.9998,True
+1784,da-DK,iot,iot_hue_lightoff,sluk for spisestuen,social_post,0.9648,0.0002,False
+1786,da-DK,iot,iot_hue_lightoff,sluk for soveværelset,social_post,0.2727,0.1393,False
+1794,da-DK,news,news_query,vil trump besøge rusland snart,social_post,0.9716,0.0004,False
+1796,da-DK,datetime,datetime_query,datoen i dag,datetime_query,0.9842,0.9842,True
+1803,da-DK,news,news_query,hvilke hold spiller i premier league i dag,qa_factoid,0.9939,0.0002,False
+1811,da-DK,play,play_music,start playliste og spil musik,play_music,1.0,1.0,True
+1832,da-DK,play,play_music,spil coldplay album,play_radio,0.1597,0.1516,False
+1833,da-DK,play,play_music,kan du sætte playliste temaer i en løkke,iot_hue_lightoff,0.4279,0.0892,False
+1866,da-DK,weather,weather_query,vejrudsigt nu,weather_query,0.9165,0.9165,True
+1870,da-DK,datetime,datetime_query,hvad måned er det i dag,datetime_query,0.9963,0.9963,True
+1904,da-DK,news,news_query,giv mig kampens højdepunkter,iot_hue_lightoff,0.3676,0.0031,False
+1933,da-DK,weather,weather_query,bliver der et fald i temperatur i aften,weather_query,0.9945,0.9945,True
+1940,da-DK,play,play_music,spil sang titel,play_music,1.0,1.0,True
+1962,da-DK,play,play_music,hey google spil playliste skør i min gaana app,recommendation_events,0.8694,0.0063,False
+1994,da-DK,play,play_music,kan du åbne min itunes,iot_hue_lightoff,0.9366,0.0056,False
+1995,da-DK,play,play_music,spil the beatles,play_music,0.7834,0.7834,True
+2007,da-DK,play,play_music,spil wake me up tak,iot_hue_lightoff,0.8045,0.0108,False
+2062,da-DK,play,play_music,jeg vil have spillet noget jazz musik,play_music,0.9999,0.9999,True
+2085,da-DK,play,play_music,alexa jeg vil gerne høre klassisk musik bare ikke bach eller schubert,play_music,0.9999,0.9999,True
+2098,da-DK,news,news_query,hvad sker der i verden disse dage,weather_query,0.6939,0.008,False
+2108,da-DK,play,play_music,spil summer lovin bagefter,social_post,0.6785,0.0782,False
+2113,da-DK,recommendation,recommendation_events,fortæl mig alle de aktuelle begivenheder i min hjemby,lists_remove,0.1624,0.1025,False
+2146,da-DK,datetime,datetime_query,hvad dato er det vintersolhverv om to år,qa_factoid,0.8336,0.0385,False
+2156,da-DK,datetime,datetime_query,jeg skal vide hvad tid det er lige nu hvad er det,weather_query,0.5671,0.4098,False
+2160,da-DK,iot,iot_hue_lightoff,jeg går i seng nu,calendar_remove,0.7759,0.0098,False
+2178,da-DK,weather,weather_query,hvad er de aktuelle vejrforhold hvor jeg bor,weather_query,0.9836,0.9836,True
+2198,da-DK,datetime,datetime_query,hvilken dag på ugen var det december fire et tusind nihundrede og otteogtyve,weather_query,0.9247,0.0017,False
+2201,da-DK,news,news_query,cnn overskrifter,qa_factoid,0.9904,0.0002,False
+2203,da-DK,news,news_query,bbc world overskrifter,news_query,0.2589,0.2589,True
+2220,da-DK,weather,weather_query,vejret i paris,weather_query,0.9971,0.9971,True
+2225,da-DK,play,play_music,spil wafande se mig i nat,qa_factoid,0.5362,0.0097,False
+2230,da-DK,iot,iot_hue_lightoff,sluk for køkken lyset,lists_remove,0.6515,0.0152,False
+2237,da-DK,news,news_query,læs mig de seneste internationale nyheder,news_query,0.8985,0.8985,True
+2258,da-DK,weather,weather_query,får jeg brug for en trøje i dag,iot_hue_lightoff,0.2414,0.0293,False
+2265,da-DK,weather,weather_query,fortæl mig hvad vejret laver i thisted lige nu,weather_query,0.997,0.997,True
+2271,da-DK,play,play_music,spil sange jeg har købt og sat som favorit tak,qa_factoid,0.8204,0.0824,False
+2296,da-DK,news,news_query,hold mig opdateret om dagens fodbold resultater,recommendation_events,0.616,0.0127,False
+2298,da-DK,iot,iot_hue_lightoff,lys skal ud nu,iot_hue_lightoff,0.7438,0.7438,True
+2315,da-DK,news,news_query,hvad er nyhederne for i dag,news_query,0.9995,0.9995,True
+2316,da-DK,news,news_query,alexa giv mig nyhedsoverskrifter,email_sendemail,0.9056,0.0055,False
+2320,da-DK,weather,weather_query,hvordan bliver vejret denne fredag,weather_query,0.9987,0.9987,True
+2322,da-DK,weather,weather_query,hvordan bliver vejret i morgen,weather_query,0.9979,0.9979,True
+2330,da-DK,datetime,datetime_query,vis den lokale tid i london lige nu,weather_query,0.9764,0.0008,False
+2384,da-DK,news,news_query,hvad sker der rundt omkring i verden,social_post,0.9642,0.0035,False
+2386,da-DK,news,news_query,giv mig de seneste nyheder,news_query,0.9748,0.9748,True
+2396,da-DK,play,play_music,start celine dion sange,iot_hue_lightoff,0.4918,0.1081,False
+2408,da-DK,play,play_music,søg efter flere sange fra kim larsen,play_music,0.9798,0.9798,True
+2412,da-DK,datetime,datetime_query,kunne du sige mig tiden i london,weather_query,0.9969,0.0028,False
+2423,da-DK,weather,weather_query,giv mig dagens vejrudsigt for new york city tak,weather_query,0.9351,0.9351,True
+2438,da-DK,news,news_query,send tech nyheder,email_sendemail,0.9987,0.0008,False
+2441,da-DK,iot,iot_hue_lightoff,sluk for skurets lys,iot_hue_lightoff,0.3341,0.3341,True
+2472,da-DK,datetime,datetime_query,er den aktuelle tid korrekt for hvor jeg er nu,datetime_query,0.9236,0.9236,True
+2496,da-DK,news,news_query,daglige nyheder,news_query,0.9979,0.9979,True
+2497,da-DK,datetime,datetime_query,hvad er datoen i dag,datetime_query,0.8878,0.8878,True
+2498,da-DK,datetime,datetime_query,siri hvad dato er det i dag,qa_factoid,0.9967,0.0011,False
+2527,da-DK,play,play_music,spil klassisk rock,play_music,0.9998,0.9998,True
+2531,da-DK,play,play_music,alexa afspil en sang med rap og en med rock en efter den anden,play_music,1.0,1.0,True
+2545,da-DK,weather,weather_query,hvordan er vejret,weather_query,0.9983,0.9983,True
+2548,da-DK,news,news_query,alt interessant fra genstart,qa_factoid,0.8331,0.0045,False
+2560,da-DK,play,play_music,afspil tilfældigt musik,play_music,1.0,1.0,True
+2573,da-DK,play,play_music,spil min spotify dance playliste,qa_factoid,0.6519,0.1843,False
+2578,da-DK,iot,iot_hue_lightoff,sluk for veranda lyset,play_music,0.9998,0.0,False
+2588,da-DK,news,news_query,hvad er de seneste nyheder fra d r nyheder tak,news_query,0.9261,0.9261,True
+2594,da-DK,news,news_query,fortæl mig om de seneste klima nyheder,weather_query,0.3929,0.1222,False
+2605,da-DK,play,play_music,spil min favorit musik nu,play_music,0.9997,0.9997,True
+2611,da-DK,weather,weather_query,nuværende vejrudsigt,weather_query,0.3647,0.3647,True
+2615,da-DK,weather,weather_query,vil jeg være nødt til at have jakke på næste onsdag,qa_factoid,0.9116,0.0294,False
+2638,da-DK,news,news_query,vis mig de seneste nyheder om trump,news_query,0.9983,0.9983,True
+2639,da-DK,news,news_query,vis mig nyheder om miljøet,news_query,0.8972,0.8972,True
+2651,da-DK,news,news_query,seneste nyheder fra området,news_query,0.9984,0.9984,True
+2678,da-DK,weather,weather_query,er der regnvejr i aften,weather_query,0.9995,0.9995,True
+2679,da-DK,weather,weather_query,vil temperaturen forblive omkring det samme eller bliver det koldere,weather_query,0.9787,0.9787,True
+2703,da-DK,play,play_music,spil folk musik tak,play_music,1.0,1.0,True
+2704,da-DK,play,play_music,lad os høre noget indie rock ok,play_music,1.0,1.0,True
+2708,da-DK,play,play_music,olly jeg har lyst til at danse spil mig noget rock north roll,play_music,0.9999,0.9999,True
+2709,da-DK,play,play_music,olly jeg har brug for at høre sørgelige sange i dag,play_music,0.9997,0.9997,True
+2711,da-DK,iot,iot_hue_lightoff,slå lysene fra,iot_hue_lightoff,0.9558,0.9558,True
+2717,da-DK,play,play_music,jeg vil høre purple haze,iot_hue_lightoff,0.9218,0.0002,False
+2724,da-DK,news,news_query,giv mig nyheder fra t. v. to nyheder,news_query,0.5328,0.5328,True
+2770,da-DK,play,play_music,olly spil jazz musik fra medina,play_music,1.0,1.0,True
+2774,da-DK,iot,iot_hue_lightoff,sluk lysene,iot_hue_lightoff,0.8049,0.8049,True
+2775,da-DK,iot,iot_hue_lightoff,afbryd brugen af lys,lists_remove,0.4261,0.293,False
+2777,da-DK,weather,weather_query,skal jeg tage paraply med i dag,iot_hue_lightoff,0.9083,0.0032,False
+2781,da-DK,play,play_music,spil noget jazz musik tak,play_music,1.0,1.0,True
+2798,da-DK,play,play_music,alexa spil sang over the rainbow,play_music,1.0,1.0,True
+2801,da-DK,datetime,datetime_query,hvad tid er det i london,weather_query,0.8838,0.0047,False
+2824,da-DK,datetime,datetime_query,hvilken dag er det den trettende december,weather_query,0.9998,0.0001,False
+2840,da-DK,datetime,datetime_query,den anden i næste måned lander på hvilken dag,weather_query,0.9342,0.0529,False
+2859,da-DK,datetime,datetime_query,olly hvad tid er det i denne by,weather_query,0.9899,0.0024,False
+2887,da-DK,news,news_query,vis mig artikler om vejr i morgennyhederne,news_query,0.999,0.999,True
+2890,da-DK,weather,weather_query,det nuværende vejr,weather_query,0.869,0.869,True
+2898,da-DK,news,news_query,er der nogen opdateringer i forhold til valget,news_query,0.0981,0.0981,True
+2914,da-DK,datetime,datetime_query,sig mig hvad datoen er i dag,qa_factoid,0.9073,0.0856,False
+2917,da-DK,weather,weather_query,ugentlig vejrudsigt,qa_factoid,0.5688,0.0765,False
+2921,da-DK,news,news_query,hvad er der af nyhedshistorier på cnns website,play_podcasts,0.8982,0.0853,False
+2927,da-DK,datetime,datetime_query,hvad tid er det i texas,iot_hue_lightoff,0.839,0.0032,False
+2931,da-DK,play,play_music,spil midt om natten som det næste,play_music,0.9567,0.9567,True
+2962,da-DK,play,play_music,spil en sang af bruno mars tak,play_music,1.0,1.0,True
+2965,da-DK,iot,iot_hue_lightoff,slå kontor lysene fra,iot_hue_lightoff,0.7888,0.7888,True
+3002,da-DK,play,play_music,spil sange af beatles,play_music,0.9995,0.9995,True
+3031,da-DK,play,play_music,jeg vil høre den sang igen,play_music,1.0,1.0,True
+3034,da-DK,weather,weather_query,fortæl mig temperaturen,weather_query,0.7096,0.7096,True
+3037,da-DK,news,news_query,forside nyheds artikler tak,news_query,0.9659,0.9659,True
+3039,da-DK,news,news_query,hvad er der af nyt i nyhederne,news_query,0.9996,0.9996,True
+3060,da-DK,news,news_query,hvad er nyhederne fra den nyhedskilde,news_query,0.9998,0.9998,True
+3091,da-DK,datetime,datetime_query,hvad tid er det i stillehav standardtid,weather_query,0.9401,0.0088,False
+3096,da-DK,weather,weather_query,hvordan er vejret i nibe,weather_query,0.9985,0.9985,True
+3098,da-DK,iot,iot_hue_lightoff,sluk lysene off,iot_hue_lightoff,0.9996,0.9996,True
+3099,da-DK,news,news_query,vis mig nogle nuværende begivenheder,news_query,0.2786,0.2786,True
+3101,da-DK,news,news_query,olly tænd for nyhederne,news_query,0.9586,0.9586,True
+3116,da-DK,play,play_music,spil min favorit sang fra sidste år,play_music,1.0,1.0,True
+3117,da-DK,play,play_music,spil noget fra rasmus nøhrs lykkelig smutning og seebacks album,play_music,1.0,1.0,True
+3118,da-DK,datetime,datetime_query,hvad er eastern standard tid lige nu,weather_query,0.9917,0.0001,False
+3124,da-DK,play,play_music,spil en tilfældig sang fra min playliste,play_music,1.0,1.0,True
+3146,da-DK,play,play_music,spil nummer et fra min david bowie playliste,play_music,1.0,1.0,True
+3167,da-DK,iot,iot_hue_lightoff,sluk for mit soveværelses,social_post,0.8578,0.0013,False
+3174,da-DK,play,play_music,spil musik playliste,play_music,1.0,1.0,True
+3205,da-DK,play,play_music,spil poker face af lady gaga,qa_factoid,0.7761,0.0803,False
+3207,da-DK,play,play_music,stream poker face af lady gaga,qa_factoid,0.9574,0.0027,False
+3212,da-DK,calendar,calendar_set,påmind mig om at gøre noget der,qa_factoid,0.7355,0.0004,False
+3214,da-DK,news,news_query,hvad er den aktuelle tilstand af undersøgelse af trumps bånd til rusland,qa_factoid,0.6822,0.0092,False
+3228,da-DK,datetime,datetime_query,hvilken dag på ugen falder jul i år,weather_query,0.9978,0.0003,False
+3253,da-DK,weather,weather_query,bør vi forvente regn denne eftermiddag,weather_query,0.9902,0.9902,True
+3264,da-DK,play,play_music,spil reggae musik,play_music,0.9998,0.9998,True
+3305,da-DK,weather,weather_query,hvordan er vejret denne uge i miami,weather_query,0.9985,0.9985,True
+3306,da-DK,weather,weather_query,hvad er vejrudsigten for ugen,weather_query,0.8375,0.8375,True
+3329,da-DK,news,news_query,jeg vil se nyheder,news_query,0.9921,0.9921,True
+3337,da-DK,weather,weather_query,rappoter vejret for treogtredive tusind syv hundrede og halvfjers,weather_query,0.9983,0.9983,True
+3338,da-DK,weather,weather_query,sig vejret for vejle,weather_query,0.8261,0.8261,True
+3361,da-DK,datetime,datetime_query,hvad dato er det næste tirsdag,qa_factoid,0.9996,0.0003,False
+3378,da-DK,iot,iot_hue_lightoff,ingen lys i køkkenet,iot_hue_lightoff,0.6532,0.6532,True
+3386,da-DK,iot,iot_hue_lightoff,skru lysene ned på medium,iot_hue_lightoff,0.9961,0.9961,True
+3400,da-DK,play,play_music,spil en live version af elton john,play_podcasts,0.5513,0.3907,False
+3401,da-DK,play,play_music,spil den mest populære elton john sang,play_music,1.0,1.0,True
+3406,da-DK,weather,weather_query,hvordan er vejrprognosen for de næste ti dage,weather_query,0.9964,0.9964,True
+3407,da-DK,weather,weather_query,er der forudsigelse for regn eller sne i denne uge,weather_query,0.999,0.999,True
+3408,da-DK,weather,weather_query,bliver vejret godt i weekenden,weather_query,0.9918,0.9918,True
+3426,da-DK,weather,weather_query,hvor mange grader er det udenfor,qa_factoid,0.8984,0.005,False
+3433,da-DK,play,play_music,ny pop musik,play_music,0.9998,0.9998,True
+3434,da-DK,play,play_music,bedste rap musik,play_music,0.9993,0.9993,True
+3441,da-DK,datetime,datetime_query,er den toogtyvende på en onsdag,weather_query,0.5648,0.0009,False
+3444,da-DK,datetime,datetime_query,er den ti,qa_factoid,0.9963,0.0001,False
+3447,da-DK,weather,weather_query,kalder vejret på regn lørdag,weather_query,0.9986,0.9986,True
+3481,da-DK,play,play_music,spil den mest populære sang af given artist,play_music,1.0,1.0,True
+3489,da-DK,play,play_music,spil musik nu tak,play_music,1.0,1.0,True
+3492,da-DK,play,play_music,lad os spille min mest spillede sang liste,play_music,0.9998,0.9998,True
+3503,da-DK,weather,weather_query,hvordan er vejret i århus,weather_query,0.9992,0.9992,True
+3507,da-DK,weather,weather_query,er der sne i vejrudsigten,weather_query,0.9947,0.9947,True
+3513,da-DK,play,play_music,spil kun min liste,qa_factoid,0.6158,0.0,False
+3516,da-DK,weather,weather_query,hvad er risikoen for nedbør i dagens vejr,qa_factoid,0.5892,0.3675,False
+3539,da-DK,play,play_music,vær venlig at spille shake it off af taylor swift,play_music,0.9834,0.9834,True
+3546,da-DK,play,play_music,jeg vil gerne høre noget jazz musik,play_music,1.0,1.0,True
+3550,da-DK,play,play_music,spil noget led zeppelin,play_music,0.8606,0.8606,True
+3554,da-DK,play,play_music,kan du sætte kærlighed playlisten på,play_music,0.9993,0.9993,True
+3562,da-DK,play,play_music,spil one more time,play_music,0.5259,0.5259,True
+3566,da-DK,datetime,datetime_query,hvad er den nuværende tid i bangkok,weather_query,0.9972,0.0005,False
+3570,da-DK,iot,iot_hue_lightoff,vær sød at slukke for lysene på terrasse,iot_hue_lightoff,0.9884,0.9884,True
+3576,da-DK,news,news_query,hvad er den seneste historie fra fox news,news_query,0.9694,0.9694,True
+3586,da-DK,weather,weather_query,hvordan er vejret i beijing,weather_query,0.9972,0.9972,True
+3600,da-DK,calendar,calendar_set,påmind mig om ti minutter,datetime_query,0.377,0.0025,False
+3603,da-DK,news,news_query,hvad er de seneste nyheder fra information,news_query,0.9934,0.9934,True
+3605,da-DK,news,news_query,hvad er de seneste nyheder på cnn,news_query,0.9977,0.9977,True
+3606,da-DK,datetime,datetime_query,hvad er klokken i beijing,datetime_query,0.4443,0.4443,True
+3614,da-DK,weather,weather_query,er det en solrig dag i dag,weather_query,0.6519,0.6519,True
+3623,da-DK,news,news_query,hvad foregår der i verden i dag,social_post,0.5895,0.0818,False
+3624,da-DK,news,news_query,nyheder fra c n n,news_query,0.9998,0.9998,True
+3631,da-DK,play,play_music,hey google spil noget jazz musik for mig,play_music,1.0,1.0,True
+3686,da-DK,play,play_music,tænd for den playliste jeg har dedikeret til rock musik,play_music,0.9988,0.9988,True
+3714,da-DK,play,play_music,spil min playlist med start fra bunden,play_music,1.0,1.0,True
+3717,da-DK,play,play_music,spil mine halvfemser rap hits tak,play_music,1.0,1.0,True
+3723,da-DK,play,play_music,jeg vil gerne høre aretha franklins call me efter denne sang,play_music,1.0,1.0,True
+3725,da-DK,datetime,datetime_query,i dag er hvilken dato,qa_factoid,0.6048,0.394,False
+3727,da-DK,play,play_music,spil hey brother af avicii,social_post,0.9986,0.0002,False
+3750,da-DK,news,news_query,olly hvis der kommer nogle nye nyheder om oversvømmelserne kan du give mig besked med det samme,email_sendemail,0.9991,0.0003,False
+3779,da-DK,play,play_music,afspil youtube playlisten blank,play_music,0.9981,0.9981,True
+3780,da-DK,play,play_music,spil min midnight love playliste,play_music,0.9066,0.9066,True
+3784,da-DK,weather,weather_query,giv mig en vejrudsigt for las vegas,recommendation_events,0.8524,0.0037,False
+3785,da-DK,iot,iot_hue_lightoff,sluk badeværelses lyset tak,lists_remove,0.9994,0.0,False
+3822,da-DK,news,news_query,find information om biler til mig,email_sendemail,1.0,0.0,False
+3852,da-DK,weather,weather_query,hvad slags vejr har de på møns klint lige nu,weather_query,0.9958,0.9958,True
+3859,da-DK,play,play_music,sæt min favorit rap musik playliste på,play_music,0.9997,0.9997,True
+3907,da-DK,play,play_music,spil sidste års hits for mig,play_music,0.5862,0.5862,True
+3911,da-DK,play,play_music,jeg vil høre hvilke som helst sange der fik grammyer dette år,play_music,0.9999,0.9999,True
+3912,da-DK,play,play_music,jeg vil gerne høre musik fra dance and country,play_music,1.0,1.0,True
+3936,da-DK,weather,weather_query,hvad er temperaturen,weather_query,0.4454,0.4454,True
+3960,da-DK,datetime,datetime_query,sig tiden,iot_hue_lightoff,0.675,0.1378,False
+3967,da-DK,play,play_music,rap,qa_factoid,0.5852,0.0441,False
+3980,da-DK,play,play_music,spil shape of you af said sheeran tak,qa_factoid,0.8039,0.0048,False
+3982,da-DK,play,play_music,vær venlig at vælge første sang i mit itunes library,play_music,0.9997,0.9997,True
+3993,da-DK,iot,iot_hue_lightoff,kan du få lysene til at gå ud,iot_hue_lightoff,0.9923,0.9923,True
+3995,da-DK,datetime,datetime_query,olly hvilken ugedag er det halloween,weather_query,0.9975,0.0006,False
+4001,da-DK,news,news_query,hvad skete der på walking dead,social_post,0.9889,0.0002,False
+4023,da-DK,news,news_query,hvad er der i nyhederne,news_query,0.9997,0.9997,True
+4031,da-DK,play,play_music,spil stupid man,qa_factoid,0.7897,0.0191,False
+4040,da-DK,play,play_music,spil den sang jeg lytter til mest,play_music,1.0,1.0,True
+4058,da-DK,play,play_music,jeg vil gerne høre noget rap musik,play_music,1.0,1.0,True
+4073,da-DK,datetime,datetime_query,hvilken dag er den femte,weather_query,0.9929,0.0006,False
+4077,da-DK,iot,iot_hue_lightoff,slå køkken lysene fra,calendar_remove,0.6612,0.1186,False
+4088,da-DK,iot,iot_hue_lightoff,sluk for lofts lyset,play_music,0.9991,0.0001,False
+4104,da-DK,weather,weather_query,hvordan bliver vejret i dag i berlin,weather_query,0.9983,0.9983,True
+4116,da-DK,play,play_music,spil min shuffle playliste tak,qa_factoid,0.7966,0.051,False
+4119,da-DK,news,news_query,jeg vil vide alt hvad der kommer om dæmningen der gik i stykker i californien,news_query,0.7514,0.7514,True
+4132,da-DK,weather,weather_query,fortæl mig chancen for regn i seattle washington i dag i procenter,weather_query,0.9985,0.9985,True
+4136,da-DK,play,play_music,kan du spille volbeat tak,play_music,0.9885,0.9885,True
+4152,da-DK,play,play_music,spil den sang der hedder dejavu tak,play_music,1.0,1.0,True
+4168,da-DK,weather,weather_query,tjek vejret i midtjylland tak,weather_query,0.9964,0.9964,True
+4171,da-DK,iot,iot_hue_lightoff,sluk lysene i køkkenet,iot_hue_lightoff,0.953,0.953,True
+4177,da-DK,news,news_query,giv mig de seneste politiske overskrifter fra hele verden,social_post,0.9954,0.0001,False
+4178,da-DK,news,news_query,er der nogle nyheder om statsministeren,news_query,0.9986,0.9986,True
+4183,da-DK,datetime,datetime_query,aktuel tid new york,weather_query,0.9787,0.0012,False
+4186,da-DK,datetime,datetime_query,hey olly hvad er klokken,weather_query,0.8324,0.0638,False
+4187,da-DK,datetime,datetime_query,hej siri hvad er klokken,weather_query,0.9873,0.0017,False
+4205,da-DK,play,play_music,jeg vil høre fast car af jonas blue,play_radio,0.7155,0.2458,False
+4212,da-DK,weather,weather_query,kommer jeg til at være i stand til at slå græsset i aften,iot_hue_lightoff,0.9482,0.0056,False
+4227,da-DK,weather,weather_query,er der regn i vejrudsigten for næste uge,weather_query,0.9986,0.9986,True
+4232,da-DK,play,play_music,spil if i were a boy af beyonce,play_music,0.5191,0.5191,True
+4236,da-DK,datetime,datetime_query,er det eftermiddag endnu,weather_query,0.9641,0.0016,False
+4253,da-DK,datetime,datetime_query,hvad er den nuværende tid i østlige standard,weather_query,0.9866,0.0005,False
+4254,da-DK,datetime,datetime_query,hvad tid er det på østkysten i usa,datetime_query,0.3428,0.3428,True
+4258,da-DK,news,news_query,hvad er de seneste nyheder,news_query,0.9807,0.9807,True
+4266,da-DK,weather,weather_query,hvad er vejret i dag,weather_query,0.9988,0.9988,True
+4273,da-DK,play,play_music,spil sangen for evigt,play_music,1.0,1.0,True
+4290,da-DK,weather,weather_query,skal jeg tage en jakke med i aften,iot_hue_lightoff,0.4193,0.0177,False
+4305,da-DK,play,play_music,spil sang øde ø af rasmus seeback,play_music,0.8572,0.8572,True
+4309,da-DK,datetime,datetime_query,om hvor mange timer er det midnat i london england,weather_query,0.9937,0.0048,False
+4312,da-DK,weather,weather_query,bliver vejret mindre end ti grader i paris,weather_query,0.9984,0.9984,True
+4313,da-DK,weather,weather_query,kommer der regn i morgen i rom,weather_query,0.9986,0.9986,True
+4336,da-DK,datetime,datetime_query,hvad er klokken i kina,iot_hue_lightoff,0.3423,0.1301,False
+4346,da-DK,iot,iot_hue_lightoff,slå lysene fra,iot_hue_lightoff,0.9558,0.9558,True
+4347,da-DK,iot,iot_hue_lightoff,lys skal ikke være i drift,iot_hue_lightoff,0.7662,0.7662,True
+4355,da-DK,weather,weather_query,hvordan er vejret hvor jeg er,weather_query,0.9965,0.9965,True
+4361,da-DK,play,play_music,giv mig nogle gode lyde,play_music,0.9849,0.9849,True
+4362,da-DK,datetime,datetime_query,hvad tid er det i cleveland,weather_query,0.8519,0.0035,False
+4376,da-DK,weather,weather_query,hvordan er det udenfor i dag,social_post,0.7025,0.0533,False
+4377,da-DK,weather,weather_query,hvad er det nuværende vejr,weather_query,0.997,0.997,True
+4383,da-DK,weather,weather_query,hvordan bliver vejret i morgen,weather_query,0.9979,0.9979,True
+4391,da-DK,news,news_query,hvad er overskrifterne på c n n,iot_hue_lightoff,0.2817,0.0294,False
+4400,da-DK,news,news_query,hvad er trending artikler på politiken,social_post,0.9912,0.0001,False
+4402,da-DK,weather,weather_query,får jeg brug for at bære en paraply rundt i dag,iot_hue_lightoff,0.4973,0.0192,False
+4412,da-DK,weather,weather_query,hvordan er vejret i kolding,weather_query,0.9985,0.9985,True
+4436,da-DK,weather,weather_query,hvilken jakke bør jeg tage på,qa_factoid,0.8548,0.0022,False
+4439,da-DK,weather,weather_query,hvordan er vejret i aarhus,weather_query,0.9983,0.9983,True
+4449,da-DK,weather,weather_query,vil det begynde at regne klokken tretten i dag,weather_query,0.9979,0.9979,True
+4452,da-DK,play,play_music,spil sange,iot_hue_lightoff,0.4803,0.0235,False
+4463,da-DK,datetime,datetime_query,hvor mange lørdage er der i marts,weather_query,0.7879,0.0113,False
+4477,da-DK,play,play_music,spil sang som det næste,play_music,1.0,1.0,True
+4482,da-DK,weather,weather_query,er det nødvendigt at skovle min indkørsel her til morgen,iot_hue_lightoff,0.9646,0.0015,False
+4486,da-DK,weather,weather_query,giv mig vejrudsigten for denne uge,weather_query,0.8373,0.8373,True
+4487,da-DK,weather,weather_query,vil det regne på torsdag,weather_query,0.9986,0.9986,True
+4491,da-DK,news,news_query,hvad er de seneste nyheder om donald trump,news_query,0.9994,0.9994,True
+4492,da-DK,news,news_query,hvad er den seneste kriminal statistik for mit område,news_query,0.7614,0.7614,True
+4496,da-DK,news,news_query,hvad postede vogue i dag,social_post,0.9822,0.0005,False
+4502,da-DK,datetime,datetime_query,hej hvad er klokken i london nu,weather_query,0.9989,0.0001,False
+4524,da-DK,weather,weather_query,olly hvad er vejrudsigten for i dag,weather_query,0.9988,0.9988,True
+4547,da-DK,play,play_music,start hundeluftning playliste,play_music,0.8904,0.8904,True
+4567,da-DK,news,news_query,læs mig de seneste overskrifter fra d r d k,play_podcasts,0.9372,0.0446,False
+4580,da-DK,datetime,datetime_query,hvad er klokken i chicago,datetime_query,0.472,0.472,True
+4587,da-DK,play,play_music,spil mine favoritter,qa_factoid,0.9994,0.0,False
+4589,da-DK,calendar,calendar_set,lav notifikation for sportskamp,qa_factoid,0.675,0.0009,False
+4606,da-DK,news,news_query,find information om dagens aktier,social_post,0.7752,0.0279,False
+4614,da-DK,weather,weather_query,vil temperaturen komme over fyrre i morgen,weather_query,0.9987,0.9987,True
+4662,da-DK,news,news_query,nyheder fra d r alexa,news_query,0.9984,0.9984,True
+4667,da-DK,datetime,datetime_query,aktuelle tid i,qa_factoid,0.514,0.1659,False
+4680,da-DK,weather,weather_query,skal jeg have sandaler eller sko med sokker på,qa_factoid,0.2388,0.0245,False
+4689,da-DK,weather,weather_query,kender du vejret,weather_query,0.5389,0.5389,True
+4692,da-DK,play,play_music,spil en sang af van halen for mig,play_music,1.0,1.0,True
+4710,da-DK,datetime,datetime_query,hvilken dag er halloween på i år,weather_query,0.9932,0.0053,False
+4764,da-DK,weather,weather_query,kommer det til at regne på mandag,weather_query,0.978,0.978,True
+4767,da-DK,news,news_query,er der noget ny information angående muren mellem u s a og mexico,news_query,0.732,0.732,True
+4772,da-DK,datetime,datetime_query,sig mig tiden i denne tidszone,weather_query,0.4316,0.128,False
+4780,da-DK,datetime,datetime_query,hvilken dag falder min fødselsdag på dette år den syvogtyvende juni,weather_query,0.9882,0.0105,False
+4784,da-DK,weather,weather_query,behøver jeg en jakke,qa_factoid,0.9753,0.001,False
+4813,da-DK,datetime,datetime_query,hvilken tid er det i en anden by,weather_query,0.9703,0.0028,False
+4837,da-DK,news,news_query,olly er der nogen nyheder,weather_query,0.9969,0.0006,False
+4838,da-DK,play,play_music,spil al musik med allan olsen,play_music,1.0,1.0,True
+4871,da-DK,weather,weather_query,hvordan er det udenfor,qa_factoid,0.9992,0.0,False
+4881,da-DK,datetime,datetime_query,søg efter den aktuelle lokale klokkeslæt og tidszone,weather_query,0.7234,0.1407,False
+4882,da-DK,datetime,datetime_query,hvad tid er det i en by,qa_factoid,0.4946,0.0437,False
+4890,da-DK,calendar,calendar_set,sæt note om de nuværende vejr katastrofer i amerika,weather_query,0.9797,0.0004,False
+4909,da-DK,play,play_music,spil sange af anne linnet,play_music,1.0,1.0,True
+4917,da-DK,weather,weather_query,temperatur udenfor,qa_factoid,0.9992,0.0001,False
+4928,da-DK,play,play_music,spil mit soundtrack,play_music,0.9994,0.9994,True
+4933,da-DK,weather,weather_query,vil det regne nu,weather_query,0.9809,0.9809,True
+4951,da-DK,datetime,datetime_query,jeg vil gerne vide hvad klokken er lige nu,weather_query,0.9949,0.0029,False
+4953,da-DK,news,news_query,nyheder om togulykken,news_query,0.9993,0.9993,True
+4957,da-DK,datetime,datetime_query,hvilken dag på ugen er den treogtyvende denne måned,weather_query,0.9979,0.0002,False
+4960,da-DK,play,play_music,musik johnny madsen,play_music,0.9991,0.9991,True
+4968,da-DK,qa,qa_factoid,hvem vandt præsidentvalget i år,qa_factoid,0.9995,0.9995,True
+4973,da-DK,play,play_music,olly afspil kvinde min,qa_factoid,0.9997,0.0,False
+4998,da-DK,play,play_music,tilføj denne sang som den næste afspillede sang,play_music,0.9998,0.9998,True
+5009,da-DK,weather,weather_query,får jeg brug for en paraply denne uge,iot_hue_lightoff,0.7511,0.0105,False
+5016,da-DK,news,news_query,giv mig nyheder om aktiemarkedets op og nedture,recommendation_events,0.5792,0.1133,False
+5027,da-DK,datetime,datetime_query,hvornår er den næste fredag den trettende,weather_query,0.9995,0.0,False
+5037,da-DK,weather,weather_query,hvor koldt er det i dag,weather_query,0.9976,0.9976,True
+5038,da-DK,weather,weather_query,hvordan er vejret i denne uge,weather_query,0.9982,0.9982,True
+5040,da-DK,weather,weather_query,hvad er vejret nu,weather_query,0.9985,0.9985,True
+5062,da-DK,play,play_music,spil sange fra firserne for mig tak,play_music,0.9987,0.9987,True
+5074,da-DK,weather,weather_query,hvordan er vejret for denne uge,weather_query,0.9984,0.9984,True
+5085,da-DK,weather,weather_query,hvad er udsigten for lørdag,weather_query,0.9991,0.9991,True
+5118,da-DK,play,play_music,ingen ved,lists_remove,0.4686,0.0149,False
+5127,da-DK,news,news_query,her er sandheden om mad på hjul i nogens budget,qa_factoid,0.9602,0.0001,False
+5131,da-DK,datetime,datetime_query,sig mig hvad tiden er i san francisco tak,weather_query,0.9982,0.0003,False
+5134,da-DK,play,play_music,find sange fra min big band playliste,play_podcasts,0.5415,0.3722,False
+5156,da-DK,iot,iot_hue_lightoff,slå lyset fra i stuen,play_music,0.6966,0.0696,False
+5157,da-DK,iot,iot_hue_lightoff,olly slå lyset fra i stuen,play_music,0.9997,0.0002,False
+5158,da-DK,play,play_music,spil den seneste sang fra albummet abbas,play_music,1.0,1.0,True
+5159,da-DK,play,play_music,kan du spille den næste sang fra kunstneren madonna,play_music,1.0,1.0,True
+5160,da-DK,play,play_music,kunne spille en sang af michael jackson tak,play_music,0.9999,0.9999,True
+5176,da-DK,weather,weather_query,hvad for en slags vejr burde jeg forvente denne uge,weather_query,0.9974,0.9974,True
+5196,da-DK,news,news_query,jeg vil gerne høre om brexit,qa_factoid,0.9208,0.0001,False
+5225,da-DK,datetime,datetime_query,hvad dato er det næste onsdag,qa_factoid,0.9999,0.0001,False
+5243,da-DK,iot,iot_hue_lightoff,siri slå lysene fra på badeværelset,iot_hue_lightoff,0.9951,0.9951,True
+5245,da-DK,news,news_query,sæt notifikation på om miljø nyheder,email_sendemail,0.9828,0.0002,False
+5270,da-DK,news,news_query,hvad er de nuværende breaking nyheder,news_query,0.9711,0.9711,True
+5278,da-DK,play,play_music,spil kun musik af pop mix,play_music,1.0,1.0,True
+5279,da-DK,play,play_music,spil kun sørgelig sange i music player tak,play_music,0.9999,0.9999,True
+5286,da-DK,news,news_query,vis politikens nyheder om migration,news_query,0.9786,0.9786,True
+5296,da-DK,news,news_query,olly find mig de populære nyheder fra d r,lists_query,0.667,0.0099,False
+5297,da-DK,news,news_query,giv mig de populære nyheder t v to news,news_query,1.0,1.0,True
+5301,da-DK,weather,weather_query,hvordan vil vejret blive den tyvende marts tyve to og tyve,weather_query,0.9995,0.9995,True
+5307,da-DK,datetime,datetime_query,er det den tyvende marts i dag,weather_query,0.996,0.0002,False
+5318,da-DK,play,play_music,spil kun thomas helmig sange tak,cooking_recipe,0.4348,0.0213,False
+5321,da-DK,weather,weather_query,vis vejr,qa_factoid,0.6753,0.314,False
+5328,da-DK,play,play_music,spil rock,qa_factoid,0.1376,0.068,False
+5339,da-DK,weather,weather_query,lav nedkøling tilstand,iot_hue_lightoff,0.5214,0.0164,False
+5341,da-DK,datetime,datetime_query,advar mig om tiden tak,weather_query,0.9654,0.0207,False
+5347,da-DK,play,play_music,spil techno musik,play_music,0.9999,0.9999,True
+5358,da-DK,datetime,datetime_query,opdater til aktuel tid,datetime_query,0.727,0.727,True
+5370,da-DK,news,news_query,hvad er den seneste trump kontrovers,social_post,0.7333,0.0004,False
+5378,da-DK,play,play_music,s,qa_factoid,0.1568,0.0405,False
+5401,da-DK,play,play_music,musik,play_music,0.9985,0.9985,True
+5410,da-DK,news,news_query,læs de seneste new york times overskrifter for mig,news_query,0.4261,0.4261,True
+5411,da-DK,news,news_query,hvad er top historierne fra cnn,iot_hue_lightoff,0.4091,0.3802,False
+5413,da-DK,play,play_music,spil musik,play_music,1.0,1.0,True
+5414,da-DK,play,play_music,vil du sætte musik på,play_music,0.9954,0.9954,True
+5427,da-DK,datetime,datetime_query,hvad tid er det i canada lige nu,weather_query,0.993,0.0002,False
+5433,da-DK,weather,weather_query,kommer det til at regne senere,weather_query,0.991,0.991,True
+5439,da-DK,weather,weather_query,har jeg brug for en paraply til om natten,iot_hue_lightoff,0.8344,0.0062,False
+5465,da-DK,weather,weather_query,kan jeg have mine sandaler på i dag,recommendation_events,0.679,0.0008,False
+5468,da-DK,weather,weather_query,er jeg nødt til at tage solbriller med,lists_remove,0.3014,0.0083,False
+5524,da-DK,weather,weather_query,vejret i øjeblikket,weather_query,0.9941,0.9941,True
+5529,da-DK,weather,weather_query,hvad tid skal jeg gå på vandretur,datetime_query,0.3809,0.2343,False
+5557,da-DK,play,play_music,jeg vil have reggae,play_music,0.9946,0.9946,True
+5577,da-DK,weather,weather_query,skal jeg bruge en vindjakke hvis det er for stormfuldt i aften,weather_query,0.4501,0.4501,True
+5578,da-DK,weather,weather_query,jeg skal bruge varme sokker når det er vinter om morgenen,weather_query,0.9673,0.9673,True
+5584,da-DK,iot,iot_hue_lightoff,sluk for lysene,play_music,0.9973,0.0012,False
+5590,da-DK,weather,weather_query,åbn temperatur,iot_hue_lightoff,0.3128,0.1681,False
+5593,da-DK,play,play_music,spil dejavu af scarlet pleasure,play_music,0.9889,0.9889,True
+5619,da-DK,play,play_music,spil forrige sang,play_music,1.0,1.0,True
+5627,da-DK,play,play_music,spil musik af the beatles for mig,play_music,1.0,1.0,True
+5640,da-DK,datetime,datetime_query,vis dato,qa_factoid,0.7672,0.0021,False
+5650,da-DK,weather,weather_query,spørg efter vejret for i dag aften,weather_query,0.9772,0.9772,True
+5658,da-DK,play,play_music,spil musik af the beatles for mig,play_music,1.0,1.0,True
+5661,da-DK,weather,weather_query,skulle jeg tage min regnjakke med mig nu,lists_remove,0.3047,0.2651,False
+5671,da-DK,datetime,datetime_query,hvad er klokken i las vegas,weather_query,0.7131,0.2547,False
+5678,da-DK,datetime,datetime_query,femtende august er hvilken dag på ugen,weather_query,0.9976,0.0004,False
+5683,da-DK,play,play_music,spil min playliste fest sange,play_music,0.549,0.549,True
+5688,da-DK,news,news_query,fortæl mig nyhedsoverskrifterne tak,news_query,0.9532,0.9532,True
+5703,da-DK,datetime,datetime_query,tiden nu,datetime_query,0.9978,0.9978,True
+5707,da-DK,play,play_music,lyt til mine favoritter,qa_factoid,0.9956,0.0,False
+5721,da-DK,weather,weather_query,giv mig vejret for i morgen i dette område,weather_query,0.9964,0.9964,True
+5722,da-DK,weather,weather_query,vis syvdages udsigten for denne uge,weather_query,0.5077,0.5077,True
+5732,da-DK,weather,weather_query,skal jeg skifte til vinterdæk snart,iot_hue_lightoff,0.6261,0.3568,False
+5757,da-DK,datetime,datetime_query,kvart i to,qa_factoid,0.9305,0.0017,False
+5758,da-DK,weather,weather_query,hvordan er vejret i hovedstaden,weather_query,0.9986,0.9986,True
+5774,da-DK,datetime,datetime_query,äktuel tid i c p h,datetime_query,0.6236,0.6236,True
+5797,da-DK,weather,weather_query,bør jeg tage regnjakke på før jeg går ud,weather_query,0.411,0.411,True
+5813,da-DK,play,play_music,spil stille sang,play_music,1.0,1.0,True
+5820,da-DK,play,play_music,forkæl mine ører med kvinde min af kim larsen,social_post,0.4365,0.025,False
+5837,da-DK,weather,weather_query,fortæl mig om denne uges vejr,weather_query,0.9959,0.9959,True
+5871,da-DK,weather,weather_query,hvordan er mysore klima i dag,qa_definition,0.5823,0.0498,False
+5886,da-DK,news,news_query,varmt emne,qa_factoid,0.4765,0.0099,False
+5919,da-DK,news,news_query,hvad er den seneste opdatering i politiken,qa_factoid,0.67,0.2315,False
+5930,da-DK,news,news_query,nogle breaking news fra politiken,news_query,0.9932,0.9932,True
+5948,da-DK,play,play_music,spil en god sang fra min playliste,play_music,1.0,1.0,True
+5953,da-DK,weather,weather_query,er københavn billigere eller dyrere og bo i,qa_factoid,0.3308,0.044,False
+5955,da-DK,weather,weather_query,hvor sikker er byen når det gælder lov og orden,iot_hue_lightoff,0.5682,0.0351,False
+5970,da-DK,play,play_music,jeg vil have dig til at afspille bohemian raphsody for mig,play_music,0.9994,0.9994,True
+5985,da-DK,news,news_query,vis mig de seneste nyheder fra f n,news_query,0.867,0.867,True
+5996,da-DK,weather,weather_query,vil jeg få brug for mine snestøvler denne eftermiddag,iot_hue_lightoff,0.9361,0.0087,False
+5997,da-DK,datetime,datetime_query,hvad er klokken i central tidszone,datetime_query,0.6892,0.6892,True
+6023,da-DK,weather,weather_query,bliver det en lummer nat,iot_hue_lightoff,0.9884,0.0032,False
+6024,da-DK,weather,weather_query,skal jeg tage sweater eller frakke med på arbejde i dag,lists_remove,0.317,0.0397,False
+6025,da-DK,weather,weather_query,har jeg brug for solcreme i eftermiddag,iot_hue_lightoff,0.7929,0.0832,False
+6027,da-DK,play,play_music,sæt favorit sange på,play_music,0.8607,0.8607,True
+6039,da-DK,weather,weather_query,vil det blive regnvejr i morgen,weather_query,0.9986,0.9986,True
+6041,da-DK,iot,iot_hue_lightoff,hey olly sluk lyset tak,lists_remove,0.898,0.0492,False
+6045,da-DK,play,play_music,tilføj den valgte sang,play_music,0.9998,0.9998,True
+6050,da-DK,weather,weather_query,har jeg brug for solcreme senere,iot_hue_lightoff,0.4211,0.0172,False
+6055,da-DK,iot,iot_hue_lightoff,lod jeg lyset være tændt i garagen,iot_hue_lightoff,0.9894,0.9894,True
+6059,da-DK,play,play_music,spil rap musik,play_music,1.0,1.0,True
+6069,da-DK,weather,weather_query,er storme sandsynlige i dag,weather_query,0.9475,0.9475,True
+6073,da-DK,iot,iot_hue_lightoff,sluk for veranda lyset,play_music,0.9998,0.0,False
+6074,da-DK,iot,iot_hue_lightoff,sluk soveværelse lys klokken enogtyve tredive,iot_hue_lightoff,0.9929,0.9929,True
+6077,da-DK,news,news_query,jeg vil høre de seneste verdens nyheder fra i dag,play_podcasts,0.8804,0.1138,False
+6093,da-DK,weather,weather_query,burde jeg åbne soltaget,qa_factoid,0.4899,0.0066,False
+6103,da-DK,weather,weather_query,hey hvordan bliver vejret i dag i los angeles californien,weather_query,0.9965,0.9965,True
+6116,da-DK,weather,weather_query,information om vejret denne uge,weather_query,0.998,0.998,True
+6118,da-DK,datetime,datetime_query,hvad hvad tid er det i dallas texas,weather_query,0.8734,0.0289,False
+6127,da-DK,weather,weather_query,anbefaler du en paraply,qa_factoid,0.9645,0.0001,False
+6129,da-DK,news,news_query,hold mig opdateret med nyhederne i verden,news_query,0.9733,0.9733,True
+6151,da-DK,weather,weather_query,jeg vil vide dagens vejr,weather_query,0.9978,0.9978,True
+6172,da-DK,weather,weather_query,er solbriller et godt valg til i dag,recommendation_events,0.9816,0.0007,False
+6177,da-DK,weather,weather_query,får jeg brug for en paraply i dag,qa_factoid,0.3816,0.0217,False
+6178,da-DK,weather,weather_query,burde jeg tage en jakke på,qa_factoid,0.6231,0.0055,False
+6194,da-DK,weather,weather_query,hvordan er vejret i dag,weather_query,0.9981,0.9981,True
+6289,da-DK,weather,weather_query,hvordan er vejret i dag,weather_query,0.9981,0.9981,True
+6370,da-DK,calendar,calendar_query,hvordan ser min kommende uge ud,weather_query,0.9993,0.0,False
+6372,da-DK,news,news_query,plantebaserede nyheder,play_podcasts,0.2786,0.2101,False
+6403,da-DK,transport,transport_query,hvordan at komme nogensteder,social_post,0.9969,0.0001,False
+6410,da-DK,news,news_query,hvad sker der i tarm i dag,qa_factoid,0.56,0.01,False
+6411,da-DK,weather,weather_query,hvordan er vejret næste onsdag,weather_query,0.9993,0.9993,True
+6539,da-DK,calendar,calendar_set,marker i dag som starten på min slankekur,qa_factoid,0.4789,0.0048,False
+6542,da-DK,cooking,cooking_recipe,er blød ost bedre end hård ost,cooking_recipe,0.9867,0.9867,True
+6618,da-DK,news,news_query,giv mig interessante nyheder,recommendation_events,0.6799,0.0609,False
+6682,da-DK,news,news_query,valget er oppe,recommendation_events,0.9948,0.0002,False
+6683,da-DK,news,news_query,økonomiske anliggender,social_post,0.3104,0.0085,False
+6713,da-DK,calendar,calendar_remove,aflys forretningsmøde på onsdag,qa_factoid,0.4947,0.0063,False
+6722,da-DK,calendar,calendar_query,er der nogen jeg bør blive mindet om,social_post,0.4657,0.001,False
+6725,da-DK,calendar,calendar_set,påmind mig om mit skema i eftermiddag,email_sendemail,0.8506,0.0057,False
+6726,da-DK,calendar,calendar_remove,aflys næste møde,qa_factoid,0.8748,0.0038,False
+6729,da-DK,calendar,calendar_remove,aflys morgenmad i lærkes hus,cooking_recipe,0.9702,0.0007,False
+6732,da-DK,calendar,calendar_set,tilføj møde påmindelse for søndag med mine svigerforældre,social_post,0.8094,0.0236,False
+6744,da-DK,calendar,calendar_set,lav møde med poul i morgen klokken ti,social_post,0.4763,0.0092,False
+6746,da-DK,calendar,calendar_set,sæt første uge i juni som ferie i min kalender,calendar_set,0.995,0.995,True
+6747,da-DK,calendar,calendar_query,hvor mange påmindelser har jeg,recommendation_events,0.9632,0.0003,False
+6755,da-DK,calendar,calendar_remove,rengør venligst min kalender,calendar_remove,0.9996,0.9996,True
+6761,da-DK,calendar,calendar_remove,fjern møde klokken ni fra min kalender,calendar_remove,0.9973,0.9973,True
+6764,da-DK,calendar,calendar_set,påmind mig om at vaske vinduerne,iot_hue_lightoff,0.9564,0.0007,False
+6774,da-DK,calendar,calendar_set,sæt en begivenhed til fredag,recommendation_events,0.5496,0.1728,False
+6785,da-DK,calendar,calendar_query,hvad er min næste påmindelse,recommendation_events,0.5567,0.0108,False
+6789,da-DK,calendar,calendar_set,lav møde med sørine lørdag klokken seksten,social_post,0.9895,0.0002,False
+6798,da-DK,calendar,calendar_remove,fjern min næste begivenhed,calendar_remove,0.6697,0.6697,True
+6801,da-DK,calendar,calendar_query,vis mig møderne denne fredag,social_post,0.7916,0.0075,False
+6806,da-DK,calendar,calendar_query,vis mig min kalender begivenhed denne fredag eftermiddag,calendar_remove,0.6618,0.1547,False
+6815,da-DK,calendar,calendar_set,mind mig om mors fødselsdag en uge forinden,datetime_query,0.7647,0.0016,False
+6819,da-DK,calendar,calendar_set,olly der er et godt band der spiller i aften klokken enogtyve i studenterhuset jeg vil derhen,play_music,0.9677,0.001,False
+6836,da-DK,calendar,calendar_set,påmind mig om mødet i morgen klokken seks,email_sendemail,0.4671,0.0132,False
+6850,da-DK,calendar,calendar_query,oprems mit skema i dag,recommendation_events,1.0,0.0,False
+6856,da-DK,calendar,calendar_set,giv mig en påmindelse om morgendagens møde klokken ti,calendar_remove,0.6191,0.0876,False
+6860,da-DK,calendar,calendar_query,er der nogen kommende begivenheder,recommendation_events,0.4963,0.0101,False
+6865,da-DK,calendar,calendar_set,lav en notifikation om morgendagens møde klokken ti,iot_hue_lightoff,0.5462,0.0127,False
+6878,da-DK,calendar,calendar_set,skemalæg et møde med regnskabsafdelingen klokken fjorten tredive fredag,weather_query,0.934,0.0013,False
+6891,da-DK,calendar,calendar_query,er der morgen shows tilgængelige,social_post,0.6797,0.0063,False
+6892,da-DK,calendar,calendar_query,kan du give mig film skemaet,recommendation_events,0.8461,0.0002,False
+6897,da-DK,calendar,calendar_set,påmind mig at hente linda klokken sytten om aftenen den syvende,weather_query,0.8651,0.0034,False
+6901,da-DK,calendar,calendar_set,påmind mig i morgen klokken ti om mødet,datetime_query,0.2749,0.0208,False
+6902,da-DK,calendar,calendar_set,lav en påmindelse næste måned om at få min olie skiftet,calendar_remove,0.7288,0.005,False
+6909,da-DK,calendar,calendar_query,hvad sker der efter tretten og før klokken femten,weather_query,0.9971,0.0002,False
+6918,da-DK,calendar,calendar_remove,slet begivenheder fra kalender,calendar_set,0.9292,0.0006,False
+6923,da-DK,calendar,calendar_set,sæt påmindelse om at printe dokumenterne tirsdag morgen,email_sendemail,0.9566,0.0234,False
+6926,da-DK,calendar,calendar_query,er det fredag,weather_query,0.9778,0.0005,False
+6928,da-DK,calendar,calendar_remove,slet alle begivenheder,lists_remove,0.9971,0.0003,False
+6936,da-DK,calendar,calendar_set,mind mig om at tage min medicin klokken ni,weather_query,0.984,0.0004,False
+6937,da-DK,calendar,calendar_set,sæt påmindelse for middag om at få frokost med chefen,cooking_recipe,0.9264,0.0468,False
+6946,da-DK,calendar,calendar_query,er der nogle møder sat for næste onsdag,qa_factoid,0.4108,0.014,False
+6958,da-DK,calendar,calendar_remove,sørg for at der ikke er nogle begivenheder i min kalender,calendar_remove,0.9913,0.9913,True
+6959,da-DK,calendar,calendar_set,mind mig om mit møde en time inden det begynder,email_sendemail,0.6886,0.0019,False
+6962,da-DK,calendar,calendar_set,kan jeg vide hvad jeg skal gøre lørdag klokken atten,weather_query,0.3027,0.0138,False
+6964,da-DK,calendar,calendar_set,kan du minde mig om mit næste møde med min chef en time før det sker,qa_factoid,0.2509,0.0144,False
+6967,da-DK,calendar,calendar_query,kan du tjekke faktaene om dette emne,qa_factoid,0.9925,0.0001,False
+6968,da-DK,calendar,calendar_query,jeg har brug for at bekræfte alle møder for i dag kan den inviterende person,lists_remove,0.8225,0.0029,False
+6973,da-DK,calendar,calendar_set,tilføj en påmindelse om konference i morgen i aalborg,social_post,0.7377,0.0242,False
+6974,da-DK,calendar,calendar_set,jeg har en funktion i morgen i aarhus påmind mig,cooking_recipe,0.87,0.0016,False
+6980,da-DK,calendar,calendar_query,giv mig en liste med gøremål,lists_remove,0.9903,0.0001,False
+6992,da-DK,calendar,calendar_query,vis fremtidige begivenheder,play_podcasts,0.414,0.0109,False
+6994,da-DK,calendar,calendar_set,påmind mig om,qa_factoid,0.7297,0.0022,False
+6997,da-DK,calendar,calendar_remove,fjern efterfølgende begivenhed,qa_factoid,0.1798,0.1559,False
+7000,da-DK,calendar,calendar_set,ny begivenhed,qa_factoid,0.6155,0.0111,False
+7004,da-DK,calendar,calendar_set,tilføj påmindelse til min kalender hvert år på denne dato,calendar_set,0.9723,0.9723,True
+7013,da-DK,calendar,calendar_query,hvornår starter begivenheden,qa_factoid,0.9987,0.0,False
+7014,da-DK,calendar,calendar_query,giv mig skemaet for dagens begivenheder,cooking_recipe,0.3615,0.0117,False
+7025,da-DK,calendar,calendar_remove,fjern nytår fra min kalender,calendar_remove,0.9974,0.9974,True
+7026,da-DK,recommendation,recommendation_events,hvilke begivenheder foregår der i min by denne uge,news_query,0.8534,0.02,False
+7039,da-DK,calendar,calendar_set,lav mig et møde næste tirsdag klokken elleve med jørgen,calendar_remove,0.958,0.0017,False
+7044,da-DK,calendar,calendar_set,mind mig om at starte med at gøre mig klar klokken sytten tak,calendar_remove,0.2732,0.0232,False
+7046,da-DK,calendar,calendar_set,tilføj med møde søren den enogtyvende klokken syv,social_post,0.4033,0.0687,False
+7055,da-DK,calendar,calendar_set,planlæg et møde med morten klokken elleve på torsdag,cooking_recipe,0.7211,0.0289,False
+7057,da-DK,calendar,calendar_set,planlæg et frokostmøde med børge på onsdag ved middag,cooking_recipe,0.9971,0.0011,False
+7061,da-DK,calendar,calendar_set,giv mig en påmindelse fireogtyve timer før mit fredags møde med mogens,email_sendemail,0.9985,0.0,False
+7073,da-DK,calendar,calendar_set,søg i min kalender for næste begivenhed og underret mig før det sker,calendar_query,0.5718,0.3463,False
+7080,da-DK,calendar,calendar_remove,aflys alt i min kalender,calendar_remove,0.6631,0.6631,True
+7087,da-DK,calendar,calendar_remove,aflys morgendagens møde fra min kalender,calendar_query,0.61,0.3673,False
+7098,da-DK,calendar,calendar_set,tilføj min bilbetaling på den tolvte i min kalender,calendar_set,0.6692,0.6692,True
+7100,da-DK,calendar,calendar_set,mind mig om det dagen før min bil skal,weather_query,0.9009,0.0005,False
+7111,da-DK,calendar,calendar_query,hvad tid er min tid hos lægen den en og tredivte marts,datetime_query,0.5665,0.0022,False
+7113,da-DK,calendar,calendar_query,er der nogen begivenheder i byen denne weekend,recommendation_events,0.1481,0.0381,False
+7117,da-DK,calendar,calendar_remove,slip af med begivenheder den nittende fra min kalender,calendar_remove,0.9958,0.9958,True
+7120,da-DK,calendar,calendar_query,hvad er min tidsplan i dag,qa_factoid,0.6047,0.007,False
+7122,da-DK,calendar,calendar_set,kan du gentage denne begivenhed,cooking_recipe,0.8677,0.0012,False
+7140,da-DK,calendar,calendar_set,sæt en påmindelse om at meddele mig en time før frokostmøde,calendar_remove,0.5979,0.2543,False
+7141,da-DK,calendar,calendar_query,er dette program skemalagt,iot_hue_lightoff,0.9266,0.0008,False
+7151,da-DK,calendar,calendar_set,for hver søndag i ulige uger sæt en påmindelse for,calendar_remove,0.9426,0.0424,False
+7152,da-DK,calendar,calendar_set,indstil frokost hver dag klokken halv et,cooking_recipe,0.3229,0.0876,False
+7161,da-DK,calendar,calendar_set,påmind om denne begivenhed i fremtiden,email_sendemail,0.9632,0.0005,False
+7170,da-DK,calendar,calendar_set,det er min mors fødselsdag i dag send mig en notifikation hvert år på denne dato,email_sendemail,0.9123,0.0008,False
+7181,da-DK,calendar,calendar_set,væk mig klokken seks torsdag så jeg har tid til mødet,calendar_remove,0.7959,0.0258,False
+7185,da-DK,calendar,calendar_query,hvornår er min næste aftale med doktor larsen,weather_query,0.5309,0.0069,False
+7189,da-DK,calendar,calendar_query,har jeg noget planlagt,cooking_recipe,0.362,0.007,False
+7194,da-DK,calendar,calendar_set,jeg har et møde i morgen indstil det,qa_factoid,0.6512,0.0328,False
+7196,da-DK,calendar,calendar_set,mind mig om mødet med allan den femtende marts,email_sendemail,0.8787,0.0018,False
+7199,da-DK,calendar,calendar_set,lav en notifikation for tre to og en time før næste uges engelske finale,qa_factoid,0.3827,0.0031,False
+7209,da-DK,calendar,calendar_set,mind mig om at tage skraldet ud på tirsdag,calendar_remove,0.889,0.001,False
+7219,da-DK,calendar,calendar_query,har du placeret påmindelsen om mødet for i morgen,social_post,0.6021,0.0065,False
+7224,da-DK,calendar,calendar_query,hvor er stedet hvor toms bryllup kommer til at finde sted,qa_factoid,0.3989,0.0184,False
+7232,da-DK,calendar,calendar_query,hvilke begivenheder er der næste uge,weather_query,0.4825,0.0326,False
+7257,da-DK,calendar,calendar_set,påmind mig at ringe til mor om en halv time,qa_factoid,0.5182,0.01,False
+7258,da-DK,calendar,calendar_set,påmind mig om at jeg skal sende email til chef efter en time,email_sendemail,1.0,0.0,False
+7262,da-DK,calendar,calendar_set,opret en notifikation for møde i morgen,social_post,0.7314,0.0098,False
+7266,da-DK,calendar,calendar_query,hvad er mine udestående opgaver,cooking_recipe,0.9646,0.0013,False
+7278,da-DK,calendar,calendar_set,påmind mig om lauras fødselsdag fireogtyve timer i forvejen,qa_factoid,0.2638,0.0115,False
+7287,da-DK,calendar,calendar_set,påmind mig om mit jubilæum en dag i forvejen,email_sendemail,1.0,0.0,False
+7289,da-DK,calendar,calendar_remove,fjern alle begivenheder med jørgen,lists_remove,0.4633,0.4203,False
+7291,da-DK,calendar,calendar_set,spær en time fra klokken ti i morgen tidlig,calendar_remove,0.8871,0.0319,False
+7292,da-DK,calendar,calendar_set,jeg er utilgængelig fra seksten til atten aften i morgen marker min kalender,calendar_remove,0.5403,0.2522,False
+7293,da-DK,calendar,calendar_set,planlæg en et times aftale for lørdag,iot_hue_lightoff,0.3518,0.1029,False
+7294,da-DK,calendar,calendar_remove,fjern aftalen med søren larsen fra min kalender,calendar_remove,0.8811,0.8811,True
+7295,da-DK,calendar,calendar_remove,ryd min kalender tak,calendar_remove,1.0,1.0,True
+7314,da-DK,calendar,calendar_query,hvad sker der i dag,weather_query,0.9359,0.0013,False
+7316,da-DK,calendar,calendar_query,har jeg nogen aftaler,qa_factoid,0.994,0.0001,False
+7319,da-DK,calendar,calendar_query,hvad sker der i dag fra klokken fjorten til seksten,weather_query,0.9888,0.0006,False
+7353,da-DK,email,email_query,bare sig den næste uges vejr i californien,weather_query,0.9976,0.0001,False
+7355,da-DK,calendar,calendar_set,påmind mig om at tjekke gryderetten klokken atten,cooking_recipe,0.9698,0.0005,False
+7380,da-DK,calendar,calendar_query,vær venlig at vise dagens møde med klienter,social_post,0.842,0.0059,False
+7397,da-DK,calendar,calendar_query,er der nogle begivenheder planlagt for de næste tre måneder,lists_query,0.432,0.0219,False
+7449,da-DK,calendar,calendar_set,vær venlig at planlægge et møde med denne person,social_post,0.6909,0.0071,False
+7450,da-DK,calendar,calendar_set,jeg har brug for at planlægge et møde med denne person,social_post,0.4842,0.014,False
+7455,da-DK,calendar,calendar_set,påmind mig om festen i morgen,email_sendemail,0.4515,0.0208,False
+7461,da-DK,calendar,calendar_set,inviter personer til kalender begivenhed,calendar_set,0.9217,0.9217,True
+7463,da-DK,calendar,calendar_set,informer min gruppe om at det nye møde tidspunkt er i morgen,social_post,0.4352,0.0092,False
+7467,da-DK,calendar,calendar_query,giv mig tidspunktet for begivenhederne,datetime_query,0.4593,0.015,False
+7477,da-DK,calendar,calendar_set,påmind mig den femte marts hvert år om at arrangere bryllupsdagsgaver,email_sendemail,0.9244,0.022,False
+7496,da-DK,calendar,calendar_query,har jeg nogle aftaler i dag,qa_factoid,0.808,0.0131,False
+7499,da-DK,calendar,calendar_set,lav ny tidsplan for mødet i morgen,calendar_remove,0.9978,0.0009,False
+7500,da-DK,calendar,calendar_remove,kan du slette næste begivenhed,lists_remove,0.2763,0.2479,False
+7502,da-DK,calendar,calendar_query,hvad er der på agendaen for klokken seksten mødet med john,calendar_query,0.2967,0.2967,True
+7503,da-DK,calendar,calendar_query,hvor i aalborg er det møde klokken tretten på fredag,weather_query,0.998,0.0001,False
+7520,da-DK,calendar,calendar_set,påmind mig hver dag klokken fjorten om frokost,cooking_recipe,0.8656,0.0068,False
+7524,da-DK,calendar,calendar_query,hvor meget er nordea villig til at investere i mit firma i det møde vi holder i dag klokken sytten tyve,qa_factoid,0.8112,0.006,False
+7528,da-DK,calendar,calendar_set,trettende juni er dagen for valgresultater vær sød at sætte det,datetime_query,0.3709,0.0126,False
+7531,da-DK,calendar,calendar_set,vær venlig at tilføje mine lønningsdage,calendar_set,0.439,0.439,True
+7539,da-DK,calendar,calendar_query,har jeg nogen gøremål,cooking_recipe,0.9966,0.0001,False
+7542,da-DK,calendar,calendar_set,vær venlig at påminde mig om dette i morgen,email_sendemail,0.4912,0.0116,False
+7549,da-DK,calendar,calendar_set,jeg vil have et møde indtil klokken femten,qa_factoid,0.5651,0.0049,False
+7556,da-DK,calendar,calendar_set,indstil min kalender til at påminde mig om at købe dagligvarer hver fredag,calendar_set,0.9999,0.9999,True
+7557,da-DK,calendar,calendar_set,lav en påmindelse af lokation på kalender,calendar_remove,0.9859,0.0109,False
+7559,da-DK,calendar,calendar_set,mind mig om i aften at hente mit tøj fra renseriet klokken tyve,lists_remove,0.6019,0.0121,False
+7563,da-DK,calendar,calendar_set,påmind mig om mødet i morgen en time før,email_sendemail,0.9908,0.0004,False
+7565,da-DK,calendar,calendar_set,påmindelse om møde,email_sendemail,0.9998,0.0,False
+7567,da-DK,calendar,calendar_set,fødselsdag,qa_factoid,0.5401,0.0057,False
+7569,da-DK,calendar,calendar_query,plan for i morgen,calendar_remove,0.3841,0.0261,False
+7570,da-DK,calendar,calendar_query,hvad er planen i dag,qa_factoid,0.9463,0.0008,False
+7583,da-DK,calendar,calendar_set,ven tilføjer begivenhed i din kalender,calendar_set,0.2717,0.2717,True
+7596,da-DK,calendar,calendar_set,vær sød at planlægge et møde med søren i aalborg ved middag,cooking_recipe,0.5057,0.0066,False
+7598,da-DK,calendar,calendar_set,lav et møde om at diskutere terrorisme med jørgen på næste tilgængelige mødedag,social_post,0.288,0.0156,False
+7606,da-DK,calendar,calendar_set,mød med jørgen i morgen klokken tre,social_post,0.8015,0.0066,False
+7609,da-DK,calendar,calendar_remove,fjern møde påmindelse for tirsdag,qa_factoid,0.4638,0.0336,False
+7613,da-DK,calendar,calendar_query,hvad var den kommende begivenhed,weather_query,0.5133,0.0017,False
+7628,da-DK,calendar,calendar_set,påmind mig hvornår jeg er ved biblioteket for at få et nyt bibliotekskort,iot_hue_lightoff,0.6537,0.0095,False
+7654,da-DK,calendar,calendar_set,marker tyvende april som min brors fødselsdag,iot_hue_lightoff,0.6984,0.0085,False
+7655,da-DK,calendar,calendar_set,tilføj en påmindelse for tyvende april som min brors fødselsdag,calendar_set,0.3956,0.3956,True
+7660,da-DK,calendar,calendar_remove,aflys alle mine aftaler efter klokken femten i dag og informer mig om detaljerne,qa_factoid,0.2249,0.1593,False
+7662,da-DK,calendar,calendar_query,kan du udliste mine møder i dag,iot_hue_lightoff,0.9926,0.0001,False
+7664,da-DK,calendar,calendar_set,tilføj frokost med mike,cooking_recipe,0.9951,0.0001,False
+7666,da-DK,calendar,calendar_set,vil du markere at jeg har et møde med tom klokken tre i morgen,calendar_remove,0.2211,0.0339,False
+7680,da-DK,calendar,calendar_remove,slet alle golf events denne måned fra min kalender,calendar_set,0.7625,0.2221,False
+7686,da-DK,calendar,calendar_set,inkluder mike og jørgen til festival kalender,calendar_set,0.9996,0.9996,True
+7690,da-DK,calendar,calendar_query,hvad har jeg af kommende ting,qa_factoid,0.1301,0.0451,False
+7693,da-DK,calendar,calendar_query,har jeg noget planlagt den enogtyvende,qa_factoid,0.2063,0.008,False
+7697,da-DK,calendar,calendar_set,sæt en påmindelse for dette,qa_factoid,0.9796,0.0003,False
+7711,da-DK,calendar,calendar_set,hey aflys alle mine andre møder og opkald for den anden marts da det er jørgens fødselsdag og marker det som begivenhed i din kalender,calendar_remove,0.9942,0.0006,False
+7712,da-DK,calendar,calendar_set,hey olly aflys mine andre møder og opkald for den anden marts da det er sørens fødselsdag og marker det som begivenhed i kalenderen,email_sendemail,0.9995,0.0001,False
+7718,da-DK,calendar,calendar_set,hey send en møde invitation til hr larsen til denne fredags møde og lås min kalender for fredag eftermiddag,calendar_remove,0.9948,0.0037,False
+7726,da-DK,calendar,calendar_set,jeg skal gøre noget hver mandag sæt en påmindelse for det,calendar_remove,0.4733,0.159,False
+7730,da-DK,calendar,calendar_set,jeg skal have dig til at markere næste mandag,calendar_remove,0.4696,0.033,False
+7741,da-DK,calendar,calendar_remove,ryd min kalender for lørdag,calendar_remove,1.0,1.0,True
+7751,da-DK,calendar,calendar_set,mind om at tage skraldet ud hver mandag,calendar_remove,0.9857,0.0016,False
+7762,da-DK,calendar,calendar_query,hvilke påmindelser har jeg,email_sendemail,0.5279,0.0002,False
+7767,da-DK,calendar,calendar_set,tilføj træning til kalender i kildeparken klokken fjorten den fjerde februar,calendar_set,0.9973,0.9973,True
+7768,da-DK,calendar,calendar_set,tilføj træning den fjerde februar i kildeparken klokken fjorten,calendar_remove,0.3612,0.0924,False
+7774,da-DK,calendar,calendar_set,tilføj indkøb til min kalneder for i morgen,iot_hue_lightoff,0.7327,0.0181,False
+7777,da-DK,calendar,calendar_query,har jeg en aftale i dag,qa_factoid,0.546,0.0011,False
+7778,da-DK,calendar,calendar_set,påmind mig om hvad jeg laver søndag eftermiddag,cooking_recipe,0.9014,0.0033,False
+7808,da-DK,calendar,calendar_set,mind mig om jeg skal tage mor til frisøren torsdag klokken elleve,weather_query,0.4526,0.0069,False
+7817,da-DK,calendar,calendar_query,er det rigtigt med den dato,qa_factoid,0.9998,0.0,False
+7820,da-DK,calendar,calendar_remove,slet alle begivenheder i min kalender,lists_remove,0.917,0.0097,False
+7836,da-DK,calendar,calendar_remove,slet alle begivenheder,lists_remove,0.9971,0.0003,False
+7843,da-DK,calendar,calendar_set,lad mig vide om to timer at jeg skal af sted til violinundervisning klokken seksten på musikskolen,datetime_query,0.4595,0.0135,False
+7844,da-DK,calendar,calendar_query,hvilke påmindelser har jeg indsillet,recommendation_events,0.9974,0.0001,False
+7847,da-DK,calendar,calendar_set,sig til når der er åben for registrering,calendar_remove,0.6267,0.0067,False
+7851,da-DK,calendar,calendar_set,jeg har et møde ved middagstid i dag,weather_query,0.4715,0.0072,False
+7863,da-DK,calendar,calendar_set,påmind mig om at starte aftensmad i eftermiddag klokken fem,cooking_recipe,0.2904,0.0381,False
+7870,da-DK,calendar,calendar_remove,slet begivenhed fra kalender,calendar_set,0.9234,0.0161,False
+7876,da-DK,news,news_query,hvad er der sket de sidste to måneder,news_query,0.5255,0.5255,True
+7878,da-DK,calendar,calendar_remove,slet min kalender,calendar_remove,0.9985,0.9985,True
+7879,da-DK,calendar,calendar_query,hvad er mine tre næste begivenheder,recommendation_events,0.2252,0.0115,False
+7889,da-DK,calendar,calendar_query,hvad tid bliver fodboldkampen i aften,weather_query,0.9302,0.0029,False
+7890,da-DK,calendar,calendar_remove,ryd klipning i dag,social_post,0.8878,0.0012,False
+7891,da-DK,calendar,calendar_remove,aflys middag i aften,weather_query,0.9672,0.0179,False
+7892,da-DK,calendar,calendar_remove,slet den næste begivenhed i dag,lists_remove,0.5484,0.3122,False
+7894,da-DK,calendar,calendar_set,giv mig en opdatering om valget om en time,news_query,0.1538,0.0426,False
+7902,da-DK,calendar,calendar_set,sæt et møde op mellem mig selv og john klokken fjorten i morgen,iot_hue_lightoff,0.4012,0.0205,False
+7908,da-DK,calendar,calendar_query,behøver jeg at lavet noget i dag,cooking_recipe,0.9998,0.0,False
+7912,da-DK,calendar,calendar_remove,alexa fjern middag med mike fra min kalender,calendar_remove,0.5829,0.5829,True
+7916,da-DK,calendar,calendar_set,påmind mig om at tage skraldet ud klokken seks om aftenen,calendar_remove,0.9627,0.003,False
+7918,da-DK,calendar,calendar_set,kalender begivenhed send invitation til jørgen lone,calendar_remove,0.5811,0.3949,False
+7919,da-DK,calendar,calendar_set,nyt møde tilføj rigmor og torben som deltagere,social_post,0.9356,0.0011,False
+7922,da-DK,calendar,calendar_remove,åben opgave slet kommende begivenheder,lists_remove,0.7899,0.0016,False
+7927,da-DK,calendar,calendar_query,hvad skal jeg lave i denne uge,cooking_recipe,0.8581,0.0075,False
+7946,da-DK,calendar,calendar_query,hvilke kommende koncerter er der i odense,play_music,0.9995,0.0,False
+7953,da-DK,calendar,calendar_remove,fjern min aftale med min doktor på lørdag tak,calendar_remove,0.9646,0.9646,True
+7955,da-DK,calendar,calendar_set,sæt dette event i min kalender som et gantagende mønster,calendar_set,0.9537,0.9537,True
+7956,da-DK,calendar,calendar_set,kan du lave denne begivenhed gentagen,cooking_recipe,0.7216,0.0003,False
+7966,da-DK,calendar,calendar_query,bad jeg dig påminde mig noget,social_post,0.2132,0.0176,False
+7970,da-DK,calendar,calendar_set,påmind mig om brylluppet i tide til at købe en gave,calendar_remove,0.2282,0.0093,False
+7971,da-DK,calendar,calendar_set,lav en påmindelse to dage før aftalen,calendar_remove,0.883,0.0016,False
+7975,da-DK,calendar,calendar_query,er der kammertjener service til begivenheden,social_post,0.3504,0.0133,False
+7978,da-DK,calendar,calendar_query,hvilke påmindelser har jeg planlagt før middag i morgen,recommendation_events,0.98,0.0008,False
+7980,da-DK,calendar,calendar_set,fortæl mig hvornår jeg har en begivenhed,weather_query,0.4557,0.0046,False
+7981,da-DK,calendar,calendar_set,send en påmindelse før mødet,email_sendemail,0.9834,0.0005,False
+7993,da-DK,calendar,calendar_remove,slet alle begivenheder fra min kalender,lists_remove,0.9463,0.0457,False
+8001,da-DK,calendar,calendar_remove,kan du slette klipning jeg har planlagt for fredag,calendar_remove,0.8889,0.8889,True
+8004,da-DK,calendar,calendar_set,dorthe skal fortælle mig om vores skilsmisse vær sød at lave et møde så hurtigt som muligt,email_sendemail,0.9911,0.0004,False
+8005,da-DK,calendar,calendar_set,på mandag den tyvende skal jeg have en samtale med søren omkring vores weekend tur,social_post,0.9943,0.0003,False
+8013,da-DK,calendar,calendar_query,vis mig mit møde for næste måned,social_post,0.9003,0.0009,False
+8029,da-DK,calendar,calendar_query,hvilke begivenheder starter i dag,recommendation_events,0.281,0.0568,False
+8033,da-DK,datetime,datetime_query,hvilken dag falder påsken på,weather_query,0.9184,0.0047,False
+8035,da-DK,calendar,calendar_set,påmind mig om at skifte olie,iot_hue_lightoff,0.4673,0.0126,False
+8037,da-DK,calendar,calendar_set,påmind mig om noget på et tidspunkt,email_sendemail,0.9982,0.0,False
+8042,da-DK,calendar,calendar_query,hvor mange mennesker kommer til mit næste møde,social_post,0.6099,0.0051,False
+8043,da-DK,calendar,calendar_query,hvad tid er min næste aftale,qa_factoid,0.9572,0.0002,False
+8044,da-DK,calendar,calendar_query,hvad er mit skema for i dag,cooking_recipe,0.9846,0.0004,False
+8055,da-DK,calendar,calendar_remove,slet min aftale for syvende marts,calendar_remove,0.9107,0.9107,True
+8056,da-DK,calendar,calendar_query,har jeg en date på fredag,datetime_query,0.9228,0.0028,False
+8058,da-DK,calendar,calendar_query,har jeg et salgsmøde i dag,weather_query,0.5592,0.0008,False
+8073,da-DK,calendar,calendar_set,lav et salgsmøde for onsdag klokken elleve,qa_factoid,0.5731,0.0012,False
+8079,da-DK,calendar,calendar_set,sæt en påmindelse om en time for at mit brød skal bage,iot_hue_lightoff,0.5701,0.0015,False
+8084,da-DK,calendar,calendar_query,hvad er begivenhedens agenda,qa_factoid,0.7862,0.0071,False
+8085,da-DK,calendar,calendar_set,jeg kunne godt tænke mig at sætte en dato for denne uge,qa_factoid,0.9777,0.0032,False
+8100,da-DK,email,email_sendemail,email mine aftaler og sig jeg skal omlægge,email_sendemail,1.0,1.0,True
+8107,da-DK,calendar,calendar_set,sæt fødselsdag begivenhed for røvbananen,recommendation_events,0.3921,0.0846,False
+8110,da-DK,calendar,calendar_set,vær sød at tilføj supervision til min kalender,calendar_set,0.9829,0.9829,True
+8116,da-DK,calendar,calendar_query,i løbet af tidsrammen den første februar og sekstende marts hvilke møder fandt sted,news_query,0.2853,0.0209,False
+8119,da-DK,calendar,calendar_query,hvor bliver lærkes fødselsdagsfest holdt,social_post,0.71,0.0119,False
+8125,da-DK,calendar,calendar_set,lav et møde event i min kalender,calendar_remove,1.0,0.0,False
+8126,da-DK,calendar,calendar_set,planlæg en mødebegivenhed i min kalender,calendar_set,0.5091,0.5091,True
+8129,da-DK,calendar,calendar_query,hvilke påmindelser har jeg stadig,recommendation_events,0.9957,0.0001,False
+8140,da-DK,calendar,calendar_set,sæt en påmindelse til den trettende om at jeg spiser frokost med preben,cooking_recipe,0.8781,0.0012,False
+8148,da-DK,calendar,calendar_query,har jeg lagt nogen påmindelser til mig selv,recommendation_events,0.9593,0.0007,False
+8150,da-DK,calendar,calendar_query,har jeg nogen påmindelser om fødselsdagsfest,recommendation_events,0.3068,0.0146,False
+8165,da-DK,calendar,calendar_query,klokken tolv tredive du kommer allerede til at have et møde om ti minutter,weather_query,0.5993,0.0088,False
+8182,da-DK,calendar,calendar_remove,kan du slette tiden ved tandlægen,weather_query,0.5827,0.1438,False
+8188,da-DK,calendar,calendar_query,hvad dato er det,qa_factoid,0.9882,0.0001,False
+8204,da-DK,calendar,calendar_set,vær sød at påminde mig om at gå på posthuset,iot_hue_lightoff,0.6525,0.0235,False
+8206,da-DK,calendar,calendar_set,lad mig ikke glemme at jeg skal købe en gave til min søster,cooking_recipe,0.8291,0.0022,False
+8230,da-DK,calendar,calendar_query,hvor længe vil mit frokostmøde vare på tirsdag,datetime_query,0.6143,0.0014,False
+8241,da-DK,calendar,calendar_remove,ryd alt fra min kalender for resten af året,calendar_remove,0.7312,0.7312,True
+8245,da-DK,calendar,calendar_set,jeg ville blive nødt til at blive påmindet om gudstjenester på søndage klokken elleve,email_sendemail,0.92,0.0006,False
+8248,da-DK,calendar,calendar_set,tilføj morgendagens middag date til kalenderen,calendar_set,0.9998,0.9998,True
+8251,da-DK,calendar,calendar_set,jeg har brug for næste uges frokost i kalenderen,calendar_remove,0.4598,0.1054,False
+8260,da-DK,calendar,calendar_set,advar mig en dag før jørgens fødselsdag tak,email_sendemail,0.404,0.0172,False
+8261,da-DK,calendar,calendar_set,send mig en alarm en time før min næste aftale,iot_hue_lightoff,0.9464,0.0115,False
+8269,da-DK,calendar,calendar_set,tredive minutters påmindelse for mødet tirsdag,email_sendemail,0.9722,0.0008,False
+8276,da-DK,calendar,calendar_remove,fjern min næste planlagte aftale tak,calendar_remove,0.96,0.96,True
+8280,da-DK,calendar,calendar_set,jeg har brug for at sætte en påmindelse den femtende marts,iot_hue_lightoff,0.8221,0.0034,False
+8284,da-DK,calendar,calendar_remove,fjern fødselsdag fra kalender,calendar_remove,0.9964,0.9964,True
+8289,da-DK,calendar,calendar_set,indstil en påmindelse om dagens fakultetsmøde klokken fire,email_sendemail,0.6228,0.0011,False
+8290,da-DK,calendar,calendar_set,åben en påmindelse om næste uges ledermøde på tirsdag,recommendation_events,0.9509,0.0019,False
+8294,da-DK,calendar,calendar_set,tilføj til kalender og gentag,calendar_set,0.9992,0.9992,True
+8300,da-DK,calendar,calendar_set,gem begivenhed for klokken sytten til atten den attende marts,cooking_recipe,0.7161,0.0091,False
+8302,da-DK,calendar,calendar_remove,fjern næste mandags møde,calendar_remove,0.9019,0.9019,True
+8308,da-DK,news,news_query,hvad var demonstrationen i går ved middagstid på times square om,social_post,0.3403,0.0159,False
+8336,da-DK,calendar,calendar_query,hvornår er min brunch med louise,cooking_recipe,0.9869,0.0005,False
+8343,da-DK,datetime,datetime_query,er det onsdag,weather_query,0.5281,0.0173,False
+8345,da-DK,calendar,calendar_set,lad mig vide hvornår mødet finder sted,qa_factoid,0.994,0.0001,False
+8347,da-DK,calendar,calendar_query,hvad sker der den fjerde december,weather_query,0.9953,0.0002,False
+8358,da-DK,calendar,calendar_set,påmind mig om dette,qa_factoid,0.6169,0.0032,False
+8366,da-DK,calendar,calendar_set,gør attende marts til en repeterende aftale for lauras fødselsdag,calendar_remove,0.5173,0.0187,False
+8387,da-DK,calendar,calendar_set,opret påmindelse for vasketøj klokken tyve,calendar_remove,0.621,0.0143,False
+8388,da-DK,calendar,calendar_set,jeg vil gerne vaske tøj klokken tyve lav påmindelse,iot_hue_lightoff,0.4138,0.0073,False
+8390,da-DK,calendar,calendar_set,påmind mig om mit møde på,email_sendemail,0.7221,0.0024,False
+8394,da-DK,calendar,calendar_set,sæt en påmindelse hver dag ved middagstid om at tage medicin,email_sendemail,0.9838,0.0014,False
+8404,da-DK,calendar,calendar_query,jeg vil vide mere om denne begivenhed,news_query,0.6769,0.0045,False
+8409,da-DK,calendar,calendar_remove,slet min middag i morgen,calendar_remove,0.9912,0.9912,True
+8410,da-DK,calendar,calendar_remove,fjern min middags begivenhed for mandag,calendar_remove,0.955,0.955,True
+8413,da-DK,calendar,calendar_set,vær sød at advare mig,email_sendemail,0.9535,0.0015,False
+8414,da-DK,calendar,calendar_set,påmind mig om at tage til middag med søren på fredag klokken sytten,cooking_recipe,0.4808,0.0413,False
+8415,da-DK,calendar,calendar_set,tilføj et møde på kontoret med brian klokken femten tirsdag,qa_factoid,0.3568,0.0853,False
+8426,da-DK,calendar,calendar_query,fortæl mig aktuelle begivenheder mellem i går og i morgen,news_query,0.8202,0.0073,False
+8430,da-DK,calendar,calendar_remove,aflyst alle mine aftaler,lists_remove,0.998,0.0004,False
+8431,da-DK,calendar,calendar_remove,slet alle mine planlagte begivenheder,lists_remove,0.9978,0.0009,False
+8436,da-DK,calendar,calendar_set,vær venlig at sætte frokostmøde klokken tolv for hver onsdag i marts,calendar_remove,0.7024,0.2003,False
+8442,da-DK,calendar,calendar_set,modificer min kalender med denne begivenhed tak,calendar_remove,0.9947,0.0022,False
+8449,da-DK,calendar,calendar_set,sæt en påmindelse for min datters fødselsdag,email_sendemail,0.7444,0.012,False
+8453,da-DK,calendar,calendar_set,put venligst begivenhed ind i min kalender og marker den som en repeterende begivenhed,calendar_set,0.9932,0.9932,True
+8460,da-DK,calendar,calendar_query,vis mig mine begivenheder,email_sendemail,0.5362,0.0014,False
+8461,da-DK,calendar,calendar_query,hvad er mine planer for maj måned,calendar_remove,0.2916,0.0461,False
+8466,da-DK,calendar,calendar_set,jeg har et klokken ni møde på onsdag send mig en påmindelse,email_sendemail,0.9994,0.0,False
+8469,da-DK,calendar,calendar_query,hvad er planlagt på min kalender i dag,calendar_set,0.9655,0.0335,False
+8474,da-DK,calendar,calendar_set,tilføj lærkes fødselsdagsfest for i morgen klokken fjorten ved hovedgaden nummer et hundrede og treogtyve,iot_hue_lightoff,0.9445,0.0297,False
+8494,da-DK,calendar,calendar_query,hvordan ser mit skema ud i dag,weather_query,0.6304,0.0034,False
+8496,da-DK,calendar,calendar_query,fortæl mig om mine møder for i morgen tidlig,email_sendemail,0.8025,0.0046,False
+8498,da-DK,calendar,calendar_query,lad os gå igennem alle afventende påmindelser,recommendation_events,0.9919,0.0002,False
+8516,da-DK,calendar,calendar_remove,slet kalender objekt,calendar_set,0.9556,0.0441,False
+8520,da-DK,calendar,calendar_set,tilføj begivenhed til kalender app,calendar_set,0.9897,0.9897,True
+8525,da-DK,calendar,calendar_query,møde påmindelser fra tre til fem,social_post,0.6298,0.0009,False
+8535,da-DK,calendar,calendar_set,vil du påminde mig om min tid ved tandlægen jeg har om to timer,datetime_query,0.3867,0.0141,False
+8539,da-DK,calendar,calendar_set,påmind mig omkring,social_post,0.3547,0.007,False
+8541,da-DK,calendar,calendar_set,påmind mig tak,qa_factoid,0.8684,0.0055,False
+8553,da-DK,calendar,calendar_set,tilføj et møde til min kalender klokken ni med tom,calendar_set,0.996,0.996,True
+8559,da-DK,calendar,calendar_query,har jeg noget planlagt for i dag,lists_query,0.5753,0.0099,False
+8562,da-DK,calendar,calendar_remove,slet min møde for klokken fjorten i dag,calendar_remove,0.9991,0.9991,True
+8568,da-DK,calendar,calendar_set,vil du sende en kalenderinvitation ud til jørgen og tove for brunch klokken elleve på tirsdag,calendar_remove,0.7517,0.2428,False
+8570,da-DK,calendar,calendar_set,vil markere at jeg har travlt til en begivenhed i morgen klokken fjorten,calendar_remove,0.3973,0.0762,False
+8579,da-DK,calendar,calendar_query,hvilken information skal jeg vide før mine møder i dag,email_query,0.996,0.0,False
+8585,da-DK,calendar,calendar_set,mig mig om at jeg har fødselsdagsfest den tredivte,qa_factoid,0.241,0.0272,False
+8598,da-DK,calendar,calendar_set,påmind mig om at hente mark i lufthavnen klokken atten,weather_query,0.9946,0.0001,False
+8618,da-DK,calendar,calendar_set,mind mig om at vande mine planter hver tirsdag torsdag og lørdag,calendar_remove,0.4219,0.0115,False
+8631,da-DK,calendar,calendar_remove,slet det fra min kalender,calendar_remove,0.5905,0.5905,True
+8635,da-DK,calendar,calendar_set,kan du finde mig om at bestille kalkunen tre uger før,iot_hue_lightoff,0.9248,0.0,False
+8640,da-DK,calendar,calendar_set,jeg vil lave en note i min kalender for begivenheden i morgen på biblioteket,calendar_set,0.9812,0.9812,True
+8642,da-DK,calendar,calendar_set,tilføj konferenceopkald klokken seksten til mine påmindelser for i dag,qa_factoid,0.975,0.0002,False
+8651,da-DK,calendar,calendar_set,underret mig om den begivenhed der er i min kalender,calendar_set,0.4526,0.4526,True
+8653,da-DK,calendar,calendar_set,påmind mig om begivenheden i min kalender,calendar_query,0.5787,0.2015,False
+8666,da-DK,calendar,calendar_remove,slet alle begivenheder fra min kalender,lists_remove,0.9463,0.0457,False
+8667,da-DK,calendar,calendar_query,inden for de sidste tre måneder hvor mange møder havde jeg med mister jørgensen,recommendation_events,0.1803,0.036,False
+8670,da-DK,calendar,calendar_remove,fjern begivenheder fra kalender,calendar_remove,0.9868,0.9868,True
+8672,da-DK,calendar,calendar_query,hvor er den allan olsen koncert,play_music,0.4964,0.0021,False
+8674,da-DK,calendar,calendar_query,hvor er mit møde klokken ni,weather_query,0.7405,0.0013,False
+8679,da-DK,calendar,calendar_query,er det fastelavn i dag,cooking_recipe,0.2508,0.0203,False
+8681,da-DK,calendar,calendar_query,er det nogens fødselsdag,qa_factoid,0.9949,0.0001,False
+8694,da-DK,calendar,calendar_set,begivenheden vil inkludere jørgen og laura,social_post,0.7769,0.0099,False
+8730,da-DK,calendar,calendar_set,sæt en påmindelse i min kalender om mit møde den femogtyvende marts tak,email_sendemail,0.9955,0.0019,False
+8732,da-DK,calendar,calendar_remove,slet alle datoer,lists_remove,0.9946,0.0002,False
+8762,da-DK,calendar,calendar_query,fortæl mig mit skema for senere denne eftermiddag,cooking_recipe,0.5014,0.0063,False
+8765,da-DK,calendar,calendar_set,put min aftensmad på sticks n sushi i kalenderen i dag klokken ni,cooking_recipe,0.9697,0.0106,False
+8766,da-DK,calendar,calendar_query,har jeg et møde på lørdag den femogtyvende marts,calendar_remove,0.1841,0.1012,False
+8767,da-DK,calendar,calendar_query,er lærkes fødselsdag tolvte april,datetime_query,0.4498,0.0154,False
+8769,da-DK,calendar,calendar_remove,slet kommende begivenhed,lists_remove,0.9554,0.0203,False
+8771,da-DK,calendar,calendar_remove,slet shoppe tur jeg haved den treogtyvende marts,cooking_recipe,0.2658,0.0987,False
+8774,da-DK,calendar,calendar_query,er mit skema for syvende juli komplet åben,calendar_remove,0.8722,0.0027,False
+8781,da-DK,calendar,calendar_query,er jeg fri klokken seksten,weather_query,0.98,0.0005,False
+8782,da-DK,calendar,calendar_query,har jeg et møde i eftermiddag,qa_factoid,0.2913,0.0433,False
+8791,da-DK,calendar,calendar_query,mere information om denne begivenhed,social_post,0.407,0.0101,False
+8795,da-DK,calendar,calendar_query,vis verserende påmindelser,recommendation_events,0.9775,0.0003,False
+8822,da-DK,recommendation,recommendation_events,info om kommende events,news_query,0.6128,0.1191,False
+8824,da-DK,calendar,calendar_query,hvad har jeg planlagt den nittende klokken to om eftermiddagen,weather_query,0.1475,0.0743,False
+8825,da-DK,calendar,calendar_set,send mig en påmindelse omkring mit møde med tom næste fredag,email_sendemail,0.9942,0.0002,False
+8828,da-DK,calendar,calendar_query,er kalender begivenhed sand,qa_factoid,0.9754,0.0,False
+8846,da-DK,calendar,calendar_query,har jeg noget planlagt den fjerde juli i år,calendar_remove,0.2729,0.0245,False
+8853,da-DK,calendar,calendar_remove,slet min næste aktivitet,lists_remove,0.7754,0.009,False
+8856,da-DK,calendar,calendar_remove,slet alle begivenheder i kalender,lists_remove,0.9667,0.0049,False
+8857,da-DK,calendar,calendar_set,påmind om kommende møde med søren,email_sendemail,0.9986,0.0,False
+8868,da-DK,calendar,calendar_set,mind mig om at ringe til mor hver tirsdag klokken ti,email_sendemail,0.3559,0.0193,False
+8880,da-DK,calendar,calendar_set,sæt en påmindelse om morgendagens møde klokken ni,calendar_set,0.4515,0.4515,True
+8888,da-DK,calendar,calendar_remove,slet den,lists_remove,0.9782,0.0093,False
+8900,da-DK,calendar,calendar_set,sæt gentagende påmindelse hver søndag,email_sendemail,0.9996,0.0001,False
+8904,da-DK,calendar,calendar_query,information om nylige begivenheder,news_query,0.6197,0.0077,False
+8906,da-DK,calendar,calendar_set,indstil begivenhedsdato i kalender med andre,calendar_set,0.9364,0.9364,True
+8907,da-DK,calendar,calendar_set,nævn begivenheder i min kalender med andre,recommendation_events,0.2214,0.1121,False
+8912,da-DK,calendar,calendar_query,giv mig dagens kalender begivenheder efter klokken atten,calendar_query,0.9683,0.9683,True
+8914,da-DK,calendar,calendar_query,hvad tid er min aftale den fjerde april,datetime_query,0.6552,0.0006,False
+8916,da-DK,calendar,calendar_query,hvad er mit skema for dagen,cooking_recipe,0.4481,0.026,False
+8925,da-DK,calendar,calendar_remove,slet alle begivenhederne i min kalender,lists_remove,0.9778,0.0079,False
+8939,da-DK,calendar,calendar_set,lærkes datters baby shower,play_music,0.2696,0.0306,False
+8948,da-DK,calendar,calendar_set,tilføj begivenhed for mødet med jørgen,social_post,0.531,0.0297,False
+8949,da-DK,calendar,calendar_remove,venligst fjern påmindelse,qa_factoid,0.9953,0.0002,False
+8958,da-DK,calendar,calendar_query,åben møde tid,calendar_remove,0.9097,0.0025,False
+8960,da-DK,calendar,calendar_set,jeg vil have du laver alarm om aftenen om kommende møde,iot_hue_lightoff,0.5691,0.0068,False
+8967,da-DK,calendar,calendar_set,påmind mig to dage før min kones fødselsdag,qa_factoid,0.9863,0.0003,False
+8968,da-DK,calendar,calendar_set,fortæl mig noget at påminde mig denne uge,social_post,0.8657,0.0015,False
+8975,da-DK,calendar,calendar_query,hvad omhandler mødet planlagt til i dag,news_query,0.6446,0.0095,False
+8977,da-DK,calendar,calendar_set,bare indstil påmindelser for mig om afventende regningsbetalinger,recommendation_events,0.8329,0.0059,False
+8978,da-DK,calendar,calendar_set,bare fortæl mig de vigtige møder med min chef i løbet af ugen,recommendation_events,0.5599,0.0107,False
+8985,da-DK,calendar,calendar_remove,ok google slet sørens fødselsdag fra kalender,calendar_remove,0.999,0.999,True
+8990,da-DK,calendar,calendar_set,lav begivenhed,qa_factoid,0.8543,0.0018,False
+8992,da-DK,calendar,calendar_set,vis møder,social_post,0.4574,0.0126,False
+9009,da-DK,calendar,calendar_remove,fjern jubilæums event fra min kalender,calendar_remove,1.0,1.0,True
+9011,da-DK,calendar,calendar_query,er mortensaften begivenheden den fjortende denne måned sand,qa_factoid,0.1563,0.0456,False
+9014,da-DK,calendar,calendar_set,vær sød at sætte en notifikation på den treogtyvende oktober om møde med min kollega,email_sendemail,0.9775,0.0001,False
+9015,da-DK,calendar,calendar_remove,ryd alle mine kalender begivenheder,calendar_remove,0.883,0.883,True
+9019,da-DK,calendar,calendar_query,møder fra toogtyvende til femogtyvende juni,datetime_query,0.4303,0.068,False
+9030,da-DK,calendar,calendar_remove,fjern mit lægebesøg for i dag fra kalender,calendar_remove,0.6424,0.6424,True
+9035,da-DK,calendar,calendar_query,jørgens bryllups påmindelse,email_sendemail,0.4571,0.0107,False
+9043,da-DK,calendar,calendar_set,kommende begivenheder i kalender,calendar_set,0.8682,0.8682,True
+9053,da-DK,calendar,calendar_set,indstil et møde begivenhed med mona på tirsdag,qa_factoid,0.2596,0.017,False
+9054,da-DK,calendar,calendar_set,begivenhedspåmindelse mona tirsdag,social_post,0.8037,0.0051,False
+9059,da-DK,calendar,calendar_set,advar me ved tidspunktet for begivenheden,qa_factoid,0.7769,0.0008,False
+9061,da-DK,calendar,calendar_query,hvilke informationer har jeg i påmindelser,news_query,0.4598,0.014,False
+9062,da-DK,calendar,calendar_set,kan du putte lærkes fødselsdag på den toogtyvende juni,weather_query,0.8785,0.0039,False
+9074,da-DK,calendar,calendar_remove,fjern den begivenhed tak,calendar_remove,0.3704,0.3704,True
+9088,da-DK,calendar,calendar_remove,ryd alt i min kalender,calendar_remove,0.9902,0.9902,True
+9095,da-DK,calendar,calendar_remove,fjern aftenens middag hos liselotte,play_radio,0.9096,0.0002,False
+9103,da-DK,calendar,calendar_query,er der et møde i min kalender denne eftermiddag,calendar_query,0.9407,0.9407,True
+9107,da-DK,calendar,calendar_query,hvad tid begynder allan olsen koncerten den tredje juni,play_music,0.9835,0.0001,False
+9110,da-DK,calendar,calendar_set,messeudstilling to tusind og sytten på den femogtyvende marts lav en note omkring det på den korresponderende dato,email_sendemail,0.9998,0.0,False
+9112,da-DK,calendar,calendar_set,gør så det tilføjes til min kalender,calendar_set,0.9985,0.9985,True
+9114,da-DK,calendar,calendar_set,lav en gentagende påmindelse for denne kalender begivenhed,calendar_remove,0.9996,0.0001,False
+9116,da-DK,calendar,calendar_query,kan du omlægge mit møde,lists_remove,0.3943,0.0028,False
+9121,da-DK,calendar,calendar_query,hvilke dage har jeg aftaler,qa_factoid,0.9607,0.0009,False
+9124,da-DK,calendar,calendar_set,vis mig begivenheder fra min arbejds kalender næste uge,news_query,0.3669,0.1272,False
+9137,da-DK,calendar,calendar_query,på hvilke tidspunkt er den italienske cafe lukket mellem frokost og aftensmad,qa_factoid,0.5582,0.0004,False
+9138,da-DK,qa,qa_factoid,hvornår starter champions league officielt,qa_factoid,0.9998,0.9998,True
+9149,da-DK,calendar,calendar_query,hvad tid er det meningen gymnasiets gallamiddag starter,qa_factoid,0.9945,0.0022,False
+9153,da-DK,calendar,calendar_set,vær venlig at tilføje middag med maren til min kalender på lørdag,calendar_set,0.875,0.875,True
+9155,da-DK,calendar,calendar_set,vær venlig at putte en tandlægetid klokken tre på fredag,iot_hue_lightoff,0.5951,0.014,False
+9156,da-DK,calendar,calendar_set,påmind,qa_factoid,0.645,0.0053,False
+9175,da-DK,calendar,calendar_query,er min kalender blevet opdateret i de sidste ti minutter,calendar_remove,0.3396,0.3322,False
+9182,da-DK,calendar,calendar_remove,aflys mine planer om at hente min forældre fra lufthavnen,transport_query,0.9234,0.0023,False
+9187,da-DK,calendar,calendar_set,undersøg klienterne der vil deltage i mødet,social_post,0.4806,0.0066,False
+9193,da-DK,calendar,calendar_set,vær venlig at indstille denne dato til at gentage sig,qa_factoid,0.998,0.0006,False
+9194,da-DK,calendar,calendar_remove,vær venlig at fjerne denne begivenhed fra min kalender,calendar_remove,0.9964,0.9964,True
+9197,da-DK,calendar,calendar_query,hvad har jeg planlagt den denne uge,weather_query,0.1774,0.0327,False
+9198,da-DK,calendar,calendar_query,vær sød at tjekke mine påmindelser,recommendation_events,0.9866,0.0004,False
+9202,da-DK,play,play_radio,spil min radio station,qa_factoid,0.9841,0.0076,False
+9204,da-DK,play,play_radio,start bbc radio,play_radio,1.0,1.0,True
+9212,da-DK,play,play_radio,en eller anden spil radio,play_radio,1.0,1.0,True
+9216,da-DK,play,play_radio,spil min station,qa_factoid,0.5733,0.0076,False
+9225,da-DK,play,play_radio,kan du tænde for radio,play_radio,0.8217,0.8217,True
+9233,da-DK,play,play_radio,åbn spotify,play_podcasts,0.2864,0.0108,False
+9236,da-DK,play,play_radio,gå til kanal p tre,qa_factoid,0.5258,0.0053,False
+9237,da-DK,play,play_radio,sæt radio på og spil kanal p fire,play_radio,1.0,1.0,True
+9250,da-DK,play,play_radio,jeg vil høre radio,play_radio,1.0,1.0,True
+9254,da-DK,play,play_radio,tænd for p tre,iot_hue_lightoff,0.8637,0.0113,False
+9263,da-DK,play,play_radio,åbn radio app,play_radio,1.0,1.0,True
+9269,da-DK,play,play_radio,skift over på p et,iot_hue_lightoff,0.8045,0.0019,False
+9270,da-DK,play,play_radio,bare spil p tre,play_music,0.772,0.191,False
+9275,da-DK,play,play_radio,ni hundrede og nioghalvfems f.m. skal spillede på radioen,play_radio,0.9967,0.9967,True
+9284,da-DK,play,play_radio,spil fm,iot_hue_lightoff,0.3949,0.1834,False
+9291,da-DK,play,play_radio,sæt på,qa_factoid,0.7739,0.0078,False
+9301,da-DK,play,play_radio,spil p et,iot_hue_lightoff,0.7879,0.0049,False
+9303,da-DK,play,play_radio,spil p fire,iot_hue_lightoff,0.7788,0.0883,False
+9305,da-DK,play,play_radio,skift over til classic hits,play_music,0.9511,0.0003,False
+9316,da-DK,play,play_radio,spil p fire for mig,iot_hue_lightoff,0.6985,0.0055,False
+9317,da-DK,play,play_radio,start radio nu,play_radio,1.0,1.0,True
+9321,da-DK,play,play_radio,tænd radio nu,play_radio,1.0,1.0,True
+9323,da-DK,play,play_radio,tænd for dr radio,play_radio,0.9993,0.9993,True
+9326,da-DK,play,play_radio,spil p et lige nu,qa_factoid,0.9038,0.0482,False
+9327,da-DK,play,play_radio,scan venligst am båndet på radioen lige nu,play_radio,1.0,1.0,True
+9330,da-DK,play,play_radio,spil,qa_factoid,0.7955,0.0206,False
+9341,da-DK,play,play_radio,alexa skift radio station,play_radio,0.9993,0.9993,True
+9352,da-DK,play,play_radio,spil radio tak,play_radio,1.0,1.0,True
+9353,da-DK,play,play_radio,start musikafspilning fra radio,play_radio,0.9239,0.9239,True
+9358,da-DK,play,play_radio,start radio kanal p et,play_radio,1.0,1.0,True
+9361,da-DK,play,play_radio,lyt til radio,play_radio,0.9996,0.9996,True
+9362,da-DK,play,play_radio,radio kanaler,play_radio,0.9999,0.9999,True
+9363,da-DK,play,play_radio,lad os spille hits på radio,play_music,0.8706,0.1284,False
+9364,da-DK,play,play_radio,lad os spille musik hits,play_music,1.0,0.0,False
+9380,da-DK,play,play_radio,jeg vil have dig til at gå til p fire på radioen,play_radio,1.0,1.0,True
+9384,da-DK,play,play_radio,spil p tre,qa_factoid,0.6547,0.0061,False
+9394,da-DK,play,play_radio,hej olly spil radio,play_radio,1.0,1.0,True
+9402,da-DK,play,play_radio,spil den radio station der hedder p tre,play_radio,1.0,1.0,True
+9406,da-DK,play,play_radio,start p tre,iot_hue_lightoff,0.4978,0.1293,False
+9408,da-DK,play,play_radio,start radio afspilning,play_radio,1.0,1.0,True
+9426,da-DK,play,play_radio,jeg vil høre p fire,play_music,0.9788,0.0091,False
+9438,da-DK,play,play_radio,kan du spille mig en rap sang på radioen,play_radio,0.7144,0.7144,True
+9457,da-DK,play,play_music,spil sangen let it go,play_music,0.9999,0.9999,True
+9460,da-DK,play,play_music,spil halvfemser hip hop,play_music,0.9999,0.9999,True
+9471,da-DK,play,play_radio,tænd for country musik station,play_music,0.996,0.0011,False
+9494,da-DK,play,play_radio,kunne du spille den fm station der spiller pop sange tak,play_music,1.0,0.0,False
+9506,da-DK,play,play_radio,olly lad os høre p et,play_music,0.9618,0.0114,False
+9507,da-DK,play,play_radio,find en radio station der aktuelt spiller peter lund madsen,play_radio,0.9986,0.9986,True
+9519,da-DK,play,play_radio,spil en uvilkårlig pop p fire kanal,play_music,0.5727,0.089,False
+9520,da-DK,play,play_radio,spil den sidste doktor who radio udsendelse,play_radio,1.0,1.0,True
+9524,da-DK,play,play_radio,skift program til p tre,cooking_recipe,0.4152,0.0044,False
+9528,da-DK,play,play_radio,sæt p et på og spil det ud af højtalere,iot_hue_lightoff,1.0,0.0,False
+9541,da-DK,play,play_radio,spil sød sang på radio,play_music,0.6419,0.3579,False
+9542,da-DK,play,play_radio,lad mig lytte til det seneste nyhedsprogram på radioen,play_radio,0.9998,0.9998,True
+9545,da-DK,play,play_radio,jeg vil høre bob cesca show,play_music,1.0,0.0,False
+9554,da-DK,play,play_radio,spil romantisk musik på p tre,play_music,1.0,0.0,False
+9561,da-DK,play,play_radio,spil p tre på radioen,play_radio,1.0,1.0,True
+9562,da-DK,play,play_radio,kan du spille dette program for mig tak,play_radio,0.727,0.727,True
+9565,da-DK,play,play_radio,spil radio nonstop sange,play_radio,1.0,1.0,True
+9568,da-DK,play,play_radio,spil britney spears live koncert serie,play_music,0.72,0.0006,False
+9569,da-DK,play,play_radio,ok google spil p et,qa_factoid,0.8358,0.0265,False
+9577,da-DK,play,play_radio,skift station til p fire,calendar_remove,0.3834,0.0105,False
+9591,da-DK,play,play_radio,spil p fire,iot_hue_lightoff,0.7788,0.0883,False
+9592,da-DK,play,play_podcasts,søg efter podcasts cover for perfekt uperfekt,play_podcasts,0.9947,0.9947,True
+9594,da-DK,play,play_radio,p tre sange,social_post,0.7315,0.0121,False
+9601,da-DK,play,play_radio,spil p fire jazz,play_music,0.9979,0.002,False
+9617,da-DK,play,play_radio,spil mig denne morgens program fra p tre,play_music,0.9964,0.0032,False
+9619,da-DK,play,play_radio,spil jazz på min bil radio,play_radio,0.8645,0.8645,True
+9620,da-DK,play,play_radio,kan jeg få brinkmann på radio i soveværelse,play_radio,1.0,1.0,True
+9629,da-DK,play,play_radio,kunne du venligst hjælpe mig med at høre radio,play_radio,1.0,1.0,True
+9630,da-DK,play,play_radio,spil radio p tre for mig,play_radio,1.0,1.0,True
+9632,da-DK,play,play_radio,radio tak,play_radio,0.9999,0.9999,True
+9637,da-DK,play,play_radio,start min playliste på p fire,play_music,0.997,0.0014,False
+9640,da-DK,play,play_radio,åbn spotify og åbn workout,play_podcasts,0.5595,0.0562,False
+9651,da-DK,play,play_radio,spil netflix på min p s fire,play_music,0.3614,0.054,False
+9656,da-DK,play,play_music,spil mig en upbeat sang gennem dine højtalere,play_music,0.9995,0.9995,True
+9706,da-DK,play,play_music,spil bjældeklang,qa_factoid,0.9907,0.0008,False
+9707,da-DK,play,play_music,åbn medier og afspil jingle bells,play_music,0.9759,0.9759,True
+9738,da-DK,play,play_music,kunne du spille klassisk musik for mig tak,play_music,1.0,1.0,True
+9793,da-DK,play,play_music,spil de romantiske sange,play_music,0.9834,0.9834,True
+9795,da-DK,play,play_music,fortsæt fast car,qa_factoid,0.9795,0.0008,False
+9912,da-DK,cooking,cooking_recipe,olly hvor længe skal jeg koge æggene,cooking_recipe,0.5252,0.5252,True
+9918,da-DK,cooking,cooking_recipe,hvordan laver jeg en pizza,cooking_recipe,1.0,1.0,True
+9923,da-DK,cooking,cooking_recipe,hvor længe bør jeg koge et æg,iot_hue_lightoff,0.4602,0.0108,False
+9924,da-DK,cooking,cooking_recipe,giv mig opskriften på,qa_factoid,0.9857,0.0013,False
+9930,da-DK,cooking,cooking_recipe,hvor længe bør jeg koge ægget,iot_hue_lightoff,0.7171,0.2616,False
+9931,da-DK,cooking,cooking_recipe,olly hvor længe skal jeg koge ægget,cooking_recipe,0.9204,0.9204,True
+9940,da-DK,cooking,cooking_recipe,find mig en opskrift på chokoladekage,cooking_recipe,1.0,1.0,True
+9941,da-DK,cooking,cooking_recipe,hvordan laver jeg kylling i karry,cooking_recipe,1.0,1.0,True
+9942,da-DK,cooking,cooking_recipe,hvad skal der i en chokoladekage,cooking_recipe,0.9508,0.9508,True
+9943,da-DK,cooking,cooking_recipe,hvor lang tid tager det at lave grøntsagslasagne,cooking_recipe,1.0,1.0,True
+9952,da-DK,cooking,cooking_recipe,giv mig et madlavningskursus,qa_factoid,0.9959,0.0039,False
+9955,da-DK,cooking,cooking_recipe,vis mig en video om tilberedning af stegt kylling,cooking_recipe,0.9999,0.9999,True
+9956,da-DK,cooking,cooking_recipe,hvad kan jeg udskifte smør med,cooking_recipe,0.997,0.997,True
+9961,da-DK,cooking,cooking_recipe,hvad er den bedste ovn temperatur til at stege kartofler,cooking_recipe,0.8668,0.8668,True
+9962,da-DK,cooking,cooking_recipe,hvad er den bedste måde at tilberede pasta al dente,cooking_recipe,1.0,1.0,True
+9964,da-DK,cooking,cooking_recipe,viden omkring mad processer,qa_definition,0.556,0.0403,False
+9966,da-DK,cooking,cooking_recipe,hvad er den letteste måde at tilberede pasta,cooking_recipe,0.9999,0.9999,True
+9969,da-DK,cooking,cooking_recipe,hvilken ingrediens kan bruges i stedet for safran,cooking_recipe,0.9942,0.9942,True
+9971,da-DK,cooking,cooking_recipe,hvad er bedre til at lede varme gryder med kobberbund eller støbejern,cooking_recipe,0.998,0.998,True
+9976,da-DK,cooking,cooking_recipe,hey robot giv mig en liste af ingredienser på forloren hare,cooking_recipe,0.9984,0.9984,True
+9977,da-DK,cooking,cooking_recipe,venligst søg på nettet og vis brugbare youtube videoer for at lave italiensk mad,cooking_recipe,0.9403,0.9403,True
+9979,da-DK,cooking,cooking_recipe,tilbered nogle havregryn til mig,cooking_recipe,0.9997,0.9997,True
+9980,da-DK,cooking,cooking_recipe,hvad er dagens menu tilføj også nogle kogte grøntsager til det,cooking_recipe,0.9815,0.9815,True
+9986,da-DK,cooking,cooking_recipe,kogende,email_sendemail,0.1522,0.0443,False
+9994,da-DK,cooking,cooking_recipe,kan du fortælle mig opskriften på pizza,cooking_recipe,1.0,1.0,True
+10016,da-DK,cooking,cooking_recipe,jule anden forberedelses procedure i fem sætninger er hvad,cooking_recipe,0.9961,0.9961,True
+10019,da-DK,cooking,cooking_recipe,venligst fortæl mig hvordan jeg bager tolv havregrynssmåkager,cooking_recipe,0.9998,0.9998,True
+10023,da-DK,cooking,cooking_recipe,hvad skal jeg bruge til at lave flæskesteg,cooking_recipe,0.9998,0.9998,True
+10027,da-DK,cooking,cooking_recipe,instruktioner til at tilberede et måltid,cooking_recipe,0.9997,0.9997,True
+10031,da-DK,cooking,cooking_recipe,jeg skal bruge en opskrift med ingredienser fra min indkøbsliste,cooking_recipe,0.9999,0.9999,True
+10038,da-DK,cooking,cooking_recipe,jeg har brug for gode idéer til madlavning,cooking_recipe,0.9995,0.9995,True
+10045,da-DK,cooking,cooking_recipe,kan du give mig en opskrift på hjemmelavet kyllingesuppe med nudler,cooking_recipe,1.0,1.0,True
+10048,da-DK,cooking,cooking_recipe,hvordan laver jeg kalkun,cooking_recipe,0.9999,0.9999,True
+10049,da-DK,cooking,cooking_recipe,fortæl mig hvordan man laver smørrebrød,cooking_recipe,1.0,1.0,True
+10053,da-DK,cooking,cooking_recipe,hvordan laver jeg pizza,cooking_recipe,1.0,1.0,True
+10055,da-DK,cooking,cooking_recipe,hvad er opskriften på stegt kylling,cooking_recipe,1.0,1.0,True
+10061,da-DK,cooking,cooking_recipe,hvad skal jeg lave til aftensmad,cooking_recipe,0.9999,0.9999,True
+10072,da-DK,cooking,cooking_recipe,stege tid for kylling i ovnen,cooking_recipe,0.9994,0.9994,True
+10076,da-DK,cooking,cooking_recipe,kan jeg erstatte natron med bagepulver,cooking_recipe,0.8905,0.8905,True
+10077,da-DK,cooking,cooking_recipe,find en opskrift på aftensmad til i aften,cooking_recipe,0.6506,0.6506,True
+10078,da-DK,cooking,cooking_recipe,hvad skal jeg lave til aftensmad,cooking_recipe,0.9999,0.9999,True
+10080,da-DK,cooking,cooking_recipe,lad os lave kødboller sammen,cooking_recipe,0.9996,0.9996,True
+10081,da-DK,cooking,cooking_recipe,fortæl mig hvordan man laver kødboller,cooking_recipe,1.0,1.0,True
+10090,da-DK,cooking,cooking_recipe,kan jeg få en opskrift på tun,cooking_recipe,0.9081,0.9081,True
+10093,da-DK,cooking,cooking_recipe,hvordan laves lasagne,cooking_recipe,1.0,1.0,True
+10097,da-DK,cooking,cooking_recipe,jeg vil gerne have en cheeseburger,qa_factoid,0.4888,0.4865,False
+10099,da-DK,cooking,cooking_recipe,ved du hvordan man laver risotto,cooking_recipe,1.0,1.0,True
+10100,da-DK,cooking,cooking_recipe,kender du opskriften på risotto,cooking_recipe,1.0,1.0,True
+10105,da-DK,cooking,cooking_recipe,hvor længe skal jeg stege en bøf for at få den medium rare,cooking_recipe,0.9977,0.9977,True
+10107,da-DK,cooking,cooking_recipe,jeg skal bruge en opskrift på grøntsagspilaf,cooking_recipe,0.9844,0.9844,True
+10119,da-DK,cooking,cooking_recipe,hvor længe skal man tilberede en kalkun på syv kilo,cooking_recipe,0.9981,0.9981,True
+10125,da-DK,cooking,cooking_recipe,hvad er forskellen på at bage og grille,cooking_recipe,0.9999,0.9999,True
+10132,da-DK,cooking,cooking_recipe,hvor længe skal jeg stege en bøf til at være medium stegt,cooking_recipe,0.9997,0.9997,True
+10150,da-DK,cooking,cooking_recipe,hvordan laver man taco,cooking_recipe,0.9998,0.9998,True
+10156,da-DK,cooking,cooking_recipe,jeg skal vide hvordan man laver fyldte peberfrugter,cooking_recipe,0.9999,0.9999,True
+10164,da-DK,cooking,cooking_recipe,hvor længe skal jeg koge makaroni,cooking_recipe,0.9998,0.9998,True
+10166,da-DK,cooking,cooking_recipe,søg på æbletærte opskrift,play_music,0.8596,0.0044,False
+10171,da-DK,cooking,cooking_recipe,hvad er opskriften på fiskesuppe,cooking_recipe,1.0,1.0,True
+10177,da-DK,cooking,cooking_recipe,hvordan tilbereder man spaghetti squash,cooking_recipe,1.0,1.0,True
+10182,da-DK,cooking,cooking_recipe,hvor mange æg skal jeg bruge til en omelet,qa_factoid,0.9963,0.0017,False
+10197,da-DK,cooking,cooking_recipe,vis mig den bedste spaghetti opskrift,cooking_recipe,1.0,1.0,True
+10206,da-DK,cooking,cooking_recipe,hvordan er ris forberedt,cooking_recipe,0.9998,0.9998,True
+10213,da-DK,cooking,cooking_recipe,liste af berømte biryani opskrifter,cooking_recipe,0.9998,0.9998,True
+10214,da-DK,cooking,cooking_recipe,opskrifter der kan laves på en time,cooking_recipe,0.9607,0.9607,True
+10216,da-DK,cooking,cooking_recipe,søg på internettet for at købe forme til muffins,cooking_recipe,0.9998,0.9998,True
+10217,da-DK,cooking,cooking_recipe,find en opskrift for bagt laks i cookingforu appen,cooking_recipe,0.9985,0.9985,True
+10220,da-DK,cooking,cooking_recipe,hvilke ingredienser skal jeg bruge til at bage en stor kage,cooking_recipe,0.9999,0.9999,True
+10224,da-DK,cooking,cooking_recipe,det skal smage godt,iot_hue_lightoff,0.7899,0.1463,False
+10226,da-DK,cooking,cooking_recipe,lad mig få opskriften for hvordan man laver pasta,cooking_recipe,1.0,1.0,True
+10426,da-DK,lists,lists_query,hvad mangler der ellers i dagbogen,cooking_recipe,0.2519,0.0174,False
+10427,da-DK,lists,lists_remove,ryd op på min indkøbs liste tak,lists_remove,0.999,0.999,True
+10430,da-DK,lists,lists_remove,slet første punkt på listen,lists_remove,0.9999,0.9999,True
+10433,da-DK,lists,lists_remove,fjern min opgave liste,lists_remove,0.9999,0.9999,True
+10440,da-DK,lists,lists_query,nogle specielle begivenheder på min liste,lists_remove,0.9743,0.0144,False
+10442,da-DK,lists,lists_remove,fjern begivenheder fra min liste,lists_remove,0.9996,0.9996,True
+10444,da-DK,lists,lists_remove,slet punkt,lists_remove,0.986,0.986,True
+10451,da-DK,lists,lists_query,hvad skal jeg lave i dag,cooking_recipe,0.9976,0.0001,False
+10455,da-DK,lists,lists_query,hvad er der på min to do liste,qa_factoid,0.9995,0.0002,False
+10462,da-DK,lists,lists_remove,fjern liste,lists_remove,1.0,1.0,True
+10493,da-DK,lists,lists_query,hvad er der på min liste med gøremål,lists_query,0.9322,0.9322,True
+10494,da-DK,lists,lists_remove,fjern blyant fra stationær,calendar_remove,0.724,0.1005,False
+10497,da-DK,qa,qa_factoid,kan jeg få en liste over fem stjernet hoteller i københavn,lists_query,0.7086,0.0004,False
+10508,da-DK,lists,lists_remove,fjern liste punkt,lists_remove,1.0,1.0,True
+10512,da-DK,lists,lists_query,list alt der er tilbage af min forespørgsel,lists_remove,0.9986,0.0011,False
+10523,da-DK,lists,lists_remove,slet fra playlisten mine gamle engelske sange listen,play_music,0.9997,0.0001,False
+10525,da-DK,lists,lists_remove,fjern min huslejebetaling fra min kalender,calendar_remove,1.0,0.0,False
+10527,da-DK,lists,lists_remove,fjern listen,play_radio,0.786,0.0034,False
+10534,da-DK,lists,lists_query,hvordan er gøremåls listen i dag,play_music,0.9731,0.0001,False
+10538,da-DK,lists,lists_query,gentag min indkøbs liste tak,lists_remove,0.9456,0.0032,False
+10565,da-DK,lists,lists_remove,slet alle lister,lists_remove,1.0,1.0,True
+10568,da-DK,lists,lists_remove,fjern gammel musik listen,play_music,0.9999,0.0,False
+10570,da-DK,lists,lists_query,tjek min to do liste,qa_factoid,0.9989,0.0,False
+10571,da-DK,lists,lists_query,android styresystem,iot_hue_lightoff,0.9407,0.0031,False
+10577,da-DK,lists,lists_query,giv mig alle mine lister,lists_remove,1.0,0.0,False
+10579,da-DK,lists,lists_remove,nulstil min liste af placeringer,qa_factoid,0.7711,0.2267,False
+10588,da-DK,lists,lists_query,vis mig indholdet af listen,lists_query,0.955,0.955,True
+10590,da-DK,lists,lists_remove,fjern den anden række fra listen,lists_remove,0.9998,0.9998,True
+10655,da-DK,lists,lists_remove,fjern liste kaldet festtid,lists_remove,1.0,1.0,True
+10667,da-DK,lists,lists_query,recitere skemaer liste,lists_remove,0.8481,0.1199,False
+10673,da-DK,lists,lists_remove,fjern den følgende liste tak,lists_remove,1.0,1.0,True
+10674,da-DK,lists,lists_remove,slet den nuværende liste,lists_remove,1.0,1.0,True
+10679,da-DK,lists,lists_query,hvad er min opgaveliste for i dag,qa_factoid,0.9979,0.0001,False
+10684,da-DK,lists,lists_query,hvilke lister har jeg i kø,lists_query,0.9745,0.9745,True
+10687,da-DK,lists,lists_remove,hvis der er en begivenhed med et show så fjern det,qa_factoid,0.3048,0.023,False
+10696,da-DK,lists,lists_remove,erstat,qa_factoid,0.2467,0.0262,False
+10699,da-DK,lists,lists_query,fortæl mig om punkterne på den liste,lists_remove,0.8896,0.0535,False
+10718,da-DK,lists,lists_remove,kan du fjerne dette punkt fra listen,lists_remove,0.9997,0.9997,True
+10731,da-DK,lists,lists_query,læs hvad der er på min liste op,lists_query,0.999,0.999,True
+10743,da-DK,lists,lists_remove,fjern det punkt,iot_hue_lightoff,0.5296,0.005,False
+10753,da-DK,lists,lists_query,hvad har jeg allerede tilføjet til bilka listen,lists_query,0.323,0.323,True
+10755,da-DK,lists,lists_remove,smid min to do liste ud tak,qa_factoid,0.976,0.0235,False
+10756,da-DK,lists,lists_remove,ryd indkøbs liste,lists_remove,0.9984,0.9984,True
+10757,da-DK,lists,lists_query,hvilke ting er der på min indkøbs liste,lists_remove,0.8637,0.1204,False
+10759,da-DK,lists,lists_query,læs min shopping liste for mig,lists_query,0.9859,0.9859,True
+10760,da-DK,lists,lists_query,fortæl mig den liste jeg skrev for to dage siden,lists_remove,0.9995,0.0002,False
+10770,da-DK,lists,lists_remove,fjern havregryn fra min indkøbs liste,lists_remove,0.9676,0.9676,True
+10772,da-DK,calendar,calendar_remove,fjern min tid ved tandlægen fra dagens planer,calendar_remove,0.7225,0.7225,True
+10776,da-DK,lists,lists_query,har jeg en indkøbs liste klar,lists_query,0.8793,0.8793,True
+10786,da-DK,lists,lists_remove,ryd min aktivitets liste for i dag,lists_remove,0.9997,0.9997,True
+10790,da-DK,lists,lists_remove,fjern emne fra liste,lists_remove,0.9998,0.9998,True
+10804,da-DK,lists,lists_query,læs min liste med indkøb,lists_remove,0.5283,0.47,False
+10805,da-DK,lists,lists_query,vis mig den liste jeg har,lists_remove,0.8792,0.1195,False
+10808,da-DK,lists,lists_remove,fjern det sidste punkt,calendar_remove,0.9024,0.0445,False
+10824,da-DK,lists,lists_remove,olly ryd listen,social_post,0.8686,0.0005,False
+10825,da-DK,lists,lists_remove,ryd listen,play_radio,0.3266,0.0176,False
+10827,da-DK,lists,lists_remove,slet liste til indkøb,lists_remove,0.9998,0.9998,True
+10828,da-DK,lists,lists_remove,slet alt,lists_remove,0.4603,0.4603,True
+10832,da-DK,calendar,calendar_query,olly hvad har jeg planlagt næste gang,social_post,0.3434,0.0118,False
+10843,da-DK,lists,lists_remove,fjern mælk fra min indkøbs liste,lists_remove,0.9595,0.9595,True
+10846,da-DK,lists,lists_remove,jeg har ikke penge nok til at købe en nintendo switch lige nu kan du fjerne den fra min amazon ønskeliste tak,qa_factoid,0.9474,0.0221,False
+10848,da-DK,lists,lists_remove,fjern denne liste fra de andre,lists_remove,0.9999,0.9999,True
+10851,da-DK,lists,lists_query,hvilke tilgængelige lister har jeg,lists_query,1.0,1.0,True
+10853,da-DK,lists,lists_remove,fjern det der,qa_factoid,0.3004,0.0359,False
+10855,da-DK,lists,lists_query,jeg er nødt til at tjekke min liste,lists_remove,0.9944,0.0054,False
+10868,da-DK,lists,lists_query,olly er der noget tilbage på listen,lists_remove,0.9869,0.0002,False
+10887,da-DK,lists,lists_remove,slet min liste,lists_remove,1.0,1.0,True
+10895,da-DK,lists,lists_remove,slet emne fra min liste,lists_remove,0.9999,0.9999,True
+10909,da-DK,lists,lists_query,olly læs mine lister for mig,lists_query,0.9984,0.9984,True
+10927,da-DK,lists,lists_query,lad mig høre min liste,lists_remove,0.8235,0.0523,False
+10931,da-DK,lists,lists_query,hvad er der på min playliste,qa_factoid,0.9456,0.0031,False
+10936,da-DK,lists,lists_remove,fjern min liste af favorit album,lists_remove,0.9884,0.9884,True
+10954,da-DK,lists,lists_query,hvor mange lister har jeg i kontakter,lists_query,1.0,1.0,True
+10956,da-DK,lists,lists_query,hvilke grupper er listet i mine kontakter,lists_query,0.9953,0.9953,True
+10957,da-DK,lists,lists_query,mind mig om hvor mange lister jeg har,lists_remove,0.9997,0.0003,False
+10960,da-DK,lists,lists_remove,kryds den der af listen,play_podcasts,0.7871,0.0005,False
+10970,da-DK,lists,lists_remove,slet den sidste frase,lists_remove,0.9998,0.9998,True
+10979,da-DK,lists,lists_query,hvad er på din liste lige nu,lists_remove,0.9743,0.0178,False
+10981,da-DK,lists,lists_query,giv mig indholdet af listen,lists_query,0.9448,0.9448,True
+10985,da-DK,lists,lists_remove,slet mine gøremålslister for denne uge,lists_remove,1.0,1.0,True
+10990,da-DK,lists,lists_remove,fjern vask køkkengulv fra listen med gøremål,lists_remove,0.9876,0.9876,True
+10999,da-DK,lists,lists_query,læs liste op,lists_remove,0.8128,0.1851,False
+11023,da-DK,lists,lists_remove,fjern indkøbs liste,lists_remove,1.0,1.0,True
+11024,da-DK,lists,lists_remove,slet to do liste,lists_remove,0.9973,0.9973,True
+11053,da-DK,lists,lists_remove,slip af med listen google,social_post,0.9318,0.0067,False
+11075,da-DK,lists,lists_query,hvor mange lister har jeg,lists_query,1.0,1.0,True
+11081,da-DK,lists,lists_query,hvilke lister er der i min notesbog,lists_remove,1.0,0.0,False
+11085,da-DK,lists,lists_remove,tag mælk ud af min indkøbs liste,lists_remove,1.0,1.0,True
+11098,da-DK,lists,lists_remove,slet skat liste fra nitten halvfems,lists_remove,1.0,1.0,True
+11107,da-DK,lists,lists_query,hvad er min nuværende liste,lists_remove,1.0,0.0,False
+11124,da-DK,lists,lists_query,oprems alle punkterne på min arbejds liste,lists_remove,0.8409,0.0004,False
+11125,da-DK,lists,lists_query,giv mig detaljerne om indkøbs ordre,qa_factoid,0.7102,0.035,False
+11133,da-DK,lists,lists_remove,fjern gæste listen jeg oprettede sidste uge,lists_remove,0.9994,0.9994,True
+11154,da-DK,lists,lists_query,tjek min nylige to do liste,lists_remove,0.9624,0.0364,False
+11162,da-DK,lists,lists_remove,fjern æbler fra liste,lists_remove,0.9998,0.9998,True
+11164,da-DK,lists,lists_remove,fjern fra liste,lists_remove,0.9998,0.9998,True
+11166,da-DK,lists,lists_query,åbn noter,iot_hue_lightoff,0.8134,0.0032,False
+11168,da-DK,lists,lists_remove,slet min liste,lists_remove,1.0,1.0,True
+11172,da-DK,lists,lists_query,giv mig alle tilgængelige lister,lists_query,1.0,1.0,True
+11174,da-DK,lists,lists_query,oprems alle listerne på denne enhed,lists_remove,0.9988,0.0009,False
+11180,da-DK,calendar,calendar_query,min fest planlægning,qa_factoid,0.7599,0.0054,False
+11186,da-DK,lists,lists_query,jeg har min tøj liste,lists_remove,0.9826,0.0158,False
+11189,da-DK,lists,lists_query,find listen,lists_query,0.4548,0.4548,True
+11204,da-DK,lists,lists_query,vigtig husinformation,iot_hue_lightoff,0.1939,0.0387,False
+11215,da-DK,lists,lists_query,liste,lists_query,0.9979,0.9979,True
+11250,da-DK,lists,lists_query,læs min dagligvareliste op for mig,cooking_recipe,0.9494,0.0202,False
+11257,da-DK,play,play_podcasts,olly afspil næste optagelse,play_music,0.9804,0.0065,False
+11259,da-DK,play,play_podcasts,skift til næste podcast,play_podcasts,0.9919,0.9919,True
+11261,da-DK,play,play_podcasts,næste,weather_query,0.9319,0.0008,False
+11265,da-DK,play,play_podcasts,spil den næste,play_music,0.986,0.0007,False
+11266,da-DK,play,play_podcasts,spil en podcast fra mit bibliotek,play_podcasts,1.0,1.0,True
+11267,da-DK,play,play_podcasts,find en spændende podcast om p tre guld vindere,play_podcasts,1.0,1.0,True
+11270,da-DK,play,play_podcasts,spil næste podcast,play_podcasts,1.0,1.0,True
+11272,da-DK,play,play_podcasts,spil næste,play_music,0.8959,0.0008,False
+11279,da-DK,play,play_podcasts,gå til podcasten og afspil næste episode af friends,play_podcasts,1.0,1.0,True
+11286,da-DK,play,play_podcasts,spil design kan podcast,play_podcasts,0.9978,0.9978,True
+11296,da-DK,play,play_podcasts,upload alle mine podcasts,play_podcasts,0.8228,0.8228,True
+11302,da-DK,play,play_podcasts,spil hjernekassen på p et podcast,play_podcasts,1.0,1.0,True
+11303,da-DK,play,play_podcasts,afspil næste genstart podcast,play_podcasts,0.9996,0.9996,True
+11306,da-DK,play,play_podcasts,spil den podcast jeg lyttede til i går,play_podcasts,1.0,1.0,True
+11318,da-DK,play,play_podcasts,afspil næste episode af en podcast,play_podcasts,0.999,0.999,True
+11322,da-DK,play,play_podcasts,hvad er dagens top podcasts,social_post,0.9995,0.0003,False
+11328,da-DK,play,play_podcasts,spil podcast med djævlen i detaljen,play_podcasts,0.9997,0.9997,True
+11331,da-DK,play,play_podcasts,vis mig den bedste podcast med populære rock sange,play_podcasts,1.0,1.0,True
+11335,da-DK,play,play_music,spil og shuffle alle langsomme sange,play_music,0.9997,0.9997,True
+11339,da-DK,play,play_podcasts,spil mine mest sete podcast,play_podcasts,1.0,1.0,True
+11340,da-DK,play,play_podcasts,har brinkmann en ny podcast,play_podcasts,0.999,0.999,True
+11341,da-DK,play,play_podcasts,find den seneste disney podcast,play_podcasts,1.0,1.0,True
+11343,da-DK,play,play_podcasts,ryk til næste episode af djævlen i detaljen,cooking_recipe,0.1768,0.0616,False
+11345,da-DK,play,play_podcasts,spil næste episode af podcast,play_podcasts,1.0,1.0,True
+11349,da-DK,play,play_podcasts,olly genstart den podcast jeg startede i går,play_podcasts,1.0,1.0,True
+11353,da-DK,play,play_podcasts,vis mig podcasts,play_podcasts,0.9998,0.9998,True
+11361,da-DK,play,play_podcasts,detektor podcast afspil den,play_podcasts,0.9555,0.9555,True
+11366,da-DK,play,play_podcasts,gå tilbage til forrige episode af podcast,play_podcasts,0.9997,0.9997,True
+11368,da-DK,play,play_podcasts,spil williams podcast for mig,play_podcasts,0.8172,0.8172,True
+11376,da-DK,play,play_podcasts,jeg vil lytte til podcast,play_podcasts,0.9999,0.9999,True
+11384,da-DK,play,play_podcasts,kan du være venlig og downloade min podcast fil tilgængelig på internettet og afspil den en enkelt gang,play_podcasts,1.0,1.0,True
+11409,da-DK,play,play_podcasts,vær venlig at gå til næste podcast episode,play_podcasts,1.0,1.0,True
+11417,da-DK,play,play_podcasts,start den næste episode,play_podcasts,0.9992,0.9992,True
+11418,da-DK,play,play_podcasts,afspil brinkmanns nyeste podcast,play_podcasts,1.0,1.0,True
+11420,da-DK,play,play_podcasts,begynd at spille min seneste podcast,play_podcasts,0.9991,0.9991,True
+11423,da-DK,play,play_podcasts,spol tredive sekunder tilbage,qa_factoid,0.2778,0.0156,False
+11424,da-DK,play,play_podcasts,p et,iot_hue_lightoff,0.8398,0.0038,False
+11426,da-DK,lists,lists_query,mest sete liste,lists_remove,0.9976,0.0021,False
+11427,da-DK,play,play_podcasts,start gilmore guys,iot_hue_lightoff,0.4007,0.0169,False
+11437,da-DK,play,play_podcasts,spil podcast for mig tak,play_podcasts,1.0,1.0,True
+11438,da-DK,play,play_podcasts,vær venlig at gå til næste episode af podcasten,play_podcasts,1.0,1.0,True
+11442,da-DK,play,play_podcasts,spil den seneste brinkmann podcast tak,play_podcasts,1.0,1.0,True
+11451,da-DK,play,play_podcasts,jeg vil lytte til den seneste sustain daily podcast,play_podcasts,1.0,1.0,True
+11453,da-DK,play,play_podcasts,start podcasts på third ear,play_podcasts,1.0,1.0,True
+11455,da-DK,play,play_podcasts,gå til næste afsnit,calendar_remove,0.7094,0.0048,False
+11458,da-DK,play,play_podcasts,gå videre til næste podcast episode,play_podcasts,1.0,1.0,True
+11459,da-DK,play,play_podcasts,gå tilbage til forrige episode i denne podcast,play_podcasts,1.0,1.0,True
+11460,da-DK,play,play_podcasts,jeg høre en sport podcast,play_podcasts,1.0,1.0,True
+11467,da-DK,play,play_podcasts,spil den seneste podcast fra brinkmanns briks,play_podcasts,1.0,1.0,True
+11470,da-DK,play,play_podcasts,spil min favorit podcast tak,play_podcasts,1.0,1.0,True
+11474,da-DK,play,play_podcasts,fortsæt serie podcast,play_podcasts,0.9862,0.9862,True
+11476,da-DK,play,play_podcasts,spil den forrige podcast,play_podcasts,1.0,1.0,True
+11483,da-DK,play,play_podcasts,start afspilning af genstart,play_radio,0.6356,0.0006,False
+11490,da-DK,play,play_podcasts,spil sustain daily podcast,play_podcasts,0.9962,0.9962,True
+11502,da-DK,play,play_podcasts,næste knap,calendar_remove,0.987,0.0003,False
+11505,da-DK,play,play_podcasts,gentag min sidste podcast,play_podcasts,0.9704,0.9704,True
+11514,da-DK,play,play_podcasts,olly kan vi lytte til p et podcast,social_post,0.9627,0.0372,False
+11515,da-DK,play,play_podcasts,lad os høre kvinden i buret podcast,play_podcasts,1.0,1.0,True
+11525,da-DK,play,play_podcasts,jeg vil se den næste podcast der er tilgængelig,play_podcasts,1.0,1.0,True
+11529,da-DK,play,play_podcasts,hej spil min favorit podcast hjerteflimmer,play_podcasts,1.0,1.0,True
+11536,da-DK,play,play_podcasts,tilføj podcast favoritter til playliste og start,play_podcasts,1.0,1.0,True
+11539,da-DK,play,play_podcasts,start næste podcast,play_podcasts,1.0,1.0,True
+11546,da-DK,play,play_podcasts,spil al hjernekassen på p et fra forrige uge,play_music,0.3192,0.007,False
+11554,da-DK,play,play_podcasts,jeg vil have dig til at spille den podcast,play_podcasts,1.0,1.0,True
+11563,da-DK,recommendation,recommendation_events,hvad er der at lave i brønderslev,weather_query,0.998,0.0001,False
+11570,da-DK,recommendation,recommendation_events,hvad sker der rundt omkring i min by,qa_factoid,0.7429,0.0085,False
+11582,da-DK,recommendation,recommendation_events,sker der noget på jazz scene i berlin området,recommendation_events,0.3088,0.3088,True
+11585,da-DK,recommendation,recommendation_events,nogle kulturelle begivenheder i nordjylland,news_query,0.3756,0.1106,False
+11598,da-DK,recommendation,recommendation_events,lad mig vide om hundeshows begivenheder der er i min hjemby,social_post,0.5151,0.028,False
+11600,da-DK,recommendation,recommendation_events,hvilken film kan jeg se i aften her i herning,play_music,0.3341,0.0198,False
+11610,da-DK,recommendation,recommendation_events,giv mig en liste af cirkusforestillinger som finder sted i byen lige nu,lists_query,0.6527,0.0219,False
+11612,da-DK,recommendation,recommendation_events,hvilke vikinge events er der i roskilde,iot_hue_lightoff,0.2977,0.0473,False
+11616,da-DK,recommendation,recommendation_events,er der nogle begivenheder i centrum i aften,weather_query,0.9899,0.0006,False
+11643,da-DK,recommendation,recommendation_events,hvilke events sker snart,recommendation_events,0.1611,0.1611,True
+11644,da-DK,recommendation,recommendation_events,vis mig begivenheder i aalborg,social_post,0.9448,0.0054,False
+11650,da-DK,recommendation,recommendation_events,både unge bilister og prøve bilister har flere uheld end andre bilister fordi de ikke har haft den brede vifte af erfaringer de har brug for til at køre sikkert alene forskning har vist at køreerfaring er en stor del af at forhindre trafikuheld og at den sikreste tid for unge bilister er når de kører under opsyn mens de lærer,lists_query,0.1251,0.0886,False
+11681,da-DK,recommendation,recommendation_events,vis mig marathon i nærheden tak,qa_factoid,0.9335,0.0051,False
+11685,da-DK,recommendation,recommendation_events,jeg ville være glad hvis du opdaterede mig med begivenheder i vores område,news_query,0.7599,0.0244,False
+11705,da-DK,recommendation,recommendation_events,vis mig kunstudstilling i københavnsområdet,weather_query,0.8362,0.0019,False
+11720,da-DK,recommendation,recommendation_events,svømning,calendar_remove,0.6306,0.0057,False
+11767,da-DK,recommendation,recommendation_events,olly hvilke begivenheder er der i odense denne weekend,recommendation_events,0.7139,0.7139,True
+11770,da-DK,recommendation,recommendation_events,nogle begivenheder denne weekend i valby,news_query,0.099,0.0623,False
+11782,da-DK,recommendation,recommendation_events,er der nogen specielle begivenheder nær mig denne weekend,recommendation_events,0.4244,0.4244,True
+11798,da-DK,recommendation,recommendation_events,hvad er den næste begivenhed på biblioteket,play_podcasts,0.8252,0.0186,False
+11827,da-DK,recommendation,recommendation_events,hvor kan jeg tage hen i aften,weather_query,0.9027,0.0018,False
+11839,da-DK,recommendation,recommendation_events,hvad sker der rundt omkring mig,social_post,0.6166,0.0073,False
+11841,da-DK,recommendation,recommendation_events,er der nogle håndværksmesser i området,recommendation_events,0.3351,0.3351,True
+11844,da-DK,recommendation,recommendation_events,er der nogen interassante begiventheder i havneområdet,qa_factoid,0.255,0.0392,False
+11845,da-DK,recommendation,recommendation_events,olly hit mig op med nogle spændende begivenheder i kyst området,social_post,0.997,0.0001,False
+11860,da-DK,recommendation,recommendation_events,fortæl mig om lokale begivenheder,social_post,0.5806,0.0538,False
+11867,da-DK,recommendation,recommendation_events,er der en sports event i morgen i kolding,calendar_remove,0.4955,0.0318,False
+11875,da-DK,recommendation,recommendation_events,er der en madfestival i området,qa_factoid,0.6522,0.0612,False
+11904,da-DK,recommendation,recommendation_events,hvad sker der her omkring i denne weekend,social_post,0.6405,0.0135,False
+11905,da-DK,recommendation,recommendation_events,olly fortæl mig om aktiviteter i mit område denne weekend,social_post,0.7648,0.2218,False
+11911,da-DK,recommendation,recommendation_events,sker der noget godt denne weekend i området,social_post,0.4166,0.3048,False
+11916,da-DK,recommendation,recommendation_events,hvad er nogle forlystelsesparker tæt på,iot_hue_lightoff,0.2351,0.0204,False
+11969,da-DK,recommendation,recommendation_events,sker der noget specielt i nærheden,social_post,0.3003,0.0506,False
+11999,da-DK,recommendation,recommendation_events,sig hvilke begivenheder der er i dag i min by,news_query,0.3269,0.0533,False
+12008,da-DK,recommendation,recommendation_events,er der nogle sjove begivenheder i odense i dag,news_query,0.2963,0.18,False
+12054,da-DK,recommendation,recommendation_events,hvad sker der i byen,qa_factoid,0.3485,0.0156,False
+12070,da-DK,recommendation,recommendation_events,hvornår åbner aalborg storcenter,qa_factoid,0.9998,0.0,False
+12073,da-DK,recommendation,recommendation_events,vis lokale aktuelle events,lists_remove,0.4113,0.0302,False
+12098,da-DK,recommendation,recommendation_events,vis mig musikalske begivenheder i nærheden,play_podcasts,0.5628,0.0013,False
+12189,da-DK,transport,transport_query,hvordan kommer jeg til togstationen for at få billet,transport_query,0.9933,0.9933,True
+12240,da-DK,transport,transport_query,hvordan er trafikken på min tur hjem klokken fem,weather_query,0.997,0.0006,False
+12245,da-DK,transport,transport_query,hvornår er det næste tog til aalbæk fra strandby,weather_query,0.9971,0.0024,False
+12251,da-DK,transport,transport_query,giv mig den lokale tog timing til destination carlsberg,transport_query,0.9966,0.9966,True
+12252,da-DK,transport,transport_query,hvad tid kører togene til aalborg,weather_query,0.9825,0.0004,False
+12261,da-DK,transport,transport_query,fortæl mig mine muligheder for tog til sønderborg næste onsdag eller torsdag,transport_query,0.9992,0.9992,True
+12263,da-DK,transport,transport_query,californien,email_query,0.1634,0.0249,False
+12264,da-DK,transport,transport_query,århus,qa_factoid,0.383,0.0114,False
+12294,da-DK,transport,transport_query,vis mig tog planer til den sorte diamant,cooking_recipe,0.0723,0.0447,False
+12310,da-DK,transport,transport_query,giv mig en liste med ledige tog billetter fra hjørring til brønderslev,lists_remove,0.9161,0.0088,False
+12343,da-DK,transport,transport_query,tjek tiden på ti tusind otte hundrede og syvogfirs tog fra århus hovedbanegård tirsdag,weather_query,0.6606,0.0024,False
+12354,da-DK,transport,transport_query,giv mig tog tiderne,datetime_query,0.9499,0.0004,False
+12366,da-DK,transport,transport_query,er der et forbindende tog fra london til paris og hvad tid,transport_query,0.9958,0.9958,True
+12367,da-DK,transport,transport_query,hvad er den bedste vej til faxe,recommendation_events,0.5476,0.0763,False
+12376,da-DK,transport,transport_query,hvad er første metro til sydhavnen,weather_query,0.5266,0.3535,False
+12392,da-DK,transport,transport_query,hvad er dagens rute,qa_factoid,0.4834,0.2506,False
+12402,da-DK,transport,transport_query,hvornår forlader det næste tog der rejser til by herfra,weather_query,0.9752,0.0076,False
+12419,da-DK,transport,transport_query,hurtigste rute til noma,transport_query,0.9915,0.9915,True
+12430,da-DK,transport,transport_query,fortæl mig tog ankomsttid til aalborg,weather_query,0.4358,0.0982,False
+12436,da-DK,transport,transport_query,hvor lang tid vil det tage at komme til lufthavnen,transport_query,0.9607,0.9607,True
+12437,da-DK,transport,transport_query,hvad er pendler tiden til teateret,weather_query,0.9713,0.0005,False
+12446,da-DK,transport,transport_query,kan du fortælle mig tiderne hvor tog kører mod københavn,weather_query,0.9998,0.0001,False
+12473,da-DK,transport,transport_query,hvordan kommer jeg hjem herfra,qa_factoid,0.1901,0.0799,False
+12526,da-DK,transport,transport_query,hvad er den hurtigste vej til starbucks,transport_query,0.9998,0.9998,True
+12532,da-DK,transport,transport_query,vis vejen til stedet,transport_query,0.8745,0.8745,True
+12581,da-DK,transport,transport_query,hvornår kører toget i dag,weather_query,0.9148,0.0095,False
+12582,da-DK,transport,transport_query,hvad tid ankommer den første arriva om morgenen,qa_factoid,0.9414,0.0001,False
+12604,da-DK,transport,transport_query,hvordan booker jeg en tog billet online,qa_factoid,0.4357,0.4233,False
+12618,da-DK,transport,transport_query,hvor meget er en rundturs tog billet til aalborg,qa_factoid,0.8546,0.1284,False
+12623,da-DK,transport,transport_query,har du tog tider til aabenraa sønderjylland,weather_query,0.5939,0.0014,False
+12629,da-DK,transport,transport_query,hvad tid tager det første tog afsted fra skanderborg,qa_factoid,0.7522,0.0043,False
+12634,da-DK,transport,transport_query,hvornår er det næste tog til horsens,weather_query,0.9963,0.0025,False
+12707,da-DK,transport,transport_query,navigationssøgning,qa_definition,0.7171,0.0104,False
+12759,da-DK,transport,transport_query,køre tid til aalborg,cooking_recipe,0.9354,0.0007,False
+12797,da-DK,transport,transport_query,tog tider fra nær mig til lokation,calendar_query,0.705,0.0054,False
+12800,da-DK,transport,transport_query,hvor er det offentlige bibliotek,qa_factoid,0.9996,0.0,False
+12817,da-DK,transport,transport_query,hvordan kommer jeg til indkøbscentret,recommendation_events,0.932,0.0005,False
+12818,da-DK,transport,transport_query,hvor meget er en tog billet til århus,qa_factoid,0.9837,0.0137,False
+12824,da-DK,transport,transport_query,vis liste med alle tog tider til aalborg,weather_query,0.6454,0.0047,False
+12835,da-DK,transport,transport_query,hvad tid kører tog til stedet,transport_query,0.871,0.871,True
+12839,da-DK,transport,transport_query,tag mig til nørreport og metroen,weather_query,0.374,0.0105,False
+12851,da-DK,transport,transport_query,vis mig ruten til mit hjem,transport_query,0.9991,0.9991,True
+12856,da-DK,transport,transport_query,rute tak,transport_query,0.9541,0.9541,True
+12866,da-DK,transport,transport_query,hvad er timingen på arrivatoget,weather_query,0.9396,0.0004,False
+12908,da-DK,transport,transport_query,hvad tid ankommer det tog i skanderborg,weather_query,0.9351,0.0003,False
+12930,da-DK,transport,transport_query,slå kort butikker nær mig op,lists_remove,0.448,0.0228,False
+12932,da-DK,transport,transport_query,olly jeg skal bruge vejvisning til købmagergade,iot_hue_lightoff,0.3581,0.3425,False
+12951,da-DK,qa,qa_factoid,hvilken er den højeste bygning i verden,qa_factoid,0.9983,0.9983,True
+12957,da-DK,qa,qa_definition,definer udpenslet,qa_definition,0.9518,0.9518,True
+12961,da-DK,qa,qa_definition,definer retsmedicinsk tak,recommendation_events,0.32,0.0347,False
+12963,da-DK,qa,qa_definition,hvad er definitionen på retsmedicinsk,qa_definition,1.0,1.0,True
+12972,da-DK,qa,qa_factoid,hvor er den højeste tinde i verden,qa_factoid,0.9939,0.9939,True
+12982,da-DK,qa,qa_definition,hvad betyder turbulens,qa_definition,0.9842,0.9842,True
+12986,da-DK,qa,qa_definition,tjek definitionen af svagsindet,qa_definition,0.999,0.999,True
+12999,da-DK,qa,qa_factoid,hvor gammel er mariah carey,qa_factoid,1.0,1.0,True
+13016,da-DK,qa,qa_definition,slå definitionen af bommert op,qa_definition,1.0,1.0,True
+13023,da-DK,cooking,cooking_recipe,vis mig opskrifter,calendar_remove,0.8532,0.0029,False
+13069,da-DK,qa,qa_definition,hvad er definitionen af appelsin,qa_definition,1.0,1.0,True
+13074,da-DK,qa,qa_factoid,hvorfor er mick øgendahl ikke sjov,social_post,0.5915,0.2586,False
+13077,da-DK,qa,qa_factoid,hvornår er det robin williams fødselsdag,weather_query,0.7676,0.0092,False
+13078,da-DK,qa,qa_factoid,fortæl mig billy crytals adresse,email_query,0.9488,0.0,False
+13099,da-DK,qa,qa_factoid,hvem er den nuværende statsminister i england,qa_factoid,0.9995,0.9995,True
+13115,da-DK,qa,qa_factoid,hvad er hovedstaden i nigeria,qa_factoid,0.9861,0.9861,True
+13124,da-DK,qa,qa_factoid,hvor stort er kosmos,qa_factoid,0.9999,0.9999,True
+13135,da-DK,qa,qa_factoid,hvad er fødselsdatoen for søs bjerre,qa_factoid,0.9986,0.9986,True
+13140,da-DK,qa,qa_definition,fortæl mig alt om orkaner,weather_query,0.8275,0.0173,False
+13154,da-DK,qa,qa_factoid,kender du sofie linde telefonnummer,qa_factoid,0.9606,0.9606,True
+13165,da-DK,qa,qa_definition,hvad betyder oscillere,qa_definition,0.9992,0.9992,True
+13166,da-DK,qa,qa_definition,stav og definer centrifugal,transport_query,0.2934,0.1217,False
+13177,da-DK,calendar,calendar_set,mind mig om at bevæge mig så jeg ikke tager på,calendar_remove,0.2938,0.006,False
+13178,da-DK,calendar,calendar_set,påmind mig om at kontakte gamle venner som jeg ikke har talt med i seks måneder før de dør,social_post,0.9982,0.0001,False
+13188,da-DK,news,news_query,fortæl mig hvordan resultaterne af valgene i delhi bliver,qa_factoid,0.414,0.0313,False
+13206,da-DK,qa,qa_definition,lokation,qa_factoid,0.803,0.0247,False
+13215,da-DK,transport,transport_query,hvad er den hurtigste vej til mit arbejde i centrum uden at ramme noget trafik,transport_query,0.999,0.999,True
+13252,da-DK,qa,qa_factoid,hvad var rasmus foghs første november valg,iot_hue_lightoff,0.9758,0.0024,False
+13255,da-DK,qa,qa_factoid,giv mig venligst information om john abraham lincon,email_sendemail,1.0,0.0,False
+13283,da-DK,qa,qa_factoid,hvor mange penge har bill gates tjent,qa_factoid,1.0,1.0,True
+13288,da-DK,qa,qa_definition,hvad er definitionen af ordet evigt,qa_definition,1.0,1.0,True
+13297,da-DK,qa,qa_factoid,hvem er berømthed,qa_factoid,1.0,1.0,True
+13298,da-DK,qa,qa_factoid,hvad gør en berømthed,qa_factoid,0.99,0.99,True
+13330,da-DK,qa,qa_factoid,hvor stor er en spermhval,qa_factoid,1.0,1.0,True
+13361,da-DK,qa,qa_definition,hvad er definitionen på aktualitet,qa_definition,0.9987,0.9987,True
+13383,da-DK,qa,qa_factoid,hvor mange stater har dødsstraf,qa_factoid,0.9354,0.9354,True
+13400,da-DK,social,social_post,send sjov besked til alle mine venner,social_post,0.991,0.991,True
+13439,da-DK,qa,qa_factoid,hvor gammel er j. k. rowling,qa_factoid,0.9971,0.9971,True
+13457,da-DK,calendar,calendar_set,fortæl mig hvornår jeg bør tage afsted til en planlagt begivenhed så jeg er til tiden,transport_query,0.4629,0.0186,False
+13473,da-DK,qa,qa_factoid,hvornår var danmarks befrielse,email_sendemail,0.4758,0.0447,False
+13487,da-DK,qa,qa_factoid,olly hvad er hovedstaden i sverige,weather_query,0.5909,0.0467,False
+13494,da-DK,qa,qa_definition,giv mig definitionen af motivation,qa_definition,1.0,1.0,True
+13506,da-DK,datetime,datetime_query,kan du sige mig hvad klokken er,datetime_query,0.8059,0.8059,True
+13513,da-DK,qa,qa_factoid,hvor mange ben har en hund,qa_factoid,0.9995,0.9995,True
+13516,da-DK,qa,qa_factoid,hvorfor er hvaler store,qa_factoid,0.5212,0.5212,True
+13546,da-DK,qa,qa_factoid,hvad var den sidst film will smith var i,qa_factoid,0.534,0.534,True
+13554,da-DK,qa,qa_factoid,hvor høj er brad pitt,iot_hue_lightoff,0.9999,0.0,False
+13575,da-DK,qa,qa_factoid,hvornår var den sidste oscar vindende film,recommendation_events,0.9449,0.0292,False
+13580,da-DK,qa,qa_factoid,hvor høj er mount everest,iot_hue_lightoff,0.9969,0.0023,False
+13591,da-DK,qa,qa_factoid,hvad er norges hovedstad,weather_query,0.6759,0.0133,False
+13592,da-DK,qa,qa_factoid,hvor ligger new zealand på et kort,weather_query,0.544,0.0039,False
+13604,da-DK,qa,qa_factoid,fortæl mig hvor steve jobs blev født,email_sendemail,0.4254,0.054,False
+13607,da-DK,qa,qa_factoid,kunne du bekræfte om leonardo er gift tak,email_sendemail,0.9999,0.0001,False
+13616,da-DK,qa,qa_factoid,hvor hænger de fleste berømtheder ud,social_post,0.973,0.0212,False
+13619,da-DK,recommendation,recommendation_events,er der nogle gratis begivenheder i mit område i dag,play_podcasts,0.2463,0.1991,False
+13625,da-DK,qa,qa_definition,hvad er det største bord,qa_factoid,0.9022,0.0037,False
+13636,da-DK,qa,qa_factoid,hvad er arnold schwarzeneggers fødselsdag,qa_factoid,0.2739,0.2739,True
+13679,da-DK,qa,qa_factoid,kan du fortælle mig hvor mange maver en ko har,qa_factoid,0.8413,0.8413,True
+13681,da-DK,qa,qa_factoid,hvor mange stykker har mads mikkelsen været med i,qa_factoid,0.8236,0.8236,True
+13683,da-DK,qa,qa_factoid,hvilke mærke af hårspray bruger donald trump,recommendation_events,0.9846,0.0025,False
+13689,da-DK,qa,qa_definition,hvad er en stol,qa_factoid,0.9987,0.0004,False
+13690,da-DK,qa,qa_factoid,hvilken farve har stole,social_post,0.9901,0.0085,False
+13693,da-DK,qa,qa_factoid,hvor er prime meridianen,qa_definition,0.8261,0.098,False
+13705,da-DK,qa,qa_definition,hvad er et elektronisk emissionssystem,iot_hue_lightoff,0.6519,0.2081,False
+13706,da-DK,qa,qa_definition,beskriv en rotor,qa_factoid,0.9984,0.0002,False
+13714,da-DK,qa,qa_definition,hvad er en mango,qa_factoid,0.972,0.0199,False
+13717,da-DK,qa,qa_factoid,kan du virkelig se rusland fra alaska,qa_factoid,1.0,1.0,True
+13758,da-DK,qa,qa_factoid,hvor gammel er mariah carey,qa_factoid,1.0,1.0,True
+13761,da-DK,qa,qa_factoid,hvad er en parsec,qa_factoid,0.9859,0.9859,True
+13774,da-DK,qa,qa_factoid,hvor langt fra california er georgia,qa_factoid,0.723,0.723,True
+13777,da-DK,qa,qa_definition,kan du beskrive et kredit kort,email_sendemail,0.6665,0.0012,False
+13780,da-DK,qa,qa_factoid,er mads mikkelsen gif,social_post,0.9919,0.0028,False
+13798,da-DK,qa,qa_factoid,hvor mange kvadrat mil er det gennemsnitlige land på jorden,qa_factoid,0.977,0.977,True
+13799,da-DK,qa,qa_definition,hvad er definitionen af subjektiv,qa_definition,1.0,1.0,True
+13823,da-DK,qa,qa_factoid,hvor langt væk er solen,weather_query,0.9747,0.0008,False
+13853,da-DK,qa,qa_factoid,hvilket sted på jorden har flest vulkaner,qa_definition,0.6847,0.3123,False
+13854,da-DK,qa,qa_factoid,hvornår døde elvis,social_post,0.9852,0.013,False
+13863,da-DK,qa,qa_definition,hvad er definitionen af logik,qa_definition,0.9999,0.9999,True
+13867,da-DK,qa,qa_factoid,hvor er himmelbjerget,weather_query,0.9911,0.0005,False
+13869,da-DK,qa,qa_factoid,google lokation og information om mount rushmore tak,qa_factoid,0.3197,0.3197,True
+13871,da-DK,qa,qa_definition,hvordan vil du beskrive en glad fødselsdag,qa_definition,0.4178,0.4178,True
+13881,da-DK,qa,qa_factoid,giv mig venligst information om michael jackson,email_sendemail,0.9906,0.0002,False
+13888,da-DK,qa,qa_factoid,hvad er temperaturen i århus,weather_query,0.9911,0.0007,False
+13895,da-DK,qa,qa_factoid,kan du fortælle mig om sofie linde,social_post,1.0,0.0,False
+13900,da-DK,qa,qa_definition,definitionen af liv,qa_definition,1.0,1.0,True
+13907,da-DK,qa,qa_definition,definer forbløffet,qa_factoid,0.4011,0.2449,False
+13908,da-DK,qa,qa_definition,kan du fortælle mig hvad forbløffet betyder,qa_definition,0.9675,0.9675,True
+13926,da-DK,qa,qa_factoid,hvad er hemingways fødselsdag,weather_query,0.501,0.1066,False
+13927,da-DK,qa,qa_factoid,hvor meget er lebron james værd,qa_factoid,0.9551,0.9551,True
+13974,da-DK,qa,qa_factoid,hvor er laos lokaliseret,social_post,0.5627,0.4342,False
+13983,da-DK,qa,qa_definition,lider under konsekvenserne,qa_factoid,0.9686,0.0013,False
+13984,da-DK,qa,qa_definition,konsekvenser af handlinger,qa_factoid,0.5928,0.0196,False
+13997,da-DK,qa,qa_factoid,hvor meget koster det gennemsnitlige hus,qa_factoid,0.9626,0.9626,True
+14000,da-DK,qa,qa_definition,beskriv et dovendyr,qa_factoid,1.0,0.0,False
+14001,da-DK,qa,qa_factoid,fortæl mig alt hvad du ved om dovendyr,qa_factoid,0.7084,0.7084,True
+14011,da-DK,qa,qa_factoid,hvad er dolly partons fødselsdag,calendar_remove,0.3318,0.206,False
+14015,da-DK,qa,qa_factoid,hvad er koordinaterne på ækvator,qa_factoid,0.996,0.996,True
+14023,da-DK,qa,qa_definition,beskriv helvede,qa_factoid,0.9999,0.0001,False
+14033,da-DK,qa,qa_factoid,sig hvornår obama blev født,qa_factoid,0.9998,0.9998,True
+14038,da-DK,qa,qa_factoid,hvor ligger moldova,weather_query,0.9601,0.0003,False
+14040,da-DK,qa,qa_factoid,hvor høj er hulk hogan,iot_hue_lightoff,0.9928,0.0066,False
+14053,da-DK,qa,qa_factoid,hvornår begyndte george clooney at spille skuespil,qa_factoid,0.9889,0.9889,True
+14063,da-DK,qa,qa_factoid,hvad var elvis presleys fødselsdag,email_sendemail,0.8741,0.0129,False
+14083,da-DK,qa,qa_factoid,hvor bor susanne bier nu,social_post,0.9811,0.0025,False
+14096,da-DK,qa,qa_factoid,hvor er mols bjerge,qa_factoid,0.9687,0.9687,True
+14115,da-DK,qa,qa_definition,giv mig detaljer om mineral,email_sendemail,0.5558,0.0239,False
+14116,da-DK,qa,qa_definition,beskriv sten sand,qa_definition,0.5698,0.5698,True
+14117,da-DK,qa,qa_factoid,hvor er pyramiderne,qa_factoid,0.9768,0.9768,True
+14118,da-DK,qa,qa_factoid,vis geografiske detaljer om pyramiderne,qa_definition,0.685,0.0255,False
+14126,da-DK,qa,qa_factoid,vis biografi af anna david,email_sendemail,1.0,0.0,False
+14138,da-DK,qa,qa_definition,fortæl mig definitionen af cylinder tak,qa_definition,1.0,1.0,True
+14147,da-DK,qa,qa_definition,definer tæppe,qa_definition,0.9986,0.9986,True
+14150,da-DK,qa,qa_definition,hvad er converse sko,qa_factoid,0.8705,0.0091,False
+14151,da-DK,qa,qa_factoid,hvilke slags solbriller bliver anset som aviators,qa_factoid,0.5523,0.5523,True
+14154,da-DK,qa,qa_factoid,afrika information,qa_definition,0.6346,0.108,False
+14163,da-DK,qa,qa_factoid,søg på lokaliteten,qa_factoid,0.9997,0.9997,True
+14169,da-DK,qa,qa_factoid,hvor gik stine bosse på universitetet,social_post,0.9983,0.0001,False
+14170,da-DK,qa,qa_factoid,går kim kardashian i converse,social_post,0.1225,0.0387,False
+14179,da-DK,qa,qa_factoid,hvor langt er canada fra min nuværende lokation,qa_factoid,0.967,0.967,True
+14214,da-DK,transport,transport_query,find måder at rejse på for samme,qa_factoid,0.2215,0.1014,False
+14229,da-DK,qa,qa_factoid,hvilke film har emma watson været med i,qa_factoid,0.8976,0.8976,True
+14243,da-DK,qa,qa_factoid,detaljer på person,lists_query,0.9684,0.0007,False
+14272,da-DK,qa,qa_definition,hey hvad er en bog,qa_definition,0.6756,0.6756,True
+14283,da-DK,qa,qa_factoid,fortæl mig om silkeborg,social_post,0.9797,0.0003,False
+14306,da-DK,qa,qa_factoid,forklar den geografiske lokation af indien,qa_factoid,0.5391,0.5391,True
+14308,da-DK,qa,qa_factoid,hvad er leonardo dicaprios formueværdi,qa_factoid,1.0,1.0,True
+14316,da-DK,qa,qa_factoid,hvor stort er alaska,qa_factoid,1.0,1.0,True
+14317,da-DK,qa,qa_factoid,hvad er størrelsen på amerika,qa_factoid,0.7641,0.7641,True
+14323,da-DK,qa,qa_factoid,hvilken farve har en dragefrugt,qa_factoid,0.2124,0.2124,True
+14330,da-DK,qa,qa_factoid,hvor blev søren kaster født,qa_factoid,0.1256,0.1256,True
+14347,da-DK,qa,qa_definition,hvad er en hypotese,qa_factoid,0.972,0.0005,False
+14354,da-DK,qa,qa_factoid,hvad er svaret på universet,qa_definition,0.7573,0.183,False
+14355,da-DK,qa,qa_factoid,hvor mange ispinde solgte karen på stranden,qa_factoid,0.6858,0.6858,True
+14370,da-DK,qa,qa_factoid,fortæl mig en berømtheds profession,recommendation_events,0.7869,0.0653,False
+14378,da-DK,qa,qa_definition,definition af hastighed,qa_definition,1.0,1.0,True
+14382,da-DK,qa,qa_factoid,hvor stor er empire state building,qa_factoid,0.761,0.761,True
+14395,da-DK,qa,qa_factoid,hvad er det dybeste punkt på jorden,qa_factoid,0.6632,0.6632,True
+14414,da-DK,qa,qa_definition,beskriv en computer hard disk,qa_factoid,0.9869,0.0002,False
+14417,da-DK,qa,qa_factoid,hvilke oceaner berører vores kontinent,qa_factoid,0.7594,0.7594,True
+14419,da-DK,qa,qa_factoid,er angeline med i en nye film i år,qa_factoid,0.3837,0.3837,True
+14429,da-DK,qa,qa_definition,hvad er en kaftan,qa_factoid,0.6432,0.1013,False
+14440,da-DK,qa,qa_factoid,hvad er hovedstaden i mexico,qa_factoid,0.4203,0.4203,True
+14442,da-DK,qa,qa_factoid,hvor er fiji,qa_factoid,0.9997,0.9997,True
+14444,da-DK,qa,qa_factoid,hvad var morgan freemans første film,qa_factoid,0.2415,0.2415,True
+14449,da-DK,qa,qa_factoid,har pink fået en ny baby,social_post,0.173,0.0452,False
+14457,da-DK,qa,qa_factoid,find rute,transport_query,0.9967,0.0005,False
+14465,da-DK,transport,transport_query,rute til disney land,transport_query,0.9986,0.9986,True
+14490,da-DK,qa,qa_factoid,hvornår blev bolshoi teatret opført,weather_query,0.9981,0.0004,False
+14498,da-DK,qa,qa_definition,giv mig beskrivelsen af smartphone,qa_definition,0.5032,0.5032,True
+14504,da-DK,qa,qa_factoid,olly hvor mange møder havde mahatma gandhi,social_post,0.8113,0.1748,False
+14505,da-DK,qa,qa_factoid,hvem er den nuværende statsminister i rusland,qa_factoid,0.9989,0.9989,True
+14508,da-DK,qa,qa_factoid,lav venligst et sammendrag af den nyeste game of thrones bog,social_post,0.7175,0.0393,False
+14509,da-DK,qa,qa_factoid,hvor blev mahatma gandhi født,social_post,0.9946,0.0026,False
+14539,da-DK,qa,qa_factoid,find de geografiske detaljer for det her sted,lists_query,0.5152,0.0429,False
+14545,da-DK,qa,qa_factoid,fortæl mig om indien lokation,qa_factoid,0.9912,0.9912,True
+14567,da-DK,qa,qa_factoid,hvad er den største aktive vulkan på jorden,qa_factoid,0.9973,0.9973,True
+14585,da-DK,qa,qa_factoid,hvor lang til vil det tage og rejse fra københavn til århus,transport_query,0.547,0.04,False
+14591,da-DK,qa,qa_definition,giv mig en beskrivelse af fjernsynsforbindelse,qa_definition,0.9959,0.9959,True
+14592,da-DK,qa,qa_definition,definer smartphone kredsløb,qa_definition,0.7889,0.7889,True
+14597,da-DK,qa,qa_factoid,hvad er befolkningsantallet i new york,qa_factoid,0.5848,0.5848,True
+14601,da-DK,qa,qa_factoid,hvor mange år var abraham lincoln præsident i usa,qa_factoid,0.9998,0.9998,True
+14605,da-DK,qa,qa_factoid,forlod freja kirk sus wilkins,social_post,0.9969,0.0003,False
+14608,da-DK,qa,qa_factoid,hvilken ny film arbejder jennifer lawrence på,recommendation_events,0.537,0.0397,False
+14622,da-DK,qa,qa_definition,beskriv hvad en sfære er,qa_definition,0.9916,0.9916,True
+14648,da-DK,cooking,cooking_recipe,opskrift tak,qa_factoid,0.8359,0.0808,False
+14653,da-DK,qa,qa_factoid,hvad er befolkningsantallet i rusland,qa_factoid,0.8352,0.8352,True
+14661,da-DK,qa,qa_factoid,hvad er fødselsåret for barack obama,social_post,0.9966,0.0006,False
+14668,da-DK,qa,qa_definition,beskriv vare xy,qa_factoid,0.9649,0.0,False
+14683,da-DK,qa,qa_factoid,hvad er mads mikkelsens hobby,social_post,0.8516,0.0577,False
+14684,da-DK,qa,qa_factoid,hvem er statsminister i rusland,email_sendemail,1.0,0.0,False
+14690,da-DK,qa,qa_definition,ok google hvad er en præsident,qa_factoid,0.9947,0.005,False
+14700,da-DK,qa,qa_definition,hvad er resin tandfyldning helt præcist,qa_factoid,0.8727,0.0011,False
+14701,da-DK,qa,qa_definition,beskriv heartstone kortspil,cooking_recipe,0.6853,0.0855,False
+14705,da-DK,qa,qa_factoid,ok google hvor bor sophie gråbøl,social_post,0.8692,0.1177,False
+14706,da-DK,qa,qa_factoid,hvor bor tessa henne,social_post,0.9939,0.0029,False
+14746,da-DK,qa,qa_factoid,hvad er hovedstaden i kazakhstan,qa_factoid,0.9988,0.9988,True
+14761,da-DK,qa,qa_definition,giv mig definitionen af ambivalent,qa_definition,1.0,1.0,True
+14767,da-DK,qa,qa_definition,hvordan ville du beskrive en bold,qa_definition,0.9994,0.9994,True
+14770,da-DK,qa,qa_factoid,sig mig det største ocean i verden,qa_factoid,0.7504,0.7504,True
+14787,da-DK,qa,qa_factoid,hvad er forskellen på den romerske og den gregorianske kalender,qa_definition,0.8058,0.0543,False
+14791,da-DK,qa,qa_factoid,hvad består stolen af,qa_factoid,0.9871,0.9871,True
+14794,da-DK,qa,qa_factoid,hvad er elvis favorit forlystelse,qa_factoid,0.9997,0.9997,True
+14822,da-DK,qa,qa_factoid,at sammenligne mellem folk,qa_factoid,0.4592,0.4592,True
+14838,da-DK,qa,qa_factoid,hvad er et neutralt mætningsfilter og vil jeg have et gradueret eller et solidt og hvilken er mest i mode den man skruer på eller den firkantede,qa_factoid,0.9123,0.9123,True
+14857,da-DK,qa,qa_definition,kan du forklare meningen af ublu for mig tak,qa_definition,0.9991,0.9991,True
+14877,da-DK,qa,qa_factoid,hvad er de klimatiske forhold i det område,weather_query,0.9958,0.0009,False
+14879,da-DK,qa,qa_definition,betydning af,qa_factoid,0.9987,0.0001,False
+14884,da-DK,qa,qa_factoid,hvilken stat i us er den der har mindst risiko for en tornado,qa_factoid,0.885,0.885,True
+14889,da-DK,qa,qa_definition,beskriv det objekt for mig tak,qa_definition,0.5676,0.5676,True
+14891,da-DK,qa,qa_factoid,i hvilket område overstråler personen,weather_query,0.9407,0.0173,False
+14912,da-DK,qa,qa_factoid,hvor blev præsident obama født,qa_factoid,0.9697,0.9697,True
+14917,da-DK,qa,qa_factoid,hvornår er rasmus seeback næste album ude,social_post,0.8604,0.0689,False
+14933,da-DK,qa,qa_factoid,fortæl mig info om indiens geografi,qa_factoid,0.7078,0.7078,True
+14939,da-DK,qa,qa_factoid,jeg skal bruge nogle detaljer om bruce lee assister venligst,recommendation_events,0.9913,0.0001,False
+14981,da-DK,qa,qa_definition,iphone syv beskrivelse,iot_hue_lightoff,0.5302,0.004,False
+14994,da-DK,qa,qa_factoid,hvad er denzel washingtons næste film,social_post,0.4828,0.313,False
+14995,da-DK,qa,qa_definition,hvad betyder situation,qa_definition,0.9983,0.9983,True
+15020,da-DK,qa,qa_factoid,hvor gammel er clint eastwood,qa_factoid,0.3603,0.3603,True
+15039,da-DK,qa,qa_factoid,olly hvor starter the rocky mountains,iot_hue_lightoff,0.9777,0.0162,False
+15055,da-DK,qa,qa_factoid,hvilken pol er koldest syd eller nord,weather_query,0.6206,0.3269,False
+15056,da-DK,qa,qa_factoid,hvor gammel er emma watson nyeste kæreste,qa_factoid,0.9283,0.9283,True
+15062,da-DK,qa,qa_factoid,info om stine bosse tak,social_post,0.9983,0.0,False
+15075,da-DK,qa,qa_factoid,olly hvor slog de første amerikanere sig ned,social_post,0.9974,0.0003,False
+15092,da-DK,qa,qa_definition,fine en beskrivelse af et samsung t. v.,email_sendemail,1.0,0.0,False
+15094,da-DK,qa,qa_factoid,slå antal af personer der bor i københavn sjælland op,iot_hue_lightoff,0.3986,0.1845,False
+15095,da-DK,qa,qa_factoid,i hvilken region ligger holbæk,qa_factoid,0.9976,0.9976,True
+15127,da-DK,qa,qa_definition,definer højtaler,iot_hue_lightoff,0.9974,0.0017,False
+15155,da-DK,social,social_post,kan du lægge min seneste selfie op på min facebook konto,social_post,0.9993,0.9993,True
+15166,da-DK,social,social_post,post min forretning på twitter,social_post,0.9989,0.9989,True
+15177,da-DK,social,social_post,retweet denne post på twitter tak,social_post,0.9995,0.9995,True
+15185,da-DK,social,social_post,fødselsdags hilsener,iot_hue_lightoff,0.6079,0.0216,False
+15186,da-DK,social,social_post,bryllup ønsker,qa_factoid,0.2732,0.0216,False
+15187,da-DK,social,social_post,del i vens post,social_post,0.9832,0.9832,True
+15197,da-DK,social,social_post,post mit besøg i japan på twitter,social_post,1.0,1.0,True
+15208,da-DK,social,social_post,post hej allesammen på facebook,social_post,0.9999,0.9999,True
+15213,da-DK,news,news_query,hvad er trending nu,social_post,0.9841,0.0,False
+15214,da-DK,news,news_query,hvad er der af nyheder i dag,news_query,0.9989,0.9989,True
+15216,da-DK,social,social_post,tweet noget for mig,social_post,0.9992,0.9992,True
+15231,da-DK,social,social_post,post min tur til goa billede på instagram,social_post,1.0,1.0,True
+15271,da-DK,social,social_post,post det her på min facebook lol,social_post,1.0,1.0,True
+15275,da-DK,social,social_post,post jeg er glad på facebook,social_post,0.9999,0.9999,True
+15276,da-DK,social,social_post,lav ny status på facebook der siger jeg nyder det dejlige vejr,social_post,0.9997,0.9997,True
+15289,da-DK,social,social_post,post besked nu,qa_factoid,0.9075,0.0894,False
+15305,da-DK,calendar,calendar_query,har jeg nogen notifikationer fra sociale medier,social_post,0.9996,0.0,False
+15318,da-DK,social,social_post,jeg vil takke alle for deres fødselsdags ønsker,email_sendemail,0.8648,0.0053,False
+15337,da-DK,social,social_post,post denne video på facebook,social_post,1.0,1.0,True
+15350,da-DK,social,social_post,jeg er utilfreds med netto vær sød at hjælpe mig,iot_hue_lightoff,0.6523,0.0078,False
+15358,da-DK,social,social_post,olly tweet apple at iphone ikke virker,social_post,0.9917,0.9917,True
+15359,da-DK,social,social_post,åbn tweet til apple om at min iphone batteri altid er tomt,social_post,0.4258,0.4258,True
+15364,da-DK,social,social_post,kan du lade amazon vide at denne telefon case er noget bras,qa_factoid,0.9583,0.0017,False
+15382,da-DK,social,social_post,kan du kontakte samsung og sige der er ild i min vaskemaskine,email_sendemail,0.9978,0.0,False
+15387,da-DK,social,social_post,tweet min nuværende lokation,social_post,0.9962,0.9962,True
+15399,da-DK,social,social_post,videresend en klage til stofa for netværksrelaterede problemer,email_sendemail,1.0,0.0,False
+15401,da-DK,social,social_post,åben twitter og send besked,social_post,0.8692,0.8692,True
+15402,da-DK,social,social_post,tweet at produktet stinker,social_post,0.9967,0.9967,True
+15409,da-DK,social,social_post,åbn twitter og skriv min klare til telmores service side,social_post,0.9626,0.9626,True
+15413,da-DK,social,social_post,få mig en person prompte,qa_factoid,1.0,0.0,False
+15444,da-DK,social,social_post,to tomler ned til snabel-a firmanavn,email_sendemail,0.9659,0.0027,False
+15448,da-DK,social,social_post,send et tweet om sonys volume problemer,social_post,0.9631,0.9631,True
+15454,da-DK,social,social_post,tweet til sas jeg er sur i mistede min bagage,social_post,0.9995,0.9995,True
+15456,da-DK,social,social_post,jeg vil sende et tweet til københavns lufthavn jeg er sur over i mistede mine kufferter,social_post,0.8275,0.8275,True
+15457,da-DK,social,social_post,jeg havde et problem med min burger kan du sende tweet til burger king,email_sendemail,0.7568,0.2063,False
+15459,da-DK,social,social_post,send twitter klage,email_sendemail,0.9592,0.034,False
+15464,da-DK,social,social_post,jeg fik ikke mit produkt i tide send tweet tl spar nord,qa_factoid,0.9999,0.0,False
+15467,da-DK,social,social_post,fortæl stofa at jeg hader dem,social_post,0.709,0.709,True
+15472,da-DK,social,social_post,tweet en klage om online bogbutik,social_post,0.9997,0.9997,True
+15487,da-DK,social,social_post,tweet netto om renligheden af deres butik,social_post,0.9955,0.9955,True
+15488,da-DK,social,social_post,tweet snabel-a pizzahut jeg har ventet på min levering for længe nu ikke glad,social_post,0.9975,0.9975,True
+15503,da-DK,social,social_post,ny tweet til forbrugerservice,social_post,0.9566,0.9566,True
+15508,da-DK,social,social_post,siri åbn twitter tweet at mette stinker,social_post,0.9983,0.9983,True
+15518,da-DK,social,social_post,send klage via tweet til jack and jones,email_sendemail,0.9998,0.0002,False
+15532,da-DK,social,social_post,olly tweet bilka og sig deres kundeservice er elendig,social_post,0.9999,0.9999,True
+15546,da-DK,social,social_post,tweet om kold pizza fra firenze pizza,social_post,1.0,1.0,True
+15548,da-DK,social,social_post,tweet mobil klage til samsung,social_post,0.8435,0.8435,True
+15553,da-DK,social,social_post,negativt svar tweet til matas service,qa_factoid,0.9952,0.0003,False
+15554,da-DK,social,social_post,tweet til dell service om forsinkelse tak,email_sendemail,0.1316,0.0437,False
+15556,da-DK,social,social_post,lad os tweete en klage,social_post,0.2518,0.2518,True
+15557,da-DK,social,social_post,jeg har brug for at du sender en klage tweet,social_post,0.9968,0.9968,True
+15560,da-DK,social,social_post,post på facebook jeg er sulten,social_post,1.0,1.0,True
+15565,da-DK,social,social_post,kan du lade stofa vide at jeg aldrig bruger dem igen,qa_factoid,0.956,0.0302,False
+15587,da-DK,social,social_post,åbn galleri og post billede navn,social_post,0.9839,0.9839,True
+15592,da-DK,social,social_post,tweet klage til snabel-a stofa,social_post,0.9918,0.9918,True
+15593,da-DK,social,social_post,tweet klage til stofa,social_post,0.9997,0.9997,True
+15598,da-DK,social,social_post,åbn firmanavn og find klager,recommendation_events,0.6209,0.3281,False
+15610,da-DK,social,social_post,lav et tweet med øde ø af rasmus seebach på min konto,social_post,0.9999,0.9999,True
+15618,da-DK,social,social_post,tweet telia og sig de stinker,social_post,0.9999,0.9999,True
+15626,da-DK,social,social_post,tweet en klage til stofa for dårlig kundeservice tak,social_post,0.9995,0.9995,True
+15634,da-DK,social,social_post,ok google tweet sikke en idiot ejeren af tankstationen er,qa_factoid,0.9473,0.0505,False
+15635,da-DK,social,social_post,tweet mcdonalds på strøget har elendig service,email_sendemail,0.9951,0.0003,False
+15647,da-DK,social,social_post,tweet klage til,social_post,0.998,0.998,True
+15651,da-DK,social,social_post,send rapport til kundeservice,email_sendemail,0.9999,0.0,False
+15652,da-DK,social,social_post,hjælp med klage til kundeservice,email_sendemail,0.5702,0.0522,False
+15655,da-DK,social,social_post,tweet til google consumer service at min nye telefon er i stykker send hjælp,email_sendemail,0.7844,0.197,False
+15656,da-DK,social,social_post,tweet en besked til coolrunner at jeg stadig venter på levering,email_sendemail,1.0,0.0,False
+15661,da-DK,social,social_post,post mit seneste opslag til twitter snabel-a politiken,social_post,0.994,0.994,True
+15670,da-DK,social,social_post,send en klage tweet,social_post,0.9994,0.9994,True
+15672,da-DK,social,social_post,tweet til apple om ikke at modtage den telefon jeg sendte til rep sidste uge,social_post,0.9955,0.9955,True
+15676,da-DK,social,social_post,tilføj klage om service i tweet til sunset boulevard,social_post,0.9909,0.9909,True
+15686,da-DK,social,social_post,hallo min vare som jeg købte af en eller anden er gået i stykker,qa_factoid,0.2975,0.0274,False
+15693,da-DK,social,social_post,tweet at der var et insekt i pakken med chokolade,social_post,0.9983,0.9983,True
+15700,da-DK,social,social_post,udløbne produkter i nyligt marked,recommendation_events,0.7509,0.0025,False
+15703,da-DK,social,social_post,twitter til zara at de løber tør for størrelser for hurtigt,iot_hue_lightoff,0.5398,0.0777,False
+15706,da-DK,social,social_post,tweet til,social_post,0.6451,0.6451,True
+15707,da-DK,social,social_post,lad os sende et tweet,email_sendemail,1.0,0.0,False
+15708,da-DK,social,social_post,post klage om service a,social_post,0.8888,0.8888,True
+15721,da-DK,social,social_post,tweet et kvalmt ansigt om mcdonalds,social_post,0.694,0.694,True
+15723,da-DK,social,social_post,sæt føler mig glad status på facebook,social_post,0.9992,0.9992,True
+15731,da-DK,social,social_post,olly tweet en besked til stofa og sig min service er dårlig,social_post,0.9999,0.9999,True
+15732,da-DK,social,social_post,tweet samsung og sig de skal stoppe med at dræbe folk med deres produkter,social_post,0.4554,0.4554,True
+15736,da-DK,social,social_post,send en negativ anmeldelse om et firma,qa_factoid,0.994,0.001,False
+15756,da-DK,email,email_sendemail,send email til mit team tak,email_sendemail,1.0,1.0,True
+15763,da-DK,email,email_query,vær sød og tjek for nye emails,email_sendemail,1.0,0.0,False
+15765,da-DK,email,email_sendemail,svar på pouls email,email_sendemail,1.0,1.0,True
+15777,da-DK,email,email_query,fortæl mig hvis jeg har nye emails,email_sendemail,1.0,0.0,False
+15785,da-DK,email,email_query,er der noget nyt i min postkasse,email_sendemail,0.5027,0.0401,False
+15789,da-DK,email,email_query,olly har jeg nogen nye emails,email_sendemail,1.0,0.0,False
+15792,da-DK,calendar,calendar_query,hvem skal jeg mødes med i dag,social_post,0.9964,0.0002,False
+15796,da-DK,email,email_sendemail,email camilla,email_sendemail,1.0,1.0,True
+15802,da-DK,email,email_sendemail,svar på en email til jonas og skriv vil ikke komme i aften,email_sendemail,1.0,1.0,True
+15809,da-DK,email,email_query,har robert mailed mig endnu,email_sendemail,1.0,0.0,False
+15825,da-DK,email,email_sendemail,svar far og skriv at jeg bliver forsinket,email_sendemail,0.9996,0.9996,True
+15828,da-DK,email,email_sendemail,her er en ny e-mailadresse som skal tilføjes til kontakterne,email_sendemail,1.0,1.0,True
+15829,da-DK,email,email_sendemail,gå til kontakter og skriv en ny email adresse,email_sendemail,1.0,1.0,True
+15839,da-DK,email,email_query,emne,qa_factoid,0.3031,0.0431,False
+15841,da-DK,email,email_sendemail,lav ny mail til rasmus,email_sendemail,1.0,1.0,True
+15845,da-DK,email,email_sendemail,hvordan det er kommet til os,weather_query,0.3829,0.1676,False
+15847,da-DK,email,email_sendemail,hvordan kan vi få kredit,qa_factoid,0.9998,0.0,False
+15849,da-DK,email,email_sendemail,send en email til min chef,email_sendemail,1.0,1.0,True
+15857,da-DK,email,email_sendemail,send til ny email angivet tak,email_sendemail,1.0,1.0,True
+15862,da-DK,email,email_query,check email for modtaget fra mor,email_sendemail,1.0,0.0,False
+15880,da-DK,email,email_query,tjek venligst mine e-mails,email_sendemail,1.0,0.0,False
+15890,da-DK,email,email_query,se om jeg har nogen nye emails fra min far,email_sendemail,1.0,0.0,False
+15904,da-DK,email,email_query,tjek mine nye emails og sig hvad de handler om,email_sendemail,1.0,0.0,False
+15906,da-DK,email,email_sendemail,svar tak til john,email_sendemail,0.9876,0.9876,True
+15911,da-DK,email,email_sendemail,forbered email til susan,email_sendemail,1.0,1.0,True
+15933,da-DK,email,email_query,hvilke nye emails har jeg,email_sendemail,1.0,0.0,False
+15942,da-DK,email,email_sendemail,send denne email som svar på de seneste emails,email_sendemail,1.0,1.0,True
+15950,da-DK,email,email_sendemail,svar på den email fra john danielsen,email_sendemail,1.0,1.0,True
+15957,da-DK,email,email_sendemail,email alice og sig vi er på vej,email_sendemail,1.0,1.0,True
+15963,da-DK,email,email_query,har jeg nogen nye emails fra karlsen,email_sendemail,1.0,0.0,False
+15966,da-DK,email,email_query,send et svar hvis det er meget vigtigt,qa_factoid,0.6067,0.0204,False
+15968,da-DK,email,email_query,hvis den er fra et meget familiært sted marker den som vigtig,iot_hue_lightoff,0.3634,0.0143,False
+15970,da-DK,email,email_query,hvad var emnet på den sidste email fra mor,email_sendemail,1.0,0.0,False
+15971,da-DK,email,email_query,hvad var den sidste e-mail fra arbejde,email_sendemail,1.0,0.0,False
+15994,da-DK,email,email_sendemail,send email til john og spørg ham hvornår han har tid til møde,email_sendemail,1.0,1.0,True
+15995,da-DK,email,email_sendemail,email karen omkring budgetmødet,email_sendemail,1.0,1.0,True
+15998,da-DK,email,email_query,tjek mine emails for noget fra lars,email_sendemail,1.0,0.0,False
+16002,da-DK,email,email_query,tjek for nye emails,email_sendemail,1.0,0.0,False
+16005,da-DK,email,email_sendemail,send email til joseph snabela gmail punktum com,email_sendemail,1.0,1.0,True
+16010,da-DK,email,email_query,fortæl mig hvis jeg har nogen nye beskeder i min indbakke,email_sendemail,0.7903,0.1858,False
+16024,da-DK,email,email_sendemail,send email til ruben og sig jeg har travlt i morgen,email_sendemail,1.0,1.0,True
+16028,da-DK,email,email_sendemail,hej siri start en email til en kollega,email_sendemail,1.0,1.0,True
+16029,da-DK,email,email_sendemail,lav ny email til kollega,email_sendemail,1.0,1.0,True
+16032,da-DK,email,email_sendemail,sen den email til sanne angående mødet i morgen tak,email_sendemail,1.0,1.0,True
+16038,da-DK,email,email_query,hey har john sendt mig nogen email på det seneste,email_sendemail,1.0,0.0,False
+16045,da-DK,email,email_sendemail,send mail til ivan med tidstabel for kontorets åbning,email_sendemail,1.0,1.0,True
+16048,da-DK,email,email_query,vis mig seneste emails,email_sendemail,1.0,0.0,False
+16049,da-DK,email,email_sendemail,jeg vil sende en email til min familie hjælper du mig,email_sendemail,1.0,1.0,True
+16050,da-DK,email,email_query,tjek gmail,email_sendemail,0.9994,0.0006,False
+16052,da-DK,email,email_query,tjek outlook,iot_hue_lightoff,0.9802,0.001,False
+16056,da-DK,email,email_sendemail,besvar email,email_sendemail,1.0,1.0,True
+16061,da-DK,email,email_query,har jeg modtaget nogle emails de seneste ti minutter,email_sendemail,0.9995,0.0004,False
+16072,da-DK,email,email_sendemail,email min chef og sig jeg er sent på den i dag pga et nødstilfælde og sig undskyld for at gå glip af møde,email_sendemail,1.0,1.0,True
+16075,da-DK,email,email_query,vis seneste email fra john,email_sendemail,1.0,0.0,False
+16082,da-DK,email,email_sendemail,send en email til peter og spørg hvordan jeg kan hjælpe ham,email_sendemail,1.0,1.0,True
+16089,da-DK,email,email_query,har jeg fået nogle nye emails de seneste ti minutter,email_sendemail,0.9996,0.0004,False
+16096,da-DK,email,email_query,har anja sendt nogen nye emails,email_sendemail,1.0,0.0,False
+16098,da-DK,email,email_query,tjek ulæste emails fra anja,email_sendemail,1.0,0.0,False
+16100,da-DK,email,email_query,please check email som indeholder jobopslag,email_sendemail,1.0,0.0,False
+16103,da-DK,email,email_sendemail,send email til min bror og sig bryllupsdag,email_sendemail,1.0,1.0,True
+16120,da-DK,email,email_sendemail,hjælp skal jun sendes til jane,email_sendemail,1.0,1.0,True
+16131,da-DK,email,email_sendemail,denne nye e-mail bør tilføjes til min kontakt,email_sendemail,1.0,1.0,True
+16145,da-DK,email,email_query,vis mig de seneste emails,email_sendemail,1.0,0.0,False
+16146,da-DK,news,news_query,giv mig de seneste opdateringer,email_sendemail,0.9996,0.0001,False
+16148,da-DK,email,email_sendemail,hurtigt svar til jacob så send mail tak,email_sendemail,1.0,1.0,True
+16151,da-DK,email,email_query,tjek møde tid i dagens mail,email_sendemail,1.0,0.0,False
+16162,da-DK,email,email_sendemail,send svar,email_sendemail,0.9998,0.9998,True
+16163,da-DK,email,email_query,hvem emailede mig i går,email_sendemail,1.0,0.0,False
+16165,da-DK,email,email_query,har charlotte svaret,social_post,0.977,0.0006,False
+16166,da-DK,email,email_sendemail,kan du svare charlotte og sig jeg vil have travlt de næste tre uger,recommendation_events,0.8131,0.0045,False
+16168,da-DK,email,email_query,er der kommet nogle emails de sidste femten minutter,email_sendemail,0.9999,0.0,False
+16170,da-DK,email,email_query,åbn indbakke og tjek ulæste mails,email_sendemail,1.0,0.0,False
+16178,da-DK,email,email_query,nogen ny mail fra amazon i dag,email_sendemail,1.0,0.0,False
+16183,da-DK,email,email_query,tjek email om mit arbejde,email_sendemail,1.0,0.0,False
+16201,da-DK,email,email_sendemail,start ny email til brian og send besked nu,email_sendemail,1.0,1.0,True
+16221,da-DK,email,email_sendemail,hiv katrines email frem og skriv til hende jeg giver besjed,email_sendemail,1.0,1.0,True
+16245,da-DK,email,email_sendemail,send en email til jens at mail dot dk,email_sendemail,1.0,1.0,True
+16248,da-DK,email,email_query,tjek min mail tak,email_sendemail,1.0,0.0,False
+16263,da-DK,email,email_query,fik jeg nogen ny email fra anders,email_sendemail,1.0,0.0,False
+16266,da-DK,email,email_sendemail,skriv email til min familie og sig jeg elsker jer alle,email_sendemail,1.0,1.0,True
+16271,da-DK,email,email_query,opdater min indbakke og informer mig om nye emails,email_sendemail,1.0,0.0,False
+16275,da-DK,email,email_query,start undersøgelse til ny email,email_sendemail,1.0,0.0,False
+16276,da-DK,email,email_query,har jeg nye emails,email_sendemail,1.0,0.0,False
+16280,da-DK,email,email_sendemail,send en email til cecilie som er på min famile og ven liste,email_sendemail,1.0,1.0,True
+16282,da-DK,email,email_sendemail,send email til min assistent clara og aflys alle aftaler i morgen,email_sendemail,1.0,1.0,True
+16296,da-DK,email,email_sendemail,send email til mor og sig at williams fødselsdagsfest er på søndag,email_sendemail,1.0,1.0,True
+16297,da-DK,email,email_sendemail,send email til jakob og sig tak,email_sendemail,1.0,1.0,True
+16314,da-DK,email,email_sendemail,send email til margrethe,email_sendemail,1.0,1.0,True
+16317,da-DK,email,email_query,fik jeg nye emails fra sarah,email_sendemail,1.0,0.0,False
+16318,da-DK,email,email_sendemail,svar på email,email_sendemail,1.0,1.0,True
+16320,da-DK,email,email_sendemail,jeg vil svare på robert sørensens email,email_sendemail,1.0,1.0,True
+16353,da-DK,email,email_query,tjek for emails fra steven,email_sendemail,1.0,0.0,False
+16354,da-DK,email,email_query,tjek for emails fra min arbejdsgiver,email_sendemail,1.0,0.0,False
+16356,da-DK,email,email_query,sendte jeg email til tom angående våbenkonttrol,email_sendemail,1.0,0.0,False
+16357,da-DK,email,email_query,har tom mailet mig om ammonition,email_sendemail,1.0,0.0,False
+16361,da-DK,email,email_query,har jeg nogen nye emails fra den seneste time,email_sendemail,0.9999,0.0001,False
+16373,da-DK,email,email_query,har jeg modtaget nogle e-mails med sporingsnumre,email_sendemail,1.0,0.0,False
+16375,da-DK,email,email_sendemail,lav en email til robert,email_sendemail,1.0,1.0,True
+16376,da-DK,email,email_sendemail,alexa send email til mor tak,email_sendemail,1.0,1.0,True
+16377,da-DK,email,email_sendemail,send mor en email nu,email_sendemail,1.0,1.0,True
+16384,da-DK,email,email_query,har jeg nogen nye emails,email_sendemail,1.0,0.0,False
+16385,da-DK,email,email_query,læs nye emails tak,email_sendemail,1.0,0.0,False
+16398,da-DK,email,email_sendemail,send email til jens tak,email_sendemail,1.0,1.0,True
+16399,da-DK,email,email_query,har jeg fået nogen ny email,email_sendemail,1.0,0.0,False
+16401,da-DK,email,email_sendemail,send email til dorte hej hvad laver du i dag,email_sendemail,1.0,1.0,True
+16402,da-DK,email,email_sendemail,email dorte planer for i dag,email_sendemail,1.0,1.0,True
+16406,da-DK,email,email_sendemail,alexa start email tak,email_sendemail,1.0,1.0,True
+16410,da-DK,email,email_sendemail,lav email,email_sendemail,1.0,1.0,True
+16413,da-DK,email,email_query,vis alle emails sendt til mig fra min chef,email_sendemail,1.0,0.0,False
+16419,da-DK,email,email_sendemail,send email til onkel john tak og sig jeg nok skal være der,email_sendemail,1.0,1.0,True
+16427,da-DK,email,email_query,hvor mange nye emails har jeg modtaget i dag,email_sendemail,0.953,0.0151,False
+16430,da-DK,email,email_sendemail,send mor og far en email og spørg hvordan de har det tak,email_sendemail,1.0,1.0,True
+16437,da-DK,email,email_sendemail,send denne email til min ven tak,email_sendemail,1.0,1.0,True
+16438,da-DK,email,email_sendemail,jeg skal have denne email sendt nu,email_sendemail,1.0,1.0,True
+16446,da-DK,email,email_query,tjek venligst for nylig e-mail studie fra denne sender,email_sendemail,1.0,0.0,False
+16459,da-DK,email,email_sendemail,ny besked til nymail at gmail dot com,email_sendemail,1.0,1.0,True
+16461,da-DK,email,email_query,har jeg nogen ulæste emails,email_query,0.5117,0.5117,True
+16467,da-DK,email,email_query,har jeg nogen nye emails fra min kontakt q,email_sendemail,1.0,0.0,False
+16471,da-DK,email,email_query,tjek emails fra john,email_sendemail,1.0,0.0,False
+16496,da-DK,email,email_sendemail,send et e-mailsvar,email_sendemail,1.0,1.0,True
+16501,da-DK,email,email_sendemail,send email til min ven diana hvordan går det tak,email_sendemail,1.0,1.0,True
+16506,da-DK,email,email_sendemail,tilføj ny e-mailadresse og send e-mail,email_sendemail,1.0,1.0,True
+16518,da-DK,email,email_sendemail,start ny email til julie sørensen,email_sendemail,1.0,1.0,True
+16519,da-DK,email,email_sendemail,jeg skal tilføje en ny e-mail til mine kontakter,email_sendemail,1.0,1.0,True
+16535,da-DK,email,email_sendemail,kan du skrive en email til cecilie,email_sendemail,1.0,1.0,True
+16559,da-DK,email,email_sendemail,send svar til mike med svaret klokken sektens på den mail han sendte til morgen,email_sendemail,1.0,1.0,True
+16560,da-DK,email,email_sendemail,svar til mine chefer at jeg er der klokken fire,weather_query,0.8167,0.1751,False
+16563,da-DK,email,email_query,olly tjek min email,email_sendemail,1.0,0.0,False
+16591,da-DK,email,email_sendemail,jeg har lige modtaget en e-mail fra bill som jeg skal svare på med det samme,email_sendemail,1.0,1.0,True
+16593,da-DK,email,email_sendemail,den sidste email skal besvares hurtigst muligt,email_sendemail,1.0,1.0,True
+16603,da-DK,email,email_query,hvad siger den email der blev sendt for tredive minutter siden af mor,email_sendemail,1.0,0.0,False
+16605,da-DK,email,email_sendemail,skriv og send email til min chef,email_sendemail,1.0,1.0,True
+16609,da-DK,email,email_query,fortæl mig hvis jeg har nogen nye ulæste emails,email_sendemail,1.0,0.0,False
+16613,da-DK,email,email_sendemail,send en email til min chef og sig at jeg kommer for sent,email_sendemail,1.0,1.0,True
+16622,da-DK,email,email_sendemail,send email til denne kontakt,email_sendemail,1.0,1.0,True
+16624,da-DK,email,email_sendemail,jeg har brug for en email sendt til stofa om mine serviceproblemer,email_sendemail,1.0,1.0,True
+16627,da-DK,email,email_query,tjek de mest aktuelle emails,email_sendemail,1.0,0.0,False
+16630,da-DK,email,email_sendemail,svar den sidste email,email_sendemail,1.0,1.0,True
+16642,da-DK,email,email_query,tjek mail for noget fra sanne,email_sendemail,1.0,0.0,False
+16648,da-DK,email,email_query,tjek mine emails for mig tak,email_sendemail,1.0,0.0,False
+16652,da-DK,email,email_query,havde benjamins email en vedhæftet fil,email_sendemail,0.9995,0.0005,False
+16662,da-DK,email,email_query,modtog jeg nogen nye emails fra dan,email_sendemail,1.0,0.0,False
+16666,da-DK,email,email_query,har jeg nogen indgående emails,email_sendemail,1.0,0.0,False
+16668,da-DK,email,email_query,er der kommet nogen emails ind siden firehundrede i dag,email_sendemail,0.9933,0.0062,False
+16669,da-DK,email,email_query,fik jeg en email fra paul,email_sendemail,1.0,0.0,False
+16672,da-DK,email,email_query,har du hørt fra benjamin,play_music,0.9949,0.0001,False
+16677,da-DK,email,email_query,har jeg nogen nye emails i min indbakke i dag,email_sendemail,0.9831,0.0169,False
+16698,da-DK,email,email_sendemail,skriv et svar til min mors email,email_sendemail,1.0,1.0,True
+16701,da-DK,email,email_sendemail,jeg vil gerne svare på sarahs email,email_sendemail,1.0,1.0,True
+16703,da-DK,email,email_sendemail,jeg vil gerne svare på den nyeste email,email_sendemail,1.0,1.0,True
+16712,da-DK,email,email_query,har jeg nogen ny email,email_sendemail,0.9999,0.0001,False
+16713,da-DK,email,email_query,venligst tjek mine emails og giv besked hvis har nogen ny email,email_sendemail,1.0,0.0,False
+16717,da-DK,email,email_sendemail,kan du sende email til john og sige jeg er på ferie tak,email_sendemail,1.0,1.0,True
+16719,da-DK,email,email_query,giv besked om nogen nye emails modtaget,email_sendemail,1.0,0.0,False
+16729,da-DK,email,email_sendemail,svar på min email fra bob og lad dem vide jeg vil se dem i morgen,email_sendemail,1.0,1.0,True
+16730,da-DK,email,email_query,tjek for ny email fra anders tak,email_sendemail,1.0,0.0,False
+16733,da-DK,email,email_query,vis mig seneste emails fra amazon,email_sendemail,1.0,0.0,False
+16749,da-DK,email,email_query,er der nogen nye emails til mig i dag,email_sendemail,0.9999,0.0,False
+16754,da-DK,email,email_sendemail,dikter email,email_sendemail,1.0,1.0,True
+16758,da-DK,email,email_query,nogen nye email siden sidst,email_sendemail,1.0,0.0,False
+16763,da-DK,email,email_query,emails de seneste ti minutter,email_sendemail,1.0,0.0,False
+16765,da-DK,email,email_query,hvad er interview tidspunjtet fra gårsdagens email,email_sendemail,1.0,0.0,False
+16766,da-DK,email,email_query,tjek ny email,email_sendemail,1.0,0.0,False
+16772,da-DK,email,email_query,vis alle emails vedrørende bruddet,email_sendemail,1.0,0.0,False
+16780,da-DK,email,email_sendemail,send en email til juanpedro at gmail dot com,email_sendemail,1.0,1.0,True
+16791,da-DK,email,email_sendemail,lav en ny email men jeg har en ny adresse den her gang brandon at example dot com,email_sendemail,1.0,1.0,True
+16799,da-DK,email,email_query,har jeg modtaget nogen emails siden middag,email_sendemail,0.9997,0.0003,False
+16801,da-DK,email,email_query,har christina sendt mig nogen emails omkring tom,email_sendemail,1.0,0.0,False
+16813,da-DK,email,email_query,bip når jeg får email fra john,email_sendemail,1.0,0.0,False
+16814,da-DK,email,email_query,tjek emails,email_sendemail,1.0,0.0,False
+16838,da-DK,email,email_sendemail,kan du sende email til det nye email id,email_sendemail,1.0,1.0,True
+16851,da-DK,email,email_query,email notifikationer,email_sendemail,1.0,0.0,False
+16859,da-DK,email,email_query,hvad sagde jeg til susanne i min seneste email,email_sendemail,1.0,0.0,False
+16872,da-DK,email,email_sendemail,find naja fra mine kontakter og send hende en email,email_sendemail,1.0,1.0,True
+16873,da-DK,email,email_sendemail,email marie på hendes fødselsdag,email_sendemail,1.0,1.0,True
+16880,da-DK,email,email_sendemail,send en email til jens vedrørende mødet,email_sendemail,1.0,1.0,True
+16883,da-DK,email,email_sendemail,send email til jens og spørg hvad tid han er hjemme i aften,email_sendemail,1.0,1.0,True
+16886,da-DK,email,email_sendemail,svar på denne email,email_sendemail,1.0,1.0,True
+16888,da-DK,email,email_query,hvad med ny mail,email_sendemail,1.0,0.0,False
+16890,da-DK,email,email_query,hvilken ny email siger,email_sendemail,1.0,0.0,False
+16891,da-DK,email,email_sendemail,send jens hansen en email,email_sendemail,1.0,1.0,True
+16892,da-DK,email,email_sendemail,start og send email til jens hansen,email_sendemail,1.0,1.0,True
+16899,da-DK,email,email_query,jeg har modtaget nogen emails fra jeppe borg,email_sendemail,1.0,0.0,False
+16914,da-DK,email,email_query,har jeg emails fra denne afsender,email_sendemail,0.9999,0.0001,False
+16916,da-DK,email,email_sendemail,hey svar på en e-mail jeg modtog,email_sendemail,1.0,1.0,True
+16924,da-DK,email,email_query,tjek min gmail for nye emails,email_sendemail,0.9521,0.0476,False
+16930,da-DK,email,email_query,vis seneste email,email_sendemail,1.0,0.0,False
+16938,da-DK,email,email_sendemail,besvar johns email,email_sendemail,1.0,1.0,True
+16944,da-DK,email,email_sendemail,send en email til bedstemor og sig at vi kommer forbi lørdag og vi ses der,email_sendemail,1.0,1.0,True
+16947,da-DK,email,email_sendemail,svar email,email_sendemail,1.0,1.0,True
+16955,da-DK,email,email_sendemail,email til ny kontakt,email_sendemail,1.0,1.0,True
+16956,da-DK,email,email_sendemail,send email til ny kontakt,email_sendemail,1.0,1.0,True
+16961,da-DK,email,email_sendemail,svar med,email_sendemail,1.0,1.0,True
+16974,da-DK,email,email_query,tjek venligst alle nye emails fra skat,email_sendemail,1.0,0.0,False
+16987,da-DK,email,email_query,nogen ny email fra john,email_sendemail,1.0,0.0,False
+16989,da-DK,email,email_sendemail,vær sød og læs den email jeg sendte til børge højt jeg har brug for pengene nu det haster,email_sendemail,1.0,1.0,True
+16992,da-DK,email,email_query,har jane hansen mailet mig,email_sendemail,1.0,0.0,False
+16995,da-DK,email,email_sendemail,send email til jessica,email_sendemail,1.0,1.0,True
+17005,da-DK,email,email_query,vær sød og tjek for nye emails,email_sendemail,1.0,0.0,False
+17011,da-DK,email,email_sendemail,kan du sende email til,email_sendemail,1.0,1.0,True
+17015,da-DK,email,email_sendemail,start svar,play_radio,0.9822,0.0001,False
+17019,da-DK,email,email_sendemail,lav et svar til sidste email,email_sendemail,1.0,1.0,True
+17020,da-DK,email,email_sendemail,besvar sidst modtagede email,email_sendemail,1.0,1.0,True
+17023,da-DK,email,email_sendemail,email mor og spørg hvordan vejret er der,email_sendemail,1.0,1.0,True
+17042,da-DK,email,email_sendemail,skriv en email til john snabela gmail punktum com,email_sendemail,1.0,1.0,True
+17043,da-DK,email,email_sendemail,send email til tim snabela hotmail punktum com,email_sendemail,1.0,1.0,True
+17051,da-DK,email,email_query,hent mig ny email,email_sendemail,1.0,0.0,False
+17052,da-DK,email,email_query,søg nandy,social_post,0.8891,0.0026,False
+17069,da-DK,email,email_query,er der nogen nye emails i outlook,email_sendemail,0.9687,0.0312,False
+17075,da-DK,email,email_query,er der nogle nye emails modtaget efter fire i dag,email_sendemail,0.9997,0.0002,False
+17081,da-DK,email,email_sendemail,lav en email til min medarbejder med mine nyligt gemte dokumenter,email_sendemail,1.0,1.0,True
+17087,da-DK,email,email_query,tjek om der er nye emails fra sara for mig,email_sendemail,1.0,0.0,False
+17098,da-DK,email,email_query,vis mig alle emails fra den seneste time,email_sendemail,1.0,0.0,False
+17107,da-DK,email,email_query,check nye emails,email_sendemail,1.0,0.0,False
+17108,da-DK,email,email_query,giv mig min seneste email,email_sendemail,1.0,0.0,False
+17113,da-DK,email,email_sendemail,lav email til julie,email_sendemail,1.0,1.0,True
+17115,da-DK,email,email_query,læs liste af nye emails,email_sendemail,1.0,0.0,False
+17116,da-DK,email,email_query,vis liste med seneste emails,email_sendemail,1.0,0.0,False
+17119,da-DK,email,email_query,tjek nogen mail fra amazon,email_sendemail,1.0,0.0,False
+17123,da-DK,email,email_sendemail,email formular for regional vp,email_query,0.5608,0.4392,False
+17135,da-DK,email,email_query,nogen interesante nye emails,email_sendemail,1.0,0.0,False
+17136,da-DK,email,email_query,læs venligst mine nye e-mails,email_sendemail,1.0,0.0,False
+17138,da-DK,email,email_query,arkiver mine læste beskeder tak,email_sendemail,0.9975,0.0007,False
+17142,da-DK,email,email_query,hvad er der i min indbakke siden vi kiggede sidst,qa_factoid,0.7464,0.0099,False
+17143,da-DK,email,email_sendemail,hey send email til john,email_sendemail,1.0,1.0,True
+17144,da-DK,email,email_query,hej tjek email,email_sendemail,0.9998,0.0002,False
+17147,da-DK,email,email_sendemail,svar på mail med indholdet hej,email_sendemail,1.0,1.0,True
+17148,da-DK,email,email_sendemail,alexa svar på den mail med det følgende indhold hej med dig,email_sendemail,1.0,1.0,True
+17151,da-DK,email,email_sendemail,min ven john har sendt mig en invitation til hans nykøbte hjem sig tak til ham via email,email_sendemail,1.0,1.0,True
+17156,da-DK,email,email_query,tjek min email for nogen nye email fra jonas,email_sendemail,1.0,0.0,False
+17157,da-DK,email,email_query,har jeg nogen ny email fra jon,email_sendemail,1.0,0.0,False
+17170,da-DK,email,email_query,giv mig besked når jonathan emailer mig,email_sendemail,1.0,0.0,False
+17179,da-DK,email,email_query,har john sendt mig en email,email_sendemail,1.0,0.0,False

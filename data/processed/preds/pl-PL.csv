@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,pl-PL,iot,iot_hue_lightoff,olly wyłącz światła w sypialni,iot_hue_lightoff,0.9776,0.9776,True
+47,pl-PL,datetime,datetime_query,która jest godzina w australii,weather_query,0.7979,0.1976,False
+85,pl-PL,datetime,datetime_query,jaka jest dzisiejsza data,lists_query,0.3532,0.0151,False
+86,pl-PL,datetime,datetime_query,który dzisiaj jest,weather_query,0.9997,0.0,False
+100,pl-PL,weather,weather_query,jaka jest pogoda na ten tydzień,weather_query,0.9922,0.9922,True
+102,pl-PL,weather,weather_query,jaka jest pogoda na ten tydzień,weather_query,0.9922,0.9922,True
+103,pl-PL,weather,weather_query,podaj mi pogodę na ten tydzień,weather_query,0.9995,0.9995,True
+128,pl-PL,datetime,datetime_query,jaka jest data,qa_factoid,0.9636,0.0008,False
+151,pl-PL,play,play_music,graj to ponownie proszę,play_music,0.9982,0.9982,True
+177,pl-PL,news,news_query,podaj wiadomości ze świata biznesu,play_podcasts,0.5987,0.0655,False
+178,pl-PL,news,news_query,pokaż mi wiadomości międzynarodowe,social_post,0.8955,0.0495,False
+182,pl-PL,play,play_music,zagraj moją playlistę rocka,play_music,1.0,1.0,True
+185,pl-PL,play,play_music,włącz moją playlistę i graj trzeci utwór w kolejce,play_music,0.9999,0.9999,True
+197,pl-PL,datetime,datetime_query,która jest godzina,qa_factoid,0.986,0.0115,False
+216,pl-PL,weather,weather_query,jaka jest dzisiaj pogoda,weather_query,0.9961,0.9961,True
+219,pl-PL,weather,weather_query,czy mam jutro wziąć parasol,lists_remove,0.3259,0.2412,False
+220,pl-PL,play,play_music,odtwórz muzykę z mojej playlisty rockowej,play_music,1.0,1.0,True
+250,pl-PL,play,play_music,czuję gatunek muzyczny jazz,play_music,0.9975,0.9975,True
+254,pl-PL,play,play_music,olly graj dobry utwór mojego ulubionego jazzowego muzyka,play_music,1.0,1.0,True
+279,pl-PL,weather,weather_query,jaka jest dzisiejsza prognoza dla warszawy,weather_query,0.9988,0.9988,True
+281,pl-PL,news,news_query,jaki jest kurs wymiany dolara do funta,qa_factoid,1.0,0.0,False
+296,pl-PL,play,play_music,puść playlistę nirvany,play_music,0.9405,0.9405,True
+297,pl-PL,play,play_music,przetasuj piosenki coldplay,play_music,1.0,1.0,True
+299,pl-PL,weather,weather_query,jaka jest pogoda,qa_factoid,0.9999,0.0,False
+310,pl-PL,datetime,datetime_query,którego dnia jesy sylwester w tym roku,datetime_query,0.9447,0.9447,True
+319,pl-PL,weather,weather_query,podaj mi pogodę w barcelonie dwa dni od teraz,weather_query,0.9992,0.9992,True
+329,pl-PL,play,play_music,siedem lat,qa_factoid,0.498,0.0148,False
+333,pl-PL,weather,weather_query,jaka jest pogoda w bydgoszczy,weather_query,0.9988,0.9988,True
+334,pl-PL,weather,weather_query,proszę pogodę w gnieźnie,weather_query,0.9991,0.9991,True
+344,pl-PL,weather,weather_query,czy jutro będzie deszczowo,weather_query,0.9995,0.9995,True
+348,pl-PL,weather,weather_query,czy będzie jutro padać,weather_query,0.9981,0.9981,True
+355,pl-PL,datetime,datetime_query,który dzień tygodnia jest pierwszego kwietnia,datetime_query,0.9973,0.9973,True
+360,pl-PL,datetime,datetime_query,która jest teraz godzina,datetime_query,0.6936,0.6936,True
+362,pl-PL,play,play_music,włącz drugą piosenkę z męskiego grania,play_music,0.9999,0.9999,True
+366,pl-PL,news,news_query,prosze powiedz mi jakie są ostatnie wiadomości,news_query,0.7571,0.7571,True
+369,pl-PL,iot,iot_hue_lightoff,wyłącz światła,iot_hue_lightoff,0.9398,0.9398,True
+385,pl-PL,news,news_query,jakie są sensacje w gazecie wyborczej,news_query,0.9654,0.9654,True
+391,pl-PL,play,play_music,odtwórz losową piosenkę z mojej playlisty,play_music,1.0,1.0,True
+393,pl-PL,play,play_music,odpal retro piosenki z mojej playlisty,play_music,0.7688,0.7688,True
+397,pl-PL,play,play_music,odtwórz jakąkolwiek piosenkę autorstwa joe prsaise,play_music,1.0,1.0,True
+400,pl-PL,play,play_music,zacznij grać,play_radio,0.9052,0.0117,False
+407,pl-PL,play,play_music,czy możesz grać rock przez następną godzinę,play_music,0.9998,0.9998,True
+424,pl-PL,news,news_query,jakie są główne wiadomości,social_post,0.9383,0.0518,False
+427,pl-PL,iot,iot_hue_lightoff,wyłącz światła w łazience,iot_hue_lightoff,0.9633,0.9633,True
+428,pl-PL,iot,iot_hue_lightoff,wyłącz światła w sypialni,iot_hue_lightoff,0.9717,0.9717,True
+430,pl-PL,weather,weather_query,jaka jest teraz pogoda,qa_factoid,0.8234,0.1421,False
+437,pl-PL,play,play_music,otwórz bad religion folder,social_post,0.8473,0.0064,False
+441,pl-PL,news,news_query,jakie są najświeższe informacje,qa_factoid,0.4701,0.1005,False
+442,pl-PL,news,news_query,co się dzieje w wiadomościach,news_query,0.9155,0.9155,True
+451,pl-PL,news,news_query,podaj mi ostatnią cenę akcji dla bodzia,qa_factoid,0.9998,0.0,False
+473,pl-PL,play,play_music,puść ale jazz,play_music,0.9792,0.9792,True
+486,pl-PL,datetime,datetime_query,która godzina jest w rzymie,datetime_query,0.8837,0.8837,True
+491,pl-PL,weather,weather_query,czy jest zimno na dworzu,weather_query,0.9997,0.9997,True
+506,pl-PL,play,play_music,otwórz piosenki autorstwa major lazer,play_music,1.0,1.0,True
+512,pl-PL,weather,weather_query,przez otrzymane oceny,email_sendemail,0.9999,0.0,False
+540,pl-PL,play,play_music,graj piosenkę wehikuł czasu autorstwa dżem,play_music,1.0,1.0,True
+555,pl-PL,play,play_music,graj cokolwiek darii zawiałow,play_music,0.6426,0.6426,True
+576,pl-PL,play,play_music,odtwórz wszystko z playlisty,play_music,0.8973,0.8973,True
+585,pl-PL,news,news_query,pokaż najnowsze wiadomości,social_post,0.5272,0.3682,False
+588,pl-PL,news,news_query,jakie są nowe wiadomości na dziś,news_query,0.8283,0.8283,True
+590,pl-PL,weather,weather_query,jaka jest teraz pogoda,qa_factoid,0.8234,0.1421,False
+614,pl-PL,play,play_music,rozpocznij playlistę,play_music,0.9995,0.9995,True
+625,pl-PL,play,play_music,proszę graj w radio piosenkę gaga,play_music,0.9975,0.9975,True
+631,pl-PL,news,news_query,ustaw powiadomienia dla wiadomości o gazociągu nord stream,qa_factoid,0.3436,0.0151,False
+651,pl-PL,iot,iot_hue_lightoff,wyłącz światła w pokoju,iot_hue_lightoff,0.9451,0.9451,True
+660,pl-PL,datetime,datetime_query,aktualny czas w japonii,qa_factoid,0.6106,0.0755,False
+680,pl-PL,news,news_query,ingormuj mnie na bieżąco o cenie bitcoina,recommendation_events,0.5594,0.0141,False
+686,pl-PL,datetime,datetime_query,która godzina jest teraz w warszawie,weather_query,0.9697,0.025,False
+712,pl-PL,news,news_query,chcę posłuchać najnowszych wiadomości cnn,news_query,0.8956,0.8956,True
+726,pl-PL,weather,weather_query,podsumuj szczegóły tygodniowej prognozy pogody,weather_query,0.7754,0.7754,True
+730,pl-PL,iot,iot_hue_lightoff,wyłącz te światła,iot_hue_lightoff,0.9748,0.9748,True
+738,pl-PL,weather,weather_query,jak zimno jest dzisiaj na dworze,weather_query,0.9944,0.9944,True
+764,pl-PL,weather,weather_query,jaka jest prognoza pogody na ten tydzień,weather_query,0.9962,0.9962,True
+765,pl-PL,news,news_query,czy mógłbyś podać mi aktualne nagłówki wiadomości od mojego najnowszego dostawcy,recommendation_events,0.9991,0.0001,False
+767,pl-PL,news,news_query,czy mógłbyś znaleźć mi najnowsze wiadomości ze źródła zktórego zwykle nie korzystam,recommendation_events,0.8078,0.0104,False
+768,pl-PL,news,news_query,pokaż mi o najnowsze wiadomości polityczne,social_post,0.5752,0.4204,False
+779,pl-PL,play,play_music,chcę posłuchać latawce dmuchawce wiatr urszuli,play_podcasts,0.9762,0.0235,False
+781,pl-PL,play,play_music,graj ale jazz,play_music,0.4349,0.4349,True
+782,pl-PL,play,play_music,graj ale jazz od sanah,email_query,0.4179,0.1759,False
+783,pl-PL,play,play_music,graj piosenki miłosne,play_music,0.9999,0.9999,True
+790,pl-PL,weather,weather_query,umiarkowana czy brzydka pogoda,weather_query,0.9852,0.9852,True
+826,pl-PL,weather,weather_query,jaka jest obecnie temperatura na zewnątrz,weather_query,0.9966,0.9966,True
+827,pl-PL,play,play_music,graj plejlistę boba dylana,social_post,0.9875,0.0002,False
+832,pl-PL,weather,weather_query,jaka będzie przewidywana pogoda jutro,weather_query,0.9973,0.9973,True
+837,pl-PL,news,news_query,jakie są sondaże t. v. n. na nadchodzące wybory w u. s. a.,lists_query,0.4698,0.0782,False
+891,pl-PL,play,play_music,graj jakąś chrześcijańską muzykę,play_music,1.0,1.0,True
+914,pl-PL,iot,iot_hue_lightoff,wyłącz światła proszę,iot_hue_lightoff,0.9771,0.9771,True
+936,pl-PL,play,play_music,otwórz i graj muzykę z mojej playlisty do ćwiczeń,play_music,0.9999,0.9999,True
+951,pl-PL,weather,weather_query,jaka jest teraz pogoda w katowicach,weather_query,0.9987,0.9987,True
+969,pl-PL,news,news_query,artykuły z wiadomościami na określony temat,social_post,0.5153,0.4666,False
+974,pl-PL,datetime,datetime_query,która godzina jest teraz we wrocławiu,weather_query,0.9554,0.04,False
+997,pl-PL,iot,iot_hue_lightoff,wyłącz światła w salonie,iot_hue_lightoff,0.97,0.97,True
+999,pl-PL,iot,iot_hue_lightoff,czy możesz wyłączyć światło,iot_hue_lightoff,0.9852,0.9852,True
+1007,pl-PL,play,play_music,graj creed z mojej rockowej playlisty,play_music,1.0,1.0,True
+1014,pl-PL,datetime,datetime_query,która godzina jest teraz w londynie,weather_query,0.9223,0.0724,False
+1047,pl-PL,play,play_music,potrzebuję popłakać czy możesz zagrać smutne piosenki rock,play_music,0.9995,0.9995,True
+1061,pl-PL,news,news_query,informuj mnie na bieżąco o wiadomościach sportowych,news_query,0.987,0.987,True
+1063,pl-PL,news,news_query,podawaj co godzinę najnowsze wiadomości sportowe,play_podcasts,0.969,0.0094,False
+1084,pl-PL,news,news_query,przyjazny użytkownikowi,social_post,0.6445,0.0066,False
+1093,pl-PL,news,news_query,przejdź na stronę gazety wyborczej,social_post,0.6114,0.0004,False
+1098,pl-PL,datetime,datetime_query,którego dnia tygodnia wypada piętnasty marca,datetime_query,0.914,0.914,True
+1108,pl-PL,play,play_music,mam ochotę posłuchać jakąś muzykę country,play_music,0.9995,0.9995,True
+1115,pl-PL,play,play_music,zbierz wszystkie gatunki piosenek pop,play_music,0.999,0.999,True
+1120,pl-PL,news,news_query,czy jest coś specjalnego w polityce,qa_factoid,0.9147,0.0,False
+1121,pl-PL,play,play_music,graj ale jazz autorki sanah,email_sendemail,0.9896,0.0,False
+1123,pl-PL,play,play_music,następnie graj pastempomat podsiadło,play_radio,0.5847,0.3789,False
+1124,pl-PL,play,play_music,przygotuj sanah melodia aby było następne,play_music,1.0,1.0,True
+1127,pl-PL,play,play_music,odtwarzaj wszystkie piosenki losowo,play_music,1.0,1.0,True
+1144,pl-PL,play,play_music,chcę jakiś rap,play_music,0.9918,0.9918,True
+1148,pl-PL,datetime,datetime_query,która jest teraz godzina w sydney,weather_query,0.9991,0.0003,False
+1156,pl-PL,news,news_query,najnowsze informacje na temat międzynarodowego dnia kobiet,news_query,0.9897,0.9897,True
+1160,pl-PL,weather,weather_query,jak zimno będzie każdej nocy w tym tygodniu,weather_query,0.9975,0.9975,True
+1180,pl-PL,news,news_query,znajdź dzisiejsze artykuły facebooka o trumpie,social_post,0.9992,0.0,False
+1202,pl-PL,datetime,datetime_query,aktualny czas w warszawie,weather_query,0.8011,0.055,False
+1238,pl-PL,play,play_music,odtwórz pandora,iot_hue_lightoff,0.5321,0.0012,False
+1249,pl-PL,weather,weather_query,jaka będzie prawdopodobnie pogoda w tym tygodniu,weather_query,0.9982,0.9982,True
+1252,pl-PL,datetime,datetime_query,powiedz mi aktualny czas,datetime_query,0.5233,0.5233,True
+1294,pl-PL,news,news_query,informacje o nagrodzie akademii filmowej,email_sendemail,0.412,0.015,False
+1301,pl-PL,news,news_query,opowiedz mi o nowej polityce zagranicznej trumpa,qa_factoid,0.9075,0.002,False
+1308,pl-PL,weather,weather_query,sprawdź dzisiejszą pogodę tutaj,weather_query,0.9996,0.9996,True
+1318,pl-PL,play,play_music,otwórz aplikację z muzyką i puść dla mnie piosenkę,play_music,0.9914,0.9914,True
+1351,pl-PL,weather,weather_query,czy będzie ładnie na dworzu w tym tygodniu,weather_query,0.5243,0.5243,True
+1371,pl-PL,news,news_query,co mamy na pierwszej stronie gazety wyborczej,social_post,0.6934,0.0279,False
+1377,pl-PL,iot,iot_hue_lightoff,proszę wyłącz światło w pokoju mojego syna,iot_hue_lightoff,0.9979,0.9979,True
+1400,pl-PL,weather,weather_query,głównie zwracam uwagę,qa_factoid,0.7726,0.0013,False
+1401,pl-PL,weather,weather_query,czasami uważam,qa_factoid,0.8955,0.0021,False
+1404,pl-PL,weather,weather_query,czy mogę poprosić pogodę jutro w zgierzu,weather_query,0.9488,0.9488,True
+1423,pl-PL,news,news_query,powiedz mi o dudzie,qa_factoid,0.981,0.0002,False
+1425,pl-PL,news,news_query,powiadom mnie kiedy usłyszysz o francji,social_post,0.5307,0.004,False
+1440,pl-PL,play,play_music,graj najnowsze piosenki rock z oceną cztery lub powyżej,play_music,0.9999,0.9999,True
+1449,pl-PL,datetime,datetime_query,kiedy są święta wielkanocne w roku dwa tysiące osiemnaście,weather_query,0.4423,0.1711,False
+1458,pl-PL,weather,weather_query,jak gorąco jest w krakowie,weather_query,0.9918,0.9918,True
+1467,pl-PL,play,play_music,graj sanah,email_sendemail,0.7261,0.0022,False
+1474,pl-PL,news,news_query,jakie są dzisiejsze wiadomości sportowe,news_query,0.6456,0.6456,True
+1489,pl-PL,play,play_music,zagraj najnowsze piosenki sanah,play_music,1.0,1.0,True
+1513,pl-PL,weather,weather_query,jaka jeat temperatura,qa_factoid,0.9852,0.0032,False
+1533,pl-PL,news,news_query,jakie wiadomości były dzisiaj w t. v. n.,social_post,0.985,0.0123,False
+1537,pl-PL,datetime,datetime_query,pokaż mi obecną godzinę w niemczech,weather_query,0.9891,0.0019,False
+1542,pl-PL,weather,weather_query,słońce pięknie świeci czy będziemy mieć taką pogodę przez resztę dnia,weather_query,0.9961,0.9961,True
+1546,pl-PL,play,play_music,graj mi letni relaks,iot_hue_lightoff,0.3022,0.0449,False
+1547,pl-PL,weather,weather_query,jaka jest będzie pogoda w mojej okolicy w tym tygodniu,weather_query,0.9991,0.9991,True
+1549,pl-PL,weather,weather_query,czy będzie padać w tym tygodniu,weather_query,0.9858,0.9858,True
+1554,pl-PL,iot,iot_hue_lightoff,wyłącz lampy,iot_hue_lightoff,0.9871,0.9871,True
+1581,pl-PL,datetime,datetime_query,jaki jest dziś dzień miesiąc i rok,weather_query,0.9673,0.0297,False
+1589,pl-PL,weather,weather_query,w najbliższy wtorek będzie słonecznie,weather_query,0.9971,0.9971,True
+1593,pl-PL,news,news_query,ustaw powiadomienie na wiadomości ze świata,social_post,0.4813,0.0449,False
+1594,pl-PL,news,news_query,czy możesz podać mi najnowsze wiadomości,news_query,0.9595,0.9595,True
+1607,pl-PL,datetime,datetime_query,podaj mi godzinę w los angeles,datetime_query,0.3962,0.3962,True
+1617,pl-PL,news,news_query,informuj mnie o każdym nowym temacie w polityce,social_post,0.412,0.0512,False
+1636,pl-PL,news,news_query,pokaż mi ostatnie wiadomości z wyborczej,news_query,0.9561,0.9561,True
+1653,pl-PL,weather,weather_query,kiedy będzie ponownie padać,datetime_query,0.9489,0.0468,False
+1655,pl-PL,weather,weather_query,czy jutro w południe będzie padać śnieg,weather_query,0.9998,0.9998,True
+1666,pl-PL,news,news_query,jakie są wiadomości z polsatu z ostatnich sześciu godzin,news_query,0.8545,0.8545,True
+1671,pl-PL,play,play_music,zagraj muzykę z roku tysiąc dziewięćset dziewięćdziesiątego do roku dwu tysięcznego deltete,play_music,1.0,1.0,True
+1683,pl-PL,weather,weather_query,jutrzejsza temperatura ma być wysoka tak czy nie,weather_query,0.9981,0.9981,True
+1684,pl-PL,weather,weather_query,jutrzejsza temperatura będzie wysoka,weather_query,0.9994,0.9994,True
+1692,pl-PL,play,play_music,znajdź jakiś jazz dla mnie,play_music,0.9999,0.9999,True
+1722,pl-PL,weather,weather_query,jaka jest temperatura w warszawie,weather_query,0.9991,0.9991,True
+1750,pl-PL,iot,iot_hue_lightoff,wyłącz wszystkie światła,calendar_remove,0.3773,0.2323,False
+1759,pl-PL,news,news_query,pokaż mi informacje o prezydencie trumpie,social_post,0.8579,0.0007,False
+1760,pl-PL,news,news_query,najnowsze wiadomości o terroryzmie,news_query,0.9084,0.9084,True
+1777,pl-PL,play,play_music,następna piosenka,play_music,0.9988,0.9988,True
+1784,pl-PL,iot,iot_hue_lightoff,wyłącz jadalnię,iot_hue_lightoff,0.9886,0.9886,True
+1786,pl-PL,iot,iot_hue_lightoff,wyłącz główną sypialnię,iot_hue_lightoff,0.9174,0.9174,True
+1794,pl-PL,news,news_query,czy trump odwiedzi niedługo rosję,qa_factoid,0.6864,0.0041,False
+1796,pl-PL,datetime,datetime_query,dzisiejsza data,lists_remove,0.2084,0.0257,False
+1803,pl-PL,news,news_query,które drużyny grają dzisiaj w ekstraklasie,play_music,0.8491,0.0068,False
+1811,pl-PL,play,play_music,zacznij playlistę i graj muzykę,play_music,1.0,1.0,True
+1832,pl-PL,play,play_music,graj album coldplay,play_music,0.509,0.509,True
+1833,pl-PL,play,play_music,czy możesz zapętlić playlistę muzyka filmowa,play_music,0.9977,0.9977,True
+1866,pl-PL,weather,weather_query,raport pogodowy na teraz,weather_query,0.9763,0.9763,True
+1870,pl-PL,datetime,datetime_query,jaki jest dzisiaj miesiąc,weather_query,0.9683,0.0246,False
+1904,pl-PL,news,news_query,pokaż mi najważniejsze momenty z meczu,news_query,0.9872,0.9872,True
+1933,pl-PL,weather,weather_query,czy dziś wieczorem będzie spadek temperatury,weather_query,0.9991,0.9991,True
+1940,pl-PL,play,play_music,graj utwór szampan,play_music,1.0,1.0,True
+1962,pl-PL,play,play_music,cześć google puść moją zwariowaną playlistę z apki gaana,social_post,0.775,0.2098,False
+1994,pl-PL,play,play_music,czy możesz otworzyć mój itunes,transport_query,0.4673,0.0088,False
+1995,pl-PL,play,play_music,odtwarzaj the beatles,play_music,0.7717,0.7717,True
+2007,pl-PL,play,play_music,proszę graj orenżada,play_music,0.9743,0.9743,True
+2062,pl-PL,play,play_music,chcę jakąś jazzową muzykę do grania,play_music,0.9998,0.9998,True
+2085,pl-PL,play,play_music,alexa chciałbym posłuchać jakiejś muzyki klasycznej z wyjątkiem bacha lub schuberta,play_music,0.9967,0.9967,True
+2098,pl-PL,news,news_query,co się ostatnio dzieje na świecie,news_query,0.6277,0.6277,True
+2108,pl-PL,play,play_music,następnie graj tańcz głupia tańcz,play_music,0.9949,0.9949,True
+2113,pl-PL,recommendation,recommendation_events,powiedz mi co się teraz dzieje w moim rodzinnym mieście,weather_query,0.7006,0.008,False
+2146,pl-PL,datetime,datetime_query,którego jest zimowe przesilenie za dwa lata,weather_query,0.9989,0.0001,False
+2156,pl-PL,datetime,datetime_query,musze wiedzieć która jest teraz godzina,datetime_query,0.713,0.713,True
+2160,pl-PL,iot,iot_hue_lightoff,idę teraz spać,calendar_remove,0.4516,0.0223,False
+2178,pl-PL,weather,weather_query,jaka jest teraz pogoda u mnie,weather_query,0.9976,0.9976,True
+2198,pl-PL,datetime,datetime_query,jaki dzień tygodnia był czwartego grudnia tysiąc dziewięćset osiemdziesiątego drugiego,datetime_query,0.9944,0.9944,True
+2201,pl-PL,news,news_query,główne wiadomości z tvn dwadzieścia cztery,news_query,0.9637,0.9637,True
+2203,pl-PL,news,news_query,najważniejsze wiadomości tvn dwadzieścia cztery,news_query,0.9949,0.9949,True
+2220,pl-PL,weather,weather_query,pogoda we wrocławiu,social_post,0.78,0.0002,False
+2225,pl-PL,play,play_music,graj melodia autorstwa sanah,play_music,0.9942,0.9942,True
+2230,pl-PL,iot,iot_hue_lightoff,wyłącz światło w kuchni,iot_hue_lightoff,0.9823,0.9823,True
+2237,pl-PL,news,news_query,przeczytaj najnowsze wiadomości międzynarodowe,news_query,0.5885,0.5885,True
+2258,pl-PL,weather,weather_query,czy potrzebuję dziś swetra,cooking_recipe,0.7306,0.0096,False
+2265,pl-PL,weather,weather_query,powiedz mi jaka jest teraz pogoda w oławie na dolnym śląsku,weather_query,0.9989,0.9989,True
+2271,pl-PL,play,play_music,proszę graj piosenki które kupiłem i polubiłem,play_music,1.0,1.0,True
+2296,pl-PL,news,news_query,podawaj mi najnowsze dzisiejsze wyniki n b a,news_query,0.9922,0.9922,True
+2298,pl-PL,iot,iot_hue_lightoff,wyłącz światła teraz,iot_hue_lightoff,0.9988,0.9988,True
+2315,pl-PL,news,news_query,jakie sa informacje na dziś,qa_factoid,0.4427,0.1953,False
+2316,pl-PL,news,news_query,alexa daj mi najnowsze informacje,news_query,0.9908,0.9908,True
+2320,pl-PL,weather,weather_query,jaka jest pogoda w ten piątek,weather_query,0.9763,0.9763,True
+2322,pl-PL,weather,weather_query,jaka będzie jutro pogoda,weather_query,0.999,0.999,True
+2330,pl-PL,datetime,datetime_query,pokaż która jest teraz godzina w londynie,weather_query,0.9996,0.0,False
+2384,pl-PL,news,news_query,co się dzieje na świecie,qa_factoid,0.5985,0.0643,False
+2386,pl-PL,news,news_query,jakie są najnowsze wiadomości,news_query,0.7577,0.7577,True
+2396,pl-PL,play,play_music,zacznij grać piosenki celine dion,play_music,1.0,1.0,True
+2408,pl-PL,play,play_music,poszukaj więcej piosenek tego zespołu,play_music,0.9984,0.9984,True
+2412,pl-PL,datetime,datetime_query,czy możesz mi powiedzieć która godzina w gdańsku,weather_query,0.9997,0.0001,False
+2423,pl-PL,weather,weather_query,podaj dzisiejszą prognozę dla nowego sącza,iot_hue_lightoff,0.9929,0.0001,False
+2438,pl-PL,news,news_query,wyślij informacje technologiczne,lists_remove,0.2709,0.0112,False
+2441,pl-PL,iot,iot_hue_lightoff,wyłącz światło w szopce,iot_hue_lightoff,0.9805,0.9805,True
+2472,pl-PL,datetime,datetime_query,czy czas jest poprawny dla miejsca w którym się znajduję,datetime_query,0.5668,0.5668,True
+2496,pl-PL,news,news_query,codzienne wiadomości,email_sendemail,0.4756,0.1041,False
+2497,pl-PL,datetime,datetime_query,jaka jest dziś data,weather_query,0.9307,0.0067,False
+2498,pl-PL,datetime,datetime_query,siri któray jest dzisiaj dzień,weather_query,0.9996,0.0002,False
+2527,pl-PL,play,play_music,włącz klasyczny rock,play_music,0.9969,0.9969,True
+2531,pl-PL,play,play_music,alexa graj mi piosenkę rapową i rockową jedna po drugiej,play_music,1.0,1.0,True
+2545,pl-PL,weather,weather_query,jaka jest pogoda,qa_factoid,0.9999,0.0,False
+2548,pl-PL,news,news_query,coś ciekawego z wiadomości borysa,social_post,0.9986,0.0009,False
+2560,pl-PL,play,play_music,graj losową muzykę,play_music,1.0,1.0,True
+2573,pl-PL,play,play_music,gra moją playlistę muzyka taneczna ze spotify,play_music,0.9997,0.9997,True
+2578,pl-PL,iot,iot_hue_lightoff,wyłącz światło na ganku,iot_hue_lightoff,0.9975,0.9975,True
+2588,pl-PL,news,news_query,proszę jakie są najnowsze wiadomości z tvn dwadzieścia cztery,news_query,0.9989,0.9989,True
+2594,pl-PL,news,news_query,powiedz mi o najnowszych wiadomościach dotyczących ochrony środowiska,news_query,0.9988,0.9988,True
+2605,pl-PL,play,play_music,graj moją ulubioną muzykę teraz,play_music,1.0,1.0,True
+2611,pl-PL,weather,weather_query,aktualna prognoza pogody,qa_factoid,0.9649,0.0015,False
+2615,pl-PL,weather,weather_query,czy będę musiała założyć kurtkę w przyszłą środę,iot_hue_lightoff,0.5683,0.034,False
+2638,pl-PL,news,news_query,pokaż mi wiadomości o trumpie,news_query,0.9107,0.9107,True
+2639,pl-PL,news,news_query,pokaż mi wiadomości na temat środowiska,news_query,0.2168,0.2168,True
+2651,pl-PL,news,news_query,najnowsze wiadomości z okolicy,news_query,0.9851,0.9851,True
+2678,pl-PL,weather,weather_query,czy dziś pada,weather_query,0.9991,0.9991,True
+2679,pl-PL,weather,weather_query,czy temperatura będzie mniej więcej taka sama czy zrobi się zimniej,weather_query,0.9983,0.9983,True
+2703,pl-PL,play,play_music,proszę odtwarzaj muzykę folk,play_music,0.9998,0.9998,True
+2704,pl-PL,play,play_music,posłuchajmy jakiś indie rock ok,play_music,0.8706,0.8706,True
+2708,pl-PL,play,play_music,czuję że chcę posłuchać trochę rocka,play_music,0.7611,0.7611,True
+2709,pl-PL,play,play_music,olly potrzebuję posłuchać jakichś smutnych piosenek dzisiaj,play_music,0.9967,0.9967,True
+2711,pl-PL,iot,iot_hue_lightoff,wyłącz światła kompletnie,iot_hue_lightoff,0.9612,0.9612,True
+2717,pl-PL,play,play_music,chcę posłuchać purple haze,play_podcasts,0.9594,0.0321,False
+2724,pl-PL,news,news_query,podaj mi wiadomości z tvn,news_query,0.8964,0.8964,True
+2770,pl-PL,play,play_music,olly zagraj muzykę z gatunku jazz,play_music,1.0,1.0,True
+2774,pl-PL,iot,iot_hue_lightoff,wyłącz światła,iot_hue_lightoff,0.9398,0.9398,True
+2775,pl-PL,iot,iot_hue_lightoff,przerwij używanie świateł,iot_hue_lightoff,0.5451,0.5451,True
+2777,pl-PL,weather,weather_query,czy powinnam wziąć dzisiaj parasol,weather_query,0.7496,0.7496,True
+2781,pl-PL,play,play_music,proszę graj jakąś muzykę jazzową,play_music,1.0,1.0,True
+2798,pl-PL,play,play_music,alexa puść piosenkę ale jazz,play_music,1.0,1.0,True
+2801,pl-PL,datetime,datetime_query,która godzina jest teraz w londynie,weather_query,0.9223,0.0724,False
+2824,pl-PL,datetime,datetime_query,jaki jest dzień trzynastego grudnia,datetime_query,0.7406,0.7406,True
+2840,pl-PL,datetime,datetime_query,w jaki dzień wypada drugi przyszłego miesiąca,datetime_query,0.9708,0.9708,True
+2859,pl-PL,datetime,datetime_query,olly która godzina jest w tym mieście,weather_query,0.9934,0.0017,False
+2887,pl-PL,news,news_query,proszę pokaż mi w porannych wiadomościach artykuły związane z pogodą,news_query,0.9911,0.9911,True
+2890,pl-PL,weather,weather_query,aktualna pogoda,qa_factoid,0.8135,0.1835,False
+2898,pl-PL,news,news_query,czy są jakieś nowe wiadomości na temat wyborów,news_query,0.9562,0.9562,True
+2914,pl-PL,datetime,datetime_query,powiedz mi jaka jest dzisiaj data,weather_query,0.9435,0.006,False
+2917,pl-PL,weather,weather_query,tygodniowa prognoza pogody,qa_factoid,0.4918,0.0019,False
+2921,pl-PL,news,news_query,jakie są wiadomości na stronie internetowej tvn dwadzieścia cztery,news_query,0.9359,0.9359,True
+2927,pl-PL,datetime,datetime_query,która jest godzina w austin,weather_query,0.9638,0.035,False
+2931,pl-PL,play,play_music,graj atmosphere następne,iot_hue_lightoff,0.86,0.0145,False
+2962,pl-PL,play,play_music,proszę odtwórz piosenkę bruno marsa,play_music,0.9999,0.9999,True
+2965,pl-PL,iot,iot_hue_lightoff,wyłącz światła w biurze,iot_hue_lightoff,0.9814,0.9814,True
+3002,pl-PL,play,play_music,puść piosenki zespołu the beatles,play_music,0.9999,0.9999,True
+3031,pl-PL,play,play_music,chcę posłuchać tą piosenkę ponownie,play_music,0.9971,0.9971,True
+3034,pl-PL,weather,weather_query,podaj mi temperaturę,qa_factoid,0.8844,0.0161,False
+3037,pl-PL,news,news_query,poproszę artykuły z pierwszych stron gazet,lists_remove,0.9693,0.0195,False
+3039,pl-PL,news,news_query,co nowego w wiadomościach,news_query,0.783,0.783,True
+3060,pl-PL,news,news_query,jakie są informacje z nowego źródła,qa_factoid,0.9949,0.0001,False
+3091,pl-PL,datetime,datetime_query,która jest godzina w strefie pacyficznej,qa_factoid,1.0,0.0,False
+3096,pl-PL,weather,weather_query,jaka jest pogoda w łańcucie,qa_factoid,0.5963,0.375,False
+3098,pl-PL,iot,iot_hue_lightoff,wyłącz te światła,iot_hue_lightoff,0.9748,0.9748,True
+3099,pl-PL,news,news_query,pokaż mi aktualne wydarzenia,news_query,0.9864,0.9864,True
+3101,pl-PL,news,news_query,olly włącz wiadomości,email_sendemail,0.7778,0.0007,False
+3116,pl-PL,play,play_music,graj moją ulubioną piosenkę z zeszłego roku,play_music,1.0,1.0,True
+3117,pl-PL,play,play_music,graj coś z albumu zabawa krzysztofa zalewskiego,play_music,1.0,1.0,True
+3118,pl-PL,datetime,datetime_query,która jest teraz godzina czasu wschodniego,weather_query,0.8872,0.1094,False
+3124,pl-PL,play,play_music,graj mi losowe piosenki z mojej playlisty,play_music,1.0,1.0,True
+3146,pl-PL,play,play_music,graj utwór pierwszy z mojej playlisty david bowie,play_music,1.0,1.0,True
+3167,pl-PL,iot,iot_hue_lightoff,wyłącz światła w mojej sypialni,iot_hue_lightoff,0.9843,0.9843,True
+3174,pl-PL,play,play_music,graj playlistę muzyczną,play_music,1.0,1.0,True
+3205,pl-PL,play,play_music,graj czerwony jak cegła dżemu,play_music,0.9956,0.9956,True
+3207,pl-PL,play,play_music,streamuj poker face autorstwa lady gaga,play_podcasts,0.6821,0.2101,False
+3212,pl-PL,calendar,calendar_set,dlatego przypomnij mi żebym coś zrobił,qa_factoid,0.7651,0.0001,False
+3214,pl-PL,news,news_query,jaki jest aktualny stan śledztwa w sprawie związków trumpa z rosją,qa_factoid,0.1602,0.0433,False
+3228,pl-PL,datetime,datetime_query,którego dnia wypada boże narodzenie w tym roku,datetime_query,0.5764,0.5764,True
+3253,pl-PL,weather,weather_query,czy mamy się spodziewać deszczu po południu,weather_query,0.9997,0.9997,True
+3264,pl-PL,play,play_music,graj muzykę reggae,play_music,1.0,1.0,True
+3305,pl-PL,weather,weather_query,jaka jest pogoda w tym tygodniu dla ustki,weather_query,0.9534,0.9534,True
+3306,pl-PL,weather,weather_query,jaka jest prognoza na tydzień,qa_factoid,0.1567,0.1396,False
+3329,pl-PL,news,news_query,chcę obejrzeć wiadomości,news_query,0.8445,0.8445,True
+3337,pl-PL,weather,weather_query,raport pogodowy za zeszły tydzień,weather_query,0.9886,0.9886,True
+3338,pl-PL,weather,weather_query,podaj pogodę dla rewala,qa_factoid,1.0,0.0,False
+3361,pl-PL,datetime,datetime_query,jaka będzie data w przyszły wtorek,lists_query,0.1957,0.1341,False
+3378,pl-PL,iot,iot_hue_lightoff,żadnych świateł w kuchni,cooking_recipe,0.9873,0.0009,False
+3386,pl-PL,iot,iot_hue_lightoff,przykręć światła do poziomu średniego,iot_hue_lightoff,0.9583,0.9583,True
+3400,pl-PL,play,play_music,puść eltona johna wersję koncertową,play_music,0.9998,0.9998,True
+3401,pl-PL,play,play_music,graj najpopularniejszą piosenkę eltona johna,play_music,1.0,1.0,True
+3406,pl-PL,weather,weather_query,jaka jest prognoza pogody na dziesięć dni,qa_factoid,0.8535,0.0035,False
+3407,pl-PL,weather,weather_query,czy zapowiadają deszcz lub śnieg na ten tydzień,weather_query,0.9971,0.9971,True
+3408,pl-PL,weather,weather_query,czy będzie ładna pogoda w ten weekend,weather_query,0.9978,0.9978,True
+3426,pl-PL,weather,weather_query,ile jest stopni na zewnątrz,email_sendemail,0.9922,0.0,False
+3433,pl-PL,play,play_music,nowa muzyka pop,play_music,0.9981,0.9981,True
+3434,pl-PL,play,play_music,najlepsza muzyka rap,play_music,0.9915,0.9915,True
+3441,pl-PL,datetime,datetime_query,czy dwudziesty drugi wypada w środę,qa_factoid,0.3064,0.2261,False
+3444,pl-PL,datetime,datetime_query,czy jest dziesiąty,datetime_query,0.9651,0.9651,True
+3447,pl-PL,weather,weather_query,czy na sobotę jest zapowiadany deszcz,weather_query,0.9995,0.9995,True
+3481,pl-PL,play,play_music,graj najpopularniejszą piosenkę danego artysty,play_music,1.0,1.0,True
+3489,pl-PL,play,play_music,graj proszę teraz muzykę,play_music,1.0,1.0,True
+3492,pl-PL,play,play_music,posłuchajmy mojej najczęściej granej listy piosenek,play_music,0.9998,0.9998,True
+3503,pl-PL,weather,weather_query,jaka jest pogoda w katowicach,weather_query,0.9986,0.9986,True
+3507,pl-PL,weather,weather_query,czy zapowiadają śnieg,qa_factoid,0.6323,0.2947,False
+3513,pl-PL,play,play_music,graj tylko moją listę,play_music,0.9818,0.9818,True
+3516,pl-PL,weather,weather_query,jaka jest szansa na opady dzisiaj,qa_factoid,0.9126,0.0829,False
+3539,pl-PL,play,play_music,proszę zagraj shake it off autorstwa taylor swift,iot_hue_lightoff,0.3707,0.0279,False
+3546,pl-PL,play,play_music,chcę posłuchać jakąś muzę rockową,play_music,1.0,1.0,True
+3550,pl-PL,play,play_music,włącz jakiś utwór led zeppelin,play_music,0.9941,0.9941,True
+3554,pl-PL,play,play_music,czy możesz włączyć playlista miłosna,play_music,0.9985,0.9985,True
+3562,pl-PL,play,play_music,graj one more time,iot_hue_lightoff,0.6694,0.014,False
+3566,pl-PL,datetime,datetime_query,która jest godzina w paryżu,weather_query,0.857,0.1408,False
+3570,pl-PL,iot,iot_hue_lightoff,proszę wyłącz światła na patio,iot_hue_lightoff,0.9955,0.9955,True
+3576,pl-PL,news,news_query,jaka jest najnowsza wiadomość fox news,news_query,0.9994,0.9994,True
+3586,pl-PL,weather,weather_query,jaka jest pogoda w pekinie,qa_factoid,0.9958,0.0025,False
+3600,pl-PL,calendar,calendar_set,przypomnij mi po dziesięciu minutach,datetime_query,0.8333,0.0014,False
+3603,pl-PL,news,news_query,jakie są najnowsze wiadomości z łodzi,news_query,0.9808,0.9808,True
+3605,pl-PL,news,news_query,jakie są najnowsze wiadomości tvn dwadzieścia cztery,news_query,0.8814,0.8814,True
+3606,pl-PL,datetime,datetime_query,która godzina jest w pekinie,datetime_query,0.6249,0.6249,True
+3614,pl-PL,weather,weather_query,dziś jest słoneczny dzień prawda,weather_query,0.9959,0.9959,True
+3623,pl-PL,news,news_query,co się dzisiaj dzieje na świecie,weather_query,0.5014,0.2384,False
+3624,pl-PL,news,news_query,wiadomości z tvn,lists_query,0.712,0.2042,False
+3631,pl-PL,play,play_music,hey google graj jakąś muzykę jazz dla mnie,play_music,1.0,1.0,True
+3686,pl-PL,play,play_music,włącz playlistę którą zapisałem jako muzyka rock,play_music,1.0,1.0,True
+3714,pl-PL,play,play_music,graj moją playlistę zaczynając od końca,play_music,1.0,1.0,True
+3717,pl-PL,play,play_music,zagraj moje hity rap z lat dziewięćdziesiątych,play_music,1.0,1.0,True
+3723,pl-PL,play,play_music,chcę posłuchać sanah po tej piosence,play_music,1.0,1.0,True
+3725,pl-PL,datetime,datetime_query,jaki jest dzisiaj dzień,weather_query,0.9479,0.0484,False
+3727,pl-PL,play,play_music,zagraj best friends autorstwa yelawolf,play_music,0.9952,0.9952,True
+3750,pl-PL,news,news_query,olly jeśli pojawią się jakieś nowe wiadomości o powodzi czy możesz mnie od razu powiadomić,email_sendemail,0.5608,0.0223,False
+3779,pl-PL,play,play_music,graj playlistę pop na youtube,play_music,0.6378,0.6378,True
+3780,pl-PL,play,play_music,zagraj moją romantyczną playlistę,play_music,0.9998,0.9998,True
+3784,pl-PL,weather,weather_query,podaj mi raport pogodowy dla białegostoku,weather_query,0.989,0.989,True
+3785,pl-PL,iot,iot_hue_lightoff,wyłącz światła w łazience,iot_hue_lightoff,0.9633,0.9633,True
+3822,pl-PL,news,news_query,znajdź informacje o samochodach,lists_query,0.7024,0.01,False
+3852,pl-PL,weather,weather_query,jaką mają teraz pogodę we wrocławiu,weather_query,0.9985,0.9985,True
+3859,pl-PL,play,play_music,nastaw moją ulubioną playlistę muzyczną rap,play_music,0.9975,0.9975,True
+3907,pl-PL,play,play_music,graj zeszłoroczne hity,play_music,0.999,0.999,True
+3911,pl-PL,play,play_music,chcę posłuchać jakiejkolwiek piosenki która otrzymała grammy w tym roku,play_music,0.9984,0.9984,True
+3912,pl-PL,play,play_music,chcę posłuchać muzyki tanecznej i country,play_music,0.9983,0.9983,True
+3936,pl-PL,weather,weather_query,jaka jest temperatura,weather_query,0.4716,0.4716,True
+3960,pl-PL,datetime,datetime_query,powiedz mi godzinę,datetime_query,0.579,0.579,True
+3967,pl-PL,play,play_music,rap,qa_factoid,0.5852,0.0441,False
+3980,pl-PL,play,play_music,proszę zagraj shape of you autorstwa eda sheerana,qa_factoid,0.9224,0.0014,False
+3982,pl-PL,play,play_music,proszę wybierz pierwszą piosenkę z biblioteka itunes,play_podcasts,0.7198,0.2613,False
+3993,pl-PL,iot,iot_hue_lightoff,czy możesz wyłączyć światła,iot_hue_lightoff,0.9755,0.9755,True
+3995,pl-PL,datetime,datetime_query,olly w jaki dzień tygodnia jest halloween,qa_factoid,0.9837,0.0007,False
+4001,pl-PL,news,news_query,co się wydarzyło w walking dead,news_query,0.7702,0.7702,True
+4023,pl-PL,news,news_query,co w wiadomościach,email_sendemail,0.9984,0.0006,False
+4031,pl-PL,play,play_music,graj annuszka,social_post,0.7709,0.0022,False
+4040,pl-PL,play,play_music,graj utwór którego słucham najczęściej,play_music,0.9995,0.9995,True
+4058,pl-PL,play,play_music,chcę usłyszeć trochę muzyki rapu,play_music,0.9999,0.9999,True
+4073,pl-PL,datetime,datetime_query,jaki dzień jest piątego,datetime_query,0.9151,0.9151,True
+4077,pl-PL,iot,iot_hue_lightoff,wyłącz światła w kuchni,iot_hue_lightoff,0.9687,0.9687,True
+4088,pl-PL,iot,iot_hue_lightoff,wyłącz światło nad głową,iot_hue_lightoff,0.9802,0.9802,True
+4104,pl-PL,weather,weather_query,jaka będzie dziś pogoda w katowicach,weather_query,0.9996,0.9996,True
+4116,pl-PL,play,play_music,graj moją playlistę losowo proszę,play_music,1.0,1.0,True
+4119,pl-PL,news,news_query,chcę znać wszystkie najnowsze informacje o pęknięciu tamy w kaliforni,news_query,0.9967,0.9967,True
+4132,pl-PL,weather,weather_query,powiedz mi jaka jest szansa procentowa na opady dzisiaj w suwałkach,qa_factoid,1.0,0.0,False
+4136,pl-PL,play,play_music,czy możesz grać sanah,qa_factoid,0.9878,0.0002,False
+4152,pl-PL,play,play_music,proszę graj piosenkę ale jazz,play_music,1.0,1.0,True
+4168,pl-PL,weather,weather_query,sprawdź pogodę w giżycku,weather_query,0.9991,0.9991,True
+4171,pl-PL,iot,iot_hue_lightoff,wyłącz światła w kuchni,iot_hue_lightoff,0.9687,0.9687,True
+4177,pl-PL,news,news_query,podaj mi najnowsze nagłówki polityczne na całym świecie,recommendation_events,0.9613,0.0,False
+4178,pl-PL,news,news_query,czy są jakieś informacje o prezydenturze,lists_query,0.3043,0.0938,False
+4183,pl-PL,datetime,datetime_query,aktualny czas w nowym jorku,datetime_query,0.5125,0.5125,True
+4186,pl-PL,datetime,datetime_query,hey olly która jest godzina,datetime_query,0.5451,0.5451,True
+4187,pl-PL,datetime,datetime_query,hey siri która godzina,qa_factoid,0.9889,0.0002,False
+4205,pl-PL,play,play_music,chcę usłyszeć ale jazz autorstwa sanah,play_music,0.9997,0.9997,True
+4212,pl-PL,weather,weather_query,czy będę mogła skosić trawę dziś wieczorem,cooking_recipe,0.9877,0.001,False
+4227,pl-PL,weather,weather_query,czy na następny tydzień zapowiadają deszcz,weather_query,0.9989,0.9989,True
+4232,pl-PL,play,play_music,puść takie tango budki suflera,play_music,0.9908,0.9908,True
+4236,pl-PL,datetime,datetime_query,czy jest już popołudnie,weather_query,0.9803,0.001,False
+4253,pl-PL,datetime,datetime_query,jaki jest aktualny czas w strefie wschodniej,weather_query,0.9951,0.0006,False
+4254,pl-PL,datetime,datetime_query,która godzina jest na zachodzie europy,datetime_query,0.5348,0.5348,True
+4258,pl-PL,news,news_query,jakie są najnowsze wiadomości,news_query,0.7577,0.7577,True
+4266,pl-PL,weather,weather_query,jaka jest dzisiejsza pogoda,qa_factoid,0.9882,0.0096,False
+4273,pl-PL,play,play_music,zagraj piosenkę ale jazz,play_music,1.0,1.0,True
+4290,pl-PL,weather,weather_query,czy powinienem zabrać kurtkę dziś wieczorem,lists_remove,0.5765,0.045,False
+4305,pl-PL,play,play_music,graj piosenkę i ciebie też bardzo autorstwa męskie granie,play_music,1.0,1.0,True
+4309,pl-PL,datetime,datetime_query,za ile godzin będzie północ w londynie w anglii,weather_query,0.9453,0.05,False
+4312,pl-PL,weather,weather_query,czy będzie mniej niż dziesięć stopni w lublinie,weather_query,0.9988,0.9988,True
+4313,pl-PL,weather,weather_query,czy będzie padać jutro w łebie,weather_query,0.9984,0.9984,True
+4336,pl-PL,datetime,datetime_query,która jest godzina w chinach,weather_query,0.793,0.1542,False
+4346,pl-PL,iot,iot_hue_lightoff,wyłącz światła całkowicie,iot_hue_lightoff,0.9817,0.9817,True
+4347,pl-PL,iot,iot_hue_lightoff,wstrzymaj działanie świateł,iot_hue_lightoff,0.4808,0.4808,True
+4355,pl-PL,weather,weather_query,jaka jest pogoda tu gdzie jestem,weather_query,0.9986,0.9986,True
+4361,pl-PL,play,play_music,daj mi jakieś dobre dźwięki,play_music,0.9894,0.9894,True
+4362,pl-PL,datetime,datetime_query,która godzina jest w paryżu,datetime_query,0.5379,0.5379,True
+4376,pl-PL,weather,weather_query,jak jest dziś na dworzu,weather_query,0.993,0.993,True
+4377,pl-PL,weather,weather_query,jaka jest aktualnie pogoda,qa_factoid,0.999,0.0002,False
+4383,pl-PL,weather,weather_query,jaka będzie pogoda jutro,weather_query,0.9982,0.9982,True
+4391,pl-PL,news,news_query,jakie są nagłówki na tvn dwadzieścia cztery,lists_query,0.9018,0.0092,False
+4400,pl-PL,news,news_query,jakie są popularne artykuły na temat czasów w gazecie wyborczej,lists_query,0.8415,0.1046,False
+4402,pl-PL,weather,weather_query,czy musze dzisiaj zabrać parasol,weather_query,0.9103,0.9103,True
+4412,pl-PL,weather,weather_query,jaka jest pogoda w kielcach,weather_query,0.9978,0.9978,True
+4436,pl-PL,weather,weather_query,jaka kurtkę powinnam założyć,lists_remove,0.3868,0.0075,False
+4439,pl-PL,weather,weather_query,jaka jest pogoda we władysławowie,weather_query,0.999,0.999,True
+4449,pl-PL,weather,weather_query,czy będzie padać o trzynastej dzisiaj,weather_query,0.9996,0.9996,True
+4452,pl-PL,play,play_music,graj piosenki,play_music,0.999,0.999,True
+4463,pl-PL,datetime,datetime_query,ile sobót jest w marcu,email_sendemail,0.9991,0.0,False
+4477,pl-PL,play,play_music,graj następną piosenkę,play_music,1.0,1.0,True
+4482,pl-PL,weather,weather_query,czy będę musiał odśnieżyć moją drogę dziś rano,weather_query,0.5175,0.5175,True
+4486,pl-PL,weather,weather_query,podaj mi prognozę pogody w tym tygodniu,weather_query,0.9804,0.9804,True
+4487,pl-PL,weather,weather_query,czy będzie padać w czwartek,weather_query,0.9987,0.9987,True
+4491,pl-PL,news,news_query,jakie są najnowsze informacje o donaldzie trumpie,news_query,0.9951,0.9951,True
+4492,pl-PL,news,news_query,jakie są najnowsze statystyki przestępstw w mojej okolicy,qa_factoid,0.3086,0.1221,False
+4496,pl-PL,news,news_query,co dzisiaj zamieścił vogue,social_post,0.9871,0.0004,False
+4502,pl-PL,datetime,datetime_query,która godzina jest etraz w londynie,weather_query,0.8825,0.1057,False
+4524,pl-PL,weather,weather_query,olly jaka jest prognoza pogody na dzisiaj,weather_query,0.9979,0.9979,True
+4547,pl-PL,play,play_music,włącz playlista na spacery z psem,play_music,0.9998,0.9998,True
+4567,pl-PL,news,news_query,przeczytaj mi najnowsze nagłówki wyborcza pl,social_post,0.4146,0.1382,False
+4580,pl-PL,datetime,datetime_query,która jest godzina w chicago,weather_query,0.927,0.0708,False
+4587,pl-PL,play,play_music,puść moje ulubione,social_post,0.9372,0.0045,False
+4589,pl-PL,calendar,calendar_set,ustaw powiadomienie na mecz,calendar_remove,0.715,0.0061,False
+4606,pl-PL,news,news_query,znajdź informacje o dzisiejszych akcjach,news_query,0.6571,0.6571,True
+4614,pl-PL,weather,weather_query,czy temperatura będzie jutro powyżej czterech stopni,weather_query,0.9996,0.9996,True
+4662,pl-PL,news,news_query,alexa wiadomości z tvn,news_query,0.9947,0.9947,True
+4667,pl-PL,datetime,datetime_query,aktualny czas w,datetime_query,0.7466,0.7466,True
+4680,pl-PL,weather,weather_query,czy mam założyć sandały czy pełne buty ze skarpetkami,lists_remove,0.8602,0.0042,False
+4689,pl-PL,weather,weather_query,czy wiesz jaka będzie pogoda,weather_query,0.9989,0.9989,True
+4692,pl-PL,play,play_music,odtwórz piosenkę autorstwa van halen,play_music,1.0,1.0,True
+4710,pl-PL,datetime,datetime_query,którego dnia wypada halloween w tym roku,weather_query,0.6219,0.3631,False
+4764,pl-PL,weather,weather_query,czy będzie padał deszcz w poniedziałek,weather_query,0.9992,0.9992,True
+4767,pl-PL,news,news_query,czy są jakieś informacje o meksykańsko-amerykańskim murze granicznym,lists_query,0.7851,0.029,False
+4772,pl-PL,datetime,datetime_query,pokaż mi godzinę w tej strefie czasowej,datetime_query,0.9896,0.9896,True
+4780,pl-PL,datetime,datetime_query,którego dnia wypadają moje urodziny w tym roku dwudziestego siódmego czerwca,weather_query,0.7043,0.2718,False
+4784,pl-PL,weather,weather_query,czy potrzebna mi kurtka,iot_hue_lightoff,0.1775,0.0207,False
+4813,pl-PL,datetime,datetime_query,która jest godzina w innym mieście,weather_query,0.849,0.0997,False
+4837,pl-PL,news,news_query,olly czy są jakieś wiadomości,email_sendemail,0.9863,0.0112,False
+4838,pl-PL,play,play_music,odtwórz całą muzykę grzegorza cugowskiego,play_music,0.9999,0.9999,True
+4871,pl-PL,weather,weather_query,jak jest na zewnątrz,qa_factoid,0.9586,0.0017,False
+4881,pl-PL,datetime,datetime_query,szukaj aby znaleźć aktualny czas lokalny i strefę czasową,weather_query,0.2602,0.1199,False
+4882,pl-PL,datetime,datetime_query,która jest godzina w mieście,weather_query,0.5379,0.4556,False
+4890,pl-PL,calendar,calendar_set,ustaw powiadomienie o katastrofach pogodowych w usa,weather_query,0.9325,0.001,False
+4909,pl-PL,play,play_music,puść piosenki z męskiego grania,play_music,0.9999,0.9999,True
+4917,pl-PL,weather,weather_query,temperatura na zewnątrz,weather_query,0.3675,0.3675,True
+4928,pl-PL,play,play_music,zagraj moje ulubione,play_music,0.9885,0.9885,True
+4933,pl-PL,weather,weather_query,czy teraz będzie padać,weather_query,0.9988,0.9988,True
+4951,pl-PL,datetime,datetime_query,chciałbym wiedzieć która jest teraz godzina,datetime_query,0.5189,0.5189,True
+4953,pl-PL,news,news_query,wiadomości na temat rozbitego pociągu,social_post,0.916,0.0347,False
+4957,pl-PL,datetime,datetime_query,jaki jest dzień tygodnia dwudziesty trzeci tego miesiąca,datetime_query,0.995,0.995,True
+4960,pl-PL,play,play_music,muzyka sanah,play_music,0.9996,0.9996,True
+4968,pl-PL,qa,qa_factoid,kto wygrał wybory prezydenckie w tym roku,qa_factoid,0.9975,0.9975,True
+4973,pl-PL,play,play_music,olly zagra i can't feel my face,weather_query,0.5976,0.0047,False
+4998,pl-PL,play,play_music,dodaj tę piosenkę jako następną piosenkę w kolejce,play_music,0.9995,0.9995,True
+5009,pl-PL,weather,weather_query,czy będe potrzebował parasol w tym tygodniu,recommendation_events,0.2261,0.2255,False
+5016,pl-PL,news,news_query,podaj mi najnowsze wiadomości o spadkach i wzrostach na giełdzie,news_query,0.9982,0.9982,True
+5027,pl-PL,datetime,datetime_query,kiedy jest następny piątek trzynastego,datetime_query,0.5204,0.5204,True
+5037,pl-PL,weather,weather_query,jak zimno jest dziś,weather_query,0.9916,0.9916,True
+5038,pl-PL,weather,weather_query,jaka jest pogoda na ten tydzień,weather_query,0.9922,0.9922,True
+5040,pl-PL,weather,weather_query,jaka jest teraz pogoda,qa_factoid,0.8234,0.1421,False
+5062,pl-PL,play,play_music,proszę zagraj dla mnie piosenki z lat osiemdziesiątych,play_music,1.0,1.0,True
+5074,pl-PL,weather,weather_query,jaka była pogoda na tydzień,weather_query,0.9492,0.9492,True
+5085,pl-PL,weather,weather_query,jaka jest prognoza na sobotę,qa_factoid,0.4818,0.465,False
+5118,pl-PL,play,play_music,ale jazz,play_music,0.9513,0.9513,True
+5127,pl-PL,news,news_query,oto prawda o posiłkach na kółkach w czyimś budżecie,qa_factoid,0.9928,0.0001,False
+5131,pl-PL,datetime,datetime_query,proszę powiedz która jest godzina w katowicach,weather_query,0.9994,0.0001,False
+5134,pl-PL,play,play_music,znajdź piosenki z mojej playlisty muzyka imprezowa,play_music,0.9993,0.9993,True
+5156,pl-PL,iot,iot_hue_lightoff,wyłącz światła w salonie,iot_hue_lightoff,0.97,0.97,True
+5157,pl-PL,iot,iot_hue_lightoff,olly wyłącz światła w salonie,iot_hue_lightoff,0.9831,0.9831,True
+5158,pl-PL,play,play_music,proszę graj ostatnią piosenkę z albumu abbas,play_music,1.0,1.0,True
+5159,pl-PL,play,play_music,czy możesz zagrać piosenkę artystki madonna,play_music,1.0,1.0,True
+5160,pl-PL,play,play_music,piosenka micheala jacksona,qa_factoid,0.9958,0.0,False
+5176,pl-PL,weather,weather_query,jakiej pogody moge się spodziewać w tym tygodniu,weather_query,0.9988,0.9988,True
+5196,pl-PL,news,news_query,chcę wiedzieć o brexicie,qa_factoid,0.8496,0.0039,False
+5225,pl-PL,datetime,datetime_query,który będzie w najbliższą środę,weather_query,0.9409,0.0068,False
+5243,pl-PL,iot,iot_hue_lightoff,siri proszę wyłącz światła w łazience,iot_hue_lightoff,0.9816,0.9816,True
+5245,pl-PL,news,news_query,ustaw powiadomienie na wiadomości o środowisku,email_sendemail,0.5328,0.0069,False
+5270,pl-PL,news,news_query,jakie są teraz najważniejsze wiadomości,social_post,0.9778,0.0057,False
+5278,pl-PL,play,play_music,proszę graj tylko muzykę pop,play_music,1.0,1.0,True
+5279,pl-PL,play,play_music,proszę graj jedynie smutne piosenki w odtwarzaczu muzyki,play_music,0.9999,0.9999,True
+5286,pl-PL,news,news_query,pokaż wiadomości tvn na temat migrantów,play_podcasts,0.731,0.0705,False
+5296,pl-PL,news,news_query,olly podaj popularne wiadomości tvn dwadzieścia cztery,play_podcasts,0.7061,0.0021,False
+5297,pl-PL,news,news_query,podaj mi popularne wiadomości z t. v. n.,social_post,0.9994,0.0,False
+5301,pl-PL,weather,weather_query,jak będzie pogoda dwudziestego marca dwa tysiące siedemnastego roku,weather_query,0.9927,0.9927,True
+5307,pl-PL,datetime,datetime_query,czy jest dziś dwudziesty marca,weather_query,0.9993,0.0,False
+5318,pl-PL,play,play_music,proszę graj jedynie piosenki elektrycznych gitar,play_music,0.9999,0.9999,True
+5321,pl-PL,weather,weather_query,pokaż pogodę,qa_factoid,1.0,0.0,False
+5328,pl-PL,play,play_music,rock,qa_factoid,0.5125,0.0155,False
+5339,pl-PL,weather,weather_query,stan małego ochłodzenia,iot_hue_lightoff,0.5541,0.0226,False
+5341,pl-PL,datetime,datetime_query,powiadom mnie o czasie proszę,qa_factoid,0.8173,0.0138,False
+5347,pl-PL,play,play_music,zagraj muzykę techno,play_music,1.0,1.0,True
+5358,pl-PL,datetime,datetime_query,uaktualnij do lokalnego czasu,qa_factoid,0.6512,0.0013,False
+5370,pl-PL,news,news_query,jakie są najnowsze kontrowersje trumpa,qa_factoid,0.914,0.0055,False
+5378,pl-PL,play,play_music,s.,play_radio,0.1383,0.0381,False
+5401,pl-PL,play,play_music,muzyka,play_music,0.9998,0.9998,True
+5410,pl-PL,news,news_query,przeczytaj mi ostatnie nagłówki z gazety wyborczej,recommendation_events,0.9972,0.0027,False
+5411,pl-PL,news,news_query,jakie są główne wiadomości w tvn,news_query,0.9768,0.9768,True
+5413,pl-PL,play,play_music,gra muzykę,play_music,0.9999,0.9999,True
+5414,pl-PL,play,play_music,czy możesz załączyć muzykę,play_music,0.9999,0.9999,True
+5427,pl-PL,datetime,datetime_query,która jest teraz godzina w kanadzie,weather_query,0.9605,0.0374,False
+5433,pl-PL,weather,weather_query,czy będzie później padać,weather_query,0.8704,0.8704,True
+5439,pl-PL,weather,weather_query,czy potrzebuję parasol w nocy,weather_query,0.7952,0.7952,True
+5465,pl-PL,weather,weather_query,czy mogę założyć dzisiaj moje sandały,lists_remove,0.6249,0.0096,False
+5468,pl-PL,weather,weather_query,czy musze wziąć okulary przeciwsłoneczne,iot_hue_lightoff,0.5995,0.0131,False
+5524,pl-PL,weather,weather_query,pogoda teraz,qa_factoid,0.9839,0.001,False
+5529,pl-PL,weather,weather_query,kiedy powinienem iść na spacer,qa_factoid,0.5181,0.0353,False
+5557,pl-PL,play,play_music,chce reggae,play_music,0.9627,0.9627,True
+5577,pl-PL,weather,weather_query,będę potrzebować kurtki jeśli wieczorem będzie zbyt wietrznie,weather_query,0.9797,0.9797,True
+5578,pl-PL,weather,weather_query,będe potrzebować ciepłych skarpet rano zimą,qa_factoid,0.9974,0.0003,False
+5584,pl-PL,iot,iot_hue_lightoff,proszę wyłącz światła,iot_hue_lightoff,0.9784,0.9784,True
+5590,pl-PL,weather,weather_query,pokaż temperaturę,qa_factoid,0.9457,0.0022,False
+5593,pl-PL,play,play_music,graj ale jazz sanah,email_query,0.2729,0.248,False
+5619,pl-PL,play,play_music,graj poprzednią piosenkę,play_music,1.0,1.0,True
+5627,pl-PL,play,play_music,graj mi muzykę beatles,play_music,1.0,1.0,True
+5640,pl-PL,datetime,datetime_query,pokaż datę,qa_factoid,0.9905,0.0028,False
+5650,pl-PL,weather,weather_query,zapytaj o podłogę dziś wieczorem,iot_hue_lightoff,0.4174,0.0074,False
+5658,pl-PL,play,play_music,graj dla mnie muzykę autorstwa the beatles,play_music,1.0,1.0,True
+5661,pl-PL,weather,weather_query,czy powinnam wziąć płaszcz przeciwdeszczowy,lists_remove,0.362,0.05,False
+5671,pl-PL,datetime,datetime_query,która jest godzina w las vegas,weather_query,0.8726,0.1251,False
+5678,pl-PL,datetime,datetime_query,którego dnia tygodnia jest piętnasty sierpnia,datetime_query,0.9822,0.9822,True
+5683,pl-PL,play,play_music,graj moją playlistę muzyka imprezowa,play_music,1.0,1.0,True
+5688,pl-PL,news,news_query,pokaż mi nagłówki,lists_query,0.504,0.0001,False
+5703,pl-PL,datetime,datetime_query,czas teraz,qa_factoid,0.5166,0.3119,False
+5707,pl-PL,play,play_music,słuchajmy moje ulubione,play_music,0.9997,0.9997,True
+5721,pl-PL,weather,weather_query,pokaż mi jutrzejszą pogodę w tym rejonie,weather_query,0.9998,0.9998,True
+5722,pl-PL,weather,weather_query,pokaż siedmiodniową prognozę na ten tydzień,lists_query,0.2168,0.0381,False
+5732,pl-PL,weather,weather_query,czy będę musiała zmienić opony na zimowe niedługo,iot_hue_lightoff,0.9775,0.0142,False
+5757,pl-PL,datetime,datetime_query,za piętnaście druga,qa_factoid,0.948,0.0015,False
+5758,pl-PL,weather,weather_query,jaka jest pogoda w stolicy,weather_query,0.9871,0.9871,True
+5774,pl-PL,datetime,datetime_query,jaki jest czas w deli,datetime_query,0.9391,0.9391,True
+5797,pl-PL,weather,weather_query,czy powinienem wziąć płaszcz przeciwdeszczowy przed wyjściem,lists_remove,0.4553,0.0325,False
+5813,pl-PL,play,play_music,graj piosenkę ale jazz,play_music,1.0,1.0,True
+5820,pl-PL,play,play_music,list do m autorstwa dżemu,lists_remove,0.9999,0.0,False
+5837,pl-PL,weather,weather_query,powiedz mi o pogodzie w tym tygodniu,weather_query,0.9987,0.9987,True
+5871,pl-PL,weather,weather_query,jaka jest dzisiaj pogoda w jastarni,weather_query,0.3305,0.3305,True
+5886,pl-PL,news,news_query,gorący temat,social_post,0.9988,0.0001,False
+5919,pl-PL,news,news_query,jaka jest najnowsza aktualizacja propozycji mostu w nowym jorku,recommendation_events,0.979,0.0192,False
+5930,pl-PL,news,news_query,jakieś najnowsze informacje z super expresu,qa_definition,0.3215,0.0922,False
+5948,pl-PL,play,play_music,zagraj jakaś dobrą piosenkę z mojej playlisty,play_music,0.9999,0.9999,True
+5953,pl-PL,weather,weather_query,czy miasto jest tańsze czy droższe do życia,qa_factoid,0.6429,0.0312,False
+5955,pl-PL,weather,weather_query,czy to miasto jest bezpieczne,qa_factoid,0.9488,0.005,False
+5970,pl-PL,play,play_music,puść mi bohemian raphsody,social_post,0.9998,0.0,False
+5985,pl-PL,news,news_query,pokaż mi najnowsze informacje z o. n. z.,news_query,0.6581,0.6581,True
+5996,pl-PL,weather,weather_query,czy będę po południu potrzebować moich kozaków,qa_factoid,0.351,0.3151,False
+5997,pl-PL,datetime,datetime_query,która godzina jest w strefie czasu centralnego,datetime_query,0.9976,0.9976,True
+6023,pl-PL,weather,weather_query,czy będzie parna noc,weather_query,0.9974,0.9974,True
+6024,pl-PL,weather,weather_query,czy powinieniem wziąć płaszcz czy sweter dzisiaj do pracy,lists_remove,0.5764,0.0271,False
+6025,pl-PL,weather,weather_query,czy po południu będę potrzebować krem z filtrem,weather_query,0.7518,0.7518,True
+6027,pl-PL,play,play_music,zagraj ulubione piosenki,play_music,1.0,1.0,True
+6039,pl-PL,weather,weather_query,czy jutro będzie deszczowy dzień,weather_query,0.9996,0.9996,True
+6041,pl-PL,iot,iot_hue_lightoff,hey olly wyłącz światło proszę,iot_hue_lightoff,0.9988,0.9988,True
+6045,pl-PL,play,play_music,dodaj wybraną piosenkę,play_music,0.9949,0.9949,True
+6050,pl-PL,weather,weather_query,czy potrzebuję kremu z filtrem,iot_hue_lightoff,0.2895,0.0261,False
+6055,pl-PL,iot,iot_hue_lightoff,czy zostawiłam włączone światło w garażu,iot_hue_lightoff,0.9338,0.9338,True
+6059,pl-PL,play,play_music,graj muzyka rap,play_music,0.9994,0.9994,True
+6069,pl-PL,weather,weather_query,czy będą dziś burze,weather_query,0.9995,0.9995,True
+6073,pl-PL,iot,iot_hue_lightoff,wyłącz światło na werandzie,iot_hue_lightoff,0.9958,0.9958,True
+6074,pl-PL,iot,iot_hue_lightoff,wyłącz światło w sypialni o dwudziestej pierwszej trzydzieści,iot_hue_lightoff,0.9959,0.9959,True
+6077,pl-PL,news,news_query,chcę usłyszeć dzisiejsze najnowsze wiadomości ze świata,news_query,0.91,0.91,True
+6093,pl-PL,weather,weather_query,czy powinienem otworzyć szyberdach,qa_definition,0.6149,0.0304,False
+6103,pl-PL,weather,weather_query,hej jaka będzie dzisiaj pogoda sopot pomorskie,weather_query,0.9887,0.9887,True
+6116,pl-PL,weather,weather_query,informacje o pogodzie w tym tygodniu,weather_query,0.9977,0.9977,True
+6118,pl-PL,datetime,datetime_query,która jest godzina w dallas,weather_query,0.8563,0.1399,False
+6127,pl-PL,weather,weather_query,czy polecasz parasol,cooking_recipe,0.3602,0.0112,False
+6129,pl-PL,news,news_query,informuj mnie na bieżąco o nowościach ze świata,news_query,0.9929,0.9929,True
+6151,pl-PL,weather,weather_query,chcę poznać dzisiejszą prognozę,qa_factoid,0.5155,0.0458,False
+6172,pl-PL,weather,weather_query,czy mam dzisiaj wziąć okulary przeciwsłoneczne,iot_hue_lightoff,0.7941,0.0087,False
+6177,pl-PL,weather,weather_query,czy mam wziąć dziś parasol,lists_remove,0.2972,0.2415,False
+6178,pl-PL,weather,weather_query,czy mam założyć kurtkę,lists_remove,0.3348,0.0112,False
+6194,pl-PL,weather,weather_query,jaka jest dzisiaj pogoda,weather_query,0.9961,0.9961,True
+6289,pl-PL,weather,weather_query,jaka jest dzisiaj pogoda,weather_query,0.9961,0.9961,True
+6370,pl-PL,calendar,calendar_query,jak wygląda moj przyszły tydzień,weather_query,0.6553,0.0112,False
+6372,pl-PL,news,news_query,wiadomości dotyczące roślin,email_sendemail,0.9903,0.0003,False
+6403,pl-PL,transport,transport_query,jak gdzieś dojechać,transport_query,0.9528,0.9528,True
+6410,pl-PL,news,news_query,co się dzisiaj dzieje we francji,social_post,0.9973,0.0004,False
+6411,pl-PL,weather,weather_query,jaka będzie pogoda w następna środę,weather_query,0.9985,0.9985,True
+6539,pl-PL,calendar,calendar_set,zaznacz dzisiaj jako początek mojej diety,qa_factoid,0.9972,0.0003,False
+6542,pl-PL,cooking,cooking_recipe,czy ser pleśniowy jest lepszy od żółtego,qa_factoid,0.9952,0.0003,False
+6618,pl-PL,news,news_query,podaj ciekawe wiadomości,social_post,0.9671,0.0078,False
+6682,pl-PL,news,news_query,wybory na górze,lists_remove,0.6083,0.0542,False
+6683,pl-PL,news,news_query,sprawy gospodarcze,qa_factoid,0.2859,0.0148,False
+6713,pl-PL,calendar,calendar_remove,odwołaj spotkanie biznesowe w środę,iot_hue_lightoff,0.4639,0.1184,False
+6722,pl-PL,calendar,calendar_query,czy mam jakieś przypomnienia,lists_query,0.3586,0.0193,False
+6725,pl-PL,calendar,calendar_set,przypomnij mi o moim grafiku na popołudnie,iot_hue_lightoff,0.8135,0.0034,False
+6726,pl-PL,calendar,calendar_remove,odwołaj następne spotkanie,calendar_remove,0.4007,0.4007,True
+6729,pl-PL,calendar,calendar_remove,odwołaj śniadanie cafe bristol,cooking_recipe,0.5929,0.186,False
+6732,pl-PL,calendar,calendar_set,dodaj przypomnienie o spotkaniu w niedzielę z moimi teściami,social_post,0.7465,0.0113,False
+6744,pl-PL,calendar,calendar_set,umów spotkanie z pawłem na jutro o dziesiątej rano,weather_query,0.937,0.0008,False
+6746,pl-PL,calendar,calendar_set,ustaw pierwszy tydzień czerwca jako wakacje w moim kalendarzu,calendar_remove,0.9589,0.0035,False
+6747,pl-PL,calendar,calendar_query,ile mam przypomnień,email_sendemail,1.0,0.0,False
+6755,pl-PL,calendar,calendar_remove,proszę wyczyść mój kalendarz,calendar_remove,0.9686,0.9686,True
+6761,pl-PL,calendar,calendar_remove,usuń z mojego kalendarza spotkanie o dziewiątej rano,calendar_remove,0.9822,0.9822,True
+6764,pl-PL,calendar,calendar_set,przypomnij mi umyć okna,calendar_remove,0.7441,0.0025,False
+6774,pl-PL,calendar,calendar_set,ustaw wydarzenie na piątek,calendar_remove,0.9747,0.0007,False
+6785,pl-PL,calendar,calendar_query,jakie jest kolejne moje przypomnienie,qa_factoid,0.9944,0.0003,False
+6789,pl-PL,calendar,calendar_set,umów spotkanie z joanną w sobotę o czwartej po południu,weather_query,0.9053,0.0008,False
+6798,pl-PL,calendar,calendar_remove,usuń moje następne wydarzenie,calendar_remove,0.9085,0.9085,True
+6801,pl-PL,calendar,calendar_query,pokaż moje spotkania w ten piątek,social_post,0.8853,0.0027,False
+6806,pl-PL,calendar,calendar_query,pokaż mi moje wydarzenie w kalendarzu w ten piątek po południu,weather_query,0.5032,0.026,False
+6815,pl-PL,calendar,calendar_set,przypomnij mi o urodzinach mojej mamy na tydzień wcześniej,email_sendemail,0.9422,0.0021,False
+6819,pl-PL,calendar,calendar_set,olly dziś wieczorem o dziewiątej w barze jazzowym jest dobry występ zespołu muzycznego chcę iść,play_music,0.9972,0.0001,False
+6836,pl-PL,calendar,calendar_set,przypomnij mi o spotkaniu jutro o szóstej,weather_query,0.9279,0.0003,False
+6850,pl-PL,calendar,calendar_query,wypisz mój plan na dzisiaj,calendar_remove,0.8993,0.0017,False
+6856,pl-PL,calendar,calendar_set,daj mi powiadomienie na jutrzejsze spotkanie o dziesiątej rano,weather_query,0.7968,0.0067,False
+6860,pl-PL,calendar,calendar_query,czy są jakieś nadchodzące wydarzenia,news_query,0.9555,0.001,False
+6865,pl-PL,calendar,calendar_set,ustaw powiadomienie o jutrzejszym spotkaniu na dziesiątą,calendar_remove,0.4218,0.0087,False
+6878,pl-PL,calendar,calendar_set,zaplanuj spotkanie z działem księgowości o czternastej trzydzieści w piątek,recommendation_events,0.894,0.0032,False
+6891,pl-PL,calendar,calendar_query,czy są jakieś poranne pokazy dostępne,play_podcasts,1.0,0.0,False
+6892,pl-PL,calendar,calendar_query,czy możesz znaleźć mi repertuar kina,play_music,0.6501,0.0004,False
+6897,pl-PL,calendar,calendar_set,przypomnij mi żeby odebrać anię siódmego o piątej wieczór,iot_hue_lightoff,0.2582,0.0217,False
+6901,pl-PL,calendar,calendar_set,przypomnij mi jutro o dziesiątej rano o spotkaniu,qa_factoid,0.3126,0.0219,False
+6902,pl-PL,calendar,calendar_set,ustaw przypomnienie aby zmienić olej w przyszłym miesiącu,calendar_remove,0.7976,0.0048,False
+6909,pl-PL,calendar,calendar_query,co się dzieje po pierwszej i przed trzecią po południu,weather_query,0.9969,0.0002,False
+6918,pl-PL,calendar,calendar_remove,usuń wydarzenia z kalendarza,news_query,0.5586,0.0277,False
+6923,pl-PL,calendar,calendar_set,ustaw przypomnienie żeby wydrukować dokumenty we wtorek rano,email_sendemail,0.7837,0.0016,False
+6926,pl-PL,calendar,calendar_query,czy dziś jest piątek,weather_query,0.9992,0.0,False
+6928,pl-PL,calendar,calendar_remove,usuń wszystkie wydarzenia,calendar_remove,0.7026,0.7026,True
+6936,pl-PL,calendar,calendar_set,przypomnij mi żebym wzięła lekarstwo o dziewiątej rano,qa_factoid,0.8785,0.0012,False
+6937,pl-PL,calendar,calendar_set,ustaw przypomnienie na południe aby zjeść lunch z szefem,cooking_recipe,0.808,0.001,False
+6946,pl-PL,calendar,calendar_query,czy są jakieś spotkania na następną środę,lists_query,0.7156,0.0548,False
+6958,pl-PL,calendar,calendar_remove,upewnij się że w moim kalendarzu nie ma żadnych wydarzeń,calendar_remove,0.9982,0.9982,True
+6959,pl-PL,calendar,calendar_set,przypomnij mi godzinę przed spotkaniem że je mam,datetime_query,0.9557,0.0006,False
+6962,pl-PL,calendar,calendar_set,co mam do zrobienia w przyszłą sobotę o osiemnastej,cooking_recipe,0.4415,0.0212,False
+6964,pl-PL,calendar,calendar_set,czy możesz przypomnieć moje następne spotkanie z szefem godzinę przed jego terminem,social_post,0.2711,0.0248,False
+6967,pl-PL,calendar,calendar_query,możesz sprawdzic fakty na ten temat,qa_factoid,0.9984,0.0001,False
+6968,pl-PL,calendar,calendar_query,potrzebuję potwierdzić wszystkie spotkania dzisiaj czy możesz zaprosić te osoby,lists_remove,0.1681,0.0354,False
+6973,pl-PL,calendar,calendar_set,dodaj przypomnienie o konferencji jutro w warszawie,social_post,0.8844,0.0049,False
+6974,pl-PL,calendar,calendar_set,przypomnij mi że mam jutro przyjęcie jutro w warszawie,weather_query,0.7865,0.0026,False
+6980,pl-PL,calendar,calendar_query,daj mi listę zadań,lists_query,0.9946,0.0,False
+6992,pl-PL,calendar,calendar_query,pokaż nadchodzące wydarzenia,news_query,0.9027,0.0018,False
+6994,pl-PL,calendar,calendar_set,przypomnij mi o,qa_factoid,0.9101,0.0013,False
+6997,pl-PL,calendar,calendar_remove,usuń następne wydarzenie,play_music,0.502,0.1804,False
+7000,pl-PL,calendar,calendar_set,nowe wydarzenie,news_query,0.9987,0.0001,False
+7004,pl-PL,calendar,calendar_set,dodaj do mojego kalendarza przypomnienie tego dnia co roku,calendar_set,0.5955,0.5955,True
+7013,pl-PL,calendar,calendar_query,kiedy rozpocznie się wydarzenie,datetime_query,0.9931,0.0001,False
+7014,pl-PL,calendar,calendar_query,podaj mi plan dzisiejszych wydarzeń,recommendation_events,0.548,0.0244,False
+7025,pl-PL,calendar,calendar_remove,usuń nowy rok z kalendarza,calendar_remove,0.8306,0.8306,True
+7026,pl-PL,recommendation,recommendation_events,jakie wydarzenia są w moim mieście w tym tygodniu,news_query,0.994,0.0005,False
+7039,pl-PL,calendar,calendar_set,ustaw spotkanie z krzyśkiem w przyszły wtorek o jedenastej rano,social_post,0.7127,0.004,False
+7044,pl-PL,calendar,calendar_set,przypomnij mi żebym zaczęła się szykować przed siedemnastą,qa_factoid,0.8311,0.002,False
+7046,pl-PL,calendar,calendar_set,dodaj spotkanie z romanem dwudziestego pierwszego o siódmej,iot_hue_lightoff,0.3075,0.0137,False
+7055,pl-PL,calendar,calendar_set,zaplanuj spotkanie z mateuszem o jedenastej rano w czwartek,calendar_remove,0.4249,0.041,False
+7057,pl-PL,calendar,calendar_set,zaplanuj lunch z arturem w środę w południe,cooking_recipe,0.9969,0.0007,False
+7061,pl-PL,calendar,calendar_set,przypomnij mi o piątkowym spotkaniu z edkiem dwadzieścia cztery godziny wcześniej,qa_factoid,0.2921,0.0236,False
+7073,pl-PL,calendar,calendar_set,przeszukaj mój kalendarz i powiadom mnie przed następnym wydarzeniem,calendar_remove,0.6856,0.0319,False
+7080,pl-PL,calendar,calendar_remove,anuluj wszystko w moim kalendarzu,play_music,0.7291,0.0006,False
+7087,pl-PL,calendar,calendar_remove,usuń jutrzejsze spotkanie z mojego kalendarza,calendar_remove,0.5035,0.5035,True
+7098,pl-PL,calendar,calendar_set,dodaj moją opłatę za samochód dwunastego w moim kalendarzu,qa_factoid,0.2107,0.1343,False
+7100,pl-PL,calendar,calendar_set,przypomnij mi dzień przed przeglądem samochodu,calendar_remove,0.2041,0.025,False
+7111,pl-PL,calendar,calendar_query,o której mam wizytę u lekarza trzydziestego pierwszego marca,datetime_query,0.385,0.02,False
+7113,pl-PL,calendar,calendar_query,czy w ten weekend są jakieś wydarzenia w centrum,news_query,0.8839,0.0033,False
+7117,pl-PL,calendar,calendar_remove,pozbądź się wydarzeń z dziewiętnastego z mojego kalendarza,calendar_remove,0.9555,0.9555,True
+7120,pl-PL,calendar,calendar_query,jak wygląda mój plan na dziś,email_sendemail,0.303,0.014,False
+7122,pl-PL,calendar,calendar_set,czy możesz powtórzyć to wydarzenie,qa_factoid,0.8824,0.0008,False
+7140,pl-PL,calendar,calendar_set,ustaw przypomnienie i powiadom mnie godzinę przed spotkanie w czasie lunchu,calendar_remove,0.553,0.0018,False
+7141,pl-PL,calendar,calendar_query,czy ten program jest w planie,qa_factoid,0.8786,0.0012,False
+7151,pl-PL,calendar,calendar_set,w każdą nieparzystą niedzielę ustaw przypomnienie,calendar_remove,0.2781,0.2242,False
+7152,pl-PL,calendar,calendar_set,zaplanuj lunch każdego dnia o dwunastej trzydzieści,cooking_recipe,0.9825,0.0046,False
+7161,pl-PL,calendar,calendar_set,przypomnij o tym wydarzeniu w przyszłości,email_sendemail,0.2932,0.012,False
+7170,pl-PL,calendar,calendar_set,dzisiaj są urodziny mojej mamy wyślij mi przypomnienie każdego roku w tym dniu,social_post,0.302,0.0329,False
+7181,pl-PL,calendar,calendar_set,obudź mnie o szóstej rano w czwartek żebym miała czas na spotkanie,weather_query,0.2548,0.0202,False
+7185,pl-PL,calendar,calendar_query,kiedy mam następną wizytę u doktora nowaka,qa_factoid,0.5662,0.0079,False
+7189,pl-PL,calendar,calendar_query,czy mam coś zaplanowane,play_podcasts,0.3774,0.0077,False
+7194,pl-PL,calendar,calendar_set,ustaw spotkanie jutro,qa_factoid,0.8676,0.0003,False
+7196,pl-PL,calendar,calendar_set,przypomnij mi o spotkaniu z tomkiem piętnastego marca,qa_factoid,0.4784,0.0166,False
+7199,pl-PL,calendar,calendar_set,ustaw powiadomienie na trzy dwie i jedną godzinę przed angielskim finałem w przyszłym tygodniu,calendar_remove,0.9985,0.0001,False
+7209,pl-PL,calendar,calendar_set,czy możesz mi przypomnieć żeby wynieść śmieci we wtorek,cooking_recipe,0.6773,0.0034,False
+7219,pl-PL,calendar,calendar_query,czy nastawiłeś przypomnienie na spotkanie jutro,qa_factoid,0.3222,0.0149,False
+7224,pl-PL,calendar,calendar_query,gdzie odbędzie się ślub tomka,social_post,0.3373,0.0299,False
+7232,pl-PL,calendar,calendar_query,jakie są wydarzenia w przyszłym tygodniu,news_query,0.8583,0.0051,False
+7257,pl-PL,calendar,calendar_set,proszę przypomnij mi żebym za pół godziny zadzwonił do mamy,qa_factoid,0.9983,0.0,False
+7258,pl-PL,calendar,calendar_set,przypomnij mi żeby wysłać email do szefa godzinę później,email_sendemail,1.0,0.0,False
+7262,pl-PL,calendar,calendar_set,utwórz przypomnienie na jutrzejsze spotkanie,calendar_remove,0.9344,0.0013,False
+7266,pl-PL,calendar,calendar_query,jakie ma nadchodzące zadania,qa_factoid,0.9988,0.0,False
+7278,pl-PL,calendar,calendar_set,przypomnij mi o urodzinach renaty dwadzieścia cztery godziny wcześniej,email_sendemail,0.4185,0.008,False
+7287,pl-PL,calendar,calendar_set,przypomnij mi o mojej rocznicy dzień wcześniej,email_sendemail,0.9984,0.0001,False
+7289,pl-PL,calendar,calendar_remove,usuń wszystkie wydarzenia z grześkiem,lists_remove,0.6906,0.1854,False
+7291,pl-PL,calendar,calendar_set,zablokuj jedną godzinę od dziesiątej rano jutro,calendar_remove,0.9652,0.0004,False
+7292,pl-PL,calendar,calendar_set,jestem niedostępny od czwartej do szóstej jutro wieczorem zaznacz w moim kalendarzu,calendar_remove,0.2834,0.0258,False
+7293,pl-PL,calendar,calendar_set,zaplanuj godzinne spotkanie na sobotę,calendar_remove,0.8641,0.0142,False
+7294,pl-PL,calendar,calendar_remove,usuń spotkanie z jerzym adamskim z mojego kalendarza,social_post,0.9973,0.0002,False
+7295,pl-PL,calendar,calendar_remove,proszę wyczyść mój kalendarz,calendar_remove,0.9686,0.9686,True
+7314,pl-PL,calendar,calendar_query,co jest zaplanowane na dzisiaj,play_podcasts,0.375,0.0218,False
+7316,pl-PL,calendar,calendar_query,czy mam jakieś spotkania,lists_query,0.8678,0.0052,False
+7319,pl-PL,calendar,calendar_query,jakie są plany na dzisiaj od czternastej do szesnastej,cooking_recipe,0.2668,0.0271,False
+7353,pl-PL,email,email_query,po prostu powiedz mi jaka będzie pogoda na mazurach kolejnych tygodniach,weather_query,0.9878,0.0003,False
+7355,pl-PL,calendar,calendar_set,przypomnij mi aby sprawdzić gulasz o szóstej,iot_hue_lightoff,0.9997,0.0,False
+7380,pl-PL,calendar,calendar_query,proszę pokaż dzisiejsze spotkanie z klientami,recommendation_events,0.5252,0.0083,False
+7397,pl-PL,calendar,calendar_query,czy mam jakieś wydarzenia zaplanowane na następne trzy miesiące,news_query,0.3553,0.0264,False
+7449,pl-PL,calendar,calendar_set,zaplanuj spotkanie z tą osobą,social_post,0.3232,0.0064,False
+7450,pl-PL,calendar,calendar_set,potrzebuję zaplanować spotkanie z tą osobą,social_post,0.9817,0.0001,False
+7455,pl-PL,calendar,calendar_set,przypomnij mi o jutrzejszym przyjęciu,qa_factoid,0.9066,0.0012,False
+7461,pl-PL,calendar,calendar_set,zaproś ludzi na wydarzenie w kalendarzu,social_post,0.8064,0.0024,False
+7463,pl-PL,calendar,calendar_set,poinformuj moją grupę że nowy termin spotkania jest jutro,calendar_remove,0.9684,0.011,False
+7467,pl-PL,calendar,calendar_query,podaj mi godzinę wydarzeń,datetime_query,0.9515,0.0004,False
+7477,pl-PL,calendar,calendar_set,przypomnij mi piątego marca każdego roku o prezentach na rocznicę ślubu,email_sendemail,0.8605,0.0053,False
+7496,pl-PL,calendar,calendar_query,czy mam dzisiaj spotkania,qa_factoid,0.4911,0.021,False
+7499,pl-PL,calendar,calendar_set,zrób nowy plan na jutrzejsze spotkanie,cooking_recipe,0.7042,0.0073,False
+7500,pl-PL,calendar,calendar_remove,czy możesz usunąć następne wydarzenie,calendar_remove,0.9644,0.9644,True
+7502,pl-PL,calendar,calendar_query,co jest zaplanowane na spotkanie z kubą o czwartej po południu,weather_query,0.7849,0.0134,False
+7503,pl-PL,calendar,calendar_query,gdzie w warszawie jest to spotkanie o trzynastej w piątek,weather_query,0.6853,0.0118,False
+7520,pl-PL,calendar,calendar_set,przypomnij mi codziennie o drugiej po południu o lunchu,calendar_remove,0.5356,0.0605,False
+7524,pl-PL,calendar,calendar_query,ile mariusz proponował zainwestować w moją firmę na spotkaniu które odbyło się dzisiaj o siedemnastej dwadzieścia,email_sendemail,1.0,0.0,False
+7528,pl-PL,calendar,calendar_set,trzynastego czerwca będą wyniki wyborów proszę zaznacz to,calendar_remove,0.3798,0.0199,False
+7531,pl-PL,calendar,calendar_set,proszę dodaj moje dni wypłaty,datetime_query,0.7366,0.0076,False
+7539,pl-PL,calendar,calendar_query,czy mam jakies plany,qa_factoid,0.8324,0.0025,False
+7542,pl-PL,calendar,calendar_set,proszę przypomnij mi o tym jutro,iot_hue_lightoff,0.3278,0.0109,False
+7549,pl-PL,calendar,calendar_set,chcę mieć spotkanie aż do trzeciej,qa_factoid,0.9963,0.0001,False
+7556,pl-PL,calendar,calendar_set,ustaw mój kalendarz aby przypominał żeby zrobić zakupy w każdy piątek,calendar_remove,0.9228,0.0297,False
+7557,pl-PL,calendar,calendar_set,dodaj przypomnienie lokalizacji w kalendarzu,lists_remove,0.4007,0.2187,False
+7559,pl-PL,calendar,calendar_set,przypomnij mi dziś wieczorem żeby odebrać pranie o dwudziestej,calendar_remove,0.4644,0.0117,False
+7563,pl-PL,calendar,calendar_set,przypomnij mi o jutrzejszym spotkaniu godzinę wcześniej,weather_query,0.2649,0.0144,False
+7565,pl-PL,calendar,calendar_set,przypomnienie o spotkaniu,social_post,0.5687,0.0024,False
+7567,pl-PL,calendar,calendar_set,urodziny,qa_factoid,0.9988,0.0,False
+7569,pl-PL,calendar,calendar_query,plan na jutro,qa_definition,0.2132,0.0177,False
+7570,pl-PL,calendar,calendar_query,jaki jest plan na dziś,cooking_recipe,0.2167,0.0283,False
+7583,pl-PL,calendar,calendar_set,znajomy dodaje wydarzenie w twoim kalendarzu,social_post,0.9991,0.0,False
+7596,pl-PL,calendar,calendar_set,proszę umów spotkanie z darkiem w piasecznie w południe,weather_query,0.7979,0.0004,False
+7598,pl-PL,calendar,calendar_set,utwórz spotkanie z tomkiem na temat terroryzmu w następny wolny dzień,social_post,0.7515,0.0016,False
+7606,pl-PL,calendar,calendar_set,spotkanie z piotrek jutro o trzeciej,weather_query,0.9833,0.0003,False
+7609,pl-PL,calendar,calendar_remove,usuń przypomnienie o spotkaniu we wtorek,calendar_remove,0.7537,0.7537,True
+7613,pl-PL,calendar,calendar_query,jakie było nadchodzące wydarzenie,qa_factoid,0.9977,0.0001,False
+7628,pl-PL,calendar,calendar_set,przypomnij mi kiedy będę w bibliotece żebym wyrobił nową kartę biblioteczną,email_sendemail,0.3855,0.0006,False
+7654,pl-PL,calendar,calendar_set,oznacz dwudziesty kwiecień jako urodziny mojego brata,iot_hue_lightoff,0.3985,0.2069,False
+7655,pl-PL,calendar,calendar_set,dodaj przypomnienie na dwudziestego kwietnia o urodzinach mojego brata,social_post,0.9415,0.0076,False
+7660,pl-PL,calendar,calendar_remove,anuluj wszystkie moje spotkania po trzeciej po południu dzisiaj i poinformuj mnie o szczegółach,weather_query,0.198,0.0614,False
+7662,pl-PL,calendar,calendar_query,czy możesz wymienić moje spotkania dzisiaj,recommendation_events,0.9858,0.0001,False
+7664,pl-PL,calendar,calendar_set,dodaj lunch z michałem,cooking_recipe,0.9987,0.0001,False
+7666,pl-PL,calendar,calendar_set,zaznaczysz że mam spotkanie z tomkiem jutro o trzeciej,weather_query,0.9976,0.0,False
+7680,pl-PL,calendar,calendar_remove,w moim kalendarzu usuń wszystkie wydarzenia gry w golfa na ten miesiąc,lists_remove,0.6727,0.0933,False
+7686,pl-PL,calendar,calendar_set,dodaj michała i jacka do kalendarza festiwal,email_sendemail,0.8286,0.0068,False
+7690,pl-PL,calendar,calendar_query,co mam teraz w kalendarzu,qa_factoid,0.5304,0.074,False
+7693,pl-PL,calendar,calendar_query,czy mam coś zaplanowanego na dwudziestego pierwszego,qa_factoid,0.3223,0.0082,False
+7697,pl-PL,calendar,calendar_set,ustaw przypomnienie na to,lists_remove,0.2799,0.005,False
+7711,pl-PL,calendar,calendar_set,hej anuluj wszystkie moje inne spotkania i telefony drugiego marca ponieważ są urodziny kuby oznacz je jako wydarzenie w swoim kalendarzu,calendar_remove,0.4412,0.0092,False
+7712,pl-PL,calendar,calendar_set,hej olly usuń moje wszystkie inne spotkania i połączenia na drugiego marca jako że są urodziny kuby dodaj to jako wydarzenie w twoim kalendarzu,calendar_remove,0.7007,0.0021,False
+7718,pl-PL,calendar,calendar_set,hej wyślij zaproszenie do pana nowaka na spotkanie w ten piątek i zablokuj mój kalendarz na piątek po południu,calendar_remove,0.9971,0.0003,False
+7726,pl-PL,calendar,calendar_set,potrzebuję coś w każdy poniedziałek nastaw przypomnienie,calendar_remove,0.711,0.0201,False
+7730,pl-PL,calendar,calendar_set,zaznacz przyszły poniedziałek,qa_factoid,0.4909,0.1231,False
+7741,pl-PL,calendar,calendar_remove,wyczyść mój kalendarz sobota,calendar_remove,0.9191,0.9191,True
+7751,pl-PL,calendar,calendar_set,przypominaj mi w każdy poniedziałek żeby wynieść śmieci,lists_remove,0.4095,0.0111,False
+7762,pl-PL,calendar,calendar_query,jakie mam przypomnienia,qa_factoid,0.9814,0.0006,False
+7767,pl-PL,calendar,calendar_set,dodaj trening do kalendarza czwartego lutego w parku saskim o drugiej po południu,cooking_recipe,0.4607,0.0624,False
+7768,pl-PL,calendar,calendar_set,proszę dodaj trening czwartego lutego na polu mokotowskim o drugiej po południu,qa_factoid,0.5231,0.0694,False
+7774,pl-PL,calendar,calendar_set,dodaj zakupy do mojego kalendarza na jutro,calendar_remove,0.2454,0.1206,False
+7777,pl-PL,calendar,calendar_query,czy mam dzisiaj spotkanie,weather_query,0.9241,0.0027,False
+7778,pl-PL,calendar,calendar_set,przypomnij mi co robię w niedzielę po południu,weather_query,0.7425,0.0044,False
+7808,pl-PL,calendar,calendar_set,przypomnij mi że zabieram mamę do fryzjera w czwartek o jedenastej rano,weather_query,0.465,0.0152,False
+7817,pl-PL,calendar,calendar_query,czy to prawda o tym dniu,qa_factoid,0.9824,0.0003,False
+7820,pl-PL,calendar,calendar_remove,usuń wszystkie wydarzenia z kalendarza,lists_remove,0.4808,0.1781,False
+7836,pl-PL,calendar,calendar_remove,usuń wszystkie wydarzenia,calendar_remove,0.7026,0.7026,True
+7843,pl-PL,calendar,calendar_set,daj mi znać za dwie godziny że muszę wyjść na moją lekcję skrzypiec o czwartej po południu w fabryce muzyki,calendar_remove,0.6785,0.0066,False
+7844,pl-PL,calendar,calendar_query,jakie przypomnienia ja ustawiłem,email_query,0.2838,0.0134,False
+7847,pl-PL,calendar,calendar_set,powiadom mnie kiedy otwierają rejestrację,datetime_query,0.5501,0.0034,False
+7851,pl-PL,calendar,calendar_set,mam dziś spotkanie w południe,weather_query,0.9982,0.0001,False
+7863,pl-PL,calendar,calendar_set,przypomnij mi aby zacząć kolacje po południu o piątej,cooking_recipe,0.9989,0.0001,False
+7870,pl-PL,calendar,calendar_remove,usuń wydarzenie z kalendarza,calendar_remove,0.7188,0.7188,True
+7876,pl-PL,news,news_query,co się działo przez ostatnie dwa miesiące,news_query,0.9839,0.9839,True
+7878,pl-PL,calendar,calendar_remove,wyczyść mój kalendarz,calendar_remove,0.9205,0.9205,True
+7879,pl-PL,calendar,calendar_query,jakie są moje następne trzy wydarzenia,qa_factoid,0.7668,0.0041,False
+7889,pl-PL,calendar,calendar_query,o której zaczyna się mecz piłki nożnej dziś wieczorem,calendar_remove,0.5016,0.0972,False
+7890,pl-PL,calendar,calendar_remove,skasuj dzisiaj fryzjera,cooking_recipe,0.9943,0.0001,False
+7891,pl-PL,calendar,calendar_remove,anuluj kolację dziś wieczorem,cooking_recipe,0.9962,0.0004,False
+7892,pl-PL,calendar,calendar_remove,usuń następne wydarzenie dzisiaj,play_podcasts,0.6173,0.0421,False
+7894,pl-PL,calendar,calendar_set,podaj mi najnowsze wiadomości o wyborach za godzinę,news_query,0.9854,0.0003,False
+7902,pl-PL,calendar,calendar_set,ustaw spotkanie między mną a jasiem jutro o drugiej po południu,weather_query,0.9107,0.0008,False
+7908,pl-PL,calendar,calendar_query,czy muszę dzisiaj coś zrobić,cooking_recipe,0.958,0.0019,False
+7912,pl-PL,calendar,calendar_remove,alexa usuń kolację z wojtkiem z mojego kalendarza,email_sendemail,0.4144,0.107,False
+7916,pl-PL,calendar,calendar_set,przypomnij mi wyrzucić śmieci o szóstej po południu,calendar_remove,0.797,0.0025,False
+7918,pl-PL,calendar,calendar_set,wyślij zaproszenie do bill malinda na wydarzenie,social_post,0.885,0.0008,False
+7919,pl-PL,calendar,calendar_set,nowe spotkanie dodaj kubę i melindę jako uczestników,news_query,0.9076,0.0041,False
+7922,pl-PL,calendar,calendar_remove,otwórz zadania usuń przyszłe wydarzenia,iot_hue_lightoff,0.2551,0.1137,False
+7927,pl-PL,calendar,calendar_query,co mam do zrobienia w tym tygodniu,cooking_recipe,0.5254,0.0203,False
+7946,pl-PL,calendar,calendar_query,jakie są nadchodzące koncerty w dallas,qa_factoid,0.5849,0.0006,False
+7953,pl-PL,calendar,calendar_remove,usuń wizytę u mojego lekarza w sobotę,calendar_remove,0.9777,0.9777,True
+7955,pl-PL,calendar,calendar_set,wpisz to wydarzenie na stałe do mojego kalendarza,iot_hue_lightoff,0.2924,0.0178,False
+7956,pl-PL,calendar,calendar_set,zamień to wydarzenie na cykliczne,iot_hue_lightoff,0.8621,0.0012,False
+7966,pl-PL,calendar,calendar_query,czy kazałam o czymś sobie przypomnieć,calendar_remove,0.6172,0.0072,False
+7970,pl-PL,calendar,calendar_set,przypomnij mi na czas o ślubie żebym zdążyła kupić prezent,email_sendemail,0.9594,0.0008,False
+7971,pl-PL,calendar,calendar_set,ustaw przypomnienie na dwa dni przed wydarzeniem,calendar_remove,0.9834,0.0005,False
+7975,pl-PL,calendar,calendar_query,czy podczas wydarzenia będzie osoba parkująca samochody,qa_factoid,0.9433,0.0004,False
+7978,pl-PL,calendar,calendar_query,jakie przypomnienia mam zaplanowane jutro przed południem,weather_query,0.952,0.0017,False
+7980,pl-PL,calendar,calendar_set,pokaż mi kiedy mam wydarzenie,datetime_query,0.989,0.0004,False
+7981,pl-PL,calendar,calendar_set,wyślij przypomnienie przed spotkaniem,calendar_remove,0.3276,0.0054,False
+7993,pl-PL,calendar,calendar_remove,usuń wszystkie wydarzenia z mojego kalendarza,lists_remove,0.8516,0.0174,False
+8001,pl-PL,calendar,calendar_remove,czy możesz wymazać wizytę u fryzjera która mam zaplanowaną na piątek,calendar_remove,0.774,0.774,True
+8004,pl-PL,calendar,calendar_set,dorota i ja musimy porozmawiać o naszym rozwodzie ustaw spotkanie na pierwszy wolny termin,email_sendemail,0.7722,0.004,False
+8005,pl-PL,calendar,calendar_set,w poniedziałek dwudziestego muszę porozmawiać z grześkiem o naszej weekendowej wycieczce,social_post,0.8935,0.0036,False
+8013,pl-PL,calendar,calendar_query,pokaż moje spotkanie w przyszłym miesiącu,social_post,0.9843,0.0002,False
+8029,pl-PL,calendar,calendar_query,jakie są dziś wydarzenia,news_query,0.9402,0.0016,False
+8033,pl-PL,datetime,datetime_query,kiedy wypada wielkanoc,qa_factoid,0.4292,0.1852,False
+8035,pl-PL,calendar,calendar_set,przypomnij mi o wymianie oleju,qa_factoid,0.3204,0.0054,False
+8037,pl-PL,calendar,calendar_set,przypomnij mi coś kiedyś,qa_factoid,0.9694,0.0006,False
+8042,pl-PL,calendar,calendar_query,ile osób przyjdzie na moje następne spotkanie,social_post,0.9765,0.0004,False
+8043,pl-PL,calendar,calendar_query,o której godzinie jest moje następne spotkanie,weather_query,0.9196,0.0008,False
+8044,pl-PL,calendar,calendar_query,jaki jest mój plan na dzisiaj,cooking_recipe,0.1471,0.032,False
+8055,pl-PL,calendar,calendar_remove,usuń moje spotkanie siódmego marca,calendar_remove,0.6424,0.6424,True
+8056,pl-PL,calendar,calendar_query,czy mam w piątek randkę,datetime_query,0.3953,0.0194,False
+8058,pl-PL,calendar,calendar_query,czy mam dzisiaj spotkanie sprzedażowe,recommendation_events,0.9963,0.0001,False
+8073,pl-PL,calendar,calendar_set,zorganizuj spotkanie sprzedażowe w środę o jedenastej rano,recommendation_events,0.9673,0.0012,False
+8079,pl-PL,calendar,calendar_set,ustaw przypomnienie na pieczenie chleba za jedną godzinę,cooking_recipe,0.9998,0.0,False
+8084,pl-PL,calendar,calendar_query,jaki jest plan wydarzenia,recommendation_events,0.2128,0.0142,False
+8085,pl-PL,calendar,calendar_set,chcę ustalić datę na ten tydzień,iot_hue_lightoff,0.5658,0.0827,False
+8100,pl-PL,email,email_sendemail,wyślij maila do osób z którymi się umówiłem żeby zmienić termin,email_sendemail,1.0,1.0,True
+8107,pl-PL,calendar,calendar_set,staw wydarzenie urodziny marcina,calendar_set,0.8779,0.8779,True
+8110,pl-PL,calendar,calendar_set,proszę dodaj superwizję do mojego kalendarza,qa_factoid,0.9628,0.0005,False
+8116,pl-PL,calendar,calendar_query,w okresie między pierwszym lutego i szesnastym marca jakie mam spotkania,news_query,0.9641,0.0011,False
+8119,pl-PL,calendar,calendar_query,gdzie odbywa się przyjęcie urodzinowe marysi,email_query,0.2045,0.0322,False
+8125,pl-PL,calendar,calendar_set,utwórz spotkanie w moim kalendarzu,play_radio,0.4444,0.027,False
+8126,pl-PL,calendar,calendar_set,utwórz wydarzenie spotkanie w moim kalendarzu,social_post,0.2874,0.0383,False
+8129,pl-PL,calendar,calendar_query,jakie mam jeszcze przypomnienia,qa_factoid,0.9881,0.0005,False
+8140,pl-PL,calendar,calendar_set,nastaw przypomnienie trzynastego na lunch z danielem,cooking_recipe,0.9639,0.0036,False
+8148,pl-PL,calendar,calendar_query,czy ustawiłam jakieś przypomnienia,calendar_set,0.2726,0.0139,False
+8150,pl-PL,calendar,calendar_query,czy mam jakieś przypomnienie przyjęcie urodzinowe,lists_query,0.2821,0.0578,False
+8165,pl-PL,calendar,calendar_query,dwunasta trzydzieści masz już zarezerwowane spotkanie za dziesięć minut,qa_factoid,0.8192,0.0024,False
+8182,pl-PL,calendar,calendar_remove,usuń wizytę u dentysty,calendar_remove,0.9413,0.9413,True
+8188,pl-PL,calendar,calendar_query,jaki dzisiaj jest dzień,weather_query,0.8664,0.0004,False
+8204,pl-PL,calendar,calendar_set,prosze przypomnij mi żebym poszła na pocztę,email_sendemail,0.5505,0.0004,False
+8206,pl-PL,calendar,calendar_set,nie pozwól mi zapomnieć kupić prezent dla siostry,cooking_recipe,0.7927,0.0016,False
+8230,pl-PL,calendar,calendar_query,jak długo potrwa mój lunch we wtorek,cooking_recipe,0.6446,0.0138,False
+8241,pl-PL,calendar,calendar_remove,usuń wszystko z mojego kalendarza do końca roku,calendar_remove,0.8301,0.8301,True
+8245,pl-PL,calendar,calendar_set,powiadom mnie o mszach w niedziele o jedenastej rano,social_post,0.641,0.0083,False
+8248,pl-PL,calendar,calendar_set,dodaj jutrzejszą kolację do kalendarza,cooking_recipe,0.9985,0.0009,False
+8251,pl-PL,calendar,calendar_set,wpisz przyszłotygodniowy lunch do kalendarza,cooking_recipe,0.9828,0.0148,False
+8260,pl-PL,calendar,calendar_set,proszę powiadom mnie dzień przed urodzinami grzesia,weather_query,0.8659,0.0015,False
+8261,pl-PL,calendar,calendar_set,wyślij mi alert na godzinę przed moim następnym spotkaniem,weather_query,0.8219,0.0029,False
+8269,pl-PL,calendar,calendar_set,przypomnienie trzydzieści minut na spotkanie we wtorek,weather_query,0.2336,0.0147,False
+8276,pl-PL,calendar,calendar_remove,usuń następne zaplanowane spotkanie,calendar_remove,0.9516,0.9516,True
+8280,pl-PL,calendar,calendar_set,muszę ustawić przypomnienie na piętnastego marca,calendar_set,0.8857,0.8857,True
+8284,pl-PL,calendar,calendar_remove,usuń urodziny z kalendarza,qa_factoid,0.9548,0.0051,False
+8289,pl-PL,calendar,calendar_set,ustaw przypomnienie o dzisiejszym zebraniu wydziału o czwartej,calendar_remove,0.9973,0.0001,False
+8290,pl-PL,calendar,calendar_set,otwórz przypomnienie o przyszłotygodniowym spotkaniu menedżerów we wtorek,iot_hue_lightoff,0.7322,0.0079,False
+8294,pl-PL,calendar,calendar_set,dodaj do kalendarza i powtórz,qa_factoid,0.8135,0.0034,False
+8300,pl-PL,calendar,calendar_set,zapisz wydarzenie od piątej do szóstej po południu osiemnastego marca,datetime_query,0.3819,0.036,False
+8302,pl-PL,calendar,calendar_remove,usuń spotkanie w przyszły poniedziałek,calendar_remove,0.9949,0.9949,True
+8308,pl-PL,news,news_query,czego dotyczył protest wczoraj w południe na placu zamkowym,social_post,0.9902,0.0015,False
+8336,pl-PL,calendar,calendar_query,kiedy jest mój brunch z janką,cooking_recipe,0.9906,0.0006,False
+8343,pl-PL,datetime,datetime_query,czy jest środa,weather_query,0.9991,0.0,False
+8345,pl-PL,calendar,calendar_set,daj mi znać o której jest spotkanie,qa_factoid,0.9486,0.0,False
+8347,pl-PL,calendar,calendar_query,co się dzieje czwartego grudnia,qa_factoid,0.3998,0.0152,False
+8358,pl-PL,calendar,calendar_set,przypomnij mi o tym,qa_factoid,0.6523,0.0021,False
+8366,pl-PL,calendar,calendar_set,utwórz osiemnastego marca powtarzające się spotkanie z okazji urodzin amelii,email_sendemail,0.9968,0.0,False
+8387,pl-PL,calendar,calendar_set,nastaw przypomnienie na pranie o ósmej po południu,weather_query,0.6719,0.0386,False
+8388,pl-PL,calendar,calendar_set,chcę zrobić pranie o ósmej wieczorem utwórz przypomnienie,cooking_recipe,0.7914,0.0049,False
+8390,pl-PL,calendar,calendar_set,przypomnij mi o moim spotkaniu,qa_factoid,0.8625,0.0058,False
+8394,pl-PL,calendar,calendar_set,ustaw przypomnienie o zażyciu leków codziennie w południe,calendar_remove,0.9015,0.0024,False
+8404,pl-PL,calendar,calendar_query,chcę wiedzieć więcej o tym wydarzeniu,news_query,0.3953,0.0055,False
+8409,pl-PL,calendar,calendar_remove,usuń moją jutrzejszą kolację,cooking_recipe,0.9996,0.0001,False
+8410,pl-PL,calendar,calendar_remove,usuń moją kolację w poniedziałek,calendar_remove,0.8727,0.8727,True
+8413,pl-PL,calendar,calendar_set,przypomnij mi,calendar_remove,0.4154,0.0056,False
+8414,pl-PL,calendar,calendar_set,przypomnij mi żeby iść na kolację z dawidem w piątek o piątej po południu,cooking_recipe,0.9853,0.0014,False
+8415,pl-PL,calendar,calendar_set,dodaj spotkanie w biurze z bartkiem o trzeciej po południu we wtorek,weather_query,0.2789,0.0746,False
+8426,pl-PL,calendar,calendar_query,powiedz mi o wydarzeniach bieżących pomiędzy wczoraj a dzisiaj rano,news_query,0.9763,0.001,False
+8430,pl-PL,calendar,calendar_remove,anuluj wszystkie moje spotkania,iot_hue_lightoff,0.7302,0.004,False
+8431,pl-PL,calendar,calendar_remove,pozbądź się wszystkich moich zaplanowanych wydarzeń,calendar_remove,0.9495,0.9495,True
+8436,pl-PL,calendar,calendar_set,proszę ustaw spotkanie przy lunchu o dwunastej po południu w każdą środę w marcu,calendar_set,0.9991,0.9991,True
+8442,pl-PL,calendar,calendar_set,proszę zmodyfikuj mój kalendarz o to wydarzenie,calendar_remove,0.7476,0.0029,False
+8449,pl-PL,calendar,calendar_set,ustaw przypomnienie o urodzinach mojej córki,calendar_remove,0.8968,0.0008,False
+8453,pl-PL,calendar,calendar_set,proszę wpisz wydarzenie do mojego kalendarza i oznacz je jako wydarzenie cykliczne,qa_factoid,0.4787,0.1886,False
+8460,pl-PL,calendar,calendar_query,pokaż mi moje wydarzenia,news_query,0.9156,0.0027,False
+8461,pl-PL,calendar,calendar_query,jakie są moje plany na miesiąc maj,email_sendemail,0.6577,0.0054,False
+8466,pl-PL,calendar,calendar_set,przyślij mi przypomnienie o spotkaniu w środę o dziewiątej,weather_query,0.9633,0.0007,False
+8469,pl-PL,calendar,calendar_query,co jest zaplanowane na dzisiaj w moim kalendarzu,lists_query,0.2475,0.0374,False
+8474,pl-PL,calendar,calendar_set,dodaj przyjęcie urodzinowe janki na jutro o drugiej po południu w świętokrzyskiej sześć do mojego kalendarza,calendar_set,0.7847,0.7847,True
+8494,pl-PL,calendar,calendar_query,jak wygląda mój plan na dzisiaj,email_sendemail,0.3902,0.0155,False
+8496,pl-PL,calendar,calendar_query,pokaż moje spotkania jutro rano,social_post,0.6953,0.0052,False
+8498,pl-PL,calendar,calendar_query,przejrzyjmy wszystkie bieżące przypomnienia,lists_remove,0.5283,0.0076,False
+8516,pl-PL,calendar,calendar_remove,usuń pozycję z kalendarza,iot_hue_lightoff,0.45,0.2101,False
+8520,pl-PL,calendar,calendar_set,dodaj wydarzenie do aplikacji kalendarz,calendar_set,0.3823,0.3823,True
+8525,pl-PL,calendar,calendar_query,przypomnienia o spotkaniach od trzeciej do piątej,news_query,0.6037,0.0196,False
+8535,pl-PL,calendar,calendar_set,przypomnij mi o wydarzeniu wizyta u dentysty które ja mam za dwa tygodnie,datetime_query,0.4646,0.0177,False
+8539,pl-PL,calendar,calendar_set,przypomnij mi o,qa_factoid,0.9101,0.0013,False
+8541,pl-PL,calendar,calendar_set,przypomnij mi proszę,calendar_remove,0.6421,0.0064,False
+8553,pl-PL,calendar,calendar_set,dodaj do mojego kalendarza spotkanie z tomkiem o dziewiątej rano,calendar_set,0.6717,0.6717,True
+8559,pl-PL,calendar,calendar_query,czy mam coś zaplanowane na dzisiaj,play_podcasts,0.4803,0.0077,False
+8562,pl-PL,calendar,calendar_remove,usuń moje spotkanie dzisiaj na drugą po południu,weather_query,0.8326,0.1585,False
+8568,pl-PL,calendar,calendar_set,wyślij zaproszenia do kuby i alicji na brunch we wtorek o jedenastej rano,email_sendemail,0.9959,0.0,False
+8570,pl-PL,calendar,calendar_set,czy możesz zaznaczyć że jestem zajęta jutro o drugiej po południu,weather_query,0.9939,0.0002,False
+8579,pl-PL,calendar,calendar_query,jakie informacje powinienem znać na moje dzisiejsze spotkania,email_query,0.5895,0.0271,False
+8585,pl-PL,calendar,calendar_set,przypomnij mi że mam przyjęcie urodzinowe trzydziestego,calendar_remove,0.4163,0.0786,False
+8598,pl-PL,calendar,calendar_set,przypomnij mi żeby odebrać marka z lotniska o szóstej po południu,recommendation_events,0.9191,0.0001,False
+8618,pl-PL,calendar,calendar_set,przypomnij mi żeby podlać kwiatki w każdy wtorek czwartek i sobotę,iot_hue_lightoff,0.5251,0.0025,False
+8631,pl-PL,calendar,calendar_remove,usuń to z mojego kalendarza,lists_remove,0.4811,0.0916,False
+8635,pl-PL,calendar,calendar_set,czy możesz mi przypomnieć żebym zamówił indyka na trzy tygodnie przed świętem dziękczynienia,qa_factoid,0.6716,0.0006,False
+8640,pl-PL,calendar,calendar_set,chcę zrobić notatkę w moim kalendarzu o jutrzejszym wydarzeniu w bibliotece,email_sendemail,0.9995,0.0,False
+8642,pl-PL,calendar,calendar_set,dodaj połączenie konferencyjne o czwartej po południu do moich przypomnień na dzisiaj,social_post,0.2204,0.0998,False
+8651,pl-PL,calendar,calendar_set,powiadom mnie o wydarzeniu w moim kalendarzu,news_query,0.9516,0.002,False
+8653,pl-PL,calendar,calendar_set,przypomnij mi o wydarzeniu w moim kalendarzu,calendar_remove,0.2446,0.0282,False
+8666,pl-PL,calendar,calendar_remove,usuń wszystkie wydarzenia z mojego kalendarza,lists_remove,0.8516,0.0174,False
+8667,pl-PL,calendar,calendar_query,w ostatnie trzy miesiące ile spotkań odbyłem z panem rychardem,email_sendemail,0.9909,0.0003,False
+8670,pl-PL,calendar,calendar_remove,usuń wydarzenia z kalendarza,news_query,0.5586,0.0277,False
+8672,pl-PL,calendar,calendar_query,gdzie jest koncert ira,qa_factoid,1.0,0.0,False
+8674,pl-PL,calendar,calendar_query,gdzie jest moje spotkanie o dziewiątej rano,weather_query,0.9962,0.0001,False
+8679,pl-PL,calendar,calendar_query,czy dzisiaj jest dzień świętego patryka,weather_query,0.999,0.0,False
+8681,pl-PL,calendar,calendar_query,czy dziś są czyjeś urodziny,weather_query,0.9868,0.0005,False
+8694,pl-PL,calendar,calendar_set,w wydarzeniu wezmą udział walenty i grażyna,qa_factoid,0.882,0.0026,False
+8730,pl-PL,calendar,calendar_set,ustaw przypomnienie w moim kalendarzu o moim spotkaniu dwudziestego piątego marca,datetime_query,0.1899,0.0371,False
+8732,pl-PL,calendar,calendar_remove,usuń wszystkie daty,qa_factoid,0.3489,0.2133,False
+8762,pl-PL,calendar,calendar_query,pokaż mi mój plan na dzisiejsze popołudnie,cooking_recipe,0.6839,0.0305,False
+8765,pl-PL,calendar,calendar_set,wpisz moją kolację w tawernie do kalendarza dzisiaj o dwudziestej pierwszej,cooking_recipe,0.9991,0.0001,False
+8766,pl-PL,calendar,calendar_query,czy mam spotkanie w sobotę dwudziestego piątego marca,social_post,0.5046,0.0045,False
+8767,pl-PL,calendar,calendar_query,czy urodziny justyny są dwunastego kwietnia,weather_query,0.8185,0.003,False
+8769,pl-PL,calendar,calendar_remove,wydarzenie,iot_hue_lightoff,0.5848,0.0113,False
+8771,pl-PL,calendar,calendar_remove,usuń wypad na zakupy który zaplanowałam na dwudziestego trzeciego marca,calendar_remove,0.3713,0.3713,True
+8774,pl-PL,calendar,calendar_query,czy mam jakieś plany na siódmego lipca,calendar_set,0.78,0.0106,False
+8781,pl-PL,calendar,calendar_query,czy jestem wolna o szesnastej,weather_query,0.989,0.0013,False
+8782,pl-PL,calendar,calendar_query,czy mam jakieś spotkanie dziś po południu,weather_query,0.9846,0.0006,False
+8791,pl-PL,calendar,calendar_query,więcej informacji o tym wydarzeniu,news_query,0.9487,0.0016,False
+8795,pl-PL,calendar,calendar_query,pokaż nadchodzące przypomnienia,lists_remove,0.195,0.0201,False
+8822,pl-PL,recommendation,recommendation_events,informacja o nadchodzących wydarzeniach,news_query,0.965,0.0092,False
+8824,pl-PL,calendar,calendar_query,co ja mam ustawione dziewiętnastego o drugiej po południu,weather_query,0.9899,0.0001,False
+8825,pl-PL,calendar,calendar_set,wyślij mi przypomnienie o moim spotkaniu z tomkiem w piątek,social_post,0.5479,0.0127,False
+8828,pl-PL,calendar,calendar_query,czy wydarzenie w kalendarzu jest prawdziwe,qa_factoid,0.9983,0.0001,False
+8846,pl-PL,calendar,calendar_query,czy mam coś zaplanowane na czwartego lipca tego roku,cooking_recipe,0.1747,0.0186,False
+8853,pl-PL,calendar,calendar_remove,usuń moją następną aktywność,calendar_remove,0.813,0.813,True
+8856,pl-PL,calendar,calendar_remove,usuń wszystkie wydarzenia z kalendarza,lists_remove,0.4808,0.1781,False
+8857,pl-PL,calendar,calendar_set,przypomnij o nadchodzącym spotkaniu z dawidem podsiadło,qa_factoid,0.849,0.004,False
+8868,pl-PL,calendar,calendar_set,przypomnij mi żebym zadzwoniła do mamy co wtorek o dziesiątej rano,qa_factoid,0.9998,0.0,False
+8880,pl-PL,calendar,calendar_set,ustaw przypomnienie o jutrzejszym spotkaniu o dziewiątej rano,calendar_remove,0.9434,0.0015,False
+8888,pl-PL,calendar,calendar_remove,usuń to,iot_hue_lightoff,0.8048,0.0365,False
+8900,pl-PL,calendar,calendar_set,ustaw cykliczne przypomnienie na każdą niedzielę,calendar_remove,0.6152,0.0207,False
+8904,pl-PL,calendar,calendar_query,informacje na temat ostatnich wydarzeń,news_query,0.9368,0.0009,False
+8906,pl-PL,calendar,calendar_set,nastaw wydarzenie w kalendarzu z innymi,social_post,0.469,0.159,False
+8907,pl-PL,calendar,calendar_set,wspomnij wydarzenie w kalendarzu z innymi,social_post,0.836,0.0037,False
+8912,pl-PL,calendar,calendar_query,pokaż co mam dzisiaj po osiemnastej w kalendarzu,social_post,0.7443,0.0053,False
+8914,pl-PL,calendar,calendar_query,o której jest moje spotkanie czwartego kwietnia,qa_factoid,0.8296,0.0027,False
+8916,pl-PL,calendar,calendar_query,jaki jest mój plan na ten dzień,cooking_recipe,0.2057,0.0432,False
+8925,pl-PL,calendar,calendar_remove,usuń wszystkie wydarzenia z mojego kalendarza,lists_remove,0.8516,0.0174,False
+8939,pl-PL,calendar,calendar_set,weronika baby shower córki,qa_factoid,0.434,0.0008,False
+8948,pl-PL,calendar,calendar_set,dodaj wydarzenie spotkanie z jackiem,social_post,0.9118,0.0015,False
+8949,pl-PL,calendar,calendar_remove,usuń przypomnienie,lists_remove,0.6128,0.2449,False
+8958,pl-PL,calendar,calendar_query,otwórz czas spotkania,calendar_remove,0.9663,0.002,False
+8960,pl-PL,calendar,calendar_set,ustaw na wieczór alarm w związku z nadchodzącym spotkaniem,calendar_remove,0.8366,0.0113,False
+8967,pl-PL,calendar,calendar_set,przypomnij mi dwa dni przed urodzinami żony,email_sendemail,0.2836,0.0156,False
+8968,pl-PL,calendar,calendar_set,przypomnij mi ten tydzień,datetime_query,0.4478,0.0147,False
+8975,pl-PL,calendar,calendar_query,jakie mam dzisiaj spotkanie,qa_factoid,0.6098,0.0006,False
+8977,pl-PL,calendar,calendar_set,ustaw przypomnienie o bieżących rachunkach,calendar_remove,0.9285,0.002,False
+8978,pl-PL,calendar,calendar_set,przypomnij mi o ważnych spotkaniach z szefem w tygodniu,calendar_query,0.6046,0.075,False
+8985,pl-PL,calendar,calendar_remove,ok google usuń urodziny eryka z kalendarza,recommendation_events,0.4376,0.0238,False
+8990,pl-PL,calendar,calendar_set,utwórz wydarzenie,play_radio,0.5165,0.0032,False
+8992,pl-PL,calendar,calendar_set,pokaż spotkania,play_podcasts,0.8866,0.0001,False
+9009,pl-PL,calendar,calendar_remove,usuń wydarzenie rocznica z mojego kalendarza,datetime_query,0.9954,0.0015,False
+9011,pl-PL,calendar,calendar_query,czy wielkanoc jest czternastego tego miesiąca,qa_factoid,0.3037,0.0139,False
+9014,pl-PL,calendar,calendar_set,proszę ustaw powiadomienie dwudziestego trzeciego października na spotkanie z moim kolegą,calendar_remove,0.6437,0.0098,False
+9015,pl-PL,calendar,calendar_remove,usuń wydarzenia z mojego kalendarza,news_query,0.4802,0.0168,False
+9019,pl-PL,calendar,calendar_query,spotkania od dwudziestego do dwudziestego piątego czerwca,social_post,0.9934,0.0001,False
+9030,pl-PL,calendar,calendar_remove,usuń z kalendarza wizytę u lekarza dzisiaj,calendar_remove,0.8972,0.8972,True
+9035,pl-PL,calendar,calendar_query,przypomnienie rafał ślub,social_post,0.2284,0.024,False
+9043,pl-PL,calendar,calendar_set,nadchodzące wydarzenia w kalendarzu,news_query,0.973,0.0011,False
+9053,pl-PL,calendar,calendar_set,ustaw przypomnienie o spotkaniu z moniką we wtorek,social_post,0.9969,0.0001,False
+9054,pl-PL,calendar,calendar_set,przypomnienie o wydarzeniu monika we wtorek,email_sendemail,0.9972,0.0,False
+9059,pl-PL,calendar,calendar_set,powiadom mnie w dniu wydarzenia,datetime_query,0.9811,0.0003,False
+9061,pl-PL,calendar,calendar_query,jakie mam informacje w przypomnieniach,qa_factoid,0.9933,0.0002,False
+9062,pl-PL,calendar,calendar_set,czy możesz wpisać urodziny leszka na dwudziestego drugiego czerwca,datetime_query,0.6031,0.0389,False
+9074,pl-PL,calendar,calendar_remove,proszę usuń to wydarzenie,qa_factoid,0.6855,0.0112,False
+9088,pl-PL,calendar,calendar_remove,wyczyść wszystko w moim kalendarzu,calendar_remove,0.619,0.619,True
+9095,pl-PL,calendar,calendar_remove,usuń dzisiejszą kolację z sylwią,cooking_recipe,0.9999,0.0,False
+9103,pl-PL,calendar,calendar_query,czy mam spotkanie w moim kalendarzu dziś po południu,weather_query,0.8736,0.0072,False
+9107,pl-PL,calendar,calendar_query,o której zaczyna się koncert kacperczyka trzeciego czerwca,play_music,0.9653,0.0005,False
+9110,pl-PL,calendar,calendar_set,wystawa marka rothko w warszawie dwudziestego piątego marca stwórz notkę o tym w tamten dzień,social_post,0.9302,0.002,False
+9112,pl-PL,calendar,calendar_set,dodaj to do mojego kalendarza,qa_factoid,0.6864,0.0107,False
+9114,pl-PL,calendar,calendar_set,ustaw cykliczne przypomnienie dla tego wydarzenia w kalendarzu,calendar_remove,0.928,0.045,False
+9116,pl-PL,calendar,calendar_query,możesz przełożyć termin mojego spotkania,calendar_remove,0.9987,0.0,False
+9121,pl-PL,calendar,calendar_query,które dni muszę zarezerwować,calendar_remove,0.7807,0.0618,False
+9124,pl-PL,calendar,calendar_set,pokaż mi wydarzenia z mojego kalendarza z pracy na następny tydzień,news_query,0.962,0.0018,False
+9137,pl-PL,calendar,calendar_query,o której włoska kawiarnia jest zamknięta między lunchem a kolacją,qa_factoid,0.9604,0.0003,False
+9138,pl-PL,qa,qa_factoid,kiedy jest oficjalne rozpoczęcie super bowl,datetime_query,0.8674,0.1068,False
+9149,pl-PL,calendar,calendar_query,o której ma się zacząć kolacja w strojach wieczorowych,cooking_recipe,0.9993,0.0001,False
+9153,pl-PL,calendar,calendar_set,dodaj do mojego kalendarza kolację z marią w sobotę,cooking_recipe,0.9996,0.0002,False
+9155,pl-PL,calendar,calendar_set,w piątek zapisz wizytę u dentysty o trzeciej,datetime_query,0.5938,0.0738,False
+9156,pl-PL,calendar,calendar_set,przypomnij,calendar_remove,0.8172,0.0037,False
+9175,pl-PL,calendar,calendar_query,czy mój kalendarz został uaktualniony w ciągu ostatnich dziesięciu minut,calendar_remove,0.1576,0.0513,False
+9182,pl-PL,calendar,calendar_remove,odwołaj plany odebrania rodziców z lotniska,calendar_remove,0.5664,0.5664,True
+9187,pl-PL,calendar,calendar_set,zobacz jacy klienci będą brać udział w spotkaniu,social_post,0.9006,0.0004,False
+9193,pl-PL,calendar,calendar_set,nastaw tę datę na powtarzanie,qa_factoid,0.9995,0.0,False
+9194,pl-PL,calendar,calendar_remove,proszę usuń to wydarzenie z mojego kalendarza,calendar_remove,0.3712,0.3712,True
+9197,pl-PL,calendar,calendar_query,co zaplanowałem w tym tygodniu,cooking_recipe,0.7822,0.0034,False
+9198,pl-PL,calendar,calendar_query,proszę sprawdź moje przypomnienia,lists_query,0.2615,0.0287,False
+9202,pl-PL,play,play_radio,graj moją radiostację,play_radio,1.0,1.0,True
+9204,pl-PL,play,play_radio,graj r. m. f. f. m.,qa_factoid,0.5771,0.0194,False
+9212,pl-PL,play,play_radio,niech ktoś włączy radio,play_radio,1.0,1.0,True
+9216,pl-PL,play,play_radio,graj moją stację,play_radio,0.9905,0.9905,True
+9225,pl-PL,play,play_radio,czy możesz włączyć radio,play_radio,1.0,1.0,True
+9233,pl-PL,play,play_radio,włącz open f. m.,iot_hue_lightoff,0.9996,0.0,False
+9236,pl-PL,play,play_radio,przejdź na kanał sto jeden i trzy f. m.,transport_query,0.4145,0.0126,False
+9237,pl-PL,play,play_radio,włącz radio i graj kanał sto jeden i trzy f. m.,play_radio,1.0,1.0,True
+9250,pl-PL,play,play_radio,chcę posłuchać radio,play_radio,1.0,1.0,True
+9254,pl-PL,play,play_radio,proszę włącz radio antyradio,play_radio,1.0,1.0,True
+9263,pl-PL,play,play_radio,otwórz radio aplikacja,play_radio,1.0,1.0,True
+9269,pl-PL,play,play_radio,przełącz na sto jeden i trzy f. m.,iot_hue_lightoff,0.9284,0.003,False
+9270,pl-PL,play,play_radio,graj dziewięćdziesiąt dziewięć i osiem f. m.,social_post,0.1992,0.0545,False
+9275,pl-PL,play,play_radio,graj jedynie w radio sto jeden i trzy f. m.,play_radio,1.0,1.0,True
+9284,pl-PL,play,play_radio,graj radio zet,play_radio,0.9998,0.9998,True
+9291,pl-PL,play,play_radio,puść,calendar_remove,0.5652,0.0066,False
+9301,pl-PL,play,play_radio,włącz radio zet,play_radio,1.0,1.0,True
+9303,pl-PL,play,play_radio,graj złote przeboje,play_music,0.9997,0.0,False
+9305,pl-PL,play,play_radio,włącz klasyczne hity,iot_hue_lightoff,0.9999,0.0,False
+9316,pl-PL,play,play_radio,graj radio zet moralne salto,play_radio,0.9999,0.9999,True
+9317,pl-PL,play,play_radio,włącz radio teraz,play_radio,1.0,1.0,True
+9321,pl-PL,play,play_radio,włącz radio teraz,play_radio,1.0,1.0,True
+9323,pl-PL,play,play_radio,włącz radio fm,play_radio,1.0,1.0,True
+9326,pl-PL,play,play_radio,proszę włącz teraz radio zet,play_radio,1.0,1.0,True
+9327,pl-PL,play,play_radio,proszę przeskanuj stację na której jestem teraz,weather_query,0.9427,0.0064,False
+9330,pl-PL,play,play_radio,zagraj,play_music,0.5301,0.364,False
+9341,pl-PL,play,play_radio,alexa zmień stację radiową,play_radio,1.0,1.0,True
+9352,pl-PL,play,play_radio,graj proszę radio,play_radio,0.9297,0.9297,True
+9353,pl-PL,play,play_radio,zacznij grać jakąś muzykę z radio,play_music,0.9999,0.0001,False
+9358,pl-PL,play,play_radio,wystartuj radio na sto jeden i trzy f. m.,play_radio,1.0,1.0,True
+9361,pl-PL,play,play_radio,posłuchaj radio,play_radio,1.0,1.0,True
+9362,pl-PL,play,play_radio,stacje radiowe,play_radio,1.0,1.0,True
+9363,pl-PL,play,play_radio,zagraj hity w radiu,play_music,0.8534,0.1458,False
+9364,pl-PL,play,play_radio,graj hity muzyczne,play_music,1.0,0.0,False
+9380,pl-PL,play,play_radio,chcę przejść w radiu na sto jeden i trzy f. m.,play_radio,0.9944,0.9944,True
+9384,pl-PL,play,play_radio,odtwarzaj eska,iot_hue_lightoff,0.5812,0.0873,False
+9394,pl-PL,play,play_radio,hej olly graj radio,play_radio,1.0,1.0,True
+9402,pl-PL,play,play_radio,graj sto jeden i trzy f. m. stacji radiowej antyradio,play_radio,1.0,1.0,True
+9406,pl-PL,play,play_radio,załącz eska,play_radio,0.9579,0.9579,True
+9408,pl-PL,play,play_radio,włącz radio,play_radio,1.0,1.0,True
+9426,pl-PL,play,play_radio,chcę osłuchać stacji z muzyką disco polo,play_music,0.8198,0.0015,False
+9438,pl-PL,play,play_radio,możesz puścić mi w radiu jakiś rapowy kawałek,play_music,0.7218,0.275,False
+9457,pl-PL,play,play_music,graj piosenkę mam tę moc,play_music,1.0,1.0,True
+9460,pl-PL,play,play_music,puść hip hop z lat dziewięćdziesiątych,play_music,1.0,1.0,True
+9471,pl-PL,play,play_radio,włącz stację muzyczną z disco polo,play_music,0.9998,0.0001,False
+9494,pl-PL,play,play_radio,czy możesz zagrać stację f. m. która gra piosenki popowe,play_music,1.0,0.0,False
+9506,pl-PL,play,play_radio,olly posłuchajmy sto jeden i trzy f. m.,play_music,0.9998,0.0,False
+9507,pl-PL,play,play_radio,proszę znajdź obecną radiostację i graj karol paciorek,play_radio,1.0,1.0,True
+9519,pl-PL,play,play_radio,graj jakikolwiek pop kanał f. m.,play_podcasts,0.9551,0.0002,False
+9520,pl-PL,play,play_radio,zacznij grać doctor who w transmisji radiowej,play_radio,1.0,1.0,True
+9524,pl-PL,play,play_radio,włącz program w radio zet,play_radio,1.0,1.0,True
+9528,pl-PL,play,play_radio,przełącz na jakiś r. m. f. f. m. i graj to na moje głośniki,play_music,0.9876,0.0109,False
+9541,pl-PL,play,play_radio,graj piosenkę mniej niż zero w radio,play_radio,0.9843,0.9843,True
+9542,pl-PL,play,play_radio,chcę posłuchać nowości w radio,play_radio,0.6456,0.6456,True
+9545,pl-PL,play,play_radio,chcę usłyszeć program imponderabilia,play_podcasts,0.8356,0.0,False
+9554,pl-PL,play,play_radio,graj muzykę romantyczną na eska,play_music,1.0,0.0,False
+9561,pl-PL,play,play_radio,puść radiostację w radio,play_radio,1.0,1.0,True
+9562,pl-PL,play,play_radio,czy możesz zagrać dla mnie hard as a rock,play_music,0.9999,0.0001,False
+9565,pl-PL,play,play_radio,graj radio z ciągłymi piosenkami,play_radio,1.0,1.0,True
+9568,pl-PL,play,play_radio,graj koncert na żywo britney spears,play_music,0.9919,0.0002,False
+9569,pl-PL,play,play_radio,ok google sto jeden i trzy f. m.,qa_factoid,0.9947,0.0001,False
+9577,pl-PL,play,play_radio,zmień stację na sto jeden i trzy f. m.,iot_hue_lightoff,0.6748,0.0054,False
+9591,pl-PL,play,play_radio,graj program anonimowi alkoholicy na sto jeden i trzy f. m.,qa_factoid,0.8729,0.028,False
+9592,pl-PL,play,play_podcasts,szukaj podcasty dotyczące męskich problemów,play_podcasts,1.0,1.0,True
+9594,pl-PL,play,play_radio,piosenki z r. m. f. f. m.,qa_factoid,0.9483,0.0004,False
+9601,pl-PL,play,play_radio,graj radio country,play_radio,0.9994,0.9994,True
+9617,pl-PL,play,play_radio,puść mi tą poranną audycję na sto jeden i trzy f. m.,play_podcasts,0.9992,0.0,False
+9619,pl-PL,play,play_radio,graj dla mnie radio samochodowe,play_radio,1.0,1.0,True
+9620,pl-PL,play,play_radio,czy mogę posłuchać kryminatorium w radio znajdującym się w sypialni,play_radio,1.0,1.0,True
+9629,pl-PL,play,play_radio,czy możesz mi pomóc w słuchaniu radio,play_radio,1.0,1.0,True
+9630,pl-PL,play,play_radio,graj radio zet dla mnie,play_radio,1.0,1.0,True
+9632,pl-PL,play,play_radio,radio proszę,play_radio,1.0,1.0,True
+9637,pl-PL,play,play_radio,zacznij moją playlistę na open f. m.,play_music,0.9824,0.0,False
+9640,pl-PL,play,play_radio,otwórz spotify i otwórz ćwiczenia,cooking_recipe,0.8392,0.0055,False
+9651,pl-PL,play,play_radio,odtwarzaj netflix na moim p. s. cztery,play_podcasts,0.997,0.0004,False
+9656,pl-PL,play,play_music,graj mi skoczny kawałek na głośniki,play_music,1.0,1.0,True
+9706,pl-PL,play,play_music,graj jingle bells,play_music,0.455,0.455,True
+9707,pl-PL,play,play_music,otwórz i graj jingle bells,play_music,1.0,1.0,True
+9738,pl-PL,play,play_music,czy możesz włączyć muzykę klasyczną dla mnie,play_music,1.0,1.0,True
+9793,pl-PL,play,play_music,graj romantyczne piosenki,play_music,1.0,1.0,True
+9795,pl-PL,play,play_music,wznów ale jazz,email_sendemail,0.9999,0.0,False
+9912,pl-PL,cooking,cooking_recipe,jak długo mam gotować jajka,cooking_recipe,0.9999,0.9999,True
+9918,pl-PL,cooking,cooking_recipe,jak zrobić pizzę,cooking_recipe,1.0,1.0,True
+9923,pl-PL,cooking,cooking_recipe,jak długo mam gotować jajko,cooking_recipe,0.9999,0.9999,True
+9924,pl-PL,cooking,cooking_recipe,podaj przepis na,cooking_recipe,1.0,1.0,True
+9930,pl-PL,cooking,cooking_recipe,jak długo mam gotować jajko,cooking_recipe,0.9999,0.9999,True
+9931,pl-PL,cooking,cooking_recipe,jak długo mam gotować jajko,cooking_recipe,0.9999,0.9999,True
+9940,pl-PL,cooking,cooking_recipe,znajdź przepis na ciasto czekoladowe,cooking_recipe,1.0,1.0,True
+9941,pl-PL,cooking,cooking_recipe,jak ugotować kurczaka w maśle,cooking_recipe,1.0,1.0,True
+9942,pl-PL,cooking,cooking_recipe,jakie składniki są potrzebne aby upiec tort red velvet,cooking_recipe,0.9999,0.9999,True
+9943,pl-PL,cooking,cooking_recipe,jak długo będę czekać na wegetariańską lasagnę,qa_factoid,0.9695,0.0005,False
+9952,pl-PL,cooking,cooking_recipe,wyświetl filmik z przepisem,iot_hue_lightoff,0.997,0.0018,False
+9955,pl-PL,cooking,cooking_recipe,wyświetl filmik jak zrobić kurczaka z rożna,iot_hue_lightoff,0.876,0.1223,False
+9956,pl-PL,cooking,cooking_recipe,jaki jest zamiennik masła,qa_definition,0.9987,0.0,False
+9961,pl-PL,cooking,cooking_recipe,w jakiej temperaturze piekarnika najlepiej przyrządzić pieczone ziemniaki,cooking_recipe,0.9986,0.9986,True
+9962,pl-PL,cooking,cooking_recipe,jaki znasz najlepszy przepis na makaron al dente,cooking_recipe,1.0,1.0,True
+9964,pl-PL,cooking,cooking_recipe,wiedza o przyrządzaniu potraw,cooking_recipe,0.9997,0.9997,True
+9966,pl-PL,cooking,cooking_recipe,jak najprościej ugotować makaron,cooking_recipe,1.0,1.0,True
+9969,pl-PL,cooking,cooking_recipe,jakiego składnika mogę użyć zamiast szafranu,cooking_recipe,0.9937,0.9937,True
+9971,pl-PL,cooking,cooking_recipe,co lepiej przewodzi ciepło miedziany garnek czy garnek z żeliwnym spodem,cooking_recipe,0.3906,0.3906,True
+9976,pl-PL,cooking,cooking_recipe,podaj listę składników na tosty z serem,cooking_recipe,0.9596,0.9596,True
+9977,pl-PL,cooking,cooking_recipe,znajdź wideo z youtube z potrawami kuchni włoskiej,cooking_recipe,0.9999,0.9999,True
+9979,pl-PL,cooking,cooking_recipe,ugotuj porcję owsianki,iot_hue_lightoff,0.6284,0.0002,False
+9980,pl-PL,cooking,cooking_recipe,jakie menu jest na dzisiaj dodaj trochę gotowanych warzyw,cooking_recipe,0.9976,0.9976,True
+9986,pl-PL,cooking,cooking_recipe,gotowanie,qa_factoid,0.8648,0.0144,False
+9994,pl-PL,cooking,cooking_recipe,podaj przepis na curry,cooking_recipe,1.0,1.0,True
+10016,pl-PL,cooking,cooking_recipe,jak w pięciu krokach przyrządzić pieczeń świąteczną,cooking_recipe,0.9999,0.9999,True
+10019,pl-PL,cooking,cooking_recipe,jak upiec dwanaście ciasteczek owsianych,cooking_recipe,0.9999,0.9999,True
+10023,pl-PL,cooking,cooking_recipe,co jest potrzebne by zrobić pieczeń z jagnięciny,cooking_recipe,1.0,1.0,True
+10027,pl-PL,cooking,cooking_recipe,wskazówki jak przygotować posiłek,cooking_recipe,0.9998,0.9998,True
+10031,pl-PL,cooking,cooking_recipe,znajdź przepis na potrawę w której wykorzystam składniki na mojej liście zakupów,cooking_recipe,1.0,1.0,True
+10038,pl-PL,cooking,cooking_recipe,potrzebuję fajne pomysły na posiłki,cooking_recipe,0.9543,0.9543,True
+10045,pl-PL,cooking,cooking_recipe,podaj przepis na domowy rosół z makaronem,cooking_recipe,1.0,1.0,True
+10048,pl-PL,cooking,cooking_recipe,jak przyrządzić indyka,cooking_recipe,0.9998,0.9998,True
+10049,pl-PL,cooking,cooking_recipe,jak zrobić kanapkę drwala,cooking_recipe,0.9991,0.9991,True
+10053,pl-PL,cooking,cooking_recipe,jak zrobić pizzę,cooking_recipe,1.0,1.0,True
+10055,pl-PL,cooking,cooking_recipe,jaki masz przepis na kurczaka z rożna,cooking_recipe,1.0,1.0,True
+10061,pl-PL,cooking,cooking_recipe,co powinnam zrobić na obiad,cooking_recipe,0.9998,0.9998,True
+10072,pl-PL,cooking,cooking_recipe,podaj czas pieczenia kurczaka w piekarniku,cooking_recipe,0.9996,0.9996,True
+10076,pl-PL,cooking,cooking_recipe,czy można zamienić sodę oczyszczoną na proszek do pieczenia,cooking_recipe,0.9956,0.9956,True
+10077,pl-PL,cooking,cooking_recipe,znajdź przepis na dzisiejszą kolację,cooking_recipe,1.0,1.0,True
+10078,pl-PL,cooking,cooking_recipe,co przyrządzić na kolację,cooking_recipe,0.9996,0.9996,True
+10080,pl-PL,cooking,cooking_recipe,przyrządźmy wspólnie klopsiki,cooking_recipe,0.9951,0.9951,True
+10081,pl-PL,cooking,cooking_recipe,powiedz jak przyrządzić klopsiki,cooking_recipe,0.9967,0.9967,True
+10090,pl-PL,cooking,cooking_recipe,znajdź przepis na tuńczyka,cooking_recipe,1.0,1.0,True
+10093,pl-PL,cooking,cooking_recipe,jak zrobić lasagnę,cooking_recipe,0.9988,0.9988,True
+10097,pl-PL,cooking,cooking_recipe,chcę cheesburgera,cooking_recipe,0.8167,0.8167,True
+10099,pl-PL,cooking,cooking_recipe,wiesz jak ugotować risotto,cooking_recipe,1.0,1.0,True
+10100,pl-PL,cooking,cooking_recipe,podaj przepis na risotto,cooking_recipe,1.0,1.0,True
+10105,pl-PL,cooking,cooking_recipe,jak długo smażyć stek żeby był średnio krwisty,cooking_recipe,0.9998,0.9998,True
+10107,pl-PL,cooking,cooking_recipe,znajdź przepis na ryż z warzywami,cooking_recipe,1.0,1.0,True
+10119,pl-PL,cooking,cooking_recipe,jak długo piecze się siedmiokilogramowego indyka,cooking_recipe,0.9378,0.9378,True
+10125,pl-PL,cooking,cooking_recipe,jaka jest różnica pomiędzy pieczeniem a opiekaniem,cooking_recipe,0.9991,0.9991,True
+10132,pl-PL,cooking,cooking_recipe,jak długo smażyć stek żeby był średnio krwisty,cooking_recipe,0.9998,0.9998,True
+10150,pl-PL,cooking,cooking_recipe,jak zrobić tacos,cooking_recipe,1.0,1.0,True
+10156,pl-PL,cooking,cooking_recipe,powiedz jak zrobić nadziewane papryki,cooking_recipe,1.0,1.0,True
+10164,pl-PL,cooking,cooking_recipe,jak długo gotuje się makaron,cooking_recipe,1.0,1.0,True
+10166,pl-PL,cooking,cooking_recipe,znajdź przepis na szarlotkę,cooking_recipe,1.0,1.0,True
+10171,pl-PL,cooking,cooking_recipe,jaki masz przepis na zupę rybną,cooking_recipe,1.0,1.0,True
+10177,pl-PL,cooking,cooking_recipe,jak przyrządzić spaghetti z cukinii,cooking_recipe,1.0,1.0,True
+10182,pl-PL,cooking,cooking_recipe,ile jajek potrzebuję na omlet,cooking_recipe,0.9493,0.9493,True
+10197,pl-PL,cooking,cooking_recipe,wyświetl najlepszy przepis na spaghetti,cooking_recipe,0.911,0.911,True
+10206,pl-PL,cooking,cooking_recipe,jak ugotować ryż,cooking_recipe,1.0,1.0,True
+10213,pl-PL,cooking,cooking_recipe,lista sławnych przepisów na biryani,cooking_recipe,1.0,1.0,True
+10214,pl-PL,cooking,cooking_recipe,przepisy na dania gotowe w godzinę,cooking_recipe,0.9967,0.9967,True
+10216,pl-PL,cooking,cooking_recipe,znajdź w internecie oferty sprzedaży foremek na babeczki,recommendation_events,0.9475,0.0029,False
+10217,pl-PL,cooking,cooking_recipe,znajdź przepis na gulasz w serwisie kwestiasmaku,cooking_recipe,1.0,1.0,True
+10220,pl-PL,cooking,cooking_recipe,jakie składniki potrzebuję aby upiec ciasto,cooking_recipe,0.9999,0.9999,True
+10224,pl-PL,cooking,cooking_recipe,to musi być smak,iot_hue_lightoff,0.9565,0.0304,False
+10226,pl-PL,cooking,cooking_recipe,podaj przepis na makaron,cooking_recipe,1.0,1.0,True
+10426,pl-PL,lists,lists_query,czego jeszcze brakuje w dzienniku,qa_factoid,0.5026,0.0238,False
+10427,pl-PL,lists,lists_remove,proszę wyczyść moją listę zakupów,lists_remove,1.0,1.0,True
+10430,pl-PL,lists,lists_remove,usuń pierwszą pozycję na liście,lists_remove,0.9998,0.9998,True
+10433,pl-PL,lists,lists_remove,usuń moją listę zadań,lists_remove,1.0,1.0,True
+10440,pl-PL,lists,lists_query,jakieś specjalne wydarzenia na mojej liście,lists_remove,0.471,0.0038,False
+10442,pl-PL,lists,lists_remove,usuń wydarzenia z mojej listy,lists_remove,0.9998,0.9998,True
+10444,pl-PL,lists,lists_remove,usuń pozycję,iot_hue_lightoff,0.615,0.0586,False
+10451,pl-PL,lists,lists_query,co będę dzisiaj robić,cooking_recipe,0.9996,0.0,False
+10455,pl-PL,lists,lists_query,co jest na mojej liście rzeczy do zrobienia,lists_remove,0.7433,0.0203,False
+10462,pl-PL,lists,lists_remove,pozbądź się listy,lists_remove,1.0,1.0,True
+10493,pl-PL,lists,lists_query,co jest na mojej liście rzeczy do zrobienia,lists_remove,0.7433,0.0203,False
+10494,pl-PL,lists,lists_remove,usuń ołówek z listy materiałów papierniczych,lists_remove,0.9999,0.9999,True
+10497,pl-PL,qa,qa_factoid,mogę prosić o listę pięciogwiazdkowych hoteli w paryżu,lists_remove,0.9849,0.0,False
+10508,pl-PL,lists,lists_remove,usuń listy,lists_remove,1.0,1.0,True
+10512,pl-PL,lists,lists_query,wypisz wszystko co pozostało w moim zapytaniu,qa_factoid,0.9966,0.0001,False
+10523,pl-PL,lists,lists_remove,usuń z playlisty moją listę starych angielskich piosenek,lists_remove,0.8746,0.8746,True
+10525,pl-PL,lists,lists_remove,usuń moją płatność za samochód z mojego kalendarza,calendar_remove,0.7527,0.0464,False
+10527,pl-PL,lists,lists_remove,usuń listę,lists_remove,1.0,1.0,True
+10534,pl-PL,lists,lists_query,jaka lista rzeczy do zrobienia na dzisiaj,cooking_recipe,0.5903,0.2776,False
+10538,pl-PL,lists,lists_query,proszę powtórz moją listę zakupów,lists_remove,0.9733,0.0246,False
+10565,pl-PL,lists,lists_remove,usuń wszystkie listy,lists_remove,1.0,1.0,True
+10568,pl-PL,lists,lists_remove,usuń listę starszych kawałków,lists_remove,0.9976,0.9976,True
+10570,pl-PL,lists,lists_query,sprawdż moją listę rzeczy do zrobienia,lists_remove,0.8754,0.0953,False
+10571,pl-PL,lists,lists_query,android,iot_hue_lightoff,0.2324,0.0685,False
+10577,pl-PL,lists,lists_query,pokaż wszystkie moje listy,lists_query,0.7649,0.7649,True
+10579,pl-PL,lists,lists_remove,zresetuj moja listę lokalizacji,lists_remove,0.9999,0.9999,True
+10588,pl-PL,lists,lists_query,pokaż zawartość mojej listy,lists_query,0.7003,0.7003,True
+10590,pl-PL,lists,lists_remove,usuń drugi rząd z listy,lists_remove,1.0,1.0,True
+10655,pl-PL,lists,lists_remove,usuń listę o nazwie czas na imprezę,lists_remove,1.0,1.0,True
+10667,pl-PL,lists,lists_query,odczytaj harmonogramy z listy,lists_remove,0.9595,0.0127,False
+10673,pl-PL,lists,lists_remove,proszę usuń następującą listę,lists_remove,1.0,1.0,True
+10674,pl-PL,lists,lists_remove,usuń aktualną listę,lists_remove,1.0,1.0,True
+10679,pl-PL,lists,lists_query,co jest dzisiaj na mojej liście rzeczy do zrobienia,lists_remove,0.9898,0.0019,False
+10684,pl-PL,lists,lists_query,o jakie listy pytałem,lists_query,1.0,1.0,True
+10687,pl-PL,lists,lists_remove,jeśli jest tam wydarzenie pokaz usuń je,qa_factoid,0.8766,0.0087,False
+10696,pl-PL,lists,lists_remove,zamień,email_sendemail,0.9988,0.0001,False
+10699,pl-PL,lists,lists_query,poinformuj mnie o pozycjach na liście,lists_query,0.9891,0.9891,True
+10718,pl-PL,lists,lists_remove,czy możesz usunąć tę pozycję z listy,lists_remove,1.0,1.0,True
+10731,pl-PL,lists,lists_query,przeczytaj co jest na mojej liście,lists_query,0.5539,0.5539,True
+10743,pl-PL,lists,lists_remove,usuń tę pozycję,qa_factoid,0.988,0.0008,False
+10753,pl-PL,lists,lists_query,co już umieściłem na liście do biedronki,lists_query,0.7294,0.7294,True
+10755,pl-PL,lists,lists_remove,usuń moją listę rzeczy do zrobienia proszę,lists_remove,0.9998,0.9998,True
+10756,pl-PL,lists,lists_remove,wyczyść listę zakupów,lists_remove,0.9999,0.9999,True
+10757,pl-PL,lists,lists_query,jakie są pozycje na mojej liście zakupów,lists_query,0.7432,0.7432,True
+10759,pl-PL,lists,lists_query,przeczytaj mi moją listę zakupów,lists_query,0.9619,0.9619,True
+10760,pl-PL,lists,lists_query,pokaż mi tę listę którą zrobiłam dwa dni temu,lists_query,0.9904,0.9904,True
+10770,pl-PL,lists,lists_remove,usuń platki z mojej listy zakupów,lists_remove,1.0,1.0,True
+10772,pl-PL,calendar,calendar_remove,usunąć wizytę u dentysty z dzisiejszego kalendarza,calendar_remove,0.881,0.881,True
+10776,pl-PL,lists,lists_query,czy moja lista zakupów jest gotowa,lists_remove,0.8566,0.1386,False
+10786,pl-PL,lists,lists_remove,usuń wszystko z mojej listy aktywności dzisiaj,lists_remove,1.0,1.0,True
+10790,pl-PL,lists,lists_remove,usuń pozycję z listy,lists_remove,1.0,1.0,True
+10804,pl-PL,lists,lists_query,przeczytaj moja listę artykułów spożywczych,lists_query,0.8694,0.8694,True
+10805,pl-PL,lists,lists_query,proszę pokaż mi listę którą mam,lists_query,0.9984,0.9984,True
+10808,pl-PL,lists,lists_remove,usuń ostatnią wypisana pozycję,calendar_remove,0.5186,0.4235,False
+10824,pl-PL,lists,lists_remove,olly wyczyść listę,lists_remove,0.9999,0.9999,True
+10825,pl-PL,lists,lists_remove,wyczyść listę,lists_remove,1.0,1.0,True
+10827,pl-PL,lists,lists_remove,usuń listę zakupów,lists_remove,0.9999,0.9999,True
+10828,pl-PL,lists,lists_remove,usuń wszystko,lists_remove,0.702,0.702,True
+10832,pl-PL,calendar,calendar_query,jakie są moje dlasze plany,qa_factoid,0.5691,0.0088,False
+10843,pl-PL,lists,lists_remove,usuń mleko z mojej listy zakupów spożywczych,lists_remove,0.9998,0.9998,True
+10846,pl-PL,lists,lists_remove,nie mam wystarczająco dużo pieniędzy aby teraz kupić przełącznik nintendo czy możesz go usunąć z mojej listy życzeń amazon,qa_factoid,0.703,0.215,False
+10848,pl-PL,lists,lists_remove,usuń tę listę z innych,lists_remove,0.9997,0.9997,True
+10851,pl-PL,lists,lists_query,jakie sa moje dostępne listy,qa_factoid,0.9066,0.0062,False
+10853,pl-PL,lists,lists_remove,weż to stąd,qa_factoid,0.9516,0.0025,False
+10855,pl-PL,lists,lists_query,muszę sprawdzić moją listę,lists_query,0.9998,0.9998,True
+10868,pl-PL,lists,lists_query,olly czy coś jeszcze zostało na liście,lists_remove,1.0,0.0,False
+10887,pl-PL,lists,lists_remove,usuń moją listę,lists_remove,1.0,1.0,True
+10895,pl-PL,lists,lists_remove,usuń pozycję z mojej listy,lists_remove,1.0,1.0,True
+10909,pl-PL,lists,lists_query,olly przeczytaj mi moje listy,lists_remove,1.0,0.0,False
+10927,pl-PL,lists,lists_query,przeczytaj mo moją listę,lists_query,0.9863,0.9863,True
+10931,pl-PL,lists,lists_query,co jest na mojej playliście,email_query,0.5516,0.0019,False
+10936,pl-PL,lists,lists_remove,proszę usuń moją listę ulubionych albumów,lists_remove,1.0,1.0,True
+10954,pl-PL,lists,lists_query,ile list mam w kontaktach,email_sendemail,1.0,0.0,False
+10956,pl-PL,lists,lists_query,jakie grupy są w moich kontaktach,qa_factoid,0.9512,0.0004,False
+10957,pl-PL,lists,lists_query,przypomnij mi ile mam list,email_sendemail,1.0,0.0,False
+10960,pl-PL,lists,lists_remove,usuń tę pozycję z listy,lists_remove,1.0,1.0,True
+10970,pl-PL,lists,lists_remove,usuń ostatnią frazę,calendar_remove,0.8897,0.0545,False
+10979,pl-PL,lists,lists_query,co jest na twojej liście teraz,lists_remove,0.7413,0.2464,False
+10981,pl-PL,lists,lists_query,powiedz mi co jest na liście,lists_query,0.9978,0.9978,True
+10985,pl-PL,lists,lists_remove,usuń moją listę zadań na ten tydzień,lists_remove,0.9996,0.9996,True
+10990,pl-PL,lists,lists_remove,usuń umyj podłogę w kuchni z mojej listy rzeczy do zrobienia,cooking_recipe,0.9998,0.0002,False
+10999,pl-PL,lists,lists_query,powiedz listę,lists_query,0.999,0.999,True
+11023,pl-PL,lists,lists_remove,usuń listę zakupów,lists_remove,0.9999,0.9999,True
+11024,pl-PL,lists,lists_remove,usuń listę rzeczy do zrobienia,lists_remove,0.9997,0.9997,True
+11053,pl-PL,lists,lists_remove,pozbądź się listy google,lists_remove,1.0,1.0,True
+11075,pl-PL,lists,lists_query,ile mam list,lists_remove,0.9121,0.0833,False
+11081,pl-PL,lists,lists_query,jakie listy są w moim notatniku,lists_query,0.9998,0.9998,True
+11085,pl-PL,lists,lists_remove,zdejmij mleko z listy zakupów,lists_remove,0.9999,0.9999,True
+11098,pl-PL,lists,lists_remove,pozbądź się listy podatkowej z tysiąc dziewięćset dziewięćdziesiątego,lists_remove,1.0,1.0,True
+11107,pl-PL,lists,lists_query,jakie są moje obecne listy,lists_query,0.9706,0.9706,True
+11124,pl-PL,lists,lists_query,wylistuj pozycje na mojej liście zadań,lists_remove,0.9652,0.0345,False
+11125,pl-PL,lists,lists_query,podaj mi szczegóły zamówienia,lists_query,0.3481,0.3481,True
+11133,pl-PL,lists,lists_remove,usuń listę gości którą stworzyłam w zeszłym tygodniu,lists_remove,0.9998,0.9998,True
+11154,pl-PL,lists,lists_query,sprawdź ostatnią listę rzeczy do zrobienia,lists_remove,0.8313,0.0403,False
+11162,pl-PL,lists,lists_remove,chcę usunąć jabłka z listy,lists_remove,1.0,1.0,True
+11164,pl-PL,lists,lists_remove,usuń z listy,lists_remove,0.9999,0.9999,True
+11166,pl-PL,lists,lists_query,otwórz google keep,iot_hue_lightoff,0.897,0.0008,False
+11168,pl-PL,lists,lists_remove,usuń moją listę,lists_remove,1.0,1.0,True
+11172,pl-PL,lists,lists_query,podaj mi wszystkie dostępne listy,lists_remove,0.9979,0.002,False
+11174,pl-PL,lists,lists_query,wypisz wszystkie listy na tym urządzeniu,lists_remove,1.0,0.0,False
+11180,pl-PL,calendar,calendar_query,planowanie mojego przyjęcia,email_sendemail,0.7988,0.0027,False
+11186,pl-PL,lists,lists_query,mam moją listę ubrań,lists_remove,0.9999,0.0,False
+11189,pl-PL,lists,lists_query,znajdź listę,lists_query,1.0,1.0,True
+11204,pl-PL,lists,lists_query,ważna informacja o domu,email_query,0.6981,0.0323,False
+11215,pl-PL,lists,lists_query,lista,lists_query,1.0,1.0,True
+11250,pl-PL,lists,lists_query,odczytaj mi listę zakupów spożywczych,lists_remove,0.9669,0.0299,False
+11257,pl-PL,play,play_podcasts,olly puść następne nagranie,play_music,0.9991,0.0007,False
+11259,pl-PL,play,play_podcasts,przeskocz na następny podcast,play_podcasts,0.9999,0.9999,True
+11261,pl-PL,play,play_podcasts,następny,qa_factoid,0.9957,0.0001,False
+11265,pl-PL,play,play_podcasts,włącz następny,play_radio,0.9681,0.0005,False
+11266,pl-PL,play,play_podcasts,odtwórz podcast z mojej biblioteki,play_podcasts,1.0,1.0,True
+11267,pl-PL,play,play_podcasts,znajdź mi intersujący podcast o prezydencie polski,play_podcasts,1.0,1.0,True
+11270,pl-PL,play,play_podcasts,zagraj następny podcast,play_podcasts,1.0,1.0,True
+11272,pl-PL,play,play_podcasts,zagraj następny,play_radio,0.8526,0.0026,False
+11279,pl-PL,play,play_podcasts,przejdź do podcastów i włącz następny odcinek imponderabilia,play_podcasts,1.0,1.0,True
+11286,pl-PL,play,play_podcasts,graj podcast imponderabilia,play_podcasts,0.9996,0.9996,True
+11296,pl-PL,play,play_podcasts,załaduj wszystkie moje podcasty,play_podcasts,1.0,1.0,True
+11302,pl-PL,play,play_podcasts,odtwórz podcast last libertarian,play_podcasts,1.0,1.0,True
+11303,pl-PL,play,play_podcasts,odtwórz następny podcast kryminatorium,play_podcasts,1.0,1.0,True
+11306,pl-PL,play,play_podcasts,odtwórz podcast którego słuchałem wczoraj,play_podcasts,1.0,1.0,True
+11318,pl-PL,play,play_podcasts,odtwórz następny odcinek podcastu,play_podcasts,1.0,1.0,True
+11322,pl-PL,play,play_podcasts,jakie podcasty są dzisiaj na topie,play_podcasts,0.8878,0.8878,True
+11328,pl-PL,play,play_podcasts,odtwórz podcasty o tematyce philadelphia eagles,play_podcasts,1.0,1.0,True
+11331,pl-PL,play,play_podcasts,pokaż mi podcast rockowy z najlepszymi ocenami,play_podcasts,0.8429,0.8429,True
+11335,pl-PL,play,play_music,odtwarzaj losowo wszystkie wolne piosenki,play_music,1.0,1.0,True
+11339,pl-PL,play,play_podcasts,graj mój najczęściej oglądany podcast,play_podcasts,1.0,1.0,True
+11340,pl-PL,play,play_podcasts,czy karol paciorek ma nowy podcast,social_post,0.9852,0.0143,False
+11341,pl-PL,play,play_podcasts,znajdz ostatni podcast disney,play_podcasts,1.0,1.0,True
+11343,pl-PL,play,play_podcasts,przejdź na następny odcinek wojownika,social_post,0.3264,0.0315,False
+11345,pl-PL,play,play_podcasts,zagraj następny odcinek podcastu,play_podcasts,1.0,1.0,True
+11349,pl-PL,play,play_podcasts,rozpocznij podcast który zaczęłam wczoraj w nocy,play_podcasts,1.0,1.0,True
+11353,pl-PL,play,play_podcasts,pokaż mi podcasty,play_podcasts,1.0,1.0,True
+11361,pl-PL,play,play_podcasts,podcast imponderabilia zagraj to,qa_factoid,0.8533,0.0581,False
+11366,pl-PL,play,play_podcasts,idź do poprzedniego odcinka podcastu,play_podcasts,1.0,1.0,True
+11368,pl-PL,play,play_podcasts,włącz podcast karola paciorka,play_podcasts,1.0,1.0,True
+11376,pl-PL,play,play_podcasts,chcę posłuchać podcast,play_podcasts,1.0,1.0,True
+11384,pl-PL,play,play_podcasts,proszę ściągnij mój podcast i zagraj raz,play_podcasts,1.0,1.0,True
+11409,pl-PL,play,play_podcasts,proszę przeskocz następny odcinek podcastu,play_podcasts,0.9993,0.9993,True
+11417,pl-PL,play,play_podcasts,zacznij następny odcinek,play_radio,0.3347,0.0621,False
+11418,pl-PL,play,play_podcasts,graj ostatni podcast karola paciorka,play_podcasts,0.9999,0.9999,True
+11420,pl-PL,play,play_podcasts,puść mój ostatni podcast,play_podcasts,1.0,1.0,True
+11423,pl-PL,play,play_podcasts,cofnij trzydzieści sekund,qa_factoid,1.0,0.0,False
+11424,pl-PL,play,play_podcasts,imponderabilia,qa_factoid,0.9794,0.0008,False
+11426,pl-PL,lists,lists_query,najczęściej sprawdzana lista,lists_query,0.9261,0.9261,True
+11427,pl-PL,play,play_podcasts,rozpocznij imponderabilia,play_music,0.3514,0.119,False
+11437,pl-PL,play,play_podcasts,proszę odtwórz podcast dla mnie,play_podcasts,1.0,1.0,True
+11438,pl-PL,play,play_podcasts,proszę przejdź do następnego odcinka tego podcastu,play_podcasts,1.0,1.0,True
+11442,pl-PL,play,play_podcasts,włącz proszę ostatni podcast karola paciorka,play_podcasts,1.0,1.0,True
+11451,pl-PL,play,play_podcasts,chcę posłuchać ostatniego podcastu imponderabilia,play_podcasts,1.0,1.0,True
+11453,pl-PL,play,play_podcasts,zacznij podcasty o wojowniku,play_podcasts,1.0,1.0,True
+11455,pl-PL,play,play_podcasts,przejdź do następnej sekcji,lists_remove,0.5995,0.0151,False
+11458,pl-PL,play,play_podcasts,przejdź do następnego odcinka podcastu,play_podcasts,1.0,1.0,True
+11459,pl-PL,play,play_podcasts,wróć na ostatni odcinek podcastu,play_podcasts,0.9995,0.9995,True
+11460,pl-PL,play,play_podcasts,chcę posłuchać podcast sportowy,play_podcasts,1.0,1.0,True
+11467,pl-PL,play,play_podcasts,graj najnowszy podcast od dział zagraniczny,play_podcasts,1.0,1.0,True
+11470,pl-PL,play,play_podcasts,graj mój ulubiony podcast,play_podcasts,1.0,1.0,True
+11474,pl-PL,play,play_podcasts,wznów serie podkastu,play_podcasts,1.0,1.0,True
+11476,pl-PL,play,play_podcasts,graj poprzedni podcast,play_podcasts,0.9999,0.9999,True
+11483,pl-PL,play,play_podcasts,zacznij grać kryminatorium,cooking_recipe,0.5812,0.0159,False
+11490,pl-PL,play,play_podcasts,graj następny program w podcaście,play_podcasts,0.9949,0.9949,True
+11502,pl-PL,play,play_podcasts,następny przycisk,qa_factoid,0.9633,0.0001,False
+11505,pl-PL,play,play_podcasts,odtwórz ponownie mój ostatni podcast,play_podcasts,1.0,1.0,True
+11514,pl-PL,play,play_podcasts,czy możemy posłuchać wszystkich podcastów kryminatorium,play_podcasts,1.0,1.0,True
+11515,pl-PL,play,play_podcasts,posłuchajmy podcastu żurnalista,play_podcasts,1.0,1.0,True
+11525,pl-PL,play,play_podcasts,chcę obejrzeć następny dostępny podcast,play_podcasts,1.0,1.0,True
+11529,pl-PL,play,play_podcasts,hej graj mój ulubiony podcast z listy,play_podcasts,0.8976,0.8976,True
+11536,pl-PL,play,play_podcasts,dodaj ten podcast do ulubionych i włącz go,play_podcasts,1.0,1.0,True
+11539,pl-PL,play,play_podcasts,zacznij następny podcast,play_podcasts,1.0,1.0,True
+11546,pl-PL,play,play_podcasts,graj wszystkie podkasty historyczne z zeszłego tygodnia,play_podcasts,1.0,1.0,True
+11554,pl-PL,play,play_podcasts,chcę byś grała podcast,play_music,0.9829,0.0165,False
+11563,pl-PL,recommendation,recommendation_events,co mogę robić w berlinie,cooking_recipe,1.0,0.0,False
+11570,pl-PL,recommendation,recommendation_events,co się dzieje w moim mieście,social_post,0.9272,0.003,False
+11582,pl-PL,recommendation,recommendation_events,jakie koncerty jazzowe grają w krakowie,play_music,0.9981,0.0001,False
+11585,pl-PL,recommendation,recommendation_events,jakieś wydarzenia kulturalne w łodzi,social_post,0.6465,0.0167,False
+11598,pl-PL,recommendation,recommendation_events,poinformuj mnie o wydarzeniach takich jak wystawy psów w mojej miejscowości,news_query,0.3334,0.2602,False
+11600,pl-PL,recommendation,recommendation_events,jaki film mogę zobaczyć dzisiaj wieczorem w kinie w bydgoszczy,recommendation_events,0.1201,0.1201,True
+11610,pl-PL,recommendation,recommendation_events,podaj listę pokazów cyrkowych w centrum które dzieją się teraz,lists_query,0.7775,0.0009,False
+11612,pl-PL,recommendation,recommendation_events,podaj pokazy fajerwerków w tychach,play_podcasts,0.9787,0.0004,False
+11616,pl-PL,recommendation,recommendation_events,czy są jakieś wydarzenia w centrum dziś wieczorem,news_query,0.7553,0.0179,False
+11643,pl-PL,recommendation,recommendation_events,jakie wydarzenia będą niedługo,weather_query,0.9266,0.0038,False
+11644,pl-PL,recommendation,recommendation_events,pokaż wydarzenia w poznaniu,news_query,0.9744,0.002,False
+11650,pl-PL,recommendation,recommendation_events,zarówno młodzi kierowcy jak i kierowcy którzy niedawno zdali prawo jazdy mają częściej wypadki samochodowe niż pozostali kierowcy ponieważ brakuje im doświadczenia by jechać bezpiecznie według badań doświadczenie za kółkiem jest głównym czynnikiem zmniejszającym liczbę wypadków drogowych a młodzi kierowcy prowadzą pojazdy bezpieczniej wtedy gdy obok siedzi bardziej doświadczony kierowca,lists_query,0.3292,0.0329,False
+11681,pl-PL,recommendation,recommendation_events,wyświetl maraton w pobliżu,iot_hue_lightoff,0.9996,0.0,False
+11685,pl-PL,recommendation,recommendation_events,będę szczęśliwy jeśli powiesz mi jakie najnowsze wydarzenia są w mojej okolicy,news_query,0.9987,0.0002,False
+11705,pl-PL,recommendation,recommendation_events,podaj mi wystawy malarstwa w trójmieście,recommendation_events,0.3773,0.3773,True
+11720,pl-PL,recommendation,recommendation_events,pływanie,play_radio,0.6374,0.0081,False
+11767,pl-PL,recommendation,recommendation_events,olly co dzieje się w ten weekend w poznaniu,social_post,0.991,0.0023,False
+11770,pl-PL,recommendation,recommendation_events,czy są jakieś ciekawe wydarzenia w ten weekend w konstancinie,news_query,0.5134,0.2778,False
+11782,pl-PL,recommendation,recommendation_events,czy w ten weekend w pobliżu mnie są jakieś specjalne wydarzenia,play_podcasts,0.4023,0.0626,False
+11798,pl-PL,recommendation,recommendation_events,jakie jest następne wydarzenie w bibliotece,play_podcasts,0.2379,0.0679,False
+11827,pl-PL,recommendation,recommendation_events,dokąd mogę pójść dziś wieczorem,transport_query,0.7246,0.0087,False
+11839,pl-PL,recommendation,recommendation_events,co się dzieje blisko mnie,social_post,0.9832,0.0009,False
+11841,pl-PL,recommendation,recommendation_events,czy w pobliżu są jakieś kiermasze rękodzieła,qa_definition,0.2057,0.0422,False
+11844,pl-PL,recommendation,recommendation_events,czy coś ciekawego dzieje się nad morzem,social_post,0.9884,0.0005,False
+11845,pl-PL,recommendation,recommendation_events,olly podaj mi kilka ciekawych wydarzeń w trójmieście,social_post,0.5926,0.174,False
+11860,pl-PL,recommendation,recommendation_events,powiedz mi o lokalnych wydarzeniach,news_query,0.6231,0.0574,False
+11867,pl-PL,recommendation,recommendation_events,czy jest jakieś wydarzenie sportowe jutro w krakowie,qa_factoid,0.2795,0.1024,False
+11875,pl-PL,recommendation,recommendation_events,czy jest festiwal jedzenia w tej okolicy,cooking_recipe,0.8911,0.0016,False
+11904,pl-PL,recommendation,recommendation_events,co się dzieje w okolicy w ten weekend,social_post,0.6328,0.02,False
+11905,pl-PL,recommendation,recommendation_events,olly powiedz co się dzieje w mojej okolicy w ten weekend,social_post,0.9786,0.0009,False
+11911,pl-PL,recommendation,recommendation_events,czy coś ciekawego ma miejsce w pobliżu w ten weekend,social_post,0.3082,0.2573,False
+11916,pl-PL,recommendation,recommendation_events,jakie parki tematyczne są w okolicy,social_post,0.3465,0.0118,False
+11969,pl-PL,recommendation,recommendation_events,czy coś ciekawego ma miejsce w pobliżu,lists_query,0.787,0.0393,False
+11999,pl-PL,recommendation,recommendation_events,powiedz mi jakie wydarzenia są dzisiaj w moim mieście,news_query,0.9963,0.0003,False
+12008,pl-PL,recommendation,recommendation_events,czy dziś we wrocławiu są jakieś rozrywkowe wydarzenia,play_podcasts,0.8909,0.0051,False
+12054,pl-PL,recommendation,recommendation_events,co się dzieje w mieście,social_post,0.6843,0.0165,False
+12070,pl-PL,recommendation,recommendation_events,kiedy otwierają najbliższą galerię handlową,recommendation_events,0.4603,0.4603,True
+12073,pl-PL,recommendation,recommendation_events,pokaż lokalne wydarzenia,news_query,0.7967,0.0126,False
+12098,pl-PL,recommendation,recommendation_events,pokaż wydarzenia muzyczne w pobliżu,play_music,0.9549,0.0007,False
+12189,pl-PL,transport,transport_query,jak dostać się na dworzec po bilet,transport_query,0.9958,0.9958,True
+12240,pl-PL,transport,transport_query,jaki jest korek na mojej trasie do domu o piątej,weather_query,0.9983,0.0001,False
+12245,pl-PL,transport,transport_query,kiedy jest następny pociąg do olsztyna z krakowa,weather_query,0.8529,0.1059,False
+12251,pl-PL,transport,transport_query,daj mi czasy lokalnych pociągów do płocka,weather_query,0.9922,0.0049,False
+12252,pl-PL,transport,transport_query,o której odjeżdżają pociągi do gdańska,social_post,0.779,0.0015,False
+12261,pl-PL,transport,transport_query,powiedz mi o moich opcjach na pociąg do olsztyna w następną środę lub czwartek,transport_query,0.9975,0.9975,True
+12263,pl-PL,transport,transport_query,warszawa,social_post,0.348,0.0279,False
+12264,pl-PL,transport,transport_query,nowy jork,news_query,0.1312,0.0426,False
+12294,pl-PL,transport,transport_query,pokaż mi rozkład pociągów do krakowa głównego,transport_query,0.9982,0.9982,True
+12310,pl-PL,transport,transport_query,podaj mi rodzaje biletów na pociąg z suwałk do białegostoku,transport_query,0.9963,0.9963,True
+12343,pl-PL,transport,transport_query,sprawdź czas odjazdu pociągu dziesięć tysięcy osiemset osiemdziesiąt siedem we wtorek ze stacji warszawa centralna,transport_query,0.8022,0.8022,True
+12354,pl-PL,transport,transport_query,daj mi czas pociągu,qa_factoid,0.4621,0.0045,False
+12366,pl-PL,transport,transport_query,czy jest tutaj połączeniem pociągiem z londynu do paryża i o której,transport_query,1.0,1.0,True
+12367,pl-PL,transport,transport_query,jaka jest najlepsza droga do olsztyna,qa_factoid,0.9617,0.0107,False
+12376,pl-PL,transport,transport_query,kiedy jedzie pierwsze metro do bielan,weather_query,0.9923,0.0002,False
+12392,pl-PL,transport,transport_query,podaj mi dzisiejszą trasę,qa_factoid,0.5291,0.0312,False
+12402,pl-PL,transport,transport_query,kiedy odjeżdża następny pociąg do centrum stąd,transport_query,0.9612,0.9612,True
+12419,pl-PL,transport,transport_query,najszybsza trasa do płocka,qa_factoid,0.7163,0.0722,False
+12430,pl-PL,transport,transport_query,o której dojedzie pociąg do wrocławia,qa_factoid,0.7808,0.215,False
+12436,pl-PL,transport,transport_query,ile zajmie mi dojazd na lotnisko,transport_query,0.5136,0.5136,True
+12437,pl-PL,transport,transport_query,jaki jest czas dojazdu do teatru,transport_query,0.5066,0.5066,True
+12446,pl-PL,transport,transport_query,czy możesz mi powiedzieć kiedy odjeżdża pociąg do wrocławia,transport_query,0.793,0.793,True
+12473,pl-PL,transport,transport_query,jad dostanę się stąd do domu,transport_query,0.5816,0.5816,True
+12526,pl-PL,transport,transport_query,jak najszybciej dojdę do sturbacksa,qa_factoid,0.9683,0.0009,False
+12532,pl-PL,transport,transport_query,prowadź do miejsca,play_radio,0.4375,0.0908,False
+12581,pl-PL,transport,transport_query,o której dzisiaj odjeżdża pociąg,weather_query,0.9991,0.0001,False
+12582,pl-PL,transport,transport_query,o której nadjeżdzą rano kolej podmiejska,weather_query,0.8741,0.0074,False
+12604,pl-PL,transport,transport_query,jak mam zamówić bilet na pociąg online,transport_query,0.9865,0.9865,True
+12618,pl-PL,transport,transport_query,ile kosztuje bilet na pociąg w obie strony do inowrocławia,email_query,0.7319,0.002,False
+12623,pl-PL,transport,transport_query,czy masz rozkład jazdy pociągów do kłodzka,transport_query,0.9967,0.9967,True
+12629,pl-PL,transport,transport_query,o której odjeżdża pierwszy pociąg z brzegu,transport_query,0.9391,0.9391,True
+12634,pl-PL,transport,transport_query,o której wyjeżdża następny pociąg do olsztyna,transport_query,0.9607,0.9607,True
+12707,pl-PL,transport,transport_query,wyszukaj po nawigacji,recommendation_events,0.5249,0.0009,False
+12759,pl-PL,transport,transport_query,czas jazdy do oławy,transport_query,0.367,0.367,True
+12797,pl-PL,transport,transport_query,podaj mi czasy pociągów w pobliżu mojej lokacji,weather_query,0.9659,0.0086,False
+12800,pl-PL,transport,transport_query,gdzie jest biblioteka publiczna,qa_factoid,1.0,0.0,False
+12817,pl-PL,transport,transport_query,jak dostanę się do centrum handlowego,transport_query,0.9933,0.9933,True
+12818,pl-PL,transport,transport_query,ile kosztuje bilet na pociąg do poznania,email_query,0.4874,0.0173,False
+12824,pl-PL,transport,transport_query,rozkład jazdy pociągów do warszawy,transport_query,0.9633,0.9633,True
+12835,pl-PL,transport,transport_query,o której odjeżdża pociąg do miejsca docelowego,qa_factoid,0.5466,0.4359,False
+12839,pl-PL,transport,transport_query,zabierz mnie do layfayette saint i canal,qa_factoid,0.7045,0.0945,False
+12851,pl-PL,transport,transport_query,wyświetl mi drogę do mojego domu,iot_hue_lightoff,0.9935,0.0047,False
+12856,pl-PL,transport,transport_query,kierunki proszę,qa_factoid,0.948,0.0,False
+12866,pl-PL,transport,transport_query,jakie są czasy ekspresu do krakowa,weather_query,0.2725,0.0291,False
+12908,pl-PL,transport,transport_query,o której pociąg przyjeżdża do zakopanego,transport_query,0.5904,0.5904,True
+12930,pl-PL,transport,transport_query,pokaz mapę ze sklepami w pobliżu mnie,social_post,0.4217,0.0211,False
+12932,pl-PL,transport,transport_query,olly jak dojść na marszałkowską,social_post,0.2968,0.1348,False
+12951,pl-PL,qa,qa_factoid,jaki jest najwyższy budynek na świecie,qa_factoid,0.9976,0.9976,True
+12957,pl-PL,qa,qa_definition,podaj definicję słowa opracować,qa_definition,1.0,1.0,True
+12961,pl-PL,qa,qa_definition,zdefiniuj kryminalistykę,qa_definition,0.9957,0.9957,True
+12963,pl-PL,qa,qa_definition,podaj definicje słowa kryminalistyczny,qa_definition,0.9999,0.9999,True
+12972,pl-PL,qa,qa_factoid,jaki jest najwyższy szczyt świata,qa_factoid,0.9791,0.9791,True
+12982,pl-PL,qa,qa_definition,co znaczą turbulencje,weather_query,0.7671,0.0053,False
+12986,pl-PL,qa,qa_definition,sprawdź definicję słowa kapryśny,qa_definition,0.9999,0.9999,True
+12999,pl-PL,qa,qa_factoid,ile lat ma mariah carey,email_sendemail,0.9979,0.0005,False
+13016,pl-PL,qa,qa_definition,sprawdź definicję słowa gafa,qa_definition,1.0,1.0,True
+13023,pl-PL,cooking,cooking_recipe,wyświetl przepisy,iot_hue_lightoff,0.9997,0.0,False
+13069,pl-PL,qa,qa_definition,podaj definicję słowa pomarańcza,qa_definition,1.0,1.0,True
+13074,pl-PL,qa,qa_factoid,dlaczego adam sandler nie jest zabawny,social_post,0.8895,0.0249,False
+13077,pl-PL,qa,qa_factoid,kiedy są urodziny robina williamsa,datetime_query,0.9894,0.0016,False
+13078,pl-PL,qa,qa_factoid,gdzie mieszka artur dziurman,social_post,0.9998,0.0,False
+13099,pl-PL,qa,qa_factoid,kto jest obecnie premierem wielkiej brytanii,qa_factoid,0.9967,0.9967,True
+13115,pl-PL,qa,qa_factoid,jaka jest stolica nigerii,qa_factoid,0.999,0.999,True
+13124,pl-PL,qa,qa_factoid,jak wielki jest kosmos,qa_factoid,0.9185,0.9185,True
+13135,pl-PL,qa,qa_factoid,kiedy urodził się dawid ogrodnik,qa_factoid,0.5652,0.5652,True
+13140,pl-PL,qa,qa_definition,powiedz mi wszystko o huraganie,qa_definition,0.6322,0.6322,True
+13154,pl-PL,qa,qa_factoid,czy znasz numer telefonu agnieszki matusik,qa_factoid,0.5302,0.5302,True
+13165,pl-PL,qa,qa_definition,co znaczy słowo oscylować,qa_definition,0.9917,0.9917,True
+13166,pl-PL,qa,qa_definition,przeliteruj i zdefiniuj słowo oscylować,qa_definition,0.8517,0.8517,True
+13177,pl-PL,calendar,calendar_set,przypomnij mi żebym się ruszała żeby nie przybrać na wadze,qa_factoid,0.8315,0.0012,False
+13178,pl-PL,calendar,calendar_set,przypomnij mi żeby skontaktować się ze starymi przyjaciółmi z którymi nie rozmawiałem przez sześć miesięcy zanim odejdą,social_post,0.9472,0.002,False
+13188,pl-PL,news,news_query,powiedz mi kiedy będą dostępne wyniki wyborów w delhi,weather_query,0.9635,0.0005,False
+13206,pl-PL,qa,qa_definition,lokalizacja,qa_factoid,0.9419,0.0311,False
+13215,pl-PL,transport,transport_query,jaka jest najszybsza droga do mojej pracy w centrum z ominięciem korków,transport_query,0.9985,0.9985,True
+13252,pl-PL,qa,qa_factoid,kim była george eliot,qa_factoid,1.0,1.0,True
+13255,pl-PL,qa,qa_factoid,proszę daj mi informacje o johnie abrahamie lincolnie,email_sendemail,0.9999,0.0,False
+13283,pl-PL,qa,qa_factoid,ile zarabia bill gates,qa_factoid,0.7824,0.7824,True
+13288,pl-PL,qa,qa_definition,jaka jest definicja słowa wieczny,qa_definition,1.0,1.0,True
+13297,pl-PL,qa,qa_factoid,kto to jest celebryta,qa_factoid,0.4264,0.4264,True
+13298,pl-PL,qa,qa_factoid,co robi celebryta,cooking_recipe,0.9952,0.0001,False
+13330,pl-PL,qa,qa_factoid,jak duży jest kaszalot,qa_factoid,0.9988,0.9988,True
+13361,pl-PL,qa,qa_definition,jaka jest definicja słowa aktualność,qa_definition,1.0,1.0,True
+13383,pl-PL,qa,qa_factoid,w jak wielu stanach wykonuje się karę śmierci,qa_factoid,0.997,0.997,True
+13400,pl-PL,social,social_post,wyślij zabawną wiadomość do wszystkich moich przyjaciół,social_post,0.9871,0.9871,True
+13439,pl-PL,qa,qa_factoid,ile lat ma j. k. rowling,iot_hue_lightoff,0.3188,0.0875,False
+13457,pl-PL,calendar,calendar_set,kiedy mam wyjść z domu żeby nie spóźnić się na zaplanowane spotkanie,datetime_query,0.9928,0.0001,False
+13473,pl-PL,qa,qa_factoid,kiedy stany zjednoczone uzyskały niepodległość,qa_factoid,0.7749,0.7749,True
+13487,pl-PL,qa,qa_factoid,jaka jest stolica kalifornii,qa_factoid,0.9254,0.9254,True
+13494,pl-PL,qa,qa_definition,podaj definicję słowa motywacja,qa_definition,1.0,1.0,True
+13506,pl-PL,datetime,datetime_query,czy możesz mi powiedzieć jaka jest godzina,weather_query,0.6456,0.352,False
+13513,pl-PL,qa,qa_factoid,ile łap ma pies,email_sendemail,0.9999,0.0,False
+13516,pl-PL,qa,qa_factoid,dlaczego wieloryby są duże,qa_definition,0.5032,0.4902,False
+13546,pl-PL,qa,qa_factoid,jaki był ostatni film willa smitha,calendar_query,0.0548,0.0496,False
+13554,pl-PL,qa,qa_factoid,ile brad pitt ma wzrostu,qa_factoid,0.6807,0.6807,True
+13575,pl-PL,qa,qa_factoid,który film wygrał ostatnią nagrodę akademii filmowej,recommendation_events,0.3376,0.3168,False
+13580,pl-PL,qa,qa_factoid,jak wysoki jest mount everest,qa_factoid,1.0,1.0,True
+13591,pl-PL,qa,qa_factoid,co jest stolicą wirginii zachodniej,qa_definition,0.9851,0.0147,False
+13592,pl-PL,qa,qa_factoid,gdzie znajduje się nowa zelandia,qa_factoid,0.3726,0.3726,True
+13604,pl-PL,qa,qa_factoid,gdzie urodził się steve jobs,social_post,0.7614,0.056,False
+13607,pl-PL,qa,qa_factoid,proszę potwierdź czy leonardo jest żonaty,qa_factoid,1.0,1.0,True
+13616,pl-PL,qa,qa_factoid,gdzie spotyka się większość celebrytów,social_post,0.9408,0.0502,False
+13619,pl-PL,recommendation,recommendation_events,czy są dzisiaj jakieś darmowe wydarzenia w mojej okolicy,play_podcasts,0.8386,0.0431,False
+13625,pl-PL,qa,qa_definition,jakie jest największe biurko,qa_factoid,1.0,0.0,False
+13636,pl-PL,qa,qa_factoid,kiedy są urodziny arnolda schwarzeneggera,datetime_query,0.8075,0.1641,False
+13679,pl-PL,qa,qa_factoid,czy możesz mi powiedzieć ile żołądków ma krowa,qa_factoid,0.9565,0.9565,True
+13681,pl-PL,qa,qa_factoid,w ilu sztukach zagrał mariusz benoit,qa_factoid,0.8849,0.8849,True
+13683,pl-PL,qa,qa_factoid,jakiego lakieru do włosów używa donald trump,social_post,0.5458,0.056,False
+13689,pl-PL,qa,qa_definition,co to jest krzesło,qa_definition,0.8657,0.8657,True
+13690,pl-PL,qa,qa_factoid,jakiego koloru są skrzydła,iot_hue_lightoff,0.5148,0.4659,False
+13693,pl-PL,qa,qa_factoid,gdzie jest południk zerowy,qa_factoid,0.1314,0.1314,True
+13705,pl-PL,qa,qa_definition,co to jest elektroniczny system emisji,qa_definition,0.9321,0.9321,True
+13706,pl-PL,qa,qa_definition,opisz wirnik,qa_factoid,0.9188,0.0043,False
+13714,pl-PL,qa,qa_definition,co to jest mango,qa_factoid,0.9219,0.0,False
+13717,pl-PL,qa,qa_factoid,czy naprawdę widać rosję z alaski,iot_hue_lightoff,0.9926,0.0066,False
+13758,pl-PL,qa,qa_factoid,ile lat ma edyta górniak,email_sendemail,1.0,0.0,False
+13761,pl-PL,qa,qa_factoid,co to jest parsec,qa_factoid,0.9658,0.9658,True
+13774,pl-PL,qa,qa_factoid,jak daleko jest portugalia od ukrainy,qa_factoid,0.9998,0.9998,True
+13777,pl-PL,qa,qa_definition,jak możesz opisać kartę kredytową,qa_factoid,0.9977,0.0001,False
+13780,pl-PL,qa,qa_factoid,czy jakub błaszczykowski jest żonaty,qa_factoid,0.9688,0.9688,True
+13798,pl-PL,qa,qa_factoid,ile mil kwadratowych zajmuje średnio kraj na ziemi,qa_factoid,0.9904,0.9904,True
+13799,pl-PL,qa,qa_definition,jaka jest definicja słowa subiektywny,qa_definition,1.0,1.0,True
+13823,pl-PL,qa,qa_factoid,jak daleko jest słońce,weather_query,0.9561,0.0415,False
+13853,pl-PL,qa,qa_factoid,gdzie na ziemi jest najwięcej wulkanów,qa_definition,0.353,0.1795,False
+13854,pl-PL,qa,qa_factoid,kiedy zmarł zbigniew cybulski,social_post,0.5103,0.2223,False
+13863,pl-PL,qa,qa_definition,jaka jest definicja logiki,qa_definition,1.0,1.0,True
+13867,pl-PL,qa,qa_factoid,gdzie jest kampinoski park narodowy,social_post,0.9965,0.0002,False
+13869,pl-PL,qa,qa_factoid,sprawdź lokalizację i informacje na temat mount rushmore,transport_query,0.1472,0.0429,False
+13871,pl-PL,qa,qa_definition,jakbyś powiedział wszystkiego najlepszego,qa_factoid,0.9994,0.0001,False
+13881,pl-PL,qa,qa_factoid,proszę daj mi informacje o michaelu jacksonie,email_query,0.9989,0.0,False
+13888,pl-PL,qa,qa_factoid,jaka jest temperatura w suwałkach,weather_query,0.9988,0.0001,False
+13895,pl-PL,qa,qa_factoid,czy możesz przedstawić mi roberta korzeniowskiego,recommendation_events,0.6715,0.0387,False
+13900,pl-PL,qa,qa_definition,definicja życia,qa_definition,1.0,1.0,True
+13907,pl-PL,qa,qa_definition,zdefiniuj zdumiony,qa_factoid,0.8014,0.1976,False
+13908,pl-PL,qa,qa_definition,możesz mi powiedzieć co znaczy zdumiony,qa_definition,0.9996,0.9996,True
+13926,pl-PL,qa,qa_factoid,kiedy są urodziny hemingwaya,datetime_query,0.7518,0.1991,False
+13927,pl-PL,qa,qa_factoid,ile jest wart lebron james,qa_factoid,0.9427,0.9427,True
+13974,pl-PL,qa,qa_factoid,gdzie znajduje się laos,social_post,0.9997,0.0,False
+13983,pl-PL,qa,qa_definition,konsekwencje cierpienia,news_query,0.0978,0.0452,False
+13984,pl-PL,qa,qa_definition,konsekwencje działań,cooking_recipe,0.2506,0.085,False
+13997,pl-PL,qa,qa_factoid,podaj średnią cenę domu,cooking_recipe,0.4383,0.3738,False
+14000,pl-PL,qa,qa_definition,opisz lenistwo,email_sendemail,0.4922,0.0044,False
+14001,pl-PL,qa,qa_factoid,powiedz mi wszystko co wiesz o leniwcach,social_post,0.717,0.0209,False
+14011,pl-PL,qa,qa_factoid,kiedy są urodziny violety villas,qa_factoid,0.9421,0.9421,True
+14015,pl-PL,qa,qa_factoid,jakie są współrzędne równika,qa_factoid,0.6063,0.6063,True
+14023,pl-PL,qa,qa_definition,opisz piekło,cooking_recipe,0.9993,0.0,False
+14033,pl-PL,qa,qa_factoid,powiedz mi kiedy obudził się obama,weather_query,0.7439,0.1773,False
+14038,pl-PL,qa,qa_factoid,gdzie znajduje się mołdawia,social_post,0.3881,0.2178,False
+14040,pl-PL,qa,qa_factoid,ile wzrostu ma hulk hogan,qa_factoid,0.9921,0.9921,True
+14053,pl-PL,qa,qa_factoid,w którym roku zaczął grać w filmach george clooney,datetime_query,0.7725,0.1505,False
+14063,pl-PL,qa,qa_factoid,kiedy były urodziny elvisa presleya,datetime_query,0.9892,0.0053,False
+14083,pl-PL,qa,qa_factoid,gdzie teraz mieszka tomasz bednarek,social_post,0.6255,0.2451,False
+14096,pl-PL,qa,qa_factoid,gdzie są góry stołowe,lists_remove,0.2211,0.1156,False
+14115,pl-PL,qa,qa_definition,podaj informacje o koniu rock sand,recommendation_events,0.8456,0.0008,False
+14116,pl-PL,qa,qa_definition,opisz konia rock sand,qa_factoid,0.8615,0.0144,False
+14117,pl-PL,qa,qa_factoid,gdzie znajdują się piramidy,lists_query,0.1015,0.0967,False
+14118,pl-PL,qa,qa_factoid,pokaż geograficzne szczegóły piramid,qa_factoid,0.5313,0.5313,True
+14126,pl-PL,qa,qa_factoid,pokaż biografię ani dąbrowskiej,social_post,0.9207,0.0712,False
+14138,pl-PL,qa,qa_definition,proszę powiedz mi jaka jest definicja cylindra,qa_definition,1.0,1.0,True
+14147,pl-PL,qa,qa_definition,zdefiniuj koc,qa_definition,0.9601,0.9601,True
+14150,pl-PL,qa,qa_definition,co to są buty converse,qa_factoid,0.9988,0.0,False
+14151,pl-PL,qa,qa_factoid,jaki rodzaj okularów słonecznych nosi nazwę aviator,iot_hue_lightoff,0.1277,0.0456,False
+14154,pl-PL,qa,qa_factoid,informacje o afryce,qa_definition,0.9072,0.0335,False
+14163,pl-PL,qa,qa_factoid,przeszukaj miejscowość,qa_factoid,0.9667,0.9667,True
+14169,pl-PL,qa,qa_factoid,gdzie amal clooney chodziła do collegeu,email_sendemail,0.8325,0.0001,False
+14170,pl-PL,qa,qa_factoid,czy kim kardashian nosi conversy,social_post,0.9992,0.0,False
+14179,pl-PL,qa,qa_factoid,jak daleko jest kanada od mojej obecnej lokalizacji,qa_factoid,0.9994,0.9994,True
+14214,pl-PL,transport,transport_query,znajdź jak można się dostać do,transport_query,0.9995,0.9995,True
+14229,pl-PL,qa,qa_factoid,w jakich filmach grała emma watson,play_music,0.9999,0.0,False
+14243,pl-PL,qa,qa_factoid,szczegóły o osobie,email_query,0.9996,0.0,False
+14272,pl-PL,qa,qa_definition,hey co to jest książka,email_sendemail,0.4287,0.0,False
+14283,pl-PL,qa,qa_factoid,opowiedz mi o pile,email_query,0.535,0.0031,False
+14306,pl-PL,qa,qa_factoid,opisz położenie geograficzne indii,qa_factoid,0.7301,0.7301,True
+14308,pl-PL,qa,qa_factoid,jaki jest majątek leonardo dicaprio,qa_factoid,1.0,1.0,True
+14316,pl-PL,qa,qa_factoid,jak duża jest alaska,qa_factoid,0.9973,0.9973,True
+14317,pl-PL,qa,qa_factoid,jak duże są stany zjednoczone,qa_factoid,0.9999,0.9999,True
+14323,pl-PL,qa,qa_factoid,jakiego koloru jest pitaja,iot_hue_lightoff,0.6356,0.1324,False
+14330,pl-PL,qa,qa_factoid,gdzie urodził się steve jobs,social_post,0.7614,0.056,False
+14347,pl-PL,qa,qa_definition,co to jest hipoteza,qa_factoid,1.0,0.0,False
+14354,pl-PL,qa,qa_factoid,jaki jest sens wszechświata,qa_definition,0.7653,0.0604,False
+14355,pl-PL,qa,qa_factoid,stół z powyłamywanymi nogami,lists_remove,0.5397,0.0344,False
+14370,pl-PL,qa,qa_factoid,powiedz jaki zawód ma celebryta,qa_factoid,0.8641,0.8641,True
+14378,pl-PL,qa,qa_definition,definicja słowa prędkość,iot_hue_lightoff,0.9243,0.0714,False
+14382,pl-PL,qa,qa_factoid,podaj wysokość empire state building,qa_factoid,0.9953,0.9953,True
+14395,pl-PL,qa,qa_factoid,jaki jest najgłębszy punkt na ziemi,qa_definition,0.9968,0.0029,False
+14414,pl-PL,qa,qa_definition,opisz dysk twardy komputera,qa_factoid,0.7379,0.0149,False
+14417,pl-PL,qa,qa_factoid,nad którym oceanem leży nasz kontynent,qa_factoid,0.3639,0.3639,True
+14419,pl-PL,qa,qa_factoid,czy anna wypuszcza w tym roku nowy film,qa_factoid,0.9316,0.9316,True
+14429,pl-PL,qa,qa_definition,co to jest kaftan,qa_factoid,0.9948,0.0006,False
+14440,pl-PL,qa,qa_factoid,jaka jest stolica meksyku,qa_factoid,0.8108,0.8108,True
+14442,pl-PL,qa,qa_factoid,gdzie leży fidżi,qa_factoid,0.919,0.919,True
+14444,pl-PL,qa,qa_factoid,jaki był pierwszy film morgana freemana,qa_factoid,0.1193,0.1193,True
+14449,pl-PL,qa,qa_factoid,czy pink ma nowe dziecko,qa_factoid,0.6153,0.6153,True
+14457,pl-PL,qa,qa_factoid,wyznacz trasę,qa_factoid,0.4743,0.4743,True
+14465,pl-PL,transport,transport_query,kierunek do disney landu,cooking_recipe,0.999,0.0,False
+14490,pl-PL,qa,qa_factoid,kiedy powstał teatr bolszoj,qa_factoid,0.8494,0.8494,True
+14498,pl-PL,qa,qa_definition,podaj mi opis smartfona,qa_definition,0.6179,0.6179,True
+14504,pl-PL,qa,qa_factoid,olly ile spotkań odbył mahatma gandhi,social_post,0.9848,0.0125,False
+14505,pl-PL,qa,qa_factoid,kto jest aktualnie premierem rosji,weather_query,0.9007,0.0402,False
+14508,pl-PL,qa,qa_factoid,proszę streść najnowszą książkę georgea r r martina lód i ogień,email_sendemail,0.6741,0.0037,False
+14509,pl-PL,qa,qa_factoid,gdzie urodził się mahatma gandhi,social_post,0.9999,0.0,False
+14539,pl-PL,qa,qa_factoid,znajdź informacje o położeniu geograficznym tego miejsca,qa_factoid,0.2115,0.2115,True
+14545,pl-PL,qa,qa_factoid,gdzie znajdują się indie,social_post,0.3384,0.2905,False
+14567,pl-PL,qa,qa_factoid,znajdź największy aktywny wulkan na ziemi,qa_factoid,0.9991,0.9991,True
+14585,pl-PL,qa,qa_factoid,ile trwa podróż z japonii do południowej korei,email_sendemail,0.8633,0.0014,False
+14591,pl-PL,qa,qa_definition,podaj opis obwodu telewizyjnego,iot_hue_lightoff,0.5142,0.0359,False
+14592,pl-PL,qa,qa_definition,podaj mi opis obwodu smartfona,iot_hue_lightoff,0.5315,0.1243,False
+14597,pl-PL,qa,qa_factoid,ile liczy populacja nowego jorku,email_sendemail,0.9341,0.0,False
+14601,pl-PL,qa,qa_factoid,przez ile lat abraham lincoln był prezydentem stanów zjednoczonych,qa_factoid,0.9599,0.9599,True
+14605,pl-PL,qa,qa_factoid,czy angelina jolie zostawiła brada pitta,qa_factoid,0.9858,0.9858,True
+14608,pl-PL,qa,qa_factoid,nad jakim filmem pracuje teraz jennifer lawrence,qa_factoid,0.9874,0.9874,True
+14622,pl-PL,qa,qa_definition,opisz co to jest sfera,qa_factoid,0.9843,0.0023,False
+14648,pl-PL,cooking,cooking_recipe,przepis poproszę,calendar_remove,0.9926,0.0001,False
+14653,pl-PL,qa,qa_factoid,jaka jest populacja rosji,qa_factoid,0.7741,0.7741,True
+14661,pl-PL,qa,qa_factoid,w którym roku urodził się lech wałęsa,datetime_query,0.9838,0.0089,False
+14668,pl-PL,qa,qa_definition,opisz przedmiot xy,iot_hue_lightoff,0.9979,0.0001,False
+14683,pl-PL,qa,qa_factoid,jakie jest hobby marcina dorocińskiego,qa_factoid,0.8938,0.8938,True
+14684,pl-PL,qa,qa_factoid,kto jest premierem rosji,qa_factoid,1.0,1.0,True
+14690,pl-PL,qa,qa_definition,ok google co to jest prezydent,qa_factoid,0.8756,0.0997,False
+14700,pl-PL,qa,qa_definition,co to dokładnie jest wypełnienie z żywicy,cooking_recipe,0.7785,0.0026,False
+14701,pl-PL,qa,qa_definition,opisz grę karcianą hearthstone,cooking_recipe,0.9673,0.0006,False
+14705,pl-PL,qa,qa_factoid,ok google gdzie mieszka sophia vergara,social_post,0.9998,0.0,False
+14706,pl-PL,qa,qa_factoid,gdzie mieszka katarzyna cichopek,social_post,0.9904,0.0051,False
+14746,pl-PL,qa,qa_factoid,jaka jest stolica kazachstanu,qa_factoid,0.9245,0.9245,True
+14761,pl-PL,qa,qa_definition,podaj definicję słowa pontyfikat,qa_definition,0.9612,0.9612,True
+14767,pl-PL,qa,qa_definition,jak można opisać piłkę,qa_factoid,0.5017,0.362,False
+14770,pl-PL,qa,qa_factoid,jaki jest największy ocena na świecie,qa_factoid,1.0,1.0,True
+14787,pl-PL,qa,qa_factoid,jak jest różnica między kalendarzem rzymskim a gregoriańskim,qa_factoid,0.3587,0.3587,True
+14791,pl-PL,qa,qa_factoid,jakie jest pokrycie krzesła,qa_factoid,0.9938,0.9938,True
+14794,pl-PL,qa,qa_factoid,jaki był ulubiony samochód elvisa,social_post,0.5608,0.3852,False
+14822,pl-PL,qa,qa_factoid,porównaj ludzi,recommendation_events,0.9629,0.0004,False
+14838,pl-PL,qa,qa_factoid,co to jest neutralny filtr fotograficzny o neutralnej gęstości i czy chciałbym mieć gradientowy czy stały a także który rodzaj byłby lepszy przykręcany czy kwadratowy nakładany,qa_factoid,0.2928,0.2928,True
+14857,pl-PL,qa,qa_definition,wyjaśnij znaczenie słowa wygórowany,qa_definition,0.9992,0.9992,True
+14877,pl-PL,qa,qa_factoid,jakie są warunki klimatyczne na tym obszarze,qa_factoid,0.4999,0.4999,True
+14879,pl-PL,qa,qa_definition,znaczenie,qa_definition,0.7459,0.7459,True
+14884,pl-PL,qa,qa_factoid,jaki stan w stanach zjednoczonych jest najmniej podatny na tornada,qa_factoid,0.4903,0.4903,True
+14889,pl-PL,qa,qa_definition,proszę opisz dla mnie ten przedmiot,qa_factoid,0.5503,0.2087,False
+14891,pl-PL,qa,qa_factoid,w jakiej dziedzinie ta osoba jest najlepsza,qa_factoid,0.9995,0.9995,True
+14912,pl-PL,qa,qa_factoid,kiedy urodził się prezedent narutowicz,qa_factoid,0.992,0.992,True
+14917,pl-PL,qa,qa_factoid,kiedy wychodzi najnowszy album marka lanegana,datetime_query,0.8381,0.0347,False
+14933,pl-PL,qa,qa_factoid,daj mi informacje na temat geografii indii,qa_definition,0.9217,0.0671,False
+14939,pl-PL,qa,qa_factoid,potrzebuje informacji na temat brucea lee proszę pomóż,recommendation_events,0.261,0.0302,False
+14981,pl-PL,qa,qa_definition,opis iphone siedem,social_post,0.5244,0.0022,False
+14994,pl-PL,qa,qa_factoid,jaki jest kolejny film denzela washingtona,recommendation_events,0.0714,0.0503,False
+14995,pl-PL,qa,qa_definition,co znaczy sytuacja,qa_definition,0.8241,0.8241,True
+15020,pl-PL,qa,qa_factoid,ile lat ma clint eastwood,iot_hue_lightoff,0.3685,0.0318,False
+15039,pl-PL,qa,qa_factoid,olly gdzie zaczynają się góry świętokrzyskie,qa_definition,0.4668,0.0518,False
+15055,pl-PL,qa,qa_factoid,który biegun jest zimniejszy południowy czy północny,weather_query,0.9524,0.0024,False
+15056,pl-PL,qa,qa_factoid,ile lat ma nowy chłopak emmy watson,qa_factoid,0.5588,0.5588,True
+15062,pl-PL,qa,qa_factoid,informację o lisa ann poproszę,social_post,0.4992,0.0113,False
+15075,pl-PL,qa,qa_factoid,gdzie osiedlili się pierwsi amerykanie,social_post,0.9937,0.0004,False
+15092,pl-PL,qa,qa_definition,znajdź opis telewizora samsung,lists_query,0.8259,0.0101,False
+15094,pl-PL,qa,qa_factoid,sprawdź liczbę mieszkańców w kielcach,lists_query,0.7297,0.0846,False
+15095,pl-PL,qa,qa_factoid,gdzie znajduje się legnica,iot_hue_lightoff,0.5042,0.0002,False
+15127,pl-PL,qa,qa_definition,zdefiniuj mówcę,qa_definition,0.961,0.961,True
+15155,pl-PL,social,social_post,czy możesz umieścić moje ostatnie selfie na koncie na facebooku,social_post,0.9993,0.9993,True
+15166,pl-PL,social,social_post,opublikuj moją firmę na twitterze,social_post,0.9999,0.9999,True
+15177,pl-PL,social,social_post,proszę prześlij dalej ten post na twitterze,social_post,0.9994,0.9994,True
+15185,pl-PL,social,social_post,życzenia urodzinowe,email_sendemail,0.9705,0.0002,False
+15186,pl-PL,social,social_post,życzenia weselne,iot_hue_lightoff,0.9991,0.0,False
+15187,pl-PL,social,social_post,udostępnij w poście znajomych,social_post,0.9992,0.9992,True
+15197,pl-PL,social,social_post,post na twitterze na moją wizytę w japonii,social_post,1.0,1.0,True
+15208,pl-PL,social,social_post,opublikuj na facebooku hej wszystkim,social_post,0.9937,0.9937,True
+15213,pl-PL,news,news_query,co jest teraz popularne,social_post,0.9991,0.0,False
+15214,pl-PL,news,news_query,jakie są dzisiaj wiadomości,news_query,0.5672,0.5672,True
+15216,pl-PL,social,social_post,napisz tweeta coś dla mnie,social_post,0.9994,0.9994,True
+15231,pl-PL,social,social_post,zdjęcie z mojej wycieczki do goa opublikuj je na instagramie,social_post,0.9998,0.9998,True
+15271,pl-PL,social,social_post,zapostuj to na moim facebooku,social_post,1.0,1.0,True
+15275,pl-PL,social,social_post,zapostuj że jestem szczęśliwy na fejsie,social_post,0.9241,0.9241,True
+15276,pl-PL,social,social_post,opublikuj na facebooku nowy status że cieszę się ładną pogodą,social_post,0.9999,0.9999,True
+15289,pl-PL,social,social_post,zapostuj wiadomość teraz,social_post,0.9979,0.9979,True
+15305,pl-PL,calendar,calendar_query,czy ja mam jakieś powiadomienia z social mediów,social_post,0.9999,0.0,False
+15318,pl-PL,social,social_post,chcę wszystkim podziękować za życzenia urodzinowe,email_sendemail,0.9681,0.0008,False
+15337,pl-PL,social,social_post,opublikuj ten filmik na fejsie,qa_factoid,0.6557,0.242,False
+15350,pl-PL,social,social_post,jestem niezadowolony w tesco proszę pomóż mi,social_post,0.636,0.636,True
+15358,pl-PL,social,social_post,olly zatweetuj do apple że iphone nie działa,email_sendemail,0.8657,0.123,False
+15359,pl-PL,social,social_post,otwórz tweeta do apple że moja bateria w iphonie jest zawsze zużyta,iot_hue_lightoff,0.9314,0.0018,False
+15364,pl-PL,social,social_post,czy możesz dać znać amazonowi że ich nowy telefon to śmieć,social_post,0.7818,0.7818,True
+15382,pl-PL,social,social_post,czy możesz skontaktować się z samsungiem i powiedzieć im że moja zmywarka jest super,email_sendemail,0.2507,0.204,False
+15387,pl-PL,social,social_post,napisz tweeta z moją aktualną lokalizację,social_post,0.9998,0.9998,True
+15399,pl-PL,social,social_post,prześlij dalej skargę do netii że są problemy z siecią,transport_query,0.5974,0.006,False
+15401,pl-PL,social,social_post,otwórz twittera wyślij wiadomość,social_post,0.9951,0.9951,True
+15402,pl-PL,social,social_post,wyślij tweeta że produkty ssą,email_sendemail,1.0,0.0,False
+15409,pl-PL,social,social_post,otwórz twittera wpisz moją skargę i wyślij do obsługi klienta,iot_hue_lightoff,0.6658,0.0355,False
+15413,pl-PL,social,social_post,daj mi człowieka tak szybko jak to możliwe,play_radio,0.4894,0.0537,False
+15444,pl-PL,social,social_post,dwa kcióki w dół dla kulka,cooking_recipe,0.982,0.0005,False
+15448,pl-PL,social,social_post,wyślij tweeta o problemie z głośnością do sony,social_post,0.9996,0.9996,True
+15454,pl-PL,social,social_post,zatweetuj do united airlines jestem zły że straciłem mój bagaż,social_post,0.9911,0.9911,True
+15456,pl-PL,social,social_post,chce wysłać tweeta do united airlines jestem wściekły że straciłem mój bagaż,email_sendemail,1.0,0.0,False
+15457,pl-PL,social,social_post,miałem problem z moim burgerem możesz zatweetować do burger kinga,recommendation_events,0.4468,0.3464,False
+15459,pl-PL,social,social_post,napisz skargę na twitter,social_post,0.9512,0.9512,True
+15464,pl-PL,social,social_post,nie dostałem produktu na czas wyślij tweeta do aldi,social_post,0.9601,0.9601,True
+15467,pl-PL,social,social_post,powiedz plusowi że ich nienawidzę,social_post,0.9692,0.9692,True
+15472,pl-PL,social,social_post,wyślij tweeta do empiku online,social_post,0.9926,0.9926,True
+15487,pl-PL,social,social_post,wyślij tweeta do lidla o czystości w ich sklepie,social_post,0.7358,0.7358,True
+15488,pl-PL,social,social_post,proszę wyślij tweeta do pizza hut że czekam na dostawę numer i nie jest zadowolony,social_post,0.9598,0.9598,True
+15503,pl-PL,social,social_post,nowy tweet do obsługi klienta,news_query,0.9017,0.0536,False
+15508,pl-PL,social,social_post,siri otwórz twitter i zatweetuj potus ssie,social_post,0.9998,0.9998,True
+15518,pl-PL,social,social_post,napisz tweeta do medicine,social_post,0.9992,0.9992,True
+15532,pl-PL,social,social_post,olly zatweetuj do biedronki i powiedz że ich nowy wystrój sklepu jest okropny,iot_hue_lightoff,0.967,0.0072,False
+15546,pl-PL,social,social_post,napisz tweeta o zimnej pizzy w papa johns,social_post,0.9997,0.9997,True
+15548,pl-PL,social,social_post,zatweetuj przez telefon skargę do samsunga,social_post,0.9977,0.9977,True
+15553,pl-PL,social,social_post,proszę zatweetuj negatywną odpowiedź na serwis daikin,qa_factoid,0.9359,0.0561,False
+15554,pl-PL,social,social_post,proszę zatweetuj na serwis della że jest opóźniony serwis,iot_hue_lightoff,0.5486,0.0503,False
+15556,pl-PL,social,social_post,zatweetujmy skargę,social_post,0.9225,0.9225,True
+15557,pl-PL,social,social_post,potrzebuję byś zatweetował skargę,qa_factoid,0.6131,0.0,False
+15560,pl-PL,social,social_post,opublikuj na fejsie że jestem głodny,social_post,0.9949,0.9949,True
+15565,pl-PL,social,social_post,możesz dać znać linii wizzair że już nigdy nie będę korzystać z ich usług,iot_hue_lightoff,0.9741,0.0001,False
+15587,pl-PL,social,social_post,otwórz album i zapostuj zdjęcia nazwa,social_post,0.9938,0.9938,True
+15592,pl-PL,social,social_post,napisz tweeta ze skargą na orange,social_post,0.9998,0.9998,True
+15593,pl-PL,social,social_post,napisz tweeta ze skargą na plusa,social_post,0.9988,0.9988,True
+15598,pl-PL,social,social_post,otwórz lidl i znajdź skargi,recommendation_events,0.9144,0.0029,False
+15610,pl-PL,social,social_post,twitnij posta as follows very bad follow up autorstwa a. b. c. company not satisfied na moim koncie,social_post,0.9331,0.9331,True
+15618,pl-PL,social,social_post,zatweetuj do warty i powiedz im że są do dupy,social_post,0.9994,0.9994,True
+15626,pl-PL,social,social_post,proszę napisz tweeta skargę na plusa o ich złej obsłudze klienta,qa_factoid,0.721,0.0022,False
+15634,pl-PL,social,social_post,ok google napisz tweeta jakim głupkiem jest właściciel stacji benzynowej,qa_factoid,0.9961,0.0037,False
+15635,pl-PL,social,social_post,zatweetuj do mcdonalda że mają okropny seriws,social_post,0.6124,0.6124,True
+15647,pl-PL,social,social_post,napisz tweeta narzekającego na,social_post,0.9999,0.9999,True
+15651,pl-PL,social,social_post,wyślij raport do obsługi konsumenta,iot_hue_lightoff,0.8681,0.0022,False
+15652,pl-PL,social,social_post,pomóc w reklamacji do obsługi klienta,email_sendemail,0.918,0.0017,False
+15655,pl-PL,social,social_post,wyślij tweeta do obsługi klienta google że mój nowy telefon nexus przestał działać proszę o pomoc,qa_factoid,0.7649,0.0099,False
+15656,pl-PL,social,social_post,napisz tweeta z wiadomością do saturna że ciągle czekam na dostawę,social_post,0.9999,0.9999,True
+15661,pl-PL,social,social_post,zapostuj na twittera moje ostatnie wejścia w n. s. a.,social_post,0.9997,0.9997,True
+15670,pl-PL,social,social_post,wyślij tweeta z zażaleniem,social_post,0.9995,0.9995,True
+15672,pl-PL,social,social_post,napisz tweeta do allegro o braku praragony w iphonie który wysłałem w ostatnim tygodniu do naprawy,social_post,1.0,1.0,True
+15676,pl-PL,social,social_post,proszę dodat skargę o serwisie na twitterze do bar a boo,social_post,0.8954,0.8954,True
+15686,pl-PL,social,social_post,hello mój przedmiot który kupiłem dla kogoś zniknął z zamówienia,recommendation_events,0.16,0.0316,False
+15693,pl-PL,social,social_post,zatweetuj że był insekt w paczce czekolady,email_sendemail,0.9935,0.0057,False
+15700,pl-PL,social,social_post,przeterminowane produkty na ostatnim rynku,qa_factoid,0.5596,0.0004,False
+15703,pl-PL,social,social_post,twitter do wolfskin że za szybko skończyły im się rozmiarówki,social_post,0.9482,0.9482,True
+15706,pl-PL,social,social_post,zatweetuj na,social_post,0.9862,0.9862,True
+15707,pl-PL,social,social_post,napiszmy tweeta,social_post,0.9997,0.9997,True
+15708,pl-PL,social,social_post,zapostuj skargę na seriws,social_post,0.4966,0.4966,True
+15721,pl-PL,social,social_post,napisz tweeta że jesteś niezadowolony w macdonaldzie,social_post,0.9888,0.9888,True
+15723,pl-PL,social,social_post,ustaw status czuję się szczęśliwy na facebooku,social_post,0.9995,0.9995,True
+15731,pl-PL,social,social_post,olly napisz tweeta z wiadomością do vectry i powiedz im że ich serwis jest zły,social_post,0.9996,0.9996,True
+15732,pl-PL,social,social_post,zatweetuj do samsunga i poweidz im aby przestali zabijać ludzi swoimi produktami,social_post,0.9996,0.9996,True
+15736,pl-PL,social,social_post,zamieść negatywną opinię o firmie,qa_factoid,0.9565,0.0314,False
+15756,pl-PL,email,email_sendemail,wyślij email do mojego zespołu,email_sendemail,1.0,1.0,True
+15763,pl-PL,email,email_query,proszę sprawdź czy są nowe emaile,email_sendemail,1.0,0.0,False
+15765,pl-PL,email,email_sendemail,odpowiedz na maila pawła,social_post,0.9994,0.0006,False
+15777,pl-PL,email,email_query,powiedz mi czy mam nowe emaile,email_sendemail,1.0,0.0,False
+15785,pl-PL,email,email_query,czy są nowe wiadomości w mojej skrzync,social_post,0.5008,0.0002,False
+15789,pl-PL,email,email_query,olly czy mam jakieś nowe maile,email_sendemail,1.0,0.0,False
+15792,pl-PL,calendar,calendar_query,z kim się dzisiaj spotykam,social_post,0.9975,0.0001,False
+15796,pl-PL,email,email_sendemail,wyślij maila do agnieszki,email_sendemail,1.0,1.0,True
+15802,pl-PL,email,email_sendemail,odpowiedz na maila janka i napisz że dziś wieczorem nie przyjdę,email_sendemail,1.0,1.0,True
+15809,pl-PL,email,email_query,czy robert napisał do mnie maila,email_sendemail,1.0,0.0,False
+15825,pl-PL,email,email_sendemail,odpowiedz tacie napisz spóźnię się,qa_factoid,0.6677,0.1228,False
+15828,pl-PL,email,email_sendemail,tu jest nowy adres email który trzeba dodać do kontaktów,email_sendemail,1.0,1.0,True
+15829,pl-PL,email,email_sendemail,idź do kontaktów i dodaj nowy adres email,email_sendemail,1.0,1.0,True
+15839,pl-PL,email,email_query,temat,qa_definition,0.3001,0.0181,False
+15841,pl-PL,email,email_sendemail,stwórz nowy mail do ryśka,email_sendemail,1.0,1.0,True
+15845,pl-PL,email,email_sendemail,skąd to się wzięło,qa_factoid,0.9945,0.0001,False
+15847,pl-PL,email,email_sendemail,jak możemy dostać pożyczkę,qa_factoid,0.9863,0.0,False
+15849,pl-PL,email,email_sendemail,wyślij mail do mojego szefa,email_sendemail,1.0,1.0,True
+15857,pl-PL,email,email_sendemail,proszę wyślij mi nowy email do wypisanych adresów,email_sendemail,1.0,1.0,True
+15862,pl-PL,email,email_query,sprawdz email otrzymany od mamy,email_sendemail,1.0,0.0,False
+15880,pl-PL,email,email_query,sprawdź pocztę,email_sendemail,0.9525,0.0421,False
+15890,pl-PL,email,email_query,zobacz czy mam jakieś nowe maile od mojego taty,email_sendemail,1.0,0.0,False
+15904,pl-PL,email,email_query,sprawdź moje nowe emaile i powiedz o czym one są,email_sendemail,1.0,0.0,False
+15906,pl-PL,email,email_sendemail,odpowiedz dziękuje ci jankowi,social_post,0.8895,0.0006,False
+15911,pl-PL,email,email_sendemail,przygotuj maila do zuzi,email_sendemail,1.0,1.0,True
+15933,pl-PL,email,email_query,jakie mam nowe emaile,email_sendemail,1.0,0.0,False
+15942,pl-PL,email,email_sendemail,wyślij mi email aby odpowiedzieć na ostatnie emaile,email_sendemail,1.0,1.0,True
+15950,pl-PL,email,email_sendemail,odpowiedz na email od jana kowalskiego,email_sendemail,1.0,1.0,True
+15957,pl-PL,email,email_sendemail,emailuj alicję i daj jej znać że jesteśmy w drodze,email_sendemail,1.0,1.0,True
+15963,pl-PL,email,email_query,czy mam jakieś nowe maile od tadeusza,email_sendemail,1.0,0.0,False
+15966,pl-PL,email,email_query,wyślij odpowiedź jeśli to bardzo ważne,email_sendemail,0.9577,0.0012,False
+15968,pl-PL,email,email_query,jeśli to pochodzi z bardzo znanego miejsca oznacz jako ważne,qa_factoid,0.9999,0.0,False
+15970,pl-PL,email,email_query,jaki był temat ostatniego maila od mamy,email_sendemail,1.0,0.0,False
+15971,pl-PL,email,email_query,jaki jest ostatni email z pracy,email_sendemail,1.0,0.0,False
+15994,pl-PL,email,email_sendemail,wyślij email do jana z zapytaniem jaka godzina odpowiada mu na spotkanie,email_sendemail,1.0,1.0,True
+15995,pl-PL,email,email_sendemail,wyślij maila do kariny o spotkaniu budżetowym,email_sendemail,1.0,1.0,True
+15998,pl-PL,email,email_query,sprawdź moje emaile pod kątem nazwy,email_sendemail,0.9929,0.0071,False
+16002,pl-PL,email,email_query,sprawdź nowe maile,email_sendemail,1.0,0.0,False
+16005,pl-PL,email,email_sendemail,wyślij maila josef małpa gmail kropka com,email_sendemail,1.0,1.0,True
+16010,pl-PL,email,email_query,powiedz czy mam jakieś nowe wiadomości w mojej skrzynce,news_query,0.9271,0.0002,False
+16024,pl-PL,email,email_sendemail,wyślij maila do ryśka z informacją że jestem jutro zajęta,email_sendemail,1.0,1.0,True
+16028,pl-PL,email,email_sendemail,hej siri odpal maila do współpracownika,email_sendemail,1.0,1.0,True
+16029,pl-PL,email,email_sendemail,stwórz mail do współpracownika,email_sendemail,1.0,1.0,True
+16032,pl-PL,email,email_sendemail,proszę wyślij maila do sylwii w sprawie jutrzejszego spotkania,email_sendemail,1.0,1.0,True
+16038,pl-PL,email,email_query,hej czy janek wysłał mi ostatni jakiegoś maila,email_sendemail,0.8493,0.1507,False
+16045,pl-PL,email,email_sendemail,wyślij do irka mail z zapytaniem o godziny otwarcie biura,email_sendemail,1.0,1.0,True
+16048,pl-PL,email,email_query,pokaż mi ostatnie maile,email_sendemail,1.0,0.0,False
+16049,pl-PL,email,email_sendemail,chcę wysłać maila do mojej rodziny pomożesz mi,email_sendemail,1.0,1.0,True
+16050,pl-PL,email,email_query,sprawdź gmaila,email_sendemail,0.9973,0.0026,False
+16052,pl-PL,email,email_query,sprawdź outlooka,iot_hue_lightoff,0.9567,0.0021,False
+16056,pl-PL,email,email_sendemail,odpowiedz na email,email_sendemail,1.0,1.0,True
+16061,pl-PL,email,email_query,czy dostałem jakieś maile w ciągu ostatnich dziesięciu minut,email_sendemail,0.9996,0.0,False
+16072,pl-PL,email,email_sendemail,napisz do mojego szefa że będę dzisiaj spóźniona z powodu awarii i przeproś go że przegapiłam spotkanie,email_sendemail,0.9847,0.9847,True
+16075,pl-PL,email,email_query,pokaż ostatniego maila od janka,email_sendemail,1.0,0.0,False
+16082,pl-PL,email,email_sendemail,wyślij email do piotra pytając jak się czuje i czy mogę mu jakoś pomóc,email_sendemail,1.0,1.0,True
+16089,pl-PL,email,email_query,czy ja otrzymałem nowe emaile w ostatnich dziesięciu minutach,email_sendemail,1.0,0.0,False
+16096,pl-PL,email,email_query,czy ania wysłała do mnie jakieś nowe maile,email_sendemail,1.0,0.0,False
+16098,pl-PL,email,email_query,sprawdź nieodczytane maile od ani,email_sendemail,1.0,0.0,False
+16100,pl-PL,email,email_query,sprawdź proszę email z ofertą pracy,email_sendemail,0.9964,0.0036,False
+16103,pl-PL,email,email_sendemail,wyślij maila do mojego brata i przypomnij o rocznicy ślubu,email_sendemail,1.0,1.0,True
+16120,pl-PL,email,email_sendemail,pomoc ma być wysłana tylko do janki,social_post,0.9892,0.0005,False
+16131,pl-PL,email,email_sendemail,ten nowy email powinien być dodany do moich kontaktów,email_sendemail,1.0,1.0,True
+16145,pl-PL,email,email_query,pokaż mi najnowsze emaile,email_sendemail,1.0,0.0,False
+16146,pl-PL,news,news_query,daj mi najnowsze informacje,news_query,0.9937,0.9937,True
+16148,pl-PL,email,email_sendemail,szybka odpowiedź do jacka więc proszę wyślij mail,email_sendemail,1.0,1.0,True
+16151,pl-PL,email,email_query,sprawdź plan spotkań w dzisiejszej poczcie,social_post,0.771,0.007,False
+16162,pl-PL,email,email_sendemail,wyślij odpowiedź,email_sendemail,0.9893,0.9893,True
+16163,pl-PL,email,email_query,kto wysłał do mnie maila wczoraj,email_sendemail,1.0,0.0,False
+16165,pl-PL,email,email_query,czy krystyna odpowiedziała,qa_factoid,0.9998,0.0,False
+16166,pl-PL,email,email_sendemail,czy możesz odpowiedzieć do krystyny że będę zajęty projektem przez następne trzy tygodnie,qa_factoid,0.8529,0.033,False
+16168,pl-PL,email,email_query,czy w ciągu ostatnich piętnastu minut przyszły jakieś maile,social_post,0.721,0.0066,False
+16170,pl-PL,email,email_query,otwórz skrzynkę odbiorczą żeby sprawdzić nieprzeczytane maile,email_sendemail,1.0,0.0,False
+16178,pl-PL,email,email_query,czy dostałam dzisiaj jakiś mail od amazona,email_sendemail,1.0,0.0,False
+16183,pl-PL,email,email_query,sprawdź maila o mojej pracy,email_sendemail,1.0,0.0,False
+16201,pl-PL,email,email_sendemail,proszę załaduj nowy email od bartka i wyślij wiadomość teraz,email_sendemail,1.0,1.0,True
+16221,pl-PL,email,email_sendemail,znajdź adres email kasi i napisz że dam jej znać,email_sendemail,1.0,1.0,True
+16245,pl-PL,email,email_sendemail,wyślij email do jasiek małpa o dwa kropka pl,email_sendemail,1.0,1.0,True
+16248,pl-PL,email,email_query,sprawdź moje maile,email_sendemail,1.0,0.0,False
+16263,pl-PL,email,email_query,czy otrzymałem jakieś nowe maile od roberta,email_sendemail,1.0,0.0,False
+16266,pl-PL,email,email_sendemail,napisz email do mojej rodziny mówiący kocham was wszystkich,email_sendemail,1.0,1.0,True
+16271,pl-PL,email,email_query,odśwież moją skrzynkę i poinformuj mnie o nowych mailach,email_sendemail,1.0,0.0,False
+16275,pl-PL,email,email_query,rozpocznij ankietę na nowy email,email_sendemail,0.9999,0.0001,False
+16276,pl-PL,email,email_query,czy mam jakieś nowe maile,email_sendemail,1.0,0.0,False
+16280,pl-PL,email,email_sendemail,proszę wyślij maile do kasi która jest na liście rodzina i przyjaciele,email_sendemail,1.0,1.0,True
+16282,pl-PL,email,email_sendemail,wyślij email do asystentki karoliny i anuluj wszystkie spotkania jutro,email_sendemail,1.0,1.0,True
+16296,pl-PL,email,email_sendemail,wyślij do mamy mail z informacją że impreza urodzinowa wojtka jest w niedzielę,email_sendemail,1.0,1.0,True
+16297,pl-PL,email,email_sendemail,wyślij do jacka email z podziękowaniem,email_sendemail,1.0,1.0,True
+16314,pl-PL,email,email_sendemail,wyślij maila do gosi,email_sendemail,1.0,1.0,True
+16317,pl-PL,email,email_query,czy mam nowe maile od sarah,email_sendemail,1.0,0.0,False
+16318,pl-PL,email,email_sendemail,odpowiedz na email,email_sendemail,1.0,1.0,True
+16320,pl-PL,email,email_sendemail,chcę odpowiedzieć na maila od roberta kowalskiego,email_sendemail,1.0,1.0,True
+16353,pl-PL,email,email_query,sprawdź e-maile od stefan,email_sendemail,1.0,0.0,False
+16354,pl-PL,email,email_query,sprawdź maile od mojego pracodawcy,email_sendemail,1.0,0.0,False
+16356,pl-PL,email,email_query,czy napisałem email do tomka na temat kontroli broni,email_sendemail,1.0,0.0,False
+16357,pl-PL,email,email_query,czy tomek wysłał mi maila o amunicji,email_sendemail,1.0,0.0,False
+16361,pl-PL,email,email_query,czy ja mam jakieś nowe maile z ostatniej godziny,email_sendemail,1.0,0.0,False
+16373,pl-PL,email,email_query,czy dostałam jakieś maile z numerami nadania przesyłki,email_sendemail,1.0,0.0,False
+16375,pl-PL,email,email_sendemail,stwórz email do bolka,email_sendemail,1.0,1.0,True
+16376,pl-PL,email,email_sendemail,alexa proszę wyślij email do mamy,email_sendemail,1.0,1.0,True
+16377,pl-PL,email,email_sendemail,wyślij mamie maila teraz,email_sendemail,1.0,1.0,True
+16384,pl-PL,email,email_query,czy dostałem jakieś nowe maile,email_sendemail,1.0,0.0,False
+16385,pl-PL,email,email_query,proszę przeczytaj nowe emaile,email_sendemail,1.0,0.0,False
+16398,pl-PL,email,email_sendemail,proszę wyślij email do jarka,email_sendemail,1.0,1.0,True
+16399,pl-PL,email,email_query,czy ja mam jakieś nowe emaile,email_sendemail,1.0,0.0,False
+16401,pl-PL,email,email_sendemail,napisz email do doroty z pytaniem co dzisiaj robi,email_sendemail,1.0,1.0,True
+16402,pl-PL,email,email_sendemail,wyślij emaila z planami danuty na dziś,email_sendemail,1.0,1.0,True
+16406,pl-PL,email,email_sendemail,alexa napisz nowy email,email_sendemail,1.0,1.0,True
+16410,pl-PL,email,email_sendemail,utwórz email,email_sendemail,1.0,1.0,True
+16413,pl-PL,email,email_query,pokaż wszystkie maile od mojego szefa,email_sendemail,1.0,0.0,False
+16419,pl-PL,email,email_sendemail,wyślij email do wujka janka z informacją że dam radę,email_sendemail,1.0,1.0,True
+16427,pl-PL,email,email_query,jak dużo nowych maili dzisiaj otrzymałem,email_sendemail,1.0,0.0,False
+16430,pl-PL,email,email_sendemail,proszę wyślij mamie i tacie emaila z pytaniem jak się mają,email_sendemail,1.0,1.0,True
+16437,pl-PL,email,email_sendemail,wyślij ten email do przyjaciela,email_sendemail,1.0,1.0,True
+16438,pl-PL,email,email_sendemail,muszę wysłać ten email teraz,email_sendemail,1.0,1.0,True
+16446,pl-PL,email,email_query,proszę sprawdź najnowszą korespondencję od tego nadawcy,email_sendemail,0.997,0.0005,False
+16459,pl-PL,email,email_sendemail,nowa wiadomość do newmail małpa gmail kropka com,email_sendemail,1.0,1.0,True
+16461,pl-PL,email,email_query,czy mam jakieś nieodczytane maile,email_sendemail,1.0,0.0,False
+16467,pl-PL,email,email_query,czy mam jakieś nowe emaile od mojego kontaktu a.,email_sendemail,1.0,0.0,False
+16471,pl-PL,email,email_query,sprawdź maile od janka,email_sendemail,1.0,0.0,False
+16496,pl-PL,email,email_sendemail,odpowiedz na maila,email_sendemail,1.0,1.0,True
+16501,pl-PL,email,email_sendemail,proszę wyślij email do przyjaciela darka jak się masz,email_sendemail,1.0,1.0,True
+16506,pl-PL,email,email_sendemail,dodaj nowy adres email i wyślij wiadomość,email_sendemail,1.0,1.0,True
+16518,pl-PL,email,email_sendemail,dodaj nowy mail julii smith,email_sendemail,1.0,1.0,True
+16519,pl-PL,email,email_sendemail,muszę dodać nowy mail do moich kontaktów,email_sendemail,1.0,1.0,True
+16535,pl-PL,email,email_sendemail,czy możesz napisać maila do czesi,email_sendemail,1.0,1.0,True
+16559,pl-PL,email,email_sendemail,wyślij do michała odpowiedź czterysta trzydzieści na maila którego wysłał rankiem,email_sendemail,1.0,1.0,True
+16560,pl-PL,email,email_sendemail,odpowiedź na maila od moich szefów że będę o czwartej wieczorem,email_sendemail,1.0,1.0,True
+16563,pl-PL,email,email_query,sprawdź mój mail,email_sendemail,0.7679,0.2321,False
+16591,pl-PL,email,email_sendemail,właśnie dostałem email od billa na który natychmiast musze odpowiedzieć,email_sendemail,1.0,1.0,True
+16593,pl-PL,email,email_sendemail,ten ostatni email potrzebuje odpowiedzi a. s. a. p.,email_sendemail,0.9738,0.9738,True
+16603,pl-PL,email,email_query,jaka jest treść emaila od mamy sprzed trzydziestu minut,email_sendemail,1.0,0.0,False
+16605,pl-PL,email,email_sendemail,napisz i wyślij email do mojego szefa,email_sendemail,1.0,1.0,True
+16609,pl-PL,email,email_query,powiedz mi czy mam jakieś nowe nieprzeczytane emaile,email_sendemail,1.0,0.0,False
+16613,pl-PL,email,email_sendemail,wyślij maila do szefa mówiącego że się spóźnię,email_sendemail,1.0,1.0,True
+16622,pl-PL,email,email_sendemail,wyślij email do tego kontaktu,email_sendemail,1.0,1.0,True
+16624,pl-PL,email,email_sendemail,potrzebuję wysłać emaila do orange o moich problemach z usługą,email_sendemail,1.0,1.0,True
+16627,pl-PL,email,email_query,sprawdź najnowsze maile,email_sendemail,1.0,0.0,False
+16630,pl-PL,email,email_sendemail,wyślij odpowiedź na ostatni email,email_sendemail,1.0,1.0,True
+16642,pl-PL,email,email_query,sprawdź w poczcie czy jest cokolwiek od shelly,email_sendemail,1.0,0.0,False
+16648,pl-PL,email,email_query,proszę sprawdź dla mnie moje emaile,email_sendemail,0.9998,0.0002,False
+16652,pl-PL,email,email_query,czy mail od bartka miał załącznik,email_sendemail,1.0,0.0,False
+16662,pl-PL,email,email_query,czy dostałam jakieś nowe maile od daniela,email_sendemail,1.0,0.0,False
+16666,pl-PL,email,email_query,czy mam jakieś maile,email_sendemail,1.0,0.0,False
+16668,pl-PL,email,email_query,czy przyszły jakieś maile od czwartej dzisiaj,email_sendemail,1.0,0.0,False
+16669,pl-PL,email,email_query,czy dostałam email od pawła,email_sendemail,1.0,0.0,False
+16672,pl-PL,email,email_query,czy bartek się odzywał,social_post,0.995,0.0001,False
+16677,pl-PL,email,email_query,czy mam dziś jakieś nowe emaile w skrzynce odbiorczej,email_sendemail,1.0,0.0,False
+16698,pl-PL,email,email_sendemail,napisz odpowiedź na mail mojej mamy,email_sendemail,1.0,1.0,True
+16701,pl-PL,email,email_sendemail,chcę odpowiedzieć na email sary,email_sendemail,1.0,1.0,True
+16703,pl-PL,email,email_sendemail,chciałbym odpowiedzieć na ostatniego maila,email_sendemail,0.9997,0.9997,True
+16712,pl-PL,email,email_query,czy mam jakieś nowe maile,email_sendemail,1.0,0.0,False
+16713,pl-PL,email,email_query,proszę sprawdź moje emaile i powiadom mnie ja jest jakiś nowy email,email_sendemail,1.0,0.0,False
+16717,pl-PL,email,email_sendemail,czy możesz napisać email do jana że jestem na urlopie,email_sendemail,1.0,1.0,True
+16719,pl-PL,email,email_query,daj mi znać czy dostałam jakieś nowe maile,email_sendemail,1.0,0.0,False
+16729,pl-PL,email,email_sendemail,odpowiedz na mojego maila od roberta z informacją że zobaczę się z nimi jutro,email_sendemail,1.0,1.0,True
+16730,pl-PL,email,email_query,sprawdź nowy email od andrzeja,email_sendemail,1.0,0.0,False
+16733,pl-PL,email,email_query,pokaż mi ostatnie maile od amazona,recommendation_events,0.6905,0.0022,False
+16749,pl-PL,email,email_query,czy są do mnie jakieś nowe maile dzisiaj,email_sendemail,1.0,0.0,False
+16754,pl-PL,email,email_sendemail,dyktuj email,email_sendemail,1.0,1.0,True
+16758,pl-PL,email,email_query,czy są nowe maile od ostatniego czasu,email_sendemail,1.0,0.0,False
+16763,pl-PL,email,email_query,maile w ostatnich dziesięciu minutach,email_sendemail,1.0,0.0,False
+16765,pl-PL,email,email_query,jaka jest godzina wywiadu z wczorajszego maila,email_sendemail,0.8324,0.167,False
+16766,pl-PL,email,email_query,sprawdź nowego maila,email_sendemail,1.0,0.0,False
+16772,pl-PL,email,email_query,pokaż wszystkie maile o naruszeniu,email_sendemail,1.0,0.0,False
+16780,pl-PL,email,email_sendemail,wyślij email na juanpedro małpa gmail kropka com,email_sendemail,1.0,1.0,True
+16791,pl-PL,email,email_sendemail,stwórz nowy email na nowy adres rafal małpa onet kropka pl,email_sendemail,1.0,1.0,True
+16799,pl-PL,email,email_query,czy otrzymałem jakieś emaile od południa,email_sendemail,1.0,0.0,False
+16801,pl-PL,email,email_query,czy kasia przysłała jakieś maile o tomku,email_sendemail,1.0,0.0,False
+16813,pl-PL,email,email_query,zasygnalizuj dźwiękowo kiedy dostanę emaila od jana,email_sendemail,1.0,0.0,False
+16814,pl-PL,email,email_query,sprawdź maile,email_sendemail,1.0,0.0,False
+16838,pl-PL,email,email_sendemail,czy możesz wysłać email na nowy identyfikator email,email_sendemail,1.0,1.0,True
+16851,pl-PL,email,email_query,powiadomienia email,email_sendemail,1.0,0.0,False
+16859,pl-PL,email,email_query,co napisałem karolinie w moim ostatnim mailu,email_sendemail,1.0,0.0,False
+16872,pl-PL,email,email_sendemail,znajdź natalię w moich kontaktach i wyślij jej email,email_sendemail,1.0,1.0,True
+16873,pl-PL,email,email_sendemail,wyślij maila do natalii na jej urodziny,email_sendemail,1.0,1.0,True
+16880,pl-PL,email,email_sendemail,napisz maila do jurka na temat spotkania,email_sendemail,1.0,1.0,True
+16883,pl-PL,email,email_sendemail,wyślij do jurka email z pytaniem o której będzie w domu dziś wieczorem,email_sendemail,1.0,1.0,True
+16886,pl-PL,email,email_sendemail,odpowiedz na tego maila,email_sendemail,1.0,1.0,True
+16888,pl-PL,email,email_query,co z nowym mailem,email_sendemail,1.0,0.0,False
+16890,pl-PL,email,email_query,co pisze w nowym mailu,email_sendemail,1.0,0.0,False
+16891,pl-PL,email,email_sendemail,wyśli mail do jana nowaka,email_sendemail,1.0,1.0,True
+16892,pl-PL,email,email_sendemail,napisz maila do janka nowaka,email_sendemail,1.0,1.0,True
+16899,pl-PL,email,email_query,czy otrzymałem jakieś wiadomości od jana kowalskiego,social_post,0.9993,0.0,False
+16914,pl-PL,email,email_query,czy mam maile od tego nadawcy,email_sendemail,1.0,0.0,False
+16916,pl-PL,email,email_sendemail,odpowiedz na email który otrzymałem,email_sendemail,1.0,1.0,True
+16924,pl-PL,email,email_query,proszę sprawdź mój gmail pod kątem nowych maili,email_sendemail,0.9992,0.0008,False
+16930,pl-PL,email,email_query,pokaż ostatniego maila,email_sendemail,1.0,0.0,False
+16938,pl-PL,email,email_sendemail,odpowiedz na email janka,email_sendemail,1.0,1.0,True
+16944,pl-PL,email,email_sendemail,wyślij wiadomość do babci z wiadomością że wpadniemy w sobotę do zobaczenia,email_sendemail,0.9551,0.9551,True
+16947,pl-PL,email,email_sendemail,odpowiedź na email,email_sendemail,1.0,1.0,True
+16955,pl-PL,email,email_sendemail,mail do nowego kontaktu,email_sendemail,1.0,1.0,True
+16956,pl-PL,email,email_sendemail,wyślij email do nowego kontaktu,email_sendemail,1.0,1.0,True
+16961,pl-PL,email,email_sendemail,odpowiedz za pomocą,email_sendemail,0.9988,0.9988,True
+16974,pl-PL,email,email_query,sprawdź wszystkie nowe wiadomości z działu podatku dochodowego,news_query,0.9872,0.0007,False
+16987,pl-PL,email,email_query,czy jest jakiś nowy email od jana,email_sendemail,1.0,0.0,False
+16989,pl-PL,email,email_sendemail,odpowiedz na email jerzego pisząc potrzebuję pieniędzy teraz to pilna sprawa,email_sendemail,1.0,1.0,True
+16992,pl-PL,email,email_query,czy janina jagodzińska emailuje do mnie,email_sendemail,1.0,0.0,False
+16995,pl-PL,email,email_sendemail,wyślij email do dżesiki,email_sendemail,1.0,1.0,True
+17005,pl-PL,email,email_query,sprawdź nowe maile,email_sendemail,1.0,0.0,False
+17011,pl-PL,email,email_sendemail,czy możesz wysłać email do,email_sendemail,1.0,1.0,True
+17015,pl-PL,email,email_sendemail,odpowiedz,qa_factoid,0.9237,0.0074,False
+17019,pl-PL,email,email_sendemail,stwórz odpowiedź na ostatni email,email_sendemail,1.0,1.0,True
+17020,pl-PL,email,email_sendemail,odpowiedz na ostatniego otrzymanego maila,email_sendemail,1.0,1.0,True
+17023,pl-PL,email,email_sendemail,napisz mail do mamy i zapytaj jaka jest u nich pogoda,email_sendemail,1.0,1.0,True
+17042,pl-PL,email,email_sendemail,napisz email do jan małpa gmail kropka kom,email_sendemail,1.0,1.0,True
+17043,pl-PL,email,email_sendemail,wyślij maila do tomka na tim małpa hotmail dot com,email_sendemail,1.0,1.0,True
+17051,pl-PL,email,email_query,daj nowy email,email_sendemail,1.0,0.0,False
+17052,pl-PL,email,email_query,wyszukaj kasię,email_sendemail,0.5882,0.002,False
+17069,pl-PL,email,email_query,czy są jakieś nowe maile,email_sendemail,1.0,0.0,False
+17075,pl-PL,email,email_query,czy dzisiaj po czwartej przyszły jakieś nowe wiadomości,social_post,0.8994,0.0003,False
+17081,pl-PL,email,email_sendemail,stwórz email do mojego pracownika z ostatnio zapisanymi dokumentami,email_sendemail,1.0,1.0,True
+17087,pl-PL,email,email_query,sprawdź nowe emaile od sary,email_sendemail,1.0,0.0,False
+17098,pl-PL,email,email_query,pokaż mi wszystkie maile otrzymane w ciągu ostatniej godziny,email_sendemail,1.0,0.0,False
+17107,pl-PL,email,email_query,sprawdź nowe maile,email_sendemail,1.0,0.0,False
+17108,pl-PL,email,email_query,daj mi mój ostatni email,email_sendemail,1.0,0.0,False
+17113,pl-PL,email,email_sendemail,napisz maila do julii,email_sendemail,1.0,1.0,True
+17115,pl-PL,email,email_query,przeczytaj listę nowych maili,email_sendemail,1.0,0.0,False
+17116,pl-PL,email,email_query,pokaż listę ostatnich maili,email_sendemail,1.0,0.0,False
+17119,pl-PL,email,email_query,sprawdź wszystkie maile od amazona,email_sendemail,1.0,0.0,False
+17123,pl-PL,email,email_sendemail,wyślij email do wiceprezesa regionalnego,email_sendemail,1.0,1.0,True
+17135,pl-PL,email,email_query,jakieś nowe wiadomości o błyskawicach,news_query,0.4855,0.0038,False
+17136,pl-PL,email,email_query,odczytaj moje nowe emaile,email_sendemail,1.0,0.0,False
+17138,pl-PL,email,email_query,zarchiwizuj moje przeczytane wiadomości,email_sendemail,0.504,0.0076,False
+17142,pl-PL,email,email_query,co się pojawiło w mojej skrzynce odbiorczej odkąd sprawdzaliśmy ostatnio,news_query,0.4192,0.1692,False
+17143,pl-PL,email,email_sendemail,wyślij email do jana,email_sendemail,1.0,1.0,True
+17144,pl-PL,email,email_query,hej sprawdź pocztę,email_sendemail,0.9721,0.0273,False
+17147,pl-PL,email,email_sendemail,odpowiedz na mail pisząc hej ty,email_sendemail,1.0,1.0,True
+17148,pl-PL,email,email_sendemail,alexa odpowiedz na email pisząc hej ty,email_sendemail,1.0,1.0,True
+17151,pl-PL,email,email_sendemail,mój przyjaciel jan wysłał mi zaproszenie do swojego nowego domu wyślij mu mailem podziękowanie,email_sendemail,1.0,1.0,True
+17156,pl-PL,email,email_query,sprawdź moją pocztę czy mam jakieś nowe maile od józka,email_sendemail,1.0,0.0,False
+17157,pl-PL,email,email_query,czy mam jakiegoś nowego maila od jurka,email_sendemail,1.0,0.0,False
+17170,pl-PL,email,email_query,powiadom mnie kiedy napisze piotrek,cooking_recipe,0.6989,0.0015,False
+17179,pl-PL,email,email_query,czy jan wysłał mi mail,email_sendemail,1.0,0.0,False

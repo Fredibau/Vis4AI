@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,hy-AM,iot,iot_hue_lightoff,անահիտ անջատել ննջասենյակի լույսերը,iot_hue_lightoff,0.9927,0.9927,True
+47,hy-AM,datetime,datetime_query,ժամը քանիսն է australia,qa_factoid,0.834,0.1631,False
+85,hy-AM,datetime,datetime_query,ասա այսօրվա ամսաթիվը,datetime_query,0.6613,0.6613,True
+86,hy-AM,datetime,datetime_query,այսօր ամսի քանիսն է,datetime_query,0.9984,0.9984,True
+100,hy-AM,weather,weather_query,ինչպիսին է շաբաթվա եղանակի կանխատեսումը,play_podcasts,0.2148,0.0248,False
+102,hy-AM,weather,weather_query,ինչպիսին է այս շաբաթվա եղանակը,lists_query,0.1246,0.0503,False
+103,hy-AM,weather,weather_query,ասա այս շաբաթվա եղանակի մասին,qa_definition,0.1853,0.028,False
+128,hy-AM,datetime,datetime_query,ամսի քանիսն է,datetime_query,0.9763,0.9763,True
+151,hy-AM,play,play_music,խնդրում եմ նորից այն միացրու,calendar_remove,0.9246,0.0023,False
+177,hy-AM,news,news_query,ասա ինձ մի քանի բիզնես նորություններ,news_query,0.9164,0.9164,True
+178,hy-AM,news,news_query,ներկայացրու ինձ միջազգային նորությունները,news_query,0.9755,0.9755,True
+182,hy-AM,play,play_music,միացրու իմ ռոք երգացանկը,play_music,0.9896,0.9896,True
+185,hy-AM,play,play_music,միացրու իմ երգացանկը և միացրու երրորդ երգ հերթ,play_music,0.9986,0.9986,True
+197,hy-AM,datetime,datetime_query,ժամը քանիսն է,datetime_query,0.7131,0.7131,True
+216,hy-AM,weather,weather_query,ինչպիսին է եղանակն այսօր,play_music,0.493,0.0254,False
+219,hy-AM,weather,weather_query,անձրևանոց վերցնեմ վաղը,social_post,0.9065,0.0012,False
+220,hy-AM,play,play_music,միացրու երգ իմ ռոք ցուցակ,social_post,0.8363,0.1544,False
+250,hy-AM,play,play_music,ես հիմա ջազ եմ ուզում լսել դու ինչ կասես,play_music,0.99,0.99,True
+254,hy-AM,play,play_music,olly միացրու լավ ձայնագրություն իմ սիրելի ջազ նվագողից,social_post,0.95,0.0001,False
+279,hy-AM,weather,weather_query,ինչպիսին է այսօրվա եղանակի կանխատեսումը բեռլինի համար,cooking_recipe,0.1167,0.0344,False
+281,hy-AM,news,news_query,որն է ամն դոլարի փոխարժեքը ֆունտ ստերլինգին,qa_factoid,0.4389,0.011,False
+296,hy-AM,play,play_music,միացրու արամեի երգացանկը,social_post,0.5253,0.237,False
+297,hy-AM,play,play_music,խառնել քոլդփլեյ երգերը,play_music,0.9537,0.9537,True
+299,hy-AM,weather,weather_query,ինչպիսին է եղանակը,qa_factoid,0.5976,0.0111,False
+310,hy-AM,datetime,datetime_query,այս տարի ամանորն ինչ օր է,datetime_query,0.9487,0.9487,True
+319,hy-AM,weather,weather_query,ասա ինձ թե ինչ եղանակ է գյումրիում երկու օրից,weather_query,0.5281,0.5281,True
+329,hy-AM,play,play_music,ով սիրուն սիրուն,qa_factoid,0.9383,0.0,False
+333,hy-AM,weather,weather_query,եղանակային ինչ պայմաններ են եղեգնաձորում,qa_factoid,0.8587,0.0079,False
+334,hy-AM,weather,weather_query,ես ուզում եմ իմանալ եղանակը մեղրիում,qa_definition,0.9856,0.0,False
+344,hy-AM,weather,weather_query,վաղը անձրևային կլինի,weather_query,0.9498,0.9498,True
+348,hy-AM,weather,weather_query,վաղն անձրև է գալու,weather_query,0.9809,0.9809,True
+355,hy-AM,datetime,datetime_query,շաբաթվա ինչ օր է ապրիլի մեկը,datetime_query,0.7905,0.7905,True
+360,hy-AM,datetime,datetime_query,ժամը քանիսն է,datetime_query,0.7131,0.7131,True
+362,hy-AM,play,play_music,միացրու շարլ ազնավուրի երգերից երկրորդ երգը,social_post,0.8298,0.0028,False
+366,hy-AM,news,news_query,պատմիր ինձ վերջին նորությունները,play_music,0.8008,0.1406,False
+369,hy-AM,iot,iot_hue_lightoff,անջատել լույսեր,iot_hue_lightoff,0.974,0.974,True
+385,hy-AM,news,news_query,ինչ սենսացիոն է թայմ օֆ ինդիա,qa_definition,0.5332,0.0015,False
+391,hy-AM,play,play_music,միացրու պատահական երգ իմ երգացանկ,play_music,0.9998,0.9998,True
+393,hy-AM,play,play_music,միացրու ռետրո երգ իմ երգացանկ,play_music,0.9977,0.9977,True
+397,hy-AM,play,play_music,նվագիր ցանկացած երգ արամոյի կատարմամբ,qa_factoid,0.9993,0.0002,False
+400,hy-AM,play,play_music,սկսիր,play_music,0.9826,0.9826,True
+407,hy-AM,play,play_music,կարող ես միացնել ռոք ամբողջ հաջորդ ժամը,calendar_remove,0.9469,0.0006,False
+424,hy-AM,news,news_query,որոնք են վերջին լուրերը,news_query,0.999,0.999,True
+427,hy-AM,iot,iot_hue_lightoff,անջատել լոգասենյակ լույսեր,lists_remove,0.5621,0.4235,False
+428,hy-AM,iot,iot_hue_lightoff,անջատել լոգասենյակ լույսեր,lists_remove,0.5621,0.4235,False
+430,hy-AM,weather,weather_query,ինչպիսին է եղանակը հիմա,qa_factoid,0.6632,0.0107,False
+437,hy-AM,play,play_music,բացիր վատ կրոն թղթապանակ,cooking_recipe,0.7495,0.0135,False
+441,hy-AM,news,news_query,որոնք են նորությունների վերջին վերնագրերը,news_query,0.6289,0.6289,True
+442,hy-AM,news,news_query,ինչ է կատարվում լուրերում,news_query,0.9954,0.9954,True
+451,hy-AM,news,news_query,ինձ ասա վեգայի բաժնետոմսերի գնի վերջին նորության մասին,play_music,0.0621,0.0475,False
+473,hy-AM,play,play_music,միացրու քամին,email_sendemail,0.148,0.0706,False
+486,hy-AM,datetime,datetime_query,ժամը քանիսն է երևանում,qa_factoid,0.9983,0.0016,False
+491,hy-AM,weather,weather_query,դրսում ցուրտ է,play_music,1.0,0.0,False
+506,hy-AM,play,play_music,բաց էմմիի երգերը,play_music,0.6109,0.6109,True
+512,hy-AM,weather,weather_query,ֆորշից,qa_factoid,0.9896,0.0003,False
+540,hy-AM,play,play_music,միացրու այն երգը որը երգում է սոֆի մխեյանը,play_music,0.9985,0.9985,True
+555,hy-AM,play,play_music,միացրու նեմրա նարե,social_post,0.5965,0.0076,False
+576,hy-AM,play,play_music,միացրու բոլորը իմ երգացանկից,social_post,0.6988,0.0145,False
+585,hy-AM,news,news_query,ցույց տալ վերջին նորությունները,news_query,0.9732,0.9732,True
+588,hy-AM,news,news_query,ինչ նորնորություններ կա այսօր,news_query,0.9899,0.9899,True
+590,hy-AM,weather,weather_query,ինչպիսին է եղանակը հիմա,qa_factoid,0.6632,0.0107,False
+614,hy-AM,play,play_music,միացրու երգացանկը,play_music,0.8473,0.8473,True
+625,hy-AM,play,play_music,միացրու սիրուշո,social_post,0.9696,0.007,False
+631,hy-AM,news,news_query,սահմանել ծանուցում դակոտա խողովակաշարի մասին նորությունների համար,email_sendemail,0.9977,0.0001,False
+651,hy-AM,iot,iot_hue_lightoff,անջատել սենյակ լույսեր,iot_hue_lightoff,0.9717,0.9717,True
+660,hy-AM,datetime,datetime_query,ճապոնիա ժամը քանիսն է,qa_factoid,0.7731,0.1989,False
+680,hy-AM,news,news_query,ինձ տեղյակ պահիր բիթքոյնի գնի մասին,email_sendemail,1.0,0.0,False
+686,hy-AM,datetime,datetime_query,new york ժամը քանիսն է,datetime_query,0.9917,0.9917,True
+712,hy-AM,news,news_query,ես ուզում եմ լսել վերջին լուրերը սի էն էն-ից,play_podcasts,0.907,0.0849,False
+726,hy-AM,weather,weather_query,ամփոփիր շաբաթվա եղանակային տվյալները,iot_hue_lightoff,0.3833,0.0313,False
+730,hy-AM,iot,iot_hue_lightoff,անջատել լույսեր,iot_hue_lightoff,0.974,0.974,True
+738,hy-AM,weather,weather_query,ինչքան ցուրտ է այսօր դրսում,weather_query,0.989,0.989,True
+764,hy-AM,weather,weather_query,ինչ եղանակ է կանխատեսվում այս շաբաթվա համար,qa_factoid,0.3881,0.0192,False
+765,hy-AM,news,news_query,կարող ես ինձ տալ վերջին նորությունների վերնագրերը իմ նոր մատակարարից,email_sendemail,0.6942,0.0033,False
+767,hy-AM,news,news_query,կարող եք ինձ գտնել վերջին նորությունները մի աղբյուրից որտեղից ես սովորաբար չեմ օգտվում,recommendation_events,0.3462,0.0123,False
+768,hy-AM,news,news_query,պատմիր քաղաքական վերջին նորությունների մասին,social_post,0.717,0.0246,False
+779,hy-AM,play,play_music,ուզում եմ լսել սիրուշոի շորորան,play_music,0.9968,0.9968,True
+781,hy-AM,play,play_music,միացրու աշուն է հիման,email_sendemail,0.1766,0.1116,False
+782,hy-AM,play,play_music,միացրու մալենայի քամի քամին,email_sendemail,0.5665,0.0184,False
+783,hy-AM,play,play_music,միացրու սիրային երգեր,social_post,0.9635,0.0058,False
+790,hy-AM,weather,weather_query,մեղմ թե մռայլ եղանակ է,qa_definition,0.8216,0.0011,False
+826,hy-AM,weather,weather_query,հիմա դրսում ջերմաստիճանն ինչքան է,iot_hue_lightoff,0.6583,0.336,False
+827,hy-AM,play,play_music,նվագիր ռազմիկ ամյանի երգացանկը,email_sendemail,1.0,0.0,False
+832,hy-AM,weather,weather_query,հեյ ինչ եղանակ է կանխատեսված վաղվա համար,qa_factoid,0.5843,0.0114,False
+837,hy-AM,news,news_query,որոնք են բի բի սի-ի հարցումների կանխատեսումներ առաջիկա միացյալ նահանգների ընտրությունների վերաբերյալ,news_query,0.9705,0.9705,True
+891,hy-AM,play,play_music,միացրու որևէ հոգևոր երաժշտություն,play_music,0.9882,0.9882,True
+914,hy-AM,iot,iot_hue_lightoff,խնդրում եմ անջատել լույսեր,iot_hue_lightoff,0.755,0.755,True
+936,hy-AM,play,play_music,բացիր և նվագիր երաժշտություն իմ վազքի երգացանկից,play_music,1.0,1.0,True
+951,hy-AM,weather,weather_query,ինչ եղանակ է հենց հիմա հրազդանում,qa_factoid,0.5901,0.008,False
+969,hy-AM,news,news_query,լրատվական հոդվածներ որոշակի թեմայի վերաբերյալ,recommendation_events,0.5219,0.0099,False
+974,hy-AM,datetime,datetime_query,ժամը քանիսն է երևանում հիմա,qa_factoid,0.9178,0.079,False
+997,hy-AM,iot,iot_hue_lightoff,անջատել հյուրասենյակի լույսերը,iot_hue_lightoff,0.9997,0.9997,True
+999,hy-AM,iot,iot_hue_lightoff,կարող ես անջատել լույս,iot_hue_lightoff,0.6227,0.6227,True
+1007,hy-AM,play,play_music,միացրու նեմրան իմ ռոք երգացանկից,play_music,0.6846,0.6846,True
+1014,hy-AM,datetime,datetime_query,լոնդոն ժամը քանիսն է հենց հիմա,datetime_query,0.9596,0.9596,True
+1047,hy-AM,play,play_music,ես ուզում եմ լաց լինել կարող ես միացնել տխուր ռոք երգեր,lists_remove,0.3046,0.0512,False
+1061,hy-AM,news,news_query,տեղեկացրու ինձ սպորտային նորությունների մասին,email_sendemail,0.9951,0.0022,False
+1063,hy-AM,news,news_query,ստանալ ամենժամյա ծանուցում սպորտային նորությունների մասին,news_query,0.5849,0.5849,True
+1084,hy-AM,news,news_query,օգտագործողի համար հարմար,qa_factoid,0.9908,0.0001,False
+1093,hy-AM,news,news_query,գնացեք վաշինգտոն փոստի կայք,social_post,0.9437,0.0014,False
+1098,hy-AM,datetime,datetime_query,շաբաթվա ինչ օր է ընկնում մարտի տասնհինգը,weather_query,0.9158,0.0787,False
+1108,hy-AM,play,play_music,իմ ցանկություն լսել մի քիչ կանտրի երաժշտություն,play_music,0.9999,0.9999,True
+1115,hy-AM,play,play_music,համակարգիր բոլոր փոփ երգերի ժանրերը,iot_hue_lightoff,0.4166,0.0532,False
+1120,hy-AM,news,news_query,քաղաքականության մեջ ինչ որ հատուկ նորություն կա,play_podcasts,0.1658,0.1026,False
+1121,hy-AM,play,play_music,նվագիր արամեի մայրիկը,email_sendemail,0.9821,0.0,False
+1123,hy-AM,play,play_music,հաջորդը դիր արամեյի մայրիկը,qa_factoid,0.2244,0.0255,False
+1124,hy-AM,play,play_music,պատրաստիր որ հաջորդը միանա սիրուշոյի սիրում եմ միայն քեզը,social_post,0.9885,0.0003,False
+1127,hy-AM,play,play_music,խառը նվագարկել բոլոր երգերը,qa_factoid,0.9546,0.0005,False
+1144,hy-AM,play,play_music,ինձ պետք է ռեփ,qa_factoid,0.9999,0.0,False
+1148,hy-AM,datetime,datetime_query,երևանում հիմա ժամը քանիսն է,datetime_query,0.8148,0.8148,True
+1156,hy-AM,news,news_query,վերջին նորությունը կանանց միջազգային օրվա մասին,news_query,0.9536,0.9536,True
+1160,hy-AM,weather,weather_query,այս շաբաթ ամեն գիշեր ինչքանով է ցրտելու,lists_query,0.2894,0.06,False
+1180,hy-AM,news,news_query,գտեք այսօրվա վափոի հոդվածները թրամփի մասին,lists_query,0.6532,0.12,False
+1202,hy-AM,datetime,datetime_query,երևանի ընթացիկ ժամը,datetime_query,0.6381,0.6381,True
+1238,hy-AM,play,play_music,pandora,qa_factoid,0.1403,0.0391,False
+1249,hy-AM,weather,weather_query,այս շաբաթվա հավանական եղանակը որն է,email_sendemail,0.8308,0.0002,False
+1252,hy-AM,datetime,datetime_query,ասա հիմա ժամը քանիսն է,datetime_query,0.9941,0.9941,True
+1294,hy-AM,news,news_query,արագ ինձ ակադեմիայի մրցանակների մասին լուրերը,news_query,0.9355,0.9355,True
+1301,hy-AM,news,news_query,պատմիր ինձ թրամփի նոր արտաքին քաղաքականության մասին,social_post,0.8065,0.0044,False
+1308,hy-AM,weather,weather_query,ստացեք այսօրվա կլիմայի կանխատեսումը այստեղ,iot_hue_lightoff,0.748,0.004,False
+1318,hy-AM,play,play_music,բացիր երաժշտություն հավելվածը և միացրու ինձ համար երգ,play_music,0.9999,0.9999,True
+1351,hy-AM,weather,weather_query,հաճելի կլինի դրսում այս շաբաթ,iot_hue_lightoff,0.2963,0.0192,False
+1371,hy-AM,news,news_query,ինչ ունենք նյու յորք թայմսի առաջին էջում,lists_query,0.4586,0.1192,False
+1377,hy-AM,iot,iot_hue_lightoff,իմ տղայի սենյակի լույսերը անջատել,iot_hue_lightoff,0.9992,0.9992,True
+1400,hy-AM,weather,weather_query,ես հիմնականում ուշադրություն եմ դարձնում,qa_factoid,0.4072,0.0215,False
+1401,hy-AM,weather,weather_query,ես հազվադեպ եմ ուշադրություն դարձնում,qa_factoid,0.8029,0.0016,False
+1404,hy-AM,weather,weather_query,խնդրում եմ ասել վաղվա եղանակն այստեղ կոստա մեսայում,social_post,0.4566,0.0072,False
+1423,hy-AM,news,news_query,պատմիր ինձ թրամփի մասին,social_post,0.749,0.0021,False
+1425,hy-AM,news,news_query,տեղեկացրեք ինձ երբ լսեք ֆրանսիայի մասին,play_podcasts,0.931,0.0004,False
+1440,hy-AM,play,play_music,միացրու ամենավերջին ռոք երգերը որոնք ունեն չորս կամ ավելի բարձր վարկանիշ,recommendation_events,0.4345,0.0192,False
+1449,hy-AM,datetime,datetime_query,երկու հազար տասնութ թվականին զատիկը երբ է,weather_query,0.5494,0.1891,False
+1458,hy-AM,weather,weather_query,որքան շոգ է երևանում,social_post,0.8524,0.0021,False
+1467,hy-AM,play,play_music,միացրու սլեյր,play_music,0.3626,0.3626,True
+1474,hy-AM,news,news_query,որոնք են այսօրվա սպորտային նորությունները,news_query,0.9988,0.9988,True
+1489,hy-AM,play,play_music,միացրու dalida-ի ամենավերջին երգերը,social_post,0.3505,0.2125,False
+1513,hy-AM,weather,weather_query,ինչպիսին է ջերմաստիճանը դրսում,weather_query,0.9709,0.9709,True
+1533,hy-AM,news,news_query,ինչ նորություններ կան այսօր ժամանակ օրաթերթում,news_query,0.8799,0.8799,True
+1537,hy-AM,datetime,datetime_query,ցույց տուր գերմանիա ժամը,datetime_query,0.7381,0.7381,True
+1542,hy-AM,weather,weather_query,արևը շողում է պայծառ մենք կունենանք այս եղանակը մնացած օրվա համար,qa_factoid,0.4204,0.3481,False
+1546,hy-AM,play,play_music,միացրու իմ ամառվա երգերը,play_music,0.6832,0.6832,True
+1547,hy-AM,weather,weather_query,ինչ եղանակ է այս շաբաթ իմ գտնվելու վայրում,cooking_recipe,0.34,0.0241,False
+1549,hy-AM,weather,weather_query,այս շաբաթ անձրև գալու է,weather_query,0.637,0.637,True
+1554,hy-AM,iot,iot_hue_lightoff,անջատել լամպեր,lists_remove,0.3191,0.3047,False
+1581,hy-AM,datetime,datetime_query,ասա ինձ ներկայիս օրը ամիսը տարին,datetime_query,0.8432,0.8432,True
+1589,hy-AM,weather,weather_query,արևոտ կլինի մյուս երեքշաբթի,weather_query,0.9985,0.9985,True
+1593,hy-AM,news,news_query,սահմանել ծանուցում համաշխարհային նորություններից,iot_hue_lightoff,0.482,0.0103,False
+1594,hy-AM,news,news_query,կարող եք ասել ինձ վերջին նորությունները,news_query,0.8815,0.8815,True
+1607,hy-AM,datetime,datetime_query,ասա ինձ los angels ժամը,datetime_query,0.4679,0.4679,True
+1617,hy-AM,news,news_query,երբ քաղաքականության մասին նոր թեմա է ծագում զգուշացրու ինձ,iot_hue_lightoff,0.2289,0.0472,False
+1636,hy-AM,news,news_query,ցույց տուր ինձ գարդիանի վերջին նորությունները,news_query,0.8968,0.8968,True
+1653,hy-AM,weather,weather_query,երբ է հաջորդ անգամ անձրև գալու,weather_query,0.8392,0.8392,True
+1655,hy-AM,weather,weather_query,վաղը կեսօրին ձյուն կգա,weather_query,0.6224,0.6224,True
+1666,hy-AM,news,news_query,այնքան մաքուր նորություններ վերջին վեց ժամվա ընթացքում ահա թե ինչ,news_query,0.9278,0.9278,True
+1671,hy-AM,play,play_music,միացրու միայն հազար ինը հարյուր իննսուն և երկու հազար թվակնների միջև ստեղծված բոլոր երգերը,recommendation_events,0.1437,0.0381,False
+1683,hy-AM,weather,weather_query,վաղվա ջերմաստիճանը շոգ է լինելու այո թե ոչ,weather_query,0.8087,0.8087,True
+1684,hy-AM,weather,weather_query,այո կամ ոչ վաղվա ջերմաստիճանը պետք է շոգ լինի,iot_hue_lightoff,0.842,0.1545,False
+1692,hy-AM,play,play_music,գտիր ինձ համար որևէ հարթ ջազ,recommendation_events,0.8072,0.0001,False
+1722,hy-AM,weather,weather_query,որքան է վանաձորի ամենացածր ջերմաստիճանը,iot_hue_lightoff,0.9504,0.0111,False
+1750,hy-AM,iot,iot_hue_lightoff,անջատել բոլոր լույսեր,iot_hue_lightoff,0.9912,0.9912,True
+1759,hy-AM,news,news_query,ինձ նորություններ տվեք նախագահ թրամփի մասին,news_query,0.9892,0.9892,True
+1760,hy-AM,news,news_query,ահաբեկչության մասին վերջին նորությունները,news_query,0.5011,0.5011,True
+1777,hy-AM,play,play_music,հաջորդ երգը,qa_factoid,0.9868,0.0,False
+1784,hy-AM,iot,iot_hue_lightoff,ճաշասենյակ լույսեր անջատել,iot_hue_lightoff,0.995,0.995,True
+1786,hy-AM,iot,iot_hue_lightoff,անջատել վարպետի ննջասենյակ,calendar_remove,0.6349,0.0205,False
+1794,hy-AM,news,news_query,փաշինյանը մոտակա օրերս կայցելի ռուսաստան,weather_query,0.9823,0.0002,False
+1796,hy-AM,datetime,datetime_query,այսօր ամսի քանիսն է,datetime_query,0.9984,0.9984,True
+1803,hy-AM,news,news_query,որ թիմերն են այսօր խաղում պրեմյեր լիգայում,social_post,0.8126,0.0036,False
+1811,hy-AM,play,play_music,բացիր երգացանկը և դիր երաժշտություն,play_music,0.9999,0.9999,True
+1832,hy-AM,play,play_music,միացրու ռեինկարնացիայի ալբոմը,qa_factoid,0.3183,0.0221,False
+1833,hy-AM,play,play_music,կարող ես փակել երգացանկի թեմաները,iot_hue_lightoff,0.421,0.0159,False
+1866,hy-AM,weather,weather_query,եղանակի հաշվետվություն հիմա,qa_factoid,0.9381,0.002,False
+1870,hy-AM,datetime,datetime_query,որ ամիսն է այսօր,email_sendemail,0.5934,0.0457,False
+1904,hy-AM,news,news_query,գտիր ինձ համար հանդիպման կարևորագույն պահերը,lists_remove,0.9938,0.0001,False
+1933,hy-AM,weather,weather_query,մինչև այսօր երեկոյան գիշեր ջերմաստիճանը կնվազի,weather_query,0.7638,0.7638,True
+1940,hy-AM,play,play_music,ասա երգի վերնագիրը,qa_factoid,0.9868,0.0008,False
+1962,hy-AM,play,play_music,բարև գուգլ նվագարկիր ժողովրդական երգերի երգացանկը իմ էմ պե տրի երաժշտական հավելվածում,email_sendemail,1.0,0.0,False
+1994,hy-AM,play,play_music,կարող ես բացել իմ այ թյունսը,iot_hue_lightoff,0.9876,0.0002,False
+1995,hy-AM,play,play_music,ռեինկարնացիա խաղարկիր,cooking_recipe,0.9644,0.0003,False
+2007,hy-AM,play,play_music,խնդրում եմ նվագիր գնչուհին,social_post,0.8884,0.0,False
+2062,hy-AM,play,play_music,ուզում եմ ինչ որ ջազային երաժշտություն,play_music,0.9184,0.9184,True
+2085,hy-AM,play,play_music,լուսինե ես կցանկանայի լսել ցանկացած դասական երաժշտություն բացի կոմիտասից կամ խաչատրյանից,play_music,0.9997,0.9997,True
+2098,hy-AM,news,news_query,ինչ է կատարվում այս օրերին աշխարհում,weather_query,0.9718,0.0029,False
+2108,hy-AM,play,play_music,հաջորդը դիր ամառ է,email_sendemail,0.9981,0.0,False
+2113,hy-AM,recommendation,recommendation_events,պատմիր ինձ հայրենի քաղաքի բոլոր ընթացիկ իրադարձությունները,email_sendemail,0.6747,0.0071,False
+2146,hy-AM,datetime,datetime_query,որն է տոլմայի փառատոնի ամսաթիվը երկու տարի անց,datetime_query,0.5129,0.5129,True
+2156,hy-AM,datetime,datetime_query,ինձ հենց հիմա պետք է իմանալ ժամը,qa_factoid,0.5176,0.1902,False
+2160,hy-AM,iot,iot_hue_lightoff,հիմա ես գնում եմ քնելու,calendar_remove,0.308,0.1067,False
+2178,hy-AM,weather,weather_query,ինչպես է այժմ եղանակը իմ գտնվելու վայրում,qa_factoid,0.5631,0.3793,False
+2198,hy-AM,datetime,datetime_query,շաբաթվա ինչ օր է եղել դեկտեմբերի քսանչորսը հազար ինը հարյուր ութսուներկու թվականին,weather_query,0.818,0.1626,False
+2201,hy-AM,news,news_query,սի էն էն-ի վերնագրերը,email_query,0.9999,0.0,False
+2203,hy-AM,news,news_query,բի բի սի աշխարհի վերնագրերը,email_query,0.9723,0.0003,False
+2220,hy-AM,weather,weather_query,եղանակը երևանում,qa_factoid,1.0,0.0,False
+2225,hy-AM,play,play_music,միացրու լիլիթ կարապետյանի ժամանակին,social_post,0.1399,0.0472,False
+2230,hy-AM,iot,iot_hue_lightoff,անջատել խոհանոց լույս,iot_hue_lightoff,0.985,0.985,True
+2237,hy-AM,news,news_query,կարդացեք ինձ վերջին միջազգային նորությունները,news_query,0.9989,0.9989,True
+2258,hy-AM,weather,weather_query,ինձ սվիտեր պետք է այսօր,iot_hue_lightoff,0.9698,0.0038,False
+2265,hy-AM,weather,weather_query,ասա ինձ թե ինչ եղանակ է հիմա գորիսում,qa_factoid,0.6206,0.0005,False
+2271,hy-AM,play,play_music,խնդրում եմ միացրու երգեր որոնք ես գնել եմ և լսում եմ,recommendation_events,0.9989,0.0001,False
+2296,hy-AM,news,news_query,ինձ տեղյակ պահիր այսօրվա են բի էյ-ի հաշիվներից,email_sendemail,1.0,0.0,False
+2298,hy-AM,iot,iot_hue_lightoff,հիմա անջատել լույսեր,iot_hue_lightoff,0.9892,0.9892,True
+2315,hy-AM,news,news_query,ինչ նորություններ կան այսօր,news_query,0.9871,0.9871,True
+2316,hy-AM,news,news_query,ալեքսա ասա նորությունների վերնագրերը,news_query,0.9472,0.9472,True
+2320,hy-AM,weather,weather_query,ինչպիսի եղանակ է լինելու այս ուրբաթ,social_post,0.1913,0.0288,False
+2322,hy-AM,weather,weather_query,ինչ եղանակ է սպասվում վաղը,qa_factoid,0.9861,0.0002,False
+2330,hy-AM,datetime,datetime_query,հենց հիմա ներկայացրու լոնդոն տեղական ժամը,qa_factoid,0.9981,0.0007,False
+2384,hy-AM,news,news_query,ինչ է կատարվում ամբողջ աշխարհում,qa_factoid,0.9192,0.0185,False
+2386,hy-AM,news,news_query,տվեք ինձ վերջին նորությունները,news_query,0.9991,0.9991,True
+2396,hy-AM,play,play_music,միացնել սիրուշոյի երգերը,play_music,0.9965,0.9965,True
+2408,hy-AM,play,play_music,փնտրել ավելի երգեր նվագախմբից,recommendation_events,0.9958,0.0003,False
+2412,hy-AM,datetime,datetime_query,կարող ես ասել ինձ london ժամը,email_sendemail,0.6725,0.1807,False
+2423,hy-AM,weather,weather_query,խնդրում եմ հրազդանի այսօրվա եղանակի տեսությունը տուր,qa_factoid,0.6125,0.0138,False
+2438,hy-AM,news,news_query,ուղարկել տեխնոլոգիական նորություններ,news_query,0.9862,0.9862,True
+2441,hy-AM,iot,iot_hue_lightoff,անջատել տարածվող լույս,iot_hue_lightoff,0.8807,0.8807,True
+2472,hy-AM,datetime,datetime_query,իմ գտնվելու վայրի ժամը ճիշտ է,weather_query,0.6989,0.2697,False
+2496,hy-AM,news,news_query,ամենօրյա լուրեր,news_query,0.9968,0.9968,True
+2497,hy-AM,datetime,datetime_query,այսօր ամսի քանիսն է,datetime_query,0.9984,0.9984,True
+2498,hy-AM,datetime,datetime_query,աննա այսօր ամսի քանիսն է,datetime_query,0.988,0.988,True
+2527,hy-AM,play,play_music,դասական ռոք միացրու,social_post,0.8883,0.007,False
+2531,hy-AM,play,play_music,alexa մեկը մյուսի հետևից միացրու ռեփ և ռոք երգեր,recommendation_events,0.9316,0.0008,False
+2545,hy-AM,weather,weather_query,ինչպիսի եղանակ է,qa_definition,0.6623,0.0044,False
+2548,hy-AM,news,news_query,ինչ որ հետաքրքիր բան բոբի նորություններից,news_query,0.8604,0.8604,True
+2560,hy-AM,play,play_music,պատահական մի երգ դիր,qa_factoid,0.9283,0.0633,False
+2573,hy-AM,play,play_music,միացրու իմ spotify պարային երգացանկը,play_music,0.9979,0.9979,True
+2578,hy-AM,iot,iot_hue_lightoff,պատշգամբ լույս անջատել,iot_hue_lightoff,0.5121,0.5121,True
+2588,hy-AM,news,news_query,խնդրում եմ ինչ են սի էն էն-ի վերջին նորությունները,news_query,0.4611,0.4611,True
+2594,hy-AM,news,news_query,պատմիր ինձ բնապահպանական վերջին նորությունների մասին,social_post,0.4789,0.0082,False
+2605,hy-AM,play,play_music,նվագիր իմ սիրելի երաժշտությունը հիմա,play_music,0.6144,0.6144,True
+2611,hy-AM,weather,weather_query,ընթացիկ եղանակի կանխատեսում,iot_hue_lightoff,0.3654,0.0192,False
+2615,hy-AM,weather,weather_query,հաջորդ չորեքշաբթի բաճկոն հագնեմ,iot_hue_lightoff,0.4058,0.0121,False
+2638,hy-AM,news,news_query,ցույց տուր ինձ սարգսյանի մասին լուրերը,social_post,0.7979,0.1635,False
+2639,hy-AM,news,news_query,ցույց տուր ինձ նորություններ շրջակա միջավայրի մասին,social_post,0.9618,0.0305,False
+2651,hy-AM,news,news_query,վերջին նորությունները տարածքից,news_query,0.9855,0.9855,True
+2678,hy-AM,weather,weather_query,այս գիշեր անձրև կգա,weather_query,0.9847,0.9847,True
+2679,hy-AM,weather,weather_query,ջերմաստիճանը մոտավոր նույնն է մնալու թե ավելի է ցրտելու,weather_query,0.7321,0.7321,True
+2703,hy-AM,play,play_music,խնդրում ենք նվագարկել ժողովրդական երաժշտություն,iot_hue_lightoff,0.5915,0.0099,False
+2704,hy-AM,play,play_music,արի լսենք որևէ հնդկական ռոք,play_music,1.0,1.0,True
+2708,hy-AM,play,play_music,olly ես պարել եմ ուզում ինձ համար լամբադա միացրու,recommendation_events,0.9743,0.0075,False
+2709,hy-AM,play,play_music,օլի ես ցանկանում եմ տխուր երգեր լսել այսօր,play_music,0.9977,0.9977,True
+2711,hy-AM,iot,iot_hue_lightoff,անջատել լույսեր,iot_hue_lightoff,0.974,0.974,True
+2717,hy-AM,play,play_music,ես ուզում եմ լսել երևանի սիրուն աղջիկ,social_post,0.7329,0.241,False
+2724,hy-AM,news,news_query,ինձ սի էն էն-ի նորություններ տվեք,social_post,0.8237,0.0175,False
+2770,hy-AM,play,play_music,olly նվագել երաժշտություն ջազ ժանր,play_music,0.4699,0.4699,True
+2774,hy-AM,iot,iot_hue_lightoff,անջատել լույսեր,iot_hue_lightoff,0.974,0.974,True
+2775,hy-AM,iot,iot_hue_lightoff,դադարեցնել լույսեր օգտագործումը,lists_remove,0.9044,0.0475,False
+2777,hy-AM,weather,weather_query,այսօր ինձ հովանոց պետք է,social_post,0.8613,0.0009,False
+2781,hy-AM,play,play_music,խնդրում եմ միացրու որևէ ջազ երաժշտություն,play_music,0.4463,0.4463,True
+2798,hy-AM,play,play_music,ալեքսա միացրու ծիածանի վրայով երգ,social_post,0.4181,0.1904,False
+2801,hy-AM,datetime,datetime_query,london ժամը քանիսն է,qa_factoid,0.8097,0.1707,False
+2824,hy-AM,datetime,datetime_query,դեկտեմբերի տասներեքը ինչ օր է,weather_query,0.531,0.4642,False
+2840,hy-AM,datetime,datetime_query,հարիսայի փառատոնը որ օրն է,datetime_query,0.5839,0.5839,True
+2859,hy-AM,datetime,datetime_query,նանե այս քաղաքում ժամը քանիսն է,datetime_query,0.9777,0.9777,True
+2887,hy-AM,news,news_query,խնդրում եմ առավոտյան նորություններում ցույց տվեք եղանակի հետ կապված ցանկացած հոդված,lists_remove,0.4347,0.0219,False
+2890,hy-AM,weather,weather_query,եղանակը հիմա,qa_factoid,0.9985,0.0,False
+2898,hy-AM,news,news_query,ընտրությունների հետ կապված ինչ որ թարմացումներ կան,recommendation_events,0.2181,0.0475,False
+2914,hy-AM,datetime,datetime_query,ասա ինձ այսօրվա ամսաթիվը,datetime_query,0.6181,0.6181,True
+2917,hy-AM,weather,weather_query,եղանակի շաբաթական հաշվետվություն,qa_factoid,0.3572,0.0212,False
+2921,hy-AM,news,news_query,ինչ նորություններ կան ազատության կայքում,news_query,0.7469,0.7469,True
+2927,hy-AM,datetime,datetime_query,երևանում ժամը քանիսն է,datetime_query,0.7859,0.7859,True
+2931,hy-AM,play,play_music,միացրու վերևի հաջորդը,iot_hue_lightoff,0.579,0.0067,False
+2962,hy-AM,play,play_music,խնդրում եմ միացրու ռազմիկ ամյանի երգը,recommendation_events,0.7522,0.0453,False
+2965,hy-AM,iot,iot_hue_lightoff,անջատել գրասենյակ լույսեր,lists_remove,0.645,0.3345,False
+3002,hy-AM,play,play_music,միացրու սուջյանի երգերը,recommendation_events,0.461,0.2823,False
+3031,hy-AM,play,play_music,ուզում եմ երգը կրկին միացնել,calendar_remove,0.5194,0.1405,False
+3034,hy-AM,weather,weather_query,ջերմաստիճանն ասա,weather_query,0.4575,0.4575,True
+3037,hy-AM,news,news_query,առաջին էջի նորությունների հոդվածները խնդրում եմ,email_sendemail,0.9753,0.0181,False
+3039,hy-AM,news,news_query,ինչ նորություններ կան նորություններում,qa_factoid,0.5957,0.0185,False
+3060,hy-AM,news,news_query,ինչ նորություն կա այդ նոր աղբյուրից,lists_query,0.1116,0.0889,False
+3091,hy-AM,datetime,datetime_query,խաղաղօվկիանոսյան ժամային գոտով հիմա ժամը քանիսն է,datetime_query,0.8321,0.8321,True
+3096,hy-AM,weather,weather_query,ինչպես է եղանակը նյու ջերսիում,qa_definition,0.6993,0.0002,False
+3098,hy-AM,iot,iot_hue_lightoff,լույսեր անջատել,lists_remove,0.5989,0.2253,False
+3099,hy-AM,news,news_query,ցույց տվեք մի քանի ընթացիկ իրադարձություններ,qa_factoid,0.7677,0.0056,False
+3101,hy-AM,news,news_query,օլի միացրեք լուրերը,play_podcasts,0.8554,0.1126,False
+3116,hy-AM,play,play_music,անցյալ տարվա իմ սիրելի երգը միացրու,recommendation_events,0.9931,0.001,False
+3117,hy-AM,play,play_music,որևէ բան միացրու ռեինկարնացիա էլի լավա ալբոմից,recommendation_events,0.4094,0.0081,False
+3118,hy-AM,datetime,datetime_query,հենց հիմա որն է արևելյան ստանդարտ ժամը,datetime_query,0.6259,0.6259,True
+3124,hy-AM,play,play_music,միացրու պատահական մի երգ իմ երգացանկից,play_music,0.9752,0.9752,True
+3146,hy-AM,play,play_music,խաղարկիր իմ ռազմիկ ամյան երգացանկի առաջին երգը,play_music,0.5302,0.5302,True
+3167,hy-AM,iot,iot_hue_lightoff,անջատել իմ ննջասենյակ լույսեր,iot_hue_lightoff,0.6458,0.6458,True
+3174,hy-AM,play,play_music,միացրու երաժշտություն երգացանկը,play_music,0.9974,0.9974,True
+3205,hy-AM,play,play_music,միացրու սիրուշոյի շորորա երգը,social_post,0.8087,0.1445,False
+3207,hy-AM,play,play_music,միացրու լիլիթ հովհաննիսյանի գնչուն,social_post,0.9352,0.0007,False
+3212,hy-AM,calendar,calendar_set,հիշեցրու ինձ այդ ժամանակ ինչ-որ բան անել,email_sendemail,0.2494,0.0196,False
+3214,hy-AM,news,news_query,ինչ վիճակում է այժմ ռուսաստանի հետ թրամփի կապերի հետաքննությունը,weather_query,0.388,0.0199,False
+3228,hy-AM,datetime,datetime_query,շաբաթվա որ օրն է այս տարի ընկնում սուրբ ծնունդը,weather_query,0.9598,0.0252,False
+3253,hy-AM,weather,weather_query,այս ցերեկ սպասվում է անձրև,weather_query,0.964,0.964,True
+3264,hy-AM,play,play_music,նվագել ռեգգի երաժշտություն,qa_factoid,0.1293,0.0702,False
+3305,hy-AM,weather,weather_query,սևանում այս շաբաթ ինչպիսի եղանակ է,qa_definition,0.5092,0.0317,False
+3306,hy-AM,weather,weather_query,ինչ եղանակ է կանխատեսվել շաբաթվա համար,qa_factoid,0.9978,0.0001,False
+3329,hy-AM,news,news_query,ես ուզում եմ տեսնել նորությունները,news_query,0.9552,0.9552,True
+3337,hy-AM,weather,weather_query,հայտնել եղանակը երեսուներեք հազար յոթ հարյուր յոթանասունչորսի համար,recommendation_events,0.3513,0.0114,False
+3338,hy-AM,weather,weather_query,զեկուցիր գյումրիի եղանակը,qa_factoid,0.984,0.0,False
+3361,hy-AM,datetime,datetime_query,հաջորդ երեքշաբթի ամսի քանիսն է,datetime_query,0.7708,0.7708,True
+3378,hy-AM,iot,iot_hue_lightoff,խոհանոց ոչ մի լույս,social_post,0.9997,0.0,False
+3386,hy-AM,iot,iot_hue_lightoff,թուլացնել d լույսերը միջինի,play_music,0.6653,0.3331,False
+3400,hy-AM,play,play_music,խաղալ էլթոն ջոնի կենդանի տարբերակը,social_post,0.4754,0.0638,False
+3401,hy-AM,play,play_music,նվագիր էլթոն ջոնի ամենահայտնի երգը,email_sendemail,0.9104,0.0,False
+3406,hy-AM,weather,weather_query,տասը օրվա եղանակի տեսություն,iot_hue_lightoff,0.9939,0.0003,False
+3407,hy-AM,weather,weather_query,այս շաբաթ կանխատեսվում է անձրև կամ ձյուն,weather_query,0.576,0.576,True
+3408,hy-AM,weather,weather_query,այս շաբաթ կիրակի լավ եղանակ է լինելու,qa_factoid,0.3885,0.008,False
+3426,hy-AM,weather,weather_query,ինչ աստիճան է դրսում,weather_query,0.9812,0.9812,True
+3433,hy-AM,play,play_music,նոր փոփ երաժշտություն,social_post,0.8012,0.173,False
+3434,hy-AM,play,play_music,լավագույն ռեփ երաժշտություն,social_post,0.61,0.1337,False
+3441,hy-AM,datetime,datetime_query,ամսի քսաներկուսը չորեքշաբթի է,email_sendemail,0.7738,0.1319,False
+3444,hy-AM,datetime,datetime_query,ժամը տաս է,qa_factoid,0.9672,0.0306,False
+3447,hy-AM,weather,weather_query,եղանակը պահանջում է շաբաթ օրը անձրև,weather_query,0.9735,0.9735,True
+3481,hy-AM,play,play_music,միացրու այս արտիստի ամենահայտնի երգը,social_post,0.9694,0.0042,False
+3489,hy-AM,play,play_music,միացրու երաժշտություն հիմա խնդրում եմ,play_music,0.9993,0.9993,True
+3492,hy-AM,play,play_music,արի միացրու իմ ամենաշատ լսած երգերի ցանկը,recommendation_events,0.7763,0.0484,False
+3503,hy-AM,weather,weather_query,ինչ եղանակ է գորիսում,play_music,0.578,0.0137,False
+3507,hy-AM,weather,weather_query,եղանակի տեսության մեջ ձյուն սպասվում է,iot_hue_lightoff,0.5021,0.0392,False
+3513,hy-AM,play,play_music,միայն իմ ցանկը միացրու,qa_factoid,0.9995,0.0,False
+3516,hy-AM,weather,weather_query,տեղումների ինչ հավանականություն կա այսօրվա եղանակի համար,email_sendemail,0.8124,0.0044,False
+3539,hy-AM,play,play_music,խնդրում եմ միացրու ալլա լևոնյանի բարևը,qa_factoid,1.0,0.0,False
+3546,hy-AM,play,play_music,ես ցանկանում եմ լսել ջազ երաժշտություն,play_music,1.0,1.0,True
+3550,hy-AM,play,play_music,միացրու ինչ-որ բան led zeppelin,play_music,0.5256,0.5256,True
+3554,hy-AM,play,play_music,կարող ես սիրային երգացանկ միացնել,social_post,0.7377,0.054,False
+3562,hy-AM,play,play_music,միացրու ևս մեկ անգամ,email_sendemail,0.9974,0.0001,False
+3566,hy-AM,datetime,datetime_query,chennai ժամը քանիսն է,datetime_query,0.9849,0.9849,True
+3570,hy-AM,iot,iot_hue_lightoff,խնդրում եմ անջատել պատշգամբ լույսեր,lists_remove,0.5177,0.3753,False
+3576,hy-AM,news,news_query,որն է վերջին պատմությունը ֆոքս նյուզից,email_sendemail,0.9108,0.0791,False
+3586,hy-AM,weather,weather_query,ինչ եղանակ է երևանում,qa_definition,0.8743,0.0,False
+3600,hy-AM,calendar,calendar_set,հիշեցրու ինձ տաս րոպե հետո,datetime_query,0.5026,0.0024,False
+3603,hy-AM,news,news_query,ինչ են վերջին նորությունները սինհուայից,news_query,0.9979,0.9979,True
+3605,hy-AM,news,news_query,որոնք են ազատության վերջին նորությունները,news_query,0.925,0.925,True
+3606,hy-AM,datetime,datetime_query,պեկին ժամը քանիսն է,datetime_query,0.9959,0.9959,True
+3614,hy-AM,weather,weather_query,այսօր արևային օր է ճիշտ է,weather_query,0.9976,0.9976,True
+3623,hy-AM,news,news_query,ինչ է կատարվում այսօր աշխարհում,qa_factoid,0.3252,0.2315,False
+3624,hy-AM,news,news_query,լուրեր սի էն էն-ից,social_post,0.9568,0.0003,False
+3631,hy-AM,play,play_music,hey google միացրու ինչ որ jazz երաժշտություն,recommendation_events,0.9942,0.0038,False
+3686,hy-AM,play,play_music,միացրու երգացանկը որ ես նվիրել եմ ռոք երաժշտությանը,play_music,0.9321,0.9321,True
+3714,hy-AM,play,play_music,միացրու իմ երգացանկը ներքևից սկսած,play_music,0.9947,0.9947,True
+3717,hy-AM,play,play_music,խնդրում եմ միացրու իմ իննսունականների ռեպ հիթեր,social_post,0.9375,0.0063,False
+3723,hy-AM,play,play_music,ես ցանկանում եմ լսել արեթա ֆրանկլինի զանգիր ինձ հետո այս երգը,play_music,0.9954,0.9954,True
+3725,hy-AM,datetime,datetime_query,որ օրն է այսօրոր օրն է այսօր,weather_query,0.7903,0.0249,False
+3727,hy-AM,play,play_music,միացրու յելավոլֆ լավագույն ընկերներ երգը,recommendation_events,0.9871,0.0001,False
+3750,hy-AM,news,news_query,օլլի եթե ջրհեղեղի մասին որևէ նոր լուր հայտնվի կարող եք անմիջապես տեղեկացնել ինձ,social_post,0.98,0.0016,False
+3779,hy-AM,play,play_music,նվագի յութուբի դատարկ երգացանկը,email_sendemail,0.4891,0.0356,False
+3780,hy-AM,play,play_music,միացրու իմ կեսգիշերային սեր երգացանկ,play_music,0.9985,0.9985,True
+3784,hy-AM,weather,weather_query,տուր ինձ լաս վեգասի եղանակի մասին հաշվետվություն,qa_factoid,0.6977,0.0136,False
+3785,hy-AM,iot,iot_hue_lightoff,խնդրում եմ անջատել լոգասենյակ լույսեր,iot_hue_lightoff,0.5407,0.5407,True
+3822,hy-AM,news,news_query,գտիր մեքենաների մասին տեղեկություններ,email_sendemail,0.3856,0.0076,False
+3852,hy-AM,weather,weather_query,ինչպիսին է եղանակը կոտայքի աբովյան քաղաքում հենց հիմա,iot_hue_lightoff,0.2962,0.0826,False
+3859,hy-AM,play,play_music,խնդրում եմ միացրու իմ սիրած ռեփ երաժշտության երգացանկը,play_music,0.9934,0.9934,True
+3907,hy-AM,play,play_music,միացրու անցած տարվա իմ հիթերը,email_sendemail,1.0,0.0,False
+3911,hy-AM,play,play_music,ես ուզում եմ լսել ցանկացած երգ որ ստացել է գրեմմի այս տարի,play_music,0.6238,0.6238,True
+3912,hy-AM,play,play_music,ես կցանկանայի լսել արա գևորգյանի երաժշտությունը,play_music,0.9982,0.9982,True
+3936,hy-AM,weather,weather_query,ինչ ջերմաստիճան է,weather_query,0.9501,0.9501,True
+3960,hy-AM,datetime,datetime_query,ասա ժամը,datetime_query,0.6136,0.6136,True
+3967,hy-AM,play,play_music,ռեփ,qa_factoid,1.0,0.0,False
+3980,hy-AM,play,play_music,մեր սիրո աշունը ռուբեն հախվերդյան,social_post,0.9655,0.0008,False
+3982,hy-AM,play,play_music,խնդրում եմ միացրու իմ այթյունս գրադարան առաջին երգը,email_sendemail,0.9991,0.0,False
+3993,hy-AM,iot,iot_hue_lightoff,կարող ես մարել լույսերը,iot_hue_lightoff,0.9998,0.9998,True
+3995,hy-AM,datetime,datetime_query,աննա վարդավառ շաբաթվա որ օր է,datetime_query,0.6174,0.6174,True
+4001,hy-AM,news,news_query,ինչ է պատահել քայլող մեռելներին,social_post,0.1928,0.0363,False
+4023,hy-AM,news,news_query,ինչ կա նորություններում,news_query,0.9779,0.9779,True
+4031,hy-AM,play,play_music,միացրու պանդորա իննսունականների պարահանդես,play_music,0.3658,0.3658,True
+4040,hy-AM,play,play_music,նվագիր այն երգը որը ես ամենաշատն եմ լսում,play_music,0.995,0.995,True
+4058,hy-AM,play,play_music,կուզեի լսել ռեփ երաժշտություն,play_music,0.9996,0.9996,True
+4073,hy-AM,datetime,datetime_query,ամսի հինգը ինչ օր է,weather_query,0.5867,0.4001,False
+4077,hy-AM,iot,iot_hue_lightoff,անջատել խոհանոց լույսեր,iot_hue_lightoff,0.9854,0.9854,True
+4088,hy-AM,iot,iot_hue_lightoff,անջատել գլխավերևում լույս,iot_hue_lightoff,0.9395,0.9395,True
+4104,hy-AM,weather,weather_query,ինչ եղանակ է սպասվում այսօր եղեգնաձորում,weather_query,0.2993,0.2993,True
+4116,hy-AM,play,play_music,խնդրում եմ միացրու իմ խառը նվագարկվող երգացանկը,lists_remove,0.5021,0.0375,False
+4119,hy-AM,news,news_query,ես ուզում եմ իմանալ այն ամենը ինչ վերաբերում է կալիֆորնիայի պատնեշի կոտրմանը,qa_definition,0.5604,0.0228,False
+4132,hy-AM,weather,weather_query,ասա ինձ անձրևի հավանականությունը այսօր լոռու մարզի սպիտակ քաղաքում,social_post,0.5412,0.1847,False
+4136,hy-AM,play,play_music,կարող ես միացնել ռեինկարնացիա խնդրում եմ,qa_factoid,0.9849,0.0002,False
+4152,hy-AM,play,play_music,միացրու երազ իմ երկիր երգը,play_music,0.7353,0.7353,True
+4168,hy-AM,weather,weather_query,խնդրում եմ ստուգիր եղանակը տավուշում,email_sendemail,0.856,0.0001,False
+4171,hy-AM,iot,iot_hue_lightoff,անջատել խոհանոց լույսեր,iot_hue_lightoff,0.9854,0.9854,True
+4177,hy-AM,news,news_query,տուր ինձ աշխարհի վերջին քաղաքական վերնագրերը,iot_hue_lightoff,0.6977,0.0143,False
+4178,hy-AM,news,news_query,կան ինչ որ նորություններ նախագահականից,news_query,0.9943,0.9943,True
+4183,hy-AM,datetime,datetime_query,new york ժամը,datetime_query,0.7942,0.7942,True
+4186,hy-AM,datetime,datetime_query,բարև անահիտ ժամը քանիսն է,qa_factoid,0.5853,0.3674,False
+4187,hy-AM,datetime,datetime_query,բարև սիրի ժամը քանիսն է,datetime_query,0.877,0.877,True
+4205,hy-AM,play,play_music,ուզում եմ լսել ֆորշի երևանը,play_music,0.9999,0.9999,True
+4212,hy-AM,weather,weather_query,կկարողանամ այսօր երեկոյան խոտը հնձել,qa_factoid,0.9924,0.0004,False
+4227,hy-AM,weather,weather_query,հաջորդ շաբաթ սպասվում է անձրև,weather_query,0.9838,0.9838,True
+4232,hy-AM,play,play_music,միացրու նունե եսայանի իմ սրտովը,play_music,0.5014,0.5014,True
+4236,hy-AM,datetime,datetime_query,դեռ ցերեկ է,weather_query,0.8791,0.086,False
+4253,hy-AM,datetime,datetime_query,հիմա ժամը քանիսն է արևելյան ստանդարտ ժամային գոտում,datetime_query,0.6625,0.6625,True
+4254,hy-AM,datetime,datetime_query,ժամը քանիսն է միացյալ նահանգների արևելյան ափում,qa_factoid,0.9439,0.0548,False
+4258,hy-AM,news,news_query,որոնք են վերջին նորությունները,news_query,0.9981,0.9981,True
+4266,hy-AM,weather,weather_query,ինչպիսին է այսօրվա եղանակը,play_radio,0.2089,0.0826,False
+4273,hy-AM,play,play_music,նվագարկիր շորորա երգը,cooking_recipe,0.6477,0.0011,False
+4290,hy-AM,weather,weather_query,երեկոյան հետս բաճկոն բերեմ,iot_hue_lightoff,0.389,0.0136,False
+4305,hy-AM,play,play_music,միացրու ռուբեն հախվերդյանի սիրո աշուն երգը,play_music,0.4821,0.4821,True
+4309,hy-AM,datetime,datetime_query,քանի ժամից կեսգիշեր կլինի երևան հայաստանում,weather_query,0.9805,0.0041,False
+4312,hy-AM,weather,weather_query,երևանում ջերմաստիճանը տասը աստիճանից ցածր կլինի,weather_query,0.9722,0.9722,True
+4313,hy-AM,weather,weather_query,վաղը անձրև կլինի հռոմում,weather_query,0.8754,0.8754,True
+4336,hy-AM,datetime,datetime_query,չինաստան ժամը քանիսն է,datetime_query,0.8846,0.8846,True
+4346,hy-AM,iot,iot_hue_lightoff,անջատել լույսեր,iot_hue_lightoff,0.974,0.974,True
+4347,hy-AM,iot,iot_hue_lightoff,դադարեցնել լույսեր աշխատանքը,iot_hue_lightoff,0.7698,0.7698,True
+4355,hy-AM,weather,weather_query,ինչպիսին է եղանակը իմ տարածքում,qa_factoid,0.5012,0.0076,False
+4361,hy-AM,play,play_music,ինչ ինչ որ լավ հնչյուններ տուր,social_post,0.4622,0.0313,False
+4362,hy-AM,datetime,datetime_query,cleveland ժամը քանիսն է,datetime_query,0.9512,0.9512,True
+4376,hy-AM,weather,weather_query,դրսում այսօր ինչ եղանակ է,play_music,0.9999,0.0,False
+4377,hy-AM,weather,weather_query,ինչպիսին է ընթացիկ եղանակը,qa_definition,0.7632,0.0029,False
+4383,hy-AM,weather,weather_query,վաղը ինչ եղանակ է լինելու,qa_factoid,0.7135,0.0004,False
+4391,hy-AM,news,news_query,որոնք են վերնագրերը սի էն էն-ում,email_sendemail,0.9975,0.0,False
+4400,hy-AM,news,news_query,որոնք են հայտնի հոդվածները ազատության վերաբերյալ,qa_factoid,0.8299,0.0164,False
+4402,hy-AM,weather,weather_query,հետս անձրևանոց պիտի ման տամ այսօր,weather_query,0.9216,0.9216,True
+4412,hy-AM,weather,weather_query,ինչ եղանակ է լոռիում,qa_definition,0.9844,0.0005,False
+4436,hy-AM,weather,weather_query,ինչ բաճկոն պետք է հագնեմ,cooking_recipe,0.66,0.003,False
+4439,hy-AM,weather,weather_query,ինչպես է եղանակը սան ֆրանցիսկոյում,qa_factoid,0.675,0.0,False
+4449,hy-AM,weather,weather_query,այսօր ցերեկը մեկին անձրև է գալու,weather_query,0.6801,0.6801,True
+4452,hy-AM,play,play_music,երգեր նվագիր,email_sendemail,0.5682,0.0022,False
+4463,hy-AM,datetime,datetime_query,մարտին քանի շաբաթ օրեր կա,weather_query,0.9978,0.0007,False
+4477,hy-AM,play,play_music,նվագել երգ հաջորդը,recommendation_events,0.6529,0.287,False
+4482,hy-AM,weather,weather_query,այս առավոտ ավտոճանապարհս մաքրելու կարիք կա,lists_remove,0.3621,0.1116,False
+4486,hy-AM,weather,weather_query,այս շաբաթվա եղանակի տեսությունն ասա,iot_hue_lightoff,0.9611,0.0022,False
+4487,hy-AM,weather,weather_query,հինգշաբթի անձրև կգա,weather_query,0.7492,0.7492,True
+4491,hy-AM,news,news_query,ինչ են վերջին նորությունները դոնալդ թրամփի մասին,news_query,0.8911,0.8911,True
+4492,hy-AM,news,news_query,որոնք են հանցագործության վերջին վիճակագրությունը իմ տարածքում,social_post,0.8267,0.0008,False
+4496,hy-AM,news,news_query,ինչ է vogue հրապարակել այսօր,social_post,0.9912,0.0028,False
+4502,hy-AM,datetime,datetime_query,հեյ երևանում հիմա ժամը քանիսն է,datetime_query,0.9445,0.9445,True
+4524,hy-AM,weather,weather_query,olly ինչպիսին է եղանակի տեսությունը այսօր,iot_hue_lightoff,0.5022,0.0611,False
+4547,hy-AM,play,play_music,միացրու շանը ման տալու երաժշտություն,play_music,0.9209,0.9209,True
+4567,hy-AM,news,news_query,կարդա ազգ օրաթերթի վերջին վերնագրերը,recommendation_events,0.5558,0.0175,False
+4580,hy-AM,datetime,datetime_query,երևանում ժամը քանիսն է,datetime_query,0.7859,0.7859,True
+4587,hy-AM,play,play_music,միացրու իմ սիրելիները,social_post,0.9981,0.0001,False
+4589,hy-AM,calendar,calendar_set,սահմանել ծանուցում սպորտային խաղի համար,email_sendemail,1.0,0.0,False
+4606,hy-AM,news,news_query,գտնել տեղեկատվություն այսօրվա բաժնետոմսերի մասին,social_post,0.6382,0.0019,False
+4614,hy-AM,weather,weather_query,վաղը ջերմաստիճանը քառասունից բարձր կլինի,weather_query,0.9907,0.9907,True
+4662,hy-AM,news,news_query,նորություններ սի բի էս-ից ալեքսա,news_query,0.9976,0.9976,True
+4667,hy-AM,datetime,datetime_query,ընթացիկ ժամանակը,datetime_query,0.3339,0.3339,True
+4680,hy-AM,weather,weather_query,պետք է հագնեմ սանդալներ թե կոշիկ գուլպաներով,cooking_recipe,0.9906,0.0002,False
+4689,hy-AM,weather,weather_query,գիտես ինչպիսին է եղանակը,qa_factoid,0.9937,0.0,False
+4692,hy-AM,play,play_music,van halen-ի երգերից միացրու,cooking_recipe,0.9634,0.0108,False
+4710,hy-AM,datetime,datetime_query,երբ է այս տարի halloween,email_sendemail,0.99,0.0035,False
+4764,hy-AM,weather,weather_query,երկուշաբթի անձրև գալու է,weather_query,0.8643,0.8643,True
+4767,hy-AM,news,news_query,կա արդյոք որևէ նոր տեղեկություն մեքսիկա-ամերիկյան սահմանի պատի վերաբերյալ,news_query,0.2571,0.2571,True
+4772,hy-AM,datetime,datetime_query,ասա ժամը քանիսն է այս ժամային գոտում,datetime_query,0.5694,0.5694,True
+4780,hy-AM,datetime,datetime_query,իմ ծննդյան օր հունիսի քսանյոթին այս տարի ինչ օր է,datetime_query,0.8127,0.8127,True
+4784,hy-AM,weather,weather_query,ինձ բաճկոն պետք է,qa_factoid,0.6238,0.0002,False
+4813,hy-AM,datetime,datetime_query,այլ քաղաք ժամը քանիսն է,datetime_query,0.9978,0.9978,True
+4837,hy-AM,news,news_query,կա որևէ նորություն օլի,news_query,0.815,0.815,True
+4838,hy-AM,play,play_music,միացրու հայկոյի բոլոր երգերը,recommendation_events,0.4135,0.0874,False
+4871,hy-AM,weather,weather_query,ինչպես է դրսում,weather_query,0.9597,0.9597,True
+4881,hy-AM,datetime,datetime_query,փնտրիր որ գտնես ընթացիկ տեղական ժամանակը և ժամային գոտին,iot_hue_lightoff,0.519,0.0121,False
+4882,hy-AM,datetime,datetime_query,քաղաք ժժժամը քանիսն է,datetime_query,0.9999,0.9999,True
+4890,hy-AM,calendar,calendar_set,հաղորդիր հայաստանում ներկա աահին եղանակային տատանումների մասին,recommendation_events,0.5817,0.0054,False
+4909,hy-AM,play,play_music,դորիանսի երգերը միացրու,play_music,0.996,0.996,True
+4917,hy-AM,weather,weather_query,ջերմաստիճանը դրսում,weather_query,0.92,0.92,True
+4928,hy-AM,play,play_music,միացրու իմ սաունդթրեքը,social_post,0.9263,0.0228,False
+4933,hy-AM,weather,weather_query,կանձրևի հիմա,iot_hue_lightoff,0.483,0.0427,False
+4951,hy-AM,datetime,datetime_query,ուզում եմ հենց հիմա իմանալ ժամը քանիսն է,datetime_query,0.6923,0.6923,True
+4953,hy-AM,news,news_query,գնացքի վթարի մասին լուրերը,news_query,0.9516,0.9516,True
+4957,hy-AM,datetime,datetime_query,այս ամսվա քսաներեքը շաբաթվա որ օրն է,datetime_query,0.7655,0.7655,True
+4960,hy-AM,play,play_music,նեմրայի երգերը,social_post,0.4222,0.2904,False
+4968,hy-AM,qa,qa_factoid,ով հաղթել է այս տարի նախագահական ընտրություններում,qa_factoid,0.9912,0.9912,True
+4973,hy-AM,play,play_music,օլի նվագիր առանց քեզ չեմ դիմանա երգը,social_post,0.3994,0.0162,False
+4998,hy-AM,play,play_music,ավելացրու այս երգը հաջորդ երգին,play_music,0.8012,0.8012,True
+5009,hy-AM,weather,weather_query,կարիք կունենամ անձրևանոց վերցնելու այս շաբաթ,iot_hue_lightoff,0.4192,0.0464,False
+5016,hy-AM,news,news_query,տեղեկացրեք ինձ բաժնետոմսերի շուկայի վերելքների և անկումների մասին,recommendation_events,0.1315,0.0352,False
+5027,hy-AM,datetime,datetime_query,երբ է հաջորդ ուրբաթ տասներեքը լինելու,datetime_query,0.9646,0.9646,True
+5037,hy-AM,weather,weather_query,որքան ցուրտ է այսօր,social_post,0.2616,0.0464,False
+5038,hy-AM,weather,weather_query,ինչպիսին է եղանակն այս շաբաթ,qa_definition,0.2063,0.0312,False
+5040,hy-AM,weather,weather_query,ինչ եղանակ է հիմա,qa_factoid,0.9787,0.0,False
+5062,hy-AM,play,play_music,խնդրում եմ միացրու երգեր ութսունականներ,recommendation_events,0.758,0.0809,False
+5074,hy-AM,weather,weather_query,ինչ եղանակ էր շաբաթվա ընթացքում,cooking_recipe,0.293,0.0233,False
+5085,hy-AM,weather,weather_query,ինչ եղանակ է կանխատեսվում շաբաթ օրը,weather_query,0.6981,0.6981,True
+5118,hy-AM,play,play_music,ոչ մեկ չգիտի,qa_factoid,0.9998,0.0,False
+5127,hy-AM,news,news_query,ահա ինչ-որ մեկի բյուջեում անիվների վրա սննդի մասին ճշմարտությունը,news_query,0.0971,0.0971,True
+5131,hy-AM,datetime,datetime_query,խնդրում եմ ասա ինձ ժամը քանիսն է երևանում,datetime_query,0.8464,0.8464,True
+5134,hy-AM,play,play_music,գտիր երգեր արցախի ձայներ իմ երգացանկից,play_music,0.9995,0.9995,True
+5156,hy-AM,iot,iot_hue_lightoff,հյուրասենյակ լույս անջատել,iot_hue_lightoff,0.5632,0.5632,True
+5157,hy-AM,iot,iot_hue_lightoff,գայանե հյուրսենյակ լույս անջատել,lists_remove,0.6375,0.1243,False
+5158,hy-AM,play,play_music,խնդրում եմ միացրու վերջին երգը գարուն ալբոմից,recommendation_events,0.6449,0.0039,False
+5159,hy-AM,play,play_music,դու կարող ես խնդրում եմ միացնել երգչուհի սիրուշոյի երգը,lists_remove,0.2694,0.105,False
+5160,hy-AM,play,play_music,կարող ես խնդրում եմ միացնել ռազմիկ ամյանի երգը,qa_factoid,0.6849,0.0031,False
+5176,hy-AM,weather,weather_query,ինչպիսի եղանակի պետք է սպասեմ այս շաբաթ,play_podcasts,0.4844,0.0057,False
+5196,hy-AM,news,news_query,ես ուզում եմ իմանալ արցախի մասին,social_post,0.8818,0.0073,False
+5225,hy-AM,datetime,datetime_query,հաջորդ չորեքշաբթի ամսի քանիսն է,datetime_query,0.9522,0.9522,True
+5243,hy-AM,iot,iot_hue_lightoff,սիրի անջատել խնդրում եմ լոգասենյակ լույսեր,lists_remove,0.3263,0.2319,False
+5245,hy-AM,news,news_query,սահմանել բնապահպանական նորությունների ծանուցում,iot_hue_lightoff,0.5605,0.019,False
+5270,hy-AM,news,news_query,որոնք են ընթացիկ հրատապ լուրերը,news_query,0.9844,0.9844,True
+5278,hy-AM,play,play_music,խնդրում եմ միացրու միայն փոփ միքս երաժշտություն,play_music,0.96,0.96,True
+5279,hy-AM,play,play_music,խնդրում եմ միացրու միայն տխուր երգ նվագարկիչով,recommendation_events,0.7468,0.0776,False
+5286,hy-AM,news,news_query,ցույց տալ բի բի սի-ի միգրացիայի մասին լուրերը,social_post,0.9736,0.0038,False
+5296,hy-AM,news,news_query,օլի բերեք ինձ հայտնի նորություններ բի բի սի-ից,news_query,0.9312,0.9312,True
+5297,hy-AM,news,news_query,տուր ինձ հայտնի լուրերը բի բի սի-ից,news_query,0.6152,0.6152,True
+5301,hy-AM,weather,weather_query,ինչ եղանակ է լինելու երկու հազար տասնյոթ թվի մարտի քսանին,qa_factoid,0.3589,0.0242,False
+5307,hy-AM,datetime,datetime_query,այսօր մարտի քսանն է,datetime_query,0.7455,0.7455,True
+5318,hy-AM,play,play_music,խնդրում եմ դիր միայն սիրուշոյի երգերը,social_post,0.9103,0.0445,False
+5321,hy-AM,weather,weather_query,ցույց տուր եղանակը,qa_factoid,0.9955,0.0001,False
+5328,hy-AM,play,play_music,ռոք,qa_factoid,0.9974,0.0,False
+5339,hy-AM,weather,weather_query,ցածրացրու հովացման համակարգը,qa_factoid,0.9947,0.0002,False
+5341,hy-AM,datetime,datetime_query,խնդրում եմ ծանուցիր ինձ ժամը քանիսն է,qa_factoid,0.4823,0.4742,False
+5347,hy-AM,play,play_music,միացրու տեխնո երաժշտություն,play_music,0.624,0.624,True
+5358,hy-AM,datetime,datetime_query,թարմացրու ներկայիս ժամը,datetime_query,0.8012,0.8012,True
+5370,hy-AM,news,news_query,որն է թրամփի վերջին հակասությունները,qa_factoid,0.4662,0.0698,False
+5378,hy-AM,play,play_music,s.,play_radio,0.1383,0.0381,False
+5401,hy-AM,play,play_music,երաժշտություն,qa_factoid,0.5479,0.0016,False
+5410,hy-AM,news,news_query,կարդացեք ինձ նյու յորք թայմսի վերջին վերնագրերը,email_query,1.0,0.0,False
+5411,hy-AM,news,news_query,որոնք են թոփ պատմությունները սի էն էն-ում,social_post,0.8639,0.0658,False
+5413,hy-AM,play,play_music,միացրու երաժշտություն,play_music,0.9984,0.9984,True
+5414,hy-AM,play,play_music,կմիացնեք երաժշտությունը,play_music,1.0,1.0,True
+5427,hy-AM,datetime,datetime_query,հիմա canada ժամը քանիսն է,datetime_query,0.8178,0.8178,True
+5433,hy-AM,weather,weather_query,ավելի ուշ անձրև գալու է,iot_hue_lightoff,0.4629,0.3877,False
+5439,hy-AM,weather,weather_query,գիշերը անձրևանոցի կարիք կլինի,qa_factoid,0.7471,0.0148,False
+5465,hy-AM,weather,weather_query,կարող եմ այսօր հագնել իմ սանդալները,cooking_recipe,0.3798,0.0041,False
+5468,hy-AM,weather,weather_query,պետք է արևային ակնոց վերցնել,weather_query,0.9424,0.9424,True
+5524,hy-AM,weather,weather_query,եղանակը այս պահին,qa_factoid,0.9699,0.0006,False
+5529,hy-AM,weather,weather_query,որ ժամին գնամ քայլելու,weather_query,0.8979,0.8979,True
+5557,hy-AM,play,play_music,ես ուզում եմ դասական երաժշտուոթյուն,play_music,0.998,0.998,True
+5577,hy-AM,weather,weather_query,եթե երեկոյան ուժեղ փոթորիկ լինի ինձ երկար բաճկոն պետք կգա,iot_hue_lightoff,0.5975,0.2691,False
+5578,hy-AM,weather,weather_query,առավոտյան ձմռան տաք գուլպաների կարիք կունենամ,social_post,0.5031,0.0019,False
+5584,hy-AM,iot,iot_hue_lightoff,խնդրում եմ անջատել լույսեր,iot_hue_lightoff,0.755,0.755,True
+5590,hy-AM,weather,weather_query,բացիր ջերմաստիճանը,iot_hue_lightoff,0.9195,0.0736,False
+5593,hy-AM,play,play_music,միացրու ռեինկարնացիա էլի լավ ա,social_post,0.8189,0.0066,False
+5619,hy-AM,play,play_music,միացրու նախորդ երգը,qa_factoid,0.5257,0.0088,False
+5627,hy-AM,play,play_music,նվագարկիր բիթլզի երաժշտությունը,cooking_recipe,0.8616,0.0045,False
+5640,hy-AM,datetime,datetime_query,ամսաթիվը ցուցադրել,qa_factoid,0.9651,0.0025,False
+5650,hy-AM,weather,weather_query,եղանակի մասին հարցրու այսօր երեկոյան,qa_factoid,0.2537,0.0807,False
+5658,hy-AM,play,play_music,միացրու ինձ համար երաժշտություն ռեինկարնացիայից,play_music,0.3251,0.3251,True
+5661,hy-AM,weather,weather_query,պետք է անձրևային վերարկուս վերցնեմ ինձ հետ հիմա,iot_hue_lightoff,0.9193,0.0008,False
+5671,hy-AM,datetime,datetime_query,las vegas ժամը քանիսն է,datetime_query,0.8127,0.8127,True
+5678,hy-AM,datetime,datetime_query,օգոստոսի տասնհինգը շաբաթվա որ օրն է,datetime_query,0.9653,0.9653,True
+5683,hy-AM,play,play_music,միացրու իմ երեկույթի երգեր երգացանկը,play_music,0.6927,0.6927,True
+5688,hy-AM,news,news_query,խնդրում եմ ասա ինձ նորությունների վերնագրերը,lists_remove,0.4813,0.0508,False
+5703,hy-AM,datetime,datetime_query,ժամը,qa_factoid,1.0,0.0,False
+5707,hy-AM,play,play_music,լսիր իմ սիրելիները,social_post,0.5536,0.439,False
+5721,hy-AM,weather,weather_query,ցույց տուր այս տարածքի վաղվա եղանակը,qa_factoid,0.9996,0.0,False
+5722,hy-AM,weather,weather_query,ցույց տուր յոթ օրվա եղանակի կանխատեսումը այս շաբաթվա համար,email_sendemail,0.7018,0.0025,False
+5732,hy-AM,weather,weather_query,շուտով մեքենայիս անվադողերը պիտի փոխեմ ձմեռային անվադողերով,iot_hue_lightoff,0.9913,0.0012,False
+5757,hy-AM,datetime,datetime_query,երկուսին տասնհինգ պակաս,qa_factoid,0.9939,0.0003,False
+5758,hy-AM,weather,weather_query,ինչպիսին է եղանակը մայրաքաղաքում,qa_definition,0.8541,0.0026,False
+5774,hy-AM,datetime,datetime_query,cpt ժամը քանիսն է,datetime_query,0.6583,0.6583,True
+5797,hy-AM,weather,weather_query,պետք է անձրեւանոց հագնեմ դուրս գալուց առաջ,iot_hue_lightoff,0.5112,0.013,False
+5813,hy-AM,play,play_music,խաղալ հանգիստ երգ,play_music,0.6994,0.6994,True
+5820,hy-AM,play,play_music,հաճույք պատճառիր իմ ականջներին դնելով արիջիտ սինխ,play_music,0.9714,0.9714,True
+5837,hy-AM,weather,weather_query,պատմիր այս շաբաթվա եղանակի մասին,play_music,0.3713,0.0169,False
+5871,hy-AM,weather,weather_query,ինչ եղանակ է այսօր սևանում,qa_factoid,0.9783,0.0024,False
+5886,hy-AM,news,news_query,թեժ թեմա,qa_factoid,0.9991,0.0,False
+5919,hy-AM,news,news_query,որն է վերջին թարմացումը նյու յորքի կամուրջի առաջարկի վերաբերյալ,qa_factoid,0.178,0.0357,False
+5930,hy-AM,news,news_query,ցանկացած նորություն հաֆֆինգտոն փոստից,news_query,0.9794,0.9794,True
+5948,hy-AM,play,play_music,ինչ որ լավ երգ միացրու իմ երգացանկից,play_music,0.9042,0.9042,True
+5953,hy-AM,weather,weather_query,քաղաքում թանկ թե էժան է ապրելը,qa_factoid,0.2646,0.0319,False
+5955,hy-AM,weather,weather_query,քաղաքը ինչքանով է ապահով կարգ ու կանոնի մասով,qa_factoid,0.5349,0.0194,False
+5970,hy-AM,play,play_music,ուզում եմ bohemian raphsody միացնես ինձ համար,social_post,0.7445,0.0029,False
+5985,hy-AM,news,news_query,ցույց տուր ինձ հայաստանից վերջին նորությունները,news_query,0.9351,0.9351,True
+5996,hy-AM,weather,weather_query,այսօր կեսօրին ձմեռային կոշիկներս պետք կգան,weather_query,0.4599,0.4599,True
+5997,hy-AM,datetime,datetime_query,կենտրոնական ժամային գոտում ժամը քանիսն է,iot_hue_lightoff,0.5618,0.4308,False
+6023,hy-AM,weather,weather_query,շոգ գիշեր է լինելու,weather_query,0.9959,0.9959,True
+6024,hy-AM,weather,weather_query,պետք է այսօր աշխատանքի համար սվիտեր կամ վերարկու վերցնեմ,calendar_remove,0.9506,0.0001,False
+6025,hy-AM,weather,weather_query,այսօր կեսօրին արևապաշտպան քսուքի կարիք կունենամ,weather_query,0.6874,0.6874,True
+6027,hy-AM,play,play_music,միացրու սիրելի երգերը,social_post,0.3365,0.0901,False
+6039,hy-AM,weather,weather_query,վաղը անձրևային օր կլինի,weather_query,0.9952,0.9952,True
+6041,hy-AM,iot,iot_hue_lightoff,բարև նարե խնդրում եմ անջատել լույս,lists_remove,0.4274,0.1805,False
+6045,hy-AM,play,play_music,ավելացրեք ընտրված երգը,recommendation_events,0.7932,0.015,False
+6050,hy-AM,weather,weather_query,ավելի ուշ ինձ արևապաշտպան քսուկ պետք է,qa_factoid,0.6438,0.1223,False
+6055,hy-AM,iot,iot_hue_lightoff,ես ավտոտնակ լույս միացված եմ թողել,social_post,0.9683,0.0004,False
+6059,hy-AM,play,play_music,միացրու rap երաժշտություն,play_music,0.9981,0.9981,True
+6069,hy-AM,weather,weather_query,այսօր հնարավոր է փոթորիկներ լինեն,qa_factoid,0.9988,0.0,False
+6073,hy-AM,iot,iot_hue_lightoff,անջատել պատշգամբ լույս,iot_hue_lightoff,0.9145,0.9145,True
+6074,hy-AM,iot,iot_hue_lightoff,ննջասենյակ լույսը անջատել երեկոյան ինն անց կես,iot_hue_lightoff,0.9996,0.9996,True
+6077,hy-AM,news,news_query,ես ուզում եմ լսել աշխարհի վերջին նորությունները այսօրվանից,play_music,0.9709,0.0013,False
+6093,hy-AM,weather,weather_query,կարելի է բացել արևային տանիքը,qa_factoid,0.7478,0.2212,False
+6103,hy-AM,weather,weather_query,ինչպիսին է լինելու եղանակը այսօր լոռու մարզի սպիտակ քաղաքում,weather_query,0.9798,0.9798,True
+6116,hy-AM,weather,weather_query,տեղեկություններ այս շաբաթվա եղանակի մասին,email_sendemail,0.5953,0.019,False
+6118,hy-AM,datetime,datetime_query,dallas texas ժամը քանիսն է,datetime_query,0.5366,0.5366,True
+6127,hy-AM,weather,weather_query,հովանոց խորհուրդ կտաս,social_post,0.9982,0.0,False
+6129,hy-AM,news,news_query,ինձ տեղյակ պահիր համաշխարհային նորություններին,news_query,0.6274,0.6274,True
+6151,hy-AM,weather,weather_query,ուզում եմ իմանալ այսօրվա եղանակը,qa_factoid,0.9659,0.0005,False
+6172,hy-AM,weather,weather_query,արևային ակնոց կրելը լավ միտք է այսօր,weather_query,0.948,0.948,True
+6177,hy-AM,weather,weather_query,այսօր ինձ հովանոց պետք է,social_post,0.8613,0.0009,False
+6178,hy-AM,weather,weather_query,բաճկոն հագնեմ,iot_hue_lightoff,0.6582,0.0007,False
+6194,hy-AM,weather,weather_query,ինչ եղանակ է այսօր,qa_factoid,0.7282,0.0029,False
+6289,hy-AM,weather,weather_query,հեյ ինչպիսին է այսօր եղանակը,weather_query,0.4341,0.4341,True
+6370,hy-AM,calendar,calendar_query,ինչպիսին է իմ գալիք շաբաթը,qa_factoid,0.3031,0.0166,False
+6372,hy-AM,news,news_query,բույսերի մասին նորություններ,news_query,0.8536,0.8536,True
+6403,hy-AM,transport,transport_query,ինչպես հասնեմ որևէ տեղ,transport_query,0.7504,0.7504,True
+6410,hy-AM,news,news_query,ինչ է կատարվում այսօր ֆրանսիայում,social_post,0.5599,0.1324,False
+6411,hy-AM,weather,weather_query,հաջորդ չորեքշաբթի ինչպիսի եղանակ է,datetime_query,0.1191,0.0459,False
+6539,hy-AM,calendar,calendar_set,նշեք այսօր որպես իմ դիետայի սկիզբ,iot_hue_lightoff,0.2631,0.0281,False
+6542,hy-AM,cooking,cooking_recipe,փափուկ պանիրը կոշտից լավ ա,iot_hue_lightoff,0.3647,0.0757,False
+6618,hy-AM,news,news_query,պատմել հետաքրքիր նորություններ,news_query,0.9808,0.9808,True
+6682,hy-AM,news,news_query,ընտրություններն են,recommendation_events,0.9517,0.0076,False
+6683,hy-AM,news,news_query,տնտեսական հարցեր,lists_query,0.3716,0.0191,False
+6713,hy-AM,calendar,calendar_remove,չեղարկել աշխատանքային հանդիպումը չորեքշաբթի օրը,calendar_remove,0.3231,0.3231,True
+6722,hy-AM,calendar,calendar_query,կա որևէ բան որի մասին ինձ պետք է հիշեցնել,qa_factoid,0.1405,0.034,False
+6725,hy-AM,calendar,calendar_set,հիշեցրու ինձ ցերեկվա իմ ժամանակացույցի մասին,email_sendemail,0.1427,0.0373,False
+6726,hy-AM,calendar,calendar_remove,չեղարկել հաջորդ հանդիպումը,calendar_remove,0.3595,0.3595,True
+6729,hy-AM,calendar,calendar_remove,չեղարկել նախաճաշը տիֆանիի տանը,qa_factoid,0.4959,0.1276,False
+6732,hy-AM,calendar,calendar_set,ավելացնել կիրակի օրվա հանդիպման հիշեցում իմ ամուսնու ծնողների հետ,social_post,0.2297,0.0314,False
+6744,hy-AM,calendar,calendar_set,պավելի հետ հանդիպումը վաղը առավոտյան տասին դրեք,social_post,0.4394,0.0154,False
+6746,hy-AM,calendar,calendar_set,հունիսի առաջին շաբաթն արձակուրդ է իմ օրացույցում,iot_hue_lightoff,0.404,0.0303,False
+6747,hy-AM,calendar,calendar_query,քանի հիշեցումներ ունեմ,qa_factoid,0.3703,0.0213,False
+6755,hy-AM,calendar,calendar_remove,խնդրում եմ մաքրել իմ օրացույցը,calendar_remove,0.4619,0.4619,True
+6761,hy-AM,calendar,calendar_remove,հանել իմ օրացույցից առավոտյան իննի հանդիպումը,calendar_remove,0.4872,0.4872,True
+6764,hy-AM,calendar,calendar_set,հիշեցրու ինձ լվանալ պատուհանները,social_post,0.2892,0.0116,False
+6774,hy-AM,calendar,calendar_set,միջոցառում սահմանել ուրբաթ օրը,iot_hue_lightoff,0.2363,0.0841,False
+6785,hy-AM,calendar,calendar_query,որն է իմ հաջորդ հիշեցումը,email_sendemail,0.4205,0.0187,False
+6789,hy-AM,calendar,calendar_set,նշանակիր հանդիպում ջոաննայի հետ շաբաթ օրը ցերեկը չորսին,social_post,0.9636,0.0006,False
+6798,hy-AM,calendar,calendar_remove,եռացնել իմ հաջորդ իրադարձությունը,social_post,0.7887,0.0577,False
+6801,hy-AM,calendar,calendar_query,ցույց տվեք իմ հանդիպումներն այս ուրբաթ,social_post,0.6302,0.0055,False
+6806,hy-AM,calendar,calendar_query,ցույց տուր ինձ իմ օրացուցային իրադարձությունը այս ուրբաթ ցերեկը,email_sendemail,0.1737,0.0236,False
+6815,hy-AM,calendar,calendar_set,հիշեցրու ինձ մայրիկի ծննդյան օրը մեկ շաբաթ առաջ,datetime_query,0.684,0.0137,False
+6819,hy-AM,calendar,calendar_set,օլի մի լավ խումբ է նվագում այսօր երեկոյան ժամը իննին ջազ բարում ես ուզում եմ գնալ,weather_query,0.5975,0.0104,False
+6836,hy-AM,calendar,calendar_set,հիշեցրու ինձ վաղվա ժամը վեցի հանդիպման մասին,datetime_query,0.1708,0.0336,False
+6850,hy-AM,calendar,calendar_query,նշեք իմ այսօրվա գրաֆիկը,email_sendemail,0.925,0.0005,False
+6856,hy-AM,calendar,calendar_set,ինձ հիշեցնող ծանուցում տվեք վաղվա հանդիպման մասին առավոտյան ժամը տասին,social_post,0.9249,0.0033,False
+6860,hy-AM,calendar,calendar_query,սպասվող իրադարձություններ կան,qa_factoid,0.4476,0.012,False
+6865,hy-AM,calendar,calendar_set,տեղադրել ծանուցում վաղվա հանդիպման մասին ժամը տասին,email_sendemail,1.0,0.0,False
+6878,hy-AM,calendar,calendar_set,նշանակեք հանդիպում հաշվապահության բաժնի հետ ցերեկը երկու երեսունին ուրբաթ օրը,social_post,0.2227,0.022,False
+6891,hy-AM,calendar,calendar_query,կան առավոտյան շոուներ,weather_query,0.9779,0.0006,False
+6892,hy-AM,calendar,calendar_query,կարող եք ինձ տալ ֆիլմի ժամանակացույցը,datetime_query,0.9656,0.0001,False
+6897,hy-AM,calendar,calendar_set,հիշեցրու ինձ վերցնել լիլիթին ամսի յոթին երեկոյան ժամը հինգին,email_sendemail,0.8074,0.0021,False
+6901,hy-AM,calendar,calendar_set,հիշեցրու ինձ վաղը առավոտյան ժամը տասին հանդիպման մասին,weather_query,0.1401,0.0363,False
+6902,hy-AM,calendar,calendar_set,հաջորդ ամիս հիշեցում տեղադրեք յուղը փոխելու համար,cooking_recipe,0.4875,0.0254,False
+6909,hy-AM,calendar,calendar_query,ինչ է կատարվելու մեկից հետո և ցերեկը երեքից առաջ,qa_factoid,0.6217,0.0114,False
+6918,hy-AM,calendar,calendar_remove,ջնջել իրադարձությունները օրացույցից,calendar_remove,0.4672,0.4672,True
+6923,hy-AM,calendar,calendar_set,երեքշաբթի առավոտյան փաստաթղթերը տպելու հիշեցում սահմանեք,lists_remove,0.3313,0.1441,False
+6926,hy-AM,calendar,calendar_query,ուրբաթ է,calendar_remove,0.4928,0.0108,False
+6928,hy-AM,calendar,calendar_remove,ջնջել բոլոր միջոցառումները,lists_remove,0.9794,0.008,False
+6936,hy-AM,calendar,calendar_set,հիշեցրու ինձ որ դեղերս ընդունեմ առավոտյան իննին,weather_query,0.1279,0.0389,False
+6937,hy-AM,calendar,calendar_set,կեսօրին հիշեցրեք շեֆի հետ ճաշելու համար,lists_remove,0.2511,0.0396,False
+6946,hy-AM,calendar,calendar_query,կան արդյոք հանդիպումներ հաջորդ չորեքշաբթի,news_query,0.5513,0.0075,False
+6958,hy-AM,calendar,calendar_remove,համոզվեք որ իմ օրացույցում իրադարձություններ չկան,qa_factoid,0.8122,0.0145,False
+6959,hy-AM,calendar,calendar_set,հիշեցրու ինձ իմ հանդիպման մասին դրա սկսվելուց մեկ ժամ առաջ,email_sendemail,0.9999,0.0,False
+6962,hy-AM,calendar,calendar_set,կարող եմ իմանալ թե ինչ պետք է ես անեմ հաջորդ շաբաթ օրը երեկոյան ժամը վեցին,datetime_query,0.1885,0.0391,False
+6964,hy-AM,calendar,calendar_set,կարող եք հիշեցնել մեկ ժամ առաջ իմ հաջորդ հանդիպումը իմ ղեկավարի հետ,recommendation_events,0.2648,0.0203,False
+6967,hy-AM,calendar,calendar_query,կարող ես ստուգել այս խնդրի փաստերը,iot_hue_lightoff,0.8733,0.0021,False
+6968,hy-AM,calendar,calendar_query,ես պետք է հաստատեմ այսօրվա բոլոր հանդիպումները կարող եմ մարդ հրավիրել,cooking_recipe,0.343,0.0108,False
+6973,hy-AM,calendar,calendar_set,ավելացնել վաղվա համաժողովի հիշեցում նյու յորքում,recommendation_events,0.7053,0.0089,False
+6974,hy-AM,calendar,calendar_set,վաղը վաշինգտոնում մի գործառույթ ունեմ հիշեցնեք,email_sendemail,1.0,0.0,False
+6980,hy-AM,calendar,calendar_query,տուր ինձ անելիքների ցանկը,cooking_recipe,0.5654,0.0045,False
+6992,hy-AM,calendar,calendar_query,ցույց տալ ապագա իրադարձությունները,email_sendemail,0.6025,0.003,False
+6994,hy-AM,calendar,calendar_set,հիշեցնել ինձ,social_post,0.9303,0.0007,False
+6997,hy-AM,calendar,calendar_remove,հեռացնել հաջորդող իրադարձությունը,qa_factoid,0.9055,0.0051,False
+7000,hy-AM,calendar,calendar_set,նոր միջոցառում,recommendation_events,0.4776,0.0164,False
+7004,hy-AM,calendar,calendar_set,ամեն տարի այս ամսաթվին հիշեցում ավելացրեք իմ օրացույցում,email_sendemail,0.2921,0.0295,False
+7013,hy-AM,calendar,calendar_query,երբ է սկսվելու միջոցառումը,datetime_query,0.9972,0.0001,False
+7014,hy-AM,calendar,calendar_query,տուր ինձ այսօրվա միջոցառումների ժամանակացույցը,recommendation_events,0.8683,0.0022,False
+7025,hy-AM,calendar,calendar_remove,հանել նոր տարին օրացույցից,lists_remove,0.1614,0.1115,False
+7026,hy-AM,recommendation,recommendation_events,ինչ միջոցառումներ կան իմ քաղաքում այս շաբաթ,recommendation_events,0.9998,0.9998,True
+7039,hy-AM,calendar,calendar_set,ինձ հանդիպում դրեք ջեսսիի հետ հաջորդ երեքշաբթի առավոտյան ժամը տասնմեկին,datetime_query,0.4978,0.002,False
+7044,hy-AM,calendar,calendar_set,խնդրում եմ հիշեցնել ինձ սկսել պատրաստվել մինչև երեկոյան հինգը,email_sendemail,0.9457,0.0207,False
+7046,hy-AM,calendar,calendar_set,ավելացնել թալի հանդիպումը քսանմեկին ժամը յոթին,iot_hue_lightoff,0.4822,0.0363,False
+7055,hy-AM,calendar,calendar_set,հինգշաբթի օրը առավոտյան տասնմեկին նշանակեք հանդիպում մեթի հետ,weather_query,0.4949,0.0128,False
+7057,hy-AM,calendar,calendar_set,չորեքշաբթի կեսօրին պլանավորեք լևոնի հետ ճաշի հանդիպումը,qa_factoid,0.5528,0.0418,False
+7061,hy-AM,calendar,calendar_set,ինձ հիշեցրեք քսանչորս ժամ առաջ իմ հանդիպման մասին էդջի հետ ուրբաթ,social_post,0.9956,0.0002,False
+7073,hy-AM,calendar,calendar_set,իմ օրացույցում փնտրիր իմ հաջորդ իրադարձությունը և տեղեկացրու ինձ նախքան այն տեղի ունենա,datetime_query,0.1679,0.0307,False
+7080,hy-AM,calendar,calendar_remove,չեղարկել ամեն ինչ իմ օրացույցից,lists_remove,0.7022,0.0149,False
+7087,hy-AM,calendar,calendar_remove,չեղարկել վաղվա հանդիպումը իմ օրացույցից,iot_hue_lightoff,0.4757,0.0627,False
+7098,hy-AM,calendar,calendar_set,ավելացրու իմ մեքենայի վճարումը օրացույցի վրա ամեն ամսվա տասներկուսին,email_sendemail,0.9937,0.0001,False
+7100,hy-AM,calendar,calendar_set,մեքենայի ժամկետը լրանալուց մեկ օր առաջ ինձ հիշեցրու,qa_factoid,0.7599,0.0028,False
+7111,hy-AM,calendar,calendar_query,մարտի երեսունմեկին ժամը քանիսն է իմ բժշկի բժշկի հետ հանդիպումը,datetime_query,0.999,0.0,False
+7113,hy-AM,calendar,calendar_query,կլինի որևէ իրադարձություն քաղաքի կենտրոնում այս հանգստյան օրերին,weather_query,0.8854,0.0054,False
+7117,hy-AM,calendar,calendar_remove,ազատվել իմ օրացույցի տասնիննի իրադարձություններից,iot_hue_lightoff,0.2947,0.2552,False
+7120,hy-AM,calendar,calendar_query,ինչպիսին է իմ այսօրվա գրաֆիկը,play_music,0.1451,0.0333,False
+7122,hy-AM,calendar,calendar_set,կարող եք կրկնել այս իրադարձությունը,qa_factoid,0.9776,0.0005,False
+7140,hy-AM,calendar,calendar_set,սահմանել հիշեցում որ ինձ տեղեկացնի ճաշի հանդիպումից մեկ ժամ առաջ,news_query,0.0551,0.0543,False
+7141,hy-AM,calendar,calendar_query,արդյոք այս ծրագիրը նախատեսված է,qa_factoid,0.9964,0.0001,False
+7151,hy-AM,calendar,calendar_set,յուրաքանչյուր կենտ համարակալված կիրակիի համար սահմանեք հիշեցում,social_post,0.1583,0.0352,False
+7152,hy-AM,calendar,calendar_set,ամեն օր տասներկու երեսունին սահմանել ճաշ,recommendation_events,0.1092,0.0399,False
+7161,hy-AM,calendar,calendar_set,հիշեցնել այս միջոցառումը ապագայում,email_sendemail,0.3837,0.0126,False
+7170,hy-AM,calendar,calendar_set,այսօր մայրիկի ծննդյան օրն է ինձ ամեն տարի ծանուցում ուղարկել այս օրվա կապակցությամբ,social_post,0.917,0.0015,False
+7181,hy-AM,calendar,calendar_set,արթնացրու ինձ հինգշաբթի առավոտյան վեցին որպեսզի d ժամանակ ունենամ հանդիպման համար,weather_query,0.9322,0.0025,False
+7185,hy-AM,calendar,calendar_query,երբ է իմ հաջորդ հանդիպումը բժիշկ սմիթի հետ,social_post,0.9319,0.0009,False
+7189,hy-AM,calendar,calendar_query,ես ինչ որ բան ունեմ պլանավորած,qa_factoid,0.4903,0.0087,False
+7194,hy-AM,calendar,calendar_set,ես վաղը հանդիպում կունենամ,weather_query,0.5191,0.0011,False
+7196,hy-AM,calendar,calendar_set,հիշեցրու ինձ հանդիպում արտյոմի հետ մարտի տասնհինգին,email_sendemail,1.0,0.0,False
+7199,hy-AM,calendar,calendar_set,ծանուցում դրեք հաջորդ շաբաթվա անգլերենի եզրափակիչից երեք երկու և մեկ ժամ առաջ,email_sendemail,0.7838,0.0042,False
+7209,hy-AM,calendar,calendar_set,կարող ես հիշեցնել ինձ աղբը թափել երեքշաբթի,iot_hue_lightoff,0.8878,0.0023,False
+7219,hy-AM,calendar,calendar_query,տեղադրել եք վաղվա հանդիպման մասին հիշեցումը,email_sendemail,0.3345,0.0269,False
+7224,hy-AM,calendar,calendar_query,որտեղ է այն վայրը որտեղ տեղի կունենա թոմի ամուսնությունը,qa_factoid,0.5102,0.0096,False
+7232,hy-AM,calendar,calendar_query,ինչ միջոցառումներ կան հաջորդ շաբաթ,recommendation_events,0.8891,0.0023,False
+7257,hy-AM,calendar,calendar_set,խնդրում եմ հիշեցրու որ կես ժամից զանգեմ մայրիկին,email_sendemail,0.7489,0.0069,False
+7258,hy-AM,calendar,calendar_set,հիշեցնել ինձ որ մեկ ժամ հետո նամակ ուղարկեմ ղեկավարին,email_sendemail,1.0,0.0,False
+7262,hy-AM,calendar,calendar_set,ստեղծել ծանուցման հիշեցում վաղվա հանդիպման համար,social_post,0.8763,0.0014,False
+7266,hy-AM,calendar,calendar_query,որոնք են իմ սպասվող առաջադրանքները,social_post,0.9675,0.0007,False
+7278,hy-AM,calendar,calendar_set,հիշեցրու ինձ ռիտայի ծննդյան օրը քսանչորս ժամ առաջ,datetime_query,0.4205,0.0143,False
+7287,hy-AM,calendar,calendar_set,հիշեցրու ինձ իմ տարեդարձի մասին մեկ օր առաջ,email_sendemail,0.9997,0.0,False
+7289,hy-AM,calendar,calendar_remove,ազատվել բոլոր իրադարձություններից ջեֆի հետ,qa_factoid,0.9796,0.0034,False
+7291,hy-AM,calendar,calendar_set,արգելափակել վաղը առավոտյան տասը ժամից մեկ ժամը,calendar_remove,0.9274,0.0104,False
+7292,hy-AM,calendar,calendar_set,նշել իմ օրացույցում որ ես վաղը երեկոյան չորսից վեցը անհասանելի եմ,email_sendemail,0.9695,0.0004,False
+7293,hy-AM,calendar,calendar_set,շաբաթ օրվա համար նշանակեք մեկ ժամ հանդիպում,iot_hue_lightoff,0.3582,0.1016,False
+7294,hy-AM,calendar,calendar_remove,հեռացնել ջորջ ադամսի հետ հանդիպումը իմ օրացույցից,iot_hue_lightoff,0.8286,0.0401,False
+7295,hy-AM,calendar,calendar_remove,խնդրում եմ մաքրել իմ օրացույցը,calendar_remove,0.4619,0.4619,True
+7314,hy-AM,calendar,calendar_query,ինչ ունենք այսօրվա համար,qa_factoid,0.5946,0.0101,False
+7316,hy-AM,calendar,calendar_query,ունեմ ինչ որ հանդիպումներ,social_post,0.8122,0.0038,False
+7319,hy-AM,calendar,calendar_query,ինչ է կատարվում այսօր ցերեկվա երկուսից չորսը,news_query,0.7222,0.0059,False
+7353,hy-AM,email,email_query,պարզապես տեղեկացրու ինձ հաջորդ շաբաթների եղանակի մասին սյունիքում,social_post,0.9945,0.0002,False
+7355,hy-AM,calendar,calendar_set,հիշեցրու ինձ ստուգել սպասը ժամը վեցին,iot_hue_lightoff,0.794,0.0019,False
+7380,hy-AM,calendar,calendar_query,խնդրում եմ ցույց տալ այսօրվա հանդիպումը հաճախորդների հետ,email_sendemail,0.5538,0.0009,False
+7397,hy-AM,calendar,calendar_query,ունեմ որևէ միջոցառումներ պլանավորած հաջորդ երեք ամիսներին,recommendation_events,0.9342,0.0019,False
+7449,hy-AM,calendar,calendar_set,խնդրում եմ նշանակեք հանդիպում այս անձի հետ,social_post,0.7941,0.001,False
+7450,hy-AM,calendar,calendar_set,ինձ պետք է հանդիպում սահմանել այս մարդու հետ,qa_factoid,0.8261,0.0025,False
+7455,hy-AM,calendar,calendar_set,հիշեցրու ինձ վաղվա երեկույթի մասին,email_sendemail,1.0,0.0,False
+7461,hy-AM,calendar,calendar_set,հրավիրել մարդկանց օրացուցային միջոցառմանը,recommendation_events,0.9553,0.0025,False
+7463,hy-AM,calendar,calendar_set,տեղեկացրեք իմ խմբին որ հանդիպման նոր ամսաթիվը վաղն է,email_sendemail,1.0,0.0,False
+7467,hy-AM,calendar,calendar_query,տուր ինձ իրադարձությունների ժամերը,weather_query,0.9052,0.0018,False
+7477,hy-AM,calendar,calendar_set,հիշեցրու ինձ ամեն տարվա մարտի հինգին հարսանիքի տարեդարձի նվերներ կազմակերպելու համար,lists_remove,0.1097,0.0431,False
+7496,hy-AM,calendar,calendar_query,ես ունեմ այսօր հանդիպումներ,social_post,0.468,0.0033,False
+7499,hy-AM,calendar,calendar_set,կազմել վաղվա հանդիպման նոր ժամանակացույցը,social_post,0.3893,0.039,False
+7500,hy-AM,calendar,calendar_remove,կարող եք ջնջել հաջորդ իրադարձությունը,iot_hue_lightoff,0.5531,0.1779,False
+7502,hy-AM,calendar,calendar_query,հանդիպում գևորգ հետ ժամը չորս,weather_query,0.6089,0.0014,False
+7503,hy-AM,calendar,calendar_query,որտեղ է վաշինգտոն քաղաքում այդ հանդիպումը ցերեկը մեկին ուրբաթ օրը,social_post,0.1896,0.0413,False
+7520,hy-AM,calendar,calendar_set,հիշեցրու ինձ ամեն օր ցերեկը երկուսին ճաշի համար,lists_query,0.0679,0.0467,False
+7524,hy-AM,calendar,calendar_query,որքան է մեթան պատրաստ ներդնել իմ ընկերությունում այսօր տեղի ունեցած հանդիպմանը ցերեկը հինգ քսանին,datetime_query,0.0614,0.0501,False
+7528,hy-AM,calendar,calendar_set,հունիսի տասներեքը ընտրությունների արդյունքների օր է խնդրում եմ ընդունել այն,datetime_query,0.9545,0.0015,False
+7531,hy-AM,calendar,calendar_set,խնդրում եմ ավելացնել իմ վճարման օրերը,qa_factoid,0.9969,0.0005,False
+7539,hy-AM,calendar,calendar_query,ինչ որ բան ունեմ,qa_factoid,0.3077,0.0146,False
+7542,hy-AM,calendar,calendar_set,խնդրում եմ հիշեցնել ինձ այս մասին վաղը,calendar_remove,0.7019,0.003,False
+7549,hy-AM,calendar,calendar_set,ես հանդիպում եմ ուզում մինչև ժամը երեքը,qa_factoid,0.4267,0.0132,False
+7556,hy-AM,calendar,calendar_set,կարգավորել իմ օրացույցը որպեսզի հիշեցնի ինձ ամեն ուրբաթ մթերք գնել,iot_hue_lightoff,0.6338,0.0177,False
+7557,hy-AM,calendar,calendar_set,օրացույցում հիշեցում անել ա վայրի դիրքը,news_query,0.2641,0.0209,False
+7559,hy-AM,calendar,calendar_set,հիշեցրու ինձ որ երեկոյան ութին քիմմաքրումից վերցնեմ իմ շորերը,email_sendemail,0.6717,0.007,False
+7563,hy-AM,calendar,calendar_set,հիշեցրու ինձ վաղվա հանդիպման մասին մեկ ժամ առաջ,email_sendemail,0.9825,0.0007,False
+7565,hy-AM,calendar,calendar_set,հանդիպման հիշեցում,email_sendemail,0.777,0.011,False
+7567,hy-AM,calendar,calendar_set,ծննդյան օր,datetime_query,0.7907,0.0016,False
+7569,hy-AM,calendar,calendar_query,պլանավորել վաղվա համար,qa_factoid,0.8126,0.0007,False
+7570,hy-AM,calendar,calendar_query,ինչպիսին է այսօր պլանը,weather_query,0.9947,0.0003,False
+7583,hy-AM,calendar,calendar_set,ընկերդ ավելացնում է իրադարձություն քո օրացույցում,social_post,0.4077,0.0095,False
+7596,hy-AM,calendar,calendar_set,խնդրում եմ կեսօրին նշանակեք հանդիպում դերիքի հետ հայսիում,social_post,0.6593,0.001,False
+7598,hy-AM,calendar,calendar_set,խնդրում եմ հրավիրել հանդիպում ֆրեդի հետ քննարկելու ահաբեկչությունը հաջորդ հասանելի հանդիպման օրը,email_sendemail,0.1383,0.0333,False
+7606,hy-AM,calendar,calendar_set,հանդիրպել մանվելին վաղը երեքին,iot_hue_lightoff,0.213,0.0194,False
+7609,hy-AM,calendar,calendar_remove,հեռացնել հանդիպման հիշեցումը երեքշաբթի օրվա համար,calendar_remove,0.4878,0.4878,True
+7613,hy-AM,calendar,calendar_query,որն էր առաջիկա իրադարձությունը,qa_factoid,0.8069,0.0088,False
+7628,hy-AM,calendar,calendar_set,հիշեցրու ինձ երբ ես գրադարանում լինեմ գրադարանի նոր քարտ ստանալու համար,email_sendemail,0.3013,0.0301,False
+7654,hy-AM,calendar,calendar_set,ապրիլի քսանը նշեք որպես եղբորս ծննդյան օր,datetime_query,0.8972,0.006,False
+7655,hy-AM,calendar,calendar_set,ավելացրեք հիշեցում ապրիլի քսանին որպես իմ եղբոր ծննդյան օրը,calendar_remove,0.5013,0.0151,False
+7660,hy-AM,calendar,calendar_remove,չեղարկել իմ բոլոր հանդիպումները այսօր ցերեկը երեքից հետո և տեղեկացրեք ինձ մանրամասները,lists_remove,0.6001,0.0237,False
+7662,hy-AM,calendar,calendar_query,կարող եք թվարկել իմ այսօրվա հանդիպումները,cooking_recipe,0.3582,0.0133,False
+7664,hy-AM,calendar,calendar_set,ավելացնել լանչ մայքի հետ,social_post,0.5682,0.0041,False
+7666,hy-AM,calendar,calendar_set,կնշես որ ես վաղը ժամը երեքին հանդիպում ունեն թոմի հետ,iot_hue_lightoff,0.3676,0.0221,False
+7680,hy-AM,calendar,calendar_remove,իմ օրացույցում ջնջել իմ բոլոր գոլֆի իրադարձությունները ընթացիկ ամսվա համար,iot_hue_lightoff,0.7842,0.0119,False
+7686,hy-AM,calendar,calendar_set,ներառել մայքին և ջեքին փառատոնի օրացույցում,social_post,0.7186,0.0105,False
+7690,hy-AM,calendar,calendar_query,ինչ ունեմ սպասելու,qa_factoid,0.9602,0.0008,False
+7693,hy-AM,calendar,calendar_query,ինչ-որ բան ունեմ պլանավորված քսանմեկին,datetime_query,0.3937,0.0089,False
+7697,hy-AM,calendar,calendar_set,սահմանել հիշեցում դրա համար,qa_factoid,0.9821,0.0009,False
+7711,hy-AM,calendar,calendar_set,հեյ չեղարկեք մարտի երկուսի իմ բոլոր մյուս հանդիպումները և զանգերը քանի որ ջիմի ծննդյան օրն է նշեք այն որպես իրադարձություն ձեր օրացույցում,lists_remove,0.5515,0.0186,False
+7712,hy-AM,calendar,calendar_set,հեյ օլի չեղարկիր իմ բոլոր մյուս հանդիպումները ևզանգերը մարտի երկուսին քանի որ ջիմի ծննդյան օրն է նշիր այն որպես իրադարձություն քո օրացույցում,lists_remove,0.8032,0.0039,False
+7718,hy-AM,calendar,calendar_set,հեյ հանդիպման հրավեր ուղարկեք պարոն ռոսսին այս ուրբաթ օրվա հանդիպման համար և արգելափակեք իմ օրացույցը ուրբաթ ցերեկը,calendar_set,0.675,0.675,True
+7726,hy-AM,calendar,calendar_set,ես ինչ որ բանի կարիք ունեմ ամեն երկուշաբթի հիշեցում սահմանի դրա համար,cooking_recipe,0.8074,0.0069,False
+7730,hy-AM,calendar,calendar_set,ինձ պետք է որ դուք նշեք հաջորդ երկուշաբթին,lists_remove,0.3037,0.0298,False
+7741,hy-AM,calendar,calendar_remove,մաքրել իմ օրացույցը շաբաթ օրվա համար,calendar_remove,0.7506,0.7506,True
+7751,hy-AM,calendar,calendar_set,հիշեցրու ինձ ամեն երկուշաբթի աղբը հանել,news_query,0.0959,0.0464,False
+7762,hy-AM,calendar,calendar_query,ինչ հիշեցումներ ունեմ ես,lists_remove,0.3081,0.0254,False
+7767,hy-AM,calendar,calendar_set,փետրվարի չորսին օրացույցում պարապմունք ավելացրեք քինգի զբոսայգում ցերեկը երկուսին,cooking_recipe,0.1835,0.0302,False
+7768,hy-AM,calendar,calendar_set,խնդրում ենք ավելացնել փետրվարի չորսին պարապմունք քինգս այգում ցերեկը ժամը երկուսին,calendar_remove,0.4935,0.0246,False
+7774,hy-AM,calendar,calendar_set,ավելացրեք գնումներ իմ օրացույցում վաղվա համար,recommendation_events,0.7221,0.0015,False
+7777,hy-AM,calendar,calendar_query,արդյոք ես այսօր հանդիպում ունեմ,qa_factoid,0.6442,0.0056,False
+7778,hy-AM,calendar,calendar_set,հիշեցրու ինձ թե ինչ եմ ես անում կիրակի կեսօրին,iot_hue_lightoff,0.1901,0.0227,False
+7808,hy-AM,calendar,calendar_set,հիշեցրու որ ես մայրիկին վարսավիրանոց եմ տանեմ հինգշաբթի առավոտյան տասնմեկին,datetime_query,0.9035,0.0044,False
+7817,hy-AM,calendar,calendar_query,ճիշտ է սա այս ամսաթվի վերաբերյալ,qa_factoid,0.9878,0.0002,False
+7820,hy-AM,calendar,calendar_remove,ջնջել օրացույցի բոլոր իրադարձությունները,iot_hue_lightoff,0.5337,0.3513,False
+7836,hy-AM,calendar,calendar_remove,ջնջել բոլոր իրադարձությունները,lists_remove,0.5453,0.2204,False
+7843,hy-AM,calendar,calendar_set,երկու ժամից ինձ տեղեկացրեք որ ես պետք է մեկնեմ ջութակի իմ դասին ցերեկը չորսին մյուզիքվորքսում,email_sendemail,0.9987,0.0,False
+7844,hy-AM,calendar,calendar_query,ինչ հիշեցումներ եմ ես սահմանել,email_sendemail,0.9128,0.0027,False
+7847,hy-AM,calendar,calendar_set,զգուշացրեք ինձ երբ գրանցումը բացվի,qa_factoid,0.8916,0.0007,False
+7851,hy-AM,calendar,calendar_set,այսօր կեսօրին հանդիպում ունեմ,social_post,0.7922,0.0074,False
+7863,hy-AM,calendar,calendar_set,հիշեցրու ինձ որ ընթրիքը սկսեմ այսօր ցերեկը հինգին,play_music,0.5457,0.0104,False
+7870,hy-AM,calendar,calendar_remove,նջել իրադարձությունը օրացույցից,iot_hue_lightoff,0.3858,0.0237,False
+7876,hy-AM,news,news_query,ինչ է կատարվում վերջին երկու ամիսների ընթացքում,cooking_recipe,0.2965,0.0934,False
+7878,hy-AM,calendar,calendar_remove,ջնջել իմ օրացույցը,calendar_remove,0.9595,0.9595,True
+7879,hy-AM,calendar,calendar_query,որոնք են իմ հաջորդ երեք իրադարձությունները,news_query,0.5677,0.0095,False
+7889,hy-AM,calendar,calendar_query,որ ժամին է լինելու այսօր երեկոյան ֆուտբոլային հանդիպումը,datetime_query,0.8203,0.0023,False
+7890,hy-AM,calendar,calendar_remove,մաքրել սանրվածքը այսօր,lists_remove,0.5562,0.1863,False
+7891,hy-AM,calendar,calendar_remove,չեղարկել ընթրիքը այսօր երեկոյան,calendar_remove,0.7368,0.7368,True
+7892,hy-AM,calendar,calendar_remove,ջնջել հաջորդ իրադարձությունը այսօր,calendar_remove,0.8853,0.8853,True
+7894,hy-AM,calendar,calendar_set,մեկ ժամից ինձ տեղեկացրեք ընտրությունների մասին,email_sendemail,1.0,0.0,False
+7902,hy-AM,calendar,calendar_set,նշանակեք իմ և ջոնի հանդիպումը վաղը ժամը ցերեկը երկուսին,calendar_remove,0.8097,0.0369,False
+7908,hy-AM,calendar,calendar_query,այսօր ինչ որ բան պետք է անեմ,cooking_recipe,0.8668,0.0067,False
+7912,hy-AM,calendar,calendar_remove,ալեքսա հանիր ընթրիք սամվելի հետ իմ օրացույցից,social_post,0.9896,0.0002,False
+7916,hy-AM,calendar,calendar_set,հիշեցրւ ինձ աղբը թափել երեկոյան ժամը վեցին,email_sendemail,0.9931,0.0002,False
+7918,hy-AM,calendar,calendar_set,օրացույց միջոցառում հրավիրել արմենուհի վարդանյանին,social_post,0.9997,0.0,False
+7919,hy-AM,calendar,calendar_set,նոր հանդիպում ավելացրու արթուրին և կարինեին որպես մասնակիցներ,email_sendemail,0.3329,0.0308,False
+7922,hy-AM,calendar,calendar_remove,բացիր հանձնարարությունները ջնջիր ապագա իրադարձությունները,lists_remove,0.2537,0.2001,False
+7927,hy-AM,calendar,calendar_query,ինչ ունեմ այս շաբաթ անելու,cooking_recipe,0.8788,0.0065,False
+7946,hy-AM,calendar,calendar_query,որոնք են առաջիկա համերգները երևանում,recommendation_events,0.2614,0.0344,False
+7953,hy-AM,calendar,calendar_remove,խնդրում եմ շաբաթ օրը հեռացնել իմ բժշկի հանդիպումը,calendar_remove,0.9743,0.9743,True
+7955,hy-AM,calendar,calendar_set,տեղադրել այս իրադարձությունը կրկնվող օրինակով իմ օրացույցում,qa_factoid,0.4182,0.021,False
+7956,hy-AM,calendar,calendar_set,կարող եք այս իրադարձությունը դարձնել կրկնվող,qa_factoid,0.9779,0.0006,False
+7966,hy-AM,calendar,calendar_query,ես քեզ ասացի ինձ հիշեցնել ինչ որ բան,email_sendemail,0.9997,0.0,False
+7970,hy-AM,calendar,calendar_set,ինձ ժամանակին հիշեցնել հարսանիքը նվեր գնելու համար,email_sendemail,0.6234,0.0169,False
+7971,hy-AM,calendar,calendar_set,միջոցառումից երկու օր առաջ հիշեցում սահմանեք,qa_factoid,0.4706,0.0056,False
+7975,hy-AM,calendar,calendar_query,միջոցառմանը սպասարկման ծառայություն կա արդյոք,qa_factoid,0.9896,0.0002,False
+7978,hy-AM,calendar,calendar_query,ինչ հիշեցումներ ունեմ վաղվա վրա մինչև կեսօր,news_query,0.8711,0.0066,False
+7980,hy-AM,calendar,calendar_set,ասել ինձ երբ ես միջոցառում ունեմ,recommendation_events,0.9914,0.0,False
+7981,hy-AM,calendar,calendar_set,ուղարկել ահազանգ մինչև միջոցառում,social_post,0.9998,0.0,False
+7993,hy-AM,calendar,calendar_remove,ջնջիր բոլոր իրադարձությունները իմ օրացույցից,lists_remove,0.3688,0.3082,False
+8001,hy-AM,calendar,calendar_remove,կարող ես ջնջել վարսահարդարի հանդիպումը ուրբաթ օրվանից,iot_hue_lightoff,0.9406,0.025,False
+8004,hy-AM,calendar,calendar_set,հասմիկը պետք է ինձ հետ զրուցի մեր բաժանվելու մասին կարող ես ավելացնել հանդիպում երբ ես կլինեմ ազատ,email_sendemail,0.7887,0.0015,False
+8005,hy-AM,calendar,calendar_set,երկուշաբթի ամսի քսանին ես պետք է խոսեմ գրեգի հետ մեր հանգստյան օրերի ուղևորության մասին,datetime_query,0.6254,0.0164,False
+8013,hy-AM,calendar,calendar_query,ցույց տալ իմ հանդիպումը հաջորդ ամիս,email_sendemail,0.9994,0.0,False
+8029,hy-AM,calendar,calendar_query,ինչ միջոցառումներ կան այսօր,recommendation_events,0.9975,0.0001,False
+8033,hy-AM,datetime,datetime_query,զատիկ ամսի քանիսին է,email_sendemail,0.9575,0.0414,False
+8035,hy-AM,calendar,calendar_set,հիշեցնել յուղը փոխել,iot_hue_lightoff,0.3629,0.0111,False
+8037,hy-AM,calendar,calendar_set,հիշեցնել ինձ ինչ որ բան երբեմն,email_sendemail,0.5916,0.0087,False
+8042,hy-AM,calendar,calendar_query,քանի հոգի է ներկա իմ հաջորդ հանդիպմանը,social_post,0.8109,0.0048,False
+8043,hy-AM,calendar,calendar_query,որ ժամին է իմ հաջորդ պայմանավորվածությունը,qa_factoid,0.9166,0.0005,False
+8044,hy-AM,calendar,calendar_query,որն է իմ այսօրվա գրաֆիկը,social_post,0.2995,0.0246,False
+8055,hy-AM,calendar,calendar_remove,ջնջիր իմ մարտի յոթի պայմանավորվածությունը,qa_factoid,0.6632,0.2679,False
+8056,hy-AM,calendar,calendar_query,ունեմ ես ժամադրություն ուրբաթ օրը,datetime_query,0.6991,0.0008,False
+8058,hy-AM,calendar,calendar_query,արդյոք ես այսօր վաճառքի հանդիպում ունեմ,qa_factoid,0.949,0.0005,False
+8073,hy-AM,calendar,calendar_set,նշանակել վաճառքի հանդիպում չորեքշաբթի առավոտյան տասնմեկին,social_post,0.2384,0.0308,False
+8079,hy-AM,calendar,calendar_set,ավելացրու հիշեցում մեկ ժամ հետո իմ հաց թխելու համար,calendar_remove,0.4995,0.0119,False
+8084,hy-AM,calendar,calendar_query,որն է միջոցառման օրակարգը,weather_query,0.9097,0.0009,False
+8085,hy-AM,calendar,calendar_set,ես կցանկանայի օր նշել այս շաբաթ,iot_hue_lightoff,0.9193,0.0024,False
+8100,hy-AM,email,email_sendemail,մեյլ գրիր իմ հանդիպումները տեղափոխելու համար,email_sendemail,0.8289,0.8289,True
+8107,hy-AM,calendar,calendar_set,մարտինի համար դիր ծննդյան օրվա միջոցառում,qa_factoid,0.7402,0.0074,False
+8110,hy-AM,calendar,calendar_set,խնդրում եմ իմ օրացույցում ավելացրու վերահսկողությունը,lists_remove,0.3968,0.0169,False
+8116,hy-AM,calendar,calendar_query,փետրվարի մեկի և մարտի տասնվեցն ընթացքում ինչ հանդիպումներ են տեղի ունեցել,weather_query,0.0796,0.0477,False
+8119,hy-AM,calendar,calendar_query,որտեղ է անցկացվում մերիի ծննդյան տոն,lists_query,0.5321,0.0208,False
+8125,hy-AM,calendar,calendar_set,ստեղծել հանդիպման միջոցառում իմ օրացույցում,social_post,0.5611,0.0149,False
+8126,hy-AM,calendar,calendar_set,իմ օրացույցում նշանակեք հանդիպման միջոցառում,weather_query,0.7178,0.0072,False
+8129,hy-AM,calendar,calendar_query,ինչ հիշեցումներ դեռ ունեմ,qa_factoid,0.1844,0.0329,False
+8140,hy-AM,calendar,calendar_set,տասներեքին հիշեցրեք որ ես ճաշում եմ դեյլի հետ,email_sendemail,0.5468,0.0154,False
+8148,hy-AM,calendar,calendar_query,ես ինձ որևէ հիշեցումներ թողել եմ,email_sendemail,1.0,0.0,False
+8150,hy-AM,calendar,calendar_query,արդյոք ես ծննդյան միջոցառման որևէ մնացուկներ ունեմ,qa_factoid,0.9646,0.0006,False
+8165,hy-AM,calendar,calendar_query,երեկոյան տասնկերուսն անց երեսունին տասը րոպեից կսկսվի հանդիպումդ,weather_query,0.7127,0.0074,False
+8182,hy-AM,calendar,calendar_remove,կարող եք ջնջել ատամնաբույժի այցելությունը,iot_hue_lightoff,0.7387,0.0155,False
+8188,hy-AM,calendar,calendar_query,ինչ ամսաթիվ է դա,qa_factoid,0.8642,0.0001,False
+8204,hy-AM,calendar,calendar_set,խնդրում եմ հիշեցնել ինձ գնալ փոստային բաժանմունք,lists_remove,0.52,0.0076,False
+8206,hy-AM,calendar,calendar_set,թույլ մի տվեք որ մոռանամ քրոջս համար նվեր գնել,email_sendemail,0.9854,0.0,False
+8230,hy-AM,calendar,calendar_query,ինչքան կտևի լանչի հանդիպումս այս երեքշաբթի,weather_query,0.9823,0.0001,False
+8241,hy-AM,calendar,calendar_remove,մաքրել ամեն ինչ իմ օրացույցից տարվա մնացած ժամանակահատվածի համար,lists_remove,0.8167,0.0297,False
+8245,hy-AM,calendar,calendar_set,ինձ պետք է ծանուցեն եկեղեցական ծառայությունների մասին կիրակի օրերին առավոտյան ժամը տասնմեկին,recommendation_events,0.8592,0.0038,False
+8248,hy-AM,calendar,calendar_set,օրացույցում ավելացրու վաղվա ճաշկերույթը,cooking_recipe,0.5044,0.0148,False
+8251,hy-AM,calendar,calendar_set,ինձ անհրաժեշտ է օրացույցում ավելացնել հաջորդ շաբաթվա ճաշը,qa_factoid,0.3602,0.0097,False
+8260,hy-AM,calendar,calendar_set,ինձ հիշեցում ուղարկիր հովսեփի ծննդյան նախորդ օրը,social_post,0.6373,0.0152,False
+8261,hy-AM,calendar,calendar_set,ուղարկել ինձ ահազանգ իմ հաջորդ հանդիպումից մեկ ժամ առաջ,social_post,0.9933,0.0001,False
+8269,hy-AM,calendar,calendar_set,երեսուն րոպեի հիշեցում երեքշաբթիի հանդիպմանը,datetime_query,0.5449,0.0195,False
+8276,hy-AM,calendar,calendar_remove,խնդրում եմ հեռացնել իմ հաջորդ նախատեսված հանդիպումը,calendar_remove,0.8738,0.8738,True
+8280,hy-AM,calendar,calendar_set,ինձ պետք է հիշեցնեմ մարտի տասնհինգին,datetime_query,0.4337,0.0097,False
+8284,hy-AM,calendar,calendar_remove,հեռացնել ծննդյան օրն օրացույցից,calendar_remove,0.5275,0.5275,True
+8289,hy-AM,calendar,calendar_set,գրանցել հիշեցում դասախոսական կազմի այսօրվա հանդիպման մասին ժամը չորսին,play_podcasts,0.095,0.0466,False
+8290,hy-AM,calendar,calendar_set,բացեք հիշեցում հաջորդ շաբաթվա ղեկավարների հանդիպման մասին երեքշաբթի օրը,email_sendemail,0.5178,0.0197,False
+8294,hy-AM,calendar,calendar_set,ավելացնել օրացույցին և կրկնել,play_music,0.4937,0.012,False
+8300,hy-AM,calendar,calendar_set,պահպանել իրադարձությունը երեկոյան հինգից մինչև վեցը մարտի տասնութին,iot_hue_lightoff,0.5344,0.0158,False
+8302,hy-AM,calendar,calendar_remove,հեռացնել հաջորդ երկուշաբթիի նիստը,calendar_remove,0.9377,0.9377,True
+8308,hy-AM,news,news_query,երեկ կեսօրին թայմ սքվերում ինչի մասին էր բողոքի ակցիան,social_post,0.7786,0.0588,False
+8336,hy-AM,calendar,calendar_query,երբ է իմ նախաճաշը ջենիֆերի հետ,datetime_query,0.6823,0.0066,False
+8343,hy-AM,datetime,datetime_query,արդյոք չորեքշաբթի է,email_sendemail,0.9993,0.0,False
+8345,hy-AM,calendar,calendar_set,տեղեկացրեք ինձ երբ հանդիպումը տեղի կունենա,qa_factoid,0.8311,0.0014,False
+8347,hy-AM,calendar,calendar_query,ինչ է կատարվում դեկտեմբերի չորսին,weather_query,0.9844,0.0004,False
+8358,hy-AM,calendar,calendar_set,հիշեցրու ինձ սրա մասին,email_sendemail,0.8336,0.0008,False
+8366,hy-AM,calendar,calendar_set,մարտի տասնութը դարձրեք պերլի ծննդյան կրկնվող հանդիպում,weather_query,0.1228,0.0481,False
+8387,hy-AM,calendar,calendar_set,ստեղծել հիշեցում լվացքի համար երեկոյան ութին,social_post,0.5544,0.0008,False
+8388,hy-AM,calendar,calendar_set,ես ուզում եմ լվացք անել երեկոյան ութին ստեղծել հիշեցում,email_sendemail,0.8567,0.0037,False
+8390,hy-AM,calendar,calendar_set,հիշեցրու ինձ իմ հանդիպման մասին,social_post,0.7245,0.0032,False
+8394,hy-AM,calendar,calendar_set,դեղորայք ընդունելու մասին ամեն օր կեսօրին հիշեցում սահմանեք,lists_remove,0.4102,0.027,False
+8404,hy-AM,calendar,calendar_query,ես ուզում եմ ավելին իմանալ այս իրադարձության մասին,news_query,0.1621,0.0167,False
+8409,hy-AM,calendar,calendar_remove,ջնջիր իմ վաղվա ճաշկերույթը,calendar_remove,0.9439,0.9439,True
+8410,hy-AM,calendar,calendar_remove,հեռացնել իմ ընթրիքի միջոցառումը երկուշաբթի օրվա համար,iot_hue_lightoff,0.6466,0.134,False
+8413,hy-AM,calendar,calendar_set,խնդրում եմ զգուշացնել ինձ,email_sendemail,0.9465,0.0005,False
+8414,hy-AM,calendar,calendar_set,հիշեցրու ինձ գնալ ընթրելու դեյվի հետ ուրբաթ օրը ժամը հինգին,datetime_query,0.4918,0.0044,False
+8415,hy-AM,calendar,calendar_set,ավելացնել հանդիպում գրասենյակում բրայանի հետ երեքշաբթի ցերեկը երեքին,social_post,0.9874,0.0006,False
+8426,hy-AM,calendar,calendar_query,պատմիր ինձ ընթացիկ իրադարձությունները երեկվանից մինչև այսօր առավոտ,play_music,0.3352,0.0278,False
+8430,hy-AM,calendar,calendar_remove,չեղարկել իմ բոլոր հանդիպումները,lists_remove,0.6651,0.0437,False
+8431,hy-AM,calendar,calendar_remove,ազատվել իմ բոլոր նախատեսված իրադարձություններից,qa_factoid,0.3786,0.1617,False
+8436,hy-AM,calendar,calendar_set,խնդրում եմ ճաշի հանդիպումը նշանակել կեսօրին ժամը տասներկուսին մարտի յուրաքանչյուր չորեքշաբթի,calendar_remove,0.3832,0.0184,False
+8442,hy-AM,calendar,calendar_set,խնդրում եմ համապատասխանեցնել իմ օրացույցը այս իրադարձության հետ,iot_hue_lightoff,0.789,0.008,False
+8449,hy-AM,calendar,calendar_set,հիշեցում դրեք իմ դուստրի ծննդյան օրվա կապակցությամբ,social_post,0.8861,0.0013,False
+8453,hy-AM,calendar,calendar_set,խնդրում եմ տեղադրել իրադարձություն իմ օրացույցում և նշել այն որպես կրկնվող իրադարձություն,calendar_remove,0.1308,0.042,False
+8460,hy-AM,calendar,calendar_query,ցույց տվեք իմ իրադարձությունները,qa_factoid,0.8112,0.0024,False
+8461,hy-AM,calendar,calendar_query,ինչ պլաններ ունեմ ես մայիս ամսվա համար,qa_factoid,0.2671,0.032,False
+8466,hy-AM,calendar,calendar_set,ես չորեքշաբթի առավոտյան ժամը իննին հանդիպում ունեմ ինձ հիշեցում ուղարկեք,datetime_query,0.3438,0.0152,False
+8469,hy-AM,calendar,calendar_query,ինչ է նախատեսված իմ օրացույցում այսօր,recommendation_events,0.2299,0.033,False
+8474,hy-AM,calendar,calendar_set,ավելացրու ջուլիայի ծննդյան խնջույք վաղը ժամը երկուսին մաշտոցի պողոտայում,iot_hue_lightoff,0.3131,0.0367,False
+8494,hy-AM,calendar,calendar_query,ինչպիսին է այսօրվա իմ ժամանակացույցը,social_post,0.791,0.0062,False
+8496,hy-AM,calendar,calendar_query,ասա իմ վաղվա առավոտյան հանդիպումների մասին,email_sendemail,0.2924,0.0272,False
+8498,hy-AM,calendar,calendar_query,եկեք անցնենք բոլոր սպասվող հիշեցումներով,lists_remove,0.373,0.0153,False
+8516,hy-AM,calendar,calendar_remove,ջնջել օրացույցի տողերը,calendar_remove,0.7121,0.7121,True
+8520,hy-AM,calendar,calendar_set,իրադարձություն ավելացնել օրացույցի հավելվածին,iot_hue_lightoff,0.687,0.0028,False
+8525,hy-AM,calendar,calendar_query,հանդիպման հիշեցումներ երեքից հինգը,lists_query,0.2221,0.0351,False
+8535,hy-AM,calendar,calendar_set,կհիշեցնեք ինձ ատամնաբույժի այցելության մասին որին ես պետք է լինեմ երկու ժամից,email_sendemail,1.0,0.0,False
+8539,hy-AM,calendar,calendar_set,հիշեցնել իմ մասին,email_sendemail,0.558,0.0024,False
+8541,hy-AM,calendar,calendar_set,հիշեցրու ինձ խնդրում եմ,qa_factoid,0.4349,0.0075,False
+8553,hy-AM,calendar,calendar_set,թոմի հետ առավոտյան իննին իմ օրացույցում հանդիպում ավելացրեք,iot_hue_lightoff,0.5271,0.0142,False
+8559,hy-AM,calendar,calendar_query,ունեմ ինչ որ բան նախատեսված այսօր,cooking_recipe,0.3582,0.0136,False
+8562,hy-AM,calendar,calendar_remove,ջնջել իմ հանդիպումը ցերեկը ժամը երկուսին այսօր,calendar_remove,0.9632,0.9632,True
+8568,hy-AM,calendar,calendar_set,կուղարկեք օրացույցային հրավեր ջեյմսին և ալիսին նախաճաշելու երեքշաբթի առավոտյան ժամը տասնմեկին,weather_query,0.6082,0.0068,False
+8570,hy-AM,calendar,calendar_set,կնշեք որ վաղը ցերեկը երկուսին զբաղված եմ մի միջոցառման համար,recommendation_events,0.2341,0.0249,False
+8579,hy-AM,calendar,calendar_query,ինչ տեղեկատվություն պետք է իմանամ իմ այսօրվա հանդիպումների համար,email_sendemail,0.7032,0.0105,False
+8585,hy-AM,calendar,calendar_set,հիշեցրու ինձ որ ես երեսունին ծննդյան խնջույք ունեմ,qa_factoid,0.1048,0.0495,False
+8598,hy-AM,calendar,calendar_set,հիշեցրու ինձ որ մարկին վերցնեմ օդանավակայան երեկոյան ժամը վեցին,calendar_remove,0.3832,0.0208,False
+8618,hy-AM,calendar,calendar_set,հիշեցրու ինձ ամեն երեքշաբթի հինգշաբթի և շաբաթ օրը ջրել իմ բույսերը,cooking_recipe,0.5571,0.0201,False
+8631,hy-AM,calendar,calendar_remove,ջնջիր դա իմ օրացույցից,calendar_remove,0.9535,0.9535,True
+8635,hy-AM,calendar,calendar_set,կարող եք ինձ հիշեցնել որ պատվիրեմ հնդկահավ գոհության օրից երեք շաբաթ առաջ,email_sendemail,0.9993,0.0,False
+8640,hy-AM,calendar,calendar_set,ես ուզում եմ իմ օրացույցում գրառում կատարել վաղը գրադարանում կայանալիք միջոցառման համար,social_post,0.8287,0.0038,False
+8642,hy-AM,calendar,calendar_set,ավելացնել կոնֆերանս զանգ ցերեկը չորսին այսօրվա իմ հիշեցումներին,cooking_recipe,0.1759,0.0526,False
+8651,hy-AM,calendar,calendar_set,տեղեկացնել ինձ իրադարձության մասին իմ օրացույցում,email_sendemail,0.6848,0.0078,False
+8653,hy-AM,calendar,calendar_set,հիշեցրու ինձ իմ օրացույցի իրադարձության մասին,iot_hue_lightoff,0.2573,0.0302,False
+8666,hy-AM,calendar,calendar_remove,ջնջել բոլոր իրադարձությունները իմ օրացույցից,lists_remove,0.551,0.103,False
+8667,hy-AM,calendar,calendar_query,վերջին երեք ամսվա ընթացքում քանի հանդիպումներ եմ ունեցել պարոն ռիչարդի հետ,qa_factoid,0.0613,0.0546,False
+8670,hy-AM,calendar,calendar_remove,հեռացնել իրադարձությունները օրացույցից,weather_query,0.6732,0.0246,False
+8672,hy-AM,calendar,calendar_query,որտեղ է քիսսի համերգը,lists_query,0.0743,0.0463,False
+8674,hy-AM,calendar,calendar_query,որտեղ է իմ հանդիպումը առավոտյան իննին,social_post,0.8737,0.0038,False
+8679,hy-AM,calendar,calendar_query,այսօր սուրբ պատրիկի օրն է,weather_query,0.6886,0.0043,False
+8681,hy-AM,calendar,calendar_query,արդյոք որևէ մեկի ծննդյան օրն է,weather_query,0.8123,0.0004,False
+8694,hy-AM,calendar,calendar_set,միջոցառումը կներառի ուոլթերին և գեմմային,iot_hue_lightoff,0.2189,0.0145,False
+8730,hy-AM,calendar,calendar_set,խնդրում եմ իմ օրացույցում հիշեցում սահմանել մարտի քսանհինգին իմ հանդիպման մասին,iot_hue_lightoff,0.6229,0.0099,False
+8732,hy-AM,calendar,calendar_remove,ջնջել բոլոր ամսաթվերը,lists_remove,0.77,0.1641,False
+8762,hy-AM,calendar,calendar_query,ասել իմ ժամանակացույցը այս ցերեկ,social_post,0.5414,0.0056,False
+8765,hy-AM,calendar,calendar_set,օրացույցում նշիր իմ ընթրիք ծիրանիում այսօր իննին,social_post,0.6188,0.0084,False
+8766,hy-AM,calendar,calendar_query,շաբաթ օրը մարտի քսանհինգին ես հանդիպում ունեմ,datetime_query,0.7256,0.0042,False
+8767,hy-AM,calendar,calendar_query,ջեսիկայի ծնունդը ապրիլի տասներկուսին է,email_sendemail,0.6274,0.0015,False
+8769,hy-AM,calendar,calendar_remove,ջնջել առաջիկա իրադարձությունը,calendar_remove,0.8634,0.8634,True
+8771,hy-AM,calendar,calendar_remove,ջնջել գնումների ուղևորությունը որը ես պլանավորել եմ մարտի քսաներեքին,recommendation_events,0.794,0.0709,False
+8774,hy-AM,calendar,calendar_query,հուլիսի յոթի համար ամբողջովին բացել իմ գրաֆիկը,email_sendemail,0.2635,0.0153,False
+8781,hy-AM,calendar,calendar_query,ես ազատ եմ ցերեկը չորսին,weather_query,0.9655,0.0003,False
+8782,hy-AM,calendar,calendar_query,արդյոք ես հանդիպում ունեմ այս ցերեկ,weather_query,0.508,0.0054,False
+8791,hy-AM,calendar,calendar_query,լրացուցիչ տեղեկություններ այս իրադարձության մասին,email_sendemail,0.5091,0.0085,False
+8795,hy-AM,calendar,calendar_query,ցուցադրել սպասվող հիշեցումները,qa_factoid,0.3793,0.0119,False
+8822,hy-AM,recommendation,recommendation_events,գալիք միջոցառումների մասին տեղեկատվություն,recommendation_events,0.2314,0.2314,True
+8824,hy-AM,calendar,calendar_query,ես ինչ ունեմ պլանավորված ամսի տասնիննին ցերեկը երկուսին,datetime_query,0.6375,0.0176,False
+8825,hy-AM,calendar,calendar_set,ուղարկիր հիշեցում հաջորդ ուրբաթ թաթուլի հետ հանդիպմանս համար,email_sendemail,0.9628,0.0006,False
+8828,hy-AM,calendar,calendar_query,օրացույցի միջոցառումը ճիշտ է,recommendation_events,0.9951,0.0001,False
+8846,hy-AM,calendar,calendar_query,ունեմ որևէ բան նախատեսված այս տարվա հուլիսի չորսին,email_query,0.2786,0.0075,False
+8853,hy-AM,calendar,calendar_remove,ջնջիր իմ հաջորդ անելիքը,lists_remove,0.7186,0.2173,False
+8856,hy-AM,calendar,calendar_remove,ջնջել բոլոր միջոցառումները օրացույցից,lists_remove,0.8789,0.0465,False
+8857,hy-AM,calendar,calendar_set,հիշեցրու եկող հանդիպումը էրիկի հետ,social_post,0.9731,0.0008,False
+8868,hy-AM,calendar,calendar_set,հիշեցնել ինձ զանգել մայրիկին ամեն երեքշաբթի առավոտյան տասին,datetime_query,0.353,0.0288,False
+8880,hy-AM,calendar,calendar_set,սահմանել հիշեցում վաղվա հանդիպման մասին առավոտյան իննին,email_sendemail,0.9954,0.0003,False
+8888,hy-AM,calendar,calendar_remove,ջնջել այն,calendar_remove,0.4416,0.4416,True
+8900,hy-AM,calendar,calendar_set,սահմանել կրկնվող հիշեցումներ ամեն կիրակի օրվա համար,calendar_set,0.6586,0.6586,True
+8904,hy-AM,calendar,calendar_query,տեղեկություն վերջին միջոցառումներից,email_sendemail,0.2308,0.0172,False
+8906,hy-AM,calendar,calendar_set,սահմանել միջոցառում օրացույցում ուրիշների հետ,recommendation_events,0.7739,0.0069,False
+8907,hy-AM,calendar,calendar_set,նշել ծննդյան օր օրացույցում,weather_query,0.4467,0.0236,False
+8912,hy-AM,calendar,calendar_query,տուր ինձ այսօրվա օրացուցի երեկոյան վեցից հետո իրադարձությունները,iot_hue_lightoff,0.3632,0.0208,False
+8914,hy-AM,calendar,calendar_query,ժամը քանիսն է իմ ժամադրությունը ապրիլի չորսին,datetime_query,0.9996,0.0,False
+8916,hy-AM,calendar,calendar_query,որն է իմ օրվա ժամանակացույցը,datetime_query,0.6967,0.0017,False
+8925,hy-AM,calendar,calendar_remove,ջնջել իմ օրացույցի բոլոր հանդիպումները,lists_remove,0.7817,0.14,False
+8939,hy-AM,calendar,calendar_set,հերմինեի դստեր քառասունքի օրը,datetime_query,0.8573,0.0005,False
+8948,hy-AM,calendar,calendar_set,ավելացնել միջոցառում ջեյմսի հետ հանդիպում,social_post,0.8215,0.0034,False
+8949,hy-AM,calendar,calendar_remove,խնդրում եմ մաքրիր հիշեցումը,email_sendemail,0.5177,0.0215,False
+8958,hy-AM,calendar,calendar_query,բացել հանդիպման ժամը,qa_factoid,0.436,0.0018,False
+8960,hy-AM,calendar,calendar_set,ես ուզում եմ որ երեկոյան զգուշացնեք առաջիկա հանդիպման մասին,iot_hue_lightoff,0.2073,0.0175,False
+8967,hy-AM,calendar,calendar_set,հիշեցրու ինձ կնոջս ծննդյան օրվանից երկու օր առաջ,datetime_query,0.2514,0.0316,False
+8968,hy-AM,calendar,calendar_set,ասա ինձ այս շաբաթ հիշեցնել ինչ որ բան,social_post,0.6641,0.0089,False
+8975,hy-AM,calendar,calendar_query,ինչ հանդիպումներ են նախատեսված այսօր,social_post,0.8245,0.0059,False
+8977,hy-AM,calendar,calendar_set,պարզապես ինձ հիշեցումներ դրեք սպասվող չեկերի վճարումների մասին,email_sendemail,0.9823,0.0008,False
+8978,hy-AM,calendar,calendar_set,պարզապես տեղեկացրեք ինձ շաբաթվա ընթացքում իմ ղեկավարի հետ կարևոր հանդիպումների մասին,email_sendemail,1.0,0.0,False
+8985,hy-AM,calendar,calendar_remove,օքեյ գուգլ ջնջիր էրիկի ծննդյան օրը իմ օրացույցից,weather_query,0.4995,0.0445,False
+8990,hy-AM,calendar,calendar_set,միջոցառում անել,email_sendemail,0.9848,0.0,False
+8992,hy-AM,calendar,calendar_set,ցույց տալ հանդիպումները,social_post,0.7855,0.0019,False
+9009,hy-AM,calendar,calendar_remove,հեռացնել տարեդարձի իրադարձությունը իմ օրացույցից,qa_factoid,0.5164,0.0107,False
+9011,hy-AM,calendar,calendar_query,վարդավառը այս ամսվա տասնչորսին է,qa_factoid,1.0,0.0,False
+9014,hy-AM,calendar,calendar_set,խնդրում եմ հոկտեմբերի քսաներեքին ծանուցում ուղարկել իմ գործընկերոջ հետ հանդիպման մասին,email_sendemail,0.9286,0.0025,False
+9015,hy-AM,calendar,calendar_remove,մաքրել իմ օրացույցի բոլոր իրադարձությունները,lists_remove,0.8085,0.0389,False
+9019,hy-AM,calendar,calendar_query,հանդիպումներ հունիսի քսանից քսանհինգը,news_query,0.8463,0.0043,False
+9030,hy-AM,calendar,calendar_remove,հեռացնել օրացույցից իմ այսօրվա բժշկական այցելությունը,iot_hue_lightoff,0.547,0.2159,False
+9035,hy-AM,calendar,calendar_query,ռահուլի ամուսնության հիշեցում,email_sendemail,1.0,0.0,False
+9043,hy-AM,calendar,calendar_set,գալիք միջոցառումներ օրացույցում,weather_query,0.415,0.0031,False
+9053,hy-AM,calendar,calendar_set,երեքշաբթի օրը մոնայի հետ հանդիպման իրադարձության հիշեցում սահմանեք,weather_query,0.1737,0.0274,False
+9054,hy-AM,calendar,calendar_set,իրադարձության հիշեցում մոնա երեքշաբթի,news_query,0.5167,0.0224,False
+9059,hy-AM,calendar,calendar_set,զգուշացրեք ինձ միջոցառման ժամանակ,calendar_remove,0.4634,0.0041,False
+9061,hy-AM,calendar,calendar_query,ինչ տեղեկություններ ունեմ հիշեցումների վերաբերյալ,news_query,0.2106,0.0336,False
+9062,hy-AM,calendar,calendar_set,կարող եք նշել լիի ծննդյան օրը հունիսի քսաներկուսին,datetime_query,0.9346,0.0022,False
+9074,hy-AM,calendar,calendar_remove,խնդրում եմ հանել այդ միջոցառումը,calendar_remove,0.5857,0.5857,True
+9088,hy-AM,calendar,calendar_remove,ջնջիր ամեն ինչ իմ օրացույցում,lists_remove,0.5139,0.4163,False
+9095,hy-AM,calendar,calendar_remove,հեռացնել այս երեկո ընթրիքը շելլիի հետ,iot_hue_lightoff,0.3486,0.1157,False
+9103,hy-AM,calendar,calendar_query,այս ցերեկ իմ օրացույցում հանդիպում կա,weather_query,0.6815,0.0044,False
+9107,hy-AM,calendar,calendar_query,որ ժամին է սկսվում հունիսի երեքին զաք բրաունի համերգը,datetime_query,0.956,0.0007,False
+9110,hy-AM,calendar,calendar_set,երկու հազար տասնյոթի մարտի քսանհինգի զանգվածայն ցուցահանդեսը նշեք այն համապատասխան ամսաթվին,datetime_query,0.4119,0.0235,False
+9112,hy-AM,calendar,calendar_set,ավելացրեք սա իմ օրացույցում,social_post,0.5271,0.0014,False
+9114,hy-AM,calendar,calendar_set,գրանցել կրկնվող հիշեցում այս օրացուցային իրադարձության համար,recommendation_events,0.157,0.0392,False
+9116,hy-AM,calendar,calendar_query,կարող ես տեղափոխել իմ հանդիպումը,qa_factoid,0.9993,0.0,False
+9121,hy-AM,calendar,calendar_query,ինչ օրեր եմ ես ամրագրել,weather_query,0.9415,0.0011,False
+9124,hy-AM,calendar,calendar_set,ցույց տվեք հաջորդ շաբաթվա իմ աշխատանքային օրացույցի իրադարձությունները,weather_query,0.8115,0.0042,False
+9137,hy-AM,calendar,calendar_query,որ ժամին է փակվում իտալական սրճարանը լանչի և ճաշի միջև,datetime_query,0.6595,0.0031,False
+9138,hy-AM,qa,qa_factoid,երբ պաշտոնապես կսկսվի սուպերգավաթը,weather_query,0.7931,0.0049,False
+9149,hy-AM,calendar,calendar_query,ժամը քանիսին պետք սկսել սև փողկապի գալա ընթրիքը,datetime_query,0.9955,0.0001,False
+9153,hy-AM,calendar,calendar_set,խնդրում եմ շաբաթ օրը իմ օրացույցում ավելացրեք ընթրիք մերիի հետ,calendar_remove,0.7938,0.019,False
+9155,hy-AM,calendar,calendar_set,խնդրում եմ ուրբաթ օրը ժամը երեքին ատամնաբույժի այցելություն գրանցել,email_sendemail,1.0,0.0,False
+9156,hy-AM,calendar,calendar_set,հիշեցում,qa_factoid,0.9998,0.0,False
+9175,hy-AM,calendar,calendar_query,արդյոք իմ օրացույցը թարմացվել է վերջին տասը րոպեների ընթացքում,weather_query,0.9693,0.0001,False
+9182,hy-AM,calendar,calendar_remove,չեղարկել ծնողներիս օդանավակայանից վերցնելու իմ ծրագրերը,lists_remove,0.8973,0.0259,False
+9187,hy-AM,calendar,calendar_set,ուսումնասիրել հաճախորդներին ովքեր ներկա կլինեն հանդիպմանը,social_post,0.4346,0.0164,False
+9193,hy-AM,calendar,calendar_set,խնդրում եմ սահմանել այս ամսաթիվը կրկնելու համար,qa_factoid,0.7464,0.0047,False
+9194,hy-AM,calendar,calendar_remove,խնդրում եմ հեռացնել այս իրադարձությունը իմ օրացույցից,iot_hue_lightoff,0.6615,0.1593,False
+9197,hy-AM,calendar,calendar_query,ինչ եմ ես պլանավորել այս շաբաթ,cooking_recipe,0.5107,0.0053,False
+9198,hy-AM,calendar,calendar_query,խնդրում եմ ստուգեք իմ հիշեցումները,email_sendemail,0.7458,0.0027,False
+9202,hy-AM,play,play_radio,միացրու իմ ռադիոկայանը,play_music,0.8843,0.0005,False
+9204,hy-AM,play,play_radio,միացրեք հայ ռադիոն,play_music,0.9991,0.0,False
+9212,hy-AM,play,play_radio,ինչ- որ մեկը ռադիո է միացրել,qa_factoid,0.6011,0.0045,False
+9216,hy-AM,play,play_radio,միացրու իմ կայանը,email_sendemail,0.4414,0.0332,False
+9225,hy-AM,play,play_radio,դու կարող ես միացնել ռադիոն,qa_factoid,0.9405,0.0004,False
+9233,hy-AM,play,play_radio,բացիր pandora,qa_factoid,0.9137,0.0042,False
+9236,hy-AM,play,play_radio,միացրու ազատություն ռադիոկայանը,play_podcasts,0.8601,0.0043,False
+9237,hy-AM,play,play_radio,միացրու ռադիոն և միացրու ավրորա ալիքը,play_music,0.5019,0.0107,False
+9250,hy-AM,play,play_radio,ես ուզում եմ ռադիո լսել,play_music,0.9997,0.0,False
+9254,hy-AM,play,play_radio,խնդում եմ միացրու ինը հարյուր երեսուն ութ f. m. ռադիո հայ,play_music,0.6355,0.0194,False
+9263,hy-AM,play,play_radio,բացիր radio հավելված,play_radio,1.0,1.0,True
+9269,hy-AM,play,play_radio,միացնել ազատություն ռադիոկայան,play_podcasts,0.7305,0.004,False
+9270,hy-AM,play,play_radio,պարզապես միացրու ավրորա,cooking_recipe,0.6318,0.0264,False
+9275,hy-AM,play,play_radio,միայն ռադիո ավրորան դիր ռադիոյով,play_music,0.9165,0.0026,False
+9284,hy-AM,play,play_radio,միացրու շորորա,social_post,0.4375,0.0716,False
+9291,hy-AM,play,play_radio,դիր,email_sendemail,0.9892,0.0002,False
+9301,hy-AM,play,play_radio,լսել էֆ էմ,email_sendemail,1.0,0.0,False
+9303,hy-AM,play,play_radio,միացրու ռադիո ավրորա,play_music,0.9855,0.0002,False
+9305,hy-AM,play,play_radio,միացրու ռադիո հայը,play_music,0.9846,0.0002,False
+9316,hy-AM,play,play_radio,միացրու kiss f. m. ինձ համար,qa_factoid,0.9928,0.0002,False
+9317,hy-AM,play,play_radio,միացնել ռադիո հիմա,play_music,0.9906,0.0001,False
+9321,hy-AM,play,play_radio,միացրու ռադիոն հիմա,play_music,0.9974,0.0001,False
+9323,hy-AM,play,play_radio,միացրու pandora,play_music,0.9937,0.0004,False
+9326,hy-AM,play,play_radio,խնդրում եմ միացրու ռադիո ավրորա հենց հիմա,play_music,0.5035,0.0347,False
+9327,hy-AM,play,play_radio,խնդրում եմ հենց հիմա զննարկիր էյ էմի հեռարձակումը ռադիոյով,email_sendemail,0.605,0.0141,False
+9330,hy-AM,play,play_radio,միացնել,play_music,0.2187,0.1187,False
+9341,hy-AM,play,play_radio,alexa փոխիր ռադիոկայանը,email_sendemail,0.9983,0.0,False
+9352,hy-AM,play,play_radio,միացրու ռադիոն խնդրում եմ,play_music,0.9996,0.0,False
+9353,hy-AM,play,play_radio,ռադիոյով սկսեք լսել ինչ որ երաժշտություն,play_music,1.0,0.0,False
+9358,hy-AM,play,play_radio,միացրու ռադիո ալիք ավրորան,play_music,0.6708,0.0035,False
+9361,hy-AM,play,play_radio,լսել ռադիո,play_music,0.9999,0.0,False
+9362,hy-AM,play,play_radio,ռադիո ալիքներ,play_music,0.984,0.001,False
+9363,hy-AM,play,play_radio,եկեք լսենք հիթեր ռադիոյով,play_music,0.9998,0.0,False
+9364,hy-AM,play,play_radio,եկեք երաժշտական հիթեր նվագենք,social_post,0.5419,0.0055,False
+9380,hy-AM,play,play_radio,ուզում եմ գնաս ռադիո ավրորա ռադիոյով,play_music,0.9594,0.0033,False
+9384,hy-AM,play,play_radio,միացրու ազատություն ռադիոկայանը,play_podcasts,0.8601,0.0043,False
+9394,hy-AM,play,play_radio,հեյ օլի միացրու ռադիոն,play_music,0.9776,0.0004,False
+9402,hy-AM,play,play_radio,նվագարկեք ռադիո ավրորա ռադիոկայանըը,iot_hue_lightoff,0.4424,0.0032,False
+9406,hy-AM,play,play_radio,միացնել ռադիո ավրորա,play_music,0.9977,0.0001,False
+9408,hy-AM,play,play_radio,միացրու ռադիո ներկայացումը,play_music,0.6507,0.0092,False
+9426,hy-AM,play,play_radio,ես ուզում եմ լսել ռադիո հայ,play_music,0.9974,0.0,False
+9438,hy-AM,play,play_radio,կարող եs ինձ ռեփ երգ նվագել ռադիոյով,play_music,0.9958,0.0002,False
+9457,hy-AM,play,play_music,միացրու քամի քամի երգը,social_post,0.932,0.0006,False
+9460,hy-AM,play,play_music,միացրու իննսունականների հիփ հոփ,social_post,0.9996,0.0,False
+9471,hy-AM,play,play_radio,միացրու քանթրի երաժշտական կայան,play_music,0.9357,0.003,False
+9494,hy-AM,play,play_radio,կարող ես խնդրում եմ միացնել f. m. կայանը որ միացնում է փոփ երգեր,qa_factoid,0.6463,0.0125,False
+9506,hy-AM,play,play_radio,օլի եկ լսենք ռադիո հայ,play_music,1.0,0.0,False
+9507,hy-AM,play,play_radio,խնդրում եմ հիմա միացնել հովարդ սթերն ռադիոկայանը,calendar_remove,0.8486,0.0018,False
+9519,hy-AM,play,play_radio,միացրու որևէ փոփ f. m. ալիք,email_sendemail,0.9963,0.0001,False
+9520,hy-AM,play,play_radio,միացրու վերջին բժշկին ով ռադիոհեռարձակում է անում,qa_factoid,0.1098,0.0438,False
+9524,hy-AM,play,play_radio,դիր ծրագիր կամ ռադիո հայ,social_post,0.9528,0.0012,False
+9528,hy-AM,play,play_radio,միացրու ազատություն և խաղարկիր այն առանց բարձրախոսի,social_post,0.2721,0.2126,False
+9541,hy-AM,play,play_radio,միացրու շորորա երգը ռադիոյով,play_music,0.9623,0.0012,False
+9542,hy-AM,play,play_radio,թույլ տվեք լսել ռադիոյով վերջին լրատվական հաղորդումը,play_music,0.9972,0.0002,False
+9545,hy-AM,play,play_radio,ուզում եմ լսել երգազրույց շոուն,play_music,1.0,0.0,False
+9554,hy-AM,play,play_radio,ֆ․ մ․ իննսուներկու կետ յոթով միացրու ռոմանտիկ երաժշտություն,recommendation_events,0.6669,0.0042,False
+9561,hy-AM,play,play_radio,միացրու ազատություն ռադիոկայանը,play_podcasts,0.8601,0.0043,False
+9562,hy-AM,play,play_radio,խնդրում եմ կարող եք նվագել այս ծրագիրը ինձ համար,iot_hue_lightoff,0.8954,0.0032,False
+9565,hy-AM,play,play_radio,նվագել ռադիո անդադար երգերով,play_music,0.8984,0.0026,False
+9568,hy-AM,play,play_radio,միացրու արամոյի կենդանի համերգ շարքը,play_music,0.9227,0.0095,False
+9569,hy-AM,play,play_radio,ok google միացրու հանրային ռադիոն,recommendation_events,0.3736,0.0048,False
+9577,hy-AM,play,play_radio,փոխիր ալիքը հարյուր չորս և ինը,calendar_remove,0.392,0.0152,False
+9591,hy-AM,play,play_radio,լսել բհուլի բիսրի յաադեն ծրագիր իննսունմեկ կետ երեք էֆ էմ,social_post,0.1928,0.0283,False
+9592,hy-AM,play,play_podcasts,փնտրիր այն փոդքաստերը որոնք լուսաբանում են տղամարդկանց խնդիրները,recommendation_events,0.9178,0.0011,False
+9594,hy-AM,play,play_radio,իննսուն կետ յոթի երգերը,lists_query,0.3847,0.0146,False
+9601,hy-AM,play,play_radio,միացրու կանտրի ռադիո,play_music,0.851,0.0009,False
+9617,hy-AM,play,play_radio,միացրու ինձ համար ռադիո հայի այս առավոտվա շոուն,play_music,0.3982,0.0145,False
+9619,hy-AM,play,play_radio,միացրու էմփիրեյ սև ու սպիտակ մեքենայի ռադիոյով,play_podcasts,0.3998,0.0122,False
+9620,hy-AM,play,play_radio,կարող ես ռադիոյով երաժշտական առավոտը միացնել ննջասենյակում,play_music,0.989,0.0003,False
+9629,hy-AM,play,play_radio,խնդրում եմ կարող եք օգնել ինձ ռադիո լսելու հարցում,play_radio,0.5858,0.5858,True
+9630,hy-AM,play,play_radio,ինձ համար նվագարկիր ռադիո ավրորա,cooking_recipe,0.9884,0.0003,False
+9632,hy-AM,play,play_radio,խնդրում եմ միացրու ռադիո,play_music,0.8272,0.0025,False
+9637,hy-AM,play,play_radio,սկսիր իմ երգացանկը ռադիո ավրորայից,play_music,1.0,0.0,False
+9640,hy-AM,play,play_radio,բացիր spotify-ը և բացիր մարզումը,play_podcasts,0.6837,0.0002,False
+9651,hy-AM,play,play_radio,նեթֆլիքս միացրու իմ փիէս չորսին,social_post,0.7657,0.0012,False
+9656,hy-AM,play,play_music,նվագիր ինձ ուրախ երգ քո բարձրախոսների միջոցով,play_music,0.5252,0.5252,True
+9706,hy-AM,play,play_music,նվագիր զանգակները,social_post,0.6486,0.0015,False
+9707,hy-AM,play,play_music,բացիր մեդիան միացրու նոր տարի,iot_hue_lightoff,0.398,0.0074,False
+9738,hy-AM,play,play_music,ինձ համար դասական երաժշտություն կմիացնես խնդրում եմ,play_music,0.9979,0.9979,True
+9793,hy-AM,play,play_music,նվագիր ռոմանտիկ երգեր,social_post,0.7141,0.0348,False
+9795,hy-AM,play,play_music,վերսկսել մեր երկիրը,play_radio,0.2397,0.1227,False
+9912,hy-AM,cooking,cooking_recipe,olly ինչքան ժամանակ խաշեմ ձվերը,cooking_recipe,0.9173,0.9173,True
+9918,hy-AM,cooking,cooking_recipe,ինչպես պատրաստել պիցցա,cooking_recipe,0.8277,0.8277,True
+9923,hy-AM,cooking,cooking_recipe,որքան պետք է եռացնել ձուն,lists_remove,0.8704,0.047,False
+9924,hy-AM,cooking,cooking_recipe,ասա ինձ բաղադրատոմսը,email_query,0.2771,0.2227,False
+9930,hy-AM,cooking,cooking_recipe,որքան պետք է եռացնել ձուն,lists_remove,0.8704,0.047,False
+9931,hy-AM,cooking,cooking_recipe,օլլի որքան պետք է եռացնել ձուն,iot_hue_lightoff,0.4026,0.1232,False
+9940,hy-AM,cooking,cooking_recipe,ինձ համար գտիր շոկոլադե տորթի բաղադրատոմս,qa_factoid,0.647,0.0081,False
+9941,hy-AM,cooking,cooking_recipe,ինչպես պատրաստեմ կարագով հավ,qa_factoid,0.9438,0.0472,False
+9942,hy-AM,cooking,cooking_recipe,ամենը ինչ պարունակում է կարմիր թավշյա տորթը,lists_query,0.5411,0.0307,False
+9943,hy-AM,cooking,cooking_recipe,որքան ժամանակ է տևում բանջարեղենով լազանյա պատրաստելը,qa_factoid,0.7294,0.1776,False
+9952,hy-AM,cooking,cooking_recipe,խոհարարության ձեռնարկ գտիր,qa_factoid,0.5859,0.0003,False
+9955,hy-AM,cooking,cooking_recipe,ցույց տուր տապակած հավ պատրաստելու վիդեո,qa_factoid,0.8348,0.014,False
+9956,hy-AM,cooking,cooking_recipe,ինչ եմ կարող օգտագործել կարագի փոխարեն,qa_factoid,0.993,0.0033,False
+9961,hy-AM,cooking,cooking_recipe,որն է ձեռոցի ամենաճիշտ ջերմաստիճանը կարտոֆիլ խորովելու համար,iot_hue_lightoff,0.1961,0.1634,False
+9962,hy-AM,cooking,cooking_recipe,որն է պաստա ալ դենտե պատրաստելու ամենալավ եղանակը,qa_factoid,0.9307,0.0335,False
+9964,hy-AM,cooking,cooking_recipe,գիտելիքներ սննդի վերամշակման մասին,lists_query,0.2016,0.0414,False
+9966,hy-AM,cooking,cooking_recipe,որն է պաստա եփելու ամենահեշտ եղանակը,qa_factoid,0.9337,0.0005,False
+9969,hy-AM,cooking,cooking_recipe,ինչով կարելի է փոխարինել զաֆրանը,qa_factoid,0.9989,0.0,False
+9971,hy-AM,cooking,cooking_recipe,ինչն է ավելի լավ փոխանցում ջորմությունը պղնձե հատակով կաթսաները թե չուգունը,recommendation_events,0.4288,0.0133,False
+9976,hy-AM,cooking,cooking_recipe,հեյ ռոբոտ տուր ինձ հայկական ղափամայի բաղադրիչների ցանկը,recommendation_events,0.3256,0.2299,False
+9977,hy-AM,cooking,cooking_recipe,որոնել ինտերնետում և միացնել համապատասխան youtube վիդեոներ իտալական ուտեստներ պատրաստելու համար,social_post,0.5676,0.0132,False
+9979,hy-AM,cooking,cooking_recipe,մի փոքր վարսակ եփել ինձ համար,social_post,0.9225,0.0019,False
+9980,hy-AM,cooking,cooking_recipe,ինչ կա էսօրվա մենյուում ավելացրու խաշած բանջարեղեն,cooking_recipe,0.3003,0.3003,True
+9986,hy-AM,cooking,cooking_recipe,եռացող,qa_factoid,0.9993,0.0,False
+9994,hy-AM,cooking,cooking_recipe,կարող ես ինձ ասել հարիսա եփելու բաղադրատոմսը,email_sendemail,0.9543,0.0306,False
+10016,hy-AM,cooking,cooking_recipe,ամանորյա խոզի բուդ պատրաստելը հինգ նախադասությամբ,cooking_recipe,0.9831,0.9831,True
+10019,hy-AM,cooking,cooking_recipe,ասա ինձ խնդրում եմ ինչպես թխել տասներկու վարսակի ալյուրով թխվածքաբլիթներ,cooking_recipe,0.8822,0.8822,True
+10023,hy-AM,cooking,cooking_recipe,ինչ է պետք գառան խաշլամա պատրաստելու համար,cooking_recipe,0.9926,0.9926,True
+10027,hy-AM,cooking,cooking_recipe,ճաշ պատրաստելու հրահանգներ,qa_factoid,0.9667,0.0174,False
+10031,hy-AM,cooking,cooking_recipe,ինձ պետք է իմ գնումների ցուցակի բաղադրիչներից կազմված բաղադրատոմս,qa_factoid,0.8055,0.0055,False
+10038,hy-AM,cooking,cooking_recipe,ինձ ճաշ պատրաստելու համար լավ գաղափարներ են պետք,cooking_recipe,0.9732,0.9732,True
+10045,hy-AM,cooking,cooking_recipe,կարող ես ինձ տալը տանը հավով և լապշայով ապուր պատրաստելու բաղադրատոմս,cooking_recipe,0.977,0.977,True
+10048,hy-AM,cooking,cooking_recipe,ինչպես պատրաստել հնդկահավ,cooking_recipe,0.9967,0.9967,True
+10049,hy-AM,cooking,cooking_recipe,ասա ինձ ինչպես պատրաստել սենդվիչ,cooking_recipe,0.9988,0.9988,True
+10053,hy-AM,cooking,cooking_recipe,ոնց սարքեմ պիցցա,qa_factoid,0.7478,0.0135,False
+10055,hy-AM,cooking,cooking_recipe,որն է տապակած հավի բաղադրատոմսը,qa_definition,0.7479,0.0088,False
+10061,hy-AM,cooking,cooking_recipe,ինչ եփել ընթրիքին,cooking_recipe,0.4844,0.4844,True
+10072,hy-AM,cooking,cooking_recipe,հավը վառարանում որքան ժամանակ թողնել,qa_factoid,0.9999,0.0,False
+10076,hy-AM,cooking,cooking_recipe,կարող ես փոխարինել կերակրի սոդան փխրեցուցիչով,iot_hue_lightoff,0.5979,0.0209,False
+10077,hy-AM,cooking,cooking_recipe,գտնել բաղադրատոմս այս երեկո ճաշի համար,cooking_recipe,0.9962,0.9962,True
+10078,hy-AM,cooking,cooking_recipe,ինչ եփեմ ընթրիքին,qa_factoid,0.9175,0.026,False
+10080,hy-AM,cooking,cooking_recipe,արի կոլոլակները միասին եփենք,cooking_recipe,0.8764,0.8764,True
+10081,hy-AM,cooking,cooking_recipe,ասա ինչպես պատրաստել կոլոլակներ,cooking_recipe,0.9972,0.9972,True
+10090,hy-AM,cooking,cooking_recipe,ինձ թունայի ռեցեպտ կգտնես,play_music,0.6489,0.0001,False
+10093,hy-AM,cooking,cooking_recipe,ոնց ա լազանյան պատրաստվում,iot_hue_lightoff,0.6304,0.0435,False
+10097,hy-AM,cooking,cooking_recipe,ես չիզբուրգեր եմ ցանկանում,qa_factoid,0.9986,0.0,False
+10099,hy-AM,cooking,cooking_recipe,գիտես ինչպես եփել ռիզոտո,qa_definition,0.7501,0.0011,False
+10100,hy-AM,cooking,cooking_recipe,գիտես ռիզոտտոյի ռեցեպտ,play_music,0.8324,0.0066,False
+10105,hy-AM,cooking,cooking_recipe,որքան պետք է եփեմ սթեյքը միջին եփվածության հասցնելու համար,lists_query,0.2779,0.0363,False
+10107,hy-AM,cooking,cooking_recipe,ինձ պետք է բուսակերական փլավի բաղադրատոմս,iot_hue_lightoff,0.7749,0.0855,False
+10119,hy-AM,cooking,cooking_recipe,որքան երկար ես դու եփում տասնհինգ ֆունտանոց հնդկահավը,qa_factoid,0.4955,0.0261,False
+10125,hy-AM,cooking,cooking_recipe,ինչ տարբերություն թխելու և տապակելու միջև,iot_hue_lightoff,0.1616,0.0386,False
+10132,hy-AM,cooking,cooking_recipe,որքան ժամանակ է պետք միջին եփվածության սթեյք պատրաստելու համար,qa_factoid,0.6702,0.0353,False
+10150,hy-AM,cooking,cooking_recipe,ինչպես պատրաստել տակո,cooking_recipe,0.9921,0.9921,True
+10156,hy-AM,cooking,cooking_recipe,ինձ պետք է ճշտել թե ինչպես սարքել լցոնված բիբար,qa_factoid,0.997,0.0009,False
+10164,hy-AM,cooking,cooking_recipe,որքան պետք է եփել մակարոնեղենը,qa_factoid,0.8706,0.027,False
+10166,hy-AM,cooking,cooking_recipe,փնտրիր խնձորի պիրոգի ռեցեպտ,recommendation_events,0.8948,0.0589,False
+10171,hy-AM,cooking,cooking_recipe,որն է ձկնապուրի բաղադրատոմսը,qa_definition,0.9829,0.0015,False
+10177,hy-AM,cooking,cooking_recipe,ինչպես եփել սպագետտի սքվոշ,qa_definition,0.8666,0.0304,False
+10182,hy-AM,cooking,cooking_recipe,քանի ձու է ինձ պետք ձվածեղի համար,cooking_recipe,0.4251,0.4251,True
+10197,hy-AM,cooking,cooking_recipe,ցույց տուր ինձ սպագետիի ամենալավ բաղադրատոմսը,qa_factoid,0.9946,0.0013,False
+10206,hy-AM,cooking,cooking_recipe,ինչպես է պատրաստվում բրինձը,cooking_recipe,0.9925,0.9925,True
+10213,hy-AM,cooking,cooking_recipe,բիրյանիի հայտնի բաղադրատոմսերի ցուցակ,social_post,0.9519,0.002,False
+10214,hy-AM,cooking,cooking_recipe,բաղադրատոմսեր որոնք կարելի է պատրաստել մեկ ժամում,recommendation_events,0.8583,0.004,False
+10216,hy-AM,cooking,cooking_recipe,փնտրիր համացանցում կեքս պատրաստելու տապակ,cooking_recipe,0.6327,0.6327,True
+10217,hy-AM,cooking,cooking_recipe,գտիր բորշի բաղադրատոմս cookingforu հավելվածում,cooking_recipe,1.0,1.0,True
+10220,hy-AM,cooking,cooking_recipe,ինչ բաղադրիչներ են պետք մեծ տորթ թխելու համար,cooking_recipe,0.6017,0.6017,True
+10224,hy-AM,cooking,cooking_recipe,պետք է որ համեղ լինի,qa_factoid,0.9967,0.0006,False
+10226,hy-AM,cooking,cooking_recipe,ասա ինձ պաստա պատրաստելու բաղադրատոմսը,cooking_recipe,0.9937,0.9937,True
+10426,hy-AM,lists,lists_query,էլ ինչ է պակասում օրագրում,news_query,0.8476,0.0132,False
+10427,hy-AM,lists,lists_remove,խնդրում եմ մաքրել իմ գնումների ցուցակը,calendar_remove,0.4733,0.2231,False
+10430,hy-AM,lists,lists_remove,ջնջել ցուցակի առաջին իրը,iot_hue_lightoff,0.6502,0.0373,False
+10433,hy-AM,lists,lists_remove,հանիր իմ առաջադրանքների ցանկը,lists_remove,0.9711,0.9711,True
+10440,hy-AM,lists,lists_query,իմ ցուցակում կան ինչ որ հատուկ միջոցառումներ,recommendation_events,0.6643,0.1389,False
+10442,hy-AM,lists,lists_remove,միջոցառումները ջնջիր իմ ցանկից,lists_remove,0.9626,0.9626,True
+10444,hy-AM,lists,lists_remove,ջնջել իր,calendar_remove,0.6825,0.1004,False
+10451,hy-AM,lists,lists_query,ինչ պետք է անեմ այսօր,cooking_recipe,0.8459,0.0142,False
+10455,hy-AM,lists,lists_query,ինչ կա իմ կատարվելիք գործերի ցուցակում,qa_factoid,0.9997,0.0,False
+10462,hy-AM,lists,lists_remove,վերացրու ցանկը,qa_factoid,0.9945,0.0004,False
+10493,hy-AM,lists,lists_query,ինչ կա իմ կատարվելիք գործերի ցուցակում,qa_factoid,0.9997,0.0,False
+10494,hy-AM,lists,lists_remove,ջնջիր մատիտը դարակից,iot_hue_lightoff,0.9513,0.0105,False
+10497,hy-AM,qa,qa_factoid,կարող եմ ունենալ փարիզի հինգ աստղանի հյուրանոցների ցուցակը,social_post,0.2607,0.2579,False
+10508,hy-AM,lists,lists_remove,ջնջել ցուցակ առարկան,iot_hue_lightoff,0.9404,0.0107,False
+10512,hy-AM,lists,lists_query,կազմիր այն ամենի ցուցակը որ մնացել է իմ հարցաշարում,qa_factoid,0.9985,0.0,False
+10523,hy-AM,lists,lists_remove,ջնջիր իմ երգացանկից հին անգլիական երգերի ցուցակը,lists_remove,0.5615,0.5615,True
+10525,hy-AM,lists,lists_remove,տեղափոխիր իմ մեքենայի վճարն իմ օրացույցի մեջ,qa_factoid,0.935,0.0109,False
+10527,hy-AM,lists,lists_remove,հեռացրեք ցուցակը,qa_factoid,0.6749,0.0006,False
+10534,hy-AM,lists,lists_query,ինչպիսին է այսօրվա կատարվելիք գործերի ցուցակը,qa_factoid,0.9765,0.0024,False
+10538,hy-AM,lists,lists_query,խնդրում եմ կրկնիր իմ գնումների ցուցակը,email_sendemail,0.7201,0.0018,False
+10565,hy-AM,lists,lists_remove,ջնջիր բոլոր ցուցակները,lists_remove,0.9512,0.9512,True
+10568,hy-AM,lists,lists_remove,հեռացրու հին երաժշտություն անվանումով ցանկը,play_music,0.1435,0.0395,False
+10570,hy-AM,lists,lists_query,ստուգիր իմ գործողությունների ցուցակը,iot_hue_lightoff,0.3145,0.0277,False
+10571,hy-AM,lists,lists_query,անդրոիդ,qa_factoid,0.9999,0.0,False
+10577,hy-AM,lists,lists_query,տուր ինձ իմ բոլոր ցուցակները,social_post,0.9913,0.0003,False
+10579,hy-AM,lists,lists_remove,վերականգնիր իմ տեղակայման վայրերի ցուցակը,qa_factoid,0.7837,0.0432,False
+10588,hy-AM,lists,lists_query,ցույց տալ ինձ ցուցակի պարունակությունը,qa_factoid,0.6615,0.0011,False
+10590,hy-AM,lists,lists_remove,երկրորդ շարքը հեռացրու ցուցակից,qa_factoid,0.9569,0.0142,False
+10655,hy-AM,lists,lists_remove,խնջույքի ժամ անվանումով ցանկ ջնջիր,datetime_query,0.9783,0.0004,False
+10667,hy-AM,lists,lists_query,թվարկիր ցուցակի ժամանակացույցերը,datetime_query,0.8068,0.0095,False
+10673,hy-AM,lists,lists_remove,խնդրում եմ ջնջիր հետևյալ ցուցակը,calendar_remove,0.8509,0.0571,False
+10674,hy-AM,lists,lists_remove,հեռացնել ընթացիկ ցանկը,iot_hue_lightoff,0.7185,0.0376,False
+10679,hy-AM,lists,lists_query,ինչ կա այսօր իմ անելիքների ցուցակում,news_query,0.9745,0.0027,False
+10684,hy-AM,lists,lists_query,ինչ ցուցակներ եմ ես հարցում արել,qa_factoid,0.9774,0.0002,False
+10687,hy-AM,lists,lists_remove,եթե ցուցադրության իրադարձություն կա ապա ջնջիր այն,qa_factoid,0.2672,0.2135,False
+10696,hy-AM,lists,lists_remove,փոխարինել,qa_factoid,0.9998,0.0,False
+10699,hy-AM,lists,lists_query,տեղեկացրու ինձ ցուցակում առկա ապրանքների մասին,email_sendemail,0.9998,0.0,False
+10718,hy-AM,lists,lists_remove,կարող ես այս մեկը ջնջել ցուցակից,qa_factoid,0.6277,0.112,False
+10731,hy-AM,lists,lists_query,կարդա ինչ կա իմ ցուցակում,qa_factoid,0.9717,0.0011,False
+10743,hy-AM,lists,lists_remove,ջնջիր այդ կետը,qa_factoid,0.9999,0.0,False
+10753,hy-AM,lists,lists_query,ինչ եմ ես արդեն գրի առել walmart ցուցակում,qa_factoid,0.424,0.0113,False
+10755,hy-AM,lists,lists_remove,հեռացրու իմ կատարվելիք գործերի ցուցակը,qa_factoid,0.9995,0.0001,False
+10756,hy-AM,lists,lists_remove,մաքրիր գնումների ցուցակը,lists_remove,0.5539,0.5539,True
+10757,hy-AM,lists,lists_query,ինչ բան կա իմ գնումների ցուցակում,recommendation_events,0.4759,0.1911,False
+10759,hy-AM,lists,lists_query,ինձ համար կարդա իմ գնումներ ցանկը,qa_factoid,0.9943,0.0011,False
+10760,hy-AM,lists,lists_query,ասա ինձ այն ցուցակը որը ես գրել եմ երկու օր առաջ,iot_hue_lightoff,0.9817,0.0,False
+10770,hy-AM,lists,lists_remove,ջնջիր շիլան իմ գնումների ցուցակից,recommendation_events,0.6197,0.0794,False
+10772,hy-AM,calendar,calendar_remove,հեռացնել իմ ատամնաբույժի այցելությունը այսօրվա գրաֆիկից,iot_hue_lightoff,0.5396,0.001,False
+10776,hy-AM,lists,lists_query,ես ունեմ պատրաստի մթերային ցուցակը,cooking_recipe,0.639,0.0002,False
+10786,hy-AM,lists,lists_remove,ջնջիր իմ այսօրվա գործողությունների ցանկը,calendar_remove,0.8047,0.1504,False
+10790,hy-AM,lists,lists_remove,ջնջիր ապրանքը ցուցակից,lists_remove,0.5205,0.5205,True
+10804,hy-AM,lists,lists_query,կարդա իմ մթերային ցուցակը,iot_hue_lightoff,0.6866,0.0162,False
+10805,hy-AM,lists,lists_query,խնդրում եմ ցույց տուր ինձ ցուցակը որ ես ունեմ,email_sendemail,1.0,0.0,False
+10808,hy-AM,lists,lists_remove,ջնջիր ցուցակի վերջին ապրանքը,calendar_remove,0.3826,0.3707,False
+10824,hy-AM,lists,lists_remove,գեղեցիկ մաքրիր ցուցակը,social_post,0.3792,0.018,False
+10825,hy-AM,lists,lists_remove,մաքրիր ցուցակը,iot_hue_lightoff,0.6832,0.0684,False
+10827,hy-AM,lists,lists_remove,ջնջիր նպարեղենի ցուցակը,iot_hue_lightoff,0.5191,0.0373,False
+10828,hy-AM,lists,lists_remove,հանիր բոլորը,lists_remove,0.5322,0.5322,True
+10832,hy-AM,calendar,calendar_query,օլի ինչ եմ ես պլանավորել հաջորդ,recommendation_events,0.9084,0.0006,False
+10843,hy-AM,lists,lists_remove,հանեք կաթը իմ մթերքի ցուցակից,lists_remove,0.4055,0.4055,True
+10846,hy-AM,lists,lists_remove,ես հենց հիմա բավարար գումար չունեմ nintendo սարք գնելու համար կարող ես հեռացնել այն իմ amazon ցանկությունների ցուցակից,qa_factoid,0.9864,0.0015,False
+10848,hy-AM,lists,lists_remove,հեռացրու այս ցուցակը մյուսներից,qa_factoid,0.9999,0.0,False
+10851,hy-AM,lists,lists_query,որոնք են իմ հասանելի ցուցակները,social_post,0.9396,0.002,False
+10853,hy-AM,lists,lists_remove,հանիր այն այնտեղից,lists_remove,0.2928,0.2928,True
+10855,hy-AM,lists,lists_query,պետք է ստուգեմ իմ ցուցակը,iot_hue_lightoff,0.9749,0.0002,False
+10868,hy-AM,lists,lists_query,գոհար էլի ինչ որ բան մնացել է ցուցակում,email_sendemail,0.9992,0.0,False
+10887,hy-AM,lists,lists_remove,ջնջել իմ ցուցակը,iot_hue_lightoff,0.7789,0.0133,False
+10895,hy-AM,lists,lists_remove,ջնջիր իրը իմ ցանկից,calendar_remove,0.7548,0.1423,False
+10909,hy-AM,lists,lists_query,երազուհի կարդա իմ ցուցակները ինձ համար,qa_factoid,0.9827,0.0003,False
+10927,hy-AM,lists,lists_query,թույլ տվեք ինձ լսել իմ ցուցակը,play_music,0.5271,0.0,False
+10931,hy-AM,lists,lists_query,ինչ կա իմ խաղացանկում,cooking_recipe,0.7332,0.0088,False
+10936,hy-AM,lists,lists_remove,ջնջիր խնդրում եմ իմ սիրելի ալբոմների ցանկը,lists_remove,0.4893,0.4893,True
+10954,hy-AM,lists,lists_query,քանի ցուցակ ունեմ ես իմ կոնտակտներում,qa_factoid,0.9607,0.0015,False
+10956,hy-AM,lists,lists_query,ինչ խմբեր կան իմ կոնտակտներում,qa_factoid,0.6334,0.1509,False
+10957,hy-AM,lists,lists_query,հիշեցրու թե քանի ցուցակ ունեմ,qa_factoid,0.9845,0.0002,False
+10960,hy-AM,lists,lists_remove,ջնջիր այդ մեկը ցուցակից,calendar_remove,0.7304,0.0712,False
+10970,hy-AM,lists,lists_remove,ջնջիր վերջին արտահայտություն,calendar_remove,0.7331,0.1188,False
+10979,hy-AM,lists,lists_query,ինչ կա քո ցուցակում հիմա,email_sendemail,0.9678,0.0009,False
+10981,hy-AM,lists,lists_query,տեղեկացրու ինձ ցուցակի մասին,email_sendemail,0.7029,0.0001,False
+10985,hy-AM,lists,lists_remove,ջնջիր իմ այս շաբաթվա անելիքները,lists_remove,0.5423,0.5423,True
+10990,hy-AM,lists,lists_remove,իմ կատարվելիք գործերերից հեռացնել շվաբր խոհանոցը,lists_remove,0.975,0.975,True
+10999,hy-AM,lists,lists_query,ասա ցուցակը,qa_factoid,0.9955,0.0,False
+11023,hy-AM,lists,lists_remove,ջնջիր գնումների ցուցակը,recommendation_events,0.4844,0.1721,False
+11024,hy-AM,lists,lists_remove,ջնջիր կատարելու ցուցակը,qa_factoid,0.9976,0.0001,False
+11053,hy-AM,lists,lists_remove,ազատվիր google ցուցակից,qa_factoid,0.9999,0.0,False
+11075,hy-AM,lists,lists_query,քանի ցուցակ ունեմ ես,qa_factoid,0.9988,0.0,False
+11081,hy-AM,lists,lists_query,ինչ ցուցակներ կան իմ նոթատետրում,social_post,0.763,0.0093,False
+11085,hy-AM,lists,lists_remove,գնումների ցուցակից հանել կաթը,qa_factoid,0.6662,0.1173,False
+11098,hy-AM,lists,lists_remove,ազատվել հազար ինը հարյուր իննսունի հարկերի ցուցակից,qa_factoid,0.3531,0.3329,False
+11107,hy-AM,lists,lists_query,որոնք են իմ ընթացիկ ցուցակները,lists_query,0.3197,0.3197,True
+11124,hy-AM,lists,lists_query,թվիր իմ աշխատանքային ցուցակի կետերը,iot_hue_lightoff,0.77,0.0119,False
+11125,hy-AM,lists,lists_query,տուր ինձ մանրամասնել գնման պատվերի վերաբերյալ,qa_factoid,0.1443,0.0451,False
+11133,hy-AM,lists,lists_remove,հանիր անցած շաբաթվա իմ ստեղծած հյուրերի ցուցակը,social_post,0.9927,0.0025,False
+11154,hy-AM,lists,lists_query,ստուգեք անելիքների ցուցակը,lists_remove,0.3332,0.1025,False
+11162,hy-AM,lists,lists_remove,ես ուզում եմ խնձորները ջնջել ցուցակից,iot_hue_lightoff,0.3808,0.1529,False
+11164,hy-AM,lists,lists_remove,ցուցակից դուրս,qa_factoid,0.644,0.0001,False
+11166,hy-AM,lists,lists_query,բացել google keep,recommendation_events,0.763,0.0037,False
+11168,hy-AM,lists,lists_remove,ջնջիր իմ ցուցակը,iot_hue_lightoff,0.7997,0.008,False
+11172,hy-AM,lists,lists_query,տուր ինձ բոլոր առկա ցուցակները,social_post,0.7785,0.0154,False
+11174,hy-AM,lists,lists_query,նշիր այս սարքի բոլոր ցուցակները,iot_hue_lightoff,0.361,0.0204,False
+11180,hy-AM,calendar,calendar_query,իմ միջոցառման պլանավորումը,email_sendemail,0.9361,0.0004,False
+11186,hy-AM,lists,lists_query,ես ունեմ իմ հագուստի ցանկը,iot_hue_lightoff,0.9759,0.0006,False
+11189,hy-AM,lists,lists_query,գտեք ցանկը,qa_factoid,0.9999,0.0,False
+11204,hy-AM,lists,lists_query,կարևոր տեղեկատվություն տան վերաբերյալ,qa_factoid,0.6492,0.0052,False
+11215,hy-AM,lists,lists_query,ցուցակ,qa_factoid,0.3923,0.0029,False
+11250,hy-AM,lists,lists_query,նորից ինձ համար կարդա իմ նպարեղենի ցուցակը,qa_factoid,0.7822,0.0,False
+11257,hy-AM,play,play_podcasts,olly նվագր հաջորդ երգը,social_post,0.603,0.0001,False
+11259,hy-AM,play,play_podcasts,անցի հաջորդ պոդքաստին,play_podcasts,0.3818,0.3818,True
+11261,hy-AM,play,play_podcasts,հաջորդը,qa_factoid,1.0,0.0,False
+11265,hy-AM,play,play_podcasts,նվագիր հաջորդը,social_post,0.9626,0.0034,False
+11266,hy-AM,play,play_podcasts,միացրու փոդքասթ իմ գրադարանից,email_sendemail,0.9977,0.0,False
+11267,hy-AM,play,play_podcasts,գտիր հետաքրքիր փոդքասթ վերջին պրիցկերի մրցանակակիրների մասին,social_post,0.8229,0.0058,False
+11270,hy-AM,play,play_podcasts,միացրու հաջորդ պոդկաստը,social_post,0.6273,0.0211,False
+11272,hy-AM,play,play_podcasts,հաջորդը միացրու,calendar_remove,0.5328,0.0023,False
+11279,hy-AM,play,play_podcasts,գնա փոդքասթ և միացրու ընկերներ ֆիլմի հաջորդ սերիան,play_music,0.4581,0.068,False
+11286,hy-AM,play,play_podcasts,միացրու երիտասարդ թուրքեր փոդքասթ,social_post,0.9973,0.0001,False
+11296,hy-AM,play,play_podcasts,ներբեռնել իմ ամբողջ փոդքասթ,lists_remove,0.3009,0.0206,False
+11302,hy-AM,play,play_podcasts,միացրու սիվիլնեթ փոդքասթը,social_post,0.982,0.0003,False
+11303,hy-AM,play,play_podcasts,միացրու հաջորդ պատճառ փոդքասթը,qa_factoid,0.7263,0.0052,False
+11306,hy-AM,play,play_podcasts,երեկվա լսածս փոդքաստը միացրու,iot_hue_lightoff,0.8045,0.0047,False
+11318,hy-AM,play,play_podcasts,հաջորդ սերիա,qa_factoid,0.4608,0.0497,False
+11322,hy-AM,play,play_podcasts,որոնք ենք այսօրվա լավագույն փոդքասթները,recommendation_events,0.5695,0.0002,False
+11328,hy-AM,play,play_podcasts,միացրու երաժշտական փոստարկղը,email_query,0.6033,0.0029,False
+11331,hy-AM,play,play_podcasts,ցույց տուր ինձ լավ վարկանիշ ունեցող ռոք երգերի լավագույն փոդքաստը,social_post,0.5635,0.0048,False
+11335,hy-AM,play,play_music,խառը ձևով նվագարկեք բոլոր երաժշտական երգերը,iot_hue_lightoff,0.9753,0.0103,False
+11339,hy-AM,play,play_podcasts,միացրու իմ առավել դիտած փոդքասթ,iot_hue_lightoff,0.8949,0.0012,False
+11340,hy-AM,play,play_podcasts,եգոր գլումովը նոր փոդքասթ ունի,iot_hue_lightoff,0.8432,0.0033,False
+11341,hy-AM,play,play_podcasts,գտիր դիսնեյի վերջին փոդքասթը,datetime_query,0.8427,0.0012,False
+11343,hy-AM,play,play_podcasts,անցիր լրաբերի հաջորդ թողարկմանը,calendar_remove,0.8819,0.0034,False
+11345,hy-AM,play,play_podcasts,միացրու փոդքասթի հաջորդ սերիա,social_post,0.5614,0.0279,False
+11349,hy-AM,play,play_podcasts,olly միացրու նորից փոդքասթը որ սկսել էի նախորդ գիշեր,play_music,0.6148,0.0162,False
+11353,hy-AM,play,play_podcasts,ցույց տուր ինձ փոդքասթը,qa_factoid,0.9966,0.0001,False
+11361,hy-AM,play,play_podcasts,մարդիկ են մեդիան փոդքասթ միացնել դա,social_post,0.4867,0.0081,False
+11366,hy-AM,play,play_podcasts,վերադառցի փոդքասթի նախորդ դրվագ,datetime_query,0.325,0.0147,False
+11368,hy-AM,play,play_podcasts,միացրու ինձ համար ջոնի փոդքասթ,social_post,0.982,0.0002,False
+11376,hy-AM,play,play_podcasts,ես ուզում եմ լսել փոդքասթ,play_music,0.9998,0.0,False
+11384,hy-AM,play,play_podcasts,կարող եք խնդրում եմ ներբեռնել իմ podcast ֆայլը որը հասանելի է ինտերնետում և մեկ անգամ ևս նվագել,play_podcasts,0.9977,0.9977,True
+11409,hy-AM,play,play_podcasts,խնդրում եմ բաց թող ֆեյք պապայի հաջորդ սերիան,email_sendemail,0.8898,0.0014,False
+11417,hy-AM,play,play_podcasts,միացրու հաջորդ սերիա,social_post,0.5602,0.1137,False
+11418,hy-AM,play,play_podcasts,միացրու եգոր գլումով վերջին փոդքասթ,iot_hue_lightoff,0.2867,0.02,False
+11420,hy-AM,play,play_podcasts,միացրու իմ ամենավերջին փոդքասթը,news_query,0.2748,0.0384,False
+11423,hy-AM,play,play_podcasts,հետ գնալ երեսուն վայրկյան,social_post,0.6686,0.0111,False
+11424,hy-AM,play,play_podcasts,կենսական ալիք,cooking_recipe,0.2587,0.0099,False
+11426,hy-AM,lists,lists_query,ամենաշատ դիտված ցանկ,qa_factoid,0.945,0.0003,False
+11427,hy-AM,play,play_podcasts,միացրու մարդիկ են մեդիան,social_post,0.2598,0.0311,False
+11437,hy-AM,play,play_podcasts,խնդրում եմ միացրու փոդքասթ ինձ համար,qa_factoid,0.4901,0.0004,False
+11438,hy-AM,play,play_podcasts,խնդրում եմ միացրու ախթամարի հաջորդ սերիան,play_music,0.3886,0.0754,False
+11442,hy-AM,play,play_podcasts,խնդրում եմ միացրու եգոր գլումովի վերջին փոդքասթը,social_post,0.5952,0.0067,False
+11451,hy-AM,play,play_podcasts,ես ոզում եմ լսել ամենավերջին մայք և մայք փոդքասթը,play_music,0.9542,0.0022,False
+11453,hy-AM,play,play_podcasts,միացրու փոդքասթներ երգազրույցում,play_music,0.9875,0.001,False
+11455,hy-AM,play,play_podcasts,անցիր հաջորդ բաժինը,calendar_remove,0.9718,0.0004,False
+11458,hy-AM,play,play_podcasts,անցիր թշվառների հաջորդ սերիային,email_sendemail,0.3729,0.0025,False
+11459,hy-AM,play,play_podcasts,վերադարձիր վերջին սերիան,calendar_remove,0.5455,0.0122,False
+11460,hy-AM,play,play_podcasts,ուզում եմ սպորտային փոդքասթ լսել,play_music,0.9951,0.0002,False
+11467,hy-AM,play,play_podcasts,միացրու այս երգազրույցի ամենավերջին փոդքասթը,play_music,0.5077,0.0251,False
+11470,hy-AM,play,play_podcasts,միացրու իմ սիրելի փոդքասթ խնդրում եմ,social_post,0.9463,0.0004,False
+11474,hy-AM,play,play_podcasts,վերսկսիր սերիալների փոդքասթը,play_podcasts,0.995,0.995,True
+11476,hy-AM,play,play_podcasts,միացրու մեծից փոքրի նախորդ սերիան,play_music,0.2791,0.0311,False
+11483,hy-AM,play,play_podcasts,միացնել էլ էյ պրոջեքթ,news_query,0.5455,0.0287,False
+11490,hy-AM,play,play_podcasts,միացրու փոդքասթի հաջորդ շոուն,social_post,0.9994,0.0,False
+11502,hy-AM,play,play_podcasts,հաջորդ կոճակը,iot_hue_lightoff,0.3347,0.0242,False
+11505,hy-AM,play,play_podcasts,կրկին նվագարկել իմ վերջին միացրած փոդքասթը,iot_hue_lightoff,0.8583,0.0027,False
+11514,hy-AM,play,play_podcasts,կարեն կարող ենք լսել բոլոր փոդքասթների պատասխանները,play_music,0.9589,0.0234,False
+11515,hy-AM,play,play_podcasts,միացրու երգազրույց փոդքասթ,play_music,0.5658,0.0062,False
+11525,hy-AM,play,play_podcasts,ցանկանում եմ տեսնել հասանելի հաջորդ փոդքաստը,social_post,0.7302,0.0183,False
+11529,hy-AM,play,play_podcasts,ողջույն ցանկից միացրու իմ սիրելի ճամբարը,recommendation_events,0.7173,0.0024,False
+11536,hy-AM,play,play_podcasts,ավելացրու փոդքասթի նախընտրածները երգացանկին և սկսիր,play_music,0.8997,0.0012,False
+11539,hy-AM,play,play_podcasts,սկսեք հաջորդ փոդքասթը,play_music,0.9906,0.0083,False
+11546,hy-AM,play,play_podcasts,միացրու բոլորը կյանքի մասին ծրագրից նախորդ շաբաթ,news_query,0.5089,0.0167,False
+11554,hy-AM,play,play_podcasts,ուզում եմ փոդքասթ դնես,qa_factoid,0.9791,0.0,False
+11563,hy-AM,recommendation,recommendation_events,ինչ կարող եմ անել երևանում,cooking_recipe,0.513,0.0015,False
+11570,hy-AM,recommendation,recommendation_events,ինչ է կատարվում իմ քաղաքում,cooking_recipe,0.9109,0.0023,False
+11582,hy-AM,recommendation,recommendation_events,ջազային ինչ որ բան տեղի ունենալու է ծաղկաձորի մոտակայքում,qa_definition,0.4047,0.0449,False
+11585,hy-AM,recommendation,recommendation_events,ինչ մշակութային միջոցառումներ կան երևանում,recommendation_events,0.7253,0.7253,True
+11598,hy-AM,recommendation,recommendation_events,խնդրում եմ իմաց տուր իմ հարազատ քաղաքում շների համար միջոցառումների մասին,social_post,0.9527,0.0178,False
+11600,hy-AM,recommendation,recommendation_events,ինչ ֆիլմ կարող եմ դիտել այս երեկո բոստոնի թատրոնում,play_music,0.3314,0.0761,False
+11610,hy-AM,recommendation,recommendation_events,հիմա քաղաքում անցկացվող կրկեսային միջոցառումները,lists_query,0.4406,0.2152,False
+11612,hy-AM,recommendation,recommendation_events,ինչ զենքի ցուցահանդեսներ կան արտաշատում,cooking_recipe,0.2052,0.024,False
+11616,hy-AM,recommendation,recommendation_events,ինչ-որ միջոցառումներ կան այս երեկո քաղաքի կենտրոնում,recommendation_events,0.8171,0.8171,True
+11643,hy-AM,recommendation,recommendation_events,ինչ միջոցառումներ են շուտով տեղի ունենալու,recommendation_events,0.9214,0.9214,True
+11644,hy-AM,recommendation,recommendation_events,ցույց տուր ինձ գյումրիի միջոցառումները,recommendation_events,0.8999,0.8999,True
+11650,hy-AM,recommendation,recommendation_events,և սկսնակ և երիտասարդ վարորդները ավելի հաճախ են հայտնվում վթարային իրավիճակում որովհետև դեռ չեն ունեցել բավականաչափ փորձ որը անհրաժեշտ է մեքենան ինքնուրույն ապահով վարելու համար ուսումնասիրությունները ցույց են տալիս որ փորձը հիմնարար է մեքենա ապահով վարելու համար և ամենաապահով ժամանակը երիտասարդ վարորդի համար այն է երբ նա քշում է փորձված մեկի հսկողության տակ,iot_hue_lightoff,0.0771,0.0474,False
+11681,hy-AM,recommendation,recommendation_events,խնդրում եմ ցույց տուր ինձ մոտակա մարաթոնը,calendar_remove,0.4464,0.0002,False
+11685,hy-AM,recommendation,recommendation_events,ուրախ կլինեի տեսնել մեր տարածքում անցկացվող վերջին միջոցառումները,social_post,0.8218,0.0906,False
+11705,hy-AM,recommendation,recommendation_events,ցույց տուր ինձ նկարչական ցուցահանդես արմավիրում,email_sendemail,1.0,0.0,False
+11720,hy-AM,recommendation,recommendation_events,լող,qa_factoid,0.9999,0.0,False
+11767,hy-AM,recommendation,recommendation_events,ինչ միջոցառումներ են սպասվում այս հանգստյան օրերին գյումրիում,weather_query,0.9281,0.02,False
+11770,hy-AM,recommendation,recommendation_events,ցանկացած միջոցառում այս հանգստյան օրերին pondichery,recommendation_events,0.7497,0.7497,True
+11782,hy-AM,recommendation,recommendation_events,այս հանգստյան օրերին իմ մոտ հատուկ իրադարձություններ կան,weather_query,0.9929,0.0003,False
+11798,hy-AM,recommendation,recommendation_events,որն է հաջորդ միջոցառումը գրադարանում,news_query,0.533,0.1374,False
+11827,hy-AM,recommendation,recommendation_events,ուր կարող եմ գնալ այս երեկո,transport_query,0.4701,0.0127,False
+11839,hy-AM,recommendation,recommendation_events,ինչ է կատարվում շուրջս,qa_factoid,0.3738,0.0174,False
+11841,hy-AM,recommendation,recommendation_events,այս տարածքում արհեստների որևէ տոնավաճառներ կան,qa_factoid,0.2156,0.1358,False
+11844,hy-AM,recommendation,recommendation_events,ինչ որ հետաքրքիր բան է կատարվում նոր հաճնում,social_post,0.2537,0.1228,False
+11845,hy-AM,recommendation,recommendation_events,օլլի հայտնիր ինձ շլացուցիչ միջացառումների մասին ծովածոցի տարացքում,recommendation_events,0.6052,0.6052,True
+11860,hy-AM,recommendation,recommendation_events,ասա ինձ տեղի միջոցառումները,recommendation_events,0.9611,0.9611,True
+11867,hy-AM,recommendation,recommendation_events,վաղը գյումրիում սպորտային միջոցառում կա,recommendation_events,0.5121,0.5121,True
+11875,hy-AM,recommendation,recommendation_events,տարածքում սննդի փառատոն կա,qa_factoid,0.992,0.0001,False
+11904,hy-AM,recommendation,recommendation_events,ինչ կա էս կողմերը էկող շաբաթ կիրակի,lists_query,0.3198,0.0184,False
+11905,hy-AM,recommendation,recommendation_events,olly ասա այս հանգստյան օրերին ինչ ա իմ կողմերը կատարվում,weather_query,0.9624,0.0011,False
+11911,hy-AM,recommendation,recommendation_events,այս հանգստյան օրերին ինր որ լավ բան է տեղի ունենում տարածքում,weather_query,0.8739,0.0061,False
+11916,hy-AM,recommendation,recommendation_events,որոնք են մոտակայքում գտնվող զվարճանքի զբոսայգիները,social_post,0.4717,0.1103,False
+11969,hy-AM,recommendation,recommendation_events,մոտակայքում հատուկ որևէ բան կա,qa_factoid,0.993,0.0001,False
+11999,hy-AM,recommendation,recommendation_events,թվարկիր այսօրվա բոլոր միջոցառումներն իմ քաղաքում,news_query,0.7013,0.2569,False
+12008,hy-AM,recommendation,recommendation_events,այսօր կան զվարճալի իրադարձություններ երևան քաղաքում,weather_query,0.6729,0.0053,False
+12054,hy-AM,recommendation,recommendation_events,ինչ ա կատարվում քաղաքում,weather_query,0.5258,0.003,False
+12070,hy-AM,recommendation,recommendation_events,երբ է բացվում դալմա մոլը,qa_factoid,0.9784,0.0018,False
+12073,hy-AM,recommendation,recommendation_events,անդրադարձիր տեղական ընթացիկ իրադարձություններին,social_post,0.9974,0.0003,False
+12098,hy-AM,recommendation,recommendation_events,ցույց տուր ինձ մոտակա երաժշտական միջոցառումներ,social_post,0.7778,0.1839,False
+12189,hy-AM,transport,transport_query,ինչպես կարող եմ հասնել երկաթուղային կայարան տոմսի համար,cooking_recipe,0.637,0.0036,False
+12240,hy-AM,transport,transport_query,ինչպիսին է երթևեկությունը ժամը հինգին իմ տուն գնալիս,weather_query,0.9993,0.0,False
+12245,hy-AM,transport,transport_query,երբ է երևանից վանաձոր հաջորդ գնացքը,weather_query,0.9712,0.001,False
+12251,hy-AM,transport,transport_query,գտիր դեպի իջևան այստեղի գնացքի ժամանակացույցը,datetime_query,0.4408,0.0051,False
+12252,hy-AM,transport,transport_query,ժամը քանիսին են դեպի գյումրի գնացքները մեկնում,datetime_query,0.9486,0.0013,False
+12261,hy-AM,transport,transport_query,ասա հաջորդ չորեքշաբթի կամ հինգշաբթի դեպի հրազդան ինչ գնացքներ կան,social_post,0.4004,0.0202,False
+12263,hy-AM,transport,transport_query,վայոց ձոր,social_post,0.9994,0.0,False
+12264,hy-AM,transport,transport_query,վանաձոր,qa_factoid,0.7482,0.0005,False
+12294,hy-AM,transport,transport_query,ցույց տուր կայարանի գնացքների գրաֆիկը,qa_factoid,0.9918,0.0002,False
+12310,hy-AM,transport,transport_query,գյումրիից դիլիջան առկա գնացքի տոմսերի ցուցակը տուր,social_post,0.7742,0.0119,False
+12343,hy-AM,transport,transport_query,ստուգիր հարավկովկասյան կայարանի երեք հարյուր հիսունութ գնացքի ժամը երեքշաբթի օրը,datetime_query,0.9197,0.0013,False
+12354,hy-AM,transport,transport_query,երբ է գնացքի ժամը,datetime_query,0.8934,0.0003,False
+12366,hy-AM,transport,transport_query,կա արդյոք երևանից գյումրի միացնող գնացք և որ ժամին,weather_query,0.9971,0.0001,False
+12367,hy-AM,transport,transport_query,որն է լավագույն ճանապարհը դեպի վանաձոր,qa_factoid,0.941,0.0008,False
+12376,hy-AM,transport,transport_query,երբ է առաջին գնացքը դեպի երիտասարդական,datetime_query,0.9737,0.0002,False
+12392,hy-AM,transport,transport_query,ասա ինձ այսօրվա ուղղությունը,social_post,0.9994,0.0,False
+12402,hy-AM,transport,transport_query,երբ է քաղաք մեկնող հաջորդ գնացքը շարժվում այստեղից,weather_query,0.9976,0.0001,False
+12419,hy-AM,transport,transport_query,դեպի դրագոն գարդեն ամենակարճ ուղին,qa_factoid,0.4525,0.0065,False
+12430,hy-AM,transport,transport_query,ասա շորժա ժամանող գնացքի հասնելու ժամը,datetime_query,0.9001,0.0014,False
+12436,hy-AM,transport,transport_query,ինչքան կտևի մինչև օդանավակայան,weather_query,0.9726,0.0021,False
+12437,hy-AM,transport,transport_query,որքան կտևի դեպի թատրոն,qa_factoid,0.9955,0.001,False
+12446,hy-AM,transport,transport_query,կարող ես ասել որ ժամերին է գնացքը մեկնում երևան,datetime_query,0.8632,0.0013,False
+12473,hy-AM,transport,transport_query,ինչպես կարող եմ այստեղից տուն հասնել,qa_factoid,0.9547,0.0092,False
+12526,hy-AM,transport,transport_query,որն է տաշիր պիցցա հասնելու ամենակարճ ճանապարհը,qa_factoid,0.7839,0.0061,False
+12532,hy-AM,transport,transport_query,տար դեպի այն վայր,qa_factoid,0.9951,0.0002,False
+12581,hy-AM,transport,transport_query,երբ է այսօր գնացքը մեկնում,weather_query,0.6054,0.0005,False
+12582,hy-AM,transport,transport_query,առավոտ որ ժամին է հարավկովկասյան երկաթուղու առաջին գնացքը ժամանում,datetime_query,0.9769,0.0001,False
+12604,hy-AM,transport,transport_query,ինչպես առցանց ամրագրել գնացքի տոմս,email_query,0.9321,0.0,False
+12618,hy-AM,transport,transport_query,որքան արժե դիլիջան գնալու գնացքի տոմսը,email_query,1.0,0.0,False
+12623,hy-AM,transport,transport_query,ունեք դեպի չարենցավան գնացք ժամեր,qa_factoid,0.9227,0.0002,False
+12629,hy-AM,transport,transport_query,որ ժամին է առաջին գնացքը մեկնում երևանից,weather_query,0.6292,0.0004,False
+12634,hy-AM,transport,transport_query,երբ է հաջորդ գնացքը մեկնում վանաձոր,datetime_query,0.4632,0.0017,False
+12707,hy-AM,transport,transport_query,նավիգացիոն որոնում,qa_factoid,0.9839,0.0003,False
+12759,hy-AM,transport,transport_query,մինչև եղեգնաձոր վարելու տևողությունը,qa_factoid,0.6476,0.0027,False
+12797,hy-AM,transport,transport_query,գնացքի ժամերը ինձ մոտից դեպի վայր,weather_query,0.9492,0.0011,False
+12800,hy-AM,transport,transport_query,որտեղ է հանրային գրադարանը,social_post,0.9321,0.0138,False
+12817,hy-AM,transport,transport_query,ինչպես հասնեմ մոլ,qa_factoid,0.9995,0.0,False
+12818,hy-AM,transport,transport_query,որքան է դեպի գյումրի գնացքի գինը,qa_factoid,0.3002,0.0404,False
+12824,hy-AM,transport,transport_query,թվարկիր դեպի գյումրի բոլոր գնացքների ժամերը,qa_factoid,0.2877,0.0316,False
+12835,hy-AM,transport,transport_query,ժամը քանիսին է գնացքը մեկնում,datetime_query,0.6128,0.0002,False
+12839,hy-AM,transport,transport_query,գնանք աբովյան փողոց,social_post,0.9764,0.0027,False
+12851,hy-AM,transport,transport_query,ցույց տուր ուղղությունը դեպի իմ տուն,qa_factoid,0.4388,0.1047,False
+12856,hy-AM,transport,transport_query,ուղղությունը խնդրում եմ,qa_factoid,0.6026,0.0002,False
+12866,hy-AM,transport,transport_query,հարավկովկասյան երկաթուղու ժամանակացույցը որն է,datetime_query,0.9853,0.0004,False
+12908,hy-AM,transport,transport_query,որ ժամին է գնացքը հասնում սևան,weather_query,0.9892,0.0,False
+12930,hy-AM,transport,transport_query,քարտեզի վրա փնտրիր իմ մոտ գտնվող խանութները,social_post,0.8982,0.0004,False
+12932,hy-AM,transport,transport_query,olly ինձ պետք են դեպի արցախի փողոց ուղղությունները,social_post,0.3836,0.0347,False
+12951,hy-AM,qa,qa_factoid,որն է աշխարհի ամենաբարձր շենքը,qa_definition,0.9189,0.075,False
+12957,hy-AM,qa,qa_definition,սահմանել մշակել,qa_factoid,0.8553,0.0025,False
+12961,hy-AM,qa,qa_definition,խնդրում ենք դատական փորձաքննություն սահմանել,qa_factoid,0.9327,0.0035,False
+12963,hy-AM,qa,qa_definition,որն է դատական փորձաքննության սահմանումը,qa_factoid,0.9821,0.0105,False
+12972,hy-AM,qa,qa_factoid,որն է աշխարհի ամենաբարձր գագաթը,qa_definition,0.5787,0.4014,False
+12982,hy-AM,qa,qa_definition,ինչ է նշանակում տուրբուլենտություն,qa_definition,0.9972,0.9972,True
+12986,hy-AM,qa,qa_definition,ստուգել քմահաճ բացատրությունը,iot_hue_lightoff,0.7782,0.0046,False
+12999,hy-AM,qa,qa_factoid,քանի տարեկան է մարիա քերին,datetime_query,0.9936,0.002,False
+13016,hy-AM,qa,qa_definition,փնտրեք սխալի սահմանումը,iot_hue_lightoff,0.9508,0.0005,False
+13023,hy-AM,cooking,cooking_recipe,ցույց տալ բաղադրատոմսեր,recommendation_events,0.8778,0.0046,False
+13069,hy-AM,qa,qa_definition,որոնք են նարնջագույնի սահմանումները,datetime_query,0.7359,0.0033,False
+13074,hy-AM,qa,qa_factoid,ինչու ադամ սենդլերը ծիծաղելի չէ,qa_factoid,0.5614,0.5614,True
+13077,hy-AM,qa,qa_factoid,որն է ռոբին ուիլյամսի ծննդյան օրը,datetime_query,0.998,0.0,False
+13078,hy-AM,qa,qa_factoid,ասա ինձ մկրտիչ արզումանյանի հասցեն,social_post,1.0,0.0,False
+13099,hy-AM,qa,qa_factoid,ով է եղել բրիտանիայի ներկայիս վարչապետը,qa_factoid,0.9981,0.9981,True
+13115,hy-AM,qa,qa_factoid,որն է նիգերիայի մայրաքաղաքը,qa_factoid,0.6359,0.6359,True
+13124,hy-AM,qa,qa_factoid,որքան մեծ է տիեզերքը,qa_factoid,0.9159,0.9159,True
+13135,hy-AM,qa,qa_factoid,երբ է թեյլոր լոթների ծննդյան ամսաթիվը,datetime_query,0.772,0.1286,False
+13140,hy-AM,qa,qa_definition,պատմիր ինձ ամեն ինչ փոթորիկի մասին,email_sendemail,0.987,0.0002,False
+13154,hy-AM,qa,qa_factoid,դուք գիտեք ջեսիկա սնոութի հեռախոսահամարը,qa_factoid,0.8277,0.8277,True
+13165,hy-AM,qa,qa_definition,ինչ է նշանակում տատանվել,qa_factoid,0.9503,0.0417,False
+13166,hy-AM,qa,qa_definition,ուղղագրել և սահմանել տատանումները,email_sendemail,0.731,0.0028,False
+13177,hy-AM,calendar,calendar_set,հիշեցնել ինձ շարժվել որպեսզի քաշի ավելացում չլինի,iot_hue_lightoff,0.2144,0.0197,False
+13178,hy-AM,calendar,calendar_set,հիշեցրու ինձ կապվել հին ընկերների հետ որոնց հետ ես չեմ խոսել վեց ամիս առաջ,social_post,0.9328,0.0032,False
+13188,hy-AM,news,news_query,ասա ինձ թե ինչպես կհրապարակվեն դելիի վեհաժողովի ընտրությունների արդյունքները,lists_query,0.2233,0.0221,False
+13206,hy-AM,qa,qa_definition,տեղանք,qa_factoid,0.8466,0.0081,False
+13215,hy-AM,transport,transport_query,որն է քաղաքի կենտրոնում իմ աշխատավայր առանց խցանման հասնելու ամենաարագ ճանապարհը,qa_factoid,0.4181,0.1018,False
+13252,hy-AM,qa,qa_factoid,ինչպիսին էին ջորջ էլիոթի առաջին ընտրությունները նոյեմբերին,lists_query,0.1303,0.0393,False
+13255,hy-AM,qa,qa_factoid,խնդրում եմ ինձ տեղեկություն տվեք ջոն աբրահամ լինքոնի մասին,social_post,0.9581,0.0278,False
+13283,hy-AM,qa,qa_factoid,որքան փող է աշխատել բիլ գեյթսը,qa_factoid,0.998,0.998,True
+13288,hy-AM,qa,qa_definition,որն է հավերժական բառի սահմանումը,qa_definition,0.8833,0.8833,True
+13297,hy-AM,qa,qa_factoid,ով է հայտնին,qa_factoid,0.9772,0.9772,True
+13298,hy-AM,qa,qa_factoid,ինչով է զբաղվում հայտնիությունը,social_post,0.9478,0.0349,False
+13330,hy-AM,qa,qa_factoid,ինչ չափի է կաշալոտը,qa_factoid,0.9889,0.9889,True
+13361,hy-AM,qa,qa_definition,որն է արդիականության սահմանումը,qa_factoid,0.6626,0.3061,False
+13383,hy-AM,qa,qa_factoid,քանի նահանգ ունի մահապատիժ,qa_factoid,0.9958,0.9958,True
+13400,hy-AM,social,social_post,ծիծաղելի հաղորդագրություն իմ բոլոր ընկերներին,social_post,0.999,0.999,True
+13439,hy-AM,qa,qa_factoid,քանի տարեկան է ջի քեյ ռոուլինգը,qa_factoid,0.9712,0.9712,True
+13457,hy-AM,calendar,calendar_set,ասա ինձ երբ պետք է գնամ նախատեսված միջոցառմանը որպեսզի ժամանակին լինեմ,recommendation_events,0.373,0.0304,False
+13473,hy-AM,qa,qa_factoid,երբ է ամն-ն ստացել ազատություն,qa_factoid,0.9457,0.9457,True
+13487,hy-AM,qa,qa_factoid,օլի որն է կալիֆորնիայի մայրաքաղաքը,qa_factoid,0.3462,0.3462,True
+13494,hy-AM,qa,qa_definition,տալ մոտիվացիայի սահմանումը,qa_factoid,0.6187,0.2858,False
+13506,hy-AM,datetime,datetime_query,կարող ես ասել դրա ժամը,datetime_query,0.906,0.906,True
+13513,hy-AM,qa,qa_factoid,քանի ոտք ունի շունը,iot_hue_lightoff,0.9549,0.006,False
+13516,hy-AM,qa,qa_factoid,ինչու են կետերը մեծ,qa_factoid,0.9669,0.9669,True
+13546,hy-AM,qa,qa_factoid,որն է եղել վերջին ֆիլմը որտեղ նկարահանվել է ուիլ սմիթը,qa_factoid,0.9556,0.9556,True
+13554,hy-AM,qa,qa_factoid,որքան բարձրահասակ է բրեդ փիթը,qa_factoid,0.592,0.592,True
+13575,hy-AM,qa,qa_factoid,երբ է վերջին անգամ ֆիլմը եղել ակադեմիայի մրցանակակիր,qa_factoid,0.995,0.995,True
+13580,hy-AM,qa,qa_factoid,որքան բարձր է էվերեստ լեռը,qa_factoid,0.1617,0.1617,True
+13591,hy-AM,qa,qa_factoid,որն է արևմտյան վիրջինիայի մայրաքաղաքը,qa_factoid,0.2508,0.2508,True
+13592,hy-AM,qa,qa_factoid,որտեղ է նոր զելանդիան քարտեզի վրա,social_post,0.7993,0.0111,False
+13604,hy-AM,qa,qa_factoid,ասա ինձ թե որտեղ է ծնվել սթիվ ջոբսը,social_post,0.8545,0.1132,False
+13607,hy-AM,qa,qa_factoid,կարող եք հաստատել արդյոք լեոնարդոն ամուսնացած է,email_sendemail,0.9978,0.001,False
+13616,hy-AM,qa,qa_factoid,որտեղ են զվարճանում հայտնիների մեծ մասը,social_post,0.9583,0.0108,False
+13619,hy-AM,recommendation,recommendation_events,այսօր կան անվճար միջոցառումներ իմ տարածքում,recommendation_events,0.925,0.925,True
+13625,hy-AM,qa,qa_definition,որն է ամենամեծ գրասեղանը,qa_definition,0.5214,0.5214,True
+13636,hy-AM,qa,qa_factoid,ինչ է առնոլդ շվարցենեգերի ծննդյան օրը,datetime_query,0.8929,0.0044,False
+13679,hy-AM,qa,qa_factoid,կարող ես ասել թե քանի ստամոքս ունի կովը,qa_factoid,0.9606,0.9606,True
+13681,hy-AM,qa,qa_factoid,քանի ներկայացումներում է մասնակցել պատրիկ ստյուարտը,social_post,0.9927,0.0003,False
+13683,hy-AM,qa,qa_factoid,ինչ ապրանքանիշի մազերի լաք է օգտագործում դոնալդ թրամփը,qa_definition,0.8809,0.0035,False
+13689,hy-AM,qa,qa_definition,ինչ է աթոռը,qa_definition,0.8661,0.8661,True
+13690,hy-AM,qa,qa_factoid,ինչ գույնի են աթոռները,iot_hue_lightoff,0.9911,0.003,False
+13693,hy-AM,qa,qa_factoid,որտեղ է հիմնական միջօրեականը,qa_factoid,0.98,0.98,True
+13705,hy-AM,qa,qa_definition,ինչ է էլեկտրոնային արտանետումների համակարգը,qa_factoid,0.9008,0.0369,False
+13706,hy-AM,qa,qa_definition,նկարագրել ռոտորը,qa_factoid,0.5879,0.001,False
+13714,hy-AM,qa,qa_definition,ինչ է մանգոն,datetime_query,0.1913,0.1113,False
+13717,hy-AM,qa,qa_factoid,դուք իսկապես կարող եք տեսնել ռուսաստանը ալյասկայից,qa_factoid,0.9186,0.9186,True
+13758,hy-AM,qa,qa_factoid,քանի տարեկան է մարիան քերին,datetime_query,0.9904,0.0042,False
+13761,hy-AM,qa,qa_factoid,ինչ է պարսեկը,email_sendemail,0.2392,0.1774,False
+13774,hy-AM,qa,qa_factoid,որքան հեռու կալիֆորնիան ջորջիայից,qa_factoid,0.9998,0.9998,True
+13777,hy-AM,qa,qa_definition,կարող եք նկարագրել կրեդիտ քարտը,email_sendemail,0.9894,0.0,False
+13780,hy-AM,qa,qa_factoid,ամուսնացած է ստեֆ քարին,qa_factoid,0.9991,0.9991,True
+13798,hy-AM,qa,qa_factoid,քանի քառակուսի կ. մ. է միջին պետությունը երկրի վրա,datetime_query,0.4659,0.1276,False
+13799,hy-AM,qa,qa_definition,ինչ է նշանակում հպատակեցնել,cooking_recipe,0.3076,0.2785,False
+13823,hy-AM,qa,qa_factoid,որքան հեռու է արևը,qa_factoid,0.9788,0.9788,True
+13853,hy-AM,qa,qa_factoid,երկրի վրա որտեղ են ամենաշատ հրաբուխները,social_post,0.4865,0.0571,False
+13854,hy-AM,qa,qa_factoid,երբ մահացավ էլվիսը,email_sendemail,0.9996,0.0,False
+13863,hy-AM,qa,qa_definition,որն է տրամաբանության սահմանումը,qa_definition,0.7556,0.7556,True
+13867,hy-AM,qa,qa_factoid,որտեղ է յոսմիտ պարկը,email_query,0.4648,0.0758,False
+13869,hy-AM,qa,qa_factoid,խնդրում եմ փնտրիր ազատության այգու մասին տեղեկություն և տեղակայումը,email_sendemail,0.2226,0.1683,False
+13871,hy-AM,qa,qa_definition,ինչպես կնկարագրեիր ծննդյան օրը,datetime_query,0.6131,0.0042,False
+13881,hy-AM,qa,qa_factoid,խնդրում եմ ինձ տեղեկություններ տվեք մայքլ ջեքսոնի մասին,social_post,0.6848,0.233,False
+13888,hy-AM,qa,qa_factoid,նչ ջերմաստիճան է ինդիանայի ինդիանապոլիսում,iot_hue_lightoff,0.7033,0.0823,False
+13895,hy-AM,qa,qa_factoid,կարող եք պատմել ինձ ուեյն գրեցկիի մասին,social_post,0.9727,0.0095,False
+13900,hy-AM,qa,qa_definition,կյանքի սահմանումը,qa_factoid,0.683,0.0175,False
+13907,hy-AM,qa,qa_definition,սահմանել ապշած,qa_factoid,0.9749,0.0008,False
+13908,hy-AM,qa,qa_definition,կարող եք ինձ ասել թե ինչ է նշանակում ապշած,qa_definition,0.9908,0.9908,True
+13926,hy-AM,qa,qa_factoid,երբ ա թումանյանի ծնունդը,iot_hue_lightoff,0.386,0.1818,False
+13927,hy-AM,qa,qa_factoid,որքան է սերժ սարգսյանի ունեցվածքը,qa_factoid,0.9431,0.9431,True
+13974,hy-AM,qa,qa_factoid,որտեղ է գտնվում լաոսը,qa_factoid,0.1426,0.1426,True
+13983,hy-AM,qa,qa_definition,տառապահար հետևանքներ,qa_factoid,0.2575,0.0369,False
+13984,hy-AM,qa,qa_definition,գործողությունների հետևանքները,cooking_recipe,0.2911,0.0164,False
+13997,hy-AM,qa,qa_factoid,որքան արժե միջին տունը,qa_factoid,0.9243,0.9243,True
+14000,hy-AM,qa,qa_definition,նկարագրիր համրուկին,qa_factoid,0.996,0.0005,False
+14001,hy-AM,qa,qa_factoid,պատմիր ինձ այն ամենը ինչ դու գիտես համրուկների մասին,play_music,0.6862,0.0059,False
+14011,hy-AM,qa,qa_factoid,երբ է դոլի փարթոնի ծննդյան օրը,datetime_query,0.8827,0.0001,False
+14015,hy-AM,qa,qa_factoid,որոնք են հասարակածի կոորդինատները,social_post,0.978,0.0117,False
+14023,hy-AM,qa,qa_definition,նկարագրիր դժոխքը,qa_factoid,0.9992,0.0,False
+14033,hy-AM,qa,qa_factoid,ասա ինձ թե երբ է ծնվել օբաման,qa_factoid,0.9976,0.9976,True
+14038,hy-AM,qa,qa_factoid,որն է մոլդովայի գտնվելու վայրը,qa_factoid,0.9992,0.9992,True
+14040,hy-AM,qa,qa_factoid,ինչքան բարձր է սոս ջանիբեկյանը,weather_query,0.6881,0.1139,False
+14053,hy-AM,qa,qa_factoid,որ տարին է ջորջ քլունին սկսել դերասանական գործունեությունը,datetime_query,0.9977,0.0003,False
+14063,hy-AM,qa,qa_factoid,երբ էր էլվիս փրեսլիի ծննդյան օրը,email_sendemail,0.9141,0.0004,False
+14083,hy-AM,qa,qa_factoid,որտեղ ներկայումս ապրում է ջեքի չանը,social_post,0.4107,0.4059,False
+14096,hy-AM,qa,qa_factoid,որտեղ են քարքարոտ լեռները,qa_factoid,0.9634,0.9634,True
+14115,hy-AM,qa,qa_definition,մանրամասնել ժայռի ավազը,iot_hue_lightoff,0.9498,0.001,False
+14116,hy-AM,qa,qa_definition,նկարագրել ժայռի ավազը,qa_factoid,0.8426,0.0004,False
+14117,hy-AM,qa,qa_factoid,որտեղ են գտնվում բուրգերը,qa_factoid,0.24,0.24,True
+14118,hy-AM,qa,qa_factoid,բուրգեր,qa_factoid,0.9832,0.9832,True
+14126,hy-AM,qa,qa_factoid,ցույց տալ ռիհանայի կենսագրությունը,qa_factoid,0.9731,0.9731,True
+14138,hy-AM,qa,qa_definition,խնդրում եմ ասեք ինձ թե որն է գլանի սահմանումը,qa_factoid,0.6934,0.1903,False
+14147,hy-AM,qa,qa_definition,սահմանել վերմակը,iot_hue_lightoff,0.9927,0.0002,False
+14150,hy-AM,qa,qa_definition,որոնք են nike կոշիկները,recommendation_events,0.2971,0.0292,False
+14151,hy-AM,qa,qa_factoid,որ արևային ակնոցներն են համարվում օդաչուներինը,qa_definition,0.6544,0.3439,False
+14154,hy-AM,qa,qa_factoid,աֆրիկայի տեղեկատվություն,qa_factoid,0.9983,0.9983,True
+14163,hy-AM,qa,qa_factoid,որոնել տեղանքը,recommendation_events,0.5094,0.0246,False
+14169,hy-AM,qa,qa_factoid,որտեղ է ամալ քլունին սովորել քոլեջում,social_post,0.9984,0.0001,False
+14170,hy-AM,qa,qa_factoid,քիմ քարդաշյանը կրում է ծրարներ,qa_factoid,0.9866,0.9866,True
+14179,hy-AM,qa,qa_factoid,որքան հեռու է կանադան իմ ներկայիս գտնվելու վայրից,qa_factoid,0.6954,0.6954,True
+14214,hy-AM,transport,transport_query,գտիր ճամփորդելու ուղիները նույնի համար,social_post,0.5438,0.0015,False
+14229,hy-AM,qa,qa_factoid,ինչ ֆիլմերում է նկարահանվել էմմա ուոթսոնը,qa_factoid,0.9971,0.9971,True
+14243,hy-AM,qa,qa_factoid,մանրամասներ անձի մասին,email_sendemail,0.9972,0.0,False
+14272,hy-AM,qa,qa_definition,ողջույն ին է գիրքը,email_sendemail,0.9948,0.0001,False
+14283,hy-AM,qa,qa_factoid,պատմիր ինձ ջայփուրի մասին,play_music,0.5045,0.0023,False
+14306,hy-AM,qa,qa_factoid,բացատրել հնդկաստանի աշխարհագրական դիրքը,iot_hue_lightoff,0.3933,0.1744,False
+14308,hy-AM,qa,qa_factoid,որն է լեոնարդո դի կապրիոյի սեփական կապիտալը,qa_factoid,0.9518,0.9518,True
+14316,hy-AM,qa,qa_factoid,որքան մեծ է ալյասկան,qa_factoid,0.8293,0.8293,True
+14317,hy-AM,qa,qa_factoid,ինչ չափերի է միացյալ նահանգները,qa_factoid,0.9802,0.9802,True
+14323,hy-AM,qa,qa_factoid,ինչ գույնի է վիշապի միրգը,iot_hue_lightoff,0.9946,0.0003,False
+14330,hy-AM,qa,qa_factoid,որտեղ է ծնվել սթիվ ջոբսը,social_post,0.9691,0.0085,False
+14347,hy-AM,qa,qa_definition,ինչ է վարկածը,qa_factoid,0.9997,0.0,False
+14354,hy-AM,qa,qa_factoid,որն է տիեզերքի պատասխանը,qa_factoid,0.9933,0.9933,True
+14355,hy-AM,qa,qa_factoid,քանի ծովախեցգետին վաճառեց սելին ծովափին,qa_factoid,0.7188,0.7188,True
+14370,hy-AM,qa,qa_factoid,ասա ինձ հայտնիի մասնագիտությունը,qa_definition,0.4588,0.0861,False
+14378,hy-AM,qa,qa_definition,արագության սահմանում,qa_factoid,0.971,0.0014,False
+14382,hy-AM,qa,qa_factoid,որքան մեծ է էմփայր սթեյթ բիլդինգը,qa_factoid,0.9915,0.9915,True
+14395,hy-AM,qa,qa_factoid,որն է երկրի ամենախորը կետը,qa_factoid,0.9979,0.9979,True
+14414,hy-AM,qa,qa_definition,նկարագրիր համակարգչի կոշտ սկավառակը,iot_hue_lightoff,0.8859,0.0019,False
+14417,hy-AM,qa,qa_factoid,որ օվկիանոսն է ողողում մեր մայրցամաքը,iot_hue_lightoff,0.5041,0.1532,False
+14419,hy-AM,qa,qa_factoid,նազենին նոր ֆիլմ ունենալու է այս տարի,social_post,0.7576,0.0097,False
+14429,hy-AM,qa,qa_definition,ինչ է կաֆտանը,qa_definition,0.7567,0.7567,True
+14440,hy-AM,qa,qa_factoid,որն է մեքսիկայի մայրաքաղաքը,qa_factoid,0.5798,0.5798,True
+14442,hy-AM,qa,qa_factoid,որտեղ է ֆիջին,qa_factoid,0.6949,0.6949,True
+14444,hy-AM,qa,qa_factoid,որն էր խորեն լևոնյանի առաջին ֆիլմը,qa_factoid,0.8537,0.8537,True
+14449,hy-AM,qa,qa_factoid,արդյոք փինքը նոր երեխա ունի,qa_factoid,0.9976,0.9976,True
+14457,hy-AM,qa,qa_factoid,գտնել երթուղին,cooking_recipe,0.5343,0.0092,False
+14465,hy-AM,transport,transport_query,երևան պարկի ուղղությունը,qa_factoid,0.3557,0.0124,False
+14490,hy-AM,qa,qa_factoid,երբ է կառուցվել բոլշոյ թատրոնը,qa_factoid,0.6661,0.6661,True
+14498,hy-AM,qa,qa_definition,տվեք ինձ սմարթֆոնի նկարագրությունը,qa_factoid,0.9841,0.0001,False
+14504,hy-AM,qa,qa_factoid,օլի քանի հանդիպում է կազմակերպել մահաթմա գանդին,social_post,0.7378,0.0154,False
+14505,hy-AM,qa,qa_factoid,ով է ռուսաստանի ներկայիս վարչապետը,qa_factoid,0.9788,0.9788,True
+14508,hy-AM,qa,qa_factoid,խնդրում եմ ամփոփել ջորջ ր ր մարտինի վերջին սառույց և կրակ գիրքը,iot_hue_lightoff,0.7607,0.0047,False
+14509,hy-AM,qa,qa_factoid,որտեղ է ծնվել մահաթմա գանդին,social_post,0.9914,0.0019,False
+14539,hy-AM,qa,qa_factoid,գտնել այս տեղանքի աշխարհագրական դետալները,lists_query,0.1846,0.0528,False
+14545,hy-AM,qa,qa_factoid,պատմեք ինձ հնդկաստանի գտնվելու վայրի մասին,social_post,0.9985,0.0001,False
+14567,hy-AM,qa,qa_factoid,որն է երկրագնդի ամենամեծ գործող հրաբուխը,qa_factoid,0.7872,0.7872,True
+14585,hy-AM,qa,qa_factoid,որքան ժամանակ կպահանջվի հարավային կորեայից ճապոնիա մեկնելու համար,weather_query,0.8752,0.1019,False
+14591,hy-AM,qa,qa_definition,տվեք ինձ հեռուստատեսության սխեմայի նկարագրությունը,qa_factoid,1.0,0.0,False
+14592,hy-AM,qa,qa_definition,տվեք ինձ սմարթֆոնի սխեմայի նկարագրությունը,qa_factoid,0.9943,0.0,False
+14597,hy-AM,qa,qa_factoid,որքան է կազմում նյու յորքի բնակչությունը,lists_query,0.8279,0.0406,False
+14601,hy-AM,qa,qa_factoid,քանի տարի աբրահամ լինքոլնը եղել է մացյալ նահանգների նախագահ,social_post,0.8226,0.0212,False
+14605,hy-AM,qa,qa_factoid,անջելինա ջոլին թողեց բրեդ փիթին,social_post,0.6831,0.1609,False
+14608,hy-AM,qa,qa_factoid,ինչ նոր ֆիլմի վրա է աշխատում ջենիֆեր լոուրենսը,play_music,0.6502,0.1295,False
+14622,hy-AM,qa,qa_definition,նկարագրիր ինչ է ոլորտը,qa_factoid,0.9889,0.0035,False
+14648,hy-AM,cooking,cooking_recipe,բաղադրատոմսը խնդրում եմ,qa_factoid,0.9984,0.0001,False
+14653,hy-AM,qa,qa_factoid,որքան է ռուսաստանի բնակչությունը,qa_factoid,0.5244,0.5244,True
+14661,hy-AM,qa,qa_factoid,որն է ռոբերտ քոչարյանի ծննդյան տարեթիվը,qa_factoid,0.9081,0.9081,True
+14668,hy-AM,qa,qa_definition,նկարագրեք իքս իգրեք կետը,email_sendemail,1.0,0.0,False
+14683,hy-AM,qa,qa_factoid,որն է գարիկ պապոյանի հոբբին,email_sendemail,0.2603,0.1599,False
+14684,hy-AM,qa,qa_factoid,ով ռուսաստանի վարչապետն է,qa_factoid,0.8309,0.8309,True
+14690,hy-AM,qa,qa_definition,o քեյ գուգլ ինչ է նախագահը,email_sendemail,0.752,0.0003,False
+14700,hy-AM,qa,qa_definition,կոնկրետ ինչ է խեժային ատամի լցոնումը,qa_definition,0.8097,0.8097,True
+14701,hy-AM,qa,qa_definition,նկարագրեք հարթսթոուն քարտի խաղը,email_sendemail,1.0,0.0,False
+14705,hy-AM,qa,qa_factoid,օ քեյ գուգլ որտեղ է ապրում սոֆիա վերգարան,social_post,0.976,0.0082,False
+14706,hy-AM,qa,qa_factoid,որտեղ է ապրում սոֆիա վերգարան,qa_factoid,0.9023,0.9023,True
+14746,hy-AM,qa,qa_factoid,որն է ռուսաստանի մայրաքաղաքը,qa_factoid,0.6915,0.6915,True
+14761,hy-AM,qa,qa_definition,տուր ինձ հովվապետական ​​բառի սահմանումը,qa_factoid,0.6345,0.0947,False
+14767,hy-AM,qa,qa_definition,ինչպես կբնութագրեք գնդակը,iot_hue_lightoff,0.9976,0.0001,False
+14770,hy-AM,qa,qa_factoid,ասա ինձ աշխարհի ամենամեծ օվկիանոսը,qa_factoid,0.7761,0.7761,True
+14787,hy-AM,qa,qa_factoid,որն է տարբերությունը հռոմեական և գրիգորյան օրացույցների միջև,lists_query,0.1773,0.0357,False
+14791,hy-AM,qa,qa_factoid,որն է աթոռի կազմը,qa_factoid,0.8196,0.8196,True
+14794,hy-AM,qa,qa_factoid,որն է էլվիսի սիրած ուղեւորությունը,social_post,0.9343,0.0498,False
+14822,hy-AM,qa,qa_factoid,համեմատել մարդկանց մեջ,recommendation_events,0.29,0.0968,False
+14838,hy-AM,qa,qa_factoid,ինչ է չեզոք խտության ֆիլտրը և ես կցանկանայի գրադիենտ թե ամբողջական նաև որ ոճը ավելի լավ կլիներ պտուտականմանը թե քառակուսիները,recommendation_events,0.9753,0.0017,False
+14857,hy-AM,qa,qa_definition,կարող եք բացատրել ինձ համար չափից դուրս իմաստը,qa_factoid,0.9994,0.0001,False
+14877,hy-AM,qa,qa_factoid,կլիմայական ինչպիսի պայմաններ են այդ տարածքում,iot_hue_lightoff,0.4208,0.2983,False
+14879,hy-AM,qa,qa_definition,իմաստը,qa_factoid,1.0,0.0,False
+14884,hy-AM,qa,qa_factoid,որն է ամենաքիչ տորնադոյի հակված տարածքը ողջ միացյալ նահանգներում,lists_query,0.3425,0.1788,False
+14889,hy-AM,qa,qa_definition,խնդրում եմ նկարագրիր ինձ այդ օբյեկտը,qa_factoid,0.9923,0.0001,False
+14891,hy-AM,qa,qa_factoid,որ ոլորտում է այդ մարդը հաջողության հասնում,qa_factoid,0.9478,0.9478,True
+14912,hy-AM,qa,qa_factoid,որտեղ է նախագահ սարգսյանը ծնվել,social_post,0.5629,0.0164,False
+14917,hy-AM,qa,qa_factoid,երբ է թողարկվելու մարկ լենեգանի հաջորդ ալբոմը,datetime_query,0.4321,0.183,False
+14933,hy-AM,qa,qa_factoid,ասա ինձ տեղեկություններ հնդկաստանի աշխարհագրության մասին,email_sendemail,0.786,0.0014,False
+14939,hy-AM,qa,qa_factoid,ես բրյուս լիի մասին տեղեկությունների կարիք ունեմ խնդրում եմ օգնիր,qa_factoid,0.3194,0.3194,True
+14981,hy-AM,qa,qa_definition,այֆոն յոթի նկարագրությունը,iot_hue_lightoff,0.8929,0.0011,False
+14994,hy-AM,qa,qa_factoid,որն է խորեն լևոնյանի հաջորդ ֆիլմը,qa_factoid,0.9974,0.9974,True
+14995,hy-AM,qa,qa_definition,ինչ է նշանակում իրավիճակ,qa_definition,0.6499,0.6499,True
+15020,hy-AM,qa,qa_factoid,քանի տարեկան է քլինթ իսթվուդը,qa_factoid,0.8177,0.8177,True
+15039,hy-AM,qa,qa_factoid,օլի որտեղից են սկսվում քարքարոտ լեռները,weather_query,0.9417,0.0052,False
+15055,hy-AM,qa,qa_factoid,որ բևեռն է ավելի ցուրտ հարավային թե հյուսիսային,cooking_recipe,0.2922,0.201,False
+15056,hy-AM,qa,qa_factoid,անի տարեկան է էմմա ուոթսոնի նոր ընկերը,qa_factoid,0.4309,0.4309,True
+15062,hy-AM,qa,qa_factoid,լիզա անի մասին տեղեկություններ խնդրում եմ,qa_factoid,0.9602,0.9602,True
+15075,hy-AM,qa,qa_factoid,օլլի որտեղ են հաստատվել առաջին ամերիկացիները,social_post,0.992,0.0006,False
+15092,hy-AM,qa,qa_definition,գտեք սամսունգ հեռուստացույցի նկարագրություն,iot_hue_lightoff,0.7974,0.0014,False
+15094,hy-AM,qa,qa_factoid,փնտրեք ֆլորիդայի մայամիում ապրող մարդկանց թիվը,qa_factoid,0.8714,0.8714,True
+15095,hy-AM,qa,qa_factoid,որ շրջանում է գտնվում մայամին,social_post,0.9921,0.0004,False
+15127,hy-AM,qa,qa_definition,սահմանել խոսնակը,social_post,0.7922,0.0009,False
+15155,hy-AM,social,social_post,կարող ես ներբեռնել իմ վերջին սելֆին իմ ֆեյսբուքի հաշիվ,qa_factoid,0.5856,0.0042,False
+15166,hy-AM,social,social_post,տեղադրեք իմ բիզնեսը թվիթերում,qa_factoid,0.977,0.0037,False
+15177,hy-AM,social,social_post,խնդրում եմ նորից թվիթ անել այս գրառումը twitter,email_sendemail,0.9754,0.0237,False
+15185,hy-AM,social,social_post,ծննդյան մաղթանքներ,recommendation_events,0.1797,0.0442,False
+15186,hy-AM,social,social_post,հարսանեկան մաղթանքներ,recommendation_events,0.1839,0.1571,False
+15187,hy-AM,social,social_post,կիսվել ընկերների գրառման մեջ,social_post,0.9859,0.9859,True
+15197,hy-AM,social,social_post,թվիթերում տեղադրել իմ այցելությունը ճապոնիա,email_sendemail,0.8455,0.0044,False
+15208,hy-AM,social,social_post,ողջունիր բալորին ֆեյսբուքում,social_post,0.7029,0.7029,True
+15213,hy-AM,news,news_query,որն է այժմ թրենդային,qa_definition,0.4504,0.0227,False
+15214,hy-AM,news,news_query,ինչ նորություններ կան այսօր,news_query,0.9871,0.9871,True
+15216,hy-AM,social,social_post,թվիթ գրիր ինձ համար,social_post,0.9893,0.9893,True
+15231,hy-AM,social,social_post,իմ ուղևորությունը դեպի գոա լուսանկարը տեղադրիր այն instagram-ում,social_post,0.9993,0.9993,True
+15271,hy-AM,social,social_post,տեղադրել սա իմ facebook l o l,social_post,0.9988,0.9988,True
+15275,hy-AM,social,social_post,գրառում ուրախ եմ facebookում,social_post,0.9996,0.9996,True
+15276,hy-AM,social,social_post,տեղադրիր նոր ստատուս facebook-ում ասելով որ ես վայելում եմ հաճելի եղանակ,social_post,0.9994,0.9994,True
+15289,hy-AM,social,social_post,հաղորդագրությունը հիմա հրապարակիր,social_post,0.7232,0.7232,True
+15305,hy-AM,calendar,calendar_query,ես ունեմ որևէ ծանուցում սոցիալական ցանցերից,qa_factoid,0.6309,0.0001,False
+15318,hy-AM,social,social_post,ես ուզում եմ բոլորին շնորհակալություն հայտնել ծննդյան օրվա բարեմաղթանքների համար,lists_remove,0.3957,0.128,False
+15337,hy-AM,social,social_post,հրապարակել այս տեսանյութը ֆեյսբուքում,social_post,0.9999,0.9999,True
+15350,hy-AM,social,social_post,ես դժգոհ եմ tesco-ից խնդրում եմ օգնիր ինձ,email_sendemail,0.9983,0.0008,False
+15358,hy-AM,social,social_post,olly թվիթ արա apple որ այֆոնը չի աշխատում,email_sendemail,0.6883,0.0223,False
+15359,hy-AM,social,social_post,թվիթ գրեք էփլին որ այֆոնի մարտկոցը միշտ սպառված է,recommendation_events,0.8591,0.007,False
+15364,hy-AM,social,social_post,կարող եք տեղեկացնել ամազոնին որ այս նոր հեռախոսի պատյանը անպիտան է,iot_hue_lightoff,0.7292,0.0056,False
+15382,hy-AM,social,social_post,կարող եք կապ հաստատել samsung հետ և ասել որ իմ լվացքի մեքենան վառվել է,qa_factoid,0.9982,0.0001,False
+15387,hy-AM,social,social_post,թվիթիր իմ ներկայիս գտնվելու վայրը,iot_hue_lightoff,0.9966,0.0,False
+15399,hy-AM,social,social_post,ուղարկեք բողոք aircel ցանցի հետ կապված խնդիրների համար,social_post,0.6832,0.6832,True
+15401,hy-AM,social,social_post,բաց թվիթերը հաղորդագրություն ուղարկիր,email_sendemail,0.6635,0.0854,False
+15402,hy-AM,social,social_post,թվիթերով գրիր որ այդ ապրանքը վատն է,iot_hue_lightoff,0.6446,0.0177,False
+15409,hy-AM,social,social_post,բացիր թվիթերը մուտքագրիր իմ բողոքը և հրապարակիր հաճախորդների սպասարկման մեջ,social_post,0.9505,0.9505,True
+15413,hy-AM,social,social_post,ինձ մարդ գտիր որքան հնարավոր է շուտ,qa_factoid,0.7232,0.1056,False
+15444,hy-AM,social,social_post,երկու բութ մատը ներքև ընկերության անվան վրա,lists_remove,0.4801,0.0108,False
+15448,hy-AM,social,social_post,թվիթել sonys ին ծավալային խնդիրների մասին,email_sendemail,1.0,0.0,False
+15454,hy-AM,social,social_post,թվիթ անել united airlinesին ես բարկացած եմ որ կորցրել են պայուսակներս,iot_hue_lightoff,0.9997,0.0,False
+15456,hy-AM,social,social_post,ուզում եմ թվիթ ուղարկել աերոֆլոտին որ ես զայրացած եմ քանի որ իրենք կորցրել են իմ պայուսակները,iot_hue_lightoff,0.8747,0.0602,False
+15457,hy-AM,social,social_post,ես խնդիր ունեի իմ բուրգերի հետ կապված կարող եք թվիթ անել bk,qa_factoid,0.8815,0.0043,False
+15459,hy-AM,social,social_post,ուղարկել թվիթեր բողոք,social_post,0.998,0.998,True
+15464,hy-AM,social,social_post,ես չեմ ստացել ապրանքը ժամանակին ուղարկել թվիթ jcpenney,recommendation_events,0.4221,0.0095,False
+15467,hy-AM,social,social_post,ասա comcastին որ ես ատում եմ նրան,play_podcasts,0.998,0.0019,False
+15472,hy-AM,social,social_post,թվիթիր բողոք առցանց գրախանութի համար,social_post,0.9575,0.9575,True
+15487,hy-AM,social,social_post,թվիթթերով տեղեկացրու նոյան հյութերի գործարանին իրենց խանութների մաքրության վերաբերյալ,cooking_recipe,0.5266,0.0234,False
+15488,hy-AM,social,social_post,խնդրում եմ թվիթ արեք at pizzahut որ ես սպասում էի իմ առաքմանը և առայժմ համարը դժգոհ է,cooking_recipe,0.9968,0.0001,False
+15503,hy-AM,social,social_post,նոր թվիթ հաճախորդների սպասարկմանը,social_post,0.5899,0.5899,True
+15508,hy-AM,social,social_post,ալինա բացիր թվիթթերը գրառում արա որ սաս գրուպն ահավոր է,social_post,0.9117,0.9117,True
+15518,hy-AM,social,social_post,բողոք ուղարկիր թվիթի միջոցով ջեյի անձնակազմին,social_post,0.7832,0.7832,True
+15532,hy-AM,social,social_post,olly թվիթ արա walmart և ասա նրանց որ իրենց հաճախորդների սպասարկումը սարսափելի է,recommendation_events,0.7731,0.0387,False
+15546,hy-AM,social,social_post,թվիթ տեղադրիր սառը պիցցայի մասին մամա միային,iot_hue_lightoff,0.957,0.0017,False
+15548,hy-AM,social,social_post,թվիթթերով գրիր բողոք samsung,social_post,0.6931,0.6931,True
+15553,hy-AM,social,social_post,խնդրում եմ բացասական արձագանք թվիթ արա դեյքինի ծառայության մասին,qa_factoid,0.9882,0.003,False
+15554,hy-AM,social,social_post,խնդրում եմ դել սերվիսում թվիթ արա ծառայուրյան ուշացման մասին,qa_factoid,0.9556,0.0034,False
+15556,hy-AM,social,social_post,արի բողոք թվիթ անենք,social_post,0.7162,0.7162,True
+15557,hy-AM,social,social_post,ես պետք է բողոք գրեմ թվիթերում,social_post,0.9911,0.9911,True
+15560,hy-AM,social,social_post,գրառում արա facebookում ես սոված եմ,qa_factoid,0.8856,0.1088,False
+15565,hy-AM,social,social_post,դու կարող ես տեղեկացնել աշտարակ կաթին որ ես նորից երբեք չեմ օգտվի նրանցից,email_sendemail,0.7183,0.1946,False
+15587,hy-AM,social,social_post,բացիր պատկերասրահը գրառում կատարիր նկարի անվան վերաբերյալ,qa_factoid,0.3005,0.1117,False
+15592,hy-AM,social,social_post,թվիթիր բողոք comcast-ում,social_post,0.9991,0.9991,True
+15593,hy-AM,social,social_post,թվիթ անել բողոք at comcast,iot_hue_lightoff,0.7703,0.1611,False
+15598,hy-AM,social,social_post,բացիր ընկերության անվանումը և գտիր բողոքները,social_post,0.6048,0.6048,True
+15610,hy-AM,social,social_post,հրապարակել թվիթ իմ հաշվում հետևյալ կերպ շատ վատ հետևում է a. b. c. ընկերությունը բավարարված չէ,social_post,0.7614,0.7614,True
+15618,hy-AM,social,social_post,թվիթ արեք esurance և ասեք նրանց որ նրանք քաշվել են,email_sendemail,0.9121,0.0035,False
+15626,hy-AM,social,social_post,խնդրում եմ բողոք թվիթիր բիլայնին հաճախորդների վատ սպասարկման համար,recommendation_events,0.4743,0.1962,False
+15634,hy-AM,social,social_post,լավ google թվիթթերով հարցրու թե որ ապուշն է բենզալցակայանի սեփականատերը,qa_factoid,0.4868,0.1755,False
+15635,hy-AM,social,social_post,թվիթիր որ mcdonald's-ը արարատի տակ սարսափելի սպասարկում ունի,iot_hue_lightoff,0.7266,0.0011,False
+15647,hy-AM,social,social_post,tweet բողոքը այդ մասին,social_post,0.9998,0.9998,True
+15651,hy-AM,social,social_post,ուղարկել հաշվետվություն հաճախորդների սպասարկում,social_post,0.8908,0.8908,True
+15652,hy-AM,social,social_post,օգնիր հաճախորդների սպասարկման բողոքներին,social_post,0.5465,0.5465,True
+15655,hy-AM,social,social_post,թվիթերով գրիր google հաճախորդների ծառայությանը որ իմ նոր nexus հեռախոսը փչացել է օգնիր խնդրում եմ,social_post,0.34,0.34,True
+15656,hy-AM,social,social_post,թվիթ անել հաղորդագրություն suqcom որ ես դեռ սպասում եմ իմ առաքմանը,social_post,0.9993,0.9993,True
+15661,hy-AM,social,social_post,հրապարակիր իմ ամենավերջին գրառումը ռեյմային թվիթթերում,social_post,0.7682,0.7682,True
+15670,hy-AM,social,social_post,ուղարկիր բողոքի թվիթ,social_post,0.8919,0.8919,True
+15672,hy-AM,social,social_post,թվիթ անել appleին այֆոնը չստանալու մասին որ ես ուղարկել էի վերանորոգելու նախորդ շաբաթ,iot_hue_lightoff,0.5497,0.0243,False
+15676,hy-AM,social,social_post,խնդրում եմ բողոք ավելացնել ձիթապտղի այգում թվիթի ծառայության մասին,social_post,0.9981,0.9981,True
+15686,hy-AM,social,social_post,բարև ապրանքը որ գնել եմ ինչ-որ մեկից շարքից դուրս է եկել,qa_factoid,0.4042,0.018,False
+15693,hy-AM,social,social_post,թվիթ անել որ շոկոլադի տուփում միջատ կար,iot_hue_lightoff,0.9993,0.0,False
+15700,hy-AM,social,social_post,ժամկետանց ապրանքներ ներկայիս շուկայում,qa_factoid,0.3858,0.0049,False
+15703,hy-AM,social,social_post,թվիթ անել ոտնամանին որ իրենց մոտ չափերը շատ շուտ են սպառվում,iot_hue_lightoff,0.9998,0.0,False
+15706,hy-AM,social,social_post,թվիթ անել,iot_hue_lightoff,0.9787,0.0005,False
+15707,hy-AM,social,social_post,արի թվիթ ուղարկենք,qa_factoid,0.9898,0.0002,False
+15708,hy-AM,social,social_post,բողոք ներկայացրու ծառայության վերաբերյալ,qa_factoid,0.9671,0.0201,False
+15721,hy-AM,social,social_post,tweet արա զզվող դեմք mcdonaldsի մասին,social_post,0.9997,0.9997,True
+15723,hy-AM,social,social_post,ֆեյսբուքով երջանիկ լինելու սմայլիկ դիր,social_post,0.3258,0.3258,True
+15731,hy-AM,social,social_post,օլլի թվիթ ուղարկիր վիվասելին և ասա որ ծառայությունը վատն է,qa_factoid,0.8257,0.1179,False
+15732,hy-AM,social,social_post,թվիթ արեք samsung և ասեք նրանց որ դադարեն սպանել մարդկանց իրենց արտադրանքով,qa_factoid,0.1588,0.0507,False
+15736,hy-AM,social,social_post,ընկերության մասին բացասական կարծիք ներկայացրու,qa_factoid,0.9823,0.001,False
+15756,hy-AM,email,email_sendemail,խնդրում եմ մեյլ ուղարկիր իմ թիմին,qa_factoid,0.7243,0.1577,False
+15763,hy-AM,email,email_query,խնդրում եմ ստուգիր նոր նամակներ,email_sendemail,0.9765,0.0181,False
+15765,hy-AM,email,email_sendemail,պատասխանիր վահեի նամակին,email_sendemail,1.0,1.0,True
+15777,hy-AM,email,email_query,ասա ինձ արդյոք ես նոր մեյլեր ունեմ,qa_factoid,0.8113,0.0003,False
+15785,hy-AM,email,email_query,ինչ որ նոր բան կա իմ փոստարկղում,email_sendemail,0.245,0.0888,False
+15789,hy-AM,email,email_query,աննա ես որևէ նոր մեյլեր ունեմ,calendar_remove,0.4388,0.0108,False
+15792,hy-AM,calendar,calendar_query,ում եմ ես այսօր հանդիպում,social_post,0.9517,0.002,False
+15796,hy-AM,email,email_sendemail,նամակ գրիր կարինեին,qa_factoid,0.9956,0.0039,False
+15802,hy-AM,email,email_sendemail,պատասխան նամակ ուղարկիր պետրոսին որ ես չեմ գալու այս գիշեր,email_sendemail,1.0,1.0,True
+15809,hy-AM,email,email_query,կարենը ինձ մեյլ գրել է,qa_factoid,1.0,0.0,False
+15825,hy-AM,email,email_sendemail,պատասխանել հայրիկին գրել ես կուշանամ,email_sendemail,1.0,1.0,True
+15828,hy-AM,email,email_sendemail,ահա նոր մեյլի հասցեն որը պետք է ավելացվի կոնտակտներին,social_post,0.1467,0.1298,False
+15829,hy-AM,email,email_sendemail,գնա կոնտակտներ և նոր մեյլի հասցե գրիր,social_post,0.944,0.0151,False
+15839,hy-AM,email,email_query,թեմա,qa_factoid,1.0,0.0,False
+15841,hy-AM,email,email_sendemail,ստեղծի նոր էլ. նամակ ռոբերտ,email_sendemail,1.0,1.0,True
+15845,hy-AM,email,email_sendemail,ինչպես է դա մեզ վերաբերում,qa_factoid,0.9921,0.0,False
+15847,hy-AM,email,email_sendemail,ոնց կարող ենք վարկ վերցնել,qa_factoid,0.9997,0.0,False
+15849,hy-AM,email,email_sendemail,նամակ ուղարկիր իմ ղեկավարին,email_sendemail,1.0,1.0,True
+15857,hy-AM,email,email_sendemail,խնդրում եմ ուղարկել նոր էլեկտրոնային հասցեին ցուցակագրված հասցեները,lists_remove,0.381,0.0452,False
+15862,hy-AM,email,email_query,ստուգիր մամայից ստացված նամակները,email_query,0.9516,0.9516,True
+15880,hy-AM,email,email_query,խնդրում եմ ստուգիր իմ նամակները,email_sendemail,0.9997,0.0003,False
+15890,hy-AM,email,email_query,ստուգիր և տես արդյոք ես որևէ նոր նամակ եմ ստացել իմ պապայից,email_sendemail,0.9999,0.0001,False
+15904,hy-AM,email,email_query,ստուգիր իմ նոր մեյլերը և ասա թե ինչի մասին են դրանք,qa_definition,0.5358,0.0212,False
+15906,hy-AM,email,email_sendemail,john պատասխանել շնորհակալություն,email_sendemail,0.9999,0.9999,True
+15911,hy-AM,email,email_sendemail,էլեկտրոնային նամակ պատրաստիր աստղիկի համար,email_sendemail,1.0,1.0,True
+15933,hy-AM,email,email_query,ինչ նոր էլեկտրոնային նամակներ ունեմ ես,news_query,0.9487,0.0067,False
+15942,hy-AM,email,email_sendemail,ուղարկիր այս նամակը որպես վերջին մեյլերի պատասխան,email_sendemail,0.9551,0.9551,True
+15950,hy-AM,email,email_sendemail,պատասխանիր կարեն հակոբյանի մեյլին,email_sendemail,0.9928,0.9928,True
+15957,hy-AM,email,email_sendemail,նամակ գրիր վարդուհուն որ տեղեկացնես նրան որ մենք ճանապարհին ենք,email_sendemail,0.9999,0.9999,True
+15963,hy-AM,email,email_query,ես որևէ նոր նամակ ունեմ շանթից,social_post,0.5707,0.0613,False
+15966,hy-AM,email,email_query,ուղարկիր պատասխան եթե այն շատ կարևոր է,qa_factoid,0.9868,0.0002,False
+15968,hy-AM,email,email_query,եթե դա ծանոթ վայրից է նշիր այն որպես կարևոր,social_post,0.9215,0.0001,False
+15970,hy-AM,email,email_query,որն էր մայրիկի վերջին էլեկտրոնային նամակի թեման,qa_factoid,0.228,0.09,False
+15971,hy-AM,email,email_query,որն է վերջին մեյլը աշխատանքից,qa_factoid,0.7376,0.0056,False
+15994,hy-AM,email,email_sendemail,ուղարկի էլեկտրոնային նամակ աշոտին հարցրու նրան թե որ ժամն է հարմար հանդիպման համար,email_sendemail,0.9914,0.9914,True
+15995,hy-AM,email,email_sendemail,նամակ ուղարկիր կարենին բյուջեի մասին հանդիպման վերաբերյալ,email_sendemail,0.9987,0.9987,True
+15998,hy-AM,email,email_query,ստուգիր իմ նամակները ինչ որ բանի առկայությանը անունից,email_sendemail,1.0,0.0,False
+16002,hy-AM,email,email_query,ստուգիր նոր էլեկտրոնային նամակների առկայությունը,email_sendemail,0.9503,0.0484,False
+16005,hy-AM,email,email_sendemail,նամակ ուղարկել joseph at gmail dot com հասցեով,email_sendemail,1.0,1.0,True
+16010,hy-AM,email,email_query,ասա ինձ եթե ես որևէ նոր հաղորդագրություններ ունեմ իմ մուտքի փոստարկղում,email_sendemail,0.7353,0.0174,False
+16024,hy-AM,email,email_sendemail,մեյլ ուղարկիր արտուշին և ասա որ վաղը զբաղված եմ,email_sendemail,1.0,1.0,True
+16028,hy-AM,email,email_sendemail,հեյ siri մեյլ ուղարկիր գործընկերոջը,social_post,0.9957,0.0006,False
+16029,hy-AM,email,email_sendemail,խնդրում եմ նոր մեյլ գրիր գործընկերոջը,social_post,0.8051,0.0251,False
+16032,hy-AM,email,email_sendemail,խնդրում եմ վարդուհուն էլելկտրոնային հաղորդագրություն ուղարկել վաղվա հանդիպման վերաբերյալ,email_sendemail,1.0,1.0,True
+16038,hy-AM,email,email_query,հեյ արամայիսը որևէ նամակ ուղարկել է ինձ վերջերս,email_sendemail,1.0,0.0,False
+16045,hy-AM,email,email_sendemail,էլեկտրոնային նամակ ուղարկիր աշոտին գրասենյակի բացման ժամանակացույցի համար,email_sendemail,1.0,1.0,True
+16048,hy-AM,email,email_query,ցույց տուր վերջին էլ. նամակներ,email_sendemail,1.0,0.0,False
+16049,hy-AM,email,email_sendemail,ես ուզում եմ էլեկտրոնային նամակ ուղարկել իմ ընտանիքին կօգնես ինձ,email_sendemail,1.0,1.0,True
+16050,hy-AM,email,email_query,ստուգի gmail,email_sendemail,1.0,0.0,False
+16052,hy-AM,email,email_query,ստուգիր outlook ը,email_sendemail,0.9498,0.0006,False
+16056,hy-AM,email,email_sendemail,պատասխանիր էլեկտրոնային նամակին,email_sendemail,0.9968,0.9968,True
+16061,hy-AM,email,email_query,վերջին տասը րոպեների ընթացքում ես որևէ նամակ ստացել եմ,email_sendemail,0.8855,0.048,False
+16072,hy-AM,email,email_sendemail,նամակ ուղարկիր իմ տնօրենին որ ես այսօր կուշանամ արտակարգ իրավիճակի պատճառով և ներողություն խնդրիր նրանից հանդիպումը բաց թողնելու համար,email_sendemail,0.9989,0.9989,True
+16075,hy-AM,email,email_query,ցույց տուր արամի վերջին մեյլերը,qa_factoid,0.9768,0.0005,False
+16082,hy-AM,email,email_sendemail,ուղարկիր նամակ պետրոսին և հարցրու թե ինչպես է նա հիմա կարող եմ ես ինչ որ բան անել նրան օգնելու համար,email_sendemail,1.0,1.0,True
+16089,hy-AM,email,email_query,ես վերջին տասը րոպեների ընթացքում նոր նամակներ ստացել եմ,news_query,0.833,0.0065,False
+16096,hy-AM,email,email_query,անին ինձ որևիցե նոր նամակ ուղարկել է,email_sendemail,1.0,0.0,False
+16098,hy-AM,email,email_query,ստուգիր անիից ստացված չկարդացած նամակները,lists_remove,0.5607,0.0084,False
+16100,hy-AM,email,email_query,խնդրում եմ ստուգիր նամակը որը պարունակում է աշխատանքի ցուցակ,email_sendemail,1.0,0.0,False
+16103,hy-AM,email,email_sendemail,ուղարկի էլ. նամակ իմ եղբայր և ասա ամուսնության տարեդարձ,email_sendemail,1.0,1.0,True
+16120,hy-AM,email,email_sendemail,օգնություն պետք է ուղարկվի միայն աստղիկին,email_sendemail,0.7058,0.7058,True
+16131,hy-AM,email,email_sendemail,այս վերջին մեյլը պետք է ավելացնել իմ կոնտակտներին,lists_remove,0.242,0.0568,False
+16145,hy-AM,email,email_query,ցույց տուր ինձ ամենավերջին էլեկտրոնային նամակները,email_sendemail,0.9992,0.0,False
+16146,hy-AM,news,news_query,տվեք ինձ վերջին թարմացումները,news_query,0.4124,0.4124,True
+16148,hy-AM,email,email_sendemail,արագ պատասխանեք աշոտին ուստի խնդրում ենք էլեկտրոնային նամակ ուղարկել,email_sendemail,0.9228,0.9228,True
+16151,hy-AM,email,email_query,ստուգեք հանդիպման ժամանակացույցը այսօրվա էլեկտրոնային նամակների մեջ,iot_hue_lightoff,0.3584,0.0242,False
+16162,hy-AM,email,email_sendemail,պատասխան ուղարկիր,qa_factoid,0.9999,0.0,False
+16163,hy-AM,email,email_query,ով է ինձ էլեկտրոնային նամակ ուղարկել երեկ,email_sendemail,0.9902,0.0002,False
+16165,hy-AM,email,email_query,անին պատասխանեց,qa_factoid,0.9993,0.0,False
+16166,hy-AM,email,email_sendemail,կարող ես պատասխանել անիին որ ես առաջիկա երեք շաբաթվա ընթացքում զբաղված եմ լինելու նախագծերով,calendar_remove,0.2048,0.0262,False
+16168,hy-AM,email,email_query,վերջին տասնհինգ րոպեի ընթացքում որևէ նամակ եկել է,email_sendemail,0.9401,0.0106,False
+16170,hy-AM,email,email_query,բացիր մուտքի փոստարկղը չընթերցված էլեկտրոնային նամակները ստուգելու համար,email_sendemail,0.7791,0.0586,False
+16178,hy-AM,email,email_query,որևէ նամակ amazon ից այսօր,email_sendemail,0.9492,0.0069,False
+16183,hy-AM,email,email_query,ստուգիր էլեկտրոնային նամակները իմ աշխատանքի մասին,email_sendemail,0.9999,0.0,False
+16201,hy-AM,email,email_sendemail,խնդրում եմ նոր էլեկտրոնային նամակ բեռնիր կարենի համար և հիմա հաղորդագրություն ուղարկիր,email_sendemail,1.0,1.0,True
+16221,hy-AM,email,email_sendemail,վերցրու անիի էլեկտրոնային փոստը և գրիր որ ես նրան տեղյակ կպահեմ,email_sendemail,0.9998,0.9998,True
+16245,hy-AM,email,email_sendemail,նամակ ուղարկիր գոռ շնիկ մեյլ կետ ռու էլեկտրոնային հասցեին,social_post,0.7093,0.0589,False
+16248,hy-AM,email,email_query,խնդրում եմ ստուգիր իմ էլեկտրոնային հասցեն,email_sendemail,0.9993,0.0,False
+16263,hy-AM,email,email_query,ես ինչ որ նոր մեյլ ստացել եմ ռոբերտից,news_query,0.1159,0.0361,False
+16266,hy-AM,email,email_sendemail,մեյլ գրիր իմ ընտանիքին ասելով որ սիրում եմ նրանց բոլորին,social_post,0.9063,0.0645,False
+16271,hy-AM,email,email_query,թարմացրու իմ մուտքի փոստարկղը և տեղեկացրու ինձ նոր էլեկտրոնային նամակների մասին,email_sendemail,1.0,0.0,False
+16275,hy-AM,email,email_query,նախաձեռնել հարցում նոր էլ. փոստ համար,email_sendemail,0.9983,0.0016,False
+16276,hy-AM,email,email_query,ունեմ նոր մեյլեր,qa_factoid,0.4424,0.0046,False
+16280,hy-AM,email,email_sendemail,խնդրում եմ ինձ մեյլ ուղարկիր գոհարին որպես ընկեր ընտանիք,email_sendemail,0.8206,0.8206,True
+16282,hy-AM,email,email_sendemail,նամակ ուղարկեք իմ օգնական աստղիկին վաղվա բոլոր պայմանավորվածությունները չեղարկելու համար,email_sendemail,0.9989,0.9989,True
+16296,hy-AM,email,email_sendemail,էլեկտրոնային նամակ ուղարկիր մայրիկին որպեսզի ասեմ որ աշոտի ծննդյան խնջույք կիրակի է,email_sendemail,1.0,1.0,True
+16297,hy-AM,email,email_sendemail,jake ին շնորհակալության մեյլ ուղարկիր,email_sendemail,0.9999,0.9999,True
+16314,hy-AM,email,email_sendemail,ուղարկի էլ. նամակ մարգարիտ,email_sendemail,0.9488,0.9488,True
+16317,hy-AM,email,email_query,ես ստացել եմ նոր նամակներ հասմիկից,news_query,0.8022,0.0006,False
+16318,hy-AM,email,email_sendemail,պատասխանիր էլեկտրոնային նամակին,email_sendemail,0.9968,0.9968,True
+16320,hy-AM,email,email_sendemail,ես ուզում եմ պատասխանել կարեն հակոբյանի մեյլին,email_sendemail,0.3138,0.3138,True
+16353,hy-AM,email,email_query,ստուգիր աշոտից ստացված էլեկտրոնային նամակները,email_sendemail,0.6726,0.058,False
+16354,hy-AM,email,email_query,ստուգիր իմ գործատուի էլեկտրոնային նամակները,email_sendemail,1.0,0.0,False
+16356,hy-AM,email,email_query,ես նամակ գրել եմ արմանին զենքի վերահսկման թեմայով,email_sendemail,1.0,0.0,False
+16357,hy-AM,email,email_query,արմանը ինձ էլեկտրոնային նամակ է ուղարկել զինամթերքի մասին,email_sendemail,0.999,0.0001,False
+16361,hy-AM,email,email_query,ես ունեմ որևէ նոր էլեկտրոնային նամակներ անցած մեկ ժամվա ընթացքում,email_sendemail,1.0,0.0,False
+16373,hy-AM,email,email_query,ես ստացել եմ որևէ էլ. նամակ բեռնային համարներ,email_query,0.99,0.99,True
+16375,hy-AM,email,email_sendemail,էլեկտրոնային նամակ գրիր աշոտին,email_sendemail,1.0,1.0,True
+16376,hy-AM,email,email_sendemail,alexa խնդրում եմ էլեկտրոնային նամակը ուղարկիր մայրիկին,email_sendemail,1.0,1.0,True
+16377,hy-AM,email,email_sendemail,մայրիկին մեյլ ուղարկիր հիմա,social_post,0.8507,0.0337,False
+16384,hy-AM,email,email_query,ես ունեմ ինչ որ նոր մեյլեր,qa_definition,0.2411,0.0273,False
+16385,hy-AM,email,email_query,կարդա խնդրում եմ նոր մեյլերը,qa_factoid,0.9968,0.0001,False
+16398,hy-AM,email,email_sendemail,խնդրում եմ մեյլ ուղարկիր արամին,email_sendemail,1.0,1.0,True
+16399,hy-AM,email,email_query,ես որևէ նոր էլեկտրոնային նամակ ստացել եմ,email_sendemail,0.8713,0.1283,False
+16401,hy-AM,email,email_sendemail,մեյլ գրիր փառանձեմին բարև ինչ ես անում այսօր,qa_factoid,0.6529,0.3275,False
+16402,hy-AM,email,email_sendemail,էլեկտրոնային նամակ ուղարկիր անիին այսօրվա պլաններով,email_sendemail,1.0,1.0,True
+16406,hy-AM,email,email_sendemail,alexa սկսիր էլեկտրոնային նամակ,email_sendemail,0.995,0.995,True
+16410,hy-AM,email,email_sendemail,ստեղծիր էլեկտրոնային նամակ,email_sendemail,0.996,0.996,True
+16413,hy-AM,email,email_query,ցույց տուր իմ ղեկավարի կողմից ստացված բոլոր մեյլերը,qa_factoid,0.8687,0.001,False
+16419,hy-AM,email,email_sendemail,խնդրում եմ էլեկտրոնային նամակ ուղարկեք քեռի աշոտին հետևյալը այո ես կարող եմ դա անել,email_sendemail,1.0,1.0,True
+16427,hy-AM,email,email_query,քանի նոր մեյլ եմ ես ստացել այսօր,news_query,0.9723,0.0008,False
+16430,hy-AM,email,email_sendemail,խնդրում եմ էլեկտրոնային նամակ ուղարկիր մայրիկին և հայրիկին և հարցրու ինչպես են նրանք,email_sendemail,1.0,1.0,True
+16437,hy-AM,email,email_sendemail,խնդրում եմ ուղղարկիր այս նամակը իմ ընկերոջը,email_sendemail,1.0,1.0,True
+16438,hy-AM,email,email_sendemail,ինձ հիմա պետք է ուղարկել այս էլեկտրոնային նամակը,email_sendemail,1.0,1.0,True
+16446,hy-AM,email,email_query,ստուգիր այս ուղարկողի վերջին մեյլի ուսումնասիրությունը խնդրում եմ,qa_factoid,0.335,0.035,False
+16459,hy-AM,email,email_sendemail,նոր հաղորդագրություն newmail շնիկ gmail կետ com,email_sendemail,1.0,1.0,True
+16461,hy-AM,email,email_query,ես ունեմ որևէ չկարդացված էլեկտրոնային նամակներ,email_sendemail,1.0,0.0,False
+16467,hy-AM,email,email_query,ես ունեմ որևէ նոր նամակներ իմ կոնտակտ q.-ից,email_sendemail,1.0,0.0,False
+16471,hy-AM,email,email_query,ստուգիր էլեկտրոնային նամակները աշոտի կողմից,email_sendemail,0.9934,0.0015,False
+16496,hy-AM,email,email_sendemail,ուղարկիր պատասխան մեյլ,qa_factoid,0.9999,0.0,False
+16501,hy-AM,email,email_sendemail,խնդրում եմ նամակ ուղարկիր իմ ընկեր սուսաննային ինչպես ես,email_sendemail,1.0,1.0,True
+16506,hy-AM,email,email_sendemail,ավելացրու նոր մեյլ հասցե և ուղարկիր մեյլ,social_post,0.9966,0.0003,False
+16518,hy-AM,email,email_sendemail,ավելացնել նոր մեյլ աննա սարգսյանի համար,lists_remove,0.3365,0.0094,False
+16519,hy-AM,email,email_sendemail,ինձ պետք է նոր էլեկտրոնային հասցե ավելացնել իմ կոնտակտներին,lists_remove,0.1923,0.0366,False
+16535,hy-AM,email,email_sendemail,կարող ես նամակ գրել անահիտին,qa_factoid,0.9939,0.0031,False
+16559,hy-AM,email,email_sendemail,ուղարկիր պատասխան պետրոսին չորս հարյուր երեսուն պատասխանով այս առավոտ նրա ուղարկած էլեկտրոնային հասցեից,email_sendemail,1.0,1.0,True
+16560,hy-AM,email,email_sendemail,պատասխանիր իմ ղեկավարների էլեկտրոնային փոստին որ ես երեկոյան ժամը չորսին եմ լինելու,email_sendemail,1.0,1.0,True
+16563,hy-AM,email,email_query,olly ստուգիր իմ էլեկտրոնային հասցեն,email_sendemail,0.9998,0.0,False
+16591,hy-AM,email,email_sendemail,ես հենց նոր ստացա նամակ բենիկից ես պետք է պատասխանեմ նրան հենց հիմա,email_sendemail,1.0,1.0,True
+16593,hy-AM,email,email_sendemail,այդ վերջին նամակին պետք է հնարավորինս շուտ պատասխանել,email_sendemail,0.5592,0.5592,True
+16603,hy-AM,email,email_query,ինչ է ասվում այն նամակում որը երեսուն րոպե առաջ ուղարկվել էր մամայից,email_sendemail,0.9973,0.0026,False
+16605,hy-AM,email,email_sendemail,գրի և ուղարկիր նամակ իմ ղեկավարին,email_sendemail,1.0,1.0,True
+16609,hy-AM,email,email_query,ասա ինձ արդյոք ես ունեմ ինչ որ նոր մեյլեր,qa_factoid,0.927,0.0025,False
+16613,hy-AM,email,email_sendemail,նամակ ուղարկիր տնօրենին ասելով որ ես կուշանամ,email_sendemail,0.9998,0.9998,True
+16622,hy-AM,email,email_sendemail,ուղարկիր էլեկտրոնային նամակ այս կոնտակտին,email_sendemail,1.0,1.0,True
+16624,hy-AM,email,email_sendemail,անհրաժեշտ է նամակ ուղարկել իդեալ համակարգին իմ ծառայությունների հարցերով,email_sendemail,1.0,1.0,True
+16627,hy-AM,email,email_query,ստուգեք ընթացիկ էլեկտրոնային նամակների մեծ մասը,lists_remove,0.3184,0.0143,False
+16630,hy-AM,email,email_sendemail,ուղարկիր պատասխան վերջին էլեկտրոնային նամակին,email_sendemail,0.9601,0.9601,True
+16642,hy-AM,email,email_query,ստուգիր էլեկտրոնային փոստը անիի որևէ նամակների առկայության համար,email_sendemail,0.9998,0.0002,False
+16648,hy-AM,email,email_query,խնդրում եմ ստուգիր իմ էլեկտրոնային նամակները ինձ համար,email_sendemail,1.0,0.0,False
+16652,hy-AM,email,email_query,արդյոք աշոտի էլեկտրոնային փոստը ունի կցորդ,social_post,0.9084,0.0014,False
+16662,hy-AM,email,email_query,արդյոք ես որևէ նոր նամակ եմ ստացել դանիելից,email_query,0.3671,0.3671,True
+16666,hy-AM,email,email_query,ես ունեմ որևէ մտնող էլ. նամակներ,email_query,0.9568,0.9568,True
+16668,hy-AM,email,email_query,այսօրվա չորս հարյուրից ի վեր որևէ նամակ եկել է,news_query,0.8628,0.0115,False
+16669,hy-AM,email,email_query,ես paul մեյլ ստացել եմ,email_sendemail,0.7268,0.0012,False
+16672,hy-AM,email,email_query,արմենը կապի դուրս եկել է,iot_hue_lightoff,0.5506,0.0111,False
+16677,hy-AM,email,email_query,ես այսօր իմ մուտքի արկղում որևէ նոր նամակներ ունեմ,email_sendemail,0.4997,0.4627,False
+16698,hy-AM,email,email_sendemail,պատասխանիր իմ մայրիկի էլեկտրոնային նամակին,email_sendemail,1.0,1.0,True
+16701,hy-AM,email,email_sendemail,ես կուզենայի պատասխանել սերինեի մեյլին,qa_factoid,0.9856,0.0001,False
+16703,hy-AM,email,email_sendemail,ես կուզենայի պատասխանել ամենավերջին նամակին,email_sendemail,0.5432,0.5432,True
+16712,hy-AM,email,email_query,ես որևէ նոր նամակ ունեմ,social_post,0.9212,0.0011,False
+16713,hy-AM,email,email_query,խնդրում եմ ստուգիր իմ մեյլերը և ծանուցիր արդյոք կան ինչ որ նոր մեյլ,lists_remove,0.5659,0.0131,False
+16717,hy-AM,email,email_sendemail,կարող ես մեյլ անել գագիկին ասելով որ ես բացակայում եմ,qa_factoid,0.76,0.0866,False
+16719,hy-AM,email,email_query,ասա ինչ որ նոր մեյլեր ստացել եմ,social_post,0.2614,0.0246,False
+16729,hy-AM,email,email_sendemail,պատասխանիր բենիկից ստացած իմ նամակին տեղեկացնելով նրանց որ ես կտեսնեմ իրենց վաղը,email_sendemail,1.0,1.0,True
+16730,hy-AM,email,email_query,խնդրում եմ ստուգիր նոր էլեկտրոնային նամակը արամից,email_sendemail,1.0,0.0,False
+16733,hy-AM,email,email_query,ցույց տուր ինձ վերջին մեյլերը ամազոնից,social_post,0.5279,0.0006,False
+16749,hy-AM,email,email_query,այսօր ինձ համար որևէ նոր մեյլեր կան,qa_factoid,0.965,0.0005,False
+16754,hy-AM,email,email_sendemail,թելադրիր մեյլ,social_post,0.7672,0.0138,False
+16758,hy-AM,email,email_query,նոր նամակներ վերջին ժամանակից սկսած,news_query,0.9926,0.0001,False
+16763,hy-AM,email,email_query,մեյլեր վերջին տաս րոպեում,weather_query,0.901,0.0004,False
+16765,hy-AM,email,email_query,երեկվա մեյլում ժամը քանիսին է հարցազրույցը,datetime_query,0.9861,0.0004,False
+16766,hy-AM,email,email_query,ստուգիր նոր մեյլ,iot_hue_lightoff,0.8692,0.0052,False
+16772,hy-AM,email,email_query,ցույց տուր բոլոր էլ․ նամակները,email_sendemail,0.9998,0.0001,False
+16780,hy-AM,email,email_sendemail,էլեկտրոնային նամակ ուղարկիր արթուրին gmail dot քոմով,email_sendemail,1.0,1.0,True
+16791,hy-AM,email,email_sendemail,նոր մեյլ գրիր բայց այս անգամ նոր հասցեով կարեն շնիկ մեյլ կետ ռու,social_post,0.3296,0.2612,False
+16799,hy-AM,email,email_query,կեսօրից որևէ մեյլ ստացել եմ,social_post,0.9652,0.0006,False
+16801,hy-AM,email,email_query,գայանեն ինձ որևիցե նամակ ուղարկել է աշոտի մասին,email_sendemail,0.9997,0.0001,False
+16813,hy-AM,email,email_query,ձայնարկի երբ էլ. նամակ եմ ստանում արամ,email_sendemail,1.0,0.0,False
+16814,hy-AM,email,email_query,ստուգիր մեյլեր,iot_hue_lightoff,0.9025,0.0038,False
+16838,hy-AM,email,email_sendemail,կարող ես մեյլ ուղարկել նոր իմեյլ id,qa_factoid,0.9936,0.0009,False
+16851,hy-AM,email,email_query,մեյլի ծանուցումները,social_post,0.757,0.0067,False
+16859,hy-AM,email,email_query,ինչ եմ ես ասել սյուզանին իմ վերջին էլեկտրոնային նամակում,email_sendemail,0.9996,0.0004,False
+16872,hy-AM,email,email_sendemail,գտիր աշոտին իմ կոնտակտներից և էլեկտրոնային նամակ ուղարկիր նրան,email_sendemail,1.0,1.0,True
+16873,hy-AM,email,email_sendemail,մեյլ գրիր աննային ծննդյան օրվա համար,email_sendemail,0.9984,0.9984,True
+16880,hy-AM,email,email_sendemail,նամակ ուղարկիր պետրոսին հանդիպման վերաբերյալ,email_sendemail,0.9985,0.9985,True
+16883,hy-AM,email,email_sendemail,ուղարկիր մեյլ նարեկին հարցրու երեկոյան որ ժամին նա կլինի տանը,datetime_query,0.6333,0.003,False
+16886,hy-AM,email,email_sendemail,պատասխանել այս նամակին,email_sendemail,0.9994,0.9994,True
+16888,hy-AM,email,email_query,ինչ կասեք նոր էլփոստի մասին,social_post,0.9922,0.0004,False
+16890,hy-AM,email,email_query,ինչ է գրված նոր էլնամակում,email_sendemail,0.843,0.1557,False
+16891,hy-AM,email,email_sendemail,ալեն կարապետյանին մեյլ ուղարկիր,social_post,0.9893,0.009,False
+16892,hy-AM,email,email_sendemail,սկսի և մեյլ ուղարկի լևոն հարությունյան,email_sendemail,0.9998,0.9998,True
+16899,hy-AM,email,email_query,ստացել եմ ինչ որ մեյլեր վազգեն սարգսյանից,social_post,0.9887,0.0005,False
+16914,hy-AM,email,email_query,ունեմ մեյլեր այս ուղարկողից,social_post,0.8175,0.0008,False
+16916,hy-AM,email,email_sendemail,հեյ պատասխանիր իմ ստացած նամակին,email_sendemail,0.8897,0.8897,True
+16924,hy-AM,email,email_query,խնդրում եմ ստուգիր իմ gmail-ը և տես արդյոք նոր մեյլ կա,email_sendemail,1.0,0.0,False
+16930,hy-AM,email,email_query,ցույց տալ ամենավերջին մեյլ,qa_factoid,0.9827,0.0001,False
+16938,hy-AM,email,email_sendemail,պատասխանիր արամի էլեկտրոնային նամակին,email_sendemail,0.9987,0.9987,True
+16944,hy-AM,email,email_sendemail,մեյլ ուղարկիր տատիկին ասելով որ մենք շաբաթ օրը կայցելենք նրան,email_sendemail,0.9998,0.9998,True
+16947,hy-AM,email,email_sendemail,պատասխանիր էլեկտրոնային նամակին,email_sendemail,0.9968,0.9968,True
+16955,hy-AM,email,email_sendemail,էլեկտրոնային նամակ ուղարկիր նոր կոնտակտին,email_sendemail,1.0,1.0,True
+16956,hy-AM,email,email_sendemail,էլեկտրոնային նամակ ուղարկիր նոր կոնտակտին,email_sendemail,1.0,1.0,True
+16961,hy-AM,email,email_sendemail,պատասխանի,qa_factoid,0.9999,0.0,False
+16974,hy-AM,email,email_query,խնդրում եմ ստուգել եկամտահարկի վարչության բոլոր նոր էլեկտրոնային նամակները,email_sendemail,0.9862,0.0003,False
+16987,hy-AM,email,email_query,որևէ նոր էլեկտրոնային նամակ կա գևորգից,email_sendemail,1.0,0.0,False
+16989,hy-AM,email,email_sendemail,խնդրում եմ պատասխանիր արմանի էլեկտրոնային նամակին ասելով որ ինձ գումար է պետք հիմա շտապ,email_sendemail,1.0,1.0,True
+16992,hy-AM,email,email_query,կարեն վարդանյանը ինձ հաղորդագրություն գրել է,social_post,0.9969,0.0,False
+16995,hy-AM,email,email_sendemail,նոր մեյլ ուղարկիր աննային,qa_factoid,0.9134,0.0004,False
+17005,hy-AM,email,email_query,խնդրում եմ ստուգի նոր մեյլ,iot_hue_lightoff,0.6926,0.0013,False
+17011,hy-AM,email,email_sendemail,կարող ես էլեկտրոնային նամակ ուղարկել,email_sendemail,1.0,1.0,True
+17015,hy-AM,email,email_sendemail,սկսիր պատասխանել,play_music,0.5453,0.0001,False
+17019,hy-AM,email,email_sendemail,վերջին մեյլ պատասխան գրիր,email_sendemail,1.0,1.0,True
+17020,hy-AM,email,email_sendemail,պատասխանիր վերջին ստացված նամակին,email_sendemail,0.9946,0.9946,True
+17023,hy-AM,email,email_sendemail,մեյլ գրիր մայրիկին և հարցրու ինչ եղանակ է այնտեղ,email_sendemail,0.9377,0.9377,True
+17042,hy-AM,email,email_sendemail,նամակ գրիր մոնթե շնիկ gmail կետ com համար,email_sendemail,1.0,1.0,True
+17043,hy-AM,email,email_sendemail,էլ․ նամակ ուղարկել tim at hotmail dot com հասցեին,email_sendemail,1.0,1.0,True
+17051,hy-AM,email,email_query,բեր ինձ նոր հաղորդագրություն,social_post,0.9361,0.0001,False
+17052,hy-AM,email,email_query,փնտրիր nandy,social_post,0.6745,0.0006,False
+17069,hy-AM,email,email_query,աութլուքում որևէ նոր մեյլեր կան,iot_hue_lightoff,0.5163,0.0031,False
+17075,hy-AM,email,email_query,կան ինչ որ մեյլեր որոնք ստացված են այսօր ժամը չորսից հետո,weather_query,0.311,0.0159,False
+17081,hy-AM,email,email_sendemail,վերջին պահպանված փաստաթղթերով մեյլ ստեղծել իմ ընկերության աշխատակից համար,qa_factoid,0.9484,0.0005,False
+17087,hy-AM,email,email_query,ստուգեք ինձ համար վարդուհուց ստացված նոր նամակները,lists_remove,0.6409,0.041,False
+17098,hy-AM,email,email_query,ցույց տուր ինչ որ մեյլեր ստացված վերջին ժամում,qa_factoid,0.8994,0.0025,False
+17107,hy-AM,email,email_query,ստուգիր նորմեյլեր,iot_hue_lightoff,0.3333,0.0164,False
+17108,hy-AM,email,email_query,ցույց տուր իմ վերջին էլեկտրոնային նամակը,email_sendemail,1.0,0.0,False
+17113,hy-AM,email,email_sendemail,մեյլ գրիր աննային,email_sendemail,0.8192,0.8192,True
+17115,hy-AM,email,email_query,կարդալ նոր մեյլերի ցանկը,play_podcasts,0.6566,0.0038,False
+17116,hy-AM,email,email_query,ցուցադրիր վերջին նամակների ցանկը,lists_remove,0.7722,0.01,False
+17119,hy-AM,email,email_query,ստուգիր սամվելից եկած ցանկացած նամակ,email_query,0.5493,0.5493,True
+17123,hy-AM,email,email_sendemail,մեյլ ուղարկիր տարածքային փոխնախագահին,social_post,0.9917,0.0002,False
+17135,hy-AM,email,email_query,որևէ նամակ էլեկտրականությանը վերաբերող լուրերին,email_sendemail,0.9505,0.0021,False
+17136,hy-AM,email,email_query,խնդրում եմ կարդա իմ նոր նամակները,email_sendemail,1.0,0.0,False
+17138,hy-AM,email,email_query,խնդրում եմ արխիվացրու իմ կարդացած հաղորդագրությունները,recommendation_events,0.576,0.0006,False
+17142,hy-AM,email,email_query,ինչ կա իմ մուտքի փոստարկղում որ մենք վերջին անգամ նայել ենք,qa_factoid,0.3836,0.1085,False
+17143,hy-AM,email,email_sendemail,հեյ մեյլ ուղարկիր ջոնին,social_post,0.9997,0.0,False
+17144,hy-AM,email,email_query,հեյ ստուգիր մեյլը,email_sendemail,0.4144,0.0177,False
+17147,hy-AM,email,email_sendemail,պատասխանիր նամակին հետևյալ բովանդակությամբ բարև ձեզ,email_sendemail,0.9899,0.9899,True
+17148,hy-AM,email,email_sendemail,alexa պատասխանիր նամակին հետևյալ բովանդակությամբ բարև ձեզ,email_sendemail,0.9773,0.9773,True
+17151,hy-AM,email,email_sendemail,իմ ընկեր էդգարը ինձ հրավիրատոմս է ուղարկել իր նոր գնված տուն շնորհակալություն հայտնիր նրան փոստով,email_sendemail,1.0,1.0,True
+17156,hy-AM,email,email_query,ստուգիր իմ մեյլը արդյոք ինչ որ նոր մեյլ չկա մանեից,email_sendemail,0.9999,0.0,False
+17157,hy-AM,email,email_query,որևէ նոր մեյլ ունեմ արմենից,social_post,0.2821,0.0202,False
+17170,hy-AM,email,email_query,ինձ տեղեկացրեք երբ արմենը ինձ էլեկտրանային նամակ ուղարկի,email_sendemail,1.0,0.0,False
+17179,hy-AM,email,email_query,աշոտը ինձ էլեկտրոնային նամակ ուղարկել է,social_post,0.5258,0.0,False

@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,sq-AL,iot,iot_hue_lightoff,brisilda fik dritat ne dhomën e gjumit,iot_hue_lightoff,0.6462,0.6462,True
+47,sq-AL,datetime,datetime_query,sa është ora në australi,weather_query,0.9928,0.0002,False
+85,sq-AL,datetime,datetime_query,më thuaj datën e sotshme,qa_factoid,0.9995,0.0001,False
+86,sq-AL,datetime,datetime_query,sa është data sot,lists_query,0.3169,0.0287,False
+100,sq-AL,weather,weather_query,si është parashikimi i motit i javës,qa_factoid,0.5626,0.0097,False
+102,sq-AL,weather,weather_query,si është moti këtë javë,weather_query,0.9318,0.9318,True
+103,sq-AL,weather,weather_query,më trego motin për këtë javë,social_post,0.7006,0.0003,False
+128,sq-AL,datetime,datetime_query,sa është data,lists_query,0.6222,0.0241,False
+151,sq-AL,play,play_music,luaje përsëri të lutem,social_post,0.9529,0.0029,False
+177,sq-AL,news,news_query,më trego disa lajme nga biznesi,cooking_recipe,0.8829,0.0013,False
+178,sq-AL,news,news_query,më trego lajmet botërore,qa_factoid,0.9997,0.0,False
+182,sq-AL,play,play_music,luaj listën e këngëve të mia rock,lists_remove,0.6696,0.2281,False
+185,sq-AL,play,play_music,ndiz playlistën time dhe luaj këngën e tretë në radhë,play_music,1.0,1.0,True
+197,sq-AL,datetime,datetime_query,sa është ora,weather_query,0.9014,0.0405,False
+216,sq-AL,weather,weather_query,si është moti sot,weather_query,0.5983,0.5983,True
+219,sq-AL,weather,weather_query,a duhet të sjell çadër nesër,cooking_recipe,0.9851,0.0,False
+220,sq-AL,play,play_music,luaj muzikë nga lista ime rrok,play_music,0.9992,0.9992,True
+250,sq-AL,play,play_music,kam dëshirë për pak jazz tani po ti,cooking_recipe,0.4823,0.2187,False
+254,sq-AL,play,play_music,brisilda luaj një këngë të mirë nga instrumentisti im i xhazit i preferuar,play_music,0.9997,0.9997,True
+279,sq-AL,weather,weather_query,si është parashikimi i motit për sot në tiranë,news_query,0.3656,0.3105,False
+281,sq-AL,news,news_query,si është kursi i këmbimit të dollarit dhe lekut,qa_factoid,0.405,0.0229,False
+296,sq-AL,play,play_music,luaj një listë me këngë nga ritfolk,play_music,0.9136,0.9136,True
+297,sq-AL,play,play_music,shkartis këngët nga elita pesë,iot_hue_lightoff,0.524,0.005,False
+299,sq-AL,weather,weather_query,si është moti,iot_hue_lightoff,0.7679,0.0026,False
+310,sq-AL,datetime,datetime_query,çfarë dite i bie nata e vitit të ri këtë vit,weather_query,0.9942,0.001,False
+319,sq-AL,weather,weather_query,më trego për motin në tiranë për dy ditë nga sot,news_query,0.975,0.0014,False
+329,sq-AL,play,play_music,ike,qa_factoid,0.9951,0.0,False
+333,sq-AL,weather,weather_query,si janë kushtet e motit në tiranë,weather_query,0.872,0.872,True
+334,sq-AL,weather,weather_query,doja të dija si është moti në durrës,weather_query,0.9637,0.9637,True
+344,sq-AL,weather,weather_query,a do të jetë koha me shi nesër,weather_query,0.9984,0.9984,True
+348,sq-AL,weather,weather_query,a do të bjerë shi nesër,weather_query,0.9987,0.9987,True
+355,sq-AL,datetime,datetime_query,çfarë dite e javës është një prilli,weather_query,0.8847,0.1118,False
+360,sq-AL,datetime,datetime_query,sa është ora aktuale,weather_query,0.4949,0.0297,False
+362,sq-AL,play,play_music,luaj këngën e dytë të fifit,play_music,0.8365,0.8365,True
+366,sq-AL,news,news_query,të lutem më trego lajmet e fundit,social_post,0.9871,0.0002,False
+369,sq-AL,iot,iot_hue_lightoff,fik dritat,qa_factoid,0.5542,0.0557,False
+385,sq-AL,news,news_query,çfarë është sensacionale në gazeta shqip,social_post,0.8824,0.0085,False
+391,sq-AL,play,play_music,luaj një këngë çfarëdo nga lista ime me këngë,lists_remove,0.6841,0.0162,False
+393,sq-AL,play,play_music,luaj një këngë të vjetër në listën e këngëve të mia,lists_remove,0.7686,0.0468,False
+397,sq-AL,play,play_music,luaj çfarëdo kënge nga redon makashi,cooking_recipe,0.7195,0.1492,False
+400,sq-AL,play,play_music,fillo luaj,social_post,0.6107,0.0165,False
+407,sq-AL,play,play_music,a mund të luash muzikë rrok përgjatë orës tjetër,play_music,0.9956,0.9956,True
+424,sq-AL,news,news_query,cilat janë lajmet më të fundit,social_post,0.947,0.0001,False
+427,sq-AL,iot,iot_hue_lightoff,fik dritat në banjë,iot_hue_lightoff,0.8042,0.8042,True
+428,sq-AL,iot,iot_hue_lightoff,fik dritat e banjës,iot_hue_lightoff,0.9623,0.9623,True
+430,sq-AL,weather,weather_query,si është moti tani,social_post,0.9476,0.0057,False
+437,sq-AL,play,play_music,hap dosjen djemtë e detit,qa_factoid,0.3915,0.0047,False
+441,sq-AL,news,news_query,cilët janë kryetitujt e lajmeve më të reja,lists_query,0.6849,0.0017,False
+442,sq-AL,news,news_query,çfarë është duke ndodhur në lajme,news_query,0.1544,0.1544,True
+451,sq-AL,news,news_query,më jep më të rejat për rezultatet e ndeshjeve,qa_factoid,0.8962,0.0011,False
+473,sq-AL,play,play_music,luaj janinës çi panë sytë,social_post,0.8652,0.0037,False
+486,sq-AL,datetime,datetime_query,sa është ora në nju jork,weather_query,0.8987,0.0003,False
+491,sq-AL,weather,weather_query,a është ftohtë jashtë,weather_query,0.9974,0.9974,True
+506,sq-AL,play,play_music,hap këngët nga elita pesë,social_post,0.6014,0.0728,False
+512,sq-AL,weather,weather_query,ardit gjebrea,email_sendemail,0.8523,0.0009,False
+540,sq-AL,play,play_music,luaj këngën e kënduar nga dafina zeqiri,social_post,0.9623,0.0103,False
+555,sq-AL,play,play_music,luaj al kapone nga elita pesë,social_post,0.984,0.0002,False
+576,sq-AL,play,play_music,luaj të gjitha nga lista e këngëve,lists_remove,0.4117,0.2778,False
+585,sq-AL,news,news_query,trego lajmet më të fundit,social_post,0.9875,0.0001,False
+588,sq-AL,news,news_query,çfarë ka të re nga lajmet sot,news_query,0.4759,0.4759,True
+590,sq-AL,weather,weather_query,si është moti për momentin,weather_query,0.8559,0.8559,True
+614,sq-AL,play,play_music,fillo listën me këngë,lists_remove,1.0,0.0,False
+625,sq-AL,play,play_music,të lutem luaj këngën radio top gold,play_radio,0.9999,0.0001,False
+631,sq-AL,news,news_query,vendos njoftimin rreth lajmeve për gazsjellësin tap,email_sendemail,1.0,0.0,False
+651,sq-AL,iot,iot_hue_lightoff,fik dritat e dhomës,iot_hue_lightoff,0.9271,0.9271,True
+660,sq-AL,datetime,datetime_query,ora aktuale në japoni,qa_factoid,0.999,0.0,False
+680,sq-AL,news,news_query,më mbaj të informuar rreth çmimit të bitkoin,qa_factoid,0.9985,0.0001,False
+686,sq-AL,datetime,datetime_query,sa është ora tani në nju jork,weather_query,0.9762,0.0003,False
+712,sq-AL,news,news_query,dua të dëgjoj lajmin e fundit nga klan,news_query,0.7105,0.7105,True
+726,sq-AL,weather,weather_query,përmblidh motin e javës me detaje,iot_hue_lightoff,0.3226,0.0075,False
+730,sq-AL,iot,iot_hue_lightoff,fik dritat,qa_factoid,0.5542,0.0557,False
+738,sq-AL,weather,weather_query,sa ftohtë është sot jashtë,weather_query,0.9992,0.9992,True
+764,sq-AL,weather,weather_query,si është parashikimi i motit për këtë javë,weather_query,0.4107,0.4107,True
+765,sq-AL,news,news_query,të lutem a mund të më japësh tituj të përditësuar lajmesh nga ofruesi im më i ri,recommendation_events,0.9055,0.0013,False
+767,sq-AL,news,news_query,do të mundje të lutem të më gjesh lajmet më të reja nga një burim që nuk e kërkoj zakonisht,recommendation_events,0.6555,0.1608,False
+768,sq-AL,news,news_query,më trego për lajmet më të fundit politike,news_query,0.9599,0.9599,True
+779,sq-AL,play,play_music,dua të dëgjoj zemërthyeri nga djemtë e detit,social_post,0.9549,0.024,False
+781,sq-AL,play,play_music,luaj zemërthyeri,social_post,0.9995,0.0,False
+782,sq-AL,play,play_music,luaj let me love you nga ariana grande,social_post,0.9954,0.0009,False
+783,sq-AL,play,play_music,luaj këngë dashurie,social_post,0.7852,0.003,False
+790,sq-AL,weather,weather_query,mot i butë apo i ashpër,social_post,0.9465,0.0017,False
+826,sq-AL,weather,weather_query,si është temperatura tani jashtë,weather_query,0.9963,0.9963,True
+827,sq-AL,play,play_music,luaj listën me këngë të altin gocit,lists_query,0.7003,0.0083,False
+832,sq-AL,weather,weather_query,hej si do të jetë parashikimi i motit për nesër,weather_query,0.7366,0.7366,True
+837,sq-AL,news,news_query,cilat janë parashikimet e anketës së klan për zgjedhjet e ardhshme amerikane,qa_factoid,0.7402,0.0038,False
+891,sq-AL,play,play_music,luaj pak muzikë kishtare,play_music,0.9997,0.9997,True
+914,sq-AL,iot,iot_hue_lightoff,të lutem fik dritat,iot_hue_lightoff,0.9818,0.9818,True
+936,sq-AL,play,play_music,hap dhe luaj muzikë nga këngët e shekullit,play_music,1.0,1.0,True
+951,sq-AL,weather,weather_query,si është moti tani në tiranë,weather_query,0.9923,0.9923,True
+969,sq-AL,news,news_query,artikuj të lajmeve nga një temë e veçantë,news_query,0.9685,0.9685,True
+974,sq-AL,datetime,datetime_query,sa është ora në nju jork tani,weather_query,0.9612,0.0004,False
+997,sq-AL,iot,iot_hue_lightoff,fik dritën e dhomës së ndenjes,iot_hue_lightoff,0.8827,0.8827,True
+999,sq-AL,iot,iot_hue_lightoff,a mund ta fikësh dritën,iot_hue_lightoff,0.8233,0.8233,True
+1007,sq-AL,play,play_music,luaj ritfolk nga lista ime me këngë rrok,play_music,0.9997,0.9997,True
+1014,sq-AL,datetime,datetime_query,sa është ora në londër tani,weather_query,0.9974,0.0001,False
+1047,sq-AL,play,play_music,kam nevojë për një të qarë të mirë a mund të luash për mua këngë rrok të trishta,play_music,0.9805,0.9805,True
+1061,sq-AL,news,news_query,më jep përditësim për lajmet sportive,qa_factoid,0.9997,0.0,False
+1063,sq-AL,news,news_query,merr njoftime çdo orë për lajmet sportive,iot_hue_lightoff,0.4948,0.0022,False
+1084,sq-AL,news,news_query,miqësore pë përdoruesit,qa_factoid,0.9623,0.0006,False
+1093,sq-AL,news,news_query,shko në faqe ueb të gazeta shqip,social_post,0.9356,0.0001,False
+1098,sq-AL,datetime,datetime_query,në cilën ditë të javës i bie data pesëmbëdhjetë mars,weather_query,0.5781,0.1197,False
+1108,sq-AL,play,play_music,dëshira ime është të dëgjoj pak muzikë country,email_sendemail,1.0,0.0,False
+1115,sq-AL,play,play_music,koordino të gjitha këngët e zhanrit pop,play_music,0.9233,0.9233,True
+1120,sq-AL,news,news_query,a ka ndonjë gjë speciale në politikë,email_query,0.64,0.0034,False
+1121,sq-AL,play,play_music,luaj jon nga ardit gjebrea,social_post,0.9978,0.0001,False
+1123,sq-AL,play,play_music,në vijim luaj vetëm ty nga alban skënderaj,social_post,0.8679,0.0068,False
+1124,sq-AL,play,play_music,bëj gati për të luajtur të radhës hape veten nga aurela gaçe,cooking_recipe,0.9935,0.0019,False
+1127,sq-AL,play,play_music,luaj të gjitha këngët të përziera,lists_remove,0.2918,0.1799,False
+1144,sq-AL,play,play_music,kam nevojë për pak rap,play_music,0.9337,0.9337,True
+1148,sq-AL,datetime,datetime_query,sa është ora në tiranë tani,weather_query,0.9966,0.0001,False
+1156,sq-AL,news,news_query,lajmet e fundit nga dita ndërkombëtare e grave,iot_hue_lightoff,0.3223,0.0177,False
+1160,sq-AL,weather,weather_query,sa ftohtë do të bëjë për çdo natë këtë javë,weather_query,0.9955,0.9955,True
+1180,sq-AL,news,news_query,gjej artikujt e sotëm kryesor nga koha jonë mbi edi ramën,lists_remove,0.2298,0.0178,False
+1202,sq-AL,datetime,datetime_query,ora tani në nju jork,social_post,0.8989,0.0022,False
+1238,sq-AL,play,play_music,pandora,qa_factoid,0.1403,0.0391,False
+1249,sq-AL,weather,weather_query,si do të jetë moti me gjasa këtë javë,weather_query,0.9572,0.9572,True
+1252,sq-AL,datetime,datetime_query,më thuaj orën aktuale,datetime_query,0.6308,0.6308,True
+1294,sq-AL,news,news_query,më trego lajmet për çmimet oskar,social_post,0.3817,0.0556,False
+1301,sq-AL,news,news_query,më trego për politikat e jashtme të reja të trump,recommendation_events,0.1854,0.0383,False
+1308,sq-AL,weather,weather_query,më trego parashikimin e motit për sot këtu,social_post,0.8145,0.0024,False
+1318,sq-AL,play,play_music,hap aplikacionin e muzikës dhe luaj një këngë për mua,play_music,1.0,1.0,True
+1351,sq-AL,weather,weather_query,a do të jetë këndshëm jashtë këtë javë,weather_query,0.8557,0.8557,True
+1371,sq-AL,news,news_query,çfarë kemi në faqen e parë të kohës ditore,social_post,0.2531,0.0675,False
+1377,sq-AL,iot,iot_hue_lightoff,të lutem fik dritën e dhomës së djalit tim,weather_query,0.991,0.0067,False
+1400,sq-AL,weather,weather_query,më së shumti i kushtoj vëmendje,iot_hue_lightoff,0.682,0.0022,False
+1401,sq-AL,weather,weather_query,ndojëherë i kushtoj vëmendje,recommendation_events,0.5565,0.0007,False
+1404,sq-AL,weather,weather_query,a mund të më tregosh motin për nesër për këtu në pogradec,qa_factoid,0.3818,0.0292,False
+1423,sq-AL,news,news_query,më trego për trump,qa_factoid,0.9994,0.0,False
+1425,sq-AL,news,news_query,më trego kur dëgjon për francën,qa_factoid,0.9244,0.0019,False
+1440,sq-AL,play,play_music,luaj këngët e fundit rock që kanë vlerësim mbi katër yje,lists_remove,0.1832,0.0504,False
+1449,sq-AL,datetime,datetime_query,kur janë pashkët në vitin dy mijë e tetëmbëdhjetë,qa_factoid,0.8227,0.0104,False
+1458,sq-AL,weather,weather_query,sa nxehtë bën në durrës,weather_query,0.8948,0.8948,True
+1467,sq-AL,play,play_music,luaj majkun,social_post,0.9998,0.0,False
+1474,sq-AL,news,news_query,cilat janë lajmet e sotshme sportive,qa_factoid,0.9997,0.0,False
+1489,sq-AL,play,play_music,luaj këngët më të fundit të dalida,cooking_recipe,0.6726,0.0172,False
+1513,sq-AL,weather,weather_query,sa është temperatura jashtë,weather_query,0.9961,0.9961,True
+1533,sq-AL,news,news_query,çfarë lajmesh pati në klan sot,social_post,0.9936,0.0003,False
+1537,sq-AL,datetime,datetime_query,më trego orën e tanishme në gjermani,weather_query,0.9486,0.0007,False
+1542,sq-AL,weather,weather_query,dielli po vezullon a do të kemi të njëjtën kohë edhe për pjesën tjetër të ditës,weather_query,0.9861,0.9861,True
+1546,sq-AL,play,play_music,luaj listën e këngëve të verës timen,lists_remove,0.9984,0.0015,False
+1547,sq-AL,weather,weather_query,si është moti në vendodhjen time këtë javë,weather_query,0.9924,0.9924,True
+1549,sq-AL,weather,weather_query,a do të bjerë shi këtë javë,weather_query,0.5297,0.5297,True
+1554,sq-AL,iot,iot_hue_lightoff,fik llampat,qa_factoid,0.9979,0.0016,False
+1581,sq-AL,datetime,datetime_query,cila është dita muaji dhe viti aktual,datetime_query,0.9828,0.9828,True
+1589,sq-AL,weather,weather_query,a do të jetë me diell të martën tjetër,weather_query,0.999,0.999,True
+1593,sq-AL,news,news_query,vendos njoftim për lajmet botërore,qa_factoid,0.9862,0.0001,False
+1594,sq-AL,news,news_query,a mund të më tregosh lajmet e fundit,social_post,0.8632,0.0101,False
+1607,sq-AL,datetime,datetime_query,më tregoni orën aktuale në tiranë,weather_query,0.9977,0.0001,False
+1617,sq-AL,news,news_query,më njofto sapo të dalë temë e re në politikë,social_post,0.9952,0.0002,False
+1636,sq-AL,news,news_query,më trego lajmet më të reja nga gazeta shqip,news_query,0.9452,0.9452,True
+1653,sq-AL,weather,weather_query,kur do të bie shi sërish,qa_factoid,0.9983,0.0007,False
+1655,sq-AL,weather,weather_query,a do të bjerë borë nesër pasdite,weather_query,0.9813,0.9813,True
+1666,sq-AL,news,news_query,ka lajme pa trazira gjashtë orët e fundit,weather_query,0.5714,0.0218,False
+1671,sq-AL,play,play_music,luaj vetëm muzikë të publikuar nga një mijë e nëntëqind e nëntëdhjetë tek dy mijë,play_music,0.8389,0.8389,True
+1683,sq-AL,weather,weather_query,a do të jetë nxehtë temperatura nesër apo jo,weather_query,0.9961,0.9961,True
+1684,sq-AL,weather,weather_query,a është e nxehtë temperatura e nesërme apo jo,weather_query,0.998,0.998,True
+1692,sq-AL,play,play_music,gjej pak jazz të lehtë për mua,play_music,0.9987,0.9987,True
+1722,sq-AL,weather,weather_query,cila është temperatura më e ulët në tiranë,weather_query,0.9996,0.9996,True
+1750,sq-AL,iot,iot_hue_lightoff,fiki të gjitha dritat,weather_query,0.7176,0.1353,False
+1759,sq-AL,news,news_query,më jep lajme mbi presidentin trump,qa_factoid,0.995,0.0001,False
+1760,sq-AL,news,news_query,lajmet më të fundit për terrorizmin,qa_factoid,0.9973,0.0,False
+1777,sq-AL,play,play_music,kënga tjetër,qa_factoid,0.7385,0.0476,False
+1784,sq-AL,iot,iot_hue_lightoff,fik dhomën e ngrënies,qa_factoid,0.9681,0.0011,False
+1786,sq-AL,iot,iot_hue_lightoff,fik dhomën e gjumit kryesore,qa_factoid,0.9997,0.0,False
+1794,sq-AL,news,news_query,do ta vizitojë trump rusinë tash më shpejt,qa_factoid,0.9147,0.0009,False
+1796,sq-AL,datetime,datetime_query,data sot,qa_factoid,0.9949,0.0001,False
+1803,sq-AL,news,news_query,cilat ekipe janë duke luajtur sot në superligë,social_post,0.9783,0.0004,False
+1811,sq-AL,play,play_music,fillo listën e këngëve dhe luaj muzikë,play_music,1.0,1.0,True
+1832,sq-AL,play,play_music,luaj albumin e coldplay,recommendation_events,0.3907,0.3223,False
+1833,sq-AL,play,play_music,a mund të luash të përsëritura në loop listën e këngëve këngët e shekullit,play_music,0.6086,0.6086,True
+1866,sq-AL,weather,weather_query,raporti i motit tani,social_post,0.9903,0.0,False
+1870,sq-AL,datetime,datetime_query,çfarë muaji është sot,weather_query,0.4502,0.0091,False
+1904,sq-AL,news,news_query,më jep regjistrimet e ndeshjes,email_sendemail,0.8167,0.0023,False
+1933,sq-AL,weather,weather_query,a do të ketë një rënie temperaturash sonte,weather_query,0.994,0.994,True
+1940,sq-AL,play,play_music,luaj titullin e këngës,play_music,0.9974,0.9974,True
+1962,sq-AL,play,play_music,hej google luaj listën e këngëve festë për mua në aplikacionin gaana,play_music,0.9992,0.9992,True
+1994,sq-AL,play,play_music,a mund të hapësh itunes tim,email_sendemail,0.4763,0.0048,False
+1995,sq-AL,play,play_music,luaj ritfolk,play_music,0.982,0.982,True
+2007,sq-AL,play,play_music,të lutem luaj jon,social_post,0.8799,0.0302,False
+2062,sq-AL,play,play_music,dua të luaj pak muzikë jazz,play_music,1.0,1.0,True
+2085,sq-AL,play,play_music,alexa dua të dëgjoj çdo pjesë klasike përveç bach apo schubert,play_podcasts,0.7471,0.0777,False
+2098,sq-AL,news,news_query,çfarë po ndodh në botë këto ditë,news_query,0.5435,0.5435,True
+2108,sq-AL,play,play_music,të radhës luaj makina e memories,cooking_recipe,0.2675,0.1331,False
+2113,sq-AL,recommendation,recommendation_events,më trego eventet aktuale në qytetin e lindjes,qa_factoid,0.7618,0.0328,False
+2146,sq-AL,datetime,datetime_query,në çfarë date është solstici i dimrit dy vite prej sot,weather_query,0.6846,0.1879,False
+2156,sq-AL,datetime,datetime_query,më duhet të di sa është ora tani,weather_query,0.996,0.0003,False
+2160,sq-AL,iot,iot_hue_lightoff,do fle tani,cooking_recipe,0.4733,0.2267,False
+2178,sq-AL,weather,weather_query,si është gjëndja aktuale e motit në vendin tim,weather_query,0.5429,0.5429,True
+2198,sq-AL,datetime,datetime_query,çfarë dite e javës ishte dy mars,weather_query,0.9807,0.0092,False
+2201,sq-AL,news,news_query,titujt e klan,qa_factoid,0.9999,0.0,False
+2203,sq-AL,news,news_query,titujt e gazeta shqip,qa_factoid,1.0,0.0,False
+2220,sq-AL,weather,weather_query,moti në durrës,social_post,0.9652,0.001,False
+2225,sq-AL,play,play_music,luaj aurela gaçe hape veten,social_post,0.7979,0.0,False
+2230,sq-AL,iot,iot_hue_lightoff,fik dritën e kuzhinës,iot_hue_lightoff,0.9946,0.9946,True
+2237,sq-AL,news,news_query,më lexo lajmet më të reja ndërkombëtare,social_post,0.9926,0.0001,False
+2258,sq-AL,weather,weather_query,a më duhet të marr një pulovër sot,social_post,0.8702,0.0004,False
+2265,sq-AL,weather,weather_query,më trego motin në durrës tani,social_post,0.9916,0.0002,False
+2271,sq-AL,play,play_music,të lutem luaj këngë që i kam blerë dhe i kam vendosur tek të preferuarat,cooking_recipe,0.8094,0.1477,False
+2296,sq-AL,news,news_query,më mbaj të përditësuar në lidhje me rezultatet e ndeshjeve të sotshme,qa_factoid,0.2788,0.0352,False
+2298,sq-AL,iot,iot_hue_lightoff,fik dritat tani,qa_factoid,0.9955,0.0017,False
+2315,sq-AL,news,news_query,cilat janë lajmet për sot,news_query,0.74,0.74,True
+2316,sq-AL,news,news_query,aleksa më jep lajmet tituj,qa_factoid,1.0,0.0,False
+2320,sq-AL,weather,weather_query,si do të jetë moti të premten,weather_query,0.9969,0.9969,True
+2322,sq-AL,weather,weather_query,si është moti nesër,weather_query,0.8882,0.8882,True
+2330,sq-AL,datetime,datetime_query,shfaq orën lokale në londër në këtë moment,weather_query,0.8854,0.0012,False
+2384,sq-AL,news,news_query,çfarë është duke ndodhur nga bota,social_post,0.9135,0.0295,False
+2386,sq-AL,news,news_query,më jep lajmet më të reja,social_post,0.5418,0.0002,False
+2396,sq-AL,play,play_music,fillo këngët e eneda tarifës,qa_factoid,0.5197,0.0045,False
+2408,sq-AL,play,play_music,kërko më shumë këngë nga banda,play_music,0.9973,0.9973,True
+2412,sq-AL,datetime,datetime_query,mund të më thoni orën në tiranë,weather_query,0.5183,0.0027,False
+2423,sq-AL,weather,weather_query,të lutem më trego parashikimin e motit për tiranën sot,qa_definition,0.6576,0.0037,False
+2438,sq-AL,news,news_query,dërgo lajmet nga teknologjia,social_post,0.9849,0.0001,False
+2441,sq-AL,iot,iot_hue_lightoff,fik dritën e ndritshme,iot_hue_lightoff,0.8762,0.8762,True
+2472,sq-AL,datetime,datetime_query,është ora aktualisht e saktë për vendndodhjen time,weather_query,0.9487,0.0358,False
+2496,sq-AL,news,news_query,lajmet ditore,qa_factoid,1.0,0.0,False
+2497,sq-AL,datetime,datetime_query,çfarë date është sot,datetime_query,0.8201,0.8201,True
+2498,sq-AL,datetime,datetime_query,siri çfarë date është sot,weather_query,0.789,0.0505,False
+2527,sq-AL,play,play_music,luaj rrok klasik,play_music,0.8593,0.8593,True
+2531,sq-AL,play,play_music,alexa luaj një këng rap dhe rock njëra pas tjetrës,play_music,1.0,1.0,True
+2545,sq-AL,weather,weather_query,si është moti,iot_hue_lightoff,0.7679,0.0026,False
+2548,sq-AL,news,news_query,ndonjë gjë interesante në klan,social_post,0.9125,0.0009,False
+2560,sq-AL,play,play_music,luaj muzikë çfarëdo,play_music,0.9988,0.9988,True
+2573,sq-AL,play,play_music,luaj listën time me këngë dance nga spotify,play_music,0.8426,0.8426,True
+2578,sq-AL,iot,iot_hue_lightoff,fik dritën e verandës,iot_hue_lightoff,0.9721,0.9721,True
+2588,sq-AL,news,news_query,cilat janë lajmet më të reja nga klan të lutem,lists_query,0.8136,0.0001,False
+2594,sq-AL,news,news_query,më trego për lajmet mjedisore më të fundit,lists_query,0.5237,0.1772,False
+2605,sq-AL,play,play_music,luaj muzikën time të preferuar tani,play_music,0.9997,0.9997,True
+2611,sq-AL,weather,weather_query,parashikimi i motit aktual,social_post,0.8924,0.0044,False
+2615,sq-AL,weather,weather_query,a do të më duhet të vesh një xhaketë të mërkurën tjetër,iot_hue_lightoff,0.751,0.0034,False
+2638,sq-AL,news,news_query,më trego lajmet për trump,social_post,0.8325,0.0448,False
+2639,sq-AL,news,news_query,më trego lajmet për mjedisin,qa_definition,0.6601,0.0074,False
+2651,sq-AL,news,news_query,lajmet më të reja nga kjo zonë,qa_factoid,0.593,0.0004,False
+2678,sq-AL,weather,weather_query,a do të bjerë shi sonte,weather_query,0.8047,0.8047,True
+2679,sq-AL,weather,weather_query,a do të qëndrojë njëlloj temperatura apo do të bëhet më ftohtë,weather_query,0.9957,0.9957,True
+2703,sq-AL,play,play_music,të lutem luaj muzikë popullore,play_music,0.9998,0.9998,True
+2704,sq-AL,play,play_music,le të dëgjojmë pak rrok indie okej,play_music,1.0,1.0,True
+2708,sq-AL,play,play_music,olly më vjen të kërcej vendos pak rrok,social_post,0.6203,0.0198,False
+2709,sq-AL,play,play_music,olly dua të dëgjoj ca këngë të trishta sot,play_music,0.9921,0.9921,True
+2711,sq-AL,iot,iot_hue_lightoff,fik dritat,qa_factoid,0.5542,0.0557,False
+2717,sq-AL,play,play_music,dua të dëgjoj mundohem të harroj,play_music,0.2276,0.2276,True
+2724,sq-AL,news,news_query,me jep lajme nga klani,qa_factoid,0.9625,0.0002,False
+2770,sq-AL,play,play_music,brisilda më luaj muzikë nga zhanri xhaz,play_music,0.9999,0.9999,True
+2774,sq-AL,iot,iot_hue_lightoff,shuaj dritat,qa_factoid,0.7763,0.0609,False
+2775,sq-AL,iot,iot_hue_lightoff,ndalo përdorimin e dritave,qa_factoid,0.9402,0.0188,False
+2777,sq-AL,weather,weather_query,a do duhet të marr unë një çadër sot,cooking_recipe,0.996,0.0001,False
+2781,sq-AL,play,play_music,të lutem luaj pak muzikë jazz,play_music,0.9999,0.9999,True
+2798,sq-AL,play,play_music,alexa luaj këngën makina e memories,cooking_recipe,0.7994,0.014,False
+2801,sq-AL,datetime,datetime_query,sa është ora në londër,weather_query,0.9908,0.0001,False
+2824,sq-AL,datetime,datetime_query,cila ditë është trembëdhjetë dhjetori,weather_query,0.9993,0.0005,False
+2840,sq-AL,datetime,datetime_query,kur bie dita e hedhjes së kryqit,weather_query,0.8877,0.0489,False
+2859,sq-AL,datetime,datetime_query,olly sa është ora në këtë qytet,weather_query,0.998,0.0001,False
+2887,sq-AL,news,news_query,të lutem më trego ndonjë artikull për motin në lajmet e mëngjesit,news_query,0.8288,0.8288,True
+2890,sq-AL,weather,weather_query,moti aktual,iot_hue_lightoff,0.9219,0.0002,False
+2898,sq-AL,news,news_query,ka ndonjë risi në lidhje me zgjedhjet,qa_factoid,0.309,0.0103,False
+2914,sq-AL,datetime,datetime_query,më thuaj sa është data sot,news_query,0.6888,0.0173,False
+2917,sq-AL,weather,weather_query,raporti javor i motit,social_post,1.0,0.0,False
+2921,sq-AL,news,news_query,cilat janë historitë e lajmeve në faqen e klanit,recommendation_events,0.6852,0.0565,False
+2927,sq-AL,datetime,datetime_query,sa është ora në shkodër,weather_query,0.9795,0.0001,False
+2931,sq-AL,play,play_music,luaj jon të radhës,social_post,0.9069,0.001,False
+2962,sq-AL,play,play_music,të lutem luaj një këngë nga stine,play_music,1.0,1.0,True
+2965,sq-AL,iot,iot_hue_lightoff,fik dritat e zyrës,iot_hue_lightoff,0.9632,0.9632,True
+3002,sq-AL,play,play_music,luaj këngë nga grupi djemtë e detit,iot_hue_lightoff,0.4699,0.0085,False
+3031,sq-AL,play,play_music,dua ta luaj këngën sërish,social_post,0.9994,0.0,False
+3034,sq-AL,weather,weather_query,më trego temperaturën,qa_factoid,0.8698,0.1159,False
+3037,sq-AL,news,news_query,artikujt e lajmeve të faqes së parë të lutem,social_post,0.9001,0.0035,False
+3039,sq-AL,news,news_query,çfarë ka të re në lajme,lists_query,0.1971,0.0678,False
+3060,sq-AL,news,news_query,cili lajm është nga ai burim i lajmit,qa_factoid,0.4437,0.0072,False
+3091,sq-AL,datetime,datetime_query,sa është ora në kohën standarde të paqësorit,weather_query,0.8731,0.0009,False
+3096,sq-AL,weather,weather_query,si është moti në durrës,weather_query,0.9674,0.9674,True
+3098,sq-AL,iot,iot_hue_lightoff,bëji dritat të fiken,iot_hue_lightoff,0.8868,0.8868,True
+3099,sq-AL,news,news_query,më trego disa ngjarje aktuale,qa_factoid,0.9409,0.0009,False
+3101,sq-AL,news,news_query,olli vendos lajmet,email_query,0.482,0.0015,False
+3116,sq-AL,play,play_music,luaj këngën time të preferuar nga viti i kaluar,recommendation_events,0.9915,0.0002,False
+3117,sq-AL,play,play_music,luaj diçka nga albumi i ritfolk drejt fatit tim,play_music,0.9986,0.9986,True
+3118,sq-AL,datetime,datetime_query,sa është ora standarde lindore tani,weather_query,0.2436,0.0257,False
+3124,sq-AL,play,play_music,luaj për mua një këngë të rastësishme nga lista ime me këngë,play_music,0.8465,0.8465,True
+3146,sq-AL,play,play_music,luaj këngën e parë nga lista ime për luajtje e dafina zeqiri,lists_remove,0.9711,0.0007,False
+3167,sq-AL,iot,iot_hue_lightoff,fik dritat e dhomës sime të gjumit,iot_hue_lightoff,0.9887,0.9887,True
+3174,sq-AL,play,play_music,luaj listën me këngë,lists_remove,0.9995,0.0,False
+3205,sq-AL,play,play_music,luaj hape veten nga aurela gaçe,social_post,0.9363,0.0005,False
+3207,sq-AL,play,play_music,transmeto hape veten nga aurela gaçe,qa_factoid,0.3152,0.0118,False
+3212,sq-AL,calendar,calendar_set,më kujto të bëj diçka atëhere,cooking_recipe,0.9981,0.0,False
+3214,sq-AL,news,news_query,cila është gjendja aktuale e hetimit për lidhjet e trumpit me rusinë,qa_factoid,0.384,0.0266,False
+3228,sq-AL,datetime,datetime_query,në çfarë dite të javës bien krishtlindjet këtë vit,weather_query,0.609,0.0064,False
+3253,sq-AL,weather,weather_query,a duhet të presim të bjerë shi këtë pasdite,weather_query,0.7945,0.7945,True
+3264,sq-AL,play,play_music,luaj muzikë reggae,play_music,0.9999,0.9999,True
+3305,sq-AL,weather,weather_query,si do të jetë moti këtë javë në durrës,weather_query,0.9927,0.9927,True
+3306,sq-AL,weather,weather_query,si është parashikimi për këtë javë,news_query,0.1235,0.0558,False
+3329,sq-AL,news,news_query,dua të shikoj lajmet,social_post,0.914,0.0006,False
+3337,sq-AL,weather,weather_query,trego motin nga dy mars deri pesë mars,weather_query,0.7762,0.7762,True
+3338,sq-AL,weather,weather_query,më raporto motin për fierin,social_post,0.9998,0.0,False
+3361,sq-AL,datetime,datetime_query,çfarë date do të jetë e marta tjetër,qa_factoid,0.9428,0.0503,False
+3378,sq-AL,iot,iot_hue_lightoff,fiki dritat ne kuzhinë,iot_hue_lightoff,0.9725,0.9725,True
+3386,sq-AL,iot,iot_hue_lightoff,ul dritat në gjysëm,iot_hue_lightoff,0.9266,0.9266,True
+3400,sq-AL,play,play_music,luaj versionin live të elton dedës,play_music,0.9929,0.9929,True
+3401,sq-AL,play,play_music,luaj këngën më popullore të ardit gjebreas,cooking_recipe,0.9714,0.0058,False
+3406,sq-AL,weather,weather_query,si është parashikimi i dhjetë ditëve,datetime_query,0.273,0.1244,False
+3407,sq-AL,weather,weather_query,a ka parashikime për shi ose borë këtë javë,news_query,0.9463,0.0096,False
+3408,sq-AL,weather,weather_query,a do të jetë moti i mirë këtë fundjavë,weather_query,0.9768,0.9768,True
+3426,sq-AL,weather,weather_query,sa gradë celcius është jashtë,weather_query,0.9739,0.9739,True
+3433,sq-AL,play,play_music,muzikë e re pop,play_music,1.0,1.0,True
+3434,sq-AL,play,play_music,muzika më e mirë rap,play_music,0.9982,0.9982,True
+3441,sq-AL,datetime,datetime_query,është data njëzet e dy e mërkurë,calendar_set,0.1598,0.0719,False
+3444,sq-AL,datetime,datetime_query,a është dhjetë,qa_factoid,0.9457,0.0064,False
+3447,sq-AL,weather,weather_query,a do të bjerë shi të shtunën,calendar_remove,0.655,0.0767,False
+3481,sq-AL,play,play_music,luaj këngët më të njohura të artistit të dhënë,cooking_recipe,0.2748,0.0682,False
+3489,sq-AL,play,play_music,luaj muzikë tani të lutem,play_music,0.9997,0.9997,True
+3492,sq-AL,play,play_music,le të vendosim listën time më të luajtur me këngë,play_music,0.5749,0.5749,True
+3503,sq-AL,weather,weather_query,si është moti në durrës,weather_query,0.9674,0.9674,True
+3507,sq-AL,weather,weather_query,a parashikohet të bjerë borë,qa_factoid,0.9771,0.0003,False
+3513,sq-AL,play,play_music,luaj vetëm listën time,lists_remove,0.9998,0.0,False
+3516,sq-AL,weather,weather_query,sa janë mundësitë që të ketë reshje sot,weather_query,0.7336,0.7336,True
+3539,sq-AL,play,play_music,të lutem luaj duart lartë nga rona nishliu,social_post,0.9689,0.0041,False
+3546,sq-AL,play,play_music,dua të dëgjoj muzikë jazz,play_music,1.0,1.0,True
+3550,sq-AL,play,play_music,vendos pak kidën,qa_factoid,0.7937,0.0011,False
+3554,sq-AL,play,play_music,a mund të vendosësh listën e këngëve të dashurisë,lists_remove,0.9906,0.0043,False
+3562,sq-AL,play,play_music,luaj kuq e zi je ti,social_post,0.7621,0.0041,False
+3566,sq-AL,datetime,datetime_query,sa është ora në stamboll tani,weather_query,0.9962,0.0002,False
+3570,sq-AL,iot,iot_hue_lightoff,të lutem fik dritat në oborr,iot_hue_lightoff,0.7277,0.7277,True
+3576,sq-AL,news,news_query,cili është historia e fundit nga njuz njëzet e katër,qa_factoid,0.3061,0.0998,False
+3586,sq-AL,weather,weather_query,si është moti në tiranë,weather_query,0.997,0.997,True
+3600,sq-AL,calendar,calendar_set,më kujto pas dhjetë minutash,iot_hue_lightoff,0.4075,0.0024,False
+3603,sq-AL,news,news_query,cilat janë lajmet më të fundit nga balkanueb,lists_query,0.9341,0.0007,False
+3605,sq-AL,news,news_query,cilat janë lajmet më të reja në klan,lists_query,0.8583,0.0002,False
+3606,sq-AL,datetime,datetime_query,sa është ora në pekin,weather_query,0.9328,0.0002,False
+3614,sq-AL,weather,weather_query,a është një mot me diell sot,weather_query,0.9986,0.9986,True
+3623,sq-AL,news,news_query,çfarë po ndodh në botë sot,social_post,0.9614,0.0226,False
+3624,sq-AL,news,news_query,lajmet në klan,qa_factoid,0.9997,0.0,False
+3631,sq-AL,play,play_music,ejgoogle luaj pak muzikë xhaz për mua,play_music,1.0,1.0,True
+3686,sq-AL,play,play_music,hap listën me këngë që unë i kam dedikuar muzikës rrok,play_music,0.929,0.929,True
+3714,sq-AL,play,play_music,luaj listën time muzikore duke u nisur nga fundi,play_music,0.6312,0.6312,True
+3717,sq-AL,play,play_music,të lutem luaj hitet e mia nga repi i viteve nëntëdhjetë,iot_hue_lightoff,0.3534,0.0316,False
+3723,sq-AL,play,play_music,do dëshiroja të dëgjoja vaçe zelën pas kësaj kënge,qa_factoid,0.5029,0.0069,False
+3725,sq-AL,datetime,datetime_query,cfarë dite është sot,weather_query,0.9935,0.0011,False
+3727,sq-AL,play,play_music,luaj makina e memories nga ardit gjebrea,recommendation_events,0.2761,0.0264,False
+3750,sq-AL,news,news_query,olli nëse del ndonjë lajm i ri për përmbytje mund të më njoftosh menjëherë,recommendation_events,0.9636,0.001,False
+3779,sq-AL,play,play_music,luaj listën me këngë stila nga youtube,lists_query,0.9849,0.0002,False
+3780,sq-AL,play,play_music,luaj listën time të këngëve të dashurisë së mesnatës,lists_remove,0.7537,0.2445,False
+3784,sq-AL,weather,weather_query,më trego raportin e motit për qytetin e durrësit,news_query,0.4323,0.0039,False
+3785,sq-AL,iot,iot_hue_lightoff,fik dritën e banjës të lutem,iot_hue_lightoff,0.9862,0.9862,True
+3822,sq-AL,news,news_query,më gjej informacione për makinat,recommendation_events,0.986,0.0025,False
+3852,sq-AL,weather,weather_query,çfarë moti ka në durrës shqipëri tani,social_post,0.9998,0.0,False
+3859,sq-AL,play,play_music,të lutem vendos listën time muzikore të preferuar rap,play_music,0.4915,0.4915,True
+3907,sq-AL,play,play_music,më luaj hitet e vitit të kaluar,weather_query,0.9931,0.0005,False
+3911,sq-AL,play,play_music,dua të dëgjoj çdo këngë që fitoi grammy këtë vit,play_music,0.9995,0.9995,True
+3912,sq-AL,play,play_music,kam dëshirë të dëgjoj pak muzikë dance and country,play_music,0.9999,0.9999,True
+3936,sq-AL,weather,weather_query,si është temperatura,weather_query,0.89,0.89,True
+3960,sq-AL,datetime,datetime_query,thuaj orën,qa_factoid,0.9998,0.0,False
+3967,sq-AL,play,play_music,rap,qa_factoid,0.5852,0.0441,False
+3980,sq-AL,play,play_music,të lutem luaj kuturu nga aleksandër gjoka,social_post,0.9044,0.0274,False
+3982,sq-AL,play,play_music,të lutem zgjidh këngën e parë në listën time të këngëve në itunes,lists_remove,0.5761,0.3251,False
+3993,sq-AL,iot,iot_hue_lightoff,bëji dritat të fiken,iot_hue_lightoff,0.8868,0.8868,True
+3995,sq-AL,datetime,datetime_query,olly cila ditë e javës është hallouin,iot_hue_lightoff,0.9999,0.0,False
+4001,sq-AL,news,news_query,çfarë ndodhi në portokalli,news_query,0.7639,0.7639,True
+4023,sq-AL,news,news_query,çfarë ka në lajme,qa_factoid,0.9948,0.0001,False
+4031,sq-AL,play,play_music,luaj kohë pa ty,qa_factoid,0.9545,0.0009,False
+4040,sq-AL,play,play_music,luaj këngën që dëgjoj më shumë,play_music,0.5187,0.5187,True
+4058,sq-AL,play,play_music,dua të dëgjoj pak muzikë rap,play_music,1.0,1.0,True
+4073,sq-AL,datetime,datetime_query,çfarë dite i bie data pesë,qa_factoid,0.9999,0.0,False
+4077,sq-AL,iot,iot_hue_lightoff,fik dritat e kuzhinës,iot_hue_lightoff,0.9759,0.9759,True
+4088,sq-AL,iot,iot_hue_lightoff,fik dritat sipër,iot_hue_lightoff,0.6542,0.6542,True
+4104,sq-AL,weather,weather_query,si do të jetë moti sot në fier,weather_query,0.9957,0.9957,True
+4116,sq-AL,play,play_music,luaj listën time me këngë të përziera të lutem,lists_remove,0.9474,0.0291,False
+4119,sq-AL,news,news_query,dua të di gjithçka që del për digën e thyer në berat,qa_factoid,0.5666,0.0036,False
+4132,sq-AL,weather,weather_query,më trego mundësinë që ka për të rënë shi në durrës sot,weather_query,0.9603,0.9603,True
+4136,sq-AL,play,play_music,të lutem a mund të luash djemtë e detit,social_post,0.429,0.0787,False
+4152,sq-AL,play,play_music,të lutem luaj këngën kohë pa ty,social_post,0.8024,0.0552,False
+4168,sq-AL,weather,weather_query,të lutem kontrollo motin për tiranën,social_post,0.8429,0.0009,False
+4171,sq-AL,iot,iot_hue_lightoff,fik dritat në kuzhinë,iot_hue_lightoff,0.915,0.915,True
+4177,sq-AL,news,news_query,më jep titujt kryesorë më të fundit politikë nga bota,qa_factoid,0.9785,0.0001,False
+4178,sq-AL,news,news_query,ka ndonjë lajm për presidencën,qa_factoid,0.9987,0.0,False
+4183,sq-AL,datetime,datetime_query,ora tani në nju jork,social_post,0.8989,0.0022,False
+4186,sq-AL,datetime,datetime_query,çkemi olly sa është ora,weather_query,0.9773,0.0011,False
+4187,sq-AL,datetime,datetime_query,çkemi siri sa është ora,social_post,0.5721,0.0137,False
+4205,sq-AL,play,play_music,dua të dëgjoj plas nga flori mumajesi,play_music,0.9955,0.9955,True
+4212,sq-AL,weather,weather_query,a do të jem në gjendje të kosis barin këtë mbrëmje,qa_factoid,0.9997,0.0,False
+4227,sq-AL,weather,weather_query,a do të bjerë shi në javën e ardhshme,weather_query,0.9037,0.9037,True
+4232,sq-AL,play,play_music,luaj zemërthyeri nga djemtë e detit,social_post,0.9944,0.0002,False
+4236,sq-AL,datetime,datetime_query,është ende pasdite,weather_query,0.7591,0.0026,False
+4253,sq-AL,datetime,datetime_query,cila është ora aktuale në standartin lindor,weather_query,0.9397,0.0304,False
+4254,sq-AL,datetime,datetime_query,sa është ora në prizeren të kosovës,weather_query,0.9251,0.001,False
+4258,sq-AL,news,news_query,cilat janë lajmet e fundit,qa_factoid,0.9685,0.0005,False
+4266,sq-AL,weather,weather_query,si është moti sot,weather_query,0.5983,0.5983,True
+4273,sq-AL,play,play_music,luaj këngën plas,social_post,0.9313,0.0017,False
+4290,sq-AL,weather,weather_query,a do të duhet të vesh xhaketë sonte,qa_factoid,0.9052,0.0002,False
+4305,sq-AL,play,play_music,luaj këngën vetëm ty nga alban skënderaj,social_post,0.9318,0.0575,False
+4309,sq-AL,datetime,datetime_query,për sa orë do të jetë mesnatë në londër angli,weather_query,0.9968,0.0006,False
+4312,sq-AL,weather,weather_query,a do të jetë më pak se dhjetë gradë në tiranë,weather_query,0.9976,0.9976,True
+4313,sq-AL,weather,weather_query,do të bjerë shi nesër në tiranë,weather_query,0.994,0.994,True
+4336,sq-AL,datetime,datetime_query,sa është ora në kinë,weather_query,0.9583,0.0006,False
+4346,sq-AL,iot,iot_hue_lightoff,fik dritat,qa_factoid,0.5542,0.0557,False
+4347,sq-AL,iot,iot_hue_lightoff,ndalo së vëni në punë dritat,iot_hue_lightoff,0.9896,0.9896,True
+4355,sq-AL,weather,weather_query,si është moti ku jam unë,social_post,0.9677,0.0007,False
+4361,sq-AL,play,play_music,më vendos pak muzikë të mirë,play_music,0.9848,0.9848,True
+4362,sq-AL,datetime,datetime_query,sa është ora në stamboll,weather_query,0.9922,0.0001,False
+4376,sq-AL,weather,weather_query,si është jashtë sot,weather_query,0.9249,0.9249,True
+4377,sq-AL,weather,weather_query,si është moti tani,social_post,0.9476,0.0057,False
+4383,sq-AL,weather,weather_query,si do të jetë moti nesër,weather_query,0.9971,0.9971,True
+4391,sq-AL,news,news_query,cilat janë titujt në balkanueb,qa_factoid,0.5689,0.0082,False
+4400,sq-AL,news,news_query,cilët janë artikujt në trend në gazeta shqip,social_post,0.402,0.2033,False
+4402,sq-AL,weather,weather_query,a më duhet të marr një çadër sot,cooking_recipe,0.9994,0.0,False
+4412,sq-AL,weather,weather_query,si është moti në berat,iot_hue_lightoff,0.6887,0.0092,False
+4436,sq-AL,weather,weather_query,cilën xhaketë do të duhet të vesh,iot_hue_lightoff,0.884,0.0001,False
+4439,sq-AL,weather,weather_query,si është moti në durrës,weather_query,0.9674,0.9674,True
+4449,sq-AL,weather,weather_query,a do të bjerë shi në orën një pasdite sot,weather_query,0.9805,0.9805,True
+4452,sq-AL,play,play_music,luaj këngë,social_post,0.9688,0.0001,False
+4463,sq-AL,datetime,datetime_query,sa të shtunat janë në mars,weather_query,0.9704,0.0036,False
+4477,sq-AL,play,play_music,luaj këngë të radhës,play_music,0.9573,0.9573,True
+4482,sq-AL,weather,weather_query,a me duhet të pastroj rrugën time këtë mëngjes,cooking_recipe,0.5951,0.0045,False
+4486,sq-AL,weather,weather_query,më trego parashikimin e motit për këtë javë,qa_definition,0.9956,0.0001,False
+4487,sq-AL,weather,weather_query,a do të bjerë shi të enjten,weather_query,0.6648,0.6648,True
+4491,sq-AL,news,news_query,cili është lajmi i fundit për donald trump,news_query,0.9872,0.9872,True
+4492,sq-AL,news,news_query,cilat janë statistikat e krimit më të fundit për zonën time,qa_factoid,0.4071,0.133,False
+4496,sq-AL,news,news_query,çfarë ka postuat klani sot,social_post,0.9799,0.0001,False
+4502,sq-AL,datetime,datetime_query,çkemi sa është ora në londër tani,weather_query,0.9952,0.0001,False
+4524,sq-AL,weather,weather_query,olli si është parashikimi i motit sot,social_post,0.9942,0.0003,False
+4547,sq-AL,play,play_music,fillo këngët e shekullit,iot_hue_lightoff,0.5078,0.0691,False
+4567,sq-AL,news,news_query,më lexo titujt më të rinj në klan,qa_factoid,0.824,0.0007,False
+4580,sq-AL,datetime,datetime_query,sa është ora në nju jork,weather_query,0.8987,0.0003,False
+4587,sq-AL,play,play_music,luaj të preferuarat e mia,recommendation_events,0.953,0.0002,False
+4589,sq-AL,calendar,calendar_set,vendos një njoftim për ndeshjen e futbollit,qa_factoid,0.9977,0.0,False
+4606,sq-AL,news,news_query,gjej informacion për aksionet e sotshme,social_post,0.3141,0.1712,False
+4614,sq-AL,weather,weather_query,a do jetë më shumë se tridhjetë gradë temperatura nesër,weather_query,0.9718,0.9718,True
+4662,sq-AL,news,news_query,lajme nga klan brisilda,qa_factoid,0.8502,0.0,False
+4667,sq-AL,datetime,datetime_query,ora aktuale në,qa_factoid,0.9984,0.0001,False
+4680,sq-AL,weather,weather_query,a duhet të vesh sandale apo këpucë me çorape,qa_factoid,0.8281,0.003,False
+4689,sq-AL,weather,weather_query,a e di motin,qa_factoid,0.9437,0.0,False
+4692,sq-AL,play,play_music,luaj një këngë për mua nga ardit gjebrea,play_music,0.9585,0.9585,True
+4710,sq-AL,datetime,datetime_query,në çfarë dite është hallouin këtë vit,weather_query,0.6898,0.0074,False
+4764,sq-AL,weather,weather_query,do të bjerë shi të premten,weather_query,0.9754,0.9754,True
+4767,sq-AL,news,news_query,ka ndonjë informacion të ri për murin amerikan meksikan të kufirit,qa_factoid,0.3348,0.2536,False
+4772,sq-AL,datetime,datetime_query,më trego orën në këtë zonë kohore,weather_query,0.6148,0.0445,False
+4780,sq-AL,datetime,datetime_query,çfarë dite i bie ditëlindja ime këtë vit njëzet e shtatë qershor,weather_query,0.9133,0.0552,False
+4784,sq-AL,weather,weather_query,a do të më duhet një xhaketë,qa_factoid,0.9914,0.0,False
+4813,sq-AL,datetime,datetime_query,sa është ora në një qytet tjetër,weather_query,0.9938,0.0001,False
+4837,sq-AL,news,news_query,ka ndonjë lajm olli,qa_factoid,0.7375,0.0008,False
+4838,sq-AL,play,play_music,luaj të gjitha nga aurela gaçe,social_post,0.8102,0.0083,False
+4871,sq-AL,weather,weather_query,si është jashtë,iot_hue_lightoff,0.1485,0.058,False
+4881,sq-AL,datetime,datetime_query,kërko për kohën lokale në time,qa_factoid,0.9033,0.001,False
+4882,sq-AL,datetime,datetime_query,sa është ora në romë,weather_query,0.7779,0.0009,False
+4890,sq-AL,calendar,calendar_set,vendosni njoftime për fatkeqësitë e motit tani në tiranë,qa_factoid,0.9817,0.0003,False
+4909,sq-AL,play,play_music,luaj këngë nga aleksandër gjoka,play_music,0.5273,0.5273,True
+4917,sq-AL,weather,weather_query,temperatura jashtë,weather_query,0.6799,0.6799,True
+4928,sq-AL,play,play_music,luaj kolonën time zanore,lists_remove,0.789,0.0037,False
+4933,sq-AL,weather,weather_query,a do të bjerë shi tani,qa_factoid,0.9847,0.0,False
+4951,sq-AL,datetime,datetime_query,dua të di sa është ora tani,weather_query,0.9756,0.0002,False
+4953,sq-AL,news,news_query,lajmet për aksidentin,qa_factoid,0.9966,0.0,False
+4957,sq-AL,datetime,datetime_query,çfarë dite e javës është dita e flamurit,weather_query,0.5353,0.4562,False
+4960,sq-AL,play,play_music,muzikë nga djemtë e detit,play_music,0.9998,0.9998,True
+4968,sq-AL,qa,qa_factoid,kush i fitoi zgjedhjet presidenciale këtë vit,qa_factoid,1.0,1.0,True
+4973,sq-AL,play,play_music,olly luaj makina e memories,cooking_recipe,0.3518,0.0087,False
+4998,sq-AL,play,play_music,shtoje këtë këngë si këngën e rradhës për tu luajtur,play_music,0.9988,0.9988,True
+5009,sq-AL,weather,weather_query,a do të më duhet një çadër këtë javë,cooking_recipe,0.999,0.0,False
+5016,sq-AL,news,news_query,më trego lajmet për lëvizjen ambientaliste,qa_definition,0.8576,0.0067,False
+5027,sq-AL,datetime,datetime_query,kur është tjetra e premte datë trembëdhjetë,datetime_query,0.9794,0.9794,True
+5037,sq-AL,weather,weather_query,sa ftohtë bën sot,weather_query,0.9982,0.9982,True
+5038,sq-AL,weather,weather_query,si është moti këtë javë,weather_query,0.9318,0.9318,True
+5040,sq-AL,weather,weather_query,si është moti tani,social_post,0.9476,0.0057,False
+5062,sq-AL,play,play_music,të lutem më luaj këngë të viteve tetëdhjetë,play_music,1.0,1.0,True
+5074,sq-AL,weather,weather_query,si ishte moti për javën,qa_factoid,0.5936,0.0318,False
+5085,sq-AL,weather,weather_query,si është parashikimi i motit të shtunën,weather_query,0.2078,0.2078,True
+5118,sq-AL,play,play_music,plas,qa_factoid,0.5608,0.0368,False
+5127,sq-AL,news,news_query,ja ku është e vërteta mbi ushqimin që përballohet nga buxheti i dikujt,qa_factoid,0.85,0.0022,False
+5131,sq-AL,datetime,datetime_query,ju lutem më tregoni orën në berat,iot_hue_lightoff,0.2984,0.0196,False
+5134,sq-AL,play,play_music,gjej këngë nga lista e këngëve të shekullit,lists_remove,0.4639,0.1497,False
+5156,sq-AL,iot,iot_hue_lightoff,fik dritën në dhomën e ndenjes,iot_hue_lightoff,0.9862,0.9862,True
+5157,sq-AL,iot,iot_hue_lightoff,brisilda fik dritën në dhomën e ndenjes,iot_hue_lightoff,0.9294,0.9294,True
+5158,sq-AL,play,play_music,të lutem luaj këngën e fundit të albumit abbas,email_sendemail,0.5477,0.4446,False
+5159,sq-AL,play,play_music,a mund të lutem të luash këngën nga artistja tuna,play_music,0.9997,0.9997,True
+5160,sq-AL,play,play_music,të lutem a mund të luash këngën e redon makashit,play_music,0.9718,0.9718,True
+5176,sq-AL,weather,weather_query,çfarë kohe duhet të pres unë këtë javë,cooking_recipe,0.7224,0.0535,False
+5196,sq-AL,news,news_query,dua të di për breksit,cooking_recipe,0.6801,0.0035,False
+5225,sq-AL,datetime,datetime_query,çfarë date është të mërkurën tjetër,datetime_query,0.9033,0.9033,True
+5243,sq-AL,iot,iot_hue_lightoff,siri të lutem fik dritat në banjë,iot_hue_lightoff,0.9395,0.9395,True
+5245,sq-AL,news,news_query,vendos njoftim për lajme mjedisore,email_sendemail,0.5171,0.0009,False
+5270,sq-AL,news,news_query,cilat janë aktualisht lajmet më të reja,lists_query,0.9693,0.0231,False
+5278,sq-AL,play,play_music,të lutem luaj vetëm muzikë pop mix,play_music,1.0,1.0,True
+5279,sq-AL,play,play_music,të lutem luaj vetëm këngë të trishtë në luajtësin muzikor,play_music,1.0,1.0,True
+5286,sq-AL,news,news_query,më trego klan lajmet migrimi,social_post,0.8644,0.0005,False
+5296,sq-AL,news,news_query,olli më trego lajmet më të lexuara në klan,lists_query,0.605,0.0078,False
+5297,sq-AL,news,news_query,më jep lajmet më të lexuara nga balkanueb,lists_query,0.9804,0.0021,False
+5301,sq-AL,weather,weather_query,si do të jetë moti me njëzet mars në dy mijë e shtatëmbëdhjetë,weather_query,0.9977,0.9977,True
+5307,sq-AL,datetime,datetime_query,a është dymbëdhjetë mars sot,weather_query,0.9973,0.0004,False
+5318,sq-AL,play,play_music,të lutem luaj vetëm këngët e ardit gjebreas,play_music,0.738,0.738,True
+5321,sq-AL,weather,weather_query,më trego motin,iot_hue_lightoff,0.538,0.0017,False
+5328,sq-AL,play,play_music,rrok,qa_factoid,0.9728,0.0005,False
+5339,sq-AL,weather,weather_query,gjendje e ulët e ftohjes,qa_factoid,0.4657,0.4608,False
+5341,sq-AL,datetime,datetime_query,të lutem më njofto për orën,iot_hue_lightoff,0.5662,0.014,False
+5347,sq-AL,play,play_music,luaj muzikë techno,play_music,0.9999,0.9999,True
+5358,sq-AL,datetime,datetime_query,përditëso në orën aktuale,qa_factoid,0.9996,0.0001,False
+5370,sq-AL,news,news_query,cili është lajmi i fundit për covidin,qa_factoid,0.8888,0.0636,False
+5378,sq-AL,play,play_music,s,qa_factoid,0.1568,0.0405,False
+5401,sq-AL,play,play_music,muzikë,play_music,0.9997,0.9997,True
+5410,sq-AL,news,news_query,lexo titujt kryesorë më të fundit të gazetës shqip,news_query,0.5198,0.5198,True
+5411,sq-AL,news,news_query,cialt janë lajmet më popullore të c. n. n.,social_post,0.923,0.0001,False
+5413,sq-AL,play,play_music,luaj muzikën,play_music,1.0,1.0,True
+5414,sq-AL,play,play_music,do e vendosësh muzikën,play_music,0.9906,0.9906,True
+5427,sq-AL,datetime,datetime_query,sa është ora në kanada tani,weather_query,0.9878,0.0002,False
+5433,sq-AL,weather,weather_query,do të bjerë shi më vonë,qa_factoid,0.6744,0.004,False
+5439,sq-AL,weather,weather_query,a do të më duhet çadra natën,iot_hue_lightoff,0.327,0.016,False
+5465,sq-AL,weather,weather_query,a mund ti vesh sandalet e mia sot,qa_factoid,0.8566,0.0036,False
+5468,sq-AL,weather,weather_query,a do të më duhet të marr syzet e diellit,qa_factoid,0.5103,0.0055,False
+5524,sq-AL,weather,weather_query,moti në moment,qa_factoid,0.7313,0.0029,False
+5529,sq-AL,weather,weather_query,në cilën kohë do më duhet të dal për një ngjitje në mal,weather_query,0.9922,0.9922,True
+5557,sq-AL,play,play_music,dua reggae,play_music,0.9395,0.9395,True
+5577,sq-AL,weather,weather_query,do të më duhet një xhaketë e plotë nëse moti është me shumë stuhi në mbrëmje,iot_hue_lightoff,0.3553,0.0268,False
+5578,sq-AL,weather,weather_query,do të më duhen çorape të ngrohta në dimër në mëngjes,cooking_recipe,0.9944,0.0002,False
+5584,sq-AL,iot,iot_hue_lightoff,të lutem fik dritat,iot_hue_lightoff,0.9818,0.9818,True
+5590,sq-AL,weather,weather_query,hap temperaturën,qa_factoid,0.9996,0.0,False
+5593,sq-AL,play,play_music,luaj makina e memories nga ardit gjebrea,recommendation_events,0.2761,0.0264,False
+5619,sq-AL,play,play_music,luaj këngën e kaluar,social_post,0.4326,0.0622,False
+5627,sq-AL,play,play_music,luaj për mua muzikë nga ritfolk,play_music,0.9933,0.9933,True
+5640,sq-AL,datetime,datetime_query,shfaq datën,qa_factoid,0.8912,0.0033,False
+5650,sq-AL,weather,weather_query,pyet për motin sot në mbrëmje,social_post,0.9984,0.0001,False
+5658,sq-AL,play,play_music,luaj muzikë nga ritfolk për mua,play_music,0.9999,0.9999,True
+5661,sq-AL,weather,weather_query,a duhet ta marr mushamanë me vete sot,social_post,0.9994,0.0,False
+5671,sq-AL,datetime,datetime_query,sa është ora në las vegas,weather_query,0.9955,0.0002,False
+5678,sq-AL,datetime,datetime_query,cila ditë e javës është dy mars,datetime_query,0.5783,0.5783,True
+5683,sq-AL,play,play_music,luaj listën time me këngë festash,lists_remove,0.9939,0.0,False
+5688,sq-AL,news,news_query,të lutem më trego titujt e lajmeve,social_post,0.7675,0.0035,False
+5703,sq-AL,datetime,datetime_query,ora tani,qa_factoid,0.9124,0.0017,False
+5707,sq-AL,play,play_music,dëgjo të preferuarat e mia,recommendation_events,0.8606,0.0011,False
+5721,sq-AL,weather,weather_query,më trego motin e nesërm në këtë zonë,qa_factoid,0.5784,0.0005,False
+5722,sq-AL,weather,weather_query,shfaq parashikimin për shtatë ditë këtë javë,iot_hue_lightoff,0.3793,0.0392,False
+5732,sq-AL,weather,weather_query,a do duhet t'ia ndërroj gomat e borës makinës së shpejti,lists_remove,0.6112,0.0046,False
+5757,sq-AL,datetime,datetime_query,dy pa një çerek,qa_factoid,0.9998,0.0,False
+5758,sq-AL,weather,weather_query,si është moti në kryeqytet,weather_query,0.9945,0.9945,True
+5774,sq-AL,datetime,datetime_query,ora aktuale në romë,qa_factoid,0.9743,0.0001,False
+5797,sq-AL,weather,weather_query,a duhet të vesh mushama para se të dal,qa_factoid,0.9905,0.0001,False
+5813,sq-AL,play,play_music,luaj këngën jon,social_post,0.9979,0.0,False
+5820,sq-AL,play,play_music,më qetëso veshët me alban skënderaj,social_post,0.5537,0.0012,False
+5837,sq-AL,weather,weather_query,më trego si do të jetë moti gjatë kësaj jave,weather_query,0.9976,0.9976,True
+5871,sq-AL,weather,weather_query,si është klima e durrësit sot,weather_query,0.9925,0.9925,True
+5886,sq-AL,news,news_query,temë e nxehtë,qa_factoid,0.994,0.0002,False
+5919,sq-AL,news,news_query,cili është përdtitësimi më i fundit në ligjin e arsimit,qa_factoid,0.7382,0.0023,False
+5930,sq-AL,news,news_query,ndonjë lajm i fundit nga gazeta shqip,qa_factoid,0.9894,0.0001,False
+5948,sq-AL,play,play_music,luaj disa këngë të mira nga playlista im,play_music,0.8344,0.8344,True
+5953,sq-AL,weather,weather_query,është qyteti më i lirë apo më i kushtueshëm për të jetuar,qa_factoid,0.3331,0.0774,False
+5955,sq-AL,weather,weather_query,sa i sigurtë është qyteti përsa i përket rendit,qa_factoid,0.9984,0.0002,False
+5970,sq-AL,play,play_music,dua që të luash stila për mua,play_music,0.9993,0.9993,True
+5985,sq-AL,news,news_query,më trego lajmet më të fundit nga balkanueb,social_post,0.9582,0.0091,False
+5996,sq-AL,weather,weather_query,a do të më duhen çizmet e mia të borës këtë pasdite,iot_hue_lightoff,0.3541,0.0207,False
+5997,sq-AL,datetime,datetime_query,sa është ora në zonën qendrore kohore,weather_query,0.9802,0.0088,False
+6023,sq-AL,weather,weather_query,a do të jetënjë natë e lagësht,weather_query,0.5478,0.5478,True
+6024,sq-AL,weather,weather_query,a do më duhet të marrr një triko apo një pallto tek puna sot,iot_hue_lightoff,0.716,0.051,False
+6025,sq-AL,weather,weather_query,a do duhet të marr krem dielli këtë pasdite,qa_factoid,0.5604,0.0047,False
+6027,sq-AL,play,play_music,fillo këngët e preferuara,cooking_recipe,0.5477,0.0027,False
+6039,sq-AL,weather,weather_query,a do të jetë kohë me shi nesër,weather_query,0.9979,0.9979,True
+6041,sq-AL,iot,iot_hue_lightoff,hey brisilda fik dritat të lutem,iot_hue_lightoff,0.9819,0.9819,True
+6045,sq-AL,play,play_music,shto këngën e zgjedhur,qa_factoid,0.9903,0.0001,False
+6050,sq-AL,weather,weather_query,a do të më duhet kremi i diellit më vonë,cooking_recipe,0.9298,0.0019,False
+6055,sq-AL,iot,iot_hue_lightoff,a e lashë dritën hapur në garazh,weather_query,0.839,0.1461,False
+6059,sq-AL,play,play_music,luaj muzikë rap,play_music,0.9999,0.9999,True
+6069,sq-AL,weather,weather_query,a ka gjas të ketë stuhi sot,weather_query,0.9951,0.9951,True
+6073,sq-AL,iot,iot_hue_lightoff,fik dritën e verandës,iot_hue_lightoff,0.9721,0.9721,True
+6074,sq-AL,iot,iot_hue_lightoff,fik dritat e dhomës së gjumit në nëntë e gjysëm të darkës,iot_hue_lightoff,0.9734,0.9734,True
+6077,sq-AL,news,news_query,dua të dëgjoj lajmet e fundit nga bota për sot,play_podcasts,0.9959,0.0035,False
+6093,sq-AL,weather,weather_query,a duhet të hap çatinë e diellit,qa_factoid,0.5936,0.0002,False
+6103,sq-AL,weather,weather_query,ej si do të jetë moti sot në durrës,weather_query,0.9961,0.9961,True
+6116,sq-AL,weather,weather_query,informacion rreth motit për këtë javë,social_post,0.9814,0.0005,False
+6118,sq-AL,datetime,datetime_query,hej sa është ora në berat shqipëri,weather_query,0.9645,0.0015,False
+6127,sq-AL,weather,weather_query,a më rekomandon çadra,qa_factoid,0.9885,0.0,False
+6129,sq-AL,news,news_query,më mbaj të azhornuar me lajmet botërore,qa_factoid,0.8362,0.0002,False
+6151,sq-AL,weather,weather_query,dua të di për motin sot,social_post,0.3807,0.0055,False
+6172,sq-AL,weather,weather_query,a janë syzet e diellit një zgjedhje e mirë për sot,recommendation_events,0.8113,0.0033,False
+6177,sq-AL,weather,weather_query,a do duhet të marr një çadër sot,cooking_recipe,0.9994,0.0,False
+6178,sq-AL,weather,weather_query,a do duhet të vesh xhaketë,qa_factoid,0.9804,0.0001,False
+6194,sq-AL,weather,weather_query,si është moti sot,weather_query,0.5983,0.5983,True
+6289,sq-AL,weather,weather_query,ej si është koha sot,weather_query,0.9982,0.9982,True
+6370,sq-AL,calendar,calendar_query,si duket java ime e ardhshme,email_sendemail,1.0,0.0,False
+6372,sq-AL,news,news_query,lajmet politike,qa_factoid,1.0,0.0,False
+6403,sq-AL,transport,transport_query,si të shkosh diku,social_post,0.4781,0.0074,False
+6410,sq-AL,news,news_query,çfarë është duke ndodhur në francë sot,social_post,0.8228,0.0901,False
+6411,sq-AL,weather,weather_query,si është moti të mërkurën tjetër,weather_query,0.9755,0.9755,True
+6539,sq-AL,calendar,calendar_set,shëno sot si fillimi i dietës sime,cooking_recipe,0.9599,0.0002,False
+6542,sq-AL,cooking,cooking_recipe,a është djathi i butë më i mirë se ai i forti,qa_factoid,0.9963,0.0002,False
+6618,sq-AL,news,news_query,trego lajme interesante,social_post,0.9995,0.0,False
+6682,sq-AL,news,news_query,zgjedhjet në vazhdim,qa_factoid,0.2064,0.013,False
+6683,sq-AL,news,news_query,çështjet ekonomike,qa_factoid,0.9518,0.0015,False
+6713,sq-AL,calendar,calendar_remove,anulo mbledhjen e biznesit të mërkurën,weather_query,0.6842,0.034,False
+6722,sq-AL,calendar,calendar_query,a ka ndonjë gjë për të cilën unë duhet të kujtohem,qa_factoid,0.3691,0.0228,False
+6725,sq-AL,calendar,calendar_set,më kujto për axhendën time për pasdite,qa_factoid,0.4731,0.012,False
+6726,sq-AL,calendar,calendar_remove,anulo mbledhjen e rradhës,qa_factoid,0.3117,0.0142,False
+6729,sq-AL,calendar,calendar_remove,anuloni mëngjesin në bujtinën gzona,social_post,0.9835,0.0005,False
+6732,sq-AL,calendar,calendar_set,shto kujtesë mbledhje për të dielën me vjehërrit e mi,iot_hue_lightoff,0.1525,0.0259,False
+6744,sq-AL,calendar,calendar_set,vendos mbledhjen me eltonin për nesër dhjetë paradite,email_sendemail,0.3639,0.0115,False
+6746,sq-AL,calendar,calendar_set,vendos javën e parë të qershorit si ditë feste në kalendarin tim,calendar_remove,0.9818,0.0006,False
+6747,sq-AL,calendar,calendar_query,sa kujtesa kam unë,qa_factoid,0.9957,0.0,False
+6755,sq-AL,calendar,calendar_remove,të lutem pastro kalendarin tim,datetime_query,0.9828,0.0003,False
+6761,sq-AL,calendar,calendar_remove,hiq nga kalendari im mbledhjen në nëntë paradite,iot_hue_lightoff,0.8493,0.1289,False
+6764,sq-AL,calendar,calendar_set,më kujto të laj dritaret,cooking_recipe,0.8759,0.0005,False
+6774,sq-AL,calendar,calendar_set,vendos një event për të premten,calendar_remove,0.9896,0.0008,False
+6785,sq-AL,calendar,calendar_query,cila është kujtesa ime e rradhës,social_post,0.536,0.0089,False
+6789,sq-AL,calendar,calendar_set,vendos takimin me joanën të shtunën në katër pasdite,social_post,0.9639,0.0011,False
+6798,sq-AL,calendar,calendar_remove,fshi eventin tim të ardhshëm,recommendation_events,0.1734,0.028,False
+6801,sq-AL,calendar,calendar_query,më trego takimet e mia këtë të premte,calendar_remove,0.1822,0.0412,False
+6806,sq-AL,calendar,calendar_query,më trego eventin e kalendarit tim këtë të premte pasdite,recommendation_events,0.1936,0.0667,False
+6815,sq-AL,calendar,calendar_set,më kujto për ditëlindjen e mamit një javë më parë,datetime_query,0.2063,0.0276,False
+6819,sq-AL,calendar,calendar_set,brisilda është një bandë që luan sonte në nëntë tek bari i xhazit dua të shkoj,play_music,0.8066,0.0021,False
+6836,sq-AL,calendar,calendar_set,më kujto për mbledhjen nesër në gjashtë,iot_hue_lightoff,0.3562,0.0193,False
+6850,sq-AL,calendar,calendar_query,listo axhendën time sot,email_sendemail,0.9623,0.0002,False
+6856,sq-AL,calendar,calendar_set,më jep një njoftim kujtues për mbledhjen e nesërme në dhjetë të mëngjesit,iot_hue_lightoff,0.6532,0.009,False
+6860,sq-AL,calendar,calendar_query,a ka ndonjë ngjarje të ardhshme,qa_factoid,0.8697,0.0007,False
+6865,sq-AL,calendar,calendar_set,vendos një njoftim për mbledhjen e nesërme në dhjetë,qa_factoid,0.6056,0.0023,False
+6878,sq-AL,calendar,calendar_set,planifikonjë takim me departamentin e kontabilitetit në dy e tridhjetë pasdite të premten,qa_factoid,0.4018,0.0248,False
+6891,sq-AL,calendar,calendar_query,a ka shfaqje në mëngjes,qa_factoid,0.9826,0.0003,False
+6892,sq-AL,calendar,calendar_query,kur është orari i filmit,datetime_query,0.9323,0.0001,False
+6897,sq-AL,calendar,calendar_set,më kujto të marr anën në pesë në mbrëmje në shtatë,cooking_recipe,0.8124,0.0046,False
+6901,sq-AL,calendar,calendar_set,më kujto nesër në dhjetë paradite për mbledhjen,calendar_remove,0.5242,0.1584,False
+6902,sq-AL,calendar,calendar_set,vendos një kujtesë muajin që vjen të ndryshoj vajin,lists_remove,0.2168,0.0149,False
+6909,sq-AL,calendar,calendar_query,çfarë do të ndodhë pas një dhe para tre pasdite,news_query,0.1526,0.0343,False
+6918,sq-AL,calendar,calendar_remove,fshi eventet nga kalendari,calendar_remove,0.5126,0.5126,True
+6923,sq-AL,calendar,calendar_set,vendos kujtesë të printoj dokumentet të martën në mëngjes,calendar_remove,0.6313,0.0148,False
+6926,sq-AL,calendar,calendar_query,a është e premte,weather_query,0.9968,0.0001,False
+6928,sq-AL,calendar,calendar_remove,fshi të gjitha eventet,social_post,0.7788,0.002,False
+6936,sq-AL,calendar,calendar_set,më kujto të pij ilaçet në nëntë të mëngjesit,cooking_recipe,0.9501,0.0006,False
+6937,sq-AL,calendar,calendar_set,vendos kujtesë për pasdite të shkoj për drekë me shefin,calendar_remove,0.8867,0.0149,False
+6946,sq-AL,calendar,calendar_query,a ka ndonjë mbledhje të caktuar për të mërkurën e rradhvs,iot_hue_lightoff,0.1863,0.0366,False
+6958,sq-AL,calendar,calendar_remove,sigurohu që nuk ka evente në kalendarin tim,qa_factoid,0.9991,0.0003,False
+6959,sq-AL,calendar,calendar_set,më kujto për mbledhjen time një orë përpara se të fillojë,iot_hue_lightoff,0.6691,0.011,False
+6962,sq-AL,calendar,calendar_set,a mund ta dij unë çfarë kam për të bërë të shtunën e rradhës në gjashtë pasdite,cooking_recipe,0.9922,0.0003,False
+6964,sq-AL,calendar,calendar_set,a mund të më kujtosh mbledhjen e rradhës me shefin një orë para se të ndodhë,iot_hue_lightoff,0.2148,0.0154,False
+6967,sq-AL,calendar,calendar_query,a mund të kontrollosh faktet për këtë çështje,qa_factoid,0.9988,0.0001,False
+6968,sq-AL,calendar,calendar_query,unë duhet të konfirmoj të gjitha mbledhjet për sot a mund të ftosh personin,qa_factoid,0.3177,0.0145,False
+6973,sq-AL,calendar,calendar_set,shto një kujtesë për konferencë për nesër në durrës,social_post,0.7362,0.0055,False
+6974,sq-AL,calendar,calendar_set,unë kam një shërbim në lezhë nesër ma kujto atë,cooking_recipe,0.8116,0.0008,False
+6980,sq-AL,calendar,calendar_query,më jep listën e gjërave për të bërë,lists_query,0.9826,0.0001,False
+6992,sq-AL,calendar,calendar_query,trego ngjarjet e ardhshme,qa_factoid,0.9991,0.0,False
+6994,sq-AL,calendar,calendar_set,më kujto në,qa_factoid,0.9936,0.0002,False
+6997,sq-AL,calendar,calendar_remove,fshi ngjarjen pasardhëse,qa_factoid,0.9394,0.0002,False
+7000,sq-AL,calendar,calendar_set,event i ri,datetime_query,0.4844,0.0101,False
+7004,sq-AL,calendar,calendar_set,shto një kujtesë në kalendarin tim çdo vit në këtë datë,calendar_remove,0.983,0.0007,False
+7013,sq-AL,calendar,calendar_query,kur do nisë eventi,qa_factoid,0.3928,0.0152,False
+7014,sq-AL,calendar,calendar_query,më jep axhendën për eventet e sotme,social_post,0.5729,0.0079,False
+7025,sq-AL,calendar,calendar_remove,hiq vitin e ri nga kalendari,iot_hue_lightoff,0.8007,0.0041,False
+7026,sq-AL,recommendation,recommendation_events,cilat evente zhvillohen në qytetin tim këtë javë,news_query,0.8895,0.0139,False
+7039,sq-AL,calendar,calendar_set,vendos një mbledhje të martën në njëmbëdhjetë paradite me xhesikën,iot_hue_lightoff,0.8822,0.0015,False
+7044,sq-AL,calendar,calendar_set,më kujto të filloj të përgatitem nga ora pesë pasdite ju lutem,cooking_recipe,0.5246,0.0192,False
+7046,sq-AL,calendar,calendar_set,shto mbledhjen në njëzet e një në shtatë,calendar_remove,0.7953,0.0046,False
+7055,sq-AL,calendar,calendar_set,cakto një takim me arbenin të enjten paradite në njëmbëdhjetë,qa_factoid,0.8557,0.0007,False
+7057,sq-AL,calendar,calendar_set,programo një mbledhje dreke me bernardin të mërkurën pasdite,cooking_recipe,0.9912,0.0002,False
+7061,sq-AL,calendar,calendar_set,më jep një kujtesë njëzet e katër orë para takimit tim të premten me arbenin,email_sendemail,0.9887,0.0006,False
+7073,sq-AL,calendar,calendar_set,kërko në kalendarin tim për ngjarjen e rradhës edhe më njofto përpara se të ndodhë,recommendation_events,0.4659,0.0227,False
+7080,sq-AL,calendar,calendar_remove,anullo gjithçka në kalendarin tim,qa_factoid,0.5688,0.0235,False
+7087,sq-AL,calendar,calendar_remove,anulo mbledhjen e nesërme nga kalendari im,calendar_remove,0.9897,0.9897,True
+7098,sq-AL,calendar,calendar_set,shto pagesën e makinës në datën dymbëdhjetë në kalendar,calendar_remove,0.9948,0.0001,False
+7100,sq-AL,calendar,calendar_set,më kujto ditën përpara që makina ime ka afatin,qa_factoid,0.9953,0.0002,False
+7111,sq-AL,calendar,calendar_query,në cilën orë është takimi im me doktorin në tridhjetë e një mars,weather_query,0.9743,0.0008,False
+7113,sq-AL,calendar,calendar_query,a do ketë ndonjë ngjarje në qendër të qytetit këtë fundjavë,weather_query,0.1417,0.0356,False
+7117,sq-AL,calendar,calendar_remove,fshij ngjarjet e datës nëntëmbëdhjetë nga kalendari,calendar_remove,1.0,1.0,True
+7120,sq-AL,calendar,calendar_query,si është agjenda ime sot,social_post,0.1419,0.0296,False
+7122,sq-AL,calendar,calendar_set,a mund ta përsëritësh këtë ngjarje,qa_factoid,0.9924,0.0,False
+7140,sq-AL,calendar,calendar_set,vendos një kujtesë të më lajmërosh një orë përpara takimit të drekës,calendar_remove,0.9563,0.0017,False
+7141,sq-AL,calendar,calendar_query,a është i planifikuar ky program,datetime_query,0.6082,0.004,False
+7151,sq-AL,calendar,calendar_set,për çdo të dielë çift vendos një kujtesë,qa_factoid,0.8734,0.0015,False
+7152,sq-AL,calendar,calendar_set,vendos drekë çdo ditë në dymbëdhjetë e gjysëm,calendar_remove,0.3921,0.0095,False
+7161,sq-AL,calendar,calendar_set,më kujto këtë ngjarje në të ardhmen,weather_query,0.4371,0.0165,False
+7170,sq-AL,calendar,calendar_set,sot është ditëlindja e nënës më dërgo njoftim çdo vit në këtë datë,social_post,0.915,0.0029,False
+7181,sq-AL,calendar,calendar_set,më zgjo në gjashtë paradite të enjten që unë të kem kohë për mbledhje,iot_hue_lightoff,0.5951,0.0233,False
+7185,sq-AL,calendar,calendar_query,kur është takimi i ardhshëm me doktor piperon,qa_factoid,0.7788,0.0027,False
+7189,sq-AL,calendar,calendar_query,a kam unë ndonjë gjë të planifikuar,calendar_set,0.2821,0.0121,False
+7194,sq-AL,calendar,calendar_set,do bëj një takim nesër vendose atë,qa_factoid,0.9535,0.0006,False
+7196,sq-AL,calendar,calendar_set,më kujto takimin me anën në pesëmbëdhjetë mars,social_post,0.677,0.0108,False
+7199,sq-AL,calendar,calendar_set,vendos një lajmërim për tre dy dhe një orë përpara provimit të anglishtes së javës tjetër,weather_query,0.6607,0.0003,False
+7209,sq-AL,calendar,calendar_set,a mund të më kujtosh të hedh mbeturinat të martën,cooking_recipe,0.9935,0.0002,False
+7219,sq-AL,calendar,calendar_query,a e vendose kujtesën për takimin tim nesër,email_sendemail,0.6246,0.0056,False
+7224,sq-AL,calendar,calendar_query,ku është vendi në të cilin do të bëhet dasma e benit,qa_factoid,0.8611,0.0034,False
+7232,sq-AL,calendar,calendar_query,cilat janë ngjarjet e javës së ardhshme,qa_factoid,0.8021,0.0047,False
+7257,sq-AL,calendar,calendar_set,të lutem më kujto të telefonojë mamin për gjysëm ore,datetime_query,0.9653,0.0013,False
+7258,sq-AL,calendar,calendar_set,më kujto ti dërgoj një email shefit pas një ore,email_sendemail,1.0,0.0,False
+7262,sq-AL,calendar,calendar_set,krijo një kujtesë njoftimi për mbledhjen nesër,qa_factoid,0.1973,0.0245,False
+7266,sq-AL,calendar,calendar_query,cilat janë detyrat e mia në pritje,lists_remove,0.2294,0.0091,False
+7278,sq-AL,calendar,calendar_set,më kujto për ditëlindjen e anës njëzet e katër orë përpara,datetime_query,0.2638,0.0221,False
+7287,sq-AL,calendar,calendar_set,më kujto për përvjetorin tim një ditë më parë,email_sendemail,0.4602,0.0127,False
+7289,sq-AL,calendar,calendar_remove,hiq të gjitha eventet me artanin,cooking_recipe,0.6165,0.003,False
+7291,sq-AL,calendar,calendar_set,blloko një orë nga dhjetë nesër në mëngjes,calendar_remove,0.8867,0.0011,False
+7292,sq-AL,calendar,calendar_set,jam e padisponueshme nga katër në gjashtë në mbrëmje nesër shënoje kalendarin tim,calendar_remove,0.4792,0.0093,False
+7293,sq-AL,calendar,calendar_set,planifiko një takim një orë për të shtunën,calendar_set,0.4869,0.4869,True
+7294,sq-AL,calendar,calendar_remove,hiq takimin me kujtim asimin nga kalendari im,iot_hue_lightoff,0.9431,0.0002,False
+7295,sq-AL,calendar,calendar_remove,të lutem pastro kalendarin tim,datetime_query,0.9828,0.0003,False
+7314,sq-AL,calendar,calendar_query,çfarë ka për sot,social_post,0.5291,0.0075,False
+7316,sq-AL,calendar,calendar_query,a kam unë ndonjë takim,qa_factoid,0.7502,0.0027,False
+7319,sq-AL,calendar,calendar_query,çfarë po ndodh sot nga dy katër pasdite,qa_factoid,0.2447,0.0333,False
+7353,sq-AL,email,email_query,thjesht më njoftoni motin e javës tjetër në shqipëri,social_post,0.9991,0.0,False
+7355,sq-AL,calendar,calendar_set,më kujto të kontrolloj gjellën në orën gjashtë,iot_hue_lightoff,0.2408,0.0552,False
+7380,sq-AL,calendar,calendar_query,të lutem më trego takimin e sotëm me klientët,recommendation_events,0.621,0.0037,False
+7397,sq-AL,calendar,calendar_query,a ka ndonjë event të planifikuar në tre muajt e ardhshëm,calendar_remove,0.4539,0.0162,False
+7449,sq-AL,calendar,calendar_set,të lutem programo një takim me këtë person,social_post,0.8663,0.0021,False
+7450,sq-AL,calendar,calendar_set,unë dua të programohet një takim me këtë person,social_post,0.7692,0.0022,False
+7455,sq-AL,calendar,calendar_set,më kujto për festën nesër,calendar_remove,0.3728,0.0379,False
+7461,sq-AL,calendar,calendar_set,fto njerëz në eventin kalendarik,qa_factoid,0.9443,0.0002,False
+7463,sq-AL,calendar,calendar_set,informo grupin tim që data e re e mbledhjes është nesër,email_sendemail,0.7451,0.0039,False
+7467,sq-AL,calendar,calendar_query,më jep kohën e ngjarjeve,weather_query,0.9125,0.0004,False
+7477,sq-AL,calendar,calendar_set,më kujto në pesë mars të çdo viti të rregulloj dhurata për përvjetorin e dasmës,cooking_recipe,0.3038,0.0203,False
+7496,sq-AL,calendar,calendar_query,a kam takime për sot,qa_factoid,0.9994,0.0,False
+7499,sq-AL,calendar,calendar_set,bëj një program të ri për mbledhjen e nesërme,cooking_recipe,0.9988,0.0,False
+7500,sq-AL,calendar,calendar_remove,a mund t'a fshish eventin e rradhës,qa_factoid,0.7896,0.0006,False
+7502,sq-AL,calendar,calendar_query,çfarë ka në axhendë për mbledhjen në katër pasdite me jonin,qa_definition,0.7006,0.0021,False
+7503,sq-AL,calendar,calendar_query,ku në tiranë është ajo mbledhja në një të drekës të premten,iot_hue_lightoff,0.4371,0.0263,False
+7520,sq-AL,calendar,calendar_set,më kujto çdo ditë në dy pasdite për drekë,calendar_remove,0.9408,0.0121,False
+7524,sq-AL,calendar,calendar_query,sa ishte i gatshëm të investonte eridiani në kompaninë time në takimin e zhvilluar sot në pesë e njëzet pasdite,recommendation_events,0.8526,0.0067,False
+7528,sq-AL,calendar,calendar_set,trembëdhjetë qershor është një ditë e rezultatit të zgjedhjeve të lutem vendose atë,datetime_query,0.663,0.0043,False
+7531,sq-AL,calendar,calendar_set,të lutem shto ditët e pagesës,iot_hue_lightoff,0.3576,0.0027,False
+7539,sq-AL,calendar,calendar_query,a kam ndojë gjë që po shkon,social_post,0.4029,0.0039,False
+7542,sq-AL,calendar,calendar_set,të lutem më kujto për këtë nesër,weather_query,0.7827,0.0035,False
+7549,sq-AL,calendar,calendar_set,unë dua një mbledhje në orën tre,iot_hue_lightoff,0.4401,0.0046,False
+7556,sq-AL,calendar,calendar_set,vendose kalendarin tim të më kujtojë të blej ushqime çdo të premte,cooking_recipe,0.1824,0.0496,False
+7557,sq-AL,calendar,calendar_set,bëj një kujtesë të vendndodhjes a në kalendar,calendar_remove,0.8152,0.0231,False
+7559,sq-AL,calendar,calendar_set,më kujto sot të marr rrobat nga pastrimi kimik në tetë pasdite,cooking_recipe,0.9281,0.002,False
+7563,sq-AL,calendar,calendar_set,më kujto për takimin nesër një orë më parë,social_post,0.3853,0.0185,False
+7565,sq-AL,calendar,calendar_set,kujtesë mbledhjeje,iot_hue_lightoff,0.7978,0.0024,False
+7567,sq-AL,calendar,calendar_set,ditëlindje,qa_factoid,0.9997,0.0,False
+7569,sq-AL,calendar,calendar_query,plani për nesër,calendar_remove,0.3855,0.0205,False
+7570,sq-AL,calendar,calendar_query,cili është plani për sot,cooking_recipe,0.6346,0.0152,False
+7583,sq-AL,calendar,calendar_set,beni shto event në kalendarin tënd,calendar_remove,0.4945,0.0284,False
+7596,sq-AL,calendar,calendar_set,të lutem programo një takim me denisin në qendër pasdite,cooking_recipe,0.6862,0.0021,False
+7598,sq-AL,calendar,calendar_set,ju lutemi caktoni një takim për të diskutuar terrorizmin me albin në ditën tjetër të takimit të lirë të radhës,qa_factoid,0.8661,0.0042,False
+7606,sq-AL,calendar,calendar_set,takohu me xhonin nesër në tre,social_post,0.9979,0.0001,False
+7609,sq-AL,calendar,calendar_remove,hiq kujtesën për mbledhjen të martën,iot_hue_lightoff,0.9547,0.009,False
+7613,sq-AL,calendar,calendar_query,cila është ngjarja e radhës,qa_factoid,0.9947,0.0,False
+7628,sq-AL,calendar,calendar_set,më kujto kur të jem te libraria që të marr një kartë të re librarie,qa_factoid,0.9415,0.0016,False
+7654,sq-AL,calendar,calendar_set,shëno njëzet prill si ditëlindja e vëllait tim,email_sendemail,0.9698,0.0009,False
+7655,sq-AL,calendar,calendar_set,shto një kujtesë për njëzet prill si ditëlindja e vëllait tim,email_sendemail,0.9999,0.0,False
+7660,sq-AL,calendar,calendar_remove,anulo të gjitha takimet e mia pas tre pasdite sot dhe më informo për detajet,calendar_remove,0.7217,0.7217,True
+7662,sq-AL,calendar,calendar_query,a mund të listosh mbledhjet e mia sot,lists_remove,0.8393,0.0005,False
+7664,sq-AL,calendar,calendar_set,shto një drekë me marion,social_post,0.3472,0.0074,False
+7666,sq-AL,calendar,calendar_set,a do ta shënosh që kam një mbledhje me eltonin nesër në tre,qa_factoid,0.4255,0.0094,False
+7680,sq-AL,calendar,calendar_remove,në kalendarin tim fshi të gjitha eventet e golfit për muajin aktual,lists_remove,0.9594,0.0098,False
+7686,sq-AL,calendar,calendar_set,përfshi erjonin dhe eltonin në kalendarin e festivalit,qa_factoid,0.1449,0.0376,False
+7690,sq-AL,calendar,calendar_query,çfarë ngjarjesh po më afrohen,social_post,0.9793,0.0002,False
+7693,sq-AL,calendar,calendar_query,a kam unë ndonjë gjë të planifikuar për njëzet e një,calendar_remove,0.4009,0.0146,False
+7697,sq-AL,calendar,calendar_set,vendos një kujtesë për këtë,calendar_remove,0.8801,0.0027,False
+7711,sq-AL,calendar,calendar_set,hej anulo të gjitha mbledhjet e mia dhe telefonatat për dy mars duke qënë se është ditëlindja e xhinos etiketoje atë si një event në kalendarin tënd,recommendation_events,0.1634,0.0308,False
+7712,sq-AL,calendar,calendar_set,hej oli anulo të gjitha mbledhjet e tjera të mia dhe telefonatat për dy mars duke qënë se është ditëlindja e eltonit shënoje si event në kalendarin tënd,email_sendemail,0.6717,0.0065,False
+7718,sq-AL,calendar,calendar_set,hej dërgo një ftesë mbledhje te z. simoni për mbledhjen këtë të premte dhe blloko kalendarin tim për të premten pasdite,calendar_remove,0.3287,0.0198,False
+7726,sq-AL,calendar,calendar_set,unë duhet të bëj diçka çdo të hënë vendos një kujtesë për këtë,cooking_recipe,0.9949,0.0003,False
+7730,sq-AL,calendar,calendar_set,unë duhet të shënoj të hënën e ardhshme,calendar_remove,0.6485,0.0201,False
+7741,sq-AL,calendar,calendar_remove,pastro kalendarin tim për të shtunën,calendar_remove,0.5365,0.5365,True
+7751,sq-AL,calendar,calendar_set,më kujto çdo të hënë të nxjerr plehrat,play_music,0.8573,0.0012,False
+7762,sq-AL,calendar,calendar_query,çfarë kujtesash kam unë,qa_factoid,0.9994,0.0,False
+7767,sq-AL,calendar,calendar_set,shto stërvitje në kalendar në katër shkurt te parku i liqenit në dy pasdite,calendar_remove,0.4205,0.0334,False
+7768,sq-AL,calendar,calendar_set,të lutem shto stërvitje në katër shkurt te parku i liqenit në dy pasdite,iot_hue_lightoff,0.2213,0.0291,False
+7774,sq-AL,calendar,calendar_set,shto shopping në kalendarin tim për nesër,calendar_remove,0.917,0.0013,False
+7777,sq-AL,calendar,calendar_query,a kam takim sot,qa_factoid,0.9995,0.0,False
+7778,sq-AL,calendar,calendar_set,më kujto se çfarë do të bëj të dielën pasdite,cooking_recipe,0.9942,0.0006,False
+7808,sq-AL,calendar,calendar_set,më kujto që do të çoj mamin tek floktorja të enjten në njëmbëdhjetë paradite,weather_query,0.4967,0.0093,False
+7817,sq-AL,calendar,calendar_query,a është e vërtetë kjo për këtë takim,qa_factoid,0.9997,0.0,False
+7820,sq-AL,calendar,calendar_remove,fshi të gjitha eventet në kalendar,lists_remove,0.4539,0.0063,False
+7836,sq-AL,calendar,calendar_remove,fshi të gjitha eventet,social_post,0.7788,0.002,False
+7843,sq-AL,calendar,calendar_set,më vër në dijeni në dy orë që unë duhet të nisem për te kursi i violinës që është te akademia në katër pasdite,calendar_remove,0.7563,0.0116,False
+7844,sq-AL,calendar,calendar_query,çfarë kujtesash vendosa unë,qa_factoid,0.9998,0.0,False
+7847,sq-AL,calendar,calendar_set,më lajmëroni kur të hapet rregjistrimi,transport_query,0.3944,0.0088,False
+7851,sq-AL,calendar,calendar_set,unë kam një mbledhje sot pasdite,iot_hue_lightoff,0.5226,0.0154,False
+7863,sq-AL,calendar,calendar_set,më kujto të filloj darkën këtë pasdite në pesë,cooking_recipe,0.9421,0.003,False
+7870,sq-AL,calendar,calendar_remove,fshi eventin nga kalendari,calendar_remove,0.5278,0.5278,True
+7876,sq-AL,news,news_query,çfarë ka ndodhur dy muajt e fundit,qa_factoid,0.9587,0.0011,False
+7878,sq-AL,calendar,calendar_remove,fshi kalendarin tim,qa_factoid,0.755,0.0053,False
+7879,sq-AL,calendar,calendar_query,cilat janë tre ngjarjet e mia të ardhshme,qa_factoid,0.5846,0.0075,False
+7889,sq-AL,calendar,calendar_query,në çfarë ore do jetë ndeshja e futbollit sonte,qa_factoid,0.4154,0.0148,False
+7890,sq-AL,calendar,calendar_remove,hiq prerjen e flokëve sot,iot_hue_lightoff,0.9998,0.0,False
+7891,sq-AL,calendar,calendar_remove,anulo darkën sonte,iot_hue_lightoff,0.7379,0.0026,False
+7892,sq-AL,calendar,calendar_remove,fshi eventin e rradhës sot,social_post,0.8348,0.0012,False
+7894,sq-AL,calendar,calendar_set,më jep një përditësim për zgjedhjet në një orë,qa_factoid,0.9951,0.0002,False
+7902,sq-AL,calendar,calendar_set,organizo një takim midis meje edhe gjonit për nesër në orën dy pasdite,social_post,0.4484,0.0183,False
+7908,sq-AL,calendar,calendar_query,a duhet të bëj ndonjë gjë sot,cooking_recipe,0.9816,0.0007,False
+7912,sq-AL,calendar,calendar_remove,alexa hiqe nga kalendari darkën me majkun,iot_hue_lightoff,0.9869,0.0003,False
+7916,sq-AL,calendar,calendar_set,më kujto që të hedh mbeturinat në orën gjashtë pasdite,cooking_recipe,0.9943,0.0001,False
+7918,sq-AL,calendar,calendar_set,ngjarje në kalendar dërgo ftesë arben hoxhës,qa_factoid,0.3498,0.0101,False
+7919,sq-AL,calendar,calendar_set,takim i ri me arbenin dhe anën si pjesmarrës,qa_factoid,0.7743,0.0047,False
+7922,sq-AL,calendar,calendar_remove,hap shënimet dhe fshi ngjarjet e ardhshme,play_music,0.1277,0.0476,False
+7927,sq-AL,calendar,calendar_query,çfarë duhet të bëj këtë javë,cooking_recipe,0.9777,0.0009,False
+7946,sq-AL,calendar,calendar_query,cilat janë koncertet e rradhës në vlorë,play_music,0.9373,0.0001,False
+7953,sq-AL,calendar,calendar_remove,të lutem fshije takimin me mjekun tim të shtunën,social_post,0.7503,0.0168,False
+7955,sq-AL,calendar,calendar_set,vendos këtë ngjarje në një model të përsëritur në kalendarin tim,qa_factoid,0.7799,0.0101,False
+7956,sq-AL,calendar,calendar_set,a mund ta bëni këtë ngjarje përsëritëse,cooking_recipe,0.9685,0.0,False
+7966,sq-AL,calendar,calendar_query,a të thashë të më kujtoje diçka,social_post,0.7935,0.0025,False
+7970,sq-AL,calendar,calendar_set,më kujto për dasmën në kohë për të blerë një dhuratë,qa_factoid,0.2389,0.0156,False
+7971,sq-AL,calendar,calendar_set,vendos një kujtesë për dy ditë përpara ngjarjes,calendar_remove,0.9821,0.0007,False
+7975,sq-AL,calendar,calendar_query,a ka shërbim kateringu tek eventi,qa_factoid,0.7674,0.0067,False
+7978,sq-AL,calendar,calendar_query,çfarë kujtesash kam planifikuar përpara mesditës nesër,lists_remove,0.1985,0.0292,False
+7980,sq-AL,calendar,calendar_set,më thuaj kur unë kam një ngjarje,social_post,0.9376,0.0012,False
+7981,sq-AL,calendar,calendar_set,dërgo një lajmërim para mbledhjes,iot_hue_lightoff,0.8647,0.0022,False
+7993,sq-AL,calendar,calendar_remove,fshije të gjitha ngjarjet nga kalendari im,calendar_remove,0.9881,0.9881,True
+8001,sq-AL,calendar,calendar_remove,a mund të anullosh prerje flokësh që unë kam planifikuar për të premten,qa_factoid,0.6943,0.017,False
+8004,sq-AL,calendar,calendar_set,klea do të flasë me mua për divorcin mund të vendosësh një takim sapo të jem i lirë të lutem,qa_factoid,0.9375,0.0011,False
+8005,sq-AL,calendar,calendar_set,të hënën datë njëzet unë duhet të bëj një diskutim me arbenin për udhëtimin e fundjavës,datetime_query,0.8767,0.0042,False
+8013,sq-AL,calendar,calendar_query,më trego takimet e mia për muajin tjetër,news_query,0.488,0.0161,False
+8029,sq-AL,calendar,calendar_query,çfarë ngjarjesh do të ndodhin sot,qa_factoid,0.8251,0.0036,False
+8033,sq-AL,datetime,datetime_query,në cilën ditë janë pashkët,weather_query,0.9966,0.0004,False
+8035,sq-AL,calendar,calendar_set,më kujto të ndërroj vajin,iot_hue_lightoff,0.4285,0.0077,False
+8037,sq-AL,calendar,calendar_set,më kujto një gjë ndonjëherë,social_post,0.4035,0.0096,False
+8042,sq-AL,calendar,calendar_query,sa njerëz do paraqiten te mbledhja ime e rradhës,qa_factoid,0.9976,0.0001,False
+8043,sq-AL,calendar,calendar_query,çfarë ore është takimi im i rradhës,qa_factoid,0.9762,0.0011,False
+8044,sq-AL,calendar,calendar_query,çfarë ka axhenda ime sot,email_sendemail,1.0,0.0,False
+8055,sq-AL,calendar,calendar_remove,fshi takimin tim në shtatë mars,social_post,0.7381,0.0058,False
+8056,sq-AL,calendar,calendar_query,a kam takim të premten,qa_factoid,0.9996,0.0,False
+8058,sq-AL,calendar,calendar_query,a kam takim shitjesh sot,social_post,0.9922,0.0003,False
+8073,sq-AL,calendar,calendar_set,planifiko një takim shitjesh për të mërkurën në njëmbëdhjetë paradite,calendar_set,0.4059,0.4059,True
+8079,sq-AL,calendar,calendar_set,vendos një kujtesë pas një ore për të pjekur bukën,cooking_recipe,0.9744,0.0001,False
+8084,sq-AL,calendar,calendar_query,cila është axhenda eventit,email_sendemail,0.6766,0.0063,False
+8085,sq-AL,calendar,calendar_set,do doja të vendos një takim për këtë javë,recommendation_events,0.979,0.0,False
+8100,sq-AL,email,email_sendemail,dërgoi email takimeve të mia për t'i planifikuar sërish,email_sendemail,1.0,1.0,True
+8107,sq-AL,calendar,calendar_set,vendos një event ditëlindje për eltonin,email_sendemail,0.8566,0.0003,False
+8110,sq-AL,calendar,calendar_set,të lutem shto mbikëqyrjen në kalendarin tim,cooking_recipe,0.3608,0.0138,False
+8116,sq-AL,calendar,calendar_query,në kohëzgjatjen nga një shkurti deri në gjashtëmbëdhjetë mars çfarë takimesh u zhvilluan,qa_factoid,0.9952,0.0002,False
+8119,sq-AL,calendar,calendar_query,ku po festohet festa e ditëlindjes së merit,social_post,0.9827,0.0004,False
+8125,sq-AL,calendar,calendar_set,krijo një event mbledhje në kalendarin tim,calendar_remove,0.3295,0.0257,False
+8126,sq-AL,calendar,calendar_set,programo një takim në kalendarin tim,play_podcasts,0.465,0.001,False
+8129,sq-AL,calendar,calendar_query,cilat kujtesa i kam akoma,iot_hue_lightoff,0.8875,0.0,False
+8140,sq-AL,calendar,calendar_set,vendos një kujtesë me trembëdhjetë që unë kam një drekë me albin,calendar_remove,0.4912,0.0121,False
+8148,sq-AL,calendar,calendar_query,a i kam lënë vetes ndonjë kujtesë,social_post,0.8849,0.0009,False
+8150,sq-AL,calendar,calendar_query,a ka ndonjë kujtesë për festë ditëlindjeje,calendar_remove,0.2452,0.0161,False
+8165,sq-AL,calendar,calendar_query,në orën dymbëdhjetë e tridhjetë në mesditë ti do të kesh tashmë një takim për dhjetë minuta,datetime_query,0.6788,0.0035,False
+8182,sq-AL,calendar,calendar_remove,mund ta fshish takimin e dentistit,cooking_recipe,0.8544,0.0053,False
+8188,sq-AL,calendar,calendar_query,çfar date është,datetime_query,0.8956,0.0001,False
+8204,sq-AL,calendar,calendar_set,të lutem më kujto të shkoj në postë,social_post,0.9956,0.0002,False
+8206,sq-AL,calendar,calendar_set,mos më lër të harroj të blej një dhuratë për motrën,cooking_recipe,0.775,0.005,False
+8230,sq-AL,calendar,calendar_query,sa do zgjasë dreka ime e punës të martën,calendar_remove,0.2306,0.0603,False
+8241,sq-AL,calendar,calendar_remove,pastro gjithçka nga kalendari im për pjesën tjetër të vitit,calendar_remove,0.9741,0.9741,True
+8245,sq-AL,calendar,calendar_set,më duhet të njoftohem për shërbesat e kishës të dielave në orën njëmbëdhjetë paradite,weather_query,0.7821,0.0004,False
+8248,sq-AL,calendar,calendar_set,shto takimin e darkës ditën e nesërme në kalendar,calendar_remove,0.981,0.0004,False
+8251,sq-AL,calendar,calendar_set,unë dua të vendosësh ne kalendar drekën e javës së ardhshme,lists_remove,0.6417,0.0126,False
+8260,sq-AL,calendar,calendar_set,të lutem më njofto një ditë para ditëlindjes së janaqit,qa_factoid,0.6923,0.0018,False
+8261,sq-AL,calendar,calendar_set,më dërgo një njoftim një orë përpara takimit tim të rradhës,qa_factoid,0.6366,0.0008,False
+8269,sq-AL,calendar,calendar_set,një kujtesë tridhjetë minuta në takimin e së martës,datetime_query,0.3915,0.0161,False
+8276,sq-AL,calendar,calendar_remove,hiq takimet e mia të programuara të rradhës të lutem,play_podcasts,0.4241,0.006,False
+8280,sq-AL,calendar,calendar_set,më duhet të vendosnjë kujtesë në pesëmbëdhjetë mars,weather_query,0.5218,0.0015,False
+8284,sq-AL,calendar,calendar_remove,hiq ditëlindjen nga kalendari,qa_factoid,0.949,0.0009,False
+8289,sq-AL,calendar,calendar_set,vendos një kujtesë për takimin e sotëm të fakultetit në katër,calendar_remove,0.9054,0.0029,False
+8290,sq-AL,calendar,calendar_set,hap një kujtesë rreth takimit të menaxherëve javës së ardhshme të martën,social_post,0.7377,0.0177,False
+8294,sq-AL,calendar,calendar_set,shto në kalendar dhe përsërite,calendar_remove,0.7688,0.0049,False
+8300,sq-AL,calendar,calendar_set,ruaj eventin për pesë pasdite në gjashtë pasdite në tetëmbëdhjetë mars,recommendation_events,0.9988,0.0001,False
+8302,sq-AL,calendar,calendar_remove,hiq mbledhjen e së hënës së ardhshme,iot_hue_lightoff,0.9581,0.001,False
+8308,sq-AL,news,news_query,për çfarë ishte protesta dje në drekë në laprakë,social_post,0.9999,0.0,False
+8336,sq-AL,calendar,calendar_query,kur është mëngjesi im me xhenin,iot_hue_lightoff,0.6645,0.0046,False
+8343,sq-AL,datetime,datetime_query,është e mërkurë,weather_query,0.9987,0.0001,False
+8345,sq-AL,calendar,calendar_set,më vër në dijeni kur do ndodhë mbledhja,iot_hue_lightoff,0.5882,0.01,False
+8347,sq-AL,calendar,calendar_query,çfarë do të ndodhi në katër dhjetor,datetime_query,0.7834,0.0061,False
+8358,sq-AL,calendar,calendar_set,më kujto për këtë,qa_factoid,0.7657,0.0049,False
+8366,sq-AL,calendar,calendar_set,bëje tetëmbëdhjetë mars një takim të përsëritur për ditëlindjen e luizës,qa_factoid,0.4396,0.0208,False
+8387,sq-AL,calendar,calendar_set,krijo një kujtesë për të larë rrobat në tetë pasdite,cooking_recipe,0.6493,0.0044,False
+8388,sq-AL,calendar,calendar_set,unë dua të laj rrobat në tetë pasdite krijo kujtesë,social_post,0.3307,0.0047,False
+8390,sq-AL,calendar,calendar_set,më kujto për mbledhjen time në,iot_hue_lightoff,0.487,0.0101,False
+8394,sq-AL,calendar,calendar_set,vendos një kujtesë çdo ditë në mesditë për të marr ilaçet,calendar_remove,0.6552,0.2171,False
+8404,sq-AL,calendar,calendar_query,dua të di më shumë për këtë event,qa_factoid,0.5418,0.004,False
+8409,sq-AL,calendar,calendar_remove,fshi darkën time nesër,weather_query,0.961,0.0011,False
+8410,sq-AL,calendar,calendar_remove,hiq eventin tim të darkës për të hënën,calendar_remove,0.975,0.975,True
+8413,sq-AL,calendar,calendar_set,të lutem më njofto,qa_factoid,0.9605,0.0001,False
+8414,sq-AL,calendar,calendar_set,më kujto të shkoj në darkë me donaldin të premten në pesë pasdite,weather_query,0.7334,0.0035,False
+8415,sq-AL,calendar,calendar_set,shto një mbledhje në zyrë me bernardin për tre pasdite të martën,iot_hue_lightoff,0.471,0.0088,False
+8426,sq-AL,calendar,calendar_query,më trego ngjarjet aktuale midis të djeshmes dhe këtij mëngjesi,news_query,0.8126,0.0054,False
+8430,sq-AL,calendar,calendar_remove,anulo të gjitha takimet e mia,qa_factoid,0.671,0.0362,False
+8431,sq-AL,calendar,calendar_remove,elemino të gjitha eventet e mia të programuara,lists_remove,0.6072,0.0023,False
+8436,sq-AL,calendar,calendar_set,të lutem vendos takim dreke në dymbëdhjetë pasdite për çdo të mërkurë në mars,weather_query,0.8615,0.0034,False
+8442,sq-AL,calendar,calendar_set,të lutem modifiko kalendarin tim me këtë event,recommendation_events,0.5307,0.0109,False
+8449,sq-AL,calendar,calendar_set,vendos një kujtesë për ditëlindjen e vajzës time,calendar_remove,0.8823,0.003,False
+8453,sq-AL,calendar,calendar_set,të lutem vendos eventin në kalendarin tim dhe shënoje si event që përsëritet,qa_factoid,0.4294,0.0117,False
+8460,sq-AL,calendar,calendar_query,më trego eventet e mia,social_post,0.9984,0.0001,False
+8461,sq-AL,calendar,calendar_query,cilat janë planet e mia për muajin maj,qa_factoid,0.2697,0.0255,False
+8466,sq-AL,calendar,calendar_set,kam një mbledhje në nëntë paradite të mërkurën më dërgo një kujtesë,iot_hue_lightoff,0.2795,0.0266,False
+8469,sq-AL,calendar,calendar_query,çfarë është planifikuar në kalendarin tim sot,lists_query,0.5097,0.0498,False
+8474,sq-AL,calendar,calendar_set,shto festën e ditëlindjes së anës për nesër në dy pasdite tek lulishtja në kalendarin tim,calendar_remove,0.9691,0.0006,False
+8494,sq-AL,calendar,calendar_query,si duket axhenda ime sot,email_sendemail,1.0,0.0,False
+8496,sq-AL,calendar,calendar_query,thuaj mbledhjet e mia për nesër në mëngjes,weather_query,0.5576,0.0088,False
+8498,sq-AL,calendar,calendar_query,le të kalojmë mbi të gjitha kujtesat në pritje,lists_remove,0.9099,0.0028,False
+8516,sq-AL,calendar,calendar_remove,fshi elementin e kalendarit,qa_factoid,0.9966,0.0001,False
+8520,sq-AL,calendar,calendar_set,shto eventin në aplikacionin e kalendarit,qa_factoid,0.996,0.0,False
+8525,sq-AL,calendar,calendar_query,kujtesa mbledhjeje nga tre në pesë,iot_hue_lightoff,0.999,0.0,False
+8535,sq-AL,calendar,calendar_set,a do më kujtosh takimin me dentistin që unë kam për dy orë,social_post,0.5308,0.0133,False
+8539,sq-AL,calendar,calendar_set,më kujto rreth,iot_hue_lightoff,0.6027,0.0016,False
+8541,sq-AL,calendar,calendar_set,më kujto të lutem,social_post,0.9011,0.0011,False
+8553,sq-AL,calendar,calendar_set,shto një mbledhje në kalendarin tim për nëntë paradite me eltonin,calendar_remove,0.499,0.0064,False
+8559,sq-AL,calendar,calendar_query,a kam ndonjë gjë të planifikuar për sot,calendar_remove,0.9199,0.0011,False
+8562,sq-AL,calendar,calendar_remove,fshi mbledhjen time për orën dy pasdite sot,iot_hue_lightoff,0.9656,0.0018,False
+8568,sq-AL,calendar,calendar_set,a do t'i dërgosh një ftesë në kalendar benit dhe anës për mëngjes në njëmbëdhjetë paradite të martën,calendar_remove,0.1669,0.0527,False
+8570,sq-AL,calendar,calendar_set,do ta shënosh që unë jam e zënë për një event nesër në dy pasdite,calendar_remove,0.3659,0.0251,False
+8579,sq-AL,calendar,calendar_query,çfarë informacioni duhet të dij unë për mbledhjet e mia sot,cooking_recipe,0.948,0.0018,False
+8585,sq-AL,calendar,calendar_set,më kujto që unë kam një festë ditëlindjeje në tridhjetë,calendar_remove,0.21,0.0389,False
+8598,sq-AL,calendar,calendar_set,më kujto të marr benin në aeroport në dy pasdite,transport_query,0.3322,0.0164,False
+8618,sq-AL,calendar,calendar_set,më kujto të ujit lulet çdo të martë të enjte dhe të shtunë,cooking_recipe,0.6191,0.0074,False
+8631,sq-AL,calendar,calendar_remove,fshije atë nga kalendari im,calendar_remove,0.9982,0.9982,True
+8635,sq-AL,calendar,calendar_set,mund të më kujtosh të porosit gjelin tre javë përpara vitit të ri,qa_factoid,0.2205,0.0189,False
+8640,sq-AL,calendar,calendar_set,unë dua të bëj një shënim në kalendarin tim për eventin nesër në bibliotekë,iot_hue_lightoff,0.3538,0.0657,False
+8642,sq-AL,calendar,calendar_set,shto telefonatën konferenciale në katër pasdite te kujtesat e mia për sot,calendar_remove,0.9594,0.0013,False
+8651,sq-AL,calendar,calendar_set,më njofto për eventin në kalendarin tim,recommendation_events,0.6605,0.0126,False
+8653,sq-AL,calendar,calendar_set,më kujto për eventin në kalendarin tim,recommendation_events,0.7746,0.0262,False
+8666,sq-AL,calendar,calendar_remove,fshij të gjitha eventet nga kalendari im,lists_remove,0.9675,0.0128,False
+8667,sq-AL,calendar,calendar_query,në tre muajt e kaluar sa mbledhje kam bërë unë me z. bregasi,iot_hue_lightoff,0.8566,0.0054,False
+8670,sq-AL,calendar,calendar_remove,hiq eventet nga kalendari,iot_hue_lightoff,0.5293,0.0029,False
+8672,sq-AL,calendar,calendar_query,ku është koncerti i alban skënderaj,play_music,0.9927,0.0001,False
+8674,sq-AL,calendar,calendar_query,ku është mbledhja ime në nëntë paradite,weather_query,0.2578,0.0229,False
+8679,sq-AL,calendar,calendar_query,a është sot dita e sulltan novruzit,weather_query,0.9762,0.0011,False
+8681,sq-AL,calendar,calendar_query,a është ditëlindja e ndonjërit,qa_factoid,0.9996,0.0,False
+8694,sq-AL,calendar,calendar_set,ngjarja do të përfshijë benin dhe anën,iot_hue_lightoff,0.9743,0.0014,False
+8730,sq-AL,calendar,calendar_set,të lutem vendos një kujtesë në kalendarin tim për mbledhjen time në njëzet e pesë mars,weather_query,0.7241,0.008,False
+8732,sq-AL,calendar,calendar_remove,fshi të gjitha datat,qa_factoid,0.7357,0.0077,False
+8762,sq-AL,calendar,calendar_query,më trego programin tim për më vonë këtë pasdite,cooking_recipe,0.9957,0.0002,False
+8765,sq-AL,calendar,calendar_set,vendos darkën time te dy kitarrat në kalendar pë sonte në nëntë,play_music,0.8074,0.0017,False
+8766,sq-AL,calendar,calendar_query,a kam takim të shtunën e njëzet e pesë marsit,social_post,0.9855,0.0008,False
+8767,sq-AL,calendar,calendar_query,a është ditëlindja e xhesikës me datë dymbëdhjetë prill,iot_hue_lightoff,0.8786,0.0005,False
+8769,sq-AL,calendar,calendar_remove,fshi eventin e rradhës,qa_factoid,0.7396,0.0027,False
+8771,sq-AL,calendar,calendar_remove,fshi udhëtimin për blerje që unë kam programuar në njëzet e tre mars,qa_factoid,0.5133,0.0172,False
+8774,sq-AL,calendar,calendar_query,a është orari im për në shtatë korrik plotësisht i lirë,calendar_remove,0.4814,0.0031,False
+8781,sq-AL,calendar,calendar_query,a jam i lirë në orën gjashtëmbëdhjetë,weather_query,0.5235,0.0015,False
+8782,sq-AL,calendar,calendar_query,a kam unë një takim këtë mbasdite,social_post,0.9987,0.0001,False
+8791,sq-AL,calendar,calendar_query,më shumë informacion mbi këtë ngjarje,social_post,0.6386,0.0034,False
+8795,sq-AL,calendar,calendar_query,shfaq kujtesat në pritje,qa_factoid,0.5302,0.0056,False
+8822,sq-AL,recommendation,recommendation_events,informacion mbi ngjarjet e ardhshme,qa_factoid,0.8319,0.0294,False
+8824,sq-AL,calendar,calendar_query,çfarë kam të planifikuar për nëntëmbëdhjetë në dy pasdite,cooking_recipe,0.1901,0.0535,False
+8825,sq-AL,calendar,calendar_set,më dërgo një kujtesë për takimin tim me benin të premten e rradhës,email_sendemail,0.9998,0.0,False
+8828,sq-AL,calendar,calendar_query,a është ngjarja e kalendarit e saktë,qa_factoid,0.9819,0.0006,False
+8846,sq-AL,calendar,calendar_query,a kam unë ndonjë gjë të vendosur për katër korrik këtë vit,qa_factoid,0.3374,0.0379,False
+8853,sq-AL,calendar,calendar_remove,pastro aktivitetin tim të rradhës,qa_factoid,0.7367,0.088,False
+8856,sq-AL,calendar,calendar_remove,fshi të gjitha ngjarjet në kalendar,lists_remove,0.3669,0.0178,False
+8857,sq-AL,calendar,calendar_set,kujto takimin e rradhës me noizin,cooking_recipe,1.0,0.0,False
+8868,sq-AL,calendar,calendar_set,më kujto të telefonoj mamanë çdo të martë në orën dhjetë,email_sendemail,0.1237,0.0363,False
+8880,sq-AL,calendar,calendar_set,vendos një përkujtues për takimin nesër në orën nëntë të mëngjesit,cooking_recipe,0.9929,0.0001,False
+8888,sq-AL,calendar,calendar_remove,fshije atë,qa_factoid,0.889,0.0001,False
+8900,sq-AL,calendar,calendar_set,vendos kujtesë të përsëritur për çdo të dielë,calendar_remove,0.6248,0.0042,False
+8904,sq-AL,calendar,calendar_query,informacion për eventet e fundit,email_query,0.4332,0.0021,False
+8906,sq-AL,calendar,calendar_set,vendos një datë ngjarje në kalendar me të tjerat,qa_factoid,0.4535,0.0022,False
+8907,sq-AL,calendar,calendar_set,përmend ngjarjen në kalendar me të tjerat,play_radio,0.1183,0.0288,False
+8912,sq-AL,calendar,calendar_query,më trego ngjarjet a kalendarit tim të sotëm pas gjashtës pasdite,calendar_remove,0.597,0.0209,False
+8914,sq-AL,calendar,calendar_query,çfarë ore është takimi im në katër prill,qa_factoid,0.9362,0.0015,False
+8916,sq-AL,calendar,calendar_query,cila është axhenda ime për sot,email_sendemail,0.9762,0.0,False
+8925,sq-AL,calendar,calendar_remove,fshij të gjitha ngjarjet në kalendar,lists_remove,0.6683,0.2429,False
+8939,sq-AL,calendar,calendar_set,baby shower i vajzës së manjolës,social_post,0.9996,0.0,False
+8948,sq-AL,calendar,calendar_set,shto ngjarje për takimin me benin,social_post,0.9311,0.0015,False
+8949,sq-AL,calendar,calendar_remove,të lutem fshi kujtesat e mbetura,social_post,0.9101,0.0014,False
+8958,sq-AL,calendar,calendar_query,orari për mbledhjen e hapur,cooking_recipe,0.6485,0.0014,False
+8960,sq-AL,calendar,calendar_set,unë dua të vendos një alarm në mbrëmje për takimin e rradhës,iot_hue_lightoff,0.9815,0.0004,False
+8967,sq-AL,calendar,calendar_set,më kujto dy ditë para ditëlindjes së gruas,calendar_remove,0.3447,0.0129,False
+8968,sq-AL,calendar,calendar_set,më thuaj diçka të kujtoj këtë javë,social_post,0.6354,0.011,False
+8975,sq-AL,calendar,calendar_query,cilat janë mbledhjet e programuara për sot,qa_factoid,0.209,0.0231,False
+8977,sq-AL,calendar,calendar_set,vetëm vendos kujtesa për faturat që duhet të paguhen,email_sendemail,0.997,0.0,False
+8978,sq-AL,calendar,calendar_set,më thuaj takim të rëndësishëm me shefin gjatë javës,social_post,0.6966,0.0085,False
+8985,sq-AL,calendar,calendar_remove,ok google fshi ditëlindjen e artanit nga kalendari,calendar_remove,0.9993,0.9993,True
+8990,sq-AL,calendar,calendar_set,bëj ngjarje,qa_factoid,0.9996,0.0,False
+8992,sq-AL,calendar,calendar_set,më trego takimet,qa_factoid,0.9931,0.0003,False
+9009,sq-AL,calendar,calendar_remove,hiq eventin e përvjetorit nga kalendari im,iot_hue_lightoff,1.0,0.0,False
+9011,sq-AL,calendar,calendar_query,a është i vërtetë eventi i festës së pavarësisë në katërmbëdhjetë të këtij muaji,qa_factoid,0.4562,0.0237,False
+9014,sq-AL,calendar,calendar_set,të lutem vendos një njoftim në datën njëzet e tre tetor për takimin me kolegun tim,qa_factoid,0.9985,0.0,False
+9015,sq-AL,calendar,calendar_remove,fshi të gjitha ngjarjet në kalendarin tim,news_query,0.2823,0.0224,False
+9019,sq-AL,calendar,calendar_query,takime nga njëzet deri në njëzet e pesë qershor,datetime_query,0.8859,0.0031,False
+9030,sq-AL,calendar,calendar_remove,fshi nga kalendari im takimin tim mjeksor sot,calendar_remove,0.994,0.994,True
+9035,sq-AL,calendar,calendar_query,kujtesa e martesës së taulantit,qa_factoid,0.6403,0.0006,False
+9043,sq-AL,calendar,calendar_set,ngjarjet e ardhshme në kalendar,news_query,0.2604,0.0232,False
+9053,sq-AL,calendar,calendar_set,vendos një kujtesë për mbledhje me monikën të martën,email_sendemail,1.0,0.0,False
+9054,sq-AL,calendar,calendar_set,kujtesë për eventin e mondës të martën,recommendation_events,0.9387,0.0019,False
+9059,sq-AL,calendar,calendar_set,më njofto për kohën e eventit,qa_factoid,0.7872,0.0027,False
+9061,sq-AL,calendar,calendar_query,çfarë informacioni kam unë në kujtesë,qa_factoid,0.8905,0.0031,False
+9062,sq-AL,calendar,calendar_set,a mund të vendosësh ditëlindjen e lenit në njëzet e dy qershor,lists_query,0.275,0.0122,False
+9074,sq-AL,calendar,calendar_remove,të lutem hiq atë ngjarje,qa_factoid,0.8244,0.0001,False
+9088,sq-AL,calendar,calendar_remove,fshi çdo gjë në kalendarin tim,cooking_recipe,0.4522,0.0106,False
+9095,sq-AL,calendar,calendar_remove,hiq darkën e sotme me anxhelën,recommendation_events,0.3542,0.0078,False
+9103,sq-AL,calendar,calendar_query,a ka një takim në kalendarin tim këtë pasdite,social_post,0.9473,0.0008,False
+9107,sq-AL,calendar,calendar_query,në çfarë ore fillon koncerti i eli farës në tre qershor,play_music,0.9995,0.0,False
+9110,sq-AL,calendar,calendar_set,ekspozita dy mijë e shtatëmbëdhjetë në njëzet e pesë mars bëj një shënim për të në datën korresponduese,qa_factoid,0.8438,0.0072,False
+9112,sq-AL,calendar,calendar_set,shtoje këtë në kalendarin tim,qa_factoid,0.7435,0.0033,False
+9114,sq-AL,calendar,calendar_set,bëj kujtesë që përsëritet për këtë event në kalendar,calendar_remove,0.4089,0.0263,False
+9116,sq-AL,calendar,calendar_query,mund ta rivendosësh mbledhjen time,email_sendemail,0.7081,0.0021,False
+9121,sq-AL,calendar,calendar_query,cilat ditë kam rezervuar,qa_factoid,0.994,0.0001,False
+9124,sq-AL,calendar,calendar_set,më trego ngjarjet në kalendarin tim të punës për javën e ardhshme,news_query,0.8793,0.0053,False
+9137,sq-AL,calendar,calendar_query,në çfarë ore mbyllet kafeneja italiane midis drekës e darkës,iot_hue_lightoff,0.9415,0.0016,False
+9138,sq-AL,qa,qa_factoid,kur fillon zyrtarisht kampionati botëror,qa_factoid,0.9696,0.9696,True
+9149,sq-AL,calendar,calendar_query,në çfarë ore supozohet të fillojë darka gala,weather_query,0.8488,0.0276,False
+9153,sq-AL,calendar,calendar_set,të lutem shto darkë me melisën në kalendarin tim të shtunën,cooking_recipe,0.5898,0.0051,False
+9155,sq-AL,calendar,calendar_set,të premten të lutem vendos takimin me dentistin në tre,recommendation_events,0.4686,0.0039,False
+9156,sq-AL,calendar,calendar_set,kujto,qa_factoid,0.9564,0.0,False
+9175,sq-AL,calendar,calendar_query,a është përditësuar kalendari im në dhjetë minutat e fundit,calendar_remove,0.9999,0.0,False
+9182,sq-AL,calendar,calendar_remove,anullo planet e mia për të marr prindërit nga aeroporti,transport_query,0.4688,0.0077,False
+9187,sq-AL,calendar,calendar_set,kërko për klientët që do jenë në mbledhjen,recommendation_events,0.9511,0.0003,False
+9193,sq-AL,calendar,calendar_set,të lutem vendose këtë takim të përsëritet,social_post,0.5772,0.004,False
+9194,sq-AL,calendar,calendar_remove,të lutem hiq këtë event nga kalendari im,calendar_remove,0.9532,0.9532,True
+9197,sq-AL,calendar,calendar_query,çfarë kam unë të planifikuar për këtë javë,cooking_recipe,0.2593,0.0512,False
+9198,sq-AL,calendar,calendar_query,të lutem kontrollo kujtesat e mia,iot_hue_lightoff,0.7844,0.0005,False
+9202,sq-AL,play,play_radio,luaj stacionin tim radiofonik,play_radio,0.9671,0.9671,True
+9204,sq-AL,play,play_radio,hap radio club fm,play_radio,1.0,1.0,True
+9212,sq-AL,play,play_radio,dikush të nisë radion,play_radio,0.9994,0.9994,True
+9216,sq-AL,play,play_radio,luaj stacionin tim,qa_factoid,0.2705,0.0102,False
+9225,sq-AL,play,play_radio,a mund ta ndezësh radion,play_radio,0.9401,0.9401,True
+9233,sq-AL,play,play_radio,hap pandora,qa_factoid,0.9756,0.0002,False
+9236,sq-AL,play,play_radio,shko tek kanali njëqind e gjashtë pikë nëntë,qa_factoid,0.4807,0.0854,False
+9237,sq-AL,play,play_radio,hap radion dhe luaj kanalin njëqind e gjashtë pikë nëntë,play_radio,1.0,1.0,True
+9250,sq-AL,play,play_radio,dua të dëgjoj radio,play_radio,1.0,1.0,True
+9254,sq-AL,play,play_radio,të lutem çoje në nëntëqind e tridhjetë e tetë fm radio tirana,play_music,0.9978,0.0019,False
+9263,sq-AL,play,play_radio,hap aplikacionin e radios,play_radio,0.9999,0.9999,True
+9269,sq-AL,play,play_radio,çoje tek tetëqin e nëntëdhjetë e shtatë fm,qa_factoid,0.8162,0.0201,False
+9270,sq-AL,play,play_radio,thjesht luaj nëntëqind e tridhjetë e shtatë f. m.,play_music,0.8212,0.1227,False
+9275,sq-AL,play,play_radio,vetëm një qind e një f.m. ja vlen të luhet në radio,play_radio,0.9123,0.9123,True
+9284,sq-AL,play,play_radio,luaj f. m.,email_sendemail,0.3528,0.0075,False
+9291,sq-AL,play,play_radio,vendose,iot_hue_lightoff,0.3467,0.0215,False
+9301,sq-AL,play,play_radio,luaj marova,social_post,0.9843,0.0007,False
+9303,sq-AL,play,play_radio,luaj kanalin gold,social_post,0.361,0.0153,False
+9305,sq-AL,play,play_radio,çoje tek hitet klasike,qa_factoid,0.9983,0.0002,False
+9316,sq-AL,play,play_radio,luaj top gold për mua,qa_factoid,0.718,0.0003,False
+9317,sq-AL,play,play_radio,nis radion tani,qa_factoid,0.8692,0.1137,False
+9321,sq-AL,play,play_radio,aktivizoni radion tani,play_radio,1.0,1.0,True
+9323,sq-AL,play,play_radio,fillo pandora,iot_hue_lightoff,0.9912,0.0023,False
+9326,sq-AL,play,play_radio,të lutem luaj top gold radio tani,qa_factoid,0.9998,0.0002,False
+9327,sq-AL,play,play_radio,të lutem skanderizo frekuencën am ne radio tani,play_radio,0.8211,0.8211,True
+9330,sq-AL,play,play_radio,luaj,qa_factoid,0.5144,0.0364,False
+9341,sq-AL,play,play_radio,alexa ndrysho stacionin radiofonik,play_radio,1.0,1.0,True
+9352,sq-AL,play,play_radio,luaj radio të lutem,play_radio,1.0,1.0,True
+9353,sq-AL,play,play_radio,vendos pak muzikë hap radion,play_music,0.8972,0.092,False
+9358,sq-AL,play,play_radio,hap kanalin radiofonik tetëqind e tetëdhjetë e nëntë,play_radio,0.9975,0.9975,True
+9361,sq-AL,play,play_radio,dëgjo radion,play_radio,1.0,1.0,True
+9362,sq-AL,play,play_radio,kanalet radio,play_radio,1.0,1.0,True
+9363,sq-AL,play,play_radio,le të luajmë hite në radio,play_radio,0.9999,0.9999,True
+9364,sq-AL,play,play_radio,le të luajmë hitet muzikore,play_music,0.9999,0.0,False
+9380,sq-AL,play,play_radio,dua që të shkosh tek top gold në radio,play_radio,0.9936,0.9936,True
+9384,sq-AL,play,play_radio,luaj radio club fm,play_radio,1.0,1.0,True
+9394,sq-AL,play,play_radio,e oli luaj radion,play_radio,0.9998,0.9998,True
+9402,sq-AL,play,play_radio,luaj nëntëqind e tetëdhjetë e nëntë në stacionin radiofonik,play_radio,0.9998,0.9998,True
+9406,sq-AL,play,play_radio,fillo kanalin e radios nëntëdhjetë e shtatë pikë tre,iot_hue_lightoff,0.8727,0.123,False
+9408,sq-AL,play,play_radio,fillo luaj radio,play_radio,1.0,1.0,True
+9426,sq-AL,play,play_radio,dua tëdëgjoj një stacion që luan muzikë popullore,play_music,0.9967,0.0001,False
+9438,sq-AL,play,play_radio,a mund të luash për mua këngë rrep në radio,play_radio,0.7278,0.7278,True
+9457,sq-AL,play,play_music,luaj këngën hape veten,social_post,0.9179,0.0,False
+9460,sq-AL,play,play_music,luaj hip hopin e viteve nëntëdhjetë,play_music,0.9996,0.9996,True
+9471,sq-AL,play,play_radio,hap një stacion muzikor country,play_music,1.0,0.0,False
+9494,sq-AL,play,play_radio,a mund të luash stacionin f. m. që luan këngë pop,play_music,0.9612,0.024,False
+9506,sq-AL,play,play_radio,olly le të dëgjojmë top albania radio,play_radio,1.0,1.0,True
+9507,sq-AL,play,play_radio,të lutem gjej stacionin radio rikoshet që po luan florjan binaj,play_radio,0.934,0.934,True
+9519,sq-AL,play,play_radio,luaj një kanal pop f. m. çfarëdo,play_podcasts,0.252,0.2,False
+9520,sq-AL,play,play_radio,luaj transmetimin e fundt në radio të adi krastës,play_radio,0.9994,0.9994,True
+9524,sq-AL,play,play_radio,hap programin në top gold,qa_factoid,0.9907,0.0001,False
+9528,sq-AL,play,play_radio,hap pak top albania radio dhe vendosi tek bokset e mia,play_radio,1.0,1.0,True
+9541,sq-AL,play,play_radio,luaj këngën jon në radio,play_radio,0.9951,0.9951,True
+9542,sq-AL,play,play_radio,më ler të dëgjoj programin më të fundit me lajme në radio,play_radio,0.9968,0.9968,True
+9545,sq-AL,play,play_radio,dua të dëgjoj adi krasta show,qa_factoid,0.7637,0.0407,False
+9554,sq-AL,play,play_radio,luaj muzikë romantike në radio tirana,play_music,0.9972,0.0026,False
+9561,sq-AL,play,play_radio,luaj top albania radio në radio,play_radio,1.0,1.0,True
+9562,sq-AL,play,play_radio,a mundesh të lutem të luash këtë program për mua,qa_factoid,0.9528,0.0028,False
+9565,sq-AL,play,play_radio,luaj radion me këngë pa ndalim,play_radio,0.9998,0.9998,True
+9568,sq-AL,play,play_radio,luaj serinë e koncerteve live të aurela gaçes,play_music,0.9751,0.0001,False
+9569,sq-AL,play,play_radio,ok google luaj club fm,recommendation_events,0.789,0.108,False
+9577,sq-AL,play,play_radio,ndërroje kanalin në tetëdhjetë e dy pikë katër,cooking_recipe,0.4871,0.0136,False
+9591,sq-AL,play,play_radio,luaj programin rikoshet në nëntëdhjetë e një pikë tre f. m.,qa_factoid,0.4871,0.0016,False
+9592,sq-AL,play,play_podcasts,kërko për podkaste që mbulojnë problemet e burrave,social_post,0.8371,0.1627,False
+9594,sq-AL,play,play_radio,këngë nga club fm,play_music,0.9977,0.001,False
+9601,sq-AL,play,play_radio,luaj radio country,play_radio,0.9538,0.9538,True
+9617,sq-AL,play,play_radio,luaj për mua emisionin e mëngjesit në top albania radio,play_radio,1.0,1.0,True
+9619,sq-AL,play,play_radio,luaj rikoshet tek radio e makinës,play_radio,0.8875,0.8875,True
+9620,sq-AL,play,play_radio,a mund të kem rikoshet në radion e dhomës së gjumit,play_radio,0.997,0.997,True
+9629,sq-AL,play,play_radio,të lutem a mund të më ndihmosh të dëgjoj radio,play_radio,1.0,1.0,True
+9630,sq-AL,play,play_radio,luaj radio club fm për mua,play_radio,1.0,1.0,True
+9632,sq-AL,play,play_radio,radion të lutem,play_radio,0.9972,0.9972,True
+9637,sq-AL,play,play_radio,fillo listën time me këngë në radio tirana,play_radio,0.9627,0.9627,True
+9640,sq-AL,play,play_radio,hap spotify dhe hap stërvitje,play_music,0.9836,0.0,False
+9651,sq-AL,play,play_radio,luaj netflix në p. s. katrën time,play_podcasts,0.9791,0.0003,False
+9656,sq-AL,play,play_music,më luaj një këngë ritmike nga altoparlantët e tu,play_music,1.0,1.0,True
+9706,sq-AL,play,play_music,luaj ja na erdhi viti i ri,weather_query,0.858,0.0012,False
+9707,sq-AL,play,play_music,hap media luaj ja na erdhi viti i ri,social_post,0.4618,0.1264,False
+9738,sq-AL,play,play_music,të lutem a mund të luash muzikë klasike për mua,play_music,0.9991,0.9991,True
+9793,sq-AL,play,play_music,luaj këngët romantike,cooking_recipe,0.3414,0.0342,False
+9795,sq-AL,play,play_music,vazhdo marova,weather_query,0.9335,0.0011,False
+9912,sq-AL,cooking,cooking_recipe,brisilda sa gjatë më duhet ti ziej vezët,qa_factoid,0.6843,0.0004,False
+9918,sq-AL,cooking,cooking_recipe,si mund të gatuaj një pica,cooking_recipe,1.0,1.0,True
+9923,sq-AL,cooking,cooking_recipe,sa gjatë duhet të ziej një vezë,weather_query,0.7676,0.0014,False
+9924,sq-AL,cooking,cooking_recipe,më trego recetën për të gatuar,cooking_recipe,1.0,1.0,True
+9930,sq-AL,cooking,cooking_recipe,për sa kohë duhet të ziej vezën,iot_hue_lightoff,0.5934,0.0106,False
+9931,sq-AL,cooking,cooking_recipe,për sa kohë duhet të ziej vezën,iot_hue_lightoff,0.5934,0.0106,False
+9940,sq-AL,cooking,cooking_recipe,më gjej një recetë për kek me çokollatë,cooking_recipe,1.0,1.0,True
+9941,sq-AL,cooking,cooking_recipe,si mund të gatuaj pulë me gjalpë,cooking_recipe,0.9997,0.9997,True
+9942,sq-AL,cooking,cooking_recipe,çfarë hidhet në një kek me vishnje,cooking_recipe,0.9999,0.9999,True
+9943,sq-AL,cooking,cooking_recipe,sa zgjattë bësh lazanja perimesh,qa_factoid,0.9697,0.0053,False
+9952,sq-AL,cooking,cooking_recipe,më trego një tutorial gatimi,cooking_recipe,0.9996,0.9996,True
+9955,sq-AL,cooking,cooking_recipe,më trego një video si të gatuaj pulë të skuqur,cooking_recipe,0.9956,0.9956,True
+9956,sq-AL,cooking,cooking_recipe,me çfarë mund ta zëvendësoj gjalpin,qa_factoid,0.6021,0.3155,False
+9961,sq-AL,cooking,cooking_recipe,cila është temperatura më e mirë e furrës për të pjekur patatet,qa_factoid,0.9973,0.0016,False
+9962,sq-AL,cooking,cooking_recipe,cila është mënyra më e mirë për të bërë makarona al dente,cooking_recipe,1.0,1.0,True
+9964,sq-AL,cooking,cooking_recipe,njohuri për përpunimin e ushqimit,cooking_recipe,0.9953,0.9953,True
+9966,sq-AL,cooking,cooking_recipe,cila është mënyra më e lehtë për të gatuar makarona,cooking_recipe,0.9996,0.9996,True
+9969,sq-AL,cooking,cooking_recipe,cili përbërës mund të përdoret në vend të shafranit,qa_factoid,0.9504,0.0036,False
+9971,sq-AL,cooking,cooking_recipe,cila e përcjell nxehtësinë më mirë tenxherja me fund bakri apo gize,qa_factoid,0.3144,0.2268,False
+9976,sq-AL,cooking,cooking_recipe,ej robot më trego listën e përbërësve të bukës me vezë,lists_remove,0.8605,0.0472,False
+9977,sq-AL,cooking,cooking_recipe,të lutem kërko në internet dhe shfaq video youtubi të përshtatshme për gatimin e ushqimeve italiane,play_podcasts,0.9744,0.011,False
+9979,sq-AL,cooking,cooking_recipe,më përgatit ca tërshërë,cooking_recipe,0.9599,0.9599,True
+9980,sq-AL,cooking,cooking_recipe,atë që është menuja sot shtoji edhe disa perime të ziera,cooking_recipe,0.999,0.999,True
+9986,sq-AL,cooking,cooking_recipe,duke vluar,email_query,0.6819,0.0138,False
+9994,sq-AL,cooking,cooking_recipe,mund të më thuash recetën e gatimit për gjellën nga mumbai pav baxhi,cooking_recipe,1.0,1.0,True
+10016,sq-AL,cooking,cooking_recipe,cila është procedura e gatimit të gjelit të detit të ditës së falënderimeve në pesë fjali,cooking_recipe,1.0,1.0,True
+10019,sq-AL,cooking,cooking_recipe,të lutem më trego si piqen dymbëdhjetë biskota me tërshërë,cooking_recipe,0.9971,0.9971,True
+10023,sq-AL,cooking,cooking_recipe,çfarë më duhet për të bërë tavë kosi,cooking_recipe,0.9994,0.9994,True
+10027,sq-AL,cooking,cooking_recipe,udhëzime për të gatuar një vakt,cooking_recipe,0.5801,0.5801,True
+10031,sq-AL,cooking,cooking_recipe,unë kam nevojë për një recetë që përbëhet nga përbërës që janë në listën time të pazarit,cooking_recipe,0.8184,0.8184,True
+10038,sq-AL,cooking,cooking_recipe,kam nevojë për disa ide të mira për të gatuar,recommendation_events,0.9412,0.0021,False
+10045,sq-AL,cooking,cooking_recipe,a mund të më japësh një recetë për supë me pulë dhe fidhe të bërë në shtëpi,cooking_recipe,1.0,1.0,True
+10048,sq-AL,cooking,cooking_recipe,si të gatuaj një gjel deti,cooking_recipe,0.9998,0.9998,True
+10049,sq-AL,cooking,cooking_recipe,më trego si të bëj një tost me djath,cooking_recipe,0.9999,0.9999,True
+10053,sq-AL,cooking,cooking_recipe,si mund të gatuaj pica,cooking_recipe,1.0,1.0,True
+10055,sq-AL,cooking,cooking_recipe,cila është receta për pulë të skuqur,cooking_recipe,1.0,1.0,True
+10061,sq-AL,cooking,cooking_recipe,çfarë duhet të bëj për darkë,weather_query,0.6548,0.1817,False
+10072,sq-AL,cooking,cooking_recipe,koha e pjekjes së pulës në furrë,social_post,0.9804,0.0173,False
+10076,sq-AL,cooking,cooking_recipe,a mund të zëvendësosh sodë buke me pluhur pjekës,qa_factoid,0.9984,0.0003,False
+10077,sq-AL,cooking,cooking_recipe,gjej një recetë për darkë sonte,cooking_recipe,0.9993,0.9993,True
+10078,sq-AL,cooking,cooking_recipe,çfarë duhet të gatuaj për darkë,cooking_recipe,0.9988,0.9988,True
+10080,sq-AL,cooking,cooking_recipe,le të gatuajmë qofte së bashku,qa_factoid,1.0,0.0,False
+10081,sq-AL,cooking,cooking_recipe,më trego si të gatuaj qofte,qa_factoid,1.0,0.0,False
+10090,sq-AL,cooking,cooking_recipe,a mund të kem një recetë për merluc,cooking_recipe,0.9987,0.9987,True
+10093,sq-AL,cooking,cooking_recipe,si përgatitet lazanja,cooking_recipe,0.8432,0.8432,True
+10097,sq-AL,cooking,cooking_recipe,do dëshiroja një cheeseburger,cooking_recipe,0.9994,0.9994,True
+10099,sq-AL,cooking,cooking_recipe,di si të gatuash rizoto,qa_factoid,0.7078,0.289,False
+10100,sq-AL,cooking,cooking_recipe,a di recetë për rizoto,qa_factoid,0.9996,0.0003,False
+10105,sq-AL,cooking,cooking_recipe,sa kohë duhet ta gatuaj një biftek për të arritur një pjekje mesatare,cooking_recipe,0.9988,0.9988,True
+10107,sq-AL,cooking,cooking_recipe,më duhet një recetë pilafi,cooking_recipe,0.9987,0.9987,True
+10119,sq-AL,cooking,cooking_recipe,për sa kohë e gatuan një gjel deti gjashtë kilogramsh,cooking_recipe,0.9298,0.9298,True
+10125,sq-AL,cooking,cooking_recipe,cili është ndryshimi midis të pjekjes dhe të ziesh,qa_definition,0.9592,0.0032,False
+10132,sq-AL,cooking,cooking_recipe,për sa gjatë duhet të gatuaj një bërxollë për të qenë gjysmë e pjekur,qa_factoid,0.6766,0.2558,False
+10150,sq-AL,cooking,cooking_recipe,si mund të gatuaj tako,qa_factoid,0.9999,0.0001,False
+10156,sq-AL,cooking,cooking_recipe,kam nevojë të mësoj si të gatuaj speca të mbushur,cooking_recipe,0.9992,0.9992,True
+10164,sq-AL,cooking,cooking_recipe,sa kohë duhet t'i gatuaj makaronat,cooking_recipe,0.9999,0.9999,True
+10166,sq-AL,cooking,cooking_recipe,kërko recetën e kekut me mollë,cooking_recipe,0.9999,0.9999,True
+10171,sq-AL,cooking,cooking_recipe,cila është receta për supën e peshkut,cooking_recipe,1.0,1.0,True
+10177,sq-AL,cooking,cooking_recipe,si të gatuash makarona me kungull,cooking_recipe,0.988,0.988,True
+10182,sq-AL,cooking,cooking_recipe,sa vezë më duhen për një omletë,cooking_recipe,0.9422,0.9422,True
+10197,sq-AL,cooking,cooking_recipe,më trego recetën më të mirë për spageti,cooking_recipe,0.9991,0.9991,True
+10206,sq-AL,cooking,cooking_recipe,si përgatitet orizi,qa_factoid,0.4395,0.3541,False
+10213,sq-AL,cooking,cooking_recipe,listë e recetave të famshme të buranisë,cooking_recipe,1.0,1.0,True
+10214,sq-AL,cooking,cooking_recipe,receta që mund të gatuhen në një orë,cooking_recipe,1.0,1.0,True
+10216,sq-AL,cooking,cooking_recipe,kërkoni në ueb për të blerë enë për gatimin e kekëve të vegjël,cooking_recipe,0.9999,0.9999,True
+10217,sq-AL,cooking,cooking_recipe,gjej recetën për japrak në aplikacionin gatime shqiptare,qa_definition,0.8996,0.0861,False
+10220,sq-AL,cooking,cooking_recipe,cilat përbërës më duhen për të pjekur një kek të madh,cooking_recipe,0.9998,0.9998,True
+10224,sq-AL,cooking,cooking_recipe,duhet të jetë shija,weather_query,0.8195,0.0015,False
+10226,sq-AL,cooking,cooking_recipe,më trego recetën për të përgatitur makarona,cooking_recipe,1.0,1.0,True
+10426,sq-AL,lists,lists_query,çfarë tjetër mungon në ditar,qa_factoid,0.791,0.0204,False
+10427,sq-AL,lists,lists_remove,të lutem pastro listën time për pazar,lists_remove,1.0,1.0,True
+10430,sq-AL,lists,lists_remove,fshi elementin e parë në listë,lists_remove,0.985,0.985,True
+10433,sq-AL,lists,lists_remove,hiq listën time të detyrave,lists_remove,0.6588,0.6588,True
+10440,sq-AL,lists,lists_query,ndonjë event të veçantë në listën time,recommendation_events,0.6793,0.013,False
+10442,sq-AL,lists,lists_remove,hiq eventet nga lista ime,iot_hue_lightoff,0.5157,0.0032,False
+10444,sq-AL,lists,lists_remove,fshi artikullin,social_post,0.9972,0.0001,False
+10451,sq-AL,lists,lists_query,çfarë do bëj unë sot,qa_factoid,0.9076,0.0019,False
+10455,sq-AL,lists,lists_query,çfarë është në listën time të gjërave që janë për t'u bërë,lists_query,0.7589,0.7589,True
+10462,sq-AL,lists,lists_remove,fshi një listë,lists_remove,0.9355,0.9355,True
+10493,sq-AL,lists,lists_query,çfarë është për të bërë në listën time,lists_query,0.9857,0.9857,True
+10494,sq-AL,lists,lists_remove,hiq lapsin nga mbajtësja,iot_hue_lightoff,0.8853,0.0001,False
+10497,sq-AL,qa,qa_factoid,mund ta kem listën e hoteleve me pesë yje në paris,lists_query,0.8522,0.0001,False
+10508,sq-AL,lists,lists_remove,hiq artikujt e listës,lists_remove,0.9985,0.9985,True
+10512,sq-AL,lists,lists_query,listo çdo gjë të mbetur në kërkesën time,lists_query,0.9014,0.9014,True
+10523,sq-AL,lists,lists_remove,fshi nga lista e luajtjes lista e këngëve të mia të vjetra në anglisht,lists_remove,0.8944,0.8944,True
+10525,sq-AL,lists,lists_remove,hiq pagesën e makinës sime në kalendarin tim,calendar_remove,0.8764,0.0362,False
+10527,sq-AL,lists,lists_remove,hiq listën,qa_factoid,0.9558,0.039,False
+10534,sq-AL,lists,lists_query,si është lista e gjërave për të bërë sot,lists_query,0.6898,0.6898,True
+10538,sq-AL,lists,lists_query,më përsërit listën e blerjeve,lists_remove,0.999,0.0008,False
+10565,sq-AL,lists,lists_remove,fshij të gjitha listat,lists_remove,0.9968,0.9968,True
+10568,sq-AL,lists,lists_remove,hiq listën me muzikë gold,lists_remove,0.5449,0.5449,True
+10570,sq-AL,lists,lists_query,kontrollo listën detyra për të bërë,lists_remove,0.9606,0.0083,False
+10571,sq-AL,lists,lists_query,android,iot_hue_lightoff,0.2324,0.0685,False
+10577,sq-AL,lists,lists_query,më jep të gjitha listat e mia,lists_remove,0.7208,0.27,False
+10579,sq-AL,lists,lists_remove,rivendos lisën e vendndodhjeve,recommendation_events,0.9674,0.0048,False
+10588,sq-AL,lists,lists_query,më trego përmbajtjen e listës,lists_query,0.999,0.999,True
+10590,sq-AL,lists,lists_remove,hiq rreshtin e dytë nga lista,qa_factoid,1.0,0.0,False
+10655,sq-AL,lists,lists_remove,hiq listën e quajtur irish pub,lists_remove,0.9973,0.9973,True
+10667,sq-AL,lists,lists_query,recito oraret e listës,qa_factoid,0.5078,0.016,False
+10673,sq-AL,lists,lists_remove,ju lutemi hiqni listën e mëposhtme,lists_remove,0.998,0.998,True
+10674,sq-AL,lists,lists_remove,hidh listën aktuale,lists_query,0.9836,0.0159,False
+10679,sq-AL,lists,lists_query,çfarë kam në listë për të bërë sot,lists_query,0.9462,0.9462,True
+10684,sq-AL,lists,lists_query,cilat lista kam vendosur unë,lists_remove,0.9984,0.0002,False
+10687,sq-AL,lists,lists_remove,a ka ndonjë event tregoje pastaj fshije atë,calendar_remove,0.5788,0.0338,False
+10696,sq-AL,lists,lists_remove,zëvendëso,qa_factoid,0.4928,0.007,False
+10699,sq-AL,lists,lists_query,më informo për artikujt në listë,email_query,0.9342,0.0658,False
+10718,sq-AL,lists,lists_remove,a mund ta fshish këtë artikull nga lista,qa_factoid,0.9985,0.0002,False
+10731,sq-AL,lists,lists_query,lexoni se çfarë është në listën time,lists_query,0.9889,0.9889,True
+10743,sq-AL,lists,lists_remove,fshije atë artikull,social_post,0.9331,0.0018,False
+10753,sq-AL,lists,lists_query,çfarë kam hedhur tashmë në listën e spar,lists_remove,0.5564,0.3755,False
+10755,sq-AL,lists,lists_remove,hiq listën time duhet të bëjë,lists_remove,0.9985,0.9985,True
+10756,sq-AL,lists,lists_remove,hiq listën për pazar,lists_remove,1.0,1.0,True
+10757,sq-AL,lists,lists_query,cilët janë artikujt në listën time të blerjeve,lists_query,1.0,1.0,True
+10759,sq-AL,lists,lists_query,më lexo listën time për pazar,lists_remove,1.0,0.0,False
+10760,sq-AL,lists,lists_query,më trego atë listën që kam shkruar dy ditë më parë,lists_remove,1.0,0.0,False
+10770,sq-AL,lists,lists_remove,hiqi drithërat nga lista ime për pazar,lists_remove,0.9824,0.9824,True
+10772,sq-AL,calendar,calendar_remove,hiq takimin me dentistin tim nga orari i sotëm,qa_factoid,0.9719,0.0023,False
+10776,sq-AL,lists,lists_query,a kam unë gati listën ushqimore,lists_remove,0.994,0.0012,False
+10786,sq-AL,lists,lists_remove,pastro listën e aktiviteteve për sot,lists_remove,0.9991,0.9991,True
+10790,sq-AL,lists,lists_remove,fshi sendin nga lista,email_sendemail,0.9973,0.0021,False
+10804,sq-AL,lists,lists_query,më lexo listën e ushqimeve,lists_remove,0.9997,0.0001,False
+10805,sq-AL,lists,lists_query,ju lutem më trego listën që kam unë,lists_remove,1.0,0.0,False
+10808,sq-AL,lists,lists_remove,fshini artikullin e fundit të listuar,lists_remove,0.97,0.97,True
+10824,sq-AL,lists,lists_remove,oli fshi listën,lists_remove,1.0,1.0,True
+10825,sq-AL,lists,lists_remove,hiq listën,qa_factoid,0.9558,0.039,False
+10827,sq-AL,lists,lists_remove,fshini listën sende ushqimore,email_sendemail,1.0,0.0,False
+10828,sq-AL,lists,lists_remove,fshij të gjitha,qa_factoid,0.7022,0.2303,False
+10832,sq-AL,calendar,calendar_query,oli çfarë kam unë të planifikuar në vazhdim,cooking_recipe,0.8594,0.005,False
+10843,sq-AL,lists,lists_remove,hiq qumështin nga lista e ushqimeve,cooking_recipe,0.5145,0.2819,False
+10846,sq-AL,lists,lists_remove,nuk kam para të mjaftueshme për të blerë nintendo tani a mund ta hiqni atë në listën time të dëshirave të amazonit,qa_factoid,0.9578,0.0282,False
+10848,sq-AL,lists,lists_remove,hiqe këtë listë nga të tjerat,lists_remove,0.9998,0.9998,True
+10851,sq-AL,lists,lists_query,cilat janë listat të mia,qa_factoid,0.9942,0.0011,False
+10853,sq-AL,lists,lists_remove,hiqe atë nga aty,qa_factoid,0.9537,0.0,False
+10855,sq-AL,lists,lists_query,më duhet të kontrolloj listën time,lists_remove,0.9735,0.0207,False
+10868,sq-AL,lists,lists_query,oli ndonjë gjë tjetër e mbetur në listën time,lists_remove,1.0,0.0,False
+10887,sq-AL,lists,lists_remove,fshi listën time,lists_remove,0.9398,0.9398,True
+10895,sq-AL,lists,lists_remove,fshije njësinë nga lista ime,lists_remove,0.9543,0.9543,True
+10909,sq-AL,lists,lists_query,oli më lexo axhendën time,qa_factoid,0.9911,0.0001,False
+10927,sq-AL,lists,lists_query,dua të dëgjoj listën time,lists_remove,0.9974,0.0023,False
+10931,sq-AL,lists,lists_query,çfarë është në listën time të këngëve,lists_remove,0.9161,0.0813,False
+10936,sq-AL,lists,lists_remove,hiq listën albumet e preferuara,qa_factoid,1.0,0.0,False
+10954,sq-AL,lists,lists_query,sa lista kam në kontakte,lists_remove,0.9273,0.03,False
+10956,sq-AL,lists,lists_query,cilat grupe janë të listuara tek kontaktet e mia,lists_query,1.0,1.0,True
+10957,sq-AL,lists,lists_query,më kujto sa lista kam unë,lists_remove,0.9999,0.0,False
+10960,sq-AL,lists,lists_remove,hiqe atë nga lista,iot_hue_lightoff,0.6006,0.0031,False
+10970,sq-AL,lists,lists_remove,fshi frazën e fundit,qa_definition,0.9866,0.0004,False
+10979,sq-AL,lists,lists_query,çfarë ka në listë tënde tani,lists_query,0.9978,0.9978,True
+10981,sq-AL,lists,lists_query,më lejo ta di listën,lists_remove,0.9946,0.0049,False
+10985,sq-AL,lists,lists_remove,fshij detyrat e mia për të bërë për këtë javë,lists_remove,0.8318,0.8318,True
+10990,sq-AL,lists,lists_remove,në listën time për të bërë hiq pastrimin e kuzhinës,cooking_recipe,0.9993,0.0005,False
+10999,sq-AL,lists,lists_query,thuaj listën,lists_remove,0.9882,0.0107,False
+11023,sq-AL,lists,lists_remove,hiq listën për pazar,lists_remove,1.0,1.0,True
+11024,sq-AL,lists,lists_remove,fshije listën për të bërë,lists_remove,1.0,1.0,True
+11053,sq-AL,lists,lists_remove,hiq listën google,qa_factoid,0.9861,0.0085,False
+11075,sq-AL,lists,lists_query,sa lista kam,lists_remove,0.9996,0.0002,False
+11081,sq-AL,lists,lists_query,cilat lista janë në fletoren time,qa_factoid,0.6059,0.0802,False
+11085,sq-AL,lists,lists_remove,hiq qumështin nga lista për pazar,lists_remove,0.858,0.858,True
+11098,sq-AL,lists,lists_remove,fshi listën e taksave nga njëmijë e nëntëqind e nëntëdhjeta,lists_remove,1.0,1.0,True
+11107,sq-AL,lists,lists_query,cila është lista ime aktuale,email_sendemail,1.0,0.0,False
+11124,sq-AL,lists,lists_query,listo gjërat në listën time të punës,lists_query,0.7432,0.7432,True
+11125,sq-AL,lists,lists_query,më jep detajet për porosinë e blerjes,lists_query,0.2371,0.2371,True
+11133,sq-AL,lists,lists_remove,fshi listën e miqve që bëra javën e kaluar,lists_remove,0.998,0.998,True
+11154,sq-AL,lists,lists_query,shiko listën e fundit për të bërë,lists_remove,1.0,0.0,False
+11162,sq-AL,lists,lists_remove,dua të heq mollët nga lista,qa_factoid,0.9549,0.0399,False
+11164,sq-AL,lists,lists_remove,larg nga lista,lists_query,0.9761,0.0145,False
+11166,sq-AL,lists,lists_query,hap google ruaj,social_post,0.9998,0.0,False
+11168,sq-AL,lists,lists_remove,fshi listën time,lists_remove,0.9398,0.9398,True
+11172,sq-AL,lists,lists_query,më jep të gjitha listat e disponueshme,lists_query,0.9248,0.9248,True
+11174,sq-AL,lists,lists_query,listo të gjitha listat në paisjen time,lists_query,0.9758,0.9758,True
+11180,sq-AL,calendar,calendar_query,planifikimi i festës time,calendar_remove,0.6729,0.0248,False
+11186,sq-AL,lists,lists_query,unë kam listën e rrobave,lists_remove,0.9999,0.0,False
+11189,sq-AL,lists,lists_query,gjej listën,lists_remove,0.9288,0.063,False
+11204,sq-AL,lists,lists_query,informacione të rëndësishme për shtëpinë,email_sendemail,0.4545,0.0722,False
+11215,sq-AL,lists,lists_query,lista,lists_query,1.0,1.0,True
+11250,sq-AL,lists,lists_query,ma lexo prapë listën ushqimore,lists_remove,0.9855,0.0085,False
+11257,sq-AL,play,play_podcasts,olly luaj regjistrimin e radhës,qa_factoid,0.6912,0.0089,False
+11259,sq-AL,play,play_podcasts,kalo në emisionin radiofonik të radhës,play_radio,0.6765,0.0002,False
+11261,sq-AL,play,play_podcasts,tjetra,qa_factoid,0.3901,0.0177,False
+11265,sq-AL,play,play_podcasts,luaj të radhës,iot_hue_lightoff,0.9516,0.0018,False
+11266,sq-AL,play,play_podcasts,luaj një podcast nga libraria ime,play_podcasts,1.0,1.0,True
+11267,sq-AL,play,play_podcasts,gjej një emision radiofonik interesant rreth fituesit e këngës magjike,play_radio,1.0,0.0,False
+11270,sq-AL,play,play_podcasts,luaj emisionin radiofonik të radhës,play_music,0.8121,0.0006,False
+11272,sq-AL,play,play_podcasts,luaj të radhës,iot_hue_lightoff,0.9516,0.0018,False
+11279,sq-AL,play,play_podcasts,shko tek emisioni radiofonik dhe vendos episodin e radhës të friends,play_radio,0.6822,0.0001,False
+11286,sq-AL,play,play_podcasts,luaj emisionin radiofonik ora e tiranës,play_music,0.9516,0.0002,False
+11296,sq-AL,play,play_podcasts,ngarko të gjitha emisionet e mia radiofonike,play_radio,0.7348,0.0002,False
+11302,sq-AL,play,play_podcasts,luaj emisionin radiofonik një këngë për ty,play_radio,0.9855,0.0,False
+11303,sq-AL,play,play_podcasts,luaj podcastin andi besi të radhës,play_podcasts,0.9631,0.9631,True
+11306,sq-AL,play,play_podcasts,luaj emisionin radiofonik që po dëgjoja dje,play_music,0.9901,0.0009,False
+11318,sq-AL,play,play_podcasts,luaj episodin e radhës të emisionit radiofonik,play_radio,0.9927,0.0,False
+11322,sq-AL,play,play_podcasts,cilat janë emisionet e sotshme më të mira radiofonike,play_music,0.4701,0.0078,False
+11328,sq-AL,play,play_podcasts,luaj emisionin radiofonik rikoshet,play_music,0.958,0.001,False
+11331,sq-AL,play,play_podcasts,më trego emisionin më të mirë radiofonik të këngëve rrok që kanë vlerësim të mirë,play_radio,0.9547,0.004,False
+11335,sq-AL,play,play_music,luaj dhe përziej gjithë këngët e lehta,cooking_recipe,0.9433,0.0388,False
+11339,sq-AL,play,play_podcasts,luaj emisionin tim radiofonik më të shikuar,play_music,0.5759,0.0016,False
+11340,sq-AL,play,play_podcasts,a ka adi krasta një emision të ri radiofonik,play_radio,0.9946,0.0,False
+11341,sq-AL,play,play_podcasts,gjej emisionin radiofonik disney më të fundit,play_radio,0.9128,0.0077,False
+11343,sq-AL,play,play_podcasts,kalo në episodin tjetër të dekster,qa_factoid,0.9851,0.0006,False
+11345,sq-AL,play,play_podcasts,luaj episodin tjetër të emisionit radiofonik,play_radio,0.9942,0.0,False
+11349,sq-AL,play,play_podcasts,olly fillo nga e para emisionin radiofonik që fillova mbrëmë,play_music,0.9735,0.0,False
+11353,sq-AL,play,play_podcasts,më trego emisionet radiofonike,play_radio,0.5967,0.0028,False
+11361,sq-AL,play,play_podcasts,luaj emisionin radiofonik adi krasta show,play_music,0.4136,0.1432,False
+11366,sq-AL,play,play_podcasts,kthehu tek episodi i kaluar i emisionit radiofonik,play_radio,0.8747,0.0001,False
+11368,sq-AL,play,play_podcasts,më luaj emisionin radiofonik të adit,play_music,0.9996,0.0,False
+11376,sq-AL,play,play_podcasts,dua të dëgjoj emisionin radiofonik,play_radio,0.9948,0.0,False
+11384,sq-AL,play,play_podcasts,mund të shkarkosh të lutem filen tim të emisionit radiofonik që ndodhet në internet dhe ta luash vetëm një herë,play_radio,0.9966,0.0002,False
+11409,sq-AL,play,play_podcasts,të lutem kapërce në emisionin tjetër radiofonik,play_music,0.9838,0.0001,False
+11417,sq-AL,play,play_podcasts,fillo episodin tjetër,iot_hue_lightoff,0.9963,0.0,False
+11418,sq-AL,play,play_podcasts,luaj podcastin më të fundit të turjan hyskës,play_podcasts,0.9994,0.9994,True
+11420,sq-AL,play,play_podcasts,fillo të luash emisionin tim radiofonik më të fundit,play_music,0.7404,0.0,False
+11423,sq-AL,play,play_podcasts,ec mbrapa tridhjetë sekonda,qa_factoid,0.4738,0.005,False
+11424,sq-AL,play,play_podcasts,top albania radio,play_radio,1.0,0.0,False
+11426,sq-AL,lists,lists_query,lista më e shikuar,lists_remove,0.6017,0.1747,False
+11427,sq-AL,play,play_podcasts,fillo rikoshet,iot_hue_lightoff,0.9574,0.0003,False
+11437,sq-AL,play,play_podcasts,të lutem luaj emisionin radiofonik për mua,play_music,0.7005,0.0,False
+11438,sq-AL,play,play_podcasts,të lutem kalo tek episodi i radhës i emisionit radiofonik,play_radio,0.8693,0.0001,False
+11442,sq-AL,play,play_podcasts,të lutem luaj emisionin e fundit radiofonik të aldos,play_music,0.8649,0.0001,False
+11451,sq-AL,play,play_podcasts,dua të dëgjoj emisionin e fundit radiofonik rikoshet,play_music,0.5464,0.0002,False
+11453,sq-AL,play,play_podcasts,fillo emisionin radiofonik në një këngë për ty,play_radio,0.9983,0.0,False
+11455,sq-AL,play,play_podcasts,lëviz në seksionin e radhës,play_radio,0.5556,0.0054,False
+11458,sq-AL,play,play_podcasts,shko tek episodi i radhës i emisionit radiofonik,play_radio,0.9904,0.0,False
+11459,sq-AL,play,play_podcasts,shko mbas tek episodi i fundit i këtij emisioni radiofonik,play_radio,0.995,0.0,False
+11460,sq-AL,play,play_podcasts,dua të dëgjoj një emision radiofonik sportiv,play_radio,0.9998,0.0,False
+11467,sq-AL,play,play_podcasts,luaj emisionin e fundit radiofonik të rikoshet,play_music,0.9852,0.0023,False
+11470,sq-AL,play,play_podcasts,luaj emisionin tim radiofonik të preferuar,play_music,0.9992,0.0,False
+11474,sq-AL,play,play_podcasts,vazhdo serinë e emisionit radiofonik,play_music,0.6507,0.0008,False
+11476,sq-AL,play,play_podcasts,luaj emisionin e kaluar radiofonik,play_music,0.9993,0.0,False
+11483,sq-AL,play,play_podcasts,fillo luaj aldo morning show,social_post,0.7887,0.0049,False
+11490,sq-AL,play,play_podcasts,luaj episodin e radhës të emisionit radiofonik,play_radio,0.9927,0.0,False
+11502,sq-AL,play,play_podcasts,butoni next,qa_factoid,0.4624,0.0069,False
+11505,sq-AL,play,play_podcasts,përsërit emisionin tim të fundit radiofonik,play_music,0.6477,0.0013,False
+11514,sq-AL,play,play_podcasts,brisilda a mund të dëgjojmë luaj përsëri të gjitha emisionet radiofonike,play_radio,0.8559,0.0049,False
+11515,sq-AL,play,play_podcasts,le të dëgjojmë emisionin radiofonik rikoshet,play_radio,0.9972,0.0,False
+11525,sq-AL,play,play_podcasts,dua të shikoj gati emisionin e radhës radiofonik,play_radio,0.9941,0.0001,False
+11529,sq-AL,play,play_podcasts,hej luaj podkastin tim të preferuar nga lista,play_podcasts,0.9422,0.9422,True
+11536,sq-AL,play,play_podcasts,shto të preferuarat e emisionit radiofonik tek lista me këngë dhe fillo,lists_remove,0.7206,0.0003,False
+11539,sq-AL,play,play_podcasts,fillo emisionin radiofonik të radhës,iot_hue_lightoff,0.9741,0.0001,False
+11546,sq-AL,play,play_podcasts,luaj marova në spotify nga java e kaluar,play_music,0.997,0.0011,False
+11554,sq-AL,play,play_podcasts,dua që të luash emisionin radiofonik,play_radio,0.8835,0.0,False
+11563,sq-AL,recommendation,recommendation_events,çfarë mund të bëj në fier,cooking_recipe,0.9992,0.0,False
+11570,sq-AL,recommendation,recommendation_events,çfarë po ndodh rreth qytetit tim,qa_factoid,0.9999,0.0,False
+11582,sq-AL,recommendation,recommendation_events,a po ndodh diçka me muzikë popullore në korçë,play_music,0.8576,0.0019,False
+11585,sq-AL,recommendation,recommendation_events,ndonjë ngjarje kulturore në shqipëri,social_post,0.996,0.0001,False
+11598,sq-AL,recommendation,recommendation_events,të lutem më njofto eventet e shfaqjeve me qen që ndodhin në qytetin tim,qa_factoid,0.6942,0.0134,False
+11600,sq-AL,recommendation,recommendation_events,çfarë filmi mund të shikoj sonte në kinemanë këtu në tiranë,lists_query,0.3665,0.0766,False
+11610,sq-AL,recommendation,recommendation_events,më jep listën e shfaqjeve të cirkut që po ndodhin në qytet tani,lists_remove,0.8521,0.0009,False
+11612,sq-AL,recommendation,recommendation_events,çfarë shfaqje armësh ka në durrës,qa_factoid,0.7044,0.0016,False
+11616,sq-AL,recommendation,recommendation_events,a ka ndonjë ngjarje që do zhvillohet në qendër të qytetit sonte,qa_factoid,0.5465,0.0178,False
+11643,sq-AL,recommendation,recommendation_events,cilat ngjarje do zhvillohen së shpejti,iot_hue_lightoff,0.5501,0.0235,False
+11644,sq-AL,recommendation,recommendation_events,më trego eventet në durrës,social_post,0.9948,0.0003,False
+11650,sq-AL,recommendation,recommendation_events,të dy shoferët e rinj dhe shoferët e përkohshëm përplasen më shpesh se shoferët e tjerë sepse nuk kanë pasur ende gamën e gjerë të përvojave që u nevojiten për të ngarë të sigurt kanë treguar vetë hulumtimet se përvoja e drejtimit të makinës është një faktor kryesor në reduktimin e aksidenteve rrugore dhe se koha më e sigurt për shoferët e rinj është kur ata janë duke ngarë nën mbikëqyrje ndërsa mësojnë,lists_query,0.1357,0.0451,False
+11681,sq-AL,recommendation,recommendation_events,të lutem më trego maratonën afër meje,social_post,0.7052,0.0035,False
+11685,sq-AL,recommendation,recommendation_events,eventet,qa_factoid,0.9907,0.0001,False
+11705,sq-AL,recommendation,recommendation_events,më trego ekspozitën e pikturës në zonën e gjirit,iot_hue_lightoff,0.2995,0.032,False
+11720,sq-AL,recommendation,recommendation_events,not,qa_factoid,0.9934,0.0001,False
+11767,sq-AL,recommendation,recommendation_events,brisilda cilat evente do zhvillohen në durrës këtë fundjavë,lists_remove,0.6432,0.0186,False
+11770,sq-AL,recommendation,recommendation_events,ndonjë ngjarje këtë fundjavë në tiranë,social_post,0.559,0.023,False
+11782,sq-AL,recommendation,recommendation_events,a ka ndonjë ngjarje speciale afër meje këtë fundjavë,social_post,0.9825,0.0004,False
+11798,sq-AL,recommendation,recommendation_events,cila është ngjarja e radhës në librari,qa_factoid,0.8576,0.0052,False
+11827,sq-AL,recommendation,recommendation_events,ku mund të shkoj sonte,qa_factoid,0.7444,0.0042,False
+11839,sq-AL,recommendation,recommendation_events,çfarë po ndodh përreth meje,social_post,0.8401,0.0036,False
+11841,sq-AL,recommendation,recommendation_events,a ka ndonjë panair artizanal që mbahet në këtë zonë,qa_factoid,0.492,0.1174,False
+11844,sq-AL,recommendation,recommendation_events,ndonjë gjë interesante në zonën e gjirit,email_query,0.7683,0.0046,False
+11845,sq-AL,recommendation,recommendation_events,brisilda më godit me disa ngjarje emocionuese në bregdet,news_query,0.8934,0.0036,False
+11860,sq-AL,recommendation,recommendation_events,më thuaj ngjarjet vendase,qa_factoid,0.9796,0.0011,False
+11867,sq-AL,recommendation,recommendation_events,a ka ndonjë event sportiv nesër në lushnjë,qa_factoid,0.2183,0.0481,False
+11875,sq-AL,recommendation,recommendation_events,a ka festival ushqimi në zonë,social_post,0.34,0.0784,False
+11904,sq-AL,recommendation,recommendation_events,çfarë po ndodh këtu këtë fundjavë,social_post,0.2961,0.0089,False
+11905,sq-AL,recommendation,recommendation_events,brisilda më trego pvr aktivitetet në zonën time këtë fundjavë,lists_remove,0.5311,0.003,False
+11911,sq-AL,recommendation,recommendation_events,do ndodhi ndonjë gjë e mirë këtë fundjavë në zonë,cooking_recipe,0.2953,0.0555,False
+11916,sq-AL,recommendation,recommendation_events,cilat parqe lojrash janë afër,qa_factoid,0.8548,0.0029,False
+11969,sq-AL,recommendation,recommendation_events,a ka ndonjë gjë speciale që po zhvillohet afër,social_post,0.8751,0.0052,False
+11999,sq-AL,recommendation,recommendation_events,më trego të gjitha ngjarjet sot në qytetin tim,news_query,0.9974,0.0005,False
+12008,sq-AL,recommendation,recommendation_events,a ka ndonjë ngjarje argëtuese në shqipëri sot,social_post,0.9982,0.0001,False
+12054,sq-AL,recommendation,recommendation_events,çfarë po ndodh vërdall qytetit,qa_factoid,1.0,0.0,False
+12070,sq-AL,recommendation,recommendation_events,kur hapet qendra tregtare e tiranës,qa_factoid,0.9436,0.0001,False
+12073,sq-AL,recommendation,recommendation_events,trego ngjarjet aktuale lokale,qa_factoid,0.9962,0.0,False
+12098,sq-AL,recommendation,recommendation_events,më trego eventet muzikore vërdallë,play_music,0.6035,0.0007,False
+12189,sq-AL,transport,transport_query,si mund të shkoj te stacioni i trenit për një biletë,transport_query,0.9988,0.9988,True
+12240,sq-AL,transport,transport_query,si është trafiku në rrugën time nga puna në shtëpi në orën pesë,qa_factoid,0.5725,0.3191,False
+12245,sq-AL,transport,transport_query,kur është treni tjetër për në vlorë nga tirana,cooking_recipe,0.1581,0.0408,False
+12251,sq-AL,transport,transport_query,më trego oraret e trenit për në destinacionin fier,weather_query,0.5809,0.002,False
+12252,sq-AL,transport,transport_query,në çfarë ore nisen trenat që shkojnë në fier,cooking_recipe,0.2664,0.0365,False
+12261,sq-AL,transport,transport_query,më trego mundësitë për një tren për berat të mërkurën ose të enjten tjetër,iot_hue_lightoff,0.2613,0.0301,False
+12263,sq-AL,transport,transport_query,shqipëri,social_post,0.9871,0.0001,False
+12264,sq-AL,transport,transport_query,lushnjë,social_post,0.6527,0.0002,False
+12294,sq-AL,transport,transport_query,më trego oraret e trenit për në durrës,social_post,0.1947,0.0105,False
+12310,sq-AL,transport,transport_query,më jep listën e biletave të trenit nga berati në fier,lists_remove,0.9588,0.0001,False
+12343,sq-AL,transport,transport_query,kontrollo orarin e trenit dhjetë mijë e tetë qind e tetëdhjetë e shtatë nga stacioni li trenit të martën,iot_hue_lightoff,0.2384,0.0598,False
+12354,sq-AL,transport,transport_query,më trego orarin e trenit,qa_factoid,0.233,0.0064,False
+12366,sq-AL,transport,transport_query,a ka një tren ndërlidhës nga tirana në prishtinë dhe çfarë ore,iot_hue_lightoff,0.6537,0.0635,False
+12367,sq-AL,transport,transport_query,cila është rruga më e mirë për në fier,qa_factoid,0.7066,0.0012,False
+12376,sq-AL,transport,transport_query,cili është autobuzi i parë për në librazhd,qa_factoid,0.6039,0.0056,False
+12392,sq-AL,transport,transport_query,më thuaj drejtimin e sotëm,qa_factoid,0.414,0.0059,False
+12402,sq-AL,transport,transport_query,kur niset nga këtu treni tjetër që udhëton për në qytet,qa_factoid,0.6218,0.0514,False
+12419,sq-AL,transport,transport_query,rruga më e shpejtë për te pica time,cooking_recipe,0.9999,0.0,False
+12430,sq-AL,transport,transport_query,më thuaj kohën e mërritjes së trenit në fier,weather_query,0.9811,0.0006,False
+12436,sq-AL,transport,transport_query,edhe sa kohë duhet për të arritur në aeroport,transport_query,0.8838,0.8838,True
+12437,sq-AL,transport,transport_query,sa mban rruga për në kinema,transport_query,0.1328,0.1328,True
+12446,sq-AL,transport,transport_query,a mund të më thuash oraret kur treni niset nga shkodra,qa_factoid,0.2103,0.0208,False
+12473,sq-AL,transport,transport_query,si mund të shkoj në shtëpi nga këtu,cooking_recipe,0.4278,0.0117,False
+12526,sq-AL,transport,transport_query,cila është mënyra më e shpejtë për të arritur te mulliri i artë,qa_factoid,0.6873,0.0005,False
+12532,sq-AL,transport,transport_query,drejto rrugën për tek vendi,qa_definition,0.621,0.0019,False
+12581,sq-AL,transport,transport_query,kur niset treni sot,qa_factoid,0.953,0.0001,False
+12582,sq-AL,transport,transport_query,në çfarë ore mbërrin autobusi i parë në mëngjes,qa_factoid,0.5921,0.0029,False
+12604,sq-AL,transport,transport_query,si të prenotoj unë një biletë treni online,qa_factoid,0.9965,0.0006,False
+12618,sq-AL,transport,transport_query,sa kushton një biletë treni vakjtje ardhje për në fier,qa_factoid,0.9523,0.0066,False
+12623,sq-AL,transport,transport_query,a i ke oraret e trenit për në tiranë shqipëri,social_post,0.9252,0.0011,False
+12629,sq-AL,transport,transport_query,në çfarë ore niset treni i parë nga lushnja,cooking_recipe,0.3144,0.011,False
+12634,sq-AL,transport,transport_query,kur niset treni i radhës për në fier,cooking_recipe,0.7364,0.0034,False
+12707,sq-AL,transport,transport_query,kërkim i navigacionit,qa_factoid,0.3248,0.013,False
+12759,sq-AL,transport,transport_query,koha e rrugës me makinë për në librazhd,qa_factoid,0.8764,0.0007,False
+12797,sq-AL,transport,transport_query,orari i trenit afër meje për në vendndodhje,qa_factoid,0.9275,0.0038,False
+12800,sq-AL,transport,transport_query,ku është biblioteka publike,qa_factoid,0.999,0.0,False
+12817,sq-AL,transport,transport_query,si mund të shkoj te qendra tregtare,qa_factoid,0.9996,0.0,False
+12818,sq-AL,transport,transport_query,sa kushton një biletë treni për elbasan,qa_factoid,0.3453,0.0231,False
+12824,sq-AL,transport,transport_query,listo të gjithë oraret e trenave për në lushnjë,social_post,0.8551,0.0002,False
+12835,sq-AL,transport,transport_query,në çfarë ore niset treni,qa_factoid,0.8168,0.001,False
+12839,sq-AL,transport,transport_query,më ço në kombinat,qa_factoid,0.8681,0.0008,False
+12851,sq-AL,transport,transport_query,më shfaq udhëzimet për në shtëpinë time,iot_hue_lightoff,0.416,0.0062,False
+12856,sq-AL,transport,transport_query,drejtimet të lutem,qa_factoid,0.9,0.0006,False
+12866,sq-AL,transport,transport_query,si është orari i autobuzit të unazës,weather_query,0.4332,0.0018,False
+12908,sq-AL,transport,transport_query,kur arrin treni në shkodër,social_post,0.5237,0.0213,False
+12930,sq-AL,transport,transport_query,kërko në hartë dyqanet afër meje,social_post,0.9861,0.0002,False
+12932,sq-AL,transport,transport_query,brisilda më duhen udhëzime pvr te rruga myslym shyri,lists_remove,0.7337,0.0049,False
+12951,sq-AL,qa,qa_factoid,cila është ndërtesa më e lartë në botë,qa_factoid,0.7462,0.7462,True
+12957,sq-AL,qa,qa_definition,përkufizo përpuno,qa_factoid,0.8716,0.0001,False
+12961,sq-AL,qa,qa_definition,të lutem përkufizo mjeko-ligjor,iot_hue_lightoff,0.7182,0.0104,False
+12963,sq-AL,qa,qa_definition,si është përkufizimi për mjeko ligjor,qa_definition,0.9997,0.9997,True
+12972,sq-AL,qa,qa_factoid,cila është maja më e lartë në botë,qa_factoid,1.0,1.0,True
+12982,sq-AL,qa,qa_definition,çfarë do të thotë turbulencë,qa_definition,0.7598,0.7598,True
+12986,sq-AL,qa,qa_definition,kontrollo përkufizimin e tekanjoz,iot_hue_lightoff,0.3888,0.0945,False
+12999,sq-AL,qa,qa_factoid,sa vjeçare është arbana osmani,social_post,0.9303,0.0007,False
+13016,sq-AL,qa,qa_definition,kërko përkufizimin e gafës,qa_definition,0.5246,0.5246,True
+13023,sq-AL,cooking,cooking_recipe,më trego recetat,cooking_recipe,0.9325,0.9325,True
+13069,sq-AL,qa,qa_definition,cilat janë përkufizimet e portokallit,qa_factoid,0.9971,0.002,False
+13074,sq-AL,qa,qa_factoid,pse nuk është adam sandler komik,social_post,0.6929,0.3006,False
+13077,sq-AL,qa,qa_factoid,kur është ditëlindja e renis gjokës,qa_factoid,0.6594,0.6594,True
+13078,sq-AL,qa,qa_factoid,më trego adresën e edi ramës,email_sendemail,1.0,0.0,False
+13099,sq-AL,qa,qa_factoid,kush është kryeministri i britanisë,qa_factoid,1.0,1.0,True
+13115,sq-AL,qa,qa_factoid,cili është kryeqyteti i nigerisë,qa_factoid,0.9989,0.9989,True
+13124,sq-AL,qa,qa_factoid,sa i madh është kozmosi,qa_definition,0.5465,0.069,False
+13135,sq-AL,qa,qa_factoid,kur është data e lindjes e redon makashi,recommendation_events,0.1306,0.1091,False
+13140,sq-AL,qa,qa_definition,më trego për uraganin,news_query,0.896,0.017,False
+13154,sq-AL,qa,qa_factoid,e di numrin e telefonit të arif vladit,qa_factoid,0.9871,0.9871,True
+13165,sq-AL,qa,qa_definition,çka do të thotë lëkund,qa_definition,0.4159,0.4159,True
+13166,sq-AL,qa,qa_definition,shqipto dhe përkufizo oshilacion,qa_definition,0.4186,0.4186,True
+13177,sq-AL,calendar,calendar_set,më kujto të lëviz që të mos shtoj në peshë,cooking_recipe,0.9652,0.0007,False
+13178,sq-AL,calendar,calendar_set,më kujto të kontaktoj miq të vjetër me të cilët nuk kam folur gjashtë muaj para se të kalojnë,social_post,0.9987,0.0001,False
+13188,sq-AL,news,news_query,më trego si do të dalin rezultatet e zgjedhjeve parlamentare në fier,qa_factoid,0.8622,0.0053,False
+13206,sq-AL,qa,qa_definition,lokacioni,qa_factoid,0.9997,0.0,False
+13215,sq-AL,transport,transport_query,cila është rruga më e shpejtë për në punën time nga lapraka pa u bllokuar në trafik,qa_factoid,0.9701,0.0018,False
+13252,sq-AL,qa,qa_factoid,çfarë ishte nëntori i parë i ismail kadaresë,email_sendemail,1.0,0.0,False
+13255,sq-AL,qa,qa_factoid,të lutem më jep informacion për ilir metën,social_post,0.9627,0.0011,False
+13283,sq-AL,qa,qa_factoid,sa para ka fituar bill gejtsi,qa_factoid,0.9987,0.9987,True
+13288,sq-AL,qa,qa_definition,cili është përkufizimi i fjalës pingul,qa_definition,0.9991,0.9991,True
+13297,sq-AL,qa,qa_factoid,kush është personi i famshëm,social_post,0.9963,0.0036,False
+13298,sq-AL,qa,qa_factoid,çfarë bën i famshmi,social_post,0.9711,0.0255,False
+13330,sq-AL,qa,qa_factoid,çfarë madhësie ka sperma e balenës,qa_factoid,0.8352,0.8352,True
+13361,sq-AL,qa,qa_definition,cili është përkufizimi i përhershëm,qa_definition,0.9903,0.9903,True
+13383,sq-AL,qa,qa_factoid,sa shtete kanë dënimin me vdekje,qa_factoid,0.9992,0.9992,True
+13400,sq-AL,social,social_post,dërgoju një mesazh qesharak të gjithë shokëve të mi,social_post,0.995,0.995,True
+13439,sq-AL,qa,qa_factoid,sa vjeç është arben hoxha,iot_hue_lightoff,0.9994,0.0001,False
+13457,sq-AL,calendar,calendar_set,më thuaj kur unë duhet të nisem për nje event të skeduluar që të jem në kohë,qa_factoid,0.9906,0.0002,False
+13473,sq-AL,qa,qa_factoid,kur e mori lirinë shqipëria,social_post,0.9976,0.0003,False
+13487,sq-AL,qa,qa_factoid,olli cili është kryeqyteti i kosovës,qa_factoid,1.0,1.0,True
+13494,sq-AL,qa,qa_definition,më jep përkufizimin e motivimit,qa_factoid,0.7197,0.1796,False
+13506,sq-AL,datetime,datetime_query,mund të më thuash sa është ora,datetime_query,0.604,0.604,True
+13513,sq-AL,qa,qa_factoid,sa këmbë ka një qen,qa_factoid,0.9972,0.9972,True
+13516,sq-AL,qa,qa_factoid,pse janë balenat të mëdha,qa_factoid,0.94,0.94,True
+13546,sq-AL,qa,qa_factoid,cili ishte filmi i fundit ku ka luajtur uill smith,qa_factoid,0.2462,0.2462,True
+13554,sq-AL,qa,qa_factoid,sa i gjatë është alban skënderaj,social_post,0.9354,0.0218,False
+13575,sq-AL,qa,qa_factoid,kur ishte filmi i fundit që fitoi çmim,qa_factoid,1.0,1.0,True
+13580,sq-AL,qa,qa_factoid,sa i lartë është mali everest,iot_hue_lightoff,0.6178,0.0669,False
+13591,sq-AL,qa,qa_factoid,cili është kryeqyteti i kroacisë,qa_factoid,0.9997,0.9997,True
+13592,sq-AL,qa,qa_factoid,ku gjendet zelanda e re në hartë,qa_factoid,0.8711,0.8711,True
+13604,sq-AL,qa,qa_factoid,më trego ku ka lindur arbana osmani,email_sendemail,0.9142,0.0005,False
+13607,sq-AL,qa,qa_factoid,a mund të konfirmosh nëse leonardo është i martuar të lutem,qa_factoid,0.9981,0.9981,True
+13616,sq-AL,qa,qa_factoid,ku dalin më shumë të famshmit,social_post,0.9997,0.0,False
+13619,sq-AL,recommendation,recommendation_events,a ka ndonjë ngjarje falas në zonën time sot,weather_query,0.9939,0.0003,False
+13625,sq-AL,qa,qa_definition,cila është tavolina më e gjerë,qa_factoid,0.9523,0.0363,False
+13636,sq-AL,qa,qa_factoid,kur e ka ditëlindjen timo flloko,social_post,0.8871,0.0219,False
+13679,sq-AL,qa,qa_factoid,mund të më tregosh sa stomakë i ka lopa,lists_remove,0.2795,0.0169,False
+13681,sq-AL,qa,qa_factoid,në sa shfaqje ka marrë pjesë arbana osmani,social_post,0.9943,0.0024,False
+13683,sq-AL,qa,qa_factoid,çfarë marke sprej flokësh përdor ermal mamaqi,recommendation_events,0.701,0.2862,False
+13689,sq-AL,qa,qa_definition,çfarë është një karrige,qa_factoid,0.8642,0.1315,False
+13690,sq-AL,qa,qa_factoid,çfarë ngjyrash kanë karriget,qa_factoid,0.9753,0.9753,True
+13693,sq-AL,qa,qa_factoid,ku është meridiani kryesor,qa_factoid,0.5288,0.5288,True
+13705,sq-AL,qa,qa_definition,çka është sistemi i emetimeve elektronike,iot_hue_lightoff,0.5435,0.0308,False
+13706,sq-AL,qa,qa_definition,përshrkuaj një rotor,iot_hue_lightoff,0.4296,0.0176,False
+13714,sq-AL,qa,qa_definition,çfarë është mango,qa_definition,0.5606,0.5606,True
+13717,sq-AL,qa,qa_factoid,mund ta shohësh vërtet rusinë nga alaska,iot_hue_lightoff,0.6859,0.1421,False
+13758,sq-AL,qa,qa_factoid,sa vjeçar është timo flloko,social_post,0.4313,0.1953,False
+13761,sq-AL,qa,qa_factoid,çfarë është parseku,lists_query,0.5307,0.0502,False
+13774,sq-AL,qa,qa_factoid,sa larg është fieri nga tirana,social_post,0.8163,0.0605,False
+13777,sq-AL,qa,qa_definition,a mund të përshkruash një kartë krediti,email_query,1.0,0.0,False
+13780,sq-AL,qa,qa_factoid,është i martuar timo flloko,qa_factoid,0.6387,0.6387,True
+13798,sq-AL,qa,qa_factoid,sa kilometra katrorë ka shteti mesatar i planetit,iot_hue_lightoff,0.2585,0.1335,False
+13799,sq-AL,qa,qa_definition,cili është përkufizimi i hiperbolës,qa_definition,0.9996,0.9996,True
+13823,sq-AL,qa,qa_factoid,sa larg është dielli,weather_query,0.271,0.2391,False
+13853,sq-AL,qa,qa_factoid,ku në botë ka më shumë vullkane,qa_factoid,0.9312,0.9312,True
+13854,sq-AL,qa,qa_factoid,kur ka vdekur elvisi,weather_query,0.934,0.0338,False
+13863,sq-AL,qa,qa_definition,si është përkufizimi për logjikën,qa_definition,0.9852,0.9852,True
+13867,sq-AL,qa,qa_factoid,ku ndodhet parku i valbonës,social_post,0.997,0.0006,False
+13869,sq-AL,qa,qa_factoid,të lutem kërko në internet vendndodhjen dhe informacion për malin e dajtit,transport_query,0.2966,0.0277,False
+13871,sq-AL,qa,qa_definition,si do ta përshkruaje gëzuar ditëlindjen,social_post,0.9934,0.0001,False
+13881,sq-AL,qa,qa_factoid,të lutem më jep informacion për majkëll xhekson,social_post,0.9967,0.0019,False
+13888,sq-AL,qa,qa_factoid,sa është temperatura në berat shqipëri,weather_query,0.9987,0.0001,False
+13895,sq-AL,qa,qa_factoid,mund të më tregosh për arben hoxhën,iot_hue_lightoff,0.5481,0.0224,False
+13900,sq-AL,qa,qa_definition,përkufizimi i jetës,qa_factoid,0.9842,0.0151,False
+13907,sq-AL,qa,qa_definition,përcakto i hutuar,qa_factoid,1.0,0.0,False
+13908,sq-AL,qa,qa_definition,mund të më tregosh çfarë do të thotë i hutuar,qa_factoid,0.9235,0.002,False
+13926,sq-AL,qa,qa_factoid,kur është ditëlindja e arbana osmanit,social_post,0.5112,0.0799,False
+13927,sq-AL,qa,qa_factoid,çfarë pasurie ka ronaldo,qa_factoid,1.0,1.0,True
+13974,sq-AL,qa,qa_factoid,ku ndodhet fieri,qa_factoid,0.9283,0.9283,True
+13983,sq-AL,qa,qa_definition,duke vuajtur pasojat,qa_factoid,0.9808,0.0001,False
+13984,sq-AL,qa,qa_definition,pasojat e veprimeve,iot_hue_lightoff,0.8505,0.0024,False
+13997,sq-AL,qa,qa_factoid,sa kushton një shtëpi mesatare,qa_factoid,0.3449,0.3449,True
+14000,sq-AL,qa,qa_definition,përshkruaj kastor,cooking_recipe,0.7064,0.0024,False
+14001,sq-AL,qa,qa_factoid,më thuaj çdo gjë që di mbi përtacët,qa_factoid,0.6038,0.6038,True
+14011,sq-AL,qa,qa_factoid,kur është ditëlindja e elvana gjatës,qa_factoid,0.4935,0.4935,True
+14015,sq-AL,qa,qa_factoid,cilat janë koordinatat e ekuatorit,qa_factoid,0.9693,0.9693,True
+14023,sq-AL,qa,qa_definition,përshkruaj ferrin,qa_factoid,0.9947,0.0004,False
+14033,sq-AL,qa,qa_factoid,më thuaj ku ka lindur edi rama,iot_hue_lightoff,0.1681,0.0564,False
+14038,sq-AL,qa,qa_factoid,cili është lokacioni i moldovës,qa_factoid,0.8592,0.8592,True
+14040,sq-AL,qa,qa_factoid,sa i gjatë është hulk hogan,qa_factoid,0.9962,0.9962,True
+14053,sq-AL,qa,qa_factoid,kur filloi të aktrojë timo flloko,qa_factoid,0.9994,0.9994,True
+14063,sq-AL,qa,qa_factoid,kur ka qenë ditëlindja e elvis presli,qa_factoid,0.5542,0.5542,True
+14083,sq-AL,qa,qa_factoid,ku po jeton aktualisht arbana osmani,social_post,0.9981,0.0006,False
+14096,sq-AL,qa,qa_factoid,ku është mali i dajtit,qa_factoid,0.8432,0.8432,True
+14115,sq-AL,qa,qa_definition,jep detaje për rërë shkëmbore,cooking_recipe,0.9411,0.0456,False
+14116,sq-AL,qa,qa_definition,përshkruaj hiperbolën,iot_hue_lightoff,0.9945,0.005,False
+14117,sq-AL,qa,qa_factoid,ku janë vendosur piramidat,qa_factoid,0.9932,0.9932,True
+14118,sq-AL,qa,qa_factoid,trego detajet gjeografike të piramidave,lists_remove,0.3079,0.1911,False
+14126,sq-AL,qa,qa_factoid,trego bion për rihanën,social_post,0.4942,0.3455,False
+14138,sq-AL,qa,qa_definition,të lutem më thuaj cili është pvrkufizimi i cilindrit,qa_definition,1.0,1.0,True
+14147,sq-AL,qa,qa_definition,përkufizo batanijen,qa_factoid,1.0,0.0,False
+14150,sq-AL,qa,qa_definition,çfarë janë atletet nike,qa_factoid,0.9933,0.0003,False
+14151,sq-AL,qa,qa_factoid,cilat lloje syzesh dielli konsiderohen piloti,qa_factoid,0.9441,0.9441,True
+14154,sq-AL,qa,qa_factoid,info afrika,qa_definition,0.3959,0.1323,False
+14163,sq-AL,qa,qa_factoid,kërko për lokalitetin,qa_factoid,1.0,1.0,True
+14169,sq-AL,qa,qa_factoid,ku ka shkuar për universitet arbana osmani,recommendation_events,0.599,0.006,False
+14170,sq-AL,qa,qa_factoid,vesh kim kardashian adidas,social_post,0.1433,0.1244,False
+14179,sq-AL,qa,qa_factoid,sa larg është kanadaja nga vendndodhja ime,email_sendemail,0.9975,0.0,False
+14214,sq-AL,transport,transport_query,gjej mënyrat e udhëtimit për të njëjtën,play_podcasts,0.4622,0.0087,False
+14229,sq-AL,qa,qa_factoid,në cilat filma ka luajtur timo flloko,qa_factoid,0.5118,0.5118,True
+14243,sq-AL,qa,qa_factoid,detaje për personin,qa_factoid,1.0,1.0,True
+14272,sq-AL,qa,qa_definition,ej çfarë është një libër,email_sendemail,0.8223,0.0016,False
+14283,sq-AL,qa,qa_factoid,më trego për beratin,qa_factoid,0.9972,0.9972,True
+14306,sq-AL,qa,qa_factoid,shpjego vendndodhjen gjeografike të indisë,qa_factoid,0.6332,0.6332,True
+14308,sq-AL,qa,qa_factoid,sa i pasur është leonardo dicaprio,social_post,0.4653,0.2011,False
+14316,sq-AL,qa,qa_factoid,sa e madhe është alaska,iot_hue_lightoff,0.9651,0.0064,False
+14317,sq-AL,qa,qa_factoid,sa është madhësia e shteteve të bashkuara,qa_factoid,0.3705,0.3705,True
+14323,sq-AL,qa,qa_factoid,çfarë ngjyre ka fruti i dragoit,qa_factoid,0.8483,0.8483,True
+14330,sq-AL,qa,qa_factoid,ku ka lindur stiv xhobs,iot_hue_lightoff,0.9093,0.0002,False
+14347,sq-AL,qa,qa_definition,çfarë është një hipotezë,qa_factoid,0.9998,0.0001,False
+14354,sq-AL,qa,qa_factoid,cila është përgjigjja ndaj universit,qa_factoid,0.5772,0.5772,True
+14355,sq-AL,qa,qa_factoid,sa guaska i ka shitur selli në breg të detit,cooking_recipe,0.4349,0.0339,False
+14370,sq-AL,qa,qa_factoid,më thuaj profesionin e personit të famshëm,qa_factoid,0.9936,0.9936,True
+14378,sq-AL,qa,qa_definition,përkufizimi i shpejtësisë,qa_factoid,0.9961,0.0027,False
+14382,sq-AL,qa,qa_factoid,sa i madh është stadiumi air albania,qa_factoid,0.9787,0.9787,True
+14395,sq-AL,qa,qa_factoid,cila është pika më e thellë në tokë,qa_factoid,0.3884,0.3884,True
+14414,sq-AL,qa,qa_definition,përshkruaj hard diskun e kompjuterit,cooking_recipe,0.6232,0.011,False
+14417,sq-AL,qa,qa_factoid,cili oqean e prek kontinentin tonë,qa_factoid,0.7582,0.7582,True
+14419,sq-AL,qa,qa_factoid,a do të ketë ana një film të ri këtë vit,qa_factoid,0.3683,0.3683,True
+14429,sq-AL,qa,qa_definition,çfarë është një top tenisi,qa_factoid,0.9938,0.0028,False
+14440,sq-AL,qa,qa_factoid,cili është kryeqyteti i italisë,qa_factoid,0.9985,0.9985,True
+14442,sq-AL,qa,qa_factoid,ku janë karaibet,social_post,0.948,0.0479,False
+14444,sq-AL,qa,qa_factoid,cili ishte filmi i parë i morgan freeman,qa_factoid,0.504,0.504,True
+14449,sq-AL,qa,qa_factoid,është bërë pink me foshnje sërish,iot_hue_lightoff,0.9485,0.0071,False
+14457,sq-AL,qa,qa_factoid,gjej rrugën,iot_hue_lightoff,0.9508,0.0021,False
+14465,sq-AL,transport,transport_query,udhëzime për tek luna park,recommendation_events,0.509,0.0007,False
+14490,sq-AL,qa,qa_factoid,kur u ndërtua teatri aleksandër moisiu,email_sendemail,0.237,0.0269,False
+14498,sq-AL,qa,qa_definition,më jep përshkrimin për telefon,email_sendemail,1.0,0.0,False
+14504,sq-AL,qa,qa_factoid,olli sa takime ka bërë ismail kadare,qa_factoid,0.971,0.971,True
+14505,sq-AL,qa,qa_factoid,kush është kryeministri aktual i rusisë,qa_factoid,0.9991,0.9991,True
+14508,sq-AL,qa,qa_factoid,të lutem përmblidh librin e fundit të edmond tupes endrrat e mia,qa_factoid,0.8419,0.8419,True
+14509,sq-AL,qa,qa_factoid,ku ka lindur arbana osmani,social_post,0.9982,0.0004,False
+14539,sq-AL,qa,qa_factoid,gjej detajet gjeografike të këtij vendi,play_podcasts,0.2968,0.042,False
+14545,sq-AL,qa,qa_factoid,më trego për vendndodhjen e italisë,qa_factoid,0.7034,0.7034,True
+14567,sq-AL,qa,qa_factoid,cili është vullkani më i madh aktiv në tokë,qa_factoid,0.9807,0.9807,True
+14585,sq-AL,qa,qa_factoid,sa larg është të udhëtosh nga japonia për në korenë e jugut,qa_factoid,0.2866,0.2866,True
+14591,sq-AL,qa,qa_definition,më jep një përshkrim të një qarku të shkurtër,cooking_recipe,0.2453,0.0268,False
+14592,sq-AL,qa,qa_definition,ma jep përshkrimin e qarkut elektronik,email_sendemail,0.4101,0.1759,False
+14597,sq-AL,qa,qa_factoid,cila është popullësia e tiranës,qa_factoid,0.9978,0.9978,True
+14601,sq-AL,qa,qa_factoid,për sa vite ishte moisiu president i shqipërise,social_post,0.4887,0.4812,False
+14605,sq-AL,qa,qa_factoid,a e la anxhelina zholi brad pitt,social_post,0.9999,0.0,False
+14608,sq-AL,qa,qa_factoid,në cilin film të ri është duke punuar tinka kurti,social_post,0.7553,0.0573,False
+14622,sq-AL,qa,qa_definition,përshkruaj çka është sfera,qa_definition,0.4847,0.4847,True
+14648,sq-AL,cooking,cooking_recipe,recetën të lutem,cooking_recipe,0.9968,0.9968,True
+14653,sq-AL,qa,qa_factoid,sa është popullsia e italisë,qa_factoid,0.7253,0.7253,True
+14661,sq-AL,qa,qa_factoid,cili është viti i lindjes i sali berisha,social_post,0.5994,0.1849,False
+14668,sq-AL,qa,qa_definition,përshkruaj objektin xy,iot_hue_lightoff,0.9996,0.0,False
+14683,sq-AL,qa,qa_factoid,cili është hobi i eduard selami,iot_hue_lightoff,0.5218,0.1139,False
+14684,sq-AL,qa,qa_factoid,kush është kryeministri i rusisë,qa_factoid,0.8592,0.8592,True
+14690,sq-AL,qa,qa_definition,ok google çka do të thotë president,qa_factoid,0.9942,0.0031,False
+14700,sq-AL,qa,qa_definition,çfarë është ekzaktësisht filli dentar,qa_definition,0.9992,0.9992,True
+14701,sq-AL,qa,qa_definition,përshkruaj lojën poker,play_music,0.5926,0.0003,False
+14705,sq-AL,qa,qa_factoid,ok google ku jeton sofia vergara,social_post,0.9964,0.0001,False
+14706,sq-AL,qa,qa_factoid,ku jeton tinka kurti,iot_hue_lightoff,0.8912,0.0054,False
+14746,sq-AL,qa,qa_factoid,cili është kryeqyteti i kazakistanit,qa_factoid,1.0,1.0,True
+14761,sq-AL,qa,qa_definition,më jep përkufizimin për fjalën pontifikatë,qa_definition,0.9998,0.9998,True
+14767,sq-AL,qa,qa_definition,si do ta përshkruaje top,social_post,0.9414,0.0005,False
+14770,sq-AL,qa,qa_factoid,më trego oqeanin më të madh në botë,iot_hue_lightoff,0.8896,0.0971,False
+14787,sq-AL,qa,qa_factoid,cili është dallimi në mes të kalendarit romak dhe grigorian,qa_factoid,0.766,0.766,True
+14791,sq-AL,qa,qa_factoid,çfarë përmbajtje ka karriga,qa_factoid,0.9991,0.9991,True
+14794,sq-AL,qa,qa_factoid,cila është vozitja e preferuar e elvisit,email_query,0.5102,0.3077,False
+14822,sq-AL,qa,qa_factoid,të krahasosh në njerëz,social_post,0.3341,0.0584,False
+14838,sq-AL,qa,qa_factoid,çfarë do të thotë filtër me densitet neutral dhe a më duhet një i tillë me gradient apo i ngurtë gjithashtu i cili do të ishte me më shumë stil ai me vidhosje dhe ai katror,qa_factoid,0.2239,0.2239,True
+14857,sq-AL,qa,qa_definition,do të mund ta shpjegoje kuptimin e ekzorbitant për mua të lutem,qa_definition,0.9991,0.9991,True
+14877,sq-AL,qa,qa_factoid,si janë kushtet klimatike në atë zonë,qa_factoid,0.9711,0.9711,True
+14879,sq-AL,qa,qa_definition,kuptimin e,qa_factoid,0.9586,0.0002,False
+14884,sq-AL,qa,qa_factoid,cili është shteti me më pak tornado në gjithë shtetet e bashkuara të amerikës,qa_factoid,0.6713,0.6713,True
+14889,sq-AL,qa,qa_definition,të lutem ma përshkruaj atë objekt,qa_definition,0.5367,0.5367,True
+14891,sq-AL,qa,qa_factoid,në çfarë fushe shkëlqen ky person,qa_factoid,0.3443,0.3443,True
+14912,sq-AL,qa,qa_factoid,ku ka lindur presidenti meta,email_sendemail,0.556,0.3463,False
+14917,sq-AL,qa,qa_factoid,kur do të dalë albumi i radhës i eli farës,email_sendemail,0.7989,0.0059,False
+14933,sq-AL,qa,qa_factoid,më trego informacione për relievin e italisë,qa_definition,0.9997,0.0,False
+14939,sq-AL,qa,qa_factoid,më duhen disa hollësi për brus linë të lutem ndihmo,iot_hue_lightoff,0.6993,0.1065,False
+14981,sq-AL,qa,qa_definition,përshkrimi i ajfon shtatë,email_sendemail,0.8208,0.0001,False
+14994,sq-AL,qa,qa_factoid,cili është filmi i radhës i denzel uashingtonit,play_music,0.0797,0.0471,False
+14995,sq-AL,qa,qa_definition,çfarë do me thënë situatë,social_post,0.9686,0.0008,False
+15020,sq-AL,qa,qa_factoid,sa vjeçar është klint istvud,qa_factoid,0.8536,0.8536,True
+15039,sq-AL,qa,qa_factoid,olli ku fillon vargmali i dajtit,iot_hue_lightoff,0.7736,0.1508,False
+15055,sq-AL,qa,qa_factoid,cili pol është më i ftohtë jugu apo veriu,weather_query,0.9925,0.0013,False
+15056,sq-AL,qa,qa_factoid,sa vjeç është ti dashuri i ri i monika lubonjës,recommendation_events,0.2369,0.1178,False
+15062,sq-AL,qa,qa_factoid,informacion për arbana osmanin të lutem,social_post,0.9996,0.0,False
+15075,sq-AL,qa,qa_factoid,ku u vendosën shqiptarët e parë,social_post,0.9992,0.0002,False
+15092,sq-AL,qa,qa_definition,gjej një përshkrim për televizorin samsung,qa_definition,0.2094,0.2094,True
+15094,sq-AL,qa,qa_factoid,kërko numrin e njerëzve që jetojnë në berat shqipëri,qa_factoid,0.6764,0.6764,True
+15095,sq-AL,qa,qa_factoid,në çfarë rajoni gjendet vlora,qa_factoid,0.9713,0.9713,True
+15127,sq-AL,qa,qa_definition,përcaktoni altoparlant,qa_factoid,0.8829,0.0007,False
+15155,sq-AL,social,social_post,a mund të ngarkosh selfien time më të fundit në llogarinë time në facebook,social_post,0.9995,0.9995,True
+15166,sq-AL,social,social_post,posto biznesin tim në twitter,social_post,0.9989,0.9989,True
+15177,sq-AL,social,social_post,të lutem ripostoje këtë postim në twitter,social_post,0.9996,0.9996,True
+15185,sq-AL,social,social_post,urime ditëlindjeje,email_sendemail,1.0,0.0,False
+15186,sq-AL,social,social_post,urimet martesore,qa_factoid,0.8359,0.0007,False
+15187,sq-AL,social,social_post,ndaje në postimin e shokëve,social_post,0.9967,0.9967,True
+15197,sq-AL,social,social_post,posto në twitter vizita ime në japoni,social_post,0.9988,0.9988,True
+15208,sq-AL,social,social_post,posto hej të gjithë në facebook,social_post,0.9997,0.9997,True
+15213,sq-AL,news,news_query,çfarë është në trend tani,lists_query,0.5474,0.2947,False
+15214,sq-AL,news,news_query,çfarë lajmesh kemi sot,social_post,0.9991,0.0,False
+15216,sq-AL,social,social_post,posto diçka për mua,social_post,0.9043,0.9043,True
+15231,sq-AL,social,social_post,posto në instagram foton time gjatë udhëtimit në goa,social_post,1.0,1.0,True
+15271,sq-AL,social,social_post,posto këtë në facebookun tim,social_post,1.0,1.0,True
+15275,sq-AL,social,social_post,posto unë jam e lumtur në facebook,social_post,1.0,1.0,True
+15276,sq-AL,social,social_post,posto një status të ri në facebook duke thënë se po shijoj motin e mirë,social_post,1.0,1.0,True
+15289,sq-AL,social,social_post,posto mesazhin tani,social_post,0.9651,0.9651,True
+15305,sq-AL,calendar,calendar_query,a kam unë ndonjë njoftim nga rrjetet sociale,social_post,0.9967,0.0001,False
+15318,sq-AL,social,social_post,dëshiroj tju falenderoj të gjithëve për urimet e ditëlindjes,social_post,0.604,0.604,True
+15337,sq-AL,social,social_post,posto këtë video në facebook,social_post,1.0,1.0,True
+15350,sq-AL,social,social_post,jam e pakënaqur nga q. t. u. më ndihmo të lutem,social_post,0.4852,0.4852,True
+15358,sq-AL,social,social_post,olli dërgoji një tweet apple që iphone nuk punon,qa_factoid,0.997,0.001,False
+15359,sq-AL,social,social_post,hapi një postim për apple se bateria e iphoneit tim është gjithmonë e zbrazur,email_sendemail,1.0,0.0,False
+15364,sq-AL,social,social_post,a mund ta njoftosh globe që kjo kasa e re e telefonit është kot,qa_factoid,0.9177,0.0038,False
+15382,sq-AL,social,social_post,a mund ta kontaktosh samsung dhe tu thuash që lavatriçja ben masë,qa_factoid,1.0,0.0,False
+15387,sq-AL,social,social_post,posto vendodhjen time aktuale,social_post,0.7521,0.7521,True
+15399,sq-AL,social,social_post,dërgo një ankesë te one për probleme me linjën,iot_hue_lightoff,0.2687,0.0179,False
+15401,sq-AL,social,social_post,hap twitter dërgoni mesazh,social_post,0.9991,0.9991,True
+15402,sq-AL,social,social_post,posto se produkti nuk ja vlen,qa_factoid,0.9606,0.038,False
+15409,sq-AL,social,social_post,hap twitter shkruaj ankesën time dhe dërgoje tek shërbimi i klientit,social_post,0.9982,0.9982,True
+15413,sq-AL,social,social_post,më gjeni dikë menjëherë,play_music,0.6091,0.1205,False
+15444,sq-AL,social,social_post,votoje poshtë vodafone,qa_factoid,0.9999,0.0,False
+15448,sq-AL,social,social_post,dërgo një tweet te neptun për problemet me volumin,social_post,0.9998,0.9998,True
+15454,sq-AL,social,social_post,posto një tweet drejtuar air albania ku të thuash se jam i nxehur që më humbi valixhja,social_post,1.0,1.0,True
+15456,sq-AL,social,social_post,do të doja që të dërgoje një tweet drejtuar air albania pasi jam e nxehur që më humbi valixhja,social_post,0.9998,0.9998,True
+15457,sq-AL,social,social_post,kam patur një problem me burgerin tim a mund ti postosh burger king,cooking_recipe,0.6377,0.2495,False
+15459,sq-AL,social,social_post,posto një ankesë në twitter,social_post,0.9999,0.9999,True
+15464,sq-AL,social,social_post,unë nuk e mora produktin në kohë dërgoi një postim drejt zarës,email_sendemail,1.0,0.0,False
+15467,sq-AL,social,social_post,thuaji tring se unë i urrej ata,social_post,0.7814,0.7814,True
+15472,sq-AL,social,social_post,posto një tweet ankese te libraria online,social_post,0.959,0.959,True
+15487,sq-AL,social,social_post,posto një tweet te zara për pastërtinë në dyqanin e tyre,social_post,0.9999,0.9999,True
+15488,sq-AL,social,social_post,të lutem posto një tweet te proper pizza që u lodha duke pritur porosinë nuk jam shumë i kënaqur,social_post,0.9998,0.9998,True
+15503,sq-AL,social,social_post,posto një tweet të ri te shërbimi i klientit,social_post,0.9987,0.9987,True
+15508,sq-AL,social,social_post,siri hap twitter posto vodafonë na i shpifi,social_post,0.997,0.997,True
+15518,sq-AL,social,social_post,dërgoni ankesën me tweet në tring,social_post,0.9996,0.9996,True
+15532,sq-AL,social,social_post,brisilda posto në spar dhe thuaju që shërbimi i tyre i klientit është i tmerrshëm,social_post,0.9984,0.9984,True
+15546,sq-AL,social,social_post,posto për hamburgerin e ftohtë të burger king,cooking_recipe,0.7038,0.2959,False
+15548,sq-AL,social,social_post,dërgo një tweet për telefonin te samsung,social_post,0.9915,0.9915,True
+15553,sq-AL,social,social_post,të lutem posto përgjigje negative te shërbimi daikin,social_post,0.9929,0.9929,True
+15554,sq-AL,social,social_post,të lutem posto një tweet te shërbimi i globe për vonesën,email_sendemail,0.8605,0.1308,False
+15556,sq-AL,social,social_post,le të postojmë një ankesë,social_post,0.8448,0.8448,True
+15557,sq-AL,social,social_post,më duhet të postosh një ankesë,social_post,0.9997,0.9997,True
+15560,sq-AL,social,social_post,posto në facebook kam uri,social_post,0.954,0.954,True
+15565,sq-AL,social,social_post,a mund t'ia bësh të qartë vodafonit se nuk do të jem më kurrë përdorues i tyre,social_post,0.7392,0.7392,True
+15587,sq-AL,social,social_post,hap galerinë posto foton me emër,social_post,0.6236,0.6236,True
+15592,sq-AL,social,social_post,posto një ankesë drejtuar tringut,social_post,0.9106,0.9106,True
+15593,sq-AL,social,social_post,posto një tweet ankese te globe,social_post,0.9989,0.9989,True
+15598,sq-AL,social,social_post,hap emrin e kompanisë dhe gjej ankesat,social_post,0.9613,0.9613,True
+15610,sq-AL,social,social_post,posto një koment shërbim i keq nga bkt në llogarinë time,social_post,0.9977,0.9977,True
+15618,sq-AL,social,social_post,tweet sigurimeve dhe thuaj atyre se ata janë kot,email_sendemail,1.0,0.0,False
+15626,sq-AL,social,social_post,të lutem posto një tweet ankese te globe për shërbimin e keq të klientit,social_post,0.8188,0.8188,True
+15634,sq-AL,social,social_post,ok google posto sa i keq është pronari i karburantit,qa_factoid,1.0,0.0,False
+15635,sq-AL,social,social_post,posto te kolonat që kanë shërbim të tmerrshëm,social_post,0.9918,0.9918,True
+15647,sq-AL,social,social_post,posto ankesë,social_post,0.967,0.967,True
+15651,sq-AL,social,social_post,dërgo raportin tek shërbimi i klientit,qa_factoid,0.5713,0.0121,False
+15652,sq-AL,social,social_post,më ndihmo të bëj një ankesë te shërbimi i klientit,email_sendemail,0.4108,0.0116,False
+15655,sq-AL,social,social_post,posto te shërbimi i klientit të google që telefoni im i ri nexus ka ndaluar së punuar ndihm të lutem,qa_factoid,0.5139,0.0112,False
+15656,sq-AL,social,social_post,posto një mesazh te burger king që jam akoma duke pritur oër porosinë time,social_post,0.9992,0.9992,True
+15661,sq-AL,social,social_post,posto hyrjen time të fundit në twitter në vodafone,iot_hue_lightoff,0.7888,0.2086,False
+15670,sq-AL,social,social_post,dërgo një postim ankesë,email_sendemail,1.0,0.0,False
+15672,sq-AL,social,social_post,posto një tweet te shpresa a. l. për mungesën e faturës së iphone që dërgova për ta rregulluar javen e shkuar,social_post,1.0,1.0,True
+15676,sq-AL,social,social_post,të lutem shto ankesë mbi shërbimin në tweet për juveniljan,social_post,0.9597,0.9597,True
+15686,sq-AL,social,social_post,çkemi produkti që bleva nga dikush ka dalë jashtë përdorimit,qa_factoid,0.9992,0.0,False
+15693,sq-AL,social,social_post,tweet se kishte një insekt në paketën e çokollatës,email_sendemail,0.8894,0.1095,False
+15700,sq-AL,social,social_post,produktet e skaduara në tregun e tanishëm,cooking_recipe,0.6305,0.0072,False
+15703,sq-AL,social,social_post,posto në twitter te t. e. g. që i marojnë shumë shpejt numrat,social_post,0.9991,0.9991,True
+15706,sq-AL,social,social_post,posto tweet në,social_post,1.0,1.0,True
+15707,sq-AL,social,social_post,le të postojmë,social_post,0.4043,0.4043,True
+15708,sq-AL,social,social_post,posto ankesë për një shërbim,qa_factoid,0.9712,0.0208,False
+15721,sq-AL,social,social_post,posto një fytyrë të neveritur te pastarian,qa_factoid,0.9993,0.0,False
+15723,sq-AL,social,social_post,vendos statusin ndihem i lumtur në facebook,social_post,0.9998,0.9998,True
+15731,sq-AL,social,social_post,olli posto një mesazh për vodafone dhe tregoju se shërbimi është i keq,social_post,0.9416,0.9416,True
+15732,sq-AL,social,social_post,posto drejt samsung dhe thuaji të ndalojnë së vrarëi njerëz me produktet e tyre,social_post,0.9994,0.9994,True
+15736,sq-AL,social,social_post,paraqit një koment negativ për një kompani,qa_factoid,0.9952,0.0014,False
+15756,sq-AL,email,email_sendemail,të lutem dërgoji email skuadrës time,email_sendemail,1.0,1.0,True
+15763,sq-AL,email,email_query,të lutem kontrollo për emaile të reja,email_sendemail,0.9926,0.0073,False
+15765,sq-AL,email,email_sendemail,përgjigju emailit të artanit të lutem,email_sendemail,1.0,1.0,True
+15777,sq-AL,email,email_query,më thuaj nëse unë kam emaile të reja,email_sendemail,0.5618,0.4324,False
+15785,sq-AL,email,email_query,a ka ndonjë gjë të re në postën time elektronike,social_post,0.4662,0.4472,False
+15789,sq-AL,email,email_query,brisilda a kam ndonjë email të ri,email_sendemail,1.0,0.0,False
+15792,sq-AL,calendar,calendar_query,kë do të takoj unë sot,social_post,0.9992,0.0,False
+15796,sq-AL,email,email_sendemail,dërgoji email dorit,email_sendemail,1.0,1.0,True
+15802,sq-AL,email,email_sendemail,përgjigju me një email landit se nuk do të shkoj sonte,email_sendemail,1.0,1.0,True
+15809,sq-AL,email,email_query,a më ka nisur email dritani,email_sendemail,1.0,0.0,False
+15825,sq-AL,email,email_sendemail,përgjigjju babit shkruaj do të vonohem,qa_factoid,0.6462,0.0056,False
+15828,sq-AL,email,email_sendemail,këtu është një adresë e re emaili për tu shtuar në kontakte,email_sendemail,0.9909,0.9909,True
+15829,sq-AL,email,email_sendemail,shkoni te kontaktet dhe fut një adresë të re emaili,email_sendemail,1.0,1.0,True
+15839,sq-AL,email,email_query,tema,qa_factoid,0.7187,0.0043,False
+15841,sq-AL,email,email_sendemail,krijo një email të ri për arin,email_sendemail,0.9962,0.9962,True
+15845,sq-AL,email,email_sendemail,si na erdhi neve,weather_query,0.5066,0.0039,False
+15847,sq-AL,email,email_sendemail,si mund të marrim kredi,email_sendemail,0.9963,0.9963,True
+15849,sq-AL,email,email_sendemail,dërgo email shefit tim,email_sendemail,1.0,1.0,True
+15857,sq-AL,email,email_sendemail,të lutem dërgoje te adresa e re e emailit të listuar,email_sendemail,1.0,1.0,True
+15862,sq-AL,email,email_query,kontrollo emailet e marra nga mami,email_sendemail,1.0,0.0,False
+15880,sq-AL,email,email_query,të lutem kontrollo postat e mia,social_post,0.9995,0.0,False
+15890,sq-AL,email,email_query,kontrollo për të parë nëse unë kam ndonjë email të ri nga babi im,email_sendemail,0.9994,0.0006,False
+15904,sq-AL,email,email_query,kontrollo emailet e mia të fundit edhe shiko se për çfarë flasin,email_sendemail,0.9979,0.0019,False
+15906,sq-AL,email,email_sendemail,përgjigju faleminderit dorit,qa_factoid,0.9559,0.0008,False
+15911,sq-AL,email,email_sendemail,përgatit email për sarën,email_sendemail,1.0,1.0,True
+15933,sq-AL,email,email_query,çfarë emaile të reja kam,email_sendemail,1.0,0.0,False
+15942,sq-AL,email,email_sendemail,dërgo këtë email për tu përgjigjur emaileve të reja,email_sendemail,1.0,1.0,True
+15950,sq-AL,email,email_sendemail,përgjigjju emailit nga xhoni bejko,email_sendemail,1.0,1.0,True
+15957,sq-AL,email,email_sendemail,dërgoji email landit për ta njoftuar që jemi rrugës,email_sendemail,1.0,1.0,True
+15963,sq-AL,email,email_query,a kam unë ndonjë email të ri nga aleanca,email_sendemail,1.0,0.0,False
+15966,sq-AL,email,email_query,dërgo një përgjigje nëse është shumë e rëndësishme,qa_factoid,0.3678,0.0072,False
+15968,sq-AL,email,email_query,nëse është nga një vend shumë i njohur shënoje si të rëndësishëm,news_query,0.2357,0.0149,False
+15970,sq-AL,email,email_query,cili ishte subjekti i email të fundit nga mami,email_sendemail,1.0,0.0,False
+15971,sq-AL,email,email_query,cili ishte emaili i fundit nga puna,email_sendemail,1.0,0.0,False
+15994,sq-AL,email,email_sendemail,dërgoji një email xhinos ku e pyet se në çfarë ore mundet për mbledhjen,email_sendemail,1.0,1.0,True
+15995,sq-AL,email,email_sendemail,dërgo email kleas për mbledhjen e buxhetit,email_sendemail,1.0,1.0,True
+15998,sq-AL,email,email_query,kontrollo emailet e mia për diçka nga emri,email_sendemail,1.0,0.0,False
+16002,sq-AL,email,email_query,kërko për email të ri,email_sendemail,1.0,0.0,False
+16005,sq-AL,email,email_sendemail,dergo tek email artan et xhimeil pikë kom,email_sendemail,1.0,1.0,True
+16010,sq-AL,email,email_query,më thuaj nëse kam ndonjë mesazh të ri ne inboxin tim,email_sendemail,0.8214,0.0185,False
+16024,sq-AL,email,email_sendemail,dërgo një email erit duke i thënë që jam i zënë nesër,email_sendemail,1.0,1.0,True
+16028,sq-AL,email,email_sendemail,hej ona nisi një email kolegut,email_sendemail,1.0,1.0,True
+16029,sq-AL,email,email_sendemail,të lutemi shkruaji një email të ri kolegut,email_sendemail,0.9352,0.9352,True
+16032,sq-AL,email,email_sendemail,dërgo email erit për takimin e nesërm,email_sendemail,1.0,1.0,True
+16038,sq-AL,email,email_query,përshëndetje a me ka dërguar eri ndonjë email të ri,email_sendemail,1.0,0.0,False
+16045,sq-AL,email,email_sendemail,dërgo email te erjoni për programin e hapjes së zyrës,email_sendemail,1.0,1.0,True
+16048,sq-AL,email,email_query,më trego emailet e fundit,email_sendemail,1.0,0.0,False
+16049,sq-AL,email,email_sendemail,dua ti dërgoj një email familjes sime a më ndihmon,email_sendemail,1.0,1.0,True
+16050,sq-AL,email,email_query,kontrollo gmailin,email_sendemail,0.9999,0.0001,False
+16052,sq-AL,email,email_query,kontrollo outlook,iot_hue_lightoff,0.9051,0.0037,False
+16056,sq-AL,email,email_sendemail,përgjigju emailit,email_sendemail,1.0,1.0,True
+16061,sq-AL,email,email_query,a kam marrë ndonjë email në dhjetë minutat e fundit,email_sendemail,1.0,0.0,False
+16072,sq-AL,email,email_sendemail,dërgo email shefit tim se do të jem vonë sot për shkak të një urgjence dhe kërko falje për mungesën në mbledhje,email_sendemail,1.0,1.0,True
+16075,sq-AL,email,email_query,shfaq emailet e fundit nga arjani,email_sendemail,1.0,0.0,False
+16082,sq-AL,email,email_sendemail,dërgoji një email erit dhe pyete se si është tani dhe a mund të bëj ndonjë gjë për ta ndihmuar,email_sendemail,1.0,1.0,True
+16089,sq-AL,email,email_query,a kam marrë ndonjë email të ri në dhjetë minutat e fundit,email_sendemail,1.0,0.0,False
+16096,sq-AL,email,email_query,a më ka dërguar emi ndonjë email të ri,email_sendemail,1.0,0.0,False
+16098,sq-AL,email,email_query,kontrolloni emailet e palexuara nga eri,email_sendemail,1.0,0.0,False
+16100,sq-AL,email,email_query,të lutem kontrollo email që përmban listime pune,email_sendemail,1.0,0.0,False
+16103,sq-AL,email,email_sendemail,dërgo një email vëllait tim dhe thuaji përvjetori i dasmës,email_sendemail,1.0,1.0,True
+16120,sq-AL,email,email_sendemail,ndihma do ti dërgohet vetëm joanës,social_post,0.5552,0.0002,False
+16131,sq-AL,email,email_sendemail,ky email i ri duhet të shtohet në kontaktet e mia,email_sendemail,1.0,1.0,True
+16145,sq-AL,email,email_query,më trego emailet më të fundit,email_sendemail,0.9981,0.0019,False
+16146,sq-AL,news,news_query,më jep më të rejat e fundit,lists_remove,0.7425,0.001,False
+16148,sq-AL,email,email_sendemail,shpejt përgjigju erit të lutem co një email,email_sendemail,1.0,1.0,True
+16151,sq-AL,email,email_query,kontrollo orarin e mbledhjes në postën e sotme,weather_query,0.3838,0.0176,False
+16162,sq-AL,email,email_sendemail,dërgoji një përgjigje,qa_factoid,0.5526,0.0551,False
+16163,sq-AL,email,email_query,kush më ka dërguar email dje,email_sendemail,1.0,0.0,False
+16165,sq-AL,email,email_query,a u përgjigj mira,social_post,0.9982,0.0,False
+16166,sq-AL,email,email_sendemail,a mund ti përgjigjesh erjonës që do jem e ngarkuar me projekte në tre javët e ardhshme,recommendation_events,0.3705,0.0465,False
+16168,sq-AL,email,email_query,a ka ardhur ndonjë email në pesëmbëdhjetë minutat e fundit,email_sendemail,1.0,0.0,False
+16170,sq-AL,email,email_query,hap kutinë hyrëse për te lexuar emailet e palexuara,email_sendemail,0.9982,0.0001,False
+16178,sq-AL,email,email_query,ndonjë mail nga amazon sot,email_sendemail,1.0,0.0,False
+16183,sq-AL,email,email_query,kontrollo emailin për punën time,email_sendemail,1.0,0.0,False
+16201,sq-AL,email,email_sendemail,të lutem ngarko një email për ervinin dhe dërgoji mesazh tani,email_sendemail,1.0,1.0,True
+16221,sq-AL,email,email_sendemail,trego emailet e renatës dhe shkuraj që do ta njoftoj,email_sendemail,0.9596,0.9596,True
+16245,sq-AL,email,email_sendemail,dërgo email në eri et gmail pikë kom,email_sendemail,1.0,1.0,True
+16248,sq-AL,email,email_query,ju lutem kontrolloni postën time,social_post,0.9985,0.0001,False
+16263,sq-AL,email,email_query,mora ndonjë email të ri nga berti,email_sendemail,1.0,0.0,False
+16266,sq-AL,email,email_sendemail,shkruaj një email familjes sime duke thënë ju dua të gjithëve,email_sendemail,1.0,1.0,True
+16271,sq-AL,email,email_query,rifresko inboxin dhe më informo për emailet e reja,email_sendemail,1.0,0.0,False
+16275,sq-AL,email,email_query,filli anketën pvr emailin e ri,email_sendemail,1.0,0.0,False
+16276,sq-AL,email,email_query,a kam emaile të reja,email_sendemail,1.0,0.0,False
+16280,sq-AL,email,email_sendemail,të lutem dërgo email te ketrina kush është në listën time të familjes dhe miqve,email_sendemail,1.0,1.0,True
+16282,sq-AL,email,email_sendemail,dërgoji një email ndihmëses time erjona që ti anullojë të gjithë takimet nesër,email_sendemail,1.0,1.0,True
+16296,sq-AL,email,email_sendemail,dërgoji një email mamit për ti thënë që festa e ditëlindjes së erjonit është të dielën,email_sendemail,1.0,1.0,True
+16297,sq-AL,email,email_sendemail,dërgoji një email ervinit për ti thënë faleminderit,email_sendemail,1.0,1.0,True
+16314,sq-AL,email,email_sendemail,dërgoni një email elvirës,email_sendemail,1.0,1.0,True
+16317,sq-AL,email,email_query,kam marrë email të ri nga erjona,email_sendemail,1.0,0.0,False
+16318,sq-AL,email,email_sendemail,përgjigju emailit,email_sendemail,1.0,1.0,True
+16320,sq-AL,email,email_sendemail,dua ti përgjigjem emailit të dori bibës,email_sendemail,1.0,1.0,True
+16353,sq-AL,email,email_query,kontrollo emailet nga erjoni,email_sendemail,1.0,0.0,False
+16354,sq-AL,email,email_query,kontrolloni për email nga punëdhënësi im,email_sendemail,1.0,0.0,False
+16356,sq-AL,email,email_query,a i kam nisur email erit për temën e kontrollit të armëve,email_sendemail,1.0,0.0,False
+16357,sq-AL,email,email_query,më ka dërguar endri email për municion,email_sendemail,1.0,0.0,False
+16361,sq-AL,email,email_query,a kam unë ndonjë email të ri në orën e fundit,email_sendemail,0.9997,0.0003,False
+16373,sq-AL,email,email_query,a kam marrë ndonjë email me numra gjurmues,email_sendemail,1.0,0.0,False
+16375,sq-AL,email,email_sendemail,kompozoji një email erit,email_sendemail,0.9998,0.9998,True
+16376,sq-AL,email,email_sendemail,aleksa ju lutemi dërgoni një email mamit,email_sendemail,1.0,1.0,True
+16377,sq-AL,email,email_sendemail,dërgoji mamit një email tani,email_sendemail,1.0,1.0,True
+16384,sq-AL,email,email_query,a kam unë ndonjë email të ri,email_sendemail,1.0,0.0,False
+16385,sq-AL,email,email_query,të lutem lexo emailet e reja,email_sendemail,1.0,0.0,False
+16398,sq-AL,email,email_sendemail,ju lutemi dërgoni emailin erit,email_sendemail,1.0,1.0,True
+16399,sq-AL,email,email_query,a kam marrë unë ndonjë email të ri,email_sendemail,1.0,0.0,False
+16401,sq-AL,email,email_sendemail,shkruaji një email donës hej çfarë po bën sot,email_sendemail,1.0,1.0,True
+16402,sq-AL,email,email_sendemail,dërgo me email landit planet për sot,email_sendemail,1.0,1.0,True
+16406,sq-AL,email,email_sendemail,aleksa start email,email_sendemail,1.0,1.0,True
+16410,sq-AL,email,email_sendemail,kompozo një email,email_query,0.6707,0.3293,False
+16413,sq-AL,email,email_query,më trego të gjitha emailet e dërguara nga shefi im,email_sendemail,1.0,0.0,False
+16419,sq-AL,email,email_sendemail,ju lutemi dërgoni një email te daja niku me sa vijon po mund tia dalë,email_sendemail,1.0,1.0,True
+16427,sq-AL,email,email_query,sa emaile të reja kam marrë unë sot,email_sendemail,1.0,0.0,False
+16430,sq-AL,email,email_sendemail,ju lutem dërgojini mamit dhe babit një email duke pyetur se si janë,email_sendemail,1.0,1.0,True
+16437,sq-AL,email,email_sendemail,ju lutem dërgo këtë email shokut tim,email_sendemail,1.0,1.0,True
+16438,sq-AL,email,email_sendemail,më duhet ta dërgoj këtë email tani,email_sendemail,1.0,1.0,True
+16446,sq-AL,email,email_query,të lutem kontrollo për email e fundit nga ky dërgues,email_sendemail,1.0,0.0,False
+16459,sq-AL,email,email_sendemail,mesazh të ri në biba et gmail pikë kom,email_sendemail,1.0,1.0,True
+16461,sq-AL,email,email_query,a kam unë ndonjë email të palexuar,email_sendemail,1.0,0.0,False
+16467,sq-AL,email,email_query,a kam ndonjë email të ri nga kontakti im ela,email_sendemail,1.0,0.0,False
+16471,sq-AL,email,email_query,kontrollo emailet nga dori,email_sendemail,1.0,0.0,False
+16496,sq-AL,email,email_sendemail,ktheji përgjigje emailit,email_sendemail,1.0,1.0,True
+16501,sq-AL,email,email_sendemail,të lutem dërgo një email tek shoqja ime elona si je,email_sendemail,1.0,1.0,True
+16506,sq-AL,email,email_sendemail,shto adresë të re emaili dhe dërgo email,email_sendemail,1.0,1.0,True
+16518,sq-AL,email,email_sendemail,shto një email të ri për ervin didën,email_sendemail,1.0,1.0,True
+16519,sq-AL,email,email_sendemail,duhet ti shtoj një adresë të re email kontakteve të mi,email_sendemail,1.0,1.0,True
+16535,sq-AL,email,email_sendemail,mund ti shkruash një email edonës,email_sendemail,0.9974,0.9974,True
+16559,sq-AL,email,email_sendemail,dërgoji një përgjigje katërqind e tridhjet emaileve të erionit që ka dërguar këtë mëngjes,email_query,0.9954,0.0044,False
+16560,sq-AL,email,email_sendemail,përgjigjuni emailit të shefave të mi me fjalën se do të jem në orën katër të mbrëmjes,email_sendemail,1.0,1.0,True
+16563,sq-AL,email,email_query,brisilda kontrollo emailin tim,email_sendemail,1.0,0.0,False
+16591,sq-AL,email,email_sendemail,sapo mora një email nga dori që duhet ti përgjigjem tani,email_sendemail,1.0,1.0,True
+16593,sq-AL,email,email_sendemail,emailit të fundit i duhet kthyer përgjigje sa më shpejt,email_sendemail,1.0,1.0,True
+16603,sq-AL,email,email_query,çfarë thotë emaili që është dërguar tridhjetë minuta më parë nga mami,email_sendemail,1.0,0.0,False
+16605,sq-AL,email,email_sendemail,shkruaj dhe dërgo email shefit tim,email_sendemail,1.0,1.0,True
+16609,sq-AL,email,email_query,më thuaj a kam ndonjë email të ri të palexuar,email_sendemail,0.9998,0.0001,False
+16613,sq-AL,email,email_sendemail,dërgo email shefit duke i thënë se do të vonohem,email_sendemail,1.0,1.0,True
+16622,sq-AL,email,email_sendemail,dërgoji email këtij kontakti,email_sendemail,0.9999,0.9999,True
+16624,sq-AL,email,email_sendemail,më duhet ti dërgoj një email goldikomit për problemet e shërbimit tim,email_sendemail,1.0,1.0,True
+16627,sq-AL,email,email_query,kontrollo emailet aktuale,email_sendemail,1.0,0.0,False
+16630,sq-AL,email,email_sendemail,dërgoi një përgjigje emailit të fundit,email_sendemail,1.0,1.0,True
+16642,sq-AL,email,email_query,kontrollo postën për ndonjë gjë nga elona,social_post,0.9998,0.0,False
+16648,sq-AL,email,email_query,të lutem kontrollo emailet e mia për mua,email_sendemail,0.9985,0.0013,False
+16652,sq-AL,email,email_query,a kishte ndonjë bashkëngjitje emaili i ervinit,email_sendemail,1.0,0.0,False
+16662,sq-AL,email,email_query,a kam amrrë ndonjë email të ri nga erjoni,email_sendemail,1.0,0.0,False
+16666,sq-AL,email,email_query,a kam unë ndonjë email duke ardhur,email_sendemail,1.0,0.0,False
+16668,sq-AL,email,email_query,a ka ardhur ndonjë email që prej orës katër sot,email_sendemail,1.0,0.0,False
+16669,sq-AL,email,email_query,a kam marrë email nga andi,email_sendemail,1.0,0.0,False
+16672,sq-AL,email,email_query,a të ka kontaktuar arbeni,qa_factoid,1.0,0.0,False
+16677,sq-AL,email,email_query,a kam unë ndonjë email të ri në inbox tim sot,email_sendemail,1.0,0.0,False
+16698,sq-AL,email,email_sendemail,shkruani një përgjigjje emailit të mamasë time,email_sendemail,1.0,1.0,True
+16701,sq-AL,email,email_sendemail,do doja ti përgjigjesha emailit të andjës,email_sendemail,1.0,1.0,True
+16703,sq-AL,email,email_sendemail,dua t'i përgjigjem emailit më të fundit,email_sendemail,1.0,1.0,True
+16712,sq-AL,email,email_query,a kam unë ndonjë email të ri,email_sendemail,1.0,0.0,False
+16713,sq-AL,email,email_query,ju lutem kontrolloni emailet e mia dhe më njoftoni nëse ekziston ndonjë email i ri,email_sendemail,1.0,0.0,False
+16717,sq-AL,email,email_sendemail,a mund ti dërgosh email benit për ti thënë se jam me leje,email_sendemail,1.0,1.0,True
+16719,sq-AL,email,email_query,më njofto për ndonjë email të ri që kam marrë,email_sendemail,1.0,0.0,False
+16729,sq-AL,email,email_sendemail,përgjigju emailit tim nga eri duke i bërë të ditur se do takohemi nesër,email_sendemail,1.0,1.0,True
+16730,sq-AL,email,email_query,të lutem kontrolloni emailin e ri nga eltoni,email_sendemail,1.0,0.0,False
+16733,sq-AL,email,email_query,më trego emailet më të fundit nga albtelecomi,email_sendemail,0.8275,0.1516,False
+16749,sq-AL,email,email_query,a ka ndonjë email të ri për mua sot,email_sendemail,1.0,0.0,False
+16754,sq-AL,email,email_sendemail,diktoj emailin,email_sendemail,0.9999,0.9999,True
+16758,sq-AL,email,email_query,ndonjë email të ri që nga hera e fundit,email_sendemail,1.0,0.0,False
+16763,sq-AL,email,email_query,emailet në dhjetë minutat e fundit,email_sendemail,1.0,0.0,False
+16765,sq-AL,email,email_query,në çfarë ore është intervista nga emaili i djeshëm,email_query,0.9932,0.9932,True
+16766,sq-AL,email,email_query,kontrollo emailin e ri,email_sendemail,1.0,0.0,False
+16772,sq-AL,email,email_query,shfaq të gjitha emailet në lidhje me urën,email_sendemail,0.9577,0.0034,False
+16780,sq-AL,email,email_sendemail,dërgo një email tek elisaspiropali et xhimeil pikë kom,email_sendemail,1.0,1.0,True
+16791,sq-AL,email,email_sendemail,shkruaj një email të ri por mora një adresë të re këtë herë artan et gmail pikë kom,email_sendemail,1.0,1.0,True
+16799,sq-AL,email,email_query,a kam unë ndonjë email të ri që nga mesdita,email_sendemail,0.9999,0.0,False
+16801,sq-AL,email,email_query,më ka dërguar dori ndonjë email në lidhje me inën,email_sendemail,1.0,0.0,False
+16813,sq-AL,email,email_query,bëj bip kur të marr një email nga ermali,email_sendemail,1.0,0.0,False
+16814,sq-AL,email,email_query,kontrollo emailet,email_sendemail,1.0,0.0,False
+16838,sq-AL,email,email_sendemail,mund të dërgoni email në numrin e ri të emailit,email_sendemail,1.0,1.0,True
+16851,sq-AL,email,email_query,njoftimet e emailit,email_sendemail,1.0,0.0,False
+16859,sq-AL,email,email_query,çfarë i thash unë arjanës në emailin tim të fundit,email_sendemail,0.8606,0.1394,False
+16872,sq-AL,email,email_sendemail,gjej dorin nga kontaktet e mia dhe dërgoji asaj një email,email_sendemail,1.0,1.0,True
+16873,sq-AL,email,email_sendemail,dërgoji email erës për ditëlindjen e saj,email_sendemail,1.0,1.0,True
+16880,sq-AL,email,email_sendemail,dërgoi email xhinos në lidhje me mbledhjen,email_sendemail,1.0,1.0,True
+16883,sq-AL,email,email_sendemail,dërgo një email xhinos dhe pyete kur do të jetë në shtëpi sonte,email_sendemail,1.0,1.0,True
+16886,sq-AL,email,email_sendemail,përgjigju këtij imeili,email_sendemail,1.0,1.0,True
+16888,sq-AL,email,email_query,po për postën e re,social_post,0.9998,0.0,False
+16890,sq-AL,email,email_query,cfarë thotë emaili i ri,email_sendemail,1.0,0.0,False
+16891,sq-AL,email,email_sendemail,dërgo elton hoxha dhe email,email_sendemail,1.0,1.0,True
+16892,sq-AL,email,email_sendemail,fillo një email për elton xhebros,email_sendemail,1.0,1.0,True
+16899,sq-AL,email,email_query,a kam marrë unë ndonjë email nga boran zemani,email_sendemail,1.0,0.0,False
+16914,sq-AL,email,email_query,a kam unë emaile nga ky dërgues,email_sendemail,1.0,0.0,False
+16916,sq-AL,email,email_sendemail,ckemi përgjigju nje emaili që sapo mora,email_sendemail,1.0,1.0,True
+16924,sq-AL,email,email_query,ju lutem kontrolloni gmail tim për email të ri,email_sendemail,1.0,0.0,False
+16930,sq-AL,email,email_query,më trego emailin e fundit,email_sendemail,1.0,0.0,False
+16938,sq-AL,email,email_sendemail,përgjigju emailit të arditit,email_sendemail,1.0,1.0,True
+16944,sq-AL,email,email_sendemail,dërgoji një email gjyshes duke i thënë se do të kalojmë të shtunën për ta parë,email_sendemail,1.0,1.0,True
+16947,sq-AL,email,email_sendemail,përgjigju email,email_sendemail,1.0,1.0,True
+16955,sq-AL,email,email_sendemail,dërgo email tek kontakti i ri,email_sendemail,1.0,1.0,True
+16956,sq-AL,email,email_sendemail,dërgoni email kontaktit të ri,email_sendemail,1.0,1.0,True
+16961,sq-AL,email,email_sendemail,pëgjigju me,qa_factoid,0.9886,0.0001,False
+16974,sq-AL,email,email_query,të lutem kontrollo të gjithe emailiet e reja nga ministria e jashtëme,email_sendemail,0.9998,0.0001,False
+16987,sq-AL,email,email_query,ka ndonjë email të ri nga erjoni,email_sendemail,1.0,0.0,False
+16989,sq-AL,email,email_sendemail,të lutem thuaj në emailin që gjergji më dërgoi se kam nevojë për para tani është urgjente,email_sendemail,1.0,1.0,True
+16992,sq-AL,email,email_query,a më ka dërguar email eri lala,email_sendemail,1.0,0.0,False
+16995,sq-AL,email,email_sendemail,dergoi email xhesikës,email_sendemail,1.0,1.0,True
+17005,sq-AL,email,email_query,email të ri,email_sendemail,1.0,0.0,False
+17011,sq-AL,email,email_sendemail,mund të dërgoni një email tek,email_sendemail,1.0,1.0,True
+17015,sq-AL,email,email_sendemail,krijo përgjigjjen,qa_factoid,0.9838,0.0001,False
+17019,sq-AL,email,email_sendemail,ktheji përgjigje emailit të fundit,email_sendemail,1.0,1.0,True
+17020,sq-AL,email,email_sendemail,përgjigju emailit të fundit të marrë,email_sendemail,1.0,1.0,True
+17023,sq-AL,email,email_sendemail,dërgoji email mamit dhe pyete si është moti,email_sendemail,1.0,1.0,True
+17042,sq-AL,email,email_sendemail,dërgoji email xhon et xhimeil pikë kom,email_sendemail,1.0,1.0,True
+17043,sq-AL,email,email_sendemail,dërgo email në miri et hotmail pikë kom,email_sendemail,1.0,1.0,True
+17051,sq-AL,email,email_query,më trego emailet e reja,email_sendemail,1.0,0.0,False
+17052,sq-AL,email,email_query,kërko ervinën,social_post,0.3659,0.0244,False
+17069,sq-AL,email,email_query,a ka ndonjë email të ri në outlook,email_sendemail,0.9961,0.0039,False
+17075,sq-AL,email,email_query,a ka ndonjë email të ri të marrë pas katrës sot,email_sendemail,0.9451,0.0222,False
+17081,sq-AL,email,email_sendemail,krijo një email për kolegun me dokumentet e mia të ruajtura së fundmi,email_sendemail,1.0,1.0,True
+17087,sq-AL,email,email_query,kontrollo për mua emailet e reja të marra nga elvira,email_sendemail,1.0,0.0,False
+17098,sq-AL,email,email_query,më trego ndonjë email që kam marr orën e fundit,email_sendemail,1.0,0.0,False
+17107,sq-AL,email,email_query,kontrollo emailet e reja,email_sendemail,1.0,0.0,False
+17108,sq-AL,email,email_query,më trego emailin tim më të fundit,email_sendemail,1.0,0.0,False
+17113,sq-AL,email,email_sendemail,krijo email për dorin,email_sendemail,1.0,1.0,True
+17115,sq-AL,email,email_query,lexo listën e emaileve të reja,email_sendemail,0.9975,0.0025,False
+17116,sq-AL,email,email_query,shfaq listën e emaileve të fundit,email_sendemail,0.8356,0.1644,False
+17119,sq-AL,email,email_query,kontrollo ndonjë email nga amazon,email_sendemail,1.0,0.0,False
+17123,sq-AL,email,email_sendemail,email nga z. v. presidenti i degës,email_sendemail,1.0,1.0,True
+17135,sq-AL,email,email_query,ndonjë email i lajmit të fundit,email_sendemail,1.0,0.0,False
+17136,sq-AL,email,email_query,të lutem lexo emailet e mia të reja,email_sendemail,0.9679,0.0295,False
+17138,sq-AL,email,email_query,të lutem arkivo mesazhet e mia të lexuara,lists_query,0.3476,0.0243,False
+17142,sq-AL,email,email_query,çfarë ka në inboxin tim prej kur kemi shikuar herën e fundit,email_sendemail,0.986,0.0117,False
+17143,sq-AL,email,email_sendemail,përshëndetje dergo email arjonit,email_sendemail,1.0,1.0,True
+17144,sq-AL,email,email_query,ej kontrollo emailin,email_sendemail,1.0,0.0,False
+17147,sq-AL,email,email_sendemail,përgjigjju emailit me përmbajtje e mëposhtme përshëndetje,email_sendemail,1.0,1.0,True
+17148,sq-AL,email,email_sendemail,sara përgjigju emailit duke thënë përshendetje ti,email_sendemail,1.0,1.0,True
+17151,sq-AL,email,email_sendemail,shoku im arjan më ka dërguar një ftesë tek shtëpia e tij e sapo blerë thuaji faleminderit ne i d e tij te mailit,social_post,0.8081,0.0098,False
+17156,sq-AL,email,email_query,kontrollo emailin tim për ndonjë email të ri nga erjoni,email_sendemail,1.0,0.0,False
+17157,sq-AL,email,email_query,a kam unë ndonjë email të ri nga aleksi,email_sendemail,1.0,0.0,False
+17170,sq-AL,email,email_query,më njofto kur eltoni të më çoj email,email_sendemail,1.0,0.0,False
+17179,sq-AL,email,email_query,a më ka dërguar email eri,email_sendemail,1.0,0.0,False

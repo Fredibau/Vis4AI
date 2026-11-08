@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,th-TH,iot,iot_hue_lightoff,olly ปิด ไฟ ใน ห้องนอน,iot_hue_lightoff,0.3996,0.3996,True
+47,th-TH,datetime,datetime_query,เวลาที่ ไทย คือกี่โมง,weather_query,0.8198,0.1751,False
+85,th-TH,datetime,datetime_query,บอกวันที่ของ วันนี้ ให้ฉันรู้,datetime_query,0.8507,0.8507,True
+86,th-TH,datetime,datetime_query,วันนี้ วันที่เท่าไหร่,weather_query,0.978,0.0176,False
+100,th-TH,weather,weather_query,พยากรณ์อากาศตอน แปดโมง คืออะไร,weather_query,0.843,0.843,True
+102,th-TH,weather,weather_query,สัปดาห์นี้ อากาศเป็นอย่างไร,weather_query,0.999,0.999,True
+103,th-TH,weather,weather_query,รายงานสภาพอากาศ สัปดาห์นี้,weather_query,0.9956,0.9956,True
+128,th-TH,datetime,datetime_query,วันที่เท่าไหร่,datetime_query,0.9888,0.9888,True
+151,th-TH,play,play_music,เล่นเพลง นั้น อีกครั้ง,play_music,0.9999,0.9999,True
+177,th-TH,news,news_query,เล่าข่าว ธุรกิจ ให้ฉันฟังบ้าง,news_query,0.9988,0.9988,True
+178,th-TH,news,news_query,ข่าว ต่างประเทศ,news_query,0.961,0.961,True
+182,th-TH,play,play_music,เล่น รายการเพลง ร็อค ของฉัน,play_music,0.9997,0.9997,True
+185,th-TH,play,play_music,เปิดเพลย์ลิสต์ แล้วเล่น เพลง ที่สามให้หน่อย,play_music,0.9998,0.9998,True
+197,th-TH,datetime,datetime_query,กี่โมงแล้ว,weather_query,0.687,0.3016,False
+216,th-TH,weather,weather_query,วันนี้ อากาศเป็นอย่างไร,weather_query,0.9992,0.9992,True
+219,th-TH,weather,weather_query,พรุ่งนี้ ต้องเอา ร่ม ไปด้วยมั้ย,iot_hue_lightoff,0.4309,0.0518,False
+220,th-TH,play,play_music,เล่นดนตรีจาก รายการเพลงร็อก ของฉัน,play_music,1.0,1.0,True
+250,th-TH,play,play_music,รู้สึกอยากฟังเพลง แจ๊ส ตอนนี้ คิดว่าไง,play_music,0.9189,0.9189,True
+254,th-TH,play,play_music,olly เล่น เพลง จากวง แจ๊ซ โปรด ของชั้น,play_music,0.9732,0.9732,True
+279,th-TH,weather,weather_query,พยากรณ์อากาศที่ ชายทะเลบางแสน วันนี้ เป็นยังไงบ้าง,weather_query,0.9929,0.9929,True
+281,th-TH,news,news_query,อัตราแลกเปลี่ยนดอลลาร์สหรัฐเป็นปอนด์อังกฤษ คืออะไร,qa_factoid,0.1921,0.0406,False
+296,th-TH,play,play_music,เล่น เนอร์วานาร์เพลลิสต์,play_radio,0.6866,0.3082,False
+297,th-TH,play,play_music,สุ่ม เพลง ของ กะลา,play_music,0.9784,0.9784,True
+299,th-TH,weather,weather_query,สภาพอากาศเป็นอย่างไร,weather_query,0.9991,0.9991,True
+310,th-TH,datetime,datetime_query,ปีใหม่ ปีนี้ วันอะไร,datetime_query,0.9354,0.9354,True
+319,th-TH,weather,weather_query,ขอพยากรณ์อากาศที่ ชายทะเลบางแสน อีกสองวันข้างหน้า,weather_query,0.8714,0.8714,True
+329,th-TH,play,play_music,เล่น ใจหนอใจ,play_radio,0.7726,0.2247,False
+333,th-TH,weather,weather_query,สภาพ อากาศ ใน สมุทรสาคร เป็นอย่างไรบ้าง,weather_query,0.9993,0.9993,True
+334,th-TH,weather,weather_query,อยากรู้ว่าอากาศที่ บ้านแม่ เป็นยังไง,weather_query,0.9997,0.9997,True
+344,th-TH,weather,weather_query,พรุ่งนี้ จะมี ฝนตก ไหม,weather_query,0.9979,0.9979,True
+348,th-TH,weather,weather_query,พรุ่งนี้ จะมี ฝนตก ไหม,weather_query,0.9979,0.9979,True
+355,th-TH,datetime,datetime_query,วันใดในสัปดาห์เป็น วันแรกของเดือนเมษายน,calendar_remove,0.6237,0.0136,False
+360,th-TH,datetime,datetime_query,เวลาปัจจุบันคือกี่โมง,datetime_query,0.9817,0.9817,True
+362,th-TH,play,play_music,เล่น เพลง ที่สอง ของ วี วิโอเลต,play_music,1.0,1.0,True
+366,th-TH,news,news_query,ข่าวล่าสุด,news_query,0.9997,0.9997,True
+369,th-TH,iot,iot_hue_lightoff,ปิด ไฟ,calendar_remove,0.901,0.0177,False
+385,th-TH,news,news_query,มีข่าวสะเทือนใจอะไรบ้างใน เดลินิวส์,news_query,0.9996,0.9996,True
+391,th-TH,play,play_music,สุ่ม เพลง จาก เพลย์ลิสต์ ของชั้น,play_music,0.914,0.914,True
+393,th-TH,play,play_music,เล่น เพลง เรโทร ใน เพลย์ลิสต์ ของชั้น,play_music,0.9999,0.9999,True
+397,th-TH,play,play_music,เล่น เพลง ของ วี วิโอเลต,play_music,1.0,1.0,True
+400,th-TH,play,play_music,เริ่มเล่น,play_radio,0.916,0.0817,False
+407,th-TH,play,play_music,เล่นเพลง ร็อค ใน ชั่วโมงต่อไป ได้ไหม,play_music,0.9999,0.9999,True
+424,th-TH,news,news_query,ข่าว ด่วน มีอะไรบ้าง,news_query,0.9969,0.9969,True
+427,th-TH,iot,iot_hue_lightoff,ปิด ไฟ ใน ห้องน้ำ,lists_remove,0.3579,0.1908,False
+428,th-TH,iot,iot_hue_lightoff,ปิด ไฟ ห้องน้ำ,iot_hue_lightoff,0.2988,0.2988,True
+430,th-TH,weather,weather_query,อากาศ ตอนนี้ เป็นอย่างไร,weather_query,0.9991,0.9991,True
+437,th-TH,play,play_music,เปิด ไฟล์ บอดี้เเสลม,iot_hue_lightoff,0.2791,0.0282,False
+441,th-TH,news,news_query,ข่าวพาดหัวล่าสุดมีอะไรบ้าง,news_query,0.9894,0.9894,True
+442,th-TH,news,news_query,ข่าวล่าสุดมีอะไรบ้าง,news_query,0.9997,0.9997,True
+451,th-TH,news,news_query,ราคาหุ้นสำหรับ ปตท. ล่าสุด,qa_factoid,0.928,0.0027,False
+473,th-TH,play,play_music,เล่น ใจบาง,play_radio,0.7116,0.2864,False
+486,th-TH,datetime,datetime_query,ตอนนี้ ที่ กรุงเทพ กี่โมง,weather_query,0.9934,0.0043,False
+491,th-TH,weather,weather_query,ข้างนอกอากาศ เย็น มั๊ย,weather_query,0.9977,0.9977,True
+506,th-TH,play,play_music,เปิด เพลง ของ บอดี้สแลม,play_music,0.9998,0.9998,True
+512,th-TH,weather,weather_query,มนต์สิทธิ์ คำสร้อย,email_query,0.6459,0.0037,False
+540,th-TH,play,play_music,เล่น เพลง ที่ ร้องโดย หญิงลี ศรีจุมพล,play_music,1.0,1.0,True
+555,th-TH,play,play_music,เล่นเพลง อะไรก็ได้ ของ ซีเรียวเบคอน,play_music,0.9999,0.9999,True
+576,th-TH,play,play_music,เล่นเพลง ทั้งหมด ใน เพลย์ลิสต์,play_music,0.9997,0.9997,True
+585,th-TH,news,news_query,แสดง ข่าวล่าสุด,news_query,0.9895,0.9895,True
+588,th-TH,news,news_query,วันนี้ มีข่าวใหม่อะไรบ้าง,news_query,0.9996,0.9996,True
+590,th-TH,weather,weather_query,สภาพอากาศ ตอนนี้ เป็นอย่างไร,weather_query,0.9985,0.9985,True
+614,th-TH,play,play_music,เริ่มเล่น เพลย์ลิสต์,play_music,0.9747,0.9747,True
+625,th-TH,play,play_music,กรุณาเล่นวิทยุเพลง ไร้สาระ,play_music,0.9991,0.9991,True
+631,th-TH,news,news_query,ตั้งการ แจ้งเตือน สำหรับข่าวเกี่ยวกับ ท่อส่งน้ำมันของ ปตท.,email_sendemail,0.4557,0.0207,False
+651,th-TH,iot,iot_hue_lightoff,ปิด ไฟ ห้อง,lists_remove,0.2432,0.1341,False
+660,th-TH,datetime,datetime_query,เวลาของ ญี่ปุ่น ตอนนี้,weather_query,0.9592,0.0098,False
+680,th-TH,news,news_query,คอยอัปเดตฉันเรื่อง ราคาบิตคอยน์,qa_factoid,0.9996,0.0,False
+686,th-TH,datetime,datetime_query,ตอนนี้ที่ เชียงใหม่ กี่โมงแล้ว,weather_query,0.9978,0.0005,False
+712,th-TH,news,news_query,อยากฟังข่าวล่าสุดจาก c. n. n.,news_query,0.9816,0.9816,True
+726,th-TH,weather,weather_query,สรุปรายละเอียดสภาพอากาศ ของสัปดาห์,weather_query,0.9947,0.9947,True
+730,th-TH,iot,iot_hue_lightoff,ปิด ไฟ,calendar_remove,0.901,0.0177,False
+738,th-TH,weather,weather_query,วันนี้ ข้างนอก หนาว แค่ไหน,weather_query,0.9978,0.9978,True
+764,th-TH,weather,weather_query,พยากรณ์อากาศสำหรับ อาทิตย์นี้ คืออะไร,weather_query,0.9797,0.9797,True
+765,th-TH,news,news_query,กรุณาขอพาดหัวข่าวล่าสุดจาก สำนักข่าวใหม่ที่สุด,news_query,0.9224,0.9224,True
+767,th-TH,news,news_query,ช่วยหาข่าวล่าสุดจากแหล่งข่าวที่ฉันไม่ค่อยติดตามให้ฉันทีได้มั้ย,news_query,0.9917,0.9917,True
+768,th-TH,news,news_query,บอกฉันเกี่ยวกับ ข่าว การเมือง ล่าสุด,news_query,0.7142,0.7142,True
+779,th-TH,play,play_music,ฉันต้องการฟัง ใจสั่งมา โดย โลโซ,social_post,0.9997,0.0001,False
+781,th-TH,play,play_music,เล่น พิง,play_music,0.4639,0.4639,True
+782,th-TH,play,play_music,เล่น กักตัว โดย วี วิโอเลต,play_music,0.4218,0.4218,True
+783,th-TH,play,play_music,เล่น เพลงรัก,play_music,0.9997,0.9997,True
+790,th-TH,weather,weather_query,อากาศจะ สบายๆ หรือว่า ร้อนมาก,weather_query,0.9987,0.9987,True
+826,th-TH,weather,weather_query,อุณหภูมิ ข้างนอก ตอนนี้ เป็นอย่างไร,qa_factoid,0.233,0.2105,False
+827,th-TH,play,play_music,เล่น เพลย์ลิสต์ ธงไชย แมคอินไตย์,play_music,0.9864,0.9864,True
+832,th-TH,weather,weather_query,พรุ่งนี้ พยากรณ์ อากาศ ว่ายังไงบ้าง,weather_query,0.9977,0.9977,True
+837,th-TH,news,news_query,การคาดการ ผล การเลือกตั้งที่จะมาถึง ของ โพล ของ b. b. c. คืออะไร,qa_factoid,0.4516,0.0137,False
+891,th-TH,play,play_music,เล่น เพลง จีน,play_music,0.9998,0.9998,True
+914,th-TH,iot,iot_hue_lightoff,ได้โปรด ปิด ไฟ,calendar_remove,0.6949,0.1283,False
+936,th-TH,play,play_music,เปิดและเล่นเพลงจากเพลย์ลิสต์ วิ่งจ๊อกกิ้ง,play_music,1.0,1.0,True
+951,th-TH,weather,weather_query,วันนี้ อากาศที่ ดอยตุง ดูเป็นยังไงบ้าง,weather_query,0.9991,0.9991,True
+969,th-TH,news,news_query,บทความ ข่าว ในหัวข้อจำเพาะ,news_query,0.9303,0.9303,True
+974,th-TH,datetime,datetime_query,ตอนนี้ที่ เชียงใหม่ กี่โมงแล้ว,weather_query,0.9978,0.0005,False
+997,th-TH,iot,iot_hue_lightoff,ปิดไฟ ห้องนั่งเล่น,lists_remove,0.1705,0.0739,False
+999,th-TH,iot,iot_hue_lightoff,ช่วย ปิด ไฟ ให้ได้มั้ย,iot_hue_lightoff,0.8079,0.8079,True
+1007,th-TH,play,play_music,เล่น โลโซ จาก เพลย์ลิสต์ เพลงร็อก ของฉัน,play_music,1.0,1.0,True
+1014,th-TH,datetime,datetime_query,ตอนนี้ ที่ ลอนดอน เป็นเวลากี่โมง,weather_query,0.9875,0.0105,False
+1047,th-TH,play,play_music,ฉันอยากร้องไห้ คุณช่วยเล่น เพลง ร็อก เศร้า เศร้า ได้ไหม,play_music,1.0,1.0,True
+1061,th-TH,news,news_query,ขอ ข่าว กีฬา วัน นี้,weather_query,0.9966,0.0003,False
+1063,th-TH,news,news_query,ขอการแจ้งเตือน ทุกชั่วโมง สำหรับ ข่าว กีฬา,weather_query,0.9935,0.0002,False
+1084,th-TH,news,news_query,เป็นมิตรต่อผู้ใช้งาน,qa_factoid,0.3205,0.026,False
+1093,th-TH,news,news_query,ไปที่ เว็บไซต์ ของ ไทยรัฐ,social_post,0.4779,0.0018,False
+1098,th-TH,datetime,datetime_query,วันที่ สิบห้า มีนาคม ตรงกับวันอะไรของสัปดาห์,datetime_query,0.9881,0.9881,True
+1108,th-TH,play,play_music,ความต้องการ ของฉัน คือเพื่อฟัง ดนตรี ลูกทุ่ง อะไรสักอย่าง,play_music,0.81,0.81,True
+1115,th-TH,play,play_music,ผสมผสาน ประเภทเพลง ป๊อป ทั้งหมด,play_music,0.6226,0.6226,True
+1120,th-TH,news,news_query,การเมือง มีอะไรพิเศษไหม,qa_factoid,0.6826,0.005,False
+1121,th-TH,play,play_music,เล่น พิง โดย นนท์ ธนนท์,play_music,0.7655,0.7655,True
+1123,th-TH,play,play_music,ถัดไป เล่น พิง ของ นนท์ ธนนท์,cooking_recipe,0.8018,0.0628,False
+1124,th-TH,play,play_music,เตรียม กักตัว ของ วี วิโอเลต ให้พร้อมเล่นถัดไป,iot_hue_lightoff,0.4294,0.0157,False
+1127,th-TH,play,play_music,เล่นเพลงทั้งหมดแบบ สับ,play_music,0.9991,0.9991,True
+1144,th-TH,play,play_music,ฉันต้องการเพลง แร็ป อะไรสักอย่าง,play_music,0.9977,0.9977,True
+1148,th-TH,datetime,datetime_query,ตอนนี้ที่ มะนิลา เป็นเวลากี่โมง,weather_query,0.9957,0.0026,False
+1156,th-TH,news,news_query,ข่าวล่าสุดเรื่อง วันสตรีสากล,news_query,0.9977,0.9977,True
+1160,th-TH,weather,weather_query,แต่ละคืน จะ เย็น แค่ไหน ใน อาทิตย์นี้,weather_query,0.9949,0.9949,True
+1180,th-TH,news,news_query,หา บทความ ของวันนี้ จาก หนังสือพิมพ์ไทยรัฐ ที่เกี่ยวกับ ประยุทธ์,news_query,0.7843,0.7843,True
+1202,th-TH,datetime,datetime_query,เวลา ตอนนี้ ของ กรุงเทพ,weather_query,0.9635,0.0316,False
+1238,th-TH,play,play_music,pandora,qa_factoid,0.1403,0.0391,False
+1249,th-TH,weather,weather_query,สภาพอากาศ สัปดาห์นี้ มีแนวโน้ม จะเป็นอย่างไร,weather_query,0.9992,0.9992,True
+1252,th-TH,datetime,datetime_query,บอกเวลาของตอนนี้,weather_query,0.9488,0.0039,False
+1294,th-TH,news,news_query,ข่าว รางวัลสุพรรณหงษ์,news_query,0.9994,0.9994,True
+1301,th-TH,news,news_query,บอกฉันเกี่ยวกับข่าว นโยบายต่างประเทศของประยุทธ์,news_query,0.999,0.999,True
+1308,th-TH,weather,weather_query,ขอพยากรณ์อากาศ วันนี้ ที่นี่,iot_hue_lightoff,0.6926,0.1708,False
+1318,th-TH,play,play_music,เริ่มเปิดแอพพลิเคชั่น เพลง และเล่น เพลง ให้ฉันฟัง,play_music,0.9999,0.9999,True
+1351,th-TH,weather,weather_query,สัปดาห์นี้ ข้างนอกจะอากาศ ดี ไหม,weather_query,0.997,0.997,True
+1371,th-TH,news,news_query,ข่าวหน้าหนึ่ง ของไทยรัฐ มีอะไรบ้าง,news_query,0.7341,0.7341,True
+1377,th-TH,iot,iot_hue_lightoff,ปิดไฟ ห้องลูกชาย,lists_remove,0.256,0.1168,False
+1400,th-TH,weather,weather_query,ฉันมักจะให้ความสนใจ,recommendation_events,0.9505,0.0001,False
+1401,th-TH,weather,weather_query,ฉันให้ความสนใจเป็นครั้งคราว,recommendation_events,0.9904,0.0001,False
+1404,th-TH,weather,weather_query,ได้โปรดฉันขอสภาพอากาศที่นี่สำหรับ วันพรุ่งนี้,weather_query,0.9988,0.9988,True
+1423,th-TH,news,news_query,เกี่ยวกับ ทักษิณ,email_query,0.8728,0.0,False
+1425,th-TH,news,news_query,บอกให้ฉันรู้เมื่อคุณได้ยินอะไรเกี่ยวกับ ฝรั่งเศส,social_post,0.8444,0.0035,False
+1440,th-TH,play,play_music,เล่น เพลง ร็อค ล่าสุด ที่มี มากกว่าสี่ดาวขึ้นไป,play_music,0.9996,0.9996,True
+1449,th-TH,datetime,datetime_query,วันลอยกระทง ในปี สองพันสิบแปด,qa_factoid,0.9627,0.0045,False
+1458,th-TH,weather,weather_query,ดอยอินทนนท์ ร้อน ขนาดไหน,weather_query,0.5708,0.5708,True
+1467,th-TH,play,play_music,เล่น สล็อตเเมชชีน,play_music,0.3298,0.3298,True
+1474,th-TH,news,news_query,ข่าว กีฬา ของวันนี้ มีอะไรบ้าง,news_query,0.9979,0.9979,True
+1489,th-TH,play,play_music,เล่น เพลง ล่าสุด สิงโต นำโชค,play_music,0.9998,0.9998,True
+1513,th-TH,weather,weather_query,ข้างนอก อุณหภูมิ เท่าไหร่,qa_factoid,0.4075,0.3984,False
+1533,th-TH,news,news_query,มีอะไรเป็นข่าวบ้าง จาก ไทยรัฐ วันนี้,news_query,0.9995,0.9995,True
+1537,th-TH,datetime,datetime_query,แสดงเวลาปัจจุบัน ของ ไทย,datetime_query,0.9533,0.9533,True
+1542,th-TH,weather,weather_query,แดดจ้า แบบนี้ถึง หกโมง เลยมั๊ย,weather_query,0.9986,0.9986,True
+1546,th-TH,play,play_music,เล่น เพลย์ลิสต์ซัมเมอร์แจมส์ ของฉัน,play_music,0.9998,0.9998,True
+1547,th-TH,weather,weather_query,สภาพอากาศ ใน สัปดาห์นี้ สำหรับพื้นที่ ของฉัน เป็นอย่างไร,weather_query,0.9986,0.9986,True
+1549,th-TH,weather,weather_query,สัปดาห์นี้ จะมี ฝนตก ไหม,weather_query,0.998,0.998,True
+1554,th-TH,iot,iot_hue_lightoff,ปิด โคมไฟ,calendar_remove,0.2816,0.0763,False
+1581,th-TH,datetime,datetime_query,เดือนและปีปัจจุบัน,datetime_query,0.9882,0.9882,True
+1589,th-TH,weather,weather_query,วันอังคาร หน้า จะมี แดดออก ไหม,weather_query,0.7322,0.7322,True
+1593,th-TH,news,news_query,ตั้งการ แจ้งเตือน สำหรับ ข่าวรอบโลก,qa_factoid,0.9502,0.0009,False
+1594,th-TH,news,news_query,ช่วยบอกข่าวล่าสุดให้ฉันฟังที,news_query,0.9911,0.9911,True
+1607,th-TH,datetime,datetime_query,ตอนนี้ที่ เชียงใหม่ กี่โมง,weather_query,0.9971,0.0009,False
+1617,th-TH,news,news_query,เตือนฉันเมื่อมีข่าว การเมือง ใหม่,social_post,0.3525,0.157,False
+1636,th-TH,news,news_query,แสดง ข่าวล่าสุด จาก ไทยรัฐ ให้ฉันดูหน่อย,news_query,0.9968,0.9968,True
+1653,th-TH,weather,weather_query,จะมี ฝนตก เมื่อไร,weather_query,0.9991,0.9991,True
+1655,th-TH,weather,weather_query,จะมี ฝนตก พรุ่งนี้ ตอน เที่ยง ไหม,weather_query,0.9968,0.9968,True
+1666,th-TH,news,news_query,ข่าว ไทยรัฐ ใน หกชั่วโมงที่ผ่านมา คือข่าวอะไร,news_query,0.9992,0.9992,True
+1671,th-TH,play,play_music,เล่นแต่เพลงทั้งหมดที่ออกระหว่างปี หนึ่งพันเก้าร้อยเก้าสิบ และ สองพัน,play_music,1.0,1.0,True
+1683,th-TH,weather,weather_query,อุณหภูมิ พรุ่งนี้ จะ ร้อน ใช่หรือไม่,weather_query,0.9992,0.9992,True
+1684,th-TH,weather,weather_query,พรุ่งนี้ อุณหภูมิ จะ ร้อน ใช่มั๊ย,weather_query,0.999,0.999,True
+1692,th-TH,play,play_music,หา แจ๊ส บ้าง ให้ฉัน,recommendation_events,0.6193,0.001,False
+1722,th-TH,weather,weather_query,อุณหภูมิ ต่ำสุด สมุทรสาคร,weather_query,0.8561,0.8561,True
+1750,th-TH,iot,iot_hue_lightoff,ปิด ไฟทุกดวง,calendar_remove,0.2494,0.0478,False
+1759,th-TH,news,news_query,ขอข่าวนายก ประยุทธ์,news_query,0.9895,0.9895,True
+1760,th-TH,news,news_query,ข่าวล่าสุดเกี่ยวกับ การก่อการร้าย,news_query,0.9977,0.9977,True
+1777,th-TH,play,play_music,เพลง ต่อไป,play_music,0.9738,0.9738,True
+1784,th-TH,iot,iot_hue_lightoff,ปิด ไฟ ห้องกินข้าว,calendar_remove,0.2528,0.0849,False
+1786,th-TH,iot,iot_hue_lightoff,ปิด ไฟ ใน ห้องนอนใหญ่,iot_hue_lightoff,0.3252,0.3252,True
+1794,th-TH,news,news_query,ประยุทธ์ จะไปเยี่ยม รัสเซีย เร็วเร็วนี้หรือไม่,email_sendemail,0.9998,0.0,False
+1796,th-TH,datetime,datetime_query,วันนี้ วันที่,datetime_query,0.8743,0.8743,True
+1803,th-TH,news,news_query,วันนี้ มีทีมไหนเล่นบ้างใน ไทยลีก,email_query,0.2546,0.0646,False
+1811,th-TH,play,play_music,เริ่มเพลย์ลิสต์ และเล่น ดนตรี,play_music,0.9578,0.9578,True
+1832,th-TH,play,play_music,เล่น อัลบั้ม ดีทูบี,play_music,0.9999,0.9999,True
+1833,th-TH,play,play_music,เล่นซ้ำ เพลย์ลิสต์ เพลงลูกทุ่ง หน่อย,play_music,1.0,1.0,True
+1866,th-TH,weather,weather_query,รายงานสภาพอากาศ ณ ตอนนี้,weather_query,0.9958,0.9958,True
+1870,th-TH,datetime,datetime_query,วันนี้ เป็นเดือนอะไร,datetime_query,0.9673,0.9673,True
+1904,th-TH,news,news_query,หา ไฮไลท์การแข่งขัน ให้ฉัน,recommendation_events,0.7912,0.0002,False
+1933,th-TH,weather,weather_query,คืนนี้ อุณหภูมิ จะ ลดลง ไหม,weather_query,0.9611,0.9611,True
+1940,th-TH,play,play_music,เล่น เพลง โอมจงเงย,play_music,1.0,1.0,True
+1962,th-TH,play,play_music,hi google เล่น เพลย์ลิสต์ เเจ๊คกี้ ใน gaana application ของฉัน,social_post,0.9125,0.0024,False
+1994,th-TH,play,play_music,คุณช่วยเปิด itunes ของฉัน ได้ไหม,iot_hue_lightoff,0.9233,0.0053,False
+1995,th-TH,play,play_music,เล่นเพลง เบิร์ด ธงไชย,play_music,0.9998,0.9998,True
+2007,th-TH,play,play_music,กรุณาเล่น โอมจงเงย,play_music,0.9904,0.9904,True
+2062,th-TH,play,play_music,ฉันอยากให้เล่น ดนตรี แจ๊ส อะไรสักอย่าง,play_music,0.9995,0.9995,True
+2085,th-TH,play,play_music,alexa ฉันอยากได้ยินเพลง คลาสสิก อะไรก็ได้ ยกเว้น บัค หรือ ชูเบิร์ท,play_music,0.9996,0.9996,True
+2098,th-TH,news,news_query,มีอะไรเกิดขึ้น ทั่ว โลก บ้าง ช่วงนี้,qa_factoid,0.7889,0.038,False
+2108,th-TH,play,play_music,ต่อไป เล่น แค่หนึ่งนาที,qa_factoid,0.4366,0.0101,False
+2113,th-TH,recommendation,recommendation_events,บอกฉันถึงงานอีเว้นท์ตอนนี้ ใน แถวบ้าน ทั้งหมด,email_sendemail,0.8326,0.0008,False
+2146,th-TH,datetime,datetime_query,วันลอยกระทงสองปี ต่อจากนี้จะเป็นวันที่เท่าไร,datetime_query,0.646,0.646,True
+2156,th-TH,datetime,datetime_query,ฉันต้องการรู้เวลาเดี๋ยวนี้ กี่โมงแล้ว,datetime_query,0.9985,0.9985,True
+2160,th-TH,iot,iot_hue_lightoff,จะเข้านอนแล้วนะ,calendar_remove,0.4334,0.1134,False
+2178,th-TH,weather,weather_query,สภาพอากาศในขณะนี้ ที่ บ้านฉัน เป็นอย่างไร,weather_query,0.9988,0.9988,True
+2198,th-TH,datetime,datetime_query,วันที่ สี่ ธันวาคม หนึ่งเก้าเเปดสอง คือวันอะไรของสัปดาห์,datetime_query,0.6507,0.6507,True
+2201,th-TH,news,news_query,พาดหัวข่าว ไทยรัฐ,news_query,0.8364,0.8364,True
+2203,th-TH,news,news_query,ข่าวพาดหัว ของ ไทยรัฐ,news_query,0.9955,0.9955,True
+2220,th-TH,weather,weather_query,อากาศที่ สมุทรปราการ,weather_query,0.9981,0.9981,True
+2225,th-TH,play,play_music,เล่น วี วิโอเลต กักตัว,play_radio,0.5639,0.2081,False
+2230,th-TH,iot,iot_hue_lightoff,ปิด แสงไฟ ห้องครัว,iot_hue_lightoff,0.5853,0.5853,True
+2237,th-TH,news,news_query,อ่านข่าว ต่างประเทศ ล่าสุดให้ฉันฟัง,news_query,0.9979,0.9979,True
+2258,th-TH,weather,weather_query,วันนี้ ต้องใส่ เสื้อหนาว มั๊ย,iot_hue_lightoff,0.6579,0.0181,False
+2265,th-TH,weather,weather_query,ช่วยแจ้งอากาศตรง ชายทะเลบางแสน ตอนนี้ให้หน่อย,weather_query,0.9993,0.9993,True
+2271,th-TH,play,play_music,กรุณาเล่น เพลง ที่ฉันได้ซื้อและชอบ,play_music,1.0,1.0,True
+2296,th-TH,news,news_query,อัปเดต คะแนนไทยลีก ของวันนี้ ให้ฉันหน่อย,email_sendemail,0.974,0.0008,False
+2298,th-TH,iot,iot_hue_lightoff,ปิด ไฟ ตอนนี้,calendar_remove,0.7069,0.0389,False
+2315,th-TH,news,news_query,ข่าวสำหรับ วันนี้ มีอะไรบ้าง,news_query,0.9997,0.9997,True
+2316,th-TH,news,news_query,alexa ขอข่าวพาดหัว,social_post,0.9132,0.0509,False
+2320,th-TH,weather,weather_query,สภาพอากาศ วันศุกร์ นี้เป็นอย่างไร,weather_query,0.9997,0.9997,True
+2322,th-TH,weather,weather_query,สภาพอากาศดูเป็นอย่างไร พรุ่งนี้,weather_query,0.9991,0.9991,True
+2330,th-TH,datetime,datetime_query,แสดงเวลาท้องถิ่นของ กรุงเทพ ในขณะนี้,weather_query,0.7768,0.0319,False
+2384,th-TH,news,news_query,มีข่าวรอบ โลก อะไรเกิดบ้าง,news_query,0.9619,0.9619,True
+2386,th-TH,news,news_query,ขอข่าวล่าสุดให้ฉัน,recommendation_events,0.9702,0.0057,False
+2396,th-TH,play,play_music,เริ่มเล่น เพลง บอดี้สแลม,play_music,0.9999,0.9999,True
+2408,th-TH,play,play_music,ค้นหา เพลง บอดี้สแลม เพิ่ม,play_music,0.6211,0.6211,True
+2412,th-TH,datetime,datetime_query,เชียงใหม่ กี่โมงแล้ว,weather_query,0.9977,0.0015,False
+2423,th-TH,weather,weather_query,ขอพยากรณ์อากาศที่ ตลาดจตุจักร วันนี้,iot_hue_lightoff,0.3495,0.2107,False
+2438,th-TH,news,news_query,ส่งข่าว เทคโนโลยี,news_query,0.9883,0.9883,True
+2441,th-TH,iot,iot_hue_lightoff,ปิด ไฟ ระเบียง,lists_remove,0.3448,0.0771,False
+2472,th-TH,datetime,datetime_query,ที่ที่ฉันอยู่เวลาตรงไหม,email_query,0.8128,0.0258,False
+2496,th-TH,news,news_query,ข่าวประจำวัน,news_query,0.9995,0.9995,True
+2497,th-TH,datetime,datetime_query,วันนี้ วันที่เท่าไหร่,weather_query,0.978,0.0176,False
+2498,th-TH,datetime,datetime_query,วันนี้ วันอะไร,weather_query,0.7071,0.2688,False
+2527,th-TH,play,play_music,เปิดเพลง classic rock,play_music,0.9998,0.9998,True
+2531,th-TH,play,play_music,alexa เล่น เพลง แรป แล้วต่อด้วยเพลง ร็อค,play_music,0.9866,0.9866,True
+2545,th-TH,weather,weather_query,สภาพอากาศเป็นอย่างไร,weather_query,0.9991,0.9991,True
+2548,th-TH,news,news_query,ข่าว น่าสนใจ ไทยรัฐ,news_query,0.9983,0.9983,True
+2560,th-TH,play,play_music,สุ่ม เล่น เพลง,play_music,0.9967,0.9967,True
+2573,th-TH,play,play_music,เล่น เพลย์ลิสต์เพลง แดนซ์ ของชั้น บน spotify,play_music,0.9975,0.9975,True
+2578,th-TH,iot,iot_hue_lightoff,ปิด ไฟ เฉลียง บ้าน,iot_hue_lightoff,0.2944,0.2944,True
+2588,th-TH,news,news_query,ข่าว ไทยรัฐ ล่าสุด,news_query,0.9998,0.9998,True
+2594,th-TH,news,news_query,ขอข่าวล่าสุดด้าน สิ่งแวดล้อม,news_query,0.8928,0.8928,True
+2605,th-TH,play,play_music,เล่น เพลง โปรด ของชั้นให้หน่อย,play_music,1.0,1.0,True
+2611,th-TH,weather,weather_query,ขอสภาพอากาศ ตอนนี้ หน่อย,weather_query,0.9975,0.9975,True
+2615,th-TH,weather,weather_query,วันพุธ หน้า ต้องใส่ เสื้อหนาว รึเปล่า,weather_query,0.9409,0.9409,True
+2638,th-TH,news,news_query,แสดง ข่าวเกี่ยวกับ ประยุทธ์ ให้ฉันดูหน่อย,news_query,0.9556,0.9556,True
+2639,th-TH,news,news_query,แสดง ข่าว ด้าน สิ่งแวดล้อม ให้ฉันดูที,weather_query,0.8652,0.0071,False
+2651,th-TH,news,news_query,ข่าวท้องถิ่นล่าสุด,news_query,0.9972,0.9972,True
+2678,th-TH,weather,weather_query,คืนนี้ จะมี ฝนตก ไหม,weather_query,0.9977,0.9977,True
+2679,th-TH,weather,weather_query,อุณหภูมิ จะคงที่ หรือว่าอากาศจะเย็นลงอีก,qa_factoid,0.4882,0.0987,False
+2703,th-TH,play,play_music,เล่น เพลงโฟล์ค,play_music,1.0,1.0,True
+2704,th-TH,play,play_music,ฟัง อินดี้ร็อค กันดีกว่า โอเคมั๊ย,play_music,0.998,0.998,True
+2708,th-TH,play,play_music,olly อยากเต้น เปิดเพลง ร็อค ให้หน่อย,play_music,0.9998,0.9998,True
+2709,th-TH,play,play_music,olly วันนี้ อยากฟัง เพลงเศร้า จัง,play_podcasts,0.8733,0.1176,False
+2711,th-TH,iot,iot_hue_lightoff,ปิด ไฟ,calendar_remove,0.901,0.0177,False
+2717,th-TH,play,play_music,อยากฟัง คราม,qa_factoid,0.9917,0.0001,False
+2724,th-TH,news,news_query,ขอข่าวจาก ไทยรัฐ,social_post,0.5721,0.4248,False
+2770,th-TH,play,play_music,olly เล่น เพลง แนว แจ๊ส,play_music,0.9327,0.9327,True
+2774,th-TH,iot,iot_hue_lightoff,ปิด ไฟ,calendar_remove,0.901,0.0177,False
+2775,th-TH,iot,iot_hue_lightoff,หยุดใช้งาน ไฟ,calendar_remove,0.919,0.0038,False
+2777,th-TH,weather,weather_query,วันนี้ ต้องเอา ร่ม ไปมั๊ย,iot_hue_lightoff,0.4346,0.1022,False
+2781,th-TH,play,play_music,เล่น เพลง เเจ๊ส หน่อย,play_music,1.0,1.0,True
+2798,th-TH,play,play_music,เพลง ซ่อนกลิ่น,play_music,0.9746,0.9746,True
+2801,th-TH,datetime,datetime_query,ที่ ลอนดอน เป็นเวลากี่โมง,weather_query,0.9499,0.0456,False
+2824,th-TH,datetime,datetime_query,วันที่สิบสาม ธันวาคม ตรงกับวันอะไร,datetime_query,0.9983,0.9983,True
+2840,th-TH,datetime,datetime_query,วันที่สองของเดือนหน้า ตรงกับวันอะไร,datetime_query,0.992,0.992,True
+2859,th-TH,datetime,datetime_query,olly เป็นเวลาอะไร ใน เมืองนี้,weather_query,0.9986,0.0001,False
+2887,th-TH,news,news_query,ช่วยแสดงบทความที่เกี่ยวข้องกับ สภาพอากาศ จาก ข่าวเช้า ให้ฉันดูหน่อย,weather_query,0.9836,0.0006,False
+2890,th-TH,weather,weather_query,สภาพอากาศ ปัจจุบัน,weather_query,0.9965,0.9965,True
+2898,th-TH,news,news_query,มีอัปเดต เกี่ยวกับ การเลือกตั้ง บ้าง มั้ย,iot_hue_lightoff,0.2922,0.0313,False
+2914,th-TH,datetime,datetime_query,บอกฉันที ว่า วันนี้ เป็นวันอะไร,weather_query,0.9925,0.0048,False
+2917,th-TH,weather,weather_query,พยากรณ์อากาศ รายสัปดาห์,weather_query,0.501,0.501,True
+2921,th-TH,news,news_query,มีข่าวอะไรบ้างใน เว็บไซต์ เดลินิวส์,news_query,0.9998,0.9998,True
+2927,th-TH,datetime,datetime_query,ตอนนี้ที่ เชียงใหม่ กี่โมงแล้ว,weather_query,0.9978,0.0005,False
+2931,th-TH,play,play_music,อกหัก,qa_factoid,0.4826,0.0063,False
+2962,th-TH,play,play_music,เปิด เพลง ของ สิงโต นำโชค,play_music,0.9982,0.9982,True
+2965,th-TH,iot,iot_hue_lightoff,ปิด ไฟ ห้องทำงาน,lists_remove,0.1351,0.0952,False
+3002,th-TH,play,play_music,เล่นเพลงโดยวง นูโว,play_music,1.0,1.0,True
+3031,th-TH,play,play_music,ฉันอยากเล่น เพลง นั้น อีกครั้ง,play_music,1.0,1.0,True
+3034,th-TH,weather,weather_query,บอก อุณหภูมิ,qa_factoid,0.629,0.0151,False
+3037,th-TH,news,news_query,ขอ บทความ ข่าว หน้าหนึ่ง,email_sendemail,0.9992,0.0001,False
+3039,th-TH,news,news_query,มีข่าวอะไรใหม่,news_query,0.9998,0.9998,True
+3060,th-TH,news,news_query,ข่าวจาก แหล่งที่มา นั้น,social_post,0.7791,0.1875,False
+3091,th-TH,datetime,datetime_query,เวลามาตรฐาน แปซิฟิก ตอนนี้กี่โมง,weather_query,0.9112,0.0434,False
+3096,th-TH,weather,weather_query,สภาพอากาศที่ ชลบุรี เป็นอย่างไร,weather_query,0.9996,0.9996,True
+3098,th-TH,iot,iot_hue_lightoff,ทำให้ ไฟ ปิด,qa_definition,0.4056,0.1147,False
+3099,th-TH,news,news_query,แสดงสถาณการณ์ปัจจุบันให้ฉันดูหน่อย,qa_factoid,0.2874,0.0182,False
+3101,th-TH,news,news_query,olly เปิดข่าวให้หน่อย,news_query,0.9961,0.9961,True
+3116,th-TH,play,play_music,เล่น เพลง โปรด ของฉัน จาก ปีที่แล้ว,play_music,1.0,1.0,True
+3117,th-TH,play,play_music,เล่น อะไรสักอย่าง จาก อัลบั้ม ของ อะลาดิน,play_music,1.0,1.0,True
+3118,th-TH,datetime,datetime_query,เขตเวลาตะวันออก ตอนนี้ กี่โมง,datetime_query,0.9571,0.9571,True
+3124,th-TH,play,play_music,เล่น เพลง สุ่ม จาก เพลย์ลิสต์ ของฉัน ให้ฉัน,play_music,1.0,1.0,True
+3146,th-TH,play,play_music,เล่น แทร็กที่หนึ่ง จาก เพลย์ลิสต์ บอดี้สแลม ของฉัน,play_music,0.9998,0.9998,True
+3167,th-TH,iot,iot_hue_lightoff,ปิด ไฟ ห้องนอน ของฉัน,iot_hue_lightoff,0.3294,0.3294,True
+3174,th-TH,play,play_music,เล่น เพลลิสต์เพลง,play_music,0.9998,0.9998,True
+3205,th-TH,play,play_music,เล่น กักตัว โดย วี วิโอเลต,play_music,0.4218,0.4218,True
+3207,th-TH,play,play_music,เล่นเพลง สองใจ ของ ดา แอนโดรฟิน,play_music,0.9999,0.9999,True
+3212,th-TH,calendar,calendar_set,เตือน ให้ ฉัน ทำบางอย่างต่อมา,cooking_recipe,0.9977,0.0001,False
+3214,th-TH,news,news_query,สถานการณ์ปัจจุบันเรื่อง การสืบสวนความสัมพันธ์ของทรัมป์กับ รัสเซีย เป็นยังไง,qa_factoid,0.1841,0.1234,False
+3228,th-TH,datetime,datetime_query,สงกรานต์ ปีนี้ ตรงกับวันอะไรในสัปดาห์,datetime_query,0.709,0.709,True
+3253,th-TH,weather,weather_query,เราควรคาดว่าจะมีฝนตก ช่วงบ่าย นี้หรือไม่,weather_query,0.9989,0.9989,True
+3264,th-TH,play,play_music,เล่น เพลง เรกเก้,play_music,0.9999,0.9999,True
+3305,th-TH,weather,weather_query,สัปดาห์นี้ สมุทรสาคร อากาศเป็นอย่างไร,weather_query,0.9989,0.9989,True
+3306,th-TH,weather,weather_query,พยากรณ์อากาศ อาทิตย์ นี้เป็นอย่างไร,weather_query,0.9964,0.9964,True
+3329,th-TH,news,news_query,ฉันอยาก ดู ข่าว,qa_factoid,0.9998,0.0,False
+3337,th-TH,weather,weather_query,รายงานสภาพอากาศ สำหรับ สามหมื่นสามพันเจ็ด ร้อย เจ็ดสิบ สี่,weather_query,0.9986,0.9986,True
+3338,th-TH,weather,weather_query,รายงานสภาพอากาศของ บางกระเจ้า,weather_query,0.996,0.996,True
+3361,th-TH,datetime,datetime_query,วันอังคาร หน้า ตรงกับวันที่เท่าไหร่,datetime_query,0.9947,0.9947,True
+3378,th-TH,iot,iot_hue_lightoff,ไม่มีไฟใน ห้องครัว,calendar_remove,0.3575,0.0283,False
+3386,th-TH,iot,iot_hue_lightoff,หรี่ ไฟ ลง เป็น ไฟ กลาง,iot_hue_lightoff,0.8179,0.8179,True
+3400,th-TH,play,play_music,เล่นเวอร์ชัน สด ของ ธงไชย แมคอินไตย์,iot_hue_lightoff,0.6334,0.028,False
+3401,th-TH,play,play_music,เล่น เพลง ธงไชย แมคอินไตย์ ที่เป็นที่นิยมมากที่สุด,play_music,1.0,1.0,True
+3406,th-TH,weather,weather_query,พยากรณ์ของ สิบวัน คืออะไร,qa_factoid,0.8559,0.0,False
+3407,th-TH,weather,weather_query,มี พยากรณ์ ของ ฝนหรือหิมะตก บ้างหรือไม่ อาทิตย์นี้,weather_query,0.6507,0.6507,True
+3408,th-TH,weather,weather_query,สุดสัปดาห์นี้ สภาพอากาศจะ ดี หรือไม่,weather_query,0.998,0.998,True
+3426,th-TH,weather,weather_query,ข้างนอก อุณหภูมิ กี่องศา,weather_query,0.963,0.963,True
+3433,th-TH,play,play_music,ดนตรี ป๊อป ใหม่,play_music,0.993,0.993,True
+3434,th-TH,play,play_music,ดนตรี แร็ป ที่ดีที่สุด,qa_factoid,0.5914,0.0835,False
+3441,th-TH,datetime,datetime_query,วันที่ ยี่สิบสอง เป็น วันพุธ ใช่มั้ย,calendar_remove,0.9853,0.0022,False
+3444,th-TH,datetime,datetime_query,สิบโมง รึยัง,qa_factoid,0.7632,0.0652,False
+3447,th-TH,weather,weather_query,วันเสาร์ มีโอกาส ฝนตก มั๊ย,weather_query,0.9944,0.9944,True
+3481,th-TH,play,play_music,เล่น เพลง ที่เป็นที่นิยมมากที่สุด โดย ศิลปินที่ให้ไว้,play_music,0.9998,0.9998,True
+3489,th-TH,play,play_music,เล่น ดนตรี ตอนนี้ ได้โปรด,play_music,0.9498,0.9498,True
+3492,th-TH,play,play_music,มาเล่นรายการ เพลง ที่เล่นบ่อย ที่สุด ของฉัน กันเถอะ,play_music,0.9999,0.9999,True
+3503,th-TH,weather,weather_query,อากาศที่ สามเหลี่ยมทองคำ เป็นยังไง,weather_query,0.997,0.997,True
+3507,th-TH,weather,weather_query,มี ลูกเห็บ ในพยากรณ์หรือไม่,qa_factoid,0.4365,0.0312,False
+3513,th-TH,play,play_music,เล่น รายการ ของฉัน เท่านั้น,email_query,0.9764,0.0038,False
+3516,th-TH,weather,weather_query,ความเป็นไปได้ที่จะมี หยาดน้ำฟ้า วันนี้,qa_factoid,0.9938,0.0014,False
+3539,th-TH,play,play_music,ช่วยเล่น กักตัว ของ วี วิโอเลต ให้ที,iot_hue_lightoff,0.1744,0.0399,False
+3546,th-TH,play,play_music,อยากฟัง เพลง แจ็ส,play_music,0.5903,0.5903,True
+3550,th-TH,play,play_music,เปิด บอดี้เเสลม หน่อย,weather_query,0.9055,0.0004,False
+3554,th-TH,play,play_music,เล่น เพลย์ลิสต์ เพลงรัก,play_music,0.9997,0.9997,True
+3562,th-TH,play,play_music,เล่น อกหัก,play_music,0.9883,0.9883,True
+3566,th-TH,datetime,datetime_query,ตอนนี้ ที่ กรุงเทพ กี่โมง,weather_query,0.9934,0.0043,False
+3570,th-TH,iot,iot_hue_lightoff,ช่วย ปิด ไฟ ลานบ้าน ให้ที,iot_hue_lightoff,0.7161,0.7161,True
+3576,th-TH,news,news_query,เรื่องล่าสุดจาก ทีนิวส์ คืออะไร,news_query,0.9818,0.9818,True
+3586,th-TH,weather,weather_query,ดอยตุง อากาศเป็นยังไง,weather_query,0.9995,0.9995,True
+3600,th-TH,calendar,calendar_set,หลังจากสิบนาที,datetime_query,0.8813,0.0014,False
+3603,th-TH,news,news_query,ข่าวล่าสุด เดลินิวส์,news_query,0.9997,0.9997,True
+3605,th-TH,news,news_query,ข่าว ไทยรัฐ ล่าสุด มีอะไรบ้าง,news_query,0.9957,0.9957,True
+3606,th-TH,datetime,datetime_query,เวลาใน ปักกิ่ง กี่โมงแล้ว,weather_query,0.9374,0.0557,False
+3614,th-TH,weather,weather_query,วันนี้ เป็นวัน แดดออก ใช่ไหม,weather_query,0.9958,0.9958,True
+3623,th-TH,news,news_query,วันนี้ มีอะไรสำคัญเกิดขึ้นใน โลก บ้าง,weather_query,0.2545,0.239,False
+3624,th-TH,news,news_query,ข่าวจาก ไทยรัฐ,news_query,0.9993,0.9993,True
+3631,th-TH,play,play_music,hey google เล่น ดนตรี แจ๊ส อะไรก็ได้ ให้ฉัน,play_music,0.9995,0.9995,True
+3686,th-TH,play,play_music,เปิด เพลย์ลิสต์ เพลง ร็อก ที่ เพลงฮิตประเทศไทย,play_music,0.883,0.883,True
+3714,th-TH,play,play_music,เล่น เพลย์ลิสต์ ของชั้น จากล่างขึ้นไปข้างบน,play_music,0.9689,0.9689,True
+3717,th-TH,play,play_music,กรุณาเล่น ฮิต แร็ปยุคเก้าศูนย์ ของฉัน,play_music,0.8937,0.8937,True
+3723,th-TH,play,play_music,อยากฟัง อยู่บำรุง ของ ว่าน ธนกฤต ต่อจาก เพลง นี้,recommendation_events,0.7814,0.0771,False
+3725,th-TH,datetime,datetime_query,วันนี้ วันที่เท่าไหร่,weather_query,0.978,0.0176,False
+3727,th-TH,play,play_music,เล่น โอมจงเงย ของ สิงโต นำโชค,play_music,0.9922,0.9922,True
+3750,th-TH,news,news_query,olly ถ้ามีข่าวเกี่ยวกับ น้ำท่วม ออกมาใหม่ ขอให้ช่วยบอกฉันทันที,weather_query,0.9313,0.0086,False
+3779,th-TH,play,play_music,ว่าง เพลย์ลิสต์ youtube,play_podcasts,0.2748,0.241,False
+3780,th-TH,play,play_music,เปิด เพลย์ลิสต์ ก่อนนอน,iot_hue_lightoff,0.3519,0.094,False
+3784,th-TH,weather,weather_query,ขอรายงานสภาพอากาศของ สุพรรณบุรี,weather_query,0.9982,0.9982,True
+3785,th-TH,iot,iot_hue_lightoff,ปิด ไฟ ห้องน้ำ ให้ที,lists_remove,0.3965,0.0589,False
+3822,th-TH,news,news_query,หาข้อมูลเรื่อง รถยนต์,recommendation_events,0.3088,0.0715,False
+3852,th-TH,weather,weather_query,ตอนนี้อากาศที่ ดอยอินทนนท์ เป็นแบบไหน,weather_query,0.9997,0.9997,True
+3859,th-TH,play,play_music,เปิด เพลย์ลิสต์ เพลง แร็พ โปรด ของชั้น,play_music,0.9083,0.9083,True
+3907,th-TH,play,play_music,เปิด เพลง ฮิตของปีที่แล้ว,play_music,0.9979,0.9979,True
+3911,th-TH,play,play_music,ฉันอยากฟัง เพลงอะไรก็ได้ ที่ได้รับรางวัลแกรมมี่ในปีนี้,play_music,0.9834,0.9834,True
+3912,th-TH,play,play_music,ฉันอยากฟังเพลงแนว แดนซ์และคันทรี่,play_music,0.9991,0.9991,True
+3936,th-TH,weather,weather_query,อุณหภูมิ กี่องศา,iot_hue_lightoff,0.3122,0.2021,False
+3960,th-TH,datetime,datetime_query,บอกเวลา,datetime_query,0.9249,0.9249,True
+3967,th-TH,play,play_music,แร็พ,qa_factoid,0.8603,0.0026,False
+3980,th-TH,play,play_music,ช่วยเล่นเพลง อาย ของ สิงโต นำโชค,play_music,0.9998,0.9998,True
+3982,th-TH,play,play_music,เลือกเพลงแรกจาก ไอทูนส์ ไลแบรี่ ของฉัน,play_music,0.4869,0.4869,True
+3993,th-TH,iot,iot_hue_lightoff,ช่วย ทำให้ ไฟ ปิด ได้มั้ย,iot_hue_lightoff,0.4839,0.4839,True
+3995,th-TH,datetime,datetime_query,วันฮาโลวีน คือ วัน อะไร,qa_definition,0.3992,0.1779,False
+4001,th-TH,news,news_query,มีอะไรเกิดขึ้นบ้างใน การประท้วงที่แยกราชประสงค์,news_query,0.9904,0.9904,True
+4023,th-TH,news,news_query,มีอะไรในข่าว,news_query,0.9996,0.9996,True
+4031,th-TH,play,play_music,เปิด แน่นอก,qa_factoid,0.8777,0.0013,False
+4040,th-TH,play,play_music,เล่น เพลง ที่ ฉันฟัง มากที่สุด,play_music,0.9999,0.9999,True
+4058,th-TH,play,play_music,อยากฟัง เพลง แร็พ บ้าง,play_music,0.8298,0.8298,True
+4073,th-TH,datetime,datetime_query,วันที่ ห้า คือวันอะไร,datetime_query,0.9179,0.9179,True
+4077,th-TH,iot,iot_hue_lightoff,ปิด ไฟ ใน ครัว,iot_hue_lightoff,0.2577,0.2577,True
+4088,th-TH,iot,iot_hue_lightoff,ปิด ไฟ เหนือศีรษะ,calendar_remove,0.3322,0.0979,False
+4104,th-TH,weather,weather_query,สภาพอากาศ วันนี้ จะเป็นอย่างไร ใน พัทยา,weather_query,0.9996,0.9996,True
+4116,th-TH,play,play_music,เล่น เพลย์ลิสต์แบบสับ ของฉัน ได้โปรด,play_music,0.9998,0.9998,True
+4119,th-TH,news,news_query,ฉันอยากรู้ข่าวด่วนทุกข่าวที่เกี่ยวกับเขื่อนแตกใน นครนายก,news_query,0.9974,0.9974,True
+4132,th-TH,weather,weather_query,บอกหน่อยว่าโอกาส ฝนตก ที่ บางกระเจ้า วันนี้ คือกี่เปอร์เซนต์,weather_query,0.8707,0.8707,True
+4136,th-TH,play,play_music,เล่นเพลงของ สิงโต นำโชค,play_music,1.0,1.0,True
+4152,th-TH,play,play_music,กรุณาเล่น เพลง แค่หนึ่งนาที,play_music,1.0,1.0,True
+4168,th-TH,weather,weather_query,กรุณาตรวจสภาพอากาศ ใน นครศรีธรรมราช,weather_query,0.9964,0.9964,True
+4171,th-TH,iot,iot_hue_lightoff,ปิด ไฟ ใน ห้องครัว,calendar_remove,0.2918,0.1006,False
+4177,th-TH,news,news_query,พาดหัวข่าว การเมือง โลก ล่าสุด,news_query,0.9979,0.9979,True
+4178,th-TH,news,news_query,มีข่าวเกี่ยวกับ นายก บ้าง มั้ย,news_query,0.6186,0.6186,True
+4183,th-TH,datetime,datetime_query,เวลา ปัจจุบัน เชียงใหม่,datetime_query,0.898,0.898,True
+4186,th-TH,datetime,datetime_query,เฮ้ olly กี่โมงแล้ว,weather_query,0.958,0.038,False
+4187,th-TH,datetime,datetime_query,เฮ้ สิริ กี่โมงแล้ว,weather_query,0.9956,0.0013,False
+4205,th-TH,play,play_music,ฉันอยากได้ยิน โอมจงเงย โดย สิงโต นําโชค,play_music,0.9722,0.9722,True
+4212,th-TH,weather,weather_query,เย็นนี้ ฉันจะ ตัดหญ้า ได้ไหม,cooking_recipe,0.755,0.0072,False
+4227,th-TH,weather,weather_query,สัปดาห์หน้า มี ฝนตก บ้างมั๊ย,weather_query,0.9978,0.9978,True
+4232,th-TH,play,play_music,เล่น ใจสั่งมา โดย โลโซ,social_post,0.8238,0.171,False
+4236,th-TH,datetime,datetime_query,ถึงเวลา บ่าย หรือยัง,weather_query,0.769,0.1076,False
+4253,th-TH,datetime,datetime_query,เวลาปัจจุบันในมาตรฐาน ตะวันออก คืออะไร,qa_factoid,0.9034,0.0698,False
+4254,th-TH,datetime,datetime_query,เวลาของ ชายฝั่งตะวันออก ของ อเมริกา คือกี่โมง,datetime_query,0.986,0.986,True
+4258,th-TH,news,news_query,ข่าวล่าสุดมีอะไรบ้าง,news_query,0.9997,0.9997,True
+4266,th-TH,weather,weather_query,อากาศ วันนี้ เป็นอย่างไร,weather_query,0.9994,0.9994,True
+4273,th-TH,play,play_music,เล่นเพลง ใจสั่งมา,play_music,0.9999,0.9999,True
+4290,th-TH,weather,weather_query,ฉันควรเอา เสื้อคลุม ไปด้วยไหม คืนนี้,qa_factoid,0.2509,0.0193,False
+4305,th-TH,play,play_music,เล่น เพลง สบาย สบาย โดย ธงไชย แมคอินไตย์,play_music,1.0,1.0,True
+4309,th-TH,datetime,datetime_query,เหลืออีกกี่ชั่วโมงจะถึงเวลา เที่ยงคืน ที่ กรุงเทพ ไทย,weather_query,0.9939,0.0033,False
+4312,th-TH,weather,weather_query,สภาพอากาศที่ สมุทรสาคร อุณหภูมิจะ น้อยกว่าสิบองศา ไหม,weather_query,0.9861,0.9861,True
+4313,th-TH,weather,weather_query,พรุ่งนี้ จะมี ฝนตก ที่ เชียงใหม่ ไหม,weather_query,0.9924,0.9924,True
+4336,th-TH,datetime,datetime_query,เวลาใน จีน เท่ากับกี่โมง,datetime_query,0.5342,0.5342,True
+4346,th-TH,iot,iot_hue_lightoff,ปิด ไฟ,calendar_remove,0.901,0.0177,False
+4347,th-TH,iot,iot_hue_lightoff,ปิด ไฟ ที่เปิดอยู่,calendar_remove,0.3842,0.0316,False
+4355,th-TH,weather,weather_query,ตรงที่ที่ฉันอยู่นี่ สภาพอากาศเป็นอย่างไร,weather_query,0.9982,0.9982,True
+4361,th-TH,play,play_music,เอา ดนตรี ที่ดี อะไรสักอย่าง ให้ฉัน,play_music,0.841,0.841,True
+4362,th-TH,datetime,datetime_query,เวลาใน กรุงเทพ เท่ากับกี่โมง,weather_query,0.5052,0.4922,False
+4376,th-TH,weather,weather_query,วันนี้ ข้างนอกเป็นอย่างไรบ้าง,news_query,0.2569,0.152,False
+4377,th-TH,weather,weather_query,สภาพอากาศ ตอนนี้ เป็นอย่างไร,weather_query,0.9985,0.9985,True
+4383,th-TH,weather,weather_query,พรุ่งนี้ สภาพอากาศจะเป็นอย่างไร,weather_query,0.9988,0.9988,True
+4391,th-TH,news,news_query,ข่าวพาดหัวของ ไทยรัฐ มีอะไรบ้าง,news_query,0.9761,0.9761,True
+4400,th-TH,news,news_query,บทความ ที่กำลัง เป็นกระแส ใน เดลินิวส์ มีอะไรบ้าง,social_post,0.8843,0.0499,False
+4402,th-TH,weather,weather_query,วันนี้ ต้องเอาร่มไปด้วยมั้ย,iot_hue_lightoff,0.4039,0.046,False
+4412,th-TH,weather,weather_query,อากาศที่ พัทยา เป็นอย่างไร,weather_query,0.9997,0.9997,True
+4436,th-TH,weather,weather_query,ฉันควรใส่ เสื้อแจ็คเก็ต แบบไหน,lists_query,0.407,0.0214,False
+4439,th-TH,weather,weather_query,สภาพอากาศที่ สมุทรปราการ เป็นอย่างไรบ้าง,weather_query,0.999,0.999,True
+4449,th-TH,weather,weather_query,ฝนจะตก หนึ่งทุ่ม วันนี้ ใช่มั๊ย,weather_query,0.9885,0.9885,True
+4452,th-TH,play,play_music,เล่น เพลง,play_music,0.9999,0.9999,True
+4463,th-TH,datetime,datetime_query,มีกี่วัน เสาร์ในมีนาคม,weather_query,0.9702,0.0266,False
+4477,th-TH,play,play_music,เล่น เพลง ถัดไป,play_music,0.9998,0.9998,True
+4482,th-TH,weather,weather_query,ฉันจะต้องการแซะ ทางเข้า ของฉัน เช้า นี้ หรือไม่,qa_factoid,0.3278,0.2758,False
+4486,th-TH,weather,weather_query,สภาพอากาศ สัปดาห์นี้,weather_query,0.9978,0.9978,True
+4487,th-TH,weather,weather_query,วันพฤหัส จะมี ฝนตก ไหม,weather_query,0.9944,0.9944,True
+4491,th-TH,news,news_query,ข่าวล่าสุดเกี่ยวกับ ประยุทธ์ จันทร์โอชา มีอะไรบ้าง,news_query,0.9998,0.9998,True
+4492,th-TH,news,news_query,สถิติอาชญากรรม ล่าสุด ในบริเวณของฉัน,qa_factoid,0.4453,0.0292,False
+4496,th-TH,news,news_query,บ้านและสวน ลงอะไร วันนี้,play_music,0.9997,0.0,False
+4502,th-TH,datetime,datetime_query,เฮ้ ตอนนี้ที่ กรุงเทพ กี่โมงแล้ว,weather_query,0.9987,0.0001,False
+4524,th-TH,weather,weather_query,olly พยากรณ์อากาศ วันนี้ เป็นอย่างไร,weather_query,0.9913,0.9913,True
+4547,th-TH,play,play_music,เริ่ม เพลย์ลิสต์สำหรับตอนพาหมาไปเดินเล่น,recommendation_events,0.3447,0.1049,False
+4567,th-TH,news,news_query,อ่านข่าวพาดหัวล่าสุดจาก ไทยรัฐดอทคอม,news_query,0.9909,0.9909,True
+4580,th-TH,datetime,datetime_query,ที่ กรุงเทพ กี่โมงแล้ว,weather_query,0.9989,0.0005,False
+4587,th-TH,play,play_music,เล่น ที่ชื่นชอบ,email_query,0.3806,0.1457,False
+4589,th-TH,calendar,calendar_set,แจ้งเตือน เกมกีฬา,iot_hue_lightoff,0.5175,0.019,False
+4606,th-TH,news,news_query,หาข้อมูลหุ้น ของวันนี้,recommendation_events,0.9826,0.0007,False
+4614,th-TH,weather,weather_query,พรุ่งนี้ อุณหภูมิสูงกว่าสี่สิบ รึเปล่า,weather_query,0.9572,0.9572,True
+4662,th-TH,news,news_query,อเล็กซ่า ข่าวจาก ไทยรัฐ,news_query,0.5543,0.5543,True
+4667,th-TH,datetime,datetime_query,ตอนนี้กี่โมงแล้ว,weather_query,0.9941,0.0043,False
+4680,th-TH,weather,weather_query,ฉันควรใส่ รองเท้าแตะ หรือรองเท้ากับถุงเท้า,qa_factoid,0.4026,0.0079,False
+4689,th-TH,weather,weather_query,คุณรู้ไหมว่าสภาพอากาศเป็นยังไง,weather_query,0.9997,0.9997,True
+4692,th-TH,play,play_music,เพลง เบิร์ดธงไชย,play_music,0.9842,0.9842,True
+4710,th-TH,datetime,datetime_query,ฮาโลวีน ปีนี้ ตรงกับวันอะไร,weather_query,0.8587,0.1347,False
+4764,th-TH,weather,weather_query,วันจันทร์ ฝนตก มั๊ย,weather_query,0.997,0.997,True
+4767,th-TH,news,news_query,มีข่าวใหม่เกี่ยวกับ ชายแดนไทยเขมร ไหม,news_query,0.7238,0.7238,True
+4772,th-TH,datetime,datetime_query,บอกเวลาใน เขตเวลา นี้,weather_query,0.8756,0.0792,False
+4780,th-TH,datetime,datetime_query,วันเกิด ของฉันตรงกับวันที่ ยี่สิบเจ็ด มิถุนายน ปีนี้ตรงกับวันอะไร,datetime_query,0.9946,0.9946,True
+4784,th-TH,weather,weather_query,ฉันต้องใช้ เสื้อคลุม ไหม,qa_factoid,0.2133,0.0282,False
+4813,th-TH,datetime,datetime_query,ที่ เมืองอื่น เวลากี่โมง,weather_query,0.9807,0.0126,False
+4837,th-TH,news,news_query,มีข่าว อะไรบ้าง มั้ย olly,news_query,0.9994,0.9994,True
+4838,th-TH,play,play_music,เล่น เพลงทั้งหมด ของ บอดี้สแลม,play_music,0.9999,0.9999,True
+4871,th-TH,weather,weather_query,ข้างนอก เป็นอย่างไรบ้าง,news_query,0.2647,0.0214,False
+4881,th-TH,datetime,datetime_query,ค้นหาแอป time และหาเขตเวลา,datetime_query,0.9534,0.9534,True
+4882,th-TH,datetime,datetime_query,ใน เมือง เป็นเวลากี่โมงแล้ว,weather_query,0.9918,0.0067,False
+4890,th-TH,calendar,calendar_set,ตั้งการแจ้งเตือนเรื่อง สภาพอากาศเลวร้าย ที่ ฟิลิปปินส์,weather_query,0.9948,0.0002,False
+4909,th-TH,play,play_music,เล่น เพลง โดย บอดี้สแลม,play_music,1.0,1.0,True
+4917,th-TH,weather,weather_query,อุณหภูมิ ข้างนอก,iot_hue_lightoff,0.627,0.0063,False
+4928,th-TH,play,play_music,เปิด ซาวด์แทร็ก เพลงรัก,play_music,0.6792,0.6792,True
+4933,th-TH,weather,weather_query,ตอนนี้ จะมี ฝนตก ไหม,weather_query,0.9981,0.9981,True
+4951,th-TH,datetime,datetime_query,อยากรู้ว่าตอนนี้กี่โมงแล้ว,weather_query,0.9805,0.018,False
+4953,th-TH,news,news_query,ข่าว รถไฟชนกัน,news_query,0.998,0.998,True
+4957,th-TH,datetime,datetime_query,วันที่ยี่สิบสาม เดือนนี้ ตรงกับวันอะไรของสัปดาห์,datetime_query,0.9926,0.9926,True
+4960,th-TH,play,play_music,เพลง คาราบาว,play_music,0.9939,0.9939,True
+4968,th-TH,qa,qa_factoid,ใครชนะ การเลือกตั้งนายกรัฐมนตรี ปีนี้,qa_factoid,0.9988,0.9988,True
+4973,th-TH,play,play_music,olly เล่น สองคนในร่างเดียว,play_music,0.4533,0.4533,True
+4998,th-TH,play,play_music,เพิ่ม เพลง นี้ เป็น เพลง ต่อไป,play_music,0.9913,0.9913,True
+5009,th-TH,weather,weather_query,สัปดาห์นี้ ฉันจะต้องการ ร่ม หรือไม่,qa_factoid,0.399,0.0319,False
+5016,th-TH,news,news_query,บอกฉันเกี่ยวกับข่าว การขึ้นลงของตลาดหุ้น,news_query,0.9994,0.9994,True
+5027,th-TH,datetime,datetime_query,เมื่อไหร่จะถึง วันศุกร์ที่สิบสาม,weather_query,0.9631,0.0346,False
+5037,th-TH,weather,weather_query,วันนี้ อากาศ หนาว เย็น แค่ไหน,weather_query,0.9975,0.9975,True
+5038,th-TH,weather,weather_query,สัปดาห์นี้ สภาพอากาศจะเป็นอย่างไร,weather_query,0.9986,0.9986,True
+5040,th-TH,weather,weather_query,อากาศ ตอนนี้ เป็นยังไง,weather_query,0.9984,0.9984,True
+5062,th-TH,play,play_music,เล่น เพลง ยุคแปดศูนย์ ให้ฉันที,play_music,1.0,1.0,True
+5074,th-TH,weather,weather_query,สภาพอากาศ สัปดาห์ นี้ เป็นอย่างไร,weather_query,0.9989,0.9989,True
+5085,th-TH,weather,weather_query,พยากรณ์อากาศของ วันเสาร์ เป็นอย่างไร,weather_query,0.9746,0.9746,True
+5118,th-TH,play,play_music,ถ้าเราได้เจอกันอีก,qa_factoid,0.8956,0.0033,False
+5127,th-TH,news,news_query,นี่คือความเป็นจริงในด้านงบของคนทั่วไปเกี่ยวกับผู้ให้บริการจัดส่งอาหาร,qa_factoid,0.9828,0.0008,False
+5131,th-TH,datetime,datetime_query,ตอนนี้ที่ เชียงใหม่ กี่โมงแล้ว,weather_query,0.9978,0.0005,False
+5134,th-TH,play,play_music,ค้นหาบางเพลงใน เพลย์ลิสต์วงดัง ของฉัน,play_music,0.9365,0.9365,True
+5156,th-TH,iot,iot_hue_lightoff,ปิด ไฟ ห้องนั่งเล่น,lists_remove,0.1838,0.0911,False
+5157,th-TH,iot,iot_hue_lightoff,olly ปิด ไฟ ใน ห้องนั่งเล่น,iot_hue_lightoff,0.5207,0.5207,True
+5158,th-TH,play,play_music,กรุณาเล่น เพลง ล่าสุด จาก อัลบั้ม สาว สาว สาว,play_music,1.0,1.0,True
+5159,th-TH,play,play_music,madonna,social_post,0.2093,0.0271,False
+5160,th-TH,play,play_music,เล่น เพลง ของ michael jackson หน่อยได้ไหม,play_music,1.0,1.0,True
+5176,th-TH,weather,weather_query,สัปดาห์นี้ อากาศจะเป็นอย่างไร,weather_query,0.9992,0.9992,True
+5196,th-TH,news,news_query,อยากรู้เรื่องเกี่ยวกับ เบร็กซิท,social_post,0.5999,0.004,False
+5225,th-TH,datetime,datetime_query,วันพุธ หน้าวันที่เท่าไหร่,weather_query,0.9948,0.0031,False
+5243,th-TH,iot,iot_hue_lightoff,siri ช่วย ปิด ไฟ ใน ห้องน้ำ ให้หน่อย,iot_hue_lightoff,0.9684,0.9684,True
+5245,th-TH,news,news_query,ตั้งการ แจ้งเตือน ของ ข่าว ด้านสิ่งแวดล้อม,iot_hue_lightoff,0.6448,0.0093,False
+5270,th-TH,news,news_query,ข่าวทันเหตุการณ์ตอนนี้มีอะไร,news_query,0.9987,0.9987,True
+5278,th-TH,play,play_music,กรุณาเล่น เพลง ป๊อปมิกซ์ เท่านั้น,play_music,1.0,1.0,True
+5279,th-TH,play,play_music,กรุณาเล่นเฉพาะเพลง เศร้า เท่านั้นใน music player,play_music,0.9942,0.9942,True
+5286,th-TH,news,news_query,แสดง ข่าว การอพยพ จาก ไทยรัฐ,email_sendemail,0.327,0.2724,False
+5296,th-TH,news,news_query,olly ขอข่าว ดัง จาก ไทยรัฐ ให้ฉันที,email_sendemail,0.5695,0.4071,False
+5297,th-TH,news,news_query,ขอ ข่าว ดัง จาก เดลินิวส์ ให้ฉันที,weather_query,0.8249,0.0434,False
+5301,th-TH,weather,weather_query,อากาศจะเป็นยังไงใน วันที่ยี่สิบมีนาคม สองพันสิบเจ็ด,weather_query,0.9999,0.9999,True
+5307,th-TH,datetime,datetime_query,วันนี้คือวันที่ ยี่สิบมีนาคม ใช่ไหม,weather_query,0.9087,0.0503,False
+5318,th-TH,play,play_music,ช่วยเล่นแต่เพลงของ โลโซ,play_music,0.9999,0.9999,True
+5321,th-TH,weather,weather_query,แสดง สภาพอากาศ,weather_query,0.9941,0.9941,True
+5328,th-TH,play,play_music,ร็อค,qa_factoid,0.3967,0.0108,False
+5339,th-TH,weather,weather_query,ลด องศา แอร์,iot_hue_lightoff,0.9812,0.0135,False
+5341,th-TH,datetime,datetime_query,โปรด เตือน ฉันให้ทันเวลา,email_sendemail,0.9973,0.0,False
+5347,th-TH,play,play_music,เล่น เพลง เทคโน,play_music,0.9997,0.9997,True
+5358,th-TH,datetime,datetime_query,อัปเดตเวลาปัจจุบัน,email_sendemail,0.9798,0.0006,False
+5370,th-TH,news,news_query,เรื่องที่เป็นที่โต้เถียงของประยุทธ์ ล่าสุดคืออะไร,news_query,0.5369,0.5369,True
+5378,th-TH,play,play_music,เปิดเพลง,play_music,0.9999,0.9999,True
+5401,th-TH,play,play_music,เปิด เพลง,play_music,0.998,0.998,True
+5410,th-TH,news,news_query,อ่านพาดหัวข่าว ไทยรัฐ ล่าสุดให้ฉันฟัง,news_query,0.9872,0.9872,True
+5411,th-TH,news,news_query,มีข่าว เด่น อะไรจาก ไทยรัฐ บ้าง,news_query,0.999,0.999,True
+5413,th-TH,play,play_music,เล่น เพลง,play_music,0.9999,0.9999,True
+5414,th-TH,play,play_music,ดนตรี,play_music,0.8887,0.8887,True
+5427,th-TH,datetime,datetime_query,ที่ แคนาดา ตอนนี้กี่โมง,weather_query,0.9988,0.0002,False
+5433,th-TH,weather,weather_query,อีกเดี๋ยว ฝนจะตก มั๊ย,weather_query,0.9979,0.9979,True
+5439,th-TH,weather,weather_query,กลางคืน นี้ ต้องใช้ ร่ม มั๊ย,weather_query,0.7624,0.7624,True
+5465,th-TH,weather,weather_query,ฉันสามารถสวม รองเท้าแตะ ของฉัน ได้ไหม วันนี้,iot_hue_lightoff,0.6548,0.0065,False
+5468,th-TH,weather,weather_query,ฉันต้องเอา แว่นกันแดด ไปไหม,iot_hue_lightoff,0.9941,0.0025,False
+5524,th-TH,weather,weather_query,อากาศ ตอนนี้,weather_query,0.9984,0.9984,True
+5529,th-TH,weather,weather_query,ควรไป ปีนเขา กี่โมง,recommendation_events,0.3209,0.2142,False
+5557,th-TH,play,play_music,ฉันต้องการ เพลงเร็กเก้,play_music,0.9953,0.9953,True
+5577,th-TH,weather,weather_query,ฉันต้องการ เสื้อกันหนาวเต็มตัว ถ้ามันมี พายุแรงเกิน ในตอน ค่ำ,iot_hue_lightoff,0.4219,0.0172,False
+5578,th-TH,weather,weather_query,ฉันจะต้องการ ถุงเท้าอุ่นๆ ใน ตอนเช้า ใน หน้าหนาว,weather_query,0.5519,0.5519,True
+5584,th-TH,iot,iot_hue_lightoff,ปิด ไฟ ให้ที,calendar_remove,0.7384,0.0294,False
+5590,th-TH,weather,weather_query,อุณหภูมิ เปิด,iot_hue_lightoff,0.7658,0.0018,False
+5593,th-TH,play,play_music,เล่น รักนั้นอยู่ไม่ไกล โดย ฟักกลิ้งฮีโร่,play_music,0.985,0.985,True
+5619,th-TH,play,play_music,เล่น เพลง ก่อนหน้านี้,play_music,0.9999,0.9999,True
+5627,th-TH,play,play_music,เล่นดนตรีโดย นูโว ให้ฉัน,play_music,0.9997,0.9997,True
+5640,th-TH,datetime,datetime_query,ขอดูเวลาหน่อย,calendar_remove,0.7837,0.1093,False
+5650,th-TH,weather,weather_query,ตอนเย็น วันนี้ อากาศน่าจะเป็นยังไง,weather_query,0.999,0.999,True
+5658,th-TH,play,play_music,เล่น ดนตรี โดย นูโว ให้ฉัน,play_music,0.9999,0.9999,True
+5661,th-TH,weather,weather_query,ฉันควรพก เสื้อกันฝน ไปด้วยตอนนี้เลยไหม,qa_factoid,0.3762,0.0136,False
+5671,th-TH,datetime,datetime_query,ตอนนี้เป็นเวลากี่โมงในเชียงใหม่,weather_query,0.997,0.0011,False
+5678,th-TH,datetime,datetime_query,สิบห้า สิงหาคม เป็นวันอะไรของสัปดาห์,datetime_query,0.5041,0.5041,True
+5683,th-TH,play,play_music,เล่น เพลย์ลิสต์ เพลงปาร์ตี้ ของฉัน,play_music,1.0,1.0,True
+5688,th-TH,news,news_query,ช่วยอ่านข่าวพาดหัวให้ฉันฟังที,social_post,0.9871,0.0125,False
+5703,th-TH,datetime,datetime_query,เวลาตอนนี้,datetime_query,0.9618,0.9618,True
+5707,th-TH,play,play_music,ฟัง เพลงโปรด ของฉัน,play_music,0.9907,0.9907,True
+5721,th-TH,weather,weather_query,แสดง สภาพอากาศ พรุ่งนี้ ใน พื้นที่นี้ กับฉัน,weather_query,0.998,0.998,True
+5722,th-TH,weather,weather_query,อาทิตย์นี้ ฝนจะตก มั๊ย,weather_query,0.9973,0.9973,True
+5732,th-TH,weather,weather_query,ฉันจะต้องเปลี่ยนยางรถของฉันเป็น ยางสำหรับหิมะ เร็ว ๆ นี้ไหม,iot_hue_lightoff,0.4267,0.0077,False
+5757,th-TH,datetime,datetime_query,บ่ายโมงสี่สิบห้า,weather_query,0.9186,0.0143,False
+5758,th-TH,weather,weather_query,สภาพอากาศเป็นอย่างไรใน เมืองหลวง,weather_query,0.9996,0.9996,True
+5774,th-TH,datetime,datetime_query,ที่ ภูเก็ต กี่โมง,weather_query,0.9939,0.0008,False
+5797,th-TH,weather,weather_query,ต้องใส่ เสื้อกันฝน ก่อนออกจากบ้านมั๊ย,iot_hue_lightoff,0.6316,0.0193,False
+5813,th-TH,play,play_music,เล่น เพลง เงียบเงียบคนเดียว,play_music,1.0,1.0,True
+5820,th-TH,play,play_music,ทำให้ฉันสบายหู ด้วย นนท์ ธนนท์,email_sendemail,0.6014,0.0072,False
+5837,th-TH,weather,weather_query,แจ้งฉันเกี่ยวกับสภาพอากาศ ของสัปดาห์นี้,weather_query,0.9977,0.9977,True
+5871,th-TH,weather,weather_query,วันนี้ แดดแรง แค่ไหน,weather_query,0.9847,0.9847,True
+5886,th-TH,news,news_query,ข่าวเด่น ประเด็นร้อน,news_query,0.9941,0.9941,True
+5919,th-TH,news,news_query,มีอัพเดทอะไรล่าสุดเกี่ยวกับ ข้อเสนอสะพานกรุงเทพฯ,recommendation_events,0.9644,0.0113,False
+5930,th-TH,news,news_query,มีข่าวด่วนจาก ไทยรัฐ บ้าง ไหม,news_query,0.9857,0.9857,True
+5948,th-TH,play,play_music,เล่น เพลงเพราะๆ จากเพลย์ลิสต์ของชั้น,play_music,1.0,1.0,True
+5953,th-TH,weather,weather_query,ใน เมือง ค่าครองชีพถูกหรือแพงกว่า,qa_factoid,0.9907,0.0011,False
+5955,th-TH,weather,weather_query,ตัวเมืองปลอดภัยแค่ไหน ในด้านกฎหมายและความสงบเรียบร้อย,qa_factoid,0.3484,0.0594,False
+5970,th-TH,play,play_music,ฉันอยากให้คุณเล่นเพลง อาย ให้ฉันฟัง,play_music,1.0,1.0,True
+5985,th-TH,news,news_query,แสดง ข่าวล่าสุดจาก ยูเอ็น ให้ฉันดู,news_query,0.9904,0.9904,True
+5996,th-TH,weather,weather_query,บ่ายนี้ ฉันต้องใส่ บูทหิมะ ไหม,iot_hue_lightoff,0.8767,0.0018,False
+5997,th-TH,datetime,datetime_query,กี่โมงแล้วในโซนเวลา กลาง,datetime_query,0.8842,0.8842,True
+6023,th-TH,weather,weather_query,คงจะเป็น คืน ที่ เหนียวเหนอะหนะ,qa_factoid,0.5548,0.3188,False
+6024,th-TH,weather,weather_query,วันนี้ ฉันควรนำ ร่ม หรือ เสื้อกันฝน ไปที่ทำงานด้วยไหม,iot_hue_lightoff,0.2796,0.1103,False
+6025,th-TH,weather,weather_query,บ่ายนี้ ฉันจะต้องใช้ ครีมกันแดด หรือไม่,iot_hue_lightoff,0.4642,0.4046,False
+6027,th-TH,play,play_music,เปิด เพลง โปรด,play_music,0.996,0.996,True
+6039,th-TH,weather,weather_query,พรุ่งนี้ ฝนตก รึเปล่า,weather_query,0.9983,0.9983,True
+6041,th-TH,iot,iot_hue_lightoff,hey olly ช่วย ปิด ไฟ ให้หน่อย,iot_hue_lightoff,0.8875,0.8875,True
+6045,th-TH,play,play_music,เพิ่ม เพลง ที่เลือกไว้,play_music,0.952,0.952,True
+6050,th-TH,weather,weather_query,เดี๋ยวฉันจะต้องทา ครีมกันแดด ไหม,lists_remove,0.1743,0.0357,False
+6055,th-TH,iot,iot_hue_lightoff,ฉันลืมปิด ไฟ โรงรถ หรือเปล่า,lists_remove,0.3054,0.0427,False
+6059,th-TH,play,play_music,เพลง แร็ป,play_music,0.9899,0.9899,True
+6069,th-TH,weather,weather_query,วันนี้ จะมี พายุฝนฟ้าคะนอง ไหม,weather_query,0.9923,0.9923,True
+6073,th-TH,iot,iot_hue_lightoff,ปิด ไฟ ที่ เฉลียง,lists_remove,0.2803,0.2362,False
+6074,th-TH,iot,iot_hue_lightoff,ปิดไฟ ห้องนอน เวลา สามทุ่มครึ่ง,datetime_query,0.9513,0.0138,False
+6077,th-TH,news,news_query,ฉันต้องการได้ยินข่าว รอบโลก ล่าสุด จาก วันนี้,news_query,0.9961,0.9961,True
+6093,th-TH,weather,weather_query,ฉันควร เปิดซันรูฟ ไหม,qa_factoid,0.976,0.0003,False
+6103,th-TH,weather,weather_query,เฮ้ สภาพอากาศจะเป็นอย่างไร วันนี้ ใน เชียงใหม่,weather_query,0.9987,0.9987,True
+6116,th-TH,weather,weather_query,ข้อมูล สภาพอากาศ อาทิตย์นี้,weather_query,0.9967,0.9967,True
+6118,th-TH,datetime,datetime_query,ตอนนี้ที่ สันกำแพง เชียงใหม่ กี่โมงแล้ว,weather_query,0.9957,0.0013,False
+6127,th-TH,weather,weather_query,ต้องเอา ร่ม ไปด้วยมั๊ย,iot_hue_lightoff,0.4981,0.0103,False
+6129,th-TH,news,news_query,ช่วยอัปเดตข่าว รอบโลก ให้ฉันเป็นระยะ,news_query,0.7821,0.7821,True
+6151,th-TH,weather,weather_query,อยากรู้อากาศของ วันนี้,weather_query,0.9962,0.9962,True
+6172,th-TH,weather,weather_query,แว่นกันแดด เป็นตัวเลือกที่ดีสำหรับ วันนี้ ไหม,iot_hue_lightoff,0.9514,0.0379,False
+6177,th-TH,weather,weather_query,วันนี้ ฉันจะต้องใช้ ร่ม หรือเปล่า,iot_hue_lightoff,0.5889,0.0551,False
+6178,th-TH,weather,weather_query,ฉันควรใส่ เสื้อแจ็คเก็ต ไหม,iot_hue_lightoff,0.4259,0.0104,False
+6194,th-TH,weather,weather_query,วันนี้ อากาศเป็นไงบ้าง,weather_query,0.9991,0.9991,True
+6289,th-TH,weather,weather_query,วันนี้ สภาพอากาศเป็นอย่างไร,weather_query,0.9989,0.9989,True
+6370,th-TH,calendar,calendar_query,สัปดาห์หน้า,calendar_remove,0.7686,0.0069,False
+6372,th-TH,news,news_query,ข่าวเกี่ยวกับการกิน เจ,qa_definition,0.3943,0.3652,False
+6403,th-TH,transport,transport_query,ไปที่ไหนก็ได้,qa_factoid,0.6792,0.1293,False
+6410,th-TH,news,news_query,วันนี้ มีข่าวอะไรจาก ฝรั่งเศส บ้างมั้ย,news_query,0.9997,0.9997,True
+6411,th-TH,weather,weather_query,อากาศ วันพุธ หน้าเป็นยังไง,weather_query,0.9995,0.9995,True
+6539,th-TH,calendar,calendar_set,เริ่มลดความอ้วน วันนี้,iot_hue_lightoff,0.4953,0.0376,False
+6542,th-TH,cooking,cooking_recipe,ชีสนุ่ม ดีกว่า แข็ง ใช่ไหม,qa_factoid,0.9838,0.0016,False
+6618,th-TH,news,news_query,เล่าข่าวที่น่าสนใจให้ฟังหน่อย,news_query,0.9707,0.9707,True
+6682,th-TH,news,news_query,อัปเดตข่าวเลือกตั้ง,iot_hue_lightoff,0.2609,0.1914,False
+6683,th-TH,news,news_query,ข่าว ด้านเศรษฐกิจ,news_query,0.9996,0.9996,True
+6713,th-TH,calendar,calendar_remove,ยกเลิก การ ประชุมทางธุรกิจ วันพุธ,calendar_remove,0.805,0.805,True
+6722,th-TH,calendar,calendar_query,วันนี้ฉันมีอะไรที่ควรรับรู้ไหม,recommendation_events,0.9992,0.0,False
+6725,th-TH,calendar,calendar_set,เตือน ฉัน เกี่ยวกับ ตาราง ของฉัน ตอนบ่าย,email_sendemail,0.9998,0.0,False
+6726,th-TH,calendar,calendar_remove,ยกเลิก ประชุม ถัดไป,calendar_remove,0.6605,0.6605,True
+6729,th-TH,calendar,calendar_remove,มื้อเช้า ที่ บ้านของทิฟฟานี่,cooking_recipe,0.3162,0.0248,False
+6732,th-TH,calendar,calendar_set,การประชุม กับ พ่อแม่บุญธรรม ของฉัน วันอาทิตย์,social_post,0.9876,0.0006,False
+6744,th-TH,calendar,calendar_set,ประชุม กับ ปรีชา สิบโมงเช้า พรุ่งนี้,email_query,0.2761,0.0326,False
+6746,th-TH,calendar,calendar_set,วันหยุด ของฉัน สัปดาห์เเรกของเดือนมิถุนายน,calendar_remove,0.7327,0.0233,False
+6747,th-TH,calendar,calendar_query,ฉันมี การแจ้งเตือน กี่อัน,qa_factoid,0.9649,0.0016,False
+6755,th-TH,calendar,calendar_remove,ของฉัน,email_sendemail,0.8253,0.0,False
+6761,th-TH,calendar,calendar_remove,ลบ การประชุม ของฉัน เก้าโมง,calendar_remove,0.9966,0.9966,True
+6764,th-TH,calendar,calendar_set,แจ้งเตือน ล้างหน้าต่าง,iot_hue_lightoff,0.3046,0.0255,False
+6774,th-TH,calendar,calendar_set,งาน วันศุกร์,calendar_remove,0.195,0.036,False
+6785,th-TH,calendar,calendar_query,การแจ้งเตือนอันต่อไปของฉันคืออะไร,email_sendemail,0.7708,0.0072,False
+6789,th-TH,calendar,calendar_set,ตั้ง นัด กับ จริยา วันเสาร์ สี่โมงเย็น,qa_factoid,0.5836,0.2501,False
+6798,th-TH,calendar,calendar_remove,ลบ กิจกรรม ถัดไป ของฉัน,calendar_remove,0.799,0.799,True
+6801,th-TH,calendar,calendar_query,วันศุกร์นี้,qa_factoid,0.6687,0.013,False
+6806,th-TH,calendar,calendar_query,ดูปฏิทิน งาน ของฉัน วันศุกร์นี้ ตอนบ่าย,datetime_query,0.8496,0.0041,False
+6815,th-TH,calendar,calendar_set,แจ้งเตือน วันเกิด แม่ ก่อนหน้าหนึ่งอาทิตย์,email_sendemail,0.6661,0.0039,False
+6819,th-TH,calendar,calendar_set,วงดนตรีเล่น ที่ เเจ๊สบาร์ คืนนี้ สามทุ่ม,play_music,0.9987,0.0001,False
+6836,th-TH,calendar,calendar_set,เตือน ฉัน เกี่ยวกับ ประชุม พรุ่งนี้ ตอน หกโมง,email_sendemail,0.6376,0.0025,False
+6850,th-TH,calendar,calendar_query,ตาราง วันนี้ ของฉัน,iot_hue_lightoff,0.614,0.0089,False
+6856,th-TH,calendar,calendar_set,เตือนฉันเรื่อง ประชุม สิบโมงเช้า ของพรุ่งนี้,social_post,0.687,0.0123,False
+6860,th-TH,calendar,calendar_query,มีงานกิจกรรมอะไรที่กำลังจะมาถึงมั้ย,recommendation_events,0.4049,0.0122,False
+6865,th-TH,calendar,calendar_set,แจ้งเตือน ประชุม พรุ่งนี้ สิบ โมง,qa_factoid,0.3337,0.0238,False
+6878,th-TH,calendar,calendar_set,การประชุม แผนกบัญชี บ่ายสองครึ่ง วันศุกร์,recommendation_events,0.0649,0.0475,False
+6891,th-TH,calendar,calendar_query,มี การแสดง ตอนเช้า อยู่ไหม,iot_hue_lightoff,0.986,0.0001,False
+6892,th-TH,calendar,calendar_query,ช่วยบอกฉันเกี่ยวกับ ตาราง หนัง ที,lists_query,0.1232,0.0464,False
+6897,th-TH,calendar,calendar_set,เตือน ฉัน ให้ไป รับ ลินดา ตอน ห้า โมง เย็น วันที่เจ็ด,email_sendemail,0.9688,0.0005,False
+6901,th-TH,calendar,calendar_set,เตือนฉัน พรุ่งนี้ ตอน สิบโมงเช้า เกี่ยวกับ การประชุม,email_sendemail,1.0,0.0,False
+6902,th-TH,calendar,calendar_set,ตั้งการเตือน เดือนหน้า ให้ไป เปลี่ยนน้ำมันเครื่อง ของฉัน,iot_hue_lightoff,0.6065,0.0395,False
+6909,th-TH,calendar,calendar_query,หลังบ่ายโมง ถึง ก่อนบ่ายสามโมง,weather_query,0.7986,0.0253,False
+6918,th-TH,calendar,calendar_remove,ลบ นัด ออกจาก ปฏิทิน,iot_hue_lightoff,0.6872,0.1559,False
+6923,th-TH,calendar,calendar_set,พิมพ์เอกสาร ตอนเช้า วันอังคาร,email_query,0.9933,0.0,False
+6926,th-TH,calendar,calendar_query,วันศุกร์,calendar_remove,0.3379,0.0295,False
+6928,th-TH,calendar,calendar_remove,ลบ นัด ทั้งหมด,lists_remove,0.818,0.0517,False
+6936,th-TH,calendar,calendar_set,เตือน ให้ฉัน กิน ยา ตอน เก้าโมงเช้า,cooking_recipe,0.6556,0.0109,False
+6937,th-TH,calendar,calendar_set,ตั้งค่าการแจ้งเตือน ตอนเที่ยง เพื่อไป ทานอาหารเที่ยงกับเจ้านาย,email_sendemail,0.4099,0.0762,False
+6946,th-TH,calendar,calendar_query,มี ประชุม อะไรใน วันพุธ หน้าบ้ง,social_post,0.6559,0.0036,False
+6958,th-TH,calendar,calendar_remove,ตารางงานอีเว้นท์ ของฉัน,iot_hue_lightoff,0.8985,0.0047,False
+6959,th-TH,calendar,calendar_set,เตือนฉันเกี่ยวกับการ ประชุม ล่วงหน้า ชั่วโมงหนึ่ง,email_sendemail,0.6551,0.0146,False
+6962,th-TH,calendar,calendar_set,ขอดูหน่อยได้ไหมว่าฉันต้องทำอะไร วันเสาร์ หน้า ตอน หกโมงเย็น,cooking_recipe,0.3782,0.0101,False
+6964,th-TH,calendar,calendar_set,หนึ่งชั่วโมง ก่อน ประชุม กับ เจ้านาย,datetime_query,0.6801,0.007,False
+6967,th-TH,calendar,calendar_query,ตรวจสอบข้อเท็จจริงของเรื่องนี้หน่อย,qa_factoid,0.9985,0.0001,False
+6968,th-TH,calendar,calendar_query,ฉันต้องการยืนยัน การประชุม ทั้งหมดสำหรับ วันนี้ ผู้ที่ได้รับเชิญสามารถ,qa_factoid,0.5749,0.0117,False
+6973,th-TH,calendar,calendar_set,การประชุม พรุ่งนี้ ที่ กรุงเทพ ฯ,recommendation_events,0.0601,0.0491,False
+6974,th-TH,calendar,calendar_set,เตือน ลอยกระทง ที่ สุโขทัย พรุ่งนี้,email_sendemail,0.4276,0.0177,False
+6980,th-TH,calendar,calendar_query,ขอดู รายการที่ต้องทำ,cooking_recipe,0.8312,0.0043,False
+6992,th-TH,calendar,calendar_query,แสดง งานกิจกรรม ในอนาคต,play_podcasts,0.6285,0.005,False
+6994,th-TH,calendar,calendar_set,เตือน ฉัน ว่า,email_sendemail,0.8901,0.0004,False
+6997,th-TH,calendar,calendar_remove,ลบ กิจกรรม ที่ทำ สำเร็จ แล้ว ทิ้ง,qa_factoid,0.9528,0.0077,False
+7000,th-TH,calendar,calendar_set,งาน,cooking_recipe,0.2181,0.02,False
+7004,th-TH,calendar,calendar_set,เพิ่มการเตือนในปฏิทินของฉัน ทุกปี ในวันนี้,email_sendemail,0.292,0.0783,False
+7013,th-TH,calendar,calendar_query,งาน,cooking_recipe,0.2181,0.0253,False
+7014,th-TH,calendar,calendar_query,ตาราง งาน วันนี้,lists_query,0.1389,0.0361,False
+7025,th-TH,calendar,calendar_remove,ปีใหม่,email_query,0.1501,0.1165,False
+7026,th-TH,recommendation,recommendation_events,งาน อะไร ที่กำลังจะจัดใน เมือง ของฉัน อาทิตย์นี้,lists_query,0.1186,0.0595,False
+7039,th-TH,calendar,calendar_set,การประชุม กับ เจส สิบเอ็ดโมง วันอังคาร,social_post,0.9871,0.0006,False
+7044,th-TH,calendar,calendar_set,โปรดเตือนฉันให้เริ่ม เตรียมตัว ตอน ห้าโมงเย็น,qa_factoid,0.2464,0.1569,False
+7046,th-TH,calendar,calendar_set,ประชุมกับตาล วันที่ ยี่สิบเอ็ด เจ็ด โมง,social_post,0.5852,0.0089,False
+7055,th-TH,calendar,calendar_set,ประชุม กับ เต้ย วันพฤหัสบดี สิบเอ็ดโมง,social_post,0.9688,0.0013,False
+7057,th-TH,calendar,calendar_set,นัด ประชุมมื้อเที่ยง กับ เบรนท์ ตอน กลางวัน วันพุธ,email_sendemail,0.619,0.0406,False
+7061,th-TH,calendar,calendar_set,แจ้งเตือนฉัน ยี่สิบสี่ชั่วโมงก่อน ประชุม กับ ธนพล วันศุกร์,email_sendemail,0.999,0.0,False
+7073,th-TH,calendar,calendar_set,ค้นหาใน ปฏิทิน ของฉัน เกี่ยวกับ งาน ถัดไป และให้แจ้งเตือน ก่อน มันจะเกิดขึ้น,email_sendemail,0.5057,0.01,False
+7080,th-TH,calendar,calendar_remove,ยกเลิก ตาราง ทุกอย่าง ใน ปฏิทิน ของฉัน,calendar_remove,0.5356,0.5356,True
+7087,th-TH,calendar,calendar_remove,ประชุม ของวันพรุ่งนี้ ของฉัน,email_sendemail,0.7835,0.0023,False
+7098,th-TH,calendar,calendar_set,เพิ่ม การ จ่ายค่ารถ ใน วันที่ยี่สิบ บนปฏิทิน,qa_factoid,0.4885,0.0181,False
+7100,th-TH,calendar,calendar_set,รถยนต์ วันก่อน,datetime_query,0.7356,0.0008,False
+7111,th-TH,calendar,calendar_query,ฉันมี นัดหมอ ตอนกี่โมงนะ ในวันที่ สามสิบเอ็ดมีนาคม,datetime_query,0.9987,0.0,False
+7113,th-TH,calendar,calendar_query,ในเมือง เสาร์อาทิตย์นี้,weather_query,0.5375,0.0209,False
+7117,th-TH,calendar,calendar_remove,งานอีเว้นท์ ของฉัน วันที่ สิบเก้า,email_sendemail,0.624,0.1274,False
+7120,th-TH,calendar,calendar_query,ตาราง ของฉัน วันนี้,iot_hue_lightoff,0.9311,0.0024,False
+7122,th-TH,calendar,calendar_set,คุณช่วย ทำซ้ำ งานอิเวนต์ นี้ ได้ไหม,cooking_recipe,0.5251,0.0021,False
+7140,th-TH,calendar,calendar_set,แจ้งเตือนฉันหนึ่งชั่วโมงก่อน เริ่มประชุม,qa_factoid,0.5041,0.0089,False
+7141,th-TH,calendar,calendar_query,โปรแกรมอันนี้ถูกวางไว้แล้วหรือไม่,cooking_recipe,0.6728,0.0085,False
+7151,th-TH,calendar,calendar_set,วันที่เลขคี่ เฉพาะวันอาทิตย์ แจ้งเตือน,qa_factoid,0.9579,0.0011,False
+7152,th-TH,calendar,calendar_set,จัดเตรียม อาหารกลางวัน ในตอน เที่ยงครึ่ง ของ ทุกวัน,cooking_recipe,0.9072,0.0173,False
+7161,th-TH,calendar,calendar_set,เตือน ล่วงหน้า,calendar_remove,0.2657,0.0195,False
+7170,th-TH,calendar,calendar_set,วันเกิด ของ แม่ วัน นี้ ทุกปี,datetime_query,0.9526,0.0023,False
+7181,th-TH,calendar,calendar_set,ปลุก ฉันตอน หกโมงเช้า วันพฤหัสบดี เพื่อที่ ฉัน จะได้มีเวลาสำหรับ การประชุม,play_radio,0.964,0.0012,False
+7185,th-TH,calendar,calendar_query,การนัดหมาย หมอวิชัย,email_sendemail,0.159,0.0361,False
+7189,th-TH,calendar,calendar_query,ฉัน มีนัดหมาย บางอย่าง หรือไม่,email_sendemail,0.9612,0.0005,False
+7194,th-TH,calendar,calendar_set,ประชุม พรุ่งนี้,qa_factoid,0.1402,0.0351,False
+7196,th-TH,calendar,calendar_set,การประชุม คุณสมหมาย วันที่สิบห้าเดือนมีนาคม,email_sendemail,0.9173,0.0002,False
+7199,th-TH,calendar,calendar_set,ตั้ง การแจ้งเตือน สาม สอง และหนึ่ง ชั่วโมง ก่อน การสอบปลายภาควิชาภาษาอังกฤษ ของสัปดาห์หน้า,qa_factoid,0.6666,0.2088,False
+7209,th-TH,calendar,calendar_set,วันอังคาร เอาขยะไปทิ้ง,email_sendemail,0.4608,0.0053,False
+7219,th-TH,calendar,calendar_query,ได้ใส่ การแจ้งเตือน เรื่อง การประชุม วันพรุ่งนี้ ลงไปหรือเปล่า,iot_hue_lightoff,0.305,0.0195,False
+7224,th-TH,calendar,calendar_query,การเเต่งงาน,cooking_recipe,0.7461,0.0038,False
+7232,th-TH,calendar,calendar_query,อาทิตย์หน้า มี กิจกรรม อะไรบ้าง,cooking_recipe,0.9875,0.0003,False
+7257,th-TH,calendar,calendar_set,อีกครึ่งชั่วโมง โทรหา แม่,email_sendemail,0.9139,0.0021,False
+7258,th-TH,calendar,calendar_set,เตือน ส่งอีเมล ให้ หัวหน้า หลัง หนึ่งชั่วโมง,email_sendemail,1.0,0.0,False
+7262,th-TH,calendar,calendar_set,เตือน การประชุม พรุ่งนี้,calendar_remove,0.8468,0.0056,False
+7266,th-TH,calendar,calendar_query,มีงานอะไรของฉันที่กำลังรอดำเนินการอยู่,cooking_recipe,0.2957,0.016,False
+7278,th-TH,calendar,calendar_set,เตือนฉัน ยี่สิบสี่ชั่วโมงล่วงหน้า เรื่อง วันเกิด ของ เอย,email_sendemail,1.0,0.0,False
+7287,th-TH,calendar,calendar_set,เตือนฉันเรื่อง วันครบรอบ ของฉัน หนึ่งวันล่วงหน้า,email_sendemail,0.9081,0.0028,False
+7289,th-TH,calendar,calendar_remove,ประชุมกับ จ๊อจ,social_post,0.9807,0.0008,False
+7291,th-TH,calendar,calendar_set,บล็อก หนึ่งชั่วโมง จาก สิบโมง พรุ่งนี้ เช้า,iot_hue_lightoff,0.9684,0.0006,False
+7292,th-TH,calendar,calendar_set,ตอนเย็น พรุ่งนี้ สี่โมงเย็น ถึง หกโมงเย็น,weather_query,0.5211,0.0235,False
+7293,th-TH,calendar,calendar_set,การนัดหมาย หนึ่งชั่วโมง วันเสาร์,datetime_query,0.7469,0.017,False
+7294,th-TH,calendar,calendar_remove,นัด พรชัย,qa_factoid,0.9251,0.0018,False
+7295,th-TH,calendar,calendar_remove,ช่วย ล้าง ปฏิทิน ของฉัน ที,calendar_remove,0.695,0.695,True
+7314,th-TH,calendar,calendar_query,วันนี้ มีอะไรบ้าง,lists_query,0.6913,0.0054,False
+7316,th-TH,calendar,calendar_query,ฉันมี นัด อะไรบ้าง,lists_remove,0.4156,0.0148,False
+7319,th-TH,calendar,calendar_query,วันนี้ บ่ายสองถึงบ่ายสี่โมง,calendar_remove,0.683,0.1847,False
+7353,th-TH,email,email_query,แค่ช่วยบอกฉันถึงสภาพอากาศของ อาทิตย์หน้า ใน เชียงใหม่,weather_query,0.998,0.0001,False
+7355,th-TH,calendar,calendar_set,แจ้งเตือน เช็คสตู หก โมง,qa_factoid,0.8424,0.0052,False
+7380,th-TH,calendar,calendar_query,การประชุม กับลูกค้า วันนี้,social_post,0.9967,0.0001,False
+7397,th-TH,calendar,calendar_query,มีงานอะไรใน สามเดือนข้างหน้า ไหม,cooking_recipe,0.5487,0.0128,False
+7449,th-TH,calendar,calendar_set,ประชุม,social_post,0.5926,0.0091,False
+7450,th-TH,calendar,calendar_set,การประชุม,social_post,0.6833,0.0128,False
+7455,th-TH,calendar,calendar_set,เตือนความจำ ฉัน เรื่อง ปาร์ตี้ วันพรุ่งนี้,email_sendemail,0.377,0.0242,False
+7461,th-TH,calendar,calendar_set,ชวนคนมาที่ นัด ปฏิทิน,social_post,0.436,0.0221,False
+7463,th-TH,calendar,calendar_set,แจ้งเตือนในกลุ่มว่ามี ประชุม ใหม่ พรุ่งนี้,social_post,0.83,0.0037,False
+7467,th-TH,calendar,calendar_query,บอกเวลาของ นัด อันนี้,weather_query,0.8032,0.0044,False
+7477,th-TH,calendar,calendar_set,ของขวัญวันครบรอบแต่งงาน วันที่ห้าเดือนมีนาคม ทุกปี,qa_factoid,0.2149,0.0423,False
+7496,th-TH,calendar,calendar_query,วันนี้ ฉัน มี นัดหมาย ไหม,email_sendemail,0.7345,0.0001,False
+7499,th-TH,calendar,calendar_set,สร้างตารางเวลาอันใหม่สำหรับ การประชุม วันพรุ่งนี้,calendar_set,0.9325,0.9325,True
+7500,th-TH,calendar,calendar_remove,อีเว้นท์,email_sendemail,0.9775,0.0,False
+7502,th-TH,calendar,calendar_query,วาระการประชุม สำหรับการประชุมกับ โจ ตอน สี่โมงเย็น คืออะไร,datetime_query,0.9458,0.0048,False
+7503,th-TH,calendar,calendar_query,ประชุม ที่ เชียงใหม่ วันศุกร์ บ่ายโมง,weather_query,0.1581,0.0712,False
+7520,th-TH,calendar,calendar_set,ข้าวเที่ยง ทุกวัน บ่ายสอง,cooking_recipe,0.9908,0.0005,False
+7524,th-TH,calendar,calendar_query,การประชุม กับ เมธาวี วันนี้ ตอนห้าโมงยี่สิบ,datetime_query,0.3534,0.1066,False
+7528,th-TH,calendar,calendar_set,ผลการเลือกตั้ง วันที่สิบสามเดือนมิถุนายน,datetime_query,0.9954,0.0002,False
+7531,th-TH,calendar,calendar_set,เงินออก,iot_hue_lightoff,0.3166,0.0196,False
+7539,th-TH,calendar,calendar_query,ฉันมีอะไรที่กำลังดำเนินการอยู่หรือเปล่า,qa_factoid,0.4487,0.0122,False
+7542,th-TH,calendar,calendar_set,ช่วย แจ้งเตือน ฉันเรื่องนี้ พรุ่งนี้ ด้วยนะ,email_sendemail,0.9583,0.0011,False
+7549,th-TH,calendar,calendar_set,ประชุม สามโมง,calendar_remove,0.2092,0.0774,False
+7556,th-TH,calendar,calendar_set,ซื้อของกินของใช้ ทุกวันศุกร์,cooking_recipe,0.3632,0.0225,False
+7557,th-TH,calendar,calendar_set,สร้าง การแจ้งเตือน สถานที่ลงในปฏิทิน,iot_hue_lightoff,0.1839,0.0368,False
+7559,th-TH,calendar,calendar_set,รับผ้าที่ส่งซัก สองทุ่ม,lists_remove,0.7084,0.0106,False
+7563,th-TH,calendar,calendar_set,เตือน ประชุมพรุ่งนี้ หนึ่งชั่วโมง,calendar_remove,0.7538,0.007,False
+7565,th-TH,calendar,calendar_set,การประชุม,social_post,0.6833,0.0128,False
+7567,th-TH,calendar,calendar_set,วันเกิด,datetime_query,0.9182,0.0025,False
+7569,th-TH,calendar,calendar_query,พรุ่งนี้,calendar_remove,0.4409,0.0366,False
+7570,th-TH,calendar,calendar_query,วันนี้มีแผนอะไร,cooking_recipe,0.5542,0.0126,False
+7583,th-TH,calendar,calendar_set,งานเลี้ยงรุ่น ในปฏิทินของคุณ,email_sendemail,0.6484,0.0053,False
+7596,th-TH,calendar,calendar_set,กรุณานัด ประชุม กับ ด๋อย ที่ ปทุมธานี ตอน บ่าย,social_post,0.3216,0.0299,False
+7598,th-TH,calendar,calendar_set,กรุณาตั้ง การประชุม เพื่อ คุยเรื่องการก่อการร้าย กับ พล ในวันประชุม ที่ว่างถัดไป,email_sendemail,0.3535,0.0337,False
+7606,th-TH,calendar,calendar_set,พรุ่งนี้ บ่าย สาม เจอ โจ,social_post,0.454,0.0032,False
+7609,th-TH,calendar,calendar_remove,เตือน การประชุม วันอังคาร,calendar_remove,0.6436,0.6436,True
+7613,th-TH,calendar,calendar_query,งาน,cooking_recipe,0.2181,0.0253,False
+7628,th-TH,calendar,calendar_set,เตือนฉันให้ไป รับบัตรสมาชิกห้องสมุดใบใหม่ เมื่อฉันอยู่ที่ ห้องสมุด,email_sendemail,1.0,0.0,False
+7654,th-TH,calendar,calendar_set,วันเกิด พี่ชาย วันที่ยี่สิบเมษายน,datetime_query,0.9185,0.003,False
+7655,th-TH,calendar,calendar_set,เพิ่ม การเตือน สำหรับ ยี่สิบ เมษายน เป็น วันเกิด ของ พี่ชาย ของฉัน,email_sendemail,0.992,0.0004,False
+7660,th-TH,calendar,calendar_remove,ยกเลิก นัดหมาย ของฉันทั้งหมด หลัง บ่ายสามโมง วันนี้ และส่งรายละเอียดให้ฉัน,email_sendemail,0.3829,0.2394,False
+7662,th-TH,calendar,calendar_query,คุณช่วยแสดงรายการ การประชุม ของฉัน วันนี้ ได้ไหม,social_post,0.2975,0.0072,False
+7664,th-TH,calendar,calendar_set,กินข้าวกลางวัน กับ ปรีชา,cooking_recipe,0.9945,0.0003,False
+7666,th-TH,calendar,calendar_set,การประชุม กับ ทอม พรุ่งนี้ สาม โมง,social_post,0.079,0.048,False
+7680,th-TH,calendar,calendar_remove,งานแข่งกอล์ฟประจำ เดือน,lists_query,0.1757,0.0293,False
+7686,th-TH,calendar,calendar_set,เทศกาล ไมค์ และ แจ็ค,email_query,0.4734,0.0256,False
+7690,th-TH,calendar,calendar_query,ฉันมีอะไรที่กำลังจะมาถึงบ้าง,qa_factoid,0.1712,0.0162,False
+7693,th-TH,calendar,calendar_query,ฉันมีวางแผนอะไรไว้ไหม สำหรับวันที่ ยี่สิบเอ็ด,cooking_recipe,0.8371,0.0022,False
+7697,th-TH,calendar,calendar_set,ตั้ง ที่เตือนความจำ สำหรับ นี่,qa_factoid,0.4968,0.1411,False
+7711,th-TH,calendar,calendar_set,นี่ ยกเลิกนัดอื่นๆ ทั้งหมด ของฉัน แล้วให้ สอง มีนาคม เป็น วันเกิด จิม และแท็กให้เป็น นัด บนปฏิทินของเธอ,lists_remove,0.7447,0.0045,False
+7712,th-TH,calendar,calendar_set,งาน วันเกิด ของ ปรีชา สองมีนาคม,calendar_remove,0.3078,0.1103,False
+7718,th-TH,calendar,calendar_set,การประชุม กับ คุณรอส วันศุกร์นี้,social_post,0.9973,0.0001,False
+7726,th-TH,calendar,calendar_set,ฉันต้องทำ บางอย่าง ทุกวันจันทร์ ตั้งการ แจ้งเตือน เรื่องนี้,social_post,0.9111,0.0027,False
+7730,th-TH,calendar,calendar_set,ฉันต้องการให้คุณทำเครื่องหมาย วันจันทร์ ถัดไป,qa_factoid,0.5689,0.001,False
+7741,th-TH,calendar,calendar_remove,วันเสาร์ ของฉัน,email_sendemail,0.4558,0.0634,False
+7751,th-TH,calendar,calendar_set,เตือนฉันให้เอาขยะไปทิ้ง ทุกวันจันทร์,calendar_remove,0.5921,0.0108,False
+7762,th-TH,calendar,calendar_query,ฉันมี การแจ้งเตือน อะไรเหลือบ้าง,lists_remove,0.8403,0.0061,False
+7767,th-TH,calendar,calendar_set,เพิ่มแบบฝึกหัดลงในปฏิทินวันที่ ห้า กุมภาพันธ์ ณ. สวนลุมพินี เวลา บ่ายสองโมง,iot_hue_lightoff,0.8975,0.0046,False
+7768,th-TH,calendar,calendar_set,ที่ สวนลุมพินี สี่กุมภาพันธ์ บ่ายสองโมง,weather_query,0.5553,0.0289,False
+7774,th-TH,calendar,calendar_set,เพิ่ม การซื้อของ ไปยัง ปฏิทิน ของฉัน ใน วันพรุ่งนี้,email_sendemail,0.6959,0.0702,False
+7777,th-TH,calendar,calendar_query,ฉัน มี นัดหมาย วันนี้,email_sendemail,0.7105,0.0007,False
+7778,th-TH,calendar,calendar_set,เตือน ฉัน วันอาทิตย์ ตอนบ่าย,calendar_remove,0.2073,0.0164,False
+7808,th-TH,calendar,calendar_set,เตือนฉันให้พา แม่ ไปหา ช่างตัดผม วันพฤหัสบดี ตอน สิบเอ็ดโมงเช้า,recommendation_events,0.8262,0.0013,False
+7817,th-TH,calendar,calendar_query,ใช่วันที่นี้หรือเปล่า,qa_factoid,0.9659,0.0008,False
+7820,th-TH,calendar,calendar_remove,ลบ งาน ทั้งหมดในปฏิทิน,calendar_remove,0.4329,0.4329,True
+7836,th-TH,calendar,calendar_remove,ลบ นัด ทั้งหมด,lists_remove,0.818,0.0517,False
+7843,th-TH,calendar,calendar_set,เรียนไวโอลิน ที่ ยามาฮ่า ตอน สี่โมง เย็นเป็นเวลา สองชั่วโมง,iot_hue_lightoff,0.2257,0.0332,False
+7844,th-TH,calendar,calendar_query,ฉันตั้ง การเตือน อะไรไว้,email_sendemail,0.5448,0.0074,False
+7847,th-TH,calendar,calendar_set,เตือนฉันเมื่อ การลงทะเบียน เปิด,qa_factoid,0.9973,0.0001,False
+7851,th-TH,calendar,calendar_set,ฉันมี ประชุม เที่ยง วันนี้,social_post,0.8999,0.0015,False
+7863,th-TH,calendar,calendar_set,อาหารเย็น ห้าโมงเย็น,calendar_query,0.6859,0.0422,False
+7870,th-TH,calendar,calendar_remove,งาน,cooking_recipe,0.2181,0.0275,False
+7876,th-TH,news,news_query,สองเดือนที่ผ่านมา เกิดอะไรขึ้นบ้าง,news_query,0.9981,0.9981,True
+7878,th-TH,calendar,calendar_remove,ของฉัน,email_sendemail,0.8253,0.0,False
+7879,th-TH,calendar,calendar_query,งาน ของฉัน,qa_factoid,0.7073,0.005,False
+7889,th-TH,calendar,calendar_query,การแข่งขันฟุตบอล คืนนี้,calendar_query,0.2048,0.2048,True
+7890,th-TH,calendar,calendar_remove,วันนี้ ตัดผม,iot_hue_lightoff,0.3802,0.2138,False
+7891,th-TH,calendar,calendar_remove,มื้อเย็น คืนนี้,calendar_remove,0.137,0.137,True
+7892,th-TH,calendar,calendar_remove,ลบ เหตุการณ์ ถัดไป ของ วันนี้,qa_factoid,0.9618,0.0115,False
+7894,th-TH,calendar,calendar_set,แจ้งความคืบหน้าการ เลือกตั้ง ใน อีกหนึ่งชั่วโมง,email_sendemail,0.9918,0.0002,False
+7902,th-TH,calendar,calendar_set,การประชุม กับ จอห์น บ่ายสอง พรุ่งนี้,social_post,0.9473,0.0028,False
+7908,th-TH,calendar,calendar_query,วันนี้ ฉันต้องทำอะไรบ้าง,cooking_recipe,0.9971,0.0001,False
+7912,th-TH,calendar,calendar_remove,มื้อเย็น ของฉัน กับ ไมค์,email_sendemail,0.9985,0.0,False
+7916,th-TH,calendar,calendar_set,หกโมงเย็น,calendar_set,0.2112,0.2112,True
+7918,th-TH,calendar,calendar_set,ปฏิทิน กิจกรรม ส่งคำ เชิญ บิ๊กตู่,email_sendemail,0.8322,0.0033,False
+7919,th-TH,calendar,calendar_set,สร้าง ประชุม ใหม่ เพิ่ม บิลและมารินดา เป็นผู้เข้าร่วม,email_sendemail,0.1199,0.0367,False
+7922,th-TH,calendar,calendar_remove,งาน ใน อนาคต,qa_factoid,0.9631,0.0015,False
+7927,th-TH,calendar,calendar_query,สัปดาห์นี้,calendar_remove,0.2785,0.0367,False
+7946,th-TH,calendar,calendar_query,กรุงเทพ,weather_query,0.1553,0.032,False
+7953,th-TH,calendar,calendar_remove,นัดหมาย หมอของฉัน วันเสาร์,email_sendemail,0.8523,0.0014,False
+7955,th-TH,calendar,calendar_set,เหตุการณ์ นี้ ของฉัน,qa_factoid,0.6835,0.0032,False
+7956,th-TH,calendar,calendar_set,คุณช่วย ทำ งานอิเวนต์ นี้ ซ้ำ หน่อย,email_sendemail,0.9912,0.0001,False
+7966,th-TH,calendar,calendar_query,ฉันได้บอกเธอ ให้ เตือน อะไร ไหม,email_query,0.4654,0.0089,False
+7970,th-TH,calendar,calendar_set,แจ้งเตือน ตรงเวลาเพื่อซื้อของขวัญ งานเเต่งงาน,email_sendemail,0.7677,0.0065,False
+7971,th-TH,calendar,calendar_set,แจ้งเตือน ล่วงหน้า สองวัน,qa_factoid,0.1914,0.0247,False
+7975,th-TH,calendar,calendar_query,มี บริการรับจอดรถ ในงาน ไหม,lists_remove,0.5904,0.005,False
+7978,th-TH,calendar,calendar_query,ฉันมี ที่เตือนความจำ อะไรบ้าง ก่อน ช่วง บ่าย วัน พรุ่งนี้,calendar_remove,0.2356,0.0169,False
+7980,th-TH,calendar,calendar_set,บอก งานอีเว้นท์ ฉัน,email_sendemail,0.9895,0.0001,False
+7981,th-TH,calendar,calendar_set,แจ้งเตือนฉันก่อน ประชุม เริ่ม,qa_factoid,0.8796,0.0028,False
+7993,th-TH,calendar,calendar_remove,ลบ กิจกรรม ทั้งหมด ในปฏิทิน ของฉัน,lists_remove,0.6641,0.2719,False
+8001,th-TH,calendar,calendar_remove,ฉัน ตัดผม วันศุกร์,calendar_remove,0.2825,0.2825,True
+8004,th-TH,calendar,calendar_set,ปรีดา ต้องการจะคุยกับฉันเกี่ยวกับการ หย่า ของพวกเรา คุณช่วยนัดหมายการ ประชุม เร็วที่สุดเท่าที่ฉันจะว่างได้ทีนะ,social_post,0.817,0.0014,False
+8005,th-TH,calendar,calendar_set,ฉันต้อง นัดคุย กับ ต้นปอ วันจันทร์ที่ยี่สิบ เรื่อง ทริปวันหยุดสุดสัปดาห์ของเรา,email_sendemail,1.0,0.0,False
+8013,th-TH,calendar,calendar_query,แสดง รายการ ประชุม ของฉัน ใน เดือนหน้า,social_post,0.9281,0.0004,False
+8029,th-TH,calendar,calendar_query,งาน วันนี้,calendar_remove,0.3429,0.1421,False
+8033,th-TH,datetime,datetime_query,วันลอยกระทง ตรงกับวันอะไร,datetime_query,0.8668,0.8668,True
+8035,th-TH,calendar,calendar_set,แจ้งเตือน ฉัน ให้ เปลี่ยนน้ำมัน,email_sendemail,0.9992,0.0,False
+8037,th-TH,calendar,calendar_set,แจ้งเตือน บางอย่าง ใน บางเวลา,iot_hue_lightoff,0.3351,0.0321,False
+8042,th-TH,calendar,calendar_query,การ ประชุม รอบหน้ามีคนเข้าร่วมกี่คน,qa_factoid,0.6376,0.0185,False
+8043,th-TH,calendar,calendar_query,นัด ครั้งถัดไป ของฉัน คือเมื่อไหร่,datetime_query,0.9994,0.0,False
+8044,th-TH,calendar,calendar_query,ตาราง ของฉัน วันนี้,iot_hue_lightoff,0.9311,0.0024,False
+8055,th-TH,calendar,calendar_remove,ลบ การนัดหมาย ใน วันที่เจ็ดเดือนมีนาคม ของฉัน,calendar_remove,0.9949,0.9949,True
+8056,th-TH,calendar,calendar_query,วันศุกร์ ของ ฉัน,email_sendemail,0.9614,0.0003,False
+8058,th-TH,calendar,calendar_query,ประชุมการขาย วันนี้,recommendation_events,0.4549,0.0291,False
+8073,th-TH,calendar,calendar_set,นัด ประชุมการขาย วันพุธ ตอน สิบเอ็ดโมงเช้า,calendar_query,0.1425,0.1374,False
+8079,th-TH,calendar,calendar_set,อบขนมปังในหนึ่งชั่วโมง,cooking_recipe,0.9999,0.0,False
+8084,th-TH,calendar,calendar_query,งาน ของ ฉันมีอะไรบ้าง,email_query,0.4914,0.0039,False
+8085,th-TH,calendar,calendar_set,ฉันอยากจะตั้งค่าวัน สำหรับ สัปดาห์นี้,calendar_set,0.8034,0.8034,True
+8100,th-TH,email,email_sendemail,ส่งจดหมายอิเล็กทรอนิกส์ เรื่อง การนัดพบ ของฉัน เพื่อ เปลี่ยนตารางเวลา,email_sendemail,1.0,1.0,True
+8107,th-TH,calendar,calendar_set,งาน วันเกิด มาร์ติน,qa_factoid,0.3117,0.0089,False
+8110,th-TH,calendar,calendar_set,ช่วย เพิ่ม การดูแล ลงใน ปฏิทิน ของฉัน,iot_hue_lightoff,0.6146,0.0101,False
+8116,th-TH,calendar,calendar_query,ในช่วงวันที่ หนึ่งกุมภาพันธ์และสิบหกมีนาคม มี การ ประชุม อะไรบ้าง,lists_query,0.5149,0.006,False
+8119,th-TH,calendar,calendar_query,งานวันเกิด ของน้องเทล จัดที่ไหน,calendar_set,0.228,0.0447,False
+8125,th-TH,calendar,calendar_set,งาน การประชุม ของฉัน,email_sendemail,0.3068,0.013,False
+8126,th-TH,calendar,calendar_set,งาน ประชุม ของฉัน,recommendation_events,0.1569,0.0183,False
+8129,th-TH,calendar,calendar_query,การแจ้งเตือน ที่เหลืออยู่ของฉันมีอะไรบ้าง,email_sendemail,0.995,0.0002,False
+8140,th-TH,calendar,calendar_set,ตั้ง แจ้งเตือน ว่ามีนัดกิน ข้าวเที่ยง กับ เดเล่ วันที่สิบสาม,email_sendemail,0.9857,0.0031,False
+8148,th-TH,calendar,calendar_query,ฉัน ยัง เหลือ แจ้งเตือน อะไร บ้าง,lists_remove,0.8319,0.0029,False
+8150,th-TH,calendar,calendar_query,ฉันมีแจ้งเตือนเรื่อง ปาร์ตี้วันเกิด ไหม,email_sendemail,0.9768,0.0002,False
+8165,th-TH,calendar,calendar_query,อีก สิบนาที ก่อน ประชุม เวลาเที่ยงคืนครึ่ง,datetime_query,0.3119,0.0165,False
+8182,th-TH,calendar,calendar_remove,การนัดหมายหมอฟัน,email_sendemail,0.2254,0.0319,False
+8188,th-TH,calendar,calendar_query,วันนี้วันที่เท่าไหร่,weather_query,0.8258,0.0002,False
+8204,th-TH,calendar,calendar_set,เตือน ไป ที่ทำการไปรษณีย์,email_sendemail,0.5948,0.007,False
+8206,th-TH,calendar,calendar_set,อย่าปล่อยให้ฉันลืมซื้อของขวัญให้ น้องสาว ฉัน,email_sendemail,0.993,0.0001,False
+8230,th-TH,calendar,calendar_query,ประชุมมื้อเที่ยง ของฉัน ใน วันอังคาร จะนานขนาดไหน,datetime_query,0.3047,0.0508,False
+8241,th-TH,calendar,calendar_remove,ล้าง ทุกอย่าง ออกจาก ปฏิทิน ของฉัน ในช่วง ที่เหลือของปี,lists_remove,0.4639,0.4425,False
+8245,th-TH,calendar,calendar_set,ต้องเตือนฉันเรื่อง บริการคริสตจักร ใน วันอาทิตย์ ตอน สิบเอ็ดโมงเช้า,email_sendemail,0.975,0.0004,False
+8248,th-TH,calendar,calendar_set,อาหารเย็น พรุ่งนี้,cooking_recipe,0.7003,0.0203,False
+8251,th-TH,calendar,calendar_set,บันทึก มื้อเที่ยง ของสัปดาห์หน้า ลงในปฏิทิน,iot_hue_lightoff,0.4017,0.0858,False
+8260,th-TH,calendar,calendar_set,โปรด เตือนฉัน หนึ่งวันก่อนหน้า วันเกิด ของจ่อย,email_sendemail,0.9973,0.0,False
+8261,th-TH,calendar,calendar_set,หนึ่ง ชั่วโมงก่อนหน้า การนัดหมาย,datetime_query,0.9166,0.0027,False
+8269,th-TH,calendar,calendar_set,เตือน วันอังคาร สามสิบนาที,datetime_query,0.5632,0.0098,False
+8276,th-TH,calendar,calendar_remove,ลบ นัดหมาย อันต่อไป ของฉัน,qa_factoid,0.5124,0.3501,False
+8280,th-TH,calendar,calendar_set,ฉันอยากตั้งการแจ้งเตือน ใน วันที่สิบห้า มีนาคม,iot_hue_lightoff,0.5529,0.3847,False
+8284,th-TH,calendar,calendar_remove,ลบ วันเกิด จาก ปฏิทิน,iot_hue_lightoff,0.9442,0.0016,False
+8289,th-TH,calendar,calendar_set,แจ้งเตือน ประชุมคณาจารย์ วันนี้ ตอน สี่โมง,play_podcasts,0.7663,0.01,False
+8290,th-TH,calendar,calendar_set,การประชุมผู้จัดการ สัปดาห์หน้า วันอังคาร,recommendation_events,0.105,0.049,False
+8294,th-TH,calendar,calendar_set,เพิ่มเข้าไปบนปฏิทินและ ทำซ้ำ,qa_factoid,0.6071,0.017,False
+8300,th-TH,calendar,calendar_set,สิบแปดมีนาคมห้าโมงถึงหกโมงเย็น,weather_query,0.637,0.0142,False
+8302,th-TH,calendar,calendar_remove,ลบ ประชุม ใน วันจันทร์ถัดไป,calendar_remove,0.8876,0.8876,True
+8308,th-TH,news,news_query,การประท้วงที่ สยาม ตอน เที่ยง เมื่อวาน เกี่ยวกับอะไร,social_post,0.8869,0.0063,False
+8336,th-TH,calendar,calendar_query,ฉันมีกิน มื้อเที่ยง กับ เจน ตอนไหน,datetime_query,0.5952,0.0047,False
+8343,th-TH,datetime,datetime_query,วันพุธ หรือเปล่า,calendar_remove,0.345,0.0147,False
+8345,th-TH,calendar,calendar_set,การประชุม,social_post,0.6833,0.0128,False
+8347,th-TH,calendar,calendar_query,มีอะไรใน วันที่ สี่ ธันวาคม,news_query,0.6244,0.0092,False
+8358,th-TH,calendar,calendar_set,เตือนฉัน,qa_factoid,0.4439,0.0095,False
+8366,th-TH,calendar,calendar_set,ทำให้ วันที่สิบแปด มีนาคม เกิดซ้ำ สำหรับ นัดเลี้ยงวันเกิดเจน,iot_hue_lightoff,0.5422,0.0061,False
+8387,th-TH,calendar,calendar_set,สองทุ่ม,qa_factoid,0.8528,0.0047,False
+8388,th-TH,calendar,calendar_set,แจ้งเตือน สองทุ่ม,qa_factoid,0.9586,0.0011,False
+8390,th-TH,calendar,calendar_set,เตือน เกี่ยวกับ การ ประชุม ของฉัน,email_sendemail,0.9918,0.0003,False
+8394,th-TH,calendar,calendar_set,ตั้งการเตือน ทุกวัน ตอน เที่ยง ให้กินยา,email_sendemail,0.972,0.007,False
+8404,th-TH,calendar,calendar_query,ฉันอยากรู้ เพิ่มเติม เกี่ยวกับงานอีเวนต์นี้,email_sendemail,0.6093,0.0002,False
+8409,th-TH,calendar,calendar_remove,อาหารเย็น ของฉัน พรุ่งนี้,email_sendemail,0.3983,0.0076,False
+8410,th-TH,calendar,calendar_remove,งานเลี้ยง อาหารเย็น ของฉัน วันจันทร์,cooking_recipe,0.8007,0.0069,False
+8413,th-TH,calendar,calendar_set,ช่วย เตือน ฉัน ที,email_query,0.2087,0.0185,False
+8414,th-TH,calendar,calendar_set,แจ้งเตือน ให้ฉัน ไป กิน ข้าวเย็น กับ ปรีชา วันศุกร์ ตอน ห้าโมงเย็น,email_sendemail,0.9,0.0031,False
+8415,th-TH,calendar,calendar_set,การประชุม ที่ ออฟฟิศ กับ สมปอง วันอังคาร สามโมงเย็น,weather_query,0.0725,0.0488,False
+8426,th-TH,calendar,calendar_query,เมื่อวาน ตอนเช้า,weather_query,0.8467,0.0041,False
+8430,th-TH,calendar,calendar_remove,นัด ของฉัน ทั้งหมด,datetime_query,0.8474,0.0018,False
+8431,th-TH,calendar,calendar_remove,เหตุการณ์ ของฉัน,email_query,0.3652,0.0156,False
+8436,th-TH,calendar,calendar_set,เดือน มีนาคม ทุกวันพุธ ตอนเที่ยง ประชุมพร้อมรับประทานมื้อเที่ยง,email_sendemail,0.6569,0.0297,False
+8442,th-TH,calendar,calendar_set,ปรับเปลี่ยน ปฏิทิน ของฉัน กับ นัด นี้,email_sendemail,0.9617,0.0002,False
+8449,th-TH,calendar,calendar_set,เตือน วันเกิด ลูกสาว ของฉัน,datetime_query,0.4105,0.0037,False
+8453,th-TH,calendar,calendar_set,เหตุการณ์ ของฉัน,email_query,0.3652,0.0138,False
+8460,th-TH,calendar,calendar_query,แสดง เหตุการณ์ ของฉัน,play_radio,0.6159,0.0027,False
+8461,th-TH,calendar,calendar_query,เดือนพฤษภาคม,datetime_query,0.9302,0.0035,False
+8466,th-TH,calendar,calendar_set,แจ้งเตือน ฉันว่ามี ประชุม วันพุธ เวลา เก้าโมงเช้า,email_sendemail,0.9689,0.0016,False
+8469,th-TH,calendar,calendar_query,ตารางงาน ของฉัน วันนี้,iot_hue_lightoff,0.8887,0.0066,False
+8474,th-TH,calendar,calendar_set,เพิ่ม งานฉลองวันเกิด ของ สีดา พรุ่งนี้ บ่ายสองโมง ที่ เอกมัย บนปฏิทินของฉัน,email_sendemail,0.2955,0.075,False
+8494,th-TH,calendar,calendar_query,ตารางงาน ของฉัน วันนี้ เป็นอย่างไรบ้าง,weather_query,0.2748,0.0239,False
+8496,th-TH,calendar,calendar_query,บอก การประชุม ของฉัน สำหรับ พรุ่งนี้ เช้า,email_sendemail,0.9993,0.0,False
+8498,th-TH,calendar,calendar_query,แจ้งเตือน ทั้งหมด,qa_factoid,0.2659,0.0194,False
+8516,th-TH,calendar,calendar_remove,ลบรายการในปฏิทิน,calendar_remove,0.8517,0.8517,True
+8520,th-TH,calendar,calendar_set,เพิ่ม นัด ไปยัง แอปปฏิทิน,iot_hue_lightoff,0.4837,0.0131,False
+8525,th-TH,calendar,calendar_query,การประชุม เวลา สามโมงถึงห้าโมง,datetime_query,0.2859,0.2053,False
+8535,th-TH,calendar,calendar_set,เตือน ฉัน เรื่อง การนัดหมอฟัน ในอีก สองชั่วโมง,email_sendemail,0.2448,0.0211,False
+8539,th-TH,calendar,calendar_set,เตือน,qa_factoid,0.6065,0.0037,False
+8541,th-TH,calendar,calendar_set,เตือน,qa_factoid,0.6065,0.0037,False
+8553,th-TH,calendar,calendar_set,เพิ่ม ประชุม ไปที่ ปฏิทิน ของฉัน ตอน เก้าโมงเช้า กับ ทอม,social_post,0.9833,0.0006,False
+8559,th-TH,calendar,calendar_query,วันนี้ มีนัดอะไรหรือเปล่า,calendar_remove,0.4516,0.0941,False
+8562,th-TH,calendar,calendar_remove,ประชุม บ่ายสองโมง,calendar_remove,0.3014,0.3014,True
+8568,th-TH,calendar,calendar_set,สมหญิงและสมชายมื้อเที่ยง สิบเอ็ดโมง วันอังคาร,calendar_remove,0.1435,0.0401,False
+8570,th-TH,calendar,calendar_set,คุณจะช่วยลงว่า ฉันไม่ว่าง ใน วัน พรุ่งนี้ ตอน บ่ายสอง ได้ไหม,email_sendemail,0.1169,0.0327,False
+8579,th-TH,calendar,calendar_query,การประชุม ของฉัน วันนี้,email_sendemail,0.5298,0.0158,False
+8585,th-TH,calendar,calendar_set,งานวันเกิด วันที่สิบสาม,qa_factoid,0.5813,0.0285,False
+8598,th-TH,calendar,calendar_set,แจ้งเตือน รับปรีชา ที่ สนามบิน ตอน หกโมงเย็น,email_sendemail,0.1856,0.0328,False
+8618,th-TH,calendar,calendar_set,รดน้ำต้นไม้ ทุกวันอังคารวันพฤหัสและวันเสาร์,lists_remove,0.183,0.0327,False
+8631,th-TH,calendar,calendar_remove,อันนั้น ของฉัน,email_query,0.6477,0.001,False
+8635,th-TH,calendar,calendar_set,คุณช่วยเตือนฉันให้ สั่งไก่งวง สามสัปดาห์ก่อนวันขอบคุณพระเจ้าได้ไหม,qa_factoid,0.4868,0.0062,False
+8640,th-TH,calendar,calendar_set,ฉันอยากบันทึก อีเวนต์ พรุ่งนี้ ที่ ห้องสมุด ลงในปฏิทินของฉัน,iot_hue_lightoff,0.7384,0.0003,False
+8642,th-TH,calendar,calendar_set,เพิ่ม ประชุมทางโทรศัพท์ ตอน สี่โมงเย็น ที่ การแจ้งเตือน ของฉัน ของ วันนี้,email_sendemail,0.9482,0.0002,False
+8651,th-TH,calendar,calendar_set,เหตุการณ์ ของฉัน,email_query,0.3652,0.0138,False
+8653,th-TH,calendar,calendar_set,เตือน ของฉัน,qa_factoid,0.7855,0.0056,False
+8666,th-TH,calendar,calendar_remove,ลบ งาน ทั้งหมด จาก ปฏิทิน ของฉัน,calendar_remove,0.7349,0.7349,True
+8667,th-TH,calendar,calendar_query,ประชุม คุณประยุทธ์ สามเดือนที่แล้ว,social_post,0.8877,0.0024,False
+8670,th-TH,calendar,calendar_remove,ลบ นัด ออกจากปฏิทิน,iot_hue_lightoff,0.5096,0.2365,False
+8672,th-TH,calendar,calendar_query,คอนเสิร์ตลาบานูน อยู่ที่ไหน,email_query,0.9516,0.0,False
+8674,th-TH,calendar,calendar_query,ประชุม ของฉัน เก้าโมงเช้า,weather_query,0.1974,0.0754,False
+8679,th-TH,calendar,calendar_query,วันนักบุญแพทริค วันนี้,calendar_remove,0.3748,0.174,False
+8681,th-TH,calendar,calendar_query,วันเกิด,datetime_query,0.9182,0.0025,False
+8694,th-TH,calendar,calendar_set,กิจกรรมจะมี เขียว และ เจมม่า มาร่วมด้วย,social_post,0.758,0.0046,False
+8730,th-TH,calendar,calendar_set,ช่วยตั้ง การแจ้งเตือน ใน ปฏิทิน ของฉัน สำหรับ การประชุม ของฉัน ใน วันที่ยี่สิบห้า มีนาคม,calendar_set,0.9621,0.9621,True
+8732,th-TH,calendar,calendar_remove,ทุก,qa_factoid,0.5975,0.026,False
+8762,th-TH,calendar,calendar_query,บอก ตารางเวลา ของฉัน บ่ายนี้,email_sendemail,0.9902,0.0001,False
+8765,th-TH,calendar,calendar_set,ใส่ มื้อเย็น ของฉัน ที่ ร้านเจ๊ไฝ วันนี้ เก้า โมง ลงในปฏิทิน,cooking_recipe,0.3234,0.0178,False
+8766,th-TH,calendar,calendar_query,ฉัน มี ประชุม วันเสาร์ที่ยี่สิบห้าเดือนมีนาคม,email_sendemail,0.9903,0.0001,False
+8767,th-TH,calendar,calendar_query,วันที่สิบสอง เมษายน เป็นวันเกิดของ อคิณ หรือไม่,qa_factoid,0.98,0.0004,False
+8769,th-TH,calendar,calendar_remove,ลบ กิจกรรม ที่กำลังจะเกิดขึ้น,calendar_remove,0.5828,0.5828,True
+8771,th-TH,calendar,calendar_remove,ทริปช้อปปิ้งของ ฉัน วันที่ยี่สิบสามมีนาคม,recommendation_events,0.7892,0.0456,False
+8774,th-TH,calendar,calendar_query,ตารางเวลา วันที่เจ็ดกรกฎาคม ของฉัน,datetime_query,0.9617,0.0012,False
+8781,th-TH,calendar,calendar_query,สี่โมง,calendar_remove,0.3234,0.0728,False
+8782,th-TH,calendar,calendar_query,ประชุม บ่ายนี้,cooking_recipe,0.1234,0.0425,False
+8791,th-TH,calendar,calendar_query,ขอข้อมูลของ กิจกรรม นี้เพิ่มเติม,recommendation_events,0.59,0.0064,False
+8795,th-TH,calendar,calendar_query,แสดง การแจ้งเตือน ที่ค้างอยู่,calendar_remove,0.4471,0.0129,False
+8822,th-TH,recommendation,recommendation_events,ข้อมูลของ งานอีเวนต์ ที่กำลังจะมาถึง,email_sendemail,0.9689,0.0005,False
+8824,th-TH,calendar,calendar_query,ฉันต้องทำอะไรใน วันที่สิบเก้า บ่ายสอง,calendar_remove,0.3269,0.0281,False
+8825,th-TH,calendar,calendar_set,ส่งแจ้งเตือนฉันเรื่อง ประชุม กับ ปรีชา วันศุกร์ หน้า,email_sendemail,0.9821,0.0,False
+8828,th-TH,calendar,calendar_query,กิจกรรม ตามตารางเวลา,cooking_recipe,0.3778,0.0323,False
+8846,th-TH,calendar,calendar_query,สี่กรกฎาคมปีนี้,datetime_query,0.9419,0.0024,False
+8853,th-TH,calendar,calendar_remove,ปั่นจักรยาน,qa_factoid,0.3007,0.0231,False
+8856,th-TH,calendar,calendar_remove,กิจกรรม ทั้งหมด,cooking_recipe,0.5748,0.0135,False
+8857,th-TH,calendar,calendar_set,แจ้ง เตือน การประชุม กับ สมชาย ที่กำลังจะมาถึง,social_post,0.7175,0.0079,False
+8868,th-TH,calendar,calendar_set,เตือนฉัน ให้ โทรหาแม่ ทุกวันอังคาร ตอน สิบโมงเช้า,email_sendemail,0.9998,0.0,False
+8880,th-TH,calendar,calendar_set,แจ้งเตือน ประชุม พรุ่งนี้ เก้าโมงเช้า,qa_factoid,0.2932,0.0173,False
+8888,th-TH,calendar,calendar_remove,ลบมัน,qa_factoid,0.9935,0.0021,False
+8900,th-TH,calendar,calendar_set,ทุกวันอาทิตย์,qa_factoid,0.6035,0.0328,False
+8904,th-TH,calendar,calendar_query,ข้อมูลของงานที่เพิ่งเกิดขึ้น,news_query,0.6949,0.0036,False
+8906,th-TH,calendar,calendar_set,ตาราง งาน วัน อื่น อื่น,lists_query,0.7136,0.0691,False
+8907,th-TH,calendar,calendar_set,งานที่พูดถึง,social_post,0.9702,0.0005,False
+8912,th-TH,calendar,calendar_query,วันนี้ หลังหกโมงเย็น,weather_query,0.9865,0.001,False
+8914,th-TH,calendar,calendar_query,นัดหมาย ของฉัน สี่เมษายน,email_sendemail,0.6888,0.0001,False
+8916,th-TH,calendar,calendar_query,วัน,qa_factoid,0.988,0.0003,False
+8925,th-TH,calendar,calendar_remove,ลบ งาน ของฉัน,calendar_remove,0.8066,0.8066,True
+8939,th-TH,calendar,calendar_set,พิธีอาบน้ำลูกสาว ปรีชา,cooking_recipe,0.9996,0.0,False
+8948,th-TH,calendar,calendar_set,งาน ประชุม กับ ปรีชา,recommendation_events,0.59,0.0133,False
+8949,th-TH,calendar,calendar_remove,กรุณาลบ ส่วนที่เหลือ,qa_factoid,0.9974,0.0001,False
+8958,th-TH,calendar,calendar_query,บอกเวลานัด ประชุม,weather_query,0.7436,0.006,False
+8960,th-TH,calendar,calendar_set,แจ้งเตือน การประชุม ตอนเย็น,email_sendemail,0.4983,0.0197,False
+8967,th-TH,calendar,calendar_set,วันเกิด ภรรยา,datetime_query,0.8778,0.0032,False
+8968,th-TH,calendar,calendar_set,สิ่งที่ เตือน สัปดาห์นี้,news_query,0.367,0.0139,False
+8975,th-TH,calendar,calendar_query,การประชุม วันนี้,social_post,0.1374,0.0847,False
+8977,th-TH,calendar,calendar_set,ใบแจ้งหนี้ค้างจ่าย,email_sendemail,0.7474,0.0067,False
+8978,th-TH,calendar,calendar_set,เตือนฉันเรื่อง ประชุมสำคัญกับเจ้านาย ก่อนสัปดาห์,email_sendemail,0.9907,0.0001,False
+8985,th-TH,calendar,calendar_remove,งานวันเกิดของอีริค,calendar_set,0.5837,0.1115,False
+8990,th-TH,calendar,calendar_set,สร้าง งาน,qa_factoid,0.5317,0.0018,False
+8992,th-TH,calendar,calendar_set,แสดง การประชุม,social_post,0.9174,0.0028,False
+9009,th-TH,calendar,calendar_remove,ลบ งาน ครบรอบ ของฉัน,calendar_remove,0.9279,0.9279,True
+9011,th-TH,calendar,calendar_query,วันขอบคุณพระเจ้า จัดวันที่ สิบสี่เดือนนี้ ใช่ไหม,qa_factoid,0.6194,0.0126,False
+9014,th-TH,calendar,calendar_set,แจ้งเตือน การประชุม ของฉัน กับ เพื่อนร่วมงาน วันที่ยี่สิบสามตุลาคม,email_sendemail,0.9992,0.0,False
+9015,th-TH,calendar,calendar_remove,ล้าง กิจกรรม ใน ปฏิทิน ของฉัน ทั้งหมด,lists_remove,0.9199,0.0242,False
+9019,th-TH,calendar,calendar_query,การประชุม วันที่ยี่สิบถึงยี่สิบห้ามิถุนายน,datetime_query,0.4395,0.0281,False
+9030,th-TH,calendar,calendar_remove,ลบนัดหมอ วันนี้,calendar_remove,0.9126,0.9126,True
+9035,th-TH,calendar,calendar_query,งานเเต่งงาน ปรีชา,cooking_recipe,0.8975,0.0016,False
+9043,th-TH,calendar,calendar_set,ดู นัดที่กำลังมาถึง ในปฏิทิน,datetime_query,0.6156,0.0031,False
+9053,th-TH,calendar,calendar_set,แจ้งเตือน ประชุม กับ ปรีดา วันอังคาร,qa_factoid,0.1186,0.0458,False
+9054,th-TH,calendar,calendar_set,แจ้งเตือน วันอังคาร เดินออกกำลังกาย,email_sendemail,0.2977,0.0222,False
+9059,th-TH,calendar,calendar_set,เตือนฉันเมื่อถึงเวลาจัด งานพืชสวนโลก,calendar_remove,0.486,0.007,False
+9061,th-TH,calendar,calendar_query,ที่เตือนความจำ,qa_factoid,0.9859,0.0006,False
+9062,th-TH,calendar,calendar_set,วันเกิดรานี ยี่สิบสองมิถุนายน,datetime_query,0.7964,0.0062,False
+9074,th-TH,calendar,calendar_remove,งานนั้น,cooking_recipe,0.9565,0.0007,False
+9088,th-TH,calendar,calendar_remove,ทุกอย่าง ของฉัน,lists_query,0.2262,0.0174,False
+9095,th-TH,calendar,calendar_remove,กินข้าวเย็นกับปรีดาคืนนี้,cooking_recipe,0.9763,0.0021,False
+9103,th-TH,calendar,calendar_query,มีการ ประชุม อะไรไหมในปฏิทินของฉัน ตอนบ่ายนี้,play_podcasts,0.3502,0.0189,False
+9107,th-TH,calendar,calendar_query,คอนเสิร์ตของสิงโตนำโชควันที่สามมิถุนายน,social_post,0.8422,0.0064,False
+9110,th-TH,calendar,calendar_set,งานออกร้านสองพันสิบเจ็ดวันที่ยี่สิบห้ามีนาคม,datetime_query,0.8945,0.0029,False
+9112,th-TH,calendar,calendar_set,เพิ่มสิ่ง นี้ ลงใน ปฏิทิน ของฉัน,email_sendemail,0.437,0.0075,False
+9114,th-TH,calendar,calendar_set,เตือน ซ้ำอัน นี้,calendar_remove,0.6187,0.0036,False
+9116,th-TH,calendar,calendar_query,ช่วย ตั้ง การ ประชุม ของฉัน ใหม่ที,calendar_set,0.4907,0.0055,False
+9121,th-TH,calendar,calendar_query,ฉันจองวันไหนไปบ้าง,recommendation_events,0.9873,0.006,False
+9124,th-TH,calendar,calendar_set,แสดง งาน ของฉัน ใน ปฏิทิน ที่ทำงาน สำหรับ สัปดาห์หน้า,email_sendemail,0.9548,0.0013,False
+9137,th-TH,calendar,calendar_query,คาเฟอิตาเลี่ยน,qa_factoid,0.9214,0.002,False
+9138,th-TH,qa,qa_factoid,งานไม้ดอก จะเริ่มอย่างเป็นทางการเมื่อไหร่,qa_factoid,0.564,0.564,True
+9149,th-TH,calendar,calendar_query,งานกาล่าดินเนอร์,qa_factoid,0.5052,0.0014,False
+9153,th-TH,calendar,calendar_set,ช่วย เพิ่ม การ ทานข้าวเย็นกับตาล ลงในปฏิทินของฉัน วันเสาร์,cooking_recipe,0.9979,0.0001,False
+9155,th-TH,calendar,calendar_set,การนัดหมายพบหมอฟัน วันศุกร์ สาม โมง,calendar_remove,0.2414,0.0547,False
+9156,th-TH,calendar,calendar_set,เตือน,qa_factoid,0.6065,0.0037,False
+9175,th-TH,calendar,calendar_query,สิบนาทีสุดท้าย,qa_factoid,0.9452,0.0007,False
+9182,th-TH,calendar,calendar_remove,ยกเลิกแผนการไป รับพ่อแม่ จาก สนามบิน,qa_factoid,0.3071,0.1691,False
+9187,th-TH,calendar,calendar_set,การประชุม,social_post,0.6833,0.0128,False
+9193,th-TH,calendar,calendar_set,นี้,qa_factoid,0.698,0.0028,False
+9194,th-TH,calendar,calendar_remove,เหตุการณ์ นี้ ของฉัน,qa_factoid,0.6835,0.0145,False
+9197,th-TH,calendar,calendar_query,ฉัน มี แพลน อะไรบ้าง ใน สัปดาห์นี้,lists_remove,0.3774,0.0137,False
+9198,th-TH,calendar,calendar_query,แจ้งเตือน ของฉัน,qa_factoid,0.8885,0.0025,False
+9202,th-TH,play,play_radio,เปิด สถานีวิทยุ,iot_hue_lightoff,0.6796,0.0151,False
+9204,th-TH,play,play_radio,เริ่ม วิทยุ บี.บี.ซี,qa_factoid,0.4943,0.0158,False
+9212,th-TH,play,play_radio,เล่น วิทยุ,play_radio,0.9776,0.9776,True
+9216,th-TH,play,play_radio,เล่น สถานีของฉัน,play_radio,0.54,0.54,True
+9225,th-TH,play,play_radio,ช่วยเปิด วิทยุ ให้หน่อยได้มั้ย,iot_hue_lightoff,0.9827,0.0003,False
+9233,th-TH,play,play_radio,pandora,qa_factoid,0.1403,0.0398,False
+9236,th-TH,play,play_radio,ไปที่ ช่อง จ. ส. ร้อย,email_sendemail,0.7116,0.0004,False
+9237,th-TH,play,play_radio,เปิด วิทยุ และเล่น ช่อง หนึ่งร้อยหกจุดเก้า,iot_hue_lightoff,0.7351,0.0142,False
+9250,th-TH,play,play_radio,อยากฟัง วิทยุ,qa_factoid,0.8387,0.0001,False
+9254,th-TH,play,play_radio,เปิด เก้าร้อยสามสิบเเปด เอฟ. เอ็ม. ให้ที,qa_factoid,0.9858,0.0008,False
+9263,th-TH,play,play_radio,เปิด แอป radio,play_radio,1.0,1.0,True
+9269,th-TH,play,play_radio,จูนไปที่ กรีนเวฟ ร้อยหกจุดห้า,qa_factoid,0.9723,0.0007,False
+9270,th-TH,play,play_radio,แค่เล่น กรีนเวฟ ร้อยหกจุดห้า,iot_hue_lightoff,0.5413,0.1239,False
+9275,th-TH,play,play_radio,เฉพาะ กรีนเวฟ ร้อยหกจุดห้า เท่านั้นที่จะถูกเล่นบนวิทยุ,iot_hue_lightoff,0.9962,0.0,False
+9284,th-TH,play,play_radio,เอฟเอ็ม,qa_factoid,0.2063,0.0249,False
+9291,th-TH,play,play_radio,เปิดสถานีเพลง,play_music,0.9333,0.004,False
+9301,th-TH,play,play_radio,เล่น เอฟ.เอ็ม.,play_music,0.5809,0.3932,False
+9303,th-TH,play,play_radio,เล่นคลื่น คูลเอฟเอม,play_radio,0.7469,0.7469,True
+9305,th-TH,play,play_radio,จูนไปที่คลื่น จ. ส. ร้อย,lists_remove,0.126,0.0392,False
+9316,th-TH,play,play_radio,เล่น กรีนเวฟ ร้อยหกจุดห้า ให้ฉัน,iot_hue_lightoff,0.5162,0.151,False
+9317,th-TH,play,play_radio,เปิด วิทยุ เดี๋ยวนี้,qa_factoid,0.626,0.005,False
+9321,th-TH,play,play_radio,ทำให้ วิทยุ เปิด ตอนนี้,iot_hue_lightoff,0.2013,0.0295,False
+9323,th-TH,play,play_radio,เริ่ม pandora,qa_factoid,0.9922,0.0026,False
+9326,th-TH,play,play_radio,เล่น เก้าสิบห้าลูกทุ่งมหานคร ตอนนี้,play_music,0.6963,0.1306,False
+9327,th-TH,play,play_radio,โปรดสแกนหน้าปัดวิทยุ ตอนนี้,iot_hue_lightoff,0.6723,0.0117,False
+9330,th-TH,play,play_radio,เปิด,qa_factoid,0.8846,0.0072,False
+9341,th-TH,play,play_radio,alexa เปลี่ยน สถานีวิทยุ,email_query,0.5023,0.0247,False
+9352,th-TH,play,play_radio,เล่น วิทยุ,play_radio,0.9776,0.9776,True
+9353,th-TH,play,play_radio,เปิด วิทยุ ฟังเพลง,play_music,0.9855,0.0022,False
+9358,th-TH,play,play_radio,เริ่มเล่น คลื่นวิทยุแปดร้อยแปดสิบเก้า,play_music,0.5182,0.4695,False
+9361,th-TH,play,play_radio,ฟัง วิทยุ,play_podcasts,0.6188,0.1149,False
+9362,th-TH,play,play_radio,ช่อง วิทยุ,qa_factoid,0.8926,0.0028,False
+9363,th-TH,play,play_radio,เล่น เพลง ฮิต บน วิทยุ,play_music,1.0,0.0,False
+9364,th-TH,play,play_radio,เปิด สถานี เพลงฮิต,play_music,0.8949,0.0048,False
+9380,th-TH,play,play_radio,อยากให้เปิดสถานี ร้อยหกจุดห้า บนวิทยุให้หน่อย,iot_hue_lightoff,0.4221,0.0033,False
+9384,th-TH,play,play_radio,เล่น วิทยุกรีนเวฟ,play_radio,0.7061,0.7061,True
+9394,th-TH,play,play_radio,hey olly เล่น วิทยุ,play_music,0.8986,0.0622,False
+9402,th-TH,play,play_radio,เปิด สถานี กรีนเวฟ,iot_hue_lightoff,0.1135,0.041,False
+9406,th-TH,play,play_radio,เริ่ม ช่องวิทยุ sirius xm,play_podcasts,0.4222,0.0091,False
+9408,th-TH,play,play_radio,เริ่มเล่น วิทยุ,play_radio,0.9532,0.9532,True
+9426,th-TH,play,play_radio,ฉันอยากฟัง สถานีที่เล่นเพลงอาร์แอนด์บี,play_music,0.9972,0.0001,False
+9438,th-TH,play,play_radio,ช่วยเปิด วิทยุ เพลง แร็พ ได้มั๊ย,play_music,0.5052,0.0488,False
+9457,th-TH,play,play_music,เปิด เพลง อกหัก,play_music,0.9958,0.9958,True
+9460,th-TH,play,play_music,เล่น ฮิปฮอปยุคเก้าศูนย์,play_music,0.9977,0.9977,True
+9471,th-TH,play,play_radio,เปิด สถานีดนตรี ลูกทุ่ง,play_music,0.7152,0.0222,False
+9494,th-TH,play,play_radio,คุณช่วยกรุณาเล่น สถานี เอฟ. เอ็ม. ที่เล่น เพลง ป๊อป ได้ไหม,play_music,0.9709,0.0145,False
+9506,th-TH,play,play_radio,olly มาฟัง กรีนเวฟ ร้อยหกจุดห้า กันเถอะ,play_music,0.6085,0.0038,False
+9507,th-TH,play,play_radio,สถานีวิทยุ อัมรินทร์ทีวี เพลงบินใบงิ้ว,play_music,0.2507,0.0379,False
+9519,th-TH,play,play_radio,เล่นเพลง ป๊อป เพลงไหนก็ได้ ที่ ช่อง เอฟเอม,play_music,0.9999,0.0,False
+9520,th-TH,play,play_radio,เล่นหมอคนสุดท้ายที่ วิทยุกระจายเสียง,play_music,0.4183,0.0682,False
+9524,th-TH,play,play_radio,เปิด โปรแกรม บน กรีนเวฟ ร้อยหกจุดห้า,iot_hue_lightoff,0.1964,0.045,False
+9528,th-TH,play,play_radio,เปิด กรีนเวฟ และเล่นออกทาง ลำโพง,play_music,0.9963,0.0032,False
+9541,th-TH,play,play_radio,เล่น เพลง หวาน บน วิทยุ,play_music,0.9999,0.0,False
+9542,th-TH,play,play_radio,ขอฟังข่าวล่าสุดบน วิทยุ หน่อย,play_podcasts,0.9388,0.0001,False
+9545,th-TH,play,play_radio,ฉันอยากได้ยิน โชว์ ของ พุฒิชัย เกษตรสิน,play_podcasts,0.9622,0.0002,False
+9554,th-TH,play,play_radio,เล่น ดนตรี โรแมนติก ใน กรีนเวฟ ร้อยหกจุดห้า,play_music,1.0,0.0,False
+9561,th-TH,play,play_radio,เล่น สถานีวิทยุกรีนเวฟ ในวิทยุ,play_music,0.8661,0.0833,False
+9562,th-TH,play,play_radio,คุณช่วยกรุณาเล่น โปรแกรมนี้ ให้ฉันได้ไหม,cooking_recipe,0.9563,0.0321,False
+9565,th-TH,play,play_radio,เล่น วิทยุ ด้วย เพลง ที่ ไม่มีหยุด,play_music,0.9966,0.0011,False
+9568,th-TH,play,play_radio,เล่น วี วิโอเลต ชุด คอนเสิร์ตแสดงสด,play_music,0.8737,0.014,False
+9569,th-TH,play,play_radio,ok google เล่น กรีนเวฟ ร้อยหกจุดห้า,iot_hue_lightoff,0.4568,0.0011,False
+9577,th-TH,play,play_radio,เปลี่ยนสถานีไปเป็น แปดสิบสองจุดสี่,qa_factoid,0.9506,0.0003,False
+9591,th-TH,play,play_radio,เล่นโปรแกรม bhuli bisri yaadien ใน เก้าสิบเอ็ดจุดสาม เอฟ. เอ็ม.,iot_hue_lightoff,0.9959,0.0001,False
+9592,th-TH,play,play_podcasts,ค้นหา พอดแคสต์ ครอบคลุม ปัญหาของผู้ชาย,recommendation_events,0.8463,0.003,False
+9594,th-TH,play,play_radio,เพลง จาก กรีนเวฟ ร้อยหกจุดห้า เอฟ. เอ็ม.,play_music,0.9326,0.0023,False
+9601,th-TH,play,play_radio,เล่น วิทยุเพลงลูกทุ่ง,play_radio,0.8051,0.8051,True
+9617,th-TH,play,play_radio,เล่นโชว์เมื่อเช้านี้ จาก ร้อยหนึ่งจุดเก้า ให้ฉัน,play_music,0.4896,0.1681,False
+9619,th-TH,play,play_radio,เล่น prairie home companion บน วิทยุในรถ,play_music,0.5098,0.2782,False
+9620,th-TH,play,play_radio,ฉันขอ พิง ทาง วิทยุ ใน ห้องนอน ได้ไหม,iot_hue_lightoff,0.6973,0.0026,False
+9629,th-TH,play,play_radio,คุณกรุณาช่วยฉันในการฟัง วิทยุ ได้ไหม,play_podcasts,0.9841,0.0045,False
+9630,th-TH,play,play_radio,เล่น วิทยุกรีนเวฟ ให้ฉัน,play_music,0.9026,0.0935,False
+9632,th-TH,play,play_radio,วิทยุ ได้โปรด,qa_factoid,0.9997,0.0,False
+9637,th-TH,play,play_radio,เริ่มเพลย์ลิสต์ของฉันบน กรีนเวฟ,social_post,0.6182,0.0084,False
+9640,th-TH,play,play_radio,เปิด spotify และเปิดออกกำลังกาย,play_music,0.9641,0.001,False
+9651,th-TH,play,play_radio,เล่น netflix บนเครื่อง พี. เอส. สี่ ของฉัน,play_podcasts,0.872,0.0095,False
+9656,th-TH,play,play_music,เล่น เพลง ที่สดใสร่าเริง ให้ฉัน ผ่าน ลำโพง ของคุณ,play_music,1.0,1.0,True
+9706,th-TH,play,play_music,เล่น จิงเกิลเบลส์,play_music,0.8899,0.8899,True
+9707,th-TH,play,play_music,เปิดมีเดียเล่น จิงเกิลเบลส์,qa_factoid,0.8837,0.0002,False
+9738,th-TH,play,play_music,ช่วยเปิด เพลง คลาสสิค ให้หน่อย,play_music,0.9992,0.9992,True
+9793,th-TH,play,play_music,เล่น เพลง รัก,play_music,0.9995,0.9995,True
+9795,th-TH,play,play_music,เล่นต่อ ฝนตกไหม,weather_query,0.9543,0.0239,False
+9912,th-TH,cooking,cooking_recipe,ออลลี่ ฉันควร ต้ม ไข่ นาน แค่ไหน,cooking_recipe,0.9994,0.9994,True
+9918,th-TH,cooking,cooking_recipe,ทำ พิซซ่า อย่างไร,cooking_recipe,0.9998,0.9998,True
+9923,th-TH,cooking,cooking_recipe,ฉันควร ต้ม ไข่ นานเท่าไร,cooking_recipe,0.9944,0.9944,True
+9924,th-TH,cooking,cooking_recipe,บอกฉันถึงสูตรอาหารของ,cooking_recipe,1.0,1.0,True
+9930,th-TH,cooking,cooking_recipe,ฉันควร ต้ม ไข่ นานแค่ไหน,cooking_recipe,0.9963,0.9963,True
+9931,th-TH,cooking,cooking_recipe,ออลลี่ฉันควร ต้ม ไข่ นานเท่าไร,cooking_recipe,0.9946,0.9946,True
+9940,th-TH,cooking,cooking_recipe,หา สูตร เค้กชอคโกแลต ให้ฉันที,cooking_recipe,0.7461,0.7461,True
+9941,th-TH,cooking,cooking_recipe,ฉันจะ ปรุง แกงไก่ใส่เนย อย่างไร,cooking_recipe,0.9989,0.9989,True
+9942,th-TH,cooking,cooking_recipe,อะไร ที่จะใส่ลงไป ใน เค้กเรดเวลเวต ทั้งหมด,lists_query,0.6349,0.023,False
+9943,th-TH,cooking,cooking_recipe,ใช้เวลาเท่าไหร่ในการทำ ลาซานญ่าผัก,cooking_recipe,0.984,0.984,True
+9952,th-TH,cooking,cooking_recipe,ขอ คู่มือ สอนทำอาหาร ให้ฉัน,cooking_recipe,1.0,1.0,True
+9955,th-TH,cooking,cooking_recipe,เเสดง วีดีโอ การทำ ไก่ทอด,cooking_recipe,1.0,1.0,True
+9956,th-TH,cooking,cooking_recipe,เนย,email_sendemail,0.794,0.0027,False
+9961,th-TH,cooking,cooking_recipe,การ อบ มันฝรั่ง อุณหภูมิ เตาอบ ที่ ดีที่สุด คือเท่าไร,qa_factoid,0.893,0.0021,False
+9962,th-TH,cooking,cooking_recipe,อะไร คือวิธี ที่ดีที่สุด สำหรับทำ พาสต้า อัล เดนเต้,cooking_recipe,0.9991,0.9991,True
+9964,th-TH,cooking,cooking_recipe,ความรู้เกี่ยวกับกระบวนการทำอาหาร,cooking_recipe,0.9998,0.9998,True
+9966,th-TH,cooking,cooking_recipe,วิธี ที่ง่ายที่สุด สำหรับทำ พาสต้า คือ อะไร,cooking_recipe,0.9987,0.9987,True
+9969,th-TH,cooking,cooking_recipe,วัตถุดิบอันไหนใช้แทน หญ้าฝรั่น ได้บ้าง,lists_query,0.836,0.1236,False
+9971,th-TH,cooking,cooking_recipe,อะไรสามารถนำความร้อนได้ดีกว่ากัน ระหว่างหม้อก้นทองแดงกับเหล็กหล่อ,cooking_recipe,0.9985,0.9985,True
+9976,th-TH,cooking,cooking_recipe,ขอ รายการ ส่วนผสม ส้มตำ,cooking_recipe,0.921,0.921,True
+9977,th-TH,cooking,cooking_recipe,ค้นหา วิดีโอยูทูบ สำหรับทำอาหาร อิตาเลียน,cooking_recipe,0.999,0.999,True
+9979,th-TH,cooking,cooking_recipe,ทำ ข้าวโอ๊ต ให้ฉัน หน่อย,cooking_recipe,0.9982,0.9982,True
+9980,th-TH,cooking,cooking_recipe,เมนู วันนี้ เพิ่ม ผักต้ม,cooking_recipe,0.9993,0.9993,True
+9986,th-TH,cooking,cooking_recipe,การต้ม,cooking_recipe,0.938,0.938,True
+9994,th-TH,cooking,cooking_recipe,ส้มตำ,cooking_recipe,0.9987,0.9987,True
+10016,th-TH,cooking,cooking_recipe,ไก่งวงวันขอบคุณพระเจ้า,email_sendemail,1.0,0.0,False
+10019,th-TH,cooking,cooking_recipe,วิธีทำ คุ้กกี้ข้าวโอ้ต,cooking_recipe,1.0,1.0,True
+10023,th-TH,cooking,cooking_recipe,แกงเเกะ ทำยังไง,cooking_recipe,0.9999,0.9999,True
+10027,th-TH,cooking,cooking_recipe,คำแนะนำในการทำอาหาร,cooking_recipe,1.0,1.0,True
+10031,th-TH,cooking,cooking_recipe,สูตรอาหาร จากวัตถุดิบใน รายการ ซื้อของ ของฉัน,cooking_recipe,1.0,1.0,True
+10038,th-TH,cooking,cooking_recipe,ฉันต้องการไอเดียดีดีสำหรับทำอาหาร,cooking_recipe,0.9994,0.9994,True
+10045,th-TH,cooking,cooking_recipe,ก๋วยเตี๋ยวไก่,cooking_recipe,0.9999,0.9999,True
+10048,th-TH,cooking,cooking_recipe,วิธีทำ ไก่งวง,cooking_recipe,0.9998,0.9998,True
+10049,th-TH,cooking,cooking_recipe,โพบอยแซนวิช,social_post,0.8416,0.0043,False
+10053,th-TH,cooking,cooking_recipe,วิธี ทำ พิซซ่า,cooking_recipe,0.9996,0.9996,True
+10055,th-TH,cooking,cooking_recipe,สูตรทำ ไก่ทอด,cooking_recipe,1.0,1.0,True
+10061,th-TH,cooking,cooking_recipe,ฉันทำอะไรสำหรับ มื้อดึก ดี,cooking_recipe,0.994,0.994,True
+10072,th-TH,cooking,cooking_recipe,อบไก่ กี่นาที,cooking_recipe,0.996,0.996,True
+10076,th-TH,cooking,cooking_recipe,อะไร ทดเเทน เบกกิ้งโซดาสำหรับผงฟู,cooking_recipe,0.959,0.959,True
+10077,th-TH,cooking,cooking_recipe,ค้นหา สูตรอาหาร สำหรับ มื้อค่ำ คืนนี้,cooking_recipe,0.9999,0.9999,True
+10078,th-TH,cooking,cooking_recipe,อาหารเย็นทำ อะไร ดี,cooking_recipe,0.9997,0.9997,True
+10080,th-TH,cooking,cooking_recipe,มาทำ ลูกชิ้น ด้วยกัน,cooking_recipe,0.9999,0.9999,True
+10081,th-TH,cooking,cooking_recipe,ทำมีทบอล,cooking_recipe,0.9993,0.9993,True
+10090,th-TH,cooking,cooking_recipe,ขอ สูตร ทำ ทูน่า หน่อยได้ไหม,cooking_recipe,1.0,1.0,True
+10093,th-TH,cooking,cooking_recipe,ลาซานญ่า ทำยังไง,cooking_recipe,0.9996,0.9996,True
+10097,th-TH,cooking,cooking_recipe,ฉันต้องการ ชีสเบอร์เกอร์,qa_factoid,0.6247,0.0531,False
+10099,th-TH,cooking,cooking_recipe,วิธีทำไก่ย่าง,cooking_recipe,1.0,1.0,True
+10100,th-TH,cooking,cooking_recipe,คุณรู้ สูตร ทำ ริซอตโต้ ไหม,cooking_recipe,1.0,1.0,True
+10105,th-TH,cooking,cooking_recipe,สเต๊ก,qa_factoid,0.8821,0.0003,False
+10107,th-TH,cooking,cooking_recipe,สูตร ไก่ย่าง,cooking_recipe,0.9995,0.9995,True
+10119,th-TH,cooking,cooking_recipe,คุณใช้เวลาปรุง ไก่งวง หนักสิบห้าปอนด์ เป็นเวลาเท่าไหร่,cooking_recipe,0.9143,0.9143,True
+10125,th-TH,cooking,cooking_recipe,อะไรคือข้อแตกต่างระหว่างอบกับย่าง,cooking_recipe,0.7611,0.7611,True
+10132,th-TH,cooking,cooking_recipe,ฉันควรใช้เวลาเท่าไรทำ สเต๊ก เเบบมีเดียม,qa_factoid,0.9914,0.0006,False
+10150,th-TH,cooking,cooking_recipe,ทาโก้,qa_factoid,0.6253,0.0306,False
+10156,th-TH,cooking,cooking_recipe,ฉันต้องการรู้วิธีทำ พริกหยวกยัดไส้,cooking_recipe,1.0,1.0,True
+10164,th-TH,cooking,cooking_recipe,ฉันใช้เวลาทำมักกะโรนีนานแค่ไหน,cooking_recipe,0.9441,0.9441,True
+10166,th-TH,cooking,cooking_recipe,สูตรทำพายแอปเปิ้ล,cooking_recipe,0.9998,0.9998,True
+10171,th-TH,cooking,cooking_recipe,ซุปปลา สูตรไหนดี,cooking_recipe,0.9967,0.9967,True
+10177,th-TH,cooking,cooking_recipe,วิธีทำ สปาเก็ตตี้สควอช ได้อย่างไร,cooking_recipe,0.9981,0.9981,True
+10182,th-TH,cooking,cooking_recipe,ไข่ กี่ฟองสำหรับ ไข่เจียว,cooking_recipe,0.6732,0.6732,True
+10197,th-TH,cooking,cooking_recipe,ขอดูสูตร สปาเก็ตตี้ ดี ดี,cooking_recipe,0.6219,0.6219,True
+10206,th-TH,cooking,cooking_recipe,วิธีเตรียม ข้าว,cooking_recipe,0.9988,0.9988,True
+10213,th-TH,cooking,cooking_recipe,แสดงรายการ สูตร ข้าวหมก ชื่อดัง,recommendation_events,0.5745,0.4228,False
+10214,th-TH,cooking,cooking_recipe,สูตรอาหารที่สามารถทำได้ภายในหนึ่งชั่วโมง,cooking_recipe,0.9999,0.9999,True
+10216,th-TH,cooking,cooking_recipe,ค้นหาเว็บเพื่อซื้ออุปกรณ์ทำขนมสำหรับมัฟฟิน,cooking_recipe,0.9907,0.9907,True
+10217,th-TH,cooking,cooking_recipe,ค้นหา สูตรอาหาร สำหรับ ส้มตำ ใน แอปพลิเคชั่น cookingforu,cooking_recipe,1.0,1.0,True
+10220,th-TH,cooking,cooking_recipe,ส่วนผสม จำเป็น อบ เค้ก ใหญ่,qa_factoid,0.1651,0.0597,False
+10224,th-TH,cooking,cooking_recipe,ต้องชิม,cooking_recipe,0.7867,0.7867,True
+10226,th-TH,cooking,cooking_recipe,สูตรทำ พาสต้า,cooking_recipe,1.0,1.0,True
+10426,th-TH,lists,lists_query,ยังขาดอะไรอีกในไดอารี่,lists_remove,0.898,0.0021,False
+10427,th-TH,lists,lists_remove,กรุณาทำความสะอาด รายการ ซื้อของ ของฉัน,lists_remove,0.7484,0.7484,True
+10430,th-TH,lists,lists_remove,ลบไอเทม แรก ใน รายการ,lists_remove,0.6921,0.6921,True
+10433,th-TH,lists,lists_remove,ลบ รายการ งาน ของฉัน,calendar_remove,0.914,0.0319,False
+10440,th-TH,lists,lists_query,มี โอกาสพิเศษ ไหน ใน รายการ ของฉัน,recommendation_events,0.9994,0.0,False
+10442,th-TH,lists,lists_remove,ลบอีเว้นท์จากรายการของฉัน,email_sendemail,0.9422,0.0049,False
+10444,th-TH,lists,lists_remove,ลบรายการ,calendar_remove,0.7475,0.1426,False
+10451,th-TH,lists,lists_query,อะไรที่ฉันจะทำ วันนี้,cooking_recipe,0.9558,0.0023,False
+10455,th-TH,lists,lists_query,อะไรอยู่ใน รายการ สิ่งที่จะทำ ของฉัน,recommendation_events,0.5577,0.1476,False
+10462,th-TH,lists,lists_remove,ทิ้ง รายการ นี้,lists_remove,0.6302,0.6302,True
+10493,th-TH,lists,lists_query,อะไรอยู่ใน รายการ สิ่งที่จะทำ ของฉัน,recommendation_events,0.5577,0.1476,False
+10494,th-TH,lists,lists_remove,ลบ ดินสอ จาก เครื่องเขียน,iot_hue_lightoff,0.5881,0.0437,False
+10497,th-TH,qa,qa_factoid,ขอรายการของ โรงแรมห้าดาว ใน ปารีส ให้ฉันได้มั้ย,recommendation_events,0.5553,0.1246,False
+10508,th-TH,lists,lists_remove,ลบ รายการ ไอเทม,calendar_remove,0.5784,0.1044,False
+10512,th-TH,lists,lists_query,ลงรายการทุกอย่างที่เหลือในการสอบถามของฉัน,lists_remove,0.9797,0.0027,False
+10523,th-TH,lists,lists_remove,ลบรายการเพลง สุนทราภรณ์ ของฉันจากเพลย์ลิสต์,lists_remove,0.9478,0.9478,True
+10525,th-TH,lists,lists_remove,ลบค่ารถ ของฉัน จากปฏิทิน ของฉัน,qa_factoid,0.999,0.0001,False
+10527,th-TH,lists,lists_remove,ลบ รายการ,qa_factoid,0.931,0.0086,False
+10534,th-TH,lists,lists_query,รายการ ที่ต้องทำ วันนี้ เป็นอย่างไร,cooking_recipe,0.4951,0.088,False
+10538,th-TH,lists,lists_query,กรุณาทำ รายการ ซื้อของ ของฉัน ซ้ำ,qa_factoid,0.6773,0.0096,False
+10565,th-TH,lists,lists_remove,ลบ รายการ ทั้งหมด,lists_remove,0.4227,0.4227,True
+10568,th-TH,lists,lists_remove,ลบรายการ เพลงเก่า,lists_remove,0.5478,0.5478,True
+10570,th-TH,lists,lists_query,ตรวจ รายการ สิ่งที่จะทำ ของฉัน,recommendation_events,0.653,0.0517,False
+10571,th-TH,lists,lists_query,android,iot_hue_lightoff,0.2324,0.0685,False
+10577,th-TH,lists,lists_query,เอา รายการ ทั้งหมด ของฉัน ให้ฉัน,lists_remove,0.954,0.0019,False
+10579,th-TH,lists,lists_remove,ตั้งรายการ สถานที่ ของฉันใหม่,lists_remove,0.3803,0.3803,True
+10588,th-TH,lists,lists_query,แสดง เนื้อหา ของ รายการ ให้ฉันดู,play_podcasts,0.1222,0.0896,False
+10590,th-TH,lists,lists_remove,ลบแถวที่ สอง ออกจาก รายการ,calendar_remove,0.511,0.1284,False
+10655,th-TH,lists,lists_remove,ลบ รายการ ที่เรียกว่า เวลาสังสรรค์,calendar_remove,0.8223,0.0925,False
+10667,th-TH,lists,lists_query,สาธยาย นัดหมาย ของ รายการ,email_sendemail,0.9928,0.0001,False
+10673,th-TH,lists,lists_remove,กรุณาลบ รายการ ต่อไปนี้,qa_factoid,0.9965,0.0005,False
+10674,th-TH,lists,lists_remove,ทิ้ง รายการ ปัจจุบัน,lists_remove,0.997,0.997,True
+10679,th-TH,lists,lists_query,อะไรอยู่ในรายการ สิ่งที่จะทำ วันนี้ ของฉัน,lists_query,0.9129,0.9129,True
+10684,th-TH,lists,lists_query,ฉัน สอบถาม รายการ อะไรไป,recommendation_events,0.6013,0.0952,False
+10687,th-TH,lists,lists_remove,ถ้ามีงานแสดง ให้ลบ มัน,calendar_remove,0.7547,0.0554,False
+10696,th-TH,lists,lists_remove,แทนที่,qa_factoid,1.0,0.0,False
+10699,th-TH,lists,lists_query,บอกฉันเกี่ยวกับไอเทมใน รายการ,recommendation_events,0.9963,0.0001,False
+10718,th-TH,lists,lists_remove,ช่วยลบไอเทม นี้ ออกจาก รายการ ได้ไหม,calendar_remove,0.3778,0.351,False
+10731,th-TH,lists,lists_query,อ่านว่ามีอะไรอยู่ใน รายการ ของฉัน,recommendation_events,0.9404,0.0295,False
+10743,th-TH,lists,lists_remove,ลบไอเทม นั้น,lists_remove,0.3375,0.3375,True
+10753,th-TH,lists,lists_query,ฉันใส่อะไรลงไปใน รายการเซ็นทรัล แล้วบ้าง,recommendation_events,0.5343,0.0159,False
+10755,th-TH,lists,lists_remove,กรุณาโยน รายการ สิ่งที่จะทำ ของฉัน ทิ้ง,lists_remove,0.5062,0.5062,True
+10756,th-TH,lists,lists_remove,ล้าง รายการ ซื้อของ,lists_remove,0.957,0.957,True
+10757,th-TH,lists,lists_query,ไอเทมอะไรอยู่ใน รายการ ซื้อของ ของฉัน,lists_query,0.5178,0.5178,True
+10759,th-TH,lists,lists_query,อ่านรายการ ซื้อของ ของฉันให้ฉันฟัง,recommendation_events,0.322,0.0256,False
+10760,th-TH,lists,lists_query,บอกรายการที่ฉันเขียนเมื่อ สองวัน ที่แล้วอันนั้นกับฉัน,email_sendemail,1.0,0.0,False
+10770,th-TH,lists,lists_remove,ลบ ซีเรียล ออกจาก รายการ ซื้อของ ของฉัน,qa_factoid,0.4976,0.1225,False
+10772,th-TH,calendar,calendar_remove,ลบ นัดหมอฟัน จาก ตาราง วันนี้,iot_hue_lightoff,0.3855,0.2983,False
+10776,th-TH,lists,lists_query,ฉัน มี รายการ ของชำ พร้อมหรือไม่,qa_factoid,0.9226,0.001,False
+10786,th-TH,lists,lists_remove,เคลียร์รายการ กิจกรรม ของฉันสำหรับ วันนี้,lists_remove,0.4347,0.4347,True
+10790,th-TH,lists,lists_remove,ลบไอเทมจาก รายการ,lists_remove,0.5765,0.5765,True
+10804,th-TH,lists,lists_query,อ่านรายการ ของชำ ของฉัน,recommendation_events,0.3453,0.0441,False
+10805,th-TH,lists,lists_query,ช่วย แสดง รายการ ที่ ฉัน มี ให้ดูหน่อย,play_podcasts,0.5213,0.0103,False
+10808,th-TH,lists,lists_remove,ลบไอเทม สุดท้าย ที่ทำรายการไว้,lists_remove,0.5222,0.5222,True
+10824,th-TH,lists,lists_remove,olly เคลียร์ รายการ,email_query,0.9247,0.0014,False
+10825,th-TH,lists,lists_remove,ล้าง รายการ,lists_remove,0.6081,0.6081,True
+10827,th-TH,lists,lists_remove,ลบ รายการ สำหรับ ของชำ,lists_remove,0.6397,0.6397,True
+10828,th-TH,lists,lists_remove,ลบ ทั้งหมด,lists_remove,0.4646,0.4646,True
+10832,th-TH,calendar,calendar_query,olly ฉันมีแผนทำอะไรต่อไป,cooking_recipe,0.9907,0.0003,False
+10843,th-TH,lists,lists_remove,ลบ นม จาก รายการ ของชำ ของฉัน,calendar_remove,0.5079,0.4213,False
+10846,th-TH,lists,lists_remove,ฉันไม่มีเงินพอที่จะซื้อ nintendo switch ในตอนนี้ ช่วยกรุณาลบมันออกจาก amazon wishlist ของฉัน,lists_remove,0.5666,0.5666,True
+10848,th-TH,lists,lists_remove,ลบ รายการ นี้ จากอันอื่น,calendar_remove,0.766,0.1701,False
+10851,th-TH,lists,lists_query,รายการ ที่มีอยู่ ของฉัน มีอะไรบ้าง,lists_query,0.9754,0.9754,True
+10853,th-TH,lists,lists_remove,เอา นั่น ออกจาก ตรงนั้น,lists_remove,0.5582,0.5582,True
+10855,th-TH,lists,lists_query,ต้องการตรวจสอบ รายการ ของฉัน,recommendation_events,0.9545,0.0085,False
+10868,th-TH,lists,lists_query,olly มี สิ่งไหน ใน รายการ เหลืออยู่ไหม,lists_remove,1.0,0.0,False
+10887,th-TH,lists,lists_remove,ลบ รายการ ของฉัน,calendar_remove,0.8214,0.0562,False
+10895,th-TH,lists,lists_remove,ลบไอเทมจาก รายการ ของฉัน,lists_remove,0.6985,0.6985,True
+10909,th-TH,lists,lists_query,olly อ่านรายการของฉันให้ฉันฟัง,play_music,0.9964,0.0,False
+10927,th-TH,lists,lists_query,ให้ฉันฟัง รายการ ของฉัน,play_radio,0.4743,0.0016,False
+10931,th-TH,lists,lists_query,มีอะไรใน เพลย์ลิสต์ ของฉัน,email_query,0.3651,0.1392,False
+10936,th-TH,lists,lists_remove,กรุณาลบรายการ อัลบั้มโปรด ของฉัน,play_music,0.3983,0.0818,False
+10954,th-TH,lists,lists_query,ฉัน มีกี่ รายการ ใน รายชื่อติดต่อ,email_query,0.4575,0.2033,False
+10956,th-TH,lists,lists_query,กลุ่มใดบ้างที่อยู่ใน รายชื่อติดต่อ ของฉัน,lists_query,0.8948,0.8948,True
+10957,th-TH,lists,lists_query,เตือน ฉันว่า ฉัน มีกี่รายการ,lists_remove,0.4023,0.3008,False
+10960,th-TH,lists,lists_remove,ลบ อันนั้น จาก รายการ,qa_factoid,0.7324,0.0238,False
+10970,th-TH,lists,lists_remove,ลบประโยค ล่าสุด,calendar_remove,0.7145,0.0353,False
+10979,th-TH,lists,lists_query,อะไรอยู่ใน รายการ ของคุณตอนนี้,lists_query,0.5154,0.5154,True
+10981,th-TH,lists,lists_query,แจ้ง รายการ ให้ฉันรู้,email_sendemail,0.9952,0.0002,False
+10985,th-TH,lists,lists_remove,ลบ สิ่งที่จะทำ สำหรับ อาทิตย์นี้ ของฉัน,calendar_remove,0.8266,0.0658,False
+10990,th-TH,lists,lists_remove,ในรายการ ที่ต้องทำ ของฉัน ลบถูกพื้นห้องครัวออก,cooking_recipe,0.935,0.0141,False
+10999,th-TH,lists,lists_query,พูด รายการ,lists_query,0.4457,0.4457,True
+11023,th-TH,lists,lists_remove,ลบ รายการ ซื้อของ,lists_remove,0.4494,0.4494,True
+11024,th-TH,lists,lists_remove,ลบ รายการ สิ่งที่จะทำ,calendar_remove,0.4127,0.0851,False
+11053,th-TH,lists,lists_remove,กำจัด รายการ google,lists_remove,0.82,0.82,True
+11075,th-TH,lists,lists_query,ฉัน มี กี่ รายการ,qa_factoid,0.7856,0.0375,False
+11081,th-TH,lists,lists_query,รายการ อะไรอยู่ในสมุดบันทึก ของฉัน,lists_query,0.8883,0.8883,True
+11085,th-TH,lists,lists_remove,เอา นม ออกจาก รายการ ซื้อของ,lists_remove,0.9559,0.9559,True
+11098,th-TH,lists,lists_remove,กำจัด รายการ ภาษี จาก หนึ่งเก้าเก้าศูนย์,lists_remove,0.3006,0.3006,True
+11107,th-TH,lists,lists_query,อะไรคือ รายการ ปัจจุบัน ของฉัน,email_query,0.4037,0.2221,False
+11124,th-TH,lists,lists_query,แสดงรายการใน รายการ งาน ของฉัน,lists_query,0.5763,0.5763,True
+11125,th-TH,lists,lists_query,เอารายละเอียด คำสั่ง ซื้อมาให้ฉัน,email_sendemail,0.1874,0.0386,False
+11133,th-TH,lists,lists_remove,ลบ รายการ แขก ที่ฉันสร้างไว้ อาทิตย์ที่แล้ว,calendar_remove,0.8484,0.0601,False
+11154,th-TH,lists,lists_query,ตรวจรายการ สิ่งที่ต้องทำ ล่าสุด,lists_query,0.8442,0.8442,True
+11162,th-TH,lists,lists_remove,ฉันต้องการลบ แอปเปิ้ล จาก รายการ,calendar_remove,0.8391,0.0586,False
+11164,th-TH,lists,lists_remove,ไปไกลจาก รายการ,qa_factoid,0.2723,0.1401,False
+11166,th-TH,lists,lists_query,เปิด google keep,qa_factoid,0.7482,0.0035,False
+11168,th-TH,lists,lists_remove,ทิ้ง รายการ ของฉัน,lists_remove,0.9855,0.9855,True
+11172,th-TH,lists,lists_query,เอา รายการ ทั้งหมด ที่มีอยู่ ให้ฉัน,lists_remove,0.9895,0.001,False
+11174,th-TH,lists,lists_query,ทำรายการของรายการทั้งหมดในเครื่องนี้,lists_remove,0.7343,0.0255,False
+11180,th-TH,calendar,calendar_query,แผน งานเลี้ยง ของฉัน,cooking_recipe,0.8265,0.004,False
+11186,th-TH,lists,lists_query,ฉันมีรายการ เสื้อผ้า,lists_remove,0.8734,0.0328,False
+11189,th-TH,lists,lists_query,หา รายการ,recommendation_events,0.9448,0.0075,False
+11204,th-TH,lists,lists_query,ข้อมูลบ้านที่สำคัญ,email_query,0.3464,0.2256,False
+11215,th-TH,lists,lists_query,รายการ,lists_query,0.8898,0.8898,True
+11250,th-TH,lists,lists_query,อ่านรายการ ของชำ ของฉันกลับมาให้ฉันฟัง,social_post,0.3635,0.0214,False
+11257,th-TH,play,play_podcasts,olly เล่นเพลงถัดไป,play_music,0.9999,0.0,False
+11259,th-TH,play,play_podcasts,ข้าม ไป พอดเเคสต์ถัดไป,qa_factoid,0.5159,0.0118,False
+11261,th-TH,play,play_podcasts,ถัดไป,qa_factoid,0.8988,0.0022,False
+11265,th-TH,play,play_podcasts,เล่นเพลงถัดไป,play_music,0.9999,0.0,False
+11266,th-TH,play,play_podcasts,เปิดพอดคาสต์จาก ห้องสมุดของฉัน,play_podcasts,0.504,0.504,True
+11267,th-TH,play,play_podcasts,หาพอดแคสต์ที่น่าสนใจเกี่ยวกับ ข่าว ล่าสุด,news_query,0.7972,0.0237,False
+11270,th-TH,play,play_podcasts,เล่น พอดเเคสต์ถัดไป,play_music,0.6379,0.0026,False
+11272,th-TH,play,play_podcasts,เล่นตอนต่อไป,play_radio,0.5678,0.0124,False
+11279,th-TH,play,play_podcasts,ไปที่ พอดเเคสต์ ความสุขโดยสังเกต เเละเล่น ตอนต่อไป,social_post,0.8577,0.0023,False
+11286,th-TH,play,play_podcasts,เล่น คำนี้ดี พอดแคสต์,email_sendemail,0.5389,0.0024,False
+11296,th-TH,play,play_podcasts,โหลด พอดแคสต์ ทั้งหมด ของฉัน,play_podcasts,0.2531,0.2531,True
+11302,th-TH,play,play_podcasts,เล่น พอดแคสต์ ความสุขโดยสังเกต,play_radio,0.5317,0.024,False
+11303,th-TH,play,play_podcasts,เล่นตอนต่อไปขอ คำนี้ดี พอดคาสต์,play_music,0.3289,0.0254,False
+11306,th-TH,play,play_podcasts,เล่นพอดแคสต์ ที่ ฉัน ฟังเมื่อวาน,play_music,0.993,0.0014,False
+11318,th-TH,play,play_podcasts,เล่นพอดคาสต์ ตอนถัดไป ให้หน่อย,play_music,0.375,0.0131,False
+11322,th-TH,play,play_podcasts,พอดคาสต์ที่ได้รับความนิยมที่สุดของ วันนี้ คืออะไร,recommendation_events,0.4924,0.0016,False
+11328,th-TH,play,play_podcasts,เล่นพอดคาสต์ ความสุขโดยสังเกต,play_music,0.9433,0.0028,False
+11331,th-TH,play,play_podcasts,ให้ฉันดูพอดเเคสต์ เพลงร็อคที่มีเรตติงดี,play_music,0.9917,0.008,False
+11335,th-TH,play,play_music,เล่นเเละเล่นสลับ เพลงช้าทุกเพลง,play_music,0.9998,0.9998,True
+11339,th-TH,play,play_podcasts,เล่น พอดเเคสต์ ของชั้น ที่มี คนฟังมากที่สุด,qa_factoid,0.8788,0.0014,False
+11340,th-TH,play,play_podcasts,วี วิโอเลต มี พอดแคสต์ ใหม่ หรือไม่,qa_factoid,0.4354,0.0202,False
+11341,th-TH,play,play_podcasts,หา พอดแคสต์ ล่าสุด จาก จีเอ็มเอ็มแกรมมี่,recommendation_events,0.9478,0.0001,False
+11343,th-TH,play,play_podcasts,เลื่อนไป ตอนต่อไป ของ ความสุขโดยสังเกต,calendar_remove,0.8192,0.0055,False
+11345,th-TH,play,play_podcasts,เล่นพอดคาสต์ ตอนถัดไป,play_music,0.9637,0.0011,False
+11349,th-TH,play,play_podcasts,olly เปิด พอดเเคสต์ ที่ ฟังเมื่อคืน,social_post,0.3435,0.0229,False
+11353,th-TH,play,play_podcasts,แสดง พอดแคสต์,iot_hue_lightoff,0.4909,0.0995,False
+11361,th-TH,play,play_podcasts,เล่น พอดเเคสต์ เดอะโกสต์ เรดิโอ,play_music,0.9991,0.0001,False
+11366,th-TH,play,play_podcasts,ย้อนกลับไปยัง ตอนก่อนหน้า ของพอดเเคสต์,qa_factoid,0.1402,0.0454,False
+11368,th-TH,play,play_podcasts,เล่น พอดเเคสต์ ของ กรุณา บัวคำศรี,play_music,0.9935,0.0014,False
+11376,th-TH,play,play_podcasts,ฉันอยากฟัง พอดแคสต์,play_podcasts,0.4054,0.4054,True
+11384,th-TH,play,play_podcasts,ดาวน์โหลดพอดแคสต์จากอินเทอร์เน็ตและเล่นหนึ่งครั้ง,iot_hue_lightoff,0.8597,0.0037,False
+11409,th-TH,play,play_podcasts,ข้าม พอดเเคสต์ตอนถัดไป,qa_factoid,0.8828,0.0035,False
+11417,th-TH,play,play_podcasts,เริ่ม ตอนต่อไป,calendar_remove,0.4363,0.0194,False
+11418,th-TH,play,play_podcasts,เล่น พอดแคสต์ ล่าสุด ของ นิ้วกลม,play_music,0.9659,0.0008,False
+11420,th-TH,play,play_podcasts,เริ่มเล่น พอดแคสต์ ล่าสุด ของฉัน,play_music,0.9035,0.0036,False
+11423,th-TH,play,play_podcasts,ย้อนกลับไป สามสิบวิ,datetime_query,0.6366,0.0076,False
+11424,th-TH,play,play_podcasts,ร้อยหกจุดห้า เอฟ. เอ็ม.,iot_hue_lightoff,0.9648,0.0004,False
+11426,th-TH,lists,lists_query,รายการที่ดูมากที่สุด,lists_query,0.6171,0.6171,True
+11427,th-TH,play,play_podcasts,เริ่ม ความสุขโดยสังเกต,play_radio,0.3283,0.0537,False
+11437,th-TH,play,play_podcasts,กรุณาเล่น พอดแคสต์ ให้ฉัน,play_music,0.4362,0.0115,False
+11438,th-TH,play,play_podcasts,เลื่อนไป ตอนต่อไป ของพอดคาสต์,calendar_remove,0.8667,0.0016,False
+11442,th-TH,play,play_podcasts,เล่น พอดแคสต์ ล่าสุด ของ กรุณา บัวคำศรี,qa_factoid,0.9833,0.0049,False
+11451,th-TH,play,play_podcasts,อยากฟังพอดคาสต์ ความสุขโดยสังเกต,play_podcasts,0.4818,0.4818,True
+11453,th-TH,play,play_podcasts,podcasts บีบีซีเรดิโอ,play_podcasts,1.0,1.0,True
+11455,th-TH,play,play_podcasts,เลื่อน ไปที่ ส่วน ถัดไป,qa_factoid,0.8419,0.0018,False
+11458,th-TH,play,play_podcasts,เปลี่ยน ไปเล่น พอดคาสต์ตอนสุดท้าย,play_music,0.4419,0.0068,False
+11459,th-TH,play,play_podcasts,กลับไป ตอนสุดท้าย ของพอดเเคสต์,calendar_remove,0.3992,0.0141,False
+11460,th-TH,play,play_podcasts,พอดแคสต์กีฬา,qa_factoid,0.3912,0.0161,False
+11467,th-TH,play,play_podcasts,เล่น พอดเเคสต์ที่ฟังบ่อยที่สุด ของ เดอะโกสต์ เรดิโอ,play_music,0.9633,0.0279,False
+11470,th-TH,play,play_podcasts,เล่น พอดคาสต์ที่ชื่นชอบของฉัน,play_music,0.5643,0.013,False
+11474,th-TH,play,play_podcasts,เล่นพอดแคสต์ซีรีส์ ต่อ,play_music,0.4621,0.0438,False
+11476,th-TH,play,play_podcasts,เล่น พอดแคสต์ก่อนหน้า,play_radio,0.3254,0.0196,False
+11483,th-TH,play,play_podcasts,เริ่มเล่น ringcast,play_radio,0.3172,0.0683,False
+11490,th-TH,play,play_podcasts,เล่น พอดแคสต์รายการต่อไป,play_music,0.8673,0.006,False
+11502,th-TH,play,play_podcasts,ตอนถัดไป,qa_factoid,0.4833,0.0092,False
+11505,th-TH,play,play_podcasts,เล่นซ้ำ พอดแคสต์ ล่าสุด ของฉัน,play_music,0.6752,0.0198,False
+11514,th-TH,play,play_podcasts,olly เราฟัง พอดแคสต์ ตอบ ทั้งหมด ได้ไหม,play_music,0.9429,0.034,False
+11515,th-TH,play,play_podcasts,มาฟังพอดคาสต์ ความสุขโดยสังเกต กัน,play_podcasts,0.8993,0.8993,True
+11525,th-TH,play,play_podcasts,ฉันอยากเห็น ตอนต่อไป,qa_factoid,0.916,0.0011,False
+11529,th-TH,play,play_podcasts,เฮ้ เล่น พอดแคสต์ ที่ ชื่นชอบ ของฉัน จาก รายการ,recommendation_events,0.9967,0.0,False
+11536,th-TH,play,play_podcasts,เพิ่มพอดแคสต์โปรดไปยังเพลย์ลิสต์และ เริ่ม,iot_hue_lightoff,0.2025,0.0458,False
+11539,th-TH,play,play_podcasts,เริ่ม พอดแคสต์ ถัดไป,qa_factoid,0.9851,0.0004,False
+11546,th-TH,play,play_podcasts,เล่น ความสุขโดยสังเกต ต่อจากอาทิตย์ที่แล้ว,play_music,0.878,0.0009,False
+11554,th-TH,play,play_podcasts,เล่น พอดแคสต์ นี้,play_music,0.7867,0.002,False
+11563,th-TH,recommendation,recommendation_events,ฉันจะทำอะไรที่ บางปะกง ได้บ้าง,cooking_recipe,0.9995,0.0001,False
+11570,th-TH,recommendation,recommendation_events,เกิดอะไรขึ้นรอบ เมือง ของฉันบ้าง,social_post,0.8073,0.0021,False
+11582,th-TH,recommendation,recommendation_events,มีอะไรเกี่ยวกับ ดนตรีแจ๊ส เกิดขึ้น บ้าง แถว เชียงใหม่,social_post,0.2785,0.0128,False
+11585,th-TH,recommendation,recommendation_events,มี กิจกรรม ด้านวัฒนธรรม ใน เชียงใหม่ ไหม,email_query,0.3288,0.1295,False
+11598,th-TH,recommendation,recommendation_events,ขอดู งานแสดงสุนัข ที่จัดขึ้น แถวบ้าน ของฉัน หน่อย,social_post,0.7088,0.0122,False
+11600,th-TH,recommendation,recommendation_events,ภาพยนตร์ อะไร ที่ฉันสามารถดูได้ในโรงหนัง คืนนี้ ที่นี่ใน พัทยา,recommendation_events,0.2387,0.2387,True
+11610,th-TH,recommendation,recommendation_events,ขอ ลิสต์ งานแสดง ละครสัตว์ ในเมือง ตอนนี้,email_sendemail,0.7161,0.0091,False
+11612,th-TH,recommendation,recommendation_events,มี งานแสดงปืน อะไรใน หัวหิน,social_post,0.3414,0.0152,False
+11616,th-TH,recommendation,recommendation_events,คืนนี้ มีงานอีเว้นท์ที่ ตัวเมือง ไหม,iot_hue_lightoff,0.6679,0.0135,False
+11643,th-TH,recommendation,recommendation_events,งานอีเว้นท์ อะไรกำลังจะจัดขึ้น เร็วๆนี้,iot_hue_lightoff,0.6273,0.0338,False
+11644,th-TH,recommendation,recommendation_events,แสดง งานอีเว้นท์ ใน พัทยา กับฉัน,iot_hue_lightoff,0.9941,0.0001,False
+11650,th-TH,recommendation,recommendation_events,คนขับรถอายุน้อยและผู้ที่เพิ่งเริ่มขับรถมักจะเกิดอุบัติเหตุรถชนมากกว่าเพราะว่าพวกเขายังไม่ได้มีประสบการณ์ในการขับขี่อย่างปลอดภัย โดยตัวของพวกเขาเอง บทวิจัยได้แสดงว่า ประสบการณ์การขับรถเป็นปัจจัยหลักในการลดอุบัติเหตุบนท้องถนนและคนขับอายุน้อยจะขับขี่อย่างปลอดภัยที่สุดเมื่อมีผู้แนะนำขณะที่เรียนรู้ไปด้วย,lists_query,0.1189,0.0439,False
+11681,th-TH,recommendation,recommendation_events,แสดง มาราธอน ใกล้ๆ ฉัน,social_post,0.9249,0.0039,False
+11685,th-TH,recommendation,recommendation_events,ฉันจะดีใจถ้าคุณอัปเดต กิจกรรม ที่เกิดขึ้นในพื้นที่ของเรา,lists_remove,0.3257,0.0888,False
+11705,th-TH,recommendation,recommendation_events,ขอดู นิทรรศการจิตรกรรม ที่ บางแสน,recommendation_events,0.2471,0.2471,True
+11720,th-TH,recommendation,recommendation_events,ว่ายน้ำ,qa_factoid,0.999,0.0,False
+11767,th-TH,recommendation,recommendation_events,olly มีงานอีเว้นท์อะไร จัดที่ บุรีรัมย์ เสาร์อาทิตย์นี้ บ้าง,email_sendemail,0.4811,0.0439,False
+11770,th-TH,recommendation,recommendation_events,สุดสัปดาห์นี้ มีกิจกรรมอะไรที่ ทองหล่อ บ้างไหม,play_podcasts,0.2567,0.1492,False
+11782,th-TH,recommendation,recommendation_events,มีงานกิจกรรมพิเศษใกล้ฉันอะไรบ้าง สุดสัปดาห์นี้,play_podcasts,0.2674,0.1336,False
+11798,th-TH,recommendation,recommendation_events,งานอีเว้นท์ ถัดไป ที่ ห้องสมุด คืออะไร,iot_hue_lightoff,0.1395,0.0512,False
+11827,th-TH,recommendation,recommendation_events,ฉันสามารถไปที่ไหนได้บ้าง คืนนี้,transport_query,0.4487,0.0087,False
+11839,th-TH,recommendation,recommendation_events,มีอะไรเกิดขี้นรอบฉัน,news_query,0.7903,0.0124,False
+11841,th-TH,recommendation,recommendation_events,มี งานแสดงสินค้า ที่กำลังจัดขึ้นแถวนี้ไหม,social_post,0.7552,0.0503,False
+11844,th-TH,recommendation,recommendation_events,มีอะไรที่น่าสนใจเกิดขึ้นแถว ย่านคลองเตย บ้าง,recommendation_events,0.995,0.995,True
+11845,th-TH,recommendation,recommendation_events,olly จับคู่ งานอีเวนต์ที่น่าสนใจ แถวสยาม,recommendation_events,0.2516,0.2516,True
+11860,th-TH,recommendation,recommendation_events,บอก ฉันเรื่อง งานอีเว้นท์ ในท้องถิ่น,email_sendemail,0.9923,0.0002,False
+11867,th-TH,recommendation,recommendation_events,มี งานกีฬา ใน นนทบุรี อะไรไหม พรุ่งนี้,cooking_recipe,0.5623,0.2305,False
+11875,th-TH,recommendation,recommendation_events,มี เทศกาลอาหาร ในพื้นที่บ้างไหม,qa_factoid,0.5142,0.0469,False
+11904,th-TH,recommendation,recommendation_events,สุดสัปดาห์นี้ ที่นี่ มีอะไรเกิดขึ้นบ้าง,news_query,0.9366,0.0022,False
+11905,th-TH,recommendation,recommendation_events,olly บอกฉันหน่อยเกี่ยวกับกิจกรรมในพื้นที่ของฉัน ช่วง สุดสัปดาห์นี้,email_sendemail,0.9993,0.0,False
+11911,th-TH,recommendation,recommendation_events,มีอะไรดีดี สุดสัปดาห์นี้ แถวนี้ไหม,lists_query,0.6528,0.0362,False
+11916,th-TH,recommendation,recommendation_events,แถวนี้มี สวนสนุก อะไรบ้าง,lists_query,0.2034,0.0383,False
+11969,th-TH,recommendation,recommendation_events,มีกิจกรรมพิเศษอะไรที่กำลังจัดแถวนี้ไหม,play_podcasts,0.4213,0.2384,False
+11999,th-TH,recommendation,recommendation_events,บอกกิจกรรมทั้งหมดสำหรับ วันนี้ ในเมืองของฉัน,social_post,0.6715,0.2084,False
+12008,th-TH,recommendation,recommendation_events,มีงานอะไรสนุกสนุก วันนี้ ที่ ลาดพร้าว บ้างไหม,cooking_recipe,0.7104,0.0274,False
+12054,th-TH,recommendation,recommendation_events,มีอะไร ในเมืองนี้ บ้าง,qa_definition,0.7375,0.0033,False
+12070,th-TH,recommendation,recommendation_events,ไอคอนสยาม เปิดเมื่อไหร่,weather_query,0.4143,0.0011,False
+12073,th-TH,recommendation,recommendation_events,อ้างถึง งานอิเวนต์ท้องถิ่นช่วงนี้,email_sendemail,0.2797,0.0764,False
+12098,th-TH,recommendation,recommendation_events,แสดง งานดนตรี ใกล้ฉัน,play_music,0.9968,0.0001,False
+12189,th-TH,transport,transport_query,ฉันจะไป สถานีรถไฟ เพื่อซื้อตั๋วได้ยังไง,transport_query,0.9787,0.9787,True
+12240,th-TH,transport,transport_query,การจราจร ทางไป บ้าน ของฉัน เป็นอย่างไรบ้าง ตอน ห้าโมง,transport_query,0.6605,0.6605,True
+12245,th-TH,transport,transport_query,รถไฟ กรุงเทพ ไป เชียงใหม่ ขบวนถัดไปออกเดินทางเมื่อไหร่,transport_query,0.5164,0.5164,True
+12251,th-TH,transport,transport_query,ขอดูตารางเวลา รถไฟ ไป หัวลำโพง,weather_query,0.4489,0.004,False
+12252,th-TH,transport,transport_query,รถไฟที่จะไป กรุงเทพ ออกเดินทางตอนไหนบ้าง,transport_query,0.996,0.996,True
+12261,th-TH,transport,transport_query,ตัวเลือก รถไฟ ไป เชียงใหม่ วันพุธ หรือ วันพฤหัส หน้า,transport_query,0.9674,0.9674,True
+12263,th-TH,transport,transport_query,เชียงใหม่,lists_query,0.1038,0.041,False
+12264,th-TH,transport,transport_query,เชียงใหม่,lists_query,0.1038,0.041,False
+12294,th-TH,transport,transport_query,ขอดูตาราง รถไฟ ไป โรงละครแห่งชาติ,play_podcasts,0.1921,0.0643,False
+12310,th-TH,transport,transport_query,ขอรายชื่อตั๋ว รถไฟ ที่มีขายจาก กรุงเทพ ไป เชียงใหม่,recommendation_events,0.9958,0.0002,False
+12343,th-TH,transport,transport_query,ตรวจดูเวลาเดินรถของ รถไฟ สายเหนือ จาก สถานีหลักสี่ ใน วันอังคาร,datetime_query,0.2944,0.0527,False
+12354,th-TH,transport,transport_query,ขอเวลาเดิน รถไฟ ให้ฉันที,calendar_remove,0.5166,0.0175,False
+12366,th-TH,transport,transport_query,มี รถไฟ ต่อ จาก กรุงเทพ ไป เชียงใหม่ หรือไม่ และมีตอนกี่โมง,transport_query,0.9819,0.9819,True
+12367,th-TH,transport,transport_query,วิธีเดินทางไป กรุงเทพ ที่ดีที่สุดคืออะไร,transport_query,0.9763,0.9763,True
+12376,th-TH,transport,transport_query,รถไฟใต้ดิน สายแรกใน ลำปาง คืออะไร,transport_query,0.9968,0.9968,True
+12392,th-TH,transport,transport_query,บอกเส้นทาง ของวันนี้,transport_query,0.8982,0.8982,True
+12402,th-TH,transport,transport_query,รถไฟ กรุงเทพ ที่นี่,transport_query,0.8549,0.8549,True
+12419,th-TH,transport,transport_query,เส้นทางที่เร็วที่สุดไป กรุงเทพ,transport_query,0.9875,0.9875,True
+12430,th-TH,transport,transport_query,รถไฟ จะมาถึง กรุงเทพ กี่โมง,transport_query,0.3864,0.3864,True
+12436,th-TH,transport,transport_query,ต้องใช้เวลานานแค่ไหนกว่าจะไปถึง สนามบิน,transport_query,0.8535,0.8535,True
+12437,th-TH,transport,transport_query,เวลาเดินทางไป โรงภาพยนตร์ กี่โมง,transport_query,0.4901,0.4901,True
+12446,th-TH,transport,transport_query,บอกเวล รถไฟ ไป เชียงใหม่,weather_query,0.9989,0.0001,False
+12473,th-TH,transport,transport_query,จาก ที่นี่ ฉันจะกลับ บ้าน ได้อย่างไร,transport_query,0.6096,0.6096,True
+12526,th-TH,transport,transport_query,อะไรคือวิธีที่เร็วที่สุดที่จะไปถึง สตาร์บัคส์,transport_query,0.9215,0.9215,True
+12532,th-TH,transport,transport_query,นำทางไปยังสถานที่,transport_query,0.9722,0.9722,True
+12581,th-TH,transport,transport_query,รถไฟวันนี้ กี่โมง,weather_query,0.957,0.0231,False
+12582,th-TH,transport,transport_query,รถไฟใต้ดิน เที่ยวแรก ตอนเช้า มาถึงกี่โมง,datetime_query,0.6958,0.2626,False
+12604,th-TH,transport,transport_query,ผม จะจองตั๋ว รถไฟ ออนไลน์ได้อย่างไร,recommendation_events,0.5451,0.0019,False
+12618,th-TH,transport,transport_query,รถไฟเชียงใหม่ แบบไปกลับ ราคาเท่าไหร่,qa_factoid,0.9829,0.0129,False
+12623,th-TH,transport,transport_query,มีเวลา รถไฟ ไป เมือง เชียงใหม่ มั้ย,datetime_query,0.9936,0.0019,False
+12629,th-TH,transport,transport_query,รถไฟ ขบวนแรก ออกเดินทางจาก กรุงเทพ เมื่อไหร่,datetime_query,0.9847,0.0112,False
+12634,th-TH,transport,transport_query,รถไฟ ไป เชียงใหม่ เที่ยว ถัดไป คือตอนกี่โมง,weather_query,0.9829,0.009,False
+12707,th-TH,transport,transport_query,ค้นหาการนำทาง,qa_factoid,0.9755,0.0026,False
+12759,th-TH,transport,transport_query,เวลาสำหรับ ขับรถ ไป กรุงเทพ,transport_query,0.6497,0.6497,True
+12797,th-TH,transport,transport_query,ตารางรถไฟจากที่ใกล้ฉันไปยัง ตำแหน่ง,transport_query,0.9143,0.9143,True
+12800,th-TH,transport,transport_query,ห้องสมุดสาธารณะ อยู่ที่ไหน,lists_remove,0.2646,0.0275,False
+12817,th-TH,transport,transport_query,ฉันจะไป ห้างสรรพสินค้า ได้อย่างไร,cooking_recipe,0.5639,0.1788,False
+12818,th-TH,transport,transport_query,ตั๋ว รถไฟ ไป กรุงเทพ ราคาเท่าไหร่,qa_factoid,0.9978,0.0004,False
+12824,th-TH,transport,transport_query,ลิสต์ตาราง รถไฟ ไป เชียงใหม่ มาทั้งหมด,lists_remove,0.7915,0.0032,False
+12835,th-TH,transport,transport_query,รถไฟ ออกกี่โมง,weather_query,0.8674,0.0006,False
+12839,th-TH,transport,transport_query,นำทางฉันไป ทองหล่อ,transport_query,0.3512,0.3512,True
+12851,th-TH,transport,transport_query,แสดง เส้นทาง กลับ บ้านของฉัน หน่อย,transport_query,0.821,0.821,True
+12856,th-TH,transport,transport_query,เส้นทางหน่อย,qa_factoid,0.4225,0.1506,False
+12866,th-TH,transport,transport_query,เวลาออก รถไฟอุตราวิถี,datetime_query,0.9318,0.0009,False
+12908,th-TH,transport,transport_query,รถไฟ มาถึง เชียงใหม่ กี่โมง,datetime_query,0.6749,0.2204,False
+12930,th-TH,transport,transport_query,ค้นหาแผนที่ไปยัง ร้านค้าใกล้ฉัน,recommendation_events,0.9646,0.0041,False
+12932,th-TH,transport,transport_query,ขอเส้นทางไป สาธร หน่อย,transport_query,0.9885,0.9885,True
+12951,th-TH,qa,qa_factoid,ตึกที่สูงที่สุดใน โลก คือตึกอะไร,qa_factoid,0.9056,0.9056,True
+12957,th-TH,qa,qa_definition,ขยายความ แปลว่าอะไร,qa_definition,0.9997,0.9997,True
+12961,th-TH,qa,qa_definition,ขอคำจำกัดความของ นิติเวช,qa_definition,1.0,1.0,True
+12963,th-TH,qa,qa_definition,คำนิยามของ นิติเวช คืออะไร,qa_definition,1.0,1.0,True
+12972,th-TH,qa,qa_factoid,ยอดเขาที่สูงที่สุดใน โลก คือยอดเขาอะไร,qa_factoid,0.9748,0.9748,True
+12982,th-TH,qa,qa_definition,ความปั่นป่วน แปลว่าอะไร,qa_definition,0.9992,0.9992,True
+12986,th-TH,qa,qa_definition,ดูความหายของ ตามอำเภอใจ,qa_factoid,0.422,0.0173,False
+12999,th-TH,qa,qa_factoid,คริส หอวัง อายุเท่าไหร่,qa_factoid,0.8702,0.8702,True
+13016,th-TH,qa,qa_definition,หาคำจำกัดความ ของ ความผิดพลาด,qa_definition,0.9705,0.9705,True
+13023,th-TH,cooking,cooking_recipe,แสดง สูตรอาหาร แก่ฉัน,cooking_recipe,0.9999,0.9999,True
+13069,th-TH,qa,qa_definition,อะไรคือคำจำกัดความของคำว่า ส้ม,qa_definition,1.0,1.0,True
+13074,th-TH,qa,qa_factoid,ทำไม เคน ธีรเดช ไม่ตลกเลย,social_post,0.951,0.0362,False
+13077,th-TH,qa,qa_factoid,ณเดช คูกิมิยะ เกิดวันไหน,datetime_query,0.5896,0.3911,False
+13078,th-TH,qa,qa_factoid,บอกที่อยู่ของ บิลลี่ โอแกน ให้ฉันที,social_post,0.845,0.0053,False
+13099,th-TH,qa,qa_factoid,ใครคือนายกรัฐมนตรีคนปัจจุบันของ สหราชอาณาจักร,qa_factoid,0.9896,0.9896,True
+13115,th-TH,qa,qa_factoid,อะไรคือเมืองหลวงของ ไนจีเรีย,qa_definition,0.995,0.0016,False
+13124,th-TH,qa,qa_factoid,อวกาศมีขนาดใหญ่แค่ไหน,qa_factoid,0.9385,0.9385,True
+13135,th-TH,qa,qa_factoid,หญิง รฐา โพธิ์งาม เกิดวันที่เท่าไหร่,datetime_query,0.9833,0.005,False
+13140,th-TH,qa,qa_definition,ช่วยบอกฉันเกี่ยวกับ เฮอริเคน ได้มั้ย,iot_hue_lightoff,0.9387,0.0003,False
+13154,th-TH,qa,qa_factoid,รู้เบอร์โทรศัพท์ของ พลอย อชิรญา ไหม,qa_factoid,0.9999,0.9999,True
+13165,th-TH,qa,qa_definition,กวัดแกว่ง แปลว่าอะไร,qa_definition,1.0,1.0,True
+13166,th-TH,qa,qa_definition,สะกดและหาความหมาย กวัดแกว่ง,qa_definition,0.9856,0.9856,True
+13177,th-TH,calendar,calendar_set,เตือน ขยับตัวไม่ให้น้ำหนักขึ้น,iot_hue_lightoff,0.1229,0.048,False
+13178,th-TH,calendar,calendar_set,ไม่ใช่,qa_factoid,0.9999,0.0,False
+13188,th-TH,news,news_query,บอกฉันถึงผลการเลือกตั้งสมัชชาใน กรุงเทพ ว่าจะออกมาเป็นอย่างไร,news_query,0.2631,0.2631,True
+13206,th-TH,qa,qa_definition,ตำแหน่ง,qa_factoid,0.5849,0.0701,False
+13215,th-TH,transport,transport_query,มีเล้นทางเร็วที่สุดไปที่ทำงาน ในเมืองของฉัน โดยที่รถไม่ติดมั้ย,transport_query,0.9832,0.9832,True
+13252,th-TH,qa,qa_factoid,นิยายเรื่องแรกของ ของคึกฤทธิ์ ปราโมช คืออะไร,qa_factoid,0.2617,0.2617,True
+13255,th-TH,qa,qa_factoid,ขอข้อมูล จิรายุ ละอองมณี,email_sendemail,0.9978,0.0,False
+13283,th-TH,qa,qa_factoid,ทักษิณ ทำเงินได้เท่าไร,qa_factoid,0.5325,0.5325,True
+13288,th-TH,qa,qa_definition,คำจำกัดความของคำว่า ตลอดไป คืออะไร,qa_definition,0.9999,0.9999,True
+13297,th-TH,qa,qa_factoid,ใครคือเซเลบ,qa_factoid,0.9989,0.9989,True
+13298,th-TH,qa,qa_factoid,คนดังดังเขาทำอะไรกัน,social_post,0.9999,0.0,False
+13330,th-TH,qa,qa_factoid,วาฬสเปิร์มมีขนาดตัวเท่าไหร่,qa_factoid,0.9273,0.9273,True
+13361,th-TH,qa,qa_definition,อะไรคือคำจำกัดความของ ทันเวลา,qa_definition,1.0,1.0,True
+13383,th-TH,qa,qa_factoid,รัฐที่ใช้การประหารชีวิตมีกี่รัฐ,qa_factoid,0.8315,0.8315,True
+13400,th-TH,social,social_post,ส่ง ข้อความ ตลกตลก ถึง เพื่อนทุกคน ของฉัน,social_post,0.9522,0.9522,True
+13439,th-TH,qa,qa_factoid,คริส หอวัง อายุเท่าไหร่,qa_factoid,0.8702,0.8702,True
+13457,th-TH,calendar,calendar_set,บอกฉันทีว่าฉันควรจะออกเดินทางตอนกี่โมงเพื่อที่จะไปถึงงานได้อย่างตรงเวลา,transport_query,0.4016,0.0072,False
+13473,th-TH,qa,qa_factoid,อเมริกา ประกาศอิสรภาพเมื่อไหร่,qa_factoid,0.938,0.938,True
+13487,th-TH,qa,qa_factoid,olly อะไรคือเมืองหลวงของ แคลิฟอร์เนีย,weather_query,0.2202,0.0794,False
+13494,th-TH,qa,qa_definition,ขอคำนิยามของ แรงบันดาลใจ,qa_definition,0.9989,0.9989,True
+13506,th-TH,datetime,datetime_query,บอกเวลาได้มั้ย,datetime_query,0.6315,0.6315,True
+13513,th-TH,qa,qa_factoid,หมามีกี่ขา,qa_factoid,1.0,1.0,True
+13516,th-TH,qa,qa_factoid,ทำไมปลาวาฬถึงตัวใหญ่,qa_factoid,0.937,0.937,True
+13546,th-TH,qa,qa_factoid,หนังเรื่องสุดท้ายที่ รฐา โพธิ์งาม เล่นคือเรื่องใด,qa_factoid,0.4183,0.4183,True
+13554,th-TH,qa,qa_factoid,เคน ธีรเดช สูงเท่าไหร่,qa_factoid,0.9889,0.9889,True
+13575,th-TH,qa,qa_factoid,หนังเรื่องล่าสุดที่ได้รับรางวัลออสการ์ถูกสร้างขึ้นมาในปีอะไร,recommendation_events,0.3149,0.2641,False
+13580,th-TH,qa,qa_factoid,ยอดเขา เอเวอเรสต์ สูงแค่ไหน,social_post,0.3904,0.3272,False
+13591,th-TH,qa,qa_factoid,เมืองหลวงของ ประเทศไทย คืออะไร,social_post,0.3583,0.2396,False
+13592,th-TH,qa,qa_factoid,นิวซีแลนด์ อยู่ตรงไหนบนแผนที่,iot_hue_lightoff,0.8214,0.0119,False
+13604,th-TH,qa,qa_factoid,บอกฉันว่า สตีฟ จ็อบส์ เกิดที่ไหน,email_sendemail,0.8512,0.0,False
+13607,th-TH,qa,qa_factoid,คุณช่วยยืนยันได้ไหมว่า คริส หอวัง แต่งงานหรือยัง,email_sendemail,0.9984,0.0002,False
+13616,th-TH,qa,qa_factoid,คนดังเขาชอบไปเที่ยวที่ไหนกัน,social_post,0.9989,0.0001,False
+13619,th-TH,recommendation,recommendation_events,วันนี้ มีกิจกรรมฟรีในพื้นที่ของฉันไหม,recommendation_events,0.7896,0.7896,True
+13625,th-TH,qa,qa_definition,โต๊ะทำงานที่ใหญ่ที่สุด มีขนาดเท่าไหร่,qa_factoid,0.7249,0.0058,False
+13636,th-TH,qa,qa_factoid,จา พนม ยีรัมย์ เกิดวันที่เท่าไหร่,datetime_query,0.902,0.0025,False
+13679,th-TH,qa,qa_factoid,ช่วยบอกฉันทีได้มั้ยว่าวัวมีกี่กระเพาะ,qa_factoid,0.8376,0.8376,True
+13681,th-TH,qa,qa_factoid,คริส หอวัง เล่นละครกี่เรื่องแล้ว,qa_factoid,0.7668,0.7668,True
+13683,th-TH,qa,qa_factoid,ประยุทธ์ ใช้สเปรย์ฉีดผมยี่ห้ออะไร,iot_hue_lightoff,0.072,0.0458,False
+13689,th-TH,qa,qa_definition,เก้าอี้ คืออะไร,qa_definition,0.9974,0.9974,True
+13690,th-TH,qa,qa_factoid,เก้าอี้มีสีอะไร,iot_hue_lightoff,0.9077,0.0107,False
+13693,th-TH,qa,qa_factoid,เส้นเมริเดียนปฐม อยู่ที่ไหน,qa_factoid,0.1834,0.1834,True
+13705,th-TH,qa,qa_definition,อะไรคือ ระบบปล่อยมลพิษอิเล็กทรอนิกส์,qa_definition,0.9986,0.9986,True
+13706,th-TH,qa,qa_definition,อธิบาย ปีกเฮลิคอปเตอร์,iot_hue_lightoff,0.5756,0.4029,False
+13714,th-TH,qa,qa_definition,อะไรคือ มะม่วง,qa_definition,0.9998,0.9998,True
+13717,th-TH,qa,qa_factoid,จาก อลาสก้า คุณจะสามารถมองเห็น รัสเซีย ได้จริงจริงหรือ,qa_factoid,0.9156,0.9156,True
+13758,th-TH,qa,qa_factoid,ทักษิณ อายุเท่าไหร่,qa_factoid,0.9237,0.9237,True
+13761,th-TH,qa,qa_factoid,พาร์เซก คืออะไร,qa_definition,0.9991,0.0006,False
+13774,th-TH,qa,qa_factoid,จาก ยโสธร ไป ลำพูน ไกลเท่าไหร่,weather_query,0.5799,0.1694,False
+13777,th-TH,qa,qa_definition,คุณอธิบาย บัตรเครดิต ได้ไหม,qa_factoid,0.9995,0.0001,False
+13780,th-TH,qa,qa_factoid,มาริโอ้ เมาเร่อ แต่งงานหรือยัง,email_sendemail,0.9838,0.0018,False
+13798,th-TH,qa,qa_factoid,โดยเฉลี่ยแล้วประเทศหนึ่งแห่งบนโลกจะมีพื้นที่ประมาณกี่ตารางไมล์,qa_factoid,0.7179,0.7179,True
+13799,th-TH,qa,qa_definition,ความหมายของ ความยิ่งใหญ่ คืออะไร,qa_definition,0.9999,0.9999,True
+13823,th-TH,qa,qa_factoid,ดวงอาทิตย์อยู่ห่างไปมากแค่ไหน,iot_hue_lightoff,0.7377,0.24,False
+13853,th-TH,qa,qa_factoid,ที่ไหนในโลกมีภูเขาไฟมากที่สุด,qa_factoid,0.9957,0.9957,True
+13854,th-TH,qa,qa_factoid,สุรพล สมบัติเจริญ ตายเมื่อไร,weather_query,0.9985,0.0001,False
+13863,th-TH,qa,qa_definition,อะไรคือคำจำกัดความของ ตรรกะ,qa_definition,1.0,1.0,True
+13867,th-TH,qa,qa_factoid,สวนลุม อยู่ที่ไหน,email_query,0.4614,0.0638,False
+13869,th-TH,qa,qa_factoid,ช่วย google หาตำแหน่งและข้อมูลของภูเขารัชมอร์ให้ที,email_sendemail,0.0876,0.0566,False
+13871,th-TH,qa,qa_definition,จะอธิบายคำว่า สุขสันต์วันเกิด ได้อย่างไร,qa_definition,0.9978,0.9978,True
+13881,th-TH,qa,qa_factoid,ขอข้อมูลเกี่ยวกับ สรพงศ์ ชาตรี ให้ฉันที,email_sendemail,0.7023,0.0035,False
+13888,th-TH,qa,qa_factoid,อุณหภูมิ ของ กรุงเทพ คือกี่องศา,weather_query,0.9182,0.0206,False
+13895,th-TH,qa,qa_factoid,บอกฉันเกี่ยวกับ สมบัติ เมทนี ได้ไหม,iot_hue_lightoff,0.3952,0.0202,False
+13900,th-TH,qa,qa_definition,คำจำกัดความของคำว่า ชีวิต,qa_definition,1.0,1.0,True
+13907,th-TH,qa,qa_definition,นิยาม ที่ทำให้ตกตะลึง,qa_definition,0.9798,0.9798,True
+13908,th-TH,qa,qa_definition,ช่วยบอกฉันทีว่า คำว่า ที่ทำให้ตกตะลึง หมายถึงอะไร,qa_definition,0.9999,0.9999,True
+13926,th-TH,qa,qa_factoid,ธงไชย แมคอินไตย์ เกิดวันไหน,datetime_query,0.8548,0.0031,False
+13927,th-TH,qa,qa_factoid,บิณฑ์ บรรลือฤทธิ์ ค่าตัวเท่าไหร่,qa_factoid,0.9975,0.9975,True
+13974,th-TH,qa,qa_factoid,ลาว ตั้งอยู่ที่ไหน,qa_factoid,0.5661,0.5661,True
+13983,th-TH,qa,qa_definition,ผลแห่งทุกข์,iot_hue_lightoff,0.0549,0.0522,False
+13984,th-TH,qa,qa_definition,ผลลัพธ์ของการกระทำ,cooking_recipe,0.3108,0.0251,False
+13997,th-TH,qa,qa_factoid,บ้านโดยเฉลี่ยมีราคาเท่าไหร่,qa_factoid,0.9188,0.9188,True
+14000,th-TH,qa,qa_definition,อธิบาย ตัวสลอธ,qa_factoid,0.7895,0.2006,False
+14001,th-TH,qa,qa_factoid,บอกฉันทุกอย่างที่คุณรู้เกี่ยวกับตัวสลอธ,social_post,0.3967,0.0023,False
+14011,th-TH,qa,qa_factoid,วันเกิด ของ คริส หอวัง คือวันไหน,datetime_query,0.7519,0.0109,False
+14015,th-TH,qa,qa_factoid,พิกัดของ เส้นศูนย์สูตร คืออะไร,qa_definition,0.5262,0.4528,False
+14023,th-TH,qa,qa_definition,อธิบายคำว่า นรก,qa_definition,0.9856,0.9856,True
+14033,th-TH,qa,qa_factoid,อองซาน ซูจี เกิดเมื่อไหร่,qa_factoid,0.9982,0.9982,True
+14038,th-TH,qa,qa_factoid,ประเทศมอลโดวาตั้งอยู่ที่ไหน,qa_factoid,0.5907,0.5907,True
+14040,th-TH,qa,qa_factoid,ฮัลค์ โฮแกน สูงเท่าไหร่,qa_factoid,0.5465,0.5465,True
+14053,th-TH,qa,qa_factoid,จุรี โอศิริ เริ่มแสดงตั้งแต่ปีไหน,social_post,0.9973,0.0002,False
+14063,th-TH,qa,qa_factoid,วันเกิด ของ ชาลี ไตรรัตน์ คือ,email_sendemail,0.9694,0.0017,False
+14083,th-TH,qa,qa_factoid,ปัจจุบันนี้ จา พนม ยีรัมย์ พักอาศัยอยู่ที่ไหน,email_query,0.4365,0.0594,False
+14096,th-TH,qa,qa_factoid,เทือกเขาแดนลาว อยู่ที่ไหน,qa_factoid,0.9865,0.9865,True
+14115,th-TH,qa,qa_definition,ขอรายละเอียดของ หินอัคนี,social_post,0.8536,0.0033,False
+14116,th-TH,qa,qa_definition,อธิบาย หิน ทราย,email_sendemail,0.8783,0.0105,False
+14117,th-TH,qa,qa_factoid,พีระมิด อยู่ที่ไหน,email_query,0.3419,0.2858,False
+14118,th-TH,qa,qa_factoid,แสดงรายละเอียดทางภูมิศาสตร์ ของ พีระมิด,qa_factoid,0.4096,0.4096,True
+14126,th-TH,qa,qa_factoid,ขอประวัติของ เสก โลโซ,social_post,1.0,0.0,False
+14138,th-TH,qa,qa_definition,ช่วยบอกคำจำกัดความของคำว่า ทรงกระบอก ให้ฉันหน่อย,qa_definition,1.0,1.0,True
+14147,th-TH,qa,qa_definition,ขอคำจำกัดความของ ผ้าห่ม,qa_definition,1.0,1.0,True
+14150,th-TH,qa,qa_definition,รองเท้า คอนเวิร์ส คืออะไร,qa_definition,0.9433,0.9433,True
+14151,th-TH,qa,qa_factoid,แว่นกันแดดแบบไหนที่ถือว่าเป็นแว่นนักบิน,iot_hue_lightoff,0.9577,0.0081,False
+14154,th-TH,qa,qa_factoid,ขอข้อมูลของ แอฟริกา,qa_factoid,0.9972,0.9972,True
+14163,th-TH,qa,qa_factoid,หาใน ท้องถิ่น,qa_factoid,0.7141,0.7141,True
+14169,th-TH,qa,qa_factoid,หมาก ปริญ จบจากมหาวิทยาลัยอะไร,email_sendemail,0.8568,0.1162,False
+14170,th-TH,qa,qa_factoid,คริส หอวัง ใส่คอนเวิร์สไหม,email_query,0.9909,0.0,False
+14179,th-TH,qa,qa_factoid,เนปาล อยู่ห่างจากตำแหน่ง ของฉัน มากแค่ไหน,social_post,0.3319,0.1645,False
+14214,th-TH,transport,transport_query,หาวิธีเดินทางสำหรับ ที่เหมือนกัน,qa_factoid,0.867,0.0287,False
+14229,th-TH,qa,qa_factoid,คริส หอวัง เคยแสดงหนังเรื่องอะไรบ้าง,qa_factoid,0.4279,0.4279,True
+14243,th-TH,qa,qa_factoid,รายละเอียดของบุคคล,email_query,0.6445,0.033,False
+14272,th-TH,qa,qa_definition,เฮ้ หนังสือ คืออะไร,email_query,0.9992,0.0,False
+14283,th-TH,qa,qa_factoid,บอกฉันเกี่ยวกับ ยอดเขาเอเวอเรสต์,social_post,0.9658,0.0001,False
+14306,th-TH,qa,qa_factoid,อธิบายตำแหน่งทางภูมิศาสตร์ของ อินเดีย,qa_definition,0.5929,0.1417,False
+14308,th-TH,qa,qa_factoid,ความมั่งคั่งสุทธิของ ลีโอนาร์โด ดิแคพรีโอ คืออะไร,qa_factoid,0.9959,0.9959,True
+14316,th-TH,qa,qa_factoid,อลาสก้า มีขนาดใหญ่แค่ไหน,qa_factoid,0.4123,0.4123,True
+14317,th-TH,qa,qa_factoid,อเมริกามีขนาดเท่าไหร่,iot_hue_lightoff,0.3493,0.2508,False
+14323,th-TH,qa,qa_factoid,แก้วมังกรมีสีอะไร,iot_hue_lightoff,0.9597,0.0044,False
+14330,th-TH,qa,qa_factoid,ณเดช คูกิมิยะ เกิดที่ไหน,social_post,0.9503,0.0289,False
+14347,th-TH,qa,qa_definition,สมมติฐาน คืออะไร,qa_factoid,0.6072,0.0728,False
+14354,th-TH,qa,qa_factoid,อะไรคือคำตอบของจักรวาล,qa_definition,0.8684,0.1231,False
+14355,th-TH,qa,qa_factoid,กินมันติดเหงือก กินเผือกติดฟัน กินทั้งมันกินทั้งเผือก ติดทั้งเหงือกติดทั้งฟัน,cooking_recipe,0.2789,0.0304,False
+14370,th-TH,qa,qa_factoid,อาชีพของดาราคืออะไร,qa_factoid,0.993,0.993,True
+14378,th-TH,qa,qa_definition,นิยามคำว่า ความเร็ว,qa_factoid,0.4596,0.3197,False
+14382,th-TH,qa,qa_factoid,ตึกเอ็มไพร์สเตตมีขนาดใหญ่แค่ไหน,qa_factoid,0.2593,0.2593,True
+14395,th-TH,qa,qa_factoid,จุดที่ลึกที่สุดในโลกคืออะไร,qa_factoid,0.8286,0.8286,True
+14414,th-TH,qa,qa_definition,อธิบายเกี่ยวกับ ฮาร์ดดิส คอมพิวเตอร์,email_sendemail,0.9595,0.0229,False
+14417,th-TH,qa,qa_factoid,มหาสมุทรอะไรที่บรรจบกันที่ทวีปของเรา,social_post,0.2129,0.0362,False
+14419,th-TH,qa,qa_factoid,คริส จะมีภาพยนตร์เรื่องใหม่ในปีนี้ไหม,qa_factoid,0.7568,0.7568,True
+14429,th-TH,qa,qa_definition,ชุดคาฟตาน คืออะไร,qa_factoid,0.5908,0.0211,False
+14440,th-TH,qa,qa_factoid,เมืองหลวงของ อินโดนีเซีย คืออะไร,qa_definition,0.3767,0.3365,False
+14442,th-TH,qa,qa_factoid,ฟิจิ อยู่ที่ไหน,email_query,0.4343,0.0105,False
+14444,th-TH,qa,qa_factoid,อะไรคือภาพยนตร์เรื่องแรกของ คริส หอวัง,lists_query,0.1752,0.1596,False
+14449,th-TH,qa,qa_factoid,คริส มีลูกคนใหม่ใช่หรือไม่,email_sendemail,0.9691,0.0043,False
+14457,th-TH,qa,qa_factoid,หาเส้นทาง,transport_query,0.6525,0.2092,False
+14465,th-TH,transport,transport_query,เส้นทางไป ดิสนีย์แลนด์,transport_query,0.9625,0.9625,True
+14490,th-TH,qa,qa_factoid,โรงหนังสกาล่า ถูกสร้างขึ้นมาเมื่อไหร่,qa_factoid,0.9212,0.9212,True
+14498,th-TH,qa,qa_definition,ขอคำอธิบายของ สมาร์ทโฟน ให้ฉันที,qa_definition,0.9025,0.9025,True
+14504,th-TH,qa,qa_factoid,olly อองซาน ซูจี เข้าประชุมมาแล้วกี่ครั้ง,social_post,0.9497,0.039,False
+14505,th-TH,qa,qa_factoid,ใครคือนายกรัฐมนตรีคนปัจจุบันของ อังกฤษ,qa_factoid,0.9996,0.9996,True
+14508,th-TH,qa,qa_factoid,ช่วยสรุปหนังสือ ice and fire ฉบับล่าสุดของ george r. r. martin ให้ที,lists_remove,0.2461,0.0395,False
+14509,th-TH,qa,qa_factoid,เคน ธีรเดช เกิดที่ไหน,social_post,0.5963,0.1817,False
+14539,th-TH,qa,qa_factoid,หารายละเอียดทางภูมิศาสตร์ของสถานที่นี้,qa_factoid,0.3328,0.3328,True
+14545,th-TH,qa,qa_factoid,ที่ตั้งของ อินเดีย,qa_factoid,0.9771,0.9771,True
+14567,th-TH,qa,qa_factoid,ภูเขาไฟที่ระอุอยู่และมีขนาดใหญ่ที่สุดใน โลก คือภูเขาไฟอะไร,qa_definition,0.9996,0.0001,False
+14585,th-TH,qa,qa_factoid,เดินทางจาก มาเลเซีย ไป เที่ยว สิงคโปร์ ใช้เวลานานเท่าไหร่,datetime_query,0.3661,0.1667,False
+14591,th-TH,qa,qa_definition,ขอคำอธิบายของ วงจรไฟฟ้าในทีวี ให้ฉันที,qa_definition,0.9387,0.9387,True
+14592,th-TH,qa,qa_definition,ขอคำอธิบายสำหรับ วงจรไฟฟ้าในมือถือ,qa_definition,0.9997,0.9997,True
+14597,th-TH,qa,qa_factoid,จำนวนประชากรของ นิวยอร์ก คือเท่าไหร่,qa_factoid,0.9358,0.9358,True
+14601,th-TH,qa,qa_factoid,ทักษิณ ชินวัตร เป็นนายกรัฐมนตรีของประเทศไทยนานกี่ปี,datetime_query,0.493,0.4697,False
+14605,th-TH,qa,qa_factoid,หมอเมย์ ทิ้ง ตูน อาทิวราห์ หรือเปล่า,social_post,0.9146,0.0647,False
+14608,th-TH,qa,qa_factoid,คริส หอวัง กำลังถ่ายทำหนังใหม่เรื่องอะไร,social_post,0.4894,0.2427,False
+14622,th-TH,qa,qa_definition,อธิบายว่า ทรงกลม คืออะไร,qa_definition,0.9999,0.9999,True
+14648,th-TH,cooking,cooking_recipe,ขอ สูตรอาหาร หน่อย,cooking_recipe,1.0,1.0,True
+14653,th-TH,qa,qa_factoid,รัสเซีย มีประชากรเท่าไหร่,qa_factoid,0.9534,0.9534,True
+14661,th-TH,qa,qa_factoid,ประยุทธ์ เกิดปีอะไร,email_sendemail,0.9987,0.0,False
+14668,th-TH,qa,qa_definition,อธิบายไอเทม เอ็กซ์วาย,email_query,0.3825,0.1241,False
+14683,th-TH,qa,qa_factoid,คริส หอวัง มีงานอดิเรกอะไรบ้าง,cooking_recipe,0.4418,0.0117,False
+14684,th-TH,qa,qa_factoid,ใครเป็นนายกรัฐมนตรีของ รัสเซีย,qa_factoid,0.9998,0.9998,True
+14690,th-TH,qa,qa_definition,โอเคกูเกิล ประธานาธิบดี คืออะไร,qa_factoid,0.9957,0.002,False
+14700,th-TH,qa,qa_definition,ที่อุดฟันเรซิน คืออะไรกันแน่,qa_factoid,0.9937,0.0004,False
+14701,th-TH,qa,qa_definition,อธิบาย เกมเศรษฐี,qa_factoid,0.8319,0.0965,False
+14705,th-TH,qa,qa_factoid,ก้อย รัชวิน อาศัยอยู่ที่ไหน,social_post,0.9363,0.0067,False
+14706,th-TH,qa,qa_factoid,ทักษิณ อาศัยอยู่ที่ไหน,social_post,0.9578,0.0082,False
+14746,th-TH,qa,qa_factoid,เมืองหลวงของ คาซัคสถาน คืออะไร,qa_definition,0.3875,0.0518,False
+14761,th-TH,qa,qa_definition,ขอคำจำกัดความของคำว่า บวช ให้ฉันที,qa_definition,0.9998,0.9998,True
+14767,th-TH,qa,qa_definition,คุณจะอธิบาย ลูกบอล ได้อย่างไร,qa_definition,0.9897,0.9897,True
+14770,th-TH,qa,qa_factoid,บอกฉันทีว่ามหาสมุทรที่ใหญ่ที่สุดใน โลก คือมหาสมุทรอะไร,qa_definition,0.6599,0.0361,False
+14787,th-TH,qa,qa_factoid,อะไรคือความแตกต่างระหว่าง ปฏิทินโรมัน กับ ปฏิทินกริกอเรียน,qa_definition,0.985,0.0015,False
+14791,th-TH,qa,qa_factoid,เก้าอี้ทำมาจากวัสดุอะไรบ้าง,lists_query,0.461,0.0218,False
+14794,th-TH,qa,qa_factoid,มาร์ช ชอบขี่อะไรที่สุด,cooking_recipe,0.8097,0.18,False
+14822,th-TH,qa,qa_factoid,เพื่อเปรียบเทียบในคน,recommendation_events,0.5575,0.2128,False
+14838,th-TH,qa,qa_factoid,ตัวกรองความหนาแน่นเป็นกลางคืออะไร และฉันต้องการแบบไล่ระดับสี หรือแบบทึบ รวมทั้งแบบไหนจะมีสไตล์ดีกว่าระหว่างแบบขันน็อตหรือแบบสี่เหลี่ยม,lists_query,0.2651,0.0281,False
+14857,th-TH,qa,qa_definition,กรุณาอธิบายความหมายของคำว่า ลิบลิ่ว ให้ฉันที,qa_definition,0.9997,0.9997,True
+14877,th-TH,qa,qa_factoid,สภาพภูมิอากาศในบริเวณนั้นเป็นอย่างไร,weather_query,0.9592,0.0022,False
+14879,th-TH,qa,qa_definition,ความหมายของ,qa_definition,1.0,1.0,True
+14884,th-TH,qa,qa_factoid,เมืองไหนมีแนวโน้มเจอพายุน้อยที่สุดใน อินเดีย ทั้งหมด,qa_factoid,0.6572,0.6572,True
+14889,th-TH,qa,qa_definition,ช่วยอธิบายสิ่งนั้นให้ฉันที,qa_definition,0.261,0.261,True
+14891,th-TH,qa,qa_factoid,บุคคลนั้นมีความสามารถในด้านไหน,qa_factoid,0.9995,0.9995,True
+14912,th-TH,qa,qa_factoid,นายก ประยุทธ์ เกิดที่ไหน,email_sendemail,0.9568,0.0001,False
+14917,th-TH,qa,qa_factoid,อัลบั้มถัดไปของ ตูน บอดี้สแลม จะออกเมื่อไหร่,play_music,0.7159,0.08,False
+14933,th-TH,qa,qa_factoid,ขอข้อมูลเกี่ยวกับภูมิประเทศ ของไทย,email_sendemail,0.3078,0.2429,False
+14939,th-TH,qa,qa_factoid,ฉันต้องการข้อมูลเกี่ยวกับ บรู๊ช ลี โปรดช่วยหน่อย,social_post,0.2231,0.0914,False
+14981,th-TH,qa,qa_definition,คำอธิบาย ไอโฟนเจ็ด,qa_definition,0.9991,0.9991,True
+14994,th-TH,qa,qa_factoid,หนังเรื่องต่อไป ของคริส หอวัง คือเรื่องอะไร,qa_definition,0.9979,0.0002,False
+14995,th-TH,qa,qa_definition,สถานการณ์ แปลว่าอะไร,qa_definition,0.9997,0.9997,True
+15020,th-TH,qa,qa_factoid,คริส หอวัง อายุเท่าไหร่,qa_factoid,0.8702,0.8702,True
+15039,th-TH,qa,qa_factoid,olly ภูกระดึง เริ่มต้นจากตรงไหน,social_post,0.2141,0.0239,False
+15055,th-TH,qa,qa_factoid,ระหว่างขั้วโลกเหนือกับขั้วโลกใต้ ขั้วไหนมีอากาศหนาวเย็นกว่ากัน,weather_query,0.9978,0.0003,False
+15056,th-TH,qa,qa_factoid,แฟนใหม่ของ นิวเคลียร์ อายุเท่าไหร่,email_query,0.8712,0.0246,False
+15062,th-TH,qa,qa_factoid,ขอข้อมูลของ คริส หอวัง,email_sendemail,0.8304,0.0011,False
+15075,th-TH,qa,qa_factoid,olly อเมริกันตั้งรกรากครั้งแรกสุดที่ไหน,qa_factoid,0.9988,0.9988,True
+15092,th-TH,qa,qa_definition,หาคำอธิบายเกี่ยวกับ ซัมซุงทีวี,qa_definition,0.9998,0.9998,True
+15094,th-TH,qa,qa_factoid,ค้นหาจำนวนประชากรที่อาศัยอยู่ใน วังทอง พิษณุโลก,social_post,0.5082,0.0365,False
+15095,th-TH,qa,qa_factoid,ไมอามี ตั้งอยู่ในภาคไหน,email_sendemail,0.9865,0.006,False
+15127,th-TH,qa,qa_definition,อธิบายคำว่า ลำโพง,qa_definition,0.9836,0.9836,True
+15155,th-TH,social,social_post,เธอช่วยอัปโหลดรูปเซลฟีล่าสุดของฉันบน บัญชี facebook ของฉันได้ไหม,social_post,0.9988,0.9988,True
+15166,th-TH,social,social_post,โพสต์ธุรกิจของฉันไปที่ twitter,social_post,0.9996,0.9996,True
+15177,th-TH,social,social_post,ช่วย รีทวีตโพสต์นี้ บน ทวิตเตอร์,social_post,0.9977,0.9977,True
+15185,th-TH,social,social_post,อวยพร วันเกิด,email_sendemail,0.9971,0.0001,False
+15186,th-TH,social,social_post,ขอ เเต่งงาน,qa_factoid,0.8599,0.0056,False
+15187,th-TH,social,social_post,แชร์ในโพสต์ของเพื่อนเพื่อน,social_post,0.9986,0.9986,True
+15197,th-TH,social,social_post,โพสต์ ทวิตเตอร์ เรื่อง ฉันไป ญี่ปุ่น,social_post,0.9999,0.9999,True
+15208,th-TH,social,social_post,โพสต์ สวัสดี ทุกคน ไปบน facebook,social_post,0.9991,0.9991,True
+15213,th-TH,news,news_query,มีอะไร กำลังดัง ตอนนี้,social_post,0.7666,0.0024,False
+15214,th-TH,news,news_query,มีข่าวอะไร วันนี้,news_query,0.9999,0.9999,True
+15216,th-TH,social,social_post,ทวีต บางอย่างให้ฉัน,cooking_recipe,0.7112,0.0072,False
+15231,th-TH,social,social_post,โพสต์รูปจากทริปเที่ยวเกาะของฉันไปที่ instagram,social_post,1.0,1.0,True
+15271,th-TH,social,social_post,โพสต์สิ่งนี้ไปที่ facebook,social_post,1.0,1.0,True
+15275,th-TH,social,social_post,โพสต์ว่า ฉันมีความสุข บน facebook,social_post,0.9999,0.9999,True
+15276,th-TH,social,social_post,โพสต์สถานะใหม่บน facebook บอกว่า ฉันมีความสุขกับ อากาศดี ดี แบบนี้จัง,social_post,1.0,1.0,True
+15289,th-TH,social,social_post,โพสต์ ข้อความ ตอนนี้เลย,social_post,0.9991,0.9991,True
+15305,th-TH,calendar,calendar_query,ฉัน มีการ แจ้งให้ทราบ จาก โซเชียลมีเดีย บ้าง ไหม,social_post,0.8498,0.0,False
+15318,th-TH,social,social_post,ฉันต้องการขอบคุณทุกคนที่อวยพร วันเกิด,email_sendemail,0.9995,0.0,False
+15337,th-TH,social,social_post,โพส วิดีโอ นี้ ไปที่ facebook,social_post,1.0,1.0,True
+15350,th-TH,social,social_post,ฉันไม่พอใจ แมคโคร ได้โปรดช่วยฉันหน่อย,social_post,0.8565,0.8565,True
+15358,th-TH,social,social_post,olly ทวีต apple ว่าไอโฟนไม่ทำงาน,email_sendemail,0.6549,0.2567,False
+15359,th-TH,social,social_post,ทวีต ถึง apple ว่า แบตไอโฟนของฉันเสื่อมตลอด,email_sendemail,0.624,0.3054,False
+15364,th-TH,social,social_post,ช่วยบอก โลตัส หน่อยได้ไหมว่าเคสโทรศัพท์ใหม่นี้เป็นขยะ,qa_factoid,0.6666,0.0034,False
+15382,th-TH,social,social_post,ช่วยติดต่อ ซัมซุง และบอกว่าเครื่องซักผ้าไฟไหม้,email_sendemail,0.3404,0.0305,False
+15387,th-TH,social,social_post,ทวีต ที่อยู่ ของฉัน,email_query,0.7528,0.0042,False
+15399,th-TH,social,social_post,ส่งเรื่อง ร้องเรียน ไปยัง ดีแทค สำหรับ ปัญหาเกี่ยวกับเน็ตเวิร์ก,social_post,0.3091,0.3091,True
+15401,th-TH,social,social_post,เปิด twitter แล้ว ส่ง ข้อความ,social_post,0.9848,0.9848,True
+15402,th-TH,social,social_post,ทวีต ว่า สินค้านั่นห่วยแตก,social_post,0.9194,0.9194,True
+15409,th-TH,social,social_post,เปิด twitter พิมพ์ข้อเรียกร้อง ของฉัน ไป ที่ส่วนบริการลูกค้า,social_post,0.9958,0.9958,True
+15413,th-TH,social,social_post,หาชื่อคน เอเอสเอพี ให้ฉัน,qa_factoid,0.9065,0.0202,False
+15444,th-TH,social,social_post,ให้สองดาว ถึง อีเกีย,qa_factoid,0.7633,0.0019,False
+15448,th-TH,social,social_post,ส่ง ทวีต ถึง โซนี่ เกี่ยวกับปัญหาด้านเสียง,email_sendemail,0.9929,0.0005,False
+15454,th-TH,social,social_post,ทวีต ถึง แอร์เอเชีย ว่า ฉันโมโหมากที่พวกเขาทำกระเป๋าของฉันหาย,social_post,0.9809,0.9809,True
+15456,th-TH,social,social_post,ฉันต้องการส่ง ทวีต ไปยัง การบินไทย ฉันโกรธที่คุณทำกระเป๋าหาย,transport_query,0.8092,0.1002,False
+15457,th-TH,social,social_post,ฉันมีปัญหากับเบอร์เกอร์ของฉัน ช่วย ทวีต ถึง เบอร์เกอร์คิง หน่อยได้ไหม,social_post,0.3763,0.3763,True
+15459,th-TH,social,social_post,ส่งเรื่องร้องเรียน twitter,social_post,0.9986,0.9986,True
+15464,th-TH,social,social_post,ฉันไม่ได้รับสินค้าตรงเวลา ทวีต ถึง ซาร่า,social_post,0.3282,0.3282,True
+15467,th-TH,social,social_post,บอก ไอบีเอ็ม ว่า ฉันเกลียดเขา,social_post,0.8839,0.8839,True
+15472,th-TH,social,social_post,ทวีต คำร้องเรียนสำหรับ เว็บไซต์นายอินทร์,email_query,0.8992,0.0008,False
+15487,th-TH,social,social_post,ทวีต ทรู เรื่องความสะอาดของร้านของพวกเขา,email_sendemail,0.8839,0.0,False
+15488,th-TH,social,social_post,โปรด ทวีต ที่พิซซ่าฮัท ฉันยังคงคอยอาหารที่จัดส่งของฉันจนถึงจุดที่โมโหแล้ว,cooking_recipe,0.9993,0.0,False
+15503,th-TH,social,social_post,ทวีต ใหม่ ไปที่ ฝ่ายบริการลูกค้า,email_query,0.2651,0.127,False
+15508,th-TH,social,social_post,siri เปิด twitter แล้วทวีตว่า นายกห่วยแตก,social_post,0.9999,0.9999,True
+15518,th-TH,social,social_post,ส่งคำร้องเรียนผ่าน ทวีต ถึง ยูนิโคล่,social_post,0.9854,0.9854,True
+15532,th-TH,social,social_post,olly ทวีต เทสโก้ โลตัส และบอกพวกเขาว่าการบริการลูกค้าของพวกเขาแย่มาก,email_sendemail,0.7214,0.2114,False
+15546,th-TH,social,social_post,ทวีต เกี่ยวกับ อาหารที่เย็นชืด ฟูจิเรสเตอรอง,social_post,0.9826,0.9826,True
+15548,th-TH,social,social_post,ทวีต ข้อร้องเรียนเกี่ยวกับมือถือ ซัมซุง,social_post,0.4403,0.4403,True
+15553,th-TH,social,social_post,ช่วย ทวีต ตอบกลับติดลบ ให้ การบริการของซัมซุง หน่อย,qa_factoid,0.9571,0.0021,False
+15554,th-TH,social,social_post,โปรด ทวีต เกี่ยวกับ บริการเดล สำหรับบริการ ล่าช้า,recommendation_events,0.9909,0.0001,False
+15556,th-TH,social,social_post,ทวีต ข้อร้องเรียน,iot_hue_lightoff,0.2985,0.0455,False
+15557,th-TH,social,social_post,ฉันต้องการให้คุณ ทวีต ข้อร้องเรียน,social_post,0.9945,0.9945,True
+15560,th-TH,social,social_post,โพสต์บน facebook ว่าฉันหิว,social_post,1.0,1.0,True
+15565,th-TH,social,social_post,บอกให้ ทรู รู้ว่าฉันจะไม่ใช้มันอีก,qa_factoid,0.9609,0.0025,False
+15587,th-TH,social,social_post,เปิด แกลเลอรี่ โพส ชื่อ ภาพ,social_post,0.8698,0.8698,True
+15592,th-TH,social,social_post,ทวีต ต่อว่า เอไอเอส,qa_factoid,0.7609,0.0365,False
+15593,th-TH,social,social_post,ทวีต ร้องเรียน กับไอทีซิตี้,email_query,0.7574,0.1691,False
+15598,th-TH,social,social_post,เปิด ชื่อบริษัท และรับเรื่องร้องเรียน,qa_factoid,0.6833,0.0029,False
+15610,th-TH,social,social_post,ทวีต แค่อยากจะรู้ว่าตรงที่เธอยืนนั้นมีฝนตกไหม ของ ทรีแมนดาวน์ บนบัญชี ของฉัน,email_sendemail,0.5341,0.0589,False
+15618,th-TH,social,social_post,ทวีต ถึง เอไอเอ ว่าพวกเขาบริการห่วย,qa_factoid,0.5567,0.0158,False
+15626,th-TH,social,social_post,ช่วย ทวีต คำร้องเรียนไปที่ เมกาบางนา ถึง การบริการที่แย่,email_sendemail,0.9268,0.0033,False
+15634,th-TH,social,social_post,ok google ทวีต ว่าเจ้าของปั๊มน้ำมันนิสัยไม่ดี,qa_factoid,0.9985,0.0003,False
+15635,th-TH,social,social_post,ทวีต ว่า แมคโดนัลด์ที่สยามมีบริการที่แย่มาก,social_post,0.8549,0.8549,True
+15647,th-TH,social,social_post,ทวีต คำร้องเรียน ไปที่,email_query,0.6262,0.077,False
+15651,th-TH,social,social_post,ส่งรายงาน บิ๊กซี,social_post,0.9698,0.9698,True
+15652,th-TH,social,social_post,ช่วยร้องเรียนถึง บริการลูกค้า,email_sendemail,0.9679,0.0009,False
+15655,th-TH,social,social_post,ทวีต ถึงฝ่ายบริการลูกค้าของกูเกิลว่าโทรศัพท์เน็กซัสเครื่องใหม่ของฉันไม่ทำงาน โปรดช่วยหน่อย,email_sendemail,0.9597,0.0019,False
+15656,th-TH,social,social_post,ทวีต ข้อความ ถึง เพาเวอร์บาย ว่า ฉันยังรอ การจัดส่ง อยู่,email_sendemail,0.5398,0.0343,False
+15661,th-TH,social,social_post,โพสต์ รายการล่าสุด ของฉัน บน twitter ของ ซีพี,social_post,0.9999,0.9999,True
+15670,th-TH,social,social_post,ทวีต ข้อร้องเรียน,iot_hue_lightoff,0.2985,0.0455,False
+15672,th-TH,social,social_post,ทวีต ถึง apple ว่าฉันไม่ได้รับไอโฟนที่ฉันส่งซ่อมเมื่อสัปดาห์ที่แล้ว,email_sendemail,0.9924,0.0032,False
+15676,th-TH,social,social_post,เพิ่ม ทวีต การ คอมเพลน เกี่ยวกับการบริการของ สวนลิ้นจี่,iot_hue_lightoff,0.7748,0.0113,False
+15686,th-TH,social,social_post,สวัสดี ของที่ฉันซื้อจากบางคนได้ชำรุดแล้ว,email_sendemail,0.6487,0.0051,False
+15693,th-TH,social,social_post,ทวีต ว่ามีแมลงในแพ็คเกจช็อกโกแลต,social_post,0.9958,0.9958,True
+15700,th-TH,social,social_post,สินค้าหมดอายุในตลาดล่าสุด,qa_factoid,0.9297,0.0014,False
+15703,th-TH,social,social_post,ทวีต ถึง ยูนิโคล่ ว่า ไซส์ต่างต่างของพวกเขาหมดเร็วมาก,social_post,0.5314,0.5314,True
+15706,th-TH,social,social_post,ทวีต,qa_factoid,0.7563,0.0044,False
+15707,th-TH,social,social_post,ส่ง ทวีต,social_post,0.9929,0.9929,True
+15708,th-TH,social,social_post,โพสต์การร้องเรียนของการบริการ,social_post,0.9992,0.9992,True
+15721,th-TH,social,social_post,ทวีต หน้า แหวะ ถึง แมคโดนัลด์,play_music,0.9405,0.0369,False
+15723,th-TH,social,social_post,ใส่ ความรู้สึกแฮปปี้ เป็นสเตตัสใน เฟสบุ๊ค,iot_hue_lightoff,0.7576,0.0125,False
+15731,th-TH,social,social_post,olly ทวีต ข้อความถึง ทรู และบอกพวกเขาว่าบริการของฉันไม่ดี,email_sendemail,0.996,0.0002,False
+15732,th-TH,social,social_post,ทวีต ถึง ซัมซุง แล้วบอกพวกเขาให้หยุดฆ่าคนด้วยสินค้าของพวกเขา,social_post,0.9175,0.9175,True
+15736,th-TH,social,social_post,ส่งรีวิวติดลบเกี่ยวกับบริษัท,social_post,0.7199,0.7199,True
+15756,th-TH,email,email_sendemail,กรุณา ส่งอีเมล​ถึง ทีมงาน ของฉัน,email_sendemail,1.0,1.0,True
+15763,th-TH,email,email_query,กรุณาตรวจหา อีเมล ใหม่,email_sendemail,1.0,0.0,False
+15765,th-TH,email,email_sendemail,ตอบ อีเมล ของ สมชาย,email_sendemail,1.0,1.0,True
+15777,th-TH,email,email_query,บอก ฉันหากฉันมี อีเมล ใหม่,email_sendemail,1.0,0.0,False
+15785,th-TH,email,email_query,มีอะไรใหม่บ้างไหมในกล่องจดหมายของฉัน,lists_remove,0.8644,0.0051,False
+15789,th-TH,email,email_query,olly ฉันมี อีเมล ใหม่ บ้าง หรือไม่,email_sendemail,1.0,0.0,False
+15792,th-TH,calendar,calendar_query,ฉัน ประชุม วันนี้,recommendation_events,0.3135,0.0361,False
+15796,th-TH,email,email_sendemail,อีเมล เชลซี,email_sendemail,1.0,1.0,True
+15802,th-TH,email,email_sendemail,ตอบ อีเมล ของ สมชาย ว่า ฉัน จะไม่แวะไป คืนนี้,email_sendemail,1.0,1.0,True
+15809,th-TH,email,email_query,สมชาย ได้ส่ง อีเมล มาหาฉันหรือยัง,email_sendemail,1.0,0.0,False
+15825,th-TH,email,email_sendemail,ตอบ กลับ พ่อ เขียนว่า ผมจะไปถึงช้านะครับ,email_sendemail,0.9916,0.9916,True
+15828,th-TH,email,email_sendemail,นี่คือที่อยู่อีเมลอันใหม่ที่จะถูกเพิ่มเข้าไปในรายชื่อติดต่อ,email_sendemail,1.0,1.0,True
+15829,th-TH,email,email_sendemail,ไปที่ ผู้ติดต่อ และป้อนข้อมูลที่อยู่อีเมลใหม่,email_sendemail,0.9991,0.9991,True
+15839,th-TH,email,email_query,หัวข้อ,email_query,0.9505,0.9505,True
+15841,th-TH,email,email_sendemail,เขียนอีเมลฉบับใหม่ถึง ณเดช,email_sendemail,1.0,1.0,True
+15845,th-TH,email,email_sendemail,มันมาถึงเราได้อย่างไร,qa_factoid,0.7686,0.0034,False
+15847,th-TH,email,email_sendemail,เราจะได้เครดิตได้อย่างไร,qa_factoid,0.9997,0.0,False
+15849,th-TH,email,email_sendemail,ส่ง อีเมล ถึง หัวหน้า ของฉัน,email_sendemail,1.0,1.0,True
+15857,th-TH,email,email_sendemail,ช่วยส่งไปที่ ที่อยู่ อีเมล อันใหม่ ที่ทำรายการไว้,email_sendemail,1.0,1.0,True
+15862,th-TH,email,email_query,ตรวจ จดหมายอิเล็กทรอนิกส์ ที่ได้รับจาก แม่,email_sendemail,0.9996,0.0001,False
+15880,th-TH,email,email_query,กรุณาตรวจจดหมายของฉัน,email_sendemail,1.0,0.0,False
+15890,th-TH,email,email_query,ตรวจ ดู ว่า ฉัน มี อีเมล ใหม่ จาก พ่อ ของฉัน บ้าง ไหม,email_sendemail,1.0,0.0,False
+15904,th-TH,email,email_query,ตรวจอีเมลใหม่ของฉัน และบอกฉันว่า พวกมัน เกี่ยวกับอะไร,email_sendemail,0.9996,0.0004,False
+15906,th-TH,email,email_sendemail,ตอบกลับ ขอบคุณ ถึง จอห์น,email_sendemail,0.9758,0.9758,True
+15911,th-TH,email,email_sendemail,เตรียม อีเมล สำหรับ ซูซาน,email_sendemail,1.0,1.0,True
+15933,th-TH,email,email_query,ฉัน มี อีเมล ใหม่ อะไรบ้าง,email_sendemail,1.0,0.0,False
+15942,th-TH,email,email_sendemail,ส่งอีเมลนี้เพื่อตอบกลับ อีเมล ฉบับล่าสุด,email_sendemail,1.0,1.0,True
+15950,th-TH,email,email_sendemail,ตอบ กลับ อีเมล จาก จอห์น โด,email_sendemail,1.0,1.0,True
+15957,th-TH,email,email_sendemail,อีเมล อลิซ เพื่อแจ้งให้เธอรู้ว่าพวกเรากำลังไป,email_sendemail,1.0,1.0,True
+15963,th-TH,email,email_query,ฉัน มี อีเมล ใหม่ ใดใด จาก เคลล็อก ไหม,email_sendemail,1.0,0.0,False
+15966,th-TH,email,email_query,ส่งคำตอบถ้ามันสำคัญมาก,qa_factoid,0.3714,0.0092,False
+15968,th-TH,email,email_query,ถ้ามันมาจากสถานที่ที่คุ้นเคย ให้ทำเครื่องหมายว่าสำคัญ,qa_definition,0.3069,0.0053,False
+15970,th-TH,email,email_query,หัวข้อเรื่องของอีเมลฉบับล่าสุดจาก แม่ คืออะไร,email_sendemail,1.0,0.0,False
+15971,th-TH,email,email_query,อีเมลสุดท้ายจากที่ทำงานคืออะไร,email_sendemail,1.0,0.0,False
+15994,th-TH,email,email_sendemail,ส่ง อีเมล ถึง จอห์น ถามเขาว่า เวลาไหนเหมาะสมสำหรับการ ประชุม,email_sendemail,1.0,1.0,True
+15995,th-TH,email,email_sendemail,อีเมล คาร์เรน เกี่ยวกับ การประชุมงบประมาณ,email_sendemail,0.9999,0.9999,True
+15998,th-TH,email,email_query,ตรวจ อีเมล ของฉัน สำหรับอะไรสักอย่างจากชื่อ,email_sendemail,0.9793,0.0207,False
+16002,th-TH,email,email_query,ตรวจดู อีเมล ใหม่,email_sendemail,1.0,0.0,False
+16005,th-TH,email,email_sendemail,ส่ง อีเมล ถึง joseph at gmail dot com,email_sendemail,1.0,1.0,True
+16010,th-TH,email,email_query,บอก ฉันหากฉันมี ข้อความ ใหม่ ใดใด ใน กล่องขาเข้า ของฉัน,qa_definition,0.2599,0.0284,False
+16024,th-TH,email,email_sendemail,ส่ง อีเมล ถึง โรหิต บอกว่า ฉันยุ่ง พรุ่งนี้,email_sendemail,1.0,1.0,True
+16028,th-TH,email,email_sendemail,hey siri เริ่ม อีเมล ถึง เพื่อนร่วมงาน,email_sendemail,1.0,1.0,True
+16029,th-TH,email,email_sendemail,กรุณาแต่ง อีเมล ฉบับใหม่ถึง เพื่อนร่วมงาน,email_sendemail,1.0,1.0,True
+16032,th-TH,email,email_sendemail,กรุณาส่ง อีเมล ถึง ซอลลี่ เกี่ยวกับ การประชุม พรุ่งนี้,email_sendemail,1.0,1.0,True
+16038,th-TH,email,email_query,เฮ้ เมื่อเร็วเร็วนี้ จอห์น ได้ส่ง อีเมล ใดใด มาให้ฉันบ้างหรือยัง,email_sendemail,1.0,0.0,False
+16045,th-TH,email,email_sendemail,ส่ง จดหมาย ถึง อิสเมล เพื่อ ตารางเวลาเปิดสำนักงาน,email_sendemail,1.0,1.0,True
+16048,th-TH,email,email_query,แสดง อีเมล ที่เพิ่งมา ให้ฉันดู,email_sendemail,1.0,0.0,False
+16049,th-TH,email,email_sendemail,ฉันต้องการส่ง อีเมล ถึง ครอบครัว ของฉัน ช่วยฉันไหม,email_sendemail,1.0,1.0,True
+16050,th-TH,email,email_query,ตรวจ gmail,email_query,0.9481,0.9481,True
+16052,th-TH,email,email_query,ตรวจ outlook,iot_hue_lightoff,0.9666,0.0009,False
+16056,th-TH,email,email_sendemail,ตอบกลับ อีเมล,email_sendemail,1.0,1.0,True
+16061,th-TH,email,email_query,ฉันได้รับอีเมลใดใดใน สิบนาทีที่ผ่านมา หรือไม่,email_sendemail,1.0,0.0,False
+16072,th-TH,email,email_sendemail,ส่งอีเมลถึง เจ้านาย ว่า วันนี้ ฉันจะไปสายเพราะว่ามีเหตุฉุกเฉินและขอโทษเขาที่พลาดการ ประชุม,email_sendemail,1.0,1.0,True
+16075,th-TH,email,email_query,แสดง อีเมล ล่าสุด จาก จอห์น,email_sendemail,0.9999,0.0001,False
+16082,th-TH,email,email_sendemail,ส่งอีเมลถึง พายุ และถามเขาว่าเป็นอย่างไรบ้าง ฉันสามารถทำอะไรสักอย่างเพื่อช่วยเขาได้ไหม,email_sendemail,1.0,1.0,True
+16089,th-TH,email,email_query,ฉัน ได้รับอีเมลใหม่หรือยังในช่วง สิบนาทีที่ผ่านมา,email_sendemail,1.0,0.0,False
+16096,th-TH,email,email_query,เอมี่ ได้ส่ง อีเมล ใหม่ ให้ฉัน บ้าง หรือไม่,email_sendemail,1.0,0.0,False
+16098,th-TH,email,email_query,ตรวจ อีเมล ที่ยังไม่ได้อ่าน จาก เอมี่,email_sendemail,0.8992,0.1008,False
+16100,th-TH,email,email_query,กรุณาตรวจ อีเมล ที่มีรายการงาน,email_sendemail,1.0,0.0,False
+16103,th-TH,email,email_sendemail,ส่ง อีเมล ถึง พี่ชาย ของฉัน และบอกว่า ครบรอบแต่งงาน,email_sendemail,1.0,1.0,True
+16120,th-TH,email,email_sendemail,ความช่วยเหลือจะถูกส่งไปให้ เจน เท่านั้น,email_sendemail,0.9983,0.9983,True
+16131,th-TH,email,email_sendemail,อีเมลใหม่ฉบับนี้ควรจะถูกเพิ่มเข้าไปยังชื่อผู้ติดต่อของฉัน,email_sendemail,1.0,1.0,True
+16145,th-TH,email,email_query,แสดง อีเมล ล่าสุด ให้ฉันดู,email_sendemail,1.0,0.0,False
+16146,th-TH,news,news_query,ขออัปเดตข่าวล่าสุด,news_query,0.8605,0.8605,True
+16148,th-TH,email,email_sendemail,ตอบกลับ อย่างรวดเร็วถึง แจ๊ค ดังนั้น กรุณาส่ง จดหมาย,email_sendemail,1.0,1.0,True
+16151,th-TH,email,email_query,ตรวจกำหนดการ การประชุม ในจดหมายของ วันนี้,email_sendemail,0.4365,0.1164,False
+16162,th-TH,email,email_sendemail,ส่ง คำตอบ,email_sendemail,0.5075,0.5075,True
+16163,th-TH,email,email_query,ใครส่งจดหมายให้ฉัน เมื่อวานนี้,email_sendemail,1.0,0.0,False
+16165,th-TH,email,email_query,ชาร์ลอตต์ ตอบหรือยัง,qa_factoid,0.9721,0.001,False
+16166,th-TH,email,email_sendemail,คุณช่วยตอบกลับ เอรียา ว่าฉันจะยุ่งกับโปรเจ็กไป อีกสามอาทิตย์ ได้ไหม,iot_hue_lightoff,0.2376,0.2275,False
+16168,th-TH,email,email_query,มีอีเมลอะไรที่มาถึงในช่วง สิบห้านาที ที่ผ่านมาหรือยัง,email_sendemail,1.0,0.0,False
+16170,th-TH,email,email_query,เปิด กล่องขาเข้า เพื่อตรวจดู จดหมาย ที่ ยังไม่อ่าน,qa_factoid,0.3245,0.032,False
+16178,th-TH,email,email_query,จดหมาย ใดใด จาก amazon วันนี้,email_sendemail,1.0,0.0,False
+16183,th-TH,email,email_query,ตรวจ อีเมล เกี่ยวกับ งาน ของฉัน,email_sendemail,0.9661,0.0339,False
+16201,th-TH,email,email_sendemail,กรุณาโหลด อีเมล ใหม่ สำหรับ บรูซ และส่ง ข้อความ ตอนนี้,email_sendemail,1.0,1.0,True
+16221,th-TH,email,email_sendemail,ดึงอีเมล ของเคธ ขึ้นมา และเขียนว่าฉันจะแจ้งให้เธอทราบ,email_sendemail,1.0,1.0,True
+16245,th-TH,email,email_sendemail,ส่ง อีเมล ถึง joe at a. o. l. dot com,email_sendemail,1.0,1.0,True
+16248,th-TH,email,email_query,กรุณาตรวจ จดหมาย ของฉัน,email_sendemail,1.0,0.0,False
+16263,th-TH,email,email_query,ฉัน ได้รับ อีเมล ใหม่ ใดใด จาก โรเบิร์ต หรือไม่,email_sendemail,1.0,0.0,False
+16266,th-TH,email,email_sendemail,เขียนอีเมลถึง ครอบครัว ของฉัน บอกว่าฉันรักพวกคุณทุกคน,email_sendemail,1.0,1.0,True
+16271,th-TH,email,email_query,รีเฟรช อินบ๊อกซ์ ของฉัน และบอกฉันเกี่ยวกับ อีเมล ใหม่,email_sendemail,1.0,0.0,False
+16275,th-TH,email,email_query,เริ่มการสำรวจความเห็นสำหรับ อีเมล ใหม่,email_query,0.9097,0.9097,True
+16276,th-TH,email,email_query,ฉัน มี อีเมล ใหม่ หรือไม่,email_sendemail,1.0,0.0,False
+16280,th-TH,email,email_sendemail,กรุณาส่งอีเมลถึง แคสซี่ ผู้ที่อยู่ในรายการ ครอบครัว และ เพื่อน ของฉัน,email_sendemail,1.0,1.0,True
+16282,th-TH,email,email_sendemail,ส่งอีเมลถึง สมศรี ผู้ช่วย ของฉัน เพื่อยกเลิก นัด ทั้งหมด สำหรับ พรุ่งนี้,email_sendemail,1.0,1.0,True
+16296,th-TH,email,email_sendemail,ส่ง อีเมล ถึง แม่ เพื่อบอกแม่ว่า งานเลี้ยงวันเกิด ของวิท คือ วันอาทิตย์,email_sendemail,1.0,1.0,True
+16297,th-TH,email,email_sendemail,ส่ง อีเมล ถึง จอม เพื่อบอกเขาว่า ขอบคุณ,email_sendemail,1.0,1.0,True
+16314,th-TH,email,email_sendemail,ส่ง อีเมล ถึง หนูนา,email_sendemail,1.0,1.0,True
+16317,th-TH,email,email_query,ฉันได้รับ อีเมล ใหม่ จาก ซาร่าห์ หรือไม่,email_sendemail,1.0,0.0,False
+16318,th-TH,email,email_sendemail,ตอบ อีเมล,email_sendemail,1.0,1.0,True
+16320,th-TH,email,email_sendemail,ฉันต้องการ ตอบ ไปยัง อีเมล ของ บ๊อบ สมิธ,email_sendemail,1.0,1.0,True
+16353,th-TH,email,email_query,ตรวจหา อีเมล จาก สตีฟ,email_sendemail,1.0,0.0,False
+16354,th-TH,email,email_query,ตรวจหา อีเมล จาก นายจ้าง ของฉัน,email_sendemail,0.9999,0.0001,False
+16356,th-TH,email,email_query,ฉันได้อีเมล ทอม ในหัวข้อเรื่องการควบคุมปืนหรือไม่,email_sendemail,1.0,0.0,False
+16357,th-TH,email,email_query,ทอม อีเมลฉันเกี่ยวกับกระสุนหรือยัง,email_sendemail,1.0,0.0,False
+16361,th-TH,email,email_query,ฉัน มี อีเมล ใหม่ ใดใด ใน ชั่วโมงที่ผ่านมา ไหม,email_sendemail,1.0,0.0,False
+16373,th-TH,email,email_query,ฉันได้รับอีเมลใดใดพร้อมหมายเลขติดตามแล้วหรือยัง,email_sendemail,1.0,0.0,False
+16375,th-TH,email,email_sendemail,เขียน อีเมล ถึง บ๊อบ,email_sendemail,0.9977,0.9977,True
+16376,th-TH,email,email_sendemail,alexa กรุณาส่ง อีเมล ถึง แม่,email_sendemail,1.0,1.0,True
+16377,th-TH,email,email_sendemail,ส่ง อีเมล ถึง แม่ ตอนนี้,email_sendemail,1.0,1.0,True
+16384,th-TH,email,email_query,เฮ้ ฉัน มี อีเมล ใหม่ ใดใด หรือไม่,email_sendemail,1.0,0.0,False
+16385,th-TH,email,email_query,กรุณา อ่าน อีเมล ใหม่,email_sendemail,1.0,0.0,False
+16398,th-TH,email,email_sendemail,กรุณาส่ง อีเมล ถึง เจฟฟ์,email_sendemail,1.0,1.0,True
+16399,th-TH,email,email_query,ฉัน มี อีเมล ใหม่ ใดใด ไหม,email_sendemail,1.0,0.0,False
+16401,th-TH,email,email_sendemail,เขียน อีเมล ถึง ดอนน่า เฮ้ คุณกำลัง ทำอะไร วันนี้,email_sendemail,1.0,1.0,True
+16402,th-TH,email,email_sendemail,อีเมล ธิดา แผน ของ วันนี้,email_sendemail,1.0,1.0,True
+16406,th-TH,email,email_sendemail,alexa เริ่ม อีเมล,email_sendemail,1.0,1.0,True
+16410,th-TH,email,email_sendemail,แต่ง อีเมล,email_sendemail,1.0,1.0,True
+16413,th-TH,email,email_query,แสดง อีเมล ทั้งหมด ที่ถูกส่งมาถึงฉัน จาก หัวหน้า ของฉัน,email_sendemail,1.0,0.0,False
+16419,th-TH,email,email_sendemail,กรุณาส่ง อีเมล ถึง ลุง จอห์น ด้วยสิ่งต่อไปนี้ ได้ ฉันทำได้,email_sendemail,1.0,1.0,True
+16427,th-TH,email,email_query,ฉัน ได้รับ อีเมล ใหม่ กี่ฉบับ วันนี้,email_sendemail,1.0,0.0,False
+16430,th-TH,email,email_sendemail,กรุณาส่ง แม่ และ พ่อ อีเมลฉบับหนึ่ง ถามว่าพวกท่านเป็นอย่างไร,email_sendemail,1.0,1.0,True
+16437,th-TH,email,email_sendemail,กรุณาส่งอีเมลฉบับนี้ถึง เพื่อน ของฉัน,email_sendemail,1.0,1.0,True
+16438,th-TH,email,email_sendemail,ฉันต้องการให้ อีเมล นี้ ถูกส่งเดี๋ยวนี้,email_sendemail,1.0,1.0,True
+16446,th-TH,email,email_query,กรุณาตรวจหาอีเมลศึกษาล่าสุดจากผู้ส่งนี้,email_sendemail,1.0,0.0,False
+16459,th-TH,email,email_sendemail,ข้อความใหม่ถึง newmail at gmail dot com,email_sendemail,1.0,1.0,True
+16461,th-TH,email,email_query,ฉัน มี อีเมล ที่ยังไม่ได้อ่าน อะไรบ้าง ไหม,email_sendemail,1.0,0.0,False
+16467,th-TH,email,email_query,ฉัน มี อีเมล ใหม่ ใดใด จาก ผู้ติดต่อ คิว ของฉัน หรือไม่,email_sendemail,1.0,0.0,False
+16471,th-TH,email,email_query,ตรวจ อีเมล จาก จอห์น,email_sendemail,0.9271,0.0729,False
+16496,th-TH,email,email_sendemail,ส่งอีเมลคำตอบ,email_sendemail,1.0,1.0,True
+16501,th-TH,email,email_sendemail,กรุณาส่งจดหมายถึง ดิฟย่า เพื่อน ของฉัน คุณเป็นอย่างไรบ้าง,email_sendemail,1.0,1.0,True
+16506,th-TH,email,email_sendemail,เพิ่มที่อยู่อีเมลใหม่และส่งอีเมล,email_sendemail,1.0,1.0,True
+16518,th-TH,email,email_sendemail,เพิ่ม อีเมล ใหม่ สำหรับ จูเลีย สมิธ,email_sendemail,1.0,1.0,True
+16519,th-TH,email,email_sendemail,ฉันต้องการเพิ่มอีเมลอันใหม่ถึงรายชื่อผู้ติดต่อของฉัน,email_sendemail,1.0,1.0,True
+16535,th-TH,email,email_sendemail,คุณช่วยเขียน อีเมล ถึง ชมพู่ ได้ไหม,email_sendemail,1.0,1.0,True
+16559,th-TH,email,email_sendemail,ส่งคำตอบกลับไปถึง ไมค์ ด้วยคำตอบ สี่ร้อยสามสิบ จากอีเมลของเขาที่ส่งมา ตอนเช้า นี้,email_sendemail,1.0,1.0,True
+16560,th-TH,email,email_sendemail,ตอบกลับอีเมล เจ้านาย ของฉันด้วยคำว่า ฉันจะเข้าไปตอนสี่โมงเย็น,email_sendemail,0.9999,0.9999,True
+16563,th-TH,email,email_query,olly ตรวจ อีเมล ของฉัน,email_sendemail,1.0,0.0,False
+16591,th-TH,email,email_sendemail,ฉันเพิ่งจะได้รับอีเมลจากบิล ฉันต้องตอบมันตอนนี้,email_sendemail,1.0,1.0,True
+16593,th-TH,email,email_sendemail,อีเมล ล่าสุด ฉบับนั้น ต้องตอบโดยเร็วที่สุดเท่าที่จะทำได้,email_sendemail,1.0,1.0,True
+16603,th-TH,email,email_query,อีเมล ที่ถูกส่งไปเมื่อ ครึ่งชั่วโมง ที่แล้วจาก แม่ พูดว่าอะไรบ้าง,email_sendemail,1.0,0.0,False
+16605,th-TH,email,email_sendemail,เขียนและส่ง อีเมล ถึง หัวหน้า ของฉัน,email_sendemail,1.0,1.0,True
+16609,th-TH,email,email_query,บอก ฉัน ว่าฉันมี อีเมล ใหม่ ที่ยังไม่ได้อ่าน อะไรบ้าง,email_sendemail,1.0,0.0,False
+16613,th-TH,email,email_sendemail,ส่ง อีเมล ถึง หัวหน้างาน บอกกล่าว ว่าฉันจะไปสาย,email_sendemail,1.0,1.0,True
+16622,th-TH,email,email_sendemail,ส่ง อีเมล ถึง ผู้ติดต่อ นี้,email_sendemail,1.0,1.0,True
+16624,th-TH,email,email_sendemail,ฉันต้องการให้อีเมลถูกส่งไปที่ comcastcom เรื่อง ปัญหาการใช้บริการ ของฉัน,email_sendemail,1.0,1.0,True
+16627,th-TH,email,email_query,ตรวจ อีเมล ล่าสุด,email_sendemail,0.9999,0.0001,False
+16630,th-TH,email,email_sendemail,ส่งคำตอบถึง อีเมล ล่าสุด,email_sendemail,1.0,1.0,True
+16642,th-TH,email,email_query,ตรวจ เมล หา อะไรก็ตาม จาก รัตนา,email_sendemail,0.9956,0.0044,False
+16648,th-TH,email,email_query,กรุณาตรวจ อีเมล ของฉัน ให้ฉัน,email_sendemail,0.9994,0.0006,False
+16652,th-TH,email,email_query,อีเมล ของเบน มีเอกสารแนบมาหรือไม่,email_sendemail,1.0,0.0,False
+16662,th-TH,email,email_query,ฉันได้รับ อีเมล ใหม่ ใดใด จาก แดน หรือไม่,email_sendemail,1.0,0.0,False
+16666,th-TH,email,email_query,ฉัน มี อีเมล ขาเข้า ใดใด หรือไม่,email_sendemail,1.0,0.0,False
+16668,th-TH,email,email_query,มีอีเมล ใดใด บ้างไหมตั้งแต่ สี่โมง วันนี้,email_sendemail,1.0,0.0,False
+16669,th-TH,email,email_query,ฉัน ได้รับ อีเมล จาก สมชาย หรือไม่,email_sendemail,1.0,0.0,False
+16672,th-TH,email,email_query,โต ติดต่อมาบ้างไหม,social_post,0.9603,0.0005,False
+16677,th-TH,email,email_query,ฉัน มี จดหมายอิเล็กทรอนิกส์ ใหม่ ใน จดหมายเข้า วันนี้ ของฉัน บ้าง ไหม,email_sendemail,0.9998,0.0002,False
+16698,th-TH,email,email_sendemail,เขียน ตอบกลับ อีเมล ของแม่ ของฉัน,email_sendemail,1.0,1.0,True
+16701,th-TH,email,email_sendemail,ฉันอยากจะตอบกลับ อีเมล ของ สมหญิง,email_sendemail,1.0,1.0,True
+16703,th-TH,email,email_sendemail,ฉันต้องการตอบกลับ อีเมล ฉบับล่าสุด,email_sendemail,0.9516,0.9516,True
+16712,th-TH,email,email_query,ฉัน มี อีเมล ใหม่ ใดใด บ้างหรือไม่,email_sendemail,1.0,0.0,False
+16713,th-TH,email,email_query,กรุณาตรวจอีมเล ของฉัน และแจ้งฉันหากปรากฎว่ามี อีเมล ใหม่ ใดใด,email_sendemail,0.9999,0.0001,False
+16717,th-TH,email,email_sendemail,คุณช่วยกรุณา ส่งอีเมล ถึง บอย บอกว่า ฉันลางาน ได้ไหม,email_sendemail,1.0,1.0,True
+16719,th-TH,email,email_query,แจ้งให้ฉันรู้ว่า อีเมล ใหม่ อะไรบ้าง ที่ฉันได้รับ,email_sendemail,1.0,0.0,False
+16729,th-TH,email,email_sendemail,ตอบ อีเมล ของฉัน ที่มาจาก สมชาย บอก พวกเขาว่า ฉันจะเจอพวกเขา พรุ่งนี้,email_sendemail,1.0,1.0,True
+16730,th-TH,email,email_query,ช่วยตรวจดู อีเมล ฉบับ ใหม่ จาก สมชาย ให้หน่อย,email_sendemail,0.9896,0.0104,False
+16733,th-TH,email,email_query,แสดง จดหมายอิเล็กทรอนิกส์ ล่าสุด จาก amazon กับฉัน,email_sendemail,1.0,0.0,False
+16749,th-TH,email,email_query,มี อีเมล ใหม่ สำหรับฉัน บ้าง ไหม วันนี้,email_sendemail,1.0,0.0,False
+16754,th-TH,email,email_sendemail,สั่งให้เขียนตาม อีเมล,email_sendemail,1.0,1.0,True
+16758,th-TH,email,email_query,มีอีเมลใหม่บ้างมั้ย ตั้งแต่ การตรวจดูครั้งสุดท้าย,email_sendemail,1.0,0.0,False
+16763,th-TH,email,email_query,จดหมายอิเล็กทรอนิกส์ ใน สิบนาทีที่แล้ว,email_sendemail,1.0,0.0,False
+16765,th-TH,email,email_query,เวลาสัมภาษณ์จากอีเมล ของเมื่อวานนี้ คืออะไร,email_sendemail,1.0,0.0,False
+16766,th-TH,email,email_query,ตรวจดู อีเมล ใหม่,email_sendemail,1.0,0.0,False
+16772,th-TH,email,email_query,แสดง จดหมายอิเล็กทรอนิกส์ ทั้งหมด เกี่ยวกับการละเมิด,email_sendemail,0.9999,0.0001,False
+16780,th-TH,email,email_sendemail,ส่ง อีเมล ไปยัง juanpedro at gmail dot com,email_sendemail,1.0,1.0,True
+16791,th-TH,email,email_sendemail,เขียนอีเมลใหม่ แต่ฉันได้ที่อยู่ใหม่ครั้งนี้ brandon at example dot com,email_sendemail,1.0,1.0,True
+16799,th-TH,email,email_query,ฉัน ได้รับ อีเมล บ้าง หรือยังตั้งแต่ เที่ยง,email_sendemail,1.0,0.0,False
+16801,th-TH,email,email_query,สมหญิง ได้ส่งอีเมลเกี่ยวกับ สมชาย มาหรือยัง,email_sendemail,1.0,0.0,False
+16813,th-TH,email,email_query,ปี๊บ เมื่อฉันได้รับอีเมลจาก จอห์น,email_sendemail,1.0,0.0,False
+16814,th-TH,email,email_query,ตรวจ อีเมล,email_sendemail,1.0,0.0,False
+16838,th-TH,email,email_sendemail,คุณช่วยส่ง อีเมล ถึง ชื่อ อีเมล ใหม่ ได้ไหม,email_sendemail,1.0,1.0,True
+16851,th-TH,email,email_query,อีเมล การแจ้งเตือน,email_sendemail,1.0,0.0,False
+16859,th-TH,email,email_query,ฉันบอก ซูซาน ว่าอะไรใน อีเมล ฉบับ สุดท้าย ของฉัน,email_sendemail,1.0,0.0,False
+16872,th-TH,email,email_sendemail,หา สมหญิง จาก รายการรายชื่อผู้ติดต่อ ของฉัน และ ส่ง อีเมล ถึงเธอ,email_sendemail,1.0,1.0,True
+16873,th-TH,email,email_sendemail,อีเมล จุ๋ม สำหรับ วันเกิด ของเธอ,email_sendemail,1.0,1.0,True
+16880,th-TH,email,email_sendemail,อีเมล เจอร์รี่ เกี่ยวกับ การประชุม,email_sendemail,0.9407,0.9407,True
+16883,th-TH,email,email_sendemail,ส่ง อีเมล ถึง เจอร์รี่ ถามว่า คืนนี้ เขาจะมาถึงบ้านตอนกี่โมง,email_sendemail,1.0,1.0,True
+16886,th-TH,email,email_sendemail,ตอบกลับ เมล นี้,email_query,0.9985,0.0015,False
+16888,th-TH,email,email_query,เมล ใหม่ เป็นยังไง,email_sendemail,1.0,0.0,False
+16890,th-TH,email,email_query,อีเมล ใหม่ พูดว่าอะไรบ้าง,email_sendemail,1.0,0.0,False
+16891,th-TH,email,email_sendemail,ส่ง จอห์น สมิธ และ อีเมล,email_sendemail,1.0,1.0,True
+16892,th-TH,email,email_sendemail,เริ่มและ ส่งอีเมล ไปยัง ธนันท์ ชัยศรี,email_sendemail,1.0,1.0,True
+16899,th-TH,email,email_query,ฉัน ได้รับ อีเมล ใดใด จาก เจฟฟรีย์ เบอร์เน็ตต์ หรือยัง,email_sendemail,1.0,0.0,False
+16914,th-TH,email,email_query,ฉัน มี อีเมล จากผู้ส่ง นี้ หรือไม่,email_sendemail,1.0,0.0,False
+16916,th-TH,email,email_sendemail,เฮ้ ตอบอีเมลที่ฉันได้รับ,email_sendemail,1.0,1.0,True
+16924,th-TH,email,email_query,กรุณาตรวจ gmail ของฉัน สำหรับ จดหมาย ใหม่,email_sendemail,1.0,0.0,False
+16930,th-TH,email,email_query,แสดง อีเมล ฉบับ ล่าสุด,email_sendemail,0.9999,0.0001,False
+16938,th-TH,email,email_sendemail,ตอบกลับ อีเมล ของ จอห์น,email_sendemail,1.0,1.0,True
+16944,th-TH,email,email_sendemail,ส่ง อีเมล ถึง คุณย่า บอกว่าพวกเราจะแวะไปในวันเสาร์ ไว้เจอท่านตอนนั้น,email_sendemail,1.0,1.0,True
+16947,th-TH,email,email_sendemail,ตอบ อีเมล,email_sendemail,1.0,1.0,True
+16955,th-TH,email,email_sendemail,อีเมล ถึง รายชื่อผู้ติดต่อ อันใหม่,email_sendemail,1.0,1.0,True
+16956,th-TH,email,email_sendemail,ส่ง อีเมล ถึง ผู้ติดต่อ ใหม่,email_sendemail,1.0,1.0,True
+16961,th-TH,email,email_sendemail,ตอบด้วย,qa_factoid,0.9112,0.0018,False
+16974,th-TH,email,email_query,กรุณาตรวจหาอีเมลใหม่ทั้งหมดของ กรมสรรพากร,email_sendemail,1.0,0.0,False
+16987,th-TH,email,email_query,มี อีเมล ใหม่ ใดใด จาก จอห์น บ้างไหม,email_sendemail,1.0,0.0,False
+16989,th-TH,email,email_sendemail,ช่วยตอบกลับอีเมลที่ส่งมาหาฉันว่า สมชาย ฉันต้องการเงินตอนนี้ มันด่วนมาก,email_sendemail,0.8334,0.8334,True
+16992,th-TH,email,email_query,นารี ศรีฟ้า ได้อีเมลฉันหรือยัง,email_sendemail,1.0,0.0,False
+16995,th-TH,email,email_sendemail,ส่ง อีเมล ถึง เจสสิก้า,email_sendemail,1.0,1.0,True
+17005,th-TH,email,email_query,กรุณาตรวจดู อีเมล ใหม่,email_sendemail,1.0,0.0,False
+17011,th-TH,email,email_sendemail,ช่วยส่ง อีเมล ไปที่ ได้มั้ย,email_sendemail,1.0,1.0,True
+17015,th-TH,email,email_sendemail,เริ่ม ตอบกลับ,qa_factoid,0.7762,0.004,False
+17019,th-TH,email,email_sendemail,เขียนคำตอบถึง อีเมล ฉบับสุดท้าย,email_sendemail,1.0,1.0,True
+17020,th-TH,email,email_sendemail,ตอบกลับ อีเมล ที่ได้รับล่าสุด,email_sendemail,1.0,1.0,True
+17023,th-TH,email,email_sendemail,อีเมล แม่ และถามว่าที่นั่นอากาศเป็นอย่างไร,email_sendemail,1.0,1.0,True
+17042,th-TH,email,email_sendemail,เขียน อีเมล สำหรับ john at gmail dot com,email_sendemail,1.0,1.0,True
+17043,th-TH,email,email_sendemail,ส่ง อีเมล ถึง tim at hotmail dot com,email_sendemail,1.0,1.0,True
+17051,th-TH,email,email_query,เอา อีเมล ใหม่ ให้ฉัน,email_sendemail,1.0,0.0,False
+17052,th-TH,email,email_query,ค้นหา สมหญิง,qa_factoid,0.5088,0.0016,False
+17069,th-TH,email,email_query,มี อีเมล ใหม่ ใดใด ใน outlook หรือไม่,email_sendemail,1.0,0.0,False
+17075,th-TH,email,email_query,มีอีเมลใหม่ที่ได้รับ หลังจากสี่โมง วันนี้ หรือไม่,email_sendemail,1.0,0.0,False
+17081,th-TH,email,email_sendemail,สร้างอีเมลสำหรับ พนักงานบริษัท ของฉันพร้อมเอกสารที่ถูกเก็บรักษาไว้เมื่อไม่นานมานี้ของฉัน,email_sendemail,1.0,1.0,True
+17087,th-TH,email,email_query,ตรวจดู อีเมล ใหม่ ที่ได้รับจาก สมหญิง ให้ฉันที,email_sendemail,1.0,0.0,False
+17098,th-TH,email,email_query,แสดง อีเมล ใดใด ที่ได้รับภายใน หนึ่งชั่วโมงที่ผ่านมา ให้ฉันดู,email_sendemail,1.0,0.0,False
+17107,th-TH,email,email_query,ตรวจ อีเมล ใหม่,email_sendemail,1.0,0.0,False
+17108,th-TH,email,email_query,เอา อีเมล ล่าสุด ของฉัน ให้ฉัน,email_sendemail,1.0,0.0,False
+17113,th-TH,email,email_sendemail,สร้าง จดหมายอิเล็กทรอนิกส์ ถึง ญาญ่า,email_sendemail,1.0,1.0,True
+17115,th-TH,email,email_query,อ่านรายการของ อีเมล ใหม่,email_sendemail,1.0,0.0,False
+17116,th-TH,email,email_query,แสดง รายการของ อีเมล ล่าสุด,email_sendemail,0.9625,0.0375,False
+17119,th-TH,email,email_query,ตรวจ จดหมาย ใดใด จาก amazon,email_sendemail,1.0,0.0,False
+17123,th-TH,email,email_sendemail,แบบ อีเมล สำหรับ หัวหน้าส่วนภูมิภาค,email_sendemail,1.0,1.0,True
+17135,th-TH,email,email_query,มี อีเมล ข่าว ด่วน อะไร บ้าง ไหม,email_sendemail,1.0,0.0,False
+17136,th-TH,email,email_query,ช่วยอ่านจดหมายใหม่ของฉันที,email_sendemail,1.0,0.0,False
+17138,th-TH,email,email_query,ช่วยเก็บรักษา ข้อความ ที่ อ่าน แล้ว ของฉัน,email_sendemail,0.9541,0.0257,False
+17142,th-TH,email,email_query,มีอะไรใน กล่องขาเข้า ของฉันตั้งแต่เราดูครั้งสุดท้าย,qa_factoid,0.396,0.0196,False
+17143,th-TH,email,email_sendemail,เฮ้ ส่ง อีเมล ถึง จอห์น,email_sendemail,1.0,1.0,True
+17144,th-TH,email,email_query,เฮ้ ตรวจ อีเมล,email_sendemail,1.0,0.0,False
+17147,th-TH,email,email_sendemail,ตอบกลับ อีเมลด้วยเนื้อหาต่อไปนี้ สวัสดี คุณ,email_sendemail,1.0,1.0,True
+17148,th-TH,email,email_sendemail,alexa ตอบกลับ จดหมายด้วยเนื้อหาต่อไปนี้ สวัสดี คุณ,email_sendemail,0.9983,0.9983,True
+17151,th-TH,email,email_sendemail,จอห์น เพื่อน ของฉัน ได้ส่งบัตรเชิญไปบ้านที่เพิ่งซื้อใหม่ของเขามาให้ฉัน บอกเขาว่า ขอบคุณ ในชื่อจดหมายของเขา,email_sendemail,1.0,1.0,True
+17156,th-TH,email,email_query,ตรวจ อีเมล ของฉัน สำหรับ อีเมล ใหม่ ใดใด จาก โจ,email_sendemail,0.996,0.004,False
+17157,th-TH,email,email_query,ฉัน มี อีเมล ใหม่ ใดใด จาก โจ หรือไม่,email_sendemail,1.0,0.0,False
+17170,th-TH,email,email_query,แจ้งฉันเมื่อ โจชัว อีเมล ฉัน,email_sendemail,1.0,0.0,False
+17179,th-TH,email,email_query,จอห์น ส่ง อีเมล หาฉันหรือยัง,email_sendemail,1.0,0.0,False

@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,ar-SA,iot,iot_hue_lightoff,طفي الاضواء بغرفة النوم حقي,iot_hue_lightoff,0.9426,0.9426,True
+47,ar-SA,datetime,datetime_query,كم الوقت في السعودية,qa_factoid,0.9975,0.0003,False
+85,ar-SA,datetime,datetime_query,قل لي تاريخ اليوم,datetime_query,0.9979,0.9979,True
+86,ar-SA,datetime,datetime_query,كم التاريخ اليوم,datetime_query,0.9939,0.9939,True
+100,ar-SA,weather,weather_query,ما هي توقعات الاسبوع,qa_factoid,0.9923,0.0022,False
+102,ar-SA,weather,weather_query,ما هو الطقس هذا الأسبوع,weather_query,0.999,0.999,True
+103,ar-SA,weather,weather_query,قل لي الطقس هذا الاسبوع,weather_query,0.9992,0.9992,True
+128,ar-SA,datetime,datetime_query,ما التاريخ,datetime_query,0.9886,0.9886,True
+151,ar-SA,play,play_music,شغلها مرة ثانية لو سمحت,calendar_remove,0.4103,0.1037,False
+177,ar-SA,news,news_query,أخبرني ببعض أخبار الأعمال,recommendation_events,0.9965,0.0001,False
+178,ar-SA,news,news_query,أخبرني عن الأخبار العالمية,social_post,0.5579,0.092,False
+182,ar-SA,play,play_music,شغل قايمة الشعبي حقي,qa_factoid,1.0,0.0,False
+185,ar-SA,play,play_music,افتح قائمة التشغيل حقي وشغل ثالث أغنية في الترتيب,play_music,0.9701,0.9701,True
+197,ar-SA,datetime,datetime_query,كم ال ساعة,datetime_query,0.9681,0.9681,True
+216,ar-SA,weather,weather_query,كيف سيكون الجو اليوم,weather_query,0.9987,0.9987,True
+219,ar-SA,weather,weather_query,تنصحني آخذ المظلة معي بكره,qa_factoid,0.4252,0.0055,False
+220,ar-SA,play,play_music,شغل اغاني من قائمة أغاني رومانسية,play_music,0.9958,0.9958,True
+250,ar-SA,play,play_music,احس اني في مود اسمع قصايد وانتي,play_music,0.9805,0.9805,True
+254,ar-SA,play,play_music,olly شغل أغنية حلوة من المفضلة حقي على مشغل موسيقى الجاز,play_music,0.9972,0.9972,True
+279,ar-SA,weather,weather_query,ما هي توقعات الحين المدينة المنورة,qa_factoid,0.5952,0.154,False
+281,ar-SA,news,news_query,ماذا في الحرب في اليمن,qa_factoid,0.544,0.015,False
+296,ar-SA,play,play_music,شغل قايمة التشغيل اللبنانية,qa_factoid,1.0,0.0,False
+297,ar-SA,play,play_music,شغل اغاني عشوائية ل فيروز,play_music,0.9999,0.9999,True
+299,ar-SA,weather,weather_query,كيف الطقس,weather_query,0.9919,0.9919,True
+310,ar-SA,datetime,datetime_query,ما هو يوم رأس السنة الجديدة هاذي السنة,datetime_query,0.9377,0.9377,True
+319,ar-SA,weather,weather_query,أخبرني عن حالة الطقس في مدريد لليومين الجايين,weather_query,0.9987,0.9987,True
+329,ar-SA,play,play_music,المسافر راح,social_post,0.53,0.0234,False
+333,ar-SA,weather,weather_query,ما هي حالة الطقس في الرياض,weather_query,0.9985,0.9985,True
+334,ar-SA,weather,weather_query,أتمنى أن أعرف الطقس في جدة,weather_query,0.9998,0.9998,True
+344,ar-SA,weather,weather_query,هل سيكون الطقس ماطر بكرة,weather_query,0.9956,0.9956,True
+348,ar-SA,weather,weather_query,تتوقع تمطر بكره,qa_factoid,0.8585,0.1356,False
+355,ar-SA,datetime,datetime_query,في أي يوم من أيام الأسبوع هو أول أبريل,datetime_query,0.4147,0.4147,True
+360,ar-SA,datetime,datetime_query,كم الوقت الحين,qa_factoid,0.9987,0.0003,False
+362,ar-SA,play,play_music,شغل الأغنية الثانية من أغاني تامر حسني,play_music,0.9976,0.9976,True
+366,ar-SA,news,news_query,من فضلك قل لي آخر الأخبار,lists_remove,0.3521,0.1219,False
+369,ar-SA,iot,iot_hue_lightoff,طفي الانوار,qa_factoid,0.7006,0.0054,False
+385,ar-SA,news,news_query,ما هو مثير في الجزيرة,play_music,0.4618,0.0427,False
+391,ar-SA,play,play_music,شغل أغنية عشوائية من قايمة الأغاني حقتي,play_music,0.9988,0.9988,True
+393,ar-SA,play,play_music,شغل أغنية فيفا من قائمة التشغيل الخاص بي,play_music,0.9999,0.9999,True
+397,ar-SA,play,play_music,شغلي أي أغنية لنبيل سيف,play_music,0.9948,0.9948,True
+400,ar-SA,play,play_music,ابدأي التشغيل,iot_hue_lightoff,0.8707,0.0005,False
+407,ar-SA,play,play_music,تقدر تشغل موسيقى rock الساعة الجاية,play_music,0.9906,0.9906,True
+424,ar-SA,news,news_query,ما هي الأخبار العاجلة,news_query,0.7,0.7,True
+427,ar-SA,iot,iot_hue_lightoff,طفي اللمبات في الحمام,calendar_remove,0.5414,0.0206,False
+428,ar-SA,iot,iot_hue_lightoff,طفي لمبات الحمام,lists_remove,0.3657,0.0655,False
+430,ar-SA,weather,weather_query,كيف هو الطقس الآن,weather_query,0.9971,0.9971,True
+437,ar-SA,play,play_music,افتحي ملف فيروز,lists_remove,0.3886,0.0227,False
+441,ar-SA,news,news_query,ما هي عناوين آخر الأخبار,lists_remove,0.9986,0.0001,False
+442,ar-SA,news,news_query,ماذا يحدث في الأخبار,news_query,0.4534,0.4534,True
+451,ar-SA,news,news_query,هات لي آخر سعر حق أسهم الراجحي,recommendation_events,0.4447,0.0034,False
+473,ar-SA,play,play_music,شغل بحبك وحشتيني,social_post,0.4575,0.0259,False
+486,ar-SA,datetime,datetime_query,ما هو الوقت في مدينة الرياض,weather_query,0.9803,0.003,False
+491,ar-SA,weather,weather_query,هل الطقس بارد برا,weather_query,0.9991,0.9991,True
+506,ar-SA,play,play_music,افتح اغاني من نبيل شعيل,play_music,1.0,1.0,True
+512,ar-SA,weather,weather_query,ملحم بركات,email_query,0.4947,0.0013,False
+540,ar-SA,play,play_music,شغل أغنية ولهان لراشد الماجد,play_music,0.9995,0.9995,True
+555,ar-SA,play,play_music,شغل أي شيء من كاظم الساهر,social_post,0.5397,0.0002,False
+576,ar-SA,play,play_music,شغل الكل من قايمة التشغيل,qa_factoid,0.9955,0.0002,False
+585,ar-SA,news,news_query,اظهر أحدث الأخبار,play_podcasts,0.419,0.1112,False
+588,ar-SA,news,news_query,ايش في أخبار جديدة حق اليوم,news_query,0.977,0.977,True
+590,ar-SA,weather,weather_query,ما هو الطقس الحالي,weather_query,0.9931,0.9931,True
+614,ar-SA,play,play_music,شغل قائمة التشغيل,play_radio,0.9592,0.0026,False
+625,ar-SA,play,play_music,شغل اغنية الاماكن على الاذاعة,play_music,0.9999,0.9999,True
+631,ar-SA,news,news_query,سوي تنبيه حق الاخبار عن فيروس كورونا,qa_factoid,0.1383,0.1088,False
+651,ar-SA,iot,iot_hue_lightoff,طفي لمبات الغرفة,iot_hue_lightoff,0.3702,0.3702,True
+660,ar-SA,datetime,datetime_query,كم الساعة الحين في السعودية,weather_query,0.9956,0.002,False
+680,ar-SA,news,news_query,خلني على اطلاع على اسعار البيتكوين,qa_factoid,1.0,0.0,False
+686,ar-SA,datetime,datetime_query,كم الوقت الحين في محايل عسير,qa_factoid,0.923,0.0105,False
+712,ar-SA,news,news_query,أريد أن أسمع آخر الأخبار من الجزيرة,play_podcasts,0.9475,0.0055,False
+726,ar-SA,weather,weather_query,تلخيص تفاصيل الطقس الأسبوع,weather_query,0.9937,0.9937,True
+730,ar-SA,iot,iot_hue_lightoff,طف اللمبات,calendar_remove,0.5638,0.1927,False
+738,ar-SA,weather,weather_query,كم هو الجو بارد اليوم,weather_query,0.9986,0.9986,True
+764,ar-SA,weather,weather_query,ما هي توقعات الطقس هذا الاسبوع,weather_query,0.9986,0.9986,True
+765,ar-SA,news,news_query,هل يمكن أن تعطيني عناوين الأخبار المحدثة من المصدر الجديد,social_post,0.8628,0.0943,False
+767,ar-SA,news,news_query,هل يمكنك أن تخبرني أخر الأخبار من المصادر التي لا أذهب إليها عادة,recommendation_events,0.7558,0.1101,False
+768,ar-SA,news,news_query,أخبرني عن آخر الأخبار سياسية,news_query,0.7257,0.7257,True
+779,ar-SA,play,play_music,اريد سماع snow حق red hot chili peppers,qa_factoid,0.8383,0.0078,False
+781,ar-SA,play,play_music,شغل المسافر راح,recommendation_events,0.2922,0.0144,False
+782,ar-SA,play,play_music,شغل يا ابن الأوادم حق عبد المجيد عبد الله,cooking_recipe,0.7814,0.0048,False
+783,ar-SA,play,play_music,شغل ملل حبك,qa_factoid,0.9996,0.0,False
+790,ar-SA,weather,weather_query,طقس معتدل أو شديد,weather_query,0.9922,0.9922,True
+826,ar-SA,weather,weather_query,ما هي درجة الحرارة الحالية في الخارج,weather_query,0.9872,0.9872,True
+827,ar-SA,play,play_music,شغل قايمة أغاني حسين الجسمي,play_music,0.9323,0.9323,True
+832,ar-SA,weather,weather_query,ما توقعات الطقس بكرة,weather_query,0.9442,0.9442,True
+837,ar-SA,news,news_query,ما هي توقعات مركز الجزيرة الاستطلاع في الانتخابات اللبنانية المقبلة,iot_hue_lightoff,0.8086,0.0055,False
+891,ar-SA,play,play_music,شغل شوية موسيقى شعبية,play_music,1.0,1.0,True
+914,ar-SA,iot,iot_hue_lightoff,طف اللمبات,calendar_remove,0.5638,0.1927,False
+936,ar-SA,play,play_music,افتح وشغل الموسيقى من قايمة الركض حقتي,play_music,1.0,1.0,True
+951,ar-SA,weather,weather_query,كيف هو الطقس الآن في الطائف,weather_query,0.9981,0.9981,True
+969,ar-SA,news,news_query,مقالات جديدة عن موضوع محدد,social_post,0.8148,0.1643,False
+974,ar-SA,datetime,datetime_query,ما هو الوقت في جدة الآن,weather_query,0.8598,0.0193,False
+997,ar-SA,iot,iot_hue_lightoff,living room's,lists_query,0.2563,0.0363,False
+999,ar-SA,iot,iot_hue_lightoff,طفي اللمبه لو سمحت,calendar_remove,0.6567,0.0349,False
+1007,ar-SA,play,play_music,العقيدة حقي السعودية الشعبية قائمة تشغيل,qa_factoid,0.9987,0.0,False
+1014,ar-SA,datetime,datetime_query,كم الوقت في الرياض الحين,qa_factoid,0.9984,0.0002,False
+1047,ar-SA,play,play_music,sad rock songs,play_music,0.9794,0.9794,True
+1061,ar-SA,news,news_query,إعلامي تحديث الأخبار رياضية,iot_hue_lightoff,0.7977,0.0241,False
+1063,ar-SA,news,news_query,سوي تنبيه كل ساعة حق الأخبار الرياضية,iot_hue_lightoff,0.3311,0.0564,False
+1084,ar-SA,news,news_query,صلاحية,qa_factoid,0.8626,0.0055,False
+1093,ar-SA,news,news_query,اذهب إلى موقع الكتروني لقناة العربية,play_podcasts,0.9938,0.0,False
+1098,ar-SA,datetime,datetime_query,أي يوم في الأسبوع بيكون خمسطعشر مارس,datetime_query,0.4739,0.4739,True
+1108,ar-SA,play,play_music,my desire some country music,play_music,0.9995,0.9995,True
+1115,ar-SA,play,play_music,coordinate all pop song genres vogue,play_music,0.4938,0.4938,True
+1120,ar-SA,news,news_query,هل هناك أي موضوع خاص في السياسة,social_post,0.8308,0.0014,False
+1121,ar-SA,play,play_music,شغل ولهان حق راشد الماجد,qa_factoid,0.7977,0.0031,False
+1123,ar-SA,play,play_music,شغل تاليا هلت سحايبها حق فلاح المسردي,social_post,0.9885,0.0004,False
+1124,ar-SA,play,play_music,خل ارتاح لمحمد عبده جاهزة عشان تشغلها بعد هذي,qa_factoid,0.4475,0.0136,False
+1127,ar-SA,play,play_music,شغل لي جميع الأغاني بترتيب عشوائي,play_music,0.9969,0.9969,True
+1144,ar-SA,play,play_music,ابي موسيقى,play_music,0.9997,0.9997,True
+1148,ar-SA,datetime,datetime_query,ما هو الوقت في الزلفي الآن,iot_hue_lightoff,0.9342,0.0056,False
+1156,ar-SA,news,news_query,آخر أخبار يوم المرأة العالمي,news_query,0.8908,0.8908,True
+1160,ar-SA,weather,weather_query,هل الجو بارد كل مساء هذا الاسبوع,weather_query,0.9994,0.9994,True
+1180,ar-SA,news,news_query,العثور على مقالات يوتيوب اليوم حول ترامب,social_post,0.9792,0.013,False
+1202,ar-SA,datetime,datetime_query,الوقت الحاضر في الرياض,qa_factoid,0.9998,0.0,False
+1238,ar-SA,play,play_music,pandora,qa_factoid,0.1403,0.0391,False
+1249,ar-SA,weather,weather_query,كيف ستكون حالة الطقس هذا الأسبوع,weather_query,0.9983,0.9983,True
+1252,ar-SA,datetime,datetime_query,قل لي الوقت الحالي,qa_factoid,0.9919,0.0052,False
+1294,ar-SA,news,news_query,اسرع لي خبر جوائز الأوسكار,news_query,0.9934,0.9934,True
+1301,ar-SA,news,news_query,خبرني عن السياسية الخارجية حق الملك عبدالله,qa_factoid,0.982,0.0002,False
+1308,ar-SA,weather,weather_query,الحصول على توقعات المناخ اليوم هنا,qa_factoid,0.8611,0.0208,False
+1318,ar-SA,play,play_music,شغل تطبيق الأغاني وشغل لي أغنية,play_music,1.0,1.0,True
+1351,ar-SA,weather,weather_query,هل سيكون الجو جميل في الخارج هذا الأسبوع,weather_query,0.9981,0.9981,True
+1371,ar-SA,news,news_query,وش عندنا في الصفحة الرئيسية حق مجلة زهرة الخليج,social_post,0.9811,0.0009,False
+1377,ar-SA,iot,iot_hue_lightoff,تكفى طفي اللمبات في غرفة ولدي,qa_factoid,0.8528,0.0502,False
+1400,ar-SA,weather,weather_query,أنا غالبا منتبه,qa_factoid,0.9951,0.0,False
+1401,ar-SA,weather,weather_query,أحيانًا أنتبه,qa_factoid,0.9183,0.0002,False
+1404,ar-SA,weather,weather_query,هل يمكنني من فضلك الحصول على الطقس ليوم بكرة هنا في الشارقة,weather_query,0.9989,0.9989,True
+1423,ar-SA,news,news_query,خبرني عن سلمان بن عبد العزيز آل سعود,social_post,0.9908,0.0004,False
+1425,ar-SA,news,news_query,قل لي أي اخبار تأتي من فرنسا,news_query,0.9981,0.9981,True
+1440,ar-SA,play,play_music,قم بتشغيل آخر أغاني خليجية رومانسية,play_music,1.0,1.0,True
+1449,ar-SA,datetime,datetime_query,متى عيد الحب في عام ألفان وثمنطعش,calendar_remove,0.8826,0.0053,False
+1458,ar-SA,weather,weather_query,كم هو حار في الكويت,weather_query,0.999,0.999,True
+1467,ar-SA,play,play_music,شغلي كاظم الساهر,social_post,0.9414,0.0015,False
+1474,ar-SA,news,news_query,إيش في أخبار رياضية اليوم,news_query,0.8246,0.8246,True
+1489,ar-SA,play,play_music,شغل أخر أغاني لوعد,play_music,0.8933,0.8933,True
+1513,ar-SA,weather,weather_query,ما هي درجة الحرارة في الخارج,weather_query,0.9939,0.9939,True
+1533,ar-SA,news,news_query,ما هو الخبر الذي حدث في الجزيرة اليوم,news_query,0.9717,0.9717,True
+1537,ar-SA,datetime,datetime_query,وريني الوقت الحالي في قطر,qa_factoid,0.9736,0.0005,False
+1542,ar-SA,weather,weather_query,الشمس مشرقة هل سيكون الطقس كذلك لبقية اليوم,weather_query,0.998,0.998,True
+1546,ar-SA,play,play_music,summer jams playlist,play_music,0.9787,0.9787,True
+1547,ar-SA,weather,weather_query,ما هو الطقس للموقع حقي هاذ الأسبوع,weather_query,0.9979,0.9979,True
+1549,ar-SA,weather,weather_query,هل سوف تمطر هذا الأسبوع,weather_query,0.9995,0.9995,True
+1554,ar-SA,iot,iot_hue_lightoff,طفي اللمبات,calendar_remove,0.5495,0.026,False
+1581,ar-SA,datetime,datetime_query,ما هو اليوم والشهر والسنة الحاليان,datetime_query,0.9832,0.9832,True
+1589,ar-SA,weather,weather_query,هل سيكون الجو مشمس الثلاثاء المقبل,weather_query,0.9988,0.9988,True
+1593,ar-SA,news,news_query,ضبط إشعارات من أخبار العالم,news_query,0.9879,0.9879,True
+1594,ar-SA,news,news_query,هل يمكنك أن تخبرني آخر الأخبار,news_query,0.297,0.297,True
+1607,ar-SA,datetime,datetime_query,قل لي الوقت الحالي في جيزان,qa_factoid,0.8637,0.0038,False
+1617,ar-SA,news,news_query,نبهني لما يجي موضوع سياسة جديد,qa_factoid,0.3177,0.0216,False
+1636,ar-SA,news,news_query,اعرض لي آخر الأخبار من الوطن,news_query,0.7459,0.7459,True
+1653,ar-SA,weather,weather_query,متى سوف تمطر المرة القادمة,weather_query,0.9923,0.9923,True
+1655,ar-SA,weather,weather_query,هل سوف تثلج غدًا الظهر,weather_query,0.9674,0.9674,True
+1666,ar-SA,news,news_query,احذف أخبار في الست ساعات الماضية,qa_factoid,0.5514,0.0033,False
+1671,ar-SA,play,play_music,شغلي بس الاغاني اللي بين سنة الف و تسعامية و تسعين و الفين,play_music,0.9969,0.9969,True
+1683,ar-SA,weather,weather_query,درجة الحرارة بكرة رح يكون حار نعم أو لا,weather_query,0.9967,0.9967,True
+1684,ar-SA,weather,weather_query,نعم أو لا ستكون درجة الحرارة الغد حار,weather_query,0.9955,0.9955,True
+1692,ar-SA,play,play_music,دور بعظ smooth jazz لي,play_music,0.9986,0.9986,True
+1722,ar-SA,weather,weather_query,ما هي درجة الحرارة الصغرى في الرياض,weather_query,0.9941,0.9941,True
+1750,ar-SA,iot,iot_hue_lightoff,طف لي كل الانوار,qa_factoid,0.8879,0.0821,False
+1759,ar-SA,news,news_query,انطيني الأخبار حق ولي العهد السعودي,qa_factoid,0.9871,0.0042,False
+1760,ar-SA,news,news_query,آخر الأخبار عن الارهاب,news_query,0.1517,0.1517,True
+1777,ar-SA,play,play_music,next song,play_music,0.9552,0.9552,True
+1784,ar-SA,iot,iot_hue_lightoff,طفي غرفة السفرة,iot_hue_lightoff,0.2238,0.2238,True
+1786,ar-SA,iot,iot_hue_lightoff,سكر غرفة النوم الأساسية,lists_remove,0.1726,0.0485,False
+1794,ar-SA,news,news_query,سيزور ترامب روسيا في أي وقت قريب,qa_factoid,0.9988,0.0,False
+1796,ar-SA,datetime,datetime_query,تاريخ اليوم,datetime_query,0.9994,0.9994,True
+1803,ar-SA,news,news_query,الفرق التي تلعب اليوم في الدوري السعودي,qa_factoid,0.5487,0.0262,False
+1811,ar-SA,play,play_music,ابدالي التشغيل وشغلي الموسيقى,play_music,0.9994,0.9994,True
+1832,ar-SA,play,play_music,شغل البوم انغامي,iot_hue_lightoff,0.1934,0.0404,False
+1833,ar-SA,play,play_music,فينا نعمل تكرار مواضيع قائمة التشغيل,play_podcasts,0.5623,0.0341,False
+1866,ar-SA,weather,weather_query,تقرير الطقس الحين,weather_query,0.9558,0.9558,True
+1870,ar-SA,datetime,datetime_query,في أي شهر احنا اليوم,weather_query,0.8372,0.0113,False
+1904,ar-SA,news,news_query,احصل على المنطق,qa_definition,0.9978,0.0,False
+1933,ar-SA,weather,weather_query,هل سيكون هناك هبوط في درجة الحرارة الليلة,weather_query,0.9956,0.9956,True
+1940,ar-SA,play,play_music,song title,play_music,0.9754,0.9754,True
+1962,ar-SA,play,play_music,playlist wacky my,play_music,0.9778,0.9778,True
+1994,ar-SA,play,play_music,my itunes,email_query,0.8756,0.0,False
+1995,ar-SA,play,play_music,شغل نبيل شعيل,qa_factoid,0.8134,0.0021,False
+2007,ar-SA,play,play_music,thirteen,qa_factoid,0.1802,0.0299,False
+2062,ar-SA,play,play_music,some jazz music,play_music,0.9996,0.9996,True
+2085,ar-SA,play,play_music,ابي اسمع اي اغنية كلاسيكية ما عدا اصاله و ماجد المهندس,play_music,1.0,1.0,True
+2098,ar-SA,news,news_query,وش يحصل في العالم هذي الأيام,weather_query,0.6917,0.0037,False
+2108,ar-SA,play,play_music,summer lovin,qa_definition,0.9498,0.0023,False
+2113,ar-SA,recommendation,recommendation_events,قول لي كل الفعاليات الحالية في مدينتي,lists_remove,0.9052,0.0056,False
+2146,ar-SA,datetime,datetime_query,كم بيكون التاريخ في تقويم أم القرى بعد سنتين من الحين,datetime_query,0.6166,0.6166,True
+2156,ar-SA,datetime,datetime_query,أريد أن أعرف الوقت الآن ما هو عليه,qa_factoid,0.9758,0.0024,False
+2160,ar-SA,iot,iot_hue_lightoff,أنا بروح الحين أنام,weather_query,0.8656,0.1042,False
+2178,ar-SA,weather,weather_query,ما هي حالة الطقس الحالية في عسير,weather_query,0.9986,0.9986,True
+2198,ar-SA,datetime,datetime_query,في أي يوم من أيام الأسبوع كان شهر ديسمبر اربعة ثنعش عام الف واربعمية وواحد,datetime_query,0.8488,0.8488,True
+2201,ar-SA,news,news_query,عناوين الجزيرة,email_query,0.9919,0.0001,False
+2203,ar-SA,news,news_query,عناوين الأخبار في العربية نت,news_query,0.9822,0.9822,True
+2220,ar-SA,weather,weather_query,طقس الرياض,qa_factoid,0.7886,0.0072,False
+2225,ar-SA,play,play_music,شغل نقاده حق رابح صقر,qa_factoid,0.5707,0.0003,False
+2230,ar-SA,iot,iot_hue_lightoff,طفي لمبة المطبخ,iot_hue_lightoff,0.8535,0.8535,True
+2237,ar-SA,news,news_query,اقرالي آخر الأخبار العالمية,qa_factoid,0.9054,0.0113,False
+2258,ar-SA,weather,weather_query,هل أحتاج إلى سترة اليوم,lists_remove,0.7446,0.0058,False
+2265,ar-SA,weather,weather_query,أخبرني إيش الطقس في الرياض هالحين,weather_query,0.9997,0.9997,True
+2271,ar-SA,play,play_music,لو سمحت شغل الأغاني الي شريتها وحطيتها في المفضلة,play_music,0.9944,0.9944,True
+2296,ar-SA,news,news_query,خلني على اطلاع على المعطيات مع أسعار البورصة حق اليوم,recommendation_events,0.7014,0.092,False
+2298,ar-SA,iot,iot_hue_lightoff,طفي اللمبات الحين,calendar_remove,0.4769,0.0373,False
+2315,ar-SA,news,news_query,وش الأخبار حق اليوم,qa_factoid,0.9921,0.0012,False
+2316,ar-SA,news,news_query,اليكسا اعطيني عناوين الأخبار,lists_remove,0.5148,0.0007,False
+2320,ar-SA,weather,weather_query,ما هو الطقس هذا الجمعة,weather_query,0.9992,0.9992,True
+2322,ar-SA,weather,weather_query,كيف سيكون الطقس بكرة,weather_query,0.9968,0.9968,True
+2330,ar-SA,datetime,datetime_query,اعرض لي التوقيت المحلي للرياض الحين,qa_factoid,1.0,0.0,False
+2384,ar-SA,news,news_query,ويش اللي يحصل حول العالم,social_post,0.6835,0.0333,False
+2386,ar-SA,news,news_query,أخبرني أخر الأخبار,social_post,0.9827,0.0121,False
+2396,ar-SA,play,play_music,شغل أغاني نبيل سيف,qa_factoid,0.9881,0.0058,False
+2408,ar-SA,play,play_music,دور على أغاني كمان من الفرقة هاذي,play_music,0.9999,0.9999,True
+2412,ar-SA,datetime,datetime_query,هل يمكن أن تخبرني عن الوقت في الرياض,qa_factoid,0.9817,0.0001,False
+2423,ar-SA,weather,weather_query,تكفى أعطيني توقعات الطقس اليوم لمدينة أبها,weather_query,0.9987,0.9987,True
+2438,ar-SA,news,news_query,أرسل أخبار كاظم,news_query,0.9897,0.9897,True
+2441,ar-SA,iot,iot_hue_lightoff,اطفاء ضوء سقيفة حقي,iot_hue_lightoff,0.9999,0.9999,True
+2472,ar-SA,datetime,datetime_query,هل التوقيت الحين صح بالنسبة لموقعي,qa_factoid,1.0,0.0,False
+2496,ar-SA,news,news_query,الأخبار اليومية,news_query,0.9996,0.9996,True
+2497,ar-SA,datetime,datetime_query,كم تاريخ اليوم,datetime_query,0.9965,0.9965,True
+2498,ar-SA,datetime,datetime_query,سيري اليوم هو ما التاريخ,datetime_query,0.9968,0.9968,True
+2527,ar-SA,play,play_music,شغل classic rock,qa_factoid,0.9565,0.0012,False
+2531,ar-SA,play,play_music,تلعب اليكسا أغنية مي من موسيقى راب و الروك الواحد تلو الآخر,play_music,1.0,1.0,True
+2545,ar-SA,weather,weather_query,كيف الجو,iot_hue_lightoff,0.3861,0.342,False
+2548,ar-SA,news,news_query,أي شي مهم في أخبار الميادين,cooking_recipe,0.2046,0.0309,False
+2560,ar-SA,play,play_music,شغل موسيقى عشوائية,play_music,1.0,1.0,True
+2573,ar-SA,play,play_music,شغل spotify حقي رقص شغل قائمة,email_query,0.9037,0.0072,False
+2578,ar-SA,iot,iot_hue_lightoff,طف نور البلكونة,iot_hue_lightoff,0.5735,0.5735,True
+2588,ar-SA,news,news_query,ما هي آخر الأخبار من الجزيرة من فضلك,news_query,0.9045,0.9045,True
+2594,ar-SA,news,news_query,خبرني آخر الأخبار حق البيئة,news_query,0.7292,0.7292,True
+2605,ar-SA,play,play_music,شغلي الموسيقى المفضلة حقي الحين,play_music,0.9964,0.9964,True
+2611,ar-SA,weather,weather_query,توقعات الطقس الحين,weather_query,0.9912,0.9912,True
+2615,ar-SA,weather,weather_query,هل سأحتاج إلى ارتداء جاكيت الاربعاء المقبل,qa_factoid,0.4386,0.0214,False
+2638,ar-SA,news,news_query,اعرض لي أخبار عن ترامب,news_query,0.8324,0.8324,True
+2639,ar-SA,news,news_query,اعرض لي أخبار حق البيئة,qa_factoid,0.6141,0.0008,False
+2651,ar-SA,news,news_query,أخر الاخبار في المنطقة,qa_factoid,0.2033,0.076,False
+2678,ar-SA,weather,weather_query,هل تمطر الليلة,weather_query,0.9996,0.9996,True
+2679,ar-SA,weather,weather_query,هل ستبقى درجة الحرارة كما هي تقريبًا أم ستزداد برودة,weather_query,0.9842,0.9842,True
+2703,ar-SA,play,play_music,اشخاص موسيقى,email_sendemail,0.5658,0.0213,False
+2704,ar-SA,play,play_music,خلنا نسمع شوية روك اوكي,play_music,0.9897,0.9897,True
+2708,ar-SA,play,play_music,olly أبي أرقص شغلي لي شوية rock north roll,play_music,0.9999,0.9999,True
+2709,ar-SA,play,play_music,أولي ابغى اسمع اغاني حزينة اليوم,play_music,0.9999,0.9999,True
+2711,ar-SA,iot,iot_hue_lightoff,طف اللمبات,calendar_remove,0.5638,0.1927,False
+2717,ar-SA,play,play_music,أريد أسمع المستبدة,play_music,0.8761,0.8761,True
+2724,ar-SA,news,news_query,انطيني الأخبار من قناة العربية,play_podcasts,0.7155,0.2556,False
+2770,ar-SA,play,play_music,قم بتشغيل موسيقى من نوع موسيقى الجاز,play_music,1.0,1.0,True
+2774,ar-SA,iot,iot_hue_lightoff,طفي الأنوار,qa_factoid,0.7255,0.0004,False
+2775,ar-SA,iot,iot_hue_lightoff,وقف استخدام اللمبات,iot_hue_lightoff,0.2979,0.2979,True
+2777,ar-SA,weather,weather_query,هل يجب أن أحضر انا مظلة اليوم,weather_query,0.9811,0.9811,True
+2781,ar-SA,play,play_music,من فضلك شغل لي شوية موسيقى الجاز,play_music,0.9997,0.9997,True
+2798,ar-SA,play,play_music,alexa شغلي أغنية بترجعين,play_music,0.9938,0.9938,True
+2801,ar-SA,datetime,datetime_query,كم الساعة في الرياض,weather_query,0.9541,0.0398,False
+2824,ar-SA,datetime,datetime_query,أي يوم بيكون ثلطعش اثنعش,cooking_recipe,0.9872,0.0018,False
+2840,ar-SA,datetime,datetime_query,ثاني يوم في الشهر الجاي راح يكون يوم ايش,calendar_remove,0.9366,0.0168,False
+2859,ar-SA,datetime,datetime_query,ما هو الوقت في مكة,weather_query,0.7691,0.0226,False
+2887,ar-SA,news,news_query,من فضلك وريني أية مقالات مرتبطة بموضوع الطقس في جريدة الوطن السعودية,news_query,0.9795,0.9795,True
+2890,ar-SA,weather,weather_query,الطقس الحالي,weather_query,0.9663,0.9663,True
+2898,ar-SA,news,news_query,هل هناك أي تحديثات بخصوص الانتخابات,news_query,0.9361,0.9361,True
+2914,ar-SA,datetime,datetime_query,قول لي كم التاريخ اليوم,weather_query,0.9825,0.0135,False
+2917,ar-SA,weather,weather_query,تقرير الطقس الاسبوعي,weather_query,0.9453,0.9453,True
+2921,ar-SA,news,news_query,ما هي القصص الإخبارية على الجزيرة موقع الكتروني,news_query,0.5946,0.5946,True
+2927,ar-SA,datetime,datetime_query,كم الساعة في مكة,weather_query,0.9957,0.0014,False
+2931,ar-SA,play,play_music,شغل اول حكايتنا اللي بعده,qa_factoid,0.9953,0.0001,False
+2962,ar-SA,play,play_music,الرجاء تشغيل اغنية من قبل خالد عبدالرحمن,play_music,1.0,1.0,True
+2965,ar-SA,iot,iot_hue_lightoff,قم بإطفاء أضواء المكتب,iot_hue_lightoff,0.9638,0.9638,True
+3002,ar-SA,play,play_music,فور كاتس,social_post,0.6756,0.0069,False
+3031,ar-SA,play,play_music,ابي اشغل الأغنية مره ثانية,play_music,1.0,1.0,True
+3034,ar-SA,weather,weather_query,اخبرني درجة الحرارة,weather_query,0.6047,0.6047,True
+3037,ar-SA,news,news_query,الصفحة الأولى من مقالات الإخبارية من فضلك,news_query,0.9878,0.9878,True
+3039,ar-SA,news,news_query,وش الجديد في الأخبار,news_query,0.9785,0.9785,True
+3060,ar-SA,news,news_query,وش الأخبار من وكالة الأنباء,news_query,0.9936,0.9936,True
+3091,ar-SA,datetime,datetime_query,كم الساعة بتوقيت مكة المكرمة,qa_factoid,0.9258,0.0307,False
+3096,ar-SA,weather,weather_query,كيف الطقس في الرياض,weather_query,0.9975,0.9975,True
+3098,ar-SA,iot,iot_hue_lightoff,إيقاف الأضواء اجعل ها ابيض,iot_hue_lightoff,0.9686,0.9686,True
+3099,ar-SA,news,news_query,أعرض لي بعض الأحداث الحالية,news_query,0.6303,0.6303,True
+3101,ar-SA,news,news_query,أولي شغل الأخبار,news_query,0.2698,0.2698,True
+3116,ar-SA,play,play_music,شغل أفضل أغنية حقي من السنة الي راحت,play_music,0.9981,0.9981,True
+3117,ar-SA,play,play_music,حط شي من ألبوم عبد المجيد عالم موازي,social_post,0.9041,0.0353,False
+3118,ar-SA,datetime,datetime_query,ما هو توقيت القاهرة الآن,qa_factoid,0.9675,0.0104,False
+3124,ar-SA,play,play_music,عشوائية أغنية حقي قائمة تشغيل,play_music,0.9997,0.9997,True
+3146,ar-SA,play,play_music,شغل المسار الأول عبد المجيد من قائمة التشغيل حقي,play_music,1.0,1.0,True
+3167,ar-SA,iot,iot_hue_lightoff,طف لمبات غرفة النوم حقي,iot_hue_lightoff,0.9406,0.9406,True
+3174,ar-SA,play,play_music,شغل اغاني,cooking_recipe,0.7832,0.1864,False
+3205,ar-SA,play,play_music,شغل تجرحني واحبك حق غريب ال مخلص,qa_factoid,0.9822,0.0,False
+3207,ar-SA,play,play_music,وجه بلا تعبيرات المطربه سيدة غاغا,social_post,0.9457,0.0119,False
+3212,ar-SA,calendar,calendar_set,ذكرني أسوي حاجة بعدين,cooking_recipe,0.9906,0.0003,False
+3214,ar-SA,news,news_query,ما هو الوضع الحالي حول الاتفاقية الرباعية لتأمين الحدود مع ليبيا,lists_query,0.1503,0.0479,False
+3228,ar-SA,datetime,datetime_query,أي يوم في الأسبوع بيكون عيد الفطر هاذي السنة,calendar_remove,0.4825,0.0118,False
+3253,ar-SA,weather,weather_query,هل نتوقع هطول بعد الظهر هذا اليوم,weather_query,0.9955,0.9955,True
+3264,ar-SA,play,play_music,reggae music,play_music,0.9996,0.9996,True
+3305,ar-SA,weather,weather_query,ما هو الطقس هذا الاسبوع في الرياض,weather_query,0.9992,0.9992,True
+3306,ar-SA,weather,weather_query,ما هي توقعات الاسبوع,qa_factoid,0.9923,0.0022,False
+3329,ar-SA,news,news_query,أبغى أشوف الأخبار,iot_hue_lightoff,0.3242,0.2332,False
+3337,ar-SA,weather,weather_query,تقرير الطقس عن ثلاثة وثلاثون الفا وسبعة مئة و أربع و سبعين,weather_query,0.9994,0.9994,True
+3338,ar-SA,weather,weather_query,تقرير الطقس جدة,weather_query,0.9255,0.9255,True
+3361,ar-SA,datetime,datetime_query,كم بيكون تاريخ الثلوث الجاي,datetime_query,0.6744,0.6744,True
+3378,ar-SA,iot,iot_hue_lightoff,ما ابي اللمبات في المطبخ,cooking_recipe,0.3268,0.0582,False
+3386,ar-SA,iot,iot_hue_lightoff,خفض اللمبات لدرجة المتوسطة,iot_hue_lightoff,0.8089,0.8089,True
+3400,ar-SA,play,play_music,شغل لي نسخة حية من إلتون جون,qa_factoid,0.3663,0.0196,False
+3401,ar-SA,play,play_music,شغل دحة محمد,qa_factoid,0.9808,0.0003,False
+3406,ar-SA,weather,weather_query,ما هي توقعات العشرة أياما هي توقعات عشر أيام,qa_factoid,0.9421,0.0323,False
+3407,ar-SA,weather,weather_query,هل هناك توقعات مطر أو ثلج هذا الاسبوع,weather_query,0.9976,0.9976,True
+3408,ar-SA,weather,weather_query,هل سيكون الطقس لطيف في هذي العطلة,weather_query,0.9212,0.9212,True
+3426,ar-SA,weather,weather_query,ما هي درجة خارج,iot_hue_lightoff,0.9238,0.0017,False
+3433,ar-SA,play,play_music,اغنية بوب الجديدة,play_music,0.9304,0.9304,True
+3434,ar-SA,play,play_music,أفضل عراقية موسيقى,play_music,0.972,0.972,True
+3441,ar-SA,datetime,datetime_query,هل يوم اثنين وعشرين بيكون ربوع,weather_query,0.9257,0.0261,False
+3444,ar-SA,datetime,datetime_query,هل هيا عشرة,social_post,0.6768,0.006,False
+3447,ar-SA,weather,weather_query,هل سوف تمطر السبت,weather_query,0.999,0.999,True
+3481,ar-SA,play,play_music,شغل أكثر أغنية مشهورة حق راشد الماجد,play_music,0.9919,0.9919,True
+3489,ar-SA,play,play_music,لو سمحت شغل موسيقى الحين,play_music,0.9999,0.9999,True
+3492,ar-SA,play,play_music,حقي معظم أغنية,play_music,0.871,0.871,True
+3503,ar-SA,weather,weather_query,ما هو الطقس في جيزان,weather_query,0.9993,0.9993,True
+3507,ar-SA,weather,weather_query,هل هناك ثلج في التوقعات,iot_hue_lightoff,0.8009,0.0023,False
+3513,ar-SA,play,play_music,فقط حقي قائمة,email_query,0.592,0.0061,False
+3516,ar-SA,weather,weather_query,ما هي احتمالية نزول أمطار في طقس اليوم,weather_query,0.9977,0.9977,True
+3539,ar-SA,play,play_music,لو سمحت شغل حبيبي لعمرو دياب,social_post,0.9685,0.0007,False
+3546,ar-SA,play,play_music,jazz music,play_music,0.9948,0.9948,True
+3550,ar-SA,play,play_music,شغل سعد المجرد شوي,cooking_recipe,0.6847,0.004,False
+3554,ar-SA,play,play_music,هل يمكنك تشغيل أغاني رومانسية,play_music,0.9991,0.9991,True
+3562,ar-SA,play,play_music,مرة أخرى,qa_factoid,0.8427,0.0071,False
+3566,ar-SA,datetime,datetime_query,ما هو الوقت الحالي في جيزان,qa_factoid,0.9926,0.0018,False
+3570,ar-SA,iot,iot_hue_lightoff,turn off lights patio,iot_hue_lightoff,0.9996,0.9996,True
+3576,ar-SA,news,news_query,وش آخر القصص من وكالة الأنباء السعودية,social_post,0.8064,0.0174,False
+3586,ar-SA,weather,weather_query,ما هو الطقس في الرياض,weather_query,0.9992,0.9992,True
+3600,ar-SA,calendar,calendar_set,ذكرني بعد عشرة دقائق,qa_factoid,0.7594,0.0003,False
+3603,ar-SA,news,news_query,وش آخر الأخبار من وكالة الأنباء السعودية,news_query,0.9923,0.9923,True
+3605,ar-SA,news,news_query,ما هي آخر الأخبار على الجزيرة,news_query,0.9833,0.9833,True
+3606,ar-SA,datetime,datetime_query,كم الساعة في جيزان,weather_query,0.975,0.0174,False
+3614,ar-SA,weather,weather_query,إنه يوم مشمس اليوم,weather_query,0.9987,0.9987,True
+3623,ar-SA,news,news_query,ويش يحصل في العالم اليوم,social_post,0.8418,0.1273,False
+3624,ar-SA,news,news_query,الاخبار من قناة العربية,news_query,0.65,0.65,True
+3631,ar-SA,play,play_music,هي قوقل شغلي موسيقى جاز,play_music,0.9987,0.9987,True
+3686,ar-SA,play,play_music,شغل قائمة التشغيل اللي سجلتها لموسيقى rock,play_music,0.9984,0.9984,True
+3714,ar-SA,play,play_music,شغل قائمة الاغاني حقتي و ابدأ من الاخير,play_music,1.0,1.0,True
+3717,ar-SA,play,play_music,من فضلك شغل أشهر اغاني التسعينيات حقي,play_music,0.9998,0.9998,True
+3723,ar-SA,play,play_music,أريد اسمع عبدالله رويشد ناديلي بعد هذي الأغنية,play_music,0.9999,0.9999,True
+3725,ar-SA,datetime,datetime_query,كم تاريخ اليوم,datetime_query,0.9965,0.9965,True
+3727,ar-SA,play,play_music,شغلي احلف حق أحلام,email_sendemail,0.9994,0.0,False
+3750,ar-SA,news,news_query,قولي إذا ظهرت أي أخبار جديدة عن الفيضان هل يمكنك إخباري على الفور,news_query,0.6003,0.6003,True
+3779,ar-SA,play,play_music,تشغيل قائمة تشغيل يوتيوب فارغة,play_podcasts,0.8777,0.114,False
+3780,ar-SA,play,play_music,شغل أغاني كلاسيكية من قائمة التشغيل الخاص بي,play_music,0.9998,0.9998,True
+3784,ar-SA,weather,weather_query,أعطني تقريرًا عن الطقس في جدة,weather_query,0.9998,0.9998,True
+3785,ar-SA,iot,iot_hue_lightoff,طفي لمبة الحمام لو سمحت,lists_remove,0.294,0.1219,False
+3822,ar-SA,news,news_query,اوجدلي معلومات عن السيارات,qa_factoid,0.334,0.0183,False
+3852,ar-SA,weather,weather_query,ما نوع الطقس الذي يواجهونه في الرياض في الوقت الحالي,weather_query,0.9981,0.9981,True
+3859,ar-SA,play,play_music,شغل لو سمحت قائمة أفضل أغاني rap عندي,qa_factoid,0.9389,0.0344,False
+3907,ar-SA,play,play_music,شغل لي أشهر أغاني السنة اللي فاتت,play_music,0.9996,0.9996,True
+3911,ar-SA,play,play_music,أريد أسمع أي أغاني لاقت انتشار هذه السنة,play_music,0.9996,0.9996,True
+3912,ar-SA,play,play_music,dance and country,play_music,0.6191,0.6191,True
+3936,ar-SA,weather,weather_query,كم درجة الحرارة,datetime_query,0.8496,0.0336,False
+3960,ar-SA,datetime,datetime_query,قل الوقت,qa_factoid,0.8546,0.0014,False
+3967,ar-SA,play,play_music,rap,qa_factoid,0.5852,0.0441,False
+3980,ar-SA,play,play_music,من فضلك شغل شكلك ل شيرين,social_post,0.976,0.0006,False
+3982,ar-SA,play,play_music,لو سمحت اختار الأغنية الأولى من مكتبة itunes,recommendation_events,0.4752,0.149,False
+3993,ar-SA,iot,iot_hue_lightoff,في مجال اطفئ الأنوار,iot_hue_lightoff,0.5544,0.5544,True
+3995,ar-SA,datetime,datetime_query,قولي أي يوم من الاسبوع هو عيد الرعب,qa_factoid,0.9939,0.0002,False
+4001,ar-SA,news,news_query,ما حدث على أصحاب ولا أعز,social_post,0.9981,0.0,False
+4023,ar-SA,news,news_query,ماذا يوجد في الأخبار,lists_query,0.3397,0.1903,False
+4031,ar-SA,play,play_music,شغلي أغنية أهواك,play_music,0.9998,0.9998,True
+4040,ar-SA,play,play_music,song i listen the most,play_music,0.9989,0.9989,True
+4058,ar-SA,play,play_music,some rap music,play_music,0.9995,0.9995,True
+4073,ar-SA,datetime,datetime_query,ما هو اليوم الخامس,datetime_query,0.8773,0.8773,True
+4077,ar-SA,iot,iot_hue_lightoff,طفي لمبات المطبخ,cooking_recipe,0.4103,0.2285,False
+4088,ar-SA,iot,iot_hue_lightoff,turn off overhead light in,iot_hue_lightoff,0.9999,0.9999,True
+4104,ar-SA,weather,weather_query,كيف سيكون الجو اليوم في الرياض,weather_query,0.9995,0.9995,True
+4116,ar-SA,play,play_music,shuffled playlist,play_music,0.9126,0.9126,True
+4119,ar-SA,news,news_query,اريد ان اعرف كل ما ينكسر عن السد في القاهرة,qa_factoid,0.4074,0.008,False
+4132,ar-SA,weather,weather_query,قل لي النسبة المئوية لفرصة هطول مطر في حفر الباطن لهذا اليوم,qa_factoid,0.9889,0.0095,False
+4136,ar-SA,play,play_music,تقدر من فضلك تشغل فلاح المسردي,social_post,0.9175,0.0024,False
+4152,ar-SA,play,play_music,song every time i see you,play_music,0.8239,0.8239,True
+4168,ar-SA,weather,weather_query,يرجى التحقق من الطقس في مكة,weather_query,0.9989,0.9989,True
+4171,ar-SA,iot,iot_hue_lightoff,طفي النور في المطبخ,cooking_recipe,0.9628,0.02,False
+4177,ar-SA,news,news_query,أعطيني آخر العناوين السياسية في جميع أنحاء العالم,recommendation_events,1.0,0.0,False
+4178,ar-SA,news,news_query,هل هناك أي اخبار من الرئاسة,news_query,0.9989,0.9989,True
+4183,ar-SA,datetime,datetime_query,الوقت الحين في الرياض,qa_factoid,1.0,0.0,False
+4186,ar-SA,datetime,datetime_query,يا قولي ما الوقت الآن,qa_factoid,0.953,0.0208,False
+4187,ar-SA,datetime,datetime_query,يا سيري ما هو الوقت,qa_factoid,0.4862,0.3753,False
+4205,ar-SA,play,play_music,اريد الاستماع إلى limelight ل rush,play_music,0.9276,0.9276,True
+4212,ar-SA,weather,weather_query,تتوقع يمديني اقص العشب في المسا,qa_factoid,0.9866,0.0013,False
+4227,ar-SA,weather,weather_query,هل هناك مطر في توقعات الاسبوع القادم,weather_query,0.9805,0.9805,True
+4232,ar-SA,play,play_music,نعسان العاطفة,social_post,0.6277,0.0009,False
+4236,ar-SA,datetime,datetime_query,صرنا بعد الظهر ولا باقي,weather_query,0.7482,0.0044,False
+4253,ar-SA,datetime,datetime_query,ما هو الوقت الحالي في معيار غرينتش,qa_factoid,0.9932,0.0004,False
+4254,ar-SA,datetime,datetime_query,كم الساعة في منطقة مكة في السعودية,weather_query,0.9551,0.0381,False
+4258,ar-SA,news,news_query,ما هي آخر الأخبار,play_podcasts,0.3814,0.1771,False
+4266,ar-SA,weather,weather_query,ما هو الطقس اليوم,weather_query,0.9989,0.9989,True
+4273,ar-SA,play,play_music,زيديني عشقا,qa_factoid,0.8203,0.0004,False
+4290,ar-SA,weather,weather_query,هل يجب أن أجلب معطف معي الليلة,lists_remove,0.1373,0.0927,False
+4305,ar-SA,play,play_music,major tom song david bowie on,play_music,0.5262,0.5262,True
+4309,ar-SA,datetime,datetime_query,في كم ساعة سيكون منتصف الليل في الرياض,weather_query,0.9059,0.0907,False
+4312,ar-SA,weather,weather_query,هل سيكون الطقس أقل من عشر درجات في الرياض,weather_query,0.9983,0.9983,True
+4313,ar-SA,weather,weather_query,هل سيكون هناك مطر بكرة في الخبر,weather_query,0.9968,0.9968,True
+4336,ar-SA,datetime,datetime_query,كم الساعة في السعودية,weather_query,0.9955,0.0017,False
+4346,ar-SA,iot,iot_hue_lightoff,طفي اللمبات,calendar_remove,0.5495,0.026,False
+4347,ar-SA,iot,iot_hue_lightoff,أوقف أضواء التشغيل,iot_hue_lightoff,0.9983,0.9983,True
+4355,ar-SA,weather,weather_query,كيف حال الطقس في مكاني,weather_query,0.9971,0.9971,True
+4361,ar-SA,play,play_music,بعض أصوات جيدة,qa_factoid,0.9946,0.0,False
+4362,ar-SA,datetime,datetime_query,كم الساعة في الرياض,weather_query,0.9541,0.0398,False
+4376,ar-SA,weather,weather_query,كيف الحال في الخارج اليوم,weather_query,0.8876,0.8876,True
+4377,ar-SA,weather,weather_query,كيف هو الطقس الحالي,weather_query,0.99,0.99,True
+4383,ar-SA,weather,weather_query,ماذا سيكون الطقس بكرة,weather_query,0.9988,0.9988,True
+4391,ar-SA,news,news_query,ما هي العناوين الرئيسية في الجزيرة,lists_query,0.7294,0.0,False
+4400,ar-SA,news,news_query,ما هي المقالات الرائجة في الجزيرة,news_query,0.894,0.894,True
+4402,ar-SA,weather,weather_query,هل سأحتاج إلى حمل برولي اليوم,qa_factoid,0.4455,0.0091,False
+4412,ar-SA,weather,weather_query,ما هو الطقس في مكة,weather_query,0.9993,0.9993,True
+4436,ar-SA,weather,weather_query,أي معطف يجب أن ارتدي,lists_query,0.5894,0.0154,False
+4439,ar-SA,weather,weather_query,كيف هو الطقس في مكة,weather_query,0.9977,0.9977,True
+4449,ar-SA,weather,weather_query,هل ستمطر الساعة وحدة اليوم,weather_query,0.9983,0.9983,True
+4452,ar-SA,play,play_music,شغل أغاني,play_music,0.9987,0.9987,True
+4463,ar-SA,datetime,datetime_query,كم أيام السبت في مارس,weather_query,0.8763,0.0104,False
+4477,ar-SA,play,play_music,song,play_music,0.8462,0.8462,True
+4482,ar-SA,weather,weather_query,هل سأحتاج إلى تجريف الطريق حقي سيارتي هذا الصباح,iot_hue_lightoff,0.4474,0.0103,False
+4486,ar-SA,weather,weather_query,أعطني توقعات الطقس هذا الاسبوع,weather_query,0.9988,0.9988,True
+4487,ar-SA,weather,weather_query,سوف تمطر يوم الخميس,weather_query,0.9985,0.9985,True
+4491,ar-SA,news,news_query,ما آخر أخبار دونالد ترامب,news_query,0.9005,0.9005,True
+4492,ar-SA,news,news_query,ما هي أحدث إحصائيات معدلات الجرائم بالنسبة لمنطقتي,news_query,0.6362,0.6362,True
+4496,ar-SA,news,news_query,وش نشرت عكاظ اليوم,news_query,0.9776,0.9776,True
+4502,ar-SA,datetime,datetime_query,ما هو الوقت في الرياض الآن,qa_factoid,0.8898,0.0222,False
+4524,ar-SA,weather,weather_query,رهي ما هي توقعات الطقس لهذا اليوم,weather_query,0.9994,0.9994,True
+4547,ar-SA,play,play_music,dogwalking playlist,social_post,0.6788,0.2716,False
+4567,ar-SA,news,news_query,اقرالي آخر عناوين الأخبار من موقع الاخبارية,social_post,0.7237,0.2343,False
+4580,ar-SA,datetime,datetime_query,ما هو الوقت في القطيف,qa_factoid,0.8223,0.0718,False
+4587,ar-SA,play,play_music,شغل لي المفضلة حقي,qa_factoid,0.9888,0.0003,False
+4589,ar-SA,calendar,calendar_set,حط تنبيه للمباريات,iot_hue_lightoff,0.9107,0.0091,False
+4606,ar-SA,news,news_query,العثور على معلومات عن الأسهم اليوم,lists_query,0.4932,0.1907,False
+4614,ar-SA,weather,weather_query,هل ستكون درجة الحرارة أعلى من أربعين بكرة,weather_query,0.9984,0.9984,True
+4662,ar-SA,news,news_query,الأخبار من العربية اليكسا,news_query,0.9997,0.9997,True
+4667,ar-SA,datetime,datetime_query,الوقت الحالي في,qa_factoid,0.9998,0.0,False
+4680,ar-SA,weather,weather_query,هل يجب أن أرتدي حذاء مع رباط,qa_factoid,0.3252,0.0236,False
+4689,ar-SA,weather,weather_query,هل تعرف الطقس,weather_query,0.9849,0.9849,True
+4692,ar-SA,play,play_music,شغل لي أغنية لمحمد عبده,play_music,0.9989,0.9989,True
+4710,ar-SA,datetime,datetime_query,في أي يوم عيد الفطر هاذي السنة,calendar_remove,0.7039,0.0138,False
+4764,ar-SA,weather,weather_query,هل سوف تمطر الاثنين,weather_query,0.9989,0.9989,True
+4767,ar-SA,news,news_query,هل هناك أي معلومات جديدة بخصوص الجدار الأزمة مع أوكرانيا,qa_factoid,0.751,0.0247,False
+4772,ar-SA,datetime,datetime_query,قل لي الوقت في هذي المنطقة الزمنية,calendar_remove,0.5278,0.018,False
+4780,ar-SA,datetime,datetime_query,في أي يوم بيكون عيد ميلادي هاذي السنة تاريخ سبعة وعشرين يونيو,calendar_remove,0.5843,0.2553,False
+4784,ar-SA,weather,weather_query,هل أحتاج جاكيت,qa_factoid,0.6754,0.0004,False
+4813,ar-SA,datetime,datetime_query,كم الساعة في مدينة ثانية,weather_query,0.9878,0.0089,False
+4837,ar-SA,news,news_query,في أية أخبار أوللي,qa_factoid,0.6877,0.0239,False
+4838,ar-SA,play,play_music,تشغيل كل موسيقى سهم,play_music,1.0,1.0,True
+4871,ar-SA,weather,weather_query,كيف الحال في الخارج,weather_query,0.5267,0.5267,True
+4881,ar-SA,datetime,datetime_query,البحث للعثور على التوقيت المحلي الحالي والمنطقة الزمنية,qa_factoid,0.9992,0.0002,False
+4882,ar-SA,datetime,datetime_query,كم الساعة في المدينة,weather_query,0.9924,0.0048,False
+4890,ar-SA,calendar,calendar_set,حط علامة على الكارثة المناخية في أميركا,iot_hue_lightoff,0.9677,0.0009,False
+4909,ar-SA,play,play_music,شغل أغاني أنغام,play_music,0.9992,0.9992,True
+4917,ar-SA,weather,weather_query,درجة الحرارة في الخارج,weather_query,0.7125,0.7125,True
+4928,ar-SA,play,play_music,شغل لي قائمة الموسيقى حقي,play_music,0.9982,0.9982,True
+4933,ar-SA,weather,weather_query,راح تمطر الحين,weather_query,0.9961,0.9961,True
+4951,ar-SA,datetime,datetime_query,ابغى اعرف كم الساعة الحين,weather_query,0.9986,0.0002,False
+4953,ar-SA,news,news_query,أخبار الحرب في اليمن,news_query,0.9983,0.9983,True
+4957,ar-SA,datetime,datetime_query,أي يوم من أيام الأسبوع هو ثلاثة وعشرين هذا الشهر,datetime_query,0.9674,0.9674,True
+4960,ar-SA,play,play_music,موسيقى اليوم الثالث,play_music,0.9993,0.9993,True
+4968,ar-SA,qa,qa_factoid,الذي فاز في الانتخابات الرئاسية هذا العام,qa_factoid,0.9999,0.9999,True
+4973,ar-SA,play,play_music,olly شغلي المسافر راح,email_sendemail,0.3479,0.0202,False
+4998,ar-SA,play,play_music,this song next song,play_music,0.9654,0.9654,True
+5009,ar-SA,weather,weather_query,هل سأحتاج إلى شمسية هذا الأسبوع,iot_hue_lightoff,0.6622,0.0673,False
+5016,ar-SA,news,news_query,أخبرني عن أخبار سوق الأسهم,news_query,0.8602,0.8602,True
+5027,ar-SA,datetime,datetime_query,متى يكون يوم الجمعة الثالث عشر,datetime_query,0.6845,0.6845,True
+5037,ar-SA,weather,weather_query,ما مدى البرودة اليوم,weather_query,0.8668,0.8668,True
+5038,ar-SA,weather,weather_query,ما هو الطقس هذا الأسبوع,weather_query,0.999,0.999,True
+5040,ar-SA,weather,weather_query,ما هو الطقس الآن,weather_query,0.9986,0.9986,True
+5062,ar-SA,play,play_music,لو سمحت شغلي اغاني الثمانينات,play_music,0.9986,0.9986,True
+5074,ar-SA,weather,weather_query,كيف كان الطقس في اسبوع,weather_query,0.9969,0.9969,True
+5085,ar-SA,weather,weather_query,ما هي التوقعات ليوم السبت,qa_factoid,0.9427,0.0165,False
+5118,ar-SA,play,play_music,يشبهك قلبي,qa_factoid,0.9999,0.0,False
+5127,ar-SA,news,news_query,إليكم حقيقة الوجبات على عجلات في ميزانية شخص ما,cooking_recipe,0.9362,0.0046,False
+5131,ar-SA,datetime,datetime_query,من فضلك قل لي ما هو الوقت في عسير,weather_query,0.9974,0.0001,False
+5134,ar-SA,play,play_music,big band playlist,play_music,0.8544,0.8544,True
+5156,ar-SA,iot,iot_hue_lightoff,طفي اللمبة الي في الصالة,calendar_remove,0.6918,0.0219,False
+5157,ar-SA,iot,iot_hue_lightoff,olly طفي لمبة الصالة,lists_remove,0.4535,0.1593,False
+5158,ar-SA,play,play_music,من فضلك شغّل لي أحدث أغنية من ألبوم عباس,play_music,0.9997,0.9997,True
+5159,ar-SA,play,play_music,فيك تشغل لي أغنية الفنانة مادونا,play_music,0.9999,0.9999,True
+5160,ar-SA,play,play_music,تقدر من فضلك تشغل أغنية عبدالله رويشد,play_music,1.0,1.0,True
+5176,ar-SA,weather,weather_query,ما نوع الطقس اللي أتوقعه هذا الأسبوع,weather_query,0.9871,0.9871,True
+5196,ar-SA,news,news_query,أريد أن أعرف عن الجزيرة,qa_factoid,0.9625,0.001,False
+5225,ar-SA,datetime,datetime_query,ما هو تاريخ الأربعاء القادم,datetime_query,0.9962,0.9962,True
+5243,ar-SA,iot,iot_hue_lightoff,turn lights off bathroom hall,iot_hue_lightoff,0.999,0.999,True
+5245,ar-SA,news,news_query,اضبط تنبيه حق الاخبار البيئية,iot_hue_lightoff,0.6497,0.0024,False
+5270,ar-SA,news,news_query,ما هي الأخبار العاجلة حاليا,weather_query,0.4711,0.3569,False
+5278,ar-SA,play,play_music,لو سمحت شغل بس موسيقى pop mix,play_music,0.9999,0.9999,True
+5279,ar-SA,play,play_music,sad music player,play_music,0.9969,0.9969,True
+5286,ar-SA,news,news_query,أظهر آخر الأخبار من الجزيرة عن الهجرة,iot_hue_lightoff,0.2573,0.1072,False
+5296,ar-SA,news,news_query,قل لي الحصول على الأخبار المحلية من بي بي سي عربية,recommendation_events,0.7897,0.0051,False
+5297,ar-SA,news,news_query,احصل لي على الأخبار الشائعة من الجزيرة,social_post,0.9935,0.0006,False
+5301,ar-SA,weather,weather_query,كيف سيكون الطقس في عشرين مارس ألفين وسبعة عشر,weather_query,0.9993,0.9993,True
+5307,ar-SA,datetime,datetime_query,هل هو عشرون مارس اليوم,weather_query,0.9992,0.0001,False
+5318,ar-SA,play,play_music,rehman's,email_sendemail,0.9997,0.0,False
+5321,ar-SA,weather,weather_query,اعرض الطقس,weather_query,0.9932,0.9932,True
+5328,ar-SA,play,play_music,روك,email_sendemail,0.9815,0.0,False
+5339,ar-SA,weather,weather_query,حالة التبريد منخفض,weather_query,0.9875,0.9875,True
+5341,ar-SA,datetime,datetime_query,تكفى نبهني عالوقت,qa_factoid,0.9964,0.0,False
+5347,ar-SA,play,play_music,شغل موسيقى رقص,play_music,1.0,1.0,True
+5358,ar-SA,datetime,datetime_query,التحديث إلى الوقت الحالي,qa_factoid,0.9931,0.0004,False
+5370,ar-SA,news,news_query,ما آخر القرارات الملكية,recommendation_events,0.2877,0.0508,False
+5378,ar-SA,play,play_music,س,qa_factoid,0.2005,0.03,False
+5401,ar-SA,play,play_music,موسيقى,play_music,0.9984,0.9984,True
+5410,ar-SA,news,news_query,اقرالي أحدث العناوين الرئيسية من الشرق الأوسط,social_post,0.9971,0.0003,False
+5411,ar-SA,news,news_query,ما هي اهم أخبار العربية,lists_query,0.9873,0.0074,False
+5413,ar-SA,play,play_music,music,play_music,0.9988,0.9988,True
+5414,ar-SA,play,play_music,تقدرتحط على موسيقى,play_music,0.9996,0.9996,True
+5427,ar-SA,datetime,datetime_query,ما هو الوقت في السعودية الآن,weather_query,0.9292,0.0014,False
+5433,ar-SA,weather,weather_query,هل سوف تمطر لاحقا,qa_factoid,0.9925,0.0045,False
+5439,ar-SA,weather,weather_query,هل أحتاج مظلة مساءاً,weather_query,0.7322,0.7322,True
+5465,ar-SA,weather,weather_query,هل يمكنني ارتداء الصندل حقي اليوم,cooking_recipe,0.5024,0.0109,False
+5468,ar-SA,weather,weather_query,هل أحتاج إلى أخذ نظارات شمسية,lists_remove,0.4566,0.0087,False
+5524,ar-SA,weather,weather_query,الطقس الحين,qa_factoid,0.7999,0.0092,False
+5529,ar-SA,weather,weather_query,في أي وقت تنصحني أتمشى,qa_factoid,0.998,0.0,False
+5557,ar-SA,play,play_music,reggae,iot_hue_lightoff,0.31,0.1395,False
+5577,ar-SA,weather,weather_query,سأطلب معطف مطري إذا كان الجو مرة عاصق عشية,iot_hue_lightoff,0.4229,0.1786,False
+5578,ar-SA,weather,weather_query,سأحتاج إلى جوارب دافئة في الشتاء في الصباح,weather_query,0.9472,0.9472,True
+5584,ar-SA,iot,iot_hue_lightoff,لو سمحت طف اللمبات,email_sendemail,0.9955,0.0002,False
+5590,ar-SA,weather,weather_query,اعرض درجة الحرارة,calendar_remove,0.3897,0.2942,False
+5593,ar-SA,play,play_music,عمالقة البنوك والصلب,social_post,0.5049,0.0176,False
+5619,ar-SA,play,play_music,شغل أغنية سابقة,play_music,0.999,0.999,True
+5627,ar-SA,play,play_music,beatles,social_post,0.4714,0.0117,False
+5640,ar-SA,datetime,datetime_query,تاريخ العرض,datetime_query,0.999,0.999,True
+5650,ar-SA,weather,weather_query,اسأل عن الطقس اليوم المسا,weather_query,0.9979,0.9979,True
+5658,ar-SA,play,play_music,شغلي موسيقى حق ماجد المهندس,play_music,0.9995,0.9995,True
+5661,ar-SA,weather,weather_query,هل يجب أن آخذ معطف مطري معي الآن,lists_remove,0.7921,0.0062,False
+5671,ar-SA,datetime,datetime_query,كم الساعة في الرياض,weather_query,0.9541,0.0398,False
+5678,ar-SA,datetime,datetime_query,أي يوم بيكون في الأسبوع خمسطعشر أغسطس,calendar_remove,0.7824,0.0241,False
+5683,ar-SA,play,play_music,شغل من اللسته حقتي أغاني,play_music,0.9998,0.9998,True
+5688,ar-SA,news,news_query,من فضلك أخبرني عناوين الأخبار,news_query,0.9818,0.9818,True
+5703,ar-SA,datetime,datetime_query,الوقت الآن,qa_factoid,1.0,0.0,False
+5707,ar-SA,play,play_music,my favorites,social_post,0.9065,0.0072,False
+5721,ar-SA,weather,weather_query,اعرضلي طقس الغد في هذه المنطقة,weather_query,0.9973,0.9973,True
+5722,ar-SA,weather,weather_query,اعرض توقعات السبعة أيام هذا الأسبوع,qa_factoid,0.5968,0.0655,False
+5732,ar-SA,weather,weather_query,هل يمكنني تغيير إطارات سيارتي إلى إطارات الشتاء قريبًا,weather_query,0.7719,0.7719,True
+5757,ar-SA,datetime,datetime_query,ثنتين إلا الربع,email_query,0.325,0.0105,False
+5758,ar-SA,weather,weather_query,كيف هو الطقس في مكة,weather_query,0.9977,0.9977,True
+5774,ar-SA,datetime,datetime_query,الوقت الحالي في توقيت مكة,qa_factoid,0.9871,0.0001,False
+5797,ar-SA,weather,weather_query,هل يجب أن أرتدي جاكيت مطري من المطر قبل الخروج,cooking_recipe,0.5967,0.0231,False
+5813,ar-SA,play,play_music,silent song,play_music,0.9942,0.9942,True
+5820,ar-SA,play,play_music,قله عبد المجيد عبد الله,social_post,0.971,0.0,False
+5837,ar-SA,weather,weather_query,أخبرني عن طقس هذا الأسبوع,weather_query,0.9987,0.9987,True
+5871,ar-SA,weather,weather_query,ما توقعات الطقس اليوم,weather_query,0.9986,0.9986,True
+5886,ar-SA,news,news_query,أهم الموضوعات,recommendation_events,0.4432,0.0019,False
+5919,ar-SA,news,news_query,ما هو آخر تحديث الصراع في اليمن,news_query,0.4218,0.4218,True
+5930,ar-SA,news,news_query,أي أخبار عاجلة من الجزيرة,news_query,0.9912,0.9912,True
+5948,ar-SA,play,play_music,شغلي شوية أغاني جيدة من قايمة التشغيل حقتي,play_music,0.9932,0.9932,True
+5953,ar-SA,weather,weather_query,هل مكة أرخص أو أغلى للعيش فيها,lists_query,0.4684,0.0154,False
+5955,ar-SA,weather,weather_query,ما مدى أمان المدينة فيما يتعلق بالقانون والنظام,qa_factoid,0.2973,0.081,False
+5970,ar-SA,play,play_music,أريدك تشغل مين يشبهك,play_radio,0.6276,0.0063,False
+5985,ar-SA,news,news_query,اعرض آخر أخبار جامعة الدول العربية,news_query,0.6704,0.6704,True
+5996,ar-SA,weather,weather_query,هل أحتاج حذاء للثلج حقي بعد الظهر هذا,iot_hue_lightoff,0.9379,0.0359,False
+5997,ar-SA,datetime,datetime_query,ما هو الوقت في المنطقة الزمنية المركزي,qa_factoid,0.9022,0.0545,False
+6023,ar-SA,weather,weather_query,هل ستكون ليلة لزجة,weather_query,0.9795,0.9795,True
+6024,ar-SA,weather,weather_query,هل يجب أن آخذ سترة ذات قبعة أو معطف اليوم للعمل,lists_remove,0.6646,0.0137,False
+6025,ar-SA,weather,weather_query,هل سوف أحتاج واقي شمس بعد الظهر,iot_hue_lightoff,0.514,0.0081,False
+6027,ar-SA,play,play_music,شغل الاغاني المفضلة,play_music,0.9936,0.9936,True
+6039,ar-SA,weather,weather_query,هل سيكون يوم ماطر غداً,weather_query,0.9912,0.9912,True
+6041,ar-SA,iot,iot_hue_lightoff,سلام olly قفل اللمبه لو سمحت,lists_remove,0.3882,0.2052,False
+6045,ar-SA,play,play_music,ضيفي الأغنية الي اخترتها,play_music,0.9838,0.9838,True
+6050,ar-SA,weather,weather_query,هل سأختاج واقي شمس لاحقاً,qa_factoid,0.8068,0.0007,False
+6055,ar-SA,iot,iot_hue_lightoff,نسيت نور الكراج شغال ولا لا,calendar_remove,0.4527,0.097,False
+6059,ar-SA,play,play_music,شغل موسيقى راب,play_music,0.9993,0.9993,True
+6069,ar-SA,weather,weather_query,هي سيكون عواصف اليوم,weather_query,0.9964,0.9964,True
+6073,ar-SA,iot,iot_hue_lightoff,طفي لمبة البلكونة,iot_hue_lightoff,0.9831,0.9831,True
+6074,ar-SA,iot,iot_hue_lightoff,طفي لمبة غرفة النوم الساعة تسعة ونص المسا,iot_hue_lightoff,0.9969,0.9969,True
+6077,ar-SA,news,news_query,أبغى اسمع آخر أخبار العالم من اليوم,play_podcasts,0.3907,0.1174,False
+6093,ar-SA,weather,weather_query,هل يجب أن افتح سقف الشمس,iot_hue_lightoff,0.8051,0.1736,False
+6103,ar-SA,weather,weather_query,مرحباً كيف سيكون الطقس اليوم في الرياض,weather_query,0.9991,0.9991,True
+6116,ar-SA,weather,weather_query,معلومات عن الطقس هذا الأسبوع,weather_query,0.9991,0.9991,True
+6118,ar-SA,datetime,datetime_query,ما هو الوقت في مكة,weather_query,0.7691,0.0226,False
+6127,ar-SA,weather,weather_query,هل تنصح بمظلات,cooking_recipe,0.9906,0.0002,False
+6129,ar-SA,news,news_query,خلني على اطلاع على أخبار العالم,social_post,0.486,0.385,False
+6151,ar-SA,weather,weather_query,اريد ان اعرف الطقس حق اليوم,weather_query,0.9994,0.9994,True
+6172,ar-SA,weather,weather_query,هل ارتداء نظارات شمسية هو خيار جيد اليوم,lists_query,0.1463,0.0796,False
+6177,ar-SA,weather,weather_query,هل سأحتاج إلى مظلة اليوم,weather_query,0.9991,0.9991,True
+6178,ar-SA,weather,weather_query,هل يجب أن أرتدي جاكيت,qa_factoid,0.8806,0.0024,False
+6194,ar-SA,weather,weather_query,كيف هو الطقس اليوم,weather_query,0.9976,0.9976,True
+6289,ar-SA,weather,weather_query,مهلا كيف هو الطقس اليوم,weather_query,0.9982,0.9982,True
+6370,ar-SA,calendar,calendar_query,كيف بيكون أسبوعي الجاي,weather_query,0.9907,0.0003,False
+6372,ar-SA,news,news_query,أخبار الدوري السعودي,news_query,0.9991,0.9991,True
+6403,ar-SA,transport,transport_query,كيف تروح مكان ما,qa_factoid,0.8787,0.0457,False
+6410,ar-SA,news,news_query,ماذا يحدث في فرنسا اليوم,news_query,0.8997,0.8997,True
+6411,ar-SA,weather,weather_query,ما هو الطقس الأربعاء المقبل,weather_query,0.9986,0.9986,True
+6539,ar-SA,calendar,calendar_set,علم اليوم كبداية الرجيم حقي,qa_factoid,0.7936,0.0091,False
+6542,ar-SA,cooking,cooking_recipe,هل الجبن الطري أفضل من الجبن الصلب,qa_definition,0.6584,0.1696,False
+6618,ar-SA,news,news_query,اخبرني أخبار شيقة,qa_factoid,0.9998,0.0,False
+6682,ar-SA,news,news_query,في الانتخابات,qa_factoid,0.2331,0.0393,False
+6683,ar-SA,news,news_query,شؤون اقتصادية,qa_definition,0.5747,0.0026,False
+6713,ar-SA,calendar,calendar_remove,ألغي اجتماع الشغل يوم الربوع,calendar_remove,0.9641,0.9641,True
+6722,ar-SA,calendar,calendar_query,فيه شي لازم تذكرني فيه,qa_factoid,0.5823,0.0138,False
+6725,ar-SA,calendar,calendar_set,ذكرني عن الجدول حقي بعد الظهر,email_sendemail,0.6303,0.0116,False
+6726,ar-SA,calendar,calendar_remove,اجتماع,social_post,0.4891,0.0112,False
+6729,ar-SA,calendar,calendar_remove,ألغي الفطور في بيت رنا,cooking_recipe,0.8032,0.0203,False
+6732,ar-SA,calendar,calendar_set,اجتماع الاحد حقي حماي,social_post,0.987,0.0006,False
+6744,ar-SA,calendar,calendar_set,حط اجتماع مع عمر بكرا عشرة الصباح,social_post,0.9858,0.0006,False
+6746,ar-SA,calendar,calendar_set,سجل الأسبوع الأول من يونيو اجازة في التقويم حقي,qa_factoid,0.9991,0.0,False
+6747,ar-SA,calendar,calendar_query,كم تذكير عندي,qa_factoid,0.9711,0.0003,False
+6755,ar-SA,calendar,calendar_remove,حقي,qa_factoid,0.9999,0.0,False
+6761,ar-SA,calendar,calendar_remove,امسح من التقويم حقي اجتماع الساعة تسعة الصبح,calendar_remove,0.989,0.989,True
+6764,ar-SA,calendar,calendar_set,ذكرني بغسيل الدريشه,social_post,0.4998,0.0147,False
+6774,ar-SA,calendar,calendar_set,سجل موعد للجمعة,calendar_remove,0.9754,0.0178,False
+6785,ar-SA,calendar,calendar_query,ايش التذكير الجاي,qa_factoid,0.2258,0.0176,False
+6789,ar-SA,calendar,calendar_set,ريم السبت الرابعة مساء,calendar_remove,0.3917,0.0457,False
+6798,ar-SA,calendar,calendar_remove,احذفلي موعدي الجاي,iot_hue_lightoff,0.9999,0.0,False
+6801,ar-SA,calendar,calendar_query,ورني اجتماعاتي حق هاذي الجمعة,email_sendemail,0.4099,0.0156,False
+6806,ar-SA,calendar,calendar_query,وريني مواعيدي اللي في التقويم حق هاذي الجمعة بعد الظهر,calendar_query,0.3765,0.3765,True
+6815,ar-SA,calendar,calendar_set,ذكرني بعيد ميلاد ماما قبلها بأسبوع,email_sendemail,1.0,0.0,False
+6819,ar-SA,calendar,calendar_set,olly فيه فرقة بتغني الليلة على الساعة تسعة في البوليفارد ابي اروحه,play_music,0.9954,0.0002,False
+6836,ar-SA,calendar,calendar_set,ذكرني باجتماع بكره على الساعه ستة,email_sendemail,0.536,0.0137,False
+6850,ar-SA,calendar,calendar_query,قائمة جدولي اليوم,lists_remove,0.9553,0.0003,False
+6856,ar-SA,calendar,calendar_set,بكرة اجتماع العاشرة صباحا,calendar_set,0.1559,0.1559,True
+6860,ar-SA,calendar,calendar_query,هل هنالك أي فعاليات قادمة,qa_factoid,0.4375,0.0036,False
+6865,ar-SA,calendar,calendar_set,حط تنبيه لااجتماع بكره الساعة عشرة,calendar_remove,0.7698,0.0079,False
+6878,ar-SA,calendar,calendar_set,موعد مع قسم المحاسبة ثنتين ونص الظهر الجمعة,calendar_query,0.1566,0.0556,False
+6891,ar-SA,calendar,calendar_query,عروض صباحية,recommendation_events,0.6028,0.0089,False
+6892,ar-SA,calendar,calendar_query,فيلم,qa_factoid,0.9958,0.0,False
+6897,ar-SA,calendar,calendar_set,تذكير حمل لينا على خمسة المساء سبعة هالشهر,datetime_query,0.3536,0.0287,False
+6901,ar-SA,calendar,calendar_set,ذكرني الإجتماع الساعة عشرة الصبح بكره,weather_query,0.6022,0.0109,False
+6902,ar-SA,calendar,calendar_set,حط تذكير الشهر الجاي عشان أغير الزيت,iot_hue_lightoff,0.9568,0.0044,False
+6909,ar-SA,calendar,calendar_query,بعد واحد قبل الثالثة بعد الظهر,qa_factoid,0.3929,0.0172,False
+6918,ar-SA,calendar,calendar_remove,امسح المواعيد من التقويم,calendar_remove,0.9949,0.9949,True
+6923,ar-SA,calendar,calendar_set,ذكرني اطبع المستندات الصباح يوم الثلوث,email_sendemail,0.4699,0.018,False
+6926,ar-SA,calendar,calendar_query,الجمعة,qa_factoid,0.6356,0.0011,False
+6928,ar-SA,calendar,calendar_remove,الفعاليات,lists_query,0.3787,0.0153,False
+6936,ar-SA,calendar,calendar_set,دواء التاسعة صباحا,weather_query,0.267,0.044,False
+6937,ar-SA,calendar,calendar_set,الظهر الغداء مع المدير,cooking_recipe,0.7861,0.004,False
+6946,ar-SA,calendar,calendar_query,اجتماعات الأربعاء,recommendation_events,0.2657,0.0386,False
+6958,ar-SA,calendar,calendar_remove,تأكد انه مافيه أي مناسبات في التقويم حقي,qa_factoid,0.9854,0.0053,False
+6959,ar-SA,calendar,calendar_set,اجتماع ساعة,qa_factoid,0.9866,0.0001,False
+6962,ar-SA,calendar,calendar_set,انا السبت السادسة بعد الظهر,calendar_remove,0.2752,0.0411,False
+6964,ar-SA,calendar,calendar_set,إجتماع مديري ساعة وحدة,datetime_query,0.1606,0.0341,False
+6967,ar-SA,calendar,calendar_query,تقدر تتأكد من الحقائق عن هذي المسألة,qa_factoid,1.0,0.0,False
+6968,ar-SA,calendar,calendar_query,اجتماعات اليوم,news_query,0.5087,0.0197,False
+6973,ar-SA,calendar,calendar_set,مؤتمر بكرة مكة المكرمة,social_post,0.0974,0.0402,False
+6974,ar-SA,calendar,calendar_set,عمل الرياض غدا ذكرني,email_sendemail,0.363,0.0058,False
+6980,ar-SA,calendar,calendar_query,عطني قائمة المهمات,lists_remove,0.9322,0.0027,False
+6992,ar-SA,calendar,calendar_query,وريني المواعيد الجاية,calendar_remove,0.931,0.0117,False
+6994,ar-SA,calendar,calendar_set,ذكرني,email_sendemail,0.9995,0.0,False
+6997,ar-SA,calendar,calendar_remove,احذف الفعالية اللي بعدها,qa_factoid,1.0,0.0,False
+7000,ar-SA,calendar,calendar_set,مناسبة جديدة,calendar_remove,0.4169,0.0243,False
+7004,ar-SA,calendar,calendar_set,كل عام,qa_factoid,0.4452,0.0107,False
+7013,ar-SA,calendar,calendar_query,متى رح تبدأ الفعالية,qa_factoid,0.9892,0.0001,False
+7014,ar-SA,calendar,calendar_query,أعطيني جدول نشاطات اليوم,news_query,0.9819,0.0016,False
+7025,ar-SA,calendar,calendar_remove,امسح يوم التأسيس من التقويم,calendar_remove,0.882,0.882,True
+7026,ar-SA,recommendation,recommendation_events,وش الفعاليات المفتوحة في مدينتي هذا الأسبوع,weather_query,0.9747,0.0014,False
+7039,ar-SA,calendar,calendar_set,رتب لي اجتماع الثلاثاء الجاي الساعة احدعش الصبح مع أحمد,calendar_remove,0.2368,0.0256,False
+7044,ar-SA,calendar,calendar_set,ذكرني أن أكون جاهز في الخامسة مساء من فضلك,weather_query,0.381,0.0213,False
+7046,ar-SA,calendar,calendar_set,أضف اجتماع عن بعد في واحد وعشرين الساعة سبعة,iot_hue_lightoff,0.521,0.0041,False
+7055,ar-SA,calendar,calendar_set,رتب لي اجتماع مع محمد الساعة حدعش الظهر يوم الخميس,email_sendemail,0.4205,0.0188,False
+7057,ar-SA,calendar,calendar_set,حدد موعد اجتماع الغدا مع فيصل الأربعاء الظهر,calendar_remove,0.8556,0.0569,False
+7061,ar-SA,calendar,calendar_set,ذكرني قبل أربعة وعشرين ساعة من اجتماعي يوم الجمعة مع مهند,email_sendemail,1.0,0.0,False
+7073,ar-SA,calendar,calendar_set,دور في التقويم حقي عن المناسبة الجاية ونبهني قبل ما تصير,qa_factoid,0.2689,0.028,False
+7080,ar-SA,calendar,calendar_remove,إلغاء كل شي في التقويم حقي,qa_factoid,0.2567,0.2208,False
+7087,ar-SA,calendar,calendar_remove,ألغي اجتماع بكره من التقويم حقي,calendar_remove,0.8959,0.8959,True
+7098,ar-SA,calendar,calendar_set,ضيف مصاريف سيارتي للتقويم حقي يوم اثنعش,cooking_recipe,0.6934,0.0245,False
+7100,ar-SA,calendar,calendar_set,ذكريني قبل يوم من موعد استحقاق السيارة حقتي,qa_factoid,0.9993,0.0,False
+7111,ar-SA,calendar,calendar_query,في أي وقت موعد الطبيب يوم الحادي والثلاثين من مارس,datetime_query,0.4582,0.0233,False
+7113,ar-SA,calendar,calendar_query,هل هناك أي مناسبات وسط البلد آخر الأسبوع,weather_query,0.3904,0.0124,False
+7117,ar-SA,calendar,calendar_remove,اسحب على المواعيد في يوم تسعطعش من التقويم حقي,calendar_remove,0.9999,0.9999,True
+7120,ar-SA,calendar,calendar_query,اعرضلي جدول مواعيدي اليوم,calendar_query,0.7329,0.7329,True
+7122,ar-SA,calendar,calendar_set,ممكن تكرر هذا الموعد,qa_factoid,0.999,0.0,False
+7140,ar-SA,calendar,calendar_set,حط منبه عشان ينبهني قبل ساعة من اجتماع الغدا,iot_hue_lightoff,0.6436,0.009,False
+7141,ar-SA,calendar,calendar_query,هذا البرنامج مجدول,qa_factoid,0.7092,0.0118,False
+7151,ar-SA,calendar,calendar_set,حدد تذكير حق كل يوم أحد فردي,qa_factoid,0.7981,0.0022,False
+7152,ar-SA,calendar,calendar_set,سجل الغدا كل يوم الساعة اثنعش ونص,calendar_set,0.5392,0.5392,True
+7161,ar-SA,calendar,calendar_set,ذكرني هاذي المناسبة في المستقبل,qa_factoid,0.9895,0.0001,False
+7170,ar-SA,calendar,calendar_set,اليوم عيد ميلاد أمي ارسل لي إشعار كل عام في نفس التاريخ,recommendation_events,0.8845,0.0054,False
+7181,ar-SA,calendar,calendar_set,صحيني الساعة ستة الصبح يوم الخميس عشان يكون عندي وقت للإجتماع,calendar_remove,0.3629,0.1813,False
+7185,ar-SA,calendar,calendar_query,متى موعد التالي مع دكتور محمد,calendar_remove,0.613,0.0068,False
+7189,ar-SA,calendar,calendar_query,أنا أي حاجه,qa_factoid,0.7743,0.0015,False
+7194,ar-SA,calendar,calendar_set,سجل انه عندي اجتماع بكره,calendar_remove,0.4973,0.0115,False
+7196,ar-SA,calendar,calendar_set,ذكرني الإجتماع مع مريم يوم خمسطعش مارس,social_post,0.9966,0.0002,False
+7199,ar-SA,calendar,calendar_set,حدد إشعار لمدة ثلاث ساعتين وساعة وحدة قبل نهائي اللغة الإنجليزية الأسبوع الجاي,iot_hue_lightoff,0.6587,0.0104,False
+7209,ar-SA,calendar,calendar_set,ممكن تذكرني اطلع الزبالة يوم الثلاثاء,lists_remove,0.6087,0.0044,False
+7219,ar-SA,calendar,calendar_query,حطيت منبه لإجتماع بكره ولا لا,calendar_remove,0.3009,0.0111,False
+7224,ar-SA,calendar,calendar_query,وين المكان اللي بيكون فيه عرس tom,qa_factoid,0.4028,0.0066,False
+7232,ar-SA,calendar,calendar_query,ايش مناسبات الأسبوع الجاي,lists_query,0.6222,0.0092,False
+7257,ar-SA,calendar,calendar_set,ذكرني اتصل على أمي خلال نص ساعة,email_sendemail,1.0,0.0,False
+7258,ar-SA,calendar,calendar_set,تذكير حق إرسال بريد الكتروني إلى المدير بعد ساعة واحدة,email_sendemail,0.6325,0.0029,False
+7262,ar-SA,calendar,calendar_set,ضف تذكير لااجتماع بكره,email_sendemail,0.9777,0.0004,False
+7266,ar-SA,calendar,calendar_query,وش المهمات المعلقة حقي,qa_factoid,0.6245,0.0084,False
+7278,ar-SA,calendar,calendar_set,ذكرني حق عيد ميلاد راوية قبلها بأربع وعشرين ساعة,qa_factoid,0.7978,0.0584,False
+7287,ar-SA,calendar,calendar_set,ذكرني حول الذكرى السنوية قبل يوم,email_sendemail,0.9651,0.0005,False
+7289,ar-SA,calendar,calendar_remove,احداث جابر,email_sendemail,0.9869,0.0,False
+7291,ar-SA,calendar,calendar_set,منع ساعة وحدة من الساعة عشرة الصبح بكرة,calendar_remove,0.7358,0.0025,False
+7292,ar-SA,calendar,calendar_set,حط علامة بقائمتي اني مشغوله بكرة من الساعة أربعة للساعة ستة باليل,qa_factoid,0.9065,0.0217,False
+7293,ar-SA,calendar,calendar_set,حدد موعد على الجدول لمدة ساعة واحدة يوم السبت,calendar_remove,0.8506,0.0705,False
+7294,ar-SA,calendar,calendar_remove,احذف الموعد مع جمال العبدالله من تقويمي,calendar_remove,0.9759,0.9759,True
+7295,ar-SA,calendar,calendar_remove,احذف التقويم حقي لو سمحت,qa_factoid,0.9037,0.0016,False
+7314,ar-SA,calendar,calendar_query,وش عندي اليوم,email_query,0.3268,0.0172,False
+7316,ar-SA,calendar,calendar_query,هل عندي أية مواعيد,calendar_query,0.8967,0.8967,True
+7319,ar-SA,calendar,calendar_query,ماذا لدي اليوم عند الساعة الثانية وأربع دقائق مساء,datetime_query,0.9629,0.0016,False
+7353,ar-SA,email,email_query,علمني عن أحوال جو الرياض في الأسابيع الجاية,weather_query,0.9949,0.0002,False
+7355,ar-SA,calendar,calendar_set,ذكرني أشيك عالشوربة الساعة ستة,recommendation_events,0.8149,0.0033,False
+7380,ar-SA,calendar,calendar_query,اعرض تفاصيل اجتماع اليوم مع الزباين,social_post,0.9916,0.0003,False
+7397,ar-SA,calendar,calendar_query,أبي أعرف اذا فيه فعاليات خططتها للثلاثة الشهور الجاية,qa_factoid,0.9998,0.0,False
+7449,ar-SA,calendar,calendar_set,بالله جدول موعد اجتماع مع هدا الشخص,social_post,0.9301,0.0015,False
+7450,ar-SA,calendar,calendar_set,أحتاج إلى اجتماع عشان أحدد موعد مع هذا الشخص,qa_factoid,0.2316,0.0311,False
+7455,ar-SA,calendar,calendar_set,ذكرني بالحفلة بكره,social_post,0.3815,0.0174,False
+7461,ar-SA,calendar,calendar_set,إعزم الناس على المناسبة,social_post,0.637,0.0025,False
+7463,ar-SA,calendar,calendar_set,علم قروبي بموعد الاجتماع الجديد انه صار بكره,social_post,0.3637,0.0271,False
+7467,ar-SA,calendar,calendar_query,أعطيني أوقات المناسبات,calendar_set,0.8957,0.0058,False
+7477,ar-SA,calendar,calendar_set,ذكرني كل سنة يوم خمسة مارس أجهز هدايا لذكرى الزواج,calendar_remove,0.3672,0.0817,False
+7496,ar-SA,calendar,calendar_query,هل لدي مواعيد اليوم,calendar_query,0.9119,0.9119,True
+7499,ar-SA,calendar,calendar_set,سوي جدول جديد لإجتماع بكرة,calendar_set,0.766,0.766,True
+7500,ar-SA,calendar,calendar_remove,امسح الموعد الجاي,calendar_remove,0.9325,0.9325,True
+7502,ar-SA,calendar,calendar_query,وش فيه على جدول الإجتماع مع أحمد الساعة أربعة العصر,calendar_set,0.4964,0.0751,False
+7503,ar-SA,calendar,calendar_query,وين في الرياض بيكون اجتماع الساعة وحدة الظهر الجمعة,calendar_remove,0.169,0.0558,False
+7520,ar-SA,calendar,calendar_set,ذكرني كل يوم الساعة ثنتين العصر بالغداء,cooking_recipe,0.9251,0.0049,False
+7524,ar-SA,calendar,calendar_query,سلملن اجتماع اليوم الخامسة وعشرون دقيقة مساء,calendar_remove,0.9249,0.0035,False
+7528,ar-SA,calendar,calendar_set,يوم ثلاثطعش صفر هو يوم حفل التخرج من الجامعة لو سمحت ضيفه,calendar_remove,0.4871,0.0115,False
+7531,ar-SA,calendar,calendar_set,أيام الدفع,datetime_query,0.9837,0.0002,False
+7539,ar-SA,calendar,calendar_query,عندي شي,lists_remove,0.2706,0.0112,False
+7542,ar-SA,calendar,calendar_set,ذكرني بهذا بكرة لو سمحت,qa_factoid,0.9997,0.0,False
+7549,ar-SA,calendar,calendar_set,ابي اجتماع الين الساعة ثلاثة,calendar_remove,0.7187,0.0186,False
+7556,ar-SA,calendar,calendar_set,شراء الخضروات كل جمعة,lists_remove,0.7755,0.0103,False
+7557,ar-SA,calendar,calendar_set,تذكير,qa_factoid,0.8039,0.0019,False
+7559,ar-SA,calendar,calendar_set,ذكرني أجيب ملابسي من مغسلة التنظيف الجاف الساعة ثمنية باليل,iot_hue_lightoff,0.3867,0.0226,False
+7563,ar-SA,calendar,calendar_set,ذكرني اجتماع بكرة قبل بساعة,qa_factoid,0.8063,0.0049,False
+7565,ar-SA,calendar,calendar_set,تذكير للاجتماع,email_sendemail,0.9996,0.0,False
+7567,ar-SA,calendar,calendar_set,عيد ميلاد,calendar_remove,0.2427,0.0279,False
+7569,ar-SA,calendar,calendar_query,بكرة,qa_factoid,0.9976,0.0,False
+7570,ar-SA,calendar,calendar_query,ما هي الخطة اليوم,qa_factoid,0.9888,0.0001,False
+7583,ar-SA,calendar,calendar_set,ضيف فعالية اليوم الوطني في التقويم حقك,iot_hue_lightoff,0.7966,0.0104,False
+7596,ar-SA,calendar,calendar_set,please ضف لي اجتماع في مقهى بلكونة ورد الظهر مع مهند,social_post,0.9391,0.0021,False
+7598,ar-SA,calendar,calendar_set,لوسمحت حددلي موعد اجتماع ثاني متوفر مع سعد علشان نناقش الإرهاب,qa_factoid,0.934,0.0018,False
+7606,ar-SA,calendar,calendar_set,ضيف إني بقابل ماجد بكره الساعة ثلاثة,email_sendemail,0.3213,0.0171,False
+7609,ar-SA,calendar,calendar_remove,تذكير اجتماع الثلوث إجتماع,social_post,0.7378,0.0085,False
+7613,ar-SA,calendar,calendar_query,ايش كانت الفعالية الجاية,qa_factoid,0.8756,0.0015,False
+7628,ar-SA,calendar,calendar_set,ذكرني لمن أكون في المكتبة اخذ بطاقة مكتبة جديدة,email_sendemail,0.6739,0.0083,False
+7654,ar-SA,calendar,calendar_set,سجل عيد ميلاد أخوي يوم عشرين أبريل,email_sendemail,0.8935,0.0083,False
+7655,ar-SA,calendar,calendar_set,حط تذكير في عشرين أبريل كعيد ميلاد أخويا,social_post,0.9278,0.0038,False
+7660,ar-SA,calendar,calendar_remove,cancel كل مواعيدي بعد الساعة ثلاثة العصر اليوم وقل لي بالتفاصيل,calendar_remove,0.8981,0.8981,True
+7662,ar-SA,calendar,calendar_query,حقي اجتماع اليوم,qa_factoid,0.7902,0.0038,False
+7664,ar-SA,calendar,calendar_set,غدا سعد,social_post,0.9937,0.0002,False
+7666,ar-SA,calendar,calendar_set,الله يسعدك سجل انه عندي اجتماع مع ماجد الساعة ثلاثه بكره,social_post,0.7497,0.0077,False
+7680,ar-SA,calendar,calendar_remove,في التقويم حقي امسح كل فعاليات golf للشهر هذا,lists_remove,0.7108,0.0605,False
+7686,ar-SA,calendar,calendar_set,ضيف حمد و سعد في تقويم المهرجان,social_post,0.8987,0.005,False
+7690,ar-SA,calendar,calendar_query,ماذا لدي فيما بعد,lists_query,0.2018,0.0194,False
+7693,ar-SA,calendar,calendar_query,هل عندي أي شي مخطط له في واحد وعشرين,qa_factoid,0.6214,0.0079,False
+7697,ar-SA,calendar,calendar_set,تذكير هذا,qa_factoid,1.0,0.0,False
+7711,ar-SA,calendar,calendar_set,مرحبًا ألغوا لي جميع الاجتماعات والمكالمات الأخرى حقي الثاني من اذار لأنه عيد ميلاد سامي ضع علامة حدث في التقويم حقك,calendar_remove,0.884,0.0025,False
+7712,ar-SA,calendar,calendar_set,olly كنسل كل مواعيدي ومكالماتي يوم اثنين مارس وخليها في التقويم مناسبة يوم ميلاد هيثم,email_sendemail,0.9227,0.0026,False
+7718,ar-SA,calendar,calendar_set,سلام أرسل دعوة إجتماع للأستاذ رشيد لإجتماع هاذي الجمعة وقفل التقويم حقي الجمعة بعد الظهر,email_sendemail,0.9897,0.0003,False
+7726,ar-SA,calendar,calendar_set,ضبط منبه كل اثنين لأني أحتاج أسوي شي,cooking_recipe,0.5194,0.0025,False
+7730,ar-SA,calendar,calendar_set,الاثنين,email_query,0.2436,0.0339,False
+7741,ar-SA,calendar,calendar_remove,فضي التقويم حقي يوم السبت,email_sendemail,0.9794,0.0102,False
+7751,ar-SA,calendar,calendar_set,ذكرني كل اثنين,lists_remove,0.9744,0.0011,False
+7762,ar-SA,calendar,calendar_query,تذكيرات,qa_factoid,1.0,0.0,False
+7767,ar-SA,calendar,calendar_set,الرابع من فبراير برج خليفة الثانية مساء,weather_query,0.4993,0.0218,False
+7768,ar-SA,calendar,calendar_set,ضيف التدريب في حديقة الأندلس في أربعة فبراير اثنين بعد الظهر,social_post,0.7335,0.0147,False
+7774,ar-SA,calendar,calendar_set,حقي بكرة,qa_factoid,1.0,0.0,False
+7777,ar-SA,calendar,calendar_query,انا موعد اليوم,qa_factoid,0.9498,0.0004,False
+7778,ar-SA,calendar,calendar_set,ذكرني ايش عندي الأحد بعد الظهر,email_sendemail,0.8935,0.0027,False
+7808,ar-SA,calendar,calendar_set,ام كوافير الخميس الواحدة صباحا,email_sendemail,0.9684,0.0006,False
+7817,ar-SA,calendar,calendar_query,هل هذا صحيح حول هذا الموعد,qa_factoid,0.9989,0.0,False
+7820,ar-SA,calendar,calendar_remove,احداث,qa_factoid,0.9868,0.0005,False
+7836,ar-SA,calendar,calendar_remove,كل احداث,qa_factoid,0.8544,0.0081,False
+7843,ar-SA,calendar,calendar_set,خلني أعرف بعد ساعتين انه لازم أروح محاضرة تطوير النفس الساعة أربعة العصر في قاعة المؤتمرات,calendar_remove,0.8495,0.0115,False
+7844,ar-SA,calendar,calendar_query,وش المنبهات اللي حطيتها,cooking_recipe,0.7476,0.0025,False
+7847,ar-SA,calendar,calendar_set,تسجيل,qa_factoid,0.2739,0.0249,False
+7851,ar-SA,calendar,calendar_set,اجتماع ظهر اليوم,weather_query,0.9343,0.002,False
+7863,ar-SA,calendar,calendar_set,ذكرني أبدأ أطبخ العشا الساعة خمسة العصر,cooking_recipe,1.0,0.0,False
+7870,ar-SA,calendar,calendar_remove,حدث,qa_factoid,0.2495,0.0491,False
+7876,ar-SA,news,news_query,ايش حصل من آخر شهرين,qa_factoid,0.382,0.2308,False
+7878,ar-SA,calendar,calendar_remove,امسح تقويمي,qa_factoid,1.0,0.0,False
+7879,ar-SA,calendar,calendar_query,وش المواعيد الثلاثة الجاية حقي,calendar_remove,0.9883,0.0048,False
+7889,ar-SA,calendar,calendar_query,في أي وقت بتبدأ مباراة الكورة الليلة,qa_factoid,0.9921,0.0001,False
+7890,ar-SA,calendar,calendar_remove,قص الشعر اليوم,qa_definition,0.5175,0.0016,False
+7891,ar-SA,calendar,calendar_remove,وش رايك تكنسل العشا الليلة,cooking_recipe,0.4205,0.0117,False
+7892,ar-SA,calendar,calendar_remove,حدث اليوم,weather_query,0.8385,0.002,False
+7894,ar-SA,calendar,calendar_set,عطني آخر المستجدات عن الانتخابات في ساعة واحدة,news_query,0.8845,0.0031,False
+7902,ar-SA,calendar,calendar_set,حط اجتماع معاي انا و فهد بكره اثنين الظهر,social_post,0.3093,0.0146,False
+7908,ar-SA,calendar,calendar_query,هل احتاج فعل شي اليوم,qa_factoid,0.5372,0.0004,False
+7912,ar-SA,calendar,calendar_remove,alexa احذف عشا مع مهند من التقويم حقي,qa_factoid,0.8588,0.0075,False
+7916,ar-SA,calendar,calendar_set,ذكرني أرمي الزبالة الساعة ستة المسا,qa_factoid,0.309,0.0115,False
+7918,ar-SA,calendar,calendar_set,حط الموعد في التقويم وارسل دعوة لخلود العتيبي,calendar_remove,0.9068,0.0358,False
+7919,ar-SA,calendar,calendar_set,اجتماع جديد سجل هند وخالد من الحضور,social_post,0.6669,0.01,False
+7922,ar-SA,calendar,calendar_remove,افتح المهام واحذف كل المواعيد الجاية,calendar_remove,0.9973,0.9973,True
+7927,ar-SA,calendar,calendar_query,وش لازم أسوي هذا الأسبوع,weather_query,0.5381,0.0137,False
+7946,ar-SA,calendar,calendar_query,وش الحفلات الجاية في دار الأوبرا,play_podcasts,0.5896,0.0009,False
+7953,ar-SA,calendar,calendar_remove,امسح الموعد حق الدكتور يوم السبت الله يسعدك,calendar_remove,0.9973,0.9973,True
+7955,ar-SA,calendar,calendar_set,ضع هذه الفعالية بنموذج متكرر إلى التقويم حقي,qa_factoid,0.9998,0.0,False
+7956,ar-SA,calendar,calendar_set,هل يمكنك جعل هذا الحدث متكرر,qa_factoid,0.9953,0.0,False
+7966,ar-SA,calendar,calendar_query,هل أخبرتك أن تفكرني بشيء ما,recommendation_events,0.8684,0.0005,False
+7970,ar-SA,calendar,calendar_set,ذكرني وقت العرس عشان اشتري هدية,calendar_remove,0.7215,0.0022,False
+7971,ar-SA,calendar,calendar_set,حط منبه قبل يومين من المناسبة,email_sendemail,0.4811,0.0799,False
+7975,ar-SA,calendar,calendar_query,هل فيه قهوجي بالمناسبة,qa_factoid,1.0,0.0,False
+7978,ar-SA,calendar,calendar_query,وش هي تذكيرات قبل ظهر الغد,qa_factoid,0.9976,0.0001,False
+7980,ar-SA,calendar,calendar_set,أخبرني عندما يكون لدي حدث,datetime_query,0.6352,0.0006,False
+7981,ar-SA,calendar,calendar_set,أرسل تنبيه قبل الإجتماع,email_sendemail,0.9085,0.0025,False
+7993,ar-SA,calendar,calendar_remove,احذف كل المناسبات من التقويم حقي,qa_factoid,0.6405,0.1127,False
+8001,ar-SA,calendar,calendar_remove,الحلاقة ت الجمعة,qa_factoid,1.0,0.0,False
+8004,ar-SA,calendar,calendar_set,فهد يبي يقولي عن طلاقنا ممكن تضبطين اجتماع في اقرب فرصة,qa_factoid,0.9953,0.0002,False
+8005,ar-SA,calendar,calendar_set,يوم الإثنين تاريخ عشرين لازم أكلم ابراهيم عن رحلتنا لنهاية الأسبوع,email_sendemail,0.9946,0.0002,False
+8013,ar-SA,calendar,calendar_query,وريني الإجتماع حق الشهر الجاي,qa_factoid,0.8277,0.0069,False
+8029,ar-SA,calendar,calendar_query,ماهي الأحداث القادمة اليوم,news_query,0.9979,0.0001,False
+8033,ar-SA,datetime,datetime_query,في أي يوم يقع عيد الأضحى,weather_query,0.5168,0.0888,False
+8035,ar-SA,calendar,calendar_set,ذكرني أغير زيت السيارة,iot_hue_lightoff,0.7627,0.0061,False
+8037,ar-SA,calendar,calendar_set,ذكرني حق شيء ما في وقت ما,qa_factoid,0.9535,0.0003,False
+8042,ar-SA,calendar,calendar_query,كم عدد الأشخاص الي بيحضرون اجتماعي الجاي,qa_factoid,0.9262,0.001,False
+8043,ar-SA,calendar,calendar_query,في أي وقت موعدي الجاي,qa_factoid,0.9873,0.0001,False
+8044,ar-SA,calendar,calendar_query,ماعندي على الجدول حقي اليوم,qa_factoid,0.4027,0.0125,False
+8055,ar-SA,calendar,calendar_remove,احذف الموعد حقي يوم سبعة مارس,calendar_remove,1.0,1.0,True
+8056,ar-SA,calendar,calendar_query,هو أنا عندي موعد يوم الجمعة,calendar_remove,0.9603,0.0007,False
+8058,ar-SA,calendar,calendar_query,هل عندي اجتماع مبيعات اليوم,recommendation_events,0.7508,0.0064,False
+8073,ar-SA,calendar,calendar_set,حدد اجتماع المبيعات يوم الأربعاء الساعة الحادية عشرة صباحا,recommendation_events,0.6021,0.0225,False
+8079,ar-SA,calendar,calendar_set,حط توقيت للساعة وحده لخبز خبزي,qa_factoid,0.9995,0.0,False
+8084,ar-SA,calendar,calendar_query,وش هو جدول أعمال الحدث,qa_definition,0.3281,0.0236,False
+8085,ar-SA,calendar,calendar_set,أود أن أضيف موعد هذا الأسبوع,calendar_remove,0.9998,0.0001,False
+8100,ar-SA,email,email_sendemail,أرسل email لمواعيدي ياخذون مواعيد ثانية,email_sendemail,1.0,1.0,True
+8107,ar-SA,calendar,calendar_set,حدد حدث عيد ميلاد حمدي,qa_factoid,0.8461,0.0026,False
+8110,ar-SA,calendar,calendar_set,تكفى ضيف الإشراف للتقويم حقي,qa_factoid,1.0,0.0,False
+8116,ar-SA,calendar,calendar_query,في الإطار الزمني لشهر واحد فبراير وستطعش مارس وش حدث الاجتماعات,news_query,0.9277,0.0032,False
+8119,ar-SA,calendar,calendar_query,وين بيكون حفل عيد ميلاد فاطمة,qa_factoid,0.5913,0.0114,False
+8125,ar-SA,calendar,calendar_set,انشئ حدث اجتماع في التقويم لدي,qa_factoid,0.2801,0.01,False
+8126,ar-SA,calendar,calendar_set,سوي جدولة موعد اجتماع في التقويم حقي,iot_hue_lightoff,0.7736,0.0019,False
+8129,ar-SA,calendar,calendar_query,وش تذكيرات باقية للحين,qa_factoid,0.9926,0.0001,False
+8140,ar-SA,calendar,calendar_set,سجل منبه يوم ثلطعش انه عندي غدا مع سحر,weather_query,0.7332,0.0016,False
+8148,ar-SA,calendar,calendar_query,هل تركت لنفسي أي تذكيرات,qa_factoid,0.4439,0.0047,False
+8150,ar-SA,calendar,calendar_query,هل لدي ما تبقى عن حفلة عيد ميلاد,calendar_remove,0.6653,0.0244,False
+8165,ar-SA,calendar,calendar_query,اثنعشر ونص الظهر الحين عندك اجتماع بعد عشرة دقايق,datetime_query,0.5512,0.0081,False
+8182,ar-SA,calendar,calendar_remove,موعد طبيب الأسنان,recommendation_events,0.6007,0.0183,False
+8188,ar-SA,calendar,calendar_query,كم التاريخ,datetime_query,0.994,0.0003,False
+8204,ar-SA,calendar,calendar_set,من فضلك ذكرني حق الذهاب إلى مكتب البريد,email_sendemail,0.6472,0.0019,False
+8206,ar-SA,calendar,calendar_set,ذكرني أشتري هدية لأختي,email_sendemail,0.9972,0.0,False
+8230,ar-SA,calendar,calendar_query,كم مدة اجتماع الغدا يوم الثلاثاء,qa_factoid,0.8113,0.0163,False
+8241,ar-SA,calendar,calendar_remove,امسح كل شي من التقويم حقي لبقية السنة,calendar_remove,0.9113,0.9113,True
+8245,ar-SA,calendar,calendar_set,ابيك تنبهني بحلقات المسجد كل أحد الساعة احدعش الظهر,weather_query,0.2202,0.0398,False
+8248,ar-SA,calendar,calendar_set,حط موعد العشا بكره في التقويم,calendar_remove,0.8977,0.0025,False
+8251,ar-SA,calendar,calendar_set,الأسبوع الجاي غدا,weather_query,0.7366,0.0012,False
+8260,ar-SA,calendar,calendar_set,لو سمحت نبهني قبل بيوم من عيد ميلاد عمر,email_query,0.7789,0.002,False
+8261,ar-SA,calendar,calendar_set,أرسل لي تنبيه قبل ساعة من موعدي,qa_factoid,0.983,0.0005,False
+8269,ar-SA,calendar,calendar_set,حط تنبيه قبل ثلاثين دقيقة من اجتماع يوم الثلوث,iot_hue_lightoff,0.8032,0.0038,False
+8276,ar-SA,calendar,calendar_remove,موعد حقي,qa_factoid,0.9651,0.0153,False
+8280,ar-SA,calendar,calendar_set,أحتاج إلى تعيين تذكير في الخامس عشر من مارس,iot_hue_lightoff,0.8091,0.0056,False
+8284,ar-SA,calendar,calendar_remove,امسح عيد ميلاد من التقويم,calendar_remove,0.917,0.917,True
+8289,ar-SA,calendar,calendar_set,اليوم اجتماع الموظفين أربعة,email_query,0.1868,0.0295,False
+8290,ar-SA,calendar,calendar_set,سجل منبه لإجتماع المدرا الأسبوع الجاي يوم الثلوث,weather_query,0.5589,0.0158,False
+8294,ar-SA,calendar,calendar_set,ضيفه للتقويم و كرره,iot_hue_lightoff,0.6264,0.0164,False
+8300,ar-SA,calendar,calendar_set,احفظ حدث من خمسة لستة المسا في ثمنطعشر مارس,recommendation_events,0.1145,0.0447,False
+8302,ar-SA,calendar,calendar_remove,احذف اجتماع الإثنين الجاي,qa_factoid,0.9789,0.0179,False
+8308,ar-SA,news,news_query,أمس في فترة الظهيرة في سيناء ما كان يدور حوله الاحتجاج,social_post,0.3217,0.0358,False
+8336,ar-SA,calendar,calendar_query,متى غداي مع سوسن,datetime_query,0.4118,0.005,False
+8343,ar-SA,datetime,datetime_query,هل اليوم ربوع,qa_factoid,0.6983,0.0019,False
+8345,ar-SA,calendar,calendar_set,اجتماع,social_post,0.4891,0.0087,False
+8347,ar-SA,calendar,calendar_query,الرابع من كانون الأول,datetime_query,0.1399,0.0371,False
+8358,ar-SA,calendar,calendar_set,ذكرني,email_sendemail,0.9995,0.0,False
+8366,ar-SA,calendar,calendar_set,خل ثمنطعش مارس كموعد متكرر لعيد ميلاد احمد,calendar_remove,0.2729,0.03,False
+8387,ar-SA,calendar,calendar_set,حط منبه للغسيل ثمنية المسا,iot_hue_lightoff,0.9339,0.0016,False
+8388,ar-SA,calendar,calendar_set,أبغى أغسل الملابس الساعة ثمانية بالليل حط تنبيه,weather_query,0.7283,0.0041,False
+8390,ar-SA,calendar,calendar_set,ذكرني بالاجتماع حقي,qa_factoid,0.9995,0.0,False
+8394,ar-SA,calendar,calendar_set,حط منبه كل يوم الظهر عشان آخذ دواي,calendar_remove,0.2681,0.0685,False
+8404,ar-SA,calendar,calendar_query,أبي أعرف أكثر عن هذا الحدث,qa_factoid,0.6971,0.0035,False
+8409,ar-SA,calendar,calendar_remove,احذف العشا حقي بكره,calendar_remove,0.907,0.907,True
+8410,ar-SA,calendar,calendar_remove,امسح موعد العشا حقي يوم الإثنين,calendar_remove,0.9899,0.9899,True
+8413,ar-SA,calendar,calendar_set,نبهني,social_post,0.9272,0.0004,False
+8414,ar-SA,calendar,calendar_set,تذكير يروح عشاء نبيل الجمعة الخامسة مساء,datetime_query,0.2897,0.0316,False
+8415,ar-SA,calendar,calendar_set,اجتماع مكتب نايف ثلاثة الظهر الثلوث,iot_hue_lightoff,0.1928,0.0306,False
+8426,ar-SA,calendar,calendar_query,قولي المواعيد المسجلة من البارحة لهذا الصبح,calendar_query,0.8395,0.8395,True
+8430,ar-SA,calendar,calendar_remove,ألغي كل المواعيد حقي,calendar_remove,0.9987,0.9987,True
+8431,ar-SA,calendar,calendar_remove,احذف كل الفعاليات اللي خططت لها,lists_remove,0.7775,0.105,False
+8436,ar-SA,calendar,calendar_set,سجل اجتماع الغدا اثنعشر الظهر كل ربوع في march لو سمحت,qa_factoid,0.2304,0.0801,False
+8442,ar-SA,calendar,calendar_set,حدث التقويم حقي بهذا الموعد لو سمحت,qa_factoid,0.8827,0.0013,False
+8449,ar-SA,calendar,calendar_set,حط تنبيه لعيد ميلاد بناتي,play_music,0.9687,0.0003,False
+8453,ar-SA,calendar,calendar_set,لو سمحت حط حدث في التقويم حقي وحط عليه علامة كحدث متكرر,qa_factoid,0.3261,0.027,False
+8460,ar-SA,calendar,calendar_query,وريني مناسباتي,email_sendemail,0.9962,0.0,False
+8461,ar-SA,calendar,calendar_query,وش هي مشاريعي لشهر مايو,cooking_recipe,0.9896,0.0006,False
+8466,ar-SA,calendar,calendar_set,تذكير الأربعاء موعد التاسعة صباحا,calendar_remove,0.7536,0.0987,False
+8469,ar-SA,calendar,calendar_query,تقويم حقي اليوم,cooking_recipe,0.4734,0.0024,False
+8474,ar-SA,calendar,calendar_set,حط حفلة عيد ميلاد رنا بكره اثنين الظهر في قاعة الخزامى,cooking_recipe,0.3856,0.054,False
+8494,ar-SA,calendar,calendar_query,كيف بيكون جدولي اليوم,qa_factoid,0.8726,0.0005,False
+8496,ar-SA,calendar,calendar_query,قول الإجتماعات حقي حق بكرة الصبح,qa_factoid,0.9957,0.0001,False
+8498,ar-SA,calendar,calendar_query,خلنا نشوف كل التذكيرات المعلقة,qa_factoid,0.9214,0.0002,False
+8516,ar-SA,calendar,calendar_remove,احذف بند التقويم,calendar_remove,0.3437,0.3437,True
+8520,ar-SA,calendar,calendar_set,حدث,qa_factoid,0.2495,0.0061,False
+8525,ar-SA,calendar,calendar_query,الاجتماعات الثالثة حتى الخامسة,recommendation_events,0.2437,0.0375,False
+8535,ar-SA,calendar,calendar_set,تذكير موعد طبيب الأسنان ساعتين,calendar_remove,0.3298,0.0174,False
+8539,ar-SA,calendar,calendar_set,ذكرني عن,social_post,0.9574,0.0002,False
+8541,ar-SA,calendar,calendar_set,ذكرني لو سمحت,qa_factoid,0.9998,0.0,False
+8553,ar-SA,calendar,calendar_set,ضيف اجتماع مع خالد الساعة تسعة الصبح للتقويم حقي,iot_hue_lightoff,0.2394,0.0261,False
+8559,ar-SA,calendar,calendar_query,عندي اي اجتماع اليوم,recommendation_events,0.3742,0.0591,False
+8562,ar-SA,calendar,calendar_remove,إجتماع ثنتين ظبط الظهر,calendar_remove,0.3175,0.3175,True
+8568,ar-SA,calendar,calendar_set,ممكن ترسل دعوة من التقويم لسامي و جمانة للفطور الساعة احدعش الظهر يوم الثلوث,email_sendemail,0.988,0.0004,False
+8570,ar-SA,calendar,calendar_set,بكرة الثانية ظهراً,iot_hue_lightoff,0.7931,0.0073,False
+8579,ar-SA,calendar,calendar_query,وش المعلومات اللي لازم أعرفها قبل اجتماعاتي اليوم,lists_query,0.6006,0.0174,False
+8585,ar-SA,calendar,calendar_set,ذكرني عندي حفلة عيد ميلاد في الثلاثين,calendar_remove,0.2954,0.0712,False
+8598,ar-SA,calendar,calendar_set,ذكرني أجيب خالد من المطار في الساعة ستة المسا,weather_query,0.9335,0.0026,False
+8618,ar-SA,calendar,calendar_set,ري نباتاتي كل ثلاثاء وخميس وسبت,lists_remove,0.4864,0.0218,False
+8631,ar-SA,calendar,calendar_remove,هذا حقي,qa_factoid,0.9992,0.0003,False
+8635,ar-SA,calendar,calendar_set,طلب الخروف,qa_factoid,0.9249,0.0006,False
+8640,ar-SA,calendar,calendar_set,بكرة المكتبة,qa_factoid,0.1586,0.0425,False
+8642,ar-SA,calendar,calendar_set,اضف اليوم المكالمة الجماعية الساعة أربعة العصر بقائمتي,qa_factoid,0.8898,0.0024,False
+8651,ar-SA,calendar,calendar_set,إعلامي ب حدث في التقويم حقي,qa_factoid,0.9048,0.0022,False
+8653,ar-SA,calendar,calendar_set,تذكير حقي,email_sendemail,0.8537,0.0024,False
+8666,ar-SA,calendar,calendar_remove,امسح كل الفعاليات من التقويم حقي,lists_remove,0.4464,0.3956,False
+8667,ar-SA,calendar,calendar_query,الثلاث شهور اللي راحت كم اجتماع صار مع الأستاذ عبدالله,email_sendemail,0.7968,0.0048,False
+8670,ar-SA,calendar,calendar_remove,احذف المناسبات من التقويم,calendar_remove,0.3374,0.3374,True
+8672,ar-SA,calendar,calendar_query,الحفل الغنائي,play_music,0.9337,0.0032,False
+8674,ar-SA,calendar,calendar_query,وين بيكون الإجتماع حقي الساعة تسعة الصبح,calendar_remove,0.2854,0.0244,False
+8679,ar-SA,calendar,calendar_query,اليوم عيد الأضحى,calendar_remove,0.724,0.0188,False
+8681,ar-SA,calendar,calendar_query,عيد ميلاد,calendar_remove,0.2427,0.0236,False
+8694,ar-SA,calendar,calendar_set,الاجتماع بيكون فيه حمد ومها,social_post,0.656,0.0135,False
+8730,ar-SA,calendar,calendar_set,تذكير حقي حقي الاجتماع الخامس والعشرين من مارس,email_sendemail,0.6712,0.0138,False
+8732,ar-SA,calendar,calendar_remove,امسح كل المواعيد,calendar_remove,0.9997,0.9997,True
+8762,ar-SA,calendar,calendar_query,قول لي وش جدولي لبعد الظهر اليوم,qa_factoid,0.094,0.05,False
+8765,ar-SA,calendar,calendar_set,حط العشا حقي في ناندوز على التقويم اليوم الساعة تسعة,cooking_recipe,0.8506,0.0016,False
+8766,ar-SA,calendar,calendar_query,عندي اجتماع يوم السبت خمسة وعشرين مارس ولا لا,email_sendemail,0.2718,0.0463,False
+8767,ar-SA,calendar,calendar_query,عبد ميلاد أروى يوم اثنعش أبريل صح,email_sendemail,0.3701,0.0062,False
+8769,ar-SA,calendar,calendar_remove,احذف الحدث الجاي,qa_factoid,0.9998,0.0,False
+8771,ar-SA,calendar,calendar_remove,كنسل مشوار السوق إلي رتبته يوم ثلاثة وعشرين مارس,datetime_query,0.8571,0.0006,False
+8774,ar-SA,calendar,calendar_query,هل جدولي يوم سبعة يوليو فاضي بالكامل,calendar_remove,0.5877,0.0011,False
+8781,ar-SA,calendar,calendar_query,بكون فاضية الساعة أربعة العصر ولا لا,weather_query,0.4233,0.054,False
+8782,ar-SA,calendar,calendar_query,هل عندي اجتماعات بعد الظهر,recommendation_events,0.1384,0.0684,False
+8791,ar-SA,calendar,calendar_query,معلومات أكثر عن هاذي الفعالية,qa_factoid,0.9974,0.0,False
+8795,ar-SA,calendar,calendar_query,ورني المنبهات المعلقة,recommendation_events,0.4716,0.0035,False
+8822,ar-SA,recommendation,recommendation_events,معلومات عن الفعاليات الجاية,cooking_recipe,0.4077,0.0356,False
+8824,ar-SA,calendar,calendar_query,وش عندي في الجدول في تاريخ تسعطعش الساعة ثنتين الظهر,datetime_query,0.8905,0.0061,False
+8825,ar-SA,calendar,calendar_set,حط منبه لإجتماعي مع طلال الجمعة الجاية,social_post,0.958,0.0022,False
+8828,ar-SA,calendar,calendar_query,الموعد اللي في التقويم صح ولا لا,qa_factoid,0.9881,0.0002,False
+8846,ar-SA,calendar,calendar_query,عندي أي شي مخطط لأربعة يوليو هاذي السنة,cooking_recipe,0.283,0.0337,False
+8853,ar-SA,calendar,calendar_remove,احذفي كل فعالياتي الجاية,qa_factoid,0.9996,0.0001,False
+8856,ar-SA,calendar,calendar_remove,احذف جميع الأنشطة من التقويم,lists_remove,0.3856,0.2579,False
+8857,ar-SA,calendar,calendar_set,فكرني بالاجتماع الجاي مع ويجز,qa_factoid,0.9239,0.0029,False
+8868,ar-SA,calendar,calendar_set,ذكرني أكلم ماما كل ثلوث الساعة عشرة الصبح,email_sendemail,1.0,0.0,False
+8880,ar-SA,calendar,calendar_set,ذكرني في اجتماع بكرة الساعة تسعة الصبح,weather_query,0.1399,0.0312,False
+8888,ar-SA,calendar,calendar_remove,احذفه,qa_factoid,0.9985,0.0003,False
+8900,ar-SA,calendar,calendar_set,ضع تذكير متكرر حق كل أحد,iot_hue_lightoff,0.5148,0.002,False
+8904,ar-SA,calendar,calendar_query,معلومات الأحداث الأخيرة,news_query,0.8915,0.0027,False
+8906,ar-SA,calendar,calendar_set,حط تاريخ الفعالية في التقويم مع الباقيين,social_post,0.3659,0.0111,False
+8907,ar-SA,calendar,calendar_set,اذكر المناسبة في القويم مع الباقيين,iot_hue_lightoff,0.4271,0.0015,False
+8912,ar-SA,calendar,calendar_query,عطني مواعيد اليوم اللي في التقويم من بعد ستة المسا,calendar_query,0.5884,0.5884,True
+8914,ar-SA,calendar,calendar_query,ما هو موعد موعدي الخاص بي في الرابع من أبريل,calendar_remove,0.9818,0.0005,False
+8916,ar-SA,calendar,calendar_query,وش جدولي لليوم,qa_factoid,0.6249,0.0195,False
+8925,ar-SA,calendar,calendar_remove,ألغي جميع فعاليات التقويم حقي,qa_factoid,0.7126,0.0011,False
+8939,ar-SA,calendar,calendar_set,حفل استقبال بنت وجدان,social_post,0.9962,0.0002,False
+8948,ar-SA,calendar,calendar_set,ظيف حدث اجتماع مع غسان,social_post,0.9976,0.0001,False
+8949,ar-SA,calendar,calendar_remove,من فضلك احذف تذكير,qa_factoid,1.0,0.0,False
+8958,ar-SA,calendar,calendar_query,ورني موعد الإجتماع,qa_factoid,0.9147,0.0008,False
+8960,ar-SA,calendar,calendar_set,أبيك تعاير منبه المسا للإجتماع الجاي,weather_query,0.9951,0.0001,False
+8967,ar-SA,calendar,calendar_set,ذكرني قبل يومين عن عيد ميلاد زوجتي,email_sendemail,0.9999,0.0,False
+8968,ar-SA,calendar,calendar_set,أخبرني شيئا أتذكر فيه هذا الأسبوع,social_post,0.9358,0.0027,False
+8975,ar-SA,calendar,calendar_query,ما هو موعد اجتماع اليوم,calendar_remove,0.66,0.3002,False
+8977,ar-SA,calendar,calendar_set,حدد لي تذكيرات حق تأجيل دفع الفاتورة,qa_factoid,0.9901,0.0002,False
+8978,ar-SA,calendar,calendar_set,أخبرني حق أي اجتماعات مهمة مع المدير خلال الأسبوع,recommendation_events,0.9998,0.0,False
+8985,ar-SA,calendar,calendar_remove,حسناً غوغل احذف عيد ميلاد أسعد من التقويم,calendar_remove,0.4863,0.4863,True
+8990,ar-SA,calendar,calendar_set,سوي فعالية,qa_factoid,0.9662,0.0002,False
+8992,ar-SA,calendar,calendar_set,ورني الإجتماعات,social_post,0.9146,0.0023,False
+9009,ar-SA,calendar,calendar_remove,احذف موعد الذكرى السنوية من التقويم حقي,calendar_remove,0.9117,0.9117,True
+9011,ar-SA,calendar,calendar_query,هل مناسبة عيد الأضحى يوم اربعتعش من هذا الشهر,qa_factoid,0.462,0.0105,False
+9014,ar-SA,calendar,calendar_set,حط تنبيه بيوم ثلاثة وعشرين اكتوبر لشوفة صديقة الكلية,iot_hue_lightoff,0.4409,0.0034,False
+9015,ar-SA,calendar,calendar_remove,احذف كل المواعيد من التقويم حقي,calendar_remove,0.9811,0.9811,True
+9019,ar-SA,calendar,calendar_query,اجتماعات من عشرين لخمس وعشرين يونيو,news_query,0.4488,0.0234,False
+9030,ar-SA,calendar,calendar_remove,احذف من الأجندا الموعد الطبي حقي اليوم,calendar_remove,0.4385,0.4385,True
+9035,ar-SA,calendar,calendar_query,زواج أحمد,email_query,0.3372,0.0255,False
+9043,ar-SA,calendar,calendar_set,المواعيد الجاية في التقويم,calendar_remove,0.9235,0.0126,False
+9053,ar-SA,calendar,calendar_set,حط منبه لموعد اجتماعي مع روان يوم الثلوث,social_post,0.3195,0.0069,False
+9054,ar-SA,calendar,calendar_set,ذكرني بموعدي الثلاثاء مع منى,social_post,0.6138,0.0004,False
+9059,ar-SA,calendar,calendar_set,نبهني في وقت الفعالية,qa_factoid,0.882,0.0021,False
+9061,ar-SA,calendar,calendar_query,وش المعلومات اللي عندي في التذكيرات,qa_factoid,0.9798,0.0002,False
+9062,ar-SA,calendar,calendar_set,ممكن تسجل عيد ميلاد بشاير يوم اثنين وعشرين يونيو,calendar_set,0.5107,0.5107,True
+9074,ar-SA,calendar,calendar_remove,لو سمحت امسح هاذي المناسبة,calendar_remove,0.9879,0.9879,True
+9088,ar-SA,calendar,calendar_remove,امسح كل شيء من التقويم حقي,calendar_remove,0.418,0.418,True
+9095,ar-SA,calendar,calendar_remove,عشا اليوم مع نوف,social_post,0.4414,0.0271,False
+9103,ar-SA,calendar,calendar_query,اجتماع هذا المساء,social_post,0.1394,0.0423,False
+9107,ar-SA,calendar,calendar_query,في أي ساعة يبدأ حفل محمد عبده يوم ثلاثة يونيو,weather_query,0.4285,0.0888,False
+9110,ar-SA,calendar,calendar_set,معرض ملتقى ألوان السعودية سنة ألفين وسبعطعش في خمسة وعشرين مارس حطه لي في تاريخ مشابه,social_post,0.2025,0.0385,False
+9112,ar-SA,calendar,calendar_set,هذا حقي,qa_factoid,0.9992,0.0,False
+9114,ar-SA,calendar,calendar_set,حط تنبيه متكرر لهذا الموعد في التقويم,qa_factoid,0.4413,0.0079,False
+9116,ar-SA,calendar,calendar_query,تقدر تعيد جدولة الاجتماع حقي,qa_factoid,0.9479,0.0009,False
+9121,ar-SA,calendar,calendar_query,وش هي الأيام الي حجزتها,calendar_remove,0.9784,0.0006,False
+9124,ar-SA,calendar,calendar_set,وريني المواعيد في تقويم الشغل حقي للأسبوع الجاي,calendar_query,0.4875,0.3005,False
+9137,ar-SA,calendar,calendar_query,في أي وقت مقهى فخر الكيف يقفل بين الغدا والعشا,qa_factoid,0.6789,0.0316,False
+9138,ar-SA,qa,qa_factoid,متى يبدأ كأس الملك رسميًا,qa_factoid,0.5022,0.5022,True
+9149,ar-SA,calendar,calendar_query,في أي وقت لازم يبدأ حفل عشا عقد القران,qa_factoid,0.9882,0.0003,False
+9153,ar-SA,calendar,calendar_set,العشاء مع مريم السبت,cooking_recipe,0.1173,0.0408,False
+9155,ar-SA,calendar,calendar_set,يوم الجمعة سجل موعد دكتور الأسنان الساعة ثلاثة,calendar_remove,0.9194,0.004,False
+9156,ar-SA,calendar,calendar_set,ذكر,qa_factoid,0.9997,0.0,False
+9175,ar-SA,calendar,calendar_query,هل تم تحديث التقويم حقي في آخر عشر دقايق,qa_factoid,0.5315,0.0151,False
+9182,ar-SA,calendar,calendar_remove,ألغي خططي عشان أجيب أهلي من المطار,email_sendemail,0.7004,0.0928,False
+9187,ar-SA,calendar,calendar_set,دور العملاء اللي بيحضرون الإجتماع,recommendation_events,0.8698,0.0027,False
+9193,ar-SA,calendar,calendar_set,تكفى خلي هذا الموعد يتكرر,calendar_remove,0.6939,0.0017,False
+9194,ar-SA,calendar,calendar_remove,مناسبة هذا حقي,qa_factoid,0.5967,0.2013,False
+9197,ar-SA,calendar,calendar_query,أنا هذا الأسبوع,weather_query,0.8619,0.0059,False
+9198,ar-SA,calendar,calendar_query,تكفى شوف المنبهات حقي,qa_factoid,0.3817,0.0083,False
+9202,ar-SA,play,play_radio,شغل محطة radio حقي,play_radio,1.0,1.0,True
+9204,ar-SA,play,play_radio,ابدا اذاعة روتانا,play_music,0.9996,0.0,False
+9212,ar-SA,play,play_radio,radio,play_radio,1.0,1.0,True
+9216,ar-SA,play,play_radio,شغل محطة الخاص بي,iot_hue_lightoff,0.8231,0.0013,False
+9225,ar-SA,play,play_radio,radio,play_radio,1.0,1.0,True
+9233,ar-SA,play,play_radio,افتح pandora,qa_factoid,0.889,0.0022,False
+9236,ar-SA,play,play_radio,اذهب إلى قناة one hundred and six point nine,play_podcasts,0.9986,0.0,False
+9237,ar-SA,play,play_radio,شغل الإذاعة واعزف محطة one hundred and six point nine,play_podcasts,0.9716,0.0065,False
+9250,ar-SA,play,play_radio,أبغى اسمع الراديو,play_radio,1.0,1.0,True
+9254,ar-SA,play,play_radio,eight f. m. nine hundred and thirty one,qa_factoid,0.9966,0.0002,False
+9263,ar-SA,play,play_radio,شغل برنامج الراديو,play_radio,1.0,1.0,True
+9269,ar-SA,play,play_radio,ولفي محطة روتانا,transport_query,0.562,0.0202,False
+9270,ar-SA,play,play_radio,تسعمائة وسبعة وثلاثون و. م.,qa_factoid,0.2447,0.0281,False
+9275,ar-SA,play,play_radio,شغل بس نجوم أف أم على الراديو,play_radio,0.9994,0.9994,True
+9284,ar-SA,play,play_radio,شغل fm,qa_factoid,0.5022,0.0442,False
+9291,ar-SA,play,play_radio,شغل,qa_factoid,0.909,0.0015,False
+9301,ar-SA,play,play_radio,an f m,qa_factoid,0.941,0.0004,False
+9303,ar-SA,play,play_radio,شغل المدينة اف ام,qa_factoid,0.8794,0.0015,False
+9305,ar-SA,play,play_radio,شغل اذاعة الشرق,play_music,0.4269,0.0182,False
+9316,ar-SA,play,play_radio,شغل اذاعة القرآن الكريم ليا,play_radio,0.991,0.991,True
+9317,ar-SA,play,play_radio,radio now,play_radio,1.0,1.0,True
+9321,ar-SA,play,play_radio,radio now,play_radio,1.0,1.0,True
+9323,ar-SA,play,play_radio,شغل pandora,qa_factoid,0.9942,0.0,False
+9326,ar-SA,play,play_radio,radio station one in,play_radio,1.0,1.0,True
+9327,ar-SA,play,play_radio,اترجاك اعمل بحث جديد على الراديو الآن,recommendation_events,0.4157,0.0932,False
+9330,ar-SA,play,play_radio,شغلي,qa_factoid,0.5541,0.0116,False
+9341,ar-SA,play,play_radio,اليكسا غيّر اذاعة الراديو,play_radio,0.9993,0.9993,True
+9352,ar-SA,play,play_radio,شغل radio لو سمحت,play_radio,1.0,1.0,True
+9353,ar-SA,play,play_radio,راديو,play_radio,0.9999,0.9999,True
+9358,ar-SA,play,play_radio,تفتح قناة الراديو الساعة تسعة وعشر دقايق,play_podcasts,0.9953,0.0042,False
+9361,ar-SA,play,play_radio,اريد استمع ل الراديو,play_radio,0.9994,0.9994,True
+9362,ar-SA,play,play_radio,راديو channels,play_radio,0.9811,0.9811,True
+9363,ar-SA,play,play_radio,يلا نشغل أغاني على radio,play_radio,0.9971,0.9971,True
+9364,ar-SA,play,play_radio,يعزف الموسيقى,play_music,1.0,0.0,False
+9380,ar-SA,play,play_radio,hot one hundred and five,iot_hue_lightoff,0.7154,0.0022,False
+9384,ar-SA,play,play_radio,راديو المدينة,play_radio,0.982,0.982,True
+9394,ar-SA,play,play_radio,radio,play_radio,1.0,1.0,True
+9402,ar-SA,play,play_radio,تسعمائة وتسعة وثمانون ال محطة إذاعية,play_radio,0.944,0.944,True
+9406,ar-SA,play,play_radio,sirius xm radio channel,play_radio,1.0,1.0,True
+9408,ar-SA,play,play_radio,radio,play_radio,1.0,1.0,True
+9426,ar-SA,play,play_radio,المحطة التي تشغل أر بي,qa_factoid,0.8485,0.0012,False
+9438,ar-SA,play,play_radio,تقدر تشغل لي أغنية راب على الراديو,play_radio,0.7549,0.7549,True
+9457,ar-SA,play,play_music,شغل اغنية اي شعور,play_music,0.9999,0.9999,True
+9460,ar-SA,play,play_music,شغل hip hop في التسعينات,qa_factoid,0.7562,0.0203,False
+9471,ar-SA,play,play_radio,بلد محطة الموسيقى,play_music,0.9976,0.0001,False
+9494,ar-SA,play,play_radio,تقدر تشغل اذاعة اف ام اللي تحط أغاني عراقية,play_podcasts,0.5773,0.0541,False
+9506,ar-SA,play,play_radio,wgrr one hundred and three point five,qa_factoid,0.8352,0.0001,False
+9507,ar-SA,play,play_radio,محطة راديو حاليا جورج وسوف,play_radio,0.4996,0.4996,True
+9519,ar-SA,play,play_radio,أي سعودية اف ام قناة,qa_factoid,0.9996,0.0,False
+9520,ar-SA,play,play_radio,radio broadcast,play_radio,0.9999,0.9999,True
+9524,ar-SA,play,play_radio,اريدك تشغل لي البرنامج على اكس ام تين,play_radio,0.9072,0.9072,True
+9528,ar-SA,play,play_radio,n. p. r. and play them out of my speakers,play_music,0.9941,0.002,False
+9541,ar-SA,play,play_radio,حلوة أغنية راديو,play_music,0.9985,0.0001,False
+9542,ar-SA,play,play_radio,radio,play_radio,1.0,1.0,True
+9545,ar-SA,play,play_radio,bob cesca عرض,qa_factoid,0.7922,0.0027,False
+9554,ar-SA,play,play_radio,رومانسي موسيقى ناش و. م. اثنان وتسعون فاصلة سبعة,play_music,0.9945,0.0003,False
+9561,ar-SA,play,play_radio,شغل إذاعة جدة,qa_factoid,0.9903,0.0001,False
+9562,ar-SA,play,play_radio,this program,qa_factoid,0.9808,0.0005,False
+9565,ar-SA,play,play_radio,راديو بدون توقف أغاني,play_music,0.9976,0.001,False
+9568,ar-SA,play,play_radio,أصالة حفلات مباشرة سلسلة,lists_query,0.3634,0.0271,False
+9569,ar-SA,play,play_radio,one hundred and six point seven,iot_hue_lightoff,0.4014,0.0178,False
+9577,ar-SA,play,play_radio,غير المحطة إلى إثنين وثمانين نقطة أربعة,qa_factoid,0.8199,0.0006,False
+9591,ar-SA,play,play_radio,ninety one point three f. m.,iot_hue_lightoff,0.9996,0.0,False
+9592,ar-SA,play,play_podcasts,دورفي البرودكاستات عن تغطية لقضايا الرجل,qa_factoid,0.2774,0.0283,False
+9594,ar-SA,play,play_radio,اف ام. ثلاثة وتسعين فاصلة خمسة راديو أغاني,play_music,0.8993,0.0079,False
+9601,ar-SA,play,play_radio,country radio,play_radio,0.9998,0.9998,True
+9617,ar-SA,play,play_radio,شغل برنامج هذا الصباح على مية وواحد فاصلة تسعة,cooking_recipe,0.3293,0.2624,False
+9619,ar-SA,play,play_radio,car radio,play_radio,1.0,1.0,True
+9620,ar-SA,play,play_radio,فيني احصل على دليل الراديو في غرفة النوم,play_radio,0.7224,0.7224,True
+9629,ar-SA,play,play_radio,لو سمحت تقدر تساعدني عشان اسمع radio,play_radio,1.0,1.0,True
+9630,ar-SA,play,play_radio,شغل لي راديو المدينة,play_radio,1.0,1.0,True
+9632,ar-SA,play,play_radio,radio لو سمحت,play_radio,1.0,1.0,True
+9637,ar-SA,play,play_radio,شغل القايمة حقتي على نجوم اف ام,qa_factoid,0.9999,0.0,False
+9640,ar-SA,play,play_radio,افتح لي سبوتيفي وافتح التمرين,iot_hue_lightoff,0.5097,0.0843,False
+9651,ar-SA,play,play_radio,حط شاهد على جهازي,qa_factoid,0.9999,0.0,False
+9656,ar-SA,play,play_music,شغل لي أحدث أغنية على مكبرات الصوت,play_music,0.9998,0.9998,True
+9706,ar-SA,play,play_music,شغل ضايق صدري,iot_hue_lightoff,0.5629,0.0035,False
+9707,ar-SA,play,play_music,افتح الوسائط وشغل اكثر شخص بالدنيا,iot_hue_lightoff,0.5172,0.0019,False
+9738,ar-SA,play,play_music,من فضلك شغل موسيقى كلاسيكية,play_music,1.0,1.0,True
+9793,ar-SA,play,play_music,شغل أغاني رومانسية,play_music,0.9999,0.9999,True
+9795,ar-SA,play,play_music,كمل اغنية كثير اشتقت,play_music,0.9999,0.9999,True
+9912,ar-SA,cooking,cooking_recipe,أولي كم من الوقت يجب أن اسلق البيض,qa_factoid,0.9915,0.0005,False
+9918,ar-SA,cooking,cooking_recipe,شلون أسوي بيتزا,qa_factoid,1.0,0.0,False
+9923,ar-SA,cooking,cooking_recipe,كم من الوقت يجب سلق البيض,qa_factoid,0.9983,0.0001,False
+9924,ar-SA,cooking,cooking_recipe,قل لي وصفة,cooking_recipe,0.9982,0.9982,True
+9930,ar-SA,cooking,cooking_recipe,كم من الوقت يجب أن أسلق بيضة,qa_factoid,0.9898,0.0043,False
+9931,ar-SA,cooking,cooking_recipe,olly كم مدة غلي البيض,qa_factoid,0.9988,0.0,False
+9940,ar-SA,cooking,cooking_recipe,دوري وصفة كيكة الشوكلاتة,cooking_recipe,0.8416,0.8416,True
+9941,ar-SA,cooking,cooking_recipe,كيف اطبخ دجاج بالزبده,cooking_recipe,1.0,1.0,True
+9942,ar-SA,cooking,cooking_recipe,وش هي كل مكونات كيكة الريد فيلفيت,cooking_recipe,0.2919,0.2919,True
+9943,ar-SA,cooking,cooking_recipe,كم من الوقت يستغرق صنع لازانيا بالحضراوات,qa_factoid,0.9982,0.0014,False
+9952,ar-SA,cooking,cooking_recipe,أعطني دليل الطبخ,cooking_recipe,1.0,1.0,True
+9955,ar-SA,cooking,cooking_recipe,ورني مقطع فيديو عن طبخ البرستد,cooking_recipe,0.9012,0.9012,True
+9956,ar-SA,cooking,cooking_recipe,بإيش أقدر أبدل الزبدة,cooking_recipe,0.7434,0.7434,True
+9961,ar-SA,cooking,cooking_recipe,وش أحسن درجة حرارة فرن لتحميص البطاطس,cooking_recipe,0.9951,0.9951,True
+9962,ar-SA,cooking,cooking_recipe,وش هي أحسن طريقة لطهي دجاج مقرمش,cooking_recipe,1.0,1.0,True
+9964,ar-SA,cooking,cooking_recipe,المعرفة حول معالجة الأغذية,qa_definition,0.2436,0.1335,False
+9966,ar-SA,cooking,cooking_recipe,وش اسهل طريقة لطهي مطبق,cooking_recipe,1.0,1.0,True
+9969,ar-SA,cooking,cooking_recipe,بأي مكون نقدر نستبدل الزعفران,qa_definition,0.9876,0.0025,False
+9971,ar-SA,cooking,cooking_recipe,ما يوصل الحرارة أفضل الأواني النحاسية أو الحديد الزهر,qa_factoid,0.6047,0.0268,False
+9976,ar-SA,cooking,cooking_recipe,سلام robot أعطيني قائمة مكونات الكنافة,cooking_recipe,0.9982,0.9982,True
+9977,ar-SA,cooking,cooking_recipe,يرجى البحث في الإنترنت وعرض مقاطع فيديو يوتيوب المناسبة لطهي طعام سعودي,play_podcasts,0.9984,0.0002,False
+9979,ar-SA,cooking,cooking_recipe,اطبخ لي شوية شوفان,cooking_recipe,0.9999,0.9999,True
+9980,ar-SA,cooking,cooking_recipe,وش هو menu اليوم وحط بعض من خضار مسلوقة بعد,lists_remove,0.8056,0.0116,False
+9986,ar-SA,cooking,cooking_recipe,سلق,qa_factoid,0.997,0.0,False
+9994,ar-SA,cooking,cooking_recipe,لوماعليك أمرعلمني طريقة طبخ السمبوسة,cooking_recipe,0.9999,0.9999,True
+10016,ar-SA,cooking,cooking_recipe,كيف طريقة طبخ خروف الأضحية بخمس جمل,cooking_recipe,1.0,1.0,True
+10019,ar-SA,cooking,cooking_recipe,لو ماعليك أمر علمني كيف أخبز أثنعش بسكوت,cooking_recipe,0.9998,0.9998,True
+10023,ar-SA,cooking,cooking_recipe,وش أحتاج لصنع لحم خروف,cooking_recipe,0.9998,0.9998,True
+10027,ar-SA,cooking,cooking_recipe,تعليمات لإعداد وجبة,cooking_recipe,0.9986,0.9986,True
+10031,ar-SA,cooking,cooking_recipe,أبغا وصفة تشمل مكونات الموجودة في ورقة الطلبات,cooking_recipe,0.9428,0.9428,True
+10038,ar-SA,cooking,cooking_recipe,أبغى أفكار حلوة للطبخ,cooking_recipe,0.9994,0.9994,True
+10045,ar-SA,cooking,cooking_recipe,هل يمكن أن تعطيني وصفة الحنيذ,cooking_recipe,0.9999,0.9999,True
+10048,ar-SA,cooking,cooking_recipe,كيف اصنع لحم العجل,cooking_recipe,1.0,1.0,True
+10049,ar-SA,cooking,cooking_recipe,قول لي كيف أسوي المطازيز,cooking_recipe,0.9989,0.9989,True
+10053,ar-SA,cooking,cooking_recipe,كيف أسوي مسخن,cooking_recipe,0.9962,0.9962,True
+10055,ar-SA,cooking,cooking_recipe,وش هي طريقة البرستد,qa_definition,0.8808,0.0439,False
+10061,ar-SA,cooking,cooking_recipe,ماذا أفعل على العشا,cooking_recipe,0.9971,0.9971,True
+10072,ar-SA,cooking,cooking_recipe,قد ايش أطبخ الدجاج في الفرن,cooking_recipe,1.0,1.0,True
+10076,ar-SA,cooking,cooking_recipe,يمكنك استبدال بكربونات الصوديوم و بيكينج باودر,qa_factoid,0.835,0.0136,False
+10077,ar-SA,cooking,cooking_recipe,دوري وصفة للعشاء الليلة,cooking_recipe,0.9992,0.9992,True
+10078,ar-SA,cooking,cooking_recipe,وش لازم أطبخ للعشا,cooking_recipe,1.0,1.0,True
+10080,ar-SA,cooking,cooking_recipe,دعونا نطبخ مجدرة,cooking_recipe,0.9999,0.9999,True
+10081,ar-SA,cooking,cooking_recipe,علمني كيف تسوي كفتة,qa_factoid,0.8871,0.1121,False
+10090,ar-SA,cooking,cooking_recipe,ابغى وصفة للبسبوسة,cooking_recipe,0.9927,0.9927,True
+10093,ar-SA,cooking,cooking_recipe,كيف يسوون المطبق,cooking_recipe,0.9999,0.9999,True
+10097,ar-SA,cooking,cooking_recipe,نفسي في همبرقر جبنه,cooking_recipe,0.5155,0.5155,True
+10099,ar-SA,cooking,cooking_recipe,هل تعرف كيف تطبخ رزبرياني,cooking_recipe,1.0,1.0,True
+10100,ar-SA,cooking,cooking_recipe,تعرف وصفة برياني,qa_factoid,0.9987,0.0,False
+10105,ar-SA,cooking,cooking_recipe,كم من الوقت يجب أن أطهو شريحة اللحم للحصول على متوسط نادر,cooking_recipe,0.9997,0.9997,True
+10107,ar-SA,cooking,cooking_recipe,ابغى وصفة سليق,cooking_recipe,0.8699,0.8699,True
+10119,ar-SA,cooking,cooking_recipe,كم من الوقت تطبخ الخروف بوزن خمسة عشر رطلاً,cooking_recipe,0.9789,0.9789,True
+10125,ar-SA,cooking,cooking_recipe,ما هو الفرق بين الخبز والشواء,qa_factoid,0.991,0.0062,False
+10132,ar-SA,cooking,cooking_recipe,كم من الوقت يجب أن أطهو شريحة لحم الضاني حتى تكون متوسطة,cooking_recipe,0.9993,0.9993,True
+10150,ar-SA,cooking,cooking_recipe,كيف تسوي taco,cooking_recipe,1.0,1.0,True
+10156,ar-SA,cooking,cooking_recipe,أبغا أعرف كيف تسوي الجريش,cooking_recipe,0.9986,0.9986,True
+10164,ar-SA,cooking,cooking_recipe,كم من الوقت أقوم بطهي المعكرونة,cooking_recipe,0.9999,0.9999,True
+10166,ar-SA,cooking,cooking_recipe,ابحث عن وصفة فطيرة تفاح,cooking_recipe,1.0,1.0,True
+10171,ar-SA,cooking,cooking_recipe,وش هي وصفة المطازيز,cooking_recipe,0.9806,0.9806,True
+10177,ar-SA,cooking,cooking_recipe,كيف تطبخ المكبوس,cooking_recipe,1.0,1.0,True
+10182,ar-SA,cooking,cooking_recipe,كم حبة بيض أحتاج عشان أسوي عجة,qa_factoid,0.8565,0.0669,False
+10197,ar-SA,cooking,cooking_recipe,ورني أحسن وصفة للمكرونة,cooking_recipe,0.9997,0.9997,True
+10206,ar-SA,cooking,cooking_recipe,كيف يتم تحضير الأرز,cooking_recipe,1.0,1.0,True
+10213,ar-SA,cooking,cooking_recipe,قايمة بأشهر الوصفات حق البرياني,qa_factoid,1.0,0.0,False
+10214,ar-SA,cooking,cooking_recipe,وصفات أقدر أسويها في ساعة,qa_factoid,0.7272,0.0097,False
+10216,ar-SA,cooking,cooking_recipe,ابحث في الويب عن شراء أدوات خبز للكعك,cooking_recipe,0.9992,0.9992,True
+10217,ar-SA,cooking,cooking_recipe,وصفة الجريش في cookingforu,cooking_recipe,1.0,1.0,True
+10220,ar-SA,cooking,cooking_recipe,وش المكونات الي أحتاجها لخبز أكبر cake,cooking_recipe,1.0,1.0,True
+10224,ar-SA,cooking,cooking_recipe,لازم يكون حلو,cooking_recipe,0.8459,0.8459,True
+10226,ar-SA,cooking,cooking_recipe,انطيني وصفة لتحضير معكرونة,cooking_recipe,1.0,1.0,True
+10426,ar-SA,lists,lists_query,وش ناقص كمان في المذكرات,qa_factoid,0.9334,0.0028,False
+10427,ar-SA,lists,lists_remove,امسح قائمة التسوق حقي,qa_factoid,0.5573,0.3763,False
+10430,ar-SA,lists,lists_remove,امسح أول حاجة في القائمة,lists_remove,0.9528,0.9528,True
+10433,ar-SA,lists,lists_remove,احذف قائمة المهام حقي,qa_factoid,0.7784,0.1562,False
+10440,ar-SA,lists,lists_query,أي فعاليات مميزة في القائمة حقي,email_query,0.495,0.4928,False
+10442,ar-SA,lists,lists_remove,شيل الأحداث من قائمتي,calendar_remove,0.3905,0.1878,False
+10444,ar-SA,lists,lists_remove,أحذف عنصر,calendar_remove,0.6942,0.0635,False
+10451,ar-SA,lists,lists_query,ايش راح أسوي اليوم,weather_query,0.9233,0.0055,False
+10455,ar-SA,lists,lists_query,ايش عندي على قائمة المهام حقي,cooking_recipe,0.8317,0.1291,False
+10462,ar-SA,lists,lists_remove,امسح القائمة,lists_remove,0.6343,0.6343,True
+10493,ar-SA,lists,lists_query,ايش عندي في قائمة المهام حقي,cooking_recipe,0.876,0.0913,False
+10494,ar-SA,lists,lists_remove,امسح المرسمة من أغراض المكتبة,lists_remove,0.6103,0.6103,True
+10497,ar-SA,qa,qa_factoid,ممكن تعطيني قائمة فنادق الخمسة نجوم في الدمام,lists_query,0.9787,0.0002,False
+10508,ar-SA,lists,lists_remove,امسح حاجة من القائمة,lists_remove,0.9119,0.9119,True
+10512,ar-SA,lists,lists_query,سوي قائمة بالأشياء الباقية في استفساري,lists_remove,0.9721,0.0215,False
+10523,ar-SA,lists,lists_remove,امسح من قائمة التشغيل قائمة أغاني الجنادرية,play_music,0.7472,0.2286,False
+10525,ar-SA,lists,lists_remove,احذف قسط سيارتي من التقويم حقي,qa_factoid,0.6533,0.0266,False
+10527,ar-SA,lists,lists_remove,احذف القائمة,qa_factoid,0.9964,0.001,False
+10534,ar-SA,lists,lists_query,كيف قائمة الأشياء اللي بسويها اليوم,cooking_recipe,0.9341,0.0547,False
+10538,ar-SA,lists,lists_query,كرر قائمة التسوق حقي لو سمحت,qa_factoid,0.9048,0.0065,False
+10565,ar-SA,lists,lists_remove,امسح كل القوائم,lists_remove,0.9995,0.9995,True
+10568,ar-SA,lists,lists_remove,امسح قائمة الأغاني القديمة,play_music,0.7995,0.1787,False
+10570,ar-SA,lists,lists_query,افتح قائمة المهام حقي,lists_query,0.5462,0.5462,True
+10571,ar-SA,lists,lists_query,android,iot_hue_lightoff,0.2324,0.0685,False
+10577,ar-SA,lists,lists_query,أعطيني كل القوائم حقي,lists_remove,0.9998,0.0001,False
+10579,ar-SA,lists,lists_remove,رتب قائمة المواقع حقي,social_post,0.9857,0.0086,False
+10588,ar-SA,lists,lists_query,وريني محتويات القايمة,qa_factoid,0.9984,0.0,False
+10590,ar-SA,lists,lists_remove,احذف الصف الثاني من القائمة,lists_remove,0.9544,0.9544,True
+10655,ar-SA,lists,lists_remove,امسح قائمة اسمها وقت الحفلة,lists_remove,0.7347,0.7347,True
+10667,ar-SA,lists,lists_query,اقرأ جداول القائمة,email_query,0.6823,0.2232,False
+10673,ar-SA,lists,lists_remove,لو سمحت امسح القائمة الجاية,lists_remove,0.9973,0.9973,True
+10674,ar-SA,lists,lists_remove,احذف القائمة الحالية,lists_remove,0.8312,0.8312,True
+10679,ar-SA,lists,lists_query,ايش موجود على قائمة المهام حقي اليوم,lists_query,0.9404,0.9404,True
+10684,ar-SA,lists,lists_query,ايش القوائم اللي سألت عنها,lists_query,0.9994,0.9994,True
+10687,ar-SA,lists,lists_remove,اذا كان فيه فعالية عروض امسحها,qa_factoid,0.9798,0.0088,False
+10696,ar-SA,lists,lists_remove,استبدل,calendar_remove,0.7577,0.0211,False
+10699,ar-SA,lists,lists_query,قولي على الأشياء في القائمة,email_query,0.7669,0.2301,False
+10718,ar-SA,lists,lists_remove,ممكن تمسح هذا الغرض من القائمة,lists_remove,0.8878,0.8878,True
+10731,ar-SA,lists,lists_query,اقرالي الموجود في القائمة حقي,qa_factoid,0.9998,0.0,False
+10743,ar-SA,lists,lists_remove,امسح هذا الغرض,qa_factoid,0.9984,0.0004,False
+10753,ar-SA,lists,lists_query,ايش الأشياء اللي حطيتها للحين في قائمة العثيم,lists_remove,0.9547,0.0224,False
+10755,ar-SA,lists,lists_remove,احذف قائمة المهام حقي لو سمحت,lists_remove,0.948,0.948,True
+10756,ar-SA,lists,lists_remove,امسح قائمة التسوق,lists_remove,0.9454,0.9454,True
+10757,ar-SA,lists,lists_query,ايش الحاجات الموجودة في قائمة التسوق حقي,lists_query,0.8846,0.8846,True
+10759,ar-SA,lists,lists_query,اقرالي قائمة التسوق حقي,qa_factoid,0.9501,0.0003,False
+10760,ar-SA,lists,lists_query,قولي لي القائمة اللي كتبتها قبل يومين,email_query,1.0,0.0,False
+10770,ar-SA,lists,lists_remove,احذف الحبوب من قائمة التسوق حقي,lists_remove,0.6596,0.6596,True
+10772,ar-SA,calendar,calendar_remove,امسح موعدي عند دكتورة الأسنان من جدول اليوم,calendar_remove,0.9992,0.9992,True
+10776,ar-SA,lists,lists_query,قائمة التسوق من البقالة جاهزة,lists_remove,0.9951,0.0028,False
+10786,ar-SA,lists,lists_remove,امسح قائمة النشاطات لليوم,lists_remove,0.9523,0.9523,True
+10790,ar-SA,lists,lists_remove,امسح العنصر من القائمة,calendar_remove,0.4892,0.2245,False
+10804,ar-SA,lists,lists_query,اقرأ قائمة البقالة,play_music,0.6876,0.0018,False
+10805,ar-SA,lists,lists_query,ورني القائمة اللي عندي لو سمحت,lists_remove,0.5993,0.0025,False
+10808,ar-SA,lists,lists_remove,امسح آخر شي مسجل,calendar_remove,0.4108,0.409,False
+10824,ar-SA,lists,lists_remove,أولي امسح القائمة,email_query,0.5506,0.037,False
+10825,ar-SA,lists,lists_remove,امسح القائمة,lists_remove,0.6343,0.6343,True
+10827,ar-SA,lists,lists_remove,امسح قائمة البقالة,lists_remove,0.8649,0.8649,True
+10828,ar-SA,lists,lists_remove,امسح الكل,calendar_remove,0.7887,0.1272,False
+10832,ar-SA,calendar,calendar_query,olly ايش خططت بعد كذا,qa_factoid,0.6671,0.0018,False
+10843,ar-SA,lists,lists_remove,امسح الحليب من قائمة المقاضي حقي,qa_factoid,0.7721,0.0464,False
+10846,ar-SA,lists,lists_remove,ما عندي فلوس تكفي اشتري البند التسعطعش الحين تقدر لو سمحت تحذفه من أمازون حقي,lists_remove,0.3664,0.3664,True
+10848,ar-SA,lists,lists_remove,احذف هاذي القائمة من الباقية,qa_factoid,0.5357,0.4562,False
+10851,ar-SA,lists,lists_query,ايش القوائم المتوفرة حقي,lists_query,0.8445,0.8445,True
+10853,ar-SA,lists,lists_remove,شيل هذا من هنا,qa_factoid,0.8379,0.0042,False
+10855,ar-SA,lists,lists_query,ابي أشوف القائمة حقي,lists_query,0.9493,0.9493,True
+10868,ar-SA,lists,lists_query,أولي فيه أي حاجة باقية في القائمة,lists_remove,0.9551,0.007,False
+10887,ar-SA,lists,lists_remove,امسح القائمة حقي,lists_remove,0.9899,0.9899,True
+10895,ar-SA,lists,lists_remove,احذف عنصر من القائمة حقي,lists_remove,0.6924,0.6924,True
+10909,ar-SA,lists,lists_query,أولي أقرأي القائمة لي,email_query,0.9802,0.0033,False
+10927,ar-SA,lists,lists_query,سمعني القائمة حقي,email_query,0.9966,0.0009,False
+10931,ar-SA,lists,lists_query,ايش عندي في قائمة التشغيل حقي,iot_hue_lightoff,0.3136,0.046,False
+10936,ar-SA,lists,lists_remove,امسح قائمة ألبوماتي المفضلة لو سمحت,lists_remove,0.9984,0.9984,True
+10954,ar-SA,lists,lists_query,كم قائمة عندي في جهات الإتصال,lists_query,0.993,0.993,True
+10956,ar-SA,lists,lists_query,ايش المجموعات المسجلة في جهات الإتصال حقي,qa_factoid,0.9869,0.0004,False
+10957,ar-SA,lists,lists_query,ذكرني بعدد القوائم اللي عندي,lists_remove,0.7042,0.0001,False
+10960,ar-SA,lists,lists_remove,امسح هاذي من القائمة,email_query,0.5796,0.3789,False
+10970,ar-SA,lists,lists_remove,امسح آخر جملة,calendar_remove,0.8398,0.1016,False
+10979,ar-SA,lists,lists_query,ايش عندك على قائمتك الحين,qa_factoid,0.968,0.0018,False
+10981,ar-SA,lists,lists_query,خليني أعرف القائمة,email_query,0.9943,0.0004,False
+10985,ar-SA,lists,lists_remove,امسح قائمة مهام هذا الأسبوع,lists_remove,0.8785,0.8785,True
+10990,ar-SA,lists,lists_remove,احذف مسح المطبخ من قائمة المهام حقي,calendar_remove,0.3928,0.3785,False
+10999,ar-SA,lists,lists_query,اقرأ القائمة,email_query,1.0,0.0,False
+11023,ar-SA,lists,lists_remove,امسح قائمة التسوق,lists_remove,0.9454,0.9454,True
+11024,ar-SA,lists,lists_remove,احذف قائمة المهام,lists_remove,0.8737,0.8737,True
+11053,ar-SA,lists,lists_remove,احذف القائمة يا google,qa_factoid,0.9802,0.0153,False
+11075,ar-SA,lists,lists_query,كم قائمة عندي,lists_query,0.9087,0.9087,True
+11081,ar-SA,lists,lists_query,ايش القوائم اللي عندي على المذكرة,lists_query,0.6895,0.6895,True
+11085,ar-SA,lists,lists_remove,امسح الحليب من قائمة التسوق,cooking_recipe,0.9837,0.0134,False
+11098,ar-SA,lists,lists_remove,امسح قائمة الضرايب من قائمة ألف وتسعمية وتسعين,lists_remove,0.9947,0.9947,True
+11107,ar-SA,lists,lists_query,وش القائمة الحالية حقي,qa_factoid,0.4083,0.0295,False
+11124,ar-SA,lists,lists_query,رتب العناصر في قائمة الشغل حقي,lists_remove,0.4614,0.3904,False
+11125,ar-SA,lists,lists_query,أعطيني تفاصيل الطلبية اللي شريتها,qa_factoid,1.0,0.0,False
+11133,ar-SA,lists,lists_remove,احذف قائمة الظيوف اللي سويتها الأسبوع الماظي,lists_remove,0.999,0.999,True
+11154,ar-SA,lists,lists_query,شوف قائمة المهام الأخيرة,qa_factoid,0.911,0.0008,False
+11162,ar-SA,lists,lists_remove,أبي أمسح التفاح من القائمة,cooking_recipe,0.7011,0.0361,False
+11164,ar-SA,lists,lists_remove,احذف من القائمة,qa_factoid,0.9618,0.0083,False
+11166,ar-SA,lists,lists_query,افتح google keep,qa_factoid,0.8527,0.0021,False
+11168,ar-SA,lists,lists_remove,امسح القائمة حقي,lists_remove,0.9899,0.9899,True
+11172,ar-SA,lists,lists_query,أعطيني كل القوائم الموجودة,lists_query,0.5105,0.5105,True
+11174,ar-SA,lists,lists_query,اسرد كل القوائم على هذا الجهاز,lists_remove,0.9974,0.0002,False
+11180,ar-SA,calendar,calendar_query,تجهيزات الحفلة حقي,cooking_recipe,0.5352,0.014,False
+11186,ar-SA,lists,lists_query,لدي قائمة ملابس حقي,lists_remove,0.983,0.0033,False
+11189,ar-SA,lists,lists_query,دور على القائمة,qa_factoid,0.9268,0.0034,False
+11204,ar-SA,lists,lists_query,معلومات مهمة عن البيت,lists_query,0.459,0.459,True
+11215,ar-SA,lists,lists_query,قائمة,qa_factoid,0.9769,0.0021,False
+11250,ar-SA,lists,lists_query,اقرالي مرة ثانية قائمة المقاضي حقي,qa_factoid,0.9959,0.0002,False
+11257,ar-SA,play,play_podcasts,الرجاء تشغيل التسجيل التالي,play_music,0.9377,0.0004,False
+11259,ar-SA,play,play_podcasts,انتقل إلى المدونة الصوتية التالية,play_music,0.9952,0.0024,False
+11261,ar-SA,play,play_podcasts,شغل الحلقة الجاية,qa_factoid,1.0,0.0,False
+11265,ar-SA,play,play_podcasts,شغلي اللي بعده,qa_factoid,0.3996,0.0153,False
+11266,ar-SA,play,play_podcasts,شغل podcast من المكتبة حقي,play_podcasts,1.0,1.0,True
+11267,ar-SA,play,play_podcasts,دور لي شيء ممتع نفس اخر بودكاست سعودي جيمر,email_query,0.7916,0.0029,False
+11270,ar-SA,play,play_podcasts,شغل البث التالي,iot_hue_lightoff,0.9575,0.0011,False
+11272,ar-SA,play,play_podcasts,شغلي التالي,qa_factoid,0.9476,0.002,False
+11279,ar-SA,play,play_podcasts,روح عند البودكاست وشغل الحلقة الثانية من عالهوا كل يوم,play_podcasts,0.9991,0.9991,True
+11286,ar-SA,play,play_podcasts,شغل podcast كنبة السبت,play_podcasts,0.9994,0.9994,True
+11296,ar-SA,play,play_podcasts,حمل كل البودكاست حقي,qa_factoid,0.5665,0.0487,False
+11302,ar-SA,play,play_podcasts,شغلي مدونة صوتية الستات ما يعرفوش يكذبوا,social_post,0.4979,0.0039,False
+11303,ar-SA,play,play_podcasts,reason,qa_factoid,0.9933,0.0002,False
+11306,ar-SA,play,play_podcasts,شغل التسجيل اللي استمعت البارحة,play_radio,0.8107,0.1227,False
+11318,ar-SA,play,play_podcasts,الحلقة القادمة,qa_factoid,0.4443,0.0291,False
+11322,ar-SA,play,play_podcasts,اش هي أفضل البودكاست اليوم,recommendation_events,0.8243,0.0707,False
+11328,ar-SA,play,play_podcasts,شغل بث ل محتوى الدحيح,iot_hue_lightoff,0.7782,0.0016,False
+11331,ar-SA,play,play_podcasts,أرني أفضل بودكاست أغاني وطنية تقييمها عالي,play_music,0.9414,0.0011,False
+11335,ar-SA,play,play_music,شغل ورتب عشوائي كل الموسيقى الهادئة,play_music,0.9999,0.9999,True
+11339,ar-SA,play,play_podcasts,شغل أكثر مدونة أتفرج عليها,social_post,0.9728,0.0003,False
+11340,ar-SA,play,play_podcasts,هل يملك محمد بودكاست جديد,qa_factoid,0.6016,0.0154,False
+11341,ar-SA,play,play_podcasts,latest disney podcast,play_podcasts,0.9237,0.9237,True
+11343,ar-SA,play,play_podcasts,انتقل إلى الحلقة التالية من أهواك,play_podcasts,0.9992,0.9992,True
+11345,ar-SA,play,play_podcasts,تشغيل الحلقة التالية من البودكاست,play_music,0.9971,0.0027,False
+11349,ar-SA,play,play_podcasts,olly شغلي البودكاست الذي بدأته الليلة الماضية,play_music,0.4054,0.0372,False
+11353,ar-SA,play,play_podcasts,اعرض الملفات الصوتية حقي,play_music,0.9417,0.0366,False
+11361,ar-SA,play,play_podcasts,شغل بودكاست عالم التقنية,qa_definition,0.3967,0.0164,False
+11366,ar-SA,play,play_podcasts,ارجع إلى الحلقة السابقة من المدونة الصوتية,play_podcasts,0.5873,0.5873,True
+11368,ar-SA,play,play_podcasts,john's podcast on,play_podcasts,1.0,1.0,True
+11376,ar-SA,play,play_podcasts,أبغى أسمع podcast,play_podcasts,1.0,1.0,True
+11384,ar-SA,play,play_podcasts,هل يمكنك تنزيل ملف البودكاست الخاص بي المتوفر على الإنترنت وتشغيله مرة واحدة,qa_factoid,0.4048,0.0852,False
+11409,ar-SA,play,play_podcasts,next episode of the podcast,play_podcasts,0.9999,0.9999,True
+11417,ar-SA,play,play_podcasts,next episode,qa_factoid,0.3599,0.2181,False
+11418,ar-SA,play,play_podcasts,شغل آخر بودكاست ل كاظم الساهر,social_post,0.9134,0.0026,False
+11420,ar-SA,play,play_podcasts,ابدأ تشغيل أجدد مدونة صوتية حقي,iot_hue_lightoff,0.544,0.0036,False
+11423,ar-SA,play,play_podcasts,ارجع ورا ثلاثين ثانية,datetime_query,0.9841,0.0003,False
+11424,ar-SA,play,play_podcasts,الجزيرة,qa_factoid,0.4513,0.0214,False
+11426,ar-SA,lists,lists_query,قائمة الأكثر مشاهدة,lists_query,0.7326,0.7326,True
+11427,ar-SA,play,play_podcasts,gilmore guys,social_post,0.9046,0.0019,False
+11437,ar-SA,play,play_podcasts,من فضلك شغل لي البث الصوتي,play_music,1.0,0.0,False
+11438,ar-SA,play,play_podcasts,روح للحلقة اللي بعد من المدونة لو سمحت,social_post,0.8789,0.0028,False
+11442,ar-SA,play,play_podcasts,latest bill simmons podcast,play_podcasts,1.0,1.0,True
+11451,ar-SA,play,play_podcasts,أيغى اسمع اخر مدونة لفيصل السيف,social_post,0.9969,0.0,False
+11453,ar-SA,play,play_podcasts,ابدأ بودكاستات أهواك,recommendation_events,0.4799,0.1354,False
+11455,ar-SA,play,play_podcasts,انتقل للقسم التالي,lists_remove,0.2526,0.0353,False
+11458,ar-SA,play,play_podcasts,رح للـ podcast اللي بعدها,play_podcasts,1.0,1.0,True
+11459,ar-SA,play,play_podcasts,go back last episode,play_podcasts,0.3478,0.3478,True
+11460,ar-SA,play,play_podcasts,أريد أسمع برامج رياضية,play_podcasts,0.9158,0.9158,True
+11467,ar-SA,play,play_podcasts,most recent podcast american life,play_podcasts,0.9179,0.9179,True
+11470,ar-SA,play,play_podcasts,my favorite music podcast,play_music,0.5969,0.3492,False
+11474,ar-SA,play,play_podcasts,resume series podcast on,play_podcasts,1.0,1.0,True
+11476,ar-SA,play,play_podcasts,شغل بودكاست قصة,qa_factoid,0.5088,0.0028,False
+11483,ar-SA,play,play_podcasts,رنين,email_sendemail,0.7322,0.0045,False
+11490,ar-SA,play,play_podcasts,شغل العرض الثاني على بودكاست,qa_factoid,0.6439,0.0093,False
+11502,ar-SA,play,play_podcasts,الزر التالي,qa_factoid,0.9949,0.0001,False
+11505,ar-SA,play,play_podcasts,replay my last podcast,play_podcasts,1.0,1.0,True
+11514,ar-SA,play,play_podcasts,رولا فينا نستمع للرد على جميع البودكاست,play_podcasts,0.9905,0.9905,True
+11515,ar-SA,play,play_podcasts,الولايات المتحدة من القلق,qa_factoid,0.9899,0.0005,False
+11525,ar-SA,play,play_podcasts,أبي أشوف اذا فيه مدونة ثانية متوفرة,qa_factoid,0.9951,0.0001,False
+11529,ar-SA,play,play_podcasts,شغلي لي المدونة الصوتية المفضلة حقي من القايمة,play_music,0.5292,0.0422,False
+11536,ar-SA,play,play_podcasts,start,play_radio,0.3603,0.0139,False
+11539,ar-SA,play,play_podcasts,ابدأ بودكاست التالية,cooking_recipe,0.6108,0.0141,False
+11546,ar-SA,play,play_podcasts,شغل كل طاش ما طاش من الأسبوع اللي راح,qa_factoid,0.3944,0.0137,False
+11554,ar-SA,play,play_podcasts,أريدك تشغل لي البودكاست,play_radio,0.9995,0.0,False
+11563,ar-SA,recommendation,recommendation_events,ايش أقدر أسوي في الرياض,qa_factoid,0.4318,0.0014,False
+11570,ar-SA,recommendation,recommendation_events,ايش يصير حولي بمدينتي,social_post,0.8355,0.0056,False
+11582,ar-SA,recommendation,recommendation_events,هل فيه أي شي قاعد يصير عن المجسات الحجازية في جدة,news_query,0.2099,0.0264,False
+11585,ar-SA,recommendation,recommendation_events,أبغى أعرف اذا فيه فعاليات ثقافية في تبوك,qa_factoid,0.9981,0.0001,False
+11598,ar-SA,recommendation,recommendation_events,علمني عن فعاليات سباق الخيل الموجودة بالمدينة حقي,news_query,0.8803,0.0434,False
+11600,ar-SA,recommendation,recommendation_events,أي فيلم أقدر أشوفه الليلة في الصالات اللي عندنا في جدة,play_music,0.2376,0.2016,False
+11610,ar-SA,recommendation,recommendation_events,عطني لستة عروض السيرك الموجودة في المدينة الحين,recommendation_events,0.9796,0.9796,True
+11612,ar-SA,recommendation,recommendation_events,ايش في سبق خيل في جدة,social_post,0.8969,0.007,False
+11616,ar-SA,recommendation,recommendation_events,أبي أعرف اذا فيه فعاليات قاعدة تصير وسط البلد الليلة,qa_factoid,0.9929,0.0004,False
+11643,ar-SA,recommendation,recommendation_events,ايش الفعاليات اللي بتصير قريب,qa_factoid,0.7377,0.0094,False
+11644,ar-SA,recommendation,recommendation_events,وريني فعاليات في الدمام,news_query,0.977,0.0022,False
+11650,ar-SA,recommendation,recommendation_events,كلهم السواقين الشباب والسواقين المؤقتين يسوون حوادث أكثر من البقية لأنه ما عندهم خبرة عشان يسوقون مزبوط الدراسات تقول تجربة السواقة مهمة عشان تقل الحوادث في الشوارع وتقول الدراسة انه أكثر الأوقات أمان تكون لمن يسوقوا الشباب تحت اشراف احد أكبر منهم,lists_query,0.1796,0.0444,False
+11681,ar-SA,recommendation,recommendation_events,لو سمحت وريني marathon قريب مني,qa_factoid,0.9981,0.0,False
+11685,ar-SA,recommendation,recommendation_events,بكون فرحانة اذا أعطيتني خبر عن الفعاليات اللي تصير في منطقتي,email_sendemail,0.3586,0.0567,False
+11705,ar-SA,recommendation,recommendation_events,وريني معرض رسم في الدمام,social_post,0.5478,0.0425,False
+11720,ar-SA,recommendation,recommendation_events,السباحة,qa_factoid,0.9904,0.0,False
+11767,ar-SA,recommendation,recommendation_events,olly ايش الفعاليات اللي قاعدة تصير في الدمام نهاية هذا الأسبوع,news_query,0.7285,0.0164,False
+11770,ar-SA,recommendation,recommendation_events,أي فعاليات نهاية هذا الأسبوع في القصيم,lists_query,0.2337,0.0441,False
+11782,ar-SA,recommendation,recommendation_events,أبغى أعرف اذا فيه فعاليات مميزة نهاية الأسبوع,recommendation_events,0.7267,0.7267,True
+11798,ar-SA,recommendation,recommendation_events,ايش الفعالية الجاية في المكتبة,qa_factoid,0.8521,0.0066,False
+11827,ar-SA,recommendation,recommendation_events,وين ممكن أروح الليلة,transport_query,0.2803,0.0701,False
+11839,ar-SA,recommendation,recommendation_events,وش قاعد يصير حوليني,social_post,0.9908,0.0003,False
+11841,ar-SA,recommendation,recommendation_events,أبي أعرف اذا فيه أي معارض للأشغال اليدوية بتبدأ في هاذي المنطقة,lists_query,0.4846,0.0065,False
+11844,ar-SA,recommendation,recommendation_events,أي حاجة تحمس قاعدة تصير في منطقة الخليج,qa_factoid,0.4057,0.0225,False
+11845,ar-SA,recommendation,recommendation_events,olly قولي لي عن الفعاليات اللي تحمس في الكورنيش,cooking_recipe,0.7467,0.006,False
+11860,ar-SA,recommendation,recommendation_events,علمني الفعاليات المحلية,cooking_recipe,0.9508,0.0008,False
+11867,ar-SA,recommendation,recommendation_events,أبغى أعرف اذا فيه فعاليات رياضية بكرة في جدة,qa_factoid,0.9581,0.0018,False
+11875,ar-SA,recommendation,recommendation_events,هل فيه مهرجان أكل في المنطقة,cooking_recipe,0.9756,0.0001,False
+11904,ar-SA,recommendation,recommendation_events,ايش بيكون عندنا هنا نهاية هذا الأسبوع,weather_query,0.5316,0.0141,False
+11905,ar-SA,recommendation,recommendation_events,olly قولي لي عن النشاطات اللي في منطقتي نهاية هذا الأسبوع,social_post,0.9782,0.0025,False
+11911,ar-SA,recommendation,recommendation_events,أي حاجة حلوة بتصير في عطلة نهاية هذا الأسبوع في المنطقة,weather_query,0.6655,0.0061,False
+11916,ar-SA,recommendation,recommendation_events,ايش الملاهي المائية قربي,qa_definition,0.868,0.0009,False
+11969,ar-SA,recommendation,recommendation_events,في أي حاجة مميزة قاعدة تصير قريب,qa_factoid,0.6654,0.2035,False
+11999,ar-SA,recommendation,recommendation_events,قول لي كل فعاليات اليوم في مدينتي,lists_query,0.3114,0.0361,False
+12008,ar-SA,recommendation,recommendation_events,هل فيه أي فعاليات تضحك في جدة اليوم,play_music,0.8638,0.0033,False
+12054,ar-SA,recommendation,recommendation_events,ايش قاعد يصير حول الديرة,social_post,0.3851,0.0167,False
+12070,ar-SA,recommendation,recommendation_events,متى مول الراجحي بيفتح,qa_factoid,0.7057,0.0263,False
+12073,ar-SA,recommendation,recommendation_events,أشر لي على الفعاليات المحلية الحالية,recommendation_events,0.3184,0.3184,True
+12098,ar-SA,recommendation,recommendation_events,وريني الفعاليات الغنائية القريبة,qa_factoid,0.471,0.0143,False
+12189,ar-SA,transport,transport_query,محطة القطار,transport_query,0.9969,0.9969,True
+12240,ar-SA,transport,transport_query,حقي المنزل الخامسة,qa_factoid,0.6584,0.0121,False
+12245,ar-SA,transport,transport_query,طال عمرك متى قطار جدة المدينة الثاني,weather_query,0.7913,0.0778,False
+12251,ar-SA,transport,transport_query,قطار محطة الحرمين,transport_query,0.9731,0.9731,True
+12252,ar-SA,transport,transport_query,الرياض,lists_query,0.1469,0.0426,False
+12261,ar-SA,transport,transport_query,قطار الرياض الأربعاء الخميس,transport_query,0.9995,0.9995,True
+12263,ar-SA,transport,transport_query,جازان,social_post,0.1494,0.0388,False
+12264,ar-SA,transport,transport_query,الرياض,lists_query,0.1469,0.0426,False
+12294,ar-SA,transport,transport_query,قطار برج العرب,transport_query,0.9981,0.9981,True
+12310,ar-SA,transport,transport_query,علمني بقائمة حجز قطار الرياض ل دبي,transport_query,0.984,0.984,True
+12343,ar-SA,transport,transport_query,عشرة الاف وثمنمية وسبعة وثمانين قطار محطة الحرمين الثلاثاء,transport_query,0.1398,0.1398,True
+12354,ar-SA,transport,transport_query,قطار,qa_factoid,0.9715,0.0192,False
+12366,ar-SA,transport,transport_query,قطار الرياض مكة,transport_query,0.9997,0.9997,True
+12367,ar-SA,transport,transport_query,ايش أحسن طريق يروح الجبيل,qa_factoid,0.898,0.0051,False
+12376,ar-SA,transport,transport_query,قطار الرياض,transport_query,0.9995,0.9995,True
+12392,ar-SA,transport,transport_query,اليوم,email_query,0.997,0.0,False
+12402,ar-SA,transport,transport_query,قطار مدينة هنا,transport_query,0.9937,0.9937,True
+12419,ar-SA,transport,transport_query,أسرع طريق لمايسترو بيتزا,transport_query,0.9517,0.9517,True
+12430,ar-SA,transport,transport_query,قولي موعد وصول القطار للرياض,transport_query,0.9989,0.9989,True
+12436,ar-SA,transport,transport_query,كم نحتاج لحين نوصل المطار,transport_query,0.9934,0.9934,True
+12437,ar-SA,transport,transport_query,مسرح,social_post,0.6893,0.0111,False
+12446,ar-SA,transport,transport_query,قطار الرياض,transport_query,0.9995,0.9995,True
+12473,ar-SA,transport,transport_query,البيت هنا,qa_factoid,0.9787,0.0008,False
+12526,ar-SA,transport,transport_query,starbucks,lists_query,0.0975,0.0409,False
+12532,ar-SA,transport,transport_query,خذ الطريق للمكان,transport_query,0.5927,0.5927,True
+12581,ar-SA,transport,transport_query,قطار اليوم,transport_query,0.9986,0.9986,True
+12582,ar-SA,transport,transport_query,باص الصباح,social_post,0.8145,0.0065,False
+12604,ar-SA,transport,transport_query,أنا قطار,qa_factoid,0.9874,0.0052,False
+12618,ar-SA,transport,transport_query,قطار جدة,transport_query,0.9092,0.9092,True
+12623,ar-SA,transport,transport_query,قطار ينبع,transport_query,0.9129,0.9129,True
+12629,ar-SA,transport,transport_query,قطار حفر الباطن,transport_query,0.9811,0.9811,True
+12634,ar-SA,transport,transport_query,قطار جدة,transport_query,0.9092,0.9092,True
+12707,ar-SA,transport,transport_query,بحث عن مواصلات,social_post,0.9947,0.0001,False
+12759,ar-SA,transport,transport_query,مشوار تبوك,social_post,0.9999,0.0,False
+12797,ar-SA,transport,transport_query,انو اقرب قطار يكون قريب من موقع بيتي,transport_query,0.7923,0.7923,True
+12800,ar-SA,transport,transport_query,المكتبة العامة,qa_factoid,0.5366,0.0108,False
+12817,ar-SA,transport,transport_query,خبرني شلون ممكن أوصل المول,email_sendemail,0.6822,0.0906,False
+12818,ar-SA,transport,transport_query,قطار الطايف,transport_query,0.8869,0.8869,True
+12824,ar-SA,transport,transport_query,قطار جدة,transport_query,0.9092,0.9092,True
+12835,ar-SA,transport,transport_query,أي ساعة يغادر القطار إلى مكان,weather_query,0.5532,0.1736,False
+12839,ar-SA,transport,transport_query,أبحر الشمالية,qa_factoid,0.7866,0.0038,False
+12851,ar-SA,transport,transport_query,وريني البيت,qa_factoid,0.8203,0.0057,False
+12856,ar-SA,transport,transport_query,الاتجاهات من فضلك,social_post,0.5282,0.0027,False
+12866,ar-SA,transport,transport_query,قطار الحرمين,social_post,0.2838,0.195,False
+12908,ar-SA,transport,transport_query,قطار الرياض,transport_query,0.9995,0.9995,True
+12930,ar-SA,transport,transport_query,محلات قريبة مني,qa_factoid,0.9998,0.0,False
+12932,ar-SA,transport,transport_query,شارع التحلية,qa_factoid,0.1288,0.0434,False
+12951,ar-SA,qa,qa_factoid,ما عو أعلى بناء في العالم,qa_factoid,1.0,1.0,True
+12957,ar-SA,qa,qa_definition,عرف الإيضاح,qa_factoid,0.7992,0.0095,False
+12961,ar-SA,qa,qa_definition,من فضلك عرف المنطق,qa_factoid,0.9983,0.0017,False
+12963,ar-SA,qa,qa_definition,ماتعريف المنطق,qa_definition,0.9868,0.9868,True
+12972,ar-SA,qa,qa_factoid,وهي أعلى قمة في العالم,qa_factoid,0.9977,0.9977,True
+12982,ar-SA,qa,qa_definition,ماذا يعني المنطق,qa_definition,0.9999,0.9999,True
+12986,ar-SA,qa,qa_definition,ابحث عن تعريف المنطق,qa_definition,0.9995,0.9995,True
+12999,ar-SA,qa,qa_factoid,كم عمر نجوى كرم,social_post,0.9826,0.0124,False
+13016,ar-SA,qa,qa_definition,وش تعريف خطأ فادح,qa_definition,0.7436,0.7436,True
+13023,ar-SA,cooking,cooking_recipe,ورني الوصفات,cooking_recipe,0.9893,0.9893,True
+13069,ar-SA,qa,qa_definition,وش تعريف البرتقال,qa_definition,0.9998,0.9998,True
+13074,ar-SA,qa,qa_factoid,لماذا ليس ناصر القصبي مضحكا,qa_factoid,0.5524,0.5524,True
+13077,ar-SA,qa,qa_factoid,ما تاريخ ميلاد عابد فهد,datetime_query,0.9437,0.014,False
+13078,ar-SA,qa,qa_factoid,أخبرني عن عنوان محمد أحمد,social_post,0.9603,0.0,False
+13099,ar-SA,qa,qa_factoid,من كان رئيس الوزراء الحالي لبنان,qa_factoid,0.9897,0.9897,True
+13115,ar-SA,qa,qa_factoid,ما هي عاصمة مصر,weather_query,0.9118,0.006,False
+13124,ar-SA,qa,qa_factoid,ما هو حجم الكون,qa_factoid,0.9761,0.9761,True
+13135,ar-SA,qa,qa_factoid,ما تاريخ ميلاد كاظم الساهر,datetime_query,0.9795,0.0063,False
+13140,ar-SA,qa,qa_definition,أخبرني عن الإعصار,weather_query,0.984,0.0003,False
+13154,ar-SA,qa,qa_factoid,هل تعرف رقم الهاتف الخاص بمها محمد,qa_factoid,0.7766,0.7766,True
+13165,ar-SA,qa,qa_definition,ماذا يعني الجنة,qa_definition,0.9986,0.9986,True
+13166,ar-SA,qa,qa_definition,انطق و عرف المنطق,qa_definition,0.9933,0.9933,True
+13177,ar-SA,calendar,calendar_set,ذكرني أتحرك عشان مايزيد وزني,qa_factoid,0.9299,0.0006,False
+13178,ar-SA,calendar,calendar_set,ذكرني اني اتصل بصديقاتي القديمين الي من ست شهور ما تواصل معهم,email_sendemail,1.0,0.0,False
+13188,ar-SA,news,news_query,قل لي كيف ستظهر نتائج انتخابات المجلس في الرياض,weather_query,0.4836,0.0125,False
+13206,ar-SA,qa,qa_definition,الموقع,qa_factoid,1.0,0.0,False
+13215,ar-SA,transport,transport_query,حقي وسط المدينة,qa_factoid,0.9257,0.0029,False
+13252,ar-SA,qa,qa_factoid,ما هو أول نوفمبر عابد فهد,email_sendemail,0.9994,0.0,False
+13255,ar-SA,qa,qa_factoid,من فضلك أعطني معلومات عن الملك عبد العزيز,email_sendemail,0.8573,0.0117,False
+13283,ar-SA,qa,qa_factoid,كم من المال كسبه محمد أحمد,qa_factoid,0.5602,0.5602,True
+13288,ar-SA,qa,qa_definition,ايش تعريف كلمة انطوائي,qa_definition,1.0,1.0,True
+13297,ar-SA,qa,qa_factoid,من هو المشهور,qa_factoid,0.9631,0.9631,True
+13298,ar-SA,qa,qa_factoid,ماذا يفعل المشاهير,social_post,0.999,0.0,False
+13330,ar-SA,qa,qa_factoid,ما هو حجم حوت العنبر,qa_factoid,0.9808,0.9808,True
+13361,ar-SA,qa,qa_definition,ما تعريف كلمة توقيت,qa_factoid,0.9993,0.0,False
+13383,ar-SA,qa,qa_factoid,كم عدد الدول التي لديها عقوبة الإعدام,qa_factoid,0.9987,0.9987,True
+13400,ar-SA,social,social_post,ارسل رسالة تضحك لكل صديقاتي,social_post,0.9983,0.9983,True
+13439,ar-SA,qa,qa_factoid,كم عمر محمد أحمد,social_post,0.951,0.0441,False
+13457,ar-SA,calendar,calendar_set,قول لي متى لازم أروح المناسبة المحددة عشان أوصل عالوقت,qa_factoid,0.9773,0.0001,False
+13473,ar-SA,qa,qa_factoid,متى حصل لنا الحرية,qa_factoid,1.0,1.0,True
+13487,ar-SA,qa,qa_factoid,أوولي ماهي عاصمة كاليفورنيا,email_query,0.3049,0.0239,False
+13494,ar-SA,qa,qa_definition,عرف التحفيز,iot_hue_lightoff,0.4621,0.0122,False
+13506,ar-SA,datetime,datetime_query,هل يمكن أن تخبرني أنه الوقت الآن,qa_factoid,0.9988,0.0001,False
+13513,ar-SA,qa,qa_factoid,كم عدد الأرجل التي يمتلكها الكلب,qa_factoid,0.9868,0.9868,True
+13516,ar-SA,qa,qa_factoid,ليش الحيتان كبيرة,qa_definition,0.4482,0.0641,False
+13546,ar-SA,qa,qa_factoid,ماذا كان آخر فيلم كان فيه عابد فهد,qa_factoid,0.1904,0.1904,True
+13554,ar-SA,qa,qa_factoid,كم طول عابد فهد عابد فهد,lists_query,0.1789,0.0579,False
+13575,ar-SA,qa,qa_factoid,متى كان آخر فيلم حصل على جائزة الأكاديمية,qa_factoid,0.9058,0.9058,True
+13580,ar-SA,qa,qa_factoid,كم طول جبل إفرست,iot_hue_lightoff,0.8332,0.1385,False
+13591,ar-SA,qa,qa_factoid,ما عاصمة القاهرة,qa_factoid,0.8043,0.8043,True
+13592,ar-SA,qa,qa_factoid,ما هو موقع مصر على الخارطة,qa_factoid,0.9994,0.9994,True
+13604,ar-SA,qa,qa_factoid,أخبرني أين ولد ستيف جوبز,social_post,0.8578,0.0105,False
+13607,ar-SA,qa,qa_factoid,هل كاظم الساهر متزوج,qa_factoid,0.8931,0.8931,True
+13616,ar-SA,qa,qa_factoid,أين يتسكع معظم المشاهير,social_post,0.9951,0.0005,False
+13619,ar-SA,recommendation,recommendation_events,هل فيه أي فعاليات مجانية في منطقتي اليوم,qa_factoid,0.9983,0.0001,False
+13625,ar-SA,qa,qa_definition,ما هو المقعد الأكبر,qa_factoid,0.9664,0.0,False
+13636,ar-SA,qa,qa_factoid,ما تاريخ ميلاد محمد هنيدي,datetime_query,0.9445,0.0028,False
+13679,ar-SA,qa,qa_factoid,تقدر تقولي كام معدة عند البقرة,qa_factoid,0.9908,0.9908,True
+13681,ar-SA,qa,qa_factoid,كم عدد المسرحيات التي شارك فيها كاظم الساهر,qa_factoid,0.3785,0.3785,True
+13683,ar-SA,qa,qa_factoid,وش ماركة مصفف الشعر اللي يستخدمه محمد بن سلمان,qa_factoid,0.9277,0.9277,True
+13689,ar-SA,qa,qa_definition,ما هو الكرسي,qa_definition,0.8953,0.8953,True
+13690,ar-SA,qa,qa_factoid,ما لون الكراسي,iot_hue_lightoff,0.9856,0.0046,False
+13693,ar-SA,qa,qa_factoid,أين هو خط الزوال الرئيسي,qa_factoid,0.7067,0.7067,True
+13705,ar-SA,qa,qa_definition,ما هو نظام إلكتروني,qa_definition,0.9825,0.9825,True
+13706,ar-SA,qa,qa_definition,اوصف المحور,iot_hue_lightoff,0.9961,0.0012,False
+13714,ar-SA,qa,qa_definition,وش هو المانجو,qa_definition,0.9973,0.9973,True
+13717,ar-SA,qa,qa_factoid,هل يمكنك روية روسيا من ألاسكا,qa_factoid,0.9381,0.9381,True
+13758,ar-SA,qa,qa_factoid,كم عمر أحلام الشامسي,qa_factoid,0.9898,0.9898,True
+13761,ar-SA,qa,qa_factoid,ما هو فرسخ,qa_definition,0.9987,0.0001,False
+13774,ar-SA,qa,qa_factoid,كم تبعد الرياض عن جدة,weather_query,0.3746,0.1403,False
+13777,ar-SA,qa,qa_definition,بطاقة ائتمان ما هي,email_sendemail,0.9937,0.0,False
+13780,ar-SA,qa,qa_factoid,هل محمد علي متزوج,social_post,0.9621,0.0107,False
+13798,ar-SA,qa,qa_factoid,ما متوسط مساحة الدول بالميل المربع في العالم,datetime_query,0.3738,0.1128,False
+13799,ar-SA,qa,qa_definition,ايش تعريف المنطق,qa_definition,0.9998,0.9998,True
+13823,ar-SA,qa,qa_factoid,كم تبعد الشمس,weather_query,0.9996,0.0001,False
+13853,ar-SA,qa,qa_factoid,أين توجد أكثر البراكين في الأرض,qa_factoid,0.4178,0.4178,True
+13854,ar-SA,qa,qa_factoid,متى مات إلفيس بريسلي,qa_factoid,0.6542,0.6542,True
+13863,ar-SA,qa,qa_definition,وش يعني كلمة المنطق,qa_definition,0.9989,0.9989,True
+13867,ar-SA,qa,qa_factoid,أين تقع حديقة الوصل,qa_factoid,0.7146,0.7146,True
+13869,ar-SA,qa,qa_factoid,يرجى جوجل موقع ومعلومات جبل راشمور,qa_factoid,0.9492,0.9492,True
+13871,ar-SA,qa,qa_definition,كيف توصف عيد ميلاد سعيد,iot_hue_lightoff,0.9791,0.0005,False
+13881,ar-SA,qa,qa_factoid,تكفى أبغى معلومات عن كاظم الساهر,lists_remove,0.4518,0.0322,False
+13888,ar-SA,qa,qa_factoid,كم درجة الحرارة في سدير الرياض,weather_query,0.9657,0.0002,False
+13895,ar-SA,qa,qa_factoid,هل يمكنك ان تخبرني عن عابد فهد,social_post,0.9992,0.0002,False
+13900,ar-SA,qa,qa_definition,تعريف الحياة,qa_definition,0.9954,0.9954,True
+13907,ar-SA,qa,qa_definition,تعريف مندهش,qa_definition,0.5171,0.5171,True
+13908,ar-SA,qa,qa_definition,هل يمكنك شرح معنى كلمة ديموقراطية,qa_definition,0.9883,0.9883,True
+13926,ar-SA,qa,qa_factoid,ايش هو عيد ميلاد هيمينغواي,social_post,0.3815,0.0272,False
+13927,ar-SA,qa,qa_factoid,كم قيمة lebron james,qa_factoid,0.9919,0.9919,True
+13974,ar-SA,qa,qa_factoid,أين تقع لاوس,social_post,0.9336,0.0523,False
+13983,ar-SA,qa,qa_definition,كاظم الساهر,social_post,0.9934,0.0002,False
+13984,ar-SA,qa,qa_definition,تداعيات الافعال,qa_factoid,0.9846,0.0008,False
+13997,ar-SA,qa,qa_factoid,كم هو متوسط المنزل,iot_hue_lightoff,0.2476,0.1679,False
+14000,ar-SA,qa,qa_definition,عرف الكسل,qa_factoid,0.9963,0.0024,False
+14001,ar-SA,qa,qa_factoid,قل لي كل ما تعرفه عن الكسلان,qa_definition,0.959,0.0038,False
+14011,ar-SA,qa,qa_factoid,متى يكون عيد ميلاد ميادة الحناوي,datetime_query,0.5399,0.0165,False
+14015,ar-SA,qa,qa_factoid,وش احداثيات خط الإستواء,qa_factoid,0.319,0.319,True
+14023,ar-SA,qa,qa_definition,أوصف جهنم,qa_factoid,0.6326,0.3671,False
+14033,ar-SA,qa,qa_factoid,أخبرني عندما ولد أوباما,qa_factoid,0.9998,0.9998,True
+14038,ar-SA,qa,qa_factoid,ما هو موقع مولدوفا,qa_factoid,0.995,0.995,True
+14040,ar-SA,qa,qa_factoid,كم يبلغ طول هالك هوجان,qa_factoid,0.9742,0.9742,True
+14053,ar-SA,qa,qa_factoid,متى بدأ george clooney التمثيل,datetime_query,0.9601,0.0138,False
+14063,ar-SA,qa,qa_factoid,ماذا كان عيد ميلاد elvis presley's,social_post,0.5269,0.0153,False
+14083,ar-SA,qa,qa_factoid,أين يعيش عادل إمام الآن,social_post,0.967,0.0141,False
+14096,ar-SA,qa,qa_factoid,أين تقع جبال الروكي,qa_definition,0.2043,0.1457,False
+14115,ar-SA,qa,qa_definition,أبغى تفاصيل عن الرمال الصخرية,qa_definition,0.3568,0.3568,True
+14116,ar-SA,qa,qa_definition,عرف الرمل الصخري,qa_definition,0.8659,0.8659,True
+14117,ar-SA,qa,qa_factoid,اين تقع الأهرامات,qa_factoid,0.9939,0.9939,True
+14118,ar-SA,qa,qa_factoid,إظهار التفاصيل الجغرافية جبال طويق,iot_hue_lightoff,0.3496,0.0268,False
+14126,ar-SA,qa,qa_factoid,عرض سيرة أحلام الشامسي,social_post,0.9998,0.0,False
+14138,ar-SA,qa,qa_definition,اخبرني ماتعريف الجحيم,qa_factoid,0.9804,0.0063,False
+14147,ar-SA,qa,qa_definition,عرف بطانية,qa_factoid,0.6873,0.0141,False
+14150,ar-SA,qa,qa_definition,وش هي جزمة سكتشيرز,qa_definition,0.9829,0.9829,True
+14151,ar-SA,qa,qa_factoid,ما هي أنواع النظارات الشمسية التي تعتبر طيارين,lists_query,0.4653,0.0198,False
+14154,ar-SA,qa,qa_factoid,معلومات أفريقيا,qa_factoid,1.0,1.0,True
+14163,ar-SA,qa,qa_factoid,ابحث عن المحلية,qa_factoid,0.9998,0.9998,True
+14169,ar-SA,qa,qa_factoid,أين تذهب أحلام الشامسي إلى الكلية,social_post,0.2923,0.081,False
+14170,ar-SA,qa,qa_factoid,هل ترتدي أحلام الشامسي ملابس معكوسة,iot_hue_lightoff,0.4258,0.2364,False
+14179,ar-SA,qa,qa_factoid,كم تبعد مصر عن الموقع الخاص بي,qa_factoid,0.9127,0.9127,True
+14214,ar-SA,transport,transport_query,إيجاد طرق السفر لنفسه,cooking_recipe,0.7937,0.0169,False
+14229,ar-SA,qa,qa_factoid,ما هي الأفلام التي مثلت فيها إيما واتسون,play_podcasts,0.935,0.0018,False
+14243,ar-SA,qa,qa_factoid,تفاصيل عن شخص,social_post,0.9693,0.0007,False
+14272,ar-SA,qa,qa_definition,يا له من كتاب,email_sendemail,0.7826,0.0004,False
+14283,ar-SA,qa,qa_factoid,أخبرني عن الرياض,recommendation_events,0.9959,0.0,False
+14306,ar-SA,qa,qa_factoid,اشرحلي الموقع الجغرافي للسعودية,qa_factoid,0.9701,0.9701,True
+14308,ar-SA,qa,qa_factoid,ايش هو صافي ثروة ليوناردو ديكابريو,qa_factoid,0.9973,0.9973,True
+14316,ar-SA,qa,qa_factoid,ما حجم الرياض,qa_factoid,0.8822,0.8822,True
+14317,ar-SA,qa,qa_factoid,ما مساحة الولايات المتحدة,qa_factoid,0.3126,0.3126,True
+14323,ar-SA,qa,qa_factoid,ايش هول لون فاكهة التنين,qa_definition,0.9319,0.0479,False
+14330,ar-SA,qa,qa_factoid,أين ولد ستيف جوبز,social_post,0.9776,0.0028,False
+14347,ar-SA,qa,qa_definition,ايش هي الفرضية,qa_factoid,1.0,0.0,False
+14354,ar-SA,qa,qa_factoid,ما هو الجواب على الكون,qa_definition,0.9858,0.0123,False
+14355,ar-SA,qa,qa_factoid,كم محارة باعتها سالي على الشاطئ,qa_factoid,0.8658,0.8658,True
+14370,ar-SA,qa,qa_factoid,قل لي مهنة المشاهير,qa_factoid,0.7555,0.7555,True
+14378,ar-SA,qa,qa_definition,عرف المنطق,qa_definition,0.9975,0.9975,True
+14382,ar-SA,qa,qa_factoid,كام حجم بناء امباير ستيت,qa_definition,0.5271,0.0034,False
+14395,ar-SA,qa,qa_factoid,ما هي أعمق نقطة على وجه الأرض,qa_factoid,0.9758,0.9758,True
+14414,ar-SA,qa,qa_definition,اشرح عن هارد الكمبيوتر,qa_definition,0.9719,0.9719,True
+14417,ar-SA,qa,qa_factoid,المحيط الذي يلمس قارتنا,qa_factoid,0.2638,0.2638,True
+14419,ar-SA,qa,qa_factoid,هو أحلام الشامسي لديها فيلم جديد هذا العام,email_sendemail,0.4839,0.0982,False
+14429,ar-SA,qa,qa_definition,ما هو القفطان,qa_definition,0.732,0.732,True
+14440,ar-SA,qa,qa_factoid,ما هي عاصمة مصر,weather_query,0.9118,0.006,False
+14442,ar-SA,qa,qa_factoid,أين تع الرياض,qa_factoid,0.9888,0.9888,True
+14444,ar-SA,qa,qa_factoid,ما هو أول فيلم عابد فهد,lists_query,0.2295,0.1113,False
+14449,ar-SA,qa,qa_factoid,هل لدى أحلام الشامسي طفل جديد,qa_factoid,0.4728,0.4728,True
+14457,ar-SA,qa,qa_factoid,تجد الطريق,qa_factoid,0.9907,0.9907,True
+14465,ar-SA,transport,transport_query,ملاهي الحكير,social_post,0.9507,0.0013,False
+14490,ar-SA,qa,qa_factoid,متى تم بناء مسرح برج العرب,datetime_query,0.7373,0.2097,False
+14498,ar-SA,qa,qa_definition,أعطني وصفًا عن الهاتف الذكي,qa_definition,0.9978,0.9978,True
+14504,ar-SA,qa,qa_factoid,قالي كم عدد الاجتماعات التي عقدها المهاتما غاندي,qa_factoid,0.1067,0.1067,True
+14505,ar-SA,qa,qa_factoid,من هو رئيس الوزراء الحالي روسيا,qa_factoid,0.9999,0.9999,True
+14508,ar-SA,qa,qa_factoid,يرجى تلخيص أحدث إصدار من جورج ر. ص. مارتن الجليد والنار كتاب,recommendation_events,0.7326,0.0881,False
+14509,ar-SA,qa,qa_factoid,أين ولد المهاتما غاندي,social_post,0.9295,0.0414,False
+14539,ar-SA,qa,qa_factoid,العثور على التفاصيل الجغرافية لهذا المكان,lists_query,0.5264,0.0707,False
+14545,ar-SA,qa,qa_factoid,أخبرني عن موقع الهند,qa_factoid,0.9499,0.9499,True
+14567,ar-SA,qa,qa_factoid,اش هو أكبر بركان نشط على كوكب الأرض,qa_definition,0.6843,0.3151,False
+14585,ar-SA,qa,qa_factoid,كم من الوقت سيستغرق السفر إلى مصر من قطر,qa_factoid,0.8623,0.8623,True
+14591,ar-SA,qa,qa_definition,أعطني تعريف المنطق,qa_definition,0.9898,0.9898,True
+14592,ar-SA,qa,qa_definition,أعطني وصفًا لدائرة هاتف ذكي,qa_factoid,0.5974,0.402,False
+14597,ar-SA,qa,qa_factoid,كم عدد سكان الرياض,lists_query,0.5498,0.2659,False
+14601,ar-SA,qa,qa_factoid,كم سنة قعد الملك عبدالله ملك للأردن,qa_factoid,0.982,0.982,True
+14605,ar-SA,qa,qa_factoid,هل تركت سلاف فواخرجي وائل رمضان,social_post,0.9987,0.0,False
+14608,ar-SA,qa,qa_factoid,ما الفيلم الجديد الذي تعمل عليه سلاف فواخرجي,qa_factoid,0.8964,0.8964,True
+14622,ar-SA,qa,qa_definition,عرف وش يعني كرة,qa_definition,1.0,1.0,True
+14648,ar-SA,cooking,cooking_recipe,الوصفة لو سمحت,qa_factoid,0.9896,0.0003,False
+14653,ar-SA,qa,qa_factoid,كم عدد سكان روسيا,qa_factoid,0.8036,0.8036,True
+14661,ar-SA,qa,qa_factoid,في أي سنة ولد باراك أوباما,qa_factoid,0.7861,0.7861,True
+14668,ar-SA,qa,qa_definition,صف العنصر س ص,qa_factoid,0.9992,0.0001,False
+14683,ar-SA,qa,qa_factoid,ما هواية عابد فهد,social_post,0.9936,0.0017,False
+14684,ar-SA,qa,qa_factoid,من هو رئيس وزراء روسيا,qa_factoid,0.9956,0.9956,True
+14690,ar-SA,qa,qa_definition,اوكي جوجل وش يعني رئيس,qa_definition,0.9996,0.9996,True
+14700,ar-SA,qa,qa_definition,ما هي بالضبط الحشوة الضوئية للأسنان,qa_factoid,0.9624,0.0374,False
+14701,ar-SA,qa,qa_definition,أوصف لعبة فيفا,qa_factoid,0.9656,0.0068,False
+14705,ar-SA,qa,qa_factoid,ok google أين تعيش سلاف فواخرجي,social_post,0.9999,0.0,False
+14706,ar-SA,qa,qa_factoid,اين تعيش سلاف فواخرجي,social_post,0.9999,0.0,False
+14746,ar-SA,qa,qa_factoid,ما عاصمة مصر,weather_query,0.5986,0.1941,False
+14761,ar-SA,qa,qa_definition,أعطني تعريف لكلمة المنطق,qa_definition,0.9935,0.9935,True
+14767,ar-SA,qa,qa_definition,كيف تصف كرة,qa_factoid,0.9798,0.0004,False
+14770,ar-SA,qa,qa_factoid,قل لي أكبر محيط في العالم,social_post,0.507,0.4899,False
+14787,ar-SA,qa,qa_factoid,ايش الفرق بين التقويم الروماني والغريغوري,qa_factoid,0.6003,0.6003,True
+14791,ar-SA,qa,qa_factoid,ما هي مكونات الكرسي,qa_definition,0.5915,0.1289,False
+14794,ar-SA,qa,qa_factoid,ما هو ركوب إيلفس المفضل,social_post,0.9784,0.0121,False
+14822,ar-SA,qa,qa_factoid,للمقارنة بين الناس,social_post,0.7902,0.0637,False
+14838,ar-SA,qa,qa_factoid,ما هو مرشح الكثافة المحايدة وهل أريد تدرجًا لونيًا أو صلبًا أيضًا والذي سيكون أفضل في الأسلوب بين المسمار الموجود في واحد والمربع,recommendation_events,0.9842,0.0017,False
+14857,ar-SA,qa,qa_definition,ممكن نشرحلي معنى باهظ,qa_definition,1.0,1.0,True
+14877,ar-SA,qa,qa_factoid,ما هي الظروف المناخية في تلك المنطقة,weather_query,0.931,0.0543,False
+14879,ar-SA,qa,qa_definition,ما معنى,qa_definition,0.9998,0.9998,True
+14884,ar-SA,qa,qa_factoid,ما هي أقل ولاية عرضة للإعصار في كل الولايات المتحدة,qa_factoid,0.5785,0.5785,True
+14889,ar-SA,qa,qa_definition,يرجى وصف هذا الشيء بالنسبة لي,qa_definition,0.9974,0.9974,True
+14891,ar-SA,qa,qa_factoid,في أي مجال يتفوق فيه هذا الشخص,qa_factoid,0.999,0.999,True
+14912,ar-SA,qa,qa_factoid,اين ولد الرئيس ماديسون,qa_factoid,0.667,0.667,True
+14917,ar-SA,qa,qa_factoid,متى يصدر الألبوم التالي حق راشد الماجد,email_query,0.5553,0.146,False
+14933,ar-SA,qa,qa_factoid,أعطني معلومات جغرافية عن مصر,email_sendemail,0.828,0.0068,False
+14939,ar-SA,qa,qa_factoid,أحتاج بعض التفاصيل حول بروس لي الرجاء المساعدة,recommendation_events,0.3002,0.0268,False
+14981,ar-SA,qa,qa_definition,وصف آيفون سبعة,iot_hue_lightoff,0.5636,0.0169,False
+14994,ar-SA,qa,qa_factoid,ماهو الفيلم التالي من عابد فهد,qa_factoid,0.5488,0.5488,True
+14995,ar-SA,qa,qa_definition,ماذا يعني حالة,qa_definition,0.9721,0.9721,True
+15020,ar-SA,qa,qa_factoid,كم عمر عابد فهد,qa_factoid,0.9862,0.9862,True
+15039,ar-SA,qa,qa_factoid,أولي أين تبدأ جبال الروكي,qa_definition,0.4791,0.4165,False
+15055,ar-SA,qa,qa_factoid,أي قطب أبرد جنوبا أو شمالا,weather_query,0.8384,0.0401,False
+15056,ar-SA,qa,qa_factoid,كم عمر أحدث صديق سلاف فواخرجي,qa_factoid,0.8128,0.8128,True
+15062,ar-SA,qa,qa_factoid,معلومات عن ليزا آن من فضلك,qa_factoid,0.5603,0.5603,True
+15075,ar-SA,qa,qa_factoid,أولي أين استقر الأمريكيون الأوائل,social_post,0.8016,0.1757,False
+15092,ar-SA,qa,qa_definition,أوجد ميزات تلفزيون سامسونج,lists_query,0.8959,0.0272,False
+15094,ar-SA,qa,qa_factoid,ابحث عن عدد الأشخاص الذين يعيشون في مدينة جدة بالسعودية,qa_factoid,0.7029,0.7029,True
+15095,ar-SA,qa,qa_factoid,ما هي المنطقة الواقعة في سيناء,qa_factoid,0.6317,0.6317,True
+15127,ar-SA,qa,qa_definition,عرف كلمة متكلم,qa_factoid,0.3042,0.2211,False
+15155,ar-SA,social,social_post,يمكنك تحميل بلدي أحدث سيلفي في حساب فيسبوك,iot_hue_lightoff,0.7033,0.0365,False
+15166,ar-SA,social,social_post,غرد عن شغلي في twitter,social_post,0.9995,0.9995,True
+15177,ar-SA,social,social_post,يرجى إعادة تغريد هذا المنشور على تويتر,social_post,0.9992,0.9992,True
+15185,ar-SA,social,social_post,امنيات عيد الميلاد,qa_factoid,0.4833,0.0006,False
+15186,ar-SA,social,social_post,مبروك الزواج,qa_factoid,0.4794,0.0171,False
+15187,ar-SA,social,social_post,شاركي في منشورالأصدقاء,social_post,0.9998,0.9998,True
+15197,ar-SA,social,social_post,نشر في تويتر زيارتي إلى مصر,social_post,0.9998,0.9998,True
+15208,ar-SA,social,social_post,انشر يا الجميع على فيسبوك,social_post,0.9992,0.9992,True
+15213,ar-SA,news,news_query,ما هو الخبر رائج الآن,social_post,0.4073,0.0083,False
+15214,ar-SA,news,news_query,وش الأخبار اليوم,news_query,0.9936,0.9936,True
+15216,ar-SA,social,social_post,غرد اي شي لي,social_post,0.9997,0.9997,True
+15231,ar-SA,social,social_post,رحلتي إلى صور غوا انشرها على إنستغرام,social_post,0.9988,0.9988,True
+15271,ar-SA,social,social_post,بعد هذا على فيسبوك الخاص بي لول,social_post,0.9833,0.9833,True
+15275,ar-SA,social,social_post,بعد أنا سعيد على فيسبوك,social_post,0.9994,0.9994,True
+15276,ar-SA,social,social_post,انشر حالة جديدة على فيسبوك تقول فيها إنني أستمتع المناخ جميل,social_post,0.9999,0.9999,True
+15289,ar-SA,social,social_post,انشر رسالة الآن,email_sendemail,1.0,0.0,False
+15305,ar-SA,calendar,calendar_query,أنا أي اشعارات,email_sendemail,0.9312,0.0009,False
+15318,ar-SA,social,social_post,أريد أن أشكر الجميع على أمنيات عيد الميلاد,email_sendemail,0.8197,0.0014,False
+15337,ar-SA,social,social_post,انشر هذا الفيديو في فيسبوك,social_post,0.9999,0.9999,True
+15350,ar-SA,social,social_post,أنا غير راض عن محمد الرجاء مساعدتي,qa_factoid,0.9828,0.0012,False
+15358,ar-SA,social,social_post,أولي غرد على آبل بأن الآي فون لا يعمل,social_post,0.9675,0.9675,True
+15359,ar-SA,social,social_post,غرد لـ آبل تفيد بأن بطارية iphone الخاصة بي فارغة دائمًا,social_post,0.9787,0.9787,True
+15364,ar-SA,social,social_post,يمكنك السماح أمازون نعرف أن هذه القضية الهاتف الجديد هو غير المرغوب فيه,qa_factoid,0.9978,0.0001,False
+15382,ar-SA,social,social_post,هل يمكنك الاتصال بشركة سامسونغ وتقول إن غسالتي مشتعلة,qa_factoid,0.9721,0.0182,False
+15387,ar-SA,social,social_post,غرد بالموقع الخاص بي,social_post,0.9988,0.9988,True
+15399,ar-SA,social,social_post,إرسال شكوى إلى كارفور بخصوص أمور متعلقة بالشبكة,qa_factoid,0.9336,0.0033,False
+15401,ar-SA,social,social_post,فتح تويتر إرسال رسالة,social_post,0.3944,0.3944,True
+15402,ar-SA,social,social_post,غرد هذا المنتج تمتص,qa_factoid,1.0,0.0,False
+15409,ar-SA,social,social_post,افتح تويتر اكتب شكوى الخاص بي وأرسلها إلى كارفور,social_post,0.999,0.999,True
+15413,ar-SA,social,social_post,جيب لي واحد بسرعة,qa_factoid,0.6232,0.0036,False
+15444,ar-SA,social,social_post,حطلي dislike على العثيم,social_post,0.9942,0.9942,True
+15448,ar-SA,social,social_post,غرد حول مشاكل حجم أغاني,social_post,0.9382,0.9382,True
+15454,ar-SA,social,social_post,غرد على شركة خطوط طيران الإمارات أن أنا زعلان لأن ظيعوا شناطي,social_post,0.9992,0.9992,True
+15456,ar-SA,social,social_post,أرغب في إرسال تغرية إلى خطوط طيران الإمارات أنا غاضب لأنني فقدت حقائبي,qa_factoid,0.6308,0.3022,False
+15457,ar-SA,social,social_post,كانت عندي مشكلة مع البرجر حقي ممكن تغرد لماك,qa_factoid,0.2287,0.1073,False
+15459,ar-SA,social,social_post,إرسال شكوى على تويتر,qa_factoid,0.9824,0.0164,False
+15464,ar-SA,social,social_post,ما وصلني المنتج في الموعد غرد لكارفور,qa_factoid,0.7328,0.0104,False
+15467,ar-SA,social,social_post,اخبر كارفور انني اكرهم,qa_factoid,0.479,0.464,False
+15472,ar-SA,social,social_post,غرد شكوى إلى متجر كتب على الإنترنت,social_post,0.9909,0.9909,True
+15487,ar-SA,social,social_post,غرد إلى كارفور حول نظافة متجرهم,social_post,0.9998,0.9998,True
+15488,ar-SA,social,social_post,غرد على في كارفور لقد كنت أنتظر رقم التوصيل الخاص بي الآن لست سعيدًا,social_post,0.8187,0.8187,True
+15503,ar-SA,social,social_post,تغريدة جديدة لخدمة المشترك,qa_factoid,0.3559,0.2271,False
+15508,ar-SA,social,social_post,سيري فتح تغريد تويتر في بوتوس تمتص,social_post,0.9961,0.9961,True
+15518,ar-SA,social,social_post,ارسلي شكوى عنطريق tweet للعثيم,social_post,0.9723,0.9723,True
+15532,ar-SA,social,social_post,غرد olly كارفور وأخبرهم أن خدمة العملاء مروعة,qa_factoid,0.4862,0.0536,False
+15546,ar-SA,social,social_post,غرد عن البيتزا الباردة في كارفور,social_post,0.998,0.998,True
+15548,ar-SA,social,social_post,غرد بشكوى ل samsung بخصوص الجوال,email_sendemail,0.9459,0.0538,False
+15553,ar-SA,social,social_post,يرجى الرد السلبي غرد على خدمات كارفور,social_post,0.9856,0.9856,True
+15554,ar-SA,social,social_post,غرد على خدمات كارفور لخدمات كارفور,social_post,0.9962,0.9962,True
+15556,ar-SA,social,social_post,دعونا نغرد شكوى على تويتر,qa_factoid,0.7919,0.2043,False
+15557,ar-SA,social,social_post,أريدك أن تغرد شكوى,social_post,0.6005,0.6005,True
+15560,ar-SA,social,social_post,انشر على فيسبوك انا جائع,social_post,0.9999,0.9999,True
+15565,ar-SA,social,social_post,هل يمكنك إخبار ديلتا بأنني لن أستخدمها مرة أخرى,social_post,0.7722,0.7722,True
+15587,ar-SA,social,social_post,فتح اسم مشاركة صورة في الوسائط,iot_hue_lightoff,0.478,0.0398,False
+15592,ar-SA,social,social_post,غرد بشكوى لسمسا,social_post,0.9988,0.9988,True
+15593,ar-SA,social,social_post,غرد شكوى على كارفور,social_post,0.9995,0.9995,True
+15598,ar-SA,social,social_post,افتح اسم الشركة وابحث عن الشكاوى,qa_factoid,0.9956,0.0034,False
+15610,ar-SA,social,social_post,غرد كالآتي متابعة سيئة للغاية من شركة أرامكو غير مرتاح في الحساب حقي,social_post,0.6189,0.6189,True
+15618,ar-SA,social,social_post,اكتب تغريدة لكارفور وقولهم انتم خايسيين,news_query,0.9773,0.0208,False
+15626,ar-SA,social,social_post,لو ماعليك امر غرد بشكوى للراجحي عن خدمة العملاء عندهم شينه,social_post,0.6634,0.6634,True
+15634,ar-SA,social,social_post,اوكي جوجل سوي تغريدة مين مالك محطة البترول,social_post,0.4369,0.4369,True
+15635,ar-SA,social,social_post,غرد إلى ماكدونالدز داون ريسيدا لديها خدمة رهيبة,social_post,0.5716,0.5716,True
+15647,ar-SA,social,social_post,غرد بشكوى الى,social_post,0.9993,0.9993,True
+15651,ar-SA,social,social_post,إرسال تقرير إلى خدمات المشترك,qa_factoid,0.2117,0.032,False
+15652,ar-SA,social,social_post,المساعدة في تقديم شكوى خدمات المشترك,qa_factoid,0.5839,0.0222,False
+15655,ar-SA,social,social_post,غرد إلى خدمة عملاء google إن هاتف nexus الجديد الخاص بي يتوقف عن العمل الرجاء المساعدة,iot_hue_lightoff,0.5503,0.0208,False
+15656,ar-SA,social,social_post,غرد إلى كارفور بأنني ما زلت أنتظر توصيلي,social_post,0.9967,0.9967,True
+15661,ar-SA,social,social_post,انشرلي اخر شي شاركته بالـ twitter عن وكالة مازدا,social_post,0.9998,0.9998,True
+15670,ar-SA,social,social_post,ارسل تغريدة شكوى,qa_factoid,0.9973,0.0025,False
+15672,ar-SA,social,social_post,غرد على apple عن عدم استلام iphone اللي أرسلته يصلحونه الأسبوع اللي راح,social_post,0.9947,0.9947,True
+15676,ar-SA,social,social_post,يرجى إضافة شكوى حول الخدمة و غرد إلى حديقة زيتون,social_post,0.8434,0.8434,True
+15686,ar-SA,social,social_post,سلام الغرض اللي اشتريته من واحد خرب ومعد يشتغل,qa_factoid,0.9788,0.0084,False
+15693,ar-SA,social,social_post,غرد أن كان في حشرة في علبة الشوكولا,qa_factoid,0.7613,0.0398,False
+15700,ar-SA,social,social_post,المنتجات منتهية الصلاحية في السوق الجديد,recommendation_events,0.2742,0.0132,False
+15703,ar-SA,social,social_post,غرد إلى كارفور أن أحجامها تنفد بسرعة كبيرة,social_post,0.1274,0.1274,True
+15706,ar-SA,social,social_post,غرد في,social_post,0.9996,0.9996,True
+15707,ar-SA,social,social_post,خلنا نرسل تغريدة,social_post,0.5842,0.5842,True
+15708,ar-SA,social,social_post,انشري شكوى حول الخدمة أ,qa_factoid,0.9388,0.0054,False
+15721,ar-SA,social,social_post,غرد وجهًا مقرفًا بشأن كارفور,social_post,0.9993,0.9993,True
+15723,ar-SA,social,social_post,حضر حالة الشعور بالسعادة على فيسبوك,social_post,0.9997,0.9997,True
+15731,ar-SA,social,social_post,olly غرد برسالة إلى موبايلي وأخبرهم أن خدمتي سيئة,email_sendemail,1.0,0.0,False
+15732,ar-SA,social,social_post,غرد سامسونغ وقل لهم لوقف قتل الناس مع منتجاتها,social_post,0.9982,0.9982,True
+15736,ar-SA,social,social_post,ارسلي مراجعة سلبية عن شركة,recommendation_events,0.8067,0.186,False
+15756,ar-SA,email,email_sendemail,أرسل email لفريقي,email_sendemail,1.0,1.0,True
+15763,ar-SA,email,email_query,تكفى شوف اذا عندي ايميلات جديدة,email_sendemail,1.0,0.0,False
+15765,ar-SA,email,email_sendemail,رد على email صالح,email_sendemail,1.0,1.0,True
+15777,ar-SA,email,email_query,قول لي اذا وصلتني ايميلات جديدة,email_sendemail,1.0,0.0,False
+15785,ar-SA,email,email_query,فيه أي شي جديد في صندوق رسايلي,email_sendemail,0.9289,0.0651,False
+15789,ar-SA,email,email_query,olly هل عندي أي إيميلات جديدة,email_sendemail,0.9974,0.0026,False
+15792,ar-SA,calendar,calendar_query,مين راح أقابل اليوم,social_post,0.5236,0.0011,False
+15796,ar-SA,email,email_sendemail,أرسل email لبشاير,email_sendemail,1.0,1.0,True
+15802,ar-SA,email,email_sendemail,رد على ايميل نواف وقول له اني مو جاي الليلة,email_sendemail,1.0,1.0,True
+15809,ar-SA,email,email_query,هل جتني إيميلات من محمد والا لسى,email_sendemail,1.0,0.0,False
+15825,ar-SA,email,email_sendemail,رد على الوالد واكنب له اني رح أتوخر,qa_factoid,0.7217,0.0017,False
+15828,ar-SA,email,email_sendemail,هاد ايميل جديد ضيفه على القائمة,email_sendemail,1.0,1.0,True
+15829,ar-SA,email,email_sendemail,روح لجهات الإتصال و أختار عنوان email جديد,email_sendemail,1.0,1.0,True
+15839,ar-SA,email,email_query,وصلني ايميل ولا,email_sendemail,1.0,0.0,False
+15841,ar-SA,email,email_sendemail,اكتب email جديد لسعود,email_sendemail,1.0,1.0,True
+15845,ar-SA,email,email_sendemail,كيف يأتي لنا,qa_factoid,0.9987,0.0,False
+15847,ar-SA,email,email_sendemail,أرسل email شلون ناخذ قرض,email_sendemail,1.0,1.0,True
+15849,ar-SA,email,email_sendemail,ارسل ايميل الى المدير حقي,email_sendemail,1.0,1.0,True
+15857,ar-SA,email,email_sendemail,تكفى أرسل لعنوان الإيميل الجديد اللي سجلته,email_sendemail,1.0,1.0,True
+15862,ar-SA,email,email_query,تأكد إذا جاني email من أمي,email_sendemail,1.0,0.0,False
+15880,ar-SA,email,email_query,بالله عليك تاكدلي من ايميلي,email_query,0.7604,0.7604,True
+15890,ar-SA,email,email_query,شوف اذا عندي أي ايميلات جديدة من بابا,email_sendemail,1.0,0.0,False
+15904,ar-SA,email,email_query,شيك على emails الجديدة وعلمني وش تتكلم عنه,email_sendemail,1.0,0.0,False
+15906,ar-SA,email,email_sendemail,رد شكرا على فهد,social_post,0.4686,0.0554,False
+15911,ar-SA,email,email_sendemail,جهز email لسارة,email_sendemail,1.0,1.0,True
+15933,ar-SA,email,email_query,شوف لي الايميلات الجديدة حقي,email_sendemail,1.0,0.0,False
+15942,ar-SA,email,email_sendemail,ارسل هذا الإيميل للرد على رسائل البريد الالكتروني الأخيرة,email_sendemail,1.0,1.0,True
+15950,ar-SA,email,email_sendemail,رد على email أحمد الثقفي,email_sendemail,1.0,1.0,True
+15957,ar-SA,email,email_sendemail,ارسل ايميل عشان أروى وخبرها اننا في الطريق,email_sendemail,1.0,1.0,True
+15963,ar-SA,email,email_query,في أي ايميلات جديدة من محمد,email_sendemail,1.0,0.0,False
+15966,ar-SA,email,email_query,أرسل رد إن كان الموضوع مهم جدًا,social_post,0.918,0.0028,False
+15968,ar-SA,email,email_query,اذا من مكان مره معروف حط عليه علامه انه مهم,qa_factoid,0.9477,0.0004,False
+15970,ar-SA,email,email_query,وش كان عنوان آخر email من الوالدة,email_sendemail,1.0,0.0,False
+15971,ar-SA,email,email_query,وش كان آخر email من الشغل,email_sendemail,1.0,0.0,False
+15994,ar-SA,email,email_sendemail,أرسل email لفارس واسأله في أي وقت يناسبه الإجتماع,email_sendemail,1.0,1.0,True
+15995,ar-SA,email,email_sendemail,أرسل email لمها عن اجتماع الميزانية,email_sendemail,1.0,1.0,True
+15998,ar-SA,email,email_query,شيك على إيميلاتي لشي من الإسم,email_sendemail,0.9999,0.0001,False
+16002,ar-SA,email,email_query,شوف اذا فيه email جديد,email_sendemail,1.0,0.0,False
+16005,ar-SA,email,email_sendemail,أرسل email على bader at gmail dot com,email_sendemail,1.0,1.0,True
+16010,ar-SA,email,email_query,قول لي اذا عندي أي رسايل جديدة في صندوق الوارد حقي,email_sendemail,0.9997,0.0003,False
+16024,ar-SA,email,email_sendemail,أرسل email لصالح وقول أنا مشغول بكره,email_sendemail,1.0,1.0,True
+16028,ar-SA,email,email_sendemail,سلام siri أرسلي email لزميلي في الشغل,email_sendemail,1.0,1.0,True
+16029,ar-SA,email,email_sendemail,تكفى اكتب email جديد لزميلي في الشغل,email_sendemail,1.0,1.0,True
+16032,ar-SA,email,email_sendemail,تكفى أرسل email لشروق بخصوص اجتماع بكره,email_sendemail,1.0,1.0,True
+16038,ar-SA,email,email_query,هيه انت أرسل لي محمد أي email قريب ولا لا,email_sendemail,1.0,0.0,False
+16045,ar-SA,email,email_sendemail,ابعث ايميل الى اسماعيل عن برنامج افتتاح المكتب,email_sendemail,1.0,1.0,True
+16048,ar-SA,email,email_query,ووريني اخر الايميلات الجديدة,email_sendemail,1.0,0.0,False
+16049,ar-SA,email,email_sendemail,أبغى أرسل email لأهلي تكفى ساعدني,email_sendemail,1.0,1.0,True
+16050,ar-SA,email,email_query,شوف gmail,email_sendemail,0.9999,0.0001,False
+16052,ar-SA,email,email_query,شوف outlook,iot_hue_lightoff,0.9683,0.001,False
+16056,ar-SA,email,email_sendemail,رد على email,email_sendemail,1.0,1.0,True
+16061,ar-SA,email,email_query,وصلني أية ايميلات جديدة آخر عشر دقايق,email_sendemail,1.0,0.0,False
+16072,ar-SA,email,email_sendemail,ارسل بريد الكتروني إلى مدير حقي خبره اني سأتأخر اليوم لحالة طارئة واعتذر على تفويت الاجتماع,email_sendemail,1.0,1.0,True
+16075,ar-SA,email,email_query,ورني آخر email من معتز,email_sendemail,1.0,0.0,False
+16082,ar-SA,email,email_sendemail,أرسل email لماجد واسأله كيفه الحين واذا يبيني أساعده في شي,email_sendemail,1.0,1.0,True
+16089,ar-SA,email,email_query,هل جتني أي إيميلات جديدة في آخر عشر دقايق,email_sendemail,1.0,0.0,False
+16096,ar-SA,email,email_query,أرسلت لي مها أي ايميلات جديدة ولا لا,email_sendemail,1.0,0.0,False
+16098,ar-SA,email,email_query,شوف الإيميلات اللي ما قريتها من ندى,email_sendemail,1.0,0.0,False
+16100,ar-SA,email,email_query,بالله عليك اتاكد لي من ايميل الوظائف,email_sendemail,1.0,0.0,False
+16103,ar-SA,email,email_sendemail,أرسل email لأخويا وقول ذكرى عيد زواج,email_sendemail,1.0,1.0,True
+16120,ar-SA,email,email_sendemail,أرسل ساعديني بس لأماني,email_sendemail,1.0,1.0,True
+16131,ar-SA,email,email_sendemail,ضيف الإيميل الجديد هذا لجهات الإتصال حقتي,email_sendemail,1.0,1.0,True
+16145,ar-SA,email,email_query,ووريني اخر الايميلات الجديدة,email_sendemail,1.0,0.0,False
+16146,ar-SA,news,news_query,امنحني أخر التحديثات,email_sendemail,0.9614,0.0007,False
+16148,ar-SA,email,email_sendemail,رد سريع على محمد عشان كذا لو سمحت إرسل البريد,email_query,0.7852,0.1991,False
+16151,ar-SA,email,email_query,تحقق من برنامج الاجتماع في ايميلات اليوم,recommendation_events,0.3268,0.0418,False
+16162,ar-SA,email,email_sendemail,أرسل رد,social_post,0.7043,0.0066,False
+16163,ar-SA,email,email_query,مين أرسلي ايميلات أمس,email_sendemail,1.0,0.0,False
+16165,ar-SA,email,email_query,ردت لي هيفاء,social_post,0.9986,0.0,False
+16166,ar-SA,email,email_sendemail,ممكن ترد على عهد انه أنا بكون مشغولة في المشاريع الثلاثة الأسابيع الجاية,iot_hue_lightoff,0.3012,0.0291,False
+16168,ar-SA,email,email_query,وصلتني أي ايميلات في آخر ربع ساعة,email_sendemail,1.0,0.0,False
+16170,ar-SA,email,email_query,افتح علبة البريد الوارد للتحقق من الايميلات غير المقروءة,email_sendemail,1.0,0.0,False
+16178,ar-SA,email,email_query,أي ايميل من أمازون اليوم,email_sendemail,0.5175,0.4825,False
+16183,ar-SA,email,email_query,شوف اذا فيه email عن شغلي,email_sendemail,1.0,0.0,False
+16201,ar-SA,email,email_sendemail,تكفى اكتب email جديد لمحمد وأرسل الرسالة الحين,email_sendemail,1.0,1.0,True
+16221,ar-SA,email,email_sendemail,دور على email ريم واكتبلها اني بعطيها خبر,email_sendemail,1.0,1.0,True
+16245,ar-SA,email,email_sendemail,أرسل email على omar at a.o.l. dot com,email_sendemail,1.0,1.0,True
+16248,ar-SA,email,email_query,لو سمحت شوف ايميلي,qa_factoid,0.9967,0.0003,False
+16263,ar-SA,email,email_query,وصلني أي email جديد من عمر ولا لا,email_sendemail,1.0,0.0,False
+16266,ar-SA,email,email_sendemail,اكتب email لأهلي وقولهم أحبكم كلكم,email_sendemail,1.0,1.0,True
+16271,ar-SA,email,email_query,حدث البريد الوارد حقي وعلمني عن الايميلات الجديدة,email_sendemail,1.0,0.0,False
+16275,ar-SA,email,email_query,ابدأ التصويت للإيميل الجديد,email_sendemail,0.9573,0.0287,False
+16276,ar-SA,email,email_query,أنا عندي ايميلات جديدة,email_sendemail,1.0,0.0,False
+16280,ar-SA,email,email_sendemail,لو سمحت أرسل email إلى شوق الموجودة في قائمة أهلي وصديقاتي,email_sendemail,1.0,1.0,True
+16282,ar-SA,email,email_sendemail,أرسل email للسكرتيرة ليلى وخلها تكنسل كل مواعيد بكره,email_sendemail,1.0,1.0,True
+16296,ar-SA,email,email_sendemail,أرسل email لأمي وقول لها حفلة عيد ميلاد فيصل بتكون يوم الأحد,email_sendemail,1.0,1.0,True
+16297,ar-SA,email,email_sendemail,ابعث ايميل حق محمد تخبره شكرا,email_sendemail,1.0,1.0,True
+16314,ar-SA,email,email_sendemail,أرسل email لمريم,email_sendemail,1.0,1.0,True
+16317,ar-SA,email,email_query,وصلتني أي ايميلات جديدة من سعاد,email_sendemail,1.0,0.0,False
+16318,ar-SA,email,email_sendemail,رد على email,email_sendemail,1.0,1.0,True
+16320,ar-SA,email,email_sendemail,ابغى أرد على email سالم الحارثي,email_sendemail,1.0,1.0,True
+16353,ar-SA,email,email_query,تأكد لي من الايميلات الواصلة من سفيان,email_sendemail,1.0,0.0,False
+16354,ar-SA,email,email_query,شوف اذا فيه ايميلات من مديري,email_sendemail,1.0,0.0,False
+16356,ar-SA,email,email_query,هل أرسلت بريدًا إلكترونيًا إلى محمد بخصوص موضوع مراقبة الأسلحة,email_sendemail,1.0,0.0,False
+16357,ar-SA,email,email_query,أرسل لي محمد إيميل عن الذخيرة,social_post,0.9961,0.0,False
+16361,ar-SA,email,email_query,عندي أي ايميلات جديدة آخر ساعة,email_sendemail,1.0,0.0,False
+16373,ar-SA,email,email_query,لقد تلقيت أي رسائل بريد إلكتروني تحتوي على أرقام تتبع,email_sendemail,0.6882,0.0097,False
+16375,ar-SA,email,email_sendemail,اكتب email لمحمد,email_sendemail,0.7012,0.7012,True
+16376,ar-SA,email,email_sendemail,أليكسا يرجى إرسال البريد الإلكتروني إلى ماما,email_sendemail,1.0,1.0,True
+16377,ar-SA,email,email_sendemail,اسل ايميل لوالدتي الحين,email_sendemail,1.0,1.0,True
+16384,ar-SA,email,email_query,هيه انت وصلتني أي ايميلات جديدة,email_sendemail,1.0,0.0,False
+16385,ar-SA,email,email_query,تكفى اقرا الإيميلات الجديدة,email_sendemail,0.9787,0.0209,False
+16398,ar-SA,email,email_sendemail,الله يسعدك أرسل email لكمال,email_sendemail,1.0,1.0,True
+16399,ar-SA,email,email_query,وصلني أي email جديد,email_sendemail,1.0,0.0,False
+16401,ar-SA,email,email_sendemail,أرسل email لشهد سلام وش بتسوين اليوم,email_sendemail,1.0,1.0,True
+16402,ar-SA,email,email_sendemail,أرسل email لتهاني بخطط اليوم,email_sendemail,1.0,1.0,True
+16406,ar-SA,email,email_sendemail,alexa ابدأي email,email_sendemail,1.0,1.0,True
+16410,ar-SA,email,email_sendemail,ابدأ email,email_sendemail,1.0,1.0,True
+16413,ar-SA,email,email_query,ورني كل الإيميلات اللي وصلتني من مديري,email_sendemail,1.0,0.0,False
+16419,ar-SA,email,email_sendemail,لو سمحت ارسل email إلى العم عبدالله وقول له ايه اقدر اسويه,email_sendemail,1.0,1.0,True
+16427,ar-SA,email,email_query,كم عدد الأيميلات الجديدة الي جتني اليوم,email_sendemail,1.0,0.0,False
+16430,ar-SA,email,email_sendemail,تكفى ارسل email لماما و بابا واسألهم عن أخبارهم,email_sendemail,1.0,1.0,True
+16437,ar-SA,email,email_sendemail,لو ماعليك أمر أرسل هذا email لخويي,email_sendemail,1.0,1.0,True
+16438,ar-SA,email,email_sendemail,ابيك ترسل هذا الإيميل الحين,email_sendemail,1.0,1.0,True
+16446,ar-SA,email,email_query,لوسمحت تأكد من محتوى الأيميل الأخير من هذا المرسل,email_sendemail,0.9999,0.0001,False
+16459,ar-SA,email,email_sendemail,رسالة جديدة الى newmail at gmail dot com,email_sendemail,1.0,1.0,True
+16461,ar-SA,email,email_query,ايش الإيميلات اللي ما قرأتها,email_sendemail,1.0,0.0,False
+16467,ar-SA,email,email_query,هل عندي أي إيميلات جديدة من جهات اتصالي q,email_sendemail,1.0,0.0,False
+16471,ar-SA,email,email_query,شوف الإيميلات اللي من سلطان,email_sendemail,1.0,0.0,False
+16496,ar-SA,email,email_sendemail,أرسل email ورد فيه,email_sendemail,1.0,1.0,True
+16501,ar-SA,email,email_sendemail,تكفى أرسل email لصديقتي مها وقول لها كيف حالك,email_sendemail,1.0,1.0,True
+16506,ar-SA,email,email_sendemail,ظيف عنوان email جديد وارسل email,email_sendemail,1.0,1.0,True
+16518,ar-SA,email,email_sendemail,ضيف email جديد لسلوى القرشي,email_sendemail,1.0,1.0,True
+16519,ar-SA,email,email_sendemail,أبغى أضيف email جديد في جهات الإتصال حقي,email_sendemail,1.0,1.0,True
+16535,ar-SA,email,email_sendemail,ممكن تكتب email لخلود,email_sendemail,1.0,1.0,True
+16559,ar-SA,email,email_sendemail,أرسل رد لياسر بالإجابة أربعمية وثلاثين من ايميله اللي أرسله الصبح,email_sendemail,0.9709,0.9709,True
+16560,ar-SA,email,email_sendemail,رد على email المدراء بكلمة إني بكون موجود في الساعة أربعة العصر,email_sendemail,1.0,1.0,True
+16563,ar-SA,email,email_query,تأكد من الايميل حقي,email_sendemail,1.0,0.0,False
+16591,ar-SA,email,email_sendemail,وصلني ايميل جديد من رولا رح ارد عليه بعد وقت,email_sendemail,1.0,1.0,True
+16593,ar-SA,email,email_sendemail,هذا البريد الإلكتروني الأخير يحتاج إلى إجابة asa p,email_sendemail,1.0,1.0,True
+16603,ar-SA,email,email_query,وش يقول ال email اللي أرسلته ماما قبل نص ساعة,email_sendemail,1.0,0.0,False
+16605,ar-SA,email,email_sendemail,اكتب وأرسل email لمديرتي,email_sendemail,1.0,1.0,True
+16609,ar-SA,email,email_query,قول لي اذا عندي أي ايميلات جديدة وما قريتها,email_sendemail,0.9999,0.0001,False
+16613,ar-SA,email,email_sendemail,أرسل email للمدير وقول اني بتأخر,email_sendemail,1.0,1.0,True
+16622,ar-SA,email,email_sendemail,أرسل email لجهة الإتصال هاذي,email_sendemail,1.0,1.0,True
+16624,ar-SA,email,email_sendemail,أبغى أرسل email لجرير عن مشاكل خدماتهم,email_sendemail,1.0,1.0,True
+16627,ar-SA,email,email_query,توكدلي من الايميلات اللي وصلت للتو,email_sendemail,1.0,0.0,False
+16630,ar-SA,email,email_sendemail,أرسل رد لآخر email,email_sendemail,1.0,1.0,True
+16642,ar-SA,email,email_query,شوف الإيميل اذا وصلني أي شي من ليلى,email_sendemail,1.0,0.0,False
+16648,ar-SA,email,email_query,تكفى شوف ايميلاتي عشاني,email_sendemail,1.0,0.0,False
+16652,ar-SA,email,email_query,email سامي فيه رابط ولا لا,email_sendemail,1.0,0.0,False
+16662,ar-SA,email,email_query,تكفى قول لي اذا وصلتني أي ايميلات جديدة من بندر,email_sendemail,1.0,0.0,False
+16666,ar-SA,email,email_query,وصلتني أي ايميلات,email_sendemail,1.0,0.0,False
+16668,ar-SA,email,email_query,وصلتني أي ايميلات من الساعة أربعة اليوم,email_sendemail,1.0,0.0,False
+16669,ar-SA,email,email_query,وصل لي ايميل من يوسف,email_sendemail,1.0,0.0,False
+16672,ar-SA,email,email_query,تواصل معي محمد ولا لا,email_sendemail,1.0,0.0,False
+16677,ar-SA,email,email_query,شفلي اذا في لي أية ايميلات جديدة في صندوق الوارد حقي اليوم,email_sendemail,0.9989,0.0011,False
+16698,ar-SA,email,email_sendemail,اكتب رد لإيميل أمي,email_sendemail,1.0,1.0,True
+16701,ar-SA,email,email_sendemail,احب ارد على ايميل سلافة,email_sendemail,0.9927,0.9927,True
+16703,ar-SA,email,email_sendemail,ابغى أرد على آخر email,email_sendemail,1.0,1.0,True
+16712,ar-SA,email,email_query,أبغى أعرف اذا عندي أي email جديد,email_sendemail,0.9999,0.0001,False
+16713,ar-SA,email,email_query,تحقق من الايميلات حقي وخبرني اذا في أي ايميل جديد,email_sendemail,1.0,0.0,False
+16717,ar-SA,email,email_sendemail,لو سمحت ارسل لخالد اني ماخذ اجازه,email_sendemail,1.0,1.0,True
+16719,ar-SA,email,email_query,عطني خبر لمن توصلني أي ايميلات جديدة,email_sendemail,1.0,0.0,False
+16729,ar-SA,email,email_sendemail,رد على email صديقاتي و خلهم يعرفون اني بقابلهم بكره,email_sendemail,1.0,1.0,True
+16730,ar-SA,email,email_query,لو سمحت شيك على email جديد من ماجد,email_sendemail,1.0,0.0,False
+16733,ar-SA,email,email_query,أظهر لي آخر الايميلات من الراجحي,email_sendemail,1.0,0.0,False
+16749,ar-SA,email,email_query,في أية ايميلات جديدة لي اليوم,email_sendemail,1.0,0.0,False
+16754,ar-SA,email,email_sendemail,مليني الإيميل,email_sendemail,1.0,1.0,True
+16758,ar-SA,email,email_query,أي email جديد من آخر مره,email_sendemail,1.0,0.0,False
+16763,ar-SA,email,email_query,الإيميلات اللي في آخر عشر دقايق,email_sendemail,1.0,0.0,False
+16765,ar-SA,email,email_query,متى وقت المقابلة من email أمس,email_sendemail,1.0,0.0,False
+16766,ar-SA,email,email_query,شيك اذا فيه email جديد,email_sendemail,1.0,0.0,False
+16772,ar-SA,email,email_query,ورني كل الإيميلات اللي تتكلم عن التهكير,email_sendemail,0.9999,0.0001,False
+16780,ar-SA,email,email_sendemail,أرسل email على omarali at gmail dot com,email_sendemail,1.0,1.0,True
+16791,ar-SA,email,email_sendemail,سوي email جديد لكني حصلت عنوان جديد هالمره على brandon at example dot com,email_sendemail,1.0,1.0,True
+16799,ar-SA,email,email_query,هل جتني أي إيميلات وقت الظهر,email_sendemail,1.0,0.0,False
+16801,ar-SA,email,email_query,ابي اعرف اذا ريم أرسلت أي ايميلات عن مهند,email_sendemail,1.0,0.0,False
+16813,ar-SA,email,email_query,علمني لما يوصل ايميل من محمد,email_sendemail,1.0,0.0,False
+16814,ar-SA,email,email_query,شوف الإيميلات,email_sendemail,1.0,0.0,False
+16838,ar-SA,email,email_sendemail,ممكن ترسل الايميل لعنوان الايميل الجديد,email_sendemail,1.0,1.0,True
+16851,ar-SA,email,email_query,اشعارات email,email_sendemail,0.9999,0.0001,False
+16859,ar-SA,email,email_query,ايش أقول أنا ل فاطمة في الايميل الأخير حقي,email_sendemail,1.0,0.0,False
+16872,ar-SA,email,email_sendemail,دور على شوق في جهات الإتصال وأرسلها email,email_sendemail,1.0,1.0,True
+16873,ar-SA,email,email_sendemail,أرسل email لمها عشان عيد ميلادها,email_sendemail,1.0,1.0,True
+16880,ar-SA,email,email_sendemail,أرسل email لماجد عن الإجتماع,email_sendemail,1.0,1.0,True
+16883,ar-SA,email,email_sendemail,أرسل email لخالد واسأله في أي وقت بيكون في البيت الليلة,email_sendemail,1.0,1.0,True
+16886,ar-SA,email,email_sendemail,رد على هذا الإيميل,email_sendemail,1.0,1.0,True
+16888,ar-SA,email,email_query,وش في الإيميل الجديد,email_sendemail,1.0,0.0,False
+16890,ar-SA,email,email_query,شنو الايميلات الجديدة حقي,email_sendemail,1.0,0.0,False
+16891,ar-SA,email,email_sendemail,أرسل email لفواز العتيبي,email_sendemail,1.0,1.0,True
+16892,ar-SA,email,email_sendemail,ابدأ email لخالد عبدالله,email_sendemail,1.0,1.0,True
+16899,ar-SA,email,email_query,وصلتني أي ايميلات من عبدالله السبيعي ولا لا,email_sendemail,1.0,0.0,False
+16914,ar-SA,email,email_query,ابي أعرف اذا عندي ايميلات من هذا المرسل,email_sendemail,0.9159,0.0841,False
+16916,ar-SA,email,email_sendemail,مرحبا رد على الايميل اللي وصلنا,email_sendemail,1.0,1.0,True
+16924,ar-SA,email,email_query,الله يسعدك شوف اذا حسابي في gmail فيه ايميلات جديدة,email_sendemail,1.0,0.0,False
+16930,ar-SA,email,email_query,أظهر البريد الالكتروني الأخير,email_sendemail,1.0,0.0,False
+16938,ar-SA,email,email_sendemail,رد على ايميل يوسف,email_sendemail,1.0,1.0,True
+16944,ar-SA,email,email_sendemail,أرسل email لجدتي يقول بنزورك يوم السبت نشوفك على خير,email_sendemail,1.0,1.0,True
+16947,ar-SA,email,email_sendemail,رد عالإيميل,email_sendemail,1.0,1.0,True
+16955,ar-SA,email,email_sendemail,ارسل email لجهة الإتصال الجديدة,email_sendemail,1.0,1.0,True
+16956,ar-SA,email,email_sendemail,أرسل email لجهة الإتصال الجديدة,email_sendemail,1.0,1.0,True
+16961,ar-SA,email,email_sendemail,رد بهذا,qa_factoid,1.0,0.0,False
+16974,ar-SA,email,email_query,بالله عليك ووريني كل الايميلات الخاصة ب دائرة ضريبة الدخل,email_sendemail,1.0,0.0,False
+16987,ar-SA,email,email_query,أي email جديد من ريان,email_sendemail,1.0,0.0,False
+16989,ar-SA,email,email_sendemail,لوسمحت قول في الايميل اللي بترسله لمحمد أنا أحتاج فلوس الحين صار الموضوع مستعجل,email_sendemail,1.0,1.0,True
+16992,ar-SA,email,email_query,ابي أعرف اذا مريم القرشي أرسلت لي email,email_sendemail,1.0,0.0,False
+16995,ar-SA,email,email_sendemail,ابعث ايميل ل جمالات,email_sendemail,1.0,1.0,True
+17005,ar-SA,email,email_query,بالله عليك تاكدلي من الايميلات الجديدة,email_sendemail,1.0,0.0,False
+17011,ar-SA,email,email_sendemail,ممكن ترسل email الى,email_sendemail,1.0,1.0,True
+17015,ar-SA,email,email_sendemail,ابدأ الرد,qa_factoid,0.7991,0.0029,False
+17019,ar-SA,email,email_sendemail,ابدأ رد على آخر email,email_sendemail,1.0,1.0,True
+17020,ar-SA,email,email_sendemail,ردي على آخر ايميل تم استلامه,email_sendemail,1.0,1.0,True
+17023,ar-SA,email,email_sendemail,أرسل email لأمي واسألها كيف الجو عندها,email_sendemail,1.0,1.0,True
+17042,ar-SA,email,email_sendemail,اكتب email وارسله على saleh at gmail dot com,email_sendemail,1.0,1.0,True
+17043,ar-SA,email,email_sendemail,أرسل email على majid at hotmail dot com,email_sendemail,1.0,1.0,True
+17051,ar-SA,email,email_query,افتح الإيميل الجديد,email_sendemail,1.0,0.0,False
+17052,ar-SA,email,email_query,دور على وعد,email_query,0.3838,0.3838,True
+17069,ar-SA,email,email_query,هل فيه أي إيميلات جديدة في outlook,email_sendemail,0.9999,0.0001,False
+17075,ar-SA,email,email_query,وصلتني أي ايميلات جديدة بعد الساعة أربعة اليوم,email_sendemail,1.0,0.0,False
+17081,ar-SA,email,email_sendemail,ابدأ email لموظف الشركة حقي وأرسل فيه المستندات اللي حفظتها قريب,email_sendemail,1.0,1.0,True
+17087,ar-SA,email,email_query,شوف اذا وصلتني ايميلات جديدة من نوال,email_sendemail,1.0,0.0,False
+17098,ar-SA,email,email_query,ورني أي ايميلات وصلتني في آخر ساعة,email_sendemail,1.0,0.0,False
+17107,ar-SA,email,email_query,شوف الإيميلات الجديدة,email_sendemail,1.0,0.0,False
+17108,ar-SA,email,email_query,عطني آخر email حقي,email_sendemail,1.0,0.0,False
+17113,ar-SA,email,email_sendemail,ابدأ email لياسمين,email_sendemail,1.0,1.0,True
+17115,ar-SA,email,email_query,قراءة قائمة إيميلات جديدة,email_sendemail,1.0,0.0,False
+17116,ar-SA,email,email_query,ورني قائمة الإيميلات الأخيرة,email_sendemail,1.0,0.0,False
+17119,ar-SA,email,email_query,شوف اذا فيه أي email من amazon,email_sendemail,1.0,0.0,False
+17123,ar-SA,email,email_sendemail,أرسل email إلى أمير المنطقة,email_sendemail,1.0,1.0,True
+17135,ar-SA,email,email_query,فيه أي ايميلات مبشرة,email_sendemail,1.0,0.0,False
+17136,ar-SA,email,email_query,بالله عليك اقرا لي ايميلاتي الجديدة,email_sendemail,1.0,0.0,False
+17138,ar-SA,email,email_query,تكفى حط كل الرسايل اللي قريتها في الأرشيف,lists_remove,0.4456,0.011,False
+17142,ar-SA,email,email_query,وش في صندوق الوارد حقي من آخر مره شيكت,email_sendemail,0.9777,0.0222,False
+17143,ar-SA,email,email_sendemail,السلام عليكم ارسل ايميل ل عمر,email_sendemail,1.0,1.0,True
+17144,ar-SA,email,email_query,سلام شوف ال email,email_sendemail,1.0,0.0,False
+17147,ar-SA,email,email_sendemail,رد على الايميل مرحبا,email_sendemail,1.0,1.0,True
+17148,ar-SA,email,email_sendemail,alexa ردي على الايميل وقولي فيه ياهلا فيك,email_sendemail,1.0,1.0,True
+17151,ar-SA,email,email_sendemail,أرسل لي صديقي محمد بطاقة دعوة لبيته اللي توه شراه ارسل له وقول له شكرا لك في البريد حقه,email_sendemail,1.0,1.0,True
+17156,ar-SA,email,email_query,شوف ايميلي اذا وصلني اي email جديد من محمد,email_sendemail,1.0,0.0,False
+17157,ar-SA,email,email_query,ابي أعرف اذا وصلني أي email جديد من هتان,email_sendemail,1.0,0.0,False
+17170,ar-SA,email,email_query,تبهني لمن يرسلي محمد ايميلات,email_sendemail,1.0,0.0,False
+17179,ar-SA,email,email_query,ابي أعرف اذا سلمان أرسل لي email,email_sendemail,1.0,0.0,False

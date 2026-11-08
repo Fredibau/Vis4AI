@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,hi-IN,iot,iot_hue_lightoff,ओली शयनकक्ष में बत्तियाँ बंद कर दें,lists_remove,0.4015,0.2029,False
+47,hi-IN,datetime,datetime_query,भारत में समय क्या है,datetime_query,0.9416,0.9416,True
+85,hi-IN,datetime,datetime_query,आज की तारीख बताओ,datetime_query,0.9393,0.9393,True
+86,hi-IN,datetime,datetime_query,आज क्या तारीख है,datetime_query,0.9944,0.9944,True
+100,hi-IN,weather,weather_query,सप्ताह का पूर्वानुमान क्या है,datetime_query,0.9417,0.0021,False
+102,hi-IN,weather,weather_query,इस सप्ताह का मौसम क्या है,weather_query,0.9994,0.9994,True
+103,hi-IN,weather,weather_query,मुझे इस सप्ताह का मौसम बताओ,weather_query,0.9992,0.9992,True
+128,hi-IN,datetime,datetime_query,तारीख कितनी हैं,datetime_query,0.9954,0.9954,True
+151,hi-IN,play,play_music,कृपया इसको फिर से चालू करो,qa_factoid,0.9883,0.0004,False
+177,hi-IN,news,news_query,मुझे व्यापार से संबंधित कुछ ख़बरें बताओ,qa_factoid,0.9845,0.0,False
+178,hi-IN,news,news_query,मुझे अंतरराष्ट्रीय समाचार बताओ,qa_factoid,0.625,0.0199,False
+182,hi-IN,play,play_music,मेरी शास्त्रीय संगीत की प्लेलिस्ट चलाओ,recommendation_events,0.5977,0.1605,False
+185,hi-IN,play,play_music,मेरी प्लेलिस्ट चालू करें और कतार में तीसरा गाना बजाएं,play_music,0.9992,0.9992,True
+197,hi-IN,datetime,datetime_query,अभी क्या समय है,weather_query,0.7134,0.1772,False
+216,hi-IN,weather,weather_query,आज का मौसम कैसा है,weather_query,0.9995,0.9995,True
+219,hi-IN,weather,weather_query,क्या मुझे कल छाता लाना चाहिए,iot_hue_lightoff,0.7455,0.0345,False
+220,hi-IN,play,play_music,मेरी रॉक लिस्ट से गाना चलाओ,play_music,0.9996,0.9996,True
+250,hi-IN,play,play_music,मैं अभी भक्ति की तरह महसूस कर रहा हूँ आप कैसे हैं,qa_factoid,0.8745,0.0008,False
+254,hi-IN,play,play_music,olly मेरे पसंदीदा भक्ति प्लेयर से एक अच्छा गाना बजाओ,play_music,1.0,1.0,True
+279,hi-IN,weather,weather_query,गोरखपुर के लिए आज का पूर्वानुमान क्या है,datetime_query,0.2701,0.1179,False
+281,hi-IN,news,news_query,अमेरिकी डॉलर से पाउंड स्टर्लिंग की विनिमय दर क्या है,qa_factoid,0.7392,0.0028,False
+296,hi-IN,play,play_music,निर्वाणा की प्लेलिस्ट चलाओ,recommendation_events,0.9149,0.0002,False
+297,hi-IN,play,play_music,अरिजीत सिंह के गानों का फेरबदल करो,play_music,0.8771,0.8771,True
+299,hi-IN,weather,weather_query,मौसम किस तरह का है बताओ,qa_factoid,0.9262,0.0009,False
+310,hi-IN,datetime,datetime_query,इस समय नए साल की शाम कौन सा दिन है,weather_query,0.9979,0.0007,False
+319,hi-IN,weather,weather_query,मुझे अब से दो दिनों में बार्सिलोना में मौसम बताओ,weather_query,0.9998,0.9998,True
+329,hi-IN,play,play_music,सात साल वाले गाने बजाओ,play_music,1.0,1.0,True
+333,hi-IN,weather,weather_query,पटना में मौसम की स्थिति क्या है,weather_query,0.9985,0.9985,True
+334,hi-IN,weather,weather_query,मैं सैन फ्रांसिस्को में मौसम जानना चाहता हूं,weather_query,0.9986,0.9986,True
+344,hi-IN,weather,weather_query,क्या कल बारिश होगी,weather_query,0.9829,0.9829,True
+348,hi-IN,weather,weather_query,क्या कल वर्षा होगी,weather_query,0.9975,0.9975,True
+355,hi-IN,datetime,datetime_query,पहली अप्रैल को सप्ताह का कौन सा दिन होगा,weather_query,0.9347,0.0503,False
+360,hi-IN,datetime,datetime_query,वर्तमान समय क्या है,datetime_query,0.9983,0.9983,True
+362,hi-IN,play,play_music,अनिरुद्ध के गाने का दूसरा गाना बजाएं,play_music,1.0,1.0,True
+366,hi-IN,news,news_query,कृपया मुझे ताजा खबर बताओ,email_sendemail,0.7374,0.0002,False
+369,hi-IN,iot,iot_hue_lightoff,बत्तियाँ बंद करना,lists_remove,0.3595,0.2616,False
+385,hi-IN,news,news_query,भारत के समय में सनसनीखेज क्या है,qa_definition,0.908,0.0,False
+391,hi-IN,play,play_music,मेरी प्लेलिस्ट से एक कोई भी गाना चलाओ,play_music,0.9162,0.9162,True
+393,hi-IN,play,play_music,मेरी प्लेलिस्ट में एक भक्ति गाना चलाओ,play_music,0.9585,0.9585,True
+397,hi-IN,play,play_music,सोनू निगम का कोई गाना चालू करें,play_music,0.9924,0.9924,True
+400,hi-IN,play,play_music,बजाना शुरू करो,qa_factoid,0.9989,0.0001,False
+407,hi-IN,play,play_music,क्या आप अगले घंटे के लिए रॉक संगीत चला सकते हैं,play_music,0.9289,0.9289,True
+424,hi-IN,news,news_query,ताजा खबर क्या है,news_query,0.9993,0.9993,True
+427,hi-IN,iot,iot_hue_lightoff,स्नानघर में बत्तियाँ बंद करें,lists_remove,0.2548,0.225,False
+428,hi-IN,iot,iot_hue_lightoff,स्नानघर की लाइट बंद करें,iot_hue_lightoff,0.9304,0.9304,True
+430,hi-IN,weather,weather_query,अभी का मौसम कैसा है,weather_query,0.9992,0.9992,True
+437,hi-IN,play,play_music,अरिजीत सिंह का फोल्डर खोलो,lists_remove,0.9232,0.0029,False
+441,hi-IN,news,news_query,ताजा समाचारों की सुर्खियां क्या हैं,news_query,0.9221,0.9221,True
+442,hi-IN,news,news_query,समाचार में क्या हो रहा है,social_post,0.9684,0.0294,False
+451,hi-IN,news,news_query,मेरे लिए रिलायंस का नवीनतम स्टॉक मूल्य प्राप्त करें,recommendation_events,0.9967,0.0001,False
+473,hi-IN,play,play_music,अरिजीत सिंह को चालू करो,qa_factoid,0.8099,0.0001,False
+486,hi-IN,datetime,datetime_query,शिमला में क्या टाइम हो रहा है,weather_query,0.9918,0.0003,False
+491,hi-IN,weather,weather_query,क्या बाहर ठंड है,weather_query,0.9954,0.9954,True
+506,hi-IN,play,play_music,ए. आर. रहमान के गाने खोले,lists_remove,0.4326,0.3065,False
+512,hi-IN,weather,weather_query,अंक प्राप्त करके,qa_factoid,0.9828,0.0006,False
+540,hi-IN,play,play_music,नेहा कक्कड़ द्वारा गाया गया गाना बजाएं,play_music,1.0,1.0,True
+555,hi-IN,play,play_music,सोनू निगम का कल हो ना हो चालू करें,qa_factoid,0.7938,0.0123,False
+576,hi-IN,play,play_music,प्लेलिस्ट द्वारा सभी चालू करें,recommendation_events,0.5951,0.0022,False
+585,hi-IN,news,news_query,ताजा खबर को दिखाओ,news_query,0.5579,0.5579,True
+588,hi-IN,news,news_query,आज के लिए नई खबर क्या है,news_query,0.9979,0.9979,True
+590,hi-IN,weather,weather_query,वर्तमान मौसम क्या है,weather_query,0.9991,0.9991,True
+614,hi-IN,play,play_music,प्लेलिस्ट शुरू करो,recommendation_events,0.965,0.0009,False
+625,hi-IN,play,play_music,कृपया रेडियो अरिजीत सिंह गाना बजाएं,play_music,1.0,1.0,True
+631,hi-IN,news,news_query,गुजरात पाइपलाइन के बारे में समाचार के लिए अधिसूचना सेट करें,recommendation_events,0.1632,0.1052,False
+651,hi-IN,iot,iot_hue_lightoff,कक्ष की बत्तियां बंद करो,lists_remove,0.7354,0.05,False
+660,hi-IN,datetime,datetime_query,भारत में वर्तमान समय,datetime_query,0.3776,0.3776,True
+680,hi-IN,news,news_query,मुझे बिटकॉइन की कीमत के बारे में सूचित रखें,qa_factoid,0.941,0.0009,False
+686,hi-IN,datetime,datetime_query,न्यू यॉर्क में अभी समय क्या है,weather_query,0.9962,0.0027,False
+712,hi-IN,news,news_query,मैं न्यूज़ नेशन से अंतिम समाचार सुनना चाहता हूँ,news_query,0.9998,0.9998,True
+726,hi-IN,weather,weather_query,सप्ताह के मौसम के विवरण को संक्षेप में प्रस्तुत करें,weather_query,0.9977,0.9977,True
+730,hi-IN,iot,iot_hue_lightoff,बत्तियाँ बुझा दें,cooking_recipe,0.7152,0.1783,False
+738,hi-IN,weather,weather_query,आज बाहर सर्दी कितनी है,weather_query,0.5847,0.5847,True
+764,hi-IN,weather,weather_query,इस सप्ताह के लिए मौसम का पूर्वानुमान क्या है,weather_query,0.9971,0.9971,True
+765,hi-IN,news,news_query,क्या आप कृपया मुझे मेरे नवीनतम प्रदाता से अद्यतन समाचारों की सुर्खियां दे सकते हैं,social_post,0.4596,0.0098,False
+767,hi-IN,news,news_query,क्या आप मुझे नवीनतम समाचार ढूंढ सकते हैं,recommendation_events,0.999,0.0002,False
+768,hi-IN,news,news_query,ताजा राजनीतिक खबरों के बारे में बताएं,news_query,0.9528,0.9528,True
+779,hi-IN,play,play_music,मैं अरिजीत सिंह का तुम ही हो सुनना चाहता हूँ,social_post,0.7628,0.0202,False
+781,hi-IN,play,play_music,bilando खेलें,play_music,0.9841,0.9841,True
+782,hi-IN,play,play_music,अरिजीत सिंह द्वारा तुम ही हो प्ले करो,qa_factoid,0.8573,0.0003,False
+783,hi-IN,play,play_music,प्रेमगीत चलाओ,recommendation_events,0.2764,0.0971,False
+790,hi-IN,weather,weather_query,सुहावना या भारी मौसम,weather_query,0.9848,0.9848,True
+826,hi-IN,weather,weather_query,बाहर का वर्तमान तापमान क्या है,weather_query,0.9976,0.9976,True
+827,hi-IN,play,play_music,अरिजीत सिंह प्लेलिस्ट प्ले करो,social_post,0.7648,0.0032,False
+832,hi-IN,weather,weather_query,कल का मौसम का पूर्वानुमान क्या रहने वाला है,weather_query,0.999,0.999,True
+837,hi-IN,news,news_query,आगामी भारतीय चुनावों के लिए ज़ी न्यूज़ पोल की क्या चुनावी भविष्यवाणियां हैं,social_post,0.447,0.0435,False
+891,hi-IN,play,play_music,कुछ भक्ति संगीत चालू करें,play_music,0.9979,0.9979,True
+914,hi-IN,iot,iot_hue_lightoff,कृपया बत्तियाँ बंद करें,lists_remove,0.5214,0.0559,False
+936,hi-IN,play,play_music,मेरी jogging playlist में से music open करो और चलाओ,play_music,1.0,1.0,True
+951,hi-IN,weather,weather_query,मुंबई में अभी मौसम कैसा है,weather_query,0.9988,0.9988,True
+969,hi-IN,news,news_query,किसी विशेष विषय पर समाचार लेख,news_query,0.6107,0.6107,True
+974,hi-IN,datetime,datetime_query,कोलकाता में अभी क्या समय हो गया है,weather_query,0.9858,0.0126,False
+997,hi-IN,iot,iot_hue_lightoff,लिविंग रूम की लाइट बंद कर दो,iot_hue_lightoff,0.978,0.978,True
+999,hi-IN,iot,iot_hue_lightoff,क्या आप बत्तियाँ बंद कर सकते हैं,qa_factoid,0.5051,0.0775,False
+1007,hi-IN,play,play_music,कल हो ना हो मेरे rock श्रवणसूची से बजाओ,play_music,1.0,1.0,True
+1014,hi-IN,datetime,datetime_query,नई दिल्ली में इस समय क्या समय है,weather_query,0.9868,0.012,False
+1047,hi-IN,play,play_music,मुझे अच्छे से रोने की ज़रूरत है क्या आप मेरे लिए उदास शास्त्रीय गाने बजा सकते हैं,play_music,0.8865,0.8865,True
+1061,hi-IN,news,news_query,मुझे खेल समाचारों पर रोज की जानकारी देते रहें,news_query,0.7126,0.7126,True
+1063,hi-IN,news,news_query,खेल समाचार पर प्रति घंटा सूचना प्राप्त करें,recommendation_events,0.9579,0.0354,False
+1084,hi-IN,news,news_query,यूजर फ्रेंडली,qa_factoid,0.9492,0.0018,False
+1093,hi-IN,news,news_query,दा हिंदू की वेबसाइट पर जाएं,social_post,0.997,0.0001,False
+1098,hi-IN,datetime,datetime_query,पन्द्रह मार्च को सप्ताह का कौन सा दिन पड़ता है,weather_query,0.6263,0.3556,False
+1108,hi-IN,play,play_music,मेरी इच्छा कुछ देसी संगीत सुनने की है,play_music,0.9997,0.9997,True
+1115,hi-IN,play,play_music,सभी पॉप गीत शैलियों का समन्वय करें,recommendation_events,0.477,0.2114,False
+1120,hi-IN,news,news_query,क्या politic में कोई खास है,qa_factoid,1.0,0.0,False
+1121,hi-IN,play,play_music,अरिजीत सिंह के द्वारा तुम ही हो को चालू करें,iot_hue_lightoff,0.9004,0.0003,False
+1123,hi-IN,play,play_music,अगला गाना सोनू निगम का कल हो ना हो,play_music,0.9997,0.9997,True
+1124,hi-IN,play,play_music,सोनू निगम के कल हो ना हो को आगे चालू करने के लिए तैयार करें,iot_hue_lightoff,0.4029,0.0596,False
+1127,hi-IN,play,play_music,शफ़ल पर सभी गाने चलाएं,play_music,0.873,0.873,True
+1144,hi-IN,play,play_music,मुझे कुछ भक्ति चाहिए,qa_factoid,0.9999,0.0,False
+1148,hi-IN,datetime,datetime_query,कोलकाता में अभी समय क्या है,weather_query,0.9955,0.0038,False
+1156,hi-IN,news,news_query,अंतर्राष्ट्रीय महिला दिवस पर नवीनतम समाचार,news_query,0.7671,0.7671,True
+1160,hi-IN,weather,weather_query,इस सप्ताह हर रात कितनी सर्दी पड़ेगी,weather_query,0.9974,0.9974,True
+1180,hi-IN,news,news_query,मोदी के बारे में आज का वेपो सामग्री खोजें,play_podcasts,0.8675,0.0028,False
+1202,hi-IN,datetime,datetime_query,दिल्ली में वर्तमान समय,weather_query,0.9973,0.0002,False
+1238,hi-IN,play,play_music,wynk,qa_factoid,0.8194,0.0035,False
+1249,hi-IN,weather,weather_query,यह सप्ताह इसी तरह का मौसम रहेगा,weather_query,0.999,0.999,True
+1252,hi-IN,datetime,datetime_query,मुझे वर्तमान समय बताओ,datetime_query,0.7416,0.7416,True
+1294,hi-IN,news,news_query,अकादमी पुरस्कारों की खबर मुझे फास्ट करो,social_post,0.4465,0.0677,False
+1301,hi-IN,news,news_query,ट्रंप की नई विदेश नीति के बारे में बताओ,qa_definition,0.3348,0.0177,False
+1308,hi-IN,weather,weather_query,आज का जलवायु पूर्वानुमान यहाँ प्राप्त करें,iot_hue_lightoff,0.9785,0.003,False
+1318,hi-IN,play,play_music,संगीत ऐप शुरू करें और मेरे लिए एक गाना बजाएं,play_music,0.9998,0.9998,True
+1351,hi-IN,weather,weather_query,क्या इस सप्ताह बाहर अच्छा रहेगा,qa_factoid,0.5934,0.1417,False
+1371,hi-IN,news,news_query,टाइम्स ऑफ इंडिया के पहले पन्ने पर हमारे पास क्या है,social_post,0.6862,0.0828,False
+1377,hi-IN,iot,iot_hue_lightoff,कृपया मेरे बेटे के कमरे की बत्ती बुझा दें,lists_remove,0.852,0.0206,False
+1400,hi-IN,weather,weather_query,मैं ज्यादातर ध्यान देता हूँ,qa_factoid,0.8329,0.0035,False
+1401,hi-IN,weather,weather_query,मैं कभी-कभी ध्यान देता हूं,qa_factoid,0.46,0.0124,False
+1404,hi-IN,weather,weather_query,क्या मैं यहाँ रायपुर में कल का मौसम बता सकता हूँ,weather_query,0.9997,0.9997,True
+1423,hi-IN,news,news_query,मुझे मोदी के बारे में बताएं,social_post,0.932,0.0002,False
+1425,hi-IN,news,news_query,जब आप france के बारे में सुनें तो मुझे बताएं,qa_factoid,0.5473,0.0167,False
+1440,hi-IN,play,play_music,चार या उससे ऊपर की रेटिंग वाले नवीनतम भक्ति गाने चलाएं,qa_factoid,0.5315,0.0308,False
+1449,hi-IN,datetime,datetime_query,दो हजार अठारह वर्ष में ईस्टर कब है,datetime_query,0.9665,0.9665,True
+1458,hi-IN,weather,weather_query,मुंबई में कितनी गर्मी है,weather_query,0.9988,0.9988,True
+1467,hi-IN,play,play_music,जगजीत सिंह चलाओ,qa_factoid,0.6723,0.0009,False
+1474,hi-IN,news,news_query,आज के खेल समाचार क्या हैं,news_query,0.9835,0.9835,True
+1489,hi-IN,play,play_music,नेहा कक्कड़ के नए गानों को चालू करें,iot_hue_lightoff,0.3166,0.1174,False
+1513,hi-IN,weather,weather_query,बाहर का तापमान क्या है,weather_query,0.9973,0.9973,True
+1533,hi-IN,news,news_query,हिंदुस्तान टाइम्स पर आज कौन सा समाचार है,news_query,0.8121,0.8121,True
+1537,hi-IN,datetime,datetime_query,मुझे भारत में वर्तमान समय दिखाओ,iot_hue_lightoff,0.9826,0.0002,False
+1542,hi-IN,weather,weather_query,सूरज उज्ज्वल चमक रहा है क्या हमारे पास शेष दिन के लिए यह मौसम होगा,weather_query,0.9978,0.9978,True
+1546,hi-IN,play,play_music,मेरी ग्रीष्मकालीन जाम प्लेलिस्ट चलाओ,social_post,0.4841,0.0232,False
+1547,hi-IN,weather,weather_query,इस सप्ताह मेरे स्थान का मौसम कैसा है,weather_query,0.9992,0.9992,True
+1549,hi-IN,weather,weather_query,क्या इस सप्ताह बारिश होगी,weather_query,0.6606,0.6606,True
+1554,hi-IN,iot,iot_hue_lightoff,बत्तियाँ बंद करो,lists_remove,0.5659,0.0778,False
+1581,hi-IN,datetime,datetime_query,वर्तमान दिन महीना और वर्ष क्या है,datetime_query,0.9989,0.9989,True
+1589,hi-IN,weather,weather_query,क्या अगले मंगलवार को धूप खिली रहेगी,weather_query,0.9986,0.9986,True
+1593,hi-IN,news,news_query,विश्व समाचार से अधिसूचना सेट करें,qa_factoid,0.4649,0.009,False
+1594,hi-IN,news,news_query,क्या तुम मुझे ताज़ा ख़बरें दे सकते हो,qa_factoid,0.969,0.0001,False
+1607,hi-IN,datetime,datetime_query,मुझे चेन्नई में वर्तमान समय बताओ,weather_query,0.6265,0.0161,False
+1617,hi-IN,news,news_query,राजनीति पर एक नया विषय आने पर मुझे सचेत करें,qa_factoid,0.1935,0.0321,False
+1636,hi-IN,news,news_query,मुझे दा प्रिंट से नवीनतम समाचार दिखाओ,social_post,0.6671,0.0195,False
+1653,hi-IN,weather,weather_query,अगली बार बारिश कब होने वाली है,weather_query,0.9995,0.9995,True
+1655,hi-IN,weather,weather_query,क्या कल दोपहर बर्फ गिरेगी,weather_query,0.9994,0.9994,True
+1666,hi-IN,news,news_query,पिछले छह घंटे में इतनी साफ खबर क्या है,news_query,0.7112,0.7112,True
+1671,hi-IN,play,play_music,केवल एक हज़ार नौ सौ नब्बे और दो हज़ार के बीच जारी सभी संगीत चलाएं,play_music,0.9984,0.9984,True
+1683,hi-IN,weather,weather_query,कल का तापमान गर्म होगा हाँ या नहीं,weather_query,0.9979,0.9979,True
+1684,hi-IN,weather,weather_query,हाँ या ना कल का तापमान गर्म होना है,weather_query,0.9957,0.9957,True
+1692,hi-IN,play,play_music,मेरे लिए कुछ सदाबहार नगमें लगाओ,iot_hue_lightoff,0.5798,0.0059,False
+1722,hi-IN,weather,weather_query,उदयपुर का न्यूनतम तापमान कितना है,weather_query,0.9906,0.9906,True
+1750,hi-IN,iot,iot_hue_lightoff,सभी लाइट्स को बंद कर दो,iot_hue_lightoff,0.9269,0.9269,True
+1759,hi-IN,news,news_query,मुझे नरेंद्र मोदी के बारे में खबर दें,email_sendemail,1.0,0.0,False
+1760,hi-IN,news,news_query,आतंकवाद पर ताजा खबर,news_query,0.9907,0.9907,True
+1777,hi-IN,play,play_music,अगला गाना,play_music,0.9986,0.9986,True
+1784,hi-IN,iot,iot_hue_lightoff,भोजन कक्ष बंद करें,cooking_recipe,0.9986,0.0001,False
+1786,hi-IN,iot,iot_hue_lightoff,मास्टर के बेडरूम को बंद कर दो,calendar_remove,0.5987,0.0112,False
+1794,hi-IN,news,news_query,मोदी जल्द कभी भी रूस जाएंगे,social_post,0.9344,0.0004,False
+1796,hi-IN,datetime,datetime_query,आज की तिथि,qa_factoid,0.9847,0.0149,False
+1803,hi-IN,news,news_query,आज इंडियन प्रीमियर लीग में कौन सी टीमें खेल रही हैं,recommendation_events,0.2459,0.0226,False
+1811,hi-IN,play,play_music,प्लेलिस्ट शुरू करो और संगीत को चालू करो,recommendation_events,0.4229,0.2033,False
+1832,hi-IN,play,play_music,रफ्तार के एल्बम को चालू करो,qa_factoid,0.4054,0.0203,False
+1833,hi-IN,play,play_music,क्या आप प्लेलिस्ट बादशाह को लूप कर सकते हैं,iot_hue_lightoff,0.5866,0.0011,False
+1866,hi-IN,weather,weather_query,मौसम की रिपोर्ट अभी,email_sendemail,0.2859,0.0222,False
+1870,hi-IN,datetime,datetime_query,आज कौन सा महीना है,weather_query,0.8587,0.1377,False
+1904,hi-IN,news,news_query,मेरे लिए मैच हाइलाइट्स दिखाएं,iot_hue_lightoff,0.9986,0.0,False
+1933,hi-IN,weather,weather_query,क्या tonight तक temperature में fall आएगी,weather_query,0.9987,0.9987,True
+1940,hi-IN,play,play_music,खूबसूरत गाने को चालू करो,play_music,0.9998,0.9998,True
+1962,hi-IN,play,play_music,मेरे गाना एप्लिकेशन में मुझे शास्त्रीय संगीत सूची प्लेलिस्ट चलाएं,play_music,0.9693,0.9693,True
+1994,hi-IN,play,play_music,मेरे रिकॉर्ड खोलो,play_radio,0.8594,0.0009,False
+1995,hi-IN,play,play_music,सनम बैंड को चालू करो,iot_hue_lightoff,0.8485,0.0002,False
+2007,hi-IN,play,play_music,कृपया तुम ही हो चलाओ,qa_factoid,0.995,0.0001,False
+2062,hi-IN,play,play_music,मुझको चलाने के लिए कुछ भक्ति संगीत चाहिए,qa_factoid,0.9159,0.0395,False
+2085,hi-IN,play,play_music,alexa मैं देसी या भक्ति के अलावा कोई भी शास्त्रीय सुनना पसंद करूंगा,qa_factoid,0.5823,0.0492,False
+2098,hi-IN,news,news_query,इन दिनों दुनिया में क्या चल रहा है,weather_query,0.9634,0.0046,False
+2108,hi-IN,play,play_music,अगला तुम ही हो बजाओ,play_music,0.9994,0.9994,True
+2113,hi-IN,recommendation,recommendation_events,मुझे मेरे गृहनगर की सभी वर्तमान घटनाओं के बारे में बताएं,social_post,0.8638,0.0054,False
+2146,hi-IN,datetime,datetime_query,अब से दो साल बाद शीतकालीन संक्रांति की तारीख क्या है,datetime_query,0.9983,0.9983,True
+2156,hi-IN,datetime,datetime_query,मुझे अभी समय जानने की जरूरत है कि यह क्या है,qa_definition,0.9955,0.0004,False
+2160,hi-IN,iot,iot_hue_lightoff,मैं अब सोने जा रहा हूँ,iot_hue_lightoff,0.8442,0.8442,True
+2178,hi-IN,weather,weather_query,my place पर वर्तमान मौसम की स्थिति क्या है,weather_query,0.9987,0.9987,True
+2198,hi-IN,datetime,datetime_query,चार दिसंबर उन्नीस सौ बयासी को सप्ताह का कौन सा दिन था,weather_query,0.9857,0.0112,False
+2201,hi-IN,news,news_query,ए बी पी सुर्खियां,social_post,0.9277,0.0007,False
+2203,hi-IN,news,news_query,ज़ी न्यूज़ दुनिया की सुर्खियां,news_query,0.9614,0.9614,True
+2220,hi-IN,weather,weather_query,मथुरा में मौसम,weather_query,0.9991,0.9991,True
+2225,hi-IN,play,play_music,अरिजीत सिंह का तुम ही हो चालू करें,qa_factoid,0.4836,0.0022,False
+2230,hi-IN,iot,iot_hue_lightoff,रसोईघर की बत्तियाँ बंद करें,lists_remove,0.3915,0.0984,False
+2237,hi-IN,news,news_query,विश्व समाचार मुझे पढ़कर दो,news_query,0.9827,0.9827,True
+2258,hi-IN,weather,weather_query,क्या मुझे आज स्वेटर चाहिए,qa_factoid,0.6279,0.0021,False
+2265,hi-IN,weather,weather_query,मुझे बताओ की अभी औरंगाबाद महाराष्ट्र में मौसम कैसा है,weather_query,0.9983,0.9983,True
+2271,hi-IN,play,play_music,कृपया मेरे द्वारा खरीदे और पसंद किए गए गाने चलाएं,cooking_recipe,0.956,0.0377,False
+2296,hi-IN,news,news_query,मुझे आज के इंडियन प्रीमियर लीग मैच के रन के साथ अद्यतित रखें,calendar_remove,0.6777,0.0064,False
+2298,hi-IN,iot,iot_hue_lightoff,अब बत्तियाँ बुझा दो,cooking_recipe,0.8828,0.0163,False
+2315,hi-IN,news,news_query,आज की खबर क्या है,news_query,0.9995,0.9995,True
+2316,hi-IN,news,news_query,alexa मुझे मुख्य समाचार दें,social_post,0.701,0.003,False
+2320,hi-IN,weather,weather_query,इस शुक्रवार को मौसम कैसा है,weather_query,0.9988,0.9988,True
+2322,hi-IN,weather,weather_query,कल का मौसम कैसा है,weather_query,0.9996,0.9996,True
+2330,hi-IN,datetime,datetime_query,इस समय नई दिल्ली का स्थानीय समय दिखाएँ,iot_hue_lightoff,0.9872,0.0005,False
+2384,hi-IN,news,news_query,दुनिया भर में क्या हो रहा है,social_post,0.9661,0.0064,False
+2386,hi-IN,news,news_query,मुझे ताजा खबर दो,email_sendemail,0.948,0.0027,False
+2396,hi-IN,play,play_music,सुनिधि चौहान के गाने बजाओ,play_music,1.0,1.0,True
+2408,hi-IN,play,play_music,बैंड के और गानों की खोज करें,recommendation_events,0.5174,0.0264,False
+2412,hi-IN,datetime,datetime_query,क्या आप मुझे नई दिल्ली में समय बता सकते हैं,weather_query,0.9985,0.0001,False
+2423,hi-IN,weather,weather_query,मुंबई में आज मौसम की स्थिति क्या है,weather_query,0.9991,0.9991,True
+2438,hi-IN,news,news_query,तकनीकी समाचार भेजें,qa_factoid,0.5293,0.0285,False
+2441,hi-IN,iot,iot_hue_lightoff,छप्पर की बत्ती बंद करो,lists_remove,0.4066,0.0877,False
+2472,hi-IN,datetime,datetime_query,क्या मैं जहां स्थित हूं उसके लिए वर्तमान में समय सही है,qa_factoid,0.533,0.046,False
+2496,hi-IN,news,news_query,दैनिक समाचार,news_query,0.999,0.999,True
+2497,hi-IN,datetime,datetime_query,आज कौन सी तारीख है,datetime_query,0.762,0.762,True
+2498,hi-IN,datetime,datetime_query,siri आज कौन सी तारीख है,email_sendemail,0.9985,0.0013,False
+2527,hi-IN,play,play_music,क्लासिक रॉक चलाओ,play_radio,0.2858,0.1241,False
+2531,hi-IN,play,play_music,एलेक्सा एक के बाद एक रैप और रॉक का एक मील का गाना बजाती है,play_music,0.9998,0.9998,True
+2545,hi-IN,weather,weather_query,मोसम कैसा है,weather_query,0.9,0.9,True
+2548,hi-IN,news,news_query,आज तक से कुछ भी दिलचस्प,social_post,0.5313,0.027,False
+2560,hi-IN,play,play_music,यादृच्छिक संगीत चलाएं,play_music,0.9997,0.9997,True
+2573,hi-IN,play,play_music,मेरा spotify डांस प्ले लिस्ट,play_podcasts,0.9863,0.0039,False
+2578,hi-IN,iot,iot_hue_lightoff,बरामदे की लाइट बंद कर दो,iot_hue_lightoff,0.9828,0.9828,True
+2588,hi-IN,news,news_query,आज तक से ताजा खबर क्या है,news_query,0.9945,0.9945,True
+2594,hi-IN,news,news_query,मुझे नवीनतम पर्यावरणीय समाचार के बारे में बताएं,recommendation_events,0.3884,0.0297,False
+2605,hi-IN,play,play_music,मेरे पसंदीदा संगीत को अभी चालू करें,play_music,0.998,0.998,True
+2611,hi-IN,weather,weather_query,वर्तमान मौसम पूर्वानुमान,weather_query,0.9968,0.9968,True
+2615,hi-IN,weather,weather_query,क्या मुझे अगले बुधवार को जैकेट पहनने की आवश्यकता होगी,lists_query,0.1169,0.0508,False
+2638,hi-IN,news,news_query,मुझे ट्रम्प के बारे में खबर दिखाओ,news_query,0.998,0.998,True
+2639,hi-IN,news,news_query,मुझे environment के बारे में खबर show,email_sendemail,0.9409,0.0333,False
+2651,hi-IN,news,news_query,क्षेत्र से ताजा खबर,email_sendemail,0.7622,0.1479,False
+2678,hi-IN,weather,weather_query,क्या आज रात बारिश होने वाली है,weather_query,0.9989,0.9989,True
+2679,hi-IN,weather,weather_query,क्या तापमान लगभग समान रहेगा या यह ठंडा होने वाला है,weather_query,0.9793,0.9793,True
+2703,hi-IN,play,play_music,कृपया लोक संगीत बजाएं,play_music,0.9999,0.9999,True
+2704,hi-IN,play,play_music,चलो कुछ इंडी रॉक सुनते हैं ठीक है,play_music,0.917,0.917,True
+2708,hi-IN,play,play_music,olly मुझे डांस करने का मन कर रहा है मेरे लिए कुछ हिप-हॉप चलाओ,cooking_recipe,0.59,0.2946,False
+2709,hi-IN,play,play_music,olly मुझे आज कुछ उदास गाने सुनने की जरूरत है,play_music,1.0,1.0,True
+2711,hi-IN,iot,iot_hue_lightoff,लाइट को बंद कर दो,iot_hue_lightoff,0.8365,0.8365,True
+2717,hi-IN,play,play_music,सनम रे चलाएं,qa_factoid,0.8446,0.0003,False
+2724,hi-IN,news,news_query,मुझे इंडिया टीवी से खबर दो,social_post,0.5723,0.0016,False
+2770,hi-IN,play,play_music,olly अरिजीत सिंह के सैड गाने लगाओ,play_music,1.0,1.0,True
+2774,hi-IN,iot,iot_hue_lightoff,lights को बंद करो,iot_hue_lightoff,0.9999,0.9999,True
+2775,hi-IN,iot,iot_hue_lightoff,रोशनी का प्रयोग बंद करें,cooking_recipe,0.2105,0.0411,False
+2777,hi-IN,weather,weather_query,क्या मुझे आज छाता लाना चाहिए,qa_factoid,0.385,0.1612,False
+2781,hi-IN,play,play_music,कृपया कुछ जैज़ संगीत बजाएं,play_music,0.9049,0.9049,True
+2798,hi-IN,play,play_music,alexa प्ले गाना सनम रे,play_music,0.8171,0.8171,True
+2801,hi-IN,datetime,datetime_query,श्रीनगर में कितने बजे हैं,weather_query,0.9965,0.0001,False
+2824,hi-IN,datetime,datetime_query,तेरह दिसंबर को कौन सा दिन है,weather_query,0.9871,0.0106,False
+2840,hi-IN,datetime,datetime_query,अगले महीने की दो तारीख किस दिन आती है,calendar_remove,0.6256,0.3319,False
+2859,hi-IN,datetime,datetime_query,olly मुंबई में क्या समय हो गया है,weather_query,0.9762,0.0223,False
+2887,hi-IN,news,news_query,कृपया मुझे सुबह के समाचार में मौसम से संबंधित कोई भी लेख दिखाएं,email_query,0.8448,0.0711,False
+2890,hi-IN,weather,weather_query,वर्तमान का मौसम बताओ,weather_query,0.9967,0.9967,True
+2898,hi-IN,news,news_query,क्या चुनाव के संबंध में कोई अपडेट हैं,news_query,0.1993,0.1993,True
+2914,hi-IN,datetime,datetime_query,मुझे बताओ आज क्या तारीख है,datetime_query,0.8989,0.8989,True
+2917,hi-IN,weather,weather_query,मौसम का साप्ताहिक विवरण,email_query,0.9868,0.0033,False
+2921,hi-IN,news,news_query,सीएनएन वेबसाइट पर समाचार क्या हैं,social_post,0.5387,0.4549,False
+2927,hi-IN,datetime,datetime_query,इस समय चंडीगढ़ में क्या समय है,weather_query,0.9959,0.0026,False
+2931,hi-IN,play,play_music,तुम मिले खेलने का प्यार किया तोह,play_music,0.319,0.319,True
+2962,hi-IN,play,play_music,कृपया ब्रूनो मार्स का कोई गाना बजाएं,play_music,1.0,1.0,True
+2965,hi-IN,iot,iot_hue_lightoff,कार्यालय की बत्तियाँ बंद करें,lists_remove,0.2438,0.0475,False
+3002,hi-IN,play,play_music,सनम बैंड के गाने बजाएं,play_music,1.0,1.0,True
+3031,hi-IN,play,play_music,मैं गाना फिर से बजाना चाहता हूं,play_music,0.9999,0.9999,True
+3034,hi-IN,weather,weather_query,तापमान बताओ,weather_query,0.6617,0.6617,True
+3037,hi-IN,news,news_query,फ्रंट पेज के समाचार लेख दो,play_podcasts,0.8,0.0563,False
+3039,hi-IN,news,news_query,खबर में नया क्या है,qa_factoid,0.9718,0.0018,False
+3060,hi-IN,news,news_query,उस नए स्रोत से क्या खबर है,news_query,0.6995,0.6995,True
+3091,hi-IN,datetime,datetime_query,प्रशांत मानक समय में क्या समय है,weather_query,0.8863,0.0947,False
+3096,hi-IN,weather,weather_query,जयपुर में मौसम कैसा है,weather_query,0.9993,0.9993,True
+3098,hi-IN,iot,iot_hue_lightoff,लाइट बंद करो,social_post,0.7837,0.1372,False
+3099,hi-IN,news,news_query,मुझे कुछ वर्तमान कार्यक्रम दिखाओ,play_podcasts,0.9897,0.0002,False
+3101,hi-IN,news,news_query,ओली समाचार चालू करें,recommendation_events,0.4334,0.0018,False
+3116,hi-IN,play,play_music,पिछले साल का मेरा पसंदीदा गाना चलाओ,play_music,0.9982,0.9982,True
+3117,hi-IN,play,play_music,आतिफ असलम के एल्बम में से कुछ भी चालू करें,qa_factoid,0.5665,0.0013,False
+3118,hi-IN,datetime,datetime_query,अभी इंडियन मानक समय क्या है,qa_factoid,0.9624,0.0062,False
+3124,hi-IN,play,play_music,मुझे मेरी प्लेलिस्ट से एक यादृच्छिक गाना बजाओ,play_music,1.0,1.0,True
+3146,hi-IN,play,play_music,मेरी सोनू निगम प्लेलिस्ट से ट्रैक वन चलाएं,qa_factoid,0.421,0.0076,False
+3167,hi-IN,iot,iot_hue_lightoff,मेरे शयनकक्ष की बत्तियाँ बंद कर दो,lists_remove,0.6402,0.0584,False
+3174,hi-IN,play,play_music,music playlist चलाएं,play_music,1.0,1.0,True
+3205,hi-IN,play,play_music,नेहा कक्कड़ का मिले हो तुम चालू करो,qa_factoid,0.9993,0.0,False
+3207,hi-IN,play,play_music,अरिजीत सिंह का तुम ही हो गाना चलाओ,play_music,0.9991,0.9991,True
+3212,hi-IN,calendar,calendar_set,मुझे फिर कुछ करने के लिए याद दिलाना,cooking_recipe,0.7303,0.0079,False
+3214,hi-IN,news,news_query,रूस के साथ मोदी के संबंधों की जाँच की वर्तमान स्थिति क्या है,lists_query,0.1879,0.138,False
+3228,hi-IN,datetime,datetime_query,इस साल होली सप्ताह के किस दिन पड़ती है,weather_query,0.7946,0.1957,False
+3253,hi-IN,weather,weather_query,क्या हमें आज दोपहर बारिश की उम्मीद करनी चाहिए,qa_factoid,0.9706,0.0262,False
+3264,hi-IN,play,play_music,रेग संगीत बजाओ,play_music,0.9999,0.9999,True
+3305,hi-IN,weather,weather_query,मुंबई का इस सप्ताह मौसम कैसा है,weather_query,0.9992,0.9992,True
+3306,hi-IN,weather,weather_query,इस सप्ताह के लिए पूर्वानुमान क्या है,email_sendemail,0.1916,0.0307,False
+3329,hi-IN,news,news_query,में समाचार देखना चाहता हूं,news_query,0.742,0.742,True
+3337,hi-IN,weather,weather_query,तैंतीस हजार सात सौ और सत्तर के लिए मौसम की रिपोर्ट करें,weather_query,0.8354,0.8354,True
+3338,hi-IN,weather,weather_query,मुंबई के मौसम का विवरण दें,weather_query,0.9987,0.9987,True
+3361,hi-IN,datetime,datetime_query,अगले मंगलवार की तारीख क्या है,datetime_query,0.9838,0.9838,True
+3378,hi-IN,iot,iot_hue_lightoff,kitchen में रोशनी नहीं,cooking_recipe,0.9906,0.0083,False
+3386,hi-IN,iot,iot_hue_lightoff,बत्तियों को मध्यम कर दें,calendar_remove,0.7018,0.0976,False
+3400,hi-IN,play,play_music,अरिजीत सिंह का लाइव संस्करण चलाएं,qa_factoid,0.8265,0.0045,False
+3401,hi-IN,play,play_music,सबसे लोकप्रिय अरिजीत सिंह गाना बजाओ,play_music,1.0,1.0,True
+3406,hi-IN,weather,weather_query,दस दिन का पूर्वानुमान क्या है,datetime_query,0.9459,0.0147,False
+3407,hi-IN,weather,weather_query,क्या इस सप्ताह बारिश या हिमपात का कोई पूर्वानुमान है,weather_query,0.9443,0.9443,True
+3408,hi-IN,weather,weather_query,क्या इस सप्ताह के अंत में मौसम अच्छा रहने वाला है,weather_query,0.9991,0.9991,True
+3426,hi-IN,weather,weather_query,बहार कितने डिग्री है,weather_query,0.9752,0.9752,True
+3433,hi-IN,play,play_music,नया पॉप संगीत,play_music,0.7569,0.7569,True
+3434,hi-IN,play,play_music,सबसे श्रेष्ठ भक्ति संगीत,qa_factoid,0.9825,0.0028,False
+3441,hi-IN,datetime,datetime_query,दिल्ली में क्या समय हो गया है,weather_query,0.9934,0.0048,False
+3444,hi-IN,datetime,datetime_query,क्या यह दस है,datetime_query,0.5178,0.5178,True
+3447,hi-IN,weather,weather_query,क्या शनिवार को मौसम में बारिश होगी,weather_query,0.997,0.997,True
+3481,hi-IN,play,play_music,सबसे लोकप्रिय अर्जित सिंह कलाकार का गाना चलाओ,play_music,0.9025,0.9025,True
+3489,hi-IN,play,play_music,कृपया अब संगीत बजाएं,play_music,0.9999,0.9999,True
+3492,hi-IN,play,play_music,चलो मेरे सबसे अधिक बजाए जाने वाले गीतों की सूची चलाते हैं,play_music,0.9799,0.9799,True
+3503,hi-IN,weather,weather_query,पिट्सबर्ग में मौसम कैसा है,weather_query,0.9984,0.9984,True
+3507,hi-IN,weather,weather_query,क्या बर्फ़ पड़ने की संभावना है,qa_factoid,0.9872,0.0002,False
+3513,hi-IN,play,play_music,केवल मेरी सूची खेलें,play_music,0.9148,0.9148,True
+3516,hi-IN,weather,weather_query,आज के मौसम में वर्षा की संभावना क्या है,weather_query,0.4652,0.4652,True
+3539,hi-IN,play,play_music,कृपया मोहम्मद रफ़ी के द्वारा कुछ-कुछ होता है चालू करें,calendar_remove,0.1953,0.0239,False
+3546,hi-IN,play,play_music,मैं संगीत सुनना चाहूंगा,play_music,1.0,1.0,True
+3550,hi-IN,play,play_music,अरिजीत सिंह को चालू पर रखो,iot_hue_lightoff,0.4201,0.0022,False
+3554,hi-IN,play,play_music,क्या आप प्रेम प्लेलिस्ट डाल सकते हैं,qa_factoid,0.9974,0.0,False
+3562,hi-IN,play,play_music,तुम ही हो को एक बार और चलाओ,qa_factoid,0.997,0.0001,False
+3566,hi-IN,datetime,datetime_query,चेन्नई में वर्तमान समय क्या है,weather_query,0.9774,0.0203,False
+3570,hi-IN,iot,iot_hue_lightoff,कृपया आंगन में बत्तियाँ बंद कर दें,lists_remove,0.4781,0.0111,False
+3576,hi-IN,news,news_query,आज तक की ताज़ा खबर क्या है,news_query,0.9997,0.9997,True
+3586,hi-IN,weather,weather_query,बीजिंग में मौसम कैसा है,weather_query,0.9986,0.9986,True
+3600,hi-IN,calendar,calendar_set,दस मिनट के बाद याद दिलाना,calendar_remove,0.7768,0.0041,False
+3603,hi-IN,news,news_query,बी. बी. सी. हिन्दी से ताजा खबर क्या है,news_query,0.505,0.505,True
+3605,hi-IN,news,news_query,न्यूज़ नेशन पर नवीनतम समाचार क्या है,social_post,0.5271,0.3499,False
+3606,hi-IN,datetime,datetime_query,नई दिल्ली में समय क्या है,weather_query,0.8653,0.1324,False
+3614,hi-IN,weather,weather_query,आज धूपदार दिन है सही,weather_query,0.9983,0.9983,True
+3623,hi-IN,news,news_query,आज दुनिया में क्या चल रहा है,weather_query,0.5619,0.0354,False
+3624,hi-IN,news,news_query,सी. एन. एन. से खबर,email_sendemail,1.0,0.0,False
+3631,hi-IN,play,play_music,हे google मेरे लिए कुछ पॉप संगीत चलाओ,play_music,0.9895,0.9895,True
+3686,hi-IN,play,play_music,उस प्लेलिस्ट को चालू करें जिसे मैंने भक्ति संगीत के लिए समर्पित किया है,qa_factoid,0.987,0.0003,False
+3714,hi-IN,play,play_music,मेरी डार्क प्लेलिस्ट को चालू करो,recommendation_events,0.4848,0.0028,False
+3717,hi-IN,play,play_music,कृपया मेरे नब्बे के दशक के रैप हिट्स चलाएँ,play_radio,0.8123,0.1805,False
+3723,hi-IN,play,play_music,मैं इस गाने के बाद सोनू निगम का पापा मेरे पापा सुनना चाहूँगा,play_music,0.9998,0.9998,True
+3725,hi-IN,datetime,datetime_query,आज कौन सी तारीख है,datetime_query,0.762,0.762,True
+3727,hi-IN,play,play_music,अरिजीत सिंह का सनम रे चालू करें,qa_factoid,0.3913,0.0204,False
+3750,hi-IN,news,news_query,olly अगर बाढ़ के बारे में कोई नई खबर सामने आती है तो क्या आप मुझे तुरंत बता सकते हैं,news_query,0.7605,0.7605,True
+3779,hi-IN,play,play_music,youtube प्लेलिस्ट कक्कड़ चालू करो,qa_factoid,0.9326,0.0021,False
+3780,hi-IN,play,play_music,मेरी मध्यरात्रि प्रेम प्लेलिस्ट चलाओ,email_query,0.2072,0.0315,False
+3784,hi-IN,weather,weather_query,पीताम्बरपुर के लिए मुझे मौसम की जानकारी दो,weather_query,0.9995,0.9995,True
+3785,hi-IN,iot,iot_hue_lightoff,कृपया बाथरूम की लाइट बंद करें,iot_hue_lightoff,0.8373,0.8373,True
+3822,hi-IN,news,news_query,मेरे लिए कारों के बारे में जानकारी प्राप्त करें,recommendation_events,0.967,0.0012,False
+3852,hi-IN,weather,weather_query,लद्दाख में अभी मौसम कैसा चल रहा है,weather_query,0.9986,0.9986,True
+3859,hi-IN,play,play_music,कृपया मेरा पसंदीदा rap music playlist डाले,play_music,0.9677,0.9677,True
+3907,hi-IN,play,play_music,मेरे लिए पिछले साल का हिट्स चालू करें,iot_hue_lightoff,0.9829,0.0001,False
+3911,hi-IN,play,play_music,मैं कोई भी गाने सुनना चाहता हूँ जिसे इस साल स्टार अवार्ड मिला है,play_music,0.9996,0.9996,True
+3912,hi-IN,play,play_music,मैं रॉक म्यूजिक सुनना पसंद करूँगा,play_music,0.9996,0.9996,True
+3936,hi-IN,weather,weather_query,तापमान कितना है,weather_query,0.7479,0.7479,True
+3960,hi-IN,datetime,datetime_query,समय बताओ,qa_factoid,0.9976,0.0001,False
+3967,hi-IN,play,play_music,भक्ति,qa_factoid,1.0,0.0,False
+3980,hi-IN,play,play_music,कृपया अरिजीत सिंह के द्वारा सनम रे चालू करें,qa_factoid,0.4868,0.0066,False
+3982,hi-IN,play,play_music,कृपया मेरी आईट्यून्स लाइब्रेरी में पहला गाना चुनें,recommendation_events,0.4183,0.3534,False
+3993,hi-IN,iot,iot_hue_lightoff,क्या तुम रोशनी बुझा सकती हो,cooking_recipe,0.7209,0.2707,False
+3995,hi-IN,datetime,datetime_query,olly सप्ताह का कौन सा दिन रविवार है,datetime_query,0.8613,0.8613,True
+4001,hi-IN,news,news_query,वॉकिंग डेड पर क्या हुआ,qa_factoid,0.996,0.0001,False
+4023,hi-IN,news,news_query,खबर में क्या है,qa_factoid,1.0,0.0,False
+4031,hi-IN,play,play_music,तुम ही हो चलाएं,qa_factoid,0.9995,0.0,False
+4040,hi-IN,play,play_music,वह गाना बजाएं जो मैं सबसे ज्यादा सुनता हूँ,play_music,1.0,1.0,True
+4058,hi-IN,play,play_music,मैं कुछ भक्ति संगीत सुनना चाहता हूँ,play_music,0.9997,0.9997,True
+4073,hi-IN,datetime,datetime_query,पांचवां दिन कौन सा है,weather_query,0.6704,0.0091,False
+4077,hi-IN,iot,iot_hue_lightoff,रसोईघर की बत्तियाँ बंद करें,lists_remove,0.3915,0.0984,False
+4088,hi-IN,iot,iot_hue_lightoff,ऊपर की लाइट को बंद कर दो,iot_hue_lightoff,0.9942,0.9942,True
+4104,hi-IN,weather,weather_query,लखनऊ में आज मौसम कैसा है,weather_query,0.9992,0.9992,True
+4116,hi-IN,play,play_music,कृपया मेरी मिलाई गई प्लेलिस्ट चलाएं,recommendation_events,0.9987,0.0,False
+4119,hi-IN,news,news_query,मैं हिमाचल प्रदेश में बांध टूटने के बारे में सब कुछ जानना चाहता हूँ,lists_query,0.3201,0.1253,False
+4132,hi-IN,weather,weather_query,मुझे आज के लिए लखनऊ वाशिंगटन में बारिश की संभावना का प्रतिशत बताएं,weather_query,0.9864,0.9864,True
+4136,hi-IN,play,play_music,क्या तुम सोनू निगम को चला सकते हो,qa_factoid,0.9937,0.0001,False
+4152,hi-IN,play,play_music,कृपया तुम ही हो गाने को चालू करें,qa_factoid,0.4818,0.4192,False
+4168,hi-IN,weather,weather_query,मुंबई का मौसम चेक करो,weather_query,0.9995,0.9995,True
+4171,hi-IN,iot,iot_hue_lightoff,रसोई की बत्तियां बंद करो,lists_remove,0.7126,0.0312,False
+4177,hi-IN,news,news_query,मुझे दुनिया भर में नवीनतम राजनीति सुर्खियां दें,recommendation_events,0.4884,0.0011,False
+4178,hi-IN,news,news_query,क्या राष्ट्रपति पद के बारे में कोई खबर है,email_sendemail,0.9993,0.0002,False
+4183,hi-IN,datetime,datetime_query,इलाहबाद में वर्तमान समय,weather_query,0.9801,0.0057,False
+4186,hi-IN,datetime,datetime_query,अरे olly क्या समय हो गया है,weather_query,0.9336,0.0599,False
+4187,hi-IN,datetime,datetime_query,अरे siri क्या समय हो रहा है,weather_query,0.9982,0.0005,False
+4205,hi-IN,play,play_music,मैं by rush limelight सुनना चाहता हूं,play_music,0.9951,0.9951,True
+4212,hi-IN,weather,weather_query,क्या मई आज शाम घास काटने में समर्थ हूँ,qa_factoid,0.4485,0.218,False
+4227,hi-IN,weather,weather_query,क्या अगले सप्ताह बारिश होने का अनुमान है,weather_query,0.9678,0.9678,True
+4232,hi-IN,play,play_music,अरिजीत सिंह का तुम ही हो चलाओ,social_post,0.9972,0.0,False
+4236,hi-IN,datetime,datetime_query,क्या अभी दोपहर हुई है,weather_query,0.9982,0.0001,False
+4253,hi-IN,datetime,datetime_query,पूर्वी मानक में वर्तमान समय क्या है,datetime_query,0.9754,0.9754,True
+4254,hi-IN,datetime,datetime_query,दिल्ली के पूर्वी तट पर कितने बजे हैं,weather_query,0.9799,0.0003,False
+4258,hi-IN,news,news_query,ताजा खबर क्या है,news_query,0.9993,0.9993,True
+4266,hi-IN,weather,weather_query,आज का मौसम कैसा है,weather_query,0.9995,0.9995,True
+4273,hi-IN,play,play_music,तुम ही हो चालू करो,qa_factoid,0.995,0.0001,False
+4290,hi-IN,weather,weather_query,क्या मुझे आज रात अपने साथ जैकेट लाना चाहिए,recommendation_events,0.9134,0.0037,False
+4305,hi-IN,play,play_music,अरिजीत सिंह द्वारा तुम ही हो गाना बजाये,play_music,0.9925,0.9925,True
+4309,hi-IN,datetime,datetime_query,मुंबई में आधी रात कितने बजे होगी,weather_query,0.9749,0.0237,False
+4312,hi-IN,weather,weather_query,क्या नई दिल्ली में मौसम दस डिग्री से कम रहेगा,weather_query,0.998,0.998,True
+4313,hi-IN,weather,weather_query,क्या कल इंदौर में बारिश होगी,weather_query,0.9981,0.9981,True
+4336,hi-IN,datetime,datetime_query,चीन में समय क्या है,weather_query,0.6626,0.2922,False
+4346,hi-IN,iot,iot_hue_lightoff,लाइट्स को बंद कर दो,social_post,0.9841,0.0062,False
+4347,hi-IN,iot,iot_hue_lightoff,लाइट संचालन बंद करो,iot_hue_lightoff,0.9828,0.9828,True
+4355,hi-IN,weather,weather_query,मैं जहां हूँ वहाँ का मौसम कैसा है,weather_query,0.9992,0.9992,True
+4361,hi-IN,play,play_music,मुझे कुछ अच्छी आवाज दो,iot_hue_lightoff,0.9352,0.0105,False
+4362,hi-IN,datetime,datetime_query,पीलीभीत में कितने बजे हैं,weather_query,0.9646,0.0004,False
+4376,hi-IN,weather,weather_query,आज बाहर की क्या स्थिति है,weather_query,0.8535,0.8535,True
+4377,hi-IN,weather,weather_query,वर्तमान मौसम कैसा है,weather_query,0.9995,0.9995,True
+4383,hi-IN,weather,weather_query,कल मौसम कैसा होगा,weather_query,0.9989,0.9989,True
+4391,hi-IN,news,news_query,आज तक पर सुर्खियां क्या हैं,social_post,0.9997,0.0,False
+4400,hi-IN,news,news_query,पंजाब केसरी पर ट्रेंडिंग लेख क्या हैं,news_query,0.987,0.987,True
+4402,hi-IN,weather,weather_query,क्या मुझे आज एक ब्रॉली ले जाने की आवश्यकता होगी,transport_query,0.991,0.0012,False
+4412,hi-IN,weather,weather_query,मुंबई में मौसम कैसा है,weather_query,0.9991,0.9991,True
+4436,hi-IN,weather,weather_query,मुझे कौन सी जैकेट पहननी चाहिए,recommendation_events,0.9899,0.0003,False
+4439,hi-IN,weather,weather_query,मुंबई में मौसम कैसा है,weather_query,0.9991,0.9991,True
+4449,hi-IN,weather,weather_query,क्या आज एक बजे बारिश होने वाली है,weather_query,0.999,0.999,True
+4452,hi-IN,play,play_music,गानों को चालू करें,qa_factoid,0.9876,0.0001,False
+4463,hi-IN,datetime,datetime_query,मार्च में कितने शनिवार होते हैं,weather_query,0.9976,0.0001,False
+4477,hi-IN,play,play_music,अगला गाना बजाएं,play_music,1.0,1.0,True
+4482,hi-IN,weather,weather_query,क्या मुझे आज सुबह अपने रास्ते को फावड़े से साफ़ करना होगा,cooking_recipe,0.2492,0.0179,False
+4486,hi-IN,weather,weather_query,मुझे इस सप्ताह के लिए मौसम का पूर्वानुमान दें,weather_query,0.9889,0.9889,True
+4487,hi-IN,weather,weather_query,क्या गुरुवार को बारिश होगी,weather_query,0.9966,0.9966,True
+4491,hi-IN,news,news_query,donald trump के बारे में ताजा खबर क्या है,news_query,0.9995,0.9995,True
+4492,hi-IN,news,news_query,मेरे क्षेत्र के लिए नवीनतम अपराध आँकड़े क्या हैं,qa_factoid,0.9992,0.0,False
+4496,hi-IN,news,news_query,अमर उजाला ने आज क्या छापा था,social_post,0.9982,0.0001,False
+4502,hi-IN,datetime,datetime_query,अरे अभी नई दिल्ली में क्या समय हो गया है,weather_query,0.9979,0.0005,False
+4524,hi-IN,weather,weather_query,olly आज का मौसम पूर्वानुमान क्या है,weather_query,0.997,0.997,True
+4547,hi-IN,play,play_music,प्रेम गीत श्रवण सूची आरंभ करो,play_music,0.9467,0.9467,True
+4567,hi-IN,news,news_query,द हिंदू से ताज़ा मुख्य ख़बरें पढ़ो मेरे लिए,recommendation_events,0.8779,0.0014,False
+4580,hi-IN,datetime,datetime_query,आगरा में समय क्या है,datetime_query,0.5099,0.5099,True
+4587,hi-IN,play,play_music,मेरा पसंदीदा चालू करो,social_post,0.958,0.0006,False
+4589,hi-IN,calendar,calendar_set,खेल के लिए एक अधिसूचना सेट करें,iot_hue_lightoff,0.6361,0.1606,False
+4606,hi-IN,news,news_query,आज के शेयरों के बारे में जानकारी प्राप्त करें,social_post,0.9966,0.0,False
+4614,hi-IN,weather,weather_query,क्या कल तापमान चालीस से ज्यादा रहेगा,weather_query,0.9996,0.9996,True
+4662,hi-IN,news,news_query,alexa रिपब्लिक भारत से समाचार प्राप्त करो,news_query,0.4318,0.4318,True
+4667,hi-IN,datetime,datetime_query,वर्तमान समय,datetime_query,0.9952,0.9952,True
+4680,hi-IN,weather,weather_query,क्या मुझे मोज़े के साथ सैंडल या जूते पहनने चाहिए,lists_remove,0.1735,0.0256,False
+4689,hi-IN,weather,weather_query,क्या तुम मौसम जानते हो,weather_query,0.9862,0.9862,True
+4692,hi-IN,play,play_music,सोनू निगम द्वारा मुझे एक गाना बजाओ,play_music,1.0,1.0,True
+4710,hi-IN,datetime,datetime_query,इस साल कौन सा दिन भैया दूज है,weather_query,0.7178,0.2553,False
+4764,hi-IN,weather,weather_query,क्या सोमवार को बारिश होगी,weather_query,0.9499,0.9499,True
+4767,hi-IN,news,news_query,क्या भारत-पाकिस्तान सीमा दीवार के संबंध में कोई नई जानकारी है,lists_query,0.2289,0.0971,False
+4772,hi-IN,datetime,datetime_query,मुझे इस समय क्षेत्र में समय बताओ,weather_query,0.9957,0.0013,False
+4780,hi-IN,datetime,datetime_query,इस साल सत्ताईस जून को मेरा जन्मदिन किस दिन पड़ता है,datetime_query,0.9898,0.9898,True
+4784,hi-IN,weather,weather_query,क्या मुझे जैकेट चाहिए,qa_factoid,0.3801,0.0113,False
+4813,hi-IN,datetime,datetime_query,दूसरे शहर में क्या समय है,weather_query,0.9993,0.0005,False
+4837,hi-IN,news,news_query,क्या any खबर है,email_sendemail,0.9996,0.0,False
+4838,hi-IN,play,play_music,सोनू निगम द्वारा सभी संगीत चलाएं,play_music,0.9047,0.9047,True
+4871,hi-IN,weather,weather_query,बाहर कैसा है,qa_factoid,0.9913,0.0062,False
+4881,hi-IN,datetime,datetime_query,वर्तमान स्थानीय समय और समय क्षेत्र खोजने के लिए ढूंढें,weather_query,0.8599,0.0825,False
+4882,hi-IN,datetime,datetime_query,एक शहर में कितने बजे हैं,weather_query,0.9397,0.0005,False
+4890,hi-IN,calendar,calendar_set,भारत में वर्तमान मौसम आपदाओं पर सूचनाएं सेट करें,iot_hue_lightoff,0.4503,0.0251,False
+4909,hi-IN,play,play_music,अरिजीत सिंह के गीत को चालू करो,play_music,0.9997,0.9997,True
+4917,hi-IN,weather,weather_query,बाहर का तापमान,weather_query,0.9494,0.9494,True
+4928,hi-IN,play,play_music,मेरे गाने की लिस्ट चलाओ,cooking_recipe,0.406,0.3986,False
+4933,hi-IN,weather,weather_query,क्या अब वर्षा होगी,weather_query,0.9956,0.9956,True
+4951,hi-IN,datetime,datetime_query,मैं जानना चाहता हूं कि अभी क्या समय है,datetime_query,0.9368,0.9368,True
+4953,hi-IN,news,news_query,ट्रेन के मलबे की खबर,email_sendemail,0.7335,0.0185,False
+4957,hi-IN,datetime,datetime_query,सप्ताह का कौन सा दिन इस महीने का तेईसवां दिन है,weather_query,0.9884,0.0063,False
+4960,hi-IN,play,play_music,संगीत सनम,email_query,0.7955,0.0642,False
+4968,hi-IN,qa,qa_factoid,इस साल राष्ट्रपति चुनाव किसने जीता,qa_factoid,0.9997,0.9997,True
+4973,hi-IN,play,play_music,olly मिले हो तुम चालू करो,qa_factoid,0.9998,0.0,False
+4998,hi-IN,play,play_music,अगले बजने वाले गाने के लिए इस गाने को जोड़ें,play_music,0.9951,0.9951,True
+5009,hi-IN,weather,weather_query,क्या मुझे इस सप्ताह एक छतरी की आवश्यकता होगी,lists_remove,0.4787,0.0106,False
+5016,hi-IN,news,news_query,शेयर बाजार में उतार चढ़ाव की खबर मुझे बताओ,social_post,0.9985,0.0001,False
+5027,hi-IN,datetime,datetime_query,अगला शुक्रवार कब है,weather_query,0.967,0.0223,False
+5037,hi-IN,weather,weather_query,आज कितनी ठंड है,weather_query,0.9981,0.9981,True
+5038,hi-IN,weather,weather_query,इस सप्ताह के लिए मौसम क्या है,weather_query,0.9994,0.9994,True
+5040,hi-IN,weather,weather_query,अभी मौसम क्या है,weather_query,0.9987,0.9987,True
+5062,hi-IN,play,play_music,कृपया मेरे लिए अस्सी दशक के गाने बजाएं,play_music,1.0,1.0,True
+5074,hi-IN,weather,weather_query,week के लिए मौसम क्या था,weather_query,0.9994,0.9994,True
+5085,hi-IN,weather,weather_query,शनिवार का पूर्वानुमान क्या है,datetime_query,0.2952,0.0205,False
+5118,hi-IN,play,play_music,आजा रे,qa_factoid,0.9961,0.0001,False
+5127,hi-IN,news,news_query,मुझे प्रमुख समाचार बताओ,qa_factoid,0.9855,0.0068,False
+5131,hi-IN,datetime,datetime_query,कृपया मुझे बताएं कि कानपुर में समय क्या है,weather_query,0.9611,0.0374,False
+5134,hi-IN,play,play_music,मेरी अग्नि band की playlist में से गाने ढूंढो,play_music,0.7734,0.7734,True
+5156,hi-IN,iot,iot_hue_lightoff,लिविंग रूम में बत्तियाँ बंद करें,iot_hue_lightoff,0.4756,0.4756,True
+5157,hi-IN,iot,iot_hue_lightoff,olly बैठक कक्ष में बत्तियाँ बंद कर दो,iot_hue_lightoff,0.558,0.558,True
+5158,hi-IN,play,play_music,please अरिजीत सिंह album से latest गाना चलाओ,play_music,0.9423,0.9423,True
+5159,hi-IN,play,play_music,क्या आप कृपया कलाकार आतिफ असलम का गाना बजा सकते हैं,play_music,0.9999,0.9999,True
+5160,hi-IN,play,play_music,क्या आप कृपया अरिजीत सिंह का गाना बजा सकते हैं,play_music,0.9999,0.9999,True
+5176,hi-IN,weather,weather_query,इस सप्ताह मुझे किस तरह के मौसम की उम्मीद करनी चाहिए,weather_query,0.9057,0.9057,True
+5196,hi-IN,news,news_query,मैं लखीमपुर खीरी मामला के बारे में जानना चाहता हूँ,email_query,0.3893,0.0246,False
+5225,hi-IN,datetime,datetime_query,अगले बुधवार की तारीख क्या है,datetime_query,0.9951,0.9951,True
+5243,hi-IN,iot,iot_hue_lightoff,siri कृपया स्नानघर में बतियाँ बंद कर दें,qa_factoid,0.5755,0.0087,False
+5245,hi-IN,news,news_query,प्राकृतिक समाचार अधिसूचना सेट करें,recommendation_events,0.2277,0.019,False
+5270,hi-IN,news,news_query,वर्तमान में ताज़ा समाचार क्या है,social_post,0.8788,0.0005,False
+5278,hi-IN,play,play_music,कृपया केवल मिक्स भक्ति का संगीत बजाएं,play_music,0.9999,0.9999,True
+5279,hi-IN,play,play_music,कृपया म्यूजिक प्लेयर में केवल दुखद गाना बजाएं,play_music,1.0,1.0,True
+5286,hi-IN,news,news_query,पलायन की बीबीसी खबर दिखाओ,iot_hue_lightoff,1.0,0.0,False
+5296,hi-IN,news,news_query,olly मेरे लिए आज तक से लोकप्रिय समाचार प्राप्त करें,recommendation_events,0.9911,0.0001,False
+5297,hi-IN,news,news_query,मुझे आज तक से मशहूर न्यूज़ बताओ,qa_factoid,0.9975,0.0,False
+5301,hi-IN,weather,weather_query,बीस मार्च दो हजार सत्रह को मौसम कैसा रहने वाला है,weather_query,0.9969,0.9969,True
+5307,hi-IN,datetime,datetime_query,क्या आज बीस मार्च है,weather_query,0.9989,0.0001,False
+5318,hi-IN,play,play_music,प्लीज प्ले केवल रहमान के गाने हैं,play_music,0.3622,0.3622,True
+5321,hi-IN,weather,weather_query,मौसम दिखाओ,play_music,0.974,0.0001,False
+5328,hi-IN,play,play_music,रॉक गाना बजाओ,play_music,1.0,1.0,True
+5339,hi-IN,weather,weather_query,कम ठंडा की स्थिति है,iot_hue_lightoff,0.7927,0.1566,False
+5341,hi-IN,datetime,datetime_query,कृपया मुझे समय के लिए सतर्क करें,qa_factoid,0.641,0.0153,False
+5347,hi-IN,play,play_music,तकनीकी संगीत चलाओ,play_music,0.9884,0.9884,True
+5358,hi-IN,datetime,datetime_query,वर्तमान समय में अपडेट करें,qa_factoid,0.2278,0.027,False
+5370,hi-IN,news,news_query,नवीनतम मोदी विवाद क्या है,social_post,0.9984,0.0,False
+5378,hi-IN,play,play_music,एस,qa_factoid,0.6682,0.0128,False
+5401,hi-IN,play,play_music,संगीत,play_music,0.8061,0.8061,True
+5410,hi-IN,news,news_query,मेरे लिए नवीनतम दैनिक जागरण की सुर्खियां पढ़ें,recommendation_events,0.4027,0.0397,False
+5411,hi-IN,news,news_query,आज तक पर प्रमुख कहानियाँ कौन सी हैं,social_post,0.6042,0.0037,False
+5413,hi-IN,play,play_music,संगीत चालू करो,play_music,0.9996,0.9996,True
+5414,hi-IN,play,play_music,क्या आप संगीत लगाओगे,play_music,0.9998,0.9998,True
+5427,hi-IN,datetime,datetime_query,भारत में इस समय क्या समय है,weather_query,0.8623,0.1345,False
+5433,hi-IN,weather,weather_query,क्या बाद में बारिश होने वाली है,qa_factoid,0.5866,0.0229,False
+5439,hi-IN,weather,weather_query,क्या मुझे रात के लिए छाता चाहिए,weather_query,0.7022,0.7022,True
+5465,hi-IN,weather,weather_query,क्या मैं my sandals today पहन सकता हूँ,weather_query,0.6738,0.6738,True
+5468,hi-IN,weather,weather_query,क्या मुझे sun glass लेने की आवश्यकता है,lists_remove,0.2028,0.0289,False
+5524,hi-IN,weather,weather_query,इस समय मौसम,weather_query,0.9969,0.9969,True
+5529,hi-IN,weather,weather_query,मुझे किस समय hike पर जाना चाहिए,weather_query,0.9035,0.9035,True
+5557,hi-IN,play,play_music,मुझे राग संगीत चाहिए,play_music,0.999,0.999,True
+5577,hi-IN,weather,weather_query,अगर शाम को बहुत तूफानी हो तो मुझे पूर्ण कवर जैकेट की आवश्यकता होगी,lists_remove,0.6253,0.0258,False
+5578,hi-IN,weather,weather_query,मुझे सर्दियों में सुबह गर्म मोजे की आवश्यकता होगी,weather_query,0.8163,0.8163,True
+5584,hi-IN,iot,iot_hue_lightoff,लाइट्स को बंद कर दो,social_post,0.9841,0.0062,False
+5590,hi-IN,weather,weather_query,तापमान खोलें,iot_hue_lightoff,0.8554,0.1301,False
+5593,hi-IN,play,play_music,अरिजीत सिंह का तुम ही हो चालू करें,qa_factoid,0.4836,0.0022,False
+5619,hi-IN,play,play_music,पिछला गाना चलाओ,play_music,0.9998,0.9998,True
+5627,hi-IN,play,play_music,सोनू निगम के गाने सुनाओ,play_music,1.0,1.0,True
+5640,hi-IN,datetime,datetime_query,प्रदर्शन तिथि,qa_factoid,0.998,0.001,False
+5650,hi-IN,weather,weather_query,आज शाम का मौसम पूछो,weather_query,0.999,0.999,True
+5658,hi-IN,play,play_music,मेरे लिए अरिजीत सिंह का संगीत बजाएं,play_music,0.9999,0.9999,True
+5661,hi-IN,weather,weather_query,क्या मुझे अब अपना रेनकोट अपने साथ ले जाना चाहिए,recommendation_events,0.2489,0.0159,False
+5671,hi-IN,datetime,datetime_query,मुंबई में समय क्या है,weather_query,0.878,0.119,False
+5678,hi-IN,datetime,datetime_query,पंद्रह अगस्त सप्ताह का कौन सा दिन है,weather_query,0.9491,0.0462,False
+5683,hi-IN,play,play_music,मेरे प्रेम गीत प्लेलिस्ट गानों को चालू करो,play_music,0.9816,0.9816,True
+5688,hi-IN,news,news_query,कृपया मुझे समाचार की सुर्खियां बताएं,news_query,0.9639,0.9639,True
+5703,hi-IN,datetime,datetime_query,अब समय,qa_factoid,0.9134,0.0286,False
+5707,hi-IN,play,play_music,मेरे पसंदीदा सुनो,play_music,0.999,0.999,True
+5721,hi-IN,weather,weather_query,मुझे इस जगह में कल का मौसम दिखाओ,weather_query,0.9577,0.9577,True
+5722,hi-IN,weather,weather_query,इस सप्ताह के लिए सात दिन का पूर्वानुमान प्रदर्शित करें,iot_hue_lightoff,0.4288,0.0157,False
+5732,hi-IN,weather,weather_query,क्या मैं जल्द ही अपनी कार के टायरों को बर्फ के टायर में बदल दूँ,iot_hue_lightoff,0.8478,0.0069,False
+5757,hi-IN,datetime,datetime_query,पौने दो,email_query,0.4938,0.0002,False
+5758,hi-IN,weather,weather_query,राजधानी शहर में मौसम कैसा है,weather_query,0.9991,0.9991,True
+5774,hi-IN,datetime,datetime_query,मुंबई में वर्तमान समय,weather_query,0.9974,0.0003,False
+5797,hi-IN,weather,weather_query,क्या मुझे बाहर निकलने से पहले रेनकोट पहनना चाहिए,lists_query,0.2666,0.0277,False
+5813,hi-IN,play,play_music,play गंदी बात गाना,play_music,1.0,1.0,True
+5820,hi-IN,play,play_music,अरिजीत सिंह के साथ मेरे कानों को आराम दो,iot_hue_lightoff,0.6133,0.0679,False
+5837,hi-IN,weather,weather_query,मुझे इस सप्ताह के मौसम के बारे में बताओ,weather_query,0.9993,0.9993,True
+5871,hi-IN,weather,weather_query,आज मैसूर का मौसम कैसा है,weather_query,0.9994,0.9994,True
+5886,hi-IN,news,news_query,कृपया मुझे ताजा खबर बताओ,email_sendemail,0.7374,0.0002,False
+5919,hi-IN,news,news_query,बुलेट ट्रेन प्रस्ताव पर नवीनतम अपडेट क्या है,email_sendemail,0.5709,0.0267,False
+5930,hi-IN,news,news_query,हिंदुस्तान टाइम्स से कोई ब्रेकिंग न्यूज,social_post,0.9848,0.0034,False
+5948,hi-IN,play,play_music,मेरी प्ले लिस्ट में से कोई अच्छा गाना चलाओ,play_music,0.708,0.708,True
+5953,hi-IN,weather,weather_query,शहर सस्ता है या रहने के लिए महंगा,qa_factoid,0.8391,0.0185,False
+5955,hi-IN,weather,weather_query,कानून व्यवस्था को लेकर कितना सुरक्षित है शहर,lists_query,0.2772,0.0283,False
+5970,hi-IN,play,play_music,मैं आप से चाहता हूँ कि आप मेरे लिए झलक दिखलाजा चलाओ,iot_hue_lightoff,0.9972,0.0001,False
+5985,hi-IN,news,news_query,मुझे संयुक्त राष्ट्र से नवीनतम समाचार दिखाओ,news_query,0.9944,0.9944,True
+5996,hi-IN,weather,weather_query,क्या मुझे आज दोपहर अपने बर्फ वाले जूतों की आवश्यकता होगी,weather_query,0.8655,0.8655,True
+5997,hi-IN,datetime,datetime_query,सेंट्रल टाइम ज़ोन में कितना समय है,datetime_query,0.9733,0.9733,True
+6023,hi-IN,weather,weather_query,क्या यह एक चिपचिपी रात होगी,weather_query,0.9503,0.9503,True
+6024,hi-IN,weather,weather_query,क्या मुझे आज काम करने के लिए स्वेटर या कोट लेना चाहिए,qa_factoid,0.4796,0.0091,False
+6025,hi-IN,weather,weather_query,इस दोपहर को मुझे सनस्क्रीन की जरूरत होगी,weather_query,0.99,0.99,True
+6027,hi-IN,play,play_music,पसंदीदा गाने चालू करें,play_music,0.9999,0.9999,True
+6039,hi-IN,weather,weather_query,क्या कल बरसाती दिन होगा,weather_query,0.9972,0.9972,True
+6041,hi-IN,iot,iot_hue_lightoff,हे ओली कृपया बत्तियाँ बंद कर दो,lists_remove,0.3404,0.0737,False
+6045,hi-IN,play,play_music,चुना हुआ गाना जोड़ें,play_music,0.9999,0.9999,True
+6050,hi-IN,weather,weather_query,मुझे बाद में सनस्क्रीन की आवश्यकता होगी,iot_hue_lightoff,0.1345,0.0448,False
+6055,hi-IN,iot,iot_hue_lightoff,क्या मैंने गैरेज में बत्ती जला दी,cooking_recipe,0.9826,0.002,False
+6059,hi-IN,play,play_music,भक्ति संगीत चालू करो,play_music,0.9989,0.9989,True
+6069,hi-IN,weather,weather_query,क्या आज आंधी आने की संभावना है,qa_factoid,0.6293,0.0061,False
+6073,hi-IN,iot,iot_hue_lightoff,आंगन की बत्ती बंद करो,calendar_remove,0.6855,0.0511,False
+6074,hi-IN,iot,iot_hue_lightoff,रात साढ़े नौ बजे शयनकक्ष की लाइट बंद कर दें,iot_hue_lightoff,0.8884,0.8884,True
+6077,hi-IN,news,news_query,मैं today से नवीनतम world समाचार सुनना चाहता हूं,recommendation_events,0.9965,0.0017,False
+6093,hi-IN,weather,weather_query,क्या मुझे सनरूफ़ खोलनी चाहिए,transport_query,0.322,0.0136,False
+6103,hi-IN,weather,weather_query,अरे लॉस एंजेलिस कैलिफ़ोर्निया में आज मौसम कैसा रहेगा,weather_query,0.9975,0.9975,True
+6116,hi-IN,weather,weather_query,इस सप्ताह के मौसम की जानकारी,weather_query,0.9985,0.9985,True
+6118,hi-IN,datetime,datetime_query,अरे मुंबई में क्या समय हुआ है,weather_query,0.9817,0.0162,False
+6127,hi-IN,weather,weather_query,क्या आप छाते की सलाह देते हैं,qa_factoid,0.8335,0.002,False
+6129,hi-IN,news,news_query,मुझे दुनिया की खबरों से अपडेट रखें,news_query,0.9948,0.9948,True
+6151,hi-IN,weather,weather_query,मुझे आज का मौसम जानना है,weather_query,0.9991,0.9991,True
+6172,hi-IN,weather,weather_query,क्या sunglasses today के लिए एक अच्छा विकल्प है,recommendation_events,0.96,0.0014,False
+6177,hi-IN,weather,weather_query,क्या मुझे आज छाते की जरुरत होगी,qa_factoid,0.7951,0.0024,False
+6178,hi-IN,weather,weather_query,क्या मुझे जैकेट पहननी चाहिए,qa_factoid,0.2408,0.0199,False
+6194,hi-IN,weather,weather_query,आज का मौसम कैसा है,weather_query,0.9995,0.9995,True
+6289,hi-IN,weather,weather_query,अरे आज का मौसम कैसा है,weather_query,0.9992,0.9992,True
+6370,hi-IN,calendar,calendar_query,मेरा आने वाला सप्ताह किस तरह रहेगा,weather_query,0.9317,0.0022,False
+6372,hi-IN,news,news_query,विदेशी बेस्ड न्यूज,qa_factoid,0.9368,0.0001,False
+6403,hi-IN,transport,transport_query,कैसे पहुंचें कहीं,qa_factoid,0.7169,0.2797,False
+6410,hi-IN,news,news_query,आज भारत में क्या हो रहा है,weather_query,0.9945,0.0019,False
+6411,hi-IN,weather,weather_query,अगले बुधवार को मौसम कैसा रहेगा,weather_query,0.9992,0.9992,True
+6539,hi-IN,calendar,calendar_set,आज को मेरे आहार की शुरुआत के रूप में चिह्नित करें,calendar_remove,0.1839,0.0583,False
+6542,hi-IN,cooking,cooking_recipe,olly क्या सॉफ्ट चीज हार्ड चीज से अच्छा होता है,cooking_recipe,0.9905,0.9905,True
+6618,hi-IN,news,news_query,दिलचस्प खबर बताओ,qa_factoid,0.5029,0.0001,False
+6682,hi-IN,news,news_query,यू. पी. में चुनाव,qa_factoid,0.2332,0.0372,False
+6683,hi-IN,news,news_query,आर्थिक मामले,qa_factoid,0.9819,0.0007,False
+6713,hi-IN,calendar,calendar_remove,बुधवार को व्यावसायिक बैठक रद्द करें,calendar_remove,0.6143,0.6143,True
+6722,hi-IN,calendar,calendar_query,क्या ऐसा कुछ है जिसके बारे में मुझे याद दिलाया जाना चाहिए,qa_factoid,0.2957,0.0164,False
+6725,hi-IN,calendar,calendar_set,मुझे दोपहर के लिए मेरे कार्यक्रम के बारे में याद दिलाएं,email_sendemail,0.759,0.0137,False
+6726,hi-IN,calendar,calendar_remove,अगली बैठक रद्द करें,calendar_remove,0.403,0.403,True
+6729,hi-IN,calendar,calendar_remove,अंकिता के घर पर नाश्ता रद्द करें,lists_remove,0.4964,0.2488,False
+6732,hi-IN,calendar,calendar_set,मेरे सास-ससुर के साथ रविवार के लिए बैठक रिमाइंडर जोड़ें,lists_remove,0.257,0.0286,False
+6744,hi-IN,calendar,calendar_set,कल दस ऐ.एम. पर सलीम के साथ मुलाकात जोड़ें,social_post,0.9035,0.0037,False
+6746,hi-IN,calendar,calendar_set,जून के पहले सप्ताह को मेरे कैलेंडर में छुट्टी के रूप में सेट करें,calendar_remove,0.2624,0.0632,False
+6747,hi-IN,calendar,calendar_query,मेरे पास कितने अनुस्मारक हैं,social_post,0.4072,0.0038,False
+6755,hi-IN,calendar,calendar_remove,कृपया मेरा कैलेंडर साफ़ करें,iot_hue_lightoff,0.268,0.1314,False
+6761,hi-IN,calendar,calendar_remove,सुबह नौ बजे मेरी कैलेंडर से मीटिंग हटा दें,calendar_remove,0.9603,0.9603,True
+6764,hi-IN,calendar,calendar_set,मुझे खिड़कियां धोने के लिए याद दिलाएं,cooking_recipe,0.9595,0.0006,False
+6774,hi-IN,calendar,calendar_set,शुक्रवार के लिए एक आयोजन कर दो,cooking_recipe,0.9956,0.0003,False
+6785,hi-IN,calendar,calendar_query,मेरा अगला रिमाइंडर क्या है,qa_factoid,0.7186,0.0048,False
+6789,hi-IN,calendar,calendar_set,किरण के साथ शनिवार शाम चार बजे बैठक set करें,calendar_set,0.2854,0.2854,True
+6798,hi-IN,calendar,calendar_remove,मेरी अगली घटना हटाओ,qa_factoid,0.6066,0.306,False
+6801,hi-IN,calendar,calendar_query,मुझे इस शुक्रवार को मेरी बैठकें दिखाओ,iot_hue_lightoff,0.9204,0.0014,False
+6806,hi-IN,calendar,calendar_query,मुझे इस शुक्रवार दोपहर को मेरा कैलेंडर कार्यक्रम दिखाओ,iot_hue_lightoff,0.9909,0.0002,False
+6815,hi-IN,calendar,calendar_set,मुझे एक हफ्ते पहले मेरी माँ का जन्मदिन याद दिलाना,email_sendemail,1.0,0.0,False
+6819,hi-IN,calendar,calendar_set,olly वहाँ एक अच्छा बैंड बज रहा है जो आज रात नौ बजे सागर रत्ना में मैं जाना चाहता हूँ,play_music,0.9983,0.0001,False
+6836,hi-IN,calendar,calendar_set,मुझे कल छह बजे बैठक के बारे में याद दिलाएं,weather_query,0.6693,0.0087,False
+6850,hi-IN,calendar,calendar_query,मेरा आज का शेड्यूल बताओ,qa_factoid,1.0,0.0,False
+6856,hi-IN,calendar,calendar_set,मुझे कल की मुलाकात में सुबह दस बजे एक अनुस्मारक सूचना दें,social_post,0.983,0.0009,False
+6860,hi-IN,calendar,calendar_query,क्या कोई आगामी ईवेंट है,email_sendemail,0.8141,0.0002,False
+6865,hi-IN,calendar,calendar_set,दस बजे कल की बैठक के बारे में एक अधिसूचना सेट करें,calendar_set,0.8359,0.8359,True
+6878,hi-IN,calendar,calendar_set,शुक्रवार को दोपहर ढाई बजे लेखा विभाग के साथ मेरी मीटिंग शेड्यूल करो,calendar_remove,0.3463,0.0251,False
+6891,hi-IN,calendar,calendar_query,क्या सुबह के शो उपलब्ध हैं,play_podcasts,0.9985,0.0001,False
+6892,hi-IN,calendar,calendar_query,क्या आप मुझे फिल्म का शेड्यूल दे सकते हैं,qa_factoid,0.7992,0.0001,False
+6897,hi-IN,calendar,calendar_set,मुझे अमीशा को सात तारीख की शाम पाँच पर लेने के लिए याद दिलाएं,email_sendemail,0.9362,0.0021,False
+6901,hi-IN,calendar,calendar_set,मुझे कल सुबह दस बजे बैठक के बारे में याद दिलाना,email_sendemail,0.9989,0.0,False
+6902,hi-IN,calendar,calendar_set,मेरा तेल बदलने के लिए अगले महीने एक रिमाइंडर सेट करें,iot_hue_lightoff,0.4668,0.0316,False
+6909,hi-IN,calendar,calendar_query,एक के बाद और तीन बजे दोपहर से पहले क्या हो रहा है,weather_query,0.6215,0.0057,False
+6918,hi-IN,calendar,calendar_remove,कैलेंडर से ईवेंट हटाएं,email_sendemail,1.0,0.0,False
+6923,hi-IN,calendar,calendar_set,मंगलवार की सुबह दस्तावेजों को प्रिंट करने के लिए रिमाइंडर सेट करें,iot_hue_lightoff,0.322,0.0757,False
+6926,hi-IN,calendar,calendar_query,क्या ये शुक्रवार है,email_sendemail,0.3325,0.0148,False
+6928,hi-IN,calendar,calendar_remove,सभी घटनाओं को मिटाएं,lists_remove,0.4162,0.3623,False
+6936,hi-IN,calendar,calendar_set,मुझे मेरी दवा सुबह नौ बजे लेने के लिए याद दिलाना,email_sendemail,0.7009,0.0083,False
+6937,hi-IN,calendar,calendar_set,दोपहर के लिए बॉस के साथ लंच करने के लिए रिमाइंडर सेट करें,calendar_set,0.6101,0.6101,True
+6946,hi-IN,calendar,calendar_query,क्या अगले बुधवार के लिए कोई बैठक निर्धारित है,lists_query,0.1498,0.068,False
+6958,hi-IN,calendar,calendar_remove,सुनिश्चित करें कि मेरे कैलेंडर पर कोई ईवेंट नहीं है,email_sendemail,0.9947,0.0,False
+6959,hi-IN,calendar,calendar_set,मुझे मेरी बैठक के शुरू होने से एक घंटे पहले उसके बारे में याद दिलाएं,email_sendemail,0.9998,0.0,False
+6962,hi-IN,calendar,calendar_set,क्या मैं जान सकता हूँ कि अगले शनिवार शाम छः बजे मुझे क्या करना है,weather_query,0.4195,0.0172,False
+6964,hi-IN,calendar,calendar_set,क्या आप मेरे बॉस के साथ मेरी अगली बैठक होने से एक घंटा पहले याद दिला सकते हैं,email_sendemail,0.976,0.0,False
+6967,hi-IN,calendar,calendar_query,क्या आप इस मुद्दे पर तथ्यों की जांच कर सकते हैं,qa_factoid,0.9198,0.0028,False
+6968,hi-IN,calendar,calendar_query,मुझे आज के लिए सभी बैठकों की पुष्टि करने की आवश्यकता है क्या व्यक्ति आमंत्रित कर सकता है,qa_factoid,0.9983,0.0,False
+6973,hi-IN,calendar,calendar_set,नई दिल्ली में कल के लिए एक सम्मेलन का अनुस्मारक जोड़ें,social_post,0.8201,0.0031,False
+6974,hi-IN,calendar,calendar_set,कल दिल्ली में मेरा एक समारोह है इसे याद दिलाना,email_sendemail,0.1171,0.0464,False
+6980,hi-IN,calendar,calendar_query,मुझे करने के लिए सूची दें,email_sendemail,0.8014,0.0005,False
+6992,hi-IN,calendar,calendar_query,भविष्य के आयोजन दिखाओ,play_podcasts,0.999,0.0,False
+6994,hi-IN,calendar,calendar_set,पर मुझे याद दिलाना,email_sendemail,0.9992,0.0,False
+6997,hi-IN,calendar,calendar_remove,सफल कार्यक्रम निकालें,cooking_recipe,0.8424,0.0006,False
+7000,hi-IN,calendar,calendar_set,नया आयोजन बताओ,cooking_recipe,0.9374,0.0001,False
+7004,hi-IN,calendar,calendar_set,हर साल इस तारीख को मेरे कैलेंडर में एक रिमाइंडर जोड़ें,calendar_remove,0.822,0.0734,False
+7013,hi-IN,calendar,calendar_query,इवेंट कब शुरू होने जा रहा है,weather_query,0.9879,0.0006,False
+7014,hi-IN,calendar,calendar_query,मुझे आज की घटनाओं के लिए समय सारिणी दें,calendar_remove,0.5425,0.0286,False
+7025,hi-IN,calendar,calendar_remove,कैलेंडर से नया साल हटाएं,email_sendemail,0.8446,0.1426,False
+7026,hi-IN,recommendation,recommendation_events,इस सप्ताह मेरे नगर में कौन से कार्यक्रम चल रहे हैं,lists_query,0.4533,0.1399,False
+7039,hi-IN,calendar,calendar_set,मेरी अगले मंगलवार को दिन के ग्यारह बजे आर्यन के साथ मीटिंग सेट करें,calendar_set,0.4337,0.4337,True
+7044,hi-IN,calendar,calendar_set,कृपया मुझे पांच बजे तक तैयार होना शुरू करने के लिए याद दिलाएं,calendar_remove,0.3568,0.051,False
+7046,hi-IN,calendar,calendar_set,इक्कीस तारीख को सात बजे ताल बैठक जोड़ें,calendar_remove,0.5645,0.0151,False
+7055,hi-IN,calendar,calendar_set,बृहस्पतिवार को ग्यारह बजे मोहन के साथ बैठक को जोड़ो,email_sendemail,0.9855,0.0001,False
+7057,hi-IN,calendar,calendar_set,लंच मीटिंग राहुल के साथ बुधवार को दोपहर मे करो,iot_hue_lightoff,0.1299,0.0406,False
+7061,hi-IN,calendar,calendar_set,अमित के साथ मेरी शुक्रवार की बैठक से चौबीस घंटे पहले मुझे एक अनुस्मारक दें,iot_hue_lightoff,0.5668,0.0014,False
+7073,hi-IN,calendar,calendar_set,मेरा अगला आयोजन होने से पहले उसे कैलेंडर में search करो,play_podcasts,0.2893,0.0074,False
+7080,hi-IN,calendar,calendar_remove,मेरे कैलेंडर पर सब कुछ रद्द करें,lists_remove,0.4205,0.1017,False
+7087,hi-IN,calendar,calendar_remove,मेरे कैलेंडर में से कल की मीटिंग cancel कर दो,calendar_remove,0.5013,0.5013,True
+7098,hi-IN,calendar,calendar_set,मेरे कैलेंडर में बारहवीं को मेरी कार का भुगतान जोड़ें,lists_remove,0.2844,0.0216,False
+7100,hi-IN,calendar,calendar_set,एक दिन पहले मुझे याद दिलाएं मेरी कार बाकि है,datetime_query,0.7643,0.0032,False
+7111,hi-IN,calendar,calendar_query,इक्कतीस मार्च को मेरे चिकित्सक से मिलने का समय क्या है,datetime_query,0.7213,0.009,False
+7113,hi-IN,calendar,calendar_query,क्या इस सप्ताह के अंत में शहर में कोई कार्यक्रम होगा,calendar_remove,0.2713,0.0179,False
+7117,hi-IN,calendar,calendar_remove,मेरे कैलेंडर से उन्नीसवीं के आयोजन से छुटकारा पाएं,calendar_remove,0.4352,0.4352,True
+7120,hi-IN,calendar,calendar_query,आज का मेरा कार्यक्रम कैसा है,cooking_recipe,0.2648,0.0494,False
+7122,hi-IN,calendar,calendar_set,क्या आप इस घटना को दोहरा सकते हैं,qa_factoid,0.9964,0.0001,False
+7140,hi-IN,calendar,calendar_set,लंच मीटिंग के एक घंटे पहले मुझे बताने के लिए रिमाइंडर लगाओ,cooking_recipe,0.8295,0.0039,False
+7141,hi-IN,calendar,calendar_query,क्या यह कार्यक्रम निर्धारित है,cooking_recipe,0.9203,0.0024,False
+7151,hi-IN,calendar,calendar_set,प्रत्येक विषम संख्या वाले रविवार के लिए एक अनुस्मारक सेट करें,iot_hue_lightoff,0.9931,0.0019,False
+7152,hi-IN,calendar,calendar_set,दोपहर का भोजन हर दिन साढ़े बारह बजे सेट करें,cooking_recipe,0.7106,0.2456,False
+7161,hi-IN,calendar,calendar_set,भविष्य में इस घटना को याद दिलाएं,email_sendemail,0.9962,0.0002,False
+7170,hi-IN,calendar,calendar_set,आज मेरी माँ का जन्मदिन है मुझे हर साल इस तारीख को एक सूचना भेजें,email_sendemail,0.998,0.0004,False
+7181,hi-IN,calendar,calendar_set,मुझे गुरुवार सुबह छह बजे जगा देना ताकि मेरे पास बैठक के लिए समय हो,calendar_remove,0.7943,0.0003,False
+7185,hi-IN,calendar,calendar_query,डॉक्टर आलिया के साथ मेरा अगला appointment कब है,datetime_query,0.6777,0.0071,False
+7189,hi-IN,calendar,calendar_query,क्या मेरी कुछ योजना है,cooking_recipe,0.9836,0.0003,False
+7194,hi-IN,calendar,calendar_set,मैं कल एक बैठक कर रहा हूँ इसे सेट करें,calendar_set,0.8651,0.8651,True
+7196,hi-IN,calendar,calendar_set,मुझे पंद्रह मार्च को एलन के साथ बैठक की याद दिलाएं,email_sendemail,0.8636,0.0067,False
+7199,hi-IN,calendar,calendar_set,अगले सप्ताह के अंग्रेजी फाइनल से पहले तीन दो और एक घंटे के लिए एक अधिसूचना सेट करें,calendar_set,0.8758,0.8758,True
+7209,hi-IN,calendar,calendar_set,क्या तुम मंगलवार को मुझे कचरा बाहर निकालने के लिए याद दिला सकते हो,calendar_remove,0.2971,0.0167,False
+7219,hi-IN,calendar,calendar_query,क्या आपने कल की मीटिंग के बारे में रिमाइंडर लगाया है,cooking_recipe,0.7778,0.006,False
+7224,hi-IN,calendar,calendar_query,वह जगह कहां है जहां टॉम की शादी होने वाली है,social_post,0.3965,0.0179,False
+7232,hi-IN,calendar,calendar_query,अगले सप्ताह क्या कार्यक्रम हैं,cooking_recipe,0.9255,0.0014,False
+7257,hi-IN,calendar,calendar_set,कृपया मुझे आधे घंटे में मां को फोन करने की याद दिलाएं,email_sendemail,0.9941,0.0001,False
+7258,hi-IN,calendar,calendar_set,मुझे एक घंटे के बाद बॉस को ईमेल भेजने की याद दिलाएं,email_sendemail,1.0,0.0,False
+7262,hi-IN,calendar,calendar_set,कल बैठक के लिए एक अधिसूचना अनुस्मारक बनाएँ,qa_factoid,0.5739,0.0016,False
+7266,hi-IN,calendar,calendar_query,मुझे मेरी पेंडिंग टास्क के बारे में बताओ,iot_hue_lightoff,0.547,0.012,False
+7278,hi-IN,calendar,calendar_set,चोबीस घंटे पहले मुझे रीता का जन्मदिन याद दिला दें,email_sendemail,1.0,0.0,False
+7287,hi-IN,calendar,calendar_set,मुझे एक दिन पहले मेरी सालगिरह के बारे में याद दिलाएं,datetime_query,0.2597,0.028,False
+7289,hi-IN,calendar,calendar_remove,सोनू के साथ सभी आयोजन से छुटकारा पाएं,lists_remove,0.5067,0.1962,False
+7291,hi-IN,calendar,calendar_set,कल सुबह दस बजे से एक घंटा ब्लॉक करें,calendar_remove,0.678,0.0044,False
+7292,hi-IN,calendar,calendar_set,मैं कल शाम चार से छह बजे तक अनुपलब्ध हूँ मेरा कैलेंडर चिह्नित करें,iot_hue_lightoff,0.7989,0.0013,False
+7293,hi-IN,calendar,calendar_set,शनिवार के लिए एक घंटे का समय निर्धारित करें,calendar_set,0.4204,0.4204,True
+7294,hi-IN,calendar,calendar_remove,मेरे कैलेंडर से रमेश यादव के साथ मुलाकात हटायें,lists_remove,0.3343,0.1936,False
+7295,hi-IN,calendar,calendar_remove,कृपया मेरा कैलेंडर साफ़ करें,iot_hue_lightoff,0.268,0.1314,False
+7314,hi-IN,calendar,calendar_query,आज के लिए क्या है,qa_factoid,0.3004,0.0117,False
+7316,hi-IN,calendar,calendar_query,क्या मेरे पास कोई अपॉइंटमेंट है,qa_factoid,0.9986,0.0,False
+7319,hi-IN,calendar,calendar_query,आज दोपहर दो चार बजे से क्या चल रहा है,weather_query,0.8629,0.0072,False
+7353,hi-IN,email,email_query,बस मुझे अगले सप्ताह दिल्ली में मौसम के बारे में बताएं,weather_query,0.9989,0.0001,False
+7355,hi-IN,calendar,calendar_set,मुझे छह बजे स्टू की जांच करने के लिए याद दिलाएं,calendar_remove,0.5201,0.0114,False
+7380,hi-IN,calendar,calendar_query,कृपया आज दिखाएँ ग्राहकों के साथ बैठक,iot_hue_lightoff,0.9723,0.0004,False
+7397,hi-IN,calendar,calendar_query,क्या अगले तीन महीने के लिए किसी कार्यक्रम की योजना है,cooking_recipe,0.7813,0.0031,False
+7449,hi-IN,calendar,calendar_set,कृपया इस व्यक्ति के साथ मीटिंग शेड्यूल करें,qa_factoid,0.9186,0.0013,False
+7450,hi-IN,calendar,calendar_set,मुझे इस व्यक्ति के साथ शेड्यूल करने के लिए एक मीटिंग चाहिए,qa_factoid,0.9825,0.0001,False
+7455,hi-IN,calendar,calendar_set,मुझे कल पार्टी के बारे में याद दिलाना,email_sendemail,0.3376,0.0243,False
+7461,hi-IN,calendar,calendar_set,कैलेंडर आयोजन में लोगों को आमंत्रित करें,social_post,0.5222,0.0018,False
+7463,hi-IN,calendar,calendar_set,मेरे समूह को सूचित करें कि नई बैठक की तारीख कल है,email_sendemail,0.916,0.0013,False
+7467,hi-IN,calendar,calendar_query,मुझे आयोजन के लिए टाइम बताओ,qa_factoid,0.9983,0.0,False
+7477,hi-IN,calendar,calendar_set,शादी की सालगिरह के तोहफे की व्यवस्था करने के लिए मुझे हर साल के पांचवें मार्च को याद दिलाएं,email_sendemail,0.3811,0.0393,False
+7496,hi-IN,calendar,calendar_query,क्या आज मेरे पास अपॉइंटमेंटस है,qa_factoid,0.3646,0.0093,False
+7499,hi-IN,calendar,calendar_set,कल की बैठक के लिए नया शैड्यूल बनाओ,cooking_recipe,0.9877,0.0003,False
+7500,hi-IN,calendar,calendar_remove,क्या आप अगला ईवेंट हटा सकते हैं,email_sendemail,0.9985,0.0003,False
+7502,hi-IN,calendar,calendar_query,चार पी.एम के एजेंडे में क्या है जॉय के साथ बैठक,recommendation_events,0.081,0.0468,False
+7503,hi-IN,calendar,calendar_query,शुक्रवार को डी. सी. में कहाँ पर वह बैठक एक पी.एम. पर है,play_podcasts,0.0526,0.0491,False
+7520,hi-IN,calendar,calendar_set,मुझे प्रतिदिन दो बजे याद दिलाना दोपहर के भोजन के लिए,calendar_remove,0.4041,0.0146,False
+7524,hi-IN,calendar,calendar_query,आज पांच सौ बीस बजे आयोजित बैठक में मेहता मेरी कंपनी में कितना निवेश करने को तैयार हैं,recommendation_events,0.126,0.0386,False
+7528,hi-IN,calendar,calendar_set,तेरह जून चुनाव परिणाम का दिन है कृपया इसे सेट करें,calendar_remove,0.6544,0.1066,False
+7531,hi-IN,calendar,calendar_set,कृपया मेरे वेतन दिवस जोड़ें,calendar_remove,0.9962,0.0001,False
+7539,hi-IN,calendar,calendar_query,क्या मेरा कोई कम चल रहा हैं,weather_query,0.8679,0.0006,False
+7542,hi-IN,calendar,calendar_set,मुझे इसके बारे में कल याद दिलाना,email_sendemail,0.2902,0.0307,False
+7549,hi-IN,calendar,calendar_set,मैं तीन बजे तक एक बैठक करना चाहता हूं,qa_factoid,0.5819,0.0129,False
+7556,hi-IN,calendar,calendar_set,हर शुक्रवार को ग्रोसरी ख़रीदनी है मेरे कैलेंडर में रिमाइंडर लगाओ,cooking_recipe,0.422,0.0182,False
+7557,hi-IN,calendar,calendar_set,कैलेंडर पर स्थान की याद दिलाएं,email_sendemail,0.8738,0.0045,False
+7559,hi-IN,calendar,calendar_set,मुझे आज रात आठ पी.एम. पर मेरी ड्राई क्लीनिंग लेने की याद दिलाना,email_sendemail,0.0927,0.0499,False
+7563,hi-IN,calendar,calendar_set,मुझे कल एक घंटे पहले बैठक के बारे में याद दिलाएं,email_sendemail,0.9934,0.0003,False
+7565,hi-IN,calendar,calendar_set,मीटिंग रिमाइंडर,qa_factoid,0.4653,0.0155,False
+7567,hi-IN,calendar,calendar_set,जन्मदिन,datetime_query,0.8045,0.0053,False
+7569,hi-IN,calendar,calendar_query,कल के लिए योजना,cooking_recipe,0.9514,0.0009,False
+7570,hi-IN,calendar,calendar_query,आज क्या योजना है,cooking_recipe,0.4192,0.007,False
+7583,hi-IN,calendar,calendar_set,अपने कैलेंडर में एक मित्र जोड़ो कार्यक्रम ईवेंट जोड़ें,iot_hue_lightoff,0.5088,0.0025,False
+7596,hi-IN,calendar,calendar_set,कृपया दोपहर में डेरिक के साथ हेसी में एक बैठक का समय निर्धारित करें,calendar_set,0.2768,0.2768,True
+7598,hi-IN,calendar,calendar_set,कृपया अगले उपलब्ध बैठक के दिन अजय के साथ आतंकवाद पर चर्चा करने के लिए एक बैठक निर्धारित करें,calendar_remove,0.582,0.0963,False
+7606,hi-IN,calendar,calendar_set,सुधीर से कल तीन बजे मिलो,datetime_query,0.8005,0.0012,False
+7609,hi-IN,calendar,calendar_remove,मंगलवार के लिए मीटिंग रिमाइंडर हटाएं,calendar_remove,0.989,0.989,True
+7613,hi-IN,calendar,calendar_query,आगामी कार्यक्रम क्या था,qa_factoid,0.9279,0.0009,False
+7628,hi-IN,calendar,calendar_set,मुझे याद दिलाएं जब मैं एक नया पुस्तकालय कार्ड प्राप्त करने के लिए पुस्तकालय में rhu,email_sendemail,0.9541,0.0016,False
+7654,hi-IN,calendar,calendar_set,बीस अप्रैल को मेरे भाई के जन्मदिन के रूप में चिह्नित करें,qa_factoid,0.3095,0.044,False
+7655,hi-IN,calendar,calendar_set,बीस अप्रैल को एक रिमाइंडर ऐड करो मेरे भाई का जन्मदिन,email_sendemail,0.9974,0.0,False
+7660,hi-IN,calendar,calendar_remove,तीन पी.एम. के बाद मेरी सभी नियुक्तियों को रद्द करें आज और मुझे विवरण सूचित करें,email_sendemail,0.6943,0.0635,False
+7662,hi-IN,calendar,calendar_query,क्या आप आज मेरी बैठकों की सूची बना सकते हैं,qa_factoid,0.815,0.0012,False
+7664,hi-IN,calendar,calendar_set,हरीश के साथ दोपहर का भोजन जोड़ें,cooking_recipe,0.9978,0.0001,False
+7666,hi-IN,calendar,calendar_set,क्या आप चिह्नित करेंगे कि कल मेरी राम के साथ तीन बजे बैठक होगी,datetime_query,0.6316,0.0056,False
+7680,hi-IN,calendar,calendar_remove,मेरे कैलेंडर में चालू माह के लिए मेरे सभी क्रिकेट के आयोजन हटा दें,calendar_remove,0.9896,0.9896,True
+7686,hi-IN,calendar,calendar_set,त्योहार कैलेंडर में हरीश और कमल शामिल करें,lists_remove,0.4976,0.1147,False
+7690,hi-IN,calendar,calendar_query,मेरे पास क्या आ रहा है,social_post,0.9804,0.0003,False
+7693,hi-IN,calendar,calendar_query,क्या मेरे पास इक्कीसवीं के लिए कुछ योजना है,cooking_recipe,0.8646,0.001,False
+7697,hi-IN,calendar,calendar_set,इसके लिए रिमाइंडर सेट करें,iot_hue_lightoff,0.3585,0.1611,False
+7711,hi-IN,calendar,calendar_set,अरे मेरी अन्य सभी मीटिंग रद्द करो और दो मार्च के लिए कॉल करो क्योंकि यह हरीश का जन्मदिन है इसे अपने कैलेंडर में एक आयोजन के रूप में टैग करें,calendar_remove,0.94,0.001,False
+7712,hi-IN,calendar,calendar_set,hey olly दो मार्च को मेरे कैलेंडर की सारी मीटिंग और कॉल्स को कैंसिल कर दो उस दिन सोहन का जन्मदिन है इसे अपने कैलेंडर में आयोजन के रूप में टैग करो,calendar_remove,0.9078,0.0015,False
+7718,hi-IN,calendar,calendar_set,hey इस शुक्रवार की बैठक के लिए रमेश को न्योता भेजो और शुक्रवार दोपहर के लिए मेरे calender को block कर दो,calendar_remove,1.0,0.0,False
+7726,hi-IN,calendar,calendar_set,मुझे हर सोमवार को कुछ चाहिए इसके लिए एक अनुस्मारक सेट करें,iot_hue_lightoff,0.98,0.0141,False
+7730,hi-IN,calendar,calendar_set,मैं चाहता हूं कि आप अगले सोमवार को चिह्नित करें,datetime_query,0.8373,0.0129,False
+7741,hi-IN,calendar,calendar_remove,शनिवार के लिए मेरा कैलेंडर मिटा दो,calendar_remove,0.6687,0.6687,True
+7751,hi-IN,calendar,calendar_set,मुझे हर सोमवार को कचरा बाहर निकालने के लिए याद दिलाएं,lists_remove,0.55,0.0169,False
+7762,hi-IN,calendar,calendar_query,मेरे पास क्या रिमाइंडर हैं,recommendation_events,0.6603,0.0044,False
+7767,hi-IN,calendar,calendar_set,दो पी.एम. पर राजा का पार्क में चार फ़रवरी को कैलेंडर में अभ्यास जोड़ें,iot_hue_lightoff,0.581,0.0162,False
+7768,hi-IN,calendar,calendar_set,कृपया चार फरवरी को शहीद पार्क में दोपहर दो बजे अभ्यास जोड़ें,calendar_remove,0.5413,0.1974,False
+7774,hi-IN,calendar,calendar_set,कल के लिए मेरे कैलेंडर में खरीदारी जोड़ें,iot_hue_lightoff,0.2144,0.1155,False
+7777,hi-IN,calendar,calendar_query,क्या मेरी आज नियुक्ति है,qa_factoid,0.9998,0.0,False
+7778,hi-IN,calendar,calendar_set,मुझे याद दिलाना कि मैं रविवार को दोपहर बाद क्या कर रहा हूं,weather_query,0.7426,0.011,False
+7808,hi-IN,calendar,calendar_set,मुझे याद दिलाएं कि मैं माँ को नाई के गुरुवार को एक हजार एक सौ बजे ले जाता हूँ,datetime_query,0.9398,0.0013,False
+7817,hi-IN,calendar,calendar_query,क्या यह इस तारीख के बारे में सच है,calendar_remove,0.523,0.1769,False
+7820,hi-IN,calendar,calendar_remove,कैलेंडर में सभी घटनाओं को मिटा दें,calendar_remove,0.5093,0.5093,True
+7836,hi-IN,calendar,calendar_remove,सारे आयोजन को मिटा दो,lists_remove,0.8038,0.0649,False
+7843,hi-IN,calendar,calendar_set,मुझे दो घंटे में बताएं कि मुझे अपने वायलिन पाठ के लिए निकलना है जो कि चार बजे है कावेरी पर,datetime_query,0.2296,0.0158,False
+7844,hi-IN,calendar,calendar_query,मैंने कौन से रिमाइंडर सेट किए हैं,calendar_set,0.3066,0.0161,False
+7847,hi-IN,calendar,calendar_set,पंजीकरण खुलने पर मुझे सचेत करें,qa_factoid,0.4851,0.0189,False
+7851,hi-IN,calendar,calendar_set,मेरी आज दोपहर को एक बैठक है,iot_hue_lightoff,0.3477,0.0226,False
+7863,hi-IN,calendar,calendar_set,मुझे आज दोपहर पांच बजे खाना शुरू करने की याद दिलाएं,cooking_recipe,0.9968,0.0001,False
+7870,hi-IN,calendar,calendar_remove,कैलेंडर से घटना हटाएं,calendar_remove,0.733,0.733,True
+7876,hi-IN,news,news_query,पिछले दो महीनों से क्या हो रहा है,news_query,0.8321,0.8321,True
+7878,hi-IN,calendar,calendar_remove,मेरा कैलेंडर मिटा दो,calendar_remove,0.7821,0.7821,True
+7879,hi-IN,calendar,calendar_query,मेरे अगले तीन कार्यक्रम क्या हैं,cooking_recipe,0.365,0.0079,False
+7889,hi-IN,calendar,calendar_query,आज रात को फुटबॉल का मैच कितने बजे है,weather_query,0.9969,0.0,False
+7890,hi-IN,calendar,calendar_remove,आज का बाल काटना मिटाओ,cooking_recipe,0.6745,0.011,False
+7891,hi-IN,calendar,calendar_remove,आज रात का खाना रद्द करें,cooking_recipe,0.9795,0.0092,False
+7892,hi-IN,calendar,calendar_remove,आज का अगला इवेंट डिलीट कर दो,calendar_remove,0.953,0.953,True
+7894,hi-IN,calendar,calendar_set,मुझे एक घंटे में चुनाव पर अपडेट दें,iot_hue_lightoff,0.4326,0.0299,False
+7902,hi-IN,calendar,calendar_set,मेरी john के साथ meeting set करो कल दोपहर दो बजे,calendar_set,0.8994,0.8994,True
+7908,hi-IN,calendar,calendar_query,क्या मुझे आज कुछ करने की ज़रूरत है,cooking_recipe,0.4879,0.0119,False
+7912,hi-IN,calendar,calendar_remove,एलेक्सा मेरे कैलेंडर से माइक के साथ रात का खाना हटा दि,email_sendemail,1.0,0.0,False
+7916,hi-IN,calendar,calendar_set,मुझे छह बजे कचरा बाहर निकालने के लिए याद दिलाएं,lists_remove,0.3336,0.0139,False
+7918,hi-IN,calendar,calendar_set,कैलेंडर इवेंट भेजें आमंत्रण राहुल,social_post,0.9798,0.0005,False
+7919,hi-IN,calendar,calendar_set,नई बैठक में मोहन और ममता को जोड़ो,iot_hue_lightoff,0.1501,0.0357,False
+7922,hi-IN,calendar,calendar_remove,खुले कार्य भविष्य की आयोजनो को हटा दें,lists_remove,0.478,0.4355,False
+7927,hi-IN,calendar,calendar_query,मुझे इस सप्ताह क्या करना है,cooking_recipe,0.5514,0.0155,False
+7946,hi-IN,calendar,calendar_query,इंदौर में आगामी संगीत कार्यक्रम क्या हैं,play_music,0.9663,0.0009,False
+7953,hi-IN,calendar,calendar_remove,कृपया शनिवार को मेरे डॉक्टर के साथ मेरी नियुक्ति को हटा दें,calendar_remove,0.8967,0.8967,True
+7955,hi-IN,calendar,calendar_set,यह आयोजन को मेरे कैलेंडर पर दोहराए जाने वाले प्रतिरूप में रखें,iot_hue_lightoff,0.9463,0.0025,False
+7956,hi-IN,calendar,calendar_set,क्या आप इस घटना को दोहरा सकते हैं,qa_factoid,0.9964,0.0001,False
+7966,hi-IN,calendar,calendar_query,क्या मैंने आपको कुछ याद दिलाने के लिए कहा था,social_post,0.6754,0.0052,False
+7970,hi-IN,calendar,calendar_set,मुझे उपहार खरीदने के लिए समय पर शादी की याद दिलाएं,email_sendemail,0.7198,0.0098,False
+7971,hi-IN,calendar,calendar_set,और घटना से दो दिन पहले के लिए एक अनुस्मारक प्राप्त करें,iot_hue_lightoff,0.9822,0.001,False
+7975,hi-IN,calendar,calendar_query,क्या आयोजन में नौकर सेवा है,qa_factoid,0.6407,0.0083,False
+7978,hi-IN,calendar,calendar_query,कल दोपहर से पहले मैंने कौन से रिमाइंडर निर्धारित किए हैं,cooking_recipe,0.9532,0.0011,False
+7980,hi-IN,calendar,calendar_set,मुझे बताओ कि मेरा कोई कार्यक्रम कब है,qa_factoid,0.9391,0.0001,False
+7981,hi-IN,calendar,calendar_set,बैठक से पहले अलर्ट भेजें,qa_factoid,0.718,0.0015,False
+7993,hi-IN,calendar,calendar_remove,मेरे calendar से सारे events कर दो,calendar_remove,0.9367,0.9367,True
+8001,hi-IN,calendar,calendar_remove,क्या आप बाल कटवाना को मिटा सकते हैं जिसे मैंने शुक्रवार के लिए निर्धारित किया है,iot_hue_lightoff,0.4239,0.0165,False
+8004,hi-IN,calendar,calendar_set,अजय को हमारे तलाक के बारे में मुझसे बात करने की ज़रूरत है क्या आप कृपया मेरे उपलब्ध होते ही एक बैठक सेट कर सकते हैं,qa_factoid,0.1082,0.0472,False
+8005,hi-IN,calendar,calendar_set,सोमवार बीस तारीख को हमारी सप्ताहांत यात्रा के बारे में मुझे राहुल के साथ बातचीत करने की ज़रूरत है,social_post,0.2664,0.0326,False
+8013,hi-IN,calendar,calendar_query,मुझे अगले महीने के लिए मेरी बैठक दिखाओ,qa_factoid,0.4914,0.0018,False
+8029,hi-IN,calendar,calendar_query,आज कौन सी योजना होने वाली हैं,recommendation_events,0.9387,0.0014,False
+8033,hi-IN,datetime,datetime_query,दीपावली किस दिन पड़ता है,weather_query,0.7719,0.2263,False
+8035,hi-IN,calendar,calendar_set,ऑइल change के बारे में याद दिलाओ,email_sendemail,0.7155,0.0048,False
+8037,hi-IN,calendar,calendar_set,मुझे कुछ चीजें थोड़े थोड़े समय में याद दिलाना,cooking_recipe,0.605,0.0153,False
+8042,hi-IN,calendar,calendar_query,मेरी अगली मीटिंग में कितने लोग शामिल हो रहे हैं,qa_factoid,0.519,0.0084,False
+8043,hi-IN,calendar,calendar_query,मेरी अगली नियुक्ति किस समय है,datetime_query,0.9946,0.0001,False
+8044,hi-IN,calendar,calendar_query,आज मेरा कार्यक्रम क्या है,cooking_recipe,0.621,0.0115,False
+8055,hi-IN,calendar,calendar_remove,मेरी नियुक्ति सात मार्च के लिए हटा दो,calendar_remove,0.9787,0.9787,True
+8056,hi-IN,calendar,calendar_query,क्या मेरे पास शुक्रवार को डेट है,datetime_query,0.9992,0.0,False
+8058,hi-IN,calendar,calendar_query,क्या मेरी आज सेल्स मीटिंग है,lists_remove,0.4775,0.0032,False
+8073,hi-IN,calendar,calendar_set,बुधवार को सुबह ग्यारह बजे सेल्स मीटिंग शेड्यूल करें,qa_factoid,0.7847,0.0216,False
+8079,hi-IN,calendar,calendar_set,एक घंटा रोटी खाने के लिए ब्रेक सेट करें,calendar_set,0.3407,0.3407,True
+8084,hi-IN,calendar,calendar_query,घटना का एजेंडा क्या है,qa_definition,0.9978,0.0,False
+8085,hi-IN,calendar,calendar_set,मैं इस सप्ताह के लिए एक तिथि निर्धारित करना चाहता हूं,datetime_query,0.9931,0.0021,False
+8100,hi-IN,email,email_sendemail,मेरी नियुक्तियों को पुनर्निर्धारित करने के लिए ईमेल करें,email_sendemail,1.0,1.0,True
+8107,hi-IN,calendar,calendar_set,रोहन के लिए जन्मदिन का कार्यक्रम निर्धारित करें,calendar_set,0.9862,0.9862,True
+8110,hi-IN,calendar,calendar_set,कृपया मेरे कैलेंडर में पर्यवेक्षण जोड़ें,recommendation_events,0.2794,0.019,False
+8116,hi-IN,calendar,calendar_query,एक फरवरी और सोलह मार्च की समय सीमा के दौरान क्या बैठकें हुईं,lists_query,0.2287,0.0326,False
+8119,hi-IN,calendar,calendar_query,अर्जित सिंह की जन्मदिन पार्टी कहां हो रही है,social_post,0.9986,0.0001,False
+8125,hi-IN,calendar,calendar_set,मेरे कैलेंडर में एक बैठक आयोजन बनाएं,iot_hue_lightoff,0.3163,0.0348,False
+8126,hi-IN,calendar,calendar_set,मेरे कैलेंडर में एक मीटिंग इवेंट शेड्यूल करें,iot_hue_lightoff,0.9384,0.0004,False
+8129,hi-IN,calendar,calendar_query,मेरे पास अब भी क्या रिमाइंडर हैं,qa_factoid,0.7687,0.0059,False
+8140,hi-IN,calendar,calendar_set,तेरह तारिख को याद दिलाएं कि मुझे दिशा के साथ दोपहर के खाने पर जाना है,cooking_recipe,0.2279,0.0293,False
+8148,hi-IN,calendar,calendar_query,क्या मैंने खुद को कोई रिमाइंडर छोड़ा,qa_factoid,0.9835,0.0002,False
+8150,hi-IN,calendar,calendar_query,क्या मेरे पास जन्मदिन की पार्टी के बारे में कोई शेष है,lists_remove,0.9968,0.0001,False
+8165,hi-IN,calendar,calendar_query,पहले ही दोपहर के एक बजकर तीस मिनट हो चुके हैं आपकी एक मीटिंग हैं दस मिनट में,datetime_query,0.8018,0.0115,False
+8182,hi-IN,calendar,calendar_remove,क्या आप दंत चिकित्सक से मुलाकात को हटा सकते हैं,lists_remove,0.392,0.0606,False
+8188,hi-IN,calendar,calendar_query,आज कितनी तारीख है,datetime_query,0.9572,0.0034,False
+8204,hi-IN,calendar,calendar_set,कृपया मुझे डाकघर जाने के लिए याद दिलाएं,calendar_remove,0.4731,0.0165,False
+8206,hi-IN,calendar,calendar_set,मुझे अपनी बहन के लिए उपहार खरीदना मत भूलने देना,email_sendemail,0.7046,0.0053,False
+8230,hi-IN,calendar,calendar_query,मंगलवार को मेरी दोपहर के भोजन की बैठक कितनी देर तक होगी,cooking_recipe,0.8893,0.0072,False
+8241,hi-IN,calendar,calendar_remove,शेष वर्ष के लिए मेरे कैलेंडर से सब कुछ साफ़ करें,lists_remove,0.4574,0.1916,False
+8245,hi-IN,calendar,calendar_set,मुझे रविवार को सुबह ग्यारह बजे चर्च सेवाओं के बारे में सूचित करने की आवश्यकता होगी,recommendation_events,0.964,0.0008,False
+8248,hi-IN,calendar,calendar_set,कल के रात्रिभोज की तिथि को कैलेंडर में जोड़ें,datetime_query,0.8219,0.0022,False
+8251,hi-IN,calendar,calendar_set,मुझे कैलेंडर पर अगले हफ्ते का लंच चाहिए,iot_hue_lightoff,0.2426,0.0369,False
+8260,hi-IN,calendar,calendar_set,कृपया मुझे आयुष के जन्मदिन से एक दिन पहले सचेत करें,iot_hue_lightoff,0.988,0.0005,False
+8261,hi-IN,calendar,calendar_set,मेरी अगली नियुक्ति से एक घंटे पहले मुझे अलर्ट भेजें,iot_hue_lightoff,0.9605,0.0013,False
+8269,hi-IN,calendar,calendar_set,तीस मिनट का रिमाइंडर मंगलवार को मीटिंग के लिए,iot_hue_lightoff,0.2434,0.0235,False
+8276,hi-IN,calendar,calendar_remove,कृपया मेरी अगली निर्धारित मुलाकात को हटा दें,calendar_remove,0.8368,0.8368,True
+8280,hi-IN,calendar,calendar_set,मुझे पंद्रहवां मार्च को रिमाइंडर सेट करना है,iot_hue_lightoff,0.3559,0.2994,False
+8284,hi-IN,calendar,calendar_remove,कैलेंडर से जन्मदिन हटाएं,calendar_remove,0.9349,0.9349,True
+8289,hi-IN,calendar,calendar_set,चार बजे आज की फैकल्टी मीटिंग के बारे में रिमाइंडर सेट करें,calendar_set,0.7762,0.7762,True
+8290,hi-IN,calendar,calendar_set,अगले सप्ताह प्रबंधकों की मंगलवार को बैठक के बारे में एक अनुस्मारक खोलें,iot_hue_lightoff,0.939,0.0011,False
+8294,hi-IN,calendar,calendar_set,कैलेंडर में जोड़ें और दोहराएं,cooking_recipe,0.8128,0.0027,False
+8300,hi-IN,calendar,calendar_set,पांच पी. एम. से छह पी एम. के लिए घटना सहेजें अठारह मार्च को,datetime_query,0.5865,0.0174,False
+8302,hi-IN,calendar,calendar_remove,अगले सोमवार की बैठक हटाओ,calendar_remove,0.9929,0.9929,True
+8308,hi-IN,news,news_query,कल दोपहर के समय लखीमपुर में विरोध किस बारे में था,social_post,0.6249,0.0318,False
+8336,hi-IN,calendar,calendar_query,राम के साथ मेरा ब्रंच कब है,qa_factoid,0.9328,0.0017,False
+8343,hi-IN,datetime,datetime_query,क्या आज बुधवार है,weather_query,0.9939,0.0003,False
+8345,hi-IN,calendar,calendar_set,मुझे बताएं कि बैठक कब होने वाली है,qa_factoid,0.7986,0.0019,False
+8347,hi-IN,calendar,calendar_query,चार दिसंबर को क्या हो रहा है,weather_query,0.9994,0.0,False
+8358,hi-IN,calendar,calendar_set,मुझे इसके बारे में याद दिलाएं,email_sendemail,0.6088,0.019,False
+8366,hi-IN,calendar,calendar_set,अठारह मार्च को मोती के जन्मदिन के लिए एक बार-बार मिलने वाली नियुक्ति करें,cooking_recipe,0.6667,0.0085,False
+8387,hi-IN,calendar,calendar_set,रात आठ बजे लॉन्ड्री के लिए रिमाइंडर बनाएं,cooking_recipe,0.9661,0.0017,False
+8388,hi-IN,calendar,calendar_set,मैं आठ बजे लॉन्ड्री करना चाहता हूं याद दिलाना,calendar_remove,0.691,0.0383,False
+8390,hi-IN,calendar,calendar_set,मुझे मेरी मीटिंग के लिए याद दिलाना कब है,datetime_query,0.851,0.0012,False
+8394,hi-IN,calendar,calendar_set,दवा लेने के लिए हर दिन दोपहर में एक अनुस्मारक सेट करें,iot_hue_lightoff,0.8334,0.0494,False
+8404,hi-IN,calendar,calendar_query,मैं इस घटना के बारे में अधिक जानना चाहता हूँ,social_post,0.6065,0.0058,False
+8409,hi-IN,calendar,calendar_remove,कल मेरा रात का भोजन डिलीट कर दो,cooking_recipe,0.9998,0.0,False
+8410,hi-IN,calendar,calendar_remove,सोमवार के लिए मेरा रात्रिभोज कार्यक्रम हटाओ,calendar_remove,0.9998,0.9998,True
+8413,hi-IN,calendar,calendar_set,कृपया मुझे सचेत करें,qa_factoid,0.9055,0.0031,False
+8414,hi-IN,calendar,calendar_set,मुझे याद दिलाएं कि शुक्रवार को पांच पी.एम. पर अजय के साथ रात के खाने पर जाना था,news_query,0.0631,0.0487,False
+8415,hi-IN,calendar,calendar_set,मंगलवार दोपहर तीन बजे की मीटिंग ऑफिस में बॉब के साथ ऐड करो,iot_hue_lightoff,0.2891,0.0253,False
+8426,hi-IN,calendar,calendar_query,मुझे कल और आज सुबह के बीच की वर्तमान घटनाओं के बारे में बताएं,social_post,0.5442,0.0148,False
+8430,hi-IN,calendar,calendar_remove,मेरी सभी नियुक्तियों को रद्द करें,lists_remove,0.5801,0.1863,False
+8431,hi-IN,calendar,calendar_remove,मेरे सारे शेड्यूल्ड आयोजनों को हटा दो,qa_factoid,0.9871,0.0034,False
+8436,hi-IN,calendar,calendar_set,कृपया बारह पी.एम. पर मार्च में प्रत्येक बुधवार के लिए दोपहर के भोजन की बैठक सेट करें,calendar_set,0.7177,0.7177,True
+8442,hi-IN,calendar,calendar_set,कृपया इस योजन के साथ मेरा कैलेंडर संशोधित करें,cooking_recipe,1.0,0.0,False
+8449,hi-IN,calendar,calendar_set,मेरी बेटि के जन्मदिन के लिए एक अनुस्मारक सेट करें,iot_hue_lightoff,0.9957,0.0032,False
+8453,hi-IN,calendar,calendar_set,कृपया ईवेंट को मेरे कैलेंडर में डालें और इसे दोहराए जाने वाले ईवेंट के रूप में चिह्नित करें,iot_hue_lightoff,0.5297,0.0224,False
+8460,hi-IN,calendar,calendar_query,मुझे मेरे आयोजन दिखाओ,iot_hue_lightoff,0.4213,0.0006,False
+8461,hi-IN,calendar,calendar_query,मई के महीने के लिए मेरी क्या योजनाएं हैं,cooking_recipe,0.403,0.01,False
+8466,hi-IN,calendar,calendar_set,मेरी बुधवार को सुबह नौ बजे की बैठक है मुझे एक अनुस्मारक भेजें,social_post,0.6521,0.0036,False
+8469,hi-IN,calendar,calendar_query,आज मेरे कैलेंडर पर क्या निर्धारित है,iot_hue_lightoff,0.8157,0.0045,False
+8474,hi-IN,calendar,calendar_set,कल दो पी.एम. के लिए दिव्या के जन्मदिन की पार्टी जोड़ें मेरे कैलेंडर पर एक सौ तेईस मुख्य पर,iot_hue_lightoff,0.5735,0.014,False
+8494,hi-IN,calendar,calendar_query,आज मेरा शेड्यूल कैसा दिखता है,iot_hue_lightoff,0.9001,0.0,False
+8496,hi-IN,calendar,calendar_query,कल सुबह के लिए मेरी बैठक बताओ,qa_factoid,0.978,0.0004,False
+8498,hi-IN,calendar,calendar_query,आइए सभी लंबित अनुस्मारकों के माध्यम से चलते हैं,transport_query,0.5337,0.0105,False
+8516,hi-IN,calendar,calendar_remove,कैलेंडर आइटम मिटाएँ,lists_remove,0.751,0.1425,False
+8520,hi-IN,calendar,calendar_set,कार्यक्रम को कैलेणर ऐप में जोडे,email_query,0.2948,0.0224,False
+8525,hi-IN,calendar,calendar_query,तीन से पांच तक मीटिंग रिमाइंडर,qa_factoid,0.2846,0.0219,False
+8535,hi-IN,calendar,calendar_set,क्या आप मुझे दंत चिकित्सक की नियुक्ति की याद दिलाएंगे जो मेरे पास दो घंटे में है,recommendation_events,0.1033,0.0424,False
+8539,hi-IN,calendar,calendar_set,मुझे इसके बारे में याद दिलाएं,email_sendemail,0.6088,0.019,False
+8541,hi-IN,calendar,calendar_set,कृपया मुझे याद दिलाएं,email_sendemail,0.9998,0.0,False
+8553,hi-IN,calendar,calendar_set,नौ ऐ.एम. पर अजय के साथ मेरे कैलेंडर में एक बैठक जोड़ें,email_sendemail,0.8065,0.005,False
+8559,hi-IN,calendar,calendar_query,क्या मेरे पास आज के लिए कुछ निर्धारित है,lists_query,0.1982,0.0259,False
+8562,hi-IN,calendar,calendar_remove,दो बजे पी के लिए मेरी बैठक हटाओ आज,calendar_remove,0.996,0.996,True
+8568,hi-IN,calendar,calendar_set,क्या आप मंगलवार को ग्यारह ऐ.एम. पर ब्रंच के लिए जय और वीरू को एक कैलेंडर आमंत्रण भेजेंगे,email_sendemail,0.4951,0.028,False
+8570,hi-IN,calendar,calendar_set,क्या आप चिन्हित करेंगे कि मैं कल दोपहर दो बजे किसी कार्यक्रम में व्यस्त हूँ,weather_query,0.2169,0.0311,False
+8579,hi-IN,calendar,calendar_query,आज की मेरी बैठकों के लिए मुझे क्या जानकारी जाननी चाहिए,recommendation_events,0.7159,0.0042,False
+8585,hi-IN,calendar,calendar_set,मुझे याद दिलाओ कि तीस तारीख को जन्मदिन की पार्टी है,datetime_query,0.3253,0.0684,False
+8598,hi-IN,calendar,calendar_set,मुझे छह पी.एम. पर हवाई अड्डे से राम को लेने के लिए याद दिलाएं,lists_remove,0.0926,0.0474,False
+8618,hi-IN,calendar,calendar_set,मुझे अपने पौधों को हर मंगलवार गुरुवार और शनिवार को पानी देने की याद दिलाएं,email_sendemail,0.9911,0.0002,False
+8631,hi-IN,calendar,calendar_remove,उसे मेरे कैलेंडर से मिटाओ,qa_factoid,0.9877,0.0008,False
+8635,hi-IN,calendar,calendar_set,क्या आप मुझे धन्यवाद देने से तीन सप्ताह पहले टर्की ऑर्डर करने के लिए याद दिला सकते हैं,email_sendemail,0.9461,0.0008,False
+8640,hi-IN,calendar,calendar_set,मैं पुस्तकालय में कल के कार्यक्रम के लिए अपने कैलेंडर पर एक नोट बनाना चाहता हूं,email_sendemail,0.3402,0.0168,False
+8642,hi-IN,calendar,calendar_set,मेरे आज के अनुस्मारकों में शाम चार बजे की कांफ्रेंस कॉल जोड़े,social_post,0.3487,0.0292,False
+8651,hi-IN,calendar,calendar_set,मुझे मेरे कैलेंडर में घटना के बारे में सूचित करें,social_post,0.5361,0.003,False
+8653,hi-IN,calendar,calendar_set,मुझे मेरे कैलेंडर में घटना की याद दिलाएं,news_query,0.1818,0.0343,False
+8666,hi-IN,calendar,calendar_remove,मेरे calendar से सभी घटनाएं मिटाएं,calendar_remove,1.0,1.0,True
+8667,hi-IN,calendar,calendar_query,पिछले तीन महीनों में मैंने श्री रवि के साथ कितनी बैठकें की हैं,email_sendemail,0.5567,0.0186,False
+8670,hi-IN,calendar,calendar_remove,कैलेंडर से घटना हटाएं,calendar_remove,0.733,0.733,True
+8672,hi-IN,calendar,calendar_query,चुंबन संगीत कार्यक्रम कहाँ है,play_music,0.7551,0.0127,False
+8674,hi-IN,calendar,calendar_query,सुबह नौ बजे मेरी बैठक कहां है,qa_factoid,0.9963,0.0009,False
+8679,hi-IN,calendar,calendar_query,आज संत पैट्रिक दिवस है,weather_query,0.7113,0.0292,False
+8681,hi-IN,calendar,calendar_query,क्या ये किसी का जन्मदिन है,qa_factoid,0.7333,0.0078,False
+8694,hi-IN,calendar,calendar_set,घटना में शामिल होंगे अंकित और अमित,qa_factoid,0.407,0.0218,False
+8730,hi-IN,calendar,calendar_set,कृपया मेरे कैलेंडर में पच्चीस मार्च को मेरी बैठक के लिए एक अनुस्मारक सेट करें,iot_hue_lightoff,0.9988,0.0009,False
+8732,hi-IN,calendar,calendar_remove,सभी तिथियां हटाएं,qa_factoid,0.9987,0.0003,False
+8762,hi-IN,calendar,calendar_query,मुझे आज दोपहर बाद के लिए मेरा कार्यक्रम बताओ,qa_factoid,0.3247,0.1467,False
+8765,hi-IN,calendar,calendar_set,आज रात का खाना नौ बजे मेरे खाने को लाल झींगा मछली के कैलेंडर पर रखें,cooking_recipe,0.9067,0.0016,False
+8766,hi-IN,calendar,calendar_query,क्या मेरी शनिवार पच्चीस मार्च को कोई बैठक है,email_sendemail,0.446,0.0659,False
+8767,hi-IN,calendar,calendar_query,जेसिका का जन्मदिन बारह अप्रैल को है,email_sendemail,1.0,0.0,False
+8769,hi-IN,calendar,calendar_remove,आगामी योजना हटाएं,qa_factoid,0.343,0.2453,False
+8771,hi-IN,calendar,calendar_remove,खरीदारी की यात्रा को हटा दें मैंने मार्च तेईस मार्च निर्धारित किया है,calendar_remove,0.9821,0.9821,True
+8774,hi-IN,calendar,calendar_query,क्या मेरा सात जुलाई का कार्यक्रम पूरी तरह से खुला है,calendar_remove,0.2082,0.0544,False
+8781,hi-IN,calendar,calendar_query,क्या मैं चार पी.एम. पर खाली हूं,iot_hue_lightoff,0.388,0.0049,False
+8782,hi-IN,calendar,calendar_query,इस दोपहर मैंने एक बैठक रखी है,qa_factoid,0.848,0.0012,False
+8791,hi-IN,calendar,calendar_query,इस घटना के बारे में अधिक जानकारी,social_post,0.359,0.015,False
+8795,hi-IN,calendar,calendar_query,लंबित reminders दिखाएं,lists_remove,0.4785,0.0027,False
+8822,hi-IN,recommendation,recommendation_events,आने वाली घटनाओं की जानकारी,news_query,0.2606,0.0549,False
+8824,hi-IN,calendar,calendar_query,मैंने दो बजे उन्नीसवीं के लिए क्या निर्धारित किया है,weather_query,0.4544,0.0112,False
+8825,hi-IN,calendar,calendar_set,मुझे अगले शुक्रवार को विजय के साथ मेरी मुलाकात का रिमाइंडर भेजें,email_sendemail,0.9999,0.0,False
+8828,hi-IN,calendar,calendar_query,पंचांग का आयोजन सही है,recommendation_events,0.779,0.0003,False
+8846,hi-IN,calendar,calendar_query,क्या मेरे पास इस साल जुलाई की चौथी तारीख के लिए कुछ निर्धारित है,datetime_query,0.8885,0.0112,False
+8853,hi-IN,calendar,calendar_remove,मेरी अगली गतिविधि साफ़ करें,iot_hue_lightoff,0.3137,0.1496,False
+8856,hi-IN,calendar,calendar_remove,कैलेंडर में सभी ईवेंट हटाएं,email_sendemail,0.9978,0.0005,False
+8857,hi-IN,calendar,calendar_set,रफ़्तार के साथ आगामी बैठक की याद दिलाएं,email_sendemail,0.343,0.0149,False
+8868,hi-IN,calendar,calendar_set,मुझे हर मंगलवार को दस ऐ.एम. पर माँ को फोन करने के लिए याद दिलाएं,email_sendemail,0.9663,0.0013,False
+8880,hi-IN,calendar,calendar_set,कल सुबह नौ ऐ.एम. की बैठक के बारे में एक अनुस्मारक सेट करें,iot_hue_lightoff,0.9978,0.0001,False
+8888,hi-IN,calendar,calendar_remove,मिटा दो,qa_factoid,0.5196,0.2613,False
+8900,hi-IN,calendar,calendar_set,हर रविवार के लिए दोहराए जाने वाले अनुस्मारक सेट करें,calendar_set,0.5705,0.5705,True
+8904,hi-IN,calendar,calendar_query,हालिया आयोजनों की जानकारी,email_query,0.999,0.0,False
+8906,hi-IN,calendar,calendar_set,दूसरों के साथ कैलेंडर में आयोजन की तारीख निर्धारित करें,calendar_remove,0.5242,0.151,False
+8907,hi-IN,calendar,calendar_set,कैलेंडर में अन्य लोगों के साथ घटना का उल्लेख करें,email_sendemail,0.3927,0.0146,False
+8912,hi-IN,calendar,calendar_query,मुझे आज के कैलेंडर कार्यक्रम छह पी.एम. के बाद दीजिए,qa_factoid,0.6855,0.0038,False
+8914,hi-IN,calendar,calendar_query,चार अप्रैल को मेरे अपॉइंटमेंट किस समय हैं,datetime_query,0.9754,0.0017,False
+8916,hi-IN,calendar,calendar_query,दिन के लिए मेरा कार्यक्रम क्या है,cooking_recipe,0.636,0.0268,False
+8925,hi-IN,calendar,calendar_remove,मेरे कैलेंडर में सभी ईवेंट हटाएं,email_sendemail,0.996,0.0003,False
+8939,hi-IN,calendar,calendar_set,हयात बेटी गोद भराई,qa_factoid,0.6325,0.0017,False
+8948,hi-IN,calendar,calendar_set,राहुल के साथ मुलाकात के लिए आयोजन जोड़ें,cooking_recipe,0.4757,0.049,False
+8949,hi-IN,calendar,calendar_remove,कृपया remainder हटा दें,lists_remove,0.8576,0.088,False
+8958,hi-IN,calendar,calendar_query,खुली बैठक का समय,qa_factoid,0.4985,0.0314,False
+8960,hi-IN,calendar,calendar_set,मैं चाहता हूं कि आप शाम को आगामी बैठक के बारे में सतर्क करें,email_sendemail,0.2049,0.0576,False
+8967,hi-IN,calendar,calendar_set,मुझे मेरी पत्नी के जन्मदिन से दो दिन पहले याद दिलाना,datetime_query,0.3567,0.0185,False
+8968,hi-IN,calendar,calendar_set,मुझे इस सप्ताह याद दिलाने के लिए कुछ बताओ,recommendation_events,0.8527,0.0052,False
+8975,hi-IN,calendar,calendar_query,आज के लिए क्या बैठक निर्धारित है,qa_factoid,0.6925,0.0542,False
+8977,hi-IN,calendar,calendar_set,बस मुझे लंबित बिल भुगतानों के बारे में रिमाइंडर सेट करें,iot_hue_lightoff,0.1799,0.0519,False
+8978,hi-IN,calendar,calendar_set,बस मुझे सप्ताह भर में अपने बॉस के साथ महत्वपूर्ण बैठकों के बारे में बताएं,email_sendemail,0.9962,0.0,False
+8985,hi-IN,calendar,calendar_remove,ओके गूगल एरिक का जन्मदिन कैलेंडर से डिलीट करो,calendar_remove,0.8974,0.8974,True
+8990,hi-IN,calendar,calendar_set,आयोजन बनाओ,cooking_recipe,0.9996,0.0,False
+8992,hi-IN,calendar,calendar_set,बैठक दिखाओ,qa_factoid,0.7087,0.0001,False
+9009,hi-IN,calendar,calendar_remove,मेरे कैलेंडर से सालगिरह का कार्यक्रम हटाएं,calendar_remove,0.9938,0.9938,True
+9011,hi-IN,calendar,calendar_query,क्या इस महीने की चौदह तारीख को धन्यवाद देने की घटना सच है,qa_factoid,0.8531,0.0018,False
+9014,hi-IN,calendar,calendar_set,कृपया मेरे सहयोगी के साथ बैठक के बारे में तेईस अक्टूबर को एक अधिसूचना सेट करें,calendar_set,0.9052,0.9052,True
+9015,hi-IN,calendar,calendar_remove,मेरा कैलेंडर सभी ईवेंट साफ़ करें,email_sendemail,0.9642,0.0001,False
+9019,hi-IN,calendar,calendar_query,बीस से पच्चीस जून तक बैठकें,qa_factoid,0.99,0.0005,False
+9030,hi-IN,calendar,calendar_remove,आज के लिए मेरी चिकित्सा नियुक्ति को कैलेंडर से हटा दें,calendar_remove,0.2562,0.2562,True
+9035,hi-IN,calendar,calendar_query,राहुल विवाह अनुस्मारक,social_post,0.9317,0.0029,False
+9043,hi-IN,calendar,calendar_set,कैलेंडर में आगामी कार्यक्रम,qa_factoid,0.272,0.0085,False
+9053,hi-IN,calendar,calendar_set,राम के साथ मंगलवार को मीटिंग का आयोजन है रिमाइंडर सेट करो,play_radio,0.2846,0.0555,False
+9054,hi-IN,calendar,calendar_set,event मंगलवार को राम याद दिलाना,news_query,0.1799,0.0196,False
+9059,hi-IN,calendar,calendar_set,आयोजन के समय मुझे सचेत करें,qa_factoid,0.8824,0.0022,False
+9061,hi-IN,calendar,calendar_query,मेरे पास अनुस्मारक में क्या जानकारी है,email_sendemail,0.4713,0.0045,False
+9062,hi-IN,calendar,calendar_set,क्या आप करण का जन्म दिन बाईस जून में मना सकते हैं,qa_factoid,0.5578,0.0105,False
+9074,hi-IN,calendar,calendar_remove,कृपया उस कर्यक्रम को हटा दें,calendar_remove,0.9819,0.9819,True
+9088,hi-IN,calendar,calendar_remove,मेरे कैलेंडर पर सब कुछ मिटा दो,calendar_remove,0.3525,0.3525,True
+9095,hi-IN,calendar,calendar_remove,शेली के साथ आज रात का खाना हटा दें,calendar_remove,0.5579,0.5579,True
+9103,hi-IN,calendar,calendar_query,क्या आज दोपहर मेरे कैलेंडर पर कोई मीटिंग है,weather_query,0.7667,0.0126,False
+9107,hi-IN,calendar,calendar_query,तीसरे जून को ज़ैच ब्राउन कॉन्सर्ट किस समय शुरू होता है,datetime_query,0.9812,0.0017,False
+9110,hi-IN,calendar,calendar_set,पच्चीस मार्च को प्रदर्शनी दो हजार सत्रह सामूहिक रूप से इसी तारीख को नोट करें,calendar_remove,0.4636,0.0177,False
+9112,hi-IN,calendar,calendar_set,this on my calendar में जोड़ें,calendar_set,0.9901,0.9901,True
+9114,hi-IN,calendar,calendar_set,इस कैलेंडर ईवेंट के लिए बार-बार रिमाइंडर बनाएं,cooking_recipe,0.9933,0.0002,False
+9116,hi-IN,calendar,calendar_query,क्या आप मेरी बैठक को फिर से शेड्यूल कर सकते हैं,calendar_remove,0.8002,0.0023,False
+9121,hi-IN,calendar,calendar_query,मैंने कौन से दिन बुक किए हैं,calendar_remove,0.9659,0.0014,False
+9124,hi-IN,calendar,calendar_set,मुझे अगले सप्ताह के लिए मेरे कार्य कैलेंडर में ईवेंट दिखाएं,iot_hue_lightoff,1.0,0.0,False
+9137,hi-IN,calendar,calendar_query,लंच और डिनर के बीच देवा मिसठान भंडार किस समय बंद होता है,datetime_query,0.52,0.002,False
+9138,hi-IN,qa,qa_factoid,सुपर बाउल आधिकारिक तौर पर कब शुरू होता है,qa_factoid,0.9629,0.9629,True
+9149,hi-IN,calendar,calendar_query,ब्लैक टाई गाला डिनर किस समय शुरू होना चाहिए,datetime_query,0.9289,0.0013,False
+9153,hi-IN,calendar,calendar_set,शनिवार को मीरा के साथ रात का भोजन मेरे कैलेंडर में डालो,cooking_recipe,0.9997,0.0,False
+9155,hi-IN,calendar,calendar_set,शुक्रवार को कृपया तीन बजे दंत चिकित्सक से मुलाकात करें,recommendation_events,0.162,0.0307,False
+9156,hi-IN,calendar,calendar_set,याद दिलाएं,email_sendemail,0.7848,0.0001,False
+9175,hi-IN,calendar,calendar_query,क्या मेरा कैलेंडर पिछले दस मिनट में अपडेट किया गया है,iot_hue_lightoff,0.6755,0.0149,False
+9182,hi-IN,calendar,calendar_remove,मेरे माता-पिता को हवाई अड्डे से लेने की मेरी योजना रद्द करें,lists_remove,0.3534,0.0967,False
+9187,hi-IN,calendar,calendar_set,बैठक में भाग लेने वाले ग्राहकों पर शोध करें,qa_factoid,0.5386,0.0055,False
+9193,hi-IN,calendar,calendar_set,कृपया इस तिथि को दोहराने के लिए सेट करें,qa_factoid,0.9336,0.0109,False
+9194,hi-IN,calendar,calendar_remove,कृपया इस घटना को मेरे कैलेंडर से हटा दें,iot_hue_lightoff,0.9621,0.0166,False
+9197,hi-IN,calendar,calendar_query,मैंने इस सप्ताह के लिए क्या प्लान किया है,cooking_recipe,0.981,0.0002,False
+9198,hi-IN,calendar,calendar_query,कृपया मेरे अनुस्मारक जांचें,qa_factoid,0.9977,0.0001,False
+9202,hi-IN,play,play_radio,मेरे आल इंडिया रेडियो स्टेशन को चालू करो,iot_hue_lightoff,0.3417,0.0625,False
+9204,hi-IN,play,play_radio,बी। बी। सी। रेडियो,qa_factoid,0.6384,0.2489,False
+9212,hi-IN,play,play_radio,कोई रेडियो बजाता है,play_music,0.9998,0.0001,False
+9216,hi-IN,play,play_radio,मेरे स्टेशन को चालू करो,qa_factoid,0.86,0.006,False
+9225,hi-IN,play,play_radio,क्या आप रेडियो चालू कर सकते हैं,iot_hue_lightoff,0.9133,0.0049,False
+9233,hi-IN,play,play_radio,खुला pandora,qa_factoid,0.9091,0.0001,False
+9236,hi-IN,play,play_radio,चैनल पर जाएं आल इंडिया रेडियो,play_radio,0.3894,0.3894,True
+9237,hi-IN,play,play_radio,रेडियो चालू करें और चैनल एक सौ छह दशमलव नौ चलाएं,play_radio,0.9997,0.9997,True
+9250,hi-IN,play,play_radio,मैं रेडियो सुनना चाहता हूँ,play_music,0.9716,0.0007,False
+9254,hi-IN,play,play_radio,कृपया रेडियो मिर्ची पर नौ सौ अड़तीस एफ. एम. चालू करें,iot_hue_lightoff,0.283,0.0291,False
+9263,hi-IN,play,play_radio,रेडियो ऐप खोलें,iot_hue_lightoff,0.32,0.1514,False
+9269,hi-IN,play,play_radio,ऑल इंडिया रेडियो ट्यून करें,cooking_recipe,0.91,0.0033,False
+9270,hi-IN,play,play_radio,सिर्फ नौ सौ सैंतीस एफ एम चलाएं,qa_factoid,0.8927,0.0056,False
+9275,hi-IN,play,play_radio,केवल नौ सौ निन्यानबे एफ. एम. रेडियो पर चलाया जाएगा,transport_query,0.4086,0.0263,False
+9284,hi-IN,play,play_radio,सनम रे चलाएँ,qa_factoid,0.993,0.0046,False
+9291,hi-IN,play,play_radio,चलाना,qa_factoid,0.997,0.0006,False
+9301,hi-IN,play,play_radio,रेडियो सिटि चालू करें,qa_factoid,0.9941,0.0049,False
+9303,hi-IN,play,play_radio,रेडियो मिर्ची को चालू करो,qa_factoid,0.689,0.2597,False
+9305,hi-IN,play,play_radio,शास्त्रीय हिट्स के लिए चालू करें,qa_factoid,0.9998,0.0,False
+9316,hi-IN,play,play_radio,विविध भारती एफ. एम. को मेरे लिए चालू करो,qa_factoid,0.8379,0.0028,False
+9317,hi-IN,play,play_radio,रेडियो को अभी चालू करो,play_radio,0.9997,0.9997,True
+9321,hi-IN,play,play_radio,अभी रेडियो चालू करो,play_radio,0.8194,0.8194,True
+9323,hi-IN,play,play_radio,jio music शुरू करो,play_music,1.0,0.0,False
+9326,hi-IN,play,play_radio,कृपया रेडियो सिटि अभी तुरंत चालू करें,calendar_remove,0.2665,0.0205,False
+9327,hi-IN,play,play_radio,कृपया अभी रेडियो पर रेडियो मिर्ची को स्कैन करें,iot_hue_lightoff,0.2695,0.0378,False
+9330,hi-IN,play,play_radio,चालू करो,qa_factoid,0.9973,0.0002,False
+9341,hi-IN,play,play_radio,alexa रेडियो स्टेशन बदलें,calendar_remove,0.4623,0.0502,False
+9352,hi-IN,play,play_radio,कृपया रेडियो बजाएं,play_music,0.9989,0.0002,False
+9353,hi-IN,play,play_radio,कुछ संगीत शुरू करो रेडियो चलाओ,play_music,0.9837,0.0007,False
+9358,hi-IN,play,play_radio,radio channel eight hundred and eighty nine शुरू करें,play_radio,1.0,1.0,True
+9361,hi-IN,play,play_radio,रेडियो सुनो,play_radio,1.0,1.0,True
+9362,hi-IN,play,play_radio,रेडियो चैनलों,play_podcasts,0.3314,0.0983,False
+9363,hi-IN,play,play_radio,चलो रेडियो पर हिट चलाएं,play_music,0.9958,0.0041,False
+9364,hi-IN,play,play_radio,चलो हिट गाने play करो,play_music,1.0,0.0,False
+9380,hi-IN,play,play_radio,मैं चाहता हूँ कि आप रेडियो पर एक सौ पाँच मिर्ची लव पर जाएं,play_podcasts,0.4462,0.0743,False
+9384,hi-IN,play,play_radio,रेडियो सिटि चालू करें,qa_factoid,0.9941,0.0049,False
+9394,hi-IN,play,play_radio,अरे ओली radio बजाओ,play_radio,0.9998,0.9998,True
+9402,hi-IN,play,play_radio,नौ सौ नवासी रेडियो स्टेशन को चालू करें,iot_hue_lightoff,0.2183,0.0226,False
+9406,hi-IN,play,play_radio,ऑल इंडिया रेडियो शुरू करें,recommendation_events,0.5546,0.0118,False
+9408,hi-IN,play,play_radio,radio प्ले शुरू करें,play_radio,1.0,1.0,True
+9426,hi-IN,play,play_radio,मैं ऑल इंडिया रेडियो सुनना चाहता हूँ,play_music,1.0,0.0,False
+9438,hi-IN,play,play_radio,क्या आप मेरे लिए रेडियो पर भक्ति गाना चालू कर सकते हैं,play_music,0.9543,0.0004,False
+9457,hi-IN,play,play_music,तुम ही हो गाना चालू करो,play_music,1.0,1.0,True
+9460,hi-IN,play,play_music,नब्बे के दशक के हिप हॉप खेलें,play_music,0.9764,0.9764,True
+9471,hi-IN,play,play_radio,एक देश संगीत स्टेशन चालू करें,qa_factoid,0.9881,0.0001,False
+9494,hi-IN,play,play_radio,क्या आप कृपया एफ. एम. स्टेशन चालू कर सकते हैं जो भक्ति गाने बजाता हो,play_music,0.2266,0.0214,False
+9506,hi-IN,play,play_radio,ओली आकाशवाणी सुनो,play_music,0.9505,0.0019,False
+9507,hi-IN,play,play_radio,कृपया वर्तमान में नवेद असलम बजा रहे रेडियो स्टेशन का पता लगाएं,play_music,0.1535,0.0795,False
+9519,hi-IN,play,play_radio,कोई भी भक्ति एफ. एम. चैनल चालू करें,qa_factoid,0.9952,0.0001,False
+9520,hi-IN,play,play_radio,radio broadcast करने वाले अंतिम डॉक्टर की भूमिका निभाएं,play_radio,0.9998,0.9998,True
+9524,hi-IN,play,play_radio,आकाशवाणी पर कार्यक्रम को चालू करें,qa_factoid,0.7042,0.0011,False
+9528,hi-IN,play,play_radio,कुछ चालू करें n. p. r. और उन्हें मेरे speakers में से बजाएं,play_music,0.9785,0.017,False
+9541,hi-IN,play,play_radio,रेडियो पर मधुर गीत बजाएं,play_music,1.0,0.0,False
+9542,hi-IN,play,play_radio,मुझे रेडियो पर नवीनतम समाचार कार्यक्रम सुनने दें,play_podcasts,0.9712,0.0001,False
+9545,hi-IN,play,play_radio,मैं कपिल शर्मा शो को सुनना चाहता हूँ,play_music,0.9894,0.0003,False
+9554,hi-IN,play,play_radio,रेडियो एफ.एम. नब्बे दो बिंदु सात में रोमांटिक संगीत चलाएं,play_music,0.8978,0.0163,False
+9561,hi-IN,play,play_radio,रेडियो में रेडियो मिर्ची को चलाओ,play_radio,0.7669,0.7669,True
+9562,hi-IN,play,play_radio,क्या तुम इस कार्यक्रम को चालू कर सकते हो,qa_factoid,0.9971,0.0001,False
+9565,hi-IN,play,play_radio,बिना रुके गानों के साथ रेडियो चलाएं,play_music,0.6702,0.3028,False
+9568,hi-IN,play,play_radio,श्रेया घोषाल लाइव कॉन्सर्ट सीरीज़ चलाएं,cooking_recipe,0.2854,0.0318,False
+9569,hi-IN,play,play_radio,ok google एक सौ छह दशमलव सात चालू करो,qa_factoid,0.9947,0.0001,False
+9577,hi-IN,play,play_radio,स्टेशन को बयासी बिंदु चार में बदलें,qa_factoid,0.7544,0.0113,False
+9591,hi-IN,play,play_radio,इक्यानवे दशमलव तीन ऍफ़ एम् पर भूली बिसरी यादें कार्यक्रम चलाएं,email_sendemail,0.5516,0.0173,False
+9592,hi-IN,play,play_podcasts,पुरुषों के मुद्दों को कवर करने वाले पॉडकास्ट की खोज करें,social_post,0.5142,0.249,False
+9594,hi-IN,play,play_radio,एफ. एम. निन्यानबे दशमलव पाँच रेडियो गानें,play_music,0.5782,0.0141,False
+9601,hi-IN,play,play_radio,ऑल इंडिया रेडियो बजाओ,play_music,0.9997,0.0,False
+9617,hi-IN,play,play_radio,मेरे लिए एक सौ एक दशमलव नौ से इस सुबह के नाटक को चालू करो,iot_hue_lightoff,0.6966,0.0482,False
+9619,hi-IN,play,play_radio,गाड़ी रेडियो पर एक थी डायन को चालू करो,play_radio,0.7798,0.7798,True
+9620,hi-IN,play,play_radio,क्या मै शयनकक्ष में रेडियो पर मिर्ची मुर्गा सुन सकता हूं,play_music,0.9817,0.0022,False
+9629,hi-IN,play,play_radio,क्या आप कृपया रेडियो सुनने में मेरी मदद कर सकते हैं,play_radio,0.8659,0.8659,True
+9630,hi-IN,play,play_radio,मेरे लिए रेडियो मिर्ची चलाओ,cooking_recipe,0.2931,0.1439,False
+9632,hi-IN,play,play_radio,कृपया रेडियो,play_radio,0.3474,0.3474,True
+9637,hi-IN,play,play_radio,ऑल इंडिया रेडियो पर मेरी प्लेलिस्ट शुरू करें,recommendation_events,0.9883,0.0005,False
+9640,hi-IN,play,play_radio,spotify खोलो और शास्त्रीय खोलो,qa_factoid,0.9798,0.0008,False
+9651,hi-IN,play,play_radio,मेरे पी. एस. फोर पर हॉटस्टार चलाओ,qa_factoid,0.7412,0.0076,False
+9656,hi-IN,play,play_music,अपने वक्ताओं के माध्यम से मेरे लिए एक उत्साहित गीत बजाएं,play_music,0.9995,0.9995,True
+9706,hi-IN,play,play_music,हैप्पी दिवाली चालू करो,social_post,0.8692,0.0025,False
+9707,hi-IN,play,play_music,ओपन मीडिया तुम ही हो बजाओ,social_post,0.9952,0.0017,False
+9738,hi-IN,play,play_music,कृपया क्या तुम मेरे लिए शास्त्रीय संगीत चालू कर सकते हो,play_music,0.9997,0.9997,True
+9793,hi-IN,play,play_music,रोमांटिक गाने चलाओ,play_music,0.9965,0.9965,True
+9795,hi-IN,play,play_music,दिल पुकारे फिर से शुरू करें,calendar_remove,0.2151,0.0302,False
+9912,hi-IN,cooking,cooking_recipe,ऑली मुझे अंडे कब तक उबालने चाहिए,cooking_recipe,0.9998,0.9998,True
+9918,hi-IN,cooking,cooking_recipe,पिज्जा कैसे बनाते हैं,cooking_recipe,1.0,1.0,True
+9923,hi-IN,cooking,cooking_recipe,मुझे एक अंडे को कितनी देर उबालना चाहिए,cooking_recipe,0.9996,0.9996,True
+9924,hi-IN,cooking,cooking_recipe,की रेसिपी बताओ,cooking_recipe,0.9674,0.9674,True
+9930,hi-IN,cooking,cooking_recipe,मुझे अंडे को कितनी देर उबालना चाहिए,cooking_recipe,0.9998,0.9998,True
+9931,hi-IN,cooking,cooking_recipe,मुझे egg को कितनी देर तक boil चाहिए,cooking_recipe,0.9999,0.9999,True
+9940,hi-IN,cooking,cooking_recipe,मेरे लिए एक chocolate cake recipe ढूंढो,cooking_recipe,1.0,1.0,True
+9941,hi-IN,cooking,cooking_recipe,बटर चिकन कैसे बनाना है,cooking_recipe,1.0,1.0,True
+9942,hi-IN,cooking,cooking_recipe,red velvet cake all goes into what जाता है,lists_query,0.481,0.2428,False
+9943,hi-IN,cooking,cooking_recipe,पिज़्ज़ा बनाने में कितना समय व्यतीत होता है,cooking_recipe,0.9759,0.9759,True
+9952,hi-IN,cooking,cooking_recipe,मुझे cooking tutorial दें,cooking_recipe,1.0,1.0,True
+9955,hi-IN,cooking,cooking_recipe,मुझे भुना हुआ मुर्गा पर एक वीडियो दिखाओ,play_podcasts,0.9236,0.0001,False
+9956,hi-IN,cooking,cooking_recipe,olly मैं बटर की जगह क्या डाल सकती हूं,cooking_recipe,0.8531,0.8531,True
+9961,hi-IN,cooking,cooking_recipe,olly ओवन में आलू को किस टेंपरेचर पर पकाएं,cooking_recipe,0.8225,0.8225,True
+9962,hi-IN,cooking,cooking_recipe,थोड़ा सा पका हुआ पास्ता बनाने का सबसे अच्छा तरीका क्या है,cooking_recipe,1.0,1.0,True
+9964,hi-IN,cooking,cooking_recipe,फ़ूड प्रोसेसिंग के बारे में बताओ,qa_definition,0.8704,0.0126,False
+9966,hi-IN,cooking,cooking_recipe,पास्ता बनाने का सबसे आसान तरीका क्या है,cooking_recipe,0.9997,0.9997,True
+9969,hi-IN,cooking,cooking_recipe,केसर की जगह कौन सी सामग्री उपयोग की जा सकती है,qa_definition,0.3251,0.158,False
+9971,hi-IN,cooking,cooking_recipe,कौन अच्छे से गर्म होते हैं कॉपर के तलवे वाले बर्तन या कास्ट आयरन के,qa_factoid,0.9828,0.0112,False
+9976,hi-IN,cooking,cooking_recipe,अरे रोबोट मुझे गुलाब जामुन के लिए सामग्री की एक सूची दें,email_sendemail,1.0,0.0,False
+9977,hi-IN,cooking,cooking_recipe,इंटरनेट पे सर्च करो और youtube पे सबसे अच्छी भारतीय खाने की वीडियो दिखाओ,play_podcasts,0.9169,0.0004,False
+9979,hi-IN,cooking,cooking_recipe,मुझे cook some oats,cooking_recipe,1.0,1.0,True
+9980,hi-IN,cooking,cooking_recipe,आज खाना में जो बनने जा रहा है उसमें उबला हुआ हल्के राम सब्जी भी मिला देना,cooking_recipe,0.9996,0.9996,True
+9986,hi-IN,cooking,cooking_recipe,उबलना,qa_factoid,0.9943,0.0,False
+9994,hi-IN,cooking,cooking_recipe,तुम मुझे कलेजी पकाने की विधि बता सकते हो,cooking_recipe,0.999,0.999,True
+10016,hi-IN,cooking,cooking_recipe,पांच वाक्यों में thanksgiving turkey खाना पकाने की प्रक्रिया क्या है,cooking_recipe,0.9999,0.9999,True
+10019,hi-IN,cooking,cooking_recipe,कृपया मुझे बताएं कि मैं बारह दलिया कुकीज़ कैसे बेक करूं,cooking_recipe,1.0,1.0,True
+10023,hi-IN,cooking,cooking_recipe,alexa चिकन मोमोज बनाने के लिए मुझे क्या चाहिए,cooking_recipe,0.9995,0.9995,True
+10027,hi-IN,cooking,cooking_recipe,खाना बनाने के निर्देश,cooking_recipe,0.9999,0.9999,True
+10031,hi-IN,cooking,cooking_recipe,मेरी शॉपिंग की लिस्ट में जो सामग्री है उससे कोई रेसिपी बताओ,recommendation_events,0.4002,0.1629,False
+10038,hi-IN,cooking,cooking_recipe,मुझे खाना पकाने के लिए अच्छे विचार चाहिए,cooking_recipe,0.9999,0.9999,True
+10045,hi-IN,cooking,cooking_recipe,क्या आप मुझे घर के बने चिकन नूडल सूप की रेसिपी बता सकते हैं,cooking_recipe,0.9995,0.9995,True
+10048,hi-IN,cooking,cooking_recipe,मैं भारतीय जलेबी कैसे बनाता हूं,cooking_recipe,0.9987,0.9987,True
+10049,hi-IN,cooking,cooking_recipe,मुझे बताओ कि एक गरीब लड़के के लिए तवा रोटी कैसे बनाया जाता है,cooking_recipe,0.9998,0.9998,True
+10053,hi-IN,cooking,cooking_recipe,मैं how pizza बनाऊं,cooking_recipe,1.0,1.0,True
+10055,hi-IN,cooking,cooking_recipe,तंदूरी मुर्गे की विधि क्या है,qa_definition,0.6441,0.2729,False
+10061,hi-IN,cooking,cooking_recipe,मुझे रात के खाने के लिए क्या बनाना चाहिए,cooking_recipe,0.9999,0.9999,True
+10072,hi-IN,cooking,cooking_recipe,ओवन में चिकन बनाने के लिए टाइम बताओ,cooking_recipe,0.9273,0.9273,True
+10076,hi-IN,cooking,cooking_recipe,क्या आप baking soda for baking powder ले सकते हैं,cooking_recipe,0.9996,0.9996,True
+10077,hi-IN,cooking,cooking_recipe,dinner tonight के लिए एक recipe खोजें,cooking_recipe,1.0,1.0,True
+10078,hi-IN,cooking,cooking_recipe,मुझे रात के खाने के लिए क्या पकाना चाहिए,cooking_recipe,0.9997,0.9997,True
+10080,hi-IN,cooking,cooking_recipe,चलो एक मिल कर कबाब बनाते हैं,cooking_recipe,0.999,0.999,True
+10081,hi-IN,cooking,cooking_recipe,मुझे बताओ कि कोफ्ते कैसे पकाते हैं,cooking_recipe,0.9998,0.9998,True
+10090,hi-IN,cooking,cooking_recipe,क्या मुझे tuna की recipe मिल सकती है,cooking_recipe,1.0,1.0,True
+10093,hi-IN,cooking,cooking_recipe,alexa पनीर अफगानी कैसा बना है,qa_factoid,0.9993,0.0001,False
+10097,hi-IN,cooking,cooking_recipe,मैं एक चीज़बर्गर पसंद करूँगा,qa_factoid,0.938,0.0008,False
+10099,hi-IN,cooking,cooking_recipe,क्या आप risotto पकाना जानते हैं,cooking_recipe,0.9999,0.9999,True
+10100,hi-IN,cooking,cooking_recipe,क्या आप रस वाली सब्जी की विधि जानते हैं,cooking_recipe,0.9996,0.9996,True
+10105,hi-IN,cooking,cooking_recipe,मोमो को कितनी देर पकाना है,qa_factoid,0.9676,0.0009,False
+10107,hi-IN,cooking,cooking_recipe,मुझे पुलाव की विधि की ज़रूरत है,iot_hue_lightoff,0.4485,0.0151,False
+10119,hi-IN,cooking,cooking_recipe,आप पंद्रह पाउंड turkey को कितने समय तक पकाते हैं,cooking_recipe,1.0,1.0,True
+10125,hi-IN,cooking,cooking_recipe,भुने और ब्रोइल में क्या अंतर है,qa_factoid,0.6908,0.0037,False
+10132,hi-IN,cooking,cooking_recipe,मीडियम होने के लिए मुझे कब तक steak पकाना चाहिए,cooking_recipe,0.9931,0.9931,True
+10150,hi-IN,cooking,cooking_recipe,समोसा कैसे बनाते हैं,cooking_recipe,0.9565,0.9565,True
+10156,hi-IN,cooking,cooking_recipe,मुझे बताओ बैंगन का भर्ता कैसे बनाया जाता है,cooking_recipe,0.9836,0.9836,True
+10164,hi-IN,cooking,cooking_recipe,मैं मैककोरोनी कब तक पकाती हूँ,qa_factoid,0.9779,0.0005,False
+10166,hi-IN,cooking,cooking_recipe,apple pie recipe के लिए देखो,cooking_recipe,1.0,1.0,True
+10171,hi-IN,cooking,cooking_recipe,olly टमाटर की सूप बनाने की क्या विधि है,cooking_recipe,1.0,1.0,True
+10177,hi-IN,cooking,cooking_recipe,पालक पनीर कैसे पकाएं,cooking_recipe,0.9998,0.9998,True
+10182,hi-IN,cooking,cooking_recipe,मुझे आमलेट बनाने के लिए कितने अंडे की जरूरत है,cooking_recipe,1.0,1.0,True
+10197,hi-IN,cooking,cooking_recipe,मुझे समोसे के लिए सबसे अच्छी विधि दिखाओ,iot_hue_lightoff,0.9391,0.0545,False
+10206,hi-IN,cooking,cooking_recipe,olly चावल कैसे बनाए जाते हैं,cooking_recipe,1.0,1.0,True
+10213,hi-IN,cooking,cooking_recipe,मशहूर बिरयानी विधि की सूची बताओ,qa_factoid,0.9926,0.0001,False
+10214,hi-IN,cooking,cooking_recipe,व्यंजन जो एक घंटे में बन सकते हैं,iot_hue_lightoff,0.5567,0.2588,False
+10216,hi-IN,cooking,cooking_recipe,वेब में बिस्किट बेक करने के लिए बर्तन सर्च करो,cooking_recipe,0.9835,0.9835,True
+10217,hi-IN,cooking,cooking_recipe,cookingforu एप्लीकेशन में सांबर की रेसिपी दो,cooking_recipe,1.0,1.0,True
+10220,hi-IN,cooking,cooking_recipe,एक बड़ा केक बनाने करने के लिए मुझे किन सामग्रियों की आवश्यकता होगी,cooking_recipe,0.9399,0.9399,True
+10224,hi-IN,cooking,cooking_recipe,यह टेस्ट करना चाहिए,cooking_recipe,0.8096,0.8096,True
+10226,hi-IN,cooking,cooking_recipe,alexa मुझे इडली सांभर बनाने की विधि बताओ,cooking_recipe,0.9999,0.9999,True
+10426,hi-IN,lists,lists_query,डायरी में और क्या गायब है,lists_remove,0.4768,0.061,False
+10427,hi-IN,lists,lists_remove,कृपया my shopping list साफ़ करें,lists_remove,0.9984,0.9984,True
+10430,hi-IN,lists,lists_remove,सूची में पहली वस्तु हटाएं,lists_remove,0.9452,0.9452,True
+10433,hi-IN,lists,lists_remove,मेरी टास्क की सूची हटा दो,qa_factoid,0.6523,0.0735,False
+10440,hi-IN,lists,lists_query,मेरी सूची में कोई विशेष आयोजन हैं,recommendation_events,0.7736,0.0118,False
+10442,hi-IN,lists,lists_remove,मेरी सूची से ईवेंट हटाएं,email_sendemail,1.0,0.0,False
+10444,hi-IN,lists,lists_remove,आइटम डिलीट करो,qa_factoid,0.2786,0.1046,False
+10451,hi-IN,lists,lists_query,मैं आज क्या करने जा रहा हूँ,cooking_recipe,0.4556,0.0515,False
+10455,hi-IN,lists,lists_query,मेरी काम करने की सूची में क्या है,qa_factoid,0.7793,0.0091,False
+10462,hi-IN,lists,lists_remove,सूची से छुटकारा पाएं,lists_remove,0.9215,0.9215,True
+10493,hi-IN,lists,lists_query,मेरी काम करने की सूची में क्या है,qa_factoid,0.7793,0.0091,False
+10494,hi-IN,lists,lists_remove,स्टेशनरी से पेंसिल हटाओ,qa_factoid,0.4245,0.2122,False
+10497,hi-IN,qa,qa_factoid,क्या मेरे पास नई दिल्ली में पांच सितारा होटलों की सूची हो सकती है,email_query,0.3682,0.1844,False
+10508,hi-IN,lists,lists_remove,सूची वस्तु हटाएं,lists_remove,0.8693,0.8693,True
+10512,hi-IN,lists,lists_query,मेरी क्वेरी पर बाकी सब कुछ सूचीबद्ध करें,lists_remove,0.6797,0.0043,False
+10523,hi-IN,lists,lists_remove,प्लेलिस्ट से हटाएं मेरे पुराने अंग्रेज़ी गानों की सूची,lists_remove,0.4079,0.4079,True
+10525,hi-IN,lists,lists_remove,मेरे कैलेंडर से मेरे कार की पेमेंट हटा दो,lists_remove,0.4914,0.4914,True
+10527,hi-IN,lists,lists_remove,सूची मिटाओ,lists_remove,0.9373,0.9373,True
+10534,hi-IN,lists,lists_query,आज के लिए कैसे करें सूची,qa_factoid,0.9842,0.0003,False
+10538,hi-IN,lists,lists_query,कृपया मेरी ख़रीदारी सूची दोहराएं,lists_remove,0.4692,0.0167,False
+10565,hi-IN,lists,lists_remove,सभी lists हटाओ,lists_remove,1.0,1.0,True
+10568,hi-IN,lists,lists_remove,पुराने संगीत की सूची को हटा दो,calendar_remove,0.7946,0.0796,False
+10570,hi-IN,lists,lists_query,मेरी बचे हुए काम सूची चेक करें,qa_factoid,0.3182,0.1078,False
+10571,hi-IN,lists,lists_query,android,iot_hue_lightoff,0.2324,0.0685,False
+10577,hi-IN,lists,lists_query,मुझे मेरी सब सूची दो,lists_remove,0.4207,0.0119,False
+10579,hi-IN,lists,lists_remove,मेरे स्थान सूची रीसेट करें,lists_remove,0.6861,0.6861,True
+10588,hi-IN,lists,lists_query,मुझे सूची की सामग्री दिखाएं,iot_hue_lightoff,0.9985,0.0001,False
+10590,hi-IN,lists,lists_remove,सूची से दूसरी पंक्ति हटाएं,lists_remove,0.9894,0.9894,True
+10655,hi-IN,lists,lists_remove,पार्टी टाइम वाली सूची को हटा दो,calendar_remove,0.4022,0.1415,False
+10667,hi-IN,lists,lists_query,सूची के शेड्यूल को बोलो,qa_factoid,0.9995,0.0,False
+10673,hi-IN,lists,lists_remove,इस सूची को हटा दो,qa_factoid,0.975,0.0175,False
+10674,hi-IN,lists,lists_remove,वर्तमान सूची को साफ़ करें,qa_factoid,0.9324,0.0304,False
+10679,hi-IN,lists,lists_query,मेरे आज काम करने की सूची में क्या है,qa_factoid,0.9278,0.0025,False
+10684,hi-IN,lists,lists_query,मैंने कौनसी lists पूछी है,lists_query,1.0,1.0,True
+10687,hi-IN,lists,lists_remove,अगर शो की घटना है तो उसे हटा दें,calendar_remove,0.4562,0.1495,False
+10696,hi-IN,lists,lists_remove,रिप्लेस करो,qa_factoid,0.4662,0.0025,False
+10699,hi-IN,lists,lists_query,मुझे सूची में आइटम के बारे में सूचित करें,email_sendemail,0.5781,0.0651,False
+10718,hi-IN,lists,lists_remove,क्या तुम इस आइटम को सूची से हटा सकते हो,lists_remove,0.8624,0.8624,True
+10731,hi-IN,lists,lists_query,पढ़ो मेरी सूची में क्या है,qa_factoid,0.3806,0.0824,False
+10743,hi-IN,lists,lists_remove,इस समय को हटाओ,qa_factoid,0.8217,0.0272,False
+10753,hi-IN,lists,lists_query,मैंने अपनी वी मार्ट की सूची में पहले से ही क्या डाला हुआ है,lists_query,0.4275,0.4275,True
+10755,hi-IN,lists,lists_remove,मेरी काम करने की सूची को हटा दो,qa_factoid,0.7815,0.0377,False
+10756,hi-IN,lists,lists_remove,ख़रीदारी की सूची साफ़ करें,lists_remove,0.5314,0.5314,True
+10757,hi-IN,lists,lists_query,मेरी शॉपिंग लिस्ट में कौन से आइटम हैं,lists_query,0.991,0.991,True
+10759,hi-IN,lists,lists_query,मेरी ख़रीददारी की सूची को पढ़ो मेरे लिए,qa_factoid,0.8312,0.002,False
+10760,hi-IN,lists,lists_query,मैंने जो लिस्ट दो दिन पहले बनाई थी मुझे बताओ,recommendation_events,0.724,0.0,False
+10770,hi-IN,lists,lists_remove,मेरी खरीदारी सूची से अनाज हटा दें,lists_remove,0.6355,0.6355,True
+10772,hi-IN,calendar,calendar_remove,आज के schedule से मेरे डेंटिस्ट का अपॉइंटमेंट हटा दें,calendar_remove,0.9998,0.9998,True
+10776,hi-IN,lists,lists_query,क्या मेरी ग्रोसरी सूची तैयार है,cooking_recipe,0.9035,0.0027,False
+10786,hi-IN,lists,lists_remove,आज के लिए मेरी गतिविधियों की सूची साफ़ करें,lists_remove,0.9096,0.9096,True
+10790,hi-IN,lists,lists_remove,item को list से हटाओ,lists_remove,1.0,1.0,True
+10804,hi-IN,lists,lists_query,मेरी किराना सूची पढ़ो,recommendation_events,0.7657,0.0007,False
+10805,hi-IN,lists,lists_query,कृपया मुझे वह सूची दिखाएं जो मेरे पास है,lists_remove,0.4444,0.0152,False
+10808,hi-IN,lists,lists_remove,सूची में जो आखिरी आइटम है उसे डिलीट कर दो,lists_remove,0.9989,0.9989,True
+10824,hi-IN,lists,lists_remove,olly स्पष्ट सूची,qa_factoid,0.6002,0.014,False
+10825,hi-IN,lists,lists_remove,सूची साफ करें,lists_remove,0.7294,0.7294,True
+10827,hi-IN,lists,lists_remove,किराने के सामान की सूची हटाएं,lists_remove,0.9897,0.9897,True
+10828,hi-IN,lists,lists_remove,सब कुछ मिटा दें,lists_remove,0.5458,0.5458,True
+10832,hi-IN,calendar,calendar_query,ओली मैंने आगे क्या योजना बनाई है,cooking_recipe,0.5171,0.0054,False
+10843,hi-IN,lists,lists_remove,मेरी किराने की सूची से दूध हटाओ,lists_remove,0.8512,0.8512,True
+10846,hi-IN,lists,lists_remove,मेरे पास नाइनटेंडो स्विच को ख़रीदने के लिए पूरे पैसे नहीं है क्या तुम इसे amazon की विशलिस्ट में से हटा दोगे,qa_factoid,0.8396,0.02,False
+10848,hi-IN,lists,lists_remove,इस सूची को दूसरों से हटा दें,lists_remove,0.6853,0.6853,True
+10851,hi-IN,lists,lists_query,मेरी उपलब्ध lists क्या है,lists_query,1.0,1.0,True
+10853,hi-IN,lists,lists_remove,उसे वहां से हटा दें,qa_factoid,0.9827,0.0084,False
+10855,hi-IN,lists,lists_query,मेरी सूची चेक करने की जरूरत है,qa_factoid,0.1814,0.1757,False
+10868,hi-IN,lists,lists_query,ओली कुछ भी और सूची में छोड़ दिया,lists_remove,0.9776,0.001,False
+10887,hi-IN,lists,lists_remove,मेरी सूची हटाएं,lists_remove,0.9186,0.9186,True
+10895,hi-IN,lists,lists_remove,आइटम को मेरी सूची में से हटा दो,email_sendemail,0.4438,0.3826,False
+10909,hi-IN,lists,lists_query,मेरे लिए मेरी सूचियाँ पढ़ें,email_sendemail,0.606,0.0422,False
+10927,hi-IN,lists,lists_query,मुझे मेरी सूची सुनने दो,recommendation_events,0.6636,0.0009,False
+10931,hi-IN,lists,lists_query,मेरी प्लेलिस्ट में क्या है,qa_definition,0.5344,0.0673,False
+10936,hi-IN,lists,lists_remove,कृपया मेरी कृपया मेरी पसंदीदा एल्बमों की सूची हटा दें की सूची हटा दें,email_sendemail,0.9916,0.0028,False
+10954,hi-IN,lists,lists_query,मेरे पास संपर्कों में कितनी सूचियां हैं,iot_hue_lightoff,0.7439,0.0147,False
+10956,hi-IN,lists,lists_query,मेरे कॉन्टेक्ट्स में कौन से ग्रुप्स सूचित हैं,qa_factoid,0.873,0.0002,False
+10957,hi-IN,lists,lists_query,i remind दिलाएं कि मेरे पास कितने हैं,email_sendemail,0.9995,0.0,False
+10960,hi-IN,lists,lists_remove,सूची से उस एक को खरोंचें,lists_remove,0.9472,0.9472,True
+10970,hi-IN,lists,lists_remove,अंतिम वाक्यांश हटाएं,lists_remove,0.5573,0.5573,True
+10979,hi-IN,lists,lists_query,तुम्हारी सूची में अभी इस समय क्या है,qa_factoid,0.2766,0.2091,False
+10981,hi-IN,lists,lists_query,मुझे सूची के बारे बताओ,qa_factoid,0.9994,0.0,False
+10985,hi-IN,lists,lists_remove,इस हफ्ते के लिए मेरी काम की सूची हटा दो,calendar_remove,0.893,0.0716,False
+10990,hi-IN,lists,lists_remove,मेरी काम करने की सूची से मॉप किचन हटा दो,lists_remove,0.5477,0.5477,True
+10999,hi-IN,lists,lists_query,सूची पढो,play_radio,0.3461,0.0195,False
+11023,hi-IN,lists,lists_remove,खरीदारी की सूची हटाएं,lists_remove,0.7555,0.7555,True
+11024,hi-IN,lists,lists_remove,सूची करो,qa_factoid,0.6716,0.0244,False
+11053,hi-IN,lists,lists_remove,सूची से छुटकारा पाएं google,social_post,0.9272,0.0021,False
+11075,hi-IN,lists,lists_query,मेरे पास कितनी सूचियां है,weather_query,0.9742,0.0002,False
+11081,hi-IN,lists,lists_query,मेरी नोटबुक में कौन सी सूचियां हैं,iot_hue_lightoff,0.8773,0.0039,False
+11085,hi-IN,lists,lists_remove,खरीददारी सूची मे से दूध को बाहर निकाले,qa_factoid,0.9521,0.0277,False
+11098,hi-IN,lists,lists_remove,उन्नीस सौ नब्बे से कर सूची से छुटकारा पाओ,qa_factoid,0.7064,0.1322,False
+11107,hi-IN,lists,lists_query,मेरी वर्तमान सूची क्या है,qa_factoid,0.8423,0.0075,False
+11124,hi-IN,lists,lists_query,मेरी कार्य सूची में आइटम सूचीबद्ध करें,lists_remove,0.8078,0.0129,False
+11125,hi-IN,lists,lists_query,मुझे purchase order का विवरण दो,email_sendemail,1.0,0.0,False
+11133,hi-IN,lists,lists_remove,पिछले सप्ताह मैंने जो अतिथि की सूची बनाई थी उसे हटा दो,qa_factoid,0.7349,0.1364,False
+11154,hi-IN,lists,lists_query,सूची करने के लिए बचा हुआ काम की जाँच करें,lists_query,0.316,0.316,True
+11162,hi-IN,lists,lists_remove,मैं सेब को सूची से हटाना चाहता हूं,iot_hue_lightoff,0.5195,0.0995,False
+11164,hi-IN,lists,lists_remove,सूची से दूर,qa_factoid,0.9554,0.0009,False
+11166,hi-IN,lists,lists_query,google keep ओपन करो,qa_factoid,0.8932,0.0008,False
+11168,hi-IN,lists,lists_remove,मेरी सूची हटा दो,qa_factoid,0.91,0.0659,False
+11172,hi-IN,lists,lists_query,सभी उपलब्ध सूची मुझे दो,qa_factoid,0.9906,0.0005,False
+11174,hi-IN,lists,lists_query,इस डिवाइस में जो भी सूची हैं उनकी सूची बनाओ,lists_remove,0.1775,0.0668,False
+11180,hi-IN,calendar,calendar_query,मेरी पार्टी की योजना,cooking_recipe,0.9536,0.0023,False
+11186,hi-IN,lists,lists_query,मुझे मेरे कपड़ों की सूची दो,lists_remove,0.6319,0.0142,False
+11189,hi-IN,lists,lists_query,सूची खोजें,recommendation_events,0.4844,0.0088,False
+11204,hi-IN,lists,lists_query,घर की महत्वपूर्ण जानकारी,lists_query,0.342,0.342,True
+11215,hi-IN,lists,lists_query,सूची दो,qa_factoid,0.7315,0.0096,False
+11250,hi-IN,lists,lists_query,मेरे लिए किराना की सूची फिर से पढ़ो,recommendation_events,0.7572,0.0044,False
+11257,hi-IN,play,play_podcasts,olly अगले रिकॉर्डिंग को चालू करो,iot_hue_lightoff,0.6553,0.0055,False
+11259,hi-IN,play,play_podcasts,अगले पॉडकास्ट पर जाएं,play_podcasts,0.9997,0.9997,True
+11261,hi-IN,play,play_podcasts,अगला,qa_factoid,0.9337,0.0025,False
+11265,hi-IN,play,play_podcasts,कृपया नवीनतम पॉडकास्ट चलाएं,recommendation_events,0.942,0.0247,False
+11266,hi-IN,play,play_podcasts,मेरी लाइब्रेरी से पॉडकास्ट चलाओ,qa_factoid,0.3379,0.1994,False
+11267,hi-IN,play,play_podcasts,भारत रत्ना विजेताओं के बारे में एक दिलचस्प पॉडकास्ट खोजें,play_podcasts,0.9599,0.9599,True
+11270,hi-IN,play,play_podcasts,अगला पॉडकास्ट चालू करो,play_podcasts,0.544,0.544,True
+11272,hi-IN,play,play_podcasts,अगला चलाए,qa_factoid,0.8729,0.0001,False
+11279,hi-IN,play,play_podcasts,पॉडकास्ट पर जाएं और संजीवनी में अगला एपिसोड चलाएं,play_podcasts,0.9998,0.9998,True
+11286,hi-IN,play,play_podcasts,एक और कहानी पॉडकास्ट को चालू करो,play_podcasts,0.4936,0.4936,True
+11296,hi-IN,play,play_podcasts,मेरे सारे पॉडकास्ट को लोड करो,play_podcasts,0.9999,0.9999,True
+11302,hi-IN,play,play_podcasts,एक और कहानी पॉडकास्ट चलाएं,play_podcasts,0.9528,0.9528,True
+11303,hi-IN,play,play_podcasts,एक और कहानी पॉडकास्ट चालू करो,play_podcasts,0.8293,0.8293,True
+11306,hi-IN,play,play_podcasts,वह पॉडकास्ट चलाओ जो मैं listening to yesterday,social_post,0.9888,0.0022,False
+11318,hi-IN,play,play_podcasts,पॉडकास्ट का अगला एपिसोड चलाएं,play_podcasts,0.9998,0.9998,True
+11322,hi-IN,play,play_podcasts,आज के प्रमुख पॉडकास्ट क्या हैं,play_podcasts,0.995,0.995,True
+11328,hi-IN,play,play_podcasts,एक और कहानी पॉडकास्ट को चालू करो,play_podcasts,0.4936,0.4936,True
+11331,hi-IN,play,play_podcasts,अच्छी मूल्यांकन वाले योगा के मुझे सबसे बेहतर पॉडकास्ट दिखाओ,recommendation_events,0.9324,0.0002,False
+11335,hi-IN,play,play_music,सभी धीमे संगीत गानों को चालू और फेरबदल करें,play_music,0.7917,0.7917,True
+11339,hi-IN,play,play_podcasts,मेरा सबसे ज्यादा देखा गया पॉडकास्ट चलाओ,qa_factoid,0.9838,0.0017,False
+11340,hi-IN,play,play_podcasts,क्या अरिजीत सिंह के पास एक नया पॉडकास्ट है,play_podcasts,0.9688,0.9688,True
+11341,hi-IN,play,play_podcasts,latest यादों का इडियट बॉक्स podcast ढूंढो,play_podcasts,0.9997,0.9997,True
+11343,hi-IN,play,play_podcasts,एक और कहानी के अगले एपिसोड पर जाएं,play_podcasts,0.9979,0.9979,True
+11345,hi-IN,play,play_podcasts,पॉडकास्ट का next episode चलाएं,play_podcasts,0.7317,0.7317,True
+11349,hi-IN,play,play_podcasts,olly उस पर पॉडकास्ट शुरू करें जो मैंने कल रात शुरू किया था,play_podcasts,0.999,0.999,True
+11353,hi-IN,play,play_podcasts,मुझे पॉडकास्ट दिखाओ,play_podcasts,0.4076,0.4076,True
+11361,hi-IN,play,play_podcasts,एक और कहानी पॉडकास्ट इसे खेलें,play_podcasts,0.7991,0.7991,True
+11366,hi-IN,play,play_podcasts,पॉडकास्ट के पिछले एपिसोड पर वापस जाएं,play_podcasts,0.9998,0.9998,True
+11368,hi-IN,play,play_podcasts,मेरे लिए रूता मित्तल का पॉडकास्ट चालू करें,qa_factoid,0.8312,0.1454,False
+11376,hi-IN,play,play_podcasts,मैं podcast सुनना चाहता हूँ,play_podcasts,1.0,1.0,True
+11384,hi-IN,play,play_podcasts,क्या आप कृपया इंटरनेट पर उपलब्ध मेरी पॉडकास्ट फ़ाइल को डाउनलोड कर सकते हैं और इसे एक बार चला सकते हैं,email_sendemail,0.2147,0.1,False
+11409,hi-IN,play,play_podcasts,कृपया अगले पॉडकास्ट प्रकरण पर जाएं,qa_factoid,0.991,0.0005,False
+11417,hi-IN,play,play_podcasts,अगले प्रकरण को चालू करो,qa_factoid,0.9986,0.0001,False
+11418,hi-IN,play,play_podcasts,निलेश मिश्रा के नवीनतम पॉडकास्ट को चालू करो,play_podcasts,0.9971,0.9971,True
+11420,hi-IN,play,play_podcasts,मेरा सबसे हाल ही का पॉडकास्ट चलाना शुरू करें,play_podcasts,0.9991,0.9991,True
+11423,hi-IN,play,play_podcasts,तीस सेकंड पीछे जाओ,qa_factoid,0.943,0.001,False
+11424,hi-IN,play,play_podcasts,जीवंत चैनल चलाएं,play_podcasts,0.9319,0.9319,True
+11426,hi-IN,lists,lists_query,सबसे ज्यादा बार देखी गई सूची,qa_factoid,0.9974,0.0002,False
+11427,hi-IN,play,play_podcasts,मन की बात चलू करो,qa_factoid,0.9728,0.0005,False
+11437,hi-IN,play,play_podcasts,कृपया मेरे लिए podcast चलाओ,play_podcasts,0.9994,0.9994,True
+11438,hi-IN,play,play_podcasts,कृपया अगला प्रकरण जाएं,qa_factoid,0.978,0.0009,False
+11442,hi-IN,play,play_podcasts,कृपया latest bill simmons podcast खेलें,play_podcasts,0.9999,0.9999,True
+11451,hi-IN,play,play_podcasts,मैं नवीनतम एक और कहानी पॉडकास्ट सुनना चाहता हूँ,play_podcasts,0.9972,0.9972,True
+11453,hi-IN,play,play_podcasts,मोबाइल पर एक और कहानी चलाओ,qa_factoid,0.357,0.082,False
+11455,hi-IN,play,play_podcasts,अगले भाग पर जायें,qa_factoid,0.3174,0.0721,False
+11458,hi-IN,play,play_podcasts,अगले पॉडकास्ट प्रकरण पे आगे बढ़ो,qa_factoid,0.9981,0.0001,False
+11459,hi-IN,play,play_podcasts,इस पॉडकास्ट में पिछले एपिसोड पर वापस जाएं,play_podcasts,0.9984,0.9984,True
+11460,hi-IN,play,play_podcasts,मैं खेल पॉडकास्ट सुनना चाहता हूँ,play_podcasts,0.8465,0.8465,True
+11467,hi-IN,play,play_podcasts,एक और कहानी का नवीनतम पॉडकास्ट चालू करें,qa_factoid,0.4754,0.1968,False
+11470,hi-IN,play,play_podcasts,कृपया मेरा पसंदीदा पॉडकास्ट चलाएं,qa_factoid,0.8375,0.1526,False
+11474,hi-IN,play,play_podcasts,सीरीज पॉडकास्ट को आगे चलाओ,play_podcasts,0.9355,0.9355,True
+11476,hi-IN,play,play_podcasts,पिछले पॉडकास्ट को चालू करें,qa_factoid,0.9558,0.0421,False
+11483,hi-IN,play,play_podcasts,एक और कहानी खेलना शुरू करें,play_music,0.9959,0.0023,False
+11490,hi-IN,play,play_podcasts,पॉडकास्ट पर अगला शो चलाएं,play_podcasts,0.9999,0.9999,True
+11502,hi-IN,play,play_podcasts,next बटन,calendar_remove,0.169,0.034,False
+11505,hi-IN,play,play_podcasts,मेरे पिछले चलाए गए पॉडकास्ट को फिर से चलाएं,play_podcasts,0.9943,0.9943,True
+11514,hi-IN,play,play_podcasts,olly क्या हम सभी पॉडकास्ट का जवाब देने के लिए सुन सकते हैं,play_podcasts,0.9698,0.9698,True
+11515,hi-IN,play,play_podcasts,आइए सुनते हैं मन की बात पॉडकास्ट,play_podcasts,0.9995,0.9995,True
+11525,hi-IN,play,play_podcasts,मैं अगला उपलब्ध पॉडकास्ट देखना चाहता हूं,play_podcasts,1.0,1.0,True
+11529,hi-IN,play,play_podcasts,hey सूची से मेरा पसंदीदा पॉडकास्ट चालू करो,play_podcasts,0.63,0.63,True
+11536,hi-IN,play,play_podcasts,प्लेलिस्ट में पसंदीदा पॉडकास्ट जोड़ें और शुरु करें,recommendation_events,0.5345,0.3625,False
+11539,hi-IN,play,play_podcasts,अगला पॉडकास्ट शुरू करो,play_podcasts,0.9677,0.9677,True
+11546,hi-IN,play,play_podcasts,पिछले सप्ताह से एक और कहानी को चालू करें,calendar_remove,0.847,0.0018,False
+11554,hi-IN,play,play_podcasts,मैं चाहता हूं कि आप पॉडकास्ट खेलें,play_podcasts,0.7526,0.7526,True
+11563,hi-IN,recommendation,recommendation_events,मैं गुजरात में क्या कर सकता हूँ,cooking_recipe,0.4915,0.002,False
+11570,hi-IN,recommendation,recommendation_events,मेरे शहर के आसपास क्या हो रहा है,weather_query,0.6581,0.0018,False
+11582,hi-IN,recommendation,recommendation_events,क्या बांद्रा के आसपास सरकार पर कुछ हो रहा है,social_post,0.5968,0.0235,False
+11585,hi-IN,recommendation,recommendation_events,भारत में कोई भी सांस्कृतिक कार्यक्रम,cooking_recipe,0.8372,0.0125,False
+11598,hi-IN,recommendation,recommendation_events,कृपया मुझे बताएं कि कुत्ता मेरे गृह नगर में होने वाले डॉग शो कार्यक्रमों को दिखाता है,recommendation_events,0.401,0.401,True
+11600,hi-IN,recommendation,recommendation_events,मैं आज रात यहाँ नई दिल्ली में कौन सी फिल्म देख सकता हूँ,play_podcasts,0.8683,0.0238,False
+11610,hi-IN,recommendation,recommendation_events,मुझे अभी शहर में चल रहे सर्कस शो की सूची दें,email_sendemail,0.9961,0.0009,False
+11612,hi-IN,recommendation,recommendation_events,मुंबई में कौन से गन शो होते हैं,play_podcasts,0.6699,0.0044,False
+11616,hi-IN,recommendation,recommendation_events,क्या आज रात शहर में कोई कार्यक्रम चल रहा है,play_podcasts,0.7446,0.0248,False
+11643,hi-IN,recommendation,recommendation_events,कौन सी घटनाएँ जल्द हो रही हैं,weather_query,0.2677,0.0542,False
+11644,hi-IN,recommendation,recommendation_events,मुझे मथुरा में कार्यक्रम दिखाओ,play_music,0.9717,0.0,False
+11650,hi-IN,recommendation,recommendation_events,युवा ड्राइवर और अस्थायी ड्राइवर दोनों अन्य ड्राइवरों की तुलना में अधिक बार दुर्घटनाग्रस्त होते हैं क्योंकि उनके पास अभी तक व्यापक अनुभव नहीं हैं जिन्हें उन्हें स्वयं सुरक्षित रूप से ड्राइव करने की आवश्यकता है अनुसंधान से पता चला है कि ड्राइविंग अनुभव सड़क दुर्घटनाओं को कम करने में एक प्रमुख कारक है और यह सबसे सुरक्षित समय है युवा ड्राइवर तब होते हैं जब वे सीखते समय पर्यवेक्षण में गाड़ी चला रहे होते हैं,lists_query,0.1192,0.0376,False
+11681,hi-IN,recommendation,recommendation_events,कृपया मुझे मेरे निकट मैराथन दिखाओ,iot_hue_lightoff,0.9995,0.0,False
+11685,hi-IN,recommendation,recommendation_events,मुझे खुशी होगी अगर आप मुझे हमारे क्षेत्र में होने वाली आयोजन से अवगत कराएंगे,email_sendemail,0.9921,0.0009,False
+11705,hi-IN,recommendation,recommendation_events,मुझे दिल्ली में पेंटिंग प्रदर्शनी दिखाओ,iot_hue_lightoff,0.9995,0.0,False
+11720,hi-IN,recommendation,recommendation_events,तैराकी,qa_factoid,0.9548,0.0004,False
+11767,hi-IN,recommendation,recommendation_events,ओली इस सप्ताह के अंत में पांडिचेरी में क्या कार्यक्रम हो रहे हैं,cooking_recipe,0.2457,0.0852,False
+11770,hi-IN,recommendation,recommendation_events,पांडिचेरी में इस सप्ताहांत में कोई भी कार्यक्रम,play_music,0.5678,0.0144,False
+11782,hi-IN,recommendation,recommendation_events,क्या इस सप्ताह के अंत में मेरे आस-पास कोई विशेष कार्यक्रम है,play_podcasts,0.6632,0.0147,False
+11798,hi-IN,recommendation,recommendation_events,पुस्तकालय में अगला कार्यक्रम क्या है,play_music,0.352,0.0235,False
+11827,hi-IN,recommendation,recommendation_events,मैं आज की रात कहाँ जा सकता हूँ,transport_query,0.5475,0.009,False
+11839,hi-IN,recommendation,recommendation_events,मेरे आसपास क्या हो रहा है,weather_query,0.592,0.0068,False
+11841,hi-IN,recommendation,recommendation_events,क्या इस क्षेत्र में कोई शिल्प मेले हो रहे हैं,social_post,0.3877,0.0824,False
+11844,hi-IN,recommendation,recommendation_events,कनॉट प्लेस में कुछ भी दिलचस्प चल रहा है,social_post,0.4957,0.113,False
+11845,hi-IN,recommendation,recommendation_events,olly ने मुझे खाड़ी क्षेत्र में कुछ रोमांचक घटनाओं के साथ मारा,social_post,0.6571,0.0176,False
+11860,hi-IN,recommendation,recommendation_events,मुझे स्थानीय कार्यक्रम बताओ,qa_factoid,0.9995,0.0,False
+11867,hi-IN,recommendation,recommendation_events,क्या कल चंडीगढ़ में कोई खेल आयोजन होगा,qa_factoid,0.2037,0.0622,False
+11875,hi-IN,recommendation,recommendation_events,क्या इस एरिया में कहीं फूड फेस्टिवल है,qa_factoid,0.6003,0.0036,False
+11904,hi-IN,recommendation,recommendation_events,इस सप्ताहांत के अंत में यहाँ क्या हो रहा है,news_query,0.4779,0.0092,False
+11905,hi-IN,recommendation,recommendation_events,मुझे इस सप्ताहांत में मेरे क्षेत्र की गतिविधियों के बारे में बताएं,recommendation_events,0.826,0.826,True
+11911,hi-IN,recommendation,recommendation_events,इस सप्ताहांत में क्षेत्र में कुछ भी अच्छा हो रहा है,weather_query,0.2659,0.0725,False
+11916,hi-IN,recommendation,recommendation_events,आस-पास कुछ थीम पार्क कौन से हैं,social_post,0.7617,0.0425,False
+11969,hi-IN,recommendation,recommendation_events,क्या आस-पास कुछ खास चल रहा है,weather_query,0.5349,0.0021,False
+11999,hi-IN,recommendation,recommendation_events,मुझे मेरे शहर में आज के सभी कार्यक्रम बताओ,qa_factoid,0.9893,0.0036,False
+12008,hi-IN,recommendation,recommendation_events,क्या आज तमिलनाडु में कोई मज़ेदार आयोजन हो रहा है,cooking_recipe,0.4369,0.0359,False
+12054,hi-IN,recommendation,recommendation_events,शहर के आसपास क्या हो रहा है,weather_query,0.9976,0.0001,False
+12070,hi-IN,recommendation,recommendation_events,दिल्ली सिटी मॉल कब खुलता है,datetime_query,0.9139,0.0003,False
+12073,hi-IN,recommendation,recommendation_events,स्थानीय वर्तमान घटनाओं का संदर्भ लें,play_podcasts,0.4117,0.0355,False
+12098,hi-IN,recommendation,recommendation_events,मुझे आस-पास के संगीत कार्यक्रम दिखाओ,play_music,0.9602,0.0001,False
+12189,hi-IN,transport,transport_query,मैं टिकट के लिए रेलवे स्टेशन तक कैसे पहुँचूँ,transport_query,0.9987,0.9987,True
+12240,hi-IN,transport,transport_query,पांच बजे को मेरे घर के रास्ते पर यातायात कैसा है,weather_query,0.9988,0.0004,False
+12245,hi-IN,transport,transport_query,मुंबई से दिल्ली के लिए अगली ट्रेन कब है,weather_query,0.5438,0.0108,False
+12251,hi-IN,transport,transport_query,मुझे cstm गंतव्य के लिए लोकल रेलगाड़ी की समयसारिणी बताएं,qa_factoid,0.4436,0.0464,False
+12252,hi-IN,transport,transport_query,चेन्नई जाने वाली ट्रेनें कितने बजे रवाना हो रही हैं,weather_query,0.9745,0.0199,False
+12261,hi-IN,transport,transport_query,मुझे अगले बुधवार या गुरुवार को अमृतसर के लिए रेलगाड़ी के लिए मेरे विकल्प बताओ,recommendation_events,0.9929,0.0001,False
+12263,hi-IN,transport,transport_query,राजस्थान,qa_factoid,0.9989,0.0,False
+12264,hi-IN,transport,transport_query,न्यूयॉर्क,social_post,0.1445,0.0433,False
+12294,hi-IN,transport,transport_query,मुझे इंदिरा गांधी प्रतिष्ठान के लिए रेलगाड़ी अनुसूचियों दिखाओ,iot_hue_lightoff,0.9391,0.0008,False
+12310,hi-IN,transport,transport_query,मुझे अयोध्या से अमृतसर के लिए उपलब्ध रेलगाड़ी टिकटों की सूची दें,email_sendemail,1.0,0.0,False
+12343,hi-IN,transport,transport_query,मंगलवार को दिल्ली स्टेशन से बीस हजार पांच सौ एक तेजस एक्सप्रेस रेलगाड़ी का समय देखें,weather_query,0.2518,0.2494,False
+12354,hi-IN,transport,transport_query,मुझे train का समय बताओ,datetime_query,0.938,0.0002,False
+12366,hi-IN,transport,transport_query,क्या फ़रीदाबाद से हरिद्वार के लिए कोई connecting train है और कब है,transport_query,0.7955,0.7955,True
+12367,hi-IN,transport,transport_query,जयपुर का सबसे अच्छा रास्ता कौनसा है,recommendation_events,0.9355,0.0008,False
+12376,hi-IN,transport,transport_query,ऐमनजई जलालनगर तक पहली मेट्रो कौन सी है,transport_query,0.9984,0.9984,True
+12392,hi-IN,transport,transport_query,मुझे आज की दिशा बताओ,weather_query,0.9946,0.0002,False
+12402,hi-IN,transport,transport_query,शहर की यात्रा करने वाली अगली ट्रेन यहाँ कब रवाना होती है,transport_query,0.3885,0.3885,True
+12419,hi-IN,transport,transport_query,मुंबई के लिए सबसे तेज़ मार्ग,transport_query,0.963,0.963,True
+12430,hi-IN,transport,transport_query,मुझे चंडीगढ़ के लिए रेल के आगमन का समय बताओ,transport_query,0.953,0.953,True
+12436,hi-IN,transport,transport_query,airport पहुँचने में कितना वक़्त लगेगा,qa_factoid,0.9955,0.0043,False
+12437,hi-IN,transport,transport_query,थिएटर जाने का समय क्या है,datetime_query,0.9228,0.0057,False
+12446,hi-IN,transport,transport_query,क्या आप मुझे बता सकते हैं कि रेलगाड़ी नागपुर के लिए कब निकलती है,weather_query,0.7652,0.2226,False
+12473,hi-IN,transport,transport_query,मैं यहाँ से घर कैसे जाऊँ,cooking_recipe,0.4106,0.1432,False
+12526,hi-IN,transport,transport_query,दिल्ली जाने का सबसे तेज़ तरीका कौन सा है,lists_query,0.5973,0.0487,False
+12532,hi-IN,transport,transport_query,जगह का नेतृत्व करें,qa_factoid,0.9636,0.0006,False
+12581,hi-IN,transport,transport_query,आज ट्रेन कब चलती है,weather_query,0.9703,0.0006,False
+12582,hi-IN,transport,transport_query,पहली मेट्रो सुबह कितने बजे आती है,weather_query,0.9165,0.0538,False
+12604,hi-IN,transport,transport_query,मैं रेल का ऑनलाइन टिकट कैसे बुक कर सकता हूं,transport_query,0.9951,0.9951,True
+12618,hi-IN,transport,transport_query,दिल्ली जाने के लिए एक राउंड ट्रिप रेलगाड़ी टिकट कितना है,transport_query,0.9954,0.9954,True
+12623,hi-IN,transport,transport_query,क्या आपके पास बरेली के लिए रेलगाड़ी की समय सारिणी है,weather_query,0.4387,0.0125,False
+12629,hi-IN,transport,transport_query,लखनऊ से पहली रेलगाड़ी कितने बजे निकलती है,weather_query,0.7292,0.005,False
+12634,hi-IN,transport,transport_query,मुंबई के लिए अगली रेलगाड़ी कब जा रही है,weather_query,0.8738,0.0187,False
+12707,hi-IN,transport,transport_query,नेविगेशन खोज,qa_factoid,0.3671,0.0136,False
+12759,hi-IN,transport,transport_query,दिल्ली के लिए ड्राइविंग टाइम क्या है,qa_factoid,0.7802,0.0144,False
+12797,hi-IN,transport,transport_query,मेरे नजदीक से जयपुर तक की train का समय,weather_query,0.6437,0.0028,False
+12800,hi-IN,transport,transport_query,सार्वजनिक पुस्तकालय कहा है,qa_factoid,0.5565,0.005,False
+12817,hi-IN,transport,transport_query,मैं मॉल में कैसे पहुंचूं,transport_query,0.8719,0.8719,True
+12818,hi-IN,transport,transport_query,शिकागो के लिए ट्रेन का टिकट कितना है,qa_factoid,1.0,0.0,False
+12824,hi-IN,transport,transport_query,ग्वालियर के लिए सभी रेलगाड़ी समय की सूची बनाएं,transport_query,0.4962,0.4962,True
+12835,hi-IN,transport,transport_query,ट्रेन कितने बजे निकलती है,weather_query,0.9855,0.005,False
+12839,hi-IN,transport,transport_query,मुझे दिल्ली ले चलो,email_query,0.7065,0.1293,False
+12851,hi-IN,transport,transport_query,मुझे मेरे घर के लिए रास्ता दिखाओ,iot_hue_lightoff,0.9048,0.0636,False
+12856,hi-IN,transport,transport_query,कृपया निर्देश दें,email_sendemail,0.9997,0.0,False
+12866,hi-IN,transport,transport_query,शताब्दी एक्सप्रेस का समय क्या है,weather_query,0.9398,0.0002,False
+12908,hi-IN,transport,transport_query,सैक्रेमेंटो में ट्रेन कितने बजे पहुँचती है,transport_query,0.9468,0.9468,True
+12930,hi-IN,transport,transport_query,मेरे आस-पास किराना करने के लिए मानचित्र देखें,iot_hue_lightoff,0.6555,0.0107,False
+12932,hi-IN,transport,transport_query,olly मुझे मीरा रोड की directions चाहिए,transport_query,0.5118,0.5118,True
+12951,hi-IN,qa,qa_factoid,दुनिया की सबसे ऊंची इमारत कौन सी है,qa_definition,0.9832,0.008,False
+12957,hi-IN,qa,qa_definition,विस्तृत परिभाषित करें,qa_factoid,0.5411,0.0731,False
+12961,hi-IN,qa,qa_definition,कृपया फोरेंसिक को परिभाषित करें,qa_factoid,0.9535,0.0029,False
+12963,hi-IN,qa,qa_definition,फोरेंसिक की परिभाषा क्या है,qa_definition,0.8213,0.8213,True
+12972,hi-IN,qa,qa_factoid,जो दुनिया की सबसे ऊँची चोटी है,qa_factoid,0.9769,0.9769,True
+12982,hi-IN,qa,qa_definition,अशांति का क्या अर्थ है,qa_definition,0.9999,0.9999,True
+12986,hi-IN,qa,qa_definition,मनमौजी की परिभाषा जांचें,qa_definition,0.9809,0.9809,True
+12999,hi-IN,qa,qa_factoid,अक्षय कुमार कितने पुराने है,email_sendemail,0.8017,0.1777,False
+13016,hi-IN,qa,qa_definition,बड़ी भूल की परिभाषा को देखो,iot_hue_lightoff,0.4127,0.0608,False
+13023,hi-IN,cooking,cooking_recipe,मुझे recipes show,cooking_recipe,1.0,1.0,True
+13069,hi-IN,qa,qa_definition,संतरा की परिभाषा क्या है,qa_definition,0.9982,0.9982,True
+13074,hi-IN,qa,qa_factoid,कादर ख़ान मजाकिया क्यों नहीं है,social_post,0.9987,0.0012,False
+13077,hi-IN,qa,qa_factoid,अरुण जेटली का जन्मदिन कब है,datetime_query,0.9015,0.0297,False
+13078,hi-IN,qa,qa_factoid,मुझे अक्षय कुमार का पता बताओ,qa_factoid,1.0,1.0,True
+13099,hi-IN,qa,qa_factoid,भारत के वर्तमान प्रधान मंत्री कौन थे,qa_factoid,0.9961,0.9961,True
+13115,hi-IN,qa,qa_factoid,भारत की राजधानी क्या है,qa_factoid,0.4809,0.4809,True
+13124,hi-IN,qa,qa_factoid,ब्रह्मांड कितना बड़ा है,qa_factoid,0.6409,0.6409,True
+13135,hi-IN,qa,qa_factoid,दिलिप कुमार की जन्मतिथि कब है,qa_factoid,0.9494,0.9494,True
+13140,hi-IN,qa,qa_definition,मुझे तूफान के बारे में सब बताओ,qa_factoid,0.6477,0.1416,False
+13154,hi-IN,qa,qa_factoid,क्या आप जानते हैं मुरली विजय का फोन नंबर,email_sendemail,0.9998,0.0,False
+13165,hi-IN,qa,qa_definition,हिलाना का क्या अर्थ है,qa_definition,1.0,1.0,True
+13166,hi-IN,qa,qa_definition,जादू करें और हिलाना को परिभाषित करें,cooking_recipe,0.8464,0.0016,False
+13177,hi-IN,calendar,calendar_set,मुझे आगे बढ़ने के लिए याद दिलाएं ताकि कोई वजन न बढ़े,calendar_remove,0.2329,0.0158,False
+13178,hi-IN,calendar,calendar_set,मुझे पुराने दोस्तों से संपर्क करने के लिए याद दिलाएं कि मैंने छह महीने में उनके पास होने से पहले बात नहीं की है,email_sendemail,0.9992,0.0,False
+13188,hi-IN,news,news_query,बताओ दिल्ली में विधानसभा चुनाव के नतीजे कैसे आने वाले हैं,qa_factoid,0.9985,0.0,False
+13206,hi-IN,qa,qa_definition,स्थान,qa_factoid,0.7141,0.0757,False
+13215,hi-IN,transport,transport_query,बिना किसी यातायात में फंसे फरीदाबाद मेरे काम करने की जगह पंहुचने के सबसे तेज रास्ता कौन सा है,transport_query,0.967,0.967,True
+13252,hi-IN,qa,qa_factoid,विक्रम सेठ का पहला नवंबर क्या था,weather_query,0.9962,0.0001,False
+13255,hi-IN,qa,qa_factoid,कृपया मुझे नरेंद्र मोदी के बारे में जानकारी दें,email_sendemail,0.9999,0.0,False
+13283,hi-IN,qa,qa_factoid,अनिल अम्बानी ने कितना पैसा कमाया,qa_factoid,0.8997,0.8997,True
+13288,hi-IN,qa,qa_definition,शाश्वत शब्द की परिभाषा क्या है,qa_definition,1.0,1.0,True
+13297,hi-IN,qa,qa_factoid,सेलिब्रिटी कौन है,social_post,0.9969,0.0029,False
+13298,hi-IN,qa,qa_factoid,सेलिब्रिटी क्या करता है,social_post,0.8199,0.0032,False
+13330,hi-IN,qa,qa_factoid,शुक्राणु व्हेल किस आकार की होती है,iot_hue_lightoff,0.9702,0.0022,False
+13361,hi-IN,qa,qa_definition,सामयिकता की परिभाषा क्या है,qa_factoid,0.5371,0.443,False
+13383,hi-IN,qa,qa_factoid,कितने राज्यों में मृत्युदंड हैं,qa_factoid,0.9994,0.9994,True
+13400,hi-IN,social,social_post,मेरे सभी दोस्तों को एक मज़ाकिया message भेजो,social_post,0.9387,0.9387,True
+13439,hi-IN,qa,qa_factoid,चेतन भगत कितने साल के हैं,qa_factoid,0.9902,0.9902,True
+13457,hi-IN,calendar,calendar_set,मुझे बताओ कि मुझे एक निर्धारित कार्यक्रम के लिए कब जाना चाहिए ताकि मैं समय पर आ जाऊं,datetime_query,0.3134,0.0684,False
+13473,hi-IN,qa,qa_factoid,हमें आजादी कब मिली थी,qa_factoid,1.0,1.0,True
+13487,hi-IN,qa,qa_factoid,ओली आंध्रा प्रदेश की राजधानी क्या है,qa_definition,0.2085,0.0897,False
+13494,hi-IN,qa,qa_definition,प्रेरणा की परिभाषा दें,qa_definition,0.9687,0.9687,True
+13506,hi-IN,datetime,datetime_query,क्या आप मुझे समय बता सकते हैं,datetime_query,0.7167,0.7167,True
+13513,hi-IN,qa,qa_factoid,कुत्ते के कितने पैर होते हैं,qa_factoid,0.5337,0.5337,True
+13516,hi-IN,qa,qa_factoid,व्हेल बड़ी क्यों होती हैं,iot_hue_lightoff,0.9849,0.0031,False
+13546,hi-IN,qa,qa_factoid,हसन अली की आखिरी फिल्म कौन सी थी,qa_factoid,0.9678,0.9678,True
+13554,hi-IN,qa,qa_factoid,सलमान खान कितना लंबा है,qa_factoid,0.8832,0.8832,True
+13575,hi-IN,qa,qa_factoid,आखिरी अकादमी पुरस्कार विजेता फिल्म कब थी,qa_factoid,0.9481,0.9481,True
+13580,hi-IN,qa,qa_factoid,माउंट एवरेस्ट कितना लंबा है,qa_factoid,0.5954,0.5954,True
+13591,hi-IN,qa,qa_factoid,पश्चिमी महाराष्ट्र की राजधानी क्या है,lists_query,0.2013,0.0887,False
+13592,hi-IN,qa,qa_factoid,भारत मानचित्र पर कहाँ स्थित है,qa_factoid,0.9692,0.9692,True
+13604,hi-IN,qa,qa_factoid,मुझे बताओ अजीम प्रेमजी का जन्म कहाँ हुआ था,qa_factoid,1.0,1.0,True
+13607,hi-IN,qa,qa_factoid,क्या आप कृपया पुष्टि कर सकते हैं कि सतनाम सिंह विवाहित है या नहीं,email_sendemail,0.9931,0.0034,False
+13616,hi-IN,qa,qa_factoid,ज्यादातर हस्तियां कहां घूमती हैं,social_post,0.9835,0.0008,False
+13619,hi-IN,recommendation,recommendation_events,क्या आज मेरे क्षेत्र में कोई मुफ्त कार्यक्रम चल रहा है,play_podcasts,0.886,0.0002,False
+13625,hi-IN,qa,qa_definition,सबसे बड़ा डेस्क क्या है,qa_definition,0.9654,0.9654,True
+13636,hi-IN,qa,qa_factoid,अर्नोल्ड श्वार्जनेगर का जन्मदिन कब है,datetime_query,0.9227,0.0036,False
+13679,hi-IN,qa,qa_factoid,क्या आप बता सकते हैं कि गाय के कितने पेट होते हैं,iot_hue_lightoff,0.9258,0.0333,False
+13681,hi-IN,qa,qa_factoid,जितिन प्रसाद कितने नाटकों में रहा है,qa_factoid,0.9791,0.9791,True
+13683,hi-IN,qa,qa_factoid,नरेन्द्र मोदी किस ब्रांड के हेयर स्प्रे का उपयोग करते हैं,qa_factoid,0.5853,0.5853,True
+13689,hi-IN,qa,qa_definition,कुर्सी क्या है,qa_definition,0.9989,0.9989,True
+13690,hi-IN,qa,qa_factoid,कुर्सियाँ किस रंग की हैं,lists_query,0.4632,0.0606,False
+13693,hi-IN,qa,qa_factoid,मुख्य मध्याह्न रेखा कहाँ है,qa_definition,0.9978,0.0019,False
+13705,hi-IN,qa,qa_definition,इलेक्ट्रॉनिक उत्सर्जन प्रणाली क्या है,qa_definition,0.999,0.999,True
+13706,hi-IN,qa,qa_definition,रोटर का वर्णन करें,qa_definition,0.6226,0.6226,True
+13714,hi-IN,qa,qa_definition,आम क्या है,qa_definition,0.5289,0.5289,True
+13717,hi-IN,qa,qa_factoid,क्या आप वास्तव में रूस को अलास्का से देख सकते हैं,qa_factoid,0.9467,0.9467,True
+13758,hi-IN,qa,qa_factoid,निकिता गाँधी की उम्र क्या है,email_sendemail,0.834,0.0931,False
+13761,hi-IN,qa,qa_factoid,पारसेक क्या है,qa_definition,1.0,0.0,False
+13774,hi-IN,qa,qa_factoid,राजस्थान से केरल कितनी दूर है,qa_factoid,0.9338,0.9338,True
+13777,hi-IN,qa,qa_definition,तुम क्रेडिट कार्ड का वर्णन कर सकते हो,qa_factoid,0.9409,0.0007,False
+13780,hi-IN,qa,qa_factoid,क्या सतनाम सिंह शादीशुदा है,qa_factoid,0.8189,0.8189,True
+13798,hi-IN,qa,qa_factoid,पृथ्वी पर औसत देश कितने वर्ग मील है,qa_factoid,0.4059,0.4059,True
+13799,hi-IN,qa,qa_definition,अधीन करना की परिभाषा क्या है,qa_definition,0.9838,0.9838,True
+13823,hi-IN,qa,qa_factoid,सूरज कितनी दूर है,qa_factoid,0.996,0.996,True
+13853,hi-IN,qa,qa_factoid,पृथ्वी पर सबसे अधिक ज्वालामुखी कहाँ हैं,weather_query,0.4267,0.313,False
+13854,hi-IN,qa,qa_factoid,प्रभूदेवा की मृत्यु कब हुई,qa_factoid,0.9999,0.9999,True
+13863,hi-IN,qa,qa_definition,तर्क की परिभाषा क्या है,qa_definition,0.9709,0.9709,True
+13867,hi-IN,qa,qa_factoid,जिम कॉर्बेट नेशनल पार्क कहाँ है,lists_remove,0.2838,0.039,False
+13869,hi-IN,qa,qa_factoid,कृपया गूगल स्थान और माउंट रशमोर की जानकारी,social_post,0.7578,0.0075,False
+13871,hi-IN,qa,qa_definition,आप जन्मदिन की मुबारक का वर्णन कैसे करेंगे,qa_factoid,0.5089,0.1667,False
+13881,hi-IN,qa,qa_factoid,कृपया मुझे जाकिर हुसैन के बारे में जानकारी दें,email_sendemail,0.4721,0.0726,False
+13888,hi-IN,qa,qa_factoid,आगरा उत्तरप्रदेश में तापमान क्या है,weather_query,0.9982,0.0001,False
+13895,hi-IN,qa,qa_factoid,क्या आप मुझे नरेंद्र मोदी के बारे में बता सकते हैं,email_query,0.8537,0.0007,False
+13900,hi-IN,qa,qa_definition,जीवन की परिभाषा,qa_definition,0.9997,0.9997,True
+13907,hi-IN,qa,qa_definition,अचंभित परिभाषित करें,qa_factoid,0.9892,0.0003,False
+13908,hi-IN,qa,qa_definition,क्या आप मुझे बता सकते हैं कि स्तंभित का क्या मतलब होता है,qa_definition,0.9996,0.9996,True
+13926,hi-IN,qa,qa_factoid,मन्नु भंडारी का जन्मदिन क्या है,datetime_query,0.9457,0.0027,False
+13927,hi-IN,qa,qa_factoid,लेब्रोन जेम्स की कीमत कितनी है,qa_factoid,0.9983,0.9983,True
+13974,hi-IN,qa,qa_factoid,भारत कहाँ स्थित है,qa_factoid,0.9987,0.9987,True
+13983,hi-IN,qa,qa_definition,दुष्परिणाम भुगतना,qa_factoid,0.5917,0.0201,False
+13984,hi-IN,qa,qa_definition,कार्यों के परिणाम,cooking_recipe,0.9937,0.0003,False
+13997,hi-IN,qa,qa_factoid,औसत घर कितना है,qa_factoid,0.9981,0.9981,True
+14000,hi-IN,qa,qa_definition,सुस्ती का वर्णन करें,social_post,0.7572,0.0062,False
+14001,hi-IN,qa,qa_factoid,मुझे वह सब कुछ बताएं जो आप आलसी के बारे में जानते हैं,social_post,0.8567,0.0678,False
+14011,hi-IN,qa,qa_factoid,अक्षय कुमार का जन्मदिन क्या है,datetime_query,0.8221,0.0141,False
+14015,hi-IN,qa,qa_factoid,भूमध्य रेखा के निर्देशांक क्या हैं,qa_factoid,0.3352,0.3352,True
+14023,hi-IN,qa,qa_definition,नरक का वर्णन करें,qa_definition,0.8079,0.8079,True
+14033,hi-IN,qa,qa_factoid,मुझे बताओ कि मनमोहन सिंह का जन्म कब हुआ था,qa_factoid,1.0,1.0,True
+14038,hi-IN,qa,qa_factoid,मोल्दोवा का स्थान क्या है,qa_factoid,0.4571,0.4571,True
+14040,hi-IN,qa,qa_factoid,हल्क होगन कितना लंबा है,qa_factoid,0.9046,0.9046,True
+14053,hi-IN,qa,qa_factoid,अक्षय कुमार ने किस वर्ष अभिनय करना शुरू किया,qa_factoid,0.6102,0.6102,True
+14063,hi-IN,qa,qa_factoid,सोनू निगम का जन्मदिन क्या था,datetime_query,0.989,0.0032,False
+14083,hi-IN,qa,qa_factoid,अभी अक्षय कुमार कहाँ रहता है,social_post,0.9975,0.0007,False
+14096,hi-IN,qa,qa_factoid,चट्टानी पहाड़ कहाँ हैं,social_post,0.2625,0.1548,False
+14115,hi-IN,qa,qa_definition,पथरीली रेत का विवरण दें,lists_remove,0.567,0.0117,False
+14116,hi-IN,qa,qa_definition,रॉक सैंड के बारे में बताओ,qa_factoid,0.7604,0.045,False
+14117,hi-IN,qa,qa_factoid,ताजमहल कहाँ स्थित हैं,qa_factoid,0.9994,0.9994,True
+14118,hi-IN,qa,qa_factoid,पिरामिडों का भौगोलिक विवरण दिखाएं,iot_hue_lightoff,0.998,0.0001,False
+14126,hi-IN,qa,qa_factoid,नेहा कक्कड़ का बायो दिखाओ,iot_hue_lightoff,1.0,0.0,False
+14138,hi-IN,qa,qa_definition,कृपया मुझे बताएं कि सिलेंडर की परिभाषा क्या है,qa_definition,0.9644,0.9644,True
+14147,hi-IN,qa,qa_definition,कंबल को परिभाषित करें,iot_hue_lightoff,0.5462,0.0154,False
+14150,hi-IN,qa,qa_definition,कन्वर्से शू क्या हैं,qa_definition,0.9901,0.9901,True
+14151,hi-IN,qa,qa_factoid,किस प्रकार के धूप के चश्मे को एविएटर माना जाता है,qa_definition,0.6618,0.0215,False
+14154,hi-IN,qa,qa_factoid,अफ्रीका जानकारी,qa_factoid,0.8049,0.8049,True
+14163,hi-IN,qa,qa_factoid,इलाके की खोज करें,qa_factoid,0.9048,0.9048,True
+14169,hi-IN,qa,qa_factoid,दिलीप कुमार कॉलेज कहाँ गया था,social_post,0.6876,0.0004,False
+14170,hi-IN,qa,qa_factoid,मोनिका बेदी बातचीत में क्या पहनती हैं,social_post,0.8962,0.0371,False
+14179,hi-IN,qa,qa_factoid,भारत मेरे वर्तमान स्थान से कितनी दूर है,qa_factoid,0.4652,0.4652,True
+14214,hi-IN,transport,transport_query,उसी के लिए यात्रा के तरीके खोजें,cooking_recipe,0.9917,0.0007,False
+14229,hi-IN,qa,qa_factoid,कृति सेनन ने किन फिल्मों में काम किया है,qa_factoid,0.678,0.678,True
+14243,hi-IN,qa,qa_factoid,व्यक्ति के बारे में विवरण,qa_factoid,0.9228,0.9228,True
+14272,hi-IN,qa,qa_definition,अरे किताब क्या है,email_query,0.9701,0.0001,False
+14283,hi-IN,qa,qa_factoid,जयपुर के बारे में बताओ,qa_factoid,0.85,0.85,True
+14306,hi-IN,qa,qa_factoid,भारत की भौगोलिक स्थिति की व्याख्या करें,qa_definition,0.9847,0.0015,False
+14308,hi-IN,qa,qa_factoid,लियोनार्डो डिकैप्रियो की कुल संपत्ति क्या है,qa_factoid,0.3011,0.3011,True
+14316,hi-IN,qa,qa_factoid,अलास्का कितना बड़ा है,iot_hue_lightoff,0.4695,0.4457,False
+14317,hi-IN,qa,qa_factoid,sanyukt rajya ka aakar kya hai,qa_factoid,0.8267,0.8267,True
+14323,hi-IN,qa,qa_factoid,ड्रैगन फ्रूट किस रंग का होता है,iot_hue_lightoff,0.8573,0.0348,False
+14330,hi-IN,qa,qa_factoid,अनिल अम्बानी का जन्म कहाँ हुआ था,qa_factoid,0.3237,0.3237,True
+14347,hi-IN,qa,qa_definition,एक परिकल्पना क्या है,qa_definition,0.9861,0.9861,True
+14354,hi-IN,qa,qa_factoid,ब्रह्मांड का उत्तर क्या है,qa_definition,0.9115,0.0845,False
+14355,hi-IN,qa,qa_factoid,क्या कई सीपियां समुंदर के किनारे बिक सकती हैं,qa_factoid,0.7189,0.7189,True
+14370,hi-IN,qa,qa_factoid,मुझे सेलिब्रिटी का पेशा बताओ,qa_factoid,0.9346,0.9346,True
+14378,hi-IN,qa,qa_definition,वेग की परिभाषा,qa_definition,0.9863,0.9863,True
+14382,hi-IN,qa,qa_factoid,एम्पायर स्टेट बिल्डिंग कितनी बड़ी है,qa_factoid,0.8838,0.8838,True
+14395,hi-IN,qa,qa_factoid,पृथ्वी पर सबसे गहरा बिंदु क्या है,weather_query,0.9643,0.0001,False
+14414,hi-IN,qa,qa_definition,कंप्यूटर हार्ड डिस्क के बारे में वर्णन करें,qa_definition,0.2961,0.2961,True
+14417,hi-IN,qa,qa_factoid,कौन सा महासागर हमारे महाद्वीप को छूता है,qa_factoid,0.99,0.99,True
+14419,hi-IN,qa,qa_factoid,ऐश्वर्या राय की इस साल एक नई फिल्म आ रही है,recommendation_events,0.3076,0.0542,False
+14429,hi-IN,qa,qa_definition,कफ्तान क्या है,qa_factoid,1.0,0.0,False
+14440,hi-IN,qa,qa_factoid,भारत की राजधानी क्या है,qa_factoid,0.4809,0.4809,True
+14442,hi-IN,qa,qa_factoid,नेपाल कहाँ है,qa_factoid,0.8669,0.8669,True
+14444,hi-IN,qa,qa_factoid,अक्षय कुमार की पहली फिल्म कौन सी थी,lists_query,0.6675,0.0215,False
+14449,hi-IN,qa,qa_factoid,क्या अक्षय का नया बच्चा है,social_post,0.6083,0.0169,False
+14457,hi-IN,qa,qa_factoid,मार्ग खोजें,qa_factoid,0.9211,0.9211,True
+14465,hi-IN,transport,transport_query,ग्वालियर किला के लिए दिशा निर्देश,email_sendemail,0.9132,0.0011,False
+14490,hi-IN,qa,qa_factoid,हरीश थिएटर का निर्माण कब किया गया था,qa_factoid,0.998,0.998,True
+14498,hi-IN,qa,qa_definition,मुझे स्मार्टफोन के बारे में विवरण दें,email_sendemail,0.9994,0.0,False
+14504,hi-IN,qa,qa_factoid,महात्मा गांधी ने कितनी बैठकें कीं,qa_factoid,0.9908,0.9908,True
+14505,hi-IN,qa,qa_factoid,भारत के वर्तमान प्रधान मंत्री कौन हैं,qa_factoid,0.989,0.989,True
+14508,hi-IN,qa,qa_factoid,कृपया जॉर्ज आर की नवीनतम किताब आइस एंड फायर को संक्षेप में बताएं,qa_factoid,0.8037,0.8037,True
+14509,hi-IN,qa,qa_factoid,महात्मा गाँधी का जन्म कहाँ हुआ था,social_post,0.7305,0.0588,False
+14539,hi-IN,qa,qa_factoid,इस स्थान का भौगोलिक विवरण प्राप्त करें,qa_factoid,0.3471,0.3471,True
+14545,hi-IN,qa,qa_factoid,मुझे भारत के स्थान के बारे में बताओ,qa_factoid,0.995,0.995,True
+14567,hi-IN,qa,qa_factoid,पृथ्वी पर सबसे बड़ा सक्रिय ज्वालामुखी कौन सा है,qa_factoid,0.9992,0.9992,True
+14585,hi-IN,qa,qa_factoid,दक्षिण कोरिया से भारत यात्रा करने में कितना समय लगेगा,qa_factoid,0.8729,0.8729,True
+14591,hi-IN,qa,qa_definition,मुझे एक टेलीविजन सर्किट का विवरण दें,email_sendemail,0.9406,0.0028,False
+14592,hi-IN,qa,qa_definition,मुझे स्मार्टफोन सर्किट का विवरण दें,email_sendemail,0.9991,0.0,False
+14597,hi-IN,qa,qa_factoid,मुंबई की जनसँख्या कितनी है,lists_query,0.1006,0.0461,False
+14601,hi-IN,qa,qa_factoid,अब्राहम लिंकन कितने वर्षों तक संयुक्त राज्य अमेरिका के राष्ट्रपति रहे,qa_factoid,0.989,0.989,True
+14605,hi-IN,qa,qa_factoid,क्या ऐश्वर्या राय ने सलमान खान को छोड़ा था,social_post,0.7875,0.1892,False
+14608,hi-IN,qa,qa_factoid,अक्षय कुमार किस नई फिल्म पर काम कर रहे हैं,social_post,0.4973,0.0178,False
+14622,hi-IN,qa,qa_definition,वर्णन करें कि एक वृत्त क्या है,qa_definition,0.6558,0.6558,True
+14648,hi-IN,cooking,cooking_recipe,कृपया विधि,qa_factoid,0.9999,0.0,False
+14653,hi-IN,qa,qa_factoid,भारत की जनसँख्या कितनी है,qa_factoid,0.9554,0.9554,True
+14661,hi-IN,qa,qa_factoid,बराक ओबामा का जन्म वर्ष क्या है,email_sendemail,0.9993,0.0002,False
+14668,hi-IN,qa,qa_definition,आइटम xy का वर्णन करें,iot_hue_lightoff,0.5041,0.0022,False
+14683,hi-IN,qa,qa_factoid,क्या है अजय देवगन का शौक,social_post,0.9978,0.0001,False
+14684,hi-IN,qa,qa_factoid,भारत के प्रधान मंत्री कौन हैं,qa_factoid,0.9998,0.9998,True
+14690,hi-IN,qa,qa_definition,ओके गूगल राष्ट्रपति क्या होता है,qa_factoid,0.7564,0.233,False
+14700,hi-IN,qa,qa_definition,राल दांत भरना वास्तव में क्या है,qa_definition,0.9421,0.9421,True
+14701,hi-IN,qa,qa_definition,ताश के पत्ते का खेल का वर्णन करें,qa_definition,0.3119,0.3119,True
+14705,hi-IN,qa,qa_factoid,ओके गूगल शिल्पा शेट्टी कहाँ रहती है,social_post,0.9993,0.0,False
+14706,hi-IN,qa,qa_factoid,पी टी उषा कहाँ रहती है,social_post,0.9967,0.0003,False
+14746,hi-IN,qa,qa_factoid,भारत की राजधानी क्या है,qa_factoid,0.4809,0.4809,True
+14761,hi-IN,qa,qa_definition,मुझे प्रधान पादरी शब्द की परिभाषा दें,qa_definition,0.9991,0.9991,True
+14767,hi-IN,qa,qa_definition,आप गेंद का वर्णन कैसे करेंगे,cooking_recipe,0.9802,0.0072,False
+14770,hi-IN,qa,qa_factoid,दुनिया का सबसे बड़ा महासागर बताओ,qa_factoid,0.9827,0.9827,True
+14787,hi-IN,qa,qa_factoid,रोमन और ग्रिगोरियन कैलेंडर में क्या अंतर है,qa_definition,0.446,0.177,False
+14791,hi-IN,qa,qa_factoid,कुर्सी की बनावट क्या है,qa_factoid,0.9892,0.9892,True
+14794,hi-IN,qa,qa_factoid,एल्विस पसंदीदा सवारी क्या है,social_post,0.8612,0.0179,False
+14822,hi-IN,qa,qa_factoid,लोगों में तुलना करना,qa_factoid,0.2798,0.2798,True
+14838,hi-IN,qa,qa_factoid,एक तटस्थ घनत्व फ़िल्टर क्या है और क्या मुझे एक ढाल एक या एक ठोस भी चाहिए जो एक और वर्ग वाले पेंच के बीच शैली में बेहतर होगा,lists_query,0.2713,0.0232,False
+14857,hi-IN,qa,qa_definition,क्या आप कृपया मेरे लिए तृष्णा का अर्थ समझा सकते हैं,qa_definition,0.9999,0.9999,True
+14877,hi-IN,qa,qa_factoid,उस क्षेत्र की जलवायु परिस्थितियाँ क्या हैं,iot_hue_lightoff,0.4038,0.2726,False
+14879,hi-IN,qa,qa_definition,का अर्थ,qa_definition,0.9997,0.9997,True
+14884,hi-IN,qa,qa_factoid,पूरे भारत में सबसे कम बवंडर प्रवण राज्य कौन सा है,qa_factoid,0.9792,0.9792,True
+14889,hi-IN,qa,qa_definition,कृपया मेरे लिए उस वस्तु का वर्णन करें,qa_definition,0.9971,0.9971,True
+14891,hi-IN,qa,qa_factoid,वह व्यक्ति किस क्षेत्र में श्रेष्ठ है,qa_factoid,0.9989,0.9989,True
+14912,hi-IN,qa,qa_factoid,राष्ट्रपति कलाम का जन्म कहाँ हुआ था,social_post,0.4703,0.1212,False
+14917,hi-IN,qa,qa_factoid,आतिफ असलम की अगली एल्बम कब आ रही है,email_sendemail,0.8159,0.1721,False
+14933,hi-IN,qa,qa_factoid,मुझे भारत के भूगोल के बारे में जानकारी बताओ,social_post,0.1871,0.171,False
+14939,hi-IN,qa,qa_factoid,मुझे धनुष के बारे में कुछ जानकारी चाहिए,email_query,0.504,0.008,False
+14981,hi-IN,qa,qa_definition,आईफोन सात विवरण,email_query,0.1063,0.0412,False
+14994,hi-IN,qa,qa_factoid,रणबीर कपूर की अगली फिल्म कौन सी है,qa_factoid,0.802,0.802,True
+14995,hi-IN,qa,qa_definition,स्थिति का क्या अर्थ है,qa_definition,0.9978,0.9978,True
+15020,hi-IN,qa,qa_factoid,नरेंद्र मोदी की उम्र क्या है,email_sendemail,1.0,0.0,False
+15039,hi-IN,qa,qa_factoid,olly माउंट एवरेस्ट कहाँ से शुरू होते हैं,qa_definition,0.8972,0.0069,False
+15055,hi-IN,qa,qa_factoid,कौन सा ध्रुव सबसे ठंडा है दक्षिण या उत्तर,qa_factoid,0.7475,0.7475,True
+15056,hi-IN,qa,qa_factoid,एम्मा कैटरीना कैफ का प्रेमी कितने साल का है,email_sendemail,1.0,0.0,False
+15062,hi-IN,qa,qa_factoid,अनीता देसाई के बारे में जानकारी दो,social_post,0.8809,0.0003,False
+15075,hi-IN,qa,qa_factoid,ओली पहले अमेरिकी कहाँ बसे थे,qa_factoid,0.9483,0.9483,True
+15092,hi-IN,qa,qa_definition,सैमसंग टीवी के बारे में विवरण प्राप्त करें,email_query,0.2473,0.0195,False
+15094,hi-IN,qa,qa_factoid,जयपुर राजस्थान में रहने वाले लोगों की संख्या देखें,social_post,0.4756,0.1192,False
+15095,hi-IN,qa,qa_factoid,जयपुर किस क्षेत्र में स्थित है,qa_factoid,0.5721,0.5721,True
+15127,hi-IN,qa,qa_definition,वक्ता को परिभाषित करें,qa_factoid,0.9973,0.0001,False
+15155,hi-IN,social,social_post,क्या तुम मेरे facebook account में मेरी नयी selfie upload कर सकते हो,social_post,0.9988,0.9988,True
+15166,hi-IN,social,social_post,ट्विटर पर मेरा व्यवसाय पोस्ट करें,social_post,0.9997,0.9997,True
+15177,hi-IN,social,social_post,कृपया इस पोस्ट को ट्विटर पर रीट्वीट करें,social_post,0.9996,0.9996,True
+15185,hi-IN,social,social_post,birthday कि शुभ कामनाएं,email_sendemail,1.0,0.0,False
+15186,hi-IN,social,social_post,शादी की शुभकामनाएं,email_sendemail,0.9831,0.0004,False
+15187,hi-IN,social,social_post,दोस्तों के post में share करो,social_post,0.9993,0.9993,True
+15197,hi-IN,social,social_post,मेरी भारत यात्रा ट्विटर पर पोस्ट करें,social_post,0.9999,0.9999,True
+15208,hi-IN,social,social_post,facebook पर सभी को हाए पोस्ट करें,social_post,0.9932,0.9932,True
+15213,hi-IN,news,news_query,अभी क्या चलन है,qa_factoid,0.2829,0.0319,False
+15214,hi-IN,news,news_query,आज क्या खबर है,news_query,0.9965,0.9965,True
+15216,hi-IN,social,social_post,मेरे लिए कुछ ट्वीट करो,social_post,0.9969,0.9969,True
+15231,hi-IN,social,social_post,मेरी गोवा यात्रा की तस्वीर इसे इंस्टाग्राम पर पोस्ट करें,social_post,0.9998,0.9998,True
+15271,hi-IN,social,social_post,इसे मेरे फेसबुक पर पोस्ट करें एल ओ एल,social_post,0.9999,0.9999,True
+15275,hi-IN,social,social_post,फेसबुक पर पोस्ट करें की मैं खुश हूँ,social_post,0.9999,0.9999,True
+15276,hi-IN,social,social_post,facebook पर एक नया status डालो की मैं अच्छे मौसम का मजा ले रहा हूँ,social_post,0.9998,0.9998,True
+15289,hi-IN,social,social_post,संदेश अभी पोस्ट करें,social_post,0.9997,0.9997,True
+15305,hi-IN,calendar,calendar_query,क्या मेरे लिए सोशल मीडिया से कोई सूचना है,social_post,0.9934,0.0002,False
+15318,hi-IN,social,social_post,मैं जन्मदिन की शुभकामनाओं के लिए सभी को धन्यवाद देना चाहता हूं,email_sendemail,0.4769,0.0217,False
+15337,hi-IN,social,social_post,इस वीडियो को फेसबुक पर पोस्ट करें,social_post,0.9999,0.9999,True
+15350,hi-IN,social,social_post,मैं टेस्को से नाखुश हूं कृपया मेरी मदद करें,social_post,0.6059,0.6059,True
+15358,hi-IN,social,social_post,olly apple को tweet करो की iphone काम नहीं कर रहा है,social_post,0.9954,0.9954,True
+15359,hi-IN,social,social_post,apple को ट्वीट करें कि मेरे आईफोन की बैटरी हमेशा खत्म हो जाती है,email_sendemail,0.9448,0.0332,False
+15364,hi-IN,social,social_post,क्या आप रिलाइंस को बता सकते हैं कि यह नया फ़ोन केस कबाड़ है,qa_factoid,0.0604,0.0474,False
+15382,hi-IN,social,social_post,क्या आप सैमसंग से संपर्क कर सकते हैं और कह सकते हैं कि मेरी धुलाई की मशीन में आग लग गई है,social_post,0.5745,0.5745,True
+15387,hi-IN,social,social_post,मेरा वर्तमान स्थान ट्वीट करें,social_post,0.9974,0.9974,True
+15399,hi-IN,social,social_post,नेटवर्क से संबंधित मुद्दों के लिए एयरसेल को शिकायत अग्रेषित करें,email_sendemail,0.5371,0.227,False
+15401,hi-IN,social,social_post,खुला ट्विटर संदेश भेजें,social_post,0.9993,0.9993,True
+15402,hi-IN,social,social_post,ट्वीट करें कि उत्पाद बेकार है,qa_factoid,1.0,0.0,False
+15409,hi-IN,social,social_post,twitter को खोले और उपभोक्ता सेवा के लिए मेरी शिकायत दर्ज करे,social_post,0.9929,0.9929,True
+15413,hi-IN,social,social_post,मुझे जल्द से जल्द एक व्यक्ति प्राप्त करें,recommendation_events,0.6767,0.0119,False
+15444,hi-IN,social,social_post,कंपनी के नाम पर दो अंगूठे नीचे,lists_remove,0.1701,0.0359,False
+15448,hi-IN,social,social_post,सोनी के volume समस्या के बारे में एक tweet भेजो,social_post,0.9975,0.9975,True
+15454,hi-IN,social,social_post,इंडिगो एयरलाइंस को ट्वीट करें कि मैं गुस्से में हूं कि तुमने मेरा बैग खो दिया,social_post,0.9997,0.9997,True
+15456,hi-IN,social,social_post,मैं एयर इंडिया को एक ट्वीट भेजना चाहता हूं मैं गुस्से में हूं कि आपने मेरा बैग खो दिया,social_post,0.6002,0.6002,True
+15457,hi-IN,social,social_post,मुझे अपने बर्गर से समस्या थी क्या आप बर्गर किंग को ट्वीट कर सकते हैं,social_post,0.9696,0.9696,True
+15459,hi-IN,social,social_post,एक twitter शिकायत भेजो,social_post,0.9992,0.9992,True
+15464,hi-IN,social,social_post,मुझे समय पर उत्पाद नहीं मिला jcpenney को एक ट्वीट भेजें,social_post,0.9838,0.9838,True
+15467,hi-IN,social,social_post,comcast को बताएं कि मैं उनसे नफरत करता हूं,social_post,0.9484,0.9484,True
+15472,hi-IN,social,social_post,फ्लिपकार्ट के लिए एक शिकायत ट्वीट करें,social_post,0.9015,0.9015,True
+15487,hi-IN,social,social_post,कोहल्स को उनके स्टोर की सफाई के बारे में ट्वीट करें,social_post,0.8734,0.8734,True
+15488,hi-IN,social,social_post,कृपया पिज़्ज़ाहट पर ट्वीट करें मैं अपनी डिलीवरी का इंतज़ार कर रहा था,social_post,0.9967,0.9967,True
+15503,hi-IN,social,social_post,उपभोक्ता सेवा के लिए नया ट्वीट,social_post,0.6445,0.6445,True
+15508,hi-IN,social,social_post,siri ट्विटर खोलें और और राष्ट्रपति भवन को लिखें कि वो बेकार है,social_post,0.9997,0.9997,True
+15518,hi-IN,social,social_post,राहुल को ट्वीट के जरिए शिकायत भेजें,social_post,0.9995,0.9995,True
+15532,hi-IN,social,social_post,अमेज़न को ट्वीट करें और उन्हें बताएं कि उनकी ग्राहक सेवा भयानक है,social_post,0.9828,0.9828,True
+15546,hi-IN,social,social_post,dominos को र्हंदे pizza के बारे में tweet करो,social_post,0.9996,0.9996,True
+15548,hi-IN,social,social_post,samsung को mobile समस्या को tweet करो,social_post,0.9986,0.9986,True
+15553,hi-IN,social,social_post,कृपया डाइकिन सेवा पर नकारात्मक प्रतिक्रिया वाला ट्वीट करें,social_post,0.9183,0.9183,True
+15554,hi-IN,social,social_post,कृपया देरी सेवाओं के लिए डैल सेवा पर ट्वीट करें,qa_factoid,0.2087,0.0321,False
+15556,hi-IN,social,social_post,चलो एक शिकायत ट्वीट करें,social_post,0.9966,0.9966,True
+15557,hi-IN,social,social_post,मैं चाहता हूं कि आप एक शिकायत ट्वीट करें,social_post,0.9625,0.9625,True
+15560,hi-IN,social,social_post,facebook पर पोस्ट करें मुझे भूख लगी है,social_post,1.0,1.0,True
+15565,hi-IN,social,social_post,क्या आप झंडू को बता सकते हैं कि मैं उनका फिर कभी उपयोग नहीं कर रहा हूँ,social_post,0.4263,0.4263,True
+15587,hi-IN,social,social_post,गैलरी पोस्ट में तस्वीर के नाम को खोलो,social_post,0.9999,0.9999,True
+15592,hi-IN,social,social_post,tweet at comcast complain,social_post,0.9977,0.9977,True
+15593,hi-IN,social,social_post,कॉमकास्ट को शिकायत ट्वीट करें,social_post,0.9949,0.9949,True
+15598,hi-IN,social,social_post,कंपनी का नाम खोलें और शिकायतें पाएं,email_sendemail,0.3014,0.2728,False
+15610,hi-IN,social,social_post,मेरे खाते में संतुष्ट नहीं होने वाली टी सीरीज द्वारा बहुत ही खराब सेवा दी आपने में एक ट्वीट पोस्ट करें,social_post,0.9817,0.9817,True
+15618,hi-IN,social,social_post,सैमसंग ट्वीट करें और उन्हें बताएं कि वे बेकार हैं,social_post,0.9832,0.9832,True
+15626,hi-IN,social,social_post,कृपया खराब ग्राहक सेवा के लिए कॉमकास्ट करने के लिए एक शिकायत ट्वीट करें,social_post,0.9919,0.9919,True
+15634,hi-IN,social,social_post,ok google ट्वीट करें कि गैस स्टेशन का मालिक कितना धूर्त है,qa_factoid,0.9238,0.0716,False
+15635,hi-IN,social,social_post,ट्वीट मैकडॉनल्ड्स डाउन रेसेडा में भयानक सेवा है,social_post,0.6043,0.6043,True
+15647,hi-IN,social,social_post,ट्वीट,social_post,0.9695,0.9695,True
+15651,hi-IN,social,social_post,ग्राहक सेवा को report भेजो,recommendation_events,0.459,0.1179,False
+15652,hi-IN,social,social_post,उपभोक्ता सेवा को शिकायत में मदद करें,recommendation_events,0.5241,0.0276,False
+15655,hi-IN,social,social_post,गूगल ग्राहक सेवा को ट्वीट करें मेरा नया नेक्सस फोन काम करना बंद कर दें कृपया मदद करें,social_post,0.9712,0.9712,True
+15656,hi-IN,social,social_post,suqcom को एक संदेश ट्वीट करें कि मैं अभी भी अपनी डिलीवरी की प्रतीक्षा कर रहा हूं,social_post,0.9976,0.9976,True
+15661,hi-IN,social,social_post,n.s.a पर ट्विटर पर मेरी नवीनतम प्रविष्टि पोस्ट करें।,social_post,0.9985,0.9985,True
+15670,hi-IN,social,social_post,एक शिकायत भेजें ट्वीट,social_post,0.9988,0.9988,True
+15672,hi-IN,social,social_post,एप्पल को आईफ़ोन प्राप्त न होने के बारे में ट्वीट करें जो मैंने पिछले हफ्ते मरम्मत के लिए भेजा था,social_post,0.9977,0.9977,True
+15676,hi-IN,social,social_post,कृपया रेडिसन होटल को ट्वीट में सेवा के बारे में शिकायत करें,email_sendemail,0.9988,0.0008,False
+15686,hi-IN,social,social_post,hello मेरी चीज़ जो मैंने किसी से खरीदी थी खराब हो गई है,cooking_recipe,0.8517,0.0002,False
+15693,hi-IN,social,social_post,tweet करो की मेरे chocolate packet में कीड़ा था,social_post,0.9993,0.9993,True
+15700,hi-IN,social,social_post,हाल के बाजार में समाप्त हो चुके उत्पाद,qa_factoid,0.9645,0.0003,False
+15703,hi-IN,social,social_post,बाटा को ट्विटर पर कहें कि उनके आकर बहुत तेजी से समाप्त हो रहे हैं,social_post,0.9996,0.9996,True
+15706,hi-IN,social,social_post,पर tweet करें,social_post,0.9985,0.9985,True
+15707,hi-IN,social,social_post,चलो एक ट्वीट करते हैं,social_post,0.9934,0.9934,True
+15708,hi-IN,social,social_post,सेवा के बारे में शिकायत पोस्ट करें,social_post,0.999,0.999,True
+15721,hi-IN,social,social_post,मैकडॉनल्ड्स के बारे में एक घृणित चेहरा ट्वीट करें,social_post,0.9241,0.9241,True
+15723,hi-IN,social,social_post,फेसबुक पर फीलिंग हैप्पी स्टेटस लगाएं,iot_hue_lightoff,0.5565,0.1736,False
+15731,hi-IN,social,social_post,ओली ने एक संदेश ट्वीट किया ए.टी.एंड.टी और उन्हें बताओ कि मेरी सेवा खराब है,email_sendemail,1.0,0.0,False
+15732,hi-IN,social,social_post,सैमसंग को ट्वीट करें और उनसे कहें कि वे अपने उत्पादों से लोगों को मारना बंद करें,social_post,0.9947,0.9947,True
+15736,hi-IN,social,social_post,किसी कंपनी के बारे में नकारात्मक समीक्षा प्रस्तुत करें,social_post,0.55,0.55,True
+15756,hi-IN,email,email_sendemail,कृपया मेरी टीम को ईमेल करें,email_sendemail,1.0,1.0,True
+15763,hi-IN,email,email_query,कृपया नए ईमेल की जांच करें,email_sendemail,0.9997,0.0003,False
+15765,hi-IN,email,email_sendemail,प्रदीप के ईमेल का जवाब,email_sendemail,0.9877,0.9877,True
+15777,hi-IN,email,email_query,मुझे बताओ कि क्या मेरे पास नए ईमेल हैं,email_sendemail,1.0,0.0,False
+15785,hi-IN,email,email_query,क्या मेरे मेलबॉक्स में कुछ नया है,email_query,0.8722,0.8722,True
+15789,hi-IN,email,email_query,ओली क्या मेरे पास कोई नया ईमेल है,email_sendemail,1.0,0.0,False
+15792,hi-IN,calendar,calendar_query,मैं आज किससे मिल रहा हूँ,social_post,0.9727,0.0002,False
+15796,hi-IN,email,email_sendemail,मोहित को ईमेल,email_sendemail,1.0,1.0,True
+15802,hi-IN,email,email_sendemail,लल्लू को एक ईमेल का जवाब दें कि मैं आज रात नहीं आऊँगा,email_sendemail,0.7852,0.7852,True
+15809,hi-IN,email,email_query,क्या अमित ने मुझे अभी तक ईमेल किया है,email_sendemail,1.0,0.0,False
+15825,hi-IN,email,email_sendemail,पापा को जवाब लिखो मुझे देर हो जाएगी,email_sendemail,1.0,1.0,True
+15828,hi-IN,email,email_sendemail,यहां संपर्कों में जोड़ा जाने वाला एक नया ईमेल पता है,email_sendemail,0.9999,0.9999,True
+15829,hi-IN,email,email_sendemail,संपर्कों पर जाएं और एक नया ईमेल पता दर्ज करें,email_sendemail,1.0,1.0,True
+15839,hi-IN,email,email_query,topic,social_post,0.9994,0.0,False
+15841,hi-IN,email,email_sendemail,रवि के लिए एक नया ईमेल लिखें,email_sendemail,0.9999,0.9999,True
+15845,hi-IN,email,email_sendemail,यह हमारे पास कैसे आया,social_post,0.9882,0.0002,False
+15847,hi-IN,email,email_sendemail,हम क्रेडिट कैसे प्राप्त कर सकते हैं,qa_factoid,1.0,0.0,False
+15849,hi-IN,email,email_sendemail,मेरे बॉस को एक ईमेल भेजें,email_sendemail,1.0,1.0,True
+15857,hi-IN,email,email_sendemail,कृपया सूचीबद्ध नए ईमेल पते पर भेजें,email_sendemail,1.0,1.0,True
+15862,hi-IN,email,email_query,माँ से प्राप्त हुए ईमेल को चेक करो,email_sendemail,0.8963,0.1037,False
+15880,hi-IN,email,email_query,कृपया मेरे मेल देखें,email_query,0.9907,0.9907,True
+15890,hi-IN,email,email_query,यह देखें कि क्या मेरे पास मेरे पिताजी से कोई भी नया ईमेल है,email_sendemail,1.0,0.0,False
+15904,hi-IN,email,email_query,मेरे नए ईमेल देखें और मुझे बताएं कि वे किस बारे में हैं,email_sendemail,1.0,0.0,False
+15906,hi-IN,email,email_sendemail,अर्श को जवाब दें धन्यवाद,qa_factoid,0.898,0.0057,False
+15911,hi-IN,email,email_sendemail,मनीष के लिए ईमेल तैयार करो,email_sendemail,1.0,1.0,True
+15933,hi-IN,email,email_query,मेरे पास कौन से नए ईमेल हैं,email_sendemail,1.0,0.0,False
+15942,hi-IN,email,email_sendemail,नवीनतम ईमेल का जवाब देने के लिए यह ईमेल भेजें,email_sendemail,0.9993,0.9993,True
+15950,hi-IN,email,email_sendemail,अखिल मिश्रा के ईमेल का जवाब दें,email_sendemail,1.0,1.0,True
+15957,hi-IN,email,email_sendemail,उत्कर्षी को ईमेल भेजो उसे बताने के लिए कि हम रास्ते में हैं,email_sendemail,1.0,1.0,True
+15963,hi-IN,email,email_query,क्या मेरे पास सचिन से कोई नया ईमेल है,email_sendemail,1.0,0.0,False
+15966,hi-IN,email,email_query,बहुत महत्वपूर्ण हो तो जवाब भेजें,email_sendemail,1.0,0.0,False
+15968,hi-IN,email,email_query,अगर यह बहुत परिचित जगह से है तो इसे महत्वपूर्ण के रूप में चिह्नित करें,qa_factoid,0.8016,0.0408,False
+15970,hi-IN,email,email_query,माँ के आखिरी ईमेल का विषय क्या था,email_sendemail,0.8311,0.1689,False
+15971,hi-IN,email,email_query,काम से आखिरी ईमेल क्या था,email_sendemail,0.5939,0.4061,False
+15994,hi-IN,email,email_sendemail,आलोक के एक ईमेल भेजो उससे पूछो कई मीटिंग किस टाइम ठीक रहेगी,email_sendemail,1.0,1.0,True
+15995,hi-IN,email,email_sendemail,सोनम को बजट मीटिंग के बारे में ईमेल करो,email_sendemail,1.0,1.0,True
+15998,hi-IN,email,email_query,नाम से किसी के लिए मेरे ईमेल चेक करो,email_sendemail,0.9781,0.0219,False
+16002,hi-IN,email,email_query,नए ईमेल की जांच करें,email_query,0.5784,0.5784,True
+16005,hi-IN,email,email_sendemail,प्रखर ऐट जीमेल डॉट कॉम पर ईमेल भेजें,email_sendemail,1.0,1.0,True
+16010,hi-IN,email,email_query,मुझे बताओ कि मेरे इनबॉक्स में कोई नए मैसेज आए हैं,email_sendemail,0.9996,0.0003,False
+16024,hi-IN,email,email_sendemail,रोहित को यह कहते हुए एक ईमेल भेजें कि मैं कल व्यस्त हूँ,email_sendemail,1.0,1.0,True
+16028,hi-IN,email,email_sendemail,अरे siri सहकर्मी को एक ईमेल शुरू करो,email_sendemail,1.0,1.0,True
+16029,hi-IN,email,email_sendemail,कृपया सहकर्मी को एक नया ईमेल लिखें,email_sendemail,1.0,1.0,True
+16032,hi-IN,email,email_sendemail,कृपया प्रिया को कल की बैठक के बारे में एक ईमेल भेजें,email_sendemail,1.0,1.0,True
+16038,hi-IN,email,email_query,अरे राम ने मुझे हाल ही में कोई ईमेल भेजा है,email_sendemail,1.0,0.0,False
+16045,hi-IN,email,email_sendemail,कार्यालय खुलने का समय सारणी के लिए पवन को मेल भेजें,email_sendemail,0.9994,0.9994,True
+16048,hi-IN,email,email_query,मुझे हाल के ईमेल दिखाएँ,email_sendemail,1.0,0.0,False
+16049,hi-IN,email,email_sendemail,मैं अपने परिवार को एक ईमेल भेजना चाहता हूं क्या आप मेरी मदद करेंगे,email_sendemail,1.0,1.0,True
+16050,hi-IN,email,email_query,जीमेल चेक करें,email_sendemail,1.0,0.0,False
+16052,hi-IN,email,email_query,outlook की जाँच करें,transport_query,0.3187,0.0371,False
+16056,hi-IN,email,email_sendemail,ईमेल का जवाब,email_sendemail,0.8936,0.8936,True
+16061,hi-IN,email,email_query,क्या मुझे पिछले दस मिनट में कोई ईमेल प्राप्त हुआ है,email_sendemail,1.0,0.0,False
+16072,hi-IN,email,email_sendemail,मेरे बॉस को ईमेल करें कि मुझे आज एक आपात स्थिति के कारण देर हो जाएगी और बैठक में चूकने के लिए उनसे माफी मांगें,email_sendemail,1.0,1.0,True
+16075,hi-IN,email,email_query,अंश से हालिया ईमेल प्रदर्शित करें,email_sendemail,1.0,0.0,False
+16082,hi-IN,email,email_sendemail,तुषार को एक ईमेल भेजें और उससे पूछें कि वह अब कैसा है,email_sendemail,1.0,1.0,True
+16089,hi-IN,email,email_query,क्या मुझे आखिरी दस मिनट में कोई नए ईमेल्स आए हैं,email_sendemail,0.7917,0.2058,False
+16096,hi-IN,email,email_query,क्या अनीता ने मुझे कोई नया ईमेल भेजा है,email_sendemail,0.9997,0.0003,False
+16098,hi-IN,email,email_query,आराध्या से अपठित ईमेल की जाँच करें,email_sendemail,0.9956,0.0044,False
+16100,hi-IN,email,email_query,कृप्या email मे नौकरी की सूची की जांच करे,email_sendemail,0.9963,0.0037,False
+16103,hi-IN,email,email_sendemail,मेरे भाई को एक ईमेल भेजो और कहो शादी की सालगिरह,email_sendemail,1.0,1.0,True
+16120,hi-IN,email,email_sendemail,सिर्फ अनिशा को ही हेल्प भेजनी है,email_sendemail,0.9962,0.9962,True
+16131,hi-IN,email,email_sendemail,यह नया ईमेल मेरे संपर्क में जोड़ा जाना चाहिए,email_sendemail,1.0,1.0,True
+16145,hi-IN,email,email_query,मुझे सबसे हाल के ईमेल दिखाओ,email_sendemail,1.0,0.0,False
+16146,hi-IN,news,news_query,मुझे नवीनतम अपडेट दें,email_sendemail,0.9716,0.0017,False
+16148,hi-IN,email,email_sendemail,ललित को जल्दी से जवाब दो इसके लिए एक मेल भेजो,email_sendemail,0.9981,0.9981,True
+16151,hi-IN,email,email_query,आज के मेल में मीटिंग शेड्यूल चेक करें,qa_factoid,0.9512,0.0007,False
+16162,hi-IN,email,email_sendemail,जवाब भेजें,email_sendemail,1.0,1.0,True
+16163,hi-IN,email,email_query,किसने मुझे कल मेल किया था,social_post,0.6343,0.0089,False
+16165,hi-IN,email,email_query,क्या सीमा ने जवाब दिया,qa_factoid,1.0,0.0,False
+16166,hi-IN,email,email_sendemail,क्या आप हर्षिता को जवाब दे सकते हैं कि मैं अगले तीन हफ्ते के लिए परियोजनाओं में व्यस्त रहूंगा,cooking_recipe,0.1126,0.0337,False
+16168,hi-IN,email,email_query,क्या आखिरी पंद्रह मिनट में कोई ईमेल आए हैं,email_query,0.5396,0.5396,True
+16170,hi-IN,email,email_query,अपठित मेल देखने के लिए इनबॉक्स खोलें,iot_hue_lightoff,0.3882,0.0285,False
+16178,hi-IN,email,email_query,amazon से कोई मेल आया आज,qa_factoid,0.9124,0.0001,False
+16183,hi-IN,email,email_query,मेरे काम के बारे में ईमेल देखें,email_sendemail,1.0,0.0,False
+16201,hi-IN,email,email_sendemail,कृपया लक्षित के लिए नया ईमेल लोड करें और अभी संदेश भेजें,email_sendemail,1.0,1.0,True
+16221,hi-IN,email,email_sendemail,रानी का ईमेल दिखाओ और उसे लिखो कि मैं उसे बता दूंगा,email_sendemail,1.0,1.0,True
+16245,hi-IN,email,email_sendemail,ईमेल भेजो rajesh at a. o. l. dot com पे,email_sendemail,1.0,1.0,True
+16248,hi-IN,email,email_query,कृपया मेरा मेल देखें,email_query,0.3056,0.3056,True
+16263,hi-IN,email,email_query,क्या मुझे रॉबर्ट की ओर से कोई नया ईमेल प्राप्त होगा,email_sendemail,0.9468,0.0532,False
+16266,hi-IN,email,email_sendemail,मेरे परिवार को यह कहते हुए एक ईमेल लिखें कि मैं आप सभी से प्यार करता हूँ,email_sendemail,1.0,1.0,True
+16271,hi-IN,email,email_query,मेरे इनबॉक्स ताज़ा करें और मुझे नए ईमेल के बारे में सूचित करें,email_sendemail,0.9999,0.0001,False
+16275,hi-IN,email,email_query,नए ईमेल के लिए मतदान आरंभ करें,email_sendemail,0.9999,0.0001,False
+16276,hi-IN,email,email_query,क्या मेरे पास नए ईमेल हैं,email_sendemail,1.0,0.0,False
+16280,hi-IN,email,email_sendemail,कृपया सौम्या को एक ईमेल भेजें जो मेरे परिवार और मित्र सूची में है,email_sendemail,1.0,1.0,True
+16282,hi-IN,email,email_sendemail,कल के लिए सभी अपॉइंटमेंट रद्द करने के लिए मेरे सहायक सोनम को एक ईमेल भेजें,email_sendemail,1.0,1.0,True
+16296,hi-IN,email,email_sendemail,माँ को यह बताने के लिए एक ईमेल भेजें कि उनके राम का जन्मदिन की पार्टी रविवार को है,email_sendemail,1.0,1.0,True
+16297,hi-IN,email,email_sendemail,धन्यवाद के लिए जगदीश को एक ईमेल भेजें,email_sendemail,1.0,1.0,True
+16314,hi-IN,email,email_sendemail,मार्गरेट को एक ईमेल भेजें,email_sendemail,1.0,1.0,True
+16317,hi-IN,email,email_query,क्या मुझे सारा से नए ईमेल मिले,email_sendemail,1.0,0.0,False
+16318,hi-IN,email,email_sendemail,ईमेल का जवाब,email_sendemail,0.8936,0.8936,True
+16320,hi-IN,email,email_sendemail,मैं अमित सिंह के ईमेल का जवाब देना चाहता हूं,email_sendemail,0.5641,0.5641,True
+16353,hi-IN,email,email_query,स्टीव से ईमेल की जांच करें,email_sendemail,1.0,0.0,False
+16354,hi-IN,email,email_query,मेरे नियोक्ता से ईमेल की जाँच करें,email_sendemail,1.0,0.0,False
+16356,hi-IN,email,email_query,क्या मैंने टॉम को बंदूक नियंत्रण के विषय पर ईमेल किया था,email_sendemail,0.7452,0.2548,False
+16357,hi-IN,email,email_query,क्या राम ने मुझे गोला-बारूद के बारे में ईमेल किया है,email_sendemail,0.7352,0.2648,False
+16361,hi-IN,email,email_query,क्या मेरे पास आखिरी घंटे में कोई नया ईमेल है,email_sendemail,1.0,0.0,False
+16373,hi-IN,email,email_query,क्या मुझे ट्रैकिंग नंबरों वाला कोई ईमेल प्राप्त हुआ है,email_query,1.0,1.0,True
+16375,hi-IN,email,email_sendemail,रोहन को एम् ईमेल लिखो,email_sendemail,1.0,1.0,True
+16376,hi-IN,email,email_sendemail,एलेक्सा कृपया माँ को एक ईमेल भेजें,email_sendemail,1.0,1.0,True
+16377,hi-IN,email,email_sendemail,माँ को अभी एक ईमेल भेजें,email_sendemail,1.0,1.0,True
+16384,hi-IN,email,email_query,अरे क्या मेरे पास कोई नया ईमेल है,email_sendemail,1.0,0.0,False
+16385,hi-IN,email,email_query,कृपया नए ईमेल पढ़ें,email_sendemail,1.0,0.0,False
+16398,hi-IN,email,email_sendemail,कृपया राम को ईमेल भेजें,email_sendemail,1.0,1.0,True
+16399,hi-IN,email,email_query,क्या मुझे कोई भी नया ईमेल मिला है,email_sendemail,1.0,0.0,False
+16401,hi-IN,email,email_sendemail,राम को एक टेक्स्ट ईमेल करो कि आज तुम क्या कर रहे हो,email_sendemail,0.9992,0.9992,True
+16402,hi-IN,email,email_sendemail,आज के लिए ईमेल ईशनि योजना,email_sendemail,1.0,1.0,True
+16406,hi-IN,email,email_sendemail,एलेक्सा ईमेल शुरू करें,email_sendemail,1.0,1.0,True
+16410,hi-IN,email,email_sendemail,ईमेल लिखें,email_sendemail,1.0,1.0,True
+16413,hi-IN,email,email_query,मेरे बॉस की ओर से मुझे भेजे गए सभी ईमेल दिखाएँ,email_sendemail,1.0,0.0,False
+16419,hi-IN,email,email_sendemail,कृपया राम चाचा को निम्नलिखित के साथ एक ईमेल भेजें हाँ मैं इसे बना सकता हूँ,email_sendemail,1.0,1.0,True
+16427,hi-IN,email,email_query,आज मुझे कितनी सारी नई emails आई है,email_sendemail,0.9999,0.0001,False
+16430,hi-IN,email,email_sendemail,कृपया माँ और पापा को एक ईमेल भेजकर पूछें कि वे कैसे हैं,email_sendemail,1.0,1.0,True
+16437,hi-IN,email,email_sendemail,कृपया यह ईमेल मेरे दोस्त को भेजें,email_sendemail,1.0,1.0,True
+16438,hi-IN,email,email_sendemail,मुझे अभी भेजा गया यह ईमेल चाहिए,email_sendemail,1.0,1.0,True
+16446,hi-IN,email,email_query,कृपया इस प्रेषक के हालिया ईमेल अध्ययन की जांच करें,email_sendemail,1.0,0.0,False
+16459,hi-IN,email,email_sendemail,जीमेल डॉट कॉम पर न्यूमेल के लिए नया संदेश,email_sendemail,1.0,1.0,True
+16461,hi-IN,email,email_query,क्या मेरे पास कोई अपठित ईमेल है,email_sendemail,1.0,0.0,False
+16467,hi-IN,email,email_query,क्या मेरे पास मेरे संपर्क राज से कोई नया ईमेल है,email_sendemail,0.9998,0.0002,False
+16471,hi-IN,email,email_query,जॉन से ईमेल जांचें,email_sendemail,0.9999,0.0001,False
+16496,hi-IN,email,email_sendemail,एक उत्तर ईमेल भेजें,email_sendemail,1.0,1.0,True
+16501,hi-IN,email,email_sendemail,कृपया मेरी दोस्त दिव्या को एक मेल भेजें आप कैसे हैं,email_sendemail,1.0,1.0,True
+16506,hi-IN,email,email_sendemail,नया ईमेल पता जोड़ें और ईमेल भेजें,email_sendemail,1.0,1.0,True
+16518,hi-IN,email,email_sendemail,जयश्री शर्मा के लिए नया ईमेल जोड़ें,email_sendemail,1.0,1.0,True
+16519,hi-IN,email,email_sendemail,मुझे अपने संपर्कों में एक नया ईमेल जोड़ने की आवश्यकता है,email_sendemail,0.9999,0.9999,True
+16535,hi-IN,email,email_sendemail,क्या आप रितु को एक ईमेल लिख सकते हैं,email_query,0.955,0.045,False
+16559,hi-IN,email,email_sendemail,त्रिलोकी को रिप्लाई करो जवाब के साथ चार सौ तीस जो उसके ईमेल से उसने भेजा था आज सुबह,email_sendemail,0.905,0.905,True
+16560,hi-IN,email,email_sendemail,मेरे बॉस के ईमेल का इस शब्द के साथ जवाब दें कि मैं शाम को चार बजे पहुंचूंगा,email_sendemail,1.0,1.0,True
+16563,hi-IN,email,email_query,ओली मेरे ईमेल की जाँच करें,email_sendemail,0.9435,0.0565,False
+16591,hi-IN,email,email_sendemail,मुझे अभी बिल से एक ईमेल मिला है मुझे अभी इसका उत्तर देना है,email_sendemail,0.5267,0.5267,True
+16593,hi-IN,email,email_sendemail,उस अंतिम ईमेल का यथाशीघ्र उत्तर देने की आवश्यकता है,email_query,0.7113,0.2887,False
+16603,hi-IN,email,email_query,मां की ओर से तीस मिनट पहले भेजा गया ईमेल क्या कहता है,email_sendemail,0.863,0.137,False
+16605,hi-IN,email,email_sendemail,मेरे बॉस को ईमेल लिखें और भेजें,email_sendemail,1.0,1.0,True
+16609,hi-IN,email,email_query,मुझे बताओ कि मेरे पास कोई नया अपठित ईमेल है,email_sendemail,1.0,0.0,False
+16613,hi-IN,email,email_sendemail,बॉस को यह कहते हुए ईमेल भेजें कि मुझे देर हो जाएगी,email_sendemail,1.0,1.0,True
+16622,hi-IN,email,email_sendemail,इस संपर्क को एक ईमेल भेजें,email_sendemail,1.0,1.0,True
+16624,hi-IN,email,email_sendemail,मुझे अपनी सेवा के मुद्दों के बारे में जिओ को भेजे जाने के लिए एक ईमेल चाहिए,email_sendemail,1.0,1.0,True
+16627,hi-IN,email,email_query,सबसे वर्तमान ईमेल की जाँच करें,email_query,0.9999,0.9999,True
+16630,hi-IN,email,email_sendemail,अंतिम ईमेल का उत्तर भेजें,email_sendemail,0.9999,0.9999,True
+16642,hi-IN,email,email_query,सुरभि से किसी भी चीज़ के लिए मेल चेक करें,qa_factoid,0.7943,0.0055,False
+16648,hi-IN,email,email_query,कृपया मेरे लिए मेरे ईमेल देखें,email_sendemail,1.0,0.0,False
+16652,hi-IN,email,email_query,क्या बेन के ईमेल में अटैचमेंट है,email_sendemail,0.9942,0.0058,False
+16662,hi-IN,email,email_query,क्या मुझे दशरथ से कोई नया ईमेल प्राप्त हुआ है,email_sendemail,0.9995,0.0005,False
+16666,hi-IN,email,email_query,क्या मेरे पास कोई आने वाली ईमेल है,email_sendemail,1.0,0.0,False
+16668,hi-IN,email,email_query,क्या आज चार सौ से कोई ईमेल आया है,email_sendemail,1.0,0.0,False
+16669,hi-IN,email,email_query,क्या मुझे राम से एक ईमेल मिला,email_sendemail,1.0,0.0,False
+16672,hi-IN,email,email_query,क्या राज संपर्क में है,social_post,0.9893,0.0001,False
+16677,hi-IN,email,email_query,क्या आज मेरे इनबॉक्स में कोई मेरा नया ईमेल है,email_sendemail,0.6005,0.3995,False
+16698,hi-IN,email,email_sendemail,मेरी माँ के ईमेल का उत्तर लिखें,email_sendemail,0.7961,0.7961,True
+16701,hi-IN,email,email_sendemail,मैं अंजली के ईमेल का जवाब देना चाहूँगा,email_sendemail,0.7717,0.7717,True
+16703,hi-IN,email,email_sendemail,मैं सबसे हाल के ईमेल का जवाब देना चाहूँगा,email_sendemail,1.0,1.0,True
+16712,hi-IN,email,email_query,क्या मेरे पास कोई नया ईमेल है,email_sendemail,1.0,0.0,False
+16713,hi-IN,email,email_query,कृपया मेरे ईमेल जाँचें और अगर कोई भी नया ईमेल मौजूद है तो मुझे सूचित करें,email_sendemail,0.9603,0.0397,False
+16717,hi-IN,email,email_sendemail,क्या आप कृपया इमरान को यह कहते हुए ईमेल कर सकते हैं कि मैं छुट्टी पर हूँ,email_sendemail,1.0,1.0,True
+16719,hi-IN,email,email_query,मुझे कोई नया ईमेल मिला है उसके बारे में बताएं,email_sendemail,1.0,0.0,False
+16729,hi-IN,email,email_sendemail,प्रवीण से मेरे ईमेल का जवाब दें उन्हें बताएं कि मैं उनसे कल मिलूँगा,email_sendemail,0.6209,0.6209,True
+16730,hi-IN,email,email_query,कृपया रोहित से नया ईमेल देखें,email_sendemail,1.0,0.0,False
+16733,hi-IN,email,email_query,मुझे amazon से नवीनतम ईमेल दिखाओ,email_sendemail,1.0,0.0,False
+16749,hi-IN,email,email_query,क्या आज मेरे लिए उनका कोई नया ईमेल है,email_sendemail,1.0,0.0,False
+16754,hi-IN,email,email_sendemail,ईमेल निर्देशित करें,email_sendemail,1.0,1.0,True
+16758,hi-IN,email,email_query,पिछली बार से कोई नया ईमेल,email_sendemail,1.0,0.0,False
+16763,hi-IN,email,email_query,पिछले दस मिनट में ईमेल,email_sendemail,1.0,0.0,False
+16765,hi-IN,email,email_query,कल के ईमेल से साक्षात्कार का समय क्या है,email_sendemail,0.9999,0.0001,False
+16766,hi-IN,email,email_query,नया ईमेल जांचें,email_sendemail,1.0,0.0,False
+16772,hi-IN,email,email_query,उल्लंघन के संबंध में सभी ईमेल दिखाएं,email_sendemail,1.0,0.0,False
+16780,hi-IN,email,email_sendemail,रामकुमार एट जीमेल डॉट पर एक ईमेल भेजें,email_sendemail,1.0,1.0,True
+16791,hi-IN,email,email_sendemail,एक नया ईमेल लिखें लेकिन मुझे इस बार एक नया पता मिला ब्रैंडन एट एक्साम्पल डॉट कॉम,email_sendemail,0.9628,0.9628,True
+16799,hi-IN,email,email_query,क्या मुझे दोपहर के बाद से कोई ईमेल प्राप्त हुआ है,email_sendemail,1.0,0.0,False
+16801,hi-IN,email,email_query,क्या पूर्णिमा ने मुझे प्रकाश के बारे में कोई ईमेल भेजा है,email_sendemail,1.0,0.0,False
+16813,hi-IN,email,email_query,जब मुझे कृष्णा से ईमेल आए तो बीप करना,email_sendemail,0.7304,0.2696,False
+16814,hi-IN,email,email_query,ईमेल चेक करें,email_sendemail,1.0,0.0,False
+16838,hi-IN,email,email_sendemail,क्या आप नई ईमेल आईडी पर ईमेल भेज सकते हैं,email_sendemail,0.9962,0.9962,True
+16851,hi-IN,email,email_query,ईमेल सूचनाएं,email_sendemail,1.0,0.0,False
+16859,hi-IN,email,email_query,मैं अपने आखिरी ईमेल में दिव्या को क्या बताऊं,email_sendemail,0.9975,0.0025,False
+16872,hi-IN,email,email_sendemail,मेरे संपर्कों से सिद्धि ढूंढें और उसे एक ईमेल भेजें,email_sendemail,1.0,1.0,True
+16873,hi-IN,email,email_sendemail,उसके जन्मदिन के लिए सिद्धि को ईमेल करो,email_sendemail,1.0,1.0,True
+16880,hi-IN,email,email_sendemail,सोनम को बैठक के संबंध में ईमेल करो,email_sendemail,1.0,1.0,True
+16883,hi-IN,email,email_sendemail,राम को एक ईमेल भेजें पूछें कि वह आज रात किस समय घर आएगा,email_sendemail,1.0,1.0,True
+16886,hi-IN,email,email_sendemail,इस मेल का उत्तर दें,qa_factoid,0.9872,0.0003,False
+16888,hi-IN,email,email_query,नए मेल के बारे में क्या,recommendation_events,0.3021,0.2299,False
+16890,hi-IN,email,email_query,नया ईमेल क्या कहता है,email_sendemail,1.0,0.0,False
+16891,hi-IN,email,email_sendemail,राम सिंह को एक ईमेल भेजें,email_sendemail,1.0,1.0,True
+16892,hi-IN,email,email_sendemail,शुरू करें और रोहन को ईमेल भेजें,email_sendemail,1.0,1.0,True
+16899,hi-IN,email,email_query,क्या मुझे मोहित महाजन से कोई भी नए ईमेल आए हैं,email_sendemail,1.0,0.0,False
+16914,hi-IN,email,email_query,क्या मेरे पास इस प्रेषक के ईमेल हैं,email_sendemail,1.0,0.0,False
+16916,hi-IN,email,email_sendemail,हे एक मेल का उत्तर दें जो मुझे प्राप्त हुआ,iot_hue_lightoff,0.2283,0.0459,False
+16924,hi-IN,email,email_query,कृपया नए मेल के लिए मेरा जीमेल देखें,email_sendemail,0.6119,0.3881,False
+16930,hi-IN,email,email_query,नवीनतम ईमेल दिखाएं,email_sendemail,1.0,0.0,False
+16938,hi-IN,email,email_sendemail,ईशान ईमेल का जवाब दे दो,email_sendemail,1.0,1.0,True
+16944,hi-IN,email,email_sendemail,दादी को यह कहते हुए एक ईमेल भेजें कि हम शनिवार को जा रहे हैं फिर मिलते हैं,email_sendemail,1.0,1.0,True
+16947,hi-IN,email,email_sendemail,ईमेल उत्तर,email_sendemail,1.0,1.0,True
+16955,hi-IN,email,email_sendemail,नए संपर्क को ईमेल करें,email_sendemail,1.0,1.0,True
+16956,hi-IN,email,email_sendemail,नए संपर्क को ईमेल भेजें,email_sendemail,1.0,1.0,True
+16961,hi-IN,email,email_sendemail,के साथ प्रतिक्रिया,news_query,0.203,0.1522,False
+16974,hi-IN,email,email_query,कृपया आयकर विभाग के सभी नए ईमेल देखें,email_sendemail,1.0,0.0,False
+16987,hi-IN,email,email_query,रोहन से कोई भी नया ईमेल आया,email_sendemail,1.0,0.0,False
+16989,hi-IN,email,email_sendemail,कृपया राम द्वारा भेजे गए ईमेल में कहें कि मुझे पैसे चाहिए अब यह जरूरी है,email_sendemail,0.997,0.997,True
+16992,hi-IN,email,email_query,क्या राजू सिंह ने मुझे ईमेल किया है,email_sendemail,1.0,0.0,False
+16995,hi-IN,email,email_sendemail,सोनम को ईमेल भेजें,email_sendemail,1.0,1.0,True
+17005,hi-IN,email,email_query,नए ईमेल के बारे में चेक करो,email_query,0.9999,0.9999,True
+17011,hi-IN,email,email_sendemail,क्या आप ईमेल भेज सकते हैं,email_sendemail,1.0,1.0,True
+17015,hi-IN,email,email_sendemail,जवाब शुरू करें,qa_factoid,0.9998,0.0,False
+17019,hi-IN,email,email_sendemail,आखिरी ईमेल का उत्तर कंपोज़ करो,email_query,0.9999,0.0001,False
+17020,hi-IN,email,email_sendemail,पिछली बार प्राप्त ईमेल का जवाब दें,email_sendemail,1.0,1.0,True
+17023,hi-IN,email,email_sendemail,माँ को ईमेल करें और पूछें कि मौसम कैसा है,email_sendemail,1.0,1.0,True
+17042,hi-IN,email,email_sendemail,राम एट जीमेल डॉट कॉम पर एक ईमेल लिखें,email_sendemail,0.85,0.85,True
+17043,hi-IN,email,email_sendemail,tim at hotmail dot com पे ईमेल भेजो,email_sendemail,1.0,1.0,True
+17051,hi-IN,email,email_query,मुझे नया ईमेल प्राप्त करें,email_sendemail,1.0,0.0,False
+17052,hi-IN,email,email_query,ईमेल में माया खोजें,email_sendemail,1.0,0.0,False
+17069,hi-IN,email,email_query,क्या आउटलुक में कोई नए ईमेल्स हैं,email_sendemail,0.9963,0.0037,False
+17075,hi-IN,email,email_query,आज चार बजे के बाद कोई नया ईमेल प्राप्त हुआ है,email_sendemail,1.0,0.0,False
+17081,hi-IN,email,email_sendemail,मेरे हाल ही में सहेजे गए दस्तावेज़ों के साथ मेरी कंपनी के कर्मचारी के लिए एक ईमेल बनाएं,email_sendemail,1.0,1.0,True
+17087,hi-IN,email,email_query,मेरे लिए सानिया से प्राप्त नए ईमेल की जाँच करें,email_sendemail,0.9552,0.0448,False
+17098,hi-IN,email,email_query,मुझे पिछले घंटे में प्राप्त कोई भी ईमेल दिखाओ,email_sendemail,0.9998,0.0002,False
+17107,hi-IN,email,email_query,नया ट्वीट खोजो,social_post,0.9997,0.0,False
+17108,hi-IN,email,email_query,मुझे मेरा नवीनतम ईमेल दें,email_sendemail,1.0,0.0,False
+17113,hi-IN,email,email_sendemail,कविता को एक ईमेल लिखो,email_sendemail,1.0,1.0,True
+17115,hi-IN,email,email_query,नए ईमेल की सूची पढ़ें,email_query,0.5714,0.5714,True
+17116,hi-IN,email,email_query,हाल के ईमेल की सूची प्रदर्शित करें,email_sendemail,1.0,0.0,False
+17119,hi-IN,email,email_query,amazon से मेरे कोई भी मेल चेक करो,qa_factoid,0.9538,0.0003,False
+17123,hi-IN,email,email_sendemail,मेयर को ईमेल भेजो,email_sendemail,1.0,1.0,True
+17135,hi-IN,email,email_query,कोई भी प्रकाश समाचार ईमेल,email_sendemail,1.0,0.0,False
+17136,hi-IN,email,email_query,कृपया मेरे नए मेल पढ़ें,email_query,0.2651,0.2651,True
+17138,hi-IN,email,email_query,कृपया मेरे पढ़े गए संदेशों को संग्रहित करें,email_sendemail,1.0,0.0,False
+17142,hi-IN,email,email_query,पिछली बार देखने के बाद से मेरे इनबॉक्स में क्या है,email_query,0.4335,0.4335,True
+17143,hi-IN,email,email_sendemail,अरे रोहन को ईमेल भेजो,email_sendemail,1.0,1.0,True
+17144,hi-IN,email,email_query,अरे चेक ईमेल,email_sendemail,1.0,0.0,False
+17147,hi-IN,email,email_sendemail,मेल का जवाब दो इस कंटेंट से हैलो यू,email_sendemail,1.0,1.0,True
+17148,hi-IN,email,email_sendemail,alexa निम्नलिखित सामग्री के साथ मेल का जवाब दो हैलो यू,recommendation_events,0.0629,0.0468,False
+17151,hi-IN,email,email_sendemail,मेरे दोस्त रवि ने मुझे निमंत्रण पत्र भेजा है अपने नए घर के लिए उसे उसकी ईमेल आईडी पे थैंक्स कहो,email_sendemail,1.0,1.0,True
+17156,hi-IN,email,email_query,रोहन से किसी भी नए ईमेल के लिए मेरा ईमेल देखें,email_sendemail,1.0,0.0,False
+17157,hi-IN,email,email_query,क्या मेरे पास राम की ओर से कोई नया ईमेल है,email_sendemail,1.0,0.0,False
+17170,hi-IN,email,email_query,जब रामू का ईमेल आए तो मुझे बताना,email_sendemail,0.963,0.037,False
+17179,hi-IN,email,email_query,क्या सौम्य ने मुझे एक ईमेल भेजा है,email_sendemail,1.0,0.0,False

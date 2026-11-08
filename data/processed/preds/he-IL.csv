@@ -1,0 +1,1906 @@
+id,locale,scenario,intent,utt,pred,confidence,p_true,correct
+19,he-IL,iot,iot_hue_lightoff,אולי כבה את האורות בחדר השינה,qa_factoid,0.8886,0.0598,False
+47,he-IL,datetime,datetime_query,מה השעה באוסטרליה,weather_query,0.9984,0.0002,False
+85,he-IL,datetime,datetime_query,תגיד לי את התאריך של היום,datetime_query,0.95,0.95,True
+86,he-IL,datetime,datetime_query,מה התאריך היום,datetime_query,0.9771,0.9771,True
+100,he-IL,weather,weather_query,מה התחזית של השבוע,news_query,0.3205,0.0253,False
+102,he-IL,weather,weather_query,מה מזג האוויר השבוע,weather_query,0.9983,0.9983,True
+103,he-IL,weather,weather_query,תגיד לי את מזג האוויר השבוע,weather_query,0.9992,0.9992,True
+128,he-IL,datetime,datetime_query,מה התאריך,datetime_query,0.998,0.998,True
+151,he-IL,play,play_music,נגן את זה שוב בבקשה,iot_hue_lightoff,0.7346,0.0054,False
+177,he-IL,news,news_query,ספרי לי על חדשות בכלכלה,recommendation_events,0.2087,0.0268,False
+178,he-IL,news,news_query,ספרי לי חדשות מהעולם,play_podcasts,0.9628,0.0263,False
+182,he-IL,play,play_music,נגן את פלייליסט המזרחית שלי,play_music,0.9883,0.9883,True
+185,he-IL,play,play_music,הדלק את הפלייליסט שלי ונגן את השיר השלישי בתור,play_music,0.9999,0.9999,True
+197,he-IL,datetime,datetime_query,מה השעה,weather_query,0.995,0.0022,False
+216,he-IL,weather,weather_query,איך מזג האוויר היום,weather_query,0.9962,0.9962,True
+219,he-IL,weather,weather_query,כדאי לי להביא מטריה מחר,qa_factoid,0.2437,0.0259,False
+220,he-IL,play,play_music,נגן מוסיקה מרשימת הרוק שלי,play_music,1.0,1.0,True
+250,he-IL,play,play_music,אני מרגיש ג'ז בערך עכשיו מה איתך,iot_hue_lightoff,0.6857,0.0044,False
+254,he-IL,play,play_music,אולי נגן קטע טוב מנגן הג'אז המועדף עליי,play_music,0.92,0.92,True
+279,he-IL,weather,weather_query,מה התחזית להיום בדימונה,social_post,0.5629,0.0106,False
+281,he-IL,news,news_query,מה שער ההמרה של דולר אמריקאי ללירה שטרלינג,qa_factoid,0.9595,0.0024,False
+296,he-IL,play,play_music,נגן את רשימת ההשמעה של נירוונה,play_music,0.6195,0.6195,True
+297,he-IL,play,play_music,ערבב שירים של אייל גולן,play_music,0.9998,0.9998,True
+299,he-IL,weather,weather_query,מה מצב מזג האוויר,weather_query,0.979,0.979,True
+310,he-IL,datetime,datetime_query,באיזה יום הסילבסטר השנה,weather_query,0.8942,0.0591,False
+319,he-IL,weather,weather_query,תגיד לי מה מזג האוויר בתל אביב יומיים מעכשיו,weather_query,0.9996,0.9996,True
+329,he-IL,play,play_music,שני משוגעים,iot_hue_lightoff,0.4257,0.0155,False
+333,he-IL,weather,weather_query,מה תנאי מזג האויר ביבנה,weather_query,0.9914,0.9914,True
+334,he-IL,weather,weather_query,הלוואי שהייתי יודעת מה מזג האוויר בתל אביב,weather_query,0.9882,0.9882,True
+344,he-IL,weather,weather_query,האם מחר יהיה גשום,weather_query,0.9998,0.9998,True
+348,he-IL,weather,weather_query,האם ירד גשם מחר,weather_query,0.9993,0.9993,True
+355,he-IL,datetime,datetime_query,איזה יום בשבוע זה הראשון באפריל,weather_query,0.9873,0.004,False
+360,he-IL,datetime,datetime_query,מה השעה הנוכחית,weather_query,0.9986,0.0001,False
+362,he-IL,play,play_music,נגן את השיר השני של שיר של היי פייב,play_music,0.9999,0.9999,True
+366,he-IL,news,news_query,תגיד לי את החדשות האחרונות בבקשה,news_query,0.9982,0.9982,True
+369,he-IL,iot,iot_hue_lightoff,כבה את האורות,qa_factoid,0.7838,0.0063,False
+385,he-IL,news,news_query,מה החדשות המרעישות בידיעות אחרונות,news_query,0.9992,0.9992,True
+391,he-IL,play,play_music,נגן שיר אקראי מהפלייליסט שלי,play_music,1.0,1.0,True
+393,he-IL,play,play_music,נגן שיר רטרו בפלייליסט שלי,play_music,1.0,1.0,True
+397,he-IL,play,play_music,נגן כל שיר של אייל גולן,play_music,1.0,1.0,True
+400,he-IL,play,play_music,תתחילי לנגן,play_music,0.95,0.95,True
+407,he-IL,play,play_music,תוכל לנגן מוזיקת רוק במשך השעה הקרובה,play_music,0.9998,0.9998,True
+424,he-IL,news,news_query,מה החדשות המתפרצות,news_query,0.9785,0.9785,True
+427,he-IL,iot,iot_hue_lightoff,תכבי את האורות באמבטיה,cooking_recipe,0.9403,0.0044,False
+428,he-IL,iot,iot_hue_lightoff,כבה את האורות בשירותים,qa_factoid,0.7636,0.0679,False
+430,he-IL,weather,weather_query,איך מזג האוויר עכשיו,weather_query,0.9914,0.9914,True
+437,he-IL,play,play_music,תפתחי תיקייה אביטר בנאי,qa_factoid,0.3516,0.0238,False
+441,he-IL,news,news_query,מה כותרות החדשות האחרונות,lists_query,0.9906,0.0029,False
+442,he-IL,news,news_query,מה קורה בחדשות,news_query,0.9753,0.9753,True
+451,he-IL,news,news_query,תשיג לי את מחיר המניה של תל אביב טק העדכני ביותר,recommendation_events,0.8189,0.0065,False
+473,he-IL,play,play_music,נגן את לא תנצחו אותי,qa_factoid,0.9957,0.0024,False
+486,he-IL,datetime,datetime_query,מה השעה בניו יורק,weather_query,0.9986,0.0002,False
+491,he-IL,weather,weather_query,קר בחוץ,weather_query,0.2564,0.2564,True
+506,he-IL,play,play_music,תפתח שירים של שלומי שבת,play_music,0.9995,0.9995,True
+512,he-IL,weather,weather_query,על ידי קבלת סימנים,qa_factoid,0.899,0.002,False
+540,he-IL,play,play_music,תנגן את באסה סבבה של נטע ברזילאי,play_music,0.9998,0.9998,True
+555,he-IL,play,play_music,נגן רכבת לילה לקהיר של משינה,transport_query,0.8064,0.0082,False
+576,he-IL,play,play_music,נגן את כל הפלייליסט,play_music,0.7868,0.7868,True
+585,he-IL,news,news_query,תציגי את החדשות האחרונות,play_podcasts,0.957,0.0413,False
+588,he-IL,news,news_query,מה חדש בחדשות היום,news_query,0.9988,0.9988,True
+590,he-IL,weather,weather_query,מה מזג האוויר הנוכחי,weather_query,0.9989,0.9989,True
+614,he-IL,play,play_music,התחל פלייליסט,qa_factoid,0.9699,0.0004,False
+625,he-IL,play,play_music,בבקשה נגן שיר רדיו רמאללה,social_post,0.5215,0.4011,False
+631,he-IL,news,news_query,תגדירי התראה לחדשות על המוביל הארצי,social_post,0.6582,0.1525,False
+651,he-IL,iot,iot_hue_lightoff,כבי את אורות החדר,iot_hue_lightoff,0.8298,0.8298,True
+660,he-IL,datetime,datetime_query,השעה הנוכחית ביפן,weather_query,0.9985,0.0001,False
+680,he-IL,news,news_query,תמשיכי לעדכן אותי על מחיר הביטקוין,qa_factoid,0.1764,0.037,False
+686,he-IL,datetime,datetime_query,מה השעה כרגע באשדוד,weather_query,0.9987,0.0001,False
+712,he-IL,news,news_query,אני רוצא לשמוע את חדשות האחרונות מרדיו חיפה,play_podcasts,1.0,0.0,False
+726,he-IL,weather,weather_query,תסכמי פרטי מזג האוויר של השבוע,weather_query,0.8526,0.8526,True
+730,he-IL,iot,iot_hue_lightoff,כבה את האורות,qa_factoid,0.7838,0.0063,False
+738,he-IL,weather,weather_query,כמה קר היום בחוץ,weather_query,0.9841,0.9841,True
+764,he-IL,weather,weather_query,מה תחזית מזג האוויר לשבוע,weather_query,0.9102,0.9102,True
+765,he-IL,news,news_query,תוכלי לתת לי בבקשה את הכותרות הראשיות מהספק הכי חדש,qa_factoid,0.8622,0.0018,False
+767,he-IL,news,news_query,אתה יכול בבקשה למצוא לי את החדשות העדכניות ממקור שאני לא הולך אליו בדרך כלל,news_query,0.699,0.699,True
+768,he-IL,news,news_query,מה החדשות האחרונות בנושא פוליטיקה,news_query,0.9983,0.9983,True
+779,he-IL,play,play_music,אני רוצה לשמוע בדד של זוהר ארגוב,play_podcasts,0.4716,0.0425,False
+781,he-IL,play,play_music,נגן שני משוגעים,play_music,0.2978,0.2978,True
+782,he-IL,play,play_music,נגן שני משוגעים של עומר אדם,social_post,0.7241,0.0104,False
+783,he-IL,play,play_music,נגן שירי אהבה,email_query,0.7706,0.0279,False
+790,he-IL,weather,weather_query,מזג האוויר רגוע או סוער,weather_query,0.9936,0.9936,True
+826,he-IL,weather,weather_query,מה הטמפרטורה הנוכחית בחוץ,weather_query,0.9858,0.9858,True
+827,he-IL,play,play_music,נגן פלייליסט מאיר אריאל,play_music,0.4268,0.4268,True
+832,he-IL,weather,weather_query,היי מה מזג האוויר הצפוי מחר,weather_query,0.9992,0.9992,True
+837,he-IL,news,news_query,מה התחזיות של מדגם כאן אחת עשרה לבחירות הקרובות לכנסת,qa_factoid,0.2032,0.0385,False
+891,he-IL,play,play_music,נגן קצת מוזיקה חסידית,play_music,0.9999,0.9999,True
+914,he-IL,iot,iot_hue_lightoff,כבה אורות בבקשה,qa_factoid,0.997,0.0019,False
+936,he-IL,play,play_music,פתח ונגן מוזיקה מפלייליסט ג'וגינג שלי,play_music,0.9995,0.9995,True
+951,he-IL,weather,weather_query,מה מזג האוויר עכשיו באשדוד,weather_query,0.9988,0.9988,True
+969,he-IL,news,news_query,כתבות חדשות על הנושא הספציפי,news_query,0.9982,0.9982,True
+974,he-IL,datetime,datetime_query,מהי השעה באשקלון עכשיו,weather_query,0.9996,0.0,False
+997,he-IL,iot,iot_hue_lightoff,כבה את האור של הסלון,iot_hue_lightoff,0.9039,0.9039,True
+999,he-IL,iot,iot_hue_lightoff,אתה יכול לכבות את האור,qa_factoid,0.9995,0.0001,False
+1007,he-IL,play,play_music,נגן תיסלם מרשימת ההשמעה רוק שלי,play_music,0.9998,0.9998,True
+1014,he-IL,datetime,datetime_query,מה השעה בלונדון עכשיו,weather_query,0.9993,0.0,False
+1047,he-IL,play,play_music,אני זקוקה לבכי טוב נגן לי שירי רוק עצובים,play_music,0.9948,0.9948,True
+1061,he-IL,news,news_query,עדכן אותי בחדשות הספורט,news_query,0.9166,0.9166,True
+1063,he-IL,news,news_query,תתריאי אחת לשעה על חדשות הספורט,play_podcasts,0.4147,0.0378,False
+1084,he-IL,news,news_query,ידידותי למשתמש,qa_factoid,0.8706,0.0019,False
+1093,he-IL,news,news_query,לכי לאתר ידיעות אחרונות,news_query,0.8262,0.8262,True
+1098,he-IL,datetime,datetime_query,איזה יום בשבוע החמישה עשר במרץ יוצא,weather_query,0.7914,0.1088,False
+1108,he-IL,play,play_music,התשוקה שלי היא לשמוע קצת מוזיקת קאנטרי,qa_factoid,0.567,0.3899,False
+1115,he-IL,play,play_music,תתאם כל שירים בז'נר פופ,play_podcasts,0.6437,0.2354,False
+1120,he-IL,news,news_query,יש משהו מיוחד בפוליטיקה,qa_definition,0.6574,0.003,False
+1121,he-IL,play,play_music,נגן מלאך שטן של זוהר ארגוב,play_music,0.9833,0.9833,True
+1123,he-IL,play,play_music,השמעה הבאה רוזה של יורם גאון,play_music,0.8379,0.8379,True
+1124,he-IL,play,play_music,הכן מרגול אבק דרכים להשמעה הבאה,iot_hue_lightoff,0.9148,0.0033,False
+1127,he-IL,play,play_music,נגן כל השירים מתוך ערבב,play_music,1.0,1.0,True
+1144,he-IL,play,play_music,אני צריכה קצת ראפ,qa_factoid,0.4306,0.0088,False
+1148,he-IL,datetime,datetime_query,מה השעה בסידני עכשיו,weather_query,0.999,0.0001,False
+1156,he-IL,news,news_query,חדשות אחרונות על יום האישה הבינלאומי,news_query,0.9753,0.9753,True
+1160,he-IL,weather,weather_query,כמה קר יהיה בכל לילה השבוע,weather_query,0.9994,0.9994,True
+1180,he-IL,news,news_query,תמצאי כתבות של היום מידיעות אחרונות על ליברמן,news_query,0.9976,0.9976,True
+1202,he-IL,datetime,datetime_query,זמן נוכחי בניו יורק,iot_hue_lightoff,0.7589,0.0062,False
+1238,he-IL,play,play_music,פנדורה,qa_factoid,0.9819,0.0001,False
+1249,he-IL,weather,weather_query,איך אמור להיות מזג האוויר השבוע,weather_query,0.9889,0.9889,True
+1252,he-IL,datetime,datetime_query,תגיד לי את השעה כרגע,weather_query,0.995,0.0003,False
+1294,he-IL,news,news_query,עדכן אותי לגבי החדשות מפרסי האקדמיה,news_query,0.9909,0.9909,True
+1301,he-IL,news,news_query,ספר לי על מדיניות החוץ החדשה של טראמפ,cooking_recipe,0.2224,0.039,False
+1308,he-IL,weather,weather_query,תשיג את תחזית מזג האוויר של היום כאן,weather_query,0.9774,0.9774,True
+1318,he-IL,play,play_music,התחל אפליקציית מוזיקה ונגן שיר בשבילי,play_music,1.0,1.0,True
+1351,he-IL,weather,weather_query,יהיה נחמד בחוץ השבוע,weather_query,0.3478,0.3478,True
+1371,he-IL,news,news_query,מה יש בעמוד הראשי של ידיעות אחרונות,email_query,0.6219,0.3193,False
+1377,he-IL,iot,iot_hue_lightoff,כבה את האור בחדר של הבן שלי בבקשה,iot_hue_lightoff,0.8834,0.8834,True
+1400,he-IL,weather,weather_query,אני בדרך כלל שם לב,qa_factoid,0.9485,0.0006,False
+1401,he-IL,weather,weather_query,אני לעיתים שם לב,qa_factoid,0.9979,0.0,False
+1404,he-IL,weather,weather_query,בבקשה תני לי את תחזית מזג האוויר למחר פה בחיפה,weather_query,0.9902,0.9902,True
+1423,he-IL,news,news_query,ספרי לי על בנט,qa_definition,0.2249,0.0566,False
+1425,he-IL,news,news_query,עדכן אותי כשאתה שומע על צרפת,social_post,0.9857,0.0008,False
+1440,he-IL,play,play_music,נגן את שירי הרוק החדשים עם דרוג של ארבע ומעלה,play_music,0.9993,0.9993,True
+1449,he-IL,datetime,datetime_query,מתי חג הפסחא בשנה אלפיים ושמונה עשרה,weather_query,0.9472,0.0092,False
+1458,he-IL,weather,weather_query,כמה חם באשדוד,weather_query,0.9979,0.9979,True
+1467,he-IL,play,play_music,נגן איציק קלה,social_post,0.9608,0.0005,False
+1474,he-IL,news,news_query,מה חדשות הספורט של היום,news_query,0.9968,0.9968,True
+1489,he-IL,play,play_music,נגן שירים אחרונים של עומר אדם,play_music,0.9938,0.9938,True
+1513,he-IL,weather,weather_query,מה הטמפרטורה בחוץ,weather_query,0.9833,0.9833,True
+1533,he-IL,news,news_query,מה החדשות שהיו היום בידיעות אחרונות,news_query,0.9995,0.9995,True
+1537,he-IL,datetime,datetime_query,הראה לי את השעה הנוכחית בגרמניה,weather_query,0.9995,0.0,False
+1542,he-IL,weather,weather_query,השמש מאירה חזק יהיה לנו את מזג האוויר הזה לכל שאר היום,weather_query,0.8146,0.8146,True
+1546,he-IL,play,play_music,נגני את פלייליסט להיטי קיץ,play_music,0.9675,0.9675,True
+1547,he-IL,weather,weather_query,מה מזג האוויר למיקום שלי השבוע,weather_query,0.9991,0.9991,True
+1549,he-IL,weather,weather_query,צריך לרדת גשם השבוע,weather_query,0.9504,0.9504,True
+1554,he-IL,iot,iot_hue_lightoff,כבה את המנורות,cooking_recipe,0.7116,0.0092,False
+1581,he-IL,datetime,datetime_query,מהו היום החודש והשנה הנוכחיים,datetime_query,0.9951,0.9951,True
+1589,he-IL,weather,weather_query,האם יהיה שמשי ביום שלישי הבא,weather_query,0.9908,0.9908,True
+1593,he-IL,news,news_query,תגדירי התראה לחדשות מהעולם,social_post,0.703,0.0693,False
+1594,he-IL,news,news_query,את יכולה להגיד לי את החדשות האחרונות,news_query,0.9989,0.9989,True
+1607,he-IL,datetime,datetime_query,תגיד לי את השעה הנוכחית בירושלים,weather_query,0.9998,0.0,False
+1617,he-IL,news,news_query,עדכן אותי ברגע שיש חדשות בנושא פוליטיקה,news_query,0.9942,0.9942,True
+1636,he-IL,news,news_query,הראה לי את החדשות האחרונות של ידיעות אחרונות,news_query,0.9939,0.9939,True
+1653,he-IL,weather,weather_query,מתי ירד גשם בפעם הבאה,weather_query,0.9973,0.9973,True
+1655,he-IL,weather,weather_query,ירד שלג מחר בצהריים,weather_query,0.958,0.958,True
+1666,he-IL,news,news_query,וואלה חדשות בשש השעות האחרונות עדכנו ש,news_query,0.5475,0.5475,True
+1671,he-IL,play,play_music,נגן רק את המוזיקה שיצאה בין השנים אלף תשע מאות תשעים לאלפיים,play_music,1.0,1.0,True
+1683,he-IL,weather,weather_query,הטמפרטורה מחר חמה או לא,weather_query,0.9981,0.9981,True
+1684,he-IL,weather,weather_query,הטמפרטורה של מחר אמורה להיות חמה כן או לא,weather_query,0.9989,0.9989,True
+1692,he-IL,play,play_music,תמצא קצת ג'אז רך בשבילי,play_music,0.9994,0.9994,True
+1722,he-IL,weather,weather_query,מהי הטמפרטורה המינימאלית בתל אביב,weather_query,0.9842,0.9842,True
+1750,he-IL,iot,iot_hue_lightoff,כבה את כל האורות,qa_factoid,0.9854,0.0075,False
+1759,he-IL,news,news_query,תני לי עדכון חדשות על הנשיא טראמפ,news_query,0.8136,0.8136,True
+1760,he-IL,news,news_query,החדשות האחרונות בנושא טרור,news_query,0.9983,0.9983,True
+1777,he-IL,play,play_music,השיר הבא,play_music,0.894,0.894,True
+1784,he-IL,iot,iot_hue_lightoff,תכבי בפינת אוכל,cooking_recipe,0.9981,0.0001,False
+1786,he-IL,iot,iot_hue_lightoff,כבי את חדר השינה הראשי,qa_definition,0.3738,0.1041,False
+1794,he-IL,news,news_query,האם טראמפ יבקר ברוסיה בקרוב,qa_factoid,0.993,0.0001,False
+1796,he-IL,datetime,datetime_query,תאריך היום,datetime_query,0.9737,0.9737,True
+1803,he-IL,news,news_query,איזה קבוצות משחקות היום בליגה האנגלית,qa_factoid,0.8164,0.0077,False
+1811,he-IL,play,play_music,התחל פלייליסט ונגן מוסיקה,play_music,0.9999,0.9999,True
+1832,he-IL,play,play_music,נגן אלבום של משינה,play_music,0.9999,0.9999,True
+1833,he-IL,play,play_music,תוכל לשים שוב ושוב פלייליסט נושאים,lists_remove,0.3677,0.0099,False
+1866,he-IL,weather,weather_query,דוח מזג אוויר עכשיו,weather_query,0.9325,0.9325,True
+1870,he-IL,datetime,datetime_query,איזה חודש היום,datetime_query,0.9885,0.9885,True
+1904,he-IL,news,news_query,עדכן אותי על אירועי המשחק,email_sendemail,0.5651,0.0224,False
+1933,he-IL,weather,weather_query,האם תהיה ירידה בטמפרטורה הלילה,weather_query,0.9833,0.9833,True
+1940,he-IL,play,play_music,נגן את שם השיר,play_music,1.0,1.0,True
+1962,he-IL,play,play_music,היי גוגל נגן לי הפלייליסט משוגע משוגע באפליקציה gaana שלי,social_post,0.997,0.0001,False
+1994,he-IL,play,play_music,תוכל לפתוח את ה itunes שלי,iot_hue_lightoff,0.9829,0.0001,False
+1995,he-IL,play,play_music,נגן את החיפושיות,iot_hue_lightoff,0.5188,0.0074,False
+2007,he-IL,play,play_music,בבקשה נגן שני משוגעים,social_post,0.8303,0.0056,False
+2062,he-IL,play,play_music,אני רוצה קצת מוזיקת ג'אז שתישמע,play_music,0.9999,0.9999,True
+2085,he-IL,play,play_music,אלכסה אשמח לשמוע כל מוזיקה קלאסית למעט בטהובן או מוצארט,play_music,0.997,0.997,True
+2098,he-IL,news,news_query,מה קורה בעולם בימים אלה,weather_query,0.6536,0.0996,False
+2108,he-IL,play,play_music,הבא שנגן שני משוגעים,social_post,0.8627,0.054,False
+2113,he-IL,recommendation,recommendation_events,ספרי לי על כל האירועים שמתקיימים בעיר שלי,lists_query,0.31,0.0341,False
+2146,he-IL,datetime,datetime_query,מה תאריך אמצע החורף שנתיים מעכשיו,qa_factoid,0.808,0.0284,False
+2156,he-IL,datetime,datetime_query,אני צריך לדעת מה השעה עכשיו,weather_query,0.9997,0.0,False
+2160,he-IL,iot,iot_hue_lightoff,אני הולך לישון עכשיו,cooking_recipe,0.4451,0.0482,False
+2178,he-IL,weather,weather_query,מה מצב מזג האוויר במקום שלי,weather_query,0.9969,0.9969,True
+2198,he-IL,datetime,datetime_query,איזה יום בשבוע היה הארבעה בדצמבר אלף תשע מאות שמונים ושתים,datetime_query,0.8685,0.8685,True
+2201,he-IL,news,news_query,כותרות כאן אחת עשרה,qa_factoid,0.9852,0.001,False
+2203,he-IL,news,news_query,חדשות שתים עשרה כותרות,lists_remove,0.6321,0.002,False
+2220,he-IL,weather,weather_query,מזג האוויר בירושלים,iot_hue_lightoff,0.5571,0.2909,False
+2225,he-IL,play,play_music,נגן דפוק עם תעודות אייל גולן,email_query,0.683,0.0127,False
+2230,he-IL,iot,iot_hue_lightoff,כבה את אור המטבח,cooking_recipe,0.9981,0.0017,False
+2237,he-IL,news,news_query,תקריא לי חדשות בינלאומיות חדשות,news_query,0.7755,0.7755,True
+2258,he-IL,weather,weather_query,האם אני צריך סוודר היום,iot_hue_lightoff,0.9993,0.0,False
+2265,he-IL,weather,weather_query,תגיד לי איך מזג האוויר בצפת עכשיו,weather_query,0.9998,0.9998,True
+2271,he-IL,play,play_music,בקשה נגן שירים שרכשתי והעדפתי,play_music,0.9337,0.9337,True
+2296,he-IL,news,news_query,תעדכני אותי בתוצאות הכדורסל של היום,news_query,0.3716,0.3716,True
+2298,he-IL,iot,iot_hue_lightoff,כבה את האורות עכשיו,qa_factoid,0.2865,0.2488,False
+2315,he-IL,news,news_query,מה החדשות היום,news_query,0.9996,0.9996,True
+2316,he-IL,news,news_query,אלכסה תני לי את כותרות החדשות,lists_remove,0.9689,0.0012,False
+2320,he-IL,weather,weather_query,מה מזג האוויר ביום שישי,weather_query,0.9992,0.9992,True
+2322,he-IL,weather,weather_query,מה מזג האוויר מחר,weather_query,0.9988,0.9988,True
+2330,he-IL,datetime,datetime_query,הצג את הזמן המקומי של לונדון כרגע,weather_query,0.4331,0.017,False
+2384,he-IL,news,news_query,מה קורה ברחבי העולם,social_post,0.8363,0.0183,False
+2386,he-IL,news,news_query,תני לי את החדשות האחרונות,news_query,0.9983,0.9983,True
+2396,he-IL,play,play_music,תתחיל את השירים של שרית חדד,play_music,1.0,1.0,True
+2408,he-IL,play,play_music,חפש עוד שירים של משינה,play_music,0.407,0.407,True
+2412,he-IL,datetime,datetime_query,תוכל להגיד לי את הזמן בתל אביב,weather_query,0.8539,0.0064,False
+2423,he-IL,weather,weather_query,בבקשה תתני לי את התחזית של היום לתל אביב,transport_query,0.6003,0.0764,False
+2438,he-IL,news,news_query,שלח חדשות טכנולוגיה,news_query,0.9674,0.9674,True
+2441,he-IL,iot,iot_hue_lightoff,כבה את האור סככה,iot_hue_lightoff,0.9506,0.9506,True
+2472,he-IL,datetime,datetime_query,האם השעה במקום שבו אני נמצא היא נכונה,weather_query,0.9995,0.0,False
+2496,he-IL,news,news_query,חדשות יומיות,news_query,0.7746,0.7746,True
+2497,he-IL,datetime,datetime_query,מה התאריך היום,datetime_query,0.9771,0.9771,True
+2498,he-IL,datetime,datetime_query,סירי היום מה התאריך,datetime_query,0.9756,0.9756,True
+2527,he-IL,play,play_music,נגן רוק קלאסי,social_post,0.9474,0.0085,False
+2531,he-IL,play,play_music,אלקסה נגני לי שיר ראפ ורוק אחד אחרי השני,play_music,0.9949,0.9949,True
+2545,he-IL,weather,weather_query,איך מזג האוויר,weather_query,0.9784,0.9784,True
+2548,he-IL,news,news_query,משהו מעניין מעיתון הארץ,news_query,0.9552,0.9552,True
+2560,he-IL,play,play_music,נגן מוזיקה אקראית,play_music,0.9998,0.9998,True
+2573,he-IL,play,play_music,תנגן את פליילסיט דאנס של ספוטיפיי שלי,play_music,0.9994,0.9994,True
+2578,he-IL,iot,iot_hue_lightoff,כבה את האור במרפסת,iot_hue_lightoff,0.8099,0.8099,True
+2588,he-IL,news,news_query,מה החדשות האחרונות של כאן אחת עשרה,news_query,0.9988,0.9988,True
+2594,he-IL,news,news_query,ספר לי על החדשות הסביבתיות האחרונות,news_query,0.9978,0.9978,True
+2605,he-IL,play,play_music,נגן את המוזיקה המועדפת שלי עכשיו,play_music,0.9998,0.9998,True
+2611,he-IL,weather,weather_query,תחזית מזג האוויר הנוכחית,weather_query,0.6094,0.6094,True
+2615,he-IL,weather,weather_query,אני אצטרך ללבוש ג'קט ביום רביעי הבא,iot_hue_lightoff,0.6831,0.0055,False
+2638,he-IL,news,news_query,הראה לי חדשות על ביבי,news_query,0.9618,0.9618,True
+2639,he-IL,news,news_query,הראה לי חדשות על הסביבה,news_query,0.9883,0.9883,True
+2651,he-IL,news,news_query,החדשות האחרונות מהאזור,news_query,0.9972,0.9972,True
+2678,he-IL,weather,weather_query,יורד גשם הלילה,weather_query,0.9976,0.9976,True
+2679,he-IL,weather,weather_query,הטמפרטורה תישאר בערך ככה או שיהיה קר יותר,weather_query,0.9811,0.9811,True
+2703,he-IL,play,play_music,בבקשה נגן קצת מוזיקת פולק,play_music,0.8633,0.8633,True
+2704,he-IL,play,play_music,הבה נשמע קצת מזרחית או קי,weather_query,0.9847,0.0,False
+2708,he-IL,play,play_music,אולי בא לי לרקוד נגן לי קצת רוק אנד רול,play_music,0.9999,0.9999,True
+2709,he-IL,play,play_music,אולי אני צריכה לשמוע קצת שירים עצובים היום,play_music,0.9998,0.9998,True
+2711,he-IL,iot,iot_hue_lightoff,כבה את האורות,qa_factoid,0.7838,0.0063,False
+2717,he-IL,play,play_music,אני רוצה לשמוע שני משוגעים,cooking_recipe,0.7286,0.2298,False
+2724,he-IL,news,news_query,תני לי חדשות מידיעות אחרונות,lists_remove,0.7052,0.1837,False
+2770,he-IL,play,play_music,אולי נגני מוזיקה מהז'נר ג'ז,play_music,0.992,0.992,True
+2774,he-IL,iot,iot_hue_lightoff,כבה אורות,qa_factoid,0.9799,0.0185,False
+2775,he-IL,iot,iot_hue_lightoff,הפסק שימוש באורות,iot_hue_lightoff,0.2994,0.2994,True
+2777,he-IL,weather,weather_query,אני צריך לקחת היום מטריה,transport_query,0.5131,0.0865,False
+2781,he-IL,play,play_music,בבקשה תנגני מוזיקת ג'אז,play_music,1.0,1.0,True
+2798,he-IL,play,play_music,אלכסה נגני את השיר חורף באוטו,play_music,0.9341,0.9341,True
+2801,he-IL,datetime,datetime_query,מה השעה בלונדון,weather_query,0.999,0.0001,False
+2824,he-IL,datetime,datetime_query,אזיזה יום זה השלוש עשרה בדצמבר,weather_query,0.9983,0.0002,False
+2840,he-IL,datetime,datetime_query,יום הבוחר יוצא באיזה יום,weather_query,0.6548,0.0051,False
+2859,he-IL,datetime,datetime_query,אולי מה השעה בעיר הזאת,weather_query,0.9994,0.0,False
+2887,he-IL,news,news_query,תראי לי מאמרים קשורים למזג האוויר בחדשות הבוקר,weather_query,0.5256,0.0133,False
+2890,he-IL,weather,weather_query,מזג האוויר הנוכחי,weather_query,0.9085,0.9085,True
+2898,he-IL,news,news_query,האם יש איזשהם עדכונים בנוגע לבחירות,email_query,0.615,0.0239,False
+2914,he-IL,datetime,datetime_query,אמור לי מה התאריך היום,datetime_query,0.9803,0.9803,True
+2917,he-IL,weather,weather_query,תחזית שבועית,iot_hue_lightoff,0.6545,0.0164,False
+2921,he-IL,news,news_query,מה הם החדשות באתר ידיעות אחרונות,news_query,0.995,0.995,True
+2927,he-IL,datetime,datetime_query,מה השעה באשדוד,weather_query,0.9994,0.0001,False
+2931,he-IL,play,play_music,נגני את שני משוגעים בהמשך,play_music,0.4278,0.4278,True
+2962,he-IL,play,play_music,בבקשה נגן שיר של מאיר אריאל,play_music,0.488,0.488,True
+2965,he-IL,iot,iot_hue_lightoff,כבה את האורות המשרד,cooking_recipe,0.9154,0.0154,False
+3002,he-IL,play,play_music,נגן שירים של להקת טיפקס,play_music,0.9997,0.9997,True
+3031,he-IL,play,play_music,אני רוצה לנגן את השיר שוב,play_music,1.0,1.0,True
+3034,he-IL,weather,weather_query,תגיד לי את הטמפרטורה,weather_query,0.3655,0.3655,True
+3037,he-IL,news,news_query,כתבות דף ראשי בבקשה,lists_remove,0.9687,0.0006,False
+3039,he-IL,news,news_query,מה חדש בחדשות,news_query,0.9979,0.9979,True
+3060,he-IL,news,news_query,מה החדשות בוואלה,news_query,0.9982,0.9982,True
+3091,he-IL,datetime,datetime_query,מה השעה בזמן ישראלי סטנדרטי,weather_query,0.9992,0.0003,False
+3096,he-IL,weather,weather_query,איך מזג האוויר בישראל,weather_query,0.9984,0.9984,True
+3098,he-IL,iot,iot_hue_lightoff,תכבה את האורות,cooking_recipe,0.782,0.0695,False
+3099,he-IL,news,news_query,תראה לי כמה אירועים אקטואליים,social_post,0.374,0.0131,False
+3101,he-IL,news,news_query,הולי תדליקי חדשות,recommendation_events,0.7912,0.046,False
+3116,he-IL,play,play_music,נגן את השיר האהוב עליי משנה שעברה,play_music,1.0,1.0,True
+3117,he-IL,play,play_music,נגני משהו של דוד אלבום תקוות ופחדים,social_post,0.9954,0.0003,False
+3118,he-IL,datetime,datetime_query,מה הזמן מזרחי סטנדרטי עכשיו,qa_factoid,0.6526,0.0044,False
+3124,he-IL,play,play_music,נגן לי שיר אקראי מהפלייליסט שלי,play_music,1.0,1.0,True
+3146,he-IL,play,play_music,נגן שיר מספר אחת מהפלייליסט שלי של אייל גולן,play_music,0.9999,0.9999,True
+3167,he-IL,iot,iot_hue_lightoff,כבה את האורות בחדר שינה שלי,iot_hue_lightoff,0.5304,0.5304,True
+3174,he-IL,play,play_music,נגן פלייליסט מוזיקה,play_music,0.9618,0.9618,True
+3205,he-IL,play,play_music,נגן ימים של קיץ של עיליי בוטנר,play_music,0.8573,0.8573,True
+3207,he-IL,play,play_music,תזרים אבק דרכים של מרגול,cooking_recipe,0.5769,0.3097,False
+3212,he-IL,calendar,calendar_set,הזכר לי לעשות משהו אז,qa_factoid,0.9997,0.0,False
+3214,he-IL,news,news_query,מה מצב החקירה על פרשת הצוללות של ביבי,qa_factoid,0.9845,0.0008,False
+3228,he-IL,datetime,datetime_query,באיזה יום בשבוע חג המולד נופל השנה,weather_query,0.9988,0.0007,False
+3253,he-IL,weather,weather_query,אנחנו צריכים לצפות לגשם אחר הצהריים,weather_query,0.9976,0.9976,True
+3264,he-IL,play,play_music,נגן מוזיקת רגאיי,play_music,0.9999,0.9999,True
+3305,he-IL,weather,weather_query,מה תחזית מזג האוויר השבוע באילת,weather_query,0.9973,0.9973,True
+3306,he-IL,weather,weather_query,מה התחזית לשבוע,qa_factoid,0.5552,0.0215,False
+3329,he-IL,news,news_query,אני רוצה לראות את החדשות,news_query,0.9887,0.9887,True
+3337,he-IL,weather,weather_query,דוח מזג אוויר לשלושת אלפים שבע מאות שבעים וארבע,iot_hue_lightoff,0.3713,0.0427,False
+3338,he-IL,weather,weather_query,דווחי מה תחזית מזג האוויר בצפת,weather_query,0.9819,0.9819,True
+3361,he-IL,datetime,datetime_query,מה התאריך ליום שלישי הבא,datetime_query,0.9798,0.9798,True
+3378,he-IL,iot,iot_hue_lightoff,אין אורות במטבח,iot_hue_lightoff,0.7038,0.7038,True
+3386,he-IL,iot,iot_hue_lightoff,תחלישי את האורות לרמה בינונית,iot_hue_lightoff,0.5148,0.5148,True
+3400,he-IL,play,play_music,נגן גרסא חיה של שלמה ארצי,iot_hue_lightoff,0.4932,0.018,False
+3401,he-IL,play,play_music,נגן את השיר הכי פופולארי של שלמה ארצי,play_music,0.9998,0.9998,True
+3406,he-IL,weather,weather_query,מה התחזית לעשרה ימים,qa_factoid,0.3738,0.0222,False
+3407,he-IL,weather,weather_query,האם יש איזשהן תחזיות של גשם או שלג השבוע,weather_query,0.9969,0.9969,True
+3408,he-IL,weather,weather_query,האם מזג האוויר יהיה נחמד בסוף השבוע הזה,weather_query,0.9985,0.9985,True
+3426,he-IL,weather,weather_query,כמה מעלות יש בחוץ,qa_factoid,0.4345,0.1219,False
+3433,he-IL,play,play_music,מוזיקת פופ חדשה,play_music,0.9816,0.9816,True
+3434,he-IL,play,play_music,מוזיקת ראפ הכי טובה,play_music,0.6377,0.6377,True
+3441,he-IL,datetime,datetime_query,האם עשרים ושתיים זה יום רביעי,qa_factoid,0.315,0.1857,False
+3444,he-IL,datetime,datetime_query,האם זה עשר,qa_factoid,0.9983,0.0,False
+3447,he-IL,weather,weather_query,האם מזג האוויר מרמז על גשם בשבת,weather_query,0.9985,0.9985,True
+3481,he-IL,play,play_music,נגן את השיר הכי פופולרי של אמן נתון,play_music,0.9997,0.9997,True
+3489,he-IL,play,play_music,נגן מוזיקה עכשיו בבקשה,play_music,1.0,1.0,True
+3492,he-IL,play,play_music,בוא ננגן את רשימת השירים הכי מושמעים שלי,play_music,0.9999,0.9999,True
+3503,he-IL,weather,weather_query,מה מזג האוויר באילת,weather_query,0.9992,0.9992,True
+3507,he-IL,weather,weather_query,האם יש שלג בתחזית,iot_hue_lightoff,0.8989,0.0098,False
+3513,he-IL,play,play_music,נגן רק את הרשימה שלי,play_radio,0.8381,0.008,False
+3516,he-IL,weather,weather_query,מה הסיכוי למשקעים במזג האוויר של היום,qa_factoid,0.9812,0.001,False
+3539,he-IL,play,play_music,בבקשה נגן שני משוגעים של עומר אדם,social_post,0.3295,0.0274,False
+3546,he-IL,play,play_music,אני רוצה לשמוע מוזיקת ג׳אז,play_music,0.9999,0.9999,True
+3550,he-IL,play,play_music,תשים קצת אייל גולן,cooking_recipe,0.4704,0.0317,False
+3554,he-IL,play,play_music,תוכל לשים פלייליסט שירי אהבה,email_query,0.6188,0.0285,False
+3562,he-IL,play,play_music,הפעל חורף באוטו,play_music,0.3843,0.3843,True
+3566,he-IL,datetime,datetime_query,מה השעה כרגע באשדוד,weather_query,0.9987,0.0001,False
+3570,he-IL,iot,iot_hue_lightoff,כבה את האורות בחצר הפנימית,cooking_recipe,0.9631,0.0041,False
+3576,he-IL,news,news_query,מה הכתבה האחרונה בחדשות שתיים עשרה,qa_factoid,0.8156,0.0394,False
+3586,he-IL,weather,weather_query,מה מזג האוויר בתל אביב,weather_query,0.9991,0.9991,True
+3600,he-IL,calendar,calendar_set,הזכר לי לאחר עשר דקות,social_post,0.6062,0.0002,False
+3603,he-IL,news,news_query,מה החדשות האחרונות על סוכנות הידיעות הסינית,news_query,0.9778,0.9778,True
+3605,he-IL,news,news_query,מה החדשות האחרון מערוץ אחת עשרה,play_podcasts,0.6763,0.3132,False
+3606,he-IL,datetime,datetime_query,מה השעה באשדוד,weather_query,0.9994,0.0001,False
+3614,he-IL,weather,weather_query,יום שמשי היום נכון,weather_query,0.9979,0.9979,True
+3623,he-IL,news,news_query,מה קורה היום בעולם,weather_query,0.9964,0.0012,False
+3624,he-IL,news,news_query,חדשות מכאן אחת עשרה,lists_remove,0.9274,0.0085,False
+3631,he-IL,play,play_music,היי גוגל נגן קצת מוזיקת ג'אז,play_music,0.9992,0.9992,True
+3686,he-IL,play,play_music,תדליק את הפלייליסט שאני הקדשתי למוזיקת רוק,play_music,0.9811,0.9811,True
+3714,he-IL,play,play_music,הפעל את הפלייליסט שלי החל מהסוף,play_music,0.6892,0.6892,True
+3717,he-IL,play,play_music,נגני בבקשה את להיטי המזרחית שלי,lists_remove,0.8843,0.0196,False
+3723,he-IL,play,play_music,אני רוצה לשמוע את עץ ירוק מפלסטיק של מרגלית צנעני אחרי השיר הזה,play_music,0.999,0.999,True
+3725,he-IL,datetime,datetime_query,מה התאריך היום,datetime_query,0.9771,0.9771,True
+3727,he-IL,play,play_music,נגן שני משוגעים של עומר אדם,social_post,0.7241,0.0104,False
+3750,he-IL,news,news_query,אולי אם יש חדשות בנוגע לשטפון תוכל לעדכן אותי מיד,qa_factoid,0.9915,0.0008,False
+3779,he-IL,play,play_music,נגן פלייליסט יוטיוב שני משוגעים,social_post,0.5308,0.1871,False
+3780,he-IL,play,play_music,תנגני פלייליסט מזרחית שלי,iot_hue_lightoff,0.7878,0.0407,False
+3784,he-IL,weather,weather_query,תן לי את דיווח מזג האוויר באילת,weather_query,0.9988,0.9988,True
+3785,he-IL,iot,iot_hue_lightoff,כבה אור בשירותים,iot_hue_lightoff,0.6883,0.6883,True
+3822,he-IL,news,news_query,תמצאי לי מידע על מכוניות,lists_query,0.5639,0.0735,False
+3852,he-IL,weather,weather_query,איזה סוג של מזג אוויר יש להם במרכז עכשיו,weather_query,0.9755,0.9755,True
+3859,he-IL,play,play_music,בבקשה תשים את פלייליסט הראפ המועדף עלי,qa_factoid,0.5233,0.0009,False
+3907,he-IL,play,play_music,נגן לי להיטים של שנה שעברה,play_music,1.0,1.0,True
+3911,he-IL,play,play_music,אני רוצה לשמוע איזשהם שירים שקיבלו גראמי השנה,play_podcasts,0.5004,0.4922,False
+3912,he-IL,play,play_music,אני אשמח להקשיב ולשמוע מוזיקה מזרחית,play_music,0.9858,0.9858,True
+3936,he-IL,weather,weather_query,מה הטמפרטורה,cooking_recipe,0.6144,0.1851,False
+3960,he-IL,datetime,datetime_query,אמור את השעה,calendar_remove,0.4854,0.0002,False
+3967,he-IL,play,play_music,ראפ,qa_factoid,0.7676,0.0003,False
+3980,he-IL,play,play_music,בבקשה נגן אהבתיה של שלמה ארצי,social_post,0.8512,0.0055,False
+3982,he-IL,play,play_music,בבקשה תבחר את השיר הראשון בספריית אייטונס שלי,qa_factoid,0.7908,0.0003,False
+3993,he-IL,iot,iot_hue_lightoff,תוכלי לגרום לאורות להיעלם,iot_hue_lightoff,0.8434,0.8434,True
+3995,he-IL,datetime,datetime_query,אולי איזה יום בשבוע יוצא פורים,weather_query,0.7555,0.0195,False
+4001,he-IL,news,news_query,מה קרה במתים המהלכים,social_post,0.6347,0.0005,False
+4023,he-IL,news,news_query,מה בחדשות,news_query,0.9515,0.9515,True
+4031,he-IL,play,play_music,נגן מסיבת שנות התשעים,play_music,0.3721,0.3721,True
+4040,he-IL,play,play_music,נגן את השיר שאני מאזין לו הכי הרבה,play_music,0.9999,0.9999,True
+4058,he-IL,play,play_music,אני רוצה לשמוע קצת מוזיקת ראפ,play_music,0.7705,0.7705,True
+4073,he-IL,datetime,datetime_query,איזה יום זה החמישי,weather_query,0.9847,0.0068,False
+4077,he-IL,iot,iot_hue_lightoff,כבה את אורות המטבח,cooking_recipe,0.9997,0.0001,False
+4088,he-IL,iot,iot_hue_lightoff,כבה אור מעל הראש,qa_factoid,0.8575,0.139,False
+4104,he-IL,weather,weather_query,מה הולך להיות מזג האוויר היום בצפת,weather_query,0.9991,0.9991,True
+4116,he-IL,play,play_music,נגן לי פלייליסט שאפל בבקשה,qa_factoid,0.5086,0.0089,False
+4119,he-IL,news,news_query,אני רוצה לדעת על כל מבזק חדשות על התפרצות הסכר בקליפורניה,news_query,0.8415,0.8415,True
+4132,he-IL,weather,weather_query,תן לי את אחוזי הסיכוי לגשם ביבנה היום,qa_factoid,0.9997,0.0,False
+4136,he-IL,play,play_music,תוכל בבקשה לנגן מאור כהן,play_music,1.0,1.0,True
+4152,he-IL,play,play_music,בבקשה נגן את השיר שני משוגעים,play_music,0.999,0.999,True
+4168,he-IL,weather,weather_query,תבדוק מה מזג האוויר בכפר סבא בבקשה,weather_query,0.9945,0.9945,True
+4171,he-IL,iot,iot_hue_lightoff,כבה את האורות במטבח,cooking_recipe,0.9991,0.0003,False
+4177,he-IL,news,news_query,תני לי את הכותרות הפוליטיות האחרונות ברחבי העולם,social_post,0.293,0.1884,False
+4178,he-IL,news,news_query,האם יש איזשהן חדשות על הנשיאות,news_query,0.9803,0.9803,True
+4183,he-IL,datetime,datetime_query,שעה נוכחית ניו יורק,weather_query,0.9971,0.0001,False
+4186,he-IL,datetime,datetime_query,היי אולי מה השעה,weather_query,0.9989,0.0001,False
+4187,he-IL,datetime,datetime_query,היי siri מה השעה,weather_query,0.9988,0.0001,False
+4205,he-IL,play,play_music,אני רוצה לשמוע רוזה של יורם גאון,play_music,0.8643,0.8643,True
+4212,he-IL,weather,weather_query,אני אוכל לכסח את הדשא הערב,iot_hue_lightoff,0.6577,0.0653,False
+4227,he-IL,weather,weather_query,יש גשם בתחזית בשבוע הבא,weather_query,0.9947,0.9947,True
+4232,he-IL,play,play_music,נגן לא יכול להוריד ממך את העיניים של מאיר אריאל,iot_hue_lightoff,0.4571,0.0373,False
+4236,he-IL,datetime,datetime_query,האם כבר אחר הצהריים,weather_query,0.7908,0.0009,False
+4253,he-IL,datetime,datetime_query,מה הזמן הנכחי בשעון מזרחי,weather_query,0.9955,0.0007,False
+4254,he-IL,datetime,datetime_query,מהי השעה בחוף המזרחי של ארצות הברית,weather_query,0.9995,0.0001,False
+4258,he-IL,news,news_query,מה החדשות האחרונות,news_query,0.9994,0.9994,True
+4266,he-IL,weather,weather_query,מהו מזג האוויר היום,weather_query,0.9984,0.9984,True
+4273,he-IL,play,play_music,נגן שיר שני משוגעים,play_music,1.0,1.0,True
+4290,he-IL,weather,weather_query,אני צריך להביא ג'קט איתי הערב,iot_hue_lightoff,0.2003,0.0117,False
+4305,he-IL,play,play_music,נגן את השיר שני משוגעים של עומר אדם,play_music,1.0,1.0,True
+4309,he-IL,datetime,datetime_query,תוך כמה שעות זה יהיה חצות בתל אביב ישראל,weather_query,0.9996,0.0,False
+4312,he-IL,weather,weather_query,האם מזג האוויר יהיה פחות מעשר מעלות בחיפה,weather_query,0.9694,0.9694,True
+4313,he-IL,weather,weather_query,יהיה גשם מחר ברומא,weather_query,0.9991,0.9991,True
+4336,he-IL,datetime,datetime_query,מה השעה בסין,weather_query,0.9986,0.0001,False
+4346,he-IL,iot,iot_hue_lightoff,תכבי את האורות,qa_factoid,0.682,0.0331,False
+4347,he-IL,iot,iot_hue_lightoff,הפסק הפעלת אורות,iot_hue_lightoff,0.2406,0.2406,True
+4355,he-IL,weather,weather_query,איך מזג האוויר איפה שאני נמצא,weather_query,0.986,0.986,True
+4361,he-IL,play,play_music,תן לי קצת צלילים טובים,play_music,0.3147,0.3147,True
+4362,he-IL,datetime,datetime_query,מה השעה בקליבלנד,weather_query,0.999,0.0001,False
+4376,he-IL,weather,weather_query,איך בחוץ היום,weather_query,0.9966,0.9966,True
+4377,he-IL,weather,weather_query,מה מזג האוויר הנוכחי,weather_query,0.9989,0.9989,True
+4383,he-IL,weather,weather_query,מה יהיה מזג האוויר מחר,weather_query,0.9973,0.9973,True
+4391,he-IL,news,news_query,מה הכותרות של כאן אחת עשרה,lists_remove,0.2209,0.1279,False
+4400,he-IL,news,news_query,מה המאמרים המובילים בידיעות אחרונות,social_post,0.5722,0.0443,False
+4402,he-IL,weather,weather_query,אני אצטרך לסחוב מטריה היום,lists_remove,0.4915,0.0272,False
+4412,he-IL,weather,weather_query,מה מזג האוויר ביבנה,weather_query,0.999,0.999,True
+4436,he-IL,weather,weather_query,איזה ג'קט כדאי ללבוש היום,lists_query,0.5476,0.0185,False
+4439,he-IL,weather,weather_query,איך מזג האוויר בצפת,weather_query,0.9987,0.9987,True
+4449,he-IL,weather,weather_query,הולך לרדת גשם היום באחת בצהריים,weather_query,0.9985,0.9985,True
+4452,he-IL,play,play_music,נגן שירים,play_music,0.9999,0.9999,True
+4463,he-IL,datetime,datetime_query,כמה שבתות במרץ,qa_factoid,0.8313,0.0054,False
+4477,he-IL,play,play_music,נגן שיר הבא,play_music,0.9999,0.9999,True
+4482,he-IL,weather,weather_query,האם אני צריך לפנות את החניה שלי הבוקר,iot_hue_lightoff,0.355,0.01,False
+4486,he-IL,weather,weather_query,תני לי תחזית מזג האוויר לשבוע הזה,weather_query,0.999,0.999,True
+4487,he-IL,weather,weather_query,האם ירד גשם ביום חמישי,weather_query,0.9985,0.9985,True
+4491,he-IL,news,news_query,מה החדשות האחרונות על ביבי נתניהו,news_query,0.9974,0.9974,True
+4492,he-IL,news,news_query,מה נתוניי הפשיעה האחרונות של אזורי,lists_query,0.8628,0.0724,False
+4496,he-IL,news,news_query,מה פרסם היום עיתון לאישה,social_post,0.9902,0.005,False
+4502,he-IL,datetime,datetime_query,היי מה השעה בתל אביב עכשיו,weather_query,0.9992,0.0,False
+4524,he-IL,weather,weather_query,אולי מה התחזית להיום,qa_factoid,0.995,0.0001,False
+4547,he-IL,play,play_music,התחל פלייליסט טיול עם הכלב,email_query,0.2619,0.2395,False
+4567,he-IL,news,news_query,תקראי לי את הכותרות האחרונות מוואי נט נקודה קו נקודה איי אל,lists_remove,0.9728,0.001,False
+4580,he-IL,datetime,datetime_query,מה השעה בשיקגו,weather_query,0.9996,0.0,False
+4587,he-IL,play,play_music,נגן את המועדפים שלי,social_post,0.5974,0.003,False
+4589,he-IL,calendar,calendar_set,הגדר התראה למשחקי ספורט,social_post,0.9443,0.0006,False
+4606,he-IL,news,news_query,מצא מידע על המניות של היום,lists_query,0.7932,0.0794,False
+4614,he-IL,weather,weather_query,האם מחר יהיה מעל שלושים מעלות,weather_query,0.999,0.999,True
+4662,he-IL,news,news_query,את החדשות מכאן אחת עשרה אלכסה,news_query,0.9944,0.9944,True
+4667,he-IL,datetime,datetime_query,השעה הנוכחית ב,weather_query,0.997,0.0001,False
+4680,he-IL,weather,weather_query,האם לנעול סנדלים או נעליים וגרביים,cooking_recipe,0.2367,0.0185,False
+4689,he-IL,weather,weather_query,האם את יודעת מה מזג האוויר,weather_query,0.9937,0.9937,True
+4692,he-IL,play,play_music,נגן לי שיר של אייל גולן,play_music,1.0,1.0,True
+4710,he-IL,datetime,datetime_query,באיזה יום חנוכה יוצא השנה,weather_query,0.8395,0.1342,False
+4764,he-IL,weather,weather_query,האם הולך לרדת גשם ביום שני,weather_query,0.997,0.997,True
+4767,he-IL,news,news_query,האם יש מידע חדש בנוגע לגדר ההפרדה בגבול עזה,qa_factoid,0.6745,0.0126,False
+4772,he-IL,datetime,datetime_query,תגיד לי מה השעה באזור הזמן הזה,weather_query,0.9993,0.0001,False
+4780,he-IL,datetime,datetime_query,באיזה יום יוצא יום ההולדת שלי הזני בעשרים ושבע ביוני,weather_query,0.6393,0.3545,False
+4784,he-IL,weather,weather_query,אני צריך ג'קט,qa_factoid,0.9381,0.0002,False
+4813,he-IL,datetime,datetime_query,מה השעה בעיר אחרת,weather_query,0.9997,0.0,False
+4837,he-IL,news,news_query,האם יש איזשהן חדשות הולי,news_query,0.9701,0.9701,True
+4838,he-IL,play,play_music,נגן את כל המוזיקה של עומר אדם,play_music,1.0,1.0,True
+4871,he-IL,weather,weather_query,איך בחוץ,qa_factoid,0.8853,0.105,False
+4881,he-IL,datetime,datetime_query,חפש למצוא איזור זמן נוכחי ומקומי,qa_factoid,0.347,0.0282,False
+4882,he-IL,datetime,datetime_query,מה השעה בעיר,weather_query,0.9994,0.0,False
+4890,he-IL,calendar,calendar_set,הגדר התראות לגבי אסונות מזג אוויר נוכחיים באמריקה,iot_hue_lightoff,0.3764,0.026,False
+4909,he-IL,play,play_music,נגן שירים של המכשפות,play_music,0.999,0.999,True
+4917,he-IL,weather,weather_query,טמפרטורה בחוץ,iot_hue_lightoff,0.4689,0.248,False
+4928,he-IL,play,play_music,נגן את הפסקול שלי,play_music,1.0,1.0,True
+4933,he-IL,weather,weather_query,האם יורד גשם עכשיו,weather_query,0.9989,0.9989,True
+4951,he-IL,datetime,datetime_query,אני אשמח לדעת מה השעה כרגע,weather_query,0.9988,0.0001,False
+4953,he-IL,news,news_query,חדשות לגבי תאונת הרכבת,news_query,0.9611,0.9611,True
+4957,he-IL,datetime,datetime_query,איזה יום בשבוע זה העשרים ושלושה בחודש,datetime_query,0.9109,0.9109,True
+4960,he-IL,play,play_music,מוזיקת כוורת,play_music,0.9386,0.9386,True
+4968,he-IL,qa,qa_factoid,מי זכה בבחירות לראשות הממשלה השנה,qa_factoid,0.9579,0.9579,True
+4973,he-IL,play,play_music,אולי נגן לא קל,qa_factoid,0.9765,0.0004,False
+4998,he-IL,play,play_music,תוסיף את השיר הזה אחרי השיר הבא,email_sendemail,0.5086,0.3057,False
+5009,he-IL,weather,weather_query,האם אצטרך מטרייה השבוע,cooking_recipe,0.6627,0.0074,False
+5016,he-IL,news,news_query,ספר לי חדשות על עליות וירידות בשוק המניות,news_query,0.4547,0.4547,True
+5027,he-IL,datetime,datetime_query,מתי יום שישי השלוש עשרה הבא,datetime_query,0.5686,0.5686,True
+5037,he-IL,weather,weather_query,כמה קר היום,weather_query,0.9943,0.9943,True
+5038,he-IL,weather,weather_query,מה מזג האוויר של השבוע,weather_query,0.9976,0.9976,True
+5040,he-IL,weather,weather_query,מה מזג האוויר עכשיו,weather_query,0.998,0.998,True
+5062,he-IL,play,play_music,בבקשה נגן לי שירים משנות השמונים,play_music,0.9995,0.9995,True
+5074,he-IL,weather,weather_query,איך היה מזג האוויר השבוע,weather_query,0.9943,0.9943,True
+5085,he-IL,weather,weather_query,מה התחזית לשבת,qa_factoid,0.2657,0.0217,False
+5118,he-IL,play,play_music,שיר לשלום,social_post,0.4786,0.0157,False
+5127,he-IL,news,news_query,הנה האמת לגבי ארוחות על גלגלים בתקציב של מישהו,qa_factoid,0.8341,0.0058,False
+5131,he-IL,datetime,datetime_query,תגיד בבקשה מה השעה בתל אביב,weather_query,0.9995,0.0,False
+5134,he-IL,play,play_music,תמצאי שירים מפלייליסט תזמורת ג'ז שלי,play_music,0.9795,0.9795,True
+5156,he-IL,iot,iot_hue_lightoff,כבה את האור בסלון,iot_hue_lightoff,0.9566,0.9566,True
+5157,he-IL,iot,iot_hue_lightoff,הולי תכבי את האור בסלון,iot_hue_lightoff,0.7651,0.7651,True
+5158,he-IL,play,play_music,בבקשה נגני את השיר האחרון מהאלבום אבעס,email_sendemail,0.9976,0.0003,False
+5159,he-IL,play,play_music,תוכל בבקשה לנגן את השיר של האמנית מדונה,play_music,1.0,1.0,True
+5160,he-IL,play,play_music,תוכל בבקשה לנגן את השיר של עומר אדם,play_music,1.0,1.0,True
+5176,he-IL,weather,weather_query,לאיזה מזג אוויר אני צריך לצפות השבוע,weather_query,0.9961,0.9961,True
+5196,he-IL,news,news_query,אני רוצה לדעת על ההתנתקות,qa_factoid,0.4724,0.0071,False
+5225,he-IL,datetime,datetime_query,מה התאריך ביום רביעי הבא,datetime_query,0.998,0.998,True
+5243,he-IL,iot,iot_hue_lightoff,סירי תכבי בבקשה את האורות בחדר האמבטיה,cooking_recipe,0.5216,0.334,False
+5245,he-IL,news,news_query,תגדירי התראה לחדשות הסביבה,social_post,0.3938,0.2167,False
+5270,he-IL,news,news_query,מה מבזק החדשות הנוכחי,news_query,0.6896,0.6896,True
+5278,he-IL,play,play_music,בבקשה נגן רק מוסיקת מיקס פופ,play_music,0.9755,0.9755,True
+5279,he-IL,play,play_music,בבקשה נגן רק שירי דיכאון בנגן המוזיקה,play_music,0.799,0.799,True
+5286,he-IL,news,news_query,הצג חדשות כאן על הגירה,news_query,0.8747,0.8747,True
+5296,he-IL,news,news_query,הולי תעדכני אותי בעיקרי החדשות של כאן אחת עשרה,news_query,0.9448,0.9448,True
+5297,he-IL,news,news_query,תני לי את החדשות המרכזיות של כאן אחת עשרה,news_query,0.9848,0.9848,True
+5301,he-IL,weather,weather_query,מה יהיה מזג האוויר בעשרים ושתיים במרץ אלפיים ושבע עשרה,weather_query,0.9976,0.9976,True
+5307,he-IL,datetime,datetime_query,העשרים במרץ היום,weather_query,0.1078,0.0459,False
+5318,he-IL,play,play_music,בבקשה נגן רק את השירים של משינה,play_music,1.0,1.0,True
+5321,he-IL,weather,weather_query,הראה לי את התחזית,qa_factoid,0.9993,0.0,False
+5328,he-IL,play,play_music,רוק,qa_factoid,0.4497,0.0408,False
+5339,he-IL,weather,weather_query,תנאי קירור נמוכים,iot_hue_lightoff,0.5225,0.0142,False
+5341,he-IL,datetime,datetime_query,בבקשה התריע לי על השעה,weather_query,0.995,0.0001,False
+5347,he-IL,play,play_music,נגן מוסיקת טכנו,play_music,0.9982,0.9982,True
+5358,he-IL,datetime,datetime_query,עדכן את הזמן הנוכחי,iot_hue_lightoff,0.7926,0.0114,False
+5370,he-IL,news,news_query,מה המחלוקת האחרונה של בנט,lists_query,0.1774,0.1242,False
+5378,he-IL,play,play_music,ס,qa_factoid,0.7425,0.0108,False
+5401,he-IL,play,play_music,מוזיקה,play_music,0.9915,0.9915,True
+5410,he-IL,news,news_query,תקריאי לי את הכותרות הראשיות של הארץ,cooking_recipe,0.4892,0.0025,False
+5411,he-IL,news,news_query,מה הסיפורים המובילים בכאן תאגיד השידור,play_podcasts,0.9016,0.0052,False
+5413,he-IL,play,play_music,נגן את המוזיקה,play_music,1.0,1.0,True
+5414,he-IL,play,play_music,תוכל לשים את המוזיקה,play_music,0.9026,0.9026,True
+5427,he-IL,datetime,datetime_query,מה השעה עכשיו בקנדה,weather_query,0.9989,0.0001,False
+5433,he-IL,weather,weather_query,הולך לרדת גשם מאוחר יותר,weather_query,0.9753,0.9753,True
+5439,he-IL,weather,weather_query,אני צריך מטריה ללילה,cooking_recipe,0.3306,0.0641,False
+5465,he-IL,weather,weather_query,אני יכול ללבוש את הסנדלים שלי היום,qa_factoid,0.6553,0.0058,False
+5468,he-IL,weather,weather_query,אני צריך לקחת משקפי שמש,iot_hue_lightoff,0.5009,0.029,False
+5524,he-IL,weather,weather_query,מזג האוויר ברגע זה,weather_query,0.7611,0.7611,True
+5529,he-IL,weather,weather_query,במתי כדאי לי לצאת לטיול,calendar_remove,0.5156,0.0413,False
+5557,he-IL,play,play_music,אני רוצה רגאיי,qa_factoid,0.9898,0.0002,False
+5577,he-IL,weather,weather_query,אני אצטרך מעיל מלא אם סוער מדי בערב,weather_query,0.9022,0.9022,True
+5578,he-IL,weather,weather_query,אני אצטרך גרביים חמות בחורף בבוקר,weather_query,0.7609,0.7609,True
+5584,he-IL,iot,iot_hue_lightoff,עשה אורות כבויים בבקשה,iot_hue_lightoff,0.5844,0.5844,True
+5590,he-IL,weather,weather_query,פתח טמפרטורה,cooking_recipe,0.8139,0.0036,False
+5593,he-IL,play,play_music,נגן נכון להיום של זוהר ארגוב,weather_query,0.3348,0.0168,False
+5619,he-IL,play,play_music,נגן את השיר הקודם,play_music,1.0,1.0,True
+5627,he-IL,play,play_music,נגן בשבילי מוזיקה של ביטלס,play_music,1.0,1.0,True
+5640,he-IL,datetime,datetime_query,הצג תאריך,qa_factoid,0.876,0.1165,False
+5650,he-IL,weather,weather_query,תשאל מה מזג האוויר היום בערב,weather_query,0.9986,0.9986,True
+5658,he-IL,play,play_music,נגן לי את המוזיקה של הביטלס,play_music,1.0,1.0,True
+5661,he-IL,weather,weather_query,אני צריכה לקחת איתי עכשיו את מעיל הגשם,iot_hue_lightoff,0.345,0.0402,False
+5671,he-IL,datetime,datetime_query,מה השעה בלאס וגאס,weather_query,0.9991,0.0001,False
+5678,he-IL,datetime,datetime_query,החמישה עשר באוגוסט הוא איזה יום בשבוע,weather_query,0.4826,0.2911,False
+5683,he-IL,play,play_music,נגן פלייליסט שירי המסיבה שלי,play_music,0.2628,0.2628,True
+5688,he-IL,news,news_query,ספרי לי בבקשה את עיקרי החדשות,news_query,0.8641,0.8641,True
+5703,he-IL,datetime,datetime_query,זמן נוכחי,qa_factoid,0.8209,0.0008,False
+5707,he-IL,play,play_music,הקשב למועדפים שלי,qa_factoid,0.9979,0.0,False
+5721,he-IL,weather,weather_query,הראה לי תחזית של מחר באיזור זה,iot_hue_lightoff,0.992,0.0021,False
+5722,he-IL,weather,weather_query,תציגי תחזית שבועית לשבוע הזה,play_podcasts,0.3735,0.0102,False
+5732,he-IL,weather,weather_query,אני צריכה להחליף צמידים במכונית לצמיגי שלג בקרוב,cooking_recipe,0.5459,0.0132,False
+5757,he-IL,datetime,datetime_query,רבע לשתיים,qa_factoid,0.3057,0.0237,False
+5758,he-IL,weather,weather_query,איך מזג האוויר בעיר הבירה,weather_query,0.9894,0.9894,True
+5774,he-IL,datetime,datetime_query,זמן נוכחי בזמן גריניץ',iot_hue_lightoff,0.0848,0.047,False
+5797,he-IL,weather,weather_query,האם אני צריך ללבוש מעיל גשם לפני שאני יוצא החוצה,iot_hue_lightoff,0.4833,0.0257,False
+5813,he-IL,play,play_music,בבקשה שיר שקט,play_music,0.9866,0.9866,True
+5820,he-IL,play,play_music,תנחם את האוזניים שלי עם מאיר אריאל,play_music,0.9183,0.9183,True
+5837,he-IL,weather,weather_query,תגיד לי מה מזג האוויר של השבוע,weather_query,0.9995,0.9995,True
+5871,he-IL,weather,weather_query,איך האקלים ביבנה היום,weather_query,0.996,0.996,True
+5886,he-IL,news,news_query,נושא חם,email_sendemail,0.9954,0.0001,False
+5919,he-IL,news,news_query,מה העדכון האחרון לגבי הצעת החוק החדשה,qa_factoid,0.4885,0.2049,False
+5930,he-IL,news,news_query,האם מבזק מיוחד בחדשות שתיים עשרה,social_post,0.2516,0.0294,False
+5948,he-IL,play,play_music,נגן איזה שיר טוב מהפלייליסט שלי,play_music,0.9999,0.9999,True
+5953,he-IL,weather,weather_query,האם העיר היא זולה או יקרה יותר לחיות,social_post,0.8069,0.0844,False
+5955,he-IL,weather,weather_query,not relevant,qa_factoid,0.4421,0.0117,False
+5970,he-IL,play,play_music,אני רוצה שתשמיע לי שני משוגעים,play_music,0.9886,0.9886,True
+5985,he-IL,news,news_query,הראה לי את החדשות האחרונות מהאום,news_query,0.9733,0.9733,True
+5996,he-IL,weather,weather_query,אני אצטרך את מגפי השלג שלי אחר הצהריים,lists_remove,0.3081,0.1089,False
+5997,he-IL,datetime,datetime_query,מה השעה באזור הזמן המרכזי,weather_query,0.9993,0.0002,False
+6023,he-IL,weather,weather_query,יהיה לח הלילה,weather_query,0.9941,0.9941,True
+6024,he-IL,weather,weather_query,כדאי לי לקחת סוודר או מעיל לעבודה היום,iot_hue_lightoff,0.9989,0.0001,False
+6025,he-IL,weather,weather_query,האם אני צריך קרם הגנה אחר הצהריים,cooking_recipe,0.9443,0.003,False
+6027,he-IL,play,play_music,תפעילי שירים אהובים,play_music,0.9919,0.9919,True
+6039,he-IL,weather,weather_query,יהיה גשום מחר,weather_query,0.9996,0.9996,True
+6041,he-IL,iot,iot_hue_lightoff,היי אולי תכבי את האורות בבקשה,qa_factoid,0.9979,0.0009,False
+6045,he-IL,play,play_music,הוסף את השיר הנבחר,play_music,0.9992,0.9992,True
+6050,he-IL,weather,weather_query,אטרך קרם הגנה מהשמש מאוחר יותר,iot_hue_lightoff,0.1003,0.067,False
+6055,he-IL,iot,iot_hue_lightoff,האם השארתי את האור דולק בחניה,weather_query,0.7471,0.2033,False
+6059,he-IL,play,play_music,נגני מוזיקת ראפ,play_music,0.7201,0.7201,True
+6069,he-IL,weather,weather_query,צפויות סערות היום,news_query,0.8187,0.0511,False
+6073,he-IL,iot,iot_hue_lightoff,תכבי את האור במרפסת,qa_factoid,0.7148,0.2769,False
+6074,he-IL,iot,iot_hue_lightoff,כבי אור בחדר השינה בתשע וחצי בערב,iot_hue_lightoff,0.5848,0.5848,True
+6077,he-IL,news,news_query,אני רוצה לשמוע את החדשות האחרונות של היום מהעולם,news_query,0.99,0.99,True
+6093,he-IL,weather,weather_query,האם כדי לי לפתוח את גג השמש,iot_hue_lightoff,0.7987,0.1108,False
+6103,he-IL,weather,weather_query,היי מה יהיה מזג האוויר היום בתל אביב ישראל,weather_query,0.9995,0.9995,True
+6116,he-IL,weather,weather_query,מידע על מזג האוויר השבוע,weather_query,0.9958,0.9958,True
+6118,he-IL,datetime,datetime_query,היי מה השעה בירושלים ישראל,weather_query,0.9993,0.0,False
+6127,he-IL,weather,weather_query,את ממליצה על מטריות,recommendation_events,0.9902,0.0,False
+6129,he-IL,news,news_query,תשאיר אותי מעודכן בחדשות העולם,news_query,0.9963,0.9963,True
+6151,he-IL,weather,weather_query,אני רוצה לדעת את מזג האוויר של היום,weather_query,0.9998,0.9998,True
+6172,he-IL,weather,weather_query,האם משקפי שמש הם בחירה טובה להיום,weather_query,0.5676,0.5676,True
+6177,he-IL,weather,weather_query,אני אצטרך מטרייה היום,iot_hue_lightoff,0.4365,0.0192,False
+6178,he-IL,weather,weather_query,האם כדאי לי ללבוש ג'קט,recommendation_events,0.4943,0.0042,False
+6194,he-IL,weather,weather_query,איך מזג האוויר היום,weather_query,0.9962,0.9962,True
+6289,he-IL,weather,weather_query,היי מה המזג האוויר היום,weather_query,0.9982,0.9982,True
+6370,he-IL,calendar,calendar_query,איך נראה השבוע הקרוב שלי,weather_query,0.9972,0.0001,False
+6372,he-IL,news,news_query,חדשות על עולם הטבעונות,news_query,0.997,0.997,True
+6403,he-IL,transport,transport_query,איך להגיע לאנשהו,transport_query,0.6706,0.6706,True
+6410,he-IL,news,news_query,מה קורה היום בצרפת,weather_query,0.9993,0.0,False
+6411,he-IL,weather,weather_query,מה מזג האוויר ביום רביעי,weather_query,0.9976,0.9976,True
+6539,he-IL,calendar,calendar_set,סמן היום כתחילת הדיאטה שלי,iot_hue_lightoff,0.8597,0.0024,False
+6542,he-IL,cooking,cooking_recipe,האם גבינה רכה עדיפה מקשה,cooking_recipe,0.9291,0.9291,True
+6618,he-IL,news,news_query,ספר חדשות מעניינות,news_query,0.8716,0.8716,True
+6682,he-IL,news,news_query,הבחירות בדרך,qa_factoid,0.3364,0.018,False
+6683,he-IL,news,news_query,עניינים כלכליים,news_query,0.751,0.751,True
+6713,he-IL,calendar,calendar_remove,בטל את הפגישה העסקית ביום רביעי,calendar_remove,0.7737,0.7737,True
+6722,he-IL,calendar,calendar_query,האם יש משהו שצריך להזכיר לי היום,news_query,0.5872,0.0069,False
+6725,he-IL,calendar,calendar_set,תזכיר לי לגבי לוח הזמנים שלי לאחר הצהריים,email_sendemail,0.9436,0.0,False
+6726,he-IL,calendar,calendar_remove,בטל את הפגישה הבאה,calendar_remove,0.6438,0.6438,True
+6729,he-IL,calendar,calendar_remove,בטל ארוחת בוקר בבית של טלי,cooking_recipe,0.7171,0.0128,False
+6732,he-IL,calendar,calendar_set,תוסיף תזכורת לפגישה עם המחותנים שלי ביום ראשון,email_sendemail,0.9995,0.0,False
+6744,he-IL,calendar,calendar_set,שים פגישה עם פיני מחר בעשר בבוקר,calendar_remove,0.4502,0.0092,False
+6746,he-IL,calendar,calendar_set,הגדירי את השבוע הראשון של יוני כחג ביומן שלי,iot_hue_lightoff,0.2976,0.0665,False
+6747,he-IL,calendar,calendar_query,כמה תזכורות יש לי,qa_factoid,0.6602,0.0007,False
+6755,he-IL,calendar,calendar_remove,בבקשה פנה את היומן שלי,qa_factoid,0.6292,0.0629,False
+6761,he-IL,calendar,calendar_remove,הסר מהיומן שלי פגישה בתשע בבוקר,calendar_remove,0.3951,0.3951,True
+6764,he-IL,calendar,calendar_set,תזכיר לי לשטוף את החלונות,cooking_recipe,0.9388,0.0006,False
+6774,he-IL,calendar,calendar_set,הגדר אירוע ליום שישי,qa_factoid,0.4058,0.0201,False
+6785,he-IL,calendar,calendar_query,מה התזכורת הבאה שלי,news_query,0.8639,0.0023,False
+6789,he-IL,calendar,calendar_set,קבע פגישה עם גליה ליום שבת בארבע אחר הצהריים,calendar_remove,0.3151,0.0527,False
+6798,he-IL,calendar,calendar_remove,מחק את האירוע הבא שלי,qa_factoid,0.7977,0.0019,False
+6801,he-IL,calendar,calendar_query,הצג לי את הפגישות שלי ביום שישי הזה,lists_remove,0.205,0.0148,False
+6806,he-IL,calendar,calendar_query,הצג לי אירוע בלוח השנה שלי יום שישי זה אחר הצהריים,social_post,0.993,0.0001,False
+6815,he-IL,calendar,calendar_set,הזכר לי את יום ההולדת של אמא שבוע לפני,qa_factoid,0.452,0.0064,False
+6819,he-IL,calendar,calendar_set,אולי להקה טובה מופיע הלילה בתשע בבר הג'ז אני רוצה ללכת,qa_factoid,0.5274,0.0041,False
+6836,he-IL,calendar,calendar_set,תזכיר לי לגבי הפגישה מחר בשש,weather_query,0.8356,0.0048,False
+6850,he-IL,calendar,calendar_query,תקריא לי את לוח הזמנים שלי להיום,calendar_remove,0.3907,0.0054,False
+6856,he-IL,calendar,calendar_set,תן לי הודעת תזכורת על הפגישה של מחר בעשר בבוקר,email_sendemail,0.9641,0.0004,False
+6860,he-IL,calendar,calendar_query,יש ארועים קרובים,recommendation_events,0.8165,0.0028,False
+6865,he-IL,calendar,calendar_set,תגדיר התראה על הפגישה מחר בעשר,weather_query,0.9387,0.0008,False
+6878,he-IL,calendar,calendar_set,קבע פגישה עם הנהלת חשבונות ליום שישי בשתיים וחצי,calendar_remove,0.4144,0.2016,False
+6891,he-IL,calendar,calendar_query,האם יש הופעות בוקר זמינות,play_podcasts,0.9819,0.0003,False
+6892,he-IL,calendar,calendar_query,אתה יכול לתת לי את לוח הזמנים של הסרט,qa_factoid,0.8978,0.0005,False
+6897,he-IL,calendar,calendar_set,הזכר לי לאסוף את לימור בחמש בערב בשביעי,cooking_recipe,0.5614,0.0012,False
+6901,he-IL,calendar,calendar_set,תזכיר לי מחר בעשר בבוקר על הפגישה,weather_query,0.5569,0.0068,False
+6902,he-IL,calendar,calendar_set,הגדר תזכורת לחודש הבא ללכת להחלפת שמנים שלי,email_sendemail,0.9894,0.0002,False
+6909,he-IL,calendar,calendar_query,מה קורה אחרי אחת ולפני שלוש אחר הצהריים,social_post,0.3557,0.0247,False
+6918,he-IL,calendar,calendar_remove,מחק אירועים מהיומן,play_music,0.6184,0.0014,False
+6923,he-IL,calendar,calendar_set,הגדר תזכורת להדפיס את המסמכים ביום שלישי בבוקר,calendar_remove,0.324,0.0352,False
+6926,he-IL,calendar,calendar_query,היום יום שישי,weather_query,0.1771,0.0568,False
+6928,he-IL,calendar,calendar_remove,מחק את כל האירועים,play_podcasts,0.493,0.0106,False
+6936,he-IL,calendar,calendar_set,תזכיר לי לקחת את התרופה שלי בתשע בבוקר,cooking_recipe,0.5785,0.0078,False
+6937,he-IL,calendar,calendar_set,הגדר תזכורת לצהריים לאכול ארוחת צהריים עם הבוס,calendar_set,0.4567,0.4567,True
+6946,he-IL,calendar,calendar_query,יש לי פגישות ביום רביעי הבא,recommendation_events,0.6708,0.0141,False
+6958,he-IL,calendar,calendar_remove,וודא שאין אירועים בלוח השנה שלי,calendar_remove,0.5968,0.5968,True
+6959,he-IL,calendar,calendar_set,תזכיר לי על הפגישה שלי שעה לפני שהיא מתחילה,email_sendemail,0.3475,0.0099,False
+6962,he-IL,calendar,calendar_set,אני יכול לדעת מה יש לי לעשות ביום שבת הבא בשש בערב,cooking_recipe,0.5816,0.0103,False
+6964,he-IL,calendar,calendar_set,תוכל להזכיר לי את פגישתי הבאה עם הבוס שעה אחת לפני שהיא קורית,email_sendemail,0.9939,0.0,False
+6967,he-IL,calendar,calendar_query,האם אתה יכול לבדוק את העובדות לגבי הנושא הזה,lists_query,0.6755,0.0037,False
+6968,he-IL,calendar,calendar_query,אני צריך לאשר את כל הפגישות להיום האם האדם מוזמן,qa_factoid,0.9937,0.0001,False
+6973,he-IL,calendar,calendar_set,הוסף תזכורת לכנס מחר בתל אביב,email_query,0.7814,0.0028,False
+6974,he-IL,calendar,calendar_set,יש לי אירוע ציבורי בירושלים מחר הזכר זאת,social_post,0.6616,0.0044,False
+6980,he-IL,calendar,calendar_query,תן לי את רשימת המטלות,qa_factoid,0.4997,0.0129,False
+6992,he-IL,calendar,calendar_query,הצג אירועים עתידיים,recommendation_events,0.5301,0.0016,False
+6994,he-IL,calendar,calendar_set,תזכיר לי ב,email_sendemail,0.6225,0.0022,False
+6997,he-IL,calendar,calendar_remove,הסר אירוע מתמשך,iot_hue_lightoff,0.6524,0.0141,False
+7000,he-IL,calendar,calendar_set,אירוע חדש,social_post,0.9834,0.0003,False
+7004,he-IL,calendar,calendar_set,תוסיפי תזכורת ליומן שלי כל שנה בתאריך הזה,email_sendemail,0.9995,0.0,False
+7013,he-IL,calendar,calendar_query,מתי האירוע מתחיל,qa_factoid,0.9953,0.0002,False
+7014,he-IL,calendar,calendar_query,תן לי את לוח הזמנים לאירועים של היום,calendar_set,0.346,0.037,False
+7025,he-IL,calendar,calendar_remove,תסיר את השנה החדשה מהיומן,play_radio,0.3265,0.259,False
+7026,he-IL,recommendation,recommendation_events,איזה אירועים יש בעיר שלי השבוע,recommendation_events,0.8874,0.8874,True
+7039,he-IL,calendar,calendar_set,הגדירי פגישה יום שלישי הבא בשעה אחת עשרה בבוקר עם גיל,qa_factoid,0.6846,0.0409,False
+7044,he-IL,calendar,calendar_set,תזכיר לי להתחיל להתכונן בחמש אחר הצהריים בבקשה,cooking_recipe,0.2003,0.0417,False
+7046,he-IL,calendar,calendar_set,תוסיפי פגישה עם טל בעשרים ואחד בשבע,cooking_recipe,0.9293,0.0025,False
+7055,he-IL,calendar,calendar_set,קבע פגישה עם דני באחת עשרה בבוקר ביום חמישי,calendar_remove,0.6359,0.0496,False
+7057,he-IL,calendar,calendar_set,קבע פגישת ארוחת צהריים עם בר ביום רביעי בצהריים,calendar_set,0.4524,0.4524,True
+7061,he-IL,calendar,calendar_set,הוספת תזכורת עשרים וארבע שעות לפני ה פגישה שלי עם אסף ב יום שישי,email_sendemail,1.0,0.0,False
+7073,he-IL,calendar,calendar_set,חפש ביומן שלי את האירוע הבא ויידע אותי לפני שהוא מתרחש,social_post,0.1376,0.0404,False
+7080,he-IL,calendar,calendar_remove,תמחק הכל מהיומן שלי,play_music,0.7406,0.0011,False
+7087,he-IL,calendar,calendar_remove,בטל את הפגישה של מחר מהיומן שלי,calendar_remove,0.6724,0.6724,True
+7098,he-IL,calendar,calendar_set,תוסיף את תשלום הרכב שלי בשניים עשר ליומן שלי,qa_factoid,0.9439,0.0025,False
+7100,he-IL,calendar,calendar_set,הזכר לי יום לפני שהגיע הזמן למכונית שלי,email_sendemail,0.4875,0.0049,False
+7111,he-IL,calendar,calendar_query,באיזה שעה התור לרופא שלי בשלושים ואחד במרץ,datetime_query,0.8278,0.0007,False
+7113,he-IL,calendar,calendar_query,האם ישנם אירועים כלשהם במרכז העיר בסוף השבוע הזה,recommendation_events,0.3975,0.0183,False
+7117,he-IL,calendar,calendar_remove,תמחקי את האירועים בתשעה עשר לחודש מהיומן שלי,calendar_remove,0.2584,0.2584,True
+7120,he-IL,calendar,calendar_query,איך הלוז שלי היום,iot_hue_lightoff,0.4554,0.0097,False
+7122,he-IL,calendar,calendar_set,תוכל בבקשה לחזור על אירוע זה,social_post,0.826,0.0014,False
+7140,he-IL,calendar,calendar_set,הגדר תזכורת שתזכיר לי שעה לפני פגישת ארוחת צהריים,email_sendemail,0.6253,0.0099,False
+7141,he-IL,calendar,calendar_query,האם התוכנית הזו ביומן,qa_factoid,0.998,0.0,False
+7151,he-IL,calendar,calendar_set,תגדירי תזכורת לכל יום ראשון אחת לשבועיים,calendar_remove,0.6129,0.0082,False
+7152,he-IL,calendar,calendar_set,קבע ארוחת צהריים כל יום בשתיים עשרה וחצי,calendar_set,0.8528,0.8528,True
+7161,he-IL,calendar,calendar_set,הזכר אירוע זה בעתיד,social_post,0.8014,0.0009,False
+7170,he-IL,calendar,calendar_set,היום הוא יום ההולדת של אמא שלי שלח לי תזכורת כל שנה בתאריך הזה,datetime_query,0.4437,0.0624,False
+7181,he-IL,calendar,calendar_set,תעיר אותי בשש בבוקר ביום חמישי כדי שיהיה לי זמן לפגישה,calendar_remove,0.3578,0.0311,False
+7185,he-IL,calendar,calendar_query,מתי התור הבא שלי עם דוקטור שור,qa_factoid,0.3333,0.0242,False
+7189,he-IL,calendar,calendar_query,האם יש לי משהו מתוכנן,qa_factoid,0.8194,0.0026,False
+7194,he-IL,calendar,calendar_set,יש לי פגישה מחר קבע זאת,calendar_remove,0.6588,0.0049,False
+7196,he-IL,calendar,calendar_set,הזכר לי את הפגישה עם שירה בחמש עשרה למרץ,social_post,0.9979,0.0,False
+7199,he-IL,calendar,calendar_set,תגדירי תזכורת לשלוש שעות שעתיים ושעה אחת לפני גביע המדינה הישראלי בשבוע הבא,calendar_remove,0.7612,0.0108,False
+7209,he-IL,calendar,calendar_set,אתה יכול להזכיר לי להוציא את הפח ביום שלישי,iot_hue_lightoff,0.8223,0.0028,False
+7219,he-IL,calendar,calendar_query,קבעת את התזכורת על הפגישה מחר,weather_query,0.526,0.0082,False
+7224,he-IL,calendar,calendar_query,איפה ההיכל אירועים בה תתרחש חתונה של טל,social_post,0.832,0.0043,False
+7232,he-IL,calendar,calendar_query,מהם האירועים שבוע הבא,cooking_recipe,0.3,0.0118,False
+7257,he-IL,calendar,calendar_set,הזכר לי בבקשה להתקשר לאמא בעוד חצי שעה,email_sendemail,0.9999,0.0,False
+7258,he-IL,calendar,calendar_set,תזכיר לי לשלוח דואר אלקטרוני לבוס שלי לאחר שעה,email_sendemail,0.8367,0.0021,False
+7262,he-IL,calendar,calendar_set,תיצרי התראת תזכורת לפגישה של מחר,email_sendemail,0.3084,0.0113,False
+7266,he-IL,calendar,calendar_query,איזה משימות ממתינות לי,news_query,0.3656,0.0192,False
+7278,he-IL,calendar,calendar_set,תזכיר לי את יום ההולדת של ריטה עשרים וארבע שעות מראש,datetime_query,0.2367,0.0226,False
+7287,he-IL,calendar,calendar_set,הזכר לי על חגיגת יום השנה שלי יום אחד מראש,calendar_remove,0.273,0.0293,False
+7289,he-IL,calendar,calendar_remove,תמחקי את כל האירועים שכוללים את גיא,social_post,0.4153,0.0096,False
+7291,he-IL,calendar,calendar_set,חסום שעה אחת מעשר מחר בבוקר,calendar_remove,0.9355,0.0019,False
+7292,he-IL,calendar,calendar_set,אני לא זמין מארבע עד שש בערב מחר סמן את היומן שלי,iot_hue_lightoff,0.2373,0.0334,False
+7293,he-IL,calendar,calendar_set,קבע פגישה של שעה אחת ליום שבת,calendar_remove,0.3973,0.2926,False
+7294,he-IL,calendar,calendar_remove,הסר את הפגישה עם איתמר לוי מהיומן שלי,social_post,0.9621,0.0156,False
+7295,he-IL,calendar,calendar_remove,בבקשה לפנות את היומן שלי,calendar_remove,0.9565,0.9565,True
+7314,he-IL,calendar,calendar_query,מה להיום,weather_query,0.2067,0.03,False
+7316,he-IL,calendar,calendar_query,האם יש לי פגישות כלשהן,recommendation_events,0.9721,0.0006,False
+7319,he-IL,calendar,calendar_query,מה קורה היום בין שתיים לארבע אחר הצהריים,weather_query,0.988,0.0076,False
+7353,he-IL,email,email_query,רק תעדכני אותי מה מזג האוויר בשבועות הקרובים בירושלים,weather_query,0.9983,0.0001,False
+7355,he-IL,calendar,calendar_set,הזכר לי לבדוק את התבשיל בשעה שש,cooking_recipe,0.9998,0.0,False
+7380,he-IL,calendar,calendar_query,אנא הצג היום פגישה עם לקוחות,social_post,0.9948,0.0003,False
+7397,he-IL,calendar,calendar_query,נקבעו אירועים בשלושת החודשים הבאים,recommendation_events,0.7269,0.0096,False
+7449,he-IL,calendar,calendar_set,בקשה קבע פגישה עם האיש הזה,email_sendemail,0.9981,0.0,False
+7450,he-IL,calendar,calendar_set,אני צריך לקבוע פגישה עם האדם הזה,qa_factoid,0.4664,0.0026,False
+7455,he-IL,calendar,calendar_set,הזכר לי לגבי המסיבה מחר,social_post,0.9928,0.0001,False
+7461,he-IL,calendar,calendar_set,הזמן אנשים לאירוע בלוח שנה,recommendation_events,0.6259,0.0024,False
+7463,he-IL,calendar,calendar_set,תודיע לקבוצה שלי שתאריך הפגישה החדש הוא מחר,social_post,0.9868,0.0001,False
+7467,he-IL,calendar,calendar_query,תן לי את זמנם של האירועים,calendar_remove,0.6596,0.0032,False
+7477,he-IL,calendar,calendar_set,הזכר לי בחמישה במרץ כל שנה לסדר מתנות יום נישואין,email_sendemail,0.9989,0.0,False
+7496,he-IL,calendar,calendar_query,יש לי פגישות היום,recommendation_events,0.7775,0.0092,False
+7499,he-IL,calendar,calendar_set,הכן לוז חדש לפגישה של מחר,iot_hue_lightoff,0.9965,0.0002,False
+7500,he-IL,calendar,calendar_remove,אתה יכול למחוק את האירוע הבא,recommendation_events,0.7534,0.0061,False
+7502,he-IL,calendar,calendar_query,מה עומד על הפרק בפגישה של ארבע אחר הצהריים עם גיא,social_post,0.8687,0.0028,False
+7503,he-IL,calendar,calendar_query,איפה בירושלים הפגישה ביום שישי באחת בצהריים,weather_query,0.9418,0.0053,False
+7520,he-IL,calendar,calendar_set,שים תזכורת לארוחת צהריים בכל יום בשתיים בצהריים,calendar_remove,0.3977,0.2915,False
+7524,he-IL,calendar,calendar_query,כמה מוכן מנדל להשקיע בחברה שלי בפגישה שתתקיים היום בחמש ועשרים אחר הצהריים,iot_hue_lightoff,0.9192,0.0033,False
+7528,he-IL,calendar,calendar_set,השלושה עשר ביוני הוא היום של תוצאות הבחירות בבקשה הגדר זאת,datetime_query,0.8802,0.0036,False
+7531,he-IL,calendar,calendar_set,בקשה הוסף את ימי התשלום שלי,qa_factoid,0.9955,0.0002,False
+7539,he-IL,calendar,calendar_query,יש לי משהו בתכנון,qa_factoid,0.5458,0.0033,False
+7542,he-IL,calendar,calendar_set,בבקשה הזכר לי לגבי זה מחר,qa_factoid,0.6631,0.0076,False
+7549,he-IL,calendar,calendar_set,אני רוצה פגישה עד השעה שלוש,calendar_remove,0.2968,0.0065,False
+7556,he-IL,calendar,calendar_set,תגדיר ביומן שלי תזכורת לקנות מצרכים בכל יום שישי,email_sendemail,1.0,0.0,False
+7557,he-IL,calendar,calendar_set,בצע תזכורת מיקום ביומן,iot_hue_lightoff,0.4404,0.0151,False
+7559,he-IL,calendar,calendar_set,הזכר לי הערב לאסוף את הניקוי היבש שלי בשמונה בערב,qa_factoid,0.5788,0.0037,False
+7563,he-IL,calendar,calendar_set,הזכר לי על פגישה מחר שעה אחת קודם,social_post,0.9928,0.0003,False
+7565,he-IL,calendar,calendar_set,תזכורת לפגישה,email_sendemail,0.9433,0.0021,False
+7567,he-IL,calendar,calendar_set,יום הולדת,calendar_remove,0.9028,0.0076,False
+7569,he-IL,calendar,calendar_query,תוכנית למחר,cooking_recipe,0.5596,0.0117,False
+7570,he-IL,calendar,calendar_query,מה התכנית להיום,cooking_recipe,0.4155,0.0084,False
+7583,he-IL,calendar,calendar_set,אירוע הוספת חבר ביומן שלך,play_music,0.5062,0.0009,False
+7596,he-IL,calendar,calendar_set,אנא קבע פגישה עם יוסי בצהריים בחדרה,weather_query,0.3533,0.0251,False
+7598,he-IL,calendar,calendar_set,בבקשה תקבע פגישה עם פנחס לדון בטרור ליום הפנוי הבא,lists_remove,0.2287,0.0175,False
+7606,he-IL,calendar,calendar_set,נפגש עם גדי מחר בשלוש,social_post,0.999,0.0001,False
+7609,he-IL,calendar,calendar_remove,הסר תזכורת פגישה ליום שלישי,calendar_remove,0.4703,0.4703,True
+7613,he-IL,calendar,calendar_query,מה הוא האירוע הקרוב,qa_factoid,0.9487,0.0004,False
+7628,he-IL,calendar,calendar_set,הזכר לי כשאני בספרייה לקבל כרטיס ספרייה חדש,qa_factoid,0.9558,0.0022,False
+7654,he-IL,calendar,calendar_set,סמן את העשרים באפריל כיום ההולדת של אחי,iot_hue_lightoff,0.7021,0.0359,False
+7655,he-IL,calendar,calendar_set,צרף תזכורת לעשרים באפריל בשם יום ההולדת של אחי,social_post,0.8644,0.0052,False
+7660,he-IL,calendar,calendar_remove,בטל את כל הפגישות שלי שלאחר שלוש אחר הצהריים היום ודווח לי את הפרטים,lists_remove,0.1133,0.0595,False
+7662,he-IL,calendar,calendar_query,תוכלי להכין רשימה של הפגישות שלי היום,cooking_recipe,0.9974,0.0001,False
+7664,he-IL,calendar,calendar_set,הוסף ארוחת צהריים עם מיקי,cooking_recipe,0.9961,0.0002,False
+7666,he-IL,calendar,calendar_set,תרשום שיש לי פגישה עם טום מחר בשלוש,weather_query,0.3685,0.0117,False
+7680,he-IL,calendar,calendar_remove,מחק ביומן שלי את כל אירועיי הגולף שלי לחודש הנוכחי,iot_hue_lightoff,0.8282,0.0036,False
+7686,he-IL,calendar,calendar_set,הוסף את מיכאל ויוסף ליומן הפסטיבל,email_sendemail,0.9819,0.0001,False
+7690,he-IL,calendar,calendar_query,מה מתוכנן לי בקרוב,qa_factoid,0.4916,0.0073,False
+7693,he-IL,calendar,calendar_query,האם יש לי משהו מתוכנן לעשרים ואחד,cooking_recipe,0.5848,0.0127,False
+7697,he-IL,calendar,calendar_set,הגדר תזכורת לזה,qa_factoid,0.8918,0.0018,False
+7711,he-IL,calendar,calendar_set,הי בטל את כל יתר הפגישות והשיחות שלי לשני במרץ מכיוון שזה יום הולדת של יוסי תייג את זה כאירוע ביומן שלכם,email_sendemail,0.9186,0.0022,False
+7712,he-IL,calendar,calendar_set,שלום אולי בטלי את כל הפגישות והשיחות האחרות שלי בשני במרץ משום שזה יום ההולדת של גיא סמני זאת כאירוע בלוח השנה שלך,email_sendemail,0.4867,0.0067,False
+7718,he-IL,calendar,calendar_set,שלום שלח הזמנת פגישה למר רון לפגישה ביום שישי זה וחסום את היומן שלי ביום שישי אחר הצהריים,calendar_remove,0.4281,0.2615,False
+7726,he-IL,calendar,calendar_set,אני צריך לעשות משהו בכל יום שני הוסף לזה תזכורת,qa_factoid,0.1897,0.0378,False
+7730,he-IL,calendar,calendar_set,אני צריך שתסמן את יום שני הבא,iot_hue_lightoff,0.7541,0.0039,False
+7741,he-IL,calendar,calendar_remove,נקה את לוח השנה שלי ביום שבת,email_sendemail,0.4016,0.166,False
+7751,he-IL,calendar,calendar_set,הזכר לי בכל יום שני להוציא את האשפה,social_post,0.3288,0.006,False
+7762,he-IL,calendar,calendar_query,אילו תזכורות יש לי,qa_factoid,0.9939,0.0001,False
+7767,he-IL,calendar,calendar_set,הוסף אימון ליומן ברביעי בפברואר בפארק הירקון בשתיים בצהריים,social_post,0.2854,0.0217,False
+7768,he-IL,calendar,calendar_set,אנא הוסף אימון ברביעי בפברואר בפארק הירקון בשתיים בצהריים,email_sendemail,0.4244,0.0258,False
+7774,he-IL,calendar,calendar_set,הוסף קניות ליומן שלי למחר,recommendation_events,0.7715,0.005,False
+7777,he-IL,calendar,calendar_query,האם יש לי פגישה היום,weather_query,0.467,0.0077,False
+7778,he-IL,calendar,calendar_set,תזכיר לי מה אני עושה ביום ראשון אחר הצהריים,cooking_recipe,0.3595,0.0183,False
+7808,he-IL,calendar,calendar_set,הזכר לי שאני לוקח את אמא למעצבת השיער של יום חמישי באחת עשרה בבוקר,iot_hue_lightoff,0.1848,0.0299,False
+7817,he-IL,calendar,calendar_query,זה נכון לגבי היום,iot_hue_lightoff,0.4603,0.0022,False
+7820,he-IL,calendar,calendar_remove,מחק את כל האירועים בלוח השנה,play_podcasts,0.4266,0.0104,False
+7836,he-IL,calendar,calendar_remove,מחק את כל האירועים,play_podcasts,0.493,0.0106,False
+7843,he-IL,calendar,calendar_set,ידע אותי תוך שעתיים שעלי לעזוב לשיעור כינור שלי בארבע אחר הצהריים בכלי זמר,qa_factoid,0.2549,0.0157,False
+7844,he-IL,calendar,calendar_query,אילו תזכורות הגדרתי,qa_factoid,0.9959,0.0001,False
+7847,he-IL,calendar,calendar_set,התראה לי כאשר הרשמה נפתחת,qa_factoid,0.9373,0.0016,False
+7851,he-IL,calendar,calendar_set,יש לי פגישה היום בשתיים עשרה בצהריים,weather_query,0.9943,0.0002,False
+7863,he-IL,calendar,calendar_set,הזכר לי להתחיל ארוחת ערב אחר הצהריים בחמש,cooking_recipe,0.8163,0.0073,False
+7870,he-IL,calendar,calendar_remove,מחק אירוע מהיומן,qa_factoid,0.9884,0.0001,False
+7876,he-IL,news,news_query,מה התרחש בחודשיים האחרונים,news_query,0.4639,0.4639,True
+7878,he-IL,calendar,calendar_remove,מחק את היומן שלי,play_music,0.3822,0.0027,False
+7879,he-IL,calendar,calendar_query,מה שלושת האירועים הבאים שלי,cooking_recipe,0.6659,0.0084,False
+7889,he-IL,calendar,calendar_query,באיזו שעה יתקיים משחק הכדורגל הערב,weather_query,0.9949,0.0001,False
+7890,he-IL,calendar,calendar_remove,נקה תספורת היום,iot_hue_lightoff,0.5627,0.0081,False
+7891,he-IL,calendar,calendar_remove,בטל את ארוחת הערב הערב,calendar_remove,0.9786,0.9786,True
+7892,he-IL,calendar,calendar_remove,מחק את האירוע הבא היום,social_post,0.3879,0.0205,False
+7894,he-IL,calendar,calendar_set,תן לי עדכון על הבחירות בעוד שעה,weather_query,0.6302,0.0021,False
+7902,he-IL,calendar,calendar_set,תגדירי פגישה ביני לבין יונתן מחר בשתיים בצהריים,lists_remove,0.2213,0.0204,False
+7908,he-IL,calendar,calendar_query,האם אני צריך לעשות משהו היום,cooking_recipe,0.8752,0.0046,False
+7912,he-IL,calendar,calendar_remove,אלכסה תבטלי את ארוחת הערב עם מייק מהיומן שלי,iot_hue_lightoff,0.613,0.0424,False
+7916,he-IL,calendar,calendar_set,תזכירי לי להוציא את הזבל בשש בערב,iot_hue_lightoff,0.6617,0.003,False
+7918,he-IL,calendar,calendar_set,אירוע יומן שלח הזמנה לבני מור,social_post,0.9815,0.0002,False
+7919,he-IL,calendar,calendar_set,פגישה חדשה הוסף את ביבי ושרה כמשתתפים,social_post,0.5873,0.0103,False
+7922,he-IL,calendar,calendar_remove,פתח משימות מחק אירועים עתידיים,social_post,0.1444,0.0278,False
+7927,he-IL,calendar,calendar_query,מה אני צריך לעשות השבוע,cooking_recipe,0.6499,0.0234,False
+7946,he-IL,calendar,calendar_query,מה המופעים הקרובים בצפת,social_post,0.9059,0.0004,False
+7953,he-IL,calendar,calendar_remove,אנא הסר את תור הרופא שלי ביום שבת,calendar_remove,0.5509,0.5509,True
+7955,he-IL,calendar,calendar_set,תכניס את האירוע הזה באופן חוזר ביומן שלי,play_radio,0.2558,0.0073,False
+7956,he-IL,calendar,calendar_set,תוכלי לעשות שהאירוע הזה יחזור על עצמו,cooking_recipe,0.3646,0.005,False
+7966,he-IL,calendar,calendar_query,האם אמרתי לך להזכיר לי משהו,email_sendemail,0.9836,0.0001,False
+7970,he-IL,calendar,calendar_set,תזכיר לי את החתונה בזמן לקנות מתנה,email_sendemail,0.9998,0.0,False
+7971,he-IL,calendar,calendar_set,הוסף תזכורת ליומיים לפני האירוע,calendar_remove,0.1838,0.0286,False
+7975,he-IL,calendar,calendar_query,האם יש שרות חניה באירוע,qa_factoid,0.996,0.0002,False
+7978,he-IL,calendar,calendar_query,אילו תזכורות קבעתי לפני מחר בצהריים,qa_factoid,0.9851,0.0003,False
+7980,he-IL,calendar,calendar_set,תגידי לי מתי שיש לי אירוע,datetime_query,0.7183,0.0005,False
+7981,he-IL,calendar,calendar_set,תשלחי התרעה לפני פגישה,calendar_remove,0.7128,0.009,False
+7993,he-IL,calendar,calendar_remove,מחק את כל האירועים מהיומן שלי,play_music,0.65,0.0038,False
+8001,he-IL,calendar,calendar_remove,תוכלי למחוק את התספורת שיש לי קבוע ליום שישי,lists_remove,0.4755,0.0225,False
+8004,he-IL,calendar,calendar_set,דורית צריכה לדבר איתי על הגירושים תוכל לקבוע פגישה ברגע שאהיב זמין,email_sendemail,0.309,0.0317,False
+8005,he-IL,calendar,calendar_set,ביום שני העשרים לחודש אני צריך לנהל שיחה עם גיא לגבי נסיעת סוף השבוע שלנו,email_sendemail,1.0,0.0,False
+8013,he-IL,calendar,calendar_query,הצג לי את הפגישות שלי לחודש הבא,lists_query,0.873,0.0035,False
+8029,he-IL,calendar,calendar_query,אילו אירועים צפויים היום,recommendation_events,0.9919,0.0003,False
+8033,he-IL,datetime,datetime_query,באיזה יום נופל חנוכה,weather_query,0.7857,0.0011,False
+8035,he-IL,calendar,calendar_set,תזכירי לי להחליף שמן,cooking_recipe,0.9291,0.0011,False
+8037,he-IL,calendar,calendar_set,תזכיר לי לעשות משהו בזמן כלשהו,email_sendemail,0.8298,0.0011,False
+8042,he-IL,calendar,calendar_query,כמה אנשים מתכוונים להגיע לפגישה הקרובה שלי,social_post,0.9916,0.0002,False
+8043,he-IL,calendar,calendar_query,באיזה שעה הפגישה הבאה שלי,weather_query,0.9765,0.0003,False
+8044,he-IL,calendar,calendar_query,מה הלוז שלי להיום,iot_hue_lightoff,0.3397,0.0209,False
+8055,he-IL,calendar,calendar_remove,תמחק את הפגישה שלי בשביעי במרץ,iot_hue_lightoff,0.4434,0.0278,False
+8056,he-IL,calendar,calendar_query,האם יש לי פגישה ביום שישי,weather_query,0.7399,0.006,False
+8058,he-IL,calendar,calendar_query,יש לי פגישת מכירות היום,qa_factoid,0.8629,0.0035,False
+8073,he-IL,calendar,calendar_set,תכניסי ליומן פגישת מכירות ביום רביעי באחת עשרה בבוקר,recommendation_events,0.9271,0.0027,False
+8079,he-IL,calendar,calendar_set,הגדר תזכורת לעוד שעה שהלחם שלי יאפה,qa_factoid,0.5503,0.0105,False
+8084,he-IL,calendar,calendar_query,מה סדר היום של האירוע,weather_query,0.9981,0.0001,False
+8085,he-IL,calendar,calendar_set,אני רוצה לקבוע תאריך לשבוע זה,datetime_query,0.9963,0.0001,False
+8100,he-IL,email,email_sendemail,שלח מייל פגישות שלי לקבוע מחדש,email_sendemail,0.9998,0.9998,True
+8107,he-IL,calendar,calendar_set,תקבע אירוע יום הולדת למוטי,calendar_set,0.26,0.26,True
+8110,he-IL,calendar,calendar_set,אנא הוסף פיקוח ליומן שלי,qa_factoid,0.8241,0.0026,False
+8116,he-IL,calendar,calendar_query,אלו פגישות היו בין האחד בפברואר לשישה עשר במרץ,recommendation_events,0.3107,0.0286,False
+8119,he-IL,calendar,calendar_query,איפה מתקיימת מסיבת יום ההולדת של חגית,qa_factoid,0.8183,0.0086,False
+8125,he-IL,calendar,calendar_set,צור פגישה בלוח השנה שלי,calendar_remove,0.4731,0.006,False
+8126,he-IL,calendar,calendar_set,תקבעי אירוע פגישה ביומן שלי,qa_factoid,0.8403,0.0047,False
+8129,he-IL,calendar,calendar_query,אילו תזכורות עדיין יש לי,qa_factoid,0.9896,0.0001,False
+8140,he-IL,calendar,calendar_set,תקבעי תזכורת ל שלושה עשר ש לי יש ארוחת צהריים עם דני,email_sendemail,1.0,0.0,False
+8148,he-IL,calendar,calendar_query,האם השארתי לעצמי תזכורות כלשהן,lists_remove,0.8265,0.0017,False
+8150,he-IL,calendar,calendar_query,יש לי איזו תזכורת למסיבת יום הולדת,calendar_remove,0.2202,0.0549,False
+8165,he-IL,calendar,calendar_query,שתיים עשרה וחצי בצהריים כבר תהיה לך פגישה בעוד עשר דקות,qa_factoid,0.4658,0.0026,False
+8182,he-IL,calendar,calendar_remove,האם אתה יכול למחוק את תור רופא השיניים,cooking_recipe,0.9153,0.0019,False
+8188,he-IL,calendar,calendar_query,באיזה תאריך האירוע,qa_factoid,0.981,0.0,False
+8204,he-IL,calendar,calendar_set,תזכיר לי ללכת לדואר בבקשה,email_sendemail,1.0,0.0,False
+8206,he-IL,calendar,calendar_set,אל תאפשרי לי לשכוח לקנות מתנה לאחותי,email_sendemail,0.9811,0.0001,False
+8230,he-IL,calendar,calendar_query,כמה זמן תהיה פגישת ארוחת הצהריים שלי ביום שלישי,datetime_query,0.7128,0.0452,False
+8241,he-IL,calendar,calendar_remove,נקה את הכל מהיומן שלי לשאר השנה,calendar_remove,0.7929,0.7929,True
+8245,he-IL,calendar,calendar_set,אצטרך לקבל הודעה על תפילות בבית הכנסת בימי ראשון באחת עשרה בבוקר,email_sendemail,0.9997,0.0,False
+8248,he-IL,calendar,calendar_set,הוסף את ארוחת הערב של מחר ליומן,cooking_recipe,0.9387,0.0135,False
+8251,he-IL,calendar,calendar_set,אני צריך את ארוחת הצהריים של שבוע הבא על היומן,cooking_recipe,0.7918,0.0181,False
+8260,he-IL,calendar,calendar_set,בבקשה עדכן אותי יום לפני יום ההולדת של גיא,email_sendemail,1.0,0.0,False
+8261,he-IL,calendar,calendar_set,שלח לי התראה שעה לפני הפגישה הבאה שלי,social_post,0.9245,0.0026,False
+8269,he-IL,calendar,calendar_set,תזכורת של חצי שעה על הפגישה ביום שלישי,calendar_remove,0.2708,0.0843,False
+8276,he-IL,calendar,calendar_remove,בבקשה הסר את התור הבא שלי,qa_factoid,0.623,0.0973,False
+8280,he-IL,calendar,calendar_set,אני צריך להגדיר תזכורת בחמישה עשר במרץ,calendar_set,0.2877,0.2877,True
+8284,he-IL,calendar,calendar_remove,הסר יום הולדת מהיומן,calendar_remove,0.9635,0.9635,True
+8289,he-IL,calendar,calendar_set,הגדר תזכורת לגבי ישיבת הסגל של היום בארבע,email_sendemail,0.717,0.0114,False
+8290,he-IL,calendar,calendar_set,פתח תזכורת לגבי פגישת המנהלים של השבועות הבאים ביום שלישי,email_sendemail,0.7938,0.0096,False
+8294,he-IL,calendar,calendar_set,הוסף ליומן וחזור,qa_factoid,0.6876,0.0037,False
+8300,he-IL,calendar,calendar_set,שמור אירוע בין חמש אחר הצהריים לשש בערב בשמונה עשר למרץ,cooking_recipe,0.3011,0.0713,False
+8302,he-IL,calendar,calendar_remove,מחק את הפגישה של שני הבא,play_radio,0.3402,0.0065,False
+8308,he-IL,news,news_query,על מה היתה המחאה אתמול בצהריים בכיכר רבין,social_post,0.8228,0.1345,False
+8336,he-IL,calendar,calendar_query,מתי ארוחת הבוקר המאוחרת שלי עם גילה,calendar_remove,0.353,0.0664,False
+8343,he-IL,datetime,datetime_query,זה יום רביעי,qa_factoid,0.5532,0.0233,False
+8345,he-IL,calendar,calendar_set,תיידע אותי מתי הפגישה תתקיים,qa_factoid,0.9883,0.0003,False
+8347,he-IL,calendar,calendar_query,מה מתרחש ברביעי לדצמבר,weather_query,0.8373,0.0041,False
+8358,he-IL,calendar,calendar_set,הזכר לי לגבי זה,social_post,0.9841,0.0001,False
+8366,he-IL,calendar,calendar_set,עשה את השמונה עשר במרץ מפגש חוזר ליום ההולדת של פנינה,social_post,0.9934,0.0004,False
+8387,he-IL,calendar,calendar_set,צור תזכורת לכביסה בשעה שמונה בערב,calendar_remove,0.8156,0.0064,False
+8388,he-IL,calendar,calendar_set,אני רוצה לעשות כביסה בשמונה בערב צור תזכורת,cooking_recipe,0.7052,0.0024,False
+8390,he-IL,calendar,calendar_set,הזכר לי את הפגישה שלי בנושא,social_post,0.9988,0.0,False
+8394,he-IL,calendar,calendar_set,הגדר תזכורת בכל יום בצהריים לקחת תרופה,email_sendemail,0.1782,0.1009,False
+8404,he-IL,calendar,calendar_query,אני רוצה לדעת עוד על האירוע הזה,social_post,0.3119,0.0111,False
+8409,he-IL,calendar,calendar_remove,מחק את ארוחת הערב שלי מחר,play_music,0.3956,0.0125,False
+8410,he-IL,calendar,calendar_remove,תסיר שלי ארוחת הערב אירוע יום שני,iot_hue_lightoff,0.8615,0.0204,False
+8413,he-IL,calendar,calendar_set,אנא הזהר אותי,qa_factoid,0.9988,0.0,False
+8414,he-IL,calendar,calendar_set,הזכר לי ללכת לארוחת ערב עם דודו ביום שישי בחמש אחר הצהריים,cooking_recipe,0.7356,0.0017,False
+8415,he-IL,calendar,calendar_set,הוסף פגישה עם אדם במשרד ליום שלישי בשלוש אחר הצהריים,email_sendemail,0.5627,0.0062,False
+8426,he-IL,calendar,calendar_query,תגיד לי אירועים נוכחים בין אתמול לבוקר הזה,recommendation_events,0.6907,0.007,False
+8430,he-IL,calendar,calendar_remove,בטל את כל הפגישות שלי,calendar_remove,0.6124,0.6124,True
+8431,he-IL,calendar,calendar_remove,תיפטר מכל האירועים המתוכננים שלי,lists_remove,0.6409,0.2942,False
+8436,he-IL,calendar,calendar_set,בבקשה קבע פגישת ארוחת צהריים בשתיים עשרה בצהריים בכל יום רביעי במרץ,calendar_remove,0.6569,0.1543,False
+8442,he-IL,calendar,calendar_set,אנא שנה את לוח השנה שלי עם אירוע זה,email_sendemail,0.8706,0.0008,False
+8449,he-IL,calendar,calendar_set,הגדר תזכורת ליום ההולדת של בנותיי,calendar_set,0.1792,0.1792,True
+8453,he-IL,calendar,calendar_set,אנא הוסף אירוע ליומן שלי וסמן אותו כאירוע חוזר,social_post,0.9509,0.0008,False
+8460,he-IL,calendar,calendar_query,תראה את האירועים שלי,recommendation_events,0.9038,0.0016,False
+8461,he-IL,calendar,calendar_query,מהן התכניות שלי לחודש מאי,calendar_set,0.3474,0.0253,False
+8466,he-IL,calendar,calendar_set,יש לי פגישת תשע בבוקר ביום רביעי שלח לי תזכורת,recommendation_events,0.1207,0.0357,False
+8469,he-IL,calendar,calendar_query,מה מופיע לי ביומן היום,weather_query,0.5153,0.0035,False
+8474,he-IL,calendar,calendar_set,הוסף ליומן שלי את מסיבת יום ההולדת של גליה מחר בשתיים בצהריים באבן גבירול מאה עשרים ושלוש,social_post,0.9594,0.0007,False
+8494,he-IL,calendar,calendar_query,איך היומן שלי נראה היום,weather_query,0.7352,0.0024,False
+8496,he-IL,calendar,calendar_query,תגיד את הפגישות שלי למחר בבוקר,email_sendemail,0.4404,0.0072,False
+8498,he-IL,calendar,calendar_query,בוא נעבור על כל התזכורות הממתינות,lists_remove,0.9971,0.0001,False
+8516,he-IL,calendar,calendar_remove,מחק פריט לוח שנה,email_sendemail,0.5857,0.0001,False
+8520,he-IL,calendar,calendar_set,הוסף אירוע לאפליקציית היומן,recommendation_events,0.4015,0.0135,False
+8525,he-IL,calendar,calendar_query,תזכורות פגישה משלוש עד חמש,lists_remove,0.2776,0.0312,False
+8535,he-IL,calendar,calendar_set,האם תוכל להזכיר לי על תור הרופא שיש לי בעוד שעתיים,qa_factoid,0.8261,0.0026,False
+8539,he-IL,calendar,calendar_set,הזכר לי לגבי,social_post,0.9983,0.0,False
+8541,he-IL,calendar,calendar_set,תזכיר לי בבקשה,email_sendemail,0.8845,0.0025,False
+8553,he-IL,calendar,calendar_set,הוסף פגישה ליומן שלי בתשע בבוקר עם תומר,social_post,0.2822,0.0089,False
+8559,he-IL,calendar,calendar_query,האם יש לי משהו מתוכנן להיום,qa_factoid,0.2585,0.0292,False
+8562,he-IL,calendar,calendar_remove,מחק את הפגישה שלי היום בשעה שתיים בצהריים,weather_query,0.7239,0.0135,False
+8568,he-IL,calendar,calendar_set,האם תוכל לשלוח הזמנת יומן ליוסף ושמרית לארוחת בוקר מאוחרת ביום שלישי באחת עשרה בבוקר,email_sendemail,0.9982,0.0,False
+8570,he-IL,calendar,calendar_set,האם תוכל לסמן שאני עסוק לאירוע מחר בשתיים בצהריים,qa_factoid,0.9897,0.0005,False
+8579,he-IL,calendar,calendar_query,איזה מידע אני צריך לדעת על הפגישות שלי היום,email_query,0.2134,0.0222,False
+8585,he-IL,calendar,calendar_set,תזכיר לי שיש לי מסיבת יום הולדת בשלושים,qa_factoid,0.3657,0.0274,False
+8598,he-IL,calendar,calendar_set,תזכיר לי לאסוף את מני משדה התעופה בשש בערב,weather_query,0.5899,0.005,False
+8618,he-IL,calendar,calendar_set,הזכר לי להשקות את הצמחים שלי בכל יום שלישי חמישי ושבת,cooking_recipe,0.9008,0.0006,False
+8631,he-IL,calendar,calendar_remove,מחק זאת מהיומן שלי,qa_factoid,0.984,0.0001,False
+8635,he-IL,calendar,calendar_set,האם תוכל להזכיר לי להזמין בשר הודו שלושה שבועות לפני ראש השנה,social_post,0.8849,0.0003,False
+8640,he-IL,calendar,calendar_set,אני רוצה לרשום הערה ביומן שלי לאירוע מחר בספרייה,iot_hue_lightoff,0.893,0.0024,False
+8642,he-IL,calendar,calendar_set,הוסף שיחת ועידה בארבע אחר הצהריים לתזכורות שלי להיום,email_sendemail,0.9971,0.0005,False
+8651,he-IL,calendar,calendar_set,תודיע לי לגבי האירוע ביומן שלי,qa_factoid,0.6397,0.0193,False
+8653,he-IL,calendar,calendar_set,תזכיר לי לגבי האירוע ביומן שלי,qa_factoid,0.9515,0.0023,False
+8666,he-IL,calendar,calendar_remove,מחק את כל האירועים מהיומן שלי,play_music,0.65,0.0038,False
+8667,he-IL,calendar,calendar_query,בשלושת החודשים האחרונים כמה פגישות היו לי עם מר לוי,recommendation_events,0.7096,0.0028,False
+8670,he-IL,calendar,calendar_remove,הסר אירועים מיומן,social_post,0.9049,0.0018,False
+8672,he-IL,calendar,calendar_query,איפה זה הקונצרט של איפה הילד,qa_factoid,0.7502,0.0109,False
+8674,he-IL,calendar,calendar_query,היכן הפגישה שלי בתשע בבוקר,weather_query,0.9906,0.0002,False
+8679,he-IL,calendar,calendar_query,האם היום חנוכה,weather_query,0.6811,0.0011,False
+8681,he-IL,calendar,calendar_query,האם היום יום ההולדת למישהו,qa_factoid,0.5239,0.0039,False
+8694,he-IL,calendar,calendar_set,האירוע יכלול את יוסף ומרים,social_post,0.9956,0.0002,False
+8730,he-IL,calendar,calendar_set,בבקשה תגדיר תזכורת ביומן שלי לגבי הפגישה שלי בעשרים וחמישה במרץ,qa_factoid,0.8704,0.0012,False
+8732,he-IL,calendar,calendar_remove,מחק את כל התאריכים,weather_query,0.6652,0.0037,False
+8762,he-IL,calendar,calendar_query,תגידי לי מה הלוז שלי להיום אחר הצהריים,weather_query,0.2434,0.0251,False
+8765,he-IL,calendar,calendar_set,תכניס ליומן את ארוחת הערב שלי בארומה להיום בתשע,play_music,0.7633,0.0031,False
+8766,he-IL,calendar,calendar_query,האם יש לי פגישה ביום שבת העשרים וחמש במרץ,weather_query,0.9891,0.0004,False
+8767,he-IL,calendar,calendar_query,האם יום ההולדת של יסמין היא בשניים עשר באפריל,datetime_query,0.6008,0.0304,False
+8769,he-IL,calendar,calendar_remove,תמחק את האירוע הקרוב,qa_factoid,0.8914,0.0024,False
+8771,he-IL,calendar,calendar_remove,מחק את טיול הקניות שקבעתי לעשרים ושלישי במרץ,social_post,0.2307,0.0202,False
+8774,he-IL,calendar,calendar_query,האם לוח זמנים שלי ל שביעי ליולי פתוח לגמרי,email_query,0.7634,0.0005,False
+8781,he-IL,calendar,calendar_query,האם אני פנוי בארבע אחר הצהריים,weather_query,0.5092,0.0198,False
+8782,he-IL,calendar,calendar_query,יש לי פגישה היום אחר הצהריים,weather_query,0.4375,0.0213,False
+8791,he-IL,calendar,calendar_query,מידע נוסף על האירוע הזה,news_query,0.3756,0.0147,False
+8795,he-IL,calendar,calendar_query,הצג את התזכורות בהמשתנה,qa_factoid,0.927,0.0012,False
+8822,he-IL,recommendation,recommendation_events,מידע על האירועים הקרובים,weather_query,0.2084,0.1903,False
+8824,he-IL,calendar,calendar_query,מה יש לי בתשעה עשר בשתיים בצוהריים,weather_query,0.8989,0.0034,False
+8825,he-IL,calendar,calendar_set,תשלחי לי תזכורת על הפגישה שלי עם חיים ביום שישי הבא,email_sendemail,0.9998,0.0,False
+8828,he-IL,calendar,calendar_query,האם האירוע בלוח השנה הוא נכון,qa_factoid,0.9991,0.0,False
+8846,he-IL,calendar,calendar_query,יש לי משהו מתוכנן ל יום העצמאות השנה,cooking_recipe,0.4844,0.02,False
+8853,he-IL,calendar,calendar_remove,תמחק את הפעילות הבאה שלי,iot_hue_lightoff,0.9332,0.0071,False
+8856,he-IL,calendar,calendar_remove,מחק את כל האירועים ביומן,play_music,0.4713,0.0124,False
+8857,he-IL,calendar,calendar_set,תזכיר פגישה קרובה עם ברי סחרוף,cooking_recipe,0.1338,0.0339,False
+8868,he-IL,calendar,calendar_set,הזכר לי להתקשר לאמא כל יום שלישי בעשר בבוקר,email_sendemail,0.9209,0.0009,False
+8880,he-IL,calendar,calendar_set,קבע תזכורת לגבי הפגישה של מחר בתשע בבוקר,calendar_remove,0.3944,0.0356,False
+8888,he-IL,calendar,calendar_remove,הסר אירוע,iot_hue_lightoff,0.719,0.0076,False
+8900,he-IL,calendar,calendar_set,הגדר תזכורת חוזרת כל יום ראשון,qa_factoid,0.6344,0.0125,False
+8904,he-IL,calendar,calendar_query,מידע על האירועים האחרונים,news_query,0.3339,0.0124,False
+8906,he-IL,calendar,calendar_set,קבע תאריך לאירוע בלוח השנה עם האחרים,datetime_query,0.971,0.0022,False
+8907,he-IL,calendar,calendar_set,תזכיר את האירוע ביומן עם כולם,social_post,0.4766,0.0185,False
+8912,he-IL,calendar,calendar_query,תן לי את אירועי היומן של היום אחרי שש בערב,weather_query,0.3388,0.0193,False
+8914,he-IL,calendar,calendar_query,באיזו שעה הפגישה שלי בארבעה באפריל,weather_query,0.9585,0.0001,False
+8916,he-IL,calendar,calendar_query,מה הלוז שלי להמשך היום,email_query,0.1788,0.0217,False
+8925,he-IL,calendar,calendar_remove,תמחקי את כל האירועים ביומן שלי,lists_remove,0.4613,0.0245,False
+8939,he-IL,calendar,calendar_set,בריתה שלי הילי,qa_factoid,0.6922,0.0123,False
+8948,he-IL,calendar,calendar_set,הוספת אירוע לפגישה עם שחר,social_post,0.8908,0.0012,False
+8949,he-IL,calendar,calendar_remove,תמחקי את התזכורת,qa_factoid,0.8706,0.0088,False
+8958,he-IL,calendar,calendar_query,תפתחי זמן פגישות,qa_factoid,0.922,0.0011,False
+8960,he-IL,calendar,calendar_set,אני רוצה שתיצרי התראה בערב על הפגישה הקרובה,iot_hue_lightoff,0.2676,0.0085,False
+8967,he-IL,calendar,calendar_set,הזכר לי יומיים לפני יום ההולדת של אישתי,social_post,0.5168,0.0158,False
+8968,he-IL,calendar,calendar_set,ספר לי משהו שאני צריך לזכור השבוע,email_query,0.5897,0.001,False
+8975,he-IL,calendar,calendar_query,אילו פגישות מתוכננות להיום,recommendation_events,0.91,0.0032,False
+8977,he-IL,calendar,calendar_set,פשוט הוסף תזכורות לתשלומים שעדיין לא שולמו,qa_factoid,0.66,0.0038,False
+8978,he-IL,calendar,calendar_set,רק תני לי לדעת את הפגישות החשובות עם המנהל שלי במשך השבוע,recommendation_events,0.6926,0.002,False
+8985,he-IL,calendar,calendar_remove,אוקיי גוגל תמחק את יום ההולדת של אריק מהיומן,qa_factoid,0.3376,0.1424,False
+8990,he-IL,calendar,calendar_set,צור אירוע,qa_factoid,0.9963,0.0,False
+8992,he-IL,calendar,calendar_set,תראה פגישות,play_radio,0.418,0.0123,False
+9009,he-IL,calendar,calendar_remove,הסר אירוע יום הנישואין מהיומן שלי,iot_hue_lightoff,0.7026,0.0162,False
+9011,he-IL,calendar,calendar_query,חנוכה ארבעה עשר לחודש הזה,iot_hue_lightoff,0.2715,0.0375,False
+9014,he-IL,calendar,calendar_set,תגדיר התראה לעשרים ושלושה באוקטובר לגבי פגישה עם חבר שלי לעבודה,social_post,0.2785,0.0224,False
+9015,he-IL,calendar,calendar_remove,נקה את כל האירועים מלוח השנה שלי,lists_remove,0.9268,0.0268,False
+9019,he-IL,calendar,calendar_query,פגישות מהעשרים עד העשרים וחמש ביוני,datetime_query,0.1557,0.0433,False
+9030,he-IL,calendar,calendar_remove,תמחקי מהיומן את התור שלי היום לרופא,cooking_recipe,0.603,0.0093,False
+9035,he-IL,calendar,calendar_query,תזכורת נישואין של רפי,email_sendemail,1.0,0.0,False
+9043,he-IL,calendar,calendar_set,האירועים הבאים בלוח שנה,news_query,0.5069,0.0059,False
+9053,he-IL,calendar,calendar_set,הוסף תזכורת לפגישה עם מירי ביום שלישי,email_sendemail,0.951,0.0007,False
+9054,he-IL,calendar,calendar_set,תזכורת אירוע מונה יום שלישי,email_sendemail,0.1431,0.0386,False
+9059,he-IL,calendar,calendar_set,תתריע לי בזמן האירוע,qa_factoid,0.8634,0.0068,False
+9061,he-IL,calendar,calendar_query,איזה מידע יש לי על תזכורות,qa_factoid,0.9958,0.0001,False
+9062,he-IL,calendar,calendar_set,האם את יכול לשים את יום ההולדת של לי בעשרים ושניים ביוני,qa_factoid,0.7771,0.004,False
+9074,he-IL,calendar,calendar_remove,הסר אירוע זה בבקשה,iot_hue_lightoff,0.4358,0.0642,False
+9088,he-IL,calendar,calendar_remove,מחק הכל מהיומן שלי,play_music,0.9983,0.0,False
+9095,he-IL,calendar,calendar_remove,הסר את ארוחת הערב של הערב עם שלי,calendar_remove,0.9551,0.9551,True
+9103,he-IL,calendar,calendar_query,האם ישנה פגישה ביומן שלי אחר צהריים זה,weather_query,0.9549,0.0025,False
+9107,he-IL,calendar,calendar_query,באיזו שעה ההופעה של עומר אדם בשלושה ביוני מתחילה,weather_query,0.9148,0.0004,False
+9110,he-IL,calendar,calendar_set,תערוכה של יאיוי קוסמה בעשרים וחמישי למרץ רשום הערה לגביה במקביל,datetime_query,0.198,0.0385,False
+9112,he-IL,calendar,calendar_set,להוסיף את זאת ליומן שלי,email_sendemail,0.8569,0.0,False
+9114,he-IL,calendar,calendar_set,צור תזכורת חוזרת עבור אירוע הזה בלוח השנה,calendar_remove,0.2754,0.011,False
+9116,he-IL,calendar,calendar_query,אתה יכול להזיז את הפגישה שלי,iot_hue_lightoff,0.9426,0.0024,False
+9121,he-IL,calendar,calendar_query,איזה ימים מוזמנים יש לי,weather_query,0.532,0.0281,False
+9124,he-IL,calendar,calendar_set,הצג את האירועים בשבוע הבא שמופיעים ביומן העבודה שלי,play_podcasts,0.446,0.0135,False
+9137,he-IL,calendar,calendar_query,באיזו שעה קפה איטלקי סגור בין ארוחת הצהריים לארוחת הערב,weather_query,0.9718,0.0037,False
+9138,he-IL,qa,qa_factoid,מתי מתחיל המונדיאל באופן רשמי,qa_factoid,0.481,0.481,True
+9149,he-IL,calendar,calendar_query,באיזו שעה ארוחת הערב בחליפות הטוקסידו אמורה להתחיל,weather_query,0.9617,0.001,False
+9153,he-IL,calendar,calendar_set,תוסיף ארוחת ערב עם מרים ללוח השנה שלי ביום שבת,cooking_recipe,0.8478,0.0052,False
+9155,he-IL,calendar,calendar_set,קבע בבקשה תור לרופא שיניים ביום שישי בשלוש,datetime_query,0.2411,0.0216,False
+9156,he-IL,calendar,calendar_set,תזכיר,qa_factoid,0.9922,0.0002,False
+9175,he-IL,calendar,calendar_query,האם היומן שלי עודכן בעשר הדקות האחרונות,iot_hue_lightoff,0.4902,0.0141,False
+9182,he-IL,calendar,calendar_remove,בטל את התכניות שלי לאסוף את הוריי משדה התעופה,transport_query,0.4789,0.1999,False
+9187,he-IL,calendar,calendar_set,חקור את הלקוחות שישתתפו בפגישה,qa_factoid,0.5573,0.003,False
+9193,he-IL,calendar,calendar_set,בקשה הגדר תאריך זה לחזור על עצמו,qa_factoid,1.0,0.0,False
+9194,he-IL,calendar,calendar_remove,אנא הסר אירוע זה מהיומן שלי,social_post,0.7401,0.0135,False
+9197,he-IL,calendar,calendar_query,מה יש לי מתוכנן לשבוע זה,datetime_query,0.6357,0.004,False
+9198,he-IL,calendar,calendar_query,אנא בדוק את התזכורות שלי,qa_factoid,0.5472,0.0037,False
+9202,he-IL,play,play_radio,נגן את תחנת הרדיו שלי,play_music,0.6971,0.2989,False
+9204,he-IL,play,play_radio,תתחיל גלגלצ ברדיו,play_music,0.9788,0.0179,False
+9212,he-IL,play,play_radio,מישהו נגני את הרדיו,qa_factoid,0.8154,0.0466,False
+9216,he-IL,play,play_radio,נגן את התחנה שלי,play_radio,0.7494,0.7494,True
+9225,he-IL,play,play_radio,תוכל בבקשה להדליק את הרדיו,iot_hue_lightoff,0.8691,0.0351,False
+9233,he-IL,play,play_radio,תפתח פנדורה,qa_factoid,0.8046,0.0003,False
+9236,he-IL,play,play_radio,לך לתחנה מאה ושש נקודה תשע,iot_hue_lightoff,0.8749,0.0046,False
+9237,he-IL,play,play_radio,תפתח רדיו ונגן תחנת מאה ושש נקודה תשע,play_music,0.8372,0.1597,False
+9250,he-IL,play,play_radio,אני רוצה להקשיב לרדיו,play_radio,1.0,1.0,True
+9254,he-IL,play,play_radio,בבקשה תכוון רדיו שמונים ושמונה אף אם,qa_factoid,0.976,0.0003,False
+9263,he-IL,play,play_radio,פתח את אפליקציית הרדיו,play_podcasts,0.481,0.1265,False
+9269,he-IL,play,play_radio,כווני לשמונים ושמונה אף אם,email_query,0.5324,0.0083,False
+9270,he-IL,play,play_radio,רק תנגן שמונים ושמונה אף אם,play_music,0.9995,0.0004,False
+9275,he-IL,play,play_radio,יש לנגן רק שמונים ושמונה אף אם,play_music,0.9962,0.0031,False
+9284,he-IL,play,play_radio,נגני אפ אם,qa_factoid,0.9925,0.0001,False
+9291,he-IL,play,play_radio,שים,qa_factoid,0.7979,0.0111,False
+9301,he-IL,play,play_radio,נגן שמונים ושמונה אף אם,email_query,0.9757,0.0003,False
+9303,he-IL,play,play_radio,נגן את תחנת ישנים,play_radio,0.7529,0.7529,True
+9305,he-IL,play,play_radio,תעבירי ללהיטים קלאסים,play_music,0.991,0.0001,False
+9316,he-IL,play,play_radio,נגן שמונים ושמונה בשבילי,iot_hue_lightoff,0.1167,0.0306,False
+9317,he-IL,play,play_radio,תדליקי את הרדיו עכשיו,play_music,0.9932,0.0015,False
+9321,he-IL,play,play_radio,תפתח את הרדיו עכשיו,play_music,0.5778,0.4165,False
+9323,he-IL,play,play_radio,התחל פנדורה,qa_factoid,0.5536,0.4127,False
+9326,he-IL,play,play_radio,בבקשה נגן רדיו תחנת גלגלצ עכשיו,qa_factoid,0.3517,0.0085,False
+9327,he-IL,play,play_radio,בבקשה סרוק את רדיו תכנית הבוקר ברגע זה,calendar_remove,0.479,0.0576,False
+9330,he-IL,play,play_radio,הפעל,qa_factoid,0.9908,0.0084,False
+9341,he-IL,play,play_radio,alexa החליפי את תחנת הרדיו,play_radio,0.8097,0.8097,True
+9352,he-IL,play,play_radio,נגן רדיו בבקשה,play_music,0.9995,0.0002,False
+9353,he-IL,play,play_radio,התחל לנגן קצת מוזיקה ברדיו,play_music,0.9996,0.0,False
+9358,he-IL,play,play_radio,הדלק ערוץ רדיו מאה ושלוש אפ אמ,play_music,0.6047,0.0596,False
+9361,he-IL,play,play_radio,תקשיב לרדיו,play_radio,1.0,1.0,True
+9362,he-IL,play,play_radio,ערוצי רדיו,play_music,0.6537,0.0011,False
+9363,he-IL,play,play_radio,בוא נשמיע להיטים ברדיו,play_music,0.9998,0.0,False
+9364,he-IL,play,play_radio,בוא נשמע להיטים,play_music,1.0,0.0,False
+9380,he-IL,play,play_radio,אני רוצה לעבור לתחנה מאה ושלוש ברדיו,play_radio,0.9214,0.9214,True
+9384,he-IL,play,play_radio,נגן מאה ושלוש אפ אמ,email_query,0.4236,0.0153,False
+9394,he-IL,play,play_radio,היי אולי תפתח את הרדיו,qa_factoid,0.9904,0.0079,False
+9402,he-IL,play,play_radio,נגן את תחנת הרדיו שמונים ושמונה אף אם,play_podcasts,0.7403,0.0206,False
+9406,he-IL,play,play_radio,תדליקי את שמונים ושמונה אף אם,email_sendemail,0.7916,0.0,False
+9408,he-IL,play,play_radio,התחל לנגן רדיו,play_music,0.9974,0.0022,False
+9426,he-IL,play,play_radio,אני רוצה לשמוע תחנה שמשמיעה מוסיקה מזרחית,play_music,0.9292,0.0001,False
+9438,he-IL,play,play_radio,תוכל לנגן לי שיר ראפ ברדיו,play_music,0.9997,0.0,False
+9457,he-IL,play,play_music,נגן את השיר רקדי,play_music,1.0,1.0,True
+9460,he-IL,play,play_music,נגן היפ הופ משנות התשעים,email_query,0.9986,0.0008,False
+9471,he-IL,play,play_radio,תדליק תחנת מוזיקה מזרחית,play_music,0.8101,0.1163,False
+9494,he-IL,play,play_radio,תוכל בבקשה לנגן תחנת אפ אמ שמנגנת שירים של פופ,play_music,0.9804,0.0186,False
+9506,he-IL,play,play_radio,olly הבה נשמע כאן שמונים ושמונה,weather_query,0.8531,0.0038,False
+9507,he-IL,play,play_radio,בבקשה תמצאי תחנת רדיו שמתנגן כרגע דוד לוי,iot_hue_lightoff,0.8326,0.0207,False
+9519,he-IL,play,play_radio,נגן כל פופ בתחנת אף אם,play_music,0.4086,0.0122,False
+9520,he-IL,play,play_radio,נגן את הרופא האחרון בשידור רדיו,play_podcasts,0.8543,0.0149,False
+9524,he-IL,play,play_radio,תפתח תכנית בשמונים ושמונה,play_podcasts,0.7597,0.0052,False
+9528,he-IL,play,play_radio,הדלק קצת כאן גימל ונגן אותם דרך הרמקולים,play_radio,0.4066,0.4066,True
+9541,he-IL,play,play_radio,נגן את השיר שני משוגעים ברדיו,play_music,0.9998,0.0,False
+9542,he-IL,play,play_radio,תן לי לשמוע את תכנית החדשות האחרוהב ברדיו,play_podcasts,1.0,0.0,False
+9545,he-IL,play,play_radio,אני רוצה לשמוע את תכנית דוד לוי,play_podcasts,1.0,0.0,False
+9554,he-IL,play,play_radio,נגן מוזיקה רומנטית במאה ושלוש אפ אמ,play_music,1.0,0.0,False
+9561,he-IL,play,play_radio,נגן גלצ ברדיו,play_podcasts,0.4929,0.0191,False
+9562,he-IL,play,play_radio,תוכלי לנגן בבקשה התכנית הזאת בשבילי,play_podcasts,0.7147,0.049,False
+9565,he-IL,play,play_radio,נגן רדיו עם שירים בלי הפסקה,play_music,0.9983,0.0,False
+9568,he-IL,play,play_radio,נגן סדרת הופעות חיות של נועה קירל,play_podcasts,0.7117,0.0089,False
+9569,he-IL,play,play_radio,טוב גווגל נגן שמונים ושמונה,social_post,0.7478,0.0078,False
+9577,he-IL,play,play_radio,שנה את התחנה לשמונים ושמונה,cooking_recipe,0.5334,0.0162,False
+9591,he-IL,play,play_radio,נגן הבוקר בשמונים ושמונה אפ אם,qa_factoid,0.4472,0.1345,False
+9592,he-IL,play,play_podcasts,חפש פודקאסטים שמכסים נושאים של גברים,social_post,0.8478,0.0003,False
+9594,he-IL,play,play_radio,שירים של מאה ושלוש אפ אמ,play_music,0.9883,0.0004,False
+9601,he-IL,play,play_radio,נגן רדיו מזרחי,play_music,0.9994,0.0001,False
+9617,he-IL,play,play_radio,נגן לי את תכנית הבוקר הזאת בתשעים ואחד נקודה שמונה,play_podcasts,0.999,0.0,False
+9619,he-IL,play,play_radio,נגן משינה ברדיו ברכב,play_music,0.9997,0.0,False
+9620,he-IL,play,play_radio,אני יכול להשיג דלילה ברדיו בחדר שינה,play_music,0.6978,0.0514,False
+9629,he-IL,play,play_radio,תוכל בבקשה לעזור לי להקשיב לרדיו,play_radio,1.0,1.0,True
+9630,he-IL,play,play_radio,נגן רדיוס מאה אף אם בשבילי,play_music,0.9983,0.0002,False
+9632,he-IL,play,play_radio,רדיו בבקשה,play_radio,0.9983,0.9983,True
+9637,he-IL,play,play_radio,התחל את הפלייליסט שלי בגלצ,play_music,0.6218,0.3133,False
+9640,he-IL,play,play_radio,פתח ספוטיפיי והתחל אימון,email_query,0.8136,0.0015,False
+9651,he-IL,play,play_radio,נגן נטפליקס בפלייסטיישן ארבע שלי,play_radio,0.1529,0.1529,True
+9656,he-IL,play,play_music,נגן לי שיר קצבי דרך הרמקולים,play_music,1.0,1.0,True
+9706,he-IL,play,play_music,נגן סביבון סוב סוב סוב,weather_query,0.846,0.0049,False
+9707,he-IL,play,play_music,פתח מדיה ונגן חנוכה חג יפה כל כך,play_music,0.3787,0.3787,True
+9738,he-IL,play,play_music,תוכל בבקשה לנגן לי מוזיקה קלאסית,play_music,1.0,1.0,True
+9793,he-IL,play,play_music,תפעילי שירים רומנטיים,play_music,0.9996,0.9996,True
+9795,he-IL,play,play_music,המשך את שני משוגעים,cooking_recipe,0.1742,0.0622,False
+9912,he-IL,cooking,cooking_recipe,אולי כמה זמן לבשל ביצים,cooking_recipe,0.6411,0.6411,True
+9918,he-IL,cooking,cooking_recipe,איך מכינים פיצה,cooking_recipe,0.9999,0.9999,True
+9923,he-IL,cooking,cooking_recipe,כמה זמן אני צריך לבשל ביצה,cooking_recipe,0.9982,0.9982,True
+9924,he-IL,cooking,cooking_recipe,תני לי את המתכון של,cooking_recipe,0.9985,0.9985,True
+9930,he-IL,cooking,cooking_recipe,כמה זמן לבשל ביצה,cooking_recipe,0.9993,0.9993,True
+9931,he-IL,cooking,cooking_recipe,אולי כמה זמן לבשל ביצה,cooking_recipe,0.9233,0.9233,True
+9940,he-IL,cooking,cooking_recipe,תמצא לי מתכון לעוגת שוקולד,cooking_recipe,0.9999,0.9999,True
+9941,he-IL,cooking,cooking_recipe,איך אני מבשל עוף בתנור,cooking_recipe,0.9998,0.9998,True
+9942,he-IL,cooking,cooking_recipe,מה כל מה שהולך לתוך עוגת קטיפה אדומה,lists_query,0.4896,0.0326,False
+9943,he-IL,cooking,cooking_recipe,כמה זמן לוקח להכין לזניית ירקות,cooking_recipe,0.9999,0.9999,True
+9952,he-IL,cooking,cooking_recipe,תני לי מדריך בישול,cooking_recipe,0.9985,0.9985,True
+9955,he-IL,cooking,cooking_recipe,תראי לי סרטון על בישול עוף מטוגן,cooking_recipe,0.9996,0.9996,True
+9956,he-IL,cooking,cooking_recipe,במה אפשר להשתמש במקום חמאה,qa_definition,0.9243,0.0113,False
+9961,he-IL,cooking,cooking_recipe,מה הטמפרטורה הכי טובה בתנור בשביל לאפות תפוחי אדמה,cooking_recipe,0.7872,0.7872,True
+9962,he-IL,cooking,cooking_recipe,מה הדרך הכי טובה לבשל פסטה אל דנטה,cooking_recipe,0.9999,0.9999,True
+9964,he-IL,cooking,cooking_recipe,מידע על עיבוד מזון,cooking_recipe,0.9882,0.9882,True
+9966,he-IL,cooking,cooking_recipe,מהי הדרך הקלה ביותר לבשל פסטה,cooking_recipe,0.9996,0.9996,True
+9969,he-IL,cooking,cooking_recipe,איזה מרכיב יכול לשמש כתחליף לזעפרן,qa_definition,0.7232,0.0043,False
+9971,he-IL,cooking,cooking_recipe,מה מוליך חום טוב יותר סירי נחושת או ברזל,iot_hue_lightoff,0.9263,0.0093,False
+9976,he-IL,cooking,cooking_recipe,היי רובוט תן לי רשימה של רכיבים לקוסקוס,qa_factoid,0.9051,0.0616,False
+9977,he-IL,cooking,cooking_recipe,בבקשה חפשי באינטרנט והציגי סרטוני יוטיוב מתאימים לבישול מאכלים איטלקיים,cooking_recipe,0.9639,0.9639,True
+9979,he-IL,cooking,cooking_recipe,בשל לי קצת שיבולת שועל,iot_hue_lightoff,0.4462,0.3994,False
+9980,he-IL,cooking,cooking_recipe,מה המתכון היום תוסיף קצת ירקות מאודים גם לשם,cooking_recipe,0.9993,0.9993,True
+9986,he-IL,cooking,cooking_recipe,הרתחה,qa_factoid,1.0,0.0,False
+9994,he-IL,cooking,cooking_recipe,את יכול לומר לי את המתכון לבשל חומוס פול,cooking_recipe,0.9997,0.9997,True
+10016,he-IL,cooking,cooking_recipe,בחמישה משפטים מה תהליך הכנת חומוס,cooking_recipe,0.5026,0.5026,True
+10019,he-IL,cooking,cooking_recipe,בבשקה תגיד לי איך לאפות שתיפ עשרה עוגיות שיבולת שועל,cooking_recipe,0.9979,0.9979,True
+10023,he-IL,cooking,cooking_recipe,מה אני צריך כדי להכין שווארמה כבש,cooking_recipe,1.0,1.0,True
+10027,he-IL,cooking,cooking_recipe,הוראות להכין ארוחה,cooking_recipe,1.0,1.0,True
+10031,he-IL,cooking,cooking_recipe,אני צריך מתכון מרכיבים מרשימת הקניות שלי,cooking_recipe,0.9978,0.9978,True
+10038,he-IL,cooking,cooking_recipe,אני צריך רעיונות טובים לבישול,cooking_recipe,0.6278,0.6278,True
+10045,he-IL,cooking,cooking_recipe,אתה יכול לתת לי מתכון למרק עוף ואטריות תוצרת בית,cooking_recipe,1.0,1.0,True
+10048,he-IL,cooking,cooking_recipe,איך אני מכין תרנגול הודו,cooking_recipe,1.0,1.0,True
+10049,he-IL,cooking,cooking_recipe,תאמר לי איך להכין סנדוויץ' טוניסאי,cooking_recipe,0.9999,0.9999,True
+10053,he-IL,cooking,cooking_recipe,איך אני מכין פיצה,cooking_recipe,0.9999,0.9999,True
+10055,he-IL,cooking,cooking_recipe,מהו המתכון לעוף מטוגן,cooking_recipe,0.9981,0.9981,True
+10061,he-IL,cooking,cooking_recipe,מה כדאי לי להכין לארוחת ערב,cooking_recipe,0.9999,0.9999,True
+10072,he-IL,cooking,cooking_recipe,זמני אפיה לעוף בתנור,cooking_recipe,0.7959,0.7959,True
+10076,he-IL,cooking,cooking_recipe,האם אפשר להחליף סודה לשתייה באבקת אפייה,cooking_recipe,0.8622,0.8622,True
+10077,he-IL,cooking,cooking_recipe,מצא מתכון לארוחת ערב הערב,cooking_recipe,0.8772,0.8772,True
+10078,he-IL,cooking,cooking_recipe,מה כדאי לי לבשל לארוחת ערב,cooking_recipe,0.9998,0.9998,True
+10080,he-IL,cooking,cooking_recipe,בוא נשב קציצות בשר ביחד,cooking_recipe,0.997,0.997,True
+10081,he-IL,cooking,cooking_recipe,ספר לי איך לבשל קציצות,cooking_recipe,0.9999,0.9999,True
+10090,he-IL,cooking,cooking_recipe,אני יכול לקבל מתכון לטונה,qa_factoid,0.6247,0.0003,False
+10093,he-IL,cooking,cooking_recipe,איך מכנים לזניה,qa_definition,0.5134,0.0,False
+10097,he-IL,cooking,cooking_recipe,הייתי רוצה צ'יזבורגר,recommendation_events,0.7522,0.0054,False
+10099,he-IL,cooking,cooking_recipe,אתה יודע איך להכין ריזוטו,cooking_recipe,0.9999,0.9999,True
+10100,he-IL,cooking,cooking_recipe,אתה מכיר מתכון ריסוטו,cooking_recipe,0.9991,0.9991,True
+10105,he-IL,cooking,cooking_recipe,כמה זמן לבשל סטייק בשביל מדיום רייר,cooking_recipe,0.9994,0.9994,True
+10107,he-IL,cooking,cooking_recipe,אני צריך מתכון של אורז בסמטי צמחוני,cooking_recipe,1.0,1.0,True
+10119,he-IL,cooking,cooking_recipe,כמה זמן אתה מבשל הודו של חמש עשרה פאונד,qa_factoid,0.6478,0.0019,False
+10125,he-IL,cooking,cooking_recipe,מה ההבדל בין אפייה לצלייה,qa_factoid,0.8117,0.0035,False
+10132,he-IL,cooking,cooking_recipe,כמה זמן לבשל סטייק בשביל מדיום,cooking_recipe,0.9968,0.9968,True
+10150,he-IL,cooking,cooking_recipe,איך להכין טאקו,cooking_recipe,0.9999,0.9999,True
+10156,he-IL,cooking,cooking_recipe,אני רוצה לדעת איך מכינים ממולאים,cooking_recipe,0.999,0.999,True
+10164,he-IL,cooking,cooking_recipe,כמה זמן אני מבשל מקרוני,qa_factoid,0.8346,0.0022,False
+10166,he-IL,cooking,cooking_recipe,חפש מתכון לפאי תפוחים,qa_factoid,0.9006,0.0898,False
+10171,he-IL,cooking,cooking_recipe,מה המתכון למרק דגים,cooking_recipe,0.9988,0.9988,True
+10177,he-IL,cooking,cooking_recipe,איך לבש דלעת ספגטי,cooking_recipe,0.9987,0.9987,True
+10182,he-IL,cooking,cooking_recipe,כמה ביצים אני צריך לחביתה,cooking_recipe,0.513,0.513,True
+10197,he-IL,cooking,cooking_recipe,הראה לי מתכון הכי טוב לספגטי,cooking_recipe,0.9999,0.9999,True
+10206,he-IL,cooking,cooking_recipe,איך מכינים אורז,cooking_recipe,0.9999,0.9999,True
+10213,he-IL,cooking,cooking_recipe,רשימת מתכונים מפורסמים לאוכל הודי,cooking_recipe,1.0,1.0,True
+10214,he-IL,cooking,cooking_recipe,מתכונים שאפשר להכין בשעה,cooking_recipe,0.5321,0.5321,True
+10216,he-IL,cooking,cooking_recipe,תקני באינטרנט אביזרי אפייה למאפינס,iot_hue_lightoff,0.8485,0.013,False
+10217,he-IL,cooking,cooking_recipe,מצא את המתכון לקוסקוס באפליקציה cookingforu,cooking_recipe,1.0,1.0,True
+10220,he-IL,cooking,cooking_recipe,איזה מצרכים אני צריך בשביל לאפות עוגה,cooking_recipe,0.9994,0.9994,True
+10224,he-IL,cooking,cooking_recipe,זה חייב להיות טעים,cooking_recipe,0.9979,0.9979,True
+10226,he-IL,cooking,cooking_recipe,תלמד אותי את המתכון לפסטה,cooking_recipe,0.9768,0.9768,True
+10426,he-IL,lists,lists_query,מה עוד חסר ביומן,lists_remove,0.8493,0.0684,False
+10427,he-IL,lists,lists_remove,נקה את רשימת הקניות שלי,lists_remove,0.9939,0.9939,True
+10430,he-IL,lists,lists_remove,תמחקי את הפריט הראשון ברשימה,cooking_recipe,0.5748,0.0237,False
+10433,he-IL,lists,lists_remove,תמחקי את רשימת המשימות שלי,play_radio,0.5964,0.0079,False
+10440,he-IL,lists,lists_query,איזשהם אירועים מיוחדים ברשימה שלי,recommendation_events,0.4424,0.0254,False
+10442,he-IL,lists,lists_remove,תמחקי את האירועים מהרשימה שלי,play_music,0.5464,0.0279,False
+10444,he-IL,lists,lists_remove,תמחקי את הפריט,play_music,0.9698,0.0001,False
+10451,he-IL,lists,lists_query,מה אני הולכת לעשות היום,cooking_recipe,0.5708,0.04,False
+10455,he-IL,lists,lists_query,מה יש ברשימת המטלות שלי,lists_query,0.8466,0.8466,True
+10462,he-IL,lists,lists_remove,תיפטרי מרשימה,iot_hue_lightoff,0.6372,0.0008,False
+10493,he-IL,lists,lists_query,מה יש ברשימה של דברים לעשות,cooking_recipe,0.904,0.0608,False
+10494,he-IL,lists,lists_remove,הסר עפרון מציוד משרדי,calendar_remove,0.3086,0.1941,False
+10497,he-IL,qa,qa_factoid,אני יכול לקבל רשימה של מלונות חמישה כוכבים באילת,recommendation_events,0.9777,0.0001,False
+10508,he-IL,lists,lists_remove,הסר פריט רשימה,lists_remove,0.9543,0.9543,True
+10512,he-IL,lists,lists_query,הציגי את כל מה שנשאר בסימן שאלה,lists_remove,0.4968,0.0294,False
+10523,he-IL,lists,lists_remove,מחר מפלייליסט מוזיקה ישראלית ישנה,play_music,0.9905,0.0003,False
+10525,he-IL,lists,lists_remove,תסירי את התשלום עבור המכונית מהיומן שלי,qa_factoid,0.9882,0.0024,False
+10527,he-IL,lists,lists_remove,תמחקי את הרשימה,social_post,0.4005,0.0966,False
+10534,he-IL,lists,lists_query,איך רשימת המשימות להיום,social_post,0.3147,0.0324,False
+10538,he-IL,lists,lists_query,תחזרי בבקשה על רשימת הקניות שלי,lists_remove,0.9718,0.0021,False
+10565,he-IL,lists,lists_remove,תמחקי את כל הרשימות,lists_remove,0.9941,0.9941,True
+10568,he-IL,lists,lists_remove,הסר רשימת מוזיקה ישנה,lists_remove,0.8095,0.8095,True
+10570,he-IL,lists,lists_query,בדוק את רשימת הדברים שלי לעשות,cooking_recipe,0.9582,0.0079,False
+10571,he-IL,lists,lists_query,אנדרואיד,iot_hue_lightoff,0.9537,0.0015,False
+10577,he-IL,lists,lists_query,תן לי את כל הרשימות שלי,lists_query,0.9842,0.9842,True
+10579,he-IL,lists,lists_remove,תאפסי את רשימת המיקומים שלי,lists_remove,0.9887,0.9887,True
+10588,he-IL,lists,lists_query,הראה לי את תוכן הרשימה,qa_factoid,0.9824,0.0001,False
+10590,he-IL,lists,lists_remove,הסר את השורה השנייה מהרשימה,calendar_remove,0.6663,0.0798,False
+10655,he-IL,lists,lists_remove,תמחקי את הרשימה שנקראת זמן מסיבה,lists_remove,0.2433,0.2433,True
+10667,he-IL,lists,lists_query,תקריא את לוחות הזמנים מתוך הרשימה,recommendation_events,0.8988,0.0009,False
+10673,he-IL,lists,lists_remove,הסר את הרשימה הבאה,social_post,0.4053,0.2239,False
+10674,he-IL,lists,lists_remove,תמחקי את הרשימה הנוכחית,social_post,0.443,0.2339,False
+10679,he-IL,lists,lists_query,מה יש ברשימת המטלות שלי היום,lists_query,0.6594,0.6594,True
+10684,he-IL,lists,lists_query,איזה רשימות שאלתי,lists_query,0.9952,0.9952,True
+10687,he-IL,lists,lists_remove,אם יש אירוע או הופעה אז הסר אותו,qa_factoid,0.9876,0.0006,False
+10696,he-IL,lists,lists_remove,החלף,qa_factoid,0.8083,0.0139,False
+10699,he-IL,lists,lists_query,תעדכני אותי על הפריטים ברשימה,qa_factoid,0.1555,0.0332,False
+10718,he-IL,lists,lists_remove,תוכלי להסיר את הפריט הזה מהרשימה,iot_hue_lightoff,0.8787,0.0078,False
+10731,he-IL,lists,lists_query,תקריאי מה יש ברשימה שלי,cooking_recipe,0.9834,0.0034,False
+10743,he-IL,lists,lists_remove,תמחקי את הפריט הזה,iot_hue_lightoff,0.2548,0.0087,False
+10753,he-IL,lists,lists_query,מה שמתי כבר ברשימת קניות לויקטורי,social_post,0.2722,0.2679,False
+10755,he-IL,lists,lists_remove,תמחקי את רשימת המשימות שלי בבקשה,lists_remove,0.2828,0.2828,True
+10756,he-IL,lists,lists_remove,נקה את רשימת הקניות,lists_remove,0.9765,0.9765,True
+10757,he-IL,lists,lists_query,איזה פריטים יש ברשימת הקניות שלי,lists_remove,0.6036,0.3744,False
+10759,he-IL,lists,lists_query,תקריאי לי את הרשימה שלי לקניות,recommendation_events,0.9107,0.068,False
+10760,he-IL,lists,lists_query,תקרא לי את הרשימה שכתבתי לפני יומיים,qa_factoid,0.6315,0.1959,False
+10770,he-IL,lists,lists_remove,תמחקי דגני בוקר מרשימת הקניות שלי,lists_remove,0.8738,0.8738,True
+10772,he-IL,calendar,calendar_remove,הסר את תור רופא השיניים שלי מלוח הזמנים של היום,lists_remove,0.2532,0.1378,False
+10776,he-IL,lists,lists_query,האם יש לי רשימת קניות מוכנה,lists_remove,0.4963,0.2013,False
+10786,he-IL,lists,lists_remove,תמחקי את רשימת הפעילויות שלי להיום,lists_remove,0.2582,0.2582,True
+10790,he-IL,lists,lists_remove,תמחקי פריט מהרשימה,cooking_recipe,0.2117,0.1683,False
+10804,he-IL,lists,lists_query,קרא את רשימת הקניות שלי,lists_query,0.7532,0.7532,True
+10805,he-IL,lists,lists_query,תראי לי בבקשה את הרשימה שיש לי,lists_query,0.983,0.983,True
+10808,he-IL,lists,lists_remove,תמחקי את הפריט האחרון שנוסף,calendar_remove,0.6313,0.1266,False
+10824,he-IL,lists,lists_remove,הולי תנקי את הרשימה,social_post,0.8379,0.0077,False
+10825,he-IL,lists,lists_remove,נקה רשימה,lists_remove,0.9975,0.9975,True
+10827,he-IL,lists,lists_remove,תמחקי את רשימת המכולת,social_post,0.4358,0.0213,False
+10828,he-IL,lists,lists_remove,מחק הכל,play_music,0.9882,0.0,False
+10832,he-IL,calendar,calendar_query,אולי מה התכנון הקרוב שלי,qa_factoid,0.9972,0.0001,False
+10843,he-IL,lists,lists_remove,תמחקי את החלב מרשימת המכולת שלי,cooking_recipe,0.9752,0.0031,False
+10846,he-IL,lists,lists_remove,אין לי מספיק כסף לקנות נינטנדו סוויץ כרגע תוכלי בבקשה למחוק את זה מהווישליסט שלי באמזון,qa_factoid,0.6796,0.0404,False
+10848,he-IL,lists,lists_remove,תמחקי את הרשימה הזאת מהאחרות,social_post,0.8173,0.0759,False
+10851,he-IL,lists,lists_query,מה הרשימות הזמינות שלי,lists_query,0.9994,0.9994,True
+10853,he-IL,lists,lists_remove,תוציאי את זה משם,qa_factoid,0.9338,0.0102,False
+10855,he-IL,lists,lists_query,אני צריכה לבדוק את הרשימה שלי,lists_query,0.3881,0.3881,True
+10868,he-IL,lists,lists_query,הולי האם נשאר משהו ברשימה שלי,lists_remove,0.6956,0.0288,False
+10887,he-IL,lists,lists_remove,מחק את הרשימה שלי,social_post,0.5636,0.0018,False
+10895,he-IL,lists,lists_remove,תמחקי את הפריט מהרשימה שלי,play_music,0.3761,0.011,False
+10909,he-IL,lists,lists_query,הולי תקריאי לי את הרשימות שלי,qa_factoid,0.9586,0.018,False
+10927,he-IL,lists,lists_query,תשמיעי לי את הרשימה שלי,lists_remove,0.4544,0.2799,False
+10931,he-IL,lists,lists_query,מה יש בפלייליסט שלי,qa_factoid,0.2757,0.1614,False
+10936,he-IL,lists,lists_remove,תמחקי בבקשה את הרשימה של אלבומים מועדפים,recommendation_events,0.9026,0.0268,False
+10954,he-IL,lists,lists_query,כמה רשימות יש לי באנשי הקשר,lists_query,0.9692,0.9692,True
+10956,he-IL,lists,lists_query,איזה קבוצות רשומות באנשי הקשר שלי,social_post,0.9758,0.0179,False
+10957,he-IL,lists,lists_query,תזכיר לי כמה רשימות יש לי,lists_remove,0.9782,0.0203,False
+10960,he-IL,lists,lists_remove,תמחקי את זה מהרשימה,play_radio,0.5074,0.0007,False
+10970,he-IL,lists,lists_remove,תמחקי את המשפט האחרון,qa_factoid,0.8321,0.0075,False
+10979,he-IL,lists,lists_query,מה יש ברשימה שלך כרגע,lists_query,0.383,0.383,True
+10981,he-IL,lists,lists_query,תעדכני אותי ברשימה,social_post,0.9503,0.0008,False
+10985,he-IL,lists,lists_remove,תמחקי את רשימת המטלות שלי השבוע,lists_remove,0.1811,0.1811,True
+10990,he-IL,lists,lists_remove,תמחקי מרשימת המטלות לנגב את המטבח,cooking_recipe,0.9998,0.0,False
+10999,he-IL,lists,lists_query,תקריאי את הרשימה,cooking_recipe,0.9904,0.0002,False
+11023,he-IL,lists,lists_remove,תמחקי את רשימת הקניות,lists_remove,0.6754,0.6754,True
+11024,he-IL,lists,lists_remove,תמחקי רשימת משימות,cooking_recipe,0.9778,0.001,False
+11053,he-IL,lists,lists_remove,תיפטר מהרשימה גוגל,qa_factoid,0.419,0.0816,False
+11075,he-IL,lists,lists_query,כמה רשימות יש לי,lists_remove,0.9359,0.0624,False
+11081,he-IL,lists,lists_query,איזה רשימות יש במחברת שלי,lists_query,0.8953,0.8953,True
+11085,he-IL,lists,lists_remove,תוציאי את החלב מרשימת הקניות,lists_remove,0.6068,0.6068,True
+11098,he-IL,lists,lists_remove,סלק את רשימת המסים משנת תשעים ותשע,calendar_remove,0.427,0.1112,False
+11107,he-IL,lists,lists_query,מה הרשימה הנוכחית שלי,lists_query,0.8957,0.8957,True
+11124,he-IL,lists,lists_query,הציגי את הפריטים ברשימת העבודה שלי,email_query,0.2983,0.0249,False
+11125,he-IL,lists,lists_query,תני לי פרטים על סדר ההזמנה,email_query,0.7295,0.0122,False
+11133,he-IL,lists,lists_remove,תמחקי את רשימת האורחים שיצרתי שבוע שעבר,social_post,0.9931,0.0009,False
+11154,he-IL,lists,lists_query,בדוק את רשימת המטלות שלי,qa_factoid,0.2923,0.0756,False
+11162,he-IL,lists,lists_remove,אני רוצה להוציא תפוחים מהרשימה,cooking_recipe,0.475,0.1972,False
+11164,he-IL,lists,lists_remove,תמצאי מהרשימה,play_podcasts,0.5558,0.0302,False
+11166,he-IL,lists,lists_query,תפתחי גוגל קיפ,iot_hue_lightoff,0.8765,0.003,False
+11168,he-IL,lists,lists_remove,תמחקי את הרשימה שלי,play_radio,0.5747,0.0567,False
+11172,he-IL,lists,lists_query,תציגי את כל הרשימות שיש,lists_query,0.8804,0.8804,True
+11174,he-IL,lists,lists_query,פרט את כל הרשימות על המכשיר הזה,lists_query,0.7537,0.7537,True
+11180,he-IL,calendar,calendar_query,תכנון המסיבה שלי,qa_factoid,0.9175,0.0016,False
+11186,he-IL,lists,lists_query,יש לי את רשימת הבגדים שלי,lists_remove,0.7258,0.2087,False
+11189,he-IL,lists,lists_query,מצא את הרשימה,lists_query,0.86,0.86,True
+11204,he-IL,lists,lists_query,מידע חשוב על הבית,email_query,0.9756,0.0015,False
+11215,he-IL,lists,lists_query,רשימה,play_radio,0.1652,0.1115,False
+11250,he-IL,lists,lists_query,קרא לי בחזרה את רשימת המצרכים שלי,lists_remove,0.2308,0.0828,False
+11257,he-IL,play,play_podcasts,אולי נגן את ההקלטה הבאה,social_post,0.4762,0.0591,False
+11259,he-IL,play,play_podcasts,קפוץ לפרק הבא,play_radio,0.5456,0.0166,False
+11261,he-IL,play,play_podcasts,הבא,qa_factoid,0.939,0.0001,False
+11265,he-IL,play,play_podcasts,נגן את האחד הבא,play_radio,0.9888,0.0002,False
+11266,he-IL,play,play_podcasts,נגן פודקאסט מהסיפריה שלי,social_post,0.655,0.0927,False
+11267,he-IL,play,play_podcasts,תמצא פודקאסט מעניין על זוכי פרס רכטר,recommendation_events,0.9441,0.0006,False
+11270,he-IL,play,play_podcasts,נגן את הפודקאסט הבא,play_music,0.8579,0.0039,False
+11272,he-IL,play,play_podcasts,נגן את הבא,play_radio,0.9947,0.0001,False
+11279,he-IL,play,play_podcasts,לך לפודקאסט ונגן את הפרק הבא ברמזור,social_post,0.7679,0.0199,False
+11286,he-IL,play,play_podcasts,נגן פודקאסט חיות כיס,play_music,0.9386,0.0038,False
+11296,he-IL,play,play_podcasts,העלה את כל הפודקאסט שלי,social_post,0.3489,0.0142,False
+11302,he-IL,play,play_podcasts,נגן הסכת שיר אחד,play_music,0.9916,0.0019,False
+11303,he-IL,play,play_podcasts,נגן את הפודקאסט חיות כיס,play_music,0.9994,0.0002,False
+11306,he-IL,play,play_podcasts,נגן את הפודקאסט שהקשבתי לו אתמול,play_music,0.9084,0.006,False
+11318,he-IL,play,play_podcasts,נגן את הפרק הבא בפודקאסט,iot_hue_lightoff,0.4073,0.0073,False
+11322,he-IL,play,play_podcasts,מה הפודקאסטים המובילים של היום,play_podcasts,0.8382,0.8382,True
+11328,he-IL,play,play_podcasts,נגני פודקאסט על תוכן מכבי חיפה,social_post,0.977,0.001,False
+11331,he-IL,play,play_podcasts,תראה לי את הפודקאסט הכי טוב של שירי רוק עם דירוג גבוה,qa_factoid,0.7141,0.0773,False
+11335,he-IL,play,play_music,נגן וערבב את כל שירי המוזיקה השקטה,play_music,0.9995,0.9995,True
+11339,he-IL,play,play_podcasts,נגני את פודקאסט הנצפים ביותר שלי,play_music,0.9928,0.0005,False
+11340,he-IL,play,play_podcasts,האם לחיות כיס יש פודקאסט חדש,qa_factoid,0.3511,0.0237,False
+11341,he-IL,play,play_podcasts,מצא את הפודקאסט הכי חדש של דיסני,recommendation_events,0.9308,0.0147,False
+11343,he-IL,play,play_podcasts,תמשיך לפרק הבא בשיר אחד,play_music,0.9971,0.0002,False
+11345,he-IL,play,play_podcasts,נגן את הפרק הבא בפודקאסט,iot_hue_lightoff,0.4073,0.0073,False
+11349,he-IL,play,play_podcasts,אולי תתחיל את הפודקאסט ההוא שהתחלתי אתמול בלילה,qa_factoid,0.798,0.0478,False
+11353,he-IL,play,play_podcasts,הראה לי הסכתים,social_post,0.9687,0.0017,False
+11361,he-IL,play,play_podcasts,הסכת חיות כיס נגן אותו,social_post,0.4326,0.0148,False
+11366,he-IL,play,play_podcasts,תחזור אל הפרק הקודם בבודקאסט,social_post,0.9978,0.0001,False
+11368,he-IL,play,play_podcasts,נגן לי פודקאסט של כאן,play_music,0.5062,0.226,False
+11376,he-IL,play,play_podcasts,אני רוצה לשמוע הסכת,social_post,0.9348,0.0601,False
+11384,he-IL,play,play_podcasts,תוכל להוריד את תיקיית הפודקאסט שלי שמוכנה באינטרנט ולהשמיע אותה פעם אחת,play_podcasts,0.9485,0.9485,True
+11409,he-IL,play,play_podcasts,בבקשה דלג על הפרק הבא של ההסכת,qa_factoid,0.8668,0.0002,False
+11417,he-IL,play,play_podcasts,תתחיל את הפרק הבא,play_radio,0.953,0.0349,False
+11418,he-IL,play,play_podcasts,נגני את הסכת האחרון של מישי הרמן,social_post,0.5858,0.0089,False
+11420,he-IL,play,play_podcasts,התחל לנגן פודקאסט הכי עדכני שלי,play_music,0.9989,0.0003,False
+11423,he-IL,play,play_podcasts,תחזור אחורה שלושים שניות,datetime_query,0.7772,0.0055,False
+11424,he-IL,play,play_podcasts,גלגלצ,qa_factoid,0.9515,0.0001,False
+11426,he-IL,lists,lists_query,הרשימה הנצפית ביותר,social_post,0.9521,0.0166,False
+11427,he-IL,play,play_podcasts,התחל חיות כיס,play_radio,0.5438,0.036,False
+11437,he-IL,play,play_podcasts,בבקשה נגן את הפודקאסט בשבילי,play_music,0.7812,0.0114,False
+11438,he-IL,play,play_podcasts,בבקשה לך לפרק הבא בפודקאסט,email_sendemail,0.412,0.0072,False
+11442,he-IL,play,play_podcasts,בבקשה נגן את הפודקאסט של רן לוי החדש ביותר,qa_factoid,0.2806,0.0218,False
+11451,he-IL,play,play_podcasts,אני רוצה להקשיב להסכת האחרון של שיר אחד,social_post,0.9984,0.0005,False
+11453,he-IL,play,play_podcasts,תתחיל פודקאסטים של חיות כיס,play_podcasts,0.9904,0.9904,True
+11455,he-IL,play,play_podcasts,זוז לחלק הבא,play_radio,0.3636,0.0208,False
+11458,he-IL,play,play_podcasts,המשך לפרק הבא בפודקאסט,email_query,0.6179,0.0477,False
+11459,he-IL,play,play_podcasts,תחזור לפרק האחרון בפודקסט זה,email_sendemail,0.3729,0.0131,False
+11460,he-IL,play,play_podcasts,אני רוצה לשמוע פודקאסט ספורט,play_podcasts,0.952,0.952,True
+11467,he-IL,play,play_podcasts,נגן את הפודקאסט הכי חדש של חיות כיס הזה,play_music,0.9266,0.0723,False
+11470,he-IL,play,play_podcasts,נגן פודקאסט מועדף שלי,recommendation_events,0.6934,0.0005,False
+11474,he-IL,play,play_podcasts,המשך את הפודקאסט סדרה,email_sendemail,0.8904,0.0154,False
+11476,he-IL,play,play_podcasts,נגן את הפודקאסט הקודם,play_music,0.6686,0.1643,False
+11483,he-IL,play,play_podcasts,התחל לנגן חיות כיס,play_music,0.999,0.0001,False
+11490,he-IL,play,play_podcasts,נגן תוכנית הבאה בפודקאסט,play_podcasts,0.4492,0.4492,True
+11502,he-IL,play,play_podcasts,כפתור הבא,play_radio,0.7078,0.0021,False
+11505,he-IL,play,play_podcasts,חזור על הפודקאסט האחרון שלי,calendar_remove,0.3198,0.0112,False
+11514,he-IL,play,play_podcasts,אולי נוכל לשמוע להגיב על כל הפודקאסטים,qa_factoid,0.993,0.0013,False
+11515,he-IL,play,play_podcasts,בוא נשמע את הפודקאסט שיר אחד,play_music,1.0,0.0,False
+11525,he-IL,play,play_podcasts,אני רוצה לראות אם הפודקאסט הבא זמין,recommendation_events,0.42,0.0154,False
+11529,he-IL,play,play_podcasts,היי נגן את רשימת הפודקאסטים המועדפים שלי,recommendation_events,0.9541,0.001,False
+11536,he-IL,play,play_podcasts,הוסף פודקאסט מועדפים לפלייליסט והתחל,social_post,0.7509,0.0013,False
+11539,he-IL,play,play_podcasts,התחל פודקאסט הבא,email_query,0.912,0.0001,False
+11546,he-IL,play,play_podcasts,נגני את כל שני משוגעים משבוע שעבר,news_query,0.2859,0.0223,False
+11554,he-IL,play,play_podcasts,אני רוצה שתנגן לי את הפודקאסט,play_music,1.0,0.0,False
+11563,he-IL,recommendation,recommendation_events,מה אני יכולה לעשות בתל אביב,transport_query,0.5944,0.0241,False
+11570,he-IL,recommendation,recommendation_events,מה קורה בסביבת העיר שלי,weather_query,0.9545,0.0007,False
+11582,he-IL,recommendation,recommendation_events,האם קורה משהו על הסרט חגיגה בסנוקר באזור כיכר דיזינגוף,social_post,0.6802,0.0162,False
+11585,he-IL,recommendation,recommendation_events,איזשהם אירועים תרבותיים בישראל,lists_query,0.0947,0.0449,False
+11598,he-IL,recommendation,recommendation_events,תעדכני אותי בבקשה על אירועים של תערוכות כלבים בעיר הולדתי,social_post,0.5718,0.0248,False
+11600,he-IL,recommendation,recommendation_events,באיזה סרט אני יכול לצפות הערב בתל אביב,weather_query,0.9901,0.0003,False
+11610,he-IL,recommendation,recommendation_events,תן לי את רשימת מופעי קרקס שמתקיימים בעיר עכשיו,lists_query,0.5769,0.0174,False
+11612,he-IL,recommendation,recommendation_events,איזה תערוכות נשק יש בישראל,qa_factoid,0.9999,0.0,False
+11616,he-IL,recommendation,recommendation_events,האם יש איזשהן אירועים שקורים בעיר התחתית הלילה,news_query,0.1773,0.1022,False
+11643,he-IL,recommendation,recommendation_events,אילו אירועים קורים בקרוב,recommendation_events,0.934,0.934,True
+11644,he-IL,recommendation,recommendation_events,הראה לי אירועים ביבנה,social_post,0.6391,0.2512,False
+11650,he-IL,recommendation,recommendation_events,גם נהגים צעירים וגם נהגים חדשים עושים תאונות לעתים קרובות יותר מנהגים אחרים כיוון שעדיין אין להם מגוון רחב של נסיונות שהם צריכים כדי לנהוג בבטחה בעצמם מחקר הראה שנסיון בנהיגה הוא גורם מרכזי בהפחתת תאונות דרכים ושהזמן הבטוח ביותר לנהגים צעירים הוא כאשר הם נוהגים תחת השגחה בזמן הלמידה,datetime_query,0.1449,0.0381,False
+11681,he-IL,recommendation,recommendation_events,ספר לי על המרתון באזור שלי,social_post,0.2976,0.1449,False
+11685,he-IL,recommendation,recommendation_events,אשמח שתעדכני אותי באירועים באזור שלנו,recommendation_events,0.7127,0.7127,True
+11705,he-IL,recommendation,recommendation_events,תראי לי תערוכת ציורים באזור המפרץ,lists_query,0.1875,0.0769,False
+11720,he-IL,recommendation,recommendation_events,שחיה,qa_factoid,0.3997,0.0177,False
+11767,he-IL,recommendation,recommendation_events,הולי איזה אירועים יש במוזיאון המדע בסוף השבוע הקרוב,play_podcasts,0.7657,0.0703,False
+11770,he-IL,recommendation,recommendation_events,איזשהם אירועים בסוף השבוע בדיזינגוף סנטר,social_post,0.4544,0.0948,False
+11782,he-IL,recommendation,recommendation_events,האם יש אירועים טובים באיזור שלי בסוף השבוע הזה,recommendation_events,0.9954,0.9954,True
+11798,he-IL,recommendation,recommendation_events,מהו האירוע הבא בספרייה,qa_factoid,0.9164,0.0032,False
+11827,he-IL,recommendation,recommendation_events,לאן אני יכול ללכת הלילה,email_query,0.5386,0.0054,False
+11839,he-IL,recommendation,recommendation_events,מה קורה באזור שלי,weather_query,0.916,0.0021,False
+11841,he-IL,recommendation,recommendation_events,יש ירידי אמנות שמתקיימים באזור הזה,qa_factoid,0.6728,0.0372,False
+11844,he-IL,recommendation,recommendation_events,קורה משהו מעניין באיזור המפרץ,social_post,0.4337,0.0413,False
+11845,he-IL,recommendation,recommendation_events,אולי תני לי אירועים מרגשים באיזור המפרץ,qa_factoid,0.5532,0.0257,False
+11860,he-IL,recommendation,recommendation_events,ספרי לי על האירועים המקומיים,social_post,0.736,0.0209,False
+11867,he-IL,recommendation,recommendation_events,האם יש מחר אירוע ספורט בטבריה,recommendation_events,0.3858,0.3858,True
+11875,he-IL,recommendation,recommendation_events,האם יש באזור הזה פסטיבל אוכל,cooking_recipe,0.9997,0.0,False
+11904,he-IL,recommendation,recommendation_events,מה קורה בסביבה בסוף השבוע הזה,weather_query,0.3734,0.0143,False
+11905,he-IL,recommendation,recommendation_events,הולי ספרי לי על פעילויות בסביבה בסוף השבוע הזה,social_post,0.7357,0.0489,False
+11911,he-IL,recommendation,recommendation_events,האם קורה משהו טוב כלשהו בסביבה בסוף השבוע הזה,weather_query,0.7347,0.0105,False
+11916,he-IL,recommendation,recommendation_events,אילו פארקי שעשועים קרובים יש,qa_factoid,0.6949,0.001,False
+11969,he-IL,recommendation,recommendation_events,האם קורה משהו מיוחד באזור,qa_factoid,0.8846,0.0002,False
+11999,he-IL,recommendation,recommendation_events,תגיד לי את כל האירועים של היום בעיר שלי,lists_query,0.7554,0.0181,False
+12008,he-IL,recommendation,recommendation_events,האם יש אירועים כייפים בלוס אנג׳לס היום,social_post,0.4983,0.2338,False
+12054,he-IL,recommendation,recommendation_events,מה קורה ברחבי העיר,weather_query,0.9465,0.0002,False
+12070,he-IL,recommendation,recommendation_events,מתי נפתח קניון עזריאלי,datetime_query,0.4522,0.0112,False
+12073,he-IL,recommendation,recommendation_events,התייחס לאירועים מקומיים נוכחיים,social_post,0.933,0.0058,False
+12098,he-IL,recommendation,recommendation_events,תראי לי מחזות זמר באזור,play_podcasts,0.8789,0.0046,False
+12189,he-IL,transport,transport_query,איך אני מגיע לתחנת הרכבת בשביל כרטיס,transport_query,0.9906,0.9906,True
+12240,he-IL,transport,transport_query,כמו מה התנועה בנסיעה שלי הביתה בחמש,weather_query,0.859,0.0023,False
+12245,he-IL,transport,transport_query,מתי הרכבת הבאה ליבנה מאשקלון,transport_query,0.6878,0.6878,True
+12251,he-IL,transport,transport_query,השג לי את זמני רכבת מקומית ליעד אשדוד,qa_factoid,0.554,0.38,False
+12252,he-IL,transport,transport_query,באיזה שעה רכבות לירושלים יוצאות,weather_query,0.9789,0.0007,False
+12261,he-IL,transport,transport_query,ספרי לי מה האפשרויות שלי עבור רכבת לחיפה ביום רביעי או חמישי הבא,transport_query,0.9894,0.9894,True
+12263,he-IL,transport,transport_query,קליפורניה,social_post,0.4278,0.0283,False
+12264,he-IL,transport,transport_query,תל אביב,weather_query,0.5209,0.0341,False
+12294,he-IL,transport,transport_query,תראי לי את לוח הזמנים של הרכבת אל מוזיאון תל אביב,weather_query,0.8308,0.0542,False
+12310,he-IL,transport,transport_query,תן לי את רשימת כרטיסי רכבת הזמינים מתל אביב לאשדוד,lists_query,0.653,0.3424,False
+12343,he-IL,transport,transport_query,תבדקי זמנים של רכבת עשרת אלפים שמונה מאות שמונים ושבע מתחנת מרכז ביום שלישי,datetime_query,0.9268,0.002,False
+12354,he-IL,transport,transport_query,תן לי את זמן הרכבת,qa_factoid,0.9704,0.0002,False
+12366,he-IL,transport,transport_query,יש רכבת בין לונדון לפריז ובאילו זמנים,qa_factoid,0.354,0.2252,False
+12367,he-IL,transport,transport_query,מה הדרל הטובה ביותר לאשדוד,qa_factoid,0.9996,0.0,False
+12376,he-IL,transport,transport_query,מה הרכבת הראשונה לירושלים,transport_query,0.9801,0.9801,True
+12392,he-IL,transport,transport_query,תגידי לי הכיוון של היום,weather_query,0.4135,0.0002,False
+12402,he-IL,transport,transport_query,מתי הרכבת הבאה לתל אביב יוצאת מפה,weather_query,0.9893,0.0053,False
+12419,he-IL,transport,transport_query,המסלול הכי מהיר לאשדוד,transport_query,0.936,0.936,True
+12430,he-IL,transport,transport_query,תגיד לי את זמן ההגעה של הרכבת לניו יורק,transport_query,0.8219,0.8219,True
+12436,he-IL,transport,transport_query,כמה זמן ייקח להגיע לשדה התעופה,transport_query,0.9944,0.9944,True
+12437,he-IL,transport,transport_query,מהי שעת הנסיעה לתיאטרון,weather_query,0.9565,0.0007,False
+12446,he-IL,transport,transport_query,תוכל לומר לי את הזמנים בהם הרכבת עוזבת את נתניה,weather_query,0.2923,0.0115,False
+12473,he-IL,transport,transport_query,איך אני מגיע הביתה מפה,email_query,0.3486,0.1364,False
+12526,he-IL,transport,transport_query,מה הדרך המהירה ביותר להגיע לארומה,transport_query,0.9985,0.9985,True
+12532,he-IL,transport,transport_query,תוביל את הדרך למקום,qa_factoid,0.6716,0.1552,False
+12581,he-IL,transport,transport_query,מתי יוצאת היום הרכבת,weather_query,0.9095,0.0013,False
+12582,he-IL,transport,transport_query,באיזה שעה הרכבת הראשונה מגיעה בבוקר,datetime_query,0.5582,0.0061,False
+12604,he-IL,transport,transport_query,איך אני מזמין כרטיס רכבת דרך האינטרנט,transport_query,0.9722,0.9722,True
+12618,he-IL,transport,transport_query,כמה עולה כרטיס רכבת הלוך ושוב לנסוע לתל אביב,transport_query,0.8478,0.8478,True
+12623,he-IL,transport,transport_query,יש לך את זמני הרכבת לחיפה,datetime_query,0.9425,0.001,False
+12629,he-IL,transport,transport_query,באיזה שעה רכבת ראשון יוצאת משיקגו,weather_query,0.9853,0.0001,False
+12634,he-IL,transport,transport_query,מתי תצא הרכבת הבאה ליבנה,transport_query,0.9874,0.9874,True
+12707,he-IL,transport,transport_query,חיפוש ניווט,iot_hue_lightoff,0.9933,0.0001,False
+12759,he-IL,transport,transport_query,זמן נסיעה ללוס אנג׳לס,datetime_query,0.9937,0.0005,False
+12797,he-IL,transport,transport_query,לוחות זמני רכבות בסיסת המיקום שלי,qa_factoid,0.9952,0.0023,False
+12800,he-IL,transport,transport_query,איפה הספרייה הציבורית,qa_factoid,0.8911,0.002,False
+12817,he-IL,transport,transport_query,איך אני מגיע לקניון,email_sendemail,0.4289,0.0131,False
+12818,he-IL,transport,transport_query,כמה עולה כרטיס רכבת לבאר שבע,qa_factoid,0.9958,0.0036,False
+12824,he-IL,transport,transport_query,רשום את כל זמני הרכבת ליפו,weather_query,0.4342,0.178,False
+12835,he-IL,transport,transport_query,באיזה שעה הרכבת הרכבת למודיעין יוצאת,weather_query,0.845,0.0002,False
+12839,he-IL,transport,transport_query,קח אותי לרוטשילד פינת הרצל,transport_query,0.1074,0.1074,True
+12851,he-IL,transport,transport_query,הראה לי כיווני דרך לבית שלי,qa_factoid,0.4295,0.0094,False
+12856,he-IL,transport,transport_query,כיוונים בבקשה,qa_factoid,0.9992,0.0,False
+12866,he-IL,transport,transport_query,מה הזמנים של אגד,lists_query,0.1361,0.0256,False
+12908,he-IL,transport,transport_query,מתי הרכבת מגיעה ליבנה,weather_query,0.9469,0.0189,False
+12930,he-IL,transport,transport_query,חפשי את המפה לחנויות קרובות אלי,social_post,0.9831,0.0003,False
+12932,he-IL,transport,transport_query,אולי אני צריך הוראות הגעה לרחוב הרצל,play_podcasts,0.833,0.0029,False
+12951,he-IL,qa,qa_factoid,מה הבניין הכי גבוה בעולם,qa_factoid,0.9992,0.9992,True
+12957,he-IL,qa,qa_definition,תגדיר לפרט,qa_factoid,0.9534,0.0049,False
+12961,he-IL,qa,qa_definition,תגדיר בבקשה משפטי,qa_factoid,0.9946,0.0002,False
+12963,he-IL,qa,qa_definition,מה ההגדרה של משפטי,qa_definition,0.9973,0.9973,True
+12972,he-IL,qa,qa_factoid,מה הפסגה הגבוהה בעולם,qa_factoid,0.9998,0.9998,True
+12982,he-IL,qa,qa_definition,מה זה כיסי אוויר,iot_hue_lightoff,0.8634,0.0101,False
+12986,he-IL,qa,qa_definition,תבדקי מה ההגדרה של קפריזי,qa_definition,0.9657,0.9657,True
+12999,he-IL,qa,qa_factoid,בת כמה שרית חדד,qa_factoid,0.9978,0.9978,True
+13016,he-IL,qa,qa_definition,חפש את ההגדרה של שגיאה,qa_definition,0.915,0.915,True
+13023,he-IL,cooking,cooking_recipe,הראה לי מתכונים,qa_factoid,0.9342,0.0001,False
+13069,he-IL,qa,qa_definition,מה ההגדרות של כתום,qa_factoid,0.6703,0.0083,False
+13074,he-IL,qa,qa_factoid,למה שחר חסון לא מצחיק,qa_factoid,0.6826,0.6826,True
+13077,he-IL,qa,qa_factoid,מתי יום ההולדת של רן דנקר,datetime_query,0.7843,0.0099,False
+13078,he-IL,qa,qa_factoid,תגיד לי מה הכתובת של אלי יצפאן,qa_factoid,1.0,1.0,True
+13099,he-IL,qa,qa_factoid,מי ראש הממשלה הנוכחי של בריטניה,qa_factoid,0.831,0.831,True
+13115,he-IL,qa,qa_factoid,מהי בירת ישראל,email_query,0.3912,0.0906,False
+13124,he-IL,qa,qa_factoid,מה גודל היקום,weather_query,0.3591,0.3269,False
+13135,he-IL,qa,qa_factoid,מהו תאריך הלידה של אקי אבני,qa_factoid,0.7666,0.7666,True
+13140,he-IL,qa,qa_definition,תסביר לי על הוריקן,qa_definition,0.2099,0.2099,True
+13154,he-IL,qa,qa_factoid,את יודעת מה מספר הטלפון של גילה שקד,qa_factoid,0.8038,0.8038,True
+13165,he-IL,qa,qa_definition,מה המשמעות של להתנדנד,qa_definition,0.7813,0.7813,True
+13166,he-IL,qa,qa_definition,תאיית ותגדיר התנדנד,qa_factoid,0.9769,0.0002,False
+13177,he-IL,calendar,calendar_set,הזכר לי לזוז כדי שלא תהיה עליה במשקל,cooking_recipe,0.4378,0.0011,False
+13178,he-IL,calendar,calendar_set,תזכיר לי ליצור קשר עם חברים ותיקים שלא דיברתי עימם שישה חודשים לפני שהם חולפים,email_sendemail,0.2996,0.0099,False
+13188,he-IL,news,news_query,ספרי לי איך מתקדמות תוצאות הבחירות באשדוד,qa_factoid,0.8477,0.0199,False
+13206,he-IL,qa,qa_definition,מיקום,qa_factoid,0.813,0.0057,False
+13215,he-IL,transport,transport_query,מה הדרך הכי מהירה לעבודה שלי בעיר התחתית בלי להכנס לפקק,transport_query,0.9894,0.9894,True
+13252,he-IL,qa,qa_factoid,מה היה הספר הראשון של דוד גרוסמן,email_query,0.87,0.0063,False
+13255,he-IL,qa,qa_factoid,תן לי מידע על יצחק רבין בבקשה,email_query,0.985,0.0003,False
+13283,he-IL,qa,qa_factoid,כמה כסף יצחק תשובה מרוויח,email_query,0.9998,0.0001,False
+13288,he-IL,qa,qa_definition,מה ההגדרה של מתמשך,qa_definition,0.9979,0.9979,True
+13297,he-IL,qa,qa_factoid,מי מפורסם,social_post,0.9999,0.0,False
+13298,he-IL,qa,qa_factoid,מה מפורסם עושה,cooking_recipe,0.848,0.0001,False
+13330,he-IL,qa,qa_factoid,מה הגודל של ראשתן גדול ראש,iot_hue_lightoff,0.9817,0.0081,False
+13361,he-IL,qa,qa_definition,מה ההגדרה של עמידה בזמנים,qa_definition,0.9954,0.9954,True
+13383,he-IL,qa,qa_factoid,לכמה מדינות יש בחוק גזר דין מוות,qa_factoid,0.3106,0.3106,True
+13400,he-IL,social,social_post,תשלחי הודעה מצחיקה לכל החברים שלי,social_post,0.998,0.998,True
+13439,he-IL,qa,qa_factoid,בת כמה בתיה גור,qa_factoid,0.9618,0.9618,True
+13457,he-IL,calendar,calendar_set,תגיד לי מתי עלי לצאת לאירוע מתוכנן כדי שאגיע בזמן,qa_factoid,0.2254,0.0345,False
+13473,he-IL,qa,qa_factoid,מתי ארצות הברית קיבלה עצמאות,qa_factoid,0.998,0.998,True
+13487,he-IL,qa,qa_factoid,אולי מהי בירת ישראל,qa_factoid,0.9998,0.9998,True
+13494,he-IL,qa,qa_definition,תני לי את ההגדרה של מוטיבציה,qa_factoid,0.8417,0.1523,False
+13506,he-IL,datetime,datetime_query,אתה יכול להגיד לי מה השעה,weather_query,0.9951,0.0023,False
+13513,he-IL,qa,qa_factoid,כמה רגליים יש לכלב,lists_query,0.3051,0.2784,False
+13516,he-IL,qa,qa_factoid,למה לוויתנים כאלה גדולים,iot_hue_lightoff,0.987,0.0121,False
+13546,he-IL,qa,qa_factoid,מה היה הסרט האחרון שאורי גבריאל שחק,qa_factoid,0.9738,0.9738,True
+13554,he-IL,qa,qa_factoid,מה הגובה של רן דנקר,qa_factoid,0.8136,0.8136,True
+13575,he-IL,qa,qa_factoid,מה היה הסרט האחרון שזה בפרס האקדמיה,qa_factoid,0.793,0.793,True
+13580,he-IL,qa,qa_factoid,כמה גבוה הר אוורסט,qa_factoid,0.8167,0.8167,True
+13591,he-IL,qa,qa_factoid,מה בירת מצרים,qa_factoid,0.9984,0.9984,True
+13592,he-IL,qa,qa_factoid,איפה ניו זילנד ממוקמת על המפה,email_query,0.9972,0.0001,False
+13604,he-IL,qa,qa_factoid,תגיד לי מאיפה סטיב ג'ובס,social_post,0.9369,0.0011,False
+13607,he-IL,qa,qa_factoid,תוכלי לאשר בבקשה האם לאונרדו נשוי,qa_factoid,0.9998,0.9998,True
+13616,he-IL,qa,qa_factoid,איפה רוב הסלבריטאים מבלים,social_post,0.9581,0.0282,False
+13619,he-IL,recommendation,recommendation_events,האם יש אירועים חינמיים באיזור שלי היום,recommendation_events,0.6765,0.6765,True
+13625,he-IL,qa,qa_definition,מה השולחן הגדול ביותר,qa_factoid,0.985,0.0003,False
+13636,he-IL,qa,qa_factoid,מתי יום ההולדת של ארנולד שוורצנגר,datetime_query,0.7189,0.0039,False
+13679,he-IL,qa,qa_factoid,את יכולה לומר לי כמה קיבות יש לפרה,lists_remove,0.8182,0.0877,False
+13681,he-IL,qa,qa_factoid,בכמה הצגות טוביה צפיר היה,social_post,0.9906,0.0017,False
+13683,he-IL,qa,qa_factoid,באיזה ספריי לשיער בנימין נתניהו משתמש,social_post,0.7387,0.0204,False
+13689,he-IL,qa,qa_definition,מה זה כיסא,qa_factoid,0.4441,0.4012,False
+13690,he-IL,qa,qa_factoid,מה הצבע של כיסאות,qa_factoid,0.992,0.992,True
+13693,he-IL,qa,qa_factoid,איפה זה המרידיאן הראשי,qa_factoid,0.9763,0.9763,True
+13705,he-IL,qa,qa_definition,מה היא מערכת פליטות אלקטרונית,qa_definition,0.5006,0.5006,True
+13706,he-IL,qa,qa_definition,תתאר רוטור,email_sendemail,0.9802,0.0,False
+13714,he-IL,qa,qa_definition,מה זה מנגו,qa_factoid,0.9319,0.0656,False
+13717,he-IL,qa,qa_factoid,האם באמת אתה יכול לראות את רוסיה מאלסקה,qa_factoid,0.9999,0.9999,True
+13758,he-IL,qa,qa_factoid,בת כמה נינט טייב,qa_factoid,1.0,1.0,True
+13761,he-IL,qa,qa_factoid,מה זה פארסק,qa_factoid,0.5421,0.5421,True
+13774,he-IL,qa,qa_factoid,מה המרחק של קליפורניה מג'ורג'יה,qa_factoid,0.9958,0.9958,True
+13777,he-IL,qa,qa_definition,תוכל לתאר כרטיס אשראי,transport_query,0.5874,0.0012,False
+13780,he-IL,qa,qa_factoid,עומרי כספי נשוי,qa_factoid,0.996,0.996,True
+13798,he-IL,qa,qa_factoid,כמה קילומטרים רבועים יש במדינה הממוצעת בכדור הארץ,qa_factoid,0.9457,0.9457,True
+13799,he-IL,qa,qa_definition,מה ההגדרה של כפוף,qa_definition,0.9469,0.9469,True
+13823,he-IL,qa,qa_factoid,מה המרחק לשמש,qa_factoid,0.9946,0.9946,True
+13853,he-IL,qa,qa_factoid,איפה בכדור הארץ יש הכי הרבה הרי געש,qa_factoid,0.7163,0.7163,True
+13854,he-IL,qa,qa_factoid,מתי אלביס מת,social_post,0.9751,0.0235,False
+13863,he-IL,qa,qa_definition,מה ההגדרה של הגיון,qa_definition,0.9995,0.9995,True
+13867,he-IL,qa,qa_factoid,איפה נמצא פארק חדרה,qa_definition,0.2991,0.1412,False
+13869,he-IL,qa,qa_factoid,בבקשה תביאי לי מיקום ומידע על הר הצופים,qa_factoid,0.4039,0.4039,True
+13871,he-IL,qa,qa_definition,איך היית מתאר יום הולדת שמח,social_post,0.3859,0.0067,False
+13881,he-IL,qa,qa_factoid,תני לי מידע על מייקל ג'קסון בבקשה,qa_factoid,0.8054,0.8054,True
+13888,he-IL,qa,qa_factoid,כמה מעלות יש ברמת גן שבישראל,iot_hue_lightoff,0.5845,0.0644,False
+13895,he-IL,qa,qa_factoid,את יכולה לספר לי על אייל ברקוביץ,social_post,0.9242,0.0037,False
+13900,he-IL,qa,qa_definition,ההגדרה של חיים,email_query,0.9824,0.0131,False
+13907,he-IL,qa,qa_definition,תגדיר נדהם,play_radio,0.8498,0.0008,False
+13908,he-IL,qa,qa_definition,אתה יכול להגיד לי מה המשמעות של נדהם,qa_definition,0.9801,0.9801,True
+13926,he-IL,qa,qa_factoid,מתי יום ההולדת של אהוד אשרי,calendar_remove,0.6031,0.0079,False
+13927,he-IL,qa,qa_factoid,כמה עומרי כספי שווה,qa_factoid,0.4211,0.4211,True
+13974,he-IL,qa,qa_factoid,איפה לאוס ממוקמת,email_query,0.9994,0.0,False
+13983,he-IL,qa,qa_definition,השלכות הסבל,qa_factoid,0.9289,0.0008,False
+13984,he-IL,qa,qa_definition,השלכות למעשים,qa_factoid,0.9847,0.0002,False
+13997,he-IL,qa,qa_factoid,כמה הבית הממוצע,qa_factoid,0.9868,0.9868,True
+14000,he-IL,qa,qa_definition,תתארי עצלן,qa_factoid,0.9941,0.0001,False
+14001,he-IL,qa,qa_factoid,תגידי לי את כל מה שאת יודעת על עצלנים,social_post,0.9973,0.0002,False
+14011,he-IL,qa,qa_factoid,מתי יום ההולדת של חוה אלברשטיין,datetime_query,0.3958,0.1852,False
+14015,he-IL,qa,qa_factoid,מה נקודות הציון של קו המשווה,iot_hue_lightoff,0.7839,0.1743,False
+14023,he-IL,qa,qa_definition,תאר גיהנום,social_post,0.98,0.0007,False
+14033,he-IL,qa,qa_factoid,תגיד לי מתי נתניהו נולד,datetime_query,0.9622,0.0258,False
+14038,he-IL,qa,qa_factoid,מה המיקום של מולדובה,lists_query,0.1409,0.13,False
+14040,he-IL,qa,qa_factoid,מה הגובה של האלק הוגן,qa_factoid,0.9996,0.9996,True
+14053,he-IL,qa,qa_factoid,באיזו שנה משה איבגי התחיל לשחק,qa_factoid,0.4021,0.4021,True
+14063,he-IL,qa,qa_factoid,מתי היה יום ההולדת של אלביס פרסלי,calendar_remove,0.7075,0.0063,False
+14083,he-IL,qa,qa_factoid,איפה ג'קי צ'אן גר,social_post,0.9995,0.0,False
+14096,he-IL,qa,qa_factoid,איפה הרי הגולן,qa_factoid,0.7504,0.7504,True
+14115,he-IL,qa,qa_definition,תן לי פרטים על חול סלעים,news_query,0.3545,0.0136,False
+14116,he-IL,qa,qa_definition,תאר חול סלעים,weather_query,0.7307,0.0095,False
+14117,he-IL,qa,qa_factoid,איפה ממוקמות הפירמידות,qa_factoid,0.786,0.786,True
+14118,he-IL,qa,qa_factoid,הצג פרטים גאוגרפים על פירמידות,qa_factoid,0.4122,0.4122,True
+14126,he-IL,qa,qa_factoid,הצג ביוגרפיה של שרית חדד,email_sendemail,0.9795,0.0003,False
+14138,he-IL,qa,qa_definition,בבקשה תאמר לי מהי ההגדרה למילה צילינדר,qa_definition,0.9995,0.9995,True
+14147,he-IL,qa,qa_definition,הגדר שמיכה,qa_factoid,0.9994,0.0004,False
+14150,he-IL,qa,qa_definition,מה זה נעלי קונברס,social_post,0.6366,0.3038,False
+14151,he-IL,qa,qa_factoid,איזה סוגי משקפי שמש נחשבים משקפי טייסים,qa_factoid,0.469,0.469,True
+14154,he-IL,qa,qa_factoid,אפריקה מידע,email_query,0.3954,0.0371,False
+14163,he-IL,qa,qa_factoid,חפש את המיקום,qa_factoid,0.6683,0.6683,True
+14169,he-IL,qa,qa_factoid,איפה אמל קלוני למדה,qa_factoid,0.9989,0.9989,True
+14170,he-IL,qa,qa_factoid,גלית גוטמן לובשת קונברס,social_post,0.6866,0.0396,False
+14179,he-IL,qa,qa_factoid,כמה רחוקה קנדה מהמיקום שלי,qa_factoid,0.8148,0.8148,True
+14214,he-IL,transport,transport_query,מצא את דרכי הנסיעה לאותו הדבר,transport_query,0.9962,0.9962,True
+14229,he-IL,qa,qa_factoid,באיזה סרטים מיכל ינאי שיחקה,qa_factoid,0.81,0.81,True
+14243,he-IL,qa,qa_factoid,פרטים על בן אדם,social_post,0.7412,0.0007,False
+14272,he-IL,qa,qa_definition,היי מה זה ספר,iot_hue_lightoff,0.22,0.1911,False
+14283,he-IL,qa,qa_factoid,ספר לי על ג'איפור,email_query,0.6689,0.0002,False
+14306,he-IL,qa,qa_factoid,הסבר את המיקום הגיאוגרפי של הודו,qa_definition,0.8164,0.0269,False
+14308,he-IL,qa,qa_factoid,מה השווי של ליאונרדו דיקאפריו,qa_factoid,0.9567,0.9567,True
+14316,he-IL,qa,qa_factoid,כמה גדולה אלסקה,qa_factoid,0.6421,0.6421,True
+14317,he-IL,qa,qa_factoid,מה הגודל של ארצות הברית,qa_factoid,0.8113,0.8113,True
+14323,he-IL,qa,qa_factoid,מה הצבע של פיטאיה,qa_factoid,0.9961,0.9961,True
+14330,he-IL,qa,qa_factoid,איפה סטיב ג'ובס נולד,email_query,0.9299,0.0027,False
+14347,he-IL,qa,qa_definition,מה זה היפותזה,qa_factoid,0.8303,0.1696,False
+14354,he-IL,qa,qa_factoid,מה התשובה ליקום,qa_factoid,0.9997,0.9997,True
+14355,he-IL,qa,qa_factoid,כמה קונכיות סאלי מכרה ליד החוף,lists_remove,0.3483,0.0253,False
+14370,he-IL,qa,qa_factoid,תגיד לי מה המקצוע של סלבריטי,qa_factoid,0.6523,0.6523,True
+14378,he-IL,qa,qa_definition,הגדרה של מהירות,lists_query,0.1566,0.0791,False
+14382,he-IL,qa,qa_factoid,מה הגודל של עזריאלי,qa_factoid,0.9884,0.9884,True
+14395,he-IL,qa,qa_factoid,מה הנקודה הכי עמוקה בעולם,qa_factoid,0.9954,0.9954,True
+14414,he-IL,qa,qa_definition,תאר כונן קשיח של מחשב,iot_hue_lightoff,0.9948,0.0003,False
+14417,he-IL,qa,qa_factoid,איזה אוקיינוס נמצא ביבשת שלנו,iot_hue_lightoff,0.4754,0.247,False
+14419,he-IL,qa,qa_factoid,האם יש לגל סרט חדש השנה,play_music,0.5784,0.2084,False
+14429,he-IL,qa,qa_definition,מה זה גלימה,qa_factoid,0.8585,0.0039,False
+14440,he-IL,qa,qa_factoid,מה עיר הבירה של ישראל,social_post,0.3542,0.113,False
+14442,he-IL,qa,qa_factoid,איפה זה פיג'י,qa_factoid,0.9241,0.9241,True
+14444,he-IL,qa,qa_factoid,מה היה הסרט הראשון של זאב רווח,qa_factoid,0.9545,0.9545,True
+14449,he-IL,qa,qa_factoid,לנועה קירל יש תינוק חדש,social_post,0.4918,0.204,False
+14457,he-IL,qa,qa_factoid,מצאי נתיב,qa_factoid,0.9922,0.9922,True
+14465,he-IL,transport,transport_query,הוראות לדיסנילנד,email_sendemail,0.7921,0.0028,False
+14490,he-IL,qa,qa_factoid,מתי נבנה תיאטרון הבימה,qa_factoid,0.8581,0.8581,True
+14498,he-IL,qa,qa_definition,תני לי את התיאור של סמארטפון,qa_factoid,0.91,0.0047,False
+14504,he-IL,qa,qa_factoid,אולי בכמה פגישות מהטמה גנדי השתתף,qa_factoid,0.5332,0.5332,True
+14505,he-IL,qa,qa_factoid,מי ראש הממשלה הנוכחי של ישראל,email_sendemail,0.9844,0.0019,False
+14508,he-IL,qa,qa_factoid,סכמי לי את הספר האחרון בסדרה סיפור על אש וקרח של ג'ורג' אר אר מרטין,qa_factoid,0.8075,0.8075,True
+14509,he-IL,qa,qa_factoid,איפה הבאבא סאלי נולד,qa_factoid,1.0,1.0,True
+14539,he-IL,qa,qa_factoid,מצא פרטים גיאוגרפיים על המקום הזה,qa_factoid,0.9673,0.9673,True
+14545,he-IL,qa,qa_factoid,תספר לי על המיקום של הודו,social_post,0.8783,0.0005,False
+14567,he-IL,qa,qa_factoid,מה הר הגעש הכי פעיל בכדור הארץ,qa_factoid,0.9359,0.9359,True
+14585,he-IL,qa,qa_factoid,כמה זמן ייקח להגיע מיפן לדרום קוריאה,qa_factoid,0.9065,0.9065,True
+14591,he-IL,qa,qa_definition,תני הסבר על מעגל טלוויזיה,qa_factoid,0.6787,0.0288,False
+14592,he-IL,qa,qa_definition,תביאי לי תיאור של מעגל חשמלי של סמארטפון,iot_hue_lightoff,0.1686,0.0468,False
+14597,he-IL,qa,qa_factoid,מהי אוכלוסיית ניו יורק,qa_factoid,0.6785,0.6785,True
+14601,he-IL,qa,qa_factoid,כמה שנים אברהם לינקולן היה נשיא ארצות הברית,qa_factoid,0.9137,0.9137,True
+14605,he-IL,qa,qa_factoid,נינט טייב עזב את רן דנקר,social_post,0.9844,0.0039,False
+14608,he-IL,qa,qa_factoid,על איזה סרט חדש איילת זורר עובדת,qa_factoid,0.9989,0.9989,True
+14622,he-IL,qa,qa_definition,תתארי מה זה כדור,qa_factoid,0.9861,0.0108,False
+14648,he-IL,cooking,cooking_recipe,מתכון בבקשה,qa_factoid,0.9999,0.0,False
+14653,he-IL,qa,qa_factoid,מהי אוכלוסיית ישראל,qa_factoid,0.6487,0.6487,True
+14661,he-IL,qa,qa_factoid,מה שנת הלידה של בנימין נתניהו,datetime_query,0.9875,0.004,False
+14668,he-IL,qa,qa_definition,תתארי מוצר xy,cooking_recipe,0.4384,0.0055,False
+14683,he-IL,qa,qa_factoid,מה התחביב של ביבי נתניהו,social_post,0.9319,0.0167,False
+14684,he-IL,qa,qa_factoid,מי ראש ממשלת רוסיה,qa_factoid,0.9976,0.9976,True
+14690,he-IL,qa,qa_definition,אוקיי גוגל מהו נשיא,qa_factoid,0.9709,0.0165,False
+14700,he-IL,qa,qa_definition,מה זה בדיוק סתימה לבנה,qa_factoid,0.478,0.4216,False
+14701,he-IL,qa,qa_definition,תאר את משחק הקלפים מלחמה,play_radio,0.2837,0.0255,False
+14705,he-IL,qa,qa_factoid,אוקיי גוגל איפה גל גדות גרה,iot_hue_lightoff,0.288,0.2771,False
+14706,he-IL,qa,qa_factoid,איפה גל גדות גרה,qa_factoid,0.9976,0.9976,True
+14746,he-IL,qa,qa_factoid,מהי בירת קזחסטן,qa_factoid,0.7713,0.7713,True
+14761,he-IL,qa,qa_definition,תן לי את ההגדרה של לנהוג בדוגמטיות,qa_definition,0.9948,0.9948,True
+14767,he-IL,qa,qa_definition,איך היית מתאר כדור,qa_factoid,0.5638,0.4319,False
+14770,he-IL,qa,qa_factoid,תגיד לי מה האוקיינוס הגדול בעולם,qa_factoid,0.7711,0.7711,True
+14787,he-IL,qa,qa_factoid,מה ההבדל בין לוח השנה הרומני והגריגוריאני,qa_factoid,0.5893,0.5893,True
+14791,he-IL,qa,qa_factoid,מי היצרן של הכיסא הזה,qa_factoid,0.9999,0.9999,True
+14794,he-IL,qa,qa_factoid,מה הנסיעה האהוב על אלביס,social_post,0.9937,0.0001,False
+14822,he-IL,qa,qa_factoid,להשוות באנשים,qa_factoid,0.3377,0.3377,True
+14838,he-IL,qa,qa_factoid,מהו מסנן טבעי והאם כדאי צבעים בהדרגה או בלי הדרגה ובנוסף מה עדיף בין הבורג האחד למרובע,qa_definition,0.9761,0.0021,False
+14857,he-IL,qa,qa_definition,את יכולה להסביר לי את המשמעות של מופקע בבקשה,qa_definition,0.9995,0.9995,True
+14877,he-IL,qa,qa_factoid,מה התנאים האקלימים באזור הזה,weather_query,0.7849,0.0831,False
+14879,he-IL,qa,qa_definition,המשמעות של,qa_definition,0.9998,0.9998,True
+14884,he-IL,qa,qa_factoid,מה המדינה הכי פחות מועדת לטורנדו בכל ארצות הברית,qa_factoid,0.9762,0.9762,True
+14889,he-IL,qa,qa_definition,בבקשה תאר את הפרויקט הזה למעני,qa_factoid,0.4104,0.037,False
+14891,he-IL,qa,qa_factoid,באיזה אזור האדם הזה מצטיין,qa_factoid,0.9854,0.9854,True
+14912,he-IL,qa,qa_factoid,מתי הנשיא יצחק שמיר נולד,social_post,0.3225,0.0301,False
+14917,he-IL,qa,qa_factoid,כשהאלבום הבא של עומר אדם יוצא,qa_factoid,0.9248,0.9248,True
+14933,he-IL,qa,qa_factoid,תן לי מידע על הגיאוגרפיה של הודו,qa_definition,0.9897,0.0014,False
+14939,he-IL,qa,qa_factoid,אני צריך קצת פרטים על ברוס לי תעזור בבקשה,qa_factoid,0.5922,0.5922,True
+14981,he-IL,qa,qa_definition,תיאור של אייפון שבע,qa_definition,0.9989,0.9989,True
+14994,he-IL,qa,qa_factoid,מהו הסרט הבא של משה איבגי,qa_factoid,0.9558,0.9558,True
+14995,he-IL,qa,qa_definition,מה המשמעות של מצב,qa_definition,0.9901,0.9901,True
+15020,he-IL,qa,qa_factoid,בן כמה אבי קושניר,qa_factoid,0.6883,0.6883,True
+15039,he-IL,qa,qa_factoid,אולי איפה מתחילים הרי הגולן,qa_factoid,0.9994,0.9994,True
+15055,he-IL,qa,qa_factoid,איזה קוטב קר יותר הדרומי או הצפוני,weather_query,0.9961,0.0003,False
+15056,he-IL,qa,qa_factoid,בן כמה החבר החדש של יעל בר זוהר,qa_factoid,0.3231,0.3231,True
+15062,he-IL,qa,qa_factoid,מידע על ליסה אן בבקשה,email_query,0.9477,0.0211,False
+15075,he-IL,qa,qa_factoid,סירי איפה האמריקנים הראשונים התיישבו,social_post,0.9206,0.0062,False
+15092,he-IL,qa,qa_definition,תתארי טלוויזיית סמסונג,iot_hue_lightoff,0.5384,0.0126,False
+15094,he-IL,qa,qa_factoid,חפש את מספר האנשים החיים בתל אביב,qa_factoid,0.2933,0.2933,True
+15095,he-IL,qa,qa_factoid,באיזה אזור ממוקמת אילת,qa_factoid,0.8963,0.8963,True
+15127,he-IL,qa,qa_definition,תגדיר רמקול,iot_hue_lightoff,0.5041,0.0068,False
+15155,he-IL,social,social_post,תוכל להעלות את הסלפי האחרון שלי בחשבון הפייסבוק שלי,iot_hue_lightoff,0.763,0.1604,False
+15166,he-IL,social,social_post,תפרסמי את העסק שלי בטוויטר,social_post,0.9924,0.9924,True
+15177,he-IL,social,social_post,בקשה צייץ מחדש את ההודעה הזו בטוויטר,email_sendemail,0.9003,0.0501,False
+15185,he-IL,social,social_post,איחולי יום הולדת,email_sendemail,0.9965,0.0002,False
+15186,he-IL,social,social_post,ברכות חתונה,email_query,0.1998,0.0212,False
+15187,he-IL,social,social_post,שתף בפוסט לחברים,social_post,1.0,1.0,True
+15197,he-IL,social,social_post,פרסם בטוויטר את הביקור שלי ליפן,social_post,0.9999,0.9999,True
+15208,he-IL,social,social_post,פרסם שלום לכולם בפייסבוק,social_post,0.9998,0.9998,True
+15213,he-IL,news,news_query,מה הטרנד עכשיו,social_post,0.4089,0.0265,False
+15214,he-IL,news,news_query,מה החדשות היום,news_query,0.9996,0.9996,True
+15216,he-IL,social,social_post,צייץ משהו למעני,iot_hue_lightoff,0.9285,0.0024,False
+15231,he-IL,social,social_post,התמונות שלי של הטיול לגואה עלו באינסטגרם,social_post,0.9981,0.9981,True
+15271,he-IL,social,social_post,פרסמי את זה כפוסט בפייסבוק שלי חחח,social_post,0.9999,0.9999,True
+15275,he-IL,social,social_post,פרסם שאני שמח בפייסבוק,social_post,0.9999,0.9999,True
+15276,he-IL,social,social_post,פרסם סטטוס חדש בפייסבוק האומר שאני נהנה ממזג האוויר הנחמד,social_post,0.9999,0.9999,True
+15289,he-IL,social,social_post,פרסם את ההודעה עכשיו,social_post,0.9948,0.9948,True
+15305,he-IL,calendar,calendar_query,האם יש לי איזשהן התראות מהמדיה החברתית,news_query,0.6159,0.0051,False
+15318,he-IL,social,social_post,אני רוצה להודות לכולם על ברכות יום ההולדת,email_sendemail,0.8847,0.0023,False
+15337,he-IL,social,social_post,פרסם את הסרטון הזה בפייסבוק,social_post,0.9994,0.9994,True
+15350,he-IL,social,social_post,אני לא מרוצה משופרסל עזור לי בבקשה,qa_factoid,0.8205,0.0043,False
+15358,he-IL,social,social_post,אולי צייצי לאפל שהאייפון שלי לא עובד,cooking_recipe,0.8873,0.0005,False
+15359,he-IL,social,social_post,תפתחי ציוץ לאפל שהסוללה של האייפון שלי תמיד ריקה,iot_hue_lightoff,0.4901,0.0091,False
+15364,he-IL,social,social_post,תוכל ליידע את אמאזון שכיסוי הסלולרי החדש הזה הוא זבל,qa_factoid,0.587,0.0012,False
+15382,he-IL,social,social_post,תוכל להתקשר לסמסונג ולהגיד שמכונת הכביסה שלי עולה באש,qa_factoid,0.6663,0.0046,False
+15387,he-IL,social,social_post,צייצי את המיקום הנוכחי שלי,lists_remove,0.4033,0.0061,False
+15399,he-IL,social,social_post,העבר תלונה לפלאפון על בעיות ברשת,email_sendemail,0.31,0.063,False
+15401,he-IL,social,social_post,פתח טוויטר שלח הודעה,social_post,0.8438,0.8438,True
+15402,he-IL,social,social_post,צייץ שהמוצר הזה עלוב,social_post,0.7976,0.7976,True
+15409,he-IL,social,social_post,תפתחי טוויטר תקלידי את התלונה שלי ותפרסמי במכון התקנים,email_query,0.3625,0.0213,False
+15413,he-IL,social,social_post,תשיגי לי בן אדם בהקדם האפשרי,qa_factoid,0.7511,0.0069,False
+15444,he-IL,social,social_post,שני דיסלייקים לשלמה ארצי בזאפה,email_sendemail,0.9847,0.0006,False
+15448,he-IL,social,social_post,שלח ציוץ על ענייני ווליום של סוני,email_sendemail,0.8603,0.0024,False
+15454,he-IL,social,social_post,צייץ לארקיע אני מאוד כועס שאיבדתם את המזוודות שלי,cooking_recipe,0.1013,0.0437,False
+15456,he-IL,social,social_post,אני רוצה לשלוח ציוץ לאל על אני כועס שאיבדתם את המזודות שלי,iot_hue_lightoff,0.221,0.2043,False
+15457,he-IL,social,social_post,הייתה לי בעיה עם ההמבורגר אתה יכול לצייץ להמבורג,play_radio,0.6799,0.0015,False
+15459,he-IL,social,social_post,תשלח תלונה בטוויטר,email_sendemail,1.0,0.0,False
+15464,he-IL,social,social_post,לא קיבלתי את המוצר בזמן שלח ציוץ למשביר לצרכן,qa_factoid,0.9784,0.001,False
+15467,he-IL,social,social_post,תגיד להוט שאני שונא אותם,social_post,0.6753,0.6753,True
+15472,he-IL,social,social_post,צייצי תלונה לחנות הספרים האינטרנטית,lists_remove,0.5052,0.0208,False
+15487,he-IL,social,social_post,צייץ אורבניקה על הניקיון של החנות שלהם,email_sendemail,0.611,0.1004,False
+15488,he-IL,social,social_post,תצייצי בבקשה שבשיפודי ציפורה חיכיתי למשלוח שלי ללא מספר לאשמח,email_sendemail,0.4082,0.0225,False
+15503,he-IL,social,social_post,ציוץ חדש לשירות הלקוחות,recommendation_events,0.2392,0.0823,False
+15508,he-IL,social,social_post,siri פתח טוויטר וצייץ בנשיא ארהב מבאס,email_sendemail,0.9996,0.0004,False
+15518,he-IL,social,social_post,שלחי תלונה דרך טוויטר לארומה,email_sendemail,0.9007,0.0246,False
+15532,he-IL,social,social_post,olly צייצי לשופרסל ותגידי להם ששירות הלקוחות שלהם נוראה,recommendation_events,0.4856,0.1696,False
+15546,he-IL,social,social_post,צייץ בקשר לפיצה קרה לפאפא ג'ונס,social_post,0.5846,0.5846,True
+15548,he-IL,social,social_post,צייץ תלונת סלולרי לסמסונג,email_sendemail,0.7665,0.0373,False
+15553,he-IL,social,social_post,השיבי ציוץ תגובה שלילי לשירות אמישראגז,qa_factoid,0.9785,0.0137,False
+15554,he-IL,social,social_post,בבקשה צייץ אל פדקס על שירות באיחור,email_sendemail,0.9994,0.0,False
+15556,he-IL,social,social_post,בואי נצייץ להתלונן,qa_factoid,0.484,0.0283,False
+15557,he-IL,social,social_post,אני צריכה שתצייצי תלונה,qa_factoid,0.5452,0.0088,False
+15560,he-IL,social,social_post,פרסמי פוסט בפייסבוק אני כועסת,social_post,1.0,1.0,True
+15565,he-IL,social,social_post,תוכלי לעדכן את אל על שאני אף פעם לא קונה יותר אצלהם,recommendation_events,0.4433,0.0041,False
+15587,he-IL,social,social_post,תפתחי גלריה ותפרסמי פוסט שם תמונה,social_post,0.9991,0.9991,True
+15592,he-IL,social,social_post,צייץ תלונה בזאפה,social_post,0.5738,0.5738,True
+15593,he-IL,social,social_post,צייץ תלונה בבורגר ראנץ,email_query,0.7259,0.2176,False
+15598,he-IL,social,social_post,תפתח סופר פארם ותמצא תלונות,recommendation_events,0.1605,0.04,False
+15610,he-IL,social,social_post,פרסם ציוץ בחשבון שלי לא מרוצה מתאגיד השידור,qa_factoid,0.5179,0.4738,False
+15618,he-IL,social,social_post,צייצי למשביר לצרכן ותגידי להם שהם גרועים,social_post,0.9913,0.9913,True
+15626,he-IL,social,social_post,תצייצי בבקשה תלונה להוט על שירות לקוחות גרוע,qa_factoid,0.9712,0.0014,False
+15634,he-IL,social,social_post,אוקיי גוגל צייץ איזה אידיוט הבעלים של תחנת הדלק,qa_definition,0.5758,0.2475,False
+15635,he-IL,social,social_post,צייץ למקדונלדס בקניון עופר יש שירות איום ונורא,social_post,0.337,0.337,True
+15647,he-IL,social,social_post,צייץ תלונה להט,play_music,0.9982,0.0002,False
+15651,he-IL,social,social_post,שלחי דוח לשירות לקוחות,email_sendemail,0.6688,0.0082,False
+15652,he-IL,social,social_post,עזרה בתלונה לשירות לקוחות,email_sendemail,0.9857,0.0005,False
+15655,he-IL,social,social_post,שלח ציוץ לשירות לקוחות של גוגל שהפלאפון נקסוס החדש שלי הפסיק לעבוד עזרה בבקשה,email_sendemail,0.9925,0.0003,False
+15656,he-IL,social,social_post,צייץ הודעה לקפה לנדוור שאני עדין מחכה למשלוח שלי,email_sendemail,0.9987,0.0,False
+15661,he-IL,social,social_post,פרסם את הכניסה האחרונה שלי לטוויטר בנאסא,social_post,0.999,0.999,True
+15670,he-IL,social,social_post,שלח ציוץ תלונה,email_sendemail,0.9937,0.0001,False
+15672,he-IL,social,social_post,צייץ לאפל בקשר לאי קבלת אייפון ששלחתי לתיקון בשבוע שעבר,iot_hue_lightoff,0.4571,0.0079,False
+15676,he-IL,social,social_post,בקשה הוסף תלונה בקשר לשירות בציוץ למקדולנדס,email_sendemail,0.6559,0.0104,False
+15686,he-IL,social,social_post,היי הפריט שלי שקניתי ממישהו לא תקין,qa_factoid,0.6106,0.0006,False
+15693,he-IL,social,social_post,צייץ שהיה חרק בחבילת השוקולד,social_post,0.76,0.76,True
+15700,he-IL,social,social_post,מוצרים שפג תוקפם בשוק האחרון,recommendation_events,0.9958,0.0001,False
+15703,he-IL,social,social_post,צייץ להודיס שנגמרים להם המידות מהר מדי,email_sendemail,0.627,0.1386,False
+15706,he-IL,social,social_post,צייץ ב,play_radio,0.9587,0.0028,False
+15707,he-IL,social,social_post,בוא נשלח ציוץ,calendar_remove,0.344,0.0542,False
+15708,he-IL,social,social_post,תשלח תלונה על השירות הראשון,qa_factoid,0.6184,0.0031,False
+15721,he-IL,social,social_post,תצייצי פרצוף נגעל לארומה,lists_remove,0.3645,0.0165,False
+15723,he-IL,social,social_post,עדכני סטטוס שמח בפייסבוק,social_post,0.9962,0.9962,True
+15731,he-IL,social,social_post,הולי צייצי הודעה לסלקום ותגידי להם שאני מקבל שירות גרוע,email_sendemail,0.4949,0.1007,False
+15732,he-IL,social,social_post,צייץ אל סמסונג ותגיד להם להפסיק להרוג אנשים עם המוצרים שלהם,social_post,0.9628,0.9628,True
+15736,he-IL,social,social_post,תשלח ביקורת שלילית על החברה,social_post,0.9842,0.9842,True
+15756,he-IL,email,email_sendemail,שלח בבקשה מייל לצוות שלי,email_sendemail,1.0,1.0,True
+15763,he-IL,email,email_query,בדוק מיילים חדשים,iot_hue_lightoff,0.6275,0.0033,False
+15765,he-IL,email,email_sendemail,ענה למייל של משה,email_sendemail,1.0,1.0,True
+15777,he-IL,email,email_query,תגיד לי אם יש לי מיילים חדשים,iot_hue_lightoff,0.5299,0.01,False
+15785,he-IL,email,email_query,יש חדש במייל שלי,email_sendemail,1.0,0.0,False
+15789,he-IL,email,email_query,הולי האם יש לי מיילים חדשים כלשהם,qa_factoid,0.746,0.0009,False
+15792,he-IL,calendar,calendar_query,עם מי אני נפגש היום,social_post,0.9979,0.0001,False
+15796,he-IL,email,email_sendemail,אימייל ליעל,email_sendemail,1.0,1.0,True
+15802,he-IL,email,email_sendemail,השב באימייל ליעקב שאני לא אבוא הערב,email_sendemail,1.0,1.0,True
+15809,he-IL,email,email_query,האם מאור כבר שלח לי אימיילים,iot_hue_lightoff,0.239,0.0146,False
+15825,he-IL,email,email_sendemail,השב לאבא תכתוב שאני אאחר,email_sendemail,0.971,0.971,True
+15828,he-IL,email,email_sendemail,יש כתובת אימייל חדשה להוסיף לאנשי הקשר,qa_factoid,0.9963,0.0035,False
+15829,he-IL,email,email_sendemail,לך לאנשי קשר והכנס כתובת דואר אלקטרוני חדשה,email_sendemail,0.9342,0.9342,True
+15839,he-IL,email,email_query,נושא,email_sendemail,0.8611,0.1179,False
+15841,he-IL,email,email_sendemail,תיצרי אימייל חדש לנועם,email_sendemail,0.739,0.739,True
+15845,he-IL,email,email_sendemail,איך זה הגיע אלינו,qa_factoid,0.4246,0.0093,False
+15847,he-IL,email,email_sendemail,איך אנחנו יכולים לקבל קרדיט,qa_factoid,0.9979,0.0001,False
+15849,he-IL,email,email_sendemail,של אימייל לבוס שלי,email_sendemail,0.9998,0.9998,True
+15857,he-IL,email,email_sendemail,אנא שלח לכתובת דואר אלקטרוני חדשה שרשומה,email_sendemail,1.0,1.0,True
+15862,he-IL,email,email_query,תבדקי אימיילים שהתקבלו מאמא,qa_factoid,0.7024,0.0084,False
+15880,he-IL,email,email_query,בבקשה בדוק את המיילים שלי,qa_factoid,0.942,0.0015,False
+15890,he-IL,email,email_query,יש מיילים חדשים מאבא שלי,qa_factoid,0.6678,0.0165,False
+15904,he-IL,email,email_query,בדוק את המיילים החדשים שלי ותגיד לי על מה הם,qa_definition,0.6531,0.0015,False
+15906,he-IL,email,email_sendemail,השב תודה ליוני,email_sendemail,0.9855,0.9855,True
+15911,he-IL,email,email_sendemail,תכיני אימייל לשושנה,email_sendemail,0.9992,0.9992,True
+15933,he-IL,email,email_query,איזה אימיילים חדשים יש לי,iot_hue_lightoff,0.8728,0.0023,False
+15942,he-IL,email,email_sendemail,תשלחי את האימייל הזה כתשובה למיילים האחרונים,email_sendemail,0.598,0.598,True
+15950,he-IL,email,email_sendemail,השב לאימייל מפלוני אלמוני,email_sendemail,1.0,1.0,True
+15957,he-IL,email,email_sendemail,תשלחי אימייל לעליזה לעדכן אותה שאנחנו בדרך,email_sendemail,1.0,1.0,True
+15963,he-IL,email,email_query,יש לי מיילים חדשים כל שהם מאברהם,qa_factoid,0.9994,0.0,False
+15966,he-IL,email,email_query,תשלחי תשובה אם זה מאוד חשוב,email_sendemail,0.9993,0.0002,False
+15968,he-IL,email,email_query,זה ממקום מאוד מוכר סמני את זה כחשוב,qa_factoid,0.9966,0.0001,False
+15970,he-IL,email,email_query,מה היה הנושא של המייל האחרון מאמא,email_sendemail,1.0,0.0,False
+15971,he-IL,email,email_query,מה היה האימייל האחרון מהעבודה,email_sendemail,1.0,0.0,False
+15994,he-IL,email,email_sendemail,תשלחי אימייל ליוסי ותשאלי אותו איזה שעה טובה לפגישה,email_sendemail,1.0,1.0,True
+15995,he-IL,email,email_sendemail,שלח מייל לקרן לגבי ישיבת תקציב,email_sendemail,1.0,1.0,True
+15998,he-IL,email,email_query,תבדקי את האימיילים שלי למשהו מרוני,iot_hue_lightoff,0.9851,0.0002,False
+16002,he-IL,email,email_query,בדוק אימייל חדש,iot_hue_lightoff,0.6928,0.0029,False
+16005,he-IL,email,email_sendemail,שלח אימייל ליוסף שטרודל ג'ימייל נקודה קום,email_sendemail,1.0,1.0,True
+16010,he-IL,email,email_query,תגיד לי האם יש לי איזשהן הודעות חדשות בתיבת הדואר הנכנס שלי,email_query,0.7888,0.7888,True
+16024,he-IL,email,email_sendemail,תשלחי אימייל לרונית שאני עסוקה מחר,email_sendemail,1.0,1.0,True
+16028,he-IL,email,email_sendemail,היי סירי תתחילי אימייל לחבר לעבודה,email_sendemail,0.9613,0.9613,True
+16029,he-IL,email,email_sendemail,בבקשה נסח אימייל חדש אל עמית לעבודה,email_sendemail,1.0,1.0,True
+16032,he-IL,email,email_sendemail,שלח אימייל לשושי לגבי הפגישה של מחר,email_sendemail,1.0,1.0,True
+16038,he-IL,email,email_query,הי האם יוסי שלח לי מייל לאחרונה,social_post,0.8249,0.0074,False
+16045,he-IL,email,email_sendemail,שלח במייל ליצחק את טבלת שעות הפתיחה במשרד,email_sendemail,1.0,1.0,True
+16048,he-IL,email,email_query,הראה לי אימיילים אחרונים,recommendation_events,0.4825,0.0232,False
+16049,he-IL,email,email_sendemail,אני רוצה לשלוח אימייל למשפחה שלי האם אתם צריכים עזרה,email_sendemail,1.0,1.0,True
+16050,he-IL,email,email_query,תבדקי ג'ימייל,email_sendemail,0.9997,0.0001,False
+16052,he-IL,email,email_query,תבדקי את אאוטלוק,qa_factoid,0.3424,0.056,False
+16056,he-IL,email,email_sendemail,השב לאימייל,email_sendemail,1.0,1.0,True
+16061,he-IL,email,email_query,האם קיבלתי איזשהם אימיילים בעשר הדקות האחרונות,recommendation_events,0.4893,0.0042,False
+16072,he-IL,email,email_sendemail,תשלחי אימייל לבוס שלי שאני אאחר היום בגלל מקרה חירום ושאני מצטער שאני מפסיד את הפגישה,email_sendemail,1.0,1.0,True
+16075,he-IL,email,email_query,הצג מיילים אחרונים מיונתן,iot_hue_lightoff,0.5186,0.0118,False
+16082,he-IL,email,email_sendemail,תשלחי אימייל לשמעון ותשאלי אותו איך הוא עכשיו האם אני יכול לעזור לו איכשהו,email_sendemail,1.0,1.0,True
+16089,he-IL,email,email_query,האם קיבלתי אימיילים חדשים בעשר הדקות האחרונות,qa_factoid,0.3278,0.0123,False
+16096,he-IL,email,email_query,האם שירה שלחה לי מיילים כלשהם,qa_factoid,0.9687,0.0003,False
+16098,he-IL,email,email_query,תבדקי מיילים שלא נקראו מענת,qa_factoid,0.5252,0.002,False
+16100,he-IL,email,email_query,בבקשה תבדוק את המייל שמכיל רשימה של משרות,email_query,0.9747,0.9747,True
+16103,he-IL,email,email_sendemail,תשלחי אימייל לאח שלי שאומר יום נישואין,email_sendemail,1.0,1.0,True
+16120,he-IL,email,email_sendemail,עזרה צריך לשלוח רק לדנה,email_sendemail,1.0,1.0,True
+16131,he-IL,email,email_sendemail,האימייל החדש הזה צריך להתווסף לאיש קשר שלי,email_sendemail,1.0,1.0,True
+16145,he-IL,email,email_query,הצג את המיילים האחרונים,recommendation_events,0.617,0.007,False
+16146,he-IL,news,news_query,תן לי עדכונים אחרונים,play_podcasts,0.4452,0.0109,False
+16148,he-IL,email,email_sendemail,השב במהירות אל יוסי אז בבקשה שלח מייל,email_sendemail,0.6099,0.6099,True
+16151,he-IL,email,email_query,בדוק לוח זמני פגישה במייל של היום,email_query,0.8695,0.8695,True
+16162,he-IL,email,email_sendemail,תשלחי תשובה,email_sendemail,1.0,1.0,True
+16163,he-IL,email,email_query,מי שלח לי אימייל אתמול,email_sendemail,0.788,0.0134,False
+16165,he-IL,email,email_query,האם שרון הגיבה,qa_factoid,1.0,0.0,False
+16166,he-IL,email,email_sendemail,השיבי לליאת שאני אהיה עסוק עם הפרויקטים במשך שלושת השבועות הבאים,email_sendemail,0.7505,0.7505,True
+16168,he-IL,email,email_query,האם הגיעו אימיילים כלשהם ברבע שעה האחרונה,social_post,0.6034,0.0051,False
+16170,he-IL,email,email_query,תפתחי דואר נכנס לבדוק אימיילים שלא נקראו,transport_query,0.4385,0.0287,False
+16178,he-IL,email,email_query,הגיע אימייל כלשהו היום מאמזון,email_sendemail,0.5556,0.0234,False
+16183,he-IL,email,email_query,בדוק אימייל לגבי העבודה שלי,email_sendemail,1.0,0.0,False
+16201,he-IL,email,email_sendemail,תיצרי אימייל חדש לבר ותשלחי הודעה עכשיו,email_sendemail,1.0,1.0,True
+16221,he-IL,email,email_sendemail,שלוף את המייל של קטי ותכתוב שאני אודיע לה,email_sendemail,1.0,1.0,True
+16245,he-IL,email,email_sendemail,תשלחי אימייל לדוד שטרודל איי או אל נקודה קום,email_sendemail,1.0,1.0,True
+16248,he-IL,email,email_query,תבדקי בבקשה את הדואר שלי,email_sendemail,1.0,0.0,False
+16263,he-IL,email,email_query,האם קיבלתי מייל חדש כלשהו מרוני,email_sendemail,1.0,0.0,False
+16266,he-IL,email,email_sendemail,תכתבי אימייל למשפחה שלי אני אוהב את כולכם,email_sendemail,1.0,1.0,True
+16271,he-IL,email,email_query,תרענני את תיבת הדואר הנכנס שלי ותעדכני אותי על מיילים חדשים,email_sendemail,0.9942,0.0026,False
+16275,he-IL,email,email_query,תיזום סקרים לאימייל חדש,iot_hue_lightoff,0.5762,0.0086,False
+16276,he-IL,email,email_query,האם יש לי מיילים חדשים,iot_hue_lightoff,0.9225,0.0016,False
+16280,he-IL,email,email_sendemail,תשלחי בבקשה אימייל לרחל שנמצאת ברשימה של משפחה וחברים,email_sendemail,1.0,1.0,True
+16282,he-IL,email,email_sendemail,שלח מייל לעוזרת שלי קלרה לבטל את כל הפגישות למחר,email_sendemail,1.0,1.0,True
+16296,he-IL,email,email_sendemail,שלח דואר אלקטרוני לאמא ליידע אותה שמסיבת יום ההולדת של שאול היא ביום ראשון,email_sendemail,1.0,1.0,True
+16297,he-IL,email,email_sendemail,שלח דואר אלקטרוני לגבי בכדי להגיד לו תודה,email_sendemail,1.0,1.0,True
+16314,he-IL,email,email_sendemail,תשלחי אימייל לרונית,email_sendemail,1.0,1.0,True
+16317,he-IL,email,email_query,האם קיבלתי אימיילים חדשים משרה,qa_factoid,0.9782,0.0005,False
+16318,he-IL,email,email_sendemail,הגב למייל,email_sendemail,1.0,1.0,True
+16320,he-IL,email,email_sendemail,אני רוצה להשיב למייל של בני לוי,email_sendemail,1.0,1.0,True
+16353,he-IL,email,email_query,תבדקי מיילים מסמי,iot_hue_lightoff,0.8828,0.0039,False
+16354,he-IL,email,email_query,תבדקי אם יש מיילים מהמעסיק שלי,qa_factoid,0.998,0.0,False
+16356,he-IL,email,email_query,האם שלחתי מייל לתום לגבי נושא שליטה בנשק,email_query,0.9382,0.9382,True
+16357,he-IL,email,email_query,האם תום שלחה לי אימייל על תחמושת,email_sendemail,0.9968,0.0001,False
+16361,he-IL,email,email_query,האם יש לי מיילים חדשים כלשהם מהשעה האחרונה,iot_hue_lightoff,0.5297,0.0205,False
+16373,he-IL,email,email_query,קיבלתי מיילים עם מספרי מעקב,lists_remove,0.3362,0.0309,False
+16375,he-IL,email,email_sendemail,תכיני אימייל לבני,email_sendemail,1.0,1.0,True
+16376,he-IL,email,email_sendemail,אלכסה תשלחי בבקשה אימייל לאמא,email_sendemail,1.0,1.0,True
+16377,he-IL,email,email_sendemail,שלח לאמא אימייל עכשיו,email_sendemail,1.0,1.0,True
+16384,he-IL,email,email_query,היי האם יש לי איזשהם אימיילים חדשים,iot_hue_lightoff,0.2421,0.0316,False
+16385,he-IL,email,email_query,קרא בבקשה מיילים חדשים,iot_hue_lightoff,0.383,0.0167,False
+16398,he-IL,email,email_sendemail,תשלחי בבקשה את האימייל ליוסף,email_sendemail,1.0,1.0,True
+16399,he-IL,email,email_query,האם קיבלתי איזשהם אימיילים חדשים,qa_factoid,0.444,0.0291,False
+16401,he-IL,email,email_sendemail,כתוב מייל לדנה היי מה את עושה היום,email_sendemail,1.0,1.0,True
+16402,he-IL,email,email_sendemail,שלח מייל לדנה לגבי תכניות היום,email_sendemail,0.8454,0.8454,True
+16406,he-IL,email,email_sendemail,אלכסה תפתחי אימייל חדש,iot_hue_lightoff,0.9761,0.016,False
+16410,he-IL,email,email_sendemail,צור הודעת אימייל,email_sendemail,1.0,1.0,True
+16413,he-IL,email,email_query,הצג את כל המיילים שנשלחו אליי מהמנהל שלי,recommendation_events,0.4842,0.009,False
+16419,he-IL,email,email_sendemail,תשלחי אימייל בבקשה לדוד יוני עם ההודעה כן אני יכולה לעשות זאת,email_sendemail,1.0,1.0,True
+16427,he-IL,email,email_query,כמה אימיילים חדשים קיבלתי היום,iot_hue_lightoff,0.6855,0.0039,False
+16430,he-IL,email,email_sendemail,תשלחי בבקשה אימייל לאמא ואבא ותשאלי מה שלומם,email_sendemail,1.0,1.0,True
+16437,he-IL,email,email_sendemail,תשלחי בבקשה את האימייל הזה לחבר שלי,email_sendemail,1.0,1.0,True
+16438,he-IL,email,email_sendemail,אני צריכה שהאימייל הזה יישלח עכשיו,email_sendemail,1.0,1.0,True
+16446,he-IL,email,email_query,בדוק מיילים אחרונים מהשולח הזה,iot_hue_lightoff,0.9968,0.0001,False
+16459,he-IL,email,email_sendemail,הודעה חדשה לדוארחדש ג'ימייל נקודה קום,email_sendemail,1.0,1.0,True
+16461,he-IL,email,email_query,האם יש לי מיילים כלשהם שלא נקראו,qa_factoid,0.9155,0.0013,False
+16467,he-IL,email,email_query,האם יש לי מיילים חדשים כלשהם מאשת הקשר שלי קרן,qa_factoid,0.6718,0.0165,False
+16471,he-IL,email,email_query,תבדקי אימיילים מיוני,qa_factoid,0.5796,0.0069,False
+16496,he-IL,email,email_sendemail,שלחי מייל תגובה,email_sendemail,1.0,1.0,True
+16501,he-IL,email,email_sendemail,תשלחי בבקשה אימייל לחברה שלי דליה מה שלומך,email_sendemail,1.0,1.0,True
+16506,he-IL,email,email_sendemail,תוסיפי כתובת מייל חדשה ותשלחי אימייל,email_sendemail,1.0,1.0,True
+16518,he-IL,email,email_sendemail,תוסיפי אימייל חדש ליוליה כהן,email_sendemail,1.0,1.0,True
+16519,he-IL,email,email_sendemail,אני צריך הוסיף אימייל חדש לאנשי הקשר שלי,email_sendemail,1.0,1.0,True
+16535,he-IL,email,email_sendemail,את יכולה לכתוב מייל לשולה,email_sendemail,1.0,1.0,True
+16559,he-IL,email,email_sendemail,שלח תגובה למיכאל עם התשובה ארבע מאות ושלושים מהמייל שהוא שלח הבוקר,email_sendemail,1.0,1.0,True
+16560,he-IL,email,email_sendemail,תגיבי לבוסים שלי במייל עם המלל שאני אהיה שם בארבע בערב,email_sendemail,1.0,1.0,True
+16563,he-IL,email,email_query,הולי תבדקי את האימיילים שלי,email_sendemail,0.894,0.0126,False
+16591,he-IL,email,email_sendemail,קיבלתי הרגע מייל מביל אני צריך לענות לו ברגע זה,email_sendemail,1.0,1.0,True
+16593,he-IL,email,email_sendemail,לאיזה אימייל מהאחרונים שצריך לענות במהירות האפשרית,email_sendemail,0.8434,0.8434,True
+16603,he-IL,email,email_query,מה נשלח במייל לפני חצי שעה מאמא,email_sendemail,1.0,0.0,False
+16605,he-IL,email,email_sendemail,תכתבי ותשלחי אימייל לבוס שלי,email_sendemail,1.0,1.0,True
+16609,he-IL,email,email_query,תגיד לי אם יש לי מיילים חדשים כלשהם,iot_hue_lightoff,0.3008,0.0155,False
+16613,he-IL,email,email_sendemail,שלח מייל למנהל שאומר שאני אאחר,email_sendemail,1.0,1.0,True
+16622,he-IL,email,email_sendemail,תשלחי אימייל לאיש קשר הזה,email_sendemail,1.0,1.0,True
+16624,he-IL,email,email_sendemail,אני צריך מייל שישלח לסלקום לגבי בעיות הקליטה שלי,email_sendemail,1.0,1.0,True
+16627,he-IL,email,email_query,תבדקי את המיילים העדכניים ביותר,recommendation_events,0.768,0.0044,False
+16630,he-IL,email,email_sendemail,תשלחי תשובה לאימייל האחרון,email_sendemail,1.0,1.0,True
+16642,he-IL,email,email_query,תבדקי אם הגיע משהו בדואר משלי,email_sendemail,1.0,0.0,False
+16648,he-IL,email,email_query,תבדקי עבורי בבקשה את האימיילים שלי,iot_hue_lightoff,0.8387,0.0046,False
+16652,he-IL,email,email_query,היה קובץ מצורף לאימייל של בן,email_sendemail,1.0,0.0,False
+16662,he-IL,email,email_query,האם קיבלתי מיילים חדשים כלשהם מדן,qa_factoid,0.7944,0.0034,False
+16666,he-IL,email,email_query,יש לי אימיילים נכנסים,qa_factoid,0.6519,0.0124,False
+16668,he-IL,email,email_query,איזשהם מיילים הגיעו מאז ארבע בבוקר היום,recommendation_events,0.9601,0.0005,False
+16669,he-IL,email,email_query,קיבלתי אימייל מיוסי,email_sendemail,1.0,0.0,False
+16672,he-IL,email,email_query,אבי יצר קשר,qa_factoid,0.7079,0.1238,False
+16677,he-IL,email,email_query,יש לי מיילים חדשים בתיבת הדואר הנכנס שלי היום,email_query,0.7794,0.7794,True
+16698,he-IL,email,email_sendemail,כתוב תשובה לאימייל של אמא שלי,email_sendemail,1.0,1.0,True
+16701,he-IL,email,email_sendemail,אני רוצה להשיב לאימייל של שרה,email_sendemail,1.0,1.0,True
+16703,he-IL,email,email_sendemail,אני רוצה להשיב למייל החדש ביותר,email_sendemail,1.0,1.0,True
+16712,he-IL,email,email_query,האם יש לי אימיילים חדשים כלשהם,iot_hue_lightoff,0.3888,0.011,False
+16713,he-IL,email,email_query,תבדוק את המיילים שלי בבקשה ותודיע לי אם קיימים אילו שהם מיילים חדשים,iot_hue_lightoff,0.5805,0.013,False
+16717,he-IL,email,email_sendemail,את יכולה לכתוב מייל ליוסי שאני בחופש,email_sendemail,1.0,1.0,True
+16719,he-IL,email,email_query,תעדכני אותי על כל אימייל חדש שאני מקבל,email_sendemail,0.9984,0.0015,False
+16729,he-IL,email,email_sendemail,תגיב למייל שלי מאסף ליידע אותו שאראה אותו מחר,email_sendemail,1.0,1.0,True
+16730,he-IL,email,email_query,בבקשה בדקי מייל חדש מאנדי,email_sendemail,1.0,0.0,False
+16733,he-IL,email,email_query,הראה לי את המיילים האחרונים מאמזון,recommendation_events,0.9987,0.0001,False
+16749,he-IL,email,email_query,יש לי מיילים חדשים היום,iot_hue_lightoff,0.9783,0.0005,False
+16754,he-IL,email,email_sendemail,תכתיב אימייל,email_sendemail,1.0,1.0,True
+16758,he-IL,email,email_query,איזשהו מייל חדש מאז הפעם האחרונה,email_sendemail,1.0,0.0,False
+16763,he-IL,email,email_query,אימיילים מעשר הדקות האחרונות,news_query,0.146,0.0409,False
+16765,he-IL,email,email_query,מה זמן הראיון מהאימייל של אתמול,qa_factoid,0.7116,0.0042,False
+16766,he-IL,email,email_query,בדקי אימייל חדש,email_sendemail,0.9965,0.0026,False
+16772,he-IL,email,email_query,הצג את כל האימיילים על הפריצה,social_post,0.9527,0.0076,False
+16780,he-IL,email,email_sendemail,שלח אימייל אל משה כהן שטרודל ג'ימייל נקודה קום,email_sendemail,1.0,1.0,True
+16791,he-IL,email,email_sendemail,תפתחי אימייל חדש אבל יש לי כתובת חדשה הפעם רני שטרודל דוגמא נקודה קום,email_sendemail,1.0,1.0,True
+16799,he-IL,email,email_query,האם יש לי מיילים כלשהם מאז הצהריים,lists_remove,0.2098,0.0196,False
+16801,he-IL,email,email_query,האם רותם שלחה לי אימייל כלשהו בקשר לנועם,email_sendemail,0.9995,0.0,False
+16813,he-IL,email,email_query,צפצפי כשאני מקבלת אימייל מיוסי,email_sendemail,0.5347,0.4626,False
+16814,he-IL,email,email_query,בדוק מיילים,qa_factoid,0.5037,0.0052,False
+16838,he-IL,email,email_sendemail,תוכלי לשלוח את האימייל לכתובת המייל החדשה,email_sendemail,0.9999,0.9999,True
+16851,he-IL,email,email_query,התראות דואר אלקטרוני,news_query,0.1926,0.0798,False
+16859,he-IL,email,email_query,מה אמרתי לשרה באימייל האחרון שלי,email_sendemail,0.9999,0.0001,False
+16872,he-IL,email,email_sendemail,תשלח דואר לשרון מאנשי הקשר שלי,email_sendemail,1.0,1.0,True
+16873,he-IL,email,email_sendemail,שלח מייל לנועה ליום ההולדת שלה,email_sendemail,1.0,1.0,True
+16880,he-IL,email,email_sendemail,שלח אימייל לדב לגבי פגישה,email_sendemail,1.0,1.0,True
+16883,he-IL,email,email_sendemail,שלח אימייל לאבי שאל מתי הוא יהיה בבית הלילה,email_sendemail,1.0,1.0,True
+16886,he-IL,email,email_sendemail,השב למייל הזה,email_sendemail,1.0,1.0,True
+16888,he-IL,email,email_query,מה לגבי דואר חדש,email_sendemail,1.0,0.0,False
+16890,he-IL,email,email_query,מה יש באימייל החדש,email_query,0.9927,0.9927,True
+16891,he-IL,email,email_sendemail,תשלחי למשה כהן אימייל,email_sendemail,1.0,1.0,True
+16892,he-IL,email,email_sendemail,תתחיל לכתוב אימייל לאושר כהן,email_query,0.512,0.481,False
+16899,he-IL,email,email_query,קיבלתי מיילים כלשהם מאת גיורא בכר,qa_factoid,0.8405,0.001,False
+16914,he-IL,email,email_query,האם יש לי מיילים מהשולח הזה,iot_hue_lightoff,0.9952,0.0026,False
+16916,he-IL,email,email_sendemail,הי תענה למייל שקיבלתי,email_sendemail,1.0,1.0,True
+16924,he-IL,email,email_query,בדוק את הג'ימייל שלי לדואר חדש,email_sendemail,1.0,0.0,False
+16930,he-IL,email,email_query,תראה את המייל האחרון,email_sendemail,1.0,0.0,False
+16938,he-IL,email,email_sendemail,השב למייל של משה,email_sendemail,1.0,1.0,True
+16944,he-IL,email,email_sendemail,תשלחי אימייל לסבתא ותגידי שאנחנו קופצים לביקור בשבת נתראה אז,email_sendemail,1.0,1.0,True
+16947,he-IL,email,email_sendemail,השב לאימייל,email_sendemail,1.0,1.0,True
+16955,he-IL,email,email_sendemail,שלחי אימייל לאיש קשר חדש,email_sendemail,1.0,1.0,True
+16956,he-IL,email,email_sendemail,תשלחי אימייל לאיש קשר חדש,email_sendemail,1.0,1.0,True
+16961,he-IL,email,email_sendemail,השיבי עם,qa_factoid,0.5859,0.0279,False
+16974,he-IL,email,email_query,בדקי את כל האימיילים מרשות המסים,email_query,0.6511,0.6511,True
+16987,he-IL,email,email_query,אימייל חדש כל שהוא מיוסי,email_sendemail,0.9972,0.0025,False
+16989,he-IL,email,email_sendemail,בבקשה השיבי למייל מיונתן אני צריך את הכסף עכשיו זה דחוף,email_sendemail,0.7346,0.7346,True
+16992,he-IL,email,email_query,האם ישראל ישראלי שלח לי אימייל,email_sendemail,0.7187,0.0107,False
+16995,he-IL,email,email_sendemail,תשלחי אימייל לגילה,email_sendemail,1.0,1.0,True
+17005,he-IL,email,email_query,תבדקי בבקשה דואר חדש,email_sendemail,1.0,0.0,False
+17011,he-IL,email,email_sendemail,תוכל לשלוח אימייל ל,email_sendemail,1.0,1.0,True
+17015,he-IL,email,email_sendemail,התחיל תגובה,qa_factoid,0.9711,0.0012,False
+17019,he-IL,email,email_sendemail,כתוב תשובה למייל האחרון,email_sendemail,1.0,1.0,True
+17020,he-IL,email,email_sendemail,השב לאימייל האחרון שהתקבל,email_sendemail,1.0,1.0,True
+17023,he-IL,email,email_sendemail,תשלחי אימייל לאמא ותשאלי איך מזג האוויר שם,email_sendemail,1.0,1.0,True
+17042,he-IL,email,email_sendemail,תכתבי אימייל לרותי שטרודל ג'ימייל נקודה קום,email_query,0.9736,0.0263,False
+17043,he-IL,email,email_sendemail,שלח דואר ליוסי שטרודל וואלה נקודה קום,email_sendemail,1.0,1.0,True
+17051,he-IL,email,email_query,תראי לי אימייל חדש,email_sendemail,0.3343,0.1408,False
+17052,he-IL,email,email_query,חפש ננדי,social_post,0.9994,0.0,False
+17069,he-IL,email,email_query,האם יש אימיילים חדשים כלשהם באאוטלוק,qa_factoid,0.8269,0.0019,False
+17075,he-IL,email,email_query,האם התקבלו איזשהם אימיילים חדשים היום אחרי ארבע אחר הצהריים,qa_factoid,0.8814,0.0014,False
+17081,he-IL,email,email_sendemail,תיצרי אימייל לעובד חברה שלי עם המסמכים האחרונים ששמרתי,email_sendemail,1.0,1.0,True
+17087,he-IL,email,email_query,תבדקי עבורי מיילים חדשים שהתקבלו משרה,iot_hue_lightoff,0.5886,0.0125,False
+17098,he-IL,email,email_query,הצג מיילים מהשעה האחרונה,play_podcasts,0.5029,0.0091,False
+17107,he-IL,email,email_query,בדקי אימיילים חדשים,recommendation_events,0.256,0.0312,False
+17108,he-IL,email,email_query,תראה לי את האימייל האחרון שלי,email_sendemail,1.0,0.0,False
+17113,he-IL,email,email_sendemail,צור אימייל אל יוליה,email_sendemail,1.0,1.0,True
+17115,he-IL,email,email_query,תקראי רשימה של אימיילים חדשים,lists_remove,0.8449,0.0037,False
+17116,he-IL,email,email_query,הצג רשימה של מיילים אחרונים,lists_remove,0.3814,0.0238,False
+17119,he-IL,email,email_query,תבדוק כל מייל של מאמזון,email_sendemail,0.9991,0.0009,False
+17123,he-IL,email,email_sendemail,אימייל חדש לסגן המנהל,email_sendemail,1.0,1.0,True
+17135,he-IL,email,email_query,אימיילים כלשהם על חדשות תאורה,iot_hue_lightoff,0.4342,0.0253,False
+17136,he-IL,email,email_query,הקראת המיילים החדשים שלי בבקשה,qa_factoid,0.8333,0.0022,False
+17138,he-IL,email,email_query,תעבירי בבקשה את ההודעות שלי שנקראו לארכיון,email_sendemail,0.6957,0.0014,False
+17142,he-IL,email,email_query,מה יש בתיבת הדואר הנכנס שלי מהפעם האחרונה שבדקתי,email_sendemail,0.5537,0.407,False
+17143,he-IL,email,email_sendemail,הי שלח את האימייל אל יוסי,email_sendemail,1.0,1.0,True
+17144,he-IL,email,email_query,הי בדוק אימייל,email_sendemail,1.0,0.0,False
+17147,he-IL,email,email_sendemail,השב למייל עם התוכן הבא שלום לך,email_sendemail,0.9996,0.9996,True
+17148,he-IL,email,email_sendemail,אלכסה השיבי למייל עם התוכן הבא שלום לך,email_sendemail,0.9988,0.9988,True
+17151,he-IL,email,email_sendemail,חבר שלי רון שלח לי הזמנה לבית החדש שקנה תגידי לו תודה בכתובת המייל שלו,email_sendemail,1.0,1.0,True
+17156,he-IL,email,email_query,תבדקי בדואר שלי אם יש לי אימייל חדש כלשהו מגיא,email_sendemail,1.0,0.0,False
+17157,he-IL,email,email_query,יש לי דואר אלקטרוני חדש כלשהו מגיא,email_sendemail,0.998,0.0004,False
+17170,he-IL,email,email_query,התריאי כשיהושוע שולח לי מייל,email_sendemail,1.0,0.0,False
+17179,he-IL,email,email_query,האם יוסי שלח לי אימיילים,social_post,0.9988,0.0,False
