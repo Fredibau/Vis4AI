@@ -1,0 +1,25 @@
+{
+    "team_name": "The Gradient Gang",
+    "students": [
+        {
+            "first_name": "Frederik",
+            "last_name": "Bauer",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Benjamin",
+            "last_name": "Levi",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Dominika",
+            "last_name": "Ignatowicz",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Max",
+            "last_name": "Schubert",
+            "workload": 0.25
+        }
+    ]
+}

@@ -1,6 +1,6 @@
 # Phase I – Pair comparison
 
-Pair A (AI-aided): [notebook](pair_A_ai/phase1_initial_vis.ipynb), [AI record](pair_A_ai/ai_interaction_record.md) · Pair B (human-only): [script](pair_B_human/vis4ai_phase1.py), [notebook](pair_B_human/phase1_vis.ipynb)
+Pair A (AI-aided): [notebook](pair_A_ai/phase1_initial_vis.ipynb), [AI record](../ai-interactions/phase1_pair_A.md) · Pair B (human-only): [script](pair_B_human/vis4ai_phase1.py), [notebook](pair_B_human/phase1_vis.ipynb)
 
 ## Findings unique to each pair
 

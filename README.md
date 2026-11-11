@@ -4,10 +4,10 @@
 
 | Student ID | Name | Pair |
 |---|---|---|
-| K11920581 | _add your name_ | |
-| K52210093 | _add your name_ | |
-| K12522555 | _add your name_ | |
-| K12117401 | Frederik Bauer | |
+| K11920581 | Max Schubert | A |
+| K52210093 | Benjamin Levi | B |
+| K12522555 | Dominika Ignatowicz | A |
+| K12117401 | Frederik Bauer | B |
 
 Does a model make the same decision regardless of language?
 We classify MASSIVE utterances (v1.1: 52 locales, identical labels) with **Laya Multilingual** (mmBERT-based, pretrained, no fine-tuning).
@@ -37,7 +37,7 @@ from src.model import load_model       # laya agent: agent.predict(state, questi
 | `final/` | slide deck + final presentation |
 
 Each pair keeps its own notebooks, scripts and figures inside its own folder.
-The `ai_interaction_record.md` file sits in the folder of whichever pair is AI-aided in that phase.
+AI interaction records for both phases are in `ai-interactions/`; the Phase I reflection is in `ai_reflection_midpoint.md`.
 
 Model outputs for all 52 languages (20 most common intents, without general_quirky) are already in `data/processed/` (`predictions.csv`, `intents.txt`), so you don't need to rerun the model. They were made with `src/run_all.py` (~2.5 h on CPU).
 

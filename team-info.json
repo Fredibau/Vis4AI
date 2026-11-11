@@ -1,0 +1,33 @@
+{
+    "team_name": "The Gradient Gang",
+    "students": [
+        {
+            "student_id": "k12117401",
+            "first_name": "Frederik",
+            "last_name": "Bauer",
+            "email": "frederik.matthias.bauer@gmail.com",
+            "github_user": "Fredibau"
+        },
+        {
+            "student_id": "k52210093",
+            "first_name": "Benjamin",
+            "last_name": "Levi",
+            "email": "Binyaminlevi674@gmail.com",
+            "github_user": "TODO"
+        },
+        {
+            "student_id": "k12522555",
+            "first_name": "Dominika",
+            "last_name": "Ignatowicz",
+            "email": "TODO",
+            "github_user": "domignat"
+        },
+        {
+            "student_id": "k11920581",
+            "first_name": "Max",
+            "last_name": "Schubert",
+            "email": "max.schubert1@gmx.at",
+            "github_user": "TODO"
+        }
+    ]
+}
